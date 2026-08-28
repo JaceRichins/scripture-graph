@@ -17,12 +17,20 @@ Scripture: [[Leviticus 24]] · My notes: [[Leviticus 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+Leviticus 24 joins recurring sanctuary service with a difficult legal narrative. Verses 1–9 describe light and bread continually maintained before the LORD; verses 10–23 recount blasphemy, consultation of the LORD, a judicial ruling, and its execution. Both parts concern the ordering of Israel's life before God: the first through [[Temples]], [[Priesthood]], and the [[Sabbath Day]], and the second through speech, injury, restitution, and public law.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Lamps before the LORD (vv. 1–4):** Israel supplies pure beaten olive oil, and Aaron tends the lamps from evening until morning.
+
+2. **Bread before the LORD (vv. 5–9):** Twelve cakes stand in two rows with frankincense. The arrangement is renewed every Sabbath, and the bread becomes a most-holy priestly portion.
+
+3. **The unresolved offense (vv. 10–12):** A man of mixed Israelite and Egyptian parentage fights, blasphemes, and is detained while the community awaits the LORD's will.
+
+4. **Ruling and general law (vv. 13–22):** The sentence for blasphemy expands into rules about homicide, animals, bodily injury, restitution, and one law for stranger and native.
+
+5. **Execution (v. 23):** Israel carries out the ruling, closing the narrative with the familiar obedience formula.
 <!-- SG:END structure -->
 
 ## People
@@ -54,13 +62,22 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Law of Moses]]
+- [[Sabbath Day]]
+- [[Priesthood]]
+- [[Covenants]]
+- [[Government and Laws]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents worship as sustained covenant service rather than a single event. Oil is supplied, lamps are tended, bread is arranged each Sabbath, and priests consume the holy portion under continuing statutes. This recurring order connects [[Covenants]], [[Obedience]], [[Sabbath Day]], and [[Priesthood]].
+
+The legal section grounds uniform law in the declaration, "I am the LORD your God" (v. 22). Equal liability for stranger and native is therefore presented as an implication of divine rule. That is a significant principle of the [[Law of Moses]], although it should not be expanded into a claim that every social distinction in ancient Israel disappeared.
+
+The chapter's penalties also demand morally serious reading. It presents blasphemy as a capital offense within Israel's covenant order. Describing that textual theology accurately does not by itself answer whether such a penalty should govern a modern pluralistic society.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -75,25 +92,47 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated word "pure" links the oil, candlestick, table, and frankincense (vv. 2, 4, 6–7). Repetition of "continually," together with "for ever," "everlasting," and "perpetual," emphasizes durable, regularly renewed service (vv. 2–4, 8–9). Because the lamps are explicitly tended "from the evening unto the morning," "continually" here can describe an enduring recurring obligation rather than requiring that every individual lamp burn at every instant.
+
+The injury formula moves from a general principle—"as he hath done, so shall it be done to him"—to memorable examples: breach, eye, and tooth (vv. 19–20). Its clearest function in this context is proportional correspondence. The wording alone does not resolve the historical debate over literal bodily punishment versus monetary compensation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter moves from recurring sanctuary regulations to a particular crisis, expands that case into general laws, and then returns to the offender's execution. The notice of the offender's Israelite mother and Egyptian father may help prepare for the declaration of one law for stranger and native, but the text does not classify him explicitly or explain the ancestry notice's function.
+
+The juxtaposition may also invite a contrast between maintaining holy things before the LORD and profaning the LORD's name. That reading is suggestive rather than certain: compilation history, broad concern with holiness, or the placement of a case narrative among legal materials could also explain the arrangement. [[Numbers 15]] provides a useful parallel involving custody pending divine instruction, but similarity alone does not establish literary dependence or date of composition.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Explicit Legal Formulation
+> Leviticus 24 explicitly applies one legal standard to the stranger and the native. The repeated inclusion of the stranger is strong textual evidence for equal liability under the laws discussed here, including the blasphemy rule.
+> — strength 1.0 · confidence 1.0 · Explicit legal formulation; carefully bounded · [[Explicit Legal Formulation in Leviticus 24|full dossier]]
+
+> [!evidence] Explicit Textual Legal Principle
+> Leviticus 24 provides strong textual evidence that, for the offenses governed by this passage, resident outsiders and native Israelites were formally subject to the same stated law.
+> — strength 1.0 · confidence 1.0 · Strong textual evidence; scope responsibly limited · [[Explicit Textual Legal Principle in Leviticus 24|full dossier]]
+
+> [!evidence] Internal Narrative Evidence
+> The accused is held in custody while the community awaits the LORD's disclosed decision. Within the narrative's own presentation, this is strong evidence that the sentence is represented as a revealed ruling rather than as Moses' immediate personal reaction.
+> — strength 0.9 · confidence 1.0 · Strong internal narrative evidence · [[Internal Narrative Evidence in Leviticus 24|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrator name Shelomith and Dibri but leave the offender unnamed?
+
+- Does custody in verse 12 mean that the prohibition was known but its penalty was not, or that the entire application required revelation?
+
+- What does laying hands on the offender signify here: witness identification, acceptance of responsibility for truthful testimony, transfer of some burden, or another function?
+
+- How does "one manner of law" in verse 22 relate to other distinctions between native Israelites and resident aliens?
+
+- How should readers distinguish the proportional principle in verses 19–20 from the separate historical question of whether the penalty was literal or compensatory?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the lamp instructions with [[Exodus 27]] and the sacred table and bread with [[Exodus 25]]. [[Leviticus 2]] provides relevant context for frankincense as a memorial portion of a grain offering. For the injury formula, compare [[Exodus 21]] and [[Deuteronomy 19]]. [[Numbers 15]] contains a close narrative parallel involving detention pending divine instruction, followed by execution outside the camp. [[Matthew 5]] invokes the shared eye-for-eye formula while teaching disciples about responses to personal injury; its wording does not establish Leviticus, rather than Exodus or Deuteronomy, as its exclusive source.
 <!-- SG:END further-study -->
