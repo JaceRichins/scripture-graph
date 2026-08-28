@@ -181,9 +181,10 @@ def context_markdown(c: dict) -> str:
 
 def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
                     schema_name: str, timeout: int, ws: Path,
-                    context: dict | None) -> tuple[dict | None, dict]:
+                    context: dict | None, normalize=None) -> tuple[dict | None, dict]:
     """Run provider, parse+validate JSON, retry once on failure.
-    Returns (obj | None, stats)."""
+    Returns (obj | None, stats). `normalize` (optional) deterministically
+    repairs near-miss shapes BEFORE validation — cheaper than a model retry."""
     stats = {"provider": provider.name, "role": role, "cost_usd": 0.0, "calls": 0}
     attempt_prompt = prompt
     last_err = ""
@@ -200,7 +201,10 @@ def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
         (ws / f"{role}_{provider.name}_raw_{attempt}.txt").write_text(
             r.text, encoding="utf-8", errors="replace")
         try:
-            obj = schemas.parse_and_validate(r.text, schema_name)
+            obj = schemas.extract_json(r.text)
+            if normalize is not None:
+                obj = normalize(obj)
+            schemas.validate(obj, schema_name)
             return obj, stats
         except schemas.SchemaError as e:
             last_err = str(e)

@@ -142,6 +142,46 @@ def test_vtt_to_text_keeps_timestamps():
     assert out == "[00:12:35] Alma remembered his father's words."
 
 
+def test_normalize_analysis_repairs_real_near_misses():
+    """Shapes observed from the live codex run on 2026-08-28."""
+    from scripturegraph.agents import schemas
+    from scripturegraph.secondary.evaluate import normalize_analysis
+    raw = {
+        "episode_quality": 42, "novelty": 12, "relevance": 50,
+        "summary": "s" * 3000,                       # over maxLength
+        "verdict": "maybe",                           # invalid → skip
+        "verdict_reason": "r" * 900,                  # over maxLength
+        "guests": [{"name": "Dr. X", "credentials": ["Opera singer"],  # list
+                    "expertise": "music"}],           # string not list
+        "claims": [
+            {"text": "t" * 900, "claim_type": "experiential"},   # invented enum
+            {"text": "ok", "claim_type": "cultural", "confidence": "certain"},
+        ],
+        "references": [
+            {"title": None},                          # unusable → dropped
+            {"title": "Real Book"},                   # missing kind → document
+            {"kind": "podcast", "title": "X"},        # invalid kind → document
+        ],
+        "segments": [
+            {"label": "L", "summary": "S",
+             "links": [f"Psalm {i}" for i in range(1, 15)]},      # too many
+            {"summary": "only summary"},              # label derived
+            {"links": ["x"]},                         # no text at all → dropped
+        ],
+        "scriptures": ["Alma 36" + "x" * 100],        # item over maxLength
+    }
+    obj = normalize_analysis(raw)
+    schemas.validate(obj, "sec_item_analysis")        # must not raise
+    assert obj["verdict"] == "skip"
+    assert obj["guests"][0]["credentials"] == "Opera singer"
+    assert obj["claims"][0]["claim_type"] == "other"
+    assert obj["claims"][1]["confidence"] == "low"
+    assert [r["kind"] for r in obj["references"]] == ["document", "document"]
+    assert len(obj["segments"]) == 2
+    assert len(obj["segments"][0]["links"]) == 8
+    assert obj["segments"][1]["label"] == "only summary"
+
+
 # ------------------------------------------------- ingestion + vault output
 
 ANALYSIS = {

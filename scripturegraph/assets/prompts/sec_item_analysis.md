@@ -60,5 +60,15 @@ material should be ingested.
 - scriptures: list references discussed (e.g. "Alma 36", "1 Nephi 3:7").
 - topics/people/places/events: names as discussed, singular canonical form.
 
+## Exact field shapes (violations are rejected)
+
+- claims[].claim_type MUST be one of: historical, textual, doctrinal,
+  linguistic, archaeological, scientific, other. Anything else (cultural,
+  experiential, interpretive, medical, …) → use "other".
+- references[].kind MUST be one of: book, article, document, lecture,
+  website, primary-source — and title is required.
+- guests[].credentials is a single string, never an array.
+- claims[].confidence: low | medium | high.
+
 Output ONLY a JSON object matching the SecondaryItemAnalysis schema. No prose
 outside the JSON.
