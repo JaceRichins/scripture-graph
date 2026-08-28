@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 17 — My Study
 
+[[Deuteronomy 17 (Annotated)|Annotated view]] · [[Deuteronomy 17|Plain text]] · [[Deuteronomy 17 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 17]]

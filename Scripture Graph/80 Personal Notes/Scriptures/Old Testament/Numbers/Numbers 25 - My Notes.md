@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 25 — My Study
 
+[[Numbers 25 (Annotated)|Annotated view]] · [[Numbers 25|Plain text]] · [[Numbers 25 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 25]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 3 — My Study
 
+[[Leviticus 3 (Annotated)|Annotated view]] · [[Leviticus 3|Plain text]] · [[Leviticus 3 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 3]]

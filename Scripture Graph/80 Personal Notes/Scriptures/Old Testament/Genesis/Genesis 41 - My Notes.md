@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 41 — My Study
 
+[[Genesis 41 (Annotated)|Annotated view]] · [[Genesis 41|Plain text]] · [[Genesis 41 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 41]]

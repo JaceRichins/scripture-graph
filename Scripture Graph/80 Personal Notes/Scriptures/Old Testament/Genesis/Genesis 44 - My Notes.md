@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 44 — My Study
 
+[[Genesis 44 (Annotated)|Annotated view]] · [[Genesis 44|Plain text]] · [[Genesis 44 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 44]]

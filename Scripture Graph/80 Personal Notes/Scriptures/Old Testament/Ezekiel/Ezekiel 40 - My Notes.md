@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 40 — My Study
 
+[[Ezekiel 40 (Annotated)|Annotated view]] · [[Ezekiel 40|Plain text]] · [[Ezekiel 40 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 40]]

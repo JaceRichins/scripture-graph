@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 10 — My Study
 
+[[Numbers 10 (Annotated)|Annotated view]] · [[Numbers 10|Plain text]] · [[Numbers 10 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 10]]

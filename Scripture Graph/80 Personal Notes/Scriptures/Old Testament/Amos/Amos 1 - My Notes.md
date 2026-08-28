@@ -12,6 +12,8 @@ cssclasses:
 
 # Amos 1 — My Study
 
+[[Amos 1 (Annotated)|Annotated view]] · [[Amos 1|Plain text]] · [[Amos 1 - Study Guide|Study guide]] · [[Amos]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Amos 1]]

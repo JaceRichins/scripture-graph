@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 16 — My Study
 
+[[Joshua 16 (Annotated)|Annotated view]] · [[Joshua 16|Plain text]] · [[Joshua 16 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 16]]

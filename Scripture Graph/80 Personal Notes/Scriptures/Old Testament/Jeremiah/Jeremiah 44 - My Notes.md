@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 44 — My Study
 
+[[Jeremiah 44 (Annotated)|Annotated view]] · [[Jeremiah 44|Plain text]] · [[Jeremiah 44 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 44]]

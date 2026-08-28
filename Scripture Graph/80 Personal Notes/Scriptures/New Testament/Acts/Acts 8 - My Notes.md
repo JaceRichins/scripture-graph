@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 8 — My Study
 
+[[Acts 8 (Annotated)|Annotated view]] · [[Acts 8|Plain text]] · [[Acts 8 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 8]]

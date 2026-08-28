@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 35 — My Study
 
+[[Genesis 35 (Annotated)|Annotated view]] · [[Genesis 35|Plain text]] · [[Genesis 35 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 35]]

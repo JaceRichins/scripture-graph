@@ -12,6 +12,8 @@ cssclasses:
 
 # John 5 — My Study
 
+[[John 5 (Annotated)|Annotated view]] · [[John 5|Plain text]] · [[John 5 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 5]]

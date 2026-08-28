@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 6 — My Study
 
+[[Deuteronomy 6 (Annotated)|Annotated view]] · [[Deuteronomy 6|Plain text]] · [[Deuteronomy 6 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 6]]

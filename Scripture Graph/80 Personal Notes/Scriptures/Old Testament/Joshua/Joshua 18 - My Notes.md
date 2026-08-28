@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 18 — My Study
 
+[[Joshua 18 (Annotated)|Annotated view]] · [[Joshua 18|Plain text]] · [[Joshua 18 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 18]]

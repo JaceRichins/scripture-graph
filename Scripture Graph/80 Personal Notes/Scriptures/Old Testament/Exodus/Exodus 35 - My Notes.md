@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 35 — My Study
 
+[[Exodus 35 (Annotated)|Annotated view]] · [[Exodus 35|Plain text]] · [[Exodus 35 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 35]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 34 — My Study
 
+[[Jeremiah 34 (Annotated)|Annotated view]] · [[Jeremiah 34|Plain text]] · [[Jeremiah 34 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 34]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 19 — My Study
 
+[[Matthew 19 (Annotated)|Annotated view]] · [[Matthew 19|Plain text]] · [[Matthew 19 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 19]]

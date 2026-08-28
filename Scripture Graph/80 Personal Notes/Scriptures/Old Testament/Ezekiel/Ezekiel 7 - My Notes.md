@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 7 — My Study
 
+[[Ezekiel 7 (Annotated)|Annotated view]] · [[Ezekiel 7|Plain text]] · [[Ezekiel 7 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 7]]

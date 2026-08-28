@@ -12,6 +12,8 @@ cssclasses:
 
 # Alma 51 — My Study
 
+[[Alma 51 (Annotated)|Annotated view]] · [[Alma 51|Plain text]] · [[Alma 51 - Study Guide|Study guide]] · [[Alma]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Alma 51]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 8 — My Study
 
+[[Moses 8 (Annotated)|Annotated view]] · [[Moses 8|Plain text]] · [[Moses 8 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 8]]

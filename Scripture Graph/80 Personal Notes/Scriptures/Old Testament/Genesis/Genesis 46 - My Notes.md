@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 46 — My Study
 
+[[Genesis 46 (Annotated)|Annotated view]] · [[Genesis 46|Plain text]] · [[Genesis 46 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 46]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Samuel 18 — My Study
 
+[[2 Samuel 18 (Annotated)|Annotated view]] · [[2 Samuel 18|Plain text]] · [[2 Samuel 18 - Study Guide|Study guide]] · [[2 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Samuel 18]]

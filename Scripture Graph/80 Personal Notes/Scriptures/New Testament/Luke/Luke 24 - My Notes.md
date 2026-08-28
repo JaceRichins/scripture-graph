@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 24 — My Study
 
+[[Luke 24 (Annotated)|Annotated view]] · [[Luke 24|Plain text]] · [[Luke 24 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 24]]

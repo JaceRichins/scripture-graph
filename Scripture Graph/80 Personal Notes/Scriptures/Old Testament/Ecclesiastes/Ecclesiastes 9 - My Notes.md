@@ -12,6 +12,8 @@ cssclasses:
 
 # Ecclesiastes 9 — My Study
 
+[[Ecclesiastes 9 (Annotated)|Annotated view]] · [[Ecclesiastes 9|Plain text]] · [[Ecclesiastes 9 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ecclesiastes 9]]

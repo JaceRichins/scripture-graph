@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 7 — My Study
 
+[[D&C 7 (Annotated)|Annotated view]] · [[D&C 7|Plain text]] · [[D&C 7 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 7]]

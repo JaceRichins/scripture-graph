@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 28 — My Study
 
+[[Mosiah 28 (Annotated)|Annotated view]] · [[Mosiah 28|Plain text]] · [[Mosiah 28 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 28]]

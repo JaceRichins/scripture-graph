@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 27 — My Study
 
+[[Genesis 27 (Annotated)|Annotated view]] · [[Genesis 27|Plain text]] · [[Genesis 27 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 27]]

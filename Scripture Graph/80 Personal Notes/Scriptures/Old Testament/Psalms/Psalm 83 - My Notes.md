@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 83 — My Study
 
+[[Psalm 83 (Annotated)|Annotated view]] · [[Psalm 83|Plain text]] · [[Psalm 83 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 83]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Official Declaration 1 — My Study
 
+[[Official Declaration 1 (Annotated)|Annotated view]] · [[Official Declaration 1|Plain text]] · [[Official Declaration 1 - Study Guide|Study guide]] · [[Official Declarations]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Official Declaration 1]]

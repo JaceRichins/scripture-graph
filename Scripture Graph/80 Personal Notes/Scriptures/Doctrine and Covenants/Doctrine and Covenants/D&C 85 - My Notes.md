@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 85 — My Study
 
+[[D&C 85 (Annotated)|Annotated view]] · [[D&C 85|Plain text]] · [[D&C 85 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 85]]

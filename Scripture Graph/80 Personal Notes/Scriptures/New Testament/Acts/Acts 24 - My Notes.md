@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 24 — My Study
 
+[[Acts 24 (Annotated)|Annotated view]] · [[Acts 24|Plain text]] · [[Acts 24 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 24]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 34 — My Study
 
+[[Exodus 34 (Annotated)|Annotated view]] · [[Exodus 34|Plain text]] · [[Exodus 34 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 34]]

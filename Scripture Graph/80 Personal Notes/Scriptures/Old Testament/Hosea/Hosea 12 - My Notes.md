@@ -12,6 +12,8 @@ cssclasses:
 
 # Hosea 12 — My Study
 
+[[Hosea 12 (Annotated)|Annotated view]] · [[Hosea 12|Plain text]] · [[Hosea 12 - Study Guide|Study guide]] · [[Hosea]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Hosea 12]]

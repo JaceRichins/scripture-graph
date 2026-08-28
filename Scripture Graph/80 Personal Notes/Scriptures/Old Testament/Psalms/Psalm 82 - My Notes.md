@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 82 — My Study
 
+[[Psalm 82 (Annotated)|Annotated view]] · [[Psalm 82|Plain text]] · [[Psalm 82 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 82]]

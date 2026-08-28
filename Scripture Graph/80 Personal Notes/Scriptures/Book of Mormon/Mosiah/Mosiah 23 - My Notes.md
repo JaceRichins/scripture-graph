@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 23 — My Study
 
+[[Mosiah 23 (Annotated)|Annotated view]] · [[Mosiah 23|Plain text]] · [[Mosiah 23 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 23]]

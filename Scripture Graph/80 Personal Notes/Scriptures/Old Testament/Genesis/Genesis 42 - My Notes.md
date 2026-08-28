@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 42 — My Study
 
+[[Genesis 42 (Annotated)|Annotated view]] · [[Genesis 42|Plain text]] · [[Genesis 42 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 42]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 48 — My Study
 
+[[Psalm 48 (Annotated)|Annotated view]] · [[Psalm 48|Plain text]] · [[Psalm 48 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 48]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 69 — My Study
 
+[[Psalm 69 (Annotated)|Annotated view]] · [[Psalm 69|Plain text]] · [[Psalm 69 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 69]]

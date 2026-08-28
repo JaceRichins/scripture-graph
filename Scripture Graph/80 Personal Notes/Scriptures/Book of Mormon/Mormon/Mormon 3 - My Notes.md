@@ -12,6 +12,8 @@ cssclasses:
 
 # Mormon 3 — My Study
 
+[[Mormon 3 (Annotated)|Annotated view]] · [[Mormon 3|Plain text]] · [[Mormon 3 - Study Guide|Study guide]] · [[Mormon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mormon 3]]

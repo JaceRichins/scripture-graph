@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 22 — My Study
 
+[[Proverbs 22 (Annotated)|Annotated view]] · [[Proverbs 22|Plain text]] · [[Proverbs 22 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 22]]

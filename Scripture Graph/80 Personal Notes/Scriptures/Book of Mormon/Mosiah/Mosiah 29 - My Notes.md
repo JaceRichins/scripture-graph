@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 29 — My Study
 
+[[Mosiah 29 (Annotated)|Annotated view]] · [[Mosiah 29|Plain text]] · [[Mosiah 29 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 29]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Peter 3 — My Study
 
+[[2 Peter 3 (Annotated)|Annotated view]] · [[2 Peter 3|Plain text]] · [[2 Peter 3 - Study Guide|Study guide]] · [[2 Peter]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Peter 3]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 27 — My Study
 
+[[Psalm 27 (Annotated)|Annotated view]] · [[Psalm 27|Plain text]] · [[Psalm 27 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 27]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 11 — My Study
 
+[[Exodus 11 (Annotated)|Annotated view]] · [[Exodus 11|Plain text]] · [[Exodus 11 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 11]]

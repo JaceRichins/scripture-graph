@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 8 — My Study
 
+[[Mark 8 (Annotated)|Annotated view]] · [[Mark 8|Plain text]] · [[Mark 8 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 8]]

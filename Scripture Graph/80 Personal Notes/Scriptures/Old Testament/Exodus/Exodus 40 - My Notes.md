@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 40 — My Study
 
+[[Exodus 40 (Annotated)|Annotated view]] · [[Exodus 40|Plain text]] · [[Exodus 40 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 40]]

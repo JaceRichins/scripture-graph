@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 34 — My Study
 
+[[Ezekiel 34 (Annotated)|Annotated view]] · [[Ezekiel 34|Plain text]] · [[Ezekiel 34 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 34]]

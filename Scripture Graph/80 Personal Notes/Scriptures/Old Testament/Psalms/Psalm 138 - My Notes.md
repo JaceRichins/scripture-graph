@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 138 — My Study
 
+[[Psalm 138 (Annotated)|Annotated view]] · [[Psalm 138|Plain text]] · [[Psalm 138 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 138]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 13 — My Study
 
+[[Matthew 13 (Annotated)|Annotated view]] · [[Matthew 13|Plain text]] · [[Matthew 13 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 13]]

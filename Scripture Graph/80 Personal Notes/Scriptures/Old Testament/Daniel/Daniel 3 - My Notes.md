@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 3 — My Study
 
+[[Daniel 3 (Annotated)|Annotated view]] · [[Daniel 3|Plain text]] · [[Daniel 3 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 3]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 1 — My Study
 
+[[Proverbs 1 (Annotated)|Annotated view]] · [[Proverbs 1|Plain text]] · [[Proverbs 1 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 1]]

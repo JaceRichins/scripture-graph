@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 8 — My Study
 
+[[Psalm 8 (Annotated)|Annotated view]] · [[Psalm 8|Plain text]] · [[Psalm 8 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 8]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Malachi 1 — My Study
 
+[[Malachi 1 (Annotated)|Annotated view]] · [[Malachi 1|Plain text]] · [[Malachi 1 - Study Guide|Study guide]] · [[Malachi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Malachi 1]]

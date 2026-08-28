@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Kings 3 — My Study
 
+[[1 Kings 3 (Annotated)|Annotated view]] · [[1 Kings 3|Plain text]] · [[1 Kings 3 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Kings 3]]

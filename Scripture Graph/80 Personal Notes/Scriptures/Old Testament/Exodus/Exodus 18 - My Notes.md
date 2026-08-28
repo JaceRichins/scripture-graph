@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 18 — My Study
 
+[[Exodus 18 (Annotated)|Annotated view]] · [[Exodus 18|Plain text]] · [[Exodus 18 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 18]]

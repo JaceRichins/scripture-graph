@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 3 — My Study
 
+[[Deuteronomy 3 (Annotated)|Annotated view]] · [[Deuteronomy 3|Plain text]] · [[Deuteronomy 3 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 3]]

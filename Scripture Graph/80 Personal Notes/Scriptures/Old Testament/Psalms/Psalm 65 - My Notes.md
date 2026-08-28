@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 65 — My Study
 
+[[Psalm 65 (Annotated)|Annotated view]] · [[Psalm 65|Plain text]] · [[Psalm 65 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 65]]

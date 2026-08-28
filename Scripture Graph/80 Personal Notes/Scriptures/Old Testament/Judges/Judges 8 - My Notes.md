@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 8 — My Study
 
+[[Judges 8 (Annotated)|Annotated view]] · [[Judges 8|Plain text]] · [[Judges 8 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 8]]

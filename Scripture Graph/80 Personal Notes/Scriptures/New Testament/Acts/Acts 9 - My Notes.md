@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 9 — My Study
 
+[[Acts 9 (Annotated)|Annotated view]] · [[Acts 9|Plain text]] · [[Acts 9 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 9]]

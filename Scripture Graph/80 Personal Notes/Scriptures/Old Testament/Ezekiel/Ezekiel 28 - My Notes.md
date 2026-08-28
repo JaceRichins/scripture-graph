@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 28 — My Study
 
+[[Ezekiel 28 (Annotated)|Annotated view]] · [[Ezekiel 28|Plain text]] · [[Ezekiel 28 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 28]]

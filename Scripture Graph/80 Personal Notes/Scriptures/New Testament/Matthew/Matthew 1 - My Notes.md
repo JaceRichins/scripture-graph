@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 1 — My Study
 
+[[Matthew 1 (Annotated)|Annotated view]] · [[Matthew 1|Plain text]] · [[Matthew 1 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 1]]

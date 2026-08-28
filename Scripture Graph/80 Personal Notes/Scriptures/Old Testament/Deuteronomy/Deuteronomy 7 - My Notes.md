@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 7 — My Study
 
+[[Deuteronomy 7 (Annotated)|Annotated view]] · [[Deuteronomy 7|Plain text]] · [[Deuteronomy 7 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 7]]

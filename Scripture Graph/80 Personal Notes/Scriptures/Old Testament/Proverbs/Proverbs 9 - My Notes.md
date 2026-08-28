@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 9 — My Study
 
+[[Proverbs 9 (Annotated)|Annotated view]] · [[Proverbs 9|Plain text]] · [[Proverbs 9 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 9]]

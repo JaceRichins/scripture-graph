@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 20 — My Study
 
+[[Acts 20 (Annotated)|Annotated view]] · [[Acts 20|Plain text]] · [[Acts 20 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 20]]

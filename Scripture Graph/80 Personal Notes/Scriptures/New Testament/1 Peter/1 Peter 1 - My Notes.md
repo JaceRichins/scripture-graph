@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Peter 1 — My Study
 
+[[1 Peter 1 (Annotated)|Annotated view]] · [[1 Peter 1|Plain text]] · [[1 Peter 1 - Study Guide|Study guide]] · [[1 Peter]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Peter 1]]

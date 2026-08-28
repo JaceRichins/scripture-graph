@@ -12,6 +12,8 @@ cssclasses:
 
 # Titus 1 — My Study
 
+[[Titus 1 (Annotated)|Annotated view]] · [[Titus 1|Plain text]] · [[Titus 1 - Study Guide|Study guide]] · [[Titus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Titus 1]]

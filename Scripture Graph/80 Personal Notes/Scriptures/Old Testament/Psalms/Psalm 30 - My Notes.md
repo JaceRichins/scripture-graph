@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 30 — My Study
 
+[[Psalm 30 (Annotated)|Annotated view]] · [[Psalm 30|Plain text]] · [[Psalm 30 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 30]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 61 — My Study
 
+[[Psalm 61 (Annotated)|Annotated view]] · [[Psalm 61|Plain text]] · [[Psalm 61 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 61]]

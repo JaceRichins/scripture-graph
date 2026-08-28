@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 20 — My Study
 
+[[Ezekiel 20 (Annotated)|Annotated view]] · [[Ezekiel 20|Plain text]] · [[Ezekiel 20 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 20]]

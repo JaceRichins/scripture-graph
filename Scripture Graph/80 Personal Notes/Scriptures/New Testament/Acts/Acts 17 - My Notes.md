@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 17 — My Study
 
+[[Acts 17 (Annotated)|Annotated view]] · [[Acts 17|Plain text]] · [[Acts 17 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 17]]

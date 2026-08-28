@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 2 — My Study
 
+[[Judges 2 (Annotated)|Annotated view]] · [[Judges 2|Plain text]] · [[Judges 2 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 2]]

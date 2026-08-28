@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 63 — My Study
 
+[[Psalm 63 (Annotated)|Annotated view]] · [[Psalm 63|Plain text]] · [[Psalm 63 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 63]]

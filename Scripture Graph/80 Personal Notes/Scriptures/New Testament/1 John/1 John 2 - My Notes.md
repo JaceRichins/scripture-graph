@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 John 2 — My Study
 
+[[1 John 2 (Annotated)|Annotated view]] · [[1 John 2|Plain text]] · [[1 John 2 - Study Guide|Study guide]] · [[1 John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 John 2]]

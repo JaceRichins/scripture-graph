@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 20 — My Study
 
+[[Proverbs 20 (Annotated)|Annotated view]] · [[Proverbs 20|Plain text]] · [[Proverbs 20 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 20]]

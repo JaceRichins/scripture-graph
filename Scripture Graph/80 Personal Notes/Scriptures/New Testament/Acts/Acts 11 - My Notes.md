@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 11 — My Study
 
+[[Acts 11 (Annotated)|Annotated view]] · [[Acts 11|Plain text]] · [[Acts 11 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 11]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 60 — My Study
 
+[[Psalm 60 (Annotated)|Annotated view]] · [[Psalm 60|Plain text]] · [[Psalm 60 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 60]]

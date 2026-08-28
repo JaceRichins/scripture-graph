@@ -12,6 +12,8 @@ cssclasses:
 
 # Micah 1 — My Study
 
+[[Micah 1 (Annotated)|Annotated view]] · [[Micah 1|Plain text]] · [[Micah 1 - Study Guide|Study guide]] · [[Micah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Micah 1]]

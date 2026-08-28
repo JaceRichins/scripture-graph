@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Chronicles 13 — My Study
 
+[[2 Chronicles 13 (Annotated)|Annotated view]] · [[2 Chronicles 13|Plain text]] · [[2 Chronicles 13 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Chronicles 13]]

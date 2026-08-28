@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 4 — My Study
 
+[[Mosiah 4 (Annotated)|Annotated view]] · [[Mosiah 4|Plain text]] · [[Mosiah 4 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 4]]

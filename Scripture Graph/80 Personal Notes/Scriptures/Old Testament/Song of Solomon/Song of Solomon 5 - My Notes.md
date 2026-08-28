@@ -12,6 +12,8 @@ cssclasses:
 
 # Song of Solomon 5 — My Study
 
+[[Song of Solomon 5 (Annotated)|Annotated view]] · [[Song of Solomon 5|Plain text]] · [[Song of Solomon 5 - Study Guide|Study guide]] · [[Song of Solomon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Song of Solomon 5]]

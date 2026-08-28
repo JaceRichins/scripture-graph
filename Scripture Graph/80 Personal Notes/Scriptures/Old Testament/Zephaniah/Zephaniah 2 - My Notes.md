@@ -12,6 +12,8 @@ cssclasses:
 
 # Zephaniah 2 — My Study
 
+[[Zephaniah 2 (Annotated)|Annotated view]] · [[Zephaniah 2|Plain text]] · [[Zephaniah 2 - Study Guide|Study guide]] · [[Zephaniah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Zephaniah 2]]

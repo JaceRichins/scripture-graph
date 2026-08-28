@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 27 — My Study
 
+[[Exodus 27 (Annotated)|Annotated view]] · [[Exodus 27|Plain text]] · [[Exodus 27 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 27]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 8 — My Study
 
+[[Leviticus 8 (Annotated)|Annotated view]] · [[Leviticus 8|Plain text]] · [[Leviticus 8 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 8]]

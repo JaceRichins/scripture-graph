@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 9 — My Study
 
+[[Mark 9 (Annotated)|Annotated view]] · [[Mark 9|Plain text]] · [[Mark 9 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 9]]

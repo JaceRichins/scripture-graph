@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 4 — My Study
 
+[[Exodus 4 (Annotated)|Annotated view]] · [[Exodus 4|Plain text]] · [[Exodus 4 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 4]]

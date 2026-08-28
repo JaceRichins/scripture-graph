@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 7 — My Study
 
+[[Jeremiah 7 (Annotated)|Annotated view]] · [[Jeremiah 7|Plain text]] · [[Jeremiah 7 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 7]]

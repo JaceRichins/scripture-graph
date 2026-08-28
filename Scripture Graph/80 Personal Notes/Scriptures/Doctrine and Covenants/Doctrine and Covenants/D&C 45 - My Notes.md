@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 45 — My Study
 
+[[D&C 45 (Annotated)|Annotated view]] · [[D&C 45|Plain text]] · [[D&C 45 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 45]]

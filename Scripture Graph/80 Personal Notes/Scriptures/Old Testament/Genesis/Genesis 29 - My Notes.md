@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 29 — My Study
 
+[[Genesis 29 (Annotated)|Annotated view]] · [[Genesis 29|Plain text]] · [[Genesis 29 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 29]]

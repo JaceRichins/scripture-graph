@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 36 — My Study
 
+[[Psalm 36 (Annotated)|Annotated view]] · [[Psalm 36|Plain text]] · [[Psalm 36 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 36]]

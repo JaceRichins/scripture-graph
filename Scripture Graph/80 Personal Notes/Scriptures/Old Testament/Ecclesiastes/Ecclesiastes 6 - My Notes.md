@@ -12,6 +12,8 @@ cssclasses:
 
 # Ecclesiastes 6 — My Study
 
+[[Ecclesiastes 6 (Annotated)|Annotated view]] · [[Ecclesiastes 6|Plain text]] · [[Ecclesiastes 6 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ecclesiastes 6]]

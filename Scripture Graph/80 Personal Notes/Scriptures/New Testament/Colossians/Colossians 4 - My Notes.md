@@ -12,6 +12,8 @@ cssclasses:
 
 # Colossians 4 — My Study
 
+[[Colossians 4 (Annotated)|Annotated view]] · [[Colossians 4|Plain text]] · [[Colossians 4 - Study Guide|Study guide]] · [[Colossians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Colossians 4]]

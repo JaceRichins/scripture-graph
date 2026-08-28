@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 18 — My Study
 
+[[Matthew 18 (Annotated)|Annotated view]] · [[Matthew 18|Plain text]] · [[Matthew 18 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 18]]

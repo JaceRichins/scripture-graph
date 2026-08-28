@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 36 — My Study
 
+[[Genesis 36 (Annotated)|Annotated view]] · [[Genesis 36|Plain text]] · [[Genesis 36 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 36]]

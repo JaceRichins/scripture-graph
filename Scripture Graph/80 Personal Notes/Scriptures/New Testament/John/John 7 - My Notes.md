@@ -12,6 +12,8 @@ cssclasses:
 
 # John 7 — My Study
 
+[[John 7 (Annotated)|Annotated view]] · [[John 7|Plain text]] · [[John 7 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 7]]

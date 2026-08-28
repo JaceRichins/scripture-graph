@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 35 — My Study
 
+[[Numbers 35 (Annotated)|Annotated view]] · [[Numbers 35|Plain text]] · [[Numbers 35 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 35]]

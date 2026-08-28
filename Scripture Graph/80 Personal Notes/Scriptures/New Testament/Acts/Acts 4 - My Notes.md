@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 4 — My Study
 
+[[Acts 4 (Annotated)|Annotated view]] · [[Acts 4|Plain text]] · [[Acts 4 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 4]]

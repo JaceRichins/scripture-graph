@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 7 — My Study
 
+[[Mark 7 (Annotated)|Annotated view]] · [[Mark 7|Plain text]] · [[Mark 7 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 7]]

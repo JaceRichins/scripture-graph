@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 14 — My Study
 
+[[Leviticus 14 (Annotated)|Annotated view]] · [[Leviticus 14|Plain text]] · [[Leviticus 14 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 14]]

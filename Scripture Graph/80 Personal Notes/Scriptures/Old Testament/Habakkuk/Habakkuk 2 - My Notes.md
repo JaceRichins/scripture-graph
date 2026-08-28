@@ -12,6 +12,8 @@ cssclasses:
 
 # Habakkuk 2 — My Study
 
+[[Habakkuk 2 (Annotated)|Annotated view]] · [[Habakkuk 2|Plain text]] · [[Habakkuk 2 - Study Guide|Study guide]] · [[Habakkuk]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Habakkuk 2]]

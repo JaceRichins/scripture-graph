@@ -12,6 +12,8 @@ cssclasses:
 
 # 3 John 1 — My Study
 
+[[3 John 1 (Annotated)|Annotated view]] · [[3 John 1|Plain text]] · [[3 John 1 - Study Guide|Study guide]] · [[3 John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[3 John 1]]

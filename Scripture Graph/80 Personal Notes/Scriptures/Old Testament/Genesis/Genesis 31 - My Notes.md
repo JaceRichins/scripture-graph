@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 31 — My Study
 
+[[Genesis 31 (Annotated)|Annotated view]] · [[Genesis 31|Plain text]] · [[Genesis 31 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 31]]

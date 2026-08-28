@@ -12,6 +12,8 @@ cssclasses:
 
 # Lamentations 2 — My Study
 
+[[Lamentations 2 (Annotated)|Annotated view]] · [[Lamentations 2|Plain text]] · [[Lamentations 2 - Study Guide|Study guide]] · [[Lamentations]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Lamentations 2]]

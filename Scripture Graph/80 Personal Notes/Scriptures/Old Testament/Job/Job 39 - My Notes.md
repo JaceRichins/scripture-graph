@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 39 — My Study
 
+[[Job 39 (Annotated)|Annotated view]] · [[Job 39|Plain text]] · [[Job 39 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 39]]

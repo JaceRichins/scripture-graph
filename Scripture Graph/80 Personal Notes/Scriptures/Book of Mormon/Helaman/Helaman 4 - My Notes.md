@@ -12,6 +12,8 @@ cssclasses:
 
 # Helaman 4 — My Study
 
+[[Helaman 4 (Annotated)|Annotated view]] · [[Helaman 4|Plain text]] · [[Helaman 4 - Study Guide|Study guide]] · [[Helaman]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Helaman 4]]

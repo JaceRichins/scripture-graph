@@ -12,6 +12,8 @@ cssclasses:
 
 # Malachi 4 — My Study
 
+[[Malachi 4 (Annotated)|Annotated view]] · [[Malachi 4|Plain text]] · [[Malachi 4 - Study Guide|Study guide]] · [[Malachi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Malachi 4]]

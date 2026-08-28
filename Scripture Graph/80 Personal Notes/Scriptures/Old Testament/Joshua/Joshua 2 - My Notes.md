@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 2 — My Study
 
+[[Joshua 2 (Annotated)|Annotated view]] · [[Joshua 2|Plain text]] · [[Joshua 2 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 2]]

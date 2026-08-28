@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 41 — My Study
 
+[[D&C 41 (Annotated)|Annotated view]] · [[D&C 41|Plain text]] · [[D&C 41 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 41]]

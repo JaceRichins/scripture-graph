@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 18 — My Study
 
+[[Deuteronomy 18 (Annotated)|Annotated view]] · [[Deuteronomy 18|Plain text]] · [[Deuteronomy 18 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 18]]

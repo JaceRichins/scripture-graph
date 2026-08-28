@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 26 — My Study
 
+[[Jeremiah 26 (Annotated)|Annotated view]] · [[Jeremiah 26|Plain text]] · [[Jeremiah 26 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 26]]

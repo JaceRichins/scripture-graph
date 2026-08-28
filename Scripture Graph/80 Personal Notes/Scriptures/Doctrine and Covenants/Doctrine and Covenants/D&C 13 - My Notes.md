@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 13 — My Study
 
+[[D&C 13 (Annotated)|Annotated view]] · [[D&C 13|Plain text]] · [[D&C 13 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 13]]

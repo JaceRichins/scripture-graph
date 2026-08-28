@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 34 — My Study
 
+[[Numbers 34 (Annotated)|Annotated view]] · [[Numbers 34|Plain text]] · [[Numbers 34 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 34]]

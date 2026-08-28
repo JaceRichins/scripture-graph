@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 5 — My Study
 
+[[Judges 5 (Annotated)|Annotated view]] · [[Judges 5|Plain text]] · [[Judges 5 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 5]]

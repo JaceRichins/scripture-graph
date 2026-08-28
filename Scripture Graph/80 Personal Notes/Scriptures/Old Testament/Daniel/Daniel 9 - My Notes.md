@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 9 — My Study
 
+[[Daniel 9 (Annotated)|Annotated view]] · [[Daniel 9|Plain text]] · [[Daniel 9 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 9]]

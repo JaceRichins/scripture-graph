@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 28 — My Study
 
+[[Deuteronomy 28 (Annotated)|Annotated view]] · [[Deuteronomy 28|Plain text]] · [[Deuteronomy 28 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 28]]

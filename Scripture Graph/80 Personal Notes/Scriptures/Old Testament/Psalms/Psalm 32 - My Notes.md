@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 32 — My Study
 
+[[Psalm 32 (Annotated)|Annotated view]] · [[Psalm 32|Plain text]] · [[Psalm 32 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 32]]

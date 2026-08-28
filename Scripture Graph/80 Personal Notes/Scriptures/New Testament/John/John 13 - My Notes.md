@@ -12,6 +12,8 @@ cssclasses:
 
 # John 13 — My Study
 
+[[John 13 (Annotated)|Annotated view]] · [[John 13|Plain text]] · [[John 13 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 13]]

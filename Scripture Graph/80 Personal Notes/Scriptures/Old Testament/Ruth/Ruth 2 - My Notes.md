@@ -12,6 +12,8 @@ cssclasses:
 
 # Ruth 2 — My Study
 
+[[Ruth 2 (Annotated)|Annotated view]] · [[Ruth 2|Plain text]] · [[Ruth 2 - Study Guide|Study guide]] · [[Ruth]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ruth 2]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Habakkuk 1 — My Study
 
+[[Habakkuk 1 (Annotated)|Annotated view]] · [[Habakkuk 1|Plain text]] · [[Habakkuk 1 - Study Guide|Study guide]] · [[Habakkuk]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Habakkuk 1]]

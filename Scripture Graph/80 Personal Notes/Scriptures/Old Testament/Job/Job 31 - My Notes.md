@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 31 — My Study
 
+[[Job 31 (Annotated)|Annotated view]] · [[Job 31|Plain text]] · [[Job 31 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 31]]

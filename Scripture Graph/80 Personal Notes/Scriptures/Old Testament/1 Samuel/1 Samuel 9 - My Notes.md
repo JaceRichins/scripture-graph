@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Samuel 9 — My Study
 
+[[1 Samuel 9 (Annotated)|Annotated view]] · [[1 Samuel 9|Plain text]] · [[1 Samuel 9 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Samuel 9]]

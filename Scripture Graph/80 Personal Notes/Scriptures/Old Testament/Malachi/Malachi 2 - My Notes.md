@@ -12,6 +12,8 @@ cssclasses:
 
 # Malachi 2 — My Study
 
+[[Malachi 2 (Annotated)|Annotated view]] · [[Malachi 2|Plain text]] · [[Malachi 2 - Study Guide|Study guide]] · [[Malachi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Malachi 2]]

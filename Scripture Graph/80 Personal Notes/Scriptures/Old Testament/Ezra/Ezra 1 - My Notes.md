@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezra 1 — My Study
 
+[[Ezra 1 (Annotated)|Annotated view]] · [[Ezra 1|Plain text]] · [[Ezra 1 - Study Guide|Study guide]] · [[Ezra]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezra 1]]

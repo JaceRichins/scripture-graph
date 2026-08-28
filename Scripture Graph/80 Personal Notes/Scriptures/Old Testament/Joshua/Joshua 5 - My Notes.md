@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 5 — My Study
 
+[[Joshua 5 (Annotated)|Annotated view]] · [[Joshua 5|Plain text]] · [[Joshua 5 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 5]]

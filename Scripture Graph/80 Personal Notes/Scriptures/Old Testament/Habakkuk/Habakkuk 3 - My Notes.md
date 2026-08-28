@@ -12,6 +12,8 @@ cssclasses:
 
 # Habakkuk 3 — My Study
 
+[[Habakkuk 3 (Annotated)|Annotated view]] · [[Habakkuk 3|Plain text]] · [[Habakkuk 3 - Study Guide|Study guide]] · [[Habakkuk]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Habakkuk 3]]

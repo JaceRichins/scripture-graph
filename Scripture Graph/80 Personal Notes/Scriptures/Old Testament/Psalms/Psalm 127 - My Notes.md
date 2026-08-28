@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 127 — My Study
 
+[[Psalm 127 (Annotated)|Annotated view]] · [[Psalm 127|Plain text]] · [[Psalm 127 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 127]]

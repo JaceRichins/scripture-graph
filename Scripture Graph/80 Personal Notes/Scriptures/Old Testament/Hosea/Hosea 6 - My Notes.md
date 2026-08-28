@@ -12,6 +12,8 @@ cssclasses:
 
 # Hosea 6 — My Study
 
+[[Hosea 6 (Annotated)|Annotated view]] · [[Hosea 6|Plain text]] · [[Hosea 6 - Study Guide|Study guide]] · [[Hosea]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Hosea 6]]

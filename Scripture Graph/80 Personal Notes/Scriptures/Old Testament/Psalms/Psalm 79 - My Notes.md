@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 79 — My Study
 
+[[Psalm 79 (Annotated)|Annotated view]] · [[Psalm 79|Plain text]] · [[Psalm 79 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 79]]

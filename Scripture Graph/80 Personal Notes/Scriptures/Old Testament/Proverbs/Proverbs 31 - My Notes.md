@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 31 — My Study
 
+[[Proverbs 31 (Annotated)|Annotated view]] · [[Proverbs 31|Plain text]] · [[Proverbs 31 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 31]]

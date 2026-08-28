@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 23 — My Study
 
+[[Luke 23 (Annotated)|Annotated view]] · [[Luke 23|Plain text]] · [[Luke 23 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 23]]

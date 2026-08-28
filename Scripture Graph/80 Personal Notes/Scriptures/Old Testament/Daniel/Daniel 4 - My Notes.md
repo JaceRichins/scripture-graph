@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 4 — My Study
 
+[[Daniel 4 (Annotated)|Annotated view]] · [[Daniel 4|Plain text]] · [[Daniel 4 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 4]]

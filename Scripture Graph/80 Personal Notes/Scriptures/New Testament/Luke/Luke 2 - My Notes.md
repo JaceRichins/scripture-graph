@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 2 — My Study
 
+[[Luke 2 (Annotated)|Annotated view]] · [[Luke 2|Plain text]] · [[Luke 2 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 2]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 3 — My Study
 
+[[Proverbs 3 (Annotated)|Annotated view]] · [[Proverbs 3|Plain text]] · [[Proverbs 3 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 3]]

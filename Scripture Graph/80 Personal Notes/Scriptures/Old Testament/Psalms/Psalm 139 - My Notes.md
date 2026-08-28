@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 139 — My Study
 
+[[Psalm 139 (Annotated)|Annotated view]] · [[Psalm 139|Plain text]] · [[Psalm 139 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 139]]

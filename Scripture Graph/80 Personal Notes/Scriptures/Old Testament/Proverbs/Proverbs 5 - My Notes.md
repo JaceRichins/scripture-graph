@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 5 — My Study
 
+[[Proverbs 5 (Annotated)|Annotated view]] · [[Proverbs 5|Plain text]] · [[Proverbs 5 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 5]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 14 — My Study
 
+[[Job 14 (Annotated)|Annotated view]] · [[Job 14|Plain text]] · [[Job 14 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 14]]

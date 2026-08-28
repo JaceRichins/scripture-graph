@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 54 — My Study
 
+[[D&C 54 (Annotated)|Annotated view]] · [[D&C 54|Plain text]] · [[D&C 54 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 54]]

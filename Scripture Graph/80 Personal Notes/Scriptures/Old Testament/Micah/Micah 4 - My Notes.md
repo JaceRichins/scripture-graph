@@ -12,6 +12,8 @@ cssclasses:
 
 # Micah 4 — My Study
 
+[[Micah 4 (Annotated)|Annotated view]] · [[Micah 4|Plain text]] · [[Micah 4 - Study Guide|Study guide]] · [[Micah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Micah 4]]

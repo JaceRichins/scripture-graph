@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 14 — My Study
 
+[[Judges 14 (Annotated)|Annotated view]] · [[Judges 14|Plain text]] · [[Judges 14 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 14]]

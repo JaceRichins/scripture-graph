@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 13 — My Study
 
+[[Acts 13 (Annotated)|Annotated view]] · [[Acts 13|Plain text]] · [[Acts 13 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 13]]

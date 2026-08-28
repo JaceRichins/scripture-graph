@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 20 — My Study
 
+[[Job 20 (Annotated)|Annotated view]] · [[Job 20|Plain text]] · [[Job 20 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 20]]

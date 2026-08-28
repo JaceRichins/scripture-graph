@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Timothy 4 — My Study
 
+[[2 Timothy 4 (Annotated)|Annotated view]] · [[2 Timothy 4|Plain text]] · [[2 Timothy 4 - Study Guide|Study guide]] · [[2 Timothy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Timothy 4]]

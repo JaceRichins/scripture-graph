@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 32 — My Study
 
+[[Isaiah 32 (Annotated)|Annotated view]] · [[Isaiah 32|Plain text]] · [[Isaiah 32 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 32]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Ether 9 — My Study
 
+[[Ether 9 (Annotated)|Annotated view]] · [[Ether 9|Plain text]] · [[Ether 9 - Study Guide|Study guide]] · [[Ether]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ether 9]]

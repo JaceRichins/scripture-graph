@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 16 — My Study
 
+[[Genesis 16 (Annotated)|Annotated view]] · [[Genesis 16|Plain text]] · [[Genesis 16 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 16]]

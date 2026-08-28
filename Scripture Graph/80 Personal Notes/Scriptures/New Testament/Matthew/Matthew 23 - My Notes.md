@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 23 — My Study
 
+[[Matthew 23 (Annotated)|Annotated view]] · [[Matthew 23|Plain text]] · [[Matthew 23 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 23]]

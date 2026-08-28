@@ -12,6 +12,8 @@ cssclasses:
 
 # Colossians 3 — My Study
 
+[[Colossians 3 (Annotated)|Annotated view]] · [[Colossians 3|Plain text]] · [[Colossians 3 - Study Guide|Study guide]] · [[Colossians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Colossians 3]]

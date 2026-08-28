@@ -12,6 +12,8 @@ cssclasses:
 
 # Micah 7 — My Study
 
+[[Micah 7 (Annotated)|Annotated view]] · [[Micah 7|Plain text]] · [[Micah 7 - Study Guide|Study guide]] · [[Micah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Micah 7]]

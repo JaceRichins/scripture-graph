@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 19 — My Study
 
+[[Luke 19 (Annotated)|Annotated view]] · [[Luke 19|Plain text]] · [[Luke 19 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 19]]

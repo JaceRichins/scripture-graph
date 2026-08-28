@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 5 — My Study
 
+[[Acts 5 (Annotated)|Annotated view]] · [[Acts 5|Plain text]] · [[Acts 5 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 5]]

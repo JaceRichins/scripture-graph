@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 19 — My Study
 
+[[Deuteronomy 19 (Annotated)|Annotated view]] · [[Deuteronomy 19|Plain text]] · [[Deuteronomy 19 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 19]]

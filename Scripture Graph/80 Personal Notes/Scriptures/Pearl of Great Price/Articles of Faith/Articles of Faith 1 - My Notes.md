@@ -12,6 +12,8 @@ cssclasses:
 
 # Articles of Faith 1 — My Study
 
+[[Articles of Faith 1 (Annotated)|Annotated view]] · [[Articles of Faith 1|Plain text]] · [[Articles of Faith 1 - Study Guide|Study guide]] · [[Articles of Faith]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Articles of Faith 1]]

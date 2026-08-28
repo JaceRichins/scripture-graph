@@ -12,6 +12,8 @@ cssclasses:
 
 # Alma 46 — My Study
 
+[[Alma 46 (Annotated)|Annotated view]] · [[Alma 46|Plain text]] · [[Alma 46 - Study Guide|Study guide]] · [[Alma]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Alma 46]]

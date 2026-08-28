@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 42 — My Study
 
+[[Ezekiel 42 (Annotated)|Annotated view]] · [[Ezekiel 42|Plain text]] · [[Ezekiel 42 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 42]]

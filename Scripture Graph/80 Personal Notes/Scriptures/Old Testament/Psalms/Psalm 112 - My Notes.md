@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 112 — My Study
 
+[[Psalm 112 (Annotated)|Annotated view]] · [[Psalm 112|Plain text]] · [[Psalm 112 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 112]]

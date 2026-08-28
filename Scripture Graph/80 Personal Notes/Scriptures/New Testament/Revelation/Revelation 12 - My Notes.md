@@ -12,6 +12,8 @@ cssclasses:
 
 # Revelation 12 — My Study
 
+[[Revelation 12 (Annotated)|Annotated view]] · [[Revelation 12|Plain text]] · [[Revelation 12 - Study Guide|Study guide]] · [[Revelation]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Revelation 12]]

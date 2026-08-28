@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 4 — My Study
 
+[[Mark 4 (Annotated)|Annotated view]] · [[Mark 4|Plain text]] · [[Mark 4 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 4]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 2 — My Study
 
+[[Psalm 2 (Annotated)|Annotated view]] · [[Psalm 2|Plain text]] · [[Psalm 2 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 2]]

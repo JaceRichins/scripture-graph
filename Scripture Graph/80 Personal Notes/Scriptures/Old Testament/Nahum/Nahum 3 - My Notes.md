@@ -12,6 +12,8 @@ cssclasses:
 
 # Nahum 3 — My Study
 
+[[Nahum 3 (Annotated)|Annotated view]] · [[Nahum 3|Plain text]] · [[Nahum 3 - Study Guide|Study guide]] · [[Nahum]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nahum 3]]

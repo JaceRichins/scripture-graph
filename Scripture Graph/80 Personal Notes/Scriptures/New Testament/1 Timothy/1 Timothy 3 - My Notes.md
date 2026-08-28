@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Timothy 3 — My Study
 
+[[1 Timothy 3 (Annotated)|Annotated view]] · [[1 Timothy 3|Plain text]] · [[1 Timothy 3 - Study Guide|Study guide]] · [[1 Timothy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Timothy 3]]

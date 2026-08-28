@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 15 — My Study
 
+[[Jeremiah 15 (Annotated)|Annotated view]] · [[Jeremiah 15|Plain text]] · [[Jeremiah 15 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 15]]

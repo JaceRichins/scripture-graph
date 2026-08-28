@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 14 — My Study
 
+[[Joshua 14 (Annotated)|Annotated view]] · [[Joshua 14|Plain text]] · [[Joshua 14 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 14]]

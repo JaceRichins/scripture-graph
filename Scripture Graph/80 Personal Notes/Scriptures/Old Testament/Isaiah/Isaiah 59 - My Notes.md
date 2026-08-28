@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 59 — My Study
 
+[[Isaiah 59 (Annotated)|Annotated view]] · [[Isaiah 59|Plain text]] · [[Isaiah 59 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 59]]

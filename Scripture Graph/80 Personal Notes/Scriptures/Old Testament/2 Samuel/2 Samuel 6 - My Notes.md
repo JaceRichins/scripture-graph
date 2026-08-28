@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Samuel 6 — My Study
 
+[[2 Samuel 6 (Annotated)|Annotated view]] · [[2 Samuel 6|Plain text]] · [[2 Samuel 6 - Study Guide|Study guide]] · [[2 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Samuel 6]]

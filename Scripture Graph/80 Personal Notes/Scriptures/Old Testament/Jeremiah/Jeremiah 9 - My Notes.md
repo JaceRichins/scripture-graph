@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 9 — My Study
 
+[[Jeremiah 9 (Annotated)|Annotated view]] · [[Jeremiah 9|Plain text]] · [[Jeremiah 9 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 9]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 72 — My Study
 
+[[Psalm 72 (Annotated)|Annotated view]] · [[Psalm 72|Plain text]] · [[Psalm 72 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 72]]

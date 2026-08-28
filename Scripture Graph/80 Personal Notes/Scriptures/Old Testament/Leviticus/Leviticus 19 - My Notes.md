@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 19 — My Study
 
+[[Leviticus 19 (Annotated)|Annotated view]] · [[Leviticus 19|Plain text]] · [[Leviticus 19 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 19]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 18 — My Study
 
+[[Mosiah 18 (Annotated)|Annotated view]] · [[Mosiah 18|Plain text]] · [[Mosiah 18 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 18]]

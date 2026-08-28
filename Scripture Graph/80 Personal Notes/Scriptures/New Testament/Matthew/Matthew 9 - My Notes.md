@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 9 — My Study
 
+[[Matthew 9 (Annotated)|Annotated view]] · [[Matthew 9|Plain text]] · [[Matthew 9 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 9]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 2 — My Study
 
+[[Proverbs 2 (Annotated)|Annotated view]] · [[Proverbs 2|Plain text]] · [[Proverbs 2 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 2]]

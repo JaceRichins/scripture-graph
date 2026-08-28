@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 36 — My Study
 
+[[D&C 36 (Annotated)|Annotated view]] · [[D&C 36|Plain text]] · [[D&C 36 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 36]]

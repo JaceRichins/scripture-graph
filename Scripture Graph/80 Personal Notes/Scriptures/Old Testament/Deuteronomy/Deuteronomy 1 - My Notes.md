@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 1 — My Study
 
+[[Deuteronomy 1 (Annotated)|Annotated view]] · [[Deuteronomy 1|Plain text]] · [[Deuteronomy 1 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 1]]

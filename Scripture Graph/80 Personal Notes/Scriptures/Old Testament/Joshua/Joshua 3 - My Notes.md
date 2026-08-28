@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 3 — My Study
 
+[[Joshua 3 (Annotated)|Annotated view]] · [[Joshua 3|Plain text]] · [[Joshua 3 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 3]]

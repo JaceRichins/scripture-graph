@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezra 8 — My Study
 
+[[Ezra 8 (Annotated)|Annotated view]] · [[Ezra 8|Plain text]] · [[Ezra 8 - Study Guide|Study guide]] · [[Ezra]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezra 8]]

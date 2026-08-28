@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 84 — My Study
 
+[[Psalm 84 (Annotated)|Annotated view]] · [[Psalm 84|Plain text]] · [[Psalm 84 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 84]]

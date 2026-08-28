@@ -12,6 +12,8 @@ cssclasses:
 
 # Philemon 1 — My Study
 
+[[Philemon 1 (Annotated)|Annotated view]] · [[Philemon 1|Plain text]] · [[Philemon 1 - Study Guide|Study guide]] · [[Philemon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Philemon 1]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Chronicles 28 — My Study
 
+[[2 Chronicles 28 (Annotated)|Annotated view]] · [[2 Chronicles 28|Plain text]] · [[2 Chronicles 28 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Chronicles 28]]

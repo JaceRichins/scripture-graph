@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 8 — My Study
 
+[[Proverbs 8 (Annotated)|Annotated view]] · [[Proverbs 8|Plain text]] · [[Proverbs 8 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 8]]

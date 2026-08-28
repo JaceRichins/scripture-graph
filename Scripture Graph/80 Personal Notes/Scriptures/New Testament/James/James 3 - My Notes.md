@@ -12,6 +12,8 @@ cssclasses:
 
 # James 3 — My Study
 
+[[James 3 (Annotated)|Annotated view]] · [[James 3|Plain text]] · [[James 3 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
+
 ## Scripture
 
 ![[James 3]]

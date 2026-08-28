@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 46 — My Study
 
+[[Jeremiah 46 (Annotated)|Annotated view]] · [[Jeremiah 46|Plain text]] · [[Jeremiah 46 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 46]]

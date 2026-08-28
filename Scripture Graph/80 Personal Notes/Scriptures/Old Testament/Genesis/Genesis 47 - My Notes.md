@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 47 — My Study
 
+[[Genesis 47 (Annotated)|Annotated view]] · [[Genesis 47|Plain text]] · [[Genesis 47 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 47]]

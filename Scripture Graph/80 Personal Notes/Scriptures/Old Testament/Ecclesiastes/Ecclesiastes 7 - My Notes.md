@@ -12,6 +12,8 @@ cssclasses:
 
 # Ecclesiastes 7 — My Study
 
+[[Ecclesiastes 7 (Annotated)|Annotated view]] · [[Ecclesiastes 7|Plain text]] · [[Ecclesiastes 7 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ecclesiastes 7]]

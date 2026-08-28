@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 20 — My Study
 
+[[Jeremiah 20 (Annotated)|Annotated view]] · [[Jeremiah 20|Plain text]] · [[Jeremiah 20 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 20]]

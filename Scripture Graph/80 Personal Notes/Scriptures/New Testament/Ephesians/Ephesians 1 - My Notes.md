@@ -12,6 +12,8 @@ cssclasses:
 
 # Ephesians 1 — My Study
 
+[[Ephesians 1 (Annotated)|Annotated view]] · [[Ephesians 1|Plain text]] · [[Ephesians 1 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ephesians 1]]

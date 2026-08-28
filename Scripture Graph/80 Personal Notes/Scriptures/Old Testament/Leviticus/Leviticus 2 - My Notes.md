@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 2 — My Study
 
+[[Leviticus 2 (Annotated)|Annotated view]] · [[Leviticus 2|Plain text]] · [[Leviticus 2 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 2]]

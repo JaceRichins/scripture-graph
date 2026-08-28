@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 47 — My Study
 
+[[Jeremiah 47 (Annotated)|Annotated view]] · [[Jeremiah 47|Plain text]] · [[Jeremiah 47 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 47]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 29 — My Study
 
+[[Numbers 29 (Annotated)|Annotated view]] · [[Numbers 29|Plain text]] · [[Numbers 29 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 29]]

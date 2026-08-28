@@ -12,6 +12,8 @@ cssclasses:
 
 # Enos 1 — My Study
 
+[[Enos 1 (Annotated)|Annotated view]] · [[Enos 1|Plain text]] · [[Enos 1 - Study Guide|Study guide]] · [[Enos]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Enos 1]]

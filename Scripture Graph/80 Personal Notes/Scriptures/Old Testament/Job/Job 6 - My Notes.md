@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 6 — My Study
 
+[[Job 6 (Annotated)|Annotated view]] · [[Job 6|Plain text]] · [[Job 6 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 6]]

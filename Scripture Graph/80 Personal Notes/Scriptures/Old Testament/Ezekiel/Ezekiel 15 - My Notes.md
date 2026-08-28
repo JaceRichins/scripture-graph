@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 15 — My Study
 
+[[Ezekiel 15 (Annotated)|Annotated view]] · [[Ezekiel 15|Plain text]] · [[Ezekiel 15 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 15]]

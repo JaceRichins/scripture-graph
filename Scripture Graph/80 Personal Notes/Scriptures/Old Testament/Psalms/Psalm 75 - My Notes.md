@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 75 — My Study
 
+[[Psalm 75 (Annotated)|Annotated view]] · [[Psalm 75|Plain text]] · [[Psalm 75 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 75]]

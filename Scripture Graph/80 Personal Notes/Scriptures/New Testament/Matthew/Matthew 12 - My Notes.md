@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 12 — My Study
 
+[[Matthew 12 (Annotated)|Annotated view]] · [[Matthew 12|Plain text]] · [[Matthew 12 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 12]]

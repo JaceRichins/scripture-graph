@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 39 — My Study
 
+[[Psalm 39 (Annotated)|Annotated view]] · [[Psalm 39|Plain text]] · [[Psalm 39 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 39]]

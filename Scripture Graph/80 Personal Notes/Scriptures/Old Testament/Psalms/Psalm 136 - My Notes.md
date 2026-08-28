@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 136 — My Study
 
+[[Psalm 136 (Annotated)|Annotated view]] · [[Psalm 136|Plain text]] · [[Psalm 136 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 136]]

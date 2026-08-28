@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 29 — My Study
 
+[[Psalm 29 (Annotated)|Annotated view]] · [[Psalm 29|Plain text]] · [[Psalm 29 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 29]]

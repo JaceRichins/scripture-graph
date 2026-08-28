@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 35 — My Study
 
+[[Jeremiah 35 (Annotated)|Annotated view]] · [[Jeremiah 35|Plain text]] · [[Jeremiah 35 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 35]]

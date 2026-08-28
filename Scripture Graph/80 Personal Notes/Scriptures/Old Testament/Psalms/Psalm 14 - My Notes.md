@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 14 — My Study
 
+[[Psalm 14 (Annotated)|Annotated view]] · [[Psalm 14|Plain text]] · [[Psalm 14 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 14]]

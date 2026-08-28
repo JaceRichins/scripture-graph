@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 33 — My Study
 
+[[Ezekiel 33 (Annotated)|Annotated view]] · [[Ezekiel 33|Plain text]] · [[Ezekiel 33 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 33]]

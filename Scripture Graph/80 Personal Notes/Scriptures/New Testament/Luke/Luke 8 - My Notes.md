@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 8 — My Study
 
+[[Luke 8 (Annotated)|Annotated view]] · [[Luke 8|Plain text]] · [[Luke 8 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 8]]

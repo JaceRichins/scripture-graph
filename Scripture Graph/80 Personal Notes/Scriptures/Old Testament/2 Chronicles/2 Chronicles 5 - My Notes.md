@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Chronicles 5 — My Study
 
+[[2 Chronicles 5 (Annotated)|Annotated view]] · [[2 Chronicles 5|Plain text]] · [[2 Chronicles 5 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Chronicles 5]]

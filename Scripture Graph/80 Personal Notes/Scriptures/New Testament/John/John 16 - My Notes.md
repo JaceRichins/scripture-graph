@@ -12,6 +12,8 @@ cssclasses:
 
 # John 16 — My Study
 
+[[John 16 (Annotated)|Annotated view]] · [[John 16|Plain text]] · [[John 16 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 16]]

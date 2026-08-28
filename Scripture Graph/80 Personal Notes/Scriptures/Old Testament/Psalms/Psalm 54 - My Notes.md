@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 54 — My Study
 
+[[Psalm 54 (Annotated)|Annotated view]] · [[Psalm 54|Plain text]] · [[Psalm 54 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 54]]

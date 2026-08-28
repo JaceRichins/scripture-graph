@@ -12,6 +12,8 @@ cssclasses:
 
 # Esther 4 — My Study
 
+[[Esther 4 (Annotated)|Annotated view]] · [[Esther 4|Plain text]] · [[Esther 4 - Study Guide|Study guide]] · [[Esther]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Esther 4]]

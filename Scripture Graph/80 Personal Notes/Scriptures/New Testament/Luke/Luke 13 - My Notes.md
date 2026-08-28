@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 13 — My Study
 
+[[Luke 13 (Annotated)|Annotated view]] · [[Luke 13|Plain text]] · [[Luke 13 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 13]]

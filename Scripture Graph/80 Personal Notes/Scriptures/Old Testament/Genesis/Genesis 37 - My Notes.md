@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 37 — My Study
 
+[[Genesis 37 (Annotated)|Annotated view]] · [[Genesis 37|Plain text]] · [[Genesis 37 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 37]]

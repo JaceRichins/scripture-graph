@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 4 — My Study
 
+[[Proverbs 4 (Annotated)|Annotated view]] · [[Proverbs 4|Plain text]] · [[Proverbs 4 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 4]]

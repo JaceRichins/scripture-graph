@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 3 — My Study
 
+[[Acts 3 (Annotated)|Annotated view]] · [[Acts 3|Plain text]] · [[Acts 3 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 3]]

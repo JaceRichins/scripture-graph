@@ -12,6 +12,8 @@ cssclasses:
 
 # Jacob 7 — My Study
 
+[[Jacob 7 (Annotated)|Annotated view]] · [[Jacob 7|Plain text]] · [[Jacob 7 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jacob 7]]

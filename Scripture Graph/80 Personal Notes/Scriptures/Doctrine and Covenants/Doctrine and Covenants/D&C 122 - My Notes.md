@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 122 — My Study
 
+[[D&C 122 (Annotated)|Annotated view]] · [[D&C 122|Plain text]] · [[D&C 122 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 122]]

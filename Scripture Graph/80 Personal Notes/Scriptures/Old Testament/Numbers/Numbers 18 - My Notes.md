@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 18 — My Study
 
+[[Numbers 18 (Annotated)|Annotated view]] · [[Numbers 18|Plain text]] · [[Numbers 18 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 18]]

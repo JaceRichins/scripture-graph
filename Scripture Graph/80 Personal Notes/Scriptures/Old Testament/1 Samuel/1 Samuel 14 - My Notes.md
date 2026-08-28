@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Samuel 14 — My Study
 
+[[1 Samuel 14 (Annotated)|Annotated view]] · [[1 Samuel 14|Plain text]] · [[1 Samuel 14 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Samuel 14]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 149 — My Study
 
+[[Psalm 149 (Annotated)|Annotated view]] · [[Psalm 149|Plain text]] · [[Psalm 149 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 149]]

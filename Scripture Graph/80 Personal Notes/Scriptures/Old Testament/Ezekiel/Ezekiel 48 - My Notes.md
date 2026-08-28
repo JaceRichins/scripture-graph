@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 48 — My Study
 
+[[Ezekiel 48 (Annotated)|Annotated view]] · [[Ezekiel 48|Plain text]] · [[Ezekiel 48 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 48]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Zechariah 12 — My Study
 
+[[Zechariah 12 (Annotated)|Annotated view]] · [[Zechariah 12|Plain text]] · [[Zechariah 12 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Zechariah 12]]

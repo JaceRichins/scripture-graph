@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 42 — My Study
 
+[[Isaiah 42 (Annotated)|Annotated view]] · [[Isaiah 42|Plain text]] · [[Isaiah 42 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 42]]

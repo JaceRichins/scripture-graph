@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Chronicles 16 — My Study
 
+[[1 Chronicles 16 (Annotated)|Annotated view]] · [[1 Chronicles 16|Plain text]] · [[1 Chronicles 16 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Chronicles 16]]

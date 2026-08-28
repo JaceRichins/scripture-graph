@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 41 — My Study
 
+[[Psalm 41 (Annotated)|Annotated view]] · [[Psalm 41|Plain text]] · [[Psalm 41 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 41]]

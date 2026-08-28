@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 126 — My Study
 
+[[Psalm 126 (Annotated)|Annotated view]] · [[Psalm 126|Plain text]] · [[Psalm 126 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 126]]

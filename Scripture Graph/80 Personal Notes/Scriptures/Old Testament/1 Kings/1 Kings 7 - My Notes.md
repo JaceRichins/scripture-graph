@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Kings 7 — My Study
 
+[[1 Kings 7 (Annotated)|Annotated view]] · [[1 Kings 7|Plain text]] · [[1 Kings 7 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Kings 7]]

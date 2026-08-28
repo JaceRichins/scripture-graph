@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 39 — My Study
 
+[[Ezekiel 39 (Annotated)|Annotated view]] · [[Ezekiel 39|Plain text]] · [[Ezekiel 39 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 39]]

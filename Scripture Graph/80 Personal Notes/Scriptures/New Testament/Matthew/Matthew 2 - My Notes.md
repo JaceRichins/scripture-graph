@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 2 — My Study
 
+[[Matthew 2 (Annotated)|Annotated view]] · [[Matthew 2|Plain text]] · [[Matthew 2 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 2]]

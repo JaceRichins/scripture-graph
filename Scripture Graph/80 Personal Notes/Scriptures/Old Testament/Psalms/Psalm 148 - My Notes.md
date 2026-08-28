@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 148 — My Study
 
+[[Psalm 148 (Annotated)|Annotated view]] · [[Psalm 148|Plain text]] · [[Psalm 148 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 148]]

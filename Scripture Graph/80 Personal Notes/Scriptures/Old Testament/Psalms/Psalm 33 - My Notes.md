@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 33 — My Study
 
+[[Psalm 33 (Annotated)|Annotated view]] · [[Psalm 33|Plain text]] · [[Psalm 33 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 33]]

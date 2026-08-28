@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Chronicles 14 — My Study
 
+[[2 Chronicles 14 (Annotated)|Annotated view]] · [[2 Chronicles 14|Plain text]] · [[2 Chronicles 14 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Chronicles 14]]

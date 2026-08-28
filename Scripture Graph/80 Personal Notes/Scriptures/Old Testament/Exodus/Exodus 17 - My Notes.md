@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 17 — My Study
 
+[[Exodus 17 (Annotated)|Annotated view]] · [[Exodus 17|Plain text]] · [[Exodus 17 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 17]]

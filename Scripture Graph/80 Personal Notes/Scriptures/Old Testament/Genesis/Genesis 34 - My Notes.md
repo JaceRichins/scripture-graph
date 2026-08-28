@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 34 — My Study
 
+[[Genesis 34 (Annotated)|Annotated view]] · [[Genesis 34|Plain text]] · [[Genesis 34 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 34]]

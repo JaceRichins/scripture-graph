@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Timothy 2 — My Study
 
+[[2 Timothy 2 (Annotated)|Annotated view]] · [[2 Timothy 2|Plain text]] · [[2 Timothy 2 - Study Guide|Study guide]] · [[2 Timothy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Timothy 2]]

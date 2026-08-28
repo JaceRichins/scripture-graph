@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 28 — My Study
 
+[[Acts 28 (Annotated)|Annotated view]] · [[Acts 28|Plain text]] · [[Acts 28 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 28]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 30 — My Study
 
+[[Deuteronomy 30 (Annotated)|Annotated view]] · [[Deuteronomy 30|Plain text]] · [[Deuteronomy 30 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 30]]

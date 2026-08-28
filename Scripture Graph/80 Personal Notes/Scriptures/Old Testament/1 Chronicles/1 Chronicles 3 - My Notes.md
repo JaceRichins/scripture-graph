@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Chronicles 3 — My Study
 
+[[1 Chronicles 3 (Annotated)|Annotated view]] · [[1 Chronicles 3|Plain text]] · [[1 Chronicles 3 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Chronicles 3]]

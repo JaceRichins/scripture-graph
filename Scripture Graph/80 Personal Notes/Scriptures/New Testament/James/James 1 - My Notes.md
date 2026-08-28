@@ -12,6 +12,8 @@ cssclasses:
 
 # James 1 — My Study
 
+[[James 1 (Annotated)|Annotated view]] · [[James 1|Plain text]] · [[James 1 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
+
 ## Scripture
 
 ![[James 1]]

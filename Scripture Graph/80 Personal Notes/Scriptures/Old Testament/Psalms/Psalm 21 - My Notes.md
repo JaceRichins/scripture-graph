@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 21 — My Study
 
+[[Psalm 21 (Annotated)|Annotated view]] · [[Psalm 21|Plain text]] · [[Psalm 21 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 21]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 14 — My Study
 
+[[Genesis 14 (Annotated)|Annotated view]] · [[Genesis 14|Plain text]] · [[Genesis 14 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 14]]

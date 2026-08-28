@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 20 — My Study
 
+[[Leviticus 20 (Annotated)|Annotated view]] · [[Leviticus 20|Plain text]] · [[Leviticus 20 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 20]]

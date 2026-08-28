@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 23 — My Study
 
+[[Numbers 23 (Annotated)|Annotated view]] · [[Numbers 23|Plain text]] · [[Numbers 23 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 23]]

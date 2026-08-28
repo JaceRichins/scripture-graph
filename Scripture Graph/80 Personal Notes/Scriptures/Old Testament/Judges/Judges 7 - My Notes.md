@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 7 — My Study
 
+[[Judges 7 (Annotated)|Annotated view]] · [[Judges 7|Plain text]] · [[Judges 7 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 7]]

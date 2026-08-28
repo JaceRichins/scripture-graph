@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 25 — My Study
 
+[[Matthew 25 (Annotated)|Annotated view]] · [[Matthew 25|Plain text]] · [[Matthew 25 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 25]]

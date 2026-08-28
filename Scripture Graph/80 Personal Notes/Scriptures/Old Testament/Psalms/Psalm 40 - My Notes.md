@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 40 — My Study
 
+[[Psalm 40 (Annotated)|Annotated view]] · [[Psalm 40|Plain text]] · [[Psalm 40 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 40]]

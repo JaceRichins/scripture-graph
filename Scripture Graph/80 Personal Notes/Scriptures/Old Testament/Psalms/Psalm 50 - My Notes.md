@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 50 — My Study
 
+[[Psalm 50 (Annotated)|Annotated view]] · [[Psalm 50|Plain text]] · [[Psalm 50 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 50]]

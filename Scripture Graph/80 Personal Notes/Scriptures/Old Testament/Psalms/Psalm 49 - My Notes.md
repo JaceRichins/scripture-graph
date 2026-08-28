@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 49 — My Study
 
+[[Psalm 49 (Annotated)|Annotated view]] · [[Psalm 49|Plain text]] · [[Psalm 49 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 49]]

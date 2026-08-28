@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 9 — My Study
 
+[[Judges 9 (Annotated)|Annotated view]] · [[Judges 9|Plain text]] · [[Judges 9 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 9]]

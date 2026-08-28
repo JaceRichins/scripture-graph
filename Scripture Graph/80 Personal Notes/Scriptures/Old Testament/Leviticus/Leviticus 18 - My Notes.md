@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 18 — My Study
 
+[[Leviticus 18 (Annotated)|Annotated view]] · [[Leviticus 18|Plain text]] · [[Leviticus 18 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 18]]

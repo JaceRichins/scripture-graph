@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 4 — My Study
 
+[[Joshua 4 (Annotated)|Annotated view]] · [[Joshua 4|Plain text]] · [[Joshua 4 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 4]]

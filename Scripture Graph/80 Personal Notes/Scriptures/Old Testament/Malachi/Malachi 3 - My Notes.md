@@ -12,6 +12,8 @@ cssclasses:
 
 # Malachi 3 — My Study
 
+[[Malachi 3 (Annotated)|Annotated view]] · [[Malachi 3|Plain text]] · [[Malachi 3 - Study Guide|Study guide]] · [[Malachi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Malachi 3]]

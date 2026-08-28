@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 4 — My Study
 
+[[Ezekiel 4 (Annotated)|Annotated view]] · [[Ezekiel 4|Plain text]] · [[Ezekiel 4 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 4]]

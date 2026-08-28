@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 47 — My Study
 
+[[Psalm 47 (Annotated)|Annotated view]] · [[Psalm 47|Plain text]] · [[Psalm 47 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 47]]

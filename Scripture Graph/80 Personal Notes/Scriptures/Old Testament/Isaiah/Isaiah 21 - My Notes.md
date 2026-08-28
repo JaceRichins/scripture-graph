@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 21 — My Study
 
+[[Isaiah 21 (Annotated)|Annotated view]] · [[Isaiah 21|Plain text]] · [[Isaiah 21 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 21]]

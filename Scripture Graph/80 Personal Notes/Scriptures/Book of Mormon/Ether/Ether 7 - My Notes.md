@@ -12,6 +12,8 @@ cssclasses:
 
 # Ether 7 — My Study
 
+[[Ether 7 (Annotated)|Annotated view]] · [[Ether 7|Plain text]] · [[Ether 7 - Study Guide|Study guide]] · [[Ether]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ether 7]]

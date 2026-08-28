@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 8 — My Study
 
+[[Matthew 8 (Annotated)|Annotated view]] · [[Matthew 8|Plain text]] · [[Matthew 8 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 8]]

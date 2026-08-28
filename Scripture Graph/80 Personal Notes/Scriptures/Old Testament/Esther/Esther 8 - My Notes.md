@@ -12,6 +12,8 @@ cssclasses:
 
 # Esther 8 — My Study
 
+[[Esther 8 (Annotated)|Annotated view]] · [[Esther 8|Plain text]] · [[Esther 8 - Study Guide|Study guide]] · [[Esther]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Esther 8]]

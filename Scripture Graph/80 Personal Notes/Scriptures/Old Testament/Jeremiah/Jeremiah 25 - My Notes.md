@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 25 — My Study
 
+[[Jeremiah 25 (Annotated)|Annotated view]] · [[Jeremiah 25|Plain text]] · [[Jeremiah 25 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 25]]

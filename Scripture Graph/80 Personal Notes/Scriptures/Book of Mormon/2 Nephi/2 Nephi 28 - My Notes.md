@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Nephi 28 — My Study
 
+[[2 Nephi 28 (Annotated)|Annotated view]] · [[2 Nephi 28|Plain text]] · [[2 Nephi 28 - Study Guide|Study guide]] · [[2 Nephi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Nephi 28]]

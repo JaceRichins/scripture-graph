@@ -12,6 +12,8 @@ cssclasses:
 
 # Galatians 5 — My Study
 
+[[Galatians 5 (Annotated)|Annotated view]] · [[Galatians 5|Plain text]] · [[Galatians 5 - Study Guide|Study guide]] · [[Galatians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Galatians 5]]

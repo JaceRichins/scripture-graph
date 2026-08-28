@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 1 — My Study
 
+[[Mark 1 (Annotated)|Annotated view]] · [[Mark 1|Plain text]] · [[Mark 1 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 1]]

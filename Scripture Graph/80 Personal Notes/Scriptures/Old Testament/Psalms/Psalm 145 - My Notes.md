@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 145 — My Study
 
+[[Psalm 145 (Annotated)|Annotated view]] · [[Psalm 145|Plain text]] · [[Psalm 145 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 145]]

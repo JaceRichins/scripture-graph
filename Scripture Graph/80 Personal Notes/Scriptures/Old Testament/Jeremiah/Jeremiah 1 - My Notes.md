@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 1 — My Study
 
+[[Jeremiah 1 (Annotated)|Annotated view]] · [[Jeremiah 1|Plain text]] · [[Jeremiah 1 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 1]]

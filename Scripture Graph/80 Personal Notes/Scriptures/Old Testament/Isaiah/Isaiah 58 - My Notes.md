@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 58 — My Study
 
+[[Isaiah 58 (Annotated)|Annotated view]] · [[Isaiah 58|Plain text]] · [[Isaiah 58 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 58]]

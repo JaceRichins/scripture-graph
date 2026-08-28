@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 48 — My Study
 
+[[Genesis 48 (Annotated)|Annotated view]] · [[Genesis 48|Plain text]] · [[Genesis 48 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 48]]

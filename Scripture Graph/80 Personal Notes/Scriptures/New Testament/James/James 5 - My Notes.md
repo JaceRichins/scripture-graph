@@ -12,6 +12,8 @@ cssclasses:
 
 # James 5 — My Study
 
+[[James 5 (Annotated)|Annotated view]] · [[James 5|Plain text]] · [[James 5 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
+
 ## Scripture
 
 ![[James 5]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Esther 7 — My Study
 
+[[Esther 7 (Annotated)|Annotated view]] · [[Esther 7|Plain text]] · [[Esther 7 - Study Guide|Study guide]] · [[Esther]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Esther 7]]

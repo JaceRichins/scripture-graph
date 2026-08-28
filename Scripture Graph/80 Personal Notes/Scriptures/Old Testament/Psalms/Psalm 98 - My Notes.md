@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 98 — My Study
 
+[[Psalm 98 (Annotated)|Annotated view]] · [[Psalm 98|Plain text]] · [[Psalm 98 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 98]]

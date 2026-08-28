@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 17 — My Study
 
+[[Proverbs 17 (Annotated)|Annotated view]] · [[Proverbs 17|Plain text]] · [[Proverbs 17 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 17]]

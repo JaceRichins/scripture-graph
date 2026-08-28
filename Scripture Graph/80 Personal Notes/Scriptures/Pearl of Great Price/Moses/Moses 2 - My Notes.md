@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 2 — My Study
 
+[[Moses 2 (Annotated)|Annotated view]] · [[Moses 2|Plain text]] · [[Moses 2 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 2]]

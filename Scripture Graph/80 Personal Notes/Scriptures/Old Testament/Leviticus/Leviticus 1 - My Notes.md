@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 1 — My Study
 
+[[Leviticus 1 (Annotated)|Annotated view]] · [[Leviticus 1|Plain text]] · [[Leviticus 1 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 1]]

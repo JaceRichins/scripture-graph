@@ -12,6 +12,8 @@ cssclasses:
 
 # 3 Nephi 24 — My Study
 
+[[3 Nephi 24 (Annotated)|Annotated view]] · [[3 Nephi 24|Plain text]] · [[3 Nephi 24 - Study Guide|Study guide]] · [[3 Nephi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[3 Nephi 24]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 5 — My Study
 
+[[Leviticus 5 (Annotated)|Annotated view]] · [[Leviticus 5|Plain text]] · [[Leviticus 5 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 5]]

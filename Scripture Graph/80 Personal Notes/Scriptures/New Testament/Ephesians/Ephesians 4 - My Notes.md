@@ -12,6 +12,8 @@ cssclasses:
 
 # Ephesians 4 — My Study
 
+[[Ephesians 4 (Annotated)|Annotated view]] · [[Ephesians 4|Plain text]] · [[Ephesians 4 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ephesians 4]]

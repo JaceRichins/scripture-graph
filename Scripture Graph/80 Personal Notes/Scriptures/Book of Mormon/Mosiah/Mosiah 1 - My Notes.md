@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 1 — My Study
 
+[[Mosiah 1 (Annotated)|Annotated view]] · [[Mosiah 1|Plain text]] · [[Mosiah 1 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 1]]

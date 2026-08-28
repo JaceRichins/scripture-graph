@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Corinthians 7 — My Study
 
+[[2 Corinthians 7 (Annotated)|Annotated view]] · [[2 Corinthians 7|Plain text]] · [[2 Corinthians 7 - Study Guide|Study guide]] · [[2 Corinthians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Corinthians 7]]

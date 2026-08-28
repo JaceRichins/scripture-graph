@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 16 — My Study
 
+[[Matthew 16 (Annotated)|Annotated view]] · [[Matthew 16|Plain text]] · [[Matthew 16 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 16]]

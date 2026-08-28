@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 18 — My Study
 
+[[Jeremiah 18 (Annotated)|Annotated view]] · [[Jeremiah 18|Plain text]] · [[Jeremiah 18 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 18]]

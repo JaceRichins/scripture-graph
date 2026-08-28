@@ -12,6 +12,8 @@ cssclasses:
 
 # Jacob 5 — My Study
 
+[[Jacob 5 (Annotated)|Annotated view]] · [[Jacob 5|Plain text]] · [[Jacob 5 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jacob 5]]

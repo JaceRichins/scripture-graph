@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 2 — My Study
 
+[[Mosiah 2 (Annotated)|Annotated view]] · [[Mosiah 2|Plain text]] · [[Mosiah 2 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 2]]

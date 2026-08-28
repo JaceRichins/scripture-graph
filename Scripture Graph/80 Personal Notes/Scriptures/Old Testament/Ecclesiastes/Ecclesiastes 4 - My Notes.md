@@ -12,6 +12,8 @@ cssclasses:
 
 # Ecclesiastes 4 — My Study
 
+[[Ecclesiastes 4 (Annotated)|Annotated view]] · [[Ecclesiastes 4|Plain text]] · [[Ecclesiastes 4 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ecclesiastes 4]]

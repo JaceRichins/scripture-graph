@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 45 — My Study
 
+[[Psalm 45 (Annotated)|Annotated view]] · [[Psalm 45|Plain text]] · [[Psalm 45 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 45]]

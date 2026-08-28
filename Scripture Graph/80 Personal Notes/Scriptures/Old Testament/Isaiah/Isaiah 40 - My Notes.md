@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 40 — My Study
 
+[[Isaiah 40 (Annotated)|Annotated view]] · [[Isaiah 40|Plain text]] · [[Isaiah 40 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 40]]

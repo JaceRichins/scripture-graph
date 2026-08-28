@@ -12,6 +12,8 @@ cssclasses:
 
 # Nehemiah 12 — My Study
 
+[[Nehemiah 12 (Annotated)|Annotated view]] · [[Nehemiah 12|Plain text]] · [[Nehemiah 12 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nehemiah 12]]

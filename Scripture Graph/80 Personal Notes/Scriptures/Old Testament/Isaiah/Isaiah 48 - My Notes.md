@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 48 — My Study
 
+[[Isaiah 48 (Annotated)|Annotated view]] · [[Isaiah 48|Plain text]] · [[Isaiah 48 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 48]]

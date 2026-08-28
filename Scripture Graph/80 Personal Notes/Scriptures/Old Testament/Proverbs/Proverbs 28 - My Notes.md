@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 28 — My Study
 
+[[Proverbs 28 (Annotated)|Annotated view]] · [[Proverbs 28|Plain text]] · [[Proverbs 28 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 28]]

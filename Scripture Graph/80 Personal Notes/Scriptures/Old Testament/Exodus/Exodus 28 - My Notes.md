@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 28 — My Study
 
+[[Exodus 28 (Annotated)|Annotated view]] · [[Exodus 28|Plain text]] · [[Exodus 28 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 28]]

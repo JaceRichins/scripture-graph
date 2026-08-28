@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 37 — My Study
 
+[[Jeremiah 37 (Annotated)|Annotated view]] · [[Jeremiah 37|Plain text]] · [[Jeremiah 37 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 37]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 38 — My Study
 
+[[Genesis 38 (Annotated)|Annotated view]] · [[Genesis 38|Plain text]] · [[Genesis 38 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 38]]

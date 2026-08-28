@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 27 — My Study
 
+[[Matthew 27 (Annotated)|Annotated view]] · [[Matthew 27|Plain text]] · [[Matthew 27 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 27]]

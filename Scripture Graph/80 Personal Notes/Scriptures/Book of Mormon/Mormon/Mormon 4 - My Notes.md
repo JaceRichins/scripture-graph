@@ -12,6 +12,8 @@ cssclasses:
 
 # Mormon 4 — My Study
 
+[[Mormon 4 (Annotated)|Annotated view]] · [[Mormon 4|Plain text]] · [[Mormon 4 - Study Guide|Study guide]] · [[Mormon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mormon 4]]

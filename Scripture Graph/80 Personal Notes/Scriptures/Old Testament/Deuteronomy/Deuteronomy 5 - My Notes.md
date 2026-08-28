@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 5 — My Study
 
+[[Deuteronomy 5 (Annotated)|Annotated view]] · [[Deuteronomy 5|Plain text]] · [[Deuteronomy 5 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 5]]

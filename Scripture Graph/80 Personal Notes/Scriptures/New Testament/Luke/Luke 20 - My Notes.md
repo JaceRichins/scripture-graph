@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 20 — My Study
 
+[[Luke 20 (Annotated)|Annotated view]] · [[Luke 20|Plain text]] · [[Luke 20 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 20]]

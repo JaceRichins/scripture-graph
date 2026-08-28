@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 18 — My Study
 
+[[Acts 18 (Annotated)|Annotated view]] · [[Acts 18|Plain text]] · [[Acts 18 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 18]]

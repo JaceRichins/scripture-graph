@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 79 — My Study
 
+[[D&C 79 (Annotated)|Annotated view]] · [[D&C 79|Plain text]] · [[D&C 79 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 79]]

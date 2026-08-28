@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 18 — My Study
 
+[[D&C 18 (Annotated)|Annotated view]] · [[D&C 18|Plain text]] · [[D&C 18 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 18]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 3 — My Study
 
+[[Moses 3 (Annotated)|Annotated view]] · [[Moses 3|Plain text]] · [[Moses 3 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 3]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 81 — My Study
 
+[[Psalm 81 (Annotated)|Annotated view]] · [[Psalm 81|Plain text]] · [[Psalm 81 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 81]]

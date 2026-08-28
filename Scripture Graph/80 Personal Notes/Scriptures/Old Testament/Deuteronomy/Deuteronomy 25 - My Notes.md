@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 25 — My Study
 
+[[Deuteronomy 25 (Annotated)|Annotated view]] · [[Deuteronomy 25|Plain text]] · [[Deuteronomy 25 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 25]]

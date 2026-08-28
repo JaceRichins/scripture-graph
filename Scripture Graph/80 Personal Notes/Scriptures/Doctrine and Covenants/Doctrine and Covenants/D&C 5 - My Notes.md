@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 5 — My Study
 
+[[D&C 5 (Annotated)|Annotated view]] · [[D&C 5|Plain text]] · [[D&C 5 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 5]]

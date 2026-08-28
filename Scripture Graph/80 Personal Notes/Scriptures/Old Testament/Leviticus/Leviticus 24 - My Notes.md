@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 24 — My Study
 
+[[Leviticus 24 (Annotated)|Annotated view]] · [[Leviticus 24|Plain text]] · [[Leviticus 24 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 24]]

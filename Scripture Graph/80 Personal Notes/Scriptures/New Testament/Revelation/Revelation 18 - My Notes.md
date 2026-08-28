@@ -12,6 +12,8 @@ cssclasses:
 
 # Revelation 18 — My Study
 
+[[Revelation 18 (Annotated)|Annotated view]] · [[Revelation 18|Plain text]] · [[Revelation 18 - Study Guide|Study guide]] · [[Revelation]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Revelation 18]]

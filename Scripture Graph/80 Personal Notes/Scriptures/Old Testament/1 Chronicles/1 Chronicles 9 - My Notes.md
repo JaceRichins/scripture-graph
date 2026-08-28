@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Chronicles 9 — My Study
 
+[[1 Chronicles 9 (Annotated)|Annotated view]] · [[1 Chronicles 9|Plain text]] · [[1 Chronicles 9 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Chronicles 9]]

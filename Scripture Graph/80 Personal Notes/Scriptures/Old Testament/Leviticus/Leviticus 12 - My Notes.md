@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 12 — My Study
 
+[[Leviticus 12 (Annotated)|Annotated view]] · [[Leviticus 12|Plain text]] · [[Leviticus 12 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 12]]

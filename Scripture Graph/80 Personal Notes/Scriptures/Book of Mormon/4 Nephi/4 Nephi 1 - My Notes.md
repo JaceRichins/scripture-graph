@@ -12,6 +12,8 @@ cssclasses:
 
 # 4 Nephi 1 — My Study
 
+[[4 Nephi 1 (Annotated)|Annotated view]] · [[4 Nephi 1|Plain text]] · [[4 Nephi 1 - Study Guide|Study guide]] · [[4 Nephi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[4 Nephi 1]]

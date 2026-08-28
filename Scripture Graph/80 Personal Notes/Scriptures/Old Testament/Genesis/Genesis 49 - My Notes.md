@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 49 — My Study
 
+[[Genesis 49 (Annotated)|Annotated view]] · [[Genesis 49|Plain text]] · [[Genesis 49 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 49]]

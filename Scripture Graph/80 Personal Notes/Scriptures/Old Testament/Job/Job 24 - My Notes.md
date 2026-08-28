@@ -12,6 +12,8 @@ cssclasses:
 
 # Job 24 — My Study
 
+[[Job 24 (Annotated)|Annotated view]] · [[Job 24|Plain text]] · [[Job 24 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Job 24]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 4 — My Study
 
+[[D&C 4 (Annotated)|Annotated view]] · [[D&C 4|Plain text]] · [[D&C 4 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 4]]

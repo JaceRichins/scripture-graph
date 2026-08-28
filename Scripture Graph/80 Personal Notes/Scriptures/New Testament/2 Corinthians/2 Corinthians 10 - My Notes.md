@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Corinthians 10 — My Study
 
+[[2 Corinthians 10 (Annotated)|Annotated view]] · [[2 Corinthians 10|Plain text]] · [[2 Corinthians 10 - Study Guide|Study guide]] · [[2 Corinthians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Corinthians 10]]

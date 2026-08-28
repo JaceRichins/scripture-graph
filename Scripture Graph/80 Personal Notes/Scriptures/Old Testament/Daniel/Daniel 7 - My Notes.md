@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 7 — My Study
 
+[[Daniel 7 (Annotated)|Annotated view]] · [[Daniel 7|Plain text]] · [[Daniel 7 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 7]]

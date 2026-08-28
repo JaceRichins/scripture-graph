@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 16 — My Study
 
+[[Leviticus 16 (Annotated)|Annotated view]] · [[Leviticus 16|Plain text]] · [[Leviticus 16 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 16]]

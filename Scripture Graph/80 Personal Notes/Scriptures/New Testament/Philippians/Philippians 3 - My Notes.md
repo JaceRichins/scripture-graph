@@ -12,6 +12,8 @@ cssclasses:
 
 # Philippians 3 — My Study
 
+[[Philippians 3 (Annotated)|Annotated view]] · [[Philippians 3|Plain text]] · [[Philippians 3 - Study Guide|Study guide]] · [[Philippians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Philippians 3]]

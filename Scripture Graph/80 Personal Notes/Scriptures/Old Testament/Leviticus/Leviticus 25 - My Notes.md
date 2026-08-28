@@ -12,6 +12,8 @@ cssclasses:
 
 # Leviticus 25 — My Study
 
+[[Leviticus 25 (Annotated)|Annotated view]] · [[Leviticus 25|Plain text]] · [[Leviticus 25 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Leviticus 25]]

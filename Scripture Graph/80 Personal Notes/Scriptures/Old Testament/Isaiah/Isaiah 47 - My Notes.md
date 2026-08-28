@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 47 — My Study
 
+[[Isaiah 47 (Annotated)|Annotated view]] · [[Isaiah 47|Plain text]] · [[Isaiah 47 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 47]]

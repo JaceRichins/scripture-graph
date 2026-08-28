@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 87 — My Study
 
+[[Psalm 87 (Annotated)|Annotated view]] · [[Psalm 87|Plain text]] · [[Psalm 87 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 87]]

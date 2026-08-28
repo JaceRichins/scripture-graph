@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Kings 2 — My Study
 
+[[1 Kings 2 (Annotated)|Annotated view]] · [[1 Kings 2|Plain text]] · [[1 Kings 2 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Kings 2]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 76 — My Study
 
+[[Psalm 76 (Annotated)|Annotated view]] · [[Psalm 76|Plain text]] · [[Psalm 76 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 76]]

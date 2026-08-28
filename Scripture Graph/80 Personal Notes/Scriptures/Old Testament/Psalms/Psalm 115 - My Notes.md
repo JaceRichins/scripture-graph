@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 115 — My Study
 
+[[Psalm 115 (Annotated)|Annotated view]] · [[Psalm 115|Plain text]] · [[Psalm 115 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 115]]

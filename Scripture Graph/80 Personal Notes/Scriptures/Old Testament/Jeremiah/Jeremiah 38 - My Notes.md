@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 38 — My Study
 
+[[Jeremiah 38 (Annotated)|Annotated view]] · [[Jeremiah 38|Plain text]] · [[Jeremiah 38 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 38]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 128 — My Study
 
+[[Psalm 128 (Annotated)|Annotated view]] · [[Psalm 128|Plain text]] · [[Psalm 128 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 128]]

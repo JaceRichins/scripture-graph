@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 35 — My Study
 
+[[Psalm 35 (Annotated)|Annotated view]] · [[Psalm 35|Plain text]] · [[Psalm 35 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 35]]

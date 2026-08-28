@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 4 — My Study
 
+[[Deuteronomy 4 (Annotated)|Annotated view]] · [[Deuteronomy 4|Plain text]] · [[Deuteronomy 4 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 4]]

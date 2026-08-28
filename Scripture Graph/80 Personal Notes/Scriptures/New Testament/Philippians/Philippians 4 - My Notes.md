@@ -12,6 +12,8 @@ cssclasses:
 
 # Philippians 4 — My Study
 
+[[Philippians 4 (Annotated)|Annotated view]] · [[Philippians 4|Plain text]] · [[Philippians 4 - Study Guide|Study guide]] · [[Philippians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Philippians 4]]

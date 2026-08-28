@@ -12,6 +12,8 @@ cssclasses:
 
 # John 18 — My Study
 
+[[John 18 (Annotated)|Annotated view]] · [[John 18|Plain text]] · [[John 18 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 18]]

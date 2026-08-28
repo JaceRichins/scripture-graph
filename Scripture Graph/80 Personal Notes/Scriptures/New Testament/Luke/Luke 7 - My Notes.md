@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 7 — My Study
 
+[[Luke 7 (Annotated)|Annotated view]] · [[Luke 7|Plain text]] · [[Luke 7 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 7]]

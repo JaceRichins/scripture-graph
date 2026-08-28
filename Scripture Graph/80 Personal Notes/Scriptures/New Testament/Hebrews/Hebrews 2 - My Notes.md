@@ -12,6 +12,8 @@ cssclasses:
 
 # Hebrews 2 — My Study
 
+[[Hebrews 2 (Annotated)|Annotated view]] · [[Hebrews 2|Plain text]] · [[Hebrews 2 - Study Guide|Study guide]] · [[Hebrews]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Hebrews 2]]

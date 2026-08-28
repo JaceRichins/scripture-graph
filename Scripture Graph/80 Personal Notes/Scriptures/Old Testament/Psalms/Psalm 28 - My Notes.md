@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 28 — My Study
 
+[[Psalm 28 (Annotated)|Annotated view]] · [[Psalm 28|Plain text]] · [[Psalm 28 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 28]]

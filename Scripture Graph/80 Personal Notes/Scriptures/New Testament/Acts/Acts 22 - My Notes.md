@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 22 — My Study
 
+[[Acts 22 (Annotated)|Annotated view]] · [[Acts 22|Plain text]] · [[Acts 22 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 22]]

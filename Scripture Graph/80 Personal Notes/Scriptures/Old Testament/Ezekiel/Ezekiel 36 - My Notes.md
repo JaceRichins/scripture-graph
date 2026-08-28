@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 36 — My Study
 
+[[Ezekiel 36 (Annotated)|Annotated view]] · [[Ezekiel 36|Plain text]] · [[Ezekiel 36 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 36]]

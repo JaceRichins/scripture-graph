@@ -12,6 +12,8 @@ cssclasses:
 
 # Joseph Smith—History 1 — My Study
 
+[[Joseph Smith—History 1 (Annotated)|Annotated view]] · [[Joseph Smith—History 1|Plain text]] · [[Joseph Smith—History 1 - Study Guide|Study guide]] · [[Joseph Smith—History]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joseph Smith—History 1]]

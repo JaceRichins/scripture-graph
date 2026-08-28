@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 21 — My Study
 
+[[Judges 21 (Annotated)|Annotated view]] · [[Judges 21|Plain text]] · [[Judges 21 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 21]]

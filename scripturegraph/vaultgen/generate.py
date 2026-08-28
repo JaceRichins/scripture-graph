@@ -254,6 +254,9 @@ def render_personal_scaffold(book: Book, chapter: int) -> str:
     }
     body = f"""# {title} — My Study
 
+[[{title} (Annotated)|Annotated view]] · [[{title}|Plain text]] · \
+[[{study_title(book, chapter)}|Study guide]] · [[{book.name}]] · [[Study Hub]]
+
 ## Scripture
 
 ![[{title}]]
@@ -266,6 +269,35 @@ def render_personal_scaffold(book: Book, chapter: int) -> str:
 
 """
     return md.build_note(fm, body)
+
+
+def upgrade_untouched_scaffolds(ctx: Ctx) -> dict:
+    """Re-render personal My-Study scaffolds the user has NEVER edited
+    (current file hash == the hash recorded at creation). Any file the user
+    touched — even one keystroke — is left strictly alone."""
+    from scripturegraph.booksdata import BY_SLUG
+    db = ctx.db()
+    stats = {"upgraded": 0, "user_edited_kept": 0, "missing": 0}
+    for row in db.execute(
+            "SELECT c.slug, c.book_slug, c.chapter FROM chapters c").fetchall():
+        book = BY_SLUG[row["book_slug"]]
+        rel = personal_relpath(book, row["chapter"])
+        reg = db.execute("SELECT content_hash FROM file_registry WHERE path=?",
+                         (rel,)).fetchone()
+        p = ctx.vault / rel
+        if not p.exists():
+            stats["missing"] += 1
+            continue
+        if reg is None or sha256_text(read_text(p)) != reg["content_hash"]:
+            stats["user_edited_kept"] += 1
+            continue
+        new = render_personal_scaffold(book, row["chapter"])
+        if sha256_text(new) != reg["content_hash"]:
+            record_file(ctx, rel, "personal", "human", f"chapter:{row['slug']}", new)
+            stats["upgraded"] += 1
+    db.commit()
+    ctx.log.info("personal.scaffolds_upgraded", **stats)
+    return stats
 
 
 # ------------------------------------------------------------- index notes
@@ -519,6 +551,37 @@ def generate_framework(ctx: Ctx) -> None:
                    "free-writing area. Study and write from there.\n"
                    "- Anything else you create in this folder is yours alone and joins the "
                    "graph automatically.\n"))
+    write_once(ctx, f"{FOLDER_PERSONAL}/Study Hub.md", "personal", "human",
+               md.build_note(
+                   {"ownership": "personal", "mutable": "user", "content_type": "personal-hub",
+                    "cssclasses": ["sg-home"]},
+                   f"""# Study Hub
+
+Your doorway to everything — this page is yours to rearrange.
+
+## Read & study
+- {md.wikilink('Scriptures')} — all five standard works
+  (plain · **(Annotated)** verse-link views · study guides per chapter)
+- Your chapter pages live beside this note under `Scriptures/` —
+  scripture + AI study guide embedded above your own writing
+
+## The AI knowledge graph
+- {md.wikilink('Gospel Topics')} — canonical dossiers
+  (+ `Essays/`, `Reference/`, `True to the Faith/`, `Bible Dictionary/`, `Topical Guide/`)
+- {md.wikilink('People')} · {md.wikilink('Places')} · {md.wikilink('Events')} · {md.wikilink('Doctrines')}
+- {md.wikilink('Evidence')} — scored, honest evidence dossiers
+- {md.wikilink('Questions')} — hard questions, both sides sourced
+
+## Words of the prophets & history
+- {md.wikilink('General Conference')} — full talks, 2015→today (backfilling to 1971 nightly)
+- {md.wikilink('Church History')} — Revelations in Context · Saints · Journal of Discourses ·
+  History of the Church · Conference Reports 1897-1930
+- {md.wikilink('Joseph Smith Papers')} — series guides & links
+
+## System
+- {md.wikilink('STUDY-TOOLS', 'Study Tools')} — how highlighting & verse notes work
+- {md.wikilink('Status')} — what the engine did lately · {md.wikilink('Graph Health')}
+"""))
     write_once(ctx, f"{FOLDER_PERSONAL}/_Template - Chapter Study.md", "personal", "human",
                md.build_note(
                    {"ownership": "personal", "mutable": "user", "content_type": "template"},

@@ -12,6 +12,8 @@ cssclasses:
 
 # Jacob 3 — My Study
 
+[[Jacob 3 (Annotated)|Annotated view]] · [[Jacob 3|Plain text]] · [[Jacob 3 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jacob 3]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Joel 2 — My Study
 
+[[Joel 2 (Annotated)|Annotated view]] · [[Joel 2|Plain text]] · [[Joel 2 - Study Guide|Study guide]] · [[Joel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joel 2]]

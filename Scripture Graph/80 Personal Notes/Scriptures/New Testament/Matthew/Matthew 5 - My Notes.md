@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 5 — My Study
 
+[[Matthew 5 (Annotated)|Annotated view]] · [[Matthew 5|Plain text]] · [[Matthew 5 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 5]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 8 — My Study
 
+[[Daniel 8 (Annotated)|Annotated view]] · [[Daniel 8|Plain text]] · [[Daniel 8 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 8]]

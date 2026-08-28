@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Corinthians 12 — My Study
 
+[[2 Corinthians 12 (Annotated)|Annotated view]] · [[2 Corinthians 12|Plain text]] · [[2 Corinthians 12 - Study Guide|Study guide]] · [[2 Corinthians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Corinthians 12]]

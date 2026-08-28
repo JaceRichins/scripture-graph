@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 67 — My Study
 
+[[Psalm 67 (Annotated)|Annotated view]] · [[Psalm 67|Plain text]] · [[Psalm 67 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 67]]

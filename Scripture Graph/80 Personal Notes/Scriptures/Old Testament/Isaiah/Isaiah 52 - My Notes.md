@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 52 — My Study
 
+[[Isaiah 52 (Annotated)|Annotated view]] · [[Isaiah 52|Plain text]] · [[Isaiah 52 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 52]]

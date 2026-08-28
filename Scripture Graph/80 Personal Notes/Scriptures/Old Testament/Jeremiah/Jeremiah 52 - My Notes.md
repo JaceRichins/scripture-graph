@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 52 — My Study
 
+[[Jeremiah 52 (Annotated)|Annotated view]] · [[Jeremiah 52|Plain text]] · [[Jeremiah 52 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 52]]

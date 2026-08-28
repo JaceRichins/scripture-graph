@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 40 — My Study
 
+[[Genesis 40 (Annotated)|Annotated view]] · [[Genesis 40|Plain text]] · [[Genesis 40 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 40]]

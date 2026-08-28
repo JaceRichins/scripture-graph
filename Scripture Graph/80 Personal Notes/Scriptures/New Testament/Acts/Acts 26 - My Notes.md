@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 26 — My Study
 
+[[Acts 26 (Annotated)|Annotated view]] · [[Acts 26|Plain text]] · [[Acts 26 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 26]]

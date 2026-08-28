@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 52 — My Study
 
+[[Psalm 52 (Annotated)|Annotated view]] · [[Psalm 52|Plain text]] · [[Psalm 52 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 52]]

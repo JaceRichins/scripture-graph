@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 8 — My Study
 
+[[Joshua 8 (Annotated)|Annotated view]] · [[Joshua 8|Plain text]] · [[Joshua 8 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 8]]

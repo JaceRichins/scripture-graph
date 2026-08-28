@@ -12,6 +12,8 @@ cssclasses:
 
 # Alma 7 — My Study
 
+[[Alma 7 (Annotated)|Annotated view]] · [[Alma 7|Plain text]] · [[Alma 7 - Study Guide|Study guide]] · [[Alma]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Alma 7]]

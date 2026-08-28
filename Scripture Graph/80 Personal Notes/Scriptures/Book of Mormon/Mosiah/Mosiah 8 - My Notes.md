@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 8 — My Study
 
+[[Mosiah 8 (Annotated)|Annotated view]] · [[Mosiah 8|Plain text]] · [[Mosiah 8 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 8]]

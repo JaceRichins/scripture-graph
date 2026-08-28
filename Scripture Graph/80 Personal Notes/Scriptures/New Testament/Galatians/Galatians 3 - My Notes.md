@@ -12,6 +12,8 @@ cssclasses:
 
 # Galatians 3 — My Study
 
+[[Galatians 3 (Annotated)|Annotated view]] · [[Galatians 3|Plain text]] · [[Galatians 3 - Study Guide|Study guide]] · [[Galatians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Galatians 3]]

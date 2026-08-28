@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 32 — My Study
 
+[[Ezekiel 32 (Annotated)|Annotated view]] · [[Ezekiel 32|Plain text]] · [[Ezekiel 32 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 32]]

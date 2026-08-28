@@ -12,6 +12,8 @@ cssclasses:
 
 # Mosiah 17 — My Study
 
+[[Mosiah 17 (Annotated)|Annotated view]] · [[Mosiah 17|Plain text]] · [[Mosiah 17 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mosiah 17]]

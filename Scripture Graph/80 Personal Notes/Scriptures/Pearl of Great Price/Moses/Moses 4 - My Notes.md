@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 4 — My Study
 
+[[Moses 4 (Annotated)|Annotated view]] · [[Moses 4|Plain text]] · [[Moses 4 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 4]]

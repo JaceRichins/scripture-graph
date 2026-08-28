@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Samuel 17 — My Study
 
+[[1 Samuel 17 (Annotated)|Annotated view]] · [[1 Samuel 17|Plain text]] · [[1 Samuel 17 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Samuel 17]]

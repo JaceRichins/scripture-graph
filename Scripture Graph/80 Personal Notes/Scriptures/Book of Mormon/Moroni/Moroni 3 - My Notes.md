@@ -12,6 +12,8 @@ cssclasses:
 
 # Moroni 3 — My Study
 
+[[Moroni 3 (Annotated)|Annotated view]] · [[Moroni 3|Plain text]] · [[Moroni 3 - Study Guide|Study guide]] · [[Moroni]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moroni 3]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 23 — My Study
 
+[[Joshua 23 (Annotated)|Annotated view]] · [[Joshua 23|Plain text]] · [[Joshua 23 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 23]]

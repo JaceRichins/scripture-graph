@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 7 — My Study
 
+[[Joshua 7 (Annotated)|Annotated view]] · [[Joshua 7|Plain text]] · [[Joshua 7 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 7]]

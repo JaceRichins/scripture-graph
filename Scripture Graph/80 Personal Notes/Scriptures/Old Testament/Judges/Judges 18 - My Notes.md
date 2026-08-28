@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 18 — My Study
 
+[[Judges 18 (Annotated)|Annotated view]] · [[Judges 18|Plain text]] · [[Judges 18 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 18]]

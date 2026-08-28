@@ -12,6 +12,8 @@ cssclasses:
 
 # Numbers 26 — My Study
 
+[[Numbers 26 (Annotated)|Annotated view]] · [[Numbers 26|Plain text]] · [[Numbers 26 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Numbers 26]]

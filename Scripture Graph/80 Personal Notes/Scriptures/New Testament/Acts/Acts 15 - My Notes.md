@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 15 — My Study
 
+[[Acts 15 (Annotated)|Annotated view]] · [[Acts 15|Plain text]] · [[Acts 15 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 15]]

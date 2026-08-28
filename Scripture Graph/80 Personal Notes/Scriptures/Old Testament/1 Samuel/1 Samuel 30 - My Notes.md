@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Samuel 30 — My Study
 
+[[1 Samuel 30 (Annotated)|Annotated view]] · [[1 Samuel 30|Plain text]] · [[1 Samuel 30 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Samuel 30]]

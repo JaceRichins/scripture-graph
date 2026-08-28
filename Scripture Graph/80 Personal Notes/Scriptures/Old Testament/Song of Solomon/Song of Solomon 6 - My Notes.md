@@ -12,6 +12,8 @@ cssclasses:
 
 # Song of Solomon 6 — My Study
 
+[[Song of Solomon 6 (Annotated)|Annotated view]] · [[Song of Solomon 6|Plain text]] · [[Song of Solomon 6 - Study Guide|Study guide]] · [[Song of Solomon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Song of Solomon 6]]

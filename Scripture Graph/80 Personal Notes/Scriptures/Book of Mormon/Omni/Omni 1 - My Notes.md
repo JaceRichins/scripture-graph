@@ -12,6 +12,8 @@ cssclasses:
 
 # Omni 1 — My Study
 
+[[Omni 1 (Annotated)|Annotated view]] · [[Omni 1|Plain text]] · [[Omni 1 - Study Guide|Study guide]] · [[Omni]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Omni 1]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Haggai 1 — My Study
 
+[[Haggai 1 (Annotated)|Annotated view]] · [[Haggai 1|Plain text]] · [[Haggai 1 - Study Guide|Study guide]] · [[Haggai]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Haggai 1]]

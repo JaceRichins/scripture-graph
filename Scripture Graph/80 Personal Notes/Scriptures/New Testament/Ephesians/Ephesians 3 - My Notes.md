@@ -12,6 +12,8 @@ cssclasses:
 
 # Ephesians 3 — My Study
 
+[[Ephesians 3 (Annotated)|Annotated view]] · [[Ephesians 3|Plain text]] · [[Ephesians 3 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ephesians 3]]

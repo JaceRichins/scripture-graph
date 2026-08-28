@@ -12,6 +12,8 @@ cssclasses:
 
 # Jonah 1 — My Study
 
+[[Jonah 1 (Annotated)|Annotated view]] · [[Jonah 1|Plain text]] · [[Jonah 1 - Study Guide|Study guide]] · [[Jonah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jonah 1]]

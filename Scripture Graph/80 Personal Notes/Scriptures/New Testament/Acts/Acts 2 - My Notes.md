@@ -12,6 +12,8 @@ cssclasses:
 
 # Acts 2 — My Study
 
+[[Acts 2 (Annotated)|Annotated view]] · [[Acts 2|Plain text]] · [[Acts 2 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Acts 2]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 107 — My Study
 
+[[D&C 107 (Annotated)|Annotated view]] · [[D&C 107|Plain text]] · [[D&C 107 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 107]]

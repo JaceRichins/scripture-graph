@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 25 — My Study
 
+[[Proverbs 25 (Annotated)|Annotated view]] · [[Proverbs 25|Plain text]] · [[Proverbs 25 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 25]]

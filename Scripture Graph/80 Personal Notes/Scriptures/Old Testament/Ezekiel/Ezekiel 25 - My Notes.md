@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 25 — My Study
 
+[[Ezekiel 25 (Annotated)|Annotated view]] · [[Ezekiel 25|Plain text]] · [[Ezekiel 25 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 25]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 7 — My Study
 
+[[Moses 7 (Annotated)|Annotated view]] · [[Moses 7|Plain text]] · [[Moses 7 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 7]]

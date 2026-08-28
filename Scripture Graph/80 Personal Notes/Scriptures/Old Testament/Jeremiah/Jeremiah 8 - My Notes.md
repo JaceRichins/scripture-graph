@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 8 — My Study
 
+[[Jeremiah 8 (Annotated)|Annotated view]] · [[Jeremiah 8|Plain text]] · [[Jeremiah 8 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 8]]

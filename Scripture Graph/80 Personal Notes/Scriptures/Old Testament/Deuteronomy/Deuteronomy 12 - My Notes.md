@@ -12,6 +12,8 @@ cssclasses:
 
 # Deuteronomy 12 — My Study
 
+[[Deuteronomy 12 (Annotated)|Annotated view]] · [[Deuteronomy 12|Plain text]] · [[Deuteronomy 12 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Deuteronomy 12]]

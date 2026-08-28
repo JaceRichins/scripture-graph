@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 1 — My Study
 
+[[Psalm 1 (Annotated)|Annotated view]] · [[Psalm 1|Plain text]] · [[Psalm 1 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 1]]

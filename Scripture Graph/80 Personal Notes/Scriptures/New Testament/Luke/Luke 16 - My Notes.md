@@ -12,6 +12,8 @@ cssclasses:
 
 # Luke 16 — My Study
 
+[[Luke 16 (Annotated)|Annotated view]] · [[Luke 16|Plain text]] · [[Luke 16 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Luke 16]]

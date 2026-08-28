@@ -12,6 +12,8 @@ cssclasses:
 
 # Amos 8 — My Study
 
+[[Amos 8 (Annotated)|Annotated view]] · [[Amos 8|Plain text]] · [[Amos 8 - Study Guide|Study guide]] · [[Amos]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Amos 8]]

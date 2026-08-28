@@ -12,6 +12,8 @@ cssclasses:
 
 # Judges 4 — My Study
 
+[[Judges 4 (Annotated)|Annotated view]] · [[Judges 4|Plain text]] · [[Judges 4 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Judges 4]]

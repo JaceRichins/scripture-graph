@@ -12,6 +12,8 @@ cssclasses:
 
 # 1 Timothy 6 — My Study
 
+[[1 Timothy 6 (Annotated)|Annotated view]] · [[1 Timothy 6|Plain text]] · [[1 Timothy 6 - Study Guide|Study guide]] · [[1 Timothy]] · [[Study Hub]]
+
 ## Scripture
 
 ![[1 Timothy 6]]

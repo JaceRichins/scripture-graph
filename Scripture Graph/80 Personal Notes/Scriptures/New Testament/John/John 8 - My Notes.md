@@ -12,6 +12,8 @@ cssclasses:
 
 # John 8 — My Study
 
+[[John 8 (Annotated)|Annotated view]] · [[John 8|Plain text]] · [[John 8 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 8]]

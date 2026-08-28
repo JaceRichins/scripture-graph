@@ -12,6 +12,8 @@ cssclasses:
 
 # Moses 6 — My Study
 
+[[Moses 6 (Annotated)|Annotated view]] · [[Moses 6|Plain text]] · [[Moses 6 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Moses 6]]

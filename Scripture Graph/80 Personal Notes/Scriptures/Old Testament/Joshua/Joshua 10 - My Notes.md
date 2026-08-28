@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 10 — My Study
 
+[[Joshua 10 (Annotated)|Annotated view]] · [[Joshua 10|Plain text]] · [[Joshua 10 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 10]]

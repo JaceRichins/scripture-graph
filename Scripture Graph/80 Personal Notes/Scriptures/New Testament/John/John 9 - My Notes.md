@@ -12,6 +12,8 @@ cssclasses:
 
 # John 9 — My Study
 
+[[John 9 (Annotated)|Annotated view]] · [[John 9|Plain text]] · [[John 9 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 9]]

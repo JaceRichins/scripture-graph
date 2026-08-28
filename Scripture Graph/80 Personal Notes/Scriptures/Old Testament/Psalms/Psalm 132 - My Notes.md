@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 132 — My Study
 
+[[Psalm 132 (Annotated)|Annotated view]] · [[Psalm 132|Plain text]] · [[Psalm 132 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 132]]

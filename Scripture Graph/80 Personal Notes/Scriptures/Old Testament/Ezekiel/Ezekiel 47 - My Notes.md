@@ -12,6 +12,8 @@ cssclasses:
 
 # Ezekiel 47 — My Study
 
+[[Ezekiel 47 (Annotated)|Annotated view]] · [[Ezekiel 47|Plain text]] · [[Ezekiel 47 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ezekiel 47]]

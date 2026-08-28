@@ -12,6 +12,8 @@ cssclasses:
 
 # Jeremiah 28 — My Study
 
+[[Jeremiah 28 (Annotated)|Annotated view]] · [[Jeremiah 28|Plain text]] · [[Jeremiah 28 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jeremiah 28]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # D&C 101 — My Study
 
+[[D&C 101 (Annotated)|Annotated view]] · [[D&C 101|Plain text]] · [[D&C 101 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
+
 ## Scripture
 
 ![[D&C 101]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 17 — My Study
 
+[[Matthew 17 (Annotated)|Annotated view]] · [[Matthew 17|Plain text]] · [[Matthew 17 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 17]]

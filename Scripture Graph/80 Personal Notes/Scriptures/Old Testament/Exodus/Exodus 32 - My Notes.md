@@ -12,6 +12,8 @@ cssclasses:
 
 # Exodus 32 — My Study
 
+[[Exodus 32 (Annotated)|Annotated view]] · [[Exodus 32|Plain text]] · [[Exodus 32 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Exodus 32]]

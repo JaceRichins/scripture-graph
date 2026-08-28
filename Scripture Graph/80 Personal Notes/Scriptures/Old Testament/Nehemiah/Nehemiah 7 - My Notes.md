@@ -12,6 +12,8 @@ cssclasses:
 
 # Nehemiah 7 — My Study
 
+[[Nehemiah 7 (Annotated)|Annotated view]] · [[Nehemiah 7|Plain text]] · [[Nehemiah 7 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nehemiah 7]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 26 — My Study
 
+[[Psalm 26 (Annotated)|Annotated view]] · [[Psalm 26|Plain text]] · [[Psalm 26 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 26]]

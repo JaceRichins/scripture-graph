@@ -12,6 +12,8 @@ cssclasses:
 
 # Mark 13 — My Study
 
+[[Mark 13 (Annotated)|Annotated view]] · [[Mark 13|Plain text]] · [[Mark 13 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mark 13]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Jarom 1 — My Study
 
+[[Jarom 1 (Annotated)|Annotated view]] · [[Jarom 1|Plain text]] · [[Jarom 1 - Study Guide|Study guide]] · [[Jarom]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Jarom 1]]

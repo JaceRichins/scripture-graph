@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 92 — My Study
 
+[[Psalm 92 (Annotated)|Annotated view]] · [[Psalm 92|Plain text]] · [[Psalm 92 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 92]]

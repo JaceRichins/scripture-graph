@@ -12,6 +12,8 @@ cssclasses:
 
 # James 4 — My Study
 
+[[James 4 (Annotated)|Annotated view]] · [[James 4|Plain text]] · [[James 4 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
+
 ## Scripture
 
 ![[James 4]]

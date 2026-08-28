@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 9 — My Study
 
+[[Joshua 9 (Annotated)|Annotated view]] · [[Joshua 9|Plain text]] · [[Joshua 9 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 9]]

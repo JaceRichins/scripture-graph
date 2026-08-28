@@ -12,6 +12,8 @@ cssclasses:
 
 # Zephaniah 3 — My Study
 
+[[Zephaniah 3 (Annotated)|Annotated view]] · [[Zephaniah 3|Plain text]] · [[Zephaniah 3 - Study Guide|Study guide]] · [[Zephaniah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Zephaniah 3]]

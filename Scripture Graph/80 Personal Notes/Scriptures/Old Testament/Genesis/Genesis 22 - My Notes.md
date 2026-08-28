@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 22 — My Study
 
+[[Genesis 22 (Annotated)|Annotated view]] · [[Genesis 22|Plain text]] · [[Genesis 22 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 22]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Joshua 24 — My Study
 
+[[Joshua 24 (Annotated)|Annotated view]] · [[Joshua 24|Plain text]] · [[Joshua 24 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Joshua 24]]

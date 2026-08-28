@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Kings 23 — My Study
 
+[[2 Kings 23 (Annotated)|Annotated view]] · [[2 Kings 23|Plain text]] · [[2 Kings 23 - Study Guide|Study guide]] · [[2 Kings]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Kings 23]]

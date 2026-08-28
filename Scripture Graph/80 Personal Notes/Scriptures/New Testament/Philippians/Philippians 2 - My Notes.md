@@ -12,6 +12,8 @@ cssclasses:
 
 # Philippians 2 — My Study
 
+[[Philippians 2 (Annotated)|Annotated view]] · [[Philippians 2|Plain text]] · [[Philippians 2 - Study Guide|Study guide]] · [[Philippians]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Philippians 2]]

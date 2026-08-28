@@ -12,6 +12,8 @@ cssclasses:
 
 # Isaiah 1 — My Study
 
+[[Isaiah 1 (Annotated)|Annotated view]] · [[Isaiah 1|Plain text]] · [[Isaiah 1 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Isaiah 1]]

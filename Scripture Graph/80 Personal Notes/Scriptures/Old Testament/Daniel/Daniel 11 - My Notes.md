@@ -12,6 +12,8 @@ cssclasses:
 
 # Daniel 11 — My Study
 
+[[Daniel 11 (Annotated)|Annotated view]] · [[Daniel 11|Plain text]] · [[Daniel 11 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Daniel 11]]

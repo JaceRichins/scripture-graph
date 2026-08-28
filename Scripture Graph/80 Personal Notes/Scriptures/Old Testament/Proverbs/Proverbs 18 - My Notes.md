@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 18 — My Study
 
+[[Proverbs 18 (Annotated)|Annotated view]] · [[Proverbs 18|Plain text]] · [[Proverbs 18 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 18]]

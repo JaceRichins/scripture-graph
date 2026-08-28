@@ -12,6 +12,8 @@ cssclasses:
 
 # Nehemiah 9 — My Study
 
+[[Nehemiah 9 (Annotated)|Annotated view]] · [[Nehemiah 9|Plain text]] · [[Nehemiah 9 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nehemiah 9]]

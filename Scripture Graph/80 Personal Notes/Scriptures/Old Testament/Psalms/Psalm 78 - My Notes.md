@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 78 — My Study
 
+[[Psalm 78 (Annotated)|Annotated view]] · [[Psalm 78|Plain text]] · [[Psalm 78 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 78]]

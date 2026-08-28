@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 12 — My Study
 
+[[Genesis 12 (Annotated)|Annotated view]] · [[Genesis 12|Plain text]] · [[Genesis 12 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 12]]

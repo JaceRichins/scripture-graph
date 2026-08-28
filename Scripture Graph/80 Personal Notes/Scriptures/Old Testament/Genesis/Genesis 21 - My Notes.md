@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 21 — My Study
 
+[[Genesis 21 (Annotated)|Annotated view]] · [[Genesis 21|Plain text]] · [[Genesis 21 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 21]]

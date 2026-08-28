@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 85 — My Study
 
+[[Psalm 85 (Annotated)|Annotated view]] · [[Psalm 85|Plain text]] · [[Psalm 85 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 85]]

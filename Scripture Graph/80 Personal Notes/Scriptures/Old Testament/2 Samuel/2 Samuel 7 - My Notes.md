@@ -12,6 +12,8 @@ cssclasses:
 
 # 2 Samuel 7 — My Study
 
+[[2 Samuel 7 (Annotated)|Annotated view]] · [[2 Samuel 7|Plain text]] · [[2 Samuel 7 - Study Guide|Study guide]] · [[2 Samuel]] · [[Study Hub]]
+
 ## Scripture
 
 ![[2 Samuel 7]]

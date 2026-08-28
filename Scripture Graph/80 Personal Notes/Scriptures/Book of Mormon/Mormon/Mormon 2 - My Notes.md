@@ -12,6 +12,8 @@ cssclasses:
 
 # Mormon 2 — My Study
 
+[[Mormon 2 (Annotated)|Annotated view]] · [[Mormon 2|Plain text]] · [[Mormon 2 - Study Guide|Study guide]] · [[Mormon]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Mormon 2]]

@@ -12,6 +12,8 @@ cssclasses:
 
 # Ecclesiastes 2 — My Study
 
+[[Ecclesiastes 2 (Annotated)|Annotated view]] · [[Ecclesiastes 2|Plain text]] · [[Ecclesiastes 2 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Ecclesiastes 2]]

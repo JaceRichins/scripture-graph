@@ -12,6 +12,8 @@ cssclasses:
 
 # John 20 — My Study
 
+[[John 20 (Annotated)|Annotated view]] · [[John 20|Plain text]] · [[John 20 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
+
 ## Scripture
 
 ![[John 20]]

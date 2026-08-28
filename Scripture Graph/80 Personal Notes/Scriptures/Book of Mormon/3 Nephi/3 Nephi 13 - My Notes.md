@@ -12,6 +12,8 @@ cssclasses:
 
 # 3 Nephi 13 — My Study
 
+[[3 Nephi 13 (Annotated)|Annotated view]] · [[3 Nephi 13|Plain text]] · [[3 Nephi 13 - Study Guide|Study guide]] · [[3 Nephi]] · [[Study Hub]]
+
 ## Scripture
 
 ![[3 Nephi 13]]

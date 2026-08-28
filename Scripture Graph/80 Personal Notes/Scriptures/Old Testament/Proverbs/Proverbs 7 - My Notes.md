@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 7 — My Study
 
+[[Proverbs 7 (Annotated)|Annotated view]] · [[Proverbs 7|Plain text]] · [[Proverbs 7 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 7]]

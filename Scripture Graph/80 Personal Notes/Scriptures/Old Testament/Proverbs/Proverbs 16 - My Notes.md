@@ -12,6 +12,8 @@ cssclasses:
 
 # Proverbs 16 — My Study
 
+[[Proverbs 16 (Annotated)|Annotated view]] · [[Proverbs 16|Plain text]] · [[Proverbs 16 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Proverbs 16]]

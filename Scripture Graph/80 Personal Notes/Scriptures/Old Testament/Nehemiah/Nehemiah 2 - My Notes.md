@@ -12,6 +12,8 @@ cssclasses:
 
 # Nehemiah 2 — My Study
 
+[[Nehemiah 2 (Annotated)|Annotated view]] · [[Nehemiah 2|Plain text]] · [[Nehemiah 2 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nehemiah 2]]

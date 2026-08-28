@@ -12,6 +12,8 @@ cssclasses:
 
 # Official Declaration 2 — My Study
 
+[[Official Declaration 2 (Annotated)|Annotated view]] · [[Official Declaration 2|Plain text]] · [[Official Declaration 2 - Study Guide|Study guide]] · [[Official Declarations]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Official Declaration 2]]

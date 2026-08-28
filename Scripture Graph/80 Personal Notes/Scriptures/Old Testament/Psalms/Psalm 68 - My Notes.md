@@ -12,6 +12,8 @@ cssclasses:
 
 # Psalm 68 — My Study
 
+[[Psalm 68 (Annotated)|Annotated view]] · [[Psalm 68|Plain text]] · [[Psalm 68 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Psalm 68]]

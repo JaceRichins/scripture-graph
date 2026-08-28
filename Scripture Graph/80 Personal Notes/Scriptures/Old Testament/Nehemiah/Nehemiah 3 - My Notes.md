@@ -12,6 +12,8 @@ cssclasses:
 
 # Nehemiah 3 — My Study
 
+[[Nehemiah 3 (Annotated)|Annotated view]] · [[Nehemiah 3|Plain text]] · [[Nehemiah 3 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Nehemiah 3]]

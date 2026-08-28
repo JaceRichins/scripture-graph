@@ -12,6 +12,8 @@ cssclasses:
 
 # Matthew 21 — My Study
 
+[[Matthew 21 (Annotated)|Annotated view]] · [[Matthew 21|Plain text]] · [[Matthew 21 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Matthew 21]]

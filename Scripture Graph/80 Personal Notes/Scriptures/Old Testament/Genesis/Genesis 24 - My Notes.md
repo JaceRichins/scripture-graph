@@ -12,6 +12,8 @@ cssclasses:
 
 # Genesis 24 — My Study
 
+[[Genesis 24 (Annotated)|Annotated view]] · [[Genesis 24|Plain text]] · [[Genesis 24 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
+
 ## Scripture
 
 ![[Genesis 24]]
