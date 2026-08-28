@@ -146,13 +146,15 @@ def write_item_note(ctx: Ctx, source: dict, item: dict) -> str:
         lines += ["", f"> {item['summary']}"]
 
     if segs:
-        lines += ["", "## Timestamped outline", ""]
+        has_ts = any(s.get("t_start_s") is not None for s in segs)
+        lines += ["", "## Timestamped outline" if has_ts else "## Outline", ""]
         for s in segs:
-            ts = _ts_link(item, s.get("t_start_s"))
             links = [db.execute("SELECT title FROM nodes WHERE id=?", (nid,)).fetchone()
                      for nid in json.loads(s.get("nodes_json") or "[]")]
             linktxt = " · ".join(md.wikilink(r["title"]) for r in links if r)
-            lines.append(f"- **{ts}** — {s['label']}: {s['summary']}"
+            prefix = (f"**{_ts_link(item, s['t_start_s'])}** — "
+                      if s.get("t_start_s") is not None else "")
+            lines.append(f"- {prefix}{s['label']}: {s['summary']}"
                          + (f" ({linktxt})" if linktxt else ""))
 
     if claims:
@@ -162,8 +164,9 @@ def write_item_note(ctx: Ctx, source: dict, item: dict) -> str:
         for c in claims:
             prov = json.loads(c.get("provenance_json") or "{}")
             speaker = prov.get("speaker") or "speaker"
-            ts = _ts_link(item, prov.get("t_s"))
-            line = f"- **{speaker}** ({ts}): {c['text']}"
+            tstxt = (f" ({_ts_link(item, prov['t_s'])})"
+                     if prov.get("t_s") is not None else "")
+            line = f"- **{speaker}**{tstxt}: {c['text']}"
             if prov.get("primary_source_named"):
                 line += f"\n  - Named primary source: _{prov['primary_source_named']}_"
             lines.append(line)
