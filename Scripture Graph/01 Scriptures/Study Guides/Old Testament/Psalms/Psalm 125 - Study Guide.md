@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 125
 slug: ps-125
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,7 +32,7 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 5
 slug: moro-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 20]] — 3 parallel verses, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[D&C 20#^dc-20-79|D&C 20:79]]
+- [[Moroni 4]] — 1 parallel verse, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[D&C 45#^dc-45-4|D&C 45:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrament]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

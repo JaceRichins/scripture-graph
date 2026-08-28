@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 9
 slug: eccl-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 8]] — 3 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 8#^eccl-8-11|Ecclesiastes 8:11]]
+- [[Ecclesiastes 1]] — 2 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 1#^eccl-1-13|Ecclesiastes 1:13]]
+- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 4#^eccl-4-1|Ecclesiastes 4:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

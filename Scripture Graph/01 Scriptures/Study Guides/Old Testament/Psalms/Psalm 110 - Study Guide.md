@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 110
 slug: ps-110
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Melchizedek]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 7]] — 2 parallel verses, e.g. [[Psalm 110#^ps-110-4|Psalm 110:4]] ↔ [[Hebrews 7#^heb-7-21|Hebrews 7:21]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]
+- [[Luke 20]] — 2 parallel verses, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Luke 20#^luke-20-42|Luke 20:42]]
+- [[Hebrews 1]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Hebrews 1#^heb-1-13|Hebrews 1:13]]
+- [[Hebrews 5]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-4|Psalm 110:4]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
+- [[Acts 2]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Acts 2#^acts-2-34|Acts 2:34]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

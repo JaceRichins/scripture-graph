@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 3
 slug: jacob-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Nephi (son of Lehi)]] — 2 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,21 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 9]] — 2 parallel verses, e.g. [[Jacob 3#^jacob-3-11|Jacob 3:11]] ↔ [[2 Nephi 9#^2ne-9-19|2 Nephi 9:19]]
+- [[Helaman 3]] — 2 parallel verses, e.g. [[Jacob 3#^jacob-3-13|Jacob 3:13]] ↔ [[Helaman 3#^hel-3-14|Helaman 3:14]]
+- [[D&C 104]] — 3 parallel verses, e.g. [[Jacob 3#^jacob-3-9|Jacob 3:9]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
+- [[Helaman 7]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-5|Jacob 3:5]] ↔ [[Helaman 7#^hel-7-24|Helaman 7:24]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-11|Jacob 3:11]] ↔ [[Revelation 21#^rev-21-8|Revelation 21:8]]
+- [[D&C 63]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-11|Jacob 3:11]] ↔ [[D&C 63#^dc-63-17|D&C 63:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

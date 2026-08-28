@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 25
 slug: dc-25
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Emma Smith]] — 1 mention
+- [[Joseph Smith Jr.]] — 1 mention
+- [[Oliver Cowdery]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 5]] — 3 parallel verses, e.g. [[D&C 25#^dc-25-1|D&C 25:1]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
+- [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-16|D&C 25:16]] ↔ [[3 Nephi 11#^3ne-11-35|3 Nephi 11:35]]
+- [[Jeremiah 42]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-1|D&C 25:1]] ↔ [[Jeremiah 42#^jer-42-13|Jeremiah 42:13]]
+- [[D&C 33]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-1|D&C 25:1]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
+- [[Deuteronomy 28]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-1|D&C 25:1]] ↔ [[Deuteronomy 28#^deut-28-2|Deuteronomy 28:2]]
+- [[Omni 1]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-1|D&C 25:1]] ↔ [[Omni 1#^omni-1-12|Omni 1:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

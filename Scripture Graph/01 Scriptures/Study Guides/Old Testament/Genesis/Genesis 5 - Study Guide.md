@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,13 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Enoch]] — 6 mentions
+- [[Adam]] — 5 mentions
+- [[Seth]] — 5 mentions
+- [[Enos (son of Jacob)]] — 5 mentions
+- [[Jared (Jaredite)]] — 5 mentions
+- [[Methuselah]] — 5 mentions
+- [[Noah (patriarch)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Moses 6]] — 43 parallel verses, e.g. [[Genesis 5#^gen-5-2|Genesis 5:2]] ↔ [[Moses 6#^moses-6-9|Moses 6:9]]
+- [[Genesis 11]] — 65 parallel verses, e.g. [[Genesis 5#^gen-5-16|Genesis 5:16]] ↔ [[Genesis 11#^gen-11-17|Genesis 11:17]]
+- [[Moses 8]] — 21 parallel verses, e.g. [[Genesis 5#^gen-5-29|Genesis 5:29]] ↔ [[Moses 8#^moses-8-9|Moses 8:9]]
+- [[Ether 10]] — 10 parallel verses, e.g. [[Genesis 5#^gen-5-4|Genesis 5:4]] ↔ [[Ether 10#^ether-10-2|Ether 10:2]]
+- [[Moses 7]] — 1 parallel verse, e.g. [[Genesis 5#^gen-5-23|Genesis 5:23]] ↔ [[Moses 7#^moses-7-68|Moses 7:68]]
+- [[Ether 7]] — 2 parallel verses, e.g. [[Genesis 5#^gen-5-4|Genesis 5:4]] ↔ [[Ether 7#^ether-7-2|Ether 7:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

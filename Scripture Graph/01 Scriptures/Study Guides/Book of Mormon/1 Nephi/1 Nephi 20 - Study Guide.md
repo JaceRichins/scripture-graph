@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 20
 slug: 1ne-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,20 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 48]] — 22 parallel verses, e.g. [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]] ↔ [[Isaiah 48#^isa-48-20|Isaiah 48:20]]
+- [[Isaiah 54]] — 2 parallel verses, e.g. [[1 Nephi 20#^1ne-20-2|1 Nephi 20:2]] ↔ [[Isaiah 54#^isa-54-5|Isaiah 54:5]]
+- [[3 Nephi 22]] — 2 parallel verses, e.g. [[1 Nephi 20#^1ne-20-2|1 Nephi 20:2]] ↔ [[3 Nephi 22#^3ne-22-5|3 Nephi 22:5]]
+- [[Isaiah 44]] — 2 parallel verses, e.g. [[1 Nephi 20#^1ne-20-12|1 Nephi 20:12]] ↔ [[Isaiah 44#^isa-44-6|Isaiah 44:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 2
 slug: eccl-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,19 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 2#^eccl-2-26|Ecclesiastes 2:26]] ↔ [[Ecclesiastes 4#^eccl-4-16|Ecclesiastes 4:16]]
+- [[Ecclesiastes 1]] — 2 parallel verses, e.g. [[Ecclesiastes 2#^eccl-2-17|Ecclesiastes 2:17]] ↔ [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

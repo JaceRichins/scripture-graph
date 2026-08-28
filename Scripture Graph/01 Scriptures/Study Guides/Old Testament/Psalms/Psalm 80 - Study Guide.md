@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 80
 slug: ps-80
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,23 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 1 mention
+- [[King Benjamin]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 9]] — 2 parallel verses, e.g. [[Psalm 80#^ps-80-3|Psalm 80:3]] ↔ [[Daniel 9#^dan-9-17|Daniel 9:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

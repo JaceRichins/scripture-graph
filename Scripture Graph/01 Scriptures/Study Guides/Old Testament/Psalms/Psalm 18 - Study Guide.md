@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 18
 slug: ps-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Samuel 22]] — 48 parallel verses, e.g. [[Psalm 18#^ps-18-8|Psalm 18:8]] ↔ [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]]
+- [[Psalm 116]] — 1 parallel verse, e.g. [[Psalm 18#^ps-18-4|Psalm 18:4]] ↔ [[Psalm 116#^ps-116-3|Psalm 116:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

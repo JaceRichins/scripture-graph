@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,12 +27,18 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
+- [[Adam]] — 2 mentions
+- [[Satan]] — 1 mention
+- [[Moses (prophet)]] — 1 mention
+- [[Cain]] — 1 mention
+- [[Enoch]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
+- [[Sodom]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

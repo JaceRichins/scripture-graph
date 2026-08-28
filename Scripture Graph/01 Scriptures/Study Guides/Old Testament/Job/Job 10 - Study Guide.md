@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 10
 slug: job-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 43]] — 1 parallel verse, e.g. [[Job 10#^job-10-7|Job 10:7]] ↔ [[Isaiah 43#^isa-43-13|Isaiah 43:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

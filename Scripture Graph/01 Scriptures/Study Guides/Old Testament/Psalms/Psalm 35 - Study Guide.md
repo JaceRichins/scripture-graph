@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 35
 slug: ps-35
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 70]] — 1 parallel verse, e.g. [[Psalm 35#^ps-35-4|Psalm 35:4]] ↔ [[Psalm 70#^ps-70-2|Psalm 70:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Words of Mormon
 chapter: 1
 slug: wofm-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Benjamin]] — 10 mentions
+- [[Nephi (son of Lehi)]] — 5 mentions
+- [[Jesus Christ]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jarom 1]] — 4 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]] ↔ [[Jarom 1#^jarom-1-10|Jarom 1:10]]
+- [[Mormon 6]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]] ↔ [[Mormon 6#^morm-6-1|Mormon 6:1]]
+- [[Mormon 8]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]] ↔ [[Mormon 8#^morm-8-7|Mormon 8:7]]
+- [[2 Nephi 2]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]] ↔ [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]]
+- [[Alma 11]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-7|Words of Mormon 1:7]] ↔ [[Alma 11#^alma-11-22|Alma 11:22]]
+- [[Mosiah 10]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-14|Words of Mormon 1:14]] ↔ [[Mosiah 10#^mosiah-10-10|Mosiah 10:10]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-14|Words of Mormon 1:14]] ↔ [[Alma 46#^alma-46-20|Alma 46:20]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-14|Words of Mormon 1:14]] ↔ [[3 Nephi 4#^3ne-4-10|3 Nephi 4:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Book of Mormon (Gospel Topic)]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

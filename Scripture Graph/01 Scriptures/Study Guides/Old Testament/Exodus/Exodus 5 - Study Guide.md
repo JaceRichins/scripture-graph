@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 5
 slug: ex-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 4 mentions
+- [[Aaron (brother of Moses)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 9]] — 4 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
+- [[Genesis 41]] — 3 parallel verses, e.g. [[Exodus 5#^ex-5-21|Exodus 5:21]] ↔ [[Genesis 41#^gen-41-37|Genesis 41:37]]
+- [[Exodus 8]] — 4 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 8#^ex-8-1|Exodus 8:1]]
+- [[Exodus 7]] — 3 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 7#^ex-7-16|Exodus 7:16]]
+- [[Exodus 3]] — 1 parallel verse, e.g. [[Exodus 5#^ex-5-3|Exodus 5:3]] ↔ [[Exodus 3#^ex-3-18|Exodus 3:18]]
+- [[Exodus 10]] — 2 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
+- [[Exodus 32]] — 1 parallel verse, e.g. [[Exodus 5#^ex-5-22|Exodus 5:22]] ↔ [[Exodus 32#^ex-32-31|Exodus 32:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

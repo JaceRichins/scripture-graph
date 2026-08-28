@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 4
 slug: jer-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,16 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 7 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 21]] — 1 parallel verse, e.g. [[Jeremiah 4#^jer-4-4|Jeremiah 4:4]] ↔ [[Jeremiah 21#^jer-21-12|Jeremiah 21:12]]
+- [[Zephaniah 1]] — 3 parallel verses, e.g. [[Jeremiah 4#^jer-4-26|Jeremiah 4:26]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
+- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Jeremiah 4#^jer-4-27|Jeremiah 4:27]] ↔ [[Jeremiah 30#^jer-30-11|Jeremiah 30:11]]
+- [[Jeremiah 50]] — 2 parallel verses, e.g. [[Jeremiah 4#^jer-4-31|Jeremiah 4:31]] ↔ [[Jeremiah 50#^jer-50-43|Jeremiah 50:43]]
+- [[Isaiah 21]] — 2 parallel verses, e.g. [[Jeremiah 4#^jer-4-27|Jeremiah 4:27]] ↔ [[Isaiah 21#^isa-21-6|Isaiah 21:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

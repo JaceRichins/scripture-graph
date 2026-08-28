@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 111
 slug: dc-111
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[D&C 111#^dc-111-4|D&C 111:4]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 111#^dc-111-8|D&C 111:8]] ↔ [[D&C 104#^dc-104-78|D&C 104:78]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 120
 slug: dc-120
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 117]] — 2 parallel verses, e.g. [[D&C 120#^dc-120-1|D&C 120:1]] ↔ [[D&C 117#^dc-117-13|D&C 117:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

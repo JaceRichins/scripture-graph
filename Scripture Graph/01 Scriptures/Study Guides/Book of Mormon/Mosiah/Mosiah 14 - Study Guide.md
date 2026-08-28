@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Isaiah (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 53]] — 12 parallel verses, e.g. [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]] ↔ [[Isaiah 53#^isa-53-10|Isaiah 53:10]]
+- [[Mosiah 15]] — 2 parallel verses, e.g. [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]
+- [[John 12]] — 1 parallel verse, e.g. [[Mosiah 14#^mosiah-14-1|Mosiah 14:1]] ↔ [[John 12#^john-12-38|John 12:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

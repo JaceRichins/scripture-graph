@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 3
 slug: 1chr-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,24 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 2 mentions
+- [[Solomon]] — 2 mentions
+- [[Hezekiah]] — 2 mentions
+- [[Josiah]] — 2 mentions
+- [[King Zedekiah]] — 2 mentions
+- [[Daniel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Hebron]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Samuel 5]] — 2 parallel verses, e.g. [[1 Chronicles 3#^1chr-3-4|1 Chronicles 3:4]] ↔ [[2 Samuel 5#^2sam-5-5|2 Samuel 5:5]]
+- [[2 Samuel 3]] — 2 parallel verses, e.g. [[1 Chronicles 3#^1chr-3-2|1 Chronicles 3:2]] ↔ [[2 Samuel 3#^2sam-3-3|2 Samuel 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

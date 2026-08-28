@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 118
 slug: dc-118
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,20 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Thomas (apostle)]] — 1 mention
+- [[John Taylor]] — 1 mention
+- [[Wilford Woodruff]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Far West]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 89]] — 1 parallel verse, e.g. [[D&C 118#^dc-118-3|D&C 118:3]] ↔ [[D&C 89#^dc-89-21|D&C 89:21]]
+- [[D&C 112]] — 2 parallel verses, e.g. [[D&C 118#^dc-118-3|D&C 118:3]] ↔ [[D&C 112#^dc-112-19|D&C 112:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

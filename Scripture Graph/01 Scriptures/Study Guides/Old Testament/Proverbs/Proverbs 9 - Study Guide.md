@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 9
 slug: prov-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 111]] — 1 parallel verse, e.g. [[Proverbs 9#^prov-9-10|Proverbs 9:10]] ↔ [[Psalm 111#^ps-111-10|Psalm 111:10]]
+- [[Proverbs 1]] — 1 parallel verse, e.g. [[Proverbs 9#^prov-9-10|Proverbs 9:10]] ↔ [[Proverbs 1#^prov-1-7|Proverbs 1:7]]
+- [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 9#^prov-9-10|Proverbs 9:10]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
+- [[Proverbs 4]] — 1 parallel verse, e.g. [[Proverbs 9#^prov-9-11|Proverbs 9:11]] ↔ [[Proverbs 4#^prov-4-10|Proverbs 4:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

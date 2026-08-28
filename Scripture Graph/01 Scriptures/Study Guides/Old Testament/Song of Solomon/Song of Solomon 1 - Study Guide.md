@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 1
 slug: song-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,17 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Song of Solomon 4]] — 1 parallel verse, e.g. [[Song of Solomon 1#^song-1-15|Song of Solomon 1:15]] ↔ [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

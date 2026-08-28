@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 12
 slug: prov-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 11]] — 3 parallel verses, e.g. [[Proverbs 12#^prov-12-22|Proverbs 12:22]] ↔ [[Proverbs 11#^prov-11-20|Proverbs 11:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Honesty]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

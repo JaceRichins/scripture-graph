@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 5
 slug: 1cor-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
+- [[Ephesians 5]] — 1 parallel verse, e.g. [[1 Corinthians 5#^1cor-5-4|1 Corinthians 5:4]] ↔ [[Ephesians 5#^eph-5-20|Ephesians 5:20]]
+- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 5#^1cor-5-4|1 Corinthians 5:4]] ↔ [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Passover]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 109
 slug: ps-109
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 109]] — 1 parallel verse, e.g. [[Psalm 109#^ps-109-27|Psalm 109:27]] ↔ [[D&C 109#^dc-109-23|D&C 109:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 105
 slug: ps-105
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 3 mentions
+- [[Isaac]] — 1 mention
+- [[Joseph (of Egypt)]] — 1 mention
+- [[Moses (prophet)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 16]] — 14 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]]
+- [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[Psalm 118#^ps-118-1|Psalm 118:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

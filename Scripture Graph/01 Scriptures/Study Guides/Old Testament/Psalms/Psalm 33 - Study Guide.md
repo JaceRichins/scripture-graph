@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 33
 slug: ps-33
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 25]] — 2 parallel verses, e.g. [[Psalm 33#^ps-33-14|Psalm 33:14]] ↔ [[Jeremiah 25#^jer-25-29|Jeremiah 25:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

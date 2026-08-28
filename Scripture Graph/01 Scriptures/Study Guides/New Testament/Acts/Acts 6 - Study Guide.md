@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 6
 slug: acts-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Stephen (martyr)]] — 3 mentions
+- [[Moses (prophet)]] — 2 mentions
+- [[Philip (apostle)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Antioch]] — 1 mention
+- [[Jerusalem]] — 1 mention
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 31]] — 2 parallel verses, e.g. [[Acts 6#^acts-6-5|Acts 6:5]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

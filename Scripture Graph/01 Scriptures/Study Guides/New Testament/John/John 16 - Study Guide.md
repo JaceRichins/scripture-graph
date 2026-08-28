@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 16
 slug: john-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 15]] — 4 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 15#^john-15-11|John 15:11]]
+- [[D&C 84]] — 3 parallel verses, e.g. [[John 16#^john-16-16|John 16:16]] ↔ [[D&C 84#^dc-84-119|D&C 84:119]]
+- [[John 14]] — 3 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 14#^john-14-25|John 14:25]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[Moroni 7#^moro-7-26|Moroni 7:26]]
+- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[John 16#^john-16-33|John 16:33]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-21|Joseph Smith—Matthew 1:21]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
+- [[3 Nephi 18]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

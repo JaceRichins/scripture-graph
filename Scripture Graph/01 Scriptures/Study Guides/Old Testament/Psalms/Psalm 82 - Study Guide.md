@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 82
 slug: ps-82
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 82#^ps-82-4|Psalm 82:4]] ↔ [[Psalm 97#^ps-97-10|Psalm 97:10]]
+- [[Exodus 18]] — 2 parallel verses, e.g. [[Psalm 82#^ps-82-4|Psalm 82:4]] ↔ [[Exodus 18#^ex-18-9|Exodus 18:9]]
+- [[Judges 2]] — 2 parallel verses, e.g. [[Psalm 82#^ps-82-4|Psalm 82:4]] ↔ [[Judges 2#^judg-2-16|Judges 2:16]]
+- [[1 Samuel 7]] — 2 parallel verses, e.g. [[Psalm 82#^ps-82-4|Psalm 82:4]] ↔ [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

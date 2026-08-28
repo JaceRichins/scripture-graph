@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 6
 slug: isa-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 16]] — 13 parallel verses, e.g. [[Isaiah 6#^isa-6-5|Isaiah 6:5]] ↔ [[2 Nephi 16#^2ne-16-5|2 Nephi 16:5]]
+- [[Acts 28]] — 1 parallel verse, e.g. [[Isaiah 6#^isa-6-10|Isaiah 6:10]] ↔ [[Acts 28#^acts-28-27|Acts 28:27]]
+- [[Matthew 13]] — 1 parallel verse, e.g. [[Isaiah 6#^isa-6-10|Isaiah 6:10]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[Isaiah 6#^isa-6-5|Isaiah 6:5]] ↔ [[Zechariah 14#^zech-14-16|Zechariah 14:16]]
+- [[Abraham 3]] — 2 parallel verses, e.g. [[Isaiah 6#^isa-6-5|Isaiah 6:5]] ↔ [[Abraham 3#^abr-3-21|Abraham 3:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

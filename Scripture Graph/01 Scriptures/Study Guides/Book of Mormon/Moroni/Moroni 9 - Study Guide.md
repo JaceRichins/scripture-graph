@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 9
 slug: moro-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Satan]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Nephi 14]] — 4 parallel verses, e.g. [[Moroni 9#^moro-9-25|Moroni 9:25]] ↔ [[1 Nephi 14#^1ne-14-28|1 Nephi 14:28]]
+- [[1 Nephi 2]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[1 Nephi 2#^1ne-2-18|1 Nephi 2:18]]
+- [[1 Nephi 17]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[1 Nephi 17#^1ne-17-19|1 Nephi 17:19]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
+- [[3 Nephi 18]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
+- [[1 Nephi 15]] — 1 parallel verse, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[1 Nephi 15#^1ne-15-4|1 Nephi 15:4]]
+- [[Jarom 1]] — 1 parallel verse, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[Jarom 1#^jarom-1-3|Jarom 1:3]]
+- [[Mormon 1]] — 1 parallel verse, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[Mormon 1#^morm-1-17|Mormon 1:17]]
+- [[1 Nephi 7]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[1 Nephi 7#^1ne-7-12|1 Nephi 7:12]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[3 Nephi 27#^3ne-27-8|3 Nephi 27:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

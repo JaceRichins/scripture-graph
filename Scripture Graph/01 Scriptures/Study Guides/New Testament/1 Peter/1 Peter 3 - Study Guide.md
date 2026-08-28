@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 3
 slug: 1pet-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Abraham (patriarch)]] — 1 mention
+- [[Noah (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 138]] — 5 parallel verses, e.g. [[1 Peter 3#^1pet-3-18|1 Peter 3:18]] ↔ [[D&C 138#^dc-138-7|D&C 138:7]]
+- [[Psalm 34]] — 2 parallel verses, e.g. [[1 Peter 3#^1pet-3-12|1 Peter 3:12]] ↔ [[Psalm 34#^ps-34-15|Psalm 34:15]]
+- [[Acts 7]] — 2 parallel verses, e.g. [[1 Peter 3#^1pet-3-22|1 Peter 3:22]] ↔ [[Acts 7#^acts-7-55|Acts 7:55]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Baptism for the Dead]]
+- [[Death and the Spirit World]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

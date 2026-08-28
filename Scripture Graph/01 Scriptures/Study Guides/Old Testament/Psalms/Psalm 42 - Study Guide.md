@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 42
 slug: ps-42
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 43]] — 3 parallel verses, e.g. [[Psalm 42#^ps-42-11|Psalm 42:11]] ↔ [[Psalm 43#^ps-43-5|Psalm 43:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

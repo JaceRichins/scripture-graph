@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 100
 slug: dc-100
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Sidney Rigdon]] — 2 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 105]] — 7 parallel verses, e.g. [[D&C 100#^dc-100-12|D&C 100:12]] ↔ [[D&C 105#^dc-105-41|D&C 105:41]]
+- [[D&C 124]] — 3 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
+- [[D&C 104]] — 3 parallel verses, e.g. [[D&C 100#^dc-100-7|D&C 100:7]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
+- [[D&C 71]] — 3 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
+- [[D&C 108]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
+- [[D&C 94]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-7|D&C 100:7]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
+- [[D&C 84]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-6|D&C 100:6]] ↔ [[D&C 84#^dc-84-85|D&C 84:85]]
+- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
+- [[D&C 86]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]
+- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
+- [[D&C 112]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 112#^dc-112-1|D&C 112:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 131
 slug: dc-131
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Eternal Marriage]]
+- [[Kingdoms of Glory]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

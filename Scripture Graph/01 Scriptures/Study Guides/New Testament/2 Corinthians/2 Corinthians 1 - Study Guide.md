@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 1
 slug: 2cor-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 9 mentions
+- [[Timothy (companion of Paul)]] — 2 mentions
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Corinth]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 1]] — 4 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
+- [[1 Corinthians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
+- [[Colossians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
+- [[Romans 15]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]] ↔ [[Romans 15#^rom-15-6|Romans 15:6]]
+- [[Philippians 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
+- [[2 Timothy 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]]
+- [[1 Timothy 1]] — 2 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]]
+- [[Romans 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-14|2 Corinthians 1:14]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
+- [[Galatians 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Galatians 1#^gal-1-3|Galatians 1:3]]
+- [[2 Thessalonians 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

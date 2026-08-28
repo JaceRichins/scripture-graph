@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 18
 slug: gen-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,22 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 13 mentions
+- [[Sarah]] — 10 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sodom]] — 4 mentions
+- [[Gomorrah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 32]] — 4 parallel verses, e.g. [[Genesis 18#^gen-18-29|Genesis 18:29]] ↔ [[Genesis 32#^gen-32-26|Genesis 32:26]]
+- [[2 Kings 4]] — 4 parallel verses, e.g. [[Genesis 18#^gen-18-10|Genesis 18:10]] ↔ [[2 Kings 4#^2kgs-4-16|2 Kings 4:16]]
+- [[Genesis 26]] — 3 parallel verses, e.g. [[Genesis 18#^gen-18-1|Genesis 18:1]] ↔ [[Genesis 26#^gen-26-2|Genesis 26:2]]
+- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 18#^gen-18-2|Genesis 18:2]] ↔ [[Genesis 22#^gen-22-13|Genesis 22:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

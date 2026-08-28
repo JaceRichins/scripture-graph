@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 27
 slug: jer-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Nebuchadnezzar]] — 3 mentions
+- [[King Zedekiah]] — 2 mentions
+- [[Josiah]] — 1 mention
+- [[Jeremiah (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 14 mentions
+- [[Jerusalem]] — 5 mentions
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 28]] — 15 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
+- [[Jeremiah 29]] — 10 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
+- [[Jeremiah 35]] — 9 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
+- [[Jeremiah 44]] — 9 parallel verses, e.g. [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]] ↔ [[Jeremiah 44#^jer-44-13|Jeremiah 44:13]]
+- [[Jeremiah 32]] — 11 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 32#^jer-32-14|Jeremiah 32:14]]
+- [[Jeremiah 42]] — 6 parallel verses, e.g. [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
+- [[Jeremiah 25]] — 6 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]
+- [[Jeremiah 22]] — 5 parallel verses, e.g. [[Jeremiah 27#^jer-27-18|Jeremiah 27:18]] ↔ [[Jeremiah 22#^jer-22-1|Jeremiah 22:1]]
+- [[Jeremiah 7]] — 4 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
+- [[Jeremiah 38]] — 6 parallel verses, e.g. [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
+- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 21]] — 6 parallel verses, e.g. [[Jeremiah 27#^jer-27-18|Jeremiah 27:18]] ↔ [[Jeremiah 21#^jer-21-11|Jeremiah 21:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Service]] *(keyword match — unconfirmed)*
+- [[Obedience]] *(keyword match — unconfirmed)*
+- [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

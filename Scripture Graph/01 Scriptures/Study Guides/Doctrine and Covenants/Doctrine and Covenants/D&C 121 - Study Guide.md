@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 2 mentions
+- [[Satan]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,22 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 121#^dc-121-31|D&C 121:31]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
+- [[D&C 76]] — 3 parallel verses, e.g. [[D&C 121#^dc-121-45|D&C 121:45]] ↔ [[D&C 76#^dc-76-25|D&C 76:25]]
+- [[D&C 68]] — 2 parallel verses, e.g. [[D&C 121#^dc-121-43|D&C 121:43]] ↔ [[D&C 68#^dc-68-4|D&C 68:4]]
+- [[D&C 54]] — 1 parallel verse, e.g. [[D&C 121#^dc-121-22|D&C 121:22]] ↔ [[D&C 54#^dc-54-5|D&C 54:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Priesthood]]
+- [[Chastity]]
+- [[Adversity]]
+- [[Endurance]]
+- [[Pride]]
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

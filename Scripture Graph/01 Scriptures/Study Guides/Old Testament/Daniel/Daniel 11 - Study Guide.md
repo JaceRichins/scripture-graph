@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 11
 slug: dan-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Ammon (son of Mosiah)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 3 mentions
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 8]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-40|Daniel 11:40]] ↔ [[Daniel 8#^dan-8-17|Daniel 8:17]]
+- [[Mosiah 11]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-38|Daniel 11:38]] ↔ [[Mosiah 11#^mosiah-11-9|Mosiah 11:9]]
+- [[Ezekiel 6]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-33|Daniel 11:33]] ↔ [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

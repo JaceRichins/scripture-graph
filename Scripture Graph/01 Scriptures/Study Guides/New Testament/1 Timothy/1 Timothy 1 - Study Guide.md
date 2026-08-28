@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 1
 slug: 1tim-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 10 mentions
+- [[Timothy (companion of Paul)]] — 2 mentions
+- [[Paul (apostle)]] — 1 mention
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Ephesus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Timothy 1]] — 3 parallel verses, e.g. [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]] ↔ [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]]
+- [[2 Corinthians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
+- [[Ephesians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
+- [[Colossians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
+- [[1 Timothy 4]] — 1 parallel verse, e.g. [[1 Timothy 1#^1tim-1-15|1 Timothy 1:15]] ↔ [[1 Timothy 4#^1tim-4-9|1 Timothy 4:9]]
+- [[Titus 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]] ↔ [[Titus 1#^titus-1-4|Titus 1:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

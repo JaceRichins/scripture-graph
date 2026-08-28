@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 16
 slug: gen-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 12 mentions
+- [[Sarah]] — 9 mentions
+- [[Ishmael (father-in-law of Nephi)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 13]] — 9 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[Judges 13#^judg-13-13|Judges 13:13]]
+- [[Numbers 22]] — 6 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
+- [[2 Kings 1]] — 3 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[2 Kings 1#^2kgs-1-15|2 Kings 1:15]]
+- [[1 Nephi 13]] — 3 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
+- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 16#^gen-16-3|Genesis 16:3]] ↔ [[Genesis 46#^gen-46-6|Genesis 46:6]]
+- [[Psalm 116]] — 2 parallel verses, e.g. [[Genesis 16#^gen-16-12|Genesis 16:12]] ↔ [[Psalm 116#^ps-116-14|Psalm 116:14]]
+- [[Ezekiel 19]] — 2 parallel verses, e.g. [[Genesis 16#^gen-16-4|Genesis 16:4]] ↔ [[Ezekiel 19#^ezek-19-5|Ezekiel 19:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

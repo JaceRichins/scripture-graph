@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 95
 slug: ps-95
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 3]] — 7 parallel verses, e.g. [[Psalm 95#^ps-95-10|Psalm 95:10]] ↔ [[Hebrews 3#^heb-3-10|Hebrews 3:10]]
+- [[Hebrews 4]] — 1 parallel verse, e.g. [[Psalm 95#^ps-95-7|Psalm 95:7]] ↔ [[Hebrews 4#^heb-4-7|Hebrews 4:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

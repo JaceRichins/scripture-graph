@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 106
 slug: ps-106
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 3 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Mount Sinai]] — 1 mention
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 136]] — 26 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
+- [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
+- [[Psalm 107]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
+- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
+- [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
+- [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
+- [[Ezra 3]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Ezra 3#^ezra-3-11|Ezra 3:11]]
+- [[Psalm 41]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-48|Psalm 106:48]] ↔ [[Psalm 41#^ps-41-13|Psalm 41:13]]
+- [[1 Kings 11]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-26|Psalm 106:26]] ↔ [[1 Kings 11#^1kgs-11-26|1 Kings 11:26]]
+- [[Jeremiah 33]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

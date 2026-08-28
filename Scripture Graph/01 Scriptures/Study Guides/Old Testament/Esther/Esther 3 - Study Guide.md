@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 3
 slug: esth-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Mordecai]] — 7 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Esther 8]] — 8 parallel verses, e.g. [[Esther 3#^esth-3-14|Esther 3:14]] ↔ [[Esther 8#^esth-8-13|Esther 8:13]]
+- [[Esther 9]] — 11 parallel verses, e.g. [[Esther 3#^esth-3-9|Esther 3:9]] ↔ [[Esther 9#^esth-9-13|Esther 9:13]]
+- [[Esther 1]] — 3 parallel verses, e.g. [[Esther 3#^esth-3-12|Esther 3:12]] ↔ [[Esther 1#^esth-1-22|Esther 1:22]]
+- [[Ezra 8]] — 1 parallel verse, e.g. [[Esther 3#^esth-3-12|Esther 3:12]] ↔ [[Ezra 8#^ezra-8-36|Ezra 8:36]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

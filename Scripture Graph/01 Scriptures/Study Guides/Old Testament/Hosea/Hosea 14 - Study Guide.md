@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 14
 slug: hosea-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

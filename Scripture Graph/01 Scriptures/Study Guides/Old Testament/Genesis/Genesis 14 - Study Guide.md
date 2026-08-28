@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 8 mentions
+- [[Melchizedek]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sodom]] — 8 mentions
+- [[Gomorrah]] — 4 mentions
+- [[Damascus]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 52]] — 2 parallel verses, e.g. [[Genesis 14#^gen-14-17|Genesis 14:17]] ↔ [[Jeremiah 52#^jer-52-32|Jeremiah 52:32]]
+- [[2 Kings 25]] — 2 parallel verses, e.g. [[Genesis 14#^gen-14-17|Genesis 14:17]] ↔ [[2 Kings 25#^2kgs-25-28|2 Kings 25:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Tithing]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

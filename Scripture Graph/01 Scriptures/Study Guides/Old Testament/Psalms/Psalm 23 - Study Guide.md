@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 23
 slug: ps-23
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Zechariah 2]] — 2 parallel verses, e.g. [[Psalm 23#^ps-23-6|Psalm 23:6]] ↔ [[Zechariah 2#^zech-2-10|Zechariah 2:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

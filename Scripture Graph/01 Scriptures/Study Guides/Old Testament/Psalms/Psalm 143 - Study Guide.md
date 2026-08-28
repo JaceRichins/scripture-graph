@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 143
 slug: ps-143
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

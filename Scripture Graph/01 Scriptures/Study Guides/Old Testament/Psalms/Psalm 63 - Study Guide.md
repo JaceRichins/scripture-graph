@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 63
 slug: ps-63
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 57]] — 1 parallel verse, e.g. [[Psalm 63#^ps-63-7|Psalm 63:7]] ↔ [[Psalm 57#^ps-57-1|Psalm 57:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

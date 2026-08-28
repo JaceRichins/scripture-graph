@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 30
 slug: ezek-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,29 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 16 mentions
+- [[Babylon]] — 4 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 29]] — 21 parallel verses, e.g. [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]] ↔ [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]]
+- [[Ezekiel 28]] — 23 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
+- [[Ezekiel 25]] — 13 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]]
+- [[Jeremiah 32]] — 9 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[Ezekiel 12]] — 11 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 12#^ezek-12-15|Ezekiel 12:15]]
+- [[Ezekiel 26]] — 8 parallel verses, e.g. [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
+- [[Ezekiel 20]] — 10 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 20#^ezek-20-42|Ezekiel 20:42]]
+- [[Ezekiel 36]] — 10 parallel verses, e.g. [[Ezekiel 30#^ezek-30-2|Ezekiel 30:2]] ↔ [[Ezekiel 36#^ezek-36-3|Ezekiel 36:3]]
+- [[Ezekiel 32]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
+- [[Ezekiel 6]] — 10 parallel verses, e.g. [[Ezekiel 30#^ezek-30-8|Ezekiel 30:8]] ↔ [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]]
+- [[Ezekiel 21]] — 6 parallel verses, e.g. [[Ezekiel 30#^ezek-30-2|Ezekiel 30:2]] ↔ [[Ezekiel 21#^ezek-21-9|Ezekiel 21:9]]
+- [[Jeremiah 34]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

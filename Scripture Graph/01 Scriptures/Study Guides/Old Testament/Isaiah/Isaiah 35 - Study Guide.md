@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Carmel]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 84]] — 2 parallel verses, e.g. [[Isaiah 35#^isa-35-5|Isaiah 35:5]] ↔ [[D&C 84#^dc-84-69|D&C 84:69]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

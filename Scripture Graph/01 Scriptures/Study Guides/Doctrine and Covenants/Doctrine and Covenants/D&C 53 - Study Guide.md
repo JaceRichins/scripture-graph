@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 53
 slug: dc-53
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Sidney Rigdon]] — 2 mentions
+- [[Joseph Smith Jr.]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 14 parallel verses, e.g. [[D&C 53#^dc-53-1|D&C 53:1]] ↔ [[D&C 124#^dc-124-20|D&C 124:20]]
+- [[D&C 55]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-5|D&C 53:5]] ↔ [[D&C 55#^dc-55-5|D&C 55:5]]
+- [[D&C 88]] — 6 parallel verses, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 88#^dc-88-77|D&C 88:77]]
+- [[D&C 52]] — 5 parallel verses, e.g. [[D&C 53#^dc-53-5|D&C 53:5]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
+- [[D&C 49]] — 4 parallel verses, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 49#^dc-49-1|D&C 49:1]]
+- [[D&C 63]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-5|D&C 53:5]] ↔ [[D&C 63#^dc-63-65|D&C 63:65]]
+- [[D&C 46]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 46#^dc-46-13|D&C 46:13]]
+- [[D&C 132]] — 4 parallel verses, e.g. [[D&C 53#^dc-53-1|D&C 53:1]] ↔ [[D&C 132#^dc-132-48|D&C 132:48]]
+- [[D&C 54]] — 2 parallel verses, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 54#^dc-54-1|D&C 54:1]]
+- [[D&C 90]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
+- [[D&C 75]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-1|D&C 53:1]] ↔ [[D&C 75#^dc-75-12|D&C 75:12]]
+- [[D&C 93]] — 3 parallel verses, e.g. [[D&C 53#^dc-53-1|D&C 53:1]] ↔ [[D&C 93#^dc-93-41|D&C 93:41]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

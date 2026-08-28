@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 2
 slug: moro-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places

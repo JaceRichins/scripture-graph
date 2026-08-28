@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 99
 slug: ps-99
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
+- [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

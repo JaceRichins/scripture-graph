@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 147
 slug: ps-147
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,7 +32,7 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures

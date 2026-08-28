@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 42
 slug: isa-42
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 12]] — 2 parallel verses, e.g. [[Isaiah 42#^isa-42-3|Isaiah 42:3]] ↔ [[Matthew 12#^matt-12-20|Matthew 12:20]]
+- [[Psalm 149]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-10|Isaiah 42:10]] ↔ [[Psalm 149#^ps-149-1|Psalm 149:1]]
+- [[Isaiah 49]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-6|Isaiah 42:6]] ↔ [[Isaiah 49#^isa-49-8|Isaiah 49:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

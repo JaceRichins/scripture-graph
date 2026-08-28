@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 4
 slug: gal-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Abraham (patriarch)]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Sinai]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 21]] — 1 parallel verse, e.g. [[Galatians 4#^gal-4-30|Galatians 4:30]] ↔ [[Genesis 21#^gen-21-10|Genesis 21:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,14 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph Smith Jr.]] — 4 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[Martin Harris]] — 2 mentions
+- [[Jared (Jaredite)]] — 2 mentions
+- [[Oliver Cowdery]] — 2 mentions
+- [[Samuel (prophet)]] — 2 mentions
+- [[Sidney Rigdon]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +44,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 68]] — 6 parallel verses, e.g. [[D&C 102#^dc-102-26|D&C 102:26]] ↔ [[D&C 68#^dc-68-19|D&C 68:19]]
+- [[D&C 107]] — 3 parallel verses, e.g. [[D&C 102#^dc-102-10|D&C 102:10]] ↔ [[D&C 107#^dc-107-93|D&C 107:93]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[D&C 102#^dc-102-12|D&C 102:12]] ↔ [[D&C 20#^dc-20-81|D&C 20:81]]
+- [[D&C 51]] — 2 parallel verses, e.g. [[D&C 102#^dc-102-9|D&C 102:9]] ↔ [[D&C 51#^dc-51-4|D&C 51:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Apostles]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 2
 slug: 1jn-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Moroni 7]] — 2 parallel verses, e.g. [[1 John 2#^1jn-2-22|1 John 2:22]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
+- [[2 John 1]] — 2 parallel verses, e.g. [[1 John 2#^1jn-2-7|1 John 2:7]] ↔ [[2 John 1#^2jn-1-6|2 John 1:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Infant Baptism (rejected doctrine)]] *(keyword match — unconfirmed)*
+- [[Honesty]] *(keyword match — unconfirmed)*
+- [[Truth]] *(keyword match — unconfirmed)*
+- [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

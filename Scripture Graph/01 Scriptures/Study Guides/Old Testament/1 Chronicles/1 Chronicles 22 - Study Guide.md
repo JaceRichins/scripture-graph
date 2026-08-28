@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 22
 slug: 1chr-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 8 mentions
+- [[Solomon]] — 5 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 28]] — 7 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
+- [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
+- [[1 Kings 5]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]] ↔ [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]]
+- [[Joshua 3]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
+- [[1 Samuel 4]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
+- [[1 Kings 8]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
+- [[2 Chronicles 2]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-2|1 Chronicles 22:2]] ↔ [[2 Chronicles 2#^2chr-2-17|2 Chronicles 2:17]]
+- [[1 Chronicles 17]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[1 Chronicles 17#^1chr-17-13|1 Chronicles 17:13]]
+- [[2 Samuel 7]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[2 Samuel 7#^2sam-7-13|2 Samuel 7:13]]
+- [[Joshua 4]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
+- [[2 Chronicles 5]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

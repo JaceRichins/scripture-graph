@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 4
 slug: 1thes-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
 <!-- SG:END people -->
 
 ## Places

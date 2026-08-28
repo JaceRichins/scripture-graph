@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 113
 slug: ps-113
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 2]] — 1 parallel verse, e.g. [[Psalm 113#^ps-113-7|Psalm 113:7]] ↔ [[1 Samuel 2#^1sam-2-8|1 Samuel 2:8]]
+- [[Psalm 50]] — 1 parallel verse, e.g. [[Psalm 113#^ps-113-3|Psalm 113:3]] ↔ [[Psalm 50#^ps-50-1|Psalm 50:1]]
+- [[Psalm 115]] — 1 parallel verse, e.g. [[Psalm 113#^ps-113-2|Psalm 113:2]] ↔ [[Psalm 115#^ps-115-18|Psalm 115:18]]
+- [[Malachi 1]] — 1 parallel verse, e.g. [[Psalm 113#^ps-113-3|Psalm 113:3]] ↔ [[Malachi 1#^mal-1-11|Malachi 1:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

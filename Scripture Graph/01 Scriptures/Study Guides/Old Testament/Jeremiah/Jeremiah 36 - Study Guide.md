@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jeremiah (prophet)]] — 12 mentions
+- [[Josiah]] — 3 mentions
+- [[King Zedekiah]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 26]] — 5 parallel verses, e.g. [[Jeremiah 36#^jer-36-3|Jeremiah 36:3]] ↔ [[Jeremiah 26#^jer-26-3|Jeremiah 26:3]]
+- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
+- [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]
+- [[Jeremiah 22]] — 5 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 22#^jer-22-18|Jeremiah 22:18]]
+- [[Jeremiah 45]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]]
+- [[Jeremiah 46]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 46#^jer-46-2|Jeremiah 46:2]]
+- [[Jeremiah 27]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]
+- [[Jeremiah 28]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]] ↔ [[Jeremiah 28#^jer-28-7|Jeremiah 28:7]]
+- [[Jeremiah 1]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]]
+- [[2 Kings 18]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[2 Kings 18#^2kgs-18-9|2 Kings 18:9]]
+- [[Jeremiah 34]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-29|Jeremiah 36:29]] ↔ [[Jeremiah 34#^jer-34-4|Jeremiah 34:4]]
+- [[Jeremiah 37]] — 3 parallel verses, e.g. [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]] ↔ [[Jeremiah 37#^jer-37-2|Jeremiah 37:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

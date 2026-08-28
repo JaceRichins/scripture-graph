@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 8
 slug: song-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,18 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Song of Solomon 2]] — 3 parallel verses, e.g. [[Song of Solomon 8#^song-8-4|Song of Solomon 8:4]] ↔ [[Song of Solomon 2#^song-2-7|Song of Solomon 2:7]]
+- [[Song of Solomon 3]] — 1 parallel verse, e.g. [[Song of Solomon 8#^song-8-4|Song of Solomon 8:4]] ↔ [[Song of Solomon 3#^song-3-5|Song of Solomon 3:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

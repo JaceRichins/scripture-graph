@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 7
 slug: dc-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Peter (apostle)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 21]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-4|D&C 7:4]] ↔ [[John 21#^john-21-22|John 21:22]]
+- [[D&C 132]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-7|D&C 7:7]] ↔ [[D&C 132#^dc-132-7|D&C 132:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 1
 slug: 1pet-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 9 mentions
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,21 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 1]] — 2 parallel verses, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
+- [[D&C 128]] — 4 parallel verses, e.g. [[1 Peter 1#^1pet-1-20|1 Peter 1:20]] ↔ [[D&C 128#^dc-128-5|D&C 128:5]]
+- [[2 Corinthians 11]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]]
+- [[D&C 124]] — 2 parallel verses, e.g. [[1 Peter 1#^1pet-1-20|1 Peter 1:20]] ↔ [[D&C 124#^dc-124-33|D&C 124:33]]
+- [[D&C 132]] — 2 parallel verses, e.g. [[1 Peter 1#^1pet-1-20|1 Peter 1:20]] ↔ [[D&C 132#^dc-132-5|D&C 132:5]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[1 Peter 1#^1pet-1-1|1 Peter 1:1]] ↔ [[D&C 20#^dc-20-2|D&C 20:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Grace]] *(keyword match — unconfirmed)*
+- [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 12
 slug: jer-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,15 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 4]] — 2 parallel verses, e.g. [[Jeremiah 12#^jer-12-16|Jeremiah 12:16]] ↔ [[Exodus 4#^ex-4-8|Exodus 4:8]]
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jeremiah 12#^jer-12-13|Jeremiah 12:13]] ↔ [[Jeremiah 25#^jer-25-37|Jeremiah 25:37]]
+- [[Psalm 107]] — 1 parallel verse, e.g. [[Jeremiah 12#^jer-12-4|Jeremiah 12:4]] ↔ [[Psalm 107#^ps-107-34|Psalm 107:34]]
+- [[Ezekiel 31]] — 2 parallel verses, e.g. [[Jeremiah 12#^jer-12-9|Jeremiah 12:9]] ↔ [[Ezekiel 31#^ezek-31-6|Ezekiel 31:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

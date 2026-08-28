@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 6
 slug: prov-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 24]] — 2 parallel verses, e.g. [[Proverbs 6#^prov-6-11|Proverbs 6:11]] ↔ [[Proverbs 24#^prov-24-34|Proverbs 24:34]]
+- [[Proverbs 1]] — 1 parallel verse, e.g. [[Proverbs 6#^prov-6-20|Proverbs 6:20]] ↔ [[Proverbs 1#^prov-1-8|Proverbs 1:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

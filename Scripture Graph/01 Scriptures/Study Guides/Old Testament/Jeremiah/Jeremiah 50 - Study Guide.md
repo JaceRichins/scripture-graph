@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 50
 slug: jer-50
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,43 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jeremiah (prophet)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 19 mentions
+- [[Assyria]] — 2 mentions
+- [[Mount Carmel]] — 1 mention
+- [[Sodom]] — 1 mention
+- [[Gomorrah]] — 1 mention
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 49]] — 8 parallel verses, e.g. [[Jeremiah 50#^jer-50-44|Jeremiah 50:44]] ↔ [[Jeremiah 49#^jer-49-19|Jeremiah 49:19]]
+- [[Jeremiah 51]] — 9 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 51#^jer-51-33|Jeremiah 51:33]]
+- [[Jeremiah 35]] — 5 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
+- [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
+- [[Jeremiah 25]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-41|Jeremiah 50:41]] ↔ [[Jeremiah 25#^jer-25-32|Jeremiah 25:32]]
+- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
+- [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-33|Jeremiah 50:33]] ↔ [[Jeremiah 32#^jer-32-30|Jeremiah 32:30]]
+- [[Jeremiah 19]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 46]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 46#^jer-46-25|Jeremiah 46:25]]
+- [[Jeremiah 31]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]]
+- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
+- [[Isaiah 22]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-25|Jeremiah 50:25]] ↔ [[Isaiah 22#^isa-22-5|Isaiah 22:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 8 mentions
+- [[Solomon]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 15]] — 3 parallel verses, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]]
+- [[1 Nephi 22]] — 1 parallel verse, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
+- [[John 6]] — 2 parallel verses, e.g. [[John 10#^john-10-1|John 10:1]] ↔ [[John 6#^john-6-47|John 6:47]]
+- [[D&C 50]] — 2 parallel verses, e.g. [[John 10#^john-10-1|John 10:1]] ↔ [[D&C 50#^dc-50-17|D&C 50:17]]
+- [[3 Nephi 16]] — 1 parallel verse, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[3 Nephi 16#^3ne-16-3|3 Nephi 16:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jesus Christ (Gospel Topic)]]
+- [[Sermon at the Temple (3 Nephi)]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

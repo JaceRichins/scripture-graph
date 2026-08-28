@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 7
 slug: 1chr-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Benjamin]] — 2 mentions
+- [[David (king)]] — 1 mention
+- [[Adam]] — 1 mention
+- [[Joseph (of Egypt)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Gaza]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 5]] — 8 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-7|1 Chronicles 7:7]] ↔ [[1 Chronicles 5#^1chr-5-24|1 Chronicles 5:24]]
+- [[Genesis 38]] — 3 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]] ↔ [[Genesis 38#^gen-38-3|Genesis 38:3]]
+- [[Exodus 2]] — 3 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]] ↔ [[Exodus 2#^ex-2-22|Exodus 2:22]]
+- [[Moses 6]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
+- [[Genesis 29]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-16|1 Chronicles 7:16]] ↔ [[Genesis 29#^gen-29-32|Genesis 29:32]]
+- [[Genesis 46]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-31|1 Chronicles 7:31]] ↔ [[Genesis 46#^gen-46-17|Genesis 46:17]]
+- [[Numbers 27]] — 1 parallel verse, e.g. [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
+- [[Numbers 36]] — 1 parallel verse, e.g. [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
+- [[Joshua 17]] — 1 parallel verse, e.g. [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
+- [[Numbers 4]] — 3 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-4|1 Chronicles 7:4]] ↔ [[Numbers 4#^num-4-34|Numbers 4:34]]
+- [[Numbers 7]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-7|1 Chronicles 7:7]] ↔ [[Numbers 7#^num-7-2|Numbers 7:2]]
+- [[1 Chronicles 9]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-7|1 Chronicles 7:7]] ↔ [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

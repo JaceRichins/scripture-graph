@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 18
 slug: prov-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-8|Proverbs 18:8]] ↔ [[Proverbs 26#^prov-26-22|Proverbs 26:22]]
+- [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-11|Proverbs 18:11]] ↔ [[Proverbs 10#^prov-10-15|Proverbs 10:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

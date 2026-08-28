@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Articles of Faith
 chapter: 1
 slug: aoff-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Adam]] — 1 mention
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
+- [[D&C 20]] — 3 parallel verses, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[D&C 20#^dc-20-26|D&C 20:26]]
+- [[D&C 138]] — 2 parallel verses, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[D&C 138#^dc-138-33|D&C 138:33]]
+- [[D&C 13]] — 1 parallel verse, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[D&C 13#^dc-13-1|D&C 13:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Ordinances]]
+- [[Zion]]
+- [[Millennium]]
+- [[Honesty]]
+- [[Spiritual Gifts]]
+- [[Government and Laws]]
+- [[The Godhead]]
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

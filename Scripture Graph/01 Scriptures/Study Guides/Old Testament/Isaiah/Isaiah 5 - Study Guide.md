@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,17 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 15]] — 33 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
+- [[Isaiah 9]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
+- [[2 Nephi 19]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
+- [[Isaiah 10]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
+- [[2 Nephi 20]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
+- [[Isaiah 2]] — 2 parallel verses, e.g. [[Isaiah 5#^isa-5-16|Isaiah 5:16]] ↔ [[Isaiah 2#^isa-2-12|Isaiah 2:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 7
 slug: rom-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 7]] — 3 parallel verses, e.g. [[Romans 7#^rom-7-3|Romans 7:3]] ↔ [[1 Corinthians 7#^1cor-7-39|1 Corinthians 7:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

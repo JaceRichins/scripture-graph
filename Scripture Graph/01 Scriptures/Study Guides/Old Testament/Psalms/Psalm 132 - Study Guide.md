@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 132
 slug: ps-132
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Chronicles 6]] — 2 parallel verses, e.g. [[Psalm 132#^ps-132-10|Psalm 132:10]] ↔ [[2 Chronicles 6#^2chr-6-42|2 Chronicles 6:42]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

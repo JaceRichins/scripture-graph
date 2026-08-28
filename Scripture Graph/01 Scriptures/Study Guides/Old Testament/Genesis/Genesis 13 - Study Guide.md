@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 13
 slug: gen-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,25 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 9 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sodom]] — 3 mentions
+- [[Egypt]] — 2 mentions
+- [[Jordan River]] — 2 mentions
+- [[Gomorrah]] — 1 mention
+- [[Canaan]] — 1 mention
+- [[Hebron]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 28]] — 2 parallel verses, e.g. [[Genesis 13#^gen-13-15|Genesis 13:15]] ↔ [[Genesis 28#^gen-28-13|Genesis 28:13]]
+- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 13#^gen-13-12|Genesis 13:12]] ↔ [[Genesis 46#^gen-46-6|Genesis 46:6]]
+- [[Genesis 12]] — 1 parallel verse, e.g. [[Genesis 13#^gen-13-1|Genesis 13:1]] ↔ [[Genesis 12#^gen-12-20|Genesis 12:20]]
+- [[Deuteronomy 3]] — 2 parallel verses, e.g. [[Genesis 13#^gen-13-12|Genesis 13:12]] ↔ [[Deuteronomy 3#^deut-3-10|Deuteronomy 3:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

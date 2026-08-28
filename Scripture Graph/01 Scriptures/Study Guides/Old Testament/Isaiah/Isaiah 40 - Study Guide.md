@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 40
 slug: isa-40
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Luke 3]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-4|Isaiah 40:4]] ↔ [[Luke 3#^luke-3-5|Luke 3:5]]
+- [[Isaiah 62]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-10|Isaiah 40:10]] ↔ [[Isaiah 62#^isa-62-11|Isaiah 62:11]]
+- [[Isaiah 58]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
+- [[Matthew 3]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
+- [[D&C 65]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
+- [[1 Nephi 10]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
+- [[Leviticus 9]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Leviticus 9#^lev-9-6|Leviticus 9:6]]
+- [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
+- [[Numbers 16]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
+- [[Exodus 40]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Exodus 40#^ex-40-34|Exodus 40:34]]
+- [[2 Chronicles 7]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[2 Chronicles 7#^2chr-7-1|2 Chronicles 7:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

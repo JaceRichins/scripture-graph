@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 2
 slug: ezra-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 2 mentions
+- [[Nebuchadnezzar]] — 1 mention
+- [[Nehemiah (governor)]] — 1 mention
+- [[Mordecai]] — 1 mention
+- [[Hezekiah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
+- [[Cumorah]] — 1 mention
+- [[Jericho]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 7]] — 59 parallel verses, e.g. [[Ezra 2#^ezra-2-1|Ezra 2:1]] ↔ [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]]
+- [[Ezra 7]] — 2 parallel verses, e.g. [[Ezra 2#^ezra-2-70|Ezra 2:70]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
+- [[Nehemiah 11]] — 3 parallel verses, e.g. [[Ezra 2#^ezra-2-58|Ezra 2:58]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
+- [[Esther 2]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-1|Ezra 2:1]] ↔ [[Esther 2#^esth-2-6|Esther 2:6]]
+- [[Genesis 28]] — 2 parallel verses, e.g. [[Ezra 2#^ezra-2-61|Ezra 2:61]] ↔ [[Genesis 28#^gen-28-1|Genesis 28:1]]
+- [[Nehemiah 13]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-70|Ezra 2:70]] ↔ [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

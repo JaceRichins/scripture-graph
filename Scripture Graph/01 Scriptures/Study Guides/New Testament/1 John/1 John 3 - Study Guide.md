@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Satan]] — 4 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Cain]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Moroni 7]] — 2 parallel verses, e.g. [[1 John 3#^1jn-3-2|1 John 3:2]] ↔ [[Moroni 7#^moro-7-48|Moroni 7:48]]
+- [[1 John 4]] — 3 parallel verses, e.g. [[1 John 3#^1jn-3-10|1 John 3:10]] ↔ [[1 John 4#^1jn-4-20|1 John 4:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

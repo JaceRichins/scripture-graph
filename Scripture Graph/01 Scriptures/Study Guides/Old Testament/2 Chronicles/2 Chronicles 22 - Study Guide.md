@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 22
 slug: 2chr-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,30 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
+- [[Cumorah]] — 1 mention
+- [[Samaria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 8]] — 12 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 8#^2kgs-8-26|2 Kings 8:26]]
+- [[2 Kings 11]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-10|2 Chronicles 22:10]] ↔ [[2 Kings 11#^2kgs-11-1|2 Kings 11:1]]
+- [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
+- [[2 Kings 23]] — 3 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
+- [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
+- [[2 Chronicles 21]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 21#^2chr-21-20|2 Chronicles 21:20]]
+- [[2 Chronicles 33]] — 3 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]]
+- [[2 Kings 15]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
+- [[2 Kings 18]] — 1 parallel verse, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 18#^2kgs-18-2|2 Kings 18:2]]
+- [[2 Kings 24]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
+- [[2 Chronicles 24]] — 1 parallel verse, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 24#^2chr-24-1|2 Chronicles 24:1]]
+- [[2 Chronicles 26]] — 1 parallel verse, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

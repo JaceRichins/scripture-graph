@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 83
 slug: dc-83
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 72]] — 2 parallel verses, e.g. [[D&C 83#^dc-83-1|D&C 83:1]] ↔ [[D&C 72#^dc-72-24|D&C 72:24]]
+- [[D&C 107]] — 2 parallel verses, e.g. [[D&C 83#^dc-83-3|D&C 83:3]] ↔ [[D&C 107#^dc-107-79|D&C 107:79]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

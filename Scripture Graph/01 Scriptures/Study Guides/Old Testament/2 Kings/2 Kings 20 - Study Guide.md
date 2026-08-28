@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 20
 slug: 2kgs-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Hezekiah]] — 16 mentions
+- [[Isaiah (prophet)]] — 9 mentions
+- [[David (king)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 4 mentions
+- [[Assyria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 39]] — 8 parallel verses, e.g. [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]] ↔ [[Isaiah 39#^isa-39-2|Isaiah 39:2]]
+- [[Isaiah 38]] — 8 parallel verses, e.g. [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]] ↔ [[Isaiah 38#^isa-38-1|Isaiah 38:1]]
+- [[2 Kings 15]] — 11 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
+- [[1 Kings 16]] — 6 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
+- [[2 Kings 14]] — 5 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 14#^2kgs-14-18|2 Kings 14:18]]
+- [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
+- [[1 Kings 22]] — 5 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 22#^1kgs-22-45|1 Kings 22:45]]
+- [[2 Kings 21]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
+- [[2 Kings 13]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 13#^2kgs-13-12|2 Kings 13:12]]
+- [[1 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
+- [[2 Chronicles 32]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-21|2 Kings 20:21]] ↔ [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]]
+- [[2 Kings 16]] — 3 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

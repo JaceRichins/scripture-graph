@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 9
 slug: jer-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Ammon (son of Mosiah)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
+- [[Egypt]] — 1 mention
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 5]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-9|Jeremiah 9:9]] ↔ [[Jeremiah 5#^jer-5-29|Jeremiah 5:29]]
+- [[Jeremiah 31]] — 5 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
+- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
+- [[Jeremiah 29]] — 5 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
+- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
+- [[Jeremiah 49]] — 4 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
+- [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
+- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]]
+- [[Jeremiah 48]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
+- [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
+- [[Jeremiah 23]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

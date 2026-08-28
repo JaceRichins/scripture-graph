@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 45
 slug: isa-45
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,23 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Cyrus]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 46]] — 1 parallel verse, e.g. [[Isaiah 45#^isa-45-22|Isaiah 45:22]] ↔ [[Isaiah 46#^isa-46-9|Isaiah 46:9]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Isaiah 45#^isa-45-14|Isaiah 45:14]] ↔ [[Moses 1#^moses-1-41|Moses 1:41]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

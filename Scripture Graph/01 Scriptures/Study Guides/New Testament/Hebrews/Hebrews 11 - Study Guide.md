@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Isaac]] — 4 mentions
+- [[Abraham (patriarch)]] — 2 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[Moses (prophet)]] — 2 mentions
+- [[Abel]] — 1 mention
+- [[Cain]] — 1 mention
+- [[Enoch]] — 1 mention
+- [[Noah (patriarch)]] — 1 mention
+- [[Esau]] — 1 mention
+- [[Jesus Christ]] — 1 mention
+- [[Samson]] — 1 mention
+- [[David (king)]] — 1 mention
+- [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Jericho]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Kings 4]] — 1 parallel verse, e.g. [[Hebrews 11#^heb-11-12|Hebrews 11:12]] ↔ [[1 Kings 4#^1kgs-4-20|1 Kings 4:20]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[Hebrews 11#^heb-11-13|Hebrews 11:13]] ↔ [[D&C 45#^dc-45-13|D&C 45:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]]
+- [[Sacrifice of Isaac (Akedah)]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 100
 slug: ps-100
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 98]] — 1 parallel verse, e.g. [[Psalm 100#^ps-100-1|Psalm 100:1]] ↔ [[Psalm 98#^ps-98-4|Psalm 98:4]]
+- [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Psalm 100#^ps-100-3|Psalm 100:3]] ↔ [[Deuteronomy 4#^deut-4-35|Deuteronomy 4:35]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gratitude]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

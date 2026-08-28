@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 18 mentions
+- [[Nebuchadnezzar]] — 4 mentions
+- [[Shadrach]] — 1 mention
+- [[Meshach]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 8 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 4]] — 9 parallel verses, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[Daniel 4#^dan-4-12|Daniel 4:12]]
+- [[Daniel 3]] — 2 parallel verses, e.g. [[Daniel 2#^dan-2-49|Daniel 2:49]] ↔ [[Daniel 3#^dan-3-12|Daniel 3:12]]
+- [[Ezekiel 38]] — 2 parallel verses, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[Ezekiel 38#^ezek-38-20|Ezekiel 38:20]]
+- [[D&C 49]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
+- [[D&C 59]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]
+- [[2 Nephi 2]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
+- [[D&C 89]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
+- [[Moses 5]] — 2 parallel verses, e.g. [[Daniel 2#^dan-2-20|Daniel 2:20]] ↔ [[Moses 5#^moses-5-10|Moses 5:10]]
+- [[Alma 19]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-20|Daniel 2:20]] ↔ [[Alma 19#^alma-19-12|Alma 19:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

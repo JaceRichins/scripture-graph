@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 45
 slug: gen-45
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 14 mentions
+- [[King Benjamin]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 10 mentions
+- [[Canaan]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 41]] — 5 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Genesis 41#^gen-41-29|Genesis 41:29]]
+- [[Exodus 8]] — 4 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 8#^ex-8-16|Exodus 8:16]]
+- [[Exodus 9]] — 4 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 9#^ex-9-9|Exodus 9:9]]
+- [[Genesis 46]] — 3 parallel verses, e.g. [[Genesis 45#^gen-45-3|Genesis 45:3]] ↔ [[Genesis 46#^gen-46-31|Genesis 46:31]]
+- [[Genesis 50]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-3|Genesis 45:3]] ↔ [[Genesis 50#^gen-50-24|Genesis 50:24]]
+- [[Genesis 47]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-10|Genesis 45:10]] ↔ [[Genesis 47#^gen-47-4|Genesis 47:4]]
+- [[Exodus 7]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 7#^ex-7-19|Exodus 7:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

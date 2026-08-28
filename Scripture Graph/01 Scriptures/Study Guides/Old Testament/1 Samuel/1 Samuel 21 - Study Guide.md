@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 21
 slug: 1sam-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 11 mentions
+- [[Saul (king)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 18]] — 1 parallel verse, e.g. [[1 Samuel 21#^1sam-21-11|1 Samuel 21:11]] ↔ [[1 Samuel 18#^1sam-18-7|1 Samuel 18:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 2
 slug: micah-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 27]] — 2 parallel verses, e.g. [[Micah 2#^micah-2-12|Micah 2:12]] ↔ [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

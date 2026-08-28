@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 29
 slug: ezek-29
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,31 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 10 mentions
+- [[Babylon]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 30]] — 21 parallel verses, e.g. [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]] ↔ [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]]
+- [[Ezekiel 28]] — 17 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
+- [[Ezekiel 24]] — 11 parallel verses, e.g. [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
+- [[Ezekiel 26]] — 10 parallel verses, e.g. [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
+- [[Ezekiel 38]] — 10 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
+- [[Ezekiel 34]] — 11 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 34#^ezek-34-10|Ezekiel 34:10]]
+- [[Ezekiel 39]] — 7 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
+- [[Ezekiel 25]] — 8 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 25#^ezek-25-16|Ezekiel 25:16]]
+- [[Ezekiel 36]] — 9 parallel verses, e.g. [[Ezekiel 29#^ezek-29-9|Ezekiel 29:9]] ↔ [[Ezekiel 36#^ezek-36-38|Ezekiel 36:38]]
+- [[Ezekiel 13]] — 7 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 13#^ezek-13-20|Ezekiel 13:20]]
+- [[Ezekiel 6]] — 8 parallel verses, e.g. [[Ezekiel 29#^ezek-29-9|Ezekiel 29:9]] ↔ [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]]
+- [[Ezekiel 37]] — 6 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

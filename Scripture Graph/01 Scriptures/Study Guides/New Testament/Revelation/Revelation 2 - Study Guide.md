@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Satan]] — 5 mentions
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Ephesus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 3]] — 26 parallel verses, e.g. [[Revelation 2#^rev-2-7|Revelation 2:7]] ↔ [[Revelation 3#^rev-3-6|Revelation 3:6]]
+- [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 2#^rev-2-27|Revelation 2:27]] ↔ [[Revelation 19#^rev-19-15|Revelation 19:15]]
+- [[D&C 130]] — 1 parallel verse, e.g. [[Revelation 2#^rev-2-17|Revelation 2:17]] ↔ [[D&C 130#^dc-130-11|D&C 130:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Chastity]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Adversity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 22
 slug: ezek-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 17]] — 10 parallel verses, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
+- [[Ezekiel 21]] — 10 parallel verses, e.g. [[Ezekiel 22#^ezek-22-17|Ezekiel 22:17]] ↔ [[Ezekiel 21#^ezek-21-1|Ezekiel 21:1]]
+- [[Ezekiel 13]] — 8 parallel verses, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 13#^ezek-13-14|Ezekiel 13:14]]
+- [[Ezekiel 24]] — 10 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
+- [[Ezekiel 35]] — 7 parallel verses, e.g. [[Ezekiel 22#^ezek-22-16|Ezekiel 22:16]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[Jeremiah 1]] — 8 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]]
+- [[Ezekiel 20]] — 7 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 20#^ezek-20-45|Ezekiel 20:45]]
+- [[Ezekiel 36]] — 6 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 36#^ezek-36-16|Ezekiel 36:16]]
+- [[Ezekiel 28]] — 6 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 28#^ezek-28-11|Ezekiel 28:11]]
+- [[Ezekiel 5]] — 5 parallel verses, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]]
+- [[Ezekiel 29]] — 6 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]]
+- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

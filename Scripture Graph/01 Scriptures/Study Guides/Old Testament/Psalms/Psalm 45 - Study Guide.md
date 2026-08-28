@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 45
 slug: ps-45
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 1]] — 2 parallel verses, e.g. [[Psalm 45#^ps-45-7|Psalm 45:7]] ↔ [[Hebrews 1#^heb-1-9|Hebrews 1:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

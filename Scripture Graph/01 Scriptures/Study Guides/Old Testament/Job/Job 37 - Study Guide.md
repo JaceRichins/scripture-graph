@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 37
 slug: job-37
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mormon 9]] — 2 parallel verses, e.g. [[Job 37#^job-37-3|Job 37:3]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
+- [[D&C 65]] — 2 parallel verses, e.g. [[Job 37#^job-37-3|Job 37:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

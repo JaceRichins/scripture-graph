@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 48
 slug: gen-48
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 12 mentions
+- [[Abraham (patriarch)]] — 2 mentions
+- [[Isaac]] — 2 mentions
+- [[Rachel]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 2 mentions
+- [[Egypt]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
+- [[Abraham 2]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-4|Genesis 48:4]] ↔ [[Abraham 2#^abr-2-6|Abraham 2:6]]
+- [[Genesis 40]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[Genesis 40#^gen-40-1|Genesis 40:1]]
+- [[Joshua 24]] — 1 parallel verse, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[Joshua 24#^josh-24-29|Joshua 24:29]]
+- [[Joshua 22]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-7|Genesis 48:7]] ↔ [[Joshua 22#^josh-22-11|Joshua 22:11]]
+- [[Genesis 39]] — 1 parallel verse, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[Genesis 39#^gen-39-7|Genesis 39:7]]
+- [[1 Kings 17]] — 1 parallel verse, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]]
+- [[1 Kings 21]] — 1 parallel verse, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[1 Kings 21#^1kgs-21-1|1 Kings 21:1]]
+- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-3|Genesis 48:3]] ↔ [[Genesis 46#^gen-46-6|Genesis 46:6]]
+- [[Genesis 35]] — 1 parallel verse, e.g. [[Genesis 48#^gen-48-7|Genesis 48:7]] ↔ [[Genesis 35#^gen-35-16|Genesis 35:16]]
+- [[Exodus 18]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-22|Genesis 48:22]] ↔ [[Exodus 18#^ex-18-9|Exodus 18:9]]
+- [[1 Samuel 7]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-22|Genesis 48:22]] ↔ [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

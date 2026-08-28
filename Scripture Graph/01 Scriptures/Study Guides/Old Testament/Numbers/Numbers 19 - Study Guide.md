@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 19
 slug: num-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 15]] — 40 parallel verses, e.g. [[Numbers 19#^num-19-19|Numbers 19:19]] ↔ [[Leviticus 15#^lev-15-5|Leviticus 15:5]]
+- [[Leviticus 11]] — 16 parallel verses, e.g. [[Numbers 19#^num-19-10|Numbers 19:10]] ↔ [[Leviticus 11#^lev-11-25|Leviticus 11:25]]
+- [[Leviticus 16]] — 5 parallel verses, e.g. [[Numbers 19#^num-19-7|Numbers 19:7]] ↔ [[Leviticus 16#^lev-16-28|Leviticus 16:28]]
+- [[Exodus 12]] — 7 parallel verses, e.g. [[Numbers 19#^num-19-13|Numbers 19:13]] ↔ [[Exodus 12#^ex-12-15|Exodus 12:15]]
+- [[Leviticus 14]] — 7 parallel verses, e.g. [[Numbers 19#^num-19-1|Numbers 19:1]] ↔ [[Leviticus 14#^lev-14-33|Leviticus 14:33]]
+- [[Numbers 31]] — 4 parallel verses, e.g. [[Numbers 19#^num-19-2|Numbers 19:2]] ↔ [[Numbers 31#^num-31-21|Numbers 31:21]]
+- [[Leviticus 7]] — 6 parallel verses, e.g. [[Numbers 19#^num-19-13|Numbers 19:13]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
+- [[Numbers 15]] — 6 parallel verses, e.g. [[Numbers 19#^num-19-13|Numbers 19:13]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
+- [[Leviticus 17]] — 6 parallel verses, e.g. [[Numbers 19#^num-19-19|Numbers 19:19]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
+- [[Leviticus 19]] — 3 parallel verses, e.g. [[Numbers 19#^num-19-13|Numbers 19:13]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
+- [[Exodus 31]] — 4 parallel verses, e.g. [[Numbers 19#^num-19-20|Numbers 19:20]] ↔ [[Exodus 31#^ex-31-14|Exodus 31:14]]
+- [[Numbers 4]] — 2 parallel verses, e.g. [[Numbers 19#^num-19-1|Numbers 19:1]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

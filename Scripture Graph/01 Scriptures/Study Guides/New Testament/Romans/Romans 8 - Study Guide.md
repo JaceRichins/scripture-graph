@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 8
 slug: rom-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 13 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 44]] — 1 parallel verse, e.g. [[Romans 8#^rom-8-36|Romans 8:36]] ↔ [[Psalm 44#^ps-44-22|Psalm 44:22]]
+- [[2 Nephi 9]] — 1 parallel verse, e.g. [[Romans 8#^rom-8-6|Romans 8:6]] ↔ [[2 Nephi 9#^2ne-9-39|2 Nephi 9:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Hope]]
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

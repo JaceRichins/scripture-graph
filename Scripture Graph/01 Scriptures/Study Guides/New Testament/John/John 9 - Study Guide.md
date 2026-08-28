@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 10 mentions
+- [[Moses (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 8]] — 3 parallel verses, e.g. [[John 9#^john-9-12|John 9:12]] ↔ [[John 8#^john-8-19|John 8:19]]
+- [[Luke 19]] — 2 parallel verses, e.g. [[John 9#^john-9-16|John 9:16]] ↔ [[Luke 19#^luke-19-7|Luke 19:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

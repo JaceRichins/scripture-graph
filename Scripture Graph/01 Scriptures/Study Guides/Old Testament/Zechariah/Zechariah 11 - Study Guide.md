@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 11
 slug: zech-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 6]] — 1 parallel verse, e.g. [[Zechariah 11#^zech-11-6|Zechariah 11:6]] ↔ [[Jeremiah 6#^jer-6-12|Jeremiah 6:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

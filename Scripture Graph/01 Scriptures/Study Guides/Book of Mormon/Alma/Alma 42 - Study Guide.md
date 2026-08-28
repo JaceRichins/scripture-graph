@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 42
 slug: alma-42
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,40 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Adam]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Garden of Eden]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 3]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Genesis 3#^gen-3-24|Genesis 3:24]]
+- [[Moses 4]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
+- [[Alma 12]] — 10 parallel verses, e.g. [[Alma 42#^alma-42-5|Alma 42:5]] ↔ [[Alma 12#^alma-12-26|Alma 12:26]]
+- [[Alma 9]] — 8 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[2 Nephi 9]] — 5 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]]
+- [[Ether 4]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-7|Alma 42:7]] ↔ [[Ether 4#^ether-4-1|Ether 4:1]]
+- [[Helaman 14]] — 4 parallel verses, e.g. [[Alma 42#^alma-42-11|Alma 42:11]] ↔ [[Helaman 14#^hel-14-16|Helaman 14:16]]
+- [[2 Nephi 5]] — 4 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
+- [[Jonah 1]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-7|Alma 42:7]] ↔ [[Jonah 1#^jonah-1-3|Jonah 1:3]]
+- [[Ether 2]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Helaman 12]] — 4 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Justice and Mercy]]
+- [[Plan of Salvation]]
+- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Fall of Adam and Eve]] *(keyword match — unconfirmed)*
+- [[Tree of Life]] *(keyword match — unconfirmed)*
+- [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

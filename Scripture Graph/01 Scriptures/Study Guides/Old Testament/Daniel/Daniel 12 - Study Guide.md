@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 12
 slug: dan-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 3 mentions
+- [[Adam]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 10]] — 1 parallel verse, e.g. [[Daniel 12#^dan-12-7|Daniel 12:7]] ↔ [[Revelation 10#^rev-10-6|Revelation 10:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

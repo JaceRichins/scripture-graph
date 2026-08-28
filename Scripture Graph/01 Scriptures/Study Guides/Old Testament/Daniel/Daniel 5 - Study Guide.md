@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 5
 slug: dan-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 7 mentions
+- [[Nebuchadnezzar]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 4]] — 14 parallel verses, e.g. [[Daniel 5#^dan-5-21|Daniel 5:21]] ↔ [[Daniel 4#^dan-4-33|Daniel 4:33]]
+- [[Daniel 6]] — 4 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Daniel 6#^dan-6-13|Daniel 6:13]]
+- [[Ezra 6]] — 3 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Ezra 6#^ezra-6-16|Ezra 6:16]]
+- [[Ezra 5]] — 2 parallel verses, e.g. [[Daniel 5#^dan-5-3|Daniel 5:3]] ↔ [[Ezra 5#^ezra-5-14|Ezra 5:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

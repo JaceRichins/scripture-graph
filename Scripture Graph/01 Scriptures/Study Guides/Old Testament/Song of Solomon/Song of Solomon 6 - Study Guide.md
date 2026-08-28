@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 6
 slug: song-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,14 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 109]] — 2 parallel verses, e.g. [[Song of Solomon 6#^song-6-10|Song of Solomon 6:10]] ↔ [[D&C 109#^dc-109-73|D&C 109:73]]
+- [[Song of Solomon 4]] — 2 parallel verses, e.g. [[Song of Solomon 6#^song-6-5|Song of Solomon 6:5]] ↔ [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]]
+- [[D&C 5]] — 2 parallel verses, e.g. [[Song of Solomon 6#^song-6-10|Song of Solomon 6:10]] ↔ [[D&C 5#^dc-5-14|D&C 5:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

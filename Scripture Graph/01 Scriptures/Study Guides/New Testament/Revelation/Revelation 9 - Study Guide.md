@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 9
 slug: rev-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 9#^rev-9-13|Revelation 9:13]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

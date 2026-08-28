@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 2
 slug: deut-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esau]] — 6 mentions
+- [[Ammon (son of Mosiah)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 2 mentions
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 3]] — 4 parallel verses, e.g. [[Deuteronomy 2#^deut-2-32|Deuteronomy 2:32]] ↔ [[Deuteronomy 3#^deut-3-1|Deuteronomy 3:1]]
+- [[Numbers 21]] — 4 parallel verses, e.g. [[Deuteronomy 2#^deut-2-33|Deuteronomy 2:33]] ↔ [[Numbers 21#^num-21-35|Numbers 21:35]]
+- [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-1|Deuteronomy 2:1]] ↔ [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]]
+- [[Joshua 13]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[Joshua 13#^josh-13-25|Joshua 13:25]]
+- [[Judges 11]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[Judges 11#^judg-11-15|Judges 11:15]]
+- [[Numbers 14]] — 1 parallel verse, e.g. [[Deuteronomy 2#^deut-2-1|Deuteronomy 2:1]] ↔ [[Numbers 14#^num-14-25|Numbers 14:25]]
+- [[2 Samuel 10]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[2 Samuel 10#^2sam-10-2|2 Samuel 10:2]]
+- [[1 Chronicles 19]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[1 Chronicles 19#^1chr-19-2|1 Chronicles 19:2]]
+- [[2 Samuel 2]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-8|Deuteronomy 2:8]] ↔ [[2 Samuel 2#^2sam-2-24|2 Samuel 2:24]]
+- [[Numbers 22]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[Numbers 22#^num-22-5|Numbers 22:5]]
+- [[1 Nephi 2]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-17|Deuteronomy 2:17]] ↔ [[1 Nephi 2#^1ne-2-19|1 Nephi 2:19]]
+- [[1 Nephi 17]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-17|Deuteronomy 2:17]] ↔ [[1 Nephi 17#^1ne-17-8|1 Nephi 17:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 7 mentions
+- [[David (king)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +44,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

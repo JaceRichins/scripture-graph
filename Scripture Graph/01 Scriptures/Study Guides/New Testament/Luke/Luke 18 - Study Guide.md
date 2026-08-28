@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,40 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 8 mentions
+- [[David (king)]] — 2 mentions
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
+- [[Jericho]] — 1 mention
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 10]] — 22 parallel verses, e.g. [[Luke 18#^luke-18-20|Luke 18:20]] ↔ [[Mark 10#^mark-10-19|Mark 10:19]]
+- [[D&C 101]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-4|Luke 18:4]] ↔ [[D&C 101#^dc-101-84|D&C 101:84]]
+- [[Matthew 19]] — 9 parallel verses, e.g. [[Luke 18#^luke-18-25|Luke 18:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Matthew 20]] — 3 parallel verses, e.g. [[Luke 18#^luke-18-31|Luke 18:31]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
+- [[Luke 14]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-14|Luke 18:14]] ↔ [[Luke 14#^luke-14-11|Luke 14:11]]
+- [[Mark 9]] — 3 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
+- [[Matthew 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-38|Luke 18:38]] ↔ [[Matthew 9#^matt-9-27|Matthew 9:27]]
+- [[Matthew 21]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
+- [[Luke 12]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-1|Luke 18:1]] ↔ [[Luke 12#^luke-12-16|Luke 12:16]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Luke 18#^luke-18-18|Luke 18:18]] ↔ [[Luke 10#^luke-10-25|Luke 10:25]]
+- [[Matthew 17]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-31|Luke 18:31]] ↔ [[Matthew 17#^matt-17-22|Matthew 17:22]]
+- [[Mark 12]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 12#^mark-12-43|Mark 12:43]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

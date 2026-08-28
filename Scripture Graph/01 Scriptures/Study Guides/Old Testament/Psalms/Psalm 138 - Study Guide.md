@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 138
 slug: ps-138
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Psalm 138#^ps-138-4|Psalm 138:4]] ↔ [[2 Chronicles 9#^2chr-9-22|2 Chronicles 9:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

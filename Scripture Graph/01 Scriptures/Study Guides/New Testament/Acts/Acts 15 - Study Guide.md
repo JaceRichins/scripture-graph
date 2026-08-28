@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 9 mentions
+- [[Barnabas]] — 9 mentions
+- [[Silas]] — 5 mentions
+- [[Moses (prophet)]] — 3 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Peter (apostle)]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Antioch]] — 4 mentions
+- [[Jerusalem]] — 2 mentions
+- [[Samaria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 21]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-29|Acts 15:29]] ↔ [[Acts 21#^acts-21-25|Acts 21:25]]
+- [[Matthew 17]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-4|Acts 15:4]] ↔ [[Matthew 17#^matt-17-14|Matthew 17:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

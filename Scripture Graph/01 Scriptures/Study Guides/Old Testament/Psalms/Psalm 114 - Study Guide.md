@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 114
 slug: ps-114
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,13 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 2 mentions
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 114#^ps-114-7|Psalm 114:7]] ↔ [[Psalm 97#^ps-97-5|Psalm 97:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

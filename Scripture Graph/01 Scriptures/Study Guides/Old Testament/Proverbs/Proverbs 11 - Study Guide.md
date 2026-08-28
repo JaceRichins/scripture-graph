@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 11
 slug: prov-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 12]] — 3 parallel verses, e.g. [[Proverbs 11#^prov-11-20|Proverbs 11:20]] ↔ [[Proverbs 12#^prov-12-22|Proverbs 12:22]]
+- [[Proverbs 15]] — 3 parallel verses, e.g. [[Proverbs 11#^prov-11-13|Proverbs 11:13]] ↔ [[Proverbs 15#^prov-15-15|Proverbs 15:15]]
+- [[Leviticus 14]] — 2 parallel verses, e.g. [[Proverbs 11#^prov-11-26|Proverbs 11:26]] ↔ [[Leviticus 14#^lev-14-18|Leviticus 14:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

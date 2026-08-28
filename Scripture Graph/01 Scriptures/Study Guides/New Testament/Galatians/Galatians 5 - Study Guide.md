@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 5
 slug: gal-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 12]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-14|Galatians 5:14]] ↔ [[Mark 12#^mark-12-31|Mark 12:31]]
+- [[Galatians 6]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-6|Galatians 5:6]] ↔ [[Galatians 6#^gal-6-15|Galatians 6:15]]
+- [[Galatians 3]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-7|Galatians 5:7]] ↔ [[Galatians 3#^gal-3-1|Galatians 3:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Freedom and Liberty]]
+- [[Service]]
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

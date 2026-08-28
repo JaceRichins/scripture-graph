@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 21
 slug: acts-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 12 mentions
+- [[Philip (apostle)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 7 mentions
+- [[Tarsus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 15]] — 2 parallel verses, e.g. [[Acts 21#^acts-21-25|Acts 21:25]] ↔ [[Acts 15#^acts-15-29|Acts 15:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

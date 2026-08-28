@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 8
 slug: lev-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 25 mentions
+- [[Aaron (brother of Moses)]] — 15 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,26 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 29]] — 55 parallel verses, e.g. [[Leviticus 8#^lev-8-30|Leviticus 8:30]] ↔ [[Exodus 29#^ex-29-21|Exodus 29:21]]
+- [[Leviticus 14]] — 18 parallel verses, e.g. [[Leviticus 8#^lev-8-23|Leviticus 8:23]] ↔ [[Leviticus 14#^lev-14-25|Leviticus 14:25]]
+- [[Leviticus 4]] — 28 parallel verses, e.g. [[Leviticus 8#^lev-8-15|Leviticus 8:15]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
+- [[Leviticus 3]] — 22 parallel verses, e.g. [[Leviticus 8#^lev-8-28|Leviticus 8:28]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
+- [[Leviticus 23]] — 15 parallel verses, e.g. [[Leviticus 8#^lev-8-21|Leviticus 8:21]] ↔ [[Leviticus 23#^lev-23-13|Leviticus 23:13]]
+- [[Leviticus 17]] — 21 parallel verses, e.g. [[Leviticus 8#^lev-8-31|Leviticus 8:31]] ↔ [[Leviticus 17#^lev-17-6|Leviticus 17:6]]
+- [[Numbers 6]] — 18 parallel verses, e.g. [[Leviticus 8#^lev-8-31|Leviticus 8:31]] ↔ [[Numbers 6#^num-6-18|Numbers 6:18]]
+- [[Exodus 40]] — 18 parallel verses, e.g. [[Leviticus 8#^lev-8-21|Leviticus 8:21]] ↔ [[Exodus 40#^ex-40-25|Exodus 40:25]]
+- [[Numbers 16]] — 15 parallel verses, e.g. [[Leviticus 8#^lev-8-3|Leviticus 8:3]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
+- [[Leviticus 9]] — 9 parallel verses, e.g. [[Leviticus 8#^lev-8-15|Leviticus 8:15]] ↔ [[Leviticus 9#^lev-9-9|Leviticus 9:9]]
+- [[Leviticus 16]] — 11 parallel verses, e.g. [[Leviticus 8#^lev-8-15|Leviticus 8:15]] ↔ [[Leviticus 16#^lev-16-18|Leviticus 16:18]]
+- [[Leviticus 1]] — 11 parallel verses, e.g. [[Leviticus 8#^lev-8-31|Leviticus 8:31]] ↔ [[Leviticus 1#^lev-1-3|Leviticus 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Consecration]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

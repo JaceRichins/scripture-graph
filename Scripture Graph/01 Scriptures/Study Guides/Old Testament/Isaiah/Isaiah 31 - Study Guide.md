@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 31
 slug: isa-31
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,14 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 2]] — 1 parallel verse, e.g. [[Isaiah 31#^isa-31-7|Isaiah 31:7]] ↔ [[Isaiah 2#^isa-2-20|Isaiah 2:20]]
+- [[2 Nephi 12]] — 1 parallel verse, e.g. [[Isaiah 31#^isa-31-7|Isaiah 31:7]] ↔ [[2 Nephi 12#^2ne-12-20|2 Nephi 12:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

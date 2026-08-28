@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 15
 slug: rev-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +42,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

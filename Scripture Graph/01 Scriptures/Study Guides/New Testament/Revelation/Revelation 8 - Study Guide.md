@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 8
 slug: rev-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 6]] — 5 parallel verses, e.g. [[Revelation 8#^rev-8-1|Revelation 8:1]] ↔ [[Revelation 6#^rev-6-3|Revelation 6:3]]
+- [[Revelation 12]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-13|Revelation 8:13]] ↔ [[Revelation 12#^rev-12-12|Revelation 12:12]]
+- [[D&C 133]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-13|Revelation 8:13]] ↔ [[D&C 133#^dc-133-36|D&C 133:36]]
+- [[D&C 88]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-1|Revelation 8:1]] ↔ [[D&C 88#^dc-88-95|D&C 88:95]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

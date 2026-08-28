@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 43
 slug: ps-43
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 42]] — 3 parallel verses, e.g. [[Psalm 43#^ps-43-5|Psalm 43:5]] ↔ [[Psalm 42#^ps-42-11|Psalm 42:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

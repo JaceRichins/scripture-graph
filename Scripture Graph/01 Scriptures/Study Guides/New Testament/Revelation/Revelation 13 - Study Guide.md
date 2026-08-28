@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Revelation 17#^rev-17-8|Revelation 17:8]]
+- [[Alma 13]] — 3 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
+- [[Ether 4]] — 3 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
+- [[Revelation 6]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-5|Revelation 13:5]] ↔ [[Revelation 6#^rev-6-4|Revelation 6:4]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
+- [[Alma 12]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

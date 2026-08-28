@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 9
 slug: hosea-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,19 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Assyria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Hosea 9#^hosea-9-7|Hosea 9:7]] ↔ [[Jeremiah 30#^jer-30-14|Jeremiah 30:14]]
+- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Hosea 9#^hosea-9-5|Hosea 9:5]] ↔ [[Ezekiel 46#^ezek-46-1|Ezekiel 46:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

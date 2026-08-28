@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 11
 slug: ether-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Seth]] — 1 mention
+- [[Jared (Jaredite)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,27 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ether 10]] — 10 parallel verses, e.g. [[Ether 11#^ether-11-4|Ether 11:4]] ↔ [[Ether 10#^ether-10-16|Ether 10:16]]
+- [[Ether 13]] — 4 parallel verses, e.g. [[Ether 11#^ether-11-12|Ether 11:12]] ↔ [[Ether 13#^ether-13-18|Ether 13:18]]
+- [[Helaman 10]] — 3 parallel verses, e.g. [[Ether 11#^ether-11-15|Ether 11:15]] ↔ [[Helaman 10#^hel-10-1|Helaman 10:1]]
+- [[Ether 1]] — 4 parallel verses, e.g. [[Ether 11#^ether-11-17|Ether 11:17]] ↔ [[Ether 1#^ether-1-6|Ether 1:6]]
+- [[Mormon 2]] — 3 parallel verses, e.g. [[Ether 11#^ether-11-8|Ether 11:8]] ↔ [[Mormon 2#^morm-2-10|Mormon 2:10]]
+- [[Alma 28]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[Alma 28#^alma-28-2|Alma 28:2]]
+- [[3 Nephi 8]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[3 Nephi 8#^3ne-8-5|3 Nephi 8:5]]
+- [[Ether 2]] — 3 parallel verses, e.g. [[Ether 11#^ether-11-5|Ether 11:5]] ↔ [[Ether 2#^ether-2-16|Ether 2:16]]
+- [[Alma 37]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-12|Ether 11:12]] ↔ [[Alma 37#^alma-37-25|Alma 37:25]]
+- [[3 Nephi 4]] — 3 parallel verses, e.g. [[Ether 11#^ether-11-12|Ether 11:12]] ↔ [[3 Nephi 4#^3ne-4-4|3 Nephi 4:4]]
+- [[Mosiah 12]] — 1 parallel verse, e.g. [[Ether 11#^ether-11-12|Ether 11:12]] ↔ [[Mosiah 12#^mosiah-12-8|Mosiah 12:8]]
+- [[Helaman 5]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-18|Ether 11:18]] ↔ [[Helaman 5#^hel-5-4|Helaman 5:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

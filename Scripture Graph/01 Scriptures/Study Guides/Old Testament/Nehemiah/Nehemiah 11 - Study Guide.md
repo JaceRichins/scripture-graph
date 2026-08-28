@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 11
 slug: neh-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Benjamin]] — 4 mentions
+- [[Solomon]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 7 mentions
+- [[Cumorah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 9]] — 10 parallel verses, e.g. [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
+- [[1 Chronicles 6]] — 7 parallel verses, e.g. [[Nehemiah 11#^neh-11-4|Nehemiah 11:4]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
+- [[Ezra 7]] — 4 parallel verses, e.g. [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]] ↔ [[Ezra 7#^ezra-7-2|Ezra 7:2]]
+- [[Nehemiah 7]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]] ↔ [[Nehemiah 7#^neh-7-60|Nehemiah 7:60]]
+- [[Ezra 2]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]] ↔ [[Ezra 2#^ezra-2-58|Ezra 2:58]]
+- [[2 Chronicles 20]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-4|Nehemiah 11:4]] ↔ [[2 Chronicles 20#^2chr-20-14|2 Chronicles 20:14]]
+- [[Nehemiah 3]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-7|Nehemiah 11:7]] ↔ [[Nehemiah 3#^neh-3-23|Nehemiah 3:23]]
+- [[2 Chronicles 31]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]] ↔ [[2 Chronicles 31#^2chr-31-13|2 Chronicles 31:13]]
+- [[Genesis 36]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-7|Nehemiah 11:7]] ↔ [[Genesis 36#^gen-36-13|Genesis 36:13]]
+- [[Joshua 7]] — 2 parallel verses, e.g. [[Nehemiah 11#^neh-11-17|Nehemiah 11:17]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
+- [[1 Chronicles 28]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]] ↔ [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]]
+- [[Ezra 6]] — 2 parallel verses, e.g. [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]] ↔ [[Ezra 6#^ezra-6-16|Ezra 6:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

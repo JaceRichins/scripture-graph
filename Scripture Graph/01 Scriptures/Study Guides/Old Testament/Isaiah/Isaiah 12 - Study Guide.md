@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 12
 slug: isa-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 22]] — 6 parallel verses, e.g. [[Isaiah 12#^isa-12-1|Isaiah 12:1]] ↔ [[2 Nephi 22#^2ne-22-1|2 Nephi 22:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

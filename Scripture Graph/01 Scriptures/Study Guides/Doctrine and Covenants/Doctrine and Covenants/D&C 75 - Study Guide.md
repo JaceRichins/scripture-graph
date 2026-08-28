@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 75
 slug: dc-75
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Samuel (prophet)]] — 1 mention
+- [[Orson Pratt]] — 1 mention
+- [[Ezra (scribe)]] — 1 mention
+- [[Thomas (apostle)]] — 1 mention
+- [[Hyrum Smith]] — 1 mention
+- [[Daniel (prophet)]] — 1 mention
+- [[Gideon (judge)]] — 1 mention
+- [[Stephen (martyr)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Garden of Eden]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 30 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
+- [[D&C 88]] — 11 parallel verses, e.g. [[D&C 75#^dc-75-27|D&C 75:27]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
+- [[D&C 52]] — 12 parallel verses, e.g. [[D&C 75#^dc-75-22|D&C 75:22]] ↔ [[D&C 52#^dc-52-44|D&C 52:44]]
+- [[D&C 61]] — 9 parallel verses, e.g. [[D&C 75#^dc-75-23|D&C 75:23]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
+- [[D&C 132]] — 9 parallel verses, e.g. [[D&C 75#^dc-75-14|D&C 75:14]] ↔ [[D&C 132#^dc-132-57|D&C 132:57]]
+- [[D&C 93]] — 6 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
+- [[D&C 66]] — 4 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
+- [[D&C 67]] — 6 parallel verses, e.g. [[D&C 75#^dc-75-23|D&C 75:23]] ↔ [[D&C 67#^dc-67-1|D&C 67:1]]
+- [[D&C 49]] — 5 parallel verses, e.g. [[D&C 75#^dc-75-27|D&C 75:27]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
+- [[D&C 90]] — 6 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 90#^dc-90-30|D&C 90:30]]
+- [[3 Nephi 27]] — 3 parallel verses, e.g. [[D&C 75#^dc-75-27|D&C 75:27]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
+- [[D&C 104]] — 6 parallel verses, e.g. [[D&C 75#^dc-75-14|D&C 75:14]] ↔ [[D&C 104#^dc-104-78|D&C 104:78]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

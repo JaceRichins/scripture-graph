@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 4
 slug: ruth-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Naomi]] — 6 mentions
+- [[Ruth (Moabite)]] — 3 mentions
+- [[David (king)]] — 2 mentions
+- [[Rachel]] — 1 mention
+- [[Leah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 9]] — 3 parallel verses, e.g. [[Ruth 4#^ruth-4-11|Ruth 4:11]] ↔ [[Judges 9#^judg-9-44|Judges 9:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Witnesses of the Book of Mormon]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

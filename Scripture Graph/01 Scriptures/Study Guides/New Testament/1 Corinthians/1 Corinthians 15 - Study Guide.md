@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 15
 slug: 1cor-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,33 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 16 mentions
+- [[Adam]] — 3 mentions
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Ephesus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 128]] — 4 parallel verses, e.g. [[1 Corinthians 15#^1cor-15-29|1 Corinthians 15:29]] ↔ [[D&C 128#^dc-128-16|D&C 128:16]]
+- [[D&C 76]] — 2 parallel verses, e.g. [[1 Corinthians 15#^1cor-15-40|1 Corinthians 15:40]] ↔ [[D&C 76#^dc-76-96|D&C 76:96]]
+- [[Isaiah 22]] — 1 parallel verse, e.g. [[1 Corinthians 15#^1cor-15-32|1 Corinthians 15:32]] ↔ [[Isaiah 22#^isa-22-13|Isaiah 22:13]]
+- [[D&C 88]] — 2 parallel verses, e.g. [[1 Corinthians 15#^1cor-15-23|1 Corinthians 15:23]] ↔ [[D&C 88#^dc-88-60|D&C 88:60]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Resurrection]]
+- [[Kingdoms of Glory]]
+- [[Baptism for the Dead]]
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
+- [[Grace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

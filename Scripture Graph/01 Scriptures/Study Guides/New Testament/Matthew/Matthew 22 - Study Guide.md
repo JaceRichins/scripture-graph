@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 6 mentions
+- [[David (king)]] — 3 mentions
+- [[Moses (prophet)]] — 1 mention
+- [[Abraham (patriarch)]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +41,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 12]] — 15 parallel verses, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
+- [[Luke 20]] — 11 parallel verses, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
+- [[Matthew 13]] — 6 parallel verses, e.g. [[Matthew 22#^matt-22-2|Matthew 22:2]] ↔ [[Matthew 13#^matt-13-45|Matthew 13:45]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
+- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
+- [[Deuteronomy 30]] — 3 parallel verses, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]]
+- [[Mormon 9]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[1 Nephi 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
+- [[Alma 36]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Resurrection]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

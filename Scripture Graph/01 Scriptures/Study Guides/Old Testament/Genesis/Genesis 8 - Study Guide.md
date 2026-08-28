@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 8
 slug: gen-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Noah (patriarch)]] — 7 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 7]] — 7 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Genesis 7#^gen-7-21|Genesis 7:21]]
+- [[Numbers 29]] — 3 parallel verses, e.g. [[Genesis 8#^gen-8-5|Genesis 8:5]] ↔ [[Numbers 29#^num-29-1|Numbers 29:1]]
+- [[Genesis 1]] — 3 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
+- [[Abraham 4]] — 3 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
+- [[2 Kings 25]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-14|Genesis 8:14]] ↔ [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]]
+- [[Leviticus 11]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
+- [[Exodus 40]] — 3 parallel verses, e.g. [[Genesis 8#^gen-8-5|Genesis 8:5]] ↔ [[Exodus 40#^ex-40-17|Exodus 40:17]]
+- [[Genesis 6]] — 1 parallel verse, e.g. [[Genesis 8#^gen-8-16|Genesis 8:16]] ↔ [[Genesis 6#^gen-6-18|Genesis 6:18]]
+- [[Ezekiel 29]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-13|Genesis 8:13]] ↔ [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]]
+- [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-5|Genesis 8:5]] ↔ [[Deuteronomy 1#^deut-1-3|Deuteronomy 1:3]]
+- [[Exodus 12]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-6|Genesis 8:6]] ↔ [[Exodus 12#^ex-12-41|Exodus 12:41]]
+- [[Deuteronomy 9]] — 1 parallel verse, e.g. [[Genesis 8#^gen-8-6|Genesis 8:6]] ↔ [[Deuteronomy 9#^deut-9-11|Deuteronomy 9:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

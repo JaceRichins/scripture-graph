@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 102
 slug: ps-102
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,20 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 1]] — 3 parallel verses, e.g. [[Psalm 102#^ps-102-25|Psalm 102:25]] ↔ [[Hebrews 1#^heb-1-10|Hebrews 1:10]]
+- [[Jeremiah 25]] — 4 parallel verses, e.g. [[Psalm 102#^ps-102-15|Psalm 102:15]] ↔ [[Jeremiah 25#^jer-25-20|Jeremiah 25:20]]
+- [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Psalm 102#^ps-102-15|Psalm 102:15]] ↔ [[2 Chronicles 9#^2chr-9-23|2 Chronicles 9:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

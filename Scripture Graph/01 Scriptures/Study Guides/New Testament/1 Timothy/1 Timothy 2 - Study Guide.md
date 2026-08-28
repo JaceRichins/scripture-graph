@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 2
 slug: 1tim-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Adam]] — 2 mentions
+- [[Eve]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

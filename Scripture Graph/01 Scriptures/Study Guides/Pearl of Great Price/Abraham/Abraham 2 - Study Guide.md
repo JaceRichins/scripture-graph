@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 2
 slug: abr-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 10 mentions
+- [[Sarah]] — 5 mentions
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Haran]] — 10 mentions
+- [[Canaan]] — 3 mentions
+- [[Jershon]] — 3 mentions
+- [[Bethel]] — 2 mentions
+- [[Egypt]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 12]] — 12 parallel verses, e.g. [[Abraham 2#^abr-2-25|Abraham 2:25]] ↔ [[Genesis 12#^gen-12-13|Genesis 12:13]]
+- [[D&C 132]] — 8 parallel verses, e.g. [[Abraham 2#^abr-2-7|Abraham 2:7]] ↔ [[D&C 132#^dc-132-49|D&C 132:49]]
+- [[Genesis 11]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-4|Abraham 2:4]] ↔ [[Genesis 11#^gen-11-31|Genesis 11:31]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-3|Abraham 2:3]] ↔ [[Acts 7#^acts-7-3|Acts 7:3]]
+- [[Genesis 48]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-6|Abraham 2:6]] ↔ [[Genesis 48#^gen-48-4|Genesis 48:4]]
+- [[Genesis 28]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-11|Abraham 2:11]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]
+- [[Abraham 3]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-7|Abraham 2:7]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
+- [[Exodus 32]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-9|Abraham 2:9]] ↔ [[Exodus 32#^ex-32-10|Exodus 32:10]]
+- [[Moses 5]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-17|Abraham 2:17]] ↔ [[Moses 5#^moses-5-5|Moses 5:5]]
+- [[Genesis 24]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-19|Abraham 2:19]] ↔ [[Genesis 24#^gen-24-7|Genesis 24:7]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-25|Abraham 2:25]] ↔ [[Deuteronomy 5#^deut-5-33|Deuteronomy 5:33]]
+- [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-25|Abraham 2:25]] ↔ [[Deuteronomy 6#^deut-6-3|Deuteronomy 6:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Abrahamic Covenant]]
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Priesthood]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

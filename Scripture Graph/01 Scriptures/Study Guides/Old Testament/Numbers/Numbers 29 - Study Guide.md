@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 29
 slug: num-29
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 28]] — 100 parallel verses, e.g. [[Numbers 29#^num-29-3|Numbers 29:3]] ↔ [[Numbers 28#^num-28-20|Numbers 28:20]]
+- [[Numbers 7]] — 60 parallel verses, e.g. [[Numbers 29#^num-29-5|Numbers 29:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
+- [[Leviticus 23]] — 49 parallel verses, e.g. [[Numbers 29#^num-29-12|Numbers 29:12]] ↔ [[Leviticus 23#^lev-23-39|Leviticus 23:39]]
+- [[Numbers 15]] — 31 parallel verses, e.g. [[Numbers 29#^num-29-16|Numbers 29:16]] ↔ [[Numbers 15#^num-15-24|Numbers 15:24]]
+- [[Numbers 6]] — 21 parallel verses, e.g. [[Numbers 29#^num-29-18|Numbers 29:18]] ↔ [[Numbers 6#^num-6-15|Numbers 6:15]]
+- [[Leviticus 1]] — 9 parallel verses, e.g. [[Numbers 29#^num-29-13|Numbers 29:13]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
+- [[2 Kings 16]] — 12 parallel verses, e.g. [[Numbers 29#^num-29-18|Numbers 29:18]] ↔ [[2 Kings 16#^2kgs-16-15|2 Kings 16:15]]
+- [[Leviticus 9]] — 11 parallel verses, e.g. [[Numbers 29#^num-29-5|Numbers 29:5]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
+- [[Leviticus 2]] — 7 parallel verses, e.g. [[Numbers 29#^num-29-13|Numbers 29:13]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
+- [[Leviticus 16]] — 8 parallel verses, e.g. [[Numbers 29#^num-29-1|Numbers 29:1]] ↔ [[Leviticus 16#^lev-16-29|Leviticus 16:29]]
+- [[Leviticus 3]] — 7 parallel verses, e.g. [[Numbers 29#^num-29-13|Numbers 29:13]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
+- [[Leviticus 5]] — 6 parallel verses, e.g. [[Numbers 29#^num-29-5|Numbers 29:5]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

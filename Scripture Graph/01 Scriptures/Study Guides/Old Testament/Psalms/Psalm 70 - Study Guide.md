@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 70
 slug: ps-70
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 40]] — 4 parallel verses, e.g. [[Psalm 70#^ps-70-4|Psalm 70:4]] ↔ [[Psalm 40#^ps-40-16|Psalm 40:16]]
+- [[Psalm 35]] — 1 parallel verse, e.g. [[Psalm 70#^ps-70-2|Psalm 70:2]] ↔ [[Psalm 35#^ps-35-4|Psalm 35:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

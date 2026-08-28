@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 49
 slug: jer-49
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esau]] — 2 mentions
+- [[Ammon (son of Mosiah)]] — 1 mention
+- [[Jeremiah (prophet)]] — 1 mention
+- [[King Zedekiah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 3 mentions
+- [[Babylon]] — 2 mentions
+- [[Sodom]] — 1 mention
+- [[Gomorrah]] — 1 mention
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 50]] — 8 parallel verses, e.g. [[Jeremiah 49#^jer-49-19|Jeremiah 49:19]] ↔ [[Jeremiah 50#^jer-50-44|Jeremiah 50:44]]
+- [[Jeremiah 30]] — 7 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
+- [[Obadiah 1]] — 4 parallel verses, e.g. [[Jeremiah 49#^jer-49-14|Jeremiah 49:14]] ↔ [[Obadiah 1#^obad-1-1|Obadiah 1:1]]
+- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
+- [[Jeremiah 9]] — 4 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
+- [[Jeremiah 48]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
+- [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
+- [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
+- [[Jeremiah 33]] — 2 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
+- [[Isaiah 22]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-26|Jeremiah 49:26]] ↔ [[Isaiah 22#^isa-22-25|Isaiah 22:25]]
+- [[Jeremiah 28]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]] ↔ [[Jeremiah 28#^jer-28-1|Jeremiah 28:1]]
+- [[Amos 8]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Amos 8#^amos-8-11|Amos 8:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

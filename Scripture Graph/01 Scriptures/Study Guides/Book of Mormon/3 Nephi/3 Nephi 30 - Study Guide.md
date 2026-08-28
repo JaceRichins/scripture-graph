@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 30
 slug: 3ne-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 16]] — 3 parallel verses, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
+- [[3 Nephi 21]] — 3 parallel verses, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]
+- [[D&C 42]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[D&C 42#^dc-42-1|D&C 42:1]]
+- [[D&C 55]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
+- [[Moroni 7]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
+- [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
+- [[Moses 8]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[Moses 8#^moses-8-24|Moses 8:24]]
+- [[D&C 68]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[Mosiah 4#^mosiah-4-12|Mosiah 4:12]]
+- [[1 Nephi 19]] — 2 parallel verses, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[1 Nephi 19#^1ne-19-16|1 Nephi 19:16]]
+- [[D&C 14]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[D&C 14#^dc-14-9|D&C 14:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

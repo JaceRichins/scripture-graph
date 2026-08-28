@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 128
 slug: ps-128
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,18 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 3]] — 2 parallel verses, e.g. [[Psalm 128#^ps-128-5|Psalm 128:5]] ↔ [[Genesis 3#^gen-3-14|Genesis 3:14]]
+- [[Moses 4]] — 2 parallel verses, e.g. [[Psalm 128#^ps-128-5|Psalm 128:5]] ↔ [[Moses 4#^moses-4-20|Moses 4:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

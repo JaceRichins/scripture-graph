@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 25
 slug: acts-25
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 10 mentions
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 7 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezra 6]] — 2 parallel verses, e.g. [[Acts 25#^acts-25-15|Acts 25:15]] ↔ [[Ezra 6#^ezra-6-7|Ezra 6:7]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Acts 25#^acts-25-15|Acts 25:15]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

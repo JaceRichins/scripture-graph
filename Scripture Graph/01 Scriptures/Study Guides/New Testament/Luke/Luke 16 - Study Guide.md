@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 6 mentions
+- [[Lazarus]] — 4 mentions
+- [[Moses (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 6]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[Matthew 6#^matt-6-24|Matthew 6:24]]
+- [[3 Nephi 13]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]]
+- [[Genesis 15]] — 2 parallel verses, e.g. [[Luke 16#^luke-16-6|Luke 16:6]] ↔ [[Genesis 15#^gen-15-9|Genesis 15:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Consecration]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

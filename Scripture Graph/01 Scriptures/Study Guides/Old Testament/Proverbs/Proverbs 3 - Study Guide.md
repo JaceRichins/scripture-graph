@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 3
 slug: prov-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 3#^prov-3-3|Proverbs 3:3]] ↔ [[Proverbs 7#^prov-7-3|Proverbs 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

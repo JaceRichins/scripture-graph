@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 12
 slug: job-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 107]] — 2 parallel verses, e.g. [[Job 12#^job-12-24|Job 12:24]] ↔ [[Psalm 107#^ps-107-40|Psalm 107:40]]
+- [[D&C 29]] — 3 parallel verses, e.g. [[Job 12#^job-12-7|Job 12:7]] ↔ [[D&C 29#^dc-29-20|D&C 29:20]]
+- [[1 Samuel 17]] — 2 parallel verses, e.g. [[Job 12#^job-12-7|Job 12:7]] ↔ [[1 Samuel 17#^1sam-17-44|1 Samuel 17:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

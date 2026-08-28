@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 34
 slug: ps-34
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Peter 3]] — 2 parallel verses, e.g. [[Psalm 34#^ps-34-15|Psalm 34:15]] ↔ [[1 Peter 3#^1pet-3-12|1 Peter 3:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

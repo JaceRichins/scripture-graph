@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 114
 slug: dc-114
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 113]] — 3 parallel verses, e.g. [[D&C 114#^dc-114-1|D&C 114:1]] ↔ [[D&C 113#^dc-113-2|D&C 113:2]]
+- [[D&C 72]] — 2 parallel verses, e.g. [[D&C 114#^dc-114-1|D&C 114:1]] ↔ [[D&C 72#^dc-72-2|D&C 72:2]]
+- [[D&C 73]] — 2 parallel verses, e.g. [[D&C 114#^dc-114-1|D&C 114:1]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
+- [[D&C 64]] — 2 parallel verses, e.g. [[D&C 114#^dc-114-2|D&C 114:2]] ↔ [[D&C 64#^dc-64-40|D&C 64:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

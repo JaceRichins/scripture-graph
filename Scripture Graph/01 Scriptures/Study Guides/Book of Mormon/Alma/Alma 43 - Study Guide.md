@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,46 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Lehi (father of Nephi)]] — 7 mentions
+- [[Ammon (son of Mosiah)]] — 2 mentions
+- [[Anti-Nephi-Lehi]] — 1 mention
+- [[Laman]] — 1 mention
+- [[Lemuel]] — 1 mention
+- [[Ishmael (father-in-law of Nephi)]] — 1 mention
+- [[Noah (patriarch)]] — 1 mention
+- [[Nephi (son of Lehi)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sidon]] — 14 mentions
+- [[Jershon]] — 5 mentions
+- [[Manti]] — 5 mentions
+- [[Antionum]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 16]] — 7 parallel verses, e.g. [[Alma 43#^alma-43-16|Alma 43:16]] ↔ [[Alma 16#^alma-16-5|Alma 16:5]]
+- [[Alma 2]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
+- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 43#^alma-43-35|Alma 43:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
+- [[Alma 49]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-9|Alma 43:9]] ↔ [[Alma 49#^alma-49-28|Alma 49:28]]
+- [[Alma 62]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 62#^alma-62-22|Alma 62:22]]
+- [[Alma 3]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-20|Alma 43:20]] ↔ [[Alma 3#^alma-3-5|Alma 3:5]]
+- [[Alma 8]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 8#^alma-8-3|Alma 8:3]]
+- [[Alma 27]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-11|Alma 43:11]] ↔ [[Alma 27#^alma-27-21|Alma 27:21]]
+- [[Alma 52]] — 6 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Alma 52#^alma-52-10|Alma 52:10]]
+- [[Alma 35]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-3|Alma 43:3]] ↔ [[Alma 35#^alma-35-13|Alma 35:13]]
+- [[Mosiah 21]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]]
+- [[Mosiah 19]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[War and Peace]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

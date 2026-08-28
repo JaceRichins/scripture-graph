@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 3
 slug: 1thes-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,12 +27,13 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Timothy (companion of Paul)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Athens]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -42,7 +43,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

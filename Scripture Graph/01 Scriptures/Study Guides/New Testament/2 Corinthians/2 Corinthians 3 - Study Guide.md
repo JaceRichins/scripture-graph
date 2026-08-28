@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 3
 slug: 2cor-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Moses (prophet)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joshua 7]] — 2 parallel verses, e.g. [[2 Corinthians 3#^2cor-3-7|2 Corinthians 3:7]] ↔ [[Joshua 7#^josh-7-12|Joshua 7:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

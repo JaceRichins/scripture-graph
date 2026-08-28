@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 98
 slug: ps-98
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 96]] — 4 parallel verses, e.g. [[Psalm 98#^ps-98-9|Psalm 98:9]] ↔ [[Psalm 96#^ps-96-13|Psalm 96:13]]
+- [[1 Chronicles 16]] — 3 parallel verses, e.g. [[Psalm 98#^ps-98-7|Psalm 98:7]] ↔ [[1 Chronicles 16#^1chr-16-32|1 Chronicles 16:32]]
+- [[Psalm 24]] — 1 parallel verse, e.g. [[Psalm 98#^ps-98-7|Psalm 98:7]] ↔ [[Psalm 24#^ps-24-1|Psalm 24:1]]
+- [[Psalm 100]] — 1 parallel verse, e.g. [[Psalm 98#^ps-98-4|Psalm 98:4]] ↔ [[Psalm 100#^ps-100-1|Psalm 100:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

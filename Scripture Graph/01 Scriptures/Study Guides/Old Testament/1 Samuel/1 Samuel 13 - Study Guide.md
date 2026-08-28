@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Saul (king)]] — 15 mentions
+- [[Samuel (prophet)]] — 6 mentions
+- [[Jonathan (son of Saul)]] — 5 mentions
+- [[King Benjamin]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 10]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
+- [[2 Samuel 13]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Samuel 13#^2sam-13-36|2 Samuel 13:36]]
+- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[1 Samuel 13#^1sam-13-13|1 Samuel 13:13]] ↔ [[Deuteronomy 16#^deut-16-17|Deuteronomy 16:17]]
+- [[1 Chronicles 16]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[1 Chronicles 16#^1chr-16-2|1 Chronicles 16:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

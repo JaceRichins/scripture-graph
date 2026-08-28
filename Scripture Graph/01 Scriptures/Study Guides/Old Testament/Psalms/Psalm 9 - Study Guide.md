@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 9
 slug: ps-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 31]] — 2 parallel verses, e.g. [[Psalm 9#^ps-9-2|Psalm 9:2]] ↔ [[Psalm 31#^ps-31-7|Psalm 31:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

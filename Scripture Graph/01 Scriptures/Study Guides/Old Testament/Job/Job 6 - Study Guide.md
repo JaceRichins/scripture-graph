@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 6
 slug: job-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 27
 slug: acts-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,17 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 9 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sidon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Luke 24]] — 2 parallel verses, e.g. [[Acts 27#^acts-27-35|Acts 27:35]] ↔ [[Luke 24#^luke-24-40|Luke 24:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

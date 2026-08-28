@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 30
 slug: ps-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 30#^ps-30-4|Psalm 30:4]] ↔ [[Psalm 97#^ps-97-12|Psalm 97:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

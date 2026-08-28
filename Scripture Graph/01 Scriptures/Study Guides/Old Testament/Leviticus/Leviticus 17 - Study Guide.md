@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 17
 slug: lev-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 15]] — 21 parallel verses, e.g. [[Leviticus 17#^lev-17-15|Leviticus 17:15]] ↔ [[Leviticus 15#^lev-15-5|Leviticus 15:5]]
+- [[Leviticus 8]] — 21 parallel verses, e.g. [[Leviticus 17#^lev-17-6|Leviticus 17:6]] ↔ [[Leviticus 8#^lev-8-31|Leviticus 8:31]]
+- [[Exodus 29]] — 17 parallel verses, e.g. [[Leviticus 17#^lev-17-6|Leviticus 17:6]] ↔ [[Exodus 29#^ex-29-42|Exodus 29:42]]
+- [[Leviticus 20]] — 8 parallel verses, e.g. [[Leviticus 17#^lev-17-10|Leviticus 17:10]] ↔ [[Leviticus 20#^lev-20-6|Leviticus 20:6]]
+- [[Numbers 6]] — 14 parallel verses, e.g. [[Leviticus 17#^lev-17-6|Leviticus 17:6]] ↔ [[Numbers 6#^num-6-18|Numbers 6:18]]
+- [[Leviticus 4]] — 13 parallel verses, e.g. [[Leviticus 17#^lev-17-6|Leviticus 17:6]] ↔ [[Leviticus 4#^lev-4-7|Leviticus 4:7]]
+- [[Numbers 16]] — 12 parallel verses, e.g. [[Leviticus 17#^lev-17-4|Leviticus 17:4]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
+- [[Numbers 15]] — 11 parallel verses, e.g. [[Leviticus 17#^lev-17-4|Leviticus 17:4]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
+- [[Exodus 40]] — 13 parallel verses, e.g. [[Leviticus 17#^lev-17-4|Leviticus 17:4]] ↔ [[Exodus 40#^ex-40-12|Exodus 40:12]]
+- [[Leviticus 1]] — 12 parallel verses, e.g. [[Leviticus 17#^lev-17-6|Leviticus 17:6]] ↔ [[Leviticus 1#^lev-1-3|Leviticus 1:3]]
+- [[Leviticus 19]] — 7 parallel verses, e.g. [[Leviticus 17#^lev-17-5|Leviticus 17:5]] ↔ [[Leviticus 19#^lev-19-21|Leviticus 19:21]]
+- [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 17#^lev-17-4|Leviticus 17:4]] ↔ [[Leviticus 23#^lev-23-29|Leviticus 23:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

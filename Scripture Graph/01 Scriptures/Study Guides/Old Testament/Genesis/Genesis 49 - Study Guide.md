@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[Abraham (patriarch)]] — 2 mentions
+- [[King Benjamin]] — 1 mention
+- [[Sarah]] — 1 mention
+- [[Isaac]] — 1 mention
+- [[Rebekah]] — 1 mention
+- [[Leah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Shiloh]] — 1 mention
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 50]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 50#^gen-50-13|Genesis 50:13]]
+- [[Genesis 23]] — 2 parallel verses, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 23#^gen-23-9|Genesis 23:9]]
+- [[Genesis 25]] — 2 parallel verses, e.g. [[Genesis 49#^gen-49-29|Genesis 49:29]] ↔ [[Genesis 25#^gen-25-9|Genesis 25:9]]
+- [[Deuteronomy 33]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-26|Genesis 49:26]] ↔ [[Deuteronomy 33#^deut-33-16|Deuteronomy 33:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Patriarchal Blessings]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

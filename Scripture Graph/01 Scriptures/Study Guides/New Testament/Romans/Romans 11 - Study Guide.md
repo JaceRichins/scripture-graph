@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 11
 slug: rom-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 1 mention
+- [[King Benjamin]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 2]] — 1 parallel verse, e.g. [[Romans 11#^rom-11-34|Romans 11:34]] ↔ [[1 Corinthians 2#^1cor-2-16|1 Corinthians 2:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]]
+- [[Grace]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

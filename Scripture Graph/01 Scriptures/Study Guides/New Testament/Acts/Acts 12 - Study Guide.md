@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 12
 slug: acts-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Peter (apostle)]] — 10 mentions
+- [[Mary (mother of Jesus)]] — 1 mention
+- [[Barnabas]] — 1 mention
+- [[Saul (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sidon]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Nephi 5]] — 1 parallel verse, e.g. [[Acts 12#^acts-12-11|Acts 12:11]] ↔ [[1 Nephi 5#^1ne-5-8|1 Nephi 5:8]]
+- [[Mosiah 7]] — 1 parallel verse, e.g. [[Acts 12#^acts-12-11|Acts 12:11]] ↔ [[Mosiah 7#^mosiah-7-14|Mosiah 7:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

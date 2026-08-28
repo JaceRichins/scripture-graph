@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 5
 slug: john-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 10 mentions
+- [[Moses (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 6]] — 5 parallel verses, e.g. [[John 5#^john-5-19|John 5:19]] ↔ [[John 6#^john-6-32|John 6:32]]
+- [[Mark 2]] — 3 parallel verses, e.g. [[John 5#^john-5-8|John 5:8]] ↔ [[Mark 2#^mark-2-9|Mark 2:9]]
+- [[D&C 76]] — 1 parallel verse, e.g. [[John 5#^john-5-25|John 5:25]] ↔ [[D&C 76#^dc-76-16|D&C 76:16]]
+- [[3 Nephi 11]] — 2 parallel verses, e.g. [[John 5#^john-5-24|John 5:24]] ↔ [[3 Nephi 11#^3ne-11-29|3 Nephi 11:29]]
+- [[Helaman 12]] — 1 parallel verse, e.g. [[John 5#^john-5-29|John 5:29]] ↔ [[Helaman 12#^hel-12-26|Helaman 12:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scripture Study]]
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Sabbath Day]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 116
 slug: ps-116
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,28 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Psalm 116#^ps-116-9|Psalm 116:9]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
+- [[Ether 2]] — 4 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[Ether 2#^ether-2-14|Ether 2:14]]
+- [[Zephaniah 3]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[Zephaniah 3#^zeph-3-9|Zephaniah 3:9]]
+- [[Romans 10]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[Romans 10#^rom-10-13|Romans 10:13]]
+- [[Psalm 27]] — 1 parallel verse, e.g. [[Psalm 116#^ps-116-9|Psalm 116:9]] ↔ [[Psalm 27#^ps-27-13|Psalm 27:13]]
+- [[Psalm 18]] — 1 parallel verse, e.g. [[Psalm 116#^ps-116-3|Psalm 116:3]] ↔ [[Psalm 18#^ps-18-4|Psalm 18:4]]
+- [[Psalm 56]] — 1 parallel verse, e.g. [[Psalm 116#^ps-116-8|Psalm 116:8]] ↔ [[Psalm 56#^ps-56-13|Psalm 56:13]]
+- [[Genesis 4]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[Genesis 4#^gen-4-26|Genesis 4:26]]
+- [[D&C 100]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[D&C 100#^dc-100-17|D&C 100:17]]
+- [[D&C 133]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[D&C 133#^dc-133-6|D&C 133:6]]
+- [[Moses 6]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-13|Psalm 116:13]] ↔ [[Moses 6#^moses-6-4|Moses 6:4]]
+- [[Genesis 16]] — 2 parallel verses, e.g. [[Psalm 116#^ps-116-14|Psalm 116:14]] ↔ [[Genesis 16#^gen-16-12|Genesis 16:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

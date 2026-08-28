@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 7 mentions
+- [[Nephi (son of Lehi)]] — 4 mentions
+- [[Satan]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,30 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Nephi 14]] — 36 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[1 Nephi 12]] — 38 parallel verses, e.g. [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]
+- [[1 Nephi 11]] — 32 parallel verses, e.g. [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]] ↔ [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]]
+- [[Ether 13]] — 10 parallel verses, e.g. [[1 Nephi 13#^1ne-13-38|1 Nephi 13:38]] ↔ [[Ether 13#^ether-13-6|Ether 13:6]]
+- [[1 Nephi 22]] — 5 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
+- [[3 Nephi 29]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
+- [[1 Nephi 16]] — 5 parallel verses, e.g. [[1 Nephi 13#^1ne-13-16|1 Nephi 13:16]] ↔ [[1 Nephi 16#^1ne-16-32|1 Nephi 16:32]]
+- [[Revelation 21]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[Revelation 21#^rev-21-14|Revelation 21:14]]
+- [[1 Nephi 15]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[1 Nephi 15#^1ne-15-13|1 Nephi 15:13]]
+- [[1 Nephi 10]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
+- [[Genesis 16]] — 3 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
+- [[Judges 13]] — 3 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Judges 13#^judg-13-13|Judges 13:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]]
+- [[Apostles]]
+- [[Apostasy]]
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

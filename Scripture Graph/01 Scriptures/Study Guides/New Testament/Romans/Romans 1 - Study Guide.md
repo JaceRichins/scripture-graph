@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,33 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 7 mentions
+- [[Paul (apostle)]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Rome]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
+- [[1 Corinthians 1]] — 3 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
+- [[Colossians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
+- [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
+- [[Ephesians 1]] — 2 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
+- [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
+- [[Romans 2]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-16|Romans 1:16]] ↔ [[Romans 2#^rom-2-10|Romans 2:10]]
+- [[Philippians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gospel of Jesus Christ]]
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

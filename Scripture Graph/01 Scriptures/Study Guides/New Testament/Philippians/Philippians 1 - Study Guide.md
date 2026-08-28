@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 1
 slug: philip-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 19 mentions
+- [[Paul (apostle)]] — 1 mention
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
+- [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
+- [[Ephesians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
+- [[Colossians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
+- [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
+- [[2 Thessalonians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
+- [[Romans 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

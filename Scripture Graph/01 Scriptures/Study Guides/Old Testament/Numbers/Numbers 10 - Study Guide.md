@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 10
 slug: num-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,36 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 5 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
+- [[King Benjamin]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Sinai]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 34]] — 72 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
+- [[Joshua 19]] — 65 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
+- [[Joshua 15]] — 27 parallel verses, e.g. [[Numbers 10#^num-10-14|Numbers 10:14]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
+- [[Numbers 2]] — 22 parallel verses, e.g. [[Numbers 10#^num-10-18|Numbers 10:18]] ↔ [[Numbers 2#^num-2-10|Numbers 2:10]]
+- [[Joshua 18]] — 17 parallel verses, e.g. [[Numbers 10#^num-10-24|Numbers 10:24]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
+- [[1 Chronicles 6]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
+- [[Joshua 21]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 21#^josh-21-9|Joshua 21:9]]
+- [[Joshua 16]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-15|Numbers 10:15]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
+- [[Numbers 7]] — 11 parallel verses, e.g. [[Numbers 10#^num-10-11|Numbers 10:11]] ↔ [[Numbers 7#^num-7-1|Numbers 7:1]]
+- [[Numbers 4]] — 5 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[Joshua 13]] — 9 parallel verses, e.g. [[Numbers 10#^num-10-23|Numbers 10:23]] ↔ [[Joshua 13#^josh-13-29|Joshua 13:29]]
+- [[Leviticus 19]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-10|Numbers 10:10]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

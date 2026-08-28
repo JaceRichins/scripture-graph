@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 4
 slug: 1cor-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 7 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +43,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

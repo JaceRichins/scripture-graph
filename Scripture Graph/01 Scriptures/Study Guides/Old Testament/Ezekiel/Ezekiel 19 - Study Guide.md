@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 19
 slug: ezek-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,13 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 16]] — 2 parallel verses, e.g. [[Ezekiel 19#^ezek-19-5|Ezekiel 19:5]] ↔ [[Genesis 16#^gen-16-4|Genesis 16:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

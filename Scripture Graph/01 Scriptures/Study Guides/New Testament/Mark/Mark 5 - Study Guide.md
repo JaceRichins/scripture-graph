@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 5
 slug: mark-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 11 mentions
+- [[Satan]] — 3 mentions
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Luke 8]] — 18 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Luke 8#^luke-8-33|Luke 8:33]]
+- [[Matthew 9]] — 4 parallel verses, e.g. [[Mark 5#^mark-5-18|Mark 5:18]] ↔ [[Matthew 9#^matt-9-28|Matthew 9:28]]
+- [[Matthew 8]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Matthew 8#^matt-8-32|Matthew 8:32]]
+- [[Matthew 21]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-18|Mark 5:18]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
+- [[Ezekiel 11]] — 1 parallel verse, e.g. [[Mark 5#^mark-5-7|Mark 5:7]] ↔ [[Ezekiel 11#^ezek-11-13|Ezekiel 11:13]]
+- [[Mark 1]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-7|Mark 5:7]] ↔ [[Mark 1#^mark-1-26|Mark 1:26]]
+- [[John 6]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-1|Mark 5:1]] ↔ [[John 6#^john-6-22|John 6:22]]
+- [[Luke 10]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-22|Mark 5:22]] ↔ [[Luke 10#^luke-10-31|Luke 10:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

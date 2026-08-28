@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 12
 slug: rom-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

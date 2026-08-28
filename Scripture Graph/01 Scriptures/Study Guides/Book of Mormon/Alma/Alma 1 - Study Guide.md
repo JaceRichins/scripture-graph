@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 1
 slug: alma-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Gideon (judge)]] — 4 mentions
+- [[Nephi (son of Lehi)]] — 2 mentions
+- [[Limhi]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Manti]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 4]] — 23 parallel verses, e.g. [[Alma 1#^alma-1-6|Alma 1:6]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
+- [[Alma 62]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 62#^alma-62-12|Alma 62:12]]
+- [[Alma 6]] — 8 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Alma 6#^alma-6-2|Alma 6:2]]
+- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
+- [[Mosiah 26]] — 9 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]]
+- [[Helaman 6]] — 6 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
+- [[Helaman 11]] — 5 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
+- [[Alma 5]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-30|Alma 1:30]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
+- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
+- [[Alma 52]] — 3 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
+- [[Alma 30]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
+- [[Alma 63]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

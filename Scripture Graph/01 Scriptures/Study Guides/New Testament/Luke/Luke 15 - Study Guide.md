@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 15
 slug: luke-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Luke 18]] — 2 parallel verses, e.g. [[Luke 15#^luke-15-10|Luke 15:10]] ↔ [[Luke 18#^luke-18-29|Luke 18:29]]
+- [[Genesis 33]] — 1 parallel verse, e.g. [[Luke 15#^luke-15-20|Luke 15:20]] ↔ [[Genesis 33#^gen-33-4|Genesis 33:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Parables of Jesus]]
+- [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

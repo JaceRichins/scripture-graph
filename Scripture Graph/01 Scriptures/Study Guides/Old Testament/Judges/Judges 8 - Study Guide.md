@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 8
 slug: judg-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Gideon (judge)]] — 15 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Midian]] — 6 mentions
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 2]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
+- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 6#^deut-6-2|Deuteronomy 6:2]]
+- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 16#^deut-16-11|Deuteronomy 16:11]]
+- [[Alma 62]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
+- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

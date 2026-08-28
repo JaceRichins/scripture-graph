@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,29 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 5 mentions
+- [[Barnabas]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Antioch]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 10]] — 3 parallel verses, e.g. [[Acts 14#^acts-14-22|Acts 14:22]] ↔ [[Mark 10#^mark-10-23|Mark 10:23]]
+- [[Acts 4]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
+- [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
+- [[Revelation 14]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Revelation 14#^rev-14-7|Revelation 14:7]]
+- [[D&C 133]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[D&C 133#^dc-133-39|D&C 133:39]]
+- [[Luke 18]] — 2 parallel verses, e.g. [[Acts 14#^acts-14-22|Acts 14:22]] ↔ [[Luke 18#^luke-18-24|Luke 18:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

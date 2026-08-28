@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 5
 slug: 2cor-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 8 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 27]] — 3 parallel verses, e.g. [[2 Corinthians 5#^2cor-5-10|2 Corinthians 5:10]] ↔ [[Leviticus 27#^lev-27-12|Leviticus 27:12]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[2 Corinthians 5#^2cor-5-10|2 Corinthians 5:10]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

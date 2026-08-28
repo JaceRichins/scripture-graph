@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 7
 slug: song-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,13 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 1 mention
+- [[Mount Carmel]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Song of Solomon 4]] — 1 parallel verse, e.g. [[Song of Solomon 7#^song-7-3|Song of Solomon 7:3]] ↔ [[Song of Solomon 4#^song-4-5|Song of Solomon 4:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

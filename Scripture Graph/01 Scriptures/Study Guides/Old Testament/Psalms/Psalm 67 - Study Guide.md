@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 67
 slug: ps-67
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 52]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
+- [[Mosiah 12]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
+- [[Mosiah 15]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
+- [[3 Nephi 16]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
+- [[3 Nephi 20]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
+- [[D&C 133]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

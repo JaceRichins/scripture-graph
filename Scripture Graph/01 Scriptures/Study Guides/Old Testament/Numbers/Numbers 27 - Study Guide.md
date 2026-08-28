@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 27
 slug: num-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 9 mentions
+- [[Joshua (son of Nun)]] — 2 mentions
+- [[Joseph (of Egypt)]] — 1 mention
+- [[Noah (patriarch)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +41,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joshua 17]] — 5 parallel verses, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
+- [[Leviticus 8]] — 7 parallel verses, e.g. [[Numbers 27#^num-27-22|Numbers 27:22]] ↔ [[Leviticus 8#^lev-8-4|Leviticus 8:4]]
+- [[Numbers 36]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
+- [[Numbers 20]] — 5 parallel verses, e.g. [[Numbers 27#^num-27-12|Numbers 27:12]] ↔ [[Numbers 20#^num-20-24|Numbers 20:24]]
+- [[Numbers 16]] — 5 parallel verses, e.g. [[Numbers 27#^num-27-16|Numbers 27:16]] ↔ [[Numbers 16#^num-16-22|Numbers 16:22]]
+- [[Leviticus 4]] — 4 parallel verses, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Leviticus 4#^lev-4-2|Leviticus 4:2]]
+- [[Exodus 29]] — 4 parallel verses, e.g. [[Numbers 27#^num-27-2|Numbers 27:2]] ↔ [[Exodus 29#^ex-29-11|Exodus 29:11]]
+- [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
+- [[Joshua 21]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-23|Numbers 27:23]] ↔ [[Joshua 21#^josh-21-8|Joshua 21:8]]
+- [[Leviticus 17]] — 4 parallel verses, e.g. [[Numbers 27#^num-27-2|Numbers 27:2]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
+- [[Numbers 1]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Numbers 1#^num-1-2|Numbers 1:2]]
+- [[Exodus 30]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Exodus 30#^ex-30-31|Exodus 30:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 24
 slug: prov-24
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 6]] — 2 parallel verses, e.g. [[Proverbs 24#^prov-24-34|Proverbs 24:34]] ↔ [[Proverbs 6#^prov-6-11|Proverbs 6:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

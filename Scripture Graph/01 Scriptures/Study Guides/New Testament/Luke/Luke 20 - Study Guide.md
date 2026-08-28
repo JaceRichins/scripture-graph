@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 20
 slug: luke-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[David (king)]] — 3 mentions
+- [[Moses (prophet)]] — 2 mentions
+- [[Abraham (patriarch)]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +41,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 12]] — 20 parallel verses, e.g. [[Luke 20#^luke-20-28|Luke 20:28]] ↔ [[Mark 12#^mark-12-19|Mark 12:19]]
+- [[Matthew 21]] — 12 parallel verses, e.g. [[Luke 20#^luke-20-18|Luke 20:18]] ↔ [[Matthew 21#^matt-21-44|Matthew 21:44]]
+- [[Matthew 22]] — 11 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
+- [[Mark 11]] — 8 parallel verses, e.g. [[Luke 20#^luke-20-5|Luke 20:5]] ↔ [[Mark 11#^mark-11-31|Mark 11:31]]
+- [[Mark 14]] — 6 parallel verses, e.g. [[Luke 20#^luke-20-3|Luke 20:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
+- [[Mormon 9]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
+- [[1 Nephi 6]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
+- [[Alma 36]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
+- [[Luke 19]] — 3 parallel verses, e.g. [[Luke 20#^luke-20-3|Luke 20:3]] ↔ [[Luke 19#^luke-19-40|Luke 19:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Resurrection]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

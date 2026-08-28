@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 31
 slug: ps-31
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 71]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-1|Psalm 31:1]] ↔ [[Psalm 71#^ps-71-1|Psalm 71:1]]
+- [[Psalm 6]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-9|Psalm 31:9]] ↔ [[Psalm 6#^ps-6-2|Psalm 6:2]]
+- [[Psalm 9]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-7|Psalm 31:7]] ↔ [[Psalm 9#^ps-9-2|Psalm 9:2]]
+- [[Lamentations 1]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-8|Psalm 31:8]] ↔ [[Lamentations 1#^lam-1-7|Lamentations 1:7]]
+- [[Psalm 27]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-24|Psalm 31:24]] ↔ [[Psalm 27#^ps-27-14|Psalm 27:14]]
+- [[Philippians 2]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-6|Psalm 31:6]] ↔ [[Philippians 2#^philip-2-19|Philippians 2:19]]
+- [[Psalm 142]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-14|Psalm 31:14]] ↔ [[Psalm 142#^ps-142-5|Psalm 142:5]]
+- [[Psalm 119]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-16|Psalm 31:16]] ↔ [[Psalm 119#^ps-119-135|Psalm 119:135]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

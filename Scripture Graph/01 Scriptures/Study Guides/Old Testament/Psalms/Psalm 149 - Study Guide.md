@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 149
 slug: ps-149
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 42]] — 1 parallel verse, e.g. [[Psalm 149#^ps-149-1|Psalm 149:1]] ↔ [[Isaiah 42#^isa-42-10|Isaiah 42:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

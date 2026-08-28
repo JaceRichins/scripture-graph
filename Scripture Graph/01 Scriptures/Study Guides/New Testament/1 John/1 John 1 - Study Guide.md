@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 1
 slug: 1jn-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +42,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

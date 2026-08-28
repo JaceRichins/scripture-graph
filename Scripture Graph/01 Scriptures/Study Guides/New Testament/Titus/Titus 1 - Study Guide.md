@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
+- [[Paul (apostle)]] — 1 mention
+- [[Titus (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Timothy 3]] — 2 parallel verses, e.g. [[Titus 1#^titus-1-6|Titus 1:6]] ↔ [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]]
+- [[Ephesians 6]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[Ephesians 6#^eph-6-23|Ephesians 6:23]]
+- [[2 Timothy 1]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]]
+- [[1 Timothy 1]] — 2 parallel verses, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]]
+- [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[2 Thessalonians 1#^2thes-1-1|2 Thessalonians 1:1]]
+- [[2 John 1]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[2 John 1#^2jn-1-3|2 John 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

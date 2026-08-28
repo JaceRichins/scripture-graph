@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 140
 slug: ps-140
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 69
 slug: dc-69
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Oliver Cowdery]] — 3 mentions
+- [[John Whitmer]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 3 parallel verses, e.g. [[D&C 69#^dc-69-8|D&C 69:8]] ↔ [[D&C 124#^dc-124-59|D&C 124:59]]
+- [[D&C 56]] — 2 parallel verses, e.g. [[D&C 69#^dc-69-8|D&C 69:8]] ↔ [[D&C 56#^dc-56-20|D&C 56:20]]
+- [[D&C 78]] — 1 parallel verse, e.g. [[D&C 69#^dc-69-1|D&C 69:1]] ↔ [[D&C 78#^dc-78-1|D&C 78:1]]
+- [[D&C 51]] — 1 parallel verse, e.g. [[D&C 69#^dc-69-1|D&C 69:1]] ↔ [[D&C 51#^dc-51-1|D&C 51:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

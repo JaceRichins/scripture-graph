@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 5
 slug: rev-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 4]] — 5 parallel verses, e.g. [[Revelation 5#^rev-5-14|Revelation 5:14]] ↔ [[Revelation 4#^rev-4-10|Revelation 4:10]]
+- [[Revelation 7]] — 1 parallel verse, e.g. [[Revelation 5#^rev-5-13|Revelation 5:13]] ↔ [[Revelation 7#^rev-7-10|Revelation 7:10]]
+- [[Revelation 19]] — 2 parallel verses, e.g. [[Revelation 5#^rev-5-14|Revelation 5:14]] ↔ [[Revelation 19#^rev-19-4|Revelation 19:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

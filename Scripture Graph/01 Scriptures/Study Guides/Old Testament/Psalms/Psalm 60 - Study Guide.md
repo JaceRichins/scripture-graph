@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 60
 slug: ps-60
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 108]] — 7 parallel verses, e.g. [[Psalm 60#^ps-60-6|Psalm 60:6]] ↔ [[Psalm 108#^ps-108-7|Psalm 108:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

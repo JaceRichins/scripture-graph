@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 14]] — 12 parallel verses, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
+- [[John 12]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-1|Isaiah 53:1]] ↔ [[John 12#^john-12-38|John 12:38]]
+- [[Mosiah 15]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Atonement of Jesus Christ]]
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

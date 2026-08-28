@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 52
 slug: jer-52
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,41 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Zedekiah]] — 6 mentions
+- [[Jeremiah (prophet)]] — 1 mention
+- [[Solomon]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 15 mentions
+- [[Jerusalem]] — 7 mentions
+- [[Jericho]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 25]] — 41 parallel verses, e.g. [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]] ↔ [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]]
+- [[Jeremiah 39]] — 23 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]]
+- [[2 Kings 24]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
+- [[2 Kings 23]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
+- [[2 Chronicles 36]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
+- [[2 Kings 15]] — 8 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
+- [[2 Kings 21]] — 6 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
+- [[1 Kings 15]] — 9 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[1 Kings 15#^1kgs-15-2|1 Kings 15:2]]
+- [[2 Chronicles 29]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]] ↔ [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]]
+- [[2 Chronicles 33]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]]
+- [[Jeremiah 40]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]]
+- [[2 Chronicles 27]] — 3 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scattering of Israel]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

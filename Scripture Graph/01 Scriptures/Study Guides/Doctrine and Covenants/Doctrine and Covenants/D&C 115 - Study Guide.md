@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 115
 slug: dc-115
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 3 mentions
+- [[Sidney Rigdon]] — 2 mentions
+- [[Hyrum Smith]] — 2 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Joseph Smith Jr.]] — 1 mention
+- [[Edward Partridge]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Far West]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 19 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
+- [[D&C 94]] — 8 parallel verses, e.g. [[D&C 115#^dc-115-13|D&C 115:13]] ↔ [[D&C 94#^dc-94-10|D&C 94:10]]
+- [[D&C 127]] — 3 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
+- [[D&C 132]] — 4 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
+- [[D&C 88]] — 5 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
+- [[D&C 90]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
+- [[D&C 136]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
+- [[D&C 75]] — 4 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 75#^dc-75-23|D&C 75:23]]
+- [[D&C 95]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 95#^dc-95-11|D&C 95:11]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-3|D&C 115:3]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
+- [[D&C 61]] — 3 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

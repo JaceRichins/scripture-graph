@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 1
 slug: eccl-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,24 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]] ↔ [[Ecclesiastes 4#^eccl-4-1|Ecclesiastes 4:1]]
+- [[Ecclesiastes 2]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]] ↔ [[Ecclesiastes 2#^eccl-2-17|Ecclesiastes 2:17]]
+- [[Ecclesiastes 9]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-13|Ecclesiastes 1:13]] ↔ [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 3
 slug: 2pet-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mormon 9]] — 2 parallel verses, e.g. [[2 Peter 3#^2pet-3-10|2 Peter 3:10]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
+- [[2 Peter 1]] — 2 parallel verses, e.g. [[2 Peter 3#^2pet-3-18|2 Peter 3:18]] ↔ [[2 Peter 1#^2pet-1-11|2 Peter 1:11]]
+- [[D&C 50]] — 1 parallel verse, e.g. [[2 Peter 3#^2pet-3-18|2 Peter 3:18]] ↔ [[D&C 50#^dc-50-40|D&C 50:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

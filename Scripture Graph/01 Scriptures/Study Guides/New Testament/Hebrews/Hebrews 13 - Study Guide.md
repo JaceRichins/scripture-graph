@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Galatians 1]] — 1 parallel verse, e.g. [[Hebrews 13#^heb-13-21|Hebrews 13:21]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
+- [[2 Timothy 4]] — 1 parallel verse, e.g. [[Hebrews 13#^heb-13-21|Hebrews 13:21]] ↔ [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

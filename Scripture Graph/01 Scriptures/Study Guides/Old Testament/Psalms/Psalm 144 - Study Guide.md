@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 144
 slug: ps-144
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 2]] — 1 parallel verse, e.g. [[Psalm 144#^ps-144-3|Psalm 144:3]] ↔ [[Hebrews 2#^heb-2-6|Hebrews 2:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

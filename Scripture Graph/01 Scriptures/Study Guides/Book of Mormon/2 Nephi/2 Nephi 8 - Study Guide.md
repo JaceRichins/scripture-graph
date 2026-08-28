@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 8
 slug: 2ne-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 1 mention
+- [[Sarah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
+- [[Garden of Eden]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 51]] — 27 parallel verses, e.g. [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]] ↔ [[Isaiah 51#^isa-51-6|Isaiah 51:6]]
+- [[3 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]]
+- [[Isaiah 52]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[Isaiah 52#^isa-52-1|Isaiah 52:1]]
+- [[D&C 132]] — 8 parallel verses, e.g. [[2 Nephi 8#^2ne-8-15|2 Nephi 8:15]] ↔ [[D&C 132#^dc-132-2|D&C 132:2]]
+- [[Abraham 3]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-15|2 Nephi 8:15]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
+- [[Jeremiah 34]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-23|2 Nephi 8:23]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
+- [[Jeremiah 1]] — 1 parallel verse, e.g. [[2 Nephi 8#^2ne-8-16|2 Nephi 8:16]] ↔ [[Jeremiah 1#^jer-1-9|Jeremiah 1:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 2
 slug: neh-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,19 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 6 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 1]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-17|Nehemiah 2:17]] ↔ [[Nehemiah 1#^neh-1-3|Nehemiah 1:3]]
+- [[Numbers 11]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-5|Nehemiah 2:5]] ↔ [[Numbers 11#^num-11-11|Numbers 11:11]]
+- [[Esther 7]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-5|Nehemiah 2:5]] ↔ [[Esther 7#^esth-7-3|Esther 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

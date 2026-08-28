@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 7
 slug: 2cor-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Titus (companion of Paul)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +42,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Repentance]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

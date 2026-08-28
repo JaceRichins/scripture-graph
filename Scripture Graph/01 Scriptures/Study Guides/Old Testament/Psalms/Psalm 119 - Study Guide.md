@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,21 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 119#^ps-119-135|Psalm 119:135]] ↔ [[Psalm 31#^ps-31-16|Psalm 31:16]]
+- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Psalm 119#^ps-119-1|Psalm 119:1]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
+- [[Luke 2]] — 2 parallel verses, e.g. [[Psalm 119#^ps-119-1|Psalm 119:1]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Hope]] *(keyword match — unconfirmed)*
+- [[Truth]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

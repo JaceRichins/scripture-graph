@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 106
 slug: dc-106
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 27 parallel verses, e.g. [[D&C 106#^dc-106-1|D&C 106:1]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
+- [[D&C 88]] — 8 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 88#^dc-88-25|D&C 88:25]]
+- [[D&C 52]] — 6 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
+- [[D&C 132]] — 6 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 132#^dc-132-18|D&C 132:18]]
+- [[D&C 90]] — 5 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 90#^dc-90-6|D&C 90:6]]
+- [[D&C 94]] — 4 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 94#^dc-94-10|D&C 94:10]]
+- [[D&C 46]] — 4 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 46#^dc-46-10|D&C 46:10]]
+- [[D&C 49]] — 4 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 49#^dc-49-15|D&C 49:15]]
+- [[D&C 57]] — 4 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 57#^dc-57-8|D&C 57:8]]
+- [[D&C 75]] — 4 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 75#^dc-75-14|D&C 75:14]]
+- [[D&C 107]] — 3 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 107#^dc-107-85|D&C 107:85]]
+- [[D&C 98]] — 3 parallel verses, e.g. [[D&C 106#^dc-106-4|D&C 106:4]] ↔ [[D&C 98#^dc-98-39|D&C 98:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

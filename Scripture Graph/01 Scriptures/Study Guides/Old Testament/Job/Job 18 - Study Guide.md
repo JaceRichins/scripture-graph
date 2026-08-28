@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 18
 slug: job-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

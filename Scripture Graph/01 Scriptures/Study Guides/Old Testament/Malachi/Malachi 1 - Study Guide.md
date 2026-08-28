@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 1
 slug: mal-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esau]] — 2 mentions
+- [[Malachi (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 113]] — 1 parallel verse, e.g. [[Malachi 1#^mal-1-11|Malachi 1:11]] ↔ [[Psalm 113#^ps-113-3|Psalm 113:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

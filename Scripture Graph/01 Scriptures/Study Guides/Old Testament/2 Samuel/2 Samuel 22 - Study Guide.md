@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 2 mentions
+- [[Saul (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 18]] — 48 parallel verses, e.g. [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]] ↔ [[Psalm 18#^ps-18-8|Psalm 18:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

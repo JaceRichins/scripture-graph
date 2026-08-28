@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 133]] — 3 parallel verses, e.g. [[Isaiah 64#^isa-64-4|Isaiah 64:4]] ↔ [[D&C 133#^dc-133-45|D&C 133:45]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

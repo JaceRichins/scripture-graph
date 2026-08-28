@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 12
 slug: 2kgs-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 15]] — 14 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
+- [[1 Kings 15]] — 11 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
+- [[2 Kings 14]] — 10 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 14#^2kgs-14-18|2 Kings 14:18]]
+- [[1 Kings 16]] — 6 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
+- [[2 Chronicles 34]] — 10 parallel verses, e.g. [[2 Kings 12#^2kgs-12-9|2 Kings 12:9]] ↔ [[2 Chronicles 34#^2chr-34-14|2 Chronicles 34:14]]
+- [[2 Kings 16]] — 6 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
+- [[1 Kings 14]] — 7 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
+- [[1 Kings 22]] — 7 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]]
+- [[2 Kings 21]] — 6 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
+- [[2 Kings 13]] — 5 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 13#^2kgs-13-12|2 Kings 13:12]]
+- [[2 Kings 22]] — 12 parallel verses, e.g. [[2 Kings 12#^2kgs-12-2|2 Kings 12:2]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
+- [[2 Kings 8]] — 3 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

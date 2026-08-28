@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 2
 slug: esth-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esther (queen)]] — 14 mentions
+- [[Mordecai]] — 11 mentions
+- [[Nebuchadnezzar]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Esther 6]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-2|Esther 2:2]] ↔ [[Esther 6#^esth-6-3|Esther 6:3]]
+- [[Esther 9]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-8|Esther 2:8]] ↔ [[Esther 9#^esth-9-1|Esther 9:1]]
+- [[Esther 1]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-18|Esther 2:18]] ↔ [[Esther 1#^esth-1-3|Esther 1:3]]
+- [[Ezra 2]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Ezra 2#^ezra-2-1|Ezra 2:1]]
+- [[Nehemiah 7]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]]
+- [[2 Samuel 11]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-9|Esther 2:9]] ↔ [[2 Samuel 11#^2sam-11-8|2 Samuel 11:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

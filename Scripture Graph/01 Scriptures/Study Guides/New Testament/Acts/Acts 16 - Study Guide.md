@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 16
 slug: acts-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 11 mentions
+- [[Silas]] — 3 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 39]] — 2 parallel verses, e.g. [[Acts 16#^acts-16-27|Acts 16:27]] ↔ [[Genesis 39#^gen-39-22|Genesis 39:22]]
+- [[D&C 49]] — 2 parallel verses, e.g. [[Acts 16#^acts-16-18|Acts 16:18]] ↔ [[D&C 49#^dc-49-13|D&C 49:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

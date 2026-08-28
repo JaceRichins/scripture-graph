@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 16]] — 2 parallel verses, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
+- [[D&C 54]] — 2 parallel verses, e.g. [[Revelation 22#^rev-22-12|Revelation 22:12]] ↔ [[D&C 54#^dc-54-10|D&C 54:10]]
+- [[Revelation 21]] — 3 parallel verses, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
+- [[Revelation 1]] — 3 parallel verses, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Revelation 1#^rev-1-8|Revelation 1:8]]
+- [[D&C 112]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-12|Revelation 22:12]] ↔ [[D&C 112#^dc-112-34|D&C 112:34]]
+- [[Philippians 4]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
+- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
+- [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
+- [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-9|Revelation 22:9]] ↔ [[Revelation 19#^rev-19-10|Revelation 19:10]]
+- [[Deuteronomy 29]] — 3 parallel verses, e.g. [[Revelation 22#^rev-22-18|Revelation 22:18]] ↔ [[Deuteronomy 29#^deut-29-20|Deuteronomy 29:20]]
+- [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Tree of Life]]
+- [[Prophecy]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

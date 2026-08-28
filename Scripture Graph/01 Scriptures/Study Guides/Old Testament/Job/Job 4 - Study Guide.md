@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 4
 slug: job-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 9
 slug: 2sam-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Saul (king)]] — 7 mentions
+- [[David (king)]] — 6 mentions
+- [[Jonathan (son of Saul)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Samuel 16]] — 2 parallel verses, e.g. [[2 Samuel 9#^2sam-9-4|2 Samuel 9:4]] ↔ [[2 Samuel 16#^2sam-16-3|2 Samuel 16:3]]
+- [[2 Samuel 21]] — 1 parallel verse, e.g. [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]] ↔ [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]]
+- [[2 Samuel 15]] — 2 parallel verses, e.g. [[2 Samuel 9#^2sam-9-4|2 Samuel 9:4]] ↔ [[2 Samuel 15#^2sam-15-9|2 Samuel 15:9]]
+- [[1 Kings 22]] — 2 parallel verses, e.g. [[2 Samuel 9#^2sam-9-4|2 Samuel 9:4]] ↔ [[1 Kings 22#^1kgs-22-15|1 Kings 22:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

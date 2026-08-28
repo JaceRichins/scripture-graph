@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 7 mentions
+- [[Eve]] — 1 mention
+- [[Satan]] — 1 mention
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Peter 1]] — 1 parallel verse, e.g. [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]] ↔ [[1 Peter 1#^1pet-1-3|1 Peter 1:3]]
+- [[Ephesians 1]] — 1 parallel verse, e.g. [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

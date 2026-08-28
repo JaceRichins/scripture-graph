@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 4
 slug: 2chr-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Kings 7]] — 18 parallel verses, e.g. [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]] ↔ [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]]
+- [[Exodus 38]] — 1 parallel verse, e.g. [[2 Chronicles 4#^2chr-4-11|2 Chronicles 4:11]] ↔ [[Exodus 38#^ex-38-3|Exodus 38:3]]
+- [[Jeremiah 52]] — 2 parallel verses, e.g. [[2 Chronicles 4#^2chr-4-16|2 Chronicles 4:16]] ↔ [[Jeremiah 52#^jer-52-18|Jeremiah 52:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Liahona (compass)]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

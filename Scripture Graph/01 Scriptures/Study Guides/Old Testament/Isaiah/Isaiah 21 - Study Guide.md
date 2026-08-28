@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 21
 slug: isa-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
+- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 44]] — 4 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
+- [[Jeremiah 7]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
+- [[Jeremiah 19]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 27]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]]
+- [[Jeremiah 28]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 32#^jer-32-14|Jeremiah 32:14]]
+- [[Jeremiah 42]] — 2 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
+- [[Jeremiah 9]] — 1 parallel verse, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]]
+- [[Jeremiah 16]] — 1 parallel verse, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]]
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

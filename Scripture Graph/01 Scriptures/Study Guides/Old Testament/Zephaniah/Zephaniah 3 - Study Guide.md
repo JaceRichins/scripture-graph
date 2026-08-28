@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 3
 slug: zeph-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,17 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Micah 5]] — 3 parallel verses, e.g. [[Zephaniah 3#^zeph-3-11|Zephaniah 3:11]] ↔ [[Micah 5#^micah-5-13|Micah 5:13]]
+- [[3 Nephi 21]] — 3 parallel verses, e.g. [[Zephaniah 3#^zeph-3-11|Zephaniah 3:11]] ↔ [[3 Nephi 21#^3ne-21-17|3 Nephi 21:17]]
+- [[Psalm 116]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-9|Zephaniah 3:9]] ↔ [[Psalm 116#^ps-116-13|Psalm 116:13]]
+- [[Ether 2]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-9|Zephaniah 3:9]] ↔ [[Ether 2#^ether-2-14|Ether 2:14]]
+- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-17|Zephaniah 3:17]] ↔ [[Deuteronomy 16#^deut-16-15|Deuteronomy 16:15]]
+- [[Isaiah 17]] — 1 parallel verse, e.g. [[Zephaniah 3#^zeph-3-13|Zephaniah 3:13]] ↔ [[Isaiah 17#^isa-17-2|Isaiah 17:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

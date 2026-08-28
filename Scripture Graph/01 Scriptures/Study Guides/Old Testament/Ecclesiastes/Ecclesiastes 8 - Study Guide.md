@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 8
 slug: eccl-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 9]] — 3 parallel verses, e.g. [[Ecclesiastes 8#^eccl-8-11|Ecclesiastes 8:11]] ↔ [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]]
+- [[Ecclesiastes 5]] — 1 parallel verse, e.g. [[Ecclesiastes 8#^eccl-8-15|Ecclesiastes 8:15]] ↔ [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]]
+- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 8#^eccl-8-9|Ecclesiastes 8:9]] ↔ [[Ecclesiastes 4#^eccl-4-3|Ecclesiastes 4:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

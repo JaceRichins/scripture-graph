@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 125
 slug: dc-125
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,18 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Nauvoo]] — 2 mentions
+- [[Zarahemla]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 136]] — 2 parallel verses, e.g. [[D&C 125#^dc-125-1|D&C 125:1]] ↔ [[D&C 136#^dc-136-9|D&C 136:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

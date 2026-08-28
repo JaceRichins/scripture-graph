@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 1
 slug: esth-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Esther 3]] — 3 parallel verses, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 3#^esth-3-12|Esther 3:12]]
+- [[Esther 9]] — 3 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[Esther 9#^esth-9-20|Esther 9:20]]
+- [[Jeremiah 26]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[Jeremiah 26#^jer-26-12|Jeremiah 26:12]]
+- [[Esther 2]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-3|Esther 1:3]] ↔ [[Esther 2#^esth-2-18|Esther 2:18]]
+- [[Esther 8]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
+- [[Exodus 8]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-21|Esther 1:21]] ↔ [[Exodus 8#^ex-8-13|Exodus 8:13]]
+- [[Jacob 5]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-21|Esther 1:21]] ↔ [[Jacob 5#^jacob-5-10|Jacob 5:10]]
+- [[1 Chronicles 24]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]]
+- [[2 Chronicles 17]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-3|Esther 1:3]] ↔ [[2 Chronicles 17#^2chr-17-7|2 Chronicles 17:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

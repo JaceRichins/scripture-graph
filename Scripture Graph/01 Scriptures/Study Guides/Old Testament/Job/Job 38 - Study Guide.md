@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 38
 slug: job-38
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 40]] — 2 parallel verses, e.g. [[Job 38#^job-38-1|Job 38:1]] ↔ [[Job 40#^job-40-6|Job 40:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Premortal Life]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

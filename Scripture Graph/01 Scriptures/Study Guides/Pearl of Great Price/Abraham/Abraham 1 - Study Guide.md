@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 1
 slug: abr-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 4 mentions
+- [[Noah (patriarch)]] — 3 mentions
+- [[Adam]] — 2 mentions
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 8 mentions
+- [[Potiphar's Hill]] — 2 mentions
+- [[Olishem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Abraham 2]] — 2 parallel verses, e.g. [[Abraham 1#^abr-1-16|Abraham 1:16]] ↔ [[Abraham 2#^abr-2-8|Abraham 2:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Priesthood]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

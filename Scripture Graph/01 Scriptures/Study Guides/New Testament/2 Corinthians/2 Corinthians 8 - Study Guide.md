@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 8
 slug: 2cor-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Titus (companion of Paul)]] — 3 mentions
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 16]] — 2 parallel verses, e.g. [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
+- [[Exodus 16]] — 1 parallel verse, e.g. [[2 Corinthians 8#^2cor-8-15|2 Corinthians 8:15]] ↔ [[Exodus 16#^ex-16-18|Exodus 16:18]]
+- [[2 Thessalonians 3]] — 2 parallel verses, e.g. [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
+- [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Corinthians 8#^2cor-8-15|2 Corinthians 8:15]] ↔ [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Grace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

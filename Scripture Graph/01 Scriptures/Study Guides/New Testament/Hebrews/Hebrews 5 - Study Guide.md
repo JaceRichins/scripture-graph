@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 5
 slug: heb-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Aaron (brother of Moses)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
+- [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
+- [[Hebrews 6]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Priesthood]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 1
 slug: dc-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,36 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph Smith Jr.]] — 2 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 15 parallel verses, e.g. [[D&C 1#^dc-1-8|D&C 1:8]] ↔ [[D&C 124#^dc-124-89|D&C 124:89]]
+- [[D&C 133]] — 8 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 133#^dc-133-1|D&C 133:1]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[D&C 1#^dc-1-9|D&C 1:9]] ↔ [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]]
+- [[D&C 90]] — 4 parallel verses, e.g. [[D&C 1#^dc-1-14|D&C 1:14]] ↔ [[D&C 90#^dc-90-10|D&C 90:10]]
+- [[D&C 88]] — 5 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
+- [[Alma 45]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-31|D&C 1:31]] ↔ [[Alma 45#^alma-45-16|Alma 45:16]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
+- [[D&C 109]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-11|D&C 1:11]] ↔ [[D&C 109#^dc-109-23|D&C 109:23]]
+- [[D&C 46]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 46#^dc-46-1|D&C 46:1]]
+- [[D&C 112]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-11|D&C 1:11]] ↔ [[D&C 112#^dc-112-4|D&C 112:4]]
+- [[D&C 104]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-6|D&C 1:6]] ↔ [[D&C 104#^dc-104-42|D&C 104:42]]
+- [[D&C 43]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-13|D&C 1:13]] ↔ [[D&C 43#^dc-43-28|D&C 43:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]]
+- [[Restoration of the Gospel]]
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

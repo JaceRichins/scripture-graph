@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 113
 slug: dc-113
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Isaiah (prophet)]] — 4 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 77]] — 12 parallel verses, e.g. [[D&C 113#^dc-113-9|D&C 113:9]] ↔ [[D&C 77#^dc-77-2|D&C 77:2]]
+- [[D&C 72]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 72#^dc-72-2|D&C 72:2]]
+- [[D&C 73]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
+- [[D&C 78]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 78#^dc-78-8|D&C 78:8]]
+- [[D&C 114]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 114#^dc-114-1|D&C 114:1]]
+- [[Jeremiah 5]] — 2 parallel verses, e.g. [[D&C 113#^dc-113-4|D&C 113:4]] ↔ [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
+- [[Priesthood]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

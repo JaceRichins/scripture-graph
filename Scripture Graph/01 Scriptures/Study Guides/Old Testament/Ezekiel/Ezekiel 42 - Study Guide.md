@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 42
 slug: ezek-42
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 44]] — 2 parallel verses, e.g. [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]] ↔ [[Ezekiel 44#^ezek-44-29|Ezekiel 44:29]]
+- [[Ezekiel 46]] — 3 parallel verses, e.g. [[Ezekiel 42#^ezek-42-1|Ezekiel 42:1]] ↔ [[Ezekiel 46#^ezek-46-21|Ezekiel 46:21]]
+- [[Ezekiel 40]] — 3 parallel verses, e.g. [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]] ↔ [[Ezekiel 40#^ezek-40-39|Ezekiel 40:39]]
+- [[Ezekiel 8]] — 2 parallel verses, e.g. [[Ezekiel 42#^ezek-42-1|Ezekiel 42:1]] ↔ [[Ezekiel 8#^ezek-8-5|Ezekiel 8:5]]
+- [[Ezekiel 43]] — 1 parallel verse, e.g. [[Ezekiel 42#^ezek-42-15|Ezekiel 42:15]] ↔ [[Ezekiel 43#^ezek-43-4|Ezekiel 43:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

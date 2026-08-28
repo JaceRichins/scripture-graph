@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 4
 slug: 2cor-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 11 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[2 Corinthians 4#^2cor-4-6|2 Corinthians 4:6]] ↔ [[Mosiah 4#^mosiah-4-11|Mosiah 4:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

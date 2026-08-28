@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 37
 slug: ps-37
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 2]] — 2 parallel verses, e.g. [[Psalm 37#^ps-37-28|Psalm 37:28]] ↔ [[Proverbs 2#^prov-2-22|Proverbs 2:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

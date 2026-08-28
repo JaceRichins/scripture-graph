@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 119
 slug: dc-119
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 5 parallel verses, e.g. [[D&C 119#^dc-119-6|D&C 119:6]] ↔ [[D&C 124#^dc-124-70|D&C 124:70]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-6|D&C 119:6]] ↔ [[D&C 45#^dc-45-60|D&C 45:60]]
+- [[D&C 58]] — 1 parallel verse, e.g. [[D&C 119#^dc-119-1|D&C 119:1]] ↔ [[D&C 58#^dc-58-51|D&C 58:51]]
+- [[Matthew 10]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-5|D&C 119:5]] ↔ [[Matthew 10#^matt-10-15|Matthew 10:15]]
+- [[Matthew 11]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-5|D&C 119:5]] ↔ [[Matthew 11#^matt-11-22|Matthew 11:22]]
+- [[Mark 6]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-5|D&C 119:5]] ↔ [[Mark 6#^mark-6-11|Mark 6:11]]
+- [[Luke 11]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-5|D&C 119:5]] ↔ [[Luke 11#^luke-11-51|Luke 11:51]]
+- [[Helaman 15]] — 2 parallel verses, e.g. [[D&C 119#^dc-119-5|D&C 119:5]] ↔ [[Helaman 15#^hel-15-14|Helaman 15:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Tithing]]
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

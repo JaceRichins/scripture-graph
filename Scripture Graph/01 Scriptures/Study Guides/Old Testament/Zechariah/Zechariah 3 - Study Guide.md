@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 3
 slug: zech-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,24 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joshua (son of Nun)]] — 5 mentions
+- [[Satan]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 22]] — 1 parallel verse, e.g. [[Zechariah 3#^zech-3-10|Zechariah 3:10]] ↔ [[Isaiah 22#^isa-22-25|Isaiah 22:25]]
+- [[Amos 8]] — 2 parallel verses, e.g. [[Zechariah 3#^zech-3-10|Zechariah 3:10]] ↔ [[Amos 8#^amos-8-3|Amos 8:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

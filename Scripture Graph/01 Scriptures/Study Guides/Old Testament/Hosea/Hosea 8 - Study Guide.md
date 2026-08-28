@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 8
 slug: hosea-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,20 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Samaria]] — 2 mentions
+- [[Assyria]] — 1 mention
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Amos 1]] — 5 parallel verses, e.g. [[Hosea 8#^hosea-8-14|Hosea 8:14]] ↔ [[Amos 1#^amos-1-14|Amos 1:14]]
+- [[Amos 2]] — 2 parallel verses, e.g. [[Hosea 8#^hosea-8-14|Hosea 8:14]] ↔ [[Amos 2#^amos-2-2|Amos 2:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

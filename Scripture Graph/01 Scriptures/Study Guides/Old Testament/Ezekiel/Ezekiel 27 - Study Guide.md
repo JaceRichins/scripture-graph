@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 27
 slug: ezek-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
+- [[Damascus]] — 1 mention
+- [[Haran]] — 1 mention
+- [[Garden of Eden]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 27#^ezek-27-36|Ezekiel 27:36]] ↔ [[Ezekiel 28#^ezek-28-19|Ezekiel 28:19]]
+- [[Ezekiel 26]] — 2 parallel verses, e.g. [[Ezekiel 27#^ezek-27-32|Ezekiel 27:32]] ↔ [[Ezekiel 26#^ezek-26-17|Ezekiel 26:17]]
+- [[Ezekiel 32]] — 2 parallel verses, e.g. [[Ezekiel 27#^ezek-27-2|Ezekiel 27:2]] ↔ [[Ezekiel 32#^ezek-32-2|Ezekiel 32:2]]
+- [[Ezekiel 30]] — 1 parallel verse, e.g. [[Ezekiel 27#^ezek-27-1|Ezekiel 27:1]] ↔ [[Ezekiel 30#^ezek-30-1|Ezekiel 30:1]]
+- [[Ezekiel 37]] — 1 parallel verse, e.g. [[Ezekiel 27#^ezek-27-1|Ezekiel 27:1]] ↔ [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]]
+- [[Job 35]] — 2 parallel verses, e.g. [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]] ↔ [[Job 35#^job-35-9|Job 35:9]]
+- [[Micah 2]] — 2 parallel verses, e.g. [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]] ↔ [[Micah 2#^micah-2-12|Micah 2:12]]
+- [[Ezekiel 23]] — 1 parallel verse, e.g. [[Ezekiel 27#^ezek-27-1|Ezekiel 27:1]] ↔ [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]]
+- [[Ezekiel 25]] — 1 parallel verse, e.g. [[Ezekiel 27#^ezek-27-1|Ezekiel 27:1]] ↔ [[Ezekiel 25#^ezek-25-1|Ezekiel 25:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 27
 slug: job-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 20]] — 1 parallel verse, e.g. [[Job 27#^job-27-13|Job 27:13]] ↔ [[Job 20#^job-20-29|Job 20:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

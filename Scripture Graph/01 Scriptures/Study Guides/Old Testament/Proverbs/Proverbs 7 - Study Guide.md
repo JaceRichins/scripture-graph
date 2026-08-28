@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 7
 slug: prov-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,14 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 2]] — 1 parallel verse, e.g. [[Proverbs 7#^prov-7-5|Proverbs 7:5]] ↔ [[Proverbs 2#^prov-2-16|Proverbs 2:16]]
+- [[Proverbs 5]] — 1 parallel verse, e.g. [[Proverbs 7#^prov-7-24|Proverbs 7:24]] ↔ [[Proverbs 5#^prov-5-7|Proverbs 5:7]]
+- [[Proverbs 3]] — 1 parallel verse, e.g. [[Proverbs 7#^prov-7-3|Proverbs 7:3]] ↔ [[Proverbs 3#^prov-3-3|Proverbs 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

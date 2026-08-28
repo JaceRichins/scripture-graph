@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 22 mentions
+- [[Pilate]] — 15 mentions
+- [[Mary (mother of Jesus)]] — 1 mention
+- [[Mary Magdalene]] — 1 mention
+- [[Joseph (of Egypt)]] — 1 mention
+- [[Nicodemus]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Golgotha]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 15]] — 2 parallel verses, e.g. [[John 19#^john-19-2|John 19:2]] ↔ [[Mark 15#^mark-15-17|Mark 15:17]]
+- [[John 17]] — 2 parallel verses, e.g. [[John 19#^john-19-24|John 19:24]] ↔ [[John 17#^john-17-12|John 17:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Crucifixion of Jesus Christ]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

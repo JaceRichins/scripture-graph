@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 37
 slug: ex-37
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 25]] — 30 parallel verses, e.g. [[Exodus 37#^ex-37-10|Exodus 37:10]] ↔ [[Exodus 25#^ex-25-23|Exodus 25:23]]
+- [[Exodus 38]] — 7 parallel verses, e.g. [[Exodus 37#^ex-37-15|Exodus 37:15]] ↔ [[Exodus 38#^ex-38-6|Exodus 38:6]]
+- [[Exodus 30]] — 7 parallel verses, e.g. [[Exodus 37#^ex-37-26|Exodus 37:26]] ↔ [[Exodus 30#^ex-30-3|Exodus 30:3]]
+- [[Exodus 36]] — 3 parallel verses, e.g. [[Exodus 37#^ex-37-4|Exodus 37:4]] ↔ [[Exodus 36#^ex-36-36|Exodus 36:36]]
+- [[1 Kings 6]] — 3 parallel verses, e.g. [[Exodus 37#^ex-37-11|Exodus 37:11]] ↔ [[1 Kings 6#^1kgs-6-20|1 Kings 6:20]]
+- [[Exodus 39]] — 3 parallel verses, e.g. [[Exodus 37#^ex-37-7|Exodus 37:7]] ↔ [[Exodus 39#^ex-39-19|Exodus 39:19]]
+- [[Exodus 26]] — 2 parallel verses, e.g. [[Exodus 37#^ex-37-1|Exodus 37:1]] ↔ [[Exodus 26#^ex-26-16|Exodus 26:16]]
+- [[Exodus 28]] — 2 parallel verses, e.g. [[Exodus 37#^ex-37-7|Exodus 37:7]] ↔ [[Exodus 28#^ex-28-23|Exodus 28:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

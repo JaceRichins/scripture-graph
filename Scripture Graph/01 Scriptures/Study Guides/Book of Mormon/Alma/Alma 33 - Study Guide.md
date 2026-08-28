@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 33
 slug: alma-33
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 5]] — 3 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 5#^alma-5-28|Alma 5:28]]
+- [[Alma 34]] — 3 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 34#^alma-34-28|Alma 34:28]]
+- [[Alma 32]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 32#^alma-32-10|Alma 32:10]]
+- [[Mosiah 13]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-20|Alma 33:20]] ↔ [[Mosiah 13#^mosiah-13-32|Mosiah 13:32]]
+- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 60#^alma-60-12|Alma 60:12]]
+- [[Helaman 14]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-22|Alma 33:22]] ↔ [[Helaman 14#^hel-14-20|Helaman 14:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Scripture Study]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

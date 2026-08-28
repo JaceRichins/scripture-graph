@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 56
 slug: isa-56
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

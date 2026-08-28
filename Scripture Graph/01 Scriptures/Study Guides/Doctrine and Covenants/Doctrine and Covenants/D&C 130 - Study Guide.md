@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 130
 slug: dc-130
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
+- [[Joseph (of Egypt)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,30 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 14]] — cited in the text
+- [[Revelation 2]] — cited in the text
+- [[Matthew 24]] — 9 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
+- [[Joseph Smith—Matthew 1]] — 9 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]]
+- [[Moses 7]] — 7 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
+- [[D&C 63]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
+- [[D&C 68]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 68#^dc-68-11|D&C 68:11]]
+- [[D&C 138]] — 4 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 138#^dc-138-49|D&C 138:49]]
+- [[D&C 61]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[D&C 61#^dc-61-38|D&C 61:38]]
+- [[D&C 64]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[D&C 64#^dc-64-23|D&C 64:23]]
+- [[Alma 16]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[Alma 16#^alma-16-19|Alma 16:19]]
+- [[Revelation 2]] — 1 parallel verse, e.g. [[D&C 130#^dc-130-11|D&C 130:11]] ↔ [[Revelation 2#^rev-2-17|Revelation 2:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gift of the Holy Ghost]]
+- [[Education and Learning]]
+- [[Obedience]]
+- [[The Godhead]]
+- [[Book of Mormon (Gospel Topic)]] *(keyword match — unconfirmed)*
+- [[Second Coming of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

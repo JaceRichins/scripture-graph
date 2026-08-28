@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 30
 slug: gen-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Leah]] — 12 mentions
+- [[Rachel]] — 10 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 29]] — 4 parallel verses, e.g. [[Genesis 30#^gen-30-23|Genesis 30:23]] ↔ [[Genesis 29#^gen-29-32|Genesis 29:32]]
+- [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 30#^gen-30-23|Genesis 30:23]] ↔ [[Genesis 38#^gen-38-3|Genesis 38:3]]
+- [[1 Samuel 20]] — 2 parallel verses, e.g. [[Genesis 30#^gen-30-27|Genesis 30:27]] ↔ [[1 Samuel 20#^1sam-20-29|1 Samuel 20:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

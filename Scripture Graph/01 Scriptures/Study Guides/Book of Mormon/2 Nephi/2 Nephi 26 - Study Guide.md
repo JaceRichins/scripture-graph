@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 26
 slug: 2ne-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 7 mentions
+- [[Satan]] — 2 mentions
+- [[Nephi (son of Lehi)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,30 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]] ↔ [[Isaiah 29#^isa-29-4|Isaiah 29:4]]
+- [[Malachi 4]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
+- [[3 Nephi 25]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
+- [[Alma 5]] — 4 parallel verses, e.g. [[2 Nephi 26#^2ne-26-23|2 Nephi 26:23]] ↔ [[Alma 5#^alma-5-50|Alma 5:50]]
+- [[Jacob 2]] — 4 parallel verses, e.g. [[2 Nephi 26#^2ne-26-25|2 Nephi 26:25]] ↔ [[Jacob 2#^jacob-2-14|Jacob 2:14]]
+- [[Moroni 7]] — 4 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
+- [[D&C 29]] — 4 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
+- [[2 Nephi 28]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]]
+- [[2 Nephi 33]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Charity]]
+- [[Secret Combinations]]
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Apostasy]] *(keyword match — unconfirmed)*
+- [[Zion]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

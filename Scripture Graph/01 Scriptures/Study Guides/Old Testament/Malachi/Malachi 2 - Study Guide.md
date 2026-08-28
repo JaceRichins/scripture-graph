@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 2
 slug: mal-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,24 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 13]] — 4 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
+- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
+- [[Ezekiel 14]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 14#^ezek-14-23|Ezekiel 14:23]]
+- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-16|Malachi 2:16]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
+- [[Ezekiel 7]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
+- [[Ezekiel 11]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 37#^ezek-37-6|Ezekiel 37:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

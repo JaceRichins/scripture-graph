@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 7 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Rome]] — 2 mentions
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
+- [[Isaiah 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Isaiah 6#^isa-6-10|Isaiah 6:10]]
+- [[2 Nephi 16]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]]
+- [[Moses 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
+- [[3 Nephi 17]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-29|Acts 28:29]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
+- [[John 12]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[John 12#^john-12-40|John 12:40]]
+- [[Mosiah 18]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-29|Acts 28:29]] ↔ [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

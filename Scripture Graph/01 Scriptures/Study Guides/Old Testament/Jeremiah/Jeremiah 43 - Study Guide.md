@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 43
 slug: jer-43
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jeremiah (prophet)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 6 mentions
+- [[Babylon]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 41]] — 11 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
+- [[Jeremiah 40]] — 10 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
+- [[Jeremiah 42]] — 10 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]
+- [[Jeremiah 39]] — 6 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]]
+- [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 43#^jer-43-8|Jeremiah 43:8]] ↔ [[Jeremiah 32#^jer-32-26|Jeremiah 32:26]]
+- [[Jeremiah 35]] — 5 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
+- [[Jeremiah 29]] — 5 parallel verses, e.g. [[Jeremiah 43#^jer-43-8|Jeremiah 43:8]] ↔ [[Jeremiah 29#^jer-29-30|Jeremiah 29:30]]
+- [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
+- [[Jeremiah 19]] — 3 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
+- [[Ezekiel 20]] — 5 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
+- [[Jeremiah 15]] — 1 parallel verse, e.g. [[Jeremiah 43#^jer-43-11|Jeremiah 43:11]] ↔ [[Jeremiah 15#^jer-15-2|Jeremiah 15:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

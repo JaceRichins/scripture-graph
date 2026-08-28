@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 16
 slug: lev-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Aaron (brother of Moses)]] — 9 mentions
+- [[Moses (prophet)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,28 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 4]] — 15 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
+- [[Leviticus 15]] — 22 parallel verses, e.g. [[Leviticus 16#^lev-16-26|Leviticus 16:26]] ↔ [[Leviticus 15#^lev-15-13|Leviticus 15:13]]
+- [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
+- [[Exodus 29]] — 11 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Exodus 29#^ex-29-12|Exodus 29:12]]
+- [[Leviticus 8]] — 11 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
+- [[Leviticus 9]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-3|Leviticus 16:3]] ↔ [[Leviticus 9#^lev-9-2|Leviticus 9:2]]
+- [[Numbers 29]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Numbers 29#^num-29-1|Numbers 29:1]]
+- [[Leviticus 17]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
+- [[Numbers 19]] — 5 parallel verses, e.g. [[Leviticus 16#^lev-16-28|Leviticus 16:28]] ↔ [[Numbers 19#^num-19-7|Numbers 19:7]]
+- [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
+- [[Leviticus 14]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-7|Leviticus 16:7]] ↔ [[Leviticus 14#^lev-14-11|Leviticus 14:11]]
+- [[Numbers 15]] — 7 parallel verses, e.g. [[Leviticus 16#^lev-16-10|Leviticus 16:10]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

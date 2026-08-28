@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 10
 slug: heb-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 8]] — 2 parallel verses, e.g. [[Hebrews 10#^heb-10-16|Hebrews 10:16]] ↔ [[Hebrews 8#^heb-8-10|Hebrews 8:10]]
+- [[Psalm 40]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-7|Hebrews 10:7]] ↔ [[Psalm 40#^ps-40-7|Psalm 40:7]]
+- [[Jeremiah 31]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-16|Hebrews 10:16]] ↔ [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]]
+- [[Moroni 7]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-12|Hebrews 10:12]] ↔ [[Moroni 7#^moro-7-27|Moroni 7:27]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Hebrews 10#^heb-10-31|Hebrews 10:31]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
+- [[Acts 7]] — 2 parallel verses, e.g. [[Hebrews 10#^heb-10-12|Hebrews 10:12]] ↔ [[Acts 7#^acts-7-55|Acts 7:55]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

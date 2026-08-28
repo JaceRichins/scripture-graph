@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 14
 slug: lev-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,36 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 2 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 8]] — 18 parallel verses, e.g. [[Leviticus 14#^lev-14-25|Leviticus 14:25]] ↔ [[Leviticus 8#^lev-8-23|Leviticus 8:23]]
+- [[Leviticus 4]] — 26 parallel verses, e.g. [[Leviticus 14#^lev-14-23|Leviticus 14:23]] ↔ [[Leviticus 4#^lev-4-4|Leviticus 4:4]]
+- [[Leviticus 5]] — 18 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
+- [[Leviticus 15]] — 21 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
+- [[Exodus 29]] — 17 parallel verses, e.g. [[Leviticus 14#^lev-14-25|Leviticus 14:25]] ↔ [[Exodus 29#^ex-29-20|Exodus 29:20]]
+- [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 14#^lev-14-21|Leviticus 14:21]] ↔ [[Numbers 7#^num-7-13|Numbers 7:13]]
+- [[Numbers 6]] — 18 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Numbers 6#^num-6-11|Numbers 6:11]]
+- [[Leviticus 13]] — 23 parallel verses, e.g. [[Leviticus 14#^lev-14-37|Leviticus 14:37]] ↔ [[Leviticus 13#^lev-13-32|Leviticus 13:32]]
+- [[Numbers 15]] — 9 parallel verses, e.g. [[Leviticus 14#^lev-14-20|Leviticus 14:20]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
+- [[Leviticus 6]] — 5 parallel verses, e.g. [[Leviticus 14#^lev-14-18|Leviticus 14:18]] ↔ [[Leviticus 6#^lev-6-7|Leviticus 6:7]]
+- [[Leviticus 12]] — 5 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 12#^lev-12-8|Leviticus 12:8]]
+- [[Leviticus 17]] — 8 parallel verses, e.g. [[Leviticus 14#^lev-14-11|Leviticus 14:11]] ↔ [[Leviticus 17#^lev-17-6|Leviticus 17:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

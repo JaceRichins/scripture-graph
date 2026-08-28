@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 3
 slug: heb-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,21 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Moses (prophet)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 95]] — 7 parallel verses, e.g. [[Hebrews 3#^heb-3-10|Hebrews 3:10]] ↔ [[Psalm 95#^ps-95-10|Psalm 95:10]]
+- [[Hebrews 4]] — 2 parallel verses, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Hebrews 4#^heb-4-7|Hebrews 4:7]]
+- [[Jacob 6]] — 2 parallel verses, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]
+- [[D&C 84]] — 1 parallel verse, e.g. [[Hebrews 3#^heb-3-18|Hebrews 3:18]] ↔ [[D&C 84#^dc-84-24|D&C 84:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

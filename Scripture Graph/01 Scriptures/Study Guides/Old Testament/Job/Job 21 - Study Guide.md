@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 21
 slug: job-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 22]] — 1 parallel verse, e.g. [[Job 21#^job-21-16|Job 21:16]] ↔ [[Job 22#^job-22-18|Job 22:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

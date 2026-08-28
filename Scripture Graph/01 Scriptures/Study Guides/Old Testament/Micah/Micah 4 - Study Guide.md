@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 4
 slug: micah-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 2]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-2|Micah 4:2]] ↔ [[Isaiah 2#^isa-2-3|Isaiah 2:3]]
+- [[2 Nephi 12]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-2|Micah 4:2]] ↔ [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]]
+- [[3 Nephi 20]] — 1 parallel verse, e.g. [[Micah 4#^micah-4-13|Micah 4:13]] ↔ [[3 Nephi 20#^3ne-20-19|3 Nephi 20:19]]
+- [[Judges 9]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-1|Micah 4:1]] ↔ [[Judges 9#^judg-9-25|Judges 9:25]]
+- [[1 Kings 4]] — 1 parallel verse, e.g. [[Micah 4#^micah-4-4|Micah 4:4]] ↔ [[1 Kings 4#^1kgs-4-25|1 Kings 4:25]]
+- [[Amos 8]] — 2 parallel verses, e.g. [[Micah 4#^micah-4-6|Micah 4:6]] ↔ [[Amos 8#^amos-8-3|Amos 8:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

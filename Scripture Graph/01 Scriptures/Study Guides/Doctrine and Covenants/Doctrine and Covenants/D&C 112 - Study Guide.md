@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,10 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Thomas (apostle)]] — 2 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[Sidney Rigdon]] — 1 mention
+- [[Hyrum Smith]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +40,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 8 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
+- [[D&C 68]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
+- [[Mormon 9]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
+- [[D&C 101]] — 5 parallel verses, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[D&C 101#^dc-101-65|D&C 101:65]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
+- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
+- [[3 Nephi 11]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[3 Nephi 11#^3ne-11-34|3 Nephi 11:34]]
+- [[Mark 13]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[Mark 13#^mark-13-37|Mark 13:37]]
+- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
+- [[D&C 71]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[D&C 42]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-21|D&C 112:21]] ↔ [[D&C 42#^dc-42-10|D&C 42:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

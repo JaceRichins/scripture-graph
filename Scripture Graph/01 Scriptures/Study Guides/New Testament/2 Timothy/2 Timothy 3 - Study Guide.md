@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 3
 slug: 2tim-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,29 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Antioch]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Helaman 15]] — 3 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
+- [[Alma 23]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Alma 23#^alma-23-15|Alma 23:15]]
+- [[Mosiah 27]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]]
+- [[Alma 17]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Alma 17#^alma-17-4|Alma 17:4]]
+- [[Mosiah 18]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Mosiah 18#^mosiah-18-3|Mosiah 18:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Signs of the Times]]
+- [[Scripture Study]]
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

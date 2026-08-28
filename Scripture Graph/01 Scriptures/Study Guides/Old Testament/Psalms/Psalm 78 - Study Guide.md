@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 3 mentions
+- [[Shiloh]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 47]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-12|Psalm 78:12]] ↔ [[Genesis 47#^gen-47-11|Genesis 47:11]]
+- [[Genesis 41]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-27|Psalm 78:27]] ↔ [[Genesis 41#^gen-41-49|Genesis 41:49]]
+- [[D&C 124]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-72|Psalm 78:72]] ↔ [[D&C 124#^dc-124-15|D&C 124:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 44
 slug: gen-44
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,19 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 4 mentions
+- [[King Benjamin]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 42]] — 2 parallel verses, e.g. [[Genesis 44#^gen-44-29|Genesis 44:29]] ↔ [[Genesis 42#^gen-42-38|Genesis 42:38]]
+- [[Genesis 43]] — 2 parallel verses, e.g. [[Genesis 44#^gen-44-32|Genesis 44:32]] ↔ [[Genesis 43#^gen-43-9|Genesis 43:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

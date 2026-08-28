@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Elisha]] — 11 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Samaria]] — 5 mentions
+- [[Jordan River]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Kings 22]] — 5 parallel verses, e.g. [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]] ↔ [[1 Kings 22#^1kgs-22-3|1 Kings 22:3]]
+- [[1 Kings 20]] — 3 parallel verses, e.g. [[2 Kings 6#^2kgs-6-24|2 Kings 6:24]] ↔ [[1 Kings 20#^1kgs-20-1|1 Kings 20:1]]
+- [[2 Samuel 14]] — 1 parallel verse, e.g. [[2 Kings 6#^2kgs-6-28|2 Kings 6:28]] ↔ [[2 Samuel 14#^2sam-14-5|2 Samuel 14:5]]
+- [[2 Chronicles 18]] — 3 parallel verses, e.g. [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]] ↔ [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]]
+- [[2 Kings 2]] — 3 parallel verses, e.g. [[2 Kings 6#^2kgs-6-20|2 Kings 6:20]] ↔ [[2 Kings 2#^2kgs-2-9|2 Kings 2:9]]
+- [[2 Kings 5]] — 2 parallel verses, e.g. [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]] ↔ [[2 Kings 5#^2kgs-5-7|2 Kings 5:7]]
+- [[2 Kings 8]] — 2 parallel verses, e.g. [[2 Kings 6#^2kgs-6-15|2 Kings 6:15]] ↔ [[2 Kings 8#^2kgs-8-4|2 Kings 8:4]]
+- [[2 Kings 3]] — 2 parallel verses, e.g. [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]] ↔ [[2 Kings 3#^2kgs-3-13|2 Kings 3:13]]
+- [[Joshua 8]] — 2 parallel verses, e.g. [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]] ↔ [[Joshua 8#^josh-8-14|Joshua 8:14]]
+- [[2 Samuel 7]] — 2 parallel verses, e.g. [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]] ↔ [[2 Samuel 7#^2sam-7-1|2 Samuel 7:1]]
+- [[2 Kings 22]] — 1 parallel verse, e.g. [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]] ↔ [[2 Kings 22#^2kgs-22-11|2 Kings 22:11]]
+- [[2 Chronicles 34]] — 1 parallel verse, e.g. [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]] ↔ [[2 Chronicles 34#^2chr-34-19|2 Chronicles 34:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 86
 slug: ps-86
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 25]] — 2 parallel verses, e.g. [[Psalm 86#^ps-86-4|Psalm 86:4]] ↔ [[Psalm 25#^ps-25-1|Psalm 25:1]]
+- [[Jeremiah 10]] — 2 parallel verses, e.g. [[Psalm 86#^ps-86-8|Psalm 86:8]] ↔ [[Jeremiah 10#^jer-10-6|Jeremiah 10:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

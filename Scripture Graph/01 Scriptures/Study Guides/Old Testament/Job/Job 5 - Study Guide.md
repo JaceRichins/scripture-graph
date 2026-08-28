@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 5
 slug: job-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 3]] — 1 parallel verse, e.g. [[Job 5#^job-5-13|Job 5:13]] ↔ [[1 Corinthians 3#^1cor-3-19|1 Corinthians 3:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,46 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 26 mentions
+- [[Peter (apostle)]] — 8 mentions
+- [[Caiaphas]] — 2 mentions
+- [[Judas Iscariot]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Galilee]] — 2 mentions
+- [[Bethany]] — 1 mention
+- [[Gethsemane]] — 1 mention
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 14]] — 43 parallel verses, e.g. [[Matthew 26#^matt-26-31|Matthew 26:31]] ↔ [[Mark 14#^mark-14-27|Mark 14:27]]
+- [[Luke 22]] — 13 parallel verses, e.g. [[Matthew 26#^matt-26-75|Matthew 26:75]] ↔ [[Luke 22#^luke-22-61|Luke 22:61]]
+- [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-59|Matthew 26:59]] ↔ [[Matthew 27#^matt-27-1|Matthew 27:1]]
+- [[Luke 23]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-34|Matthew 26:34]] ↔ [[Luke 23#^luke-23-43|Luke 23:43]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
+- [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
+- [[Matthew 21]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
+- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-64|Matthew 26:64]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-36|Joseph Smith—Matthew 1:36]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 28#^3ne-28-4|3 Nephi 28:4]]
+- [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
+- [[Alma 18]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-63|Matthew 26:63]] ↔ [[Alma 18#^alma-18-19|Alma 18:19]]
+- [[Luke 19]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Luke 19#^luke-19-47|Luke 19:47]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Passover]]
+- [[Gethsemane]]
+- [[Sacrament]]
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
+- [[Witnesses of the Book of Mormon]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

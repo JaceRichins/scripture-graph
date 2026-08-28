@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 48
 slug: dc-48
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 51]] — 2 parallel verses, e.g. [[D&C 48#^dc-48-6|D&C 48:6]] ↔ [[D&C 51#^dc-51-3|D&C 51:3]]
+- [[D&C 50]] — 1 parallel verse, e.g. [[D&C 48#^dc-48-6|D&C 48:6]] ↔ [[D&C 50#^dc-50-35|D&C 50:35]]
+- [[3 Nephi 7]] — 2 parallel verses, e.g. [[D&C 48#^dc-48-6|D&C 48:6]] ↔ [[3 Nephi 7#^3ne-7-2|3 Nephi 7:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

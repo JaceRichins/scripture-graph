@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 21
 slug: jer-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,35 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Zedekiah]] — 3 mentions
+- [[Jeremiah (prophet)]] — 2 mentions
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 4 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 34]] — 8 parallel verses, e.g. [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
+- [[Jeremiah 32]] — 12 parallel verses, e.g. [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[Jeremiah 44]] — 10 parallel verses, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Jeremiah 44#^jer-44-30|Jeremiah 44:30]]
+- [[Jeremiah 38]] — 4 parallel verses, e.g. [[Jeremiah 21#^jer-21-9|Jeremiah 21:9]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
+- [[Jeremiah 22]] — 3 parallel verses, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Jeremiah 22#^jer-22-25|Jeremiah 22:25]]
+- [[Jeremiah 27]] — 6 parallel verses, e.g. [[Jeremiah 21#^jer-21-11|Jeremiah 21:11]] ↔ [[Jeremiah 27#^jer-27-18|Jeremiah 27:18]]
+- [[Jeremiah 29]] — 5 parallel verses, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]]
+- [[Joshua 10]] — 6 parallel verses, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
+- [[Jeremiah 46]] — 1 parallel verse, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Jeremiah 46#^jer-46-26|Jeremiah 46:26]]
+- [[Jeremiah 4]] — 1 parallel verse, e.g. [[Jeremiah 21#^jer-21-12|Jeremiah 21:12]] ↔ [[Jeremiah 4#^jer-4-4|Jeremiah 4:4]]
+- [[Ezekiel 30]] — 3 parallel verses, e.g. [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
+- [[Jeremiah 20]] — 3 parallel verses, e.g. [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]] ↔ [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

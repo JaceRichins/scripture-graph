@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 4
 slug: hosea-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hosea 2]] — 1 parallel verse, e.g. [[Hosea 4#^hosea-4-3|Hosea 4:3]] ↔ [[Hosea 2#^hosea-2-18|Hosea 2:18]]
+- [[Daniel 4]] — 3 parallel verses, e.g. [[Hosea 4#^hosea-4-3|Hosea 4:3]] ↔ [[Daniel 4#^dan-4-25|Daniel 4:25]]
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Hosea 4#^hosea-4-1|Hosea 4:1]] ↔ [[Jeremiah 25#^jer-25-31|Jeremiah 25:31]]
+- [[Exodus 34]] — 2 parallel verses, e.g. [[Hosea 4#^hosea-4-1|Hosea 4:1]] ↔ [[Exodus 34#^ex-34-12|Exodus 34:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Chastity]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

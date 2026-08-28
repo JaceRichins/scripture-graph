@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 8
 slug: 2kgs-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Elisha]] — 8 mentions
+- [[David (king)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
+- [[Cumorah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 15]] — 15 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
+- [[2 Chronicles 21]] — 12 parallel verses, e.g. [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]] ↔ [[2 Chronicles 21#^2chr-21-1|2 Chronicles 21:1]]
+- [[1 Kings 15]] — 11 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
+- [[2 Chronicles 22]] — 12 parallel verses, e.g. [[2 Kings 8#^2kgs-8-26|2 Kings 8:26]] ↔ [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]]
+- [[1 Kings 22]] — 8 parallel verses, e.g. [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
+- [[1 Kings 16]] — 8 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
+- [[1 Kings 14]] — 9 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
+- [[2 Kings 21]] — 10 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
+- [[2 Kings 14]] — 8 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[2 Kings 14#^2kgs-14-18|2 Kings 14:18]]
+- [[2 Kings 16]] — 7 parallel verses, e.g. [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]] ↔ [[2 Kings 16#^2kgs-16-20|2 Kings 16:20]]
+- [[2 Kings 24]] — 6 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

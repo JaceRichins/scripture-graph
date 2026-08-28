@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 65
 slug: dc-65
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 3]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
+- [[Mark 1]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
+- [[Luke 3]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
+- [[Mormon 9]] — 4 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
+- [[Isaiah 40]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Alma 9#^alma-9-28|Alma 9:28]]
+- [[D&C 33]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
+- [[D&C 133]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
+- [[D&C 72]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-2|D&C 65:2]] ↔ [[D&C 72#^dc-72-21|D&C 72:21]]
+- [[D&C 90]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-2|D&C 65:2]] ↔ [[D&C 90#^dc-90-9|D&C 90:9]]
+- [[2 Nephi 29]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-2|D&C 65:2]] ↔ [[2 Nephi 29#^2ne-29-2|2 Nephi 29:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Kingdom of God]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Abinadi]] — 1 mention
+- [[Isaiah (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 12]] — 8 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
+- [[Isaiah 52]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
+- [[3 Nephi 20]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
+- [[3 Nephi 16]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
+- [[D&C 128]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
+- [[D&C 133]] — 1 parallel verse, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
+- [[Alma 5]] — 8 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Alma 5#^alma-5-60|Alma 5:60]]
+- [[Mosiah 13]] — 5 parallel verses, e.g. [[Mosiah 15#^mosiah-15-1|Mosiah 15:1]] ↔ [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]]
+- [[Mosiah 4]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
+- [[Mosiah 3]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
+- [[D&C 45]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
+- [[Alma 37]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Alma 37#^alma-37-9|Alma 37:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Resurrection]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Eternal Life]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

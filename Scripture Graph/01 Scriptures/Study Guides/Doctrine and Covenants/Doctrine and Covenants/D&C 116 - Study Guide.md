@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 116
 slug: dc-116
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,18 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Adam]] — 1 mention
+- [[Daniel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Adam-ondi-Ahman]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[D&C 116#^dc-116-1|D&C 116:1]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-12|Joseph Smith—Matthew 1:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

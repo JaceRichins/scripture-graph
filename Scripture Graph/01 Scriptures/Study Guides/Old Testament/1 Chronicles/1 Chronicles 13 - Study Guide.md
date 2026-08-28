@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 13
 slug: 1chr-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,29 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 9 mentions
+- [[Saul (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Samuel 6]] — 9 parallel verses, e.g. [[1 Chronicles 13#^1chr-13-11|1 Chronicles 13:11]] ↔ [[2 Samuel 6#^2sam-6-8|2 Samuel 6:8]]
+- [[Numbers 11]] — 2 parallel verses, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Numbers 11#^num-11-10|Numbers 11:10]]
+- [[Judges 2]] — 2 parallel verses, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
+- [[Exodus 4]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
+- [[Numbers 12]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
+- [[Numbers 25]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
+- [[Deuteronomy 29]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
+- [[Joshua 7]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
+- [[2 Kings 13]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
+- [[2 Samuel 24]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[2 Samuel 24#^2sam-24-1|2 Samuel 24:1]]
+- [[2 Chronicles 25]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[2 Chronicles 25#^2chr-25-15|2 Chronicles 25:15]]
+- [[1 Kings 15]] — 2 parallel verses, e.g. [[1 Chronicles 13#^1chr-13-4|1 Chronicles 13:4]] ↔ [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

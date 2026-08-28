@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 2
 slug: eph-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 12 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +42,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Grace]]
+- [[Prophets]]
+- [[Apostles]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 27
 slug: gen-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esau]] — 21 mentions
+- [[Isaac]] — 13 mentions
+- [[Rebekah]] — 6 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Haran]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 27#^gen-27-18|Genesis 27:18]] ↔ [[Genesis 22#^gen-22-7|Genesis 22:7]]
+- [[Genesis 28]] — 2 parallel verses, e.g. [[Genesis 27#^gen-27-46|Genesis 27:46]] ↔ [[Genesis 28#^gen-28-1|Genesis 28:1]]
+- [[John 11]] — 1 parallel verse, e.g. [[Genesis 27#^gen-27-15|Genesis 27:15]] ↔ [[John 11#^john-11-31|John 11:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Obedience]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

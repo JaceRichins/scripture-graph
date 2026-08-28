@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 6#^heb-6-20|Hebrews 6:20]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
+- [[Hebrews 5]] — 1 parallel verse, e.g. [[Hebrews 6#^heb-6-20|Hebrews 6:20]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

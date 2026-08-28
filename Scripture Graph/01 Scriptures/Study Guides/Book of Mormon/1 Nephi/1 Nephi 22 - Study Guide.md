@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 22
 slug: 1ne-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,43 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Nephi (son of Lehi)]] — 5 mentions
+- [[Satan]] — 4 mentions
+- [[Moses (prophet)]] — 2 mentions
+- [[Abraham (patriarch)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 20]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
+- [[1 Nephi 19]] — 16 parallel verses, e.g. [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
+- [[Acts 3]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
+- [[1 Nephi 14]] — 11 parallel verses, e.g. [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[3 Nephi 16]] — 10 parallel verses, e.g. [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
+- [[2 Nephi 6]] — 9 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
+- [[2 Nephi 1]] — 8 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]]
+- [[1 Nephi 15]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-9|1 Nephi 22:9]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
+- [[2 Nephi 27]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
+- [[D&C 29]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[D&C 29#^dc-29-21|D&C 29:21]]
+- [[1 Nephi 13]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
+- [[D&C 1]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]] ↔ [[D&C 1#^dc-1-9|D&C 1:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scattering of Israel]]
+- [[Gathering of Israel]]
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 26
 slug: dc-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 28]] — 2 parallel verses, e.g. [[D&C 26#^dc-26-2|D&C 26:2]] ↔ [[D&C 28#^dc-28-13|D&C 28:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scripture Study]]
+- [[Sustaining Church Leaders]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

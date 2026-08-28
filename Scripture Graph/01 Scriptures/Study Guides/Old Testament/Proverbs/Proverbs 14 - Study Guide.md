@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 14
 slug: prov-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 16]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-12|Proverbs 14:12]] ↔ [[Proverbs 16#^prov-16-25|Proverbs 16:25]]
+- [[Proverbs 28]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-2|Proverbs 14:2]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
+- [[Proverbs 13]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-27|Proverbs 14:27]] ↔ [[Proverbs 13#^prov-13-14|Proverbs 13:14]]
+- [[Proverbs 15]] — 3 parallel verses, e.g. [[Proverbs 14#^prov-14-33|Proverbs 14:33]] ↔ [[Proverbs 15#^prov-15-14|Proverbs 15:14]]
+- [[Psalm 19]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Psalm 19#^ps-19-9|Psalm 19:9]]
+- [[Psalm 111]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Psalm 111#^ps-111-10|Psalm 111:10]]
+- [[Proverbs 8]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Proverbs 8#^prov-8-13|Proverbs 8:13]]
+- [[Proverbs 9]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Proverbs 9#^prov-9-10|Proverbs 9:10]]
+- [[Proverbs 1]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Proverbs 1#^prov-1-7|Proverbs 1:7]]
+- [[Isaiah 33]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-26|Proverbs 14:26]] ↔ [[Isaiah 33#^isa-33-6|Isaiah 33:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
+- [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 28
 slug: ps-28
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Psalm 28#^ps-28-4|Psalm 28:4]] ↔ [[Jeremiah 25#^jer-25-14|Jeremiah 25:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

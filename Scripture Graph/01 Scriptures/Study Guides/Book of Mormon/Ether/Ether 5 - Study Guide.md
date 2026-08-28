@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 5
 slug: ether-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,25 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mormon 9]] — 4 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
+- [[D&C 5]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-3|Ether 5:3]] ↔ [[D&C 5#^dc-5-12|D&C 5:12]]
+- [[3 Nephi 19]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]
+- [[1 Nephi 10]] — 1 parallel verse, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[Ether 5#^ether-5-4|Ether 5:4]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
+- [[3 Nephi 18]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
+- [[Ether 4]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-6|Ether 5:6]] ↔ [[Ether 4#^ether-4-10|Ether 4:10]]
+- [[2 Nephi 33]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-6|Ether 5:6]] ↔ [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]]
+- [[1 Nephi 7]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[1 Nephi 7#^1ne-7-12|1 Nephi 7:12]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Witnesses of the Book of Mormon]]
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

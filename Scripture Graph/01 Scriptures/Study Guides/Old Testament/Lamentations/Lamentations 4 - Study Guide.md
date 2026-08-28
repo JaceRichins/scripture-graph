@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 4
 slug: lam-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,24 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Sodom]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 8]] — 8 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 8#^jer-8-11|Jeremiah 8:11]]
+- [[Lamentations 2]] — 3 parallel verses, e.g. [[Lamentations 4#^lam-4-10|Lamentations 4:10]] ↔ [[Lamentations 2#^lam-2-11|Lamentations 2:11]]
+- [[Lamentations 3]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-10|Lamentations 4:10]] ↔ [[Lamentations 3#^lam-3-48|Lamentations 3:48]]
+- [[Isaiah 22]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Isaiah 22#^isa-22-4|Isaiah 22:4]]
+- [[Jeremiah 6]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 6#^jer-6-14|Jeremiah 6:14]]
+- [[Jeremiah 9]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 9#^jer-9-1|Jeremiah 9:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

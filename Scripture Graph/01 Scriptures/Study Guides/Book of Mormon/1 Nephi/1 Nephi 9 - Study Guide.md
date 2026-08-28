@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 9
 slug: 1ne-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Nephi (son of Lehi)]] — 3 mentions
+- [[Lemuel]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 37]] — 3 parallel verses, e.g. [[1 Nephi 9#^1ne-9-5|1 Nephi 9:5]] ↔ [[Alma 37#^alma-37-14|Alma 37:14]]
+- [[Helaman 14]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[Helaman 14#^hel-14-1|Helaman 14:1]]
+- [[1 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[1 Nephi 10#^1ne-10-16|1 Nephi 10:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Records and Sacred Writings]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

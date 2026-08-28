@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,20 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
+- [[Titus (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Ephesus]] — 1 mention
+- [[Corinth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Galatians 1]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
+- [[Hebrews 13]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

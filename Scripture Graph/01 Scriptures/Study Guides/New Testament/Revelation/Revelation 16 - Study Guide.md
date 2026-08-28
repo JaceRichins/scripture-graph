@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 16
 slug: rev-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,19 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 19]] — 2 parallel verses, e.g. [[Revelation 16#^rev-16-14|Revelation 16:14]] ↔ [[Revelation 19#^rev-19-19|Revelation 19:19]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 16#^rev-16-1|Revelation 16:1]] ↔ [[Revelation 21#^rev-21-3|Revelation 21:3]]
+- [[2 Chronicles 21]] — 2 parallel verses, e.g. [[Revelation 16#^rev-16-12|Revelation 16:12]] ↔ [[2 Chronicles 21#^2chr-21-6|2 Chronicles 21:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

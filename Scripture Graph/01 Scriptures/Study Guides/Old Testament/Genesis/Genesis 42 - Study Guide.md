@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 42
 slug: gen-42
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,25 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 12 mentions
+- [[King Benjamin]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 5 mentions
+- [[Egypt]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 11]] — 4 parallel verses, e.g. [[Genesis 42#^gen-42-6|Genesis 42:6]] ↔ [[2 Kings 11#^2kgs-11-19|2 Kings 11:19]]
+- [[Genesis 44]] — 2 parallel verses, e.g. [[Genesis 42#^gen-42-38|Genesis 42:38]] ↔ [[Genesis 44#^gen-44-29|Genesis 44:29]]
+- [[2 Chronicles 23]] — 3 parallel verses, e.g. [[Genesis 42#^gen-42-6|Genesis 42:6]] ↔ [[2 Chronicles 23#^2chr-23-20|2 Chronicles 23:20]]
+- [[2 Kings 7]] — 3 parallel verses, e.g. [[Genesis 42#^gen-42-21|Genesis 42:21]] ↔ [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]]
+- [[Genesis 47]] — 2 parallel verses, e.g. [[Genesis 42#^gen-42-2|Genesis 42:2]] ↔ [[Genesis 47#^gen-47-19|Genesis 47:19]]
+- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 42#^gen-42-13|Genesis 42:13]] ↔ [[Genesis 46#^gen-46-6|Genesis 46:6]]
+- [[Ezekiel 45]] — 2 parallel verses, e.g. [[Genesis 42#^gen-42-6|Genesis 42:6]] ↔ [[Ezekiel 45#^ezek-45-16|Ezekiel 45:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

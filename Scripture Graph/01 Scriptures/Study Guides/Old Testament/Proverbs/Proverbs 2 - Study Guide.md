@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 2
 slug: prov-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 2#^prov-2-16|Proverbs 2:16]] ↔ [[Proverbs 7#^prov-7-5|Proverbs 7:5]]
+- [[Psalm 37]] — 2 parallel verses, e.g. [[Proverbs 2#^prov-2-22|Proverbs 2:22]] ↔ [[Psalm 37#^ps-37-28|Psalm 37:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

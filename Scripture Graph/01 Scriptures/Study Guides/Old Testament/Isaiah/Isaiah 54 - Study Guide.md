@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 54
 slug: isa-54
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
+- [[Noah (patriarch)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 22]] — 17 parallel verses, e.g. [[Isaiah 54#^isa-54-1|Isaiah 54:1]] ↔ [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]]
+- [[Zechariah 12]] — 1 parallel verse, e.g. [[Isaiah 54#^isa-54-3|Isaiah 54:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
+- [[Isaiah 48]] — 2 parallel verses, e.g. [[Isaiah 54#^isa-54-5|Isaiah 54:5]] ↔ [[Isaiah 48#^isa-48-2|Isaiah 48:2]]
+- [[1 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 54#^isa-54-5|Isaiah 54:5]] ↔ [[1 Nephi 20#^1ne-20-2|1 Nephi 20:2]]
+- [[2 Corinthians 6]] — 1 parallel verse, e.g. [[Isaiah 54#^isa-54-3|Isaiah 54:3]] ↔ [[2 Corinthians 6#^2cor-6-7|2 Corinthians 6:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

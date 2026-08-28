@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 4
 slug: lev-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,26 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 3]] — 28 parallel verses, e.g. [[Leviticus 4#^lev-4-9|Leviticus 4:9]] ↔ [[Leviticus 3#^lev-3-10|Leviticus 3:10]]
+- [[Leviticus 5]] — 32 parallel verses, e.g. [[Leviticus 4#^lev-4-35|Leviticus 4:35]] ↔ [[Leviticus 5#^lev-5-12|Leviticus 5:12]]
+- [[Exodus 29]] — 27 parallel verses, e.g. [[Leviticus 4#^lev-4-9|Leviticus 4:9]] ↔ [[Exodus 29#^ex-29-22|Exodus 29:22]]
+- [[Leviticus 8]] — 28 parallel verses, e.g. [[Leviticus 4#^lev-4-25|Leviticus 4:25]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
+- [[Leviticus 14]] — 26 parallel verses, e.g. [[Leviticus 4#^lev-4-4|Leviticus 4:4]] ↔ [[Leviticus 14#^lev-14-23|Leviticus 14:23]]
+- [[Numbers 15]] — 14 parallel verses, e.g. [[Leviticus 4#^lev-4-31|Leviticus 4:31]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
+- [[Leviticus 7]] — 17 parallel verses, e.g. [[Leviticus 4#^lev-4-9|Leviticus 4:9]] ↔ [[Leviticus 7#^lev-7-4|Leviticus 7:4]]
+- [[Leviticus 16]] — 15 parallel verses, e.g. [[Leviticus 4#^lev-4-25|Leviticus 4:25]] ↔ [[Leviticus 16#^lev-16-18|Leviticus 16:18]]
+- [[Leviticus 15]] — 14 parallel verses, e.g. [[Leviticus 4#^lev-4-26|Leviticus 4:26]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
+- [[Leviticus 1]] — 15 parallel verses, e.g. [[Leviticus 4#^lev-4-31|Leviticus 4:31]] ↔ [[Leviticus 1#^lev-1-17|Leviticus 1:17]]
+- [[Leviticus 6]] — 9 parallel verses, e.g. [[Leviticus 4#^lev-4-26|Leviticus 4:26]] ↔ [[Leviticus 6#^lev-6-7|Leviticus 6:7]]
+- [[Leviticus 9]] — 8 parallel verses, e.g. [[Leviticus 4#^lev-4-25|Leviticus 4:25]] ↔ [[Leviticus 9#^lev-9-9|Leviticus 9:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

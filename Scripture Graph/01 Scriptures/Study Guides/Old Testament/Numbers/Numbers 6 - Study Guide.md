@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 6
 slug: num-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 2 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,27 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 7]] — 37 parallel verses, e.g. [[Numbers 6#^num-6-12|Numbers 6:12]] ↔ [[Numbers 7#^num-7-15|Numbers 7:15]]
+- [[Leviticus 14]] — 18 parallel verses, e.g. [[Numbers 6#^num-6-11|Numbers 6:11]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
+- [[Numbers 29]] — 21 parallel verses, e.g. [[Numbers 6#^num-6-15|Numbers 6:15]] ↔ [[Numbers 29#^num-29-18|Numbers 29:18]]
+- [[Leviticus 15]] — 11 parallel verses, e.g. [[Numbers 6#^num-6-11|Numbers 6:11]] ↔ [[Leviticus 15#^lev-15-30|Leviticus 15:30]]
+- [[Leviticus 8]] — 18 parallel verses, e.g. [[Numbers 6#^num-6-18|Numbers 6:18]] ↔ [[Leviticus 8#^lev-8-31|Leviticus 8:31]]
+- [[Exodus 29]] — 14 parallel verses, e.g. [[Numbers 6#^num-6-20|Numbers 6:20]] ↔ [[Exodus 29#^ex-29-24|Exodus 29:24]]
+- [[Leviticus 17]] — 14 parallel verses, e.g. [[Numbers 6#^num-6-18|Numbers 6:18]] ↔ [[Leviticus 17#^lev-17-6|Leviticus 17:6]]
+- [[Leviticus 4]] — 10 parallel verses, e.g. [[Numbers 6#^num-6-18|Numbers 6:18]] ↔ [[Leviticus 4#^lev-4-7|Leviticus 4:7]]
+- [[Leviticus 23]] — 8 parallel verses, e.g. [[Numbers 6#^num-6-2|Numbers 6:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
+- [[Leviticus 12]] — 7 parallel verses, e.g. [[Numbers 6#^num-6-12|Numbers 6:12]] ↔ [[Leviticus 12#^lev-12-6|Leviticus 12:6]]
+- [[Exodus 40]] — 10 parallel verses, e.g. [[Numbers 6#^num-6-13|Numbers 6:13]] ↔ [[Exodus 40#^ex-40-12|Exodus 40:12]]
+- [[Numbers 16]] — 9 parallel verses, e.g. [[Numbers 6#^num-6-13|Numbers 6:13]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Consecration]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

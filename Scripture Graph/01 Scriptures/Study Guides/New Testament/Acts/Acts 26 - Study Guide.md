@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 5 mentions
+- [[Jesus Christ]] — 3 mentions
+- [[Saul (king)]] — 2 mentions
+- [[Satan]] — 1 mention
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
+- [[Damascus]] — 2 mentions
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 9]] — 3 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
+- [[Acts 22]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-15|Acts 26:15]] ↔ [[Acts 22#^acts-22-8|Acts 22:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

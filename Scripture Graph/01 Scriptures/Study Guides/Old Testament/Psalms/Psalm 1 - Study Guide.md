@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 1
 slug: ps-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Psalm 1#^ps-1-2|Psalm 1:2]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
+- [[Luke 2]] — 2 parallel verses, e.g. [[Psalm 1#^ps-1-2|Psalm 1:2]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

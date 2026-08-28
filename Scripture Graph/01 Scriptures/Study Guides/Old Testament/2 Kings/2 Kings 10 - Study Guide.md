@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 10
 slug: 2kgs-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Elijah]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Samaria]] — 7 mentions
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 15]] — 20 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 15#^2kgs-15-21|2 Kings 15:21]]
+- [[1 Kings 16]] — 11 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
+- [[2 Kings 13]] — 7 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
+- [[2 Kings 14]] — 7 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
+- [[1 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]]
+- [[1 Kings 22]] — 6 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]]
+- [[1 Kings 14]] — 6 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
+- [[2 Kings 21]] — 4 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
+- [[Joshua 10]] — 6 parallel verses, e.g. [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
+- [[2 Kings 24]] — 4 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
+- [[2 Kings 8]] — 3 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 22
 slug: deut-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 21]] — 4 parallel verses, e.g. [[Deuteronomy 22#^deut-22-21|Deuteronomy 22:21]] ↔ [[Deuteronomy 21#^deut-21-21|Deuteronomy 21:21]]
+- [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
+- [[Ruth 3]] — 1 parallel verse, e.g. [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]] ↔ [[Ruth 3#^ruth-3-1|Ruth 3:1]]
+- [[Ephesians 6]] — 1 parallel verse, e.g. [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]] ↔ [[Ephesians 6#^eph-6-3|Ephesians 6:3]]
+- [[Deuteronomy 4]] — 1 parallel verse, e.g. [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
+- [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

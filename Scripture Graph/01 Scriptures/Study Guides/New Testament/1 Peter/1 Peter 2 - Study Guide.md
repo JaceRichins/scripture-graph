@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 9]] — 1 parallel verse, e.g. [[1 Peter 2#^1pet-2-6|1 Peter 2:6]] ↔ [[Romans 9#^rom-9-33|Romans 9:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

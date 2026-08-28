@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 28
 slug: isa-28
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,24 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[2 Nephi 28#^2ne-28-30|2 Nephi 28:30]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
+- [[Ezekiel 29]] — 3 parallel verses, e.g. [[Isaiah 28#^isa-28-16|Isaiah 28:16]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
+- [[Ezekiel 34]] — 3 parallel verses, e.g. [[Isaiah 28#^isa-28-16|Isaiah 28:16]] ↔ [[Ezekiel 34#^ezek-34-10|Ezekiel 34:10]]
+- [[Ezekiel 23]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-16|Isaiah 28:16]] ↔ [[Ezekiel 23#^ezek-23-22|Ezekiel 23:22]]
+- [[Ezekiel 26]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-16|Isaiah 28:16]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-16|Isaiah 28:16]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Word of Wisdom]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

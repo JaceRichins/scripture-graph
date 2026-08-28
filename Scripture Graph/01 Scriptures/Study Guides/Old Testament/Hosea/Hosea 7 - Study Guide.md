@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 7
 slug: hosea-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,7 +32,9 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Samaria]] — 1 mention
+- [[Assyria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -42,7 +44,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

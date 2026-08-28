@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 3
 slug: eph-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 12 mentions
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Colossians 1]] — 3 parallel verses, e.g. [[Ephesians 3#^eph-3-14|Ephesians 3:14]] ↔ [[Colossians 1#^col-1-3|Colossians 1:3]]
+- [[Ephesians 1]] — 2 parallel verses, e.g. [[Ephesians 3#^eph-3-14|Ephesians 3:14]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Grace]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

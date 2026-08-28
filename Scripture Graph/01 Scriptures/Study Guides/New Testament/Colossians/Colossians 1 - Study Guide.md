@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 11 mentions
+- [[Paul (apostle)]] — 2 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +39,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 1]] — 5 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
+- [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
+- [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
+- [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
+- [[1 Corinthians 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
+- [[Romans 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
+- [[Ephesians 3]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-3|Colossians 1:3]] ↔ [[Ephesians 3#^eph-3-14|Ephesians 3:14]]
+- [[Philippians 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
+- [[2 Timothy 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]]
+- [[1 Timothy 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]]
+- [[Romans 15]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-3|Colossians 1:3]] ↔ [[Romans 15#^rom-15-6|Romans 15:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

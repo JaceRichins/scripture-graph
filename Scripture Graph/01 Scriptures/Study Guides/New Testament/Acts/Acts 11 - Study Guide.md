@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 11
 slug: acts-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Peter (apostle)]] — 4 mentions
+- [[Barnabas]] — 3 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Saul (king)]] — 2 mentions
+- [[Stephen (martyr)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Antioch]] — 6 mentions
+- [[Jerusalem]] — 3 mentions
+- [[Tarsus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 10]] — 4 parallel verses, e.g. [[Acts 11#^acts-11-6|Acts 11:6]] ↔ [[Acts 10#^acts-10-12|Acts 10:12]]
+- [[Acts 1]] — 1 parallel verse, e.g. [[Acts 11#^acts-11-16|Acts 11:16]] ↔ [[Acts 1#^acts-1-5|Acts 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 3
 slug: nahum-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,13 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 2 mentions
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nahum 2]] — 1 parallel verse, e.g. [[Nahum 3#^nahum-3-5|Nahum 3:5]] ↔ [[Nahum 2#^nahum-2-13|Nahum 2:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 24
 slug: ps-24
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 10]] — 2 parallel verses, e.g. [[Psalm 24#^ps-24-1|Psalm 24:1]] ↔ [[1 Corinthians 10#^1cor-10-26|1 Corinthians 10:26]]
+- [[Psalm 98]] — 1 parallel verse, e.g. [[Psalm 24#^ps-24-1|Psalm 24:1]] ↔ [[Psalm 98#^ps-98-7|Psalm 98:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

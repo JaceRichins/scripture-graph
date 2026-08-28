@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 9
 slug: ezra-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,22 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 10]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-1|Ezra 9:1]] ↔ [[Nehemiah 10#^neh-10-28|Nehemiah 10:28]]
+- [[Ezra 10]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-4|Ezra 9:4]] ↔ [[Ezra 10#^ezra-10-8|Ezra 10:8]]
+- [[Nehemiah 9]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-11|Ezra 9:11]] ↔ [[Nehemiah 9#^neh-9-30|Nehemiah 9:30]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-7|Ezra 9:7]] ↔ [[Jeremiah 32#^jer-32-4|Jeremiah 32:4]]
+- [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-11|Ezra 9:11]] ↔ [[Deuteronomy 11#^deut-11-11|Deuteronomy 11:11]]
+- [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-1|Ezra 9:1]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 16
 slug: 1sam-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,24 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Samuel (prophet)]] — 11 mentions
+- [[Saul (king)]] — 11 mentions
+- [[David (king)]] — 6 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Cumorah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 14]] — 2 parallel verses, e.g. [[1 Samuel 16#^1sam-16-13|1 Samuel 16:13]] ↔ [[Judges 14#^judg-14-19|Judges 14:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 20
 slug: isa-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,12 +27,13 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Isaiah (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 3 mentions
+- [[Egypt]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -42,7 +43,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

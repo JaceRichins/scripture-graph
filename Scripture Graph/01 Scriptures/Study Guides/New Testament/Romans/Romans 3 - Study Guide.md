@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 14]] — 2 parallel verses, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 14#^ps-14-3|Psalm 14:3]]
+- [[Psalm 53]] — 2 parallel verses, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 53#^ps-53-3|Psalm 53:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Faith]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

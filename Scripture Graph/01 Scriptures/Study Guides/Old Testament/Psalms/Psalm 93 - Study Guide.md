@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 93
 slug: ps-93
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

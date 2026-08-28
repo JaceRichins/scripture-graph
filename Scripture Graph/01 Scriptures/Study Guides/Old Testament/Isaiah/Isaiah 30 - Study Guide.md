@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 30
 slug: isa-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,21 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 3 mentions
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 88]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-26|Isaiah 30:26]] ↔ [[D&C 88#^dc-88-7|D&C 88:7]]
+- [[D&C 78]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-15|Isaiah 30:15]] ↔ [[D&C 78#^dc-78-15|D&C 78:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

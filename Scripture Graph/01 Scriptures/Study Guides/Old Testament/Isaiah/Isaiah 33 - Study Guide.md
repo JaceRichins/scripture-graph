@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 33
 slug: isa-33
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,18 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Carmel]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 14]] — 2 parallel verses, e.g. [[Isaiah 33#^isa-33-6|Isaiah 33:6]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 2
 slug: ps-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 4]] — 2 parallel verses, e.g. [[Psalm 2#^ps-2-2|Psalm 2:2]] ↔ [[Acts 4#^acts-4-26|Acts 4:26]]
+- [[Acts 13]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Acts 13#^acts-13-33|Acts 13:33]]
+- [[Hebrews 1]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

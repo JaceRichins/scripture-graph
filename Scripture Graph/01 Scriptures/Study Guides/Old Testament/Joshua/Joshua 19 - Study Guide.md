@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 19
 slug: josh-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joshua (son of Nun)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 3 mentions
+- [[Cumorah]] — 2 mentions
+- [[Mount Carmel]] — 1 mention
+- [[Hebron]] — 1 mention
+- [[Shiloh]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 34]] — 73 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
+- [[Numbers 10]] — 65 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
+- [[Joshua 15]] — 26 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
+- [[Joshua 18]] — 28 parallel verses, e.g. [[Joshua 19#^josh-19-16|Joshua 19:16]] ↔ [[Joshua 18#^josh-18-28|Joshua 18:28]]
+- [[Joshua 16]] — 12 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
+- [[Joshua 13]] — 19 parallel verses, e.g. [[Joshua 19#^josh-19-23|Joshua 19:23]] ↔ [[Joshua 13#^josh-13-28|Joshua 13:28]]
+- [[Joshua 21]] — 10 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
+- [[Joshua 10]] — 6 parallel verses, e.g. [[Joshua 19#^josh-19-47|Joshua 19:47]] ↔ [[Joshua 10#^josh-10-37|Joshua 10:37]]
+- [[Numbers 36]] — 15 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 36#^num-36-9|Numbers 36:9]]
+- [[1 Chronicles 6]] — 9 parallel verses, e.g. [[Joshua 19#^josh-19-1|Joshua 19:1]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
+- [[Joshua 14]] — 1 parallel verse, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
+- [[Numbers 32]] — 2 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

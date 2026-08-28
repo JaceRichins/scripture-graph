@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 14
 slug: ps-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 53]] — 8 parallel verses, e.g. [[Psalm 14#^ps-14-7|Psalm 14:7]] ↔ [[Psalm 53#^ps-53-6|Psalm 53:6]]
+- [[Romans 3]] — 2 parallel verses, e.g. [[Psalm 14#^ps-14-3|Psalm 14:3]] ↔ [[Romans 3#^rom-3-12|Romans 3:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

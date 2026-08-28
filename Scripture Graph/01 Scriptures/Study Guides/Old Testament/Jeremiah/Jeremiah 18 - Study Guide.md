@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 18
 slug: jer-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jeremiah (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 11]] — 3 parallel verses, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
+- [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[Daniel 9]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Daniel 9#^dan-9-7|Daniel 9:7]]
+- [[Jeremiah 2]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]]
+- [[Jeremiah 19]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-16|Jeremiah 18:16]] ↔ [[Jeremiah 19#^jer-19-8|Jeremiah 19:8]]
+- [[Ezekiel 12]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Ezekiel 12#^ezek-12-17|Ezekiel 12:17]]
+- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-1|Jeremiah 18:1]] ↔ [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]]
+- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-1|Jeremiah 18:1]] ↔ [[Jeremiah 34#^jer-34-12|Jeremiah 34:12]]
+- [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
+- [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Jeremiah 36#^jer-36-27|Jeremiah 36:27]]
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 25#^jer-25-5|Jeremiah 25:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

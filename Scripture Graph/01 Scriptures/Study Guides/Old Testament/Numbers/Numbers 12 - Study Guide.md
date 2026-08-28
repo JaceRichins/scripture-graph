@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 12
 slug: num-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 9 mentions
+- [[Miriam]] — 7 mentions
+- [[Aaron (brother of Moses)]] — 5 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 11]] — 3 parallel verses, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Numbers 11#^num-11-10|Numbers 11:10]]
+- [[Numbers 16]] — 2 parallel verses, e.g. [[Numbers 12#^num-12-5|Numbers 12:5]] ↔ [[Numbers 16#^num-16-18|Numbers 16:18]]
+- [[Judges 2]] — 2 parallel verses, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
+- [[Numbers 25]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
+- [[Exodus 4]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
+- [[Deuteronomy 29]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
+- [[Joshua 7]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
+- [[2 Samuel 6]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[2 Samuel 6#^2sam-6-7|2 Samuel 6:7]]
+- [[2 Kings 13]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
+- [[1 Chronicles 13]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]]
+- [[Numbers 33]] — 2 parallel verses, e.g. [[Numbers 12#^num-12-16|Numbers 12:16]] ↔ [[Numbers 33#^num-33-15|Numbers 33:15]]
+- [[2 Samuel 24]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[2 Samuel 24#^2sam-24-1|2 Samuel 24:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

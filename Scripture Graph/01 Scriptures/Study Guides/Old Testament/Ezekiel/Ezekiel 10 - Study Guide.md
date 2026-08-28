@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 10
 slug: ezek-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 1]] — 12 parallel verses, e.g. [[Ezekiel 10#^ezek-10-16|Ezekiel 10:16]] ↔ [[Ezekiel 1#^ezek-1-19|Ezekiel 1:19]]
+- [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]]
+- [[Ezekiel 3]] — 4 parallel verses, e.g. [[Ezekiel 10#^ezek-10-22|Ezekiel 10:22]] ↔ [[Ezekiel 3#^ezek-3-23|Ezekiel 3:23]]
+- [[Ezekiel 9]] — 4 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]]
+- [[Ezekiel 8]] — 3 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Ezekiel 8#^ezek-8-4|Ezekiel 8:4]]
+- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Ezekiel 43#^ezek-43-2|Ezekiel 43:2]]
+- [[Jeremiah 26]] — 2 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Jeremiah 26#^jer-26-2|Jeremiah 26:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

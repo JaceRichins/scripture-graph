@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 30
 slug: 2ne-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,39 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Nephi (son of Lehi)]] — 1 mention
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 11]] — 6 parallel verses, e.g. [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]] ↔ [[Isaiah 11#^isa-11-4|Isaiah 11:4]]
+- [[2 Nephi 21]] — 6 parallel verses, e.g. [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]] ↔ [[2 Nephi 21#^2ne-21-4|2 Nephi 21:4]]
+- [[2 Nephi 27]] — 4 parallel verses, e.g. [[2 Nephi 30#^2ne-30-8|2 Nephi 30:8]] ↔ [[2 Nephi 27#^2ne-27-6|2 Nephi 27:6]]
+- [[1 Nephi 15]] — 5 parallel verses, e.g. [[2 Nephi 30#^2ne-30-2|2 Nephi 30:2]] ↔ [[1 Nephi 15#^1ne-15-14|1 Nephi 15:14]]
+- [[Isaiah 65]] — 2 parallel verses, e.g. [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]] ↔ [[Isaiah 65#^isa-65-25|Isaiah 65:25]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
+- [[Alma 36]] — 2 parallel verses, e.g. [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]] ↔ [[Alma 36#^alma-36-1|Alma 36:1]]
+- [[Alma 34]] — 3 parallel verses, e.g. [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]] ↔ [[Alma 34#^alma-34-28|Alma 34:28]]
+- [[2 Nephi 28]] — 3 parallel verses, e.g. [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]] ↔ [[2 Nephi 28#^2ne-28-20|2 Nephi 28:20]]
+- [[Habakkuk 2]] — 1 parallel verse, e.g. [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]] ↔ [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]]
+- [[Alma 48]] — 1 parallel verse, e.g. [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]] ↔ [[Alma 48#^alma-48-17|Alma 48:17]]
+- [[Omni 1]] — 3 parallel verses, e.g. [[2 Nephi 30#^2ne-30-2|2 Nephi 30:2]] ↔ [[Omni 1#^omni-1-26|Omni 1:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]]
+- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 20
 slug: job-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 27]] — 1 parallel verse, e.g. [[Job 20#^job-20-29|Job 20:29]] ↔ [[Job 27#^job-27-13|Job 27:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

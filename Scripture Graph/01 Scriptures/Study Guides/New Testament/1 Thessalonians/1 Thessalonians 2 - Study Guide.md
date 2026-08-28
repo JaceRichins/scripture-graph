@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 2
 slug: 1thes-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
+- [[Paul (apostle)]] — 1 mention
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -42,7 +44,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

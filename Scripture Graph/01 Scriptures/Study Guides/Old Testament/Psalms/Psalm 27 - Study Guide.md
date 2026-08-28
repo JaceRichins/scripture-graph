@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 27
 slug: ps-27
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
+- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-14|Psalm 27:14]] ↔ [[Psalm 31#^ps-31-24|Psalm 31:24]]
+- [[Psalm 116]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Psalm 116#^ps-116-9|Psalm 116:9]]
+- [[Isaiah 38]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Isaiah 38#^isa-38-11|Isaiah 38:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

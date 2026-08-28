@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 21
 slug: 1ne-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 49]] — 26 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
+- [[2 Nephi 6]] — 5 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
+- [[Isaiah 60]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
+- [[Ezekiel 35]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[3 Nephi 16]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-13|1 Nephi 21:13]] ↔ [[3 Nephi 16#^3ne-16-19|3 Nephi 16:19]]
+- [[Ezekiel 20]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 20#^ezek-20-47|Ezekiel 20:47]]
+- [[Ezekiel 34]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]]
+- [[Ezekiel 29]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
+- [[Ezekiel 37]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[Ezekiel 25]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
+- [[Ezekiel 5]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
+- [[Ezekiel 14]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Gathering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 8
 slug: prov-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 8#^prov-8-13|Proverbs 8:13]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

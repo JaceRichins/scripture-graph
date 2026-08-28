@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 28
 slug: job-28
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Job 28#^job-28-13|Job 28:13]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
+- [[Isaiah 66]] — 2 parallel verses, e.g. [[Job 28#^job-28-12|Job 28:12]] ↔ [[Isaiah 66#^isa-66-1|Isaiah 66:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

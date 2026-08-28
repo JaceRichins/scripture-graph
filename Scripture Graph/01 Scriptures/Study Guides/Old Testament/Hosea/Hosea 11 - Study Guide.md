@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 11
 slug: hosea-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,19 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 3 mentions
+- [[Assyria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 5]] — 2 parallel verses, e.g. [[Hosea 11#^hosea-11-9|Hosea 11:9]] ↔ [[Ezekiel 5#^ezek-5-10|Ezekiel 5:10]]
+- [[Ezekiel 7]] — 2 parallel verses, e.g. [[Hosea 11#^hosea-11-9|Hosea 11:9]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

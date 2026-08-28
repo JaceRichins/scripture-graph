@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 4
 slug: jonah-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,19 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jonah (prophet)]] — 6 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 9]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
+- [[Joel 2]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Joel 2#^joel-2-13|Joel 2:13]]
+- [[1 Corinthians 9]] — 2 parallel verses, e.g. [[Jonah 4#^jonah-4-3|Jonah 4:3]] ↔ [[1 Corinthians 9#^1cor-9-15|1 Corinthians 9:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 28
 slug: ezek-28
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Garden of Eden]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 30]] — 23 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
+- [[Ezekiel 29]] — 17 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
+- [[Ezekiel 25]] — 13 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]]
+- [[Ezekiel 26]] — 11 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
+- [[Ezekiel 39]] — 9 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
+- [[Ezekiel 38]] — 9 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
+- [[Ezekiel 24]] — 11 parallel verses, e.g. [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]] ↔ [[Ezekiel 24#^ezek-24-27|Ezekiel 24:27]]
+- [[Ezekiel 12]] — 10 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 12#^ezek-12-15|Ezekiel 12:15]]
+- [[Ezekiel 6]] — 11 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]]
+- [[Ezekiel 36]] — 9 parallel verses, e.g. [[Ezekiel 28#^ezek-28-11|Ezekiel 28:11]] ↔ [[Ezekiel 36#^ezek-36-16|Ezekiel 36:16]]
+- [[Ezekiel 7]] — 8 parallel verses, e.g. [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]] ↔ [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]]
+- [[Ezekiel 35]] — 7 parallel verses, e.g. [[Ezekiel 28#^ezek-28-11|Ezekiel 28:11]] ↔ [[Ezekiel 35#^ezek-35-1|Ezekiel 35:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

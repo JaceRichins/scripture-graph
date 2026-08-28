@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 29
 slug: ps-29
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 96]] — 3 parallel verses, e.g. [[Psalm 29#^ps-29-2|Psalm 29:2]] ↔ [[Psalm 96#^ps-96-8|Psalm 96:8]]
+- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Psalm 29#^ps-29-2|Psalm 29:2]] ↔ [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

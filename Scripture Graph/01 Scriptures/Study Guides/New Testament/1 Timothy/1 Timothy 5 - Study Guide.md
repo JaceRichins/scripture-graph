@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 9]] — 1 parallel verse, e.g. [[1 Timothy 5#^1tim-5-18|1 Timothy 5:18]] ↔ [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

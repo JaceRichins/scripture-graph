@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Satan]] — 3 mentions
+- [[Jesus Christ]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 128]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-12|Revelation 20:12]] ↔ [[D&C 128#^dc-128-6|D&C 128:6]]
+- [[Revelation 6]] — 1 parallel verse, e.g. [[Revelation 20#^rev-20-4|Revelation 20:4]] ↔ [[Revelation 6#^rev-6-9|Revelation 6:9]]
+- [[1 Nephi 19]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-12|Revelation 20:12]] ↔ [[1 Nephi 19#^1ne-19-23|1 Nephi 19:23]]
+- [[D&C 85]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-15|Revelation 20:15]] ↔ [[D&C 85#^dc-85-9|D&C 85:9]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-1|Revelation 20:1]] ↔ [[Moses 7#^moses-7-26|Moses 7:26]]
+- [[3 Nephi 5]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-8|Revelation 20:8]] ↔ [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Millennium]]
+- [[Final Judgment]]
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

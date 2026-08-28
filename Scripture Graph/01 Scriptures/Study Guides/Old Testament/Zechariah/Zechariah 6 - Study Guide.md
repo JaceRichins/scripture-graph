@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 6
 slug: zech-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Josiah]] — 1 mention
+- [[Joshua (son of Nun)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Zechariah 5]] — 4 parallel verses, e.g. [[Zechariah 6#^zech-6-1|Zechariah 6:1]] ↔ [[Zechariah 5#^zech-5-1|Zechariah 5:1]]
+- [[Zechariah 4]] — 5 parallel verses, e.g. [[Zechariah 6#^zech-6-15|Zechariah 6:15]] ↔ [[Zechariah 4#^zech-4-9|Zechariah 4:9]]
+- [[Zechariah 2]] — 3 parallel verses, e.g. [[Zechariah 6#^zech-6-15|Zechariah 6:15]] ↔ [[Zechariah 2#^zech-2-9|Zechariah 2:9]]
+- [[Zechariah 1]] — 5 parallel verses, e.g. [[Zechariah 6#^zech-6-4|Zechariah 6:4]] ↔ [[Zechariah 1#^zech-1-19|Zechariah 1:19]]
+- [[Haggai 1]] — 4 parallel verses, e.g. [[Zechariah 6#^zech-6-11|Zechariah 6:11]] ↔ [[Haggai 1#^hag-1-14|Haggai 1:14]]
+- [[Haggai 2]] — 4 parallel verses, e.g. [[Zechariah 6#^zech-6-11|Zechariah 6:11]] ↔ [[Haggai 2#^hag-2-2|Haggai 2:2]]
+- [[Ezekiel 22]] — 3 parallel verses, e.g. [[Zechariah 6#^zech-6-9|Zechariah 6:9]] ↔ [[Ezekiel 22#^ezek-22-17|Ezekiel 22:17]]
+- [[Jeremiah 42]] — 2 parallel verses, e.g. [[Zechariah 6#^zech-6-15|Zechariah 6:15]] ↔ [[Jeremiah 42#^jer-42-21|Jeremiah 42:21]]
+- [[Jeremiah 1]] — 3 parallel verses, e.g. [[Zechariah 6#^zech-6-9|Zechariah 6:9]] ↔ [[Jeremiah 1#^jer-1-13|Jeremiah 1:13]]
+- [[Ezekiel 24]] — 3 parallel verses, e.g. [[Zechariah 6#^zech-6-9|Zechariah 6:9]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
+- [[Zechariah 7]] — 2 parallel verses, e.g. [[Zechariah 6#^zech-6-12|Zechariah 6:12]] ↔ [[Zechariah 7#^zech-7-9|Zechariah 7:9]]
+- [[Ezekiel 17]] — 2 parallel verses, e.g. [[Zechariah 6#^zech-6-9|Zechariah 6:9]] ↔ [[Ezekiel 17#^ezek-17-1|Ezekiel 17:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

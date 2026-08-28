@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 16
 slug: jer-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,29 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 7]] — 5 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]
+- [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
+- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 25]] — 4 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 25#^jer-25-10|Jeremiah 25:10]]
+- [[Jeremiah 31]] — 5 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]]
+- [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]] ↔ [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]]
+- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
+- [[Jeremiah 33]] — 2 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]]
+- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
+- [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]]
+- [[Jeremiah 27]] — 3 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]]
+- [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 51#^jer-51-33|Jeremiah 51:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gathering of Israel]]
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

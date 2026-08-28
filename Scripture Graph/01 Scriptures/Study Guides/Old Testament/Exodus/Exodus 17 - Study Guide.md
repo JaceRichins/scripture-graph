@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 17
 slug: ex-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 13 mentions
+- [[Joshua (son of Nun)]] — 4 mentions
+- [[Aaron (brother of Moses)]] — 2 mentions
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
+- [[Mount Sinai]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joshua 10]] — 7 parallel verses, e.g. [[Exodus 17#^ex-17-13|Exodus 17:13]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
+- [[Exodus 35]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Exodus 35#^ex-35-20|Exodus 35:20]]
+- [[Numbers 21]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-7|Exodus 17:7]] ↔ [[Numbers 21#^num-21-3|Numbers 21:3]]
+- [[Numbers 4]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[Numbers 11]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-7|Exodus 17:7]] ↔ [[Numbers 11#^num-11-3|Numbers 11:3]]
+- [[Numbers 33]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Numbers 33#^num-33-14|Numbers 33:14]]
+- [[Genesis 26]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-7|Exodus 17:7]] ↔ [[Genesis 26#^gen-26-20|Genesis 26:20]]
+- [[Numbers 16]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-3|Exodus 17:3]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
+- [[Exodus 16]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
+- [[Joshua 11]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-13|Exodus 17:13]] ↔ [[Joshua 11#^josh-11-11|Joshua 11:11]]
+- [[Joshua 15]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Joshua 15#^josh-15-13|Joshua 15:13]]
+- [[Exodus 19]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-5|Exodus 17:5]] ↔ [[Exodus 19#^ex-19-10|Exodus 19:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

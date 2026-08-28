@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 13
 slug: luke-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,39 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Abraham (patriarch)]] — 2 mentions
+- [[Pilate]] — 1 mention
+- [[Satan]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 5 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 23]] — 3 parallel verses, e.g. [[Luke 13#^luke-13-34|Luke 13:34]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-21|Luke 13:21]] ↔ [[Matthew 13#^matt-13-33|Matthew 13:33]]
+- [[D&C 44]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[D&C 44#^dc-44-1|D&C 44:1]]
+- [[3 Nephi 20]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
+- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-1|Joseph Smith—Matthew 1:1]]
+- [[Mark 4]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-19|Luke 13:19]] ↔ [[Mark 4#^mark-4-31|Mark 4:31]]
+- [[Mark 11]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Mark 11#^mark-11-9|Mark 11:9]]
+- [[Matthew 25]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-28|Luke 13:28]] ↔ [[Matthew 25#^matt-25-30|Matthew 25:30]]
+- [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[Psalm 107#^ps-107-3|Psalm 107:3]]
+- [[Matthew 8]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-28|Luke 13:28]] ↔ [[Matthew 8#^matt-8-12|Matthew 8:12]]
+- [[Luke 8]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-17|Luke 13:17]] ↔ [[Luke 8#^luke-8-8|Luke 8:8]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Matthew 21#^matt-21-9|Matthew 21:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sabbath Day]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
+- [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

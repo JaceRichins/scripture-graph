@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 19]] — 4 parallel verses, e.g. [[John 17#^john-17-9|John 17:9]] ↔ [[3 Nephi 19#^3ne-19-29|3 Nephi 19:29]]
+- [[D&C 132]] — 3 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 132#^dc-132-5|D&C 132:5]]
+- [[John 19]] — 2 parallel verses, e.g. [[John 17#^john-17-12|John 17:12]] ↔ [[John 19#^john-19-24|John 19:24]]
+- [[D&C 124]] — 2 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 124#^dc-124-33|D&C 124:33]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 128#^dc-128-5|D&C 128:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Eternal Life]]
+- [[The Godhead]]
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

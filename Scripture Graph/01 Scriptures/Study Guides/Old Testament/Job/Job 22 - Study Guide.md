@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 22
 slug: job-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 21]] — 1 parallel verse, e.g. [[Job 22#^job-22-18|Job 22:18]] ↔ [[Job 21#^job-21-16|Job 21:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

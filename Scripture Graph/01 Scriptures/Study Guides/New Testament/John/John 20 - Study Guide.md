@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 16 mentions
+- [[Thomas (apostle)]] — 5 mentions
+- [[Peter (apostle)]] — 4 mentions
+- [[Mary Magdalene]] — 2 mentions
+- [[Mary (mother of Jesus)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 16]] — 4 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
+- [[Luke 24]] — 3 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[Luke 24#^luke-24-36|Luke 24:36]]
+- [[Acts 20]] — 2 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]
+- [[Matthew 28]] — 2 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[Matthew 28#^matt-28-1|Matthew 28:1]]
+- [[Mormon 5]] — 1 parallel verse, e.g. [[John 20#^john-20-31|John 20:31]] ↔ [[Mormon 5#^morm-5-14|Mormon 5:14]]
+- [[1 Corinthians 16]] — 2 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]]
+- [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[3 Nephi 19#^3ne-19-15|3 Nephi 19:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Resurrection]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

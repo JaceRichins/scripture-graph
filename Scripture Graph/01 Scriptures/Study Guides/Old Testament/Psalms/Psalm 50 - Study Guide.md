@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 50
 slug: ps-50
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 113]] — 1 parallel verse, e.g. [[Psalm 50#^ps-50-1|Psalm 50:1]] ↔ [[Psalm 113#^ps-113-3|Psalm 113:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

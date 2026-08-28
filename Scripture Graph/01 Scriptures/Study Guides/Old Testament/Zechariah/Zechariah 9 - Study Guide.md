@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 9
 slug: zech-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,21 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Gaza]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
+- [[Damascus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Zechariah 9#^zech-9-9|Zechariah 9:9]] ↔ [[Matthew 21#^matt-21-5|Matthew 21:5]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]]
+- [[Ezekiel 25]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Ezekiel 25#^ezek-25-16|Ezekiel 25:16]]
+- [[Ezekiel 30]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Ezekiel 30#^ezek-30-15|Ezekiel 30:15]]
+- [[Amos 1]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Amos 1#^amos-1-8|Amos 1:8]]
+- [[Amos 2]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Amos 2#^amos-2-3|Amos 2:3]]
+- [[Micah 5]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[Micah 5#^micah-5-11|Micah 5:11]]
+- [[3 Nephi 21]] — 2 parallel verses, e.g. [[Zechariah 9#^zech-9-6|Zechariah 9:6]] ↔ [[3 Nephi 21#^3ne-21-15|3 Nephi 21:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

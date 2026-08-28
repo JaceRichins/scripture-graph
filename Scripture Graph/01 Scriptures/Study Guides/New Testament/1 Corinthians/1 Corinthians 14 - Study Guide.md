@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gift of Tongues]]
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 10
 slug: zech-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Assyria]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 24]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 24#^jer-24-6|Jeremiah 24:6]]
+- [[Ezekiel 39]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Ezekiel 39#^ezek-39-22|Ezekiel 39:22]]
+- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 16#^jer-16-15|Jeremiah 16:15]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 32#^jer-32-37|Jeremiah 32:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

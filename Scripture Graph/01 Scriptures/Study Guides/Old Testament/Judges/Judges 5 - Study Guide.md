@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 5
 slug: judg-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,12 +27,14 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[King Benjamin]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Sinai]] — 1 mention
+- [[Jordan River]] — 1 mention
+- [[Canaan]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

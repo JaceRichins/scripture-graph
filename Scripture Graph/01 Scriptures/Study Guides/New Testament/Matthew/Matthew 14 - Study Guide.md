@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 14
 slug: matt-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,10 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 11 mentions
+- [[Peter (apostle)]] — 2 mentions
+- [[John the Baptist]] — 1 mention
+- [[Philip (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mark 6]] — 14 parallel verses, e.g. [[Matthew 14#^matt-14-2|Matthew 14:2]] ↔ [[Mark 6#^mark-6-14|Mark 6:14]]
+- [[Matthew 15]] — 4 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
+- [[Luke 9]] — 3 parallel verses, e.g. [[Matthew 14#^matt-14-19|Matthew 14:19]] ↔ [[Luke 9#^luke-9-16|Luke 9:16]]
+- [[Mark 8]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Mark 8#^mark-8-8|Mark 8:8]]
+- [[John 18]] — 1 parallel verse, e.g. [[Matthew 14#^matt-14-4|Matthew 14:4]] ↔ [[John 18#^john-18-31|John 18:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

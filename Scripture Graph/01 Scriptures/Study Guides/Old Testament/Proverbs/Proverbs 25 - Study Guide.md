@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 25
 slug: prov-25
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 1 mention
+- [[Hezekiah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 21]] — 2 parallel verses, e.g. [[Proverbs 25#^prov-25-24|Proverbs 25:24]] ↔ [[Proverbs 21#^prov-21-9|Proverbs 21:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

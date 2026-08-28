@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,34 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Josiah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Joshua 3]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
+- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
+- [[1 Samuel 4]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
+- [[Joshua 4]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
+- [[1 Kings 8]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
+- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
+- [[2 Chronicles 5]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
+- [[Jeremiah 5]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-20|Jeremiah 3:20]] ↔ [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]]
+- [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-25|Jeremiah 3:25]] ↔ [[Jeremiah 42#^jer-42-21|Jeremiah 42:21]]
+- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]]
+- [[Jeremiah 44]] — 1 parallel verse, e.g. [[Jeremiah 3#^jer-3-25|Jeremiah 3:25]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

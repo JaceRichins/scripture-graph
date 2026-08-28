@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 26
 slug: ex-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 36]] — 33 parallel verses, e.g. [[Exodus 26#^ex-26-19|Exodus 26:19]] ↔ [[Exodus 36#^ex-36-24|Exodus 36:24]]
+- [[Exodus 39]] — 11 parallel verses, e.g. [[Exodus 26#^ex-26-1|Exodus 26:1]] ↔ [[Exodus 39#^ex-39-29|Exodus 39:29]]
+- [[Exodus 25]] — 11 parallel verses, e.g. [[Exodus 26#^ex-26-16|Exodus 26:16]] ↔ [[Exodus 25#^ex-25-10|Exodus 25:10]]
+- [[Exodus 27]] — 4 parallel verses, e.g. [[Exodus 26#^ex-26-36|Exodus 26:36]] ↔ [[Exodus 27#^ex-27-16|Exodus 27:16]]
+- [[Exodus 28]] — 5 parallel verses, e.g. [[Exodus 26#^ex-26-31|Exodus 26:31]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
+- [[Exodus 35]] — 6 parallel verses, e.g. [[Exodus 26#^ex-26-31|Exodus 26:31]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
+- [[Exodus 38]] — 3 parallel verses, e.g. [[Exodus 26#^ex-26-31|Exodus 26:31]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
+- [[Exodus 40]] — 3 parallel verses, e.g. [[Exodus 26#^ex-26-35|Exodus 26:35]] ↔ [[Exodus 40#^ex-40-24|Exodus 40:24]]
+- [[Ezekiel 40]] — 3 parallel verses, e.g. [[Exodus 26#^ex-26-13|Exodus 26:13]] ↔ [[Ezekiel 40#^ezek-40-10|Ezekiel 40:10]]
+- [[Numbers 3]] — 3 parallel verses, e.g. [[Exodus 26#^ex-26-35|Exodus 26:35]] ↔ [[Numbers 3#^num-3-29|Numbers 3:29]]
+- [[Exodus 37]] — 2 parallel verses, e.g. [[Exodus 26#^ex-26-16|Exodus 26:16]] ↔ [[Exodus 37#^ex-37-1|Exodus 37:1]]
+- [[Exodus 30]] — 1 parallel verse, e.g. [[Exodus 26#^ex-26-37|Exodus 26:37]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

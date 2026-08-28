@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 101]] — 1 parallel verse, e.g. [[Psalm 46#^ps-46-10|Psalm 46:10]] ↔ [[D&C 101#^dc-101-16|D&C 101:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

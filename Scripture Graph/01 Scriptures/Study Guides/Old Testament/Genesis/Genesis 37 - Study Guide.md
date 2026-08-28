@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 37
 slug: gen-37
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,25 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 14 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 3 mentions
+- [[Canaan]] — 1 mention
+- [[Hebron]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 7]] — 2 parallel verses, e.g. [[Genesis 37#^gen-37-19|Genesis 37:19]] ↔ [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]]
+- [[1 Kings 21]] — 1 parallel verse, e.g. [[Genesis 37#^gen-37-34|Genesis 37:34]] ↔ [[1 Kings 21#^1kgs-21-27|1 Kings 21:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

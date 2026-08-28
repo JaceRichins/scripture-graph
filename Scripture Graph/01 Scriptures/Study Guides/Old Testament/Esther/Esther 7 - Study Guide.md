@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 7
 slug: esth-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Esther (queen)]] — 8 mentions
+- [[Mordecai]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Esther 5]] — 4 parallel verses, e.g. [[Esther 7#^esth-7-2|Esther 7:2]] ↔ [[Esther 5#^esth-5-6|Esther 5:6]]
+- [[Nehemiah 2]] — 2 parallel verses, e.g. [[Esther 7#^esth-7-3|Esther 7:3]] ↔ [[Nehemiah 2#^neh-2-5|Nehemiah 2:5]]
+- [[Numbers 11]] — 1 parallel verse, e.g. [[Esther 7#^esth-7-3|Esther 7:3]] ↔ [[Numbers 11#^num-11-15|Numbers 11:15]]
+- [[Esther 9]] — 2 parallel verses, e.g. [[Esther 7#^esth-7-3|Esther 7:3]] ↔ [[Esther 9#^esth-9-13|Esther 9:13]]
+- [[Esther 6]] — 1 parallel verse, e.g. [[Esther 7#^esth-7-10|Esther 7:10]] ↔ [[Esther 6#^esth-6-4|Esther 6:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

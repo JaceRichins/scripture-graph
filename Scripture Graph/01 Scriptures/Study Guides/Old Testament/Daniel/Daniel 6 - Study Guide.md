@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,29 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 21 mentions
+- [[Cyrus]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 4]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-25|Daniel 6:25]] ↔ [[Daniel 4#^dan-4-1|Daniel 4:1]]
+- [[Daniel 5]] — 4 parallel verses, e.g. [[Daniel 6#^dan-6-13|Daniel 6:13]] ↔ [[Daniel 5#^dan-5-13|Daniel 5:13]]
+- [[Daniel 7]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-26|Daniel 6:26]] ↔ [[Daniel 7#^dan-7-14|Daniel 7:14]]
+- [[1 Kings 5]] — 2 parallel verses, e.g. [[Daniel 6#^dan-6-24|Daniel 6:24]] ↔ [[1 Kings 5#^1kgs-5-17|1 Kings 5:17]]
+- [[Luke 2]] — 2 parallel verses, e.g. [[Daniel 6#^dan-6-8|Daniel 6:8]] ↔ [[Luke 2#^luke-2-39|Luke 2:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

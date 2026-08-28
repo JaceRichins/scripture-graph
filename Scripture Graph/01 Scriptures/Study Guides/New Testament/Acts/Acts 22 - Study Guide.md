@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 22
 slug: acts-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Saul (king)]] — 3 mentions
+- [[Paul (apostle)]] — 3 mentions
+- [[Jesus Christ]] — 1 mention
+- [[Stephen (martyr)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 4 mentions
+- [[Jerusalem]] — 3 mentions
+- [[Tarsus]] — 1 mention
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 26]] — 2 parallel verses, e.g. [[Acts 22#^acts-22-8|Acts 22:8]] ↔ [[Acts 26#^acts-26-15|Acts 26:15]]
+- [[Acts 9]] — 1 parallel verse, e.g. [[Acts 22#^acts-22-7|Acts 22:7]] ↔ [[Acts 9#^acts-9-4|Acts 9:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

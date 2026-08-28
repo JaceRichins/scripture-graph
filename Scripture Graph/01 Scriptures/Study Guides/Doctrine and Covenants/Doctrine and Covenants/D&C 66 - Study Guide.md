@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 66
 slug: dc-66
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
+- [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 75]] — 4 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
+- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
+- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
+- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
+- [[D&C 49]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
+- [[D&C 63]] — 4 parallel verses, e.g. [[D&C 66#^dc-66-6|D&C 66:6]] ↔ [[D&C 63#^dc-63-39|D&C 63:39]]
+- [[D&C 72]] — 3 parallel verses, e.g. [[D&C 66#^dc-66-13|D&C 66:13]] ↔ [[D&C 72#^dc-72-8|D&C 72:8]]
+- [[D&C 97]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 97#^dc-97-10|D&C 97:10]]
+- [[D&C 124]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
+- [[D&C 99]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-1|D&C 66:1]] ↔ [[D&C 99#^dc-99-1|D&C 99:1]]
+- [[D&C 79]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 79#^dc-79-1|D&C 79:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

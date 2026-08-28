@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 8
 slug: ps-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hebrews 2]] — 4 parallel verses, e.g. [[Psalm 8#^ps-8-4|Psalm 8:4]] ↔ [[Hebrews 2#^heb-2-6|Hebrews 2:6]]
+- [[Genesis 1]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
+- [[Abraham 4]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
+- [[Moses 2]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Psalm 8#^ps-8-2|Psalm 8:2]] ↔ [[Matthew 21#^matt-21-16|Matthew 21:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

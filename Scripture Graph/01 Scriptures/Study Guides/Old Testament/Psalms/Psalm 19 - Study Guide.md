@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 19
 slug: ps-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 14]] — 2 parallel verses, e.g. [[Psalm 19#^ps-19-9|Psalm 19:9]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

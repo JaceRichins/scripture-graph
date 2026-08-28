@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 107
 slug: ps-107
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 136]] — 26 parallel verses, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
+- [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
+- [[Psalm 106]] — 2 parallel verses, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
+- [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
+- [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
+- [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
+- [[Job 12]] — 2 parallel verses, e.g. [[Psalm 107#^ps-107-40|Psalm 107:40]] ↔ [[Job 12#^job-12-24|Job 12:24]]
+- [[Luke 13]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-3|Psalm 107:3]] ↔ [[Luke 13#^luke-13-29|Luke 13:29]]
+- [[D&C 44]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-3|Psalm 107:3]] ↔ [[D&C 44#^dc-44-1|D&C 44:1]]
+- [[Ezra 3]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Ezra 3#^ezra-3-11|Ezra 3:11]]
+- [[Luke 1]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-10|Psalm 107:10]] ↔ [[Luke 1#^luke-1-79|Luke 1:79]]
+- [[Jeremiah 33]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

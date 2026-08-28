@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,33 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Elijah]] — 9 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[1 Kings 16#^1kgs-16-34|1 Kings 16:34]]
+- [[Genesis 22]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
+- [[Joshua 24]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]] ↔ [[Joshua 24#^josh-24-29|Joshua 24:29]]
+- [[Judges 4]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-10|1 Kings 17:10]] ↔ [[Judges 4#^judg-4-19|Judges 4:19]]
+- [[Deuteronomy 9]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]] ↔ [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]]
+- [[Judges 16]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]] ↔ [[Judges 16#^judg-16-28|Judges 16:28]]
+- [[2 Kings 9]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]]
+- [[2 Kings 24]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
+- [[1 Kings 14]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[1 Kings 14#^1kgs-14-18|1 Kings 14:18]]
+- [[Genesis 40]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]] ↔ [[Genesis 40#^gen-40-1|Genesis 40:1]]
+- [[Helaman 11]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-24|1 Kings 17:24]] ↔ [[Helaman 11#^hel-11-8|Helaman 11:8]]
+- [[2 Kings 4]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-21|1 Kings 17:21]] ↔ [[2 Kings 4#^2kgs-4-34|2 Kings 4:34]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

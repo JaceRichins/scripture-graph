@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,10 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Peter (apostle)]] — 3 mentions
+- [[John the Baptist]] — 1 mention
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 16]] — 17 parallel verses, e.g. [[Mark 8#^mark-8-34|Mark 8:34]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]
+- [[Luke 9]] — 7 parallel verses, e.g. [[Mark 8#^mark-8-31|Mark 8:31]] ↔ [[Luke 9#^luke-9-22|Luke 9:22]]
+- [[Matthew 15]] — 6 parallel verses, e.g. [[Mark 8#^mark-8-8|Mark 8:8]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
+- [[Matthew 14]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-8|Mark 8:8]] ↔ [[Matthew 14#^matt-14-20|Matthew 14:20]]
+- [[Luke 8]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Luke 8#^luke-8-56|Luke 8:56]]
+- [[Mark 6]] — 3 parallel verses, e.g. [[Mark 8#^mark-8-6|Mark 8:6]] ↔ [[Mark 6#^mark-6-41|Mark 6:41]]
+- [[Mark 9]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Mark 9#^mark-9-9|Mark 9:9]]
+- [[1 Nephi 15]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-21|Mark 8:21]] ↔ [[1 Nephi 15#^1ne-15-10|1 Nephi 15:10]]
+- [[Mark 7]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Mark 7#^mark-7-36|Mark 7:36]]
+- [[Luke 17]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-35|Mark 8:35]] ↔ [[Luke 17#^luke-17-33|Luke 17:33]]
+- [[Luke 2]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-21|Mark 8:21]] ↔ [[Luke 2#^luke-2-49|Luke 2:49]]
+- [[Luke 12]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-21|Mark 8:21]] ↔ [[Luke 12#^luke-12-56|Luke 12:56]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 87
 slug: ps-87
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,7 +32,7 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

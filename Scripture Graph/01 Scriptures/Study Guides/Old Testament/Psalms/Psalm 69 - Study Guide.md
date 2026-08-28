@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 69
 slug: ps-69
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 2]] — 1 parallel verse, e.g. [[Psalm 69#^ps-69-9|Psalm 69:9]] ↔ [[John 2#^john-2-17|John 2:17]]
+- [[Psalm 40]] — 1 parallel verse, e.g. [[Psalm 69#^ps-69-4|Psalm 69:4]] ↔ [[Psalm 40#^ps-40-12|Psalm 40:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

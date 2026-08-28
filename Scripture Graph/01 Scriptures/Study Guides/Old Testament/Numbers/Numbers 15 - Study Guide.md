@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 15
 slug: num-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 9 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 29]] — 31 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
+- [[Numbers 28]] — 31 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]
+- [[Leviticus 1]] — 20 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
+- [[Numbers 7]] — 24 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
+- [[Leviticus 23]] — 27 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
+- [[Leviticus 4]] — 14 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
+- [[Leviticus 5]] — 13 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 5#^lev-5-10|Leviticus 5:10]]
+- [[Leviticus 2]] — 13 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
+- [[Leviticus 19]] — 15 parallel verses, e.g. [[Numbers 15#^num-15-30|Numbers 15:30]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
+- [[Leviticus 3]] — 12 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
+- [[Leviticus 14]] — 9 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 14#^lev-14-20|Leviticus 14:20]]
+- [[Exodus 29]] — 8 parallel verses, e.g. [[Numbers 15#^num-15-4|Numbers 15:4]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

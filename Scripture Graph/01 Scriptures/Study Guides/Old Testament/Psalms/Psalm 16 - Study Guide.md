@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 16
 slug: ps-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 2]] — 1 parallel verse, e.g. [[Psalm 16#^ps-16-10|Psalm 16:10]] ↔ [[Acts 2#^acts-2-27|Acts 2:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

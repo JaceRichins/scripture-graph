@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 32
 slug: 2ne-32
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
+- [[Nephi (son of Lehi)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,26 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 31]] — 6 parallel verses, e.g. [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
+- [[Moroni 10]] — 4 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
+- [[Alma 7]] — 4 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
+- [[Mormon 9]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
+- [[2 Nephi 33]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]]
+- [[Moroni 3]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[Moroni 3#^moro-3-2|Moroni 3:2]]
+- [[Alma 34]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-1|2 Nephi 32:1]] ↔ [[Alma 34#^alma-34-28|Alma 34:28]]
+- [[Jacob 7]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
+- [[Moroni 6]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[3 Nephi 19]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scripture Study]]
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

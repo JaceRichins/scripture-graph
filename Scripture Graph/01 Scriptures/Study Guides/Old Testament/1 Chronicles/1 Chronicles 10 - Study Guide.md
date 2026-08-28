@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 10
 slug: 1chr-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Saul (king)]] — 12 mentions
+- [[Jonathan (son of Saul)]] — 1 mention
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 31]] — 12 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]] ↔ [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]]
+- [[Judges 9]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-8|1 Chronicles 10:8]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
+- [[Judges 14]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-8|1 Chronicles 10:8]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
+- [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-13|1 Chronicles 10:13]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 27]] — 21 parallel verses, e.g. [[Isaiah 29#^isa-29-16|Isaiah 29:16]] ↔ [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]]
+- [[2 Nephi 26]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-4|Isaiah 29:4]] ↔ [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]]
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-21|Isaiah 29:21]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

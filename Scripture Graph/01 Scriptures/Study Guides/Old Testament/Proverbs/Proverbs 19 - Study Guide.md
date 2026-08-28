@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 28]] — 2 parallel verses, e.g. [[Proverbs 19#^prov-19-1|Proverbs 19:1]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
+- [[Proverbs 26]] — 2 parallel verses, e.g. [[Proverbs 19#^prov-19-10|Proverbs 19:10]] ↔ [[Proverbs 26#^prov-26-1|Proverbs 26:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

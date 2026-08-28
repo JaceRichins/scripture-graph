@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 135
 slug: dc-135
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Hyrum Smith]] — 5 mentions
+- [[Joseph Smith Jr.]] — 3 mentions
+- [[Jesus Christ]] — 3 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[John Taylor]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Carthage]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ether 12]] — 3 parallel verses, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[Ether 12#^ether-12-37|Ether 12:37]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[Moses 7#^moses-7-9|Moses 7:9]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
+- [[1 Nephi 17]] — 1 parallel verse, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[1 Nephi 17#^1ne-17-53|1 Nephi 17:53]]
+- [[1 Nephi 7]] — 1 parallel verse, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[1 Nephi 7#^1ne-7-17|1 Nephi 7:17]]
+- [[1 Nephi 18]] — 1 parallel verse, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]]
+- [[3 Nephi 5]] — 2 parallel verses, e.g. [[D&C 135#^dc-135-3|D&C 135:3]] ↔ [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

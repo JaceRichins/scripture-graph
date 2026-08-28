@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 56
 slug: ps-56
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 116]] — 1 parallel verse, e.g. [[Psalm 56#^ps-56-13|Psalm 56:13]] ↔ [[Psalm 116#^ps-116-8|Psalm 116:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

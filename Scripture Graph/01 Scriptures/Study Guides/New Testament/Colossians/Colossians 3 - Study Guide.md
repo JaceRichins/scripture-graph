@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 9 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 5]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-16|Colossians 3:16]] ↔ [[Ephesians 5#^eph-5-19|Ephesians 5:19]]
+- [[Ephesians 6]] — 4 parallel verses, e.g. [[Colossians 3#^col-3-21|Colossians 3:21]] ↔ [[Ephesians 6#^eph-6-4|Ephesians 6:4]]
+- [[Acts 7]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-1|Colossians 3:1]] ↔ [[Acts 7#^acts-7-55|Acts 7:55]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

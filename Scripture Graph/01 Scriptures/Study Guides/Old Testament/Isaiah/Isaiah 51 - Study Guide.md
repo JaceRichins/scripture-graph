@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 51
 slug: isa-51
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,32 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 1 mention
+- [[Sarah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Garden of Eden]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 8]] — 27 parallel verses, e.g. [[Isaiah 51#^isa-51-6|Isaiah 51:6]] ↔ [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]]
+- [[D&C 132]] — 8 parallel verses, e.g. [[Isaiah 51#^isa-51-15|Isaiah 51:15]] ↔ [[D&C 132#^dc-132-2|D&C 132:2]]
+- [[Isaiah 48]] — 2 parallel verses, e.g. [[Isaiah 51#^isa-51-15|Isaiah 51:15]] ↔ [[Isaiah 48#^isa-48-2|Isaiah 48:2]]
+- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Isaiah 51#^isa-51-23|Isaiah 51:23]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
+- [[Jeremiah 1]] — 1 parallel verse, e.g. [[Isaiah 51#^isa-51-16|Isaiah 51:16]] ↔ [[Jeremiah 1#^jer-1-9|Jeremiah 1:9]]
+- [[Isaiah 43]] — 2 parallel verses, e.g. [[Isaiah 51#^isa-51-15|Isaiah 51:15]] ↔ [[Isaiah 43#^isa-43-3|Isaiah 43:3]]
+- [[Abraham 3]] — 2 parallel verses, e.g. [[Isaiah 51#^isa-51-15|Isaiah 51:15]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Zion]] *(keyword match — unconfirmed)*
+- [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

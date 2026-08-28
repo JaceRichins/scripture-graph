@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 17
 slug: acts-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 9 mentions
+- [[Jesus Christ]] — 5 mentions
+- [[Silas]] — 4 mentions
+- [[Timothy (companion of Paul)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Athens]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ether 1]] — 2 parallel verses, e.g. [[Acts 17#^acts-17-26|Acts 17:26]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
+- [[1 Nephi 14]] — 2 parallel verses, e.g. [[Acts 17#^acts-17-26|Acts 17:26]] ↔ [[1 Nephi 14#^1ne-14-12|1 Nephi 14:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

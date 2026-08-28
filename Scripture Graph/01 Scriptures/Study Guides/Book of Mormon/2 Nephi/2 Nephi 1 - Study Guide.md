@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,45 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Nephi (son of Lehi)]] — 3 mentions
+- [[Lehi (father of Nephi)]] — 3 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Satan]] — 1 mention
+- [[Laman]] — 1 mention
+- [[Lemuel]] — 1 mention
+- [[Sam (brother of Nephi)]] — 1 mention
+- [[Ishmael (father-in-law of Nephi)]] — 1 mention
+- [[Zoram (servant of Laban)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 7 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 4]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[1 Nephi 17]] — 8 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[1 Nephi 2]] — 6 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
+- [[Alma 36]] — 6 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
+- [[1 Nephi 22]] — 8 parallel verses, e.g. [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
+- [[Mosiah 1]] — 6 parallel verses, e.g. [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]] ↔ [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]]
+- [[Omni 1]] — 5 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
+- [[Mosiah 2]] — 5 parallel verses, e.g. [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]] ↔ [[Mosiah 2#^mosiah-2-31|Mosiah 2:31]]
+- [[1 Nephi 16]] — 3 parallel verses, e.g. [[2 Nephi 1#^2ne-1-1|2 Nephi 1:1]] ↔ [[1 Nephi 16#^1ne-16-1|1 Nephi 16:1]]
+- [[Alma 38]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
+- [[3 Nephi 18]] — 4 parallel verses, e.g. [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Obedience]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

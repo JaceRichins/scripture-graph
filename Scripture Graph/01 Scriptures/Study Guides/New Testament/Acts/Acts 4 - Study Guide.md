@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,41 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 8 mentions
+- [[Peter (apostle)]] — 3 mentions
+- [[Caiaphas]] — 1 mention
+- [[David (king)]] — 1 mention
+- [[Pilate]] — 1 mention
+- [[Barnabas]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
+- [[Nazareth]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 5]] — 3 parallel verses, e.g. [[Acts 4#^acts-4-1|Acts 4:1]] ↔ [[Acts 5#^acts-5-24|Acts 5:24]]
+- [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
+- [[Psalm 2]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-26|Acts 4:26]] ↔ [[Psalm 2#^ps-2-2|Psalm 2:2]]
+- [[Acts 2]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-31|Acts 4:31]] ↔ [[Acts 2#^acts-2-4|Acts 2:4]]
+- [[Acts 14]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Acts 14#^acts-14-15|Acts 14:15]]
+- [[Genesis 19]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Genesis 19#^gen-19-34|Genesis 19:34]]
+- [[Exodus 18]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Exodus 18#^ex-18-13|Exodus 18:13]]
+- [[Exodus 32]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Exodus 32#^ex-32-30|Exodus 32:30]]
+- [[Numbers 22]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Numbers 22#^num-22-41|Numbers 22:41]]
+- [[Judges 9]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
+- [[Judges 21]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Judges 21#^judg-21-4|Judges 21:4]]
+- [[Jeremiah 20]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-5|Acts 4:5]] ↔ [[Jeremiah 20#^jer-20-3|Jeremiah 20:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Salvation]]
+- [[Consecration]]
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

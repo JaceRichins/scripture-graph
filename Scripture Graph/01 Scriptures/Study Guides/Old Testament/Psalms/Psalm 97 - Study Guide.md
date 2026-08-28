@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 97
 slug: ps-97
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 114]] — 1 parallel verse, e.g. [[Psalm 97#^ps-97-5|Psalm 97:5]] ↔ [[Psalm 114#^ps-114-7|Psalm 114:7]]
+- [[Psalm 30]] — 1 parallel verse, e.g. [[Psalm 97#^ps-97-12|Psalm 97:12]] ↔ [[Psalm 30#^ps-30-4|Psalm 30:4]]
+- [[Exodus 18]] — 2 parallel verses, e.g. [[Psalm 97#^ps-97-10|Psalm 97:10]] ↔ [[Exodus 18#^ex-18-9|Exodus 18:9]]
+- [[Judges 2]] — 2 parallel verses, e.g. [[Psalm 97#^ps-97-10|Psalm 97:10]] ↔ [[Judges 2#^judg-2-16|Judges 2:16]]
+- [[1 Samuel 7]] — 2 parallel verses, e.g. [[Psalm 97#^ps-97-10|Psalm 97:10]] ↔ [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]]
+- [[Psalm 82]] — 1 parallel verse, e.g. [[Psalm 97#^ps-97-10|Psalm 97:10]] ↔ [[Psalm 82#^ps-82-4|Psalm 82:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

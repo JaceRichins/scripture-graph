@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 27 mentions
+- [[Mary (mother of Jesus)]] — 8 mentions
+- [[Martha]] — 8 mentions
+- [[Lazarus]] — 6 mentions
+- [[Thomas (apostle)]] — 1 mention
+- [[Caiaphas]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Bethany]] — 2 mentions
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 18]] — 2 parallel verses, e.g. [[John 11#^john-11-50|John 11:50]] ↔ [[John 18#^john-18-14|John 18:14]]
+- [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 11#^john-11-41|John 11:41]] ↔ [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]]
+- [[Genesis 27]] — 1 parallel verse, e.g. [[John 11#^john-11-31|John 11:31]] ↔ [[Genesis 27#^gen-27-15|Genesis 27:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

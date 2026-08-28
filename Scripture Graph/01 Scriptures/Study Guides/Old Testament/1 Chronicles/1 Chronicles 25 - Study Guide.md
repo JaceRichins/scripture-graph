@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 25
 slug: 1chr-25
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 23]] — 3 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
+- [[1 Chronicles 28]] — 3 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
+- [[1 Chronicles 26]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-8|1 Chronicles 25:8]] ↔ [[1 Chronicles 26#^1chr-26-13|1 Chronicles 26:13]]
+- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]]
+- [[1 Chronicles 29]] — 1 parallel verse, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[1 Chronicles 29#^1chr-29-7|1 Chronicles 29:7]]
+- [[Numbers 4]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-1|1 Chronicles 25:1]] ↔ [[Numbers 4#^num-4-4|Numbers 4:4]]
+- [[2 Chronicles 29]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[2 Chronicles 29#^2chr-29-35|2 Chronicles 29:35]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Service]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 10
 slug: gen-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,33 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Noah (patriarch)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Canaan]] — 2 mentions
+- [[Assyria]] — 2 mentions
+- [[Sidon]] — 2 mentions
+- [[Babylon]] — 1 mention
+- [[Gaza]] — 1 mention
+- [[Sodom]] — 1 mention
+- [[Gomorrah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 1]] — 13 parallel verses, e.g. [[Genesis 10#^gen-10-2|Genesis 10:2]] ↔ [[1 Chronicles 1#^1chr-1-5|1 Chronicles 1:5]]
+- [[Numbers 26]] — 7 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 26#^num-26-37|Numbers 26:37]]
+- [[Numbers 4]] — 5 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
+- [[Numbers 3]] — 4 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
+- [[Numbers 36]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
+- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

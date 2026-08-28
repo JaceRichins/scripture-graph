@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Solomon]] — 1 mention
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 6]] — 9 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
+- [[3 Nephi 13]] — 9 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[Matthew 24]] — 9 parallel verses, e.g. [[Luke 12#^luke-12-39|Luke 12:39]] ↔ [[Matthew 24#^matt-24-43|Matthew 24:43]]
+- [[Joseph Smith—Matthew 1]] — 7 parallel verses, e.g. [[Luke 12#^luke-12-43|Luke 12:43]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-50|Joseph Smith—Matthew 1:50]]
+- [[Matthew 10]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-2|Luke 12:2]] ↔ [[Matthew 10#^matt-10-26|Matthew 10:26]]
+- [[Matthew 16]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-56|Luke 12:56]] ↔ [[Matthew 16#^matt-16-3|Matthew 16:3]]
+- [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-10|Luke 12:10]] ↔ [[Matthew 12#^matt-12-32|Matthew 12:32]]
+- [[Matthew 5]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-58|Luke 12:58]] ↔ [[Matthew 5#^matt-5-25|Matthew 5:25]]
+- [[D&C 84]] — 3 parallel verses, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 84#^dc-84-81|D&C 84:81]]
+- [[Mark 8]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-56|Luke 12:56]] ↔ [[Mark 8#^mark-8-21|Mark 8:21]]
+- [[Micah 7]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-53|Luke 12:53]] ↔ [[Micah 7#^micah-7-6|Micah 7:6]]
+- [[Luke 18]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-16|Luke 12:16]] ↔ [[Luke 18#^luke-18-1|Luke 18:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Second Coming of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

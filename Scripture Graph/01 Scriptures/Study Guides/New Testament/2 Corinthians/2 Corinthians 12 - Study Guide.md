@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Titus (companion of Paul)]] — 2 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 28]] — 1 parallel verse, e.g. [[2 Corinthians 12#^2cor-12-3|2 Corinthians 12:3]] ↔ [[3 Nephi 28#^3ne-28-15|3 Nephi 28:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

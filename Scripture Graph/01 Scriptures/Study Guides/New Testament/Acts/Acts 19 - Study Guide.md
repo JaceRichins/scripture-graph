@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Paul (apostle)]] — 10 mentions
+- [[Jesus Christ]] — 8 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Ephesus]] — 4 mentions
+- [[Corinth]] — 1 mention
+- [[Jerusalem]] — 1 mention
+- [[Rome]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Acts 8]] — 2 parallel verses, e.g. [[Acts 19#^acts-19-5|Acts 19:5]] ↔ [[Acts 8#^acts-8-16|Acts 8:16]]
+- [[Luke 24]] — 2 parallel verses, e.g. [[Acts 19#^acts-19-41|Acts 19:41]] ↔ [[Luke 24#^luke-24-40|Luke 24:40]]
+- [[Alma 52]] — 1 parallel verse, e.g. [[Acts 19#^acts-19-31|Acts 19:31]] ↔ [[Alma 52#^alma-52-10|Alma 52:10]]
+- [[3 Nephi 26]] — 2 parallel verses, e.g. [[Acts 19#^acts-19-5|Acts 19:5]] ↔ [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Baptism]] *(keyword match — unconfirmed)*
+- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

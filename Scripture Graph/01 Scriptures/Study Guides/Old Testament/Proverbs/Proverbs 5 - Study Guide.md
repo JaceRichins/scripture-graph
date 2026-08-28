@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 5
 slug: prov-5
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 5#^prov-5-7|Proverbs 5:7]] ↔ [[Proverbs 7#^prov-7-24|Proverbs 7:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

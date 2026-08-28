@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 15
 slug: prov-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 10]] — 2 parallel verses, e.g. [[Proverbs 15#^prov-15-20|Proverbs 15:20]] ↔ [[Proverbs 10#^prov-10-1|Proverbs 10:1]]
+- [[Proverbs 14]] — 3 parallel verses, e.g. [[Proverbs 15#^prov-15-14|Proverbs 15:14]] ↔ [[Proverbs 14#^prov-14-33|Proverbs 14:33]]
+- [[Proverbs 11]] — 3 parallel verses, e.g. [[Proverbs 15#^prov-15-15|Proverbs 15:15]] ↔ [[Proverbs 11#^prov-11-13|Proverbs 11:13]]
+- [[Proverbs 16]] — 2 parallel verses, e.g. [[Proverbs 15#^prov-15-8|Proverbs 15:8]] ↔ [[Proverbs 16#^prov-16-5|Proverbs 16:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 18
 slug: isa-18
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 17]] — 2 parallel verses, e.g. [[Isaiah 18#^isa-18-7|Isaiah 18:7]] ↔ [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]]
+- [[Jeremiah 34]] — 1 parallel verse, e.g. [[Isaiah 18#^isa-18-6|Isaiah 18:6]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
+- [[2 Samuel 6]] — 2 parallel verses, e.g. [[Isaiah 18#^isa-18-7|Isaiah 18:7]] ↔ [[2 Samuel 6#^2sam-6-2|2 Samuel 6:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

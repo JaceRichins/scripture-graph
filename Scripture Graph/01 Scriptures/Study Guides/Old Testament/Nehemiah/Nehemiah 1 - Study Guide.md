@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 1
 slug: neh-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,26 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 2 mentions
+- [[Nehemiah (governor)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 2]] — 2 parallel verses, e.g. [[Nehemiah 1#^neh-1-3|Nehemiah 1:3]] ↔ [[Nehemiah 2#^neh-2-17|Nehemiah 2:17]]
+- [[2 Chronicles 6]] — 1 parallel verse, e.g. [[Nehemiah 1#^neh-1-11|Nehemiah 1:11]] ↔ [[2 Chronicles 6#^2chr-6-19|2 Chronicles 6:19]]
+- [[Daniel 9]] — 2 parallel verses, e.g. [[Nehemiah 1#^neh-1-6|Nehemiah 1:6]] ↔ [[Daniel 9#^dan-9-17|Daniel 9:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

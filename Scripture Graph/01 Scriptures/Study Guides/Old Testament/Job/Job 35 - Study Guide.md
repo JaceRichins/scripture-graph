@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 35
 slug: job-35
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 27]] — 2 parallel verses, e.g. [[Job 35#^job-35-9|Job 35:9]] ↔ [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

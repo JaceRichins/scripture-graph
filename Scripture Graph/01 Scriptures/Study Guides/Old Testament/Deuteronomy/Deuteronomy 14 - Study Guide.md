@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 14
 slug: deut-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 16]] — 17 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]]
+- [[Leviticus 11]] — 10 parallel verses, e.g. [[Deuteronomy 14#^deut-14-15|Deuteronomy 14:15]] ↔ [[Leviticus 11#^lev-11-16|Leviticus 11:16]]
+- [[Deuteronomy 12]] — 16 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]]
+- [[Deuteronomy 26]] — 7 parallel verses, e.g. [[Deuteronomy 14#^deut-14-25|Deuteronomy 14:25]] ↔ [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]]
+- [[Deuteronomy 7]] — 6 parallel verses, e.g. [[Deuteronomy 14#^deut-14-2|Deuteronomy 14:2]] ↔ [[Deuteronomy 7#^deut-7-6|Deuteronomy 7:6]]
+- [[Deuteronomy 17]] — 5 parallel verses, e.g. [[Deuteronomy 14#^deut-14-25|Deuteronomy 14:25]] ↔ [[Deuteronomy 17#^deut-17-8|Deuteronomy 17:8]]
+- [[Exodus 23]] — 1 parallel verse, e.g. [[Deuteronomy 14#^deut-14-21|Deuteronomy 14:21]] ↔ [[Exodus 23#^ex-23-19|Exodus 23:19]]
+- [[Exodus 34]] — 1 parallel verse, e.g. [[Deuteronomy 14#^deut-14-21|Deuteronomy 14:21]] ↔ [[Exodus 34#^ex-34-26|Exodus 34:26]]
+- [[Deuteronomy 23]] — 2 parallel verses, e.g. [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]] ↔ [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]]
+- [[Deuteronomy 24]] — 1 parallel verse, e.g. [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]] ↔ [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]]
+- [[Deuteronomy 18]] — 2 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 18#^deut-18-4|Deuteronomy 18:4]]
+- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 4#^deut-4-10|Deuteronomy 4:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 17
 slug: judg-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 18]] — 4 parallel verses, e.g. [[Judges 17#^judg-17-3|Judges 17:3]] ↔ [[Judges 18#^judg-18-14|Judges 18:14]]
+- [[Judges 21]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-6|Judges 17:6]] ↔ [[Judges 21#^judg-21-25|Judges 21:25]]
+- [[Ruth 3]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-2|Judges 17:2]] ↔ [[Ruth 3#^ruth-3-10|Ruth 3:10]]
+- [[2 Samuel 1]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-9|Judges 17:9]] ↔ [[2 Samuel 1#^2sam-1-3|2 Samuel 1:3]]
+- [[Exodus 2]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-11|Judges 17:11]] ↔ [[Exodus 2#^ex-2-21|Exodus 2:21]]
+- [[1 Kings 15]] — 2 parallel verses, e.g. [[Judges 17#^judg-17-6|Judges 17:6]] ↔ [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]]
+- [[2 Kings 15]] — 2 parallel verses, e.g. [[Judges 17#^judg-17-6|Judges 17:6]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

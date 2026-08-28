@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
+- [[Mosiah 13]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Mosiah 13#^mosiah-13-22|Mosiah 13:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

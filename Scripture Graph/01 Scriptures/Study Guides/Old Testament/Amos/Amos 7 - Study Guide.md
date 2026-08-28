@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 7
 slug: amos-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Isaac]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Amos 8]] — 3 parallel verses, e.g. [[Amos 7#^amos-7-8|Amos 7:8]] ↔ [[Amos 8#^amos-8-2|Amos 8:2]]
+- [[Jeremiah 1]] — 2 parallel verses, e.g. [[Amos 7#^amos-7-8|Amos 7:8]] ↔ [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]]
+- [[Alma 56]] — 2 parallel verses, e.g. [[Amos 7#^amos-7-2|Amos 7:2]] ↔ [[Alma 56#^alma-56-35|Alma 56:35]]
+- [[3 Nephi 17]] — 2 parallel verses, e.g. [[Amos 7#^amos-7-2|Amos 7:2]] ↔ [[3 Nephi 17#^3ne-17-13|3 Nephi 17:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

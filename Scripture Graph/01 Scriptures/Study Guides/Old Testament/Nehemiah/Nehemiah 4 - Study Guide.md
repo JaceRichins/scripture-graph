@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 4
 slug: neh-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,14 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
+- [[Samaria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Daniel 3]] — 2 parallel verses, e.g. [[Nehemiah 4#^neh-4-20|Nehemiah 4:20]] ↔ [[Daniel 3#^dan-3-5|Daniel 3:5]]
+- [[Acts 2]] — 2 parallel verses, e.g. [[Nehemiah 4#^neh-4-14|Nehemiah 4:14]] ↔ [[Acts 2#^acts-2-37|Acts 2:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 115
 slug: ps-115
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Aaron (brother of Moses)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 135]] — 4 parallel verses, e.g. [[Psalm 115#^ps-115-8|Psalm 115:8]] ↔ [[Psalm 135#^ps-135-18|Psalm 135:18]]
+- [[Psalm 113]] — 1 parallel verse, e.g. [[Psalm 115#^ps-115-18|Psalm 115:18]] ↔ [[Psalm 113#^ps-113-2|Psalm 113:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 32
 slug: dc-32
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,9 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Parley P. Pratt]] — 1 mention
+- [[Oliver Cowdery]] — 1 mention
+- [[Peter (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 32#^dc-32-2|D&C 32:2]] ↔ [[D&C 104#^dc-104-37|D&C 104:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

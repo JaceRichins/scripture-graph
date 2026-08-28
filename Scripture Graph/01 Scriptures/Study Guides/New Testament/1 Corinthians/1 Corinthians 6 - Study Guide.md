@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 6
 slug: 1cor-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 6#^1cor-6-12|1 Corinthians 6:12]] ↔ [[1 Corinthians 10#^1cor-10-23|1 Corinthians 10:23]]
+- [[D&C 18]] — 1 parallel verse, e.g. [[1 Corinthians 6#^1cor-6-19|1 Corinthians 6:19]] ↔ [[D&C 18#^dc-18-32|D&C 18:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

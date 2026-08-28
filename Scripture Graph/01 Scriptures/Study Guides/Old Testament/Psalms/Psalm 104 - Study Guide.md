@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 104
 slug: ps-104
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 103]] — 3 parallel verses, e.g. [[Psalm 104#^ps-104-1|Psalm 104:1]] ↔ [[Psalm 103#^ps-103-1|Psalm 103:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

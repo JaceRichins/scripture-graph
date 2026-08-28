@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 96
 slug: ps-96
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 16]] — 10 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]]
+- [[Psalm 98]] — 4 parallel verses, e.g. [[Psalm 96#^ps-96-13|Psalm 96:13]] ↔ [[Psalm 98#^ps-98-9|Psalm 98:9]]
+- [[Psalm 29]] — 3 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[Psalm 29#^ps-29-2|Psalm 29:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

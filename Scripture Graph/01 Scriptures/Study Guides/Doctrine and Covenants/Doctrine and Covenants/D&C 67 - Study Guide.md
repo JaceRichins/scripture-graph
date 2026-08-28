@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 67
 slug: dc-67
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph Smith Jr.]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 14 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
+- [[D&C 75]] — 6 parallel verses, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 75#^dc-75-23|D&C 75:23]]
+- [[D&C 50]] — 4 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 50#^dc-50-45|D&C 50:45]]
+- [[D&C 88]] — 4 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[Alma 30]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-7|D&C 67:7]] ↔ [[Alma 30#^alma-30-24|Alma 30:24]]
+- [[D&C 78]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 78#^dc-78-1|D&C 78:1]]
+- [[D&C 57]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 57#^dc-57-1|D&C 57:1]]
+- [[D&C 42]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 42#^dc-42-1|D&C 42:1]]
+- [[D&C 61]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
+- [[D&C 90]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 90#^dc-90-30|D&C 90:30]]
+- [[D&C 104]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-14|D&C 67:14]] ↔ [[D&C 104#^dc-104-45|D&C 104:45]]
+- [[D&C 52]] — 3 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

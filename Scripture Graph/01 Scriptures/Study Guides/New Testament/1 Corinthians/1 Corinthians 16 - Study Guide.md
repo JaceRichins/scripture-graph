@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,28 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 1 mention
+- [[Ephesus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 16]] — 4 parallel verses, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
+- [[Philippians 4]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
+- [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
+- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
+- [[Galatians 6]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
+- [[John 20]] — 2 parallel verses, e.g. [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]] ↔ [[John 20#^john-20-1|John 20:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

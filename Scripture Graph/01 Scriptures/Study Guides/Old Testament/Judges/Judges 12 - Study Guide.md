@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 12
 slug: judg-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Ammon (son of Mosiah)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 11]] — 6 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 11#^judg-11-9|Judges 11:9]]
+- [[Judges 10]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 10#^judg-10-18|Judges 10:18]]
+- [[Judges 7]] — 1 parallel verse, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 7#^judg-7-24|Judges 7:24]]
+- [[1 Samuel 14]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[1 Samuel 14#^1sam-14-47|1 Samuel 14:47]]
+- [[2 Samuel 15]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-5|Judges 12:5]] ↔ [[2 Samuel 15#^2sam-15-2|2 Samuel 15:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

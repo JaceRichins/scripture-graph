@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 1
 slug: num-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,40 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 6 mentions
+- [[Aaron (brother of Moses)]] — 3 mentions
+- [[King Benjamin]] — 3 mentions
+- [[Joseph (of Egypt)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Sinai]] — 2 mentions
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 4]] — 129 parallel verses, e.g. [[Numbers 1#^num-1-22|Numbers 1:22]] ↔ [[Numbers 4#^num-4-40|Numbers 4:40]]
+- [[Numbers 2]] — 138 parallel verses, e.g. [[Numbers 1#^num-1-45|Numbers 1:45]] ↔ [[Numbers 2#^num-2-32|Numbers 2:32]]
+- [[Numbers 26]] — 155 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 26#^num-26-2|Numbers 26:2]]
+- [[Numbers 3]] — 46 parallel verses, e.g. [[Numbers 1#^num-1-22|Numbers 1:22]] ↔ [[Numbers 3#^num-3-22|Numbers 3:22]]
+- [[Ezekiel 4]] — 39 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]]
+- [[2 Chronicles 31]] — 16 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
+- [[2 Chronicles 25]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[2 Chronicles 25#^2chr-25-5|2 Chronicles 25:5]]
+- [[Exodus 38]] — 17 parallel verses, e.g. [[Numbers 1#^num-1-46|Numbers 1:46]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
+- [[Numbers 14]] — 17 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 14#^num-14-5|Numbers 14:5]]
+- [[Numbers 32]] — 15 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
+- [[Ezra 3]] — 15 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
+- [[Exodus 12]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Exodus 12#^ex-12-35|Exodus 12:35]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

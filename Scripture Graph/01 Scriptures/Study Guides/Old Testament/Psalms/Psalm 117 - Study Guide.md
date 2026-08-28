@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 117
 slug: ps-117
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

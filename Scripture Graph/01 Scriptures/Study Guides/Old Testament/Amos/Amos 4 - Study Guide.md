@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 4
 slug: amos-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,23 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Samaria]] — 1 mention
+- [[Egypt]] — 1 mention
+- [[Sodom]] — 1 mention
+- [[Gomorrah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Amos 6]] — 4 parallel verses, e.g. [[Amos 4#^amos-4-13|Amos 4:13]] ↔ [[Amos 6#^amos-6-8|Amos 6:8]]
+- [[Amos 5]] — 2 parallel verses, e.g. [[Amos 4#^amos-4-13|Amos 4:13]] ↔ [[Amos 5#^amos-5-14|Amos 5:14]]
+- [[Ezekiel 20]] — 2 parallel verses, e.g. [[Amos 4#^amos-4-5|Amos 4:5]] ↔ [[Ezekiel 20#^ezek-20-40|Ezekiel 20:40]]
+- [[Amos 2]] — 1 parallel verse, e.g. [[Amos 4#^amos-4-5|Amos 4:5]] ↔ [[Amos 2#^amos-2-11|Amos 2:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

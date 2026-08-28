@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,30 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 6 mentions
+- [[Jesus Christ]] — 2 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 110]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-21|Hebrews 7:21]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
+- [[Hebrews 5]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
+- [[Hebrews 6]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Melchizedek Priesthood]]
+- [[Tithing]] *(keyword match — unconfirmed)*
+- [[Priesthood]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 4
 slug: song-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Song of Solomon 6]] — 2 parallel verses, e.g. [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]] ↔ [[Song of Solomon 6#^song-6-5|Song of Solomon 6:5]]
+- [[Song of Solomon 1]] — 1 parallel verse, e.g. [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]] ↔ [[Song of Solomon 1#^song-1-15|Song of Solomon 1:15]]
+- [[Song of Solomon 7]] — 1 parallel verse, e.g. [[Song of Solomon 4#^song-4-5|Song of Solomon 4:5]] ↔ [[Song of Solomon 7#^song-7-3|Song of Solomon 7:3]]
+- [[Song of Solomon 2]] — 1 parallel verse, e.g. [[Song of Solomon 4#^song-4-6|Song of Solomon 4:6]] ↔ [[Song of Solomon 2#^song-2-17|Song of Solomon 2:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

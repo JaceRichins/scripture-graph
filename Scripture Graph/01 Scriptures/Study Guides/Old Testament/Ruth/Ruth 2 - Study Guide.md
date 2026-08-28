@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 2
 slug: ruth-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,18 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Naomi]] — 6 mentions
+- [[Ruth (Moabite)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 25]] — 1 parallel verse, e.g. [[Ruth 2#^ruth-2-10|Ruth 2:10]] ↔ [[1 Samuel 25#^1sam-25-23|1 Samuel 25:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

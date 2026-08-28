@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 3
 slug: gal-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 14 mentions
+- [[Abraham (patriarch)]] — 8 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Galatians 2]] — 3 parallel verses, e.g. [[Galatians 3#^gal-3-24|Galatians 3:24]] ↔ [[Galatians 2#^gal-2-16|Galatians 2:16]]
+- [[Galatians 5]] — 1 parallel verse, e.g. [[Galatians 3#^gal-3-1|Galatians 3:1]] ↔ [[Galatians 5#^gal-5-7|Galatians 5:7]]
+- [[Romans 9]] — 2 parallel verses, e.g. [[Galatians 3#^gal-3-2|Galatians 3:2]] ↔ [[Romans 9#^rom-9-32|Romans 9:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Law of Moses]]
+- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

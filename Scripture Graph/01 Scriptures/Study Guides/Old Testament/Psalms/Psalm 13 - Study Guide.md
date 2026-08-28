@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 13
 slug: ps-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 25
 slug: isa-25
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 118]] — 1 parallel verse, e.g. [[Isaiah 25#^isa-25-1|Isaiah 25:1]] ↔ [[Psalm 118#^ps-118-28|Psalm 118:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

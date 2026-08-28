@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Laman]] — 4 mentions
+- [[Lemuel]] — 4 mentions
+- [[Nephi (son of Lehi)]] — 3 mentions
+- [[Sam (brother of Nephi)]] — 2 mentions
+- [[Sariah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +41,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Moses 4]] — 10 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Moses 4#^moses-4-9|Moses 4:9]]
+- [[1 Nephi 10]] — 5 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]]
+- [[Alma 12]] — 6 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
+- [[Alma 5]] — 6 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
+- [[1 Nephi 16]] — 4 parallel verses, e.g. [[1 Nephi 8#^1ne-8-38|1 Nephi 8:38]] ↔ [[1 Nephi 16#^1ne-16-4|1 Nephi 16:4]]
+- [[Genesis 3]] — 4 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Genesis 3#^gen-3-3|Genesis 3:3]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
+- [[1 Nephi 11]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-9|1 Nephi 8:9]] ↔ [[1 Nephi 11#^1ne-11-1|1 Nephi 11:1]]
+- [[Helaman 14]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Helaman 14#^hel-14-16|Helaman 14:16]]
+- [[Leviticus 27]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Leviticus 27#^lev-27-30|Leviticus 27:30]]
+- [[Alma 32]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 32#^alma-32-40|Alma 32:40]]
+- [[Mosiah 2]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Mosiah 2#^mosiah-2-38|Mosiah 2:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Tree of Life]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

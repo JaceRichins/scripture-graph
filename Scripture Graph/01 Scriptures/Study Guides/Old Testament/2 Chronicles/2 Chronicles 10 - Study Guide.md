@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 10
 slug: 2chr-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 3 mentions
+- [[Solomon]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Kings 12]] — 19 parallel verses, e.g. [[2 Chronicles 10#^2chr-10-10|2 Chronicles 10:10]] ↔ [[1 Kings 12#^1kgs-12-10|1 Kings 12:10]]
+- [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 10#^2chr-10-2|2 Chronicles 10:2]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
+- [[2 Samuel 20]] — 1 parallel verse, e.g. [[2 Chronicles 10#^2chr-10-16|2 Chronicles 10:16]] ↔ [[2 Samuel 20#^2sam-20-1|2 Samuel 20:1]]
+- [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Chronicles 10#^2chr-10-15|2 Chronicles 10:15]] ↔ [[2 Kings 14#^2kgs-14-25|2 Kings 14:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

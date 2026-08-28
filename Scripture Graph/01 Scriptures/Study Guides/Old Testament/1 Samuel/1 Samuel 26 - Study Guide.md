@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 26
 slug: 1sam-26
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 23 mentions
+- [[Saul (king)]] — 15 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Samuel 23]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-1|1 Samuel 26:1]] ↔ [[1 Samuel 23#^1sam-23-19|1 Samuel 23:19]]
+- [[1 Samuel 24]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-17|1 Samuel 26:17]] ↔ [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]]
+- [[2 Samuel 2]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-13|1 Samuel 26:13]] ↔ [[2 Samuel 2#^2sam-2-25|2 Samuel 2:25]]
+- [[1 Kings 15]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-24|1 Samuel 26:24]] ↔ [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]]
+- [[1 Samuel 25]] — 1 parallel verse, e.g. [[1 Samuel 26#^1sam-26-2|1 Samuel 26:2]] ↔ [[1 Samuel 25#^1sam-25-1|1 Samuel 25:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Prayer]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

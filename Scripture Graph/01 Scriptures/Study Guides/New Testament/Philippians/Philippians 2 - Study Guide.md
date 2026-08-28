@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 2
 slug: philip-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 9 mentions
+- [[Timothy (companion of Paul)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mormon 9]] — 1 parallel verse, e.g. [[Philippians 2#^philip-2-12|Philippians 2:12]] ↔ [[Mormon 9#^morm-9-27|Mormon 9:27]]
+- [[Psalm 31]] — 2 parallel verses, e.g. [[Philippians 2#^philip-2-19|Philippians 2:19]] ↔ [[Psalm 31#^ps-31-6|Psalm 31:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

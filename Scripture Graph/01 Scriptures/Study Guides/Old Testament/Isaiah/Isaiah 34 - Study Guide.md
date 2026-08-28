@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 34
 slug: isa-34
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Zephaniah 2]] — 3 parallel verses, e.g. [[Isaiah 34#^isa-34-8|Isaiah 34:8]] ↔ [[Zephaniah 2#^zeph-2-2|Zephaniah 2:2]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Isaiah 34#^isa-34-8|Isaiah 34:8]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
+- [[Mormon 9]] — 1 parallel verse, e.g. [[Isaiah 34#^isa-34-4|Isaiah 34:4]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

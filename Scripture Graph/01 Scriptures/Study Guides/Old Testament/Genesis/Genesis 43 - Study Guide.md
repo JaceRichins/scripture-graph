@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 43
 slug: gen-43
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,23 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 10 mentions
+- [[King Benjamin]] — 5 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 44]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-9|Genesis 43:9]] ↔ [[Genesis 44#^gen-44-32|Genesis 44:32]]
+- [[Joshua 5]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-2|Genesis 43:2]] ↔ [[Joshua 5#^josh-5-8|Joshua 5:8]]
+- [[Judges 19]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-19|Genesis 43:19]] ↔ [[Judges 19#^judg-19-27|Judges 19:27]]
+- [[Genesis 19]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-2|Genesis 43:2]] ↔ [[Genesis 19#^gen-19-17|Genesis 19:17]]
+- [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 43#^gen-43-29|Genesis 43:29]] ↔ [[Genesis 24#^gen-24-63|Genesis 24:63]]
+- [[Genesis 33]] — 1 parallel verse, e.g. [[Genesis 43#^gen-43-29|Genesis 43:29]] ↔ [[Genesis 33#^gen-33-5|Genesis 33:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

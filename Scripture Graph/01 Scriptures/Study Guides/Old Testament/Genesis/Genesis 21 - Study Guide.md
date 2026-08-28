@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 21
 slug: gen-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,24 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 19 mentions
+- [[Sarah]] — 8 mentions
+- [[Isaac]] — 6 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[Genesis 22#^gen-22-3|Genesis 22:3]]
+- [[Genesis 26]] — 2 parallel verses, e.g. [[Genesis 21#^gen-21-22|Genesis 21:22]] ↔ [[Genesis 26#^gen-26-26|Genesis 26:26]]
+- [[Galatians 4]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-10|Genesis 21:10]] ↔ [[Galatians 4#^gal-4-30|Galatians 4:30]]
+- [[Genesis 38]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-22|Genesis 21:22]] ↔ [[Genesis 38#^gen-38-1|Genesis 38:1]]
+- [[Genesis 28]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[Genesis 28#^gen-28-18|Genesis 28:18]]
+- [[1 Samuel 29]] — 2 parallel verses, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[1 Samuel 29#^1sam-29-10|1 Samuel 29:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

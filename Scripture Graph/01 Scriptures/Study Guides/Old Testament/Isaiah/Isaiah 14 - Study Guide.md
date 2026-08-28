@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,23 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 24]] — 34 parallel verses, e.g. [[Isaiah 14#^isa-14-9|Isaiah 14:9]] ↔ [[2 Nephi 24#^2ne-24-9|2 Nephi 24:9]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 14#^isa-14-21|Isaiah 14:21]] ↔ [[Isaiah 27#^isa-27-6|Isaiah 27:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

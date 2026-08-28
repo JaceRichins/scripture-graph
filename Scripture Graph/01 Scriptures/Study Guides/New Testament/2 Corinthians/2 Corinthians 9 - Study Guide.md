@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 9
 slug: 2cor-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 112]] — 1 parallel verse, e.g. [[2 Corinthians 9#^2cor-9-9|2 Corinthians 9:9]] ↔ [[Psalm 112#^ps-112-9|Psalm 112:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

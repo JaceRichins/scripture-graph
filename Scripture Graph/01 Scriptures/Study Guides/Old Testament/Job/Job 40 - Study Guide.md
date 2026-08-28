@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 40
 slug: job-40
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,20 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 3 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 42]] — 2 parallel verses, e.g. [[Job 40#^job-40-7|Job 40:7]] ↔ [[Job 42#^job-42-4|Job 42:4]]
+- [[Job 38]] — 2 parallel verses, e.g. [[Job 40#^job-40-6|Job 40:6]] ↔ [[Job 38#^job-38-1|Job 38:1]]
+- [[Ezekiel 31]] — 2 parallel verses, e.g. [[Job 40#^job-40-20|Job 40:20]] ↔ [[Ezekiel 31#^ezek-31-6|Ezekiel 31:6]]
+- [[Isaiah 2]] — 2 parallel verses, e.g. [[Job 40#^job-40-11|Job 40:11]] ↔ [[Isaiah 2#^isa-2-12|Isaiah 2:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

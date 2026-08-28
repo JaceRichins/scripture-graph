@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,44 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Limhi]] — 12 mentions
+- [[Ammon (son of Mosiah)]] — 10 mentions
+- [[Nephi (son of Lehi)]] — 4 mentions
+- [[Noah (patriarch)]] — 3 mentions
+- [[Abinadi]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Zarahemla]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 23]] — 5 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
+- [[Mormon 4]] — 5 parallel verses, e.g. [[Mosiah 21#^mosiah-21-17|Mosiah 21:17]] ↔ [[Mormon 4#^morm-4-17|Mormon 4:17]]
+- [[Mosiah 18]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]]
+- [[Alma 43]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
+- [[Mosiah 6]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 6#^mosiah-6-1|Mosiah 6:1]]
+- [[Mosiah 8]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]]
+- [[Mosiah 19]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 19#^mosiah-19-24|Mosiah 19:24]]
+- [[Alma 3]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]] ↔ [[Alma 3#^alma-3-21|Alma 3:21]]
+- [[Alma 44]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Alma 44#^alma-44-20|Alma 44:20]]
+- [[Alma 2]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-14|Mosiah 21:14]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
+- [[4 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]
+- [[Alma 25]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-23|Mosiah 21:23]] ↔ [[Alma 25#^alma-25-7|Alma 25:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Baptism]] *(keyword match — unconfirmed)*
+- [[Humility]] *(keyword match — unconfirmed)*
+- [[Service]] *(keyword match — unconfirmed)*
+- [[Adversity]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

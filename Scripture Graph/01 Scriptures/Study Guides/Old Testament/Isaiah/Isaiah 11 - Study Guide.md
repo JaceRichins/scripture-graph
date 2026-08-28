@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 11
 slug: isa-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,36 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Ammon (son of Mosiah)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 2 mentions
+- [[Egypt]] — 2 mentions
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 21]] — 18 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
+- [[2 Nephi 30]] — 6 parallel verses, e.g. [[Isaiah 11#^isa-11-4|Isaiah 11:4]] ↔ [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]]
+- [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
+- [[2 Nephi 17]] — 3 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[Zechariah 14]] — 3 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
+- [[Isaiah 65]] — 2 parallel verses, e.g. [[Isaiah 11#^isa-11-9|Isaiah 11:9]] ↔ [[Isaiah 65#^isa-65-25|Isaiah 65:25]]
+- [[Zechariah 13]] — 3 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
+- [[2 Nephi 24]] — 2 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Isaiah 10]] — 2 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
+- [[2 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
+- [[Isaiah 24]] — 1 parallel verse, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gathering of Israel]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

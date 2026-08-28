@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 7
 slug: micah-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,25 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 1 mention
+- [[Mount Carmel]] — 1 mention
+- [[Egypt]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 10]] — 1 parallel verse, e.g. [[Micah 7#^micah-7-6|Micah 7:6]] ↔ [[Matthew 10#^matt-10-35|Matthew 10:35]]
+- [[Luke 12]] — 1 parallel verse, e.g. [[Micah 7#^micah-7-6|Micah 7:6]] ↔ [[Luke 12#^luke-12-53|Luke 12:53]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

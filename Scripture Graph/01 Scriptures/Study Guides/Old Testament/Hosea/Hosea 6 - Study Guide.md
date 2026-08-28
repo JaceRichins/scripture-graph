@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 6
 slug: hosea-6
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

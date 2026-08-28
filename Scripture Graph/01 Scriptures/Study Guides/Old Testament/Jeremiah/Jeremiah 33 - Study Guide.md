@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 33
 slug: jer-33
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,39 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 5 mentions
+- [[Jeremiah (prophet)]] — 3 mentions
+- [[King Benjamin]] — 1 mention
+- [[Abraham (patriarch)]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 136]] — 26 parallel verses, e.g. [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
+- [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 33#^jer-33-13|Jeremiah 33:13]] ↔ [[Jeremiah 32#^jer-32-44|Jeremiah 32:44]]
+- [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 33#^jer-33-10|Jeremiah 33:10]] ↔ [[Jeremiah 44#^jer-44-6|Jeremiah 44:6]]
+- [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]
+- [[Jeremiah 31]] — 4 parallel verses, e.g. [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
+- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]] ↔ [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]]
+- [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
+- [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]] ↔ [[Jeremiah 25#^jer-25-10|Jeremiah 25:10]]
+- [[Jeremiah 34]] — 3 parallel verses, e.g. [[Jeremiah 33#^jer-33-4|Jeremiah 33:4]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
+- [[Jeremiah 38]] — 4 parallel verses, e.g. [[Jeremiah 33#^jer-33-4|Jeremiah 33:4]] ↔ [[Jeremiah 38#^jer-38-17|Jeremiah 38:17]]
+- [[Jeremiah 49]] — 2 parallel verses, e.g. [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
+- [[Jeremiah 11]] — 1 parallel verse, e.g. [[Jeremiah 33#^jer-33-10|Jeremiah 33:10]] ↔ [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

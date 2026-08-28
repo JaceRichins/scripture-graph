@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 7
 slug: dan-7
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,27 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Daniel (prophet)]] — 4 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Babylon]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 82]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-22|Daniel 7:22]] ↔ [[D&C 82#^dc-82-13|D&C 82:13]]
+- [[D&C 45]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-18|Daniel 7:18]] ↔ [[D&C 45#^dc-45-66|D&C 45:66]]
+- [[D&C 85]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-18|Daniel 7:18]] ↔ [[D&C 85#^dc-85-11|D&C 85:11]]
+- [[Daniel 4]] — 2 parallel verses, e.g. [[Daniel 7#^dan-7-15|Daniel 7:15]] ↔ [[Daniel 4#^dan-4-5|Daniel 4:5]]
+- [[Daniel 6]] — 1 parallel verse, e.g. [[Daniel 7#^dan-7-14|Daniel 7:14]] ↔ [[Daniel 6#^dan-6-26|Daniel 6:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

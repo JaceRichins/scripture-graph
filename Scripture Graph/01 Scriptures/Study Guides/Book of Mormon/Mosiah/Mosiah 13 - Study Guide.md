@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 13
 slug: mosiah-13
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,42 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 6 mentions
+- [[Abinadi]] — 2 mentions
+- [[Noah (patriarch)]] — 1 mention
+- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Sinai]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 20]] — 11 parallel verses, e.g. [[Mosiah 13#^mosiah-13-15|Mosiah 13:15]] ↔ [[Exodus 20#^ex-20-7|Exodus 20:7]]
+- [[Deuteronomy 5]] — 7 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
+- [[Mosiah 12]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-12|Mosiah 13:12]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]
+- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
+- [[Mosiah 15]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]] ↔ [[Mosiah 15#^mosiah-15-1|Mosiah 15:1]]
+- [[Deuteronomy 16]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
+- [[1 Nephi 17]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]]
+- [[Mosiah 3]] — 4 parallel verses, e.g. [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
+- [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
+- [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
+- [[Deuteronomy 17]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Ten Commandments]]
+- [[Law of Moses]]
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Sabbath Day]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

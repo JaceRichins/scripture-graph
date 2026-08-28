@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 15
 slug: dc-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 16]] — 8 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[D&C 16#^dc-16-6|D&C 16:6]]
+- [[D&C 18]] — 5 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[D&C 18#^dc-18-15|D&C 18:15]]
+- [[D&C 28]] — 2 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[D&C 28#^dc-28-8|D&C 28:8]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[3 Nephi 28#^3ne-28-8|3 Nephi 28:8]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[Alma 5#^alma-5-6|Alma 5:6]]
+- [[Alma 12]] — 2 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[Alma 12#^alma-12-16|Alma 12:16]]
+- [[Alma 60]] — 2 parallel verses, e.g. [[D&C 15#^dc-15-6|D&C 15:6]] ↔ [[Alma 60#^alma-60-3|Alma 60:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

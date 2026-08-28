@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 9
 slug: job-9
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Job (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 32]] — 3 parallel verses, e.g. [[Job 9#^job-9-24|Job 9:24]] ↔ [[Jeremiah 32#^jer-32-24|Jeremiah 32:24]]
+- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Job 9#^job-9-24|Job 9:24]] ↔ [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

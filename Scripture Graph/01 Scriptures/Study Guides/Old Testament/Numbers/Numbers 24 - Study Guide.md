@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 24
 slug: num-24
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,20 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 1 mention
+- [[Moab]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 23]] — 12 parallel verses, e.g. [[Numbers 24#^num-24-8|Numbers 24:8]] ↔ [[Numbers 23#^num-23-22|Numbers 23:22]]
+- [[Numbers 22]] — 1 parallel verse, e.g. [[Numbers 24#^num-24-13|Numbers 24:13]] ↔ [[Numbers 22#^num-22-18|Numbers 22:18]]
+- [[1 Samuel 10]] — 1 parallel verse, e.g. [[Numbers 24#^num-24-2|Numbers 24:2]] ↔ [[1 Samuel 10#^1sam-10-10|1 Samuel 10:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Parables of Jesus]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

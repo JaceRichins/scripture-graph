@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 30
 slug: dc-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,11 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
+- [[Peter (apostle)]] — 1 mention
+- [[Oliver Cowdery]] — 1 mention
+- [[Joseph Smith Jr.]] — 1 mention
+- [[Philip (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 105]] — 4 parallel verses, e.g. [[D&C 30#^dc-30-5|D&C 30:5]] ↔ [[D&C 105#^dc-105-9|D&C 105:9]]
+- [[D&C 36]] — 1 parallel verse, e.g. [[D&C 30#^dc-30-9|D&C 30:9]] ↔ [[D&C 36#^dc-36-1|D&C 36:1]]
+- [[D&C 24]] — 1 parallel verse, e.g. [[D&C 30#^dc-30-9|D&C 30:9]] ↔ [[D&C 24#^dc-24-12|D&C 24:12]]
+- [[D&C 53]] — 2 parallel verses, e.g. [[D&C 30#^dc-30-9|D&C 30:9]] ↔ [[D&C 53#^dc-53-1|D&C 53:1]]
+- [[D&C 96]] — 2 parallel verses, e.g. [[D&C 30#^dc-30-5|D&C 30:5]] ↔ [[D&C 96#^dc-96-1|D&C 96:1]]
+- [[D&C 18]] — 1 parallel verse, e.g. [[D&C 30#^dc-30-8|D&C 30:8]] ↔ [[D&C 18#^dc-18-8|D&C 18:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

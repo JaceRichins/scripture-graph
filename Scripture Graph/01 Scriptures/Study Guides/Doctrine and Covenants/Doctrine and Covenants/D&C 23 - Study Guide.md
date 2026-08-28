@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 23
 slug: dc-23
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,10 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Joseph (of Egypt)]] — 2 mentions
+- [[Oliver Cowdery]] — 1 mention
+- [[Hyrum Smith]] — 1 mention
+- [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +40,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 19]] — 1 parallel verse, e.g. [[D&C 23#^dc-23-6|D&C 23:6]] ↔ [[D&C 19#^dc-19-28|D&C 19:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

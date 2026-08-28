@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 20
 slug: prov-20
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 20#^prov-20-16|Proverbs 20:16]] ↔ [[Proverbs 27#^prov-27-13|Proverbs 27:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

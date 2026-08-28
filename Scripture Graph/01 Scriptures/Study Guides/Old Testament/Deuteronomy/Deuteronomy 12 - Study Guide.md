@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 12
 slug: deut-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,28 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jordan River]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 16]] — 22 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 16#^deut-16-11|Deuteronomy 16:11]]
+- [[Deuteronomy 14]] — 16 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]]
+- [[Deuteronomy 4]] — 7 parallel verses, e.g. [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]
+- [[Deuteronomy 15]] — 9 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 15#^deut-15-20|Deuteronomy 15:20]]
+- [[Deuteronomy 26]] — 7 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]]
+- [[Deuteronomy 11]] — 8 parallel verses, e.g. [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]] ↔ [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]]
+- [[Deuteronomy 17]] — 7 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 17#^deut-17-8|Deuteronomy 17:8]]
+- [[Deuteronomy 21]] — 4 parallel verses, e.g. [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]] ↔ [[Deuteronomy 21#^deut-21-9|Deuteronomy 21:9]]
+- [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 12#^deut-12-1|Deuteronomy 12:1]] ↔ [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]]
+- [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 5#^deut-5-14|Deuteronomy 5:14]]
+- [[Joshua 1]] — 4 parallel verses, e.g. [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]] ↔ [[Joshua 1#^josh-1-11|Joshua 1:11]]
+- [[Deuteronomy 7]] — 7 parallel verses, e.g. [[Deuteronomy 12#^deut-12-29|Deuteronomy 12:29]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

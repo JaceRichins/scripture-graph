@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,25 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Red Sea]] — 1 mention
+- [[Jordan River]] — 1 mention
+- [[Galilee]] — 1 mention
+- [[Samaria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 9]] — 27 parallel verses, e.g. [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]] ↔ [[Isaiah 9#^isa-9-17|Isaiah 9:17]]
+- [[Isaiah 5]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
+- [[2 Nephi 15]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
+- [[Isaiah 10]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
+- [[2 Nephi 20]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
+- [[Jeremiah 44]] — 2 parallel verses, e.g. [[2 Nephi 19#^2ne-19-2|2 Nephi 19:2]] ↔ [[Jeremiah 44#^jer-44-13|Jeremiah 44:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

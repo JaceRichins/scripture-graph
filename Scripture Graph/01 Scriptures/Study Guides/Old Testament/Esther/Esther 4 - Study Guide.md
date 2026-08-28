@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 4
 slug: esth-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Mordecai]] — 12 mentions
+- [[Esther (queen)]] — 9 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Esther 8]] — 1 parallel verse, e.g. [[Esther 4#^esth-4-3|Esther 4:3]] ↔ [[Esther 8#^esth-8-17|Esther 8:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

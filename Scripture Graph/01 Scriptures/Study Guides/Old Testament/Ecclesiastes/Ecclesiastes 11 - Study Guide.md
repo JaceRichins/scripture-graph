@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 11
 slug: eccl-11
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 16]] — 1 parallel verse, e.g. [[Ecclesiastes 11#^eccl-11-9|Ecclesiastes 11:9]] ↔ [[Ezekiel 16#^ezek-16-60|Ezekiel 16:60]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Abraham (patriarch)]] — 20 mentions
+- [[Isaac]] — 5 mentions
+- [[Jesus Christ]] — 1 mention
+- [[Rebekah]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Mount Moriah]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 27]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-7|Genesis 22:7]] ↔ [[Genesis 27#^gen-27-18|Genesis 27:18]]
+- [[Genesis 26]] — 1 parallel verse, e.g. [[Genesis 22#^gen-22-18|Genesis 22:18]] ↔ [[Genesis 26#^gen-26-4|Genesis 26:4]]
+- [[Genesis 28]] — 3 parallel verses, e.g. [[Genesis 22#^gen-22-18|Genesis 22:18]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]
+- [[Genesis 39]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[Genesis 39#^gen-39-7|Genesis 39:7]]
+- [[Genesis 40]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[Genesis 40#^gen-40-1|Genesis 40:1]]
+- [[Genesis 48]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[Genesis 48#^gen-48-1|Genesis 48:1]]
+- [[Joshua 24]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[Joshua 24#^josh-24-29|Joshua 24:29]]
+- [[1 Kings 17]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]]
+- [[1 Kings 21]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-1|Genesis 22:1]] ↔ [[1 Kings 21#^1kgs-21-1|1 Kings 21:1]]
+- [[Genesis 33]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-13|Genesis 22:13]] ↔ [[Genesis 33#^gen-33-1|Genesis 33:1]]
+- [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-18|Genesis 22:18]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
+- [[Genesis 21]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-3|Genesis 22:3]] ↔ [[Genesis 21#^gen-21-14|Genesis 21:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]]
+- [[Sacrifice of Isaac (Akedah)]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

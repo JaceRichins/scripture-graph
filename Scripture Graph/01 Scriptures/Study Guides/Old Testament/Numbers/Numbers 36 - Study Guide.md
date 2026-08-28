@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 36
 slug: num-36
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,37 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 4 mentions
+- [[Joseph (of Egypt)]] — 3 mentions
+- [[Noah (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Moab]] — 1 mention
+- [[Jordan River]] — 1 mention
+- [[Jericho]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Joshua 19]] — 15 parallel verses, e.g. [[Numbers 36#^num-36-9|Numbers 36:9]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
+- [[Numbers 4]] — 11 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
+- [[Numbers 26]] — 8 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Numbers 26#^num-26-63|Numbers 26:63]]
+- [[Numbers 27]] — 3 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
+- [[Joshua 21]] — 6 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Joshua 21#^josh-21-2|Joshua 21:2]]
+- [[Numbers 33]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Numbers 33#^num-33-48|Numbers 33:48]]
+- [[Numbers 32]] — 4 parallel verses, e.g. [[Numbers 36#^num-36-9|Numbers 36:9]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
+- [[Joshua 14]] — 3 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Joshua 14#^josh-14-2|Joshua 14:2]]
+- [[Numbers 3]] — 4 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Numbers 3#^num-3-29|Numbers 3:29]]
+- [[Exodus 16]] — 3 parallel verses, e.g. [[Numbers 36#^num-36-6|Numbers 36:6]] ↔ [[Exodus 16#^ex-16-16|Exodus 16:16]]
+- [[Leviticus 8]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Leviticus 8#^lev-8-36|Leviticus 8:36]]
+- [[Joshua 17]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 42]] — 1 parallel verse, e.g. [[Ecclesiastes 12#^eccl-12-14|Ecclesiastes 12:14]] ↔ [[Jeremiah 42#^jer-42-6|Jeremiah 42:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

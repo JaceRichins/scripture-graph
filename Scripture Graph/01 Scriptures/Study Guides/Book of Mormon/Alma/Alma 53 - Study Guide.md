@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,40 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Lehi (father of Nephi)]] — 3 mentions
+- [[Nephi (son of Lehi)]] — 3 mentions
+- [[Ammon (son of Mosiah)]] — 3 mentions
+- [[Teancum]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Land of Bountiful]] — 3 mentions
+- [[Zarahemla]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 62]] — 11 parallel verses, e.g. [[Alma 53#^alma-53-6|Alma 53:6]] ↔ [[Alma 62#^alma-62-30|Alma 62:30]]
+- [[Alma 52]] — 8 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
+- [[Helaman 6]] — 5 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 6#^hel-6-41|Helaman 6:41]]
+- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
+- [[Alma 57]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 57#^alma-57-5|Alma 57:5]]
+- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
+- [[Alma 30]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
+- [[Helaman 11]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
+- [[Helaman 16]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
+- [[Alma 51]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
+- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
+- [[Alma 55]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 55#^alma-55-35|Alma 55:35]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

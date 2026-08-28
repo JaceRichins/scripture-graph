@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 10
 slug: eccl-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 6]] — 1 parallel verse, e.g. [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]] ↔ [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]]
+- [[Ecclesiastes 5]] — 1 parallel verse, e.g. [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]] ↔ [[Ecclesiastes 5#^eccl-5-13|Ecclesiastes 5:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

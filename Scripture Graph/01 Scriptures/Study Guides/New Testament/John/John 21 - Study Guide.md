@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,17 +27,20 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 16 mentions
+- [[Peter (apostle)]] — 9 mentions
+- [[Thomas (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Cana]] — 1 mention
+- [[Galilee]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 7]] — 2 parallel verses, e.g. [[John 21#^john-21-22|John 21:22]] ↔ [[D&C 7#^dc-7-4|D&C 7:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

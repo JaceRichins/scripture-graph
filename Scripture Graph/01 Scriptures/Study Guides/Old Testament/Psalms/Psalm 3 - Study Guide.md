@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 3
 slug: ps-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 142]] — 1 parallel verse, e.g. [[Psalm 3#^ps-3-4|Psalm 3:4]] ↔ [[Psalm 142#^ps-142-1|Psalm 142:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

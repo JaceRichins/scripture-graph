@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 10
 slug: 2cor-10
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 6 mentions
+- [[Paul (apostle)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 1]] — 1 parallel verse, e.g. [[2 Corinthians 10#^2cor-10-17|2 Corinthians 10:17]] ↔ [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

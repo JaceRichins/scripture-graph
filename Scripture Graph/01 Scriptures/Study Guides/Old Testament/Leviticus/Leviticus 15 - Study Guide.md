@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 15
 slug: lev-15
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 1 mention
+- [[Aaron (brother of Moses)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 11]] — 52 parallel verses, e.g. [[Leviticus 15#^lev-15-1|Leviticus 15:1]] ↔ [[Leviticus 11#^lev-11-1|Leviticus 11:1]]
+- [[Leviticus 17]] — 21 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
+- [[Numbers 19]] — 40 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Numbers 19#^num-19-19|Numbers 19:19]]
+- [[Leviticus 14]] — 21 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
+- [[Leviticus 5]] — 14 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
+- [[Numbers 6]] — 11 parallel verses, e.g. [[Leviticus 15#^lev-15-30|Leviticus 15:30]] ↔ [[Numbers 6#^num-6-11|Numbers 6:11]]
+- [[Leviticus 4]] — 14 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
+- [[Leviticus 16]] — 22 parallel verses, e.g. [[Leviticus 15#^lev-15-13|Leviticus 15:13]] ↔ [[Leviticus 16#^lev-16-26|Leviticus 16:26]]
+- [[Numbers 15]] — 6 parallel verses, e.g. [[Leviticus 15#^lev-15-2|Leviticus 15:2]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
+- [[Leviticus 12]] — 5 parallel verses, e.g. [[Leviticus 15#^lev-15-30|Leviticus 15:30]] ↔ [[Leviticus 12#^lev-12-8|Leviticus 12:8]]
+- [[Leviticus 8]] — 10 parallel verses, e.g. [[Leviticus 15#^lev-15-14|Leviticus 15:14]] ↔ [[Leviticus 8#^lev-8-3|Leviticus 8:3]]
+- [[Leviticus 19]] — 5 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 19#^lev-19-22|Leviticus 19:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

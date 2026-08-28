@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,20 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Assyria]] — 2 mentions
+- [[Damascus]] — 1 mention
+- [[Samaria]] — 1 mention
+- [[Jerusalem]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 18]] — 22 parallel verses, e.g. [[Isaiah 8#^isa-8-7|Isaiah 8:7]] ↔ [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

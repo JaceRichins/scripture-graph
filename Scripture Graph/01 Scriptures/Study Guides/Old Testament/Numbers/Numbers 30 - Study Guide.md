@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 30
 slug: num-30
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 30#^num-30-1|Numbers 30:1]] ↔ [[Exodus 16#^ex-16-16|Exodus 16:16]]
+- [[Exodus 35]] — 1 parallel verse, e.g. [[Numbers 30#^num-30-1|Numbers 30:1]] ↔ [[Exodus 35#^ex-35-4|Exodus 35:4]]
+- [[Leviticus 17]] — 1 parallel verse, e.g. [[Numbers 30#^num-30-1|Numbers 30:1]] ↔ [[Leviticus 17#^lev-17-2|Leviticus 17:2]]
+- [[Isaiah 19]] — 2 parallel verses, e.g. [[Numbers 30#^num-30-3|Numbers 30:3]] ↔ [[Isaiah 19#^isa-19-21|Isaiah 19:21]]
+- [[Numbers 34]] — 1 parallel verse, e.g. [[Numbers 30#^num-30-1|Numbers 30:1]] ↔ [[Numbers 34#^num-34-13|Numbers 34:13]]
+- [[Deuteronomy 23]] — 2 parallel verses, e.g. [[Numbers 30#^num-30-2|Numbers 30:2]] ↔ [[Deuteronomy 23#^deut-23-21|Deuteronomy 23:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

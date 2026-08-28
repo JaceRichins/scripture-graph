@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 88
 slug: ps-88
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 32]] — 1 parallel verse, e.g. [[Psalm 88#^ps-88-4|Psalm 88:4]] ↔ [[Ezekiel 32#^ezek-32-18|Ezekiel 32:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

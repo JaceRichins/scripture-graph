@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,45 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 6 mentions
+- [[Daniel (prophet)]] — 2 mentions
+- [[Noah (patriarch)]] — 2 mentions
+- [[Moses (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Jerusalem]] — 3 mentions
+- [[Mount of Olives]] — 2 mentions
+- [[Judea]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Matthew 24]] — 58 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-36|Joseph Smith—Matthew 1:36]] ↔ [[Matthew 24#^matt-24-30|Matthew 24:30]]
+- [[Mark 13]] — 17 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]] ↔ [[Mark 13#^mark-13-6|Mark 13:6]]
+- [[Luke 21]] — 10 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]] ↔ [[Luke 21#^luke-21-8|Luke 21:8]]
+- [[Luke 17]] — 11 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]] ↔ [[Luke 17#^luke-17-36|Luke 17:36]]
+- [[Luke 12]] — 7 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-50|Joseph Smith—Matthew 1:50]] ↔ [[Luke 12#^luke-12-43|Luke 12:43]]
+- [[D&C 45]] — 11 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-33|Joseph Smith—Matthew 1:33]] ↔ [[D&C 45#^dc-45-42|D&C 45:42]]
+- [[D&C 130]] — 9 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 130#^dc-130-12|D&C 130:12]]
+- [[Moses 7]] — 9 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
+- [[D&C 61]] — 5 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
+- [[D&C 133]] — 4 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-37|Joseph Smith—Matthew 1:37]] ↔ [[D&C 133#^dc-133-7|D&C 133:7]]
+- [[Mormon 8]] — 6 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-53|Joseph Smith—Matthew 1:53]] ↔ [[Mormon 8#^morm-8-26|Mormon 8:26]]
+- [[D&C 63]] — 4 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Second Coming of Jesus Christ]]
+- [[Signs of the Times]]
+- [[Prophets]] *(keyword match — unconfirmed)*
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[Adversity]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Salvation]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

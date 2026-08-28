@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 39
 slug: job-39
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---

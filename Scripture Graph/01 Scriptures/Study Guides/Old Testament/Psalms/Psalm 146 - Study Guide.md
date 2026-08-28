@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 146
 slug: ps-146
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 20]] — 1 parallel verse, e.g. [[Psalm 146#^ps-146-6|Psalm 146:6]] ↔ [[Exodus 20#^ex-20-11|Exodus 20:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

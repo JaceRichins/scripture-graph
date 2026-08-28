@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 3
 slug: amos-3
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,17 +32,22 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 2 mentions
+- [[Samaria]] — 2 mentions
+- [[Damascus]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 41]] — 2 parallel verses, e.g. [[Amos 3#^amos-3-9|Amos 3:9]] ↔ [[Genesis 41#^gen-41-30|Genesis 41:30]]
+- [[Genesis 47]] — 2 parallel verses, e.g. [[Amos 3#^amos-3-9|Amos 3:9]] ↔ [[Genesis 47#^gen-47-14|Genesis 47:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Prophets]]
+- [[Revelation]]
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

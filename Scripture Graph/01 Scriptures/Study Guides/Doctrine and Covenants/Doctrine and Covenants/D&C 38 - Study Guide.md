@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 38
 slug: dc-38
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 2 mentions
+- [[Enoch]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 124]] — 18 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
+- [[D&C 42]] — 10 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 42#^dc-42-4|D&C 42:4]]
+- [[D&C 46]] — 10 parallel verses, e.g. [[D&C 38#^dc-38-25|D&C 38:25]] ↔ [[D&C 46#^dc-46-5|D&C 46:5]]
+- [[D&C 61]] — 7 parallel verses, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
+- [[3 Nephi 12]] — 5 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]
+- [[Alma 5]] — 7 parallel verses, e.g. [[D&C 38#^dc-38-35|D&C 38:35]] ↔ [[Alma 5#^alma-5-55|Alma 5:55]]
+- [[D&C 84]] — 4 parallel verses, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
+- [[3 Nephi 11]] — 6 parallel verses, e.g. [[D&C 38#^dc-38-25|D&C 38:25]] ↔ [[3 Nephi 11#^3ne-11-37|3 Nephi 11:37]]
+- [[D&C 101]] — 6 parallel verses, e.g. [[D&C 38#^dc-38-25|D&C 38:25]] ↔ [[D&C 101#^dc-101-76|D&C 101:76]]
+- [[D&C 82]] — 3 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 82#^dc-82-8|D&C 82:8]]
+- [[D&C 43]] — 5 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 43#^dc-43-8|D&C 43:8]]
+- [[D&C 98]] — 5 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 98#^dc-98-11|D&C 98:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

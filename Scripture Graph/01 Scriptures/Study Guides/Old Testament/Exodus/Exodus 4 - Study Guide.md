@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 4
 slug: ex-4
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,22 +27,38 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Moses (prophet)]] — 15 mentions
+- [[Aaron (brother of Moses)]] — 5 mentions
+- [[Abraham (patriarch)]] — 1 mention
+- [[Isaac]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Egypt]] — 4 mentions
+- [[Midian]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Exodus 3#^ex-3-15|Exodus 3:15]]
+- [[Alma 29]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Alma 29#^alma-29-11|Alma 29:11]]
+- [[Judges 2]] — 3 parallel verses, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
+- [[Numbers 11]] — 3 parallel verses, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 11#^num-11-10|Numbers 11:10]]
+- [[Exodus 7]] — 3 parallel verses, e.g. [[Exodus 4#^ex-4-9|Exodus 4:9]] ↔ [[Exodus 7#^ex-7-21|Exodus 7:21]]
+- [[Deuteronomy 29]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
+- [[Jeremiah 12]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-8|Exodus 4:8]] ↔ [[Jeremiah 12#^jer-12-16|Jeremiah 12:16]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
+- [[Exodus 24]] — 3 parallel verses, e.g. [[Exodus 4#^ex-4-28|Exodus 4:28]] ↔ [[Exodus 24#^ex-24-3|Exodus 24:3]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
+- [[Mark 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
+- [[Luke 20]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

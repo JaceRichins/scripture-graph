@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 17
 slug: isa-17
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -32,12 +32,12 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Damascus]] — 3 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Zephaniah 3]] — 1 parallel verse, e.g. [[Isaiah 17#^isa-17-2|Isaiah 17:2]] ↔ [[Zephaniah 3#^zeph-3-13|Zephaniah 3:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

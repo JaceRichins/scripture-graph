@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 2
 slug: 2thes-2
-corpus_version_reviewed: 0
+corpus_version_reviewed: 1
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,8 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 4 mentions
+- [[Satan]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -37,12 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 2#^2thes-2-1|2 Thessalonians 2:1]] ↔ [[1 Corinthians 1#^1cor-1-7|1 Corinthians 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Apostasy]]
+- [[Revelation]] *(keyword match — unconfirmed)*
+- [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
