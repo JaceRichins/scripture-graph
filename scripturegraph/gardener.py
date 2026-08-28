@@ -27,6 +27,9 @@ def run_gardener(ctx: Ctx, repair: bool = True) -> dict:
 
     stats["personal"] = index_personal_notes(ctx)
 
+    from scripturegraph.vaultgen.generate import stamp_node_ids
+    stats["sg_ids_stamped"] = stamp_node_ids(ctx)
+
     report = validate_all(ctx, repair=repair)
     stats["validation"] = report.summary()
     broken_links = [i for i in report.issues if i.check in ("link", "block-link")][:60]

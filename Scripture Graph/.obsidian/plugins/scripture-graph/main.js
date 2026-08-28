@@ -7008,7 +7008,11 @@ ${body}
     if (!f) return;
     let anchor = null;
     if (f.path.startsWith(CANONICAL_PREFIX)) anchor = chapterIdFromTitle(f.basename);
-    if (!anchor) anchor = `node:${f.basename}`;
+    if (!anchor) {
+      const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter;
+      const sgId = typeof fm?.["sg-id"] === "string" ? fm["sg-id"] : null;
+      anchor = sgId ?? `node:${f.basename}`;
+    }
     await this.ann.addNote(
       anchor,
       `Bookmark: [[${f.basename}]]`,
@@ -7026,7 +7030,7 @@ ${body}
     const a = {
       annotation_id: uuid(),
       author_user_id: this.s.device.userId,
-      anchor_type: anchor && anchor.split("-").length >= 3 ? "verse" : "node",
+      anchor_type: anchor && parseVerseId(anchor) ? "verse" : "node",
       anchor_id: anchor ?? "node:flashcards",
       annotation_type: "study-marker",
       selected_text: null,

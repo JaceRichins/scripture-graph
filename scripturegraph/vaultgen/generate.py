@@ -179,6 +179,35 @@ def write_once(ctx: Ctx, relpath: str, kind: str, managed_by: str, content: str,
     return record_file(ctx, relpath, kind, managed_by, node_id, content)
 
 
+def stamp_node_ids(ctx: Ctx) -> int:
+    """Backfill `sg-id` frontmatter on librarian-owned entity pages (§39).
+
+    Plugin annotations anchored to `node:<sg-id>` then survive renames. Never
+    touches canonical scripture (readonly + hashed) or personal files.
+    """
+    db = ctx.db()
+    rows = db.execute(
+        "SELECT path, kind, managed_by, node_id FROM file_registry "
+        "WHERE node_id IS NOT NULL AND node_id NOT LIKE 'chapter:%' "
+        "AND kind IN ('topic','person','place','event','evidence','question',"
+        "'practice','source')").fetchall()
+    stamped = 0
+    for r in rows:
+        abspath = ctx.vault / r["path"]
+        if not abspath.exists():
+            continue
+        text = read_text(abspath)
+        fm, body = md.parse_note(text)
+        if fm.get("sg-id") == r["node_id"]:
+            continue
+        fm["sg-id"] = r["node_id"]
+        if record_file(ctx, r["path"], r["kind"], r["managed_by"], r["node_id"],
+                       md.build_note(fm, body)):
+            stamped += 1
+    db.commit()
+    return stamped
+
+
 def refresh_registry_hash(ctx: Ctx, relpath: str) -> None:
     """Re-hash a file after a legitimate managed edit (librarian patches)."""
     relpath = relpath.replace("\\", "/")
@@ -415,17 +444,20 @@ def write_obsidian_config(ctx: Ctx) -> None:
     snippets.mkdir(exist_ok=True)
     css = res.files("scripturegraph").joinpath("assets/obsidian/snippets/scripture-graph.css")
     atomic_write_text(snippets / "scripture-graph.css", css.read_text(encoding="utf-8"))
-    # bundled plugin: highlight/notes overlay (data.json = user data, preserved)
-    plug_src = res.files("scripturegraph").joinpath(
-        "assets/obsidian/plugins/scripture-graph-annotate")
-    plug_dst = obs / "plugins" / "scripture-graph-annotate"
-    plug_dst.mkdir(parents=True, exist_ok=True)
-    for entry in plug_src.iterdir():
-        if entry.name != "data.json":
-            atomic_write_text(plug_dst / entry.name, entry.read_text(encoding="utf-8"))
+    # ecosystem plugin suite (supersedes the old scripture-graph-annotate):
+    # install the built bundle when present; NEVER touch data.json (shared
+    # settings) — the old plugin dir is left alone so migration can read it.
+    eco = ctx.vault.parent / "ecosystem" / "plugins" / "scripture-graph"
+    if (eco / "dist" / "main.js").exists():
+        plug_dst = obs / "plugins" / "scripture-graph"
+        plug_dst.mkdir(parents=True, exist_ok=True)
+        for src, name in ((eco / "manifest.json", "manifest.json"),
+                          (eco / "dist" / "main.js", "main.js"),
+                          (eco / "styles.css", "styles.css")):
+            atomic_write_text(plug_dst / name, src.read_text(encoding="utf-8"))
     cp = obs / "community-plugins.json"
     if not cp.exists():
-        atomic_write_text(cp, json.dumps(["scripture-graph-annotate"], indent=2))
+        atomic_write_text(cp, json.dumps(["scripture-graph"], indent=2))
 
 
 # ------------------------------------------------------------- generate all

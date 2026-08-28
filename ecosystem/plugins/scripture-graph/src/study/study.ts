@@ -1,7 +1,7 @@
 /** Study module (§20-23): bookmarks, study trails, flashcards-lite — all
  * personal data in the annotation system / device store, never shared vault. */
 import { Modal, Notice, Setting, TFile } from "obsidian";
-import { chapterIdFromTitle, nowIso, uuid, verseDisplay, type Annotation } from "@scripture-graph/core-sdk";
+import { chapterIdFromTitle, nowIso, parseVerseId, uuid, verseDisplay, type Annotation } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import type { AnnotationService } from "../social/annotations";
 
@@ -46,7 +46,13 @@ export class StudyService {
     if (!f) return;
     let anchor: string | null = null;
     if (f.path.startsWith(CANONICAL_PREFIX)) anchor = chapterIdFromTitle(f.basename);
-    if (!anchor) anchor = `node:${f.basename}`;
+    if (!anchor) {
+      // engine pages carry a rename-stable sg-id ("topic:faith"); fall back to title
+      const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter as
+        Record<string, unknown> | undefined;
+      const sgId = typeof fm?.["sg-id"] === "string" ? (fm["sg-id"] as string) : null;
+      anchor = sgId ?? `node:${f.basename}`;
+    }
     await this.ann.addNote(anchor, `Bookmark: [[${f.basename}]]`, null,
       this.s.settings.defaultVisibility === "local" ? "local" : "private", null);
     // repurpose type
@@ -60,7 +66,7 @@ export class StudyService {
   async addFlashcard(front: string, back: string, anchor: string | null): Promise<void> {
     const a = {
       annotation_id: uuid(), author_user_id: this.s.device.userId,
-      anchor_type: (anchor && anchor.split("-").length >= 3 ? "verse" : "node") as "verse" | "node",
+      anchor_type: (anchor && parseVerseId(anchor) ? "verse" : "node") as "verse" | "node",
       anchor_id: anchor ?? "node:flashcards",
       annotation_type: "study-marker" as const,
       selected_text: null, start_offset: null, end_offset: null, text_hash: null,

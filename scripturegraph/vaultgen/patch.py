@@ -195,8 +195,10 @@ def _create_note(ctx: Ctx, op: dict, actor: str) -> tuple[str, str]:
         raise PatchViolation(f"title/alias already in use by {dup[0]}: {title!r}")
 
     sections = op.get("sections") or {}
+    node_id = f"{note_kind}:{slugify(title)}"
+    # sg-id: stable anchor for plugin annotations — survives file renames (§39)
     fm = {"ownership": "system", "mutable": "ai", "content_type": note_kind,
-          "created_by": actor, "created_at": now_iso()}
+          "sg-id": node_id, "created_by": actor, "created_at": now_iso()}
     if op.get("aliases"):
         fm["aliases"] = [str(a) for a in op["aliases"]][:8]
     if op.get("frontmatter"):
@@ -217,7 +219,6 @@ def _create_note(ctx: Ctx, op: dict, actor: str) -> tuple[str, str]:
         lines.append(f"## {heading}")
         lines.append(md.marker_block(name, content or md.PLACEHOLDER))
         lines.append("")
-    node_id = f"{note_kind}:{slugify(title)}"
     record_file(ctx, relpath, note_kind, "librarian", node_id,
                 md.build_note(fm, "\n".join(lines)))
     ctx.db().execute(
