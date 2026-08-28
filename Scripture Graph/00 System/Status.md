@@ -6,9 +6,9 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-28T03:39:28Z.*
+*Generated 2026-08-28T03:42:32Z.*
 
-- Engine: v0.1.0 · corpus **v2** · bootstrap **STEADY_STATE** · git `150f0fc`
+- Engine: v0.1.0 · corpus **v2** · bootstrap **STEADY_STATE** · git `de015e7`
 - Scripture: 87 books, 1582 chapters, 41995 verses
 - Graph: 108 topics · 167 people · 82 places · 7 evidence notes · 4 questions
 - Personal notes indexed: 1584
@@ -42,5 +42,5 @@ Overall: mean **67.6**, stddev 1.42, min 64.3
 
 ## Recent runs
 
-- nightly: 2026-08-28T03:38:05Z → … (running)
+- nightly: 2026-08-28T03:38:05Z → 2026-08-28T03:39:34Z (ok)
 - nightly: 2026-08-28T03:37:10Z → 2026-08-28T03:37:18Z (ok)
