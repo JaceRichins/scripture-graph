@@ -6,41 +6,46 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-28T03:42:32Z.*
+*Generated 2026-08-28T21:36:41Z.*
 
-- Engine: v0.1.0 · corpus **v2** · bootstrap **STEADY_STATE** · git `de015e7`
-- Scripture: 87 books, 1582 chapters, 41995 verses
-- Graph: 108 topics · 167 people · 82 places · 7 evidence notes · 4 questions
+- Engine: v0.1.0 · corpus **v5** · bootstrap **STEADY_STATE** · git `cb5dbc8c`
+- Scripture: 88 books, 1584 chapters, 42027 verses
+- Graph: 108 topics · 167 people · 82 places · 128 evidence notes · 4 questions
 - Personal notes indexed: 1584
-- Documents: 2 (0 conference talks)
-- Index: 42000 chunks · embeddings: hash/hash-ngram-v1 (41998)
-- Work queue: {'pending': 40}
-- AI providers: claude: needs login, codex: ready
+- Documents: 2224 (902 conference talks)
+- Index: 196980 chunks · embeddings: hash/hash-ngram-v1 (196978)
+- Work queue: {'dead': 101, 'pending': 22}
+- **Today:** 16 study ticks · 50 research jobs applied · 1526 new claims
+- Secondary sources: 2 approved · 80 episodes tracked · 1 ingested
+- AI providers: claude: not installed, codex: ready
 
 ## Coverage
 
-Overall: mean **67.6**, stddev 1.42, min 64.3
+Overall: mean **52.4**, stddev 5.45, min 30.9
 
 | Volume | Mean | Min | P10 |
 | --- | --- | --- | --- |
-| Old Testament | 67.3 | 64.3 | 65.3 |
-| New Testament | 67.7 | 65.3 | 66.4 |
-| Book of Mormon | 68.5 | 65.3 | 67.8 |
-| Doctrine and Covenants | 67.8 | 64.3 | 65.9 |
-| Pearl of Great Price | 68.6 | 67.8 | 67.8 |
+| Old Testament | 50.9 | 43.9 | 47.8 |
+| New Testament | 54.5 | 45.8 | 51.3 |
+| Book of Mormon | 54.2 | 45.8 | 47.8 |
+| Doctrine and Covenants | 55.0 | 30.9 | 50.8 |
+| Pearl of Great Price | 57.4 | 52.2 | 52.2 |
 
 ## Next in the refinement queue
 
-- `chapter:num-15` — completeness 68.63
-- `chapter:1kgs-15` — completeness 68.63
-- `chapter:2kgs-15` — completeness 68.63
-- `chapter:2kgs-21` — completeness 68.63
-- `chapter:2kgs-23` — completeness 68.63
-- `chapter:2chr-33` — completeness 68.63
-- `chapter:2chr-34` — completeness 68.63
-- `chapter:jer-32` — completeness 68.63
+- `chapter:gen-4` — completeness 47.77
+- `chapter:gen-6` — completeness 47.77
+- `chapter:gen-10` — completeness 47.77
+- `chapter:gen-19` — completeness 47.77
+- `chapter:gen-24` — completeness 47.77
+- `chapter:gen-47` — completeness 47.77
+- `chapter:ex-1` — completeness 47.77
+- `chapter:ex-9` — completeness 47.77
 
 ## Recent runs
 
-- nightly: 2026-08-28T03:38:05Z → 2026-08-28T03:39:34Z (ok)
-- nightly: 2026-08-28T03:37:10Z → 2026-08-28T03:37:18Z (ok)
+- study: 2026-08-28T21:15:01Z → … (running)
+- study: 2026-08-28T20:45:03Z → 2026-08-28T21:07:59Z (ok)
+- study: 2026-08-28T20:15:01Z → 2026-08-28T20:39:54Z (ok)
+- study: 2026-08-28T19:45:02Z → 2026-08-28T20:06:12Z (ok)
+- study: 2026-08-28T18:45:02Z → 2026-08-28T19:13:16Z (ok)
