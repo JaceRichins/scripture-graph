@@ -2,16 +2,25 @@ from scripturegraph import booksdata as bd
 
 
 def test_registry_counts():
-    assert len(bd.BOOKS) == 87
+    assert len(bd.BOOKS) == 88  # 87 json-corpus books + Official Declarations (api)
     assert bd.EXPECTED_TOTAL_CHAPTERS == 1582
+    assert bd.TOTAL_CHAPTERS_WITH_API == 1584
     assert sum(b.chapters for b in bd.BOOKS if b.volume == bd.OT) == 929
     assert sum(b.chapters for b in bd.BOOKS if b.volume == bd.NT) == 260
     assert sum(b.chapters for b in bd.BOOKS if b.volume == bd.BM) == 239
 
 
+def test_official_declarations_book():
+    od = bd.BY_SLUG["od"]
+    assert od.volume == bd.DC and od.source == "api" and od.chapters == 2
+    assert bd.chapter_title(od, 2) == "Official Declaration 2"
+    assert bd.find_chapter_by_title("Official Declaration 1")[0].slug == "od"
+    assert bd.find_chapter_by_title("OD 2")[0].slug == "od"
+
+
 def test_slugs_unique_and_dashless():
     slugs = [b.slug for b in bd.BOOKS]
-    assert len(set(slugs)) == 87
+    assert len(set(slugs)) == 88
     assert all("-" not in s for s in slugs)
 
 

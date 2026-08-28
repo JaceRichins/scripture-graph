@@ -21,9 +21,10 @@ class Book:
     name: str            # display / folder name, e.g. "1 Nephi"
     lds_slug: str        # official churchofjesuschrist.org slug, e.g. "1-ne"
     chapters: int        # expected chapter (or section) count
-    unit: str = "chapter"          # "chapter" | "section"
+    unit: str = "chapter"          # "chapter" | "section" | "declaration"
     prefix: str = ""               # chapter-note title prefix; default = name
     aliases: tuple[str, ...] = ()  # citation-parsing aliases (besides name)
+    source: str = "json"           # "json" (scriptures-json corpus) | "api" (Gospel Library)
 
     @property
     def slug(self) -> str:
@@ -127,6 +128,9 @@ _raw: list[tuple] = [
     (BM, "Moroni", "moro", 10, ("Moro.",)),
     (DC, "Doctrine and Covenants", "dc", 138,
      ("D&C", "D & C", "Doctrine & Covenants"), {"unit": "section", "prefix": "D&C"}),
+    (DC, "Official Declarations", "od", 2,
+     ("OD", "Official Declaration"),
+     {"unit": "declaration", "prefix": "Official Declaration", "source": "api"}),
     (PGP, "Moses", "moses", 8, ()),
     (PGP, "Abraham", "abr", 5, ("Abr.",)),
     (PGP, "Joseph Smith—Matthew", "js-m", 1,
@@ -147,12 +151,16 @@ BY_SLUG: dict[str, Book] = {b.slug: b for b in BOOKS}
 BY_LDS_SLUG: dict[str, Book] = {b.lds_slug: b for b in BOOKS}
 BY_NAME: dict[str, Book] = {b.name: b for b in BOOKS}
 
+# Expectations for the scriptures-json corpus (source="json" books only);
+# API-sourced books (Official Declarations) import separately.
 EXPECTED_VOLUME_CHAPTERS = {OT: 929, NT: 260, BM: 239, DC: 138, PGP: 16}
 EXPECTED_TOTAL_CHAPTERS = sum(EXPECTED_VOLUME_CHAPTERS.values())  # 1582
+TOTAL_CHAPTERS_WITH_API = EXPECTED_TOTAL_CHAPTERS + sum(
+    b.chapters for b in BOOKS if b.source == "api")  # 1584
 
-assert len(BOOKS) == 87, f"registry has {len(BOOKS)} books, expected 87"
+assert len(BOOKS) == 88, f"registry has {len(BOOKS)} books, expected 88"
 for _vol, _n in EXPECTED_VOLUME_CHAPTERS.items():
-    _got = sum(b.chapters for b in BOOKS if b.volume == _vol)
+    _got = sum(b.chapters for b in BOOKS if b.volume == _vol and b.source == "json")
     assert _got == _n, f"{_vol}: registry chapters {_got} != expected {_n}"
 
 

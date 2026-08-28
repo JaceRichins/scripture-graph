@@ -88,12 +88,16 @@ def import_standard_works(ctx: Ctx, src_dir: Path | None = None, force: bool = F
             _import_book(ctx, book, chapters, stats)
             stats["books"] += 1
 
-    # sanity: chapter totals per imported volume
+    # sanity: chapter totals per imported volume (json-corpus books only —
+    # API-sourced books like Official Declarations import separately)
     if strict:
         for volume, expected in booksdata.EXPECTED_VOLUME_CHAPTERS.items():
+            json_slugs = [b.slug for b in booksdata.BOOKS
+                          if b.volume == volume and b.source == "json"]
             got = db.execute(
-                "SELECT COUNT(*) AS n FROM chapters c JOIN books b ON b.slug=c.book_slug "
-                "WHERE b.volume=?", (volume,)).fetchone()["n"]
+                f"SELECT COUNT(*) AS n FROM chapters "
+                f"WHERE book_slug IN ({','.join('?' * len(json_slugs))})",
+                json_slugs).fetchone()["n"]
             if got and got != expected:
                 raise RuntimeError(
                     f"import sanity check failed: {volume} has {got} chapters, expected {expected}")

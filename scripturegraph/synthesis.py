@@ -19,6 +19,16 @@ from scripturegraph.util import now_iso
 from scripturegraph.vaultgen import md
 from scripturegraph.vaultgen.generate import study_relpath
 from scripturegraph.vaultgen.patch import apply_ops
+from scripturegraph.util import read_text
+from scripturegraph.vaultgen.md import section_is_empty as mdkit_section_is_empty
+
+
+def _current_section(ctx: Ctx, relpath: str, name: str) -> str:
+    p = ctx.vault / relpath
+    if not p.exists():
+        return ""
+    _, body = md.parse_note(read_text(p))
+    return md.get_section(body, name) or ""
 
 
 def _entity_lines(ctx: Ctx, cslug: str, node_type: str, cap: int) -> list[str]:
@@ -49,6 +59,21 @@ def _related_lines(ctx: Ctx, cslug: str, cap: int) -> list[str]:
             "ORDER BY weight DESC LIMIT 6", (me,)):
         other = r["dst"].split(":", 1)[1]
         lines.append(f"- {md.wikilink(chapter_display(other))} — cited in the text")
+    # official footnote cross-references (canonical study apparatus)
+    for r in db.execute(
+            "SELECT dst, weight, meta_json FROM edges WHERE src=? AND rel='footnote_xref' "
+            "ORDER BY weight DESC LIMIT ?", (me, max(6, cap // 2))):
+        other = r["dst"].split(":", 1)[1]
+        meta = json.loads(r["meta_json"] or "{}")
+        pairs = meta.get("pairs") or []
+        n = int(r["weight"] or 0)
+        detail = f"{n} footnote cross-reference{'s' if n != 1 else ''}"
+        if pairs:
+            src_v = pairs[0][0]
+            src_slug = f"{cslug}-{src_v}"
+            detail += (" (from "
+                       f"{md.verse_link(chapter_display(cslug), src_slug, verse_display(src_slug))})")
+        lines.append(f"- {md.wikilink(chapter_display(other))} — {detail}")
     rows = db.execute(
         "SELECT src, dst, weight, meta_json FROM edges "
         "WHERE (src=? OR dst=?) AND rel='parallel_to' AND status='accepted' "
@@ -130,6 +155,14 @@ def synthesize_chapter(ctx: Ctx, cslug: str) -> dict:
         "topics": "\n".join(_topic_lines(ctx, cslug, cap_topics)),
         "evidence": "\n\n".join(_evidence_lines(ctx, cslug)),
     }
+    # official chapter heading seeds the overview while no AI prose exists
+    app = ctx.db().execute(
+        "SELECT heading FROM chapter_apparatus WHERE chapter_slug=?", (cslug,)).fetchone()
+    if app and app["heading"]:
+        current = _current_section(ctx, relpath, "overview")
+        if mdkit_section_is_empty(current) or current.startswith("> [!info] Chapter heading"):
+            sections["overview"] = ("> [!info] Chapter heading (official)\n"
+                                    f"> {app['heading']}")
     ops = [{"op": "set_section", "path": relpath, "section": name, "content": content}
            for name, content in sections.items() if content]
     ops.append({"op": "set_fm_field", "path": relpath,

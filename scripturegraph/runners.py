@@ -117,6 +117,13 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.conference_sessions_per_night", 4)))
             except Exception as e:  # noqa: BLE001 — network trouble must not sink the run
                 ctx.log.warn("nightly.backfill_failed", error=str(e)[:200])
+        if ctx.c("acquisition.gospel_library_backfill", True):
+            from scripturegraph.corpus.glib import nightly_acquisition
+            try:
+                stats["gospel_library"] = nightly_acquisition(
+                    ctx, int(ctx.c("acquisition.pages_per_night", 350)))
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.glib_failed", error=str(e)[:200])
         # refresh every stale deterministic pass (no-ops when current):
         # corpus growth re-opens them via corpus versioning, nightly closes them
         for det in ("parallels", "embed", "semantic", "entities", "citations",

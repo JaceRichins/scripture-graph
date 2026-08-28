@@ -177,7 +177,7 @@ def cmd_ask(args):
 
 def cmd_fetch(args):
     ctx = _ctx(args)
-    from scripturegraph.corpus import fetchers
+    from scripturegraph.corpus import fetchers, glib
     from scripturegraph.corpus.registry import ensure_registry
     ensure_registry(ctx)
     fetchers.register_acquisition_sources(ctx)
@@ -194,6 +194,24 @@ def cmd_fetch(args):
     if args.what in ("jsp", "all"):
         from scripturegraph.corpus.jsp_refs import write_jsp_reference_notes
         out["jsp_reference_notes"] = write_jsp_reference_notes(ctx)
+    if args.what in ("od", "gospel-library", "all"):
+        out["official_declarations"] = glib.fetch_official_declarations(ctx)
+    if args.what in ("apparatus", "gospel-library", "all"):
+        out["apparatus"] = glib.fetch_all_apparatus(ctx, limit=args.limit)
+    if args.what in ("collections", "gospel-library", "all"):
+        budget = args.limit or 10000
+        for name, spec in sorted(glib.COLLECTIONS.items(),
+                                 key=lambda kv: kv[1]["priority"]):
+            if args.collection and name != args.collection:
+                continue
+            if spec["priority"] > args.max_priority and not args.collection:
+                continue
+            out[name] = glib.crawl_collection(ctx, name, budget)
+    if args.what in ("od", "apparatus", "collections", "gospel-library", "all"):
+        ctx.bump_corpus_version(f"gospel-library fetch: {args.what}")
+        from scripturegraph.corpus.registry import _enqueue_affected, write_manifest
+        _enqueue_affected(ctx, {"reference", "history"})
+        write_manifest(ctx)
     from scripturegraph import gitops
     gitops.commit_all(ctx, f"acquire: {args.what} corpus fetch")
     print(json.dumps(out, indent=2, default=str))
@@ -304,10 +322,16 @@ def main(argv=None) -> int:
     sp.add_argument("question", nargs="+")
     sp.set_defaults(fn=cmd_ask)
 
-    sp = sub.add_parser("fetch", help="acquire corpora (conference API / public-domain history / JSP records)")
-    sp.add_argument("what", choices=["conference", "history", "jsp", "all"])
+    sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
+                                      "public-domain history / JSP records)")
+    sp.add_argument("what", choices=["conference", "history", "jsp", "od", "apparatus",
+                                     "collections", "gospel-library", "all"])
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)
+    sp.add_argument("--limit", type=int, help="page cap for apparatus/collections")
+    sp.add_argument("--collection", help="fetch just this named collection")
+    sp.add_argument("--max-priority", type=int, default=2,
+                    help="collections: include priorities <= N (default 2)")
     sp.set_defaults(fn=cmd_fetch)
 
     sp = sub.add_parser("scheduler", help="Windows Task Scheduler tasks")

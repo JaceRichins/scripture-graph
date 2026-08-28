@@ -11,7 +11,7 @@ content_type: manifest
 | Standard Works (scriptures-json) | scripture | 1 | **imported** | download |
 | Bible Dictionary / Guide to the Scriptures | reference | 2 | **manual_download_required** | drop-folder |
 | Gospel Topics essays & entries | reference | 2 | **manual_download_required** | drop-folder |
-| General Conference talks | conference | 3 | **manual_download_required** | drop-folder |
+| General Conference talks | conference | 3 | **imported** | api-fetch |
 | Church history materials (e.g. Saints, JS histories) | history | 4 | **manual_download_required** | drop-folder |
 | History of the Church (B. H. Roberts ed.) | history | 4 | **available** | download |
 | Joseph Smith Papers | jsp | 4 | **imported** | drop-folder |

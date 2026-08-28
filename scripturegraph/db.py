@@ -249,6 +249,14 @@ CREATE TABLE IF NOT EXISTS coverage (
     priority                 REAL
 );
 
+-- official chapter headings + footnote cross-references (Gospel Library API)
+CREATE TABLE IF NOT EXISTS chapter_apparatus (
+    chapter_slug   TEXT PRIMARY KEY REFERENCES chapters(slug),
+    heading        TEXT,
+    footnotes_json TEXT,
+    fetched_at     TEXT
+);
+
 CREATE TABLE IF NOT EXISTS response_cache (
     key        TEXT PRIMARY KEY,         -- sha256(provider|model|prompt)
     provider   TEXT,

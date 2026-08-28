@@ -76,6 +76,8 @@ DEFAULTS: dict = {
         "conference_from_year": 1971,      # earliest session on churchofjesuschrist.org
         "conference_backfill": True,       # nightly fetches older sessions…
         "conference_sessions_per_night": 4,  # …this many per night until complete
+        "gospel_library_backfill": True,   # nightly chapter-apparatus + collections
+        "pages_per_night": 350,            # page budget for that nightly work
     },
     "scheduler": {"frequent_hours": 2, "nightly_time": "02:30",
                   "weekly_day": "SUN", "weekly_time": "03:30"},
