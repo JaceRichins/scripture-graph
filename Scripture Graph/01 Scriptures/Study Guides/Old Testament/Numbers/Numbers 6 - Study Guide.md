@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 6
 slug: num-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 5
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 6]] · My notes: [[Numbers 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The law of the Nazarite is explained, whereby the children of Israel may consecrate themselves to the Lord by a vow—They drink no wine nor strong drink and if defiled must shave their heads—The Lord reveals the blessing to be used by Aaron and his sons in blessing Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 21]] — 4 footnote cross-references (from [[Numbers 6#^num-6-9|Numbers 6:9]])
+- [[Amos 2]] — 1 footnote cross-reference (from [[Numbers 6#^num-6-2|Numbers 6:2]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Numbers 6#^num-6-3|Numbers 6:3]])
+- [[Judges 13]] — 1 footnote cross-reference (from [[Numbers 6#^num-6-5|Numbers 6:5]])
+- [[1 Samuel 1]] — 1 footnote cross-reference (from [[Numbers 6#^num-6-5|Numbers 6:5]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[Numbers 6#^num-6-23|Numbers 6:23]])
 - [[Numbers 29]] — 14 parallel verses, e.g. [[Numbers 6#^num-6-15|Numbers 6:15]] ↔ [[Numbers 29#^num-29-18|Numbers 29:18]]
 - [[Leviticus 15]] — 5 parallel verses, e.g. [[Numbers 6#^num-6-11|Numbers 6:11]] ↔ [[Leviticus 15#^lev-15-30|Leviticus 15:30]]
 - [[Leviticus 14]] — 7 parallel verses, e.g. [[Numbers 6#^num-6-11|Numbers 6:11]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
@@ -88,7 +95,13 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Archaeological Inscription *(tentative)*
+> Two silver amulets excavated at Ketef Hinnom contain wording closely corresponding to portions of the priestly blessing in Numbers 6:24–26. The commonly defended late-seventh- or early-sixth-century BCE dating makes them early material witnesses to this blessing formula, but not necessarily to the complete canonical chapter in its present form.
+> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation
+
+> [!evidence] Direct Textual Evidence *(tentative)*
+> Numbers 6 provides strong textual evidence for distinguishing priestly commission from divine agency in the blessing: Aaron and his sons are commanded to pronounce it and place the LORD's name upon Israel, while the LORD states, "I will bless them."
+> — strength 0.9 · confidence 1.0 · broadly accepted
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
