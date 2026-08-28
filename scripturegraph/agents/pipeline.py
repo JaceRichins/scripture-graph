@@ -115,11 +115,25 @@ def build_context(ctx: Ctx, cslug: str) -> dict:
         candidates.append({"other": chapter_display(other), "score": round(r["weight"] or 0, 3)})
     topic_titles = [r["title"] for r in db.execute(
         "SELECT title FROM nodes WHERE node_type='topic' ORDER BY title")]
+    # secondary-source claims awaiting corroboration (§13: commentary is not
+    # evidence; researchers weigh them, the judge rules, tier can then change)
+    sec_claims = []
+    for r in db.execute(
+            "SELECT text, provenance_json, sources_json FROM claims "
+            "WHERE node_id=? AND tier='TENTATIVE' AND consensus='secondary-claim' "
+            "LIMIT 8", (me,)):
+        prov = json.loads(r["provenance_json"] or "{}")
+        srcs = json.loads(r["sources_json"] or "[]")
+        sec_claims.append({
+            "text": r["text"], "speaker": prov.get("speaker") or "unknown speaker",
+            "source": (srcs[0].get("source") if srcs else "secondary source"),
+            "primary_source_named": prov.get("primary_source_named")})
     return {"chapter_slug": cslug, "title": title, "volume": book.volume,
             "book": book.name, "chapter": n, "verses": verses,
             "existing_sections": sections, "entities": ents,
             "topics_linked": topics_linked, "parallels": parallels,
             "semantic_candidates": candidates, "topic_titles": topic_titles,
+            "secondary_claims": sec_claims,
             "corpus_version": ctx.corpus_version()}
 
 
@@ -142,6 +156,16 @@ def context_markdown(c: dict) -> str:
     if c["semantic_candidates"]:
         lines.append("Semantic CANDIDATES (unverified, judge before trusting): " +
                      "; ".join(f"{s['other']} ({s['score']})" for s in c["semantic_candidates"]))
+    if c.get("secondary_claims"):
+        lines += ["", "#### Secondary-source claims AWAITING CORROBORATION",
+                  "These are interpretations/claims from podcasts or lectures — "
+                  "commentary, NOT primary evidence. If your research corroborates one "
+                  "from primary sources, you may propose it (attributed); if it is "
+                  "wrong or unsupported, say so."]
+        for sc in c["secondary_claims"]:
+            extra = (f" [names primary source: {sc['primary_source_named']}]"
+                     if sc.get("primary_source_named") else "")
+            lines.append(f"- {sc['speaker']} ({sc['source']}): {sc['text']}{extra}")
     if c["existing_sections"]:
         lines += ["", "#### Existing study-guide prose (improve, don't degrade)"]
         for name, text in c["existing_sections"].items():

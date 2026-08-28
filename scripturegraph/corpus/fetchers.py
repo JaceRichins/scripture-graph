@@ -197,6 +197,40 @@ def fetch_conference_range(ctx: Ctx, start_year: int, end_year: int) -> dict:
     return {**total, **imp}
 
 
+def freshen_conference(ctx: Ctx) -> dict:
+    """Keep the newest sessions COMPLETE, not just present.
+
+    `backfill_conference` skips any session directory that already has talks,
+    so late-published talks (or earlier per-talk failures) in the most recent
+    conferences would never be retried. Re-running the fetch on the latest two
+    expected sessions is nearly free (existing files are skipped) and closes
+    that gap. A new session (e.g. the October conference the weekend it airs)
+    is picked up here the same night it appears."""
+    import datetime
+    now = datetime.date.today()
+    sessions: list[tuple[int, int]] = []
+    if now.month >= 10:
+        sessions = [(now.year, 10), (now.year, 4)]
+    elif now.month >= 4:
+        sessions = [(now.year, 4), (now.year - 1, 10)]
+    else:
+        sessions = [(now.year - 1, 10), (now.year - 1, 4)]
+    stats = {"sessions": [], "new_talks": 0}
+    for y, m in sessions:
+        s = fetch_conference_session(ctx, y, m)
+        if not s.get("missing") and s.get("talks"):
+            stats["sessions"].append(f"{y}-{m:02d}")
+            stats["new_talks"] += s["talks"]
+    if stats["new_talks"]:
+        imp = import_downloaded_conference(ctx)
+        stats.update(imp)
+        if imp.get("imported"):
+            ctx.bump_corpus_version(f"conference freshen {stats['sessions']}")
+            from scripturegraph.corpus.registry import _enqueue_affected
+            _enqueue_affected(ctx, {"conference"})
+    return stats
+
+
 def backfill_conference(ctx: Ctx, max_sessions: int) -> dict:
     """Fetch the next N oldest-missing sessions (newest-first coverage grows
     backward toward acquisition.conference_from_year). Used by nightly runs."""

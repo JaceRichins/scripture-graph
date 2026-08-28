@@ -259,6 +259,49 @@ def cmd_source(args):
     return 0
 
 
+def cmd_secondary(args):
+    ctx = _ctx(args)
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    from scripturegraph.secondary import registry
+    if args.action == "status":
+        rows = ctx.db().execute(
+            "SELECT s.name, s.approval_status, s.quality_tier, s.overall_score, "
+            "COUNT(i.item_id) AS items, "
+            "SUM(CASE WHEN i.status='ingested' THEN 1 ELSE 0 END) AS ingested "
+            "FROM sec_sources s LEFT JOIN sec_items i ON i.source_id=s.source_id "
+            "GROUP BY s.source_id ORDER BY s.overall_score DESC").fetchall()
+        for r in rows:
+            score = f"{r['overall_score']:.0f}" if r["overall_score"] else "—"
+            print(f"{r['name'][:38]:38s} {r['approval_status']:12s} "
+                  f"tier={r['quality_tier'] or '—'} score={score:>3s} "
+                  f"items={r['items']} ingested={r['ingested'] or 0}")
+        return 0
+    try:
+        with engine_lock(ctx):
+            from scripturegraph import gitops
+            from scripturegraph.secondary.ingest import (secondary_nightly,
+                                                         secondary_weekly)
+            if args.action == "seed":
+                out = {"seeded": registry.seed(ctx)}
+                from scripturegraph.secondary.vaultout import write_all_notes
+                out["vault"] = write_all_notes(ctx)
+            elif args.action == "nightly":
+                out = secondary_nightly(ctx)
+            elif args.action == "weekly":
+                out = secondary_weekly(ctx)
+            else:  # refresh: feeds only, no AI
+                from scripturegraph.secondary.feeds import refresh_source_items
+                registry.seed(ctx)
+                out = {"feeds": [refresh_source_items(ctx, s) for s in
+                                 registry.list_sources(ctx, ("APPROVED", "CONDITIONAL"))]}
+            gitops.commit_all(ctx, f"secondary: {args.action}")
+            print(json.dumps(out, indent=2, default=str))
+            return 0
+    except EngineBusy:
+        print("Another engine run holds the lock — try again shortly.", file=sys.stderr)
+        return 3
+
+
 def cmd_test(args):
     import subprocess
     root = Path(args.root) if args.root else Ctx.locate().root
@@ -358,6 +401,10 @@ def main(argv=None) -> int:
     sp = sub.add_parser("source", help="source registry")
     sp.add_argument("action", choices=["list", "manifest"])
     sp.set_defaults(fn=cmd_source)
+
+    sp = sub.add_parser("secondary", help="secondary-source registry + ingestion")
+    sp.add_argument("action", choices=["status", "seed", "refresh", "nightly", "weekly"])
+    sp.set_defaults(fn=cmd_secondary)
 
     sp = sub.add_parser("test", help="run the automated test suite")
     sp.add_argument("pytest_args", nargs="*")

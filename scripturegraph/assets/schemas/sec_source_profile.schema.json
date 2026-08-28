@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SecondarySourceProfile",
+  "type": "object",
+  "required": ["scores", "faith_orientation", "recommendation", "rationale"],
+  "properties": {
+    "name": {"type": "string", "maxLength": 200},
+    "hosts": {"type": "array", "items": {"type": "string", "maxLength": 120}, "maxItems": 8},
+    "institution": {"type": ["string", "null"], "maxLength": 200},
+    "scores": {
+      "type": "object",
+      "required": ["expertise", "source_transparency", "historical_accuracy",
+                   "intellectual_honesty", "depth", "reputation",
+                   "citation_quality", "sensationalism_penalty"],
+      "properties": {
+        "expertise": {"type": "number", "minimum": 0, "maximum": 100},
+        "source_transparency": {"type": "number", "minimum": 0, "maximum": 100},
+        "historical_accuracy": {"type": "number", "minimum": 0, "maximum": 100},
+        "intellectual_honesty": {"type": "number", "minimum": 0, "maximum": 100},
+        "depth": {"type": "number", "minimum": 0, "maximum": 100},
+        "reputation": {"type": "number", "minimum": 0, "maximum": 100},
+        "citation_quality": {"type": "number", "minimum": 0, "maximum": 100},
+        "sensationalism_penalty": {"type": "number", "minimum": 0, "maximum": 100}
+      },
+      "additionalProperties": false
+    },
+    "score_evidence": {
+      "type": "object",
+      "additionalProperties": {"type": "string", "maxLength": 600}
+    },
+    "faith_orientation": {
+      "enum": ["official_church", "faithful_lds", "lds_academic", "neutral_academic",
+               "other_christian", "secular_academic", "critical_lds", "former_lds", "other"]
+    },
+    "perspective": {"type": "string", "maxLength": 600},
+    "expertise_domains": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 12},
+    "strengths": {"type": "array", "items": {"type": "string", "maxLength": 200}, "maxItems": 8},
+    "limitations": {"type": "array", "items": {"type": "string", "maxLength": 200}, "maxItems": 8},
+    "recommendation": {"enum": ["APPROVED", "CONDITIONAL", "WATCHLIST", "REJECTED"]},
+    "rationale": {"type": "string", "maxLength": 1500}
+  }
+}

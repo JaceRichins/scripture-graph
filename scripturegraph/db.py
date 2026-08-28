@@ -265,6 +265,115 @@ CREATE TABLE IF NOT EXISTS response_cache (
     cost_usd   REAL,
     created_at TEXT
 );
+
+-- ------------------------------------------------- secondary sources (§SEC)
+-- Curated registry of secondary media (podcasts, channels, lecture series)
+-- plus their evaluated episodes. Source-level AND item-level quality are
+-- tracked separately; claims extracted here enter the claims table as
+-- TENTATIVE and never bypass the evidence pipeline.
+CREATE TABLE IF NOT EXISTS sec_sources (
+    source_id        TEXT PRIMARY KEY,   -- slug, e.g. 'followhim'
+    name             TEXT NOT NULL,
+    source_type      TEXT NOT NULL,      -- podcast|youtube|lecture-series|website|journal|organization
+    hosts_json       TEXT,
+    institution      TEXT,
+    homepage         TEXT,
+    feed_url         TEXT,
+    youtube_channel  TEXT,
+    quality_tier     TEXT,               -- A|B|C|D|null (unscored)
+    overall_score    REAL,
+    scores_json      TEXT,               -- the rubric dimensions 0-100
+    expertise_domains_json TEXT,
+    faith_orientation TEXT,              -- official_church|faithful_lds|lds_academic|neutral_academic|other_christian|secular_academic|critical_lds|former_lds|other
+    perspective      TEXT,
+    strengths_json   TEXT,
+    limitations_json TEXT,
+    approval_status  TEXT NOT NULL DEFAULT 'WATCHLIST',
+        -- APPROVED|CONDITIONAL|WATCHLIST|REJECTED|BLOCKED|DEPRECATED
+    seed             INTEGER NOT NULL DEFAULT 0,  -- 1 = spec-mandated seed source
+    last_reviewed    TEXT,
+    notes            TEXT,
+    created_at       TEXT,
+    updated_at       TEXT
+);
+
+CREATE TABLE IF NOT EXISTS sec_reviews (       -- source re-evaluation history
+    id          INTEGER PRIMARY KEY,
+    source_id   TEXT NOT NULL REFERENCES sec_sources(source_id) ON DELETE CASCADE,
+    at          TEXT NOT NULL,
+    overall     REAL,
+    tier        TEXT,
+    status      TEXT,
+    scores_json TEXT,
+    notes       TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_sec_reviews_source ON sec_reviews(source_id, at);
+
+CREATE TABLE IF NOT EXISTS sec_guests (
+    guest_id     TEXT PRIMARY KEY,       -- slug of name
+    name         TEXT NOT NULL,
+    expertise_json TEXT,
+    credentials  TEXT,
+    quality      TEXT,                   -- HIGH|MEDIUM|LOW|UNKNOWN
+    appearances  INTEGER NOT NULL DEFAULT 0,
+    notes        TEXT,
+    updated_at   TEXT
+);
+
+CREATE TABLE IF NOT EXISTS sec_items (
+    item_id          TEXT PRIMARY KEY,   -- sha1-12 of source_id|guid
+    source_id        TEXT NOT NULL REFERENCES sec_sources(source_id) ON DELETE CASCADE,
+    guid             TEXT,
+    title            TEXT NOT NULL,
+    url              TEXT,
+    audio_url        TEXT,
+    published_at     TEXT,
+    duration_s       INTEGER,
+    description      TEXT,
+    transcript_url   TEXT,
+    transcript_status TEXT NOT NULL DEFAULT 'none',
+        -- none|feed|page|cached|notes-only|unavailable
+    transcript_path  TEXT,               -- engine cache path (never the vault)
+    analysis_depth   TEXT,               -- full|notes-only
+    episode_quality  REAL,
+    novelty          REAL,
+    relevance        REAL,
+    guests_json      TEXT,
+    summary          TEXT,
+    status           TEXT NOT NULL DEFAULT 'discovered',
+        -- discovered|analyzed|ingested|skipped|rejected|failed
+    verdict_reason   TEXT,
+    scores_json      TEXT,
+    vault_path       TEXT,
+    created_at       TEXT,
+    updated_at       TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_sec_items_source ON sec_items(source_id, status);
+CREATE INDEX IF NOT EXISTS idx_sec_items_status ON sec_items(status, published_at);
+
+CREATE TABLE IF NOT EXISTS sec_segments (      -- timestamped topic segments
+    id         INTEGER PRIMARY KEY,
+    item_id    TEXT NOT NULL REFERENCES sec_items(item_id) ON DELETE CASCADE,
+    t_start_s  INTEGER,
+    t_end_s    INTEGER,
+    label      TEXT,
+    summary    TEXT,
+    nodes_json TEXT                      -- graph node ids this segment discusses
+);
+CREATE INDEX IF NOT EXISTS idx_sec_segments_item ON sec_segments(item_id);
+
+CREATE TABLE IF NOT EXISTS sec_mentions (      -- referenced works / primary sources
+    id         INTEGER PRIMARY KEY,
+    item_id    TEXT NOT NULL REFERENCES sec_items(item_id) ON DELETE CASCADE,
+    kind       TEXT NOT NULL,            -- book|article|document|lecture|website|primary-source
+    title      TEXT NOT NULL,
+    author     TEXT,
+    detail     TEXT,
+    t_s        INTEGER,
+    resolved_node_id TEXT,
+    resolved_url TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_sec_mentions_item ON sec_mentions(item_id);
 """
 
 

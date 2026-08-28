@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SecondaryItemAnalysis",
+  "type": "object",
+  "required": ["episode_quality", "novelty", "relevance", "summary", "verdict"],
+  "properties": {
+    "episode_quality": {"type": "number", "minimum": 0, "maximum": 100},
+    "novelty": {"type": "number", "minimum": 0, "maximum": 100},
+    "relevance": {"type": "number", "minimum": 0, "maximum": 100},
+    "summary": {"type": "string", "maxLength": 1500},
+    "verdict": {"enum": ["ingest", "skip"]},
+    "verdict_reason": {"type": "string", "maxLength": 500},
+    "sensational_flags": {"type": "array", "items": {"type": "string", "maxLength": 200}, "maxItems": 8},
+    "guests": {
+      "type": "array", "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {"type": "string", "maxLength": 120},
+          "expertise": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 6},
+          "credentials": {"type": "string", "maxLength": 300}
+        }
+      }
+    },
+    "scriptures": {"type": "array", "items": {"type": "string", "maxLength": 60}, "maxItems": 40},
+    "topics": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 20},
+    "people": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 20},
+    "places": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 15},
+    "events": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 15},
+    "segments": {
+      "type": "array", "maxItems": 30,
+      "items": {
+        "type": "object",
+        "required": ["label", "summary"],
+        "properties": {
+          "t_start": {"type": ["string", "number", "null"]},
+          "t_end": {"type": ["string", "number", "null"]},
+          "label": {"type": "string", "maxLength": 200},
+          "summary": {"type": "string", "maxLength": 600},
+          "links": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 8}
+        }
+      }
+    },
+    "claims": {
+      "type": "array", "maxItems": 25,
+      "items": {
+        "type": "object",
+        "required": ["text", "claim_type"],
+        "properties": {
+          "text": {"type": "string", "maxLength": 600},
+          "speaker": {"type": "string", "maxLength": 120},
+          "t": {"type": ["string", "number", "null"]},
+          "claim_type": {"enum": ["historical", "textual", "doctrinal", "linguistic",
+                                   "archaeological", "scientific", "other"]},
+          "confidence": {"enum": ["low", "medium", "high"]},
+          "primary_source_named": {"type": ["string", "null"], "maxLength": 300},
+          "target": {"type": ["string", "null"], "maxLength": 100}
+        }
+      }
+    },
+    "insights": {
+      "type": "array", "maxItems": 20,
+      "items": {
+        "type": "object",
+        "required": ["text"],
+        "properties": {
+          "text": {"type": "string", "maxLength": 500},
+          "speaker": {"type": "string", "maxLength": 120},
+          "t": {"type": ["string", "number", "null"]},
+          "target": {"type": ["string", "null"], "maxLength": 100}
+        }
+      }
+    },
+    "references": {
+      "type": "array", "maxItems": 25,
+      "items": {
+        "type": "object",
+        "required": ["kind", "title"],
+        "properties": {
+          "kind": {"enum": ["book", "article", "document", "lecture", "website", "primary-source"]},
+          "title": {"type": "string", "maxLength": 300},
+          "author": {"type": ["string", "null"], "maxLength": 200},
+          "detail": {"type": ["string", "null"], "maxLength": 300},
+          "t": {"type": ["string", "number", "null"]}
+        }
+      }
+    }
+  }
+}

@@ -85,6 +85,30 @@ DEFAULTS: dict = {
     },
     "scheduler": {"frequent_hours": 2, "nightly_time": "02:30",
                   "weekly_day": "SUN", "weekly_time": "03:30"},
+    "secondary": {
+        "enabled": True,
+        # nightly: deep AI analyses of episodes (new releases first, then backlog)
+        "items_per_night": 3,
+        "backlog_per_night": 2,            # of items_per_night, max spent on backlog
+        # weekly: candidate source profiles evaluated + stale sources re-reviewed
+        "discovery_per_week": 3,
+        "rereview_days": 60,
+        "auto_approve": True,              # allow autonomous A/B admission
+        "min_ingest_tier": "B",            # auto-ingest floor (source tier)
+        "episode_quality_floor": 70,
+        "conditional_quality_floor": 80,   # TIER C sources need a stronger episode
+        "novelty_floor": 30,
+        "transcript_max_chars": 240_000,   # cap fed to the analysis model
+        "max_items_per_refresh": 40,       # newest N feed entries tracked per source
+        # rubric weights (positive dims; sensationalism applied as a penalty)
+        "weights": {
+            "expertise": 0.18, "source_transparency": 0.14,
+            "historical_accuracy": 0.16, "intellectual_honesty": 0.16,
+            "depth": 0.12, "reputation": 0.10, "citation_quality": 0.14,
+        },
+        "sensationalism_weight": 0.25,     # overall -= penalty * this
+        "tier_thresholds": {"A": 85, "B": 75, "C": 60},
+    },
 }
 
 

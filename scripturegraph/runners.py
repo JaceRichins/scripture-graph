@@ -111,12 +111,20 @@ def run_nightly(ctx: Ctx) -> dict:
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
         if ctx.c("acquisition.conference_backfill", True):
-            from scripturegraph.corpus.fetchers import backfill_conference
+            from scripturegraph.corpus.fetchers import backfill_conference, freshen_conference
             try:
+                # newest sessions stay complete (late-published talks, new conference)
+                stats["conference_freshen"] = freshen_conference(ctx)
                 stats["conference_backfill"] = backfill_conference(
                     ctx, int(ctx.c("acquisition.conference_sessions_per_night", 4)))
             except Exception as e:  # noqa: BLE001 — network trouble must not sink the run
                 ctx.log.warn("nightly.backfill_failed", error=str(e)[:200])
+        if ctx.c("secondary.enabled", True):
+            from scripturegraph.secondary.ingest import secondary_nightly
+            try:
+                stats["secondary"] = secondary_nightly(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.secondary_failed", error=str(e)[:200])
         if ctx.c("acquisition.gospel_library_backfill", True):
             from scripturegraph.corpus.glib import nightly_acquisition
             try:
@@ -227,6 +235,12 @@ def run_weekly(ctx: Ctx) -> dict:
         from scripturegraph.statuscmd import write_status_note
         stats["gardener"] = {k: v for k, v in run_gardener(ctx, repair=True).items()
                              if isinstance(v, (int, str))}
+        if ctx.c("secondary.enabled", True):
+            from scripturegraph.secondary.ingest import secondary_weekly
+            try:
+                stats["secondary"] = secondary_weekly(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("weekly.secondary_failed", error=str(e)[:200])
         update_all_coverage(ctx)
         batch = int(ctx.c("coverage.equalize_batch", 40))
         for w in weakest_chapters(ctx, batch):
