@@ -77,13 +77,14 @@ def persist_analysis(ctx: Ctx, source: dict, item: dict, analysis: dict,
     reason = analysis.get("verdict_reason") or reason if ok else reason
     db.execute(
         "UPDATE sec_items SET episode_quality=?, novelty=?, relevance=?, summary=?, "
-        "guests_json=?, scores_json=?, status=?, verdict_reason=?, analysis_depth=?, "
-        "updated_at=? WHERE item_id=?",
+        "guests_json=?, insights_json=?, scores_json=?, status=?, verdict_reason=?, "
+        "analysis_depth=?, updated_at=? WHERE item_id=?",
         (rubric.clamp(analysis.get("episode_quality")),
          rubric.clamp(analysis.get("novelty")),
          rubric.clamp(analysis.get("relevance")),
          (analysis.get("summary") or "")[:1500],
          json.dumps(analysis.get("guests") or []),
+         json.dumps(analysis.get("insights") or []),
          json.dumps({k: analysis.get(k) for k in
                      ("episode_quality", "novelty", "relevance", "sensational_flags")}),
          status, reason[:500], analysis_depth, now_iso(), iid))

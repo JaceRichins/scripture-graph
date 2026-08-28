@@ -168,6 +168,19 @@ def write_item_note(ctx: Ctx, source: dict, item: dict) -> str:
                 line += f"\n  - Named primary source: _{prov['primary_source_named']}_"
             lines.append(line)
 
+    insights = json.loads(item.get("insights_json") or "[]")
+    if insights:
+        lines += ["", "## Insights (attributed)", "",
+                  "_Worthwhile observations that do not require historical proof "
+                  "(§19) — they belong to their speakers._", ""]
+        for ins in insights:
+            speaker = ins.get("speaker") or "Speaker"
+            ts = rubric.parse_ts(ins.get("t"))
+            tstxt = f" ({_ts_link(item, ts)})" if ts is not None else ""
+            tgt = ins.get("target")
+            tgttxt = f" → {md.wikilink(str(tgt))}" if tgt else ""
+            lines.append(f"- **{speaker}**{tstxt}: {ins.get('text', '')}{tgttxt}")
+
     if mentions:
         lines += ["", "## Works & sources mentioned", ""]
         for m in mentions:

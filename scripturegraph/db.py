@@ -339,6 +339,7 @@ CREATE TABLE IF NOT EXISTS sec_items (
     novelty          REAL,
     relevance        REAL,
     guests_json      TEXT,
+    insights_json    TEXT,               -- §19 lower-stakes observations, attributed
     summary          TEXT,
     status           TEXT NOT NULL DEFAULT 'discovered',
         -- discovered|analyzed|ingested|skipped|rejected|failed
@@ -393,8 +394,16 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     return conn
 
 
+def _ensure_column(conn: sqlite3.Connection, table: str, column: str, decl: str) -> None:
+    cols = {r[1] for r in conn.execute(f"PRAGMA table_info({table})").fetchall()}
+    if cols and column not in cols:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {decl}")
+
+
 def migrate(conn: sqlite3.Connection) -> None:
     conn.executescript(_SCHEMA)
+    # additive columns for tables that may pre-date their current definition
+    _ensure_column(conn, "sec_items", "insights_json", "TEXT")
     cur = conn.execute("SELECT value FROM meta WHERE key='schema_version'").fetchone()
     if cur is None:
         conn.execute("INSERT INTO meta(key,value) VALUES('schema_version',?)", (str(SCHEMA_VERSION),))

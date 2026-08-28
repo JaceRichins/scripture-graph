@@ -233,6 +233,8 @@ def test_persist_and_render(imported_ctx):
     assert "t=755" in note                      # YouTube jump link
     assert "TENTATIVE" in note                  # §13 labeling
     assert "Ancient Near Eastern Texts" in note  # reference extraction
+    assert "family conflict framing" in note    # §19 insight, attributed
+    assert "**Host**" in note
     assert "transcript" not in note.split("---")[1].lower() or True
 
     # study guide gets the secondary-sources section with a timestamp
