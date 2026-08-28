@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.95
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-ritual-pattern-in-leviticus-4
 ---
 
 # Internal Literary-Ritual Pattern in Leviticus 4

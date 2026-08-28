@@ -10,6 +10,7 @@ evidence_strength: 0.25
 study_relevance: 0.76
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-numerical-coherence-in-numbers-4
 ---
 
 # Internal Numerical Coherence in Numbers 4

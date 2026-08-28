@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Samuel
+sg-id: person:samuel-prophet
 ---
 
 # Samuel (prophet)

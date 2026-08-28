@@ -8,6 +8,7 @@ aliases:
 - Endure to the End
 - Perseverance
 topic-status: seeded
+sg-id: topic:endurance
 ---
 
 # Endurance

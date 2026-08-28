@@ -8,6 +8,7 @@ aliases:
 - Trials
 - Suffering
 topic-status: seeded
+sg-id: topic:adversity
 ---
 
 # Adversity

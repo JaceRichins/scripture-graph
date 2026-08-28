@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:obtaining-the-brass-plates
 ---
 
 # Obtaining the brass plates

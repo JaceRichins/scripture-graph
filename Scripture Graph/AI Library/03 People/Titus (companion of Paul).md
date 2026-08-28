@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Titus
+sg-id: person:titus-companion-of-paul
 ---
 
 # Titus (companion of Paul)

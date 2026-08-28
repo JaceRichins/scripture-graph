@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.98
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:intertextual-ritual-correspondence-in-leviticus-8
 ---
 
 # Intertextual Ritual Correspondence in Leviticus 8

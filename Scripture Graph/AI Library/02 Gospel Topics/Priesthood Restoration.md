@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Restoration of the Priesthood
 topic-status: seeded
+sg-id: topic:priesthood-restoration
 ---
 
 # Priesthood Restoration

@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Deliverance
 topic-status: seeded
+sg-id: topic:exodus-and-deliverance
 ---
 
 # Exodus and Deliverance

@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:textual-and-ritual-parallel-in-exodus-29
 ---
 
 # Textual And Ritual Parallel in Exodus 29

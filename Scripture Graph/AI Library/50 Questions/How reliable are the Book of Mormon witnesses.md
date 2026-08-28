@@ -3,7 +3,9 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
+sg-id: question:how-reliable-are-the-book-of-mormon-witnesses
 ---
+
 # How reliable are the Book of Mormon witnesses?
 
 ## Concise answer

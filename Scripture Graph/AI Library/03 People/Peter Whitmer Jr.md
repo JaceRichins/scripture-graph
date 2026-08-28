@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Peter Whitmer Jr.
+sg-id: person:peter-whitmer-jr
 ---
 
 # Peter Whitmer Jr

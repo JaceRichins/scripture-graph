@@ -8,6 +8,7 @@ aliases:
 - Temple
 - Temple Work
 topic-status: seeded
+sg-id: topic:temples
 ---
 
 # Temples

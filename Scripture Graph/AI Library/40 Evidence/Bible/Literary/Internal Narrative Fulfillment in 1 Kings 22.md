@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.99
 source_quality: 0.96
 consensus_status: broadly accepted
+sg-id: evidence:internal-narrative-fulfillment-in-1-kings-22
 ---
 
 # Internal Narrative Fulfillment in 1 Kings 22

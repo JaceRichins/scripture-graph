@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Jared
+sg-id: person:jared-jaredite
 ---
 
 # Jared (Jaredite)

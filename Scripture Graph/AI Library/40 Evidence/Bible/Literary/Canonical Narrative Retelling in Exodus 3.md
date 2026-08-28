@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.89
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:canonical-narrative-retelling-in-exodus-3
 ---
 
 # Canonical Narrative Retelling in Exodus 3

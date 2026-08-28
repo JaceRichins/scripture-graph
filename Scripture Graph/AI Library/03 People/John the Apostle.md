@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - John the Beloved
+sg-id: person:john-the-apostle
 ---
 
 # John the Apostle

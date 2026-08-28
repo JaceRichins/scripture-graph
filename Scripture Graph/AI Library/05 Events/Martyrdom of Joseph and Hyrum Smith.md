@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Carthage martyrdom
+sg-id: event:martyrdom-of-joseph-and-hyrum-smith
 ---
 
 # Martyrdom of Joseph and Hyrum Smith

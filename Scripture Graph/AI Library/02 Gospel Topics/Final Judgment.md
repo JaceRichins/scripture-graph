@@ -8,6 +8,7 @@ aliases:
 - Judgment
 - Judgment Day
 topic-status: seeded
+sg-id: topic:final-judgment
 ---
 
 # Final Judgment

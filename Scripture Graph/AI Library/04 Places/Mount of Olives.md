@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Olivet
+sg-id: place:mount-of-olives
 ---
 
 # Mount of Olives

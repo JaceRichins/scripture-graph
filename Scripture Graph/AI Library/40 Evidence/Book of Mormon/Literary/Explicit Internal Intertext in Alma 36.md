@@ -10,6 +10,7 @@ evidence_strength: 0.95
 study_relevance: 0.9
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:explicit-internal-intertext-in-alma-36
 ---
 
 # Explicit Internal Intertext in Alma 36

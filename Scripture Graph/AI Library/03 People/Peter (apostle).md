@@ -8,6 +8,7 @@ aliases:
 - Peter
 - Simon Peter
 - Cephas
+sg-id: person:peter-apostle
 ---
 
 # Peter (apostle)

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Ammon
+sg-id: person:ammon-son-of-mosiah
 ---
 
 # Ammon (son of Mosiah)

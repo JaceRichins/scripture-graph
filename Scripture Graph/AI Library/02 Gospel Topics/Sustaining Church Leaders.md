@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Common Consent
 topic-status: seeded
+sg-id: topic:sustaining-church-leaders
 ---
 
 # Sustaining Church Leaders

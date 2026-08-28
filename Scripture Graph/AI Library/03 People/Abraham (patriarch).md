@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Abraham
 - Abram
+sg-id: person:abraham-patriarch
 ---
 
 # Abraham (patriarch)

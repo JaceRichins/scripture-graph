@@ -8,6 +8,7 @@ aliases:
 - Redemption of the Dead
 - Work for the Dead
 topic-status: seeded
+sg-id: topic:baptism-for-the-dead
 ---
 
 # Baptism for the Dead

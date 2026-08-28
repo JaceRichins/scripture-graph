@@ -10,6 +10,7 @@ evidence_strength: 0.93
 study_relevance: 0.99
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:internal-textual-evidence-in-leviticus-17
 ---
 
 # Internal Textual Evidence in Leviticus 17

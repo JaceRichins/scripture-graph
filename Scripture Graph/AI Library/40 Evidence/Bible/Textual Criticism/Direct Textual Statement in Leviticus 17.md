@@ -10,6 +10,7 @@ evidence_strength: 0.98
 study_relevance: 1
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:direct-textual-statement-in-leviticus-17
 ---
 
 # Direct Textual Statement in Leviticus 17

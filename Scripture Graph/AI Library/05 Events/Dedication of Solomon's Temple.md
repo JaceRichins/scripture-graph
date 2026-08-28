@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:dedication-of-solomons-temple
 ---
 
 # Dedication of Solomon's Temple

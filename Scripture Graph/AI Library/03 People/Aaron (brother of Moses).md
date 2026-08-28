@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Aaron
+sg-id: person:aaron-brother-of-moses
 ---
 
 # Aaron (brother of Moses)

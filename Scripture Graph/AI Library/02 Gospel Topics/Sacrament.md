@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - The Lord's Supper
 topic-status: seeded
+sg-id: topic:sacrament
 ---
 
 # Sacrament

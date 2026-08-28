@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.96
 source_quality: 0.94
 consensus_status: broadly accepted
+sg-id: evidence:external-historical-attestation-in-2-kings-24
 ---
 
 # External Historical Attestation in 2 Kings 24

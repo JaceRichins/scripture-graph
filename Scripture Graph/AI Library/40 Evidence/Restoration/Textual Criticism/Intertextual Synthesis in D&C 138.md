@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.95
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:intertextual-synthesis-in-d-c-138
 ---
 
 # Intertextual Synthesis in D&C 138

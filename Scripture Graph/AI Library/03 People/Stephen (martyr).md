@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Stephen
+sg-id: person:stephen-martyr
 ---
 
 # Stephen (martyr)

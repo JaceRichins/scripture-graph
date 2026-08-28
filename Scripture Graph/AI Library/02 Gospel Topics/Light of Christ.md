@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Conscience
 topic-status: seeded
+sg-id: topic:light-of-christ
 ---
 
 # Light of Christ

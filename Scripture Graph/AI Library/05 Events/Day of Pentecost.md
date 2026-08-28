@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Pentecost
+sg-id: event:day-of-pentecost
 ---
 
 # Day of Pentecost

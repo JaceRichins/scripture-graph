@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - The Exodus
+sg-id: event:the-exodus-from-egypt
 ---
 
 # The Exodus from Egypt

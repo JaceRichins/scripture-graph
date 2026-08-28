@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Government
 topic-status: seeded
+sg-id: topic:government-and-laws
 ---
 
 # Government and Laws

@@ -10,6 +10,7 @@ evidence_strength: 0.91
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:literary-prediction-fulfillment-pattern-in-1-kings-14
 ---
 
 # Literary Prediction-Fulfillment Pattern in 1 Kings 14

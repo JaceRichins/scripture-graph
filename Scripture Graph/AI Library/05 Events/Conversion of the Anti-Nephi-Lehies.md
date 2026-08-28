@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:conversion-of-the-anti-nephi-lehies
 ---
 
 # Conversion of the Anti-Nephi-Lehies

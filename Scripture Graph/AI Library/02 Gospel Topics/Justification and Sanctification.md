@@ -8,6 +8,7 @@ aliases:
 - Sanctification
 - Justification
 topic-status: seeded
+sg-id: topic:justification-and-sanctification
 ---
 
 # Justification and Sanctification

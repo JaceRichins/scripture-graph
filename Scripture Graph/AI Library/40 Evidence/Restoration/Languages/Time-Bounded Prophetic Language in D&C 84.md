@@ -10,6 +10,7 @@ evidence_strength: 0.82
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:time-bounded-prophetic-language-in-d-c-84
 ---
 
 # Time-Bounded Prophetic Language in D&C 84

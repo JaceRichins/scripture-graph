@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Christ visits the Nephites
+sg-id: event:christs-appearance-at-the-temple-in-bountiful
 ---
 
 # Christ's appearance at the temple in Bountiful

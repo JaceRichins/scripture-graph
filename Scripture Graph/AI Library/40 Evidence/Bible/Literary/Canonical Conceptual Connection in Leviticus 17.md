@@ -10,6 +10,7 @@ evidence_strength: 0.81
 study_relevance: 0.95
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:canonical-conceptual-connection-in-leviticus-17
 ---
 
 # Canonical Conceptual Connection in Leviticus 17

@@ -8,6 +8,7 @@ aliases:
 - Love
 - Pure Love of Christ
 topic-status: seeded
+sg-id: topic:charity
 ---
 
 # Charity

@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Sinai
 - Horeb
+sg-id: place:mount-sinai
 ---
 
 # Mount Sinai

@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Faith in Jesus Christ
 topic-status: seeded
+sg-id: topic:faith
 ---
 
 # Faith

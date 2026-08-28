@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Nephite ocean crossing
+sg-id: event:voyage-to-the-promised-land
 ---
 
 # Voyage to the promised land

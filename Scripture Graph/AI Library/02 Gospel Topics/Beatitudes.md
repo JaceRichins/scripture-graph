@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Sermon on the Mount
 topic-status: seeded
+sg-id: topic:beatitudes
 ---
 
 # Beatitudes

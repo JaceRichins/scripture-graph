@@ -10,6 +10,7 @@ evidence_strength: 0.97
 study_relevance: 0.95
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:direct-canonical-reuse-and-reception-history-in-exodus-3
 ---
 
 # Direct Canonical Reuse And Reception History in Exodus 3

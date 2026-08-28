@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Calvary
+sg-id: place:golgotha
 ---
 
 # Golgotha

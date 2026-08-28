@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.93
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-narrative-evidence-in-leviticus-24
 ---
 
 # Internal Narrative Evidence in Leviticus 24

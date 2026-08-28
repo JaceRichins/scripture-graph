@@ -4,6 +4,7 @@ mutable: ai
 content_type: place
 cssclasses:
 - sg-place
+sg-id: place:valley-of-lemuel
 ---
 
 # Valley of Lemuel

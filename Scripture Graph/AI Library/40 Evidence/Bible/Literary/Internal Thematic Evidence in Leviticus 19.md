@@ -10,6 +10,7 @@ evidence_strength: 0.88
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-thematic-evidence-in-leviticus-19
 ---
 
 # Internal Thematic Evidence in Leviticus 19

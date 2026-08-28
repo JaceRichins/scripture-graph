@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Pride Cycle
 topic-status: seeded
+sg-id: topic:pride
 ---
 
 # Pride

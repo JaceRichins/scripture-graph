@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Akedah
+sg-id: event:binding-of-isaac
 ---
 
 # Binding of Isaac

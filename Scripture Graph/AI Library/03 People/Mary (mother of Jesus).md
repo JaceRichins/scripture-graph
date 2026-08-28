@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Mary
+sg-id: person:mary-mother-of-jesus
 ---
 
 # Mary (mother of Jesus)

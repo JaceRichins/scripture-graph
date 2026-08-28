@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Cyrus decree
+sg-id: event:return-from-exile
 ---
 
 # Return from exile

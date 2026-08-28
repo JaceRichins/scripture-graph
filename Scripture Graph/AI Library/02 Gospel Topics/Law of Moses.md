@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Mosaic Law
 topic-status: seeded
+sg-id: topic:law-of-moses
 ---
 
 # Law of Moses

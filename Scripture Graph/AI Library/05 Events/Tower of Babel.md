@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:tower-of-babel
 ---
 
 # Tower of Babel

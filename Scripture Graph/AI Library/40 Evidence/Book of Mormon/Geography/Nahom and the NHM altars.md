@@ -8,7 +8,9 @@ evidence_strength: 0.5
 study_relevance: 0.8
 source_quality: 0.7
 consensus_status: believing scholarship
+sg-id: evidence:nahom-and-the-nhm-altars
 ---
+
 # Nahom and the NHM altars
 
 > [!evidence] The observation

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Michael
+sg-id: person:adam
 ---
 
 # Adam

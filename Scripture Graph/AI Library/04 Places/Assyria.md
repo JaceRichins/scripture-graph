@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Nineveh
+sg-id: place:assyria
 ---
 
 # Assyria

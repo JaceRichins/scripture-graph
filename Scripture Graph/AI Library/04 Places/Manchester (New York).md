@@ -4,6 +4,7 @@ mutable: ai
 content_type: place
 cssclasses:
 - sg-place
+sg-id: place:manchester-new-york
 ---
 
 # Manchester (New York)

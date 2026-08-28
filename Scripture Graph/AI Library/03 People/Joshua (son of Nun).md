@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Joshua
+sg-id: person:joshua-son-of-nun
 ---
 
 # Joshua (son of Nun)

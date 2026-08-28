@@ -10,6 +10,7 @@ evidence_strength: 0.84
 study_relevance: 0.91
 source_quality: 0.88
 consensus_status: broadly accepted
+sg-id: evidence:epigraphic-administrative-evidence-in-2-kings-24
 ---
 
 # Epigraphic Administrative Evidence in 2 Kings 24

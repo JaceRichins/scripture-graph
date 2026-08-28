@@ -8,6 +8,7 @@ aliases:
 - Twelve Apostles
 - Quorum of the Twelve
 topic-status: seeded
+sg-id: topic:apostles
 ---
 
 # Apostles

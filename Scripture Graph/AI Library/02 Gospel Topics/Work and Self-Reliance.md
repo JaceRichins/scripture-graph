@@ -8,6 +8,7 @@ aliases:
 - Self-Reliance
 - Work
 topic-status: seeded
+sg-id: topic:work-and-self-reliance
 ---
 
 # Work and Self-Reliance

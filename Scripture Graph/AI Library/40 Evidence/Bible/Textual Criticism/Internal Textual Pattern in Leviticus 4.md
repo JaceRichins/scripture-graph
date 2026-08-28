@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.96
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-textual-pattern-in-leviticus-4
 ---
 
 # Internal Textual Pattern in Leviticus 4

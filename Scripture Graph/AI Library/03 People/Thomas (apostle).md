@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Thomas
+sg-id: person:thomas-apostle
 ---
 
 # Thomas (apostle)

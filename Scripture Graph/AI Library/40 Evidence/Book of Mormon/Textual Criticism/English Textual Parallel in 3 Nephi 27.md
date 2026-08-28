@@ -10,6 +10,7 @@ evidence_strength: 0.98
 study_relevance: 0.9
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:english-textual-parallel-in-3-nephi-27
 ---
 
 # English Textual Parallel in 3 Nephi 27

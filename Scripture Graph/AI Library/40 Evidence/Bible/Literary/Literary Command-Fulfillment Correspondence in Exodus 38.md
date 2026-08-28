@@ -10,6 +10,7 @@ evidence_strength: 0.91
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-command-fulfillment-correspondence-in-exodus-38
 ---
 
 # Literary Command-Fulfillment Correspondence in Exodus 38

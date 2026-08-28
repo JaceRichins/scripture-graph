@@ -8,6 +8,7 @@ aliases:
 - Pre-earth Life
 - Council in Heaven
 topic-status: seeded
+sg-id: topic:premortal-life
 ---
 
 # Premortal Life

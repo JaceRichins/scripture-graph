@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Two thousand sons of Helaman
+sg-id: event:stripling-warriors-preserved
 ---
 
 # Stripling warriors preserved

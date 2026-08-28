@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Gadianton Robbers
 topic-status: seeded
+sg-id: topic:secret-combinations
 ---
 
 # Secret Combinations

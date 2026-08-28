@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:sermon-on-the-mount
 ---
 
 # Sermon on the Mount

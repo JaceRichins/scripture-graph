@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Enos
+sg-id: person:enos-son-of-jacob
 ---
 
 # Enos (son of Jacob)

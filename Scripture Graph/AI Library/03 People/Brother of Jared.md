@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Mahonri Moriancumer
+sg-id: person:brother-of-jared
 ---
 
 # Brother of Jared

@@ -10,6 +10,7 @@ evidence_strength: 0.75
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-contrast-in-2-chronicles-28
 ---
 
 # Internal Literary Contrast in 2 Chronicles 28

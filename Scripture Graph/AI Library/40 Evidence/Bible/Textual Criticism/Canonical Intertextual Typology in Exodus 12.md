@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:canonical-intertextual-typology-in-exodus-12
 ---
 
 # Canonical Intertextual Typology in Exodus 12

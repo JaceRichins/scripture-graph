@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-numerical-coherence-in-exodus-38
 ---
 
 # Internal Numerical Coherence in Exodus 38

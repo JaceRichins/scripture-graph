@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Wickedness
 topic-status: seeded
+sg-id: topic:sin
 ---
 
 # Sin

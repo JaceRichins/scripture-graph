@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Hyrum
+sg-id: person:hyrum-smith
 ---
 
 # Hyrum Smith

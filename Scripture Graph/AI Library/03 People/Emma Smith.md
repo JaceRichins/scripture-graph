@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Emma Hale Smith
+sg-id: person:emma-smith
 ---
 
 # Emma Smith

@@ -8,6 +8,7 @@ aliases:
 - Atonement
 - Atonement of Christ
 topic-status: seeded
+sg-id: topic:atonement-of-jesus-christ
 ---
 
 # Atonement of Jesus Christ

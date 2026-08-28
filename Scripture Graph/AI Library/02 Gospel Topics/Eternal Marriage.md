@@ -8,6 +8,7 @@ aliases:
 - Celestial Marriage
 - Sealing
 topic-status: seeded
+sg-id: topic:eternal-marriage
 ---
 
 # Eternal Marriage

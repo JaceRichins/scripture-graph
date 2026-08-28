@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Susquehanna
+sg-id: place:susquehanna-river
 ---
 
 # Susquehanna River

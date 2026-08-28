@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:anti-nephi-lehi
 ---
 
 # Anti-Nephi-Lehi

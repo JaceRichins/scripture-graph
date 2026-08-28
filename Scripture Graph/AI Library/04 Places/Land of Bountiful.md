@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Bountiful
+sg-id: place:land-of-bountiful
 ---
 
 # Land of Bountiful

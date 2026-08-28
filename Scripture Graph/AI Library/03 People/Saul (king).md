@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Saul
+sg-id: person:saul-king
 ---
 
 # Saul (king)

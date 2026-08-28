@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Job
+sg-id: person:job-patriarch
 ---
 
 # Job (patriarch)

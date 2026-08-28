@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Sabbath
 topic-status: seeded
+sg-id: topic:sabbath-day
 ---
 
 # Sabbath Day

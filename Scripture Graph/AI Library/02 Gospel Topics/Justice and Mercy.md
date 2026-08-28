@@ -8,6 +8,7 @@ aliases:
 - Justice
 - Mercy
 topic-status: seeded
+sg-id: topic:justice-and-mercy
 ---
 
 # Justice and Mercy

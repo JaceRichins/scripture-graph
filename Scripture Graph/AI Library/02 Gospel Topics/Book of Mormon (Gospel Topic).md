@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Book of Mormon translation
 topic-status: seeded
+sg-id: topic:book-of-mormon-gospel-topic
 ---
 
 # Book of Mormon (Gospel Topic)

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Oliver
+sg-id: person:oliver-cowdery
 ---
 
 # Oliver Cowdery

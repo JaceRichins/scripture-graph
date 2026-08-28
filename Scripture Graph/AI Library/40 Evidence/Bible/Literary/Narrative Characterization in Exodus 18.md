@@ -10,6 +10,7 @@ evidence_strength: 0.91
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:narrative-characterization-in-exodus-18
 ---
 
 # Narrative Characterization in Exodus 18

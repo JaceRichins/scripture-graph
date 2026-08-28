@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Personal Revelation
 topic-status: seeded
+sg-id: topic:revelation
 ---
 
 # Revelation

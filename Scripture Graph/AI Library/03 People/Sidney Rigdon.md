@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Sidney
+sg-id: person:sidney-rigdon
 ---
 
 # Sidney Rigdon

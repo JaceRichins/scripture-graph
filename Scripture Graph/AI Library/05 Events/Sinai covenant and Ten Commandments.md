@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Giving of the Law
+sg-id: event:sinai-covenant-and-ten-commandments
 ---
 
 # Sinai covenant and Ten Commandments

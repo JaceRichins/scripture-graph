@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Lost Ten Tribes taken
+sg-id: event:assyrian-captivity-of-israel
 ---
 
 # Assyrian captivity of Israel

@@ -10,6 +10,7 @@ evidence_strength: 0.84
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:scriptural-intertextuality-in-d-c-42
 ---
 
 # Scriptural Intertextuality in D&C 42

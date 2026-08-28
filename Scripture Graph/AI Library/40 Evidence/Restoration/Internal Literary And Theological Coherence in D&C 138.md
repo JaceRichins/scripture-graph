@@ -10,6 +10,7 @@ evidence_strength: 0.84
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-and-theological-coherence-in-d-c-138
 ---
 
 # Internal Literary And Theological Coherence in D&C 138

@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Joseph Smith's First Vision
+sg-id: event:the-first-vision
 ---
 
 # The First Vision

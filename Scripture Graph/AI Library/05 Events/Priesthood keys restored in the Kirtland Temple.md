@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Appearance of Moses, Elias, and Elijah
+sg-id: event:priesthood-keys-restored-in-the-kirtland-temple
 ---
 
 # Priesthood keys restored in the Kirtland Temple

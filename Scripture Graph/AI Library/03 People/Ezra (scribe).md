@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Ezra
+sg-id: person:ezra-scribe
 ---
 
 # Ezra (scribe)

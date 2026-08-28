@@ -8,7 +8,9 @@ evidence_strength: 0.8
 study_relevance: 0.85
 source_quality: 0.95
 consensus_status: broadly accepted
+sg-id: evidence:dead-sea-scrolls-and-old-testament-reliability
 ---
+
 # Dead Sea Scrolls and Old Testament reliability
 
 > [!textual] The observation

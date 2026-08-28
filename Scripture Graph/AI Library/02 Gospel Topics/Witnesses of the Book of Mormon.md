@@ -8,6 +8,7 @@ aliases:
 - Three Witnesses
 - Eight Witnesses
 topic-status: seeded
+sg-id: topic:witnesses-of-the-book-of-mormon
 ---
 
 # Witnesses of the Book of Mormon

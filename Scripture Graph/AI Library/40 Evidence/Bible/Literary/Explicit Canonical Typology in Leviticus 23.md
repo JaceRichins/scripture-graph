@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:explicit-canonical-typology-in-leviticus-23
 ---
 
 # Explicit Canonical Typology in Leviticus 23

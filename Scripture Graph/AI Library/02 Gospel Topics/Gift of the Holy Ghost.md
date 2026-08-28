@@ -8,6 +8,7 @@ aliases:
 - Holy Ghost
 - Holy Spirit
 topic-status: seeded
+sg-id: topic:gift-of-the-holy-ghost
 ---
 
 # Gift of the Holy Ghost

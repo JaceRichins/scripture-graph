@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Carthage Jail
+sg-id: place:carthage
 ---
 
 # Carthage

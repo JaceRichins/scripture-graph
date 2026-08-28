@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Lamoni
+sg-id: person:king-lamoni
 ---
 
 # King Lamoni

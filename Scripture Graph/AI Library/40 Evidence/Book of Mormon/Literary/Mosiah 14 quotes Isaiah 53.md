@@ -8,7 +8,9 @@ evidence_strength: 0.35
 study_relevance: 0.85
 source_quality: 0.9
 consensus_status: broadly accepted
+sg-id: evidence:mosiah-14-quotes-isaiah-53
 ---
+
 # Mosiah 14 quotes Isaiah 53
 
 > [!textual] The observation

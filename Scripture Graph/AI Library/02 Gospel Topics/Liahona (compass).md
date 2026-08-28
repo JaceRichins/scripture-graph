@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Liahona
 topic-status: seeded
+sg-id: topic:liahona-compass
 ---
 
 # Liahona (compass)

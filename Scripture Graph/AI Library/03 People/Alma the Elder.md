@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:alma-the-elder
 ---
 
 # Alma the Elder

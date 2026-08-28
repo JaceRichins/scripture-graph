@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Judaea
+sg-id: place:judea
 ---
 
 # Judea

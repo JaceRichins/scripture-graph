@@ -13,6 +13,7 @@ aliases:
 - Son of God
 - Jehovah
 - Only Begotten
+sg-id: person:jesus-christ
 ---
 
 # Jesus Christ

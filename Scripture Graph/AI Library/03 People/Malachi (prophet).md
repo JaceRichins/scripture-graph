@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Malachi
+sg-id: person:malachi-prophet
 ---
 
 # Malachi (prophet)

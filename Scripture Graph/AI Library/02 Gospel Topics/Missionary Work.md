@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Preaching the Gospel
 topic-status: seeded
+sg-id: topic:missionary-work
 ---
 
 # Missionary Work

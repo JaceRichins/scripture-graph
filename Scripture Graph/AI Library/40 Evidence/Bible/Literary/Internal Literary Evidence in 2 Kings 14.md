@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-literary-evidence-in-2-kings-14
 ---
 
 # Internal Literary Evidence in 2 Kings 14

@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Harmony
+sg-id: place:harmony-pennsylvania
 ---
 
 # Harmony (Pennsylvania)

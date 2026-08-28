@@ -10,6 +10,7 @@ evidence_strength: 0.92
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-pattern-in-exodus-40
 ---
 
 # Internal Literary Pattern in Exodus 40

@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Fast Offerings
 topic-status: seeded
+sg-id: topic:fasting
 ---
 
 # Fasting

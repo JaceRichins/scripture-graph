@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:lehis-departure-from-jerusalem
 ---
 
 # Lehi's departure from Jerusalem

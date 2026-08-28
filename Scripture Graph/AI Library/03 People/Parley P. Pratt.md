@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Parley Pratt
+sg-id: person:parley-p-pratt
 ---
 
 # Parley P. Pratt

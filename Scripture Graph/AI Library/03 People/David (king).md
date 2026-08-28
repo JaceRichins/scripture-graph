@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - David
+sg-id: person:david-king
 ---
 
 # David (king)

@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Gifts of the Spirit
 topic-status: seeded
+sg-id: topic:spiritual-gifts
 ---
 
 # Spiritual Gifts

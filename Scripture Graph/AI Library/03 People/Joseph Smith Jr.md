@@ -8,6 +8,7 @@ aliases:
 - Joseph Smith
 - Joseph Smith Jr.
 - the Prophet Joseph
+sg-id: person:joseph-smith-jr
 ---
 
 # Joseph Smith Jr

@@ -10,6 +10,7 @@ evidence_strength: 0.87
 study_relevance: 0.93
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:canonical-narrative-foreshadowing-and-fulfillment-in-exodus-3
 ---
 
 # Canonical Narrative Foreshadowing And Fulfillment in Exodus 3

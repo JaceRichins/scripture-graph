@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Second Coming
 topic-status: seeded
+sg-id: topic:second-coming-of-jesus-christ
 ---
 
 # Second Coming of Jesus Christ

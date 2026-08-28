@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Crossing the Jordan
+sg-id: event:entry-into-the-promised-land
 ---
 
 # Entry into the Promised Land

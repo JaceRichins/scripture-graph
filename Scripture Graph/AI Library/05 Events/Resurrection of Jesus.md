@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - The Resurrection
 - Empty tomb
+sg-id: event:resurrection-of-jesus
 ---
 
 # Resurrection of Jesus

@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Salt Lake City
+sg-id: place:salt-lake-valley
 ---
 
 # Salt Lake Valley

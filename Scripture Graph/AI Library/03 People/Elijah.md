@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Elias the prophet
+sg-id: person:elijah
 ---
 
 # Elijah

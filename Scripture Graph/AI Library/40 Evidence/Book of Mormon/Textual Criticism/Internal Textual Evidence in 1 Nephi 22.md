@@ -10,6 +10,7 @@ evidence_strength: 0.93
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-textual-evidence-in-1-nephi-22
 ---
 
 # Internal Textual Evidence in 1 Nephi 22

@@ -10,6 +10,7 @@ evidence_strength: 0.52
 study_relevance: 0.9
 source_quality: 0.95
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:intertextual-prophetic-coherence-in-jeremiah-52
 ---
 
 # Intertextual Prophetic Coherence in Jeremiah 52

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Joseph
+sg-id: person:joseph-of-egypt
 ---
 
 # Joseph (of Egypt)

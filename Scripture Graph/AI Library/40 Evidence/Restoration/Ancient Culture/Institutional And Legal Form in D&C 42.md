@@ -10,6 +10,7 @@ evidence_strength: 0.93
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:institutional-and-legal-form-in-d-c-42
 ---
 
 # Institutional And Legal Form in D&C 42

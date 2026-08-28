@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:laban-keeper-of-the-plates
 ---
 
 # Laban (keeper of the plates)

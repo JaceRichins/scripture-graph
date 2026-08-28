@@ -8,7 +8,9 @@ evidence_strength: 0.55
 study_relevance: 0.9
 source_quality: 0.75
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:chiasmus-in-alma-36
 ---
+
 # Chiasmus in Alma 36
 
 > [!evidence] The observation

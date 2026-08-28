@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Forgiveness
 topic-status: seeded
+sg-id: topic:repentance-and-forgiveness
 ---
 
 # Repentance and Forgiveness

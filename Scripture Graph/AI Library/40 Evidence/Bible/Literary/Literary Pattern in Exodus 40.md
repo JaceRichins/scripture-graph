@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:literary-pattern-in-exodus-40
 ---
 
 # Literary Pattern in Exodus 40

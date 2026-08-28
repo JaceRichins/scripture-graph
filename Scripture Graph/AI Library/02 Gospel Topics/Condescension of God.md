@@ -5,6 +5,7 @@ content_type: topic
 cssclasses:
 - sg-topic
 topic-status: seeded
+sg-id: topic:condescension-of-god
 ---
 
 # Condescension of God

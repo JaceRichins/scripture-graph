@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Ezekiel
+sg-id: person:ezekiel-prophet
 ---
 
 # Ezekiel (prophet)

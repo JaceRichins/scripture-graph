@@ -5,6 +5,7 @@ content_type: topic
 cssclasses:
 - sg-topic
 topic-status: seeded
+sg-id: topic:sermon-at-the-temple-3-nephi
 ---
 
 # Sermon at the Temple (3 Nephi)

@@ -10,6 +10,7 @@ evidence_strength: 0.96
 study_relevance: 0.95
 source_quality: 0.99
 consensus_status: broadly accepted
+sg-id: evidence:extended-textual-parallel-in-jeremiah-52
 ---
 
 # Extended Textual Parallel in Jeremiah 52

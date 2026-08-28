@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:canonical-intertextuality-in-exodus-12
 ---
 
 # Canonical Intertextuality in Exodus 12

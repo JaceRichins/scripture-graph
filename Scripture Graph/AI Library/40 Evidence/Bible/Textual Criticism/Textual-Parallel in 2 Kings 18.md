@@ -10,6 +10,7 @@ evidence_strength: 0.98
 study_relevance: 0.95
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:textual-parallel-in-2-kings-18
 ---
 
 # Textual-Parallel in 2 Kings 18

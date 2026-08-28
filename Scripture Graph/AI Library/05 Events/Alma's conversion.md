@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Conversion of Alma the Younger
+sg-id: event:almas-conversion
 ---
 
 # Alma's conversion

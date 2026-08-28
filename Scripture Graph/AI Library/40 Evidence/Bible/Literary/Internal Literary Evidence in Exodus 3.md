@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.97
 source_quality: 1
 consensus_status: broadly accepted
+sg-id: evidence:internal-literary-evidence-in-exodus-3
 ---
 
 # Internal Literary Evidence in Exodus 3

@@ -10,6 +10,7 @@ evidence_strength: 0.88
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:literary-organization-in-leviticus-23
 ---
 
 # Literary Organization in Leviticus 23

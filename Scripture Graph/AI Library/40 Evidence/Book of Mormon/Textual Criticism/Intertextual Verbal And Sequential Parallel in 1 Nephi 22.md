@@ -10,6 +10,7 @@ evidence_strength: 0.91
 study_relevance: 0.92
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:intertextual-verbal-and-sequential-parallel-in-1-nephi-22
 ---
 
 # Intertextual Verbal And Sequential Parallel in 1 Nephi 22

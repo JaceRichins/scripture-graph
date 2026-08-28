@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Church organized April 6 1830
+sg-id: event:organization-of-the-church
 ---
 
 # Organization of the Church

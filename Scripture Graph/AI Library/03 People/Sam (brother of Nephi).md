@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Sam
+sg-id: person:sam-brother-of-nephi
 ---
 
 # Sam (brother of Nephi)

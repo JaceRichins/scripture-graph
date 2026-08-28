@@ -8,6 +8,7 @@ aliases:
 - Spirit World
 - Death
 topic-status: seeded
+sg-id: topic:death-and-the-spirit-world
 ---
 
 # Death and the Spirit World

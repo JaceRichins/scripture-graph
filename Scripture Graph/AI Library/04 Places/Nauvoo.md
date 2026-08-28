@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Commerce
+sg-id: place:nauvoo
 ---
 
 # Nauvoo

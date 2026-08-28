@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:jude-brother-of-james
 ---
 
 # Jude (brother of James)

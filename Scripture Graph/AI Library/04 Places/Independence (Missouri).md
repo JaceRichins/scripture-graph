@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Independence
+sg-id: place:independence-missouri
 ---
 
 # Independence (Missouri)

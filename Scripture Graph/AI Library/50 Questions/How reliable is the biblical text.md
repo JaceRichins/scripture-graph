@@ -3,7 +3,9 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
+sg-id: question:how-reliable-is-the-biblical-text
 ---
+
 # How reliable is the biblical text?
 
 ## Concise answer

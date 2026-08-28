@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Noah
+sg-id: person:noah-patriarch
 ---
 
 # Noah (patriarch)

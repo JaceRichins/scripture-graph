@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Martin
+sg-id: person:martin-harris
 ---
 
 # Martin Harris

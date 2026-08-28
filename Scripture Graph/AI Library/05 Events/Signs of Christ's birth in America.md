@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:signs-of-christs-birth-in-america
 ---
 
 # Signs of Christ's birth in America

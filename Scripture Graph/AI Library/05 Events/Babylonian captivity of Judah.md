@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Destruction of Jerusalem 587 BC
+sg-id: event:babylonian-captivity-of-judah
 ---
 
 # Babylonian captivity of Judah

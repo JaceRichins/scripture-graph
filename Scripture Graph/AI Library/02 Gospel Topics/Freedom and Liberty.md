@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Liberty
 topic-status: seeded
+sg-id: topic:freedom-and-liberty
 ---
 
 # Freedom and Liberty

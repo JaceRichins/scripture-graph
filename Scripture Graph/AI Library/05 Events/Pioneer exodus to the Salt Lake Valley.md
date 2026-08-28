@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Mormon pioneer trek
+sg-id: event:pioneer-exodus-to-the-salt-lake-valley
 ---
 
 # Pioneer exodus to the Salt Lake Valley

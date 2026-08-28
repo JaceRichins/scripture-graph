@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - The Crucifixion
+sg-id: event:crucifixion-of-jesus
 ---
 
 # Crucifixion of Jesus

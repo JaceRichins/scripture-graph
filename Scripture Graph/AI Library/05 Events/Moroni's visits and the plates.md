@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Angel Moroni's visits
+sg-id: event:moronis-visits-and-the-plates
 ---
 
 # Moroni's visits and the plates

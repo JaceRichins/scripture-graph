@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:joseph-sold-into-egypt
 ---
 
 # Joseph sold into Egypt

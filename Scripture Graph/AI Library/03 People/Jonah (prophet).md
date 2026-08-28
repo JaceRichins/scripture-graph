@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Jonah
+sg-id: person:jonah-prophet
 ---
 
 # Jonah (prophet)

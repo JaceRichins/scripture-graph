@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Scriptures
 topic-status: seeded
+sg-id: topic:scripture-study
 ---
 
 # Scripture Study

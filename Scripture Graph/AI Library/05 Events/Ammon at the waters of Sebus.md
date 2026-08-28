@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:ammon-at-the-waters-of-sebus
 ---
 
 # Ammon at the waters of Sebus

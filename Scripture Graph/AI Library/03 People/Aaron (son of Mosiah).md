@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:aaron-son-of-mosiah
 ---
 
 # Aaron (son of Mosiah)

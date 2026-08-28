@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Esther
 - Hadassah
+sg-id: person:esther-queen
 ---
 
 # Esther (queen)

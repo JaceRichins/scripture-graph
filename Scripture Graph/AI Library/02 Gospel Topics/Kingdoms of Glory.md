@@ -10,6 +10,7 @@ aliases:
 - Terrestrial Kingdom
 - Telestial Kingdom
 topic-status: seeded
+sg-id: topic:kingdoms-of-glory
 ---
 
 # Kingdoms of Glory

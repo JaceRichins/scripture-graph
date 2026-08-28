@@ -10,6 +10,7 @@ evidence_strength: 0.79
 study_relevance: 0.97
 source_quality: 0.89
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:hebrew-lexical-and-literary-evidence-in-exodus-3
 ---
 
 # Hebrew Lexical And Literary Evidence in Exodus 3

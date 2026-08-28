@@ -10,6 +10,7 @@ evidence_strength: 0.78
 study_relevance: 0.95
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:narrative-sequence-in-exodus-16
 ---
 
 # Narrative-Sequence in Exodus 16

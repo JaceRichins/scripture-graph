@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Ruth
+sg-id: person:ruth-moabite
 ---
 
 # Ruth (Moabite)

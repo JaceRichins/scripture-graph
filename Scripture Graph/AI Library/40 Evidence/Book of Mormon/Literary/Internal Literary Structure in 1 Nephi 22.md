@@ -10,6 +10,7 @@ evidence_strength: 0.83
 study_relevance: 0.91
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-literary-structure-in-1-nephi-22
 ---
 
 # Internal Literary Structure in 1 Nephi 22

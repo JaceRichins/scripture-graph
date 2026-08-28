@@ -8,6 +8,7 @@ aliases:
 - The Gospel
 - Doctrine of Christ
 topic-status: seeded
+sg-id: topic:gospel-of-jesus-christ
 ---
 
 # Gospel of Jesus Christ

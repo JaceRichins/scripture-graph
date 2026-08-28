@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:moroni-son-of-mormon
 ---
 
 # Moroni (son of Mormon)

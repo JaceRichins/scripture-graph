@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:translation-of-the-book-of-mormon
 ---
 
 # Translation of the Book of Mormon

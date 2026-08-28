@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Decalogue
 topic-status: seeded
+sg-id: topic:ten-commandments
 ---
 
 # Ten Commandments

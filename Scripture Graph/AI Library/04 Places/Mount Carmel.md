@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Carmel
+sg-id: place:mount-carmel
 ---
 
 # Mount Carmel

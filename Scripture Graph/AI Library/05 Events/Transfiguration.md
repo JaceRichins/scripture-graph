@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Mount of Transfiguration
+sg-id: event:transfiguration
 ---
 
 # Transfiguration

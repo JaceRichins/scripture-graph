@@ -10,6 +10,7 @@ evidence_strength: 0.96
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:explicit-scriptural-intertextuality-in-d-c-138
 ---
 
 # Explicit Scriptural Intertextuality in D&C 138

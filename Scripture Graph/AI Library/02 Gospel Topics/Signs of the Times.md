@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Last Days
 topic-status: seeded
+sg-id: topic:signs-of-the-times
 ---
 
 # Signs of the Times

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Benjamin
+sg-id: person:king-benjamin
 ---
 
 # King Benjamin

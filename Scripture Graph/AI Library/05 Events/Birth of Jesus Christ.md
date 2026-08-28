@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - The Nativity
+sg-id: event:birth-of-jesus-christ
 ---
 
 # Birth of Jesus Christ

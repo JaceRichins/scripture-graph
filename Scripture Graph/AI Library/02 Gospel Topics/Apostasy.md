@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Great Apostasy
 topic-status: seeded
+sg-id: topic:apostasy
 ---
 
 # Apostasy

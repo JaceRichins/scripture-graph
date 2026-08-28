@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Spirit of Prophecy
 topic-status: seeded
+sg-id: topic:prophecy
 ---
 
 # Prophecy

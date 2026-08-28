@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - The Fall
+sg-id: event:the-fall-of-adam-and-eve
 ---
 
 # The Fall of Adam and Eve

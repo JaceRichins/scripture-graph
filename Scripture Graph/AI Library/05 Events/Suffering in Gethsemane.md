@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Agony in the garden
+sg-id: event:suffering-in-gethsemane
 ---
 
 # Suffering in Gethsemane

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Joseph Smith Sr.
+sg-id: person:joseph-smith-sr
 ---
 
 # Joseph Smith Sr

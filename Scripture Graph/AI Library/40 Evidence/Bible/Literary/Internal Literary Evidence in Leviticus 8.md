@@ -10,6 +10,7 @@ evidence_strength: 0.91
 study_relevance: 0.95
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-evidence-in-leviticus-8
 ---
 
 # Internal Literary Evidence in Leviticus 8

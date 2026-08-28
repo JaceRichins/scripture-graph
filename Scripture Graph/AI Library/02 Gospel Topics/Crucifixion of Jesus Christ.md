@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Crucifixion
 topic-status: seeded
+sg-id: topic:crucifixion-of-jesus-christ
 ---
 
 # Crucifixion of Jesus Christ

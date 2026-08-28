@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Hill Cumorah
 - Ramah
+sg-id: place:cumorah
 ---
 
 # Cumorah

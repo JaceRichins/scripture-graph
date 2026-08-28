@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Jordan
+sg-id: place:jordan-river
 ---
 
 # Jordan River

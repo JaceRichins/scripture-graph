@@ -10,6 +10,7 @@ evidence_strength: 0.85
 study_relevance: 0.93
 source_quality: 0.99
 consensus_status: broadly accepted
+sg-id: evidence:legal-intertext-in-2-kings-14
 ---
 
 # Legal Intertext in 2 Kings 14

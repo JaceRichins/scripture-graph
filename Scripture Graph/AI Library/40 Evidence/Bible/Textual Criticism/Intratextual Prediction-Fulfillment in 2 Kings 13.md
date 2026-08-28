@@ -10,6 +10,7 @@ evidence_strength: 0.96
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:intratextual-prediction-fulfillment-in-2-kings-13
 ---
 
 # Intratextual Prediction-Fulfillment in 2 Kings 13

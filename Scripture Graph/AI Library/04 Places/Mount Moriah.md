@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Moriah
+sg-id: place:mount-moriah
 ---
 
 # Mount Moriah

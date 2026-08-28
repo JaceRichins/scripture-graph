@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Sea of Galilee
+sg-id: place:galilee
 ---
 
 # Galilee

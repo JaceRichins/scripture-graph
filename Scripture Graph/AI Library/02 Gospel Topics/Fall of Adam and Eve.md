@@ -8,6 +8,7 @@ aliases:
 - The Fall
 - Fall of Adam
 topic-status: seeded
+sg-id: topic:fall-of-adam-and-eve
 ---
 
 # Fall of Adam and Eve

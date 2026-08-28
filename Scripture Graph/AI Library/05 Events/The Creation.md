@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Creation of the world
+sg-id: event:the-creation
 ---
 
 # The Creation

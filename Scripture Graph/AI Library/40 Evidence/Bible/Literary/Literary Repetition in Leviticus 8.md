@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.95
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-repetition-in-leviticus-8
 ---
 
 # Literary Repetition in Leviticus 8

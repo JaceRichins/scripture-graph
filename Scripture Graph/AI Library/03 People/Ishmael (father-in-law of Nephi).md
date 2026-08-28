@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Ishmael
+sg-id: person:ishmael-father-in-law-of-nephi
 ---
 
 # Ishmael (father-in-law of Nephi)

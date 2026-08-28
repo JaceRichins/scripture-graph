@@ -10,6 +10,7 @@ evidence_strength: 0.93
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:narrative-and-organizational-in-exodus-18
 ---
 
 # Narrative And Organizational in Exodus 18

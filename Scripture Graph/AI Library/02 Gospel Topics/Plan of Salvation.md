@@ -8,6 +8,7 @@ aliases:
 - Plan of Happiness
 - Plan of Redemption
 topic-status: seeded
+sg-id: topic:plan-of-salvation
 ---
 
 # Plan of Salvation

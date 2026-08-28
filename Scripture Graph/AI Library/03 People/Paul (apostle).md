@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Paul
 - Saul of Tarsus
+sg-id: person:paul-apostle
 ---
 
 # Paul (apostle)

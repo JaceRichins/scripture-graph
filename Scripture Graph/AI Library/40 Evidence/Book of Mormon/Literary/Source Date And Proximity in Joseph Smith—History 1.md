@@ -10,6 +10,7 @@ evidence_strength: 0.88
 study_relevance: 1.0
 source_quality: 0.9
 consensus_status: broadly accepted
+sg-id: evidence:source-date-and-proximity-in-joseph-smith-history-1
 ---
 
 # Source Date And Proximity in Joseph Smith—History 1

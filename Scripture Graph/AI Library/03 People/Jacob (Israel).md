@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Israel
+sg-id: person:jacob-israel
 ---
 
 # Jacob (Israel)

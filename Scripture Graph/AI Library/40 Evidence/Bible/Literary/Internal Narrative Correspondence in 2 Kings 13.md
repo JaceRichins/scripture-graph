@@ -10,6 +10,7 @@ evidence_strength: 0.96
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-narrative-correspondence-in-2-kings-13
 ---
 
 # Internal Narrative Correspondence in 2 Kings 13

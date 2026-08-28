@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Zedekiah
+sg-id: person:king-zedekiah
 ---
 
 # King Zedekiah

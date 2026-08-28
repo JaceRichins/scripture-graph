@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Lucifer
 - the devil
+sg-id: person:satan
 ---
 
 # Satan

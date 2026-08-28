@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Gideon
+sg-id: person:gideon-judge
 ---
 
 # Gideon (judge)

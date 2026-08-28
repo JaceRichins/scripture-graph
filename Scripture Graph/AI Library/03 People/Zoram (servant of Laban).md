@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Zoram
+sg-id: person:zoram-servant-of-laban
 ---
 
 # Zoram (servant of Laban)

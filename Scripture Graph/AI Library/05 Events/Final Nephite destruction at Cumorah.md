@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Battle of Cumorah
+sg-id: event:final-nephite-destruction-at-cumorah
 ---
 
 # Final Nephite destruction at Cumorah

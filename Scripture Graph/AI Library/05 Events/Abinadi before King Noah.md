@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Martyrdom of Abinadi
+sg-id: event:abinadi-before-king-noah
 ---
 
 # Abinadi before King Noah

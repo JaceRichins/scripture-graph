@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-numerical-consistency-in-numbers-3
 ---
 
 # Internal Numerical Consistency in Numbers 3

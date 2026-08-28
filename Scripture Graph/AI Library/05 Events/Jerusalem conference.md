@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Council at Jerusalem
+sg-id: event:jerusalem-conference
 ---
 
 # Jerusalem conference

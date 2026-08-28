@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Thanksgiving
 topic-status: seeded
+sg-id: topic:gratitude
 ---
 
 # Gratitude

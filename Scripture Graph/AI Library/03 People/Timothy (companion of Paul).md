@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Timothy
 - Timotheus
+sg-id: person:timothy-companion-of-paul
 ---
 
 # Timothy (companion of Paul)

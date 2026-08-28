@@ -5,6 +5,7 @@ content_type: topic
 cssclasses:
 - sg-topic
 topic-status: seeded
+sg-id: topic:book-of-mormon-geography
 ---
 
 # Book of Mormon Geography

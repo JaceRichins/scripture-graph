@@ -10,6 +10,7 @@ evidence_strength: 0.94
 study_relevance: 0.98
 source_quality: 0.99
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-intertextuality-in-3-nephi-20
 ---
 
 # Literary Intertextuality in 3 Nephi 20

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - William W. Phelps
+sg-id: person:w-w-phelps
 ---
 
 # W. W. Phelps

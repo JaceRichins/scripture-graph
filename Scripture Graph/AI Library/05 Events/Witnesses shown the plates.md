@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Three Witnesses experience
+sg-id: event:witnesses-shown-the-plates
 ---
 
 # Witnesses shown the plates

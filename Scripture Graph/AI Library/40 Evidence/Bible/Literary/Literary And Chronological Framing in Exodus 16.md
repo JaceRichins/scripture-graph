@@ -10,6 +10,7 @@ evidence_strength: 0.7
 study_relevance: 0.87
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-and-chronological-framing-in-exodus-16
 ---
 
 # Literary And Chronological Framing in Exodus 16

@@ -10,6 +10,7 @@ evidence_strength: 0.86
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:repetition-and-narrative-irony-in-2-chronicles-28
 ---
 
 # Repetition And Narrative Irony in 2 Chronicles 28

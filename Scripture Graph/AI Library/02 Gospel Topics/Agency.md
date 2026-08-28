@@ -8,6 +8,7 @@ aliases:
 - Moral Agency
 - Free Agency
 topic-status: seeded
+sg-id: topic:agency
 ---
 
 # Agency

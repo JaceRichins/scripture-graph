@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Levi the publican
+sg-id: person:matthew-apostle
 ---
 
 # Matthew (apostle)

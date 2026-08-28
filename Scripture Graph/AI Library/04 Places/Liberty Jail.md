@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Liberty
+sg-id: place:liberty-jail
 ---
 
 # Liberty Jail

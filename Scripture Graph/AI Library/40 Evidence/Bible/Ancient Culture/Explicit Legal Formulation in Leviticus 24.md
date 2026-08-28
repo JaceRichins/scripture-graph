@@ -10,6 +10,7 @@ evidence_strength: 0.98
 study_relevance: 0.97
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:explicit-legal-formulation-in-leviticus-24
 ---
 
 # Explicit Legal Formulation in Leviticus 24

@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:destruction-at-christs-death-in-america
 ---
 
 # Destruction at Christ's death in America

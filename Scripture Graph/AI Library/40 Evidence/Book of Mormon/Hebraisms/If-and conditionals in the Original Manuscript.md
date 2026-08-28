@@ -8,7 +8,9 @@ evidence_strength: 0.5
 study_relevance: 0.7
 source_quality: 0.85
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:if-and-conditionals-in-the-original-manuscript
 ---
+
 # If-and conditionals in the Original Manuscript
 
 > [!language] The observation

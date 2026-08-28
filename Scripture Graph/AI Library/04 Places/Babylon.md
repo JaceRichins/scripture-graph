@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Babel
+sg-id: place:babylon
 ---
 
 # Babylon

@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Lehi
+sg-id: person:lehi-father-of-nephi
 ---
 
 # Lehi (father of Nephi)

@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-literary-pattern-in-leviticus-19
 ---
 
 # Internal Literary Pattern in Leviticus 19

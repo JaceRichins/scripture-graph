@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Pontius Pilate
+sg-id: person:pilate
 ---
 
 # Pilate

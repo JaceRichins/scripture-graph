@@ -10,6 +10,7 @@ evidence_strength: 0.93
 study_relevance: 0.92
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-literary-evidence-in-exodus-38
 ---
 
 # Internal Literary Evidence in Exodus 38

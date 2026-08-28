@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Tithes
 topic-status: seeded
+sg-id: topic:tithing
 ---
 
 # Tithing

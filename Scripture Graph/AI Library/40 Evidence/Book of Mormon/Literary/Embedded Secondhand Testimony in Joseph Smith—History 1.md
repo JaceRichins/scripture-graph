@@ -10,6 +10,7 @@ evidence_strength: 0.78
 study_relevance: 0.96
 source_quality: 0.84
 consensus_status: broadly accepted
+sg-id: evidence:embedded-secondhand-testimony-in-joseph-smith-history-1
 ---
 
 # Embedded Secondhand Testimony in Joseph Smith—History 1

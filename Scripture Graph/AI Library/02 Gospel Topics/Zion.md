@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - New Jerusalem
 topic-status: seeded
+sg-id: topic:zion
 ---
 
 # Zion

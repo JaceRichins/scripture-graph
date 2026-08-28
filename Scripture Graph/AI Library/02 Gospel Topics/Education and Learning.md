@@ -9,6 +9,7 @@ aliases:
 - Knowledge
 - Intelligence
 topic-status: seeded
+sg-id: topic:education-and-learning
 ---
 
 # Education and Learning

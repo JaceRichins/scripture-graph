@@ -10,6 +10,7 @@ evidence_strength: 0.38
 study_relevance: 0.84
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-structure-in-d-c-84
 ---
 
 # Literary Structure in D&C 84

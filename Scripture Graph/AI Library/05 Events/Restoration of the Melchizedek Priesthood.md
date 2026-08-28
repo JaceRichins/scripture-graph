@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Peter, James, and John's visit
+sg-id: event:restoration-of-the-melchizedek-priesthood
 ---
 
 # Restoration of the Melchizedek Priesthood

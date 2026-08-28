@@ -4,6 +4,7 @@ mutable: ai
 content_type: place
 cssclasses:
 - sg-place
+sg-id: place:waters-of-mormon
 ---
 
 # Waters of Mormon

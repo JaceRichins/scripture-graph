@@ -10,6 +10,7 @@ evidence_strength: 0.84
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-and-legal-intertext-in-leviticus-19
 ---
 
 # Literary And Legal Intertext in Leviticus 19

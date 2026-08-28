@@ -8,6 +8,7 @@ aliases:
 - Temptation
 - Adversary
 topic-status: seeded
+sg-id: topic:satan-and-temptation
 ---
 
 # Satan and Temptation

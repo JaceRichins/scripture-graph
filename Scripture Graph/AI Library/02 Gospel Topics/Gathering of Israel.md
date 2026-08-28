@@ -8,6 +8,7 @@ aliases:
 - Gathering
 - House of Israel
 topic-status: seeded
+sg-id: topic:gathering-of-israel
 ---
 
 # Gathering of Israel

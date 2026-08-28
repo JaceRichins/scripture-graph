@@ -10,6 +10,7 @@ evidence_strength: 0.76
 study_relevance: 0.91
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:internal-literary-organization-in-numbers-4
 ---
 
 # Internal Literary Organization in Numbers 4

@@ -8,6 +8,7 @@ aliases:
 - Restoration
 - The Restoration
 topic-status: seeded
+sg-id: topic:restoration-of-the-gospel
 ---
 
 # Restoration of the Gospel

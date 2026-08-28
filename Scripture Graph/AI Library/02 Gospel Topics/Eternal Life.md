@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Exaltation
 topic-status: seeded
+sg-id: topic:eternal-life
 ---
 
 # Eternal Life

@@ -10,6 +10,7 @@ evidence_strength: 0.76
 study_relevance: 0.97
 source_quality: 0.94
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-and-source-critical-evidence-in-exodus-6
 ---
 
 # Literary And Source-Critical Evidence in Exodus 6

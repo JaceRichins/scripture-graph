@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Jonathan
+sg-id: person:jonathan-son-of-saul
 ---
 
 # Jonathan (son of Saul)

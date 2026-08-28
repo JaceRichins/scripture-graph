@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Daniel
+sg-id: person:daniel-prophet
 ---
 
 # Daniel (prophet)

@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - River Sidon
+sg-id: place:sidon
 ---
 
 # Sidon

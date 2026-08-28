@@ -10,6 +10,7 @@ evidence_strength: 0.86
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:predictive-statement-in-d-c-84
 ---
 
 # Predictive Statement in D&C 84

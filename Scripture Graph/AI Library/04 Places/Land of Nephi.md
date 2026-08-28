@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Lehi-Nephi
+sg-id: place:land-of-nephi
 ---
 
 # Land of Nephi

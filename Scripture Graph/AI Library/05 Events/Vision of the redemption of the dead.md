@@ -4,6 +4,7 @@ mutable: ai
 content_type: event
 cssclasses:
 - sg-event
+sg-id: event:vision-of-the-redemption-of-the-dead
 ---
 
 # Vision of the redemption of the dead

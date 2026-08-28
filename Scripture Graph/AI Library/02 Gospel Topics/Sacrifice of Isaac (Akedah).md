@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Akedah
 topic-status: seeded
+sg-id: topic:sacrifice-of-isaac-akedah
 ---
 
 # Sacrifice of Isaac (Akedah)

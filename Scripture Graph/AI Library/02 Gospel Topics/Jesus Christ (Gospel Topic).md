@@ -8,6 +8,7 @@ aliases:
 - Savior
 - Life of Christ
 topic-status: seeded
+sg-id: topic:jesus-christ-gospel-topic
 ---
 
 # Jesus Christ (Gospel Topic)

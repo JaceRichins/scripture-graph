@@ -10,6 +10,7 @@ evidence_strength: 0.88
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:literary-thematic-in-2-kings-18
 ---
 
 # Literary-Thematic in 2 Kings 18

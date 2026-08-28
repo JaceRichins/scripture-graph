@@ -10,6 +10,7 @@ evidence_strength: 0.96
 study_relevance: 0.92
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:explicit-textual-legal-principle-in-leviticus-24
 ---
 
 # Explicit Textual Legal Principle in Leviticus 24

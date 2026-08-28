@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:lehi-son-of-helaman
 ---
 
 # Lehi (son of Helaman)

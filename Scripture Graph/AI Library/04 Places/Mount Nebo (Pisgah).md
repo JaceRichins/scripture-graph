@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Pisgah
+sg-id: place:mount-nebo-pisgah
 ---
 
 # Mount Nebo (Pisgah)

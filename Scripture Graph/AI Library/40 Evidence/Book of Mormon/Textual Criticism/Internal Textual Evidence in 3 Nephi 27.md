@@ -10,6 +10,7 @@ evidence_strength: 0.9
 study_relevance: 0.99
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:internal-textual-evidence-in-3-nephi-27
 ---
 
 # Internal Textual Evidence in 3 Nephi 27

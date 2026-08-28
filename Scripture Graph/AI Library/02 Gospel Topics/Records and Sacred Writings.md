@@ -8,6 +8,7 @@ aliases:
 - Plates
 - Record Keeping
 topic-status: seeded
+sg-id: topic:records-and-sacred-writings
 ---
 
 # Records and Sacred Writings

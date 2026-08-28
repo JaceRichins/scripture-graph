@@ -8,6 +8,7 @@ aliases:
 - Prophet
 - Living Prophets
 topic-status: seeded
+sg-id: topic:prophets
 ---
 
 # Prophets

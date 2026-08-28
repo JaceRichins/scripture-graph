@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Parables
 topic-status: seeded
+sg-id: topic:parables-of-jesus
 ---
 
 # Parables of Jesus

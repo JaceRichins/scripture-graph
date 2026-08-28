@@ -10,6 +10,7 @@ evidence_strength: 0.62
 study_relevance: 0.96
 source_quality: 1
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:historical-demographic-inference-in-numbers-1
 ---
 
 # Historical-Demographic Inference in Numbers 1

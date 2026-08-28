@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Jeremiah
+sg-id: person:jeremiah-prophet
 ---
 
 # Jeremiah (prophet)

@@ -8,6 +8,7 @@ aliases:
 - Care for the Poor
 - Poor and Needy
 topic-status: seeded
+sg-id: topic:fasting-and-prayer-for-the-poor
 ---
 
 # Fasting and Prayer for the Poor

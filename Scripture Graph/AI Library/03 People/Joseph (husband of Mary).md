@@ -4,6 +4,7 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+sg-id: person:joseph-husband-of-mary
 ---
 
 # Joseph (husband of Mary)

@@ -10,6 +10,7 @@ evidence_strength: 0.89
 study_relevance: 0.97
 source_quality: 0.98
 consensus_status: broadly accepted
+sg-id: evidence:canonical-reception-history-in-jeremiah-25
 ---
 
 # Canonical Reception History in Jeremiah 25

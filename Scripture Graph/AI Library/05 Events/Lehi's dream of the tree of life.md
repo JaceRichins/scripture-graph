@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - Vision of the tree of life
+sg-id: event:lehis-dream-of-the-tree-of-life
 ---
 
 # Lehi's dream of the tree of life

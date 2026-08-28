@@ -6,6 +6,7 @@ cssclasses:
 - sg-event
 aliases:
 - John the Baptist's visit
+sg-id: event:restoration-of-the-aaronic-priesthood
 ---
 
 # Restoration of the Aaronic Priesthood

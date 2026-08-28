@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Salem
+sg-id: place:jerusalem
 ---
 
 # Jerusalem

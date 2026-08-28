@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Moses
+sg-id: person:moses-prophet
 ---
 
 # Moses (prophet)

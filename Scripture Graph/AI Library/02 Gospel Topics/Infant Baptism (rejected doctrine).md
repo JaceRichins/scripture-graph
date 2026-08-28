@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Infant Baptism
 topic-status: seeded
+sg-id: topic:infant-baptism-rejected-doctrine
 ---
 
 # Infant Baptism (rejected doctrine)

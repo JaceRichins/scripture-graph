@@ -10,6 +10,7 @@ evidence_strength: 0.97
 study_relevance: 0.98
 source_quality: 1.0
 consensus_status: broadly accepted
+sg-id: evidence:reception-history-in-leviticus-19
 ---
 
 # Reception History in Leviticus 19

@@ -8,6 +8,7 @@ aliases:
 - Church of Jesus Christ
 - Kingdom of Heaven
 topic-status: seeded
+sg-id: topic:kingdom-of-god
 ---
 
 # Kingdom of God

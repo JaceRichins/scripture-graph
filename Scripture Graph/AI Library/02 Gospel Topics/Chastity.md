@@ -8,6 +8,7 @@ aliases:
 - Law of Chastity
 - Virtue
 topic-status: seeded
+sg-id: topic:chastity
 ---
 
 # Chastity

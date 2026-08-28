@@ -10,6 +10,7 @@ evidence_strength: 0.28
 study_relevance: 0.93
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+sg-id: evidence:literary-structure-in-alma-36
 ---
 
 # Literary Structure in Alma 36

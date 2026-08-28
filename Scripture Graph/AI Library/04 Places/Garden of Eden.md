@@ -6,6 +6,7 @@ cssclasses:
 - sg-place
 aliases:
 - Eden
+sg-id: place:garden-of-eden
 ---
 
 # Garden of Eden

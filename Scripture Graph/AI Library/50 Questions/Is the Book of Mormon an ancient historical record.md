@@ -3,7 +3,9 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded — will deepen as evidence passes run
+sg-id: question:is-the-book-of-mormon-an-ancient-historical-record
 ---
+
 # Is the Book of Mormon an ancient historical record?
 
 ## Concise answer

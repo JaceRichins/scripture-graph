@@ -6,6 +6,7 @@ cssclasses:
 - sg-person
 aliases:
 - Nehemiah
+sg-id: person:nehemiah-governor
 ---
 
 # Nehemiah (governor)

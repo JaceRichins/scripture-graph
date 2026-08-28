@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Covenant
 topic-status: seeded
+sg-id: topic:covenants
 ---
 
 # Covenants

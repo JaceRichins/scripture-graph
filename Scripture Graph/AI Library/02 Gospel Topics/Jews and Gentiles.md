@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - Gentiles
 topic-status: seeded
+sg-id: topic:jews-and-gentiles
 ---
 
 # Jews and Gentiles

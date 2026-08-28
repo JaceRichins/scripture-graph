@@ -8,6 +8,7 @@ aliases:
 - Law of Consecration
 - United Order
 topic-status: seeded
+sg-id: topic:consecration
 ---
 
 # Consecration
