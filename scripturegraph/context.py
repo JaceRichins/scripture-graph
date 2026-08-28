@@ -24,9 +24,12 @@ DEFAULTS: dict = {
         "ai_enabled": True,   # allow AI provider calls during scheduled runs
     },
     "budgets": {
-        "aggressive": {"nightly_ai_jobs": 80, "weekly_ai_jobs": 150, "daily_usd_cap": 40.0, "job_timeout_sec": 600},
-        "balanced":   {"nightly_ai_jobs": 30, "weekly_ai_jobs": 60,  "daily_usd_cap": 10.0, "job_timeout_sec": 420},
-        "economical": {"nightly_ai_jobs": 12, "weekly_ai_jobs": 25,  "daily_usd_cap": 3.0,  "job_timeout_sec": 300},
+        "aggressive": {"nightly_ai_jobs": 80, "weekly_ai_jobs": 150, "daily_usd_cap": 40.0,
+                       "job_timeout_sec": 600, "daily_ai_jobs_cap": 200},
+        "balanced":   {"nightly_ai_jobs": 30, "weekly_ai_jobs": 60,  "daily_usd_cap": 10.0,
+                       "job_timeout_sec": 420, "daily_ai_jobs_cap": 120},
+        "economical": {"nightly_ai_jobs": 12, "weekly_ai_jobs": 25,  "daily_usd_cap": 3.0,
+                       "job_timeout_sec": 300, "daily_ai_jobs_cap": 40},
     },
     "providers": {
         # enabled: true | false | "auto" (auto = probe once and cache result)
@@ -71,6 +74,7 @@ DEFAULTS: dict = {
     "logs": {"retention_days": 21},
     "git": {"auto_commit": True},
     "ask": {"max_passages": 14},
+    "study": {"window_minutes": 30, "job_estimate_sec": 540},
     "acquisition": {
         "request_gap_sec": 1.5,            # hard politeness floor for remote fetches
         "conference_from_year": 1971,      # earliest session on churchofjesuschrist.org

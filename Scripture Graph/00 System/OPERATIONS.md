@@ -29,9 +29,16 @@ scripturegraph test                # automated test suite
 
 | Task | Default | Does |
 | --- | --- | --- |
+| ScriptureGraph Study | **every 30 min, all day** | time-boxed AI research slice: ~2-3 multi-agent chapter jobs per tick on the weakest/stalest chapters, until the daily cap (`budgets.<mode>.daily_ai_jobs_cap`). Overrun ticks skip via the engine lock; the durable queue carries work across ticks. |
 | ScriptureGraph Frequent | every 2 h | drop-folder scan, personal-note indexing, deterministic queue work |
-| ScriptureGraph Nightly | 02:30 | the above + budgeted AI research on weakest/stalest chapters, coverage, status |
+| ScriptureGraph Nightly | 02:30 | acquisition (conference backfill + Gospel Library pages), full deterministic refresh, budgeted AI research, coverage, status |
 | ScriptureGraph Weekly | Sun 03:30 | gardener, full validation with canonical repair, equalization queueing |
+
+A 30-minute window intentionally does NOT finish everything — each tick is a
+slice. One deep research job ≈ 6-9 min; a tick runs what fits
+(`study.window_minutes` minus a safety margin and one job-estimate,
+`study.job_estimate_sec`), exits, and the next tick continues. Change cadence:
+`scheduler.study_minutes` in config + `scripturegraph scheduler install`.
 
 - **Pause everything:** set `automation.enabled: false` in
   `.scripture-engine/config/config.yaml` (tasks still fire but no-op), or

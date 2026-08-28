@@ -10,3 +10,4 @@ scope: volume
 Part of [[Scriptures]].
 
 - [[Doctrine and Covenants]] — 138 sections
+- [[Official Declarations]] — 2 declarations

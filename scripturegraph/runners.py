@@ -147,6 +147,64 @@ def run_nightly(ctx: Ctx) -> dict:
     return stats
 
 
+def _daily_jobs_used(ctx: Ctx) -> int:
+    from scripturegraph.util import today_utc
+    return ctx.db().execute(
+        "SELECT COUNT(*) AS n FROM jobs WHERE created_at LIKE ? "
+        "AND status != 'quarantined'", (today_utc() + "%",)).fetchone()["n"]
+
+
+@_locked
+def run_study(ctx: Ctx) -> dict:
+    """The all-day study tick (default: every 30 minutes).
+
+    Time-boxed slice of the big build-out: drain quick deterministic work,
+    then run AI research jobs on the highest-priority chapters until the soft
+    deadline. Overruns are harmless — the engine lock makes the next tick
+    skip — and the durable queue carries everything across ticks."""
+    if not _guard(ctx, "study"):
+        return {"skipped": True}
+    from scripturegraph.agents.providers import any_provider_available
+    import time as _time
+    run_id = _run_record(ctx, "study")
+    stats: dict = {}
+    start = _time.time()
+    window = int(ctx.c("study.window_minutes", 30)) * 60
+    est = int(ctx.c("study.job_estimate_sec", 540))
+    safety = 120
+    try:
+        # 1. quick deterministic drain (renders, re-opened passes, …)
+        stats["det"] = _process(ctx, include_ai=False, max_items=600,
+                                deadline_ts=start + min(300, window // 4))
+        # 2. AI research until the window closes
+        cap = int(ctx.budget("daily_ai_jobs_cap") or 0)
+        used = _daily_jobs_used(ctx)
+        remaining = max(0, cap - used) if cap else 0
+        stats["daily_cap"] = cap
+        stats["daily_used"] = used
+        if remaining and any_provider_available(ctx) and ctx.c("automation.ai_enabled", True):
+            from scripturegraph.waves import enqueue_wave
+            pending_jobs = ctx.db().execute(
+                "SELECT COUNT(*) AS n FROM work_queue WHERE task_type='job' "
+                "AND status='pending'").fetchone()["n"]
+            if pending_jobs < 5:
+                from scripturegraph.coverage import update_all_coverage
+                update_all_coverage(ctx)
+                enqueue_wave(ctx, "research", limit=25, by_priority=True)
+            stats["ai"] = _process(
+                ctx, include_ai=True, max_items=None, ai_budget=remaining,
+                deadline_ts=start + window - safety - est)
+        else:
+            stats["ai"] = {"skipped": "cap reached" if not remaining else "no provider"}
+        gitops.commit_all(ctx, "study: tick")
+        _finish_run(ctx, run_id, "ok", stats)
+    except Exception as e:  # noqa: BLE001
+        ctx.log.error("run.failed", kind="study", error=str(e))
+        _finish_run(ctx, run_id, "failed", {**stats, "error": str(e)})
+        raise
+    return stats
+
+
 @_locked
 def run_weekly(ctx: Ctx) -> dict:
     """Deep maintenance: gardener, full validation (with canonical repair),
@@ -182,7 +240,8 @@ def run_weekly(ctx: Ctx) -> dict:
     return stats
 
 
-def _process(ctx: Ctx, include_ai: bool, max_items: int, ai_budget: int | None = None):
+def _process(ctx: Ctx, include_ai: bool, max_items: int | None,
+             ai_budget: int | None = None, deadline_ts: float | None = None):
     from scripturegraph.waves import process_queue
     return process_queue(ctx, max_items=max_items, include_ai=include_ai,
-                         ai_budget=ai_budget)
+                         ai_budget=ai_budget, deadline_ts=deadline_ts)

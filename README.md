@@ -74,10 +74,16 @@ modes (one provider, or none) are honest and recorded per job. See
 ## 7. Scheduling
 
 ```powershell
-.\scripts\sg.ps1 scheduler install   # 3 Windows tasks: Frequent (2h) / Nightly (02:30) / Weekly (Sun 03:30)
+.\scripts\sg.ps1 scheduler install   # 4 tasks: Study (every 30 min, all day) /
+                                     # Frequent (2h) / Nightly (02:30) / Weekly (Sun 03:30)
 .\scripts\sg.ps1 scheduler status
 .\scripts\sg.ps1 scheduler remove
 ```
+
+The **Study task** is the build-out engine: every 30 minutes it runs a
+time-boxed slice of multi-agent chapter research (weakest chapters first,
+~100-150 chapters/day in aggressive mode) until the daily cap. Slices are
+overrun-safe (engine lock) and lossless (durable queue).
 
 Windows Task Scheduler is only the clock; the Python orchestrator does the
 thinking. Details + budgets: `00 System/OPERATIONS.md`.

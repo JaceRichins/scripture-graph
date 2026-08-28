@@ -142,24 +142,36 @@ def enqueue_wave(ctx: Ctx, name: str, limit: int | None = None,
 
 
 def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = True,
-                  ai_budget: int | None = None) -> dict:
-    """Work the queue until empty (or caps hit). Crash-safe: claimed items left
-    'running' by a dead process are requeued on the next call."""
+                  ai_budget: int | None = None,
+                  deadline_ts: float | None = None) -> dict:
+    """Work the queue until empty (or caps/deadline hit). Crash-safe: claimed
+    items left 'running' by a dead process are requeued on the next call.
+    `deadline_ts` (epoch seconds) is a soft stop: no NEW item is claimed after
+    it passes — in-flight work finishes normally."""
+    import time as _time
     q.requeue_stale(ctx)
     stats = {"done": 0, "failed": 0, "ai_done": 0, "skipped_ai": 0}
     task_types = ("pass", "job", "maintenance") if include_ai else ("pass", "maintenance")
     while True:
         if max_items is not None and stats["done"] + stats["failed"] >= max_items:
             break
+        if deadline_ts is not None and _time.time() >= deadline_ts:
+            stats["deadline_hit"] = True
+            break
         batch = q.claim_batch(ctx, 25, task_types=task_types)
         if not batch:
             break
         for item in batch:
-            if max_items is not None and stats["done"] + stats["failed"] >= max_items:
+            past_deadline = (deadline_ts is not None
+                             and __import__("time").time() >= deadline_ts)
+            if (max_items is not None and stats["done"] + stats["failed"] >= max_items) \
+                    or past_deadline:
                 ctx.db().execute(
                     "UPDATE work_queue SET status='pending', attempts=attempts-1 WHERE id=?",
                     (item["id"],))
                 ctx.db().commit()
+                if past_deadline:
+                    stats["deadline_hit"] = True
                 continue
             name = item["pass_name"]
             spec = PASS_DEFS.get(name)

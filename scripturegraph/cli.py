@@ -89,6 +89,8 @@ def cmd_run(args):
         stats = runners.run_nightly(ctx)
     elif args.weekly:
         stats = runners.run_weekly(ctx)
+    elif args.study:
+        stats = runners.run_study(ctx)
     else:
         stats = runners.run_frequent(ctx)
     print(json.dumps(stats, indent=2, default=str))
@@ -179,6 +181,17 @@ def cmd_fetch(args):
     ctx = _ctx(args)
     from scripturegraph.corpus import fetchers, glib
     from scripturegraph.corpus.registry import ensure_registry
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    try:
+        with engine_lock(ctx):
+            return _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry)
+    except EngineBusy:
+        print("Another engine run (study tick / nightly / fetch) holds the lock — "
+              "try again shortly.", file=sys.stderr)
+        return 3
+
+
+def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
     ensure_registry(ctx)
     fetchers.register_acquisition_sources(ctx)
     out = {}
@@ -293,6 +306,8 @@ def main(argv=None) -> int:
     g.add_argument("--frequent", action="store_true")
     g.add_argument("--nightly", action="store_true")
     g.add_argument("--weekly", action="store_true")
+    g.add_argument("--study", action="store_true",
+                   help="time-boxed study tick (AI research on weakest chapters)")
     sp.set_defaults(fn=cmd_run)
 
     sp = sub.add_parser("refine", help="refine chapters (deterministic or --ai)")

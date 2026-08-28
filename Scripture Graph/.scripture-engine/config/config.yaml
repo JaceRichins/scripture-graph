@@ -1,7 +1,12 @@
 # Scripture Graph engine configuration (deep-merged over built-in defaults).
 # Modes: aggressive | balanced | economical  (budgets per mode are built in;
 # override any value here, e.g.  budgets: {balanced: {nightly_ai_jobs: 50}} )
-mode: balanced
+# aggressive = the all-day build-out: 30-min study ticks, daily cap 200 AI jobs
+mode: aggressive
+
+study:
+  window_minutes: 30    # matches the ScriptureGraph Study task cadence
+  job_estimate_sec: 540 # don't start a job that can't finish inside the window
 
 automation:
   enabled: true       # master switch for scheduled runs

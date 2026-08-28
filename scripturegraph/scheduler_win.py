@@ -16,6 +16,7 @@ from scripturegraph.context import Ctx
 _CREATE_NO_WINDOW = 0x08000000
 
 TASKS = {
+    "study": "ScriptureGraph Study",
     "frequent": "ScriptureGraph Frequent",
     "nightly": "ScriptureGraph Nightly",
     "weekly": "ScriptureGraph Weekly",
@@ -82,6 +83,7 @@ def install(ctx: Ctx) -> dict:
     write_runner_scripts(ctx)
     sched = ctx.cfg.get("scheduler", {})
     specs = {
+        "study": ["/SC", "MINUTE", "/MO", str(sched.get("study_minutes", 30))],
         "frequent": ["/SC", "HOURLY", "/MO", str(sched.get("frequent_hours", 2))],
         "nightly": ["/SC", "DAILY", "/ST", str(sched.get("nightly_time", "02:30"))],
         "weekly": ["/SC", "WEEKLY", "/D", str(sched.get("weekly_day", "SUN")),
