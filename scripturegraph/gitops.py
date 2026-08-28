@@ -78,9 +78,13 @@ def checkpoint(ctx: Ctx, label: str) -> str | None:
     return _commit(ctx, f"checkpoint: {label}")
 
 
-# personal subtree is excluded from restores: the engine never writes there
-# after scaffold creation, and a user may have edited it AFTER the checkpoint.
-_PERSONAL_EXCLUDE = f":(exclude){VAULT_DIRNAME}/80 Personal Notes"
+# Excluded from restores:
+# - personal subtree: the engine never writes there after scaffold creation,
+#   and the user may have edited it AFTER the checkpoint;
+# - engine runtime dir: live database/log handles must never be git-unlinked
+#   mid-process (tracked config there is not touched inside transactions).
+_RESTORE_EXCLUDES = (f":(exclude){VAULT_DIRNAME}/80 Personal Notes",
+                     f":(exclude){VAULT_DIRNAME}/.scripture-engine")
 
 
 def _clear_readonly_tree(ctx: Ctx, sub: str) -> None:
@@ -105,8 +109,8 @@ def hard_restore(ctx: Ctx) -> None:
     import stat
     ensure_repo(ctx)
     _clear_readonly_tree(ctx, "01 Scriptures/Canonical")  # git can't overwrite RO
-    _git(ctx, "checkout", "--", VAULT_DIRNAME, _PERSONAL_EXCLUDE)
-    _git(ctx, "clean", "-fd", "--", VAULT_DIRNAME, _PERSONAL_EXCLUDE)
+    _git(ctx, "checkout", "--", VAULT_DIRNAME, *_RESTORE_EXCLUDES)
+    _git(ctx, "clean", "-fd", "--", VAULT_DIRNAME, *_RESTORE_EXCLUDES)
     canonical = ctx.vault / "01 Scriptures" / "Canonical"
     if canonical.exists():  # re-arm the best-effort read-only defense
         for p in canonical.rglob("*.md"):

@@ -13,6 +13,7 @@ Scripture Graph/.scripture-engine/cache/
 Scripture Graph/.scripture-engine/jobs/
 Scripture Graph/.scripture-engine/embeddings/
 Scripture Graph/.scripture-engine/quarantine/
+Scripture Graph/.scripture-engine/state/engine.lock
 
 # Secrets — never commit
 Scripture Graph/.scripture-engine/config/.env

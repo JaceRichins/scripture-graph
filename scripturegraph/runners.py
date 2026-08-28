@@ -40,6 +40,22 @@ def _guard(ctx: Ctx, kind: str) -> bool:
     return True
 
 
+def _locked(fn):
+    """Every runner is single-instance: overlapping scheduled/manual runs skip."""
+    from functools import wraps
+
+    @wraps(fn)
+    def wrapper(ctx: Ctx) -> dict:
+        from scripturegraph.lockfile import EngineBusy, engine_lock
+        try:
+            with engine_lock(ctx):
+                return fn(ctx)
+        except EngineBusy:
+            ctx.log.info("run.skipped", kind=fn.__name__, reason="engine lock held")
+            return {"skipped": "another engine run active"}
+    return wrapper
+
+
 def _ai_budget(ctx: Ctx, key: str) -> int:
     """Job-count budget for this run, respecting the daily USD cap."""
     if not ctx.c("automation.ai_enabled", True):
@@ -55,6 +71,7 @@ def _ai_budget(ctx: Ctx, key: str) -> int:
     return int(ctx.budget(key) or 0)
 
 
+@_locked
 def run_frequent(ctx: Ctx) -> dict:
     """Light: detect/import new sources, refresh indexes, work the queue
     (deterministic only), validate what changed."""
@@ -77,6 +94,7 @@ def run_frequent(ctx: Ctx) -> dict:
     return stats
 
 
+@_locked
 def run_nightly(ctx: Ctx) -> dict:
     """Research/refinement: everything frequent does + budgeted AI research on
     the highest-priority (weakest/stalest) chapters + coverage + status."""
@@ -115,6 +133,7 @@ def run_nightly(ctx: Ctx) -> dict:
     return stats
 
 
+@_locked
 def run_weekly(ctx: Ctx) -> dict:
     """Deep maintenance: gardener, full validation (with canonical repair),
     coverage equalization queueing, health + status reports."""

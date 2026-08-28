@@ -80,11 +80,23 @@ def _mini_volumes(src_dir):
     (src_dir / "old-testament.json").write_text(json.dumps(ot), encoding="utf-8")
 
 
+MINI_GITIGNORE = """\
+Scripture Graph/.scripture-engine/database/
+Scripture Graph/.scripture-engine/logs/
+Scripture Graph/.scripture-engine/cache/
+Scripture Graph/.scripture-engine/jobs/
+Scripture Graph/.scripture-engine/embeddings/
+Scripture Graph/.scripture-engine/quarantine/
+Scripture Graph/.scripture-engine/state/engine.lock
+"""
+
+
 @pytest.fixture
 def mini_ctx(tmp_path):
     root = tmp_path / "SG"
     root.mkdir()
     (root / "pyproject.toml").write_text('[project]\nname = "scripturegraph"\n')
+    (root / ".gitignore").write_text(MINI_GITIGNORE)
     ctx = Ctx(root, create=True)
     (ctx.config_dir / "config.yaml").write_text(MINI_CONFIG, encoding="utf-8")
     _mini_volumes(ctx.downloads_dir / "scriptures-json")
