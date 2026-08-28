@@ -17,12 +17,17 @@ Scripture: [[Numbers 4]] · My notes: [[Numbers 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+Numbers 4 assigns and counts the tabernacle work of three Levitical clans. Aaron and his sons cover the sacred furnishings before the Kohathites carry them; Gershonites carry curtains, coverings, hangings, and related equipment; and Merarites carry structural components. The chapter then reports 8,580 workers from thirty through fifty years old. Its repeated language of service, burden, appointment, and supervision portrays [[Service]] as ordered, differentiated responsibility. The access restrictions also present proximity to the most holy things as dangerous, although the precise sight prohibition in Numbers 4:20 remains linguistically uncertain.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has two major movements:
+
+1. **Instructions (4:1–33):** Kohathite duties and safeguards (4:1–20), Gershonite duties under Ithamar (4:21–28), and Merarite duties under Ithamar (4:29–33).
+2. **Census report (4:34–49):** The clans are counted in the same order—Kohath, Gershon, and Merari—followed by the combined total.
+
+The repeated order links command with the reported fulfillment of the census. The chapter does not narrate an actual episode in which the transport duties are performed.
 <!-- SG:END structure -->
 
 ## People
@@ -38,8 +43,6 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 1]] — 56 parallel verses, e.g. [[Numbers 4#^num-4-2|Numbers 4:2]] ↔ [[Numbers 1#^num-1-2|Numbers 1:2]]
-- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 4#^num-4-26|Numbers 4:26]] ↔ [[Numbers 3#^num-3-26|Numbers 3:26]]
 - [[Numbers 9]] — 6 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Numbers 9#^num-9-23|Numbers 9:23]]
 - [[Numbers 10]] — 4 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[2 Chronicles 31]] — 4 parallel verses, e.g. [[Numbers 4#^num-4-30|Numbers 4:30]] ↔ [[2 Chronicles 31#^2chr-31-16|2 Chronicles 31:16]]
@@ -50,17 +53,22 @@ _Not yet developed._
 - [[Numbers 16]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-1|Numbers 4:1]] ↔ [[Numbers 16#^num-16-20|Numbers 16:20]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[Numbers 4#^num-4-45|Numbers 4:45]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[Numbers 4#^num-4-45|Numbers 4:45]] ↔ [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]]
+- [[Numbers 8]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-31|Numbers 4:31]] ↔ [[Numbers 8#^num-8-22|Numbers 8:22]]
+- [[Exodus 17]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Exodus 17#^ex-17-1|Exodus 17:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Service]] *(keyword match — unconfirmed)*
-- [[Family]] *(keyword match — unconfirmed)*
+- [[Service]]
+- [[Priesthood]]
+- [[Law of Moses]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter portrays holiness as requiring authorized access, preparation, and carefully differentiated responsibilities. Aaron and his sons cover the objects and appoint Kohathite duties before the carriers approach; the stated purpose is “that they may live, and not die” (Numbers 4:19). The regulations may therefore be read as protective as well as hierarchical.
+
+The chapter also presents [[Service]] as specific stewardship: clans receive defined burdens, work is supervised, and individual service is especially explicit for the Kohathites. These arrangements belong to a hereditary tabernacle setting and should not automatically be treated as a direct blueprint for later [[Priesthood]] offices.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -75,25 +83,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The paired terms “service” and “burden” recur throughout the chapter and join ministry to concrete responsibility. The KJV also calls the work a “host” in Numbers 4:3, language that conveys an organized body of service but should not automatically be interpreted as combat duty.
+
+The expression “badgers' skins” reflects the KJV's rendering of an uncertain material term. Conclusions about its exact animal source should therefore be cautious. Likewise, blue, scarlet, and purple coverings are observable features of the passage, but Numbers 4 does not supply their symbolic interpretation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Controlled repetition gives the chapter an administrative rhythm. Each clan is identified by family, age range, service, and burden, and the census report repeats the clan order of the preceding instructions. The closing formulas emphasize numbering according to the Lord's command through Moses.
+
+The figures are internally consistent: 2,750 + 2,630 + 3,200 = 8,580. This confirms deliberate organization and correct arithmetic in the chapter's present form, but it does not independently establish the census's historicity, date, or authorship.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Organization
+> The matching clan order, age limits, vocabulary, and totals in the instruction and census portions provide strong internal evidence that the chapter is deliberately organized as a command-and-fulfillment account.
+> — strength 0.8 · confidence 0.9 · Organization strong; scope of fulfillment requires qualification · [[Internal Literary Organization in Numbers 4|full dossier]]
+
+> [!evidence] Internal Numerical Coherence
+> The three reported clan totals—2,750 Kohathites, 2,630 Gershonites, and 3,200 Merarites—sum exactly to the stated total of 8,580. This demonstrates numerical coherence in the chapter's present form.
+> — strength 0.2 · confidence 1.0 · Arithmetic certain; larger significance weak · [[Internal Numerical Coherence in Numbers 4|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How should the minimum age of thirty in this chapter be related to the age of twenty-five in [[Numbers 8]]? Does the difference reflect stages of service, different duties, distinct legal traditions, or something else?
+- Does Numbers 4:20 prohibit seeing the objects while they are exposed, watching them being covered, or another circumstance?
+- How do the life-preserving purpose and the enforcement of priestly hierarchy function together?
+- Why does the chapter combine family-level organization with person-specific service and detailed inventory control?
+- What interpretations of the blue, scarlet, and purple coverings go beyond what the chapter itself states?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[Numbers 3]] for the broad clan assignments, [[Numbers 7]]—especially Numbers 7:6–9—for wagon distribution and shoulder-bearing, and [[Numbers 18]] for another formulation of priestly and Levitical boundaries. [[Exodus 25]] and [[Exodus 26]] describe many of the furnishings and structural components. Read [[Numbers 8]] carefully before adopting any reconciliation of the different starting ages for Levitical service.
 <!-- SG:END further-study -->
