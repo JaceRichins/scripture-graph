@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 5
 cssclasses:
 - sg-study
 ---
@@ -17,12 +17,22 @@ Scripture: [[D&C 42]] · My notes: [[D&C 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 42 presents a broad law for an emerging covenant community. It addresses [[Missionary Work]], authorized and Spirit-directed teaching, personal morality, [[Marriage]], [[Consecration]], care for the sick, continuing [[Revelation]], support for church officers, and disciplinary procedure. Its instructions place faith, property, labor, family relationships, illness, and correction within communal responsibilities. This is the chapter's textual and institutional self-presentation; it does not by itself establish how fully or consistently every provision was implemented.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful descriptive outline is:
+
+- Verses 1-17: missionary commission and authorized, Spirit-directed teaching.
+- Verses 18-29: moral prohibitions, marital fidelity, repentance, and obedience.
+- Verses 30-42: [[Consecration]], the poor, the storehouse, plainness, cleanliness, and labor.
+- Verses 43-55: sickness, healing, death, mourning, and stewardship.
+- Verses 56-69: additional scripture, continuing revelation, gathering, and the New Jerusalem.
+- Verses 70-73: support or remuneration for designated church officers.
+- Verses 74-93: marital cases, witnesses, civil referral, and proportionate correction.
+
+This outline describes shifts in subject matter; the text itself does not formally label these divisions.
 <!-- SG:END structure -->
 
 ## People
@@ -59,16 +69,20 @@ _Not yet developed._
 - [[Consecration]]
 - [[Marriage]]
 - [[Work and Self-Reliance]]
+- [[Government and Laws]]
+- [[Repentance and Forgiveness]]
+- [[Records and Sacred Writings]]
 - [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
-- [[Ten Commandments]] *(keyword match — unconfirmed)*
-- [[Faith]] *(keyword match — unconfirmed)*
-- [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The healing instructions hold miraculous hope and practical care together. Elders are to pray and lay hands on the sick, but believers without faith to be healed are still to be nourished with tenderness, and the community is to bear their infirmities (D&C 42:43-52). The healing promise is expressly qualified by the phrase "and is not appointed unto death" (D&C 42:48). The text therefore gives no sound basis for treating every unhealed illness as proof of unbelief. A critic may still observe that the unexplained death qualification makes the miraculous promise difficult to falsify.
+
+The account of [[Consecration]] combines covenantal giving, administration through the bishop, accountable stewardship sufficient for the steward and family, and distribution of residue to need and communal purposes (D&C 42:30-35, 53-55). It is more precise to describe this as covenantal stewardship and redistribution than as either unrestricted private ownership or undifferentiated common ownership. The chapter does not provide enough legal and administrative detail to reconstruct a complete economic system.
+
+Repentance can lead to forgiveness and reconciliation, while unrepentant or repeated conduct can lead to exclusion. Severe statements concerning killing and repeated adultery should be preserved rather than softened. The chapter does not fully resolve whether every use of forgiveness language concerns church treatment, ultimate divine forgiveness, or both.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -101,25 +115,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Biblical language is pervasive. The moral prohibitions recall the [[Ten Commandments]]; verse 23 parallels Matthew 5:28, verse 38 parallels Matthew 25:40, verse 68 parallels James 1:5, and verses 88-89 parallel Matthew 18:15-17. These correspondences securely demonstrate intertextuality, but they do not by themselves determine whether the wording arose through conscious literary reuse, general scriptural fluency, revelatory restatement, or some combination.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+A notable literary and ethical pattern is the pairing of gift with accountability. The Spirit is promised, but teachers must refrain when they do not receive it. Property supports families, but surplus belongs in the storehouse. Healing is promised, but mortality remains possible. Revelation is abundant, but some scripture must be withheld until complete. Church authority is real, but accusations require witnesses and offenses are addressed at a level corresponding to their publicity. These balances give the chapter greater coherence than a list of unrelated rules.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Institutional And Legal Form
+> Detailed provisions concerning recognized ordination, deeds, stewardship, storehouse administration, officer support, witnesses, hearings, and jurisdiction are strong internal evidence that the chapter presents itself as operational communal law rather than solely as general devotional exhortation.
+> — strength 0.9 · confidence 1.0 · strong internal-form observation · [[Institutional And Legal Form in D&C 42|full dossier]]
+
+> [!evidence] Scriptural Intertextuality
+> Close parallels to New Testament teachings provide strong evidence that the chapter is deliberately framed in biblical language and patterns: lust is treated as inward unfaithfulness, service to the least as service to Christ, wisdom is obtained by asking God, and private correction precedes church adjudication.
+> — strength 0.8 · confidence 1.0 · relationship accepted; mechanism disputed · [[Scriptural Intertextuality in D&C 42|full dossier]]
+
+> [!evidence] Literary Intertextuality *(tentative)*
+> The concentration of close biblical verbal and procedural parallels is strong evidence that D&C 42 is deliberately framed through biblical, especially King James–style, language. The observation is secure; whether the diction reflects divine reuse, Joseph Smith's scriptural idiom, editorial mediation, or some combination is an interpretive question.
+> — strength 0.8 · confidence 0.9 · intertextuality accepted; intention disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How should the statement that a killer has "no forgiveness in this world, nor in the world to come" (D&C 42:18) be understood alongside the chapter's repeated concern with [[Repentance and Forgiveness]]?
+- Does "he shall not be forgiven" in D&C 42:26 refer to ecclesiastical treatment, ultimate divine forgiveness, or both?
+- What does "appointed unto death" in D&C 42:48 mean, and can human observers reliably identify that condition?
+- How do sufficient family stewardship and residue for the poor qualify common descriptions of [[Consecration]]?
+- Why does D&C 42:86 refer a liar to the law of the land when many forms of lying are not civil crimes, and does "law" retain the same referent through verses 84-87?
+- What protections and risks arise from the witness, private-correction, public-rebuke, and hearing procedures in verses 80-93?
+- Which provisions express enduring principles, and which were administrative instructions for the community directly addressed?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[D&C 41]] with [[D&C 42]] for the developing responsibilities associated with Edward Partridge's episcopal office. Compare D&C 42:18-28 with the Decalogue and [[Matthew 5]], D&C 42:37-38 with Matthew 25:31-46, and D&C 42:88-92 with [[Matthew 18]]. James 1:5 supplies a close verbal background for D&C 42:68. Further study of [[Consecration]], [[Zion]], [[Faith]], [[Revelation]], and [[Government and Laws]] can trace the chapter's principal themes. Later administrative developments should be studied from dated primary sources rather than assumed to be fully specified here.
 <!-- SG:END further-study -->
