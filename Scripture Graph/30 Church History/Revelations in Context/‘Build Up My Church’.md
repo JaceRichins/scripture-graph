@@ -1,0 +1,64 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: revelations-in-context
+url: https://www.churchofjesuschrist.org/study/manual/revelations-in-context/build-up-my-church?lang=eng
+doc_id: glib:/manual/revelations-in-context/build-up-my-church
+---
+
+# ‘Build Up My Church’
+
+*Revelations In Context* · [source](https://www.churchofjesuschrist.org/study/manual/revelations-in-context/build-up-my-church?lang=eng)
+
+Standing on the shore, Joseph Smith reached down and clasped his father’s hand after Oliver Cowdery raised the elder Smith from the water. “Oh! my God I have lived to see my father baptized into the true church of Jesus christ,” Joseph exclaimed. His joy was too much for him. He looked for a place to get away. Friends Oliver Cowdery and Joseph Knight went after him. Knight later described Joseph as being “the most wrot upon that I ever saw any man.”
+
+For years, Joseph Smith Sr. had dismissed the claims of contemporary churchmen, but now he found the truth he sought in the visions and revelations of his son, Joseph Jr. The Church of Christ was organized on April 6, 1830, and Joseph Sr. was one of the first to be baptized.
+
+As early as the summer of 1828, Joseph Smith Jr.’s revelations had discussed establishing a church. In the aftermath of Martin Harris’s loss of the first 116 pages of the Book of Mormon manuscript, Joseph dictated a revelation in which the Lord stated, “I will establish my church.” It was becoming clear that Joseph Smith’s mission would not end with the translation of the plates. Yet even believing associates like Joseph Knight were unaware of preparations Joseph and Oliver seemed to be keeping close to the vest.
+
+Knight later recalled that he did not learn of the impending church organization until shortly before the actual event. “Now in the Spring of 1830,” he recalled, “I went with my Team and took Joseph out to Manchester to his Father. When we was on our way he told me that there must be a Church formed But did not tell when.”
+
+Preparations had been underway since at least June 1829. In that month, Joseph Smith dictated the revelation for Oliver Cowdery that would become Doctrine and Covenants 18. In it Oliver was instructed to “build up my church, and my gospel, and my rock.” In doing so, Cowdery was told to “rely upon the things which are written.” The Book of Mormon translation was nearly finished, and Cowdery indeed used the manuscript as he began to outline the polity of the new church.
+
+Cowdery produced a document he called “Articles of the Church of Christ” in preparation for the organization of the Church. Much of this document was either a direct quotation or a close paraphrase from the Book of Mormon manuscript. Like the Nephite church, this new church would have priests and teachers. It would also have disciples, or elders. The June 1829 revelation also appointed Cowdery, along with David Whitmer, to select twelve who would serve as the Apostles sent out to spread the new church’s message.
+
+Many of those who accepted that message awaited the organization of a church. About this time, Joseph Smith announced a revelation specifying that the Church should be organized on April 6, 1830. On that day, forty or fifty men and women gathered in the small Fayette home of Peter Whitmer Sr. to observe the event. Six of them—Joseph Smith, Oliver Cowdery, and four others—served as the official organizers.
+
+They “opened the meeting by solemn prayer.” Joseph and Oliver asked the other four official members if they would accept them as their spiritual teachers and whether they should proceed to organize the Church. Having the consent of the assembled believers, Joseph ordained Oliver Cowdery an elder in the Church, and Oliver did the same for Joseph. Joseph was 24 years old at the time; Oliver was 23.
+
+With authorized men called, sustained, and ordained, it was possible for the Church to celebrate the sacrament of the Lord’s supper. “We then took bread, blessed it, and brake it with them, also wine, blessed it, and drank it with them.” After the sacrament, Joseph Smith’s history records, “We then laid our hands on each individual member of the Church present that they might receive the gift of the Holy Ghost, and be confirmed members of the Church of Christ. The Holy Ghost was poured out upon us to a very great degree. Some prophesied, whilst we all praised the Lord and rejoiced exceedingly.”
+
+That same day, “Whilst yet together” for the organizational meeting, Joseph Smith received another revelation. Now known as Doctrine and Covenants 21, the revelation instructed the newly formed church that “there Shall a Record be kept among you” in which Joseph Smith would be known as a “seer & Translater & Prop[h]et an Apostle of Jesus Christ an Elder of the Church.” Oliver Cowdery, acting in his role as Apostle and elder, was to perform the ordination. Though Oliver was designated the Church’s Second Elder, the April 6 revelation also designated him the “first Preacher,” an office he filled by preaching the Church’s first public sermon on April 11.
+
+While Joseph and Oliver’s respective roles were clarified, the role Oliver’s “Articles of the Church of Christ” played in the organization is unclear. Some time after Oliver had completed the articles, Joseph told him there was more. Joseph’s superseding revelation, now part of Doctrine and Covenants 20, seems to have been completed after the organizational meeting in April but before the Church’s first conference, held in June. At the June conference, this revealed document was accepted as a statement of polity for the new church. Its importance was highlighted by the fact that it was the first revelatory text published in the Church’s newspaper, and it was later printed as section 2 of the 1835 edition of the Doctrine and Covenants, after the preface dictated as a revelation in 1835.
+
+During the two months between the organization of the Church and its acceptance of the new articles in June, questions arose concerning the need of believers to be baptized if they had previously been baptized in other churches. Within weeks of the first meeting of the Church, Joseph Smith received a revelation, now Doctrine and Covenants 22, emphasizing the importance of rebaptism in the new church.
+
+The new Church of Christ was more than simply another Christian denomination. After years of keeping a distance from the churches he saw around him, Joseph Smith Sr. saw in the restored Church something different: a legitimate successor to the apostolic church with prophets, apostles, revelation, and authority.
+
+Lucy Mack Smith, “Lucy Mack Smith, History, 1844–1845,” book 9, page 12, josephsmithpapers.org; Dean Jessee, “Joseph Knight’s Recollection of Early Mormon History,” BYU Studies, vol. 17, no. 1 (Autumn 1976), 37.
+
+“Revelation, Spring 1829 [D&C 10],” in Book of Commandments, 1833, 26, josephsmithpapers.org; see also Doctrine and Covenants 10:53. The dating of this revelation remains uncertain. Convincing arguments can be made for summer 1828 or spring 1829.
+
+“Revelation, June 1829–B [D&C 18],” in Book of Commandments, 1833, 35, josephsmithpapers.org; see also Doctrine and Covenants 18:4–5.
+
+Variant lists of the six organizers include Joseph Smith Jr., Oliver Cowdery, Joseph Smith Sr., Hyrum Smith, Samuel Smith, David Whitmer, John Whitmer, Peter Whitmer Sr., Peter Whitmer Jr., Christian Whitmer, and Orrin Porter Rockwell (see Richard Lloyd Anderson, “I Have a Question: Who were the six who organized the Church on 6 April 1830?” Ensign, June 1980, 44–45).
+
+Joseph Smith, “History, 1838–1856, volume A-1, [December 1805–30 August 1834],” 37, josephsmithpapers.org.
+
+“Revelation, 6 April 1830 [D&C 21],” in Revelation Book 1, 28, josephsmithpapers.org; see also Doctrine and Covenants 21:1.
+
+“Revelation, 6 April 1830 [D&C 21],” 29; see also Doctrine and Covenants 21:12.
+
+Based on research by Michael Hubbard Mackay and Gerrit Dirkmaat for the volume Michael Hubbard MacKay, Gerrit J. Dirkmaat, Grant Underwood, Robert J. Woodford, William G. Hartley, eds., Documents, Volume 1: July 1828–June 1831, vol. 1 of the Documents series of The Joseph Smith Papers, ed. Dean C. Jessee, Ronald K. Esplin, Richard Lyman Bushman, and Matthew J. Grow (Salt Lake City: Church Historian’s Press, 2013).
+
+Minutes, June 9, 1830, in Minute Book 2, 1, josephsmithpapers.org.
+
+“Revelation, 16 April 1830 [D&C 22],” in Painesville Telegraph, vol. 2, no. 44 (Apr. 19, 1831), 4; josephsmithpapers.org.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "131513867", "context": "", "text": " Lucy Mack Smith, “Lucy Mack Smith, History, 1844–1845,” book 9, page 12, josephsmithpapers.org; Dean Jessee, “Joseph Knight’s Recollection of Early Mormon History,” BYU Studies, vol. 17, no. 1 (Autumn 1976), 37. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "131513869", "context": "", "text": " “Revelation, Spring 1829 [D&C 10],” in Book of Commandments, 1833, 26, josephsmithpapers.org; see also Doctrine and Covenants 10:53. The dating of this revelation remains uncertain. Convincing arguments can be made for summer 1828 or spring 1829. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/10?lang=eng&id=p53#p53", "text": "Doctrine and Covenants 10:53"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "131513870", "context": "", "text": " Jessee, “Joseph Knight’s Recollection,” 36. "}, "note4": {"id": "note4", "marker": "4.", "pid": "131513871", "context": "", "text": " “Revelation, June 1829–B [D&C 18],” in Book of Commandments, 1833, 35, josephsmithpapers.org; see also Doctrine and Covenants 18:4–5.
+
+", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/18?lang=eng&id=p4-p5#p4", "text": "Doctrine and Covenants 18:4–5"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "131513873", "context": "", "text": " Variant lists of the six organizers include Joseph Smith Jr., Oliver Cowdery, Joseph Smith Sr., Hyrum Smith, Samuel Smith, David Whitmer, John Whitmer, Peter Whitmer Sr., Peter Whitmer Jr., Christian Whitmer, and Orrin Porter Rockwell (see Richard Lloyd Anderson, “I Have a Question: Who were the six who organized the Church on 6 April 1830?” Ensign, June 1980, 44–45). "}, "note6": {"id": "note6", "marker": "6.", "pid": "131513876", "context": "", "text": " Joseph Smith, “History, 1838–1856, volume A-1, [December 1805–30 August 1834],” 37, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "131513876", "context": "", "text": " “Revelation, 6 April 1830 [D&C 21],” in Revelation Book 1, 28, josephsmithpapers.org; see also Doctrine and Covenants 21:1. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/21?lang=eng&id=p1#p1", "text": "Doctrine and Covenants 21:1"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "131513876", "context": "", "text": " “Revelation, 6 April 1830 [D&C 21],” 29; see also Doctrine and Covenants 21:12.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/21?lang=eng&id=p12#p12", "text": "Doctrine and Covenants 21:12"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "131513877", "context": "", "text": " Based on research by Michael Hubbard Mackay and Gerrit Dirkmaat for the volume Michael Hubbard MacKay, Gerrit J. Dirkmaat, Grant Underwood, Robert J. Woodford, William G. Hartley, eds., Documents, Volume 1: July 1828–June 1831, vol. 1 of the Documents series of The Joseph Smith Papers, ed. Dean C. Jessee, Ronald K. Esplin, Richard Lyman Bushman, and Matthew J. Grow (Salt Lake City: Church Historian’s Press, 2013). "}, "note10": {"id": "note10", "marker": "10.", "pid": "131513877", "context": "", "text": " Minutes, June 9, 1830, in Minute Book 2, 1, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "131513877", "context": "", "text": " Doctrine and Covenants, 1835, 77–82, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "131513878", "context": "", "text": " “Revelation, 16 April 1830 [D&C 22],” in Painesville Telegraph, vol. 2, no. 44 (Apr. 19, 1831), 4; josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}}

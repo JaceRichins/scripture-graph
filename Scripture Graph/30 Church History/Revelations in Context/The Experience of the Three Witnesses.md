@@ -1,0 +1,60 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: revelations-in-context
+url: https://www.churchofjesuschrist.org/study/manual/revelations-in-context/the-experience-of-the-three-witnesses?lang=eng
+doc_id: glib:/manual/revelations-in-context/the-experience-of-the-three-witnesses
+---
+
+# The Experience of the Three Witnesses
+
+*Revelations In Context* · [source](https://www.churchofjesuschrist.org/study/manual/revelations-in-context/the-experience-of-the-three-witnesses?lang=eng)
+
+“The Experience of the Three Witnesses,” Revelations in Context (2016)
+
+“The Experience of the Three Witnesses,” Revelations in Context
+
+More than five decades after the Book of Mormon was published, David Whitmer recalled how he first heard of the Book of Mormon: “I made a business trip to Palmyra, N. Y. [in 1828], and while there stopped with one Oliver Cowdery. A great many people in the neighborhood were talking about the finding of certain golden plates by one Joseph Smith, jr., a young man of that neighborhood. Cowdery and I, as well as others, talked about the matter.” The exact details of how 23-year-old Whitmer and 22-year-old Cowdery met are unknown, but the two men quickly struck up a friendship.
+
+“Cowdery said he was acquainted with the Smith family,” Whitmer continued, “and he believed there must be some truth in the story of the plates, and that he intended to investigate the matter.” Whitmer, who implied that he made more than one trip to Palmyra, conducted his own investigation and “had conversations with several young men who said that Joseph Smith had certain gold plates. … These parties were so positive in their statements that I began to believe there must be some foundation for the stories then in circulation.”
+
+David Whitmer, a farmer from Fayette Township, New York (about 30 miles southeast of Palmyra), and Oliver Cowdery, a Vermont native who had recently been hired by Hyrum Smith and other school trustees to teach in the Manchester area, agreed to keep each other informed of what they discovered. At this time, neither of them had met Joseph Smith, who was then living in Harmony, Pennsylvania, with his wife, Emma.
+
+Cowdery, whose students included children of Joseph Sr. and Lucy Mack Smith, eventually boarded with the Smith family. Lucy wrote that Cowdery “soon began to importune Mr. Smith upon the subject [of the plates]; but did not succeed in eliciting any information for [a] considerable length of time: at last he gained my husband’s confidence so far as to obtain a sketch of the facts relative to the plates.”
+
+The conversation with Joseph Sr. had a powerful effect on Cowdery. “The subject … seems working in my very bones,” he told the Smiths. “I have made it a subject of prayer, and I firmly believe that it is the will of the Lord that I should go [to Harmony to assist Joseph with the translation].”
+
+Cowdery also announced this news, apparently in a letter, to Whitmer. “Cowdery told me he was going to Harmony, Pa. … and see him [Joseph Smith] about the matter,” Whitmer wrote. “He did go, and on his way stopped at my father’s house and told me that as soon as he found out anything either truth or untruth he would let me know.”
+
+Joseph Smith and Oliver Cowdery began their translation project on April 7, 1829, and worked intensely over the next eight weeks. During that time, Cowdery wrote three letters to Whitmer discussing the translation process and offering particular information on the content of the Book of Mormon. “When Cowdery wrote me these things and told me that he had revealed knowledge concerning the truth of them, I showed these letters to my parents, and brothers and sisters,” Whitmer recalled.
+
+In the last letter, Joseph Smith and Oliver Cowdery requested that Whitmer come to Harmony and help the two men move to the Whitmer home. “I had some 20 acres to plow,” Whitmer wrote, “so I concluded I would finish plowing and then go.” However, when he got up the next morning, he found that between five and seven acres of his land had been plowed during the night. When asked who plowed the fields, Whitmer answered, “I do not know, I cannot tell you, all I know is it was plowed. … It was a testimony to me that I did not have any business to put off going after Joseph. I hitched up my team and … started for Pennsylvania.”
+
+The move to New York took place at the beginning of June, and within a month Joseph and his scribes had completed the translation of the Book of Mormon. About that same time, Joseph’s parents and Martin Harris, who had received word that the translation was nearing completion, arrived from Palmyra.
+
+Lucy Mack Smith wrote that Harris “greatly rejoiced” when he heard of the progress of the translation. Although Harris was quite possibly meeting both Cowdery and Whitmer for the first time, the three men bonded through their shared devotion to assist in bringing forth the Book of Mormon.
+
+They were particularly interested in certain passages from the Book of Mormon. “In the course of the work of translation,” Joseph Smith’s history explains, “we ascertained that three special witnesses were to be provided by the Lord, to whom he would grant, that they should see the plates from which this work (the Book of Mormon) should be translated.”
+
+Almost immediately after this discovery was made, Joseph wrote, “It occurred to Oliver Cowdery, David Whitmer, and … Martin Harris … that they would have me enquire of the Lord, to know if they might not obtain of him to be these three special witnesses; and finally they became so solicitous, and teazed me so much, that at length I complied, and through the Urim and Thummim, I obtained of the Lord for them [a revelation].”
+
+The revelation, now known as Doctrine and Covenants 17, made this promise to Cowdery, Whitmer, and Harris: “You must rely upon my word which if you do with full purpose of heart you shall have a view of the plate and also the brestplate the sword of Laban the Urim and Thumim … and after that you have obtained faith and have seen them with your eyes you shall testify of them by the power of God.”
+
+Days later, the prophecy was dramatically fulfilled. “It was in the latter part of June, 1829,” David Whitmer wrote. “Joseph, Oliver Cowdery and myself were together, and the angel showed them [the plates] to us. … [We were] sitting on a log when we were overshadowed by a light more glorious than that of the sun. In the midst of this light, but a few feet from us, appeared a table upon which were many golden plates, also the sword of Laban and the directors. I saw them as plain as I see you now, and distinctly heard the voice of the Lord declaring that the records of the plates of the Book of Mormon were translated by the gift and power of God.”
+
+Joseph Smith and Martin Harris had a similar experience, and as the manuscript was prepared for printing, Cowdery, Whitmer, and Harris signed a joint statement that has been included in each of the more than 120 million copies of the Book of Mormon printed since then. It reads, in part: “And we declare with words of soberness, that an angel of God came down from heaven, and he brought and laid before our eyes, that we beheld and saw the plates, and the engravings thereon; and we know that it is by the grace of God the Father, and our Lord Jesus Christ, that we beheld and bear record that these things are true.”
+
+Lyndon W. Cook, ed., David Whitmer Interviews: A Restoration Witness (Orem, Utah: Grandin Book, 1991), 60.
+
+Lucy Mack Smith, “Lucy Mack Smith, History, 1845,” 140–41, josephsmithpapers.org.
+
+See Matthew McBride, “The Contributions of Martin Harris: D&C 3, 5, 10, 17, 19,” Revelations in Context series, Jan. 3, 2013, history.lds.org. Martin Harris had a long and complicated involvement with the Book of Mormon. When persecution from neighbors forced Joseph and Emma to move from Joseph Sr. and Lucy’s home to Harmony late in 1827, Martin gave Joseph $50 to help with the cost of the move. The next spring, Martin left his farm to the care of others and served as Joseph’s scribe for two months. But just when the translation was progressing so wonderfully, Martin borrowed and then lost the entire 116 pages he and Joseph had translated, plunging Joseph and his family into despair and leaving Joseph to wonder if he had lost all opportunity to translate. However, in the year after the loss of the manuscript, Martin repented of his mistakes and showed renewed determination to help Joseph in whatever way he could.
+
+“History, 1838–1856, volume A–1 [23 December 1805–30 August 1834],” 23, josephsmithpapers.org; see additional references to the Three Witnesses in “Book of Mormon, 1830,” 110–11, 548, josephsmithpapers.org.
+
+“Revelation, June 1829–E [D&C 17],” in Revelation Book 2, 119, josephsmithpapers.org.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "131515027", "context": "", "text": " Lyndon W. Cook, ed., David Whitmer Interviews: A Restoration Witness (Orem, Utah: Grandin Book, 1991), 60. "}, "note2": {"id": "note2", "marker": "2.", "pid": "131516064", "context": "", "text": " Lucy Mack Smith, “Lucy Mack Smith, History, 1845,” 140–41, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "131516066", "context": "", "text": " Cook, David Whitmer Interviews, 61. "}, "note4": {"id": "note4", "marker": "4.", "pid": "131516068", "context": "", "text": " Cook, David Whitmer Interviews, 41, 51. "}, "note5": {"id": "note5", "marker": "5.", "pid": "131516069", "context": "", "text": " See Matthew McBride, “The Contributions of Martin Harris: D&C 3, 5, 10, 17, 19,” Revelations in Context series, Jan. 3, 2013, history.lds.org. Martin Harris had a long and complicated involvement with the Book of Mormon. When persecution from neighbors forced Joseph and Emma to move from Joseph Sr. and Lucy’s home to Harmony late in 1827, Martin gave Joseph $50 to help with the cost of the move. The next spring, Martin left his farm to the care of others and served as Joseph’s scribe for two months. But just when the translation was progressing so wonderfully, Martin borrowed and then lost the entire 116 pages he and Joseph had translated, plunging Joseph and his family into despair and leaving Joseph to wonder if he had lost all opportunity to translate. However, in the year after the loss of the manuscript, Martin repented of his mistakes and showed renewed determination to help Joseph in whatever way he could.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/revelations-in-context/the-contributions-of-martin-harris?lang=eng", "text": "“The Contributions of Martin Harris: D&C 3, 5, 10, 17, 19,”"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "131516070", "context": "", "text": " Lucy Mack Smith, “Lucy Mack Smith, History, 1845,” 153. "}, "note7": {"id": "note7", "marker": "7.", "pid": "131516073", "context": "", "text": " “History, 1838–1856, volume A–1 [23 December 1805–30 August 1834],” 23, josephsmithpapers.org; see additional references to the Three Witnesses in “Book of Mormon, 1830,” 110–11, 548, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}, {"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "131516076", "context": "", "text": " “Revelation, June 1829–E [D&C 17],” in Revelation Book 2, 119, josephsmithpapers.org. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org", "text": "josephsmithpapers.org"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "131516077", "context": "", "text": " Cook, David Whitmer Interviews, 63. "}, "note10": {"id": "note10", "marker": "10.", "pid": "131516079", "context": "", "text": " “Testimony of Three Witnesses,” Book of Mormon. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/three?lang=eng", "text": "“Testimony of Three Witnesses,”"}]}}
