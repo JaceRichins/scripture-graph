@@ -57,20 +57,20 @@ editing view on canonical files will refuse to save by design.
 Sync ONLY the vault folder (`Scripture Graph`), never the repo root, and
 exclude `.scripture-engine` (machine-local database/logs).
 
-**Recommended � Obsidian Sync** (official, end-to-end encrypted, iOS+Android):
-PC: Settings ? Sync ? set up remote vault ? in Sync options enable
+**Recommended — Obsidian Sync** (official, end-to-end encrypted, iOS+Android):
+PC: Settings → Sync → set up a remote vault → in Sync options enable
 *Installed community plugins*, *Vault configuration*, and *Appearance
 settings*; add `.scripture-engine` to *Excluded folders*; leave *Sync all
-other types* off. Phone: install Obsidian ? sign in ? *Connect to remote
-vault* ? let the first sync finish ? turn on community plugins (per-device)
-? done. Highlights, notes, and settings flow both ways.
+other types* off. Phone: install Obsidian → sign in → *Connect to remote
+vault* → let the first sync finish → turn on community plugins (per-device)
+→ done. Highlights, notes, and settings flow both ways.
 
-**Free alternative � Syncthing** (Android; iPhone via M�bius Sync): share
+**Free alternative — Syncthing** (Android; iPhone via Möbius Sync): share
 the `Scripture Graph` folder between devices; add ignore patterns for
 `.scripture-engine` and `.obsidian/workspace*`.
 
-On the phone use **select text ? command palette / toolbar ? "Highlight
+On the phone use **select text → command palette / toolbar → "Highlight
 selection"** (add the highlight + note commands to the mobile toolbar under
-Settings ? Toolbar). The engine runs only on the PC; anything the phone
+Settings → Toolbar). The engine runs only on the PC; anything the phone
 breaks in canonical text is auto-restored on the next study tick and syncs
 back fixed.
