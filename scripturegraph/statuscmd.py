@@ -107,6 +107,24 @@ def print_status(ctx: Ctx, write_note: bool = True) -> dict:
     return s
 
 
+def _today_line(ctx: Ctx) -> str:
+    """Visible momentum: what the engine got done since midnight UTC."""
+    try:
+        from scripturegraph.util import today_utc
+        db = ctx.db()
+        day = today_utc() + "%"
+        ticks = db.execute("SELECT COUNT(*) n FROM runs WHERE kind='study' "
+                           "AND started_at LIKE ?", (day,)).fetchone()["n"]
+        applied = db.execute("SELECT COUNT(*) n FROM jobs WHERE status='applied' "
+                             "AND created_at LIKE ?", (day,)).fetchone()["n"]
+        claims = db.execute("SELECT COUNT(*) n FROM claims WHERE created_at LIKE ?",
+                            (day,)).fetchone()["n"]
+        return (f"- **Today:** {ticks} study ticks · {applied} research jobs applied · "
+                f"{claims} new claims")
+    except Exception:  # noqa: BLE001
+        return "- Today: —"
+
+
 def _secondary_line(ctx: Ctx) -> str:
     try:
         db = ctx.db()
@@ -135,6 +153,7 @@ def write_status_note(ctx: Ctx, s: dict | None = None) -> None:
              f"- Index: {s['chunks']} chunks · embeddings: "
              + (", ".join(f"{k} ({v})" for k, v in s["embeddings"].items()) or "none"),
              f"- Work queue: {s['queue'] or 'empty'}",
+             _today_line(ctx),
              _secondary_line(ctx),
              f"- AI providers: " + ", ".join(
                  f"{k}: {'ready' if v['available'] else 'needs login' if v['exe_found'] else 'not installed'}"

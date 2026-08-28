@@ -212,6 +212,9 @@ def run_study(ctx: Ctx) -> dict:
                 deadline_ts=start + window - safety - est)
         else:
             stats["ai"] = {"skipped": "cap reached" if not remaining else "no provider"}
+        # visible momentum: the Status note moves every tick, not just nightly
+        from scripturegraph.statuscmd import write_status_note
+        write_status_note(ctx)
         gitops.commit_all(ctx, "study: tick")
         _finish_run(ctx, run_id, "ok", stats)
     except Exception as e:  # noqa: BLE001
