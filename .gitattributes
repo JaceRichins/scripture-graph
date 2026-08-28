@@ -1,0 +1,9 @@
+# The engine writes LF everywhere; keep git from converting on checkout so
+# canonical-scripture content hashes survive git restores byte-for-byte.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.epub binary
+*.zip binary
+*.sqlite3 binary
