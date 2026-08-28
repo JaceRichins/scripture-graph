@@ -6242,6 +6242,18 @@ function registerReadingIntegration(plugin, s, svc, openAsk) {
     evt.stopPropagation();
     buildSelectionMenu(s, svc, hit, openAsk).showAtMouseEvent(evt);
   });
+  if (import_obsidian3.Platform.isMobile) {
+    plugin.registerDomEvent(document, "click", (evt) => {
+      const target = evt.target instanceof Element ? evt.target : null;
+      if (!target) return;
+      if (target.closest("a, button, input, textarea, select, .sgh-note-icon, .sg-badge, .modal, .menu")) return;
+      const hit = resolveSelection(s, evt);
+      if (!hit) return;
+      evt.preventDefault();
+      evt.stopPropagation();
+      buildSelectionMenu(s, svc, hit, openAsk).showAtPosition({ x: evt.clientX, y: evt.clientY });
+    });
+  }
 }
 function resolveSelection(s, evt) {
   const sel = window.getSelection();
@@ -6288,6 +6300,8 @@ function resolveSelection(s, evt) {
 }
 function buildSelectionMenu(s, svc, hit, openAsk) {
   const menu = new import_obsidian3.Menu();
+  menu.addItem((i) => i.setTitle("View notes on this verse").setIcon("sticky-note").onClick(() => new NotesPopover(s, svc, hit.verseId).open()));
+  menu.addSeparator();
   for (const c of COLORS) {
     menu.addItem((i) => i.setTitle(`Highlight ${c}`).setIcon("highlighter").onClick((e) => {
       svc.visibilityMenu((vis, gid, label) => {
@@ -7574,9 +7588,11 @@ var SGPlugin = class extends import_obsidian11.Plugin {
     this.registerEvent(this.app.workspace.on("file-open", (f) => {
       if (!f) return;
       this.study.recordVisit(f);
-      if (this.state.settings.forceLibraryPreview) this.forcePreview(f);
+      this.enforceReadOnly();
       this.addMyStudyAction(f);
     }));
+    this.registerEvent(this.app.workspace.on("layout-change", () => this.enforceReadOnly()));
+    this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.enforceReadOnly()));
     this.origOpenLinkText = this.app.workspace.openLinkText.bind(this.app.workspace);
     const orig = this.origOpenLinkText;
     this.app.workspace.openLinkText = (linktext, sourcePath, newLeaf, openViewState) => {
@@ -7647,17 +7663,28 @@ var SGPlugin = class extends import_obsidian11.Plugin {
     const r = parseVerseId(verseId);
     return r ? chapterTitle(r.bookSlug, r.chapter) : null;
   }
-  /** AI Library pages open in reading view — nobody edits engine/canonical
-   * content by accident (complements the OS read-only bit on Canonical). */
-  forcePreview(f) {
-    if (!f.path.startsWith(LIBRARY_PREFIX)) return;
-    const leaf = this.app.workspace.getMostRecentLeaf();
-    const view = leaf?.view;
-    if (view instanceof import_obsidian11.MarkdownView && view.file?.path === f.path && view.getMode() !== "preview") {
+  /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
+   * flipped back to reading view (even if the user hits the pencil toggle —
+   * phones have no OS read-only bit); the rest of the AI Library follows the
+   * forceLibraryPreview setting. Personal Library/ files are never touched. */
+  noticedReadOnly = /* @__PURE__ */ new Set();
+  enforceReadOnly() {
+    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
+      const view = leaf.view;
+      if (!(view instanceof import_obsidian11.MarkdownView) || !view.file) continue;
+      const path = view.file.path;
+      const canonical = path.startsWith(CANONICAL_PREFIX);
+      const aiLibrary = path.startsWith(LIBRARY_PREFIX);
+      if (!canonical && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
+      if (view.getMode() === "preview") continue;
       void leaf.setViewState({
         type: "markdown",
         state: { ...view.getState(), mode: "preview" }
       });
+      if (canonical && !this.noticedReadOnly.has(path)) {
+        this.noticedReadOnly.add(path);
+        new import_obsidian11.Notice("Scripture is read-only \u2014 highlight it, or write in \u270F\uFE0F My Notes");
+      }
     }
   }
   async openAsk(chapterTitle2, verseId, seed) {

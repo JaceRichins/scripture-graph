@@ -431,10 +431,14 @@ def write_obsidian_config(ctx: Ctx) -> None:
             "readableLineLength": True,
             "alwaysUpdateLinks": True,
             "newFileLocation": "folder",
-            "newFileFolderPath": "80 Personal Notes",
-            "attachmentFolderPath": "80 Personal Notes/Attachments",
+            "newFileFolderPath": "Library",
+            "attachmentFolderPath": "Library/Attachments",
             "useMarkdownLinks": False,
             "showUnsupportedFiles": False,
+            # study tool first: every note opens in reading view; editing is
+            # an explicit choice (and the plugin force-reverts AI Library)
+            "defaultViewMode": "preview",
+            "livePreview": True,
         }, indent=2))
     appearance = obs / "appearance.json"
     if not appearance.exists():

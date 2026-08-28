@@ -5,5 +5,7 @@
   "newFileFolderPath": "Library",
   "attachmentFolderPath": "Library/Attachments",
   "useMarkdownLinks": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview",
+  "livePreview": true
 }

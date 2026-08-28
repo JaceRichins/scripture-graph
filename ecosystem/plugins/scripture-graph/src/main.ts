@@ -142,13 +142,17 @@ export default class SGPlugin extends Plugin {
       callback: () => new WelcomeModal(this.state, this.ai, () => { /* settings will refresh */ }).open(),
     });
 
-    // ---- study-trail tracking + AI Library stays read-only-looking ---------
+    // ---- study-trail tracking + read-only enforcement ----------------------
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
       this.study.recordVisit(f);
-      if (this.state.settings.forceLibraryPreview) this.forcePreview(f);
+      this.enforceReadOnly();
       this.addMyStudyAction(f);
     }));
+    // canonical scripture must never sit in an editable view — mobile has no
+    // OS read-only bit, and the pencil toggle would otherwise re-enable edits
+    this.registerEvent(this.app.workspace.on("layout-change", () => this.enforceReadOnly()));
+    this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.enforceReadOnly()));
 
     // ---- chapter links land on the EDITABLE My Notes page (§user) ----------
     // Verse-anchored links ("Alma 36#^alma-36-18") keep opening canonical —
@@ -230,17 +234,29 @@ export default class SGPlugin extends Plugin {
     return r ? chapterTitle(r.bookSlug, r.chapter) : null;
   }
 
-  /** AI Library pages open in reading view — nobody edits engine/canonical
-   * content by accident (complements the OS read-only bit on Canonical). */
-  private forcePreview(f: TFile): void {
-    if (!f.path.startsWith(LIBRARY_PREFIX)) return;
-    const leaf = this.app.workspace.getMostRecentLeaf();
-    const view = leaf?.view;
-    if (view instanceof MarkdownView && view.file?.path === f.path && view.getMode() !== "preview") {
-      void leaf!.setViewState({
+  /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
+   * flipped back to reading view (even if the user hits the pencil toggle —
+   * phones have no OS read-only bit); the rest of the AI Library follows the
+   * forceLibraryPreview setting. Personal Library/ files are never touched. */
+  private noticedReadOnly = new Set<string>();
+
+  private enforceReadOnly(): void {
+    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
+      const view = leaf.view;
+      if (!(view instanceof MarkdownView) || !view.file) continue;
+      const path = view.file.path;
+      const canonical = path.startsWith(CANONICAL_PREFIX);
+      const aiLibrary = path.startsWith(LIBRARY_PREFIX);
+      if (!canonical && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
+      if (view.getMode() === "preview") continue;
+      void leaf.setViewState({
         type: "markdown",
         state: { ...view.getState(), mode: "preview" },
       });
+      if (canonical && !this.noticedReadOnly.has(path)) {
+        this.noticedReadOnly.add(path);
+        new Notice("Scripture is read-only — highlight it, or write in ✏️ My Notes");
+      }
     }
   }
 

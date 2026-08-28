@@ -1,10 +1,10 @@
 /** In-place reading-view integration: decorate canonical files wherever they
  * render (plain view, Annotated view embeds, My Study embeds), and provide
  * the selection menu (highlight colors × visibility, note, ask AI). */
-import { Menu, Notice, type MarkdownPostProcessorContext, type Plugin } from "obsidian";
+import { Menu, Notice, Platform, type MarkdownPostProcessorContext, type Plugin } from "obsidian";
 import type { Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
-import { AnnotationService, COLORS, NoteModal, decorateVerse } from "./annotations";
+import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
 
 export interface SelectionHit {
   verseId: string;
@@ -41,7 +41,7 @@ export function registerReadingIntegration(
     void svc.refreshSocial(anchors);
   });
 
-  // ---- selection context menu -------------------------------------------
+  // ---- selection context menu (desktop right-click / long-press) ---------
   plugin.registerDomEvent(document, "contextmenu", (evt) => {
     const hit = resolveSelection(s, evt);
     if (!hit) return;
@@ -49,6 +49,24 @@ export function registerReadingIntegration(
     evt.stopPropagation();
     buildSelectionMenu(s, svc, hit, openAsk).showAtMouseEvent(evt);
   });
+
+  // ---- mobile: TAP a verse = study actions (the LDS-Tools flow) ----------
+  // Reading view is the default surface, so a tap should study, never type.
+  // Links, buttons, and the note/badge icons keep their own behavior.
+  if (Platform.isMobile) {
+    plugin.registerDomEvent(document, "click", (evt) => {
+      const target = evt.target instanceof Element ? evt.target : null;
+      if (!target) return;
+      if (target.closest("a, button, input, textarea, select, "
+        + ".sgh-note-icon, .sg-badge, .modal, .menu")) return;
+      const hit = resolveSelection(s, evt);
+      if (!hit) return;
+      evt.preventDefault();
+      evt.stopPropagation();
+      buildSelectionMenu(s, svc, hit, openAsk)
+        .showAtPosition({ x: evt.clientX, y: evt.clientY });
+    });
+  }
 }
 
 export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionHit | null {
@@ -103,6 +121,9 @@ export function buildSelectionMenu(
   openAsk: (prompt: string, anchor: string | null) => void,
 ): Menu {
   const menu = new Menu();
+  menu.addItem(i => i.setTitle("View notes on this verse").setIcon("sticky-note")
+    .onClick(() => new NotesPopover(s, svc, hit.verseId).open()));
+  menu.addSeparator();
   for (const c of COLORS) {
     menu.addItem(i => i.setTitle(`Highlight ${c}`).setIcon("highlighter").onClick((e) => {
       svc.visibilityMenu((vis, gid, label) => {
