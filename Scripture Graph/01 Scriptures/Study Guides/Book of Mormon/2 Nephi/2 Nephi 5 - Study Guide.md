@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 16]] — 21 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]]
-- [[1 Nephi 18]] — 8 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]]
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]] ↔ [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]]
-- [[Alma 42]] — 4 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
-- [[1 Nephi 17]] — 7 parallel verses, e.g. [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]] ↔ [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]]
-- [[Alma 9]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[1 Nephi 7]] — 6 parallel verses, e.g. [[2 Nephi 5#^2ne-5-19|2 Nephi 5:19]] ↔ [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]]
-- [[1 Nephi 19]] — 5 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 19#^1ne-19-22|1 Nephi 19:22]]
+- [[1 Nephi 16]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
-- [[Ether 2]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
-- [[Mosiah 2]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]] ↔ [[Mosiah 2#^mosiah-2-13|Mosiah 2:13]]
+- [[Alma 50]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
+- [[Ether 2]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[1 Nephi 18]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]]
+- [[1 Nephi 5]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 5#^1ne-5-10|1 Nephi 5:10]]
+- [[Mosiah 2]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Mosiah 2#^mosiah-2-38|Mosiah 2:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

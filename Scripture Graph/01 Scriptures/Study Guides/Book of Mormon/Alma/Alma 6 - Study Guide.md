@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 5]] — 6 parallel verses, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 5#^alma-5-21|Alma 5:21]]
-- [[Alma 1]] — 8 parallel verses, e.g. [[Alma 6#^alma-6-2|Alma 6:2]] ↔ [[Alma 1#^alma-1-19|Alma 1:19]]
-- [[Alma 4]] — 5 parallel verses, e.g. [[Alma 6#^alma-6-3|Alma 6:3]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
+- [[Alma 5]] — 5 parallel verses, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 5#^alma-5-21|Alma 5:21]]
+- [[Alma 1]] — 4 parallel verses, e.g. [[Alma 6#^alma-6-2|Alma 6:2]] ↔ [[Alma 1#^alma-1-19|Alma 1:19]]
 - [[Mosiah 11]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-3|Alma 6:3]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]
-- [[2 Nephi 4]] — 4 parallel verses, e.g. [[Alma 6#^alma-6-1|Alma 6:1]] ↔ [[2 Nephi 4#^2ne-4-10|2 Nephi 4:10]]
-- [[Alma 12]] — 4 parallel verses, e.g. [[Alma 6#^alma-6-1|Alma 6:1]] ↔ [[Alma 12#^alma-12-19|Alma 12:19]]
 - [[Alma 2]] — 1 parallel verse, e.g. [[Alma 6#^alma-6-7|Alma 6:7]] ↔ [[Alma 2#^alma-2-20|Alma 2:20]]
 - [[Mormon 8]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-3|Alma 6:3]] ↔ [[Mormon 8#^morm-8-28|Mormon 8:28]]
-- [[Alma 13]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
-- [[Mosiah 25]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-1|Alma 6:1]] ↔ [[Mosiah 25#^mosiah-25-17|Mosiah 25:17]]
-- [[Mosiah 18]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-5|Alma 6:5]] ↔ [[Mosiah 18#^mosiah-18-32|Mosiah 18:32]]
-- [[Alma 44]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-5|Alma 6:5]] ↔ [[Alma 44#^alma-44-3|Alma 44:3]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-3|Alma 6:3]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
+- [[Alma 10]] — 1 parallel verse, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 10#^alma-10-12|Alma 10:12]]
+- [[Alma 13]] — 1 parallel verse, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

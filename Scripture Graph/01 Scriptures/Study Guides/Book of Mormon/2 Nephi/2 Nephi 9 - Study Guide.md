@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 9
 slug: 2ne-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 28]] — 9 parallel verses, e.g. [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]] ↔ [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]]
-- [[Isaiah 55]] — 3 parallel verses, e.g. [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]] ↔ [[Isaiah 55#^isa-55-1|Isaiah 55:1]]
-- [[Alma 42]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
-- [[Alma 12]] — 3 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 12#^alma-12-17|Alma 12:17]]
-- [[Mosiah 2]] — 6 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]
-- [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
-- [[Mosiah 3]] — 3 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
-- [[Alma 5]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 5#^alma-5-32|Alma 5:32]]
-- [[2 Nephi 3]] — 4 parallel verses, e.g. [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]] ↔ [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]]
-- [[Ether 4]] — 4 parallel verses, e.g. [[2 Nephi 9#^2ne-9-18|2 Nephi 9:18]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[Alma 34]] — 4 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 34#^alma-34-8|Alma 34:8]]
-- [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]]
+- [[Isaiah 55]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]] ↔ [[Isaiah 55#^isa-55-1|Isaiah 55:1]]
+- [[2 Nephi 28]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]] ↔ [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]]
+- [[Alma 12]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 12#^alma-12-17|Alma 12:17]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Moroni 10]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
+- [[Jacob 3]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-19|2 Nephi 9:19]] ↔ [[Jacob 3#^jacob-3-11|Jacob 3:11]]
+- [[Mosiah 2]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]
+- [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[Jacob 6#^jacob-6-4|Jacob 6:4]]
+- [[D&C 20]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
+- [[Alma 7]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-1|2 Nephi 9:1]] ↔ [[Alma 7#^alma-7-22|Alma 7:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

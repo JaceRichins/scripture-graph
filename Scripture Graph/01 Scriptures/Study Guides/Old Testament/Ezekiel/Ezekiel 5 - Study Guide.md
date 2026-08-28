@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 5
 slug: ezek-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 34]] — 7 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]]
-- [[Ezekiel 17]] — 5 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
-- [[Ezekiel 30]] — 8 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 30#^ezek-30-8|Ezekiel 30:8]]
-- [[Ezekiel 37]] — 7 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 37#^ezek-37-14|Ezekiel 37:14]]
-- [[Ezekiel 21]] — 7 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 21#^ezek-21-17|Ezekiel 21:17]]
-- [[Ezekiel 28]] — 7 parallel verses, e.g. [[Ezekiel 5#^ezek-5-8|Ezekiel 5:8]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
-- [[Ezekiel 36]] — 6 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 36#^ezek-36-36|Ezekiel 36:36]]
-- [[Ezekiel 26]] — 6 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 26#^ezek-26-6|Ezekiel 26:6]]
-- [[Ezekiel 20]] — 4 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
-- [[Ezekiel 22]] — 5 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]]
-- [[Ezekiel 7]] — 5 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]]
-- [[Ezekiel 24]] — 5 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 24#^ezek-24-27|Ezekiel 24:27]]
+- [[Ezekiel 17]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
+- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
+- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
+- [[Ezekiel 34]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]]
+- [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
+- [[Ezekiel 22]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

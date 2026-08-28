@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 17
 slug: matt-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 9]] — 10 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
+- [[Mark 9]] — 9 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
 - [[Luke 9]] — 4 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
-- [[Matthew 21]] — 5 parallel verses, e.g. [[Matthew 17#^matt-17-20|Matthew 17:20]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
-- [[Mark 10]] — 4 parallel verses, e.g. [[Matthew 17#^matt-17-23|Matthew 17:23]] ↔ [[Mark 10#^mark-10-34|Mark 10:34]]
+- [[Matthew 21]] — 3 parallel verses, e.g. [[Matthew 17#^matt-17-20|Matthew 17:20]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
+- [[Mark 10]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-23|Matthew 17:23]] ↔ [[Mark 10#^mark-10-34|Mark 10:34]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Matthew 3#^matt-3-17|Matthew 3:17]]
-- [[Mark 11]] — 3 parallel verses, e.g. [[Matthew 17#^matt-17-11|Matthew 17:11]] ↔ [[Mark 11#^mark-11-29|Mark 11:29]]
 - [[2 Peter 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
-- [[Mark 1]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 - [[Matthew 20]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-22|Matthew 17:22]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
-- [[Luke 17]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-20|Matthew 17:20]] ↔ [[Luke 17#^luke-17-6|Luke 17:6]]
-- [[1 Samuel 9]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-14|Matthew 17:14]] ↔ [[1 Samuel 9#^1sam-9-5|1 Samuel 9:5]]
-- [[2 Kings 7]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-14|Matthew 17:14]] ↔ [[2 Kings 7#^2kgs-7-5|2 Kings 7:5]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

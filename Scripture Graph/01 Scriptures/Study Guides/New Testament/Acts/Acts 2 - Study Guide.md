@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joel 2]] — 4 parallel verses, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Joel 2#^joel-2-28|Joel 2:28]]
+- [[Joel 2]] — 3 parallel verses, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Joel 2#^joel-2-28|Joel 2:28]]
 - [[Psalm 16]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-27|Acts 2:27]] ↔ [[Psalm 16#^ps-16-10|Psalm 16:10]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Luke 20#^luke-20-42|Luke 20:42]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
 - [[Acts 5]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-14|Acts 2:14]] ↔ [[Acts 5#^acts-5-35|Acts 5:35]]
 - [[Acts 4]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-4|Acts 2:4]] ↔ [[Acts 4#^acts-4-31|Acts 4:31]]
-- [[Joseph Smith—History 1]] — 3 parallel verses, e.g. [[Acts 2#^acts-2-4|Acts 2:4]] ↔ [[Joseph Smith—History 1#^jsh-1-73|Joseph Smith—History 1:73]]
-- [[D&C 33]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[D&C 33#^dc-33-11|D&C 33:11]]
-- [[Moses 8]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[Moses 8#^moses-8-24|Moses 8:24]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[Moses 6#^moses-6-52|Moses 6:52]]
-- [[Isaiah 2]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Isaiah 2#^isa-2-2|Isaiah 2:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

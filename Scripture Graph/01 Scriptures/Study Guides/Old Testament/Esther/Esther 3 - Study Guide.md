@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 3
 slug: esth-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,8 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Esther 8]] — 8 parallel verses, e.g. [[Esther 3#^esth-3-14|Esther 3:14]] ↔ [[Esther 8#^esth-8-13|Esther 8:13]]
-- [[Esther 9]] — 11 parallel verses, e.g. [[Esther 3#^esth-3-9|Esther 3:9]] ↔ [[Esther 9#^esth-9-13|Esther 9:13]]
-- [[Esther 1]] — 3 parallel verses, e.g. [[Esther 3#^esth-3-12|Esther 3:12]] ↔ [[Esther 1#^esth-1-22|Esther 1:22]]
+- [[Esther 9]] — 4 parallel verses, e.g. [[Esther 3#^esth-3-9|Esther 3:9]] ↔ [[Esther 9#^esth-9-13|Esther 9:13]]
+- [[Esther 1]] — 1 parallel verse, e.g. [[Esther 3#^esth-3-12|Esther 3:12]] ↔ [[Esther 1#^esth-1-22|Esther 1:22]]
 - [[Ezra 8]] — 1 parallel verse, e.g. [[Esther 3#^esth-3-12|Esther 3:12]] ↔ [[Ezra 8#^ezra-8-36|Ezra 8:36]]
 <!-- SG:END related-scriptures -->
 

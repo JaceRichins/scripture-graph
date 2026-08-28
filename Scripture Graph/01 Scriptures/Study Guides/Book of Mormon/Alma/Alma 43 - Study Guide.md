@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -47,18 +47,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 16]] — 7 parallel verses, e.g. [[Alma 43#^alma-43-16|Alma 43:16]] ↔ [[Alma 16#^alma-16-5|Alma 16:5]]
-- [[Alma 2]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
-- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 43#^alma-43-35|Alma 43:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
-- [[Alma 49]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-9|Alma 43:9]] ↔ [[Alma 49#^alma-49-28|Alma 49:28]]
-- [[Alma 62]] — 8 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 62#^alma-62-22|Alma 62:22]]
-- [[Alma 3]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-20|Alma 43:20]] ↔ [[Alma 3#^alma-3-5|Alma 3:5]]
-- [[Alma 8]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 8#^alma-8-3|Alma 8:3]]
-- [[Alma 27]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-11|Alma 43:11]] ↔ [[Alma 27#^alma-27-21|Alma 27:21]]
-- [[Alma 52]] — 6 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Alma 52#^alma-52-10|Alma 52:10]]
-- [[Alma 35]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-3|Alma 43:3]] ↔ [[Alma 35#^alma-35-13|Alma 35:13]]
-- [[Mosiah 21]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]]
-- [[Mosiah 19]] — 5 parallel verses, e.g. [[Alma 43#^alma-43-10|Alma 43:10]] ↔ [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]]
+- [[Alma 3]] — 3 parallel verses, e.g. [[Alma 43#^alma-43-20|Alma 43:20]] ↔ [[Alma 3#^alma-3-5|Alma 3:5]]
+- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-16|Alma 43:16]] ↔ [[Alma 16#^alma-16-5|Alma 16:5]]
+- [[Alma 50]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-35|Alma 43:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
+- [[Alma 2]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
+- [[Alma 8]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 8#^alma-8-3|Alma 8:3]]
+- [[Alma 49]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-9|Alma 43:9]] ↔ [[Alma 49#^alma-49-28|Alma 49:28]]
+- [[Alma 56]] — 3 parallel verses, e.g. [[Alma 43#^alma-43-26|Alma 43:26]] ↔ [[Alma 56#^alma-56-1|Alma 56:1]]
+- [[Alma 28]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-15|Alma 43:15]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
+- [[Alma 27]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-11|Alma 43:11]] ↔ [[Alma 27#^alma-27-21|Alma 27:21]]
+- [[Alma 60]] — 1 parallel verse, e.g. [[Alma 43#^alma-43-18|Alma 43:18]] ↔ [[Alma 60#^alma-60-2|Alma 60:2]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 62#^alma-62-22|Alma 62:22]]
+- [[Alma 47]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-8|Alma 43:8]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

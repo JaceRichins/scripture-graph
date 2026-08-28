@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 8
 slug: dc-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 11]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-11|D&C 8:11]] ↔ [[D&C 11#^dc-11-17|D&C 11:17]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-1|D&C 8:1]] ↔ [[Alma 40#^alma-40-22|Alma 40:22]]
-- [[Mosiah 7]] — 1 parallel verse, e.g. [[D&C 8#^dc-8-3|D&C 8:3]] ↔ [[Mosiah 7#^mosiah-7-19|Mosiah 7:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

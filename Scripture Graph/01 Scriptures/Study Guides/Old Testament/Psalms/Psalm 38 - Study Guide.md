@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 38
 slug: ps-38
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 6]] — 1 parallel verse, e.g. [[Psalm 38#^ps-38-1|Psalm 38:1]] ↔ [[Psalm 6#^ps-6-1|Psalm 6:1]]
-- [[Psalm 71]] — 2 parallel verses, e.g. [[Psalm 38#^ps-38-21|Psalm 38:21]] ↔ [[Psalm 71#^ps-71-12|Psalm 71:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

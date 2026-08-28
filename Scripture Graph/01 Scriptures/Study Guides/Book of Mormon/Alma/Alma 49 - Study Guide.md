@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 52]] — 8 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 62]] — 7 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 43]] — 8 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Helaman 6]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Alma 50]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Alma 45]] — 2 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Alma 30]] — 3 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Mosiah 20]] — 5 parallel verses, e.g. [[Alma 49#^alma-49-17|Alma 49:17]] ↔ [[Mosiah 20#^mosiah-20-9|Mosiah 20:9]]
-- [[Alma 58]] — 5 parallel verses, e.g. [[Alma 49#^alma-49-17|Alma 49:17]] ↔ [[Alma 58#^alma-58-20|Alma 58:20]]
-- [[Helaman 1]] — 3 parallel verses, e.g. [[Alma 49#^alma-49-29|Alma 49:29]] ↔ [[Helaman 1#^hel-1-1|Helaman 1:1]]
+- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 5
 slug: dan-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,10 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Daniel 4]] — 14 parallel verses, e.g. [[Daniel 5#^dan-5-21|Daniel 5:21]] ↔ [[Daniel 4#^dan-4-33|Daniel 4:33]]
-- [[Daniel 6]] — 4 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Daniel 6#^dan-6-13|Daniel 6:13]]
-- [[Ezra 6]] — 3 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Ezra 6#^ezra-6-16|Ezra 6:16]]
-- [[Ezra 5]] — 2 parallel verses, e.g. [[Daniel 5#^dan-5-3|Daniel 5:3]] ↔ [[Ezra 5#^ezra-5-14|Ezra 5:14]]
+- [[Daniel 4]] — 5 parallel verses, e.g. [[Daniel 5#^dan-5-21|Daniel 5:21]] ↔ [[Daniel 4#^dan-4-33|Daniel 4:33]]
+- [[Daniel 6]] — 3 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Daniel 6#^dan-6-13|Daniel 6:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

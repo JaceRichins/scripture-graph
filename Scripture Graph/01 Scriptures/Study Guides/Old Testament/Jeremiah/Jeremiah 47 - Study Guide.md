@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 47
 slug: jer-47
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,8 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 49]] — 1 parallel verse, e.g. [[Jeremiah 47#^jer-47-1|Jeremiah 47:1]] ↔ [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]]
 - [[Joel 1]] — 2 parallel verses, e.g. [[Jeremiah 47#^jer-47-2|Jeremiah 47:2]] ↔ [[Joel 1#^joel-1-14|Joel 1:14]]
-- [[Joshua 7]] — 1 parallel verse, e.g. [[Jeremiah 47#^jer-47-2|Jeremiah 47:2]] ↔ [[Joshua 7#^josh-7-9|Joshua 7:9]]
-- [[Jeremiah 14]] — 1 parallel verse, e.g. [[Jeremiah 47#^jer-47-1|Jeremiah 47:1]] ↔ [[Jeremiah 14#^jer-14-1|Jeremiah 14:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

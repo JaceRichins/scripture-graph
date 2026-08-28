@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 9
 slug: matt-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 2]] — 14 parallel verses, e.g. [[Matthew 9#^matt-9-6|Matthew 9:6]] ↔ [[Mark 2#^mark-2-10|Mark 2:10]]
-- [[Luke 5]] — 11 parallel verses, e.g. [[Matthew 9#^matt-9-15|Matthew 9:15]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
-- [[Luke 8]] — 5 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Luke 8#^luke-8-48|Luke 8:48]]
+- [[Mark 2]] — 10 parallel verses, e.g. [[Matthew 9#^matt-9-6|Matthew 9:6]] ↔ [[Mark 2#^mark-2-10|Mark 2:10]]
+- [[Luke 5]] — 9 parallel verses, e.g. [[Matthew 9#^matt-9-15|Matthew 9:15]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-35|Matthew 9:35]] ↔ [[Matthew 4#^matt-4-23|Matthew 4:23]]
-- [[Mark 5]] — 4 parallel verses, e.g. [[Matthew 9#^matt-9-28|Matthew 9:28]] ↔ [[Mark 5#^mark-5-18|Mark 5:18]]
+- [[Luke 8]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Luke 8#^luke-8-48|Luke 8:48]]
 - [[Mark 10]] — 3 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
 - [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-11|Matthew 9:11]] ↔ [[Matthew 12#^matt-12-2|Matthew 12:2]]
 - [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-38|Matthew 9:38]] ↔ [[Luke 10#^luke-10-2|Luke 10:2]]
-- [[Moroni 8]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-13|Matthew 9:13]] ↔ [[Moroni 8#^moro-8-8|Moroni 8:8]]
 - [[Luke 18]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-27|Matthew 9:27]] ↔ [[Luke 18#^luke-18-38|Luke 18:38]]
-- [[Matthew 21]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-28|Matthew 9:28]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
-- [[Mark 1]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-25|Matthew 9:25]] ↔ [[Mark 1#^mark-1-31|Mark 1:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

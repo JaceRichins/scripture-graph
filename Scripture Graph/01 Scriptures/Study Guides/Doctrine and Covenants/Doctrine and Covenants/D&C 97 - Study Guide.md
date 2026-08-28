@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 97
 slug: dc-97
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,17 +38,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Alma 5]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Alma 5#^alma-5-52|Alma 5:52]]
-- [[D&C 124]] — 5 parallel verses, e.g. [[D&C 97#^dc-97-5|D&C 97:5]] ↔ [[D&C 124#^dc-124-13|D&C 124:13]]
-- [[D&C 94]] — 6 parallel verses, e.g. [[D&C 97#^dc-97-15|D&C 97:15]] ↔ [[D&C 94#^dc-94-8|D&C 94:8]]
+- [[D&C 124]] — 4 parallel verses, e.g. [[D&C 97#^dc-97-5|D&C 97:5]] ↔ [[D&C 124#^dc-124-13|D&C 124:13]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
-- [[D&C 75]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
 - [[Matthew 7]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Matthew 7#^matt-7-19|Matthew 7:19]]
-- [[D&C 98]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-25|D&C 97:25]] ↔ [[D&C 98#^dc-98-4|D&C 98:4]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
-- [[D&C 66]] — 2 parallel verses, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
-- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
-- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-1|D&C 97:1]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
+- [[Matthew 3]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Matthew 3#^matt-3-10|Matthew 3:10]]
+- [[Luke 3]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Luke 3#^luke-3-9|Luke 3:9]]
+- [[D&C 66]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
+- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
+- [[D&C 79]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 79#^dc-79-1|D&C 79:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,15 +46,9 @@ _Not yet developed._
 - [[Moses 5]] — 26 parallel verses, e.g. [[Genesis 4#^gen-4-23|Genesis 4:23]] ↔ [[Moses 5#^moses-5-47|Moses 5:47]]
 - [[Moses 6]] — 4 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[1 Samuel 1]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-19|Genesis 4:19]] ↔ [[1 Samuel 1#^1sam-1-2|1 Samuel 1:2]]
-- [[Alma 42]] — 4 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Alma 42#^alma-42-7|Alma 42:7]]
-- [[Ether 2]] — 3 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
-- [[Ruth 1]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-19|Genesis 4:19]] ↔ [[Ruth 1#^ruth-1-4|Ruth 1:4]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Ether 2]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[Genesis 19]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Genesis 19#^gen-19-37|Genesis 19:37]]
 - [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
-- [[Jonah 1]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Jonah 1#^jonah-1-3|Jonah 1:3]]
-- [[Exodus 2]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-26|Genesis 4:26]] ↔ [[Exodus 2#^ex-2-22|Exodus 2:22]]
-- [[2 Samuel 12]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-26|Genesis 4:26]] ↔ [[2 Samuel 12#^2sam-12-24|2 Samuel 12:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

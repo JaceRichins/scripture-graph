@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 13
 slug: isa-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,13 +40,10 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Nephi 23]] — 22 parallel verses, e.g. [[Isaiah 13#^isa-13-10|Isaiah 13:10]] ↔ [[2 Nephi 23#^2ne-23-10|2 Nephi 23:10]]
-- [[Haggai 2]] — 3 parallel verses, e.g. [[Isaiah 13#^isa-13-13|Isaiah 13:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
 - [[Jeremiah 50]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-20|Isaiah 13:20]] ↔ [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]]
+- [[Haggai 2]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-13|Isaiah 13:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
 - [[Joel 1]] — 1 parallel verse, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
-- [[Joel 2]] — 3 parallel verses, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Joel 2#^joel-2-11|Joel 2:11]]
-- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
-- [[Joel 3]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Joel 3#^joel-3-14|Joel 3:14]]
-- [[Zechariah 14]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-9|Isaiah 13:9]] ↔ [[Zechariah 14#^zech-14-1|Zechariah 14:1]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

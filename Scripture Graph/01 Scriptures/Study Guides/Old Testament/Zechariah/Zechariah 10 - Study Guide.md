@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 10
 slug: zech-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

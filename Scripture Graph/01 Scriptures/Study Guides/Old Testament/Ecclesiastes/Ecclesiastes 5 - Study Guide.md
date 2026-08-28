@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 5
 slug: eccl-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Ecclesiastes 8]] — 1 parallel verse, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[Ecclesiastes 8#^eccl-8-15|Ecclesiastes 8:15]]
-- [[Ecclesiastes 6]] — 2 parallel verses, e.g. [[Ecclesiastes 5#^eccl-5-13|Ecclesiastes 5:13]] ↔ [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]]
-- [[Judges 20]] — 2 parallel verses, e.g. [[Ecclesiastes 5#^eccl-5-1|Ecclesiastes 5:1]] ↔ [[Judges 20#^judg-20-18|Judges 20:18]]
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[Jeremiah 52#^jer-52-33|Jeremiah 52:33]]
-- [[1 Kings 15]] — 2 parallel verses, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]]
-- [[2 Kings 25]] — 2 parallel verses, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[2 Kings 25#^2kgs-25-29|2 Kings 25:29]]
-- [[Ecclesiastes 10]] — 1 parallel verse, e.g. [[Ecclesiastes 5#^eccl-5-13|Ecclesiastes 5:13]] ↔ [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

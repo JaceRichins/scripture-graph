@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,14 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Corinthians 16]] — 4 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
-- [[Philippians 4]] — 3 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
+- [[1 Corinthians 16]] — 3 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
+- [[Philippians 4]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[2 Thessalonians 3]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
 - [[Revelation 22]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[1 Thessalonians 5]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[Galatians 6]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
-- [[Numbers 4]] — 3 parallel verses, e.g. [[Romans 16#^rom-16-26|Romans 16:26]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[2 Corinthians 8]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]]
 <!-- SG:END related-scriptures -->
 

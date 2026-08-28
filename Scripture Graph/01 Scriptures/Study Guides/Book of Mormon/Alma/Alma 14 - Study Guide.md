@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 14
 slug: alma-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 5 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 15]] — 5 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 15#^alma-15-19|Alma 15:19]]
-- [[Alma 35]] — 6 parallel verses, e.g. [[Alma 14#^alma-14-7|Alma 14:7]] ↔ [[Alma 35#^alma-35-6|Alma 35:6]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 30]] — 3 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 8]] — 2 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 8#^alma-8-3|Alma 8:3]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Alma 45]] — 2 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Helaman 16]] — 3 parallel verses, e.g. [[Alma 14#^alma-14-23|Alma 14:23]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
-- [[2 Nephi 4]] — 4 parallel verses, e.g. [[Alma 14#^alma-14-1|Alma 14:1]] ↔ [[2 Nephi 4#^2ne-4-11|2 Nephi 4:11]]
+- [[Alma 15]] — 4 parallel verses, e.g. [[Alma 14#^alma-14-5|Alma 14:5]] ↔ [[Alma 15#^alma-15-15|Alma 15:15]]
+- [[Alma 20]] — 2 parallel verses, e.g. [[Alma 14#^alma-14-6|Alma 14:6]] ↔ [[Alma 20#^alma-20-27|Alma 20:27]]
+- [[Alma 35]] — 1 parallel verse, e.g. [[Alma 14#^alma-14-7|Alma 14:7]] ↔ [[Alma 35#^alma-35-6|Alma 35:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

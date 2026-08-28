@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joseph Smith—Matthew 1]] — 11 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]]
-- [[Matthew 24]] — 9 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Matthew 24#^matt-24-40|Matthew 24:40]]
+- [[Matthew 24]] — 7 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Matthew 24#^matt-24-40|Matthew 24:40]]
+- [[Joseph Smith—Matthew 1]] — 8 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]]
 - [[Matthew 18]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Matthew 18#^matt-18-6|Matthew 18:6]]
 - [[Mark 9]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Mark 9#^mark-9-42|Mark 9:42]]
-- [[Luke 9]] — 3 parallel verses, e.g. [[Luke 17#^luke-17-14|Luke 17:14]] ↔ [[Luke 9#^luke-9-57|Luke 9:57]]
+- [[Luke 9]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-14|Luke 17:14]] ↔ [[Luke 9#^luke-9-57|Luke 9:57]]
 - [[Mark 8]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-33|Luke 17:33]] ↔ [[Mark 8#^mark-8-35|Mark 8:35]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-6|Luke 17:6]] ↔ [[Matthew 17#^matt-17-20|Matthew 17:20]]
-- [[D&C 98]] — 3 parallel verses, e.g. [[Luke 17#^luke-17-4|Luke 17:4]] ↔ [[D&C 98#^dc-98-41|D&C 98:41]]
 - [[Mark 10]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-19|Luke 17:19]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
-- [[Matthew 16]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-33|Luke 17:33]] ↔ [[Matthew 16#^matt-16-25|Matthew 16:25]]
-- [[3 Nephi 6]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-26|Luke 17:26]] ↔ [[3 Nephi 6#^3ne-6-19|3 Nephi 6:19]]
-- [[Luke 11]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-24|Luke 17:24]] ↔ [[Luke 11#^luke-11-30|Luke 11:30]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

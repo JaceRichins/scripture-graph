@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 4 mentions
+- [[Joseph Smith Jr]] — 4 mentions
 - [[Jesus Christ]] — 2 mentions
 - [[Joseph (of Egypt)]] — 2 mentions
 - [[Martin Harris]] — 2 mentions

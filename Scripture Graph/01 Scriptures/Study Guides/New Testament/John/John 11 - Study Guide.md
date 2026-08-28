@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,9 +43,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[John 18]] — 2 parallel verses, e.g. [[John 11#^john-11-50|John 11:50]] ↔ [[John 18#^john-18-14|John 18:14]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 11#^john-11-41|John 11:41]] ↔ [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]]
-- [[Genesis 27]] — 1 parallel verse, e.g. [[John 11#^john-11-31|John 11:31]] ↔ [[Genesis 27#^gen-27-15|Genesis 27:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

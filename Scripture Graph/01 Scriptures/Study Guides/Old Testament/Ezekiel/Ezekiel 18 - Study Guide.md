@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 18
 slug: ezek-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,15 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 33]] — 28 parallel verses, e.g. [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]] ↔ [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]]
+- [[Ezekiel 33]] — 18 parallel verses, e.g. [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]] ↔ [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]]
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 18#^ezek-18-30|Ezekiel 18:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
 - [[Jeremiah 31]] — 1 parallel verse, e.g. [[Ezekiel 18#^ezek-18-2|Ezekiel 18:2]] ↔ [[Jeremiah 31#^jer-31-29|Jeremiah 31:29]]
-- [[Ezekiel 17]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 17#^ezek-17-16|Ezekiel 17:16]]
-- [[Proverbs 10]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-25|Ezekiel 18:25]] ↔ [[Proverbs 10#^prov-10-29|Proverbs 10:29]]
-- [[Ezekiel 3]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-18|Ezekiel 18:18]] ↔ [[Ezekiel 3#^ezek-3-19|Ezekiel 3:19]]
-- [[Ezekiel 8]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-6|Ezekiel 18:6]] ↔ [[Ezekiel 8#^ezek-8-10|Ezekiel 8:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

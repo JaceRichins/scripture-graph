@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 4
 slug: judg-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 10]] — 12 parallel verses, e.g. [[Judges 4#^judg-4-15|Judges 4:15]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
-- [[Judges 3]] — 4 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 3#^judg-3-9|Judges 3:9]]
 - [[Judges 9]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-13|Judges 4:13]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
-- [[Judges 6]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
-- [[Joshua 11]] — 4 parallel verses, e.g. [[Judges 4#^judg-4-15|Judges 4:15]] ↔ [[Joshua 11#^josh-11-11|Joshua 11:11]]
-- [[Job 1]] — 4 parallel verses, e.g. [[Judges 4#^judg-4-15|Judges 4:15]] ↔ [[Job 1#^job-1-15|Job 1:15]]
-- [[1 Samuel 14]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-13|Judges 4:13]] ↔ [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]]
-- [[2 Samuel 17]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-13|Judges 4:13]] ↔ [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]]
-- [[Joshua 8]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-16|Judges 4:16]] ↔ [[Joshua 8#^josh-8-17|Joshua 8:17]]
-- [[2 Kings 10]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-16|Judges 4:16]] ↔ [[2 Kings 10#^2kgs-10-21|2 Kings 10:21]]
+- [[Judges 6]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
+- [[Judges 3]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 3#^judg-3-9|Judges 3:9]]
 - [[1 Kings 17]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-19|Judges 4:19]] ↔ [[1 Kings 17#^1kgs-17-10|1 Kings 17:10]]
-- [[Judges 1]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-15|Judges 4:15]] ↔ [[Judges 1#^judg-1-8|Judges 1:8]]
+- [[Genesis 24]] — 1 parallel verse, e.g. [[Judges 4#^judg-4-19|Judges 4:19]] ↔ [[Genesis 24#^gen-24-43|Genesis 24:43]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

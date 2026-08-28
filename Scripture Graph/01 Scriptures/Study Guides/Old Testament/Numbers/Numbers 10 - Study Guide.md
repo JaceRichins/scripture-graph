@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 10
 slug: num-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 34]] — 72 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
-- [[Joshua 19]] — 65 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
-- [[Joshua 15]] — 27 parallel verses, e.g. [[Numbers 10#^num-10-14|Numbers 10:14]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
-- [[Numbers 2]] — 22 parallel verses, e.g. [[Numbers 10#^num-10-18|Numbers 10:18]] ↔ [[Numbers 2#^num-2-10|Numbers 2:10]]
+- [[Numbers 34]] — 58 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
+- [[Joshua 19]] — 42 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
+- [[Joshua 15]] — 26 parallel verses, e.g. [[Numbers 10#^num-10-14|Numbers 10:14]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
 - [[Joshua 18]] — 17 parallel verses, e.g. [[Numbers 10#^num-10-24|Numbers 10:24]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
+- [[Numbers 2]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-18|Numbers 10:18]] ↔ [[Numbers 2#^num-2-10|Numbers 2:10]]
 - [[1 Chronicles 6]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
 - [[Joshua 21]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 21#^josh-21-9|Joshua 21:9]]
 - [[Joshua 16]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-15|Numbers 10:15]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
-- [[Numbers 7]] — 11 parallel verses, e.g. [[Numbers 10#^num-10-11|Numbers 10:11]] ↔ [[Numbers 7#^num-7-1|Numbers 7:1]]
-- [[Numbers 4]] — 5 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
-- [[Joshua 13]] — 9 parallel verses, e.g. [[Numbers 10#^num-10-23|Numbers 10:23]] ↔ [[Joshua 13#^josh-13-29|Joshua 13:29]]
-- [[Leviticus 19]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-10|Numbers 10:10]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
+- [[Numbers 4]] — 4 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 9#^num-9-23|Numbers 9:23]]
+- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

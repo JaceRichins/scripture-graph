@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 1
 slug: mark-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,17 +45,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Luke 4]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-24|Mark 1:24]] ↔ [[Luke 4#^luke-4-34|Luke 4:34]]
-- [[Luke 3]] — 6 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
+- [[Luke 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
 - [[Matthew 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
-- [[Matthew 8]] — 5 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Matthew 8#^matt-8-4|Matthew 8:4]]
-- [[Matthew 4]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-16|Mark 1:16]] ↔ [[Matthew 4#^matt-4-18|Matthew 4:18]]
-- [[Luke 5]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Luke 5#^luke-5-14|Luke 5:14]]
-- [[Luke 7]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
+- [[Matthew 8]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Matthew 8#^matt-8-4|Matthew 8:4]]
+- [[Luke 5]] — 3 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Luke 5#^luke-5-14|Luke 5:14]]
+- [[Matthew 4]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-16|Mark 1:16]] ↔ [[Matthew 4#^matt-4-18|Matthew 4:18]]
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
+- [[Luke 7]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
-- [[Luke 8]] — 3 parallel verses, e.g. [[Mark 1#^mark-1-38|Mark 1:38]] ↔ [[Luke 8#^luke-8-22|Luke 8:22]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
+- [[1 Nephi 10]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
+- [[Luke 6]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-9|Mark 1:9]] ↔ [[Luke 6#^luke-6-12|Luke 6:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

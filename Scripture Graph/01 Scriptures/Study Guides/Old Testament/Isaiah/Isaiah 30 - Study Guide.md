@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 30
 slug: isa-30
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 88]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-26|Isaiah 30:26]] ↔ [[D&C 88#^dc-88-7|D&C 88:7]]
-- [[D&C 78]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-15|Isaiah 30:15]] ↔ [[D&C 78#^dc-78-15|D&C 78:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

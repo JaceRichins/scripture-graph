@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 6
 slug: ezra-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezra 5]] — 9 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Ezra 5#^ezra-5-1|Ezra 5:1]]
-- [[Numbers 1]] — 13 parallel verses, e.g. [[Ezra 6#^ezra-6-17|Ezra 6:17]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
-- [[2 Chronicles 35]] — 6 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]]
-- [[2 Chronicles 30]] — 4 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[2 Chronicles 30#^2chr-30-21|2 Chronicles 30:21]]
-- [[Ezra 3]] — 6 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
-- [[Ezra 4]] — 4 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[Ezra 4#^ezra-4-24|Ezra 4:24]]
-- [[Numbers 4]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[Ezra 5]] — 6 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Ezra 5#^ezra-5-1|Ezra 5:1]]
+- [[2 Chronicles 35]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]]
+- [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[2 Chronicles 30#^2chr-30-21|2 Chronicles 30:21]]
 - [[Numbers 9]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Numbers 9#^num-9-20|Numbers 9:20]]
-- [[Joshua 4]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-17|Ezra 6:17]] ↔ [[Joshua 4#^josh-4-8|Joshua 4:8]]
-- [[Nehemiah 10]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
-- [[Nehemiah 11]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-16|Ezra 6:16]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
-- [[Ezekiel 4]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-17|Ezra 6:17]] ↔ [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]]
+- [[Ezra 4]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[Ezra 4#^ezra-4-24|Ezra 4:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

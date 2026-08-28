@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 10]] — 22 parallel verses, e.g. [[Luke 18#^luke-18-20|Luke 18:20]] ↔ [[Mark 10#^mark-10-19|Mark 10:19]]
+- [[Mark 10]] — 16 parallel verses, e.g. [[Luke 18#^luke-18-20|Luke 18:20]] ↔ [[Mark 10#^mark-10-19|Mark 10:19]]
 - [[D&C 101]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-4|Luke 18:4]] ↔ [[D&C 101#^dc-101-84|D&C 101:84]]
-- [[Matthew 19]] — 9 parallel verses, e.g. [[Luke 18#^luke-18-25|Luke 18:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Matthew 19]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-25|Luke 18:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
 - [[Matthew 20]] — 3 parallel verses, e.g. [[Luke 18#^luke-18-31|Luke 18:31]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
 - [[Luke 14]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-14|Luke 18:14]] ↔ [[Luke 14#^luke-14-11|Luke 14:11]]
-- [[Mark 9]] — 3 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
+- [[Mark 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
 - [[Matthew 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-38|Luke 18:38]] ↔ [[Matthew 9#^matt-9-27|Matthew 9:27]]
-- [[Matthew 21]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
-- [[Luke 12]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-1|Luke 18:1]] ↔ [[Luke 12#^luke-12-16|Luke 12:16]]
 - [[Luke 10]] — 1 parallel verse, e.g. [[Luke 18#^luke-18-18|Luke 18:18]] ↔ [[Luke 10#^luke-10-25|Luke 10:25]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-31|Luke 18:31]] ↔ [[Matthew 17#^matt-17-22|Matthew 17:22]]
-- [[Mark 12]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 12#^mark-12-43|Mark 12:43]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

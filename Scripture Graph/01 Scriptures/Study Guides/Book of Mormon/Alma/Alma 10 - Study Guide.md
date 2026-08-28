@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 10
 slug: alma-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,18 +46,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 5]] — 9 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]
-- [[Alma 9]] — 7 parallel verses, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Alma 9#^alma-9-25|Alma 9:25]]
-- [[Mosiah 7]] — 5 parallel verses, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
-- [[Alma 12]] — 5 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 12#^alma-12-19|Alma 12:19]]
-- [[Helaman 13]] — 4 parallel verses, e.g. [[Alma 10#^alma-10-23|Alma 10:23]] ↔ [[Helaman 13#^hel-13-14|Helaman 13:14]]
-- [[Alma 8]] — 4 parallel verses, e.g. [[Alma 10#^alma-10-7|Alma 10:7]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 10#^alma-10-30|Alma 10:30]] ↔ [[Alma 50#^alma-50-29|Alma 50:29]]
-- [[Helaman 5]] — 3 parallel verses, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
-- [[Alma 13]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
-- [[Mosiah 23]] — 3 parallel verses, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
-- [[Alma 25]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Alma 25#^alma-25-2|Alma 25:2]]
-- [[Alma 15]] — 3 parallel verses, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Alma 15#^alma-15-15|Alma 15:15]]
+- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-30|Alma 10:30]] ↔ [[Alma 50#^alma-50-29|Alma 50:29]]
+- [[Helaman 5]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]
+- [[Alma 13]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
+- [[D&C 138]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-13|Alma 10:13]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
+- [[Alma 25]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Alma 25#^alma-25-2|Alma 25:2]]
+- [[Matthew 4]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Matthew 4#^matt-4-17|Matthew 4:17]]
+- [[Alma 6]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 6#^alma-6-8|Alma 6:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,11 +45,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Acts 19]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-16|Acts 8:16]] ↔ [[Acts 19#^acts-19-5|Acts 19:5]]
 - [[1 Nephi 11]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-26|Acts 8:26]] ↔ [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]]
-- [[D&C 46]] — 1 parallel verse, e.g. [[Acts 8#^acts-8-37|Acts 8:37]] ↔ [[D&C 46#^dc-46-13|D&C 46:13]]
-- [[Alma 41]] — 1 parallel verse, e.g. [[Acts 8#^acts-8-23|Acts 8:23]] ↔ [[Alma 41#^alma-41-11|Alma 41:11]]
-- [[Mormon 8]] — 1 parallel verse, e.g. [[Acts 8#^acts-8-23|Acts 8:23]] ↔ [[Mormon 8#^morm-8-31|Mormon 8:31]]
-- [[Moroni 8]] — 1 parallel verse, e.g. [[Acts 8#^acts-8-23|Acts 8:23]] ↔ [[Moroni 8#^moro-8-14|Moroni 8:14]]
-- [[3 Nephi 26]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-16|Acts 8:16]] ↔ [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

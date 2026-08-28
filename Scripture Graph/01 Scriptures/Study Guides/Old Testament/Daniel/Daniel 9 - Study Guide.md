@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 9
 slug: dan-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 23]] — 5 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
-- [[2 Kings 11]] — 4 parallel verses, e.g. [[Daniel 9#^dan-9-6|Daniel 9:6]] ↔ [[2 Kings 11#^2kgs-11-14|2 Kings 11:14]]
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
+- [[2 Chronicles 23]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[Jeremiah 18]] — 1 parallel verse, e.g. [[Daniel 9#^dan-9-7|Daniel 9:7]] ↔ [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]]
 - [[1 Corinthians 9]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
-- [[Luke 2]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Daniel 9#^dan-9-7|Daniel 9:7]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
-- [[1 Kings 8]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-10|Daniel 9:10]] ↔ [[1 Kings 8#^1kgs-8-61|1 Kings 8:61]]
-- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
-- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-11|Daniel 9:11]] ↔ [[1 Chronicles 16#^1chr-16-40|1 Chronicles 16:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

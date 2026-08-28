@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 79
 slug: ps-79
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 44]] — 1 parallel verse, e.g. [[Psalm 79#^ps-79-4|Psalm 79:4]] ↔ [[Psalm 44#^ps-44-13|Psalm 44:13]]
-- [[Jeremiah 34]] — 1 parallel verse, e.g. [[Psalm 79#^ps-79-2|Psalm 79:2]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

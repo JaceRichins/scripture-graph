@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 7
 slug: hel-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 8]] — 5 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 4]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
-- [[Alma 9]] — 5 parallel verses, e.g. [[Helaman 7#^hel-7-28|Helaman 7:28]] ↔ [[Alma 9#^alma-9-24|Alma 9:24]]
-- [[Helaman 3]] — 5 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Helaman 3#^hel-3-22|Helaman 3:22]]
-- [[Helaman 6]] — 5 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Helaman 11]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 5]] — 3 parallel verses, e.g. [[Helaman 7#^hel-7-18|Helaman 7:18]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
-- [[Alma 51]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Helaman 16]] — 4 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Helaman 7#^hel-7-1|Helaman 7:1]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
+- [[Alma 9]] — 3 parallel verses, e.g. [[Helaman 7#^hel-7-28|Helaman 7:28]] ↔ [[Alma 9#^alma-9-24|Alma 9:24]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-18|Helaman 7:18]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
+- [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-2|Helaman 7:2]] ↔ [[Helaman 4#^hel-4-14|Helaman 4:14]]
+- [[Jacob 3]] — 1 parallel verse, e.g. [[Helaman 7#^hel-7-24|Helaman 7:24]] ↔ [[Jacob 3#^jacob-3-5|Jacob 3:5]]
+- [[Helaman 5]] — 1 parallel verse, e.g. [[Helaman 7#^hel-7-7|Helaman 7:7]] ↔ [[Helaman 5#^hel-5-6|Helaman 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 24
 slug: alma-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,18 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 23]] — 10 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 23#^alma-23-12|Alma 23:12]]
-- [[Alma 27]] — 9 parallel verses, e.g. [[Alma 24#^alma-24-6|Alma 24:6]] ↔ [[Alma 27#^alma-27-23|Alma 27:23]]
-- [[Alma 21]] — 4 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]
-- [[Alma 17]] — 5 parallel verses, e.g. [[Alma 24#^alma-24-24|Alma 24:24]] ↔ [[Alma 17#^alma-17-39|Alma 17:39]]
-- [[Alma 35]] — 2 parallel verses, e.g. [[Alma 24#^alma-24-4|Alma 24:4]] ↔ [[Alma 35#^alma-35-11|Alma 35:11]]
-- [[Alma 25]] — 5 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 25#^alma-25-2|Alma 25:2]]
-- [[Helaman 15]] — 4 parallel verses, e.g. [[Alma 24#^alma-24-27|Alma 24:27]] ↔ [[Helaman 15#^hel-15-7|Helaman 15:7]]
-- [[Helaman 5]] — 3 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Helaman 5#^hel-5-19|Helaman 5:19]]
-- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 24#^alma-24-21|Alma 24:21]] ↔ [[Alma 43#^alma-43-41|Alma 43:41]]
-- [[Mosiah 1]] — 3 parallel verses, e.g. [[Alma 24#^alma-24-17|Alma 24:17]] ↔ [[Mosiah 1#^mosiah-1-15|Mosiah 1:15]]
-- [[Mosiah 23]] — 3 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
-- [[Alma 26]] — 3 parallel verses, e.g. [[Alma 24#^alma-24-6|Alma 24:6]] ↔ [[Alma 26#^alma-26-34|Alma 26:34]]
+- [[Alma 23]] — 4 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 23#^alma-23-12|Alma 23:12]]
+- [[Alma 35]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-4|Alma 24:4]] ↔ [[Alma 35#^alma-35-11|Alma 35:11]]
+- [[Alma 21]] — 2 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]
+- [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-23|Alma 24:23]] ↔ [[Deuteronomy 5#^deut-5-32|Deuteronomy 5:32]]
+- [[1 Samuel 6]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-23|Alma 24:23]] ↔ [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]]
+- [[2 Kings 22]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-23|Alma 24:23]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

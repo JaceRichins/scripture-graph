@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,6 @@ _Not yet developed._
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
-- [[Jeremiah 5]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-20|Jeremiah 3:20]] ↔ [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]]
-- [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-25|Jeremiah 3:25]] ↔ [[Jeremiah 42#^jer-42-21|Jeremiah 42:21]]
-- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]]
 - [[Jeremiah 44]] — 1 parallel verse, e.g. [[Jeremiah 3#^jer-3-25|Jeremiah 3:25]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
 <!-- SG:END related-scriptures -->
 

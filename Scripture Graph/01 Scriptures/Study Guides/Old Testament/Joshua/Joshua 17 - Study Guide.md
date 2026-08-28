@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 17
 slug: josh-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 27]] — 5 parallel verses, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
-- [[Judges 1]] — 5 parallel verses, e.g. [[Joshua 17#^josh-17-11|Joshua 17:11]] ↔ [[Judges 1#^judg-1-27|Judges 1:27]]
+- [[Judges 1]] — 4 parallel verses, e.g. [[Joshua 17#^josh-17-11|Joshua 17:11]] ↔ [[Judges 1#^judg-1-27|Judges 1:27]]
+- [[Numbers 27]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Joshua 17#^josh-17-4|Joshua 17:4]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
-- [[Numbers 36]] — 2 parallel verses, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
-- [[Numbers 32]] — 3 parallel verses, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 32#^num-32-39|Numbers 32:39]]
+- [[Numbers 36]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
 - [[Numbers 26]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 26#^num-26-33|Numbers 26:33]]
-- [[Joshua 13]] — 2 parallel verses, e.g. [[Joshua 17#^josh-17-2|Joshua 17:2]] ↔ [[Joshua 13#^josh-13-29|Joshua 13:29]]
 - [[1 Chronicles 7]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]]
-- [[Numbers 1]] — 2 parallel verses, e.g. [[Joshua 17#^josh-17-2|Joshua 17:2]] ↔ [[Numbers 1#^num-1-34|Numbers 1:34]]
-- [[Joshua 15]] — 2 parallel verses, e.g. [[Joshua 17#^josh-17-4|Joshua 17:4]] ↔ [[Joshua 15#^josh-15-13|Joshua 15:13]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
-- [[Judges 6]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-13|Joshua 17:13]] ↔ [[Judges 6#^judg-6-7|Judges 6:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

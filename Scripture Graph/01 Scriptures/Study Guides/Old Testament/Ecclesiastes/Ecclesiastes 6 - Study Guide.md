@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 6
 slug: eccl-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Ecclesiastes 10]] — 1 parallel verse, e.g. [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]] ↔ [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]]
-- [[Ecclesiastes 5]] — 2 parallel verses, e.g. [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]] ↔ [[Ecclesiastes 5#^eccl-5-13|Ecclesiastes 5:13]]
-- [[Ecclesiastes 4]] — 1 parallel verse, e.g. [[Ecclesiastes 6#^eccl-6-9|Ecclesiastes 6:9]] ↔ [[Ecclesiastes 4#^eccl-4-4|Ecclesiastes 4:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

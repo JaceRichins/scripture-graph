@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,8 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 28]] — 2 parallel verses, e.g. [[Proverbs 19#^prov-19-1|Proverbs 19:1]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
-- [[Proverbs 26]] — 2 parallel verses, e.g. [[Proverbs 19#^prov-19-10|Proverbs 19:10]] ↔ [[Proverbs 26#^prov-26-1|Proverbs 26:1]]
+- [[Proverbs 28]] — 1 parallel verse, e.g. [[Proverbs 19#^prov-19-1|Proverbs 19:1]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -121,7 +121,7 @@ def run_nightly(ctx: Ctx) -> dict:
             update_all_coverage(ctx)
             enqueue_wave(ctx, "research", limit=budget * 3, by_priority=True)
         stats["queue"] = _process(ctx, include_ai=budget > 0, ai_budget=budget,
-                                  max_items=2000)
+                                  max_items=20000)
         update_all_coverage(ctx)
         write_status_note(ctx)
         gitops.commit_all(ctx, "nightly: refinement run")

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Omni
 chapter: 1
 slug: omni-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[4 Nephi 1]] — 12 parallel verses, e.g. [[Omni 1#^omni-1-3|Omni 1:3]] ↔ [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]]
 - [[3 Nephi 4]] — 4 parallel verses, e.g. [[Omni 1#^omni-1-7|Omni 1:7]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
-- [[Jarom 1]] — 4 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
-- [[Mosiah 2]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
-- [[2 Nephi 1]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[4 Nephi 1]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-3|Omni 1:3]] ↔ [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]]
+- [[Jarom 1]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Mosiah 28]] — 2 parallel verses, e.g. [[Omni 1#^omni-1-22|Omni 1:22]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
-- [[Alma 5]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-12|Omni 1:12]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
-- [[Alma 62]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-7|Omni 1:7]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
+- [[Mosiah 28]] — 1 parallel verse, e.g. [[Omni 1#^omni-1-22|Omni 1:22]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
 - [[Ether 1]] — 1 parallel verse, e.g. [[Omni 1#^omni-1-22|Omni 1:22]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
-- [[Mosiah 10]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-13|Omni 1:13]] ↔ [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]]
-- [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Omni 1#^omni-1-12|Omni 1:12]] ↔ [[Deuteronomy 28#^deut-28-2|Deuteronomy 28:2]]
+- [[Mosiah 2]] — 2 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Omni 1#^omni-1-7|Omni 1:7]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
+- [[Mosiah 10]] — 2 parallel verses, e.g. [[Omni 1#^omni-1-13|Omni 1:13]] ↔ [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]]
+- [[2 Nephi 1]] — 1 parallel verse, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[2 Nephi 4]] — 1 parallel verse, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Omni 1#^omni-1-2|Omni 1:2]] ↔ [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 14
 slug: 1sam-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 9]] — 9 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
-- [[2 Samuel 17]] — 6 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]]
-- [[1 Samuel 30]] — 6 parallel verses, e.g. [[1 Samuel 14#^1sam-14-2|1 Samuel 14:2]] ↔ [[1 Samuel 30#^1sam-30-4|1 Samuel 30:4]]
-- [[2 Samuel 16]] — 4 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
-- [[Genesis 35]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Genesis 35#^gen-35-6|Genesis 35:6]]
-- [[Judges 4]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Judges 4#^judg-4-13|Judges 4:13]]
-- [[Judges 7]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Judges 7#^judg-7-1|Judges 7:1]]
-- [[2 Samuel 3]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 3#^2sam-3-31|2 Samuel 3:31]]
-- [[2 Samuel 6]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 6#^2sam-6-2|2 Samuel 6:2]]
-- [[2 Samuel 10]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-2|1 Samuel 14:2]] ↔ [[2 Samuel 10#^2sam-10-13|2 Samuel 10:13]]
-- [[2 Chronicles 14]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-2|1 Samuel 14:2]] ↔ [[2 Chronicles 14#^2chr-14-13|2 Chronicles 14:13]]
-- [[1 Chronicles 19]] — 3 parallel verses, e.g. [[1 Samuel 14#^1sam-14-2|1 Samuel 14:2]] ↔ [[1 Chronicles 19#^1chr-19-14|1 Chronicles 19:14]]
+- [[Judges 9]] — 4 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
+- [[2 Samuel 16]] — 2 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
+- [[2 Samuel 14]] — 1 parallel verse, e.g. [[1 Samuel 14#^1sam-14-45|1 Samuel 14:45]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 3
 slug: jonah-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jonah 3#^jonah-3-8|Jonah 3:8]] ↔ [[Jeremiah 25#^jer-25-5|Jeremiah 25:5]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[Jonah 3#^jonah-3-3|Jonah 3:3]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[1 Kings 16]] — 2 parallel verses, e.g. [[Jonah 3#^jonah-3-3|Jonah 3:3]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
-- [[1 Chronicles 11]] — 2 parallel verses, e.g. [[Jonah 3#^jonah-3-3|Jonah 3:3]] ↔ [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

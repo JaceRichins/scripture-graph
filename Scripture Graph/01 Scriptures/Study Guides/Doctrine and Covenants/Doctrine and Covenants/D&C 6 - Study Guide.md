@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 6
 slug: dc-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,16 +41,16 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 11]] — 12 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 12]] — 6 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
-- [[D&C 14]] — 8 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
-- [[D&C 10]] — 3 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
+- [[D&C 14]] — 7 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
+- [[D&C 10]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
 - [[D&C 33]] — 3 parallel verses, e.g. [[D&C 6#^dc-6-2|D&C 6:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[Matthew 18]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-32|D&C 6:32]] ↔ [[Matthew 18#^matt-18-20|Matthew 18:20]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 39#^dc-39-2|D&C 39:2]]
-- [[D&C 4]] — 3 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
 - [[2 Corinthians 13]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-28|D&C 6:28]] ↔ [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]]
-- [[3 Nephi 20]] — 3 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[3 Nephi 20#^3ne-20-31|3 Nephi 20:31]]
-- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 88#^dc-88-49|D&C 88:49]]
+- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
+- [[D&C 34]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 34#^dc-34-2|D&C 34:2]]
+- [[Moroni 10]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-13|D&C 6:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

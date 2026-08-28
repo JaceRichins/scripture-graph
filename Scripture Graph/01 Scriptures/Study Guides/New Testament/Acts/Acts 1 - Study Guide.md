@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -48,9 +48,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Acts 11]] — 1 parallel verse, e.g. [[Acts 1#^acts-1-5|Acts 1:5]] ↔ [[Acts 11#^acts-11-16|Acts 11:16]]
-- [[Mark 13]] — 2 parallel verses, e.g. [[Acts 1#^acts-1-13|Acts 1:13]] ↔ [[Mark 13#^mark-13-3|Mark 13:3]]
-- [[Luke 6]] — 2 parallel verses, e.g. [[Acts 1#^acts-1-13|Acts 1:13]] ↔ [[Luke 6#^luke-6-15|Luke 6:15]]
-- [[Mosiah 18]] — 1 parallel verse, e.g. [[Acts 1#^acts-1-3|Acts 1:3]] ↔ [[Mosiah 18#^mosiah-18-18|Mosiah 18:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

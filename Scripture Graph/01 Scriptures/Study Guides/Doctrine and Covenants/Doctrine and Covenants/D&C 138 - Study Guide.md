@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -33,7 +33,7 @@ _Not yet developed._
 - [[Adam]] — 2 mentions
 - [[Moses (prophet)]] — 2 mentions
 - [[Elijah]] — 2 mentions
-- [[Joseph Smith Jr.]] — 2 mentions
+- [[Joseph Smith Jr]] — 2 mentions
 - [[Eve]] — 1 mention
 - [[Abel]] — 1 mention
 - [[Seth]] — 1 mention
@@ -53,18 +53,18 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Peter 3]] — cited in the text
 - [[1 Peter 4]] — cited in the text
-- [[1 Peter 3]] — 5 parallel verses, e.g. [[D&C 138#^dc-138-7|D&C 138:7]] ↔ [[1 Peter 3#^1pet-3-18|1 Peter 3:18]]
+- [[1 Peter 3]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-7|D&C 138:7]] ↔ [[1 Peter 3#^1pet-3-18|1 Peter 3:18]]
 - [[1 Peter 4]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[1 Peter 4#^1pet-4-6|1 Peter 4:6]]
-- [[Joseph Smith—History 1]] — 5 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[Joseph Smith—History 1#^jsh-1-39|Joseph Smith—History 1:39]]
 - [[D&C 76]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[D&C 76#^dc-76-73|D&C 76:73]]
-- [[D&C 20]] — 6 parallel verses, e.g. [[D&C 138#^dc-138-60|D&C 138:60]] ↔ [[D&C 20#^dc-20-1|D&C 20:1]]
 - [[D&C 68]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-46|D&C 138:46]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-48|D&C 138:48]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
 - [[D&C 2]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[D&C 2#^dc-2-2|D&C 2:2]]
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[Joseph Smith—History 1#^jsh-1-39|Joseph Smith—History 1:39]]
+- [[D&C 20]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-60|D&C 138:60]] ↔ [[D&C 20#^dc-20-1|D&C 20:1]]
 - [[Isaiah 61]] — 1 parallel verse, e.g. [[D&C 138#^dc-138-42|D&C 138:42]] ↔ [[Isaiah 61#^isa-61-1|Isaiah 61:1]]
-- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
-- [[D&C 130]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-49|D&C 138:49]] ↔ [[D&C 130#^dc-130-14|D&C 130:14]]
+- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[D&C 88#^dc-88-99|D&C 88:99]]
+- [[D&C 49]] — 1 parallel verse, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

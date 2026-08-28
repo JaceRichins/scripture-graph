@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 26
 slug: 2chr-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 15]] — 19 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-21|2 Chronicles 26:21]] ↔ [[2 Kings 15#^2kgs-15-5|2 Kings 15:5]]
-- [[2 Kings 14]] — 11 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-2|2 Chronicles 26:2]] ↔ [[2 Kings 14#^2kgs-14-22|2 Kings 14:22]]
-- [[2 Chronicles 27]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
-- [[2 Kings 24]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
-- [[2 Chronicles 36]] — 10 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
-- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
-- [[1 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-23|2 Chronicles 26:23]] ↔ [[1 Kings 15#^1kgs-15-8|1 Kings 15:8]]
-- [[2 Kings 21]] — 8 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
-- [[1 Kings 22]] — 7 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
+- [[2 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
+- [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
+- [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-2|2 Chronicles 26:2]] ↔ [[2 Kings 14#^2kgs-14-22|2 Kings 14:22]]
+- [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
+- [[2 Kings 24]] — 4 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
 - [[2 Kings 18]] — 2 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
-- [[2 Chronicles 25]] — 5 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
-- [[1 Kings 16]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-23|2 Chronicles 26:23]] ↔ [[1 Kings 16#^1kgs-16-6|1 Kings 16:6]]
+- [[2 Chronicles 24]] — 2 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[2 Chronicles 24#^2chr-24-1|2 Chronicles 24:1]]
+- [[2 Chronicles 25]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
+- [[2 Chronicles 28]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]]
+- [[2 Chronicles 36]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
+- [[2 Kings 22]] — 2 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
+- [[2 Chronicles 29]] — 1 parallel verse, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 24
 slug: 1sam-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,15 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 4]] — 4 parallel verses, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]]
 - [[1 Samuel 26]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[1 Samuel 26#^1sam-26-17|1 Samuel 26:17]]
-- [[Mosiah 8]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]]
-- [[D&C 64]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-12|1 Samuel 24:12]] ↔ [[D&C 64#^dc-64-11|D&C 64:11]]
-- [[Judges 11]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-21|1 Samuel 24:21]] ↔ [[Judges 11#^judg-11-7|Judges 11:7]]
-- [[Mosiah 25]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[Mosiah 25#^mosiah-25-14|Mosiah 25:14]]
-- [[Alma 12]] — 1 parallel verse, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[Alma 12#^alma-12-19|Alma 12:19]]
-- [[Alma 44]] — 1 parallel verse, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[Alma 44#^alma-44-10|Alma 44:10]]
-- [[Judges 20]] — 1 parallel verse, e.g. [[1 Samuel 24#^1sam-24-2|1 Samuel 24:2]] ↔ [[Judges 20#^judg-20-34|Judges 20:34]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

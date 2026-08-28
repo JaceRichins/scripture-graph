@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Ephesians 5]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-16|Colossians 3:16]] ↔ [[Ephesians 5#^eph-5-19|Ephesians 5:19]]
-- [[Ephesians 6]] — 4 parallel verses, e.g. [[Colossians 3#^col-3-21|Colossians 3:21]] ↔ [[Ephesians 6#^eph-6-4|Ephesians 6:4]]
-- [[Acts 7]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-1|Colossians 3:1]] ↔ [[Acts 7#^acts-7-55|Acts 7:55]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

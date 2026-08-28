@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 8
 slug: neh-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 85]] — 4 parallel verses, e.g. [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[Ezra 3#^ezra-3-1|Ezra 3:1]]
-- [[Joshua 8]] — 3 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[Joshua 8#^josh-8-31|Joshua 8:31]]
-- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-16|Nehemiah 8:16]] ↔ [[1 Chronicles 28#^1chr-28-12|1 Chronicles 28:12]]
-- [[Joshua 24]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]] ↔ [[Joshua 24#^josh-24-26|Joshua 24:26]]
-- [[Nehemiah 9]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]] ↔ [[Nehemiah 9#^neh-9-3|Nehemiah 9:3]]
-- [[Ezra 7]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[Ezra 7#^ezra-7-6|Ezra 7:6]]
-- [[Joshua 23]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[Joshua 23#^josh-23-6|Joshua 23:6]]
-- [[2 Kings 14]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[2 Kings 14#^2kgs-14-6|2 Kings 14:6]]
-- [[2 Chronicles 23]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-16|Nehemiah 8:16]] ↔ [[2 Chronicles 23#^2chr-23-5|2 Chronicles 23:5]]
-- [[2 Chronicles 28]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-16|Nehemiah 8:16]] ↔ [[2 Chronicles 28#^2chr-28-24|2 Chronicles 28:24]]
-- [[2 Chronicles 31]] — 1 parallel verse, e.g. [[Nehemiah 8#^neh-8-16|Nehemiah 8:16]] ↔ [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]]
+- [[D&C 85]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

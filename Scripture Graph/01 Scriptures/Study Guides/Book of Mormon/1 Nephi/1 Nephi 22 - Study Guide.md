@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 22
 slug: 1ne-22
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 20]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
-- [[1 Nephi 19]] — 16 parallel verses, e.g. [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
-- [[Acts 3]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
-- [[1 Nephi 14]] — 11 parallel verses, e.g. [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
-- [[3 Nephi 16]] — 10 parallel verses, e.g. [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
-- [[2 Nephi 6]] — 9 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
-- [[2 Nephi 1]] — 8 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]]
-- [[1 Nephi 15]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-9|1 Nephi 22:9]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
-- [[2 Nephi 27]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
-- [[D&C 29]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[D&C 29#^dc-29-21|D&C 29:21]]
-- [[1 Nephi 13]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
-- [[D&C 1]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]] ↔ [[D&C 1#^dc-1-9|D&C 1:9]]
+- [[3 Nephi 20]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
+- [[Acts 3]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
+- [[1 Nephi 19]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
+- [[1 Nephi 14]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[2 Nephi 6]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
+- [[1 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-9|1 Nephi 22:9]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
+- [[3 Nephi 16]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
+- [[D&C 29]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[D&C 29#^dc-29-21|D&C 29:21]]
+- [[1 Nephi 13]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
+- [[D&C 1]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]] ↔ [[D&C 1#^dc-1-9|D&C 1:9]]
+- [[2 Nephi 1]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]]
+- [[2 Nephi 27]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

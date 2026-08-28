@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -53,14 +53,6 @@ _Not yet developed._
 - [[Psalm 2]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Psalm 2#^ps-2-7|Psalm 2:7]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]
 - [[Luke 4]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-14|Acts 13:14]] ↔ [[Luke 4#^luke-4-16|Luke 4:16]]
-- [[Alma 6]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-44|Acts 13:44]] ↔ [[Alma 6#^alma-6-5|Alma 6:5]]
-- [[Genesis 41]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-17|Acts 13:17]] ↔ [[Genesis 41#^gen-41-30|Genesis 41:30]]
-- [[Genesis 47]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-17|Acts 13:17]] ↔ [[Genesis 47#^gen-47-14|Genesis 47:14]]
-- [[Acts 7]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-17|Acts 13:17]] ↔ [[Acts 7#^acts-7-36|Acts 7:36]]
-- [[Mormon 9]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-47|Acts 13:47]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
-- [[D&C 65]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-47|Acts 13:47]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
-- [[Luke 5]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-7|Acts 13:7]] ↔ [[Luke 5#^luke-5-1|Luke 5:1]]
-- [[Alma 1]] — 2 parallel verses, e.g. [[Acts 13#^acts-13-7|Acts 13:7]] ↔ [[Alma 1#^alma-1-26|Alma 1:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

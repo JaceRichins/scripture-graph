@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 29
 slug: 1sam-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

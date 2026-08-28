@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 145
 slug: ps-145
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 48]] — 1 parallel verse, e.g. [[Psalm 145#^ps-145-3|Psalm 145:3]] ↔ [[Psalm 48#^ps-48-1|Psalm 48:1]]
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 145#^ps-145-3|Psalm 145:3]] ↔ [[1 Chronicles 16#^1chr-16-25|1 Chronicles 16:25]]
-- [[Psalm 111]] — 1 parallel verse, e.g. [[Psalm 145#^ps-145-8|Psalm 145:8]] ↔ [[Psalm 111#^ps-111-4|Psalm 111:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

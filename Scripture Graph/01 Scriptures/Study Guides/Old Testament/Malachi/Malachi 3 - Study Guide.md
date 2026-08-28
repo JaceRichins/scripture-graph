@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 3
 slug: mal-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[3 Nephi 24]] — 18 parallel verses, e.g. [[Malachi 3#^mal-3-5|Malachi 3:5]] ↔ [[3 Nephi 24#^3ne-24-5|3 Nephi 24:5]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Malachi 3#^mal-3-3|Malachi 3:3]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
-- [[D&C 101]] — 2 parallel verses, e.g. [[Malachi 3#^mal-3-18|Malachi 3:18]] ↔ [[D&C 101#^dc-101-95|D&C 101:95]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

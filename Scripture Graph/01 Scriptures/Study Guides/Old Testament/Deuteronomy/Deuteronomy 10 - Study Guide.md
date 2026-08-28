@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 10
 slug: deut-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 34]] — 6 parallel verses, e.g. [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]] ↔ [[Exodus 34#^ex-34-1|Exodus 34:1]]
-- [[Deuteronomy 4]] — 10 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 4#^deut-4-15|Deuteronomy 4:15]]
-- [[Deuteronomy 9]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]]
-- [[Deuteronomy 5]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
-- [[Deuteronomy 31]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-11|Deuteronomy 10:11]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
-- [[Deuteronomy 30]] — 6 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]]
-- [[Deuteronomy 28]] — 6 parallel verses, e.g. [[Deuteronomy 10#^deut-10-13|Deuteronomy 10:13]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
+- [[Exodus 34]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]] ↔ [[Exodus 34#^ex-34-1|Exodus 34:1]]
+- [[Deuteronomy 9]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]]
+- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 4#^deut-4-29|Deuteronomy 4:29]]
+- [[Deuteronomy 31]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-11|Deuteronomy 10:11]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
+- [[Deuteronomy 30]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
-- [[Deuteronomy 8]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-13|Deuteronomy 10:13]] ↔ [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]]
-- [[Joshua 3]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
-- [[Deuteronomy 6]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
-- [[1 Samuel 4]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
+- [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-13|Deuteronomy 10:13]] ↔ [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
+- [[1 Kings 8]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[1 Kings 8#^1kgs-8-58|1 Kings 8:58]]
+- [[Joshua 3]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
+- [[Mark 12]] — 1 parallel verse, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

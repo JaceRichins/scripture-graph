@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 44
 slug: alma-44
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 52]] — 5 parallel verses, e.g. [[Alma 44#^alma-44-15|Alma 44:15]] ↔ [[Alma 52#^alma-52-38|Alma 52:38]]
-- [[Alma 62]] — 6 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 62#^alma-62-39|Alma 62:39]]
-- [[Alma 16]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 16#^alma-16-12|Alma 16:12]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 4#^alma-4-5|Alma 4:5]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Alma 30]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 63]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
-- [[Alma 51]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 51#^alma-51-37|Alma 51:37]]
-- [[Helaman 11]] — 3 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 8]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 45]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Helaman 6]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-24|Alma 44:24]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
+- [[Alma 52]] — 1 parallel verse, e.g. [[Alma 44#^alma-44-15|Alma 44:15]] ↔ [[Alma 52#^alma-52-38|Alma 52:38]]
+- [[Alma 3]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-22|Alma 44:22]] ↔ [[Alma 3#^alma-3-3|Alma 3:3]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-22|Alma 44:22]] ↔ [[Alma 43#^alma-43-40|Alma 43:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

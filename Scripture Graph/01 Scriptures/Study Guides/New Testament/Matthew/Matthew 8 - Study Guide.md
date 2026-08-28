@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 8
 slug: matt-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,11 +41,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 7]] — 4 parallel verses, e.g. [[Matthew 8#^matt-8-9|Matthew 8:9]] ↔ [[Luke 7#^luke-7-8|Luke 7:8]]
-- [[Mark 1]] — 5 parallel verses, e.g. [[Matthew 8#^matt-8-4|Matthew 8:4]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]
+- [[Luke 7]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-9|Matthew 8:9]] ↔ [[Luke 7#^luke-7-8|Luke 7:8]]
 - [[Luke 5]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-3|Matthew 8:3]] ↔ [[Luke 5#^luke-5-13|Luke 5:13]]
-- [[Luke 9]] — 4 parallel verses, e.g. [[Matthew 8#^matt-8-20|Matthew 8:20]] ↔ [[Luke 9#^luke-9-58|Luke 9:58]]
-- [[Luke 8]] — 8 parallel verses, e.g. [[Matthew 8#^matt-8-29|Matthew 8:29]] ↔ [[Luke 8#^luke-8-28|Luke 8:28]]
+- [[Mark 1]] — 4 parallel verses, e.g. [[Matthew 8#^matt-8-4|Matthew 8:4]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]
+- [[Luke 9]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-20|Matthew 8:20]] ↔ [[Luke 9#^luke-9-58|Luke 9:58]]
+- [[Luke 8]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-29|Matthew 8:29]] ↔ [[Luke 8#^luke-8-28|Luke 8:28]]
 - [[Mark 4]] — 2 parallel verses, e.g. [[Matthew 8#^matt-8-27|Matthew 8:27]] ↔ [[Mark 4#^mark-4-41|Mark 4:41]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]

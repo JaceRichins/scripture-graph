@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 20
 slug: acts-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,9 +41,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Luke 24]] — 2 parallel verses, e.g. [[Acts 20#^acts-20-7|Acts 20:7]] ↔ [[Luke 24#^luke-24-1|Luke 24:1]]
-- [[John 20]] — 2 parallel verses, e.g. [[Acts 20#^acts-20-7|Acts 20:7]] ↔ [[John 20#^john-20-19|John 20:19]]
-- [[Mark 16]] — 2 parallel verses, e.g. [[Acts 20#^acts-20-7|Acts 20:7]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[Acts 20#^acts-20-18|Acts 20:18]] ↔ [[Matthew 17#^matt-17-14|Matthew 17:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 13
 slug: mosiah-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 20]] — 11 parallel verses, e.g. [[Mosiah 13#^mosiah-13-15|Mosiah 13:15]] ↔ [[Exodus 20#^ex-20-7|Exodus 20:7]]
-- [[Deuteronomy 5]] — 7 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
+- [[Exodus 20]] — 10 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-12|Mosiah 13:12]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]
-- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
-- [[Mosiah 15]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]] ↔ [[Mosiah 15#^mosiah-15-1|Mosiah 15:1]]
-- [[Deuteronomy 16]] — 5 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]]
-- [[Mosiah 3]] — 4 parallel verses, e.g. [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
-- [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
+- [[Mosiah 15]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]] ↔ [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]]
 - [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
-- [[Deuteronomy 17]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Acts 4]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
+- [[Deuteronomy 19]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
+- [[Mosiah 17]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]] ↔ [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]]
 - [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
+- [[Alma 18]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-1|Mosiah 13:1]] ↔ [[Alma 18#^alma-18-18|Alma 18:18]]
+- [[Numbers 14]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

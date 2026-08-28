@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 12
 slug: 1kgs-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 10]] — 19 parallel verses, e.g. [[1 Kings 12#^1kgs-12-10|1 Kings 12:10]] ↔ [[2 Chronicles 10#^2chr-10-10|2 Chronicles 10:10]]
-- [[2 Chronicles 11]] — 5 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[2 Chronicles 11#^2chr-11-4|2 Chronicles 11:4]]
+- [[2 Chronicles 10]] — 18 parallel verses, e.g. [[1 Kings 12#^1kgs-12-10|1 Kings 12:10]] ↔ [[2 Chronicles 10#^2chr-10-10|2 Chronicles 10:10]]
+- [[2 Chronicles 11]] — 3 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[2 Chronicles 11#^2chr-11-4|2 Chronicles 11:4]]
 - [[Exodus 32]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-28|1 Kings 12:28]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]
-- [[1 Kings 13]] — 4 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]]
-- [[2 Kings 23]] — 4 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[2 Kings 23#^2kgs-23-16|2 Kings 23:16]]
-- [[2 Kings 15]] — 4 parallel verses, e.g. [[1 Kings 12#^1kgs-12-2|1 Kings 12:2]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
 - [[2 Samuel 20]] — 1 parallel verse, e.g. [[1 Kings 12#^1kgs-12-16|1 Kings 12:16]] ↔ [[2 Samuel 20#^2sam-20-1|2 Samuel 20:1]]
-- [[Deuteronomy 20]] — 1 parallel verse, e.g. [[1 Kings 12#^1kgs-12-28|1 Kings 12:28]] ↔ [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
-- [[2 Kings 14]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]] ↔ [[2 Kings 14#^2kgs-14-25|2 Kings 14:25]]
-- [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-3|1 Kings 12:3]] ↔ [[1 Kings 8#^1kgs-8-5|1 Kings 8:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

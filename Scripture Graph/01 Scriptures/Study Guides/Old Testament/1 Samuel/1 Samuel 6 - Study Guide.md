@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 6
 slug: 1sam-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 1]] — 13 parallel verses, e.g. [[1 Samuel 6#^1sam-6-4|1 Samuel 6:4]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
-- [[1 Samuel 5]] — 9 parallel verses, e.g. [[1 Samuel 6#^1sam-6-3|1 Samuel 6:3]] ↔ [[1 Samuel 5#^1sam-5-11|1 Samuel 5:11]]
+- [[1 Samuel 5]] — 4 parallel verses, e.g. [[1 Samuel 6#^1sam-6-3|1 Samuel 6:3]] ↔ [[1 Samuel 5#^1sam-5-11|1 Samuel 5:11]]
 - [[2 Kings 22]] — 1 parallel verse, e.g. [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
-- [[2 Samuel 6]] — 4 parallel verses, e.g. [[1 Samuel 6#^1sam-6-1|1 Samuel 6:1]] ↔ [[2 Samuel 6#^2sam-6-11|2 Samuel 6:11]]
-- [[Ezekiel 4]] — 3 parallel verses, e.g. [[1 Samuel 6#^1sam-6-4|1 Samuel 6:4]] ↔ [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]]
 - [[Numbers 3]] — 2 parallel verses, e.g. [[1 Samuel 6#^1sam-6-18|1 Samuel 6:18]] ↔ [[Numbers 3#^num-3-22|Numbers 3:22]]
-- [[1 Samuel 7]] — 3 parallel verses, e.g. [[1 Samuel 6#^1sam-6-8|1 Samuel 6:8]] ↔ [[1 Samuel 7#^1sam-7-1|1 Samuel 7:1]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]] ↔ [[Deuteronomy 5#^deut-5-32|Deuteronomy 5:32]]
 - [[Alma 24]] — 1 parallel verse, e.g. [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]] ↔ [[Alma 24#^alma-24-23|Alma 24:23]]
-- [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Samuel 6#^1sam-6-15|1 Samuel 6:15]] ↔ [[1 Kings 8#^1kgs-8-4|1 Kings 8:4]]
-- [[Genesis 24]] — 1 parallel verse, e.g. [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]] ↔ [[Genesis 24#^gen-24-49|Genesis 24:49]]
-- [[Numbers 22]] — 1 parallel verse, e.g. [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]] ↔ [[Numbers 22#^num-22-26|Numbers 22:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

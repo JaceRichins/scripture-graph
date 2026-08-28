@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 15
 slug: 2ne-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,6 @@ _Not yet developed._
 - [[2 Nephi 19]] — 4 parallel verses, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
 - [[Isaiah 10]] — 1 parallel verse, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
 - [[2 Nephi 20]] — 1 parallel verse, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
-- [[Isaiah 2]] — 2 parallel verses, e.g. [[2 Nephi 15#^2ne-15-16|2 Nephi 15:16]] ↔ [[Isaiah 2#^isa-2-12|Isaiah 2:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

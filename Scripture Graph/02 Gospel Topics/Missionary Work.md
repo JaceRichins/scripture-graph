@@ -34,6 +34,7 @@ _Not yet developed._
 - [[Mosiah 28]]
 - [[Alma 26]]
 - [[D&C 4]]
+- [[Alma 36]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

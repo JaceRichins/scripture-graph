@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 2
 slug: 2sam-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,16 +42,16 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[2 Samuel 5]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[2 Samuel 5#^2sam-5-19|2 Samuel 5:19]]
-- [[2 Samuel 4]] — 4 parallel verses, e.g. [[2 Samuel 2#^2sam-2-12|2 Samuel 2:12]] ↔ [[2 Samuel 4#^2sam-4-8|2 Samuel 4:8]]
-- [[2 Kings 23]] — 3 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 - [[Judges 20]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[Judges 20#^judg-20-23|Judges 20:23]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-19|2 Samuel 2:19]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
-- [[1 Samuel 23]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[1 Samuel 23#^1sam-23-2|1 Samuel 23:2]]
 - [[Deuteronomy 2]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-24|2 Samuel 2:24]] ↔ [[Deuteronomy 2#^deut-2-8|Deuteronomy 2:8]]
-- [[Joshua 24]] — 3 parallel verses, e.g. [[2 Samuel 2#^2sam-2-13|2 Samuel 2:13]] ↔ [[Joshua 24#^josh-24-2|Joshua 24:2]]
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-23|2 Samuel 2:23]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
-- [[2 Chronicles 24]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[2 Chronicles 24#^2chr-24-4|2 Chronicles 24:4]]
-- [[1 Samuel 26]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-25|2 Samuel 2:25]] ↔ [[1 Samuel 26#^1sam-26-13|1 Samuel 26:13]]
+- [[2 Kings 21]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Kings 21#^2kgs-21-1|2 Kings 21:1]]
+- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
+- [[2 Kings 24]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
+- [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
+- [[2 Chronicles 33]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]]
+- [[Exodus 17]] — 1 parallel verse, e.g. [[2 Samuel 2#^2sam-2-13|2 Samuel 2:13]] ↔ [[Exodus 17#^ex-17-12|Exodus 17:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 5
 slug: moro-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 20]] — 3 parallel verses, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[D&C 20#^dc-20-79|D&C 20:79]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[D&C 20#^dc-20-79|D&C 20:79]]
 - [[Moroni 4]] — 1 parallel verse, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
-- [[D&C 45]] — 1 parallel verse, e.g. [[Moroni 5#^moro-5-2|Moroni 5:2]] ↔ [[D&C 45#^dc-45-4|D&C 45:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

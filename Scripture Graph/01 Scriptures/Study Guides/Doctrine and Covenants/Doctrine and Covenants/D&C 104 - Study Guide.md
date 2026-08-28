@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 104
 slug: dc-104
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 4 mentions
+- [[Joseph Smith Jr]] — 4 mentions
 - [[Oliver Cowdery]] — 3 mentions
 - [[Satan]] — 2 mentions
 - [[Sidney Rigdon]] — 2 mentions
@@ -42,18 +42,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 21 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 124#^dc-124-144|D&C 124:144]]
-- [[D&C 103]] — 12 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
-- [[D&C 88]] — 8 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
-- [[D&C 93]] — 8 parallel verses, e.g. [[D&C 104#^dc-104-47|D&C 104:47]] ↔ [[D&C 93#^dc-93-43|D&C 93:43]]
-- [[D&C 105]] — 8 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
-- [[D&C 94]] — 7 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
-- [[D&C 78]] — 6 parallel verses, e.g. [[D&C 104#^dc-104-9|D&C 104:9]] ↔ [[D&C 78#^dc-78-12|D&C 78:12]]
-- [[D&C 63]] — 5 parallel verses, e.g. [[D&C 104#^dc-104-6|D&C 104:6]] ↔ [[D&C 63#^dc-63-58|D&C 63:58]]
-- [[D&C 61]] — 6 parallel verses, e.g. [[D&C 104#^dc-104-5|D&C 104:5]] ↔ [[D&C 61#^dc-61-5|D&C 61:5]]
-- [[D&C 79]] — 4 parallel verses, e.g. [[D&C 104#^dc-104-25|D&C 104:25]] ↔ [[D&C 79#^dc-79-3|D&C 79:3]]
-- [[Exodus 28]] — 6 parallel verses, e.g. [[D&C 104#^dc-104-37|D&C 104:37]] ↔ [[Exodus 28#^ex-28-43|Exodus 28:43]]
-- [[D&C 81]] — 6 parallel verses, e.g. [[D&C 104#^dc-104-68|D&C 104:68]] ↔ [[D&C 81#^dc-81-3|D&C 81:3]]
+- [[D&C 79]] — 3 parallel verses, e.g. [[D&C 104#^dc-104-25|D&C 104:25]] ↔ [[D&C 79#^dc-79-3|D&C 79:3]]
+- [[D&C 110]] — 3 parallel verses, e.g. [[D&C 104#^dc-104-32|D&C 104:32]] ↔ [[D&C 110#^dc-110-10|D&C 110:10]]
+- [[D&C 103]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
+- [[D&C 63]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-6|D&C 104:6]] ↔ [[D&C 63#^dc-63-58|D&C 63:58]]
+- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-5|D&C 104:5]] ↔ [[D&C 61#^dc-61-5|D&C 61:5]]
+- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[D&C 105]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
+- [[D&C 94]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
+- [[D&C 78]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-9|D&C 104:9]] ↔ [[D&C 78#^dc-78-12|D&C 78:12]]
+- [[D&C 82]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-9|D&C 104:9]] ↔ [[D&C 82#^dc-82-21|D&C 82:21]]
+- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 100#^dc-100-7|D&C 100:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

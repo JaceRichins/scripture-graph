@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 9
 slug: 2kgs-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,17 +40,16 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Kings 21]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]] ↔ [[1 Kings 21#^1kgs-21-21|1 Kings 21:21]]
-- [[1 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]] ↔ [[1 Kings 14#^1kgs-14-10|1 Kings 14:10]]
-- [[1 Kings 16]] — 7 parallel verses, e.g. [[2 Kings 9#^2kgs-9-9|2 Kings 9:9]] ↔ [[1 Kings 16#^1kgs-16-3|1 Kings 16:3]]
 - [[2 Kings 8]] — 4 parallel verses, e.g. [[2 Kings 9#^2kgs-9-15|2 Kings 9:15]] ↔ [[2 Kings 8#^2kgs-8-29|2 Kings 8:29]]
-- [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[2 Kings 15#^2kgs-15-7|2 Kings 15:7]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[2 Kings 23#^2kgs-23-30|2 Kings 23:30]]
+- [[1 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]] ↔ [[1 Kings 14#^1kgs-14-10|1 Kings 14:10]]
+- [[1 Kings 16]] — 4 parallel verses, e.g. [[2 Kings 9#^2kgs-9-9|2 Kings 9:9]] ↔ [[1 Kings 16#^1kgs-16-3|1 Kings 16:3]]
+- [[2 Kings 15]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[2 Kings 15#^2kgs-15-7|2 Kings 15:7]]
 - [[1 Kings 15]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]] ↔ [[1 Kings 15#^1kgs-15-29|1 Kings 15:29]]
-- [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
-- [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[2 Kings 14#^2kgs-14-20|2 Kings 14:20]]
-- [[2 Kings 10]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]] ↔ [[2 Kings 10#^2kgs-10-10|2 Kings 10:10]]
-- [[2 Kings 1]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-6|2 Kings 9:6]] ↔ [[2 Kings 1#^2kgs-1-16|2 Kings 1:16]]
-- [[2 Kings 24]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
+- [[1 Kings 22]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
+- [[2 Kings 23]] — 1 parallel verse, e.g. [[2 Kings 9#^2kgs-9-28|2 Kings 9:28]] ↔ [[2 Kings 23#^2kgs-23-30|2 Kings 23:30]]
+- [[2 Chronicles 22]] — 1 parallel verse, e.g. [[2 Kings 9#^2kgs-9-15|2 Kings 9:15]] ↔ [[2 Chronicles 22#^2chr-22-6|2 Chronicles 22:6]]
+- [[1 Kings 2]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-6|2 Kings 9:6]] ↔ [[1 Kings 2#^1kgs-2-30|1 Kings 2:30]]
+- [[2 Kings 24]] — 1 parallel verse, e.g. [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

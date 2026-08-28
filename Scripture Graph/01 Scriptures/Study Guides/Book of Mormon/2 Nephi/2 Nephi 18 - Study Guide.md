@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 18
 slug: 2ne-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

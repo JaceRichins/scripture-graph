@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 16
 slug: isa-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Kings 19]] — 1 parallel verse, e.g. [[Isaiah 16#^isa-16-13|Isaiah 16:13]] ↔ [[2 Kings 19#^2kgs-19-21|2 Kings 19:21]]
-- [[Jeremiah 38]] — 1 parallel verse, e.g. [[Isaiah 16#^isa-16-13|Isaiah 16:13]] ↔ [[Jeremiah 38#^jer-38-21|Jeremiah 38:21]]
-- [[Jeremiah 48]] — 2 parallel verses, e.g. [[Isaiah 16#^isa-16-6|Isaiah 16:6]] ↔ [[Jeremiah 48#^jer-48-29|Jeremiah 48:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

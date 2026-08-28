@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 10
 slug: moro-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 7]] — 10 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
 - [[1 Nephi 10]] — 7 parallel verses, e.g. [[Moroni 10#^moro-10-19|Moroni 10:19]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
 - [[Moroni 6]] — 6 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[Moroni 6#^moro-6-9|Moroni 6:9]]
-- [[2 Nephi 33]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-28|Moroni 10:28]] ↔ [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]]
-- [[Jacob 7]] — 6 parallel verses, e.g. [[Moroni 10#^moro-10-7|Moroni 10:7]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
 - [[D&C 20]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-26|Moroni 10:26]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
+- [[2 Nephi 33]] — 4 parallel verses, e.g. [[Moroni 10#^moro-10-28|Moroni 10:28]] ↔ [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]]
 - [[2 Nephi 28]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]]
-- [[1 Corinthians 12]] — 4 parallel verses, e.g. [[Moroni 10#^moro-10-11|Moroni 10:11]] ↔ [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]]
-- [[2 Nephi 9]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-26|Moroni 10:26]] ↔ [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]]
-- [[D&C 18]] — 6 parallel verses, e.g. [[Moroni 10#^moro-10-26|Moroni 10:26]] ↔ [[D&C 18#^dc-18-46|D&C 18:46]]
-- [[2 Nephi 32]] — 4 parallel verses, e.g. [[Moroni 10#^moro-10-7|Moroni 10:7]] ↔ [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]]
-- [[Moroni 3]] — 4 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[1 Corinthians 12]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-11|Moroni 10:11]] ↔ [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]]
+- [[Jacob 7]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-7|Moroni 10:7]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
+- [[2 Nephi 32]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-7|Moroni 10:7]] ↔ [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]]
+- [[3 Nephi 21]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
+- [[D&C 124]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[D&C 124#^dc-124-4|D&C 124:4]]
+- [[Moroni 3]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[Moroni 7]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

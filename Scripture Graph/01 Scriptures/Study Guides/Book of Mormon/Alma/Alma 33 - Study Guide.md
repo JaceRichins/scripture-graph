@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 33
 slug: alma-33
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 5]] — 3 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 5#^alma-5-28|Alma 5:28]]
-- [[Alma 34]] — 3 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 34#^alma-34-28|Alma 34:28]]
 - [[Alma 32]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 32#^alma-32-10|Alma 32:10]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-20|Alma 33:20]] ↔ [[Mosiah 13#^mosiah-13-32|Mosiah 13:32]]
-- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 60#^alma-60-12|Alma 60:12]]
-- [[Helaman 14]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-22|Alma 33:22]] ↔ [[Helaman 14#^hel-14-20|Helaman 14:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

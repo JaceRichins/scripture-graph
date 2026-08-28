@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 45
 slug: ezek-45
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,17 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 46]] — 10 parallel verses, e.g. [[Ezekiel 45#^ezek-45-24|Ezekiel 45:24]] ↔ [[Ezekiel 46#^ezek-46-7|Ezekiel 46:7]]
-- [[Ezekiel 48]] — 8 parallel verses, e.g. [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]] ↔ [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]]
 - [[Leviticus 4]] — 3 parallel verses, e.g. [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
-- [[2 Kings 11]] — 8 parallel verses, e.g. [[Ezekiel 45#^ezek-45-16|Ezekiel 45:16]] ↔ [[2 Kings 11#^2kgs-11-14|2 Kings 11:14]]
-- [[Leviticus 16]] — 4 parallel verses, e.g. [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]] ↔ [[Leviticus 16#^lev-16-18|Leviticus 16:18]]
-- [[2 Chronicles 23]] — 6 parallel verses, e.g. [[Ezekiel 45#^ezek-45-16|Ezekiel 45:16]] ↔ [[2 Chronicles 23#^2chr-23-13|2 Chronicles 23:13]]
-- [[Leviticus 23]] — 4 parallel verses, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Leviticus 23#^lev-23-24|Leviticus 23:24]]
-- [[Leviticus 14]] — 4 parallel verses, e.g. [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]] ↔ [[Leviticus 14#^lev-14-25|Leviticus 14:25]]
+- [[Ezekiel 48]] — 4 parallel verses, e.g. [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]] ↔ [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]]
+- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Ezekiel 45#^ezek-45-24|Ezekiel 45:24]] ↔ [[Ezekiel 46#^ezek-46-7|Ezekiel 46:7]]
+- [[Leviticus 16]] — 3 parallel verses, e.g. [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]] ↔ [[Leviticus 16#^lev-16-18|Leviticus 16:18]]
 - [[Ezekiel 41]] — 2 parallel verses, e.g. [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]] ↔ [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]]
-- [[Ezekiel 29]] — 2 parallel verses, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]]
-- [[Exodus 40]] — 3 parallel verses, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Exodus 40#^ex-40-17|Exodus 40:17]]
+- [[Leviticus 23]] — 2 parallel verses, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Leviticus 23#^lev-23-24|Leviticus 23:24]]
+- [[Ezekiel 29]] — 1 parallel verse, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]]
 - [[Ezekiel 32]] — 2 parallel verses, e.g. [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 <!-- SG:END related-scriptures -->
 

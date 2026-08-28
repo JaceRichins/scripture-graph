@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 16
 slug: hel-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 9 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 52]] — 8 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Helaman 6]] — 12 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Helaman 11]] — 10 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 4]] — 7 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Alma 63]] — 8 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
-- [[Alma 16]] — 6 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 8]] — 6 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 51]] — 5 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Alma 45]] — 5 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Alma 30]] — 4 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 50]] — 4 parallel verses, e.g. [[Helaman 16#^hel-16-9|Helaman 16:9]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
+- [[Helaman 14]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-18|Helaman 16:18]] ↔ [[Helaman 14#^hel-14-12|Helaman 14:12]]
+- [[Alma 17]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-2|Helaman 16:2]] ↔ [[Alma 17#^alma-17-36|Alma 17:36]]
+- [[Helaman 11]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-15|Helaman 16:15]] ↔ [[Helaman 11#^hel-11-32|Helaman 11:32]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-1|Helaman 16:1]] ↔ [[Alma 46#^alma-46-39|Alma 46:39]]
+- [[Alma 8]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-23|Helaman 16:23]] ↔ [[Alma 8#^alma-8-9|Alma 8:9]]
+- [[Alma 19]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-1|Helaman 16:1]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]
+- [[Alma 27]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-3|Helaman 16:3]] ↔ [[Alma 27#^alma-27-2|Alma 27:2]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Helaman 16#^hel-16-18|Helaman 16:18]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
+- [[3 Nephi 5]] — 1 parallel verse, e.g. [[Helaman 16#^hel-16-2|Helaman 16:2]] ↔ [[3 Nephi 5#^3ne-5-5|3 Nephi 5:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

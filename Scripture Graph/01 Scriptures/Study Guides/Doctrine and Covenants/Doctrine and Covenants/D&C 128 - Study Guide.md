@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -58,11 +58,11 @@ _Not yet developed._
 - [[Malachi 3]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-24|D&C 128:24]] ↔ [[Malachi 3#^mal-3-3|Malachi 3:3]]
 - [[Malachi 4]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[Malachi 4#^mal-4-6|Malachi 4:6]]
 - [[3 Nephi 25]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[3 Nephi 25#^3ne-25-6|3 Nephi 25:6]]
-- [[D&C 124]] — 8 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[Matthew 18]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
-- [[D&C 127]] — 7 parallel verses, e.g. [[D&C 128#^dc-128-7|D&C 128:7]] ↔ [[D&C 127#^dc-127-7|D&C 127:7]]
-- [[Mosiah 15]] — 4 parallel verses, e.g. [[D&C 128#^dc-128-19|D&C 128:19]] ↔ [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]]
+- [[D&C 124]] — 4 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
+- [[Mosiah 15]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-19|D&C 128:19]] ↔ [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
+- [[D&C 138]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 98
 slug: dc-98
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 28 parallel verses, e.g. [[D&C 98#^dc-98-7|D&C 98:7]] ↔ [[D&C 124#^dc-124-120|D&C 124:120]]
-- [[D&C 88]] — 9 parallel verses, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
-- [[D&C 90]] — 9 parallel verses, e.g. [[D&C 98#^dc-98-21|D&C 98:21]] ↔ [[D&C 90#^dc-90-36|D&C 90:36]]
-- [[D&C 103]] — 9 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[D&C 103#^dc-103-26|D&C 103:26]]
-- [[D&C 105]] — 9 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[D&C 105#^dc-105-30|D&C 105:30]]
-- [[D&C 128]] — 4 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
-- [[D&C 93]] — 6 parallel verses, e.g. [[D&C 98#^dc-98-7|D&C 98:7]] ↔ [[D&C 93#^dc-93-25|D&C 93:25]]
-- [[D&C 104]] — 5 parallel verses, e.g. [[D&C 98#^dc-98-4|D&C 98:4]] ↔ [[D&C 104#^dc-104-19|D&C 104:19]]
-- [[D&C 72]] — 6 parallel verses, e.g. [[D&C 98#^dc-98-4|D&C 98:4]] ↔ [[D&C 72#^dc-72-8|D&C 72:8]]
-- [[Exodus 20]] — 4 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
-- [[Numbers 14]] — 4 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
-- [[Deuteronomy 5]] — 4 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
+- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
+- [[D&C 27]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
+- [[Exodus 20]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Numbers 14]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
+- [[Deuteronomy 5]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
+- [[Exodus 34]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
+- [[D&C 18]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 18#^dc-18-5|D&C 18:5]]
+- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-11|D&C 98:11]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
+- [[D&C 90]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-21|D&C 98:21]] ↔ [[D&C 90#^dc-90-36|D&C 90:36]]
+- [[Luke 1]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[Luke 1#^luke-1-17|Luke 1:17]]
+- [[D&C 110]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

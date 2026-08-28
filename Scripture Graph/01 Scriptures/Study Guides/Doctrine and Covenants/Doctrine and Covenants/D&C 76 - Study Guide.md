@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 76
 slug: dc-76
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -30,7 +30,7 @@ _Not yet developed._
 - [[Jesus Christ]] — 24 mentions
 - [[Satan]] — 8 mentions
 - [[Enoch]] — 3 mentions
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 - [[Sidney Rigdon]] — 1 mention
 - [[Melchizedek]] — 1 mention
 - [[Paul (apostle)]] — 1 mention
@@ -46,18 +46,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 88]] — 6 parallel verses, e.g. [[D&C 76#^dc-76-107|D&C 76:107]] ↔ [[D&C 88#^dc-88-106|D&C 88:106]]
+- [[D&C 88]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-107|D&C 76:107]] ↔ [[D&C 88#^dc-88-106|D&C 88:106]]
 - [[Mark 9]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-44|D&C 76:44]] ↔ [[Mark 9#^mark-9-44|Mark 9:44]]
-- [[D&C 20]] — 7 parallel verses, e.g. [[D&C 76#^dc-76-14|D&C 76:14]] ↔ [[D&C 20#^dc-20-9|D&C 20:9]]
-- [[D&C 93]] — 6 parallel verses, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
 - [[D&C 138]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-73|D&C 76:73]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
-- [[Moses 7]] — 7 parallel verses, e.g. [[D&C 76#^dc-76-23|D&C 76:23]] ↔ [[Moses 7#^moses-7-57|Moses 7:57]]
-- [[Hebrews 12]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-66|D&C 76:66]] ↔ [[Hebrews 12#^heb-12-22|Hebrews 12:22]]
-- [[D&C 132]] — 5 parallel verses, e.g. [[D&C 76#^dc-76-53|D&C 76:53]] ↔ [[D&C 132#^dc-132-26|D&C 132:26]]
-- [[D&C 42]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 42#^dc-42-18|D&C 42:18]]
+- [[D&C 20]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-14|D&C 76:14]] ↔ [[D&C 20#^dc-20-9|D&C 20:9]]
+- [[Hebrews 12]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-66|D&C 76:66]] ↔ [[Hebrews 12#^heb-12-22|Hebrews 12:22]]
 - [[1 Corinthians 3]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-59|D&C 76:59]] ↔ [[1 Corinthians 3#^1cor-3-22|1 Corinthians 3:22]]
-- [[D&C 107]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-52|D&C 76:52]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
-- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-11|D&C 76:11]] ↔ [[Joseph Smith—History 1#^jsh-1-3|Joseph Smith—History 1:3]]
+- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-53|D&C 76:53]] ↔ [[D&C 132#^dc-132-26|D&C 132:26]]
+- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
+- [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-11|D&C 76:11]] ↔ [[Joseph Smith—History 1#^jsh-1-3|Joseph Smith—History 1:3]]
+- [[1 Corinthians 15]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-96|D&C 76:96]] ↔ [[1 Corinthians 15#^1cor-15-40|1 Corinthians 15:40]]
+- [[1 Peter 4]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-73|D&C 76:73]] ↔ [[1 Peter 4#^1pet-4-6|1 Peter 4:6]]
+- [[D&C 42]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 42#^dc-42-18|D&C 42:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

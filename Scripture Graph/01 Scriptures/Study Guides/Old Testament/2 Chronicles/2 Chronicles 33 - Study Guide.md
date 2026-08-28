@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 33
 slug: 2chr-33
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 21]] — 23 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-25|2 Chronicles 33:25]] ↔ [[2 Kings 21#^2kgs-21-24|2 Kings 21:24]]
-- [[2 Kings 15]] — 22 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
-- [[2 Chronicles 36]] — 17 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]] ↔ [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]]
-- [[2 Kings 23]] — 15 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
-- [[2 Kings 24]] — 10 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
+- [[2 Kings 21]] — 19 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-7|2 Chronicles 33:7]] ↔ [[2 Kings 21#^2kgs-21-7|2 Kings 21:7]]
+- [[2 Chronicles 36]] — 15 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[2 Chronicles 36#^2chr-36-11|2 Chronicles 36:11]]
+- [[2 Kings 15]] — 15 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
+- [[2 Kings 23]] — 9 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 - [[2 Chronicles 28]] — 7 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-2|2 Chronicles 33:2]] ↔ [[2 Chronicles 28#^2chr-28-3|2 Chronicles 28:3]]
-- [[2 Kings 13]] — 8 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-20|2 Chronicles 33:20]] ↔ [[2 Kings 13#^2kgs-13-9|2 Kings 13:9]]
-- [[2 Chronicles 27]] — 6 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
-- [[2 Kings 14]] — 9 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 14#^2kgs-14-24|2 Kings 14:24]]
-- [[2 Kings 17]] — 7 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]] ↔ [[2 Kings 17#^2kgs-17-17|2 Kings 17:17]]
-- [[1 Kings 14]] — 7 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
-- [[2 Chronicles 21]] — 8 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
+- [[2 Kings 24]] — 8 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
+- [[2 Chronicles 27]] — 6 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]]
+- [[2 Kings 17]] — 5 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]] ↔ [[2 Kings 17#^2kgs-17-17|2 Kings 17:17]]
+- [[2 Kings 13]] — 5 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-20|2 Chronicles 33:20]] ↔ [[2 Kings 13#^2kgs-13-9|2 Kings 13:9]]
+- [[Jeremiah 52]] — 4 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]]
+- [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
+- [[2 Chronicles 20]] — 3 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

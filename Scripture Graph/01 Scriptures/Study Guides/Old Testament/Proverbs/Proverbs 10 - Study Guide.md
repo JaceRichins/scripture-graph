@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 10
 slug: prov-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,11 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 15]] — 2 parallel verses, e.g. [[Proverbs 10#^prov-10-1|Proverbs 10:1]] ↔ [[Proverbs 15#^prov-15-20|Proverbs 15:20]]
+- [[Proverbs 15]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-1|Proverbs 10:1]] ↔ [[Proverbs 15#^prov-15-20|Proverbs 15:20]]
 - [[Proverbs 21]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-29|Proverbs 10:29]] ↔ [[Proverbs 21#^prov-21-15|Proverbs 21:15]]
 - [[Proverbs 18]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-15|Proverbs 10:15]] ↔ [[Proverbs 18#^prov-18-11|Proverbs 18:11]]
-- [[Ezekiel 18]] — 2 parallel verses, e.g. [[Proverbs 10#^prov-10-29|Proverbs 10:29]] ↔ [[Ezekiel 18#^ezek-18-25|Ezekiel 18:25]]
-- [[Ezekiel 33]] — 2 parallel verses, e.g. [[Proverbs 10#^prov-10-29|Proverbs 10:29]] ↔ [[Ezekiel 33#^ezek-33-17|Ezekiel 33:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

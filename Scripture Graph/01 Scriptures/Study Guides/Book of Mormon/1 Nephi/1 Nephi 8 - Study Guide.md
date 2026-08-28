@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moses 4]] — 10 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Moses 4#^moses-4-9|Moses 4:9]]
-- [[1 Nephi 10]] — 5 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]]
-- [[Alma 12]] — 6 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
-- [[Alma 5]] — 6 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
-- [[1 Nephi 16]] — 4 parallel verses, e.g. [[1 Nephi 8#^1ne-8-38|1 Nephi 8:38]] ↔ [[1 Nephi 16#^1ne-16-4|1 Nephi 16:4]]
-- [[Genesis 3]] — 4 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Genesis 3#^gen-3-3|Genesis 3:3]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
-- [[1 Nephi 11]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-9|1 Nephi 8:9]] ↔ [[1 Nephi 11#^1ne-11-1|1 Nephi 11:1]]
-- [[Helaman 14]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Helaman 14#^hel-14-16|Helaman 14:16]]
-- [[Leviticus 27]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Leviticus 27#^lev-27-30|Leviticus 27:30]]
-- [[Alma 32]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 32#^alma-32-40|Alma 32:40]]
-- [[Mosiah 2]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Mosiah 2#^mosiah-2-38|Mosiah 2:38]]
+- [[1 Nephi 10]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]]
+- [[Alma 12]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
+- [[1 Nephi 3]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]] ↔ [[1 Nephi 3#^1ne-3-2|1 Nephi 3:2]]
+- [[1 Nephi 14]] — 1 parallel verse, e.g. [[1 Nephi 8#^1ne-8-5|1 Nephi 8:5]] ↔ [[1 Nephi 14#^1ne-14-19|1 Nephi 14:19]]
+- [[1 Nephi 16]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-8|1 Nephi 8:8]] ↔ [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]]
+- [[Helaman 12]] — 1 parallel verse, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

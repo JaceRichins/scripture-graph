@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,12 +41,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Daniel 9]] — 2 parallel verses, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
-- [[1 Timothy 5]] — 1 parallel verse, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[1 Timothy 5#^1tim-5-18|1 Timothy 5:18]]
-- [[1 Kings 2]] — 1 parallel verse, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
-- [[2 Chronicles 23]] — 1 parallel verse, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
-- [[Ezra 3]] — 1 parallel verse, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
-- [[Nehemiah 10]] — 2 parallel verses, e.g. [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
-- [[Jonah 4]] — 2 parallel verses, e.g. [[1 Corinthians 9#^1cor-9-15|1 Corinthians 9:15]] ↔ [[Jonah 4#^jonah-4-3|Jonah 4:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 74
 slug: dc-74
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Corinthians 7]] — 1 parallel verse, e.g. [[D&C 74#^dc-74-1|D&C 74:1]] ↔ [[1 Corinthians 7#^1cor-7-14|1 Corinthians 7:14]]
-- [[Ether 11]] — 2 parallel verses, e.g. [[D&C 74#^dc-74-3|D&C 74:3]] ↔ [[Ether 11#^ether-11-15|Ether 11:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

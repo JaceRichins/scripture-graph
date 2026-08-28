@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,9 +41,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Kings 10]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
-- [[2 Samuel 13]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Samuel 13#^2sam-13-36|2 Samuel 13:36]]
-- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[1 Samuel 13#^1sam-13-13|1 Samuel 13:13]] ↔ [[Deuteronomy 16#^deut-16-17|Deuteronomy 16:17]]
-- [[1 Chronicles 16]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[1 Chronicles 16#^1chr-16-2|1 Chronicles 16:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

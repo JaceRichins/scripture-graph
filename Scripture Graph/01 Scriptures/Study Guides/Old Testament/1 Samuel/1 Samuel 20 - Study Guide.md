@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 20
 slug: 1sam-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,15 +40,8 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]] ↔ [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]]
-- [[Genesis 30]] — 2 parallel verses, e.g. [[1 Samuel 20#^1sam-20-29|1 Samuel 20:29]] ↔ [[Genesis 30#^gen-30-27|Genesis 30:27]]
-- [[Esther 5]] — 3 parallel verses, e.g. [[1 Samuel 20#^1sam-20-29|1 Samuel 20:29]] ↔ [[Esther 5#^esth-5-8|Esther 5:8]]
-- [[Judges 9]] — 2 parallel verses, e.g. [[1 Samuel 20#^1sam-20-27|1 Samuel 20:27]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
-- [[2 Samuel 14]] — 2 parallel verses, e.g. [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]] ↔ [[2 Samuel 14#^2sam-14-22|2 Samuel 14:22]]
 - [[1 Samuel 25]] — 1 parallel verse, e.g. [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]] ↔ [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]]
 - [[2 Kings 4]] — 1 parallel verse, e.g. [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[1 Samuel 20#^1sam-20-27|1 Samuel 20:27]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
-- [[2 Kings 10]] — 2 parallel verses, e.g. [[1 Samuel 20#^1sam-20-35|1 Samuel 20:35]] ↔ [[2 Kings 10#^2kgs-10-9|2 Kings 10:9]]
-- [[1 Samuel 28]] — 1 parallel verse, e.g. [[1 Samuel 20#^1sam-20-41|1 Samuel 20:41]] ↔ [[1 Samuel 28#^1sam-28-14|1 Samuel 28:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

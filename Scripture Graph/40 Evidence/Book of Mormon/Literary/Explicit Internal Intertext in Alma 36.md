@@ -24,5 +24,5 @@ The explicit comparison with Lehi's vision, reinforced by shared throne-and-ange
 - The correspondence could have been created by a single later author or editor familiar with both passages.
 - Literary dependence does not determine whether the narrated visions were historical experiences.
 
-**Scripture:** [[Alma 36]], [[1 Nephi 1]]
+**Scripture:** [[Alma 36#^alma-36-22|Alma 36:22]] ↔ [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]]
 <!-- SG:END summary -->

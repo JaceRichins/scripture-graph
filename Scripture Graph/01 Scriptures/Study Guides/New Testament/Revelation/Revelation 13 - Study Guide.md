@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

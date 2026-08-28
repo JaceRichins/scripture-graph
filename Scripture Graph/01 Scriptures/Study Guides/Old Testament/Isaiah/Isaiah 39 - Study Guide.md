@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 39
 slug: isa-39
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 20]] — 8 parallel verses, e.g. [[Isaiah 39#^isa-39-2|Isaiah 39:2]] ↔ [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]]
+- [[2 Kings 20]] — 7 parallel verses, e.g. [[Isaiah 39#^isa-39-2|Isaiah 39:2]] ↔ [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]]
 - [[Ezra 8]] — 3 parallel verses, e.g. [[Isaiah 39#^isa-39-2|Isaiah 39:2]] ↔ [[Ezra 8#^ezra-8-25|Ezra 8:25]]
-- [[Zechariah 8]] — 2 parallel verses, e.g. [[Isaiah 39#^isa-39-5|Isaiah 39:5]] ↔ [[Zechariah 8#^zech-8-1|Zechariah 8:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

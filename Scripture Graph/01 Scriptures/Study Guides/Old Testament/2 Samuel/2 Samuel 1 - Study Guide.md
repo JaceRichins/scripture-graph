@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 1
 slug: 2sam-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,13 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 2]] — 3 parallel verses, e.g. [[2 Samuel 1#^2sam-1-12|2 Samuel 1:12]] ↔ [[Isaiah 2#^isa-2-10|Isaiah 2:10]]
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[2 Samuel 1#^2sam-1-1|2 Samuel 1:1]] ↔ [[1 Samuel 18#^1sam-18-6|1 Samuel 18:6]]
-- [[Genesis 25]] — 1 parallel verse, e.g. [[2 Samuel 1#^2sam-1-1|2 Samuel 1:1]] ↔ [[Genesis 25#^gen-25-11|Genesis 25:11]]
-- [[Judges 17]] — 1 parallel verse, e.g. [[2 Samuel 1#^2sam-1-3|2 Samuel 1:3]] ↔ [[Judges 17#^judg-17-9|Judges 17:9]]
-- [[1 Samuel 14]] — 2 parallel verses, e.g. [[2 Samuel 1#^2sam-1-5|2 Samuel 1:5]] ↔ [[1 Samuel 14#^1sam-14-1|1 Samuel 14:1]]
-- [[1 Samuel 17]] — 2 parallel verses, e.g. [[2 Samuel 1#^2sam-1-1|2 Samuel 1:1]] ↔ [[1 Samuel 17#^1sam-17-57|1 Samuel 17:57]]
-- [[1 Samuel 25]] — 2 parallel verses, e.g. [[2 Samuel 1#^2sam-1-5|2 Samuel 1:5]] ↔ [[1 Samuel 25#^1sam-25-5|1 Samuel 25:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

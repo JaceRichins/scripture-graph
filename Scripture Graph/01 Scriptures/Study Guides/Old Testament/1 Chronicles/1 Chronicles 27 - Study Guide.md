@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 27
 slug: 1chr-27
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 34
 slug: deut-34
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 32]] — 3 parallel verses, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
-- [[Joshua 22]] — 4 parallel verses, e.g. [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
-- [[Deuteronomy 31]] — 4 parallel verses, e.g. [[Deuteronomy 34#^deut-34-7|Deuteronomy 34:7]] ↔ [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]]
-- [[Numbers 14]] — 3 parallel verses, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 14#^num-14-23|Numbers 14:23]]
-- [[Joshua 1]] — 3 parallel verses, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Joshua 1#^josh-1-6|Joshua 1:6]]
-- [[Judges 2]] — 3 parallel verses, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Judges 2#^judg-2-1|Judges 2:1]]
-- [[2 Kings 7]] — 3 parallel verses, e.g. [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]] ↔ [[2 Kings 7#^2kgs-7-16|2 Kings 7:16]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[Joshua 19]] — 2 parallel verses, e.g. [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]] ↔ [[Joshua 19#^josh-19-50|Joshua 19:50]]
-- [[Joshua 14]] — 2 parallel verses, e.g. [[Deuteronomy 34#^deut-34-9|Deuteronomy 34:9]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
-- [[Numbers 33]] — 2 parallel verses, e.g. [[Deuteronomy 34#^deut-34-7|Deuteronomy 34:7]] ↔ [[Numbers 33#^num-33-39|Numbers 33:39]]
-- [[Joshua 8]] — 2 parallel verses, e.g. [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]] ↔ [[Joshua 8#^josh-8-31|Joshua 8:31]]
+- [[Numbers 32]] — 1 parallel verse, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

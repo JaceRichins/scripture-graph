@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 52
 slug: dc-52
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 3 mentions
+- [[Joseph Smith Jr]] — 3 mentions
 - [[Sidney Rigdon]] — 3 mentions
 - [[Satan]] — 2 mentions
 - [[Ezra (scribe)]] — 2 mentions
@@ -51,18 +51,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 67 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 124#^dc-124-62|D&C 124:62]]
-- [[D&C 57]] — 11 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 57#^dc-57-8|D&C 57:8]]
-- [[D&C 132]] — 13 parallel verses, e.g. [[D&C 52#^dc-52-13|D&C 52:13]] ↔ [[D&C 132#^dc-132-53|D&C 132:53]]
-- [[D&C 75]] — 12 parallel verses, e.g. [[D&C 52#^dc-52-44|D&C 52:44]] ↔ [[D&C 75#^dc-75-22|D&C 75:22]]
-- [[D&C 88]] — 12 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 88#^dc-88-25|D&C 88:25]]
-- [[D&C 46]] — 10 parallel verses, e.g. [[D&C 52#^dc-52-35|D&C 52:35]] ↔ [[D&C 46#^dc-46-5|D&C 46:5]]
-- [[D&C 55]] — 6 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 55#^dc-55-5|D&C 55:5]]
-- [[D&C 63]] — 5 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 63#^dc-63-65|D&C 63:65]]
-- [[D&C 53]] — 5 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 53#^dc-53-5|D&C 53:5]]
-- [[D&C 49]] — 7 parallel verses, e.g. [[D&C 52#^dc-52-10|D&C 52:10]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
-- [[D&C 71]] — 4 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
-- [[D&C 90]] — 6 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 90#^dc-90-6|D&C 90:6]]
+- [[D&C 124]] — 15 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 124#^dc-124-62|D&C 124:62]]
+- [[D&C 57]] — 5 parallel verses, e.g. [[D&C 52#^dc-52-42|D&C 52:42]] ↔ [[D&C 57#^dc-57-1|D&C 57:1]]
+- [[D&C 73]] — 3 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 73#^dc-73-3|D&C 73:3]]
+- [[D&C 63]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 63#^dc-63-65|D&C 63:65]]
+- [[D&C 53]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 53#^dc-53-5|D&C 53:5]]
+- [[D&C 55]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 55#^dc-55-5|D&C 55:5]]
+- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[D&C 36]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-44|D&C 52:44]] ↔ [[D&C 36#^dc-36-8|D&C 36:8]]
+- [[D&C 42]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 42#^dc-42-4|D&C 42:4]]
+- [[Mormon 8]] — 1 parallel verse, e.g. [[D&C 52#^dc-52-40|D&C 52:40]] ↔ [[Mormon 8#^morm-8-37|Mormon 8:37]]
+- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
+- [[D&C 6]] — 1 parallel verse, e.g. [[D&C 52#^dc-52-44|D&C 52:44]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

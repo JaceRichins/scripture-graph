@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 14
 slug: zech-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,17 +39,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 7]] — 6 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[2 Nephi 17]] — 6 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
 - [[Isaiah 27]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Isaiah 10]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
-- [[Zechariah 13]] — 5 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 - [[2 Nephi 20]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Nephi 24]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
 - [[Isaiah 11]] — 3 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
-- [[Zechariah 12]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Zechariah 12#^zech-12-9|Zechariah 12:9]]
 - [[2 Nephi 21]] — 3 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
+- [[Zechariah 13]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
+- [[2 Nephi 17]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

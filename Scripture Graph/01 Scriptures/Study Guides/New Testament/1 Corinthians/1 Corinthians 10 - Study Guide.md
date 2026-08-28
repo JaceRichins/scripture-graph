@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,9 +41,6 @@ _Not yet developed._
 - [[Psalm 24]] — 2 parallel verses, e.g. [[1 Corinthians 10#^1cor-10-26|1 Corinthians 10:26]] ↔ [[Psalm 24#^ps-24-1|Psalm 24:1]]
 - [[1 Corinthians 6]] — 1 parallel verse, e.g. [[1 Corinthians 10#^1cor-10-23|1 Corinthians 10:23]] ↔ [[1 Corinthians 6#^1cor-6-12|1 Corinthians 6:12]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[1 Corinthians 10#^1cor-10-7|1 Corinthians 10:7]] ↔ [[Exodus 32#^ex-32-6|Exodus 32:6]]
-- [[Exodus 9]] — 2 parallel verses, e.g. [[1 Corinthians 10#^1cor-10-26|1 Corinthians 10:26]] ↔ [[Exodus 9#^ex-9-29|Exodus 9:29]]
-- [[Alma 38]] — 2 parallel verses, e.g. [[1 Corinthians 10#^1cor-10-1|1 Corinthians 10:1]] ↔ [[Alma 38#^alma-38-6|Alma 38:6]]
-- [[Ephesians 6]] — 2 parallel verses, e.g. [[1 Corinthians 10#^1cor-10-13|1 Corinthians 10:13]] ↔ [[Ephesians 6#^eph-6-11|Ephesians 6:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

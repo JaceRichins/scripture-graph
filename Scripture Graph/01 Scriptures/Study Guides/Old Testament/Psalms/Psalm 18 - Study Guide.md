@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 18
 slug: ps-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,8 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Samuel 22]] — 48 parallel verses, e.g. [[Psalm 18#^ps-18-8|Psalm 18:8]] ↔ [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]]
-- [[Psalm 116]] — 1 parallel verse, e.g. [[Psalm 18#^ps-18-4|Psalm 18:4]] ↔ [[Psalm 116#^ps-116-3|Psalm 116:3]]
+- [[2 Samuel 22]] — 42 parallel verses, e.g. [[Psalm 18#^ps-18-8|Psalm 18:8]] ↔ [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

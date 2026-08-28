@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 55
 slug: alma-55
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 7 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 46]] — 7 parallel verses, e.g. [[Alma 55#^alma-55-4|Alma 55:4]] ↔ [[Alma 46#^alma-46-28|Alma 46:28]]
-- [[Alma 50]] — 5 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
-- [[Alma 52]] — 4 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
-- [[Helaman 11]] — 4 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 16]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 63]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 63#^alma-63-16|Alma 63:16]]
-- [[Helaman 16]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
-- [[Alma 51]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Alma 8]] — 2 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 53]] — 3 parallel verses, e.g. [[Alma 55#^alma-55-35|Alma 55:35]] ↔ [[Alma 53#^alma-53-23|Alma 53:23]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[Alma 55#^alma-55-4|Alma 55:4]] ↔ [[Alma 46#^alma-46-28|Alma 46:28]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 55#^alma-55-1|Alma 55:1]] ↔ [[Alma 62#^alma-62-1|Alma 62:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

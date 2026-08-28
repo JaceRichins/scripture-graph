@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,16 +39,14 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 48]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-18|Isaiah 24:18]] ↔ [[Jeremiah 48#^jer-48-44|Jeremiah 48:44]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
-- [[Deuteronomy 5]] — 5 parallel verses, e.g. [[Isaiah 24#^isa-24-18|Isaiah 24:18]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
-- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Isaiah 24#^isa-24-18|Isaiah 24:18]] ↔ [[Deuteronomy 4#^deut-4-12|Deuteronomy 4:12]]
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
+- [[2 Nephi 17]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
+- [[2 Nephi 21]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

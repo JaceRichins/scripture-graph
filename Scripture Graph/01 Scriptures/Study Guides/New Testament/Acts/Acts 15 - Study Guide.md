@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,7 +46,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Acts 21]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-29|Acts 15:29]] ↔ [[Acts 21#^acts-21-25|Acts 21:25]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-4|Acts 15:4]] ↔ [[Matthew 17#^matt-17-14|Matthew 17:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

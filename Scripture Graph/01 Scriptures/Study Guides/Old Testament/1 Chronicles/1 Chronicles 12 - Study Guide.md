@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 12
 slug: 1chr-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

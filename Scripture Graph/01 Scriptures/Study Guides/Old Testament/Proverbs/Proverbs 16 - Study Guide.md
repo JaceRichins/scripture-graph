@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 16
 slug: prov-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Proverbs 14]] — 1 parallel verse, e.g. [[Proverbs 16#^prov-16-25|Proverbs 16:25]] ↔ [[Proverbs 14#^prov-14-12|Proverbs 14:12]]
-- [[Proverbs 15]] — 2 parallel verses, e.g. [[Proverbs 16#^prov-16-5|Proverbs 16:5]] ↔ [[Proverbs 15#^prov-15-8|Proverbs 15:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

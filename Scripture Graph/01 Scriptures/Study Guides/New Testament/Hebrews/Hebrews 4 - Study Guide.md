@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 4
 slug: heb-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,12 +41,6 @@ _Not yet developed._
 - [[Hebrews 3]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Hebrews 3#^heb-3-15|Hebrews 3:15]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-12|Hebrews 4:12]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Hebrews 4#^heb-4-3|Hebrews 4:3]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[Hebrews 4#^heb-4-3|Hebrews 4:3]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[Alma 18]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-12|Hebrews 4:12]] ↔ [[Alma 18#^alma-18-32|Alma 18:32]]
-- [[Psalm 95]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Psalm 95#^ps-95-7|Psalm 95:7]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-3|Hebrews 4:3]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[Alma 12]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-3|Hebrews 4:3]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

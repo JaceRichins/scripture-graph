@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 16]] — 13 parallel verses, e.g. [[Mormon 6#^morm-6-4|Mormon 6:4]] ↔ [[1 Nephi 16#^1ne-16-13|1 Nephi 16:13]]
-- [[Mormon 2]] — 9 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Mormon 2#^morm-2-4|Mormon 2:4]]
-- [[Alma 56]] — 5 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 56#^alma-56-50|Alma 56:50]]
-- [[Alma 58]] — 7 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Alma 58#^alma-58-4|Alma 58:4]]
-- [[1 Nephi 17]] — 6 parallel verses, e.g. [[Mormon 6#^morm-6-4|Mormon 6:4]] ↔ [[1 Nephi 17#^1ne-17-6|1 Nephi 17:6]]
-- [[Mosiah 10]] — 6 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Mosiah 10#^mosiah-10-3|Mosiah 10:3]]
-- [[Alma 57]] — 6 parallel verses, e.g. [[Mormon 6#^morm-6-15|Mormon 6:15]] ↔ [[Alma 57#^alma-57-25|Alma 57:25]]
-- [[Mosiah 19]] — 4 parallel verses, e.g. [[Mormon 6#^morm-6-3|Mormon 6:3]] ↔ [[Mosiah 19#^mosiah-19-25|Mosiah 19:25]]
-- [[Alma 43]] — 4 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
-- [[Mormon 3]] — 3 parallel verses, e.g. [[Mormon 6#^morm-6-21|Mormon 6:21]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
-- [[1 Nephi 18]] — 4 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[1 Nephi 18#^1ne-18-24|1 Nephi 18:24]]
+- [[Alma 56]] — 3 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 56#^alma-56-50|Alma 56:50]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-9|Mormon 6:9]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
+- [[Words of Mormon 1]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-21|Mormon 6:21]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
+- [[Mosiah 28]] — 1 parallel verse, e.g. [[Mormon 6#^morm-6-2|Mormon 6:2]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

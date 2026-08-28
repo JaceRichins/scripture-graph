@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 13
 slug: hosea-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 132]] — 8 parallel verses, e.g. [[Hosea 13#^hosea-13-4|Hosea 13:4]] ↔ [[D&C 132#^dc-132-2|D&C 132:2]]
 - [[Hosea 12]] — 1 parallel verse, e.g. [[Hosea 13#^hosea-13-4|Hosea 13:4]] ↔ [[Hosea 12#^hosea-12-9|Hosea 12:9]]
-- [[Abraham 3]] — 2 parallel verses, e.g. [[Hosea 13#^hosea-13-4|Hosea 13:4]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 88
 slug: dc-88
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 109]] — 9 parallel verses, e.g. [[D&C 88#^dc-88-119|D&C 88:119]] ↔ [[D&C 109#^dc-109-8|D&C 109:8]]
-- [[D&C 124]] — 55 parallel verses, e.g. [[D&C 88#^dc-88-1|D&C 88:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 49]] — 14 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
-- [[D&C 90]] — 15 parallel verses, e.g. [[D&C 88#^dc-88-77|D&C 88:77]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
+- [[D&C 109]] — 7 parallel verses, e.g. [[D&C 88#^dc-88-119|D&C 88:119]] ↔ [[D&C 109#^dc-109-8|D&C 109:8]]
 - [[Revelation 14]] — 5 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
-- [[D&C 94]] — 13 parallel verses, e.g. [[D&C 88#^dc-88-62|D&C 88:62]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
-- [[D&C 132]] — 14 parallel verses, e.g. [[D&C 88#^dc-88-1|D&C 88:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
-- [[D&C 98]] — 9 parallel verses, e.g. [[D&C 88#^dc-88-2|D&C 88:2]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
-- [[D&C 76]] — 6 parallel verses, e.g. [[D&C 88#^dc-88-106|D&C 88:106]] ↔ [[D&C 76#^dc-76-107|D&C 76:107]]
-- [[D&C 75]] — 11 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[D&C 75#^dc-75-27|D&C 75:27]]
-- [[D&C 133]] — 7 parallel verses, e.g. [[D&C 88#^dc-88-92|D&C 88:92]] ↔ [[D&C 133#^dc-133-10|D&C 133:10]]
-- [[D&C 52]] — 12 parallel verses, e.g. [[D&C 88#^dc-88-25|D&C 88:25]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
+- [[D&C 49]] — 6 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
+- [[D&C 76]] — 4 parallel verses, e.g. [[D&C 88#^dc-88-106|D&C 88:106]] ↔ [[D&C 76#^dc-76-107|D&C 76:107]]
+- [[D&C 90]] — 6 parallel verses, e.g. [[D&C 88#^dc-88-77|D&C 88:77]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
+- [[3 Nephi 18]] — 4 parallel verses, e.g. [[D&C 88#^dc-88-62|D&C 88:62]] ↔ [[3 Nephi 18#^3ne-18-28|3 Nephi 18:28]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-92|D&C 88:92]] ↔ [[D&C 133#^dc-133-10|D&C 133:10]]
+- [[D&C 35]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
+- [[D&C 98]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-2|D&C 88:2]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-87|D&C 88:87]] ↔ [[D&C 45#^dc-45-48|D&C 45:48]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
+- [[Revelation 18]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

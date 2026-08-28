@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 29
 slug: job-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

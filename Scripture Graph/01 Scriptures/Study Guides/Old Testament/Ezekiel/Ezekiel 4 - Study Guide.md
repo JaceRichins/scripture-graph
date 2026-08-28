@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 4
 slug: ezek-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 1]] — 39 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
 - [[Ezekiel 3]] — 4 parallel verses, e.g. [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]] ↔ [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]]
-- [[Exodus 12]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Exodus 12#^ex-12-4|Exodus 12:4]]
-- [[Leviticus 25]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Leviticus 25#^lev-25-16|Leviticus 25:16]]
-- [[Joshua 4]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Joshua 4#^josh-4-8|Joshua 4:8]]
-- [[Ezra 6]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Ezra 6#^ezra-6-17|Ezra 6:17]]
-- [[Jeremiah 11]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Jeremiah 11#^jer-11-13|Jeremiah 11:13]]
 - [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
-- [[Ezekiel 9]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Ezekiel 9#^ezek-9-9|Ezekiel 9:9]]
-- [[Deuteronomy 32]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[Deuteronomy 32#^deut-32-8|Deuteronomy 32:8]]
-- [[1 Samuel 6]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[1 Samuel 6#^1sam-6-4|1 Samuel 6:4]]
-- [[1 Kings 18]] — 3 parallel verses, e.g. [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]] ↔ [[1 Kings 18#^1kgs-18-31|1 Kings 18:31]]
+- [[Ezekiel 2]] — 2 parallel verses, e.g. [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]] ↔ [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]] ↔ [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

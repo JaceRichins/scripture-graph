@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 21
 slug: 1ne-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,16 +39,13 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 49]] — 26 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[2 Nephi 6]] — 5 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
-- [[Isaiah 60]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
-- [[Ezekiel 35]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
-- [[3 Nephi 16]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-13|1 Nephi 21:13]] ↔ [[3 Nephi 16#^3ne-16-19|3 Nephi 16:19]]
-- [[Ezekiel 20]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 20#^ezek-20-47|Ezekiel 20:47]]
-- [[Ezekiel 34]] — 4 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]]
-- [[Ezekiel 29]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
-- [[Ezekiel 37]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[Isaiah 60]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
-- [[Ezekiel 5]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
-- [[Ezekiel 14]] — 3 parallel verses, e.g. [[1 Nephi 21#^1ne-21-18|1 Nephi 21:18]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
+- [[Ezekiel 35]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[Ezekiel 23]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 23#^ezek-23-22|Ezekiel 23:22]]
+- [[Ezekiel 29]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[3 Nephi 16]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-13|1 Nephi 21:13]] ↔ [[3 Nephi 16#^3ne-16-19|3 Nephi 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

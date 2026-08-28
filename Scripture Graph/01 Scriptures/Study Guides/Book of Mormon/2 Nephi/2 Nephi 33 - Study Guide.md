@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 33
 slug: 2ne-33
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]] ↔ [[Moroni 10#^moro-10-28|Moroni 10:28]]
-- [[Moroni 7]] — 6 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Moroni 7#^moro-7-35|Moroni 7:35]]
-- [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
-- [[Mormon 9]] — 3 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
-- [[Ezekiel 13]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-13|2 Nephi 33:13]] ↔ [[2 Nephi 25#^2ne-25-4|2 Nephi 25:4]]
-- [[3 Nephi 16]] — 3 parallel verses, e.g. [[2 Nephi 33#^2ne-33-13|2 Nephi 33:13]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
-- [[2 Nephi 26]] — 3 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]]
+- [[Moroni 10]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]] ↔ [[Moroni 10#^moro-10-28|Moroni 10:28]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Moroni 7#^moro-7-35|Moroni 7:35]]
+- [[Mormon 9]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[2 Nephi 32]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]]
-- [[Ezekiel 20]] — 3 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
 - [[Moroni 3]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[2 Nephi 28#^2ne-28-20|2 Nephi 28:20]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

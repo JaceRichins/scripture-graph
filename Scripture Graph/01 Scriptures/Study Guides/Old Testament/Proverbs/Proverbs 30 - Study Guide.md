@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 30
 slug: prov-30
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

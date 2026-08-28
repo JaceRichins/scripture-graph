@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 5
 slug: micah-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 21]] — 14 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
-- [[3 Nephi 20]] — 4 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
-- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
-- [[Isaiah 7]] — 3 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
-- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]]
-- [[Amos 8]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Amos 8#^amos-8-9|Amos 8:9]]
-- [[2 Nephi 24]] — 3 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
-- [[Zephaniah 3]] — 3 parallel verses, e.g. [[Micah 5#^micah-5-13|Micah 5:13]] ↔ [[Zephaniah 3#^zeph-3-11|Zephaniah 3:11]]
-- [[Zechariah 14]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
-- [[Isaiah 10]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
+- [[3 Nephi 21]] — 8 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
+- [[3 Nephi 20]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
+- [[Zechariah 13]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
+- [[Jeremiah 30]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]]
+- [[Amos 8]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Amos 8#^amos-8-9|Amos 8:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

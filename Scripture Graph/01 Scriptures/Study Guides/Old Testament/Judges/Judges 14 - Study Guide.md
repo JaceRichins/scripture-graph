@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 14
 slug: judg-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,16 +39,8 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Joshua 6]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Joshua 6#^josh-6-15|Joshua 6:15]]
 - [[2 Samuel 12]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[2 Samuel 12#^2sam-12-18|2 Samuel 12:18]]
-- [[Judges 3]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-19|Judges 14:19]] ↔ [[Judges 3#^judg-3-10|Judges 3:10]]
-- [[Judges 15]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-6|Judges 14:6]] ↔ [[Judges 15#^judg-15-14|Judges 15:14]]
-- [[Judges 6]] — 3 parallel verses, e.g. [[Judges 14#^judg-14-18|Judges 14:18]] ↔ [[Judges 6#^judg-6-30|Judges 6:30]]
-- [[1 Samuel 16]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-19|Judges 14:19]] ↔ [[1 Samuel 16#^1sam-16-13|1 Samuel 16:13]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-3|Judges 14:3]] ↔ [[Zechariah 13#^zech-13-3|Zechariah 13:3]]
-- [[Leviticus 9]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Leviticus 9#^lev-9-1|Leviticus 9:1]]
-- [[Numbers 7]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Numbers 7#^num-7-1|Numbers 7:1]]
-- [[Numbers 10]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Numbers 10#^num-10-11|Numbers 10:11]]
-- [[Numbers 22]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Numbers 22#^num-22-41|Numbers 22:41]]
-- [[Judges 9]] — 2 parallel verses, e.g. [[Judges 14#^judg-14-15|Judges 14:15]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
+- [[Judges 3]] — 1 parallel verse, e.g. [[Judges 14#^judg-14-19|Judges 14:19]] ↔ [[Judges 3#^judg-3-10|Judges 3:10]]
+- [[Judges 15]] — 1 parallel verse, e.g. [[Judges 14#^judg-14-6|Judges 14:6]] ↔ [[Judges 15#^judg-15-14|Judges 15:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

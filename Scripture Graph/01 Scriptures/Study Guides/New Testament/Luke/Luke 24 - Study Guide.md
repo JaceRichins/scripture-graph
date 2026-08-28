@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,17 +45,9 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 129]] — 1 parallel verse, e.g. [[Luke 24#^luke-24-39|Luke 24:39]] ↔ [[D&C 129#^dc-129-2|D&C 129:2]]
-- [[Mark 16]] — 3 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
-- [[John 20]] — 3 parallel verses, e.g. [[Luke 24#^luke-24-36|Luke 24:36]] ↔ [[John 20#^john-20-19|John 20:19]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
 - [[Acts 20]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]
 - [[2 Kings 1]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-17|Luke 24:17]] ↔ [[2 Kings 1#^2kgs-1-7|2 Kings 1:7]]
-- [[Acts 19]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-40|Luke 24:40]] ↔ [[Acts 19#^acts-19-41|Acts 19:41]]
-- [[3 Nephi 11]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-36|Luke 24:36]] ↔ [[3 Nephi 11#^3ne-11-8|3 Nephi 11:8]]
-- [[Acts 27]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-40|Luke 24:40]] ↔ [[Acts 27#^acts-27-35|Acts 27:35]]
-- [[Moses 4]] — 1 parallel verse, e.g. [[Luke 24#^luke-24-44|Luke 24:44]] ↔ [[Moses 4#^moses-4-32|Moses 4:32]]
-- [[Luke 9]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-7|Luke 24:7]] ↔ [[Luke 9#^luke-9-22|Luke 9:22]]
-- [[2 Kings 7]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-32|Luke 24:32]] ↔ [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]]
-- [[Exodus 35]] — 1 parallel verse, e.g. [[Luke 24#^luke-24-44|Luke 24:44]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

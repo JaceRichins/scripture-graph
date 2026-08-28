@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 20
 slug: lev-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 35]] — 33 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Numbers 35#^num-35-16|Numbers 35:16]]
-- [[Exodus 21]] — 19 parallel verses, e.g. [[Leviticus 20#^lev-20-9|Leviticus 20:9]] ↔ [[Exodus 21#^ex-21-15|Exodus 21:15]]
-- [[Leviticus 18]] — 14 parallel verses, e.g. [[Leviticus 20#^lev-20-19|Leviticus 20:19]] ↔ [[Leviticus 18#^lev-18-13|Leviticus 18:13]]
-- [[Leviticus 24]] — 18 parallel verses, e.g. [[Leviticus 20#^lev-20-15|Leviticus 20:15]] ↔ [[Leviticus 24#^lev-24-16|Leviticus 24:16]]
-- [[Leviticus 19]] — 17 parallel verses, e.g. [[Leviticus 20#^lev-20-22|Leviticus 20:22]] ↔ [[Leviticus 19#^lev-19-37|Leviticus 19:37]]
-- [[Exodus 31]] — 17 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Exodus 31#^ex-31-15|Exodus 31:15]]
-- [[Leviticus 17]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-6|Leviticus 20:6]] ↔ [[Leviticus 17#^lev-17-10|Leviticus 17:10]]
-- [[Judges 21]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Judges 21#^judg-21-5|Judges 21:5]]
-- [[Leviticus 27]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Leviticus 27#^lev-27-29|Leviticus 27:29]]
-- [[Genesis 26]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Genesis 26#^gen-26-11|Genesis 26:11]]
-- [[Exodus 22]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Exodus 22#^ex-22-19|Exodus 22:19]]
-- [[Ezekiel 20]] — 8 parallel verses, e.g. [[Leviticus 20#^lev-20-7|Leviticus 20:7]] ↔ [[Ezekiel 20#^ezek-20-5|Ezekiel 20:5]]
+- [[Leviticus 18]] — 7 parallel verses, e.g. [[Leviticus 20#^lev-20-19|Leviticus 20:19]] ↔ [[Leviticus 18#^lev-18-13|Leviticus 18:13]]
+- [[Leviticus 17]] — 4 parallel verses, e.g. [[Leviticus 20#^lev-20-6|Leviticus 20:6]] ↔ [[Leviticus 17#^lev-17-10|Leviticus 17:10]]
+- [[Exodus 21]] — 4 parallel verses, e.g. [[Leviticus 20#^lev-20-9|Leviticus 20:9]] ↔ [[Exodus 21#^ex-21-15|Exodus 21:15]]
+- [[Ezekiel 14]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-3|Leviticus 20:3]] ↔ [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]]
+- [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 20#^lev-20-22|Leviticus 20:22]] ↔ [[Leviticus 19#^lev-19-37|Leviticus 19:37]]
+- [[Leviticus 24]] — 3 parallel verses, e.g. [[Leviticus 20#^lev-20-15|Leviticus 20:15]] ↔ [[Leviticus 24#^lev-24-16|Leviticus 24:16]]
+- [[Leviticus 26]] — 3 parallel verses, e.g. [[Leviticus 20#^lev-20-7|Leviticus 20:7]] ↔ [[Leviticus 26#^lev-26-1|Leviticus 26:1]]
+- [[Numbers 16]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-24|Leviticus 20:24]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
+- [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-24|Leviticus 20:24]] ↔ [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]]
+- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-24|Leviticus 20:24]] ↔ [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]]
+- [[Leviticus 25]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-7|Leviticus 20:7]] ↔ [[Leviticus 25#^lev-25-17|Leviticus 25:17]]
+- [[Exodus 31]] — 2 parallel verses, e.g. [[Leviticus 20#^lev-20-2|Leviticus 20:2]] ↔ [[Exodus 31#^ex-31-15|Exodus 31:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

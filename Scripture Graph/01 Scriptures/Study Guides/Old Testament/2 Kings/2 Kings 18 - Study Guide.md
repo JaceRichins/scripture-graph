@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 18
 slug: 2kgs-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 36]] — 30 parallel verses, e.g. [[2 Kings 18#^2kgs-18-31|2 Kings 18:31]] ↔ [[Isaiah 36#^isa-36-16|Isaiah 36:16]]
-- [[2 Kings 15]] — 8 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
-- [[2 Kings 23]] — 7 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
-- [[2 Kings 17]] — 6 parallel verses, e.g. [[2 Kings 18#^2kgs-18-11|2 Kings 18:11]] ↔ [[2 Kings 17#^2kgs-17-6|2 Kings 17:6]]
-- [[2 Kings 19]] — 5 parallel verses, e.g. [[2 Kings 18#^2kgs-18-30|2 Kings 18:30]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
-- [[2 Kings 16]] — 6 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 16#^2kgs-16-8|2 Kings 16:8]]
-- [[2 Chronicles 27]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
-- [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 14#^2kgs-14-14|2 Kings 14:14]]
-- [[Jeremiah 32]] — 7 parallel verses, e.g. [[2 Kings 18#^2kgs-18-30|2 Kings 18:30]] ↔ [[Jeremiah 32#^jer-32-4|Jeremiah 32:4]]
+- [[Isaiah 36]] — 27 parallel verses, e.g. [[2 Kings 18#^2kgs-18-31|2 Kings 18:31]] ↔ [[Isaiah 36#^isa-36-16|Isaiah 36:16]]
+- [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
 - [[2 Kings 24]] — 5 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
+- [[2 Kings 19]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-30|2 Kings 18:30]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
+- [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 14#^2kgs-14-14|2 Kings 14:14]]
 - [[2 Chronicles 25]] — 3 parallel verses, e.g. [[2 Kings 18#^2kgs-18-2|2 Kings 18:2]] ↔ [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]]
-- [[2 Chronicles 36]] — 7 parallel verses, e.g. [[2 Kings 18#^2kgs-18-2|2 Kings 18:2]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
+- [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
+- [[2 Kings 17]] — 2 parallel verses, e.g. [[2 Kings 18#^2kgs-18-11|2 Kings 18:11]] ↔ [[2 Kings 17#^2kgs-17-6|2 Kings 17:6]]
+- [[2 Chronicles 26]] — 2 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
+- [[2 Kings 16]] — 3 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 16#^2kgs-16-8|2 Kings 16:8]]
+- [[2 Chronicles 34]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 127
 slug: dc-127
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 128]] — 7 parallel verses, e.g. [[D&C 127#^dc-127-7|D&C 127:7]] ↔ [[D&C 128#^dc-128-7|D&C 128:7]]
-- [[D&C 124]] — 6 parallel verses, e.g. [[D&C 127#^dc-127-6|D&C 127:6]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[D&C 115]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
-- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-6|D&C 127:6]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
-- [[D&C 75]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-4|D&C 127:4]] ↔ [[D&C 75#^dc-75-13|D&C 75:13]]
-- [[Leviticus 27]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-2|D&C 127:2]] ↔ [[Leviticus 27#^lev-27-12|Leviticus 27:12]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-7|D&C 127:7]] ↔ [[D&C 128#^dc-128-7|D&C 128:7]]
 - [[D&C 136]] — 1 parallel verse, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
-- [[D&C 104]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-4|D&C 127:4]] ↔ [[D&C 104#^dc-104-54|D&C 104:54]]
-- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-6|D&C 127:6]] ↔ [[D&C 71#^dc-71-9|D&C 71:9]]
-- [[D&C 86]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-6|D&C 127:6]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]
-- [[D&C 100]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-6|D&C 127:6]] ↔ [[D&C 100#^dc-100-1|D&C 100:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 1
 slug: isa-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,8 +43,6 @@ _Not yet developed._
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-1|Isaiah 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
-- [[Isaiah 10]] — 2 parallel verses, e.g. [[Isaiah 1#^isa-1-24|Isaiah 1:24]] ↔ [[Isaiah 10#^isa-10-16|Isaiah 10:16]]
-- [[2 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 1#^isa-1-24|Isaiah 1:24]] ↔ [[2 Nephi 20#^2ne-20-16|2 Nephi 20:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

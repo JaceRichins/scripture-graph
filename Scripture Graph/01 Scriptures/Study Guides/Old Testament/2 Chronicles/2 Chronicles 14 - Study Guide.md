@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 14
 slug: 2chr-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[1 Kings 15#^1kgs-15-8|1 Kings 15:8]]
-- [[2 Chronicles 24]] — 5 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 24#^2chr-24-16|2 Chronicles 24:16]]
-- [[2 Kings 15]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Kings 15#^2kgs-15-7|2 Kings 15:7]]
+- [[1 Kings 15]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[1 Kings 15#^1kgs-15-8|1 Kings 15:8]]
+- [[2 Chronicles 24]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 24#^2chr-24-16|2 Chronicles 24:16]]
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 27#^2chr-27-9|2 Chronicles 27:9]]
-- [[2 Chronicles 21]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 21#^2chr-21-1|2 Chronicles 21:1]]
-- [[2 Chronicles 28]] — 2 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 28#^2chr-28-27|2 Chronicles 28:27]]
-- [[2 Chronicles 32]] — 2 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]]
-- [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
-- [[2 Kings 13]] — 2 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Kings 13#^2kgs-13-9|2 Kings 13:9]]
-- [[1 Kings 16]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[1 Kings 16#^1kgs-16-6|1 Kings 16:6]]
-- [[1 Kings 14]] — 2 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[1 Kings 14#^1kgs-14-31|1 Kings 14:31]]
-- [[Judges 9]] — 3 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-13|2 Chronicles 14:13]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
+- [[2 Chronicles 21]] — 2 parallel verses, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 21#^2chr-21-20|2 Chronicles 21:20]]
+- [[2 Chronicles 28]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 28#^2chr-28-27|2 Chronicles 28:27]]
+- [[2 Chronicles 32]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]]
+- [[2 Kings 15]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Kings 15#^2kgs-15-7|2 Kings 15:7]]
+- [[2 Kings 10]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Kings 10#^2kgs-10-35|2 Kings 10:35]]
+- [[2 Kings 13]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Kings 13#^2kgs-13-9|2 Kings 13:9]]
+- [[2 Chronicles 33]] — 1 parallel verse, e.g. [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]] ↔ [[2 Chronicles 33#^2chr-33-20|2 Chronicles 33:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 65
 slug: isa-65
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,8 +41,6 @@ _Not yet developed._
 - [[2 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
 - [[2 Nephi 30]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]]
 - [[Amos 9]] — 1 parallel verse, e.g. [[Isaiah 65#^isa-65-21|Isaiah 65:21]] ↔ [[Amos 9#^amos-9-14|Amos 9:14]]
-- [[Romans 10]] — 1 parallel verse, e.g. [[Isaiah 65#^isa-65-1|Isaiah 65:1]] ↔ [[Romans 10#^rom-10-20|Romans 10:20]]
-- [[Jeremiah 29]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-21|Isaiah 65:21]] ↔ [[Jeremiah 29#^jer-29-5|Jeremiah 29:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

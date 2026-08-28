@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 11
 slug: luke-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 12]] — 10 parallel verses, e.g. [[Luke 11#^luke-11-31|Luke 11:31]] ↔ [[Matthew 12#^matt-12-42|Matthew 12:42]]
-- [[Matthew 7]] — 5 parallel verses, e.g. [[Luke 11#^luke-11-9|Luke 11:9]] ↔ [[Matthew 7#^matt-7-7|Matthew 7:7]]
-- [[Matthew 23]] — 10 parallel verses, e.g. [[Luke 11#^luke-11-42|Luke 11:42]] ↔ [[Matthew 23#^matt-23-23|Matthew 23:23]]
+- [[Matthew 12]] — 9 parallel verses, e.g. [[Luke 11#^luke-11-31|Luke 11:31]] ↔ [[Matthew 12#^matt-12-42|Matthew 12:42]]
+- [[Matthew 7]] — 4 parallel verses, e.g. [[Luke 11#^luke-11-9|Luke 11:9]] ↔ [[Matthew 7#^matt-7-7|Matthew 7:7]]
 - [[3 Nephi 14]] — 4 parallel verses, e.g. [[Luke 11#^luke-11-10|Luke 11:10]] ↔ [[3 Nephi 14#^3ne-14-8|3 Nephi 14:8]]
+- [[Matthew 23]] — 9 parallel verses, e.g. [[Luke 11#^luke-11-42|Luke 11:42]] ↔ [[Matthew 23#^matt-23-23|Matthew 23:23]]
 - [[Matthew 6]] — 4 parallel verses, e.g. [[Luke 11#^luke-11-4|Luke 11:4]] ↔ [[Matthew 6#^matt-6-13|Matthew 6:13]]
 - [[3 Nephi 13]] — 3 parallel verses, e.g. [[Luke 11#^luke-11-4|Luke 11:4]] ↔ [[3 Nephi 13#^3ne-13-12|3 Nephi 13:12]]
-- [[Luke 8]] — 2 parallel verses, e.g. [[Luke 11#^luke-11-33|Luke 11:33]] ↔ [[Luke 8#^luke-8-16|Luke 8:16]]
+- [[Luke 8]] — 1 parallel verse, e.g. [[Luke 11#^luke-11-33|Luke 11:33]] ↔ [[Luke 8#^luke-8-16|Luke 8:16]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Luke 11#^luke-11-9|Luke 11:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[Matthew 16]] — 1 parallel verse, e.g. [[Luke 11#^luke-11-29|Luke 11:29]] ↔ [[Matthew 16#^matt-16-4|Matthew 16:4]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Luke 11#^luke-11-50|Luke 11:50]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[Luke 11#^luke-11-50|Luke 11:50]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[Matthew 9]] — 2 parallel verses, e.g. [[Luke 11#^luke-11-14|Luke 11:14]] ↔ [[Matthew 9#^matt-9-33|Matthew 9:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

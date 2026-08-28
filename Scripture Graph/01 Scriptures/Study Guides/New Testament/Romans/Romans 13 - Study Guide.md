@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
-- [[Mosiah 13]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Mosiah 13#^mosiah-13-22|Mosiah 13:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

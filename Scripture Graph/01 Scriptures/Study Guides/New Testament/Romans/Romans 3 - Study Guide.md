@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,8 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 14]] — 2 parallel verses, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 14#^ps-14-3|Psalm 14:3]]
-- [[Psalm 53]] — 2 parallel verses, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 53#^ps-53-3|Psalm 53:3]]
+- [[Psalm 14]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 14#^ps-14-3|Psalm 14:3]]
+- [[Psalm 53]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 53#^ps-53-3|Psalm 53:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

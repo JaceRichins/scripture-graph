@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 12
 slug: hosea-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

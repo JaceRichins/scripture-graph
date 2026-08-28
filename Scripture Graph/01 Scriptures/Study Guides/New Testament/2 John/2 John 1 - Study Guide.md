@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 John
 chapter: 1
 slug: 2jn-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,10 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 John 4]] — 2 parallel verses, e.g. [[2 John 1#^2jn-1-7|2 John 1:7]] ↔ [[1 John 4#^1jn-4-3|1 John 4:3]]
-- [[Galatians 1]] — 1 parallel verse, e.g. [[2 John 1#^2jn-1-3|2 John 1:3]] ↔ [[Galatians 1#^gal-1-3|Galatians 1:3]]
-- [[2 Timothy 1]] — 1 parallel verse, e.g. [[2 John 1#^2jn-1-3|2 John 1:3]] ↔ [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]]
-- [[Titus 1]] — 1 parallel verse, e.g. [[2 John 1#^2jn-1-3|2 John 1:3]] ↔ [[Titus 1#^titus-1-4|Titus 1:4]]
-- [[1 John 2]] — 2 parallel verses, e.g. [[2 John 1#^2jn-1-6|2 John 1:6]] ↔ [[1 John 2#^1jn-2-7|1 John 2:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

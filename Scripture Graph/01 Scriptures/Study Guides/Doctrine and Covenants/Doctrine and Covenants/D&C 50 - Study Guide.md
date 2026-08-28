@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 50
 slug: dc-50
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 14 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[D&C 124#^dc-124-47|D&C 124:47]]
-- [[John 14]] — 4 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[John 14#^john-14-10|John 14:10]]
-- [[3 Nephi 11]] — 3 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
-- [[3 Nephi 19]] — 5 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
-- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
-- [[D&C 94]] — 6 parallel verses, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 94#^dc-94-5|D&C 94:5]]
-- [[D&C 61]] — 5 parallel verses, e.g. [[D&C 50#^dc-50-44|D&C 50:44]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
-- [[D&C 58]] — 3 parallel verses, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 58#^dc-58-1|D&C 58:1]]
-- [[D&C 132]] — 5 parallel verses, e.g. [[D&C 50#^dc-50-32|D&C 50:32]] ↔ [[D&C 132#^dc-132-40|D&C 132:40]]
-- [[D&C 67]] — 4 parallel verses, e.g. [[D&C 50#^dc-50-45|D&C 50:45]] ↔ [[D&C 67#^dc-67-10|D&C 67:10]]
-- [[Mormon 9]] — 4 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
-- [[D&C 88]] — 5 parallel verses, e.g. [[D&C 50#^dc-50-32|D&C 50:32]] ↔ [[D&C 88#^dc-88-64|D&C 88:64]]
+- [[John 14]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[John 14#^john-14-10|John 14:10]]
+- [[D&C 93]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
+- [[3 Nephi 19]] — 3 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
+- [[D&C 58]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 58#^dc-58-1|D&C 58:1]]
+- [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]]
+- [[D&C 67]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-45|D&C 50:45]] ↔ [[D&C 67#^dc-67-10|D&C 67:10]]
+- [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
+- [[D&C 43]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 43#^dc-43-1|D&C 43:1]]
+- [[D&C 48]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-35|D&C 50:35]] ↔ [[D&C 48#^dc-48-6|D&C 48:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

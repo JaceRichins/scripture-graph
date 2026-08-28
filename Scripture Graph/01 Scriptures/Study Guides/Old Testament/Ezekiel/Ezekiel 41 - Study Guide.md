@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 41
 slug: ezek-41
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,13 +40,9 @@ _Not yet developed._
 - [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]]
 - [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-26|Ezekiel 41:26]] ↔ [[Ezekiel 47#^ezek-47-7|Ezekiel 47:7]]
 - [[Ezekiel 48]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]]
-- [[Ezekiel 40]] — 4 parallel verses, e.g. [[Ezekiel 41#^ezek-41-4|Ezekiel 41:4]] ↔ [[Ezekiel 40#^ezek-40-45|Ezekiel 40:45]]
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[Exodus 32#^ex-32-15|Exodus 32:15]]
 - [[1 Kings 10]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[1 Kings 10#^1kgs-10-20|1 Kings 10:20]]
 - [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[2 Chronicles 9#^2chr-9-19|2 Chronicles 9:19]]
-- [[Abraham 3]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-4|Ezekiel 41:4]] ↔ [[Abraham 3#^abr-3-13|Abraham 3:13]]
-- [[Exodus 17]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-2|Ezekiel 41:2]] ↔ [[Exodus 17#^ex-17-12|Exodus 17:12]]
-- [[2 Chronicles 3]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-2|Ezekiel 41:2]] ↔ [[2 Chronicles 3#^2chr-3-3|2 Chronicles 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

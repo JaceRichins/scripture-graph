@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 8
 slug: prov-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

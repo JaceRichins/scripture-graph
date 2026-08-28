@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 4
 slug: moses-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 3]] — 33 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Genesis 3#^gen-3-17|Genesis 3:17]]
-- [[Alma 42]] — 6 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
-- [[Moses 3]] — 10 parallel verses, e.g. [[Moses 4#^moses-4-28|Moses 4:28]] ↔ [[Moses 3#^moses-3-18|Moses 3:18]]
-- [[Alma 12]] — 8 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
-- [[1 Nephi 8]] — 10 parallel verses, e.g. [[Moses 4#^moses-4-9|Moses 4:9]] ↔ [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]]
-- [[Alma 5]] — 7 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
-- [[Alma 32]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Alma 32#^alma-32-40|Alma 32:40]]
-- [[Leviticus 27]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-9|Moses 4:9]] ↔ [[Leviticus 27#^lev-27-30|Leviticus 27:30]]
-- [[D&C 29]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-3|Moses 4:3]] ↔ [[D&C 29#^dc-29-41|D&C 29:41]]
+- [[Genesis 3]] — 25 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Genesis 3#^gen-3-17|Genesis 3:17]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
+- [[Moses 3]] — 4 parallel verses, e.g. [[Moses 4#^moses-4-28|Moses 4:28]] ↔ [[Moses 3#^moses-3-18|Moses 3:18]]
+- [[Alma 12]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
 - [[Moses 1]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-1|Moses 4:1]] ↔ [[Moses 1#^moses-1-17|Moses 1:17]]
-- [[Moses 5]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-14|Moses 4:14]] ↔ [[Moses 5#^moses-5-4|Moses 5:4]]
-- [[Mosiah 2]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-14|Moses 4:14]] ↔ [[Mosiah 2#^mosiah-2-38|Mosiah 2:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

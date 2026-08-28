@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 25
 slug: lev-25
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 19]] — 22 parallel verses, e.g. [[Leviticus 25#^lev-25-55|Leviticus 25:55]] ↔ [[Leviticus 19#^lev-19-34|Leviticus 19:34]]
-- [[Ezekiel 20]] — 15 parallel verses, e.g. [[Leviticus 25#^lev-25-18|Leviticus 25:18]] ↔ [[Ezekiel 20#^ezek-20-19|Ezekiel 20:19]]
-- [[Leviticus 26]] — 9 parallel verses, e.g. [[Leviticus 25#^lev-25-38|Leviticus 25:38]] ↔ [[Leviticus 26#^lev-26-13|Leviticus 26:13]]
-- [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
-- [[Numbers 15]] — 5 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 15#^num-15-18|Numbers 15:18]]
-- [[Numbers 1]] — 13 parallel verses, e.g. [[Leviticus 25#^lev-25-16|Leviticus 25:16]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
-- [[Leviticus 18]] — 10 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 18#^lev-18-2|Leviticus 18:2]]
-- [[Leviticus 20]] — 6 parallel verses, e.g. [[Leviticus 25#^lev-25-17|Leviticus 25:17]] ↔ [[Leviticus 20#^lev-20-7|Leviticus 20:7]]
+- [[Leviticus 26]] — 5 parallel verses, e.g. [[Leviticus 25#^lev-25-38|Leviticus 25:38]] ↔ [[Leviticus 26#^lev-26-13|Leviticus 26:13]]
+- [[Numbers 15]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 15#^num-15-18|Numbers 15:18]]
+- [[Leviticus 23]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
+- [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-55|Leviticus 25:55]] ↔ [[Leviticus 19#^lev-19-34|Leviticus 19:34]]
 - [[Numbers 34]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 34#^num-34-2|Numbers 34:2]]
-- [[Judges 6]] — 4 parallel verses, e.g. [[Leviticus 25#^lev-25-17|Leviticus 25:17]] ↔ [[Judges 6#^judg-6-10|Judges 6:10]]
-- [[Ezekiel 36]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-18|Leviticus 25:18]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
-- [[Exodus 6]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-38|Leviticus 25:38]] ↔ [[Exodus 6#^ex-6-7|Exodus 6:7]]
+- [[Ezekiel 20]] — 2 parallel verses, e.g. [[Leviticus 25#^lev-25-18|Leviticus 25:18]] ↔ [[Ezekiel 20#^ezek-20-19|Ezekiel 20:19]]
+- [[Numbers 33]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 33#^num-33-51|Numbers 33:51]]
+- [[Numbers 35]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 35#^num-35-10|Numbers 35:10]]
+- [[Leviticus 20]] — 2 parallel verses, e.g. [[Leviticus 25#^lev-25-17|Leviticus 25:17]] ↔ [[Leviticus 20#^lev-20-7|Leviticus 20:7]]
+- [[Ezekiel 36]] — 2 parallel verses, e.g. [[Leviticus 25#^lev-25-18|Leviticus 25:18]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
+- [[Leviticus 27]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 27#^lev-27-2|Leviticus 27:2]]
+- [[Numbers 6]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 6#^num-6-2|Numbers 6:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

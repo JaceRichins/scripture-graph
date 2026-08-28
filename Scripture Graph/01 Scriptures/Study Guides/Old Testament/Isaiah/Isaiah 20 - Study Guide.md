@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 20
 slug: isa-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

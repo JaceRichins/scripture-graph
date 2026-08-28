@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 17
 slug: 2sam-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 9]] — 7 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
-- [[1 Samuel 14]] — 6 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]]
-- [[2 Samuel 16]] — 4 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
-- [[1 Samuel 30]] — 4 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[1 Samuel 30#^1sam-30-21|1 Samuel 30:21]]
-- [[Genesis 35]] — 3 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[Genesis 35#^gen-35-6|Genesis 35:6]]
-- [[Joshua 8]] — 3 parallel verses, e.g. [[2 Samuel 17#^2sam-17-2|2 Samuel 17:2]] ↔ [[Joshua 8#^josh-8-5|Joshua 8:5]]
-- [[Judges 4]] — 3 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[Judges 4#^judg-4-13|Judges 4:13]]
-- [[1 Samuel 17]] — 4 parallel verses, e.g. [[2 Samuel 17#^2sam-17-14|2 Samuel 17:14]] ↔ [[1 Samuel 17#^1sam-17-19|1 Samuel 17:19]]
-- [[2 Samuel 3]] — 3 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[2 Samuel 3#^2sam-3-31|2 Samuel 3:31]]
-- [[Judges 20]] — 3 parallel verses, e.g. [[2 Samuel 17#^2sam-17-14|2 Samuel 17:14]] ↔ [[Judges 20#^judg-20-33|Judges 20:33]]
-- [[Judges 7]] — 2 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[Judges 7#^judg-7-1|Judges 7:1]]
-- [[Joshua 7]] — 2 parallel verses, e.g. [[2 Samuel 17#^2sam-17-15|2 Samuel 17:15]] ↔ [[Joshua 7#^josh-7-20|Joshua 7:20]]
+- [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
+- [[Joshua 8]] — 2 parallel verses, e.g. [[2 Samuel 17#^2sam-17-2|2 Samuel 17:2]] ↔ [[Joshua 8#^josh-8-5|Joshua 8:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

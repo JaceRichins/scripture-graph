@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 27
 slug: 1sam-27
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Samuel 30]] — 3 parallel verses, e.g. [[1 Samuel 27#^1sam-27-2|1 Samuel 27:2]] ↔ [[1 Samuel 30#^1sam-30-9|1 Samuel 30:9]]
 - [[1 Samuel 23]] — 2 parallel verses, e.g. [[1 Samuel 27#^1sam-27-4|1 Samuel 27:4]] ↔ [[1 Samuel 23#^1sam-23-7|1 Samuel 23:7]]
-- [[1 Samuel 6]] — 2 parallel verses, e.g. [[1 Samuel 27#^1sam-27-7|1 Samuel 27:7]] ↔ [[1 Samuel 6#^1sam-6-1|1 Samuel 6:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

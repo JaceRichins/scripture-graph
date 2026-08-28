@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 6
 slug: 1chr-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 21]] — 125 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]] ↔ [[Joshua 21#^josh-21-6|Joshua 21:6]]
+- [[Joshua 21]] — 38 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]] ↔ [[Joshua 21#^josh-21-6|Joshua 21:6]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
-- [[Numbers 34]] — 9 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
-- [[Joshua 19]] — 9 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 19#^josh-19-1|Joshua 19:1]]
-- [[Numbers 26]] — 12 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]] ↔ [[Numbers 26#^num-26-58|Numbers 26:58]]
-- [[Numbers 3]] — 9 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
-- [[Nehemiah 11]] — 7 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Nehemiah 11#^neh-11-4|Nehemiah 11:4]]
-- [[Numbers 4]] — 7 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-66|1 Chronicles 6:66]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
-- [[Exodus 6]] — 6 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-18|1 Chronicles 6:18]] ↔ [[Exodus 6#^ex-6-18|Exodus 6:18]]
-- [[Joshua 20]] — 4 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-78|1 Chronicles 6:78]] ↔ [[Joshua 20#^josh-20-8|Joshua 20:8]]
+- [[Numbers 34]] — 7 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
+- [[Joshua 19]] — 6 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 19#^josh-19-1|Joshua 19:1]]
+- [[Nehemiah 11]] — 6 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Nehemiah 11#^neh-11-4|Nehemiah 11:4]]
+- [[Numbers 4]] — 5 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-66|1 Chronicles 6:66]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
 - [[Joshua 15]] — 3 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 15#^josh-15-1|Joshua 15:1]]
-- [[1 Chronicles 9]] — 4 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]] ↔ [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]]
+- [[Joshua 20]] — 2 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-78|1 Chronicles 6:78]] ↔ [[Joshua 20#^josh-20-8|Joshua 20:8]]
+- [[1 Chronicles 9]] — 3 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]] ↔ [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]]
+- [[Joshua 18]] — 2 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
+- [[Numbers 3]] — 2 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
+- [[Numbers 16]] — 1 parallel verse, e.g. [[1 Chronicles 6#^1chr-6-38|1 Chronicles 6:38]] ↔ [[Numbers 16#^num-16-1|Numbers 16:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

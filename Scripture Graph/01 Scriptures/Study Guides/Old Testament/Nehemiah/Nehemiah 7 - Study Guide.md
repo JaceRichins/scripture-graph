@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 7
 slug: neh-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,17 +44,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezra 2]] — 59 parallel verses, e.g. [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]] ↔ [[Ezra 2#^ezra-2-1|Ezra 2:1]]
-- [[Nehemiah 11]] — 3 parallel verses, e.g. [[Nehemiah 7#^neh-7-60|Nehemiah 7:60]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
-- [[Ezra 7]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-73|Nehemiah 7:73]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
+- [[Ezra 2]] — 49 parallel verses, e.g. [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]] ↔ [[Ezra 2#^ezra-2-1|Ezra 2:1]]
+- [[Nehemiah 11]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-60|Nehemiah 7:60]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-1|Nehemiah 7:1]] ↔ [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]]
-- [[Ezra 3]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-73|Nehemiah 7:73]] ↔ [[Ezra 3#^ezra-3-1|Ezra 3:1]]
-- [[Ezra 8]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]] ↔ [[Ezra 8#^ezra-8-35|Ezra 8:35]]
 - [[Esther 2]] — 1 parallel verse, e.g. [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]] ↔ [[Esther 2#^esth-2-6|Esther 2:6]]
-- [[1 Nephi 17]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-73|Nehemiah 7:73]] ↔ [[1 Nephi 17#^1ne-17-25|1 Nephi 17:25]]
-- [[2 Chronicles 19]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-70|Nehemiah 7:70]] ↔ [[2 Chronicles 19#^2chr-19-8|2 Chronicles 19:8]]
-- [[2 Chronicles 26]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-70|Nehemiah 7:70]] ↔ [[2 Chronicles 26#^2chr-26-12|2 Chronicles 26:12]]
-- [[Ezra 4]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-70|Nehemiah 7:70]] ↔ [[Ezra 4#^ezra-4-3|Ezra 4:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

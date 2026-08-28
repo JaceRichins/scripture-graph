@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

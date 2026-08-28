@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

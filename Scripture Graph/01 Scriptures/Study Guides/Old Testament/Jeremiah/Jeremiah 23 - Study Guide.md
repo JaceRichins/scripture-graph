@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 23
 slug: jer-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,17 +42,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 31]] — 6 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
-- [[Jeremiah 30]] — 4 parallel verses, e.g. [[Jeremiah 23#^jer-23-20|Jeremiah 23:20]] ↔ [[Jeremiah 30#^jer-30-24|Jeremiah 30:24]]
-- [[Jeremiah 16]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
+- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-20|Jeremiah 23:20]] ↔ [[Jeremiah 30#^jer-30-24|Jeremiah 30:24]]
 - [[Jeremiah 33]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
 - [[Jeremiah 48]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
+- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
-- [[Jeremiah 27]] — 5 parallel verses, e.g. [[Jeremiah 23#^jer-23-16|Jeremiah 23:16]] ↔ [[Jeremiah 27#^jer-27-14|Jeremiah 27:14]]
-- [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
 - [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
+- [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
 - [[Jeremiah 7]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
 - [[Jeremiah 19]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 - [[Amos 9]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
+- [[Amos 8]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Amos 8#^amos-8-11|Amos 8:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

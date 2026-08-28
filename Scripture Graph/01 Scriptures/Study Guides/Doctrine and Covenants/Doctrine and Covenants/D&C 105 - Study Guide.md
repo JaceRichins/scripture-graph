@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 105
 slug: dc-105
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 2 mentions
+- [[Joseph Smith Jr]] — 2 mentions
 - [[Joseph (of Egypt)]] — 1 mention
 - [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
@@ -39,18 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 103]] — 6 parallel verses, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[D&C 103#^dc-103-26|D&C 103:26]]
-- [[D&C 96]] — 9 parallel verses, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 96#^dc-96-8|D&C 96:8]]
-- [[D&C 124]] — 10 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 124#^dc-124-144|D&C 124:144]]
-- [[D&C 100]] — 7 parallel verses, e.g. [[D&C 105#^dc-105-41|D&C 105:41]] ↔ [[D&C 100#^dc-100-12|D&C 100:12]]
-- [[D&C 98]] — 9 parallel verses, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[D&C 98#^dc-98-28|D&C 98:28]]
-- [[D&C 104]] — 8 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
-- [[D&C 90]] — 5 parallel verses, e.g. [[D&C 105#^dc-105-40|D&C 105:40]] ↔ [[D&C 90#^dc-90-24|D&C 90:24]]
-- [[D&C 37]] — 5 parallel verses, e.g. [[D&C 105#^dc-105-19|D&C 105:19]] ↔ [[D&C 37#^dc-37-3|D&C 37:3]]
-- [[D&C 73]] — 5 parallel verses, e.g. [[D&C 105#^dc-105-19|D&C 105:19]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
-- [[D&C 44]] — 5 parallel verses, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 44#^dc-44-1|D&C 44:1]]
-- [[D&C 101]] — 6 parallel verses, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 101#^dc-101-96|D&C 101:96]]
-- [[D&C 84]] — 5 parallel verses, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 84#^dc-84-103|D&C 84:103]]
+- [[D&C 103]] — 3 parallel verses, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[D&C 103#^dc-103-26|D&C 103:26]]
+- [[D&C 100]] — 3 parallel verses, e.g. [[D&C 105#^dc-105-41|D&C 105:41]] ↔ [[D&C 100#^dc-100-12|D&C 100:12]]
+- [[D&C 132]] — 2 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 132#^dc-132-51|D&C 132:51]]
+- [[Exodus 20]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Deuteronomy 5]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
+- [[D&C 96]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 96#^dc-96-8|D&C 96:8]]
+- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
+- [[Mosiah 15]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-2|D&C 105:2]] ↔ [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]]
+- [[D&C 90]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-40|D&C 105:40]] ↔ [[D&C 90#^dc-90-24|D&C 90:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

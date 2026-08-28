@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 2
 slug: num-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 1]] — 138 parallel verses, e.g. [[Numbers 2#^num-2-32|Numbers 2:32]] ↔ [[Numbers 1#^num-1-45|Numbers 1:45]]
-- [[Numbers 26]] — 112 parallel verses, e.g. [[Numbers 2#^num-2-15|Numbers 2:15]] ↔ [[Numbers 26#^num-26-41|Numbers 26:41]]
-- [[Numbers 4]] — 64 parallel verses, e.g. [[Numbers 2#^num-2-1|Numbers 2:1]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
-- [[Numbers 3]] — 30 parallel verses, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
-- [[Numbers 10]] — 22 parallel verses, e.g. [[Numbers 2#^num-2-10|Numbers 2:10]] ↔ [[Numbers 10#^num-10-18|Numbers 10:18]]
+- [[Numbers 1]] — 13 parallel verses, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 1#^num-1-54|Numbers 1:54]]
+- [[Numbers 26]] — 12 parallel verses, e.g. [[Numbers 2#^num-2-15|Numbers 2:15]] ↔ [[Numbers 26#^num-26-41|Numbers 26:41]]
+- [[Numbers 10]] — 8 parallel verses, e.g. [[Numbers 2#^num-2-10|Numbers 2:10]] ↔ [[Numbers 10#^num-10-18|Numbers 10:18]]
 - [[Exodus 39]] — 3 parallel verses, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
-- [[Numbers 7]] — 7 parallel verses, e.g. [[Numbers 2#^num-2-10|Numbers 2:10]] ↔ [[Numbers 7#^num-7-30|Numbers 7:30]]
-- [[Exodus 12]] — 3 parallel verses, e.g. [[Numbers 2#^num-2-33|Numbers 2:33]] ↔ [[Exodus 12#^ex-12-50|Exodus 12:50]]
-- [[Exodus 38]] — 2 parallel verses, e.g. [[Numbers 2#^num-2-32|Numbers 2:32]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
+- [[Numbers 4]] — 2 parallel verses, e.g. [[Numbers 2#^num-2-1|Numbers 2:1]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
+- [[Exodus 12]] — 2 parallel verses, e.g. [[Numbers 2#^num-2-33|Numbers 2:33]] ↔ [[Exodus 12#^ex-12-50|Exodus 12:50]]
+- [[Exodus 38]] — 1 parallel verse, e.g. [[Numbers 2#^num-2-32|Numbers 2:32]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
 - [[Numbers 9]] — 1 parallel verse, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
-- [[Numbers 29]] — 1 parallel verse, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 29#^num-29-40|Numbers 29:40]]
-- [[Joshua 11]] — 2 parallel verses, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Joshua 11#^josh-11-15|Joshua 11:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

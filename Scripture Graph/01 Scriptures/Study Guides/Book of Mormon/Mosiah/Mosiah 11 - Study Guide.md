@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 11
 slug: mosiah-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,17 +41,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Mormon 8]] — 4 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Mormon 8#^morm-8-28|Mormon 8:28]]
-- [[Alma 1]] — 5 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Alma 1#^alma-1-29|Alma 1:29]]
 - [[Alma 4]] — 4 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
-- [[Helaman 3]] — 3 parallel verses, e.g. [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]] ↔ [[Helaman 3#^hel-3-37|Helaman 3:37]]
 - [[Alma 6]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 6#^alma-6-3|Alma 6:3]]
-- [[Mosiah 12]] — 4 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Mosiah 12#^mosiah-12-17|Mosiah 12:17]]
+- [[Alma 1]] — 3 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Alma 1#^alma-1-29|Alma 1:29]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Helaman 6#^hel-6-9|Helaman 6:9]]
-- [[Ether 10]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[3 Nephi 16#^3ne-16-10|3 Nephi 16:10]]
-- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]]
-- [[Mormon 3]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-19|Mosiah 11:19]] ↔ [[Mormon 3#^morm-3-9|Mormon 3:9]]
-- [[Mosiah 17]] — 3 parallel verses, e.g. [[Mosiah 11#^mosiah-11-26|Mosiah 11:26]] ↔ [[Mosiah 17#^mosiah-17-1|Mosiah 17:1]]
+- [[Helaman 3]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]] ↔ [[Helaman 3#^hel-3-37|Helaman 3:37]]
+- [[Ether 10]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
+- [[2 Nephi 26]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]]
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 28#^2ne-28-15|2 Nephi 28:15]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 62#^alma-62-49|Alma 62:49]]
+- [[Mosiah 19]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]] ↔ [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

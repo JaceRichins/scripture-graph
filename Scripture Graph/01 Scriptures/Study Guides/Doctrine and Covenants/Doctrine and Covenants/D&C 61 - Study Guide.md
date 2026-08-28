@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 61
 slug: dc-61
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -29,7 +29,7 @@ _Not yet developed._
 <!-- SG:BEGIN people -->
 - [[Sidney Rigdon]] — 5 mentions
 - [[W. W. Phelps]] — 2 mentions
-- [[Joseph Smith Jr.]] — 2 mentions
+- [[Joseph Smith Jr]] — 2 mentions
 - [[Oliver Cowdery]] — 2 mentions
 - [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 15 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 60]] — 11 parallel verses, e.g. [[D&C 61#^dc-61-23|D&C 61:23]] ↔ [[D&C 60#^dc-60-6|D&C 60:6]]
-- [[D&C 75]] — 9 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 75#^dc-75-23|D&C 75:23]]
 - [[Joseph Smith—Matthew 1]] — 5 parallel verses, e.g. [[D&C 61#^dc-61-36|D&C 61:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]]
-- [[D&C 82]] — 6 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 82#^dc-82-5|D&C 82:5]]
-- [[D&C 88]] — 7 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
-- [[D&C 63]] — 8 parallel verses, e.g. [[D&C 61#^dc-61-38|D&C 61:38]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
-- [[D&C 90]] — 7 parallel verses, e.g. [[D&C 61#^dc-61-24|D&C 61:24]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
-- [[D&C 64]] — 6 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 64#^dc-64-1|D&C 64:1]]
-- [[D&C 38]] — 7 parallel verses, e.g. [[D&C 61#^dc-61-1|D&C 61:1]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
-- [[D&C 93]] — 5 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 93#^dc-93-49|D&C 93:49]]
-- [[D&C 104]] — 6 parallel verses, e.g. [[D&C 61#^dc-61-5|D&C 61:5]] ↔ [[D&C 104#^dc-104-5|D&C 104:5]]
+- [[D&C 60]] — 4 parallel verses, e.g. [[D&C 61#^dc-61-23|D&C 61:23]] ↔ [[D&C 60#^dc-60-6|D&C 60:6]]
+- [[D&C 64]] — 4 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 64#^dc-64-1|D&C 64:1]]
+- [[D&C 82]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 82#^dc-82-5|D&C 82:5]]
+- [[D&C 90]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-24|D&C 61:24]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
+- [[D&C 92]] — 2 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 92#^dc-92-1|D&C 92:1]]
+- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 93#^dc-93-49|D&C 93:49]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-1|D&C 61:1]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
+- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 75#^dc-75-23|D&C 75:23]]
+- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
+- [[Matthew 24]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-38|D&C 61:38]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
+- [[D&C 130]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-38|D&C 61:38]] ↔ [[D&C 130#^dc-130-12|D&C 130:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

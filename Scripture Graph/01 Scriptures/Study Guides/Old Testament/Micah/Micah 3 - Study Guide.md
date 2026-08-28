@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 3
 slug: micah-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[Micah 3#^micah-3-12|Micah 3:12]] ↔ [[Jeremiah 26#^jer-26-18|Jeremiah 26:18]]
-- [[Jeremiah 14]] — 1 parallel verse, e.g. [[Micah 3#^micah-3-5|Micah 3:5]] ↔ [[Jeremiah 14#^jer-14-15|Jeremiah 14:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

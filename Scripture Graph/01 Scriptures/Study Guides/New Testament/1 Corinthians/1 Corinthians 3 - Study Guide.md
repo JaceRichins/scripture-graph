@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,8 +40,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 76]] — 2 parallel verses, e.g. [[1 Corinthians 3#^1cor-3-22|1 Corinthians 3:22]] ↔ [[D&C 76#^dc-76-59|D&C 76:59]]
-- [[1 Corinthians 1]] — 2 parallel verses, e.g. [[1 Corinthians 3#^1cor-3-10|1 Corinthians 3:10]] ↔ [[1 Corinthians 1#^1cor-1-4|1 Corinthians 1:4]]
-- [[Job 5]] — 1 parallel verse, e.g. [[1 Corinthians 3#^1cor-3-19|1 Corinthians 3:19]] ↔ [[Job 5#^job-5-13|Job 5:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

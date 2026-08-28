@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 1
 slug: dan-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,7 +43,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Chronicles 36]] — 2 parallel verses, e.g. [[Daniel 1#^dan-1-2|Daniel 1:2]] ↔ [[2 Chronicles 36#^2chr-36-7|2 Chronicles 36:7]]
-- [[Ezra 5]] — 2 parallel verses, e.g. [[Daniel 1#^dan-1-2|Daniel 1:2]] ↔ [[Ezra 5#^ezra-5-14|Ezra 5:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

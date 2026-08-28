@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 22
 slug: prov-22
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 22#^prov-22-3|Proverbs 22:3]] ↔ [[Proverbs 27#^prov-27-12|Proverbs 27:12]]
-- [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 22#^prov-22-13|Proverbs 22:13]] ↔ [[Proverbs 26#^prov-26-13|Proverbs 26:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

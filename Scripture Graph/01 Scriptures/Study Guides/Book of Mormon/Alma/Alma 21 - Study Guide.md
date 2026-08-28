@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 21
 slug: alma-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 17]] — 5 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
-- [[Alma 9]] — 7 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 9#^alma-9-1|Alma 9:1]]
-- [[Alma 23]] — 6 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 23#^alma-23-9|Alma 23:9]]
-- [[Alma 24]] — 4 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
-- [[Alma 25]] — 4 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 25#^alma-25-2|Alma 25:2]]
-- [[Mosiah 18]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-9|Alma 21:9]] ↔ [[Mosiah 18#^mosiah-18-2|Mosiah 18:2]]
-- [[Mosiah 7]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
-- [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]]
-- [[Helaman 15]] — 4 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
-- [[Alma 35]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-12|Alma 21:12]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
+- [[Alma 17]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 50#^alma-50-32|Alma 50:32]]
+- [[Alma 24]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
+- [[Alma 35]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-12|Alma 21:12]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
+- [[Alma 11]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-7|Alma 21:7]] ↔ [[Alma 11#^alma-11-35|Alma 11:35]]
+- [[Alma 20]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-13|Alma 21:13]] ↔ [[Alma 20#^alma-20-30|Alma 20:30]]
+- [[Mosiah 24]] — 1 parallel verse, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
+- [[Mosiah 18]] — 1 parallel verse, e.g. [[Alma 21#^alma-21-9|Alma 21:9]] ↔ [[Mosiah 18#^mosiah-18-2|Mosiah 18:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 5
 slug: 1kgs-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,11 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 22]] — 3 parallel verses, e.g. [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]] ↔ [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]]
-- [[1 Kings 9]] — 2 parallel verses, e.g. [[1 Kings 5#^1kgs-5-16|1 Kings 5:16]] ↔ [[1 Kings 9#^1kgs-9-23|1 Kings 9:23]]
-- [[2 Chronicles 2]] — 2 parallel verses, e.g. [[1 Kings 5#^1kgs-5-6|1 Kings 5:6]] ↔ [[2 Chronicles 2#^2chr-2-8|2 Chronicles 2:8]]
-- [[Daniel 6]] — 2 parallel verses, e.g. [[1 Kings 5#^1kgs-5-17|1 Kings 5:17]] ↔ [[Daniel 6#^dan-6-24|Daniel 6:24]]
-- [[2 Chronicles 26]] — 1 parallel verse, e.g. [[1 Kings 5#^1kgs-5-1|1 Kings 5:1]] ↔ [[2 Chronicles 26#^2chr-26-1|2 Chronicles 26:1]]
+- [[1 Chronicles 22]] — 2 parallel verses, e.g. [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]] ↔ [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

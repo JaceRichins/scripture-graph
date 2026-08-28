@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 28
 slug: jer-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 27]] — 15 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]]
+- [[Jeremiah 27]] — 14 parallel verses, e.g. [[Jeremiah 28#^jer-28-4|Jeremiah 28:4]] ↔ [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]]
 - [[Jeremiah 29]] — 9 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]]
-- [[Jeremiah 44]] — 9 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
-- [[Jeremiah 35]] — 8 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
-- [[Jeremiah 32]] — 7 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 32#^jer-32-14|Jeremiah 32:14]]
-- [[Jeremiah 7]] — 5 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
-- [[Jeremiah 42]] — 5 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
-- [[Jeremiah 19]] — 5 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
-- [[Jeremiah 51]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 51#^jer-51-33|Jeremiah 51:33]]
+- [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
+- [[Jeremiah 32]] — 6 parallel verses, e.g. [[Jeremiah 28#^jer-28-16|Jeremiah 28:16]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[Jeremiah 35]] — 6 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 51]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-16|Jeremiah 28:16]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
+- [[Jeremiah 7]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
+- [[Jeremiah 42]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
+- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
 - [[Jeremiah 39]] — 3 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]]
-- [[Jeremiah 36]] — 4 parallel verses, e.g. [[Jeremiah 28#^jer-28-7|Jeremiah 28:7]] ↔ [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]]
-- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]]
+- [[Jeremiah 49]] — 1 parallel verse, e.g. [[Jeremiah 28#^jer-28-1|Jeremiah 28:1]] ↔ [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]]
+- [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 28#^jer-28-7|Jeremiah 28:7]] ↔ [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 21
 slug: 2sam-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,9 +42,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Chronicles 20]] — 5 parallel verses, e.g. [[2 Samuel 21#^2sam-21-22|2 Samuel 21:22]] ↔ [[1 Chronicles 20#^1chr-20-8|1 Chronicles 20:8]]
 - [[2 Samuel 9]] — 1 parallel verse, e.g. [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]] ↔ [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]]
-- [[2 Samuel 10]] — 2 parallel verses, e.g. [[2 Samuel 21#^2sam-21-18|2 Samuel 21:18]] ↔ [[2 Samuel 10#^2sam-10-1|2 Samuel 10:1]]
-- [[Ruth 1]] — 2 parallel verses, e.g. [[2 Samuel 21#^2sam-21-1|2 Samuel 21:1]] ↔ [[Ruth 1#^ruth-1-1|Ruth 1:1]]
-- [[Judges 2]] — 1 parallel verse, e.g. [[2 Samuel 21#^2sam-21-9|2 Samuel 21:9]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

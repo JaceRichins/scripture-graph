@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 11 parallel verses, e.g. [[Alma 53#^alma-53-6|Alma 53:6]] ↔ [[Alma 62#^alma-62-30|Alma 62:30]]
-- [[Alma 52]] — 8 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Helaman 6]] — 5 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 6#^hel-6-41|Helaman 6:41]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 57]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 57#^alma-57-5|Alma 57:5]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Alma 30]] — 4 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Helaman 11]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Helaman 16]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
-- [[Alma 51]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
-- [[Alma 55]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 55#^alma-55-35|Alma 55:35]]
+- [[Alma 57]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 57#^alma-57-5|Alma 57:5]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-6|Alma 53:6]] ↔ [[Alma 62#^alma-62-30|Alma 62:30]]
+- [[Helaman 6]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-10|Alma 53:10]] ↔ [[Helaman 6#^hel-6-4|Helaman 6:4]]
+- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-8|Alma 53:8]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 10
 slug: 1ne-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,17 +42,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Moroni 10]] — 7 parallel verses, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[Moroni 10#^moro-10-19|Moroni 10:19]]
-- [[2 Nephi 4]] — 6 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]]
-- [[1 Nephi 8]] — 5 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
-- [[1 Nephi 14]] — 6 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
-- [[Ether 1]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
-- [[Alma 7]] — 5 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
 - [[3 Nephi 21]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
-- [[1 Nephi 22]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]]
 - [[Moroni 6]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[2 Nephi 4]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]]
 - [[John 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[John 1#^john-1-27|John 1:27]]
-- [[Mosiah 4]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
-- [[1 Nephi 13]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]]
+- [[1 Nephi 8]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
+- [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
+- [[D&C 33]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
+- [[D&C 133]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
+- [[1 Nephi 14]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[Alma 7]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

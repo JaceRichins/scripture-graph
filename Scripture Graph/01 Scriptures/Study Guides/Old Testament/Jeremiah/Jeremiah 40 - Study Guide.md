@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 40
 slug: jer-40
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,14 +42,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 41]] — 29 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
-- [[2 Kings 25]] — 15 parallel verses, e.g. [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]] ↔ [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]]
-- [[Jeremiah 43]] — 10 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
-- [[Jeremiah 39]] — 8 parallel verses, e.g. [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]] ↔ [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]]
-- [[Jeremiah 52]] — 7 parallel verses, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
-- [[Jeremiah 42]] — 4 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]
-- [[Jeremiah 44]] — 2 parallel verses, e.g. [[Jeremiah 40#^jer-40-3|Jeremiah 40:3]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
-- [[Jeremiah 26]] — 3 parallel verses, e.g. [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]] ↔ [[Jeremiah 26#^jer-26-24|Jeremiah 26:24]]
+- [[2 Kings 25]] — 10 parallel verses, e.g. [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]] ↔ [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]]
+- [[Jeremiah 41]] — 11 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
+- [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
+- [[Jeremiah 39]] — 7 parallel verses, e.g. [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]] ↔ [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]]
+- [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]
+- [[Jeremiah 52]] — 5 parallel verses, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
+- [[Jeremiah 44]] — 1 parallel verse, e.g. [[Jeremiah 40#^jer-40-3|Jeremiah 40:3]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
 - [[Jeremiah 7]] — 1 parallel verse, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 7#^jer-7-1|Jeremiah 7:1]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 11#^jer-11-1|Jeremiah 11:1]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]]

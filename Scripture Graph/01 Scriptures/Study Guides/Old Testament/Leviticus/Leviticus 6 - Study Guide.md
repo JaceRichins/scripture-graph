@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 6
 slug: lev-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 5]] — 11 parallel verses, e.g. [[Leviticus 6#^lev-6-6|Leviticus 6:6]] ↔ [[Leviticus 5#^lev-5-18|Leviticus 5:18]]
-- [[Leviticus 7]] — 17 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 7#^lev-7-30|Leviticus 7:30]]
-- [[Leviticus 4]] — 9 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
-- [[Numbers 15]] — 8 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
+- [[Leviticus 5]] — 10 parallel verses, e.g. [[Leviticus 6#^lev-6-6|Leviticus 6:6]] ↔ [[Leviticus 5#^lev-5-18|Leviticus 5:18]]
+- [[Leviticus 4]] — 7 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
 - [[Leviticus 14]] — 5 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 14#^lev-14-18|Leviticus 14:18]]
-- [[Leviticus 2]] — 9 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]
+- [[Leviticus 7]] — 6 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 7#^lev-7-30|Leviticus 7:30]]
+- [[Numbers 15]] — 4 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 23#^lev-23-41|Leviticus 23:41]]
-- [[Leviticus 10]] — 5 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 10#^lev-10-12|Leviticus 10:12]]
 - [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 6#^lev-6-6|Leviticus 6:6]] ↔ [[Leviticus 19#^lev-19-21|Leviticus 19:21]]
-- [[Numbers 6]] — 6 parallel verses, e.g. [[Leviticus 6#^lev-6-14|Leviticus 6:14]] ↔ [[Numbers 6#^num-6-13|Numbers 6:13]]
+- [[Leviticus 10]] — 4 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 10#^lev-10-12|Leviticus 10:12]]
 - [[Leviticus 24]] — 3 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 24#^lev-24-3|Leviticus 24:3]]
-- [[Numbers 28]] — 5 parallel verses, e.g. [[Leviticus 6#^lev-6-20|Leviticus 6:20]] ↔ [[Numbers 28#^num-28-5|Numbers 28:5]]
+- [[Leviticus 15]] — 2 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
+- [[Leviticus 2]] — 3 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]
+- [[Numbers 18]] — 3 parallel verses, e.g. [[Leviticus 6#^lev-6-18|Leviticus 6:18]] ↔ [[Numbers 18#^num-18-23|Numbers 18:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

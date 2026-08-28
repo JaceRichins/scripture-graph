@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 91
 slug: dc-91
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,11 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 91#^dc-91-3|D&C 91:3]] ↔ [[D&C 61#^dc-61-3|D&C 61:3]]
-- [[D&C 75]] — 3 parallel verses, e.g. [[D&C 91#^dc-91-1|D&C 91:1]] ↔ [[D&C 75#^dc-75-23|D&C 75:23]]
-- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 91#^dc-91-1|D&C 91:1]] ↔ [[D&C 71#^dc-71-9|D&C 71:9]]
-- [[D&C 86]] — 2 parallel verses, e.g. [[D&C 91#^dc-91-1|D&C 91:1]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]
-- [[D&C 124]] — 2 parallel verses, e.g. [[D&C 91#^dc-91-1|D&C 91:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 127]] — 1 parallel verse, e.g. [[D&C 91#^dc-91-1|D&C 91:1]] ↔ [[D&C 127#^dc-127-6|D&C 127:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

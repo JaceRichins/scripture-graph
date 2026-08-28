@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 21
 slug: josh-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 6]] — 125 parallel verses, e.g. [[Joshua 21#^josh-21-6|Joshua 21:6]] ↔ [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]]
-- [[Joshua 19]] — 10 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
-- [[Numbers 34]] — 9 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
+- [[1 Chronicles 6]] — 38 parallel verses, e.g. [[Joshua 21#^josh-21-6|Joshua 21:6]] ↔ [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]]
+- [[Joshua 19]] — 7 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
+- [[Numbers 34]] — 7 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
 - [[Joshua 15]] — 4 parallel verses, e.g. [[Joshua 21#^josh-21-11|Joshua 21:11]] ↔ [[Joshua 15#^josh-15-13|Joshua 15:13]]
 - [[Joshua 14]] — 3 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
-- [[Numbers 36]] — 6 parallel verses, e.g. [[Joshua 21#^josh-21-2|Joshua 21:2]] ↔ [[Numbers 36#^num-36-13|Numbers 36:13]]
-- [[1 Chronicles 27]] — 6 parallel verses, e.g. [[Joshua 21#^josh-21-6|Joshua 21:6]] ↔ [[1 Chronicles 27#^1chr-27-21|1 Chronicles 27:21]]
-- [[1 Chronicles 12]] — 6 parallel verses, e.g. [[Joshua 21#^josh-21-5|Joshua 21:5]] ↔ [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]]
+- [[Numbers 36]] — 3 parallel verses, e.g. [[Joshua 21#^josh-21-2|Joshua 21:2]] ↔ [[Numbers 36#^num-36-13|Numbers 36:13]]
 - [[Numbers 27]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-8|Joshua 21:8]] ↔ [[Numbers 27#^num-27-23|Numbers 27:23]]
-- [[Joshua 20]] — 3 parallel verses, e.g. [[Joshua 21#^josh-21-7|Joshua 21:7]] ↔ [[Joshua 20#^josh-20-8|Joshua 20:8]]
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-2|Joshua 21:2]] ↔ [[Leviticus 8#^lev-8-36|Leviticus 8:36]]
+- [[Joshua 18]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
+- [[Numbers 32]] — 1 parallel verse, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
+- [[Joshua 4]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 4#^josh-4-5|Joshua 4:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

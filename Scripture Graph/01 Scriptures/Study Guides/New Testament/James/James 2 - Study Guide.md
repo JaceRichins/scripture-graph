@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

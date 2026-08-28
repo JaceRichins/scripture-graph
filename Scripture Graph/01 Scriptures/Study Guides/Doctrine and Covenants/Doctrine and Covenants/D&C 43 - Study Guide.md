@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 43
 slug: dc-43
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 - [[Satan]] — 1 mention
 - [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 45]] — 8 parallel verses, e.g. [[D&C 43#^dc-43-20|D&C 43:20]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
-- [[D&C 133]] — 6 parallel verses, e.g. [[D&C 43#^dc-43-20|D&C 43:20]] ↔ [[D&C 133#^dc-133-10|D&C 133:10]]
 - [[3 Nephi 10]] — 3 parallel verses, e.g. [[D&C 43#^dc-43-24|D&C 43:24]] ↔ [[3 Nephi 10#^3ne-10-5|3 Nephi 10:5]]
-- [[D&C 49]] — 6 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 49#^dc-49-1|D&C 49:1]]
-- [[D&C 124]] — 6 parallel verses, e.g. [[D&C 43#^dc-43-13|D&C 43:13]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
-- [[D&C 88]] — 4 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 88#^dc-88-76|D&C 88:76]]
-- [[D&C 128]] — 4 parallel verses, e.g. [[D&C 43#^dc-43-17|D&C 43:17]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
-- [[D&C 29]] — 4 parallel verses, e.g. [[D&C 43#^dc-43-24|D&C 43:24]] ↔ [[D&C 29#^dc-29-2|D&C 29:2]]
-- [[D&C 38]] — 5 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
-- [[Zephaniah 1]] — 4 parallel verses, e.g. [[D&C 43#^dc-43-17|D&C 43:17]] ↔ [[Zephaniah 1#^zeph-1-14|Zephaniah 1:14]]
-- [[D&C 41]] — 3 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
-- [[Alma 5]] — 4 parallel verses, e.g. [[D&C 43#^dc-43-20|D&C 43:20]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[D&C 43#^dc-43-20|D&C 43:20]] ↔ [[D&C 133#^dc-133-10|D&C 133:10]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 43#^dc-43-20|D&C 43:20]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
+- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 88#^dc-88-76|D&C 88:76]]
+- [[D&C 41]] — 2 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
+- [[Matthew 23]] — 1 parallel verse, e.g. [[D&C 43#^dc-43-24|D&C 43:24]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 43#^dc-43-17|D&C 43:17]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
+- [[D&C 18]] — 2 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 18#^dc-18-3|D&C 18:3]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[D&C 43#^dc-43-17|D&C 43:17]] ↔ [[Zephaniah 1#^zeph-1-14|Zephaniah 1:14]]
+- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 43#^dc-43-8|D&C 43:8]] ↔ [[D&C 49#^dc-49-1|D&C 49:1]]
+- [[D&C 50]] — 1 parallel verse, e.g. [[D&C 43#^dc-43-1|D&C 43:1]] ↔ [[D&C 50#^dc-50-1|D&C 50:1]]
+- [[D&C 101]] — 1 parallel verse, e.g. [[D&C 43#^dc-43-32|D&C 43:32]] ↔ [[D&C 101#^dc-101-31|D&C 101:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

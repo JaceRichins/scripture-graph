@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 18
 slug: num-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 7]] — 17 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
-- [[Numbers 3]] — 11 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
-- [[Numbers 8]] — 12 parallel verses, e.g. [[Numbers 18#^num-18-6|Numbers 18:6]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]
-- [[Numbers 15]] — 11 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
-- [[Leviticus 23]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
-- [[Leviticus 10]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 10#^lev-10-9|Leviticus 10:9]]
-- [[Leviticus 22]] — 5 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Leviticus 22#^lev-22-3|Leviticus 22:3]]
-- [[Numbers 1]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 1#^num-1-51|Numbers 1:51]]
-- [[Exodus 30]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Exodus 30#^ex-30-21|Exodus 30:21]]
-- [[Numbers 28]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Numbers 28#^num-28-2|Numbers 28:2]]
-- [[Numbers 4]] — 5 parallel verses, e.g. [[Numbers 18#^num-18-31|Numbers 18:31]] ↔ [[Numbers 4#^num-4-31|Numbers 4:31]]
-- [[Exodus 28]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Exodus 28#^ex-28-38|Exodus 28:38]]
+- [[Numbers 7]] — 15 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
+- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
+- [[Numbers 8]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-6|Numbers 18:6]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]
+- [[Numbers 15]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
+- [[Leviticus 23]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
+- [[Leviticus 10]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 10#^lev-10-9|Leviticus 10:9]]
+- [[Leviticus 22]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Leviticus 22#^lev-22-3|Leviticus 22:3]]
+- [[Numbers 1]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 1#^num-1-51|Numbers 1:51]]
+- [[Leviticus 6]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
+- [[Leviticus 1]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
+- [[Leviticus 2]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
+- [[Exodus 28]] — 2 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Exodus 28#^ex-28-38|Exodus 28:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

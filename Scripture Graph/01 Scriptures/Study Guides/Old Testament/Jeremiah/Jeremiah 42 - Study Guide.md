@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 42
 slug: jer-42
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 44]] — 17 parallel verses, e.g. [[Jeremiah 42#^jer-42-18|Jeremiah 42:18]] ↔ [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]]
-- [[Jeremiah 43]] — 10 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
+- [[Jeremiah 44]] — 12 parallel verses, e.g. [[Jeremiah 42#^jer-42-18|Jeremiah 42:18]] ↔ [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]]
+- [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
 - [[Jeremiah 41]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
-- [[Jeremiah 29]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 27]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]]
-- [[Jeremiah 35]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 29]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 32]] — 7 parallel verses, e.g. [[Jeremiah 42#^jer-42-9|Jeremiah 42:9]] ↔ [[Jeremiah 32#^jer-32-36|Jeremiah 32:36]]
-- [[Jeremiah 38]] — 5 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
-- [[Jeremiah 19]] — 5 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
-- [[Jeremiah 28]] — 5 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
-- [[Jeremiah 40]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
+- [[Jeremiah 38]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
+- [[Jeremiah 35]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 40]] — 3 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
 - [[Jeremiah 7]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
+- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
+- [[Jeremiah 28]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

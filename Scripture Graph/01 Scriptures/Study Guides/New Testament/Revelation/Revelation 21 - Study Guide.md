@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 21
 slug: rev-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,16 +39,14 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Nephi 13]] — 4 parallel verses, e.g. [[Revelation 21#^rev-21-14|Revelation 21:14]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
 - [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 21#^rev-21-9|Revelation 21:9]] ↔ [[Revelation 17#^rev-17-1|Revelation 17:1]]
-- [[Revelation 22]] — 3 parallel verses, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
 - [[D&C 63]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-8|Revelation 21:8]] ↔ [[D&C 63#^dc-63-17|D&C 63:17]]
-- [[Revelation 7]] — 2 parallel verses, e.g. [[Revelation 21#^rev-21-4|Revelation 21:4]] ↔ [[Revelation 7#^rev-7-17|Revelation 7:17]]
-- [[Revelation 1]] — 2 parallel verses, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[Revelation 1#^rev-1-8|Revelation 1:8]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
+- [[Revelation 7]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-4|Revelation 21:4]] ↔ [[Revelation 7#^rev-7-17|Revelation 7:17]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 84]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
-- [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 21#^rev-21-24|Revelation 21:24]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
-- [[D&C 35]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 35#^dc-35-1|D&C 35:1]]
+- [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[Revelation 1#^rev-1-8|Revelation 1:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

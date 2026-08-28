@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 10
 slug: dan-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,8 +42,6 @@ _Not yet developed._
 - [[Haggai 2]] — 3 parallel verses, e.g. [[Daniel 10#^dan-10-4|Daniel 10:4]] ↔ [[Haggai 2#^hag-2-10|Haggai 2:10]]
 - [[Zechariah 5]] — 2 parallel verses, e.g. [[Daniel 10#^dan-10-5|Daniel 10:5]] ↔ [[Zechariah 5#^zech-5-1|Zechariah 5:1]]
 - [[Daniel 8]] — 2 parallel verses, e.g. [[Daniel 10#^dan-10-9|Daniel 10:9]] ↔ [[Daniel 8#^dan-8-18|Daniel 8:18]]
-- [[Haggai 1]] — 1 parallel verse, e.g. [[Daniel 10#^dan-10-4|Daniel 10:4]] ↔ [[Haggai 1#^hag-1-15|Haggai 1:15]]
-- [[Zechariah 6]] — 1 parallel verse, e.g. [[Daniel 10#^dan-10-5|Daniel 10:5]] ↔ [[Zechariah 6#^zech-6-1|Zechariah 6:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

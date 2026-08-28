@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 12
 slug: hel-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,17 +38,11 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Alma 9]] — 4 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[3 Nephi 4]] — 3 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]]
-- [[Alma 42]] — 4 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
-- [[Omni 1]] — 3 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[Omni 1#^omni-1-7|Omni 1:7]]
-- [[Alma 5]] — 3 parallel verses, e.g. [[Helaman 12#^hel-12-4|Helaman 12:4]] ↔ [[Alma 5#^alma-5-53|Alma 5:53]]
-- [[Mosiah 2]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
-- [[Helaman 7]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-4|Helaman 12:4]] ↔ [[Helaman 7#^hel-7-7|Helaman 7:7]]
+- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
-- [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
-- [[Mosiah 3]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-1|Helaman 12:1]] ↔ [[Mosiah 3#^mosiah-3-6|Mosiah 3:6]]
-- [[Helaman 13]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-23|Helaman 12:23]] ↔ [[Helaman 13#^hel-13-11|Helaman 13:11]]
 - [[1 Nephi 8]] — 1 parallel verse, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
+- [[Alma 4]] — 1 parallel verse, e.g. [[Helaman 12#^hel-12-4|Helaman 12:4]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 28
 slug: dc-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -28,7 +28,7 @@ _Not yet developed._
 ## People
 <!-- SG:BEGIN people -->
 - [[Oliver Cowdery]] — 1 mention
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 - [[Moses (prophet)]] — 1 mention
 - [[Aaron (brother of Moses)]] — 1 mention
 - [[Joseph (of Egypt)]] — 1 mention

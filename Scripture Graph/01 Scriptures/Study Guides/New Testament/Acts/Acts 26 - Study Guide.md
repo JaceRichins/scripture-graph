@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,8 +43,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Acts 9]] — 3 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
-- [[Acts 22]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-15|Acts 26:15]] ↔ [[Acts 22#^acts-22-8|Acts 22:8]]
+- [[Acts 9]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

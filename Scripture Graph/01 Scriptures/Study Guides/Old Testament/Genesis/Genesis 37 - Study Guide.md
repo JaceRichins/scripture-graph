@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 37
 slug: gen-37
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

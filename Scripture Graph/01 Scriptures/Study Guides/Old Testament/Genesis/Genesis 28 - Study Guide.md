@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 28
 slug: gen-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 26]] — 6 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Genesis 26#^gen-26-4|Genesis 26:4]]
-- [[Genesis 22]] — 3 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
-- [[Genesis 24]] — 4 parallel verses, e.g. [[Genesis 28#^gen-28-6|Genesis 28:6]] ↔ [[Genesis 24#^gen-24-37|Genesis 24:37]]
-- [[Genesis 13]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-13|Genesis 28:13]] ↔ [[Genesis 13#^gen-13-15|Genesis 13:15]]
+- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
 - [[Abraham 2]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Abraham 2#^abr-2-11|Abraham 2:11]]
-- [[Numbers 11]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-19|Genesis 28:19]] ↔ [[Numbers 11#^num-11-34|Numbers 11:34]]
+- [[Genesis 13]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-13|Genesis 28:13]] ↔ [[Genesis 13#^gen-13-15|Genesis 13:15]]
 - [[Genesis 27]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-1|Genesis 28:1]] ↔ [[Genesis 27#^gen-27-46|Genesis 27:46]]
 - [[D&C 42]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[D&C 42#^dc-42-63|D&C 42:63]]
-- [[Genesis 32]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-19|Genesis 28:19]] ↔ [[Genesis 32#^gen-32-2|Genesis 32:2]]
-- [[Moses 5]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-19|Genesis 28:19]] ↔ [[Moses 5#^moses-5-42|Moses 5:42]]
-- [[Acts 3]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Acts 3#^acts-3-25|Acts 3:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

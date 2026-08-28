@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 15
 slug: mark-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,11 +43,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 27]] — 17 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
-- [[Luke 23]] — 5 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
+- [[Matthew 27]] — 14 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
+- [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
 - [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-40|Mark 15:40]] ↔ [[Mark 16#^mark-16-1|Mark 16:1]]
-- [[John 19]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-17|Mark 15:17]] ↔ [[John 19#^john-19-2|John 19:2]]
 - [[Psalm 22]] — 1 parallel verse, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Psalm 22#^ps-22-1|Psalm 22:1]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 5
 slug: ps-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

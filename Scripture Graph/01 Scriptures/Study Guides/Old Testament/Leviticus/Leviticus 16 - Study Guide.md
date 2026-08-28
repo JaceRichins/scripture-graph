@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 16
 slug: lev-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 4]] — 15 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
-- [[Leviticus 15]] — 22 parallel verses, e.g. [[Leviticus 16#^lev-16-26|Leviticus 16:26]] ↔ [[Leviticus 15#^lev-15-13|Leviticus 15:13]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
-- [[Exodus 29]] — 11 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Exodus 29#^ex-29-12|Exodus 29:12]]
-- [[Leviticus 8]] — 11 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
-- [[Leviticus 9]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-3|Leviticus 16:3]] ↔ [[Leviticus 9#^lev-9-2|Leviticus 9:2]]
-- [[Numbers 29]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Numbers 29#^num-29-1|Numbers 29:1]]
-- [[Leviticus 17]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
-- [[Numbers 19]] — 5 parallel verses, e.g. [[Leviticus 16#^lev-16-28|Leviticus 16:28]] ↔ [[Numbers 19#^num-19-7|Numbers 19:7]]
-- [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
-- [[Leviticus 14]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-7|Leviticus 16:7]] ↔ [[Leviticus 14#^lev-14-11|Leviticus 14:11]]
-- [[Numbers 15]] — 7 parallel verses, e.g. [[Leviticus 16#^lev-16-10|Leviticus 16:10]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
+- [[Leviticus 4]] — 7 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
+- [[Leviticus 9]] — 4 parallel verses, e.g. [[Leviticus 16#^lev-16-3|Leviticus 16:3]] ↔ [[Leviticus 9#^lev-9-2|Leviticus 9:2]]
+- [[Numbers 19]] — 4 parallel verses, e.g. [[Leviticus 16#^lev-16-28|Leviticus 16:28]] ↔ [[Numbers 19#^num-19-7|Numbers 19:7]]
+- [[Numbers 29]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Numbers 29#^num-29-1|Numbers 29:1]]
+- [[Exodus 29]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Exodus 29#^ex-29-12|Exodus 29:12]]
+- [[Leviticus 17]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
+- [[Leviticus 23]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
+- [[Leviticus 8]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
+- [[Ezekiel 45]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]]
+- [[Leviticus 15]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-26|Leviticus 16:26]] ↔ [[Leviticus 15#^lev-15-13|Leviticus 15:13]]
+- [[Leviticus 5]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

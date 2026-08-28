@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 19
 slug: 1sam-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

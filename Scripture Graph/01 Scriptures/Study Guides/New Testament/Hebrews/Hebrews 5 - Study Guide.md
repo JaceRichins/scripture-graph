@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 5
 slug: heb-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,7 +40,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
 - [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
-- [[Hebrews 6]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

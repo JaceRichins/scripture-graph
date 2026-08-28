@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 5
 slug: moses-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,17 +44,12 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Genesis 4]] — 26 parallel verses, e.g. [[Moses 5#^moses-5-47|Moses 5:47]] ↔ [[Genesis 4#^gen-4-23|Genesis 4:23]]
-- [[Moses 6]] — 8 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 6#^moses-6-66|Moses 6:66]]
-- [[Moses 1]] — 5 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 1#^moses-1-24|Moses 1:24]]
-- [[Alma 9]] — 5 parallel verses, e.g. [[Moses 5#^moses-5-7|Moses 5:7]] ↔ [[Alma 9#^alma-9-26|Alma 9:26]]
-- [[Moses 7]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
-- [[Genesis 26]] — 4 parallel verses, e.g. [[Moses 5#^moses-5-42|Moses 5:42]] ↔ [[Genesis 26#^gen-26-20|Genesis 26:20]]
 - [[D&C 20]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-58|Moses 5:58]] ↔ [[D&C 20#^dc-20-26|D&C 20:26]]
-- [[Numbers 11]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-42|Moses 5:42]] ↔ [[Numbers 11#^num-11-3|Numbers 11:3]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-41|Moses 5:41]] ↔ [[Alma 42#^alma-42-7|Alma 42:7]]
-- [[1 Nephi 2]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-41|Moses 5:41]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-41|Moses 5:41]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
-- [[D&C 138]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-41|Moses 5:41]] ↔ [[D&C 138#^dc-138-24|D&C 138:24]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 1#^moses-1-24|Moses 1:24]]
+- [[Genesis 26]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-42|Moses 5:42]] ↔ [[Genesis 26#^gen-26-20|Genesis 26:20]]
+- [[3 Nephi 11]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-32|Moses 5:32]] ↔ [[3 Nephi 11#^3ne-11-3|3 Nephi 11:3]]
+- [[Mosiah 23]] — 1 parallel verse, e.g. [[Moses 5#^moses-5-32|Moses 5:32]] ↔ [[Mosiah 23#^mosiah-23-25|Mosiah 23:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

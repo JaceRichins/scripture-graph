@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 17
 slug: jer-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,16 +39,10 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 17#^jer-17-10|Jeremiah 17:10]] ↔ [[Jeremiah 32#^jer-32-19|Jeremiah 32:19]]
-- [[Jeremiah 22]] — 3 parallel verses, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 22#^jer-22-4|Jeremiah 22:4]]
+- [[Jeremiah 22]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 22#^jer-22-4|Jeremiah 22:4]]
 - [[Amos 2]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]] ↔ [[Amos 2#^amos-2-5|Amos 2:5]]
-- [[Jeremiah 7]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-26|Jeremiah 17:26]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]
 - [[2 Chronicles 34]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]]
 - [[Jeremiah 35]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-20|Jeremiah 17:20]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
-- [[Leviticus 26]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]] ↔ [[Leviticus 26#^lev-26-14|Leviticus 26:14]]
-- [[Jeremiah 21]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-20|Jeremiah 17:20]] ↔ [[Jeremiah 21#^jer-21-11|Jeremiah 21:11]]
-- [[Jeremiah 13]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-20|Jeremiah 17:20]] ↔ [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]]
-- [[Jeremiah 15]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-4|Jeremiah 17:4]] ↔ [[Jeremiah 15#^jer-15-14|Jeremiah 15:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

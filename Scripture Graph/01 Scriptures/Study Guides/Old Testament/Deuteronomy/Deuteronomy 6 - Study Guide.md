@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 6
 slug: deut-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 11]] — 12 parallel verses, e.g. [[Deuteronomy 6#^deut-6-7|Deuteronomy 6:7]] ↔ [[Deuteronomy 11#^deut-11-19|Deuteronomy 11:19]]
-- [[Deuteronomy 30]] — 9 parallel verses, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]]
-- [[Deuteronomy 4]] — 11 parallel verses, e.g. [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]] ↔ [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]]
-- [[Deuteronomy 7]] — 9 parallel verses, e.g. [[Deuteronomy 6#^deut-6-10|Deuteronomy 6:10]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
-- [[Deuteronomy 8]] — 6 parallel verses, e.g. [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
-- [[Deuteronomy 13]] — 4 parallel verses, e.g. [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]] ↔ [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]]
-- [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
-- [[Exodus 13]] — 4 parallel verses, e.g. [[Deuteronomy 6#^deut-6-20|Deuteronomy 6:20]] ↔ [[Exodus 13#^ex-13-14|Exodus 13:14]]
+- [[Deuteronomy 30]] — 5 parallel verses, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]]
+- [[Deuteronomy 11]] — 6 parallel verses, e.g. [[Deuteronomy 6#^deut-6-7|Deuteronomy 6:7]] ↔ [[Deuteronomy 11#^deut-11-19|Deuteronomy 11:19]]
+- [[Deuteronomy 4]] — 7 parallel verses, e.g. [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]] ↔ [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]]
 - [[Mark 12]] — 2 parallel verses, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
-- [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
+- [[Deuteronomy 13]] — 3 parallel verses, e.g. [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]] ↔ [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]]
+- [[Exodus 13]] — 3 parallel verses, e.g. [[Deuteronomy 6#^deut-6-20|Deuteronomy 6:20]] ↔ [[Exodus 13#^ex-13-14|Exodus 13:14]]
+- [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Deuteronomy 26#^deut-26-16|Deuteronomy 26:16]]
-- [[Deuteronomy 12]] — 6 parallel verses, e.g. [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]] ↔ [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]]
+- [[Deuteronomy 22]] — 2 parallel verses, e.g. [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]] ↔ [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]]
+- [[Deuteronomy 7]] — 3 parallel verses, e.g. [[Deuteronomy 6#^deut-6-10|Deuteronomy 6:10]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

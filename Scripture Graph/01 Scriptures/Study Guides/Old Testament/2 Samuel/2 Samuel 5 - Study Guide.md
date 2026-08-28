@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 5
 slug: 2sam-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,7 +41,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Chronicles 14]] — 9 parallel verses, e.g. [[2 Samuel 5#^2sam-5-24|2 Samuel 5:24]] ↔ [[1 Chronicles 14#^1chr-14-15|1 Chronicles 14:15]]
-- [[1 Chronicles 11]] — 4 parallel verses, e.g. [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]] ↔ [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]]
+- [[1 Chronicles 11]] — 3 parallel verses, e.g. [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]] ↔ [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]]
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Samuel 5#^2sam-5-4|2 Samuel 5:4]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[1 Chronicles 3]] — 2 parallel verses, e.g. [[2 Samuel 5#^2sam-5-5|2 Samuel 5:5]] ↔ [[1 Chronicles 3#^1chr-3-4|1 Chronicles 3:4]]
 - [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Samuel 5#^2sam-5-4|2 Samuel 5:4]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]

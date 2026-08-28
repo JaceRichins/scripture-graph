@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 31
 slug: 1sam-31
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,13 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 10]] — 12 parallel verses, e.g. [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]] ↔ [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]]
-- [[Joshua 24]] — 3 parallel verses, e.g. [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]] ↔ [[Joshua 24#^josh-24-15|Joshua 24:15]]
-- [[Judges 9]] — 2 parallel verses, e.g. [[1 Samuel 31#^1sam-31-8|1 Samuel 31:8]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
+- [[1 Chronicles 10]] — 11 parallel verses, e.g. [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]] ↔ [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]] ↔ [[Judges 10#^judg-10-8|Judges 10:8]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[1 Samuel 31#^1sam-31-8|1 Samuel 31:8]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
-- [[John 6]] — 2 parallel verses, e.g. [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]] ↔ [[John 6#^john-6-22|John 6:22]]
-- [[Judges 20]] — 2 parallel verses, e.g. [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]] ↔ [[Judges 20#^judg-20-39|Judges 20:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

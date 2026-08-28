@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 124
 slug: dc-124
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -31,7 +31,7 @@ _Not yet developed._
 - [[Hyrum Smith]] — 9 mentions
 - [[David (king)]] — 4 mentions
 - [[Samuel (prophet)]] — 4 mentions
-- [[Joseph Smith Jr.]] — 3 mentions
+- [[Joseph Smith Jr]] — 3 mentions
 - [[Sidney Rigdon]] — 3 mentions
 - [[Edward Partridge]] — 2 mentions
 - [[Abraham (patriarch)]] — 2 mentions
@@ -54,18 +54,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 52]] — 67 parallel verses, e.g. [[D&C 124#^dc-124-62|D&C 124:62]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
-- [[D&C 88]] — 55 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
-- [[D&C 132]] — 47 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
-- [[D&C 57]] — 35 parallel verses, e.g. [[D&C 124#^dc-124-91|D&C 124:91]] ↔ [[D&C 57#^dc-57-11|D&C 57:11]]
-- [[D&C 46]] — 43 parallel verses, e.g. [[D&C 124#^dc-124-55|D&C 124:55]] ↔ [[D&C 46#^dc-46-10|D&C 46:10]]
-- [[D&C 90]] — 31 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
-- [[D&C 117]] — 25 parallel verses, e.g. [[D&C 124#^dc-124-59|D&C 124:59]] ↔ [[D&C 117#^dc-117-12|D&C 117:12]]
-- [[D&C 75]] — 30 parallel verses, e.g. [[D&C 124#^dc-124-18|D&C 124:18]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
-- [[D&C 98]] — 28 parallel verses, e.g. [[D&C 124#^dc-124-120|D&C 124:120]] ↔ [[D&C 98#^dc-98-7|D&C 98:7]]
-- [[D&C 94]] — 28 parallel verses, e.g. [[D&C 124#^dc-124-20|D&C 124:20]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
-- [[D&C 106]] — 27 parallel verses, e.g. [[D&C 124#^dc-124-18|D&C 124:18]] ↔ [[D&C 106#^dc-106-1|D&C 106:1]]
-- [[D&C 49]] — 26 parallel verses, e.g. [[D&C 124#^dc-124-12|D&C 124:12]] ↔ [[D&C 49#^dc-49-15|D&C 49:15]]
+- [[D&C 52]] — 15 parallel verses, e.g. [[D&C 124#^dc-124-62|D&C 124:62]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
+- [[D&C 57]] — 14 parallel verses, e.g. [[D&C 124#^dc-124-91|D&C 124:91]] ↔ [[D&C 57#^dc-57-11|D&C 57:11]]
+- [[D&C 128]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
+- [[D&C 97]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-13|D&C 124:13]] ↔ [[D&C 97#^dc-97-5|D&C 97:5]]
+- [[3 Nephi 12]] — 6 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]
+- [[3 Nephi 21]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-4|D&C 124:4]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
+- [[D&C 38]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
+- [[D&C 82]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 82#^dc-82-8|D&C 82:8]]
+- [[D&C 132]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
+- [[D&C 117]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-59|D&C 124:59]] ↔ [[D&C 117#^dc-117-12|D&C 117:12]]
+- [[D&C 42]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-106|D&C 124:106]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
+- [[Matthew 18]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 3
 slug: 1kgs-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,16 +41,13 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
-- [[1 Kings 8]] — 4 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[1 Samuel 4]] — 3 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[Joshua 4]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
+- [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
-- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]]
-- [[1 Kings 11]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-14|1 Kings 3:14]] ↔ [[1 Kings 11#^1kgs-11-38|1 Kings 11:38]]
-- [[Joshua 6]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
-- [[1 Kings 6]] — 2 parallel verses, e.g. [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]] ↔ [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]]
+- [[1 Kings 11]] — 1 parallel verse, e.g. [[1 Kings 3#^1kgs-3-14|1 Kings 3:14]] ↔ [[1 Kings 11#^1kgs-11-38|1 Kings 11:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

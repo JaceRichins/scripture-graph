@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 2
 slug: hab-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,8 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[Isaiah 11#^isa-11-9|Isaiah 11:9]]
-- [[D&C 84]] — 2 parallel verses, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[D&C 84#^dc-84-98|D&C 84:98]]
 - [[2 Nephi 21]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]]
-- [[Numbers 14]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[Numbers 14#^num-14-21|Numbers 14:21]]
-- [[Haggai 1]] — 2 parallel verses, e.g. [[Habakkuk 2#^hab-2-8|Habakkuk 2:8]] ↔ [[Haggai 1#^hag-1-12|Haggai 1:12]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[Mosiah 4#^mosiah-4-11|Mosiah 4:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

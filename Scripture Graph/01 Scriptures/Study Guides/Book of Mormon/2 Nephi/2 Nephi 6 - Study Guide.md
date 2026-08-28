@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 6
 slug: 2ne-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,16 +41,16 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 49]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[1 Nephi 21]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
-- [[1 Nephi 22]] — 9 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
-- [[1 Nephi 19]] — 8 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
-- [[Isaiah 60]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
-- [[1 Nephi 15]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-11|2 Nephi 6:11]] ↔ [[1 Nephi 15#^1ne-15-14|1 Nephi 15:14]]
-- [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]]
-- [[Ezekiel 29]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
-- [[Ezekiel 37]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
-- [[Jacob 2]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]] ↔ [[Jacob 2#^jacob-2-1|Jacob 2:1]]
-- [[3 Nephi 1]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]
-- [[2 Nephi 1]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
+- [[1 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
+- [[Isaiah 60]] — 1 parallel verse, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
+- [[Ezekiel 25]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
+- [[Ezekiel 35]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[Ezekiel 23]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 23#^ezek-23-22|Ezekiel 23:22]]
+- [[Ezekiel 29]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[Jacob 2]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]] ↔ [[Jacob 2#^jacob-2-1|Jacob 2:1]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

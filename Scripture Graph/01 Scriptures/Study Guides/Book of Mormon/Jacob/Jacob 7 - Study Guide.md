@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 10]] — 6 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
-- [[Mosiah 27]] — 5 parallel verses, e.g. [[Jacob 7#^jacob-7-3|Jacob 7:3]] ↔ [[Mosiah 27#^mosiah-27-9|Mosiah 27:9]]
-- [[Mosiah 18]] — 5 parallel verses, e.g. [[Jacob 7#^jacob-7-2|Jacob 7:2]] ↔ [[Mosiah 18#^mosiah-18-21|Mosiah 18:21]]
-- [[Moroni 6]] — 4 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
-- [[Helaman 9]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-17|Jacob 7:17]] ↔ [[Helaman 9#^hel-9-10|Helaman 9:10]]
-- [[1 Nephi 10]] — 4 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Moroni 7]] — 4 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
-- [[Moroni 8]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 8#^moro-8-7|Moroni 8:7]]
-- [[3 Nephi 17]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-20|Jacob 7:20]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
-- [[1 Nephi 18]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-17|Jacob 7:17]] ↔ [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]]
-- [[Alma 30]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-2|Jacob 7:2]] ↔ [[Alma 30#^alma-30-12|Alma 30:12]]
-- [[1 Nephi 11]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-13|Jacob 7:13]] ↔ [[1 Nephi 11#^1ne-11-12|1 Nephi 11:12]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
+- [[Helaman 9]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-17|Jacob 7:17]] ↔ [[Helaman 9#^hel-9-10|Helaman 9:10]]
+- [[Alma 17]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-24|Jacob 7:24]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
+- [[Moroni 6]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[Alma 2]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-17|Jacob 7:17]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
+- [[Alma 7]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
+- [[3 Nephi 17]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-20|Jacob 7:20]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
+- [[Enos 1]] — 1 parallel verse, e.g. [[Jacob 7#^jacob-7-27|Jacob 7:27]] ↔ [[Enos 1#^enos-1-26|Enos 1:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

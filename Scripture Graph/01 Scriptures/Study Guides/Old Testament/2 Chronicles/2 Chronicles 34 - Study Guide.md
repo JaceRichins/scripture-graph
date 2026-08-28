@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 34
 slug: 2chr-34
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 22]] — 26 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]] ↔ [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]]
-- [[2 Kings 23]] — 10 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
-- [[2 Kings 12]] — 10 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-14|2 Chronicles 34:14]] ↔ [[2 Kings 12#^2kgs-12-9|2 Kings 12:9]]
-- [[2 Kings 15]] — 8 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
-- [[2 Chronicles 36]] — 7 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 36#^2chr-36-9|2 Chronicles 36:9]]
-- [[2 Kings 24]] — 5 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
-- [[1 Kings 22]] — 6 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
+- [[2 Kings 22]] — 20 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]] ↔ [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
+- [[2 Kings 12]] — 8 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-14|2 Chronicles 34:14]] ↔ [[2 Kings 12#^2kgs-12-9|2 Kings 12:9]]
+- [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 36#^2chr-36-9|2 Chronicles 36:9]]
+- [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[2 Kings 18]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
-- [[2 Chronicles 24]] — 5 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 24#^2chr-24-1|2 Chronicles 24:1]]
+- [[2 Kings 24]] — 3 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
-- [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[1 Kings 15#^1kgs-15-26|1 Kings 15:26]]
-- [[2 Kings 21]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
+- [[1 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[1 Kings 15#^1kgs-15-26|1 Kings 15:26]]
+- [[2 Chronicles 25]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
+- [[2 Chronicles 21]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
+- [[Ether 10]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[Ether 10#^ether-10-16|Ether 10:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

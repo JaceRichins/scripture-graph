@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 1
 slug: morm-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,17 +43,11 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 3]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[D&C 3#^dc-3-17|D&C 3:17]]
-- [[3 Nephi 8]] — 4 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[3 Nephi 8#^3ne-8-20|3 Nephi 8:20]]
-- [[Ether 14]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Ether 14#^ether-14-23|Ether 14:23]]
-- [[1 Nephi 14]] — 4 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[1 Nephi 14#^1ne-14-12|1 Nephi 14:12]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
-- [[3 Nephi 5]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-1|Mormon 1:1]] ↔ [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]]
-- [[Mosiah 1]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-3|Mormon 1:3]] ↔ [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]]
 - [[Mormon 2]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Mormon 2#^morm-2-1|Mormon 2:1]]
-- [[Helaman 11]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-7|Mormon 1:7]] ↔ [[Helaman 11#^hel-11-18|Helaman 11:18]]
-- [[Helaman 16]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Helaman 16#^hel-16-22|Helaman 16:22]]
-- [[4 Nephi 1]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[4 Nephi 1#^4ne-1-2|4 Nephi 1:2]]
-- [[Ether 13]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Ether 13#^ether-13-25|Ether 13:25]]
+- [[3 Nephi 8]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[3 Nephi 8#^3ne-8-20|3 Nephi 8:20]]
+- [[Ether 14]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Ether 14#^ether-14-23|Ether 14:23]]
+- [[3 Nephi 5]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-1|Mormon 1:1]] ↔ [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

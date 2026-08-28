@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 16
 slug: 3ne-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,15 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 20]] — 12 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
 - [[Isaiah 52]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Isaiah 52#^isa-52-8|Isaiah 52:8]]
 - [[Mosiah 12]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Mosiah 12#^mosiah-12-22|Mosiah 12:22]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
-- [[3 Nephi 21]] — 17 parallel verses, e.g. [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
-- [[1 Nephi 22]] — 10 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]]
-- [[1 Nephi 19]] — 9 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]]
+- [[3 Nephi 20]] — 6 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
+- [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
+- [[1 Nephi 19]] — 5 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]]
 - [[Matthew 5]] — 1 parallel verse, e.g. [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
+- [[1 Nephi 22]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]]
 - [[3 Nephi 30]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
 - [[D&C 42]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[D&C 42#^dc-42-39|D&C 42:39]]
 - [[3 Nephi 12]] — 1 parallel verse, e.g. [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]

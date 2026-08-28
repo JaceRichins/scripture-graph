@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 81
 slug: ps-81
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,12 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 132]] — 8 parallel verses, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[D&C 132#^dc-132-2|D&C 132:2]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
 - [[Deuteronomy 13]] — 1 parallel verse, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]]
 - [[Exodus 20]] — 1 parallel verse, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[Exodus 20#^ex-20-2|Exodus 20:2]]
-- [[Mosiah 12]] — 1 parallel verse, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[Mosiah 12#^mosiah-12-34|Mosiah 12:34]]
-- [[Abraham 3]] — 2 parallel verses, e.g. [[Psalm 81#^ps-81-10|Psalm 81:10]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 27
 slug: ex-27
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 38]] — 17 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
-- [[Exodus 25]] — 8 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 25#^ex-25-13|Exodus 25:13]]
-- [[Exodus 26]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 26#^ex-26-36|Exodus 26:36]]
+- [[Exodus 38]] — 16 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
 - [[Exodus 39]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
-- [[Leviticus 24]] — 3 parallel verses, e.g. [[Exodus 27#^ex-27-20|Exodus 27:20]] ↔ [[Leviticus 24#^lev-24-2|Leviticus 24:2]]
+- [[Exodus 25]] — 5 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 25#^ex-25-13|Exodus 25:13]]
+- [[Exodus 26]] — 3 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 26#^ex-26-36|Exodus 26:36]]
+- [[Leviticus 24]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-20|Exodus 27:20]] ↔ [[Leviticus 24#^lev-24-2|Leviticus 24:2]]
 - [[Exodus 28]] — 3 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
 - [[Exodus 36]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-21|Exodus 27:21]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
-- [[Exodus 30]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
+- [[Exodus 30]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
 - [[Exodus 35]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
-- [[Leviticus 6]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-21|Exodus 27:21]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
-- [[Numbers 19]] — 1 parallel verse, e.g. [[Exodus 27#^ex-27-20|Exodus 27:20]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

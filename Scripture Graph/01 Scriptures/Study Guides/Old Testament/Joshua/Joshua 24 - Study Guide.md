@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 24
 slug: josh-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -49,16 +49,16 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Judges 2]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-31|Joshua 24:31]] ↔ [[Judges 2#^judg-2-7|Judges 2:7]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
-- [[John 6]] — 6 parallel verses, e.g. [[Joshua 24#^josh-24-2|Joshua 24:2]] ↔ [[John 6#^john-6-22|John 6:22]]
-- [[Joshua 23]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-1|Joshua 24:1]] ↔ [[Joshua 23#^josh-23-2|Joshua 23:2]]
-- [[Judges 6]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-15|Joshua 24:15]] ↔ [[Judges 6#^judg-6-10|Judges 6:10]]
-- [[Joshua 3]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Joshua 3#^josh-3-10|Joshua 3:10]]
+- [[Joshua 23]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-1|Joshua 24:1]] ↔ [[Joshua 23#^josh-23-2|Joshua 23:2]]
+- [[Judges 6]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-15|Joshua 24:15]] ↔ [[Judges 6#^judg-6-10|Judges 6:10]]
+- [[Exodus 23]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Exodus 23#^ex-23-23|Exodus 23:23]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-29|Joshua 24:29]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
-- [[1 Samuel 31]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-15|Joshua 24:15]] ↔ [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]]
-- [[2 Chronicles 24]] — 4 parallel verses, e.g. [[Joshua 24#^josh-24-30|Joshua 24:30]] ↔ [[2 Chronicles 24#^2chr-24-16|2 Chronicles 24:16]]
-- [[1 Samuel 12]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-14|Joshua 24:14]] ↔ [[1 Samuel 12#^1sam-12-24|1 Samuel 12:24]]
-- [[Numbers 22]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-9|Joshua 24:9]] ↔ [[Numbers 22#^num-22-10|Numbers 22:10]]
-- [[Nehemiah 8]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-26|Joshua 24:26]] ↔ [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]]
+- [[D&C 85]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-26|Joshua 24:26]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
+- [[1 Nephi 4]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-27|Joshua 24:27]] ↔ [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]]
+- [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
+- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]]
+- [[Deuteronomy 8]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
+- [[Deuteronomy 13]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

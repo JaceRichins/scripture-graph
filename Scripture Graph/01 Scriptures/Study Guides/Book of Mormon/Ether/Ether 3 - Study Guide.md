@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 3
 slug: ether-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ether 2]] — 8 parallel verses, e.g. [[Ether 3#^ether-3-21|Ether 3:21]] ↔ [[Ether 2#^ether-2-20|Ether 2:20]]
-- [[Ether 12]] — 4 parallel verses, e.g. [[Ether 3#^ether-3-20|Ether 3:20]] ↔ [[Ether 12#^ether-12-19|Ether 12:19]]
+- [[Ether 2]] — 6 parallel verses, e.g. [[Ether 3#^ether-3-21|Ether 3:21]] ↔ [[Ether 2#^ether-2-20|Ether 2:20]]
 - [[Ether 1]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-1|Ether 3:1]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
-- [[1 Nephi 7]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-28|Ether 3:28]] ↔ [[1 Nephi 7#^1ne-7-2|1 Nephi 7:2]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-14|Ether 3:14]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Moses 7]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-21|Ether 3:21]] ↔ [[Moses 7#^moses-7-9|Moses 7:9]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-14|Ether 3:14]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
-- [[Mormon 9]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-25|Ether 3:25]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
-- [[Mosiah 18]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-14|Ether 3:14]] ↔ [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-14|Ether 3:14]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
+- [[Ether 12]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-20|Ether 3:20]] ↔ [[Ether 12#^ether-12-19|Ether 12:19]]
 - [[3 Nephi 17]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-13|Ether 3:13]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
-- [[3 Nephi 11]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-28|Ether 3:28]] ↔ [[3 Nephi 11#^3ne-11-20|3 Nephi 11:20]]
+- [[Alma 45]] — 1 parallel verse, e.g. [[Ether 3#^ether-3-11|Ether 3:11]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

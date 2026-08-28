@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,14 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Revelation 21]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-1|Revelation 17:1]] ↔ [[Revelation 21#^rev-21-9|Revelation 21:9]]
 - [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-4|Revelation 17:4]] ↔ [[Revelation 18#^rev-18-16|Revelation 18:16]]
-- [[Revelation 13]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-8|Revelation 17:8]] ↔ [[Revelation 13#^rev-13-8|Revelation 13:8]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Revelation 17#^rev-17-8|Revelation 17:8]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[Revelation 17#^rev-17-8|Revelation 17:8]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[1 Nephi 12]] — 3 parallel verses, e.g. [[Revelation 17#^rev-17-7|Revelation 17:7]] ↔ [[1 Nephi 12#^1ne-12-11|1 Nephi 12:11]]
-- [[1 Nephi 13]] — 3 parallel verses, e.g. [[Revelation 17#^rev-17-7|Revelation 17:7]] ↔ [[1 Nephi 13#^1ne-13-2|1 Nephi 13:2]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-8|Revelation 17:8]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[Alma 12]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-8|Revelation 17:8]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
-- [[1 Nephi 11]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-7|Revelation 17:7]] ↔ [[1 Nephi 11#^1ne-11-21|1 Nephi 11:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

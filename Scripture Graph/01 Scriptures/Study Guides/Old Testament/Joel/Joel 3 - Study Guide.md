@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 3
 slug: joel-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 19]] — 7 parallel verses, e.g. [[Joel 3#^joel-3-17|Joel 3:17]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
-- [[Joel 2]] — 4 parallel verses, e.g. [[Joel 3#^joel-3-15|Joel 3:15]] ↔ [[Joel 2#^joel-2-10|Joel 2:10]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
+- [[Joel 2]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-15|Joel 3:15]] ↔ [[Joel 2#^joel-2-10|Joel 2:10]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
-- [[Zephaniah 1]] — 3 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
-- [[Ezekiel 20]] — 4 parallel verses, e.g. [[Joel 3#^joel-3-17|Joel 3:17]] ↔ [[Ezekiel 20#^ezek-20-5|Ezekiel 20:5]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-14|Joel 3:14]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
+- [[Isaiah 22]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-8|Joel 3:8]] ↔ [[Isaiah 22#^isa-22-25|Isaiah 22:25]]
+- [[Jeremiah 50]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-1|Joel 3:1]] ↔ [[Jeremiah 50#^jer-50-4|Jeremiah 50:4]]
+- [[Amos 1]] — 1 parallel verse, e.g. [[Joel 3#^joel-3-16|Joel 3:16]] ↔ [[Amos 1#^amos-1-2|Amos 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

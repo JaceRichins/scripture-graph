@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 29
 slug: prov-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 29#^prov-29-20|Proverbs 29:20]] ↔ [[Proverbs 26#^prov-26-12|Proverbs 26:12]]
-- [[Proverbs 28]] — 1 parallel verse, e.g. [[Proverbs 29#^prov-29-25|Proverbs 29:25]] ↔ [[Proverbs 28#^prov-28-25|Proverbs 28:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

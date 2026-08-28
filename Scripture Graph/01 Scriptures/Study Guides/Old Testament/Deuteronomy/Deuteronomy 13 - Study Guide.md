@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 13
 slug: deut-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 28]] — 10 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]]
-- [[Deuteronomy 6]] — 4 parallel verses, e.g. [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]] ↔ [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]]
-- [[Deuteronomy 5]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
-- [[Deuteronomy 8]] — 5 parallel verses, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
-- [[Deuteronomy 30]] — 5 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 30#^deut-30-8|Deuteronomy 30:8]]
-- [[Joshua 10]] — 6 parallel verses, e.g. [[Deuteronomy 13#^deut-13-15|Deuteronomy 13:15]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
-- [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]
-- [[Deuteronomy 19]] — 4 parallel verses, e.g. [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]] ↔ [[Deuteronomy 19#^deut-19-19|Deuteronomy 19:19]]
+- [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]]
+- [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]] ↔ [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
 - [[Deuteronomy 17]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-9|Deuteronomy 13:9]] ↔ [[Deuteronomy 17#^deut-17-7|Deuteronomy 17:7]]
-- [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-3|Deuteronomy 13:3]] ↔ [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]]
+- [[Deuteronomy 8]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
+- [[Deuteronomy 30]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 30#^deut-30-8|Deuteronomy 30:8]]
+- [[Deuteronomy 19]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]] ↔ [[Deuteronomy 19#^deut-19-19|Deuteronomy 19:19]]
 - [[Deuteronomy 21]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 21#^deut-21-9|Deuteronomy 21:9]]
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]] ↔ [[Jeremiah 25#^jer-25-33|Jeremiah 25:33]]
+- [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-3|Deuteronomy 13:3]] ↔ [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]]
+- [[Deuteronomy 7]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]] ↔ [[Deuteronomy 7#^deut-7-8|Deuteronomy 7:8]]
+- [[Psalm 81]] — 1 parallel verse, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Psalm 81#^ps-81-10|Psalm 81:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 21
 slug: 2ne-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,14 +42,14 @@ _Not yet developed._
 - [[Isaiah 11]] — 18 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[2 Nephi 30]] — 6 parallel verses, e.g. [[2 Nephi 21#^2ne-21-4|2 Nephi 21:4]] ↔ [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
+- [[Isaiah 65]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]] ↔ [[Isaiah 65#^isa-65-25|Isaiah 65:25]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Zechariah 14]] — 3 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
-- [[Isaiah 65]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]] ↔ [[Isaiah 65#^isa-65-25|Isaiah 65:25]]
-- [[Zechariah 13]] — 3 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
+- [[Zechariah 13]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
+- [[Habakkuk 2]] — 1 parallel verse, e.g. [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]] ↔ [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]]
 - [[Isaiah 24]] — 1 parallel verse, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 <!-- SG:END related-scriptures -->
 

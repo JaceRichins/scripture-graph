@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 24
 slug: deut-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 15]] — 5 parallel verses, e.g. [[Deuteronomy 24#^deut-24-22|Deuteronomy 24:22]] ↔ [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]]
-- [[Deuteronomy 16]] — 5 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]]
-- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]
+- [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]]
 - [[2 Kings 14]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-16|Deuteronomy 24:16]] ↔ [[2 Kings 14#^2kgs-14-6|2 Kings 14:6]]
-- [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
-- [[Deuteronomy 25]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
-- [[Deuteronomy 21]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
-- [[Deuteronomy 17]] — 4 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 17#^deut-17-2|Deuteronomy 17:2]]
+- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]]
 - [[Deuteronomy 14]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]] ↔ [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]]
-- [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
-- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
+- [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
+- [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
 - [[Deuteronomy 23]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]] ↔ [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]]
+- [[Deuteronomy 26]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
+- [[Deuteronomy 19]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]
+- [[Deuteronomy 21]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

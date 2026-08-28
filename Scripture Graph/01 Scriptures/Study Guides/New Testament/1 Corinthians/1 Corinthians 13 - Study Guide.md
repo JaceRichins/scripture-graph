@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 13
 slug: 1cor-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 7]] — 4 parallel verses, e.g. [[1 Corinthians 13#^1cor-13-7|1 Corinthians 13:7]] ↔ [[Moroni 7#^moro-7-45|Moroni 7:45]]
+- [[Moroni 7]] — 3 parallel verses, e.g. [[1 Corinthians 13#^1cor-13-7|1 Corinthians 13:7]] ↔ [[Moroni 7#^moro-7-45|Moroni 7:45]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

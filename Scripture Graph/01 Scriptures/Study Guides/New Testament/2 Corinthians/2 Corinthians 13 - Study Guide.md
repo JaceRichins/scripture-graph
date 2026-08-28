@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 13
 slug: 2cor-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 6]] — 1 parallel verse, e.g. [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]] ↔ [[D&C 6#^dc-6-28|D&C 6:28]]
-- [[Matthew 18]] — 1 parallel verse, e.g. [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]] ↔ [[Matthew 18#^matt-18-16|Matthew 18:16]]
-- [[D&C 128]] — 1 parallel verse, e.g. [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]] ↔ [[D&C 128#^dc-128-3|D&C 128:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

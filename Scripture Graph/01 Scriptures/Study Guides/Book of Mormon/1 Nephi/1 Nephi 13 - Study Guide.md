@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 14]] — 36 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
-- [[1 Nephi 12]] — 38 parallel verses, e.g. [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]
-- [[1 Nephi 11]] — 32 parallel verses, e.g. [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]] ↔ [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]]
-- [[Ether 13]] — 10 parallel verses, e.g. [[1 Nephi 13#^1ne-13-38|1 Nephi 13:38]] ↔ [[Ether 13#^ether-13-6|Ether 13:6]]
-- [[1 Nephi 22]] — 5 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
-- [[3 Nephi 29]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
-- [[1 Nephi 16]] — 5 parallel verses, e.g. [[1 Nephi 13#^1ne-13-16|1 Nephi 13:16]] ↔ [[1 Nephi 16#^1ne-16-32|1 Nephi 16:32]]
+- [[1 Nephi 14]] — 18 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[1 Nephi 12]] — 15 parallel verses, e.g. [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]
+- [[1 Nephi 11]] — 12 parallel verses, e.g. [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]] ↔ [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
 - [[Revelation 21]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[Revelation 21#^rev-21-14|Revelation 21:14]]
-- [[1 Nephi 15]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[1 Nephi 15#^1ne-15-13|1 Nephi 15:13]]
-- [[1 Nephi 10]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
 - [[Genesis 16]] — 3 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
 - [[Judges 13]] — 3 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Judges 13#^judg-13-13|Judges 13:13]]
+- [[Mosiah 23]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-19|1 Nephi 13:19]] ↔ [[Mosiah 23#^mosiah-23-13|Mosiah 23:13]]
+- [[3 Nephi 29]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
+- [[Alma 13]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]] ↔ [[Alma 13#^alma-13-29|Alma 13:29]]
+- [[D&C 75]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
+- [[Numbers 22]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

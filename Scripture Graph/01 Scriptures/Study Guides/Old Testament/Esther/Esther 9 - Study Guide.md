@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 9
 slug: esth-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Esther 3]] — 11 parallel verses, e.g. [[Esther 9#^esth-9-13|Esther 9:13]] ↔ [[Esther 3#^esth-3-9|Esther 3:9]]
-- [[Esther 8]] — 7 parallel verses, e.g. [[Esther 9#^esth-9-27|Esther 9:27]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
-- [[Esther 1]] — 3 parallel verses, e.g. [[Esther 9#^esth-9-20|Esther 9:20]] ↔ [[Esther 1#^esth-1-16|Esther 1:16]]
-- [[Exodus 12]] — 4 parallel verses, e.g. [[Esther 9#^esth-9-17|Esther 9:17]] ↔ [[Exodus 12#^ex-12-6|Exodus 12:6]]
+- [[Esther 3]] — 4 parallel verses, e.g. [[Esther 9#^esth-9-13|Esther 9:13]] ↔ [[Esther 3#^esth-3-9|Esther 3:9]]
+- [[Esther 8]] — 4 parallel verses, e.g. [[Esther 9#^esth-9-27|Esther 9:27]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
 - [[Esther 5]] — 1 parallel verse, e.g. [[Esther 9#^esth-9-12|Esther 9:12]] ↔ [[Esther 5#^esth-5-6|Esther 5:6]]
 - [[Esther 2]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-1|Esther 9:1]] ↔ [[Esther 2#^esth-2-8|Esther 2:8]]
-- [[Joshua 5]] — 3 parallel verses, e.g. [[Esther 9#^esth-9-17|Esther 9:17]] ↔ [[Joshua 5#^josh-5-10|Joshua 5:10]]
-- [[Leviticus 23]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-18|Esther 9:18]] ↔ [[Leviticus 23#^lev-23-6|Leviticus 23:6]]
+- [[Esther 1]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-20|Esther 9:20]] ↔ [[Esther 1#^esth-1-16|Esther 1:16]]
 - [[Daniel 3]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-3|Esther 9:3]] ↔ [[Daniel 3#^dan-3-2|Daniel 3:2]]
-- [[Ezekiel 45]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-19|Esther 9:19]] ↔ [[Ezekiel 45#^ezek-45-21|Ezekiel 45:21]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-18|Esther 9:18]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
-- [[Esther 7]] — 2 parallel verses, e.g. [[Esther 9#^esth-9-13|Esther 9:13]] ↔ [[Esther 7#^esth-7-3|Esther 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

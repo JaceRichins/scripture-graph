@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 25
 slug: 2ne-25
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,17 +44,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Nephi 29]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
-- [[Helaman 14]] — 5 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Helaman 14#^hel-14-2|Helaman 14:2]]
-- [[Jacob 6]] — 3 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[Jacob 6#^jacob-6-2|Jacob 6:2]]
-- [[3 Nephi 5]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]]
-- [[Alma 5]] — 5 parallel verses, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
-- [[Jacob 4]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-11|2 Nephi 25:11]] ↔ [[Jacob 4#^jacob-4-15|Jacob 4:15]]
-- [[2 Nephi 6]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]]
-- [[2 Nephi 9]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
-- [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]]
-- [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[1 Nephi 10#^1ne-10-4|1 Nephi 10:4]]
-- [[1 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
+- [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[Jacob 6#^jacob-6-2|Jacob 6:2]]
+- [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[2 Nephi 28#^2ne-28-8|2 Nephi 28:8]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-16|2 Nephi 25:16]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
+- [[Helaman 14]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Helaman 14#^hel-14-2|Helaman 14:2]]
+- [[1 Nephi 10]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[1 Nephi 10#^1ne-10-4|1 Nephi 10:4]]
+- [[3 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]
+- [[D&C 18]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-20|2 Nephi 25:20]] ↔ [[D&C 18#^dc-18-23|D&C 18:23]]
+- [[1 Nephi 14]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
+- [[2 Nephi 27]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
+- [[Jarom 1]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[Jarom 1#^jarom-1-3|Jarom 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

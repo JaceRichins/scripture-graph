@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Luke 22]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Luke 22#^luke-22-19|Luke 22:19]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Mark 14#^mark-14-22|Mark 14:22]]
-- [[Matthew 26]] — 1 parallel verse, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Matthew 26#^matt-26-26|Matthew 26:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

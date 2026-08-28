@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 4
 slug: isa-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Nephi 14]] — 6 parallel verses, e.g. [[Isaiah 4#^isa-4-1|Isaiah 4:1]] ↔ [[2 Nephi 14#^2ne-14-1|2 Nephi 14:1]]
-- [[D&C 42]] — 2 parallel verses, e.g. [[Isaiah 4#^isa-4-3|Isaiah 4:3]] ↔ [[D&C 42#^dc-42-37|D&C 42:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

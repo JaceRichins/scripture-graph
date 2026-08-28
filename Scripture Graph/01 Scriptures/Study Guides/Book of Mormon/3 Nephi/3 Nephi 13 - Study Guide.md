@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 13
 slug: 3ne-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 6]] — 45 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
-- [[Luke 12]] — 9 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
+- [[Matthew 6]] — 43 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
+- [[Luke 12]] — 6 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
 - [[Luke 16]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
-- [[D&C 84]] — 7 parallel verses, e.g. [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
-- [[3 Nephi 18]] — 4 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
+- [[D&C 84]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
+- [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[Luke 11]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-12|3 Nephi 13:12]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
-- [[3 Nephi 12]] — 4 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
-- [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
-- [[3 Nephi 17]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
-- [[3 Nephi 19]] — 4 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 19#^3ne-19-30|3 Nephi 19:30]]
-- [[3 Nephi 27]] — 4 parallel verses, e.g. [[3 Nephi 13#^3ne-13-2|3 Nephi 13:2]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
-- [[3 Nephi 14]] — 2 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
+- [[3 Nephi 12]] — 2 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
+- [[3 Nephi 15]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
+- [[3 Nephi 17]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
+- [[3 Nephi 14]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
+- [[3 Nephi 28]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
+- [[D&C 27]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

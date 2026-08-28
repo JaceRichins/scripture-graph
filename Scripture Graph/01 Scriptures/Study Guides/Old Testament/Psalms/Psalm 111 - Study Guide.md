@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 111
 slug: ps-111
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,9 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Proverbs 9]] — 1 parallel verse, e.g. [[Psalm 111#^ps-111-10|Psalm 111:10]] ↔ [[Proverbs 9#^prov-9-10|Proverbs 9:10]]
 - [[Proverbs 1]] — 1 parallel verse, e.g. [[Psalm 111#^ps-111-10|Psalm 111:10]] ↔ [[Proverbs 1#^prov-1-7|Proverbs 1:7]]
-- [[Psalm 112]] — 2 parallel verses, e.g. [[Psalm 111#^ps-111-3|Psalm 111:3]] ↔ [[Psalm 112#^ps-112-3|Psalm 112:3]]
-- [[Psalm 145]] — 1 parallel verse, e.g. [[Psalm 111#^ps-111-4|Psalm 111:4]] ↔ [[Psalm 145#^ps-145-8|Psalm 145:8]]
-- [[Proverbs 14]] — 2 parallel verses, e.g. [[Psalm 111#^ps-111-10|Psalm 111:10]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

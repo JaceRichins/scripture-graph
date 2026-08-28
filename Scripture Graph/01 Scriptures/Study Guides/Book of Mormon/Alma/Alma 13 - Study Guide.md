@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 13
 slug: alma-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 12]] — 12 parallel verses, e.g. [[Alma 13#^alma-13-3|Alma 13:3]] ↔ [[Alma 12#^alma-12-30|Alma 12:30]]
-- [[Mosiah 4]] — 8 parallel verses, e.g. [[Alma 13#^alma-13-5|Alma 13:5]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
-- [[Ether 4]] — 9 parallel verses, e.g. [[Alma 13#^alma-13-3|Alma 13:3]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[Alma 5]] — 5 parallel verses, e.g. [[Alma 13#^alma-13-13|Alma 13:13]] ↔ [[Alma 5#^alma-5-43|Alma 5:43]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-16|Alma 13:16]] ↔ [[Alma 16#^alma-16-17|Alma 16:17]]
-- [[Alma 34]] — 6 parallel verses, e.g. [[Alma 13#^alma-13-11|Alma 13:11]] ↔ [[Alma 34#^alma-34-36|Alma 34:36]]
-- [[Moses 6]] — 5 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 6#^moses-6-67|Moses 6:67]]
-- [[D&C 128]] — 5 parallel verses, e.g. [[Alma 13#^alma-13-3|Alma 13:3]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
-- [[Mosiah 1]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-31|Alma 13:31]] ↔ [[Mosiah 1#^mosiah-1-8|Mosiah 1:8]]
-- [[Alma 9]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[Alma 9#^alma-9-26|Alma 9:26]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-6|Alma 13:6]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
-- [[D&C 84]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 84#^dc-84-17|D&C 84:17]]
+- [[Alma 5]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
+- [[Alma 16]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-16|Alma 13:16]] ↔ [[Alma 16#^alma-16-17|Alma 16:17]]
+- [[Alma 34]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-11|Alma 13:11]] ↔ [[Alma 34#^alma-34-36|Alma 34:36]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-6|Alma 13:6]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
+- [[D&C 84]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 84#^dc-84-17|D&C 84:17]]
+- [[D&C 78]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 78#^dc-78-16|D&C 78:16]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 1#^moses-1-3|Moses 1:3]]
+- [[Moses 6]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 6#^moses-6-67|Moses 6:67]]
+- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-12|Alma 13:12]] ↔ [[Alma 60#^alma-60-13|Alma 60:13]]
+- [[1 Nephi 13]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-29|Alma 13:29]] ↔ [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]]
+- [[D&C 64]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-24|Alma 13:24]] ↔ [[D&C 64#^dc-64-22|D&C 64:22]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-5|Alma 13:5]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

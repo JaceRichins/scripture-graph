@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 15
 slug: rom-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,14 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Romans 15#^rom-15-6|Romans 15:6]] ↔ [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]]
-- [[Moroni 10]] — 3 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
-- [[Colossians 1]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-6|Romans 15:6]] ↔ [[Colossians 1#^col-1-3|Colossians 1:3]]
-- [[1 Nephi 10]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Jacob 7]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
-- [[Moroni 6]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
-- [[Moroni 7]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[Moroni 7#^moro-7-36|Moroni 7:36]]
-- [[D&C 20]] — 2 parallel verses, e.g. [[Romans 15#^rom-15-13|Romans 15:13]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
+- [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 15#^rom-15-6|Romans 15:6]] ↔ [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

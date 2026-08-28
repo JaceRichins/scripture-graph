@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 36
 slug: ex-36
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,17 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 26]] — 33 parallel verses, e.g. [[Exodus 36#^ex-36-24|Exodus 36:24]] ↔ [[Exodus 26#^ex-26-19|Exodus 26:19]]
-- [[Exodus 39]] — 12 parallel verses, e.g. [[Exodus 36#^ex-36-8|Exodus 36:8]] ↔ [[Exodus 39#^ex-39-29|Exodus 39:29]]
-- [[Exodus 28]] — 6 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
-- [[Exodus 38]] — 5 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
-- [[Exodus 35]] — 7 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
+- [[Exodus 26]] — 25 parallel verses, e.g. [[Exodus 36#^ex-36-24|Exodus 36:24]] ↔ [[Exodus 26#^ex-26-19|Exodus 26:19]]
+- [[Exodus 39]] — 9 parallel verses, e.g. [[Exodus 36#^ex-36-8|Exodus 36:8]] ↔ [[Exodus 39#^ex-39-29|Exodus 39:29]]
+- [[Exodus 38]] — 4 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
+- [[Exodus 28]] — 4 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
+- [[Exodus 35]] — 5 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
 - [[Exodus 37]] — 3 parallel verses, e.g. [[Exodus 36#^ex-36-36|Exodus 36:36]] ↔ [[Exodus 37#^ex-37-4|Exodus 37:4]]
 - [[Exodus 27]] — 2 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 27#^ex-27-16|Exodus 27:16]]
-- [[Exodus 25]] — 3 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 25#^ex-25-4|Exodus 25:4]]
-- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[Exodus 36#^ex-36-3|Exodus 36:3]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
-- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Exodus 36#^ex-36-3|Exodus 36:3]] ↔ [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]]
-- [[1 Chronicles 9]] — 1 parallel verse, e.g. [[Exodus 36#^ex-36-3|Exodus 36:3]] ↔ [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]]
+- [[Exodus 25]] — 2 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 25#^ex-25-4|Exodus 25:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

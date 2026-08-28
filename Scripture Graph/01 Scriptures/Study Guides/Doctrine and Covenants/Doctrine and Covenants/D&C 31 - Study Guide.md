@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -29,7 +29,7 @@ _Not yet developed._
 <!-- SG:BEGIN people -->
 - [[Jesus Christ]] — 2 mentions
 - [[Thomas (apostle)]] — 1 mention
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -39,10 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 84]] — 2 parallel verses, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 84#^dc-84-79|D&C 84:79]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 33#^dc-33-9|D&C 33:9]]
-- [[D&C 36]] — 1 parallel verse, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 36#^dc-36-1|D&C 36:1]]
-- [[D&C 106]] — 1 parallel verse, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 106#^dc-106-3|D&C 106:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

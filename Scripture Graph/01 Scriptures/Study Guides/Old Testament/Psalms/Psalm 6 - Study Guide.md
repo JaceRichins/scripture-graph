@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 6
 slug: ps-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 31]] — 2 parallel verses, e.g. [[Psalm 6#^ps-6-2|Psalm 6:2]] ↔ [[Psalm 31#^ps-31-9|Psalm 31:9]]
 - [[Psalm 38]] — 1 parallel verse, e.g. [[Psalm 6#^ps-6-1|Psalm 6:1]] ↔ [[Psalm 38#^ps-38-1|Psalm 38:1]]
-- [[Luke 13]] — 1 parallel verse, e.g. [[Psalm 6#^ps-6-8|Psalm 6:8]] ↔ [[Luke 13#^luke-13-27|Luke 13:27]]
+- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 6#^ps-6-2|Psalm 6:2]] ↔ [[Psalm 31#^ps-31-9|Psalm 31:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

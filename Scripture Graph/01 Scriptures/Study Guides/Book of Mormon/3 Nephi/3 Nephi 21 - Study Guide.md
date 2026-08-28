@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Micah 5]] — 14 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
-- [[3 Nephi 20]] — 18 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
-- [[3 Nephi 16]] — 17 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]]
-- [[D&C 10]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]] ↔ [[D&C 10#^dc-10-43|D&C 10:43]]
-- [[Isaiah 52]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
+- [[Micah 5]] — 8 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
+- [[3 Nephi 20]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
+- [[3 Nephi 16]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]]
+- [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]] ↔ [[D&C 10#^dc-10-43|D&C 10:43]]
+- [[Isaiah 52]] — 1 parallel verse, e.g. [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
 - [[D&C 124]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[D&C 124#^dc-124-4|D&C 124:4]]
-- [[Moroni 7]] — 5 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
-- [[3 Nephi 29]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
 - [[1 Nephi 10]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[1 Nephi 14]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]] ↔ [[1 Nephi 14#^1ne-14-17|1 Nephi 14:17]]
-- [[3 Nephi 30]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
-- [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]]
+- [[3 Nephi 29]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
+- [[1 Nephi 14]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]] ↔ [[1 Nephi 14#^1ne-14-17|1 Nephi 14:17]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
+- [[3 Nephi 30]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

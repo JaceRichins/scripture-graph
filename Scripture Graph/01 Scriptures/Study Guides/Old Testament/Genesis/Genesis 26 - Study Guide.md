@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 26
 slug: gen-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 20]] — 8 parallel verses, e.g. [[Genesis 26#^gen-26-11|Genesis 26:11]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]
-- [[Genesis 28]] — 6 parallel verses, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]
-- [[Numbers 11]] — 6 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Numbers 11#^num-11-3|Numbers 11:3]]
-- [[Moses 5]] — 4 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Moses 5#^moses-5-42|Moses 5:42]]
-- [[Genesis 12]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-1|Genesis 26:1]] ↔ [[Genesis 12#^gen-12-10|Genesis 12:10]]
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
-- [[Numbers 35]] — 4 parallel verses, e.g. [[Genesis 26#^gen-26-11|Genesis 26:11]] ↔ [[Numbers 35#^num-35-16|Numbers 35:16]]
-- [[Numbers 21]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Numbers 21#^num-21-3|Numbers 21:3]]
-- [[Job 42]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Job 42#^job-42-14|Job 42:14]]
-- [[Judges 6]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-2|Genesis 26:2]] ↔ [[Judges 6#^judg-6-12|Judges 6:12]]
-- [[Exodus 17]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Exodus 17#^ex-17-7|Exodus 17:7]]
-- [[2 Samuel 6]] — 3 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[2 Samuel 6#^2sam-6-8|2 Samuel 6:8]]
+- [[Genesis 12]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-1|Genesis 26:1]] ↔ [[Genesis 12#^gen-12-10|Genesis 12:10]]
+- [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
+- [[Moses 5]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Moses 5#^moses-5-42|Moses 5:42]]
+- [[Genesis 21]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-26|Genesis 26:26]] ↔ [[Genesis 21#^gen-21-22|Genesis 21:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

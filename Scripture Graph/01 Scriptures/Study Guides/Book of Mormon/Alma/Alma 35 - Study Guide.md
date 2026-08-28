@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 35
 slug: alma-35
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 7 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 30]] — 7 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 14]] — 6 parallel verses, e.g. [[Alma 35#^alma-35-6|Alma 35:6]] ↔ [[Alma 14#^alma-14-7|Alma 14:7]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 8]] — 4 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 28]] — 5 parallel verses, e.g. [[Alma 35#^alma-35-13|Alma 35:13]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 47]] — 6 parallel verses, e.g. [[Alma 35#^alma-35-1|Alma 35:1]] ↔ [[Alma 47#^alma-47-29|Alma 47:29]]
-- [[Alma 45]] — 3 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Alma 43]] — 5 parallel verses, e.g. [[Alma 35#^alma-35-13|Alma 35:13]] ↔ [[Alma 43#^alma-43-3|Alma 43:3]]
-- [[Alma 51]] — 3 parallel verses, e.g. [[Alma 35#^alma-35-12|Alma 35:12]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
+- [[Alma 24]] — 1 parallel verse, e.g. [[Alma 35#^alma-35-11|Alma 35:11]] ↔ [[Alma 24#^alma-24-4|Alma 24:4]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Alma 35#^alma-35-13|Alma 35:13]] ↔ [[Alma 43#^alma-43-3|Alma 43:3]]
+- [[Alma 47]] — 2 parallel verses, e.g. [[Alma 35#^alma-35-1|Alma 35:1]] ↔ [[Alma 47#^alma-47-29|Alma 47:29]]
+- [[Alma 21]] — 2 parallel verses, e.g. [[Alma 35#^alma-35-1|Alma 35:1]] ↔ [[Alma 21#^alma-21-12|Alma 21:12]]
+- [[Alma 14]] — 1 parallel verse, e.g. [[Alma 35#^alma-35-6|Alma 35:6]] ↔ [[Alma 14#^alma-14-7|Alma 14:7]]
+- [[Alma 28]] — 1 parallel verse, e.g. [[Alma 35#^alma-35-13|Alma 35:13]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

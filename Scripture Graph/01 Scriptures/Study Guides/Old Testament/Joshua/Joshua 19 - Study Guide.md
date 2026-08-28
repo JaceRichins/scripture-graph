@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 19
 slug: josh-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 34]] — 73 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
-- [[Numbers 10]] — 65 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
-- [[Joshua 15]] — 26 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
-- [[Joshua 18]] — 28 parallel verses, e.g. [[Joshua 19#^josh-19-16|Joshua 19:16]] ↔ [[Joshua 18#^josh-18-28|Joshua 18:28]]
-- [[Joshua 16]] — 12 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
-- [[Joshua 13]] — 19 parallel verses, e.g. [[Joshua 19#^josh-19-23|Joshua 19:23]] ↔ [[Joshua 13#^josh-13-28|Joshua 13:28]]
-- [[Joshua 21]] — 10 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
+- [[Numbers 34]] — 45 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
+- [[Numbers 10]] — 42 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
+- [[Joshua 15]] — 18 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
+- [[Joshua 18]] — 13 parallel verses, e.g. [[Joshua 19#^josh-19-16|Joshua 19:16]] ↔ [[Joshua 18#^josh-18-28|Joshua 18:28]]
+- [[Joshua 16]] — 5 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Joshua 19#^josh-19-47|Joshua 19:47]] ↔ [[Joshua 10#^josh-10-37|Joshua 10:37]]
-- [[Numbers 36]] — 15 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 36#^num-36-9|Numbers 36:9]]
-- [[1 Chronicles 6]] — 9 parallel verses, e.g. [[Joshua 19#^josh-19-1|Joshua 19:1]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
+- [[Joshua 21]] — 7 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
+- [[1 Chronicles 6]] — 6 parallel verses, e.g. [[Joshua 19#^josh-19-1|Joshua 19:1]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
 - [[Joshua 14]] — 1 parallel verse, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
-- [[Numbers 32]] — 2 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
+- [[Joshua 13]] — 4 parallel verses, e.g. [[Joshua 19#^josh-19-23|Joshua 19:23]] ↔ [[Joshua 13#^josh-13-28|Joshua 13:28]]
+- [[Numbers 32]] — 1 parallel verse, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
+- [[Judges 18]] — 2 parallel verses, e.g. [[Joshua 19#^josh-19-47|Joshua 19:47]] ↔ [[Judges 18#^judg-18-29|Judges 18:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

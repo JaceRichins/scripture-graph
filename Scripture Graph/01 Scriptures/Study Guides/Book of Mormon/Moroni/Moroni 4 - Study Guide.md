@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 4
 slug: moro-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,10 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 20]] — 4 parallel verses, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[D&C 20#^dc-20-77|D&C 20:77]]
+- [[D&C 20]] — 3 parallel verses, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[D&C 20#^dc-20-77|D&C 20:77]]
 - [[Moroni 5]] — 1 parallel verse, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
-- [[Mormon 9]] — 3 parallel verses, e.g. [[Moroni 4#^moro-4-2|Moroni 4:2]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
-- [[3 Nephi 19]] — 2 parallel verses, e.g. [[Moroni 4#^moro-4-2|Moroni 4:2]] ↔ [[3 Nephi 19#^3ne-19-8|3 Nephi 19:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

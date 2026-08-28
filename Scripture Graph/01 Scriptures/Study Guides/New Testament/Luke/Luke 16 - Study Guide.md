@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,7 +41,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Matthew 6]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[Matthew 6#^matt-6-24|Matthew 6:24]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]]
-- [[Genesis 15]] — 2 parallel verses, e.g. [[Luke 16#^luke-16-6|Luke 16:6]] ↔ [[Genesis 15#^gen-15-9|Genesis 15:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

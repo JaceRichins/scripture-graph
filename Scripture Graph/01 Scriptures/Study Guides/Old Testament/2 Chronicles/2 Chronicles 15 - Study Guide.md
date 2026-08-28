@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 15
 slug: 2chr-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,17 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 15]] — 3 parallel verses, e.g. [[2 Chronicles 15#^2chr-15-16|2 Chronicles 15:16]] ↔ [[1 Kings 15#^1kgs-15-13|1 Kings 15:13]]
-- [[2 Chronicles 24]] — 3 parallel verses, e.g. [[2 Chronicles 15#^2chr-15-1|2 Chronicles 15:1]] ↔ [[2 Chronicles 24#^2chr-24-20|2 Chronicles 24:20]]
+- [[1 Kings 15]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-16|2 Chronicles 15:16]] ↔ [[1 Kings 15#^1kgs-15-13|1 Kings 15:13]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[2 Chronicles 6#^2chr-6-38|2 Chronicles 6:38]]
 - [[1 Kings 2]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[1 Kings 2#^1kgs-2-4|1 Kings 2:4]]
 - [[1 Kings 8]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[1 Kings 8#^1kgs-8-48|1 Kings 8:48]]
-- [[2 Chronicles 30]] — 2 parallel verses, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[2 Chronicles 30#^2chr-30-7|2 Chronicles 30:7]]
-- [[Joshua 21]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-15|2 Chronicles 15:15]] ↔ [[Joshua 21#^josh-21-44|Joshua 21:44]]
-- [[2 Kings 12]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-17|2 Chronicles 15:17]] ↔ [[2 Kings 12#^2kgs-12-3|2 Kings 12:3]]
-- [[Alma 28]] — 2 parallel verses, e.g. [[2 Chronicles 15#^2chr-15-10|2 Chronicles 15:10]] ↔ [[Alma 28#^alma-28-7|Alma 28:7]]
-- [[2 Chronicles 11]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[2 Chronicles 11#^2chr-11-16|2 Chronicles 11:16]]
-- [[2 Chronicles 14]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[2 Chronicles 14#^2chr-14-4|2 Chronicles 14:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

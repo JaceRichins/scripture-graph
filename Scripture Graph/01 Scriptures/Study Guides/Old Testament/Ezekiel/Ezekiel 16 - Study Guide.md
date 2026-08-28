@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 16
 slug: ezek-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 35]] — 7 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
-- [[Ezekiel 20]] — 6 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
-- [[Ezekiel 17]] — 5 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 17#^ezek-17-16|Ezekiel 17:16]]
-- [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
-- [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 16#^ezek-16-1|Ezekiel 16:1]] ↔ [[Ezekiel 28#^ezek-28-20|Ezekiel 28:20]]
-- [[Ezekiel 22]] — 4 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 22#^ezek-22-16|Ezekiel 22:16]]
-- [[Ezekiel 21]] — 4 parallel verses, e.g. [[Ezekiel 16#^ezek-16-1|Ezekiel 16:1]] ↔ [[Ezekiel 21#^ezek-21-8|Ezekiel 21:8]]
-- [[Ezekiel 25]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
-- [[Ezekiel 33]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 33#^ezek-33-11|Ezekiel 33:11]]
-- [[Ezekiel 30]] — 4 parallel verses, e.g. [[Ezekiel 16#^ezek-16-3|Ezekiel 16:3]] ↔ [[Ezekiel 30#^ezek-30-2|Ezekiel 30:2]]
-- [[Ezekiel 13]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-59|Ezekiel 16:59]] ↔ [[Ezekiel 13#^ezek-13-13|Ezekiel 13:13]]
-- [[Ezekiel 29]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-3|Ezekiel 16:3]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
+- [[Ezekiel 35]] — 5 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
+- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

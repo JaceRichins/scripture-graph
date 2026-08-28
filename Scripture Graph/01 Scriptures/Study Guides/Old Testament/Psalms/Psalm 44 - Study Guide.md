@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 44
 slug: ps-44
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 79]] — 1 parallel verse, e.g. [[Psalm 44#^ps-44-13|Psalm 44:13]] ↔ [[Psalm 79#^ps-79-4|Psalm 79:4]]
-- [[Romans 8]] — 1 parallel verse, e.g. [[Psalm 44#^ps-44-22|Psalm 44:22]] ↔ [[Romans 8#^rom-8-36|Romans 8:36]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

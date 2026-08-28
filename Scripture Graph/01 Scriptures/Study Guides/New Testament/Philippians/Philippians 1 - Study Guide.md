@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 1
 slug: philip-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,6 @@ _Not yet developed._
 - [[Colossians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
 - [[2 Thessalonians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
-- [[Romans 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
-- [[Philemon 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 3
 slug: 2ne-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 9]] — 4 parallel verses, e.g. [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]] ↔ [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]]
-- [[1 Nephi 13]] — 3 parallel verses, e.g. [[2 Nephi 3#^2ne-3-4|2 Nephi 3:4]] ↔ [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]]
-- [[Alma 37]] — 3 parallel verses, e.g. [[2 Nephi 3#^2ne-3-7|2 Nephi 3:7]] ↔ [[Alma 37#^alma-37-9|Alma 37:9]]
-- [[3 Nephi 16]] — 3 parallel verses, e.g. [[2 Nephi 3#^2ne-3-9|2 Nephi 3:9]] ↔ [[3 Nephi 16#^3ne-16-11|3 Nephi 16:11]]
-- [[3 Nephi 21]] — 3 parallel verses, e.g. [[2 Nephi 3#^2ne-3-9|2 Nephi 3:9]] ↔ [[3 Nephi 21#^3ne-21-1|3 Nephi 21:1]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]] ↔ [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]]
-- [[D&C 18]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-24|2 Nephi 3:24]] ↔ [[D&C 18#^dc-18-10|D&C 18:10]]
-- [[2 Nephi 30]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-12|2 Nephi 3:12]] ↔ [[2 Nephi 30#^2ne-30-5|2 Nephi 30:5]]
-- [[2 Nephi 11]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-4|2 Nephi 3:4]] ↔ [[2 Nephi 11#^2ne-11-5|2 Nephi 11:5]]
-- [[2 Nephi 29]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-21|2 Nephi 3:21]] ↔ [[2 Nephi 29#^2ne-29-2|2 Nephi 29:2]]
-- [[2 Nephi 25]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-7|2 Nephi 3:7]] ↔ [[2 Nephi 25#^2ne-25-8|2 Nephi 25:8]]
-- [[Ezekiel 20]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-24|2 Nephi 3:24]] ↔ [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]]
+- [[2 Nephi 9]] — 1 parallel verse, e.g. [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]] ↔ [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

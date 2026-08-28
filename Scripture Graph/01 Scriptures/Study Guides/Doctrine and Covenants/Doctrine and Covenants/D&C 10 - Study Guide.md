@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 10
 slug: dc-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 6]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
-- [[3 Nephi 21]] — 4 parallel verses, e.g. [[D&C 10#^dc-10-43|D&C 10:43]] ↔ [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]]
+- [[D&C 6]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
+- [[3 Nephi 21]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-43|D&C 10:43]] ↔ [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]]
 - [[D&C 11]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 11#^dc-11-28|D&C 11:28]]
-- [[1 Nephi 15]] — 7 parallel verses, e.g. [[D&C 10#^dc-10-47|D&C 10:47]] ↔ [[1 Nephi 15#^1ne-15-24|1 Nephi 15:24]]
 - [[3 Nephi 10]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-65|D&C 10:65]] ↔ [[3 Nephi 10#^3ne-10-6|3 Nephi 10:6]]
-- [[3 Nephi 11]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-69|D&C 10:69]] ↔ [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-58|D&C 10:58]] ↔ [[D&C 39#^dc-39-2|D&C 39:2]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
-- [[D&C 98]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-69|D&C 10:69]] ↔ [[D&C 98#^dc-98-22|D&C 98:22]]
-- [[D&C 29]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-65|D&C 10:65]] ↔ [[D&C 29#^dc-29-2|D&C 29:2]]
-- [[D&C 43]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-65|D&C 10:65]] ↔ [[D&C 43#^dc-43-24|D&C 43:24]]
+- [[1 Nephi 15]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-47|D&C 10:47]] ↔ [[1 Nephi 15#^1ne-15-24|1 Nephi 15:24]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 10#^dc-10-69|D&C 10:69]] ↔ [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]]
 - [[D&C 34]] — 1 parallel verse, e.g. [[D&C 10#^dc-10-58|D&C 10:58]] ↔ [[D&C 34#^dc-34-2|D&C 34:2]]
+- [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
+- [[D&C 52]] — 1 parallel verse, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 52#^dc-52-44|D&C 52:44]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[D&C 10#^dc-10-69|D&C 10:69]] ↔ [[Matthew 16#^matt-16-18|Matthew 16:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

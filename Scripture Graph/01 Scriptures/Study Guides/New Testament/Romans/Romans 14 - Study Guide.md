@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Romans 14#^rom-14-10|Romans 14:10]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
-- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Romans 14#^rom-14-11|Romans 14:11]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
-- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Romans 14#^rom-14-11|Romans 14:11]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
-- [[Ezekiel 35]] — 2 parallel verses, e.g. [[Romans 14#^rom-14-11|Romans 14:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

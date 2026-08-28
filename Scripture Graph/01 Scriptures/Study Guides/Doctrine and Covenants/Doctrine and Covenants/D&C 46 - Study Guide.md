@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 46
 slug: dc-46
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 43 parallel verses, e.g. [[D&C 46#^dc-46-10|D&C 46:10]] ↔ [[D&C 124#^dc-124-55|D&C 124:55]]
-- [[D&C 52]] — 10 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[D&C 52#^dc-52-35|D&C 52:35]]
-- [[D&C 42]] — 10 parallel verses, e.g. [[D&C 46#^dc-46-9|D&C 46:9]] ↔ [[D&C 42#^dc-42-29|D&C 42:29]]
-- [[D&C 38]] — 10 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[D&C 38#^dc-38-25|D&C 38:25]]
-- [[D&C 88]] — 8 parallel verses, e.g. [[D&C 46#^dc-46-10|D&C 46:10]] ↔ [[D&C 88#^dc-88-25|D&C 88:25]]
-- [[3 Nephi 11]] — 7 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[3 Nephi 11#^3ne-11-37|3 Nephi 11:37]]
-- [[D&C 101]] — 8 parallel verses, e.g. [[D&C 46#^dc-46-10|D&C 46:10]] ↔ [[D&C 101#^dc-101-63|D&C 101:63]]
-- [[Alma 5]] — 7 parallel verses, e.g. [[D&C 46#^dc-46-9|D&C 46:9]] ↔ [[Alma 5#^alma-5-46|Alma 5:46]]
-- [[Mosiah 4]] — 6 parallel verses, e.g. [[D&C 46#^dc-46-7|D&C 46:7]] ↔ [[Mosiah 4#^mosiah-4-11|Mosiah 4:11]]
-- [[D&C 132]] — 6 parallel verses, e.g. [[D&C 46#^dc-46-10|D&C 46:10]] ↔ [[D&C 132#^dc-132-18|D&C 132:18]]
-- [[D&C 98]] — 5 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[D&C 98#^dc-98-22|D&C 98:22]]
-- [[D&C 45]] — 4 parallel verses, e.g. [[D&C 46#^dc-46-1|D&C 46:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
+- [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[3 Nephi 11#^3ne-11-37|3 Nephi 11:37]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[D&C 46#^dc-46-1|D&C 46:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
+- [[Mormon 7]] — 1 parallel verse, e.g. [[D&C 46#^dc-46-13|D&C 46:13]] ↔ [[Mormon 7#^morm-7-5|Mormon 7:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

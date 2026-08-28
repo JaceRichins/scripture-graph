@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 7
 slug: luke-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,11 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 11]] — 14 parallel verses, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
-- [[Matthew 8]] — 4 parallel verses, e.g. [[Luke 7#^luke-7-8|Luke 7:8]] ↔ [[Matthew 8#^matt-8-9|Matthew 8:9]]
-- [[Mark 1]] — 2 parallel verses, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Mark 1#^mark-1-2|Mark 1:2]]
-- [[1 Kings 2]] — 1 parallel verse, e.g. [[Luke 7#^luke-7-40|Luke 7:40]] ↔ [[1 Kings 2#^1kgs-2-14|1 Kings 2:14]]
-- [[Luke 11]] — 2 parallel verses, e.g. [[Luke 7#^luke-7-31|Luke 7:31]] ↔ [[Luke 11#^luke-11-31|Luke 11:31]]
+- [[Matthew 11]] — 13 parallel verses, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
+- [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 7#^luke-7-8|Luke 7:8]] ↔ [[Matthew 8#^matt-8-9|Matthew 8:9]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Mark 1#^mark-1-2|Mark 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

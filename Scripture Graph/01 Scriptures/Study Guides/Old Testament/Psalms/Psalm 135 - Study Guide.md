@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 135
 slug: ps-135
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,9 +42,6 @@ _Not yet developed._
 - [[Psalm 115]] — 4 parallel verses, e.g. [[Psalm 135#^ps-135-18|Psalm 135:18]] ↔ [[Psalm 115#^ps-115-8|Psalm 115:8]]
 - [[Jeremiah 10]] — 1 parallel verse, e.g. [[Psalm 135#^ps-135-7|Psalm 135:7]] ↔ [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]]
 - [[Jeremiah 51]] — 1 parallel verse, e.g. [[Psalm 135#^ps-135-7|Psalm 135:7]] ↔ [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]]
-- [[Nehemiah 10]] — 3 parallel verses, e.g. [[Psalm 135#^ps-135-2|Psalm 135:2]] ↔ [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]]
-- [[Nehemiah 13]] — 2 parallel verses, e.g. [[Psalm 135#^ps-135-2|Psalm 135:2]] ↔ [[Nehemiah 13#^neh-13-7|Nehemiah 13:7]]
-- [[Exodus 14]] — 2 parallel verses, e.g. [[Psalm 135#^ps-135-9|Psalm 135:9]] ↔ [[Exodus 14#^ex-14-4|Exodus 14:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

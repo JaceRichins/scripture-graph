@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 1
 slug: heb-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 45]] — 2 parallel verses, e.g. [[Hebrews 1#^heb-1-9|Hebrews 1:9]] ↔ [[Psalm 45#^ps-45-7|Psalm 45:7]]
-- [[Psalm 102]] — 3 parallel verses, e.g. [[Hebrews 1#^heb-1-10|Hebrews 1:10]] ↔ [[Psalm 102#^ps-102-25|Psalm 102:25]]
+- [[Psalm 102]] — 2 parallel verses, e.g. [[Hebrews 1#^heb-1-10|Hebrews 1:10]] ↔ [[Psalm 102#^ps-102-25|Psalm 102:25]]
 - [[Psalm 2]] — 1 parallel verse, e.g. [[Hebrews 1#^heb-1-5|Hebrews 1:5]] ↔ [[Psalm 2#^ps-2-7|Psalm 2:7]]
 - [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 1#^heb-1-13|Hebrews 1:13]] ↔ [[Psalm 110#^ps-110-1|Psalm 110:1]]
 - [[Acts 13]] — 1 parallel verse, e.g. [[Hebrews 1#^heb-1-5|Hebrews 1:5]] ↔ [[Acts 13#^acts-13-33|Acts 13:33]]

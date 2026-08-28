@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 3
 slug: song-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Song of Solomon 2]] — 1 parallel verse, e.g. [[Song of Solomon 3#^song-3-5|Song of Solomon 3:5]] ↔ [[Song of Solomon 2#^song-2-7|Song of Solomon 2:7]]
 - [[Song of Solomon 8]] — 1 parallel verse, e.g. [[Song of Solomon 3#^song-3-5|Song of Solomon 3:5]] ↔ [[Song of Solomon 8#^song-8-4|Song of Solomon 8:4]]
-- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Song of Solomon 3#^song-3-11|Song of Solomon 3:11]] ↔ [[Ezekiel 46#^ezek-46-1|Ezekiel 46:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

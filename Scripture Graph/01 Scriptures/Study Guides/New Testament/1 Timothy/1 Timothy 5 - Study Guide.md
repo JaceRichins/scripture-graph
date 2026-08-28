@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 5
 slug: 2kgs-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,15 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 20]] — 4 parallel verses, e.g. [[2 Kings 5#^2kgs-5-22|2 Kings 5:22]] ↔ [[1 Kings 20#^1kgs-20-35|1 Kings 20:35]]
 - [[2 Kings 8]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-14|2 Kings 5:14]] ↔ [[2 Kings 8#^2kgs-8-2|2 Kings 8:2]]
-- [[1 Kings 18]] — 3 parallel verses, e.g. [[2 Kings 5#^2kgs-5-16|2 Kings 5:16]] ↔ [[1 Kings 18#^1kgs-18-15|1 Kings 18:15]]
-- [[2 Kings 2]] — 3 parallel verses, e.g. [[2 Kings 5#^2kgs-5-22|2 Kings 5:22]] ↔ [[2 Kings 2#^2kgs-2-7|2 Kings 2:7]]
-- [[2 Kings 6]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-7|2 Kings 5:7]] ↔ [[2 Kings 6#^2kgs-6-30|2 Kings 6:30]]
-- [[1 Kings 13]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-14|2 Kings 5:14]] ↔ [[1 Kings 13#^1kgs-13-4|1 Kings 13:4]]
-- [[Nehemiah 3]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-9|2 Kings 5:9]] ↔ [[Nehemiah 3#^neh-3-20|Nehemiah 3:20]]
-- [[2 Samuel 15]] — 1 parallel verse, e.g. [[2 Kings 5#^2kgs-5-19|2 Kings 5:19]] ↔ [[2 Samuel 15#^2sam-15-9|2 Samuel 15:9]]
-- [[2 Kings 4]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-22|2 Kings 5:22]] ↔ [[2 Kings 4#^2kgs-4-1|2 Kings 4:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

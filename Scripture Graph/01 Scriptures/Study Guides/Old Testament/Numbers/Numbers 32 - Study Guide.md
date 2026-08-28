@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 32
 slug: num-32
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 22]] — 39 parallel verses, e.g. [[Numbers 32#^num-32-33|Numbers 32:33]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
-- [[Numbers 1]] — 15 parallel verses, e.g. [[Numbers 32#^num-32-11|Numbers 32:11]] ↔ [[Numbers 1#^num-1-3|Numbers 1:3]]
-- [[Joshua 4]] — 9 parallel verses, e.g. [[Numbers 32#^num-32-1|Numbers 32:1]] ↔ [[Joshua 4#^josh-4-12|Joshua 4:12]]
-- [[Numbers 14]] — 9 parallel verses, e.g. [[Numbers 32#^num-32-12|Numbers 32:12]] ↔ [[Numbers 14#^num-14-30|Numbers 14:30]]
-- [[Joshua 14]] — 4 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
-- [[Joshua 13]] — 5 parallel verses, e.g. [[Numbers 32#^num-32-39|Numbers 32:39]] ↔ [[Joshua 13#^josh-13-31|Joshua 13:31]]
-- [[Joshua 19]] — 2 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
-- [[Deuteronomy 34]] — 3 parallel verses, e.g. [[Numbers 32#^num-32-11|Numbers 32:11]] ↔ [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]]
-- [[Numbers 26]] — 4 parallel verses, e.g. [[Numbers 32#^num-32-12|Numbers 32:12]] ↔ [[Numbers 26#^num-26-65|Numbers 26:65]]
-- [[Numbers 36]] — 4 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Numbers 36#^num-36-9|Numbers 36:9]]
-- [[Numbers 34]] — 2 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
-- [[Exodus 33]] — 3 parallel verses, e.g. [[Numbers 32#^num-32-11|Numbers 32:11]] ↔ [[Exodus 33#^ex-33-1|Exodus 33:1]]
+- [[Joshua 22]] — 26 parallel verses, e.g. [[Numbers 32#^num-32-33|Numbers 32:33]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
+- [[Joshua 4]] — 6 parallel verses, e.g. [[Numbers 32#^num-32-1|Numbers 32:1]] ↔ [[Joshua 4#^josh-4-12|Joshua 4:12]]
+- [[Joshua 14]] — 3 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
+- [[Numbers 14]] — 4 parallel verses, e.g. [[Numbers 32#^num-32-12|Numbers 32:12]] ↔ [[Numbers 14#^num-14-30|Numbers 14:30]]
+- [[Joshua 13]] — 3 parallel verses, e.g. [[Numbers 32#^num-32-39|Numbers 32:39]] ↔ [[Joshua 13#^josh-13-31|Joshua 13:31]]
+- [[Joshua 19]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
+- [[Deuteronomy 34]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-11|Numbers 32:11]] ↔ [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]]
+- [[Joshua 21]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
+- [[Numbers 34]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 12]] — 8 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
 - [[Isaiah 52]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
+- [[Mosiah 12]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
 - [[3 Nephi 20]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
-- [[D&C 128]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
-- [[Alma 5]] — 8 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Alma 5#^alma-5-60|Alma 5:60]]
-- [[Mosiah 13]] — 5 parallel verses, e.g. [[Mosiah 15#^mosiah-15-1|Mosiah 15:1]] ↔ [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]]
-- [[Mosiah 4]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
-- [[Mosiah 3]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
-- [[D&C 45]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
-- [[Alma 37]] — 4 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Alma 37#^alma-37-9|Alma 37:9]]
+- [[D&C 128]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
+- [[Mosiah 13]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]]
+- [[Mosiah 14]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
+- [[1 Nephi 19]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

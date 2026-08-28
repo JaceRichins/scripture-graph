@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Titus 1]] — 2 parallel verses, e.g. [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]] ↔ [[Titus 1#^titus-1-6|Titus 1:6]]
-- [[Ezra 5]] — 2 parallel verses, e.g. [[1 Timothy 3#^1tim-3-15|1 Timothy 3:15]] ↔ [[Ezra 5#^ezra-5-2|Ezra 5:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

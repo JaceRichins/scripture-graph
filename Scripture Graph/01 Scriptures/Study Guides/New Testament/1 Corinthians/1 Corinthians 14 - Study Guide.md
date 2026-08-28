@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

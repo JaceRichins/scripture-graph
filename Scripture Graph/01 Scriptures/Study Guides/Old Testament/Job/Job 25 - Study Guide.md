@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 25
 slug: job-25
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

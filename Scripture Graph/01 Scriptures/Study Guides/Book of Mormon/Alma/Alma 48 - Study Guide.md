@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 46]] — 4 parallel verses, e.g. [[Alma 48#^alma-48-20|Alma 48:20]] ↔ [[Alma 46#^alma-46-38|Alma 46:38]]
-- [[Helaman 3]] — 5 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
+- [[Alma 46]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-20|Alma 48:20]] ↔ [[Alma 46#^alma-46-38|Alma 46:38]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
-- [[Alma 8]] — 4 parallel verses, e.g. [[Alma 48#^alma-48-15|Alma 48:15]] ↔ [[Alma 8#^alma-8-15|Alma 8:15]]
-- [[1 Nephi 22]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
-- [[Alma 53]] — 4 parallel verses, e.g. [[Alma 48#^alma-48-14|Alma 48:14]] ↔ [[Alma 53#^alma-53-16|Alma 53:16]]
-- [[Alma 45]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
-- [[3 Nephi 3]] — 4 parallel verses, e.g. [[Alma 48#^alma-48-2|Alma 48:2]] ↔ [[3 Nephi 3#^3ne-3-22|3 Nephi 3:22]]
-- [[Alma 43]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-10|Alma 48:10]] ↔ [[Alma 43#^alma-43-45|Alma 43:45]]
-- [[1 Nephi 3]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-15|Alma 48:15]] ↔ [[1 Nephi 3#^1ne-3-21|1 Nephi 3:21]]
+- [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[Helaman 6#^hel-6-30|Helaman 6:30]]
-- [[Mosiah 19]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-10|Alma 48:10]] ↔ [[Mosiah 19#^mosiah-19-11|Mosiah 19:11]]
+- [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]]
+- [[Alma 47]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-3|Alma 48:3]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
+- [[Alma 45]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
+- [[1 Nephi 22]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

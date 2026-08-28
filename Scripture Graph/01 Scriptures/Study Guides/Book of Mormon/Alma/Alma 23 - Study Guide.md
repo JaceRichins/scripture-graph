@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 23
 slug: alma-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 24]] — 10 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
-- [[Alma 47]] — 9 parallel verses, e.g. [[Alma 23#^alma-23-1|Alma 23:1]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
 - [[Helaman 5]] — 5 parallel verses, e.g. [[Alma 23#^alma-23-9|Alma 23:9]] ↔ [[Helaman 5#^hel-5-19|Helaman 5:19]]
-- [[Helaman 15]] — 8 parallel verses, e.g. [[Alma 23#^alma-23-6|Alma 23:6]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
-- [[Mosiah 7]] — 7 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
-- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 23#^alma-23-9|Alma 23:9]] ↔ [[Alma 50#^alma-50-9|Alma 50:9]]
-- [[Mosiah 27]] — 6 parallel verses, e.g. [[Alma 23#^alma-23-6|Alma 23:6]] ↔ [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]]
-- [[Alma 21]] — 6 parallel verses, e.g. [[Alma 23#^alma-23-9|Alma 23:9]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]
+- [[Alma 47]] — 5 parallel verses, e.g. [[Alma 23#^alma-23-1|Alma 23:1]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
+- [[Alma 24]] — 4 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
 - [[Alma 3]] — 3 parallel verses, e.g. [[Alma 23#^alma-23-10|Alma 23:10]] ↔ [[Alma 3#^alma-3-12|Alma 3:12]]
-- [[Mosiah 24]] — 3 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
-- [[1 Nephi 17]] — 6 parallel verses, e.g. [[Alma 23#^alma-23-9|Alma 23:9]] ↔ [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]]
-- [[Alma 37]] — 5 parallel verses, e.g. [[Alma 23#^alma-23-15|Alma 23:15]] ↔ [[Alma 37#^alma-37-19|Alma 37:19]]
+- [[Helaman 15]] — 3 parallel verses, e.g. [[Alma 23#^alma-23-6|Alma 23:6]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
+- [[Mosiah 7]] — 2 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
+- [[Mosiah 24]] — 1 parallel verse, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
+- [[Numbers 3]] — 2 parallel verses, e.g. [[Alma 23#^alma-23-13|Alma 23:13]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

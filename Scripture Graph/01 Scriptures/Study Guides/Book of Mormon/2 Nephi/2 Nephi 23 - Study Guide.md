@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 23
 slug: 2ne-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,13 +40,10 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 13]] — 22 parallel verses, e.g. [[2 Nephi 23#^2ne-23-10|2 Nephi 23:10]] ↔ [[Isaiah 13#^isa-13-10|Isaiah 13:10]]
-- [[Haggai 2]] — 3 parallel verses, e.g. [[2 Nephi 23#^2ne-23-13|2 Nephi 23:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
 - [[Jeremiah 50]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-20|2 Nephi 23:20]] ↔ [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]]
+- [[Haggai 2]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-13|2 Nephi 23:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
 - [[Joel 1]] — 1 parallel verse, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
-- [[Joel 2]] — 3 parallel verses, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Joel 2#^joel-2-11|Joel 2:11]]
-- [[Zephaniah 1]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
-- [[Joel 3]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Joel 3#^joel-3-14|Joel 3:14]]
-- [[Zechariah 14]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-9|2 Nephi 23:9]] ↔ [[Zechariah 14#^zech-14-1|Zechariah 14:1]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

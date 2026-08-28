@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 57
 slug: ps-57
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,8 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 108]] — 6 parallel verses, e.g. [[Psalm 57#^ps-57-7|Psalm 57:7]] ↔ [[Psalm 108#^ps-108-1|Psalm 108:1]]
-- [[Psalm 63]] — 1 parallel verse, e.g. [[Psalm 57#^ps-57-1|Psalm 57:1]] ↔ [[Psalm 63#^ps-63-7|Psalm 63:7]]
+- [[Psalm 108]] — 5 parallel verses, e.g. [[Psalm 57#^ps-57-7|Psalm 57:7]] ↔ [[Psalm 108#^ps-108-1|Psalm 108:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

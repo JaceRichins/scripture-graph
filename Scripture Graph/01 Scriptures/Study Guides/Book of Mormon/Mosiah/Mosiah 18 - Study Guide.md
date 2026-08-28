@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 18
 slug: mosiah-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 20]] — 9 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]]
-- [[Mosiah 27]] — 6 parallel verses, e.g. [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]] ↔ [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]]
-- [[Mosiah 4]] — 7 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[Alma 62]] — 6 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 62#^alma-62-28|Alma 62:28]]
-- [[3 Nephi 17]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
-- [[Mosiah 21]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]] ↔ [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]]
-- [[Jacob 7]] — 5 parallel verses, e.g. [[Mosiah 18#^mosiah-18-21|Mosiah 18:21]] ↔ [[Jacob 7#^jacob-7-2|Jacob 7:2]]
-- [[3 Nephi 23]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[3 Nephi 23#^3ne-23-14|3 Nephi 23:14]]
-- [[Alma 21]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-2|Mosiah 18:2]] ↔ [[Alma 21#^alma-21-9|Alma 21:9]]
-- [[Mosiah 13]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[Mosiah 13#^mosiah-13-5|Mosiah 13:5]]
-- [[Alma 52]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 52#^alma-52-11|Alma 52:11]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
+- [[3 Nephi 20]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]]
+- [[Mosiah 27]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]] ↔ [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]]
+- [[Alma 62]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 62#^alma-62-28|Alma 62:28]]
+- [[3 Nephi 17]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
+- [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]] ↔ [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]]
+- [[2 Samuel 2]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[2 Samuel 2#^2sam-2-23|2 Samuel 2:23]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 46#^alma-46-1|Alma 46:1]]
+- [[Ether 6]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[Ether 6#^ether-6-25|Ether 6:25]]
+- [[Alma 21]] — 1 parallel verse, e.g. [[Mosiah 18#^mosiah-18-2|Mosiah 18:2]] ↔ [[Alma 21#^alma-21-9|Alma 21:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

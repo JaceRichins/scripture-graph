@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 18]] — 22 parallel verses, e.g. [[Mark 10#^mark-10-19|Mark 10:19]] ↔ [[Luke 18#^luke-18-20|Luke 18:20]]
-- [[Matthew 19]] — 20 parallel verses, e.g. [[Mark 10#^mark-10-25|Mark 10:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Luke 18]] — 16 parallel verses, e.g. [[Mark 10#^mark-10-19|Mark 10:19]] ↔ [[Luke 18#^luke-18-20|Luke 18:20]]
 - [[Matthew 20]] — 12 parallel verses, e.g. [[Mark 10#^mark-10-33|Mark 10:33]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
-- [[Matthew 17]] — 4 parallel verses, e.g. [[Mark 10#^mark-10-34|Mark 10:34]] ↔ [[Matthew 17#^matt-17-23|Matthew 17:23]]
-- [[Alma 18]] — 3 parallel verses, e.g. [[Mark 10#^mark-10-51|Mark 10:51]] ↔ [[Alma 18#^alma-18-14|Alma 18:14]]
-- [[Mark 14]] — 4 parallel verses, e.g. [[Mark 10#^mark-10-3|Mark 10:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
-- [[Mark 9]] — 4 parallel verses, e.g. [[Mark 10#^mark-10-24|Mark 10:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
-- [[John 3]] — 5 parallel verses, e.g. [[Mark 10#^mark-10-51|Mark 10:51]] ↔ [[John 3#^john-3-3|John 3:3]]
-- [[Mark 11]] — 4 parallel verses, e.g. [[Mark 10#^mark-10-5|Mark 10:5]] ↔ [[Mark 11#^mark-11-29|Mark 11:29]]
+- [[Matthew 19]] — 14 parallel verses, e.g. [[Mark 10#^mark-10-25|Mark 10:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Alma 18]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-51|Mark 10:51]] ↔ [[Alma 18#^alma-18-14|Alma 18:14]]
 - [[Matthew 9]] — 3 parallel verses, e.g. [[Mark 10#^mark-10-52|Mark 10:52]] ↔ [[Matthew 9#^matt-9-22|Matthew 9:22]]
+- [[Matthew 17]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-34|Mark 10:34]] ↔ [[Matthew 17#^matt-17-23|Matthew 17:23]]
 - [[Ephesians 5]] — 1 parallel verse, e.g. [[Mark 10#^mark-10-7|Mark 10:7]] ↔ [[Ephesians 5#^eph-5-31|Ephesians 5:31]]
-- [[Matthew 16]] — 3 parallel verses, e.g. [[Mark 10#^mark-10-51|Mark 10:51]] ↔ [[Matthew 16#^matt-16-17|Matthew 16:17]]
+- [[Mark 14]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-3|Mark 10:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
+- [[Mark 9]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-24|Mark 10:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
+- [[Luke 17]] — 1 parallel verse, e.g. [[Mark 10#^mark-10-52|Mark 10:52]] ↔ [[Luke 17#^luke-17-19|Luke 17:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

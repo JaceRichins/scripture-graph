@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 2
 slug: zeph-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,17 +43,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
-- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
-- [[Jeremiah 44]] — 4 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
-- [[Zephaniah 1]] — 4 parallel verses, e.g. [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
+- [[Jeremiah 35]] — 3 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 44]] — 3 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
+- [[Lamentations 2]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]] ↔ [[Lamentations 2#^lam-2-22|Lamentations 2:22]]
+- [[Ezekiel 35]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
 - [[Jeremiah 7]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 - [[Jeremiah 19]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
 - [[Jeremiah 27]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]]
 - [[Jeremiah 28]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
 - [[Jeremiah 32]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 32#^jer-32-14|Jeremiah 32:14]]
 - [[Jeremiah 42]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
-- [[Lamentations 2]] — 2 parallel verses, e.g. [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]] ↔ [[Lamentations 2#^lam-2-22|Lamentations 2:22]]
-- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

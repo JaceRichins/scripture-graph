@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 114
 slug: ps-114
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

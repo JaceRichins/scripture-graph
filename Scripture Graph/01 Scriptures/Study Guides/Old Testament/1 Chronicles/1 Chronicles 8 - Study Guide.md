@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 8
 slug: 1chr-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,12 +43,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Chronicles 9]] — 8 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-38|1 Chronicles 8:38]] ↔ [[1 Chronicles 9#^1chr-9-44|1 Chronicles 9:44]]
-- [[Exodus 6]] — 2 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Exodus 6#^ex-6-25|Exodus 6:25]]
-- [[Genesis 36]] — 3 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Genesis 36#^gen-36-13|Genesis 36:13]]
-- [[Joshua 14]] — 2 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
-- [[Joshua 19]] — 2 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
-- [[Joshua 21]] — 2 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
-- [[Numbers 26]] — 2 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Numbers 26#^num-26-36|Numbers 26:36]]
+- [[Exodus 6]] — 1 parallel verse, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Exodus 6#^ex-6-25|Exodus 6:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

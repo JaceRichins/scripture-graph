@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,6 @@ _Not yet developed._
 - [[2 Nephi 16]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
 - [[3 Nephi 17]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-29|Acts 28:29]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
-- [[John 12]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[John 12#^john-12-40|John 12:40]]
-- [[Mosiah 18]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-29|Acts 28:29]] ↔ [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

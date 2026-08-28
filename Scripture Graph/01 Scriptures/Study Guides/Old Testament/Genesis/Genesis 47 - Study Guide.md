@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 47
 slug: gen-47
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 33]] — 5 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
-- [[Genesis 41]] — 7 parallel verses, e.g. [[Genesis 47#^gen-47-20|Genesis 47:20]] ↔ [[Genesis 41#^gen-41-19|Genesis 41:19]]
-- [[Genesis 46]] — 4 parallel verses, e.g. [[Genesis 47#^gen-47-1|Genesis 47:1]] ↔ [[Genesis 46#^gen-46-32|Genesis 46:32]]
+- [[Genesis 33]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
 - [[Judges 6]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Judges 6#^judg-6-17|Judges 6:17]]
-- [[Jeremiah 43]] — 4 parallel verses, e.g. [[Genesis 47#^gen-47-14|Genesis 47:14]] ↔ [[Jeremiah 43#^jer-43-13|Jeremiah 43:13]]
-- [[Acts 7]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-14|Genesis 47:14]] ↔ [[Acts 7#^acts-7-36|Acts 7:36]]
 - [[Genesis 50]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 50#^gen-50-4|Genesis 50:4]]
-- [[Psalm 78]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-11|Genesis 47:11]] ↔ [[Psalm 78#^ps-78-12|Psalm 78:12]]
-- [[Deuteronomy 29]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-27|Genesis 47:27]] ↔ [[Deuteronomy 29#^deut-29-16|Deuteronomy 29:16]]
-- [[Genesis 25]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-9|Genesis 47:9]] ↔ [[Genesis 25#^gen-25-17|Genesis 25:17]]
-- [[Exodus 6]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-9|Genesis 47:9]] ↔ [[Exodus 6#^ex-6-16|Exodus 6:16]]
-- [[Exodus 11]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-11|Genesis 47:11]] ↔ [[Exodus 11#^ex-11-3|Exodus 11:3]]
+- [[Acts 7]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-14|Genesis 47:14]] ↔ [[Acts 7#^acts-7-36|Acts 7:36]]
+- [[Genesis 46]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-1|Genesis 47:1]] ↔ [[Genesis 46#^gen-46-32|Genesis 46:32]]
+- [[Exodus 34]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
+- [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 24#^gen-24-2|Genesis 24:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

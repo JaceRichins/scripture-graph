@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 9]] — 5 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Jarom 1]] — 3 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
-- [[Alma 39]] — 6 parallel verses, e.g. [[Alma 37#^alma-37-43|Alma 37:43]] ↔ [[Alma 39#^alma-39-9|Alma 39:9]]
-- [[Alma 38]] — 3 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
-- [[D&C 5]] — 5 parallel verses, e.g. [[Alma 37#^alma-37-25|Alma 37:25]] ↔ [[D&C 5#^dc-5-33|D&C 5:33]]
-- [[Mosiah 28]] — 3 parallel verses, e.g. [[Alma 37#^alma-37-9|Alma 37:9]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
-- [[Alma 36]] — 3 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
-- [[Mosiah 15]] — 4 parallel verses, e.g. [[Alma 37#^alma-37-9|Alma 37:9]] ↔ [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]]
-- [[Alma 23]] — 5 parallel verses, e.g. [[Alma 37#^alma-37-19|Alma 37:19]] ↔ [[Alma 23#^alma-23-15|Alma 23:15]]
-- [[Mosiah 12]] — 3 parallel verses, e.g. [[Alma 37#^alma-37-25|Alma 37:25]] ↔ [[Mosiah 12#^mosiah-12-8|Mosiah 12:8]]
-- [[Helaman 7]] — 4 parallel verses, e.g. [[Alma 37#^alma-37-22|Alma 37:22]] ↔ [[Helaman 7#^hel-7-28|Helaman 7:28]]
-- [[Helaman 3]] — 4 parallel verses, e.g. [[Alma 37#^alma-37-4|Alma 37:4]] ↔ [[Helaman 3#^hel-3-16|Helaman 3:16]]
+- [[Jarom 1]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Alma 38]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
+- [[Mosiah 28]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-9|Alma 37:9]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
+- [[Alma 36]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
+- [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[Mosiah 12]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-25|Alma 37:25]] ↔ [[Mosiah 12#^mosiah-12-8|Mosiah 12:8]]
+- [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[Mosiah 3]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-33|Alma 37:33]] ↔ [[Mosiah 3#^mosiah-3-12|Mosiah 3:12]]
+- [[Alma 41]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-38|Alma 37:38]] ↔ [[Alma 41#^alma-41-1|Alma 41:1]]
+- [[D&C 75]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-37|Alma 37:37]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
+- [[D&C 3]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-12|Alma 37:12]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

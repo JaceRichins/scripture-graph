@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 136
 slug: dc-136
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -35,7 +35,7 @@ _Not yet developed._
 - [[Wilford Woodruff]] — 1 mention
 - [[Isaac]] — 1 mention
 - [[Adam]] — 1 mention
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -45,18 +45,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 19]] — 7 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
-- [[Exodus 3]] — 4 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Exodus 3#^ex-3-16|Exodus 3:16]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-41|D&C 136:41]] ↔ [[D&C 45#^dc-45-6|D&C 45:6]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Exodus 3#^ex-3-16|Exodus 3:16]]
 - [[D&C 115]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
-- [[Ezekiel 20]] — 4 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Ezekiel 20#^ezek-20-5|Ezekiel 20:5]]
-- [[Leviticus 25]] — 3 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Leviticus 25#^lev-25-17|Leviticus 25:17]]
-- [[Exodus 6]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-22|D&C 136:22]] ↔ [[Exodus 6#^ex-6-13|Exodus 6:13]]
-- [[Exodus 7]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-22|D&C 136:22]] ↔ [[Exodus 7#^ex-7-4|Exodus 7:4]]
-- [[Leviticus 18]] — 3 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Leviticus 18#^lev-18-2|Leviticus 18:2]]
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
 - [[Acts 3]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Acts 3#^acts-3-13|Acts 3:13]]
 - [[D&C 127]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
+- [[Mosiah 7]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-22|D&C 136:22]] ↔ [[Mosiah 7#^mosiah-7-19|Mosiah 7:19]]
+- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-30|D&C 136:30]] ↔ [[D&C 100#^dc-100-1|D&C 100:1]]
+- [[D&C 128]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

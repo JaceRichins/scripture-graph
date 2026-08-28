@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 27
 slug: deut-27
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 28]] — 15 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
-- [[Deuteronomy 19]] — 11 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
-- [[Deuteronomy 11]] — 12 parallel verses, e.g. [[Deuteronomy 27#^deut-27-1|Deuteronomy 27:1]] ↔ [[Deuteronomy 11#^deut-11-8|Deuteronomy 11:8]]
-- [[Deuteronomy 26]] — 7 parallel verses, e.g. [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
-- [[Deuteronomy 16]] — 9 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
-- [[Deuteronomy 17]] — 7 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Deuteronomy 28]] — 5 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
+- [[Deuteronomy 19]] — 7 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 19#^deut-19-9|Deuteronomy 19:9]]
+- [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
 - [[Deuteronomy 15]] — 5 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 25]] — 4 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
-- [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
-- [[Deuteronomy 21]] — 4 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]]
-- [[Deuteronomy 30]] — 6 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]]
-- [[Deuteronomy 31]] — 6 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 31#^deut-31-7|Deuteronomy 31:7]]
+- [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 27#^deut-27-1|Deuteronomy 27:1]] ↔ [[Deuteronomy 11#^deut-11-8|Deuteronomy 11:8]]
+- [[Deuteronomy 17]] — 2 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]] ↔ [[Deuteronomy 6#^deut-6-3|Deuteronomy 6:3]]
+- [[Exodus 20]] — 2 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Exodus 20#^ex-20-12|Exodus 20:12]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
+- [[Mosiah 13]] — 2 parallel verses, e.g. [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
+- [[Numbers 16]] — 2 parallel verses, e.g. [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

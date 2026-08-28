@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 108
 slug: ps-108
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 60]] — 7 parallel verses, e.g. [[Psalm 108#^ps-108-7|Psalm 108:7]] ↔ [[Psalm 60#^ps-60-6|Psalm 60:6]]
-- [[Psalm 57]] — 6 parallel verses, e.g. [[Psalm 108#^ps-108-1|Psalm 108:1]] ↔ [[Psalm 57#^ps-57-7|Psalm 57:7]]
+- [[Psalm 57]] — 5 parallel verses, e.g. [[Psalm 108#^ps-108-1|Psalm 108:1]] ↔ [[Psalm 57#^ps-57-7|Psalm 57:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

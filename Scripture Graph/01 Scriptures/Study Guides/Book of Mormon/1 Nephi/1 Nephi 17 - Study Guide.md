@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 17
 slug: 1ne-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,18 +45,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 16]] — 25 parallel verses, e.g. [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]] ↔ [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]]
-- [[1 Nephi 18]] — 12 parallel verses, e.g. [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]] ↔ [[1 Nephi 18#^1ne-18-10|1 Nephi 18:10]]
-- [[2 Nephi 1]] — 8 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
-- [[1 Nephi 2]] — 6 parallel verses, e.g. [[1 Nephi 17#^1ne-17-8|1 Nephi 17:8]] ↔ [[1 Nephi 2#^1ne-2-19|1 Nephi 2:19]]
-- [[1 Nephi 7]] — 8 parallel verses, e.g. [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]] ↔ [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]]
-- [[Mormon 2]] — 8 parallel verses, e.g. [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]] ↔ [[Mormon 2#^morm-2-4|Mormon 2:4]]
-- [[Alma 58]] — 7 parallel verses, e.g. [[1 Nephi 17#^1ne-17-6|1 Nephi 17:6]] ↔ [[Alma 58#^alma-58-13|Alma 58:13]]
-- [[1 Nephi 5]] — 5 parallel verses, e.g. [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]] ↔ [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]]
-- [[Mosiah 7]] — 6 parallel verses, e.g. [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]] ↔ [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
+- [[1 Nephi 2]] — 4 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
 - [[Mosiah 13]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
-- [[2 Nephi 5]] — 7 parallel verses, e.g. [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]] ↔ [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]]
-- [[1 Nephi 15]] — 5 parallel verses, e.g. [[1 Nephi 17#^1ne-17-19|1 Nephi 17:19]] ↔ [[1 Nephi 15#^1ne-15-4|1 Nephi 15:4]]
+- [[2 Nephi 1]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[1 Nephi 16]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]] ↔ [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]]
+- [[1 Nephi 5]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]] ↔ [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Exodus 20]] — 1 parallel verse, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Exodus 20#^ex-20-12|Exodus 20:12]]
+- [[2 Nephi 4]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[1 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-19|1 Nephi 17:19]] ↔ [[1 Nephi 15#^1ne-15-4|1 Nephi 15:4]]
+- [[Deuteronomy 25]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
+- [[1 Nephi 4]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]] ↔ [[1 Nephi 4#^1ne-4-4|1 Nephi 4:4]]
+- [[3 Nephi 8]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]] ↔ [[3 Nephi 8#^3ne-8-9|3 Nephi 8:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

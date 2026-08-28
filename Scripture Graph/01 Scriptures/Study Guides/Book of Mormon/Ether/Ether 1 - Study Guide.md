@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 1
 slug: ether-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ether 2]] — 14 parallel verses, e.g. [[Ether 1#^ether-1-35|Ether 1:35]] ↔ [[Ether 2#^ether-2-16|Ether 2:16]]
-- [[1 Nephi 14]] — 5 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[Ether 2]] — 12 parallel verses, e.g. [[Ether 1#^ether-1-35|Ether 1:35]] ↔ [[Ether 2#^ether-2-16|Ether 2:16]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
-- [[1 Nephi 10]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
-- [[1 Nephi 2]] — 5 parallel verses, e.g. [[Ether 1#^ether-1-38|Ether 1:38]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
-- [[Ether 13]] — 5 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Ether 13#^ether-13-25|Ether 13:25]]
-- [[Ether 14]] — 5 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Ether 14#^ether-14-23|Ether 14:23]]
-- [[Ether 6]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-1|Ether 1:1]] ↔ [[Ether 6#^ether-6-1|Ether 6:1]]
+- [[1 Nephi 14]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Omni 1#^omni-1-22|Omni 1:22]]
 - [[Ether 3]] — 3 parallel verses, e.g. [[Ether 1#^ether-1-35|Ether 1:35]] ↔ [[Ether 3#^ether-3-1|Ether 3:1]]
-- [[1 Nephi 13]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]]
-- [[Helaman 16]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Helaman 16#^hel-16-22|Helaman 16:22]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]]
+- [[Ezekiel 34]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Ezekiel 34#^ezek-34-6|Ezekiel 34:6]]
+- [[1 Nephi 5]] — 1 parallel verse, e.g. [[Ether 1#^ether-1-3|Ether 1:3]] ↔ [[1 Nephi 5#^1ne-5-11|1 Nephi 5:11]]
+- [[1 Nephi 2]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-38|Ether 1:38]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-38|Ether 1:38]] ↔ [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 1
 slug: 1thes-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,6 @@ _Not yet developed._
 - [[Philemon 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
-- [[2 Corinthians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
-- [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

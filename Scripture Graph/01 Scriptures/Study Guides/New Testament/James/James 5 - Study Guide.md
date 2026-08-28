@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 5
 slug: james-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 98]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
-- [[D&C 87]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 87#^dc-87-7|D&C 87:7]]
-- [[D&C 88]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
-- [[D&C 95]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 95#^dc-95-7|D&C 95:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

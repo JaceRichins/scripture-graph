@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 15
 slug: ezek-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 20]] — 4 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 20#^ezek-20-42|Ezekiel 20:42]]
-- [[Ezekiel 13]] — 5 parallel verses, e.g. [[Ezekiel 15#^ezek-15-1|Ezekiel 15:1]] ↔ [[Ezekiel 13#^ezek-13-1|Ezekiel 13:1]]
-- [[Ezekiel 22]] — 4 parallel verses, e.g. [[Ezekiel 15#^ezek-15-1|Ezekiel 15:1]] ↔ [[Ezekiel 22#^ezek-22-17|Ezekiel 22:17]]
-- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]]
-- [[Ezekiel 30]] — 4 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 30#^ezek-30-8|Ezekiel 30:8]]
-- [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 15#^ezek-15-8|Ezekiel 15:8]] ↔ [[Ezekiel 29#^ezek-29-10|Ezekiel 29:10]]
-- [[Ezekiel 17]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-1|Ezekiel 15:1]] ↔ [[Ezekiel 17#^ezek-17-1|Ezekiel 17:1]]
-- [[Ezekiel 12]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-1|Ezekiel 15:1]] ↔ [[Ezekiel 12#^ezek-12-21|Ezekiel 12:21]]
-- [[Ezekiel 7]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
-- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]]
-- [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
-- [[Ezekiel 33]] — 3 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]]
+- [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 20#^ezek-20-42|Ezekiel 20:42]]
+- [[Ezekiel 14]] — 1 parallel verse, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,13 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 13]] — 45 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[Luke 12]] — 9 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
+- [[3 Nephi 13]] — 43 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[Luke 12]] — 7 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
 - [[Luke 16]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-24|Matthew 6:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
-- [[D&C 84]] — 7 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 6#^matt-6-13|Matthew 6:13]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
-- [[Matthew 5]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-1|Matthew 6:1]] ↔ [[Matthew 5#^matt-5-45|Matthew 5:45]]
-- [[3 Nephi 27]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-2|Matthew 6:2]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
+- [[D&C 84]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 <!-- SG:END related-scriptures -->
 

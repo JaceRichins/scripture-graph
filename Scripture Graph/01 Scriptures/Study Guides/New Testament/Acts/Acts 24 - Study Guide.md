@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 24
 slug: acts-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 10
 slug: 1chr-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,10 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Samuel 31]] — 12 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]] ↔ [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]]
-- [[Judges 9]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-8|1 Chronicles 10:8]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-8|1 Chronicles 10:8]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
-- [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-13|1 Chronicles 10:13]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
+- [[1 Samuel 31]] — 11 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]] ↔ [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

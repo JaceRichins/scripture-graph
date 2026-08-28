@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 50
 slug: gen-50
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,15 +42,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 13]] — 2 parallel verses, e.g. [[Genesis 50#^gen-50-25|Genesis 50:25]] ↔ [[Exodus 13#^ex-13-19|Exodus 13:19]]
-- [[Genesis 23]] — 3 parallel verses, e.g. [[Genesis 50#^gen-50-13|Genesis 50:13]] ↔ [[Genesis 23#^gen-23-19|Genesis 23:19]]
+- [[Exodus 13]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-25|Genesis 50:25]] ↔ [[Exodus 13#^ex-13-19|Exodus 13:19]]
 - [[Genesis 47]] — 2 parallel verses, e.g. [[Genesis 50#^gen-50-4|Genesis 50:4]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
 - [[Genesis 49]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-13|Genesis 50:13]] ↔ [[Genesis 49#^gen-49-30|Genesis 49:30]]
-- [[Genesis 45]] — 2 parallel verses, e.g. [[Genesis 50#^gen-50-24|Genesis 50:24]] ↔ [[Genesis 45#^gen-45-3|Genesis 45:3]]
-- [[Judges 9]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-4|Genesis 50:4]] ↔ [[Judges 9#^judg-9-2|Judges 9:2]]
-- [[Joshua 24]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-26|Genesis 50:26]] ↔ [[Joshua 24#^josh-24-29|Joshua 24:29]]
-- [[Judges 2]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-26|Genesis 50:26]] ↔ [[Judges 2#^judg-2-8|Judges 2:8]]
-- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-24|Genesis 50:24]] ↔ [[Deuteronomy 6#^deut-6-10|Deuteronomy 6:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

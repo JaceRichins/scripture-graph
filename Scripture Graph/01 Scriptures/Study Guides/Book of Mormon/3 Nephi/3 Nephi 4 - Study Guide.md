@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 4
 slug: 3ne-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 3]] — 7 parallel verses, e.g. [[3 Nephi 4#^3ne-4-3|3 Nephi 4:3]] ↔ [[3 Nephi 3#^3ne-3-13|3 Nephi 3:13]]
 - [[Omni 1]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Omni 1#^omni-1-7|Omni 1:7]]
-- [[Mormon 3]] — 5 parallel verses, e.g. [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]] ↔ [[Mormon 3#^morm-3-13|Mormon 3:13]]
-- [[Mormon 4]] — 6 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Mormon 4#^morm-4-2|Mormon 4:2]]
-- [[Mosiah 2]] — 3 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
-- [[Alma 9]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]] ↔ [[Alma 9#^alma-9-10|Alma 9:10]]
-- [[Alma 58]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-9|3 Nephi 4:9]] ↔ [[Alma 58#^alma-58-29|Alma 58:29]]
-- [[Helaman 12]] — 3 parallel verses, e.g. [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]] ↔ [[Helaman 12#^hel-12-2|Helaman 12:2]]
+- [[3 Nephi 3]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-3|3 Nephi 4:3]] ↔ [[3 Nephi 3#^3ne-3-13|3 Nephi 3:13]]
+- [[Mormon 3]] — 3 parallel verses, e.g. [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]] ↔ [[Mormon 3#^morm-3-13|Mormon 3:13]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
+- [[Alma 36]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
+- [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
+- [[Mosiah 2]] — 2 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
+- [[1 Nephi 6]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

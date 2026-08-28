@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 6
 slug: ezek-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 36]] — 7 parallel verses, e.g. [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]] ↔ [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]]
-- [[Ezekiel 28]] — 11 parallel verses, e.g. [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
-- [[Ezekiel 30]] — 10 parallel verses, e.g. [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]] ↔ [[Ezekiel 30#^ezek-30-8|Ezekiel 30:8]]
-- [[Ezekiel 25]] — 7 parallel verses, e.g. [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]] ↔ [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]]
-- [[Ezekiel 29]] — 8 parallel verses, e.g. [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]] ↔ [[Ezekiel 29#^ezek-29-9|Ezekiel 29:9]]
-- [[Ezekiel 12]] — 7 parallel verses, e.g. [[Ezekiel 6#^ezek-6-1|Ezekiel 6:1]] ↔ [[Ezekiel 12#^ezek-12-21|Ezekiel 12:21]]
-- [[Ezekiel 35]] — 6 parallel verses, e.g. [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]] ↔ [[Ezekiel 35#^ezek-35-12|Ezekiel 35:12]]
-- [[Ezekiel 13]] — 6 parallel verses, e.g. [[Ezekiel 6#^ezek-6-1|Ezekiel 6:1]] ↔ [[Ezekiel 13#^ezek-13-1|Ezekiel 13:1]]
+- [[Ezekiel 36]] — 3 parallel verses, e.g. [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]] ↔ [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]]
 - [[Jeremiah 42]] — 2 parallel verses, e.g. [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
-- [[Ezekiel 20]] — 5 parallel verses, e.g. [[Ezekiel 6#^ezek-6-2|Ezekiel 6:2]] ↔ [[Ezekiel 20#^ezek-20-46|Ezekiel 20:46]]
-- [[Ezekiel 7]] — 5 parallel verses, e.g. [[Ezekiel 6#^ezek-6-7|Ezekiel 6:7]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
-- [[Ezekiel 22]] — 4 parallel verses, e.g. [[Ezekiel 6#^ezek-6-1|Ezekiel 6:1]] ↔ [[Ezekiel 22#^ezek-22-17|Ezekiel 22:17]]
+- [[Leviticus 26]] — 2 parallel verses, e.g. [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]] ↔ [[Leviticus 26#^lev-26-25|Leviticus 26:25]]
+- [[Jeremiah 27]] — 1 parallel verse, e.g. [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]] ↔ [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]]
+- [[Jeremiah 38]] — 1 parallel verse, e.g. [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
+- [[Jeremiah 44]] — 1 parallel verse, e.g. [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]] ↔ [[Jeremiah 44#^jer-44-13|Jeremiah 44:13]]
+- [[Ezekiel 25]] — 1 parallel verse, e.g. [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]] ↔ [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

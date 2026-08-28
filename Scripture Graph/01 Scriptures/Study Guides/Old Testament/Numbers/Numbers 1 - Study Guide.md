@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 1
 slug: num-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 4]] — 129 parallel verses, e.g. [[Numbers 1#^num-1-22|Numbers 1:22]] ↔ [[Numbers 4#^num-4-40|Numbers 4:40]]
-- [[Numbers 2]] — 138 parallel verses, e.g. [[Numbers 1#^num-1-45|Numbers 1:45]] ↔ [[Numbers 2#^num-2-32|Numbers 2:32]]
-- [[Numbers 26]] — 155 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 26#^num-26-2|Numbers 26:2]]
-- [[Numbers 3]] — 46 parallel verses, e.g. [[Numbers 1#^num-1-22|Numbers 1:22]] ↔ [[Numbers 3#^num-3-22|Numbers 3:22]]
-- [[Ezekiel 4]] — 39 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]]
-- [[2 Chronicles 31]] — 16 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
+- [[Numbers 4]] — 56 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 4#^num-4-2|Numbers 4:2]]
+- [[Numbers 2]] — 13 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Numbers 2#^num-2-34|Numbers 2:34]]
 - [[2 Chronicles 25]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[2 Chronicles 25#^2chr-25-5|2 Chronicles 25:5]]
-- [[Exodus 38]] — 17 parallel verses, e.g. [[Numbers 1#^num-1-46|Numbers 1:46]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
-- [[Numbers 14]] — 17 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 14#^num-14-5|Numbers 14:5]]
-- [[Numbers 32]] — 15 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
-- [[Ezra 3]] — 15 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
-- [[Exodus 12]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Exodus 12#^ex-12-35|Exodus 12:35]]
+- [[2 Chronicles 31]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
+- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 1#^num-1-51|Numbers 1:51]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-1|Numbers 1:1]] ↔ [[Numbers 9#^num-9-1|Numbers 9:1]]
+- [[Exodus 39]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
+- [[Numbers 26]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 26#^num-26-2|Numbers 26:2]]
+- [[Numbers 18]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-51|Numbers 1:51]] ↔ [[Numbers 18#^num-18-7|Numbers 18:7]]
+- [[Numbers 8]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Numbers 8#^num-8-20|Numbers 8:20]]
+- [[Numbers 15]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-53|Numbers 1:53]] ↔ [[Numbers 15#^num-15-26|Numbers 15:26]]
+- [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

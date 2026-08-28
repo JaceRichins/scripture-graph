@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 24
 slug: lev-24
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 23]] — 15 parallel verses, e.g. [[Leviticus 24#^lev-24-3|Leviticus 24:3]] ↔ [[Leviticus 23#^lev-23-41|Leviticus 23:41]]
-- [[Leviticus 20]] — 18 parallel verses, e.g. [[Leviticus 24#^lev-24-16|Leviticus 24:16]] ↔ [[Leviticus 20#^lev-20-15|Leviticus 20:15]]
-- [[Leviticus 7]] — 7 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 7#^lev-7-35|Leviticus 7:35]]
-- [[Leviticus 2]] — 4 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]
-- [[Numbers 35]] — 10 parallel verses, e.g. [[Leviticus 24#^lev-24-2|Leviticus 24:2]] ↔ [[Numbers 35#^num-35-2|Numbers 35:2]]
-- [[Exodus 27]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-2|Leviticus 24:2]] ↔ [[Exodus 27#^ex-27-20|Exodus 27:20]]
+- [[Leviticus 23]] — 10 parallel verses, e.g. [[Leviticus 24#^lev-24-3|Leviticus 24:3]] ↔ [[Leviticus 23#^lev-23-41|Leviticus 23:41]]
+- [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 7#^lev-7-35|Leviticus 7:35]]
+- [[Leviticus 2]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]
 - [[Exodus 29]] — 4 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Exodus 29#^ex-29-28|Exodus 29:28]]
 - [[Leviticus 3]] — 4 parallel verses, e.g. [[Leviticus 24#^lev-24-7|Leviticus 24:7]] ↔ [[Leviticus 3#^lev-3-14|Leviticus 3:14]]
+- [[Exodus 27]] — 2 parallel verses, e.g. [[Leviticus 24#^lev-24-2|Leviticus 24:2]] ↔ [[Exodus 27#^ex-27-20|Exodus 27:20]]
 - [[Exodus 30]] — 4 parallel verses, e.g. [[Leviticus 24#^lev-24-15|Leviticus 24:15]] ↔ [[Exodus 30#^ex-30-31|Exodus 30:31]]
-- [[Leviticus 19]] — 7 parallel verses, e.g. [[Leviticus 24#^lev-24-22|Leviticus 24:22]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
 - [[Leviticus 10]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 10#^lev-10-12|Leviticus 10:12]]
 - [[Leviticus 6]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-3|Leviticus 24:3]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
+- [[Leviticus 20]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-16|Leviticus 24:16]] ↔ [[Leviticus 20#^lev-20-15|Leviticus 20:15]]
+- [[Leviticus 8]] — 2 parallel verses, e.g. [[Leviticus 24#^lev-24-7|Leviticus 24:7]] ↔ [[Leviticus 8#^lev-8-21|Leviticus 8:21]]
+- [[Leviticus 21]] — 2 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 21#^lev-21-6|Leviticus 21:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

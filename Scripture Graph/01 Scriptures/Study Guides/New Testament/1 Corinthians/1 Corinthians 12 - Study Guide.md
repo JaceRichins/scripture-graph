@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 10]] — 4 parallel verses, e.g. [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]] ↔ [[Moroni 10#^moro-10-11|Moroni 10:11]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]] ↔ [[Moroni 10#^moro-10-11|Moroni 10:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

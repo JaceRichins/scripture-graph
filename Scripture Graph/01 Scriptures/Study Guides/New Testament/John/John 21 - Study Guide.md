@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

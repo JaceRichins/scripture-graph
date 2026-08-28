@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 10
 slug: jer-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,9 +40,6 @@ _Not yet developed._
 - [[Jeremiah 51]] — 7 parallel verses, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]]
 - [[Psalm 135]] — 1 parallel verse, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Psalm 135#^ps-135-7|Psalm 135:7]]
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 10#^jer-10-18|Jeremiah 10:18]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
-- [[Psalm 86]] — 2 parallel verses, e.g. [[Jeremiah 10#^jer-10-6|Jeremiah 10:6]] ↔ [[Psalm 86#^ps-86-8|Psalm 86:8]]
-- [[Jeremiah 8]] — 1 parallel verse, e.g. [[Jeremiah 10#^jer-10-15|Jeremiah 10:15]] ↔ [[Jeremiah 8#^jer-8-12|Jeremiah 8:12]]
-- [[D&C 43]] — 2 parallel verses, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[D&C 43#^dc-43-21|D&C 43:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

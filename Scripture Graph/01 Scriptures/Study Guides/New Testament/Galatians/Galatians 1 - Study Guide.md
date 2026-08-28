@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 1
 slug: gal-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,11 +41,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
-- [[Philippians 4]] — 2 parallel verses, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[Philippians 4#^philip-4-20|Philippians 4:20]]
 - [[2 Timothy 4]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]]
-- [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-3|Galatians 1:3]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
-- [[Ephesians 1]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-3|Galatians 1:3]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
-- [[2 John 1]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-3|Galatians 1:3]] ↔ [[2 John 1#^2jn-1-3|2 John 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

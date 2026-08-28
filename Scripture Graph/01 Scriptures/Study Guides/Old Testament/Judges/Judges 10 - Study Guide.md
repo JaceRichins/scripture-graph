@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 10
 slug: judg-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,17 +40,12 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Judges 3]] — 5 parallel verses, e.g. [[Judges 10#^judg-10-7|Judges 10:7]] ↔ [[Judges 3#^judg-3-8|Judges 3:8]]
-- [[Judges 2]] — 4 parallel verses, e.g. [[Judges 10#^judg-10-7|Judges 10:7]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
-- [[Judges 6]] — 4 parallel verses, e.g. [[Judges 10#^judg-10-10|Judges 10:10]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
-- [[Judges 11]] — 3 parallel verses, e.g. [[Judges 10#^judg-10-18|Judges 10:18]] ↔ [[Judges 11#^judg-11-8|Judges 11:8]]
+- [[Judges 2]] — 3 parallel verses, e.g. [[Judges 10#^judg-10-7|Judges 10:7]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
+- [[Judges 6]] — 3 parallel verses, e.g. [[Judges 10#^judg-10-10|Judges 10:10]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
 - [[Judges 13]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-6|Judges 10:6]] ↔ [[Judges 13#^judg-13-1|Judges 13:1]]
-- [[Judges 12]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-18|Judges 10:18]] ↔ [[Judges 12#^judg-12-1|Judges 12:1]]
-- [[1 Kings 11]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-11|Judges 10:11]] ↔ [[1 Kings 11#^1kgs-11-2|1 Kings 11:2]]
-- [[Joshua 24]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-8|Judges 10:8]] ↔ [[Joshua 24#^josh-24-8|Joshua 24:8]]
+- [[Judges 11]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-18|Judges 10:18]] ↔ [[Judges 11#^judg-11-8|Judges 11:8]]
 - [[1 Samuel 31]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-8|Judges 10:8]] ↔ [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]]
 - [[1 Chronicles 18]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-11|Judges 10:11]] ↔ [[1 Chronicles 18#^1chr-18-11|1 Chronicles 18:11]]
-- [[Judges 4]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-10|Judges 10:10]] ↔ [[Judges 4#^judg-4-3|Judges 4:3]]
-- [[2 Samuel 17]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-6|Judges 10:6]] ↔ [[2 Samuel 17#^2sam-17-27|2 Samuel 17:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

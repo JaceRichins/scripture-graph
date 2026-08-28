@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 30
 slug: alma-30
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,18 +45,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 11 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 50]] — 8 parallel verses, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[Alma 50#^alma-50-25|Alma 50:25]]
-- [[Alma 52]] — 7 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 16]] — 7 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 4]] — 6 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Helaman 6]] — 9 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Alma 28]] — 5 parallel verses, e.g. [[Alma 30#^alma-30-1|Alma 30:1]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
-- [[Alma 63]] — 6 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
-- [[Helaman 11]] — 6 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 45]] — 6 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Alma 8]] — 6 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Helaman 3]] — 7 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Helaman 3#^hel-3-22|Helaman 3:22]]
+- [[Alma 28]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-1|Alma 30:1]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
+- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[Alma 50#^alma-50-25|Alma 50:25]]
+- [[Alma 18]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-37|Alma 30:37]] ↔ [[Alma 18#^alma-18-24|Alma 18:24]]
+- [[Helaman 13]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-3|Alma 30:3]] ↔ [[Helaman 13#^hel-13-1|Helaman 13:1]]
+- [[Alma 22]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-37|Alma 30:37]] ↔ [[Alma 22#^alma-22-7|Alma 22:7]]
+- [[Helaman 1]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Helaman 1#^hel-1-1|Helaman 1:1]]
+- [[Alma 57]] — 1 parallel verse, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[Alma 57#^alma-57-6|Alma 57:6]]
+- [[Mormon 4]] — 1 parallel verse, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Mormon 4#^morm-4-17|Mormon 4:17]]
+- [[D&C 67]] — 1 parallel verse, e.g. [[Alma 30#^alma-30-24|Alma 30:24]] ↔ [[D&C 67#^dc-67-7|D&C 67:7]]
+- [[3 Nephi 1]] — 1 parallel verse, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]]
+- [[Alma 3]] — 1 parallel verse, e.g. [[Alma 30#^alma-30-2|Alma 30:2]] ↔ [[Alma 3#^alma-3-1|Alma 3:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

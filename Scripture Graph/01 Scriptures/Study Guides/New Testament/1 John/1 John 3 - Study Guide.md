@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,8 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 7]] — 2 parallel verses, e.g. [[1 John 3#^1jn-3-2|1 John 3:2]] ↔ [[Moroni 7#^moro-7-48|Moroni 7:48]]
-- [[1 John 4]] — 3 parallel verses, e.g. [[1 John 3#^1jn-3-10|1 John 3:10]] ↔ [[1 John 4#^1jn-4-20|1 John 4:20]]
+- [[Moroni 7]] — 1 parallel verse, e.g. [[1 John 3#^1jn-3-2|1 John 3:2]] ↔ [[Moroni 7#^moro-7-48|Moroni 7:48]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

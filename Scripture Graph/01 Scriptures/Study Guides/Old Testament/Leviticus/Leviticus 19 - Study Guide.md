@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 19
 slug: lev-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 20]] — 30 parallel verses, e.g. [[Leviticus 19#^lev-19-34|Leviticus 19:34]] ↔ [[Ezekiel 20#^ezek-20-7|Ezekiel 20:7]]
-- [[Leviticus 18]] — 26 parallel verses, e.g. [[Leviticus 19#^lev-19-12|Leviticus 19:12]] ↔ [[Leviticus 18#^lev-18-21|Leviticus 18:21]]
-- [[Numbers 15]] — 15 parallel verses, e.g. [[Leviticus 19#^lev-19-8|Leviticus 19:8]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
-- [[Leviticus 23]] — 18 parallel verses, e.g. [[Leviticus 19#^lev-19-9|Leviticus 19:9]] ↔ [[Leviticus 23#^lev-23-22|Leviticus 23:22]]
-- [[Leviticus 25]] — 22 parallel verses, e.g. [[Leviticus 19#^lev-19-34|Leviticus 19:34]] ↔ [[Leviticus 25#^lev-25-55|Leviticus 25:55]]
 - [[Leviticus 5]] — 6 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 5#^lev-5-16|Leviticus 5:16]]
-- [[Leviticus 20]] — 17 parallel verses, e.g. [[Leviticus 19#^lev-19-37|Leviticus 19:37]] ↔ [[Leviticus 20#^lev-20-22|Leviticus 20:22]]
-- [[Leviticus 26]] — 15 parallel verses, e.g. [[Leviticus 19#^lev-19-30|Leviticus 19:30]] ↔ [[Leviticus 26#^lev-26-2|Leviticus 26:2]]
-- [[Leviticus 4]] — 9 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
-- [[Leviticus 17]] — 7 parallel verses, e.g. [[Leviticus 19#^lev-19-21|Leviticus 19:21]] ↔ [[Leviticus 17#^lev-17-5|Leviticus 17:5]]
-- [[Exodus 16]] — 9 parallel verses, e.g. [[Leviticus 19#^lev-19-2|Leviticus 19:2]] ↔ [[Exodus 16#^ex-16-9|Exodus 16:9]]
-- [[Leviticus 7]] — 6 parallel verses, e.g. [[Leviticus 19#^lev-19-7|Leviticus 19:7]] ↔ [[Leviticus 7#^lev-7-18|Leviticus 7:18]]
+- [[Numbers 15]] — 8 parallel verses, e.g. [[Leviticus 19#^lev-19-8|Leviticus 19:8]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
+- [[Leviticus 23]] — 6 parallel verses, e.g. [[Leviticus 19#^lev-19-9|Leviticus 19:9]] ↔ [[Leviticus 23#^lev-23-22|Leviticus 23:22]]
+- [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 19#^lev-19-7|Leviticus 19:7]] ↔ [[Leviticus 7#^lev-7-18|Leviticus 7:18]]
+- [[Leviticus 4]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
+- [[Leviticus 15]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
+- [[Leviticus 17]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-8|Leviticus 19:8]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
+- [[Leviticus 18]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-12|Leviticus 19:12]] ↔ [[Leviticus 18#^lev-18-21|Leviticus 18:21]]
+- [[Leviticus 14]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 14#^lev-14-18|Leviticus 14:18]]
+- [[Leviticus 25]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-34|Leviticus 19:34]] ↔ [[Leviticus 25#^lev-25-55|Leviticus 25:55]]
+- [[Leviticus 26]] — 2 parallel verses, e.g. [[Leviticus 19#^lev-19-30|Leviticus 19:30]] ↔ [[Leviticus 26#^lev-26-2|Leviticus 26:2]]
+- [[Leviticus 6]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-21|Leviticus 19:21]] ↔ [[Leviticus 6#^lev-6-6|Leviticus 6:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

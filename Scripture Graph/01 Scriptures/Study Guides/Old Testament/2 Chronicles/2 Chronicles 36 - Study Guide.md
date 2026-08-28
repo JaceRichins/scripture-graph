@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 36
 slug: 2chr-36
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 15]] — 36 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
-- [[2 Kings 23]] — 18 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]
-- [[2 Kings 24]] — 17 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
-- [[2 Kings 21]] — 21 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 21#^2kgs-21-2|2 Kings 21:2]]
-- [[2 Chronicles 33]] — 17 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]] ↔ [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]]
-- [[Ezra 1]] — 6 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]] ↔ [[Ezra 1#^ezra-1-1|Ezra 1:1]]
-- [[2 Kings 14]] — 16 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
-- [[2 Chronicles 27]] — 14 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
-- [[2 Kings 13]] — 10 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 13#^2kgs-13-2|2 Kings 13:2]]
+- [[2 Kings 23]] — 17 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]
+- [[2 Kings 15]] — 22 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
+- [[2 Kings 24]] — 16 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
+- [[2 Kings 21]] — 17 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
+- [[2 Chronicles 33]] — 15 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-11|2 Chronicles 36:11]] ↔ [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]]
+- [[Ezra 1]] — 4 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]] ↔ [[Ezra 1#^ezra-1-1|Ezra 1:1]]
+- [[2 Chronicles 27]] — 9 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
 - [[Jeremiah 52]] — 7 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]]
-- [[2 Chronicles 21]] — 13 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
-- [[2 Chronicles 25]] — 10 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]]
+- [[2 Kings 14]] — 8 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
+- [[2 Kings 13]] — 6 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Kings 13#^2kgs-13-2|2 Kings 13:2]]
+- [[2 Chronicles 21]] — 7 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
+- [[2 Chronicles 25]] — 6 parallel verses, e.g. [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]] ↔ [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

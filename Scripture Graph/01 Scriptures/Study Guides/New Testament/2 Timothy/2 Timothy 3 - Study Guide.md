@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 3
 slug: 2tim-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

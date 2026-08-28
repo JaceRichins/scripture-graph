@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 34]] — 3 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-3|Exodus 33:3]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
-- [[Judges 6]] — 3 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Judges 6#^judg-6-17|Judges 6:17]]
-- [[Numbers 32]] — 3 parallel verses, e.g. [[Exodus 33#^ex-33-1|Exodus 33:1]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
-- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Exodus 33#^ex-33-1|Exodus 33:1]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
-- [[Genesis 33]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
-- [[Genesis 47]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
-- [[2 Samuel 14]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[2 Samuel 14#^2sam-14-22|2 Samuel 14:22]]
+- [[Exodus 34]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
 - [[2 Samuel 16]] — 1 parallel verse, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[2 Samuel 16#^2sam-16-4|2 Samuel 16:4]]
-- [[Leviticus 4]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-9|Exodus 33:9]] ↔ [[Leviticus 4#^lev-4-7|Leviticus 4:7]]
-- [[Leviticus 8]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-9|Exodus 33:9]] ↔ [[Leviticus 8#^lev-8-31|Leviticus 8:31]]
-- [[Genesis 32]] — 1 parallel verse, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Genesis 32#^gen-32-5|Genesis 32:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 15
 slug: num-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 29]] — 31 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
-- [[Numbers 28]] — 31 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]
-- [[Leviticus 1]] — 20 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
-- [[Numbers 7]] — 24 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
-- [[Leviticus 23]] — 27 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
-- [[Leviticus 4]] — 14 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
-- [[Leviticus 5]] — 13 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 5#^lev-5-10|Leviticus 5:10]]
-- [[Leviticus 2]] — 13 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
-- [[Leviticus 19]] — 15 parallel verses, e.g. [[Numbers 15#^num-15-30|Numbers 15:30]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
-- [[Leviticus 3]] — 12 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
-- [[Leviticus 14]] — 9 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 14#^lev-14-20|Leviticus 14:20]]
-- [[Exodus 29]] — 8 parallel verses, e.g. [[Numbers 15#^num-15-4|Numbers 15:4]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
+- [[Numbers 29]] — 19 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
+- [[Leviticus 1]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
+- [[Numbers 28]] — 16 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]
+- [[Leviticus 5]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 5#^lev-5-10|Leviticus 5:10]]
+- [[Numbers 7]] — 12 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
+- [[Leviticus 4]] — 10 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
+- [[Leviticus 23]] — 10 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
+- [[Leviticus 2]] — 6 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
+- [[Leviticus 19]] — 8 parallel verses, e.g. [[Numbers 15#^num-15-30|Numbers 15:30]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
+- [[Leviticus 14]] — 8 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 14#^lev-14-20|Leviticus 14:20]]
+- [[Leviticus 15]] — 6 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 15#^lev-15-2|Leviticus 15:2]]
+- [[Exodus 29]] — 4 parallel verses, e.g. [[Numbers 15#^num-15-4|Numbers 15:4]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

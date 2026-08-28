@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 6
 slug: micah-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,12 +41,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-4|Micah 6:4]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]
-- [[Ezekiel 7]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-14|Micah 6:14]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Micah 6#^micah-6-2|Micah 6:2]] ↔ [[Jeremiah 25#^jer-25-31|Jeremiah 25:31]]
-- [[Micah 5]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-14|Micah 6:14]] ↔ [[Micah 5#^micah-5-13|Micah 5:13]]
-- [[Zechariah 2]] — 1 parallel verse, e.g. [[Micah 6#^micah-6-14|Micah 6:14]] ↔ [[Zechariah 2#^zech-2-11|Zechariah 2:11]]
-- [[Ezekiel 5]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-14|Micah 6:14]] ↔ [[Ezekiel 5#^ezek-5-10|Ezekiel 5:10]]
-- [[3 Nephi 20]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-14|Micah 6:14]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

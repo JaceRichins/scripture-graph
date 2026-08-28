@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 4 Nephi
 chapter: 1
 slug: 4ne-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Omni 1]] — 12 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Omni 1#^omni-1-3|Omni 1:3]]
-- [[Mormon 2]] — 6 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Mormon 2#^morm-2-15|Mormon 2:15]]
-- [[Jarom 1]] — 6 parallel verses, e.g. [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]] ↔ [[Jarom 1#^jarom-1-5|Jarom 1:5]]
-- [[3 Nephi 8]] — 8 parallel verses, e.g. [[4 Nephi 1#^4ne-1-2|4 Nephi 1:2]] ↔ [[3 Nephi 8#^3ne-8-18|3 Nephi 8:18]]
-- [[Helaman 11]] — 6 parallel verses, e.g. [[4 Nephi 1#^4ne-1-36|4 Nephi 1:36]] ↔ [[Helaman 11#^hel-11-3|Helaman 11:3]]
-- [[Helaman 16]] — 6 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Helaman 16#^hel-16-8|Helaman 16:8]]
+- [[Omni 1]] — 5 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Omni 1#^omni-1-3|Omni 1:3]]
 - [[3 Nephi 26]] — 3 parallel verses, e.g. [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]] ↔ [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]]
-- [[Mosiah 3]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]]
-- [[Helaman 3]] — 5 parallel verses, e.g. [[4 Nephi 1#^4ne-1-36|4 Nephi 1:36]] ↔ [[Helaman 3#^hel-3-24|Helaman 3:24]]
-- [[Ether 9]] — 4 parallel verses, e.g. [[4 Nephi 1#^4ne-1-46|4 Nephi 1:46]] ↔ [[Ether 9#^ether-9-26|Ether 9:26]]
-- [[Ether 13]] — 5 parallel verses, e.g. [[4 Nephi 1#^4ne-1-2|4 Nephi 1:2]] ↔ [[Ether 13#^ether-13-25|Ether 13:25]]
-- [[D&C 35]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[D&C 35#^dc-35-9|D&C 35:9]]
+- [[Jarom 1]] — 4 parallel verses, e.g. [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]] ↔ [[Jarom 1#^jarom-1-5|Jarom 1:5]]
+- [[Mormon 2]] — 3 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Mormon 2#^morm-2-15|Mormon 2:15]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]]
+- [[D&C 35]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[D&C 35#^dc-35-9|D&C 35:9]]
+- [[Helaman 11]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-36|4 Nephi 1:36]] ↔ [[Helaman 11#^hel-11-3|Helaman 11:3]]
+- [[Mormon 5]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-49|4 Nephi 1:49]] ↔ [[Mormon 5#^morm-5-12|Mormon 5:12]]
+- [[Mosiah 21]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]] ↔ [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]]
+- [[3 Nephi 1]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]] ↔ [[3 Nephi 1#^3ne-1-19|3 Nephi 1:19]]
+- [[2 Nephi 1]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-30|4 Nephi 1:30]] ↔ [[2 Nephi 1#^2ne-1-26|2 Nephi 1:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

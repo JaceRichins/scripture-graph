@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 8
 slug: dan-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,9 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Daniel 10]] — 2 parallel verses, e.g. [[Daniel 8#^dan-8-18|Daniel 8:18]] ↔ [[Daniel 10#^dan-10-9|Daniel 10:9]]
-- [[Daniel 11]] — 2 parallel verses, e.g. [[Daniel 8#^dan-8-17|Daniel 8:17]] ↔ [[Daniel 11#^dan-11-40|Daniel 11:40]]
-- [[Helaman 14]] — 2 parallel verses, e.g. [[Daniel 8#^dan-8-5|Daniel 8:5]] ↔ [[Helaman 14#^hel-14-22|Helaman 14:22]]
-- [[3 Nephi 8]] — 2 parallel verses, e.g. [[Daniel 8#^dan-8-5|Daniel 8:5]] ↔ [[3 Nephi 8#^3ne-8-17|3 Nephi 8:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

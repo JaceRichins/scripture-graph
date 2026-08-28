@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 12
 slug: dan-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

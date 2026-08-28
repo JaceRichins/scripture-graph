@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 85
 slug: dc-85
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,17 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Nehemiah 8]] — 4 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]]
-- [[Daniel 7]] — 4 parallel verses, e.g. [[D&C 85#^dc-85-11|D&C 85:11]] ↔ [[Daniel 7#^dan-7-18|Daniel 7:18]]
 - [[Joshua 24]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Joshua 24#^josh-24-26|Joshua 24:26]]
-- [[D&C 107]] — 3 parallel verses, e.g. [[D&C 85#^dc-85-1|D&C 85:1]] ↔ [[D&C 107#^dc-107-38|D&C 107:38]]
-- [[Joshua 8]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Joshua 8#^josh-8-31|Joshua 8:31]]
-- [[Joshua 23]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Joshua 23#^josh-23-6|Joshua 23:6]]
-- [[Nehemiah 9]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Nehemiah 9#^neh-9-3|Nehemiah 9:3]]
-- [[Revelation 20]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-9|D&C 85:9]] ↔ [[Revelation 20#^rev-20-15|Revelation 20:15]]
-- [[2 Kings 14]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[2 Kings 14#^2kgs-14-6|2 Kings 14:6]]
-- [[2 Chronicles 17]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[2 Chronicles 17#^2chr-17-9|2 Chronicles 17:9]]
-- [[Alma 9]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-11|D&C 85:11]] ↔ [[Alma 9#^alma-9-11|Alma 9:11]]
+- [[Nehemiah 8]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 11
 slug: 1chr-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Samuel 23]] — 23 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]] ↔ [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]]
-- [[2 Samuel 5]] — 4 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]] ↔ [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]]
-- [[1 Kings 1]] — 5 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-24|1 Chronicles 11:24]] ↔ [[1 Kings 1#^1kgs-1-8|1 Kings 1:8]]
-- [[Numbers 3]] — 4 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[1 Kings 16]] — 4 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
-- [[Exodus 7]] — 3 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-17|1 Chronicles 11:17]] ↔ [[Exodus 7#^ex-7-18|Exodus 7:18]]
-- [[Numbers 4]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Numbers 4#^num-4-45|Numbers 4:45]]
-- [[Numbers 36]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Numbers 36#^num-36-5|Numbers 36:5]]
-- [[Joshua 22]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
-- [[2 Chronicles 35]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]]
-- [[Deuteronomy 34]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]]
-- [[Joshua 19]] — 2 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]] ↔ [[Joshua 19#^josh-19-50|Joshua 19:50]]
+- [[2 Samuel 23]] — 19 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]] ↔ [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]]
+- [[2 Samuel 5]] — 3 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]] ↔ [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

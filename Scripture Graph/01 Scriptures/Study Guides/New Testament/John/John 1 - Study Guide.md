@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 1
 slug: john-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -47,16 +47,14 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 93]] — 4 parallel verses, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[D&C 93#^dc-93-11|D&C 93:11]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[John 1#^john-1-27|John 1:27]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
-- [[John 3]] — 5 parallel verses, e.g. [[John 1#^john-1-48|John 1:48]] ↔ [[John 3#^john-3-3|John 3:3]]
 - [[D&C 11]] — 1 parallel verse, e.g. [[John 1#^john-1-12|John 1:12]] ↔ [[D&C 11#^dc-11-30|D&C 11:30]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[D&C 88#^dc-88-66|D&C 88:66]]
-- [[D&C 76]] — 4 parallel verses, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[D&C 76#^dc-76-23|D&C 76:23]]
-- [[Matthew 3]] — 2 parallel verses, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
-- [[Luke 3]] — 2 parallel verses, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
-- [[Moses 5]] — 2 parallel verses, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[Moses 5#^moses-5-7|Moses 5:7]]
 - [[D&C 84]] — 2 parallel verses, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[D&C 84#^dc-84-28|D&C 84:28]]
 - [[Alma 5]] — 1 parallel verse, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[Alma 9#^alma-9-26|Alma 9:26]]
+- [[Matthew 3]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
+- [[Luke 3]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 4
 slug: ruth-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

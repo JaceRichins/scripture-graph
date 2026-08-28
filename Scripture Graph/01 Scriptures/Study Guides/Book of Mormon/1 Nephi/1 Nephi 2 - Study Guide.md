@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 2
 slug: 1ne-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 1]] — 6 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
-- [[1 Nephi 17]] — 6 parallel verses, e.g. [[1 Nephi 2#^1ne-2-19|1 Nephi 2:19]] ↔ [[1 Nephi 17#^1ne-17-8|1 Nephi 17:8]]
-- [[1 Nephi 7]] — 7 parallel verses, e.g. [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]] ↔ [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]]
+- [[2 Nephi 1]] — 5 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]] ↔ [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Ether 2]] — 4 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
-- [[Ether 1]] — 5 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[Ether 1#^ether-1-38|Ether 1:38]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
-- [[Alma 50]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
-- [[1 Nephi 4]] — 4 parallel verses, e.g. [[1 Nephi 2#^1ne-2-10|1 Nephi 2:10]] ↔ [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]]
-- [[1 Nephi 19]] — 5 parallel verses, e.g. [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]] ↔ [[1 Nephi 19#^1ne-19-1|1 Nephi 19:1]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Ether 4#^ether-4-1|Ether 4:1]]
+- [[1 Nephi 17]] — 4 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]]
+- [[Ether 2]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
+- [[Alma 50]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Mormon 3#^morm-3-15|Mormon 3:15]]
+- [[Moroni 9]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-18|1 Nephi 2:18]] ↔ [[Moroni 9#^moro-9-10|Moroni 9:10]]
+- [[2 Nephi 4]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[Ether 1#^ether-1-38|Ether 1:38]]
+- [[1 Nephi 7]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]] ↔ [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

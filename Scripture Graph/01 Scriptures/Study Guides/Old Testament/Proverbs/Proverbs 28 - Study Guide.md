@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 28
 slug: prov-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 19]] — 2 parallel verses, e.g. [[Proverbs 28#^prov-28-6|Proverbs 28:6]] ↔ [[Proverbs 19#^prov-19-1|Proverbs 19:1]]
 - [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 28#^prov-28-6|Proverbs 28:6]] ↔ [[Proverbs 14#^prov-14-2|Proverbs 14:2]]
-- [[Proverbs 29]] — 1 parallel verse, e.g. [[Proverbs 28#^prov-28-25|Proverbs 28:25]] ↔ [[Proverbs 29#^prov-29-25|Proverbs 29:25]]
+- [[Proverbs 19]] — 1 parallel verse, e.g. [[Proverbs 28#^prov-28-6|Proverbs 28:6]] ↔ [[Proverbs 19#^prov-19-1|Proverbs 19:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

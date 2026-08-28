@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 3
 slug: rev-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 2]] — 26 parallel verses, e.g. [[Revelation 3#^rev-3-6|Revelation 3:6]] ↔ [[Revelation 2#^rev-2-7|Revelation 2:7]]
+- [[Revelation 2]] — 22 parallel verses, e.g. [[Revelation 3#^rev-3-6|Revelation 3:6]] ↔ [[Revelation 2#^rev-2-7|Revelation 2:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

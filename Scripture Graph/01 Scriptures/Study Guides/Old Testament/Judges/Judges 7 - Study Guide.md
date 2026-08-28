@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 7
 slug: judg-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 6]] — 3 parallel verses, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[Judges 6#^judg-6-25|Judges 6:25]]
-- [[Judges 9]] — 3 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
-- [[1 Samuel 14]] — 3 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]]
-- [[1 Samuel 30]] — 3 parallel verses, e.g. [[Judges 7#^judg-7-19|Judges 7:19]] ↔ [[1 Samuel 30#^1sam-30-9|1 Samuel 30:9]]
-- [[2 Samuel 17]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[2 Samuel 17#^2sam-17-22|2 Samuel 17:22]]
-- [[Jeremiah 36]] — 3 parallel verses, e.g. [[Judges 7#^judg-7-3|Judges 7:3]] ↔ [[Jeremiah 36#^jer-36-6|Jeremiah 36:6]]
+- [[Judges 6]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[Judges 6#^judg-6-25|Judges 6:25]]
+- [[Judges 9]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[1 Chronicles 17]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[1 Chronicles 17#^1chr-17-3|1 Chronicles 17:3]]
-- [[Acts 9]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[Acts 9#^acts-9-6|Acts 9:6]]
-- [[Genesis 35]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Genesis 35#^gen-35-6|Genesis 35:6]]
-- [[Judges 4]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Judges 4#^judg-4-13|Judges 4:13]]
-- [[2 Samuel 16]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
-- [[Judges 12]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-24|Judges 7:24]] ↔ [[Judges 12#^judg-12-1|Judges 12:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

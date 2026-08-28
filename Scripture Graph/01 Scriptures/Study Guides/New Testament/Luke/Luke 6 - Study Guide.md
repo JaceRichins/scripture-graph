@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,17 +45,13 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Matthew 7]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[Matthew 7#^matt-7-3|Matthew 7:3]]
-- [[3 Nephi 14]] — 9 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]]
-- [[Mark 3]] — 5 parallel verses, e.g. [[Luke 6#^luke-6-10|Luke 6:10]] ↔ [[Mark 3#^mark-3-5|Mark 3:5]]
-- [[Matthew 12]] — 5 parallel verses, e.g. [[Luke 6#^luke-6-45|Luke 6:45]] ↔ [[Matthew 12#^matt-12-35|Matthew 12:35]]
+- [[3 Nephi 14]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]]
 - [[Mark 2]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-4|Luke 6:4]] ↔ [[Mark 2#^mark-2-26|Mark 2:26]]
-- [[Matthew 5]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-28|Luke 6:28]] ↔ [[Matthew 5#^matt-5-44|Matthew 5:44]]
-- [[Matthew 10]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-40|Luke 6:40]] ↔ [[Matthew 10#^matt-10-24|Matthew 10:24]]
+- [[Mark 3]] — 4 parallel verses, e.g. [[Luke 6#^luke-6-10|Luke 6:10]] ↔ [[Mark 3#^mark-3-5|Mark 3:5]]
+- [[Matthew 12]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-45|Luke 6:45]] ↔ [[Matthew 12#^matt-12-35|Matthew 12:35]]
+- [[Matthew 5]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-28|Luke 6:28]] ↔ [[Matthew 5#^matt-5-44|Matthew 5:44]]
 - [[Mark 1]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-12|Luke 6:12]] ↔ [[Mark 1#^mark-1-9|Mark 1:9]]
-- [[Acts 1]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-15|Luke 6:15]] ↔ [[Acts 1#^acts-1-13|Acts 1:13]]
 - [[Acts 5]] — 1 parallel verse, e.g. [[Luke 6#^luke-6-18|Luke 6:18]] ↔ [[Acts 5#^acts-5-16|Acts 5:16]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-1|Luke 6:1]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
-- [[Judges 19]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-1|Luke 6:1]] ↔ [[Judges 19#^judg-19-5|Judges 19:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

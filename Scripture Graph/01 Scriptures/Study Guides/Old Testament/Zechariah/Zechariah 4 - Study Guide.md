@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 4
 slug: zech-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Zechariah 2]] — 5 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 2#^zech-2-11|Zechariah 2:11]]
-- [[Zechariah 1]] — 9 parallel verses, e.g. [[Zechariah 4#^zech-4-1|Zechariah 4:1]] ↔ [[Zechariah 1#^zech-1-9|Zechariah 1:9]]
-- [[Zechariah 5]] — 7 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Zechariah 5#^zech-5-2|Zechariah 5:2]]
-- [[Zechariah 6]] — 5 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
-- [[Jeremiah 1]] — 4 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]]
-- [[Ezekiel 22]] — 3 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]]
-- [[Ezekiel 24]] — 3 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
-- [[Ezekiel 17]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 17#^ezek-17-11|Ezekiel 17:11]]
-- [[Ezekiel 28]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 28#^ezek-28-11|Ezekiel 28:11]]
-- [[Ezekiel 21]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 21#^ezek-21-1|Ezekiel 21:1]]
-- [[Ezekiel 29]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]]
-- [[Ezekiel 32]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-8|Zechariah 4:8]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
+- [[Zechariah 2]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 2#^zech-2-11|Zechariah 2:11]]
+- [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
+- [[Zechariah 5]] — 3 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Zechariah 5#^zech-5-2|Zechariah 5:2]]
+- [[Jeremiah 1]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

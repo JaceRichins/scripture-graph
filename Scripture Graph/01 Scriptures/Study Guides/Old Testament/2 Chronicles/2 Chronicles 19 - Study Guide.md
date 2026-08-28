@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 19
 slug: 2chr-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

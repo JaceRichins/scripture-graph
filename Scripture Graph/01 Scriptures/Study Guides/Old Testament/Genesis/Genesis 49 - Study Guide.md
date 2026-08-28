@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Genesis 50]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 50#^gen-50-13|Genesis 50:13]]
-- [[Genesis 23]] — 2 parallel verses, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 23#^gen-23-9|Genesis 23:9]]
-- [[Genesis 25]] — 2 parallel verses, e.g. [[Genesis 49#^gen-49-29|Genesis 49:29]] ↔ [[Genesis 25#^gen-25-9|Genesis 25:9]]
-- [[Deuteronomy 33]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-26|Genesis 49:26]] ↔ [[Deuteronomy 33#^deut-33-16|Deuteronomy 33:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

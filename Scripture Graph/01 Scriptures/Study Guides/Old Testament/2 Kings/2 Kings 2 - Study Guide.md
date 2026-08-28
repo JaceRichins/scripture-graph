@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 2
 slug: 2kgs-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 4]] — 6 parallel verses, e.g. [[2 Kings 2#^2kgs-2-6|2 Kings 2:6]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]
+- [[2 Kings 4]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-6|2 Kings 2:6]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]
 - [[1 Samuel 20]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]]
 - [[1 Samuel 25]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]]
-- [[2 Samuel 11]] — 4 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[2 Samuel 11#^2sam-11-11|2 Samuel 11:11]]
-- [[2 Samuel 15]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 15#^2sam-15-21|2 Samuel 15:21]]
+- [[2 Samuel 11]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[2 Samuel 11#^2sam-11-11|2 Samuel 11:11]]
 - [[Matthew 15]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-3|2 Kings 2:3]] ↔ [[Matthew 15#^matt-15-12|Matthew 15:12]]
 - [[2 Kings 13]] — 1 parallel verse, e.g. [[2 Kings 2#^2kgs-2-12|2 Kings 2:12]] ↔ [[2 Kings 13#^2kgs-13-14|2 Kings 13:14]]
-- [[2 Kings 5]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-7|2 Kings 2:7]] ↔ [[2 Kings 5#^2kgs-5-22|2 Kings 5:22]]
-- [[2 Kings 6]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-9|2 Kings 2:9]] ↔ [[2 Kings 6#^2kgs-6-20|2 Kings 6:20]]
-- [[Numbers 16]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[Numbers 16#^num-16-28|Numbers 16:28]]
+- [[2 Samuel 15]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 15#^2sam-15-21|2 Samuel 15:21]]
 - [[2 Samuel 14]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]
-- [[1 Nephi 3]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[1 Nephi 3#^1ne-3-15|1 Nephi 3:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

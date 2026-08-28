@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,17 +40,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]]
-- [[1 Nephi 11]] — 3 parallel verses, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[1 Nephi 11#^1ne-11-24|1 Nephi 11:24]]
-- [[Luke 22]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-9|Mosiah 17:9]] ↔ [[Luke 22#^luke-22-16|Luke 22:16]]
 - [[Alma 39]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]] ↔ [[Alma 39#^alma-39-8|Alma 39:8]]
-- [[Mosiah 11]] — 3 parallel verses, e.g. [[Mosiah 17#^mosiah-17-1|Mosiah 17:1]] ↔ [[Mosiah 11#^mosiah-11-26|Mosiah 11:26]]
-- [[Mosiah 3]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-9|Mosiah 17:9]] ↔ [[Mosiah 3#^mosiah-3-22|Mosiah 3:22]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[Mosiah 4#^mosiah-4-2|Mosiah 4:2]]
-- [[Mosiah 7]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[Mosiah 7#^mosiah-7-27|Mosiah 7:27]]
-- [[3 Nephi 11]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-9|Mosiah 17:9]] ↔ [[3 Nephi 11#^3ne-11-41|3 Nephi 11:41]]
-- [[Alma 11]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-9|Mosiah 17:9]] ↔ [[Alma 11#^alma-11-34|Alma 11:34]]
-- [[3 Nephi 16]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-3|Mosiah 17:3]] ↔ [[3 Nephi 16#^3ne-16-9|3 Nephi 16:9]]
-- [[2 Nephi 25]] — 2 parallel verses, e.g. [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]] ↔ [[2 Nephi 25#^2ne-25-28|2 Nephi 25:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 10
 slug: ether-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ether 9]] — 9 parallel verses, e.g. [[Ether 10#^ether-10-17|Ether 10:17]] ↔ [[Ether 9#^ether-9-21|Ether 9:21]]
-- [[Ether 11]] — 10 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[Ether 11#^ether-11-4|Ether 11:4]]
-- [[Moses 6]] — 9 parallel verses, e.g. [[Ether 10#^ether-10-29|Ether 10:29]] ↔ [[Moses 6#^moses-6-19|Moses 6:19]]
-- [[Genesis 5]] — 10 parallel verses, e.g. [[Ether 10#^ether-10-2|Ether 10:2]] ↔ [[Genesis 5#^gen-5-4|Genesis 5:4]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
-- [[Ether 7]] — 7 parallel verses, e.g. [[Ether 10#^ether-10-10|Ether 10:10]] ↔ [[Ether 7#^ether-7-22|Ether 7:22]]
-- [[Genesis 11]] — 8 parallel verses, e.g. [[Ether 10#^ether-10-29|Ether 10:29]] ↔ [[Genesis 11#^gen-11-11|Genesis 11:11]]
-- [[2 Kings 12]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 12#^2kgs-12-2|2 Kings 12:2]]
-- [[2 Chronicles 24]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Chronicles 24#^2chr-24-2|2 Chronicles 24:2]]
+- [[Ether 9]] — 5 parallel verses, e.g. [[Ether 10#^ether-10-17|Ether 10:17]] ↔ [[Ether 9#^ether-9-21|Ether 9:21]]
+- [[Moses 6]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-29|Ether 10:29]] ↔ [[Moses 6#^moses-6-19|Moses 6:19]]
+- [[2 Kings 12]] — 3 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 12#^2kgs-12-2|2 Kings 12:2]]
 - [[2 Chronicles 27]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
-- [[Helaman 3]] — 3 parallel verses, e.g. [[Ether 10#^ether-10-5|Ether 10:5]] ↔ [[Helaman 3#^hel-3-20|Helaman 3:20]]
-- [[2 Kings 14]] — 3 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
+- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-23|Ether 10:23]] ↔ [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]]
+- [[2 Kings 22]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
+- [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
+- [[Helaman 3]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-5|Ether 10:5]] ↔ [[Helaman 3#^hel-3-20|Helaman 3:20]]
+- [[2 Kings 14]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
+- [[2 Kings 18]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
+- [[2 Chronicles 25]] — 2 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

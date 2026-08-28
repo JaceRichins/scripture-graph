@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 12
 slug: 2chr-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 14]] — 9 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
-- [[2 Kings 15]] — 8 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
-- [[1 Kings 15]] — 8 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-9|2 Chronicles 12:9]] ↔ [[1 Kings 15#^1kgs-15-18|1 Kings 15:18]]
-- [[2 Kings 24]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-9|2 Chronicles 12:9]] ↔ [[2 Kings 24#^2kgs-24-13|2 Kings 24:13]]
-- [[2 Chronicles 36]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-9|2 Chronicles 12:9]] ↔ [[2 Chronicles 36#^2chr-36-18|2 Chronicles 36:18]]
-- [[2 Kings 21]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
-- [[2 Kings 14]] — 7 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
+- [[1 Kings 14]] — 8 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
+- [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
+- [[2 Chronicles 36]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
+- [[2 Kings 24]] — 4 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
+- [[2 Kings 21]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
+- [[1 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-9|2 Chronicles 12:9]] ↔ [[1 Kings 15#^1kgs-15-18|1 Kings 15:18]]
+- [[2 Kings 14]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
 - [[1 Kings 16]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]] ↔ [[1 Kings 16#^1kgs-16-6|1 Kings 16:6]]
-- [[1 Kings 22]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
-- [[2 Kings 8]] — 4 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]] ↔ [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]]
 - [[2 Kings 23]] — 3 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
-- [[2 Chronicles 21]] — 3 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]] ↔ [[2 Chronicles 21#^2chr-21-1|2 Chronicles 21:1]]
+- [[2 Kings 8]] — 4 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 8#^2kgs-8-26|2 Kings 8:26]]
+- [[1 Kings 22]] — 4 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
+- [[2 Chronicles 25]] — 3 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

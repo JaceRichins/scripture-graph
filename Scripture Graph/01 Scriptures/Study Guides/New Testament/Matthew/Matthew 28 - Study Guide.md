@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,12 +41,10 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 20]] — 2 parallel verses, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[Moses 7]] — 3 parallel verses, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
-- [[Mark 16]] — 3 parallel verses, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
-- [[John 20]] — 2 parallel verses, e.g. [[Matthew 28#^matt-28-1|Matthew 28:1]] ↔ [[John 20#^john-20-1|John 20:1]]
-- [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Matthew 27#^matt-27-64|Matthew 27:64]]
+- [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Judges 19]] — 1 parallel verse, e.g. [[1 Samuel 3#^1sam-3-15|1 Samuel 3:15]] ↔ [[Judges 19#^judg-19-27|Judges 19:27]]
-- [[2 Chronicles 29]] — 2 parallel verses, e.g. [[1 Samuel 3#^1sam-3-15|1 Samuel 3:15]] ↔ [[2 Chronicles 29#^2chr-29-3|2 Chronicles 29:3]]
-- [[2 Samuel 24]] — 2 parallel verses, e.g. [[1 Samuel 3#^1sam-3-20|1 Samuel 3:20]] ↔ [[2 Samuel 24#^2sam-24-2|2 Samuel 24:2]]
-- [[Genesis 39]] — 2 parallel verses, e.g. [[1 Samuel 3#^1sam-3-19|1 Samuel 3:19]] ↔ [[Genesis 39#^gen-39-3|Genesis 39:3]]
-- [[Zechariah 6]] — 2 parallel verses, e.g. [[1 Samuel 3#^1sam-3-3|1 Samuel 3:3]] ↔ [[Zechariah 6#^zech-6-14|Zechariah 6:14]]
-- [[1 Kings 11]] — 1 parallel verse, e.g. [[1 Samuel 3#^1sam-3-2|1 Samuel 3:2]] ↔ [[1 Kings 11#^1kgs-11-29|1 Kings 11:29]]
-- [[1 Samuel 18]] — 2 parallel verses, e.g. [[1 Samuel 3#^1sam-3-19|1 Samuel 3:19]] ↔ [[1 Samuel 18#^1sam-18-14|1 Samuel 18:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

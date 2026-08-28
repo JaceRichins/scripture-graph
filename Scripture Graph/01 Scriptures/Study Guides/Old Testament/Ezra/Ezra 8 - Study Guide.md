@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 8
 slug: ezra-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,17 +42,11 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Joshua 6]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[Joshua 6#^josh-6-24|Joshua 6:24]]
-- [[Nehemiah 10]] — 6 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]]
 - [[1 Kings 7]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]]
-- [[Ezra 10]] — 4 parallel verses, e.g. [[Ezra 8#^ezra-8-28|Ezra 8:28]] ↔ [[Ezra 10#^ezra-10-11|Ezra 10:11]]
-- [[Ezra 3]] — 5 parallel verses, e.g. [[Ezra 8#^ezra-8-18|Ezra 8:18]] ↔ [[Ezra 3#^ezra-3-9|Ezra 3:9]]
 - [[Isaiah 39]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[Isaiah 39#^isa-39-2|Isaiah 39:2]]
 - [[2 Kings 20]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]]
-- [[Ezra 7]] — 4 parallel verses, e.g. [[Ezra 8#^ezra-8-29|Ezra 8:29]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
-- [[2 Chronicles 29]] — 4 parallel verses, e.g. [[Ezra 8#^ezra-8-28|Ezra 8:28]] ↔ [[2 Chronicles 29#^2chr-29-5|2 Chronicles 29:5]]
-- [[2 Chronicles 5]] — 4 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[2 Chronicles 5#^2chr-5-1|2 Chronicles 5:1]]
-- [[Ezra 4]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-36|Ezra 8:36]] ↔ [[Ezra 4#^ezra-4-10|Ezra 4:10]]
-- [[2 Chronicles 17]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-9|Ezra 8:9]] ↔ [[2 Chronicles 17#^2chr-17-15|2 Chronicles 17:15]]
+- [[Ezra 10]] — 2 parallel verses, e.g. [[Ezra 8#^ezra-8-28|Ezra 8:28]] ↔ [[Ezra 10#^ezra-10-11|Ezra 10:11]]
+- [[Esther 3]] — 1 parallel verse, e.g. [[Ezra 8#^ezra-8-36|Ezra 8:36]] ↔ [[Esther 3#^esth-3-12|Esther 3:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

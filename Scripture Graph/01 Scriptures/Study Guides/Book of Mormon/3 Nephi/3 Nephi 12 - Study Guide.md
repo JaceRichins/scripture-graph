@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 12
 slug: 3ne-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 5]] — 51 parallel verses, e.g. [[3 Nephi 12#^3ne-12-22|3 Nephi 12:22]] ↔ [[Matthew 5#^matt-5-22|Matthew 5:22]]
-- [[3 Nephi 18]] — 11 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]]
+- [[Matthew 5]] — 43 parallel verses, e.g. [[3 Nephi 12#^3ne-12-22|3 Nephi 12:22]] ↔ [[Matthew 5#^matt-5-22|Matthew 5:22]]
+- [[3 Nephi 18]] — 7 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]]
 - [[D&C 124]] — 6 parallel verses, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
-- [[D&C 38]] — 5 parallel verses, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
-- [[D&C 42]] — 5 parallel verses, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 42#^dc-42-4|D&C 42:4]]
-- [[D&C 90]] — 4 parallel verses, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
 - [[3 Nephi 9]] — 3 parallel verses, e.g. [[3 Nephi 12#^3ne-12-19|3 Nephi 12:19]] ↔ [[3 Nephi 9#^3ne-9-20|3 Nephi 9:20]]
-- [[3 Nephi 14]] — 5 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
-- [[3 Nephi 13]] — 4 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 - [[3 Nephi 16]] — 1 parallel verse, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]]
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 11#^3ne-11-12|3 Nephi 11:12]]
-- [[D&C 103]] — 2 parallel verses, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 103#^dc-103-10|D&C 103:10]]
+- [[D&C 38]] — 3 parallel verses, e.g. [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
+- [[D&C 42]] — 3 parallel verses, e.g. [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]] ↔ [[D&C 42#^dc-42-58|D&C 42:58]]
+- [[D&C 90]] — 3 parallel verses, e.g. [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
+- [[3 Nephi 13]] — 2 parallel verses, e.g. [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[D&C 103]] — 1 parallel verse, e.g. [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]] ↔ [[D&C 103#^dc-103-10|D&C 103:10]]
+- [[D&C 49]] — 2 parallel verses, e.g. [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

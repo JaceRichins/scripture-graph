@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 10]] — 5 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]]
+- [[2 Nephi 10]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]]
 - [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
 - [[D&C 39]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[D&C 39#^dc-39-11|D&C 39:11]]
-- [[2 Nephi 27]] — 4 parallel verses, e.g. [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]] ↔ [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]]
 - [[3 Nephi 23]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[3 Nephi 23#^3ne-23-2|3 Nephi 23:2]]
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-14|2 Nephi 29:14]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
-- [[1 Nephi 22]] — 5 parallel verses, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]]
-- [[Mormon 9]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]] ↔ [[Mormon 9#^morm-9-9|Mormon 9:9]]
-- [[3 Nephi 21]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-14|2 Nephi 29:14]] ↔ [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]]
-- [[D&C 45]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[D&C 45#^dc-45-40|D&C 45:40]]
+- [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]] ↔ [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]]
 - [[Abraham 3]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[Abraham 3#^abr-3-21|Abraham 3:21]]
-- [[3 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-11|2 Nephi 29:11]] ↔ [[3 Nephi 27#^3ne-27-26|3 Nephi 27:26]]
+- [[1 Nephi 22]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[D&C 45#^dc-45-40|D&C 45:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

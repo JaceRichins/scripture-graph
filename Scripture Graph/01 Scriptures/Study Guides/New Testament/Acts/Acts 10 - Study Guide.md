@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Acts 11]] — 4 parallel verses, e.g. [[Acts 10#^acts-10-12|Acts 10:12]] ↔ [[Acts 11#^acts-11-6|Acts 11:6]]
-- [[D&C 49]] — 2 parallel verses, e.g. [[Acts 10#^acts-10-45|Acts 10:45]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

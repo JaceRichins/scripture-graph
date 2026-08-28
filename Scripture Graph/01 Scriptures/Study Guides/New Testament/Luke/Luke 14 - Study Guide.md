@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,14 +39,12 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Luke 18]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-11|Luke 14:11]] ↔ [[Luke 18#^luke-18-14|Luke 18:14]]
 - [[Matthew 5]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
-- [[Mark 4]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Mark 4#^mark-4-9|Mark 4:9]]
 - [[Mark 9]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Mark 9#^mark-9-50|Mark 9:50]]
 - [[Matthew 13]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Matthew 13#^matt-13-9|Matthew 13:9]]
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Matthew 11#^matt-11-15|Matthew 11:15]]
+- [[Mark 4]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Mark 4#^mark-4-9|Mark 4:9]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Luke 8#^luke-8-8|Luke 8:8]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-3|Luke 14:3]] ↔ [[Matthew 12#^matt-12-10|Matthew 12:10]]
-- [[Luke 6]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-1|Luke 14:1]] ↔ [[Luke 6#^luke-6-4|Luke 6:4]]
-- [[D&C 101]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-11|Luke 14:11]] ↔ [[D&C 101#^dc-101-42|D&C 101:42]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

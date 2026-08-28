@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 47
 slug: ezek-47
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 3]] — 4 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 3#^ezek-3-3|Ezekiel 3:3]]
-- [[Ezekiel 40]] — 4 parallel verses, e.g. [[Ezekiel 47#^ezek-47-12|Ezekiel 47:12]] ↔ [[Ezekiel 40#^ezek-40-34|Ezekiel 40:34]]
+- [[Ezekiel 3]] — 4 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-14|Ezekiel 47:14]] ↔ [[Ezekiel 20#^ezek-20-28|Ezekiel 20:28]]
+- [[Ezekiel 40]] — 3 parallel verses, e.g. [[Ezekiel 47#^ezek-47-12|Ezekiel 47:12]] ↔ [[Ezekiel 40#^ezek-40-34|Ezekiel 40:34]]
 - [[Ezekiel 41]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-7|Ezekiel 47:7]] ↔ [[Ezekiel 41#^ezek-41-26|Ezekiel 41:26]]
-- [[Ezekiel 48]] — 3 parallel verses, e.g. [[Ezekiel 47#^ezek-47-7|Ezekiel 47:7]] ↔ [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]]
 - [[Ezekiel 2]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]]
-- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]]
-- [[Numbers 18]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-22|Ezekiel 47:22]] ↔ [[Numbers 18#^num-18-24|Numbers 18:24]]
-- [[Leviticus 17]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-22|Ezekiel 47:22]] ↔ [[Leviticus 17#^lev-17-13|Leviticus 17:13]]
-- [[Ezekiel 8]] — 1 parallel verse, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 8#^ezek-8-12|Ezekiel 8:12]]
-- [[Exodus 32]] — 1 parallel verse, e.g. [[Ezekiel 47#^ezek-47-7|Ezekiel 47:7]] ↔ [[Exodus 32#^ex-32-15|Exodus 32:15]]
+- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

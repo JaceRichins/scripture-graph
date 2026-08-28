@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 18]] — 48 parallel verses, e.g. [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]] ↔ [[Psalm 18#^ps-18-8|Psalm 18:8]]
+- [[Psalm 18]] — 42 parallel verses, e.g. [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]] ↔ [[Psalm 18#^ps-18-8|Psalm 18:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 8
 slug: 2sam-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,16 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 18]] — 17 parallel verses, e.g. [[2 Samuel 8#^2sam-8-1|2 Samuel 8:1]] ↔ [[1 Chronicles 18#^1chr-18-1|1 Chronicles 18:1]]
-- [[1 Kings 1]] — 6 parallel verses, e.g. [[2 Samuel 8#^2sam-8-18|2 Samuel 8:18]] ↔ [[1 Kings 1#^1kgs-1-44|1 Kings 1:44]]
-- [[2 Samuel 20]] — 3 parallel verses, e.g. [[2 Samuel 8#^2sam-8-16|2 Samuel 8:16]] ↔ [[2 Samuel 20#^2sam-20-24|2 Samuel 20:24]]
-- [[1 Samuel 7]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-1|2 Samuel 8:1]] ↔ [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]]
-- [[Exodus 18]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-1|2 Samuel 8:1]] ↔ [[Exodus 18#^ex-18-9|Exodus 18:9]]
-- [[1 Chronicles 20]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-12|2 Samuel 8:12]] ↔ [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]]
-- [[2 Samuel 23]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-16|2 Samuel 8:16]] ↔ [[2 Samuel 23#^2sam-23-18|2 Samuel 23:18]]
-- [[1 Kings 10]] — 1 parallel verse, e.g. [[2 Samuel 8#^2sam-8-10|2 Samuel 8:10]] ↔ [[1 Kings 10#^1kgs-10-25|1 Kings 10:25]]
-- [[2 Chronicles 9]] — 1 parallel verse, e.g. [[2 Samuel 8#^2sam-8-10|2 Samuel 8:10]] ↔ [[2 Chronicles 9#^2chr-9-24|2 Chronicles 9:24]]
-- [[1 Kings 4]] — 1 parallel verse, e.g. [[2 Samuel 8#^2sam-8-18|2 Samuel 8:18]] ↔ [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]]
+- [[1 Chronicles 18]] — 15 parallel verses, e.g. [[2 Samuel 8#^2sam-8-5|2 Samuel 8:5]] ↔ [[1 Chronicles 18#^1chr-18-5|1 Chronicles 18:5]]
+- [[2 Samuel 20]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-16|2 Samuel 8:16]] ↔ [[2 Samuel 20#^2sam-20-24|2 Samuel 20:24]]
+- [[1 Kings 1]] — 2 parallel verses, e.g. [[2 Samuel 8#^2sam-8-18|2 Samuel 8:18]] ↔ [[1 Kings 1#^1kgs-1-44|1 Kings 1:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

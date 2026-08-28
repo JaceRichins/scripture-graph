@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,17 +38,14 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Genesis 16]] — 9 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
-- [[Numbers 22]] — 8 parallel verses, e.g. [[Judges 13#^judg-13-18|Judges 13:18]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
-- [[Judges 6]] — 5 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]
+- [[Numbers 22]] — 7 parallel verses, e.g. [[Judges 13#^judg-13-18|Judges 13:18]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
+- [[Judges 6]] — 4 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]
 - [[Judges 3]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 3#^judg-3-12|Judges 3:12]]
 - [[2 Kings 1]] — 3 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[2 Kings 1#^2kgs-1-15|2 Kings 1:15]]
 - [[1 Nephi 13]] — 3 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
-- [[Genesis 19]] — 3 parallel verses, e.g. [[Judges 13#^judg-13-24|Judges 13:24]] ↔ [[Genesis 19#^gen-19-37|Genesis 19:37]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 10#^judg-10-6|Judges 10:6]]
-- [[Genesis 38]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-24|Judges 13:24]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
-- [[1 Samuel 7]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-5|Judges 13:5]] ↔ [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]]
-- [[1 Samuel 1]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-24|Judges 13:24]] ↔ [[1 Samuel 1#^1sam-1-20|1 Samuel 1:20]]
-- [[Exodus 3]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-3|Judges 13:3]] ↔ [[Exodus 3#^ex-3-2|Exodus 3:2]]
+- [[Genesis 19]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-24|Judges 13:24]] ↔ [[Genesis 19#^gen-19-37|Genesis 19:37]]
+- [[Joshua 11]] — 1 parallel verse, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Joshua 11#^josh-11-8|Joshua 11:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

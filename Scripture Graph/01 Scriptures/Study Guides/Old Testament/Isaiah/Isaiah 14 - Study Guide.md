@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,8 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 24]] — 34 parallel verses, e.g. [[Isaiah 14#^isa-14-9|Isaiah 14:9]] ↔ [[2 Nephi 24#^2ne-24-9|2 Nephi 24:9]]
-- [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 14#^isa-14-21|Isaiah 14:21]] ↔ [[Isaiah 27#^isa-27-6|Isaiah 27:6]]
+- [[2 Nephi 24]] — 32 parallel verses, e.g. [[Isaiah 14#^isa-14-9|Isaiah 14:9]] ↔ [[2 Nephi 24#^2ne-24-9|2 Nephi 24:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

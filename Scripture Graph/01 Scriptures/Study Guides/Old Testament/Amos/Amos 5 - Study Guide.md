@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 5
 slug: amos-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Amos 9]] — 1 parallel verse, e.g. [[Amos 5#^amos-5-8|Amos 5:8]] ↔ [[Amos 9#^amos-9-6|Amos 9:6]]
-- [[Amos 6]] — 4 parallel verses, e.g. [[Amos 5#^amos-5-14|Amos 5:14]] ↔ [[Amos 6#^amos-6-8|Amos 6:8]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-4|Amos 5:4]] ↔ [[1 Nephi 14#^1ne-14-5|1 Nephi 14:5]]
-- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-16|Amos 5:16]] ↔ [[Jeremiah 38#^jer-38-17|Jeremiah 38:17]]
-- [[Jeremiah 44]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-16|Amos 5:16]] ↔ [[Jeremiah 44#^jer-44-7|Jeremiah 44:7]]
-- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-18|Amos 5:18]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
-- [[Amos 4]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-14|Amos 5:14]] ↔ [[Amos 4#^amos-4-13|Amos 4:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

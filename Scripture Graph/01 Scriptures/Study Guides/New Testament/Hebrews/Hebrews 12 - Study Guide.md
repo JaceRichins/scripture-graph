@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 12
 slug: heb-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,9 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 76]] — 4 parallel verses, e.g. [[Hebrews 12#^heb-12-22|Hebrews 12:22]] ↔ [[D&C 76#^dc-76-66|D&C 76:66]]
+- [[D&C 76]] — 3 parallel verses, e.g. [[Hebrews 12#^heb-12-22|Hebrews 12:22]] ↔ [[D&C 76#^dc-76-66|D&C 76:66]]
 - [[D&C 107]] — 2 parallel verses, e.g. [[Hebrews 12#^heb-12-23|Hebrews 12:23]] ↔ [[D&C 107#^dc-107-19|D&C 107:19]]
-- [[D&C 81]] — 1 parallel verse, e.g. [[Hebrews 12#^heb-12-12|Hebrews 12:12]] ↔ [[D&C 81#^dc-81-5|D&C 81:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[John 8]] — 3 parallel verses, e.g. [[John 9#^john-9-12|John 9:12]] ↔ [[John 8#^john-8-19|John 8:19]]
-- [[Luke 19]] — 2 parallel verses, e.g. [[John 9#^john-9-16|John 9:16]] ↔ [[Luke 19#^luke-19-7|Luke 19:7]]
+- [[John 8]] — 2 parallel verses, e.g. [[John 9#^john-9-12|John 9:12]] ↔ [[John 8#^john-8-19|John 8:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

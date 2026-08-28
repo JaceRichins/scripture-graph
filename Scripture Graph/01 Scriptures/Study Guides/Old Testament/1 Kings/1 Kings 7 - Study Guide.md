@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 7
 slug: 1kgs-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 4]] — 18 parallel verses, e.g. [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]] ↔ [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]]
+- [[2 Chronicles 4]] — 16 parallel verses, e.g. [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]] ↔ [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]]
 - [[Ezra 8]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]] ↔ [[Ezra 8#^ezra-8-25|Ezra 8:25]]
 - [[1 Kings 6]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]] ↔ [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]]
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]] ↔ [[2 Chronicles 5#^2chr-5-1|2 Chronicles 5:1]]
-- [[Ezekiel 40]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-6|1 Kings 7:6]] ↔ [[Ezekiel 40#^ezek-40-21|Ezekiel 40:21]]
-- [[2 Kings 25]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-45|1 Kings 7:45]] ↔ [[2 Kings 25#^2kgs-25-14|2 Kings 25:14]]
-- [[1 Kings 10]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]] ↔ [[1 Kings 10#^1kgs-10-17|1 Kings 10:17]]
-- [[Exodus 38]] — 2 parallel verses, e.g. [[1 Kings 7#^1kgs-7-45|1 Kings 7:45]] ↔ [[Exodus 38#^ex-38-3|Exodus 38:3]]
-- [[Isaiah 2]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-12|1 Kings 7:12]] ↔ [[Isaiah 2#^isa-2-10|Isaiah 2:10]]
 - [[2 Chronicles 9]] — 2 parallel verses, e.g. [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]] ↔ [[2 Chronicles 9#^2chr-9-16|2 Chronicles 9:16]]
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[1 Kings 7#^1kgs-7-50|1 Kings 7:50]] ↔ [[Jeremiah 52#^jer-52-19|Jeremiah 52:19]]
-- [[Numbers 4]] — 2 parallel verses, e.g. [[1 Kings 7#^1kgs-7-40|1 Kings 7:40]] ↔ [[Numbers 4#^num-4-14|Numbers 4:14]]
+- [[1 Kings 10]] — 2 parallel verses, e.g. [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]] ↔ [[1 Kings 10#^1kgs-10-17|1 Kings 10:17]]
+- [[Exodus 38]] — 1 parallel verse, e.g. [[1 Kings 7#^1kgs-7-45|1 Kings 7:45]] ↔ [[Exodus 38#^ex-38-3|Exodus 38:3]]
+- [[Ezekiel 40]] — 1 parallel verse, e.g. [[1 Kings 7#^1kgs-7-6|1 Kings 7:6]] ↔ [[Ezekiel 40#^ezek-40-21|Ezekiel 40:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

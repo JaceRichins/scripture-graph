@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 7
 slug: 2cor-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

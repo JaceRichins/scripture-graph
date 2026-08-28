@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 10
 slug: ezra-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezra 8]] — 4 parallel verses, e.g. [[Ezra 10#^ezra-10-11|Ezra 10:11]] ↔ [[Ezra 8#^ezra-8-28|Ezra 8:28]]
-- [[Ezra 3]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-18|Ezra 10:18]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
+- [[Ezra 8]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-11|Ezra 10:11]] ↔ [[Ezra 8#^ezra-8-28|Ezra 8:28]]
 - [[2 Chronicles 29]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-17|Ezra 10:17]] ↔ [[2 Chronicles 29#^2chr-29-17|2 Chronicles 29:17]]
-- [[D&C 104]] — 3 parallel verses, e.g. [[Ezra 10#^ezra-10-3|Ezra 10:3]] ↔ [[D&C 104#^dc-104-21|D&C 104:21]]
-- [[Nehemiah 12]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-18|Ezra 10:18]] ↔ [[Nehemiah 12#^neh-12-26|Nehemiah 12:26]]
-- [[Ezra 9]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-8|Ezra 10:8]] ↔ [[Ezra 9#^ezra-9-4|Ezra 9:4]]
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-2|Ezra 10:2]] ↔ [[Jeremiah 52#^jer-52-25|Jeremiah 52:25]]
-- [[Numbers 4]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-16|Ezra 10:16]] ↔ [[Numbers 4#^num-4-34|Numbers 4:34]]
-- [[Ezra 6]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-16|Ezra 10:16]] ↔ [[Ezra 6#^ezra-6-19|Ezra 6:19]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-2|Ezra 10:2]] ↔ [[2 Kings 23#^2kgs-23-35|2 Kings 23:35]]
-- [[2 Kings 25]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-2|Ezra 10:2]] ↔ [[2 Kings 25#^2kgs-25-19|2 Kings 25:19]]
-- [[Exodus 3]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-11|Ezra 10:11]] ↔ [[Exodus 3#^ex-3-15|Exodus 3:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

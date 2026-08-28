@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 23]] — 5 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
-- [[Mormon 4]] — 5 parallel verses, e.g. [[Mosiah 21#^mosiah-21-17|Mosiah 21:17]] ↔ [[Mormon 4#^morm-4-17|Mormon 4:17]]
-- [[Mosiah 18]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]]
-- [[Alma 43]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
-- [[Mosiah 6]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 6#^mosiah-6-1|Mosiah 6:1]]
 - [[Mosiah 8]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]]
-- [[Mosiah 19]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 19#^mosiah-19-24|Mosiah 19:24]]
-- [[Alma 3]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]] ↔ [[Alma 3#^alma-3-21|Alma 3:21]]
-- [[Alma 44]] — 4 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Alma 44#^alma-44-20|Alma 44:20]]
-- [[Alma 2]] — 3 parallel verses, e.g. [[Mosiah 21#^mosiah-21-14|Mosiah 21:14]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
+- [[Mosiah 23]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
 - [[4 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]
-- [[Alma 25]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-23|Mosiah 21:23]] ↔ [[Alma 25#^alma-25-7|Alma 25:7]]
+- [[Mosiah 18]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]]
+- [[Alma 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]] ↔ [[Alma 3#^alma-3-21|Alma 3:21]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
+- [[3 Nephi 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]] ↔ [[3 Nephi 3#^3ne-3-25|3 Nephi 3:25]]
+- [[Alma 2]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-14|Mosiah 21:14]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

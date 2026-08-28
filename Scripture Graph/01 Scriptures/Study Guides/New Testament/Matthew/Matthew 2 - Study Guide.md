@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,7 +44,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 27]] — 4 parallel verses, e.g. [[Matthew 2#^matt-2-17|Matthew 2:17]] ↔ [[Matthew 27#^matt-27-9|Matthew 27:9]]
+- [[Matthew 27]] — 3 parallel verses, e.g. [[Matthew 2#^matt-2-17|Matthew 2:17]] ↔ [[Matthew 27#^matt-27-9|Matthew 27:9]]
 - [[Matthew 1]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-15|Matthew 2:15]] ↔ [[Matthew 1#^matt-1-22|Matthew 1:22]]
 - [[Matthew 21]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
 - [[Matthew 13]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]

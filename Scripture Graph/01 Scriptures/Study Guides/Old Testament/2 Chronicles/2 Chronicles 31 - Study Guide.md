@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 31
 slug: 2chr-31
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 1]] — 16 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
-- [[Numbers 4]] — 10 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-16|2 Chronicles 31:16]] ↔ [[Numbers 4#^num-4-30|Numbers 4:30]]
-- [[1 Chronicles 28]] — 8 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 28#^1chr-28-21|1 Chronicles 28:21]]
-- [[Luke 2]] — 4 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
-- [[1 Chronicles 23]] — 4 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
-- [[2 Chronicles 35]] — 4 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[2 Chronicles 35#^2chr-35-26|2 Chronicles 35:26]]
+- [[Numbers 1]] — 14 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
+- [[Numbers 4]] — 4 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-16|2 Chronicles 31:16]] ↔ [[Numbers 4#^num-4-30|Numbers 4:30]]
+- [[1 Chronicles 28]] — 3 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 28#^1chr-28-21|1 Chronicles 28:21]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
-- [[Nehemiah 10]] — 3 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
-- [[1 Chronicles 16]] — 3 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[1 Chronicles 16#^1chr-16-40|1 Chronicles 16:40]]
-- [[Nehemiah 11]] — 3 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-13|2 Chronicles 31:13]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
-- [[Daniel 9]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
-- [[Ezra 7]] — 3 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-2|2 Chronicles 31:2]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
+- [[Nehemiah 10]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
+- [[Luke 2]] — 1 parallel verse, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
+- [[1 Chronicles 9]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-13|2 Chronicles 31:13]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
+- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
+- [[Numbers 3]] — 1 parallel verse, e.g. [[2 Chronicles 31#^2chr-31-19|2 Chronicles 31:19]] ↔ [[Numbers 3#^num-3-3|Numbers 3:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 8 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 68]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
-- [[Mormon 9]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
-- [[D&C 101]] — 5 parallel verses, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[D&C 101#^dc-101-65|D&C 101:65]]
+- [[D&C 68]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
+- [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
-- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
-- [[3 Nephi 11]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[3 Nephi 11#^3ne-11-34|3 Nephi 11:34]]
-- [[Mark 13]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[Mark 13#^mark-13-37|Mark 13:37]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
-- [[D&C 71]] — 3 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
-- [[D&C 42]] — 4 parallel verses, e.g. [[D&C 112#^dc-112-21|D&C 112:21]] ↔ [[D&C 42#^dc-42-10|D&C 42:10]]
+- [[D&C 124]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
+- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-30|D&C 112:30]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
+- [[D&C 80]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
+- [[D&C 115]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 115#^dc-115-1|D&C 115:1]]
+- [[D&C 126]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
+- [[D&C 132]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

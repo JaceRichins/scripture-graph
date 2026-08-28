@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 20
 slug: jer-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 34]] — 5 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
+- [[Jeremiah 34]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 - [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-12|Jeremiah 20:12]] ↔ [[Jeremiah 11#^jer-11-20|Jeremiah 11:20]]
-- [[Jeremiah 21]] — 3 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]]
-- [[Ezekiel 30]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
-- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]]
+- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
-- [[Jeremiah 27]] — 3 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 27#^jer-27-8|Jeremiah 27:8]]
-- [[1 Kings 22]] — 3 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[1 Kings 22#^1kgs-22-6|1 Kings 22:6]]
-- [[Jeremiah 29]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 29#^jer-29-32|Jeremiah 29:32]]
-- [[2 Samuel 12]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[2 Samuel 12#^2sam-12-11|2 Samuel 12:11]]
-- [[2 Kings 18]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[2 Kings 18#^2kgs-18-30|2 Kings 18:30]]
+- [[Jeremiah 21]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]]
+- [[Ezekiel 30]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

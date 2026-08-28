@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 5
 slug: abr-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,12 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 2]] — 21 parallel verses, e.g. [[Abraham 5#^abr-5-9|Abraham 5:9]] ↔ [[Genesis 2#^gen-2-9|Genesis 2:9]]
-- [[Moses 3]] — 21 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Moses 3#^moses-3-19|Moses 3:19]]
-- [[Abraham 4]] — 3 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Abraham 4#^abr-4-30|Abraham 4:30]]
-- [[Genesis 3]] — 2 parallel verses, e.g. [[Abraham 5#^abr-5-12|Abraham 5:12]] ↔ [[Genesis 3#^gen-3-1|Genesis 3:1]]
-- [[Moses 4]] — 2 parallel verses, e.g. [[Abraham 5#^abr-5-12|Abraham 5:12]] ↔ [[Moses 4#^moses-4-7|Moses 4:7]]
-- [[Ephesians 5]] — 1 parallel verse, e.g. [[Abraham 5#^abr-5-18|Abraham 5:18]] ↔ [[Ephesians 5#^eph-5-31|Ephesians 5:31]]
+- [[Genesis 2]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-9|Abraham 5:9]] ↔ [[Genesis 2#^gen-2-9|Genesis 2:9]]
+- [[Moses 3]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Moses 3#^moses-3-19|Moses 3:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

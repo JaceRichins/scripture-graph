@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 26
 slug: 1chr-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

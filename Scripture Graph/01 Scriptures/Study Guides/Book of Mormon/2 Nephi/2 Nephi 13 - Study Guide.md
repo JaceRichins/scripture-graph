@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 13
 slug: 2ne-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,9 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 3]] — 24 parallel verses, e.g. [[2 Nephi 13#^2ne-13-16|2 Nephi 13:16]] ↔ [[Isaiah 3#^isa-3-16|Isaiah 3:16]]
-- [[Isaiah 10]] — 3 parallel verses, e.g. [[2 Nephi 13#^2ne-13-1|2 Nephi 13:1]] ↔ [[Isaiah 10#^isa-10-33|Isaiah 10:33]]
-- [[2 Nephi 20]] — 3 parallel verses, e.g. [[2 Nephi 13#^2ne-13-1|2 Nephi 13:1]] ↔ [[2 Nephi 20#^2ne-20-33|2 Nephi 20:33]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[2 Nephi 13#^2ne-13-15|2 Nephi 13:15]] ↔ [[Isaiah 22#^isa-22-14|Isaiah 22:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,10 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 121#^dc-121-31|D&C 121:31]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
-- [[D&C 76]] — 3 parallel verses, e.g. [[D&C 121#^dc-121-45|D&C 121:45]] ↔ [[D&C 76#^dc-76-25|D&C 76:25]]
-- [[D&C 68]] — 2 parallel verses, e.g. [[D&C 121#^dc-121-43|D&C 121:43]] ↔ [[D&C 68#^dc-68-4|D&C 68:4]]
-- [[D&C 54]] — 1 parallel verse, e.g. [[D&C 121#^dc-121-22|D&C 121:22]] ↔ [[D&C 54#^dc-54-5|D&C 54:5]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 121#^dc-121-31|D&C 121:31]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

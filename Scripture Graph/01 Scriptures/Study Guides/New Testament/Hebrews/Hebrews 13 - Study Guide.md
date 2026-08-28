@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 28
 slug: 2ne-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 9]] — 9 parallel verses, e.g. [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]] ↔ [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]]
+- [[2 Nephi 9]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]] ↔ [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
-- [[Isaiah 7]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[Jacob 6]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-26|2 Nephi 28:26]] ↔ [[Jacob 6#^jacob-6-8|Jacob 6:8]]
-- [[2 Nephi 27]] — 4 parallel verses, e.g. [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]] ↔ [[2 Nephi 27#^2ne-27-32|2 Nephi 27:32]]
-- [[Isaiah 10]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
-- [[2 Nephi 20]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
-- [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-26|2 Nephi 28:26]] ↔ [[Jacob 6#^jacob-6-8|Jacob 6:8]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[2 Nephi 4#^2ne-4-34|2 Nephi 4:34]]
+- [[Isaiah 7]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
+- [[D&C 128]] — 1 parallel verse, e.g. [[2 Nephi 28#^2ne-28-30|2 Nephi 28:30]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]] ↔ [[2 Nephi 27#^2ne-27-32|2 Nephi 27:32]]
+- [[2 Nephi 25]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-8|2 Nephi 28:8]] ↔ [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]]
+- [[Isaiah 10]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
-- [[3 Nephi 21]] — 3 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[3 Nephi 21#^3ne-21-14|3 Nephi 21:14]]
+- [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]] ↔ [[Isaiah 29#^isa-29-21|Isaiah 29:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

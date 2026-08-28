@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 4
 slug: john-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,10 +42,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 8]] — 3 parallel verses, e.g. [[John 4#^john-4-47|John 4:47]] ↔ [[Luke 8#^luke-8-41|Luke 8:41]]
 - [[John 6]] — 2 parallel verses, e.g. [[John 4#^john-4-34|John 4:34]] ↔ [[John 6#^john-6-38|John 6:38]]
-- [[Matthew 15]] — 2 parallel verses, e.g. [[John 4#^john-4-10|John 4:10]] ↔ [[Matthew 15#^matt-15-28|Matthew 15:28]]
-- [[Luke 10]] — 2 parallel verses, e.g. [[John 4#^john-4-10|John 4:10]] ↔ [[Luke 10#^luke-10-41|Luke 10:41]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

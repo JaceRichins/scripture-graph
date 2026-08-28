@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 9
 slug: deut-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 32]] — 9 parallel verses, e.g. [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]] ↔ [[Exodus 32#^ex-32-8|Exodus 32:8]]
-- [[Deuteronomy 10]] — 5 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]]
-- [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
-- [[Deuteronomy 4]] — 6 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 4#^deut-4-12|Deuteronomy 4:12]]
-- [[Deuteronomy 18]] — 4 parallel verses, e.g. [[Deuteronomy 9#^deut-9-5|Deuteronomy 9:5]] ↔ [[Deuteronomy 18#^deut-18-12|Deuteronomy 18:12]]
-- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 9#^deut-9-6|Deuteronomy 9:6]] ↔ [[Deuteronomy 19#^deut-19-14|Deuteronomy 19:14]]
+- [[Exodus 32]] — 8 parallel verses, e.g. [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]] ↔ [[Exodus 32#^ex-32-8|Exodus 32:8]]
+- [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-18|Deuteronomy 9:18]] ↔ [[Deuteronomy 31#^deut-31-29|Deuteronomy 31:29]]
-- [[Exodus 24]] — 4 parallel verses, e.g. [[Deuteronomy 9#^deut-9-9|Deuteronomy 9:9]] ↔ [[Exodus 24#^ex-24-18|Exodus 24:18]]
-- [[Deuteronomy 1]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-23|Deuteronomy 9:23]] ↔ [[Deuteronomy 1#^deut-1-26|Deuteronomy 1:26]]
-- [[Exodus 34]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-18|Deuteronomy 9:18]] ↔ [[Exodus 34#^ex-34-28|Exodus 34:28]]
-- [[Deuteronomy 26]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]] ↔ [[Deuteronomy 26#^deut-26-8|Deuteronomy 26:8]]
-- [[Exodus 23]] — 4 parallel verses, e.g. [[Deuteronomy 9#^deut-9-4|Deuteronomy 9:4]] ↔ [[Exodus 23#^ex-23-29|Exodus 23:29]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
+- [[Deuteronomy 18]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-5|Deuteronomy 9:5]] ↔ [[Deuteronomy 18#^deut-18-12|Deuteronomy 18:12]]
+- [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-23|Deuteronomy 9:23]] ↔ [[Deuteronomy 1#^deut-1-26|Deuteronomy 1:26]]
+- [[Exodus 34]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-18|Deuteronomy 9:18]] ↔ [[Exodus 34#^ex-34-28|Exodus 34:28]]
+- [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]] ↔ [[Deuteronomy 26#^deut-26-8|Deuteronomy 26:8]]
+- [[1 Kings 8]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-29|Deuteronomy 9:29]] ↔ [[1 Kings 8#^1kgs-8-51|1 Kings 8:51]]
+- [[Genesis 8]] — 1 parallel verse, e.g. [[Deuteronomy 9#^deut-9-11|Deuteronomy 9:11]] ↔ [[Genesis 8#^gen-8-6|Genesis 8:6]]
+- [[1 Kings 17]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]] ↔ [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]]
+- [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-5|Deuteronomy 9:5]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

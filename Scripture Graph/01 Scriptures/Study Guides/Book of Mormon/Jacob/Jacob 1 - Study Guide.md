@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 1
 slug: jacob-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,13 +42,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 23]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
 - [[Enos 1]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-1|Jacob 1:1]] ↔ [[Enos 1#^enos-1-25|Enos 1:25]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-7|Jacob 1:7]] ↔ [[Numbers 15#^num-15-32|Numbers 15:32]]
-- [[Mosiah 1]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]]
-- [[4 Nephi 1]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-15|Jacob 1:15]] ↔ [[4 Nephi 1#^4ne-1-10|4 Nephi 1:10]]
-- [[2 Nephi 25]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-3|Jacob 1:3]] ↔ [[2 Nephi 25#^2ne-25-21|2 Nephi 25:21]]
-- [[Alma 47]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Alma 47#^alma-47-6|Alma 47:6]]
+- [[Mosiah 23]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

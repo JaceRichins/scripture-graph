@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 2
 slug: eccl-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

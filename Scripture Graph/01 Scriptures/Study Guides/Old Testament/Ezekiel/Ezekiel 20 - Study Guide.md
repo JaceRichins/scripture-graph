@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 20
 slug: ezek-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 14]] — 22 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
-- [[Leviticus 19]] — 30 parallel verses, e.g. [[Ezekiel 20#^ezek-20-7|Ezekiel 20:7]] ↔ [[Leviticus 19#^lev-19-34|Leviticus 19:34]]
-- [[Ezekiel 37]] — 18 parallel verses, e.g. [[Ezekiel 20#^ezek-20-44|Ezekiel 20:44]] ↔ [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]]
-- [[Ezekiel 33]] — 16 parallel verses, e.g. [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]] ↔ [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]]
-- [[Leviticus 18]] — 17 parallel verses, e.g. [[Ezekiel 20#^ezek-20-11|Ezekiel 20:11]] ↔ [[Leviticus 18#^lev-18-5|Leviticus 18:5]]
-- [[Ezekiel 13]] — 17 parallel verses, e.g. [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[Ezekiel 12]] — 16 parallel verses, e.g. [[Ezekiel 20#^ezek-20-2|Ezekiel 20:2]] ↔ [[Ezekiel 12#^ezek-12-8|Ezekiel 12:8]]
-- [[Ezekiel 35]] — 11 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
-- [[Ezekiel 34]] — 13 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]]
-- [[Leviticus 25]] — 15 parallel verses, e.g. [[Ezekiel 20#^ezek-20-19|Ezekiel 20:19]] ↔ [[Leviticus 25#^lev-25-18|Leviticus 25:18]]
-- [[Ezekiel 36]] — 12 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 36#^ezek-36-22|Ezekiel 36:22]]
-- [[Ezekiel 24]] — 11 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 24#^ezek-24-21|Ezekiel 24:21]]
+- [[Ezekiel 37]] — 14 parallel verses, e.g. [[Ezekiel 20#^ezek-20-44|Ezekiel 20:44]] ↔ [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]]
+- [[Ezekiel 14]] — 14 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
+- [[Ezekiel 33]] — 8 parallel verses, e.g. [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]] ↔ [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]]
+- [[Ezekiel 35]] — 6 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
+- [[Ezekiel 34]] — 7 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]]
+- [[Ezekiel 24]] — 6 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 24#^ezek-24-21|Ezekiel 24:21]]
+- [[Ezekiel 36]] — 5 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 36#^ezek-36-22|Ezekiel 36:22]]
+- [[Jeremiah 25]] — 6 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
+- [[Ezekiel 12]] — 5 parallel verses, e.g. [[Ezekiel 20#^ezek-20-2|Ezekiel 20:2]] ↔ [[Ezekiel 12#^ezek-12-8|Ezekiel 12:8]]
+- [[Jeremiah 43]] — 4 parallel verses, e.g. [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
+- [[Ezekiel 17]] — 4 parallel verses, e.g. [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]] ↔ [[Ezekiel 17#^ezek-17-16|Ezekiel 17:16]]
+- [[Jeremiah 32]] — 3 parallel verses, e.g. [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]] ↔ [[Jeremiah 32#^jer-32-21|Jeremiah 32:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 1
 slug: nahum-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,7 +41,6 @@ _Not yet developed._
 - [[Isaiah 52]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Isaiah 52#^isa-52-7|Isaiah 52:7]]
 - [[Mosiah 12]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Mosiah 15#^mosiah-15-18|Mosiah 15:18]]
-- [[3 Nephi 20]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[3 Nephi 20#^3ne-20-40|3 Nephi 20:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

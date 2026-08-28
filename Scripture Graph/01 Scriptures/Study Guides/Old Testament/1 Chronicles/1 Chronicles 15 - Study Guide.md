@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 15
 slug: 1chr-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 8]] — 16 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
-- [[2 Chronicles 5]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
-- [[Joshua 3]] — 14 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 3#^josh-3-17|Joshua 3:17]]
-- [[1 Samuel 4]] — 13 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
+- [[2 Chronicles 5]] — 11 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
+- [[1 Kings 8]] — 10 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
+- [[1 Samuel 4]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[Deuteronomy 31]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
-- [[Joshua 4]] — 9 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 4#^josh-4-18|Joshua 4:18]]
-- [[Joshua 6]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
+- [[Joshua 3]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 3#^josh-3-17|Joshua 3:17]]
+- [[Joshua 4]] — 8 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 4#^josh-4-18|Joshua 4:18]]
 - [[1 Chronicles 28]] — 8 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
-- [[1 Chronicles 16]] — 9 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]]
-- [[2 Samuel 6]] — 7 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-28|1 Chronicles 15:28]] ↔ [[2 Samuel 6#^2sam-6-15|2 Samuel 6:15]]
 - [[Joshua 8]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 8#^josh-8-33|Joshua 8:33]]
 - [[Numbers 10]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
+- [[Numbers 14]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
+- [[Deuteronomy 10]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
+- [[Joshua 6]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

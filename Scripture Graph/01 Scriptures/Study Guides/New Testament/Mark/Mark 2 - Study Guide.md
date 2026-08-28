@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 2
 slug: mark-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 5]] — 15 parallel verses, e.g. [[Mark 2#^mark-2-20|Mark 2:20]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
-- [[Matthew 9]] — 14 parallel verses, e.g. [[Mark 2#^mark-2-10|Mark 2:10]] ↔ [[Matthew 9#^matt-9-6|Matthew 9:6]]
+- [[Luke 5]] — 13 parallel verses, e.g. [[Mark 2#^mark-2-20|Mark 2:20]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
+- [[Matthew 9]] — 10 parallel verses, e.g. [[Mark 2#^mark-2-10|Mark 2:10]] ↔ [[Matthew 9#^matt-9-6|Matthew 9:6]]
 - [[Luke 6]] — 3 parallel verses, e.g. [[Mark 2#^mark-2-26|Mark 2:26]] ↔ [[Luke 6#^luke-6-4|Luke 6:4]]
-- [[Matthew 12]] — 4 parallel verses, e.g. [[Mark 2#^mark-2-25|Mark 2:25]] ↔ [[Matthew 12#^matt-12-3|Matthew 12:3]]
+- [[Matthew 12]] — 2 parallel verses, e.g. [[Mark 2#^mark-2-25|Mark 2:25]] ↔ [[Matthew 12#^matt-12-3|Matthew 12:3]]
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Mark 2#^mark-2-17|Mark 2:17]] ↔ [[Moroni 8#^moro-8-8|Moroni 8:8]]
-- [[John 5]] — 3 parallel verses, e.g. [[Mark 2#^mark-2-9|Mark 2:9]] ↔ [[John 5#^john-5-8|John 5:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

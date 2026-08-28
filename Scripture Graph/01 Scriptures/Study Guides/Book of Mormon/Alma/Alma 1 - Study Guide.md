@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 1
 slug: alma-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 4]] — 23 parallel verses, e.g. [[Alma 1#^alma-1-6|Alma 1:6]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
-- [[Alma 62]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 62#^alma-62-12|Alma 62:12]]
-- [[Alma 6]] — 8 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Alma 6#^alma-6-2|Alma 6:2]]
-- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Mosiah 26]] — 9 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]]
-- [[Helaman 6]] — 6 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Helaman 11]] — 5 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 5]] — 7 parallel verses, e.g. [[Alma 1#^alma-1-30|Alma 1:30]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
-- [[Alma 16]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 30]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 63]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
+- [[Alma 4]] — 8 parallel verses, e.g. [[Alma 1#^alma-1-6|Alma 1:6]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
+- [[Alma 6]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Alma 6#^alma-6-2|Alma 6:2]]
+- [[Ether 14]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Ether 14#^ether-14-11|Ether 14:11]]
+- [[Alma 11]] — 1 parallel verse, e.g. [[Alma 1#^alma-1-30|Alma 1:30]] ↔ [[Alma 11#^alma-11-44|Alma 11:44]]
+- [[Mosiah 11]] — 3 parallel verses, e.g. [[Alma 1#^alma-1-29|Alma 1:29]] ↔ [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]]
+- [[Mormon 8]] — 3 parallel verses, e.g. [[Alma 1#^alma-1-6|Alma 1:6]] ↔ [[Mormon 8#^morm-8-28|Mormon 8:28]]
+- [[Ether 13]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Ether 13#^ether-13-18|Ether 13:18]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-30|Alma 1:30]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
+- [[Mosiah 29]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-14|Alma 1:14]] ↔ [[Mosiah 29#^mosiah-29-15|Mosiah 29:15]]
+- [[Mosiah 25]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Mosiah 25#^mosiah-25-18|Mosiah 25:18]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Alma 62#^alma-62-37|Alma 62:37]]
+- [[Ether 9]] — 1 parallel verse, e.g. [[Alma 1#^alma-1-29|Alma 1:29]] ↔ [[Ether 9#^ether-9-17|Ether 9:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 8
 slug: 1sam-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 11]] — 2 parallel verses, e.g. [[1 Samuel 8#^1sam-8-8|1 Samuel 8:8]] ↔ [[Jeremiah 11#^jer-11-7|Jeremiah 11:7]]
-- [[Jeremiah 36]] — 3 parallel verses, e.g. [[1 Samuel 8#^1sam-8-10|1 Samuel 8:10]] ↔ [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]]
-- [[Exodus 24]] — 2 parallel verses, e.g. [[1 Samuel 8#^1sam-8-10|1 Samuel 8:10]] ↔ [[Exodus 24#^ex-24-3|Exodus 24:3]]
-- [[Joshua 24]] — 2 parallel verses, e.g. [[1 Samuel 8#^1sam-8-10|1 Samuel 8:10]] ↔ [[Joshua 24#^josh-24-27|Joshua 24:27]]
-- [[Deuteronomy 28]] — 2 parallel verses, e.g. [[1 Samuel 8#^1sam-8-7|1 Samuel 8:7]] ↔ [[Deuteronomy 28#^deut-28-2|Deuteronomy 28:2]]
-- [[Omni 1]] — 2 parallel verses, e.g. [[1 Samuel 8#^1sam-8-7|1 Samuel 8:7]] ↔ [[Omni 1#^omni-1-12|Omni 1:12]]
+- [[Jeremiah 11]] — 1 parallel verse, e.g. [[1 Samuel 8#^1sam-8-8|1 Samuel 8:8]] ↔ [[Jeremiah 11#^jer-11-7|Jeremiah 11:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

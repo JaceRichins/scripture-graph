@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 7
 slug: ezek-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 28]] — 8 parallel verses, e.g. [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]] ↔ [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]]
-- [[Ezekiel 13]] — 9 parallel verses, e.g. [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[Ezekiel 20]] — 7 parallel verses, e.g. [[Ezekiel 7#^ezek-7-1|Ezekiel 7:1]] ↔ [[Ezekiel 20#^ezek-20-45|Ezekiel 20:45]]
 - [[Ezekiel 9]] — 2 parallel verses, e.g. [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]] ↔ [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]]
-- [[Ezekiel 30]] — 6 parallel verses, e.g. [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]] ↔ [[Ezekiel 30#^ezek-30-8|Ezekiel 30:8]]
-- [[Ezekiel 21]] — 4 parallel verses, e.g. [[Ezekiel 7#^ezek-7-17|Ezekiel 7:17]] ↔ [[Ezekiel 21#^ezek-21-7|Ezekiel 21:7]]
-- [[Ezekiel 22]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-1|Ezekiel 7:1]] ↔ [[Ezekiel 22#^ezek-22-1|Ezekiel 22:1]]
-- [[Ezekiel 36]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-1|Ezekiel 7:1]] ↔ [[Ezekiel 36#^ezek-36-16|Ezekiel 36:16]]
-- [[Ezekiel 6]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]] ↔ [[Ezekiel 6#^ezek-6-7|Ezekiel 6:7]]
-- [[Ezekiel 11]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]] ↔ [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]]
-- [[Ezekiel 12]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]] ↔ [[Ezekiel 12#^ezek-12-20|Ezekiel 12:20]]
-- [[Ezekiel 14]] — 5 parallel verses, e.g. [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]] ↔ [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-19|Ezekiel 7:19]] ↔ [[Zephaniah 1#^zeph-1-18|Zephaniah 1:18]]
+- [[Ezekiel 8]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]] ↔ [[Ezekiel 8#^ezek-8-18|Ezekiel 8:18]]
+- [[Ezekiel 28]] — 2 parallel verses, e.g. [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]] ↔ [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]]
+- [[Ezekiel 21]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-17|Ezekiel 7:17]] ↔ [[Ezekiel 21#^ezek-21-7|Ezekiel 21:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

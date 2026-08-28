@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 1
 slug: prov-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,9 +41,6 @@ _Not yet developed._
 - [[Psalm 111]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Psalm 111#^ps-111-10|Psalm 111:10]]
 - [[Proverbs 9]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Proverbs 9#^prov-9-10|Proverbs 9:10]]
 - [[2 Chronicles 30]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-1|Proverbs 1:1]] ↔ [[2 Chronicles 30#^2chr-30-26|2 Chronicles 30:26]]
-- [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
-- [[Proverbs 6]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-8|Proverbs 1:8]] ↔ [[Proverbs 6#^prov-6-20|Proverbs 6:20]]
-- [[2 Chronicles 35]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-1|Proverbs 1:1]] ↔ [[2 Chronicles 35#^2chr-35-3|2 Chronicles 35:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

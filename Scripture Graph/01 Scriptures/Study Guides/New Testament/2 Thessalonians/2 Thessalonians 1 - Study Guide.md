@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 1
 slug: 2thes-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,14 +43,8 @@ _Not yet developed._
 - [[Colossians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[Romans 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
 - [[Philemon 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
-- [[Ephesians 6]] — 4 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-5|2 Thessalonians 1:5]] ↔ [[Ephesians 6#^eph-6-11|Ephesians 6:11]]
 - [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-9|2 Thessalonians 1:9]] ↔ [[Alma 42#^alma-42-7|Alma 42:7]]
-- [[Jonah 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-9|2 Thessalonians 1:9]] ↔ [[Jonah 1#^jonah-1-3|Jonah 1:3]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
-- [[Alma 9]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-9|2 Thessalonians 1:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Ephesians 1]] — 1 parallel verse, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
-- [[Titus 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-1|2 Thessalonians 1:1]] ↔ [[Titus 1#^titus-1-4|Titus 1:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

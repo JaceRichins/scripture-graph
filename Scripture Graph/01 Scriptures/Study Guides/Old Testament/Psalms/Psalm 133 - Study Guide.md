@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 133
 slug: ps-133
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

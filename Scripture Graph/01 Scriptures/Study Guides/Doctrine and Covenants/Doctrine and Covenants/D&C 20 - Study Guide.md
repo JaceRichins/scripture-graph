@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 20
 slug: dc-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -28,7 +28,7 @@ _Not yet developed._
 ## People
 <!-- SG:BEGIN people -->
 - [[Jesus Christ]] — 27 mentions
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 - [[Oliver Cowdery]] — 1 mention
 <!-- SG:END people -->
 
@@ -39,18 +39,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 4]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-77|D&C 20:77]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
-- [[Moroni 5]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-79|D&C 20:79]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
-- [[3 Nephi 11]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
-- [[D&C 68]] — 7 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
+- [[Moroni 4]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-77|D&C 20:77]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
+- [[Moroni 5]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-79|D&C 20:79]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
+- [[3 Nephi 11]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[Moses 7]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-27|D&C 20:27]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
-- [[D&C 76]] — 7 parallel verses, e.g. [[D&C 20#^dc-20-9|D&C 20:9]] ↔ [[D&C 76#^dc-76-14|D&C 76:14]]
-- [[Moroni 6]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-37|D&C 20:37]] ↔ [[Moroni 6#^moro-6-3|Moroni 6:3]]
-- [[Moroni 3]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-60|D&C 20:60]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[D&C 68]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
+- [[Moroni 6]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-37|D&C 20:37]] ↔ [[Moroni 6#^moro-6-3|Moroni 6:3]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-29|D&C 20:29]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
-- [[D&C 107]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-43|D&C 20:43]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
-- [[2 Nephi 31]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
-- [[D&C 138]] — 6 parallel verses, e.g. [[D&C 20#^dc-20-1|D&C 20:1]] ↔ [[D&C 138#^dc-138-60|D&C 138:60]]
+- [[D&C 107]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-43|D&C 20:43]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
+- [[D&C 76]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-9|D&C 20:9]] ↔ [[D&C 76#^dc-76-14|D&C 76:14]]
+- [[2 Nephi 31]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
+- [[Moroni 3]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-60|D&C 20:60]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[Matthew 28]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

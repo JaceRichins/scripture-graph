@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 40
 slug: ps-40
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Psalm 70]] — 4 parallel verses, e.g. [[Psalm 40#^ps-40-16|Psalm 40:16]] ↔ [[Psalm 70#^ps-70-4|Psalm 70:4]]
 - [[Hebrews 10]] — 1 parallel verse, e.g. [[Psalm 40#^ps-40-7|Psalm 40:7]] ↔ [[Hebrews 10#^heb-10-7|Hebrews 10:7]]
-- [[Psalm 69]] — 1 parallel verse, e.g. [[Psalm 40#^ps-40-12|Psalm 40:12]] ↔ [[Psalm 69#^ps-69-4|Psalm 69:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

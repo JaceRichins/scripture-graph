@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 5
 slug: morm-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mormon 2]] — 6 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
-- [[Mormon 4]] — 6 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
-- [[1 Nephi 16]] — 6 parallel verses, e.g. [[Mormon 5#^morm-5-7|Mormon 5:7]] ↔ [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]]
-- [[Alma 58]] — 5 parallel verses, e.g. [[Mormon 5#^morm-5-3|Mormon 5:3]] ↔ [[Alma 58#^alma-58-18|Alma 58:18]]
-- [[Mormon 3]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
+- [[Mormon 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
+- [[Mormon 2]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-13|Mormon 5:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-23|Mormon 5:23]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
-- [[3 Nephi 5]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-9|Mormon 5:9]] ↔ [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]]
-- [[Mosiah 10]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-7|Mormon 5:7]] ↔ [[Mosiah 10#^mosiah-10-3|Mosiah 10:3]]
-- [[Alma 57]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Alma 57#^alma-57-6|Alma 57:6]]
-- [[Helaman 6]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Helaman 6#^hel-6-15|Helaman 6:15]]
-- [[Ether 13]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Ether 13#^ether-13-18|Ether 13:18]]
+- [[Mormon 3]] — 1 parallel verse, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
+- [[4 Nephi 1]] — 1 parallel verse, e.g. [[Mormon 5#^morm-5-12|Mormon 5:12]] ↔ [[4 Nephi 1#^4ne-1-49|4 Nephi 1:49]]
+- [[D&C 68]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-14|Mormon 5:14]] ↔ [[D&C 68#^dc-68-6|D&C 68:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

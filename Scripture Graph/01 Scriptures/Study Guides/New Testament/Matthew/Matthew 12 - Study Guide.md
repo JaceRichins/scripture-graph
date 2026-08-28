@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 11]] — 10 parallel verses, e.g. [[Matthew 12#^matt-12-42|Matthew 12:42]] ↔ [[Luke 11#^luke-11-31|Luke 11:31]]
-- [[Mark 3]] — 8 parallel verses, e.g. [[Matthew 12#^matt-12-29|Matthew 12:29]] ↔ [[Mark 3#^mark-3-27|Mark 3:27]]
-- [[Luke 6]] — 5 parallel verses, e.g. [[Matthew 12#^matt-12-35|Matthew 12:35]] ↔ [[Luke 6#^luke-6-45|Luke 6:45]]
-- [[Matthew 16]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-39|Matthew 12:39]] ↔ [[Matthew 16#^matt-16-4|Matthew 16:4]]
-- [[Mark 2]] — 4 parallel verses, e.g. [[Matthew 12#^matt-12-3|Matthew 12:3]] ↔ [[Mark 2#^mark-2-25|Mark 2:25]]
+- [[Luke 11]] — 9 parallel verses, e.g. [[Matthew 12#^matt-12-42|Matthew 12:42]] ↔ [[Luke 11#^luke-11-31|Luke 11:31]]
+- [[Mark 3]] — 7 parallel verses, e.g. [[Matthew 12#^matt-12-29|Matthew 12:29]] ↔ [[Mark 3#^mark-3-27|Mark 3:27]]
+- [[Luke 6]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-35|Matthew 12:35]] ↔ [[Luke 6#^luke-6-45|Luke 6:45]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-39|Matthew 12:39]] ↔ [[Matthew 16#^matt-16-4|Matthew 16:4]]
 - [[Luke 12]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-32|Matthew 12:32]] ↔ [[Luke 12#^luke-12-10|Luke 12:10]]
-- [[Matthew 19]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-15|Matthew 12:15]] ↔ [[Matthew 19#^matt-19-2|Matthew 19:2]]
-- [[Matthew 13]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
+- [[Mark 2]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-3|Matthew 12:3]] ↔ [[Mark 2#^mark-2-25|Mark 2:25]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
 - [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
-- [[Luke 8]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-47|Matthew 12:47]] ↔ [[Luke 8#^luke-8-20|Luke 8:20]]
+- [[Matthew 19]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-15|Matthew 12:15]] ↔ [[Matthew 19#^matt-19-2|Matthew 19:2]]
+- [[Matthew 9]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-2|Matthew 12:2]] ↔ [[Matthew 9#^matt-9-11|Matthew 9:11]]
+- [[Matthew 18]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-50|Matthew 12:50]] ↔ [[Matthew 18#^matt-18-10|Matthew 18:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

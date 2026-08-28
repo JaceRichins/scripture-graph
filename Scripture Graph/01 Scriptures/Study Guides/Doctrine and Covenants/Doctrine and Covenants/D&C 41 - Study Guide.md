@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 41
 slug: dc-41
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -27,7 +27,7 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Joseph Smith Jr.]] — 1 mention
+- [[Joseph Smith Jr]] — 1 mention
 - [[Sidney Rigdon]] — 1 mention
 - [[Edward Partridge]] — 1 mention
 <!-- SG:END people -->
@@ -39,18 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 43]] — 3 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 43#^dc-43-8|D&C 43:8]]
 - [[D&C 42]] — 3 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 42#^dc-42-58|D&C 42:58]]
-- [[D&C 38]] — 3 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 38#^dc-38-34|D&C 38:34]]
-- [[D&C 58]] — 3 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 58#^dc-58-49|D&C 58:49]]
+- [[D&C 43]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 43#^dc-43-8|D&C 43:8]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 88#^dc-88-76|D&C 88:76]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
-- [[D&C 51]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 51#^dc-51-12|D&C 51:12]]
-- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 61#^dc-61-18|D&C 61:18]]
+- [[D&C 38]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 38#^dc-38-34|D&C 38:34]]
+- [[D&C 58]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 58#^dc-58-49|D&C 58:49]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 98#^dc-98-11|D&C 98:11]]
 - [[3 Nephi 12]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[3 Nephi 18#^3ne-18-12|3 Nephi 18:12]]
-- [[D&C 54]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-4|D&C 41:4]] ↔ [[D&C 54#^dc-54-10|D&C 54:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

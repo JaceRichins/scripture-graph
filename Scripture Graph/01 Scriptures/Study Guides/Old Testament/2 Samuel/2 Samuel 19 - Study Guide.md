@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 19
 slug: 2sam-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 2]] — 4 parallel verses, e.g. [[2 Samuel 19#^2sam-19-13|2 Samuel 19:13]] ↔ [[1 Kings 2#^1kgs-2-23|1 Kings 2:23]]
-- [[2 Samuel 16]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-22|2 Samuel 19:22]] ↔ [[2 Samuel 16#^2sam-16-10|2 Samuel 16:10]]
-- [[2 Samuel 3]] — 3 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[2 Samuel 3#^2sam-3-18|2 Samuel 3:18]]
-- [[1 Samuel 7]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[1 Samuel 7#^1sam-7-8|1 Samuel 7:8]]
-- [[1 Samuel 12]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[1 Samuel 12#^1sam-12-10|1 Samuel 12:10]]
-- [[2 Samuel 13]] — 3 parallel verses, e.g. [[2 Samuel 19#^2sam-19-29|2 Samuel 19:29]] ↔ [[2 Samuel 13#^2sam-13-26|2 Samuel 13:26]]
-- [[1 Samuel 4]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
-- [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[1 Kings 22#^1kgs-22-3|1 Kings 22:3]]
-- [[Judges 3]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-25|2 Samuel 19:25]] ↔ [[Judges 3#^judg-3-27|Judges 3:27]]
-- [[2 Samuel 15]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[2 Samuel 15#^2sam-15-10|2 Samuel 15:10]]
-- [[Exodus 2]] — 1 parallel verse, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[Exodus 2#^ex-2-19|Exodus 2:19]]
-- [[Exodus 18]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-9|2 Samuel 19:9]] ↔ [[Exodus 18#^ex-18-9|Exodus 18:9]]
+- [[1 Kings 2]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-13|2 Samuel 19:13]] ↔ [[1 Kings 2#^1kgs-2-23|1 Kings 2:23]]
+- [[2 Samuel 16]] — 1 parallel verse, e.g. [[2 Samuel 19#^2sam-19-22|2 Samuel 19:22]] ↔ [[2 Samuel 16#^2sam-16-10|2 Samuel 16:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

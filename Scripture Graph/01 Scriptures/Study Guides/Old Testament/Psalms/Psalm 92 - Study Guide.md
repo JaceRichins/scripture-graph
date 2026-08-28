@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 92
 slug: ps-92
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

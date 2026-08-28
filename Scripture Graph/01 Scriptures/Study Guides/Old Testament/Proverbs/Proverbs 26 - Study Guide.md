@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 26
 slug: prov-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,8 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Proverbs 18]] — 1 parallel verse, e.g. [[Proverbs 26#^prov-26-22|Proverbs 26:22]] ↔ [[Proverbs 18#^prov-18-8|Proverbs 18:8]]
 - [[Proverbs 29]] — 1 parallel verse, e.g. [[Proverbs 26#^prov-26-12|Proverbs 26:12]] ↔ [[Proverbs 29#^prov-29-20|Proverbs 29:20]]
-- [[Proverbs 19]] — 2 parallel verses, e.g. [[Proverbs 26#^prov-26-1|Proverbs 26:1]] ↔ [[Proverbs 19#^prov-19-10|Proverbs 19:10]]
-- [[Proverbs 22]] — 1 parallel verse, e.g. [[Proverbs 26#^prov-26-13|Proverbs 26:13]] ↔ [[Proverbs 22#^prov-22-13|Proverbs 22:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

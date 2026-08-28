@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 132
 slug: dc-132
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -47,18 +47,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 47 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[Abraham 3]] — 16 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
-- [[D&C 88]] — 14 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
-- [[D&C 52]] — 13 parallel verses, e.g. [[D&C 132#^dc-132-53|D&C 132:53]] ↔ [[D&C 52#^dc-52-13|D&C 52:13]]
-- [[Isaiah 43]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Isaiah 43#^isa-43-3|Isaiah 43:3]]
-- [[Abraham 2]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
-- [[D&C 75]] — 9 parallel verses, e.g. [[D&C 132#^dc-132-57|D&C 132:57]] ↔ [[D&C 75#^dc-75-14|D&C 75:14]]
-- [[Exodus 20]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-2|D&C 132:2]] ↔ [[Exodus 20#^ex-20-2|Exodus 20:2]]
-- [[Deuteronomy 5]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-2|D&C 132:2]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
-- [[Psalm 81]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-2|D&C 132:2]] ↔ [[Psalm 81#^ps-81-10|Psalm 81:10]]
-- [[Isaiah 48]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-2|D&C 132:2]] ↔ [[Isaiah 48#^isa-48-17|Isaiah 48:17]]
-- [[Isaiah 51]] — 8 parallel verses, e.g. [[D&C 132#^dc-132-2|D&C 132:2]] ↔ [[Isaiah 51#^isa-51-15|Isaiah 51:15]]
+- [[D&C 124]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
+- [[Isaiah 43]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Isaiah 43#^isa-43-3|Isaiah 43:3]]
+- [[John 8]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-18|D&C 132:18]] ↔ [[John 8#^john-8-51|John 8:51]]
+- [[Abraham 2]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
+- [[Abraham 3]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
+- [[D&C 76]] — 3 parallel verses, e.g. [[D&C 132#^dc-132-26|D&C 132:26]] ↔ [[D&C 76#^dc-76-53|D&C 76:53]]
+- [[D&C 108]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
+- [[3 Nephi 14]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-22|D&C 132:22]] ↔ [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]]
+- [[D&C 105]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-51|D&C 132:51]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
+- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Matthew 22#^matt-22-30|Matthew 22:30]]
+- [[Mark 12]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Mark 12#^mark-12-25|Mark 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

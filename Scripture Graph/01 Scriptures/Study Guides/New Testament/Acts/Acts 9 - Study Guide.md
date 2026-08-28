@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,12 +44,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Acts 26]] — 3 parallel verses, e.g. [[Acts 9#^acts-9-5|Acts 9:5]] ↔ [[Acts 26#^acts-26-14|Acts 26:14]]
-- [[Mark 1]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-37|Acts 9:37]] ↔ [[Mark 1#^mark-1-9|Mark 1:9]]
-- [[Judges 7]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-6|Acts 9:6]] ↔ [[Judges 7#^judg-7-9|Judges 7:9]]
-- [[Ether 3]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-6|Acts 9:6]] ↔ [[Ether 3#^ether-3-7|Ether 3:7]]
-- [[Jeremiah 27]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-31|Acts 9:31]] ↔ [[Jeremiah 27#^jer-27-18|Jeremiah 27:18]]
-- [[Acts 22]] — 1 parallel verse, e.g. [[Acts 9#^acts-9-4|Acts 9:4]] ↔ [[Acts 22#^acts-22-7|Acts 22:7]]
+- [[Acts 26]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-5|Acts 9:5]] ↔ [[Acts 26#^acts-26-14|Acts 26:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

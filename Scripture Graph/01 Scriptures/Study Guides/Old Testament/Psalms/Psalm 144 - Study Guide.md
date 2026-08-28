@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 144
 slug: ps-144
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

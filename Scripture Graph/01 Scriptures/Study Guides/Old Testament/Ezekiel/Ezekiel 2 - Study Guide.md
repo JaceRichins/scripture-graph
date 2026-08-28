@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 2
 slug: ezek-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 3]] — 15 parallel verses, e.g. [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]] ↔ [[Ezekiel 3#^ezek-3-9|Ezekiel 3:9]]
-- [[Ezekiel 37]] — 7 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]]
+- [[Ezekiel 3]] — 14 parallel verses, e.g. [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]] ↔ [[Ezekiel 3#^ezek-3-9|Ezekiel 3:9]]
+- [[Ezekiel 37]] — 7 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
-- [[Ezekiel 12]] — 4 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Ezekiel 12#^ezek-12-28|Ezekiel 12:28]]
-- [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]]
 - [[Ezekiel 4]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]]
+- [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]]
 - [[Jeremiah 8]] — 1 parallel verse, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]]
-- [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]]
-- [[Jeremiah 19]] — 1 parallel verse, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 19#^jer-19-11|Jeremiah 19:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

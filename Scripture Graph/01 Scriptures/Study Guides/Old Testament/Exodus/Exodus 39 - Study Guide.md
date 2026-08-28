@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 39
 slug: ex-39
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 28]] — 40 parallel verses, e.g. [[Exodus 39#^ex-39-14|Exodus 39:14]] ↔ [[Exodus 28#^ex-28-21|Exodus 28:21]]
-- [[Exodus 35]] — 17 parallel verses, e.g. [[Exodus 39#^ex-39-41|Exodus 39:41]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
-- [[Exodus 36]] — 12 parallel verses, e.g. [[Exodus 39#^ex-39-29|Exodus 39:29]] ↔ [[Exodus 36#^ex-36-8|Exodus 36:8]]
-- [[Exodus 26]] — 11 parallel verses, e.g. [[Exodus 39#^ex-39-29|Exodus 39:29]] ↔ [[Exodus 26#^ex-26-1|Exodus 26:1]]
-- [[Exodus 40]] — 9 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Exodus 40#^ex-40-2|Exodus 40:2]]
-- [[Exodus 38]] — 8 parallel verses, e.g. [[Exodus 39#^ex-39-2|Exodus 39:2]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
-- [[Numbers 1]] — 4 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Numbers 1#^num-1-54|Numbers 1:54]]
+- [[Exodus 28]] — 26 parallel verses, e.g. [[Exodus 39#^ex-39-14|Exodus 39:14]] ↔ [[Exodus 28#^ex-28-21|Exodus 28:21]]
+- [[Exodus 35]] — 11 parallel verses, e.g. [[Exodus 39#^ex-39-41|Exodus 39:41]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
+- [[Exodus 26]] — 10 parallel verses, e.g. [[Exodus 39#^ex-39-29|Exodus 39:29]] ↔ [[Exodus 26#^ex-26-1|Exodus 26:1]]
+- [[Exodus 36]] — 9 parallel verses, e.g. [[Exodus 39#^ex-39-29|Exodus 39:29]] ↔ [[Exodus 36#^ex-36-8|Exodus 36:8]]
 - [[Numbers 2]] — 3 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Numbers 2#^num-2-34|Numbers 2:34]]
+- [[Exodus 40]] — 5 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Exodus 40#^ex-40-2|Exodus 40:2]]
 - [[Exodus 27]] — 4 parallel verses, e.g. [[Exodus 39#^ex-39-2|Exodus 39:2]] ↔ [[Exodus 27#^ex-27-16|Exodus 27:16]]
-- [[Exodus 25]] — 7 parallel verses, e.g. [[Exodus 39#^ex-39-2|Exodus 39:2]] ↔ [[Exodus 25#^ex-25-4|Exodus 25:4]]
-- [[Numbers 4]] — 5 parallel verses, e.g. [[Exodus 39#^ex-39-38|Exodus 39:38]] ↔ [[Numbers 4#^num-4-16|Numbers 4:16]]
+- [[Exodus 38]] — 4 parallel verses, e.g. [[Exodus 39#^ex-39-2|Exodus 39:2]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
+- [[Numbers 1]] — 2 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Numbers 1#^num-1-54|Numbers 1:54]]
 - [[Numbers 9]] — 2 parallel verses, e.g. [[Exodus 39#^ex-39-32|Exodus 39:32]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
+- [[Exodus 31]] — 2 parallel verses, e.g. [[Exodus 39#^ex-39-41|Exodus 39:41]] ↔ [[Exodus 31#^ex-31-10|Exodus 31:10]]
+- [[Exodus 25]] — 3 parallel verses, e.g. [[Exodus 39#^ex-39-2|Exodus 39:2]] ↔ [[Exodus 25#^ex-25-4|Exodus 25:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

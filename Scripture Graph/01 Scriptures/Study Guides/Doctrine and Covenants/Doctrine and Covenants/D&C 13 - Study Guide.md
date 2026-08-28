@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 13
 slug: dc-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,9 +39,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
-- [[D&C 84]] — 2 parallel verses, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[D&C 84#^dc-84-27|D&C 84:27]]
 - [[D&C 107]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[D&C 107#^dc-107-20|D&C 107:20]]
-- [[Articles of Faith 1]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

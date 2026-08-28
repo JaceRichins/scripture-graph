@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 91
 slug: ps-91
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Luke 4]] — 2 parallel verses, e.g. [[Psalm 91#^ps-91-11|Psalm 91:11]] ↔ [[Luke 4#^luke-4-10|Luke 4:10]]
-- [[Matthew 4]] — 2 parallel verses, e.g. [[Psalm 91#^ps-91-12|Psalm 91:12]] ↔ [[Matthew 4#^matt-4-6|Matthew 4:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

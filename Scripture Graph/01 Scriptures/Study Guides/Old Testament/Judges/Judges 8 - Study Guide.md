@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 8
 slug: judg-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,9 +40,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Mosiah 2]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 6#^deut-6-2|Deuteronomy 6:2]]
-- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 16#^deut-16-11|Deuteronomy 16:11]]
-- [[Alma 62]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
-- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 52
 slug: jer-52
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 25]] — 41 parallel verses, e.g. [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]] ↔ [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]]
-- [[Jeremiah 39]] — 23 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]]
-- [[2 Kings 24]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
-- [[2 Kings 23]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
+- [[2 Kings 25]] — 30 parallel verses, e.g. [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]] ↔ [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]]
+- [[Jeremiah 39]] — 22 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]]
+- [[2 Kings 24]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
+- [[2 Kings 23]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 - [[2 Chronicles 36]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
-- [[2 Kings 15]] — 8 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
-- [[2 Kings 21]] — 6 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
-- [[1 Kings 15]] — 9 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[1 Kings 15#^1kgs-15-2|1 Kings 15:2]]
-- [[2 Chronicles 29]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]] ↔ [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]]
-- [[2 Chronicles 33]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]]
-- [[Jeremiah 40]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]]
+- [[2 Kings 15]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
+- [[2 Kings 21]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
+- [[2 Chronicles 29]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]] ↔ [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]]
+- [[2 Chronicles 33]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]]
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]]
+- [[2 Chronicles 21]] — 3 parallel verses, e.g. [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]] ↔ [[2 Chronicles 21#^2chr-21-6|2 Chronicles 21:6]]
+- [[Jeremiah 40]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

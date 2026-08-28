@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,12 +44,10 @@ _Not yet developed._
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[Isaiah 52#^isa-52-8|Isaiah 52:8]] ↔ [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]]
 - [[2 Nephi 8]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-1|Isaiah 52:1]] ↔ [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-10|Isaiah 52:10]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
-- [[3 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-15|Isaiah 52:15]] ↔ [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]]
+- [[3 Nephi 21]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-15|Isaiah 52:15]] ↔ [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]]
 - [[Nahum 1]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[Nahum 1#^nahum-1-15|Nahum 1:15]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-11|Isaiah 52:11]] ↔ [[D&C 38#^dc-38-42|D&C 38:42]]
 - [[D&C 128]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
-- [[Jeremiah 51]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-11|Isaiah 52:11]] ↔ [[Jeremiah 51#^jer-51-45|Jeremiah 51:45]]
-- [[Psalm 67]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-10|Isaiah 52:10]] ↔ [[Psalm 67#^ps-67-7|Psalm 67:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 9
 slug: 1chr-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,16 +45,15 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Nehemiah 11]] — 10 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
 - [[1 Chronicles 8]] — 8 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-44|1 Chronicles 9:44]] ↔ [[1 Chronicles 8#^1chr-8-38|1 Chronicles 8:38]]
-- [[1 Chronicles 28]] — 4 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]]
-- [[1 Chronicles 6]] — 4 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]] ↔ [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]]
-- [[Leviticus 8]] — 5 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-21|1 Chronicles 9:21]] ↔ [[Leviticus 8#^lev-8-33|Leviticus 8:33]]
-- [[1 Chronicles 23]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
-- [[Exodus 29]] — 4 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-21|1 Chronicles 9:21]] ↔ [[Exodus 29#^ex-29-4|Exodus 29:4]]
-- [[Leviticus 17]] — 4 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-21|1 Chronicles 9:21]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
-- [[Ezra 7]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[Ezra 7#^ezra-7-2|Ezra 7:2]]
-- [[2 Chronicles 35]] — 2 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]]
-- [[1 Chronicles 5]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 5#^1chr-5-24|1 Chronicles 5:24]]
-- [[Joshua 22]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[Joshua 22#^josh-22-14|Joshua 22:14]]
+- [[1 Chronicles 6]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]] ↔ [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]]
+- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]]
+- [[Ezra 7]] — 2 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[Ezra 7#^ezra-7-2|Ezra 7:2]]
+- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[2 Chronicles 31#^2chr-31-13|2 Chronicles 31:13]]
+- [[1 Chronicles 23]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
+- [[2 Chronicles 24]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[2 Chronicles 24#^2chr-24-12|2 Chronicles 24:12]]
+- [[2 Chronicles 27]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
+- [[2 Chronicles 35]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]]
+- [[2 Chronicles 36]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

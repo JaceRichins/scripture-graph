@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 4
 slug: philip-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,14 +37,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Romans 16]] — 3 parallel verses, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
+- [[Romans 16]] — 2 parallel verses, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[Galatians 6]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
-- [[Galatians 1]] — 2 parallel verses, e.g. [[Philippians 4#^philip-4-20|Philippians 4:20]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 18]] — 28 parallel verses, e.g. [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]] ↔ [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]]
-- [[Ezekiel 3]] — 17 parallel verses, e.g. [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]] ↔ [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]]
-- [[Ezekiel 20]] — 16 parallel verses, e.g. [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]] ↔ [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]]
-- [[Ezekiel 24]] — 10 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
-- [[Ezekiel 37]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]] ↔ [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]]
-- [[Ezekiel 14]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
-- [[Ezekiel 17]] — 7 parallel verses, e.g. [[Ezekiel 33#^ezek-33-27|Ezekiel 33:27]] ↔ [[Ezekiel 17#^ezek-17-19|Ezekiel 17:19]]
-- [[Ezekiel 34]] — 6 parallel verses, e.g. [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]] ↔ [[Ezekiel 34#^ezek-34-27|Ezekiel 34:27]]
-- [[Ezekiel 12]] — 7 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 12#^ezek-12-28|Ezekiel 12:28]]
-- [[Ezekiel 30]] — 6 parallel verses, e.g. [[Ezekiel 33#^ezek-33-28|Ezekiel 33:28]] ↔ [[Ezekiel 30#^ezek-30-18|Ezekiel 30:18]]
-- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
-- [[Ezekiel 28]] — 6 parallel verses, e.g. [[Ezekiel 33#^ezek-33-1|Ezekiel 33:1]] ↔ [[Ezekiel 28#^ezek-28-20|Ezekiel 28:20]]
+- [[Ezekiel 18]] — 18 parallel verses, e.g. [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]] ↔ [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]]
+- [[Ezekiel 3]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]] ↔ [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]]
+- [[Ezekiel 20]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]] ↔ [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]]
+- [[Ezekiel 37]] — 5 parallel verses, e.g. [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]] ↔ [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]]
+- [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
+- [[Ezekiel 34]] — 3 parallel verses, e.g. [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]] ↔ [[Ezekiel 34#^ezek-34-27|Ezekiel 34:27]]
+- [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-11|Ezekiel 33:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
+- [[Ezekiel 30]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-28|Ezekiel 33:28]] ↔ [[Ezekiel 30#^ezek-30-18|Ezekiel 30:18]]
+- [[Ezekiel 17]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-27|Ezekiel 33:27]] ↔ [[Ezekiel 17#^ezek-17-19|Ezekiel 17:19]]
+- [[Ezekiel 1]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]]
+- [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
+- [[Ezekiel 24]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

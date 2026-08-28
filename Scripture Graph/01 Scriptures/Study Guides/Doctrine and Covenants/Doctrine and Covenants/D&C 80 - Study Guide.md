@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 80
 slug: dc-80
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 75]] — 3 parallel verses, e.g. [[D&C 80#^dc-80-3|D&C 80:3]] ↔ [[D&C 75#^dc-75-26|D&C 75:26]]
-- [[D&C 86]] — 2 parallel verses, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
+- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-3|D&C 80:3]] ↔ [[D&C 75#^dc-75-26|D&C 75:26]]
 - [[Mark 16]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[Mark 16#^mark-16-15|Mark 16:15]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[Mormon 9#^morm-9-22|Mormon 9:22]]
 - [[D&C 108]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
@@ -49,7 +48,6 @@ _Not yet developed._
 - [[D&C 124]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[D&C 126]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
-- [[D&C 55]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 55#^dc-55-1|D&C 55:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -632,8 +632,13 @@ def _create_evidence_notes(ctx: Ctx, job_id: str, cslug: str,
                 [f"- {a}" for a in evd["alternative_explanations"]] + [""]
         refs = ev.get("scripture_refs") or []
         if refs:
-            body_lines += ["**Scripture:** " + ", ".join(
-                mdkit.wikilink(_ref_to_title(r) or r) for r in refs)]
+            links: list[str] = []
+            for r in refs:
+                link = _ref_to_link(str(r))
+                if link and link not in links:
+                    links.append(link)
+            if links:
+                body_lines += ["**Scripture:** " + ", ".join(links[:10])]
         srcs = ev.get("sources") or []
         if srcs:
             body_lines += ["", "**Sources:**"] + [
@@ -665,3 +670,15 @@ def _create_evidence_notes(ctx: Ctx, job_id: str, cslug: str,
 def _ref_to_title(ref: str) -> str | None:
     cit = resolve_reference(str(ref))
     return chapter_display(cit.chapter_slug) if cit else None
+
+
+def _ref_to_link(ref: str) -> str | None:
+    """'Alma 36:22' -> verse-anchored wikilink; 'Alma 36' -> chapter link."""
+    cit = resolve_reference(ref)
+    if cit is None:
+        return None
+    title = chapter_display(cit.chapter_slug)
+    verses = cit.verses()
+    if verses:
+        return mdkit.verse_link(title, f"{cit.chapter_slug}-{verses[0]}", cit.display())
+    return mdkit.wikilink(title)

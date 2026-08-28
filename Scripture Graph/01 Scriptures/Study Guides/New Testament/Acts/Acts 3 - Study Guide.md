@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 3
 slug: acts-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 20]] — 7 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
-- [[1 Nephi 22]] — 4 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
+- [[3 Nephi 20]] — 6 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
+- [[1 Nephi 22]] — 3 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[Acts 7#^acts-7-37|Acts 7:37]]
 - [[1 Nephi 15]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[Acts 3#^acts-3-19|Acts 3:19]] ↔ [[Alma 42#^alma-42-7|Alma 42:7]]
 - [[D&C 136]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[D&C 136#^dc-136-21|D&C 136:21]]
 - [[1 Nephi 19]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
-- [[Jonah 1]] — 2 parallel verses, e.g. [[Acts 3#^acts-3-19|Acts 3:19]] ↔ [[Jonah 1#^jonah-1-3|Jonah 1:3]]
-- [[Alma 9]] — 2 parallel verses, e.g. [[Acts 3#^acts-3-19|Acts 3:19]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Genesis 22]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
-- [[Genesis 26]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[Genesis 26#^gen-26-4|Genesis 26:4]]
-- [[Genesis 28]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

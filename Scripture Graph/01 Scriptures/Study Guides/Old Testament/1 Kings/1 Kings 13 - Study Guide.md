@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 13
 slug: 1kgs-13
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 23]] — 6 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[2 Kings 23#^2kgs-23-16|2 Kings 23:16]]
 - [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
-- [[1 Kings 12]] — 4 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 12#^1kgs-12-24|1 Kings 12:24]]
-- [[2 Kings 1]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-21|1 Kings 13:21]] ↔ [[2 Kings 1#^2kgs-1-16|2 Kings 1:16]]
-- [[Alma 14]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-23|1 Kings 13:23]] ↔ [[Alma 14#^alma-14-1|Alma 14:1]]
-- [[1 Kings 14]] — 1 parallel verse, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 14#^1kgs-14-18|1 Kings 14:18]]
-- [[2 Kings 4]] — 3 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[2 Kings 4#^2kgs-4-44|2 Kings 4:44]]
 - [[2 Kings 17]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-32|1 Kings 13:32]] ↔ [[2 Kings 17#^2kgs-17-29|2 Kings 17:29]]
-- [[1 Kings 17]] — 1 parallel verse, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]]
-- [[2 Kings 9]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]]
-- [[2 Kings 24]] — 1 parallel verse, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
-- [[2 Samuel 14]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-6|1 Kings 13:6]] ↔ [[2 Samuel 14#^2sam-14-18|2 Samuel 14:18]]
+- [[1 Kings 14]] — 1 parallel verse, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 14#^1kgs-14-18|1 Kings 14:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

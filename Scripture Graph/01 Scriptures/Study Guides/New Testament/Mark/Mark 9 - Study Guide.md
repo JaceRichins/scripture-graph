@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 9
 slug: mark-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 9]] — 11 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
-- [[Matthew 17]] — 10 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Matthew 17#^matt-17-4|Matthew 17:4]]
+- [[Luke 9]] — 8 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
+- [[Matthew 17]] — 9 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Matthew 17#^matt-17-4|Matthew 17:4]]
 - [[Matthew 18]] — 8 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Matthew 18#^matt-18-9|Matthew 18:9]]
 - [[D&C 76]] — 3 parallel verses, e.g. [[Mark 9#^mark-9-44|Mark 9:44]] ↔ [[D&C 76#^dc-76-44|D&C 76:44]]
 - [[Luke 17]] — 1 parallel verse, e.g. [[Mark 9#^mark-9-42|Mark 9:42]] ↔ [[Luke 17#^luke-17-2|Luke 17:2]]
-- [[Matthew 21]] — 4 parallel verses, e.g. [[Mark 9#^mark-9-28|Mark 9:28]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
-- [[Mark 10]] — 4 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Mark 10#^mark-10-24|Mark 10:24]]
-- [[Luke 18]] — 3 parallel verses, e.g. [[Mark 9#^mark-9-1|Mark 9:1]] ↔ [[Luke 18#^luke-18-29|Luke 18:29]]
-- [[Matthew 19]] — 3 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
-- [[Luke 8]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-9|Mark 9:9]] ↔ [[Luke 8#^luke-8-56|Luke 8:56]]
-- [[Matthew 5]] — 3 parallel verses, e.g. [[Mark 9#^mark-9-50|Mark 9:50]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
-- [[Matthew 16]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-1|Mark 9:1]] ↔ [[Matthew 16#^matt-16-28|Matthew 16:28]]
+- [[Luke 18]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-1|Mark 9:1]] ↔ [[Luke 18#^luke-18-29|Luke 18:29]]
+- [[Matthew 21]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-28|Mark 9:28]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
+- [[Matthew 19]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Luke 8]] — 1 parallel verse, e.g. [[Mark 9#^mark-9-9|Mark 9:9]] ↔ [[Luke 8#^luke-8-56|Luke 8:56]]
+- [[Luke 14]] — 1 parallel verse, e.g. [[Mark 9#^mark-9-50|Mark 9:50]] ↔ [[Luke 14#^luke-14-34|Luke 14:34]]
+- [[Mark 10]] — 2 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Mark 10#^mark-10-24|Mark 10:24]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[Mark 9#^mark-9-1|Mark 9:1]] ↔ [[Matthew 16#^matt-16-28|Matthew 16:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

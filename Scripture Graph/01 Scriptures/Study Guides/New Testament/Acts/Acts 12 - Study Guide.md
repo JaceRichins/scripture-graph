@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 12
 slug: acts-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,7 +42,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Nephi 5]] — 1 parallel verse, e.g. [[Acts 12#^acts-12-11|Acts 12:11]] ↔ [[1 Nephi 5#^1ne-5-8|1 Nephi 5:8]]
-- [[Mosiah 7]] — 1 parallel verse, e.g. [[Acts 12#^acts-12-11|Acts 12:11]] ↔ [[Mosiah 7#^mosiah-7-14|Mosiah 7:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

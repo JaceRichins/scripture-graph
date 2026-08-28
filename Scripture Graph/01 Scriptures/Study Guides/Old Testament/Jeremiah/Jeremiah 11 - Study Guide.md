@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 11
 slug: jer-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,16 +40,16 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 7]] — 7 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 7#^jer-7-17|Jeremiah 7:17]]
 - [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 11#^jer-11-5|Jeremiah 11:5]] ↔ [[Jeremiah 32#^jer-32-22|Jeremiah 32:22]]
-- [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 44#^jer-44-6|Jeremiah 44:6]]
-- [[Numbers 1]] — 13 parallel verses, e.g. [[Jeremiah 11#^jer-11-13|Jeremiah 11:13]] ↔ [[Numbers 1#^num-1-18|Numbers 1:18]]
+- [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 44#^jer-44-6|Jeremiah 44:6]]
 - [[Jeremiah 34]] — 4 parallel verses, e.g. [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]] ↔ [[Jeremiah 34#^jer-34-13|Jeremiah 34:13]]
 - [[Jeremiah 20]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-20|Jeremiah 11:20]] ↔ [[Jeremiah 20#^jer-20-12|Jeremiah 20:12]]
 - [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 11#^jer-11-1|Jeremiah 11:1]] ↔ [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]]
-- [[Jeremiah 18]] — 3 parallel verses, e.g. [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]] ↔ [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]]
-- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Jeremiah 11#^jer-11-10|Jeremiah 11:10]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
-- [[2 Kings 22]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-11|Jeremiah 11:11]] ↔ [[2 Kings 22#^2kgs-22-16|2 Kings 22:16]]
-- [[Ezekiel 37]] — 4 parallel verses, e.g. [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
-- [[Deuteronomy 29]] — 3 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]]
+- [[Jeremiah 18]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]] ↔ [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]]
+- [[Jeremiah 33]] — 1 parallel verse, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 33#^jer-33-10|Jeremiah 33:10]]
+- [[Deuteronomy 29]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]]
+- [[1 Samuel 8]] — 1 parallel verse, e.g. [[Jeremiah 11#^jer-11-7|Jeremiah 11:7]] ↔ [[1 Samuel 8#^1sam-8-8|1 Samuel 8:8]]
+- [[Zechariah 8]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]] ↔ [[Zechariah 8#^zech-8-8|Zechariah 8:8]]
+- [[Jeremiah 29]] — 2 parallel verses, e.g. [[Jeremiah 11#^jer-11-11|Jeremiah 11:11]] ↔ [[Jeremiah 29#^jer-29-32|Jeremiah 29:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

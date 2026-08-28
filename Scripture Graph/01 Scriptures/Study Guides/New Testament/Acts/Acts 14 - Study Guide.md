@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,12 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 10]] — 3 parallel verses, e.g. [[Acts 14#^acts-14-22|Acts 14:22]] ↔ [[Mark 10#^mark-10-23|Mark 10:23]]
 - [[Acts 4]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
-- [[Revelation 14]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Revelation 14#^rev-14-7|Revelation 14:7]]
-- [[D&C 133]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[D&C 133#^dc-133-39|D&C 133:39]]
-- [[Luke 18]] — 2 parallel verses, e.g. [[Acts 14#^acts-14-22|Acts 14:22]] ↔ [[Luke 18#^luke-18-24|Luke 18:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 29
 slug: 2chr-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 15]] — 12 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
-- [[2 Kings 24]] — 7 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
-- [[2 Kings 23]] — 6 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
-- [[2 Kings 21]] — 8 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[2 Kings 21#^2kgs-21-1|2 Kings 21:1]]
-- [[Jeremiah 52]] — 5 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]] ↔ [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]]
-- [[1 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[1 Kings 15#^1kgs-15-2|1 Kings 15:2]]
-- [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
-- [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
-- [[2 Chronicles 20]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
+- [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
+- [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
+- [[Jeremiah 52]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]] ↔ [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]]
+- [[2 Kings 24]] — 3 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
+- [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[1 Kings 15#^1kgs-15-2|1 Kings 15:2]]
 - [[2 Kings 18]] — 1 parallel verse, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
-- [[Numbers 4]] — 6 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-25|2 Chronicles 29:25]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
-- [[2 Chronicles 26]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
+- [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
+- [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
+- [[2 Kings 22]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
+- [[2 Chronicles 20]] — 3 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
+- [[2 Chronicles 25]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
+- [[2 Chronicles 26]] — 1 parallel verse, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

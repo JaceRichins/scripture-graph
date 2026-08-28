@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 48
 slug: jer-48
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,16 +38,16 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 31]] — 4 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
-- [[Jeremiah 44]] — 6 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
-- [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-15|Jeremiah 48:15]] ↔ [[Jeremiah 51#^jer-51-57|Jeremiah 51:57]]
-- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[Jeremiah 48#^jer-48-44|Jeremiah 48:44]] ↔ [[Isaiah 24#^isa-24-18|Isaiah 24:18]]
-- [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
+- [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-15|Jeremiah 48:15]] ↔ [[Jeremiah 51#^jer-51-57|Jeremiah 51:57]]
 - [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
-- [[Jeremiah 35]] — 4 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 49]] — 2 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
+- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
 - [[Jeremiah 19]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 - [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
+- [[Jeremiah 35]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[Jeremiah 44]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
 - [[Jeremiah 46]] — 2 parallel verses, e.g. [[Jeremiah 48#^jer-48-15|Jeremiah 48:15]] ↔ [[Jeremiah 46#^jer-46-18|Jeremiah 46:18]]
 <!-- SG:END related-scriptures -->
 

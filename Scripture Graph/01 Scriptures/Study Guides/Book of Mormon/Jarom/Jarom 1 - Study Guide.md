@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Omni 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
-- [[4 Nephi 1]] — 6 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]
-- [[Alma 9]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Alma 37]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
-- [[Mormon 3]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Mormon 3#^morm-3-10|Mormon 3:10]]
-- [[Words of Mormon 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-10|Jarom 1:10]] ↔ [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]]
-- [[2 Nephi 25]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]]
-- [[1 Nephi 12]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-13|Jarom 1:13]] ↔ [[1 Nephi 12#^1ne-12-3|1 Nephi 12:3]]
-- [[Ether 12]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-4|Jarom 1:4]] ↔ [[Ether 12#^ether-12-29|Ether 12:29]]
-- [[Mosiah 13]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Mosiah 13#^mosiah-13-32|Mosiah 13:32]]
-- [[1 Nephi 2]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[1 Nephi 2#^1ne-2-18|1 Nephi 2:18]]
+- [[Omni 1]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
+- [[Alma 37]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
+- [[4 Nephi 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Mormon 3#^morm-3-10|Mormon 3:10]]
 - [[1 Nephi 14]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
+- [[2 Nephi 25]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]]
+- [[3 Nephi 7]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]]
+- [[Ether 15]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Ether 15#^ether-15-19|Ether 15:19]]
+- [[2 Nephi 1]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[2 Nephi 4]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

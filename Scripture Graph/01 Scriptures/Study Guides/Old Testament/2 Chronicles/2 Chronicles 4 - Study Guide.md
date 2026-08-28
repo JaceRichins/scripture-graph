@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 4
 slug: 2chr-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 7]] — 18 parallel verses, e.g. [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]] ↔ [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]]
+- [[1 Kings 7]] — 16 parallel verses, e.g. [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]] ↔ [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]]
 - [[Exodus 38]] — 1 parallel verse, e.g. [[2 Chronicles 4#^2chr-4-11|2 Chronicles 4:11]] ↔ [[Exodus 38#^ex-38-3|Exodus 38:3]]
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[2 Chronicles 4#^2chr-4-16|2 Chronicles 4:16]] ↔ [[Jeremiah 52#^jer-52-18|Jeremiah 52:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,8 +42,6 @@ _Not yet developed._
 - [[Matthew 17]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
-- [[2 Peter 3]] — 2 parallel verses, e.g. [[2 Peter 1#^2pet-1-11|2 Peter 1:11]] ↔ [[2 Peter 3#^2pet-3-18|2 Peter 3:18]]
-- [[D&C 20]] — 2 parallel verses, e.g. [[2 Peter 1#^2pet-1-1|2 Peter 1:1]] ↔ [[D&C 20#^dc-20-2|D&C 20:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

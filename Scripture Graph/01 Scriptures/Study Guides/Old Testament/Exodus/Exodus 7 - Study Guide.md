@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 7
 slug: ex-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 8]] — 12 parallel verses, e.g. [[Exodus 7#^ex-7-13|Exodus 7:13]] ↔ [[Exodus 8#^ex-8-19|Exodus 8:19]]
-- [[Exodus 9]] — 8 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
-- [[Exodus 3]] — 5 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 3#^ex-3-18|Exodus 3:18]]
-- [[Exodus 6]] — 5 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 6#^ex-6-13|Exodus 6:13]]
-- [[Exodus 11]] — 5 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 11#^ex-11-9|Exodus 11:9]]
+- [[Exodus 8]] — 8 parallel verses, e.g. [[Exodus 7#^ex-7-13|Exodus 7:13]] ↔ [[Exodus 8#^ex-8-19|Exodus 8:19]]
+- [[Exodus 9]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
+- [[Exodus 6]] — 4 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 6#^ex-6-13|Exodus 6:13]]
 - [[Exodus 14]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-5|Exodus 7:5]] ↔ [[Exodus 14#^ex-14-18|Exodus 14:18]]
-- [[Joshua 22]] — 4 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
-- [[Genesis 41]] — 4 parallel verses, e.g. [[Exodus 7#^ex-7-19|Exodus 7:19]] ↔ [[Genesis 41#^gen-41-29|Genesis 41:29]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 3#^ex-3-18|Exodus 3:18]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-8|Exodus 7:8]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
-- [[Exodus 5]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 5#^ex-5-1|Exodus 5:1]]
-- [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 12#^ex-12-51|Exodus 12:51]]
 - [[Exodus 10]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
+- [[Exodus 12]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 12#^ex-12-51|Exodus 12:51]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

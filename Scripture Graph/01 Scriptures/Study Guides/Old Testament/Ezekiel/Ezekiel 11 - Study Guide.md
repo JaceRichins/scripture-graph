@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 20]] — 12 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
 - [[Ezekiel 8]] — 6 parallel verses, e.g. [[Ezekiel 11#^ezek-11-1|Ezekiel 11:1]] ↔ [[Ezekiel 8#^ezek-8-16|Ezekiel 8:16]]
-- [[Ezekiel 13]] — 10 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[Ezekiel 37]] — 7 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
-- [[Ezekiel 36]] — 7 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
 - [[Ezekiel 10]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
-- [[Jeremiah 32]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]
-- [[Jeremiah 24]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]
 - [[Ezekiel 9]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]] ↔ [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]]
-- [[Ezekiel 17]] — 5 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
-- [[Ezekiel 35]] — 5 parallel verses, e.g. [[Ezekiel 11#^ezek-11-17|Ezekiel 11:17]] ↔ [[Ezekiel 35#^ezek-35-11|Ezekiel 35:11]]
-- [[Ezekiel 12]] — 5 parallel verses, e.g. [[Ezekiel 11#^ezek-11-15|Ezekiel 11:15]] ↔ [[Ezekiel 12#^ezek-12-10|Ezekiel 12:10]]
+- [[Ezekiel 36]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
+- [[Jeremiah 24]] — 1 parallel verse, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
+- [[Zechariah 8]] — 1 parallel verse, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Zechariah 8#^zech-8-8|Zechariah 8:8]]
+- [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
+- [[Ezekiel 13]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
+- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-24|Ezekiel 11:24]] ↔ [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

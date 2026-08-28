@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 8
 slug: moro-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 3]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-3|Moroni 8:3]] ↔ [[Moroni 3#^moro-3-3|Moroni 3:3]]
-- [[Moroni 10]] — 4 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
-- [[Alma 42]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-6|Moroni 8:6]] ↔ [[Alma 42#^alma-42-29|Alma 42:29]]
 - [[Mormon 8]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-14|Moroni 8:14]] ↔ [[Mormon 8#^morm-8-31|Mormon 8:31]]
-- [[1 Nephi 10]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Jacob 7]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
-- [[Moroni 7]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
+- [[Moroni 3]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-3|Moroni 8:3]] ↔ [[Moroni 3#^moro-3-3|Moroni 3:3]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-6|Moroni 8:6]] ↔ [[Alma 42#^alma-42-29|Alma 42:29]]
 - [[Mark 2]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-8|Moroni 8:8]] ↔ [[Mark 2#^mark-2-17|Mark 2:17]]
-- [[Luke 5]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-8|Moroni 8:8]] ↔ [[Luke 5#^luke-5-32|Luke 5:32]]
 - [[Alma 41]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-14|Moroni 8:14]] ↔ [[Alma 41#^alma-41-11|Alma 41:11]]
-- [[Moses 7]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-12|Moroni 8:12]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
+- [[1 Nephi 10]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
+- [[Luke 5]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-8|Moroni 8:8]] ↔ [[Luke 5#^luke-5-32|Luke 5:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

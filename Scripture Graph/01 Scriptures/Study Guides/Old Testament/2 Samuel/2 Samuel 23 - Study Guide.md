@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 23
 slug: 2sam-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,12 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 11]] — 23 parallel verses, e.g. [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]] ↔ [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]]
-- [[1 Kings 1]] — 11 parallel verses, e.g. [[2 Samuel 23#^2sam-23-20|2 Samuel 23:20]] ↔ [[1 Kings 1#^1kgs-1-8|1 Kings 1:8]]
-- [[Exodus 7]] — 3 parallel verses, e.g. [[2 Samuel 23#^2sam-23-15|2 Samuel 23:15]] ↔ [[Exodus 7#^ex-7-18|Exodus 7:18]]
-- [[2 Samuel 8]] — 2 parallel verses, e.g. [[2 Samuel 23#^2sam-23-18|2 Samuel 23:18]] ↔ [[2 Samuel 8#^2sam-8-16|2 Samuel 8:16]]
-- [[1 Samuel 19]] — 2 parallel verses, e.g. [[2 Samuel 23#^2sam-23-10|2 Samuel 23:10]] ↔ [[1 Samuel 19#^1sam-19-5|1 Samuel 19:5]]
-- [[1 Chronicles 18]] — 2 parallel verses, e.g. [[2 Samuel 23#^2sam-23-18|2 Samuel 23:18]] ↔ [[1 Chronicles 18#^1chr-18-15|1 Chronicles 18:15]]
+- [[1 Chronicles 11]] — 19 parallel verses, e.g. [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]] ↔ [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

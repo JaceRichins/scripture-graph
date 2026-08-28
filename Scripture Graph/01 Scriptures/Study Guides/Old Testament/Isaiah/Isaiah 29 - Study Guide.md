@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 27]] — 21 parallel verses, e.g. [[Isaiah 29#^isa-29-16|Isaiah 29:16]] ↔ [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]]
+- [[2 Nephi 27]] — 19 parallel verses, e.g. [[Isaiah 29#^isa-29-16|Isaiah 29:16]] ↔ [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-4|Isaiah 29:4]] ↔ [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-21|Isaiah 29:21]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
 <!-- SG:END related-scriptures -->

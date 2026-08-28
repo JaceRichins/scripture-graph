@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 4
 slug: 1sam-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,14 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 15]] — 13 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[1 Chronicles 15]] — 12 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Joshua 3]] — 9 parallel verses, e.g. [[1 Samuel 4#^1sam-4-4|1 Samuel 4:4]] ↔ [[Joshua 3#^josh-3-11|Joshua 3:11]]
 - [[Deuteronomy 31]] — 9 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
-- [[Joshua 4]] — 7 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[2 Chronicles 5]] — 6 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[1 Kings 8]] — 6 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
+- [[Joshua 4]] — 6 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Chronicles 28]] — 6 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
-- [[1 Chronicles 16]] — 6 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]]
+- [[1 Samuel 1]] — 2 parallel verses, e.g. [[1 Samuel 4#^1sam-4-4|1 Samuel 4:4]] ↔ [[1 Samuel 1#^1sam-1-3|1 Samuel 1:3]]
 - [[Numbers 10]] — 3 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
 - [[Numbers 14]] — 3 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
 - [[Deuteronomy 10]] — 3 parallel verses, e.g. [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]

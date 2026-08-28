@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 110
 slug: dc-110
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,9 @@ _Not yet developed._
 - [[Malachi 4]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Malachi 4#^mal-4-5|Malachi 4:5]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[3 Nephi 25]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]]
-- [[Joseph Smith—History 1]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
 - [[D&C 104]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-10|D&C 110:10]] ↔ [[D&C 104#^dc-104-32|D&C 104:32]]
 - [[D&C 2]] — 2 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
 - [[Luke 1]] — 1 parallel verse, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[Luke 1#^luke-1-17|Luke 1:17]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
 - [[Revelation 1]] — 2 parallel verses, e.g. [[D&C 110#^dc-110-3|D&C 110:3]] ↔ [[Revelation 1#^rev-1-14|Revelation 1:14]]

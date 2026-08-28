@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 15
 slug: judg-15
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,16 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 4]] — 4 parallel verses, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[2 Nephi 4#^2ne-4-11|2 Nephi 4:11]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[Judges 15#^judg-15-14|Judges 15:14]] ↔ [[Judges 14#^judg-14-6|Judges 14:6]]
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]]
-- [[Mosiah 8]] — 2 parallel verses, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]]
-- [[Mosiah 25]] — 2 parallel verses, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[Mosiah 25#^mosiah-25-14|Mosiah 25:14]]
-- [[Judges 3]] — 2 parallel verses, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[Judges 3#^judg-3-18|Judges 3:18]]
-- [[Genesis 12]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-11|Judges 15:11]] ↔ [[Genesis 12#^gen-12-18|Genesis 12:18]]
-- [[Alma 12]] — 2 parallel verses, e.g. [[Judges 15#^judg-15-11|Judges 15:11]] ↔ [[Alma 12#^alma-12-20|Alma 12:20]]
-- [[2 Samuel 13]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[2 Samuel 13#^2sam-13-36|2 Samuel 13:36]]
-- [[1 Samuel 28]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-12|Judges 15:12]] ↔ [[1 Samuel 28#^1sam-28-19|1 Samuel 28:19]]
+- [[Judges 14]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-14|Judges 15:14]] ↔ [[Judges 14#^judg-14-6|Judges 14:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

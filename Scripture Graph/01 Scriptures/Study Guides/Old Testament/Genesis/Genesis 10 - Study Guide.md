@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 10
 slug: gen-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,12 +43,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 1]] — 13 parallel verses, e.g. [[Genesis 10#^gen-10-2|Genesis 10:2]] ↔ [[1 Chronicles 1#^1chr-1-5|1 Chronicles 1:5]]
-- [[Numbers 26]] — 7 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 26#^num-26-37|Numbers 26:37]]
-- [[Numbers 4]] — 5 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
-- [[Numbers 3]] — 4 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
-- [[Numbers 36]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
-- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]]
+- [[1 Chronicles 1]] — 12 parallel verses, e.g. [[Genesis 10#^gen-10-2|Genesis 10:2]] ↔ [[1 Chronicles 1#^1chr-1-5|1 Chronicles 1:5]]
+- [[Numbers 26]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 26#^num-26-37|Numbers 26:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

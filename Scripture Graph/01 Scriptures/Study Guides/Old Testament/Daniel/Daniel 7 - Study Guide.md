@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 7
 slug: dan-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,10 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 82]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-22|Daniel 7:22]] ↔ [[D&C 82#^dc-82-13|D&C 82:13]]
-- [[D&C 45]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-18|Daniel 7:18]] ↔ [[D&C 45#^dc-45-66|D&C 45:66]]
-- [[D&C 85]] — 4 parallel verses, e.g. [[Daniel 7#^dan-7-18|Daniel 7:18]] ↔ [[D&C 85#^dc-85-11|D&C 85:11]]
-- [[Daniel 4]] — 2 parallel verses, e.g. [[Daniel 7#^dan-7-15|Daniel 7:15]] ↔ [[Daniel 4#^dan-4-5|Daniel 4:5]]
+- [[D&C 82]] — 3 parallel verses, e.g. [[Daniel 7#^dan-7-22|Daniel 7:22]] ↔ [[D&C 82#^dc-82-13|D&C 82:13]]
 - [[Daniel 6]] — 1 parallel verse, e.g. [[Daniel 7#^dan-7-14|Daniel 7:14]] ↔ [[Daniel 6#^dan-6-26|Daniel 6:26]]
 <!-- SG:END related-scriptures -->
 

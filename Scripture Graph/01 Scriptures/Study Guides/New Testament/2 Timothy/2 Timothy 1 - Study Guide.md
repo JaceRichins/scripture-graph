@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 1
 slug: 2tim-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,12 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Timothy 1]] — 3 parallel verses, e.g. [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]] ↔ [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]]
+- [[1 Timothy 1]] — 2 parallel verses, e.g. [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]] ↔ [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
 - [[Titus 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]] ↔ [[Titus 1#^titus-1-4|Titus 1:4]]
-- [[2 John 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]] ↔ [[2 John 1#^2jn-1-3|2 John 1:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

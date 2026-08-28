@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 23
 slug: josh-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 3]] — 8 parallel verses, e.g. [[Joshua 23#^josh-23-3|Joshua 23:3]] ↔ [[Deuteronomy 3#^deut-3-21|Deuteronomy 3:21]]
-- [[Joshua 1]] — 7 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 1#^josh-1-7|Joshua 1:7]]
-- [[Deuteronomy 11]] — 5 parallel verses, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 11#^deut-11-17|Deuteronomy 11:17]]
-- [[Joshua 24]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-2|Joshua 23:2]] ↔ [[Joshua 24#^josh-24-1|Joshua 24:1]]
-- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 4#^deut-4-23|Deuteronomy 4:23]]
-- [[Deuteronomy 5]] — 4 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Deuteronomy 5#^deut-5-32|Deuteronomy 5:32]]
+- [[Deuteronomy 3]] — 5 parallel verses, e.g. [[Joshua 23#^josh-23-3|Joshua 23:3]] ↔ [[Deuteronomy 3#^deut-3-21|Deuteronomy 3:21]]
+- [[Joshua 1]] — 3 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 1#^josh-1-7|Joshua 1:7]]
+- [[Joshua 24]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-2|Joshua 23:2]] ↔ [[Joshua 24#^josh-24-1|Joshua 24:1]]
 - [[Joshua 8]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 8#^josh-8-31|Joshua 8:31]]
-- [[Deuteronomy 17]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]]
 - [[Deuteronomy 7]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 7#^deut-7-4|Deuteronomy 7:4]]
-- [[Joshua 2]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-3|Joshua 23:3]] ↔ [[Joshua 2#^josh-2-11|Joshua 2:11]]
-- [[Nehemiah 8]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]]
-- [[Numbers 22]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Numbers 22#^num-22-26|Numbers 22:26]]
+- [[Deuteronomy 4]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 4#^deut-4-23|Deuteronomy 4:23]]
+- [[Deuteronomy 11]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 11#^deut-11-17|Deuteronomy 11:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

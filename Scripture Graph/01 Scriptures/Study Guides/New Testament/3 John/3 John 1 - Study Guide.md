@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

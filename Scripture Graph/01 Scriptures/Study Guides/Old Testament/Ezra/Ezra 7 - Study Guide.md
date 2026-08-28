@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 7
 slug: ezra-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 28]] — 6 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
 - [[Numbers 25]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Numbers 25#^num-25-7|Numbers 25:7]]
-- [[Nehemiah 11]] — 4 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
-- [[Leviticus 4]] — 5 parallel verses, e.g. [[Ezra 7#^ezra-7-11|Ezra 7:11]] ↔ [[Leviticus 4#^lev-4-2|Leviticus 4:2]]
-- [[Ezra 8]] — 4 parallel verses, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Ezra 8#^ezra-8-29|Ezra 8:29]]
-- [[Ezra 2]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Ezra 2#^ezra-2-70|Ezra 2:70]]
-- [[Nehemiah 13]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]]
-- [[2 Chronicles 29]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-9|Ezra 7:9]] ↔ [[2 Chronicles 29#^2chr-29-17|2 Chronicles 29:17]]
-- [[1 Chronicles 23]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
-- [[1 Chronicles 9]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
-- [[Joshua 22]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Joshua 22#^josh-22-13|Joshua 22:13]]
-- [[Nehemiah 7]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Nehemiah 7#^neh-7-73|Nehemiah 7:73]]
+- [[Nehemiah 11]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
+- [[Ezra 2]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Ezra 2#^ezra-2-70|Ezra 2:70]]
+- [[Nehemiah 13]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]]
+- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
+- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
+- [[1 Chronicles 9]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
+- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-1|Ezra 7:1]] ↔ [[1 Chronicles 6#^1chr-6-36|1 Chronicles 6:36]]
+- [[Judges 20]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Judges 20#^judg-20-28|Judges 20:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 9
 slug: amos-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,10 +46,6 @@ _Not yet developed._
 - [[Amos 8]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-5|Amos 9:5]] ↔ [[Amos 8#^amos-8-8|Amos 8:8]]
 - [[Isaiah 65]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Isaiah 65#^isa-65-21|Isaiah 65:21]]
 - [[Jeremiah 29]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Jeremiah 29#^jer-29-5|Jeremiah 29:5]]
-- [[Ezekiel 34]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-15|Amos 9:15]] ↔ [[Ezekiel 34#^ezek-34-22|Ezekiel 34:22]]
-- [[Ezekiel 29]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Ezekiel 29#^ezek-29-14|Ezekiel 29:14]]
-- [[Jeremiah 7]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
-- [[Jeremiah 9]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

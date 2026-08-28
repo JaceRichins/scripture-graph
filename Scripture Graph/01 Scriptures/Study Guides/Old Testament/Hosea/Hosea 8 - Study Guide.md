@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 8
 slug: hosea-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Amos 1]] — 5 parallel verses, e.g. [[Hosea 8#^hosea-8-14|Hosea 8:14]] ↔ [[Amos 1#^amos-1-14|Amos 1:14]]
+- [[Amos 1]] — 4 parallel verses, e.g. [[Hosea 8#^hosea-8-14|Hosea 8:14]] ↔ [[Amos 1#^amos-1-14|Amos 1:14]]
 - [[Amos 2]] — 2 parallel verses, e.g. [[Hosea 8#^hosea-8-14|Hosea 8:14]] ↔ [[Amos 2#^amos-2-2|Amos 2:2]]
 <!-- SG:END related-scriptures -->
 

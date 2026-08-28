@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 11
 slug: alma-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 40]] — 7 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 40#^alma-40-21|Alma 40:21]]
-- [[Alma 12]] — 4 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 12#^alma-12-8|Alma 12:8]]
-- [[Mosiah 16]] — 2 parallel verses, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]]
-- [[3 Nephi 27]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
+- [[Alma 40]] — 4 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 40#^alma-40-21|Alma 40:21]]
+- [[Alma 12]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 12#^alma-12-8|Alma 12:8]]
 - [[Alma 1]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Alma 1#^alma-1-30|Alma 1:30]]
-- [[Alma 5]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
+- [[Mosiah 16]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]]
 - [[3 Nephi 26]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]]
-- [[Alma 18]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-34|Alma 11:34]] ↔ [[Alma 18#^alma-18-19|Alma 18:19]]
-- [[Numbers 3]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-4|Alma 11:4]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
 - [[Alma 21]] — 2 parallel verses, e.g. [[Alma 11#^alma-11-35|Alma 11:35]] ↔ [[Alma 21#^alma-21-7|Alma 21:7]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-39|Alma 11:39]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]]
+- [[Alma 5]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Alma 5#^alma-5-49|Alma 5:49]]
+- [[Mosiah 15]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-39|Alma 11:39]] ↔ [[Mosiah 15#^mosiah-15-4|Mosiah 15:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

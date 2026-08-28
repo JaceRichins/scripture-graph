@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 4
 slug: 1kgs-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 1]] — 6 parallel verses, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[1 Kings 1#^1kgs-1-8|1 Kings 1:8]]
 - [[2 Samuel 20]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[2 Samuel 20#^2sam-20-23|2 Samuel 20:23]]
-- [[Joshua 13]] — 3 parallel verses, e.g. [[1 Kings 4#^1kgs-4-19|1 Kings 4:19]] ↔ [[Joshua 13#^josh-13-10|Joshua 13:10]]
 - [[Micah 4]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-25|1 Kings 4:25]] ↔ [[Micah 4#^micah-4-4|Micah 4:4]]
 - [[1 Chronicles 18]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]]
-- [[Hebrews 11]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-20|1 Kings 4:20]] ↔ [[Hebrews 11#^heb-11-12|Hebrews 11:12]]
-- [[2 Kings 25]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-21|1 Kings 4:21]] ↔ [[2 Kings 25#^2kgs-25-29|2 Kings 25:29]]
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-21|1 Kings 4:21]] ↔ [[Jeremiah 52#^jer-52-33|Jeremiah 52:33]]
-- [[Numbers 32]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-19|1 Kings 4:19]] ↔ [[Numbers 32#^num-32-33|Numbers 32:33]]
-- [[2 Samuel 24]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-25|1 Kings 4:25]] ↔ [[2 Samuel 24#^2sam-24-2|2 Samuel 24:2]]
-- [[2 Samuel 8]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[2 Samuel 8#^2sam-8-18|2 Samuel 8:18]]
-- [[Ezra 4]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-24|1 Kings 4:24]] ↔ [[Ezra 4#^ezra-4-10|Ezra 4:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

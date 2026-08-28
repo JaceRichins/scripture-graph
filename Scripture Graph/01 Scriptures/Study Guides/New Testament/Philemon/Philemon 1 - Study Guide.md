@@ -6,7 +6,7 @@ volume: New Testament
 book: Philemon
 chapter: 1
 slug: philem-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

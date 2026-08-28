@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 19
 slug: mosiah-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 23]] — 7 parallel verses, e.g. [[Mosiah 19#^mosiah-19-24|Mosiah 19:24]] ↔ [[Mosiah 23#^mosiah-23-38|Mosiah 23:38]]
-- [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
-- [[Ether 15]] — 5 parallel verses, e.g. [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]] ↔ [[Ether 15#^ether-15-28|Ether 15:28]]
-- [[Alma 43]] — 5 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
-- [[Mormon 6]] — 4 parallel verses, e.g. [[Mosiah 19#^mosiah-19-25|Mosiah 19:25]] ↔ [[Mormon 6#^morm-6-3|Mormon 6:3]]
-- [[Mosiah 21]] — 4 parallel verses, e.g. [[Mosiah 19#^mosiah-19-24|Mosiah 19:24]] ↔ [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]]
-- [[Ether 9]] — 4 parallel verses, e.g. [[Mosiah 19#^mosiah-19-29|Mosiah 19:29]] ↔ [[Ether 9#^ether-9-15|Ether 9:15]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Mosiah 19#^mosiah-19-10|Mosiah 19:10]] ↔ [[Alma 52#^alma-52-27|Alma 52:27]]
+- [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
 - [[3 Nephi 6]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]]
-- [[Alma 48]] — 3 parallel verses, e.g. [[Mosiah 19#^mosiah-19-11|Mosiah 19:11]] ↔ [[Alma 48#^alma-48-10|Alma 48:10]]
-- [[Mormon 2]] — 3 parallel verses, e.g. [[Mosiah 19#^mosiah-19-11|Mosiah 19:11]] ↔ [[Mormon 2#^morm-2-23|Mormon 2:23]]
-- [[Ether 14]] — 3 parallel verses, e.g. [[Mosiah 19#^mosiah-19-29|Mosiah 19:29]] ↔ [[Ether 14#^ether-14-7|Ether 14:7]]
+- [[Mosiah 11]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]] ↔ [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

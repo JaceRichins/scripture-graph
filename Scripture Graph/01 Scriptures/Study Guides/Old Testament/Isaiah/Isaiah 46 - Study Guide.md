@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 46
 slug: isa-46
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,7 +38,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 45]] — 1 parallel verse, e.g. [[Isaiah 46#^isa-46-9|Isaiah 46:9]] ↔ [[Isaiah 45#^isa-45-22|Isaiah 45:22]]
-- [[1 Nephi 13]] — 2 parallel verses, e.g. [[Isaiah 46#^isa-46-3|Isaiah 46:3]] ↔ [[1 Nephi 13#^1ne-13-33|1 Nephi 13:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

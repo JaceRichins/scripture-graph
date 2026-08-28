@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 4
 slug: col-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,7 +40,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Ephesians 6]] — 1 parallel verse, e.g. [[Colossians 4#^col-4-8|Colossians 4:8]] ↔ [[Ephesians 6#^eph-6-22|Ephesians 6:22]]
-- [[D&C 27]] — 2 parallel verses, e.g. [[Colossians 4#^col-4-8|Colossians 4:8]] ↔ [[D&C 27#^dc-27-5|D&C 27:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 11
 slug: gen-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 5]] — 65 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Genesis 5#^gen-5-16|Genesis 5:16]]
-- [[Moses 6]] — 26 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Moses 6#^moses-6-20|Moses 6:20]]
-- [[Moses 8]] — 16 parallel verses, e.g. [[Genesis 11#^gen-11-11|Genesis 11:11]] ↔ [[Moses 8#^moses-8-6|Moses 8:6]]
-- [[Ether 10]] — 8 parallel verses, e.g. [[Genesis 11#^gen-11-11|Genesis 11:11]] ↔ [[Ether 10#^ether-10-29|Ether 10:29]]
-- [[Mosiah 28]] — 3 parallel verses, e.g. [[Genesis 11#^gen-11-9|Genesis 11:9]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
+- [[Genesis 5]] — 6 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Genesis 5#^gen-5-16|Genesis 5:16]]
+- [[Moses 6]] — 3 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Moses 6#^moses-6-20|Moses 6:20]]
 - [[Moses 2]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Moses 2#^moses-2-29|Moses 2:29]]
 - [[Genesis 1]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Genesis 1#^gen-1-29|Genesis 1:29]]
 - [[Abraham 4]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Abraham 4#^abr-4-29|Abraham 4:29]]
 - [[Abraham 2]] — 1 parallel verse, e.g. [[Genesis 11#^gen-11-31|Genesis 11:31]] ↔ [[Abraham 2#^abr-2-4|Abraham 2:4]]
+- [[Mosiah 28]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-9|Genesis 11:9]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
 - [[Genesis 7]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Genesis 7#^gen-7-3|Genesis 7:3]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[1 Nephi 14#^1ne-14-13|1 Nephi 14:13]]
-- [[Zechariah 5]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-4|Genesis 11:4]] ↔ [[Zechariah 5#^zech-5-3|Zechariah 5:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

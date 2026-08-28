@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 32
 slug: ex-32
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 9]] — 9 parallel verses, e.g. [[Exodus 32#^ex-32-8|Exodus 32:8]] ↔ [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]]
+- [[Deuteronomy 9]] — 8 parallel verses, e.g. [[Exodus 32#^ex-32-8|Exodus 32:8]] ↔ [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]]
 - [[Acts 7]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-1|Exodus 32:1]] ↔ [[Acts 7#^acts-7-40|Acts 7:40]]
 - [[1 Kings 12]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-4|Exodus 32:4]] ↔ [[1 Kings 12#^1kgs-12-28|1 Kings 12:28]]
-- [[Exodus 8]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-28|Exodus 32:28]] ↔ [[Exodus 8#^ex-8-13|Exodus 8:13]]
 - [[Jeremiah 2]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-1|Exodus 32:1]] ↔ [[Jeremiah 2#^jer-2-6|Jeremiah 2:6]]
 - [[Ezekiel 41]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-15|Exodus 32:15]] ↔ [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]]
-- [[Judges 6]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-27|Exodus 32:27]] ↔ [[Judges 6#^judg-6-8|Judges 6:8]]
 - [[Deuteronomy 20]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-4|Exodus 32:4]] ↔ [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]]
+- [[Exodus 8]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-28|Exodus 32:28]] ↔ [[Exodus 8#^ex-8-13|Exodus 8:13]]
 - [[Micah 6]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-4|Exodus 32:4]] ↔ [[Micah 6#^micah-6-4|Micah 6:4]]
-- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Exodus 32#^ex-32-27|Exodus 32:27]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
-- [[Ezekiel 37]] — 3 parallel verses, e.g. [[Exodus 32#^ex-32-27|Exodus 32:27]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
-- [[Exodus 19]] — 3 parallel verses, e.g. [[Exodus 32#^ex-32-30|Exodus 32:30]] ↔ [[Exodus 19#^ex-19-16|Exodus 19:16]]
+- [[Judges 6]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-6|Exodus 32:6]] ↔ [[Judges 6#^judg-6-38|Judges 6:38]]
+- [[Genesis 12]] — 1 parallel verse, e.g. [[Exodus 32#^ex-32-10|Exodus 32:10]] ↔ [[Genesis 12#^gen-12-2|Genesis 12:2]]
+- [[Abraham 2]] — 1 parallel verse, e.g. [[Exodus 32#^ex-32-10|Exodus 32:10]] ↔ [[Abraham 2#^abr-2-9|Abraham 2:9]]
+- [[Exodus 18]] — 1 parallel verse, e.g. [[Exodus 32#^ex-32-30|Exodus 32:30]] ↔ [[Exodus 18#^ex-18-13|Exodus 18:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

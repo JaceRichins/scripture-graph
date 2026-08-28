@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 87
 slug: dc-87
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,11 +37,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
+- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
 - [[D&C 95]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 95#^dc-95-7|D&C 95:7]]
-- [[James 5]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[James 5#^james-5-4|James 5:4]]
-- [[D&C 98]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
-- [[2 Nephi 28]] — 2 parallel verses, e.g. [[D&C 87#^dc-87-6|D&C 87:6]] ↔ [[2 Nephi 28#^2ne-28-17|2 Nephi 28:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

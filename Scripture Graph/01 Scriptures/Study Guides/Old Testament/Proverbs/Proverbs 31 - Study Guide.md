@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

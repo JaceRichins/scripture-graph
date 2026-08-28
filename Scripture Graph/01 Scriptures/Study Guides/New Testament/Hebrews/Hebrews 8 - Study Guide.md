@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 8
 slug: heb-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,9 +38,8 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 31]] — 6 parallel verses, e.g. [[Hebrews 8#^heb-8-10|Hebrews 8:10]] ↔ [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]]
-- [[Hebrews 10]] — 2 parallel verses, e.g. [[Hebrews 8#^heb-8-10|Hebrews 8:10]] ↔ [[Hebrews 10#^heb-10-16|Hebrews 10:16]]
+- [[Hebrews 10]] — 1 parallel verse, e.g. [[Hebrews 8#^heb-8-10|Hebrews 8:10]] ↔ [[Hebrews 10#^heb-10-16|Hebrews 10:16]]
 - [[Jeremiah 23]] — 2 parallel verses, e.g. [[Hebrews 8#^heb-8-8|Hebrews 8:8]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
-- [[Jeremiah 33]] — 1 parallel verse, e.g. [[Hebrews 8#^heb-8-8|Hebrews 8:8]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

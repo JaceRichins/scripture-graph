@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Acts 2]] — 4 parallel verses, e.g. [[Joel 2#^joel-2-28|Joel 2:28]] ↔ [[Acts 2#^acts-2-17|Acts 2:17]]
-- [[Leviticus 19]] — 7 parallel verses, e.g. [[Joel 2#^joel-2-27|Joel 2:27]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
-- [[Ezekiel 20]] — 7 parallel verses, e.g. [[Joel 2#^joel-2-27|Joel 2:27]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
-- [[Joel 3]] — 4 parallel verses, e.g. [[Joel 2#^joel-2-10|Joel 2:10]] ↔ [[Joel 3#^joel-3-15|Joel 3:15]]
-- [[Zephaniah 1]] — 4 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
-- [[Joel 1]] — 4 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
-- [[Ezekiel 13]] — 4 parallel verses, e.g. [[Joel 2#^joel-2-27|Joel 2:27]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
+- [[Acts 2]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-28|Joel 2:28]] ↔ [[Acts 2#^acts-2-17|Acts 2:17]]
+- [[Joel 3]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-10|Joel 2:10]] ↔ [[Joel 3#^joel-3-15|Joel 3:15]]
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
-- [[Isaiah 13]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Isaiah 13#^isa-13-6|Isaiah 13:6]]
-- [[2 Nephi 23]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]]
-- [[Leviticus 18]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-27|Joel 2:27]] ↔ [[Leviticus 18#^lev-18-2|Leviticus 18:2]]
-- [[Leviticus 25]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-27|Joel 2:27]] ↔ [[Leviticus 25#^lev-25-17|Leviticus 25:17]]
+- [[Jonah 4]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Jonah 4#^jonah-4-2|Jonah 4:2]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

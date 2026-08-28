@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 3
 slug: 2thes-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -46,9 +46,6 @@ _Not yet developed._
 - [[Galatians 6]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]] ↔ [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]]
-- [[2 Corinthians 8]] — 2 parallel verses, e.g. [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]] ↔ [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]]
-- [[Ephesians 5]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]] ↔ [[Ephesians 5#^eph-5-20|Ephesians 5:20]]
-- [[1 Corinthians 5]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]] ↔ [[1 Corinthians 5#^1cor-5-4|1 Corinthians 5:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

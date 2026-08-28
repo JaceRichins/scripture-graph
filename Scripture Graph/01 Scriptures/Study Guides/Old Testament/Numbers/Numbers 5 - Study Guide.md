@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 5
 slug: num-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,17 +38,10 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Leviticus 22]] — 3 parallel verses, e.g. [[Numbers 5#^num-5-9|Numbers 5:9]] ↔ [[Leviticus 22#^lev-22-15|Leviticus 22:15]]
-- [[Leviticus 1]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Leviticus 1#^lev-1-2|Leviticus 1:2]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Leviticus 23#^lev-23-2|Leviticus 23:2]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
-- [[Leviticus 4]] — 4 parallel verses, e.g. [[Numbers 5#^num-5-26|Numbers 5:26]] ↔ [[Leviticus 4#^lev-4-19|Leviticus 4:19]]
-- [[Exodus 16]] — 3 parallel verses, e.g. [[Numbers 5#^num-5-4|Numbers 5:4]] ↔ [[Exodus 16#^ex-16-17|Exodus 16:17]]
 - [[Numbers 35]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Numbers 35#^num-35-10|Numbers 35:10]]
-- [[Leviticus 5]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-15|Numbers 5:15]] ↔ [[Leviticus 5#^lev-5-11|Leviticus 5:11]]
-- [[Numbers 8]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-4|Numbers 5:4]] ↔ [[Numbers 8#^num-8-20|Numbers 8:20]]
-- [[Numbers 9]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-4|Numbers 5:4]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
-- [[Numbers 18]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-9|Numbers 5:9]] ↔ [[Numbers 18#^num-18-32|Numbers 18:32]]
-- [[Leviticus 24]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-2|Numbers 5:2]] ↔ [[Leviticus 24#^lev-24-2|Leviticus 24:2]]
+- [[Leviticus 1]] — 1 parallel verse, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Leviticus 1#^lev-1-2|Leviticus 1:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

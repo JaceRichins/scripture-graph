@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 9
 slug: ezek-9
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,9 +40,7 @@ _Not yet developed._
 - [[Ezekiel 8]] — 4 parallel verses, e.g. [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]] ↔ [[Ezekiel 8#^ezek-8-18|Ezekiel 8:18]]
 - [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]]
 - [[Ezekiel 7]] — 2 parallel verses, e.g. [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]] ↔ [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]]
-- [[Ezekiel 10]] — 4 parallel verses, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
-- [[Ezekiel 4]] — 3 parallel verses, e.g. [[Ezekiel 9#^ezek-9-9|Ezekiel 9:9]] ↔ [[Ezekiel 4#^ezek-4-4|Ezekiel 4:4]]
-- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 43#^ezek-43-2|Ezekiel 43:2]]
+- [[Ezekiel 10]] — 1 parallel verse, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

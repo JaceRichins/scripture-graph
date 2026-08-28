@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 16
 slug: alma-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -47,18 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 14 parallel verses, e.g. [[Alma 16#^alma-16-12|Alma 16:12]] ↔ [[Alma 62#^alma-62-39|Alma 62:39]]
-- [[Alma 4]] — 9 parallel verses, e.g. [[Alma 16#^alma-16-12|Alma 16:12]] ↔ [[Alma 4#^alma-4-5|Alma 4:5]]
-- [[Alma 52]] — 9 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Alma 8]] — 8 parallel verses, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
-- [[Alma 51]] — 8 parallel verses, e.g. [[Alma 16#^alma-16-12|Alma 16:12]] ↔ [[Alma 51#^alma-51-37|Alma 51:37]]
-- [[Alma 30]] — 7 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 50]] — 7 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Helaman 11]] — 7 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Alma 45]] — 6 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
-- [[Alma 63]] — 6 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Alma 63#^alma-63-1|Alma 63:1]]
-- [[Helaman 6]] — 6 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Helaman 16]] — 6 parallel verses, e.g. [[Alma 16#^alma-16-1|Alma 16:1]] ↔ [[Helaman 16#^hel-16-9|Helaman 16:9]]
+- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 16#^alma-16-5|Alma 16:5]] ↔ [[Alma 43#^alma-43-16|Alma 43:16]]
+- [[Alma 13]] — 3 parallel verses, e.g. [[Alma 16#^alma-16-17|Alma 16:17]] ↔ [[Alma 13#^alma-13-16|Alma 13:16]]
+- [[Alma 8]] — 2 parallel verses, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
+- [[Alma 60]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-17|Alma 16:17]] ↔ [[Alma 60#^alma-60-13|Alma 60:13]]
+- [[Alma 9]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 9#^alma-9-1|Alma 9:1]]
+- [[3 Nephi 21]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-18|Alma 16:18]] ↔ [[3 Nephi 21#^3ne-21-19|3 Nephi 21:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

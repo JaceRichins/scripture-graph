@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 5
 slug: jer-5
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,12 +39,7 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-29|Jeremiah 5:29]] ↔ [[Jeremiah 9#^jer-9-9|Jeremiah 9:9]]
 - [[Jeremiah 31]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-11|Jeremiah 5:11]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
-- [[Jeremiah 3]] — 3 parallel verses, e.g. [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]] ↔ [[Jeremiah 3#^jer-3-20|Jeremiah 3:20]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Jeremiah 5#^jer-5-11|Jeremiah 5:11]] ↔ [[Jeremiah 11#^jer-11-10|Jeremiah 11:10]]
-- [[Isaiah 10]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-31|Jeremiah 5:31]] ↔ [[Isaiah 10#^isa-10-3|Isaiah 10:3]]
-- [[2 Nephi 20]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-31|Jeremiah 5:31]] ↔ [[2 Nephi 20#^2ne-20-3|2 Nephi 20:3]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-14|Jeremiah 5:14]] ↔ [[Isaiah 22#^isa-22-14|Isaiah 22:14]]
-- [[D&C 113]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]] ↔ [[D&C 113#^dc-113-4|D&C 113:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

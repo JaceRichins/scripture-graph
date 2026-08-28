@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

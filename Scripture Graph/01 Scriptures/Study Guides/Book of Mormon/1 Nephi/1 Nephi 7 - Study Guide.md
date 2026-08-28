@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 7
 slug: 1ne-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 16]] — 13 parallel verses, e.g. [[1 Nephi 7#^1ne-7-19|1 Nephi 7:19]] ↔ [[1 Nephi 16#^1ne-16-7|1 Nephi 16:7]]
-- [[1 Nephi 2]] — 7 parallel verses, e.g. [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]] ↔ [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]]
-- [[1 Nephi 17]] — 8 parallel verses, e.g. [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]] ↔ [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]]
-- [[2 Nephi 5]] — 6 parallel verses, e.g. [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]] ↔ [[2 Nephi 5#^2ne-5-19|2 Nephi 5:19]]
-- [[1 Nephi 18]] — 5 parallel verses, e.g. [[1 Nephi 7#^1ne-7-17|1 Nephi 7:17]] ↔ [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]]
-- [[1 Nephi 5]] — 4 parallel verses, e.g. [[1 Nephi 7#^1ne-7-11|1 Nephi 7:11]] ↔ [[1 Nephi 5#^1ne-5-5|1 Nephi 5:5]]
-- [[Ether 2]] — 5 parallel verses, e.g. [[1 Nephi 7#^1ne-7-2|1 Nephi 7:2]] ↔ [[Ether 2#^ether-2-5|Ether 2:5]]
 - [[3 Nephi 7]] — 3 parallel verses, e.g. [[1 Nephi 7#^1ne-7-8|1 Nephi 7:8]] ↔ [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]]
-- [[Alma 58]] — 5 parallel verses, e.g. [[1 Nephi 7#^1ne-7-11|1 Nephi 7:11]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
-- [[Alma 9]] — 4 parallel verses, e.g. [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]] ↔ [[Alma 9#^alma-9-32|Alma 9:32]]
-- [[3 Nephi 18]] — 4 parallel verses, e.g. [[1 Nephi 7#^1ne-7-21|1 Nephi 7:21]] ↔ [[3 Nephi 18#^3ne-18-9|3 Nephi 18:9]]
-- [[Mormon 2]] — 4 parallel verses, e.g. [[1 Nephi 7#^1ne-7-22|1 Nephi 7:22]] ↔ [[Mormon 2#^morm-2-4|Mormon 2:4]]
+- [[1 Nephi 5]] — 3 parallel verses, e.g. [[1 Nephi 7#^1ne-7-11|1 Nephi 7:11]] ↔ [[1 Nephi 5#^1ne-5-5|1 Nephi 5:5]]
+- [[1 Nephi 2]] — 1 parallel verse, e.g. [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]] ↔ [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

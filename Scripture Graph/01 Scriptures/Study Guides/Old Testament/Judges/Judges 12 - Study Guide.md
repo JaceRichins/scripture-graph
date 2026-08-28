@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 12
 slug: judg-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,11 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 11]] — 6 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 11#^judg-11-9|Judges 11:9]]
-- [[Judges 10]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 10#^judg-10-18|Judges 10:18]]
-- [[Judges 7]] — 1 parallel verse, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 7#^judg-7-24|Judges 7:24]]
-- [[1 Samuel 14]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[1 Samuel 14#^1sam-14-47|1 Samuel 14:47]]
-- [[2 Samuel 15]] — 2 parallel verses, e.g. [[Judges 12#^judg-12-5|Judges 12:5]] ↔ [[2 Samuel 15#^2sam-15-2|2 Samuel 15:2]]
+- [[Judges 11]] — 3 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 11#^judg-11-9|Judges 11:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

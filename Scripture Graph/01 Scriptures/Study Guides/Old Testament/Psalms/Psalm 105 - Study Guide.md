@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 105
 slug: ps-105
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,8 +42,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 16]] — 14 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]]
-- [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[Psalm 118#^ps-118-1|Psalm 118:1]]
+- [[1 Chronicles 16]] — 12 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

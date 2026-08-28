@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -52,15 +52,15 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 1]] — 6 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[Alma 38]] — 5 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
 - [[1 Nephi 1]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-22|Alma 36:22]] ↔ [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Mosiah 2]] — 4 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Mosiah 2#^mosiah-2-31|Mosiah 2:31]]
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
-- [[Alma 37]] — 3 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
+- [[Alma 37]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
@@ -68,14 +68,14 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance]]
 - [[Exodus and Deliverance]]
-- [[Angels]]
-- [[Adversity]]
+- [[Repentance]]
 - [[Atonement of Jesus Christ]]
 - [[Conversion]]
 - [[Repentance and Forgiveness]]
 - [[Grace]]
+- [[Missionary Work]]
+- [[Obedience]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

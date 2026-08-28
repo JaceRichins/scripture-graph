@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 19
 slug: rev-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,17 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 6]] — 4 parallel verses, e.g. [[Revelation 19#^rev-19-11|Revelation 19:11]] ↔ [[Revelation 6#^rev-6-2|Revelation 6:2]]
-- [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
+- [[Revelation 6]] — 3 parallel verses, e.g. [[Revelation 19#^rev-19-11|Revelation 19:11]] ↔ [[Revelation 6#^rev-6-2|Revelation 6:2]]
+- [[Revelation 14]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[D&C 133#^dc-133-22|D&C 133:22]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-10|Revelation 19:10]] ↔ [[Revelation 22#^rev-22-9|Revelation 22:9]]
 - [[Revelation 2]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-15|Revelation 19:15]] ↔ [[Revelation 2#^rev-2-27|Revelation 2:27]]
-- [[Revelation 7]] — 2 parallel verses, e.g. [[Revelation 19#^rev-19-17|Revelation 19:17]] ↔ [[Revelation 7#^rev-7-2|Revelation 7:2]]
-- [[Revelation 5]] — 2 parallel verses, e.g. [[Revelation 19#^rev-19-4|Revelation 19:4]] ↔ [[Revelation 5#^rev-5-14|Revelation 5:14]]
-- [[Revelation 16]] — 2 parallel verses, e.g. [[Revelation 19#^rev-19-19|Revelation 19:19]] ↔ [[Revelation 16#^rev-16-14|Revelation 16:14]]
-- [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 19#^rev-19-19|Revelation 19:19]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
-- [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-12|Revelation 19:12]] ↔ [[Revelation 1#^rev-1-14|Revelation 1:14]]
-- [[D&C 110]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-12|Revelation 19:12]] ↔ [[D&C 110#^dc-110-3|D&C 110:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

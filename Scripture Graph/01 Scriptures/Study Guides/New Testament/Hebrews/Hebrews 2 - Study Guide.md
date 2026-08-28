@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 2
 slug: heb-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 8]] — 4 parallel verses, e.g. [[Hebrews 2#^heb-2-6|Hebrews 2:6]] ↔ [[Psalm 8#^ps-8-4|Psalm 8:4]]
+- [[Psalm 8]] — 2 parallel verses, e.g. [[Hebrews 2#^heb-2-6|Hebrews 2:6]] ↔ [[Psalm 8#^ps-8-4|Psalm 8:4]]
 - [[Psalm 22]] — 1 parallel verse, e.g. [[Hebrews 2#^heb-2-12|Hebrews 2:12]] ↔ [[Psalm 22#^ps-22-22|Psalm 22:22]]
 - [[Psalm 144]] — 1 parallel verse, e.g. [[Hebrews 2#^heb-2-6|Hebrews 2:6]] ↔ [[Psalm 144#^ps-144-3|Psalm 144:3]]
 <!-- SG:END related-scriptures -->

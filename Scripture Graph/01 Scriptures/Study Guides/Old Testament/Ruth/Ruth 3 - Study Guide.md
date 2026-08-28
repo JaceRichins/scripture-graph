@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 3
 slug: ruth-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,8 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Ruth 3#^ruth-3-1|Ruth 3:1]] ↔ [[Deuteronomy 6#^deut-6-3|Deuteronomy 6:3]]
-- [[Deuteronomy 22]] — 1 parallel verse, e.g. [[Ruth 3#^ruth-3-1|Ruth 3:1]] ↔ [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]]
-- [[Judges 17]] — 1 parallel verse, e.g. [[Ruth 3#^ruth-3-10|Ruth 3:10]] ↔ [[Judges 17#^judg-17-2|Judges 17:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

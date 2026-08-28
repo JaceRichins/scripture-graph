@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 10
 slug: 3ne-10
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,14 +44,10 @@ _Not yet developed._
 - [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-6|3 Nephi 10:6]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
 - [[D&C 43]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-5|3 Nephi 10:5]] ↔ [[D&C 43#^dc-43-24|D&C 43:24]]
 - [[D&C 29]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]] ↔ [[D&C 29#^dc-29-2|D&C 29:2]]
-- [[Ether 13]] — 5 parallel verses, e.g. [[3 Nephi 10#^3ne-10-17|3 Nephi 10:17]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
-- [[1 Nephi 19]] — 4 parallel verses, e.g. [[3 Nephi 10#^3ne-10-14|3 Nephi 10:14]] ↔ [[1 Nephi 19#^1ne-19-11|1 Nephi 19:11]]
-- [[Helaman 5]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-3|3 Nephi 10:3]] ↔ [[Helaman 5#^hel-5-29|Helaman 5:29]]
-- [[3 Nephi 16]] — 4 parallel verses, e.g. [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
-- [[3 Nephi 7]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-18|3 Nephi 10:18]] ↔ [[3 Nephi 7#^3ne-7-1|3 Nephi 7:1]]
-- [[Helaman 14]] — 4 parallel verses, e.g. [[3 Nephi 10#^3ne-10-1|3 Nephi 10:1]] ↔ [[Helaman 14#^hel-14-21|Helaman 14:21]]
-- [[Alma 46]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-17|3 Nephi 10:17]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
-- [[2 Kings 11]] — 4 parallel verses, e.g. [[3 Nephi 10#^3ne-10-1|3 Nephi 10:1]] ↔ [[2 Kings 11#^2kgs-11-14|2 Kings 11:14]]
+- [[Helaman 5]] — 2 parallel verses, e.g. [[3 Nephi 10#^3ne-10-3|3 Nephi 10:3]] ↔ [[Helaman 5#^hel-5-29|Helaman 5:29]]
+- [[3 Nephi 7]] — 2 parallel verses, e.g. [[3 Nephi 10#^3ne-10-18|3 Nephi 10:18]] ↔ [[3 Nephi 7#^3ne-7-1|3 Nephi 7:1]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[3 Nephi 10#^3ne-10-17|3 Nephi 10:17]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
+- [[1 Nephi 19]] — 1 parallel verse, e.g. [[3 Nephi 10#^3ne-10-14|3 Nephi 10:14]] ↔ [[1 Nephi 19#^1ne-19-11|1 Nephi 19:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

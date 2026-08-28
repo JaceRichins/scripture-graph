@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 1
 slug: ezra-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 36]] — 6 parallel verses, e.g. [[Ezra 1#^ezra-1-1|Ezra 1:1]] ↔ [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]]
-- [[Joshua 22]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-4|Ezra 1:4]] ↔ [[Joshua 22#^josh-22-8|Joshua 22:8]]
-- [[Ezra 7]] — 1 parallel verse, e.g. [[Ezra 1#^ezra-1-5|Ezra 1:5]] ↔ [[Ezra 7#^ezra-7-27|Ezra 7:27]]
-- [[Isaiah 37]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-2|Ezra 1:2]] ↔ [[Isaiah 37#^isa-37-16|Isaiah 37:16]]
-- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-2|Ezra 1:2]] ↔ [[Jeremiah 34#^jer-34-1|Jeremiah 34:1]]
-- [[Nehemiah 12]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-5|Ezra 1:5]] ↔ [[Nehemiah 12#^neh-12-12|Nehemiah 12:12]]
-- [[Ezra 6]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-7|Ezra 1:7]] ↔ [[Ezra 6#^ezra-6-5|Ezra 6:5]]
-- [[2 Chronicles 35]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-1|Ezra 1:1]] ↔ [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]]
-- [[2 Kings 19]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-2|Ezra 1:2]] ↔ [[2 Kings 19#^2kgs-19-15|2 Kings 19:15]]
-- [[1 Chronicles 24]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-5|Ezra 1:5]] ↔ [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]]
-- [[1 Kings 10]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-7|Ezra 1:7]] ↔ [[1 Kings 10#^1kgs-10-17|1 Kings 10:17]]
-- [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Ezra 1#^ezra-1-7|Ezra 1:7]] ↔ [[2 Chronicles 9#^2chr-9-16|2 Chronicles 9:16]]
+- [[2 Chronicles 36]] — 4 parallel verses, e.g. [[Ezra 1#^ezra-1-1|Ezra 1:1]] ↔ [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

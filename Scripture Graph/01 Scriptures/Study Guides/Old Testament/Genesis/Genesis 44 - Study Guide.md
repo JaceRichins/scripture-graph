@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 44
 slug: gen-44
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 42]] — 2 parallel verses, e.g. [[Genesis 44#^gen-44-29|Genesis 44:29]] ↔ [[Genesis 42#^gen-42-38|Genesis 42:38]]
-- [[Genesis 43]] — 2 parallel verses, e.g. [[Genesis 44#^gen-44-32|Genesis 44:32]] ↔ [[Genesis 43#^gen-43-9|Genesis 43:9]]
+- [[Genesis 42]] — 1 parallel verse, e.g. [[Genesis 44#^gen-44-29|Genesis 44:29]] ↔ [[Genesis 42#^gen-42-38|Genesis 42:38]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

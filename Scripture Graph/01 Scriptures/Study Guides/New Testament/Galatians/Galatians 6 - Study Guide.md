@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,7 +44,6 @@ _Not yet developed._
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
-- [[Galatians 5]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-15|Galatians 6:15]] ↔ [[Galatians 5#^gal-5-6|Galatians 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

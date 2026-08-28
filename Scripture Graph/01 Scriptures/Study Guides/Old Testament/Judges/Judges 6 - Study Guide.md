@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 3]] — 7 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 3#^judg-3-7|Judges 3:7]]
-- [[Judges 13]] — 5 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 13#^judg-13-1|Judges 13:1]]
-- [[Judges 7]] — 3 parallel verses, e.g. [[Judges 6#^judg-6-25|Judges 6:25]] ↔ [[Judges 7#^judg-7-9|Judges 7:9]]
-- [[Leviticus 19]] — 7 parallel verses, e.g. [[Judges 6#^judg-6-10|Judges 6:10]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
-- [[1 Samuel 10]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]]
-- [[Ezekiel 20]] — 7 parallel verses, e.g. [[Judges 6#^judg-6-10|Judges 6:10]] ↔ [[Ezekiel 20#^ezek-20-5|Ezekiel 20:5]]
-- [[Judges 10]] — 4 parallel verses, e.g. [[Judges 6#^judg-6-6|Judges 6:6]] ↔ [[Judges 10#^judg-10-10|Judges 10:10]]
-- [[Exodus 18]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[Exodus 18#^ex-18-10|Exodus 18:10]]
-- [[Exodus 3]] — 3 parallel verses, e.g. [[Judges 6#^judg-6-12|Judges 6:12]] ↔ [[Exodus 3#^ex-3-2|Exodus 3:2]]
+- [[Judges 3]] — 6 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 3#^judg-3-7|Judges 3:7]]
+- [[Judges 13]] — 4 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 13#^judg-13-1|Judges 13:1]]
+- [[Judges 7]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-25|Judges 6:25]] ↔ [[Judges 7#^judg-7-9|Judges 7:9]]
+- [[Judges 10]] — 3 parallel verses, e.g. [[Judges 6#^judg-6-6|Judges 6:6]] ↔ [[Judges 10#^judg-10-10|Judges 10:10]]
+- [[1 Samuel 10]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 2#^judg-2-11|Judges 2:11]]
-- [[Judges 4]] — 3 parallel verses, e.g. [[Judges 6#^judg-6-6|Judges 6:6]] ↔ [[Judges 4#^judg-4-3|Judges 4:3]]
-- [[1 Kings 15]] — 3 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[1 Kings 15#^1kgs-15-18|1 Kings 15:18]]
+- [[Exodus 18]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[Exodus 18#^ex-18-10|Exodus 18:10]]
+- [[Genesis 47]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-17|Judges 6:17]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
+- [[Judges 4]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-6|Judges 6:6]] ↔ [[Judges 4#^judg-4-3|Judges 4:3]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-12|Judges 6:12]] ↔ [[Exodus 3#^ex-3-2|Exodus 3:2]]
+- [[Joshua 24]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-10|Judges 6:10]] ↔ [[Joshua 24#^josh-24-15|Joshua 24:15]]
+- [[Genesis 33]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-17|Judges 6:17]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 2
 slug: jer-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,12 +41,7 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-6|Jeremiah 2:6]] ↔ [[Exodus 32#^ex-32-1|Exodus 32:1]]
 - [[Ezekiel 12]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]] ↔ [[Ezekiel 12#^ezek-12-17|Ezekiel 12:17]]
-- [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-28|Jeremiah 2:28]] ↔ [[Jeremiah 11#^jer-11-13|Jeremiah 11:13]]
 - [[Jeremiah 18]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]] ↔ [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]]
-- [[Nehemiah 9]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-7|Jeremiah 2:7]] ↔ [[Nehemiah 9#^neh-9-36|Nehemiah 9:36]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-19|Jeremiah 2:19]] ↔ [[Isaiah 22#^isa-22-14|Isaiah 22:14]]
-- [[1 Kings 14]] — 1 parallel verse, e.g. [[Jeremiah 2#^jer-2-20|Jeremiah 2:20]] ↔ [[1 Kings 14#^1kgs-14-23|1 Kings 14:23]]
-- [[2 Kings 17]] — 1 parallel verse, e.g. [[Jeremiah 2#^jer-2-20|Jeremiah 2:20]] ↔ [[2 Kings 17#^2kgs-17-10|2 Kings 17:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

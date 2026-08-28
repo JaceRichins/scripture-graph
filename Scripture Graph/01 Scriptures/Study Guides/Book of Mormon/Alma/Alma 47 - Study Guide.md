@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 47
 slug: alma-47
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 23]] — 9 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 23#^alma-23-1|Alma 23:1]]
-- [[Alma 35]] — 6 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
-- [[Mormon 3]] — 4 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Mormon 3#^morm-3-5|Mormon 3:5]]
-- [[Alma 19]] — 4 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 19#^alma-19-15|Alma 19:15]]
-- [[Alma 55]] — 4 parallel verses, e.g. [[Alma 47#^alma-47-4|Alma 47:4]] ↔ [[Alma 55#^alma-55-24|Alma 55:24]]
-- [[Ether 15]] — 3 parallel verses, e.g. [[Alma 47#^alma-47-33|Alma 47:33]] ↔ [[Ether 15#^ether-15-4|Ether 15:4]]
-- [[Helaman 6]] — 4 parallel verses, e.g. [[Alma 47#^alma-47-2|Alma 47:2]] ↔ [[Helaman 6#^hel-6-1|Helaman 6:1]]
+- [[Alma 23]] — 5 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 23#^alma-23-1|Alma 23:1]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
 - [[Mormon 1]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]
-- [[Alma 46]] — 3 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 46#^alma-46-30|Alma 46:30]]
-- [[Alma 27]] — 3 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 27#^alma-27-12|Alma 27:12]]
+- [[Ether 15]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-33|Alma 47:33]] ↔ [[Ether 15#^ether-15-4|Ether 15:4]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 43#^alma-43-8|Alma 43:8]]
+- [[Alma 58]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-15|Alma 47:15]] ↔ [[Alma 58#^alma-58-15|Alma 58:15]]
+- [[Mormon 3]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Mormon 3#^morm-3-5|Mormon 3:5]]
+- [[Alma 48]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 48#^alma-48-3|Alma 48:3]]
+- [[Alma 19]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 19#^alma-19-15|Alma 19:15]]
+- [[Alma 35]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
+- [[Moses 8]] — 1 parallel verse, e.g. [[Alma 47#^alma-47-3|Alma 47:3]] ↔ [[Moses 8#^moses-8-19|Moses 8:19]]
+- [[D&C 3]] — 1 parallel verse, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[D&C 3#^dc-3-18|D&C 3:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

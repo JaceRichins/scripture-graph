@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 1
 slug: mosiah-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 2]] — 9 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]]
-- [[Helaman 5]] — 9 parallel verses, e.g. [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] ↔ [[Helaman 5#^hel-5-5|Helaman 5:5]]
-- [[Mosiah 28]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
-- [[Mosiah 4]] — 8 parallel verses, e.g. [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
-- [[Alma 9]] — 9 parallel verses, e.g. [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]] ↔ [[Alma 9#^alma-9-14|Alma 9:14]]
-- [[Mosiah 7]] — 5 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]]
-- [[Mosiah 5]] — 7 parallel verses, e.g. [[Mosiah 1#^mosiah-1-12|Mosiah 1:12]] ↔ [[Mosiah 5#^mosiah-5-11|Mosiah 5:11]]
-- [[Mosiah 10]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]] ↔ [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]]
-- [[2 Nephi 1]] — 6 parallel verses, e.g. [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]] ↔ [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]]
-- [[Mosiah 29]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-1|Mosiah 1:1]] ↔ [[Mosiah 29#^mosiah-29-44|Mosiah 29:44]]
-- [[Alma 13]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-8|Mosiah 1:8]] ↔ [[Alma 13#^alma-13-31|Alma 13:31]]
-- [[Alma 12]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[Alma 12#^alma-12-9|Alma 12:9]]
+- [[Mosiah 28]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
+- [[Mosiah 2]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]]
+- [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]]
+- [[Helaman 5]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] ↔ [[Helaman 5#^hel-5-5|Helaman 5:5]]
+- [[Mosiah 10]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]] ↔ [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]]
+- [[Mosiah 29]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-1|Mosiah 1:1]] ↔ [[Mosiah 29#^mosiah-29-44|Mosiah 29:44]]
+- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]]
+- [[Alma 21]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]
+- [[Alma 17]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]] ↔ [[Alma 17#^alma-17-15|Alma 17:15]]
+- [[Alma 50]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Alma 50#^alma-50-9|Alma 50:9]]
+- [[Alma 56]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] ↔ [[Alma 56#^alma-56-2|Alma 56:2]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]] ↔ [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

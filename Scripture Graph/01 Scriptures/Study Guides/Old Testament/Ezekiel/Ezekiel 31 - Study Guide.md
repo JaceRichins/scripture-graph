@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 31
 slug: ezek-31
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 32]] — 14 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
+- [[Ezekiel 32]] — 10 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 - [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
-- [[Joel 1]] — 6 parallel verses, e.g. [[Ezekiel 31#^ezek-31-4|Ezekiel 31:4]] ↔ [[Joel 1#^joel-1-12|Joel 1:12]]
 - [[Ezekiel 30]] — 1 parallel verse, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]]
-- [[Ezekiel 17]] — 5 parallel verses, e.g. [[Ezekiel 31#^ezek-31-15|Ezekiel 31:15]] ↔ [[Ezekiel 17#^ezek-17-24|Ezekiel 17:24]]
-- [[Ezekiel 29]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]]
-- [[2 Kings 11]] — 4 parallel verses, e.g. [[Ezekiel 31#^ezek-31-12|Ezekiel 31:12]] ↔ [[2 Kings 11#^2kgs-11-14|2 Kings 11:14]]
-- [[Isaiah 55]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-15|Ezekiel 31:15]] ↔ [[Isaiah 55#^isa-55-12|Isaiah 55:12]]
-- [[Daniel 4]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-13|Ezekiel 31:13]] ↔ [[Daniel 4#^dan-4-12|Daniel 4:12]]
-- [[D&C 128]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-15|Ezekiel 31:15]] ↔ [[D&C 128#^dc-128-23|D&C 128:23]]
-- [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-10|Ezekiel 31:10]] ↔ [[Ezekiel 28#^ezek-28-6|Ezekiel 28:6]]
-- [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

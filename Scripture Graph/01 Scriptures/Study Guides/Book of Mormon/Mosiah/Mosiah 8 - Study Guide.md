@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,18 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 4]] — 8 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[2 Nephi 4#^2ne-4-8|2 Nephi 4:8]]
-- [[Mosiah 25]] — 6 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[Mosiah 25#^mosiah-25-17|Mosiah 25:17]]
-- [[Mosiah 7]] — 5 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[Mosiah 7#^mosiah-7-14|Mosiah 7:14]]
-- [[1 Nephi 16]] — 5 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[1 Nephi 16#^1ne-16-1|1 Nephi 16:1]]
-- [[1 Nephi 17]] — 4 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]]
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]]
-- [[Mosiah 1]] — 3 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
-- [[Alma 12]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]] ↔ [[Alma 12#^alma-12-19|Alma 12:19]]
-- [[1 Samuel 24]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]] ↔ [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]]
-- [[2 Samuel 13]] — 3 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[2 Samuel 13#^2sam-13-36|2 Samuel 13:36]]
-- [[Alma 44]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]] ↔ [[Alma 44#^alma-44-10|Alma 44:10]]
-- [[Alma 23]] — 3 parallel verses, e.g. [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]] ↔ [[Alma 23#^alma-23-9|Alma 23:9]]
+- [[2 Nephi 5]] — 1 parallel verse, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

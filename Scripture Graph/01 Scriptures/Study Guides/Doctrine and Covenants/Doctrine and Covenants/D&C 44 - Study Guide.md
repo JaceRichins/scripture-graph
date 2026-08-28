@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 44
 slug: dc-44
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 105]] — 5 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 105#^dc-105-33|D&C 105:33]]
 - [[Luke 13]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[Luke 13#^luke-13-29|Luke 13:29]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-6|D&C 44:6]] ↔ [[D&C 38#^dc-38-35|D&C 38:35]]
-- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[3 Nephi 20]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
-- [[D&C 86]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[Psalm 107#^ps-107-3|Psalm 107:3]]
-- [[D&C 100]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 100#^dc-100-1|D&C 100:1]]
-- [[D&C 124]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 42]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-6|D&C 44:6]] ↔ [[D&C 42#^dc-42-55|D&C 42:55]]
-- [[D&C 55]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 55#^dc-55-1|D&C 55:1]]
-- [[D&C 96]] — 2 parallel verses, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 96#^dc-96-1|D&C 96:1]]
+- [[D&C 71]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

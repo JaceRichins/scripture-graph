@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 28
 slug: deut-28
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 30]] — 27 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]]
-- [[Deuteronomy 15]] — 13 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 15#^deut-15-5|Deuteronomy 15:5]]
-- [[Deuteronomy 27]] — 15 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]]
-- [[Deuteronomy 7]] — 11 parallel verses, e.g. [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
-- [[Deuteronomy 13]] — 10 parallel verses, e.g. [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
-- [[Deuteronomy 4]] — 16 parallel verses, e.g. [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]
-- [[Deuteronomy 8]] — 15 parallel verses, e.g. [[Deuteronomy 28#^deut-28-9|Deuteronomy 28:9]] ↔ [[Deuteronomy 8#^deut-8-6|Deuteronomy 8:6]]
-- [[Deuteronomy 19]] — 12 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
-- [[Deuteronomy 25]] — 7 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
-- [[Deuteronomy 11]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
-- [[Deuteronomy 16]] — 9 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
-- [[Deuteronomy 6]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
+- [[Deuteronomy 30]] — 14 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]]
+- [[Deuteronomy 7]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
+- [[Deuteronomy 15]] — 7 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 15#^deut-15-5|Deuteronomy 15:5]]
+- [[Deuteronomy 13]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
+- [[Deuteronomy 27]] — 5 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]]
+- [[Deuteronomy 25]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
+- [[Deuteronomy 11]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
+- [[Deuteronomy 8]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]]
+- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]
+- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
+- [[Deuteronomy 23]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-21|Deuteronomy 28:21]] ↔ [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]]
+- [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

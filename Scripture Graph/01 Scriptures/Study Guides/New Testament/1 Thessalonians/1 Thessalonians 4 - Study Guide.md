@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 4
 slug: 1thes-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

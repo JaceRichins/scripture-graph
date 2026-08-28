@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 23
 slug: gen-23
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

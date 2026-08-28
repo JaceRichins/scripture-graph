@@ -34,6 +34,7 @@ _Not yet developed._
 - [[Alma 19]] *(keyword match)*
 - [[Mosiah 5]]
 - [[Mosiah 27]]
+- [[Alma 36]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 37]] — 30 parallel verses, e.g. [[Exodus 25#^ex-25-23|Exodus 25:23]] ↔ [[Exodus 37#^ex-37-10|Exodus 37:10]]
-- [[Exodus 30]] — 9 parallel verses, e.g. [[Exodus 25#^ex-25-28|Exodus 25:28]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
-- [[Exodus 26]] — 11 parallel verses, e.g. [[Exodus 25#^ex-25-10|Exodus 25:10]] ↔ [[Exodus 26#^ex-26-16|Exodus 26:16]]
-- [[Exodus 35]] — 6 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
-- [[Exodus 27]] — 8 parallel verses, e.g. [[Exodus 25#^ex-25-13|Exodus 25:13]] ↔ [[Exodus 27#^ex-27-6|Exodus 27:6]]
-- [[Exodus 28]] — 7 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 28#^ex-28-5|Exodus 28:5]]
-- [[Exodus 39]] — 7 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
-- [[Exodus 36]] — 3 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
-- [[Exodus 38]] — 3 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
+- [[Exodus 37]] — 21 parallel verses, e.g. [[Exodus 25#^ex-25-23|Exodus 25:23]] ↔ [[Exodus 37#^ex-37-10|Exodus 37:10]]
+- [[Exodus 30]] — 8 parallel verses, e.g. [[Exodus 25#^ex-25-28|Exodus 25:28]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
+- [[Exodus 26]] — 9 parallel verses, e.g. [[Exodus 25#^ex-25-10|Exodus 25:10]] ↔ [[Exodus 26#^ex-26-16|Exodus 26:16]]
+- [[Exodus 35]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
+- [[Exodus 27]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-13|Exodus 25:13]] ↔ [[Exodus 27#^ex-27-6|Exodus 27:6]]
+- [[Exodus 28]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 28#^ex-28-5|Exodus 28:5]]
+- [[Exodus 39]] — 3 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
+- [[Exodus 36]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Exodus 14]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Exodus 14#^ex-14-2|Exodus 14:2]]
-- [[Leviticus 24]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Leviticus 24#^lev-24-2|Leviticus 24:2]]
-- [[Numbers 19]] — 1 parallel verse, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

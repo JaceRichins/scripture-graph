@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 18
 slug: 3ne-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 17]] — 16 parallel verses, e.g. [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
-- [[3 Nephi 12]] — 11 parallel verses, e.g. [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
-- [[3 Nephi 19]] — 16 parallel verses, e.g. [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]] ↔ [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]]
-- [[3 Nephi 27]] — 14 parallel verses, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
-- [[3 Nephi 11]] — 12 parallel verses, e.g. [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]] ↔ [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]]
-- [[3 Nephi 15]] — 12 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
-- [[3 Nephi 20]] — 7 parallel verses, e.g. [[3 Nephi 18#^3ne-18-14|3 Nephi 18:14]] ↔ [[3 Nephi 20#^3ne-20-14|3 Nephi 20:14]]
-- [[D&C 88]] — 5 parallel verses, e.g. [[3 Nephi 18#^3ne-18-28|3 Nephi 18:28]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
-- [[3 Nephi 23]] — 10 parallel verses, e.g. [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]] ↔ [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6]]
-- [[3 Nephi 13]] — 4 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[3 Nephi 26]] — 8 parallel verses, e.g. [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]] ↔ [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]]
-- [[3 Nephi 14]] — 5 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
+- [[3 Nephi 12]] — 7 parallel verses, e.g. [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
+- [[3 Nephi 17]] — 5 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
+- [[3 Nephi 27]] — 6 parallel verses, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
+- [[D&C 88]] — 4 parallel verses, e.g. [[3 Nephi 18#^3ne-18-28|3 Nephi 18:28]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[3 Nephi 20]] — 4 parallel verses, e.g. [[3 Nephi 18#^3ne-18-14|3 Nephi 18:14]] ↔ [[3 Nephi 20#^3ne-20-14|3 Nephi 20:14]]
+- [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]] ↔ [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]]
+- [[3 Nephi 13]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
+- [[3 Nephi 14]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
+- [[3 Nephi 19]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]] ↔ [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
+- [[Moroni 7]] — 1 parallel verse, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[Moroni 7#^moro-7-26|Moroni 7:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

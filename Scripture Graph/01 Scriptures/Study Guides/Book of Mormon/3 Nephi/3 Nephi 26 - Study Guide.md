@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 26
 slug: 3ne-26
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 27]] — 5 parallel verses, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
-- [[3 Nephi 18]] — 8 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
 - [[Mosiah 16]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-5|3 Nephi 26:5]] ↔ [[Mosiah 16#^mosiah-16-11|Mosiah 16:11]]
 - [[4 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]] ↔ [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]]
-- [[3 Nephi 28]] — 4 parallel verses, e.g. [[3 Nephi 26#^3ne-26-12|3 Nephi 26:12]] ↔ [[3 Nephi 28#^3ne-28-24|3 Nephi 28:24]]
-- [[3 Nephi 19]] — 5 parallel verses, e.g. [[3 Nephi 26#^3ne-26-1|3 Nephi 26:1]] ↔ [[3 Nephi 19#^3ne-19-1|3 Nephi 19:1]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-12|3 Nephi 26:12]] ↔ [[3 Nephi 28#^3ne-28-24|3 Nephi 28:24]]
 - [[Alma 11]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[Alma 11#^alma-11-44|Alma 11:44]]
-- [[Mormon 7]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]] ↔ [[Mormon 7#^morm-7-8|Mormon 7:8]]
-- [[D&C 18]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]] ↔ [[D&C 18#^dc-18-41|D&C 18:41]]
-- [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]] ↔ [[D&C 10#^dc-10-38|D&C 10:38]]
-- [[3 Nephi 5]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-12|3 Nephi 26:12]] ↔ [[3 Nephi 5#^3ne-5-19|3 Nephi 5:19]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
+- [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
+- [[1 Nephi 3]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
+- [[Genesis 19]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[Genesis 19#^gen-19-34|Genesis 19:34]]
+- [[Judges 9]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

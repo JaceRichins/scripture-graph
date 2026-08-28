@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 27
 slug: alma-27
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 24]] — 9 parallel verses, e.g. [[Alma 27#^alma-27-23|Alma 27:23]] ↔ [[Alma 24#^alma-24-6|Alma 24:6]]
-- [[Alma 25]] — 7 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 25#^alma-25-13|Alma 25:13]]
-- [[Alma 57]] — 6 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 57#^alma-57-35|Alma 57:35]]
-- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 43#^alma-43-11|Alma 43:11]]
-- [[Mosiah 29]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]]
-- [[Alma 2]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 2#^alma-2-7|Alma 2:7]]
+- [[Alma 57]] — 4 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 57#^alma-57-35|Alma 57:35]]
 - [[Mosiah 24]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-12|Alma 27:12]] ↔ [[Mosiah 24#^mosiah-24-23|Mosiah 24:23]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 43#^alma-43-11|Alma 43:11]]
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[1 Nephi 16#^1ne-16-9|1 Nephi 16:9]]
-- [[Helaman 16]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-2|Alma 27:2]] ↔ [[Helaman 16#^hel-16-3|Helaman 16:3]]
-- [[Alma 58]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
-- [[Mosiah 9]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Mosiah 9#^mosiah-9-17|Mosiah 9:17]]
-- [[Alma 51]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 51#^alma-51-7|Alma 51:7]]
+- [[Alma 2]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 2#^alma-2-7|Alma 2:7]]
+- [[Alma 25]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 25#^alma-25-13|Alma 25:13]]
+- [[Alma 58]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
+- [[Mosiah 29]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]]
+- [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-2|Alma 27:2]] ↔ [[Helaman 16#^hel-16-3|Helaman 16:3]]
+- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-14|Alma 27:14]] ↔ [[Alma 50#^alma-50-11|Alma 50:11]]
+- [[Alma 51]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 51#^alma-51-7|Alma 51:7]]
+- [[Alma 20]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-25|Alma 27:25]] ↔ [[Alma 20#^alma-20-3|Alma 20:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

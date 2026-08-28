@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 39
 slug: ezek-39
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 28]] — 9 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
-- [[Ezekiel 38]] — 6 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
-- [[Ezekiel 29]] — 7 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
-- [[Ezekiel 26]] — 5 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
-- [[Ezekiel 30]] — 6 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 30#^ezek-30-22|Ezekiel 30:22]]
+- [[Ezekiel 38]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
+- [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
+- [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
+- [[Ezekiel 29]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
-- [[Ezekiel 36]] — 5 parallel verses, e.g. [[Ezekiel 39#^ezek-39-7|Ezekiel 39:7]] ↔ [[Ezekiel 36#^ezek-36-23|Ezekiel 36:23]]
-- [[Ezekiel 34]] — 4 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 34#^ezek-34-10|Ezekiel 34:10]]
-- [[2 Nephi 17]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
-- [[Jeremiah 34]] — 4 parallel verses, e.g. [[Ezekiel 39#^ezek-39-23|Ezekiel 39:23]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
-- [[Ezekiel 23]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-5|Ezekiel 39:5]] ↔ [[Ezekiel 23#^ezek-23-34|Ezekiel 23:34]]
-- [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 39#^ezek-39-7|Ezekiel 39:7]] ↔ [[Ezekiel 37#^ezek-37-28|Ezekiel 37:28]]
+- [[Isaiah 10]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
+- [[2 Nephi 20]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
+- [[2 Nephi 24]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Mosiah 26]] — 1 parallel verse, e.g. [[Ezekiel 39#^ezek-39-28|Ezekiel 39:28]] ↔ [[Mosiah 26#^mosiah-26-26|Mosiah 26:26]]
+- [[Isaiah 22]] — 1 parallel verse, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Isaiah 22#^isa-22-20|Isaiah 22:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 4
 slug: rev-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -37,7 +37,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 5]] — 5 parallel verses, e.g. [[Revelation 4#^rev-4-10|Revelation 4:10]] ↔ [[Revelation 5#^rev-5-14|Revelation 5:14]]
+- [[Revelation 5]] — 3 parallel verses, e.g. [[Revelation 4#^rev-4-10|Revelation 4:10]] ↔ [[Revelation 5#^rev-5-14|Revelation 5:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

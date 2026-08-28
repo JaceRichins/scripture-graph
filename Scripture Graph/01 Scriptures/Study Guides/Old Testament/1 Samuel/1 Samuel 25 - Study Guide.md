@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 25
 slug: 1sam-25
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,17 +42,9 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]]
-- [[2 Kings 4]] — 3 parallel verses, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]
-- [[1 Kings 8]] — 3 parallel verses, e.g. [[1 Samuel 25#^1sam-25-32|1 Samuel 25:32]] ↔ [[1 Kings 8#^1kgs-8-15|1 Kings 8:15]]
 - [[Ruth 2]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-23|1 Samuel 25:23]] ↔ [[Ruth 2#^ruth-2-10|Ruth 2:10]]
-- [[1 Kings 1]] — 2 parallel verses, e.g. [[1 Samuel 25#^1sam-25-32|1 Samuel 25:32]] ↔ [[1 Kings 1#^1kgs-1-48|1 Kings 1:48]]
+- [[2 Kings 4]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]
 - [[1 Samuel 20]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]]
-- [[Genesis 9]] — 2 parallel verses, e.g. [[1 Samuel 25#^1sam-25-39|1 Samuel 25:39]] ↔ [[Genesis 9#^gen-9-26|Genesis 9:26]]
-- [[Genesis 24]] — 2 parallel verses, e.g. [[1 Samuel 25#^1sam-25-39|1 Samuel 25:39]] ↔ [[Genesis 24#^gen-24-27|Genesis 24:27]]
-- [[2 Chronicles 6]] — 2 parallel verses, e.g. [[1 Samuel 25#^1sam-25-39|1 Samuel 25:39]] ↔ [[2 Chronicles 6#^2chr-6-4|2 Chronicles 6:4]]
-- [[Ruth 1]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-3|1 Samuel 25:3]] ↔ [[Ruth 1#^ruth-1-2|Ruth 1:2]]
-- [[1 Samuel 26]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-1|1 Samuel 25:1]] ↔ [[1 Samuel 26#^1sam-26-2|1 Samuel 26:2]]
-- [[2 Samuel 1]] — 2 parallel verses, e.g. [[1 Samuel 25#^1sam-25-5|1 Samuel 25:5]] ↔ [[2 Samuel 1#^2sam-1-5|2 Samuel 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 20
 slug: 3ne-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,17 +42,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Isaiah 52]] — 13 parallel verses, e.g. [[3 Nephi 20#^3ne-20-45|3 Nephi 20:45]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
-- [[3 Nephi 21]] — 18 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
-- [[Acts 3]] — 7 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
-- [[Mosiah 12]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
-- [[3 Nephi 16]] — 12 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
+- [[Acts 3]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
+- [[Mosiah 12]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-40|3 Nephi 20:40]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
+- [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[Mosiah 15]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
-- [[1 Nephi 22]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
+- [[3 Nephi 16]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
 - [[2 Nephi 8]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]] ↔ [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]]
-- [[Micah 5]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
+- [[Micah 5]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
 - [[Micah 4]] — 1 parallel verse, e.g. [[3 Nephi 20#^3ne-20-19|3 Nephi 20:19]] ↔ [[Micah 4#^micah-4-13|Micah 4:13]]
 - [[D&C 133]] — 3 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
-- [[Mosiah 18]] — 9 parallel verses, e.g. [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]] ↔ [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]]
+- [[1 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-27|3 Nephi 20:27]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 4
 slug: morm-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mormon 3]] — 11 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
-- [[Mormon 2]] — 8 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
-- [[Alma 58]] — 11 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[Alma 58#^alma-58-30|Alma 58:30]]
-- [[Helaman 6]] — 10 parallel verses, e.g. [[Mormon 4#^morm-4-5|Mormon 4:5]] ↔ [[Helaman 6#^hel-6-30|Helaman 6:30]]
-- [[Mormon 5]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 5#^morm-5-6|Mormon 5:6]]
-- [[3 Nephi 4]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
-- [[3 Nephi 1]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]]
-- [[Mosiah 21]] — 5 parallel verses, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Mosiah 21#^mosiah-21-17|Mosiah 21:17]]
-- [[Alma 50]] — 5 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Alma 50#^alma-50-25|Alma 50:25]]
-- [[Helaman 11]] — 5 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Helaman 11#^hel-11-17|Helaman 11:17]]
-- [[Alma 30]] — 3 parallel verses, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Alma 52]] — 4 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[Alma 52#^alma-52-23|Alma 52:23]]
+- [[Mormon 3]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
+- [[Mormon 2]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
+- [[Mormon 5]] — 3 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 5#^morm-5-6|Mormon 5:6]]
+- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
+- [[Alma 3]] — 1 parallel verse, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Alma 3#^alma-3-1|Alma 3:1]]
+- [[Alma 58]] — 2 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[Alma 58#^alma-58-30|Alma 58:30]]
+- [[Alma 30]] — 1 parallel verse, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

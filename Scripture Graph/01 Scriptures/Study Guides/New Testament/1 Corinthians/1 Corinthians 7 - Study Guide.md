@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 7
 slug: 1cor-7
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,8 +39,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 74]] — 1 parallel verse, e.g. [[1 Corinthians 7#^1cor-7-14|1 Corinthians 7:14]] ↔ [[D&C 74#^dc-74-1|D&C 74:1]]
-- [[Romans 7]] — 3 parallel verses, e.g. [[1 Corinthians 7#^1cor-7-39|1 Corinthians 7:39]] ↔ [[Romans 7#^rom-7-3|Romans 7:3]]
-- [[Lamentations 3]] — 2 parallel verses, e.g. [[1 Corinthians 7#^1cor-7-1|1 Corinthians 7:1]] ↔ [[Lamentations 3#^lam-3-27|Lamentations 3:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

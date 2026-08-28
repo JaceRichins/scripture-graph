@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 18
 slug: john-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,16 +41,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Mark 15]] — 2 parallel verses, e.g. [[John 18#^john-18-39|John 18:39]] ↔ [[Mark 15#^mark-15-9|Mark 15:9]]
-- [[Mark 14]] — 3 parallel verses, e.g. [[John 18#^john-18-33|John 18:33]] ↔ [[Mark 14#^mark-14-61|Mark 14:61]]
-- [[John 11]] — 2 parallel verses, e.g. [[John 18#^john-18-14|John 18:14]] ↔ [[John 11#^john-11-50|John 11:50]]
-- [[John 12]] — 3 parallel verses, e.g. [[John 18#^john-18-32|John 18:32]] ↔ [[John 12#^john-12-33|John 12:33]]
-- [[3 Nephi 18]] — 2 parallel verses, e.g. [[John 18#^john-18-1|John 18:1]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
-- [[John 7]] — 2 parallel verses, e.g. [[John 18#^john-18-30|John 18:30]] ↔ [[John 7#^john-7-52|John 7:52]]
-- [[Luke 19]] — 2 parallel verses, e.g. [[John 18#^john-18-6|John 18:6]] ↔ [[Luke 19#^luke-19-32|Luke 19:32]]
-- [[Luke 22]] — 2 parallel verses, e.g. [[John 18#^john-18-6|John 18:6]] ↔ [[Luke 22#^luke-22-13|Luke 22:13]]
-- [[John 3]] — 2 parallel verses, e.g. [[John 18#^john-18-33|John 18:33]] ↔ [[John 3#^john-3-10|John 3:10]]
-- [[Matthew 14]] — 1 parallel verse, e.g. [[John 18#^john-18-31|John 18:31]] ↔ [[Matthew 14#^matt-14-4|Matthew 14:4]]
-- [[Alma 37]] — 2 parallel verses, e.g. [[John 18#^john-18-9|John 18:9]] ↔ [[Alma 37#^alma-37-24|Alma 37:24]]
+- [[Mark 14]] — 2 parallel verses, e.g. [[John 18#^john-18-33|John 18:33]] ↔ [[Mark 14#^mark-14-61|Mark 14:61]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -26,5 +26,5 @@ The sustained framing and reversals are meaningful evidence of careful literary 
 - An editor could strengthen correspondences during transmission or redaction.
 - Highly detailed chiastic outlines may partly reflect an analyst's flexible choice of matching units.
 
-**Scripture:** [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]], [[Alma 36]]
+**Scripture:** [[Alma 36]] (whole-chapter structure; hinge at [[Alma 36#^alma-36-18|Alma 36:18]])
 <!-- SG:END summary -->

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 4
 slug: ether-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mormon 9]] — 4 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
-- [[3 Nephi 27]] — 4 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]
+- [[Mormon 9]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
-- [[Alma 13]] — 9 parallel verses, e.g. [[Ether 4#^ether-4-14|Ether 4:14]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Mosiah 4]] — 8 parallel verses, e.g. [[Ether 4#^ether-4-11|Ether 4:11]] ↔ [[Mosiah 4#^mosiah-4-26|Mosiah 4:26]]
-- [[3 Nephi 9]] — 4 parallel verses, e.g. [[Ether 4#^ether-4-7|Ether 4:7]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
-- [[Alma 42]] — 6 parallel verses, e.g. [[Ether 4#^ether-4-1|Ether 4:1]] ↔ [[Alma 42#^alma-42-7|Alma 42:7]]
-- [[Alma 12]] — 6 parallel verses, e.g. [[Ether 4#^ether-4-14|Ether 4:14]] ↔ [[Alma 12#^alma-12-30|Alma 12:30]]
-- [[Moroni 7]] — 2 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
-- [[D&C 35]] — 5 parallel verses, e.g. [[Ether 4#^ether-4-14|Ether 4:14]] ↔ [[D&C 35#^dc-35-18|D&C 35:18]]
-- [[3 Nephi 1]] — 4 parallel verses, e.g. [[Ether 4#^ether-4-16|Ether 4:16]] ↔ [[3 Nephi 1#^3ne-1-13|3 Nephi 1:13]]
-- [[Moses 7]] — 4 parallel verses, e.g. [[Ether 4#^ether-4-14|Ether 4:14]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
+- [[3 Nephi 27]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]
+- [[3 Nephi 9]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-7|Ether 4:7]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
+- [[Moroni 7]] — 1 parallel verse, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
+- [[Numbers 4]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-5|Ether 4:5]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[2 Nephi 2]] — 2 parallel verses, e.g. [[Ether 4#^ether-4-7|Ether 4:7]] ↔ [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]]
+- [[D&C 68]] — 1 parallel verse, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
+- [[3 Nephi 21]] — 2 parallel verses, e.g. [[Ether 4#^ether-4-17|Ether 4:17]] ↔ [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Ether 4#^ether-4-7|Ether 4:7]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
+- [[Helaman 14]] — 1 parallel verse, e.g. [[Ether 4#^ether-4-7|Ether 4:7]] ↔ [[Helaman 14#^hel-14-12|Helaman 14:12]]
+- [[D&C 112]] — 1 parallel verse, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[D&C 112#^dc-112-29|D&C 112:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

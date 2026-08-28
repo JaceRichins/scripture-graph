@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 3
 slug: ezra-3
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 136]] — 26 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
-- [[Numbers 1]] — 15 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[Numbers 1#^num-1-3|Numbers 1:3]]
-- [[Ezra 5]] — 3 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[Ezra 5#^ezra-5-2|Ezra 5:2]]
-- [[Ezra 6]] — 6 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Ezra 6#^ezra-6-18|Ezra 6:18]]
-- [[Ezra 8]] — 5 parallel verses, e.g. [[Ezra 3#^ezra-3-9|Ezra 3:9]] ↔ [[Ezra 8#^ezra-8-18|Ezra 8:18]]
-- [[Nehemiah 12]] — 4 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]]
-- [[1 Chronicles 16]] — 3 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
+- [[Ezra 5]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[Ezra 5#^ezra-5-2|Ezra 5:2]]
 - [[Daniel 9]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
-- [[Nehemiah 10]] — 3 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
 - [[Nehemiah 8]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-1|Ezra 3:1]] ↔ [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]]
 - [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[2 Chronicles 30#^2chr-30-16|2 Chronicles 30:16]]
+- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
+- [[Nehemiah 10]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
+- [[2 Chronicles 8]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[2 Chronicles 8#^2chr-8-16|2 Chronicles 8:16]]
+- [[1 Kings 2]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
+- [[2 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
+- [[1 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[1 Chronicles 23#^1chr-23-4|1 Chronicles 23:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

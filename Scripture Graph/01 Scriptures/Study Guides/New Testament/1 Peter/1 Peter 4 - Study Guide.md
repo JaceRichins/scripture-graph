@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 4
 slug: 1pet-4
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,6 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 138]] — 2 parallel verses, e.g. [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
 - [[D&C 76]] — 1 parallel verse, e.g. [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] ↔ [[D&C 76#^dc-76-73|D&C 76:73]]
-- [[D&C 88]] — 1 parallel verse, e.g. [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] ↔ [[D&C 88#^dc-88-99|D&C 88:99]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

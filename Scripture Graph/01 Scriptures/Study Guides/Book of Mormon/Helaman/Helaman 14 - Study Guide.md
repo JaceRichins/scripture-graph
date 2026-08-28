@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 14
 slug: hel-14
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 3]] — 4 parallel verses, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
-- [[3 Nephi 8]] — 8 parallel verses, e.g. [[Helaman 14#^hel-14-22|Helaman 14:22]] ↔ [[3 Nephi 8#^3ne-8-18|3 Nephi 8:18]]
-- [[Alma 42]] — 4 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 42#^alma-42-11|Alma 42:11]]
-- [[2 Nephi 25]] — 5 parallel verses, e.g. [[Helaman 14#^hel-14-2|Helaman 14:2]] ↔ [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]]
-- [[Mormon 9]] — 5 parallel verses, e.g. [[Helaman 14#^hel-14-17|Helaman 14:17]] ↔ [[Mormon 9#^morm-9-13|Mormon 9:13]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 42#^alma-42-11|Alma 42:11]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[Jacob 5#^jacob-5-46|Jacob 5:46]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Helaman 16#^hel-16-18|Helaman 16:18]]
-- [[Ether 13]] — 5 parallel verses, e.g. [[Helaman 14#^hel-14-22|Helaman 14:22]] ↔ [[Ether 13#^ether-13-17|Ether 13:17]]
-- [[D&C 45]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
 - [[Alma 5]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[3 Nephi 10]] — 4 parallel verses, e.g. [[Helaman 14#^hel-14-21|Helaman 14:21]] ↔ [[3 Nephi 10#^3ne-10-1|3 Nephi 10:1]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
+- [[2 Nephi 25]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-2|Helaman 14:2]] ↔ [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
+- [[Ether 4]] — 1 parallel verse, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Ether 4#^ether-4-7|Ether 4:7]]
+- [[1 Nephi 9]] — 1 parallel verse, e.g. [[Helaman 14#^hel-14-1|Helaman 14:1]] ↔ [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

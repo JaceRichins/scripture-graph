@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 17
 slug: 2ne-17
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 7]] — 33 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[Isaiah 7#^isa-7-1|Isaiah 7:1]]
-- [[Isaiah 27]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
-- [[2 Nephi 24]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
-- [[Isaiah 10]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
-- [[Zechariah 14]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
-- [[2 Nephi 20]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
-- [[Zechariah 13]] — 6 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
+- [[Isaiah 7]] — 28 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[Isaiah 7#^isa-7-1|Isaiah 7:1]]
 - [[2 Kings 15]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[2 Kings 15#^2kgs-15-32|2 Kings 15:32]]
-- [[Isaiah 11]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
-- [[Isaiah 24]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
-- [[2 Nephi 21]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
-- [[Joel 3]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[Isaiah 36]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-3|2 Nephi 17:3]] ↔ [[Isaiah 36#^isa-36-2|Isaiah 36:2]]
+- [[2 Nephi 24]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Isaiah 10]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
+- [[2 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
+- [[Isaiah 11]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
+- [[Isaiah 24]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
+- [[2 Nephi 21]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
+- [[2 Kings 18]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-3|2 Nephi 17:3]] ↔ [[2 Kings 18#^2kgs-18-17|2 Kings 18:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

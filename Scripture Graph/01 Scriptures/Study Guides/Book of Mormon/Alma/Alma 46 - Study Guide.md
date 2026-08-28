@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ether 13]] — 9 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
-- [[Alma 55]] — 7 parallel verses, e.g. [[Alma 46#^alma-46-28|Alma 46:28]] ↔ [[Alma 55#^alma-55-4|Alma 55:4]]
 - [[3 Nephi 6]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-31|Alma 46:31]] ↔ [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]]
-- [[3 Nephi 5]] — 6 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]]
-- [[Alma 48]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-38|Alma 46:38]] ↔ [[Alma 48#^alma-48-20|Alma 48:20]]
-- [[Alma 1]] — 6 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Alma 1#^alma-1-7|Alma 1:7]]
-- [[Alma 45]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
-- [[Mosiah 27]] — 5 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Mosiah 27#^mosiah-27-2|Mosiah 27:2]]
-- [[3 Nephi 7]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-7|Alma 46:7]] ↔ [[3 Nephi 7#^3ne-7-13|3 Nephi 7:13]]
+- [[Ether 13]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
+- [[Alma 48]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-38|Alma 46:38]] ↔ [[Alma 48#^alma-48-20|Alma 48:20]]
+- [[Alma 45]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
-- [[Alma 62]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-1|Alma 46:1]] ↔ [[Alma 62#^alma-62-28|Alma 62:28]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
+- [[Alma 55]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-28|Alma 46:28]] ↔ [[Alma 55#^alma-55-4|Alma 55:4]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Alma 4#^alma-4-9|Alma 4:9]]
+- [[3 Nephi 5]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]]
+- [[Mosiah 26]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]]
+- [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-39|Alma 46:39]] ↔ [[Helaman 16#^hel-16-1|Helaman 16:1]]
+- [[3 Nephi 19]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-13|Alma 46:13]] ↔ [[3 Nephi 19#^3ne-19-27|3 Nephi 19:27]]
+- [[Mosiah 18]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-1|Alma 46:1]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 34
 slug: dc-34
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -43,12 +43,12 @@ _Not yet developed._
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-10|D&C 34:10]] ↔ [[D&C 42#^dc-42-5|D&C 42:5]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[D&C 34#^dc-34-10|D&C 34:10]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[D&C 6]] — 1 parallel verse, e.g. [[D&C 34#^dc-34-2|D&C 34:2]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
-- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-2|D&C 34:2]] ↔ [[D&C 88#^dc-88-49|D&C 88:49]]
-- [[D&C 33]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-6|D&C 34:6]] ↔ [[D&C 33#^dc-33-2|D&C 33:2]]
 - [[D&C 124]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-6|D&C 34:6]] ↔ [[D&C 124#^dc-124-106|D&C 124:106]]
 - [[D&C 10]] — 1 parallel verse, e.g. [[D&C 34#^dc-34-2|D&C 34:2]] ↔ [[D&C 10#^dc-10-58|D&C 10:58]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-10|D&C 34:10]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[D&C 34#^dc-34-10|D&C 34:10]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
+- [[2 Nephi 28]] — 1 parallel verse, e.g. [[D&C 34#^dc-34-10|D&C 34:10]] ↔ [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]]
+- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 34#^dc-34-2|D&C 34:2]] ↔ [[D&C 88#^dc-88-49|D&C 88:49]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

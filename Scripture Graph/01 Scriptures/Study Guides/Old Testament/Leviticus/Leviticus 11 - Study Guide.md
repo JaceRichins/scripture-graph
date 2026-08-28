@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 11
 slug: lev-11
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 15]] — 52 parallel verses, e.g. [[Leviticus 11#^lev-11-1|Leviticus 11:1]] ↔ [[Leviticus 15#^lev-15-1|Leviticus 15:1]]
-- [[Deuteronomy 14]] — 10 parallel verses, e.g. [[Leviticus 11#^lev-11-16|Leviticus 11:16]] ↔ [[Deuteronomy 14#^deut-14-15|Deuteronomy 14:15]]
-- [[Numbers 19]] — 16 parallel verses, e.g. [[Leviticus 11#^lev-11-25|Leviticus 11:25]] ↔ [[Numbers 19#^num-19-10|Numbers 19:10]]
-- [[Genesis 7]] — 6 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
-- [[Genesis 1]] — 7 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
-- [[Leviticus 19]] — 8 parallel verses, e.g. [[Leviticus 11#^lev-11-44|Leviticus 11:44]] ↔ [[Leviticus 19#^lev-19-3|Leviticus 19:3]]
-- [[Abraham 4]] — 6 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
-- [[Leviticus 13]] — 7 parallel verses, e.g. [[Leviticus 11#^lev-11-46|Leviticus 11:46]] ↔ [[Leviticus 13#^lev-13-59|Leviticus 13:59]]
-- [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 11#^lev-11-2|Leviticus 11:2]] ↔ [[Leviticus 7#^lev-7-23|Leviticus 7:23]]
-- [[Leviticus 14]] — 5 parallel verses, e.g. [[Leviticus 11#^lev-11-24|Leviticus 11:24]] ↔ [[Leviticus 14#^lev-14-46|Leviticus 14:46]]
-- [[Leviticus 6]] — 4 parallel verses, e.g. [[Leviticus 11#^lev-11-26|Leviticus 11:26]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
-- [[Leviticus 23]] — 4 parallel verses, e.g. [[Leviticus 11#^lev-11-2|Leviticus 11:2]] ↔ [[Leviticus 23#^lev-23-24|Leviticus 23:24]]
+- [[Leviticus 15]] — 28 parallel verses, e.g. [[Leviticus 11#^lev-11-1|Leviticus 11:1]] ↔ [[Leviticus 15#^lev-15-1|Leviticus 15:1]]
+- [[Deuteronomy 14]] — 9 parallel verses, e.g. [[Leviticus 11#^lev-11-16|Leviticus 11:16]] ↔ [[Deuteronomy 14#^deut-14-15|Deuteronomy 14:15]]
+- [[Numbers 19]] — 3 parallel verses, e.g. [[Leviticus 11#^lev-11-25|Leviticus 11:25]] ↔ [[Numbers 19#^num-19-10|Numbers 19:10]]
+- [[Genesis 7]] — 4 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
+- [[Moses 2]] — 2 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Moses 2#^moses-2-26|Moses 2:26]]
+- [[Genesis 1]] — 2 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
+- [[Genesis 8]] — 2 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Genesis 8#^gen-8-17|Genesis 8:17]]
+- [[Abraham 4]] — 2 parallel verses, e.g. [[Leviticus 11#^lev-11-41|Leviticus 11:41]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
+- [[Ezekiel 38]] — 2 parallel verses, e.g. [[Leviticus 11#^lev-11-42|Leviticus 11:42]] ↔ [[Ezekiel 38#^ezek-38-20|Ezekiel 38:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

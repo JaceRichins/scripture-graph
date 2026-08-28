@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 18
 slug: prov-18
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

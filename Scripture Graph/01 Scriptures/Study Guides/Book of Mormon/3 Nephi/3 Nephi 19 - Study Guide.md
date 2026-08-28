@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 19
 slug: 3ne-19
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 18]] — 16 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]]
-- [[3 Nephi 17]] — 14 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
-- [[3 Nephi 15]] — 11 parallel verses, e.g. [[3 Nephi 19#^3ne-19-30|3 Nephi 19:30]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
-- [[3 Nephi 28]] — 6 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]
-- [[Mormon 9]] — 6 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
-- [[D&C 50]] — 5 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[D&C 50#^dc-50-31|D&C 50:31]]
-- [[3 Nephi 23]] — 6 parallel verses, e.g. [[3 Nephi 19#^3ne-19-1|3 Nephi 19:1]] ↔ [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6]]
-- [[3 Nephi 11]] — 6 parallel verses, e.g. [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]] ↔ [[3 Nephi 11#^3ne-11-8|3 Nephi 11:8]]
-- [[3 Nephi 27]] — 5 parallel verses, e.g. [[3 Nephi 19#^3ne-19-15|3 Nephi 19:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
-- [[3 Nephi 26]] — 5 parallel verses, e.g. [[3 Nephi 19#^3ne-19-1|3 Nephi 19:1]] ↔ [[3 Nephi 26#^3ne-26-1|3 Nephi 26:1]]
-- [[John 17]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-29|3 Nephi 19:29]] ↔ [[John 17#^john-17-9|John 17:9]]
-- [[3 Nephi 13]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-30|3 Nephi 19:30]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[3 Nephi 17]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
+- [[Mormon 9]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
+- [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]
+- [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]]
+- [[D&C 50]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[D&C 50#^dc-50-31|D&C 50:31]]
+- [[Alma 8]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-13|3 Nephi 19:13]] ↔ [[Alma 8#^alma-8-30|Alma 8:30]]
+- [[Ether 5]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Ether 5#^ether-5-5|Ether 5:5]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-27|3 Nephi 19:27]] ↔ [[Alma 46#^alma-46-13|Alma 46:13]]
+- [[Alma 2]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
+- [[Ether 15]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]] ↔ [[Ether 15#^ether-15-17|Ether 15:17]]
+- [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
+- [[John 11]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]] ↔ [[John 11#^john-11-41|John 11:41]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 29
 slug: ezek-29
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,18 +38,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 30]] — 21 parallel verses, e.g. [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]] ↔ [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]]
-- [[Ezekiel 28]] — 17 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
-- [[Ezekiel 24]] — 11 parallel verses, e.g. [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
-- [[Ezekiel 26]] — 10 parallel verses, e.g. [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
-- [[Ezekiel 38]] — 10 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
-- [[Ezekiel 34]] — 11 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 34#^ezek-34-10|Ezekiel 34:10]]
-- [[Ezekiel 39]] — 7 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
-- [[Ezekiel 25]] — 8 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 25#^ezek-25-16|Ezekiel 25:16]]
-- [[Ezekiel 36]] — 9 parallel verses, e.g. [[Ezekiel 29#^ezek-29-9|Ezekiel 29:9]] ↔ [[Ezekiel 36#^ezek-36-38|Ezekiel 36:38]]
-- [[Ezekiel 13]] — 7 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 13#^ezek-13-20|Ezekiel 13:20]]
-- [[Ezekiel 6]] — 8 parallel verses, e.g. [[Ezekiel 29#^ezek-29-9|Ezekiel 29:9]] ↔ [[Ezekiel 6#^ezek-6-10|Ezekiel 6:10]]
-- [[Ezekiel 37]] — 6 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[Ezekiel 30]] — 5 parallel verses, e.g. [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]] ↔ [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]]
+- [[Ezekiel 24]] — 5 parallel verses, e.g. [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
+- [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
+- [[Ezekiel 26]] — 4 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
+- [[Ezekiel 38]] — 3 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
+- [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
+- [[Ezekiel 23]] — 4 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 23#^ezek-23-22|Ezekiel 23:22]]
+- [[Ezekiel 39]] — 2 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
+- [[Ezekiel 25]] — 3 parallel verses, e.g. [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]] ↔ [[Ezekiel 25#^ezek-25-16|Ezekiel 25:16]]
+- [[Ezekiel 45]] — 1 parallel verse, e.g. [[Ezekiel 29#^ezek-29-17|Ezekiel 29:17]] ↔ [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]]
+- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Ezekiel 29#^ezek-29-14|Ezekiel 29:14]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezekiel 29#^ezek-29-19|Ezekiel 29:19]] ↔ [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

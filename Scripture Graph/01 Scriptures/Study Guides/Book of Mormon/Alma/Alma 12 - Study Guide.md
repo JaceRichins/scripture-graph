@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 12
 slug: alma-12
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,18 +41,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 5]] — 13 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
-- [[Alma 42]] — 10 parallel verses, e.g. [[Alma 12#^alma-12-26|Alma 12:26]] ↔ [[Alma 42#^alma-42-5|Alma 42:5]]
-- [[Alma 13]] — 12 parallel verses, e.g. [[Alma 12#^alma-12-30|Alma 12:30]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Mosiah 4]] — 9 parallel verses, e.g. [[Alma 12#^alma-12-30|Alma 12:30]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[Moses 4]] — 8 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
-- [[Alma 60]] — 7 parallel verses, e.g. [[Alma 12#^alma-12-5|Alma 12:5]] ↔ [[Alma 60#^alma-60-23|Alma 60:23]]
-- [[Alma 9]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-5|Alma 12:5]] ↔ [[Alma 9#^alma-9-14|Alma 9:14]]
-- [[2 Nephi 9]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]]
-- [[Alma 32]] — 5 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 32#^alma-32-40|Alma 32:40]]
-- [[Alma 18]] — 4 parallel verses, e.g. [[Alma 12#^alma-12-30|Alma 12:30]] ↔ [[Alma 18#^alma-18-39|Alma 18:39]]
-- [[1 Nephi 8]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]]
-- [[Alma 11]] — 4 parallel verses, e.g. [[Alma 12#^alma-12-8|Alma 12:8]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]
+- [[Alma 5]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
+- [[Alma 42]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-26|Alma 12:26]] ↔ [[Alma 42#^alma-42-5|Alma 42:5]]
+- [[Alma 11]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-8|Alma 12:8]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]
+- [[Moses 4]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
+- [[2 Nephi 9]] — 1 parallel verse, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]]
+- [[Alma 40]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-25|Alma 12:25]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]
+- [[Alma 18]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-30|Alma 12:30]] ↔ [[Alma 18#^alma-18-39|Alma 18:39]]
+- [[Alma 9]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-23|Alma 12:23]] ↔ [[Alma 9#^alma-9-23|Alma 9:23]]
+- [[Alma 32]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 32#^alma-32-40|Alma 32:40]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-1|Alma 12:1]] ↔ [[Mosiah 4#^mosiah-4-4|Mosiah 4:4]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-18|Alma 12:18]] ↔ [[Moroni 7#^moro-7-38|Moroni 7:38]]
+- [[1 Nephi 8]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

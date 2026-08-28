@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 2
 slug: luke-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -44,18 +44,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 31]] — 4 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
-- [[2 Chronicles 35]] — 3 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[2 Chronicles 35#^2chr-35-26|2 Chronicles 35:26]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
-- [[Daniel 9]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
-- [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[1 Chronicles 16#^1chr-16-40|1 Chronicles 16:40]]
-- [[Mark 1]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-1|Luke 2:1]] ↔ [[Mark 1#^mark-1-9|Mark 1:9]]
+- [[2 Chronicles 31]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
 - [[Mark 8]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-49|Luke 2:49]] ↔ [[Mark 8#^mark-8-21|Mark 8:21]]
 - [[Luke 1]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-40|Luke 2:40]] ↔ [[Luke 1#^luke-1-80|Luke 1:80]]
-- [[D&C 76]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-9|Luke 2:9]] ↔ [[D&C 76#^dc-76-19|D&C 76:19]]
-- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-39|Luke 2:39]] ↔ [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]]
-- [[Numbers 14]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-9|Luke 2:9]] ↔ [[Numbers 14#^num-14-10|Numbers 14:10]]
-- [[Numbers 16]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-9|Luke 2:9]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 22
 slug: ps-22
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,7 +40,6 @@ _Not yet developed._
 - [[Hebrews 2]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-22|Psalm 22:22]] ↔ [[Hebrews 2#^heb-2-12|Hebrews 2:12]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
 - [[Mark 15]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Mark 15#^mark-15-34|Mark 15:34]]
-- [[Psalm 71]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-9|Psalm 22:9]] ↔ [[Psalm 71#^ps-71-6|Psalm 71:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

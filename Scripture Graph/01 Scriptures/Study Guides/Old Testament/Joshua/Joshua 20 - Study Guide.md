@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 20
 slug: josh-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -41,15 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Chronicles 6]] — 4 parallel verses, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[1 Chronicles 6#^1chr-6-78|1 Chronicles 6:78]]
-- [[Numbers 15]] — 4 parallel verses, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 15#^num-15-29|Numbers 15:29]]
+- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[1 Chronicles 6#^1chr-6-78|1 Chronicles 6:78]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-4|Joshua 20:4]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
-- [[Numbers 35]] — 4 parallel verses, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 35#^num-35-15|Numbers 35:15]]
-- [[Joshua 21]] — 3 parallel verses, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[Joshua 21#^josh-21-7|Joshua 21:7]]
+- [[Numbers 15]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 15#^num-15-29|Numbers 15:29]]
 - [[Joshua 8]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-4|Joshua 20:4]] ↔ [[Joshua 8#^josh-8-29|Joshua 8:29]]
-- [[Judges 16]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-4|Joshua 20:4]] ↔ [[Judges 16#^judg-16-3|Judges 16:3]]
-- [[Deuteronomy 19]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Deuteronomy 19#^deut-19-12|Deuteronomy 19:12]]
-- [[Joshua 13]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[Joshua 13#^josh-13-32|Joshua 13:32]]
+- [[Numbers 35]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 35#^num-35-15|Numbers 35:15]]
+- [[Joshua 21]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[Joshua 21#^josh-21-7|Joshua 21:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

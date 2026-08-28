@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 2
 slug: esth-2
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -45,7 +45,6 @@ _Not yet developed._
 - [[Esther 1]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-18|Esther 2:18]] ↔ [[Esther 1#^esth-1-3|Esther 1:3]]
 - [[Ezra 2]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Ezra 2#^ezra-2-1|Ezra 2:1]]
 - [[Nehemiah 7]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]]
-- [[2 Samuel 11]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-9|Esther 2:9]] ↔ [[2 Samuel 11#^2sam-11-8|2 Samuel 11:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

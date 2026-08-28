@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

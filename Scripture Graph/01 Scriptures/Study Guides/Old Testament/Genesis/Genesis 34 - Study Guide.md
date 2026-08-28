@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 34
 slug: gen-34
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -38,17 +38,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
-- [[Joshua 11]] — 3 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Joshua 11#^josh-11-12|Joshua 11:12]]
 - [[Job 1]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Job 1#^job-1-15|Job 1:15]]
-- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-1|Genesis 34:1]] ↔ [[Genesis 46#^gen-46-15|Genesis 46:15]]
-- [[Judges 1]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Judges 1#^judg-1-8|Judges 1:8]]
-- [[Joshua 6]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-25|Genesis 34:25]] ↔ [[Joshua 6#^josh-6-15|Joshua 6:15]]
-- [[Judges 14]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-25|Genesis 34:25]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
-- [[Judges 21]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-25|Genesis 34:25]] ↔ [[Judges 21#^judg-21-4|Judges 21:4]]
-- [[Judges 4]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Judges 4#^judg-4-15|Judges 4:15]]
-- [[Judges 20]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Judges 20#^judg-20-37|Judges 20:37]]
-- [[Exodus 19]] — 1 parallel verse, e.g. [[Genesis 34#^gen-34-25|Genesis 34:25]] ↔ [[Exodus 19#^ex-19-16|Exodus 19:16]]
-- [[2 Samuel 12]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-25|Genesis 34:25]] ↔ [[2 Samuel 12#^2sam-12-18|2 Samuel 12:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

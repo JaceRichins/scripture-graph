@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 118
 slug: dc-118
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -40,7 +40,6 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 89]] — 1 parallel verse, e.g. [[D&C 118#^dc-118-3|D&C 118:3]] ↔ [[D&C 89#^dc-89-21|D&C 89:21]]
-- [[D&C 112]] — 2 parallel verses, e.g. [[D&C 118#^dc-118-3|D&C 118:3]] ↔ [[D&C 112#^dc-112-19|D&C 112:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

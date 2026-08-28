@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 16
 slug: rev-16
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---

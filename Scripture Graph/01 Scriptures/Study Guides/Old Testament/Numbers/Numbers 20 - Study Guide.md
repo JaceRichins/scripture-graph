@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 20
 slug: num-20
-corpus_version_reviewed: 1
+corpus_version_reviewed: 2
 cssclasses:
 - sg-study
 ---
@@ -39,18 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Numbers 16]] — 7 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Numbers 16#^num-16-19|Numbers 16:19]]
-- [[Leviticus 8]] — 6 parallel verses, e.g. [[Numbers 20#^num-20-27|Numbers 20:27]] ↔ [[Leviticus 8#^lev-8-4|Leviticus 8:4]]
-- [[Numbers 27]] — 5 parallel verses, e.g. [[Numbers 20#^num-20-24|Numbers 20:24]] ↔ [[Numbers 27#^num-27-12|Numbers 27:12]]
-- [[Exodus 40]] — 6 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Exodus 40#^ex-40-12|Exodus 40:12]]
-- [[Leviticus 17]] — 4 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
-- [[Exodus 29]] — 4 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Exodus 29#^ex-29-4|Exodus 29:4]]
-- [[Leviticus 4]] — 3 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 4#^lev-4-4|Leviticus 4:4]]
-- [[Numbers 6]] — 3 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Numbers 6#^num-6-13|Numbers 6:13]]
-- [[Leviticus 9]] — 2 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 9#^lev-9-23|Leviticus 9:23]]
-- [[Exodus 7]] — 3 parallel verses, e.g. [[Numbers 20#^num-20-17|Numbers 20:17]] ↔ [[Exodus 7#^ex-7-18|Exodus 7:18]]
-- [[2 Chronicles 7]] — 3 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[2 Chronicles 7#^2chr-7-1|2 Chronicles 7:1]]
-- [[Leviticus 15]] — 2 parallel verses, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 15#^lev-15-14|Leviticus 15:14]]
+- [[Numbers 16]] — 4 parallel verses, e.g. [[Numbers 20#^num-20-2|Numbers 20:2]] ↔ [[Numbers 16#^num-16-3|Numbers 16:3]]
+- [[Numbers 27]] — 2 parallel verses, e.g. [[Numbers 20#^num-20-24|Numbers 20:24]] ↔ [[Numbers 27#^num-27-12|Numbers 27:12]]
+- [[D&C 3]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-17|Numbers 20:17]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
+- [[Leviticus 9]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 9#^lev-9-23|Leviticus 9:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
