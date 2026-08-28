@@ -76,6 +76,17 @@ export class SGSettingsTab extends PluginSettingTab {
         }));
     }
 
+    // ------------------------------------------------------------ reading
+    el.createEl("h2", { text: "Reading" });
+    new Setting(el).setName("Chapter links open My Study page")
+      .setDesc("Links like [[Matthew 5]] land on your editable page (the scripture "
+        + "is embedded there). Verse-precise links still open the exact verse.")
+      .addToggle(t => t.setValue(s.settings.chapterLinksToMyStudy)
+        .onChange(async v => {
+          s.applySettings({ chapterLinksToMyStudy: v });
+          await this.p.saveSharedSettings();
+        }));
+
     // ------------------------------------------------------------ sharing
     el.createEl("h2", { text: "Sharing & privacy" });
     new Setting(el).setName("Default for new notes/highlights")

@@ -17,12 +17,16 @@ export interface SharedSettings {
   serverUrl: string;
   defaultVisibility: "local" | "private";
   forceLibraryPreview: boolean;
+  /** chapter-level wikilinks land on the editable "<Chapter> - My Notes" page
+   * (which embeds the scripture); verse-anchored links still open canonical */
+  chapterLinksToMyStudy: boolean;
 }
 
 export const DEFAULT_SHARED: SharedSettings = {
   serverUrl: "http://127.0.0.1:8930",
   defaultVisibility: "private",
   forceLibraryPreview: true,
+  chapterLinksToMyStudy: true,
 };
 
 /** Device-local (secret or personal) state. */

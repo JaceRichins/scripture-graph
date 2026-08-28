@@ -5853,7 +5853,8 @@ var PERSONAL_PREFIX = "Library/";
 var DEFAULT_SHARED = {
   serverUrl: "http://127.0.0.1:8930",
   defaultVisibility: "private",
-  forceLibraryPreview: true
+  forceLibraryPreview: true,
+  chapterLinksToMyStudy: true
 };
 var DEFAULT_DEVICE = {
   deviceToken: null,
@@ -6895,6 +6896,13 @@ var ReaderView = class extends import_obsidian7.ItemView {
     const verses = parseCanonicalVerses(body);
     const bar = root.createDiv({ cls: "sg-reader-bar" });
     bar.createEl("h2", { text: this.chapterTitle });
+    const myBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "\u270F\uFE0F My notes" });
+    myBtn.onclick = () => {
+      const companion = `${this.chapterTitle} - My Notes`;
+      if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
+        void this.app.workspace.openLinkText(companion, "");
+      }
+    };
     const askBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "\u2728 Ask AI" });
     askBtn.onclick = () => this.openAsk(this.chapterTitle, null);
     const lensBar = root.createDiv({ cls: "sg-lens-bar" });
@@ -7224,6 +7232,11 @@ var SGSettingsTab = class extends import_obsidian9.PluginSettingTab {
         }));
       }));
     }
+    el.createEl("h2", { text: "Reading" });
+    new import_obsidian9.Setting(el).setName("Chapter links open My Study page").setDesc("Links like [[Matthew 5]] land on your editable page (the scripture is embedded there). Verse-precise links still open the exact verse.").addToggle((t) => t.setValue(s.settings.chapterLinksToMyStudy).onChange(async (v) => {
+      s.applySettings({ chapterLinksToMyStudy: v });
+      await this.p.saveSharedSettings();
+    }));
     el.createEl("h2", { text: "Sharing & privacy" });
     new import_obsidian9.Setting(el).setName("Default for new notes/highlights").setDesc("\u{1F510} Only me (synced) is recommended; \u{1F512} device-only never uploads anywhere").addDropdown((d) => d.addOption("private", "\u{1F510} Only me (synced)").addOption("local", "\u{1F512} Only me (this device)").setValue(s.settings.defaultVisibility).onChange(async (v) => {
       s.settings.defaultVisibility = v;
@@ -7422,6 +7435,8 @@ var SGPlugin = class extends import_obsidian11.Plugin {
   ai;
   ann;
   study;
+  origOpenLinkText = null;
+  studyActionViews = /* @__PURE__ */ new WeakSet();
   async onload() {
     this.state = new SGState(this.app, this);
     const saved = await this.loadData();
@@ -7490,6 +7505,17 @@ var SGPlugin = class extends import_obsidian11.Plugin {
       }
     });
     this.addCommand({
+      id: "open-my-study",
+      name: "Open my study page for this chapter",
+      icon: "pencil",
+      checkCallback: (checking) => {
+        const f = this.app.workspace.getActiveFile();
+        const ok = !!f && f.path.startsWith(CANONICAL_PREFIX) && !!chapterIdFromTitle(f.basename);
+        if (!checking && ok) this.openMyStudy(f.basename);
+        return ok;
+      }
+    });
+    this.addCommand({
       id: "bookmark",
       name: "Bookmark this page",
       icon: "bookmark",
@@ -7549,7 +7575,19 @@ var SGPlugin = class extends import_obsidian11.Plugin {
       if (!f) return;
       this.study.recordVisit(f);
       if (this.state.settings.forceLibraryPreview) this.forcePreview(f);
+      this.addMyStudyAction(f);
     }));
+    this.origOpenLinkText = this.app.workspace.openLinkText.bind(this.app.workspace);
+    const orig = this.origOpenLinkText;
+    this.app.workspace.openLinkText = (linktext, sourcePath, newLeaf, openViewState) => {
+      const redirect = this.companionForLink(linktext, sourcePath);
+      return orig(
+        redirect ?? linktext,
+        sourcePath,
+        newLeaf,
+        openViewState
+      );
+    };
     this.app.workspace.onLayoutReady(() => {
       void (async () => {
         await migrateFromAnnotate(this.state);
@@ -7565,6 +7603,40 @@ var SGPlugin = class extends import_obsidian11.Plugin {
   }
   onunload() {
     this.ann.stop();
+    if (this.origOpenLinkText) {
+      this.app.workspace.openLinkText = this.origOpenLinkText;
+    }
+  }
+  /** "<Chapter> - My Notes" when the link should land on the editable page. */
+  companionForLink(linktext, sourcePath) {
+    if (!this.state.settings.chapterLinksToMyStudy) return null;
+    if (!linktext || linktext.includes("#")) return null;
+    const dest = this.app.metadataCache.getFirstLinkpathDest(linktext, sourcePath);
+    if (!dest || !dest.path.startsWith(CANONICAL_PREFIX)) return null;
+    if (!chapterIdFromTitle(dest.basename)) return null;
+    const srcBase = sourcePath.split("/").pop() ?? "";
+    if (srcBase === `${dest.basename} - My Notes.md`) return null;
+    const companion = `${dest.basename} - My Notes`;
+    return this.app.metadataCache.getFirstLinkpathDest(companion, "") ? companion : null;
+  }
+  openMyStudy(chapterTitle2) {
+    const companion = `${chapterTitle2} - My Notes`;
+    if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
+      void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(companion, "");
+    } else {
+      new import_obsidian11.Notice("No My Notes page exists for this chapter yet");
+    }
+  }
+  /** ✏️ button in the title bar of every canonical chapter view. */
+  addMyStudyAction(f) {
+    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian11.MarkdownView);
+    if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
+    this.studyActionViews.add(view);
+    view.addAction("pencil", "Open my study page (editable)", () => {
+      const cur = view.file;
+      if (cur) this.openMyStudy(cur.basename);
+    });
   }
   // ------------------------------------------------------------------ util
   async saveSharedSettings() {

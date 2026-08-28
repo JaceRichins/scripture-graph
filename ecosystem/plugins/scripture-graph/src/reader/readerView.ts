@@ -74,6 +74,13 @@ export class ReaderView extends ItemView {
     // ---- top bar ----
     const bar = root.createDiv({ cls: "sg-reader-bar" });
     bar.createEl("h2", { text: this.chapterTitle });
+    const myBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "✏️ My notes" });
+    myBtn.onclick = () => {
+      const companion = `${this.chapterTitle} - My Notes`;
+      if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
+        void this.app.workspace.openLinkText(companion, "");
+      }
+    };
     const askBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "✨ Ask AI" });
     askBtn.onclick = () => this.openAsk(this.chapterTitle, null);
 

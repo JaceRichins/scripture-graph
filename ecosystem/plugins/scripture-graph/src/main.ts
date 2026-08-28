@@ -5,7 +5,7 @@
  * (reader, bookmarks, trails, flashcards). Shared state lives in SGState;
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
 import { MarkdownView, Notice, Plugin, TFile, WorkspaceLeaf } from "obsidian";
-import { chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
+import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
@@ -22,6 +22,8 @@ export default class SGPlugin extends Plugin {
   ai!: AiService;
   ann!: AnnotationService;
   study!: StudyService;
+  private origOpenLinkText: typeof this.app.workspace.openLinkText | null = null;
+  private studyActionViews = new WeakSet<MarkdownView>();
 
   async onload() {
     this.state = new SGState(this.app, this);
@@ -95,6 +97,16 @@ export default class SGPlugin extends Plugin {
       },
     });
     this.addCommand({
+      id: "open-my-study", name: "Open my study page for this chapter", icon: "pencil",
+      checkCallback: checking => {
+        const f = this.app.workspace.getActiveFile();
+        const ok = !!f && f.path.startsWith(CANONICAL_PREFIX)
+          && !!chapterIdFromTitle(f.basename);
+        if (!checking && ok) this.openMyStudy(f!.basename);
+        return ok;
+      },
+    });
+    this.addCommand({
       id: "bookmark", name: "Bookmark this page", icon: "bookmark",
       callback: () => void this.study.bookmarkCurrent(),
     });
@@ -135,7 +147,21 @@ export default class SGPlugin extends Plugin {
       if (!f) return;
       this.study.recordVisit(f);
       if (this.state.settings.forceLibraryPreview) this.forcePreview(f);
+      this.addMyStudyAction(f);
     }));
+
+    // ---- chapter links land on the EDITABLE My Notes page (§user) ----------
+    // Verse-anchored links ("Alma 36#^alma-36-18") keep opening canonical —
+    // block anchors only exist there. Bare chapter links redirect to the
+    // personal companion, which embeds the same scripture and is yours to edit.
+    this.origOpenLinkText = this.app.workspace.openLinkText.bind(this.app.workspace);
+    const orig = this.origOpenLinkText;
+    this.app.workspace.openLinkText = (linktext: string, sourcePath: string,
+      newLeaf?: unknown, openViewState?: unknown) => {
+      const redirect = this.companionForLink(linktext, sourcePath);
+      return orig(redirect ?? linktext, sourcePath, newLeaf as never,
+        openViewState as never);
+    };
 
     // ---- deferred startup --------------------------------------------------
     this.app.workspace.onLayoutReady(() => {
@@ -153,6 +179,44 @@ export default class SGPlugin extends Plugin {
 
   onunload() {
     this.ann.stop();
+    if (this.origOpenLinkText) {
+      this.app.workspace.openLinkText = this.origOpenLinkText;
+    }
+  }
+
+  /** "<Chapter> - My Notes" when the link should land on the editable page. */
+  private companionForLink(linktext: string, sourcePath: string): string | null {
+    if (!this.state.settings.chapterLinksToMyStudy) return null;
+    if (!linktext || linktext.includes("#")) return null;  // verse/heading links stay
+    const dest = this.app.metadataCache.getFirstLinkpathDest(linktext, sourcePath);
+    if (!dest || !dest.path.startsWith(CANONICAL_PREFIX)) return null;
+    if (!chapterIdFromTitle(dest.basename)) return null;   // only chapter files
+    // the My Study page's own "Plain text" link must still reach canonical
+    const srcBase = sourcePath.split("/").pop() ?? "";
+    if (srcBase === `${dest.basename} - My Notes.md`) return null;
+    const companion = `${dest.basename} - My Notes`;
+    return this.app.metadataCache.getFirstLinkpathDest(companion, "") ? companion : null;
+  }
+
+  private openMyStudy(chapterTitle: string): void {
+    const companion = `${chapterTitle} - My Notes`;
+    if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
+      void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(companion, "");
+    } else {
+      new Notice("No My Notes page exists for this chapter yet");
+    }
+  }
+
+  /** ✏️ button in the title bar of every canonical chapter view. */
+  private addMyStudyAction(f: TFile): void {
+    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
+    const view = this.app.workspace.getActiveViewOfType(MarkdownView);
+    if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
+    this.studyActionViews.add(view);
+    view.addAction("pencil", "Open my study page (editable)", () => {
+      const cur = view.file;
+      if (cur) this.openMyStudy(cur.basename);
+    });
   }
 
   // ------------------------------------------------------------------ util
