@@ -18,6 +18,7 @@ const LENSES: { key: string; icon: string; label: string; sections: string[] }[]
   { key: "evidence", icon: "🔬", label: "Evidence", sections: ["evidence"] },
   { key: "conference", icon: "🎙", label: "Conference", sections: ["conference"] },
   { key: "related", icon: "🔗", label: "Related", sections: ["related-scriptures"] },
+  { key: "media", icon: "🎧", label: "Media", sections: ["secondary-sources"] },
   { key: "questions", icon: "❓", label: "Questions", sections: ["questions", "further-study"] },
 ];
 

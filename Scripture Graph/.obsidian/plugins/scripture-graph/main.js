@@ -6836,6 +6836,7 @@ var LENSES = [
   { key: "evidence", icon: "\u{1F52C}", label: "Evidence", sections: ["evidence"] },
   { key: "conference", icon: "\u{1F399}", label: "Conference", sections: ["conference"] },
   { key: "related", icon: "\u{1F517}", label: "Related", sections: ["related-scriptures"] },
+  { key: "media", icon: "\u{1F3A7}", label: "Media", sections: ["secondary-sources"] },
   { key: "questions", icon: "\u2753", label: "Questions", sections: ["questions", "further-study"] }
 ];
 var ReaderView = class extends import_obsidian7.ItemView {
