@@ -87,7 +87,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

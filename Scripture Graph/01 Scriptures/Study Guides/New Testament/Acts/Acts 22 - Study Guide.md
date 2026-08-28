@@ -66,7 +66,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

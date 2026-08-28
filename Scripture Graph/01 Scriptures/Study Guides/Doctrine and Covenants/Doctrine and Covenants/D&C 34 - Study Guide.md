@@ -72,7 +72,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Orson Pratt’s Call to Serve** (history) *(explicit citation)*
+- **Peace and War** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

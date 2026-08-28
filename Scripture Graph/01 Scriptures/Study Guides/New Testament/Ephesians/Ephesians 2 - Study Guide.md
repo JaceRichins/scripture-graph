@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adoption** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

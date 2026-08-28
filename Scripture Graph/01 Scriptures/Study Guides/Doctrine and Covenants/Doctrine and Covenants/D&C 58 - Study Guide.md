@@ -84,7 +84,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **The Center Place** (history) *(explicit citation)*
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Employment** (reference-entry) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Waiting for the Word of the Lord** (history) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

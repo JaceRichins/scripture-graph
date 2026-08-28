@@ -67,12 +67,28 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
+- [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
+- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
+- [[He That Shall Endure unto the End, the Same Shall Be Saved (Elder Claudio D. Zivic, April 2018)|He That Shall Endure unto the End, the Same Shall Be Saved]] — Elder Claudio D. Zivic, 2018-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

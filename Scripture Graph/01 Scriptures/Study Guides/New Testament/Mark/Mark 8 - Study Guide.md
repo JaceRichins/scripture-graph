@@ -64,12 +64,19 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
+- [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
+- [[Love Is Spoken Here (Elder Gerrit W. Gong, October 2023)|Love Is Spoken Here]] — Elder Gerrit W. Gong, 2023-October *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[Lost Luggage, Redeemed Souls (Elder Gary E. Stevenson, April 2026)|Lost Luggage, Redeemed Souls]] — Elder Gary E. Stevenson, 2026-April *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[No Greater Joy Than to Know That They Know (Elder K. Brett Nattress, October 2016)|No Greater Joy Than to Know That They Know]] — Elder K. Brett Nattress, 2016-October *(explicit citation)*
+- [[Conference Report, October 1921 (General Conference (full report), October 1921)|Conference Report, October 1921]] — General Conference (full report), 1921-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **An Angel and a Promise** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

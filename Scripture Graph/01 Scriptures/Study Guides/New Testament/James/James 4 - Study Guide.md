@@ -67,7 +67,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Humility** (reference-entry) *(explicit citation)*
+- **Sin** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Humility** (reference-entry) *(explicit citation)*
+- **Sin** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

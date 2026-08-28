@@ -84,7 +84,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gospel** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Pornography** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Gospel** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Fasting** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

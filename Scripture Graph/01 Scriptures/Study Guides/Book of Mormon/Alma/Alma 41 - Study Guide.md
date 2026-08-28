@@ -73,7 +73,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Happiness** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Judging Others** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Happiness** (reference-entry) *(explicit citation)*
+- **Judging Others** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

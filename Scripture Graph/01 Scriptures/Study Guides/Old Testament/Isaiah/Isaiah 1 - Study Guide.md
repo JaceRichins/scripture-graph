@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

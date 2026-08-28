@@ -64,12 +64,17 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
+- [[Humble to Accept and Follow (Elder Joni L. Koch, October 2023)|Humble to Accept and Follow]] — Elder Joni L. Koch, 2023-October *(explicit citation)*
+- [[And Now I See (Elder Jeffrey R. Holland, October 2025)|And Now I See]] — Elder Jeffrey R. Holland, 2025-October *(explicit citation)*
+- [[Small and Simple Things (President Dallin H. Oaks, April 2018)|Small and Simple Things]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -60,12 +60,18 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let the Clarion Trumpet Sound (Elder Gregory A. Schwitzer, October 2015)|Let the Clarion Trumpet Sound]] — Elder Gregory A. Schwitzer, 2015-October *(explicit citation)*
+- [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
+- [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
+- [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
+- [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -62,12 +62,28 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
+- [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
+- [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
+- [[Even as Christ Forgives You, So Also Do Ye (Elder Larry J. Echo Hawk, April 2018)|Even as Christ Forgives You, So Also Do Ye]] — Elder Larry J. Echo Hawk, 2018-April *(explicit citation)*
+- [[Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
+- [[Tested, Proved, and Polished (President Henry B. Eyring, October 2020)|Tested, Proved, and Polished]] — President Henry B. Eyring, 2020-October *(explicit citation)*
+- [[Trust Again (Elder Gerrit W. Gong, October 2021)|Trust Again]] — Elder Gerrit W. Gong, 2021-October *(explicit citation)*
+- [[Following Jesus Being a Peacemaker (Elder Neil L. Andersen, April 2022)|Following Jesus: Being a Peacemaker]] — Elder Neil L. Andersen, 2022-April *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Paradise** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Paradise** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

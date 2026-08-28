@@ -61,12 +61,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
+- [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
+- [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
+- [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
+- [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
+- [[Becoming a Shepherd (Bonnie H. Cordon, October 2018)|Becoming a Shepherd]] — Bonnie H. Cordon, 2018-October *(explicit citation)*
+- [[Priesthood and Personal Prayer (President Henry B. Eyring, April 2015)|Priesthood and Personal Prayer]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Service** (reference-entry) *(explicit citation)*
+- **Service** (reference-entry) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Commandments** (reference-entry) *(explicit citation)*
+- **Ministering** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Fasting** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

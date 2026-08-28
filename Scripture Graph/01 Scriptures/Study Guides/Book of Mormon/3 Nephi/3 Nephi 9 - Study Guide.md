@@ -85,7 +85,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Sacrament** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Abortion** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

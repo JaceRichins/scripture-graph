@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Education** (reference-entry) *(explicit citation)*
+- **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

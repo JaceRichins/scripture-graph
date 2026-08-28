@@ -79,7 +79,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Mother in Heaven** (reference-entry) *(explicit citation)*
+- **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Miracles** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Happiness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

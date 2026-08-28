@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Remembering the Martyrdom** (history) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Restoration of the Church** (reference-entry) *(explicit citation)*
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Mormonism** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

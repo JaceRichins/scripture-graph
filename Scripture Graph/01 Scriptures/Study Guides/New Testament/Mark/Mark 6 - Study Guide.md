@@ -65,12 +65,24 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
+- [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
+- [[Prepare the Way (Bishop Gérald Caussé, April 2017)|Prepare the Way]] — Bishop Gérald Caussé, 2017-April *(explicit citation)*
+- [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
+- [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
+- [[Charity—a Sign of True Discipleship (Elder Michael B. Strong, April 2025)|Charity—a Sign of True Discipleship]] — Elder Michael B. Strong, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Miracles** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -66,12 +66,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[Standing with the Leaders of the Church (Elder Ronald A. Rasband, April 2016)|Standing with the Leaders of the Church]] — Elder Ronald A. Rasband, 2016-April *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[The Language of the Gospel (Elder Valeri V. Cordón, April 2017)|The Language of the Gospel]] — Elder Valeri V. Cordón, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

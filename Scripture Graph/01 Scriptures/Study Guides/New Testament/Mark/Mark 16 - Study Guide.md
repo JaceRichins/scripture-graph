@@ -65,12 +65,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[Encounter at the Empty Tomb (President Dieter F. Uchtdorf, April 2026)|Encounter at the Empty Tomb]] — President Dieter F. Uchtdorf, 2026-April *(explicit citation)*
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[He That Shall Endure unto the End, the Same Shall Be Saved (Elder Claudio D. Zivic, April 2018)|He That Shall Endure unto the End, the Same Shall Be Saved]] — Elder Claudio D. Zivic, 2018-April *(explicit citation)*
+- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Miracles** (reference-entry) *(explicit citation)*
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Missionary Work** (reference-entry) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -85,7 +85,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Endowment** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

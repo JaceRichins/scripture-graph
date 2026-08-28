@@ -71,7 +71,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

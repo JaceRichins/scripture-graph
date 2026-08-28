@@ -65,12 +65,28 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
+- [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
+- [[“Whoso Receiveth Them, Receiveth Me” (Elder Neil L. Andersen, April 2016)|“Whoso Receiveth Them, Receiveth Me”]] — Elder Neil L. Andersen, 2016-April *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[And This Is Life Eternal (Elder C. Scott Grow, April 2017)|And This Is Life Eternal]] — Elder C. Scott Grow, 2017-April *(explicit citation)*
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Divorce** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

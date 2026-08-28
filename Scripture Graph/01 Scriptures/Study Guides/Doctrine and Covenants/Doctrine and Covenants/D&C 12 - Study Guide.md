@@ -66,7 +66,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Knight and Whitmer Families** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Humility** (reference-entry) *(explicit citation)*
+- **Love** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -79,7 +79,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Plural Marriage** (reference-entry) *(explicit citation)*
+- **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
+- **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Welfare** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

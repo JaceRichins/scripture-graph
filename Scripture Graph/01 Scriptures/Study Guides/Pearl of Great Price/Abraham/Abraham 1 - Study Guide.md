@@ -68,7 +68,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Abraham, Book of** (reference-entry) *(explicit citation)*
+- **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
+- **Journal of Discourses, Volume 24** (history, ~1877) *(explicit citation)*
+- **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
+- **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

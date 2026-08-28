@@ -71,7 +71,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
+- **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
+- **Education** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

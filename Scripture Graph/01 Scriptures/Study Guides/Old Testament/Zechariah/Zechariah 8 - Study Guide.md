@@ -56,7 +56,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, April 1927 (General Conference (full report), April 1927)|Conference Report, April 1927]] — General Conference (full report), 1927-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

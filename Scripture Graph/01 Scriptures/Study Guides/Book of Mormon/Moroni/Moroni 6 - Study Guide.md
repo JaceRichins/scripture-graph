@@ -67,12 +67,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[One in Christ (Elder Ulisses Soares, October 2018)|One in Christ]] — Elder Ulisses Soares, 2018-October *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
+- [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
+- [[Christ—Author and Finisher of Our Faith (Elder Eduardo F. Ortega, April 2026)|Christ—Author and Finisher of Our Faith]] — Elder Eduardo F. Ortega, 2026-April *(explicit citation)*
+- [[The Powerful, Virtuous Cycle of the Doctrine of Christ (Elder Dale G. Renlund, April 2024)|The Powerful, Virtuous Cycle of the Doctrine of Christ]] — Elder Dale G. Renlund, 2024-April *(explicit citation)*
+- [[Latter-day Saints Keep on Trying (Elder Dale G. Renlund, April 2015)|Latter-day Saints Keep on Trying]] — Elder Dale G. Renlund, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ministering** (reference-entry) *(explicit citation)*
+- **Missionary Work** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

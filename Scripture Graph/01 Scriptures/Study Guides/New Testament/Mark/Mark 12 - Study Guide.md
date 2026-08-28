@@ -68,12 +68,23 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Overcoming the World (Elder Neil L. Andersen, April 2017)|Overcoming the World]] — Elder Neil L. Andersen, 2017-April *(explicit citation)*
+- [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
+- [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[The Heart of the Widow (Elder O. Vincent Haleck, October 2017)|The Heart of the Widow]] — Elder O. Vincent Haleck, 2017-October *(explicit citation)*
+- [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
+- [[Love Your Enemies (President Dallin H. Oaks, October 2020)|Love Your Enemies]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[The Greatest Possession (Elder Jeffrey R. Holland, October 2021)|The Greatest Possession]] — Elder Jeffrey R. Holland, 2021-October *(explicit citation)*
+- [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
+- [[In Partnership with the Lord (Elder Ulisses Soares, October 2022)|In Partnership with the Lord]] — Elder Ulisses Soares, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Tithing** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

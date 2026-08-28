@@ -65,12 +65,26 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
+- [[A Summer with Great-Aunt Rose (President Dieter F. Uchtdorf, October 2015)|A Summer with Great-Aunt Rose]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[He Asks Us to Be His Hands (Cheryl A. Esplin, April 2016)|He Asks Us to Be His Hands]] — Cheryl A. Esplin, 2016-April *(explicit citation)*
+- [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
+- [[Confide in God Unwaveringly (Elder Ulisses Soares, April 2017)|Confide in God Unwaveringly]] — Elder Ulisses Soares, 2017-April *(explicit citation)*
+- [[The Greatest among You (President Dieter F. Uchtdorf, April 2017)|The Greatest among You]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[The Needs before Us (Bonnie L. Oscarson, October 2017)|The Needs before Us]] — Bonnie L. Oscarson, 2017-October *(explicit citation)*
+- [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

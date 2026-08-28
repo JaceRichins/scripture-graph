@@ -70,7 +70,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -63,12 +63,18 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Journal of Discourses, Volume 1** (history, ~1854) *(explicit citation)*
+- **Journal of Discourses, Volume 2** (history, ~1855) *(explicit citation)*
+- **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
+- **Journal of Discourses, Volume 24** (history, ~1877) *(explicit citation)*
+- **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

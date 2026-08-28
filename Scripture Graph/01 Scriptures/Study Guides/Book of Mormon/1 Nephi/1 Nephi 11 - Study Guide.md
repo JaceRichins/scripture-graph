@@ -80,7 +80,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

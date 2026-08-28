@@ -66,12 +66,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
+- [[Divine Helps for Mortality (President Dallin H. Oaks, April 2025)|Divine Helps for Mortality]] — President Dallin H. Oaks, 2025-April *(explicit citation)*
+- [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[Am I Good Enough Will I Make It (Elder J. Devn Cornish, October 2016)|Am I Good Enough? Will I Make It?]] — Elder J. Devn Cornish, 2016-October *(explicit citation)*
+- [[Return and Receive (Elder M. Russell Ballard, April 2017)|Return and Receive]] — Elder M. Russell Ballard, 2017-April *(explicit citation)*
+- [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
+- **Premortality** (reference-entry) *(explicit citation)*
+- **Satan** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Satan** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

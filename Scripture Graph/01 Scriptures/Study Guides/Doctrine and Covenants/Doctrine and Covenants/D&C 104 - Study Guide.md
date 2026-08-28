@@ -84,7 +84,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Self-Reliance** (reference-entry) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Consecration** (reference-entry) *(explicit citation)*
+- **Debt** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

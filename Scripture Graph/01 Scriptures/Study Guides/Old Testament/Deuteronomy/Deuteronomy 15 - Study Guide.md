@@ -70,7 +70,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

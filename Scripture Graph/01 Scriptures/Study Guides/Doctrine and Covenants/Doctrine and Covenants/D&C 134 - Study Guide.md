@@ -60,7 +60,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Of Governments and Laws** (history) *(explicit citation)*
+- **Religious Freedom** (reference-entry) *(explicit citation)*
+- **Civil Government and Law** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

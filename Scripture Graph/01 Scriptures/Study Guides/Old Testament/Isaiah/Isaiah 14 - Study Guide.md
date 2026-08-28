@@ -58,7 +58,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Satan** (reference-entry) *(explicit citation)*
+- **Satan** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

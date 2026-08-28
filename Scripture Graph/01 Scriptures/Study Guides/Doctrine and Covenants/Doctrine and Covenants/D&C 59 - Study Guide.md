@@ -77,7 +77,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **Worship** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Abortion** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Sabbath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -71,12 +71,28 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
+- [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
+- [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
+- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Learn from Alma and Amulek (President Dieter F. Uchtdorf, October 2016)|Learn from Alma and Amulek]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[O How Great the Plan of Our God! (President Dieter F. Uchtdorf, October 2016)|O How Great the Plan of Our God!]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Fasting** (reference-entry) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -65,7 +65,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Oliver Cowdery’s Gift** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

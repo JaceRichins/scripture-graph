@@ -88,7 +88,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Mortality** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

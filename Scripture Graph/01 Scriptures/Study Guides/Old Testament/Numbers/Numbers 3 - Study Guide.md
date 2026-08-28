@@ -82,7 +82,7 @@ The substitution is corporate and cultic. Numbers 3 does not itself present a ge
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Divine Authority, Sublime Young Men (President Steven J. Lund, April 2025)|Divine Authority, Sublime Young Men]] — President Steven J. Lund, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -58,7 +58,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Book of John Whitmer** (history) *(explicit citation)*
+- **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

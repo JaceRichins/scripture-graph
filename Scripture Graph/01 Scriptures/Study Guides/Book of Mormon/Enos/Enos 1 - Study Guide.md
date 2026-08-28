@@ -78,7 +78,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

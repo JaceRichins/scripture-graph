@@ -67,7 +67,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Peace and War** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

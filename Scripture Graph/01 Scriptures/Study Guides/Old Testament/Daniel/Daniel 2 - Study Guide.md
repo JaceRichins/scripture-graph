@@ -75,7 +75,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Mormonism** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -70,7 +70,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Race and the Priesthood** (reference-entry) *(explicit citation)*
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

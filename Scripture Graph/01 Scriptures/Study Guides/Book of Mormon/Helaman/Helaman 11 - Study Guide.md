@@ -77,7 +77,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon and DNA Studies** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

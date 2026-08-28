@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Spiritual Experiences** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **First Vision** (reference-entry) *(explicit citation)*
+- **First Vision** (reference-entry) *(explicit citation)*
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

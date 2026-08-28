@@ -89,7 +89,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Agency and Accountability** (reference-entry) *(explicit citation)*
+- **Happiness** (reference-entry) *(explicit citation)*
+- **Satan** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Fall** (reference-entry) *(explicit citation)*
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

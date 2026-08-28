@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Fall** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

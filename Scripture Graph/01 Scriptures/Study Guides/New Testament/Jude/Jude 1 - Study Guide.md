@@ -58,12 +58,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
+- [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

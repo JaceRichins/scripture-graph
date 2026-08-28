@@ -69,7 +69,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abraham, Book of** (reference-entry) *(explicit citation)*
+- **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Adoption** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

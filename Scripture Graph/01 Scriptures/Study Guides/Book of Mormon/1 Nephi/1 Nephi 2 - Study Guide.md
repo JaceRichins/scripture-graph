@@ -84,7 +84,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

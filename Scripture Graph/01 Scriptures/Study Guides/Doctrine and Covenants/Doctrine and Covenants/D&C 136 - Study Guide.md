@@ -85,7 +85,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Stewardship** (reference-entry) *(explicit citation)*
+- **Humility** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

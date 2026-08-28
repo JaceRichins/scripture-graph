@@ -57,12 +57,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Behold the Lamb of God (Elder Jeffrey R. Holland, April 2019)|Behold the Lamb of God]] — Elder Jeffrey R. Holland, 2019-April *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Foreordination** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Foreordination** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

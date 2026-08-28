@@ -70,7 +70,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Transgression** (reference-entry) *(explicit citation)*
+- **Fall** (reference-entry) *(explicit citation)*
+- **Welfare** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

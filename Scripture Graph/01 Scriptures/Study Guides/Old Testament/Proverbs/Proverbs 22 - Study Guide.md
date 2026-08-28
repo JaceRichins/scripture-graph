@@ -53,12 +53,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Laying the Foundation of a Great Work (Elder Steven R. Bangerter, October 2018)|Laying the Foundation of a Great Work]] — Elder Steven R. Bangerter, 2018-October *(explicit citation)*
+- [[After the Trial of Our Faith (Elder Jorge M. Alvarado, October 2019)|After the Trial of Our Faith]] — Elder Jorge M. Alvarado, 2019-October *(explicit citation)*
+- [[Finding Personal Peace (President Henry B. Eyring, April 2023)|Finding Personal Peace]] — President Henry B. Eyring, 2023-April *(explicit citation)*
+- [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Light of Christ** (reference-entry) *(explicit citation)*
+- **Journal of Discourses, Volume 8** (history, ~1861) *(explicit citation)*
+- **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Light of Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

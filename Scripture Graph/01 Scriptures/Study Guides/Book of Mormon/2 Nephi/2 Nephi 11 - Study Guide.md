@@ -65,7 +65,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Grace** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

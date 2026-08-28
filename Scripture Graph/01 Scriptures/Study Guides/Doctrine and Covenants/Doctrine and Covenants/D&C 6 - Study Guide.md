@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Peace** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Witness** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

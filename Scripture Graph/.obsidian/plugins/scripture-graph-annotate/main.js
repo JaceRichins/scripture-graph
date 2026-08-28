@@ -81,6 +81,37 @@ module.exports = class ScriptureGraphAnnotate extends Plugin {
       menu.showAtMouseEvent(evt);
     });
 
+    // ---- command-palette / mobile-toolbar commands -----------------------
+    // (phones have no right-click; pin these to the mobile toolbar)
+    for (const c of COLORS) {
+      this.addCommand({
+        id: `highlight-${c}`,
+        name: `Highlight selection — ${c}`,
+        callback: () => {
+          const hit = this.resolveSelection(null);
+          if (hit) this.addHighlight(hit, c);
+          else new Notice("Select scripture text first (reading view)");
+        },
+      });
+    }
+    this.addCommand({
+      id: "add-verse-note",
+      name: "Add verse note",
+      callback: () => {
+        const hit = this.resolveSelection(null);
+        if (hit) this.promptNote(hit);
+        else new Notice("Select scripture text first (reading view)");
+      },
+    });
+    this.addCommand({
+      id: "remove-verse-highlights",
+      name: "Remove highlights on selected verse",
+      callback: () => {
+        const hit = this.resolveSelection(null);
+        if (hit) this.clearVerse(hit.vslug);
+      },
+    });
+
     // ---- canonical protection warnings -----------------------------------
     this.registerEvent(this.app.vault.on("delete", (f) => {
       if (f.path && f.path.startsWith(CANONICAL_PREFIX)) {
@@ -140,9 +171,15 @@ module.exports = class ScriptureGraphAnnotate extends Plugin {
   }
 
   // ---- selection resolution ---------------------------------------------
+  // evt may be null (command-palette / mobile toolbar): fall back to the
+  // current DOM selection instead of the mouse target.
   resolveSelection(evt) {
     const sel = window.getSelection();
-    const targetEl = evt.target instanceof Element ? evt.target : null;
+    let targetEl = evt && evt.target instanceof Element ? evt.target : null;
+    if (!targetEl && sel && sel.anchorNode) {
+      targetEl = sel.anchorNode instanceof Element
+        ? sel.anchorNode : sel.anchorNode.parentElement;
+    }
     if (!targetEl || targetEl.closest(".cm-editor")) return null; // reading view only
     const container = targetEl.closest(".markdown-preview-view, .markdown-embed");
     if (!container) return null;

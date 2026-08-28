@@ -77,7 +77,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Peace** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

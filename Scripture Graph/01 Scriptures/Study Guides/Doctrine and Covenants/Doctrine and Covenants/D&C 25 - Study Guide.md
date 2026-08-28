@@ -69,7 +69,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Relief Society** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

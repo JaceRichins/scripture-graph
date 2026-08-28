@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Man Was Also in the Beginning with God’** (history) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Education** (reference-entry) *(explicit citation)*
+- **Light of Christ** (reference-entry) *(explicit citation)*
+- **Parenting** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

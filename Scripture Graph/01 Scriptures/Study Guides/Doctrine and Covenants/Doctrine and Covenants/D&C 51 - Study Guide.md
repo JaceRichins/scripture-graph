@@ -59,7 +59,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Stewardship** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

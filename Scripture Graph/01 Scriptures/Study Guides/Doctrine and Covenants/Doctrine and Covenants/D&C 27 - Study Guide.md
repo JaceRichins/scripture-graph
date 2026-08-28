@@ -88,7 +88,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
+- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

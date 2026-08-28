@@ -81,7 +81,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Commandments** (reference-entry) *(explicit citation)*
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

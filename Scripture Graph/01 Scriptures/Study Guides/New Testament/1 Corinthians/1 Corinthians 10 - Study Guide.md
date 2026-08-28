@@ -65,7 +65,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Same-Sex Attraction** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -63,7 +63,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Same-Sex Attraction** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

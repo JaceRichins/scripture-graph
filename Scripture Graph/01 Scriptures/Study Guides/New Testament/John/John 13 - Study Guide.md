@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Charity** (reference-entry) *(explicit citation)*
+- **Ministering** (reference-entry) *(explicit citation)*
+- **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
+- **Service** (reference-entry) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Love** (reference-entry) *(explicit citation)*
+- **Service** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

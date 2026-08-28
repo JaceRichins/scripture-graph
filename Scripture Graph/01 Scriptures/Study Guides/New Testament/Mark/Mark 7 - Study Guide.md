@@ -62,7 +62,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -72,7 +72,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

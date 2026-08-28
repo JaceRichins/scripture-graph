@@ -71,7 +71,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

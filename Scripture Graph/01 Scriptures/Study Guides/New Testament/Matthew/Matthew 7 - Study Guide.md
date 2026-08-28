@@ -63,12 +63,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
+- [[Fruit (Elder Neil L. Andersen, October 2019)|Fruit]] — Elder Neil L. Andersen, 2019-October *(explicit citation)*
+- [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
+- [[“I Am He” (President Jeffrey R. Holland, October 2024)|“I Am He”]] — President Jeffrey R. Holland, 2024-October *(explicit citation)*
+- [[Seeking Answers to Spiritual Questions (Sister Tracy Y. Browning, October 2024)|Seeking Answers to Spiritual Questions]] — Sister Tracy Y. Browning, 2024-October *(explicit citation)*
+- [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
+- [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Judging Others** (reference-entry) *(explicit citation)*
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

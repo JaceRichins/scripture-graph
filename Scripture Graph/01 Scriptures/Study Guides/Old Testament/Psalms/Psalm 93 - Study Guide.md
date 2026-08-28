@@ -52,7 +52,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Covenant Confidence through Jesus Christ (Elder Ulisses Soares, April 2024)|Covenant Confidence through Jesus Christ]] — Elder Ulisses Soares, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

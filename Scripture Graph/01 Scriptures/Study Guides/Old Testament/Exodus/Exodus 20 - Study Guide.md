@@ -81,7 +81,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Abortion** (reference-entry) *(explicit citation)*
+- **Adoption** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Worship** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

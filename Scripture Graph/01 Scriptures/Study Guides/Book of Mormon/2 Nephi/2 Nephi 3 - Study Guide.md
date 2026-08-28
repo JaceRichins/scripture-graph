@@ -73,7 +73,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **First Vision** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

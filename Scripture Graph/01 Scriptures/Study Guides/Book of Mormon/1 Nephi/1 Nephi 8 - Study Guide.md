@@ -77,7 +77,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **Endure to the End** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

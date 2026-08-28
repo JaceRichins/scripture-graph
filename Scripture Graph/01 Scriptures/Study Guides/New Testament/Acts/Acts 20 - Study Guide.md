@@ -66,7 +66,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Sabbath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

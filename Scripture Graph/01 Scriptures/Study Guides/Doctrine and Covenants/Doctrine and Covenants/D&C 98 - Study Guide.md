@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Waiting for the Word of the Lord** (history) *(explicit citation)*
+- **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
+- **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
+- **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Civil Government and Law** (reference-entry) *(explicit citation)*
+- **Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

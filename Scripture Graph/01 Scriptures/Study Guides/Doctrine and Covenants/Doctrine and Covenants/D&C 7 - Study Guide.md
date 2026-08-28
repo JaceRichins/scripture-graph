@@ -58,7 +58,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

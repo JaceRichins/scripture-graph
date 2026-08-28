@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Build Up My Church’** (history) *(explicit citation)*
+- **The Contributions of Martin Harris** (history) *(explicit citation)*
+- **Commandments** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Diversity and Unity in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Urim and Thummim** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

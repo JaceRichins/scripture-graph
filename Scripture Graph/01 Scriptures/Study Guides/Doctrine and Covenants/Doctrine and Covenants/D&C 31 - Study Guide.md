@@ -62,7 +62,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Faith and Fall of Thomas Marsh** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -81,7 +81,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

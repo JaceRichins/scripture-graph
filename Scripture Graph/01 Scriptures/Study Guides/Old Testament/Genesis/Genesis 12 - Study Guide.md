@@ -67,7 +67,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Everlasting Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

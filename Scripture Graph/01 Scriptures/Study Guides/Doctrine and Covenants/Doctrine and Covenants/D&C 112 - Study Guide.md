@@ -80,7 +80,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Faith and Fall of Thomas Marsh** (history) *(explicit citation)*
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Humility** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

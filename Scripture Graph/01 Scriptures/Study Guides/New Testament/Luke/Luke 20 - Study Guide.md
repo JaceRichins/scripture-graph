@@ -69,7 +69,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Love Your Enemies (President Dallin H. Oaks, October 2020)|Love Your Enemies]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -83,7 +83,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

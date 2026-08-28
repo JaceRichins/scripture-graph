@@ -68,7 +68,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Restoring the Ancient Order** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **High Council** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

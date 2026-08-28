@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Mother in Heaven** (reference-entry) *(explicit citation)*
+- **Heavenly Parents** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Sacrament** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Abortion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

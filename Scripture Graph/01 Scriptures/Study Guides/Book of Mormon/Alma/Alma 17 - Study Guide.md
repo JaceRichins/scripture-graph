@@ -83,7 +83,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Fasting** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Teaching the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

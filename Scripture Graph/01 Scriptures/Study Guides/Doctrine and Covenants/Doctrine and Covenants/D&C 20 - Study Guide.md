@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-- **JS History vol A-1 reference record** (jsp-document) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **Sacrament** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Priest** (reference-entry) *(explicit citation)*
+- **Teacher (Aaronic Priesthood)** (reference-entry) *(explicit citation)*
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Covenant** (reference-entry) *(explicit citation)*
+- **Deacon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

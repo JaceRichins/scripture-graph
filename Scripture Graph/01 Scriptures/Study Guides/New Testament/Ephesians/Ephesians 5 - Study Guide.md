@@ -63,7 +63,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

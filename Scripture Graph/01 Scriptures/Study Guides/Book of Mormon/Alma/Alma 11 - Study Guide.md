@@ -85,7 +85,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Death, Physical** (reference-entry) *(explicit citation)*
+- **Easter** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
+- **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **Spirit World** (reference-entry) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

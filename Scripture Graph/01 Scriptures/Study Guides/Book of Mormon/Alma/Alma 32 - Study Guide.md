@@ -77,7 +77,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
+- **Worship** (reference-entry) *(explicit citation)*
+- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
+- **Worship** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

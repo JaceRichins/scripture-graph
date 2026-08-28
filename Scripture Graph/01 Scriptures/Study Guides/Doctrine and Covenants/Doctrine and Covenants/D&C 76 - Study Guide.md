@@ -93,7 +93,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **‘The Vision’** (history) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Hell** (reference-entry) *(explicit citation)*
+- **Postmortality** (reference-entry) *(explicit citation)*
+- **Satan** (reference-entry) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Hell** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Foreordination** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Mortality** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Resurrection** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Foreordination** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -101,7 +101,16 @@ Alma also treats trust as something tested through adversity. His confidence in 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adoption** (reference-entry) *(explicit citation)*
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Suicide** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
+- **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Testimony** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

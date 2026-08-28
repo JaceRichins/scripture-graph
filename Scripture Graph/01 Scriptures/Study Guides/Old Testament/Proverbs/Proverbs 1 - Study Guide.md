@@ -55,12 +55,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Education** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

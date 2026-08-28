@@ -81,7 +81,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Teaching the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

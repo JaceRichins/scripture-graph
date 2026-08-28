@@ -65,7 +65,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **The Law** (history) *(explicit citation)*
+- **Bishop** (reference-entry) *(explicit citation)*
+- **Stewardship** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

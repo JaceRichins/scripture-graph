@@ -70,7 +70,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

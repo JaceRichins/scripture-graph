@@ -69,7 +69,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

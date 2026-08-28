@@ -76,7 +76,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
+- **Fasting** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

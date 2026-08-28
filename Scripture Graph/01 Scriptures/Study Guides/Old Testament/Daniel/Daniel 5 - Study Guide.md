@@ -56,7 +56,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
+- [[Conference Report, April 1928 (General Conference (full report), April 1928)|Conference Report, April 1928]] — General Conference (full report), 1928-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

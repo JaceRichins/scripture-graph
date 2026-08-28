@@ -66,12 +66,21 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Message, the Meaning, and the Multitude (Elder Jeffrey R. Holland, October 2019)|The Message, the Meaning, and the Multitude]] — Elder Jeffrey R. Holland, 2019-October *(explicit citation)*
+- [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
+- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Learn from Alma and Amulek (President Dieter F. Uchtdorf, October 2016)|Learn from Alma and Amulek]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[His Daily Guiding Hand (M. Joseph Brough, April 2017)|His Daily Guiding Hand]] — M. Joseph Brough, 2017-April *(explicit citation)*
+- [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
+- [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
+- [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

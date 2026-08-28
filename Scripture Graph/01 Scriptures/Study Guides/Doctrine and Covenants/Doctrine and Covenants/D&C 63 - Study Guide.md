@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Pornography** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Signs** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Endure to the End** (reference-entry) *(explicit citation)*
+- **Miracles** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -67,7 +67,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, April 1925 (General Conference (full report), April 1925)|Conference Report, April 1925]] — General Conference (full report), 1925-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

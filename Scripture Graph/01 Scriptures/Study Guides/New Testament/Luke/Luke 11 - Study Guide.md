@@ -65,12 +65,21 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Priesthood and Personal Prayer (President Henry B. Eyring, April 2015)|Priesthood and Personal Prayer]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[“Be With and Strengthen Them” (Elder Jeffrey R. Holland, April 2018)|“Be With and Strengthen Them”]] — Elder Jeffrey R. Holland, 2018-April *(explicit citation)*
+- [[Peace, Be Still (Lisa L. Harkness, October 2020)|Peace, Be Still]] — Lisa L. Harkness, 2020-October *(explicit citation)*
+- [[The Savior’s Abiding Compassion (Elder Ulisses Soares, October 2021)|The Savior’s Abiding Compassion]] — Elder Ulisses Soares, 2021-October *(explicit citation)*
+- [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
+- [[Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]] — President Henry B. Eyring, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Commandments** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -89,7 +89,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **The Center Place** (history) *(explicit citation)*
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Commandments** (reference-entry) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

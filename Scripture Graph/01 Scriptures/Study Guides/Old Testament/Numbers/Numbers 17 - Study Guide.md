@@ -66,7 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Oliver Cowdery’s Gift** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -57,12 +57,22 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[Lessons at the Well (Susan H. Porter, April 2022)|Lessons at the Well]] — Susan H. Porter, 2022-April *(explicit citation)*
+- [[The Power of Ministering to the One (Elder Peter M. Johnson, October 2025)|The Power of Ministering to the One]] — Elder Peter M. Johnson, 2025-October *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[Certain Women (Linda K. Burton, April 2017)|Certain Women]] — Linda K. Burton, 2017-April *(explicit citation)*
+- [[That They May See (Bonnie H. Cordon, April 2020)|That They May See]] — Bonnie H. Cordon, 2020-April *(explicit citation)*
+- [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[The Master Healer (Carole M. Stephens, October 2016)|The Master Healer]] — Carole M. Stephens, 2016-October *(explicit citation)*
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

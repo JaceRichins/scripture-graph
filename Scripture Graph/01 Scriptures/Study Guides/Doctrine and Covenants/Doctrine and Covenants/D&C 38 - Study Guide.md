@@ -79,7 +79,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **‘Go to the Ohio’** (history) *(explicit citation)*
+- **The Law** (history) *(explicit citation)*
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Emergency Preparedness** (reference-entry) *(explicit citation)*
+- **Endowment** (reference-entry) *(explicit citation)*
+- **Unity** (reference-entry) *(explicit citation)*
+- **The Word of Wisdom** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -66,7 +66,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
+- **Missionary Work** (reference-entry) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

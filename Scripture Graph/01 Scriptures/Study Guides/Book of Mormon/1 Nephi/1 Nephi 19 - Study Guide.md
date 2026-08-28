@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Race and the Priesthood** (reference-entry) *(explicit citation)*
+- **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
+- **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -67,7 +67,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

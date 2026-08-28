@@ -68,7 +68,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Worship** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

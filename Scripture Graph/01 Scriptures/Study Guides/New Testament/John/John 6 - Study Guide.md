@@ -67,12 +67,26 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
+- [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[He That Shall Endure unto the End, the Same Shall Be Saved (Elder Claudio D. Zivic, April 2018)|He That Shall Endure unto the End, the Same Shall Be Saved]] — Elder Claudio D. Zivic, 2018-April *(explicit citation)*
+- [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[The Imperfect Harvest (Elder Vern P. Stanfill, April 2023)|The Imperfect Harvest]] — Elder Vern P. Stanfill, 2023-April *(explicit citation)*
+- [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
+- [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
+- [[Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026)|Jesus Christ Is the Way]] — Elder Brian J. Holmes, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Sacrament** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

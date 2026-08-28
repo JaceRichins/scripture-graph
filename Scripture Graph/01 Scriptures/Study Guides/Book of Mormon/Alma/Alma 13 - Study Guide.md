@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Man Was Also in the Beginning with God’** (history) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Priesthood** (reference-entry) *(explicit citation)*
+- **Temptation** (reference-entry) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **High Priest** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

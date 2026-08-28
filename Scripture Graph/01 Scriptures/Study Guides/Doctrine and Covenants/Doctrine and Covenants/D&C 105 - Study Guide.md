@@ -74,7 +74,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

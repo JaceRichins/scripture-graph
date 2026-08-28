@@ -74,7 +74,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Peace and War** (history) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **Abraham, Book of** (reference-entry) *(explicit citation)*
+- **Doctrine and Covenants** (reference-entry) *(explicit citation)*
+- **Restoration of the Church** (reference-entry) *(explicit citation)*
+- **Sin** (reference-entry) *(explicit citation)*
+- **The Only True and Living Church** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -68,7 +68,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Family Councils** (reference-entry) *(explicit citation)*
+- **Religion and Science** (reference-entry) *(explicit citation)*
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

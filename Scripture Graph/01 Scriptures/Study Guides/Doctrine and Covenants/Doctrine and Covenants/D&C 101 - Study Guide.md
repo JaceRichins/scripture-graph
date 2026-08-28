@@ -80,7 +80,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Waiting for the Word of the Lord** (history) *(explicit citation)*
+- **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
+- **Millennium** (reference-entry) *(explicit citation)*
+- **The Only True and Living Church** (reference-entry) *(explicit citation)*
+- **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Religion and Science** (reference-entry) *(explicit citation)*
+- **Religious Freedom** (reference-entry) *(explicit citation)*
+- **Agency** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

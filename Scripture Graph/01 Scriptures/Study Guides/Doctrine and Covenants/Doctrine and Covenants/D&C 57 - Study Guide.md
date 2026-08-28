@@ -64,7 +64,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Center Place** (history) *(explicit citation)*
+- **Waiting for the Word of the Lord** (history) *(explicit citation)*
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **A Mission to the Lamanites** (history) *(explicit citation)*
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
+- **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

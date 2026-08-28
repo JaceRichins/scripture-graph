@@ -52,7 +52,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
+- [[Right Before Our Eyes (Elder Ronald A. Rasband, April 2025)|Right Before Our Eyes]] — Elder Ronald A. Rasband, 2025-April *(explicit citation)*
+- [[The Healing Power of Jesus Christ (Cristina B. Franco, October 2020)|The Healing Power of Jesus Christ]] — Cristina B. Franco, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

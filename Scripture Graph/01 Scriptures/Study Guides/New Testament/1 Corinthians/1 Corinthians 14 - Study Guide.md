@@ -64,7 +64,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

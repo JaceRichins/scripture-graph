@@ -66,7 +66,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Charity** (reference-entry) *(explicit citation)*
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Relief Society** (reference-entry) *(explicit citation)*
+- **Charity** (reference-entry) *(explicit citation)*
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

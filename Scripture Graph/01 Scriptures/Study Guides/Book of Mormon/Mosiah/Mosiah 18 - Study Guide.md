@@ -69,12 +69,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“This Is My Gospel”—“This Is My Church” (Elder Dale G. Renlund, October 2024)|“This Is My Gospel”—“This Is My Church”]] — Elder Dale G. Renlund, 2024-October *(explicit citation)*
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[Come into the Fold of God (Elder Randy D. Funk, April 2022)|Come into the Fold of God]] — Elder Randy D. Funk, 2022-April *(explicit citation)*
+- [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[Standing with the Leaders of the Church (Elder Ronald A. Rasband, April 2016)|Standing with the Leaders of the Church]] — Elder Ronald A. Rasband, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[Christ the Lord Is Risen Today (Elder Gerrit W. Gong, April 2018)|Christ the Lord Is Risen Today]] — Elder Gerrit W. Gong, 2018-April *(explicit citation)*
+- [[Shepherding Souls (Elder Gary E. Stevenson, October 2018)|Shepherding Souls]] — Elder Gary E. Stevenson, 2018-October *(explicit citation)*
+- [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Covenant** (reference-entry) *(explicit citation)*
+- **Sacrament** (reference-entry) *(explicit citation)*
+- **Service** (reference-entry) *(explicit citation)*
+- **Unity** (reference-entry) *(explicit citation)*
+- **Witness** (reference-entry) *(explicit citation)*
+- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

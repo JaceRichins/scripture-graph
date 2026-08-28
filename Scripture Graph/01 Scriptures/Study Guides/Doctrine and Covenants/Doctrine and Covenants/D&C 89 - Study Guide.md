@@ -66,7 +66,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Word of Wisdom** (history) *(explicit citation)*
+- **Word of Wisdom** (reference-entry) *(explicit citation)*
+- **Peace and War** (history) *(explicit citation)*
+- **Word of Wisdom** (reference-entry) *(explicit citation)*
+- **Word of Wisdom** (reference-entry) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

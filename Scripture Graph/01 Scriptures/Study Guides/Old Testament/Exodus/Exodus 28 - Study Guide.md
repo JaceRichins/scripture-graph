@@ -74,7 +74,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Garments** (reference-entry) *(explicit citation)*
+- **Urim and Thummim** (reference-entry) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

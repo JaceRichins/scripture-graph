@@ -58,7 +58,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Bishop** (reference-entry) *(explicit citation)*
+- **Deacon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -53,7 +53,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
+- [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

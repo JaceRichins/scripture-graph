@@ -58,7 +58,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘The Tithing of My People’** (history) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Tithing** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Tithing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

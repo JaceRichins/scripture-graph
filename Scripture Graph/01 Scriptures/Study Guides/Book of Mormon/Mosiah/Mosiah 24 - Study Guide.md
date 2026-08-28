@@ -69,12 +69,24 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ Is Relief (President Camille N. Johnson, April 2023)|Jesus Christ Is Relief]] — President Camille N. Johnson, 2023-April *(explicit citation)*
+- [[Turn to the Lord (Bishop W. Christopher Waddell, October 2017)|Turn to the Lord]] — Bishop W. Christopher Waddell, 2017-October *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[The Truth of All Things (Elder David F. Evans, October 2017)|The Truth of All Things]] — Elder David F. Evans, 2017-October *(explicit citation)*
+- [[The Savior’s Touch (Elder Walter F. González, October 2019)|The Savior’s Touch]] — Elder Walter F. González, 2019-October *(explicit citation)*
+- [[Focus on Jesus Christ and His Gospel (Elder I. Raymond Egbo, October 2024)|Focus on Jesus Christ and His Gospel]] — Elder I. Raymond Egbo, 2024-October *(explicit citation)*
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Gratitude on the Sabbath Day (President Henry B. Eyring, October 2016)|Gratitude on the Sabbath Day]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[The Heart of the Widow (Elder O. Vincent Haleck, October 2017)|The Heart of the Widow]] — Elder O. Vincent Haleck, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

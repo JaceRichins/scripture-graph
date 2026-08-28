@@ -77,7 +77,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **Waiting for the Word of the Lord** (history) *(explicit citation)*
+- **The Center Place** (history) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
+- **Temples** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
+- **Tithing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

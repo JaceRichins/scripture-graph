@@ -70,7 +70,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
+- **Race and the Priesthood** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

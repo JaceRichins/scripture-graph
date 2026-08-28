@@ -55,7 +55,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
+- [[Be an Example and a Light (President Thomas S. Monson, October 2015)|Be an Example and a Light]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
+- [[Come unto Christ—Living as Latter-day Saints (Elder John A. McCune, April 2020)|Come unto Christ—Living as Latter-day Saints]] — Elder John A. McCune, 2020-April *(explicit citation)*
+- [[Lessons at the Well (Susan H. Porter, April 2022)|Lessons at the Well]] — Susan H. Porter, 2022-April *(explicit citation)*
+- [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

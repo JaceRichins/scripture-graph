@@ -80,7 +80,8 @@ The glory arrives only after the work is finished, making divine presence the na
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Temples** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

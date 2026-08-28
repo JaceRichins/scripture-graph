@@ -60,7 +60,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **Family Councils** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

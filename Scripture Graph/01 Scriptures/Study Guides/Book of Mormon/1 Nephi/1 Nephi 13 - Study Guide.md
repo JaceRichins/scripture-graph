@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Are “Mormons” Christian?** (reference-entry) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Apostasy** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Bible, Inerrancy of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

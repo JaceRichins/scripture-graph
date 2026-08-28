@@ -59,7 +59,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[Learn from Alma and Amulek (President Dieter F. Uchtdorf, October 2016)|Learn from Alma and Amulek]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Overcoming the World (Elder Neil L. Andersen, April 2017)|Overcoming the World]] — Elder Neil L. Andersen, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

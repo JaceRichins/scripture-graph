@@ -75,7 +75,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Only True and Living Church** (reference-entry) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **Articles of Faith** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Death, Spiritual** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

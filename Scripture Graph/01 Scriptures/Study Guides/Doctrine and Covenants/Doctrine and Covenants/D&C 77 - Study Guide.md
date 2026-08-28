@@ -62,7 +62,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Spirit** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

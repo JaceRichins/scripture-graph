@@ -52,7 +52,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]] — President Henry B. Eyring, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

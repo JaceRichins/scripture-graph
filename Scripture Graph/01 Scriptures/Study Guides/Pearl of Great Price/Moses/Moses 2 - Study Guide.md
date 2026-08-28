@@ -60,12 +60,26 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[Our Earthly Stewardship (Bishop Gérald Caussé, October 2022)|Our Earthly Stewardship]] — Bishop Gérald Caussé, 2022-October *(explicit citation)*
+- [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Creation** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Religion and Science** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Mortality** (reference-entry) *(explicit citation)*
+- **Word of Wisdom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

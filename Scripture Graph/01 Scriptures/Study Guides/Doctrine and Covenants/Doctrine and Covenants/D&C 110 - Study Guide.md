@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Restoration of the Church** (reference-entry) *(explicit citation)*
+- **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **An Angel and a Promise** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

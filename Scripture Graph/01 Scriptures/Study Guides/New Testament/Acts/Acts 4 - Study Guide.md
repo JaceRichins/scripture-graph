@@ -78,7 +78,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Witness** (reference-entry) *(explicit citation)*
+- **The Law** (history) *(explicit citation)*
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Consecration** (reference-entry) *(explicit citation)*
+- **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

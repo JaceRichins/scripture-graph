@@ -75,7 +75,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezra Thayer: From Skeptic to Believer** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

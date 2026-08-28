@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
+- **Premortality** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **Council in Heaven** (reference-entry) *(explicit citation)*
+- **Foreordination** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

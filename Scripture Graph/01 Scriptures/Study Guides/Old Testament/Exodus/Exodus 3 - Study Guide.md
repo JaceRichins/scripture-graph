@@ -92,7 +92,7 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

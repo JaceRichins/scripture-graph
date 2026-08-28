@@ -70,12 +70,22 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Turn to the Lord (Bishop W. Christopher Waddell, October 2017)|Turn to the Lord]] — Bishop W. Christopher Waddell, 2017-October *(explicit citation)*
+- [[Mortality Works! (Elder Brook P. Hales, October 2024)|Mortality Works!]] — Elder Brook P. Hales, 2024-October *(explicit citation)*
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[“Be With and Strengthen Them” (Elder Jeffrey R. Holland, April 2018)|“Be With and Strengthen Them”]] — Elder Jeffrey R. Holland, 2018-April *(explicit citation)*
+- [[Shepherding Souls (Elder Gary E. Stevenson, October 2018)|Shepherding Souls]] — Elder Gary E. Stevenson, 2018-October *(explicit citation)*
+- [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
+- [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
+- [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
+- [[Christlike Poise (Elder Mark A. Bragg, April 2023)|Christlike Poise]] — Elder Mark A. Bragg, 2023-April *(explicit citation)*
+- [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adversity** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

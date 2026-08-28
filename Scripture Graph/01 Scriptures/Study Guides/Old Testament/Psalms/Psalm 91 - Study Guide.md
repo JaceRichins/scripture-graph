@@ -52,7 +52,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Simplicity in Christ (Elder Michael Cziesla, October 2025)|Simplicity in Christ]] — Elder Michael Cziesla, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

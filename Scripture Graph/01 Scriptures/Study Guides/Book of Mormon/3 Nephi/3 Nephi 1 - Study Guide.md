@@ -78,7 +78,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Signs** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

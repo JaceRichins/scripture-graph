@@ -82,7 +82,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **The Law** (history) *(explicit citation)*
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **‘All Things Must Be Done in Order’** (history) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

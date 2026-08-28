@@ -70,7 +70,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **God the Father** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **Creation** (reference-entry) *(explicit citation)*
+- **Godhead** (reference-entry) *(explicit citation)*
+- **Grace** (reference-entry) *(explicit citation)*
+- **Reverence** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

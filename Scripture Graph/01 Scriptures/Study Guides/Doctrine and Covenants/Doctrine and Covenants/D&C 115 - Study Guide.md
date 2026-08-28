@@ -82,7 +82,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘The Tithing of My People’** (history) *(explicit citation)*
+- **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Mormon Church** (reference-entry) *(explicit citation)*
+- **Mormonism** (reference-entry) *(explicit citation)*
+- **Mormons** (reference-entry) *(explicit citation)*
+- **Stake** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

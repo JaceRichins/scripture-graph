@@ -94,7 +94,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Plural Marriage** (reference-entry) *(explicit citation)*
+- **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Mother in Heaven** (reference-entry) *(explicit citation)*
+- **Council in Heaven** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -57,12 +57,21 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
+- [[Value beyond Measure (Joy D. Jones, October 2017)|Value beyond Measure]] — Joy D. Jones, 2017-October *(explicit citation)*
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[Now Is the Time (President Russell M. Nelson, April 2022)|Now Is the Time]] — President Russell M. Nelson, 2022-April *(explicit citation)*
+- [[“Behold I Am the Light Which Ye Shall Hold Up” (Elder Ronald A. Rasband, October 2024)|“Behold I Am the Light Which Ye Shall Hold Up”]] — Elder Ronald A. Rasband, 2024-October *(explicit citation)*
+- [[Right Before Our Eyes (Elder Ronald A. Rasband, April 2025)|Right Before Our Eyes]] — Elder Ronald A. Rasband, 2025-April *(explicit citation)*
+- [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Hope** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

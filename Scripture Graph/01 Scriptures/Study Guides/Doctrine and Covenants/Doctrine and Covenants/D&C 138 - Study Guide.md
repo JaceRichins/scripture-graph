@@ -100,7 +100,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Susa Young Gates and the Vision of the Redemption of the Dead** (history) *(explicit citation)*
+- **Spirit World** (reference-entry) *(explicit citation)*
+- **Spirit World** (reference-entry) *(explicit citation)*
+- **Death, Physical** (reference-entry) *(explicit citation)*
+- **Hell** (reference-entry) *(explicit citation)*
+- **Paradise** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Revelation** (reference-entry) *(explicit citation)*
+- **Death, Physical** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -68,7 +68,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Go to the Ohio’** (history) *(explicit citation)*
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

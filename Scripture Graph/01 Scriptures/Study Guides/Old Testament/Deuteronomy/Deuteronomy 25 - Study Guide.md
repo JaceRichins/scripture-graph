@@ -69,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Commandments** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **The Law** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Obedience** (reference-entry) *(explicit citation)*
+- **Prayer** (reference-entry) *(explicit citation)*
+- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

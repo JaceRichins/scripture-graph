@@ -83,7 +83,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **‘Go to the Ohio’** (history) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **An Angel and a Promise** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **Miracles** (reference-entry) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

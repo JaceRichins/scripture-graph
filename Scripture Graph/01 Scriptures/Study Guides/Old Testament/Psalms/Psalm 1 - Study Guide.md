@@ -53,7 +53,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
+- [[Conference Report, April 1925 (General Conference (full report), April 1925)|Conference Report, April 1925]] — General Conference (full report), 1925-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

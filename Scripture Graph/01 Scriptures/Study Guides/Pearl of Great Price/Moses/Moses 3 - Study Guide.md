@@ -59,12 +59,24 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In Partnership with the Lord (Elder Ulisses Soares, October 2022)|In Partnership with the Lord]] — Elder Ulisses Soares, 2022-October *(explicit citation)*
+- [[Your Great Adventure (Elder Dieter F. Uchtdorf, October 2019)|Your Great Adventure]] — Elder Dieter F. Uchtdorf, 2019-October *(explicit citation)*
+- [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Mother in Heaven** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
+- **Fall** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

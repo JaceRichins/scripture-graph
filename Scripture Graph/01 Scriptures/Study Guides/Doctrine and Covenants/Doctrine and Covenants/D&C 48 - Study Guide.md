@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

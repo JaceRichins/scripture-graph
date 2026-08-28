@@ -53,7 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Savior’s Touch (Elder Walter F. González, October 2019)|The Savior’s Touch]] — Elder Walter F. González, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

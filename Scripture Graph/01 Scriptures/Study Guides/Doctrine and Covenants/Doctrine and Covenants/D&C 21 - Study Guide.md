@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Build Up My Church’** (history) *(explicit citation)*
+- **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **The Book of John Whitmer** (history) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

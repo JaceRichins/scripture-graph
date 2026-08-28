@@ -64,12 +64,30 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Whoso Receiveth Them, Receiveth Me” (Elder Neil L. Andersen, April 2016)|“Whoso Receiveth Them, Receiveth Me”]] — Elder Neil L. Andersen, 2016-April *(explicit citation)*
+- [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
+- [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
+- [[Be Thou Humble (Elder Steven E. Snow, April 2016)|Be Thou Humble]] — Elder Steven E. Snow, 2016-April *(explicit citation)*
+- [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
+- [[To the Rescue We Can Do It (Elder Mervyn B. Arnold, April 2016)|To the Rescue: We Can Do It]] — Elder Mervyn B. Arnold, 2016-April *(explicit citation)*
+- [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
+- [[Be Ye Therefore Perfect—Eventually (Elder Jeffrey R. Holland, October 2017)|Be Ye Therefore Perfect—Eventually]] — Elder Jeffrey R. Holland, 2017-October *(explicit citation)*
+- [[It Is All about People (Bishop Gérald Caussé, April 2018)|It Is All about People]] — Bishop Gérald Caussé, 2018-April *(explicit citation)*
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abuse** (reference-entry) *(explicit citation)*
+- **Adoption** (reference-entry) *(explicit citation)*
+- **Witness** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
+- **Abuse** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

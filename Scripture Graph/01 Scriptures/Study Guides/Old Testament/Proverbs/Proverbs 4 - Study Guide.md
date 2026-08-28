@@ -52,7 +52,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
+- [[A Mighty Change of Heart “I Have Nothing More to Give You” (Elder Eduardo Gavarret, April 2022)|A Mighty Change of Heart: “I Have Nothing More to Give You”]] — Elder Eduardo Gavarret, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

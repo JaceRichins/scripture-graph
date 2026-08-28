@@ -80,7 +80,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘All Things Must Be Done in Order’** (history) *(explicit citation)*
+- **The Center Place** (history) *(explicit citation)*
+- **A Mission to the Lamanites** (history) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

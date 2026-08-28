@@ -68,7 +68,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Experience of the Three Witnesses** (history) *(explicit citation)*
+- **The Contributions of Martin Harris** (history) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Urim and Thummim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

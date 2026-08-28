@@ -62,7 +62,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Letters on Baptism for the Dead** (history) *(explicit citation)*
+- **Organizing the Church in Nauvoo** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Grief** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

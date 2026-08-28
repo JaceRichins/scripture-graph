@@ -53,7 +53,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, October 1920 (General Conference (full report), October 1920)|Conference Report, October 1920]] — General Conference (full report), 1920-October *(explicit citation)*
+- [[Conference Report, October 1927 (General Conference (full report), October 1927)|Conference Report, October 1927]] — General Conference (full report), 1927-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

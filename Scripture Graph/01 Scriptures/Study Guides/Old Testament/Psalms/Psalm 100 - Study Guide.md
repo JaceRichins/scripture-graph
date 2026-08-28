@@ -53,12 +53,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
+- [[Welcome to the Church of Joy (Elder Patrick Kearon, October 2024)|Welcome to the Church of Joy]] — Elder Patrick Kearon, 2024-October *(explicit citation)*
+- [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gratitude** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

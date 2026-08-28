@@ -55,12 +55,19 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Invite Christ to Author Your Story (Camille N. Johnson, October 2021)|Invite Christ to Author Your Story]] — Camille N. Johnson, 2021-October *(explicit citation)*
+- [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
+- [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Millennium** (reference-entry) *(explicit citation)*
+- **Millennium** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Judging Others** (reference-entry) *(explicit citation)*
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

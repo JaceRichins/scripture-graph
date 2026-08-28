@@ -52,7 +52,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, October 1909 (General Conference (full report), October 1909)|Conference Report, October 1909]] — General Conference (full report), 1909-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -70,7 +70,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **The Only True and Living Church** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

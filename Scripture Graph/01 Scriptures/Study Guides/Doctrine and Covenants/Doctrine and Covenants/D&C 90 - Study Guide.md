@@ -82,7 +82,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **First Presidency** (reference-entry) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

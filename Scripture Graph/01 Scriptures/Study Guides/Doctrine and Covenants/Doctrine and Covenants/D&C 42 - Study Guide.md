@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Law** (history) *(explicit citation)*
+- **‘The Tithing of My People’** (history) *(explicit citation)*
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **The Center Place** (history) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

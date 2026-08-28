@@ -74,7 +74,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

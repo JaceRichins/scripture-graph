@@ -66,12 +66,17 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
+- [[Seeing God’s Family through the Overview Lens (Sister Tamara W. Runia, October 2023)|Seeing God’s Family through the Overview Lens]] — Sister Tamara W. Runia, 2023-October *(explicit citation)*
+- [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
+- [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Are “Mormons” Christian?** (reference-entry) *(explicit citation)*
+- **Agency and Accountability** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

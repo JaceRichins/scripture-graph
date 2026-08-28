@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A School and an Endowment** (history) *(explicit citation)*
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **Peace and War** (history) *(explicit citation)*
+- **Education** (reference-entry) *(explicit citation)*
+- **Light of Christ** (reference-entry) *(explicit citation)*
+- **Millennium** (reference-entry) *(explicit citation)*
+- **Religion and Science** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

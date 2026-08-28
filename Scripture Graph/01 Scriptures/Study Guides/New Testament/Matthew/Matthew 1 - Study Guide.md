@@ -61,12 +61,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
+- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[Bearing Witness of Jesus Christ in Word and Actions (Elder Adilson de Paula Parrella, October 2023)|Bearing Witness of Jesus Christ in Word and Actions]] — Elder Adilson de Paula Parrella, 2023-October *(explicit citation)*
+- [[Joy Through Covenant Discipleship (Elder John A. McCune, April 2025)|Joy Through Covenant Discipleship]] — Elder John A. McCune, 2025-April *(explicit citation)*
+- [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -82,12 +82,20 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[“I Was a Stranger” (Linda K. Burton, April 2016)|“I Was a Stranger”]] — Linda K. Burton, 2016-April *(explicit citation)*
+- [[The True, Pure, and Simple Gospel of Jesus Christ (President M. Russell Ballard, April 2019)|The True, Pure, and Simple Gospel of Jesus Christ]] — President M. Russell Ballard, 2019-April *(explicit citation)*
+- [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
+- [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
+- [[A Mighty Change of Heart “I Have Nothing More to Give You” (Elder Eduardo Gavarret, April 2022)|A Mighty Change of Heart: “I Have Nothing More to Give You”]] — Elder Eduardo Gavarret, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Judgment** (reference-entry) *(explicit citation)*
+- **Love** (reference-entry) *(explicit citation)*
+- **Profanity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

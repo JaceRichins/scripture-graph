@@ -87,7 +87,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Foreordination** (reference-entry) *(explicit citation)*
+- **Justice and Mercy** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Sin** (reference-entry) *(explicit citation)*
+- **Preface** (history) *(explicit citation)*
+- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **First Vision** (reference-entry) *(explicit citation)*
+- **Repentance** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

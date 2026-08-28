@@ -68,7 +68,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **A School and an Endowment** (history) *(explicit citation)*
+- **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Temples** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

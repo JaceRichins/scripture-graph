@@ -66,7 +66,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Go to the Ohio’** (history) *(explicit citation)*
+- **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

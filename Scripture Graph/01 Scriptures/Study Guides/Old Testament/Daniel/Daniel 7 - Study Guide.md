@@ -54,12 +54,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Conference Report, April 1915 (General Conference (full report), April 1915)|Conference Report, April 1915]] — General Conference (full report), 1915-April *(explicit citation)*
+- [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

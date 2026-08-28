@@ -69,7 +69,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **War** (reference-entry) *(explicit citation)*
+- **Temples** (reference-entry) *(explicit citation)*
+- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Temples** (reference-entry) *(explicit citation)*
+- **War** (reference-entry) *(explicit citation)*
+- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

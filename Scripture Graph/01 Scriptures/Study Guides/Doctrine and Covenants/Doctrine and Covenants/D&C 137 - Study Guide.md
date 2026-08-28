@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **‘A House for Our God’** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
+- **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
+- **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Judgment** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

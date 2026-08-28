@@ -78,7 +78,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

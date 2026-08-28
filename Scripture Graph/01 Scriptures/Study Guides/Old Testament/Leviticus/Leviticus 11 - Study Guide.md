@@ -61,7 +61,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
+- [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
+- [[Holiness to the Lord in Everyday Life (Elder Gerrit W. Gong, October 2024)|Holiness to the Lord in Everyday Life]] — Elder Gerrit W. Gong, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

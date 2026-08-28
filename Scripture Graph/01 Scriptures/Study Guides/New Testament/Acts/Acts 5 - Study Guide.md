@@ -74,7 +74,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

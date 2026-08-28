@@ -69,7 +69,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Same-Sex Marriage** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Sex Education and Behavior** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
+- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

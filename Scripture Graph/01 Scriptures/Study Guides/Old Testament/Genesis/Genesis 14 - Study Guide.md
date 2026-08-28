@@ -65,7 +65,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Tithing** (reference-entry) *(explicit citation)*
+- **Tithing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

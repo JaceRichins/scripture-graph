@@ -62,7 +62,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Humility** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

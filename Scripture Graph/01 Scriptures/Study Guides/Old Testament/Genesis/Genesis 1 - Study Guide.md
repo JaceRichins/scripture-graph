@@ -74,7 +74,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Creation** (reference-entry) *(explicit citation)*
+- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Mother in Heaven** (reference-entry) *(explicit citation)*
+- **Birth Control** (reference-entry) *(explicit citation)*
+- **Children of God** (reference-entry) *(explicit citation)*
+- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Religion and Science** (reference-entry) *(explicit citation)*
+- **Same-Sex Marriage** (reference-entry) *(explicit citation)*
+- **Sex Education and Behavior** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

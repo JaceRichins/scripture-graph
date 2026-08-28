@@ -62,7 +62,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Modesty** (reference-entry) *(explicit citation)*
+- **Tattooing and Body Piercing** (reference-entry) *(explicit citation)*
+- **Word of Wisdom** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Mortality** (reference-entry) *(explicit citation)*
+- **Chastity** (reference-entry) *(explicit citation)*
+- **Modesty** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

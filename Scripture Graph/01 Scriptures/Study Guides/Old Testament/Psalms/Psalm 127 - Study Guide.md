@@ -52,12 +52,17 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
+- [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
+- [[The Personal Journey of a Child of God (Elder Neil L. Andersen, April 2021)|The Personal Journey of a Child of God]] — Elder Neil L. Andersen, 2021-April *(explicit citation)*
+- [[Divine Parenting Lessons (Elder Valeri V. Cordón, October 2023)|Divine Parenting Lessons]] — Elder Valeri V. Cordón, 2023-October *(explicit citation)*
+- [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Birth Control** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

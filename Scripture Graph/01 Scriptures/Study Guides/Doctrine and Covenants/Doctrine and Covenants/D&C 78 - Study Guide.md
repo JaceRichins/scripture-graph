@@ -75,7 +75,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Gratitude** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Patriarchal Blessings** (reference-entry) *(explicit citation)*
+- **Truth** (reference-entry) *(explicit citation)*
+- **Gratitude** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

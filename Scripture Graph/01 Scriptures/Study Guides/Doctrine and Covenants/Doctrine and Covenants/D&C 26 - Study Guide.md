@@ -59,7 +59,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Joseph Smith’s Support at Home** (history) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
+- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

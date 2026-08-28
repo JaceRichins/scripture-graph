@@ -67,7 +67,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

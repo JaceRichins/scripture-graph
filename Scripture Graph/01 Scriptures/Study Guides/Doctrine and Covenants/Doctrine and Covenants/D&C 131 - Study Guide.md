@@ -67,7 +67,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **‘Our Hearts Rejoiced to Hear Him Speak’** (history) *(explicit citation)*
+- **Eternal Life** (reference-entry) *(explicit citation)*
+- **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
+- **Marriage** (reference-entry) *(explicit citation)*
+- **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
