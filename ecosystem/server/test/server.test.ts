@@ -85,6 +85,33 @@ describe("auth + invites", () => {
     expect((link.json as { user: { user_id: string } }).user.user_id).toBe(owner.id);
   });
 
+  it("a code sent to the wrong endpoint is NOT consumed (no invite-burn DoS)", async () => {
+    const owner = mkUser("Owner", "owner");
+    // an account invite pasted into "join a group" must not burn a use
+    const accountInv = createInvite(db, "account", owner.id, { maxUses: 1 });
+    const joiner = mkUser("Joiner");
+    const wrong = await call("POST", "/invites/accept", joiner.token, { code: accountInv.code });
+    expect(wrong.status).toBe(403);
+    // the invite still has its use — a real new-account claim works
+    const claim = await call("POST", "/auth/claim", null,
+      { invite_code: accountInv.code, display_name: "Mom", device_name: "Mom iPhone" });
+    expect(claim.status).toBe(200);
+
+    // a shared group code replayed at /auth/claim must not drain its uses
+    const a = mkUser("A");
+    const g = (await call("POST", "/groups", a.token, { name: "Fam" })).json as { group_id: string };
+    const groupInv = (await call("POST", `/groups/${g.group_id}/invites`, a.token,
+      { max_uses: 2 })).json as { code: string };
+    for (let i = 0; i < 3; i++) {
+      const burn = await call("POST", "/auth/claim", null,
+        { invite_code: groupInv.code, display_name: "X", device_name: "Y" });
+      expect(burn.status).toBe(403);
+    }
+    const b = mkUser("B");
+    const join = await call("POST", "/invites/accept", b.token, { code: groupInv.code });
+    expect(join.status).toBe(200); // both group uses intact
+  });
+
   it("revoked device token stops working (logout)", async () => {
     const u = mkUser("A");
     expect((await call("GET", "/me", u.token)).status).toBe(200);

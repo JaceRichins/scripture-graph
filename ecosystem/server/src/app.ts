@@ -89,8 +89,8 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
       device_name: z.string().min(1).max(120),
     }).safeParse(req.body);
     if (!body.success) return reply.code(400).send({ error: "invalid request" });
-    const invite = consumeInvite(db, body.data.invite_code);
-    if (!invite || invite.kind !== "account") {
+    const invite = consumeInvite(db, body.data.invite_code, ["account"]);
+    if (!invite) {
       return reply.code(403).send({ error: "invalid or expired invite code" });
     }
     const userId = createUser(db, body.data.display_name, "member");
@@ -115,10 +115,11 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
       device_name: z.string().min(1).max(120),
     }).safeParse(req.body);
     if (!body.success) return reply.code(400).send({ error: "invalid request" });
-    const invite = consumeInvite(db, body.data.link_code);
     // ONLY 'device' invites may bind a new device to an existing account —
-    // an 'account' invite must never be replayable into an account takeover.
-    if (!invite || invite.kind !== "device") {
+    // an 'account' invite must never be replayable into an account takeover,
+    // and a mismatched kind is rejected without consuming a use.
+    const invite = consumeInvite(db, body.data.link_code, ["device"]);
+    if (!invite) {
       return reply.code(403).send({ error: "invalid or expired code" });
     }
     const owner = db.prepare(
@@ -230,8 +231,8 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
     if (!limiter.allow(`u:${who.user_id}:accept`, 10, 60_000)) {
       return reply.code(429).send({ error: "rate limited" });
     }
-    const invite = consumeInvite(db, body.data.code);
-    if (!invite || invite.kind !== "group" || !invite.group_id) {
+    const invite = consumeInvite(db, body.data.code, ["group"]);
+    if (!invite || !invite.group_id) {
       return reply.code(403).send({ error: "invalid or expired invite code" });
     }
     db.prepare("INSERT OR IGNORE INTO group_memberships(group_id,user_id,role,joined_at) VALUES (?,?,?,?)")

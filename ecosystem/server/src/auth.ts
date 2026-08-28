@@ -86,12 +86,21 @@ export interface InviteRow {
   created_by: string;
 }
 
-/** Atomically consume one use of an invite. Returns the row or null. */
-export function consumeInvite(db: DB, rawCode: string): InviteRow | null {
+/** Atomically consume one use of an invite. Returns the row or null.
+ *
+ * `expectKinds` gates consumption on the invite kind the ENDPOINT expects, so
+ * a valid code submitted to the wrong endpoint (an account invite pasted into
+ * "join a group", a shared group code replayed at /auth/claim) is rejected
+ * WITHOUT burning a use — otherwise any known code could be griefed to death.
+ */
+export function consumeInvite(
+  db: DB, rawCode: string, expectKinds?: readonly InviteRow["kind"][],
+): InviteRow | null {
   const hash = sha256(normalizeCode(rawCode));
   const row = db.prepare("SELECT * FROM invites WHERE code_hash = ?").get(hash) as InviteRow | undefined;
   if (!row) return null;
   if (row.revoked_at || row.uses >= row.max_uses || row.expires_at < now()) return null;
+  if (expectKinds && !expectKinds.includes(row.kind)) return null; // no consumption on kind mismatch
   const r = db.prepare(
     "UPDATE invites SET uses = uses + 1 WHERE code_hash = ? AND uses < max_uses AND revoked_at IS NULL")
     .run(hash);
