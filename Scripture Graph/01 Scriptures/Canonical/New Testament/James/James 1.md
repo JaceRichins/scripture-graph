@@ -1,0 +1,71 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: New Testament
+book: James
+chapter: 1
+slug: james-1
+verses: 27
+cssclasses:
+- sg-scripture
+---
+
+# James 1
+
+**1** James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. ^james-1-1
+
+**2** My brethren, count it all joy when ye fall into divers temptations; ^james-1-2
+
+**3** Knowing this, that the trying of your faith worketh patience. ^james-1-3
+
+**4** But let patience have her perfect work, that ye may be perfect and entire, wanting nothing. ^james-1-4
+
+**5** If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. ^james-1-5
+
+**6** But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed. ^james-1-6
+
+**7** For let not that man think that he shall receive any thing of the Lord. ^james-1-7
+
+**8** A double minded man is unstable in all his ways. ^james-1-8
+
+**9** Let the brother of low degree rejoice in that he is exalted: ^james-1-9
+
+**10** But the rich, in that he is made low: because as the flower of the grass he shall pass away. ^james-1-10
+
+**11** For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways. ^james-1-11
+
+**12** Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. ^james-1-12
+
+**13** Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: ^james-1-13
+
+**14** But every man is tempted, when he is drawn away of his own lust, and enticed. ^james-1-14
+
+**15** Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. ^james-1-15
+
+**16** Do not err, my beloved brethren. ^james-1-16
+
+**17** Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. ^james-1-17
+
+**18** Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. ^james-1-18
+
+**19** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: ^james-1-19
+
+**20** For the wrath of man worketh not the righteousness of God. ^james-1-20
+
+**21** Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. ^james-1-21
+
+**22** But be ye doers of the word, and not hearers only, deceiving your own selves. ^james-1-22
+
+**23** For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: ^james-1-23
+
+**24** For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. ^james-1-24
+
+**25** But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. ^james-1-25
+
+**26** If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain. ^james-1-26
+
+**27** Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. ^james-1-27
+
+---
+[[James 1 - Study Guide|Study guide]] · [[James 1 - My Notes|My notes]] · [[James]] · [[James 2|James 2 →]]

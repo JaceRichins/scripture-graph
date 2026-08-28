@@ -1,0 +1,43 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: Psalms
+chapter: 84
+slug: ps-84
+verses: 12
+cssclasses:
+- sg-scripture
+aliases:
+- Psalms 84
+---
+
+# Psalm 84
+
+**1** How amiable are thy tabernacles, O LORD of hosts! ^ps-84-1
+
+**2** My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God. ^ps-84-2
+
+**3** Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God. ^ps-84-3
+
+**4** Blessed are they that dwell in thy house: they will be still praising thee. Selah. ^ps-84-4
+
+**5** Blessed is the man whose strength is in thee; in whose heart are the ways of them. ^ps-84-5
+
+**6** Who passing through the valley of Baca make it a well; the rain also filleth the pools. ^ps-84-6
+
+**7** They go from strength to strength, every one of them in Zion appeareth before God. ^ps-84-7
+
+**8** O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah. ^ps-84-8
+
+**9** Behold, O God our shield, and look upon the face of thine anointed. ^ps-84-9
+
+**10** For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness. ^ps-84-10
+
+**11** For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly. ^ps-84-11
+
+**12** O LORD of hosts, blessed is the man that trusteth in thee. ^ps-84-12
+
+---
+[[Psalm 83|← Psalm 83]] · [[Psalm 84 - Study Guide|Study guide]] · [[Psalm 84 - My Notes|My notes]] · [[Psalms]] · [[Psalm 85|Psalm 85 →]]

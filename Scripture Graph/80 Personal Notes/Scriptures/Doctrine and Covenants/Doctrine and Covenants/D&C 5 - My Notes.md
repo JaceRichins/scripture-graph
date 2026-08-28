@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Doctrine and Covenants
+book: Doctrine and Covenants
+chapter: 5
+slug: dc-5
+cssclasses:
+- sg-personal
+---
+
+# D&C 5 — My Study
+
+## Scripture
+
+![[D&C 5]]
+
+## Scripture Graph
+
+![[D&C 5 - Study Guide]]
+
+## My Notes

@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Old Testament
+book: Isaiah
+chapter: 12
+slug: isa-12
+cssclasses:
+- sg-personal
+---
+
+# Isaiah 12 — My Study
+
+## Scripture
+
+![[Isaiah 12]]
+
+## Scripture Graph
+
+![[Isaiah 12 - Study Guide]]
+
+## My Notes

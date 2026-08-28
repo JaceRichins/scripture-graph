@@ -1,0 +1,57 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: Ezekiel
+chapter: 42
+slug: ezek-42
+verses: 20
+cssclasses:
+- sg-scripture
+---
+
+# Ezekiel 42
+
+**1** Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was before the building toward the north. ^ezek-42-1
+
+**2** Before the length of an hundred cubits was the north door, and the breadth was fifty cubits. ^ezek-42-2
+
+**3** Over against the twenty cubits which were for the inner court, and over against the pavement which was for the utter court, was gallery against gallery in three stories. ^ezek-42-3
+
+**4** And before the chambers was a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north. ^ezek-42-4
+
+**5** Now the upper chambers were shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building. ^ezek-42-5
+
+**6** For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the lowest and the middlemost from the ground. ^ezek-42-6
+
+**7** And the wall that was without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof was fifty cubits. ^ezek-42-7
+
+**8** For the length of the chambers that were in the utter court was fifty cubits: and, lo, before the temple were an hundred cubits. ^ezek-42-8
+
+**9** And from under these chambers was the entry on the east side, as one goeth into them from the utter court. ^ezek-42-9
+
+**10** The chambers were in the thickness of the wall of the court toward the east, over against the separate place, and over against the building. ^ezek-42-10
+
+**11** And the way before them was like the appearance of the chambers which were toward the north, as long as they, and as broad as they: and all their goings out were both according to their fashions, and according to their doors. ^ezek-42-11
+
+**12** And according to the doors of the chambers that were toward the south was a door in the head of the way, even the way directly before the wall toward the east, as one entereth into them. ^ezek-42-12
+
+**13** Then said he unto me, The north chambers and the south chambers, which are before the separate place, they be holy chambers, where the priests that approach unto the LORD shall eat the most holy things: there shall they lay the most holy things, and the meat offering, and the sin offering, and the trespass offering; for the place is holy. ^ezek-42-13
+
+**14** When the priests enter therein, then shall they not go out of the holy place into the utter court, but there they shall lay their garments wherein they minister; for they are holy; and shall put on other garments, and shall approach to those things which are for the people. ^ezek-42-14
+
+**15** Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect is toward the east, and measured it round about. ^ezek-42-15
+
+**16** He measured the east side with the measuring reed, five hundred reeds, with the measuring reed round about. ^ezek-42-16
+
+**17** He measured the north side, five hundred reeds, with the measuring reed round about. ^ezek-42-17
+
+**18** He measured the south side, five hundred reeds, with the measuring reed. ^ezek-42-18
+
+**19** He turned about to the west side, and measured five hundred reeds with the measuring reed. ^ezek-42-19
+
+**20** He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place. ^ezek-42-20
+
+---
+[[Ezekiel 41|← Ezekiel 41]] · [[Ezekiel 42 - Study Guide|Study guide]] · [[Ezekiel 42 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 43|Ezekiel 43 →]]

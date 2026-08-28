@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Book of Mormon
+book: 2 Nephi
+chapter: 2
+slug: 2ne-2
+cssclasses:
+- sg-personal
+---
+
+# 2 Nephi 2 — My Study
+
+## Scripture
+
+![[2 Nephi 2]]
+
+## Scripture Graph
+
+![[2 Nephi 2 - Study Guide]]
+
+## My Notes

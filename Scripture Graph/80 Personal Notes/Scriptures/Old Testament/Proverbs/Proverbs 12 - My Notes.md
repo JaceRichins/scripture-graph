@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Old Testament
+book: Proverbs
+chapter: 12
+slug: prov-12
+cssclasses:
+- sg-personal
+---
+
+# Proverbs 12 — My Study
+
+## Scripture
+
+![[Proverbs 12]]
+
+## Scripture Graph
+
+![[Proverbs 12 - Study Guide]]
+
+## My Notes

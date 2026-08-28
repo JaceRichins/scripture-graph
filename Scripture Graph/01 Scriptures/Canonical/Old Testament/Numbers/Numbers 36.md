@@ -1,0 +1,43 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: Numbers
+chapter: 36
+slug: num-36
+verses: 13
+cssclasses:
+- sg-scripture
+---
+
+# Numbers 36
+
+**1** And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel: ^num-36-1
+
+**2** And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters. ^num-36-2
+
+**3** And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance. ^num-36-3
+
+**4** And when the jubilee of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers. ^num-36-4
+
+**5** And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well. ^num-36-5
+
+**6** This is the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry. ^num-36-6
+
+**7** So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers. ^num-36-7
+
+**8** And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers. ^num-36-8
+
+**9** Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance. ^num-36-9
+
+**10** Even as the LORD commanded Moses, so did the daughters of Zelophehad: ^num-36-10
+
+**11** For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons: ^num-36-11
+
+**12** And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father. ^num-36-12
+
+**13** These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho. ^num-36-13
+
+---
+[[Numbers 35|← Numbers 35]] · [[Numbers 36 - Study Guide|Study guide]] · [[Numbers 36 - My Notes|My notes]] · [[Numbers]]

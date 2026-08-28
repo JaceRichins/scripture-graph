@@ -1,0 +1,67 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: Isaiah
+chapter: 65
+slug: isa-65
+verses: 25
+cssclasses:
+- sg-scripture
+---
+
+# Isaiah 65
+
+**1** I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name. ^isa-65-1
+
+**2** I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts; ^isa-65-2
+
+**3** A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick; ^isa-65-3
+
+**4** Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable things is in their vessels; ^isa-65-4
+
+**5** Which say, Stand by thyself, come not near to me; for I am holier than thou. These are a smoke in my nose, a fire that burneth all the day. ^isa-65-5
+
+**6** Behold, it is written before me: I will not keep silence, but will recompense, even recompense into their bosom, ^isa-65-6
+
+**7** Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom. ^isa-65-7
+
+**8** Thus saith the LORD, As the new wine is found in the cluster, and one saith, Destroy it not; for a blessing is in it: so will I do for my servants' sakes, that I may not destroy them all. ^isa-65-8
+
+**9** And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there. ^isa-65-9
+
+**10** And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me. ^isa-65-10
+
+**11** But ye are they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number. ^isa-65-11
+
+**12** Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose that wherein I delighted not. ^isa-65-12
+
+**13** Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed: ^isa-65-13
+
+**14** Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit. ^isa-65-14
+
+**15** And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name: ^isa-65-15
+
+**16** That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes. ^isa-65-16
+
+**17** For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind. ^isa-65-17
+
+**18** But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy. ^isa-65-18
+
+**19** And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying. ^isa-65-19
+
+**20** There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. ^isa-65-20
+
+**21** And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them. ^isa-65-21
+
+**22** They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands. ^isa-65-22
+
+**23** They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them. ^isa-65-23
+
+**24** And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear. ^isa-65-24
+
+**25** The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD. ^isa-65-25
+
+---
+[[Isaiah 64|← Isaiah 64]] · [[Isaiah 65 - Study Guide|Study guide]] · [[Isaiah 65 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 66|Isaiah 66 →]]

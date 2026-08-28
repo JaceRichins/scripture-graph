@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Old Testament
+book: Psalms
+chapter: 112
+slug: ps-112
+cssclasses:
+- sg-personal
+---
+
+# Psalm 112 — My Study
+
+## Scripture
+
+![[Psalm 112]]
+
+## Scripture Graph
+
+![[Psalm 112 - Study Guide]]
+
+## My Notes

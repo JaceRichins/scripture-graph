@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Old Testament
+book: 2 Chronicles
+chapter: 8
+slug: 2chr-8
+cssclasses:
+- sg-personal
+---
+
+# 2 Chronicles 8 — My Study
+
+## Scripture
+
+![[2 Chronicles 8]]
+
+## Scripture Graph
+
+![[2 Chronicles 8 - Study Guide]]
+
+## My Notes

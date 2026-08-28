@@ -1,0 +1,37 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: New Testament
+book: 1 John
+chapter: 1
+slug: 1jn-1
+verses: 10
+cssclasses:
+- sg-scripture
+---
+
+# 1 John 1
+
+**1** That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; ^1jn-1-1
+
+**2** (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) ^1jn-1-2
+
+**3** That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. ^1jn-1-3
+
+**4** And these things write we unto you, that your joy may be full. ^1jn-1-4
+
+**5** This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. ^1jn-1-5
+
+**6** If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: ^1jn-1-6
+
+**7** But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin. ^1jn-1-7
+
+**8** If we say that we have no sin, we deceive ourselves, and the truth is not in us. ^1jn-1-8
+
+**9** If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. ^1jn-1-9
+
+**10** If we say that we have not sinned, we make him a liar, and his word is not in us. ^1jn-1-10
+
+---
+[[1 John 1 - Study Guide|Study guide]] · [[1 John 1 - My Notes|My notes]] · [[1 John]] · [[1 John 2|1 John 2 →]]

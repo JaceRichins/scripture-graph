@@ -1,0 +1,23 @@
+---
+ownership: personal
+mutable: user
+content_type: personal-notes
+volume: Old Testament
+book: 2 Samuel
+chapter: 7
+slug: 2sam-7
+cssclasses:
+- sg-personal
+---
+
+# 2 Samuel 7 — My Study
+
+## Scripture
+
+![[2 Samuel 7]]
+
+## Scripture Graph
+
+![[2 Samuel 7 - Study Guide]]
+
+## My Notes

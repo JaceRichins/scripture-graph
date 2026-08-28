@@ -1,0 +1,69 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: 1 Chronicles
+chapter: 5
+slug: 1chr-5
+verses: 26
+cssclasses:
+- sg-scripture
+---
+
+# 1 Chronicles 5
+
+**1** Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright. ^1chr-5-1
+
+**2** For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:) ^1chr-5-2
+
+**3** The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi. ^1chr-5-3
+
+**4** The sons of Joel; Shemaiah his son, Gog his son, Shimei his son, ^1chr-5-4
+
+**5** Micah his son, Reaia his son, Baal his son, ^1chr-5-5
+
+**6** Beerah his son, whom Tilgath-pilneser king of Assyria carried away captive: he was prince of the Reubenites. ^1chr-5-6
+
+**7** And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah, ^1chr-5-7
+
+**8** And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon: ^1chr-5-8
+
+**9** And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead. ^1chr-5-9
+
+**10** And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead. ^1chr-5-10
+
+**11** And the children of Gad dwelt over against them, in the land of Bashan unto Salchah: ^1chr-5-11
+
+**12** Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan. ^1chr-5-12
+
+**13** And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven. ^1chr-5-13
+
+**14** These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz; ^1chr-5-14
+
+**15** Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers. ^1chr-5-15
+
+**16** And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders. ^1chr-5-16
+
+**17** All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel. ^1chr-5-17
+
+**18** The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war. ^1chr-5-18
+
+**19** And they made war with the Hagarites, with Jetur, and Nephish, and Nodab. ^1chr-5-19
+
+**20** And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was entreated of them; because they put their trust in him. ^1chr-5-20
+
+**21** And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand. ^1chr-5-21
+
+**22** For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity. ^1chr-5-22
+
+**23** And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon. ^1chr-5-23
+
+**24** And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers. ^1chr-5-24
+
+**25** And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them. ^1chr-5-25
+
+**26** And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day. ^1chr-5-26
+
+---
+[[1 Chronicles 4|← 1 Chronicles 4]] · [[1 Chronicles 5 - Study Guide|Study guide]] · [[1 Chronicles 5 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 6|1 Chronicles 6 →]]

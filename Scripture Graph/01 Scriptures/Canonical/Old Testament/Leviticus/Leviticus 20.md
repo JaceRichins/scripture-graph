@@ -1,0 +1,71 @@
+---
+ownership: canonical
+mutable: false
+content_type: scripture
+volume: Old Testament
+book: Leviticus
+chapter: 20
+slug: lev-20
+verses: 27
+cssclasses:
+- sg-scripture
+---
+
+# Leviticus 20
+
+**1** And the LORD spake unto Moses, saying, ^lev-20-1
+
+**2** Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones. ^lev-20-2
+
+**3** And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name. ^lev-20-3
+
+**4** And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not: ^lev-20-4
+
+**5** Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people. ^lev-20-5
+
+**6** And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people. ^lev-20-6
+
+**7** Sanctify yourselves therefore, and be ye holy: for I am the LORD your God. ^lev-20-7
+
+**8** And ye shall keep my statutes, and do them: I am the LORD which sanctify you. ^lev-20-8
+
+**9** For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him. ^lev-20-9
+
+**10** And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death. ^lev-20-10
+
+**11** And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood shall be upon them. ^lev-20-11
+
+**12** And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them. ^lev-20-12
+
+**13** If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them. ^lev-20-13
+
+**14** And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you. ^lev-20-14
+
+**15** And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast. ^lev-20-15
+
+**16** And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood shall be upon them. ^lev-20-16
+
+**17** And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity. ^lev-20-17
+
+**18** And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people. ^lev-20-18
+
+**19** And thou shalt not uncover the nakedness of thy mother's sister, nor of thy father's sister: for he uncovereth his near kin: they shall bear their iniquity. ^lev-20-19
+
+**20** And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless. ^lev-20-20
+
+**21** And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless. ^lev-20-21
+
+**22** Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out. ^lev-20-22
+
+**23** And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them. ^lev-20-23
+
+**24** But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the LORD your God, which have separated you from other people. ^lev-20-24
+
+**25** Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean. ^lev-20-25
+
+**26** And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine. ^lev-20-26
+
+**27** A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them. ^lev-20-27
+
+---
+[[Leviticus 19|← Leviticus 19]] · [[Leviticus 20 - Study Guide|Study guide]] · [[Leviticus 20 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 21|Leviticus 21 →]]
