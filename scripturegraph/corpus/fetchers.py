@@ -66,7 +66,9 @@ def _get(ctx: Ctx, url: str, retries: int = 3) -> bytes | None:
 # ------------------------------------------------------------- conference
 
 def _clean(s: str) -> str:
-    return re.sub(r"\s+", " ", s.replace(" ", " ").replace(" ", " ")).strip()
+    s = re.sub(r"[  -​  　]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
 
 
 def parse_toc_talk_uris(toc_body: str, year: int, month: int) -> list[str]:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture Graph/30 Church History/Church History.md",
+                "file": "Scripture Graph/03 People/Jesus Christ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Church History"
+              "title": "Jesus Christ"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture Graph/30 Church History/Church History.md",
+                "file": "Scripture Graph/03 People/Jesus Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture Graph/30 Church History/Church History.md",
+                "file": "Scripture Graph/03 People/Jesus Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture Graph/30 Church History/Church History.md",
+                "file": "Scripture Graph/03 People/Jesus Christ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,29 @@
   },
   "active": "2de32762ba95d0dc",
   "lastOpenFiles": [
+    "sources/downloads/conference/2023-10/14godoy.json",
+    "sources/downloads/conference/2023-10/13daines.json",
+    "sources/downloads/conference/2023-10/12wright.json",
+    "sources/downloads/conference/2023-10/11bednar.json",
+    "sources/downloads/conference/2023-10",
+    "sources/downloads/conference/2024-04/57nelson.json",
+    "sources/downloads/conference/2024-04/56pace.json",
+    "sources/downloads/conference/2024-04/55andersen.json",
+    "sources/downloads/conference/2024-04/54held.json",
+    "sources/downloads/conference/2024-04/53stevenson.json",
+    "sources/downloads/conference/2024-04/52godoy.json",
+    "Scripture Graph/02 Gospel Topics/Family.md",
+    "Scripture Graph/30 Church History/Church History.md",
+    "Scripture Graph/05 Events/Triumphal entry.md",
+    "Scripture Graph/05 Events/Transfiguration.md",
+    "Scripture Graph/05 Events/The Last Supper.md",
+    "Scripture Graph/05 Events/Sermon on the Mount.md",
+    "Scripture Graph/05 Events/Return from exile.md",
+    "Scripture Graph/05 Events/Obtaining the brass plates.md",
+    "Scripture Graph/05 Events/Lehi's dream of the tree of life.md",
+    "Scripture Graph/05 Events/Lehi's departure from Jerusalem.md",
+    "Scripture Graph/05 Events/Final Nephite destruction at Cumorah.md",
+    "Scripture Graph/05 Events/Division of the kingdom.md",
     "Scripture Graph/05 Events/Christ's appearance at the temple in Bountiful.md",
     "Scripture Graph/05 Events/Birth of Jesus Christ.md",
     "Scripture Graph/05 Events/Baptism of Jesus.md",
@@ -202,29 +225,6 @@
     "Scripture Graph/20 Joseph Smith Papers/JSP Histories Series.md",
     "Scripture Graph/20 Joseph Smith Papers/JSP Journals Series.md",
     "Scripture Graph/20 Joseph Smith Papers/JSP Documents Series.md",
-    "Scripture Graph/05 Events/Vision of the redemption of the dead.md",
-    "Scripture Graph/05 Events/Pioneer exodus to the Salt Lake Valley.md",
-    "Scripture Graph/05 Events/Martyrdom of Joseph and Hyrum Smith.md",
-    "Scripture Graph/05 Events/Liberty Jail imprisonment.md",
-    "Scripture Graph/05 Events/Priesthood keys restored in the Kirtland Temple.md",
-    "Scripture Graph/05 Events/Kirtland Temple dedication.md",
-    "Scripture Graph/05 Events/Organization of the Church.md",
-    "Scripture Graph/05 Events/Witnesses shown the plates.md",
-    "Scripture Graph/05 Events/Restoration of the Melchizedek Priesthood.md",
-    "Scripture Graph/05 Events/Restoration of the Aaronic Priesthood.md",
-    "Scripture Graph/05 Events/Translation of the Book of Mormon.md",
-    "Scripture Graph/05 Events/Moroni's visits and the plates.md",
-    "Scripture Graph/05 Events/The First Vision.md",
-    "Scripture Graph/05 Events/Jerusalem conference.md",
-    "scripturegraph/corpus/__pycache__/jsp_refs.cpython-313.pyc",
-    "scripturegraph/corpus/__pycache__/fetchers.cpython-313.pyc",
-    "scripturegraph/cli.py.tmp.52664.720f71b912c4",
-    "scripturegraph/cli.py.tmp.52664.84f6bf6c3d73",
-    "scripturegraph/context.py.tmp.52664.d5e953af38c1",
-    "scripturegraph/corpus/jsp_refs.py",
-    "scripturegraph/corpus/jsp_refs.py.tmp.52664.2883855cdbda",
-    "scripturegraph/synthesis.py.tmp.52664.e902ecc93a84",
-    "scripturegraph/synthesis.py.tmp.52664.95d8bf30427b",
-    "scripturegraph/indexing/entities.py.tmp.52664.5272e37b4092"
+    "Scripture Graph/05 Events/Vision of the redemption of the dead.md"
   ]
 }

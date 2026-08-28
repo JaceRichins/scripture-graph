@@ -24,13 +24,25 @@ and every source row carries its authority category.
 
 ## Copyright and acquisition rules
 
-- **No aggressive crawling.** Sites whose terms prohibit automated copying
-  (churchofjesuschrist.org study content, josephsmithpapers.org) are never
-  scraped. Their corpora are registered `manual_download_required` with drop
-  folders (`sources/drop/<category>/`) and importer support for EPUB, PDF,
-  HTML, TXT, MD, JSON, XML, CSV, and ZIP.
+- **General Conference is fetched politely from the Church's own site.**
+  churchofjesuschrist.org's robots.txt permits /study/general-conference and
+  its terms allow personal, noncommercial use; the engine uses the site's
+  structured content API with a self-identifying User-Agent and a hard rate
+  limit (≥1.5s/request), for personal study only. Full text lives in the
+  PRIVATE local index; vault talk notes carry metadata + citations + a brief
+  excerpt. Backfill runs a few sessions per night toward 1971.
+- **No aggressive crawling of restricted sites.** josephsmithpapers.org's
+  terms restrict copying its edited transcripts, so JSP is represented by
+  reference-record notes (series metadata + URLs), the public-domain
+  adjacent corpus, and drop folders (`sources/drop/<category>/`) with
+  importer support for EPUB, PDF, HTML, TXT, MD, JSON, XML, CSV, and ZIP.
 - **Public domain flows freely.** The KJV and LDS standard-works text
-  (scriptures-json) are imported in full and tracked in git.
+  (scriptures-json) are imported in full and tracked in git. From
+  archive.org: the Journal of Discourses (26 vols, 1854-1886), Conference
+  Reports through 1930, the History of the Church (B. H. Roberts ed.), and
+  Lucy Mack Smith's 1853 history — bulk-downloaded once (`sg fetch history`)
+  into the local index (OCR text; treat reported sermons as contemporaneous
+  reports, not verbatim transcripts).
 - **Copyrighted texts stay in the private index.** Imported copyrighted
   material (e.g. conference talks you drop in) is chunked into the local
   database for search and connections; vault notes carry metadata, relationships, and

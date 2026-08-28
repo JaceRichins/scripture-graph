@@ -82,14 +82,24 @@ modes (one provider, or none) are honest and recorded per job. See
 Windows Task Scheduler is only the clock; the Python orchestrator does the
 thinking. Details + budgets: `00 System/OPERATIONS.md`.
 
-## 8. Adding a new corpus
+## 8. Corpora: what fetches itself, what you can add
 
-Drop files (EPUB/PDF/HTML/TXT/MD/JSON/XML/CSV/ZIP) into
+Fetched automatically (legitimately — see `00 System/SOURCE-POLICY.md`):
+
+```powershell
+.\scripts\sg.ps1 fetch conference --from-year 2015 --to-year 2026   # Church content API, rate-limited
+.\scripts\sg.ps1 fetch history    # public domain: Journal of Discourses, Conference
+                                  # Reports ≤1930, History of the Church, Lucy Mack Smith
+.\scripts\sg.ps1 fetch jsp        # JSP series reference records (metadata + links)
+```
+
+The **Nightly task also backfills ~4 older conference sessions per night**
+toward 1971 (config `acquisition.*`). For anything else, drop files
+(EPUB/PDF/HTML/TXT/MD/JSON/XML/CSV/ZIP) into
 `sources\drop\{conference|jsp|history|reference|scholarship}\` and run
-`.\scripts\sg.ps1 ingest` (or wait for the Frequent task). Import bumps the
-corpus version → affected chapters/topics automatically re-enter the
-refinement queue. Registry + acquisition notes:
-`Scripture Graph/90 Sources/manifests/Source Registry.md`.
+`.\scripts\sg.ps1 ingest` (or wait for the Frequent task). Any import bumps
+the corpus version → affected chapters/topics automatically re-enter the
+refinement queue. Registry: `Scripture Graph/90 Sources/manifests/Source Registry.md`.
 
 ## 9. Pausing / resuming automation
 
