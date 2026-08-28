@@ -24,7 +24,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1-20]] — key passage
+- [[Acts 3#^acts-3-19|Acts 3:19-21]] — key passage
+- [[D&C 1#^dc-1-17|D&C 1:17-23]] — key passage
+- [[Revelation 14#^rev-14-6|Revelation 14:6]] — key passage
+- [[Alma 41]] *(keyword match)*
+- [[Acts 3]]
+- [[Revelation 14]]
+- [[D&C 1]]
+- [[Joseph Smith—History 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

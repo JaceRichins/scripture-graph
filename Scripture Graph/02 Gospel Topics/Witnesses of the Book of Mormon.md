@@ -24,7 +24,19 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Nephi 27#^2ne-27-12|2 Nephi 27:12-14]] — key passage
+- [[Ether 5#^ether-5-2|Ether 5:2-4]] — key passage
+- [[D&C 17#^dc-17-1|D&C 17:1-9]] — key passage
+- [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]] — key passage
+- [[2 Corinthians 13]]
+- [[Ruth 4]] *(keyword match)*
+- [[Ether 5]]
+- [[Deuteronomy 17]] *(keyword match)*
+- [[Isaiah 43]] *(keyword match)*
+- [[Jeremiah 32]] *(keyword match)*
+- [[2 Nephi 27]]
+- [[Matthew 26]] *(keyword match)*
+- [[D&C 17]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

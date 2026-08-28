@@ -23,7 +23,22 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] — key passage
+- [[John 5#^john-5-39|John 5:39]] — key passage
+- [[1 Nephi 19#^1ne-19-23|1 Nephi 19:23]] — key passage
+- [[2 Timothy 3#^2tim-3-15|2 Timothy 3:15-17]] — key passage
+- [[D&C 26#^dc-26-1|D&C 26:1]] — key passage
+- [[D&C 26]]
+- [[3 Nephi 23]] *(keyword match)*
+- [[D&C 24]] *(keyword match)*
+- [[Alma 33]] *(keyword match)*
+- [[2 Timothy 3]]
+- [[Luke 24]] *(keyword match)*
+- [[D&C 20]] *(keyword match)*
+- [[Jacob 7]] *(keyword match)*
+- [[2 Nephi 32]]
+- [[John 5]]
+- [[1 Nephi 19]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

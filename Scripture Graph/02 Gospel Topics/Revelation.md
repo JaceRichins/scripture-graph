@@ -23,7 +23,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 8#^dc-8-2|D&C 8:2-3]] — key passage
+- [[1 Nephi 10#^1ne-10-19|1 Nephi 10:19]] — key passage
+- [[Amos 3#^amos-3-7|Amos 3:7]] — key passage
+- [[Moroni 10#^moro-10-4|Moroni 10:4-5]] — key passage
+- [[James 1#^james-1-5|James 1:5]] — key passage
+- [[Psalm 29]] *(keyword match)*
+- [[2 Thessalonians 2]] *(keyword match)*
+- [[D&C 77]] *(keyword match)*
+- [[D&C 25]] *(keyword match)*
+- [[Jeremiah 42]] *(keyword match)*
+- [[1 Peter 1]] *(keyword match)*
+- [[D&C 1]] *(keyword match)*
+- [[D&C 128]] *(keyword match)*
+- [[2 Nephi 30]] *(keyword match)*
+- [[1 Corinthians 14]] *(keyword match)*
+- [[D&C 102]] *(keyword match)*
+- [[1 Nephi 16]] *(keyword match)*
+- [[1 Samuel 15]] *(keyword match)*
+- [[D&C 121]] *(keyword match)*
+- [[D&C 8]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

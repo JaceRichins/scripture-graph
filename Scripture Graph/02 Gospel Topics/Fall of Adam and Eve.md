@@ -24,7 +24,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19-25]] — key passage
+- [[Genesis 3#^gen-3-6|Genesis 3:6]] — key passage
+- [[Moses 4#^moses-4-6|Moses 4:6-12]] — key passage
+- [[Alma 12#^alma-12-22|Alma 12:22-26]] — key passage
+- [[2 Nephi 2]]
+- [[Alma 42]] *(keyword match)*
+- [[Genesis 3]]
+- [[Moses 4]]
+- [[Alma 12]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

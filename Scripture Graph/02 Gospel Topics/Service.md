@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Mosiah 2#^mosiah-2-17|Mosiah 2:17]] — key passage
+- [[Matthew 25#^matt-25-34|Matthew 25:34-40]] — key passage
+- [[Mosiah 18#^mosiah-18-8|Mosiah 18:8-9]] — key passage
+- [[Galatians 5#^gal-5-13|Galatians 5:13]] — key passage
+- [[D&C 4]] *(keyword match)*
+- [[Numbers 4]] *(keyword match)*
+- [[Jeremiah 27]] *(keyword match)*
+- [[Numbers 8]] *(keyword match)*
+- [[Joshua 24]] *(keyword match)*
+- [[1 Chronicles 28]] *(keyword match)*
+- [[Exodus 1]] *(keyword match)*
+- [[Numbers 18]] *(keyword match)*
+- [[Exodus 10]] *(keyword match)*
+- [[1 Chronicles 23]] *(keyword match)*
+- [[Deuteronomy 13]] *(keyword match)*
+- [[Mosiah 2]]
+- [[Genesis 29]] *(keyword match)*
+- [[Hebrews 9]] *(keyword match)*
+- [[2 Chronicles 35]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

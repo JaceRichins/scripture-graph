@@ -21,7 +21,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 22#^alma-22-27|Alma 22:27-34]] — key passage
+- [[Ether 10#^ether-10-20|Ether 10:20-21]] — key passage
+- [[Alma 50#^alma-50-34|Alma 50:34]] — key passage
+- [[Helaman 3#^hel-3-8|Helaman 3:8]] — key passage
+- [[Alma 63]] *(keyword match)*
+- [[Alma 50]]
+- [[Helaman 3]]
+- [[Alma 22]]
+- [[Alma 52]] *(keyword match)*
+- [[Ether 10]]
+- [[Mormon 2]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

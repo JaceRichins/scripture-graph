@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 7#^moro-7-29|Moroni 7:29-32]] — key passage
+- [[Alma 32#^alma-32-23|Alma 32:23]] — key passage
+- [[Luke 1#^luke-1-11|Luke 1:11-19]] — key passage
+- [[D&C 13#^dc-13-1|D&C 13:1]] — key passage
+- [[Revelation 8]] *(keyword match)*
+- [[Hebrews 1]] *(keyword match)*
+- [[Revelation 10]] *(keyword match)*
+- [[Judges 13]] *(keyword match)*
+- [[Revelation 15]] *(keyword match)*
+- [[D&C 13]]
+- [[D&C 129]] *(keyword match)*
+- [[Revelation 16]] *(keyword match)*
+- [[Zechariah 3]] *(keyword match)*
+- [[Revelation 14]] *(keyword match)*
+- [[Hebrews 2]] *(keyword match)*
+- [[Acts 12]] *(keyword match)*
+- [[1 Nephi 12]] *(keyword match)*
+- [[Revelation 9]] *(keyword match)*
+- [[1 Chronicles 21]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

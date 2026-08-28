@@ -21,7 +21,21 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Nephi 8#^1ne-8-10|1 Nephi 8:10-33]] — key passage
+- [[1 Nephi 11#^1ne-11-8|1 Nephi 11:8-25]] — key passage
+- [[1 Nephi 15#^1ne-15-21|1 Nephi 15:21-36]] — key passage
+- [[Genesis 2#^gen-2-9|Genesis 2:9]] — key passage
+- [[Revelation 22#^rev-22-2|Revelation 22:2]] — key passage
+- [[Alma 32#^alma-32-40|Alma 32:40-42]] — key passage
+- [[1 Nephi 8]]
+- [[Moses 4]] *(keyword match)*
+- [[Genesis 3]] *(keyword match)*
+- [[Revelation 22]]
+- [[Alma 42]] *(keyword match)*
+- [[1 Nephi 15]]
+- [[1 Nephi 11]]
+- [[Genesis 2]]
+- [[Alma 32]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

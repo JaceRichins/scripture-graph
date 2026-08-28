@@ -24,7 +24,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 7#^moro-7-44|Moroni 7:44-48]] — key passage
+- [[1 Corinthians 13#^1cor-13-1|1 Corinthians 13:1-13]] — key passage
+- [[John 13#^john-13-34|John 13:34-35]] — key passage
+- [[2 Nephi 26#^2ne-26-30|2 Nephi 26:30]] — key passage
+- [[1 Corinthians 13]]
+- [[1 John 4]] *(keyword match)*
+- [[Moroni 7]]
+- [[2 Nephi 33]] *(keyword match)*
+- [[Ether 12]] *(keyword match)*
+- [[2 Nephi 26]]
+- [[John 13]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

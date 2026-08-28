@@ -21,7 +21,13 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 107#^dc-107-1|D&C 107:1-8]] — key passage
+- [[Alma 13#^alma-13-1|Alma 13:1-2]] — key passage
+- [[Hebrews 7#^heb-7-1|Hebrews 7:1-4]] — key passage
+- [[Alma 13]]
+- [[D&C 107]]
+- [[D&C 68]] *(keyword match)*
+- [[Hebrews 7]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

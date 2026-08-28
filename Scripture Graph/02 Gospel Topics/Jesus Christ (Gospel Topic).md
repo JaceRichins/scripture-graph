@@ -24,7 +24,24 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[John 14#^john-14-6|John 14:6]] — key passage
+- [[John 6#^john-6-35|John 6:35]] — key passage
+- [[John 10#^john-10-11|John 10:11]] — key passage
+- [[1 Nephi 11#^1ne-11-13|1 Nephi 11:13-33]] — key passage
+- [[Mosiah 3#^mosiah-3-5|Mosiah 3:5-10]] — key passage
+- [[1 Nephi 14]] *(keyword match)*
+- [[Moses 1]] *(keyword match)*
+- [[1 Nephi 12]] *(keyword match)*
+- [[John 1]] *(keyword match)*
+- [[1 Nephi 11]]
+- [[1 Nephi 13]] *(keyword match)*
+- [[John 10]]
+- [[Moses 2]] *(keyword match)*
+- [[Alma 5]] *(keyword match)*
+- [[Moses 4]] *(keyword match)*
+- [[John 14]]
+- [[John 6]]
+- [[Mosiah 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

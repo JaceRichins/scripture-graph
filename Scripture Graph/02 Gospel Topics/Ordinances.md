@@ -21,7 +21,20 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 84#^dc-84-19|D&C 84:19-21]] — key passage
+- [[Articles of Faith 1#^aoff-1-3|Articles of Faith 1:3-5]] — key passage
+- [[Alma 13#^alma-13-16|Alma 13:16]] — key passage
+- [[3 Nephi 11#^3ne-11-21|3 Nephi 11:21-28]] — key passage
+- [[Articles of Faith 1]]
+- [[Leviticus 18]] *(keyword match)*
+- [[Numbers 9]] *(keyword match)*
+- [[Ezekiel 43]] *(keyword match)*
+- [[D&C 128]] *(keyword match)*
+- [[Exodus 12]] *(keyword match)*
+- [[Alma 13]]
+- [[D&C 124]] *(keyword match)*
+- [[D&C 84]]
+- [[3 Nephi 11]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

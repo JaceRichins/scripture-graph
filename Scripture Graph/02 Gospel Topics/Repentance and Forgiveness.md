@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Enos 1#^enos-1-5|Enos 1:5-8]] — key passage
+- [[D&C 64#^dc-64-9|D&C 64:9-10]] — key passage
+- [[Matthew 18#^matt-18-21|Matthew 18:21-22]] — key passage
+- [[Mosiah 26#^mosiah-26-29|Mosiah 26:29-30]] — key passage
+- [[D&C 64]]
+- [[Matthew 6]] *(keyword match)*
+- [[2 Corinthians 2]] *(keyword match)*
+- [[3 Nephi 13]] *(keyword match)*
+- [[Numbers 30]] *(keyword match)*
+- [[D&C 98]] *(keyword match)*
+- [[Leviticus 5]] *(keyword match)*
+- [[Mark 2]] *(keyword match)*
+- [[Mark 11]] *(keyword match)*
+- [[Luke 5]] *(keyword match)*
+- [[Mosiah 26]]
+- [[Matthew 9]] *(keyword match)*
+- [[2 Chronicles 6]] *(keyword match)*
+- [[Leviticus 4]] *(keyword match)*
+- [[Matthew 12]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 10#^moro-10-4|Moroni 10:4-5]] — key passage
+- [[Alma 5#^alma-5-45|Alma 5:45-46]] — key passage
+- [[John 7#^john-7-17|John 7:17]] — key passage
+- [[D&C 62#^dc-62-3|D&C 62:3]] — key passage
+- [[Ether 5]] *(keyword match)*
+- [[John 5]] *(keyword match)*
+- [[Numbers 17]] *(keyword match)*
+- [[1 John 5]] *(keyword match)*
+- [[D&C 5]] *(keyword match)*
+- [[Deuteronomy 19]] *(keyword match)*
+- [[Job 16]] *(keyword match)*
+- [[John 3]] *(keyword match)*
+- [[Alma 29]] *(keyword match)*
+- [[Proverbs 14]] *(keyword match)*
+- [[Deuteronomy 31]] *(keyword match)*
+- [[Revelation 2]] *(keyword match)*
+- [[John 8]] *(keyword match)*
+- [[Revelation 3]] *(keyword match)*
+- [[Proverbs 19]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -21,7 +21,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[3 Nephi 11#^3ne-11-1|3 Nephi 11:1-41]] — key passage
+- [[3 Nephi 15#^3ne-15-16|3 Nephi 15:16-24]] — key passage
+- [[3 Nephi 27#^3ne-27-27|3 Nephi 27:27]] — key passage
+- [[John 10#^john-10-16|John 10:16]] — key passage
+- [[3 Nephi 15]]
+- [[John 10]]
+- [[3 Nephi 27]]
+- [[3 Nephi 11]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

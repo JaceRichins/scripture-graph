@@ -21,7 +21,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Acts 2#^acts-2-1|Acts 2:1-11]] — key passage
+- [[1 Corinthians 14#^1cor-14-1|1 Corinthians 14:1-28]] — key passage
+- [[Moroni 10#^moro-10-15|Moroni 10:15-16]] — key passage
+- [[D&C 46#^dc-46-24|D&C 46:24-25]] — key passage
+- [[1 Corinthians 14]]
+- [[1 Corinthians 12]] *(keyword match)*
+- [[3 Nephi 26]] *(keyword match)*
+- [[Acts 2]]
+- [[D&C 46]]
+- [[Mormon 9]] *(keyword match)*
+- [[Moroni 10]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

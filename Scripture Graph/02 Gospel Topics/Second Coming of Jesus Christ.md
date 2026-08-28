@@ -23,7 +23,19 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 45#^dc-45-16|D&C 45:16-59]] — key passage
+- [[Matthew 24#^matt-24-29|Matthew 24:29-31]] — key passage
+- [[Joseph Smith—Matthew 1#^jsm-1-21|Joseph Smith—Matthew 1:21-37]] — key passage
+- [[Malachi 4#^mal-4-1|Malachi 4:1-2]] — key passage
+- [[D&C 133#^dc-133-17|D&C 133:17-25]] — key passage
+- [[Malachi 4]]
+- [[D&C 130]] *(keyword match)*
+- [[Matthew 24]]
+- [[Joseph Smith—Matthew 1]]
+- [[Luke 12]] *(keyword match)*
+- [[Mark 14]] *(keyword match)*
+- [[D&C 45]]
+- [[D&C 133]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

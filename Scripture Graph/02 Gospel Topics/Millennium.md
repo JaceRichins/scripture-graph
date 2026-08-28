@@ -21,7 +21,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Revelation 20#^rev-20-1|Revelation 20:1-6]] — key passage
+- [[D&C 101#^dc-101-22|D&C 101:22-31]] — key passage
+- [[Isaiah 65#^isa-65-17|Isaiah 65:17-25]] — key passage
+- [[Articles of Faith 1#^aoff-1-10|Articles of Faith 1:10]] — key passage
+- [[Revelation 20]]
+- [[D&C 77]] *(keyword match)*
+- [[Articles of Faith 1]]
+- [[Isaiah 65]]
+- [[D&C 101]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

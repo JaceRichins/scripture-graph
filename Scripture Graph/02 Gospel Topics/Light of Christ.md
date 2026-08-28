@@ -23,7 +23,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 7#^moro-7-16|Moroni 7:16-19]] — key passage
+- [[D&C 88#^dc-88-6|D&C 88:6-13]] — key passage
+- [[John 1#^john-1-9|John 1:9]] — key passage
+- [[D&C 93#^dc-93-2|D&C 93:2]] — key passage
+- [[1 Corinthians 8]] *(keyword match)*
+- [[1 Corinthians 10]] *(keyword match)*
+- [[D&C 134]] *(keyword match)*
+- [[Moroni 7]]
+- [[D&C 93]]
+- [[D&C 88]]
+- [[John 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

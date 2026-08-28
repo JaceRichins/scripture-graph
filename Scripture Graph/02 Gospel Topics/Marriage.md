@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Genesis 2#^gen-2-24|Genesis 2:24]] — key passage
+- [[D&C 42#^dc-42-22|D&C 42:22]] — key passage
+- [[1 Corinthians 11#^1cor-11-11|1 Corinthians 11:11]] — key passage
+- [[Jacob 2#^jacob-2-27|Jacob 2:27]] — key passage
+- [[1 Corinthians 7]] *(keyword match)*
+- [[D&C 74]] *(keyword match)*
+- [[Numbers 30]] *(keyword match)*
+- [[Deuteronomy 25]] *(keyword match)*
+- [[Genesis 20]] *(keyword match)*
+- [[Genesis 12]] *(keyword match)*
+- [[Numbers 5]] *(keyword match)*
+- [[Deuteronomy 24]] *(keyword match)*
+- [[Judges 13]] *(keyword match)*
+- [[Ephesians 5]] *(keyword match)*
+- [[Ruth 1]] *(keyword match)*
+- [[Genesis 36]] *(keyword match)*
+- [[Matthew 1]] *(keyword match)*
+- [[Leviticus 18]] *(keyword match)*
+- [[Romans 7]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

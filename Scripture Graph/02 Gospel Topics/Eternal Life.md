@@ -23,7 +23,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 14#^dc-14-7|D&C 14:7]] — key passage
+- [[John 17#^john-17-3|John 17:3]] — key passage
+- [[Moses 1#^moses-1-39|Moses 1:39]] — key passage
+- [[2 Nephi 31#^2ne-31-20|2 Nephi 31:20]] — key passage
+- [[D&C 14]]
+- [[1 John 5]] *(keyword match)*
+- [[D&C 132]] *(keyword match)*
+- [[John 17]]
+- [[Mosiah 15]] *(keyword match)*
+- [[2 Nephi 31]]
+- [[Moses 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

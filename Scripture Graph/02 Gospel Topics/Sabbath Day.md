@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Exodus 20#^ex-20-8|Exodus 20:8-11]] — key passage
+- [[D&C 59#^dc-59-9|D&C 59:9-13]] — key passage
+- [[Isaiah 58#^isa-58-13|Isaiah 58:13-14]] — key passage
+- [[Mark 2#^mark-2-27|Mark 2:27]] — key passage
+- [[Exodus 31]] *(keyword match)*
+- [[Nehemiah 13]] *(keyword match)*
+- [[Jeremiah 17]] *(keyword match)*
+- [[Leviticus 23]] *(keyword match)*
+- [[Mark 2]]
+- [[Matthew 12]] *(keyword match)*
+- [[Luke 13]] *(keyword match)*
+- [[Isaiah 58]]
+- [[2 Kings 11]] *(keyword match)*
+- [[Exodus 20]]
+- [[Luke 6]] *(keyword match)*
+- [[Nehemiah 10]] *(keyword match)*
+- [[John 5]] *(keyword match)*
+- [[2 Chronicles 23]] *(keyword match)*
+- [[Exodus 16]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

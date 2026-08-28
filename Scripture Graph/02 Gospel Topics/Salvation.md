@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Mosiah 3#^mosiah-3-17|Mosiah 3:17]] — key passage
+- [[2 Nephi 25#^2ne-25-23|2 Nephi 25:23]] — key passage
+- [[Acts 4#^acts-4-12|Acts 4:12]] — key passage
+- [[Alma 34#^alma-34-15|Alma 34:15]] — key passage
+- [[Isaiah 12]] *(keyword match)*
+- [[2 Nephi 22]] *(keyword match)*
+- [[Psalm 62]] *(keyword match)*
+- [[Psalm 85]] *(keyword match)*
+- [[Psalm 80]] *(keyword match)*
+- [[Romans 10]] *(keyword match)*
+- [[Habakkuk 3]] *(keyword match)*
+- [[D&C 100]] *(keyword match)*
+- [[Psalm 118]] *(keyword match)*
+- [[Mosiah 15]] *(keyword match)*
+- [[Mosiah 3]]
+- [[2 Samuel 22]] *(keyword match)*
+- [[Isaiah 45]] *(keyword match)*
+- [[Isaiah 59]] *(keyword match)*
+- [[1 Peter 1]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

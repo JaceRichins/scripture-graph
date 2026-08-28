@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 32#^alma-32-21|Alma 32:21]] — key passage
+- [[Hebrews 11#^heb-11-1|Hebrews 11:1]] — key passage
+- [[Ether 12#^ether-12-6|Ether 12:6]] — key passage
+- [[James 2#^james-2-17|James 2:17]] — key passage
+- [[Hebrews 11]]
+- [[James 2]]
+- [[Ether 12]]
+- [[Galatians 3]] *(keyword match)*
+- [[Romans 4]] *(keyword match)*
+- [[1 Thessalonians 3]] *(keyword match)*
+- [[D&C 17]] *(keyword match)*
+- [[Romans 3]] *(keyword match)*
+- [[1 Timothy 1]] *(keyword match)*
+- [[Moroni 7]] *(keyword match)*
+- [[D&C 8]] *(keyword match)*
+- [[1 Timothy 6]] *(keyword match)*
+- [[2 Thessalonians 1]] *(keyword match)*
+- [[2 Timothy 3]] *(keyword match)*
+- [[Alma 32]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

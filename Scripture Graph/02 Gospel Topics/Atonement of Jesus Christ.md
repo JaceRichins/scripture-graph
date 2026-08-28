@@ -24,7 +24,27 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 34#^alma-34-8|Alma 34:8-16]] — key passage
+- [[2 Nephi 9#^2ne-9-7|2 Nephi 9:7]] — key passage
+- [[Isaiah 53#^isa-53-5|Isaiah 53:5]] — key passage
+- [[Alma 7#^alma-7-11|Alma 7:11-13]] — key passage
+- [[D&C 19#^dc-19-16|D&C 19:16-19]] — key passage
+- [[Mosiah 3#^mosiah-3-7|Mosiah 3:7]] — key passage
+- [[Leviticus 16]] *(keyword match)*
+- [[Leviticus 5]] *(keyword match)*
+- [[Exodus 30]] *(keyword match)*
+- [[Numbers 8]] *(keyword match)*
+- [[Leviticus 14]] *(keyword match)*
+- [[Alma 34]]
+- [[Leviticus 4]] *(keyword match)*
+- [[Exodus 29]] *(keyword match)*
+- [[Numbers 15]] *(keyword match)*
+- [[Mosiah 3]]
+- [[Leviticus 23]] *(keyword match)*
+- [[Alma 42]] *(keyword match)*
+- [[2 Nephi 9]]
+- [[Isaiah 53]]
+- [[Alma 7]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

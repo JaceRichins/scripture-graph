@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Exodus 20#^ex-20-1|Exodus 20:1-17]] — key passage
+- [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6-21]] — key passage
+- [[Mosiah 12#^mosiah-12-33|Mosiah 12:33-36]] — key passage
+- [[Mosiah 13#^mosiah-13-12|Mosiah 13:12-24]] — key passage
+- [[Leviticus 18]] *(keyword match)*
+- [[Exodus 20]]
+- [[Deuteronomy 23]] *(keyword match)*
+- [[Romans 13]] *(keyword match)*
+- [[Deuteronomy 24]] *(keyword match)*
+- [[Leviticus 19]] *(keyword match)*
+- [[Mosiah 13]]
+- [[Exodus 23]] *(keyword match)*
+- [[Deuteronomy 5]]
+- [[Deuteronomy 25]] *(keyword match)*
+- [[Deuteronomy 15]] *(keyword match)*
+- [[Deuteronomy 22]] *(keyword match)*
+- [[D&C 28]] *(keyword match)*
+- [[Isaiah 47]] *(keyword match)*
+- [[Isaiah 54]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

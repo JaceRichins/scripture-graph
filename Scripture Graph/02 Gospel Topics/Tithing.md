@@ -23,7 +23,20 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Malachi 3#^mal-3-8|Malachi 3:8-12]] — key passage
+- [[D&C 119#^dc-119-3|D&C 119:3-4]] — key passage
+- [[Genesis 14#^gen-14-20|Genesis 14:20]] — key passage
+- [[Alma 13#^alma-13-15|Alma 13:15]] — key passage
+- [[Hebrews 7]] *(keyword match)*
+- [[Nehemiah 10]] *(keyword match)*
+- [[Malachi 3]]
+- [[3 Nephi 24]] *(keyword match)*
+- [[D&C 119]]
+- [[Deuteronomy 26]] *(keyword match)*
+- [[Numbers 18]] *(keyword match)*
+- [[Ezekiel 45]] *(keyword match)*
+- [[Alma 13]]
+- [[Genesis 14]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

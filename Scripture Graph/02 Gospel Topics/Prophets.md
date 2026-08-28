@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Amos 3#^amos-3-7|Amos 3:7]] — key passage
+- [[D&C 1#^dc-1-38|D&C 1:38]] — key passage
+- [[Mosiah 8#^mosiah-8-15|Mosiah 8:15-17]] — key passage
+- [[Ephesians 2#^eph-2-20|Ephesians 2:20]] — key passage
+- [[Jeremiah 28]] *(keyword match)*
+- [[Jeremiah 23]] *(keyword match)*
+- [[Ether 11]] *(keyword match)*
+- [[Ezekiel 13]] *(keyword match)*
+- [[Amos 7]] *(keyword match)*
+- [[Zechariah 13]] *(keyword match)*
+- [[Jeremiah 27]] *(keyword match)*
+- [[Jeremiah 26]] *(keyword match)*
+- [[Jeremiah 14]] *(keyword match)*
+- [[Hosea 12]] *(keyword match)*
+- [[Micah 2]] *(keyword match)*
+- [[Jeremiah 29]] *(keyword match)*
+- [[1 Nephi 19]] *(keyword match)*
+- [[2 Chronicles 18]] *(keyword match)*
+- [[1 Samuel 10]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

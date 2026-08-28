@@ -21,7 +21,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[3 Nephi 18#^3ne-18-18|3 Nephi 18:18-21]] — key passage
+- [[Alma 34#^alma-34-17|Alma 34:17-27]] — key passage
+- [[Enos 1#^enos-1-4|Enos 1:4]] — key passage
+- [[Matthew 6#^matt-6-5|Matthew 6:5-13]] — key passage
+- [[James 1#^james-1-5|James 1:5]] — key passage
+- [[3 Nephi 19]] *(keyword match)*
+- [[Nehemiah 1]] *(keyword match)*
+- [[James 5]] *(keyword match)*
+- [[2 Nephi 32]] *(keyword match)*
+- [[2 Chronicles 6]] *(keyword match)*
+- [[1 Kings 8]] *(keyword match)*
+- [[Moroni 6]] *(keyword match)*
+- [[Micah 3]] *(keyword match)*
+- [[3 Nephi 18]]
+- [[1 Thessalonians 5]] *(keyword match)*
+- [[2 Kings 2]] *(keyword match)*
+- [[Alma 33]] *(keyword match)*
+- [[Psalm 55]] *(keyword match)*
+- [[Psalm 102]] *(keyword match)*
+- [[Jeremiah 37]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -23,7 +23,21 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Matthew 13#^matt-13-1|Matthew 13:1-52]] — key passage
+- [[Luke 15#^luke-15-11|Luke 15:11-32]] — key passage
+- [[Luke 10#^luke-10-25|Luke 10:25-37]] — key passage
+- [[Matthew 25#^matt-25-14|Matthew 25:14-30]] — key passage
+- [[Matthew 25]]
+- [[Matthew 13]]
+- [[Mark 4]] *(keyword match)*
+- [[Numbers 24]] *(keyword match)*
+- [[1 Chronicles 29]] *(keyword match)*
+- [[Exodus 38]] *(keyword match)*
+- [[Luke 8]] *(keyword match)*
+- [[2 Kings 5]] *(keyword match)*
+- [[Ezra 8]] *(keyword match)*
+- [[Luke 15]]
+- [[Luke 10]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

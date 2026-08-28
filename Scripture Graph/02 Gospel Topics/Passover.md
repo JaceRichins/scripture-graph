@@ -21,7 +21,23 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Exodus 12#^ex-12-1|Exodus 12:1-28]] — key passage
+- [[Matthew 26#^matt-26-17|Matthew 26:17-19]] — key passage
+- [[1 Corinthians 5#^1cor-5-7|1 Corinthians 5:7]] — key passage
+- [[2 Chronicles 35]] *(keyword match)*
+- [[Numbers 9]] *(keyword match)*
+- [[Deuteronomy 16]] *(keyword match)*
+- [[2 Chronicles 30]] *(keyword match)*
+- [[Exodus 12]]
+- [[1 Corinthians 5]]
+- [[Luke 22]] *(keyword match)*
+- [[Mark 14]] *(keyword match)*
+- [[Numbers 6]] *(keyword match)*
+- [[Ezra 6]] *(keyword match)*
+- [[Matthew 26]]
+- [[Exodus 34]] *(keyword match)*
+- [[2 Kings 23]] *(keyword match)*
+- [[Leviticus 23]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

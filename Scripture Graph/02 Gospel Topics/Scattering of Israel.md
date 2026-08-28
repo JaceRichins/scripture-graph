@@ -21,7 +21,23 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3-5]] — key passage
+- [[2 Kings 17#^2kgs-17-6|2 Kings 17:6-23]] — key passage
+- [[Jeremiah 52#^jer-52-28|Jeremiah 52:28-30]] — key passage
+- [[Amos 9#^amos-9-8|Amos 9:8-9]] — key passage
+- [[Ezekiel 34]] *(keyword match)*
+- [[Jeremiah 40]] *(keyword match)*
+- [[Jeremiah 52]]
+- [[1 Nephi 22]]
+- [[1 Nephi 10]] *(keyword match)*
+- [[Jeremiah 13]] *(keyword match)*
+- [[3 Nephi 21]] *(keyword match)*
+- [[Alma 16]] *(keyword match)*
+- [[Mormon 5]] *(keyword match)*
+- [[Alma 18]] *(keyword match)*
+- [[Alma 17]] *(keyword match)*
+- [[2 Kings 17]]
+- [[Amos 9]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

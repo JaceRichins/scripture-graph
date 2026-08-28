@@ -23,7 +23,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 10#^moro-10-8|Moroni 10:8-18]] — key passage
+- [[D&C 46#^dc-46-11|D&C 46:11-26]] — key passage
+- [[1 Corinthians 12#^1cor-12-4|1 Corinthians 12:4-11]] — key passage
+- [[Articles of Faith 1#^aoff-1-7|Articles of Faith 1:7]] — key passage
+- [[Articles of Faith 1]]
+- [[1 Corinthians 12]]
+- [[D&C 46]]
+- [[Moroni 10]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

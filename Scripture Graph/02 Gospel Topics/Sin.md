@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 41#^alma-41-10|Alma 41:10]] — key passage
+- [[1 John 1#^1jn-1-8|1 John 1:8-10]] — key passage
+- [[James 4#^james-4-17|James 4:17]] — key passage
+- [[Alma 45#^alma-45-16|Alma 45:16]] — key passage
+- [[Romans 6]] *(keyword match)*
+- [[Leviticus 5]] *(keyword match)*
+- [[Psalm 32]] *(keyword match)*
+- [[Leviticus 4]] *(keyword match)*
+- [[Romans 7]] *(keyword match)*
+- [[Psalm 51]] *(keyword match)*
+- [[Romans 5]] *(keyword match)*
+- [[1 John 1]]
+- [[Psalm 36]] *(keyword match)*
+- [[Ezekiel 18]] *(keyword match)*
+- [[1 John 3]] *(keyword match)*
+- [[Hebrews 10]] *(keyword match)*
+- [[D&C 82]] *(keyword match)*
+- [[D&C 95]] *(keyword match)*
+- [[Leviticus 9]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

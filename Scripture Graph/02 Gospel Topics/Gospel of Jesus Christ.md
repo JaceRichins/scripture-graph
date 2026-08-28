@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[3 Nephi 27#^3ne-27-13|3 Nephi 27:13-21]] — key passage
+- [[2 Nephi 31#^2ne-31-2|2 Nephi 31:2-21]] — key passage
+- [[Romans 1#^rom-1-16|Romans 1:16]] — key passage
+- [[D&C 39#^dc-39-5|D&C 39:5-6]] — key passage
+- [[1 Corinthians 9]] *(keyword match)*
+- [[Galatians 1]] *(keyword match)*
+- [[Philippians 1]] *(keyword match)*
+- [[Galatians 2]] *(keyword match)*
+- [[1 Thessalonians 2]] *(keyword match)*
+- [[D&C 39]]
+- [[3 Nephi 16]] *(keyword match)*
+- [[D&C 138]] *(keyword match)*
+- [[Romans 1]]
+- [[3 Nephi 27]]
+- [[Romans 15]] *(keyword match)*
+- [[D&C 18]] *(keyword match)*
+- [[D&C 35]] *(keyword match)*
+- [[D&C 27]] *(keyword match)*
+- [[D&C 10]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

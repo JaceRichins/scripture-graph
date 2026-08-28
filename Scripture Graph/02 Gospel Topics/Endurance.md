@@ -24,7 +24,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15-20]] — key passage
+- [[Mosiah 5#^mosiah-5-15|Mosiah 5:15]] — key passage
+- [[D&C 121#^dc-121-29|D&C 121:29]] — key passage
+- [[James 5#^james-5-11|James 5:11]] — key passage
+- [[2 Nephi 31]]
+- [[Mosiah 5]]
+- [[D&C 121]]
+- [[James 5]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

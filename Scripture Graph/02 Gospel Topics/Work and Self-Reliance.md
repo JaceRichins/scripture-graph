@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 42#^dc-42-42|D&C 42:42]] — key passage
+- [[Genesis 3#^gen-3-19|Genesis 3:19]] — key passage
+- [[2 Nephi 5#^2ne-5-17|2 Nephi 5:17]] — key passage
+- [[Mosiah 27#^mosiah-27-4|Mosiah 27:4-5]] — key passage
+- [[2 Thessalonians 3#^2thes-3-10|2 Thessalonians 3:10]] — key passage
+- [[Ecclesiastes 2]] *(keyword match)*
+- [[Ecclesiastes 4]] *(keyword match)*
+- [[Exodus 5]] *(keyword match)*
+- [[1 Timothy 5]] *(keyword match)*
+- [[Ecclesiastes 5]] *(keyword match)*
+- [[Matthew 20]] *(keyword match)*
+- [[D&C 75]] *(keyword match)*
+- [[Moroni 9]] *(keyword match)*
+- [[2 Thessalonians 3]]
+- [[Alma 53]] *(keyword match)*
+- [[Alma 1]] *(keyword match)*
+- [[Jacob 5]] *(keyword match)*
+- [[2 Nephi 5]]
+- [[Genesis 3]]
+- [[D&C 42]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

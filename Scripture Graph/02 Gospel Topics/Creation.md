@@ -21,7 +21,18 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Genesis 1#^gen-1-1|Genesis 1:1]] — key passage
+- [[Moses 1#^moses-1-33|Moses 1:33]] — key passage
+- [[Moses 2#^moses-2-1|Moses 2:1]] — key passage
+- [[Abraham 4#^abr-4-1|Abraham 4:1]] — key passage
+- [[D&C 76#^dc-76-24|D&C 76:24]] — key passage
+- [[Isaiah 65]] *(keyword match)*
+- [[Moses 7]] *(keyword match)*
+- [[Genesis 1]]
+- [[Moses 2]]
+- [[Moses 1]]
+- [[D&C 76]]
+- [[Abraham 4]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

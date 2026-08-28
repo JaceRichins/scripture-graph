@@ -21,7 +21,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Luke 22#^luke-22-39|Luke 22:39-46]] — key passage
+- [[Matthew 26#^matt-26-36|Matthew 26:36-46]] — key passage
+- [[Mosiah 3#^mosiah-3-7|Mosiah 3:7]] — key passage
+- [[D&C 19#^dc-19-16|D&C 19:16-19]] — key passage
+- [[Matthew 26]]
+- [[Luke 22]]
+- [[Mosiah 3]]
+- [[D&C 19]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

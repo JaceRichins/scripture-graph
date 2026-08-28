@@ -23,7 +23,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Exodus 14#^ex-14-13|Exodus 14:13-31]] — key passage
+- [[1 Nephi 4#^1ne-4-2|1 Nephi 4:2-3]] — key passage
+- [[Mosiah 24#^mosiah-24-16|Mosiah 24:16-25]] — key passage
+- [[Alma 36#^alma-36-2|Alma 36:2,28-29]] — key passage
+- [[Mosiah 22]] *(keyword match)*
+- [[Isaiah 36]] *(keyword match)*
+- [[Judges 10]] *(keyword match)*
+- [[Psalm 91]] *(keyword match)*
+- [[Alma 29]] *(keyword match)*
+- [[Hosea 11]] *(keyword match)*
+- [[Mosiah 24]]
+- [[Ezekiel 14]] *(keyword match)*
+- [[Psalm 7]] *(keyword match)*
+- [[Psalm 22]] *(keyword match)*
+- [[Psalm 33]] *(keyword match)*
+- [[1 Samuel 23]] *(keyword match)*
+- [[2 Nephi 27]] *(keyword match)*
+- [[Exodus 18]] *(keyword match)*
+- [[Proverbs 11]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

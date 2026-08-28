@@ -23,7 +23,12 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Matthew 5#^matt-5-1|Matthew 5:1-16]] — key passage
+- [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1-16]] — key passage
+- [[Luke 6#^luke-6-20|Luke 6:20-26]] — key passage
+- [[Matthew 5]]
+- [[3 Nephi 12]]
+- [[Luke 6]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

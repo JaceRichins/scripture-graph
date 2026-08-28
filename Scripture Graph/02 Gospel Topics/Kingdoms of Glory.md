@@ -26,7 +26,16 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 76#^dc-76-50|D&C 76:50-113]] — key passage
+- [[1 Corinthians 15#^1cor-15-40|1 Corinthians 15:40-42]] — key passage
+- [[John 14#^john-14-2|John 14:2]] — key passage
+- [[D&C 131#^dc-131-1|D&C 131:1-4]] — key passage
+- [[D&C 137]] *(keyword match)*
+- [[D&C 76]]
+- [[D&C 131]]
+- [[D&C 88]] *(keyword match)*
+- [[1 Corinthians 15]]
+- [[John 14]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

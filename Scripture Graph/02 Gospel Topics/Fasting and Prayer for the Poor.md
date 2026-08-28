@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Mosiah 4#^mosiah-4-16|Mosiah 4:16-26]] — key passage
+- [[Jacob 2#^jacob-2-17|Jacob 2:17-19]] — key passage
+- [[Isaiah 58#^isa-58-6|Isaiah 58:6-7]] — key passage
+- [[D&C 104#^dc-104-15|D&C 104:15-18]] — key passage
+- [[Alma 34#^alma-34-28|Alma 34:28-29]] — key passage
+- [[Psalm 82]] *(keyword match)*
+- [[Psalm 72]] *(keyword match)*
+- [[Psalm 10]] *(keyword match)*
+- [[Proverbs 28]] *(keyword match)*
+- [[Job 24]] *(keyword match)*
+- [[Amos 8]] *(keyword match)*
+- [[Proverbs 31]] *(keyword match)*
+- [[Proverbs 22]] *(keyword match)*
+- [[Proverbs 19]] *(keyword match)*
+- [[Psalm 109]] *(keyword match)*
+- [[Proverbs 29]] *(keyword match)*
+- [[Proverbs 14]] *(keyword match)*
+- [[James 2]] *(keyword match)*
+- [[Psalm 35]] *(keyword match)*
+- [[D&C 56]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

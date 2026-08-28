@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Ether 12#^ether-12-4|Ether 12:4]] — key passage
+- [[Moroni 7#^moro-7-40|Moroni 7:40-42]] — key passage
+- [[2 Nephi 31#^2ne-31-20|2 Nephi 31:20]] — key passage
+- [[Romans 8#^rom-8-24|Romans 8:24-25]] — key passage
+- [[Hebrews 6]] *(keyword match)*
+- [[Romans 8]]
+- [[Romans 5]] *(keyword match)*
+- [[Lamentations 3]] *(keyword match)*
+- [[Moroni 7]]
+- [[1 Peter 1]] *(keyword match)*
+- [[Colossians 1]] *(keyword match)*
+- [[Ether 12]]
+- [[1 Corinthians 9]] *(keyword match)*
+- [[Jacob 4]] *(keyword match)*
+- [[Romans 15]] *(keyword match)*
+- [[Acts 26]] *(keyword match)*
+- [[Jeremiah 17]] *(keyword match)*
+- [[Psalm 119]] *(keyword match)*
+- [[2 Nephi 31]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

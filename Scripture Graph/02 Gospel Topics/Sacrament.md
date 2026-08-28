@@ -23,7 +23,16 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[3 Nephi 18#^3ne-18-1|3 Nephi 18:1-12]] — key passage
+- [[Moroni 4#^moro-4-1|Moroni 4:1-3]] — key passage
+- [[Moroni 5#^moro-5-1|Moroni 5:1-2]] — key passage
+- [[Matthew 26#^matt-26-26|Matthew 26:26-28]] — key passage
+- [[D&C 20#^dc-20-75|D&C 20:75-79]] — key passage
+- [[Moroni 5]]
+- [[Moroni 4]]
+- [[D&C 20]]
+- [[3 Nephi 18]]
+- [[Matthew 26]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

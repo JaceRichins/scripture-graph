@@ -23,7 +23,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Isaiah 58#^isa-58-6|Isaiah 58:6-11]] — key passage
+- [[Alma 5#^alma-5-46|Alma 5:46]] — key passage
+- [[Matthew 6#^matt-6-16|Matthew 6:16-18]] — key passage
+- [[Helaman 3#^hel-3-35|Helaman 3:35]] — key passage
+- [[Isaiah 58]]
+- [[Alma 5]]
+- [[Matthew 6]]
+- [[Helaman 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

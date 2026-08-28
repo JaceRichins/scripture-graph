@@ -21,7 +21,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 89#^dc-89-1|D&C 89:1-21]] — key passage
+- [[Daniel 1#^dan-1-8|Daniel 1:8-20]] — key passage
+- [[1 Corinthians 3#^1cor-3-16|1 Corinthians 3:16-17]] — key passage
+- [[D&C 89]]
+- [[Judges 13]] *(keyword match)*
+- [[Isaiah 28]] *(keyword match)*
+- [[Daniel 1]]
+- [[1 Corinthians 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

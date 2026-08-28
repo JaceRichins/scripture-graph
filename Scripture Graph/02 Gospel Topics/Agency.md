@@ -24,7 +24,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26-27]] — key passage
+- [[Moses 4#^moses-4-3|Moses 4:3]] — key passage
+- [[D&C 58#^dc-58-27|D&C 58:27-28]] — key passage
+- [[Helaman 14#^hel-14-30|Helaman 14:30-31]] — key passage
+- [[2 Nephi 2]]
+- [[Moses 4]]
+- [[Helaman 14]]
+- [[D&C 58]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

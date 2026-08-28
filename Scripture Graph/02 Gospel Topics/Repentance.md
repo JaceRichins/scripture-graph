@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 36#^alma-36-12|Alma 36:12-21]] — key passage
+- [[Mosiah 4#^mosiah-4-10|Mosiah 4:10]] — key passage
+- [[D&C 58#^dc-58-42|D&C 58:42-43]] — key passage
+- [[2 Corinthians 7#^2cor-7-10|2 Corinthians 7:10]] — key passage
+- [[2 Corinthians 7]]
+- [[Moroni 8]] *(keyword match)*
+- [[D&C 18]] *(keyword match)*
+- [[D&C 19]] *(keyword match)*
+- [[Alma 42]] *(keyword match)*
+- [[Moroni 6]] *(keyword match)*
+- [[Helaman 15]] *(keyword match)*
+- [[Helaman 7]] *(keyword match)*
+- [[Ether 11]] *(keyword match)*
+- [[Matthew 3]] *(keyword match)*
+- [[Alma 6]] *(keyword match)*
+- [[Revelation 2]] *(keyword match)*
+- [[Mormon 7]] *(keyword match)*
+- [[D&C 98]] *(keyword match)*
+- [[Helaman 14]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

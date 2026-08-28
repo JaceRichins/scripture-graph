@@ -21,7 +21,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Nephi 3#^1ne-3-7|1 Nephi 3:7]] — key passage
+- [[D&C 130#^dc-130-20|D&C 130:20-21]] — key passage
+- [[John 14#^john-14-15|John 14:15]] — key passage
+- [[Mosiah 2#^mosiah-2-22|Mosiah 2:22]] — key passage
+- [[Abraham 3#^abr-3-25|Abraham 3:25]] — key passage
+- [[Romans 6]] *(keyword match)*
+- [[D&C 56]] *(keyword match)*
+- [[1 Samuel 8]] *(keyword match)*
+- [[Deuteronomy 13]] *(keyword match)*
+- [[Deuteronomy 30]] *(keyword match)*
+- [[Job 33]] *(keyword match)*
+- [[Helaman 10]] *(keyword match)*
+- [[Jeremiah 27]] *(keyword match)*
+- [[D&C 11]] *(keyword match)*
+- [[Jeremiah 26]] *(keyword match)*
+- [[Job 34]] *(keyword match)*
+- [[1 Nephi 2]] *(keyword match)*
+- [[2 Nephi 1]] *(keyword match)*
+- [[D&C 43]] *(keyword match)*
+- [[Deuteronomy 21]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

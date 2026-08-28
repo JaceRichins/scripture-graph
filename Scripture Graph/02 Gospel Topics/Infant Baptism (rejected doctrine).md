@@ -23,7 +23,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 8#^moro-8-4|Moroni 8:4-23]] — key passage
+- [[D&C 68#^dc-68-25|D&C 68:25-27]] — key passage
+- [[Mosiah 3#^mosiah-3-16|Mosiah 3:16]] — key passage
+- [[Moroni 8]]
+- [[1 John 2]] *(keyword match)*
+- [[3 Nephi 17]] *(keyword match)*
+- [[Mosiah 3]]
+- [[D&C 68]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

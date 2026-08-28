@@ -23,7 +23,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Helaman 12#^hel-12-1|Helaman 12:1-6]] — key passage
+- [[Proverbs 16#^prov-16-18|Proverbs 16:18]] — key passage
+- [[Jacob 2#^jacob-2-13|Jacob 2:13-22]] — key passage
+- [[4 Nephi 1#^4ne-1-24|4 Nephi 1:24-26]] — key passage
+- [[D&C 121#^dc-121-37|D&C 121:37]] — key passage
+- [[Alma 4]] *(keyword match)*
+- [[2 Nephi 28]] *(keyword match)*
+- [[Isaiah 16]] *(keyword match)*
+- [[Proverbs 21]] *(keyword match)*
+- [[1 Corinthians 4]] *(keyword match)*
+- [[Proverbs 16]]
+- [[Jeremiah 13]] *(keyword match)*
+- [[Alma 1]] *(keyword match)*
+- [[Jacob 2]]
+- [[Mormon 8]] *(keyword match)*
+- [[Alma 31]] *(keyword match)*
+- [[Helaman 3]] *(keyword match)*
+- [[Jeremiah 48]] *(keyword match)*
+- [[3 Nephi 6]] *(keyword match)*
+- [[Psalm 119]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

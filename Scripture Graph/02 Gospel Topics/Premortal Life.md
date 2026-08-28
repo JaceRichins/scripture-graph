@@ -24,7 +24,14 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Abraham 3#^abr-3-22|Abraham 3:22-28]] — key passage
+- [[Jeremiah 1#^jer-1-5|Jeremiah 1:5]] — key passage
+- [[Job 38#^job-38-4|Job 38:4-7]] — key passage
+- [[D&C 93#^dc-93-29|D&C 93:29]] — key passage
+- [[Abraham 3]]
+- [[Job 38]]
+- [[Jeremiah 1]]
+- [[D&C 93]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -24,7 +24,16 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Corinthians 15#^1cor-15-29|1 Corinthians 15:29]] — key passage
+- [[D&C 128#^dc-128-15|D&C 128:15-18]] — key passage
+- [[1 Peter 3#^1pet-3-18|1 Peter 3:18-20]] — key passage
+- [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] — key passage
+- [[D&C 138#^dc-138-28|D&C 138:28-37]] — key passage
+- [[D&C 128]]
+- [[D&C 138]]
+- [[1 Peter 3]]
+- [[1 Corinthians 15]]
+- [[1 Peter 4]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

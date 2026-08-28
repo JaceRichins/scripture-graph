@@ -23,7 +23,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Mosiah 29#^mosiah-29-25|Mosiah 29:25-27]] — key passage
+- [[D&C 134#^dc-134-1|D&C 134:1-12]] — key passage
+- [[D&C 101#^dc-101-77|D&C 101:77-80]] — key passage
+- [[Articles of Faith 1#^aoff-1-12|Articles of Faith 1:12]] — key passage
+- [[Alma 46#^alma-46-12|Alma 46:12-13]] — key passage
+- [[Joshua 12]] *(keyword match)*
+- [[Esther 6]] *(keyword match)*
+- [[Esther 5]] *(keyword match)*
+- [[Esther 7]] *(keyword match)*
+- [[Esther 3]] *(keyword match)*
+- [[2 Samuel 19]] *(keyword match)*
+- [[1 Kings 1]] *(keyword match)*
+- [[Esther 1]] *(keyword match)*
+- [[2 Kings 16]] *(keyword match)*
+- [[Genesis 14]] *(keyword match)*
+- [[Esther 2]] *(keyword match)*
+- [[2 Samuel 14]] *(keyword match)*
+- [[Esther 8]] *(keyword match)*
+- [[Daniel 6]] *(keyword match)*
+- [[Esther 10]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

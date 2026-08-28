@@ -21,7 +21,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Exodus 20#^ex-20-16|Exodus 20:16]] — key passage
+- [[Articles of Faith 1#^aoff-1-13|Articles of Faith 1:13]] — key passage
+- [[2 Nephi 9#^2ne-9-34|2 Nephi 9:34]] — key passage
+- [[Proverbs 12#^prov-12-22|Proverbs 12:22]] — key passage
+- [[Proverbs 12]]
+- [[Ezekiel 4]] *(keyword match)*
+- [[Leviticus 20]] *(keyword match)*
+- [[Zephaniah 2]] *(keyword match)*
+- [[Genesis 39]] *(keyword match)*
+- [[Leviticus 18]] *(keyword match)*
+- [[Ruth 3]] *(keyword match)*
+- [[1 Samuel 3]] *(keyword match)*
+- [[1 John 2]] *(keyword match)*
+- [[Romans 3]] *(keyword match)*
+- [[Jeremiah 27]] *(keyword match)*
+- [[Ezekiel 32]] *(keyword match)*
+- [[Jeremiah 9]] *(keyword match)*
+- [[Deuteronomy 22]] *(keyword match)*
+- [[Articles of Faith 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

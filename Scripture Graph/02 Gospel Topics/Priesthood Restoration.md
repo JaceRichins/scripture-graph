@@ -23,7 +23,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 13#^dc-13-1|D&C 13:1]] — key passage
+- [[Joseph Smith—History 1#^jsh-1-68|Joseph Smith—History 1:68-72]] — key passage
+- [[D&C 27#^dc-27-12|D&C 27:12-13]] — key passage
+- [[D&C 110#^dc-110-11|D&C 110:11-16]] — key passage
+- [[Matthew 17]] *(keyword match)*
+- [[D&C 27]]
+- [[Mark 9]] *(keyword match)*
+- [[Luke 9]] *(keyword match)*
+- [[D&C 110]]
+- [[D&C 13]]
+- [[Joseph Smith—History 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

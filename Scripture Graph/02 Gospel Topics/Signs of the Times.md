@@ -23,7 +23,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Joseph Smith—Matthew 1#^jsm-1-21|Joseph Smith—Matthew 1:21-37]] — key passage
+- [[2 Timothy 3#^2tim-3-1|2 Timothy 3:1-7]] — key passage
+- [[D&C 45#^dc-45-26|D&C 45:26-42]] — key passage
+- [[Matthew 24#^matt-24-3|Matthew 24:3-14]] — key passage
+- [[2 Timothy 3]]
+- [[D&C 64]] *(keyword match)*
+- [[Matthew 24]]
+- [[Joseph Smith—Matthew 1]]
+- [[D&C 45]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -23,7 +23,20 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Matthew 27#^matt-27-32|Matthew 27:32-54]] — key passage
+- [[Luke 23#^luke-23-33|Luke 23:33-46]] — key passage
+- [[John 19#^john-19-16|John 19:16-30]] — key passage
+- [[1 Nephi 11#^1ne-11-33|1 Nephi 11:33]] — key passage
+- [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]] — key passage
+- [[John 19]]
+- [[Galatians 6]] *(keyword match)*
+- [[Mark 15]] *(keyword match)*
+- [[Matthew 27]]
+- [[1 Corinthians 1]] *(keyword match)*
+- [[Luke 23]]
+- [[Ether 2]] *(keyword match)*
+- [[3 Nephi 27]]
+- [[1 Nephi 11]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -23,7 +23,12 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 26#^dc-26-2|D&C 26:2]] — key passage
+- [[D&C 28#^dc-28-13|D&C 28:13]] — key passage
+- [[Mosiah 29#^mosiah-29-26|Mosiah 29:26]] — key passage
+- [[D&C 26]]
+- [[D&C 28]]
+- [[Mosiah 29]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

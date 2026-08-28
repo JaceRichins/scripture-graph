@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Nephi 9#^1ne-9-2|1 Nephi 9:2-6]] — key passage
+- [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3-11]] — key passage
+- [[Jacob 4#^jacob-4-1|Jacob 4:1-4]] — key passage
+- [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6-14]] — key passage
+- [[Moses 6#^moses-6-5|Moses 6:5-6]] — key passage
+- [[1 Nephi 9]]
+- [[1 Nephi 6]] *(keyword match)*
+- [[1 Nephi 19]] *(keyword match)*
+- [[Mosiah 1]] *(keyword match)*
+- [[Words of Mormon 1]]
+- [[Jacob 1]] *(keyword match)*
+- [[2 Nephi 5]] *(keyword match)*
+- [[Mosiah 28]] *(keyword match)*
+- [[Mosiah 8]] *(keyword match)*
+- [[1 Nephi 5]] *(keyword match)*
+- [[1 Nephi 3]] *(keyword match)*
+- [[Omni 1]] *(keyword match)*
+- [[Jarom 1]] *(keyword match)*
+- [[D&C 8]] *(keyword match)*
+- [[Jacob 3]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

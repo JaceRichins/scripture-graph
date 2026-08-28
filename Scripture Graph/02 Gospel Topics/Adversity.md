@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 121#^dc-121-7|D&C 121:7-8]] — key passage
+- [[D&C 122#^dc-122-5|D&C 122:5-9]] — key passage
+- [[2 Nephi 2#^2ne-2-11|2 Nephi 2:11]] — key passage
+- [[Ether 12#^ether-12-27|Ether 12:27]] — key passage
+- [[Mosiah 23#^mosiah-23-21|Mosiah 23:21-22]] — key passage
+- [[Alma 36]] *(keyword match)*
+- [[Revelation 2]] *(keyword match)*
+- [[Mosiah 24]] *(keyword match)*
+- [[Alma 4]] *(keyword match)*
+- [[Joseph Smith—Matthew 1]] *(keyword match)*
+- [[D&C 122]]
+- [[2 Nephi 4]] *(keyword match)*
+- [[Mosiah 21]] *(keyword match)*
+- [[2 Nephi 2]]
+- [[Alma 31]] *(keyword match)*
+- [[1 Nephi 16]] *(keyword match)*
+- [[Mosiah 23]]
+- [[Alma 17]] *(keyword match)*
+- [[D&C 121]]
+- [[Alma 62]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

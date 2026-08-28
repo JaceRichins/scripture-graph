@@ -21,7 +21,13 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 13#^dc-13-1|D&C 13:1]] — key passage
+- [[D&C 84#^dc-84-26|D&C 84:26-27]] — key passage
+- [[D&C 107#^dc-107-13|D&C 107:13-14]] — key passage
+- [[D&C 13]]
+- [[Numbers 16]] *(keyword match)*
+- [[D&C 84]]
+- [[D&C 107]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

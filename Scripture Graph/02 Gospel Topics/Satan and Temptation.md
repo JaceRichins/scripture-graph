@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moses 4#^moses-4-3|Moses 4:3-4]] — key passage
+- [[2 Nephi 2#^2ne-2-17|2 Nephi 2:17-18]] — key passage
+- [[Matthew 4#^matt-4-1|Matthew 4:1-11]] — key passage
+- [[Alma 13#^alma-13-28|Alma 13:28]] — key passage
+- [[3 Nephi 18#^3ne-18-18|3 Nephi 18:18]] — key passage
+- [[James 1]] *(keyword match)*
+- [[Matthew 4]]
+- [[Mosiah 16]] *(keyword match)*
+- [[Luke 4]] *(keyword match)*
+- [[1 John 3]] *(keyword match)*
+- [[Hebrews 2]] *(keyword match)*
+- [[1 Corinthians 10]] *(keyword match)*
+- [[D&C 29]] *(keyword match)*
+- [[1 Nephi 14]] *(keyword match)*
+- [[Mark 7]] *(keyword match)*
+- [[Moroni 7]] *(keyword match)*
+- [[2 Nephi 28]] *(keyword match)*
+- [[Mark 5]] *(keyword match)*
+- [[3 Nephi 18]]
+- [[Psalm 78]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

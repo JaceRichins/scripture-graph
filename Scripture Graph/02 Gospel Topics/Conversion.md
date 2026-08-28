@@ -24,7 +24,16 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Mosiah 5#^mosiah-5-2|Mosiah 5:2]] — key passage
+- [[Alma 5#^alma-5-12|Alma 5:12-14]] — key passage
+- [[John 3#^john-3-3|John 3:3-7]] — key passage
+- [[Mosiah 27#^mosiah-27-24|Mosiah 27:24-26]] — key passage
+- [[Alma 23]] *(keyword match)*
+- [[John 3]]
+- [[Alma 5]]
+- [[Alma 19]] *(keyword match)*
+- [[Mosiah 5]]
+- [[Mosiah 27]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

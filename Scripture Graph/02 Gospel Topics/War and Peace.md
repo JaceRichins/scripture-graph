@@ -23,7 +23,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 43#^alma-43-45|Alma 43:45-47]] — key passage
+- [[Alma 48#^alma-48-11|Alma 48:11-17]] — key passage
+- [[D&C 98#^dc-98-16|D&C 98:16]] — key passage
+- [[3 Nephi 3#^3ne-3-20|3 Nephi 3:20-21]] — key passage
+- [[Mormon 7#^morm-7-4|Mormon 7:4]] — key passage
+- [[1 Chronicles 12]] *(keyword match)*
+- [[Ether 14]] *(keyword match)*
+- [[Deuteronomy 20]] *(keyword match)*
+- [[3 Nephi 4]] *(keyword match)*
+- [[1 Chronicles 20]] *(keyword match)*
+- [[D&C 87]] *(keyword match)*
+- [[Numbers 31]] *(keyword match)*
+- [[Numbers 1]] *(keyword match)*
+- [[Alma 54]] *(keyword match)*
+- [[Mormon 3]] *(keyword match)*
+- [[1 Nephi 12]] *(keyword match)*
+- [[Alma 35]] *(keyword match)*
+- [[1 Samuel 17]] *(keyword match)*
+- [[Ether 13]] *(keyword match)*
+- [[Alma 52]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

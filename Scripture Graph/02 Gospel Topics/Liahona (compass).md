@@ -23,7 +23,17 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[1 Nephi 16#^1ne-16-10|1 Nephi 16:10]] — key passage
+- [[Alma 37#^alma-37-38|Alma 37:38-46]] — key passage
+- [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] — key passage
+- [[D&C 17#^dc-17-1|D&C 17:1]] — key passage
+- [[2 Chronicles 4]] *(keyword match)*
+- [[Joshua 6]] *(keyword match)*
+- [[Alma 37]]
+- [[1 Kings 7]] *(keyword match)*
+- [[2 Nephi 5]]
+- [[1 Nephi 16]]
+- [[D&C 17]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

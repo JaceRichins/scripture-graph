@@ -21,7 +21,8 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Joseph Smith—History 1#^jsh-1-14|Joseph Smith—History 1:14-20]] — key passage
+- [[Joseph Smith—History 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

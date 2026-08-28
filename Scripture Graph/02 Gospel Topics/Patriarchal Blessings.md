@@ -21,7 +21,12 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Genesis 49#^gen-49-1|Genesis 49:1-28]] — key passage
+- [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3-11]] — key passage
+- [[D&C 107#^dc-107-39|D&C 107:39-56]] — key passage
+- [[Genesis 49]]
+- [[2 Nephi 4]]
+- [[D&C 107]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

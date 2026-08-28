@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 40#^alma-40-11|Alma 40:11-14]] — key passage
+- [[D&C 138#^dc-138-11|D&C 138:11-24]] — key passage
+- [[Luke 23#^luke-23-43|Luke 23:43]] — key passage
+- [[1 Peter 3#^1pet-3-18|1 Peter 3:18-20]] — key passage
+- [[Mosiah 17]] *(keyword match)*
+- [[Romans 6]] *(keyword match)*
+- [[Romans 5]] *(keyword match)*
+- [[Numbers 35]] *(keyword match)*
+- [[Leviticus 20]] *(keyword match)*
+- [[Hebrews 2]] *(keyword match)*
+- [[Psalm 116]] *(keyword match)*
+- [[Helaman 14]] *(keyword match)*
+- [[Alma 40]]
+- [[Revelation 20]] *(keyword match)*
+- [[Romans 7]] *(keyword match)*
+- [[1 John 5]] *(keyword match)*
+- [[Alma 12]] *(keyword match)*
+- [[Leviticus 24]] *(keyword match)*
+- [[Mosiah 16]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -24,7 +24,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 42#^alma-42-5|Alma 42:5-15]] — key passage
+- [[2 Nephi 2#^2ne-2-25|2 Nephi 2:25]] — key passage
+- [[Moses 1#^moses-1-39|Moses 1:39]] — key passage
+- [[Abraham 3#^abr-3-22|Abraham 3:22-26]] — key passage
+- [[Alma 42]]
+- [[Alma 12]] *(keyword match)*
+- [[2 Nephi 2]]
+- [[Moses 1]]
+- [[Abraham 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

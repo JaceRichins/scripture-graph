@@ -23,7 +23,12 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Genesis 22#^gen-22-1|Genesis 22:1-14]] — key passage
+- [[Jacob 4#^jacob-4-5|Jacob 4:5]] — key passage
+- [[Hebrews 11#^heb-11-17|Hebrews 11:17-19]] — key passage
+- [[Genesis 22]]
+- [[Hebrews 11]]
+- [[Jacob 4]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

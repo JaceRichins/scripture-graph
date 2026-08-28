@@ -23,7 +23,15 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[2 Thessalonians 2#^2thes-2-1|2 Thessalonians 2:1-3]] — key passage
+- [[Amos 8#^amos-8-11|Amos 8:11-12]] — key passage
+- [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24-29]] — key passage
+- [[Isaiah 24#^isa-24-5|Isaiah 24:5]] — key passage
+- [[2 Nephi 26]] *(keyword match)*
+- [[2 Thessalonians 2]]
+- [[Isaiah 24]]
+- [[Amos 8]]
+- [[1 Nephi 13]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

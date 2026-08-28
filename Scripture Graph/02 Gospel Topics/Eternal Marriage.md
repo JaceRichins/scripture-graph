@@ -24,7 +24,18 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 132#^dc-132-19|D&C 132:19-20]] — key passage
+- [[D&C 131#^dc-131-1|D&C 131:1-4]] — key passage
+- [[Matthew 16#^matt-16-19|Matthew 16:19]] — key passage
+- [[Matthew 19#^matt-19-3|Matthew 19:3-6]] — key passage
+- [[Revelation 7]] *(keyword match)*
+- [[D&C 131]]
+- [[2 Nephi 27]] *(keyword match)*
+- [[D&C 77]] *(keyword match)*
+- [[D&C 132]]
+- [[Jeremiah 32]] *(keyword match)*
+- [[Matthew 16]]
+- [[Matthew 19]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

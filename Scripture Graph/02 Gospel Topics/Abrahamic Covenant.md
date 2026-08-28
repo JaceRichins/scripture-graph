@@ -21,7 +21,16 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Abraham 2#^abr-2-9|Abraham 2:9-11]] — key passage
+- [[Genesis 12#^gen-12-1|Genesis 12:1-3]] — key passage
+- [[Genesis 17#^gen-17-1|Genesis 17:1-8]] — key passage
+- [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]] — key passage
+- [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25-27]] — key passage
+- [[Genesis 12]]
+- [[Genesis 17]]
+- [[1 Nephi 15]]
+- [[3 Nephi 20]]
+- [[Abraham 2]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 42#^alma-42-13|Alma 42:13-25]] — key passage
+- [[Alma 34#^alma-34-15|Alma 34:15-16]] — key passage
+- [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]] — key passage
+- [[Micah 6#^micah-6-8|Micah 6:8]] — key passage
+- [[Psalm 136]] *(keyword match)*
+- [[Psalm 123]] *(keyword match)*
+- [[Alma 42]]
+- [[Psalm 57]] *(keyword match)*
+- [[Psalm 86]] *(keyword match)*
+- [[Psalm 59]] *(keyword match)*
+- [[Psalm 103]] *(keyword match)*
+- [[Psalm 118]] *(keyword match)*
+- [[Alma 41]] *(keyword match)*
+- [[Psalm 25]] *(keyword match)*
+- [[Romans 9]] *(keyword match)*
+- [[Jacob 6]] *(keyword match)*
+- [[Exodus 25]] *(keyword match)*
+- [[Psalm 109]] *(keyword match)*
+- [[Alma 33]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

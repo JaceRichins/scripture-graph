@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 41#^alma-41-3|Alma 41:3-6]] — key passage
+- [[Revelation 20#^rev-20-12|Revelation 20:12]] — key passage
+- [[2 Nephi 9#^2ne-9-15|2 Nephi 9:15-16]] — key passage
+- [[Mosiah 3#^mosiah-3-24|Mosiah 3:24-25]] — key passage
+- [[Helaman 2]] *(keyword match)*
+- [[Habakkuk 1]] *(keyword match)*
+- [[Isaiah 59]] *(keyword match)*
+- [[Micah 3]] *(keyword match)*
+- [[Psalm 9]] *(keyword match)*
+- [[Mormon 7]] *(keyword match)*
+- [[Job 34]] *(keyword match)*
+- [[Proverbs 21]] *(keyword match)*
+- [[James 2]] *(keyword match)*
+- [[Acts 25]] *(keyword match)*
+- [[Ether 7]] *(keyword match)*
+- [[2 Peter 2]] *(keyword match)*
+- [[Romans 2]] *(keyword match)*
+- [[Isaiah 28]] *(keyword match)*
+- [[Amos 5]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

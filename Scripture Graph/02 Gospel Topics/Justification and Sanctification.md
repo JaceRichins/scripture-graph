@@ -24,7 +24,25 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Moroni 10#^moro-10-32|Moroni 10:32-33]] — key passage
+- [[Helaman 3#^hel-3-35|Helaman 3:35]] — key passage
+- [[D&C 20#^dc-20-30|D&C 20:30-31]] — key passage
+- [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]] — key passage
+- [[D&C 74]] *(keyword match)*
+- [[Romans 3]] *(keyword match)*
+- [[Galatians 2]] *(keyword match)*
+- [[Numbers 19]] *(keyword match)*
+- [[2 Chronicles 30]] *(keyword match)*
+- [[James 2]] *(keyword match)*
+- [[Nehemiah 12]] *(keyword match)*
+- [[Leviticus 8]] *(keyword match)*
+- [[Hebrews 10]] *(keyword match)*
+- [[D&C 50]] *(keyword match)*
+- [[2 Chronicles 29]] *(keyword match)*
+- [[3 Nephi 19]] *(keyword match)*
+- [[Numbers 31]] *(keyword match)*
+- [[D&C 88]] *(keyword match)*
+- [[Helaman 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

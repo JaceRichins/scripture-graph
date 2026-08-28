@@ -23,7 +23,21 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[D&C 59#^dc-59-7|D&C 59:7]] — key passage
+- [[Alma 34#^alma-34-38|Alma 34:38]] — key passage
+- [[Psalm 100#^ps-100-4|Psalm 100:4]] — key passage
+- [[Luke 17#^luke-17-11|Luke 17:11-19]] — key passage
+- [[Mosiah 2#^mosiah-2-19|Mosiah 2:19-21]] — key passage
+- [[Psalm 100]]
+- [[Psalm 136]] *(keyword match)*
+- [[Nehemiah 12]] *(keyword match)*
+- [[1 Chronicles 16]] *(keyword match)*
+- [[Leviticus 7]] *(keyword match)*
+- [[Alma 26]] *(keyword match)*
+- [[D&C 59]]
+- [[Mosiah 2]]
+- [[Luke 17]]
+- [[Alma 34]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

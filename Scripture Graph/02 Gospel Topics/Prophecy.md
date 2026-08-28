@@ -23,7 +23,20 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Revelation 19#^rev-19-10|Revelation 19:10]] — key passage
+- [[2 Peter 1#^2pet-1-20|2 Peter 1:20-21]] — key passage
+- [[Jacob 4#^jacob-4-6|Jacob 4:6]] — key passage
+- [[Mosiah 5#^mosiah-5-3|Mosiah 5:3]] — key passage
+- [[Revelation 22]] *(keyword match)*
+- [[2 Peter 1]]
+- [[2 Nephi 25]] *(keyword match)*
+- [[Helaman 4]] *(keyword match)*
+- [[1 Nephi 19]] *(keyword match)*
+- [[2 Nephi 4]] *(keyword match)*
+- [[Revelation 19]]
+- [[Alma 30]] *(keyword match)*
+- [[Jacob 4]]
+- [[Mosiah 5]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

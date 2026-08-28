@@ -21,7 +21,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Alma 40#^alma-40-21|Alma 40:21-23]] — key passage
+- [[1 Corinthians 15#^1cor-15-20|1 Corinthians 15:20-22]] — key passage
+- [[John 20#^john-20-11|John 20:11-18]] — key passage
+- [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6-13]] — key passage
+- [[Alma 11#^alma-11-42|Alma 11:42-45]] — key passage
+- [[Alma 40]]
+- [[Mosiah 15]] *(keyword match)*
+- [[Mosiah 16]] *(keyword match)*
+- [[1 Corinthians 15]]
+- [[Matthew 22]] *(keyword match)*
+- [[Luke 20]] *(keyword match)*
+- [[Alma 12]] *(keyword match)*
+- [[Jacob 4]] *(keyword match)*
+- [[D&C 138]] *(keyword match)*
+- [[Helaman 14]] *(keyword match)*
+- [[Mark 12]] *(keyword match)*
+- [[D&C 76]] *(keyword match)*
+- [[2 Nephi 9]]
+- [[D&C 63]] *(keyword match)*
+- [[Alma 11]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

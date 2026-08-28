@@ -24,7 +24,26 @@ _Not yet developed._
 
 ## Scriptural Foundation
 <!-- SG:BEGIN scriptural-foundation -->
-_Not yet developed._
+- [[Ephesians 2#^eph-2-19|Ephesians 2:19-20]] — key passage
+- [[Luke 6#^luke-6-13|Luke 6:13-16]] — key passage
+- [[D&C 107#^dc-107-23|D&C 107:23]] — key passage
+- [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39-41]] — key passage
+- [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]] — key passage
+- [[Galatians 1]] *(keyword match)*
+- [[Acts 15]] *(keyword match)*
+- [[Acts 5]] *(keyword match)*
+- [[1 Nephi 12]] *(keyword match)*
+- [[D&C 95]] *(keyword match)*
+- [[D&C 102]] *(keyword match)*
+- [[Revelation 21]] *(keyword match)*
+- [[1 Nephi 13]]
+- [[D&C 107]]
+- [[D&C 112]] *(keyword match)*
+- [[Acts 4]] *(keyword match)*
+- [[1 Nephi 11]] *(keyword match)*
+- [[1 Corinthians 9]] *(keyword match)*
+- [[D&C 18]] *(keyword match)*
+- [[2 Corinthians 11]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference
