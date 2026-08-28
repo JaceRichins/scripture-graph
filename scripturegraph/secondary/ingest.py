@@ -20,6 +20,17 @@ ACTIVE_STATUSES = ("APPROVED", "CONDITIONAL")
 
 # ------------------------------------------------------------ node resolve
 
+# when a title matches several nodes ("Joseph Smith" is a person AND a Gospel
+# Library document), prefer the page a person actually studies on
+_PREFERRED_TYPES = ("chapter", "topic", "person", "place", "event", "doctrine",
+                    "evidence", "question", "practice")
+
+
+def _rank_node(row) -> int:
+    t = row["node_type"]
+    return _PREFERRED_TYPES.index(t) if t in _PREFERRED_TYPES else len(_PREFERRED_TYPES)
+
+
 def resolve_target(ctx: Ctx, name: str | None) -> str | None:
     """'Alma 36' → chapter:alma-36 · 'Faith' → topic:faith · else None."""
     if not name:
@@ -34,12 +45,19 @@ def resolve_target(ctx: Ctx, name: str | None) -> str | None:
         if row:
             return f"chapter:{cit.chapter_slug}"
     db = ctx.db()
-    row = db.execute("SELECT id FROM nodes WHERE title=?", (name,)).fetchone()
-    if row:
-        return row["id"]
-    row = db.execute(
-        "SELECT node_id FROM aliases WHERE alias=?", (name,)).fetchone()
-    return row["node_id"] if row else None
+    # title matches AND alias matches compete together — a person page whose
+    # canonical title is "Joseph Smith Jr." must beat a document titled
+    # "Joseph Smith" for the alias "Joseph Smith"
+    cands: list[tuple[int, int, str]] = []
+    for r in db.execute("SELECT id, node_type FROM nodes WHERE title=?", (name,)):
+        cands.append((_rank_node(r), 0, r["id"]))
+    for r in db.execute(
+            "SELECT n.id, n.node_type FROM aliases a JOIN nodes n ON n.id=a.node_id "
+            "WHERE a.alias=?", (name,)):
+        cands.append((_rank_node(r), 1, r["id"]))
+    if not cands:
+        return None
+    return min(cands)[2]
 
 
 def _ensure_node(ctx: Ctx, node_id: str, node_type: str, title: str,
@@ -212,6 +230,43 @@ def persist_analysis(ctx: Ctx, source: dict, item: dict, analysis: dict,
     return stats
 
 
+def relink_targets(ctx: Ctx) -> int:
+    """Re-point secitem 'discusses' edges (and segment node lists) that landed
+    on a non-preferred node when a studyable node shares the same title —
+    e.g. doc:… 'Joseph Smith' → person:… 'Joseph Smith'. Self-healing for
+    items ingested before a better target existed."""
+    db = ctx.db()
+    moved = 0
+    for e in db.execute(
+            "SELECT e.id, e.src, e.dst, n.title FROM edges e JOIN nodes n ON n.id=e.dst "
+            "WHERE e.src LIKE 'secitem:%' AND e.rel='discusses' "
+            "AND n.node_type NOT IN ({})".format(
+                ",".join(f"'{t}'" for t in _PREFERRED_TYPES))).fetchall():
+        better = resolve_target(ctx, e["title"])
+        if not better or better == e["dst"]:
+            continue
+        dup = db.execute("SELECT 1 FROM edges WHERE src=? AND dst=? AND rel='discusses'",
+                         (e["src"], better)).fetchone()
+        if dup:
+            db.execute("DELETE FROM edges WHERE id=?", (e["id"],))
+        else:
+            db.execute("UPDATE edges SET dst=?, updated_at=? WHERE id=?",
+                       (better, now_iso(), e["id"]))
+        iid = e["src"].split(":", 1)[1]
+        for seg in db.execute("SELECT id, nodes_json FROM sec_segments WHERE item_id=?",
+                              (iid,)).fetchall():
+            nodes = json.loads(seg["nodes_json"] or "[]")
+            if e["dst"] in nodes:
+                nodes = [better if n == e["dst"] else n for n in nodes]
+                db.execute("UPDATE sec_segments SET nodes_json=? WHERE id=?",
+                           (json.dumps(nodes), seg["id"]))
+        moved += 1
+    if moved:
+        db.commit()
+        ctx.log.info("sec.relinked", edges=moved)
+    return moved
+
+
 # --------------------------------------------------------------- nightly
 
 def _pick_items(ctx: Ctx, budget: int) -> list[dict]:
@@ -345,6 +400,7 @@ def secondary_weekly(ctx: Ctx) -> dict:
     registry.seed(ctx)
     stats: dict = {"rereviewed": 0, "discovery": {}, "failed_reset": 0}
     db = ctx.db()
+    stats["relinked"] = relink_targets(ctx)
     # failed items get one more chance next nightly
     cur = db.execute(
         "UPDATE sec_items SET status='discovered', verdict_reason=NULL "

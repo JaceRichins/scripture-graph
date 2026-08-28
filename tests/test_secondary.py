@@ -234,6 +234,42 @@ def test_resolve_target_scripture_and_nodes(imported_ctx):
     assert resolve_target(imported_ctx, "Completely Unknown Thing") is None
 
 
+def test_resolve_target_prefers_studyable_nodes(imported_ctx):
+    """Live bug 2026-08-28: 'Joseph Smith' hit a doc: node instead of the
+    person page (whose canonical title carries 'Jr.' with an alias)."""
+    db = imported_ctx.db()
+    db.execute("INSERT INTO nodes(id,node_type,title,created_at,updated_at) "
+               "VALUES ('doc:glib:x','document','Test Prophet','2026-01-01','2026-01-01')")
+    db.execute("INSERT INTO nodes(id,node_type,title,created_at,updated_at) "
+               "VALUES ('person:test-prophet-jr','person','Test Prophet Jr.',"
+               "'2026-01-01','2026-01-01')")
+    db.execute("INSERT INTO aliases(alias,node_id) VALUES ('Test Prophet','person:test-prophet-jr')")
+    db.commit()
+    # alias to the person page beats a title-exact document node
+    assert resolve_target(imported_ctx, "Test Prophet") == "person:test-prophet-jr"
+
+    # relink moves an already-stored edge to the better node
+    from scripturegraph.secondary.ingest import relink_targets
+    registry.seed(imported_ctx)
+    db.execute("INSERT INTO sec_items(item_id,source_id,title,status,created_at,updated_at) "
+               "VALUES ('re11nk000000','followhim','X','ingested','2026-01-01','2026-01-01')")
+    db.execute("INSERT INTO nodes(id,node_type,title,created_at,updated_at) "
+               "VALUES ('secitem:re11nk000000','sec-item','X','2026-01-01','2026-01-01')")
+    db.execute("INSERT INTO edges(src,dst,rel,status,provenance,created_at,updated_at) "
+               "VALUES ('secitem:re11nk000000','doc:glib:x','discusses','accepted',"
+               "'secitem:re11nk000000','2026-01-01','2026-01-01')")
+    db.execute("INSERT INTO sec_segments(item_id,label,summary,nodes_json) "
+               "VALUES ('re11nk000000','L','S','[\"doc:glib:x\"]')")
+    db.commit()
+    assert relink_targets(imported_ctx) == 1
+    row = db.execute("SELECT dst FROM edges WHERE src='secitem:re11nk000000' "
+                     "AND rel='discusses'").fetchone()
+    assert row["dst"] == "person:test-prophet-jr"
+    seg = db.execute("SELECT nodes_json FROM sec_segments "
+                     "WHERE item_id='re11nk000000'").fetchone()
+    assert json.loads(seg["nodes_json"]) == ["person:test-prophet-jr"]
+
+
 def test_persist_and_render(imported_ctx):
     ctx = imported_ctx
     registry.seed(ctx)
