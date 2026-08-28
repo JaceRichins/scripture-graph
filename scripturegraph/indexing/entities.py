@@ -36,7 +36,8 @@ TOPIC_SECTIONS = [("definition", "Definition"), ("doctrinal-summary", "Doctrinal
 
 
 def load_seed(name: str) -> list[dict]:
-    data = res.files("scripturegraph").joinpath(f"assets/seeds/{name}.json").read_text(encoding="utf-8")
+    data = res.files("scripturegraph").joinpath(f"assets/seeds/{name}.json") \
+        .read_text(encoding="utf-8-sig")
     return json.loads(data)
 
 

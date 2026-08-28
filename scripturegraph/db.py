@@ -262,7 +262,12 @@ CREATE TABLE IF NOT EXISTS response_cache (
 
 def connect(db_path: str | Path) -> sqlite3.Connection:
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(str(db_path), timeout=60)
+    # check_same_thread=False lets researcher worker threads hit the response
+    # cache; safe because CPython's sqlite3 is compiled serialized
+    # (threadsafety==3) — asserted here so a nonstandard build fails loudly
+    # instead of corrupting.
+    assert sqlite3.threadsafety == 3, "sqlite3 must be built serialized (threadsafety=3)"
+    conn = sqlite3.connect(str(db_path), timeout=60, check_same_thread=False)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA journal_mode=WAL")
     conn.execute("PRAGMA foreign_keys=ON")

@@ -428,8 +428,9 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
         report = validate_changed(ctx, [study_relpath(book, n), *applied["created"]])
         if report.fatal:
             raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))
-    except PatchViolation as e:
+    except Exception as e:  # noqa: BLE001 — ANY failure here must roll back BOTH stores
         gitops.hard_restore(ctx)
+        _rollback_job_outcomes(ctx, job_id)
         set_status("failed", {"error": str(e)})
         ctx.log.error("job.apply_failed", job=job_id, error=str(e))
         raise RuntimeError(f"{job_id}: apply failed and was rolled back: {e}") from e
@@ -445,6 +446,19 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
 
 
 # ------------------------------------------------------------------ helpers
+
+def _rollback_job_outcomes(ctx: Ctx, job_id: str) -> None:
+    """Compensating DB rollback when the write phase fails: this job's edges
+    are removed and its claims quarantined, so no later synthesis can render
+    outcomes whose files were rolled back. (The DB and the vault are separate
+    stores; this keeps them consistent without cross-store transactions.)"""
+    db = ctx.db()
+    db.execute("DELETE FROM edges WHERE provenance=?", (f"job:{job_id}",))
+    db.execute(
+        "UPDATE claims SET tier='QUARANTINE', updated_at=? "
+        "WHERE provenance_json LIKE ?", (now_iso(), f'%"{job_id}"%'))
+    db.commit()
+
 
 def _select_judge(ctx: Ctx, researchers: list[Provider], seq: int) -> Provider:
     want = ctx.c("pipeline.judge", "alternate")
@@ -514,9 +528,10 @@ def _persist_outcomes(ctx: Ctx, job_id: str, cslug: str, proposals: dict,
         db.execute(
             "INSERT INTO claims(id,node_id,claim_type,text,tier,scores_json,consensus,"
             "sources_json,provenance_json,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?,?) "
-            "ON CONFLICT(id) DO UPDATE SET tier=excluded.tier, scores_json=excluded.scores_json, "
-            "consensus=excluded.consensus, provenance_json=excluded.provenance_json, "
-            "updated_at=excluded.updated_at",
+            "ON CONFLICT(id) DO UPDATE SET claim_type=excluded.claim_type, "
+            "text=excluded.text, tier=excluded.tier, scores_json=excluded.scores_json, "
+            "consensus=excluded.consensus, sources_json=excluded.sources_json, "
+            "provenance_json=excluded.provenance_json, updated_at=excluded.updated_at",
             (uid, node_id, claim.get("type"), claim["text"], tier,
              json.dumps(scores), d.get("consensus_status") or ev.get("consensus_status"),
              json.dumps(claim.get("sources") or []), json.dumps(prov),

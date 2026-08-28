@@ -56,19 +56,43 @@ class PatchResult:
     violations: list[str]
 
 
-def _guard_target(ctx: Ctx, relpath: str) -> None:
-    relpath = relpath.replace("\\", "/")
-    if is_canonical_path(relpath):
-        raise PatchViolation(f"IMMUTABLE: refusing to touch canonical scripture: {relpath}")
-    if is_personal_path(relpath):
-        raise PatchViolation(f"PERSONAL: refusing to touch user-owned file: {relpath}")
-    row = ctx.db().execute("SELECT kind, managed_by FROM file_registry WHERE path=?",
-                           (relpath,)).fetchone()
+def _normalize_target(ctx: Ctx, relpath: str) -> str:
+    """Canonicalize an op's target path and refuse anything that could reach
+    outside the vault or dodge the ownership prefixes (absolute paths, '..',
+    case variants on Windows's case-insensitive filesystem, non-.md)."""
+    from pathlib import Path, PurePosixPath
+    rel = str(relpath).replace("\\", "/").strip()
+    if not rel or rel.startswith("/") or Path(rel).is_absolute() or ":" in rel.split("/")[0]:
+        raise PatchViolation(f"illegal target path (absolute): {relpath!r}")
+    parts = PurePosixPath(rel).parts
+    if any(p in ("..", ".") for p in parts):
+        raise PatchViolation(f"illegal target path (traversal): {relpath!r}")
+    if not rel.endswith(".md"):
+        raise PatchViolation(f"illegal target path (not .md): {relpath!r}")
+    resolved = (ctx.vault / rel).resolve()
+    vault_resolved = ctx.vault.resolve()
+    if not resolved.is_relative_to(vault_resolved):
+        raise PatchViolation(f"illegal target path (escapes vault): {relpath!r}")
+    if resolved.exists() and resolved.is_symlink():
+        raise PatchViolation(f"illegal target path (symlink): {relpath!r}")
+    return rel
+
+
+def _guard_target(ctx: Ctx, relpath: str) -> str:
+    rel = _normalize_target(ctx, relpath)
+    low = rel.lower()
+    if low.startswith("01 scriptures/canonical/"):
+        raise PatchViolation(f"IMMUTABLE: refusing to touch canonical scripture: {rel}")
+    if low.startswith("80 personal notes/"):
+        raise PatchViolation(f"PERSONAL: refusing to touch user-owned file: {rel}")
+    row = ctx.db().execute(
+        "SELECT kind, managed_by FROM file_registry WHERE lower(path)=?", (low,)).fetchone()
     if row is not None:
         if row["kind"] == "scripture":
-            raise PatchViolation(f"IMMUTABLE: {relpath} is canonical scripture")
+            raise PatchViolation(f"IMMUTABLE: {rel} is canonical scripture")
         if row["managed_by"] == "human":
-            raise PatchViolation(f"PERSONAL: {relpath} is human-managed")
+            raise PatchViolation(f"PERSONAL: {rel} is human-managed")
+    return rel
 
 
 def _load(ctx: Ctx, relpath: str) -> tuple[dict, str]:
@@ -95,21 +119,19 @@ def apply_ops(ctx: Ctx, ops: list[dict], actor: str) -> PatchResult:
     for op in ops:
         kind = op.get("op")
         if kind == "set_section":
-            relpath = op["path"].replace("\\", "/")
-            _guard_target(ctx, relpath)
+            relpath = _guard_target(ctx, op["path"])
             content = str(op.get("content", ""))
             if len(content.encode()) > MAX_SECTION_BYTES:
                 raise PatchViolation(f"section content too large ({relpath})")
             fm, body = _load(ctx, relpath)
             try:
                 body = md.set_section(body, op["section"], content)
-            except KeyError as e:
+            except (KeyError, ValueError) as e:
                 raise PatchViolation(str(e)) from e
             _store(ctx, relpath, fm, body)
             changed.append(relpath)
         elif kind == "set_fm_field":
-            relpath = op["path"].replace("\\", "/")
-            _guard_target(ctx, relpath)
+            relpath = _guard_target(ctx, op["path"])
             field = op["field"]
             if field not in FM_WHITELIST:
                 raise PatchViolation(f"frontmatter field not whitelisted: {field}")
@@ -118,8 +140,7 @@ def apply_ops(ctx: Ctx, ops: list[dict], actor: str) -> PatchResult:
             _store(ctx, relpath, fm, body)
             changed.append(relpath)
         elif kind == "add_alias":
-            relpath = op["path"].replace("\\", "/")
-            _guard_target(ctx, relpath)
+            relpath = _guard_target(ctx, op["path"])
             alias = str(op["alias"]).strip()
             if not alias or not is_legal_filename(sanitize_filename(alias)):
                 raise PatchViolation(f"illegal alias: {alias!r}")
@@ -156,8 +177,9 @@ def _create_note(ctx: Ctx, op: dict, actor: str) -> tuple[str, str]:
     if sub:
         sub = "/".join(sanitize_filename(part) for part in str(sub).split("/") if part)
         folder = f"{folder}/{sub}"
-    relpath = f"{folder}/{title}.md"
-    if is_canonical_path(relpath) or is_personal_path(relpath):
+    relpath = _normalize_target(ctx, f"{folder}/{title}.md")
+    low = relpath.lower()
+    if low.startswith(("01 scriptures/canonical/", "80 personal notes/", "00 system/")):
         raise PatchViolation(f"create_note outside allowed area: {relpath}")
     if (ctx.vault / relpath).exists():
         raise PatchViolation(f"note already exists (reuse it instead): {relpath}")

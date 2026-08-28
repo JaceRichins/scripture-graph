@@ -4,9 +4,13 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+aliases:
+- Joseph Smith
+- Joseph Smith Jr.
+- the Prophet Joseph
 ---
 
-# Joseph Smith Sr.
+# Joseph Smith Jr
 
 ## Overview
 <!-- SG:BEGIN overview -->

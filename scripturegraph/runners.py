@@ -67,7 +67,7 @@ def run_frequent(ctx: Ctx) -> dict:
         from scripturegraph.personal import index_personal_notes
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
-        stats["queue"] = ctx_process = _process(ctx, include_ai=False, max_items=800)
+        stats["queue"] = _process(ctx, include_ai=False, max_items=800)
         gitops.commit_all(ctx, "frequent: source scan + deterministic queue work")
         _finish_run(ctx, run_id, "ok", stats)
     except Exception as e:  # noqa: BLE001
@@ -92,6 +92,11 @@ def run_nightly(ctx: Ctx) -> dict:
         from scripturegraph.waves import enqueue_wave
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
+        # refresh every stale deterministic pass (no-ops when current):
+        # corpus growth re-opens them via corpus versioning, nightly closes them
+        for det in ("parallels", "embed", "semantic", "entities", "citations",
+                    "topics", "conference", "history", "synthesis", "topic-synthesis"):
+            enqueue_wave(ctx, det)
         budget = _ai_budget(ctx, "nightly_ai_jobs")
         stats["ai_budget"] = budget
         if budget:

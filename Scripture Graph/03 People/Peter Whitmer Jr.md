@@ -5,11 +5,10 @@ content_type: person
 cssclasses:
 - sg-person
 aliases:
-- Joseph Smith
-- the Prophet Joseph
+- Peter Whitmer Jr.
 ---
 
-# Joseph Smith Jr.
+# Peter Whitmer Jr
 
 ## Overview
 <!-- SG:BEGIN overview -->

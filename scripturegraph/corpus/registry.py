@@ -157,7 +157,8 @@ def _enqueue_affected(ctx: Ctx, changed_types: set[str]) -> None:
         for r in rows:
             q.enqueue(ctx, "pass", r["dst"].split(":", 1)[1], pass_name="conference",
                       priority=1.0)
-    # any corpus growth re-opens embed/semantic globally (cheap incremental)
+    # any corpus growth re-opens the global index passes (cheap incremental)
     q.enqueue(ctx, "pass", "__global__", pass_name="embed", priority=0.5)
     q.enqueue(ctx, "pass", "__global__", pass_name="semantic", priority=0.4)
+    q.enqueue(ctx, "pass", "__global__", pass_name="parallels", priority=0.4)
     ctx.db().commit()

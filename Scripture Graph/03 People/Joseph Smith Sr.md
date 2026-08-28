@@ -4,9 +4,11 @@ mutable: ai
 content_type: person
 cssclasses:
 - sg-person
+aliases:
+- Joseph Smith Sr.
 ---
 
-# Peter Whitmer Jr.
+# Joseph Smith Sr
 
 ## Overview
 <!-- SG:BEGIN overview -->

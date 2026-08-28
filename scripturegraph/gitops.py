@@ -51,10 +51,7 @@ def is_dirty(ctx: Ctx) -> bool:
     return bool(cp.stdout.strip())
 
 
-def commit_all(ctx: Ctx, message: str) -> str | None:
-    """Stage everything and commit. Returns new rev, or None if nothing changed."""
-    if not ctx.c("git.auto_commit", True):
-        return None
+def _commit(ctx: Ctx, message: str) -> str | None:
     ensure_repo(ctx)
     _git(ctx, "add", "-A")
     staged = _git(ctx, "diff", "--cached", "--name-only")
@@ -67,19 +64,54 @@ def commit_all(ctx: Ctx, message: str) -> str | None:
     return rev
 
 
+def commit_all(ctx: Ctx, message: str) -> str | None:
+    """Stage everything and commit (honors git.auto_commit config)."""
+    if not ctx.c("git.auto_commit", True):
+        return None
+    return _commit(ctx, message)
+
+
 def checkpoint(ctx: Ctx, label: str) -> str | None:
-    """Commit any pending drift (including user's own edits) before engine writes."""
-    return commit_all(ctx, f"checkpoint: {label}")
+    """Commit any pending drift (including user's own edits) before engine
+    writes. SAFETY SNAPSHOT — deliberately ignores git.auto_commit: without a
+    checkpoint, a later hard_restore could revert user work."""
+    return _commit(ctx, f"checkpoint: {label}")
+
+
+# personal subtree is excluded from restores: the engine never writes there
+# after scaffold creation, and a user may have edited it AFTER the checkpoint.
+_PERSONAL_EXCLUDE = f":(exclude){VAULT_DIRNAME}/80 Personal Notes"
+
+
+def _clear_readonly_tree(ctx: Ctx, sub: str) -> None:
+    import os
+    import stat
+    root = ctx.vault / sub
+    if not root.exists():
+        return
+    for p in root.rglob("*.md"):
+        try:
+            os.chmod(p, p.stat().st_mode | stat.S_IWRITE)
+        except OSError:
+            pass
 
 
 def hard_restore(ctx: Ctx) -> None:
-    """Restore the vault subtree to HEAD exactly (tracked + remove untracked).
-
-    Only the vault is touched; ignored files (database, logs, jobs) survive.
-    Always preceded by checkpoint(), so user edits are already committed.
-    """
+    """Restore the vault subtree (EXCEPT 80 Personal Notes) to HEAD exactly:
+    tracked files reverted, engine-created untracked files removed. Ignored
+    files (database, logs, jobs) survive. Raises if git cannot restore —
+    a silent half-rollback must never look like success."""
+    import os
+    import stat
     ensure_repo(ctx)
-    vault_rel = VAULT_DIRNAME
-    _git(ctx, "checkout", "--", vault_rel, check=False)
-    _git(ctx, "clean", "-fd", "--", vault_rel, check=False)
-    ctx.log.warn("git.hard_restore", scope=vault_rel)
+    _clear_readonly_tree(ctx, "01 Scriptures/Canonical")  # git can't overwrite RO
+    _git(ctx, "checkout", "--", VAULT_DIRNAME, _PERSONAL_EXCLUDE)
+    _git(ctx, "clean", "-fd", "--", VAULT_DIRNAME, _PERSONAL_EXCLUDE)
+    canonical = ctx.vault / "01 Scriptures" / "Canonical"
+    if canonical.exists():  # re-arm the best-effort read-only defense
+        for p in canonical.rglob("*.md"):
+            try:
+                os.chmod(p, p.stat().st_mode & ~stat.S_IWRITE)
+            except OSError:
+                pass
+    ctx.log.warn("git.hard_restore", scope=VAULT_DIRNAME, excluded="80 Personal Notes")

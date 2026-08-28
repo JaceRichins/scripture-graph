@@ -55,9 +55,9 @@ DEFAULTS: dict = {
     "embeddings": {"provider": "auto", "batch": 128},  # auto | hash | fastembed | openai
     "index": {
         "shingle_size": 5,
-        "shingle_df_cap": 60,          # drop shingles occurring in more verses than this
-        "min_shared_shingles": 2,      # verse-pair threshold
-        "strong_verse_shingles": 4,    # verse-pair "strong quote" threshold
+        "shingle_df_cap": 40,          # drop shingles occurring in more verses than this
+        "min_shared_shingles": 3,      # verse-pair threshold (2 caught KJV formulas)
+        "strong_verse_shingles": 5,    # verse-pair "strong quote" threshold
         "chapter_pair_min_verses": 2,  # chapter-pair needs this many linked verses …
     },
     "links": {
