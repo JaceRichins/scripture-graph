@@ -62,6 +62,22 @@ def _ps_wrapper(script: Path) -> str:
             f'-File "{script}"')
 
 
+def _apply_power_settings(task_name: str) -> bool:
+    """schtasks cannot set battery behavior; by default tasks refuse to start
+    on battery and are KILLED when the machine unplugs (which orphans the
+    engine process). Patch the settings via PowerShell: run on battery, never
+    stop on power transitions, catch up missed starts, 12h hard limit."""
+    ps = (
+        "$s = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries "
+        "-DontStopIfGoingOnBatteries -StartWhenAvailable "
+        "-ExecutionTimeLimit (New-TimeSpan -Hours 12); "
+        f"Set-ScheduledTask -TaskName '{task_name}' -Settings $s | Out-Null")
+    cp = subprocess.run(
+        ["powershell.exe", "-NoProfile", "-NonInteractive", "-Command", ps],
+        capture_output=True, text=True, creationflags=_CREATE_NO_WINDOW, timeout=60)
+    return cp.returncode == 0
+
+
 def install(ctx: Ctx) -> dict:
     write_runner_scripts(ctx)
     sched = ctx.cfg.get("scheduler", {})
@@ -76,8 +92,10 @@ def install(ctx: Ctx) -> dict:
         cp = _schtasks("/Create", "/F", "/TN", task_name,
                        "/TR", _ps_wrapper(_script_path(ctx, kind)), *specs[kind])
         ok = cp.returncode == 0
-        results[task_name] = "installed" if ok else f"FAILED: {cp.stderr.strip()[:200]}"
-        ctx.log.info("scheduler.install", task=task_name, ok=ok)
+        power_ok = _apply_power_settings(task_name) if ok else False
+        results[task_name] = ("installed" if ok else f"FAILED: {cp.stderr.strip()[:200]}") \
+            + ("" if power_ok or not ok else " (power settings NOT applied)")
+        ctx.log.info("scheduler.install", task=task_name, ok=ok, power_settings=power_ok)
     return results
 
 
