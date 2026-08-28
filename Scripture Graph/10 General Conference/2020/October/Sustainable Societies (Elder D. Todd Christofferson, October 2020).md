@@ -7,16 +7,104 @@ year: '2020'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2020/10/22christofferson?lang=eng
 doc_id: talk:2020-october-sustainable-societies
+full_text: true
 ---
 
 # Sustainable Societies
 
-**Speaker:** Elder D. Todd Christofferson · **Conference:** October 2020
-**Source:** https://www.churchofjesuschrist.org/general-conference/2020/10/22christofferson?lang=eng
+**Speaker:** Elder D. Todd Christofferson · **Conference:** October 2020 · [source](https://www.churchofjesuschrist.org/general-conference/2020/10/22christofferson?lang=eng)
 
-> Sustainable Societies  By Elder D. Todd Christofferson  Of the Quorum of the Twelve Apostles  If enough of us and enough of our neighbors strive to guide our lives by the truth of God, the moral virtues needed in every society will abound.  What a beautiful choir singing of the beautiful Savior.  In 2015 the United Nations adopted what was called “The 2030 Agenda for Sustainable Development.” It …
+If enough of us and enough of our neighbors strive to guide our lives by the truth of God, the moral virtues needed in every society will abound.
 
-## Explicit scripture citations
+In 2015 the United Nations adopted what was called “The 2030 Agenda for Sustainable Development.” It was described as “a shared blueprint for peace and prosperity for people and the planet, now and into the future.” The Agenda for Sustainable Development includes 17 goals to be achieved by the year 2030, such as no poverty, zero hunger, quality education, gender equality, clean water and sanitation, and decent work.
+
+The concept of sustainable development is an interesting and important one. Even more urgent, however, is the broader question of sustainable societies. What are the fundamentals that sustain a flourishing society, one that promotes happiness, progress, peace, and well-being among its members? We have scriptural record of at least two such thriving societies. What can we learn from them?
+
+Anciently, the great patriarch and prophet Enoch preached righteousness and “built a city that was called the City of Holiness, even Zion.” It is reported that “the Lord called his people Zion, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them.”
+
+“And the Lord blessed the land, and they were blessed upon the mountains, and upon the high places, and did flourish.”
+
+The first- and second-century peoples in the Western Hemisphere known as Nephites and Lamanites provide another outstanding example of a flourishing society. Following the resurrected Savior’s remarkable ministry among them, “they did walk after the commandments which they had received from their Lord and their God, continuing in fasting and prayer, and in meeting together oft both to pray and to hear the word of the Lord. …
+
+“And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor lyings, nor murders, nor any manner of lasciviousness; and surely there could not be a happier people among all the people who had been created by the hand of God.”
+
+The societies in these two examples were sustained by the blessings of heaven growing out of their exemplary devotion to the two great commandments: “Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and “Thou shalt love thy neighbour as thyself.” They were obedient to God in their personal lives, and they looked after one another’s physical and spiritual welfare. In the words of the Doctrine and Covenants, these were societies with “every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God.”
+
+Unfortunately, as Elder Quentin L. Cook noted this morning, the ideal society described in 4 Nephi of the Book of Mormon did not endure beyond its second century. Sustainability is not guaranteed, and a thriving society can fail in time if it abandons the cardinal virtues that uphold its peace and prosperity. In this case, yielding to the temptations of the devil, the people “began to be divided into classes; and they began to build up churches unto themselves to get gain, and began to deny the true church of Christ.”
+
+“And it came to pass that when three hundred years had passed away, both the people of Nephi and the Lamanites had become exceedingly wicked one like unto another.”
+
+By the end of another century, millions had died in internecine warfare, and their once harmonious nation had been reduced to warring tribes.
+
+Reflecting on this and other examples of once flourishing societies that later foundered, I think it safe to say that when people turn from a sense of accountability to God and begin to trust instead in the “arm of flesh,” disaster lurks. Trusting in the arm of flesh is to ignore the divine Author of human rights and human dignity and to give highest priority to riches, power, and the praise of the world (while often mocking and persecuting those who follow a different standard). Meanwhile, those in sustainable societies are seeking, as King Benjamin said, to “grow in the knowledge of the glory of him that created [them], or in the knowledge of that which is just and true.”
+
+The institutions of family and religion have been crucial for endowing both individuals and communities with the virtues that sustain an enduring society. These virtues, rooted in scripture, include integrity, responsibility and accountability, compassion, marriage and fidelity in marriage, respect for others and the property of others, service, and the necessity and dignity of work, among others.
+
+Editor-at-large Gerard Baker wrote a column earlier this year in the Wall Street Journal honoring his father, Frederick Baker, on the occasion of his father’s 100th birthday. Baker speculated about the reasons for his father’s longevity but then added these thoughts:
+
+“While we may all want to know the secret to a long life, I often feel we’d be better off devoting more time to figuring out what makes a good life, whatever span we’re allotted. Here, I’m confident I know my father’s secret.
+
+“He is from an era when life was defined primarily by duty, not by entitlement; by social responsibilities, not personal privileges. The primary animating principle throughout his century has been a sense of obligation—to family, God, country.
+
+“In an era dominated by the detritus of broken families, my father was a devoted husband to his wife of 46 years, a dutiful father to six children. He was never more present and vital than when my parents suffered the unthinkable tragedy of losing a child. …
+
+“And in an era when religion is increasingly a curiosity, my father has lived as a true, faithful Catholic, with an unshakable belief in the promises of Christ. Indeed, I sometimes think he has lived so long because he is better prepared than anyone I have ever met to die.
+
+“I have been a fortunate man—blessed by a good education, my own wonderful family, some worldly success I didn’t deserve. But however proud and grateful I feel, it’s eclipsed by the pride and gratitude I have for the man who, without fuss or drama, without expectation of reward or even acknowledgment, has got on—for a century now—with the simple duties, obligations and, ultimately, joys of living a virtuous life.”
+
+The perceived importance of religion and religious faith has declined in many nations in recent years. A growing number of people consider that belief in and allegiance to God are not needed for moral uprightness in either individuals or societies in today’s world. I think we would all agree that those who profess no religious belief can be, and often are, good, moral people. We would not agree, however, that this happens without divine influence. I am referring to the Light of Christ. The Savior declared, “I am the true light that lighteth every man that cometh into the world.” Whether aware of it or not, every man, woman, and child of every belief, place, and time is imbued with the Light of Christ and therefore possesses the sense of right and wrong we often call conscience.
+
+Nevertheless, when secularization separates personal and civic virtue from a sense of accountability to God, it cuts the plant from its roots. Reliance on culture and tradition alone will not be sufficient to sustain virtue in society. When one has no higher god than himself and seeks no greater good than satisfying his own appetites and preferences, the effects will be manifest in due course.
+
+A society, for example, in which individual consent is the only constraint on sexual activity is a society in decay. Adultery, promiscuity, out-of-wedlock births, and elective abortions are but some of the bitter fruits that grow out of the ongoing sexual revolution. Follow-on consequences that work against sustainability of a healthy society include growing numbers of children raised in poverty and without the positive influence of fathers, sometimes through multiple generations; women bearing alone what should be shared responsibilities; and seriously deficient education as schools, like other institutions, are tasked to compensate for failure in the home. Added to these social pathologies are the incalculable instances of individual heartbreak and despair—mental and emotional destruction visited upon both the guilty and the innocent.
+
+“Wo be unto him that hearkeneth unto the precepts of men, and denieth the power of God, and the gift of the Holy Ghost! …
+
+“… Wo unto all those who tremble, and are angry because of the truth of God!”
+
+In contrast, our joyous message to our children and to all humanity is that “the truth of God” points a better way, or as Paul said, “a more excellent way,” a way to personal happiness and community well-being now and to everlasting peace and joy hereafter.
+
+The truth of God refers to the core truths that underlie His plan of happiness for His children. These truths are that God lives; that He is the Heavenly Father of our spirits; that as a manifestation of His love, He has given us commandments that lead to a fulness of joy with Him; that Jesus Christ is the Son of God and our Redeemer; that He suffered and died to atone for sins on condition of our repentance; that He rose from the dead, bringing to pass the Resurrection of all humankind; and that we will all stand before Him to be judged, that is, to account for our lives.
+
+Nine years into what was called “the reign of the judges” in the Book of Mormon, the prophet Alma resigned his position as chief judge to give full time to his leadership of the Church. His purpose was to address the pride, persecution, and greed that were growing among the people and particularly among members of the Church. As Elder Stephen D. Nadauld once observed, “[Alma’s] inspired decision was not to spend more time trying to make and enforce more rules to correct the behavior of his people, but to speak to them of the word of God, to teach the doctrine and have their understanding of the plan of redemption lead them to change their behavior.”
+
+There is much we can do as neighbors and fellow citizens to contribute to the sustainability and success of the societies we live in, and surely our most fundamental and enduring service will be to teach and live by the truths inherent in God’s great plan of redemption. As expressed in the words of the hymn:
+
+If enough of us and enough of our neighbors strive to make our decisions and guide our lives by the truth of God, the moral virtues needed in every society will abound.
+
+In His love, our Heavenly Father gave His Only Begotten Son, Jesus Christ, that we might have everlasting life.
+
+“[Jesus Christ] doeth not anything save it be for the benefit of the world; for he loveth the world, even that he layeth down his own life that he may draw all men unto him. Wherefore, he commandeth none that they shall not partake of his salvation.
+
+“Behold, doth he cry unto any, saying: Depart from me? Behold, I say unto you, Nay; but he saith: Come unto me all ye ends of the earth, buy milk and honey, without money and without price.”
+
+This we declare “in solemnity of heart, in the spirit of meekness,” and in the name of Jesus Christ, amen.
+
+See “The 17 Goals,” United Nations Department of Economic and Social Affairs website, sdgs.un.org/goals.
+
+Gerard Baker, “A Man for All Seasons at 100,” Wall Street Journal, Feb. 21, 2020, wsj.com.
+
+See Ronald F. Inglehart, “Giving Up on God: The Global Decline of Religion,” Foreign Affairs, Sept./Oct. 2020, foreignaffairs.com; see also Christine Tamir, Aidan Connaughton, and Ariana Monique Salazar, “The Global God Divide,” Pew Research Center, July 20, 2020, especially infographic “Majorities in Emerging Economies Connect Belief in God and Morality,” pewresearch.org.
+
+See Boyd K. Packer, “The Light of Christ,” Ensign or Liahona, Apr. 2005, 10; see also D. Todd Christofferson, “Truth Endures,” Religious Educator, vol. 19, no. 3 (2018), 6.
+
+In giving this example, I am speaking of potential adverse consequences to children as “bitter fruit” and not of the children themselves. Every child of God is precious, and every life has priceless value regardless of the circumstances of birth.
+
+See, for example, Pew Research Center, “The Changing Profile of Unmarried Parents,” Apr. 25, 2018, pewsocialtrends.org; Mindy E. Scott and others, “5 Ways Fathers Matter,” June 15, 2016, childtrends.org; and Robert Crosnoe and Elizabeth Wildsmith, “Nonmarital Fertility, Family Structure, and the Early School Achievement of Young Children from Different Race/Ethnic and Immigration Groups,” Applied Developmental Science, vol. 15, no. 3 (July–Sept. 2011), 156–70.
+
+Stephen D. Nadauld, Principles of Priesthood Leadership (1999), 13; see also Alma 31:5.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "144618867", "context": "", "text": " See “The 17 Goals,” United Nations Department of Economic and Social Affairs website, sdgs.un.org/goals. "}, "note2": {"id": "note2", "marker": "2.", "pid": "144618873", "context": "", "text": " Moses 7:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p19#p19", "text": "Moses 7:19"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "144618873", "context": "", "text": " Moses 7:18. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p18#p18", "text": "Moses 7:18"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "144618875", "context": "", "text": " Moses 7:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p17#p17", "text": "Moses 7:17"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "144618880", "context": "", "text": " 4 Nephi 1:12, 16. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/4-ne/1?lang=eng&id=p12%2Cp16#p12", "text": "4 Nephi 1:12, 16"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "144618882", "context": "", "text": " Matthew 22:37, 39. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/22?lang=eng&id=p37%2Cp39#p37", "text": "Matthew 22:37, 39"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "144618882", "context": "", "text": " Doctrine and Covenants 82:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/82?lang=eng&id=p19#p19", "text": "Doctrine and Covenants 82:19"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "144618884", "context": "", "text": " 4 Nephi 1:26.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/4-ne/1?lang=eng&id=p26#p26", "text": "4 Nephi 1:26"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "144618885", "context": "", "text": " 4 Nephi 1:45. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/4-ne/1?lang=eng&id=p45#p45", "text": "4 Nephi 1:45"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "144618891", "context": "", "text": " Mosiah 4:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/4?lang=eng&id=p12#p12", "text": "Mosiah 4:12"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "144618908", "context": "", "text": " Gerard Baker, “A Man for All Seasons at 100,” Wall Street Journal, Feb. 21, 2020, wsj.com. "}, "note12": {"id": "note12", "marker": "12.", "pid": "144618910", "context": "", "text": " See Ronald F. Inglehart, “Giving Up on God: The Global Decline of Religion,” Foreign Affairs, Sept./Oct. 2020, foreignaffairs.com; see also Christine Tamir, Aidan Connaughton, and Ariana Monique Salazar, “The Global God Divide,” Pew Research Center, July 20, 2020, especially infographic “Majorities in Emerging Economies Connect Belief in God and Morality,” pewresearch.org. "}, "note13": {"id": "note13", "marker": "13.", "pid": "144618910", "context": "", "text": " Doctrine and Covenants 93:2; see also Moroni 7:16, 19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/93?lang=eng&id=p2#p2", "text": "Doctrine and Covenants 93:2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng&id=p16%2Cp19#p16", "text": "Moroni 7:16, 19"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "144618910", "context": "", "text": " See Boyd K.
+
+Packer, “The Light of Christ,” Ensign or Liahona, Apr. 2005, 10; see also D. Todd Christofferson, “Truth Endures,” Religious Educator, vol. 19, no. 3 (2018), 6. ", "referenceUris": [{"type": "cross-ref", "href": "/study/ensign/2005/04/the-light-of-christ?lang=eng", "text": "The Light of Christ"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "144618914", "context": "", "text": " In giving this example, I am speaking of potential adverse consequences to children as “bitter fruit” and not of the children themselves. Every child of God is precious, and every life has priceless value regardless of the circumstances of birth. "}, "note16": {"id": "note16", "marker": "16.", "pid": "144618914", "context": "", "text": " See, for example, Pew Research Center, “The Changing Profile of Unmarried Parents,” Apr. 25, 2018, pewsocialtrends.org; Mindy E. Scott and others, “5 Ways Fathers Matter,” June 15, 2016, childtrends.org; and Robert Crosnoe and Elizabeth Wildsmith, “Nonmarital Fertility, Family Structure, and the Early School Achievement of Young Children from Different Race/Ethnic and Immigration Groups,” Applied Developmental Science, vol. 15, no. 3 (July–Sept. 2011), 156–70. "}, "note17": {"id": "note17", "marker": "17.", "pid": "144618920", "context": "", "text": " 2 Nephi 28:26, 28. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/28?lang=eng&id=p26%2Cp28#p26", "text": "2 Nephi 28:26, 28"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "144618922", "context": "", "text": " 1 Corinthians 12:31.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/12?lang=eng&id=p31#p31", "text": "1 Corinthians 12:31"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "144618926", "context": "", "text": " See Alma 33:22. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/33?lang=eng&id=p22#p22", "text": "Alma 33:22"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "144618929", "context": "", "text": " See Alma 4:6–19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/4?lang=eng&id=p6-p19#p6", "text": "Alma 4:6–19"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "144618929", "context": "", "text": " Stephen D. Nadauld, Principles of Priesthood Leadership (1999), 13; see also Alma 31:5. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/31?lang=eng&id=p5#p5", "text": "Alma 31:5"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "144618942", "context": "", "text": " “Faith of Our Fathers,” Hymns, no. 84. "}, "note23": {"id": "note23", "marker": "23.", "pid": "144618949", "context": "", "text": " See John 3:16. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/3?lang=eng&id=p16#p16", "text": "John 3:16"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "144618955", "context": "", "text": " 2 Nephi 26:24–25; see also 2 Nephi 26:33.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p24-p25#p24", "text": "2 Nephi 26:24–25"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33", "text": "2 Nephi 26:33"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "144618958", "context": "", "text": " Doctrine and Covenants 100:7. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/100?lang=eng&id=p7#p7", "text": "Doctrine and Covenants 100:7"}]}}
+
+## Scripture citations in this talk
 
 - [[Moses 7]] (9×)
 - [[4 Nephi 1]] (9×)

@@ -43,10 +43,15 @@ and every source row carries its authority category.
   Lucy Mack Smith's 1853 history — bulk-downloaded once (`sg fetch history`)
   into the local index (OCR text; treat reported sermons as contemporaneous
   reports, not verbatim transcripts).
-- **Copyrighted texts stay in the private index.** Imported copyrighted
-  material (e.g. conference talks you drop in) is chunked into the local
-  database for search and connections; vault notes carry metadata, relationships, and
-  brief excerpts (≤ ~100 words), never full reproductions.
+- **Full text for personal study — and this vault stays PRIVATE.** Church-
+  published study material (conference talks, Gospel Topics, essays, Saints…)
+  is stored in full BOTH in the local index and in vault reading notes, the
+  same way Gospel Library stores it offline on your device — that is the
+  personal, noncommercial use the terms permit. The corresponding duty:
+  **never publish, push publicly, or share this vault while it contains that
+  text.** Anything redistributed OUT of the vault must drop to metadata +
+  brief excerpts. (Oversized OCR volumes keep excerpt-only notes with full
+  text in the index.)
 - **Reference records are always allowed.** Title/author/date/URL + AI
   summary + relationships can represent any source that cannot be stored.
 

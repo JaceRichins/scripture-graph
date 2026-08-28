@@ -7,16 +7,144 @@ year: '2020'
 month: April
 url: https://www.churchofjesuschrist.org/general-conference/2020/04/52cook?lang=eng
 doc_id: talk:2020-april-the-blessing-of-continuing-revelation-to-prophets-and-personal-revela
+full_text: true
 ---
 
 # The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives
 
-**Speaker:** Elder Quentin L. Cook · **Conference:** April 2020
-**Source:** https://www.churchofjesuschrist.org/general-conference/2020/04/52cook?lang=eng
+**Speaker:** Elder Quentin L. Cook · **Conference:** April 2020 · [source](https://www.churchofjesuschrist.org/general-conference/2020/04/52cook?lang=eng)
 
-> The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives  By Elder Quentin L. Cook  Of the Quorum of the Twelve Apostles  Continuous revelation has been received and is being received through channels the Lord has established.  Today I will speak on continuing revelation to prophets and continuing personal revelation to guide our lives.  Sometimes we receive re…
+The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives
 
-## Explicit scripture citations
+Continuous revelation has been received and is being received through channels the Lord has established.
+
+Today I will speak on continuing revelation to prophets and continuing personal revelation to guide our lives.
+
+Sometimes we receive revelation even when we do not know the Lord’s purposes. Shortly before Elder Jeffrey R. Holland was called to be an Apostle in June of 1994, I had a beautiful revelatory experience that he would be called. I was a regional representative and could see no reason I would be given that knowledge. But we were companions as young missionaries in England in the early 1960s, and I had a great love for him. I considered the experience a tender mercy for me. In recent years, I have wondered if the Lord was preparing me to be junior in the Twelve to an incredible missionary companion who was my junior companion when we were young missionaries. I sometimes warn young missionaries to be kind to their junior companions because they never know when they might be their senior companion.
+
+I have a firm testimony that this restored Church is led by our Savior, Jesus Christ. He knows whom to call as His Apostles and in what order to call them. He also knows how to prepare His senior Apostle to be the prophet and President of the Church.
+
+We were blessed this morning to hear our beloved prophet, President Russell M. Nelson, deliver a profound bicentennial proclamation to the world with respect to the Restoration of the fulness of the gospel of Jesus Christ. This seminal declaration by President Nelson has made it clear that the Church of Jesus Christ owes its origin, existence, and direction for the future to the principle of continuous revelation. The new proclamation represents a loving Father’s communication to His children.
+
+In an earlier day, President Spencer W. Kimball expressed the feelings I have today. He stated: “Of all things, that … we should be most grateful [for] is that the heavens are indeed open and that the restored church of Jesus Christ is founded upon the rock of revelation. Continuous revelation is indeed the very lifeblood of the gospel of the living Lord and Savior, Jesus Christ.”
+
+The prophet Enoch foresaw the days in which we live. The Lord acknowledged to Enoch the great wickedness that would prevail and prophesied of the “great tribulations” that would occur. Nevertheless, the Lord promised, “But my people will I preserve.” “And righteousness will I send down out of heaven; and truth will I send forth out of the earth, to bear testimony of mine Only Begotten.”
+
+President Ezra Taft Benson taught with great power that the Book of Mormon, the keystone of our religion, came forth out of the earth in fulfillment of the Lord’s pronouncement to Enoch. The Father and the Son and angels and prophets appearing to the Prophet Joseph Smith were “directed by heaven to restore the necessary powers to the kingdom.”
+
+The Prophet Joseph Smith received revelation after revelation. Some have been addressed during this conference. Many revelations received by the Prophet Joseph have been preserved for us in the Doctrine and Covenants. All the standard works of the Church contain the mind and will of the Lord for us in this last dispensation.
+
+In addition to these great foundational scriptures, we are blessed with continuing revelation to living prophets. Prophets are “commissioned agents of the Lord, authorized to speak for Him.”
+
+Some revelations are of monumental importance, and others enhance our understanding of essential divine truths and provide guidance for our day.
+
+We are incredibly grateful for the revelation to President Spencer W. Kimball extending priesthood and temple blessings to all worthy male members of the Church in June 1978.
+
+I have served with many of the Twelve who were present and participated when that precious revelation was received. Each of them, in personal conversations, confirmed the powerful and uniting spiritual guidance President Kimball and they had experienced. Many said it was the most powerful revelation they had received before or after that time.
+
+Those of us currently serving in the Quorum of the Twelve Apostles have been blessed in our day as significant revelations have come through recent prophets. President Russell M. Nelson has been a commissioned agent of the Lord especially with respect to revelations to help families build sanctuaries of faith in their homes, gather scattered Israel on both sides of the veil, and bless endowed members in sacred temple ordinance matters.
+
+When important changes to bless our homes were announced at the October 2018 general conference, I testified “that in the deliberations of the Council of the First Presidency and Quorum of the Twelve Apostles in the temple, … after our beloved prophet petitioned the Lord for revelation … , a powerful confirmation was received by all.”
+
+At that time, other revelations relating to sacred temple ordinances had been received but not announced or implemented. This guidance commenced with individual prophetic revelation to President Russell M. Nelson and tender and powerful confirmation to those participating in the process. President Nelson specifically involved the sisters who preside over the Relief Society, Young Women, and Primary organizations. The final guidance, in the temple, to the First Presidency and Quorum of the Twelve Apostles was profoundly spiritual and powerful. We each knew we had received the mind, will, and voice of the Lord.
+
+I declare with all solemnity that continuous revelation has been received and is being received through channels the Lord has established. I testify the new proclamation President Nelson delivered this morning is a revelation to bless all people.
+
+We also declare our heartfelt desire to be reunited with those who have been struggling with their testimonies, been less active, or had their names removed from Church records. We desire to feast with you “upon the words of Christ” at the Lord’s table, to learn the things we all should do. We need you! The Church needs you! The Lord needs you! Our heartfelt prayer is that you will join with us in worshipping the Savior of the world. We know that some of you may have received offense, unkindness, or other conduct that is not Christlike. We also know that some have had challenges to their faith that may not be fully appreciated, understood, or resolved.
+
+Some of our most stalwart and faithful members have suffered a challenge to their faith for a season. I love the true account of W. W. Phelps, who had forsaken the Church and testified against the Prophet Joseph Smith in a Missouri court. After repenting, he wrote to Joseph, “I know my situation, you know it, and God knows it, and I want to be saved if my friends will help me.” Joseph did forgive him, put him back to work, and lovingly wrote, “Friends at first are friends again at last.”
+
+Brothers and sisters, regardless of your situation, please know that the Church and its members will welcome you back!
+
+Personal revelation is available to all those who humbly seek guidance from the Lord. It is as important as prophetic revelation. Personal, spiritual revelation from the Holy Ghost has resulted in millions receiving the testimony necessary to be baptized and confirmed members of The Church of Jesus Christ of Latter-day Saints.
+
+Personal revelation is the profound blessing received following baptism when we are “sanctified by the reception of the Holy Ghost.” I can remember a special spiritual revelation when I was 15 years old. My precious brother was seeking guidance from the Lord as to how to respond to our dear father, who did not want my brother to serve a mission. I prayed with sincere intent too and received personal revelation of the truthfulness of the gospel.
+
+Personal revelation is based on spiritual truths received from the Holy Ghost. The Holy Ghost is the revealer and testifier of all truth, especially that of the Savior. Without the Holy Ghost, we could not really know that Jesus is the Christ. His seminal role is to bear witness of the Father and the Son and Their titles and Their glory.
+
+The Holy Ghost can influence everyone in a powerful way. This influence will not be constant unless one is baptized and receives the gift of the Holy Ghost. The Holy Ghost serves also as a cleansing agent in the process of repentance and forgiveness.
+
+The Spirit communicates in marvelous ways. The Lord used this beautiful description:
+
+“I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart.
+
+Although its impact can be incredibly powerful, it most often comes quietly as a still, small voice. The scriptures include many examples of how the Spirit influences our minds, including speaking peace to our minds, occupying our minds, enlightening our minds, and even sending a voice to our minds.
+
+Some principles that prepare us to receive revelation include:
+
+Praying for spiritual guidance. Reverently and humbly we need to seek and ask and be patient and submissive.
+
+Preparing for inspiration. This requires that we be in harmony with the Lord’s teachings and in compliance with His commandments.
+
+Partaking of the sacrament worthily. When we do this, we witness and covenant with God that we take upon ourselves the name of His holy Son and that we remember Him and keep His commandments.
+
+These principles prepare us to receive, recognize, and follow the prompting and guidance of the Holy Ghost. This includes the “peaceable things … which bringeth joy [and] … life eternal.”
+
+Our spiritual preparation is greatly enhanced when we regularly study the scriptures and truths of the gospel and ponder in our minds the guidance we seek. But remember to be patient and trust in the Lord’s timing. Guidance is given by an omniscient Lord when He “deliberately chooses to school us.”
+
+The Holy Ghost will also provide revelation in our callings and assignments. In my experience, significant spiritual guidance most often comes when we are trying to bless others in fulfilling our responsibilities.
+
+I can remember as a young bishop receiving a desperate call from a married couple a short time before I was to catch an airplane for a business engagement. I pled with the Lord before their arrival to know how I could bless them. It was revealed to me the nature of the problem and the response I should give. That revelatory guidance allowed me to fulfill the sacred responsibilities of my calling as bishop despite very limited availability of time. Bishops all over the world also share these same kinds of experiences with me. As a stake president, I not only received important revelation but also received personal correction that was necessary to accomplish the Lord’s purposes.
+
+I assure you that revelatory guidance can be received by each of us as we humbly labor in the Lord’s vineyard. Most of our guidance comes from the Holy Ghost. Sometimes and for some purposes, it comes directly from the Lord. I personally testify that this is true. Guidance for the Church, as a whole, comes to the President and prophet of the Church.
+
+We, as modern Apostles, have had the privilege of working and traveling with our current prophet, President Nelson. I paraphrase what Wilford Woodruff said about the Prophet Joseph Smith; it is equally true of President Nelson. I have seen “the workings of the Spirit of God with him, and the revelations of Jesus Christ unto him and the fulfillment of those revelations.”
+
+My humble plea today is that each of us will seek continuing revelation to guide our lives and follow the Spirit as we worship God the Father in the name of our Savior, Jesus Christ, of whom I bear witness in the name of Jesus Christ, amen.
+
+In 1960 when the age for missionary service for young men was reduced from 20 to 19 years of age, I was one of the last 20-year-olds; Elder Jeffrey R. Holland was one of the first 19-year-olds.
+
+See “The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World,” in Russell M. Nelson, “Hear Him,” Ensign or Liahona, May 2020, 91–92. This proclamation joins with five others that have been delivered in this dispensation by the First Presidency and the Quorum of the Twelve Apostles.
+
+Teachings of Presidents of the Church: Spencer W. Kimball (2006), 243; see also Matthew 16:13–19.
+
+Moses 7:62. The Lord continued, “And righteousness and truth will I cause to sweep the earth as with a flood, to gather out mine elect from the four quarters of the earth” (Moses 7:62; see also Psalm 85:11).
+
+Ezra Taft Benson, “The Gift of Modern Revelation,” Ensign, Nov. 1986, 80.
+
+Hugh B. Brown, “Joseph Smith among the Prophets” (Sixteenth Annual Joseph Smith Memorial Sermon, Logan Institute of Religion, Dec. 7, 1958), 7.
+
+See Hugh B. Brown, “Joseph Smith among the Prophets,” 7. In all cases, the revelations are in harmony with the word of God given to previous prophets.
+
+See Official Declaration 2; see also 2 Nephi 26:33. The revelation implemented doctrine set forth in the Book of Mormon that “all are alike unto God,” including “black and white, bond and free, male and female” (2 Nephi 26:33). This remarkable revelation was received and confirmed in the sacred upper room of the Salt Lake Temple by the Council of the First Presidency and Quorum of the Twelve Apostles.
+
+Many of the Apostles indicated that the revelation was so powerful and so sacred that any words used to describe it would be insufficient and, in some ways, would diminish the deep and powerful nature of the revelation.
+
+See “The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145. This proclamation was announced by President Gordon B. Hinckley at the general Relief Society meeting held on September 23, 1995, in Salt Lake City, Utah. See also Thomas S. Monson, “Welcome to Conference,” Ensign or Liahona, Nov. 2012, 4–5. President Monson announced a lower age requirement for missionary service.
+
+Quentin L. Cook, “Deep and Lasting Conversion to Heavenly Father and the Lord Jesus Christ,” Ensign or Liahona, Nov. 2018, 11.
+
+The revelations related to sacred temple ordinances were implemented in all temples beginning on January 1, 2019. It is important to understand that specific details about temple ordinances are discussed only in the temple. However, principles are taught. Elder David A. Bednar beautifully taught the significance of temple covenants and ordinances and how through them “the power of godliness can flow into our lives” (“Let This House Be Built unto My Name,” Ensign or Liahona, May 2020, 86).
+
+This process and the meetings held occurred in the Salt Lake Temple in January, February, March, and April 2018. The final revelation to the First Presidency and the Quorum of the Twelve was on April 26, 2018.
+
+Saints: The Story of the Church of Jesus Christ in the Latter Days, vol. 1, The Standard of Truth, 1815–1846 (2018), 418.
+
+The Holy Ghost is a member of the Godhead (see 1 John 5:7; Doctrine and Covenants 20:28). He has a body of spirit in the form and likeness of man (see Doctrine and Covenants 130:22). His influence can be everywhere. He is unified in purpose with our Heavenly Father and Jesus Christ, our Savior.
+
+For a comprehensive understanding of the Light of Christ and the difference between the Light of Christ and the Holy Ghost, see 2 Nephi 32; Doctrine and Covenants 88:7, 11–13; “Light of Christ,” Bible Dictionary. See also Boyd K. Packer, “The Light of Christ,” Ensign or Liahona, Apr. 2005, 8–14.
+
+Neal A. Maxwell, All These Things Shall Give Thee Experience (2007), 31.
+
+Wilford Woodruff, in Teachings of Presidents of the Church: Joseph Smith (2007), 283.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "143140941", "context": "", "text": " In 1960 when the age for missionary service for young men was reduced from 20 to 19 years of age, I was one of the last 20-year-olds; Elder Jeffrey R. Holland was one of the first 19-year-olds. "}, "note2": {"id": "note2", "marker": "2.", "pid": "143140946", "context": "", "text": " See “The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World,” in Russell M. Nelson, “Hear Him,” Ensign or Liahona, May 2020, 91–92. This proclamation joins with five others that have been delivered in this dispensation by the First Presidency and the Quorum of the Twelve Apostles. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2020/04/45nelson?lang=eng", "text": "Hear Him"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "143140948", "context": "", "text": " Teachings of Presidents of the Church: Spencer W. Kimball (2006), 243; see also Matthew 16:13–19. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/teachings-spencer-w-kimball/chapter-22?lang=eng", "text": "Teachings of Presidents of the Church: Spencer W. Kimball"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/matt/16?lang=eng&id=p13-p19#p13", "text": "Matthew 16:13–19"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "143140950", "context": "", "text": " Moses 7:61. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p61#p61", "text": "Moses 7:61"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "143140950", "context": "", "text": " Moses 7:62.
+
+The Lord continued, “And righteousness and truth will I cause to sweep the earth as with a flood, to gather out mine elect from the four quarters of the earth” (Moses 7:62; see also Psalm 85:11). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p62#p62", "text": "Moses 7:62"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p62#p62", "text": "Moses 7:62"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/ps/85?lang=eng&id=p11#p11", "text": "Psalm 85:11"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "143140953", "context": "", "text": " Ezra Taft Benson, “The Gift of Modern Revelation,” Ensign, Nov. 1986, 80. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1986/10/the-gift-of-modern-revelation?lang=eng", "text": "The Gift of Modern Revelation"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "143140955", "context": "", "text": " See Ezra Taft Benson, “The Gift of Modern Revelation,” 80. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1986/10/the-gift-of-modern-revelation?lang=eng", "text": "The Gift of Modern Revelation"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "143140956", "context": "", "text": " Hugh B. Brown, “Joseph Smith among the Prophets” (Sixteenth Annual Joseph Smith Memorial Sermon, Logan Institute of Religion, Dec. 7, 1958), 7. "}, "note9": {"id": "note9", "marker": "9.", "pid": "143140958", "context": "", "text": " See Hugh B. Brown, “Joseph Smith among the Prophets,” 7. In all cases, the revelations are in harmony with the word of God given to previous prophets.
+
+"}, "note10": {"id": "note10", "marker": "10.", "pid": "143140960", "context": "", "text": " See Official Declaration 2; see also 2 Nephi 26:33. The revelation implemented doctrine set forth in the Book of Mormon that “all are alike unto God,” including “black and white, bond and free, male and female” (2 Nephi 26:33). This remarkable revelation was received and confirmed in the sacred upper room of the Salt Lake Temple by the Council of the First Presidency and Quorum of the Twelve Apostles. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/od/2?lang=eng", "text": "Official Declaration 2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33", "text": "2 Nephi 26:33"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33", "text": "2 Nephi 26:33"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "143140963", "context": "", "text": " Many of the Apostles indicated that the revelation was so powerful and so sacred that any words used to describe it would be insufficient and, in some ways, would diminish the deep and powerful nature of the revelation. "}, "note12": {"id": "note12", "marker": "12.", "pid": "143140965", "context": "", "text": " See “The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145. This proclamation was announced by President Gordon B. Hinckley at the general Relief Society meeting held on September 23, 1995, in Salt Lake City, Utah. See also Thomas S. Monson, “Welcome to Conference,” Ensign or Liahona, Nov. 2012, 4–5. President Monson announced a lower age requirement for missionary service.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/liahona/2017/05/the-family-a-proclamation-to-the-world?lang=eng", "text": "The Family: A Proclamation to the World"}, {"type": "cross-ref", "href": "/study/general-conference/2012/10/welcome-to-conference?lang=eng", "text": "Welcome to Conference"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "143140967", "context": "", "text": " Quentin L. Cook, “Deep and Lasting Conversion to Heavenly Father and the Lord Jesus Christ,” Ensign or Liahona, Nov. 2018, 11. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng", "text": "Deep and Lasting Conversion to Heavenly Father and the Lord Jesus Christ"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "143140969", "context": "", "text": " The revelations related to sacred temple ordinances were implemented in all temples beginning on January 1, 2019. It is important to understand that specific details about temple ordinances are discussed only in the temple. However, principles are taught. Elder David A. Bednar beautifully taught the significance of temple covenants and ordinances and how through them “the power of godliness can flow into our lives” (“Let This House Be Built unto My Name,” Ensign or Liahona, May 2020, 86). ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2020/04/44bednar?lang=eng", "text": "Let This House Be Built unto My Name"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "143140969", "context": "", "text": " This process and the meetings held occurred in the Salt Lake Temple in January, February, March, and April 2018.
+
+The final revelation to the First Presidency and the Quorum of the Twelve was on April 26, 2018. "}, "note16": {"id": "note16", "marker": "16.", "pid": "143140975", "context": "", "text": " See 2 Nephi 32:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/32?lang=eng&id=p3#p3", "text": "2 Nephi 32:3"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "143140977", "context": "", "text": " Saints: The Story of the Church of Jesus Christ in the Latter Days, vol. 1, The Standard of Truth, 1815–1846 (2018), 418. ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/saints-v1/35-a-beautiful-place?lang=eng&id=p13#p13", "text": "Saints: The Story of the Church of Jesus Christ in the Latter Days"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "143140977", "context": "", "text": " Saints, 1:418. ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/saints-v1/35-a-beautiful-place?lang=eng&id=p15#p15", "text": "Saints"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "143140982", "context": "", "text": " 3 Nephi 27:20. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/27?lang=eng&id=p20#p20", "text": "3 Nephi 27:20"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "143140984", "context": "", "text": " The Holy Ghost is a member of the Godhead (see 1 John 5:7; Doctrine and Covenants 20:28). He has a body of spirit in the form and likeness of man (see Doctrine and Covenants 130:22). His influence can be everywhere. He is unified in purpose with our Heavenly Father and Jesus Christ, our Savior.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-jn/5?lang=eng&id=p7#p7", "text": "1 John 5:7"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/20?lang=eng&id=p28#p28", "text": "Doctrine and Covenants 20:28"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/130?lang=eng&id=p22#p22", "text": "Doctrine and Covenants 130:22"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "143140985", "context": "", "text": " For a comprehensive understanding of the Light of Christ and the difference between the Light of Christ and the Holy Ghost, see 2 Nephi 32; Doctrine and Covenants 88:7, 11–13; “Light of Christ,” Bible Dictionary. See also Boyd K. Packer, “The Light of Christ,” Ensign or Liahona, Apr. 2005, 8–14. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/32?lang=eng", "text": "2 Nephi 32"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/88?lang=eng&id=p7%2Cp11-p13#p7", "text": "Doctrine and Covenants 88:7, 11–13"}, {"type": "scripture-ref", "href": "/study/scriptures/bd/light-of-christ?lang=eng", "text": "Light of Christ"}, {"type": "cross-ref", "href": "/study/liahona/2005/04/the-light-of-christ?lang=eng", "text": "The Light of Christ"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "143140988", "context": "", "text": " Doctrine and Covenants 8:2–3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/8?lang=eng&id=p2-p3#p2", "text": "Doctrine and Covenants 8:2–3"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "143140989", "context": "", "text": " See Helaman 5:30; Doctrine and Covenants 85:6.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/5?lang=eng&id=p30#p30", "text": "Helaman 5:30"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/85?lang=eng&id=p6#p6", "text": "Doctrine and Covenants 85:6"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "143140989", "context": "", "text": " See Doctrine and Covenants 6:23. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/6?lang=eng&id=p23#p23", "text": "Doctrine and Covenants 6:23"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "143140989", "context": "", "text": " See Doctrine and Covenants 128:1. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/128?lang=eng&id=p1#p1", "text": "Doctrine and Covenants 128:1"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "143140989", "context": "", "text": " See Doctrine and Covenants 11:13. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/11?lang=eng&id=p13#p13", "text": "Doctrine and Covenants 11:13"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "143140989", "context": "", "text": " See Enos 1:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/enos/1?lang=eng&id=p10#p10", "text": "Enos 1:10"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "143140991", "context": "", "text": " See Matthew 7:7–8. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/7?lang=eng&id=p7-p8#p7", "text": "Matthew 7:7–8"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "143140991", "context": "", "text": " See Mosiah 3:19.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19", "text": "Mosiah 3:19"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "143140994", "context": "", "text": " Doctrine and Covenants 42:61. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/42?lang=eng&id=p61#p61", "text": "Doctrine and Covenants 42:61"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "143140995", "context": "", "text": " Neal A. Maxwell, All These Things Shall Give Thee Experience (2007), 31. "}, "note32": {"id": "note32", "marker": "32.", "pid": "143141000", "context": "", "text": " Wilford Woodruff, in Teachings of Presidents of the Church: Joseph Smith (2007), 283. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/teachings-joseph-smith/chapter-24?lang=eng", "text": "Teachings of Presidents of the Church: Joseph Smith"}]}}
+
+## Scripture citations in this talk
 
 - [[Moses 7]] (9×)
 - [[2 Nephi 26]] (6×)

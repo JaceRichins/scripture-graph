@@ -7,16 +7,86 @@ year: '2018'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2018/10/for-him?lang=eng
 doc_id: talk:2018-october-for-him
+full_text: true
 ---
 
 # For Him
 
-**Speaker:** Joy D. Jones · **Conference:** October 2018
-**Source:** https://www.churchofjesuschrist.org/general-conference/2018/10/for-him?lang=eng
+**Speaker:** Joy D. Jones · **Conference:** October 2018 · [source](https://www.churchofjesuschrist.org/general-conference/2018/10/for-him?lang=eng)
 
-> For Him  By Joy D. Jones  Primary General President  Knowing the who and the why in serving others helps us understand that the highest manifestation of love is devotion to God.  On this historic night, I express my love and appreciation to each of you, my dear sisters. Whatever our age, location, or circumstance, we gather tonight in unity, in strength, in purpose, and in testimony that we are l…
+Knowing the who and the why in serving others helps us understand that the highest manifestation of love is devotion to God.
 
-## Explicit scripture citations
+On this historic night, I express my love and appreciation to each of you, my dear sisters. Whatever our age, location, or circumstance, we gather tonight in unity, in strength, in purpose, and in testimony that we are loved and led by our Heavenly Father; our Savior, Jesus Christ; and our living prophet, President Russell M. Nelson.
+
+As a young couple, my husband and I were called by our bishop to visit and minister to a family who hadn’t been to church in many years. We willingly accepted the assignment and went to their home a few days later. It was immediately clear to us that they did not want visitors from the Church.
+
+So on our next visit, we approached them with a plate of cookies, confident that chocolate chips would melt their hearts. They didn’t. The couple spoke to us through the screen door, making it even clearer that we weren’t welcome. But as we drove home, we were fairly certain success might have been achieved had we only offered them Rice Krispies Treats instead.
+
+Our lack of spiritual vision made additional failed attempts frustrating. Rejection is never comfortable. Over time we began to ask ourselves, “Why are we doing this? What is our purpose?”
+
+Elder Carl B. Cook made this observation: “Serving in the Church … can be challenging if we are asked to do something that frightens us, if we grow weary of serving, or if we are called to do something that we do not initially find appealing.” We were experiencing the truth of Elder Cook’s words when we decided we had to seek direction from Someone with a greater perspective than our own.
+
+So, after much sincere prayer and study, we received the answer to the why of our service. We had a change in our understanding, a change of heart, actually a revelatory experience. As we sought direction from the scriptures, the Lord taught us how to make the process of serving others easier and more meaningful. Here is the verse we read that changed both our hearts and our approach: “Thou shalt love the Lord thy God with all thy heart, with all thy might, mind, and strength; and in the name of Jesus Christ thou shalt serve him.” Though this verse was so familiar, it seemed to speak to us in a new and important way.
+
+We realized that we were sincerely striving to serve this family and to serve our bishop, but we had to ask ourselves if we were really serving out of love for the Lord. King Benjamin made clear this distinction when he stated, “Behold, I say unto you that because I said unto you that I had spent my days in your service, I do not desire to boast, for I have only been in the service of God.”
+
+So whom was King Benjamin really serving? Heavenly Father and the Savior. Knowing the who and the why in serving others helps us understand that the highest manifestation of love is devotion to God.
+
+As our focus gradually changed, so did our prayers. We began looking forward to our visits with this dear family because of our love for the Lord. We were doing it for Him. He made the struggle no longer a struggle. After many months of our standing on the doorstep, the family began letting us in. Eventually, we had regular prayer and tender gospel discussions together. A long-lasting friendship developed. We were worshipping and loving Him by loving His children.
+
+Can you think back on a time when you lovingly reached out with sincere effort to help someone in need and felt that your efforts went unnoticed or perhaps were unappreciated or even unwanted? In that moment, did you question the value of your service? If so, may the words of King Benjamin replace your doubt and even your hurt: “Ye are only in the service of your God.”
+
+Rather than building resentment, we can build, through service, a more perfect relationship with our Heavenly Father. Our love for and devotion to Him preempts the need for recognition or appreciation and allows His love to flow to and through us.
+
+Sometimes we may initially serve from a sense of duty or obligation, but even that service can lead us to draw on something higher within us, leading us to serve in “a more excellent way”—as in President Nelson’s invitation to “a newer, holier approach to caring for and ministering to others.”
+
+When we focus on all that God has done for us, our service flows from a heart of gratitude. As we become less concerned about our service magnifying us, we realize instead that the focus of our service will be on putting God first.
+
+President M. Russell Ballard taught, “It is only when we love God and Christ with all of our hearts, souls, and minds that we are able to share this love with our neighbors through acts of kindness and service.”
+
+The first of the Ten Commandments reiterates this divine wisdom: “I am the Lord thy God. … Thou shalt have no other gods before me.” The placement of this commandment helps us understand that if we place Him as our main priority, everything else will ultimately fall into place—even our service to others. When He takes the preeminent position in our lives by our deliberate choice, then He is able to bless our actions to our good and to the good of others.
+
+The Lord counseled, “Look unto me in every thought.” And each week we covenant to do just that—to “always remember him.” Can such a godly focus apply in everything we do? Can performing even a menial task become an opportunity to demonstrate our love and devotion to Him? I believe it can and will.
+
+We can make each item on our to-do list become a way to glorify Him. We can see each task as a privilege and opportunity to serve Him, even when we are in the midst of deadlines, duties, or dirty diapers.
+
+As Ammon said, “Yea, I know that I am nothing; as to my strength I am weak; therefore I will not boast of myself, but I will boast of my God, for in his strength I can do all things.”
+
+When serving our God becomes our main priority in life, we lose ourselves, and in due course, we find ourselves.
+
+The Savior taught this principle so simply and directly: “Therefore let your light so shine before this people, that they may see your good works and glorify your Father who is in heaven.”
+
+May I share with you some words of wisdom that were found on the wall of an orphanage in Calcutta, India: “If you are kind, people may accuse you of selfish, ulterior motives. Be kind anyway. What you spend years building, someone could destroy overnight. Build anyway. The good you do today, people will often forget tomorrow. Do good anyway. Give the world the best you have, and it may never be enough. Give the world the best you’ve got anyway. You see, in the final analysis, it is between you and your God … anyway.”
+
+Sisters, it is always between us and the Lord. As President James E. Faust said: “‘What is the greatest need in the world?’ … ‘Is not the greatest need in all of the world for every person to have a personal, ongoing, daily, continuing relationship with the Savior?’ Having such a relationship can unchain the divinity within us, and nothing can make a greater difference in our lives as we come to know and understand our divine relationship with God.”
+
+Similarly, Alma explained to his son, “Yea, let all thy doings be unto the Lord, and whithersoever thou goest let it be in the Lord; yea, let all thy thoughts be directed unto the Lord; yea, let the affections of thy heart be placed upon the Lord forever.”
+
+And President Russell M. Nelson has likewise taught us, “When we comprehend His voluntary Atonement, any sense of sacrifice on our part becomes completely overshadowed by a profound sense of gratitude for the privilege of serving Him.”
+
+Sisters, I testify that when Jesus Christ, through the power of His Atonement, works on us and in us, He begins to work through us to bless others. We serve them, but we do so by loving and serving Him. We become what the scripture describes: “Every man [and woman] seeking the interest of his [or her] neighbor, and doing all things with an eye single to the glory of God.”
+
+Maybe our bishop knew that was the lesson my husband and I would learn from those early and well-intentioned, yet not perfect, efforts to minister to God’s beloved sons and daughters. I bear my personal and sure witness of the goodness and love He shares with us even as we strive to serve for Him. In the sacred name of Jesus Christ, amen.
+
+Russell M. Nelson, “Ministering,” Ensign or Liahona, May 2018, 100.
+
+M. Russell Ballard, “Finding Joy through Loving Service,” Ensign or Liahona, May 2011, 47.
+
+Often attributed to Mother Teresa; see Kent M. Keith, The Paradoxical Commandments (1968).
+
+James E. Faust, “A Personal Relationship with the Savior,” Ensign, Nov. 1976, 58.
+
+Russell M. Nelson, “The Atonement,” Ensign or Liahona, Nov. 1996, 35.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "138351819", "context": "", "text": " Carl B. Cook, “Serve,” Ensign or Liahona, Nov. 2016, 110. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2016/10/serve?lang=eng", "text": "Serve"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "138351820", "context": "", "text": " See Mosiah 5:2. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/5?lang=eng&id=p2#p2", "text": "Mosiah 5:2"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "138351820", "context": "", "text": " Doctrine and Covenants 59:5; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/59?lang=eng&id=p5#p5", "text": "Doctrine and Covenants 59:5"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "138351821", "context": "", "text": " Mosiah 2:16; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p16#p16", "text": "Mosiah 2:16"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "138351823", "context": "", "text": " See 1 Nephi 11:22. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/11?lang=eng&id=p22#p22", "text": "1 Nephi 11:22"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "138351824", "context": "", "text": " Mosiah 2:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p17#p17", "text": "Mosiah 2:17"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "138351826", "context": "", "text": " 1 Corinthians 12:31.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/12?lang=eng&id=p31#p31", "text": "1 Corinthians 12:31"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "138351826", "context": "", "text": " Russell M. Nelson, “Ministering,” Ensign or Liahona, May 2018, 100. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/04/ministering?lang=eng", "text": "Ministering"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "138351827", "context": "", "text": " See Matthew 6:1–4, 33. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/6?lang=eng&id=p1-p4%2Cp33#p1", "text": "Matthew 6:1–4, 33"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "138351828", "context": "", "text": " M. Russell Ballard, “Finding Joy through Loving Service,” Ensign or Liahona, May 2011, 47. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2011/04/finding-joy-through-loving-service?lang=eng", "text": "Finding Joy through Loving Service"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "138351829", "context": "", "text": " Exodus 20:2–3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/ex/20?lang=eng&id=p2-p3#p2", "text": "Exodus 20:2–3"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "138351830", "context": "", "text": " Doctrine and Covenants 6:36. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36", "text": "Doctrine and Covenants 6:36"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "138351830", "context": "", "text": " Doctrine and Covenants 20:77, 79.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/20?lang=eng&id=p77%2Cp79#p77", "text": "Doctrine and Covenants 20:77, 79"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "138351832", "context": "", "text": " Alma 26:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/26?lang=eng&id=p12#p12", "text": "Alma 26:12"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "138351833", "context": "", "text": " See Matthew 16:24–25. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/16?lang=eng&id=p24-p25#p24", "text": "Matthew 16:24–25"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "138351834", "context": "", "text": " 3 Nephi 12:16; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/12?lang=eng&id=p16#p16", "text": "3 Nephi 12:16"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "138351835", "context": "", "text": " Often attributed to Mother Teresa; see Kent M. Keith, The Paradoxical Commandments (1968). "}, "note18": {"id": "note18", "marker": "18.", "pid": "138351836", "context": "", "text": " James E. Faust, “A Personal Relationship with the Savior,” Ensign, Nov. 1976, 58. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1976/10/a-personal-relationship-with-the-savior?lang=eng", "text": "A Personal Relationship with the Savior"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "138351837", "context": "", "text": " Alma 37:36. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/37?lang=eng&id=p36#p36", "text": "Alma 37:36"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "138351838", "context": "", "text": " Russell M.
+
+Nelson, “The Atonement,” Ensign or Liahona, Nov. 1996, 35. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1996/10/the-atonement?lang=eng", "text": "The Atonement"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "138351839", "context": "", "text": " Doctrine and Covenants 82:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/82?lang=eng&id=p19#p19", "text": "Doctrine and Covenants 82:19"}]}}
+
+## Scripture citations in this talk
 
 - [[Mosiah 2]] (6×)
 - [[Mosiah 5]] (3×)

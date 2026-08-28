@@ -7,16 +7,76 @@ year: '2021'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2021/10/17giuffra?lang=eng
 doc_id: talk:2021-october-a-faithful-search-rewarded
+full_text: true
 ---
 
 # A Faithful Search Rewarded
 
-**Speaker:** Elder Patricio M. Giuffra · **Conference:** October 2021
-**Source:** https://www.churchofjesuschrist.org/general-conference/2021/10/17giuffra?lang=eng
+**Speaker:** Elder Patricio M. Giuffra · **Conference:** October 2021 · [source](https://www.churchofjesuschrist.org/general-conference/2021/10/17giuffra?lang=eng)
 
-> A Faithful Search Rewarded  By Elder Patricio M. Giuffra  Of the Seventy  I invite us all to continually increase our faith in Christ, who continues to change the lives of all who seek Him.  Beginning in 1846, thousands of pioneer men, women, and children headed westward to Zion. Their great faith stirred their boundless courage. For some, that trip was never finished as they died along the way. …
+I invite us all to continually increase our faith in Christ, who continues to change the lives of all who seek Him.
 
-## Explicit scripture citations
+Beginning in 1846, thousands of pioneer men, women, and children headed westward to Zion. Their great faith stirred their boundless courage. For some, that trip was never finished as they died along the way. Others, facing great adversity, pressed forward in faith.
+
+Because of them, generations later, my family enjoyed the blessings of the true gospel of Jesus Christ.
+
+Much like another young man, whom I will mention later, I was 14 when I started to question religion and my faith. I attended the church of another denomination close to my house, but I felt the desire to visit many different churches.
+
+One afternoon, I noticed two young men in dark suits and white shirts entering my neighbor’s home. These young men looked—special.
+
+The next day I met my neighbor, Leonor Lopez, and asked her about those two men. Leonor explained that they were missionaries for The Church of Jesus Christ of Latter-day Saints. She joyfully told me that her family was baptized into the Church a year earlier. Seeing my interest, Leonor invited me to meet the missionaries and learn about the Church.
+
+Two days later, I joined the Lopez family to meet the missionaries. They introduced themselves as Elder John Messerly from Ogden, Utah, and Elder Christopher Osorio from Walnut Creek, California. I will never forget them.
+
+Since I was only 14, Elder Messerly insisted we go next door to my home so that my mother could know what they were teaching me. There, he kindly explained that they came to share a message about Jesus Christ and asked for her permission to teach me. Mother agreed and even joined us while they taught me.
+
+The missionaries first asked Leonor to offer a prayer. This touched me very deeply because her prayer was not a repetition of memorized words but an expression from her heart. I felt she was really talking to her Heavenly Father.
+
+The missionaries then taught us about Jesus Christ. They showed a picture of Him that impressed me because it was a picture of the resurrected, living Christ.
+
+They continued, teaching us how Jesus established His Church in ancient times, with Him at the head joined by twelve Apostles. They taught us about the Apostasy—how truth and Christ’s authority had been taken from the earth after His Apostles died.
+
+They told us of a young 14-year-old boy named Joseph Smith who, during the early 1800s, visited different churches searching for truth. As time went on, Joseph became even more confused. After reading in the Bible that we can “ask of God” for wisdom, Joseph, acting in faith, retired to a grove of trees to pray and ask which church he should join.
+
+One of the missionaries read Joseph’s account of what happened as he prayed:
+
+“I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me.
+
+“… When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!”
+
+During that lesson, the Spirit confirmed to me several truths.
+
+First, God listens to all His children’s sincere prayers, and heaven is open to all—not just a few.
+
+Second, God the Father, Jesus Christ, and the Holy Ghost are three separate beings, united in Their purpose “to bring to pass the immortality and eternal life of man.”
+
+Third, we are created in the image of God. Our Heavenly Father and His Son, Jesus Christ, have bodies of flesh and bones like us, but They are glorified and perfected, and the Holy Ghost is a personage of spirit.
+
+Fourth, through Joseph Smith, Jesus Christ restored His gospel and true Church to the earth. The priesthood authority conferred on Christ’s Apostles 2,000 years ago is the same priesthood conferred upon Joseph Smith and Oliver Cowdery by Peter, James, and John.
+
+Finally, we learned about another testament of Jesus Christ: the Book of Mormon. Written by ancient prophets, it tells of the people who lived in the Americas before, during, and after the birth of Jesus. From it we learn of how they knew, loved, and worshipped Christ, who appeared to them as the resurrected Savior.
+
+The Spirit moved me profoundly as I learned of the Savior’s declaration to them: “Behold, I am Jesus Christ, whom the prophets testified shall come into the world.”
+
+The missionaries gave us our own copy of the Book of Mormon. We read and accepted the invitation found at the end of the Book of Mormon, which reads:
+
+“And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
+
+“And by the power of the Holy Ghost ye may know the truth of all things.”
+
+It has been almost 45 years since my mother and I first learned the joy and power of having faith in Christ. It was because of their faith in Christ that the Lopez family shared their new faith with me. It was because of their faith in Christ that these two missionaries left their homes in the United States to find my mother and me. It was the faith of all these dear friends that planted a mustard seed of faith in us that has since grown into a mighty tree of eternal blessings.
+
+During these blessed years, we have known, as President Russell M. Nelson declared: “Everything good in life—every potential blessing of eternal significance—begins with faith. Allowing God to prevail in our lives begins with faith that He is willing to guide us. True repentance begins with faith that Jesus Christ has the power to cleanse, heal, and strengthen us.”
+
+I invite us all to continually increase our faith in Christ, who has changed the lives of my beloved mother and me and continues to change the lives of all who seek Him. I know that Joseph Smith is the Prophet of the Restoration, that President Nelson is our prophet today, that Jesus is the living Christ and our Redeemer, and that Heavenly Father lives and answers all His children’s prayers. I testify of these truths in the sacred name of Jesus Christ, amen.
+
+Russell M. Nelson, “Christ Is Risen; Faith in Him Will Move Mountains,” Liahona, May 2021, 102.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "147978643", "context": "", "text": " James 1:5. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/james/1?lang=eng&id=p5#p5", "text": "James 1:5"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "147978652", "context": "", "text": " Joseph Smith—History 1:16–17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/js-h/1?lang=eng&id=p16-p17#p16", "text": "Joseph Smith—History 1:16–17"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "147978662", "context": "", "text": " Moses 1:39. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39", "text": "Moses 1:39"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "147978665", "context": "", "text": " See Genesis 1:26; Doctrine and Covenants 130:22. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/1?lang=eng&id=p26#p26", "text": "Genesis 1:26"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/130?lang=eng&id=p22#p22", "text": "Doctrine and Covenants 130:22"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "147978668", "context": "", "text": " See Doctrine and Covenants 27:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/27?lang=eng&id=p12#p12", "text": "Doctrine and Covenants 27:12"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "147978676", "context": "", "text": " 3 Nephi 11:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/11?lang=eng&id=p10#p10", "text": "3 Nephi 11:10"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "147978688", "context": "", "text": " Moroni 10:4–5.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p4-p5#p4", "text": "Moroni 10:4–5"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "147978696", "context": "", "text": " Russell M. Nelson, “Christ Is Risen; Faith in Him Will Move Mountains,” Liahona, May 2021, 102. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2021/04/49nelson?lang=eng&id=p10#p10", "text": "Christ Is Risen; Faith in Him Will Move Mountains"}]}}
+
+## Scripture citations in this talk
 
 - [[James 1]] (3×)
 - [[Joseph Smith—History 1]] (3×)

@@ -81,7 +81,14 @@ def import_conference_file(ctx: Ctx, path: Path, source_id: str, doc_key: str,
     return n
 
 
+# Above this size a talk note keeps an excerpt only (whole-report OCR volumes
+# like the pre-1931 Conference Reports would otherwise be multi-MB notes).
+MAX_NOTE_TEXT_BYTES = 120_000
+
+
 def _write_talk_note(ctx: Ctx, doc_id: str, t: dict, year: str, month: str) -> None:
+    """Full-text talk note for PERSONAL study (see SOURCE-POLICY: this vault
+    is private; church-published text here must not be republished)."""
     db = ctx.db()
     title = sanitize_filename(f"{t['title']} ({t['speaker'] or 'Conference'}, "
                               f"{month or ''} {year})".replace("  ", " "))
@@ -90,15 +97,22 @@ def _write_talk_note(ctx: Ctx, doc_id: str, t: dict, year: str, month: str) -> N
     cites = db.execute(
         "SELECT dst, weight FROM edges WHERE src=? AND rel='cites' ORDER BY weight DESC",
         (doc_id,)).fetchall()
+    body_text = t["body"].strip()
+    full_text = len(body_text.encode()) <= MAX_NOTE_TEXT_BYTES
     lines = [f"# {t['title']}", "",
              f"**Speaker:** {t['speaker'] or 'Unknown'} · **Conference:** "
-             f"{month + ' ' if month else ''}{year}"]
-    if t.get("url"):
-        lines.append(f"**Source:** {t['url']}")
-    lines += ["", "> " + truncate(t["body"].strip().replace("\n", " "), 400),
-              "", "## Explicit scripture citations", ""]
+             f"{month + ' ' if month else ''}{year}"
+             + (f" · [source]({t['url']})" if t.get("url") else "")]
+    if full_text:
+        lines += ["", body_text]
+    else:
+        lines += ["", "> " + truncate(body_text.replace("\n", " "), 400), "",
+                  "> [!info] Full text in the local index\n"
+                  "> This volume is too large for a note; search reaches all of it "
+                  "(`scripturegraph ask …`), and the source link above has the scan."]
+    lines += ["", "## Scripture citations in this talk", ""]
     if cites:
-        for c in cites:
+        for c in cites[:60]:
             cslug = c["dst"].split(":", 1)[1]
             lines.append(f"- {md.wikilink(chapter_display(cslug))} "
                          f"({int(c['weight'] or 0)}×)")
@@ -106,10 +120,35 @@ def _write_talk_note(ctx: Ctx, doc_id: str, t: dict, year: str, month: str) -> N
         lines.append("*None detected.*")
     fm = {"ownership": "system", "mutable": "ai", "content_type": "talk",
           "speaker": t["speaker"], "year": year, "month": month, "url": t.get("url", ""),
-          "doc_id": doc_id}
+          "doc_id": doc_id, "full_text": full_text}
     record_file(ctx, relpath, "talk", "librarian", doc_id, md.build_note(fm, "\n".join(lines)))
     db.execute("UPDATE nodes SET vault_path=? WHERE id=?", (relpath, doc_id))
     db.commit()
+
+
+def rewrite_all_talk_notes(ctx: Ctx) -> int:
+    """Regenerate every talk note from the index (used after the note template
+    changes — e.g. the move from excerpt-only to full text)."""
+    db = ctx.db()
+    talks = db.execute(
+        "SELECT doc_id, title, author, url, meta_json FROM documents "
+        "WHERE doc_type='talk'").fetchall()
+    n = 0
+    for row in talks:
+        meta = json.loads(row["meta_json"] or "{}")
+        chunks = db.execute(
+            "SELECT text FROM chunks WHERE owner_type='document' AND owner_id=? "
+            "ORDER BY seq", (row["doc_id"],)).fetchall()
+        if not chunks:
+            continue
+        body = "\n\n".join(c["text"] for c in chunks)
+        t = {"title": row["title"], "speaker": row["author"] or "",
+             "url": row["url"] or "", "body": body}
+        _write_talk_note(ctx, row["doc_id"], t, str(meta.get("year", "")),
+                         str(meta.get("month", "")))
+        n += 1
+    ctx.log.info("conference.notes_rewritten", talks=n)
+    return n
 
 
 # ------------------------------------------------------- chapter conference pass

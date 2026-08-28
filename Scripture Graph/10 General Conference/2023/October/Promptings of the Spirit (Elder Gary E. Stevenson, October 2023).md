@@ -7,16 +7,102 @@ year: '2023'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2023/10/25stevenson?lang=eng
 doc_id: talk:2023-october-promptings-of-the-spirit
+full_text: true
 ---
 
 # Promptings of the Spirit
 
-**Speaker:** Elder Gary E. Stevenson · **Conference:** October 2023
-**Source:** https://www.churchofjesuschrist.org/general-conference/2023/10/25stevenson?lang=eng
+**Speaker:** Elder Gary E. Stevenson · **Conference:** October 2023 · [source](https://www.churchofjesuschrist.org/general-conference/2023/10/25stevenson?lang=eng)
 
-> Promptings of the Spirit  By Elder Gary E. Stevenson  Of the Quorum of the Twelve Apostles  The constant companionship of the Holy Ghost is one of the greatest spiritual gifts Latter-day Saints enjoy.  Introduction  Recently, the eyes of the sporting world focused on the 2023 FIFA Women’s World Cup, hosted by Australia and New Zealand. World-class athletes narrowed from more than 200 national tea…
+The constant companionship of the Holy Ghost is one of the greatest spiritual gifts Latter-day Saints enjoy.
 
-## Explicit scripture citations
+Recently, the eyes of the sporting world focused on the 2023 FIFA Women’s World Cup, hosted by Australia and New Zealand. World-class athletes narrowed from more than 200 national teams from around the globe demonstrated their grit, dedication, talent, and athleticism as they competed for the soccer world’s highest honor.
+
+We marvel at performers in numerous sports and other disciplines who achieve the highest level of their art. We speak of their God-given talents or gifts. This includes those gifted in dance, gymnastics, music, art, drama, mathematics, science, and more. Each such person demonstrates God-given gifts that are then refined and honed by a lifetime of hard work, study, and practice. God-given gifts make gifted people.
+
+Looking through a gospel lens, God endows His children with many spiritual gifts, making them spiritually gifted people. Covenant-keeping members of the Church are bestowed with gifts of the Spirit, which include the gift of a testimony of Jesus Christ as our Savior, the gift of the Holy Ghost, the gift of faith to heal and be healed, the gift of discernment, the gift of receiving miracles, and the gifts of wisdom and knowledge. The Lord invites us to earnestly seek the best gifts, even spiritual gifts. He gives spiritual gifts to bless us and to use in blessing others.
+
+Returning to our analogy of gifted performers, it is important to remember that a gift alone does not a master make. Extraordinary natural talent notwithstanding, it is through painstaking and laborious practice and effort that performers refine and hone their craft to reach their highest level of artistry. Even those gifts received and unwrapped are often accompanied by the dreaded language “some assembly required.”
+
+Likewise, I have observed a learning curve associated with spiritual gifts. Exercising spiritual gifts requires spiritual exercise. “Having the guidance of the Holy Ghost in your life requires spiritual work. This work includes fervent prayer and consistent scripture study. It also includes keeping your covenants and God’s commandments. … It includes worthily partaking of the sacrament each week.”
+
+What are the fruits of exercising spiritual gifts? They include promptings from the Spirit that help us face our daily needs and show us what to do and say and blessings of peace and comfort. As we listen and act on spiritual promptings, the Holy Ghost magnifies our abilities and capacities to far exceed what we can do on our own. These precious spiritual gifts will help us in every aspect of our lives.
+
+The constant companionship of the Holy Ghost is one of the greatest spiritual gifts Latter-day Saints enjoy.
+
+How important is this gift? President Russell M. Nelson answered this question categorically when he stated that “in coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.”
+
+Over the course of my ministry, I have found a universal longing by everyone to know how to invite and recognize the promptings of the Holy Ghost. Promptings of the Spirit are very personal and come in different ways. We are, however, blessed to have words of prophets, both ancient and modern, give us valuable insights about how to receive direction from the Spirit.
+
+Let me offer four guiding principles that may be of assistance to you in inviting and recognizing the promptings of the Spirit.
+
+The first is to stand in holy places. I recently participated in the Tokyo Japan Temple open house. The response to formal invitations sent to both media and VIP guests far exceeded expectations. Hundreds joined in these guided temple tours. Guests were deeply touched by the beauty of the temple, including patterns and motifs with deep, traditional Japanese connections. More poignant yet was the reverent and respectful reaction elicited from guests as ancestral ordinances were described in rooms where they would occur. But most heartwarming were stirrings of the Spirit.
+
+One such moment with a prominent government official remains etched in my mind. Following a moment of meditative silence in the celestial room, emotional and deeply touched he whispered in my ear, “Even the air that I breathe in this room feels different.” I recognized he was trying to describe the presence of the Holy Spirit, which, indeed, dwells in sacred spaces. If you hope to feel the Spirit, be in a place where the Spirit can easily dwell.
+
+Our temples and homes are the most sacred of these dedicated spaces. In them we more easily invite and recognize the Spirit. Other holy places include meetinghouses, seminary buildings and institutes, and Church history sites and visitors’ centers. Stand in holy places.
+
+Second, stand with holy people. I’ll describe the second guiding principle with another memory.
+
+I will never forget participating in a devotional held in a popular sports arena. Usually, this arena was filled with raucous fans cheering their home team and perhaps even jeering their opponent. But on this night, the atmosphere was quite different. The arena was filled with thousands of young people assembled to honor and commemorate the life of the Prophet Joseph Smith. Their reverent, quiet tone; gratitude; and prayerful hearts filled the arena with the presence of the Holy Spirit. I could literally see it in their faces. It was the gift of the Holy Ghost in action, affirming the testimonies being borne of Joseph Smith and the Restoration of the gospel.
+
+The Spirit cannot be restrained from attending a gathering of holy people. If you hope to feel the Spirit, be with people with whom the Spirit can easily dwell. The Savior said it this way: “For where two or three are gathered together in my name, there am I in the midst of them.” For young people, consider your gatherings of holy people: quorums and classes, FSY and seminary, ward and stake activities—even ward choirs. Choose to be with people and go to places where righteousness is found. Find your strength in numbers. Find good friends. Be good friends. Support one another wherever you are. Stand with holy people.
+
+Third, testify of holy truths as often as you can. The Comforter always shares His voice when we testify with our voice. The Spirit bears witness to the speaker and listener alike.
+
+I remember once taking a 45-minute taxi ride in New York City. Having had a warm gospel conversation with the driver for the duration of my ride to the airport, I paid her and prepared to exit the taxi. Then I realized I had not offered a testimony of what I had shared. Pausing, I shared a simple, short testimony, inviting the Spirit and bringing tears to both our eyes.
+
+As you seek and take opportunities to share your testimony with others, you will create moments to recognize the Spirit for yourself.
+
+The final principle is to listen to the Holy Spirit. He can be our constant companion, but He speaks in subtle, quiet tones. The prophet Elijah found that the voice of the Lord was not in the wind, the earthquake, or the fire but was “a still small voice.” It is “not a voice of thunder” but rather “a still voice of perfect mildness, as if it had been a whisper,” and yet it can “pierce even to the very soul.”
+
+President Boyd K. Packer stated: “The Spirit does not get our attention by shouting or shaking us with a heavy hand. Rather it whispers. It caresses so gently that if we are preoccupied we may not feel it at all.” I have observed that sometimes His voice is so subtle, or I am so preoccupied, that a loved one captures it for me. Many have been the times when promptings of the Holy Ghost have come to me through my wife, Lesa. Righteous parents or leaders may also receive inspired guidance for you.
+
+The noise, clamor, and contention prevalent in the world may overpower still, quiet impressions of the Holy Spirit. Find a quiet place, a holy space where you can seek to receive direction from the Spirit.
+
+As you consider these principles to invite and recognize the Spirit, consider the following words of cautionary guidance.
+
+Confirm your spiritual impressions. For example, impressions from the Spirit will align with the scriptures and the teachings of the living prophets.
+
+Be certain that the feelings you receive are consistent with your assignment. Unless you are called by proper authority, impressions from the Spirit are not given for you to counsel or correct others.
+
+Spiritual matters cannot be forced. You can cultivate an attitude and an environment that invite the Spirit, and you can prepare yourself, but you cannot dictate how or when inspiration comes. Be patient and trust that you will receive what you need when the time is right.
+
+Use your own best judgment. Sometimes we want to be led by the Spirit in all things. However, often the Lord wants us to use our God-given intelligence and act in ways that are consistent with our best understanding. President Dallin H. Oaks taught:
+
+“A desire to be led by the Lord is a strength, but it needs to be accompanied by an understanding that our Heavenly Father leaves many decisions for our personal choices. … Persons who try to shift all decision making to the Lord and plead for revelation in every choice will soon find circumstances in which they pray for guidance and don’t receive it. …
+
+“We should study things out in our minds. … Then we should pray for guidance and act upon it. … If we do not receive guidance, we should act upon our best judgment.”
+
+In conclusion, Latter-day Saints should be gifted, covenant-keeping people. Nonetheless, it remains for each of us to seek to exercise our spiritual gifts and then to invite and learn to recognize promptings of the Spirit. Four guiding principles to assist us in this crucial spiritual endeavor are:
+
+Your ability to invite and recognize the promptings of the Spirit will develop a step at a time. “Becoming more attuned to the language of the Spirit is like learning another language. It is a gradual process that requires diligent, patient effort.”
+
+Returning to where we began, please remember that as Latter-day Saints you are gifted. Picture this familiar fast Sunday scene, recently described to me. A young child, standing on a stool, was barely visible over the pulpit. Her father stood next to her, offering encouragement and assisting with soft whispers to her ear as she proudly shared, “I am a child of God.”
+
+The next testimony that followed came from a young adult who began with a nervous quip: “I wish I had someone whispering in my ear like that.” Then she had a flash of inspiration and testified, “I do have someone whispering in my ear like that—the Holy Ghost!”
+
+I close with an invitation especially for all youth! Many of you start your day by standing in front of a mirror. Tomorrow, this week, this year, always, pause as you look at yourself in the mirror. Think to yourself, or say aloud if you like, “Wow, look at me! I am awesome! I am a child of God! He knows me! He loves me! I am gifted—gifted with the Holy Ghost as my constant companion!”
+
+I add my testimony to you, gifted Latter-day Saints, of God the Father, Jesus Christ, and the Holy Ghost, who bears testimony of Them. In the name of Jesus Christ, amen.
+
+See Doctrine and Covenants 46:8–9, 26; Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 103.
+
+Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 96.
+
+Boyd K. Packer, “The Candle of the Lord,” Ensign, Jan. 1983, 53.
+
+Much of the content in this section is taken from chapter 4 of Preach My Gospel.
+
+Dallin H. Oaks, “Our Strengths Can Become Our Downfall,” Ensign, Oct. 1994, 13–14.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "156930795", "context": "", "text": " See Doctrine and Covenants 46:13–25. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/46?lang=eng&id=p13-p25#p13", "text": "Doctrine and Covenants 46:13–25"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "156930795", "context": "", "text": " See Doctrine and Covenants 46:8–9, 26; Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 103. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/46?lang=eng&id=p8-p9%2C26#p8", "text": "Doctrine and Covenants 46:8–9, 26"}, {"type": "cross-ref", "href": "/study/manual/preach-my-gospel-2023/12-chapter-4?lang=eng&id=title10#title10", "text": "103"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "156930801", "context": "", "text": " Preach My Gospel, 101. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/preach-my-gospel-2023/12-chapter-4?lang=eng&id=p2#p2", "text": "101"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "156930804", "context": "", "text": " See Preach My Gospel, 101. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/preach-my-gospel-2023/12-chapter-4?lang=eng&id=title3#title3", "text": "101"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "156930810", "context": "", "text": " Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 96.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&id=p37#p37", "text": "Revelation for the Church, Revelation for Our Lives"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "156931824", "context": "", "text": " See Doctrine and Covenants 87:8. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/87?lang=eng&id=p8#p8", "text": "Doctrine and Covenants 87:8"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "156931841", "context": "", "text": " Matthew 18:20. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/18?lang=eng&id=p20#p20", "text": "Matthew 18:20"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "156931858", "context": "", "text": " 1 Kings 19:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/19?lang=eng&id=p12#p12", "text": "1 Kings 19:12"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "156931858", "context": "", "text": " Helaman 5:30. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/5?lang=eng&id=p30#p30", "text": "Helaman 5:30"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "156931860", "context": "", "text": " Boyd K. Packer, “The Candle of the Lord,” Ensign, Jan. 1983, 53. ", "referenceUris": [{"type": "cross-ref", "href": "/study/ensign/1983/01/the-candle-of-the-lord?lang=eng&id=p36#p36", "text": "The Candle of the Lord"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "156931868", "context": "", "text": " Much of the content in this section is taken from chapter 4 of Preach My Gospel.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/preach-my-gospel-2023/12-chapter-4?lang=eng", "text": "chapter 4"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "156931887", "context": "", "text": " Dallin H. Oaks, “Our Strengths Can Become Our Downfall,” Ensign, Oct. 1994, 13–14. ", "referenceUris": [{"type": "cross-ref", "href": "/study/ensign/1994/10/our-strengths-can-become-our-downfall?lang=eng&id=p16-p17#p16", "text": "Our Strengths Can Become Our Downfall"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "156931911", "context": "", "text": " Preach My Gospel, 106. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/preach-my-gospel-2023/12-chapter-4?lang=eng&id=p43#p43", "text": "106"}]}}
+
+## Scripture citations in this talk
 
 - [[D&C 46]] (6×)
 - [[D&C 87]] (3×)

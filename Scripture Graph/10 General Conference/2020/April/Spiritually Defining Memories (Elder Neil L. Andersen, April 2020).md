@@ -7,16 +7,148 @@ year: '2020'
 month: April
 url: https://www.churchofjesuschrist.org/general-conference/2020/04/15andersen?lang=eng
 doc_id: talk:2020-april-spiritually-defining-memories
+full_text: true
 ---
 
 # Spiritually Defining Memories
 
-**Speaker:** Elder Neil L. Andersen · **Conference:** April 2020
-**Source:** https://www.churchofjesuschrist.org/general-conference/2020/04/15andersen?lang=eng
+**Speaker:** Elder Neil L. Andersen · **Conference:** April 2020 · [source](https://www.churchofjesuschrist.org/general-conference/2020/04/15andersen?lang=eng)
 
-> Spiritually Defining Memories  By Elder Neil L. Andersen  Of the Quorum of the Twelve Apostles  When personal difficulties or world conditions beyond our control darken our path, the spiritually defining memories from our book of life are like luminous stones that help brighten the road ahead.  Eighteen years after the First Vision, the Prophet Joseph Smith wrote an extensive account of his exper…
+When personal difficulties or world conditions beyond our control darken our path, the spiritually defining memories from our book of life are like luminous stones that help brighten the road ahead.
 
-## Explicit scripture citations
+Eighteen years after the First Vision, the Prophet Joseph Smith wrote an extensive account of his experience. He had faced opposition, persecution, harassment, threats, and brutal attacks. Yet he continued to boldly testify of his First Vision: “I had actually seen a light, and in the midst of that light I saw two Personages, and they did in reality speak to me; and though I was hated and persecuted for saying that I had seen a vision, yet it was true. … I knew it, and I knew that God knew it, and I could not deny it.”
+
+In his difficult hours, Joseph’s memory reached back nearly two decades to the certainty of God’s love for him and the events that welcomed in the long-foretold Restoration. Reflecting on his spiritual journey, Joseph said: “I don’t blame any one for not believing my history. If I had not experienced what I have, I would not have believed it myself.”
+
+But the experiences were real, and he never forgot or denied them, quietly confirming his testimony as he moved to Carthage. “I am going like a lamb to the slaughter,” he said, “but I am calm as a summer’s morning; I have a conscience void of offense towards God, and towards all men.”
+
+There is a lesson for us in the Prophet Joseph’s example. Along with the peaceful direction we receive from the Holy Ghost, from time to time, God powerfully and very personally assures each of us that He knows us and loves us and that He is blessing us specifically and openly. Then, in our moments of difficulty, the Savior brings these experiences back into our mind.
+
+Think of your own life. Over the years, I have listened to thousands of profoundly spiritual experiences from Latter-day Saints all across the world, confirming to me beyond any question that God knows and loves each of us and that He eagerly desires to reveal Himself to us. These experiences may come at pivotal times in our lives or in what may at first seem as uneventful happenings, but they are always accompanied by an exceptionally strong spiritual confirmation of the love of God.
+
+Remembering these spiritually defining experiences takes us to our knees, declaring as did the Prophet Joseph: “What I received was from heaven. I know it, and I know that God knows that I know it.”
+
+Reflect on your own spiritually defining memories as I share a few examples from others.
+
+Years ago, an elderly stake patriarch with two failing heart valves pleaded for then-Dr. Russell M. Nelson to intervene, although at that time there was not a surgical solution for the damaged second valve. Dr. Nelson finally agreed to do the surgery. Here are President Nelson’s words:
+
+“After relieving the obstruction of the first valve, we exposed the second valve. We found it to be intact but so badly dilated that it could no longer function as it should. While examining this valve, a message was distinctly impressed upon my mind: Reduce the circumference of the ring. I announced that message to my assistant. ‘The valve tissue will be sufficient if we can effectively reduce the ring toward its normal size.’
+
+“But how? … A picture came vividly to my mind, showing how stitches could be placed—to make a pleat here and a tuck there. … I still remember that mental image—complete with dotted lines where sutures should be placed. The repair was completed as diagrammed in my mind. We tested the valve and found the leak to be reduced remarkably. My assistant said, ‘It’s a miracle.’” The patriarch lived for many years.
+
+Dr. Nelson had been directed. And he knew that God knew that he knew he had been directed.
+
+Kathy and I first met Beatrice Magré in France 30 years ago. Beatrice recently told me of an experience that impacted her spiritual life shortly after her baptism as a teenager. Here are her words:
+
+“The youth of our branch had traveled with their leaders to Lacanau Beach, an hour and a half from Bordeaux.
+
+“Before returning home, one of the leaders decided to take a last swim and dove into the waves with his glasses. When he resurfaced, his glasses had disappeared. … They were lost in the ocean.
+
+“The loss of his glasses would prevent him from driving his car. We would be stranded far from home.
+
+“I murmured that praying would avail us absolutely nothing, and I uneasily joined the group to pray publicly as we stood waist-deep in the murky water.
+
+“Once the prayer was over, I stretched my arms to splash everyone. As I was sweeping the ocean’s surface, his pair of glasses rested in my hand. A powerful feeling pierced my soul that God does actually hear and answer our prayers.”
+
+Forty-five years later, she recalled it as if it had happened yesterday. Beatrice had been blessed, and she knew that God knew that she knew that she had been blessed.
+
+The experiences of President Nelson and Sister Magré were very different, yet for both, an unforgettable spiritually defining memory of God’s love was embedded in their hearts.
+
+These defining events often come in learning about the restored gospel or in sharing the gospel with others.
+
+This picture was taken in São Paulo, Brazil, in 2004. Floripes Luzia Damasio of the Ipatinga Brazil Stake was 114 years old. Speaking of her conversion, Sister Damasio told me that missionaries in her village had given a priesthood blessing to a critically ill baby who miraculously recovered. She wanted to know more. As she prayed about their message, an undeniable witness of the Spirit confirmed to her that Joseph Smith was a prophet of God. At 103, she was baptized, and at 104, she was endowed. Every year after, she made the 14-hour bus ride to spend a week in the temple. Sister Damasio had received a heavenly confirmation, and she knew that God knew that she knew that the witness was true.
+
+Here is a spiritual memory from my first mission to France 48 years ago.
+
+While tracting, my companion and I left a Book of Mormon with an elderly woman. When we returned to the woman’s apartment about a week later, she opened the door. Before any words were spoken, I felt a tangible spiritual power. The intense feelings continued as Madame Alice Audubert invited us in and told us she had read the Book of Mormon and knew that it was true. As we left her apartment that day, I prayed, “Heavenly Father, please help me to never forget what I have just felt.” I never have.
+
+In a seemingly ordinary moment, at a door much like hundreds of other doors, I had felt the power of heaven. And I knew that God knew that I knew that a window of heaven had been opened.
+
+These spiritually defining moments come at different times and in different ways, individualized for each of us.
+
+Think of your favorite examples in the scriptures. Those listening to the Apostle Peter “were pricked in their heart[s].” The Lamanite woman Abish believed the “remarkable vision of her father.” And a voice came into the mind of Enos.
+
+My friend Clayton Christensen described an experience during a very prayerful reading of the Book of Mormon this way: “A beautiful, warm, loving Spirit … surrounded me and permeated my soul, enveloping me in a feeling of love that I had not imagined I could feel [and these feelings continued night after night].”
+
+There are times when spiritual feelings go down into our heart like fire, illuminating our soul. Joseph Smith explained that we sometimes receive “sudden strokes of ideas” and occasionally the pure flow of intelligence.
+
+President Dallin H. Oaks, in responding to a sincere man who claimed never to have had such an experience, counseled, “Perhaps your prayers have been answered again and again, but you have had your expectations fixed on a sign so grand or a voice so loud that you think you have had no answer.” The Savior Himself spoke of a people with great faith who “were [blessed] with fire and with the Holy Ghost, [but who] knew it not.”
+
+We have recently heard President Russell M. Nelson say: “I invite you to think deeply and often about this key question: How do you hear Him? I also invite you to take steps to hear Him better and more often.” He repeated that invitation this morning.
+
+We hear Him in our prayers, in our homes, in the scriptures, in our hymns, as we worthily partake of the sacrament, as we declare our faith, as we serve others, and as we attend the temple with fellow believers. Spiritually defining moments come as we prayerfully listen to general conference and as we better keep the commandments. And children, these experiences are for you as well. Remember, Jesus “did teach and minister unto the children … and [the children] did speak … great and marvelous things.” The Lord said:
+
+“[This knowledge is] given by my Spirit unto you, … and save it were by my power you could not have [it];
+
+“Wherefore, you can testify that you have heard my voice, and know my words.”
+
+We can “hear Him” because of the blessing of the Savior’s incomparable Atonement.
+
+While we cannot choose the timing of receiving these defining moments, President Henry B. Eyring gave this counsel in our preparation: “Tonight, and tomorrow night, you might pray and ponder, asking the questions: Did God send a message that was just for me? Did I see His hand in my life or the lives of my [family]?” Faith, obedience, humility, and real intent open the windows of heaven.
+
+You might think of your spiritual memories this way. With constant prayer, a determination to keep our covenants, and the gift of the Holy Ghost, we navigate our way through life. When personal difficulty, doubt, or discouragement darken our path, or when world conditions beyond our control lead us to wonder about the future, the spiritually defining memories from our book of life are like luminous stones that help brighten the road ahead, assuring us that God knows us, loves us, and has sent His Son, Jesus Christ, to help us return home. And when someone sets their defining memories aside and is lost or confused, we turn them toward the Savior as we share our faith and memories with them, helping them rediscover those precious spiritual moments they once treasured.
+
+Some experiences are so sacred that we guard them in our spiritual memory and do not share them.
+
+“Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ.”
+
+“Angels [have not] ceased to minister unto the children of men.
+
+“For behold, they are subject unto [Christ], to minister according to … his command, showing themselves unto them of strong faith and a firm mind in every form of godliness.”
+
+And “the Comforter, which is the Holy Ghost, … shall teach you all things, and bring all things to your remembrance.”
+
+Embrace your sacred memories. Believe them. Write them down. Share them with your family. Trust that they come to you from your Heavenly Father and His Beloved Son. Let them bring patience to your doubts and understanding to your difficulties. I promise you that as you willingly acknowledge and carefully treasure the spiritually defining events in your life, more and more will come to you. Heavenly Father knows you and loves you!
+
+Jesus is the Christ, His gospel has been restored, and as we remain faithful, I witness we will be His forever, in the name of Jesus Christ, amen.
+
+See Saints: The Story of the Church of Jesus Christ in the Latter Days, vol. 1, The Standard of Truth, 1815–1846 (2018), 150–53; see also Joseph Smith, “History, 1838–1856, volume A-1 [23 December 1805–30 August 1834],” 205–9, josephsmithpapers.org; Saints, 1:365–66.
+
+Teachings of Presidents of the Church: Joseph Smith (2007), 525.
+
+I have always been impressed with the words in Joseph Smith—History: “I had seen a vision; I knew it, and I knew that God knew it” (Joseph Smith—History 1:25). He would have to stand before God and acknowledge that these events in the Sacred Grove actually happened in his life and that his life could never be the same because of it. About 25 years ago, I first heard a variation of this phrase by Elder Neal A. Maxwell. He gave this example: “Long ago in May 1945 there was such a moment for me on the island of Okinawa at age eighteen. There was certainly no heroism on my part but rather a blessing for me and others during the shelling of our position by Japanese artillery. After repeated shellings which overshot our position, the enemy artillery finally zeroed in. They should have then fired for effect, but there was a divine response to at least one frightened, selfish prayer. The shelling halted. … I had been blessed, and I knew that God knew that I knew” (“Becoming a Disciple,” Ensign, June 1996, 19).
+
+Elder Maxwell added not only that he knew, and not only that God knew, but that God knew that he knew he had been blessed. Symbolically for me this raises the accountability a step higher. At times, our Heavenly Father accompanies a blessing given to us with an intense spiritual confirmation that the heavens intervened on our behalf. There is no denying it. It stays with us, and if we are honest and faithful, it will shape our life in the coming years. “I had been blessed, and I knew that God knew that I knew that I had been blessed.”
+
+Russell M. Nelson, “Sweet Power of Prayer,” Ensign or Liahona, May 2003, 8.
+
+Personal story from Beatrice Magré shared with Elder Andersen on Oct. 29, 2019; follow-up email on Jan. 24, 2020.
+
+Clayton M. Christensen, “The Most Useful Piece of Knowledge,” New Era, Jan. 2009, 41; Liahona, Jan. 2009, 23.
+
+Dallin H. Oaks, Life’s Lessons Learned: Personal Reflections (2011), 116.
+
+Russell M. Nelson, “‘How Do You #HearHim?’ A Special Invitation,” Feb. 26, 2020, blog.ChurchofJesusChrist.org.
+
+Doctrine and Covenants 18:35–36. Feelings always accompany spiritual knowledge. “Ye are swift to do iniquity but slow to remember the Lord your God. Ye have seen an angel, and he spake unto you; yea, ye have heard his voice from time to time; and he hath spoken unto you in a still small voice, but ye were past feeling, that ye could not feel his words” (1 Nephi 17:45).
+
+Henry B. Eyring, “O Remember, Remember,” Ensign or Liahona, Nov. 2007, 69.
+
+See 2 Nephi 31:13; Moroni 10:4. President Dallin H. Oaks visited our mission in Bordeaux, France, in 1991. He explained to our missionaries that real intent means that the person praying is saying to the Lord something like this: “I do not ask out of curiosity but with total sincerity to act on the answer to my prayer. If Thou wilt give me this answer, I will act to change my life. I will respond.”
+
+“It is given unto many to know the mysteries of God; nevertheless they are laid under a strict command that they shall not impart only according to the portion of his word which he doth grant unto the children of men, according to the heed and diligence which they give unto him” (Alma 12:9).
+
+Elder Neal A. Maxwell said: “It takes inspiration to know when to share [spiritual experiences]. I recall hearing President Marion G. Romney, who combined wit and wisdom, say, ‘We’d have more spiritual experiences if we didn’t talk so much about them’” (“Called to Serve” [Brigham Young University devotional, Mar. 27, 1994], 9, speeches.byu.edu).
+
+The truths of the gospel are available to all. In the week prior to conference, after my talk was completed, I was spiritually drawn to a book called Divine Signatures: The Confirming Hand of God (2010), authored by Gerald N. Lund, who served as a General Authority Seventy from 2002 to 2008. To my delight, Brother Lund’s words were a beautiful second witness to the principles shared in this conference talk and will be enjoyed by anyone desiring to study more about spiritually defining memories.
+
+One of President Thomas S. Monson’s favorite quotes is from the Scottish poet James M. Barrie: “God gave us memories, that we might have June roses in the December of our lives” (in Thomas S. Monson, “Think to Thank,” Ensign, Nov. 1998, 19; Liahona, Jan. 1999, 22). The same is true with spiritual memories. They may be most helpful in the cold, trying times of our lives when we need those “June” spiritual memories.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "143138483", "context": "", "text": " See Saints: The Story of the Church of Jesus Christ in the Latter Days, vol. 1, The Standard of Truth, 1815–1846 (2018), 150–53; see also Joseph Smith, “History, 1838–1856, volume A-1 [23 December 1805–30 August 1834],” 205–9, josephsmithpapers.org; Saints, 1:365–66. ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/saints-v1/14-visions-and-nightmares?lang=eng&id=p18#p18", "text": "Saints: The Story of the Church of Jesus Christ in the Latter Days"}, {"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/211", "text": "History, 1838–1856, volume A-1 [23 December 1805–30 August 1834]"}, {"type": "cross-ref", "href": "/study/history/saints-v1/31-how-will-this-end?lang=eng&id=p41#p41", "text": "Saints"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "143138483", "context": "", "text": " Joseph Smith—History 1:25. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/js-h/1?lang=eng&id=p25#p25", "text": "Joseph Smith—History 1:25"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "143138487", "context": "", "text": " Teachings of Presidents of the Church: Joseph Smith (2007), 525. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/teachings-joseph-smith/chapter-45?lang=eng&id=p37#p37", "text": "Teachings of Presidents of the Church: Joseph Smith"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "143138491", "context": "", "text": " Doctrine and Covenants 135:4.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/135?lang=eng&id=p4#p4", "text": "Doctrine and Covenants 135:4"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "143138512", "context": "", "text": " I have always been impressed with the words in Joseph Smith—History: “I had seen a vision; I knew it, and I knew that God knew it” (Joseph Smith—History 1:25). He would have to stand before God and acknowledge that these events in the Sacred Grove actually happened in his life and that his life could never be the same because of it. About 25 years ago, I first heard a variation of this phrase by Elder Neal A. Maxwell. He gave this example: “Long ago in May 1945 there was such a moment for me on the island of Okinawa at age eighteen. There was certainly no heroism on my part but rather a blessing for me and others during the shelling of our position by Japanese artillery. After repeated shellings which overshot our position, the enemy artillery finally zeroed in. They should have then fired for effect, but there was a divine response to at least one frightened, selfish prayer. The shelling halted. … I had been blessed, and I knew that God knew that I knew” (“Becoming a Disciple,” Ensign, June 1996, 19). \n Elder Maxwell added not only that he knew, and not only that God knew, but that God knew that he knew he had been blessed. Symbolically for me this raises the accountability a step higher. At times, our Heavenly Father accompanies a blessing given to us with an intense spiritual confirmation that the heavens intervened on our behalf. There is no denying it. It stays with us, and if we are honest and faithful, it will shape our life in the coming years.
+
+“I had been blessed, and I knew that God knew that I knew that I had been blessed.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/js-h/1?lang=eng&id=p25#p25", "text": "Joseph Smith—History 1:25"}, {"type": "cross-ref", "href": "/study/ensign/1996/06/becoming-a-disciple?lang=eng", "text": "Becoming a Disciple"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "143138533", "context": "", "text": " Russell M. Nelson, “Sweet Power of Prayer,” Ensign or Liahona, May 2003, 8. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2003/04/sweet-power-of-prayer?lang=eng", "text": "Sweet Power of Prayer"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "143138583", "context": "", "text": " Personal story from Beatrice Magré shared with Elder Andersen on Oct. 29, 2019; follow-up email on Jan. 24, 2020. "}, "note8": {"id": "note8", "marker": "8.", "pid": "143138634", "context": "", "text": " Acts 2:37. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/acts/2?lang=eng&id=p37#p37", "text": "Acts 2:37"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "143138634", "context": "", "text": " Alma 19:16. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/19?lang=eng&id=p16#p16", "text": "Alma 19:16"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "143138634", "context": "", "text": " See Enos 1:5. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/enos/1?lang=eng&id=p5#p5", "text": "Enos 1:5"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "143138639", "context": "", "text": " Clayton M. Christensen, “The Most Useful Piece of Knowledge,” New Era, Jan. 2009, 41; Liahona, Jan. 2009, 23.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/new-era/2009/01/the-most-useful-piece-of-knowledge?lang=eng", "text": "The Most Useful Piece of Knowledge"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "143138645", "context": "", "text": " See Teachings: Joseph Smith, 132. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/teachings-joseph-smith/chapter-10?lang=eng&id=p24#p24", "text": "Teachings: Joseph Smith,"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "143138650", "context": "", "text": " Dallin H. Oaks, Life’s Lessons Learned: Personal Reflections (2011), 116. "}, "note14": {"id": "note14", "marker": "14.", "pid": "143138650", "context": "", "text": " 3 Nephi 9:20. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/9?lang=eng&id=p20#p20", "text": "3 Nephi 9:20"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "143138659", "context": "", "text": " Russell M. Nelson, “‘How Do You #HearHim?’ A Special Invitation,” Feb. 26, 2020, blog.ChurchofJesusChrist.org. ", "referenceUris": [{"href": "https://www.churchofjesuschrist.org/blog/how-do-you-hear-him-a-special-invitation", "text": "‘How Do You #HearHim?’ A Special Invitation"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "143138667", "context": "", "text": " 3 Nephi 26:14. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/26?lang=eng&id=p14#p14", "text": "3 Nephi 26:14"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "143139685", "context": "", "text": " Doctrine and Covenants 18:35–36. Feelings always accompany spiritual knowledge. “Ye are swift to do iniquity but slow to remember the Lord your God.
+
+Ye have seen an angel, and he spake unto you; yea, ye have heard his voice from time to time; and he hath spoken unto you in a still small voice, but ye were past feeling, that ye could not feel his words” (1 Nephi 17:45). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/18?lang=eng&id=p35-p36#p35", "text": "Doctrine and Covenants 18:35–36"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/17?lang=eng&id=p45#p45", "text": "1 Nephi 17:45"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "143139698", "context": "", "text": " Henry B. Eyring, “O Remember, Remember,” Ensign or Liahona, Nov. 2007, 69. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2007/10/o-remember-remember?lang=eng", "text": "O Remember, Remember"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "143139698", "context": "", "text": " See 2 Nephi 31:13; Moroni 10:4. President Dallin H. Oaks visited our mission in Bordeaux, France, in 1991. He explained to our missionaries that real intent means that the person praying is saying to the Lord something like this: “I do not ask out of curiosity but with total sincerity to act on the answer to my prayer. If Thou wilt give me this answer, I will act to change my life.
+
+I will respond.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/31?lang=eng&id=p13#p13", "text": "2 Nephi 31:13"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p4#p4", "text": "Moroni 10:4"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "143139717", "context": "", "text": " “It is given unto many to know the mysteries of God; nevertheless they are laid under a strict command that they shall not impart only according to the portion of his word which he doth grant unto the children of men, according to the heed and diligence which they give unto him” (Alma 12:9). \n Elder Neal A. Maxwell said: “It takes inspiration to know when to share [spiritual experiences]. I recall hearing President Marion G. Romney, who combined wit and wisdom, say, ‘We’d have more spiritual experiences if we didn’t talk so much about them’” (“Called to Serve” [Brigham Young University devotional, Mar. 27, 1994], 9, speeches.byu.edu). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/12?lang=eng&id=p9#p9", "text": "Alma 12:9"}, {"href": "https://speeches.byu.edu/talks/neal-a-maxwell/called-serve", "text": "Called to Serve"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "143139730", "context": "", "text": " 2 Nephi 32:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/32?lang=eng&id=p3#p3", "text": "2 Nephi 32:3"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "143139743", "context": "", "text": " Moroni 7:29–30.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng&id=p29-p30#p29", "text": "Moroni 7:29–30"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "143139749", "context": "", "text": " John 14:26. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p26#p26", "text": "John 14:26"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "143139756", "context": "", "text": " The truths of the gospel are available to all. In the week prior to conference, after my talk was completed, I was spiritually drawn to a book called Divine Signatures: The Confirming Hand of God (2010), authored by Gerald N. Lund, who served as a General Authority Seventy from 2002 to 2008. To my delight, Brother Lund’s words were a beautiful second witness to the principles shared in this conference talk and will be enjoyed by anyone desiring to study more about spiritually defining memories. "}, "note25": {"id": "note25", "marker": "25.", "pid": "143139756", "context": "", "text": " One of President Thomas S. Monson’s favorite quotes is from the Scottish poet James M. Barrie: “God gave us memories, that we might have June roses in the December of our lives” (in Thomas S. Monson, “Think to Thank,” Ensign, Nov. 1998, 19; Liahona, Jan. 1999, 22). The same is true with spiritual memories. They may be most helpful in the cold, trying times of our lives when we need those “June” spiritual memories. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1998/10/think-to-thank?lang=eng", "text": "Think to Thank"}]}}
+
+## Scripture citations in this talk
 
 - [[Joseph Smith—History 1]] (6×)
 - [[D&C 135]] (3×)

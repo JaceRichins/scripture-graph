@@ -7,16 +7,112 @@ year: '2021'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2021/10/41uchtdorf?lang=eng
 doc_id: talk:2021-october-daily-restoration
+full_text: true
 ---
 
 # Daily Restoration
 
-**Speaker:** Elder Dieter F. Uchtdorf · **Conference:** October 2021
-**Source:** https://www.churchofjesuschrist.org/general-conference/2021/10/41uchtdorf?lang=eng
+**Speaker:** Elder Dieter F. Uchtdorf · **Conference:** October 2021 · [source](https://www.churchofjesuschrist.org/general-conference/2021/10/41uchtdorf?lang=eng)
 
-> Daily Restoration  By Elder Dieter F. Uchtdorf  Of the Quorum of the Twelve Apostles  We need an ongoing, daily infusion of heavenly light. We need “times of refreshing.” Times of personal restoration.  We gather this beautiful Sabbath morning to speak of Christ, rejoice in His gospel, and support and sustain one another as we walk in “the way” of our Savior.  As members of The Church of Jesus Ch…
+We need an ongoing, daily infusion of heavenly light. We need “times of refreshing.” Times of personal restoration.
 
-## Explicit scripture citations
+We gather this beautiful Sabbath morning to speak of Christ, rejoice in His gospel, and support and sustain one another as we walk in “the way” of our Savior.
+
+As members of The Church of Jesus Christ of Latter-day Saints, we assemble for this purpose every Sabbath day throughout the year. If you are not a member of the Church, we welcome you most warmly and thank you for joining with us to worship the Savior and learn of Him. Like you, we are striving—though imperfectly—to become better friends, neighbors, and human beings, and we seek to do this by following our Exemplar, Jesus Christ.
+
+We hope you can feel the sincerity of our testimony. Jesus Christ lives! He is the Son of the living God, and He directs prophets on the earth in our day. We invite all to come, hear the word of God, and partake of His goodness! I bear my personal witness that God is among us and that He will surely draw near to all who draw near to Him.
+
+We consider it an honor to walk with you in the Master’s strait and narrow path of discipleship.
+
+There is an oft-repeated theory that people who are lost walk in circles. Not long ago, scientists at the Max Planck Institute for Biological Cybernetics tested that theory. They took participants to a thick forest and gave them simple instructions: “Walk in a straight line.” There were no visible landmarks. The test subjects had to rely solely on their sense of direction.
+
+The scientists concluded, “People really [do] walk in circles when they do not have reliable cues to their walking direction.” When questioned afterwards, some participants self-confidently claimed that they had not deviated in the slightest. Despite their high confidence, GPS data showed that they walked in loops as tight as 20 meters in diameter.
+
+Why do we have such a hard time walking in a straight line? Some researchers hypothesize that small, seemingly insignificant deviations in terrain make the difference. Others have pointed to the fact that we all have one leg that is slightly stronger than the other. “More likely,” however, we struggle to walk straight ahead “[because] of increasing uncertainty about where straight ahead is.”
+
+Whatever the cause, it is human nature: without reliable landmarks, we drift off course.
+
+Isn’t it interesting how small, seemingly insignificant factors can make a major difference in our lives?
+
+I know this from personal experience as a pilot. Every time I started the approach to an airport, I knew that much of my remaining work would consist of making constant minor course corrections to safely direct the aircraft to our desired landing runway.
+
+You might have a similar experience when driving a vehicle. Wind, road irregularities, imperfect wheel alignment, inattentiveness—not to mention the actions of other drivers—all can push you off your intended path. Fail to pay attention to these factors and you may end up having a bad day.
+
+Most of the changes in our spiritual lives—both positive and negative—happen gradually, a step at a time. Like the participants in the Max Planck study, we may not realize when we veer off course. We may even have high confidence that we are walking a straight line. But the fact is that without the help of landmarks to guide us, we inevitably deviate off course and end up in places we never thought we would be.
+
+This is true for individuals. It is also true for societies and nations. The scriptures are filled with examples.
+
+The book of Judges records that after Joshua died, “there arose another generation … which knew not the Lord, nor yet the works which he had done for Israel.”
+
+Despite the astonishing heavenly interventions, visitations, rescues, and miraculous victories the children of Israel witnessed during the lifetimes of Moses and Joshua, within a generation the people had abandoned the Way and began walking according to their own desires. And, of course, it did not take long before they paid the price for that behavior.
+
+Sometimes this falling away takes generations. Sometimes it happens in a matter of years or even months. But we are all susceptible. No matter how strong our spiritual experiences have been in the past, as human beings we tend to wander. That has been the pattern from the days of Adam until now.
+
+But all is not lost. Unlike the wandering test subjects, we have reliable, visible landmarks that we can use to evaluate our course.
+
+Surely they include daily prayer and pondering the scriptures and using inspired tools like Come, Follow Me. Each day, we can approach the throne of God in humility and honesty. We can ponder our actions and review the moments of our day—considering our will and desires in light of His. If we have drifted, we plead with God to restore us, and we commit to do better.
+
+This time of introspection is an opportunity for recalibration. It is a garden of reflection where we can walk with the Lord and be instructed, edified, and purified by the written and Spirit-revealed word of our Heavenly Father. It is a sacred time when we remember our solemn covenants to follow the gentle Christ, when we assess our progress and align ourselves with the spiritual landmarks God has provided for His children.
+
+Think of it as your personal, daily restoration. On our journey as pilgrims on the path of glory, we know how easy it is to fall away. But just as minor deviations can draw us out of the Savior’s Way, so too can small and simple acts of realignment assuredly lead us back. When darkness creeps into our lives, as it often does, our daily restoration opens our hearts to heavenly light, which illuminates our souls, chasing away shadows, fears, and doubts.
+
+If we seek it, surely “God shall give unto [us] knowledge by his Holy Spirit, yea, by the unspeakable gift of the Holy Ghost.” As often as we ask, He will teach us the Way and help us follow it.
+
+This, of course, takes a steady effort on our part. We cannot be content with spiritual experiences of the past. We need a steady flow.
+
+We can’t rely on others’ testimonies forever. We must build our own.
+
+We need “times of refreshing.” Times of personal restoration.
+
+“Rolling waters” cannot long “remain impure.” To keep our thoughts and actions pure, we have to keep rolling!
+
+After all, the Restoration of the gospel and the Church is not something that happened once and is over. It is an ongoing process—one day at a time, one heart at a time.
+
+As our days go, so go our lives. One author put it this way: “A day is like a whole life. You start out doing one thing, but end up doing something else, plan to run an errand, but never get there. … And at the end of your life, your whole existence has that same haphazard quality, too. Your whole life has the same shape as a single day.”
+
+Minutes and hours well spent are the building blocks of a life well lived. They can inspire goodness, lift us from the captivity of imperfections, and lead us upward to the redemptive path of forgiveness and sanctification.
+
+With you, I lift my heart in gratitude for the magnificent gift of new opportunity, new life, new hope.
+
+We lift our voices in praise of our bountiful and forgiving God. For surely He is a God of new beginnings. The sublime end of all His labor is to help us, His children, succeed in our quest for immortality and eternal life.
+
+We can become new creatures in Christ, for God has promised, “As often as my people repent will I forgive them their trespasses against me” and “remember them no more.”
+
+My beloved brothers and sisters, dear friends, we all drift from time to time.
+
+But we can get back on course. We can navigate our way through the darkness and trials of this life and find our way back to our loving Heavenly Father if we seek and accept the spiritual landmarks He has provided, embrace personal revelation, and strive for daily restoration. This is how we become true disciples of our beloved Savior, Jesus Christ.
+
+As we do so, God will smile upon us. “The Lord shall … bless thee in the land which the Lord thy God giveth thee. The Lord shall establish thee an holy people unto himself.”
+
+That we will seek daily restoration and continually strive to walk in the Way of Jesus Christ is my prayer. In the name of Jesus Christ, amen.
+
+Jesus taught, “I am the way, the truth, and the life” (John 14:6). The NIV First-Century Study Bible contains this explanation: “The image of a path or way in the Hebrew Bible often stood for keeping the commandments or teachings of God [see Psalm 1:1; 16:11; 86:11]. This was a common ancient metaphor for active participation in a set of beliefs, teachings or practices. The Dead Sea Scrolls community called themselves followers of ‘the way,’ by which they meant they were followers of their own interpretation of the path that pleased God. Paul and the first Christians also called themselves ‘follower[s] of the Way’ [see Acts 24:14]” (in “What the Bible Says about the Way, the Truth, and the Life,” Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life).
+
+In 1873, an ancient book titled the Didache was discovered in the library of the patriarch of Jerusalem at Constantinople. Many scholars believe it was written and used in the late first century (AD 80–100). The Didache begins with these words: “Two ways there are, one of life and one of death, but there is a great difference between the two ways. The way of life, then, is this: First, thou shalt love the God who made thee; secondly, thy neighbor as thyself” (Teaching of the Twelve Apostles, trans. Roswell D. Hitchcock and Francis Brown [1884], 3).
+
+Other sources, such as The Expositor’s Bible Commentary, point out that “during the early existence of the church, those who accepted Jesus’ messiahship and claimed him as their Lord called themselves those of ‘the Way’ [see Acts 19:9, 23; 22:4; 24:14, 22]” (ed. Frank E. Gaebelein and others [1981], 9:370).
+
+“Walking in Circles,” Aug. 20, 2009, Max-Planck-Gesellschaft, mpg.de.
+
+“Walking in Circles,” mpg.de. This image shows the GPS tracking of four participants in the study. Three of them walked on a cloudy day. One of them (SM) started walking while the sun was covered by clouds, but after 15 minutes the clouds dissipated, and the participant could see glimpses of sun. Notice how, once the sun was visible, the walker was much more successful in walking a straight line.
+
+For one tragic example of how a course error of a mere two degrees caused a passenger jet to crash into Mount Erebus in Antarctica, killing 257 people, see Dieter F. Uchtdorf, “A Matter of a Few Degrees,” Ensign or Liahona, May 2008, 57–60.
+
+After Christ’s visit to the Americas, the people truly repented of their sins, were baptized, and received the Holy Ghost. Where they were once a contentious and prideful people, now “there were no contentions and disputations among them, and every man did deal justly one with another” (4 Nephi 1:2). This period of righteousness lasted some two centuries before pride began to cause people to turn from the Way. However, spiritual drift can also happen much more quickly. As an example, decades earlier, in the 50th year of the reign of the judges in the Book of Mormon, there was “continual peace and great joy” among the people. But because of pride that entered the hearts of Church members, after a short period of four years “there were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed” (see Helaman 3:32–4:1).
+
+“Take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go” (James 3:4, New International Version).
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "147979107", "context": "", "text": " Jesus taught, “I am the way, the truth, and the life” (John 14:6). The NIV First-Century Study Bible contains this explanation: “The image of a path or way in the Hebrew Bible often stood for keeping the commandments or teachings of God [see Psalm 1:1; 16:11; 86:11]. This was a common ancient metaphor for active participation in a set of beliefs, teachings or practices. The Dead Sea Scrolls community called themselves followers of ‘the way,’ by which they meant they were followers of their own interpretation of the path that pleased God. Paul and the first Christians also called themselves ‘follower[s] of the Way’ [see Acts 24:14]” (in “What the Bible Says about the Way, the Truth, and the Life,” Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life). \n In 1873, an ancient book titled the Didache was discovered in the library of the patriarch of Jerusalem at Constantinople. Many scholars believe it was written and used in the late first century (AD 80–100). The Didache begins with these words: “Two ways there are, one of life and one of death, but there is a great difference between the two ways. The way of life, then, is this: First, thou shalt love the God who made thee; secondly, thy neighbor as thyself” (Teaching of the Twelve Apostles, trans. Roswell D. Hitchcock and Francis Brown [1884], 3). \n Other sources, such as The Expositor’s Bible Commentary, point out that “during the early existence of the church, those who accepted Jesus’ messiahship and claimed him as their Lord called themselves those of ‘the Way’ [see Acts 19:9, 23; 22:4; 24:14, 22]” (ed. Frank E. Gaebelein and others [1981], 9:370).
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p6#p6", "text": "John 14:6"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/ps/1?lang=eng&id=p1#p1", "text": "Psalm 1:1"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/ps/16?lang=eng&id=p11#p11", "text": "16:11"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/ps/86?lang=eng&id=p11#p11", "text": "86:11"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/acts/24?lang=eng&id=p14#p14", "text": "Acts 24:14"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/acts/19?lang=eng&id=p9%2C23#p9", "text": "Acts 19:9, 23"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/acts/22?lang=eng&id=p4#p4", "text": "22:4"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/acts/24?lang=eng&id=p14%2C22#p14", "text": "24:14, 22"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "147979108", "context": "", "text": " See Mosiah 2:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p17#p17", "text": "Mosiah 2:17"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "147979109", "context": "", "text": " See Doctrine and Covenants 88:63. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/88?lang=eng&id=p63#p63", "text": "Doctrine and Covenants 88:63"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "147979114", "context": "", "text": " “Walking in Circles,” Aug. 20, 2009, Max-Planck-Gesellschaft, mpg.de. "}, "note5": {"id": "note5", "marker": "5.", "pid": "147979115", "context": "", "text": " “Walking in Circles,” mpg.de. This image shows the GPS tracking of four participants in the study. Three of them walked on a cloudy day.
+
+One of them (SM) started walking while the sun was covered by clouds, but after 15 minutes the clouds dissipated, and the participant could see glimpses of sun. Notice how, once the sun was visible, the walker was much more successful in walking a straight line. "}, "note6": {"id": "note6", "marker": "6.", "pid": "147979123", "context": "", "text": " For one tragic example of how a course error of a mere two degrees caused a passenger jet to crash into Mount Erebus in Antarctica, killing 257 people, see Dieter F. Uchtdorf, “A Matter of a Few Degrees,” Ensign or Liahona, May 2008, 57–60. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=eng", "text": "A Matter of a Few Degrees"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "147979141", "context": "", "text": " Judges 2:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/judg/2?lang=eng&id=p10#p10", "text": "Judges 2:10"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "147979149", "context": "", "text": " After Christ’s visit to the Americas, the people truly repented of their sins, were baptized, and received the Holy Ghost. Where they were once a contentious and prideful people, now “there were no contentions and disputations among them, and every man did deal justly one with another” (4 Nephi 1:2). This period of righteousness lasted some two centuries before pride began to cause people to turn from the Way. However, spiritual drift can also happen much more quickly. As an example, decades earlier, in the 50th year of the reign of the judges in the Book of Mormon, there was “continual peace and great joy” among the people.
+
+But because of pride that entered the hearts of Church members, after a short period of four years “there were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed” (see Helaman 3:32–4:1). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/4-ne/1?lang=eng&id=p2#p2", "text": "4 Nephi 1:2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/3?lang=eng&span=3%3A32-4%3A1#p32", "text": "Helaman 3:32–4:1"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "147979183", "context": "", "text": " Doctrine and Covenants 121:26. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p26#p26", "text": "Doctrine and Covenants 121:26"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "147979204", "context": "", "text": " Acts 3:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/acts/3?lang=eng&id=p19#p19", "text": "Acts 3:19"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "147979209", "context": "", "text": " Doctrine and Covenants 121:33. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p33#p33", "text": "Doctrine and Covenants 121:33"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "147979219", "context": "", "text": " Michael Crichton, Jurassic Park (2015), 190. "}, "note13": {"id": "note13", "marker": "13.", "pid": "147979257", "context": "", "text": " “Take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go” (James 3:4, New International Version).
+
+"}, "note14": {"id": "note14", "marker": "14.", "pid": "147979299", "context": "", "text": " See Moses 1:39. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39", "text": "Moses 1:39"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "147979306", "context": "", "text": " Mosiah 26:30. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/26?lang=eng&id=p30#p30", "text": "Mosiah 26:30"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "147979306", "context": "", "text": " Doctrine and Covenants 58:42. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/58?lang=eng&id=p42#p42", "text": "Doctrine and Covenants 58:42"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "147979327", "context": "", "text": " Deuteronomy 28:8–9; see also verses 1–7. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/deut/28?lang=eng&id=p8-p9#p8", "text": "Deuteronomy 28:8–9"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/deut/28?lang=eng&id=p1-p7#p1", "text": "verses 1–7"}]}}
+
+## Scripture citations in this talk
 
 - [[D&C 121]] (6×)
 - [[Acts 24]] (5×)

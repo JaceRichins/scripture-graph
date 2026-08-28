@@ -7,16 +7,106 @@ year: '2022'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2022/10/43gong?lang=eng
 doc_id: talk:2022-october-happy-and-forever
+full_text: true
 ---
 
 # Happy and Forever
 
-**Speaker:** Elder Gerrit W. Gong · **Conference:** October 2022
-**Source:** https://www.churchofjesuschrist.org/general-conference/2022/10/43gong?lang=eng
+**Speaker:** Elder Gerrit W. Gong · **Conference:** October 2022 · [source](https://www.churchofjesuschrist.org/general-conference/2022/10/43gong?lang=eng)
 
-> Happy and Forever  By Elder Gerrit W. Gong  Of the Quorum of the Twelve Apostles  True, enduring joy and eternity with those we love are the very essence of God’s plan of happiness.  Friends, dear brothers and sisters, do you remember believing, or wanting to believe, in happily ever after?  Then life happens. We “grow up.” Relationships get complicated. This world is noisy, crowded, pushy, with …
+True, enduring joy and eternity with those we love are the very essence of God’s plan of happiness.
 
-## Explicit scripture citations
+Friends, dear brothers and sisters, do you remember believing, or wanting to believe, in happily ever after?
+
+Then life happens. We “grow up.” Relationships get complicated. This world is noisy, crowded, pushy, with pretense and posturing. Yet, in our “deep heart’s core,” we believe, or want to believe, somewhere, somehow, happy and forever are real and possible.
+
+“Happy and forever” are not the imaginary stuff of fairy tales. True, enduring joy and eternity with those we love are the very essence of God’s plan of happiness. His lovingly prepared way can make our eternal journey happy and forever.
+
+We have much to celebrate and for which to be grateful. Yet, none of us is perfect, nor is any family. Our relationships include love, sociality, and personality but often also friction, hurt, sometimes profound pain.
+
+“For as in Adam all die, even so in Christ shall all be made alive.” Alive in Jesus Christ includes immortality—His gift of our physical resurrection. As we live with faith and obedience, alive in Christ can also include joyfully abundant eternal life with God and those we love.
+
+In a remarkable way, the Lord’s prophet is drawing us closer to our Savior, including through sacred temple ordinances and covenants coming closer to us in more places. We have a profound opportunity and gift to discover new spiritual understanding, love, repentance, and forgiveness with each other and our families, in time and eternity.
+
+By permission, I share two sacred, unusually spiritually direct experiences told by friends about Jesus Christ uniting families by healing even intergenerational conflict. “Infinite and eternal,” “stronger than the cords of death,” Jesus Christ’s Atonement can help us bring peace to our past and hope to our future.
+
+When they joined The Church of Jesus Christ of Latter-day Saints, my friend and her husband joyfully learned family relationships need not be “until death do you part.” In the house of the Lord, families can be united eternally (sealed).
+
+But my friend did not want to be sealed to her father. “He was not a nice husband to my mother. He was not a nice dad to his children,” she said. “My dad will have to wait. I do not have any desire to do his temple work and be sealed with him in eternity.”
+
+For a year, she fasted, prayed, spoke a lot with the Lord about her father. Finally, she was ready. Her father’s temple work was completed. Later, she said, “In my sleep my dad appeared to me in a dream, all dressed in white. He had changed. He said, ‘Look at me. I am all clean. Thank you for doing the work for me in the temple.’” Her father added, “Get up and go back to the temple; your brother is waiting to be baptized.”
+
+My friend says, “My ancestors and those that have passed on are eagerly waiting for their work to be done.”
+
+“As for me,” she says, “the temple is a place of healing, learning, and acknowledging the Atonement of Jesus Christ.”
+
+Second experience. Another friend researched diligently his family history. He wanted to identify his great-grandfather.
+
+Early one morning, my friend said he felt the spiritual presence of a man in his room. The man wanted to be found and known in his family. The man felt remorse for a mistake for which he had now repented. The man helped my friend realize that my friend had no DNA connection with the person my friend thought was his great-grandfather. “In other words,” my friend said, “I had discovered my great-grandfather and learned he was not the person our family records said was our great-grandfather.”
+
+His family relationships clarified, my friend said, “I feel free, at peace. It makes all the difference to know who my family are.” My friend muses, “A bent branch does not mean a bad tree. How we come into this world is less important than who we are when we leave it.”
+
+The holy scriptures and sacred experiences of personal healing and peace, including with those alive in the spirit world, underscore five doctrinal principles.
+
+First: Central in God’s plan of redemption and happiness, Jesus Christ, through His Atonement, promises to unite our spirit and body, “never again to be divided, that [we] might receive a fulness of joy.”
+
+Second: Atonement—at-one-ment in Christ—comes as we exercise faith and bring forth fruits unto repentance. As in mortality, so in immortality. Temple ordinances do not of themselves change us or those in the spirit world. But these divine ordinances enable sanctifying covenants with the Lord, which can bring harmony with Him and each other.
+
+Our joy becomes full as we feel Jesus Christ’s grace and forgiveness for us. And as we offer the miracle of His grace and forgiveness to each other, the mercy we receive and the mercy we offer can help make life’s injustices just.
+
+Third: God knows and loves us perfectly. “God is not mocked,” nor can He be deceived. With perfect mercy and justice, He encircles in His arms of safety the humble and penitent.
+
+In the Kirtland Temple, the Prophet Joseph Smith saw in vision his brother Alvin saved in the celestial kingdom. The Prophet Joseph marveled, since Alvin had died before receiving the saving ordinance of baptism. Comfortingly, the Lord explained why: The Lord “will judge [us] according to [our] works, according to the desire of [our] hearts.” Our souls bear record of our works and desires.
+
+Gratefully, we know the living and “the dead who repent will be redeemed, through obedience to the ordinances of the house of God” and Christ’s Atonement. In the spirit world, even those in sin and transgression have opportunity to repent.
+
+In contrast, those who deliberately choose wickedness, who consciously procrastinate repentance, or who in any premeditated or knowing way break the commandments, planning for easy repentance, will be judged by God and a “bright recollection of all [their] guilt.” We cannot knowingly sin on Saturday, then expect automatic forgiveness by partaking of the sacrament on Sunday. To missionaries or others who say following the Spirit means not having to obey mission standards or the commandments, please remember that obeying mission standards and the commandments invite the Spirit. We should none of us put off repentance. The blessings of repentance begin as we begin to repent.
+
+Fourth: The Lord gives us divine opportunity to become more like Him as we offer proxy saving temple ordinances others need but cannot do for themselves. We become more complete and perfected as we become “saviours … on mount Zion.” As we serve others, the Holy Spirit of Promise can ratify the ordinances and sanctify both giver and receiver. Both giver and receiver can make and deepen transforming covenants, over time receiving the blessings promised Abraham, Isaac, and Jacob.
+
+Finally, fifth: As the Golden Rule teaches, a sanctifying symmetry in repentance and forgiveness invites us each to offer others that which we ourselves need and desire.
+
+Sometimes our willingness to forgive someone else enables both them and us to believe we can repent and be forgiven. Sometimes a willingness to repent and an ability to forgive come at different times. Our Savior is our Mediator with God, but He also helps bring us to ourselves and each other as we come to Him. Especially when hurt and pain are deep, repairing our relationships and healing our hearts is hard, perhaps impossible for us on our own. But heaven can give us strength and wisdom beyond our own to know when to hold on and how to let go.
+
+We are less alone when we realize we are not alone. Our Savior always understands. With our Savior’s help, we can surrender our pride, our hurts, our sins to God. However we may feel as we begin, we become more whole as we trust Him to make our relationships whole.
+
+The Lord, who sees and understands perfectly, forgives whom He will; we (being imperfect) are to forgive all. As we come to our Savior, we focus less on ourselves. We judge less and forgive more. Trusting His merits, mercy, and grace can free us from contention, anger, abuse, abandonment, unfairness, and the physical and mental challenges that sometimes come with a physical body in a mortal world. Happy and forever do not mean that every relationship will be happy and forever. But a thousand millennial years when Satan is bound may give us needed time and surprising ways to love, understand, and work things out as we prepare for eternity.
+
+We find heaven’s sociality in each other. God’s work and glory include bringing to pass happy and forever. Eternal life and exaltation are to know God and Jesus Christ so, through godly power, where They are we shall be.
+
+Dear brothers and sisters, God our Heavenly Father and His Beloved Son live. They offer peace, joy, and healing to every kindred and tongue, to each of us. The Lord’s prophet is leading the way. Latter-day revelation continues. May we draw closer to our Savior in the holy house of the Lord, and may He draw us closer to God and each other as we knit our hearts together in Christ-given compassion, truth, and mercy in all our generations—in time and eternity, happy and forever. In Jesus Christ, it is possible; in Jesus Christ, it is true. I so witness, in His holy name, Jesus Christ, amen.
+
+William Butler Yeats, “The Lake Isle of Innisfree,” in The Norton Anthology of English Literature, 5th ed. (1986), 1936.
+
+There are many sacred experiences of hope and promises for change as we and those we love come to Jesus Christ through temple ordinances and covenants on both sides of the veil.
+
+See Matthew 3:8 (or Joseph Smith Translation, Matthew 3:35 [in the Bible appendix]); Luke 3:8; Alma 5:15; 12:15; 13:11–13; 34:30–33; Moroni 6:1–4; 7:25; 8:25.
+
+See Alma 42:13–15; see also Robert Frost, “A Masque of Mercy,” Complete Poems of Robert Frost, ed. Edward Connery Lathem (1969), 521, where Frost writes, “Nothing can make injustice just but mercy.”
+
+Doctrine and Covenants 137:9; see also verses 7–8, 10. Indeed, “all who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God.” Further, the Lord continues, “All that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom.”
+
+See Doctrine and Covenants 128:15 and footnote b in Matthew 5:48, which shows the Greek translation for perfect as “complete, finished, fully developed.”
+
+“He [was] despised and rejected of men; a man of sorrows, and acquainted with grief” (Isaiah 53:3), but also a Man who gathered the little children and wept with a joy that was full (see 3 Nephi 17:20–24).
+
+See Doctrine and Covenants 43:30–31. 1 Nephi 22:26 reminds us that Satan’s power will be limited in the Millennium “because of the righteousness of [the Lord’s] people.”
+
+See Doctrine and Covenants 132:23–24; see also Doctrine and Covenants 29:29, which says, “For where I am they cannot come, for they have no power.”
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "152799584", "context": "", "text": " William Butler Yeats, “The Lake Isle of Innisfree,” in The Norton Anthology of English Literature, 5th ed. (1986), 1936. "}, "note2": {"id": "note2", "marker": "2.", "pid": "152799598", "context": "", "text": " 1 Corinthians 15:22. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/15?lang=eng&id=p22#p22", "text": "1 Corinthians 15:22"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "152799606", "context": "", "text": " There are many sacred experiences of hope and promises for change as we and those we love come to Jesus Christ through temple ordinances and covenants on both sides of the veil. "}, "note4": {"id": "note4", "marker": "4.", "pid": "152799606", "context": "", "text": " Alma 34:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/34?lang=eng&id=p10#p10", "text": "Alma 34:10"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "152799606", "context": "", "text": " Doctrine and Covenants 121:44. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p44#p44", "text": "Doctrine and Covenants 121:44"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "152799649", "context": "", "text": " Doctrine and Covenants 138:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p17#p17", "text": "Doctrine and Covenants 138:17"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "152799653", "context": "", "text": " See Matthew 3:8 (or Joseph Smith Translation, Matthew 3:35 [in the Bible appendix]); Luke 3:8; Alma 5:15; 12:15; 13:11–13; 34:30–33; Moroni 6:1–4; 7:25; 8:25.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/3?lang=eng&id=p8#p8", "text": "Matthew 3:8"}, {"type": "scripture-ref", "href": "/study/scriptures/jst/jst-matt/3?lang=eng&id=p35#p35", "text": "Joseph Smith Translation, Matthew 3:35"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/luke/3?lang=eng&id=p8#p8", "text": "Luke 3:8"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/5?lang=eng&id=p15#p15", "text": "Alma 5:15"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/12?lang=eng&id=p15#p15", "text": "12:15"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/13?lang=eng&id=p11-p13#p11", "text": "13:11–13"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/34?lang=eng&id=p30-p33#p30", "text": "34:30–33"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/6?lang=eng&id=p1-p4#p1", "text": "Moroni 6:1–4"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng&id=p25#p25", "text": "7:25"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/8?lang=eng&id=p25#p25", "text": "8:25"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "152799657", "context": "", "text": " See Alma 42:13–15; see also Robert Frost, “A Masque of Mercy,” Complete Poems of Robert Frost, ed. Edward Connery Lathem (1969), 521, where Frost writes, “Nothing can make injustice just but mercy.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/42?lang=eng&id=p13-p15#p13", "text": "Alma 42:13–15"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "152799661", "context": "", "text": " Galatians 6:7.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/gal/6?lang=eng&id=p7#p7", "text": "Galatians 6:7"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "152799665", "context": "", "text": " See Doctrine and Covenants 137:1–6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/137?lang=eng&id=p1-p6#p1", "text": "Doctrine and Covenants 137:1–6"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "152799665", "context": "", "text": " Doctrine and Covenants 137:9; see also verses 7–8, 10. Indeed, “all who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God.” Further, the Lord continues, “All that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/137?lang=eng&id=p9#p9", "text": "Doctrine and Covenants 137:9"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/137?lang=eng&id=p7-p8%2C10#p7", "text": "verses 7–8, 10"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "152799669", "context": "", "text": " Doctrine and Covenants 138:58. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p58#p58", "text": "Doctrine and Covenants 138:58"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "152799669", "context": "", "text": " See Doctrine and Covenants 138:32.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p32#p32", "text": "Doctrine and Covenants 138:32"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "152799673", "context": "", "text": " Alma 11:43. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/11?lang=eng&id=p43#p43", "text": "Alma 11:43"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "152799677", "context": "", "text": " See Doctrine and Covenants 128:15 and footnote b in Matthew 5:48, which shows the Greek translation for perfect as “complete, finished, fully developed.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/128?lang=eng&id=p15#p15", "text": "Doctrine and Covenants 128:15"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p48#p48", "text": "Matthew 5:48"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "152799677", "context": "", "text": " Obadiah 1:21. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/obad/1?lang=eng&id=p21#p21", "text": "Obadiah 1:21"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "152799681", "context": "", "text": " See Matthew 7:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/7?lang=eng&id=p12#p12", "text": "Matthew 7:12"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "152799688", "context": "", "text": " “He [was] despised and rejected of men; a man of sorrows, and acquainted with grief” (Isaiah 53:3), but also a Man who gathered the little children and wept with a joy that was full (see 3 Nephi 17:20–24).
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/isa/53?lang=eng&id=p3#p3", "text": "Isaiah 53:3"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/17?lang=eng&id=p20-p24#p20", "text": "3 Nephi 17:20–24"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "152799692", "context": "", "text": " See 2 Nephi 2:8. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/2?lang=eng&id=p8#p8", "text": "2 Nephi 2:8"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "152799692", "context": "", "text": " See Doctrine and Covenants 43:30–31. 1 Nephi 22:26 reminds us that Satan’s power will be limited in the Millennium “because of the righteousness of [the Lord’s] people.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/43?lang=eng&id=p30-p31#p30", "text": "Doctrine and Covenants 43:30–31"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/22?lang=eng&id=p26#p26", "text": "1 Nephi 22:26"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "152799697", "context": "", "text": " See Doctrine and Covenants 130:2. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/130?lang=eng&id=p2#p2", "text": "Doctrine and Covenants 130:2"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "152799697", "context": "", "text": " See Moses 1:39.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39", "text": "Moses 1:39"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "152799697", "context": "", "text": " See Doctrine and Covenants 132:23–24; see also Doctrine and Covenants 29:29, which says, “For where I am they cannot come, for they have no power.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/132?lang=eng&id=p23-p24#p23", "text": "Doctrine and Covenants 132:23–24"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/29?lang=eng&id=p29#p29", "text": "Doctrine and Covenants 29:29"}]}}
+
+## Scripture citations in this talk
 
 - [[D&C 138]] (9×)
 - [[Matthew 3]] (6×)

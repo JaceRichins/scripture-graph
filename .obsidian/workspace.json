@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
+                "file": "Scripture Graph/10 General Conference/2025/April/“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)"
+              "title": "“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
+                "file": "Scripture Graph/10 General Conference/2025/April/“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
+                "file": "Scripture Graph/10 General Conference/2025/April/“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
+                "file": "Scripture Graph/10 General Conference/2025/April/“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,43 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab3a37a392f0115b",
+  "active": "2de32762ba95d0dc",
   "lastOpenFiles": [
-    "scripturegraph/corpus/fetchers.py.tmp.52664.8ca2823b42f0",
-    "scripturegraph/corpus/fetchers.py.tmp.52664.a1b3e0471979",
-    "scripturegraph/corpus/fetchers.py.tmp.52664.9b77da9c0575",
-    "sources/downloads/archive-org/conference-reports/conferencereport1880a.import.json",
-    "sources/downloads/archive-org/conference-reports/conferencereport1880a.txt",
-    "sources/downloads/archive-org/conference-reports",
-    "sources/downloads/archive-org/lucy-mack-smith/per_utah-and-the-mormons_biographical-sketches-of-joseph-smith-_1853.txt",
-    "sources/downloads/archive-org/lucy-mack-smith",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV26.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV25.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV24.txt",
-    "Scripture Graph/10 General Conference/2025/October/“Lovest Thou Me” (Elder Steven C. Barlow, October 2025).md",
-    "Scripture Graph/03 People/Jesus Christ.md",
-    "Scripture Graph/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/They Are Their Own Judges (Elder David A. Bednar, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Power of Ministering to the One (Elder Peter M. Johnson, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Good News Recipe (Elder John D. Amos, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Family-Centered Gospel of Jesus Christ (President Dallin H. Oaks, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Family Proclamation—Words from God (Elder Ronald A. Rasband, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Book of Mormon—an Immeasurable Treasure on Our Journey (Elder Ozani Farias, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Sustaining of General Authorities, Area Seventies, and General Officers (Presented by Elder Henry B. Eyring, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/That All May Be Edified (Brother Chad H Webb, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Remembering the Sheep (Elder William K. Jackson, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Smiling Faces and Grateful Hearts (Elder Carlos A. Godoy, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Simplicity in Christ (Elder Michael Cziesla, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Proved and Strengthened in Christ (Elder Henry B. Eyring, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Prophets of God (Sister Andrea Muñoz Spannaus, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Know Who You Really Are (Elder Brik V. Eyre, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/No One Sits Alone (Elder Gerrit W. Gong, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Introduction (President Dallin H. Oaks, October 2025).md"
+    "Scripture Graph/10 General Conference/1930/April/Conference Report, April 1930 (General Conference (full report), April 1930).md",
+    "Scripture Graph/10 General Conference/1930/April",
+    "Scripture Graph/10 General Conference/1930",
+    "sources/downloads/archive-org/conference-reports/conferencereport1930a.import.json",
+    "sources/downloads/archive-org/conference-reports/conferencereport1930a.txt",
+    "Scripture Graph/10 General Conference/1929/October/Conference Report, October 1929 (General Conference (full report), October 1929).md",
+    "Scripture Graph/10 General Conference/1929/October",
+    "sources/downloads/archive-org/conference-reports/conferencereport1929sa.import.json",
+    "sources/downloads/archive-org/conference-reports/conferencereport1929sa.txt",
+    "Scripture Graph/10 General Conference/1929/April/Conference Report, April 1929 (General Conference (full report), April 1929).md",
+    "Scripture Graph/10 General Conference/1929/April",
+    "Scripture Graph/10 General Conference/1929",
+    "sources/downloads/archive-org/conference-reports/conferencereport1929a.import.json",
+    "Scripture Graph/10 General Conference/1928/October/Conference Report, October 1928 (General Conference (full report), October 1928).md",
+    "Scripture Graph/10 General Conference/1928/April/Conference Report, April 1928 (General Conference (full report), April 1928).md",
+    "Scripture Graph/10 General Conference/1927/October/Conference Report, October 1927 (General Conference (full report), October 1927).md",
+    "Scripture Graph/10 General Conference/1927/April/Conference Report, April 1927 (General Conference (full report), April 1927).md",
+    "Scripture Graph/10 General Conference/1926/October/Conference Report, October 1926 (General Conference (full report), October 1926).md",
+    "Scripture Graph/10 General Conference/1926/April/Conference Report, April 1926 (General Conference (full report), April 1926).md",
+    "Scripture Graph/10 General Conference/2026/April/The Character of Christ (President D. Todd Christofferson, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/“I Will Give Away All My Sins to Know Thee” (Elder Wan-Liang Wu, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/“Here Am I, Send Me” (President Susan H. Porter, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Tithing—Putting God First (Elder Jorge T. Becerra, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Sustaining of General Authorities, Area Seventies, and General Officers (Presented by President D. Todd Christofferson, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Remember, Remember (Elder Chi Hong (Sam) Wong, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Solemn Assembly (Presented by President D. Todd Christofferson, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Prayers for Peace (President Henry B. Eyring, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Love All; Love Each (Elder Gérald Caussé, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Lost Luggage, Redeemed Souls (Elder Gary E. Stevenson, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026).md",
+    "Scripture Graph/10 General Conference/2026/April/Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026).md"
   ]
 }

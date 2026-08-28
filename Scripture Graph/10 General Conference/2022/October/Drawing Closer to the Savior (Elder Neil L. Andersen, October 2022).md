@@ -7,16 +7,126 @@ year: '2022'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2022/10/35andersen?lang=eng
 doc_id: talk:2022-october-drawing-closer-to-the-savior
+full_text: true
 ---
 
 # Drawing Closer to the Savior
 
-**Speaker:** Elder Neil L. Andersen · **Conference:** October 2022
-**Source:** https://www.churchofjesuschrist.org/general-conference/2022/10/35andersen?lang=eng
+**Speaker:** Elder Neil L. Andersen · **Conference:** October 2022 · [source](https://www.churchofjesuschrist.org/general-conference/2022/10/35andersen?lang=eng)
 
-> Drawing Closer to the Savior  By Elder Neil L. Andersen  Of the Quorum of the Twelve Apostles  Seeking to know and love the Savior, we separate ourselves from the world through covenants with God, being distinct, uncommon, and special, without isolating ourselves from others who believe differently.  My dear brothers and sisters, this evening I speak to the humble and devoted followers of Jesus C…
+Seeking to know and love the Savior, we separate ourselves from the world through covenants with God, being distinct, uncommon, and special, without isolating ourselves from others who believe differently.
 
-## Explicit scripture citations
+My dear brothers and sisters, this evening I speak to the humble and devoted followers of Jesus Christ. As I see the goodness of your lives and your faith in our Savior here in this country and in the nations across the world, I love you all the more.
+
+Toward the end of His ministry, Jesus’s disciples asked Him to tell them of “the sign of [His Second Coming], and of the end of the world.”
+
+Jesus told them of the conditions that would precede His return and concluded by declaring, “When ye shall see all these things, [you will] know that [the time] is near.”
+
+In the last general conference, I listened very closely to the words of President Henry B. Eyring: “Each of us,” he said, “wherever we are, knows that we live in increasingly perilous times. … Anyone with eyes to see the signs of the times and ears to hear the words of prophets knows that is true.”
+
+The Savior commended His valiant disciples: “Blessed are your eyes, for they see: and your ears, for they hear.” May this blessing be ours as we listen closely to the words of the Lord through His prophets and others in this conference.
+
+The Lord explained that in this final time prior to His return, the “wheat,” whom He describes as “the children of the kingdom,” would grow side by side with the “tares,” or those who do not love God and do not keep His commandments. They would “both grow together,” side by side.
+
+This will be our world until the Savior returns, with much that is good and much that is evil on every side.
+
+You may at times not feel like a strong, mature strand of wheat. Be patient with yourself! The Lord said that the wheat would include tender blades springing up. We are all His Latter-day Saints, and although not yet all we want to be, we are serious in our desire to be His true disciples.
+
+We realize that as evil increases in the world, our spiritual survival, and the spiritual survival of those we love, will require that we more fully nurture, fortify, and strengthen the roots of our faith in Jesus Christ. The Apostle Paul counseled us to be rooted, grounded, and settled in our love for the Savior and our determination to follow Him. Today and the days ahead require more focused and concentrated effort, guarding against diversions and carelessness.
+
+But even with the increasing worldly influences around us, we need not fear. The Lord will never desert His covenant people. There is a compensatory power of spiritual gifts and divine direction for the righteous. This added blessing of spiritual power, however, does not settle upon us just because we are part of this generation. It comes as we strengthen our faith in the Lord Jesus Christ and keep His commandments, as we come to know Him and love Him. “This is life eternal,” Jesus prayed, “that they might know thee the only true God, and Jesus Christ, whom thou hast sent.”
+
+As we know very well, having faith in Jesus Christ and being a true disciple is more than a one-time decision—more than a one-time event. It is a sacred, ongoing process that grows and expands through the seasons of our lives, continuing until we kneel at His feet.
+
+With the wheat growing amidst the tares in the world, how can we deepen and strengthen our commitment to the Savior in the days ahead?
+
+First, we can immerse ourselves more completely into Jesus’s life, His teachings, His majesty, His power, and His atoning sacrifice. The Savior said, “Look unto me in every thought.” The Apostle John reminds us, “We love him, because he first loved us.” As we better experience His love, we love Him even more and, very naturally, better follow His example of loving and caring for those around us. With every righteous movement toward Him, we see Him more clearly. We adore Him, and we try in our small ways to emulate Him.
+
+Next, as we better know and love the Savior, we desire even more to promise Him our allegiance and trust. We make covenants with Him. We begin with our promises at baptism, and we confirm these promises and others as we repent daily, ask for forgiveness, and eagerly anticipate receiving the sacrament each week. We pledge to “always remember him and keep his commandments.”
+
+When we are ready, we embrace the ordinances and covenants of the temple. Feeling the influence of eternity in our sacred, quiet moments in the house of the Lord, we gladly make covenants with God and strengthen our resolve to keep them.
+
+Making and keeping covenants allows the love of the Savior to sink more deeply into our heart. In this month’s Liahona, President Russell M. Nelson said: “[Our] covenant[s] will lead us closer and closer to Him. … God will not abandon His relationship with those who have forged such a bond with Him.” And as President Nelson said so beautifully this morning, “With the dedication of each new temple, additional godly power comes into the world to strengthen us and counteracts the intensifying efforts of the adversary.”
+
+Can we see why the Lord would direct His prophet to bring the holy temples closer to us and allow us to be in His house more often?
+
+As we enter the temple, we are freed for a time from the worldly influences crowding against us as we learn of our purpose in life and the eternal gifts offered us through our Savior, Jesus Christ.
+
+Finally, my third thought: in this sacred quest, we treasure, protect, defend, and safeguard the gift of the Holy Ghost. Both President M. Russell Ballard earlier and Elder Kevin W. Pearson just moments ago spoke of President Nelson’s prophetic warning that I will repeat again: “It will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.” It is a gift beyond price. We do our very best to protect our daily experiences so the influence of the Holy Ghost remains with us. We are a light to the world, and when necessary, we willingly choose to be different from others. President Dallin H. Oaks recently asked young adults: “Do [you] ‘dare to be different?’ … [Especially] important … are the choices you are making in your personal life. … Are you going forward against the world’s opposition?”
+
+In a recent social media post, I asked fellow disciples to share choices they had made that required them to be different from the world. I received hundreds of responses. Here are just a few:
+
+Amanda: I am a nurse working in the local jail. I try caring for inmates as Christ would.
+
+Rachel: I am an opera singer, and it’s often taken for granted that I will wear whatever costume I’m given, regardless of modesty. [Because I am endowed,] I told [the producers] that the costume would need to be [modest]. They were unhappy … but reluctantly made the alterations. I wouldn’t trade the peace that comes from standing as a witness of Christ at all times.
+
+Chriss: I’m an alcoholic (in recovery), temple-worthy, member of the Church. I’m not quiet about my experiences with addiction and gaining a testimony of the Atonement [of Jesus Christ].
+
+Lauren: I was writing a skit with my classmates in high school. They wanted to have my quiet, reserved character have a sudden outburst of profanity. They kept pressuring me, but I refused and held my ground.
+
+Adam: A lot of people do not believe me when I say I keep the law of chastity and choose to abstain from pornography. They don’t understand the advantage of joy and peace of mind it gives me.
+
+Ella: My father is a member of the LGBTQ community. I always try to keep other people’s feelings in consideration while standing as a witness of Christ and being true to what I believe.
+
+Andrade: I decided to continue to go to church when my family decided not to go anymore.
+
+And finally, from Sherry: We were attending an event at the governor’s mansion. They began handing out champagne for a “toast.” I insisted on water, although the staff said it would be offensive. We toasted the governor, and I held my water glass high! The governor was not offended.
+
+President Nelson said, “Yes, you are living in the world, but you have very different standards from the world to help you avoid the stain of the world.”
+
+Anastasia, a young mother in Ukraine, was in the hospital having just given birth to a baby boy as the bombings began in Kyiv this past February. A nurse opened the hospital room door and said with an urgent voice, “Take your baby, wrap him in a blanket, and go into the hall—now!”
+
+“I never imagined my first days of motherhood would be so difficult, … but … I am focusing on … the blessings and miracles I have seen. …
+
+“Right now, … it might seem impossible to ever forgive those who have caused so much destruction and harm … , but as a disciple of Christ, I have faith that I will be able to [forgive]. …
+
+“I don’t know all that will happen in the future … but I know that keeping our covenants will allow the Spirit to be with us continually, … allowing us to feel joy and hope, … even during difficult times.”
+
+My brothers and sisters, I have been blessed to abundantly receive the love of our beloved Savior, Jesus Christ. I know He lives and guides His holy work. I do not fully have the words to express my love for Him.
+
+We are all “children of the covenant” stretching across the earth in nations and cultures on every continent, numbering in the millions, as we await the glorious return of our Lord and Savior. Shining as a light to those around us, we consciously shape our desires, thoughts, choices, and actions. Seeking with all our heart to know and love the Savior, we separate ourselves from the world through covenants with God, being distinct, uncommon, and special, as we honor Him and His teachings without isolating ourselves from others who believe differently.
+
+It is a wondrous journey to be wheat among the tares, sometimes fraught with heartache but always calmed by the maturing and assuring settling of our faith. As you allow your love for the Savior and His love for you to sink deep into your heart, I promise you added confidence, peace, and joy in meeting the challenges of your life. And the Savior promises us: “I [will] gather together my people, according to the parable of the wheat and the tares, that the wheat may be secured in the garners to possess eternal life, and be crowned with celestial glory.” In the name of Jesus Christ, amen.
+
+Henry B. Eyring, “Steady in the Storms,” Liahona, May 2022, 27.
+
+Elder Neal A. Maxwell said: “Church members will live in this wheat-and-tares situation until the Millennium. Some real tares even masquerade as wheat” (“Becometh as a Child,” Ensign, May 1996, 68).
+
+See Colossians 1:23; see also Ephesians 3:17; Neal A. Maxwell, “Grounded, Rooted, Established, and Settled” (Brigham Young University devotional, Sept. 15, 1981), speeches.byu.edu.
+
+In Matthew 13:22, Jesus cautioned His disciples to not allow the cares of the world and the deceitfulness of riches to “choke the word” and stop their spiritual progress. I like to tie the phrase “choke the word” to the first chapter of John, where John declares the word to be Jesus: “In the beginning was the Word, and the Word was with God. … All things were made by him; and without him was not any thing made that was made” (John 1:1, 3). Our faith in Jesus Christ, our determination to follow Him, our love for the Savior can be choked, or prevented from growing, as it is deprived of spiritual light and nourishment (see Alma 32:37–41).
+
+See Neil L. Andersen, “A Compensatory Spiritual Power for the Righteous” (Brigham Young University devotional, Aug. 18, 2015), speeches.byu.edu.
+
+“It is true that some have actually seen the Savior, but when one consults the dictionary, he learns that there are many other meanings of the word see, such as coming to know Him, discerning Him, recognizing Him and His work, perceiving His importance, or coming to understand Him.
+
+“Such heavenly enlightenment and blessings are available to each of us” (“Temples and Work Therein,” Ensign, Nov. 1990, 61).
+
+Russell M. Nelson, “The Everlasting Covenant,” Liahona, Oct. 2022, 5.
+
+Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 96.
+
+Dallin H. Oaks, “Going Forward in the Second Century” (Brigham Young University devotional, Sept. 13, 2022), speeches.byu.edu. President Oaks credited the phrase “dare to be different” to a recent article in the Deseret Magazine by Elder Clark G. Gilbert, the Church Educational System Commissioner, on preserving religious identity in higher education (see “Dare to Be Different,” Deseret Magazine, Sept. 2022, deseret.com).
+
+If you would like to learn from others who commented on how they have been different from the world, you can read their comments on Facebook (see Neil L. Andersen, Facebook, Aug. 18, 2022, facebook.com/neill.andersen) or Instagram (see Neil L. Andersen, Instagram, Aug. 18, 2022, instagram.com/neillandersen).
+
+Russell M. Nelson, “Hope of Israel” (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org.
+
+Anastasia Kocheva, “Facing the Conflict in Ukraine, Healing the Conflict in My Heart,” YA Weekly, May 2022.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "152798599", "context": "", "text": " Matthew 24:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/24?lang=eng&id=p3#p3", "text": "Matthew 24:3"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "152798602", "context": "", "text": " Matthew 24:33. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/24?lang=eng&id=p33#p33", "text": "Matthew 24:33"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "152798605", "context": "", "text": " Henry B. Eyring, “Steady in the Storms,” Liahona, May 2022, 27. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2022/04/18eyring?lang=eng", "text": "Steady in the Storms"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "152798608", "context": "", "text": " Matthew 13:16; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p16#p16", "text": "Matthew 13:16"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "152798617", "context": "", "text": " Matthew 13:38. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p38#p38", "text": "Matthew 13:38"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "152798617", "context": "", "text": " Matthew 13:30. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p30#p30", "text": "Matthew 13:30"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "152798621", "context": "", "text": " Elder Neal A. Maxwell said: “Church members will live in this wheat-and-tares situation until the Millennium. Some real tares even masquerade as wheat” (“Becometh as a Child,” Ensign, May 1996, 68).
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1996/04/becometh-as-a-child?lang=eng&id=p10#p10", "text": "Becometh as a Child"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "152798625", "context": "", "text": " See Doctrine and Covenants 86:4, 6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/86?lang=eng&id=p4%2C6#p4", "text": "Doctrine and Covenants 86:4, 6"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "152798633", "context": "", "text": " See Colossians 2:7. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/col/2?lang=eng&id=p7#p7", "text": "Colossians 2:7"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "152798633", "context": "", "text": " See Colossians 1:23; see also Ephesians 3:17; Neal A. Maxwell, “Grounded, Rooted, Established, and Settled” (Brigham Young University devotional, Sept. 15, 1981), speeches.byu.edu. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/col/1?lang=eng&id=p23#p23", "text": "Colossians 1:23"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/eph/3?lang=eng&id=p17#p17", "text": "Ephesians 3:17"}, {"href": "https://speeches.byu.edu/talks/neal-a-maxwell/grounded-rooted-established-settled", "text": "Grounded, Rooted, Established, and Settled"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "152798633", "context": "", "text": " In Matthew 13:22, Jesus cautioned His disciples to not allow the cares of the world and the deceitfulness of riches to “choke the word” and stop their spiritual progress. I like to tie the phrase “choke the word” to the first chapter of John, where John declares the word to be Jesus: “In the beginning was the Word, and the Word was with God.
+
+… All things were made by him; and without him was not any thing made that was made” (John 1:1, 3). Our faith in Jesus Christ, our determination to follow Him, our love for the Savior can be choked, or prevented from growing, as it is deprived of spiritual light and nourishment (see Alma 32:37–41). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p22#p22", "text": "Matthew 13:22"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/john/1?lang=eng", "text": "first chapter of John"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/john/1?lang=eng&id=p1%2C3#p1", "text": "John 1:1, 3"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/32?lang=eng&id=p37-p41#p37", "text": "Alma 32:37–41"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "152798637", "context": "", "text": " See Neil L. Andersen, “A Compensatory Spiritual Power for the Righteous” (Brigham Young University devotional, Aug. 18, 2015), speeches.byu.edu. ", "referenceUris": [{"href": "https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous", "text": "A Compensatory Spiritual Power for the Righteous"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "152798637", "context": "", "text": " John 17:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/17?lang=eng&id=p3#p3", "text": "John 17:3"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "152798661", "context": "", "text": " Doctrine and Covenants 6:36.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36", "text": "Doctrine and Covenants 6:36"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "152798661", "context": "", "text": " 1 John 4:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-jn/4?lang=eng&id=p19#p19", "text": "1 John 4:19"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "152798661", "context": "", "text": " Elder David B. Haight said: \n “It is true that some have actually seen the Savior, but when one consults the dictionary, he learns that there are many other meanings of the word see, such as coming to know Him, discerning Him, recognizing Him and His work, perceiving His importance, or coming to understand Him. \n “Such heavenly enlightenment and blessings are available to each of us” (“Temples and Work Therein,” Ensign, Nov. 1990, 61). ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1990/10/temples-and-work-therein?lang=eng&id=p53-p54#p53", "text": "Temples and Work Therein"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "152798661", "context": "", "text": " See Mosiah 5:13. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/5?lang=eng&id=p13#p13", "text": "Mosiah 5:13"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "152798678", "context": "", "text": " Doctrine and Covenants 20:77. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/20?lang=eng&id=p77#p77", "text": "Doctrine and Covenants 20:77"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "152798695", "context": "", "text": " Russell M. Nelson, “The Everlasting Covenant,” Liahona, Oct. 2022, 5.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&id=p8-p9#p8", "text": "The Everlasting Covenant"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "152798695", "context": "", "text": " Russell M. Nelson, “What Is True?,” Liahona, Nov. 2022, 29. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2022/10/19nelson?lang=eng", "text": "What Is True?"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "152798731", "context": "", "text": " Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 96. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&id=p37#p37", "text": "Revelation for the Church, Revelation for Our Lives"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "152798731", "context": "", "text": " Dallin H. Oaks, “Going Forward in the Second Century” (Brigham Young University devotional, Sept. 13, 2022), speeches.byu.edu. President Oaks credited the phrase “dare to be different” to a recent article in the Deseret Magazine by Elder Clark G. Gilbert, the Church Educational System Commissioner, on preserving religious identity in higher education (see “Dare to Be Different,” Deseret Magazine, Sept. 2022, deseret.com). ", "referenceUris": [{"href": "https://speeches.byu.edu/talks/dallin-h-oaks/going-forward-in-the-second-century", "text": "Going Forward in the Second Century"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "152798749", "context": "", "text": " If you would like to learn from others who commented on how they have been different from the world, you can read their comments on Facebook (see Neil L.
+
+Andersen, Facebook, Aug. 18, 2022, facebook.com/neill.andersen) or Instagram (see Neil L. Andersen, Instagram, Aug. 18, 2022, instagram.com/neillandersen). "}, "note24": {"id": "note24", "marker": "24.", "pid": "152798828", "context": "", "text": " Russell M. Nelson, “Hope of Israel” (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org. ", "referenceUris": [{"type": "cross-ref", "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng", "text": "Hope of Israel"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "152798869", "context": "", "text": " Anastasia Kocheva, “Facing the Conflict in Ukraine, Healing the Conflict in My Heart,” YA Weekly, May 2022. ", "referenceUris": [{"type": "cross-ref", "href": "/study/ya-weekly/2022/05/facing-the-conflict-in-ukraine-healing-the-conflict-in-my-heart?lang=eng", "text": "Facing the Conflict in Ukraine, Healing the Conflict in My Heart"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "152798901", "context": "", "text": " Doctrine and Covenants 101:65. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/101?lang=eng&id=p65#p65", "text": "Doctrine and Covenants 101:65"}]}}
+
+## Scripture citations in this talk
 
 - [[Matthew 13]] (12×)
 - [[Matthew 24]] (6×)

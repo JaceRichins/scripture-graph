@@ -247,28 +247,44 @@ def fetch_all_apparatus(ctx: Ctx, limit: int | None = None) -> dict:
 COLLECTIONS: dict[str, dict] = {
     "gospel-topics-essays": {"uri": "/manual/gospel-topics-essays",
                              "source": "gospel-topics", "doc_type": "reference-entry",
-                             "max_pages": 40, "priority": 1},
+                             "max_pages": 40, "priority": 1,
+                             "folder": "02 Gospel Topics/Essays", "suffix": " (Essay)"},
     "revelations-in-context": {"uri": "/manual/revelations-in-context",
                                "source": "church-history", "doc_type": "history",
-                               "max_pages": 90, "priority": 1},
+                               "max_pages": 90, "priority": 1,
+                               "folder": "30 Church History/Revelations in Context",
+                               "suffix": ""},
     "gospel-topics": {"uri": "/manual/gospel-topics", "source": "gospel-topics",
-                      "doc_type": "reference-entry", "max_pages": 500, "priority": 2},
+                      "doc_type": "reference-entry", "max_pages": 500, "priority": 2,
+                      "folder": "02 Gospel Topics/Reference",
+                      "suffix": " (Gospel Topics)"},
     "true-to-the-faith": {"uri": "/manual/true-to-the-faith", "source": "gospel-topics",
-                          "doc_type": "reference-entry", "max_pages": 250, "priority": 2},
+                          "doc_type": "reference-entry", "max_pages": 250, "priority": 2,
+                          "folder": "02 Gospel Topics/True to the Faith",
+                          "suffix": " (True to the Faith)"},
     "jst-appendix": {"uri": "/scriptures/jst", "source": "bible-dictionary",
-                     "doc_type": "reference-entry", "max_pages": 60, "priority": 2},
+                     "doc_type": "reference-entry", "max_pages": 60, "priority": 2,
+                     "folder": "01 Scriptures/JST Appendix", "suffix": " (JST)"},
     "saints-v1": {"uri": "/history/saints-v1", "source": "church-history",
-                  "doc_type": "history", "max_pages": 60, "priority": 3},
+                  "doc_type": "history", "max_pages": 60, "priority": 3,
+                  "folder": "30 Church History/Saints Volume 1", "suffix": ""},
     "saints-v2": {"uri": "/history/saints-v2", "source": "church-history",
-                  "doc_type": "history", "max_pages": 60, "priority": 3},
+                  "doc_type": "history", "max_pages": 60, "priority": 3,
+                  "folder": "30 Church History/Saints Volume 2", "suffix": ""},
     "saints-v3": {"uri": "/history/saints-v3", "source": "church-history",
-                  "doc_type": "history", "max_pages": 60, "priority": 3},
+                  "doc_type": "history", "max_pages": 60, "priority": 3,
+                  "folder": "30 Church History/Saints Volume 3", "suffix": ""},
     "saints-v4": {"uri": "/history/saints-v4", "source": "church-history",
-                  "doc_type": "history", "max_pages": 60, "priority": 3},
+                  "doc_type": "history", "max_pages": 60, "priority": 3,
+                  "folder": "30 Church History/Saints Volume 4", "suffix": ""},
     "bible-dictionary": {"uri": "/scriptures/bd", "source": "bible-dictionary",
-                         "doc_type": "reference-entry", "max_pages": 1400, "priority": 4},
+                         "doc_type": "reference-entry", "max_pages": 1400, "priority": 4,
+                         "folder": "02 Gospel Topics/Bible Dictionary",
+                         "suffix": " (Bible Dictionary)"},
     "topical-guide": {"uri": "/scriptures/tg", "source": "bible-dictionary",
-                      "doc_type": "reference-entry", "max_pages": 3600, "priority": 5},
+                      "doc_type": "reference-entry", "max_pages": 3600, "priority": 5,
+                      "folder": "02 Gospel Topics/Topical Guide",
+                      "suffix": " (TG)"},
 }
 
 
@@ -346,6 +362,50 @@ def crawl_collection(ctx: Ctx, name: str, page_budget: int) -> dict:
     return stats
 
 
+def write_collection_notes(ctx: Ctx, collection: str | None = None) -> int:
+    """Full-text vault notes for crawled collection documents (personal-study
+    vault; see SOURCE-POLICY — keep this vault private). Regenerable from the
+    index at any time."""
+    from scripturegraph.corpus.conference import MAX_NOTE_TEXT_BYTES
+    from scripturegraph.util import sanitize_filename, truncate
+    from scripturegraph.vaultgen import md as mdkit
+    from scripturegraph.vaultgen.generate import record_file
+    db = ctx.db()
+    n = 0
+    for name, spec in COLLECTIONS.items():
+        if collection and name != collection:
+            continue
+        docs = db.execute(
+            "SELECT d.doc_id, d.title, d.url FROM documents d WHERE d.doc_id LIKE ?",
+            (f"glib:{spec['uri']}/%",)).fetchall()
+        for row in docs:
+            chunks = db.execute(
+                "SELECT text FROM chunks WHERE owner_type='document' AND owner_id=? "
+                "ORDER BY seq", (row["doc_id"],)).fetchall()
+            if not chunks:
+                continue
+            body = "\n\n".join(c["text"] for c in chunks)
+            title = sanitize_filename(f"{row['title']}{spec['suffix']}")
+            relpath = f"{spec['folder']}/{title}.md"
+            full = len(body.encode()) <= MAX_NOTE_TEXT_BYTES
+            lines = [f"# {row['title']}", "",
+                     f"*{name.replace('-', ' ').title()}* · [source]({row['url']})", "",
+                     body if full else ("> " + truncate(body.replace(chr(10), ' '), 400)
+                                        + "\n\n*(full text in the local index)*")]
+            fm = {"ownership": "system", "mutable": "ai", "content_type": "reference",
+                  "collection": name, "url": row["url"], "doc_id": row["doc_id"]}
+            nid = row["doc_id"] if row["doc_id"].startswith(("talk:", "doc:")) \
+                else f"doc:{row['doc_id']}"
+            if record_file(ctx, relpath, "source-note", "generator", nid,
+                           mdkit.build_note(fm, "\n".join(lines))):
+                n += 1
+            db.execute("UPDATE nodes SET vault_path=? WHERE id=?", (relpath, nid))
+    db.commit()
+    if n:
+        ctx.log.info("glib.collection_notes", written=n)
+    return n
+
+
 def collections_status(ctx: Ctx) -> dict:
     out = {}
     for name in COLLECTIONS:
@@ -375,6 +435,7 @@ def nightly_acquisition(ctx: Ctx, page_budget: int) -> dict:
         spent += r["fetched"]
         stats[name] = r
     if spent:
+        write_collection_notes(ctx)
         ctx.bump_corpus_version(f"gospel-library acquisition ({spent} pages)")
         from scripturegraph.corpus.registry import _enqueue_affected
         _enqueue_affected(ctx, {"reference", "history"})

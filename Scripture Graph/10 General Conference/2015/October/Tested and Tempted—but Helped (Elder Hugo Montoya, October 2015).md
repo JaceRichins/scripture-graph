@@ -7,16 +7,58 @@ year: '2015'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng
 doc_id: talk:2015-october-tested-and-tempted-but-helped
+full_text: true
 ---
 
 # Tested and Tempted—but Helped
 
-**Speaker:** Elder Hugo Montoya · **Conference:** October 2015
-**Source:** https://www.churchofjesuschrist.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng
+**Speaker:** Elder Hugo Montoya · **Conference:** October 2015 · [source](https://www.churchofjesuschrist.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng)
 
-> Tested and Tempted—but Helped  By Elder Hugo Montoya  Of the Seventy  We can help each other as children of our Heavenly Father in our trials and temptations.  During the course of life, we are tested and tempted. We also have the opportunity to exercise agency and to help one another. These truths are part of the wonderful and perfect plan of our Heavenly Father.  President John Taylor taught: “…
+We can help each other as children of our Heavenly Father in our trials and temptations.
 
-## Explicit scripture citations
+During the course of life, we are tested and tempted. We also have the opportunity to exercise agency and to help one another. These truths are part of the wonderful and perfect plan of our Heavenly Father.
+
+President John Taylor taught: “I heard the Prophet Joseph say, in speaking to the Twelve on one occasion: ‘You will have all kinds of trials to pass through. And it is quite as necessary for you to be tried as it was for Abraham and other men of God, and (said he) God will feel after you, and He will take hold of you and wrench your very heart strings.’”
+
+Once we reach the age of accountability, trials and temptations are universal. Sometimes they can become heavy burdens, but they also give us strength and growth as we successfully overcome them.
+
+Fortunately, these burdens are not to be carried alone. Alma taught, “Ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another’s burdens, that they may be light.” These words indicate that we have the responsibility to help each other. That responsibility can come from a Church calling, an assignment, or a friendship or as part of our divine duty as parents, spouses, or family members—or simply from being part of God’s family.
+
+I will illustrate four ways our burdens are lightened as we help each other.
+
+The Savior said, “Whosoever shall compel thee to go a mile, go with him twain.” For example, we are asked to attend the temple regularly, as our individual circumstances allow. Attending the temple requires sacrifice of time and resources, especially for those who must travel a great distance. Nevertheless, this sacrifice could be considered part of the first mile.
+
+We begin walking the second mile when we understand the words “find, take, teach,” when we search for and prepare the names of our ancestors for temple ordinances, when we help in indexing, when we serve as temple workers, and when we look for ways to help others have meaningful temple experiences.
+
+While I was serving as an Area Seventy, one of the stakes in my coordinating council participated in a large temple excursion. The temple the members attended is small, and unfortunately there were several members who, despite making the long 12-hour journey, were not able to enter the temple because it had exceeded the daily capacity.
+
+A few days after this trip, I visited this stake and asked the president if I could talk with some of the members who were unable to attend the temple that day. One of the brothers I visited told me: “Elder, do not worry. I was at the house of the Lord. I sat on a bench in the garden and pondered in my mind the ordinances. Then I was given the opportunity to enter, but instead I allowed another brother, who had come to the temple for the first time to be sealed to his wife, to take my place. They then had the opportunity to attend two sessions that day. The Lord knows me, and He has blessed me, and we are fine.”
+
+Smile. This small action can help those who are overwhelmed or burdened. During the priesthood session of this past April general conference, I was seated on the stand as one of the five newly called General Authorities. We were sitting where the sisters of the auxiliary presidencies are now seated. I was feeling very nervous and overwhelmed with my new call.
+
+When we were singing the intermediate hymn, I felt a strong impression that someone was watching me. I thought to myself: “There are more than 20,000 people in this building, and most of them are facing this way. Of course someone is watching you.”
+
+While I continued singing, I again felt the strong impression that someone was watching me. I looked over to the row where the Twelve Apostles were sitting and saw that President Russell M. Nelson was turned all the way around in his seat, looking at where we were seated. I caught his eye, and he gave me a big smile. That smile brought peace to my overwhelmed heart.
+
+After His Resurrection, Jesus Christ visited His other sheep. He called and ordained twelve disciples, and with that authority, they ministered to the people. The Lord Jesus Christ Himself stood among them. The Lord asked them to kneel and pray. I am not sure if the newly called and ordained twelve disciples were overwhelmed with their calling, but the scripture says, “It came to pass that Jesus blessed them as they did pray unto him; and his countenance did smile upon them, and the light of his countenance did shine upon them.” During the last general conference, a smile lightened my burdens in an immediate and extraordinary way.
+
+Express feelings of compassion to others. If you are a priesthood holder, please use your power on behalf of the children of God, giving blessings to them. Express words of consolation and comfort to people who are suffering or experiencing afflictions.
+
+The cornerstone of God’s plan is the Atonement of the Lord Jesus Christ. At least once a week, we should meditate as President Joseph F. Smith did on “the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world.” Inviting others to come to church and to worthily partake of the sacrament will allow more of Heavenly Father’s children to reflect on the Atonement. And if we are not worthy, we can repent. Remember that the Son of the Highest descended below all and took upon Him our offenses, sins, transgressions, sicknesses, pains, afflictions, and loneliness. The scripture teaches us that Christ “ascended up on high, as also he descended below all things, in that he comprehended all things.”
+
+It does not matter what our personal struggles are—whether they are disease or prolonged loneliness or suffering the temptations and tests of the adversary—the Good Shepherd is there. He calls us by name and says, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”
+
+I bear my testimony of the Savior. Jesus is the Christ, the Son of the living God, and He lives. I know that He sustains, with all His might and power, the Father’s plan. I know that President Thomas S. Monson is a living prophet. He holds all the keys to successfully carry out God’s work on the earth. I know that we can help each other as children of our Heavenly Father in our trials and temptations. In the name of Jesus Christ, amen.
+
+John Taylor, in Teachings of Presidents of the Church: Joseph Smith (2007), 231.
+
+See Quentin L. Cook, “Our Father’s Plan Is about Families” (address given at RootsTech 2015 family history conference, Feb. 14, 2015), lds.org/topics/family-history/fdd/plan-about-families-full; see also lds.org/media-library/video/2015-07-01-find-take-teach.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "28867705", "context": "", "text": " John Taylor, in Teachings of Presidents of the Church: Joseph Smith (2007), 231. "}, "note2": {"id": "note2", "marker": "2.", "pid": "28867707", "context": "", "text": " Mosiah 18:8. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8#p8", "text": "Mosiah 18:8"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28867709", "context": "", "text": " Matthew 5:41. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p41#p41", "text": "Matthew 5:41"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28867710", "context": "", "text": " See Quentin L. Cook, “Our Father’s Plan Is about Families” (address given at RootsTech 2015 family history conference, Feb. 14, 2015), lds.org/topics/family-history/fdd/plan-about-families-full; see also lds.org/media-library/video/2015-07-01-find-take-teach. ", "referenceUris": [{"href": "https://www.lds.org/topics/family-history/fdd/plan-about-families-full", "text": "lds.org/topics/family-history/fdd/plan-about-families-full"}, {"href": "https://in.churchofjesuschrist.org/find-take-teach", "text": "lds.org/media-library/video/2015-07-01-find-take-teach"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28867716", "context": "", "text": " 3 Nephi 19:25; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/19?lang=eng&id=p25#p25", "text": "3 Nephi 19:25"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28867718", "context": "", "text": " Doctrine and Covenants 138:3.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p3#p3", "text": "Doctrine and Covenants 138:3"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28867718", "context": "", "text": " Doctrine and Covenants 88:6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/88?lang=eng&id=p6#p6", "text": "Doctrine and Covenants 88:6"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28867719", "context": "", "text": " Matthew 11:28. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/11?lang=eng&id=p28#p28", "text": "Matthew 11:28"}]}}
+
+## Scripture citations in this talk
 
 - [[Mosiah 18]] (3×)
 - [[Matthew 5]] (3×)

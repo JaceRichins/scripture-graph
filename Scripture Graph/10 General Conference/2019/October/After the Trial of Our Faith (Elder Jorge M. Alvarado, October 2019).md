@@ -7,16 +7,98 @@ year: '2019'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2019/10/28alvarado?lang=eng
 doc_id: talk:2019-october-after-the-trial-of-our-faith
+full_text: true
 ---
 
 # After the Trial of Our Faith
 
-**Speaker:** Elder Jorge M. Alvarado · **Conference:** October 2019
-**Source:** https://www.churchofjesuschrist.org/general-conference/2019/10/28alvarado?lang=eng
+**Speaker:** Elder Jorge M. Alvarado · **Conference:** October 2019 · [source](https://www.churchofjesuschrist.org/general-conference/2019/10/28alvarado?lang=eng)
 
-> After the Trial of Our Faith  By Elder Jorge M. Alvarado  Of the Seventy  As we follow God’s voice and His covenant path, He will strengthen us in our trials.  When I was a child, Frank Talley, a member of the Church, offered to help my family fly from Puerto Rico to Salt Lake City so we could be sealed in the temple, but soon obstacles began to appear. One of my sisters, Marivid, became ill. Uns…
+As we follow God’s voice and His covenant path, He will strengthen us in our trials.
 
-## Explicit scripture citations
+When I was a child, Frank Talley, a member of the Church, offered to help my family fly from Puerto Rico to Salt Lake City so we could be sealed in the temple, but soon obstacles began to appear. One of my sisters, Marivid, became ill. Unsettled, my parents prayed about what to do and still felt prompted to make the journey. They trusted that as they faithfully followed the Lord’s prompting, our family would be watched over and blessed—and we were.
+
+No matter the obstacles we face in life, we can trust that Jesus Christ will prepare a way forward as we walk with faith. God has promised that all who live according to the covenants they have made with Him will, in His time, receive all His promised blessings. Elder Jeffrey R. Holland taught, “Some blessings come soon, some come late, and some don’t come until heaven; but for those who embrace the gospel of Jesus Christ, they come.”
+
+Moroni taught that “faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.”
+
+Our question is, What should we do to best meet the trials that come our way?
+
+In his first public remarks as President of the Church, President Russell M. Nelson taught: “As a new Presidency, we want to begin with the end in mind. For this reason, we’re speaking to you today from a temple. The end for which each of us strives is to be endowed with power in a house of the Lord, sealed as families, faithful to covenants made in a temple that qualify us for the greatest gift of God—that of eternal life. The ordinances of the temple and the covenants you make there are key to strengthening your life, your marriage and family, and your ability to resist the attacks of the adversary. Your worship in the temple and your service there for your ancestors will bless you with increased personal revelation and peace and will fortify your commitment to stay on the covenant path.”
+
+As we follow God’s voice and His covenant path, He will strengthen us in our trials.
+
+My family’s trip to the temple years ago was difficult, but as we approached the temple in Salt Lake City, Utah, my mother, full of joy and faith, said, “We are going to be OK; the Lord will protect us.” We were sealed as a family, and my sister recovered. This happened only after the trial of my parents’ faith and in following the Lord’s promptings.
+
+This example of my parents still influences our lives today. Their example taught us the why of gospel doctrine and helped us understand the meaning, purpose, and blessings that the gospel brings. Understanding the why of the gospel of Jesus Christ can also help us face our trials with faith.
+
+Ultimately, everything God invites and commands us to do is an expression of His love for us and His desire to give us the blessings reserved for the faithful. We cannot assume that our children will learn to love the gospel on their own; it is our responsibility to teach them. As we help our children learn how to use their agency wisely, our example can inspire them to make their own righteous choices. Their faithful living will in turn help their children to know the truth of the gospel for themselves.
+
+Young men and young women, hear the prophet today talking to you. Seek to learn divine truths and seek to understand the gospel for yourselves. President Nelson recently counseled: “What wisdom do you lack? … Follow the example of the Prophet Joseph. Find a quiet place. … Humble yourself before God. Pour out your heart to your Heavenly Father. Turn to Him for answers.” As you seek guidance from your loving Heavenly Father, listening to the counsel of living prophets and watching the example of righteous parents, you too can become a strong link of faith in your family.
+
+To parents with children who have left the covenant path, gently go back. Help them comprehend the gospel’s truths. Start now; it is never too late.
+
+Our example of righteous living can make a great difference. President Nelson has said: “As Latter-day Saints, we have become accustomed to thinking of ‘church’ as something that happens in our meetinghouses, supported by what happens at home. We need an adjustment to this pattern. It is time for a home-centered Church, supported by what takes place inside our branch, ward, and stake buildings.”
+
+The scriptures teach, “Train up a child in the way he should go: and when he is old, he will not depart from it.”
+
+They also say, “And now, as the preaching of the word had a great tendency to lead the people to do that which was just—yea, it had had more powerful effect upon the minds of the people than the sword, or anything else, which had happened unto them—therefore Alma thought it was expedient that they should try the virtue of the word of God.”
+
+A story is told of a woman who was upset that her son was eating too much candy. No matter how much she told him to stop, he continued to satisfy his sweet tooth. Totally frustrated, she decided to take her son to see a wise man whom he respected.
+
+She approached him and said, “Sir, my son eats too much candy. Would you please tell him to stop eating it?”
+
+He listened carefully then said to her son, “Go home and come back in two weeks.”
+
+She took her son and went home, perplexed why he had not asked the boy to stop eating so much candy.
+
+Two weeks later they returned. The wise man looked directly at the boy and said, “Boy, you should stop eating so much candy. It is not good for your health.”
+
+The boy’s mother asked, “Why didn’t you tell him that two weeks ago?”
+
+The wise man smiled. “Two weeks ago I was still eating too much candy myself.”
+
+This man lived with such integrity that he knew his advice would carry power only if he was following his own counsel.
+
+The influence we have on our children is more powerful as they see us walking faithfully on the covenant path. The Book of Mormon prophet Jacob is an example of such righteousness. His son Enos wrote of the impact of his father’s teachings:
+
+“I, Enos, knowing my father that he was a just man—for he taught me in his language, and also in the nurture and admonition of the Lord—and blessed be the name of my God for it. …
+
+“… And the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.”
+
+The mothers of the stripling warriors lived the gospel, and their children were filled with conviction. Their leader reported:
+
+“They had been taught by their mothers, that if they did not doubt, God would deliver them.
+
+“And they rehearsed unto me the words of their mothers, saying: We do not doubt our mothers knew it.”
+
+Enos and the stripling warriors were strengthened by the faith of their parents, which helped them meet their own trials of faith.
+
+We are blessed with the restored gospel of Jesus Christ in our days, which lifts us when we feel discouraged or troubled. We are reassured that our efforts will bear fruit in the Lord’s own due time if we press forward through the trials of our faith.
+
+My wife and I, with the Area Presidency, recently accompanied Elder David A. Bednar to the dedication of the Port-au-Prince Haiti Temple. Our son Jorge, who came with us, said about his experience: “Amazing, Papa! As soon as Elder Bednar started with the dedicatory prayer, I could feel the room fill with warmth and light. The prayer added so much to my understanding of the purpose of a temple. It really is the house of the Lord.”
+
+In the Book of Mormon, Nephi teaches that as we desire to know the will of God, He will strengthen us. He wrote, “I, Nephi, being exceedingly young … and also having great desires to know of the mysteries of God, wherefore, I did cry unto the Lord; and behold he did visit me, and did soften my heart that I did believe all the words which had been spoken by my father; wherefore, I did not rebel against him like unto my brothers.”
+
+Brothers and sisters, let us help our children and all around us to follow God’s covenant path so that the Spirit might teach them and soften their hearts to desire to follow Him throughout their life.
+
+As I consider the example of my parents, I realize that our faith in the Lord Jesus Christ will show us the way back to our heavenly home. I know miracles come after the trial of our faith.
+
+I bear testimony of Jesus Christ and His atoning sacrifice. I know He is our Savior and Deliverer. He and our Heavenly Father came that morning in the spring of 1820 to young Joseph Smith, the prophet of the Restoration. President Russell M. Nelson is the prophet of our day. In the name of Jesus Christ, amen.
+
+Jeffrey R. Holland, “An High Priest of Good Things to Come,” Ensign, Nov. 1999, 38; Liahona, Jan. 2000, 45.
+
+Russell M. Nelson, “As We Go Forward Together,” Ensign or Liahona, Apr. 2018, 7.
+
+Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 95.
+
+Russell M. Nelson, “Opening Remarks,” Ensign or Liahona, Nov. 2018, 7.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "141402433", "context": "", "text": " Jeffrey R. Holland, “An High Priest of Good Things to Come,” Ensign, Nov. 1999, 38; Liahona, Jan. 2000, 45. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng", "text": "An High Priest of Good Things to Come"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "141402436", "context": "", "text": " Ether 12:6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/12?lang=eng&id=p6#p6", "text": "Ether 12:6"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "141402442", "context": "", "text": " Russell M. Nelson, “As We Go Forward Together,” Ensign or Liahona, Apr. 2018, 7. ", "referenceUris": [{"type": "cross-ref", "href": "/study/liahona/2018/04/as-we-go-forward-together?lang=eng", "text": "As We Go Forward Together"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "141402457", "context": "", "text": " Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Ensign or Liahona, May 2018, 95. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng", "text": "Revelation for the Church, Revelation for Our Lives"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "141402461", "context": "", "text": " Russell M. Nelson, “Opening Remarks,” Ensign or Liahona, Nov. 2018, 7. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/10/opening-remarks?lang=eng", "text": "Opening Remarks"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "141402463", "context": "", "text": " Proverbs 22:6.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/prov/22?lang=eng&id=p6#p6", "text": "Proverbs 22:6"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "141402465", "context": "", "text": " Alma 31:5. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/31?lang=eng&id=p5#p5", "text": "Alma 31:5"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "141402495", "context": "", "text": " Enos 1:1, 3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/enos/1?lang=eng&id=p1%2Cp3#p1", "text": "Enos 1:1, 3"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "141402502", "context": "", "text": " Alma 56:47–48. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/56?lang=eng&id=p47-p48#p47", "text": "Alma 56:47–48"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "141402510", "context": "", "text": " 1 Nephi 2:16. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/2?lang=eng&id=p16#p16", "text": "1 Nephi 2:16"}]}}
+
+## Scripture citations in this talk
 
 - [[Ether 12]] (3×)
 - [[Proverbs 22]] (3×)

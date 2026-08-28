@@ -7,16 +7,120 @@ year: '2018'
 month: April
 url: https://www.churchofjesuschrist.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng
 doc_id: talk:2018-april-am-i-a-child-of-god
+full_text: true
 ---
 
 # Am I a Child of God?
 
-**Speaker:** Elder Brian K. Taylor · **Conference:** April 2018
-**Source:** https://www.churchofjesuschrist.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng
+**Speaker:** Elder Brian K. Taylor · **Conference:** April 2018 · [source](https://www.churchofjesuschrist.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng)
 
-> Am I a Child of God?  By Elder Brian K. Taylor  Of the Seventy  How can each of us experience the power of understanding our divine identity? It begins by seeking to know God, our Father.  Recently I went to church with my sweet mother at our old rock chapel. Drawn to little voices coming from the same Primary room I attended decades ago, I walked in the back and observed caring leaders teach thi…
+How can each of us experience the power of understanding our divine identity? It begins by seeking to know God, our Father.
 
-## Explicit scripture citations
+Recently I went to church with my sweet mother at our old rock chapel. Drawn to little voices coming from the same Primary room I attended decades ago, I walked in the back and observed caring leaders teach this year’s theme: “I Am a Child of God.” I smiled as I remembered patient and loving teachers who, during our singing time back then, would often look at me—that rambunctious little boy at the end of the pew—as if to say, “Is he really a child of God? And who has sent him here?”
+
+I invite each of us to open our hearts to the Holy Ghost, who “beareth witness with our spirit, that we are the children of God.”
+
+President Boyd K. Packer’s words are plain and precious: “You are a child of God. He is the father of your spirit. Spiritually you are of noble birth, the offspring of the King of Heaven. Fix that truth in your mind and hold to it. However many generations in your mortal ancestry, no matter what race or people you represent, the pedigree of your spirit can be written on a single line. You are a child of God!”
+
+“When you … see our Father,” Brigham Young described, “you will see a being with whom you have long been acquainted, and he will receive you into his arms, and you will be ready to fall into his embrace and kiss him.”
+
+Moses learned of his divine heritage talking with the Lord face-to-face. Following that experience, “Satan came tempting” with subtle yet vicious intent to distort Moses’s identity, “saying: Moses, son of man, worship me. And … Moses looked upon Satan and said: Who art thou? For behold, I am a son of God.”
+
+This great war over divine identity rages fiercely as Satan’s proliferating arsenal aims to destroy our belief in and knowledge of our relationship with God. Thankfully, we have been blessed with clear vision and understanding of our true identity from the beginning: “And God said, Let us make man in our image, after our likeness,” and His living prophets proclaim, “Each [human being] is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny.”
+
+Coming to know these truths with certainty helps us overcome trials, troubles, and afflictions of every kind. When asked, “How can we help those struggling with [a personal challenge]?” an Apostle of the Lord instructed, “Teach them their identity and their purpose.”
+
+These powerful truths were life-changing for my friend Jen, who as a teenager caused a serious car accident. Though her physical trauma was severe, she felt exquisite pain because the other driver lost her life. “Someone lost their mom, and it was my fault,” she says. Jen, who just days before stood and recited, “We are daughters of our Heavenly Father, who loves us,” now questioned, “How could He love me?”
+
+“The physical suffering passed,” she says, “but I didn’t think I would ever heal from the emotional and spiritual wounds.”
+
+In order to survive, Jen hid her feelings deeply, becoming distant and numb. After a year, when she was finally able to talk about the accident, an inspired counselor invited her to write the phrase “I am a child of God” and say it 10 times daily.
+
+“Writing the words was easy,” she recalls, “but I couldn’t speak them. … That made it real, and I didn’t really believe God wanted me as His child. I would curl up and cry.”
+
+After several months, Jen was finally able to complete the task every day. “I poured out my whole soul,” she says, “pleading with God. … Then I began to believe the words.” This belief allowed the Savior to begin mending her wounded soul. The Book of Mormon brought comfort and courage in His Atonement.
+
+“Christ felt my pains, my sorrows, my guilt,” Jen concludes. “I felt God’s pure love and had never experienced anything so powerful! Knowing I am a child of God is the most powerful knowledge I possess!”
+
+Brothers and sisters, how can each of us experience the power of understanding our divine identity? It begins by seeking to know God, our Father. President Russell M. Nelson testified, “Something powerful happens when a child of God seeks to know more about Him and His Beloved Son.”
+
+Learning of and following the Savior helps us come to know the Father. “Being … the express image of his [Father],” Jesus taught, “The Son can do nothing of himself, but what he seeth the Father do.” Christ’s every word and deed reveals the true nature of God and our relationship to Him. Elder Jeffrey R. Holland taught, “With blood appearing at every pore and an anguished cry upon His lips, Christ sought Him whom He had always sought—His Father. ‘Abba,’ He cried, ‘Papa.’”
+
+As Jesus earnestly sought His Father in Gethsemane, so young Joseph Smith, in 1820, prayerfully sought God in the Sacred Grove. After reading “If any of you lack wisdom, let him ask of God,” Joseph retired to pray.
+
+“I kneeled down,” he later wrote, “and began to offer up the desires of my heart to God. …
+
+“… I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—[Joseph,] This is My Beloved Son. Hear Him!”
+
+As we follow the examples of the Savior and the Prophet Joseph in earnestly seeking God, we will come to understand in a very real way, as Jen did, that our Father knows us by name, that we are His children.
+
+To mothers, especially young mothers, who often feel overwhelmed and underwater while striving to raise “a sin-resistant generation,” never underestimate your central role in God’s plan. In stressful moments—perhaps when you are chasing little ones and a charred smell from the kitchen informs you that your lovingly prepared dinner is now a burnt offering—know that God sanctifies your most difficult days. “Fear thou not; for I am with thee,” He peacefully reassures. We honor you as you fulfill the hope of Sister Joy D. Jones, who stated, “Our children deserve to understand their divine identity.”
+
+I invite each of us to seek God and His Beloved Son. “Nowhere,” President Nelson directed, “are those truths taught more clearly and powerfully than in the Book of Mormon.” Open its pages and learn that God does “all things for [our] welfare and happiness”; that He is “merciful and gracious, slow to anger, long-suffering and full of goodness”; and that “all are alike unto [Him].” When you feel hurt, lost, scared, upset, sad, hungry, or hopelessly abandoned in life’s extremities—open the Book of Mormon, and you will come to know that “[God] will never desert us. He never has, and He never will. He cannot do it. It is not His character [to do so].”
+
+Coming to know our Father changes everything, especially our hearts, as His gentle Spirit confirms our true identity and great worth in His sight. God walks with us along the covenant path as we seek Him through prayerful pleadings, scriptural searchings, and obedient strivings.
+
+I love the God of my fathers, “the Lord God Almighty,” who weeps with us in our sorrows, patiently chastens our unrighteousness, and rejoices when we seek to “give away all [our] sins to know [Him].” I worship Him, who is ever “a father of the fatherless” and a companion to the companionless. Gratefully, I testify that I have come to know God, my Father, and bear witness of the perfections, attributes, and “excellency of [His] character.”
+
+That every one of us might truly understand and cherish our “noble birthright” as a child of God in coming to know Him, “the only true God, and Jesus Christ, whom [He] hast sent” is my fervent prayer in the name of Jesus Christ, amen.
+
+See 2018 Outline for Sharing Time: I Am a Child of God, lds.org/manual/primary.
+
+Boyd K. Packer, “To Young Women and Men,” Ensign, May 1989, 54.
+
+Brigham Young, “Discourse,” Deseret News, Oct. 1, 1856, 235.
+
+“The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145.
+
+Joseph Smith stated, “It is the first principle of the gospel to know for a certainty the character of God” (from the King Follett sermon, Apr. 7, 1844; in History of the Church, 6:305).
+
+Russell M. Nelson, in Tad R. Callister, “Our Identity and Our Destiny” (Brigham Young University devotional, Aug. 14, 2012), 1, speeches.byu.edu.
+
+“Young Women Theme,” Young Women Personal Progress (2009), 3, PersonalProgress.lds.org.
+
+See 2 Nephi 2; 6–9; Mosiah 2–5; 14–16; Alma 7; 34; 39–42; Helaman 14; 3 Nephi 11; Moroni 7.
+
+The Prophet Joseph Smith taught, “If men do not comprehend the character of God, they do not comprehend themselves” (Teachings of Presidents of the Church: Joseph Smith [2007], 40).
+
+Russell M. Nelson, “The Book of Mormon: What Would Your Life Be Like without It?” Ensign or Liahona, Nov. 2017, 61.
+
+See Jeffrey R. Holland, “The Grandeur of God,” Ensign or Liahona, Nov. 2003, 70–73.
+
+Jeffrey R. Holland, “The Hands of the Fathers,” Ensign, May 1999, 16; Liahona, July 1999, 19.
+
+Russell M. Nelson, “A Plea to My Sisters,” Ensign or Liahona, Nov. 2015, 97.
+
+Joy D. Jones, in Marianne Holman Prescott, “2018 Primary Theme ‘I Am a Child of God’ Teaches Children Their Divine Identity,” Church News section of LDS.org, Jan. 5, 2018, news.lds.org.
+
+Russell M. Nelson, “The Book of Mormon: What Would Your Life Be Like without It?” 61.
+
+I love the moving story of the old pioneer man who, following his experience crossing the plains, testified: “We suffered beyond anything you can imagine and many died of exposure and starvation, but did you ever hear a survivor of that company utter a word of criticism? Not one of that company ever apostatized or left the Church, because every one of us came through with the absolute knowledge that God lives for we became acquainted with him in our extremities” (in David O. McKay, “Pioneer Women,” Relief Society Magazine, Jan. 1948, 8).
+
+George Q. Cannon, “Remarks,” Deseret Evening News, Mar. 7, 1891, 4.
+
+See Acts 5:30; 22:14; “God of Our Fathers, Whose Almighty Hand,” Hymns, no. 78.
+
+Moses 1:3; see Revelation 15:3; 21:22–23; 3 Nephi 4:32; Doctrine and Covenants 109:77; 121:4.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "135927449", "context": "", "text": " See 2018 Outline for Sharing Time: I Am a Child of God, lds.org/manual/primary. ", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/2018-outline-for-sharing-time/instructions?lang=eng", "text": "2018 Outline for Sharing Time: I Am a Child of God"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "135927449", "context": "", "text": " See “I Am a Child of God,” Hymns, no. 301. "}, "note3": {"id": "note3", "marker": "3.", "pid": "135927450", "context": "", "text": " Romans 8:16. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/rom/8?lang=eng&id=p16#p16", "text": "Romans 8:16"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "135927451", "context": "", "text": " Boyd K. Packer, “To Young Women and Men,” Ensign, May 1989, 54. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1989/04/to-young-women-and-men?lang=eng", "text": "To Young Women and Men"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "135927452", "context": "", "text": " Brigham Young, “Discourse,” Deseret News, Oct. 1, 1856, 235. "}, "note6": {"id": "note6", "marker": "6.", "pid": "135927454", "context": "", "text": " Moses 1:12–13; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p12-p13#p12", "text": "Moses 1:12–13"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "135927455", "context": "", "text": " Genesis 1:26.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/1?lang=eng&id=p26#p26", "text": "Genesis 1:26"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "135927455", "context": "", "text": " “The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145. ", "referenceUris": [{"type": "cross-ref", "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng", "text": "The Family: A Proclamation to the World"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "135927456", "context": "", "text": " Joseph Smith stated, “It is the first principle of the gospel to know for a certainty the character of God” (from the King Follett sermon, Apr. 7, 1844; in History of the Church, 6:305). "}, "note10": {"id": "note10", "marker": "10.", "pid": "135927456", "context": "", "text": " See Alma 36:3, 27. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/36?lang=eng&id=p3%2Cp27#p3", "text": "Alma 36:3, 27"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "135927456", "context": "", "text": " Russell M. Nelson, in Tad R. Callister, “Our Identity and Our Destiny” (Brigham Young University devotional, Aug. 14, 2012), 1, speeches.byu.edu. ", "referenceUris": [{"href": "https://speeches.byu.edu/talks/tad-r-callister_our-identity-and-our-destiny", "text": "Our Identity and Our Destiny"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "135927458", "context": "", "text": " Name has been changed. "}, "note13": {"id": "note13", "marker": "13.", "pid": "135927458", "context": "", "text": " “Young Women Theme,” Young Women Personal Progress (2009), 3, PersonalProgress.lds.org.
+
+", "referenceUris": [{"href": "https://lds.org/young-women/personal-progress/young-women-theme", "text": "Young Women Theme"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "135927462", "context": "", "text": " See 2 Nephi 2; 6–9; Mosiah 2–5; 14–16; Alma 7; 34; 39–42; Helaman 14; 3 Nephi 11; Moroni 7. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/2?lang=eng", "text": "2 Nephi 2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/6?lang=eng", "text": "6–9"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng", "text": "Mosiah 2–5"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/14?lang=eng", "text": "14–16"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/7?lang=eng", "text": "Alma 7"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/34?lang=eng", "text": "34"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/39?lang=eng", "text": "39–42"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/14?lang=eng", "text": "Helaman 14"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/11?lang=eng", "text": "3 Nephi 11"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng", "text": "Moroni 7"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "135927465", "context": "", "text": " The Prophet Joseph Smith taught, “If men do not comprehend the character of God, they do not comprehend themselves” (Teachings of Presidents of the Church: Joseph Smith [2007], 40).
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/manual/teachings-joseph-smith/chapter-2?lang=eng", "text": "Teachings of Presidents of the Church: Joseph Smith"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "135927465", "context": "", "text": " Russell M. Nelson, “The Book of Mormon: What Would Your Life Be Like without It?” Ensign or Liahona, Nov. 2017, 61. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng", "text": "The Book of Mormon: What Would Your Life Be Like without It?"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "135927466", "context": "", "text": " Hebrews 1:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/heb/1?lang=eng&id=p3#p3", "text": "Hebrews 1:3"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "135927466", "context": "", "text": " John 5:19. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/5?lang=eng&id=p19#p19", "text": "John 5:19"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "135927466", "context": "", "text": " See Jeffrey R. Holland, “The Grandeur of God,” Ensign or Liahona, Nov. 2003, 70–73. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2003/10/the-grandeur-of-god?lang=eng", "text": "The Grandeur of God"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "135927466", "context": "", "text": " Jeffrey R. Holland, “The Hands of the Fathers,” Ensign, May 1999, 16; Liahona, July 1999, 19.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1999/04/the-hands-of-the-fathers?lang=eng", "text": "The Hands of the Fathers"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "135927467", "context": "", "text": " James 1:5. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/james/1?lang=eng&id=p5#p5", "text": "James 1:5"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "135927470", "context": "", "text": " Joseph Smith—History 1:15–17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/js-h/1?lang=eng&id=p15-p17#p15", "text": "Joseph Smith—History 1:15–17"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "135927472", "context": "", "text": " Russell M. Nelson, “A Plea to My Sisters,” Ensign or Liahona, Nov. 2015, 97. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng", "text": "A Plea to My Sisters"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "135927472", "context": "", "text": " See “How Firm a Foundation,” Hymns, no. 85, verse 4. "}, "note25": {"id": "note25", "marker": "25.", "pid": "135927472", "context": "", "text": " Isaiah 41:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/isa/41?lang=eng&id=p10#p10", "text": "Isaiah 41:10"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "135927472", "context": "", "text": " Joy D. Jones, in Marianne Holman Prescott, “2018 Primary Theme ‘I Am a Child of God’ Teaches Children Their Divine Identity,” Church News section of LDS.org, Jan. 5, 2018, news.lds.org.
+
+", "referenceUris": [{"href": "https://www.lds.org/church/news/2018-primary-theme-i-am-a-child-of-god-teaches-children-their-divine-identity", "text": "2018 Primary Theme ‘I Am a Child of God’ Teaches Children Their Divine Identity"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "135927473", "context": "", "text": " Russell M. Nelson, “The Book of Mormon: What Would Your Life Be Like without It?” 61. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng", "text": "The Book of Mormon: What Would Your Life Be Like without It?"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "135927473", "context": "", "text": " Helaman 12:2; see also 2 Nephi 26:24. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/12?lang=eng&id=p2#p2", "text": "Helaman 12:2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24", "text": "2 Nephi 26:24"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "135927473", "context": "", "text": " Lectures on Faith (1985), 42. "}, "note30": {"id": "note30", "marker": "30.", "pid": "135927473", "context": "", "text": " 2 Nephi 26:33.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33", "text": "2 Nephi 26:33"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "135927473", "context": "", "text": " I love the moving story of the old pioneer man who, following his experience crossing the plains, testified: “We suffered beyond anything you can imagine and many died of exposure and starvation, but did you ever hear a survivor of that company utter a word of criticism? Not one of that company ever apostatized or left the Church, because every one of us came through with the absolute knowledge that God lives for we became acquainted with him in our extremities” (in David O. McKay, “Pioneer Women,” Relief Society Magazine, Jan. 1948, 8). "}, "note32": {"id": "note32", "marker": "32.", "pid": "135927473", "context": "", "text": " George Q. Cannon, “Remarks,” Deseret Evening News, Mar. 7, 1891, 4. "}, "note33": {"id": "note33", "marker": "33.", "pid": "135927474", "context": "", "text": " See Doctrine and Covenants 18:10. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/18?lang=eng&id=p10#p10", "text": "Doctrine and Covenants 18:10"}]}, "note34": {"id": "note34", "marker": "34.", "pid": "135927476", "context": "", "text": " See Acts 5:30; 22:14; “God of Our Fathers, Whose Almighty Hand,” Hymns, no. 78.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/acts/5?lang=eng&id=p30#p30", "text": "Acts 5:30"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/acts/22?lang=eng&id=p14#p14", "text": "22:14"}]}, "note35": {"id": "note35", "marker": "35.", "pid": "135927476", "context": "", "text": " Moses 1:3; see Revelation 15:3; 21:22–23; 3 Nephi 4:32; Doctrine and Covenants 109:77; 121:4. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p3#p3", "text": "Moses 1:3"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/rev/15?lang=eng&id=p3#p3", "text": "Revelation 15:3"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/rev/21?lang=eng&id=p22-p23#p22", "text": "21:22–23"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/4?lang=eng&id=p32#p32", "text": "3 Nephi 4:32"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/109?lang=eng&id=p77#p77", "text": "Doctrine and Covenants 109:77"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p4#p4", "text": "121:4"}]}, "note36": {"id": "note36", "marker": "36.", "pid": "135927476", "context": "", "text": " Alma 22:18. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/22?lang=eng&id=p18#p18", "text": "Alma 22:18"}]}, "note37": {"id": "note37", "marker": "37.", "pid": "135927476", "context": "", "text": " Psalm 68:5; see also James 1:27.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/ps/68?lang=eng&id=p5#p5", "text": "Psalm 68:5"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/james/1?lang=eng&id=p27#p27", "text": "James 1:27"}]}, "note38": {"id": "note38", "marker": "38.", "pid": "135927476", "context": "", "text": " Lectures on Faith (1985), 42. "}, "note39": {"id": "note39", "marker": "39.", "pid": "135927477", "context": "", "text": " “Carry On,” Hymns, no. 255. "}, "note40": {"id": "note40", "marker": "40.", "pid": "135927477", "context": "", "text": " John 17:3. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/17?lang=eng&id=p3#p3", "text": "John 17:3"}]}}
+
+## Scripture citations in this talk
 
 - [[Moses 1]] (6×)
 - [[James 1]] (6×)

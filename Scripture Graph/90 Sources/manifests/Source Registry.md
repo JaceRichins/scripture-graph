@@ -11,11 +11,12 @@ content_type: manifest
 | Standard Works (scriptures-json) | scripture | 1 | **imported** | download |
 | Bible Dictionary / Guide to the Scriptures | reference | 2 | **manual_download_required** | drop-folder |
 | Gospel Topics essays & entries | reference | 2 | **manual_download_required** | drop-folder |
+| Conference Reports 1897-1930 (public domain) | conference | 3 | **imported** | download |
 | General Conference talks | conference | 3 | **imported** | api-fetch |
-| Church history materials (e.g. Saints, JS histories) | history | 4 | **manual_download_required** | drop-folder |
-| History of the Church (B. H. Roberts ed.) | history | 4 | **available** | download |
+| Church history materials (e.g. Saints, JS histories) | history | 4 | **imported** | drop-folder |
+| History of the Church (B. H. Roberts ed.) | history | 4 | **imported** | download |
 | Joseph Smith Papers | jsp | 4 | **imported** | drop-folder |
-| Journal of Discourses (1854-1886) | history | 4 | **available** | download |
+| Journal of Discourses (1854-1886) | history | 4 | **imported** | download |
 | Academic scholarship & journals | scholarship | 6 | **manual_download_required** | drop-folder |
 
 ## Notes

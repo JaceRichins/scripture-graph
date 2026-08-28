@@ -7,16 +7,82 @@ year: '2022'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2022/10/16montoya?lang=eng
 doc_id: talk:2022-october-the-eternal-principle-of-love
+full_text: true
 ---
 
 # The Eternal Principle of Love
 
-**Speaker:** Elder Hugo Montoya · **Conference:** October 2022
-**Source:** https://www.churchofjesuschrist.org/general-conference/2022/10/16montoya?lang=eng
+**Speaker:** Elder Hugo Montoya · **Conference:** October 2022 · [source](https://www.churchofjesuschrist.org/general-conference/2022/10/16montoya?lang=eng)
 
-> The Eternal Principle of Love  By Elder Hugo Montoya  Of the Seventy  Our Heavenly Father’s love for each of His children is real. He is there for each one.  The eternal principle of love is manifested by living the two great commandments: love God with all your heart, soul, mind, and strength and love your neighbor as yourself.  I remember my first winter living here in Utah—snow everywhere. Com…
+Our Heavenly Father’s love for each of His children is real. He is there for each one.
 
-## Explicit scripture citations
+The eternal principle of love is manifested by living the two great commandments: love God with all your heart, soul, mind, and strength and love your neighbor as yourself.
+
+I remember my first winter living here in Utah—snow everywhere. Coming from the Sonoran Desert, the first days I was enjoying it, but after a few days I realized that I had to get up earlier to remove the snow from the driveway.
+
+One morning, in the middle of a snowstorm, I was sweating, shoveling snow, and I saw my neighbor opening his garage across the street. He’s older than I am, so I thought if I finished soon, I could help him. So raising my voice, I asked him, “Brother, do you need help?”
+
+He smiled and said, “Thank you, Elder Montoya.” Then he pulled a snowblower out of his garage, started the engine, and in a few minutes he removed all the snow in front of his house. He then crossed the street with his machine and asked me, “Elder, do you need help?”
+
+We are willing to help each other because we love each other, and my brother’s needs become my needs, and mine become his. No matter what language my brother speaks or what country he comes from, we love each other because we are brothers, children of the same Father.
+
+When ministering was announced, President Russell M. Nelson said, “We will implement a newer, holier approach to caring for and ministering to others.” To me, holier means more personal, deeper, more like the Savior’s way: “Have love one to another,” one by one.
+
+It is not enough to avoid being a stumbling block for others; it is not enough to notice the needy on the road and pass by. Let us take advantage of every opportunity to help our neighbor, even if it is the first and only time we meet him or her in this life.
+
+I think it’s because of what He means to us. We are His children, He oversees our welfare, we are dependent on Him, and His love protects us. His plan includes agency; therefore, we will likely make some mistakes.
+
+He also allows us to be tested and tempted. But whether we are making some mistakes or falling into temptation, the plan provides a Savior so we can be redeemed and return to the presence of God.
+
+Adversity in our lives can cause doubt about the fulfillment of the promises that have been made to us. Please trust in our Father. He always keeps His promises, and we can learn what He wants to teach us.
+
+Even when we do what is right, the circumstances in our life can change from good to bad, from happiness to sadness. God answers our prayers according to His infinite mercy and love and in His own time.
+
+A young boy was discriminated against and expelled from school.
+
+When circumstances change from good and positive to bad and negative, we can still be happy because happiness does not depend on the circumstances but on our attitude toward the circumstances. President Nelson said, “The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.”
+
+We can sit back and wait for circumstances to change on their own, or we can look for and bring about new circumstances.
+
+Elijah walked to Zarephath, where a widow gave him food and drink.
+
+The young boy sat listening and taking notes by the window, and today he is an elementary school teacher.
+
+The couple have developed a great faith in the Savior Jesus Christ and trust in the plan of salvation. Their love for the long-awaited child who died suddenly is greater than their grief.
+
+When I hear the questions “Heavenly Father, are you really there? And do you hear and answer [every] child’s prayer?,” I like to answer: “He has been, He is, and He will always be there for you and me. I am His son, He is my Father, and I am learning to be a good father, as He is.”
+
+My wife and I always try to be there for our children at any time, under any condition, and by any means. Each child is unique; their worth to God is great, and no matter what challenges, sins, and weaknesses they have, God loves them, and so do we.
+
+When I received this call as a General Authority, on the last day before our travel to Salt Lake, all my children and their families were together in our home for a family home evening, where we expressed our love and gratitude. After the lesson, I gave a priesthood blessing to each one of my children. Everyone was in tears. After the blessings, my oldest son expressed words of gratitude on behalf of everyone for the great love that we had given them from the day they were born until then.
+
+Bless your children, whether they are 5 or 50 years old. Be with them; be for them. Although providing is a responsibility established by divine design, we must not forget to share joyful time with our children.
+
+Our Heavenly Father’s love for each of His children is real. He is there for each one. I don’t know how He does it, but He does. He and His Firstborn are one in doing the work and glory of the Father “to bring to pass the immortality and eternal life of man.” They have sent us the Holy Ghost to guide us, to warn us, and to comfort us if necessary.
+
+He instructed His Beloved Son to create this beautiful earth. He instructed Adam and Eve and gave unto them their agency. He has been sending messengers for years and years so that we can receive His love and His commandments.
+
+He was in the Sacred Grove answering young Joseph’s sincere question and calling him by his name. He said: “This is My Beloved Son. Hear Him!”
+
+I believe that the supreme demonstration of God’s love for us happened in Gethsemane, where the Son of the living God prayed, “O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.”
+
+I have noticed that the small portion that I can understand of the Atonement of Jesus Christ increases my love for the Father and His Son, decreases my desire to sin and to be disobedient, and increases my willingness to be better and do better.
+
+Jesus walked with no fear and with no doubt to Gethsemane, trusting in His Father, knowing that He must tread the winepress alone. He endured all pain and all humiliation. He was accused, judged, and crucified. During His own agony and suffering on the cross, Jesus focused on the needs of His mother and His beloved disciple. He offered His life.
+
+On the third day He was resurrected. The tomb is empty; He stands at the right hand of His Father. They hope we will choose to keep our covenants and return to Their presence. This second estate is not our final estate; we do not belong to this earthly home, but rather we are eternal beings living temporary experiences.
+
+Jesus is the Christ, the Son of the living God. He lives, and because He lives, all of God’s children will live forever. Thanks to His atoning sacrifice, we can all live together with Them. In the name of Jesus Christ, amen.
+
+Russell M. Nelson, “Ministering,” Ensign or Liahona, May 2018, 100.
+
+Russell M. Nelson, “Joy and Spiritual Survival,” Ensign or Liahona, Nov. 2016, 82.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "152798305", "context": "", "text": " See Luke 10:27. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/luke/10?lang=eng&id=p27#p27", "text": "Luke 10:27"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "152798317", "context": "", "text": " Russell M. Nelson, “Ministering,” Ensign or Liahona, May 2018, 100. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/04/ministering?lang=eng&id=p6#p6", "text": "Ministering"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "152798317", "context": "", "text": " John 13:35. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/13?lang=eng&id=p35#p35", "text": "John 13:35"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "152798331", "context": "", "text": " See 1 Kings 17:7. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p7#p7", "text": "1 Kings 17:7"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "152798333", "context": "", "text": " See 1 Nephi 16:18. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/16?lang=eng&id=p18#p18", "text": "1 Nephi 16:18"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "152798344", "context": "", "text": " Russell M. Nelson, “Joy and Spiritual Survival,” Ensign or Liahona, Nov. 2016, 82. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&id=p14#p14", "text": "Joy and Spiritual Survival"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "152798350", "context": "", "text": " See 1 Kings 17:10.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p10#p10", "text": "1 Kings 17:10"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "152798353", "context": "", "text": " See 1 Nephi 16:23. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/16?lang=eng&id=p23#p23", "text": "1 Nephi 16:23"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "152798362", "context": "", "text": " “A Child’s Prayer,” Children’s Songbook, 12–13. "}, "note10": {"id": "note10", "marker": "10.", "pid": "152798375", "context": "", "text": " Moses 1:39. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39", "text": "Moses 1:39"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "152798381", "context": "", "text": " Joseph Smith—History 1:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/js-h/1?lang=eng&id=p17#p17", "text": "Joseph Smith—History 1:17"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "152798384", "context": "", "text": " Matthew 26:39. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/26?lang=eng&id=p39#p39", "text": "Matthew 26:39"}]}}
+
+## Scripture citations in this talk
 
 - [[1 Kings 17]] (6×)
 - [[1 Nephi 16]] (6×)

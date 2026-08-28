@@ -94,7 +94,14 @@ Fetched automatically (legitimately — see `00 System/SOURCE-POLICY.md`):
 ```
 
 The **Nightly task also backfills ~4 older conference sessions per night**
-toward 1971 (config `acquisition.*`). For anything else, drop files
+toward 1971, plus ~350 Gospel Library pages (chapter footnotes/headings,
+then collections by priority) (config `acquisition.*`).
+
+> **Privacy duty:** fetched church-published text lives in the vault in full
+> for YOUR study. Keep this repo/vault private — never push it to a public
+> remote or share it while that content is inside (see SOURCE-POLICY).
+
+For anything else, drop files
 (EPUB/PDF/HTML/TXT/MD/JSON/XML/CSV/ZIP) into
 `sources\drop\{conference|jsp|history|reference|scholarship}\` and run
 `.\scripts\sg.ps1 ingest` (or wait for the Frequent task). Any import bumps

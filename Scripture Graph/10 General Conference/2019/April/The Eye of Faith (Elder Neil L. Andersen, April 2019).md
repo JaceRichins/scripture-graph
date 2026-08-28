@@ -7,16 +7,156 @@ year: '2019'
 month: April
 url: https://www.churchofjesuschrist.org/general-conference/2019/04/25andersen?lang=eng
 doc_id: talk:2019-april-the-eye-of-faith
+full_text: true
 ---
 
 # The Eye of Faith
 
-**Speaker:** Elder Neil L. Andersen · **Conference:** April 2019
-**Source:** https://www.churchofjesuschrist.org/general-conference/2019/04/25andersen?lang=eng
+**Speaker:** Elder Neil L. Andersen · **Conference:** April 2019 · [source](https://www.churchofjesuschrist.org/general-conference/2019/04/25andersen?lang=eng)
 
-> The Eye of Faith  By Elder Neil L. Andersen  Of the Quorum of the Twelve Apostles  If we pick and choose what we accept in the proclamation, we cloud our eternal view, putting too much importance on our experience here and now.  Shortly before His Crucifixion, Jesus was taken before Pilate in the judgment hall. “Art thou the King of the Jews?” Pilate condescendingly asked. Jesus responded: “My ki…
+If we pick and choose what we accept in the proclamation, we cloud our eternal view, putting too much importance on our experience here and now.
 
-## Explicit scripture citations
+Shortly before His Crucifixion, Jesus was taken before Pilate in the judgment hall. “Art thou the King of the Jews?” Pilate condescendingly asked. Jesus responded: “My kingdom is not of this world. … I [came] into the world, that I should bear witness [of] the truth. Every one that is of the truth heareth my voice.”
+
+In today’s world, the question “What is truth?” can be painfully complex to the secular mind.
+
+A Google search for “What is truth?” brings more than a million responses. We have more available information on our cell phones than in all the books of a brick and mortar library. We live with information and opinion overload. Enticing and alluring voices pursue us at every turn.
+
+Caught in today’s confusion, it is no wonder that so many consign themselves to the words spoken 2,500 years ago by Protagoras to the young Socrates: “What is true for you,” he said, “is true for you, and what is true for me, is true for me.”
+
+Blessed with the restored gospel of Jesus Christ, we humbly declare that there are some things that are completely and absolutely true. These eternal truths are the same for every son and daughter of God.
+
+The scriptures teach, “Truth is knowledge of things as they are, and as they were, and as they are to come.” Truth looks backward and forward, expanding the perspective of our small point in time.
+
+Jesus said, “I am the way, the truth, and the life.” Truth shows us the way to eternal life, and it comes only through our Savior, Jesus Christ. There is no other way.
+
+Jesus Christ teaches us how to live, and, through His Atonement and Resurrection, He offers us forgiveness from our sins and immortality beyond the veil. This is absolutely true.
+
+He teaches us that it does not matter if we are rich or poor, prominent or unknown, sophisticated or simple. Rather, our mortal quest is to strengthen our faith in the Lord Jesus Christ, to choose good over evil, and to keep His commandments. While we celebrate the innovations of science and medicine, the truths of God go far beyond these discoveries.
+
+In opposition to the truths of eternity, there always have been counterfeits to distract God’s children from the truth. The arguments of the adversary are always the same. Listen to these, voiced 2,000 years ago:
+
+“[You] cannot know of things [you] do not see. … [Whatever a person does is] no crime.”
+
+“[God is not blessing you, but] every [person] prosper[s] according to his [own] genius.”
+
+“It is not reasonable that such a being as … Christ … [would] be the Son of God.”
+
+“[What you believe is a foolish tradition and a] derangement of your [mind].” Sounds like today, doesn’t it?
+
+With the Restoration of the gospel, God has given us the way to learn and know essential spiritual truths: we learn them through the holy scriptures, through our personal prayers and our own experiences, through the counsel of the living prophets and apostles, and through the guidance of the Holy Ghost, who can help us to “know the truth of all things.”
+
+We can know the things of God as we seek them spiritually. Paul said, “The things of God knoweth no man, except he has the Spirit of God. … [For] they are spiritually discerned.”
+
+Look at this art by Michael Murphy. From this perspective, you would hardly believe that it is an artistic rendition of a human eye. However, as you look at the dots from a different perspective, you see the beauty of the artist’s creation.
+
+Likewise, we see the spiritual truths of God through the perspective of an eye of faith. Paul said: “The natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.”
+
+The scriptures, our prayers, our own experiences, modern prophets, and the gift of the Holy Ghost bring us the spiritual perspective of truth necessary for our journey here on earth.
+
+Let’s look at the proclamation on the family through the eye of faith.
+
+President Gordon B. Hinckley introduced “The Family: A Proclamation to the World” with this statement: “With so much of sophistry that is passed off as truth, with so much of deception concerning standards and values, with so much of allurement and enticement to take on the slow stain of the world, we have felt to warn [you].”
+
+The proclamation begins: “All human beings—male and female—are created in the image of God. Each is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny.”
+
+These are eternal truths. You and I are not an accident of nature.
+
+I love these words: “In the premortal realm, spirit sons and daughters knew and worshipped God as their Eternal Father and accepted His plan.”
+
+We lived before our birth. Our individual identity is stamped in us forever. In ways we don’t fully understand, our spiritual growth there in the premortal world influences who we are here. We accepted God’s plan. We knew that we would experience difficulties, pain, and sorrow upon the earth. We also knew that the Savior would come and that as we proved ourselves worthy, we would rise in the Resurrection, having “glory added upon [our] heads for ever and ever.”
+
+The proclamation is direct: “We declare the means by which mortal life is created to be divinely appointed. We affirm the sanctity of life and of its importance in God’s eternal plan.”
+
+Our Father’s plan encourages a husband and wife to bring children into the world and obligates us to speak in defense of the unborn.
+
+If we pick and choose what we accept in the proclamation, we cloud our eternal view, putting too much importance on our experience here and now. By prayerfully pondering the proclamation through the eye of faith, we better understand how the principles are beautifully connected, supporting one another, revealing our Father’s plan for His children.
+
+Should we really be surprised when the Lord’s prophets declare His will and, for some, questions remain? Of course, some reject the voice of the prophets immediately, but others prayerfully ponder their honest questions—questions that will be settled with patience and an eye of faith. If the proclamation had been revealed in a different century, there would still have been questions, just different questions than those of today. One purpose of prophets is to help us in resolving sincere questions.
+
+Prior to being the President of the Church, President Russell M. Nelson said: “Prophets see ahead. They see the harrowing dangers the adversary has placed or will yet place in our path. Prophets also foresee the grand possibilities and privileges awaiting those who listen with the intent to obey.”
+
+I testify to the truth and spiritual power of the united voice of the First Presidency and the Quorum of the Twelve.
+
+In my lifetime, we have seen a dramatic change in the world’s beliefs about many of the principles taught in the proclamation. During my teenage and early married years, many in the world walked away from the Lord’s standard we call the law of chastity, that sexual relations are to occur only between a man and a woman who are lawfully married. In my 20s and 30s, many walked away from the sacred protection of the unborn, as abortion became more acceptable. In more recent years, many have walked away from God’s law that marriage is a sacred union between a man and a woman.
+
+Watching many walking away from the boundaries the Lord has set reminds us of that day in Capernaum when the Savior declared His divinity and sadly “many of his disciples … walked [away].”
+
+The Savior then turned to the Twelve: “Will ye also go away?”
+
+“Lord, to whom shall we go? thou hast the words of eternal life.
+
+“And we believe and are sure that thou art that Christ, the Son of the living God.”
+
+There are so many, young and old, who are loyal and true to the gospel of Jesus Christ, even though their own current experience does not fit neatly inside the family proclamation: children whose lives have been shaken by divorce; youth whose friends mock the law of chastity; divorced women and men who have been gravely wounded by the unfaithfulness of a spouse; husbands and wives who are unable to have children; women and men who are married to a spouse who does not share their faith in the restored gospel; single women and men who, for various reasons, have been unable to marry.
+
+One friend of nearly 20 years, whom I admire greatly, is not married because of same-sex attraction. He has remained true to his temple covenants, has expanded his creative and professional talents, and has served nobly in both the Church and the community. He recently said to me, “I can sympathize with those in my situation who choose not to keep the law of chastity in the world in which we live. But didn’t Christ ask us to be ‘not of this world’? It is clear that God’s standards are different from those of the world.”
+
+The laws of man often move outside the boundaries set by the laws of God. For those desiring to please God, faith, patience, and diligence are surely needed.
+
+My wife, Kathy, and I have known a single sister, now in her mid-40s, who is gifted in her professional abilities and serves valiantly in her ward. She too has kept the laws of God. She wrote:
+
+“I dreamed of the day I would be blessed with a husband and children. I am still waiting. At times, my situation brings feelings of being forgotten and alone, but I try to keep the focus off what I don’t have and instead on what I do have and how I can help others.
+
+“Service to my extended family, in my ward, and in the temple has helped me. I am not forgotten or alone because I am part of, and we are all part of, a larger family.”
+
+Some will say, “You don’t understand my situation.” I may not, but I testify that there is One who does understand. There is One who knows your burdens because of His sacrifice made in the garden and on the cross. As you seek Him and keep His commandments, I promise you that He will bless you and lift the burdens too heavy to bear alone. He will give you eternal friends and opportunities to serve. More important, He will fill you with the powerful Spirit of the Holy Ghost and shine His heavenly approval upon you. No choice, no alternative that denies the companionship of the Holy Ghost or the blessings of eternity is worthy of our consideration.
+
+I know the Savior lives. I witness that He is the source of all truth that really matters and that He will fulfill all the blessings He has promised to those who keep His commandments. In the name of Jesus Christ, amen.
+
+William S. Sahakian and Mabel Lewis Sahakian, Ideas of the Great Philosophers (1966), 28.
+
+Joseph Smith Translation, 1 Corinthians 2:11 (in 1 Corinthians 2:11, footnote c); 1 Corinthians 2:14.
+
+Gordon B. Hinckley, “Stand Strong against the Wiles of the World,” Ensign, Nov. 1995, 100. President Russell M. Nelson recently explained some of the history of the proclamation, as summarized by Sheri Dew in Insights from a Prophet’s Life: Russell M. Nelson (2019), 208:
+
+“One day in 1994, the Quorum of the Twelve Apostles spent a day in their council room in the Salt Lake Temple discussing issues surrounding the family. They considered everything from the increasingly ubiquitous nature of pornography to potential anti-family legislation of various kinds. This was not a new discussion, but that day the entire agenda revolved around this one vital topic.
+
+“The Twelve reviewed both doctrine and policies, considering those things that could not be changed—doctrine—and those things that possibly could be—policies. They discussed issues they saw coming, including an intensified societal push for gay marriage and transgender rights. ‘But that was not the end of what we saw,’ Elder Nelson explained. ‘We could see the efforts of various communities to do away with all standards and limitations on sexual activity. We saw the confusion of genders. We could see it all coming.’
+
+“This extended discussion, along with others over a period of time, led to the conclusion that the Twelve should prepare a document, perhaps even a proclamation, outlining the Church’s stand on the family to present to the First Presidency for consideration.”
+
+“The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145.
+
+President Dallin H. Oaks said: “All of the myriads of mortals who have been born on this earth chose the Father’s plan and fought for it. Many of us also made covenants with the Father concerning what we would do in mortality. In ways that have not been revealed, our actions in the spirit world influence us in mortality” (“The Great Plan of Happiness,” Ensign, Nov. 1993, 72).
+
+See Dallin H. Oaks, “Truth and the Plan,” Ensign or Liahona, Nov. 2018, 25–28.
+
+“Converted Latter-day Saints believe that the family proclamation, issued nearly a quarter century ago and now translated into scores of languages, is the Lord’s reemphasis of the gospel truths we need to sustain us through current challenges to the family. …
+
+“I testify that the proclamation on the family is a statement of eternal truth, the will of the Lord for His children who seek eternal life. It has been the basis of Church teaching and practice for the last 22 years and will continue so for the future. Consider it as such, teach it, live by it, and you will be blessed as you press forward toward eternal life. …
+
+“… I believe our attitude toward and use of the family proclamation is one of those tests for this generation. I pray for all Latter-day Saints to stand firm in that test” (“The Plan and the Proclamation,” Ensign or Liahona, Nov. 2017, 30–31).
+
+President Russell M. Nelson has said: “There are those who label us [as] bigots, but the bigots are those who don’t allow us to feel as we feel but want us to allow them to feel as they feel. Our stand ultimately boils down to the law of chastity. The Ten Commandments are still valid. They’ve never been revoked. … It is not our prerogative to change laws that God has decreed” (in Dew, Insights from a Prophet’s Life, 212).
+
+“While the family is under attack across the entire world, the truths of the family proclamation will fortify you.
+
+“You wonderful youth of the noble birthright, you need to understand the far-reaching consequences of society’s current skirmish over the very definition of marriage. The present debate involves the question of whether two people of the same gender can be married. If you have a question about the position of the Church on this or any other important issue, prayerfully ponder it, and then heed the prophetic messages at this forthcoming October general conference of the Church. Those inspired addresses, plus inspiration from the Holy Ghost, will bring to your mind a fuller and truer understanding” (Russell M. Nelson, “Youth of the Noble Birthright: What Will You Choose?” [Church Educational System devotional for young adults, Sept. 6, 2013], broadcasts.ChurchofJesusChrist.org).
+
+Russell M. Nelson, “Stand as True Millennials,” Ensign, Oct. 2016, 31; Liahona, Oct. 2016, 53.
+
+President Nelson has said: “Civil governments are heavily influenced by social trends and secular philosophies as they write, rewrite, and enforce laws. Regardless of what civil legislation may be enacted, the doctrine of the Lord regarding marriage and morality cannot be changed. Remember: sin, even if legalized by man, is still sin in the eyes of God!” (“Decisions for Eternity,” Ensign or Liahona, Nov. 2013, 108).
+
+See Alma 32:41–43; I have always been impressed that in this great chapter on growing our faith, the virtues of faith, patience, and diligence are mentioned together in each of the last three verses.
+
+See Alma 7:12; Jesus Christ suffered not only for our sins but for our infirmities as well: “He will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.” (Synonyms for infirmities would be sickness, weakness, affliction, deficiency.) See Doctrine and Covenants 88:6: “He descended below all things, in that he comprehended all things, that he might be in all and through all things, the light of truth.”
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "139772665", "context": "", "text": " John 18:33, 36–38. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/18?lang=eng&id=p33%2Cp36-p38#p33", "text": "John 18:33, 36–38"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "139772673", "context": "", "text": " William S. Sahakian and Mabel Lewis Sahakian, Ideas of the Great Philosophers (1966), 28. "}, "note3": {"id": "note3", "marker": "3.", "pid": "139772681", "context": "", "text": " Doctrine and Covenants 93:24. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/93?lang=eng&id=p24#p24", "text": "Doctrine and Covenants 93:24"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "139772685", "context": "", "text": " John 14:6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p6#p6", "text": "John 14:6"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "139772695", "context": "", "text": " Alma 30:15, 17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/30?lang=eng&id=p15%2Cp17#p15", "text": "Alma 30:15, 17"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "139772697", "context": "", "text": " Helaman 16:18. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/16?lang=eng&id=p18#p18", "text": "Helaman 16:18"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "139772700", "context": "", "text": " See Alma 30:14, 23, 27. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/30?lang=eng&id=p14%2Cp23%2Cp27#p14", "text": "Alma 30:14, 23, 27"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "139772703", "context": "", "text": " Moroni 10:5.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p5#p5", "text": "Moroni 10:5"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "139772710", "context": "", "text": " Joseph Smith Translation, 1 Corinthians 2:11 (in 1 Corinthians 2:11, footnote c); 1 Corinthians 2:14. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/2?lang=eng&id=p11#p11", "text": "1 Corinthians 2:11"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/2?lang=eng&id=p14#p14", "text": "1 Corinthians 2:14"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "139772714", "context": "", "text": " 1 Corinthians 2:14. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/2?lang=eng&id=p14#p14", "text": "1 Corinthians 2:14"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "139772721", "context": "", "text": " Gordon B. Hinckley, “Stand Strong against the Wiles of the World,” Ensign, Nov. 1995, 100. President Russell M. Nelson recently explained some of the history of the proclamation, as summarized by Sheri Dew in Insights from a Prophet’s Life: Russell M. Nelson (2019), 208: \n “One day in 1994, the Quorum of the Twelve Apostles spent a day in their council room in the Salt Lake Temple discussing issues surrounding the family. They considered everything from the increasingly ubiquitous nature of pornography to potential anti-family legislation of various kinds. This was not a new discussion, but that day the entire agenda revolved around this one vital topic. \n “The Twelve reviewed both doctrine and policies, considering those things that could not be changed—doctrine—and those things that possibly could be—policies.
+
+They discussed issues they saw coming, including an intensified societal push for gay marriage and transgender rights. ‘But that was not the end of what we saw,’ Elder Nelson explained. ‘We could see the efforts of various communities to do away with all standards and limitations on sexual activity. We saw the confusion of genders. We could see it all coming.’ \n “This extended discussion, along with others over a period of time, led to the conclusion that the Twelve should prepare a document, perhaps even a proclamation, outlining the Church’s stand on the family to present to the First Presidency for consideration.” ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1995/10/stand-strong-against-the-wiles-of-the-world?lang=eng", "text": "Stand Strong against the Wiles of the World"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "139772728", "context": "", "text": " “The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145. ", "referenceUris": [{"type": "cross-ref", "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng", "text": "The Family: A Proclamation to the World"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "139772729", "context": "", "text": " President Dallin H. Oaks said: “All of the myriads of mortals who have been born on this earth chose the Father’s plan and fought for it. Many of us also made covenants with the Father concerning what we would do in mortality. In ways that have not been revealed, our actions in the spirit world influence us in mortality” (“The Great Plan of Happiness,” Ensign, Nov. 1993, 72).
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1993/10/the-great-plan-of-happiness?lang=eng", "text": "The Great Plan of Happiness"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "139772729", "context": "", "text": " See Dallin H. Oaks, “Truth and the Plan,” Ensign or Liahona, Nov. 2018, 25–28. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2018/10/truth-and-the-plan?lang=eng", "text": "Truth and the Plan"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "139772729", "context": "", "text": " Abraham 3:26. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/3?lang=eng&id=p26#p26", "text": "Abraham 3:26"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "139772739", "context": "", "text": " President Dallin H. Oaks has said: \n “Converted Latter-day Saints believe that the family proclamation, issued nearly a quarter century ago and now translated into scores of languages, is the Lord’s reemphasis of the gospel truths we need to sustain us through current challenges to the family. … \n “I testify that the proclamation on the family is a statement of eternal truth, the will of the Lord for His children who seek eternal life. It has been the basis of Church teaching and practice for the last 22 years and will continue so for the future. Consider it as such, teach it, live by it, and you will be blessed as you press forward toward eternal life. … \n “… I believe our attitude toward and use of the family proclamation is one of those tests for this generation. I pray for all Latter-day Saints to stand firm in that test” (“The Plan and the Proclamation,” Ensign or Liahona, Nov. 2017, 30–31).
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2017/10/the-plan-and-the-proclamation?lang=eng", "text": "The Plan and the Proclamation"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "139772742", "context": "", "text": " President Russell M. Nelson has said: “There are those who label us [as] bigots, but the bigots are those who don’t allow us to feel as we feel but want us to allow them to feel as they feel. Our stand ultimately boils down to the law of chastity. The Ten Commandments are still valid. They’ve never been revoked. … It is not our prerogative to change laws that God has decreed” (in Dew, Insights from a Prophet’s Life, 212). "}, "note18": {"id": "note18", "marker": "18.", "pid": "139772742", "context": "", "text": " “While the family is under attack across the entire world, the truths of the family proclamation will fortify you. \n “You wonderful youth of the noble birthright, you need to understand the far-reaching consequences of society’s current skirmish over the very definition of marriage. The present debate involves the question of whether two people of the same gender can be married. If you have a question about the position of the Church on this or any other important issue, prayerfully ponder it, and then heed the prophetic messages at this forthcoming October general conference of the Church. Those inspired addresses, plus inspiration from the Holy Ghost, will bring to your mind a fuller and truer understanding” (Russell M. Nelson, “Youth of the Noble Birthright: What Will You Choose?” [Church Educational System devotional for young adults, Sept. 6, 2013], broadcasts.ChurchofJesusChrist.org).
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng", "text": "Youth of the Noble Birthright: What Will You Choose?"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "139772744", "context": "", "text": " Russell M. Nelson, “Stand as True Millennials,” Ensign, Oct. 2016, 31; Liahona, Oct. 2016, 53. ", "referenceUris": [{"type": "cross-ref", "href": "/study/liahona/2016/10/young-adults/stand-as-true-millennials?lang=eng", "text": "Stand as True Millennials"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "139772752", "context": "", "text": " President Nelson has said: “Civil governments are heavily influenced by social trends and secular philosophies as they write, rewrite, and enforce laws. Regardless of what civil legislation may be enacted, the doctrine of the Lord regarding marriage and morality cannot be changed. Remember: sin, even if legalized by man, is still sin in the eyes of God!” (“Decisions for Eternity,” Ensign or Liahona, Nov. 2013, 108). ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2013/10/decisions-for-eternity?lang=eng", "text": "Decisions for Eternity"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "139772764", "context": "", "text": " John 6:66–69. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/6?lang=eng&id=p66-p69#p66", "text": "John 6:66–69"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "139772775", "context": "", "text": " See Alma 32:41–43; I have always been impressed that in this great chapter on growing our faith, the virtues of faith, patience, and diligence are mentioned together in each of the last three verses.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/32?lang=eng&id=p41-p43#p41", "text": "Alma 32:41–43"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "139772789", "context": "", "text": " See Alma 7:12; Jesus Christ suffered not only for our sins but for our infirmities as well: “He will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.” (Synonyms for infirmities would be sickness, weakness, affliction, deficiency.) See Doctrine and Covenants 88:6: “He descended below all things, in that he comprehended all things, that he might be in all and through all things, the light of truth.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/7?lang=eng&id=p12#p12", "text": "Alma 7:12"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/88?lang=eng&id=p6#p6", "text": "Doctrine and Covenants 88:6"}]}}
+
+## Scripture citations in this talk
 
 - [[1 Corinthians 2]] (11×)
 - [[Alma 30]] (6×)

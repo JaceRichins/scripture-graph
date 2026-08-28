@@ -207,6 +207,8 @@ def cmd_fetch(args):
             if spec["priority"] > args.max_priority and not args.collection:
                 continue
             out[name] = glib.crawl_collection(ctx, name, budget)
+    if args.what in ("collections", "gospel-library", "all"):
+        out["collection_notes"] = glib.write_collection_notes(ctx)
     if args.what in ("od", "apparatus", "collections", "gospel-library", "all"):
         ctx.bump_corpus_version(f"gospel-library fetch: {args.what}")
         from scripturegraph.corpus.registry import _enqueue_affected, write_manifest

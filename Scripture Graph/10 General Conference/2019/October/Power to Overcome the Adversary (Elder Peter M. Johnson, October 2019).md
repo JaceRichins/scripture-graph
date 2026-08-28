@@ -7,16 +7,90 @@ year: '2019'
 month: October
 url: https://www.churchofjesuschrist.org/general-conference/2019/10/54johnson?lang=eng
 doc_id: talk:2019-october-power-to-overcome-the-adversary
+full_text: true
 ---
 
 # Power to Overcome the Adversary
 
-**Speaker:** Elder Peter M. Johnson · **Conference:** October 2019
-**Source:** https://www.churchofjesuschrist.org/general-conference/2019/10/54johnson?lang=eng
+**Speaker:** Elder Peter M. Johnson · **Conference:** October 2019 · [source](https://www.churchofjesuschrist.org/general-conference/2019/10/54johnson?lang=eng)
 
-> Power to Overcome the Adversary  By Elder Peter M. Johnson  Of the Seventy  How do we find peace, remember who we are, and overcome the three Ds of the adversary?  Brothers and sisters, thank you for all you do to become, and to help others become, true followers of Jesus Christ and enjoy the blessings of the holy temple. Thank you for your goodness. You are wonderful; you are beautiful.  It is m…
+How do we find peace, remember who we are, and overcome the three Ds of the adversary?
 
-## Explicit scripture citations
+Brothers and sisters, thank you for all you do to become, and to help others become, true followers of Jesus Christ and enjoy the blessings of the holy temple. Thank you for your goodness. You are wonderful; you are beautiful.
+
+It is my prayer that we will recognize the confirming influence of the Holy Ghost as we come to fully understand that we are children of God. “The Family: A Proclamation to the World” states: “All human beings—male and female—are created in the image of God. Each is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny.” We are “choice spirits who were reserved to come forth in the fulness of times to take part in laying the foundations of the great latter-day work.” President Russell M. Nelson declared: “You were taught in the spirit world to prepare you for anything and everything you would encounter during this latter part of these latter days (see D&C 138:56). That teaching endures within you!”
+
+You are elect sons and daughters of God. You have the power to overcome the adversary. The adversary, however, is aware of who you are. He knows of your divine heritage and seeks to limit your earthly and heavenly potential by using the three Ds:
+
+The adversary used the tool of deception in the days of Moses. The Lord declared to Moses:
+
+“I have a work for thee, … and thou art in the similitude of mine Only Begotten.”
+
+Shortly after this glorious vision, Satan attempted to deceive Moses. The words he used are interesting: “Moses, son of man, worship me.” The deception was not only in the invitation to worship Satan but also in the way he described Moses as a son of man. Remember, the Lord had just told Moses he was a son of God, created in the similitude of the Only Begotten.
+
+The adversary was relentless in his attempts to deceive Moses, but Moses resisted, saying, “Depart from me, Satan, for this one God only will I worship, which is the God of glory.” Moses remembered who he was—a son of God.
+
+The Lord’s words to Moses apply to you and to me. We are created in God’s own image, and He has a work for us to do. The adversary attempts to deceive by having us forget who we truly are. If we do not understand who we are, then it is difficult to recognize who we can become.
+
+The adversary also attempts to distract us away from Christ and His covenant path. Elder Ronald A. Rasband shared the following: “The adversary’s design is to distract us from spiritual witnesses, while the Lord’s desire is to enlighten and engage us in His work.”
+
+In our day, there are many distractions, including Twitter, Facebook, virtual reality games, and much more. These technological advances are amazing, but if we are not careful, they can distract us from fulfilling our divine potential. Using them appropriately can bring forth the power of heaven and allow us to witness miracles as we seek to gather scattered Israel on both sides of the veil.
+
+Let us be careful and not casual in our use of technology. Continually seek for ways that technology can draw us closer to the Savior and allow us to accomplish His work as we prepare for His Second Coming.
+
+Lastly, the adversary desires for us to become discouraged. We may get discouraged when we compare ourselves to others or feel we are not living up to expectations, including our own.
+
+When I started my doctoral program, I felt discouraged. The program accepted only four students that year, and the other students were brilliant. They had higher test scores and more work experience at senior management positions, and they exuded confidence in their abilities. After my first two weeks in the program, feelings of discouragement and doubt began to take hold, almost overwhelming me.
+
+I decided that if I were going to complete this four-year program, I would finish reading the Book of Mormon each semester. Each day as I read, I recognized the Savior’s declaration that the Holy Ghost would teach me all things and would bring all things to my remembrance. It reaffirmed who I am as a son of God, reminded me not to compare myself with the others, and gave me the confidence in my divine role to succeed.
+
+My dear friends, please do not let anyone steal your happiness. Do not compare yourself to others. Please remember the loving words of the Savior: “Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.”
+
+So how do we do it? How do we find this peace, remember who we are, and overcome the three Ds of the adversary?
+
+First, remember that the first and great commandment is to love God with our heart, might, mind, and strength. All that we do should be motivated by our love for Him and for His Son. As we develop our love for Them by keeping Their commandments, our capacity to love ourselves and to love others will increase. We will begin to serve family, friends, and neighbors because we will see them as the Savior sees them—as sons and daughters of God.
+
+Second, pray unto the Father in the name of Jesus Christ every day, every day, every day. It is through prayer that we can feel the love of God and show our love for Him. Through prayer we express gratitude and ask for the strength and the courage to submit our will to God’s and be guided and directed in all things.
+
+I encourage you to “pray unto the Father with all the energy of heart, that ye may be filled with this love, … that ye may become the sons [and daughters] of God; that when he shall appear we shall be like him.”
+
+Third, read and study the Book of Mormon every day, every day, every day. My Book of Mormon studies tend to go better when I read with a question in mind. As we read with a question, we can receive revelation and recognize that the Prophet Joseph Smith spoke truth when he declared, “The Book of Mormon [is] the most correct of any book on earth, … and a man [or a woman will] get nearer to God by abiding by its precepts, than by any other book.” The Book of Mormon contains the words of Christ and helps us remember who we are.
+
+Lastly, prayerfully partake of the sacrament every week, every week, every week. It is through covenants and priesthood ordinances, including the sacrament, that the power of godliness is manifest in our lives. Elder David A. Bednar taught: “The ordinance of the sacrament is a holy and repeated invitation to repent sincerely and to be renewed spiritually. The act of partaking of the sacrament, in and of itself, does not remit sins. But as we prepare conscientiously and participate in this holy ordinance with a broken heart and a contrite spirit, then the promise is that we may always have the Spirit of the Lord to be with us.”
+
+As we humbly partake of the sacrament, we remember Jesus’s suffering in that sacred garden called Gethsemane and His sacrifice on the cross. We express gratitude to the Father for sending His Only Begotten Son, our Redeemer, and show our willingness to keep His commandments and to always remember Him. There is a spiritual enlightenment associated with the sacrament—it is personal, it is powerful, and it is needed.
+
+My friends, I promise that as we strive to love God with all our heart, pray in the name of Jesus Christ, study the Book of Mormon, and prayerfully partake of the sacrament, we will have the ability, with the strength of the Lord, to overcome the deceptive practices of the adversary, to minimize distractions that limit our divine potential, and to resist the discouragement that diminishes our capacity to feel the love of our Heavenly Father and His Son. We will come to fully understand who we are as sons and daughters of God.
+
+Brothers and sisters, I share with you my love and declare unto you my witness that I know Heavenly Father lives and Jesus is the Christ. I love Them. The Church of Jesus Christ of Latter-day Saints is God’s kingdom upon the earth. We have a divine appointment to gather Israel and prepare the world for the Second Coming of the Messiah. In the name of Jesus Christ, amen.
+
+“The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145.
+
+Doctrine and Covenants 138:53; see also Doctrine and Covenants 138:54–56.
+
+Russell M. Nelson, “Stand as True Millennials,” Ensign, Oct. 2016, 26; Liahona, Oct. 2016, 48.
+
+Ronald A. Rasband, “Lest Thou Forget,” Ensign or Liahona, Nov. 2016, 115.
+
+See Becky Craven, “Careful versus Casual,” Ensign or Liahona, May 2019, 9–11.
+
+Our divine role to succeed is to obtain eternal life regardless of whether one obtains what the world views as success in earthly endeavors. The Holy Ghost reminds us of our divine role and of who we can become as we remain on the covenant path and overcome, with the strength of the Lord, the temptations of the adversary.
+
+See Kevin W. Pearson, “Stay by the Tree,” Ensign or Liahona, May 2015, 114–16.
+
+David A. Bednar, “Always Retain a Remission of Your Sins,” Ensign or Liahona, May 2016, 61–62.
+
+See Moroni 4:2–3; 5:1–2; Doctrine and Covenants 20:76–79. Please note that we are living in a time when we desperately need His Spirit to be with us always.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "141404774", "context": "", "text": " “The Family: A Proclamation to the World,” Ensign or Liahona, May 2017, 145. ", "referenceUris": [{"type": "cross-ref", "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng", "text": "The Family: A Proclamation to the World"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "141404774", "context": "", "text": " Doctrine and Covenants 138:53; see also Doctrine and Covenants 138:54–56. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p53#p53", "text": "Doctrine and Covenants 138:53"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p54-p56#p54", "text": "Doctrine and Covenants 138:54–56"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "141404774", "context": "", "text": " Russell M. Nelson, “Stand as True Millennials,” Ensign, Oct. 2016, 26; Liahona, Oct. 2016, 48. ", "referenceUris": [{"type": "cross-ref", "href": "/study/liahona/2016/10/young-adults/stand-as-true-millennials?lang=eng", "text": "Stand as True Millennials"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "141404791", "context": "", "text": " Moses 1:4, 6. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p4%2Cp6#p4", "text": "Moses 1:4, 6"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "141404793", "context": "", "text": " Moses 1:12. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p12#p12", "text": "Moses 1:12"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "141404795", "context": "", "text": " Moses 1:20; see also Moses 1:16–19, 21.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p20#p20", "text": "Moses 1:20"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/1?lang=eng&id=p16-p19%2Cp21#p16", "text": "Moses 1:16–19, 21"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "141404801", "context": "", "text": " Ronald A. Rasband, “Lest Thou Forget,” Ensign or Liahona, Nov. 2016, 115. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2016/10/lest-thou-forget?lang=eng", "text": "Lest Thou Forget"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "141404805", "context": "", "text": " See Becky Craven, “Careful versus Casual,” Ensign or Liahona, May 2019, 9–11. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2019/04/12craven?lang=eng", "text": "Careful versus Casual"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "141404812", "context": "", "text": " See John 14:26. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p26#p26", "text": "John 14:26"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "141404812", "context": "", "text": " Our divine role to succeed is to obtain eternal life regardless of whether one obtains what the world views as success in earthly endeavors. The Holy Ghost reminds us of our divine role and of who we can become as we remain on the covenant path and overcome, with the strength of the Lord, the temptations of the adversary. "}, "note11": {"id": "note11", "marker": "11.", "pid": "141404815", "context": "", "text": " John 14:27; emphasis added.
+
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p27#p27", "text": "John 14:27"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "141404818", "context": "", "text": " See Matthew 22:37–38. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/22?lang=eng&id=p37-p38#p37", "text": "Matthew 22:37–38"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "141404818", "context": "", "text": " See John 3:16; 1 John 4:19; Mosiah 2:17. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/3?lang=eng&id=p16#p16", "text": "John 3:16"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/1-jn/4?lang=eng&id=p19#p19", "text": "1 John 4:19"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p17#p17", "text": "Mosiah 2:17"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "141404819", "context": "", "text": " See 3 Nephi 18:18–21. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/18?lang=eng&id=p18-p21#p18", "text": "3 Nephi 18:18–21"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "141404820", "context": "", "text": " Moroni 7:48; emphasis added. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng&id=p48#p48", "text": "Moroni 7:48"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "141404821", "context": "", "text": " See Kevin W. Pearson, “Stay by the Tree,” Ensign or Liahona, May 2015, 114–16.
+
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2015/04/stay-by-the-tree?lang=eng", "text": "Stay by the Tree"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "141404821", "context": "", "text": " Introduction to the Book of Mormon. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/introduction?lang=eng", "text": "Introduction to the Book of Mormon"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "141404822", "context": "", "text": " See Doctrine and Covenants 84:20–21. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20", "text": "Doctrine and Covenants 84:20–21"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "141404822", "context": "", "text": " David A. Bednar, “Always Retain a Remission of Your Sins,” Ensign or Liahona, May 2016, 61–62. ", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/2016/04/always-retain-a-remission-of-your-sins?lang=eng", "text": "Always Retain a Remission of Your Sins"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "141404823", "context": "", "text": " See Moroni 4:2–3; 5:1–2; Doctrine and Covenants 20:76–79. Please note that we are living in a time when we desperately need His Spirit to be with us always. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/4?lang=eng&id=p2-p3#p2", "text": "Moroni 4:2–3"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/5?lang=eng&id=p1-p2#p1", "text": "5:1–2"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/20?lang=eng&id=p76-p79#p76", "text": "Doctrine and Covenants 20:76–79"}]}}
+
+## Scripture citations in this talk
 
 - [[Moses 1]] (12×)
 - [[D&C 138]] (7×)
