@@ -75,8 +75,13 @@ def _strip_tags(fragment: str) -> str:
 
 
 def _heading_of(body: str) -> str:
-    m = re.search(r'class="study-summary"[^>]*>(.*?)</p>', body, re.DOTALL)
-    return _strip_tags(m.group(1)) if m else ""
+    """Official heading: chapter pages use study-summary; Official
+    Declarations use a study-intro paragraph."""
+    for cls in ("study-summary", "study-intro"):
+        m = re.search(rf'class="{cls}"[^>]*>(.*?)</p>', body, re.DOTALL)
+        if m:
+            return _strip_tags(m.group(1))
+    return ""
 
 
 # ---------------------------------------------------- official declarations

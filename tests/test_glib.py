@@ -42,11 +42,16 @@ def test_od_paragraph_extraction():
     import re
     d = json.loads((FIXTURES / "api-od2.json").read_text(encoding="utf-8"))
     body = d["content"]["body"]
+    # declaration proper = p1..pN paragraphs (the canonical text)
     paras = [_strip_tags(m.group(2))
              for m in re.finditer(r'<p[^>]*\bid="p(\d+)"[^>]*>(.*?)</p>', body, re.DOTALL)]
     paras = [p for p in paras if len(p) >= 20]
-    assert len(paras) >= 5
-    assert any("all are alike unto God" in p for p in paras)
+    assert len(paras) >= 10
+    joined = " ".join(paras)
+    assert "priesthood" in joined and "revelation" in joined
+    # the 2013 study introduction is apparatus → becomes the chapter heading
+    heading = _heading_of(body)
+    assert "all are alike unto God" in heading
 
 
 def test_toc_child_uris():
