@@ -64,4 +64,4 @@ cssclasses:
 **25** And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan. ^judg-7-25
 
 ---
-[[Judges 6|← Judges 6]] · [[Judges 7 - Study Guide|Study guide]] · [[Judges 7 - My Notes|My notes]] · [[Judges]] · [[Judges 8|Judges 8 →]]
+[[Judges 6|← Judges 6]] · [[Judges 7 (Annotated)|Annotated]] · [[Judges 7 - Study Guide|Study guide]] · [[Judges 7 - My Notes|My notes]] · [[Judges]] · [[Judges 8|Judges 8 →]]

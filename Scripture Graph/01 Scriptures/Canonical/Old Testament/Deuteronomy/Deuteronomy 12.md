@@ -78,4 +78,4 @@ cssclasses:
 **32** What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it. ^deut-12-32
 
 ---
-[[Deuteronomy 11|← Deuteronomy 11]] · [[Deuteronomy 12 - Study Guide|Study guide]] · [[Deuteronomy 12 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 13|Deuteronomy 13 →]]
+[[Deuteronomy 11|← Deuteronomy 11]] · [[Deuteronomy 12 (Annotated)|Annotated]] · [[Deuteronomy 12 - Study Guide|Study guide]] · [[Deuteronomy 12 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 13|Deuteronomy 13 →]]

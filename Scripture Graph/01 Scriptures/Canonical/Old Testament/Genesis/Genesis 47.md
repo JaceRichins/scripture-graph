@@ -76,4 +76,4 @@ cssclasses:
 **31** And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head. ^gen-47-31
 
 ---
-[[Genesis 46|← Genesis 46]] · [[Genesis 47 - Study Guide|Study guide]] · [[Genesis 47 - My Notes|My notes]] · [[Genesis]] · [[Genesis 48|Genesis 48 →]]
+[[Genesis 46|← Genesis 46]] · [[Genesis 47 (Annotated)|Annotated]] · [[Genesis 47 - Study Guide|Study guide]] · [[Genesis 47 - My Notes|My notes]] · [[Genesis]] · [[Genesis 48|Genesis 48 →]]

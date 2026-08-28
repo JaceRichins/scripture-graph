@@ -36,4 +36,4 @@ cssclasses:
 **11** Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created. ^rev-4-11
 
 ---
-[[Revelation 3|← Revelation 3]] · [[Revelation 4 - Study Guide|Study guide]] · [[Revelation 4 - My Notes|My notes]] · [[Revelation]] · [[Revelation 5|Revelation 5 →]]
+[[Revelation 3|← Revelation 3]] · [[Revelation 4 (Annotated)|Annotated]] · [[Revelation 4 - Study Guide|Study guide]] · [[Revelation 4 - My Notes|My notes]] · [[Revelation]] · [[Revelation 5|Revelation 5 →]]

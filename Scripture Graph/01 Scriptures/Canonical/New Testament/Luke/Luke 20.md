@@ -108,4 +108,4 @@ cssclasses:
 **47** Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation. ^luke-20-47
 
 ---
-[[Luke 19|← Luke 19]] · [[Luke 20 - Study Guide|Study guide]] · [[Luke 20 - My Notes|My notes]] · [[Luke]] · [[Luke 21|Luke 21 →]]
+[[Luke 19|← Luke 19]] · [[Luke 20 (Annotated)|Annotated]] · [[Luke 20 - Study Guide|Study guide]] · [[Luke 20 - My Notes|My notes]] · [[Luke]] · [[Luke 21|Luke 21 →]]

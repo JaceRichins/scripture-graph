@@ -58,4 +58,4 @@ cssclasses:
 **22** A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness. ^job-10-22
 
 ---
-[[Job 9|← Job 9]] · [[Job 10 - Study Guide|Study guide]] · [[Job 10 - My Notes|My notes]] · [[Job]] · [[Job 11|Job 11 →]]
+[[Job 9|← Job 9]] · [[Job 10 (Annotated)|Annotated]] · [[Job 10 - Study Guide|Study guide]] · [[Job 10 - My Notes|My notes]] · [[Job]] · [[Job 11|Job 11 →]]

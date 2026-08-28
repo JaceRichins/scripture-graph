@@ -58,4 +58,4 @@ cssclasses:
 **22** Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant. ^jer-34-22
 
 ---
-[[Jeremiah 33|← Jeremiah 33]] · [[Jeremiah 34 - Study Guide|Study guide]] · [[Jeremiah 34 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 35|Jeremiah 35 →]]
+[[Jeremiah 33|← Jeremiah 33]] · [[Jeremiah 34 (Annotated)|Annotated]] · [[Jeremiah 34 - Study Guide|Study guide]] · [[Jeremiah 34 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 35|Jeremiah 35 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** And thus we can plainly discern, that after a people have been once enlightened by the Spirit of God, and have had great knowledge of things pertaining to righteousness, and then have fallen away into sin and transgression, they become more hardened, and thus their state becomes worse than though they had never known these things. ^alma-24-30
 
 ---
-[[Alma 23|← Alma 23]] · [[Alma 24 - Study Guide|Study guide]] · [[Alma 24 - My Notes|My notes]] · [[Alma]] · [[Alma 25|Alma 25 →]]
+[[Alma 23|← Alma 23]] · [[Alma 24 (Annotated)|Annotated]] · [[Alma 24 - Study Guide|Study guide]] · [[Alma 24 - My Notes|My notes]] · [[Alma]] · [[Alma 25|Alma 25 →]]

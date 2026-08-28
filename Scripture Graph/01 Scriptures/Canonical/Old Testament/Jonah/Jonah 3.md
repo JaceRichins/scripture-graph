@@ -34,4 +34,4 @@ cssclasses:
 **10** And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not. ^jonah-3-10
 
 ---
-[[Jonah 2|← Jonah 2]] · [[Jonah 3 - Study Guide|Study guide]] · [[Jonah 3 - My Notes|My notes]] · [[Jonah]] · [[Jonah 4|Jonah 4 →]]
+[[Jonah 2|← Jonah 2]] · [[Jonah 3 (Annotated)|Annotated]] · [[Jonah 3 - Study Guide|Study guide]] · [[Jonah 3 - My Notes|My notes]] · [[Jonah]] · [[Jonah 4|Jonah 4 →]]

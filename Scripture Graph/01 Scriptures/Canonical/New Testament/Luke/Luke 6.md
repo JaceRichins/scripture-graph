@@ -112,4 +112,4 @@ cssclasses:
 **49** But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great. ^luke-6-49
 
 ---
-[[Luke 5|← Luke 5]] · [[Luke 6 - Study Guide|Study guide]] · [[Luke 6 - My Notes|My notes]] · [[Luke]] · [[Luke 7|Luke 7 →]]
+[[Luke 5|← Luke 5]] · [[Luke 6 (Annotated)|Annotated]] · [[Luke 6 - Study Guide|Study guide]] · [[Luke 6 - My Notes|My notes]] · [[Luke]] · [[Luke 7|Luke 7 →]]

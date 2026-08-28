@@ -102,4 +102,4 @@ cssclasses:
 **44** And Moses declared unto the children of Israel the feasts of the LORD. ^lev-23-44
 
 ---
-[[Leviticus 22|← Leviticus 22]] · [[Leviticus 23 - Study Guide|Study guide]] · [[Leviticus 23 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 24|Leviticus 24 →]]
+[[Leviticus 22|← Leviticus 22]] · [[Leviticus 23 (Annotated)|Annotated]] · [[Leviticus 23 - Study Guide|Study guide]] · [[Leviticus 23 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 24|Leviticus 24 →]]

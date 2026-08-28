@@ -90,4 +90,4 @@ aliases:
 **37** Behold the wounds which pierced my side, and also the prints of the nails in my hands and feet; be faithful, keep my commandments, and ye shall inherit the kingdom of heaven. Amen. ^dc-6-37
 
 ---
-[[D&C 5|← D&C 5]] · [[D&C 6 - Study Guide|Study guide]] · [[D&C 6 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 7|D&C 7 →]]
+[[D&C 5|← D&C 5]] · [[D&C 6 (Annotated)|Annotated]] · [[D&C 6 - Study Guide|Study guide]] · [[D&C 6 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 7|D&C 7 →]]

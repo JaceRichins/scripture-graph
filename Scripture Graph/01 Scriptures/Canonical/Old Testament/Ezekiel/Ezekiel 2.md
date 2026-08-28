@@ -34,4 +34,4 @@ cssclasses:
 **10** And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe. ^ezek-2-10
 
 ---
-[[Ezekiel 1|← Ezekiel 1]] · [[Ezekiel 2 - Study Guide|Study guide]] · [[Ezekiel 2 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 3|Ezekiel 3 →]]
+[[Ezekiel 1|← Ezekiel 1]] · [[Ezekiel 2 (Annotated)|Annotated]] · [[Ezekiel 2 - Study Guide|Study guide]] · [[Ezekiel 2 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 3|Ezekiel 3 →]]

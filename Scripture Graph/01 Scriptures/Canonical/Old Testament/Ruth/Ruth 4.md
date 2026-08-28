@@ -58,4 +58,4 @@ cssclasses:
 **22** And Obed begat Jesse, and Jesse begat David. ^ruth-4-22
 
 ---
-[[Ruth 3|← Ruth 3]] · [[Ruth 4 - Study Guide|Study guide]] · [[Ruth 4 - My Notes|My notes]] · [[Ruth]]
+[[Ruth 3|← Ruth 3]] · [[Ruth 4 (Annotated)|Annotated]] · [[Ruth 4 - Study Guide|Study guide]] · [[Ruth 4 - My Notes|My notes]] · [[Ruth]]

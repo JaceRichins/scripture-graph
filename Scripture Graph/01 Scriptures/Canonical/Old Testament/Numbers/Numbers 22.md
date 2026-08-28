@@ -96,4 +96,4 @@ cssclasses:
 **41** And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people. ^num-22-41
 
 ---
-[[Numbers 21|← Numbers 21]] · [[Numbers 22 - Study Guide|Study guide]] · [[Numbers 22 - My Notes|My notes]] · [[Numbers]] · [[Numbers 23|Numbers 23 →]]
+[[Numbers 21|← Numbers 21]] · [[Numbers 22 (Annotated)|Annotated]] · [[Numbers 22 - Study Guide|Study guide]] · [[Numbers 22 - My Notes|My notes]] · [[Numbers]] · [[Numbers 23|Numbers 23 →]]

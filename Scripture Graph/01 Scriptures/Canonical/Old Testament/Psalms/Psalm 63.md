@@ -38,4 +38,4 @@ aliases:
 **11** But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped. ^ps-63-11
 
 ---
-[[Psalm 62|← Psalm 62]] · [[Psalm 63 - Study Guide|Study guide]] · [[Psalm 63 - My Notes|My notes]] · [[Psalms]] · [[Psalm 64|Psalm 64 →]]
+[[Psalm 62|← Psalm 62]] · [[Psalm 63 (Annotated)|Annotated]] · [[Psalm 63 - Study Guide|Study guide]] · [[Psalm 63 - My Notes|My notes]] · [[Psalms]] · [[Psalm 64|Psalm 64 →]]

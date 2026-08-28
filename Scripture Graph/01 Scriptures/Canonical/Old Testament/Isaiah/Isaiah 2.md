@@ -58,4 +58,4 @@ cssclasses:
 **22** Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of? ^isa-2-22
 
 ---
-[[Isaiah 1|← Isaiah 1]] · [[Isaiah 2 - Study Guide|Study guide]] · [[Isaiah 2 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 3|Isaiah 3 →]]
+[[Isaiah 1|← Isaiah 1]] · [[Isaiah 2 (Annotated)|Annotated]] · [[Isaiah 2 - Study Guide|Study guide]] · [[Isaiah 2 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 3|Isaiah 3 →]]

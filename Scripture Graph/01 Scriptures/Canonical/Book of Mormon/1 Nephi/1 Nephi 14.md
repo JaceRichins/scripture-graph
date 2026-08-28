@@ -74,4 +74,4 @@ cssclasses:
 **30** And now I make an end of speaking concerning the things which I saw while I was carried away in the Spirit; and if all the things which I saw are not written, the things which I have written are true. And thus it is. Amen. ^1ne-14-30
 
 ---
-[[1 Nephi 13|← 1 Nephi 13]] · [[1 Nephi 14 - Study Guide|Study guide]] · [[1 Nephi 14 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 15|1 Nephi 15 →]]
+[[1 Nephi 13|← 1 Nephi 13]] · [[1 Nephi 14 (Annotated)|Annotated]] · [[1 Nephi 14 - Study Guide|Study guide]] · [[1 Nephi 14 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 15|1 Nephi 15 →]]

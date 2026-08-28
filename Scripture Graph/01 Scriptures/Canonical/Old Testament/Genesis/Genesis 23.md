@@ -54,4 +54,4 @@ cssclasses:
 **20** And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth. ^gen-23-20
 
 ---
-[[Genesis 22|← Genesis 22]] · [[Genesis 23 - Study Guide|Study guide]] · [[Genesis 23 - My Notes|My notes]] · [[Genesis]] · [[Genesis 24|Genesis 24 →]]
+[[Genesis 22|← Genesis 22]] · [[Genesis 23 (Annotated)|Annotated]] · [[Genesis 23 - Study Guide|Study guide]] · [[Genesis 23 - My Notes|My notes]] · [[Genesis]] · [[Genesis 24|Genesis 24 →]]

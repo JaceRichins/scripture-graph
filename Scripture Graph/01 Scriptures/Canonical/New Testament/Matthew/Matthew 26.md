@@ -164,4 +164,4 @@ cssclasses:
 **75** And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly. ^matt-26-75
 
 ---
-[[Matthew 25|← Matthew 25]] · [[Matthew 26 - Study Guide|Study guide]] · [[Matthew 26 - My Notes|My notes]] · [[Matthew]] · [[Matthew 27|Matthew 27 →]]
+[[Matthew 25|← Matthew 25]] · [[Matthew 26 (Annotated)|Annotated]] · [[Matthew 26 - Study Guide|Study guide]] · [[Matthew 26 - My Notes|My notes]] · [[Matthew]] · [[Matthew 27|Matthew 27 →]]

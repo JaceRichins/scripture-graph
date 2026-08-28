@@ -54,4 +54,4 @@ cssclasses:
 **20** And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead. ^2kgs-16-20
 
 ---
-[[2 Kings 15|← 2 Kings 15]] · [[2 Kings 16 - Study Guide|Study guide]] · [[2 Kings 16 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 17|2 Kings 17 →]]
+[[2 Kings 15|← 2 Kings 15]] · [[2 Kings 16 (Annotated)|Annotated]] · [[2 Kings 16 - Study Guide|Study guide]] · [[2 Kings 16 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 17|2 Kings 17 →]]

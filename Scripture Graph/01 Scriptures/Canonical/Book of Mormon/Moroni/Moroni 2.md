@@ -20,4 +20,4 @@ cssclasses:
 **3** Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost. ^moro-2-3
 
 ---
-[[Moroni 1|← Moroni 1]] · [[Moroni 2 - Study Guide|Study guide]] · [[Moroni 2 - My Notes|My notes]] · [[Moroni]] · [[Moroni 3|Moroni 3 →]]
+[[Moroni 1|← Moroni 1]] · [[Moroni 2 (Annotated)|Annotated]] · [[Moroni 2 - Study Guide|Study guide]] · [[Moroni 2 - My Notes|My notes]] · [[Moroni]] · [[Moroni 3|Moroni 3 →]]

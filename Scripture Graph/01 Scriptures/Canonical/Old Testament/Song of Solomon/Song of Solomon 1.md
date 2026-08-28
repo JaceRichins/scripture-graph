@@ -48,4 +48,4 @@ cssclasses:
 **17** The beams of our house are cedar, and our rafters of fir. ^song-1-17
 
 ---
-[[Song of Solomon 1 - Study Guide|Study guide]] · [[Song of Solomon 1 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 2|Song of Solomon 2 →]]
+[[Song of Solomon 1 (Annotated)|Annotated]] · [[Song of Solomon 1 - Study Guide|Study guide]] · [[Song of Solomon 1 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 2|Song of Solomon 2 →]]

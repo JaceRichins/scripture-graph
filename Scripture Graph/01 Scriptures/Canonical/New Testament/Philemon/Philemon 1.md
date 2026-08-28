@@ -64,4 +64,4 @@ cssclasses:
 **25** The grace of our Lord Jesus Christ be with your spirit. Amen. ^philem-1-25
 
 ---
-[[Philemon 1 - Study Guide|Study guide]] · [[Philemon 1 - My Notes|My notes]] · [[Philemon]]
+[[Philemon 1 (Annotated)|Annotated]] · [[Philemon 1 - Study Guide|Study guide]] · [[Philemon 1 - My Notes|My notes]] · [[Philemon]]

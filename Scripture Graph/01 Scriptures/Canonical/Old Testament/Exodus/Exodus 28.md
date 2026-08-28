@@ -100,4 +100,4 @@ cssclasses:
 **43** And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him. ^ex-28-43
 
 ---
-[[Exodus 27|← Exodus 27]] · [[Exodus 28 - Study Guide|Study guide]] · [[Exodus 28 - My Notes|My notes]] · [[Exodus]] · [[Exodus 29|Exodus 29 →]]
+[[Exodus 27|← Exodus 27]] · [[Exodus 28 (Annotated)|Annotated]] · [[Exodus 28 - Study Guide|Study guide]] · [[Exodus 28 - My Notes|My notes]] · [[Exodus]] · [[Exodus 29|Exodus 29 →]]

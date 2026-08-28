@@ -42,4 +42,4 @@ cssclasses:
 **14** Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand? ^job-26-14
 
 ---
-[[Job 25|← Job 25]] · [[Job 26 - Study Guide|Study guide]] · [[Job 26 - My Notes|My notes]] · [[Job]] · [[Job 27|Job 27 →]]
+[[Job 25|← Job 25]] · [[Job 26 (Annotated)|Annotated]] · [[Job 26 - Study Guide|Study guide]] · [[Job 26 - My Notes|My notes]] · [[Job]] · [[Job 27|Job 27 →]]

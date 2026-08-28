@@ -42,4 +42,4 @@ cssclasses:
 **14** For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil. ^eccl-12-14
 
 ---
-[[Ecclesiastes 11|← Ecclesiastes 11]] · [[Ecclesiastes 12 - Study Guide|Study guide]] · [[Ecclesiastes 12 - My Notes|My notes]] · [[Ecclesiastes]]
+[[Ecclesiastes 11|← Ecclesiastes 11]] · [[Ecclesiastes 12 (Annotated)|Annotated]] · [[Ecclesiastes 12 - Study Guide|Study guide]] · [[Ecclesiastes 12 - My Notes|My notes]] · [[Ecclesiastes]]

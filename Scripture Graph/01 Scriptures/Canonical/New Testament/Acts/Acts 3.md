@@ -66,4 +66,4 @@ cssclasses:
 **26** Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities. ^acts-3-26
 
 ---
-[[Acts 2|← Acts 2]] · [[Acts 3 - Study Guide|Study guide]] · [[Acts 3 - My Notes|My notes]] · [[Acts]] · [[Acts 4|Acts 4 →]]
+[[Acts 2|← Acts 2]] · [[Acts 3 (Annotated)|Annotated]] · [[Acts 3 - Study Guide|Study guide]] · [[Acts 3 - My Notes|My notes]] · [[Acts]] · [[Acts 4|Acts 4 →]]

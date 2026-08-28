@@ -68,4 +68,4 @@ cssclasses:
 **27** Then the priests the Levites arose and blessed the people: and their voice was heard, and their prayer came up to his holy dwelling place, even unto heaven. ^2chr-30-27
 
 ---
-[[2 Chronicles 29|← 2 Chronicles 29]] · [[2 Chronicles 30 - Study Guide|Study guide]] · [[2 Chronicles 30 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 31|2 Chronicles 31 →]]
+[[2 Chronicles 29|← 2 Chronicles 29]] · [[2 Chronicles 30 (Annotated)|Annotated]] · [[2 Chronicles 30 - Study Guide|Study guide]] · [[2 Chronicles 30 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 31|2 Chronicles 31 →]]

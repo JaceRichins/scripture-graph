@@ -34,4 +34,4 @@ aliases:
 **9** Save thy people, and bless thine inheritance: feed them also, and lift them up for ever. ^ps-28-9
 
 ---
-[[Psalm 27|← Psalm 27]] · [[Psalm 28 - Study Guide|Study guide]] · [[Psalm 28 - My Notes|My notes]] · [[Psalms]] · [[Psalm 29|Psalm 29 →]]
+[[Psalm 27|← Psalm 27]] · [[Psalm 28 (Annotated)|Annotated]] · [[Psalm 28 - Study Guide|Study guide]] · [[Psalm 28 - My Notes|My notes]] · [[Psalms]] · [[Psalm 29|Psalm 29 →]]

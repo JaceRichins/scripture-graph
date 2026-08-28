@@ -34,4 +34,4 @@ aliases:
 **9** Save, LORD: let the king hear us when we call. ^ps-20-9
 
 ---
-[[Psalm 19|← Psalm 19]] · [[Psalm 20 - Study Guide|Study guide]] · [[Psalm 20 - My Notes|My notes]] · [[Psalms]] · [[Psalm 21|Psalm 21 →]]
+[[Psalm 19|← Psalm 19]] · [[Psalm 20 (Annotated)|Annotated]] · [[Psalm 20 - Study Guide|Study guide]] · [[Psalm 20 - My Notes|My notes]] · [[Psalms]] · [[Psalm 21|Psalm 21 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night. ^1sam-28-25
 
 ---
-[[1 Samuel 27|← 1 Samuel 27]] · [[1 Samuel 28 - Study Guide|Study guide]] · [[1 Samuel 28 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 29|1 Samuel 29 →]]
+[[1 Samuel 27|← 1 Samuel 27]] · [[1 Samuel 28 (Annotated)|Annotated]] · [[1 Samuel 28 - Study Guide|Study guide]] · [[1 Samuel 28 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 29|1 Samuel 29 →]]

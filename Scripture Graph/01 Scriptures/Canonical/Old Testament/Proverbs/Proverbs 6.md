@@ -84,4 +84,4 @@ cssclasses:
 **35** He will not regard any ransom; neither will he rest content, though thou givest many gifts. ^prov-6-35
 
 ---
-[[Proverbs 5|← Proverbs 5]] · [[Proverbs 6 - Study Guide|Study guide]] · [[Proverbs 6 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 7|Proverbs 7 →]]
+[[Proverbs 5|← Proverbs 5]] · [[Proverbs 6 (Annotated)|Annotated]] · [[Proverbs 6 - Study Guide|Study guide]] · [[Proverbs 6 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 7|Proverbs 7 →]]

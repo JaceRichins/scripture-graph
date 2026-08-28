@@ -66,4 +66,4 @@ cssclasses:
 **26** Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing. ^deut-7-26
 
 ---
-[[Deuteronomy 6|← Deuteronomy 6]] · [[Deuteronomy 7 - Study Guide|Study guide]] · [[Deuteronomy 7 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 8|Deuteronomy 8 →]]
+[[Deuteronomy 6|← Deuteronomy 6]] · [[Deuteronomy 7 (Annotated)|Annotated]] · [[Deuteronomy 7 - Study Guide|Study guide]] · [[Deuteronomy 7 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 8|Deuteronomy 8 →]]

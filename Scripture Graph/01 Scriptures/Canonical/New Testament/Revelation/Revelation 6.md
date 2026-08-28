@@ -48,4 +48,4 @@ cssclasses:
 **17** For the great day of his wrath is come; and who shall be able to stand? ^rev-6-17
 
 ---
-[[Revelation 5|← Revelation 5]] · [[Revelation 6 - Study Guide|Study guide]] · [[Revelation 6 - My Notes|My notes]] · [[Revelation]] · [[Revelation 7|Revelation 7 →]]
+[[Revelation 5|← Revelation 5]] · [[Revelation 6 (Annotated)|Annotated]] · [[Revelation 6 - Study Guide|Study guide]] · [[Revelation 6 - My Notes|My notes]] · [[Revelation]] · [[Revelation 7|Revelation 7 →]]

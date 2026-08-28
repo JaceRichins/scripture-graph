@@ -66,4 +66,4 @@ cssclasses:
 **26** Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon. ^ex-20-26
 
 ---
-[[Exodus 19|← Exodus 19]] · [[Exodus 20 - Study Guide|Study guide]] · [[Exodus 20 - My Notes|My notes]] · [[Exodus]] · [[Exodus 21|Exodus 21 →]]
+[[Exodus 19|← Exodus 19]] · [[Exodus 20 (Annotated)|Annotated]] · [[Exodus 20 - Study Guide|Study guide]] · [[Exodus 20 - My Notes|My notes]] · [[Exodus]] · [[Exodus 21|Exodus 21 →]]

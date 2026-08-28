@@ -78,4 +78,4 @@ cssclasses:
 **32** These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood. ^gen-10-32
 
 ---
-[[Genesis 9|← Genesis 9]] · [[Genesis 10 - Study Guide|Study guide]] · [[Genesis 10 - My Notes|My notes]] · [[Genesis]] · [[Genesis 11|Genesis 11 →]]
+[[Genesis 9|← Genesis 9]] · [[Genesis 10 (Annotated)|Annotated]] · [[Genesis 10 - Study Guide|Study guide]] · [[Genesis 10 - My Notes|My notes]] · [[Genesis]] · [[Genesis 11|Genesis 11 →]]

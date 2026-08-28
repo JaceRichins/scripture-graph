@@ -64,4 +64,4 @@ cssclasses:
 **25** The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD. ^isa-65-25
 
 ---
-[[Isaiah 64|← Isaiah 64]] · [[Isaiah 65 - Study Guide|Study guide]] · [[Isaiah 65 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 66|Isaiah 66 →]]
+[[Isaiah 64|← Isaiah 64]] · [[Isaiah 65 (Annotated)|Annotated]] · [[Isaiah 65 - Study Guide|Study guide]] · [[Isaiah 65 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 66|Isaiah 66 →]]

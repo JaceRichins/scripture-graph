@@ -72,4 +72,4 @@ cssclasses:
 **29** These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan. ^num-34-29
 
 ---
-[[Numbers 33|← Numbers 33]] · [[Numbers 34 - Study Guide|Study guide]] · [[Numbers 34 - My Notes|My notes]] · [[Numbers]] · [[Numbers 35|Numbers 35 →]]
+[[Numbers 33|← Numbers 33]] · [[Numbers 34 (Annotated)|Annotated]] · [[Numbers 34 - Study Guide|Study guide]] · [[Numbers 34 - My Notes|My notes]] · [[Numbers]] · [[Numbers 35|Numbers 35 →]]

@@ -138,4 +138,4 @@ cssclasses:
 **62** And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God. ^luke-9-62
 
 ---
-[[Luke 8|← Luke 8]] · [[Luke 9 - Study Guide|Study guide]] · [[Luke 9 - My Notes|My notes]] · [[Luke]] · [[Luke 10|Luke 10 →]]
+[[Luke 8|← Luke 8]] · [[Luke 9 (Annotated)|Annotated]] · [[Luke 9 - Study Guide|Study guide]] · [[Luke 9 - My Notes|My notes]] · [[Luke]] · [[Luke 10|Luke 10 →]]

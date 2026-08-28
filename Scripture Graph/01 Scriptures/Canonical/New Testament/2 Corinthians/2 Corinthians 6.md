@@ -50,4 +50,4 @@ cssclasses:
 **18** And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. ^2cor-6-18
 
 ---
-[[2 Corinthians 5|← 2 Corinthians 5]] · [[2 Corinthians 6 - Study Guide|Study guide]] · [[2 Corinthians 6 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 7|2 Corinthians 7 →]]
+[[2 Corinthians 5|← 2 Corinthians 5]] · [[2 Corinthians 6 (Annotated)|Annotated]] · [[2 Corinthians 6 - Study Guide|Study guide]] · [[2 Corinthians 6 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 7|2 Corinthians 7 →]]

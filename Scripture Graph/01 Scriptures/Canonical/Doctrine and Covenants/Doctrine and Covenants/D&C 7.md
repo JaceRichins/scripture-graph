@@ -32,4 +32,4 @@ aliases:
 **8** Verily I say unto you, ye shall both have according to your desires, for ye both joy in that which ye have desired. ^dc-7-8
 
 ---
-[[D&C 6|← D&C 6]] · [[D&C 7 - Study Guide|Study guide]] · [[D&C 7 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 8|D&C 8 →]]
+[[D&C 6|← D&C 6]] · [[D&C 7 (Annotated)|Annotated]] · [[D&C 7 - Study Guide|Study guide]] · [[D&C 7 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 8|D&C 8 →]]

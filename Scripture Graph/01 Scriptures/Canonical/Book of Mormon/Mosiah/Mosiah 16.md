@@ -44,4 +44,4 @@ cssclasses:
 **15** Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father. Amen. ^mosiah-16-15
 
 ---
-[[Mosiah 15|← Mosiah 15]] · [[Mosiah 16 - Study Guide|Study guide]] · [[Mosiah 16 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 17|Mosiah 17 →]]
+[[Mosiah 15|← Mosiah 15]] · [[Mosiah 16 (Annotated)|Annotated]] · [[Mosiah 16 - Study Guide|Study guide]] · [[Mosiah 16 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 17|Mosiah 17 →]]

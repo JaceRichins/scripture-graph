@@ -62,4 +62,4 @@ cssclasses:
 **24** And if it so be that they rebel against me, they shall be a scourge unto thy seed, to stir them up in the ways of remembrance. ^1ne-2-24
 
 ---
-[[1 Nephi 1|← 1 Nephi 1]] · [[1 Nephi 2 - Study Guide|Study guide]] · [[1 Nephi 2 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 3|1 Nephi 3 →]]
+[[1 Nephi 1|← 1 Nephi 1]] · [[1 Nephi 2 (Annotated)|Annotated]] · [[1 Nephi 2 - Study Guide|Study guide]] · [[1 Nephi 2 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 3|1 Nephi 3 →]]

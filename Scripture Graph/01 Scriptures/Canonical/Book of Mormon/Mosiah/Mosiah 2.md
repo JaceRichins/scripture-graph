@@ -96,4 +96,4 @@ cssclasses:
 **41** And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it. ^mosiah-2-41
 
 ---
-[[Mosiah 1|← Mosiah 1]] · [[Mosiah 2 - Study Guide|Study guide]] · [[Mosiah 2 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 3|Mosiah 3 →]]
+[[Mosiah 1|← Mosiah 1]] · [[Mosiah 2 (Annotated)|Annotated]] · [[Mosiah 2 - Study Guide|Study guide]] · [[Mosiah 2 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 3|Mosiah 3 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** This also cometh forth from the LORD of hosts, which is wonderful in counsel, and excellent in working. ^isa-28-29
 
 ---
-[[Isaiah 27|← Isaiah 27]] · [[Isaiah 28 - Study Guide|Study guide]] · [[Isaiah 28 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 29|Isaiah 29 →]]
+[[Isaiah 27|← Isaiah 27]] · [[Isaiah 28 (Annotated)|Annotated]] · [[Isaiah 28 - Study Guide|Study guide]] · [[Isaiah 28 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 29|Isaiah 29 →]]

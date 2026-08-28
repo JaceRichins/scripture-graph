@@ -40,4 +40,4 @@ cssclasses:
 **13** And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the LORD in the holy mount at Jerusalem. ^isa-27-13
 
 ---
-[[Isaiah 26|← Isaiah 26]] · [[Isaiah 27 - Study Guide|Study guide]] · [[Isaiah 27 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 28|Isaiah 28 →]]
+[[Isaiah 26|← Isaiah 26]] · [[Isaiah 27 (Annotated)|Annotated]] · [[Isaiah 27 - Study Guide|Study guide]] · [[Isaiah 27 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 28|Isaiah 28 →]]

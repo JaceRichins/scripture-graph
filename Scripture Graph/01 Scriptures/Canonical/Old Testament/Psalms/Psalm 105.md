@@ -106,4 +106,4 @@ aliases:
 **45** That they might observe his statutes, and keep his laws. Praise ye the LORD. ^ps-105-45
 
 ---
-[[Psalm 104|← Psalm 104]] · [[Psalm 105 - Study Guide|Study guide]] · [[Psalm 105 - My Notes|My notes]] · [[Psalms]] · [[Psalm 106|Psalm 106 →]]
+[[Psalm 104|← Psalm 104]] · [[Psalm 105 (Annotated)|Annotated]] · [[Psalm 105 - Study Guide|Study guide]] · [[Psalm 105 - My Notes|My notes]] · [[Psalms]] · [[Psalm 106|Psalm 106 →]]

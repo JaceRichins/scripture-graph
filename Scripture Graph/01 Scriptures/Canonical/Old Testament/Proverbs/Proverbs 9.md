@@ -50,4 +50,4 @@ cssclasses:
 **18** But he knoweth not that the dead are there; and that her guests are in the depths of hell. ^prov-9-18
 
 ---
-[[Proverbs 8|← Proverbs 8]] · [[Proverbs 9 - Study Guide|Study guide]] · [[Proverbs 9 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 10|Proverbs 10 →]]
+[[Proverbs 8|← Proverbs 8]] · [[Proverbs 9 (Annotated)|Annotated]] · [[Proverbs 9 - Study Guide|Study guide]] · [[Proverbs 9 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 10|Proverbs 10 →]]

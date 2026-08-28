@@ -76,4 +76,4 @@ cssclasses:
 **31** And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel. ^judg-3-31
 
 ---
-[[Judges 2|← Judges 2]] · [[Judges 3 - Study Guide|Study guide]] · [[Judges 3 - My Notes|My notes]] · [[Judges]] · [[Judges 4|Judges 4 →]]
+[[Judges 2|← Judges 2]] · [[Judges 3 (Annotated)|Annotated]] · [[Judges 3 - Study Guide|Study guide]] · [[Judges 3 - My Notes|My notes]] · [[Judges]] · [[Judges 4|Judges 4 →]]

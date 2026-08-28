@@ -60,4 +60,4 @@ cssclasses:
 **23** And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives. ^2chr-11-23
 
 ---
-[[2 Chronicles 10|← 2 Chronicles 10]] · [[2 Chronicles 11 - Study Guide|Study guide]] · [[2 Chronicles 11 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 12|2 Chronicles 12 →]]
+[[2 Chronicles 10|← 2 Chronicles 10]] · [[2 Chronicles 11 (Annotated)|Annotated]] · [[2 Chronicles 11 - Study Guide|Study guide]] · [[2 Chronicles 11 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 12|2 Chronicles 12 →]]

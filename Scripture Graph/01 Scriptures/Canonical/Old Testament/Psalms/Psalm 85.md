@@ -42,4 +42,4 @@ aliases:
 **13** Righteousness shall go before him; and shall set us in the way of his steps. ^ps-85-13
 
 ---
-[[Psalm 84|← Psalm 84]] · [[Psalm 85 - Study Guide|Study guide]] · [[Psalm 85 - My Notes|My notes]] · [[Psalms]] · [[Psalm 86|Psalm 86 →]]
+[[Psalm 84|← Psalm 84]] · [[Psalm 85 (Annotated)|Annotated]] · [[Psalm 85 - Study Guide|Study guide]] · [[Psalm 85 - My Notes|My notes]] · [[Psalms]] · [[Psalm 86|Psalm 86 →]]

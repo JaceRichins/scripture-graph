@@ -56,4 +56,4 @@ cssclasses:
 **21** And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD's. ^obad-1-21
 
 ---
-[[Obadiah 1 - Study Guide|Study guide]] · [[Obadiah 1 - My Notes|My notes]] · [[Obadiah]]
+[[Obadiah 1 (Annotated)|Annotated]] · [[Obadiah 1 - Study Guide|Study guide]] · [[Obadiah 1 - My Notes|My notes]] · [[Obadiah]]

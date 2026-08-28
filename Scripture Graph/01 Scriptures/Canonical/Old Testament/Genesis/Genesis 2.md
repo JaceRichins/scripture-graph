@@ -64,4 +64,4 @@ cssclasses:
 **25** And they were both naked, the man and his wife, and were not ashamed. ^gen-2-25
 
 ---
-[[Genesis 1|← Genesis 1]] · [[Genesis 2 - Study Guide|Study guide]] · [[Genesis 2 - My Notes|My notes]] · [[Genesis]] · [[Genesis 3|Genesis 3 →]]
+[[Genesis 1|← Genesis 1]] · [[Genesis 2 (Annotated)|Annotated]] · [[Genesis 2 - Study Guide|Study guide]] · [[Genesis 2 - My Notes|My notes]] · [[Genesis]] · [[Genesis 3|Genesis 3 →]]

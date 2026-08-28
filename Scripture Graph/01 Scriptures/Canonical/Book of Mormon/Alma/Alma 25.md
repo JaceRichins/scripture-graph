@@ -48,4 +48,4 @@ cssclasses:
 **17** And now behold, Ammon, and Aaron, and Omner, and Himni, and their brethren did rejoice exceedingly, for the success which they had had among the Lamanites, seeing that the Lord had granted unto them according to their prayers, and that he had also verified his word unto them in every particular. ^alma-25-17
 
 ---
-[[Alma 24|← Alma 24]] · [[Alma 25 - Study Guide|Study guide]] · [[Alma 25 - My Notes|My notes]] · [[Alma]] · [[Alma 26|Alma 26 →]]
+[[Alma 24|← Alma 24]] · [[Alma 25 (Annotated)|Annotated]] · [[Alma 25 - Study Guide|Study guide]] · [[Alma 25 - My Notes|My notes]] · [[Alma]] · [[Alma 26|Alma 26 →]]

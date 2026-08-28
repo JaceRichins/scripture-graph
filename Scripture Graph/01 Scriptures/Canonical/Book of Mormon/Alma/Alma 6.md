@@ -30,4 +30,4 @@ cssclasses:
 **8** And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called. And thus it is written. Amen. ^alma-6-8
 
 ---
-[[Alma 5|← Alma 5]] · [[Alma 6 - Study Guide|Study guide]] · [[Alma 6 - My Notes|My notes]] · [[Alma]] · [[Alma 7|Alma 7 →]]
+[[Alma 5|← Alma 5]] · [[Alma 6 (Annotated)|Annotated]] · [[Alma 6 - Study Guide|Study guide]] · [[Alma 6 - My Notes|My notes]] · [[Alma]] · [[Alma 7|Alma 7 →]]

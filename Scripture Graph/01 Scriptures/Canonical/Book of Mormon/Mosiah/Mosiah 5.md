@@ -44,4 +44,4 @@ cssclasses:
 **15** Therefore, I would that ye should be steadfast and immovable, always abounding in good works, that Christ, the Lord God Omnipotent, may seal you his, that you may be brought to heaven, that ye may have everlasting salvation and eternal life, through the wisdom, and power, and justice, and mercy of him who created all things, in heaven and in earth, who is God above all. Amen. ^mosiah-5-15
 
 ---
-[[Mosiah 4|← Mosiah 4]] · [[Mosiah 5 - Study Guide|Study guide]] · [[Mosiah 5 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 6|Mosiah 6 →]]
+[[Mosiah 4|← Mosiah 4]] · [[Mosiah 5 (Annotated)|Annotated]] · [[Mosiah 5 - Study Guide|Study guide]] · [[Mosiah 5 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 6|Mosiah 6 →]]

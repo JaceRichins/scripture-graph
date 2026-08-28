@@ -40,4 +40,4 @@ cssclasses:
 **13** Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend. ^1cor-8-13
 
 ---
-[[1 Corinthians 7|← 1 Corinthians 7]] · [[1 Corinthians 8 - Study Guide|Study guide]] · [[1 Corinthians 8 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 9|1 Corinthians 9 →]]
+[[1 Corinthians 7|← 1 Corinthians 7]] · [[1 Corinthians 8 (Annotated)|Annotated]] · [[1 Corinthians 8 - Study Guide|Study guide]] · [[1 Corinthians 8 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 9|1 Corinthians 9 →]]

@@ -116,4 +116,4 @@ cssclasses:
 **51** So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD. ^1kgs-7-51
 
 ---
-[[1 Kings 6|← 1 Kings 6]] · [[1 Kings 7 - Study Guide|Study guide]] · [[1 Kings 7 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 8|1 Kings 8 →]]
+[[1 Kings 6|← 1 Kings 6]] · [[1 Kings 7 (Annotated)|Annotated]] · [[1 Kings 7 - Study Guide|Study guide]] · [[1 Kings 7 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 8|1 Kings 8 →]]

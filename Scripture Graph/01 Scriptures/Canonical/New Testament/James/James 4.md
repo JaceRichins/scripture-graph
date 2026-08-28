@@ -48,4 +48,4 @@ cssclasses:
 **17** Therefore to him that knoweth to do good, and doeth it not, to him it is sin. ^james-4-17
 
 ---
-[[James 3|← James 3]] · [[James 4 - Study Guide|Study guide]] · [[James 4 - My Notes|My notes]] · [[James]] · [[James 5|James 5 →]]
+[[James 3|← James 3]] · [[James 4 (Annotated)|Annotated]] · [[James 4 - Study Guide|Study guide]] · [[James 4 - My Notes|My notes]] · [[James]] · [[James 5|James 5 →]]

@@ -66,4 +66,4 @@ cssclasses:
 **26** And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen. ^moro-9-26
 
 ---
-[[Moroni 8|← Moroni 8]] · [[Moroni 9 - Study Guide|Study guide]] · [[Moroni 9 - My Notes|My notes]] · [[Moroni]] · [[Moroni 10|Moroni 10 →]]
+[[Moroni 8|← Moroni 8]] · [[Moroni 9 (Annotated)|Annotated]] · [[Moroni 9 - Study Guide|Study guide]] · [[Moroni 9 - My Notes|My notes]] · [[Moroni]] · [[Moroni 10|Moroni 10 →]]

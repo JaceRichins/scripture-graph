@@ -84,4 +84,4 @@ cssclasses:
 **35** And the LORD plagued the people, because they made the calf, which Aaron made. ^ex-32-35
 
 ---
-[[Exodus 31|← Exodus 31]] · [[Exodus 32 - Study Guide|Study guide]] · [[Exodus 32 - My Notes|My notes]] · [[Exodus]] · [[Exodus 33|Exodus 33 →]]
+[[Exodus 31|← Exodus 31]] · [[Exodus 32 (Annotated)|Annotated]] · [[Exodus 32 - Study Guide|Study guide]] · [[Exodus 32 - My Notes|My notes]] · [[Exodus]] · [[Exodus 33|Exodus 33 →]]

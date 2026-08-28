@@ -86,4 +86,4 @@ aliases:
 **35** And if thou art faithful in keeping my commandments, thou shalt be lifted up at the last day. Amen. ^dc-5-35
 
 ---
-[[D&C 4|← D&C 4]] · [[D&C 5 - Study Guide|Study guide]] · [[D&C 5 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 6|D&C 6 →]]
+[[D&C 4|← D&C 4]] · [[D&C 5 (Annotated)|Annotated]] · [[D&C 5 - Study Guide|Study guide]] · [[D&C 5 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 6|D&C 6 →]]

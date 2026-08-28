@@ -58,4 +58,4 @@ cssclasses:
 **22** For I know not to give flattering titles; in so doing my maker would soon take me away. ^job-32-22
 
 ---
-[[Job 31|← Job 31]] · [[Job 32 - Study Guide|Study guide]] · [[Job 32 - My Notes|My notes]] · [[Job]] · [[Job 33|Job 33 →]]
+[[Job 31|← Job 31]] · [[Job 32 (Annotated)|Annotated]] · [[Job 32 - Study Guide|Study guide]] · [[Job 32 - My Notes|My notes]] · [[Job]] · [[Job 33|Job 33 →]]

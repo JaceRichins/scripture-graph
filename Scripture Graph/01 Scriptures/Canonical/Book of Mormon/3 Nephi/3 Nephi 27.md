@@ -80,4 +80,4 @@ cssclasses:
 **33** And it came to pass that when Jesus had ended these sayings he said unto his disciples: Enter ye in at the strait gate; for strait is the gate, and narrow is the way that leads to life, and few there be that find it; but wide is the gate, and broad the way which leads to death, and many there be that travel therein, until the night cometh, wherein no man can work. ^3ne-27-33
 
 ---
-[[3 Nephi 26|← 3 Nephi 26]] · [[3 Nephi 27 - Study Guide|Study guide]] · [[3 Nephi 27 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 28|3 Nephi 28 →]]
+[[3 Nephi 26|← 3 Nephi 26]] · [[3 Nephi 27 (Annotated)|Annotated]] · [[3 Nephi 27 - Study Guide|Study guide]] · [[3 Nephi 27 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 28|3 Nephi 28 →]]

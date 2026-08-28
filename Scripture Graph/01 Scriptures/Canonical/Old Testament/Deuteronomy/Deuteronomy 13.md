@@ -50,4 +50,4 @@ cssclasses:
 **18** When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of the LORD thy God. ^deut-13-18
 
 ---
-[[Deuteronomy 12|← Deuteronomy 12]] · [[Deuteronomy 13 - Study Guide|Study guide]] · [[Deuteronomy 13 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 14|Deuteronomy 14 →]]
+[[Deuteronomy 12|← Deuteronomy 12]] · [[Deuteronomy 13 (Annotated)|Annotated]] · [[Deuteronomy 13 - Study Guide|Study guide]] · [[Deuteronomy 13 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 14|Deuteronomy 14 →]]

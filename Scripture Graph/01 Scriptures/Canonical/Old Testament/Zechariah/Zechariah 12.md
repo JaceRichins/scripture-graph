@@ -42,4 +42,4 @@ cssclasses:
 **14** All the families that remain, every family apart, and their wives apart. ^zech-12-14
 
 ---
-[[Zechariah 11|← Zechariah 11]] · [[Zechariah 12 - Study Guide|Study guide]] · [[Zechariah 12 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 13|Zechariah 13 →]]
+[[Zechariah 11|← Zechariah 11]] · [[Zechariah 12 (Annotated)|Annotated]] · [[Zechariah 12 - Study Guide|Study guide]] · [[Zechariah 12 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 13|Zechariah 13 →]]

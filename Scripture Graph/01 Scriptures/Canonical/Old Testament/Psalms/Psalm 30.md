@@ -40,4 +40,4 @@ aliases:
 **12** To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever. ^ps-30-12
 
 ---
-[[Psalm 29|← Psalm 29]] · [[Psalm 30 - Study Guide|Study guide]] · [[Psalm 30 - My Notes|My notes]] · [[Psalms]] · [[Psalm 31|Psalm 31 →]]
+[[Psalm 29|← Psalm 29]] · [[Psalm 30 (Annotated)|Annotated]] · [[Psalm 30 - Study Guide|Study guide]] · [[Psalm 30 - My Notes|My notes]] · [[Psalms]] · [[Psalm 31|Psalm 31 →]]

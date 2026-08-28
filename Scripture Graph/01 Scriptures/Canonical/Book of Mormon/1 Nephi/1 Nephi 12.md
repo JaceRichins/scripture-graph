@@ -60,4 +60,4 @@ cssclasses:
 **23** And it came to pass that I beheld, after they had dwindled in unbelief they became a dark, and loathsome, and a filthy people, full of idleness and all manner of abominations. ^1ne-12-23
 
 ---
-[[1 Nephi 11|← 1 Nephi 11]] · [[1 Nephi 12 - Study Guide|Study guide]] · [[1 Nephi 12 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 13|1 Nephi 13 →]]
+[[1 Nephi 11|← 1 Nephi 11]] · [[1 Nephi 12 (Annotated)|Annotated]] · [[1 Nephi 12 - Study Guide|Study guide]] · [[1 Nephi 12 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 13|1 Nephi 13 →]]

@@ -40,4 +40,4 @@ cssclasses:
 **13** But them that are without God judgeth. Therefore put away from among yourselves that wicked person. ^1cor-5-13
 
 ---
-[[1 Corinthians 4|← 1 Corinthians 4]] · [[1 Corinthians 5 - Study Guide|Study guide]] · [[1 Corinthians 5 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 6|1 Corinthians 6 →]]
+[[1 Corinthians 4|← 1 Corinthians 4]] · [[1 Corinthians 5 (Annotated)|Annotated]] · [[1 Corinthians 5 - Study Guide|Study guide]] · [[1 Corinthians 5 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 6|1 Corinthians 6 →]]

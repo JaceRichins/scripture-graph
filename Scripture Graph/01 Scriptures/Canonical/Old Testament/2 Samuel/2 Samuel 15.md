@@ -88,4 +88,4 @@ cssclasses:
 **37** So Hushai David's friend came into the city, and Absalom came into Jerusalem. ^2sam-15-37
 
 ---
-[[2 Samuel 14|← 2 Samuel 14]] · [[2 Samuel 15 - Study Guide|Study guide]] · [[2 Samuel 15 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 16|2 Samuel 16 →]]
+[[2 Samuel 14|← 2 Samuel 14]] · [[2 Samuel 15 (Annotated)|Annotated]] · [[2 Samuel 15 - Study Guide|Study guide]] · [[2 Samuel 15 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 16|2 Samuel 16 →]]

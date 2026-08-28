@@ -72,4 +72,4 @@ cssclasses:
 **29** Now the eyes of the people were blinded; therefore they hardened their hearts against the words of Abinadi, and they sought from that time forward to take him. And king Noah hardened his heart against the word of the Lord, and he did not repent of his evil doings. ^mosiah-11-29
 
 ---
-[[Mosiah 10|← Mosiah 10]] · [[Mosiah 11 - Study Guide|Study guide]] · [[Mosiah 11 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 12|Mosiah 12 →]]
+[[Mosiah 10|← Mosiah 10]] · [[Mosiah 11 (Annotated)|Annotated]] · [[Mosiah 11 - Study Guide|Study guide]] · [[Mosiah 11 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 12|Mosiah 12 →]]

@@ -58,4 +58,4 @@ cssclasses:
 **22** Hezekiah also had said, What is the sign that I shall go up to the house of the LORD? ^isa-38-22
 
 ---
-[[Isaiah 37|← Isaiah 37]] · [[Isaiah 38 - Study Guide|Study guide]] · [[Isaiah 38 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 39|Isaiah 39 →]]
+[[Isaiah 37|← Isaiah 37]] · [[Isaiah 38 (Annotated)|Annotated]] · [[Isaiah 38 - Study Guide|Study guide]] · [[Isaiah 38 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 39|Isaiah 39 →]]

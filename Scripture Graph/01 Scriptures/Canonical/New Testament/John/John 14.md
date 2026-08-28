@@ -76,4 +76,4 @@ cssclasses:
 **31** But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence. ^john-14-31
 
 ---
-[[John 13|← John 13]] · [[John 14 - Study Guide|Study guide]] · [[John 14 - My Notes|My notes]] · [[John]] · [[John 15|John 15 →]]
+[[John 13|← John 13]] · [[John 14 (Annotated)|Annotated]] · [[John 14 - Study Guide|Study guide]] · [[John 14 - My Notes|My notes]] · [[John]] · [[John 15|John 15 →]]

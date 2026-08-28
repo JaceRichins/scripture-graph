@@ -72,4 +72,4 @@ cssclasses:
 **29** Lo, this only have I found, that God hath made man upright; but they have sought out many inventions. ^eccl-7-29
 
 ---
-[[Ecclesiastes 6|← Ecclesiastes 6]] · [[Ecclesiastes 7 - Study Guide|Study guide]] · [[Ecclesiastes 7 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 8|Ecclesiastes 8 →]]
+[[Ecclesiastes 6|← Ecclesiastes 6]] · [[Ecclesiastes 7 (Annotated)|Annotated]] · [[Ecclesiastes 7 - Study Guide|Study guide]] · [[Ecclesiastes 7 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 8|Ecclesiastes 8 →]]

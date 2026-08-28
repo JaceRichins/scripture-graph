@@ -40,4 +40,4 @@ cssclasses:
 **13** He shall break also the images of Beth-shemesh, that is in the land of Egypt; and the houses of the gods of the Egyptians shall he burn with fire. ^jer-43-13
 
 ---
-[[Jeremiah 42|← Jeremiah 42]] · [[Jeremiah 43 - Study Guide|Study guide]] · [[Jeremiah 43 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 44|Jeremiah 44 →]]
+[[Jeremiah 42|← Jeremiah 42]] · [[Jeremiah 43 (Annotated)|Annotated]] · [[Jeremiah 43 - Study Guide|Study guide]] · [[Jeremiah 43 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 44|Jeremiah 44 →]]

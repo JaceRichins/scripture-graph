@@ -70,4 +70,4 @@ cssclasses:
 **28** And behold, they both belong to your secret band, whose author is Gadianton and the evil one who seeketh to destroy the souls of men. ^hel-8-28
 
 ---
-[[Helaman 7|← Helaman 7]] · [[Helaman 8 - Study Guide|Study guide]] · [[Helaman 8 - My Notes|My notes]] · [[Helaman]] · [[Helaman 9|Helaman 9 →]]
+[[Helaman 7|← Helaman 7]] · [[Helaman 8 (Annotated)|Annotated]] · [[Helaman 8 - Study Guide|Study guide]] · [[Helaman 8 - My Notes|My notes]] · [[Helaman]] · [[Helaman 9|Helaman 9 →]]

@@ -144,4 +144,4 @@ cssclasses:
 **65** For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun. ^num-26-65
 
 ---
-[[Numbers 25|← Numbers 25]] · [[Numbers 26 - Study Guide|Study guide]] · [[Numbers 26 - My Notes|My notes]] · [[Numbers]] · [[Numbers 27|Numbers 27 →]]
+[[Numbers 25|← Numbers 25]] · [[Numbers 26 (Annotated)|Annotated]] · [[Numbers 26 - Study Guide|Study guide]] · [[Numbers 26 - My Notes|My notes]] · [[Numbers]] · [[Numbers 27|Numbers 27 →]]

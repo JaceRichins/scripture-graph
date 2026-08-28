@@ -42,4 +42,4 @@ aliases:
 **13** Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence. ^ps-140-13
 
 ---
-[[Psalm 139|← Psalm 139]] · [[Psalm 140 - Study Guide|Study guide]] · [[Psalm 140 - My Notes|My notes]] · [[Psalms]] · [[Psalm 141|Psalm 141 →]]
+[[Psalm 139|← Psalm 139]] · [[Psalm 140 (Annotated)|Annotated]] · [[Psalm 140 - Study Guide|Study guide]] · [[Psalm 140 - My Notes|My notes]] · [[Psalms]] · [[Psalm 141|Psalm 141 →]]

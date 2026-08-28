@@ -76,4 +76,4 @@ cssclasses:
 **31** The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. ^ezek-44-31
 
 ---
-[[Ezekiel 43|← Ezekiel 43]] · [[Ezekiel 44 - Study Guide|Study guide]] · [[Ezekiel 44 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 45|Ezekiel 45 →]]
+[[Ezekiel 43|← Ezekiel 43]] · [[Ezekiel 44 (Annotated)|Annotated]] · [[Ezekiel 44 - Study Guide|Study guide]] · [[Ezekiel 44 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 45|Ezekiel 45 →]]

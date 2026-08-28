@@ -68,4 +68,4 @@ cssclasses:
 **27** And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him. ^gen-17-27
 
 ---
-[[Genesis 16|← Genesis 16]] · [[Genesis 17 - Study Guide|Study guide]] · [[Genesis 17 - My Notes|My notes]] · [[Genesis]] · [[Genesis 18|Genesis 18 →]]
+[[Genesis 16|← Genesis 16]] · [[Genesis 17 (Annotated)|Annotated]] · [[Genesis 17 - Study Guide|Study guide]] · [[Genesis 17 - My Notes|My notes]] · [[Genesis]] · [[Genesis 18|Genesis 18 →]]

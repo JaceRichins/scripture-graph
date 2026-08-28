@@ -94,4 +94,4 @@ cssclasses:
 **40** Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel. ^1chr-12-40
 
 ---
-[[1 Chronicles 11|← 1 Chronicles 11]] · [[1 Chronicles 12 - Study Guide|Study guide]] · [[1 Chronicles 12 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 13|1 Chronicles 13 →]]
+[[1 Chronicles 11|← 1 Chronicles 11]] · [[1 Chronicles 12 (Annotated)|Annotated]] · [[1 Chronicles 12 - Study Guide|Study guide]] · [[1 Chronicles 12 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 13|1 Chronicles 13 →]]

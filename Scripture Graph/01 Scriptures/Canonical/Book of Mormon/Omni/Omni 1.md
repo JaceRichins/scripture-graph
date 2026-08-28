@@ -74,4 +74,4 @@ cssclasses:
 **30** And I, Amaleki, had a brother, who also went with them; and I have not since known concerning them. And I am about to lie down in my grave; and these plates are full. And I make an end of my speaking. ^omni-1-30
 
 ---
-[[Omni 1 - Study Guide|Study guide]] · [[Omni 1 - My Notes|My notes]] · [[Omni]]
+[[Omni 1 (Annotated)|Annotated]] · [[Omni 1 - Study Guide|Study guide]] · [[Omni 1 - My Notes|My notes]] · [[Omni]]

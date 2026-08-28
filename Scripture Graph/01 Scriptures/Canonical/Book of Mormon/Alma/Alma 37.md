@@ -108,4 +108,4 @@ cssclasses:
 **47** And now, my son, see that ye take care of these sacred things, yea, see that ye look to God and live. Go unto this people and declare the word, and be sober. My son, farewell. ^alma-37-47
 
 ---
-[[Alma 36|← Alma 36]] · [[Alma 37 - Study Guide|Study guide]] · [[Alma 37 - My Notes|My notes]] · [[Alma]] · [[Alma 38|Alma 38 →]]
+[[Alma 36|← Alma 36]] · [[Alma 37 (Annotated)|Annotated]] · [[Alma 37 - Study Guide|Study guide]] · [[Alma 37 - My Notes|My notes]] · [[Alma]] · [[Alma 38|Alma 38 →]]

@@ -52,4 +52,4 @@ cssclasses:
 **19** The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices. ^hosea-4-19
 
 ---
-[[Hosea 3|← Hosea 3]] · [[Hosea 4 - Study Guide|Study guide]] · [[Hosea 4 - My Notes|My notes]] · [[Hosea]] · [[Hosea 5|Hosea 5 →]]
+[[Hosea 3|← Hosea 3]] · [[Hosea 4 (Annotated)|Annotated]] · [[Hosea 4 - Study Guide|Study guide]] · [[Hosea 4 - My Notes|My notes]] · [[Hosea]] · [[Hosea 5|Hosea 5 →]]

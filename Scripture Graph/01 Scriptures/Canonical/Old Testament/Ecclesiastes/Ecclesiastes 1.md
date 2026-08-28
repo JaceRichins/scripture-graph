@@ -50,4 +50,4 @@ cssclasses:
 **18** For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow. ^eccl-1-18
 
 ---
-[[Ecclesiastes 1 - Study Guide|Study guide]] · [[Ecclesiastes 1 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 2|Ecclesiastes 2 →]]
+[[Ecclesiastes 1 (Annotated)|Annotated]] · [[Ecclesiastes 1 - Study Guide|Study guide]] · [[Ecclesiastes 1 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 2|Ecclesiastes 2 →]]

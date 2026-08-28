@@ -48,4 +48,4 @@ cssclasses:
 **17** Shall they therefore empty their net, and not spare continually to slay the nations? ^hab-1-17
 
 ---
-[[Habakkuk 1 - Study Guide|Study guide]] · [[Habakkuk 1 - My Notes|My notes]] · [[Habakkuk]] · [[Habakkuk 2|Habakkuk 2 →]]
+[[Habakkuk 1 (Annotated)|Annotated]] · [[Habakkuk 1 - Study Guide|Study guide]] · [[Habakkuk 1 - My Notes|My notes]] · [[Habakkuk]] · [[Habakkuk 2|Habakkuk 2 →]]

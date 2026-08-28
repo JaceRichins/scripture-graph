@@ -56,4 +56,4 @@ cssclasses:
 **21** And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be. ^job-7-21
 
 ---
-[[Job 6|← Job 6]] · [[Job 7 - Study Guide|Study guide]] · [[Job 7 - My Notes|My notes]] · [[Job]] · [[Job 8|Job 8 →]]
+[[Job 6|← Job 6]] · [[Job 7 (Annotated)|Annotated]] · [[Job 7 - Study Guide|Study guide]] · [[Job 7 - My Notes|My notes]] · [[Job]] · [[Job 8|Job 8 →]]

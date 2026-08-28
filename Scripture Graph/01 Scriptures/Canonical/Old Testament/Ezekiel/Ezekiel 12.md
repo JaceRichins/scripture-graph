@@ -70,4 +70,4 @@ cssclasses:
 **28** Therefore say unto them, Thus saith the Lord GOD; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD. ^ezek-12-28
 
 ---
-[[Ezekiel 11|← Ezekiel 11]] · [[Ezekiel 12 - Study Guide|Study guide]] · [[Ezekiel 12 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 13|Ezekiel 13 →]]
+[[Ezekiel 11|← Ezekiel 11]] · [[Ezekiel 12 (Annotated)|Annotated]] · [[Ezekiel 12 - Study Guide|Study guide]] · [[Ezekiel 12 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 13|Ezekiel 13 →]]

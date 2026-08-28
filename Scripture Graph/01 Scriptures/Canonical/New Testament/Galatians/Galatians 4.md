@@ -76,4 +76,4 @@ cssclasses:
 **31** So then, brethren, we are not children of the bondwoman, but of the free. ^gal-4-31
 
 ---
-[[Galatians 3|← Galatians 3]] · [[Galatians 4 - Study Guide|Study guide]] · [[Galatians 4 - My Notes|My notes]] · [[Galatians]] · [[Galatians 5|Galatians 5 →]]
+[[Galatians 3|← Galatians 3]] · [[Galatians 4 (Annotated)|Annotated]] · [[Galatians 4 - Study Guide|Study guide]] · [[Galatians 4 - My Notes|My notes]] · [[Galatians]] · [[Galatians 5|Galatians 5 →]]

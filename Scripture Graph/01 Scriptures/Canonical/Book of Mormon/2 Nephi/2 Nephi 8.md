@@ -64,4 +64,4 @@ cssclasses:
 **25** Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion. ^2ne-8-25
 
 ---
-[[2 Nephi 7|← 2 Nephi 7]] · [[2 Nephi 8 - Study Guide|Study guide]] · [[2 Nephi 8 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 9|2 Nephi 9 →]]
+[[2 Nephi 7|← 2 Nephi 7]] · [[2 Nephi 8 (Annotated)|Annotated]] · [[2 Nephi 8 - Study Guide|Study guide]] · [[2 Nephi 8 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 9|2 Nephi 9 →]]

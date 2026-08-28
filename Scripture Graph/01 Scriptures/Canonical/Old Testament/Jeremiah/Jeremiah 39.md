@@ -50,4 +50,4 @@ cssclasses:
 **18** For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the LORD. ^jer-39-18
 
 ---
-[[Jeremiah 38|← Jeremiah 38]] · [[Jeremiah 39 - Study Guide|Study guide]] · [[Jeremiah 39 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 40|Jeremiah 40 →]]
+[[Jeremiah 38|← Jeremiah 38]] · [[Jeremiah 39 (Annotated)|Annotated]] · [[Jeremiah 39 - Study Guide|Study guide]] · [[Jeremiah 39 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 40|Jeremiah 40 →]]

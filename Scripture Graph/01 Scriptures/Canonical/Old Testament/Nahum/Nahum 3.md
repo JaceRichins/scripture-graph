@@ -52,4 +52,4 @@ cssclasses:
 **19** There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually? ^nahum-3-19
 
 ---
-[[Nahum 2|← Nahum 2]] · [[Nahum 3 - Study Guide|Study guide]] · [[Nahum 3 - My Notes|My notes]] · [[Nahum]]
+[[Nahum 2|← Nahum 2]] · [[Nahum 3 (Annotated)|Annotated]] · [[Nahum 3 - Study Guide|Study guide]] · [[Nahum 3 - My Notes|My notes]] · [[Nahum]]

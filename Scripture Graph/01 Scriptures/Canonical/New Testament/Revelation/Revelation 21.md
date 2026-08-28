@@ -68,4 +68,4 @@ cssclasses:
 **27** And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life. ^rev-21-27
 
 ---
-[[Revelation 20|← Revelation 20]] · [[Revelation 21 - Study Guide|Study guide]] · [[Revelation 21 - My Notes|My notes]] · [[Revelation]] · [[Revelation 22|Revelation 22 →]]
+[[Revelation 20|← Revelation 20]] · [[Revelation 21 (Annotated)|Annotated]] · [[Revelation 21 - Study Guide|Study guide]] · [[Revelation 21 - My Notes|My notes]] · [[Revelation]] · [[Revelation 22|Revelation 22 →]]

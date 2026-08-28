@@ -58,4 +58,4 @@ cssclasses:
 **22** And I would that I could persuade all ye ends of the earth to repent and prepare to stand before the judgment-seat of Christ. ^morm-3-22
 
 ---
-[[Mormon 2|← Mormon 2]] · [[Mormon 3 - Study Guide|Study guide]] · [[Mormon 3 - My Notes|My notes]] · [[Mormon]] · [[Mormon 4|Mormon 4 →]]
+[[Mormon 2|← Mormon 2]] · [[Mormon 3 (Annotated)|Annotated]] · [[Mormon 3 - Study Guide|Study guide]] · [[Mormon 3 - My Notes|My notes]] · [[Mormon]] · [[Mormon 4|Mormon 4 →]]

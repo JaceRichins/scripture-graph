@@ -90,4 +90,4 @@ cssclasses:
 **38** Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai. ^lev-7-38
 
 ---
-[[Leviticus 6|← Leviticus 6]] · [[Leviticus 7 - Study Guide|Study guide]] · [[Leviticus 7 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 8|Leviticus 8 →]]
+[[Leviticus 6|← Leviticus 6]] · [[Leviticus 7 (Annotated)|Annotated]] · [[Leviticus 7 - Study Guide|Study guide]] · [[Leviticus 7 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 8|Leviticus 8 →]]

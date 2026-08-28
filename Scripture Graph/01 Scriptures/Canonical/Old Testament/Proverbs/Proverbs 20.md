@@ -74,4 +74,4 @@ cssclasses:
 **30** The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly. ^prov-20-30
 
 ---
-[[Proverbs 19|← Proverbs 19]] · [[Proverbs 20 - Study Guide|Study guide]] · [[Proverbs 20 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 21|Proverbs 21 →]]
+[[Proverbs 19|← Proverbs 19]] · [[Proverbs 20 (Annotated)|Annotated]] · [[Proverbs 20 - Study Guide|Study guide]] · [[Proverbs 20 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 21|Proverbs 21 →]]

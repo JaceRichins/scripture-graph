@@ -54,4 +54,4 @@ cssclasses:
 **20** And he judged Israel in the days of the Philistines twenty years. ^judg-15-20
 
 ---
-[[Judges 14|← Judges 14]] · [[Judges 15 - Study Guide|Study guide]] · [[Judges 15 - My Notes|My notes]] · [[Judges]] · [[Judges 16|Judges 16 →]]
+[[Judges 14|← Judges 14]] · [[Judges 15 (Annotated)|Annotated]] · [[Judges 15 - Study Guide|Study guide]] · [[Judges 15 - My Notes|My notes]] · [[Judges]] · [[Judges 16|Judges 16 →]]

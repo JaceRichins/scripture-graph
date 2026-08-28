@@ -96,4 +96,4 @@ cssclasses:
 **41** And it came to pass that thus ended the sixty and eighth year of the reign of the judges over the people of Nephi. ^hel-6-41
 
 ---
-[[Helaman 5|← Helaman 5]] · [[Helaman 6 - Study Guide|Study guide]] · [[Helaman 6 - My Notes|My notes]] · [[Helaman]] · [[Helaman 7|Helaman 7 →]]
+[[Helaman 5|← Helaman 5]] · [[Helaman 6 (Annotated)|Annotated]] · [[Helaman 6 - Study Guide|Study guide]] · [[Helaman 6 - My Notes|My notes]] · [[Helaman]] · [[Helaman 7|Helaman 7 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** And the Lamanites did give unto us the land northward, yea, even to the narrow passage which led into the land southward. And we did give unto the Lamanites all the land southward. ^morm-2-29
 
 ---
-[[Mormon 1|← Mormon 1]] · [[Mormon 2 - Study Guide|Study guide]] · [[Mormon 2 - My Notes|My notes]] · [[Mormon]] · [[Mormon 3|Mormon 3 →]]
+[[Mormon 1|← Mormon 1]] · [[Mormon 2 (Annotated)|Annotated]] · [[Mormon 2 - Study Guide|Study guide]] · [[Mormon 2 - My Notes|My notes]] · [[Mormon]] · [[Mormon 3|Mormon 3 →]]

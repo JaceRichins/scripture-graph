@@ -80,4 +80,4 @@ cssclasses:
 **33** Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband. ^eph-5-33
 
 ---
-[[Ephesians 4|← Ephesians 4]] · [[Ephesians 5 - Study Guide|Study guide]] · [[Ephesians 5 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 6|Ephesians 6 →]]
+[[Ephesians 4|← Ephesians 4]] · [[Ephesians 5 (Annotated)|Annotated]] · [[Ephesians 5 - Study Guide|Study guide]] · [[Ephesians 5 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 6|Ephesians 6 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** And if it be not so now, who will make me a liar, and make my speech nothing worth? ^job-24-25
 
 ---
-[[Job 23|← Job 23]] · [[Job 24 - Study Guide|Study guide]] · [[Job 24 - My Notes|My notes]] · [[Job]] · [[Job 25|Job 25 →]]
+[[Job 23|← Job 23]] · [[Job 24 (Annotated)|Annotated]] · [[Job 24 - Study Guide|Study guide]] · [[Job 24 - My Notes|My notes]] · [[Job]] · [[Job 25|Job 25 →]]

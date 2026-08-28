@@ -78,4 +78,4 @@ cssclasses:
 **32** It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found. ^luke-15-32
 
 ---
-[[Luke 14|← Luke 14]] · [[Luke 15 - Study Guide|Study guide]] · [[Luke 15 - My Notes|My notes]] · [[Luke]] · [[Luke 16|Luke 16 →]]
+[[Luke 14|← Luke 14]] · [[Luke 15 (Annotated)|Annotated]] · [[Luke 15 - Study Guide|Study guide]] · [[Luke 15 - My Notes|My notes]] · [[Luke]] · [[Luke 16|Luke 16 →]]

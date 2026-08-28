@@ -56,4 +56,4 @@ aliases:
 **20** The prayers of David the son of Jesse are ended. ^ps-72-20
 
 ---
-[[Psalm 71|← Psalm 71]] · [[Psalm 72 - Study Guide|Study guide]] · [[Psalm 72 - My Notes|My notes]] · [[Psalms]] · [[Psalm 73|Psalm 73 →]]
+[[Psalm 71|← Psalm 71]] · [[Psalm 72 (Annotated)|Annotated]] · [[Psalm 72 - Study Guide|Study guide]] · [[Psalm 72 - My Notes|My notes]] · [[Psalms]] · [[Psalm 73|Psalm 73 →]]

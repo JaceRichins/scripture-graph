@@ -114,4 +114,4 @@ cssclasses:
 **50** And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak. ^john-12-50
 
 ---
-[[John 11|← John 11]] · [[John 12 - Study Guide|Study guide]] · [[John 12 - My Notes|My notes]] · [[John]] · [[John 13|John 13 →]]
+[[John 11|← John 11]] · [[John 12 (Annotated)|Annotated]] · [[John 12 - Study Guide|Study guide]] · [[John 12 - My Notes|My notes]] · [[John]] · [[John 13|John 13 →]]

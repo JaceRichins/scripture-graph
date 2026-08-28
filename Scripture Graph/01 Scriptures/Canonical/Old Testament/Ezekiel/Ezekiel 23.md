@@ -112,4 +112,4 @@ cssclasses:
 **49** And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord GOD. ^ezek-23-49
 
 ---
-[[Ezekiel 22|← Ezekiel 22]] · [[Ezekiel 23 - Study Guide|Study guide]] · [[Ezekiel 23 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 24|Ezekiel 24 →]]
+[[Ezekiel 22|← Ezekiel 22]] · [[Ezekiel 23 (Annotated)|Annotated]] · [[Ezekiel 23 - Study Guide|Study guide]] · [[Ezekiel 23 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 24|Ezekiel 24 →]]

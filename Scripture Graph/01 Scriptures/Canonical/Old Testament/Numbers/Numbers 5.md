@@ -76,4 +76,4 @@ cssclasses:
 **31** Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity. ^num-5-31
 
 ---
-[[Numbers 4|← Numbers 4]] · [[Numbers 5 - Study Guide|Study guide]] · [[Numbers 5 - My Notes|My notes]] · [[Numbers]] · [[Numbers 6|Numbers 6 →]]
+[[Numbers 4|← Numbers 4]] · [[Numbers 5 (Annotated)|Annotated]] · [[Numbers 5 - Study Guide|Study guide]] · [[Numbers 5 - My Notes|My notes]] · [[Numbers]] · [[Numbers 6|Numbers 6 →]]

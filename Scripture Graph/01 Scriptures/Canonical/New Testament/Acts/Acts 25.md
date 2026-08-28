@@ -68,4 +68,4 @@ cssclasses:
 **27** For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him. ^acts-25-27
 
 ---
-[[Acts 24|← Acts 24]] · [[Acts 25 - Study Guide|Study guide]] · [[Acts 25 - My Notes|My notes]] · [[Acts]] · [[Acts 26|Acts 26 →]]
+[[Acts 24|← Acts 24]] · [[Acts 25 (Annotated)|Annotated]] · [[Acts 25 - Study Guide|Study guide]] · [[Acts 25 - My Notes|My notes]] · [[Acts]] · [[Acts 26|Acts 26 →]]

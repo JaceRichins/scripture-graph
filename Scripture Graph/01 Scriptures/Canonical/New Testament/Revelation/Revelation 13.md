@@ -50,4 +50,4 @@ cssclasses:
 **18** Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six. ^rev-13-18
 
 ---
-[[Revelation 12|← Revelation 12]] · [[Revelation 13 - Study Guide|Study guide]] · [[Revelation 13 - My Notes|My notes]] · [[Revelation]] · [[Revelation 14|Revelation 14 →]]
+[[Revelation 12|← Revelation 12]] · [[Revelation 13 (Annotated)|Annotated]] · [[Revelation 13 - Study Guide|Study guide]] · [[Revelation 13 - My Notes|My notes]] · [[Revelation]] · [[Revelation 14|Revelation 14 →]]

@@ -44,4 +44,4 @@ cssclasses:
 **15** Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house? ^1sam-21-15
 
 ---
-[[1 Samuel 20|← 1 Samuel 20]] · [[1 Samuel 21 - Study Guide|Study guide]] · [[1 Samuel 21 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 22|1 Samuel 22 →]]
+[[1 Samuel 20|← 1 Samuel 20]] · [[1 Samuel 21 (Annotated)|Annotated]] · [[1 Samuel 21 - Study Guide|Study guide]] · [[1 Samuel 21 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 22|1 Samuel 22 →]]

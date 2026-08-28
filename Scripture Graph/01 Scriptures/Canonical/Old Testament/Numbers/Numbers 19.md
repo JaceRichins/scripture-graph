@@ -58,4 +58,4 @@ cssclasses:
 **22** And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even. ^num-19-22
 
 ---
-[[Numbers 18|← Numbers 18]] · [[Numbers 19 - Study Guide|Study guide]] · [[Numbers 19 - My Notes|My notes]] · [[Numbers]] · [[Numbers 20|Numbers 20 →]]
+[[Numbers 18|← Numbers 18]] · [[Numbers 19 (Annotated)|Annotated]] · [[Numbers 19 - Study Guide|Study guide]] · [[Numbers 19 - My Notes|My notes]] · [[Numbers]] · [[Numbers 20|Numbers 20 →]]

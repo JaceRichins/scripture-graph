@@ -104,4 +104,4 @@ cssclasses:
 **45** There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass. ^josh-21-45
 
 ---
-[[Joshua 20|← Joshua 20]] · [[Joshua 21 - Study Guide|Study guide]] · [[Joshua 21 - My Notes|My notes]] · [[Joshua]] · [[Joshua 22|Joshua 22 →]]
+[[Joshua 20|← Joshua 20]] · [[Joshua 21 (Annotated)|Annotated]] · [[Joshua 21 - Study Guide|Study guide]] · [[Joshua 21 - My Notes|My notes]] · [[Joshua]] · [[Joshua 22|Joshua 22 →]]

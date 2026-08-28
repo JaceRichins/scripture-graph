@@ -86,4 +86,4 @@ cssclasses:
 **36** Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own. ^ex-21-36
 
 ---
-[[Exodus 20|← Exodus 20]] · [[Exodus 21 - Study Guide|Study guide]] · [[Exodus 21 - My Notes|My notes]] · [[Exodus]] · [[Exodus 22|Exodus 22 →]]
+[[Exodus 20|← Exodus 20]] · [[Exodus 21 (Annotated)|Annotated]] · [[Exodus 21 - Study Guide|Study guide]] · [[Exodus 21 - My Notes|My notes]] · [[Exodus]] · [[Exodus 22|Exodus 22 →]]

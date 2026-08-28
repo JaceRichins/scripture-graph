@@ -50,4 +50,4 @@ cssclasses:
 **18** And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights. ^ex-24-18
 
 ---
-[[Exodus 23|← Exodus 23]] · [[Exodus 24 - Study Guide|Study guide]] · [[Exodus 24 - My Notes|My notes]] · [[Exodus]] · [[Exodus 25|Exodus 25 →]]
+[[Exodus 23|← Exodus 23]] · [[Exodus 24 (Annotated)|Annotated]] · [[Exodus 24 - Study Guide|Study guide]] · [[Exodus 24 - My Notes|My notes]] · [[Exodus]] · [[Exodus 25|Exodus 25 →]]

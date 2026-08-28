@@ -58,4 +58,4 @@ cssclasses:
 **22** While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. ^gen-8-22
 
 ---
-[[Genesis 7|← Genesis 7]] · [[Genesis 8 - Study Guide|Study guide]] · [[Genesis 8 - My Notes|My notes]] · [[Genesis]] · [[Genesis 9|Genesis 9 →]]
+[[Genesis 7|← Genesis 7]] · [[Genesis 8 (Annotated)|Annotated]] · [[Genesis 8 - Study Guide|Study guide]] · [[Genesis 8 - My Notes|My notes]] · [[Genesis]] · [[Genesis 9|Genesis 9 →]]

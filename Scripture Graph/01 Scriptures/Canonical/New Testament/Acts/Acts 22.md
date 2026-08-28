@@ -74,4 +74,4 @@ cssclasses:
 **30** On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them. ^acts-22-30
 
 ---
-[[Acts 21|← Acts 21]] · [[Acts 22 - Study Guide|Study guide]] · [[Acts 22 - My Notes|My notes]] · [[Acts]] · [[Acts 23|Acts 23 →]]
+[[Acts 21|← Acts 21]] · [[Acts 22 (Annotated)|Annotated]] · [[Acts 22 - Study Guide|Study guide]] · [[Acts 22 - My Notes|My notes]] · [[Acts]] · [[Acts 23|Acts 23 →]]

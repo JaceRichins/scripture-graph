@@ -64,4 +64,4 @@ aliases:
 **24** And see if there be any wicked way in me, and lead me in the way everlasting. ^ps-139-24
 
 ---
-[[Psalm 138|← Psalm 138]] · [[Psalm 139 - Study Guide|Study guide]] · [[Psalm 139 - My Notes|My notes]] · [[Psalms]] · [[Psalm 140|Psalm 140 →]]
+[[Psalm 138|← Psalm 138]] · [[Psalm 139 (Annotated)|Annotated]] · [[Psalm 139 - Study Guide|Study guide]] · [[Psalm 139 - My Notes|My notes]] · [[Psalms]] · [[Psalm 140|Psalm 140 →]]

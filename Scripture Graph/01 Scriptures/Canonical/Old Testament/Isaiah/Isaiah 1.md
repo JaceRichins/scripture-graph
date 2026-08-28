@@ -76,4 +76,4 @@ cssclasses:
 **31** And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them. ^isa-1-31
 
 ---
-[[Isaiah 1 - Study Guide|Study guide]] · [[Isaiah 1 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 2|Isaiah 2 →]]
+[[Isaiah 1 (Annotated)|Annotated]] · [[Isaiah 1 - Study Guide|Study guide]] · [[Isaiah 1 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 2|Isaiah 2 →]]

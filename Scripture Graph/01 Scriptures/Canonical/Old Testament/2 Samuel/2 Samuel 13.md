@@ -92,4 +92,4 @@ cssclasses:
 **39** And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead. ^2sam-13-39
 
 ---
-[[2 Samuel 12|← 2 Samuel 12]] · [[2 Samuel 13 - Study Guide|Study guide]] · [[2 Samuel 13 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 14|2 Samuel 14 →]]
+[[2 Samuel 12|← 2 Samuel 12]] · [[2 Samuel 13 (Annotated)|Annotated]] · [[2 Samuel 13 - Study Guide|Study guide]] · [[2 Samuel 13 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 14|2 Samuel 14 →]]

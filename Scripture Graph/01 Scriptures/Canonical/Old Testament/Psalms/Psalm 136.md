@@ -68,4 +68,4 @@ aliases:
 **26** O give thanks unto the God of heaven: for his mercy endureth for ever. ^ps-136-26
 
 ---
-[[Psalm 135|← Psalm 135]] · [[Psalm 136 - Study Guide|Study guide]] · [[Psalm 136 - My Notes|My notes]] · [[Psalms]] · [[Psalm 137|Psalm 137 →]]
+[[Psalm 135|← Psalm 135]] · [[Psalm 136 (Annotated)|Annotated]] · [[Psalm 136 - Study Guide|Study guide]] · [[Psalm 136 - My Notes|My notes]] · [[Psalms]] · [[Psalm 137|Psalm 137 →]]

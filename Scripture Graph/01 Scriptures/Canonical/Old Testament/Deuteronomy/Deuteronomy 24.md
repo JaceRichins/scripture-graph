@@ -58,4 +58,4 @@ cssclasses:
 **22** And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing. ^deut-24-22
 
 ---
-[[Deuteronomy 23|← Deuteronomy 23]] · [[Deuteronomy 24 - Study Guide|Study guide]] · [[Deuteronomy 24 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 25|Deuteronomy 25 →]]
+[[Deuteronomy 23|← Deuteronomy 23]] · [[Deuteronomy 24 (Annotated)|Annotated]] · [[Deuteronomy 24 - Study Guide|Study guide]] · [[Deuteronomy 24 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 25|Deuteronomy 25 →]]

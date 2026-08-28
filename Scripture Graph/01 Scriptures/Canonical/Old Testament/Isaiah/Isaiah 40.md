@@ -76,4 +76,4 @@ cssclasses:
 **31** But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. ^isa-40-31
 
 ---
-[[Isaiah 39|← Isaiah 39]] · [[Isaiah 40 - Study Guide|Study guide]] · [[Isaiah 40 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 41|Isaiah 41 →]]
+[[Isaiah 39|← Isaiah 39]] · [[Isaiah 40 (Annotated)|Annotated]] · [[Isaiah 40 - Study Guide|Study guide]] · [[Isaiah 40 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 41|Isaiah 41 →]]

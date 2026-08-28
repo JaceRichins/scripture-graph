@@ -68,4 +68,4 @@ cssclasses:
 **27** In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD. ^ezek-24-27
 
 ---
-[[Ezekiel 23|← Ezekiel 23]] · [[Ezekiel 24 - Study Guide|Study guide]] · [[Ezekiel 24 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 25|Ezekiel 25 →]]
+[[Ezekiel 23|← Ezekiel 23]] · [[Ezekiel 24 (Annotated)|Annotated]] · [[Ezekiel 24 - Study Guide|Study guide]] · [[Ezekiel 24 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 25|Ezekiel 25 →]]

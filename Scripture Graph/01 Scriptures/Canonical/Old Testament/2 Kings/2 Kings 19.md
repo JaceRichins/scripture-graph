@@ -88,4 +88,4 @@ cssclasses:
 **37** And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead. ^2kgs-19-37
 
 ---
-[[2 Kings 18|← 2 Kings 18]] · [[2 Kings 19 - Study Guide|Study guide]] · [[2 Kings 19 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 20|2 Kings 20 →]]
+[[2 Kings 18|← 2 Kings 18]] · [[2 Kings 19 (Annotated)|Annotated]] · [[2 Kings 19 - Study Guide|Study guide]] · [[2 Kings 19 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 20|2 Kings 20 →]]

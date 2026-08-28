@@ -90,4 +90,4 @@ cssclasses:
 **38** And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it. ^neh-9-38
 
 ---
-[[Nehemiah 8|← Nehemiah 8]] · [[Nehemiah 9 - Study Guide|Study guide]] · [[Nehemiah 9 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 10|Nehemiah 10 →]]
+[[Nehemiah 8|← Nehemiah 8]] · [[Nehemiah 9 (Annotated)|Annotated]] · [[Nehemiah 9 - Study Guide|Study guide]] · [[Nehemiah 9 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 10|Nehemiah 10 →]]

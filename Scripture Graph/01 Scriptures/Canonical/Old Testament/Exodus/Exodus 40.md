@@ -90,4 +90,4 @@ cssclasses:
 **38** For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys. ^ex-40-38
 
 ---
-[[Exodus 39|← Exodus 39]] · [[Exodus 40 - Study Guide|Study guide]] · [[Exodus 40 - My Notes|My notes]] · [[Exodus]]
+[[Exodus 39|← Exodus 39]] · [[Exodus 40 (Annotated)|Annotated]] · [[Exodus 40 - Study Guide|Study guide]] · [[Exodus 40 - My Notes|My notes]] · [[Exodus]]

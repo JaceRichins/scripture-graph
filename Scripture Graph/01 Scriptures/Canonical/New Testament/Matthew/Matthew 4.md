@@ -64,4 +64,4 @@ cssclasses:
 **25** And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judæa, and from beyond Jordan. ^matt-4-25
 
 ---
-[[Matthew 3|← Matthew 3]] · [[Matthew 4 - Study Guide|Study guide]] · [[Matthew 4 - My Notes|My notes]] · [[Matthew]] · [[Matthew 5|Matthew 5 →]]
+[[Matthew 3|← Matthew 3]] · [[Matthew 4 (Annotated)|Annotated]] · [[Matthew 4 - Study Guide|Study guide]] · [[Matthew 4 - My Notes|My notes]] · [[Matthew]] · [[Matthew 5|Matthew 5 →]]

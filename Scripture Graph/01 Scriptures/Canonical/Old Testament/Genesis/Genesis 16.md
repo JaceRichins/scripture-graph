@@ -46,4 +46,4 @@ cssclasses:
 **16** And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram. ^gen-16-16
 
 ---
-[[Genesis 15|← Genesis 15]] · [[Genesis 16 - Study Guide|Study guide]] · [[Genesis 16 - My Notes|My notes]] · [[Genesis]] · [[Genesis 17|Genesis 17 →]]
+[[Genesis 15|← Genesis 15]] · [[Genesis 16 (Annotated)|Annotated]] · [[Genesis 16 - Study Guide|Study guide]] · [[Genesis 16 - My Notes|My notes]] · [[Genesis]] · [[Genesis 17|Genesis 17 →]]

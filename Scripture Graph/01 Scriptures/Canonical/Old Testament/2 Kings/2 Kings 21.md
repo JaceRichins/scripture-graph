@@ -66,4 +66,4 @@ cssclasses:
 **26** And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead. ^2kgs-21-26
 
 ---
-[[2 Kings 20|← 2 Kings 20]] · [[2 Kings 21 - Study Guide|Study guide]] · [[2 Kings 21 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 22|2 Kings 22 →]]
+[[2 Kings 20|← 2 Kings 20]] · [[2 Kings 21 (Annotated)|Annotated]] · [[2 Kings 21 - Study Guide|Study guide]] · [[2 Kings 21 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 22|2 Kings 22 →]]

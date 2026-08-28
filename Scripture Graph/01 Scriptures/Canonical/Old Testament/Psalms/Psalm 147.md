@@ -56,4 +56,4 @@ aliases:
 **20** He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD. ^ps-147-20
 
 ---
-[[Psalm 146|← Psalm 146]] · [[Psalm 147 - Study Guide|Study guide]] · [[Psalm 147 - My Notes|My notes]] · [[Psalms]] · [[Psalm 148|Psalm 148 →]]
+[[Psalm 146|← Psalm 146]] · [[Psalm 147 (Annotated)|Annotated]] · [[Psalm 147 - Study Guide|Study guide]] · [[Psalm 147 - My Notes|My notes]] · [[Psalms]] · [[Psalm 148|Psalm 148 →]]

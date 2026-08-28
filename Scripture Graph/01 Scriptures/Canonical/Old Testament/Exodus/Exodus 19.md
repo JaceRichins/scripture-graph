@@ -64,4 +64,4 @@ cssclasses:
 **25** So Moses went down unto the people, and spake unto them. ^ex-19-25
 
 ---
-[[Exodus 18|← Exodus 18]] · [[Exodus 19 - Study Guide|Study guide]] · [[Exodus 19 - My Notes|My notes]] · [[Exodus]] · [[Exodus 20|Exodus 20 →]]
+[[Exodus 18|← Exodus 18]] · [[Exodus 19 (Annotated)|Annotated]] · [[Exodus 19 - Study Guide|Study guide]] · [[Exodus 19 - My Notes|My notes]] · [[Exodus]] · [[Exodus 20|Exodus 20 →]]

@@ -124,4 +124,4 @@ cssclasses:
 **55** And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place. ^gen-31-55
 
 ---
-[[Genesis 30|← Genesis 30]] · [[Genesis 31 - Study Guide|Study guide]] · [[Genesis 31 - My Notes|My notes]] · [[Genesis]] · [[Genesis 32|Genesis 32 →]]
+[[Genesis 30|← Genesis 30]] · [[Genesis 31 (Annotated)|Annotated]] · [[Genesis 31 - Study Guide|Study guide]] · [[Genesis 31 - My Notes|My notes]] · [[Genesis]] · [[Genesis 32|Genesis 32 →]]

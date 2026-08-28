@@ -48,4 +48,4 @@ cssclasses:
 **17** For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes. ^rev-7-17
 
 ---
-[[Revelation 6|← Revelation 6]] · [[Revelation 7 - Study Guide|Study guide]] · [[Revelation 7 - My Notes|My notes]] · [[Revelation]] · [[Revelation 8|Revelation 8 →]]
+[[Revelation 6|← Revelation 6]] · [[Revelation 7 (Annotated)|Annotated]] · [[Revelation 7 - Study Guide|Study guide]] · [[Revelation 7 - My Notes|My notes]] · [[Revelation]] · [[Revelation 8|Revelation 8 →]]

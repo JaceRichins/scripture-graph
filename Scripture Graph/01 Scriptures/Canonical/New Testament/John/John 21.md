@@ -64,4 +64,4 @@ cssclasses:
 **25** And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen. ^john-21-25
 
 ---
-[[John 20|← John 20]] · [[John 21 - Study Guide|Study guide]] · [[John 21 - My Notes|My notes]] · [[John]]
+[[John 20|← John 20]] · [[John 21 (Annotated)|Annotated]] · [[John 21 - Study Guide|Study guide]] · [[John 21 - My Notes|My notes]] · [[John]]

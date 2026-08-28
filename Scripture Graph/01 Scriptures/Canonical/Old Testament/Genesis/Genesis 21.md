@@ -82,4 +82,4 @@ cssclasses:
 **34** And Abraham sojourned in the Philistines' land many days. ^gen-21-34
 
 ---
-[[Genesis 20|← Genesis 20]] · [[Genesis 21 - Study Guide|Study guide]] · [[Genesis 21 - My Notes|My notes]] · [[Genesis]] · [[Genesis 22|Genesis 22 →]]
+[[Genesis 20|← Genesis 20]] · [[Genesis 21 (Annotated)|Annotated]] · [[Genesis 21 - Study Guide|Study guide]] · [[Genesis 21 - My Notes|My notes]] · [[Genesis]] · [[Genesis 22|Genesis 22 →]]

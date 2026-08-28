@@ -56,4 +56,4 @@ cssclasses:
 **21** And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD. ^1sam-3-21
 
 ---
-[[1 Samuel 2|← 1 Samuel 2]] · [[1 Samuel 3 - Study Guide|Study guide]] · [[1 Samuel 3 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 4|1 Samuel 4 →]]
+[[1 Samuel 2|← 1 Samuel 2]] · [[1 Samuel 3 (Annotated)|Annotated]] · [[1 Samuel 3 - Study Guide|Study guide]] · [[1 Samuel 3 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 4|1 Samuel 4 →]]

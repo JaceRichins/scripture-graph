@@ -94,4 +94,4 @@ cssclasses:
 **40** And in this state they were to remain until the judgment day of Christ; and at that day they were to receive a greater change, and to be received into the kingdom of the Father to go no more out, but to dwell with God eternally in the heavens. ^3ne-28-40
 
 ---
-[[3 Nephi 27|← 3 Nephi 27]] · [[3 Nephi 28 - Study Guide|Study guide]] · [[3 Nephi 28 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 29|3 Nephi 29 →]]
+[[3 Nephi 27|← 3 Nephi 27]] · [[3 Nephi 28 (Annotated)|Annotated]] · [[3 Nephi 28 - Study Guide|Study guide]] · [[3 Nephi 28 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 29|3 Nephi 29 →]]

@@ -36,4 +36,4 @@ aliases:
 **10** Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly. ^ps-6-10
 
 ---
-[[Psalm 5|← Psalm 5]] · [[Psalm 6 - Study Guide|Study guide]] · [[Psalm 6 - My Notes|My notes]] · [[Psalms]] · [[Psalm 7|Psalm 7 →]]
+[[Psalm 5|← Psalm 5]] · [[Psalm 6 (Annotated)|Annotated]] · [[Psalm 6 - Study Guide|Study guide]] · [[Psalm 6 - My Notes|My notes]] · [[Psalms]] · [[Psalm 7|Psalm 7 →]]

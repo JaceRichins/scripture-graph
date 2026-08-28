@@ -50,4 +50,4 @@ cssclasses:
 **18** Wisdom is better than weapons of war: but one sinner destroyeth much good. ^eccl-9-18
 
 ---
-[[Ecclesiastes 8|← Ecclesiastes 8]] · [[Ecclesiastes 9 - Study Guide|Study guide]] · [[Ecclesiastes 9 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 10|Ecclesiastes 10 →]]
+[[Ecclesiastes 8|← Ecclesiastes 8]] · [[Ecclesiastes 9 (Annotated)|Annotated]] · [[Ecclesiastes 9 - Study Guide|Study guide]] · [[Ecclesiastes 9 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 10|Ecclesiastes 10 →]]

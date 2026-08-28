@@ -66,4 +66,4 @@ cssclasses:
 **26** And her gates shall lament and mourn; and she shall be desolate, and shall sit upon the ground. ^2ne-13-26
 
 ---
-[[2 Nephi 12|← 2 Nephi 12]] · [[2 Nephi 13 - Study Guide|Study guide]] · [[2 Nephi 13 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 14|2 Nephi 14 →]]
+[[2 Nephi 12|← 2 Nephi 12]] · [[2 Nephi 13 (Annotated)|Annotated]] · [[2 Nephi 13 - Study Guide|Study guide]] · [[2 Nephi 13 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 14|2 Nephi 14 →]]

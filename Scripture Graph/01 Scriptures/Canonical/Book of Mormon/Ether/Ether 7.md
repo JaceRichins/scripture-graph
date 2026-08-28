@@ -68,4 +68,4 @@ cssclasses:
 **27** And there were no more wars in the days of Shule; and he remembered the great things that the Lord had done for his fathers in bringing them across the great deep into the promised land; wherefore he did execute judgment in righteousness all his days. ^ether-7-27
 
 ---
-[[Ether 6|← Ether 6]] · [[Ether 7 - Study Guide|Study guide]] · [[Ether 7 - My Notes|My notes]] · [[Ether]] · [[Ether 8|Ether 8 →]]
+[[Ether 6|← Ether 6]] · [[Ether 7 (Annotated)|Annotated]] · [[Ether 7 - Study Guide|Study guide]] · [[Ether 7 - My Notes|My notes]] · [[Ether]] · [[Ether 8|Ether 8 →]]

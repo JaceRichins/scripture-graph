@@ -76,4 +76,4 @@ cssclasses:
 **31** And Alma spake many more words unto the people, which are not written in this book. ^alma-13-31
 
 ---
-[[Alma 12|← Alma 12]] · [[Alma 13 - Study Guide|Study guide]] · [[Alma 13 - My Notes|My notes]] · [[Alma]] · [[Alma 14|Alma 14 →]]
+[[Alma 12|← Alma 12]] · [[Alma 13 (Annotated)|Annotated]] · [[Alma 13 - Study Guide|Study guide]] · [[Alma 13 - My Notes|My notes]] · [[Alma]] · [[Alma 14|Alma 14 →]]

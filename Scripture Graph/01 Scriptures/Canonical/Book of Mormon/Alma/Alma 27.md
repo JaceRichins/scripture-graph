@@ -74,4 +74,4 @@ cssclasses:
 **30** And thus they were a zealous and beloved people, a highly favored people of the Lord. ^alma-27-30
 
 ---
-[[Alma 26|← Alma 26]] · [[Alma 27 - Study Guide|Study guide]] · [[Alma 27 - My Notes|My notes]] · [[Alma]] · [[Alma 28|Alma 28 →]]
+[[Alma 26|← Alma 26]] · [[Alma 27 (Annotated)|Annotated]] · [[Alma 27 - Study Guide|Study guide]] · [[Alma 27 - My Notes|My notes]] · [[Alma]] · [[Alma 28|Alma 28 →]]

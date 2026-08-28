@@ -38,6 +38,31 @@
   opacity: 0.35;
 }
 
+/* annotated chapters: verse transclusions render seamlessly, links tucked
+   beneath each verse like study-scripture footnotes */
+.sg-annotated .markdown-embed,
+.sg-annotated .markdown-preview-view .markdown-embed {
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+}
+.sg-annotated .markdown-embed .markdown-embed-title,
+.sg-annotated .markdown-embed-link {
+  display: none;
+}
+.sg-annotated .markdown-embed .markdown-preview-view {
+  padding: 0;
+}
+.sg-annotated blockquote {
+  border-left: 2px solid rgba(158, 118, 45, 0.4);
+  margin: 0 0 0.9em 1.2em;
+  padding: 0.05em 0 0.05em 0.7em;
+  font-size: 0.88em;
+  opacity: 0.92;
+}
+
 /* personal notes get a subtle left accent so ownership is visually obvious */
 .sg-personal.markdown-preview-view,
 .markdown-source-view.sg-personal {

@@ -34,4 +34,4 @@ cssclasses:
 **10** And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come. ^1thes-1-10
 
 ---
-[[1 Thessalonians 1 - Study Guide|Study guide]] · [[1 Thessalonians 1 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 2|1 Thessalonians 2 →]]
+[[1 Thessalonians 1 (Annotated)|Annotated]] · [[1 Thessalonians 1 - Study Guide|Study guide]] · [[1 Thessalonians 1 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 2|1 Thessalonians 2 →]]

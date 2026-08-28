@@ -68,4 +68,4 @@ cssclasses:
 **27** And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God. ^1sam-9-27
 
 ---
-[[1 Samuel 8|← 1 Samuel 8]] · [[1 Samuel 9 - Study Guide|Study guide]] · [[1 Samuel 9 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 10|1 Samuel 10 →]]
+[[1 Samuel 8|← 1 Samuel 8]] · [[1 Samuel 9 (Annotated)|Annotated]] · [[1 Samuel 9 - Study Guide|Study guide]] · [[1 Samuel 9 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 10|1 Samuel 10 →]]

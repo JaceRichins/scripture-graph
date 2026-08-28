@@ -26,4 +26,4 @@ aliases:
 **5** He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved. ^ps-15-5
 
 ---
-[[Psalm 14|← Psalm 14]] · [[Psalm 15 - Study Guide|Study guide]] · [[Psalm 15 - My Notes|My notes]] · [[Psalms]] · [[Psalm 16|Psalm 16 →]]
+[[Psalm 14|← Psalm 14]] · [[Psalm 15 (Annotated)|Annotated]] · [[Psalm 15 - Study Guide|Study guide]] · [[Psalm 15 - My Notes|My notes]] · [[Psalms]] · [[Psalm 16|Psalm 16 →]]

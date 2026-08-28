@@ -32,4 +32,4 @@ cssclasses:
 **9** And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done. ^moro-6-9
 
 ---
-[[Moroni 5|← Moroni 5]] · [[Moroni 6 - Study Guide|Study guide]] · [[Moroni 6 - My Notes|My notes]] · [[Moroni]] · [[Moroni 7|Moroni 7 →]]
+[[Moroni 5|← Moroni 5]] · [[Moroni 6 (Annotated)|Annotated]] · [[Moroni 6 - Study Guide|Study guide]] · [[Moroni 6 - My Notes|My notes]] · [[Moroni]] · [[Moroni 7|Moroni 7 →]]

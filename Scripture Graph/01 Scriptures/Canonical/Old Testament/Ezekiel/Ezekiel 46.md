@@ -62,4 +62,4 @@ cssclasses:
 **24** Then said he unto me, These are the places of them that boil, where the ministers of the house shall boil the sacrifice of the people. ^ezek-46-24
 
 ---
-[[Ezekiel 45|← Ezekiel 45]] · [[Ezekiel 46 - Study Guide|Study guide]] · [[Ezekiel 46 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 47|Ezekiel 47 →]]
+[[Ezekiel 45|← Ezekiel 45]] · [[Ezekiel 46 (Annotated)|Annotated]] · [[Ezekiel 46 - Study Guide|Study guide]] · [[Ezekiel 46 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 47|Ezekiel 47 →]]

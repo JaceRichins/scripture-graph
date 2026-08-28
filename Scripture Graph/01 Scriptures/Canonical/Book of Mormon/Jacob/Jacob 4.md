@@ -50,4 +50,4 @@ cssclasses:
 **18** Behold, my beloved brethren, I will unfold this mystery unto you; if I do not, by any means, get shaken from my firmness in the Spirit, and stumble because of my over anxiety for you. ^jacob-4-18
 
 ---
-[[Jacob 3|← Jacob 3]] · [[Jacob 4 - Study Guide|Study guide]] · [[Jacob 4 - My Notes|My notes]] · [[Jacob]] · [[Jacob 5|Jacob 5 →]]
+[[Jacob 3|← Jacob 3]] · [[Jacob 4 (Annotated)|Annotated]] · [[Jacob 4 - Study Guide|Study guide]] · [[Jacob 4 - My Notes|My notes]] · [[Jacob]] · [[Jacob 5|Jacob 5 →]]

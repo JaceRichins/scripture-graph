@@ -205,7 +205,8 @@ def render_scripture_note(ctx: Ctx, book: Book, chapter: int,
         lines.append(f"**{vn}** {text} ^{vslug}")
         lines.append("")
     lines.append("---")
-    nav = [md.wikilink(study_title(book, chapter), "Study guide"),
+    nav = [md.wikilink(f"{title} (Annotated)", "Annotated"),
+           md.wikilink(study_title(book, chapter), "Study guide"),
            md.wikilink(personal_title(book, chapter), "My notes"),
            md.wikilink(book.name)]
     if prev_title:

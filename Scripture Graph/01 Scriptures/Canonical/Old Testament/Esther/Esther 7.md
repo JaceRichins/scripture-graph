@@ -34,4 +34,4 @@ cssclasses:
 **10** So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified. ^esth-7-10
 
 ---
-[[Esther 6|← Esther 6]] · [[Esther 7 - Study Guide|Study guide]] · [[Esther 7 - My Notes|My notes]] · [[Esther]] · [[Esther 8|Esther 8 →]]
+[[Esther 6|← Esther 6]] · [[Esther 7 (Annotated)|Annotated]] · [[Esther 7 - Study Guide|Study guide]] · [[Esther 7 - My Notes|My notes]] · [[Esther]] · [[Esther 8|Esther 8 →]]

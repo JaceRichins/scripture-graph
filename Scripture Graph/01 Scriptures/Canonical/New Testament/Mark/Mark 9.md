@@ -114,4 +114,4 @@ cssclasses:
 **50** Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another. ^mark-9-50
 
 ---
-[[Mark 8|← Mark 8]] · [[Mark 9 - Study Guide|Study guide]] · [[Mark 9 - My Notes|My notes]] · [[Mark]] · [[Mark 10|Mark 10 →]]
+[[Mark 8|← Mark 8]] · [[Mark 9 (Annotated)|Annotated]] · [[Mark 9 - Study Guide|Study guide]] · [[Mark 9 - My Notes|My notes]] · [[Mark]] · [[Mark 10|Mark 10 →]]

@@ -102,4 +102,4 @@ cssclasses:
 **44** And he preached in the synagogues of Galilee. ^luke-4-44
 
 ---
-[[Luke 3|← Luke 3]] · [[Luke 4 - Study Guide|Study guide]] · [[Luke 4 - My Notes|My notes]] · [[Luke]] · [[Luke 5|Luke 5 →]]
+[[Luke 3|← Luke 3]] · [[Luke 4 (Annotated)|Annotated]] · [[Luke 4 - Study Guide|Study guide]] · [[Luke 4 - My Notes|My notes]] · [[Luke]] · [[Luke 5|Luke 5 →]]

@@ -106,4 +106,4 @@ cssclasses:
 **46** And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions. ^matt-22-46
 
 ---
-[[Matthew 21|← Matthew 21]] · [[Matthew 22 - Study Guide|Study guide]] · [[Matthew 22 - My Notes|My notes]] · [[Matthew]] · [[Matthew 23|Matthew 23 →]]
+[[Matthew 21|← Matthew 21]] · [[Matthew 22 (Annotated)|Annotated]] · [[Matthew 22 - Study Guide|Study guide]] · [[Matthew 22 - My Notes|My notes]] · [[Matthew]] · [[Matthew 23|Matthew 23 →]]

@@ -104,4 +104,4 @@ cssclasses:
 **45** Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah. ^num-14-45
 
 ---
-[[Numbers 13|← Numbers 13]] · [[Numbers 14 - Study Guide|Study guide]] · [[Numbers 14 - My Notes|My notes]] · [[Numbers]] · [[Numbers 15|Numbers 15 →]]
+[[Numbers 13|← Numbers 13]] · [[Numbers 14 (Annotated)|Annotated]] · [[Numbers 14 - Study Guide|Study guide]] · [[Numbers 14 - My Notes|My notes]] · [[Numbers]] · [[Numbers 15|Numbers 15 →]]

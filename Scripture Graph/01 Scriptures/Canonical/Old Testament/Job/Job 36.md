@@ -80,4 +80,4 @@ cssclasses:
 **33** The noise thereof sheweth concerning it, the cattle also concerning the vapour. ^job-36-33
 
 ---
-[[Job 35|← Job 35]] · [[Job 36 - Study Guide|Study guide]] · [[Job 36 - My Notes|My notes]] · [[Job]] · [[Job 37|Job 37 →]]
+[[Job 35|← Job 35]] · [[Job 36 (Annotated)|Annotated]] · [[Job 36 - Study Guide|Study guide]] · [[Job 36 - My Notes|My notes]] · [[Job]] · [[Job 37|Job 37 →]]

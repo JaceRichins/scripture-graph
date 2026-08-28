@@ -74,4 +74,4 @@ cssclasses:
 **30** But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not. ^mosiah-4-30
 
 ---
-[[Mosiah 3|← Mosiah 3]] · [[Mosiah 4 - Study Guide|Study guide]] · [[Mosiah 4 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 5|Mosiah 5 →]]
+[[Mosiah 3|← Mosiah 3]] · [[Mosiah 4 (Annotated)|Annotated]] · [[Mosiah 4 - Study Guide|Study guide]] · [[Mosiah 4 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 5|Mosiah 5 →]]

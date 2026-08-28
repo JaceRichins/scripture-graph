@@ -68,4 +68,4 @@ cssclasses:
 **27** And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose. ^josh-9-27
 
 ---
-[[Joshua 8|← Joshua 8]] · [[Joshua 9 - Study Guide|Study guide]] · [[Joshua 9 - My Notes|My notes]] · [[Joshua]] · [[Joshua 10|Joshua 10 →]]
+[[Joshua 8|← Joshua 8]] · [[Joshua 9 (Annotated)|Annotated]] · [[Joshua 9 - Study Guide|Study guide]] · [[Joshua 9 - My Notes|My notes]] · [[Joshua]] · [[Joshua 10|Joshua 10 →]]

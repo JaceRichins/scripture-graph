@@ -60,4 +60,4 @@ cssclasses:
 **23** And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, even the year of their visitation. ^jer-11-23
 
 ---
-[[Jeremiah 10|← Jeremiah 10]] · [[Jeremiah 11 - Study Guide|Study guide]] · [[Jeremiah 11 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 12|Jeremiah 12 →]]
+[[Jeremiah 10|← Jeremiah 10]] · [[Jeremiah 11 (Annotated)|Annotated]] · [[Jeremiah 11 - Study Guide|Study guide]] · [[Jeremiah 11 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 12|Jeremiah 12 →]]

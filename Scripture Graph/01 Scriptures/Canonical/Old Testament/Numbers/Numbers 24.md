@@ -64,4 +64,4 @@ cssclasses:
 **25** And Balaam rose up, and went and returned to his place: and Balak also went his way. ^num-24-25
 
 ---
-[[Numbers 23|← Numbers 23]] · [[Numbers 24 - Study Guide|Study guide]] · [[Numbers 24 - My Notes|My notes]] · [[Numbers]] · [[Numbers 25|Numbers 25 →]]
+[[Numbers 23|← Numbers 23]] · [[Numbers 24 (Annotated)|Annotated]] · [[Numbers 24 - Study Guide|Study guide]] · [[Numbers 24 - My Notes|My notes]] · [[Numbers]] · [[Numbers 25|Numbers 25 →]]

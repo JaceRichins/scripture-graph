@@ -40,4 +40,4 @@ aliases:
 **12** My foot standeth in an even place: in the congregations will I bless the LORD. ^ps-26-12
 
 ---
-[[Psalm 25|← Psalm 25]] · [[Psalm 26 - Study Guide|Study guide]] · [[Psalm 26 - My Notes|My notes]] · [[Psalms]] · [[Psalm 27|Psalm 27 →]]
+[[Psalm 25|← Psalm 25]] · [[Psalm 26 (Annotated)|Annotated]] · [[Psalm 26 - Study Guide|Study guide]] · [[Psalm 26 - My Notes|My notes]] · [[Psalms]] · [[Psalm 27|Psalm 27 →]]

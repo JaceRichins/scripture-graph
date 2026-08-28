@@ -80,4 +80,4 @@ cssclasses:
 **33** And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim. ^josh-24-33
 
 ---
-[[Joshua 23|← Joshua 23]] · [[Joshua 24 - Study Guide|Study guide]] · [[Joshua 24 - My Notes|My notes]] · [[Joshua]]
+[[Joshua 23|← Joshua 23]] · [[Joshua 24 (Annotated)|Annotated]] · [[Joshua 24 - Study Guide|Study guide]] · [[Joshua 24 - My Notes|My notes]] · [[Joshua]]

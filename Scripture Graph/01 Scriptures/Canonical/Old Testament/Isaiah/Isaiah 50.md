@@ -36,4 +36,4 @@ cssclasses:
 **11** Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. ^isa-50-11
 
 ---
-[[Isaiah 49|← Isaiah 49]] · [[Isaiah 50 - Study Guide|Study guide]] · [[Isaiah 50 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 51|Isaiah 51 →]]
+[[Isaiah 49|← Isaiah 49]] · [[Isaiah 50 (Annotated)|Annotated]] · [[Isaiah 50 - Study Guide|Study guide]] · [[Isaiah 50 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 51|Isaiah 51 →]]

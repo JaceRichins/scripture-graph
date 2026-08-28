@@ -92,4 +92,4 @@ cssclasses:
 **39** Uriah the Hittite: thirty and seven in all. ^2sam-23-39
 
 ---
-[[2 Samuel 22|← 2 Samuel 22]] · [[2 Samuel 23 - Study Guide|Study guide]] · [[2 Samuel 23 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 24|2 Samuel 24 →]]
+[[2 Samuel 22|← 2 Samuel 22]] · [[2 Samuel 23 (Annotated)|Annotated]] · [[2 Samuel 23 - Study Guide|Study guide]] · [[2 Samuel 23 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 24|2 Samuel 24 →]]

@@ -1,0 +1,33 @@
+---
+ownership: system
+mutable: ai
+content_type: annotated
+book: Psalms
+chapter: 149
+slug: ps-149
+cssclasses:
+- sg-annotated
+---
+
+# Psalm 149 — Annotated
+
+[[Psalm 149|Plain text]] · [[Psalm 149 - Study Guide|Study guide]] · [[Psalm 149 - My Notes|My notes]]
+
+![[Psalm 149#^ps-149-1]]
+> [[Isaiah 42#^isa-42-10|≈ Isaiah 42:10]]
+
+![[Psalm 149#^ps-149-2]]
+
+![[Psalm 149#^ps-149-3]]
+
+![[Psalm 149#^ps-149-4]]
+
+![[Psalm 149#^ps-149-5]]
+
+![[Psalm 149#^ps-149-6]]
+
+![[Psalm 149#^ps-149-7]]
+
+![[Psalm 149#^ps-149-8]]
+
+![[Psalm 149#^ps-149-9]]

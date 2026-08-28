@@ -40,4 +40,4 @@ aliases:
 **12** Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness. ^ps-97-12
 
 ---
-[[Psalm 96|← Psalm 96]] · [[Psalm 97 - Study Guide|Study guide]] · [[Psalm 97 - My Notes|My notes]] · [[Psalms]] · [[Psalm 98|Psalm 98 →]]
+[[Psalm 96|← Psalm 96]] · [[Psalm 97 (Annotated)|Annotated]] · [[Psalm 97 - Study Guide|Study guide]] · [[Psalm 97 - My Notes|My notes]] · [[Psalms]] · [[Psalm 98|Psalm 98 →]]

@@ -38,4 +38,4 @@ aliases:
 **11** Be thou exalted, O God, above the heavens: let thy glory be above all the earth. ^ps-57-11
 
 ---
-[[Psalm 56|← Psalm 56]] · [[Psalm 57 - Study Guide|Study guide]] · [[Psalm 57 - My Notes|My notes]] · [[Psalms]] · [[Psalm 58|Psalm 58 →]]
+[[Psalm 56|← Psalm 56]] · [[Psalm 57 (Annotated)|Annotated]] · [[Psalm 57 - Study Guide|Study guide]] · [[Psalm 57 - My Notes|My notes]] · [[Psalms]] · [[Psalm 58|Psalm 58 →]]

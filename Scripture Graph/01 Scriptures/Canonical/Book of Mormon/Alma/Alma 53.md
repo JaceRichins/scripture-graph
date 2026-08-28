@@ -60,4 +60,4 @@ cssclasses:
 **23** And thus ended the twenty and eighth year of the reign of the judges over the people of Nephi. ^alma-53-23
 
 ---
-[[Alma 52|← Alma 52]] · [[Alma 53 - Study Guide|Study guide]] · [[Alma 53 - My Notes|My notes]] · [[Alma]] · [[Alma 54|Alma 54 →]]
+[[Alma 52|← Alma 52]] · [[Alma 53 (Annotated)|Annotated]] · [[Alma 53 - Study Guide|Study guide]] · [[Alma 53 - My Notes|My notes]] · [[Alma]] · [[Alma 54|Alma 54 →]]

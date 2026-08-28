@@ -66,4 +66,4 @@ cssclasses:
 **26** And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. ^2tim-2-26
 
 ---
-[[2 Timothy 1|← 2 Timothy 1]] · [[2 Timothy 2 - Study Guide|Study guide]] · [[2 Timothy 2 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 3|2 Timothy 3 →]]
+[[2 Timothy 1|← 2 Timothy 1]] · [[2 Timothy 2 (Annotated)|Annotated]] · [[2 Timothy 2 - Study Guide|Study guide]] · [[2 Timothy 2 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 3|2 Timothy 3 →]]

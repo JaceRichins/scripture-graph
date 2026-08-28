@@ -72,4 +72,4 @@ cssclasses:
 **29** Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD. ^ezek-39-29
 
 ---
-[[Ezekiel 38|← Ezekiel 38]] · [[Ezekiel 39 - Study Guide|Study guide]] · [[Ezekiel 39 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 40|Ezekiel 40 →]]
+[[Ezekiel 38|← Ezekiel 38]] · [[Ezekiel 39 (Annotated)|Annotated]] · [[Ezekiel 39 - Study Guide|Study guide]] · [[Ezekiel 39 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 40|Ezekiel 40 →]]

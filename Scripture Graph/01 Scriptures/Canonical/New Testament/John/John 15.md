@@ -68,4 +68,4 @@ cssclasses:
 **27** And ye also shall bear witness, because ye have been with me from the beginning. ^john-15-27
 
 ---
-[[John 14|← John 14]] · [[John 15 - Study Guide|Study guide]] · [[John 15 - My Notes|My notes]] · [[John]] · [[John 16|John 16 →]]
+[[John 14|← John 14]] · [[John 15 (Annotated)|Annotated]] · [[John 15 - Study Guide|Study guide]] · [[John 15 - My Notes|My notes]] · [[John]] · [[John 16|John 16 →]]

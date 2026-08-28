@@ -84,4 +84,4 @@ cssclasses:
 **35** So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses. ^matt-18-35
 
 ---
-[[Matthew 17|← Matthew 17]] · [[Matthew 18 - Study Guide|Study guide]] · [[Matthew 18 - My Notes|My notes]] · [[Matthew]] · [[Matthew 19|Matthew 19 →]]
+[[Matthew 17|← Matthew 17]] · [[Matthew 18 (Annotated)|Annotated]] · [[Matthew 18 - Study Guide|Study guide]] · [[Matthew 18 - My Notes|My notes]] · [[Matthew]] · [[Matthew 19|Matthew 19 →]]

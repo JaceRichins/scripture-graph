@@ -48,4 +48,4 @@ cssclasses:
 **17** No weapon that is formed against thee shall prosper; and every tongue that shall revile against thee in judgment thou shalt condemn. This is the heritage of the servants of the Lord, and their righteousness is of me, saith the Lord. ^3ne-22-17
 
 ---
-[[3 Nephi 21|← 3 Nephi 21]] · [[3 Nephi 22 - Study Guide|Study guide]] · [[3 Nephi 22 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 23|3 Nephi 23 →]]
+[[3 Nephi 21|← 3 Nephi 21]] · [[3 Nephi 22 (Annotated)|Annotated]] · [[3 Nephi 22 - Study Guide|Study guide]] · [[3 Nephi 22 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 23|3 Nephi 23 →]]

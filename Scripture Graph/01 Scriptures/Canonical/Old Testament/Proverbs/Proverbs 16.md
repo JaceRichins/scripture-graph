@@ -80,4 +80,4 @@ cssclasses:
 **33** The lot is cast into the lap; but the whole disposing thereof is of the LORD. ^prov-16-33
 
 ---
-[[Proverbs 15|← Proverbs 15]] · [[Proverbs 16 - Study Guide|Study guide]] · [[Proverbs 16 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 17|Proverbs 17 →]]
+[[Proverbs 15|← Proverbs 15]] · [[Proverbs 16 (Annotated)|Annotated]] · [[Proverbs 16 - Study Guide|Study guide]] · [[Proverbs 16 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 17|Proverbs 17 →]]

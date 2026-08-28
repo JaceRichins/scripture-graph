@@ -58,4 +58,4 @@ cssclasses:
 **22** Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow. ^gen-48-22
 
 ---
-[[Genesis 47|← Genesis 47]] · [[Genesis 48 - Study Guide|Study guide]] · [[Genesis 48 - My Notes|My notes]] · [[Genesis]] · [[Genesis 49|Genesis 49 →]]
+[[Genesis 47|← Genesis 47]] · [[Genesis 48 (Annotated)|Annotated]] · [[Genesis 48 - Study Guide|Study guide]] · [[Genesis 48 - My Notes|My notes]] · [[Genesis]] · [[Genesis 49|Genesis 49 →]]

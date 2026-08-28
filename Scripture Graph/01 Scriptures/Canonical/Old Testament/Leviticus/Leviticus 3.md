@@ -48,4 +48,4 @@ cssclasses:
 **17** It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood. ^lev-3-17
 
 ---
-[[Leviticus 2|← Leviticus 2]] · [[Leviticus 3 - Study Guide|Study guide]] · [[Leviticus 3 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 4|Leviticus 4 →]]
+[[Leviticus 2|← Leviticus 2]] · [[Leviticus 3 (Annotated)|Annotated]] · [[Leviticus 3 - Study Guide|Study guide]] · [[Leviticus 3 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 4|Leviticus 4 →]]

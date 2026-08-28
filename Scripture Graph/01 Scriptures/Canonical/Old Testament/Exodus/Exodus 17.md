@@ -46,4 +46,4 @@ cssclasses:
 **16** For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation. ^ex-17-16
 
 ---
-[[Exodus 16|← Exodus 16]] · [[Exodus 17 - Study Guide|Study guide]] · [[Exodus 17 - My Notes|My notes]] · [[Exodus]] · [[Exodus 18|Exodus 18 →]]
+[[Exodus 16|← Exodus 16]] · [[Exodus 17 (Annotated)|Annotated]] · [[Exodus 17 - Study Guide|Study guide]] · [[Exodus 17 - My Notes|My notes]] · [[Exodus]] · [[Exodus 18|Exodus 18 →]]

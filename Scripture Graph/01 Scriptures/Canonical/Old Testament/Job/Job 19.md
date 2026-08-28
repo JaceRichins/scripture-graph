@@ -72,4 +72,4 @@ cssclasses:
 **29** Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment. ^job-19-29
 
 ---
-[[Job 18|← Job 18]] · [[Job 19 - Study Guide|Study guide]] · [[Job 19 - My Notes|My notes]] · [[Job]] · [[Job 20|Job 20 →]]
+[[Job 18|← Job 18]] · [[Job 19 (Annotated)|Annotated]] · [[Job 19 - Study Guide|Study guide]] · [[Job 19 - My Notes|My notes]] · [[Job]] · [[Job 20|Job 20 →]]

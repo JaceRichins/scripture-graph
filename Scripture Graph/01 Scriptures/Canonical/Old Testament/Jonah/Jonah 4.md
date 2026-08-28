@@ -36,4 +36,4 @@ cssclasses:
 **11** And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle? ^jonah-4-11
 
 ---
-[[Jonah 3|← Jonah 3]] · [[Jonah 4 - Study Guide|Study guide]] · [[Jonah 4 - My Notes|My notes]] · [[Jonah]]
+[[Jonah 3|← Jonah 3]] · [[Jonah 4 (Annotated)|Annotated]] · [[Jonah 4 - Study Guide|Study guide]] · [[Jonah 4 - My Notes|My notes]] · [[Jonah]]

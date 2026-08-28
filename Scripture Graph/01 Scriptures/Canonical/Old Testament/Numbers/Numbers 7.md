@@ -192,4 +192,4 @@ cssclasses:
 **89** And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him. ^num-7-89
 
 ---
-[[Numbers 6|← Numbers 6]] · [[Numbers 7 - Study Guide|Study guide]] · [[Numbers 7 - My Notes|My notes]] · [[Numbers]] · [[Numbers 8|Numbers 8 →]]
+[[Numbers 6|← Numbers 6]] · [[Numbers 7 (Annotated)|Annotated]] · [[Numbers 7 - Study Guide|Study guide]] · [[Numbers 7 - My Notes|My notes]] · [[Numbers]] · [[Numbers 8|Numbers 8 →]]

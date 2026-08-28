@@ -66,4 +66,4 @@ cssclasses:
 **26** For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit. ^eccl-2-26
 
 ---
-[[Ecclesiastes 1|← Ecclesiastes 1]] · [[Ecclesiastes 2 - Study Guide|Study guide]] · [[Ecclesiastes 2 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 3|Ecclesiastes 3 →]]
+[[Ecclesiastes 1|← Ecclesiastes 1]] · [[Ecclesiastes 2 (Annotated)|Annotated]] · [[Ecclesiastes 2 - Study Guide|Study guide]] · [[Ecclesiastes 2 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 3|Ecclesiastes 3 →]]

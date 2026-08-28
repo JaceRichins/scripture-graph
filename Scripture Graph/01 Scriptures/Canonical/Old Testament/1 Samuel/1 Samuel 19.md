@@ -62,4 +62,4 @@ cssclasses:
 **24** And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets? ^1sam-19-24
 
 ---
-[[1 Samuel 18|← 1 Samuel 18]] · [[1 Samuel 19 - Study Guide|Study guide]] · [[1 Samuel 19 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 20|1 Samuel 20 →]]
+[[1 Samuel 18|← 1 Samuel 18]] · [[1 Samuel 19 (Annotated)|Annotated]] · [[1 Samuel 19 - Study Guide|Study guide]] · [[1 Samuel 19 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 20|1 Samuel 20 →]]

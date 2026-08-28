@@ -72,4 +72,4 @@ cssclasses:
 **29** And all the days of Noah were nine hundred and fifty years: and he died. ^gen-9-29
 
 ---
-[[Genesis 8|← Genesis 8]] · [[Genesis 9 - Study Guide|Study guide]] · [[Genesis 9 - My Notes|My notes]] · [[Genesis]] · [[Genesis 10|Genesis 10 →]]
+[[Genesis 8|← Genesis 8]] · [[Genesis 9 (Annotated)|Annotated]] · [[Genesis 9 - Study Guide|Study guide]] · [[Genesis 9 - My Notes|My notes]] · [[Genesis]] · [[Genesis 10|Genesis 10 →]]

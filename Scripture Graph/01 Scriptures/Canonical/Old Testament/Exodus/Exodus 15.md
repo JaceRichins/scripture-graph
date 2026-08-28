@@ -68,4 +68,4 @@ cssclasses:
 **27** And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters. ^ex-15-27
 
 ---
-[[Exodus 14|← Exodus 14]] · [[Exodus 15 - Study Guide|Study guide]] · [[Exodus 15 - My Notes|My notes]] · [[Exodus]] · [[Exodus 16|Exodus 16 →]]
+[[Exodus 14|← Exodus 14]] · [[Exodus 15 (Annotated)|Annotated]] · [[Exodus 15 - Study Guide|Study guide]] · [[Exodus 15 - My Notes|My notes]] · [[Exodus]] · [[Exodus 16|Exodus 16 →]]

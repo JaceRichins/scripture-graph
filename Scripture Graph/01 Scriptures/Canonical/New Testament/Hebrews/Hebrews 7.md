@@ -70,4 +70,4 @@ cssclasses:
 **28** For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore. ^heb-7-28
 
 ---
-[[Hebrews 6|← Hebrews 6]] · [[Hebrews 7 - Study Guide|Study guide]] · [[Hebrews 7 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 8|Hebrews 8 →]]
+[[Hebrews 6|← Hebrews 6]] · [[Hebrews 7 (Annotated)|Annotated]] · [[Hebrews 7 - Study Guide|Study guide]] · [[Hebrews 7 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 8|Hebrews 8 →]]

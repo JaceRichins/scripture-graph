@@ -40,4 +40,4 @@ cssclasses:
 **13** The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them. ^micah-2-13
 
 ---
-[[Micah 1|← Micah 1]] · [[Micah 2 - Study Guide|Study guide]] · [[Micah 2 - My Notes|My notes]] · [[Micah]] · [[Micah 3|Micah 3 →]]
+[[Micah 1|← Micah 1]] · [[Micah 2 (Annotated)|Annotated]] · [[Micah 2 - Study Guide|Study guide]] · [[Micah 2 - My Notes|My notes]] · [[Micah]] · [[Micah 3|Micah 3 →]]

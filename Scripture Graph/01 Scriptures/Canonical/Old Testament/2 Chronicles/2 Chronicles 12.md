@@ -46,4 +46,4 @@ cssclasses:
 **16** And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead. ^2chr-12-16
 
 ---
-[[2 Chronicles 11|← 2 Chronicles 11]] · [[2 Chronicles 12 - Study Guide|Study guide]] · [[2 Chronicles 12 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 13|2 Chronicles 13 →]]
+[[2 Chronicles 11|← 2 Chronicles 11]] · [[2 Chronicles 12 (Annotated)|Annotated]] · [[2 Chronicles 12 - Study Guide|Study guide]] · [[2 Chronicles 12 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 13|2 Chronicles 13 →]]

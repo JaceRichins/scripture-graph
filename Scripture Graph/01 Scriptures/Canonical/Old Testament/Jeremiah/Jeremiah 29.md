@@ -78,4 +78,4 @@ cssclasses:
 **32** Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD. ^jer-29-32
 
 ---
-[[Jeremiah 28|← Jeremiah 28]] · [[Jeremiah 29 - Study Guide|Study guide]] · [[Jeremiah 29 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 30|Jeremiah 30 →]]
+[[Jeremiah 28|← Jeremiah 28]] · [[Jeremiah 29 (Annotated)|Annotated]] · [[Jeremiah 29 - Study Guide|Study guide]] · [[Jeremiah 29 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 30|Jeremiah 30 →]]

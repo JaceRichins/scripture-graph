@@ -64,4 +64,4 @@ cssclasses:
 **25** Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate. ^jer-10-25
 
 ---
-[[Jeremiah 9|← Jeremiah 9]] · [[Jeremiah 10 - Study Guide|Study guide]] · [[Jeremiah 10 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 11|Jeremiah 11 →]]
+[[Jeremiah 9|← Jeremiah 9]] · [[Jeremiah 10 (Annotated)|Annotated]] · [[Jeremiah 10 - Study Guide|Study guide]] · [[Jeremiah 10 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 11|Jeremiah 11 →]]

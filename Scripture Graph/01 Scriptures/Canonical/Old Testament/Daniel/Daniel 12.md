@@ -40,4 +40,4 @@ cssclasses:
 **13** But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days. ^dan-12-13
 
 ---
-[[Daniel 11|← Daniel 11]] · [[Daniel 12 - Study Guide|Study guide]] · [[Daniel 12 - My Notes|My notes]] · [[Daniel]]
+[[Daniel 11|← Daniel 11]] · [[Daniel 12 (Annotated)|Annotated]] · [[Daniel 12 - Study Guide|Study guide]] · [[Daniel 12 - My Notes|My notes]] · [[Daniel]]

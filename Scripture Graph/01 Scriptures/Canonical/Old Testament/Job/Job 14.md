@@ -58,4 +58,4 @@ cssclasses:
 **22** But his flesh upon him shall have pain, and his soul within him shall mourn. ^job-14-22
 
 ---
-[[Job 13|← Job 13]] · [[Job 14 - Study Guide|Study guide]] · [[Job 14 - My Notes|My notes]] · [[Job]] · [[Job 15|Job 15 →]]
+[[Job 13|← Job 13]] · [[Job 14 (Annotated)|Annotated]] · [[Job 14 - Study Guide|Study guide]] · [[Job 14 - My Notes|My notes]] · [[Job]] · [[Job 15|Job 15 →]]

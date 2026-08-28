@@ -70,4 +70,4 @@ cssclasses:
 **28** And he, as a rotten thing, consumeth, as a garment that is moth eaten. ^job-13-28
 
 ---
-[[Job 12|← Job 12]] · [[Job 13 - Study Guide|Study guide]] · [[Job 13 - My Notes|My notes]] · [[Job]] · [[Job 14|Job 14 →]]
+[[Job 12|← Job 12]] · [[Job 13 (Annotated)|Annotated]] · [[Job 13 - Study Guide|Study guide]] · [[Job 13 - My Notes|My notes]] · [[Job]] · [[Job 14|Job 14 →]]

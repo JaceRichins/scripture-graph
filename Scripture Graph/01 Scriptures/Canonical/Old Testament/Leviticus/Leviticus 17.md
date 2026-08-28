@@ -46,4 +46,4 @@ cssclasses:
 **16** But if he wash them not, nor bathe his flesh; then he shall bear his iniquity. ^lev-17-16
 
 ---
-[[Leviticus 16|← Leviticus 16]] · [[Leviticus 17 - Study Guide|Study guide]] · [[Leviticus 17 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 18|Leviticus 18 →]]
+[[Leviticus 16|← Leviticus 16]] · [[Leviticus 17 (Annotated)|Annotated]] · [[Leviticus 17 - Study Guide|Study guide]] · [[Leviticus 17 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 18|Leviticus 18 →]]

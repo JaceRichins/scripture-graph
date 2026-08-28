@@ -68,4 +68,4 @@ cssclasses:
 **27** But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound. ^acts-24-27
 
 ---
-[[Acts 23|← Acts 23]] · [[Acts 24 - Study Guide|Study guide]] · [[Acts 24 - My Notes|My notes]] · [[Acts]] · [[Acts 25|Acts 25 →]]
+[[Acts 23|← Acts 23]] · [[Acts 24 (Annotated)|Annotated]] · [[Acts 24 - Study Guide|Study guide]] · [[Acts 24 - My Notes|My notes]] · [[Acts]] · [[Acts 25|Acts 25 →]]

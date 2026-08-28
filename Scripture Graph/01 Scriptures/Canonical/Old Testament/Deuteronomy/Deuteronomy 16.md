@@ -58,4 +58,4 @@ cssclasses:
 **22** Neither shalt thou set thee up any image; which the LORD thy God hateth. ^deut-16-22
 
 ---
-[[Deuteronomy 15|← Deuteronomy 15]] · [[Deuteronomy 16 - Study Guide|Study guide]] · [[Deuteronomy 16 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 17|Deuteronomy 17 →]]
+[[Deuteronomy 15|← Deuteronomy 15]] · [[Deuteronomy 16 (Annotated)|Annotated]] · [[Deuteronomy 16 - Study Guide|Study guide]] · [[Deuteronomy 16 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 17|Deuteronomy 17 →]]

@@ -44,4 +44,4 @@ cssclasses:
 **15** These things speak, and exhort, and rebuke with all authority. Let no man despise thee. ^titus-2-15
 
 ---
-[[Titus 1|← Titus 1]] · [[Titus 2 - Study Guide|Study guide]] · [[Titus 2 - My Notes|My notes]] · [[Titus]] · [[Titus 3|Titus 3 →]]
+[[Titus 1|← Titus 1]] · [[Titus 2 (Annotated)|Annotated]] · [[Titus 2 - Study Guide|Study guide]] · [[Titus 2 - My Notes|My notes]] · [[Titus]] · [[Titus 3|Titus 3 →]]

@@ -68,4 +68,4 @@ cssclasses:
 **27** Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land. ^2kgs-3-27
 
 ---
-[[2 Kings 2|← 2 Kings 2]] · [[2 Kings 3 - Study Guide|Study guide]] · [[2 Kings 3 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 4|2 Kings 4 →]]
+[[2 Kings 2|← 2 Kings 2]] · [[2 Kings 3 (Annotated)|Annotated]] · [[2 Kings 3 - Study Guide|Study guide]] · [[2 Kings 3 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 4|2 Kings 4 →]]

@@ -54,4 +54,4 @@ cssclasses:
 **20** The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of God. ^3ne-16-20
 
 ---
-[[3 Nephi 15|← 3 Nephi 15]] · [[3 Nephi 16 - Study Guide|Study guide]] · [[3 Nephi 16 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 17|3 Nephi 17 →]]
+[[3 Nephi 15|← 3 Nephi 15]] · [[3 Nephi 16 (Annotated)|Annotated]] · [[3 Nephi 16 - Study Guide|Study guide]] · [[3 Nephi 16 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 17|3 Nephi 17 →]]

@@ -90,4 +90,4 @@ cssclasses:
 **38** And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it. ^1kgs-6-38
 
 ---
-[[1 Kings 5|← 1 Kings 5]] · [[1 Kings 6 - Study Guide|Study guide]] · [[1 Kings 6 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 7|1 Kings 7 →]]
+[[1 Kings 5|← 1 Kings 5]] · [[1 Kings 6 (Annotated)|Annotated]] · [[1 Kings 6 - Study Guide|Study guide]] · [[1 Kings 6 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 7|1 Kings 7 →]]

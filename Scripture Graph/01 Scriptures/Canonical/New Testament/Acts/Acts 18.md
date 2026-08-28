@@ -70,4 +70,4 @@ cssclasses:
 **28** For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ. ^acts-18-28
 
 ---
-[[Acts 17|← Acts 17]] · [[Acts 18 - Study Guide|Study guide]] · [[Acts 18 - My Notes|My notes]] · [[Acts]] · [[Acts 19|Acts 19 →]]
+[[Acts 17|← Acts 17]] · [[Acts 18 (Annotated)|Annotated]] · [[Acts 18 - Study Guide|Study guide]] · [[Acts 18 - My Notes|My notes]] · [[Acts]] · [[Acts 19|Acts 19 →]]

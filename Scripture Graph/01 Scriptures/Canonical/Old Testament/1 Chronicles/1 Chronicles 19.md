@@ -52,4 +52,4 @@ cssclasses:
 **19** And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more. ^1chr-19-19
 
 ---
-[[1 Chronicles 18|← 1 Chronicles 18]] · [[1 Chronicles 19 - Study Guide|Study guide]] · [[1 Chronicles 19 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 20|1 Chronicles 20 →]]
+[[1 Chronicles 18|← 1 Chronicles 18]] · [[1 Chronicles 19 (Annotated)|Annotated]] · [[1 Chronicles 19 - Study Guide|Study guide]] · [[1 Chronicles 19 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 20|1 Chronicles 20 →]]

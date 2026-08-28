@@ -52,4 +52,4 @@ cssclasses:
 **19** And thus ended the tenth year of the reign of the judges over the people of Nephi. ^alma-15-19
 
 ---
-[[Alma 14|← Alma 14]] · [[Alma 15 - Study Guide|Study guide]] · [[Alma 15 - My Notes|My notes]] · [[Alma]] · [[Alma 16|Alma 16 →]]
+[[Alma 14|← Alma 14]] · [[Alma 15 (Annotated)|Annotated]] · [[Alma 15 - Study Guide|Study guide]] · [[Alma 15 - My Notes|My notes]] · [[Alma]] · [[Alma 16|Alma 16 →]]

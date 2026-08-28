@@ -74,4 +74,4 @@ cssclasses:
 **30** Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by. ^1sam-18-30
 
 ---
-[[1 Samuel 17|← 1 Samuel 17]] · [[1 Samuel 18 - Study Guide|Study guide]] · [[1 Samuel 18 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 19|1 Samuel 19 →]]
+[[1 Samuel 17|← 1 Samuel 17]] · [[1 Samuel 18 (Annotated)|Annotated]] · [[1 Samuel 18 - Study Guide|Study guide]] · [[1 Samuel 18 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 19|1 Samuel 19 →]]

@@ -96,4 +96,4 @@ cssclasses:
 **41** And now, I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of them, may be and abide in you forever. Amen. ^ether-12-41
 
 ---
-[[Ether 11|← Ether 11]] · [[Ether 12 - Study Guide|Study guide]] · [[Ether 12 - My Notes|My notes]] · [[Ether]] · [[Ether 13|Ether 13 →]]
+[[Ether 11|← Ether 11]] · [[Ether 12 (Annotated)|Annotated]] · [[Ether 12 - Study Guide|Study guide]] · [[Ether 12 - My Notes|My notes]] · [[Ether]] · [[Ether 13|Ether 13 →]]

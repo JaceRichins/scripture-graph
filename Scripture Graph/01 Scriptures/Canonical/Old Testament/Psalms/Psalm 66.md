@@ -56,4 +56,4 @@ aliases:
 **20** Blessed be God, which hath not turned away my prayer, nor his mercy from me. ^ps-66-20
 
 ---
-[[Psalm 65|← Psalm 65]] · [[Psalm 66 - Study Guide|Study guide]] · [[Psalm 66 - My Notes|My notes]] · [[Psalms]] · [[Psalm 67|Psalm 67 →]]
+[[Psalm 65|← Psalm 65]] · [[Psalm 66 (Annotated)|Annotated]] · [[Psalm 66 - Study Guide|Study guide]] · [[Psalm 66 - My Notes|My notes]] · [[Psalms]] · [[Psalm 67|Psalm 67 →]]

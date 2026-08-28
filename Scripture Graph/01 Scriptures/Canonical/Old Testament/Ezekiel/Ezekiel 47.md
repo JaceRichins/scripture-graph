@@ -60,4 +60,4 @@ cssclasses:
 **23** And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord GOD. ^ezek-47-23
 
 ---
-[[Ezekiel 46|← Ezekiel 46]] · [[Ezekiel 47 - Study Guide|Study guide]] · [[Ezekiel 47 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 48|Ezekiel 48 →]]
+[[Ezekiel 46|← Ezekiel 46]] · [[Ezekiel 47 (Annotated)|Annotated]] · [[Ezekiel 47 - Study Guide|Study guide]] · [[Ezekiel 47 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 48|Ezekiel 48 →]]

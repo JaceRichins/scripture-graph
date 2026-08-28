@@ -88,4 +88,4 @@ cssclasses:
 **37** Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. ^dan-4-37
 
 ---
-[[Daniel 3|← Daniel 3]] · [[Daniel 4 - Study Guide|Study guide]] · [[Daniel 4 - My Notes|My notes]] · [[Daniel]] · [[Daniel 5|Daniel 5 →]]
+[[Daniel 3|← Daniel 3]] · [[Daniel 4 (Annotated)|Annotated]] · [[Daniel 4 - Study Guide|Study guide]] · [[Daniel 4 - My Notes|My notes]] · [[Daniel]] · [[Daniel 5|Daniel 5 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel. ^num-20-29
 
 ---
-[[Numbers 19|← Numbers 19]] · [[Numbers 20 - Study Guide|Study guide]] · [[Numbers 20 - My Notes|My notes]] · [[Numbers]] · [[Numbers 21|Numbers 21 →]]
+[[Numbers 19|← Numbers 19]] · [[Numbers 20 (Annotated)|Annotated]] · [[Numbers 20 - Study Guide|Study guide]] · [[Numbers 20 - My Notes|My notes]] · [[Numbers]] · [[Numbers 21|Numbers 21 →]]

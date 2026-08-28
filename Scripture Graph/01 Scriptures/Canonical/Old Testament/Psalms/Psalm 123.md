@@ -24,4 +24,4 @@ aliases:
 **4** Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud. ^ps-123-4
 
 ---
-[[Psalm 122|← Psalm 122]] · [[Psalm 123 - Study Guide|Study guide]] · [[Psalm 123 - My Notes|My notes]] · [[Psalms]] · [[Psalm 124|Psalm 124 →]]
+[[Psalm 122|← Psalm 122]] · [[Psalm 123 (Annotated)|Annotated]] · [[Psalm 123 - Study Guide|Study guide]] · [[Psalm 123 - My Notes|My notes]] · [[Psalms]] · [[Psalm 124|Psalm 124 →]]

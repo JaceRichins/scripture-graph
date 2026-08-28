@@ -96,4 +96,4 @@ cssclasses:
 **41** I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God. ^num-15-41
 
 ---
-[[Numbers 14|← Numbers 14]] · [[Numbers 15 - Study Guide|Study guide]] · [[Numbers 15 - My Notes|My notes]] · [[Numbers]] · [[Numbers 16|Numbers 16 →]]
+[[Numbers 14|← Numbers 14]] · [[Numbers 15 (Annotated)|Annotated]] · [[Numbers 15 - Study Guide|Study guide]] · [[Numbers 15 - My Notes|My notes]] · [[Numbers]] · [[Numbers 16|Numbers 16 →]]

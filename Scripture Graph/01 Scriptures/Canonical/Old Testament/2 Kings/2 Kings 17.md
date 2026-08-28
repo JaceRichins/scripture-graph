@@ -96,4 +96,4 @@ cssclasses:
 **41** So these nations feared the LORD, and served their graven images, both their children, and their children's children: as did their fathers, so do they unto this day. ^2kgs-17-41
 
 ---
-[[2 Kings 16|← 2 Kings 16]] · [[2 Kings 17 - Study Guide|Study guide]] · [[2 Kings 17 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 18|2 Kings 18 →]]
+[[2 Kings 16|← 2 Kings 16]] · [[2 Kings 17 (Annotated)|Annotated]] · [[2 Kings 17 - Study Guide|Study guide]] · [[2 Kings 17 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 18|2 Kings 18 →]]

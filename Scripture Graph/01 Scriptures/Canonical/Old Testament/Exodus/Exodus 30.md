@@ -90,4 +90,4 @@ cssclasses:
 **38** Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people. ^ex-30-38
 
 ---
-[[Exodus 29|← Exodus 29]] · [[Exodus 30 - Study Guide|Study guide]] · [[Exodus 30 - My Notes|My notes]] · [[Exodus]] · [[Exodus 31|Exodus 31 →]]
+[[Exodus 29|← Exodus 29]] · [[Exodus 30 (Annotated)|Annotated]] · [[Exodus 30 - Study Guide|Study guide]] · [[Exodus 30 - My Notes|My notes]] · [[Exodus]] · [[Exodus 31|Exodus 31 →]]

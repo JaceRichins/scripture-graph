@@ -26,4 +26,4 @@ aliases:
 **5** But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying. ^ps-70-5
 
 ---
-[[Psalm 69|← Psalm 69]] · [[Psalm 70 - Study Guide|Study guide]] · [[Psalm 70 - My Notes|My notes]] · [[Psalms]] · [[Psalm 71|Psalm 71 →]]
+[[Psalm 69|← Psalm 69]] · [[Psalm 70 (Annotated)|Annotated]] · [[Psalm 70 - Study Guide|Study guide]] · [[Psalm 70 - My Notes|My notes]] · [[Psalms]] · [[Psalm 71|Psalm 71 →]]

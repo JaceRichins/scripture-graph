@@ -54,4 +54,4 @@ cssclasses:
 **20** And now, when Abinadi had said these words, he fell, having suffered death by fire; yea, having been put to death because he would not deny the commandments of God, having sealed the truth of his words by his death. ^mosiah-17-20
 
 ---
-[[Mosiah 16|← Mosiah 16]] · [[Mosiah 17 - Study Guide|Study guide]] · [[Mosiah 17 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 18|Mosiah 18 →]]
+[[Mosiah 16|← Mosiah 16]] · [[Mosiah 17 (Annotated)|Annotated]] · [[Mosiah 17 - Study Guide|Study guide]] · [[Mosiah 17 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 18|Mosiah 18 →]]

@@ -52,4 +52,4 @@ cssclasses:
 **19** Is it not as easy at this time for the Lord to send his angel to declare these glad tidings unto us as unto our children, or as after the time of his coming? ^alma-39-19
 
 ---
-[[Alma 38|← Alma 38]] · [[Alma 39 - Study Guide|Study guide]] · [[Alma 39 - My Notes|My notes]] · [[Alma]] · [[Alma 40|Alma 40 →]]
+[[Alma 38|← Alma 38]] · [[Alma 39 (Annotated)|Annotated]] · [[Alma 39 - Study Guide|Study guide]] · [[Alma 39 - My Notes|My notes]] · [[Alma]] · [[Alma 40|Alma 40 →]]

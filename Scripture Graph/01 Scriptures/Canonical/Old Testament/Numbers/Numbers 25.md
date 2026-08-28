@@ -50,4 +50,4 @@ cssclasses:
 **18** For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor's sake. ^num-25-18
 
 ---
-[[Numbers 24|← Numbers 24]] · [[Numbers 25 - Study Guide|Study guide]] · [[Numbers 25 - My Notes|My notes]] · [[Numbers]] · [[Numbers 26|Numbers 26 →]]
+[[Numbers 24|← Numbers 24]] · [[Numbers 25 (Annotated)|Annotated]] · [[Numbers 25 - Study Guide|Study guide]] · [[Numbers 25 - My Notes|My notes]] · [[Numbers]] · [[Numbers 26|Numbers 26 →]]

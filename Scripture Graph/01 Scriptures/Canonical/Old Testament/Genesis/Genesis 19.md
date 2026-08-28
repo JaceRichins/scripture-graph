@@ -90,4 +90,4 @@ cssclasses:
 **38** And the younger, she also bare a son, and called his name Ben-ammi: the same is the father of the children of Ammon unto this day. ^gen-19-38
 
 ---
-[[Genesis 18|← Genesis 18]] · [[Genesis 19 - Study Guide|Study guide]] · [[Genesis 19 - My Notes|My notes]] · [[Genesis]] · [[Genesis 20|Genesis 20 →]]
+[[Genesis 18|← Genesis 18]] · [[Genesis 19 (Annotated)|Annotated]] · [[Genesis 19 - Study Guide|Study guide]] · [[Genesis 19 - My Notes|My notes]] · [[Genesis]] · [[Genesis 20|Genesis 20 →]]

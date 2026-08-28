@@ -106,4 +106,4 @@ cssclasses:
 **46** These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses. ^lev-26-46
 
 ---
-[[Leviticus 25|← Leviticus 25]] · [[Leviticus 26 - Study Guide|Study guide]] · [[Leviticus 26 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 27|Leviticus 27 →]]
+[[Leviticus 25|← Leviticus 25]] · [[Leviticus 26 (Annotated)|Annotated]] · [[Leviticus 26 - Study Guide|Study guide]] · [[Leviticus 26 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 27|Leviticus 27 →]]

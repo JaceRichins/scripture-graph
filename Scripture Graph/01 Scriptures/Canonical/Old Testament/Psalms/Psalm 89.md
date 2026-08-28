@@ -120,4 +120,4 @@ aliases:
 **52** Blessed be the LORD for evermore. Amen, and Amen. ^ps-89-52
 
 ---
-[[Psalm 88|← Psalm 88]] · [[Psalm 89 - Study Guide|Study guide]] · [[Psalm 89 - My Notes|My notes]] · [[Psalms]] · [[Psalm 90|Psalm 90 →]]
+[[Psalm 88|← Psalm 88]] · [[Psalm 89 (Annotated)|Annotated]] · [[Psalm 89 - Study Guide|Study guide]] · [[Psalm 89 - My Notes|My notes]] · [[Psalms]] · [[Psalm 90|Psalm 90 →]]

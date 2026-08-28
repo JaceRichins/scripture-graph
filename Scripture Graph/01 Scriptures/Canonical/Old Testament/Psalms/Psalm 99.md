@@ -34,4 +34,4 @@ aliases:
 **9** Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy. ^ps-99-9
 
 ---
-[[Psalm 98|← Psalm 98]] · [[Psalm 99 - Study Guide|Study guide]] · [[Psalm 99 - My Notes|My notes]] · [[Psalms]] · [[Psalm 100|Psalm 100 →]]
+[[Psalm 98|← Psalm 98]] · [[Psalm 99 (Annotated)|Annotated]] · [[Psalm 99 - Study Guide|Study guide]] · [[Psalm 99 - My Notes|My notes]] · [[Psalms]] · [[Psalm 100|Psalm 100 →]]

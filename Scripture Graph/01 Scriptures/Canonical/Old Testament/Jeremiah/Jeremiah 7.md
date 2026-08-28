@@ -82,4 +82,4 @@ cssclasses:
 **34** Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate. ^jer-7-34
 
 ---
-[[Jeremiah 6|← Jeremiah 6]] · [[Jeremiah 7 - Study Guide|Study guide]] · [[Jeremiah 7 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 8|Jeremiah 8 →]]
+[[Jeremiah 6|← Jeremiah 6]] · [[Jeremiah 7 (Annotated)|Annotated]] · [[Jeremiah 7 - Study Guide|Study guide]] · [[Jeremiah 7 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 8|Jeremiah 8 →]]

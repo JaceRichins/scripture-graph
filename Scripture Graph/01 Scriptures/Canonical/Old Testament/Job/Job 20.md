@@ -72,4 +72,4 @@ cssclasses:
 **29** This is the portion of a wicked man from God, and the heritage appointed unto him by God. ^job-20-29
 
 ---
-[[Job 19|← Job 19]] · [[Job 20 - Study Guide|Study guide]] · [[Job 20 - My Notes|My notes]] · [[Job]] · [[Job 21|Job 21 →]]
+[[Job 19|← Job 19]] · [[Job 20 (Annotated)|Annotated]] · [[Job 20 - Study Guide|Study guide]] · [[Job 20 - My Notes|My notes]] · [[Job]] · [[Job 21|Job 21 →]]

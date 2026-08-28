@@ -80,4 +80,4 @@ cssclasses:
 **33** And their hearts were swollen with joy, unto the gushing out of many tears, because of the great goodness of God in delivering them out of the hands of their enemies; and they knew it was because of their repentance and their humility that they had been delivered from an everlasting destruction. ^3ne-4-33
 
 ---
-[[3 Nephi 3|← 3 Nephi 3]] · [[3 Nephi 4 - Study Guide|Study guide]] · [[3 Nephi 4 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 5|3 Nephi 5 →]]
+[[3 Nephi 3|← 3 Nephi 3]] · [[3 Nephi 4 (Annotated)|Annotated]] · [[3 Nephi 4 - Study Guide|Study guide]] · [[3 Nephi 4 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 5|3 Nephi 5 →]]

@@ -30,4 +30,4 @@ aliases:
 **7** As well the singers as the players on instruments shall be there: all my springs are in thee. ^ps-87-7
 
 ---
-[[Psalm 86|← Psalm 86]] · [[Psalm 87 - Study Guide|Study guide]] · [[Psalm 87 - My Notes|My notes]] · [[Psalms]] · [[Psalm 88|Psalm 88 →]]
+[[Psalm 86|← Psalm 86]] · [[Psalm 87 (Annotated)|Annotated]] · [[Psalm 87 - Study Guide|Study guide]] · [[Psalm 87 - My Notes|My notes]] · [[Psalms]] · [[Psalm 88|Psalm 88 →]]

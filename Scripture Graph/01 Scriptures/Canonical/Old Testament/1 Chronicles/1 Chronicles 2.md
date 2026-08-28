@@ -124,4 +124,4 @@ cssclasses:
 **55** And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab. ^1chr-2-55
 
 ---
-[[1 Chronicles 1|← 1 Chronicles 1]] · [[1 Chronicles 2 - Study Guide|Study guide]] · [[1 Chronicles 2 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 3|1 Chronicles 3 →]]
+[[1 Chronicles 1|← 1 Chronicles 1]] · [[1 Chronicles 2 (Annotated)|Annotated]] · [[1 Chronicles 2 - Study Guide|Study guide]] · [[1 Chronicles 2 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 3|1 Chronicles 3 →]]

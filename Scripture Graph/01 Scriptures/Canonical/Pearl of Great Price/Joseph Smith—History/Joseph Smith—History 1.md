@@ -164,4 +164,4 @@ cssclasses:
 **75** We had been threatened with being mobbed, from time to time, and this, too, by professors of religion. And their intentions of mobbing us were only counteracted by the influence of my wife's father's family (under Divine providence), who had become very friendly to me, and who were opposed to mobs, and were willing that I should be allowed to continue the work of translation without interruption; and therefore offered and promised us protection from all unlawful proceedings, as far as in them lay. ^jsh-1-75
 
 ---
-[[Joseph Smith—History 1 - Study Guide|Study guide]] · [[Joseph Smith—History 1 - My Notes|My notes]] · [[Joseph Smith—History]]
+[[Joseph Smith—History 1 (Annotated)|Annotated]] · [[Joseph Smith—History 1 - Study Guide|Study guide]] · [[Joseph Smith—History 1 - My Notes|My notes]] · [[Joseph Smith—History]]

@@ -34,4 +34,4 @@ aliases:
 **9** Because of the house of the LORD our God I will seek thy good. ^ps-122-9
 
 ---
-[[Psalm 121|← Psalm 121]] · [[Psalm 122 - Study Guide|Study guide]] · [[Psalm 122 - My Notes|My notes]] · [[Psalms]] · [[Psalm 123|Psalm 123 →]]
+[[Psalm 121|← Psalm 121]] · [[Psalm 122 (Annotated)|Annotated]] · [[Psalm 122 - Study Guide|Study guide]] · [[Psalm 122 - My Notes|My notes]] · [[Psalms]] · [[Psalm 123|Psalm 123 →]]

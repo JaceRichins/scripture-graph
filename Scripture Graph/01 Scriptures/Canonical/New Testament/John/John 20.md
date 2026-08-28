@@ -76,4 +76,4 @@ cssclasses:
 **31** But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name. ^john-20-31
 
 ---
-[[John 19|← John 19]] · [[John 20 - Study Guide|Study guide]] · [[John 20 - My Notes|My notes]] · [[John]] · [[John 21|John 21 →]]
+[[John 19|← John 19]] · [[John 20 (Annotated)|Annotated]] · [[John 20 - Study Guide|Study guide]] · [[John 20 - My Notes|My notes]] · [[John]] · [[John 21|John 21 →]]

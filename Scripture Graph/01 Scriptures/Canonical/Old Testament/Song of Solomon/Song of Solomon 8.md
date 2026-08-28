@@ -42,4 +42,4 @@ cssclasses:
 **14** Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices. ^song-8-14
 
 ---
-[[Song of Solomon 7|← Song of Solomon 7]] · [[Song of Solomon 8 - Study Guide|Study guide]] · [[Song of Solomon 8 - My Notes|My notes]] · [[Song of Solomon]]
+[[Song of Solomon 7|← Song of Solomon 7]] · [[Song of Solomon 8 (Annotated)|Annotated]] · [[Song of Solomon 8 - Study Guide|Study guide]] · [[Song of Solomon 8 - My Notes|My notes]] · [[Song of Solomon]]

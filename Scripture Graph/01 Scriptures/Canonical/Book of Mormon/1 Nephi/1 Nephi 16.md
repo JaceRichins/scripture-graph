@@ -92,4 +92,4 @@ cssclasses:
 **39** And it came to pass that the Lord was with us, yea, even the voice of the Lord came and did speak many words unto them, and did chasten them exceedingly; and after they were chastened by the voice of the Lord they did turn away their anger, and did repent of their sins, insomuch that the Lord did bless us again with food, that we did not perish. ^1ne-16-39
 
 ---
-[[1 Nephi 15|← 1 Nephi 15]] · [[1 Nephi 16 - Study Guide|Study guide]] · [[1 Nephi 16 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 17|1 Nephi 17 →]]
+[[1 Nephi 15|← 1 Nephi 15]] · [[1 Nephi 16 (Annotated)|Annotated]] · [[1 Nephi 16 - Study Guide|Study guide]] · [[1 Nephi 16 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 17|1 Nephi 17 →]]

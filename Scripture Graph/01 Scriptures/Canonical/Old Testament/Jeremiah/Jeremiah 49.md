@@ -92,4 +92,4 @@ cssclasses:
 **39** But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD. ^jer-49-39
 
 ---
-[[Jeremiah 48|← Jeremiah 48]] · [[Jeremiah 49 - Study Guide|Study guide]] · [[Jeremiah 49 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 50|Jeremiah 50 →]]
+[[Jeremiah 48|← Jeremiah 48]] · [[Jeremiah 49 (Annotated)|Annotated]] · [[Jeremiah 49 - Study Guide|Study guide]] · [[Jeremiah 49 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 50|Jeremiah 50 →]]

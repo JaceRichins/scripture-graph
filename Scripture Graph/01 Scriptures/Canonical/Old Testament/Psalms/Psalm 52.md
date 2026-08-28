@@ -34,4 +34,4 @@ aliases:
 **9** I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints. ^ps-52-9
 
 ---
-[[Psalm 51|← Psalm 51]] · [[Psalm 52 - Study Guide|Study guide]] · [[Psalm 52 - My Notes|My notes]] · [[Psalms]] · [[Psalm 53|Psalm 53 →]]
+[[Psalm 51|← Psalm 51]] · [[Psalm 52 (Annotated)|Annotated]] · [[Psalm 52 - Study Guide|Study guide]] · [[Psalm 52 - My Notes|My notes]] · [[Psalms]] · [[Psalm 53|Psalm 53 →]]

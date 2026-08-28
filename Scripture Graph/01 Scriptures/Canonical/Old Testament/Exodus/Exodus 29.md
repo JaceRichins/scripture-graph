@@ -106,4 +106,4 @@ cssclasses:
 **46** And they shall know that I am the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them: I am the LORD their God. ^ex-29-46
 
 ---
-[[Exodus 28|← Exodus 28]] · [[Exodus 29 - Study Guide|Study guide]] · [[Exodus 29 - My Notes|My notes]] · [[Exodus]] · [[Exodus 30|Exodus 30 →]]
+[[Exodus 28|← Exodus 28]] · [[Exodus 29 (Annotated)|Annotated]] · [[Exodus 29 - Study Guide|Study guide]] · [[Exodus 29 - My Notes|My notes]] · [[Exodus]] · [[Exodus 30|Exodus 30 →]]

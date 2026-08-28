@@ -24,4 +24,4 @@ cssclasses:
 **5** And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest. ^jer-45-5
 
 ---
-[[Jeremiah 44|← Jeremiah 44]] · [[Jeremiah 45 - Study Guide|Study guide]] · [[Jeremiah 45 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 46|Jeremiah 46 →]]
+[[Jeremiah 44|← Jeremiah 44]] · [[Jeremiah 45 (Annotated)|Annotated]] · [[Jeremiah 45 - Study Guide|Study guide]] · [[Jeremiah 45 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 46|Jeremiah 46 →]]

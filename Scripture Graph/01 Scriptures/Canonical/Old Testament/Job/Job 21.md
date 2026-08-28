@@ -82,4 +82,4 @@ cssclasses:
 **34** How then comfort ye me in vain, seeing in your answers there remaineth falsehood? ^job-21-34
 
 ---
-[[Job 20|← Job 20]] · [[Job 21 - Study Guide|Study guide]] · [[Job 21 - My Notes|My notes]] · [[Job]] · [[Job 22|Job 22 →]]
+[[Job 20|← Job 20]] · [[Job 21 (Annotated)|Annotated]] · [[Job 21 - Study Guide|Study guide]] · [[Job 21 - My Notes|My notes]] · [[Job]] · [[Job 22|Job 22 →]]

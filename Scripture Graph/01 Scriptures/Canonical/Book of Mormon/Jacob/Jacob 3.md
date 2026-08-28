@@ -42,4 +42,4 @@ cssclasses:
 **14** These plates are called the plates of Jacob, and they were made by the hand of Nephi. And I make an end of speaking these words. ^jacob-3-14
 
 ---
-[[Jacob 2|← Jacob 2]] · [[Jacob 3 - Study Guide|Study guide]] · [[Jacob 3 - My Notes|My notes]] · [[Jacob]] · [[Jacob 4|Jacob 4 →]]
+[[Jacob 2|← Jacob 2]] · [[Jacob 3 (Annotated)|Annotated]] · [[Jacob 3 - Study Guide|Study guide]] · [[Jacob 3 - My Notes|My notes]] · [[Jacob]] · [[Jacob 4|Jacob 4 →]]

@@ -140,4 +140,4 @@ cssclasses:
 **63** That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD. ^ezek-16-63
 
 ---
-[[Ezekiel 15|← Ezekiel 15]] · [[Ezekiel 16 - Study Guide|Study guide]] · [[Ezekiel 16 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 17|Ezekiel 17 →]]
+[[Ezekiel 15|← Ezekiel 15]] · [[Ezekiel 16 (Annotated)|Annotated]] · [[Ezekiel 16 - Study Guide|Study guide]] · [[Ezekiel 16 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 17|Ezekiel 17 →]]

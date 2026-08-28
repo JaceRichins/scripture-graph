@@ -60,4 +60,4 @@ cssclasses:
 **23** Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water. ^deut-15-23
 
 ---
-[[Deuteronomy 14|← Deuteronomy 14]] · [[Deuteronomy 15 - Study Guide|Study guide]] · [[Deuteronomy 15 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 16|Deuteronomy 16 →]]
+[[Deuteronomy 14|← Deuteronomy 14]] · [[Deuteronomy 15 (Annotated)|Annotated]] · [[Deuteronomy 15 - Study Guide|Study guide]] · [[Deuteronomy 15 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 16|Deuteronomy 16 →]]

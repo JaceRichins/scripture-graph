@@ -68,4 +68,4 @@ cssclasses:
 **27** Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name is The God of hosts. ^amos-5-27
 
 ---
-[[Amos 4|← Amos 4]] · [[Amos 5 - Study Guide|Study guide]] · [[Amos 5 - My Notes|My notes]] · [[Amos]] · [[Amos 6|Amos 6 →]]
+[[Amos 4|← Amos 4]] · [[Amos 5 (Annotated)|Annotated]] · [[Amos 5 - Study Guide|Study guide]] · [[Amos 5 - My Notes|My notes]] · [[Amos]] · [[Amos 6|Amos 6 →]]

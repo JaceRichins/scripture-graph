@@ -112,4 +112,4 @@ cssclasses:
 **49** According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses. ^num-4-49
 
 ---
-[[Numbers 3|← Numbers 3]] · [[Numbers 4 - Study Guide|Study guide]] · [[Numbers 4 - My Notes|My notes]] · [[Numbers]] · [[Numbers 5|Numbers 5 →]]
+[[Numbers 3|← Numbers 3]] · [[Numbers 4 (Annotated)|Annotated]] · [[Numbers 4 - Study Guide|Study guide]] · [[Numbers 4 - My Notes|My notes]] · [[Numbers]] · [[Numbers 5|Numbers 5 →]]

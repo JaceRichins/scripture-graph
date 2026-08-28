@@ -60,4 +60,4 @@ cssclasses:
 **23** And now I, Mormon, seeing that the Lamanites were about to overthrow the land, therefore I did go to the hill Shim, and did take up all the records which Ammaron had hid up unto the Lord. ^morm-4-23
 
 ---
-[[Mormon 3|← Mormon 3]] · [[Mormon 4 - Study Guide|Study guide]] · [[Mormon 4 - My Notes|My notes]] · [[Mormon]] · [[Mormon 5|Mormon 5 →]]
+[[Mormon 3|← Mormon 3]] · [[Mormon 4 (Annotated)|Annotated]] · [[Mormon 4 - Study Guide|Study guide]] · [[Mormon 4 - My Notes|My notes]] · [[Mormon]] · [[Mormon 5|Mormon 5 →]]

@@ -86,4 +86,4 @@ cssclasses:
 **36** And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward. ^judg-1-36
 
 ---
-[[Judges 1 - Study Guide|Study guide]] · [[Judges 1 - My Notes|My notes]] · [[Judges]] · [[Judges 2|Judges 2 →]]
+[[Judges 1 (Annotated)|Annotated]] · [[Judges 1 - Study Guide|Study guide]] · [[Judges 1 - My Notes|My notes]] · [[Judges]] · [[Judges 2|Judges 2 →]]

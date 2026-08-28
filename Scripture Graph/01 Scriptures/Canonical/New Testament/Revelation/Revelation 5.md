@@ -42,4 +42,4 @@ cssclasses:
 **14** And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever. ^rev-5-14
 
 ---
-[[Revelation 4|← Revelation 4]] · [[Revelation 5 - Study Guide|Study guide]] · [[Revelation 5 - My Notes|My notes]] · [[Revelation]] · [[Revelation 6|Revelation 6 →]]
+[[Revelation 4|← Revelation 4]] · [[Revelation 5 (Annotated)|Annotated]] · [[Revelation 5 - Study Guide|Study guide]] · [[Revelation 5 - My Notes|My notes]] · [[Revelation]] · [[Revelation 6|Revelation 6 →]]

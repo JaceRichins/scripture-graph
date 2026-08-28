@@ -58,4 +58,4 @@ cssclasses:
 **22** The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. ^2tim-4-22
 
 ---
-[[2 Timothy 3|← 2 Timothy 3]] · [[2 Timothy 4 - Study Guide|Study guide]] · [[2 Timothy 4 - My Notes|My notes]] · [[2 Timothy]]
+[[2 Timothy 3|← 2 Timothy 3]] · [[2 Timothy 4 (Annotated)|Annotated]] · [[2 Timothy 4 - Study Guide|Study guide]] · [[2 Timothy 4 - My Notes|My notes]] · [[2 Timothy]]

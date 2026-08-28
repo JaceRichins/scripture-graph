@@ -176,4 +176,4 @@ cssclasses:
 **81** And Heshbon with her suburbs, and Jazer with her suburbs. ^1chr-6-81
 
 ---
-[[1 Chronicles 5|← 1 Chronicles 5]] · [[1 Chronicles 6 - Study Guide|Study guide]] · [[1 Chronicles 6 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 7|1 Chronicles 7 →]]
+[[1 Chronicles 5|← 1 Chronicles 5]] · [[1 Chronicles 6 (Annotated)|Annotated]] · [[1 Chronicles 6 - Study Guide|Study guide]] · [[1 Chronicles 6 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 7|1 Chronicles 7 →]]

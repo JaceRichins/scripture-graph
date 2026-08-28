@@ -60,4 +60,4 @@ cssclasses:
 **23** And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD. ^ezek-14-23
 
 ---
-[[Ezekiel 13|← Ezekiel 13]] · [[Ezekiel 14 - Study Guide|Study guide]] · [[Ezekiel 14 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 15|Ezekiel 15 →]]
+[[Ezekiel 13|← Ezekiel 13]] · [[Ezekiel 14 (Annotated)|Annotated]] · [[Ezekiel 14 - Study Guide|Study guide]] · [[Ezekiel 14 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 15|Ezekiel 15 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beer-sheba liveth; even they shall fall, and never rise up again. ^amos-8-14
 
 ---
-[[Amos 7|← Amos 7]] · [[Amos 8 - Study Guide|Study guide]] · [[Amos 8 - My Notes|My notes]] · [[Amos]] · [[Amos 9|Amos 9 →]]
+[[Amos 7|← Amos 7]] · [[Amos 8 (Annotated)|Annotated]] · [[Amos 8 - Study Guide|Study guide]] · [[Amos 8 - My Notes|My notes]] · [[Amos]] · [[Amos 9|Amos 9 →]]

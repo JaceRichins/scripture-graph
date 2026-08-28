@@ -68,4 +68,4 @@ cssclasses:
 **27** And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it. ^dan-8-27
 
 ---
-[[Daniel 7|← Daniel 7]] · [[Daniel 8 - Study Guide|Study guide]] · [[Daniel 8 - My Notes|My notes]] · [[Daniel]] · [[Daniel 9|Daniel 9 →]]
+[[Daniel 7|← Daniel 7]] · [[Daniel 8 (Annotated)|Annotated]] · [[Daniel 8 - Study Guide|Study guide]] · [[Daniel 8 - My Notes|My notes]] · [[Daniel]] · [[Daniel 9|Daniel 9 →]]

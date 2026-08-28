@@ -58,4 +58,4 @@ cssclasses:
 **22** Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him? ^eccl-3-22
 
 ---
-[[Ecclesiastes 2|← Ecclesiastes 2]] · [[Ecclesiastes 3 - Study Guide|Study guide]] · [[Ecclesiastes 3 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 4|Ecclesiastes 4 →]]
+[[Ecclesiastes 2|← Ecclesiastes 2]] · [[Ecclesiastes 3 (Annotated)|Annotated]] · [[Ecclesiastes 3 - Study Guide|Study guide]] · [[Ecclesiastes 3 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 4|Ecclesiastes 4 →]]

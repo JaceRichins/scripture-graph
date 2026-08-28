@@ -72,4 +72,4 @@ cssclasses:
 **29** Behold now, I do not say that these things shall be, of myself, because it is not of myself that I know these things; but behold, I know that these things are true because the Lord God has made them known unto me, therefore I testify that they shall be. ^hel-7-29
 
 ---
-[[Helaman 6|← Helaman 6]] · [[Helaman 7 - Study Guide|Study guide]] · [[Helaman 7 - My Notes|My notes]] · [[Helaman]] · [[Helaman 8|Helaman 8 →]]
+[[Helaman 6|← Helaman 6]] · [[Helaman 7 (Annotated)|Annotated]] · [[Helaman 7 - Study Guide|Study guide]] · [[Helaman 7 - My Notes|My notes]] · [[Helaman]] · [[Helaman 8|Helaman 8 →]]

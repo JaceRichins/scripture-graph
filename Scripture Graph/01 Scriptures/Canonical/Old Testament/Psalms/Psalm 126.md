@@ -28,4 +28,4 @@ aliases:
 **6** He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him. ^ps-126-6
 
 ---
-[[Psalm 125|← Psalm 125]] · [[Psalm 126 - Study Guide|Study guide]] · [[Psalm 126 - My Notes|My notes]] · [[Psalms]] · [[Psalm 127|Psalm 127 →]]
+[[Psalm 125|← Psalm 125]] · [[Psalm 126 (Annotated)|Annotated]] · [[Psalm 126 - Study Guide|Study guide]] · [[Psalm 126 - My Notes|My notes]] · [[Psalms]] · [[Psalm 127|Psalm 127 →]]

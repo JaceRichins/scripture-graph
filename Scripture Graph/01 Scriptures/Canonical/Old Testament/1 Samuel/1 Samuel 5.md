@@ -38,4 +38,4 @@ cssclasses:
 **12** And the men that died not were smitten with the emerods: and the cry of the city went up to heaven. ^1sam-5-12
 
 ---
-[[1 Samuel 4|← 1 Samuel 4]] · [[1 Samuel 5 - Study Guide|Study guide]] · [[1 Samuel 5 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 6|1 Samuel 6 →]]
+[[1 Samuel 4|← 1 Samuel 4]] · [[1 Samuel 5 (Annotated)|Annotated]] · [[1 Samuel 5 - Study Guide|Study guide]] · [[1 Samuel 5 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 6|1 Samuel 6 →]]

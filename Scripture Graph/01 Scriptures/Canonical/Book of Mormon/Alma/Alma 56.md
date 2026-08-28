@@ -128,4 +128,4 @@ cssclasses:
 **57** And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men who were not slain of Antipus, with them; and the remainder I took and joined them to my stripling Ammonites, and took our march back to the city of Judea. ^alma-56-57
 
 ---
-[[Alma 55|← Alma 55]] · [[Alma 56 - Study Guide|Study guide]] · [[Alma 56 - My Notes|My notes]] · [[Alma]] · [[Alma 57|Alma 57 →]]
+[[Alma 55|← Alma 55]] · [[Alma 56 (Annotated)|Annotated]] · [[Alma 56 - Study Guide|Study guide]] · [[Alma 56 - My Notes|My notes]] · [[Alma]] · [[Alma 57|Alma 57 →]]

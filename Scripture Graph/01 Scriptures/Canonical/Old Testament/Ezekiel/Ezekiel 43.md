@@ -68,4 +68,4 @@ cssclasses:
 **27** And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD. ^ezek-43-27
 
 ---
-[[Ezekiel 42|← Ezekiel 42]] · [[Ezekiel 43 - Study Guide|Study guide]] · [[Ezekiel 43 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 44|Ezekiel 44 →]]
+[[Ezekiel 42|← Ezekiel 42]] · [[Ezekiel 43 (Annotated)|Annotated]] · [[Ezekiel 43 - Study Guide|Study guide]] · [[Ezekiel 43 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 44|Ezekiel 44 →]]

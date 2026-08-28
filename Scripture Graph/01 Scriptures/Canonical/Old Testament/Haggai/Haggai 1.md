@@ -44,4 +44,4 @@ cssclasses:
 **15** In the four and twentieth day of the sixth month, in the second year of Darius the king. ^hag-1-15
 
 ---
-[[Haggai 1 - Study Guide|Study guide]] · [[Haggai 1 - My Notes|My notes]] · [[Haggai]] · [[Haggai 2|Haggai 2 →]]
+[[Haggai 1 (Annotated)|Annotated]] · [[Haggai 1 - Study Guide|Study guide]] · [[Haggai 1 - My Notes|My notes]] · [[Haggai]] · [[Haggai 2|Haggai 2 →]]

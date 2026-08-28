@@ -110,4 +110,4 @@ cssclasses:
 **48** And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days. ^acts-10-48
 
 ---
-[[Acts 9|← Acts 9]] · [[Acts 10 - Study Guide|Study guide]] · [[Acts 10 - My Notes|My notes]] · [[Acts]] · [[Acts 11|Acts 11 →]]
+[[Acts 9|← Acts 9]] · [[Acts 10 (Annotated)|Annotated]] · [[Acts 10 - Study Guide|Study guide]] · [[Acts 10 - My Notes|My notes]] · [[Acts]] · [[Acts 11|Acts 11 →]]

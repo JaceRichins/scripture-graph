@@ -36,4 +36,4 @@ aliases:
 **10** Let the wicked fall into their own nets, whilst that I withal escape. ^ps-141-10
 
 ---
-[[Psalm 140|← Psalm 140]] · [[Psalm 141 - Study Guide|Study guide]] · [[Psalm 141 - My Notes|My notes]] · [[Psalms]] · [[Psalm 142|Psalm 142 →]]
+[[Psalm 140|← Psalm 140]] · [[Psalm 141 (Annotated)|Annotated]] · [[Psalm 141 - Study Guide|Study guide]] · [[Psalm 141 - My Notes|My notes]] · [[Psalms]] · [[Psalm 142|Psalm 142 →]]

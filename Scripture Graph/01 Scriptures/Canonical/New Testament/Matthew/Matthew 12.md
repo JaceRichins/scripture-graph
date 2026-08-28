@@ -114,4 +114,4 @@ cssclasses:
 **50** For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother. ^matt-12-50
 
 ---
-[[Matthew 11|← Matthew 11]] · [[Matthew 12 - Study Guide|Study guide]] · [[Matthew 12 - My Notes|My notes]] · [[Matthew]] · [[Matthew 13|Matthew 13 →]]
+[[Matthew 11|← Matthew 11]] · [[Matthew 12 (Annotated)|Annotated]] · [[Matthew 12 - Study Guide|Study guide]] · [[Matthew 12 - My Notes|My notes]] · [[Matthew]] · [[Matthew 13|Matthew 13 →]]

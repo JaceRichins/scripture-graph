@@ -62,4 +62,4 @@ cssclasses:
 **24** A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. ^prov-18-24
 
 ---
-[[Proverbs 17|← Proverbs 17]] · [[Proverbs 18 - Study Guide|Study guide]] · [[Proverbs 18 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 19|Proverbs 19 →]]
+[[Proverbs 17|← Proverbs 17]] · [[Proverbs 18 (Annotated)|Annotated]] · [[Proverbs 18 - Study Guide|Study guide]] · [[Proverbs 18 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 19|Proverbs 19 →]]

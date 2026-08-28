@@ -58,4 +58,4 @@ cssclasses:
 **22** These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants. ^2sam-21-22
 
 ---
-[[2 Samuel 20|← 2 Samuel 20]] · [[2 Samuel 21 - Study Guide|Study guide]] · [[2 Samuel 21 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 22|2 Samuel 22 →]]
+[[2 Samuel 20|← 2 Samuel 20]] · [[2 Samuel 21 (Annotated)|Annotated]] · [[2 Samuel 21 - Study Guide|Study guide]] · [[2 Samuel 21 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 22|2 Samuel 22 →]]

@@ -84,4 +84,4 @@ cssclasses:
 **35** They conceive mischief, and bring forth vanity, and their belly prepareth deceit. ^job-15-35
 
 ---
-[[Job 14|← Job 14]] · [[Job 15 - Study Guide|Study guide]] · [[Job 15 - My Notes|My notes]] · [[Job]] · [[Job 16|Job 16 →]]
+[[Job 14|← Job 14]] · [[Job 15 (Annotated)|Annotated]] · [[Job 15 - Study Guide|Study guide]] · [[Job 15 - My Notes|My notes]] · [[Job]] · [[Job 16|Job 16 →]]

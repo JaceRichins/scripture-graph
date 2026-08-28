@@ -100,4 +100,4 @@ cssclasses:
 **43** And the king of Israel went to his house heavy and displeased, and came to Samaria. ^1kgs-20-43
 
 ---
-[[1 Kings 19|← 1 Kings 19]] · [[1 Kings 20 - Study Guide|Study guide]] · [[1 Kings 20 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 21|1 Kings 21 →]]
+[[1 Kings 19|← 1 Kings 19]] · [[1 Kings 20 (Annotated)|Annotated]] · [[1 Kings 20 - Study Guide|Study guide]] · [[1 Kings 20 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 21|1 Kings 21 →]]

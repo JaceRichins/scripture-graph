@@ -86,4 +86,4 @@ aliases:
 **35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD. ^ps-104-35
 
 ---
-[[Psalm 103|← Psalm 103]] · [[Psalm 104 - Study Guide|Study guide]] · [[Psalm 104 - My Notes|My notes]] · [[Psalms]] · [[Psalm 105|Psalm 105 →]]
+[[Psalm 103|← Psalm 103]] · [[Psalm 104 (Annotated)|Annotated]] · [[Psalm 104 - Study Guide|Study guide]] · [[Psalm 104 - My Notes|My notes]] · [[Psalms]] · [[Psalm 105|Psalm 105 →]]

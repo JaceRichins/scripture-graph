@@ -50,4 +50,4 @@ cssclasses:
 **18** Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel? ^2kgs-1-18
 
 ---
-[[2 Kings 1 - Study Guide|Study guide]] · [[2 Kings 1 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 2|2 Kings 2 →]]
+[[2 Kings 1 (Annotated)|Annotated]] · [[2 Kings 1 - Study Guide|Study guide]] · [[2 Kings 1 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 2|2 Kings 2 →]]

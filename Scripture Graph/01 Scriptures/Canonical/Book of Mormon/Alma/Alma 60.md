@@ -86,4 +86,4 @@ cssclasses:
 **36** Behold, I am Moroni, your chief captain. I seek not for power, but to pull it down. I seek not for honor of the world, but for the glory of my God, and the freedom and welfare of my country. And thus I close mine epistle. ^alma-60-36
 
 ---
-[[Alma 59|← Alma 59]] · [[Alma 60 - Study Guide|Study guide]] · [[Alma 60 - My Notes|My notes]] · [[Alma]] · [[Alma 61|Alma 61 →]]
+[[Alma 59|← Alma 59]] · [[Alma 60 (Annotated)|Annotated]] · [[Alma 60 - Study Guide|Study guide]] · [[Alma 60 - My Notes|My notes]] · [[Alma]] · [[Alma 61|Alma 61 →]]

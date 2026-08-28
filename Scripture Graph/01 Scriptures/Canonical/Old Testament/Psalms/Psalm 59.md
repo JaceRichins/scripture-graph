@@ -50,4 +50,4 @@ aliases:
 **17** Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy. ^ps-59-17
 
 ---
-[[Psalm 58|← Psalm 58]] · [[Psalm 59 - Study Guide|Study guide]] · [[Psalm 59 - My Notes|My notes]] · [[Psalms]] · [[Psalm 60|Psalm 60 →]]
+[[Psalm 58|← Psalm 58]] · [[Psalm 59 (Annotated)|Annotated]] · [[Psalm 59 - Study Guide|Study guide]] · [[Psalm 59 - My Notes|My notes]] · [[Psalms]] · [[Psalm 60|Psalm 60 →]]

@@ -34,4 +34,4 @@ cssclasses:
 **10** In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree. ^zech-3-10
 
 ---
-[[Zechariah 2|← Zechariah 2]] · [[Zechariah 3 - Study Guide|Study guide]] · [[Zechariah 3 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 4|Zechariah 4 →]]
+[[Zechariah 2|← Zechariah 2]] · [[Zechariah 3 (Annotated)|Annotated]] · [[Zechariah 3 - Study Guide|Study guide]] · [[Zechariah 3 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 4|Zechariah 4 →]]

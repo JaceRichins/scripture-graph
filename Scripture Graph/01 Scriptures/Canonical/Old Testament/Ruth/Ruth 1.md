@@ -58,4 +58,4 @@ cssclasses:
 **22** So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest. ^ruth-1-22
 
 ---
-[[Ruth 1 - Study Guide|Study guide]] · [[Ruth 1 - My Notes|My notes]] · [[Ruth]] · [[Ruth 2|Ruth 2 →]]
+[[Ruth 1 (Annotated)|Annotated]] · [[Ruth 1 - Study Guide|Study guide]] · [[Ruth 1 - My Notes|My notes]] · [[Ruth]] · [[Ruth 2|Ruth 2 →]]

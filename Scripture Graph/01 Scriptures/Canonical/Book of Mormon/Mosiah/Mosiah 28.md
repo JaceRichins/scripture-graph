@@ -54,4 +54,4 @@ cssclasses:
 **20** And now, as I said unto you, that after king Mosiah had done these things, he took the plates of brass, and all the things which he had kept, and conferred them upon Alma, who was the son of Alma; yea, all the records, and also the interpreters, and conferred them upon him, and commanded him that he should keep and preserve them, and also keep a record of the people, handing them down from one generation to another, even as they had been handed down from the time that Lehi left Jerusalem. ^mosiah-28-20
 
 ---
-[[Mosiah 27|← Mosiah 27]] · [[Mosiah 28 - Study Guide|Study guide]] · [[Mosiah 28 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 29|Mosiah 29 →]]
+[[Mosiah 27|← Mosiah 27]] · [[Mosiah 28 (Annotated)|Annotated]] · [[Mosiah 28 - Study Guide|Study guide]] · [[Mosiah 28 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 29|Mosiah 29 →]]

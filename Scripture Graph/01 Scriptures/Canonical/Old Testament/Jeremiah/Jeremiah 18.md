@@ -60,4 +60,4 @@ cssclasses:
 **23** Yet, LORD, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger. ^jer-18-23
 
 ---
-[[Jeremiah 17|← Jeremiah 17]] · [[Jeremiah 18 - Study Guide|Study guide]] · [[Jeremiah 18 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 19|Jeremiah 19 →]]
+[[Jeremiah 17|← Jeremiah 17]] · [[Jeremiah 18 (Annotated)|Annotated]] · [[Jeremiah 18 - Study Guide|Study guide]] · [[Jeremiah 18 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 19|Jeremiah 19 →]]

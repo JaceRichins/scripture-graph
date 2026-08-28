@@ -40,4 +40,4 @@ cssclasses:
 **13** The children of thy elect sister greet thee. Amen. ^2jn-1-13
 
 ---
-[[2 John 1 - Study Guide|Study guide]] · [[2 John 1 - My Notes|My notes]] · [[2 John]]
+[[2 John 1 (Annotated)|Annotated]] · [[2 John 1 - Study Guide|Study guide]] · [[2 John 1 - My Notes|My notes]] · [[2 John]]

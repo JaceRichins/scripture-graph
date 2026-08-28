@@ -76,4 +76,4 @@ cssclasses:
 **31** And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day. ^gen-1-31
 
 ---
-[[Genesis 1 - Study Guide|Study guide]] · [[Genesis 1 - My Notes|My notes]] · [[Genesis]] · [[Genesis 2|Genesis 2 →]]
+[[Genesis 1 (Annotated)|Annotated]] · [[Genesis 1 - Study Guide|Study guide]] · [[Genesis 1 - My Notes|My notes]] · [[Genesis]] · [[Genesis 2|Genesis 2 →]]

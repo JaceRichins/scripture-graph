@@ -62,4 +62,4 @@ cssclasses:
 **24** And Moses told it unto Aaron, and to his sons, and unto all the children of Israel. ^lev-21-24
 
 ---
-[[Leviticus 20|← Leviticus 20]] · [[Leviticus 21 - Study Guide|Study guide]] · [[Leviticus 21 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 22|Leviticus 22 →]]
+[[Leviticus 20|← Leviticus 20]] · [[Leviticus 21 (Annotated)|Annotated]] · [[Leviticus 21 - Study Guide|Study guide]] · [[Leviticus 21 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 22|Leviticus 22 →]]

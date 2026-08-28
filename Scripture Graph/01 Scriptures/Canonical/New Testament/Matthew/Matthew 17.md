@@ -68,4 +68,4 @@ cssclasses:
 **27** Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee. ^matt-17-27
 
 ---
-[[Matthew 16|← Matthew 16]] · [[Matthew 17 - Study Guide|Study guide]] · [[Matthew 17 - My Notes|My notes]] · [[Matthew]] · [[Matthew 18|Matthew 18 →]]
+[[Matthew 16|← Matthew 16]] · [[Matthew 17 (Annotated)|Annotated]] · [[Matthew 17 - Study Guide|Study guide]] · [[Matthew 17 - My Notes|My notes]] · [[Matthew]] · [[Matthew 18|Matthew 18 →]]

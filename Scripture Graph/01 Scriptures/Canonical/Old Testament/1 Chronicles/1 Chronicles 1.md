@@ -122,4 +122,4 @@ cssclasses:
 **54** Duke Magdiel, duke Iram. These are the dukes of Edom. ^1chr-1-54
 
 ---
-[[1 Chronicles 1 - Study Guide|Study guide]] · [[1 Chronicles 1 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 2|1 Chronicles 2 →]]
+[[1 Chronicles 1 (Annotated)|Annotated]] · [[1 Chronicles 1 - Study Guide|Study guide]] · [[1 Chronicles 1 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 2|1 Chronicles 2 →]]

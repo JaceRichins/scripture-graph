@@ -36,4 +36,4 @@ cssclasses:
 **11** Behold all ye that kindle fire, that compass yourselves about with sparks, walk in the light of your fire and in the sparks which ye have kindled. This shall ye have of mine hand—ye shall lie down in sorrow. ^2ne-7-11
 
 ---
-[[2 Nephi 6|← 2 Nephi 6]] · [[2 Nephi 7 - Study Guide|Study guide]] · [[2 Nephi 7 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 8|2 Nephi 8 →]]
+[[2 Nephi 6|← 2 Nephi 6]] · [[2 Nephi 7 (Annotated)|Annotated]] · [[2 Nephi 7 - Study Guide|Study guide]] · [[2 Nephi 7 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 8|2 Nephi 8 →]]

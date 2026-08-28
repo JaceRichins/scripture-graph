@@ -52,4 +52,4 @@ cssclasses:
 **19** And thus ended the fifteenth year, and thus were the people in a state of many afflictions; and the sword of destruction did hang over them, insomuch that they were about to be smitten down by it, and this because of their iniquity. ^3ne-2-19
 
 ---
-[[3 Nephi 1|← 3 Nephi 1]] · [[3 Nephi 2 - Study Guide|Study guide]] · [[3 Nephi 2 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 3|3 Nephi 3 →]]
+[[3 Nephi 1|← 3 Nephi 1]] · [[3 Nephi 2 (Annotated)|Annotated]] · [[3 Nephi 2 - Study Guide|Study guide]] · [[3 Nephi 2 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 3|3 Nephi 3 →]]

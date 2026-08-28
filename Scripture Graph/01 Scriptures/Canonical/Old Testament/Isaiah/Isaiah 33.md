@@ -62,4 +62,4 @@ cssclasses:
 **24** And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity. ^isa-33-24
 
 ---
-[[Isaiah 32|← Isaiah 32]] · [[Isaiah 33 - Study Guide|Study guide]] · [[Isaiah 33 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 34|Isaiah 34 →]]
+[[Isaiah 32|← Isaiah 32]] · [[Isaiah 33 (Annotated)|Annotated]] · [[Isaiah 33 - Study Guide|Study guide]] · [[Isaiah 33 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 34|Isaiah 34 →]]

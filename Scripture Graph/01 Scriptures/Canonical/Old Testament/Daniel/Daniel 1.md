@@ -56,4 +56,4 @@ cssclasses:
 **21** And Daniel continued even unto the first year of king Cyrus. ^dan-1-21
 
 ---
-[[Daniel 1 - Study Guide|Study guide]] · [[Daniel 1 - My Notes|My notes]] · [[Daniel]] · [[Daniel 2|Daniel 2 →]]
+[[Daniel 1 (Annotated)|Annotated]] · [[Daniel 1 - Study Guide|Study guide]] · [[Daniel 1 - My Notes|My notes]] · [[Daniel]] · [[Daniel 2|Daniel 2 →]]

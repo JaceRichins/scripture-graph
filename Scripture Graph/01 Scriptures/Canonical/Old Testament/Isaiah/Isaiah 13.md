@@ -58,4 +58,4 @@ cssclasses:
 **22** And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged. ^isa-13-22
 
 ---
-[[Isaiah 12|← Isaiah 12]] · [[Isaiah 13 - Study Guide|Study guide]] · [[Isaiah 13 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 14|Isaiah 14 →]]
+[[Isaiah 12|← Isaiah 12]] · [[Isaiah 13 (Annotated)|Annotated]] · [[Isaiah 13 - Study Guide|Study guide]] · [[Isaiah 13 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 14|Isaiah 14 →]]

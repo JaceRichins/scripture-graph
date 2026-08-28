@@ -56,4 +56,4 @@ cssclasses:
 **21** Seven years old was Jehoash when he began to reign. ^2kgs-11-21
 
 ---
-[[2 Kings 10|← 2 Kings 10]] · [[2 Kings 11 - Study Guide|Study guide]] · [[2 Kings 11 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 12|2 Kings 12 →]]
+[[2 Kings 10|← 2 Kings 10]] · [[2 Kings 11 (Annotated)|Annotated]] · [[2 Kings 11 - Study Guide|Study guide]] · [[2 Kings 11 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 12|2 Kings 12 →]]

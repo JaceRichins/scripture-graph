@@ -52,4 +52,4 @@ cssclasses:
 **19** These waited on the king, beside those whom the king put in the fenced cities throughout all Judah. ^2chr-17-19
 
 ---
-[[2 Chronicles 16|← 2 Chronicles 16]] · [[2 Chronicles 17 - Study Guide|Study guide]] · [[2 Chronicles 17 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 18|2 Chronicles 18 →]]
+[[2 Chronicles 16|← 2 Chronicles 16]] · [[2 Chronicles 17 (Annotated)|Annotated]] · [[2 Chronicles 17 - Study Guide|Study guide]] · [[2 Chronicles 17 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 18|2 Chronicles 18 →]]

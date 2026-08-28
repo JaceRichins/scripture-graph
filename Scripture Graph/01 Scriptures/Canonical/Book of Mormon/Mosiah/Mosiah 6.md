@@ -28,4 +28,4 @@ cssclasses:
 **7** And king Mosiah did cause his people that they should till the earth. And he also, himself, did till the earth, that thereby he might not become burdensome to his people, that he might do according to that which his father had done in all things. And there was no contention among all his people for the space of three years. ^mosiah-6-7
 
 ---
-[[Mosiah 5|← Mosiah 5]] · [[Mosiah 6 - Study Guide|Study guide]] · [[Mosiah 6 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 7|Mosiah 7 →]]
+[[Mosiah 5|← Mosiah 5]] · [[Mosiah 6 (Annotated)|Annotated]] · [[Mosiah 6 - Study Guide|Study guide]] · [[Mosiah 6 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 7|Mosiah 7 →]]

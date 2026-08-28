@@ -32,4 +32,4 @@ cssclasses:
 **9** For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land. ^isa-15-9
 
 ---
-[[Isaiah 14|← Isaiah 14]] · [[Isaiah 15 - Study Guide|Study guide]] · [[Isaiah 15 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 16|Isaiah 16 →]]
+[[Isaiah 14|← Isaiah 14]] · [[Isaiah 15 (Annotated)|Annotated]] · [[Isaiah 15 - Study Guide|Study guide]] · [[Isaiah 15 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 16|Isaiah 16 →]]

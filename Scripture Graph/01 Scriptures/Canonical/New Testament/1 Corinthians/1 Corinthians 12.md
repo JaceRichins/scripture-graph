@@ -76,4 +76,4 @@ cssclasses:
 **31** But covet earnestly the best gifts: and yet shew I unto you a more excellent way. ^1cor-12-31
 
 ---
-[[1 Corinthians 11|← 1 Corinthians 11]] · [[1 Corinthians 12 - Study Guide|Study guide]] · [[1 Corinthians 12 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 13|1 Corinthians 13 →]]
+[[1 Corinthians 11|← 1 Corinthians 11]] · [[1 Corinthians 12 (Annotated)|Annotated]] · [[1 Corinthians 12 - Study Guide|Study guide]] · [[1 Corinthians 12 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 13|1 Corinthians 13 →]]

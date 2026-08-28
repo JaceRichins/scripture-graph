@@ -58,4 +58,4 @@ cssclasses:
 **22** Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh. ^isa-36-22
 
 ---
-[[Isaiah 35|← Isaiah 35]] · [[Isaiah 36 - Study Guide|Study guide]] · [[Isaiah 36 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 37|Isaiah 37 →]]
+[[Isaiah 35|← Isaiah 35]] · [[Isaiah 36 (Annotated)|Annotated]] · [[Isaiah 36 - Study Guide|Study guide]] · [[Isaiah 36 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 37|Isaiah 37 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** Yea, and there was continual peace among them, and exceedingly great prosperity in the church because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman, and Shiblon, and Corianton, and Ammon and his brethren, yea, and by all those who had been ordained by the holy order of God, being baptized unto repentance, and sent forth to preach among the people. ^alma-49-30
 
 ---
-[[Alma 48|← Alma 48]] · [[Alma 49 - Study Guide|Study guide]] · [[Alma 49 - My Notes|My notes]] · [[Alma]] · [[Alma 50|Alma 50 →]]
+[[Alma 48|← Alma 48]] · [[Alma 49 (Annotated)|Annotated]] · [[Alma 49 - Study Guide|Study guide]] · [[Alma 49 - My Notes|My notes]] · [[Alma]] · [[Alma 50|Alma 50 →]]

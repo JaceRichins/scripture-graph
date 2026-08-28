@@ -60,4 +60,4 @@ cssclasses:
 **23** And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen. ^ex-33-23
 
 ---
-[[Exodus 32|← Exodus 32]] · [[Exodus 33 - Study Guide|Study guide]] · [[Exodus 33 - My Notes|My notes]] · [[Exodus]] · [[Exodus 34|Exodus 34 →]]
+[[Exodus 32|← Exodus 32]] · [[Exodus 33 (Annotated)|Annotated]] · [[Exodus 33 - Study Guide|Study guide]] · [[Exodus 33 - My Notes|My notes]] · [[Exodus]] · [[Exodus 34|Exodus 34 →]]

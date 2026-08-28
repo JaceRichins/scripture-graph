@@ -62,4 +62,4 @@ aliases:
 **23** Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God. ^ps-50-23
 
 ---
-[[Psalm 49|← Psalm 49]] · [[Psalm 50 - Study Guide|Study guide]] · [[Psalm 50 - My Notes|My notes]] · [[Psalms]] · [[Psalm 51|Psalm 51 →]]
+[[Psalm 49|← Psalm 49]] · [[Psalm 50 (Annotated)|Annotated]] · [[Psalm 50 - Study Guide|Study guide]] · [[Psalm 50 - My Notes|My notes]] · [[Psalms]] · [[Psalm 51|Psalm 51 →]]

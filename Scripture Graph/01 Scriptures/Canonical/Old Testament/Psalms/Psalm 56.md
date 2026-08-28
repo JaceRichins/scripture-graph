@@ -42,4 +42,4 @@ aliases:
 **13** For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living? ^ps-56-13
 
 ---
-[[Psalm 55|← Psalm 55]] · [[Psalm 56 - Study Guide|Study guide]] · [[Psalm 56 - My Notes|My notes]] · [[Psalms]] · [[Psalm 57|Psalm 57 →]]
+[[Psalm 55|← Psalm 55]] · [[Psalm 56 (Annotated)|Annotated]] · [[Psalm 56 - Study Guide|Study guide]] · [[Psalm 56 - My Notes|My notes]] · [[Psalms]] · [[Psalm 57|Psalm 57 →]]

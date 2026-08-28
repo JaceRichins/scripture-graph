@@ -78,4 +78,4 @@ cssclasses:
 **32** Wherefore, if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son. ^2ne-1-32
 
 ---
-[[2 Nephi 1 - Study Guide|Study guide]] · [[2 Nephi 1 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 2|2 Nephi 2 →]]
+[[2 Nephi 1 (Annotated)|Annotated]] · [[2 Nephi 1 - Study Guide|Study guide]] · [[2 Nephi 1 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 2|2 Nephi 2 →]]

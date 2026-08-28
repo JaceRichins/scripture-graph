@@ -52,4 +52,4 @@ aliases:
 **18** His enemies will I clothe with shame: but upon himself shall his crown flourish. ^ps-132-18
 
 ---
-[[Psalm 131|← Psalm 131]] · [[Psalm 132 - Study Guide|Study guide]] · [[Psalm 132 - My Notes|My notes]] · [[Psalms]] · [[Psalm 133|Psalm 133 →]]
+[[Psalm 131|← Psalm 131]] · [[Psalm 132 (Annotated)|Annotated]] · [[Psalm 132 - Study Guide|Study guide]] · [[Psalm 132 - My Notes|My notes]] · [[Psalms]] · [[Psalm 133|Psalm 133 →]]

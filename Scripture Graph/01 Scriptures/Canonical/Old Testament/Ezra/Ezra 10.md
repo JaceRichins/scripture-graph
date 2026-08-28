@@ -102,4 +102,4 @@ cssclasses:
 **44** All these had taken strange wives: and some of them had wives by whom they had children. ^ezra-10-44
 
 ---
-[[Ezra 9|← Ezra 9]] · [[Ezra 10 - Study Guide|Study guide]] · [[Ezra 10 - My Notes|My notes]] · [[Ezra]]
+[[Ezra 9|← Ezra 9]] · [[Ezra 10 (Annotated)|Annotated]] · [[Ezra 10 - Study Guide|Study guide]] · [[Ezra 10 - My Notes|My notes]] · [[Ezra]]

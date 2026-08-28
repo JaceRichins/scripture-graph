@@ -50,4 +50,4 @@ cssclasses:
 **18** Because of the Chaldeans: for they were afraid of them, because Ishmael the son of Nethaniah had slain Gedaliah the son of Ahikam, whom the king of Babylon made governor in the land. ^jer-41-18
 
 ---
-[[Jeremiah 40|← Jeremiah 40]] · [[Jeremiah 41 - Study Guide|Study guide]] · [[Jeremiah 41 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 42|Jeremiah 42 →]]
+[[Jeremiah 40|← Jeremiah 40]] · [[Jeremiah 41 (Annotated)|Annotated]] · [[Jeremiah 41 - Study Guide|Study guide]] · [[Jeremiah 41 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 42|Jeremiah 42 →]]

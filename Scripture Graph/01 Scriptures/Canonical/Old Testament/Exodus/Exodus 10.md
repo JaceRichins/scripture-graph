@@ -72,4 +72,4 @@ cssclasses:
 **29** And Moses said, Thou hast spoken well, I will see thy face again no more. ^ex-10-29
 
 ---
-[[Exodus 9|← Exodus 9]] · [[Exodus 10 - Study Guide|Study guide]] · [[Exodus 10 - My Notes|My notes]] · [[Exodus]] · [[Exodus 11|Exodus 11 →]]
+[[Exodus 9|← Exodus 9]] · [[Exodus 10 (Annotated)|Annotated]] · [[Exodus 10 - Study Guide|Study guide]] · [[Exodus 10 - My Notes|My notes]] · [[Exodus]] · [[Exodus 11|Exodus 11 →]]

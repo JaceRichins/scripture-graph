@@ -74,4 +74,4 @@ cssclasses:
 **30** Reprobate silver shall men call them, because the LORD hath rejected them. ^jer-6-30
 
 ---
-[[Jeremiah 5|← Jeremiah 5]] · [[Jeremiah 6 - Study Guide|Study guide]] · [[Jeremiah 6 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 7|Jeremiah 7 →]]
+[[Jeremiah 5|← Jeremiah 5]] · [[Jeremiah 6 (Annotated)|Annotated]] · [[Jeremiah 6 - Study Guide|Study guide]] · [[Jeremiah 6 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 7|Jeremiah 7 →]]

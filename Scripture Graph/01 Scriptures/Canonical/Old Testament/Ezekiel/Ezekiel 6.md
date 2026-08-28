@@ -42,4 +42,4 @@ cssclasses:
 **14** So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the LORD. ^ezek-6-14
 
 ---
-[[Ezekiel 5|← Ezekiel 5]] · [[Ezekiel 6 - Study Guide|Study guide]] · [[Ezekiel 6 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 7|Ezekiel 7 →]]
+[[Ezekiel 5|← Ezekiel 5]] · [[Ezekiel 6 (Annotated)|Annotated]] · [[Ezekiel 6 - Study Guide|Study guide]] · [[Ezekiel 6 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 7|Ezekiel 7 →]]

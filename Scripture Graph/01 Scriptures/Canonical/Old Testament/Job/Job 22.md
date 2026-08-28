@@ -74,4 +74,4 @@ cssclasses:
 **30** He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands. ^job-22-30
 
 ---
-[[Job 21|← Job 21]] · [[Job 22 - Study Guide|Study guide]] · [[Job 22 - My Notes|My notes]] · [[Job]] · [[Job 23|Job 23 →]]
+[[Job 21|← Job 21]] · [[Job 22 (Annotated)|Annotated]] · [[Job 22 - Study Guide|Study guide]] · [[Job 22 - My Notes|My notes]] · [[Job]] · [[Job 23|Job 23 →]]

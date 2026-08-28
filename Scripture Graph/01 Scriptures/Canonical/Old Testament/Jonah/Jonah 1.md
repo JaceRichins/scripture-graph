@@ -48,4 +48,4 @@ cssclasses:
 **17** Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights. ^jonah-1-17
 
 ---
-[[Jonah 1 - Study Guide|Study guide]] · [[Jonah 1 - My Notes|My notes]] · [[Jonah]] · [[Jonah 2|Jonah 2 →]]
+[[Jonah 1 (Annotated)|Annotated]] · [[Jonah 1 - Study Guide|Study guide]] · [[Jonah 1 - My Notes|My notes]] · [[Jonah]] · [[Jonah 2|Jonah 2 →]]

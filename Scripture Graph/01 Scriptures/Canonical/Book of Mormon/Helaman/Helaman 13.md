@@ -92,4 +92,4 @@ cssclasses:
 **39** O ye people of the land, that ye would hear my words! And I pray that the anger of the Lord be turned away from you, and that ye would repent and be saved. ^hel-13-39
 
 ---
-[[Helaman 12|← Helaman 12]] · [[Helaman 13 - Study Guide|Study guide]] · [[Helaman 13 - My Notes|My notes]] · [[Helaman]] · [[Helaman 14|Helaman 14 →]]
+[[Helaman 12|← Helaman 12]] · [[Helaman 13 (Annotated)|Annotated]] · [[Helaman 13 - Study Guide|Study guide]] · [[Helaman 13 - My Notes|My notes]] · [[Helaman]] · [[Helaman 14|Helaman 14 →]]

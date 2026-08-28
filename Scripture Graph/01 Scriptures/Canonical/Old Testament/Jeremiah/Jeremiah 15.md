@@ -56,4 +56,4 @@ cssclasses:
 **21** And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible. ^jer-15-21
 
 ---
-[[Jeremiah 14|← Jeremiah 14]] · [[Jeremiah 15 - Study Guide|Study guide]] · [[Jeremiah 15 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 16|Jeremiah 16 →]]
+[[Jeremiah 14|← Jeremiah 14]] · [[Jeremiah 15 (Annotated)|Annotated]] · [[Jeremiah 15 - Study Guide|Study guide]] · [[Jeremiah 15 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 16|Jeremiah 16 →]]

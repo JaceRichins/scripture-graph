@@ -40,4 +40,4 @@ cssclasses:
 **13** In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away. ^heb-8-13
 
 ---
-[[Hebrews 7|← Hebrews 7]] · [[Hebrews 8 - Study Guide|Study guide]] · [[Hebrews 8 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 9|Hebrews 9 →]]
+[[Hebrews 7|← Hebrews 7]] · [[Hebrews 8 (Annotated)|Annotated]] · [[Hebrews 8 - Study Guide|Study guide]] · [[Hebrews 8 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 9|Hebrews 9 →]]

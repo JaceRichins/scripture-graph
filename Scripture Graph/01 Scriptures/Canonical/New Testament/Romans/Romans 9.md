@@ -80,4 +80,4 @@ cssclasses:
 **33** As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. ^rom-9-33
 
 ---
-[[Romans 8|← Romans 8]] · [[Romans 9 - Study Guide|Study guide]] · [[Romans 9 - My Notes|My notes]] · [[Romans]] · [[Romans 10|Romans 10 →]]
+[[Romans 8|← Romans 8]] · [[Romans 9 (Annotated)|Annotated]] · [[Romans 9 - Study Guide|Study guide]] · [[Romans 9 - My Notes|My notes]] · [[Romans]] · [[Romans 10|Romans 10 →]]

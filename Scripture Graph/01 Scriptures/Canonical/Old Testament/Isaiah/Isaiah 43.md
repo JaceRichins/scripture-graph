@@ -70,4 +70,4 @@ cssclasses:
 **28** Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches. ^isa-43-28
 
 ---
-[[Isaiah 42|← Isaiah 42]] · [[Isaiah 43 - Study Guide|Study guide]] · [[Isaiah 43 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 44|Isaiah 44 →]]
+[[Isaiah 42|← Isaiah 42]] · [[Isaiah 43 (Annotated)|Annotated]] · [[Isaiah 43 - Study Guide|Study guide]] · [[Isaiah 43 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 44|Isaiah 44 →]]

@@ -122,4 +122,4 @@ cssclasses:
 **54** Now Moroni, when he saw their terror, commanded his men that they should stop shedding their blood. ^alma-43-54
 
 ---
-[[Alma 42|← Alma 42]] · [[Alma 43 - Study Guide|Study guide]] · [[Alma 43 - My Notes|My notes]] · [[Alma]] · [[Alma 44|Alma 44 →]]
+[[Alma 42|← Alma 42]] · [[Alma 43 (Annotated)|Annotated]] · [[Alma 43 - Study Guide|Study guide]] · [[Alma 43 - My Notes|My notes]] · [[Alma]] · [[Alma 44|Alma 44 →]]

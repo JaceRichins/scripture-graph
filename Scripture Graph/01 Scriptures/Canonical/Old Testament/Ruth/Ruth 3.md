@@ -50,4 +50,4 @@ cssclasses:
 **18** Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day. ^ruth-3-18
 
 ---
-[[Ruth 2|← Ruth 2]] · [[Ruth 3 - Study Guide|Study guide]] · [[Ruth 3 - My Notes|My notes]] · [[Ruth]] · [[Ruth 4|Ruth 4 →]]
+[[Ruth 2|← Ruth 2]] · [[Ruth 3 (Annotated)|Annotated]] · [[Ruth 3 - Study Guide|Study guide]] · [[Ruth 3 - My Notes|My notes]] · [[Ruth]] · [[Ruth 4|Ruth 4 →]]

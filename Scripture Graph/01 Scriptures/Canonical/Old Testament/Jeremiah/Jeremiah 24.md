@@ -34,4 +34,4 @@ cssclasses:
 **10** And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers. ^jer-24-10
 
 ---
-[[Jeremiah 23|← Jeremiah 23]] · [[Jeremiah 24 - Study Guide|Study guide]] · [[Jeremiah 24 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 25|Jeremiah 25 →]]
+[[Jeremiah 23|← Jeremiah 23]] · [[Jeremiah 24 (Annotated)|Annotated]] · [[Jeremiah 24 - Study Guide|Study guide]] · [[Jeremiah 24 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 25|Jeremiah 25 →]]

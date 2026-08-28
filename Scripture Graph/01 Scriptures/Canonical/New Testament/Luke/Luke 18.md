@@ -100,4 +100,4 @@ cssclasses:
 **43** And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God. ^luke-18-43
 
 ---
-[[Luke 17|← Luke 17]] · [[Luke 18 - Study Guide|Study guide]] · [[Luke 18 - My Notes|My notes]] · [[Luke]] · [[Luke 19|Luke 19 →]]
+[[Luke 17|← Luke 17]] · [[Luke 18 (Annotated)|Annotated]] · [[Luke 18 - Study Guide|Study guide]] · [[Luke 18 - My Notes|My notes]] · [[Luke]] · [[Luke 19|Luke 19 →]]

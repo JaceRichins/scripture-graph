@@ -64,4 +64,4 @@ cssclasses:
 **25** And they were both naked, the man and his wife, and were not ashamed. ^moses-3-25
 
 ---
-[[Moses 2|← Moses 2]] · [[Moses 3 - Study Guide|Study guide]] · [[Moses 3 - My Notes|My notes]] · [[Moses]] · [[Moses 4|Moses 4 →]]
+[[Moses 2|← Moses 2]] · [[Moses 3 (Annotated)|Annotated]] · [[Moses 3 - Study Guide|Study guide]] · [[Moses 3 - My Notes|My notes]] · [[Moses]] · [[Moses 4|Moses 4 →]]

@@ -46,4 +46,4 @@ cssclasses:
 **16** Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee. ^micah-1-16
 
 ---
-[[Micah 1 - Study Guide|Study guide]] · [[Micah 1 - My Notes|My notes]] · [[Micah]] · [[Micah 2|Micah 2 →]]
+[[Micah 1 (Annotated)|Annotated]] · [[Micah 1 - Study Guide|Study guide]] · [[Micah 1 - My Notes|My notes]] · [[Micah]] · [[Micah 2|Micah 2 →]]

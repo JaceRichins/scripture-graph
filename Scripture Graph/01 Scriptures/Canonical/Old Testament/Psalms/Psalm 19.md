@@ -44,4 +44,4 @@ aliases:
 **14** Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer. ^ps-19-14
 
 ---
-[[Psalm 18|← Psalm 18]] · [[Psalm 19 - Study Guide|Study guide]] · [[Psalm 19 - My Notes|My notes]] · [[Psalms]] · [[Psalm 20|Psalm 20 →]]
+[[Psalm 18|← Psalm 18]] · [[Psalm 19 (Annotated)|Annotated]] · [[Psalm 19 - Study Guide|Study guide]] · [[Psalm 19 - My Notes|My notes]] · [[Psalms]] · [[Psalm 20|Psalm 20 →]]

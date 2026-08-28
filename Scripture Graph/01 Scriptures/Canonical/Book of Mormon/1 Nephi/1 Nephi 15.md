@@ -86,4 +86,4 @@ cssclasses:
 **36** Wherefore, the wicked are rejected from the righteous, and also from that tree of life, whose fruit is most precious and most desirable above all other fruits; yea, and it is the greatest of all the gifts of God. And thus I spake unto my brethren. Amen. ^1ne-15-36
 
 ---
-[[1 Nephi 14|← 1 Nephi 14]] · [[1 Nephi 15 - Study Guide|Study guide]] · [[1 Nephi 15 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 16|1 Nephi 16 →]]
+[[1 Nephi 14|← 1 Nephi 14]] · [[1 Nephi 15 (Annotated)|Annotated]] · [[1 Nephi 15 - Study Guide|Study guide]] · [[1 Nephi 15 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 16|1 Nephi 16 →]]

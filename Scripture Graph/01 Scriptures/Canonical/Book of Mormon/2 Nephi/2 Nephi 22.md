@@ -26,4 +26,4 @@ cssclasses:
 **6** Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee. ^2ne-22-6
 
 ---
-[[2 Nephi 21|← 2 Nephi 21]] · [[2 Nephi 22 - Study Guide|Study guide]] · [[2 Nephi 22 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 23|2 Nephi 23 →]]
+[[2 Nephi 21|← 2 Nephi 21]] · [[2 Nephi 22 (Annotated)|Annotated]] · [[2 Nephi 22 - Study Guide|Study guide]] · [[2 Nephi 22 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 23|2 Nephi 23 →]]

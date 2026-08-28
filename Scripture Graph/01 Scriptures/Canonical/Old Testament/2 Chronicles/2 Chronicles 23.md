@@ -56,4 +56,4 @@ cssclasses:
 **21** And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword. ^2chr-23-21
 
 ---
-[[2 Chronicles 22|← 2 Chronicles 22]] · [[2 Chronicles 23 - Study Guide|Study guide]] · [[2 Chronicles 23 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 24|2 Chronicles 24 →]]
+[[2 Chronicles 22|← 2 Chronicles 22]] · [[2 Chronicles 23 (Annotated)|Annotated]] · [[2 Chronicles 23 - Study Guide|Study guide]] · [[2 Chronicles 23 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 24|2 Chronicles 24 →]]

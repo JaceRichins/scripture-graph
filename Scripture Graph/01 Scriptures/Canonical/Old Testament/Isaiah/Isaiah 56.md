@@ -38,4 +38,4 @@ cssclasses:
 **12** Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant. ^isa-56-12
 
 ---
-[[Isaiah 55|← Isaiah 55]] · [[Isaiah 56 - Study Guide|Study guide]] · [[Isaiah 56 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 57|Isaiah 57 →]]
+[[Isaiah 55|← Isaiah 55]] · [[Isaiah 56 (Annotated)|Annotated]] · [[Isaiah 56 - Study Guide|Study guide]] · [[Isaiah 56 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 57|Isaiah 57 →]]

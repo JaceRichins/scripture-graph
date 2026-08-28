@@ -68,4 +68,4 @@ cssclasses:
 **27** For every man receiveth wages of him whom he listeth to obey, and this according to the words of the spirit of prophecy; therefore let it be according to the truth. And thus endeth the fifth year of the reign of the judges. ^alma-3-27
 
 ---
-[[Alma 2|← Alma 2]] · [[Alma 3 - Study Guide|Study guide]] · [[Alma 3 - My Notes|My notes]] · [[Alma]] · [[Alma 4|Alma 4 →]]
+[[Alma 2|← Alma 2]] · [[Alma 3 (Annotated)|Annotated]] · [[Alma 3 - Study Guide|Study guide]] · [[Alma 3 - My Notes|My notes]] · [[Alma]] · [[Alma 4|Alma 4 →]]

@@ -78,4 +78,4 @@ cssclasses:
 **32** What shall then answer the messengers of the nations? That the Lord hath founded Zion, and the poor of his people shall trust in it. ^2ne-24-32
 
 ---
-[[2 Nephi 23|← 2 Nephi 23]] · [[2 Nephi 24 - Study Guide|Study guide]] · [[2 Nephi 24 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 25|2 Nephi 25 →]]
+[[2 Nephi 23|← 2 Nephi 23]] · [[2 Nephi 24 (Annotated)|Annotated]] · [[2 Nephi 24 - Study Guide|Study guide]] · [[2 Nephi 24 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 25|2 Nephi 25 →]]

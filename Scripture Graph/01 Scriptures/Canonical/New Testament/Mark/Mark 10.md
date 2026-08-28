@@ -118,4 +118,4 @@ cssclasses:
 **52** And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way. ^mark-10-52
 
 ---
-[[Mark 9|← Mark 9]] · [[Mark 10 - Study Guide|Study guide]] · [[Mark 10 - My Notes|My notes]] · [[Mark]] · [[Mark 11|Mark 11 →]]
+[[Mark 9|← Mark 9]] · [[Mark 10 (Annotated)|Annotated]] · [[Mark 10 - Study Guide|Study guide]] · [[Mark 10 - My Notes|My notes]] · [[Mark]] · [[Mark 11|Mark 11 →]]

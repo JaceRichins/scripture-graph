@@ -94,4 +94,4 @@ cssclasses:
 **40** But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God. ^1cor-7-40
 
 ---
-[[1 Corinthians 6|← 1 Corinthians 6]] · [[1 Corinthians 7 - Study Guide|Study guide]] · [[1 Corinthians 7 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 8|1 Corinthians 8 →]]
+[[1 Corinthians 6|← 1 Corinthians 6]] · [[1 Corinthians 7 (Annotated)|Annotated]] · [[1 Corinthians 7 - Study Guide|Study guide]] · [[1 Corinthians 7 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 8|1 Corinthians 8 →]]

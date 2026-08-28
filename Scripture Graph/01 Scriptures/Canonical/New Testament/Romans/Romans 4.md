@@ -64,4 +64,4 @@ cssclasses:
 **25** Who was delivered for our offences, and was raised again for our justification. ^rom-4-25
 
 ---
-[[Romans 3|← Romans 3]] · [[Romans 4 - Study Guide|Study guide]] · [[Romans 4 - My Notes|My notes]] · [[Romans]] · [[Romans 5|Romans 5 →]]
+[[Romans 3|← Romans 3]] · [[Romans 4 (Annotated)|Annotated]] · [[Romans 4 - Study Guide|Study guide]] · [[Romans 4 - My Notes|My notes]] · [[Romans]] · [[Romans 5|Romans 5 →]]

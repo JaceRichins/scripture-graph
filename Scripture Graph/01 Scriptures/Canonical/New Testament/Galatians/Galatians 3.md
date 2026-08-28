@@ -72,4 +72,4 @@ cssclasses:
 **29** And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise. ^gal-3-29
 
 ---
-[[Galatians 2|← Galatians 2]] · [[Galatians 3 - Study Guide|Study guide]] · [[Galatians 3 - My Notes|My notes]] · [[Galatians]] · [[Galatians 4|Galatians 4 →]]
+[[Galatians 2|← Galatians 2]] · [[Galatians 3 (Annotated)|Annotated]] · [[Galatians 3 - Study Guide|Study guide]] · [[Galatians 3 - My Notes|My notes]] · [[Galatians]] · [[Galatians 4|Galatians 4 →]]

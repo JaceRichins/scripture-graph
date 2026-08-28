@@ -108,4 +108,4 @@ cssclasses:
 **47** Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far is the judgment of Moab. ^jer-48-47
 
 ---
-[[Jeremiah 47|← Jeremiah 47]] · [[Jeremiah 48 - Study Guide|Study guide]] · [[Jeremiah 48 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 49|Jeremiah 49 →]]
+[[Jeremiah 47|← Jeremiah 47]] · [[Jeremiah 48 (Annotated)|Annotated]] · [[Jeremiah 48 - Study Guide|Study guide]] · [[Jeremiah 48 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 49|Jeremiah 49 →]]

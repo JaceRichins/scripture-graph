@@ -68,4 +68,4 @@ cssclasses:
 **27** And now, may the peace of God rest upon you, and upon your houses and lands, and upon your flocks and herds, and all that you possess, your women and your children, according to your faith and good works, from this time forth and forever. And thus I have spoken. Amen. ^alma-7-27
 
 ---
-[[Alma 6|← Alma 6]] · [[Alma 7 - Study Guide|Study guide]] · [[Alma 7 - My Notes|My notes]] · [[Alma]] · [[Alma 8|Alma 8 →]]
+[[Alma 6|← Alma 6]] · [[Alma 7 (Annotated)|Annotated]] · [[Alma 7 - Study Guide|Study guide]] · [[Alma 7 - My Notes|My notes]] · [[Alma]] · [[Alma 8|Alma 8 →]]

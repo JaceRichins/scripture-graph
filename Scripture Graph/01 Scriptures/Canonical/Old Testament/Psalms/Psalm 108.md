@@ -42,4 +42,4 @@ aliases:
 **13** Through God we shall do valiantly: for he it is that shall tread down our enemies. ^ps-108-13
 
 ---
-[[Psalm 107|← Psalm 107]] · [[Psalm 108 - Study Guide|Study guide]] · [[Psalm 108 - My Notes|My notes]] · [[Psalms]] · [[Psalm 109|Psalm 109 →]]
+[[Psalm 107|← Psalm 107]] · [[Psalm 108 (Annotated)|Annotated]] · [[Psalm 108 - Study Guide|Study guide]] · [[Psalm 108 - My Notes|My notes]] · [[Psalms]] · [[Psalm 109|Psalm 109 →]]

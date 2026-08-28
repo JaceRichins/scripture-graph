@@ -150,4 +150,4 @@ cssclasses:
 **68** And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you. ^deut-28-68
 
 ---
-[[Deuteronomy 27|← Deuteronomy 27]] · [[Deuteronomy 28 - Study Guide|Study guide]] · [[Deuteronomy 28 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 29|Deuteronomy 29 →]]
+[[Deuteronomy 27|← Deuteronomy 27]] · [[Deuteronomy 28 (Annotated)|Annotated]] · [[Deuteronomy 28 - Study Guide|Study guide]] · [[Deuteronomy 28 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 29|Deuteronomy 29 →]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses. ^lev-24-23
 
 ---
-[[Leviticus 23|← Leviticus 23]] · [[Leviticus 24 - Study Guide|Study guide]] · [[Leviticus 24 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 25|Leviticus 25 →]]
+[[Leviticus 23|← Leviticus 23]] · [[Leviticus 24 (Annotated)|Annotated]] · [[Leviticus 24 - Study Guide|Study guide]] · [[Leviticus 24 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 25|Leviticus 25 →]]

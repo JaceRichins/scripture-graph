@@ -102,4 +102,4 @@ cssclasses:
 **44** But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim. ^1sam-25-44
 
 ---
-[[1 Samuel 24|← 1 Samuel 24]] · [[1 Samuel 25 - Study Guide|Study guide]] · [[1 Samuel 25 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 26|1 Samuel 26 →]]
+[[1 Samuel 24|← 1 Samuel 24]] · [[1 Samuel 25 (Annotated)|Annotated]] · [[1 Samuel 25 - Study Guide|Study guide]] · [[1 Samuel 25 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 26|1 Samuel 26 →]]

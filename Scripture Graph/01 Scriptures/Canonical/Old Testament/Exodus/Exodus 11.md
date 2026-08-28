@@ -34,4 +34,4 @@ cssclasses:
 **10** And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh's heart, so that he would not let the children of Israel go out of his land. ^ex-11-10
 
 ---
-[[Exodus 10|← Exodus 10]] · [[Exodus 11 - Study Guide|Study guide]] · [[Exodus 11 - My Notes|My notes]] · [[Exodus]] · [[Exodus 12|Exodus 12 →]]
+[[Exodus 10|← Exodus 10]] · [[Exodus 11 (Annotated)|Annotated]] · [[Exodus 11 - Study Guide|Study guide]] · [[Exodus 11 - My Notes|My notes]] · [[Exodus]] · [[Exodus 12|Exodus 12 →]]

@@ -88,4 +88,4 @@ cssclasses:
 **37** And now, my brethren, seeing we know these things, and they are true, let us repent, and harden not our hearts, that we provoke not the Lord our God to pull down his wrath upon us in these his second commandments which he has given unto us; but let us enter into the rest of God, which is prepared according to his word. ^alma-12-37
 
 ---
-[[Alma 11|← Alma 11]] · [[Alma 12 - Study Guide|Study guide]] · [[Alma 12 - My Notes|My notes]] · [[Alma]] · [[Alma 13|Alma 13 →]]
+[[Alma 11|← Alma 11]] · [[Alma 12 (Annotated)|Annotated]] · [[Alma 12 - Study Guide|Study guide]] · [[Alma 12 - My Notes|My notes]] · [[Alma]] · [[Alma 13|Alma 13 →]]

@@ -48,4 +48,4 @@ cssclasses:
 **17** But if they will not obey, I will utterly pluck up and destroy that nation, saith the LORD. ^jer-12-17
 
 ---
-[[Jeremiah 11|← Jeremiah 11]] · [[Jeremiah 12 - Study Guide|Study guide]] · [[Jeremiah 12 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 13|Jeremiah 13 →]]
+[[Jeremiah 11|← Jeremiah 11]] · [[Jeremiah 12 (Annotated)|Annotated]] · [[Jeremiah 12 - Study Guide|Study guide]] · [[Jeremiah 12 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 13|Jeremiah 13 →]]

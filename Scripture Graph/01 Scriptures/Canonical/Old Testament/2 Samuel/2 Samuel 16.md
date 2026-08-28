@@ -60,4 +60,4 @@ cssclasses:
 **23** And the counsel of Ahithophel, which he counselled in those days, was as if a man had inquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom. ^2sam-16-23
 
 ---
-[[2 Samuel 15|← 2 Samuel 15]] · [[2 Samuel 16 - Study Guide|Study guide]] · [[2 Samuel 16 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 17|2 Samuel 17 →]]
+[[2 Samuel 15|← 2 Samuel 15]] · [[2 Samuel 16 (Annotated)|Annotated]] · [[2 Samuel 16 - Study Guide|Study guide]] · [[2 Samuel 16 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 17|2 Samuel 17 →]]

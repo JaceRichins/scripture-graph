@@ -34,4 +34,4 @@ aliases:
 **9** He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD. ^ps-113-9
 
 ---
-[[Psalm 112|← Psalm 112]] · [[Psalm 113 - Study Guide|Study guide]] · [[Psalm 113 - My Notes|My notes]] · [[Psalms]] · [[Psalm 114|Psalm 114 →]]
+[[Psalm 112|← Psalm 112]] · [[Psalm 113 (Annotated)|Annotated]] · [[Psalm 113 - Study Guide|Study guide]] · [[Psalm 113 - My Notes|My notes]] · [[Psalms]] · [[Psalm 114|Psalm 114 →]]

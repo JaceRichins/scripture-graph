@@ -72,4 +72,4 @@ cssclasses:
 **29** Judgments are prepared for scorners, and stripes for the back of fools. ^prov-19-29
 
 ---
-[[Proverbs 18|← Proverbs 18]] · [[Proverbs 19 - Study Guide|Study guide]] · [[Proverbs 19 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 20|Proverbs 20 →]]
+[[Proverbs 18|← Proverbs 18]] · [[Proverbs 19 (Annotated)|Annotated]] · [[Proverbs 19 - Study Guide|Study guide]] · [[Proverbs 19 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 20|Proverbs 20 →]]

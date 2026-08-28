@@ -64,4 +64,4 @@ cssclasses:
 **25** And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle. ^isa-7-25
 
 ---
-[[Isaiah 6|← Isaiah 6]] · [[Isaiah 7 - Study Guide|Study guide]] · [[Isaiah 7 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 8|Isaiah 8 →]]
+[[Isaiah 6|← Isaiah 6]] · [[Isaiah 7 (Annotated)|Annotated]] · [[Isaiah 7 - Study Guide|Study guide]] · [[Isaiah 7 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 8|Isaiah 8 →]]

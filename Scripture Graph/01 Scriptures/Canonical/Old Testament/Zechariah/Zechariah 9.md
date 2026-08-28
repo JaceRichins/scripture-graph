@@ -48,4 +48,4 @@ cssclasses:
 **17** For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids. ^zech-9-17
 
 ---
-[[Zechariah 8|← Zechariah 8]] · [[Zechariah 9 - Study Guide|Study guide]] · [[Zechariah 9 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 10|Zechariah 10 →]]
+[[Zechariah 8|← Zechariah 8]] · [[Zechariah 9 (Annotated)|Annotated]] · [[Zechariah 9 - Study Guide|Study guide]] · [[Zechariah 9 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 10|Zechariah 10 →]]

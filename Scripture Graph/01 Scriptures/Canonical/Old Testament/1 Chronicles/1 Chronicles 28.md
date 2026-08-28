@@ -56,4 +56,4 @@ cssclasses:
 **21** And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment. ^1chr-28-21
 
 ---
-[[1 Chronicles 27|← 1 Chronicles 27]] · [[1 Chronicles 28 - Study Guide|Study guide]] · [[1 Chronicles 28 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 29|1 Chronicles 29 →]]
+[[1 Chronicles 27|← 1 Chronicles 27]] · [[1 Chronicles 28 (Annotated)|Annotated]] · [[1 Chronicles 28 - Study Guide|Study guide]] · [[1 Chronicles 28 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 29|1 Chronicles 29 →]]

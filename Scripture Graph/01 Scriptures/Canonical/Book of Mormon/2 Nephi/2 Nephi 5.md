@@ -82,4 +82,4 @@ cssclasses:
 **34** And it sufficeth me to say that forty years had passed away, and we had already had wars and contentions with our brethren. ^2ne-5-34
 
 ---
-[[2 Nephi 4|← 2 Nephi 4]] · [[2 Nephi 5 - Study Guide|Study guide]] · [[2 Nephi 5 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 6|2 Nephi 6 →]]
+[[2 Nephi 4|← 2 Nephi 4]] · [[2 Nephi 5 (Annotated)|Annotated]] · [[2 Nephi 5 - Study Guide|Study guide]] · [[2 Nephi 5 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 6|2 Nephi 6 →]]

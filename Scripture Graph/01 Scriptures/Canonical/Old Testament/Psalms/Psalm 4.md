@@ -32,4 +32,4 @@ aliases:
 **8** I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety. ^ps-4-8
 
 ---
-[[Psalm 3|← Psalm 3]] · [[Psalm 4 - Study Guide|Study guide]] · [[Psalm 4 - My Notes|My notes]] · [[Psalms]] · [[Psalm 5|Psalm 5 →]]
+[[Psalm 3|← Psalm 3]] · [[Psalm 4 (Annotated)|Annotated]] · [[Psalm 4 - Study Guide|Study guide]] · [[Psalm 4 - My Notes|My notes]] · [[Psalms]] · [[Psalm 5|Psalm 5 →]]

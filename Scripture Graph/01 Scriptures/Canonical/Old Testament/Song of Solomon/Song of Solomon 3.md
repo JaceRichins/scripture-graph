@@ -36,4 +36,4 @@ cssclasses:
 **11** Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart. ^song-3-11
 
 ---
-[[Song of Solomon 2|← Song of Solomon 2]] · [[Song of Solomon 3 - Study Guide|Study guide]] · [[Song of Solomon 3 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 4|Song of Solomon 4 →]]
+[[Song of Solomon 2|← Song of Solomon 2]] · [[Song of Solomon 3 (Annotated)|Annotated]] · [[Song of Solomon 3 - Study Guide|Study guide]] · [[Song of Solomon 3 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 4|Song of Solomon 4 →]]

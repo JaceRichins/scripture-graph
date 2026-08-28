@@ -84,4 +84,4 @@ cssclasses:
 **35** So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land. ^num-21-35
 
 ---
-[[Numbers 20|← Numbers 20]] · [[Numbers 21 - Study Guide|Study guide]] · [[Numbers 21 - My Notes|My notes]] · [[Numbers]] · [[Numbers 22|Numbers 22 →]]
+[[Numbers 20|← Numbers 20]] · [[Numbers 21 (Annotated)|Annotated]] · [[Numbers 21 - Study Guide|Study guide]] · [[Numbers 21 - My Notes|My notes]] · [[Numbers]] · [[Numbers 22|Numbers 22 →]]

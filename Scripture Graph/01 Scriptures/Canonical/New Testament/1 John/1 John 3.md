@@ -62,4 +62,4 @@ cssclasses:
 **24** And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us. ^1jn-3-24
 
 ---
-[[1 John 2|← 1 John 2]] · [[1 John 3 - Study Guide|Study guide]] · [[1 John 3 - My Notes|My notes]] · [[1 John]] · [[1 John 4|1 John 4 →]]
+[[1 John 2|← 1 John 2]] · [[1 John 3 (Annotated)|Annotated]] · [[1 John 3 - Study Guide|Study guide]] · [[1 John 3 - My Notes|My notes]] · [[1 John]] · [[1 John 4|1 John 4 →]]

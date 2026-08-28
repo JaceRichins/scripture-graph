@@ -80,4 +80,4 @@ cssclasses:
 **33** Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife. ^prov-30-33
 
 ---
-[[Proverbs 29|← Proverbs 29]] · [[Proverbs 30 - Study Guide|Study guide]] · [[Proverbs 30 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 31|Proverbs 31 →]]
+[[Proverbs 29|← Proverbs 29]] · [[Proverbs 30 (Annotated)|Annotated]] · [[Proverbs 30 - Study Guide|Study guide]] · [[Proverbs 30 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 31|Proverbs 31 →]]

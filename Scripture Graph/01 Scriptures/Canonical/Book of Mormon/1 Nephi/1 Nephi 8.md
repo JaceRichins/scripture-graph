@@ -90,4 +90,4 @@ cssclasses:
 **38** And after he had preached unto them, and also prophesied unto them of many things, he bade them to keep the commandments of the Lord; and he did cease speaking unto them. ^1ne-8-38
 
 ---
-[[1 Nephi 7|← 1 Nephi 7]] · [[1 Nephi 8 - Study Guide|Study guide]] · [[1 Nephi 8 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 9|1 Nephi 9 →]]
+[[1 Nephi 7|← 1 Nephi 7]] · [[1 Nephi 8 (Annotated)|Annotated]] · [[1 Nephi 8 - Study Guide|Study guide]] · [[1 Nephi 8 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 9|1 Nephi 9 →]]

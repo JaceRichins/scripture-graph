@@ -38,4 +38,4 @@ cssclasses:
 **12** And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish-bosheth, and buried it in the sepulchre of Abner in Hebron. ^2sam-4-12
 
 ---
-[[2 Samuel 3|← 2 Samuel 3]] · [[2 Samuel 4 - Study Guide|Study guide]] · [[2 Samuel 4 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 5|2 Samuel 5 →]]
+[[2 Samuel 3|← 2 Samuel 3]] · [[2 Samuel 4 (Annotated)|Annotated]] · [[2 Samuel 4 - Study Guide|Study guide]] · [[2 Samuel 4 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 5|2 Samuel 5 →]]

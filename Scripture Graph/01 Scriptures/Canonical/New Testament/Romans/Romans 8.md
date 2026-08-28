@@ -92,4 +92,4 @@ cssclasses:
 **39** Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. ^rom-8-39
 
 ---
-[[Romans 7|← Romans 7]] · [[Romans 8 - Study Guide|Study guide]] · [[Romans 8 - My Notes|My notes]] · [[Romans]] · [[Romans 9|Romans 9 →]]
+[[Romans 7|← Romans 7]] · [[Romans 8 (Annotated)|Annotated]] · [[Romans 8 - Study Guide|Study guide]] · [[Romans 8 - My Notes|My notes]] · [[Romans]] · [[Romans 9|Romans 9 →]]

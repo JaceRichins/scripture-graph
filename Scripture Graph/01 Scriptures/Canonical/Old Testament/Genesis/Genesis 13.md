@@ -50,4 +50,4 @@ cssclasses:
 **18** Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD. ^gen-13-18
 
 ---
-[[Genesis 12|← Genesis 12]] · [[Genesis 13 - Study Guide|Study guide]] · [[Genesis 13 - My Notes|My notes]] · [[Genesis]] · [[Genesis 14|Genesis 14 →]]
+[[Genesis 12|← Genesis 12]] · [[Genesis 13 (Annotated)|Annotated]] · [[Genesis 13 - Study Guide|Study guide]] · [[Genesis 13 - My Notes|My notes]] · [[Genesis]] · [[Genesis 14|Genesis 14 →]]

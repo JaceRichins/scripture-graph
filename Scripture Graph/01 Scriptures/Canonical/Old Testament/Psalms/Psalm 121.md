@@ -32,4 +32,4 @@ aliases:
 **8** The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore. ^ps-121-8
 
 ---
-[[Psalm 120|← Psalm 120]] · [[Psalm 121 - Study Guide|Study guide]] · [[Psalm 121 - My Notes|My notes]] · [[Psalms]] · [[Psalm 122|Psalm 122 →]]
+[[Psalm 120|← Psalm 120]] · [[Psalm 121 (Annotated)|Annotated]] · [[Psalm 121 - Study Guide|Study guide]] · [[Psalm 121 - My Notes|My notes]] · [[Psalms]] · [[Psalm 122|Psalm 122 →]]

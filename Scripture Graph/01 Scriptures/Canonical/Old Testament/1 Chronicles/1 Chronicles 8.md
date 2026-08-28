@@ -94,4 +94,4 @@ cssclasses:
 **40** And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin. ^1chr-8-40
 
 ---
-[[1 Chronicles 7|← 1 Chronicles 7]] · [[1 Chronicles 8 - Study Guide|Study guide]] · [[1 Chronicles 8 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 9|1 Chronicles 9 →]]
+[[1 Chronicles 7|← 1 Chronicles 7]] · [[1 Chronicles 8 (Annotated)|Annotated]] · [[1 Chronicles 8 - Study Guide|Study guide]] · [[1 Chronicles 8 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 9|1 Chronicles 9 →]]

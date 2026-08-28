@@ -56,4 +56,4 @@ cssclasses:
 **21** Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name is The LORD. ^jer-16-21
 
 ---
-[[Jeremiah 15|← Jeremiah 15]] · [[Jeremiah 16 - Study Guide|Study guide]] · [[Jeremiah 16 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 17|Jeremiah 17 →]]
+[[Jeremiah 15|← Jeremiah 15]] · [[Jeremiah 16 (Annotated)|Annotated]] · [[Jeremiah 16 - Study Guide|Study guide]] · [[Jeremiah 16 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 17|Jeremiah 17 →]]

@@ -94,4 +94,4 @@ cssclasses:
 **40** And now the number of prisoners who were taken exceeded more than the number of those who had been slain, yea, more than those who had been slain on both sides. ^alma-52-40
 
 ---
-[[Alma 51|← Alma 51]] · [[Alma 52 - Study Guide|Study guide]] · [[Alma 52 - My Notes|My notes]] · [[Alma]] · [[Alma 53|Alma 53 →]]
+[[Alma 51|← Alma 51]] · [[Alma 52 (Annotated)|Annotated]] · [[Alma 52 - Study Guide|Study guide]] · [[Alma 52 - My Notes|My notes]] · [[Alma]] · [[Alma 53|Alma 53 →]]

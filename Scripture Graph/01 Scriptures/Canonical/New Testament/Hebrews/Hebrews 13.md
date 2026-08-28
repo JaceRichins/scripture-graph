@@ -64,4 +64,4 @@ cssclasses:
 **25** Grace be with you all. Amen. ^heb-13-25
 
 ---
-[[Hebrews 12|← Hebrews 12]] · [[Hebrews 13 - Study Guide|Study guide]] · [[Hebrews 13 - My Notes|My notes]] · [[Hebrews]]
+[[Hebrews 12|← Hebrews 12]] · [[Hebrews 13 (Annotated)|Annotated]] · [[Hebrews 13 - Study Guide|Study guide]] · [[Hebrews 13 - My Notes|My notes]] · [[Hebrews]]

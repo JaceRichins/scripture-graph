@@ -128,4 +128,4 @@ cssclasses:
 **57** And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal. ^judg-9-57
 
 ---
-[[Judges 8|← Judges 8]] · [[Judges 9 - Study Guide|Study guide]] · [[Judges 9 - My Notes|My notes]] · [[Judges]] · [[Judges 10|Judges 10 →]]
+[[Judges 8|← Judges 8]] · [[Judges 9 (Annotated)|Annotated]] · [[Judges 9 - Study Guide|Study guide]] · [[Judges 9 - My Notes|My notes]] · [[Judges]] · [[Judges 10|Judges 10 →]]

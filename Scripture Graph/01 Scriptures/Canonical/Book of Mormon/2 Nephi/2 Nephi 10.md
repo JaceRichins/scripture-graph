@@ -64,4 +64,4 @@ cssclasses:
 **25** Wherefore, may God raise you from death by the power of the resurrection, and also from everlasting death by the power of the atonement, that ye may be received into the eternal kingdom of God, that ye may praise him through grace divine. Amen. ^2ne-10-25
 
 ---
-[[2 Nephi 9|← 2 Nephi 9]] · [[2 Nephi 10 - Study Guide|Study guide]] · [[2 Nephi 10 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 11|2 Nephi 11 →]]
+[[2 Nephi 9|← 2 Nephi 9]] · [[2 Nephi 10 (Annotated)|Annotated]] · [[2 Nephi 10 - Study Guide|Study guide]] · [[2 Nephi 10 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 11|2 Nephi 11 →]]

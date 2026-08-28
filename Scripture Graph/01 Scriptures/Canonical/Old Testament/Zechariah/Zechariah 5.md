@@ -36,4 +36,4 @@ cssclasses:
 **11** And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base. ^zech-5-11
 
 ---
-[[Zechariah 4|← Zechariah 4]] · [[Zechariah 5 - Study Guide|Study guide]] · [[Zechariah 5 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 6|Zechariah 6 →]]
+[[Zechariah 4|← Zechariah 4]] · [[Zechariah 5 (Annotated)|Annotated]] · [[Zechariah 5 - Study Guide|Study guide]] · [[Zechariah 5 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 6|Zechariah 6 →]]

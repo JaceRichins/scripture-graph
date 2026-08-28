@@ -78,4 +78,4 @@ cssclasses:
 **32** Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words. ^jer-36-32
 
 ---
-[[Jeremiah 35|← Jeremiah 35]] · [[Jeremiah 36 - Study Guide|Study guide]] · [[Jeremiah 36 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 37|Jeremiah 37 →]]
+[[Jeremiah 35|← Jeremiah 35]] · [[Jeremiah 36 (Annotated)|Annotated]] · [[Jeremiah 36 - Study Guide|Study guide]] · [[Jeremiah 36 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 37|Jeremiah 37 →]]

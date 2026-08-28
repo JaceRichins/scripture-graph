@@ -62,4 +62,4 @@ cssclasses:
 **24** So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life. ^gen-3-24
 
 ---
-[[Genesis 2|← Genesis 2]] · [[Genesis 3 - Study Guide|Study guide]] · [[Genesis 3 - My Notes|My notes]] · [[Genesis]] · [[Genesis 4|Genesis 4 →]]
+[[Genesis 2|← Genesis 2]] · [[Genesis 3 (Annotated)|Annotated]] · [[Genesis 3 - Study Guide|Study guide]] · [[Genesis 3 - My Notes|My notes]] · [[Genesis]] · [[Genesis 4|Genesis 4 →]]

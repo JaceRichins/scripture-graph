@@ -108,4 +108,4 @@ cssclasses:
 **47** And thus ended the reign of the kings over the people of Nephi; and thus ended the days of Alma, who was the founder of their church. ^mosiah-29-47
 
 ---
-[[Mosiah 28|← Mosiah 28]] · [[Mosiah 29 - Study Guide|Study guide]] · [[Mosiah 29 - My Notes|My notes]] · [[Mosiah]]
+[[Mosiah 28|← Mosiah 28]] · [[Mosiah 29 (Annotated)|Annotated]] · [[Mosiah 29 - Study Guide|Study guide]] · [[Mosiah 29 - My Notes|My notes]] · [[Mosiah]]

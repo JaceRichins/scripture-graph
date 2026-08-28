@@ -64,4 +64,4 @@ aliases:
 **24** Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD. ^ps-31-24
 
 ---
-[[Psalm 30|← Psalm 30]] · [[Psalm 31 - Study Guide|Study guide]] · [[Psalm 31 - My Notes|My notes]] · [[Psalms]] · [[Psalm 32|Psalm 32 →]]
+[[Psalm 30|← Psalm 30]] · [[Psalm 31 (Annotated)|Annotated]] · [[Psalm 31 - Study Guide|Study guide]] · [[Psalm 31 - My Notes|My notes]] · [[Psalms]] · [[Psalm 32|Psalm 32 →]]

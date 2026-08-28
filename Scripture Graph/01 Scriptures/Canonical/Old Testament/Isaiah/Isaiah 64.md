@@ -38,4 +38,4 @@ cssclasses:
 **12** Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore? ^isa-64-12
 
 ---
-[[Isaiah 63|← Isaiah 63]] · [[Isaiah 64 - Study Guide|Study guide]] · [[Isaiah 64 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 65|Isaiah 65 →]]
+[[Isaiah 63|← Isaiah 63]] · [[Isaiah 64 (Annotated)|Annotated]] · [[Isaiah 64 - Study Guide|Study guide]] · [[Isaiah 64 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 65|Isaiah 65 →]]

@@ -50,4 +50,4 @@ cssclasses:
 **18** Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame? ^jer-20-18
 
 ---
-[[Jeremiah 19|← Jeremiah 19]] · [[Jeremiah 20 - Study Guide|Study guide]] · [[Jeremiah 20 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 21|Jeremiah 21 →]]
+[[Jeremiah 19|← Jeremiah 19]] · [[Jeremiah 20 (Annotated)|Annotated]] · [[Jeremiah 20 - Study Guide|Study guide]] · [[Jeremiah 20 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 21|Jeremiah 21 →]]

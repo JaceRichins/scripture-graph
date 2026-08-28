@@ -74,4 +74,4 @@ cssclasses:
 **30** But behold, my son, this is not all; for ye ought to know as I do know, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. Now this is according to his word. ^alma-36-30
 
 ---
-[[Alma 35|← Alma 35]] · [[Alma 36 - Study Guide|Study guide]] · [[Alma 36 - My Notes|My notes]] · [[Alma]] · [[Alma 37|Alma 37 →]]
+[[Alma 35|← Alma 35]] · [[Alma 36 (Annotated)|Annotated]] · [[Alma 36 - Study Guide|Study guide]] · [[Alma 36 - My Notes|My notes]] · [[Alma]] · [[Alma 37|Alma 37 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate. ^zech-7-14
 
 ---
-[[Zechariah 6|← Zechariah 6]] · [[Zechariah 7 - Study Guide|Study guide]] · [[Zechariah 7 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 8|Zechariah 8 →]]
+[[Zechariah 6|← Zechariah 6]] · [[Zechariah 7 (Annotated)|Annotated]] · [[Zechariah 7 - Study Guide|Study guide]] · [[Zechariah 7 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 8|Zechariah 8 →]]

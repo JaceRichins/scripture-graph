@@ -48,4 +48,4 @@ aliases:
 **16** He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee. ^ps-81-16
 
 ---
-[[Psalm 80|← Psalm 80]] · [[Psalm 81 - Study Guide|Study guide]] · [[Psalm 81 - My Notes|My notes]] · [[Psalms]] · [[Psalm 82|Psalm 82 →]]
+[[Psalm 80|← Psalm 80]] · [[Psalm 81 (Annotated)|Annotated]] · [[Psalm 81 - Study Guide|Study guide]] · [[Psalm 81 - My Notes|My notes]] · [[Psalms]] · [[Psalm 82|Psalm 82 →]]

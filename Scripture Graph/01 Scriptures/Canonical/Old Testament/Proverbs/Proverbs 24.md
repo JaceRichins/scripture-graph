@@ -82,4 +82,4 @@ cssclasses:
 **34** So shall thy poverty come as one that travelleth; and thy want as an armed man. ^prov-24-34
 
 ---
-[[Proverbs 23|← Proverbs 23]] · [[Proverbs 24 - Study Guide|Study guide]] · [[Proverbs 24 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 25|Proverbs 25 →]]
+[[Proverbs 23|← Proverbs 23]] · [[Proverbs 24 (Annotated)|Annotated]] · [[Proverbs 24 - Study Guide|Study guide]] · [[Proverbs 24 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 25|Proverbs 25 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** And this commandment have we from him, That he who loveth God love his brother also. ^1jn-4-21
 
 ---
-[[1 John 3|← 1 John 3]] · [[1 John 4 - Study Guide|Study guide]] · [[1 John 4 - My Notes|My notes]] · [[1 John]] · [[1 John 5|1 John 5 →]]
+[[1 John 3|← 1 John 3]] · [[1 John 4 (Annotated)|Annotated]] · [[1 John 4 - Study Guide|Study guide]] · [[1 John 4 - My Notes|My notes]] · [[1 John]] · [[1 John 5|1 John 5 →]]

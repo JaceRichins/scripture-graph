@@ -72,4 +72,4 @@ cssclasses:
 **29** So we abode in the valley over against Beth-peor. ^deut-3-29
 
 ---
-[[Deuteronomy 2|← Deuteronomy 2]] · [[Deuteronomy 3 - Study Guide|Study guide]] · [[Deuteronomy 3 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 4|Deuteronomy 4 →]]
+[[Deuteronomy 2|← Deuteronomy 2]] · [[Deuteronomy 3 (Annotated)|Annotated]] · [[Deuteronomy 3 - Study Guide|Study guide]] · [[Deuteronomy 3 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 4|Deuteronomy 4 →]]

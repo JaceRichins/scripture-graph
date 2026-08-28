@@ -122,4 +122,4 @@ cssclasses:
 **54** And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the LORD. ^num-31-54
 
 ---
-[[Numbers 30|← Numbers 30]] · [[Numbers 31 - Study Guide|Study guide]] · [[Numbers 31 - My Notes|My notes]] · [[Numbers]] · [[Numbers 32|Numbers 32 →]]
+[[Numbers 30|← Numbers 30]] · [[Numbers 31 (Annotated)|Annotated]] · [[Numbers 31 - Study Guide|Study guide]] · [[Numbers 31 - My Notes|My notes]] · [[Numbers]] · [[Numbers 32|Numbers 32 →]]

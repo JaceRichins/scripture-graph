@@ -58,4 +58,4 @@ cssclasses:
 **22** And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward. ^ezek-10-22
 
 ---
-[[Ezekiel 9|← Ezekiel 9]] · [[Ezekiel 10 - Study Guide|Study guide]] · [[Ezekiel 10 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 11|Ezekiel 11 →]]
+[[Ezekiel 9|← Ezekiel 9]] · [[Ezekiel 10 (Annotated)|Annotated]] · [[Ezekiel 10 - Study Guide|Study guide]] · [[Ezekiel 10 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 11|Ezekiel 11 →]]

@@ -78,4 +78,4 @@ cssclasses:
 **32** (And these are the words which I spake unto my servant Moses, and they are true even as I will; and I have spoken them unto you. See thou show them unto no man, until I command you, except to them that believe. Amen.) ^moses-4-32
 
 ---
-[[Moses 3|← Moses 3]] · [[Moses 4 - Study Guide|Study guide]] · [[Moses 4 - My Notes|My notes]] · [[Moses]] · [[Moses 5|Moses 5 →]]
+[[Moses 3|← Moses 3]] · [[Moses 4 (Annotated)|Annotated]] · [[Moses 4 - Study Guide|Study guide]] · [[Moses 4 - My Notes|My notes]] · [[Moses]] · [[Moses 5|Moses 5 →]]

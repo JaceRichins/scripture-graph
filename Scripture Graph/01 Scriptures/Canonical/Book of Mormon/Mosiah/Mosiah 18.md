@@ -84,4 +84,4 @@ cssclasses:
 **35** And they were in number about four hundred and fifty souls. ^mosiah-18-35
 
 ---
-[[Mosiah 17|← Mosiah 17]] · [[Mosiah 18 - Study Guide|Study guide]] · [[Mosiah 18 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 19|Mosiah 19 →]]
+[[Mosiah 17|← Mosiah 17]] · [[Mosiah 18 (Annotated)|Annotated]] · [[Mosiah 18 - Study Guide|Study guide]] · [[Mosiah 18 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 19|Mosiah 19 →]]

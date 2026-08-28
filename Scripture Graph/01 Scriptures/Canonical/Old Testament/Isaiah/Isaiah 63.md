@@ -52,4 +52,4 @@ cssclasses:
 **19** We are thine: thou never barest rule over them; they were not called by thy name. ^isa-63-19
 
 ---
-[[Isaiah 62|← Isaiah 62]] · [[Isaiah 63 - Study Guide|Study guide]] · [[Isaiah 63 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 64|Isaiah 64 →]]
+[[Isaiah 62|← Isaiah 62]] · [[Isaiah 63 (Annotated)|Annotated]] · [[Isaiah 63 - Study Guide|Study guide]] · [[Isaiah 63 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 64|Isaiah 64 →]]

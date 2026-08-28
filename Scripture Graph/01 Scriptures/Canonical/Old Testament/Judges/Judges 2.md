@@ -60,4 +60,4 @@ cssclasses:
 **23** Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua. ^judg-2-23
 
 ---
-[[Judges 1|← Judges 1]] · [[Judges 2 - Study Guide|Study guide]] · [[Judges 2 - My Notes|My notes]] · [[Judges]] · [[Judges 3|Judges 3 →]]
+[[Judges 1|← Judges 1]] · [[Judges 2 (Annotated)|Annotated]] · [[Judges 2 - Study Guide|Study guide]] · [[Judges 2 - My Notes|My notes]] · [[Judges]] · [[Judges 3|Judges 3 →]]

@@ -30,4 +30,4 @@ aliases:
 **7** For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies. ^ps-54-7
 
 ---
-[[Psalm 53|← Psalm 53]] · [[Psalm 54 - Study Guide|Study guide]] · [[Psalm 54 - My Notes|My notes]] · [[Psalms]] · [[Psalm 55|Psalm 55 →]]
+[[Psalm 53|← Psalm 53]] · [[Psalm 54 (Annotated)|Annotated]] · [[Psalm 54 - Study Guide|Study guide]] · [[Psalm 54 - My Notes|My notes]] · [[Psalms]] · [[Psalm 55|Psalm 55 →]]

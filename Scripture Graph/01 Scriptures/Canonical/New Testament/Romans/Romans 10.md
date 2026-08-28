@@ -56,4 +56,4 @@ cssclasses:
 **21** But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. ^rom-10-21
 
 ---
-[[Romans 9|← Romans 9]] · [[Romans 10 - Study Guide|Study guide]] · [[Romans 10 - My Notes|My notes]] · [[Romans]] · [[Romans 11|Romans 11 →]]
+[[Romans 9|← Romans 9]] · [[Romans 10 (Annotated)|Annotated]] · [[Romans 10 - Study Guide|Study guide]] · [[Romans 10 - My Notes|My notes]] · [[Romans]] · [[Romans 11|Romans 11 →]]

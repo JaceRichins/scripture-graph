@@ -44,4 +44,4 @@ cssclasses:
 **15** And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly. ^1sam-11-15
 
 ---
-[[1 Samuel 10|← 1 Samuel 10]] · [[1 Samuel 11 - Study Guide|Study guide]] · [[1 Samuel 11 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 12|1 Samuel 12 →]]
+[[1 Samuel 10|← 1 Samuel 10]] · [[1 Samuel 11 (Annotated)|Annotated]] · [[1 Samuel 11 - Study Guide|Study guide]] · [[1 Samuel 11 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 12|1 Samuel 12 →]]

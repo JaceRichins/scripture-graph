@@ -74,4 +74,4 @@ cssclasses:
 **30** And Balak did as Balaam had said, and offered a bullock and a ram on every altar. ^num-23-30
 
 ---
-[[Numbers 22|← Numbers 22]] · [[Numbers 23 - Study Guide|Study guide]] · [[Numbers 23 - My Notes|My notes]] · [[Numbers]] · [[Numbers 24|Numbers 24 →]]
+[[Numbers 22|← Numbers 22]] · [[Numbers 23 (Annotated)|Annotated]] · [[Numbers 23 - Study Guide|Study guide]] · [[Numbers 23 - My Notes|My notes]] · [[Numbers]] · [[Numbers 24|Numbers 24 →]]

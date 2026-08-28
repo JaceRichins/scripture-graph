@@ -74,4 +74,4 @@ cssclasses:
 **30** For my yoke is easy, and my burden is light. ^matt-11-30
 
 ---
-[[Matthew 10|← Matthew 10]] · [[Matthew 11 - Study Guide|Study guide]] · [[Matthew 11 - My Notes|My notes]] · [[Matthew]] · [[Matthew 12|Matthew 12 →]]
+[[Matthew 10|← Matthew 10]] · [[Matthew 11 (Annotated)|Annotated]] · [[Matthew 11 - Study Guide|Study guide]] · [[Matthew 11 - My Notes|My notes]] · [[Matthew]] · [[Matthew 12|Matthew 12 →]]

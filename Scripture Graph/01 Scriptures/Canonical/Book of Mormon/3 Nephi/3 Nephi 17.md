@@ -64,4 +64,4 @@ cssclasses:
 **25** And the multitude did see and hear and bear record; and they know that their record is true for they all of them did see and hear, every man for himself; and they were in number about two thousand and five hundred souls; and they did consist of men, women, and children. ^3ne-17-25
 
 ---
-[[3 Nephi 16|← 3 Nephi 16]] · [[3 Nephi 17 - Study Guide|Study guide]] · [[3 Nephi 17 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 18|3 Nephi 18 →]]
+[[3 Nephi 16|← 3 Nephi 16]] · [[3 Nephi 17 (Annotated)|Annotated]] · [[3 Nephi 17 - Study Guide|Study guide]] · [[3 Nephi 17 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 18|3 Nephi 18 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God. ^2chr-5-14
 
 ---
-[[2 Chronicles 4|← 2 Chronicles 4]] · [[2 Chronicles 5 - Study Guide|Study guide]] · [[2 Chronicles 5 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 6|2 Chronicles 6 →]]
+[[2 Chronicles 4|← 2 Chronicles 4]] · [[2 Chronicles 5 (Annotated)|Annotated]] · [[2 Chronicles 5 - Study Guide|Study guide]] · [[2 Chronicles 5 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 6|2 Chronicles 6 →]]

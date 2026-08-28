@@ -60,4 +60,4 @@ aliases:
 **22** The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate. ^ps-34-22
 
 ---
-[[Psalm 33|← Psalm 33]] · [[Psalm 34 - Study Guide|Study guide]] · [[Psalm 34 - My Notes|My notes]] · [[Psalms]] · [[Psalm 35|Psalm 35 →]]
+[[Psalm 33|← Psalm 33]] · [[Psalm 34 (Annotated)|Annotated]] · [[Psalm 34 - Study Guide|Study guide]] · [[Psalm 34 - My Notes|My notes]] · [[Psalms]] · [[Psalm 35|Psalm 35 →]]

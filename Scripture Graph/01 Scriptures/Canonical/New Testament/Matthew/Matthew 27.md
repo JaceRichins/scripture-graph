@@ -146,4 +146,4 @@ cssclasses:
 **66** So they went, and made the sepulchre sure, sealing the stone, and setting a watch. ^matt-27-66
 
 ---
-[[Matthew 26|← Matthew 26]] · [[Matthew 27 - Study Guide|Study guide]] · [[Matthew 27 - My Notes|My notes]] · [[Matthew]] · [[Matthew 28|Matthew 28 →]]
+[[Matthew 26|← Matthew 26]] · [[Matthew 27 (Annotated)|Annotated]] · [[Matthew 27 - Study Guide|Study guide]] · [[Matthew 27 - My Notes|My notes]] · [[Matthew]] · [[Matthew 28|Matthew 28 →]]

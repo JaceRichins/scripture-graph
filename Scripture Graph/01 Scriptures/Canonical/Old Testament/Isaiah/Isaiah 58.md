@@ -42,4 +42,4 @@ cssclasses:
 **14** Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken it. ^isa-58-14
 
 ---
-[[Isaiah 57|← Isaiah 57]] · [[Isaiah 58 - Study Guide|Study guide]] · [[Isaiah 58 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 59|Isaiah 59 →]]
+[[Isaiah 57|← Isaiah 57]] · [[Isaiah 58 (Annotated)|Annotated]] · [[Isaiah 58 - Study Guide|Study guide]] · [[Isaiah 58 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 59|Isaiah 59 →]]

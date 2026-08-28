@@ -28,4 +28,4 @@ aliases:
 **6** Let every thing that hath breath praise the LORD. Praise ye the LORD. ^ps-150-6
 
 ---
-[[Psalm 149|← Psalm 149]] · [[Psalm 150 - Study Guide|Study guide]] · [[Psalm 150 - My Notes|My notes]] · [[Psalms]]
+[[Psalm 149|← Psalm 149]] · [[Psalm 150 (Annotated)|Annotated]] · [[Psalm 150 - Study Guide|Study guide]] · [[Psalm 150 - My Notes|My notes]] · [[Psalms]]

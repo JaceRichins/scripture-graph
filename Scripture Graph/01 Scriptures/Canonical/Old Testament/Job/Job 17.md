@@ -46,4 +46,4 @@ cssclasses:
 **16** They shall go down to the bars of the pit, when our rest together is in the dust. ^job-17-16
 
 ---
-[[Job 16|← Job 16]] · [[Job 17 - Study Guide|Study guide]] · [[Job 17 - My Notes|My notes]] · [[Job]] · [[Job 18|Job 18 →]]
+[[Job 16|← Job 16]] · [[Job 17 (Annotated)|Annotated]] · [[Job 17 - Study Guide|Study guide]] · [[Job 17 - My Notes|My notes]] · [[Job]] · [[Job 18|Job 18 →]]

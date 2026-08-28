@@ -38,4 +38,4 @@ aliases:
 **11** So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth. ^ps-58-11
 
 ---
-[[Psalm 57|← Psalm 57]] · [[Psalm 58 - Study Guide|Study guide]] · [[Psalm 58 - My Notes|My notes]] · [[Psalms]] · [[Psalm 59|Psalm 59 →]]
+[[Psalm 57|← Psalm 57]] · [[Psalm 58 (Annotated)|Annotated]] · [[Psalm 58 - Study Guide|Study guide]] · [[Psalm 58 - My Notes|My notes]] · [[Psalms]] · [[Psalm 59|Psalm 59 →]]

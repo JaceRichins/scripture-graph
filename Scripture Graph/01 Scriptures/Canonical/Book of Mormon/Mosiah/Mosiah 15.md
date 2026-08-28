@@ -76,4 +76,4 @@ cssclasses:
 **31** The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God. ^mosiah-15-31
 
 ---
-[[Mosiah 14|← Mosiah 14]] · [[Mosiah 15 - Study Guide|Study guide]] · [[Mosiah 15 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 16|Mosiah 16 →]]
+[[Mosiah 14|← Mosiah 14]] · [[Mosiah 15 (Annotated)|Annotated]] · [[Mosiah 15 - Study Guide|Study guide]] · [[Mosiah 15 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 16|Mosiah 16 →]]

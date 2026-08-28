@@ -44,4 +44,4 @@ cssclasses:
 **15** This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand. ^zeph-2-15
 
 ---
-[[Zephaniah 1|← Zephaniah 1]] · [[Zephaniah 2 - Study Guide|Study guide]] · [[Zephaniah 2 - My Notes|My notes]] · [[Zephaniah]] · [[Zephaniah 3|Zephaniah 3 →]]
+[[Zephaniah 1|← Zephaniah 1]] · [[Zephaniah 2 (Annotated)|Annotated]] · [[Zephaniah 2 - Study Guide|Study guide]] · [[Zephaniah 2 - My Notes|My notes]] · [[Zephaniah]] · [[Zephaniah 3|Zephaniah 3 →]]

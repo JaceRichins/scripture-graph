@@ -96,4 +96,4 @@ cssclasses:
 **41** But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose. ^alma-46-41
 
 ---
-[[Alma 45|← Alma 45]] · [[Alma 46 - Study Guide|Study guide]] · [[Alma 46 - My Notes|My notes]] · [[Alma]] · [[Alma 47|Alma 47 →]]
+[[Alma 45|← Alma 45]] · [[Alma 46 (Annotated)|Annotated]] · [[Alma 46 - Study Guide|Study guide]] · [[Alma 46 - My Notes|My notes]] · [[Alma]] · [[Alma 47|Alma 47 →]]

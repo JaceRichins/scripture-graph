@@ -36,4 +36,4 @@ aliases:
 **10** The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD. ^ps-146-10
 
 ---
-[[Psalm 145|← Psalm 145]] · [[Psalm 146 - Study Guide|Study guide]] · [[Psalm 146 - My Notes|My notes]] · [[Psalms]] · [[Psalm 147|Psalm 147 →]]
+[[Psalm 145|← Psalm 145]] · [[Psalm 146 (Annotated)|Annotated]] · [[Psalm 146 - Study Guide|Study guide]] · [[Psalm 146 - My Notes|My notes]] · [[Psalms]] · [[Psalm 147|Psalm 147 →]]

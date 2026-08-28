@@ -66,4 +66,4 @@ cssclasses:
 **26** And they were exceedingly sorrowful because of their enemies. And Gidgiddoni did cause that they should make weapons of war of every kind, and they should be strong with armor, and with shields, and with bucklers, after the manner of his instruction. ^3ne-3-26
 
 ---
-[[3 Nephi 2|← 3 Nephi 2]] · [[3 Nephi 3 - Study Guide|Study guide]] · [[3 Nephi 3 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 4|3 Nephi 4 →]]
+[[3 Nephi 2|← 3 Nephi 2]] · [[3 Nephi 3 (Annotated)|Annotated]] · [[3 Nephi 3 - Study Guide|Study guide]] · [[3 Nephi 3 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 4|3 Nephi 4 →]]

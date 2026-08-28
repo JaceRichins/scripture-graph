@@ -76,4 +76,4 @@ cssclasses:
 **31** And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about. ^ex-38-31
 
 ---
-[[Exodus 37|← Exodus 37]] · [[Exodus 38 - Study Guide|Study guide]] · [[Exodus 38 - My Notes|My notes]] · [[Exodus]] · [[Exodus 39|Exodus 39 →]]
+[[Exodus 37|← Exodus 37]] · [[Exodus 38 (Annotated)|Annotated]] · [[Exodus 38 - Study Guide|Study guide]] · [[Exodus 38 - My Notes|My notes]] · [[Exodus]] · [[Exodus 39|Exodus 39 →]]

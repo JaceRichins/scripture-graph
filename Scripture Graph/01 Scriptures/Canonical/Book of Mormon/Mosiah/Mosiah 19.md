@@ -72,4 +72,4 @@ cssclasses:
 **29** And now king Limhi did have continual peace in his kingdom for the space of two years, that the Lamanites did not molest them nor seek to destroy them. ^mosiah-19-29
 
 ---
-[[Mosiah 18|← Mosiah 18]] · [[Mosiah 19 - Study Guide|Study guide]] · [[Mosiah 19 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 20|Mosiah 20 →]]
+[[Mosiah 18|← Mosiah 18]] · [[Mosiah 19 (Annotated)|Annotated]] · [[Mosiah 19 - Study Guide|Study guide]] · [[Mosiah 19 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 20|Mosiah 20 →]]

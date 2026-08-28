@@ -60,4 +60,4 @@ cssclasses:
 **23** The grace of our Lord Jesus Christ be with you all. Amen. ^philip-4-23
 
 ---
-[[Philippians 3|← Philippians 3]] · [[Philippians 4 - Study Guide|Study guide]] · [[Philippians 4 - My Notes|My notes]] · [[Philippians]]
+[[Philippians 3|← Philippians 3]] · [[Philippians 4 (Annotated)|Annotated]] · [[Philippians 4 - Study Guide|Study guide]] · [[Philippians 4 - My Notes|My notes]] · [[Philippians]]

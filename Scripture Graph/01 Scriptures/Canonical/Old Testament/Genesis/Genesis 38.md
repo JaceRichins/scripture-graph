@@ -74,4 +74,4 @@ cssclasses:
 **30** And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah. ^gen-38-30
 
 ---
-[[Genesis 37|← Genesis 37]] · [[Genesis 38 - Study Guide|Study guide]] · [[Genesis 38 - My Notes|My notes]] · [[Genesis]] · [[Genesis 39|Genesis 39 →]]
+[[Genesis 37|← Genesis 37]] · [[Genesis 38 (Annotated)|Annotated]] · [[Genesis 38 - Study Guide|Study guide]] · [[Genesis 38 - My Notes|My notes]] · [[Genesis]] · [[Genesis 39|Genesis 39 →]]

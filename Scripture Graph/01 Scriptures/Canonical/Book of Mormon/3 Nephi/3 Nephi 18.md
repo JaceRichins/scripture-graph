@@ -92,4 +92,4 @@ cssclasses:
 **39** And while they were overshadowed he departed from them, and ascended into heaven. And the disciples saw and did bear record that he ascended again into heaven. ^3ne-18-39
 
 ---
-[[3 Nephi 17|← 3 Nephi 17]] · [[3 Nephi 18 - Study Guide|Study guide]] · [[3 Nephi 18 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 19|3 Nephi 19 →]]
+[[3 Nephi 17|← 3 Nephi 17]] · [[3 Nephi 18 (Annotated)|Annotated]] · [[3 Nephi 18 - Study Guide|Study guide]] · [[3 Nephi 18 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 19|3 Nephi 19 →]]

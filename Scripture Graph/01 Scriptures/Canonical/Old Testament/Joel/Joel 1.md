@@ -54,4 +54,4 @@ cssclasses:
 **20** The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness. ^joel-1-20
 
 ---
-[[Joel 1 - Study Guide|Study guide]] · [[Joel 1 - My Notes|My notes]] · [[Joel]] · [[Joel 2|Joel 2 →]]
+[[Joel 1 (Annotated)|Annotated]] · [[Joel 1 - Study Guide|Study guide]] · [[Joel 1 - My Notes|My notes]] · [[Joel]] · [[Joel 2|Joel 2 →]]

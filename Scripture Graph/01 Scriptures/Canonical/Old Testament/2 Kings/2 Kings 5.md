@@ -68,4 +68,4 @@ cssclasses:
 **27** The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow. ^2kgs-5-27
 
 ---
-[[2 Kings 4|← 2 Kings 4]] · [[2 Kings 5 - Study Guide|Study guide]] · [[2 Kings 5 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 6|2 Kings 6 →]]
+[[2 Kings 4|← 2 Kings 4]] · [[2 Kings 5 (Annotated)|Annotated]] · [[2 Kings 5 - Study Guide|Study guide]] · [[2 Kings 5 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 6|2 Kings 6 →]]

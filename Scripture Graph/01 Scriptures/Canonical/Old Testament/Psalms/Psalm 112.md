@@ -36,4 +36,4 @@ aliases:
 **10** The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish. ^ps-112-10
 
 ---
-[[Psalm 111|← Psalm 111]] · [[Psalm 112 - Study Guide|Study guide]] · [[Psalm 112 - My Notes|My notes]] · [[Psalms]] · [[Psalm 113|Psalm 113 →]]
+[[Psalm 111|← Psalm 111]] · [[Psalm 112 (Annotated)|Annotated]] · [[Psalm 112 - Study Guide|Study guide]] · [[Psalm 112 - My Notes|My notes]] · [[Psalms]] · [[Psalm 113|Psalm 113 →]]

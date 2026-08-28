@@ -102,4 +102,4 @@ aliases:
 **43** Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the LORD. ^ps-107-43
 
 ---
-[[Psalm 106|← Psalm 106]] · [[Psalm 107 - Study Guide|Study guide]] · [[Psalm 107 - My Notes|My notes]] · [[Psalms]] · [[Psalm 108|Psalm 108 →]]
+[[Psalm 106|← Psalm 106]] · [[Psalm 107 (Annotated)|Annotated]] · [[Psalm 107 - Study Guide|Study guide]] · [[Psalm 107 - My Notes|My notes]] · [[Psalms]] · [[Psalm 108|Psalm 108 →]]

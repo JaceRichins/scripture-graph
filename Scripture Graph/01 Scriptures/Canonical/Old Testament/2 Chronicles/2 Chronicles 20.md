@@ -88,4 +88,4 @@ cssclasses:
 **37** Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. ^2chr-20-37
 
 ---
-[[2 Chronicles 19|← 2 Chronicles 19]] · [[2 Chronicles 20 - Study Guide|Study guide]] · [[2 Chronicles 20 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 21|2 Chronicles 21 →]]
+[[2 Chronicles 19|← 2 Chronicles 19]] · [[2 Chronicles 20 (Annotated)|Annotated]] · [[2 Chronicles 20 - Study Guide|Study guide]] · [[2 Chronicles 20 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 21|2 Chronicles 21 →]]

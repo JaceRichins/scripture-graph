@@ -62,4 +62,4 @@ cssclasses:
 **24** But behold, ye have both heard my voice, and seen me; and ye are my sheep, and ye are numbered among those whom the Father hath given me. ^3ne-15-24
 
 ---
-[[3 Nephi 14|← 3 Nephi 14]] · [[3 Nephi 15 - Study Guide|Study guide]] · [[3 Nephi 15 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 16|3 Nephi 16 →]]
+[[3 Nephi 14|← 3 Nephi 14]] · [[3 Nephi 15 (Annotated)|Annotated]] · [[3 Nephi 15 - Study Guide|Study guide]] · [[3 Nephi 15 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 16|3 Nephi 16 →]]

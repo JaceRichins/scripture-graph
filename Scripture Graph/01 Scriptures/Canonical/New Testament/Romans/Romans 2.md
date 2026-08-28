@@ -72,4 +72,4 @@ cssclasses:
 **29** But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God. ^rom-2-29
 
 ---
-[[Romans 1|← Romans 1]] · [[Romans 2 - Study Guide|Study guide]] · [[Romans 2 - My Notes|My notes]] · [[Romans]] · [[Romans 3|Romans 3 →]]
+[[Romans 1|← Romans 1]] · [[Romans 2 (Annotated)|Annotated]] · [[Romans 2 - Study Guide|Study guide]] · [[Romans 2 - My Notes|My notes]] · [[Romans]] · [[Romans 3|Romans 3 →]]

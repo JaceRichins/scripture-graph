@@ -56,4 +56,4 @@ cssclasses:
 **21** And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed. ^2cor-12-21
 
 ---
-[[2 Corinthians 11|← 2 Corinthians 11]] · [[2 Corinthians 12 - Study Guide|Study guide]] · [[2 Corinthians 12 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 13|2 Corinthians 13 →]]
+[[2 Corinthians 11|← 2 Corinthians 11]] · [[2 Corinthians 12 (Annotated)|Annotated]] · [[2 Corinthians 12 - Study Guide|Study guide]] · [[2 Corinthians 12 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 13|2 Corinthians 13 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. ^heb-5-14
 
 ---
-[[Hebrews 4|← Hebrews 4]] · [[Hebrews 5 - Study Guide|Study guide]] · [[Hebrews 5 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 6|Hebrews 6 →]]
+[[Hebrews 4|← Hebrews 4]] · [[Hebrews 5 (Annotated)|Annotated]] · [[Hebrews 5 - Study Guide|Study guide]] · [[Hebrews 5 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 6|Hebrews 6 →]]

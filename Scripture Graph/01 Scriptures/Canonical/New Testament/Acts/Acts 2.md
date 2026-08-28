@@ -108,4 +108,4 @@ cssclasses:
 **47** Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved. ^acts-2-47
 
 ---
-[[Acts 1|← Acts 1]] · [[Acts 2 - Study Guide|Study guide]] · [[Acts 2 - My Notes|My notes]] · [[Acts]] · [[Acts 3|Acts 3 →]]
+[[Acts 1|← Acts 1]] · [[Acts 2 (Annotated)|Annotated]] · [[Acts 2 - Study Guide|Study guide]] · [[Acts 2 - My Notes|My notes]] · [[Acts]] · [[Acts 3|Acts 3 →]]

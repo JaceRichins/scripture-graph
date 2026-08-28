@@ -96,4 +96,4 @@ cssclasses:
 **41** And he went through Syria and Cilicia, confirming the churches. ^acts-15-41
 
 ---
-[[Acts 14|← Acts 14]] · [[Acts 15 - Study Guide|Study guide]] · [[Acts 15 - My Notes|My notes]] · [[Acts]] · [[Acts 16|Acts 16 →]]
+[[Acts 14|← Acts 14]] · [[Acts 15 (Annotated)|Annotated]] · [[Acts 15 - Study Guide|Study guide]] · [[Acts 15 - My Notes|My notes]] · [[Acts]] · [[Acts 16|Acts 16 →]]

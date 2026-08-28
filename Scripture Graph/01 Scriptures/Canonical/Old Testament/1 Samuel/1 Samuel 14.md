@@ -118,4 +118,4 @@ cssclasses:
 **52** And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him. ^1sam-14-52
 
 ---
-[[1 Samuel 13|← 1 Samuel 13]] · [[1 Samuel 14 - Study Guide|Study guide]] · [[1 Samuel 14 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 15|1 Samuel 15 →]]
+[[1 Samuel 13|← 1 Samuel 13]] · [[1 Samuel 14 (Annotated)|Annotated]] · [[1 Samuel 14 - Study Guide|Study guide]] · [[1 Samuel 14 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 15|1 Samuel 15 →]]

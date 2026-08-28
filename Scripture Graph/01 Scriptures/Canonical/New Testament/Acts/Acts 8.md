@@ -94,4 +94,4 @@ cssclasses:
 **40** But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cæsarea. ^acts-8-40
 
 ---
-[[Acts 7|← Acts 7]] · [[Acts 8 - Study Guide|Study guide]] · [[Acts 8 - My Notes|My notes]] · [[Acts]] · [[Acts 9|Acts 9 →]]
+[[Acts 7|← Acts 7]] · [[Acts 8 (Annotated)|Annotated]] · [[Acts 8 - Study Guide|Study guide]] · [[Acts 8 - My Notes|My notes]] · [[Acts]] · [[Acts 9|Acts 9 →]]

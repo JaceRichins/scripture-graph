@@ -98,4 +98,4 @@ cssclasses:
 **42** And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city. ^1sam-20-42
 
 ---
-[[1 Samuel 19|← 1 Samuel 19]] · [[1 Samuel 20 - Study Guide|Study guide]] · [[1 Samuel 20 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 21|1 Samuel 21 →]]
+[[1 Samuel 19|← 1 Samuel 19]] · [[1 Samuel 20 (Annotated)|Annotated]] · [[1 Samuel 20 - Study Guide|Study guide]] · [[1 Samuel 20 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 21|1 Samuel 21 →]]

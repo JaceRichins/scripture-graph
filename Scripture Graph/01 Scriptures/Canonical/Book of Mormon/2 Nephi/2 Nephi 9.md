@@ -122,4 +122,4 @@ cssclasses:
 **54** And now, my brethren, I would speak unto you more; but on the morrow I will declare unto you the remainder of my words. Amen. ^2ne-9-54
 
 ---
-[[2 Nephi 8|← 2 Nephi 8]] · [[2 Nephi 9 - Study Guide|Study guide]] · [[2 Nephi 9 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 10|2 Nephi 10 →]]
+[[2 Nephi 8|← 2 Nephi 8]] · [[2 Nephi 9 (Annotated)|Annotated]] · [[2 Nephi 9 - Study Guide|Study guide]] · [[2 Nephi 9 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 10|2 Nephi 10 →]]

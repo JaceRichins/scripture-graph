@@ -30,4 +30,4 @@ cssclasses:
 **8** And I will make the land desolate, because they have committed a trespass, saith the Lord GOD. ^ezek-15-8
 
 ---
-[[Ezekiel 14|← Ezekiel 14]] · [[Ezekiel 15 - Study Guide|Study guide]] · [[Ezekiel 15 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 16|Ezekiel 16 →]]
+[[Ezekiel 14|← Ezekiel 14]] · [[Ezekiel 15 (Annotated)|Annotated]] · [[Ezekiel 15 - Study Guide|Study guide]] · [[Ezekiel 15 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 16|Ezekiel 16 →]]

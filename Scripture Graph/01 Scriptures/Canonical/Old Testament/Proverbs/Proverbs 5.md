@@ -60,4 +60,4 @@ cssclasses:
 **23** He shall die without instruction; and in the greatness of his folly he shall go astray. ^prov-5-23
 
 ---
-[[Proverbs 4|← Proverbs 4]] · [[Proverbs 5 - Study Guide|Study guide]] · [[Proverbs 5 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 6|Proverbs 6 →]]
+[[Proverbs 4|← Proverbs 4]] · [[Proverbs 5 (Annotated)|Annotated]] · [[Proverbs 5 - Study Guide|Study guide]] · [[Proverbs 5 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 6|Proverbs 6 →]]

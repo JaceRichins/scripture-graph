@@ -58,4 +58,4 @@ aliases:
 **21** My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever. ^ps-145-21
 
 ---
-[[Psalm 144|← Psalm 144]] · [[Psalm 145 - Study Guide|Study guide]] · [[Psalm 145 - My Notes|My notes]] · [[Psalms]] · [[Psalm 146|Psalm 146 →]]
+[[Psalm 144|← Psalm 144]] · [[Psalm 145 (Annotated)|Annotated]] · [[Psalm 145 - Study Guide|Study guide]] · [[Psalm 145 - My Notes|My notes]] · [[Psalms]] · [[Psalm 146|Psalm 146 →]]

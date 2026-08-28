@@ -62,4 +62,4 @@ cssclasses:
 **24** And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us. ^josh-2-24
 
 ---
-[[Joshua 1|← Joshua 1]] · [[Joshua 2 - Study Guide|Study guide]] · [[Joshua 2 - My Notes|My notes]] · [[Joshua]] · [[Joshua 3|Joshua 3 →]]
+[[Joshua 1|← Joshua 1]] · [[Joshua 2 (Annotated)|Annotated]] · [[Joshua 2 - Study Guide|Study guide]] · [[Joshua 2 - My Notes|My notes]] · [[Joshua]] · [[Joshua 3|Joshua 3 →]]

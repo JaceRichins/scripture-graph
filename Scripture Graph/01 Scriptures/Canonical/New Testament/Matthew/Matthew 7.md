@@ -72,4 +72,4 @@ cssclasses:
 **29** For he taught them as one having authority, and not as the scribes. ^matt-7-29
 
 ---
-[[Matthew 6|← Matthew 6]] · [[Matthew 7 - Study Guide|Study guide]] · [[Matthew 7 - My Notes|My notes]] · [[Matthew]] · [[Matthew 8|Matthew 8 →]]
+[[Matthew 6|← Matthew 6]] · [[Matthew 7 (Annotated)|Annotated]] · [[Matthew 7 - Study Guide|Study guide]] · [[Matthew 7 - My Notes|My notes]] · [[Matthew]] · [[Matthew 8|Matthew 8 →]]

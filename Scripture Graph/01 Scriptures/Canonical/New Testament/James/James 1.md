@@ -68,4 +68,4 @@ cssclasses:
 **27** Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. ^james-1-27
 
 ---
-[[James 1 - Study Guide|Study guide]] · [[James 1 - My Notes|My notes]] · [[James]] · [[James 2|James 2 →]]
+[[James 1 (Annotated)|Annotated]] · [[James 1 - Study Guide|Study guide]] · [[James 1 - My Notes|My notes]] · [[James]] · [[James 2|James 2 →]]

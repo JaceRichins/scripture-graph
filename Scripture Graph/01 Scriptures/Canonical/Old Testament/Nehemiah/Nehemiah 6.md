@@ -52,4 +52,4 @@ cssclasses:
 **19** Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear. ^neh-6-19
 
 ---
-[[Nehemiah 5|← Nehemiah 5]] · [[Nehemiah 6 - Study Guide|Study guide]] · [[Nehemiah 6 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 7|Nehemiah 7 →]]
+[[Nehemiah 5|← Nehemiah 5]] · [[Nehemiah 6 (Annotated)|Annotated]] · [[Nehemiah 6 - Study Guide|Study guide]] · [[Nehemiah 6 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 7|Nehemiah 7 →]]

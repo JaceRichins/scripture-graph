@@ -70,4 +70,4 @@ cssclasses:
 **28** A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin. ^prov-26-28
 
 ---
-[[Proverbs 25|← Proverbs 25]] · [[Proverbs 26 - Study Guide|Study guide]] · [[Proverbs 26 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 27|Proverbs 27 →]]
+[[Proverbs 25|← Proverbs 25]] · [[Proverbs 26 (Annotated)|Annotated]] · [[Proverbs 26 - Study Guide|Study guide]] · [[Proverbs 26 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 27|Proverbs 27 →]]

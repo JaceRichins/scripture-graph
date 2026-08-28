@@ -40,4 +40,4 @@ cssclasses:
 **13** And it came to pass that Moroni was angry with the government, because of their indifference concerning the freedom of their country. ^alma-59-13
 
 ---
-[[Alma 58|← Alma 58]] · [[Alma 59 - Study Guide|Study guide]] · [[Alma 59 - My Notes|My notes]] · [[Alma]] · [[Alma 60|Alma 60 →]]
+[[Alma 58|← Alma 58]] · [[Alma 59 (Annotated)|Annotated]] · [[Alma 59 - Study Guide|Study guide]] · [[Alma 59 - My Notes|My notes]] · [[Alma]] · [[Alma 60|Alma 60 →]]

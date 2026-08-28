@@ -44,4 +44,4 @@ cssclasses:
 **15** And I will execute vengeance in anger and fury upon the heathen, such as they have not heard. ^micah-5-15
 
 ---
-[[Micah 4|← Micah 4]] · [[Micah 5 - Study Guide|Study guide]] · [[Micah 5 - My Notes|My notes]] · [[Micah]] · [[Micah 6|Micah 6 →]]
+[[Micah 4|← Micah 4]] · [[Micah 5 (Annotated)|Annotated]] · [[Micah 5 - Study Guide|Study guide]] · [[Micah 5 - My Notes|My notes]] · [[Micah]] · [[Micah 6|Micah 6 →]]

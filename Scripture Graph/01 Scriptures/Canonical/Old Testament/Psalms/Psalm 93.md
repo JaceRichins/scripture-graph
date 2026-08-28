@@ -26,4 +26,4 @@ aliases:
 **5** Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever. ^ps-93-5
 
 ---
-[[Psalm 92|← Psalm 92]] · [[Psalm 93 - Study Guide|Study guide]] · [[Psalm 93 - My Notes|My notes]] · [[Psalms]] · [[Psalm 94|Psalm 94 →]]
+[[Psalm 92|← Psalm 92]] · [[Psalm 93 (Annotated)|Annotated]] · [[Psalm 93 - Study Guide|Study guide]] · [[Psalm 93 - My Notes|My notes]] · [[Psalms]] · [[Psalm 94|Psalm 94 →]]

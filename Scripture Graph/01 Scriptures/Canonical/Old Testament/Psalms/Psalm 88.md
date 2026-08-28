@@ -52,4 +52,4 @@ aliases:
 **18** Lover and friend hast thou put far from me, and mine acquaintance into darkness. ^ps-88-18
 
 ---
-[[Psalm 87|← Psalm 87]] · [[Psalm 88 - Study Guide|Study guide]] · [[Psalm 88 - My Notes|My notes]] · [[Psalms]] · [[Psalm 89|Psalm 89 →]]
+[[Psalm 87|← Psalm 87]] · [[Psalm 88 (Annotated)|Annotated]] · [[Psalm 88 - Study Guide|Study guide]] · [[Psalm 88 - My Notes|My notes]] · [[Psalms]] · [[Psalm 89|Psalm 89 →]]

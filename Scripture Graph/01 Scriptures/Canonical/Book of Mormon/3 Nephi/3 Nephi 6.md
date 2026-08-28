@@ -74,4 +74,4 @@ cssclasses:
 **30** And they did set at defiance the law and the rights of their country; and they did covenant one with another to destroy the governor, and to establish a king over the land, that the land should no more be at liberty but should be subject unto kings. ^3ne-6-30
 
 ---
-[[3 Nephi 5|← 3 Nephi 5]] · [[3 Nephi 6 - Study Guide|Study guide]] · [[3 Nephi 6 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 7|3 Nephi 7 →]]
+[[3 Nephi 5|← 3 Nephi 5]] · [[3 Nephi 6 (Annotated)|Annotated]] · [[3 Nephi 6 - Study Guide|Study guide]] · [[3 Nephi 6 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 7|3 Nephi 7 →]]

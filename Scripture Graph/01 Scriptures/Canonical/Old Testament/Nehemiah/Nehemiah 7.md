@@ -160,4 +160,4 @@ cssclasses:
 **73** So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities. ^neh-7-73
 
 ---
-[[Nehemiah 6|← Nehemiah 6]] · [[Nehemiah 7 - Study Guide|Study guide]] · [[Nehemiah 7 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 8|Nehemiah 8 →]]
+[[Nehemiah 6|← Nehemiah 6]] · [[Nehemiah 7 (Annotated)|Annotated]] · [[Nehemiah 7 - Study Guide|Study guide]] · [[Nehemiah 7 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 8|Nehemiah 8 →]]

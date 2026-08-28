@@ -82,4 +82,4 @@ cssclasses:
 **34** And it came to pass that Amulek went and stood forth, and began to preach unto them also. And now the words of Amulek are not all written, nevertheless a part of his words are written in this book. ^alma-9-34
 
 ---
-[[Alma 8|← Alma 8]] · [[Alma 9 - Study Guide|Study guide]] · [[Alma 9 - My Notes|My notes]] · [[Alma]] · [[Alma 10|Alma 10 →]]
+[[Alma 8|← Alma 8]] · [[Alma 9 (Annotated)|Annotated]] · [[Alma 9 - Study Guide|Study guide]] · [[Alma 9 - My Notes|My notes]] · [[Alma]] · [[Alma 10|Alma 10 →]]

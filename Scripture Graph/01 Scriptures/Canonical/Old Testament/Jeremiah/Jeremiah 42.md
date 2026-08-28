@@ -58,4 +58,4 @@ cssclasses:
 **22** Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go and to sojourn. ^jer-42-22
 
 ---
-[[Jeremiah 41|← Jeremiah 41]] · [[Jeremiah 42 - Study Guide|Study guide]] · [[Jeremiah 42 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 43|Jeremiah 43 →]]
+[[Jeremiah 41|← Jeremiah 41]] · [[Jeremiah 42 (Annotated)|Annotated]] · [[Jeremiah 42 - Study Guide|Study guide]] · [[Jeremiah 42 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 43|Jeremiah 43 →]]

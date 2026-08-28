@@ -50,4 +50,4 @@ cssclasses:
 **18** Wherefore, all things which have been revealed unto the children of men shall at that day be revealed; and Satan shall have power over the hearts of the children of men no more, for a long time. And now, my beloved brethren, I make an end of my sayings. ^2ne-30-18
 
 ---
-[[2 Nephi 29|← 2 Nephi 29]] · [[2 Nephi 30 - Study Guide|Study guide]] · [[2 Nephi 30 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 31|2 Nephi 31 →]]
+[[2 Nephi 29|← 2 Nephi 29]] · [[2 Nephi 30 (Annotated)|Annotated]] · [[2 Nephi 30 - Study Guide|Study guide]] · [[2 Nephi 30 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 31|2 Nephi 31 →]]

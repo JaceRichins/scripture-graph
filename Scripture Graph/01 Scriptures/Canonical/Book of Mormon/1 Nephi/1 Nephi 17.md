@@ -124,4 +124,4 @@ cssclasses:
 **55** And now, they said: We know of a surety that the Lord is with thee, for we know that it is the power of the Lord that has shaken us. And they fell down before me, and were about to worship me, but I would not suffer them, saying: I am thy brother, yea, even thy younger brother; wherefore, worship the Lord thy God, and honor thy father and thy mother, that thy days may be long in the land which the Lord thy God shall give thee. ^1ne-17-55
 
 ---
-[[1 Nephi 16|← 1 Nephi 16]] · [[1 Nephi 17 - Study Guide|Study guide]] · [[1 Nephi 17 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 18|1 Nephi 18 →]]
+[[1 Nephi 16|← 1 Nephi 16]] · [[1 Nephi 17 (Annotated)|Annotated]] · [[1 Nephi 17 - Study Guide|Study guide]] · [[1 Nephi 17 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 18|1 Nephi 18 →]]

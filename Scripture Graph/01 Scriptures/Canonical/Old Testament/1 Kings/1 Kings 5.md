@@ -50,4 +50,4 @@ cssclasses:
 **18** And Solomon's builders and Hiram's builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house. ^1kgs-5-18
 
 ---
-[[1 Kings 4|← 1 Kings 4]] · [[1 Kings 5 - Study Guide|Study guide]] · [[1 Kings 5 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 6|1 Kings 6 →]]
+[[1 Kings 4|← 1 Kings 4]] · [[1 Kings 5 (Annotated)|Annotated]] · [[1 Kings 5 - Study Guide|Study guide]] · [[1 Kings 5 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 6|1 Kings 6 →]]

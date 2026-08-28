@@ -46,4 +46,4 @@ cssclasses:
 **16** And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran. ^num-12-16
 
 ---
-[[Numbers 11|← Numbers 11]] · [[Numbers 12 - Study Guide|Study guide]] · [[Numbers 12 - My Notes|My notes]] · [[Numbers]] · [[Numbers 13|Numbers 13 →]]
+[[Numbers 11|← Numbers 11]] · [[Numbers 12 (Annotated)|Annotated]] · [[Numbers 12 - Study Guide|Study guide]] · [[Numbers 12 - My Notes|My notes]] · [[Numbers]] · [[Numbers 13|Numbers 13 →]]

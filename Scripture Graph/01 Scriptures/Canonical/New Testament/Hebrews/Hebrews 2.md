@@ -50,4 +50,4 @@ cssclasses:
 **18** For in that he himself hath suffered being tempted, he is able to succour them that are tempted. ^heb-2-18
 
 ---
-[[Hebrews 1|← Hebrews 1]] · [[Hebrews 2 - Study Guide|Study guide]] · [[Hebrews 2 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 3|Hebrews 3 →]]
+[[Hebrews 1|← Hebrews 1]] · [[Hebrews 2 (Annotated)|Annotated]] · [[Hebrews 2 - Study Guide|Study guide]] · [[Hebrews 2 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 3|Hebrews 3 →]]

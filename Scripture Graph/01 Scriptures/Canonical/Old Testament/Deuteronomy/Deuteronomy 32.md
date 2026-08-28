@@ -118,4 +118,4 @@ cssclasses:
 **52** Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel. ^deut-32-52
 
 ---
-[[Deuteronomy 31|← Deuteronomy 31]] · [[Deuteronomy 32 - Study Guide|Study guide]] · [[Deuteronomy 32 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 33|Deuteronomy 33 →]]
+[[Deuteronomy 31|← Deuteronomy 31]] · [[Deuteronomy 32 (Annotated)|Annotated]] · [[Deuteronomy 32 - Study Guide|Study guide]] · [[Deuteronomy 32 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 33|Deuteronomy 33 →]]

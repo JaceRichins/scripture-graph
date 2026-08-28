@@ -68,4 +68,4 @@ cssclasses:
 **27** And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell, and great was the fall of it. ^3ne-14-27
 
 ---
-[[3 Nephi 13|← 3 Nephi 13]] · [[3 Nephi 14 - Study Guide|Study guide]] · [[3 Nephi 14 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 15|3 Nephi 15 →]]
+[[3 Nephi 13|← 3 Nephi 13]] · [[3 Nephi 14 (Annotated)|Annotated]] · [[3 Nephi 14 - Study Guide|Study guide]] · [[3 Nephi 14 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 15|3 Nephi 15 →]]

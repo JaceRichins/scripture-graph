@@ -80,4 +80,4 @@ cssclasses:
 **33** For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it. ^isa-30-33
 
 ---
-[[Isaiah 29|← Isaiah 29]] · [[Isaiah 30 - Study Guide|Study guide]] · [[Isaiah 30 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 31|Isaiah 31 →]]
+[[Isaiah 29|← Isaiah 29]] · [[Isaiah 30 (Annotated)|Annotated]] · [[Isaiah 30 - Study Guide|Study guide]] · [[Isaiah 30 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 31|Isaiah 31 →]]

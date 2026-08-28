@@ -54,4 +54,4 @@ cssclasses:
 **20** And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. ^rev-14-20
 
 ---
-[[Revelation 13|← Revelation 13]] · [[Revelation 14 - Study Guide|Study guide]] · [[Revelation 14 - My Notes|My notes]] · [[Revelation]] · [[Revelation 15|Revelation 15 →]]
+[[Revelation 13|← Revelation 13]] · [[Revelation 14 (Annotated)|Annotated]] · [[Revelation 14 - Study Guide|Study guide]] · [[Revelation 14 - My Notes|My notes]] · [[Revelation]] · [[Revelation 15|Revelation 15 →]]

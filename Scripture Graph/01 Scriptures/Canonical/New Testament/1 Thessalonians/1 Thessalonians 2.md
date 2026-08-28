@@ -54,4 +54,4 @@ cssclasses:
 **20** For ye are our glory and joy. ^1thes-2-20
 
 ---
-[[1 Thessalonians 1|← 1 Thessalonians 1]] · [[1 Thessalonians 2 - Study Guide|Study guide]] · [[1 Thessalonians 2 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 3|1 Thessalonians 3 →]]
+[[1 Thessalonians 1|← 1 Thessalonians 1]] · [[1 Thessalonians 2 (Annotated)|Annotated]] · [[1 Thessalonians 2 - Study Guide|Study guide]] · [[1 Thessalonians 2 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 3|1 Thessalonians 3 →]]

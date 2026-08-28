@@ -42,4 +42,4 @@ cssclasses:
 **14** But cursed be the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the LORD of hosts, and my name is dreadful among the heathen. ^mal-1-14
 
 ---
-[[Malachi 1 - Study Guide|Study guide]] · [[Malachi 1 - My Notes|My notes]] · [[Malachi]] · [[Malachi 2|Malachi 2 →]]
+[[Malachi 1 (Annotated)|Annotated]] · [[Malachi 1 - Study Guide|Study guide]] · [[Malachi 1 - My Notes|My notes]] · [[Malachi]] · [[Malachi 2|Malachi 2 →]]

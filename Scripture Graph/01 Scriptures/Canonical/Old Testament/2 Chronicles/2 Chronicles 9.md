@@ -76,4 +76,4 @@ cssclasses:
 **31** And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead. ^2chr-9-31
 
 ---
-[[2 Chronicles 8|← 2 Chronicles 8]] · [[2 Chronicles 9 - Study Guide|Study guide]] · [[2 Chronicles 9 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 10|2 Chronicles 10 →]]
+[[2 Chronicles 8|← 2 Chronicles 8]] · [[2 Chronicles 9 (Annotated)|Annotated]] · [[2 Chronicles 9 - Study Guide|Study guide]] · [[2 Chronicles 9 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 10|2 Chronicles 10 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** In those days there was no king in Israel: every man did that which was right in his own eyes. ^judg-21-25
 
 ---
-[[Judges 20|← Judges 20]] · [[Judges 21 - Study Guide|Study guide]] · [[Judges 21 - My Notes|My notes]] · [[Judges]]
+[[Judges 20|← Judges 20]] · [[Judges 21 (Annotated)|Annotated]] · [[Judges 21 - Study Guide|Study guide]] · [[Judges 21 - My Notes|My notes]] · [[Judges]]

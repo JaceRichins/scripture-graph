@@ -44,4 +44,4 @@ cssclasses:
 **15** So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider. ^isa-52-15
 
 ---
-[[Isaiah 51|← Isaiah 51]] · [[Isaiah 52 - Study Guide|Study guide]] · [[Isaiah 52 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 53|Isaiah 53 →]]
+[[Isaiah 51|← Isaiah 51]] · [[Isaiah 52 (Annotated)|Annotated]] · [[Isaiah 52 - Study Guide|Study guide]] · [[Isaiah 52 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 53|Isaiah 53 →]]

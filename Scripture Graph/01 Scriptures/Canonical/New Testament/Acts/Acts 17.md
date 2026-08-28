@@ -82,4 +82,4 @@ cssclasses:
 **34** Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them. ^acts-17-34
 
 ---
-[[Acts 16|← Acts 16]] · [[Acts 17 - Study Guide|Study guide]] · [[Acts 17 - My Notes|My notes]] · [[Acts]] · [[Acts 18|Acts 18 →]]
+[[Acts 16|← Acts 16]] · [[Acts 17 (Annotated)|Annotated]] · [[Acts 17 - Study Guide|Study guide]] · [[Acts 17 - My Notes|My notes]] · [[Acts]] · [[Acts 18|Acts 18 →]]

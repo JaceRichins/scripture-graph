@@ -74,4 +74,4 @@ cssclasses:
 **30** And it came to pass that Orihah did walk humbly before the Lord, and did remember how great things the Lord had done for his father, and also taught his people how great things the Lord had done for their fathers. ^ether-6-30
 
 ---
-[[Ether 5|← Ether 5]] · [[Ether 6 - Study Guide|Study guide]] · [[Ether 6 - My Notes|My notes]] · [[Ether]] · [[Ether 7|Ether 7 →]]
+[[Ether 5|← Ether 5]] · [[Ether 6 (Annotated)|Annotated]] · [[Ether 6 - Study Guide|Study guide]] · [[Ether 6 - My Notes|My notes]] · [[Ether]] · [[Ether 7|Ether 7 →]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces. ^lev-9-24
 
 ---
-[[Leviticus 8|← Leviticus 8]] · [[Leviticus 9 - Study Guide|Study guide]] · [[Leviticus 9 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 10|Leviticus 10 →]]
+[[Leviticus 8|← Leviticus 8]] · [[Leviticus 9 (Annotated)|Annotated]] · [[Leviticus 9 - Study Guide|Study guide]] · [[Leviticus 9 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 10|Leviticus 10 →]]

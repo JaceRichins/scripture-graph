@@ -158,4 +158,4 @@ cssclasses:
 **72** And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept. ^mark-14-72
 
 ---
-[[Mark 13|← Mark 13]] · [[Mark 14 - Study Guide|Study guide]] · [[Mark 14 - My Notes|My notes]] · [[Mark]] · [[Mark 15|Mark 15 →]]
+[[Mark 13|← Mark 13]] · [[Mark 14 (Annotated)|Annotated]] · [[Mark 14 - Study Guide|Study guide]] · [[Mark 14 - My Notes|My notes]] · [[Mark]] · [[Mark 15|Mark 15 →]]

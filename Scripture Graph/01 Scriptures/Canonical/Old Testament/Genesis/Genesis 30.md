@@ -100,4 +100,4 @@ cssclasses:
 **43** And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses. ^gen-30-43
 
 ---
-[[Genesis 29|← Genesis 29]] · [[Genesis 30 - Study Guide|Study guide]] · [[Genesis 30 - My Notes|My notes]] · [[Genesis]] · [[Genesis 31|Genesis 31 →]]
+[[Genesis 29|← Genesis 29]] · [[Genesis 30 (Annotated)|Annotated]] · [[Genesis 30 - Study Guide|Study guide]] · [[Genesis 30 - My Notes|My notes]] · [[Genesis]] · [[Genesis 31|Genesis 31 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. ^1pet-2-25
 
 ---
-[[1 Peter 1|← 1 Peter 1]] · [[1 Peter 2 - Study Guide|Study guide]] · [[1 Peter 2 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 3|1 Peter 3 →]]
+[[1 Peter 1|← 1 Peter 1]] · [[1 Peter 2 (Annotated)|Annotated]] · [[1 Peter 2 - Study Guide|Study guide]] · [[1 Peter 2 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 3|1 Peter 3 →]]

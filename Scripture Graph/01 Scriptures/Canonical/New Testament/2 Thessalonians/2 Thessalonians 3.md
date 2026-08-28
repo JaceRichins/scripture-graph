@@ -50,4 +50,4 @@ cssclasses:
 **18** The grace of our Lord Jesus Christ be with you all. Amen. ^2thes-3-18
 
 ---
-[[2 Thessalonians 2|← 2 Thessalonians 2]] · [[2 Thessalonians 3 - Study Guide|Study guide]] · [[2 Thessalonians 3 - My Notes|My notes]] · [[2 Thessalonians]]
+[[2 Thessalonians 2|← 2 Thessalonians 2]] · [[2 Thessalonians 3 (Annotated)|Annotated]] · [[2 Thessalonians 3 - Study Guide|Study guide]] · [[2 Thessalonians 3 - My Notes|My notes]] · [[2 Thessalonians]]

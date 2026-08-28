@@ -68,4 +68,4 @@ cssclasses:
 **27** To God only wise, be glory through Jesus Christ for ever. Amen. ^rom-16-27
 
 ---
-[[Romans 15|← Romans 15]] · [[Romans 16 - Study Guide|Study guide]] · [[Romans 16 - My Notes|My notes]] · [[Romans]]
+[[Romans 15|← Romans 15]] · [[Romans 16 (Annotated)|Annotated]] · [[Romans 16 - Study Guide|Study guide]] · [[Romans 16 - My Notes|My notes]] · [[Romans]]

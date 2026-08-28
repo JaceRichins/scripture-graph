@@ -48,4 +48,4 @@ cssclasses:
 **17** And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased. ^matt-3-17
 
 ---
-[[Matthew 2|← Matthew 2]] · [[Matthew 3 - Study Guide|Study guide]] · [[Matthew 3 - My Notes|My notes]] · [[Matthew]] · [[Matthew 4|Matthew 4 →]]
+[[Matthew 2|← Matthew 2]] · [[Matthew 3 (Annotated)|Annotated]] · [[Matthew 3 - Study Guide|Study guide]] · [[Matthew 3 - My Notes|My notes]] · [[Matthew]] · [[Matthew 4|Matthew 4 →]]

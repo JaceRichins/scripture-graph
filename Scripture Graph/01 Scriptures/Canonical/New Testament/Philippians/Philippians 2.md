@@ -74,4 +74,4 @@ cssclasses:
 **30** Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me. ^philip-2-30
 
 ---
-[[Philippians 1|← Philippians 1]] · [[Philippians 2 - Study Guide|Study guide]] · [[Philippians 2 - My Notes|My notes]] · [[Philippians]] · [[Philippians 3|Philippians 3 →]]
+[[Philippians 1|← Philippians 1]] · [[Philippians 2 (Annotated)|Annotated]] · [[Philippians 2 - Study Guide|Study guide]] · [[Philippians 2 - My Notes|My notes]] · [[Philippians]] · [[Philippians 3|Philippians 3 →]]

@@ -126,4 +126,4 @@ cssclasses:
 **56** And her parents were astonished: but he charged them that they should tell no man what was done. ^luke-8-56
 
 ---
-[[Luke 7|← Luke 7]] · [[Luke 8 - Study Guide|Study guide]] · [[Luke 8 - My Notes|My notes]] · [[Luke]] · [[Luke 9|Luke 9 →]]
+[[Luke 7|← Luke 7]] · [[Luke 8 (Annotated)|Annotated]] · [[Luke 8 - Study Guide|Study guide]] · [[Luke 8 - My Notes|My notes]] · [[Luke]] · [[Luke 9|Luke 9 →]]

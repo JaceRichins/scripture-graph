@@ -74,4 +74,4 @@ cssclasses:
 **30** And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds. ^judg-19-30
 
 ---
-[[Judges 18|← Judges 18]] · [[Judges 19 - Study Guide|Study guide]] · [[Judges 19 - My Notes|My notes]] · [[Judges]] · [[Judges 20|Judges 20 →]]
+[[Judges 18|← Judges 18]] · [[Judges 19 (Annotated)|Annotated]] · [[Judges 19 - Study Guide|Study guide]] · [[Judges 19 - My Notes|My notes]] · [[Judges]] · [[Judges 20|Judges 20 →]]

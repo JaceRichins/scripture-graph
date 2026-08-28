@@ -60,4 +60,4 @@ cssclasses:
 **23** Men shall clap their hands at him, and shall hiss him out of his place. ^job-27-23
 
 ---
-[[Job 26|← Job 26]] · [[Job 27 - Study Guide|Study guide]] · [[Job 27 - My Notes|My notes]] · [[Job]] · [[Job 28|Job 28 →]]
+[[Job 26|← Job 26]] · [[Job 27 (Annotated)|Annotated]] · [[Job 27 - Study Guide|Study guide]] · [[Job 27 - My Notes|My notes]] · [[Job]] · [[Job 28|Job 28 →]]

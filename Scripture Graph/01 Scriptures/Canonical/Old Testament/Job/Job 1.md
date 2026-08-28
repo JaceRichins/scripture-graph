@@ -58,4 +58,4 @@ cssclasses:
 **22** In all this Job sinned not, nor charged God foolishly. ^job-1-22
 
 ---
-[[Job 1 - Study Guide|Study guide]] · [[Job 1 - My Notes|My notes]] · [[Job]] · [[Job 2|Job 2 →]]
+[[Job 1 (Annotated)|Annotated]] · [[Job 1 - Study Guide|Study guide]] · [[Job 1 - My Notes|My notes]] · [[Job]] · [[Job 2|Job 2 →]]

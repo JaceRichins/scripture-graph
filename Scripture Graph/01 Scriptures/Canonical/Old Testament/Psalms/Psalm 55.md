@@ -62,4 +62,4 @@ aliases:
 **23** But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee. ^ps-55-23
 
 ---
-[[Psalm 54|← Psalm 54]] · [[Psalm 55 - Study Guide|Study guide]] · [[Psalm 55 - My Notes|My notes]] · [[Psalms]] · [[Psalm 56|Psalm 56 →]]
+[[Psalm 54|← Psalm 54]] · [[Psalm 55 (Annotated)|Annotated]] · [[Psalm 55 - Study Guide|Study guide]] · [[Psalm 55 - My Notes|My notes]] · [[Psalms]] · [[Psalm 56|Psalm 56 →]]

@@ -46,4 +46,4 @@ cssclasses:
 **16** Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need. ^heb-4-16
 
 ---
-[[Hebrews 3|← Hebrews 3]] · [[Hebrews 4 - Study Guide|Study guide]] · [[Hebrews 4 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 5|Hebrews 5 →]]
+[[Hebrews 3|← Hebrews 3]] · [[Hebrews 4 (Annotated)|Annotated]] · [[Hebrews 4 - Study Guide|Study guide]] · [[Hebrews 4 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 5|Hebrews 5 →]]

@@ -78,4 +78,4 @@ cssclasses:
 **32** Now the object of these lawyers was to get gain; and they got gain according to their employ. ^alma-10-32
 
 ---
-[[Alma 9|← Alma 9]] · [[Alma 10 - Study Guide|Study guide]] · [[Alma 10 - My Notes|My notes]] · [[Alma]] · [[Alma 11|Alma 11 →]]
+[[Alma 9|← Alma 9]] · [[Alma 10 (Annotated)|Annotated]] · [[Alma 10 - Study Guide|Study guide]] · [[Alma 10 - My Notes|My notes]] · [[Alma]] · [[Alma 11|Alma 11 →]]

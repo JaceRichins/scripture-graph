@@ -150,4 +150,4 @@ cssclasses:
 **68** Behold, thou art one in me, a son of God; and thus may all become my sons. Amen. ^moses-6-68
 
 ---
-[[Moses 5|← Moses 5]] · [[Moses 6 - Study Guide|Study guide]] · [[Moses 6 - My Notes|My notes]] · [[Moses]] · [[Moses 7|Moses 7 →]]
+[[Moses 5|← Moses 5]] · [[Moses 6 (Annotated)|Annotated]] · [[Moses 6 - Study Guide|Study guide]] · [[Moses 6 - My Notes|My notes]] · [[Moses]] · [[Moses 7|Moses 7 →]]

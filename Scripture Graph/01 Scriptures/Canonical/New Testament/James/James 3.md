@@ -50,4 +50,4 @@ cssclasses:
 **18** And the fruit of righteousness is sown in peace of them that make peace. ^james-3-18
 
 ---
-[[James 2|← James 2]] · [[James 3 - Study Guide|Study guide]] · [[James 3 - My Notes|My notes]] · [[James]] · [[James 4|James 4 →]]
+[[James 2|← James 2]] · [[James 3 (Annotated)|Annotated]] · [[James 3 - Study Guide|Study guide]] · [[James 3 - My Notes|My notes]] · [[James]] · [[James 4|James 4 →]]

@@ -40,4 +40,4 @@ cssclasses:
 **13** These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho. ^num-36-13
 
 ---
-[[Numbers 35|← Numbers 35]] · [[Numbers 36 - Study Guide|Study guide]] · [[Numbers 36 - My Notes|My notes]] · [[Numbers]]
+[[Numbers 35|← Numbers 35]] · [[Numbers 36 (Annotated)|Annotated]] · [[Numbers 36 - Study Guide|Study guide]] · [[Numbers 36 - My Notes|My notes]] · [[Numbers]]

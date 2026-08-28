@@ -26,4 +26,4 @@ cssclasses:
 **6** Wherefore, I shall give commandment unto my seed, that they shall not occupy these plates with things which are not of worth unto the children of men. ^1ne-6-6
 
 ---
-[[1 Nephi 5|← 1 Nephi 5]] · [[1 Nephi 6 - Study Guide|Study guide]] · [[1 Nephi 6 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 7|1 Nephi 7 →]]
+[[1 Nephi 5|← 1 Nephi 5]] · [[1 Nephi 6 (Annotated)|Annotated]] · [[1 Nephi 6 - Study Guide|Study guide]] · [[1 Nephi 6 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 7|1 Nephi 7 →]]

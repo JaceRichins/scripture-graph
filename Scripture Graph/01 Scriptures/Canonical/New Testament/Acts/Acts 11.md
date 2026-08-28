@@ -74,4 +74,4 @@ cssclasses:
 **30** Which also they did, and sent it to the elders by the hands of Barnabas and Saul. ^acts-11-30
 
 ---
-[[Acts 10|← Acts 10]] · [[Acts 11 - Study Guide|Study guide]] · [[Acts 11 - My Notes|My notes]] · [[Acts]] · [[Acts 12|Acts 12 →]]
+[[Acts 10|← Acts 10]] · [[Acts 11 (Annotated)|Annotated]] · [[Acts 11 - Study Guide|Study guide]] · [[Acts 11 - My Notes|My notes]] · [[Acts]] · [[Acts 12|Acts 12 →]]

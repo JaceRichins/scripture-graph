@@ -46,4 +46,4 @@ cssclasses:
 **16** Therefore, he caused that his sons should be gathered together, that he might give unto them every one his charge, separately, concerning the things pertaining unto righteousness. And we have an account of his commandments, which he gave unto them according to his own record. ^alma-35-16
 
 ---
-[[Alma 34|← Alma 34]] · [[Alma 35 - Study Guide|Study guide]] · [[Alma 35 - My Notes|My notes]] · [[Alma]] · [[Alma 36|Alma 36 →]]
+[[Alma 34|← Alma 34]] · [[Alma 35 (Annotated)|Annotated]] · [[Alma 35 - Study Guide|Study guide]] · [[Alma 35 - My Notes|My notes]] · [[Alma]] · [[Alma 36|Alma 36 →]]

@@ -62,4 +62,4 @@ aliases:
 **23** And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off. ^ps-94-23
 
 ---
-[[Psalm 93|← Psalm 93]] · [[Psalm 94 - Study Guide|Study guide]] · [[Psalm 94 - My Notes|My notes]] · [[Psalms]] · [[Psalm 95|Psalm 95 →]]
+[[Psalm 93|← Psalm 93]] · [[Psalm 94 (Annotated)|Annotated]] · [[Psalm 94 - Study Guide|Study guide]] · [[Psalm 94 - My Notes|My notes]] · [[Psalms]] · [[Psalm 95|Psalm 95 →]]

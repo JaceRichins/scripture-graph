@@ -88,4 +88,4 @@ cssclasses:
 **37** And thus endeth the twenty and fifth year of the reign of the judges over the people of Nephi; and thus endeth the days of Amalickiah. ^alma-51-37
 
 ---
-[[Alma 50|← Alma 50]] · [[Alma 51 - Study Guide|Study guide]] · [[Alma 51 - My Notes|My notes]] · [[Alma]] · [[Alma 52|Alma 52 →]]
+[[Alma 50|← Alma 50]] · [[Alma 51 (Annotated)|Annotated]] · [[Alma 51 - Study Guide|Study guide]] · [[Alma 51 - My Notes|My notes]] · [[Alma]] · [[Alma 52|Alma 52 →]]

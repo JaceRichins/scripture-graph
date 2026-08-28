@@ -46,4 +46,4 @@ cssclasses:
 **16** And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD. ^lev-2-16
 
 ---
-[[Leviticus 1|← Leviticus 1]] · [[Leviticus 2 - Study Guide|Study guide]] · [[Leviticus 2 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 3|Leviticus 3 →]]
+[[Leviticus 1|← Leviticus 1]] · [[Leviticus 2 (Annotated)|Annotated]] · [[Leviticus 2 - Study Guide|Study guide]] · [[Leviticus 2 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 3|Leviticus 3 →]]

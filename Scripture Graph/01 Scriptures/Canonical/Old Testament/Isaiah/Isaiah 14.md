@@ -78,4 +78,4 @@ cssclasses:
 **32** What shall one then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it. ^isa-14-32
 
 ---
-[[Isaiah 13|← Isaiah 13]] · [[Isaiah 14 - Study Guide|Study guide]] · [[Isaiah 14 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 15|Isaiah 15 →]]
+[[Isaiah 13|← Isaiah 13]] · [[Isaiah 14 (Annotated)|Annotated]] · [[Isaiah 14 - Study Guide|Study guide]] · [[Isaiah 14 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 15|Isaiah 15 →]]

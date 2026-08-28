@@ -26,4 +26,4 @@ aliases:
 **5** As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel. ^ps-125-5
 
 ---
-[[Psalm 124|← Psalm 124]] · [[Psalm 125 - Study Guide|Study guide]] · [[Psalm 125 - My Notes|My notes]] · [[Psalms]] · [[Psalm 126|Psalm 126 →]]
+[[Psalm 124|← Psalm 124]] · [[Psalm 125 (Annotated)|Annotated]] · [[Psalm 125 - Study Guide|Study guide]] · [[Psalm 125 - My Notes|My notes]] · [[Psalms]] · [[Psalm 126|Psalm 126 →]]

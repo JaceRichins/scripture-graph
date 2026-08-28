@@ -38,4 +38,4 @@ aliases:
 **11** Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. ^ps-32-11
 
 ---
-[[Psalm 31|← Psalm 31]] · [[Psalm 32 - Study Guide|Study guide]] · [[Psalm 32 - My Notes|My notes]] · [[Psalms]] · [[Psalm 33|Psalm 33 →]]
+[[Psalm 31|← Psalm 31]] · [[Psalm 32 (Annotated)|Annotated]] · [[Psalm 32 - Study Guide|Study guide]] · [[Psalm 32 - My Notes|My notes]] · [[Psalms]] · [[Psalm 33|Psalm 33 →]]

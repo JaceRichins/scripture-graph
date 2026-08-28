@@ -48,4 +48,4 @@ cssclasses:
 **17** And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means. ^2chr-1-17
 
 ---
-[[2 Chronicles 1 - Study Guide|Study guide]] · [[2 Chronicles 1 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 2|2 Chronicles 2 →]]
+[[2 Chronicles 1 (Annotated)|Annotated]] · [[2 Chronicles 1 - Study Guide|Study guide]] · [[2 Chronicles 1 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 2|2 Chronicles 2 →]]

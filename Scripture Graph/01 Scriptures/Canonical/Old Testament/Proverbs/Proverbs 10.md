@@ -78,4 +78,4 @@ cssclasses:
 **32** The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness. ^prov-10-32
 
 ---
-[[Proverbs 9|← Proverbs 9]] · [[Proverbs 10 - Study Guide|Study guide]] · [[Proverbs 10 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 11|Proverbs 11 →]]
+[[Proverbs 9|← Proverbs 9]] · [[Proverbs 10 (Annotated)|Annotated]] · [[Proverbs 10 - Study Guide|Study guide]] · [[Proverbs 10 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 11|Proverbs 11 →]]

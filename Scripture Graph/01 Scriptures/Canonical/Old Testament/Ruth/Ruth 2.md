@@ -60,4 +60,4 @@ cssclasses:
 **23** So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law. ^ruth-2-23
 
 ---
-[[Ruth 1|← Ruth 1]] · [[Ruth 2 - Study Guide|Study guide]] · [[Ruth 2 - My Notes|My notes]] · [[Ruth]] · [[Ruth 3|Ruth 3 →]]
+[[Ruth 1|← Ruth 1]] · [[Ruth 2 (Annotated)|Annotated]] · [[Ruth 2 - Study Guide|Study guide]] · [[Ruth 2 - My Notes|My notes]] · [[Ruth]] · [[Ruth 3|Ruth 3 →]]

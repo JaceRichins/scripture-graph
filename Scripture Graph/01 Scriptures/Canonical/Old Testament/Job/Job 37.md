@@ -62,4 +62,4 @@ cssclasses:
 **24** Men do therefore fear him: he respecteth not any that are wise of heart. ^job-37-24
 
 ---
-[[Job 36|← Job 36]] · [[Job 37 - Study Guide|Study guide]] · [[Job 37 - My Notes|My notes]] · [[Job]] · [[Job 38|Job 38 →]]
+[[Job 36|← Job 36]] · [[Job 37 (Annotated)|Annotated]] · [[Job 37 - Study Guide|Study guide]] · [[Job 37 - My Notes|My notes]] · [[Job]] · [[Job 38|Job 38 →]]

@@ -54,4 +54,4 @@ cssclasses:
 **20** Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter. ^eccl-10-20
 
 ---
-[[Ecclesiastes 9|← Ecclesiastes 9]] · [[Ecclesiastes 10 - Study Guide|Study guide]] · [[Ecclesiastes 10 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 11|Ecclesiastes 11 →]]
+[[Ecclesiastes 9|← Ecclesiastes 9]] · [[Ecclesiastes 10 (Annotated)|Annotated]] · [[Ecclesiastes 10 - Study Guide|Study guide]] · [[Ecclesiastes 10 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 11|Ecclesiastes 11 →]]

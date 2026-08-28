@@ -88,4 +88,4 @@ cssclasses:
 **37** And may the Lord Jesus Christ grant that their prayers may be answered according to their faith; and may God the Father remember the covenant which he hath made with the house of Israel; and may he bless them forever, through faith on the name of Jesus Christ. Amen. ^morm-9-37
 
 ---
-[[Mormon 8|← Mormon 8]] · [[Mormon 9 - Study Guide|Study guide]] · [[Mormon 9 - My Notes|My notes]] · [[Mormon]]
+[[Mormon 8|← Mormon 8]] · [[Mormon 9 (Annotated)|Annotated]] · [[Mormon 9 - Study Guide|Study guide]] · [[Mormon 9 - My Notes|My notes]] · [[Mormon]]

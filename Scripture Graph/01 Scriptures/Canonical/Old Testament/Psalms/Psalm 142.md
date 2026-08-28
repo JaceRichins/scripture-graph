@@ -30,4 +30,4 @@ aliases:
 **7** Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me. ^ps-142-7
 
 ---
-[[Psalm 141|← Psalm 141]] · [[Psalm 142 - Study Guide|Study guide]] · [[Psalm 142 - My Notes|My notes]] · [[Psalms]] · [[Psalm 143|Psalm 143 →]]
+[[Psalm 141|← Psalm 141]] · [[Psalm 142 (Annotated)|Annotated]] · [[Psalm 142 - Study Guide|Study guide]] · [[Psalm 142 - My Notes|My notes]] · [[Psalms]] · [[Psalm 143|Psalm 143 →]]

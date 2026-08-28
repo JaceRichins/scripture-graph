@@ -42,4 +42,4 @@ aliases:
 **13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing. ^ps-65-13
 
 ---
-[[Psalm 64|← Psalm 64]] · [[Psalm 65 - Study Guide|Study guide]] · [[Psalm 65 - My Notes|My notes]] · [[Psalms]] · [[Psalm 66|Psalm 66 →]]
+[[Psalm 64|← Psalm 64]] · [[Psalm 65 (Annotated)|Annotated]] · [[Psalm 65 - Study Guide|Study guide]] · [[Psalm 65 - My Notes|My notes]] · [[Psalms]] · [[Psalm 66|Psalm 66 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary. ^ex-37-29
 
 ---
-[[Exodus 36|← Exodus 36]] · [[Exodus 37 - Study Guide|Study guide]] · [[Exodus 37 - My Notes|My notes]] · [[Exodus]] · [[Exodus 38|Exodus 38 →]]
+[[Exodus 36|← Exodus 36]] · [[Exodus 37 (Annotated)|Annotated]] · [[Exodus 37 - Study Guide|Study guide]] · [[Exodus 37 - My Notes|My notes]] · [[Exodus]] · [[Exodus 38|Exodus 38 →]]

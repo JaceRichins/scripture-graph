@@ -102,4 +102,4 @@ cssclasses:
 **44** And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel. ^1chr-9-44
 
 ---
-[[1 Chronicles 8|← 1 Chronicles 8]] · [[1 Chronicles 9 - Study Guide|Study guide]] · [[1 Chronicles 9 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 10|1 Chronicles 10 →]]
+[[1 Chronicles 8|← 1 Chronicles 8]] · [[1 Chronicles 9 (Annotated)|Annotated]] · [[1 Chronicles 9 - Study Guide|Study guide]] · [[1 Chronicles 9 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 10|1 Chronicles 10 →]]

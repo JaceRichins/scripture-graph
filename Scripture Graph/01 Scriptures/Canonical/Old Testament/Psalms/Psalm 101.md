@@ -32,4 +32,4 @@ aliases:
 **8** I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD. ^ps-101-8
 
 ---
-[[Psalm 100|← Psalm 100]] · [[Psalm 101 - Study Guide|Study guide]] · [[Psalm 101 - My Notes|My notes]] · [[Psalms]] · [[Psalm 102|Psalm 102 →]]
+[[Psalm 100|← Psalm 100]] · [[Psalm 101 (Annotated)|Annotated]] · [[Psalm 101 - Study Guide|Study guide]] · [[Psalm 101 - My Notes|My notes]] · [[Psalms]] · [[Psalm 102|Psalm 102 →]]

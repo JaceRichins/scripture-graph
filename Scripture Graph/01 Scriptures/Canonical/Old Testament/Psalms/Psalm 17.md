@@ -46,4 +46,4 @@ aliases:
 **15** As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness. ^ps-17-15
 
 ---
-[[Psalm 16|← Psalm 16]] · [[Psalm 17 - Study Guide|Study guide]] · [[Psalm 17 - My Notes|My notes]] · [[Psalms]] · [[Psalm 18|Psalm 18 →]]
+[[Psalm 16|← Psalm 16]] · [[Psalm 17 (Annotated)|Annotated]] · [[Psalm 17 - Study Guide|Study guide]] · [[Psalm 17 - My Notes|My notes]] · [[Psalms]] · [[Psalm 18|Psalm 18 →]]

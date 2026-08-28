@@ -42,4 +42,4 @@ cssclasses:
 **14** But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble. ^isa-16-14
 
 ---
-[[Isaiah 15|← Isaiah 15]] · [[Isaiah 16 - Study Guide|Study guide]] · [[Isaiah 16 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 17|Isaiah 17 →]]
+[[Isaiah 15|← Isaiah 15]] · [[Isaiah 16 (Annotated)|Annotated]] · [[Isaiah 16 - Study Guide|Study guide]] · [[Isaiah 16 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 17|Isaiah 17 →]]

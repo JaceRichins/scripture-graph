@@ -58,4 +58,4 @@ cssclasses:
 **22** There is no peace, saith the LORD, unto the wicked. ^isa-48-22
 
 ---
-[[Isaiah 47|← Isaiah 47]] · [[Isaiah 48 - Study Guide|Study guide]] · [[Isaiah 48 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 49|Isaiah 49 →]]
+[[Isaiah 47|← Isaiah 47]] · [[Isaiah 48 (Annotated)|Annotated]] · [[Isaiah 48 - Study Guide|Study guide]] · [[Isaiah 48 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 49|Isaiah 49 →]]

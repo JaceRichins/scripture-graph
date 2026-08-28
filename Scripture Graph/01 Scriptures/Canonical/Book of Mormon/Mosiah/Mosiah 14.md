@@ -38,4 +38,4 @@ cssclasses:
 **12** Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors. ^mosiah-14-12
 
 ---
-[[Mosiah 13|← Mosiah 13]] · [[Mosiah 14 - Study Guide|Study guide]] · [[Mosiah 14 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 15|Mosiah 15 →]]
+[[Mosiah 13|← Mosiah 13]] · [[Mosiah 14 (Annotated)|Annotated]] · [[Mosiah 14 - Study Guide|Study guide]] · [[Mosiah 14 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 15|Mosiah 15 →]]

@@ -132,4 +132,4 @@ cssclasses:
 **59** I tell thee, thou shalt not depart thence, till thou hast paid the very last mite. ^luke-12-59
 
 ---
-[[Luke 11|← Luke 11]] · [[Luke 12 - Study Guide|Study guide]] · [[Luke 12 - My Notes|My notes]] · [[Luke]] · [[Luke 13|Luke 13 →]]
+[[Luke 11|← Luke 11]] · [[Luke 12 (Annotated)|Annotated]] · [[Luke 12 - Study Guide|Study guide]] · [[Luke 12 - My Notes|My notes]] · [[Luke]] · [[Luke 13|Luke 13 →]]

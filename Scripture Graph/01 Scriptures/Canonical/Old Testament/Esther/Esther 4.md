@@ -48,4 +48,4 @@ cssclasses:
 **17** So Mordecai went his way, and did according to all that Esther had commanded him. ^esth-4-17
 
 ---
-[[Esther 3|← Esther 3]] · [[Esther 4 - Study Guide|Study guide]] · [[Esther 4 - My Notes|My notes]] · [[Esther]] · [[Esther 5|Esther 5 →]]
+[[Esther 3|← Esther 3]] · [[Esther 4 (Annotated)|Annotated]] · [[Esther 4 - Study Guide|Study guide]] · [[Esther 4 - My Notes|My notes]] · [[Esther]] · [[Esther 5|Esther 5 →]]

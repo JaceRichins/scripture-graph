@@ -66,4 +66,4 @@ cssclasses:
 **26** Let us not be desirous of vain glory, provoking one another, envying one another. ^gal-5-26
 
 ---
-[[Galatians 4|← Galatians 4]] · [[Galatians 5 - Study Guide|Study guide]] · [[Galatians 5 - My Notes|My notes]] · [[Galatians]] · [[Galatians 6|Galatians 6 →]]
+[[Galatians 4|← Galatians 4]] · [[Galatians 5 (Annotated)|Annotated]] · [[Galatians 5 - Study Guide|Study guide]] · [[Galatians 5 - My Notes|My notes]] · [[Galatians]] · [[Galatians 6|Galatians 6 →]]

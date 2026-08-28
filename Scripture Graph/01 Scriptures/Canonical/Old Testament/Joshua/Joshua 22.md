@@ -82,4 +82,4 @@ cssclasses:
 **34** And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD is God. ^josh-22-34
 
 ---
-[[Joshua 21|← Joshua 21]] · [[Joshua 22 - Study Guide|Study guide]] · [[Joshua 22 - My Notes|My notes]] · [[Joshua]] · [[Joshua 23|Joshua 23 →]]
+[[Joshua 21|← Joshua 21]] · [[Joshua 22 (Annotated)|Annotated]] · [[Joshua 22 - Study Guide|Study guide]] · [[Joshua 22 - My Notes|My notes]] · [[Joshua]] · [[Joshua 23|Joshua 23 →]]

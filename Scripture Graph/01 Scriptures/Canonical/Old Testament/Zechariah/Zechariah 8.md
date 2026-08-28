@@ -60,4 +60,4 @@ cssclasses:
 **23** Thus saith the LORD of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you. ^zech-8-23
 
 ---
-[[Zechariah 7|← Zechariah 7]] · [[Zechariah 8 - Study Guide|Study guide]] · [[Zechariah 8 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 9|Zechariah 9 →]]
+[[Zechariah 7|← Zechariah 7]] · [[Zechariah 8 (Annotated)|Annotated]] · [[Zechariah 8 - Study Guide|Study guide]] · [[Zechariah 8 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 9|Zechariah 9 →]]

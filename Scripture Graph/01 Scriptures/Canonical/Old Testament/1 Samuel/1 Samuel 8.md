@@ -58,4 +58,4 @@ cssclasses:
 **22** And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city. ^1sam-8-22
 
 ---
-[[1 Samuel 7|← 1 Samuel 7]] · [[1 Samuel 8 - Study Guide|Study guide]] · [[1 Samuel 8 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 9|1 Samuel 9 →]]
+[[1 Samuel 7|← 1 Samuel 7]] · [[1 Samuel 8 (Annotated)|Annotated]] · [[1 Samuel 8 - Study Guide|Study guide]] · [[1 Samuel 8 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 9|1 Samuel 9 →]]

@@ -54,4 +54,4 @@ cssclasses:
 **20** And when Moses heard that, he was content. ^lev-10-20
 
 ---
-[[Leviticus 9|← Leviticus 9]] · [[Leviticus 10 - Study Guide|Study guide]] · [[Leviticus 10 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 11|Leviticus 11 →]]
+[[Leviticus 9|← Leviticus 9]] · [[Leviticus 10 (Annotated)|Annotated]] · [[Leviticus 10 - Study Guide|Study guide]] · [[Leviticus 10 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 11|Leviticus 11 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. ^rom-13-14
 
 ---
-[[Romans 12|← Romans 12]] · [[Romans 13 - Study Guide|Study guide]] · [[Romans 13 - My Notes|My notes]] · [[Romans]] · [[Romans 14|Romans 14 →]]
+[[Romans 12|← Romans 12]] · [[Romans 13 (Annotated)|Annotated]] · [[Romans 13 - Study Guide|Study guide]] · [[Romans 13 - My Notes|My notes]] · [[Romans]] · [[Romans 14|Romans 14 →]]

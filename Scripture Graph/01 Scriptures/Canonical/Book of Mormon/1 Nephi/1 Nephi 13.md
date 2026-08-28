@@ -98,4 +98,4 @@ cssclasses:
 **42** And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles; and after he has manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews, and the last shall be first, and the first shall be last. ^1ne-13-42
 
 ---
-[[1 Nephi 12|← 1 Nephi 12]] · [[1 Nephi 13 - Study Guide|Study guide]] · [[1 Nephi 13 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 14|1 Nephi 14 →]]
+[[1 Nephi 12|← 1 Nephi 12]] · [[1 Nephi 13 (Annotated)|Annotated]] · [[1 Nephi 13 - Study Guide|Study guide]] · [[1 Nephi 13 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 14|1 Nephi 14 →]]

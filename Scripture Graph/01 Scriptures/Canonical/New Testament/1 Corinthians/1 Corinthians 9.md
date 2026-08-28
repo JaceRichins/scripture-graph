@@ -68,4 +68,4 @@ cssclasses:
 **27** But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway. ^1cor-9-27
 
 ---
-[[1 Corinthians 8|← 1 Corinthians 8]] · [[1 Corinthians 9 - Study Guide|Study guide]] · [[1 Corinthians 9 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 10|1 Corinthians 10 →]]
+[[1 Corinthians 8|← 1 Corinthians 8]] · [[1 Corinthians 9 (Annotated)|Annotated]] · [[1 Corinthians 9 - Study Guide|Study guide]] · [[1 Corinthians 9 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 10|1 Corinthians 10 →]]

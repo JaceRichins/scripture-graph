@@ -88,4 +88,4 @@ cssclasses:
 **37** And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel. ^2kgs-9-37
 
 ---
-[[2 Kings 8|← 2 Kings 8]] · [[2 Kings 9 - Study Guide|Study guide]] · [[2 Kings 9 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 10|2 Kings 10 →]]
+[[2 Kings 8|← 2 Kings 8]] · [[2 Kings 9 (Annotated)|Annotated]] · [[2 Kings 9 - Study Guide|Study guide]] · [[2 Kings 9 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 10|2 Kings 10 →]]

@@ -50,4 +50,4 @@ cssclasses:
 **18** Wherefore, with the help of these, king Benjamin, by laboring with all the might of his body and the faculty of his whole soul, and also the prophets, did once more establish peace in the land. ^wofm-1-18
 
 ---
-[[Words of Mormon 1 - Study Guide|Study guide]] · [[Words of Mormon 1 - My Notes|My notes]] · [[Words of Mormon]]
+[[Words of Mormon 1 (Annotated)|Annotated]] · [[Words of Mormon 1 - Study Guide|Study guide]] · [[Words of Mormon 1 - My Notes|My notes]] · [[Words of Mormon]]

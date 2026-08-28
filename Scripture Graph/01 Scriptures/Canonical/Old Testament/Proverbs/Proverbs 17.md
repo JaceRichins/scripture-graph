@@ -70,4 +70,4 @@ cssclasses:
 **28** Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding. ^prov-17-28
 
 ---
-[[Proverbs 16|← Proverbs 16]] · [[Proverbs 17 - Study Guide|Study guide]] · [[Proverbs 17 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 18|Proverbs 18 →]]
+[[Proverbs 16|← Proverbs 16]] · [[Proverbs 17 (Annotated)|Annotated]] · [[Proverbs 17 - Study Guide|Study guide]] · [[Proverbs 17 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 18|Proverbs 18 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince. ^dan-10-21
 
 ---
-[[Daniel 9|← Daniel 9]] · [[Daniel 10 - Study Guide|Study guide]] · [[Daniel 10 - My Notes|My notes]] · [[Daniel]] · [[Daniel 11|Daniel 11 →]]
+[[Daniel 9|← Daniel 9]] · [[Daniel 10 (Annotated)|Annotated]] · [[Daniel 10 - Study Guide|Study guide]] · [[Daniel 10 - My Notes|My notes]] · [[Daniel]] · [[Daniel 11|Daniel 11 →]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth. ^1kgs-17-24
 
 ---
-[[1 Kings 16|← 1 Kings 16]] · [[1 Kings 17 - Study Guide|Study guide]] · [[1 Kings 17 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 18|1 Kings 18 →]]
+[[1 Kings 16|← 1 Kings 16]] · [[1 Kings 17 (Annotated)|Annotated]] · [[1 Kings 17 - Study Guide|Study guide]] · [[1 Kings 17 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 18|1 Kings 18 →]]

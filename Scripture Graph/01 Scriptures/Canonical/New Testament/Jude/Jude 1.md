@@ -64,4 +64,4 @@ cssclasses:
 **25** To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen. ^jude-1-25
 
 ---
-[[Jude 1 - Study Guide|Study guide]] · [[Jude 1 - My Notes|My notes]] · [[Jude]]
+[[Jude 1 (Annotated)|Annotated]] · [[Jude 1 - Study Guide|Study guide]] · [[Jude 1 - My Notes|My notes]] · [[Jude]]

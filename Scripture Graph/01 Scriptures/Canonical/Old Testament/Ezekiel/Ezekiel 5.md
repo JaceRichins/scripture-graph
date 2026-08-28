@@ -48,4 +48,4 @@ cssclasses:
 **17** So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken it. ^ezek-5-17
 
 ---
-[[Ezekiel 4|← Ezekiel 4]] · [[Ezekiel 5 - Study Guide|Study guide]] · [[Ezekiel 5 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 6|Ezekiel 6 →]]
+[[Ezekiel 4|← Ezekiel 4]] · [[Ezekiel 5 (Annotated)|Annotated]] · [[Ezekiel 5 - Study Guide|Study guide]] · [[Ezekiel 5 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 6|Ezekiel 6 →]]

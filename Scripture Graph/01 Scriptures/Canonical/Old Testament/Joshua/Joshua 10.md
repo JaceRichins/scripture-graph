@@ -100,4 +100,4 @@ cssclasses:
 **43** And Joshua returned, and all Israel with him, unto the camp to Gilgal. ^josh-10-43
 
 ---
-[[Joshua 9|← Joshua 9]] · [[Joshua 10 - Study Guide|Study guide]] · [[Joshua 10 - My Notes|My notes]] · [[Joshua]] · [[Joshua 11|Joshua 11 →]]
+[[Joshua 9|← Joshua 9]] · [[Joshua 10 (Annotated)|Annotated]] · [[Joshua 10 - Study Guide|Study guide]] · [[Joshua 10 - My Notes|My notes]] · [[Joshua]] · [[Joshua 11|Joshua 11 →]]

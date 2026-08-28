@@ -44,4 +44,4 @@ cssclasses:
 **15** And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God. ^amos-9-15
 
 ---
-[[Amos 8|← Amos 8]] · [[Amos 9 - Study Guide|Study guide]] · [[Amos 9 - My Notes|My notes]] · [[Amos]]
+[[Amos 8|← Amos 8]] · [[Amos 9 (Annotated)|Annotated]] · [[Amos 9 - Study Guide|Study guide]] · [[Amos 9 - My Notes|My notes]] · [[Amos]]

@@ -98,4 +98,4 @@ cssclasses:
 **42** (These words were spoken unto Moses in the mount, the name of which shall not be known among the children of men. And now they are spoken unto you. Show them not unto any except them that believe. Even so. Amen.) ^moses-1-42
 
 ---
-[[Moses 1 - Study Guide|Study guide]] · [[Moses 1 - My Notes|My notes]] · [[Moses]] · [[Moses 2|Moses 2 →]]
+[[Moses 1 (Annotated)|Annotated]] · [[Moses 1 - Study Guide|Study guide]] · [[Moses 1 - My Notes|My notes]] · [[Moses]] · [[Moses 2|Moses 2 →]]

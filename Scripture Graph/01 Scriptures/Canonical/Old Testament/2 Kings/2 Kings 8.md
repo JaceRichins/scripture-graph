@@ -72,4 +72,4 @@ cssclasses:
 **29** And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick. ^2kgs-8-29
 
 ---
-[[2 Kings 7|← 2 Kings 7]] · [[2 Kings 8 - Study Guide|Study guide]] · [[2 Kings 8 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 9|2 Kings 9 →]]
+[[2 Kings 7|← 2 Kings 7]] · [[2 Kings 8 (Annotated)|Annotated]] · [[2 Kings 8 - Study Guide|Study guide]] · [[2 Kings 8 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 9|2 Kings 9 →]]

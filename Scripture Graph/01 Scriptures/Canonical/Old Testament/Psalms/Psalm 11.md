@@ -30,4 +30,4 @@ aliases:
 **7** For the righteous LORD loveth righteousness; his countenance doth behold the upright. ^ps-11-7
 
 ---
-[[Psalm 10|← Psalm 10]] · [[Psalm 11 - Study Guide|Study guide]] · [[Psalm 11 - My Notes|My notes]] · [[Psalms]] · [[Psalm 12|Psalm 12 →]]
+[[Psalm 10|← Psalm 10]] · [[Psalm 11 (Annotated)|Annotated]] · [[Psalm 11 - Study Guide|Study guide]] · [[Psalm 11 - My Notes|My notes]] · [[Psalms]] · [[Psalm 12|Psalm 12 →]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand. ^2cor-1-24
 
 ---
-[[2 Corinthians 1 - Study Guide|Study guide]] · [[2 Corinthians 1 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 2|2 Corinthians 2 →]]
+[[2 Corinthians 1 (Annotated)|Annotated]] · [[2 Corinthians 1 - Study Guide|Study guide]] · [[2 Corinthians 1 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 2|2 Corinthians 2 →]]

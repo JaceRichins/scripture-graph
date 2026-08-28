@@ -76,4 +76,4 @@ cssclasses:
 **31** And after the angel had departed, Laman and Lemuel again began to murmur, saying: How is it possible that the Lord will deliver Laban into our hands? Behold, he is a mighty man, and he can command fifty, yea, even he can slay fifty; then why not us? ^1ne-3-31
 
 ---
-[[1 Nephi 2|← 1 Nephi 2]] · [[1 Nephi 3 - Study Guide|Study guide]] · [[1 Nephi 3 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 4|1 Nephi 4 →]]
+[[1 Nephi 2|← 1 Nephi 2]] · [[1 Nephi 3 (Annotated)|Annotated]] · [[1 Nephi 3 - Study Guide|Study guide]] · [[1 Nephi 3 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 4|1 Nephi 4 →]]

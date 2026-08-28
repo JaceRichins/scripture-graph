@@ -88,4 +88,4 @@ cssclasses:
 **37** Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rab-shakeh. ^2kgs-18-37
 
 ---
-[[2 Kings 17|← 2 Kings 17]] · [[2 Kings 18 - Study Guide|Study guide]] · [[2 Kings 18 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 19|2 Kings 19 →]]
+[[2 Kings 17|← 2 Kings 17]] · [[2 Kings 18 (Annotated)|Annotated]] · [[2 Kings 18 - Study Guide|Study guide]] · [[2 Kings 18 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 19|2 Kings 19 →]]

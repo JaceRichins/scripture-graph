@@ -70,4 +70,4 @@ cssclasses:
 **28** And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. ^job-28-28
 
 ---
-[[Job 27|← Job 27]] · [[Job 28 - Study Guide|Study guide]] · [[Job 28 - My Notes|My notes]] · [[Job]] · [[Job 29|Job 29 →]]
+[[Job 27|← Job 27]] · [[Job 28 (Annotated)|Annotated]] · [[Job 28 - Study Guide|Study guide]] · [[Job 28 - My Notes|My notes]] · [[Job]] · [[Job 29|Job 29 →]]

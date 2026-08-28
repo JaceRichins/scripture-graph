@@ -48,4 +48,4 @@ cssclasses:
 **17** And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD. ^lev-1-17
 
 ---
-[[Leviticus 1 - Study Guide|Study guide]] · [[Leviticus 1 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 2|Leviticus 2 →]]
+[[Leviticus 1 (Annotated)|Annotated]] · [[Leviticus 1 - Study Guide|Study guide]] · [[Leviticus 1 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 2|Leviticus 2 →]]

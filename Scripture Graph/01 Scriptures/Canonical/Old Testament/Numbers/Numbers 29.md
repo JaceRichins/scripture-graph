@@ -94,4 +94,4 @@ cssclasses:
 **40** And Moses told the children of Israel according to all that the LORD commanded Moses. ^num-29-40
 
 ---
-[[Numbers 28|← Numbers 28]] · [[Numbers 29 - Study Guide|Study guide]] · [[Numbers 29 - My Notes|My notes]] · [[Numbers]] · [[Numbers 30|Numbers 30 →]]
+[[Numbers 28|← Numbers 28]] · [[Numbers 29 (Annotated)|Annotated]] · [[Numbers 29 - Study Guide|Study guide]] · [[Numbers 29 - My Notes|My notes]] · [[Numbers]] · [[Numbers 30|Numbers 30 →]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously. ^isa-24-23
 
 ---
-[[Isaiah 23|← Isaiah 23]] · [[Isaiah 24 - Study Guide|Study guide]] · [[Isaiah 24 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 25|Isaiah 25 →]]
+[[Isaiah 23|← Isaiah 23]] · [[Isaiah 24 (Annotated)|Annotated]] · [[Isaiah 24 - Study Guide|Study guide]] · [[Isaiah 24 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 25|Isaiah 25 →]]

@@ -94,4 +94,4 @@ cssclasses:
 **40** Let all things be done decently and in order. ^1cor-14-40
 
 ---
-[[1 Corinthians 13|← 1 Corinthians 13]] · [[1 Corinthians 14 - Study Guide|Study guide]] · [[1 Corinthians 14 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 15|1 Corinthians 15 →]]
+[[1 Corinthians 13|← 1 Corinthians 13]] · [[1 Corinthians 14 (Annotated)|Annotated]] · [[1 Corinthians 14 - Study Guide|Study guide]] · [[1 Corinthians 14 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 15|1 Corinthians 15 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life. ^2kgs-25-30
 
 ---
-[[2 Kings 24|← 2 Kings 24]] · [[2 Kings 25 - Study Guide|Study guide]] · [[2 Kings 25 - My Notes|My notes]] · [[2 Kings]]
+[[2 Kings 24|← 2 Kings 24]] · [[2 Kings 25 (Annotated)|Annotated]] · [[2 Kings 25 - Study Guide|Study guide]] · [[2 Kings 25 - My Notes|My notes]] · [[2 Kings]]

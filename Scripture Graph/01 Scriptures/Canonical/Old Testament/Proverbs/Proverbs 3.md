@@ -84,4 +84,4 @@ cssclasses:
 **35** The wise shall inherit glory: but shame shall be the promotion of fools. ^prov-3-35
 
 ---
-[[Proverbs 2|← Proverbs 2]] · [[Proverbs 3 - Study Guide|Study guide]] · [[Proverbs 3 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 4|Proverbs 4 →]]
+[[Proverbs 2|← Proverbs 2]] · [[Proverbs 3 (Annotated)|Annotated]] · [[Proverbs 3 - Study Guide|Study guide]] · [[Proverbs 3 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 4|Proverbs 4 →]]

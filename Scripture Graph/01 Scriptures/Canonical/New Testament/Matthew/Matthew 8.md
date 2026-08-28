@@ -82,4 +82,4 @@ cssclasses:
 **34** And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts. ^matt-8-34
 
 ---
-[[Matthew 7|← Matthew 7]] · [[Matthew 8 - Study Guide|Study guide]] · [[Matthew 8 - My Notes|My notes]] · [[Matthew]] · [[Matthew 9|Matthew 9 →]]
+[[Matthew 7|← Matthew 7]] · [[Matthew 8 (Annotated)|Annotated]] · [[Matthew 8 - Study Guide|Study guide]] · [[Matthew 8 - My Notes|My notes]] · [[Matthew]] · [[Matthew 9|Matthew 9 →]]

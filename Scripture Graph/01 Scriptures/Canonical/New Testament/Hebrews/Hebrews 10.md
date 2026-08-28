@@ -92,4 +92,4 @@ cssclasses:
 **39** But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul. ^heb-10-39
 
 ---
-[[Hebrews 9|← Hebrews 9]] · [[Hebrews 10 - Study Guide|Study guide]] · [[Hebrews 10 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 11|Hebrews 11 →]]
+[[Hebrews 9|← Hebrews 9]] · [[Hebrews 10 (Annotated)|Annotated]] · [[Hebrews 10 - Study Guide|Study guide]] · [[Hebrews 10 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 11|Hebrews 11 →]]

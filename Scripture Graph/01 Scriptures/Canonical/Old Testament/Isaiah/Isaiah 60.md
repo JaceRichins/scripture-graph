@@ -58,4 +58,4 @@ cssclasses:
 **22** A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time. ^isa-60-22
 
 ---
-[[Isaiah 59|← Isaiah 59]] · [[Isaiah 60 - Study Guide|Study guide]] · [[Isaiah 60 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 61|Isaiah 61 →]]
+[[Isaiah 59|← Isaiah 59]] · [[Isaiah 60 (Annotated)|Annotated]] · [[Isaiah 60 - Study Guide|Study guide]] · [[Isaiah 60 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 61|Isaiah 61 →]]

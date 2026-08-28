@@ -42,4 +42,4 @@ aliases:
 **13** O spare me, that I may recover strength, before I go hence, and be no more. ^ps-39-13
 
 ---
-[[Psalm 38|← Psalm 38]] · [[Psalm 39 - Study Guide|Study guide]] · [[Psalm 39 - My Notes|My notes]] · [[Psalms]] · [[Psalm 40|Psalm 40 →]]
+[[Psalm 38|← Psalm 38]] · [[Psalm 39 (Annotated)|Annotated]] · [[Psalm 39 - Study Guide|Study guide]] · [[Psalm 39 - My Notes|My notes]] · [[Psalms]] · [[Psalm 40|Psalm 40 →]]

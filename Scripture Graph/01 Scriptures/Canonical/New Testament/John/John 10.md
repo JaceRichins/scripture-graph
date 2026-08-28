@@ -98,4 +98,4 @@ cssclasses:
 **42** And many believed on him there. ^john-10-42
 
 ---
-[[John 9|← John 9]] · [[John 10 - Study Guide|Study guide]] · [[John 10 - My Notes|My notes]] · [[John]] · [[John 11|John 11 →]]
+[[John 9|← John 9]] · [[John 10 (Annotated)|Annotated]] · [[John 10 - Study Guide|Study guide]] · [[John 10 - My Notes|My notes]] · [[John]] · [[John 11|John 11 →]]

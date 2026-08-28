@@ -76,4 +76,4 @@ cssclasses:
 **31** Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings. ^num-28-31
 
 ---
-[[Numbers 27|← Numbers 27]] · [[Numbers 28 - Study Guide|Study guide]] · [[Numbers 28 - My Notes|My notes]] · [[Numbers]] · [[Numbers 29|Numbers 29 →]]
+[[Numbers 27|← Numbers 27]] · [[Numbers 28 (Annotated)|Annotated]] · [[Numbers 28 - Study Guide|Study guide]] · [[Numbers 28 - My Notes|My notes]] · [[Numbers]] · [[Numbers 29|Numbers 29 →]]

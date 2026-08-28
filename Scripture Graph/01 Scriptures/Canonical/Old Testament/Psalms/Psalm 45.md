@@ -50,4 +50,4 @@ aliases:
 **17** I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever. ^ps-45-17
 
 ---
-[[Psalm 44|← Psalm 44]] · [[Psalm 45 - Study Guide|Study guide]] · [[Psalm 45 - My Notes|My notes]] · [[Psalms]] · [[Psalm 46|Psalm 46 →]]
+[[Psalm 44|← Psalm 44]] · [[Psalm 45 (Annotated)|Annotated]] · [[Psalm 45 - Study Guide|Study guide]] · [[Psalm 45 - My Notes|My notes]] · [[Psalms]] · [[Psalm 46|Psalm 46 →]]

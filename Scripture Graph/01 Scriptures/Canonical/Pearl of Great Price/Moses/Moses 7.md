@@ -152,4 +152,4 @@ cssclasses:
 **69** And Enoch and all his people walked with God, and he dwelt in the midst of Zion; and it came to pass that Zion was not, for God received it up into his own bosom; and from thence went forth the saying, ZION IS FLED. ^moses-7-69
 
 ---
-[[Moses 6|← Moses 6]] · [[Moses 7 - Study Guide|Study guide]] · [[Moses 7 - My Notes|My notes]] · [[Moses]] · [[Moses 8|Moses 8 →]]
+[[Moses 6|← Moses 6]] · [[Moses 7 (Annotated)|Annotated]] · [[Moses 7 - Study Guide|Study guide]] · [[Moses 7 - My Notes|My notes]] · [[Moses]] · [[Moses 8|Moses 8 →]]

@@ -54,4 +54,4 @@ cssclasses:
 **20** Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings. ^2chr-21-20
 
 ---
-[[2 Chronicles 20|← 2 Chronicles 20]] · [[2 Chronicles 21 - Study Guide|Study guide]] · [[2 Chronicles 21 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 22|2 Chronicles 22 →]]
+[[2 Chronicles 20|← 2 Chronicles 20]] · [[2 Chronicles 21 (Annotated)|Annotated]] · [[2 Chronicles 21 - Study Guide|Study guide]] · [[2 Chronicles 21 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 22|2 Chronicles 22 →]]

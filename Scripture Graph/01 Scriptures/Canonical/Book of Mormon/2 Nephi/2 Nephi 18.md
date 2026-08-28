@@ -58,4 +58,4 @@ cssclasses:
 **22** And they shall look unto the earth and behold trouble, and darkness, dimness of anguish, and shall be driven to darkness. ^2ne-18-22
 
 ---
-[[2 Nephi 17|← 2 Nephi 17]] · [[2 Nephi 18 - Study Guide|Study guide]] · [[2 Nephi 18 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 19|2 Nephi 19 →]]
+[[2 Nephi 17|← 2 Nephi 17]] · [[2 Nephi 18 (Annotated)|Annotated]] · [[2 Nephi 18 - Study Guide|Study guide]] · [[2 Nephi 18 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 19|2 Nephi 19 →]]

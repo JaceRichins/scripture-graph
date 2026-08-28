@@ -64,4 +64,4 @@ cssclasses:
 **25** And all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns; but it shall be for the sending forth of oxen, and the treading of lesser cattle. ^2ne-17-25
 
 ---
-[[2 Nephi 16|← 2 Nephi 16]] · [[2 Nephi 17 - Study Guide|Study guide]] · [[2 Nephi 17 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 18|2 Nephi 18 →]]
+[[2 Nephi 16|← 2 Nephi 16]] · [[2 Nephi 17 (Annotated)|Annotated]] · [[2 Nephi 17 - Study Guide|Study guide]] · [[2 Nephi 17 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 18|2 Nephi 18 →]]

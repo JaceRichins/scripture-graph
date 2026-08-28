@@ -70,4 +70,4 @@ cssclasses:
 **28** So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was there when Jerusalem was taken. ^jer-38-28
 
 ---
-[[Jeremiah 37|← Jeremiah 37]] · [[Jeremiah 38 - Study Guide|Study guide]] · [[Jeremiah 38 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 39|Jeremiah 39 →]]
+[[Jeremiah 37|← Jeremiah 37]] · [[Jeremiah 38 (Annotated)|Annotated]] · [[Jeremiah 38 - Study Guide|Study guide]] · [[Jeremiah 38 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 39|Jeremiah 39 →]]

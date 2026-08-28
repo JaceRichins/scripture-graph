@@ -40,4 +40,4 @@ cssclasses:
 **13** To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. ^1thes-3-13
 
 ---
-[[1 Thessalonians 2|← 1 Thessalonians 2]] · [[1 Thessalonians 3 - Study Guide|Study guide]] · [[1 Thessalonians 3 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 4|1 Thessalonians 4 →]]
+[[1 Thessalonians 2|← 1 Thessalonians 2]] · [[1 Thessalonians 3 (Annotated)|Annotated]] · [[1 Thessalonians 3 - Study Guide|Study guide]] · [[1 Thessalonians 3 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 4|1 Thessalonians 4 →]]

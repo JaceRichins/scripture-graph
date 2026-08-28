@@ -62,4 +62,4 @@ cssclasses:
 **24** The king of Tirzah, one: all the kings thirty and one. ^josh-12-24
 
 ---
-[[Joshua 11|← Joshua 11]] · [[Joshua 12 - Study Guide|Study guide]] · [[Joshua 12 - My Notes|My notes]] · [[Joshua]] · [[Joshua 13|Joshua 13 →]]
+[[Joshua 11|← Joshua 11]] · [[Joshua 12 (Annotated)|Annotated]] · [[Joshua 12 - Study Guide|Study guide]] · [[Joshua 12 - My Notes|My notes]] · [[Joshua]] · [[Joshua 13|Joshua 13 →]]

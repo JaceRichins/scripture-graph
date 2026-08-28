@@ -64,4 +64,4 @@ cssclasses:
 **25** And he went from thence to mount Carmel, and from thence he returned to Samaria. ^2kgs-2-25
 
 ---
-[[2 Kings 1|← 2 Kings 1]] · [[2 Kings 2 - Study Guide|Study guide]] · [[2 Kings 2 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 3|2 Kings 3 →]]
+[[2 Kings 1|← 2 Kings 1]] · [[2 Kings 2 (Annotated)|Annotated]] · [[2 Kings 2 - Study Guide|Study guide]] · [[2 Kings 2 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 3|2 Kings 3 →]]

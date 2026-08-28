@@ -64,4 +64,4 @@ cssclasses:
 **25** And behold, I prepare you against these things; for ye cannot cross this great deep save I prepare you against the waves of the sea, and the winds which have gone forth, and the floods which shall come. Therefore what will ye that I should prepare for you that ye may have light when ye are swallowed up in the depths of the sea? ^ether-2-25
 
 ---
-[[Ether 1|← Ether 1]] · [[Ether 2 - Study Guide|Study guide]] · [[Ether 2 - My Notes|My notes]] · [[Ether]] · [[Ether 3|Ether 3 →]]
+[[Ether 1|← Ether 1]] · [[Ether 2 (Annotated)|Annotated]] · [[Ether 2 - Study Guide|Study guide]] · [[Ether 2 - My Notes|My notes]] · [[Ether]] · [[Ether 3|Ether 3 →]]

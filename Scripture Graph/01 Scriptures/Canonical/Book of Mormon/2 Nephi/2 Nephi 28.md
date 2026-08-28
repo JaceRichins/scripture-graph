@@ -78,4 +78,4 @@ cssclasses:
 **32** Wo be unto the Gentiles, saith the Lord God of Hosts! For notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me; nevertheless, I will be merciful unto them, saith the Lord God, if they will repent and come unto me; for mine arm is lengthened out all the day long, saith the Lord God of Hosts. ^2ne-28-32
 
 ---
-[[2 Nephi 27|← 2 Nephi 27]] · [[2 Nephi 28 - Study Guide|Study guide]] · [[2 Nephi 28 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 29|2 Nephi 29 →]]
+[[2 Nephi 27|← 2 Nephi 27]] · [[2 Nephi 28 (Annotated)|Annotated]] · [[2 Nephi 28 - Study Guide|Study guide]] · [[2 Nephi 28 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 29|2 Nephi 29 →]]

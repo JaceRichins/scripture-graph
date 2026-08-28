@@ -64,4 +64,4 @@ cssclasses:
 **25** They grope in the dark without light, and he maketh them to stagger like a drunken man. ^job-12-25
 
 ---
-[[Job 11|← Job 11]] · [[Job 12 - Study Guide|Study guide]] · [[Job 12 - My Notes|My notes]] · [[Job]] · [[Job 13|Job 13 →]]
+[[Job 11|← Job 11]] · [[Job 12 (Annotated)|Annotated]] · [[Job 12 - Study Guide|Study guide]] · [[Job 12 - My Notes|My notes]] · [[Job]] · [[Job 13|Job 13 →]]

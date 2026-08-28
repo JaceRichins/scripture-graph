@@ -54,4 +54,4 @@ cssclasses:
 **20** And when the Jews heard these things they were angry with him; yea, even as with the prophets of old, whom they had cast out, and stoned, and slain; and they also sought his life, that they might take it away. But behold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance. ^1ne-1-20
 
 ---
-[[1 Nephi 1 - Study Guide|Study guide]] · [[1 Nephi 1 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 2|1 Nephi 2 →]]
+[[1 Nephi 1 (Annotated)|Annotated]] · [[1 Nephi 1 - Study Guide|Study guide]] · [[1 Nephi 1 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 2|1 Nephi 2 →]]

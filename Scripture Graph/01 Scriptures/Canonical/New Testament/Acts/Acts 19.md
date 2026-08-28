@@ -96,4 +96,4 @@ cssclasses:
 **41** And when he had thus spoken, he dismissed the assembly. ^acts-19-41
 
 ---
-[[Acts 18|← Acts 18]] · [[Acts 19 - Study Guide|Study guide]] · [[Acts 19 - My Notes|My notes]] · [[Acts]] · [[Acts 20|Acts 20 →]]
+[[Acts 18|← Acts 18]] · [[Acts 19 (Annotated)|Annotated]] · [[Acts 19 - Study Guide|Study guide]] · [[Acts 19 - My Notes|My notes]] · [[Acts]] · [[Acts 20|Acts 20 →]]

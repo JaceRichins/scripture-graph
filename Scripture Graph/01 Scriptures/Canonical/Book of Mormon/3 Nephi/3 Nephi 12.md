@@ -110,4 +110,4 @@ cssclasses:
 **48** Therefore I would that ye should be perfect even as I, or your Father who is in heaven is perfect. ^3ne-12-48
 
 ---
-[[3 Nephi 11|← 3 Nephi 11]] · [[3 Nephi 12 - Study Guide|Study guide]] · [[3 Nephi 12 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 13|3 Nephi 13 →]]
+[[3 Nephi 11|← 3 Nephi 11]] · [[3 Nephi 12 (Annotated)|Annotated]] · [[3 Nephi 12 - Study Guide|Study guide]] · [[3 Nephi 12 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 13|3 Nephi 13 →]]

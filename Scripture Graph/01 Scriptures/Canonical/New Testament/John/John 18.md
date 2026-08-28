@@ -94,4 +94,4 @@ cssclasses:
 **40** Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber. ^john-18-40
 
 ---
-[[John 17|← John 17]] · [[John 18 - Study Guide|Study guide]] · [[John 18 - My Notes|My notes]] · [[John]] · [[John 19|John 19 →]]
+[[John 17|← John 17]] · [[John 18 (Annotated)|Annotated]] · [[John 18 - Study Guide|Study guide]] · [[John 18 - My Notes|My notes]] · [[John]] · [[John 19|John 19 →]]

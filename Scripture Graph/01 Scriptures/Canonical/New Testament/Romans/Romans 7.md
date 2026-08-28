@@ -64,4 +64,4 @@ cssclasses:
 **25** I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin. ^rom-7-25
 
 ---
-[[Romans 6|← Romans 6]] · [[Romans 7 - Study Guide|Study guide]] · [[Romans 7 - My Notes|My notes]] · [[Romans]] · [[Romans 8|Romans 8 →]]
+[[Romans 6|← Romans 6]] · [[Romans 7 (Annotated)|Annotated]] · [[Romans 7 - Study Guide|Study guide]] · [[Romans 7 - My Notes|My notes]] · [[Romans]] · [[Romans 8|Romans 8 →]]

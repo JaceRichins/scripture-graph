@@ -78,4 +78,4 @@ cssclasses:
 **32** And Pharaoh hardened his heart at this time also, neither would he let the people go. ^ex-8-32
 
 ---
-[[Exodus 7|← Exodus 7]] · [[Exodus 8 - Study Guide|Study guide]] · [[Exodus 8 - My Notes|My notes]] · [[Exodus]] · [[Exodus 9|Exodus 9 →]]
+[[Exodus 7|← Exodus 7]] · [[Exodus 8 (Annotated)|Annotated]] · [[Exodus 8 - Study Guide|Study guide]] · [[Exodus 8 - My Notes|My notes]] · [[Exodus]] · [[Exodus 9|Exodus 9 →]]

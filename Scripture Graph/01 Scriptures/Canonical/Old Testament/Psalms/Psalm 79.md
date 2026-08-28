@@ -42,4 +42,4 @@ aliases:
 **13** So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations. ^ps-79-13
 
 ---
-[[Psalm 78|← Psalm 78]] · [[Psalm 79 - Study Guide|Study guide]] · [[Psalm 79 - My Notes|My notes]] · [[Psalms]] · [[Psalm 80|Psalm 80 →]]
+[[Psalm 78|← Psalm 78]] · [[Psalm 79 (Annotated)|Annotated]] · [[Psalm 79 - Study Guide|Study guide]] · [[Psalm 79 - My Notes|My notes]] · [[Psalms]] · [[Psalm 80|Psalm 80 →]]

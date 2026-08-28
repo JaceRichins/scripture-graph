@@ -46,4 +46,4 @@ cssclasses:
 **16** And there shall be a highway for the remnant of his people which shall be left, from Assyria, like as it was to Israel in the day that he came up out of the land of Egypt. ^2ne-21-16
 
 ---
-[[2 Nephi 20|← 2 Nephi 20]] · [[2 Nephi 21 - Study Guide|Study guide]] · [[2 Nephi 21 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 22|2 Nephi 22 →]]
+[[2 Nephi 20|← 2 Nephi 20]] · [[2 Nephi 21 (Annotated)|Annotated]] · [[2 Nephi 21 - Study Guide|Study guide]] · [[2 Nephi 21 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 22|2 Nephi 22 →]]

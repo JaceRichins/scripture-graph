@@ -76,4 +76,4 @@ cssclasses:
 **31** And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs. ^ex-22-31
 
 ---
-[[Exodus 21|← Exodus 21]] · [[Exodus 22 - Study Guide|Study guide]] · [[Exodus 22 - My Notes|My notes]] · [[Exodus]] · [[Exodus 23|Exodus 23 →]]
+[[Exodus 21|← Exodus 21]] · [[Exodus 22 (Annotated)|Annotated]] · [[Exodus 22 - Study Guide|Study guide]] · [[Exodus 22 - My Notes|My notes]] · [[Exodus]] · [[Exodus 23|Exodus 23 →]]

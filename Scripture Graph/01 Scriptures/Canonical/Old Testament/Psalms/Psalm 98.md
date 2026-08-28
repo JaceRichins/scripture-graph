@@ -34,4 +34,4 @@ aliases:
 **9** Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity. ^ps-98-9
 
 ---
-[[Psalm 97|← Psalm 97]] · [[Psalm 98 - Study Guide|Study guide]] · [[Psalm 98 - My Notes|My notes]] · [[Psalms]] · [[Psalm 99|Psalm 99 →]]
+[[Psalm 97|← Psalm 97]] · [[Psalm 98 (Annotated)|Annotated]] · [[Psalm 98 - Study Guide|Study guide]] · [[Psalm 98 - My Notes|My notes]] · [[Psalms]] · [[Psalm 99|Psalm 99 →]]

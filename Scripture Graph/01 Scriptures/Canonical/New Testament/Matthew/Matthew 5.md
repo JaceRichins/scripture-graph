@@ -110,4 +110,4 @@ cssclasses:
 **48** Be ye therefore perfect, even as your Father which is in heaven is perfect. ^matt-5-48
 
 ---
-[[Matthew 4|← Matthew 4]] · [[Matthew 5 - Study Guide|Study guide]] · [[Matthew 5 - My Notes|My notes]] · [[Matthew]] · [[Matthew 6|Matthew 6 →]]
+[[Matthew 4|← Matthew 4]] · [[Matthew 5 (Annotated)|Annotated]] · [[Matthew 5 - Study Guide|Study guide]] · [[Matthew 5 - My Notes|My notes]] · [[Matthew]] · [[Matthew 6|Matthew 6 →]]

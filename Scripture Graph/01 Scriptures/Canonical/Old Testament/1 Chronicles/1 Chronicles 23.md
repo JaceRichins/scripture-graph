@@ -78,4 +78,4 @@ cssclasses:
 **32** And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD. ^1chr-23-32
 
 ---
-[[1 Chronicles 22|← 1 Chronicles 22]] · [[1 Chronicles 23 - Study Guide|Study guide]] · [[1 Chronicles 23 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 24|1 Chronicles 24 →]]
+[[1 Chronicles 22|← 1 Chronicles 22]] · [[1 Chronicles 23 (Annotated)|Annotated]] · [[1 Chronicles 23 - Study Guide|Study guide]] · [[1 Chronicles 23 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 24|1 Chronicles 24 →]]

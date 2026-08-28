@@ -66,4 +66,4 @@ cssclasses:
 **26** And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I am the LORD. ^ezek-30-26
 
 ---
-[[Ezekiel 29|← Ezekiel 29]] · [[Ezekiel 30 - Study Guide|Study guide]] · [[Ezekiel 30 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 31|Ezekiel 31 →]]
+[[Ezekiel 29|← Ezekiel 29]] · [[Ezekiel 30 (Annotated)|Annotated]] · [[Ezekiel 30 - Study Guide|Study guide]] · [[Ezekiel 30 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 31|Ezekiel 31 →]]

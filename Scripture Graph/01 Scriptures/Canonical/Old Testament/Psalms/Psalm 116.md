@@ -54,4 +54,4 @@ aliases:
 **19** In the courts of the LORD's house, in the midst of thee, O Jerusalem. Praise ye the LORD. ^ps-116-19
 
 ---
-[[Psalm 115|← Psalm 115]] · [[Psalm 116 - Study Guide|Study guide]] · [[Psalm 116 - My Notes|My notes]] · [[Psalms]] · [[Psalm 117|Psalm 117 →]]
+[[Psalm 115|← Psalm 115]] · [[Psalm 116 (Annotated)|Annotated]] · [[Psalm 116 - Study Guide|Study guide]] · [[Psalm 116 - My Notes|My notes]] · [[Psalms]] · [[Psalm 117|Psalm 117 →]]

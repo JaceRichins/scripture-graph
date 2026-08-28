@@ -70,4 +70,4 @@ cssclasses:
 **28** And there they abode long time with the disciples. ^acts-14-28
 
 ---
-[[Acts 13|← Acts 13]] · [[Acts 14 - Study Guide|Study guide]] · [[Acts 14 - My Notes|My notes]] · [[Acts]] · [[Acts 15|Acts 15 →]]
+[[Acts 13|← Acts 13]] · [[Acts 14 (Annotated)|Annotated]] · [[Acts 14 - Study Guide|Study guide]] · [[Acts 14 - My Notes|My notes]] · [[Acts]] · [[Acts 15|Acts 15 →]]

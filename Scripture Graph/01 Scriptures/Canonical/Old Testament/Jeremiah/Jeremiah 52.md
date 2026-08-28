@@ -82,4 +82,4 @@ cssclasses:
 **34** And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life. ^jer-52-34
 
 ---
-[[Jeremiah 51|← Jeremiah 51]] · [[Jeremiah 52 - Study Guide|Study guide]] · [[Jeremiah 52 - My Notes|My notes]] · [[Jeremiah]]
+[[Jeremiah 51|← Jeremiah 51]] · [[Jeremiah 52 (Annotated)|Annotated]] · [[Jeremiah 52 - Study Guide|Study guide]] · [[Jeremiah 52 - My Notes|My notes]] · [[Jeremiah]]

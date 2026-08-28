@@ -72,4 +72,4 @@ cssclasses:
 **29** Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men. ^prov-22-29
 
 ---
-[[Proverbs 21|← Proverbs 21]] · [[Proverbs 22 - Study Guide|Study guide]] · [[Proverbs 22 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 23|Proverbs 23 →]]
+[[Proverbs 21|← Proverbs 21]] · [[Proverbs 22 (Annotated)|Annotated]] · [[Proverbs 22 - Study Guide|Study guide]] · [[Proverbs 22 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 23|Proverbs 23 →]]

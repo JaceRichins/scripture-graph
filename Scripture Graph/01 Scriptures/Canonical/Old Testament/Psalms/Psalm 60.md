@@ -40,4 +40,4 @@ aliases:
 **12** Through God we shall do valiantly: for he it is that shall tread down our enemies. ^ps-60-12
 
 ---
-[[Psalm 59|← Psalm 59]] · [[Psalm 60 - Study Guide|Study guide]] · [[Psalm 60 - My Notes|My notes]] · [[Psalms]] · [[Psalm 61|Psalm 61 →]]
+[[Psalm 59|← Psalm 59]] · [[Psalm 60 (Annotated)|Annotated]] · [[Psalm 60 - Study Guide|Study guide]] · [[Psalm 60 - My Notes|My notes]] · [[Psalms]] · [[Psalm 61|Psalm 61 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire. ^lev-6-30
 
 ---
-[[Leviticus 5|← Leviticus 5]] · [[Leviticus 6 - Study Guide|Study guide]] · [[Leviticus 6 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 7|Leviticus 7 →]]
+[[Leviticus 5|← Leviticus 5]] · [[Leviticus 6 (Annotated)|Annotated]] · [[Leviticus 6 - Study Guide|Study guide]] · [[Leviticus 6 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 7|Leviticus 7 →]]

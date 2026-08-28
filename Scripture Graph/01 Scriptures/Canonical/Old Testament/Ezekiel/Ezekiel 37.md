@@ -70,4 +70,4 @@ cssclasses:
 **28** And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore. ^ezek-37-28
 
 ---
-[[Ezekiel 36|← Ezekiel 36]] · [[Ezekiel 37 - Study Guide|Study guide]] · [[Ezekiel 37 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 38|Ezekiel 38 →]]
+[[Ezekiel 36|← Ezekiel 36]] · [[Ezekiel 37 (Annotated)|Annotated]] · [[Ezekiel 37 - Study Guide|Study guide]] · [[Ezekiel 37 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 38|Ezekiel 38 →]]

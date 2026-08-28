@@ -32,4 +32,4 @@ aliases:
 **8** Which turned the rock into a standing water, the flint into a fountain of waters. ^ps-114-8
 
 ---
-[[Psalm 113|← Psalm 113]] · [[Psalm 114 - Study Guide|Study guide]] · [[Psalm 114 - My Notes|My notes]] · [[Psalms]] · [[Psalm 115|Psalm 115 →]]
+[[Psalm 113|← Psalm 113]] · [[Psalm 114 (Annotated)|Annotated]] · [[Psalm 114 - Study Guide|Study guide]] · [[Psalm 114 - My Notes|My notes]] · [[Psalms]] · [[Psalm 115|Psalm 115 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts. ^rev-9-21
 
 ---
-[[Revelation 8|← Revelation 8]] · [[Revelation 9 - Study Guide|Study guide]] · [[Revelation 9 - My Notes|My notes]] · [[Revelation]] · [[Revelation 10|Revelation 10 →]]
+[[Revelation 8|← Revelation 8]] · [[Revelation 9 (Annotated)|Annotated]] · [[Revelation 9 - Study Guide|Study guide]] · [[Revelation 9 - My Notes|My notes]] · [[Revelation]] · [[Revelation 10|Revelation 10 →]]

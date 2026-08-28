@@ -76,4 +76,4 @@ cssclasses:
 **31** And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord GOD. ^ezek-34-31
 
 ---
-[[Ezekiel 33|← Ezekiel 33]] · [[Ezekiel 34 - Study Guide|Study guide]] · [[Ezekiel 34 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 35|Ezekiel 35 →]]
+[[Ezekiel 33|← Ezekiel 33]] · [[Ezekiel 34 (Annotated)|Annotated]] · [[Ezekiel 34 - Study Guide|Study guide]] · [[Ezekiel 34 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 35|Ezekiel 35 →]]

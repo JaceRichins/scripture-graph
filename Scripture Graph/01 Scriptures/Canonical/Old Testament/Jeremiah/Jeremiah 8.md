@@ -58,4 +58,4 @@ cssclasses:
 **22** Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered? ^jer-8-22
 
 ---
-[[Jeremiah 7|← Jeremiah 7]] · [[Jeremiah 8 - Study Guide|Study guide]] · [[Jeremiah 8 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 9|Jeremiah 9 →]]
+[[Jeremiah 7|← Jeremiah 7]] · [[Jeremiah 8 (Annotated)|Annotated]] · [[Jeremiah 8 - Study Guide|Study guide]] · [[Jeremiah 8 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 9|Jeremiah 9 →]]

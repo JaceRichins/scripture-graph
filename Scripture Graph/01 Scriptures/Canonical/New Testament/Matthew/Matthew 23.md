@@ -92,4 +92,4 @@ cssclasses:
 **39** For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord. ^matt-23-39
 
 ---
-[[Matthew 22|← Matthew 22]] · [[Matthew 23 - Study Guide|Study guide]] · [[Matthew 23 - My Notes|My notes]] · [[Matthew]] · [[Matthew 24|Matthew 24 →]]
+[[Matthew 22|← Matthew 22]] · [[Matthew 23 (Annotated)|Annotated]] · [[Matthew 23 - Study Guide|Study guide]] · [[Matthew 23 - My Notes|My notes]] · [[Matthew]] · [[Matthew 24|Matthew 24 →]]

@@ -84,4 +84,4 @@ cssclasses:
 **35** Yea, and have they not said also that he should bring to pass the resurrection of the dead, and that he, himself, should be oppressed and afflicted? ^mosiah-13-35
 
 ---
-[[Mosiah 12|← Mosiah 12]] · [[Mosiah 13 - Study Guide|Study guide]] · [[Mosiah 13 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 14|Mosiah 14 →]]
+[[Mosiah 12|← Mosiah 12]] · [[Mosiah 13 (Annotated)|Annotated]] · [[Mosiah 13 - Study Guide|Study guide]] · [[Mosiah 13 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 14|Mosiah 14 →]]

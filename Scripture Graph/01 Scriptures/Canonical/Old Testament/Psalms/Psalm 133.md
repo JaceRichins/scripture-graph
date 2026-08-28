@@ -22,4 +22,4 @@ aliases:
 **3** As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore. ^ps-133-3
 
 ---
-[[Psalm 132|← Psalm 132]] · [[Psalm 133 - Study Guide|Study guide]] · [[Psalm 133 - My Notes|My notes]] · [[Psalms]] · [[Psalm 134|Psalm 134 →]]
+[[Psalm 132|← Psalm 132]] · [[Psalm 133 (Annotated)|Annotated]] · [[Psalm 133 - Study Guide|Study guide]] · [[Psalm 133 - My Notes|My notes]] · [[Psalms]] · [[Psalm 134|Psalm 134 →]]

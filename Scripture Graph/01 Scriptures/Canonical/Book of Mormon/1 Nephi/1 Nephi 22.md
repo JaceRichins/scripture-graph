@@ -76,4 +76,4 @@ cssclasses:
 **31** Wherefore, ye need not suppose that I and my father are the only ones that have testified, and also taught them. Wherefore, if ye shall be obedient to the commandments, and endure to the end, ye shall be saved at the last day. And thus it is. Amen. ^1ne-22-31
 
 ---
-[[1 Nephi 21|← 1 Nephi 21]] · [[1 Nephi 22 - Study Guide|Study guide]] · [[1 Nephi 22 - My Notes|My notes]] · [[1 Nephi]]
+[[1 Nephi 21|← 1 Nephi 21]] · [[1 Nephi 22 (Annotated)|Annotated]] · [[1 Nephi 22 - Study Guide|Study guide]] · [[1 Nephi 22 - My Notes|My notes]] · [[1 Nephi]]

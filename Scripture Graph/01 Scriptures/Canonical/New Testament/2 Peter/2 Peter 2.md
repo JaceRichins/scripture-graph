@@ -58,4 +58,4 @@ cssclasses:
 **22** But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire. ^2pet-2-22
 
 ---
-[[2 Peter 1|← 2 Peter 1]] · [[2 Peter 2 - Study Guide|Study guide]] · [[2 Peter 2 - My Notes|My notes]] · [[2 Peter]] · [[2 Peter 3|2 Peter 3 →]]
+[[2 Peter 1|← 2 Peter 1]] · [[2 Peter 2 (Annotated)|Annotated]] · [[2 Peter 2 - Study Guide|Study guide]] · [[2 Peter 2 - My Notes|My notes]] · [[2 Peter]] · [[2 Peter 3|2 Peter 3 →]]

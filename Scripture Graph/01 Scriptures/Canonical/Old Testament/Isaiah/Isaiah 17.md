@@ -42,4 +42,4 @@ cssclasses:
 **14** And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us. ^isa-17-14
 
 ---
-[[Isaiah 16|← Isaiah 16]] · [[Isaiah 17 - Study Guide|Study guide]] · [[Isaiah 17 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 18|Isaiah 18 →]]
+[[Isaiah 16|← Isaiah 16]] · [[Isaiah 17 (Annotated)|Annotated]] · [[Isaiah 17 - Study Guide|Study guide]] · [[Isaiah 17 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 18|Isaiah 18 →]]

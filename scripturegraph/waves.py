@@ -72,11 +72,17 @@ def _dispatch_topic_synthesis(ctx: Ctx, target: str) -> dict:
     return synthesize_topic(ctx, target)
 
 
+def _dispatch_annotate(ctx: Ctx, target: str) -> dict:
+    from scripturegraph.vaultgen.annotated import render_annotated_chapter
+    return render_annotated_chapter(ctx, target)
+
+
 PASS_DEFS: dict[str, dict] = {
     "entities":   {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_entities},
     "citations":  {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_citations},
     "topics":     {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_topics},
     "synthesis":  {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_synthesis},
+    "annotate":   {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_annotate},
     "conference": {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_conference},
     "history":    {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_history},
     "topic-synthesis": {"scope": "topic", "mode": "deterministic",

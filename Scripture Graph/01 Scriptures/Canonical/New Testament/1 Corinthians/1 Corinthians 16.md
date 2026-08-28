@@ -62,4 +62,4 @@ cssclasses:
 **24** My love be with you all in Christ Jesus. Amen. ^1cor-16-24
 
 ---
-[[1 Corinthians 15|← 1 Corinthians 15]] · [[1 Corinthians 16 - Study Guide|Study guide]] · [[1 Corinthians 16 - My Notes|My notes]] · [[1 Corinthians]]
+[[1 Corinthians 15|← 1 Corinthians 15]] · [[1 Corinthians 16 (Annotated)|Annotated]] · [[1 Corinthians 16 - Study Guide|Study guide]] · [[1 Corinthians 16 - My Notes|My notes]] · [[1 Corinthians]]

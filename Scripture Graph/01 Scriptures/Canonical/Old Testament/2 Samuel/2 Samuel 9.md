@@ -40,4 +40,4 @@ cssclasses:
 **13** So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king's table; and was lame on both his feet. ^2sam-9-13
 
 ---
-[[2 Samuel 8|← 2 Samuel 8]] · [[2 Samuel 9 - Study Guide|Study guide]] · [[2 Samuel 9 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 10|2 Samuel 10 →]]
+[[2 Samuel 8|← 2 Samuel 8]] · [[2 Samuel 9 (Annotated)|Annotated]] · [[2 Samuel 9 - Study Guide|Study guide]] · [[2 Samuel 9 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 10|2 Samuel 10 →]]

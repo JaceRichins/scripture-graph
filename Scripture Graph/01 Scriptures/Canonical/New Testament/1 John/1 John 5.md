@@ -56,4 +56,4 @@ cssclasses:
 **21** Little children, keep yourselves from idols. Amen. ^1jn-5-21
 
 ---
-[[1 John 4|← 1 John 4]] · [[1 John 5 - Study Guide|Study guide]] · [[1 John 5 - My Notes|My notes]] · [[1 John]]
+[[1 John 4|← 1 John 4]] · [[1 John 5 (Annotated)|Annotated]] · [[1 John 5 - Study Guide|Study guide]] · [[1 John 5 - My Notes|My notes]] · [[1 John]]

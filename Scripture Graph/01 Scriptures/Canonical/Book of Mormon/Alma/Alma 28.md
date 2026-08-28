@@ -42,4 +42,4 @@ cssclasses:
 **14** And thus we see the great call of diligence of men to labor in the vineyards of the Lord; and thus we see the great reason of sorrow, and also of rejoicing—sorrow because of death and destruction among men, and joy because of the light of Christ unto life. ^alma-28-14
 
 ---
-[[Alma 27|← Alma 27]] · [[Alma 28 - Study Guide|Study guide]] · [[Alma 28 - My Notes|My notes]] · [[Alma]] · [[Alma 29|Alma 29 →]]
+[[Alma 27|← Alma 27]] · [[Alma 28 (Annotated)|Annotated]] · [[Alma 28 - Study Guide|Study guide]] · [[Alma 28 - My Notes|My notes]] · [[Alma]] · [[Alma 29|Alma 29 →]]

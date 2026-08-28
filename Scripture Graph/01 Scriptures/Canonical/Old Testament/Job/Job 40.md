@@ -62,4 +62,4 @@ cssclasses:
 **24** He taketh it with his eyes: his nose pierceth through snares. ^job-40-24
 
 ---
-[[Job 39|← Job 39]] · [[Job 40 - Study Guide|Study guide]] · [[Job 40 - My Notes|My notes]] · [[Job]] · [[Job 41|Job 41 →]]
+[[Job 39|← Job 39]] · [[Job 40 (Annotated)|Annotated]] · [[Job 40 - Study Guide|Study guide]] · [[Job 40 - My Notes|My notes]] · [[Job]] · [[Job 41|Job 41 →]]

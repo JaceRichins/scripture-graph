@@ -50,4 +50,4 @@ cssclasses:
 **18** And the woman which thou sawest is that great city, which reigneth over the kings of the earth. ^rev-17-18
 
 ---
-[[Revelation 16|← Revelation 16]] · [[Revelation 17 - Study Guide|Study guide]] · [[Revelation 17 - My Notes|My notes]] · [[Revelation]] · [[Revelation 18|Revelation 18 →]]
+[[Revelation 16|← Revelation 16]] · [[Revelation 17 (Annotated)|Annotated]] · [[Revelation 17 - Study Guide|Study guide]] · [[Revelation 17 - My Notes|My notes]] · [[Revelation]] · [[Revelation 18|Revelation 18 →]]

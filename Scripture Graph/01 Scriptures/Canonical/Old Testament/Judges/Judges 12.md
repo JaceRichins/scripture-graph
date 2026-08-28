@@ -44,4 +44,4 @@ cssclasses:
 **15** And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites. ^judg-12-15
 
 ---
-[[Judges 11|← Judges 11]] · [[Judges 12 - Study Guide|Study guide]] · [[Judges 12 - My Notes|My notes]] · [[Judges]] · [[Judges 13|Judges 13 →]]
+[[Judges 11|← Judges 11]] · [[Judges 12 (Annotated)|Annotated]] · [[Judges 12 - Study Guide|Study guide]] · [[Judges 12 - My Notes|My notes]] · [[Judges]] · [[Judges 13|Judges 13 →]]

@@ -94,4 +94,4 @@ cssclasses:
 **40** Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended. ^job-31-40
 
 ---
-[[Job 30|← Job 30]] · [[Job 31 - Study Guide|Study guide]] · [[Job 31 - My Notes|My notes]] · [[Job]] · [[Job 32|Job 32 →]]
+[[Job 30|← Job 30]] · [[Job 31 (Annotated)|Annotated]] · [[Job 31 - Study Guide|Study guide]] · [[Job 31 - My Notes|My notes]] · [[Job]] · [[Job 32|Job 32 →]]

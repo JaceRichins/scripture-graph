@@ -40,4 +40,4 @@ aliases:
 **12** Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work. ^ps-62-12
 
 ---
-[[Psalm 61|← Psalm 61]] · [[Psalm 62 - Study Guide|Study guide]] · [[Psalm 62 - My Notes|My notes]] · [[Psalms]] · [[Psalm 63|Psalm 63 →]]
+[[Psalm 61|← Psalm 61]] · [[Psalm 62 (Annotated)|Annotated]] · [[Psalm 62 - Study Guide|Study guide]] · [[Psalm 62 - My Notes|My notes]] · [[Psalms]] · [[Psalm 63|Psalm 63 →]]

@@ -50,4 +50,4 @@ aliases:
 **17** Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, LORD, hast holpen me, and comforted me. ^ps-86-17
 
 ---
-[[Psalm 85|← Psalm 85]] · [[Psalm 86 - Study Guide|Study guide]] · [[Psalm 86 - My Notes|My notes]] · [[Psalms]] · [[Psalm 87|Psalm 87 →]]
+[[Psalm 85|← Psalm 85]] · [[Psalm 86 (Annotated)|Annotated]] · [[Psalm 86 - Study Guide|Study guide]] · [[Psalm 86 - My Notes|My notes]] · [[Psalms]] · [[Psalm 87|Psalm 87 →]]

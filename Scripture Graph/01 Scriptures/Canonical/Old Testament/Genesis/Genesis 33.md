@@ -54,4 +54,4 @@ cssclasses:
 **20** And he erected there an altar, and called it El-elohe-Israel. ^gen-33-20
 
 ---
-[[Genesis 32|← Genesis 32]] · [[Genesis 33 - Study Guide|Study guide]] · [[Genesis 33 - My Notes|My notes]] · [[Genesis]] · [[Genesis 34|Genesis 34 →]]
+[[Genesis 32|← Genesis 32]] · [[Genesis 33 (Annotated)|Annotated]] · [[Genesis 33 - Study Guide|Study guide]] · [[Genesis 33 - My Notes|My notes]] · [[Genesis]] · [[Genesis 34|Genesis 34 →]]

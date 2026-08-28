@@ -44,4 +44,4 @@ cssclasses:
 **15** Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words. ^jer-19-15
 
 ---
-[[Jeremiah 18|← Jeremiah 18]] · [[Jeremiah 19 - Study Guide|Study guide]] · [[Jeremiah 19 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 20|Jeremiah 20 →]]
+[[Jeremiah 18|← Jeremiah 18]] · [[Jeremiah 19 (Annotated)|Annotated]] · [[Jeremiah 19 - Study Guide|Study guide]] · [[Jeremiah 19 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 20|Jeremiah 20 →]]

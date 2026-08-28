@@ -48,4 +48,4 @@ cssclasses:
 **17** Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether. ^song-2-17
 
 ---
-[[Song of Solomon 1|← Song of Solomon 1]] · [[Song of Solomon 2 - Study Guide|Study guide]] · [[Song of Solomon 2 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 3|Song of Solomon 3 →]]
+[[Song of Solomon 1|← Song of Solomon 1]] · [[Song of Solomon 2 (Annotated)|Annotated]] · [[Song of Solomon 2 - Study Guide|Study guide]] · [[Song of Solomon 2 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 3|Song of Solomon 3 →]]

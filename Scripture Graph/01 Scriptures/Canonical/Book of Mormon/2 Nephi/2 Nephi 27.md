@@ -84,4 +84,4 @@ cssclasses:
 **35** They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine. ^2ne-27-35
 
 ---
-[[2 Nephi 26|← 2 Nephi 26]] · [[2 Nephi 27 - Study Guide|Study guide]] · [[2 Nephi 27 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 28|2 Nephi 28 →]]
+[[2 Nephi 26|← 2 Nephi 26]] · [[2 Nephi 27 (Annotated)|Annotated]] · [[2 Nephi 27 - Study Guide|Study guide]] · [[2 Nephi 27 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 28|2 Nephi 28 →]]

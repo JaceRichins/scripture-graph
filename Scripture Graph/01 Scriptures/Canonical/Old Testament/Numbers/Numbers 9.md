@@ -60,4 +60,4 @@ cssclasses:
 **23** At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses. ^num-9-23
 
 ---
-[[Numbers 8|← Numbers 8]] · [[Numbers 9 - Study Guide|Study guide]] · [[Numbers 9 - My Notes|My notes]] · [[Numbers]] · [[Numbers 10|Numbers 10 →]]
+[[Numbers 8|← Numbers 8]] · [[Numbers 9 (Annotated)|Annotated]] · [[Numbers 9 - Study Guide|Study guide]] · [[Numbers 9 - My Notes|My notes]] · [[Numbers]] · [[Numbers 10|Numbers 10 →]]

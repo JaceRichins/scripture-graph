@@ -64,4 +64,4 @@ cssclasses:
 **25** In the LORD shall all the seed of Israel be justified, and shall glory. ^isa-45-25
 
 ---
-[[Isaiah 44|← Isaiah 44]] · [[Isaiah 45 - Study Guide|Study guide]] · [[Isaiah 45 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 46|Isaiah 46 →]]
+[[Isaiah 44|← Isaiah 44]] · [[Isaiah 45 (Annotated)|Annotated]] · [[Isaiah 45 - Study Guide|Study guide]] · [[Isaiah 45 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 46|Isaiah 46 →]]

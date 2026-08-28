@@ -106,4 +106,4 @@ cssclasses:
 **46** And these shall go away into everlasting punishment: but the righteous into life eternal. ^matt-25-46
 
 ---
-[[Matthew 24|← Matthew 24]] · [[Matthew 25 - Study Guide|Study guide]] · [[Matthew 25 - My Notes|My notes]] · [[Matthew]] · [[Matthew 26|Matthew 26 →]]
+[[Matthew 24|← Matthew 24]] · [[Matthew 25 (Annotated)|Annotated]] · [[Matthew 25 - Study Guide|Study guide]] · [[Matthew 25 - My Notes|My notes]] · [[Matthew]] · [[Matthew 26|Matthew 26 →]]

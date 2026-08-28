@@ -58,4 +58,4 @@ cssclasses:
 **22** Therefore, whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God. Behold, for such I have laid down my life, and have taken it up again; therefore repent, and come unto me ye ends of the earth, and be saved. ^3ne-9-22
 
 ---
-[[3 Nephi 8|← 3 Nephi 8]] · [[3 Nephi 9 - Study Guide|Study guide]] · [[3 Nephi 9 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 10|3 Nephi 10 →]]
+[[3 Nephi 8|← 3 Nephi 8]] · [[3 Nephi 9 (Annotated)|Annotated]] · [[3 Nephi 9 - Study Guide|Study guide]] · [[3 Nephi 9 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 10|3 Nephi 10 →]]

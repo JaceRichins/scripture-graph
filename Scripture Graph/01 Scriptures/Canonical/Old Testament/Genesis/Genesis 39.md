@@ -60,4 +60,4 @@ cssclasses:
 **23** The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper. ^gen-39-23
 
 ---
-[[Genesis 38|← Genesis 38]] · [[Genesis 39 - Study Guide|Study guide]] · [[Genesis 39 - My Notes|My notes]] · [[Genesis]] · [[Genesis 40|Genesis 40 →]]
+[[Genesis 38|← Genesis 38]] · [[Genesis 39 (Annotated)|Annotated]] · [[Genesis 39 - Study Guide|Study guide]] · [[Genesis 39 - My Notes|My notes]] · [[Genesis]] · [[Genesis 40|Genesis 40 →]]

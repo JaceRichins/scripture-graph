@@ -64,4 +64,4 @@ cssclasses:
 **25** I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners. ^job-29-25
 
 ---
-[[Job 28|← Job 28]] · [[Job 29 - Study Guide|Study guide]] · [[Job 29 - My Notes|My notes]] · [[Job]] · [[Job 30|Job 30 →]]
+[[Job 28|← Job 28]] · [[Job 29 (Annotated)|Annotated]] · [[Job 29 - Study Guide|Study guide]] · [[Job 29 - My Notes|My notes]] · [[Job]] · [[Job 30|Job 30 →]]

@@ -62,4 +62,4 @@ aliases:
 **23** Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually. ^ps-74-23
 
 ---
-[[Psalm 73|← Psalm 73]] · [[Psalm 74 - Study Guide|Study guide]] · [[Psalm 74 - My Notes|My notes]] · [[Psalms]] · [[Psalm 75|Psalm 75 →]]
+[[Psalm 73|← Psalm 73]] · [[Psalm 74 (Annotated)|Annotated]] · [[Psalm 74 - Study Guide|Study guide]] · [[Psalm 74 - My Notes|My notes]] · [[Psalms]] · [[Psalm 75|Psalm 75 →]]

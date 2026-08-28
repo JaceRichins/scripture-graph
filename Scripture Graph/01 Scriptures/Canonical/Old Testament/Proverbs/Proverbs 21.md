@@ -76,4 +76,4 @@ cssclasses:
 **31** The horse is prepared against the day of battle: but safety is of the LORD. ^prov-21-31
 
 ---
-[[Proverbs 20|← Proverbs 20]] · [[Proverbs 21 - Study Guide|Study guide]] · [[Proverbs 21 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 22|Proverbs 22 →]]
+[[Proverbs 20|← Proverbs 20]] · [[Proverbs 21 (Annotated)|Annotated]] · [[Proverbs 21 - Study Guide|Study guide]] · [[Proverbs 21 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 22|Proverbs 22 →]]

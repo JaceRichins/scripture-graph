@@ -66,4 +66,4 @@ cssclasses:
 **26** Yea, who shall be consigned to a state of endless misery, fulfilling the words which say: They that have done good shall have everlasting life; and they that have done evil shall have everlasting damnation. And thus it is. Amen. ^hel-12-26
 
 ---
-[[Helaman 11|← Helaman 11]] · [[Helaman 12 - Study Guide|Study guide]] · [[Helaman 12 - My Notes|My notes]] · [[Helaman]] · [[Helaman 13|Helaman 13 →]]
+[[Helaman 11|← Helaman 11]] · [[Helaman 12 (Annotated)|Annotated]] · [[Helaman 12 - Study Guide|Study guide]] · [[Helaman 12 - My Notes|My notes]] · [[Helaman]] · [[Helaman 13|Helaman 13 →]]

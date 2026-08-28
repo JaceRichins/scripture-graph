@@ -44,4 +44,4 @@ cssclasses:
 **15** And whosoever was not found written in the book of life was cast into the lake of fire. ^rev-20-15
 
 ---
-[[Revelation 19|← Revelation 19]] · [[Revelation 20 - Study Guide|Study guide]] · [[Revelation 20 - My Notes|My notes]] · [[Revelation]] · [[Revelation 21|Revelation 21 →]]
+[[Revelation 19|← Revelation 19]] · [[Revelation 20 (Annotated)|Annotated]] · [[Revelation 20 - Study Guide|Study guide]] · [[Revelation 20 - My Notes|My notes]] · [[Revelation]] · [[Revelation 21|Revelation 21 →]]

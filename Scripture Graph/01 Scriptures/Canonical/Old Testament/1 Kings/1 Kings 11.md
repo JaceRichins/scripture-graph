@@ -100,4 +100,4 @@ cssclasses:
 **43** And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead. ^1kgs-11-43
 
 ---
-[[1 Kings 10|← 1 Kings 10]] · [[1 Kings 11 - Study Guide|Study guide]] · [[1 Kings 11 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 12|1 Kings 12 →]]
+[[1 Kings 10|← 1 Kings 10]] · [[1 Kings 11 (Annotated)|Annotated]] · [[1 Kings 11 - Study Guide|Study guide]] · [[1 Kings 11 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 12|1 Kings 12 →]]

@@ -52,4 +52,4 @@ cssclasses:
 **19** And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world. And behold it is I that hath spoken it. Amen. ^ether-4-19
 
 ---
-[[Ether 3|← Ether 3]] · [[Ether 4 - Study Guide|Study guide]] · [[Ether 4 - My Notes|My notes]] · [[Ether]] · [[Ether 5|Ether 5 →]]
+[[Ether 3|← Ether 3]] · [[Ether 4 (Annotated)|Annotated]] · [[Ether 4 - Study Guide|Study guide]] · [[Ether 4 - My Notes|My notes]] · [[Ether]] · [[Ether 5|Ether 5 →]]

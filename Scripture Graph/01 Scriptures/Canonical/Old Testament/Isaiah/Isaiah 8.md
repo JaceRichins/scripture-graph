@@ -58,4 +58,4 @@ cssclasses:
 **22** And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness. ^isa-8-22
 
 ---
-[[Isaiah 7|← Isaiah 7]] · [[Isaiah 8 - Study Guide|Study guide]] · [[Isaiah 8 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 9|Isaiah 9 →]]
+[[Isaiah 7|← Isaiah 7]] · [[Isaiah 8 (Annotated)|Annotated]] · [[Isaiah 8 - Study Guide|Study guide]] · [[Isaiah 8 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 9|Isaiah 9 →]]

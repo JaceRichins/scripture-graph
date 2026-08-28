@@ -88,4 +88,4 @@ cssclasses:
 **37** And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together. ^luke-17-37
 
 ---
-[[Luke 16|← Luke 16]] · [[Luke 17 - Study Guide|Study guide]] · [[Luke 17 - My Notes|My notes]] · [[Luke]] · [[Luke 18|Luke 18 →]]
+[[Luke 16|← Luke 16]] · [[Luke 17 (Annotated)|Annotated]] · [[Luke 17 - Study Guide|Study guide]] · [[Luke 17 - My Notes|My notes]] · [[Luke]] · [[Luke 18|Luke 18 →]]

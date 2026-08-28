@@ -76,4 +76,4 @@ cssclasses:
 **31** And Shared wounded Coriantumr in his thigh, that he did not go to battle again for the space of two years, in which time all the people upon the face of the land were shedding blood, and there was none to restrain them. ^ether-13-31
 
 ---
-[[Ether 12|← Ether 12]] · [[Ether 13 - Study Guide|Study guide]] · [[Ether 13 - My Notes|My notes]] · [[Ether]] · [[Ether 14|Ether 14 →]]
+[[Ether 12|← Ether 12]] · [[Ether 13 (Annotated)|Annotated]] · [[Ether 13 - Study Guide|Study guide]] · [[Ether 13 - My Notes|My notes]] · [[Ether]] · [[Ether 14|Ether 14 →]]

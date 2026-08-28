@@ -60,4 +60,4 @@ aliases:
 **22** Let thy mercy, O LORD, be upon us, according as we hope in thee. ^ps-33-22
 
 ---
-[[Psalm 32|← Psalm 32]] · [[Psalm 33 - Study Guide|Study guide]] · [[Psalm 33 - My Notes|My notes]] · [[Psalms]] · [[Psalm 34|Psalm 34 →]]
+[[Psalm 32|← Psalm 32]] · [[Psalm 33 (Annotated)|Annotated]] · [[Psalm 33 - Study Guide|Study guide]] · [[Psalm 33 - My Notes|My notes]] · [[Psalms]] · [[Psalm 34|Psalm 34 →]]

@@ -50,4 +50,4 @@ cssclasses:
 **18** But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen. ^2pet-3-18
 
 ---
-[[2 Peter 2|← 2 Peter 2]] · [[2 Peter 3 - Study Guide|Study guide]] · [[2 Peter 3 - My Notes|My notes]] · [[2 Peter]]
+[[2 Peter 2|← 2 Peter 2]] · [[2 Peter 3 (Annotated)|Annotated]] · [[2 Peter 3 - Study Guide|Study guide]] · [[2 Peter 3 - My Notes|My notes]] · [[2 Peter]]

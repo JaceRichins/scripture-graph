@@ -94,4 +94,4 @@ cssclasses:
 **40** All these were the children of Asher, heads of their father's house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war and to battle was twenty and six thousand men. ^1chr-7-40
 
 ---
-[[1 Chronicles 6|← 1 Chronicles 6]] · [[1 Chronicles 7 - Study Guide|Study guide]] · [[1 Chronicles 7 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 8|1 Chronicles 8 →]]
+[[1 Chronicles 6|← 1 Chronicles 6]] · [[1 Chronicles 7 (Annotated)|Annotated]] · [[1 Chronicles 7 - Study Guide|Study guide]] · [[1 Chronicles 7 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 8|1 Chronicles 8 →]]

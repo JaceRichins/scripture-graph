@@ -58,4 +58,4 @@ cssclasses:
 **22** And the Holy Ghost giveth authority that I should speak these things, and deny them not. ^1ne-10-22
 
 ---
-[[1 Nephi 9|← 1 Nephi 9]] · [[1 Nephi 10 - Study Guide|Study guide]] · [[1 Nephi 10 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 11|1 Nephi 11 →]]
+[[1 Nephi 9|← 1 Nephi 9]] · [[1 Nephi 10 (Annotated)|Annotated]] · [[1 Nephi 10 - Study Guide|Study guide]] · [[1 Nephi 10 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 11|1 Nephi 11 →]]

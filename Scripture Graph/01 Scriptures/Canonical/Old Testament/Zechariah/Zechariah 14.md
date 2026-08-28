@@ -56,4 +56,4 @@ cssclasses:
 **21** Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts. ^zech-14-21
 
 ---
-[[Zechariah 13|← Zechariah 13]] · [[Zechariah 14 - Study Guide|Study guide]] · [[Zechariah 14 - My Notes|My notes]] · [[Zechariah]]
+[[Zechariah 13|← Zechariah 13]] · [[Zechariah 14 (Annotated)|Annotated]] · [[Zechariah 14 - Study Guide|Study guide]] · [[Zechariah 14 - My Notes|My notes]] · [[Zechariah]]

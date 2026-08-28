@@ -82,4 +82,4 @@ cssclasses:
 **34** And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth. ^1kgs-13-34
 
 ---
-[[1 Kings 12|← 1 Kings 12]] · [[1 Kings 13 - Study Guide|Study guide]] · [[1 Kings 13 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 14|1 Kings 14 →]]
+[[1 Kings 12|← 1 Kings 12]] · [[1 Kings 13 (Annotated)|Annotated]] · [[1 Kings 13 - Study Guide|Study guide]] · [[1 Kings 13 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 14|1 Kings 14 →]]

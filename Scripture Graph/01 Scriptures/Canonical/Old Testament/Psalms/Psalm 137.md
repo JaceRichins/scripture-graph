@@ -34,4 +34,4 @@ aliases:
 **9** Happy shall he be, that taketh and dasheth thy little ones against the stones. ^ps-137-9
 
 ---
-[[Psalm 136|← Psalm 136]] · [[Psalm 137 - Study Guide|Study guide]] · [[Psalm 137 - My Notes|My notes]] · [[Psalms]] · [[Psalm 138|Psalm 138 →]]
+[[Psalm 136|← Psalm 136]] · [[Psalm 137 (Annotated)|Annotated]] · [[Psalm 137 - Study Guide|Study guide]] · [[Psalm 137 - My Notes|My notes]] · [[Psalms]] · [[Psalm 138|Psalm 138 →]]

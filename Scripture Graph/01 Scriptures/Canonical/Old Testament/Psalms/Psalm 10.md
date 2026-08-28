@@ -52,4 +52,4 @@ aliases:
 **18** To judge the fatherless and the oppressed, that the man of the earth may no more oppress. ^ps-10-18
 
 ---
-[[Psalm 9|← Psalm 9]] · [[Psalm 10 - Study Guide|Study guide]] · [[Psalm 10 - My Notes|My notes]] · [[Psalms]] · [[Psalm 11|Psalm 11 →]]
+[[Psalm 9|← Psalm 9]] · [[Psalm 10 (Annotated)|Annotated]] · [[Psalm 10 - Study Guide|Study guide]] · [[Psalm 10 - My Notes|My notes]] · [[Psalms]] · [[Psalm 11|Psalm 11 →]]

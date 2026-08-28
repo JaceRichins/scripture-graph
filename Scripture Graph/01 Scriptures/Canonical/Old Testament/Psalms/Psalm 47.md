@@ -34,4 +34,4 @@ aliases:
 **9** The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted. ^ps-47-9
 
 ---
-[[Psalm 46|← Psalm 46]] · [[Psalm 47 - Study Guide|Study guide]] · [[Psalm 47 - My Notes|My notes]] · [[Psalms]] · [[Psalm 48|Psalm 48 →]]
+[[Psalm 46|← Psalm 46]] · [[Psalm 47 (Annotated)|Annotated]] · [[Psalm 47 - Study Guide|Study guide]] · [[Psalm 47 - My Notes|My notes]] · [[Psalms]] · [[Psalm 48|Psalm 48 →]]

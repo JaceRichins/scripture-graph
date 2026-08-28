@@ -70,4 +70,4 @@ cssclasses:
 **28** And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families. ^josh-18-28
 
 ---
-[[Joshua 17|← Joshua 17]] · [[Joshua 18 - Study Guide|Study guide]] · [[Joshua 18 - My Notes|My notes]] · [[Joshua]] · [[Joshua 19|Joshua 19 →]]
+[[Joshua 17|← Joshua 17]] · [[Joshua 18 (Annotated)|Annotated]] · [[Joshua 18 - Study Guide|Study guide]] · [[Joshua 18 - My Notes|My notes]] · [[Joshua]] · [[Joshua 19|Joshua 19 →]]

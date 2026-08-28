@@ -56,4 +56,4 @@ cssclasses:
 **21** Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still. ^isa-9-21
 
 ---
-[[Isaiah 8|← Isaiah 8]] · [[Isaiah 9 - Study Guide|Study guide]] · [[Isaiah 9 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 10|Isaiah 10 →]]
+[[Isaiah 8|← Isaiah 8]] · [[Isaiah 9 (Annotated)|Annotated]] · [[Isaiah 9 - Study Guide|Study guide]] · [[Isaiah 9 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 10|Isaiah 10 →]]

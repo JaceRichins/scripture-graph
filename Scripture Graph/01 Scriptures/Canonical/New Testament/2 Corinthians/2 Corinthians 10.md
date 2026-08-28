@@ -50,4 +50,4 @@ cssclasses:
 **18** For not he that commendeth himself is approved, but whom the Lord commendeth. ^2cor-10-18
 
 ---
-[[2 Corinthians 9|← 2 Corinthians 9]] · [[2 Corinthians 10 - Study Guide|Study guide]] · [[2 Corinthians 10 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 11|2 Corinthians 11 →]]
+[[2 Corinthians 9|← 2 Corinthians 9]] · [[2 Corinthians 10 (Annotated)|Annotated]] · [[2 Corinthians 10 - Study Guide|Study guide]] · [[2 Corinthians 10 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 11|2 Corinthians 11 →]]

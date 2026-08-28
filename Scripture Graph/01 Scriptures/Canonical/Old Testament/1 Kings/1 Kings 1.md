@@ -120,4 +120,4 @@ cssclasses:
 **53** So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house. ^1kgs-1-53
 
 ---
-[[1 Kings 1 - Study Guide|Study guide]] · [[1 Kings 1 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 2|1 Kings 2 →]]
+[[1 Kings 1 (Annotated)|Annotated]] · [[1 Kings 1 - Study Guide|Study guide]] · [[1 Kings 1 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 2|1 Kings 2 →]]

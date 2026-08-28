@@ -72,4 +72,4 @@ cssclasses:
 **29** The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law. ^deut-29-29
 
 ---
-[[Deuteronomy 28|← Deuteronomy 28]] · [[Deuteronomy 29 - Study Guide|Study guide]] · [[Deuteronomy 29 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 30|Deuteronomy 30 →]]
+[[Deuteronomy 28|← Deuteronomy 28]] · [[Deuteronomy 29 (Annotated)|Annotated]] · [[Deuteronomy 29 - Study Guide|Study guide]] · [[Deuteronomy 29 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 30|Deuteronomy 30 →]]

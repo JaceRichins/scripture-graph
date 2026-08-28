@@ -76,4 +76,4 @@ cssclasses:
 **31** So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years. ^judg-5-31
 
 ---
-[[Judges 4|← Judges 4]] · [[Judges 5 - Study Guide|Study guide]] · [[Judges 5 - My Notes|My notes]] · [[Judges]] · [[Judges 6|Judges 6 →]]
+[[Judges 4|← Judges 4]] · [[Judges 5 (Annotated)|Annotated]] · [[Judges 5 - Study Guide|Study guide]] · [[Judges 5 - My Notes|My notes]] · [[Judges]] · [[Judges 6|Judges 6 →]]

@@ -98,4 +98,4 @@ cssclasses:
 **42** And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. ^num-32-42
 
 ---
-[[Numbers 31|← Numbers 31]] · [[Numbers 32 - Study Guide|Study guide]] · [[Numbers 32 - My Notes|My notes]] · [[Numbers]] · [[Numbers 33|Numbers 33 →]]
+[[Numbers 31|← Numbers 31]] · [[Numbers 32 (Annotated)|Annotated]] · [[Numbers 32 - Study Guide|Study guide]] · [[Numbers 32 - My Notes|My notes]] · [[Numbers]] · [[Numbers 33|Numbers 33 →]]

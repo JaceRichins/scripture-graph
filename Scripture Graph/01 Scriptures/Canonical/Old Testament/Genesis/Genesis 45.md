@@ -70,4 +70,4 @@ cssclasses:
 **28** And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die. ^gen-45-28
 
 ---
-[[Genesis 44|← Genesis 44]] · [[Genesis 45 - Study Guide|Study guide]] · [[Genesis 45 - My Notes|My notes]] · [[Genesis]] · [[Genesis 46|Genesis 46 →]]
+[[Genesis 44|← Genesis 44]] · [[Genesis 45 (Annotated)|Annotated]] · [[Genesis 45 - Study Guide|Study guide]] · [[Genesis 45 - My Notes|My notes]] · [[Genesis]] · [[Genesis 46|Genesis 46 →]]

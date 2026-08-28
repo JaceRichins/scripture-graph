@@ -90,4 +90,4 @@ cssclasses:
 **38** And all the people came early in the morning to him in the temple, for to hear him. ^luke-21-38
 
 ---
-[[Luke 20|← Luke 20]] · [[Luke 21 - Study Guide|Study guide]] · [[Luke 21 - My Notes|My notes]] · [[Luke]] · [[Luke 22|Luke 22 →]]
+[[Luke 20|← Luke 20]] · [[Luke 21 (Annotated)|Annotated]] · [[Luke 21 - Study Guide|Study guide]] · [[Luke 21 - My Notes|My notes]] · [[Luke]] · [[Luke 22|Luke 22 →]]

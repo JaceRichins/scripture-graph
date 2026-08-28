@@ -66,4 +66,4 @@ cssclasses:
 **26** And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the LORD their God. ^ezek-28-26
 
 ---
-[[Ezekiel 27|← Ezekiel 27]] · [[Ezekiel 28 - Study Guide|Study guide]] · [[Ezekiel 28 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 29|Ezekiel 29 →]]
+[[Ezekiel 27|← Ezekiel 27]] · [[Ezekiel 28 (Annotated)|Annotated]] · [[Ezekiel 28 - Study Guide|Study guide]] · [[Ezekiel 28 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 29|Ezekiel 29 →]]

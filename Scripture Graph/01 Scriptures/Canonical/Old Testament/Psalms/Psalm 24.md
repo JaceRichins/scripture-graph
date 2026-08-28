@@ -36,4 +36,4 @@ aliases:
 **10** Who is this King of glory? The LORD of hosts, he is the King of glory. Selah. ^ps-24-10
 
 ---
-[[Psalm 23|← Psalm 23]] · [[Psalm 24 - Study Guide|Study guide]] · [[Psalm 24 - My Notes|My notes]] · [[Psalms]] · [[Psalm 25|Psalm 25 →]]
+[[Psalm 23|← Psalm 23]] · [[Psalm 24 (Annotated)|Annotated]] · [[Psalm 24 - Study Guide|Study guide]] · [[Psalm 24 - My Notes|My notes]] · [[Psalms]] · [[Psalm 25|Psalm 25 →]]

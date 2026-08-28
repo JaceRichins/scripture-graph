@@ -66,4 +66,4 @@ cssclasses:
 **26** I was not in safety, neither had I rest, neither was I quiet; yet trouble came. ^job-3-26
 
 ---
-[[Job 2|← Job 2]] · [[Job 3 - Study Guide|Study guide]] · [[Job 3 - My Notes|My notes]] · [[Job]] · [[Job 4|Job 4 →]]
+[[Job 2|← Job 2]] · [[Job 3 (Annotated)|Annotated]] · [[Job 3 - Study Guide|Study guide]] · [[Job 3 - My Notes|My notes]] · [[Job]] · [[Job 4|Job 4 →]]

@@ -98,4 +98,4 @@ cssclasses:
 **42** There laid they Jesus therefore because of the Jews' preparation day; for the sepulchre was nigh at hand. ^john-19-42
 
 ---
-[[John 18|← John 18]] · [[John 19 - Study Guide|Study guide]] · [[John 19 - My Notes|My notes]] · [[John]] · [[John 20|John 20 →]]
+[[John 18|← John 18]] · [[John 19 (Annotated)|Annotated]] · [[John 19 - Study Guide|Study guide]] · [[John 19 - My Notes|My notes]] · [[John]] · [[John 20|John 20 →]]

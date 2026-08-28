@@ -60,4 +60,4 @@ cssclasses:
 **23** And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him. ^1sam-16-23
 
 ---
-[[1 Samuel 15|← 1 Samuel 15]] · [[1 Samuel 16 - Study Guide|Study guide]] · [[1 Samuel 16 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 17|1 Samuel 17 →]]
+[[1 Samuel 15|← 1 Samuel 15]] · [[1 Samuel 16 (Annotated)|Annotated]] · [[1 Samuel 16 - Study Guide|Study guide]] · [[1 Samuel 16 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 17|1 Samuel 17 →]]

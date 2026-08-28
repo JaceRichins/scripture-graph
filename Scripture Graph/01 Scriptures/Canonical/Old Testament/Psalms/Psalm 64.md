@@ -36,4 +36,4 @@ aliases:
 **10** The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory. ^ps-64-10
 
 ---
-[[Psalm 63|← Psalm 63]] · [[Psalm 64 - Study Guide|Study guide]] · [[Psalm 64 - My Notes|My notes]] · [[Psalms]] · [[Psalm 65|Psalm 65 →]]
+[[Psalm 63|← Psalm 63]] · [[Psalm 64 (Annotated)|Annotated]] · [[Psalm 64 - Study Guide|Study guide]] · [[Psalm 64 - My Notes|My notes]] · [[Psalms]] · [[Psalm 65|Psalm 65 →]]

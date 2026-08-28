@@ -84,4 +84,4 @@ cssclasses:
 **35** Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I ask not amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the rock of my righteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen. ^2ne-4-35
 
 ---
-[[2 Nephi 3|← 2 Nephi 3]] · [[2 Nephi 4 - Study Guide|Study guide]] · [[2 Nephi 4 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 5|2 Nephi 5 →]]
+[[2 Nephi 3|← 2 Nephi 3]] · [[2 Nephi 4 (Annotated)|Annotated]] · [[2 Nephi 4 - Study Guide|Study guide]] · [[2 Nephi 4 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 5|2 Nephi 5 →]]

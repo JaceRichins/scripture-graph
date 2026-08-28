@@ -80,4 +80,4 @@ cssclasses:
 **33** And through a window in a basket was I let down by the wall, and escaped his hands. ^2cor-11-33
 
 ---
-[[2 Corinthians 10|← 2 Corinthians 10]] · [[2 Corinthians 11 - Study Guide|Study guide]] · [[2 Corinthians 11 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 12|2 Corinthians 12 →]]
+[[2 Corinthians 10|← 2 Corinthians 10]] · [[2 Corinthians 11 (Annotated)|Annotated]] · [[2 Corinthians 11 - Study Guide|Study guide]] · [[2 Corinthians 11 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 12|2 Corinthians 12 →]]

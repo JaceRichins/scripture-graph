@@ -72,4 +72,4 @@ cssclasses:
 **29** And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness. ^2sam-17-29
 
 ---
-[[2 Samuel 16|← 2 Samuel 16]] · [[2 Samuel 17 - Study Guide|Study guide]] · [[2 Samuel 17 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 18|2 Samuel 18 →]]
+[[2 Samuel 16|← 2 Samuel 16]] · [[2 Samuel 17 (Annotated)|Annotated]] · [[2 Samuel 17 - Study Guide|Study guide]] · [[2 Samuel 17 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 18|2 Samuel 18 →]]

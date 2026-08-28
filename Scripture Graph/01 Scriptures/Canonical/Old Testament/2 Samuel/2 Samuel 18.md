@@ -80,4 +80,4 @@ cssclasses:
 **33** And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son! ^2sam-18-33
 
 ---
-[[2 Samuel 17|← 2 Samuel 17]] · [[2 Samuel 18 - Study Guide|Study guide]] · [[2 Samuel 18 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 19|2 Samuel 19 →]]
+[[2 Samuel 17|← 2 Samuel 17]] · [[2 Samuel 18 (Annotated)|Annotated]] · [[2 Samuel 18 - Study Guide|Study guide]] · [[2 Samuel 18 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 19|2 Samuel 19 →]]

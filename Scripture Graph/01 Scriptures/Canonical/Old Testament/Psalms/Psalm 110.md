@@ -30,4 +30,4 @@ aliases:
 **7** He shall drink of the brook in the way: therefore shall he lift up the head. ^ps-110-7
 
 ---
-[[Psalm 109|← Psalm 109]] · [[Psalm 110 - Study Guide|Study guide]] · [[Psalm 110 - My Notes|My notes]] · [[Psalms]] · [[Psalm 111|Psalm 111 →]]
+[[Psalm 109|← Psalm 109]] · [[Psalm 110 (Annotated)|Annotated]] · [[Psalm 110 - Study Guide|Study guide]] · [[Psalm 110 - My Notes|My notes]] · [[Psalms]] · [[Psalm 111|Psalm 111 →]]

@@ -88,4 +88,4 @@ cssclasses:
 **37** And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak. ^mark-7-37
 
 ---
-[[Mark 6|← Mark 6]] · [[Mark 7 - Study Guide|Study guide]] · [[Mark 7 - My Notes|My notes]] · [[Mark]] · [[Mark 8|Mark 8 →]]
+[[Mark 6|← Mark 6]] · [[Mark 7 (Annotated)|Annotated]] · [[Mark 7 - Study Guide|Study guide]] · [[Mark 7 - My Notes|My notes]] · [[Mark]] · [[Mark 8|Mark 8 →]]

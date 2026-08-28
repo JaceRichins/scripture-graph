@@ -66,4 +66,4 @@ cssclasses:
 **26** And there were many in the commencement of this year that were baptized unto repentance; and thus the more part of the year did pass away. ^3ne-7-26
 
 ---
-[[3 Nephi 6|← 3 Nephi 6]] · [[3 Nephi 7 - Study Guide|Study guide]] · [[3 Nephi 7 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 8|3 Nephi 8 →]]
+[[3 Nephi 6|← 3 Nephi 6]] · [[3 Nephi 7 (Annotated)|Annotated]] · [[3 Nephi 7 - Study Guide|Study guide]] · [[3 Nephi 7 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 8|3 Nephi 8 →]]

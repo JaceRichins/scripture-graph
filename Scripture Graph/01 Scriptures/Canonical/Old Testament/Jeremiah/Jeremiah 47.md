@@ -28,4 +28,4 @@ cssclasses:
 **7** How can it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it. ^jer-47-7
 
 ---
-[[Jeremiah 46|← Jeremiah 46]] · [[Jeremiah 47 - Study Guide|Study guide]] · [[Jeremiah 47 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 48|Jeremiah 48 →]]
+[[Jeremiah 46|← Jeremiah 46]] · [[Jeremiah 47 (Annotated)|Annotated]] · [[Jeremiah 47 - Study Guide|Study guide]] · [[Jeremiah 47 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 48|Jeremiah 48 →]]

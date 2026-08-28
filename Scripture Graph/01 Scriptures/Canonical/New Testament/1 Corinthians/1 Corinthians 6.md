@@ -54,4 +54,4 @@ cssclasses:
 **20** For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's. ^1cor-6-20
 
 ---
-[[1 Corinthians 5|← 1 Corinthians 5]] · [[1 Corinthians 6 - Study Guide|Study guide]] · [[1 Corinthians 6 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 7|1 Corinthians 7 →]]
+[[1 Corinthians 5|← 1 Corinthians 5]] · [[1 Corinthians 6 (Annotated)|Annotated]] · [[1 Corinthians 6 - Study Guide|Study guide]] · [[1 Corinthians 6 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 7|1 Corinthians 7 →]]

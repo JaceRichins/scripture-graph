@@ -46,4 +46,4 @@ aliases:
 **15** Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD. ^ps-144-15
 
 ---
-[[Psalm 143|← Psalm 143]] · [[Psalm 144 - Study Guide|Study guide]] · [[Psalm 144 - My Notes|My notes]] · [[Psalms]] · [[Psalm 145|Psalm 145 →]]
+[[Psalm 143|← Psalm 143]] · [[Psalm 144 (Annotated)|Annotated]] · [[Psalm 144 - Study Guide|Study guide]] · [[Psalm 144 - My Notes|My notes]] · [[Psalms]] · [[Psalm 145|Psalm 145 →]]

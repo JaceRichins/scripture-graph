@@ -48,4 +48,4 @@ cssclasses:
 **17** And now behold, saith the Lord, concerning the people of the Nephites: If they will not repent, and observe to do my will, I will utterly destroy them, saith the Lord, because of their unbelief notwithstanding the many mighty works which I have done among them; and as surely as the Lord liveth shall these things be, saith the Lord. ^hel-15-17
 
 ---
-[[Helaman 14|← Helaman 14]] · [[Helaman 15 - Study Guide|Study guide]] · [[Helaman 15 - My Notes|My notes]] · [[Helaman]] · [[Helaman 16|Helaman 16 →]]
+[[Helaman 14|← Helaman 14]] · [[Helaman 15 (Annotated)|Annotated]] · [[Helaman 15 - Study Guide|Study guide]] · [[Helaman 15 - My Notes|My notes]] · [[Helaman]] · [[Helaman 16|Helaman 16 →]]

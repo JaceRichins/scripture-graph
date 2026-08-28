@@ -84,4 +84,4 @@ cssclasses:
 **35** And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel. ^1sam-15-35
 
 ---
-[[1 Samuel 14|← 1 Samuel 14]] · [[1 Samuel 15 - Study Guide|Study guide]] · [[1 Samuel 15 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 16|1 Samuel 16 →]]
+[[1 Samuel 14|← 1 Samuel 14]] · [[1 Samuel 15 (Annotated)|Annotated]] · [[1 Samuel 15 - Study Guide|Study guide]] · [[1 Samuel 15 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 16|1 Samuel 16 →]]

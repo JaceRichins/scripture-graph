@@ -42,4 +42,4 @@ cssclasses:
 **14** Then said he, These are the two anointed ones, that stand by the Lord of the whole earth. ^zech-4-14
 
 ---
-[[Zechariah 3|← Zechariah 3]] · [[Zechariah 4 - Study Guide|Study guide]] · [[Zechariah 4 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 5|Zechariah 5 →]]
+[[Zechariah 3|← Zechariah 3]] · [[Zechariah 4 (Annotated)|Annotated]] · [[Zechariah 4 - Study Guide|Study guide]] · [[Zechariah 4 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 5|Zechariah 5 →]]

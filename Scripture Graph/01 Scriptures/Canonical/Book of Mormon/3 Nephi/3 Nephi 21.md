@@ -72,4 +72,4 @@ cssclasses:
 **29** And they shall go out from all nations; and they shall not go out in haste, nor go by flight, for I will go before them, saith the Father, and I will be their rearward. ^3ne-21-29
 
 ---
-[[3 Nephi 20|← 3 Nephi 20]] · [[3 Nephi 21 - Study Guide|Study guide]] · [[3 Nephi 21 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 22|3 Nephi 22 →]]
+[[3 Nephi 20|← 3 Nephi 20]] · [[3 Nephi 21 (Annotated)|Annotated]] · [[3 Nephi 21 - Study Guide|Study guide]] · [[3 Nephi 21 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 22|3 Nephi 22 →]]

@@ -78,4 +78,4 @@ cssclasses:
 **32** And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king. ^1chr-26-32
 
 ---
-[[1 Chronicles 25|← 1 Chronicles 25]] · [[1 Chronicles 26 - Study Guide|Study guide]] · [[1 Chronicles 26 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 27|1 Chronicles 27 →]]
+[[1 Chronicles 25|← 1 Chronicles 25]] · [[1 Chronicles 26 (Annotated)|Annotated]] · [[1 Chronicles 26 - Study Guide|Study guide]] · [[1 Chronicles 26 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 27|1 Chronicles 27 →]]

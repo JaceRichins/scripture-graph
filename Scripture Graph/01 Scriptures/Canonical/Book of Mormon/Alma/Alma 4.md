@@ -54,4 +54,4 @@ cssclasses:
 **20** And thus in the commencement of the ninth year of the reign of the judges over the people of Nephi, Alma delivered up the judgment-seat to Nephihah, and confined himself wholly to the high priesthood of the holy order of God, to the testimony of the word, according to the spirit of revelation and prophecy. ^alma-4-20
 
 ---
-[[Alma 3|← Alma 3]] · [[Alma 4 - Study Guide|Study guide]] · [[Alma 4 - My Notes|My notes]] · [[Alma]] · [[Alma 5|Alma 5 →]]
+[[Alma 3|← Alma 3]] · [[Alma 4 (Annotated)|Annotated]] · [[Alma 4 - Study Guide|Study guide]] · [[Alma 4 - My Notes|My notes]] · [[Alma]] · [[Alma 5|Alma 5 →]]

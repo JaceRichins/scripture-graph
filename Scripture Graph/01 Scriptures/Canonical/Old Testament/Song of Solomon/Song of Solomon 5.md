@@ -46,4 +46,4 @@ cssclasses:
 **16** His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem. ^song-5-16
 
 ---
-[[Song of Solomon 4|← Song of Solomon 4]] · [[Song of Solomon 5 - Study Guide|Study guide]] · [[Song of Solomon 5 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 6|Song of Solomon 6 →]]
+[[Song of Solomon 4|← Song of Solomon 4]] · [[Song of Solomon 5 (Annotated)|Annotated]] · [[Song of Solomon 5 - Study Guide|Study guide]] · [[Song of Solomon 5 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 6|Song of Solomon 6 →]]

@@ -52,4 +52,4 @@ aliases:
 **18** That men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth. ^ps-83-18
 
 ---
-[[Psalm 82|← Psalm 82]] · [[Psalm 83 - Study Guide|Study guide]] · [[Psalm 83 - My Notes|My notes]] · [[Psalms]] · [[Psalm 84|Psalm 84 →]]
+[[Psalm 82|← Psalm 82]] · [[Psalm 83 (Annotated)|Annotated]] · [[Psalm 83 - Study Guide|Study guide]] · [[Psalm 83 - My Notes|My notes]] · [[Psalms]] · [[Psalm 84|Psalm 84 →]]

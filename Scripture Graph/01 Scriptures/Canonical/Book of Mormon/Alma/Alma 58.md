@@ -96,4 +96,4 @@ cssclasses:
 **41** And now, my beloved brother, Moroni, may the Lord our God, who has redeemed us and made us free, keep you continually in his presence; yea, and may he favor this people, even that ye may have success in obtaining the possession of all that which the Lamanites have taken from us, which was for our support. And now, behold, I close mine epistle. I am Helaman, the son of Alma. ^alma-58-41
 
 ---
-[[Alma 57|← Alma 57]] · [[Alma 58 - Study Guide|Study guide]] · [[Alma 58 - My Notes|My notes]] · [[Alma]] · [[Alma 59|Alma 59 →]]
+[[Alma 57|← Alma 57]] · [[Alma 58 (Annotated)|Annotated]] · [[Alma 58 - Study Guide|Study guide]] · [[Alma 58 - My Notes|My notes]] · [[Alma]] · [[Alma 59|Alma 59 →]]

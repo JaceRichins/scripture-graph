@@ -124,4 +124,4 @@ cssclasses:
 **55** For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God. ^lev-25-55
 
 ---
-[[Leviticus 24|← Leviticus 24]] · [[Leviticus 25 - Study Guide|Study guide]] · [[Leviticus 25 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 26|Leviticus 26 →]]
+[[Leviticus 24|← Leviticus 24]] · [[Leviticus 25 (Annotated)|Annotated]] · [[Leviticus 25 - Study Guide|Study guide]] · [[Leviticus 25 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 26|Leviticus 26 →]]

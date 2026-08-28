@@ -116,4 +116,4 @@ cssclasses:
 **51** These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country. ^josh-19-51
 
 ---
-[[Joshua 18|← Joshua 18]] · [[Joshua 19 - Study Guide|Study guide]] · [[Joshua 19 - My Notes|My notes]] · [[Joshua]] · [[Joshua 20|Joshua 20 →]]
+[[Joshua 18|← Joshua 18]] · [[Joshua 19 (Annotated)|Annotated]] · [[Joshua 19 - Study Guide|Study guide]] · [[Joshua 19 - My Notes|My notes]] · [[Joshua]] · [[Joshua 20|Joshua 20 →]]

@@ -114,4 +114,4 @@ cssclasses:
 **50** And he said to the woman, Thy faith hath saved thee; go in peace. ^luke-7-50
 
 ---
-[[Luke 6|← Luke 6]] · [[Luke 7 - Study Guide|Study guide]] · [[Luke 7 - My Notes|My notes]] · [[Luke]] · [[Luke 8|Luke 8 →]]
+[[Luke 6|← Luke 6]] · [[Luke 7 (Annotated)|Annotated]] · [[Luke 7 - Study Guide|Study guide]] · [[Luke 7 - My Notes|My notes]] · [[Luke]] · [[Luke 8|Luke 8 →]]

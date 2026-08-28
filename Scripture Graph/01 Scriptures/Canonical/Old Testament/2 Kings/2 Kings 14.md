@@ -72,4 +72,4 @@ cssclasses:
 **29** And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead. ^2kgs-14-29
 
 ---
-[[2 Kings 13|← 2 Kings 13]] · [[2 Kings 14 - Study Guide|Study guide]] · [[2 Kings 14 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 15|2 Kings 15 →]]
+[[2 Kings 13|← 2 Kings 13]] · [[2 Kings 14 (Annotated)|Annotated]] · [[2 Kings 14 - Study Guide|Study guide]] · [[2 Kings 14 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 15|2 Kings 15 →]]

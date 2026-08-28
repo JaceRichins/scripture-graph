@@ -82,4 +82,4 @@ cssclasses:
 **34** And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom. ^1kgs-4-34
 
 ---
-[[1 Kings 3|← 1 Kings 3]] · [[1 Kings 4 - Study Guide|Study guide]] · [[1 Kings 4 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 5|1 Kings 5 →]]
+[[1 Kings 3|← 1 Kings 3]] · [[1 Kings 4 (Annotated)|Annotated]] · [[1 Kings 4 - Study Guide|Study guide]] · [[1 Kings 4 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 5|1 Kings 5 →]]

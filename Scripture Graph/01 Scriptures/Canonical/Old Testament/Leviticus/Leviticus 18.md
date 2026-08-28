@@ -74,4 +74,4 @@ cssclasses:
 **30** Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God. ^lev-18-30
 
 ---
-[[Leviticus 17|← Leviticus 17]] · [[Leviticus 18 - Study Guide|Study guide]] · [[Leviticus 18 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 19|Leviticus 19 →]]
+[[Leviticus 17|← Leviticus 17]] · [[Leviticus 18 (Annotated)|Annotated]] · [[Leviticus 18 - Study Guide|Study guide]] · [[Leviticus 18 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 19|Leviticus 19 →]]

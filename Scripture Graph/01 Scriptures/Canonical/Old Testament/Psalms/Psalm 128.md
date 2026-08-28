@@ -28,4 +28,4 @@ aliases:
 **6** Yea, thou shalt see thy children's children, and peace upon Israel. ^ps-128-6
 
 ---
-[[Psalm 127|← Psalm 127]] · [[Psalm 128 - Study Guide|Study guide]] · [[Psalm 128 - My Notes|My notes]] · [[Psalms]] · [[Psalm 129|Psalm 129 →]]
+[[Psalm 127|← Psalm 127]] · [[Psalm 128 (Annotated)|Annotated]] · [[Psalm 128 - Study Guide|Study guide]] · [[Psalm 128 - My Notes|My notes]] · [[Psalms]] · [[Psalm 129|Psalm 129 →]]

@@ -40,4 +40,4 @@ aliases:
 **12** O LORD of hosts, blessed is the man that trusteth in thee. ^ps-84-12
 
 ---
-[[Psalm 83|← Psalm 83]] · [[Psalm 84 - Study Guide|Study guide]] · [[Psalm 84 - My Notes|My notes]] · [[Psalms]] · [[Psalm 85|Psalm 85 →]]
+[[Psalm 83|← Psalm 83]] · [[Psalm 84 (Annotated)|Annotated]] · [[Psalm 84 - Study Guide|Study guide]] · [[Psalm 84 - My Notes|My notes]] · [[Psalms]] · [[Psalm 85|Psalm 85 →]]

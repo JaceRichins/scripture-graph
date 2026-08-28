@@ -40,4 +40,4 @@ aliases:
 **12** Behold, it is I that have spoken it; and I am the same that spake unto you from the beginning. Amen. ^dc-8-12
 
 ---
-[[D&C 7|← D&C 7]] · [[D&C 8 - Study Guide|Study guide]] · [[D&C 8 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 9|D&C 9 →]]
+[[D&C 7|← D&C 7]] · [[D&C 8 (Annotated)|Annotated]] · [[D&C 8 - Study Guide|Study guide]] · [[D&C 8 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 9|D&C 9 →]]

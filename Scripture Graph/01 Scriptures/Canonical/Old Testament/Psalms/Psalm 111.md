@@ -36,4 +36,4 @@ aliases:
 **10** The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever. ^ps-111-10
 
 ---
-[[Psalm 110|← Psalm 110]] · [[Psalm 111 - Study Guide|Study guide]] · [[Psalm 111 - My Notes|My notes]] · [[Psalms]] · [[Psalm 112|Psalm 112 →]]
+[[Psalm 110|← Psalm 110]] · [[Psalm 111 (Annotated)|Annotated]] · [[Psalm 111 - Study Guide|Study guide]] · [[Psalm 111 - My Notes|My notes]] · [[Psalms]] · [[Psalm 112|Psalm 112 →]]

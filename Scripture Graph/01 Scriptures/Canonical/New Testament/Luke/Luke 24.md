@@ -120,4 +120,4 @@ cssclasses:
 **53** And were continually in the temple, praising and blessing God. Amen. ^luke-24-53
 
 ---
-[[Luke 23|← Luke 23]] · [[Luke 24 - Study Guide|Study guide]] · [[Luke 24 - My Notes|My notes]] · [[Luke]]
+[[Luke 23|← Luke 23]] · [[Luke 24 (Annotated)|Annotated]] · [[Luke 24 - Study Guide|Study guide]] · [[Luke 24 - My Notes|My notes]] · [[Luke]]

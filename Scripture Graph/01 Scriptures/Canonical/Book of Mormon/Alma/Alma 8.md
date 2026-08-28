@@ -78,4 +78,4 @@ cssclasses:
 **32** And it came to pass that they went forth and began to preach and to prophesy unto the people, according to the spirit and power which the Lord had given them. ^alma-8-32
 
 ---
-[[Alma 7|← Alma 7]] · [[Alma 8 - Study Guide|Study guide]] · [[Alma 8 - My Notes|My notes]] · [[Alma]] · [[Alma 9|Alma 9 →]]
+[[Alma 7|← Alma 7]] · [[Alma 8 (Annotated)|Annotated]] · [[Alma 8 - Study Guide|Study guide]] · [[Alma 8 - My Notes|My notes]] · [[Alma]] · [[Alma 9|Alma 9 →]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** Wherefore I spake unto them, saying: Hear ye the words of the prophet, ye who are a remnant of the house of Israel, a branch who have been broken off; hear ye the words of the prophet, which were written unto all the house of Israel, and liken them unto yourselves, that ye may have hope as well as your brethren from whom ye have been broken off; for after this manner has the prophet written. ^1ne-19-24
 
 ---
-[[1 Nephi 18|← 1 Nephi 18]] · [[1 Nephi 19 - Study Guide|Study guide]] · [[1 Nephi 19 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 20|1 Nephi 20 →]]
+[[1 Nephi 18|← 1 Nephi 18]] · [[1 Nephi 19 (Annotated)|Annotated]] · [[1 Nephi 19 - Study Guide|Study guide]] · [[1 Nephi 19 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 20|1 Nephi 20 →]]

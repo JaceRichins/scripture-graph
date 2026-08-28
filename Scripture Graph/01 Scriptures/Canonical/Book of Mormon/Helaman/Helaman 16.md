@@ -64,4 +64,4 @@ cssclasses:
 **25** And thus ended the book of Helaman, according to the record of Helaman and his sons. ^hel-16-25
 
 ---
-[[Helaman 15|← Helaman 15]] · [[Helaman 16 - Study Guide|Study guide]] · [[Helaman 16 - My Notes|My notes]] · [[Helaman]]
+[[Helaman 15|← Helaman 15]] · [[Helaman 16 (Annotated)|Annotated]] · [[Helaman 16 - Study Guide|Study guide]] · [[Helaman 16 - My Notes|My notes]] · [[Helaman]]

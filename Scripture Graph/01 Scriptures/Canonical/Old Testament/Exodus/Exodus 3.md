@@ -58,4 +58,4 @@ cssclasses:
 **22** But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians. ^ex-3-22
 
 ---
-[[Exodus 2|← Exodus 2]] · [[Exodus 3 - Study Guide|Study guide]] · [[Exodus 3 - My Notes|My notes]] · [[Exodus]] · [[Exodus 4|Exodus 4 →]]
+[[Exodus 2|← Exodus 2]] · [[Exodus 3 (Annotated)|Annotated]] · [[Exodus 3 - Study Guide|Study guide]] · [[Exodus 3 - My Notes|My notes]] · [[Exodus]] · [[Exodus 4|Exodus 4 →]]

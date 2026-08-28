@@ -80,4 +80,4 @@ cssclasses:
 **33** These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. ^john-16-33
 
 ---
-[[John 15|← John 15]] · [[John 16 - Study Guide|Study guide]] · [[John 16 - My Notes|My notes]] · [[John]] · [[John 17|John 17 →]]
+[[John 15|← John 15]] · [[John 16 (Annotated)|Annotated]] · [[John 16 - Study Guide|Study guide]] · [[John 16 - My Notes|My notes]] · [[John]] · [[John 17|John 17 →]]

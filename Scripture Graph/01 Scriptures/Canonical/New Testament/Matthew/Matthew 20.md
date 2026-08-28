@@ -82,4 +82,4 @@ cssclasses:
 **34** So Jesus had compassion on them, and touched their eyes: and immediately their eyes received sight, and they followed him. ^matt-20-34
 
 ---
-[[Matthew 19|← Matthew 19]] · [[Matthew 20 - Study Guide|Study guide]] · [[Matthew 20 - My Notes|My notes]] · [[Matthew]] · [[Matthew 21|Matthew 21 →]]
+[[Matthew 19|← Matthew 19]] · [[Matthew 20 (Annotated)|Annotated]] · [[Matthew 20 - Study Guide|Study guide]] · [[Matthew 20 - My Notes|My notes]] · [[Matthew]] · [[Matthew 21|Matthew 21 →]]

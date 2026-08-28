@@ -66,4 +66,4 @@ cssclasses:
 **26** And when the Lamanites saw the people of Limhi, that they were without arms, they had compassion on them and were pacified towards them, and returned with their king in peace to their own land. ^mosiah-20-26
 
 ---
-[[Mosiah 19|← Mosiah 19]] · [[Mosiah 20 - Study Guide|Study guide]] · [[Mosiah 20 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 21|Mosiah 21 →]]
+[[Mosiah 19|← Mosiah 19]] · [[Mosiah 20 (Annotated)|Annotated]] · [[Mosiah 20 - Study Guide|Study guide]] · [[Mosiah 20 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 21|Mosiah 21 →]]

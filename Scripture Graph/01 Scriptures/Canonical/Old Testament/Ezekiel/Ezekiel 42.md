@@ -54,4 +54,4 @@ cssclasses:
 **20** He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place. ^ezek-42-20
 
 ---
-[[Ezekiel 41|← Ezekiel 41]] · [[Ezekiel 42 - Study Guide|Study guide]] · [[Ezekiel 42 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 43|Ezekiel 43 →]]
+[[Ezekiel 41|← Ezekiel 41]] · [[Ezekiel 42 (Annotated)|Annotated]] · [[Ezekiel 42 - Study Guide|Study guide]] · [[Ezekiel 42 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 43|Ezekiel 43 →]]

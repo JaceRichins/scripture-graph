@@ -80,4 +80,4 @@ cssclasses:
 **33** And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them. ^ezek-33-33
 
 ---
-[[Ezekiel 32|← Ezekiel 32]] · [[Ezekiel 33 - Study Guide|Study guide]] · [[Ezekiel 33 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 34|Ezekiel 34 →]]
+[[Ezekiel 32|← Ezekiel 32]] · [[Ezekiel 33 (Annotated)|Annotated]] · [[Ezekiel 33 - Study Guide|Study guide]] · [[Ezekiel 33 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 34|Ezekiel 34 →]]

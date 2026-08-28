@@ -58,4 +58,4 @@ cssclasses:
 **22** Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him. ^1pet-3-22
 
 ---
-[[1 Peter 2|← 1 Peter 2]] · [[1 Peter 3 - Study Guide|Study guide]] · [[1 Peter 3 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 4|1 Peter 4 →]]
+[[1 Peter 2|← 1 Peter 2]] · [[1 Peter 3 (Annotated)|Annotated]] · [[1 Peter 3 - Study Guide|Study guide]] · [[1 Peter 3 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 4|1 Peter 4 →]]

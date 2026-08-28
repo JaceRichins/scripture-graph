@@ -88,4 +88,4 @@ cssclasses:
 **37** Yea, thou shalt go forth from him, and thine hands upon thine head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them. ^jer-2-37
 
 ---
-[[Jeremiah 1|← Jeremiah 1]] · [[Jeremiah 2 - Study Guide|Study guide]] · [[Jeremiah 2 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 3|Jeremiah 3 →]]
+[[Jeremiah 1|← Jeremiah 1]] · [[Jeremiah 2 (Annotated)|Annotated]] · [[Jeremiah 2 - Study Guide|Study guide]] · [[Jeremiah 2 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 3|Jeremiah 3 →]]

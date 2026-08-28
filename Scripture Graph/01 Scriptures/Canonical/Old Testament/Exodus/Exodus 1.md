@@ -58,4 +58,4 @@ cssclasses:
 **22** And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive. ^ex-1-22
 
 ---
-[[Exodus 1 - Study Guide|Study guide]] · [[Exodus 1 - My Notes|My notes]] · [[Exodus]] · [[Exodus 2|Exodus 2 →]]
+[[Exodus 1 (Annotated)|Annotated]] · [[Exodus 1 - Study Guide|Study guide]] · [[Exodus 1 - My Notes|My notes]] · [[Exodus]] · [[Exodus 2|Exodus 2 →]]

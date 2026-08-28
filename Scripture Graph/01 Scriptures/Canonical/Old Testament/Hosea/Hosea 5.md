@@ -44,4 +44,4 @@ cssclasses:
 **15** I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early. ^hosea-5-15
 
 ---
-[[Hosea 4|← Hosea 4]] · [[Hosea 5 - Study Guide|Study guide]] · [[Hosea 5 - My Notes|My notes]] · [[Hosea]] · [[Hosea 6|Hosea 6 →]]
+[[Hosea 4|← Hosea 4]] · [[Hosea 5 (Annotated)|Annotated]] · [[Hosea 5 - Study Guide|Study guide]] · [[Hosea 5 - My Notes|My notes]] · [[Hosea]] · [[Hosea 6|Hosea 6 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart. ^isa-42-25
 
 ---
-[[Isaiah 41|← Isaiah 41]] · [[Isaiah 42 - Study Guide|Study guide]] · [[Isaiah 42 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 43|Isaiah 43 →]]
+[[Isaiah 41|← Isaiah 41]] · [[Isaiah 42 (Annotated)|Annotated]] · [[Isaiah 42 - Study Guide|Study guide]] · [[Isaiah 42 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 43|Isaiah 43 →]]

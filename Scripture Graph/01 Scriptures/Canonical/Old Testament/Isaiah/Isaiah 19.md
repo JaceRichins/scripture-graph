@@ -64,4 +64,4 @@ cssclasses:
 **25** Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance. ^isa-19-25
 
 ---
-[[Isaiah 18|← Isaiah 18]] · [[Isaiah 19 - Study Guide|Study guide]] · [[Isaiah 19 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 20|Isaiah 20 →]]
+[[Isaiah 18|← Isaiah 18]] · [[Isaiah 19 (Annotated)|Annotated]] · [[Isaiah 19 - Study Guide|Study guide]] · [[Isaiah 19 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 20|Isaiah 20 →]]

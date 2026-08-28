@@ -50,4 +50,4 @@ cssclasses:
 **18** While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal. ^2cor-4-18
 
 ---
-[[2 Corinthians 3|← 2 Corinthians 3]] · [[2 Corinthians 4 - Study Guide|Study guide]] · [[2 Corinthians 4 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 5|2 Corinthians 5 →]]
+[[2 Corinthians 3|← 2 Corinthians 3]] · [[2 Corinthians 4 (Annotated)|Annotated]] · [[2 Corinthians 4 - Study Guide|Study guide]] · [[2 Corinthians 4 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 5|2 Corinthians 5 →]]

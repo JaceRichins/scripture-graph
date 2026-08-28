@@ -64,4 +64,4 @@ cssclasses:
 **25** And needed not that any should testify of man: for he knew what was in man. ^john-2-25
 
 ---
-[[John 1|← John 1]] · [[John 2 - Study Guide|Study guide]] · [[John 2 - My Notes|My notes]] · [[John]] · [[John 3|John 3 →]]
+[[John 1|← John 1]] · [[John 2 (Annotated)|Annotated]] · [[John 2 - Study Guide|Study guide]] · [[John 2 - My Notes|My notes]] · [[John]] · [[John 3|John 3 →]]

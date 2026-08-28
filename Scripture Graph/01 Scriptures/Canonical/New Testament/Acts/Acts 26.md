@@ -78,4 +78,4 @@ cssclasses:
 **32** Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar. ^acts-26-32
 
 ---
-[[Acts 25|← Acts 25]] · [[Acts 26 - Study Guide|Study guide]] · [[Acts 26 - My Notes|My notes]] · [[Acts]] · [[Acts 27|Acts 27 →]]
+[[Acts 25|← Acts 25]] · [[Acts 26 (Annotated)|Annotated]] · [[Acts 26 - Study Guide|Study guide]] · [[Acts 26 - My Notes|My notes]] · [[Acts]] · [[Acts 27|Acts 27 →]]

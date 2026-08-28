@@ -122,4 +122,4 @@ cssclasses:
 **54** This is again the second miracle that Jesus did, when he was come out of Judæa into Galilee. ^john-4-54
 
 ---
-[[John 3|← John 3]] · [[John 4 - Study Guide|Study guide]] · [[John 4 - My Notes|My notes]] · [[John]] · [[John 5|John 5 →]]
+[[John 3|← John 3]] · [[John 4 (Annotated)|Annotated]] · [[John 4 - Study Guide|Study guide]] · [[John 4 - My Notes|My notes]] · [[John]] · [[John 5|John 5 →]]

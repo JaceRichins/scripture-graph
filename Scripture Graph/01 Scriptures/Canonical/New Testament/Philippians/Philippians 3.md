@@ -56,4 +56,4 @@ cssclasses:
 **21** Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself. ^philip-3-21
 
 ---
-[[Philippians 2|← Philippians 2]] · [[Philippians 3 - Study Guide|Study guide]] · [[Philippians 3 - My Notes|My notes]] · [[Philippians]] · [[Philippians 4|Philippians 4 →]]
+[[Philippians 2|← Philippians 2]] · [[Philippians 3 (Annotated)|Annotated]] · [[Philippians 3 - Study Guide|Study guide]] · [[Philippians 3 - My Notes|My notes]] · [[Philippians]] · [[Philippians 4|Philippians 4 →]]

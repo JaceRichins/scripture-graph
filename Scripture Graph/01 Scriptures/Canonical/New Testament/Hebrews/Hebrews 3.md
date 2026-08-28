@@ -52,4 +52,4 @@ cssclasses:
 **19** So we see that they could not enter in because of unbelief. ^heb-3-19
 
 ---
-[[Hebrews 2|← Hebrews 2]] · [[Hebrews 3 - Study Guide|Study guide]] · [[Hebrews 3 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 4|Hebrews 4 →]]
+[[Hebrews 2|← Hebrews 2]] · [[Hebrews 3 (Annotated)|Annotated]] · [[Hebrews 3 - Study Guide|Study guide]] · [[Hebrews 3 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 4|Hebrews 4 →]]

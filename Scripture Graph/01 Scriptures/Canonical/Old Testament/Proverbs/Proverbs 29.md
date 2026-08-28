@@ -68,4 +68,4 @@ cssclasses:
 **27** An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked. ^prov-29-27
 
 ---
-[[Proverbs 28|← Proverbs 28]] · [[Proverbs 29 - Study Guide|Study guide]] · [[Proverbs 29 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 30|Proverbs 30 →]]
+[[Proverbs 28|← Proverbs 28]] · [[Proverbs 29 (Annotated)|Annotated]] · [[Proverbs 29 - Study Guide|Study guide]] · [[Proverbs 29 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 30|Proverbs 30 →]]

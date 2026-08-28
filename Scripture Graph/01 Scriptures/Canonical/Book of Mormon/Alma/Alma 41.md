@@ -44,4 +44,4 @@ cssclasses:
 **15** For that which ye do send out shall return unto you again, and be restored; therefore, the word restoration more fully condemneth the sinner, and justifieth him not at all. ^alma-41-15
 
 ---
-[[Alma 40|← Alma 40]] · [[Alma 41 - Study Guide|Study guide]] · [[Alma 41 - My Notes|My notes]] · [[Alma]] · [[Alma 42|Alma 42 →]]
+[[Alma 40|← Alma 40]] · [[Alma 41 (Annotated)|Annotated]] · [[Alma 41 - Study Guide|Study guide]] · [[Alma 41 - My Notes|My notes]] · [[Alma]] · [[Alma 42|Alma 42 →]]

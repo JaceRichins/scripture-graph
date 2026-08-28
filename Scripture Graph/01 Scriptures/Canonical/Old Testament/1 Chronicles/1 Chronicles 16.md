@@ -100,4 +100,4 @@ cssclasses:
 **43** And all the people departed every man to his house: and David returned to bless his house. ^1chr-16-43
 
 ---
-[[1 Chronicles 15|← 1 Chronicles 15]] · [[1 Chronicles 16 - Study Guide|Study guide]] · [[1 Chronicles 16 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 17|1 Chronicles 17 →]]
+[[1 Chronicles 15|← 1 Chronicles 15]] · [[1 Chronicles 16 (Annotated)|Annotated]] · [[1 Chronicles 16 - Study Guide|Study guide]] · [[1 Chronicles 16 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 17|1 Chronicles 17 →]]

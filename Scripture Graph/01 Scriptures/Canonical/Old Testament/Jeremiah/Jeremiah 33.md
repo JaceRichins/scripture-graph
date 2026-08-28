@@ -66,4 +66,4 @@ cssclasses:
 **26** Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them. ^jer-33-26
 
 ---
-[[Jeremiah 32|← Jeremiah 32]] · [[Jeremiah 33 - Study Guide|Study guide]] · [[Jeremiah 33 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 34|Jeremiah 34 →]]
+[[Jeremiah 32|← Jeremiah 32]] · [[Jeremiah 33 (Annotated)|Annotated]] · [[Jeremiah 33 - Study Guide|Study guide]] · [[Jeremiah 33 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 34|Jeremiah 34 →]]

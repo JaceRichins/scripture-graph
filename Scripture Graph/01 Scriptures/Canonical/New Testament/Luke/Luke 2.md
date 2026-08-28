@@ -118,4 +118,4 @@ cssclasses:
 **52** And Jesus increased in wisdom and stature, and in favour with God and man. ^luke-2-52
 
 ---
-[[Luke 1|← Luke 1]] · [[Luke 2 - Study Guide|Study guide]] · [[Luke 2 - My Notes|My notes]] · [[Luke]] · [[Luke 3|Luke 3 →]]
+[[Luke 1|← Luke 1]] · [[Luke 2 (Annotated)|Annotated]] · [[Luke 2 - Study Guide|Study guide]] · [[Luke 2 - My Notes|My notes]] · [[Luke]] · [[Luke 3|Luke 3 →]]

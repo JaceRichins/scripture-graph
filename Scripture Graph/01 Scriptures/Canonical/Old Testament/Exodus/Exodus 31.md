@@ -50,4 +50,4 @@ cssclasses:
 **18** And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God. ^ex-31-18
 
 ---
-[[Exodus 30|← Exodus 30]] · [[Exodus 31 - Study Guide|Study guide]] · [[Exodus 31 - My Notes|My notes]] · [[Exodus]] · [[Exodus 32|Exodus 32 →]]
+[[Exodus 30|← Exodus 30]] · [[Exodus 31 (Annotated)|Annotated]] · [[Exodus 31 - Study Guide|Study guide]] · [[Exodus 31 - My Notes|My notes]] · [[Exodus]] · [[Exodus 32|Exodus 32 →]]

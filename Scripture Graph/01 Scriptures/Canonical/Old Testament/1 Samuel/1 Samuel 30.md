@@ -76,4 +76,4 @@ cssclasses:
 **31** And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt. ^1sam-30-31
 
 ---
-[[1 Samuel 29|← 1 Samuel 29]] · [[1 Samuel 30 - Study Guide|Study guide]] · [[1 Samuel 30 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 31|1 Samuel 31 →]]
+[[1 Samuel 29|← 1 Samuel 29]] · [[1 Samuel 30 (Annotated)|Annotated]] · [[1 Samuel 30 - Study Guide|Study guide]] · [[1 Samuel 30 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 31|1 Samuel 31 →]]

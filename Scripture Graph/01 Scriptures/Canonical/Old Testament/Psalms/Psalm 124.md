@@ -32,4 +32,4 @@ aliases:
 **8** Our help is in the name of the LORD, who made heaven and earth. ^ps-124-8
 
 ---
-[[Psalm 123|← Psalm 123]] · [[Psalm 124 - Study Guide|Study guide]] · [[Psalm 124 - My Notes|My notes]] · [[Psalms]] · [[Psalm 125|Psalm 125 →]]
+[[Psalm 123|← Psalm 123]] · [[Psalm 124 (Annotated)|Annotated]] · [[Psalm 124 - Study Guide|Study guide]] · [[Psalm 124 - My Notes|My notes]] · [[Psalms]] · [[Psalm 125|Psalm 125 →]]

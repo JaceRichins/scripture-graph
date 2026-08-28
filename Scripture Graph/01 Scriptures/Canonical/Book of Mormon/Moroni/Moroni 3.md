@@ -22,4 +22,4 @@ cssclasses:
 **4** And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them. ^moro-3-4
 
 ---
-[[Moroni 2|← Moroni 2]] · [[Moroni 3 - Study Guide|Study guide]] · [[Moroni 3 - My Notes|My notes]] · [[Moroni]] · [[Moroni 4|Moroni 4 →]]
+[[Moroni 2|← Moroni 2]] · [[Moroni 3 (Annotated)|Annotated]] · [[Moroni 3 - Study Guide|Study guide]] · [[Moroni 3 - My Notes|My notes]] · [[Moroni]] · [[Moroni 4|Moroni 4 →]]

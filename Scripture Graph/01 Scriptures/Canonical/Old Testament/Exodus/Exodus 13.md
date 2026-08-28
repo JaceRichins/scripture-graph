@@ -58,4 +58,4 @@ cssclasses:
 **22** He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people. ^ex-13-22
 
 ---
-[[Exodus 12|← Exodus 12]] · [[Exodus 13 - Study Guide|Study guide]] · [[Exodus 13 - My Notes|My notes]] · [[Exodus]] · [[Exodus 14|Exodus 14 →]]
+[[Exodus 12|← Exodus 12]] · [[Exodus 13 (Annotated)|Annotated]] · [[Exodus 13 - Study Guide|Study guide]] · [[Exodus 13 - My Notes|My notes]] · [[Exodus]] · [[Exodus 14|Exodus 14 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon. ^dan-3-30
 
 ---
-[[Daniel 2|← Daniel 2]] · [[Daniel 3 - Study Guide|Study guide]] · [[Daniel 3 - My Notes|My notes]] · [[Daniel]] · [[Daniel 4|Daniel 4 →]]
+[[Daniel 2|← Daniel 2]] · [[Daniel 3 (Annotated)|Annotated]] · [[Daniel 3 - Study Guide|Study guide]] · [[Daniel 3 - My Notes|My notes]] · [[Daniel]] · [[Daniel 4|Daniel 4 →]]

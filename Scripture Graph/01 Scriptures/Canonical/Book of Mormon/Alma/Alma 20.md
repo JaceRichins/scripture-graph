@@ -74,4 +74,4 @@ cssclasses:
 **30** And, as it happened, it was their lot to have fallen into the hands of a more hardened and a more stiffnecked people; therefore they would not hearken unto their words, and they had cast them out, and had smitten them, and had driven them from house to house, and from place to place, even until they had arrived in the land of Middoni; and there they were taken and cast into prison, and bound with strong cords, and kept in prison for many days, and were delivered by Lamoni and Ammon. ^alma-20-30
 
 ---
-[[Alma 19|← Alma 19]] · [[Alma 20 - Study Guide|Study guide]] · [[Alma 20 - My Notes|My notes]] · [[Alma]] · [[Alma 21|Alma 21 →]]
+[[Alma 19|← Alma 19]] · [[Alma 20 (Annotated)|Annotated]] · [[Alma 20 - Study Guide|Study guide]] · [[Alma 20 - My Notes|My notes]] · [[Alma]] · [[Alma 21|Alma 21 →]]

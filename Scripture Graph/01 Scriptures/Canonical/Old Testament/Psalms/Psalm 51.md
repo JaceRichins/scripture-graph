@@ -54,4 +54,4 @@ aliases:
 **19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar. ^ps-51-19
 
 ---
-[[Psalm 50|← Psalm 50]] · [[Psalm 51 - Study Guide|Study guide]] · [[Psalm 51 - My Notes|My notes]] · [[Psalms]] · [[Psalm 52|Psalm 52 →]]
+[[Psalm 50|← Psalm 50]] · [[Psalm 51 (Annotated)|Annotated]] · [[Psalm 51 - Study Guide|Study guide]] · [[Psalm 51 - My Notes|My notes]] · [[Psalms]] · [[Psalm 52|Psalm 52 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** He that hath an ear, let him hear what the Spirit saith unto the churches. ^rev-2-29
 
 ---
-[[Revelation 1|← Revelation 1]] · [[Revelation 2 - Study Guide|Study guide]] · [[Revelation 2 - My Notes|My notes]] · [[Revelation]] · [[Revelation 3|Revelation 3 →]]
+[[Revelation 1|← Revelation 1]] · [[Revelation 2 (Annotated)|Annotated]] · [[Revelation 2 - Study Guide|Study guide]] · [[Revelation 2 - My Notes|My notes]] · [[Revelation]] · [[Revelation 3|Revelation 3 →]]

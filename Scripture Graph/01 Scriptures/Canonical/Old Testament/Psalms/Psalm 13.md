@@ -28,4 +28,4 @@ aliases:
 **6** I will sing unto the LORD, because he hath dealt bountifully with me. ^ps-13-6
 
 ---
-[[Psalm 12|← Psalm 12]] · [[Psalm 13 - Study Guide|Study guide]] · [[Psalm 13 - My Notes|My notes]] · [[Psalms]] · [[Psalm 14|Psalm 14 →]]
+[[Psalm 12|← Psalm 12]] · [[Psalm 13 (Annotated)|Annotated]] · [[Psalm 13 - Study Guide|Study guide]] · [[Psalm 13 - My Notes|My notes]] · [[Psalms]] · [[Psalm 14|Psalm 14 →]]

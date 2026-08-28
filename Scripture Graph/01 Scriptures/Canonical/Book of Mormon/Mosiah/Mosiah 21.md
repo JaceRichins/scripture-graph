@@ -86,4 +86,4 @@ cssclasses:
 **36** And now all the study of Ammon and his people, and king Limhi and his people, was to deliver themselves out of the hands of the Lamanites and from bondage. ^mosiah-21-36
 
 ---
-[[Mosiah 20|← Mosiah 20]] · [[Mosiah 21 - Study Guide|Study guide]] · [[Mosiah 21 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 22|Mosiah 22 →]]
+[[Mosiah 20|← Mosiah 20]] · [[Mosiah 21 (Annotated)|Annotated]] · [[Mosiah 21 - Study Guide|Study guide]] · [[Mosiah 21 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 22|Mosiah 22 →]]

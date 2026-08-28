@@ -76,4 +76,4 @@ cssclasses:
 **31** That, according as it is written, He that glorieth, let him glory in the Lord. ^1cor-1-31
 
 ---
-[[1 Corinthians 1 - Study Guide|Study guide]] · [[1 Corinthians 1 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 2|1 Corinthians 2 →]]
+[[1 Corinthians 1 (Annotated)|Annotated]] · [[1 Corinthians 1 - Study Guide|Study guide]] · [[1 Corinthians 1 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 2|1 Corinthians 2 →]]

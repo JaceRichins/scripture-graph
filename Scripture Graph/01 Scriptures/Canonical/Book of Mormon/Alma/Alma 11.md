@@ -106,4 +106,4 @@ cssclasses:
 **46** Now, when Amulek had finished these words the people began again to be astonished, and also Zeezrom began to tremble. And thus ended the words of Amulek, or this is all that I have written. ^alma-11-46
 
 ---
-[[Alma 10|← Alma 10]] · [[Alma 11 - Study Guide|Study guide]] · [[Alma 11 - My Notes|My notes]] · [[Alma]] · [[Alma 12|Alma 12 →]]
+[[Alma 10|← Alma 10]] · [[Alma 11 (Annotated)|Annotated]] · [[Alma 11 - Study Guide|Study guide]] · [[Alma 11 - My Notes|My notes]] · [[Alma]] · [[Alma 12|Alma 12 →]]

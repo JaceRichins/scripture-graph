@@ -60,4 +60,4 @@ cssclasses:
 **23** And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God. ^hosea-2-23
 
 ---
-[[Hosea 1|← Hosea 1]] · [[Hosea 2 - Study Guide|Study guide]] · [[Hosea 2 - My Notes|My notes]] · [[Hosea]] · [[Hosea 3|Hosea 3 →]]
+[[Hosea 1|← Hosea 1]] · [[Hosea 2 (Annotated)|Annotated]] · [[Hosea 2 - Study Guide|Study guide]] · [[Hosea 2 - My Notes|My notes]] · [[Hosea]] · [[Hosea 3|Hosea 3 →]]

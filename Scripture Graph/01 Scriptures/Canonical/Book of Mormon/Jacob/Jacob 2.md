@@ -84,4 +84,4 @@ cssclasses:
 **35** Behold, ye have done greater iniquities than the Lamanites, our brethren. Ye have broken the hearts of your tender wives, and lost the confidence of your children, because of your bad examples before them; and the sobbings of their hearts ascend up to God against you. And because of the strictness of the word of God, which cometh down against you, many hearts died, pierced with deep wounds. ^jacob-2-35
 
 ---
-[[Jacob 1|← Jacob 1]] · [[Jacob 2 - Study Guide|Study guide]] · [[Jacob 2 - My Notes|My notes]] · [[Jacob]] · [[Jacob 3|Jacob 3 →]]
+[[Jacob 1|← Jacob 1]] · [[Jacob 2 (Annotated)|Annotated]] · [[Jacob 2 - Study Guide|Study guide]] · [[Jacob 2 - My Notes|My notes]] · [[Jacob]] · [[Jacob 3|Jacob 3 →]]

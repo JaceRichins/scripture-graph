@@ -38,4 +38,4 @@ cssclasses:
 **12** And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken. ^isa-62-12
 
 ---
-[[Isaiah 61|← Isaiah 61]] · [[Isaiah 62 - Study Guide|Study guide]] · [[Isaiah 62 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 63|Isaiah 63 →]]
+[[Isaiah 61|← Isaiah 61]] · [[Isaiah 62 (Annotated)|Annotated]] · [[Isaiah 62 - Study Guide|Study guide]] · [[Isaiah 62 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 63|Isaiah 63 →]]

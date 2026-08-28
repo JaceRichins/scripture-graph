@@ -56,4 +56,4 @@ cssclasses:
 **21** In the tabernacle of the congregation without the veil, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel. ^ex-27-21
 
 ---
-[[Exodus 26|← Exodus 26]] · [[Exodus 27 - Study Guide|Study guide]] · [[Exodus 27 - My Notes|My notes]] · [[Exodus]] · [[Exodus 28|Exodus 28 →]]
+[[Exodus 26|← Exodus 26]] · [[Exodus 27 (Annotated)|Annotated]] · [[Exodus 27 - Study Guide|Study guide]] · [[Exodus 27 - My Notes|My notes]] · [[Exodus]] · [[Exodus 28|Exodus 28 →]]

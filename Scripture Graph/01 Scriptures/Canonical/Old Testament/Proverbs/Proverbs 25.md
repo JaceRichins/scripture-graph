@@ -70,4 +70,4 @@ cssclasses:
 **28** He that hath no rule over his own spirit is like a city that is broken down, and without walls. ^prov-25-28
 
 ---
-[[Proverbs 24|← Proverbs 24]] · [[Proverbs 25 - Study Guide|Study guide]] · [[Proverbs 25 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 26|Proverbs 26 →]]
+[[Proverbs 24|← Proverbs 24]] · [[Proverbs 25 (Annotated)|Annotated]] · [[Proverbs 25 - Study Guide|Study guide]] · [[Proverbs 25 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 26|Proverbs 26 →]]

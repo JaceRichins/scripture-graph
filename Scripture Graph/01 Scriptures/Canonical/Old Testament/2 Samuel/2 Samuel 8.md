@@ -50,4 +50,4 @@ cssclasses:
 **18** And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers. ^2sam-8-18
 
 ---
-[[2 Samuel 7|← 2 Samuel 7]] · [[2 Samuel 8 - Study Guide|Study guide]] · [[2 Samuel 8 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 9|2 Samuel 9 →]]
+[[2 Samuel 7|← 2 Samuel 7]] · [[2 Samuel 8 (Annotated)|Annotated]] · [[2 Samuel 8 - Study Guide|Study guide]] · [[2 Samuel 8 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 9|2 Samuel 9 →]]

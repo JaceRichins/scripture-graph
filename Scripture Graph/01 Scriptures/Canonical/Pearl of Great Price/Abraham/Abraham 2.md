@@ -64,4 +64,4 @@ cssclasses:
 **25** And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me—Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee. ^abr-2-25
 
 ---
-[[Abraham 1|← Abraham 1]] · [[Abraham 2 - Study Guide|Study guide]] · [[Abraham 2 - My Notes|My notes]] · [[Abraham]] · [[Abraham 3|Abraham 3 →]]
+[[Abraham 1|← Abraham 1]] · [[Abraham 2 (Annotated)|Annotated]] · [[Abraham 2 - Study Guide|Study guide]] · [[Abraham 2 - My Notes|My notes]] · [[Abraham]] · [[Abraham 3|Abraham 3 →]]

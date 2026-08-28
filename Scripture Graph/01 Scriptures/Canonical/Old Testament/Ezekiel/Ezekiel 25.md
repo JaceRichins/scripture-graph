@@ -48,4 +48,4 @@ cssclasses:
 **17** And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them. ^ezek-25-17
 
 ---
-[[Ezekiel 24|← Ezekiel 24]] · [[Ezekiel 25 - Study Guide|Study guide]] · [[Ezekiel 25 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 26|Ezekiel 26 →]]
+[[Ezekiel 24|← Ezekiel 24]] · [[Ezekiel 25 (Annotated)|Annotated]] · [[Ezekiel 25 - Study Guide|Study guide]] · [[Ezekiel 25 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 26|Ezekiel 26 →]]

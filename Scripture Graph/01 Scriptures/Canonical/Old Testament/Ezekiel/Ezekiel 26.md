@@ -56,4 +56,4 @@ cssclasses:
 **21** I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD. ^ezek-26-21
 
 ---
-[[Ezekiel 25|← Ezekiel 25]] · [[Ezekiel 26 - Study Guide|Study guide]] · [[Ezekiel 26 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 27|Ezekiel 27 →]]
+[[Ezekiel 25|← Ezekiel 25]] · [[Ezekiel 26 (Annotated)|Annotated]] · [[Ezekiel 26 - Study Guide|Study guide]] · [[Ezekiel 26 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 27|Ezekiel 27 →]]

@@ -84,4 +84,4 @@ cssclasses:
 **35** For whosoever shall do the will of God, the same is my brother, and my sister, and mother. ^mark-3-35
 
 ---
-[[Mark 2|← Mark 2]] · [[Mark 3 - Study Guide|Study guide]] · [[Mark 3 - My Notes|My notes]] · [[Mark]] · [[Mark 4|Mark 4 →]]
+[[Mark 2|← Mark 2]] · [[Mark 3 (Annotated)|Annotated]] · [[Mark 3 - Study Guide|Study guide]] · [[Mark 3 - My Notes|My notes]] · [[Mark]] · [[Mark 4|Mark 4 →]]

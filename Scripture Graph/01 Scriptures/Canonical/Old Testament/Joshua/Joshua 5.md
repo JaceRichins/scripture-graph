@@ -44,4 +44,4 @@ cssclasses:
 **15** And the captain of the LORD's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so. ^josh-5-15
 
 ---
-[[Joshua 4|← Joshua 4]] · [[Joshua 5 - Study Guide|Study guide]] · [[Joshua 5 - My Notes|My notes]] · [[Joshua]] · [[Joshua 6|Joshua 6 →]]
+[[Joshua 4|← Joshua 4]] · [[Joshua 5 (Annotated)|Annotated]] · [[Joshua 5 - Study Guide|Study guide]] · [[Joshua 5 - My Notes|My notes]] · [[Joshua]] · [[Joshua 6|Joshua 6 →]]

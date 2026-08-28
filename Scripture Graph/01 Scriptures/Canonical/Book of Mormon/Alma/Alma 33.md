@@ -60,4 +60,4 @@ cssclasses:
 **23** And now, my brethren, I desire that ye shall plant this word in your hearts, and as it beginneth to swell even so nourish it by your faith. And behold, it will become a tree, springing up in you unto everlasting life. And then may God grant unto you that your burdens may be light, through the joy of his Son. And even all this can ye do if ye will. Amen. ^alma-33-23
 
 ---
-[[Alma 32|← Alma 32]] · [[Alma 33 - Study Guide|Study guide]] · [[Alma 33 - My Notes|My notes]] · [[Alma]] · [[Alma 34|Alma 34 →]]
+[[Alma 32|← Alma 32]] · [[Alma 33 (Annotated)|Annotated]] · [[Alma 33 - Study Guide|Study guide]] · [[Alma 33 - My Notes|My notes]] · [[Alma]] · [[Alma 34|Alma 34 →]]

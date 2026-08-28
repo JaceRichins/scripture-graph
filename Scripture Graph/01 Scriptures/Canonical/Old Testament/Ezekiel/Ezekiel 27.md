@@ -86,4 +86,4 @@ cssclasses:
 **36** The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more. ^ezek-27-36
 
 ---
-[[Ezekiel 26|← Ezekiel 26]] · [[Ezekiel 27 - Study Guide|Study guide]] · [[Ezekiel 27 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 28|Ezekiel 28 →]]
+[[Ezekiel 26|← Ezekiel 26]] · [[Ezekiel 27 (Annotated)|Annotated]] · [[Ezekiel 27 - Study Guide|Study guide]] · [[Ezekiel 27 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 28|Ezekiel 28 →]]

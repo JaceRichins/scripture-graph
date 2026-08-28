@@ -94,4 +94,4 @@ cssclasses:
 **40** And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying, ^acts-21-40
 
 ---
-[[Acts 20|← Acts 20]] · [[Acts 21 - Study Guide|Study guide]] · [[Acts 21 - My Notes|My notes]] · [[Acts]] · [[Acts 22|Acts 22 →]]
+[[Acts 20|← Acts 20]] · [[Acts 21 (Annotated)|Annotated]] · [[Acts 21 - Study Guide|Study guide]] · [[Acts 21 - My Notes|My notes]] · [[Acts]] · [[Acts 22|Acts 22 →]]

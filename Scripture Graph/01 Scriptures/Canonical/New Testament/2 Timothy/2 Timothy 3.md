@@ -48,4 +48,4 @@ cssclasses:
 **17** That the man of God may be perfect, throughly furnished unto all good works. ^2tim-3-17
 
 ---
-[[2 Timothy 2|← 2 Timothy 2]] · [[2 Timothy 3 - Study Guide|Study guide]] · [[2 Timothy 3 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 4|2 Timothy 4 →]]
+[[2 Timothy 2|← 2 Timothy 2]] · [[2 Timothy 3 (Annotated)|Annotated]] · [[2 Timothy 3 - Study Guide|Study guide]] · [[2 Timothy 3 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 4|2 Timothy 4 →]]

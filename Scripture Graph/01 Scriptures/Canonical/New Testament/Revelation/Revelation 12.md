@@ -48,4 +48,4 @@ cssclasses:
 **17** And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ. ^rev-12-17
 
 ---
-[[Revelation 11|← Revelation 11]] · [[Revelation 12 - Study Guide|Study guide]] · [[Revelation 12 - My Notes|My notes]] · [[Revelation]] · [[Revelation 13|Revelation 13 →]]
+[[Revelation 11|← Revelation 11]] · [[Revelation 12 (Annotated)|Annotated]] · [[Revelation 12 - Study Guide|Study guide]] · [[Revelation 12 - My Notes|My notes]] · [[Revelation]] · [[Revelation 13|Revelation 13 →]]

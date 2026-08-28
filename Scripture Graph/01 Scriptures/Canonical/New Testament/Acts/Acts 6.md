@@ -44,4 +44,4 @@ cssclasses:
 **15** And all that sat in the council, looking steadfastly on him, saw his face as it had been the face of an angel. ^acts-6-15
 
 ---
-[[Acts 5|← Acts 5]] · [[Acts 6 - Study Guide|Study guide]] · [[Acts 6 - My Notes|My notes]] · [[Acts]] · [[Acts 7|Acts 7 →]]
+[[Acts 5|← Acts 5]] · [[Acts 6 (Annotated)|Annotated]] · [[Acts 6 - Study Guide|Study guide]] · [[Acts 6 - My Notes|My notes]] · [[Acts]] · [[Acts 7|Acts 7 →]]

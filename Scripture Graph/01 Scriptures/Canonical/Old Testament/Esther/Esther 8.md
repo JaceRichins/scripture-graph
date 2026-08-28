@@ -48,4 +48,4 @@ cssclasses:
 **17** And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them. ^esth-8-17
 
 ---
-[[Esther 7|← Esther 7]] · [[Esther 8 - Study Guide|Study guide]] · [[Esther 8 - My Notes|My notes]] · [[Esther]] · [[Esther 9|Esther 9 →]]
+[[Esther 7|← Esther 7]] · [[Esther 8 (Annotated)|Annotated]] · [[Esther 8 - Study Guide|Study guide]] · [[Esther 8 - My Notes|My notes]] · [[Esther]] · [[Esther 9|Esther 9 →]]

@@ -100,4 +100,4 @@ cssclasses:
 **43** And it came to pass that his servants took him and carried him in unto his wife, and laid him upon a bed; and he lay as if he were dead for the space of two days and two nights; and his wife, and his sons, and his daughters mourned over him, after the manner of the Lamanites, greatly lamenting his loss. ^alma-18-43
 
 ---
-[[Alma 17|← Alma 17]] · [[Alma 18 - Study Guide|Study guide]] · [[Alma 18 - My Notes|My notes]] · [[Alma]] · [[Alma 19|Alma 19 →]]
+[[Alma 17|← Alma 17]] · [[Alma 18 (Annotated)|Annotated]] · [[Alma 18 - Study Guide|Study guide]] · [[Alma 18 - My Notes|My notes]] · [[Alma]] · [[Alma 19|Alma 19 →]]

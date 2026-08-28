@@ -130,4 +130,4 @@ cssclasses:
 **58** Therefore, my beloved brethren, be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. ^1cor-15-58
 
 ---
-[[1 Corinthians 14|← 1 Corinthians 14]] · [[1 Corinthians 15 - Study Guide|Study guide]] · [[1 Corinthians 15 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 16|1 Corinthians 16 →]]
+[[1 Corinthians 14|← 1 Corinthians 14]] · [[1 Corinthians 15 (Annotated)|Annotated]] · [[1 Corinthians 15 - Study Guide|Study guide]] · [[1 Corinthians 15 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 16|1 Corinthians 16 →]]

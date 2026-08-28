@@ -124,4 +124,4 @@ cssclasses:
 **55** And thus cometh the end of the wicked, according to the prophecy of Moses, saying: They shall be cut off from among the people; but the end of the earth is not yet, but by and by. ^jsm-1-55
 
 ---
-[[Joseph Smith—Matthew 1 - Study Guide|Study guide]] · [[Joseph Smith—Matthew 1 - My Notes|My notes]] · [[Joseph Smith—Matthew]]
+[[Joseph Smith—Matthew 1 (Annotated)|Annotated]] · [[Joseph Smith—Matthew 1 - Study Guide|Study guide]] · [[Joseph Smith—Matthew 1 - My Notes|My notes]] · [[Joseph Smith—Matthew]]

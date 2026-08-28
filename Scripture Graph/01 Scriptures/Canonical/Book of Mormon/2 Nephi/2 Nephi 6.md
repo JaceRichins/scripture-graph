@@ -50,4 +50,4 @@ cssclasses:
 **18** And I will feed them that oppress thee, with their own flesh; and they shall be drunken with their own blood as with sweet wine; and all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob. ^2ne-6-18
 
 ---
-[[2 Nephi 5|← 2 Nephi 5]] · [[2 Nephi 6 - Study Guide|Study guide]] · [[2 Nephi 6 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 7|2 Nephi 7 →]]
+[[2 Nephi 5|← 2 Nephi 5]] · [[2 Nephi 6 (Annotated)|Annotated]] · [[2 Nephi 6 - Study Guide|Study guide]] · [[2 Nephi 6 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 7|2 Nephi 7 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** And God said unto Noah: The end of all flesh is come before me, for the earth is filled with violence, and behold I will destroy all flesh from off the earth. ^moses-8-30
 
 ---
-[[Moses 7|← Moses 7]] · [[Moses 8 - Study Guide|Study guide]] · [[Moses 8 - My Notes|My notes]] · [[Moses]]
+[[Moses 7|← Moses 7]] · [[Moses 8 (Annotated)|Annotated]] · [[Moses 8 - Study Guide|Study guide]] · [[Moses 8 - My Notes|My notes]] · [[Moses]]

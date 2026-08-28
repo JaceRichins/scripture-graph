@@ -42,4 +42,4 @@ aliases:
 **13** Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen. ^ps-41-13
 
 ---
-[[Psalm 40|← Psalm 40]] · [[Psalm 41 - Study Guide|Study guide]] · [[Psalm 41 - My Notes|My notes]] · [[Psalms]] · [[Psalm 42|Psalm 42 →]]
+[[Psalm 40|← Psalm 40]] · [[Psalm 41 (Annotated)|Annotated]] · [[Psalm 41 - Study Guide|Study guide]] · [[Psalm 41 - My Notes|My notes]] · [[Psalms]] · [[Psalm 42|Psalm 42 →]]

@@ -50,4 +50,4 @@ cssclasses:
 **18** And he set threescore and ten thousand of them to be bearers of burdens, and fourscore thousand to be hewers in the mountain, and three thousand and six hundred overseers to set the people a work. ^2chr-2-18
 
 ---
-[[2 Chronicles 1|← 2 Chronicles 1]] · [[2 Chronicles 2 - Study Guide|Study guide]] · [[2 Chronicles 2 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 3|2 Chronicles 3 →]]
+[[2 Chronicles 1|← 2 Chronicles 1]] · [[2 Chronicles 2 (Annotated)|Annotated]] · [[2 Chronicles 2 - Study Guide|Study guide]] · [[2 Chronicles 2 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 3|2 Chronicles 3 →]]

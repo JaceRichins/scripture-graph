@@ -64,4 +64,4 @@ cssclasses:
 **25** In the seventh month, in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil. ^ezek-45-25
 
 ---
-[[Ezekiel 44|← Ezekiel 44]] · [[Ezekiel 45 - Study Guide|Study guide]] · [[Ezekiel 45 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 46|Ezekiel 46 →]]
+[[Ezekiel 44|← Ezekiel 44]] · [[Ezekiel 45 (Annotated)|Annotated]] · [[Ezekiel 45 - Study Guide|Study guide]] · [[Ezekiel 45 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 46|Ezekiel 46 →]]

@@ -132,4 +132,4 @@ cssclasses:
 **59** And thus all things were confirmed unto Adam, by an holy ordinance, and the Gospel preached, and a decree sent forth, that it should be in the world, until the end thereof; and thus it was. Amen. ^moses-5-59
 
 ---
-[[Moses 4|← Moses 4]] · [[Moses 5 - Study Guide|Study guide]] · [[Moses 5 - My Notes|My notes]] · [[Moses]] · [[Moses 6|Moses 6 →]]
+[[Moses 4|← Moses 4]] · [[Moses 5 (Annotated)|Annotated]] · [[Moses 5 - Study Guide|Study guide]] · [[Moses 5 - My Notes|My notes]] · [[Moses]] · [[Moses 6|Moses 6 →]]

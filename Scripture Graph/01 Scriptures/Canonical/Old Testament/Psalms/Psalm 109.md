@@ -78,4 +78,4 @@ aliases:
 **31** For he shall stand at the right hand of the poor, to save him from those that condemn his soul. ^ps-109-31
 
 ---
-[[Psalm 108|← Psalm 108]] · [[Psalm 109 - Study Guide|Study guide]] · [[Psalm 109 - My Notes|My notes]] · [[Psalms]] · [[Psalm 110|Psalm 110 →]]
+[[Psalm 108|← Psalm 108]] · [[Psalm 109 (Annotated)|Annotated]] · [[Psalm 109 - Study Guide|Study guide]] · [[Psalm 109 - My Notes|My notes]] · [[Psalms]] · [[Psalm 110|Psalm 110 →]]

@@ -40,4 +40,4 @@ cssclasses:
 **13** Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest. ^judg-17-13
 
 ---
-[[Judges 16|← Judges 16]] · [[Judges 17 - Study Guide|Study guide]] · [[Judges 17 - My Notes|My notes]] · [[Judges]] · [[Judges 18|Judges 18 →]]
+[[Judges 16|← Judges 16]] · [[Judges 17 (Annotated)|Annotated]] · [[Judges 17 - Study Guide|Study guide]] · [[Judges 17 - My Notes|My notes]] · [[Judges]] · [[Judges 18|Judges 18 →]]

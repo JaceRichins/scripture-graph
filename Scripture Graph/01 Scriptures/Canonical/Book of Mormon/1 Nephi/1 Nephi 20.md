@@ -58,4 +58,4 @@ cssclasses:
 **22** And notwithstanding he hath done all this, and greater also, there is no peace, saith the Lord, unto the wicked. ^1ne-20-22
 
 ---
-[[1 Nephi 19|← 1 Nephi 19]] · [[1 Nephi 20 - Study Guide|Study guide]] · [[1 Nephi 20 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 21|1 Nephi 21 →]]
+[[1 Nephi 19|← 1 Nephi 19]] · [[1 Nephi 20 (Annotated)|Annotated]] · [[1 Nephi 20 - Study Guide|Study guide]] · [[1 Nephi 20 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 21|1 Nephi 21 →]]

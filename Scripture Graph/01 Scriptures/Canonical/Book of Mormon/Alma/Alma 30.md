@@ -134,4 +134,4 @@ cssclasses:
 **60** And thus we see the end of him who perverteth the ways of the Lord; and thus we see that the devil will not support his children at the last day, but doth speedily drag them down to hell. ^alma-30-60
 
 ---
-[[Alma 29|← Alma 29]] · [[Alma 30 - Study Guide|Study guide]] · [[Alma 30 - My Notes|My notes]] · [[Alma]] · [[Alma 31|Alma 31 →]]
+[[Alma 29|← Alma 29]] · [[Alma 30 (Annotated)|Annotated]] · [[Alma 30 - Study Guide|Study guide]] · [[Alma 30 - My Notes|My notes]] · [[Alma]] · [[Alma 31|Alma 31 →]]

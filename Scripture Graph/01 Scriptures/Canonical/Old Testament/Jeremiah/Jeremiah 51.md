@@ -142,4 +142,4 @@ cssclasses:
 **64** And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far are the words of Jeremiah. ^jer-51-64
 
 ---
-[[Jeremiah 50|← Jeremiah 50]] · [[Jeremiah 51 - Study Guide|Study guide]] · [[Jeremiah 51 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 52|Jeremiah 52 →]]
+[[Jeremiah 50|← Jeremiah 50]] · [[Jeremiah 51 (Annotated)|Annotated]] · [[Jeremiah 51 - Study Guide|Study guide]] · [[Jeremiah 51 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 52|Jeremiah 52 →]]

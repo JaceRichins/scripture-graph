@@ -54,4 +54,4 @@ cssclasses:
 **20** And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen. ^mark-16-20
 
 ---
-[[Mark 15|← Mark 15]] · [[Mark 16 - Study Guide|Study guide]] · [[Mark 16 - My Notes|My notes]] · [[Mark]]
+[[Mark 15|← Mark 15]] · [[Mark 16 (Annotated)|Annotated]] · [[Mark 16 - Study Guide|Study guide]] · [[Mark 16 - My Notes|My notes]] · [[Mark]]

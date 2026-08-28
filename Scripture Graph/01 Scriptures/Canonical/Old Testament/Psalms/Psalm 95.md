@@ -38,4 +38,4 @@ aliases:
 **11** Unto whom I sware in my wrath that they should not enter into my rest. ^ps-95-11
 
 ---
-[[Psalm 94|← Psalm 94]] · [[Psalm 95 - Study Guide|Study guide]] · [[Psalm 95 - My Notes|My notes]] · [[Psalms]] · [[Psalm 96|Psalm 96 →]]
+[[Psalm 94|← Psalm 94]] · [[Psalm 95 (Annotated)|Annotated]] · [[Psalm 95 - Study Guide|Study guide]] · [[Psalm 95 - My Notes|My notes]] · [[Psalms]] · [[Psalm 96|Psalm 96 →]]

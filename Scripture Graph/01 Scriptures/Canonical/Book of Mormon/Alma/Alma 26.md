@@ -88,4 +88,4 @@ cssclasses:
 **37** Now my brethren, we see that God is mindful of every people, whatsoever land they may be in; yea, he numbereth his people, and his bowels of mercy are over all the earth. Now this is my joy, and my great thanksgiving; yea, and I will give thanks unto my God forever. Amen. ^alma-26-37
 
 ---
-[[Alma 25|← Alma 25]] · [[Alma 26 - Study Guide|Study guide]] · [[Alma 26 - My Notes|My notes]] · [[Alma]] · [[Alma 27|Alma 27 →]]
+[[Alma 25|← Alma 25]] · [[Alma 26 (Annotated)|Annotated]] · [[Alma 26 - Study Guide|Study guide]] · [[Alma 26 - My Notes|My notes]] · [[Alma]] · [[Alma 27|Alma 27 →]]

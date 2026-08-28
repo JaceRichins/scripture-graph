@@ -80,4 +80,4 @@ cssclasses:
 **33** Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess. ^deut-5-33
 
 ---
-[[Deuteronomy 4|← Deuteronomy 4]] · [[Deuteronomy 5 - Study Guide|Study guide]] · [[Deuteronomy 5 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 6|Deuteronomy 6 →]]
+[[Deuteronomy 4|← Deuteronomy 4]] · [[Deuteronomy 5 (Annotated)|Annotated]] · [[Deuteronomy 5 - Study Guide|Study guide]] · [[Deuteronomy 5 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 6|Deuteronomy 6 →]]

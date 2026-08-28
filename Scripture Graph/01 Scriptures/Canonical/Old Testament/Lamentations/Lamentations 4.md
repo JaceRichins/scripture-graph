@@ -58,4 +58,4 @@ cssclasses:
 **22** The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins. ^lam-4-22
 
 ---
-[[Lamentations 3|← Lamentations 3]] · [[Lamentations 4 - Study Guide|Study guide]] · [[Lamentations 4 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 5|Lamentations 5 →]]
+[[Lamentations 3|← Lamentations 3]] · [[Lamentations 4 (Annotated)|Annotated]] · [[Lamentations 4 - Study Guide|Study guide]] · [[Lamentations 4 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 5|Lamentations 5 →]]

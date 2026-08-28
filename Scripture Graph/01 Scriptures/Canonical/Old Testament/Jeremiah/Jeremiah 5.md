@@ -76,4 +76,4 @@ cssclasses:
 **31** The prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof? ^jer-5-31
 
 ---
-[[Jeremiah 4|← Jeremiah 4]] · [[Jeremiah 5 - Study Guide|Study guide]] · [[Jeremiah 5 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 6|Jeremiah 6 →]]
+[[Jeremiah 4|← Jeremiah 4]] · [[Jeremiah 5 (Annotated)|Annotated]] · [[Jeremiah 5 - Study Guide|Study guide]] · [[Jeremiah 5 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 6|Jeremiah 6 →]]

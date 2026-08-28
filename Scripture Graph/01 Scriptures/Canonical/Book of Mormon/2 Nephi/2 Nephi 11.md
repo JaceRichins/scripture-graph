@@ -30,4 +30,4 @@ cssclasses:
 **8** And now I write some of the words of Isaiah, that whoso of my people shall see these words may lift up their hearts and rejoice for all men. Now these are the words, and ye may liken them unto you and unto all men. ^2ne-11-8
 
 ---
-[[2 Nephi 10|← 2 Nephi 10]] · [[2 Nephi 11 - Study Guide|Study guide]] · [[2 Nephi 11 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 12|2 Nephi 12 →]]
+[[2 Nephi 10|← 2 Nephi 10]] · [[2 Nephi 11 (Annotated)|Annotated]] · [[2 Nephi 11 - Study Guide|Study guide]] · [[2 Nephi 11 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 12|2 Nephi 12 →]]

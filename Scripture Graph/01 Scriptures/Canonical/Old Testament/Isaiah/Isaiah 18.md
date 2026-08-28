@@ -28,4 +28,4 @@ cssclasses:
 **7** In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion. ^isa-18-7
 
 ---
-[[Isaiah 17|← Isaiah 17]] · [[Isaiah 18 - Study Guide|Study guide]] · [[Isaiah 18 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 19|Isaiah 19 →]]
+[[Isaiah 17|← Isaiah 17]] · [[Isaiah 18 (Annotated)|Annotated]] · [[Isaiah 18 - Study Guide|Study guide]] · [[Isaiah 18 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 19|Isaiah 19 →]]

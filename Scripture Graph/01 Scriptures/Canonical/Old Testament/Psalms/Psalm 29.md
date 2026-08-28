@@ -38,4 +38,4 @@ aliases:
 **11** The LORD will give strength unto his people; the LORD will bless his people with peace. ^ps-29-11
 
 ---
-[[Psalm 28|← Psalm 28]] · [[Psalm 29 - Study Guide|Study guide]] · [[Psalm 29 - My Notes|My notes]] · [[Psalms]] · [[Psalm 30|Psalm 30 →]]
+[[Psalm 28|← Psalm 28]] · [[Psalm 29 (Annotated)|Annotated]] · [[Psalm 29 - Study Guide|Study guide]] · [[Psalm 29 - My Notes|My notes]] · [[Psalms]] · [[Psalm 30|Psalm 30 →]]

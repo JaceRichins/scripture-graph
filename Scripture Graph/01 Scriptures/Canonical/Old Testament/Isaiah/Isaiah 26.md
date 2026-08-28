@@ -56,4 +56,4 @@ cssclasses:
 **21** For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain. ^isa-26-21
 
 ---
-[[Isaiah 25|← Isaiah 25]] · [[Isaiah 26 - Study Guide|Study guide]] · [[Isaiah 26 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 27|Isaiah 27 →]]
+[[Isaiah 25|← Isaiah 25]] · [[Isaiah 26 (Annotated)|Annotated]] · [[Isaiah 26 - Study Guide|Study guide]] · [[Isaiah 26 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 27|Isaiah 27 →]]

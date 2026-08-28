@@ -34,4 +34,4 @@ cssclasses:
 **10** And the LORD spake unto the fish, and it vomited out Jonah upon the dry land. ^jonah-2-10
 
 ---
-[[Jonah 1|← Jonah 1]] · [[Jonah 2 - Study Guide|Study guide]] · [[Jonah 2 - My Notes|My notes]] · [[Jonah]] · [[Jonah 3|Jonah 3 →]]
+[[Jonah 1|← Jonah 1]] · [[Jonah 2 (Annotated)|Annotated]] · [[Jonah 2 - Study Guide|Study guide]] · [[Jonah 2 - My Notes|My notes]] · [[Jonah]] · [[Jonah 3|Jonah 3 →]]

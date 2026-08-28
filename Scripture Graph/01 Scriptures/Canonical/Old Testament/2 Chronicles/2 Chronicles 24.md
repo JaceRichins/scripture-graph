@@ -68,4 +68,4 @@ cssclasses:
 **27** Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead. ^2chr-24-27
 
 ---
-[[2 Chronicles 23|← 2 Chronicles 23]] · [[2 Chronicles 24 - Study Guide|Study guide]] · [[2 Chronicles 24 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 25|2 Chronicles 25 →]]
+[[2 Chronicles 23|← 2 Chronicles 23]] · [[2 Chronicles 24 (Annotated)|Annotated]] · [[2 Chronicles 24 - Study Guide|Study guide]] · [[2 Chronicles 24 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 25|2 Chronicles 25 →]]

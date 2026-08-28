@@ -42,4 +42,4 @@ cssclasses:
 **14** Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him. ^hosea-12-14
 
 ---
-[[Hosea 11|← Hosea 11]] · [[Hosea 12 - Study Guide|Study guide]] · [[Hosea 12 - My Notes|My notes]] · [[Hosea]] · [[Hosea 13|Hosea 13 →]]
+[[Hosea 11|← Hosea 11]] · [[Hosea 12 (Annotated)|Annotated]] · [[Hosea 12 - Study Guide|Study guide]] · [[Hosea 12 - My Notes|My notes]] · [[Hosea]] · [[Hosea 13|Hosea 13 →]]

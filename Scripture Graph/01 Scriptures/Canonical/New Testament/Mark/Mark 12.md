@@ -102,4 +102,4 @@ cssclasses:
 **44** For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. ^mark-12-44
 
 ---
-[[Mark 11|← Mark 11]] · [[Mark 12 - Study Guide|Study guide]] · [[Mark 12 - My Notes|My notes]] · [[Mark]] · [[Mark 13|Mark 13 →]]
+[[Mark 11|← Mark 11]] · [[Mark 12 (Annotated)|Annotated]] · [[Mark 12 - Study Guide|Study guide]] · [[Mark 12 - My Notes|My notes]] · [[Mark]] · [[Mark 13|Mark 13 →]]

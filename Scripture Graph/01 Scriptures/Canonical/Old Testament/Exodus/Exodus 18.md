@@ -68,4 +68,4 @@ cssclasses:
 **27** And Moses let his father in law depart; and he went his way into his own land. ^ex-18-27
 
 ---
-[[Exodus 17|← Exodus 17]] · [[Exodus 18 - Study Guide|Study guide]] · [[Exodus 18 - My Notes|My notes]] · [[Exodus]] · [[Exodus 19|Exodus 19 →]]
+[[Exodus 17|← Exodus 17]] · [[Exodus 18 (Annotated)|Annotated]] · [[Exodus 18 - Study Guide|Study guide]] · [[Exodus 18 - My Notes|My notes]] · [[Exodus]] · [[Exodus 19|Exodus 19 →]]

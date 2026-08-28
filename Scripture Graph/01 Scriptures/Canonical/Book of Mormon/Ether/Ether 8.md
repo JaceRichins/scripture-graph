@@ -66,4 +66,4 @@ cssclasses:
 **26** Wherefore, I, Moroni, am commanded to write these things that evil may be done away, and that the time may come that Satan may have no power upon the hearts of the children of men, but that they may be persuaded to do good continually, that they may come unto the fountain of all righteousness and be saved. ^ether-8-26
 
 ---
-[[Ether 7|← Ether 7]] · [[Ether 8 - Study Guide|Study guide]] · [[Ether 8 - My Notes|My notes]] · [[Ether]] · [[Ether 9|Ether 9 →]]
+[[Ether 7|← Ether 7]] · [[Ether 8 (Annotated)|Annotated]] · [[Ether 8 - Study Guide|Study guide]] · [[Ether 8 - My Notes|My notes]] · [[Ether]] · [[Ether 9|Ether 9 →]]

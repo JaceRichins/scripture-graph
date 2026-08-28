@@ -78,4 +78,4 @@ cssclasses:
 **32** And ye shall observe to do all the statutes and judgments which I set before you this day. ^deut-11-32
 
 ---
-[[Deuteronomy 10|← Deuteronomy 10]] · [[Deuteronomy 11 - Study Guide|Study guide]] · [[Deuteronomy 11 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 12|Deuteronomy 12 →]]
+[[Deuteronomy 10|← Deuteronomy 10]] · [[Deuteronomy 11 (Annotated)|Annotated]] · [[Deuteronomy 11 - Study Guide|Study guide]] · [[Deuteronomy 11 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 12|Deuteronomy 12 →]]

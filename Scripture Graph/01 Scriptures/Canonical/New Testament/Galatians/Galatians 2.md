@@ -56,4 +56,4 @@ cssclasses:
 **21** I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain. ^gal-2-21
 
 ---
-[[Galatians 1|← Galatians 1]] · [[Galatians 2 - Study Guide|Study guide]] · [[Galatians 2 - My Notes|My notes]] · [[Galatians]] · [[Galatians 3|Galatians 3 →]]
+[[Galatians 1|← Galatians 1]] · [[Galatians 2 (Annotated)|Annotated]] · [[Galatians 2 - Study Guide|Study guide]] · [[Galatians 2 - My Notes|My notes]] · [[Galatians]] · [[Galatians 3|Galatians 3 →]]

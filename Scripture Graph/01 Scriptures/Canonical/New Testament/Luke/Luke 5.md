@@ -92,4 +92,4 @@ cssclasses:
 **39** No man also having drunk old wine straightway desireth new: for he saith, The old is better. ^luke-5-39
 
 ---
-[[Luke 4|← Luke 4]] · [[Luke 5 - Study Guide|Study guide]] · [[Luke 5 - My Notes|My notes]] · [[Luke]] · [[Luke 6|Luke 6 →]]
+[[Luke 4|← Luke 4]] · [[Luke 5 (Annotated)|Annotated]] · [[Luke 5 - Study Guide|Study guide]] · [[Luke 5 - My Notes|My notes]] · [[Luke]] · [[Luke 6|Luke 6 →]]

@@ -78,4 +78,4 @@ cssclasses:
 **32** And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call. ^joel-2-32
 
 ---
-[[Joel 1|← Joel 1]] · [[Joel 2 - Study Guide|Study guide]] · [[Joel 2 - My Notes|My notes]] · [[Joel]] · [[Joel 3|Joel 3 →]]
+[[Joel 1|← Joel 1]] · [[Joel 2 (Annotated)|Annotated]] · [[Joel 2 - Study Guide|Study guide]] · [[Joel 2 - My Notes|My notes]] · [[Joel]] · [[Joel 3|Joel 3 →]]

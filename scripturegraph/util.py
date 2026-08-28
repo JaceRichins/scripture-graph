@@ -47,13 +47,32 @@ def ensure_dir(path: str | Path) -> Path:
 
 
 def atomic_write_text(path: str | Path, text: str) -> None:
-    """Write file atomically (tmp + os.replace). Always UTF-8, LF newlines."""
+    """Write file atomically (tmp + os.replace). Always UTF-8, LF newlines.
+
+    Windows: os.replace fails on a read-only target (canonical files carry
+    the attribute) and can transiently fail while AV/indexers hold the file —
+    clear the attribute and retry briefly before giving up."""
+    import stat
+    import time
     p = Path(path)
     p.parent.mkdir(parents=True, exist_ok=True)
     tmp = p.with_name(p.name + f".{os.getpid()}.tmp")
     with open(tmp, "w", encoding="utf-8", newline="\n") as f:
         f.write(text)
-    os.replace(tmp, p)
+    for attempt in range(4):
+        try:
+            os.replace(tmp, p)
+            return
+        except PermissionError:
+            try:
+                if p.exists():
+                    os.chmod(p, p.stat().st_mode | stat.S_IWRITE)
+            except OSError:
+                pass
+            if attempt == 3:
+                tmp.unlink(missing_ok=True)
+                raise
+            time.sleep(0.25 * (attempt + 1))
 
 
 def read_text(path: str | Path) -> str:

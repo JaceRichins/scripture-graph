@@ -70,4 +70,4 @@ cssclasses:
 **28** And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon. ^1kgs-9-28
 
 ---
-[[1 Kings 8|← 1 Kings 8]] · [[1 Kings 9 - Study Guide|Study guide]] · [[1 Kings 9 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 10|1 Kings 10 →]]
+[[1 Kings 8|← 1 Kings 8]] · [[1 Kings 9 (Annotated)|Annotated]] · [[1 Kings 9 - Study Guide|Study guide]] · [[1 Kings 9 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 10|1 Kings 10 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries. ^1chr-29-30
 
 ---
-[[1 Chronicles 28|← 1 Chronicles 28]] · [[1 Chronicles 29 - Study Guide|Study guide]] · [[1 Chronicles 29 - My Notes|My notes]] · [[1 Chronicles]]
+[[1 Chronicles 28|← 1 Chronicles 28]] · [[1 Chronicles 29 (Annotated)|Annotated]] · [[1 Chronicles 29 - Study Guide|Study guide]] · [[1 Chronicles 29 - My Notes|My notes]] · [[1 Chronicles]]

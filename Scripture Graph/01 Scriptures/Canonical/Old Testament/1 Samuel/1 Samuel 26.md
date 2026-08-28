@@ -64,4 +64,4 @@ cssclasses:
 **25** Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place. ^1sam-26-25
 
 ---
-[[1 Samuel 25|← 1 Samuel 25]] · [[1 Samuel 26 - Study Guide|Study guide]] · [[1 Samuel 26 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 27|1 Samuel 27 →]]
+[[1 Samuel 25|← 1 Samuel 25]] · [[1 Samuel 26 (Annotated)|Annotated]] · [[1 Samuel 26 - Study Guide|Study guide]] · [[1 Samuel 26 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 27|1 Samuel 27 →]]

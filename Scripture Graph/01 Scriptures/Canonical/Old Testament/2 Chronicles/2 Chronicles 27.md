@@ -32,4 +32,4 @@ cssclasses:
 **9** And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead. ^2chr-27-9
 
 ---
-[[2 Chronicles 26|← 2 Chronicles 26]] · [[2 Chronicles 27 - Study Guide|Study guide]] · [[2 Chronicles 27 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 28|2 Chronicles 28 →]]
+[[2 Chronicles 26|← 2 Chronicles 26]] · [[2 Chronicles 27 (Annotated)|Annotated]] · [[2 Chronicles 27 - Study Guide|Study guide]] · [[2 Chronicles 27 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 28|2 Chronicles 28 →]]

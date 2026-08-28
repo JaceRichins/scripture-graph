@@ -54,4 +54,4 @@ cssclasses:
 **20** Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec. ^heb-6-20
 
 ---
-[[Hebrews 5|← Hebrews 5]] · [[Hebrews 6 - Study Guide|Study guide]] · [[Hebrews 6 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 7|Hebrews 7 →]]
+[[Hebrews 5|← Hebrews 5]] · [[Hebrews 6 (Annotated)|Annotated]] · [[Hebrews 6 - Study Guide|Study guide]] · [[Hebrews 6 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 7|Hebrews 7 →]]

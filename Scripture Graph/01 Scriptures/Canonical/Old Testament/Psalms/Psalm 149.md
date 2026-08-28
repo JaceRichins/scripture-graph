@@ -34,4 +34,4 @@ aliases:
 **9** To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD. ^ps-149-9
 
 ---
-[[Psalm 148|← Psalm 148]] · [[Psalm 149 - Study Guide|Study guide]] · [[Psalm 149 - My Notes|My notes]] · [[Psalms]] · [[Psalm 150|Psalm 150 →]]
+[[Psalm 148|← Psalm 148]] · [[Psalm 149 (Annotated)|Annotated]] · [[Psalm 149 - Study Guide|Study guide]] · [[Psalm 149 - My Notes|My notes]] · [[Psalms]] · [[Psalm 150|Psalm 150 →]]

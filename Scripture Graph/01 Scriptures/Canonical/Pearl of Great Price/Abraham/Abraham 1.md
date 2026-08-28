@@ -76,4 +76,4 @@ cssclasses:
 **31** But the records of the fathers, even the patriarchs, concerning the right of Priesthood, the Lord my God preserved in mine own hands; therefore a knowledge of the beginning of the creation, and also of the planets, and of the stars, as they were made known unto the fathers, have I kept even unto this day, and I shall endeavor to write some of these things upon this record, for the benefit of my posterity that shall come after me. ^abr-1-31
 
 ---
-[[Abraham 1 - Study Guide|Study guide]] · [[Abraham 1 - My Notes|My notes]] · [[Abraham]] · [[Abraham 2|Abraham 2 →]]
+[[Abraham 1 (Annotated)|Annotated]] · [[Abraham 1 - Study Guide|Study guide]] · [[Abraham 1 - My Notes|My notes]] · [[Abraham]] · [[Abraham 2|Abraham 2 →]]

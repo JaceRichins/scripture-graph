@@ -32,4 +32,4 @@ aliases:
 **8** So will I sing praise unto thy name for ever, that I may daily perform my vows. ^ps-61-8
 
 ---
-[[Psalm 60|← Psalm 60]] · [[Psalm 61 - Study Guide|Study guide]] · [[Psalm 61 - My Notes|My notes]] · [[Psalms]] · [[Psalm 62|Psalm 62 →]]
+[[Psalm 60|← Psalm 60]] · [[Psalm 61 (Annotated)|Annotated]] · [[Psalm 61 - Study Guide|Study guide]] · [[Psalm 61 - My Notes|My notes]] · [[Psalms]] · [[Psalm 62|Psalm 62 →]]

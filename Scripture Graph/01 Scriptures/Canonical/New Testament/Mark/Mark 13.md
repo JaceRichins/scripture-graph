@@ -88,4 +88,4 @@ cssclasses:
 **37** And what I say unto you I say unto all, Watch. ^mark-13-37
 
 ---
-[[Mark 12|← Mark 12]] · [[Mark 13 - Study Guide|Study guide]] · [[Mark 13 - My Notes|My notes]] · [[Mark]] · [[Mark 14|Mark 14 →]]
+[[Mark 12|← Mark 12]] · [[Mark 13 (Annotated)|Annotated]] · [[Mark 13 - Study Guide|Study guide]] · [[Mark 13 - My Notes|My notes]] · [[Mark]] · [[Mark 14|Mark 14 →]]

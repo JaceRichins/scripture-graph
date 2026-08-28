@@ -34,4 +34,4 @@ cssclasses:
 **10** And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute. ^josh-16-10
 
 ---
-[[Joshua 15|← Joshua 15]] · [[Joshua 16 - Study Guide|Study guide]] · [[Joshua 16 - My Notes|My notes]] · [[Joshua]] · [[Joshua 17|Joshua 17 →]]
+[[Joshua 15|← Joshua 15]] · [[Joshua 16 (Annotated)|Annotated]] · [[Joshua 16 - Study Guide|Study guide]] · [[Joshua 16 - My Notes|My notes]] · [[Joshua]] · [[Joshua 17|Joshua 17 →]]

@@ -94,4 +94,4 @@ cssclasses:
 **40** God having provided some better thing for us, that they without us should not be made perfect. ^heb-11-40
 
 ---
-[[Hebrews 10|← Hebrews 10]] · [[Hebrews 11 - Study Guide|Study guide]] · [[Hebrews 11 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 12|Hebrews 12 →]]
+[[Hebrews 10|← Hebrews 10]] · [[Hebrews 11 (Annotated)|Annotated]] · [[Hebrews 11 - Study Guide|Study guide]] · [[Hebrews 11 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 12|Hebrews 12 →]]

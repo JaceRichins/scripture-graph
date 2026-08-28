@@ -74,4 +74,4 @@ cssclasses:
 **30** Is there iniquity in my tongue? cannot my taste discern perverse things? ^job-6-30
 
 ---
-[[Job 5|← Job 5]] · [[Job 6 - Study Guide|Study guide]] · [[Job 6 - My Notes|My notes]] · [[Job]] · [[Job 7|Job 7 →]]
+[[Job 5|← Job 5]] · [[Job 6 (Annotated)|Annotated]] · [[Job 6 - Study Guide|Study guide]] · [[Job 6 - My Notes|My notes]] · [[Job]] · [[Job 7|Job 7 →]]

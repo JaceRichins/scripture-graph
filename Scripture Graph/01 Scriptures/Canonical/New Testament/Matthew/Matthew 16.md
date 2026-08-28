@@ -70,4 +70,4 @@ cssclasses:
 **28** Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom. ^matt-16-28
 
 ---
-[[Matthew 15|← Matthew 15]] · [[Matthew 16 - Study Guide|Study guide]] · [[Matthew 16 - My Notes|My notes]] · [[Matthew]] · [[Matthew 17|Matthew 17 →]]
+[[Matthew 15|← Matthew 15]] · [[Matthew 16 (Annotated)|Annotated]] · [[Matthew 16 - Study Guide|Study guide]] · [[Matthew 16 - My Notes|My notes]] · [[Matthew]] · [[Matthew 17|Matthew 17 →]]

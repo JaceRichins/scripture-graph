@@ -72,4 +72,4 @@ cssclasses:
 **29** Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places. ^deut-33-29
 
 ---
-[[Deuteronomy 32|← Deuteronomy 32]] · [[Deuteronomy 33 - Study Guide|Study guide]] · [[Deuteronomy 33 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 34|Deuteronomy 34 →]]
+[[Deuteronomy 32|← Deuteronomy 32]] · [[Deuteronomy 33 (Annotated)|Annotated]] · [[Deuteronomy 33 - Study Guide|Study guide]] · [[Deuteronomy 33 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 34|Deuteronomy 34 →]]

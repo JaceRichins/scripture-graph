@@ -156,4 +156,4 @@ cssclasses:
 **71** And they said, What need we any further witness? for we ourselves have heard of his own mouth. ^luke-22-71
 
 ---
-[[Luke 21|← Luke 21]] · [[Luke 22 - Study Guide|Study guide]] · [[Luke 22 - My Notes|My notes]] · [[Luke]] · [[Luke 23|Luke 23 →]]
+[[Luke 21|← Luke 21]] · [[Luke 22 (Annotated)|Annotated]] · [[Luke 22 - Study Guide|Study guide]] · [[Luke 22 - My Notes|My notes]] · [[Luke]] · [[Luke 23|Luke 23 →]]

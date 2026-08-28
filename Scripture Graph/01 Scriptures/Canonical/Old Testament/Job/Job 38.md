@@ -96,4 +96,4 @@ cssclasses:
 **41** Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat. ^job-38-41
 
 ---
-[[Job 37|← Job 37]] · [[Job 38 - Study Guide|Study guide]] · [[Job 38 - My Notes|My notes]] · [[Job]] · [[Job 39|Job 39 →]]
+[[Job 37|← Job 37]] · [[Job 38 (Annotated)|Annotated]] · [[Job 38 - Study Guide|Study guide]] · [[Job 38 - My Notes|My notes]] · [[Job]] · [[Job 39|Job 39 →]]

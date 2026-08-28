@@ -52,4 +52,4 @@ cssclasses:
 **19** Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. ^1pet-4-19
 
 ---
-[[1 Peter 3|← 1 Peter 3]] · [[1 Peter 4 - Study Guide|Study guide]] · [[1 Peter 4 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 5|1 Peter 5 →]]
+[[1 Peter 3|← 1 Peter 3]] · [[1 Peter 4 (Annotated)|Annotated]] · [[1 Peter 4 - Study Guide|Study guide]] · [[1 Peter 4 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 5|1 Peter 5 →]]

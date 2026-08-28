@@ -84,4 +84,4 @@ cssclasses:
 **35** Which were a grief of mind unto Isaac and to Rebekah. ^gen-26-35
 
 ---
-[[Genesis 25|← Genesis 25]] · [[Genesis 26 - Study Guide|Study guide]] · [[Genesis 26 - My Notes|My notes]] · [[Genesis]] · [[Genesis 27|Genesis 27 →]]
+[[Genesis 25|← Genesis 25]] · [[Genesis 26 (Annotated)|Annotated]] · [[Genesis 26 - Study Guide|Study guide]] · [[Genesis 26 - My Notes|My notes]] · [[Genesis]] · [[Genesis 27|Genesis 27 →]]

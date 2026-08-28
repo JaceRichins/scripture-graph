@@ -68,4 +68,4 @@ cssclasses:
 **27** Lo this, we have searched it, so it is; hear it, and know thou it for thy good. ^job-5-27
 
 ---
-[[Job 4|← Job 4]] · [[Job 5 - Study Guide|Study guide]] · [[Job 5 - My Notes|My notes]] · [[Job]] · [[Job 6|Job 6 →]]
+[[Job 4|← Job 4]] · [[Job 5 (Annotated)|Annotated]] · [[Job 5 - Study Guide|Study guide]] · [[Job 5 - My Notes|My notes]] · [[Job]] · [[Job 6|Job 6 →]]

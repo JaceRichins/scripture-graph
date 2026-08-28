@@ -98,4 +98,4 @@ cssclasses:
 **42** O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant. ^2chr-6-42
 
 ---
-[[2 Chronicles 5|← 2 Chronicles 5]] · [[2 Chronicles 6 - Study Guide|Study guide]] · [[2 Chronicles 6 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 7|2 Chronicles 7 →]]
+[[2 Chronicles 5|← 2 Chronicles 5]] · [[2 Chronicles 6 (Annotated)|Annotated]] · [[2 Chronicles 6 - Study Guide|Study guide]] · [[2 Chronicles 6 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 7|2 Chronicles 7 →]]

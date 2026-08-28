@@ -70,4 +70,4 @@ cssclasses:
 **28** In the way of righteousness is life; and in the pathway thereof there is no death. ^prov-12-28
 
 ---
-[[Proverbs 11|← Proverbs 11]] · [[Proverbs 12 - Study Guide|Study guide]] · [[Proverbs 12 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 13|Proverbs 13 →]]
+[[Proverbs 11|← Proverbs 11]] · [[Proverbs 12 (Annotated)|Annotated]] · [[Proverbs 12 - Study Guide|Study guide]] · [[Proverbs 12 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 13|Proverbs 13 →]]

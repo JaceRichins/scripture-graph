@@ -52,4 +52,4 @@ cssclasses:
 **19** The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments. ^hab-3-19
 
 ---
-[[Habakkuk 2|← Habakkuk 2]] · [[Habakkuk 3 - Study Guide|Study guide]] · [[Habakkuk 3 - My Notes|My notes]] · [[Habakkuk]]
+[[Habakkuk 2|← Habakkuk 2]] · [[Habakkuk 3 (Annotated)|Annotated]] · [[Habakkuk 3 - Study Guide|Study guide]] · [[Habakkuk 3 - My Notes|My notes]] · [[Habakkuk]]

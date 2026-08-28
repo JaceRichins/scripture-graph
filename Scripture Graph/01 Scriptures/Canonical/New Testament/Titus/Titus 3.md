@@ -44,4 +44,4 @@ cssclasses:
 **15** All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen. ^titus-3-15
 
 ---
-[[Titus 2|← Titus 2]] · [[Titus 3 - Study Guide|Study guide]] · [[Titus 3 - My Notes|My notes]] · [[Titus]]
+[[Titus 2|← Titus 2]] · [[Titus 3 (Annotated)|Annotated]] · [[Titus 3 - Study Guide|Study guide]] · [[Titus 3 - My Notes|My notes]] · [[Titus]]

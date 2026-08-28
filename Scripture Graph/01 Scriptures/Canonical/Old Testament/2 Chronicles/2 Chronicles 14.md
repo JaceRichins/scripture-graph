@@ -44,4 +44,4 @@ cssclasses:
 **15** They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem. ^2chr-14-15
 
 ---
-[[2 Chronicles 13|← 2 Chronicles 13]] · [[2 Chronicles 14 - Study Guide|Study guide]] · [[2 Chronicles 14 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 15|2 Chronicles 15 →]]
+[[2 Chronicles 13|← 2 Chronicles 13]] · [[2 Chronicles 14 (Annotated)|Annotated]] · [[2 Chronicles 14 - Study Guide|Study guide]] · [[2 Chronicles 14 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 15|2 Chronicles 15 →]]

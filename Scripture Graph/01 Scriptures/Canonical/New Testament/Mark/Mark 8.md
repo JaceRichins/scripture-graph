@@ -90,4 +90,4 @@ cssclasses:
 **38** Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels. ^mark-8-38
 
 ---
-[[Mark 7|← Mark 7]] · [[Mark 8 - Study Guide|Study guide]] · [[Mark 8 - My Notes|My notes]] · [[Mark]] · [[Mark 9|Mark 9 →]]
+[[Mark 7|← Mark 7]] · [[Mark 8 (Annotated)|Annotated]] · [[Mark 8 - Study Guide|Study guide]] · [[Mark 8 - My Notes|My notes]] · [[Mark]] · [[Mark 9|Mark 9 →]]

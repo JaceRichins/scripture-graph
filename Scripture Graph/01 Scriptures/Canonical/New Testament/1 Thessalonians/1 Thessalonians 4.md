@@ -50,4 +50,4 @@ cssclasses:
 **18** Wherefore comfort one another with these words. ^1thes-4-18
 
 ---
-[[1 Thessalonians 3|← 1 Thessalonians 3]] · [[1 Thessalonians 4 - Study Guide|Study guide]] · [[1 Thessalonians 4 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 5|1 Thessalonians 5 →]]
+[[1 Thessalonians 3|← 1 Thessalonians 3]] · [[1 Thessalonians 4 (Annotated)|Annotated]] · [[1 Thessalonians 4 - Study Guide|Study guide]] · [[1 Thessalonians 4 - My Notes|My notes]] · [[1 Thessalonians]] · [[1 Thessalonians 5|1 Thessalonians 5 →]]

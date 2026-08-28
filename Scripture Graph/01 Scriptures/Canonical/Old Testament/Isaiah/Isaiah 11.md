@@ -46,4 +46,4 @@ cssclasses:
 **16** And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt. ^isa-11-16
 
 ---
-[[Isaiah 10|← Isaiah 10]] · [[Isaiah 11 - Study Guide|Study guide]] · [[Isaiah 11 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 12|Isaiah 12 →]]
+[[Isaiah 10|← Isaiah 10]] · [[Isaiah 11 (Annotated)|Annotated]] · [[Isaiah 11 - Study Guide|Study guide]] · [[Isaiah 11 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 12|Isaiah 12 →]]

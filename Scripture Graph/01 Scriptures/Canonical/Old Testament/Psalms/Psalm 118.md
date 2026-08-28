@@ -74,4 +74,4 @@ aliases:
 **29** O give thanks unto the LORD; for he is good: for his mercy endureth for ever. ^ps-118-29
 
 ---
-[[Psalm 117|← Psalm 117]] · [[Psalm 118 - Study Guide|Study guide]] · [[Psalm 118 - My Notes|My notes]] · [[Psalms]] · [[Psalm 119|Psalm 119 →]]
+[[Psalm 117|← Psalm 117]] · [[Psalm 118 (Annotated)|Annotated]] · [[Psalm 118 - Study Guide|Study guide]] · [[Psalm 118 - My Notes|My notes]] · [[Psalms]] · [[Psalm 119|Psalm 119 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** And inquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse. ^1chr-10-14
 
 ---
-[[1 Chronicles 9|← 1 Chronicles 9]] · [[1 Chronicles 10 - Study Guide|Study guide]] · [[1 Chronicles 10 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 11|1 Chronicles 11 →]]
+[[1 Chronicles 9|← 1 Chronicles 9]] · [[1 Chronicles 10 (Annotated)|Annotated]] · [[1 Chronicles 10 - Study Guide|Study guide]] · [[1 Chronicles 10 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 11|1 Chronicles 11 →]]

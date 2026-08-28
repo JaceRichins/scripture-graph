@@ -76,4 +76,4 @@ cssclasses:
 **31** My harp also is turned to mourning, and my organ into the voice of them that weep. ^job-30-31
 
 ---
-[[Job 29|← Job 29]] · [[Job 30 - Study Guide|Study guide]] · [[Job 30 - My Notes|My notes]] · [[Job]] · [[Job 31|Job 31 →]]
+[[Job 29|← Job 29]] · [[Job 30 (Annotated)|Annotated]] · [[Job 30 - Study Guide|Study guide]] · [[Job 30 - My Notes|My notes]] · [[Job]] · [[Job 31|Job 31 →]]

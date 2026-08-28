@@ -156,4 +156,4 @@ cssclasses:
 **71** He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve. ^john-6-71
 
 ---
-[[John 5|← John 5]] · [[John 6 - Study Guide|Study guide]] · [[John 6 - My Notes|My notes]] · [[John]] · [[John 7|John 7 →]]
+[[John 5|← John 5]] · [[John 6 (Annotated)|Annotated]] · [[John 6 - Study Guide|Study guide]] · [[John 6 - My Notes|My notes]] · [[John]] · [[John 7|John 7 →]]

@@ -58,4 +58,4 @@ cssclasses:
 **22** In whom ye also are builded together for an habitation of God through the Spirit. ^eph-2-22
 
 ---
-[[Ephesians 1|← Ephesians 1]] · [[Ephesians 2 - Study Guide|Study guide]] · [[Ephesians 2 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 3|Ephesians 3 →]]
+[[Ephesians 1|← Ephesians 1]] · [[Ephesians 2 (Annotated)|Annotated]] · [[Ephesians 2 - Study Guide|Study guide]] · [[Ephesians 2 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 3|Ephesians 3 →]]

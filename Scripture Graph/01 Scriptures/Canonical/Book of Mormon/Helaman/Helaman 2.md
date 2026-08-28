@@ -42,4 +42,4 @@ cssclasses:
 **14** Behold I do not mean the end of the book of Helaman, but I mean the end of the book of Nephi, from which I have taken all the account which I have written. ^hel-2-14
 
 ---
-[[Helaman 1|← Helaman 1]] · [[Helaman 2 - Study Guide|Study guide]] · [[Helaman 2 - My Notes|My notes]] · [[Helaman]] · [[Helaman 3|Helaman 3 →]]
+[[Helaman 1|← Helaman 1]] · [[Helaman 2 (Annotated)|Annotated]] · [[Helaman 2 - Study Guide|Study guide]] · [[Helaman 2 - My Notes|My notes]] · [[Helaman]] · [[Helaman 3|Helaman 3 →]]

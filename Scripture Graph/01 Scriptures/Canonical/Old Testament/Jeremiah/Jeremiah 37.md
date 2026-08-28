@@ -56,4 +56,4 @@ cssclasses:
 **21** Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers' street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison. ^jer-37-21
 
 ---
-[[Jeremiah 36|← Jeremiah 36]] · [[Jeremiah 37 - Study Guide|Study guide]] · [[Jeremiah 37 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 38|Jeremiah 38 →]]
+[[Jeremiah 36|← Jeremiah 36]] · [[Jeremiah 37 (Annotated)|Annotated]] · [[Jeremiah 37 - Study Guide|Study guide]] · [[Jeremiah 37 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 38|Jeremiah 38 →]]

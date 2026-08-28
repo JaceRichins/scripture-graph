@@ -76,4 +76,4 @@ cssclasses:
 **31** For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers. ^jer-4-31
 
 ---
-[[Jeremiah 3|← Jeremiah 3]] · [[Jeremiah 4 - Study Guide|Study guide]] · [[Jeremiah 4 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 5|Jeremiah 5 →]]
+[[Jeremiah 3|← Jeremiah 3]] · [[Jeremiah 4 (Annotated)|Annotated]] · [[Jeremiah 4 - Study Guide|Study guide]] · [[Jeremiah 4 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 5|Jeremiah 5 →]]

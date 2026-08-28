@@ -100,4 +100,4 @@ cssclasses:
 **43** And it came to pass, that he tarried many days in Joppa with one Simon a tanner. ^acts-9-43
 
 ---
-[[Acts 8|← Acts 8]] · [[Acts 9 - Study Guide|Study guide]] · [[Acts 9 - My Notes|My notes]] · [[Acts]] · [[Acts 10|Acts 10 →]]
+[[Acts 8|← Acts 8]] · [[Acts 9 (Annotated)|Annotated]] · [[Acts 9 - Study Guide|Study guide]] · [[Acts 9 - My Notes|My notes]] · [[Acts]] · [[Acts 10|Acts 10 →]]

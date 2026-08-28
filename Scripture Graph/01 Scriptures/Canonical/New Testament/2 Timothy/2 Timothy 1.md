@@ -50,4 +50,4 @@ cssclasses:
 **18** The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well. ^2tim-1-18
 
 ---
-[[2 Timothy 1 - Study Guide|Study guide]] · [[2 Timothy 1 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 2|2 Timothy 2 →]]
+[[2 Timothy 1 (Annotated)|Annotated]] · [[2 Timothy 1 - Study Guide|Study guide]] · [[2 Timothy 1 - My Notes|My notes]] · [[2 Timothy]] · [[2 Timothy 2|2 Timothy 2 →]]

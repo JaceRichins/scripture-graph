@@ -138,4 +138,4 @@ cssclasses:
 **62** I speak by way of command unto you that belong to the church; and unto those who do not belong to the church I speak by way of invitation, saying: Come and be baptized unto repentance, that ye also may be partakers of the fruit of the tree of life. ^alma-5-62
 
 ---
-[[Alma 4|← Alma 4]] · [[Alma 5 - Study Guide|Study guide]] · [[Alma 5 - My Notes|My notes]] · [[Alma]] · [[Alma 6|Alma 6 →]]
+[[Alma 4|← Alma 4]] · [[Alma 5 (Annotated)|Annotated]] · [[Alma 5 - Study Guide|Study guide]] · [[Alma 5 - My Notes|My notes]] · [[Alma]] · [[Alma 6|Alma 6 →]]

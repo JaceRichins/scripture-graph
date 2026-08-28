@@ -38,4 +38,4 @@ aliases:
 **11** Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. ^ps-16-11
 
 ---
-[[Psalm 15|← Psalm 15]] · [[Psalm 16 - Study Guide|Study guide]] · [[Psalm 16 - My Notes|My notes]] · [[Psalms]] · [[Psalm 17|Psalm 17 →]]
+[[Psalm 15|← Psalm 15]] · [[Psalm 16 (Annotated)|Annotated]] · [[Psalm 16 - Study Guide|Study guide]] · [[Psalm 16 - My Notes|My notes]] · [[Psalms]] · [[Psalm 17|Psalm 17 →]]

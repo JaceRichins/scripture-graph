@@ -56,4 +56,4 @@ cssclasses:
 **21** Manasseh, Ephraim; and Ephraim, Manasseh; they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still. ^2ne-19-21
 
 ---
-[[2 Nephi 18|← 2 Nephi 18]] · [[2 Nephi 19 - Study Guide|Study guide]] · [[2 Nephi 19 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 20|2 Nephi 20 →]]
+[[2 Nephi 18|← 2 Nephi 18]] · [[2 Nephi 19 (Annotated)|Annotated]] · [[2 Nephi 19 - Study Guide|Study guide]] · [[2 Nephi 19 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 20|2 Nephi 20 →]]

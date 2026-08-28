@@ -74,4 +74,4 @@ cssclasses:
 **30** Thus saith the LORD, Write ye this man childless, a man that shall not prosper in his days: for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah. ^jer-22-30
 
 ---
-[[Jeremiah 21|← Jeremiah 21]] · [[Jeremiah 22 - Study Guide|Study guide]] · [[Jeremiah 22 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 23|Jeremiah 23 →]]
+[[Jeremiah 21|← Jeremiah 21]] · [[Jeremiah 22 (Annotated)|Annotated]] · [[Jeremiah 22 - Study Guide|Study guide]] · [[Jeremiah 22 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 23|Jeremiah 23 →]]

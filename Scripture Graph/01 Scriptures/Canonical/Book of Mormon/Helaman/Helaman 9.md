@@ -96,4 +96,4 @@ cssclasses:
 **41** And there were others who said: Behold, he is a god, for except he was a god he could not know of all things. For behold, he has told us the thoughts of our hearts, and also has told us things; and even he has brought unto our knowledge the true murderer of our chief judge. ^hel-9-41
 
 ---
-[[Helaman 8|← Helaman 8]] · [[Helaman 9 - Study Guide|Study guide]] · [[Helaman 9 - My Notes|My notes]] · [[Helaman]] · [[Helaman 10|Helaman 10 →]]
+[[Helaman 8|← Helaman 8]] · [[Helaman 9 (Annotated)|Annotated]] · [[Helaman 9 - Study Guide|Study guide]] · [[Helaman 9 - My Notes|My notes]] · [[Helaman]] · [[Helaman 10|Helaman 10 →]]

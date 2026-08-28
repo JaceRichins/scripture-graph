@@ -36,4 +36,4 @@ cssclasses:
 **11** All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem. ^ezra-1-11
 
 ---
-[[Ezra 1 - Study Guide|Study guide]] · [[Ezra 1 - My Notes|My notes]] · [[Ezra]] · [[Ezra 2|Ezra 2 →]]
+[[Ezra 1 (Annotated)|Annotated]] · [[Ezra 1 - Study Guide|Study guide]] · [[Ezra 1 - My Notes|My notes]] · [[Ezra]] · [[Ezra 2|Ezra 2 →]]

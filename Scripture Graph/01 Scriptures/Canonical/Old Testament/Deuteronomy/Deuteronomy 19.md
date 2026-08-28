@@ -56,4 +56,4 @@ cssclasses:
 **21** And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot. ^deut-19-21
 
 ---
-[[Deuteronomy 18|← Deuteronomy 18]] · [[Deuteronomy 19 - Study Guide|Study guide]] · [[Deuteronomy 19 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 20|Deuteronomy 20 →]]
+[[Deuteronomy 18|← Deuteronomy 18]] · [[Deuteronomy 19 (Annotated)|Annotated]] · [[Deuteronomy 19 - Study Guide|Study guide]] · [[Deuteronomy 19 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 20|Deuteronomy 20 →]]

@@ -32,4 +32,4 @@ aliases:
 **8** Arise, O God, judge the earth: for thou shalt inherit all nations. ^ps-82-8
 
 ---
-[[Psalm 81|← Psalm 81]] · [[Psalm 82 - Study Guide|Study guide]] · [[Psalm 82 - My Notes|My notes]] · [[Psalms]] · [[Psalm 83|Psalm 83 →]]
+[[Psalm 81|← Psalm 81]] · [[Psalm 82 (Annotated)|Annotated]] · [[Psalm 82 - Study Guide|Study guide]] · [[Psalm 82 - My Notes|My notes]] · [[Psalms]] · [[Psalm 83|Psalm 83 →]]

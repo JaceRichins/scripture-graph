@@ -100,4 +100,4 @@ cssclasses:
 **43** Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites. ^gen-36-43
 
 ---
-[[Genesis 35|← Genesis 35]] · [[Genesis 36 - Study Guide|Study guide]] · [[Genesis 36 - My Notes|My notes]] · [[Genesis]] · [[Genesis 37|Genesis 37 →]]
+[[Genesis 35|← Genesis 35]] · [[Genesis 36 (Annotated)|Annotated]] · [[Genesis 36 - Study Guide|Study guide]] · [[Genesis 36 - My Notes|My notes]] · [[Genesis]] · [[Genesis 37|Genesis 37 →]]

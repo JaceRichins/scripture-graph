@@ -66,4 +66,4 @@ cssclasses:
 **26** And then shall they know their Redeemer, who is Jesus Christ, the Son of God; and then shall they be gathered in from the four quarters of the earth unto their own lands, from whence they have been dispersed; yea, as the Lord liveth so shall it be. Amen. ^3ne-5-26
 
 ---
-[[3 Nephi 4|← 3 Nephi 4]] · [[3 Nephi 5 - Study Guide|Study guide]] · [[3 Nephi 5 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 6|3 Nephi 6 →]]
+[[3 Nephi 4|← 3 Nephi 4]] · [[3 Nephi 5 (Annotated)|Annotated]] · [[3 Nephi 5 - Study Guide|Study guide]] · [[3 Nephi 5 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 6|3 Nephi 6 →]]

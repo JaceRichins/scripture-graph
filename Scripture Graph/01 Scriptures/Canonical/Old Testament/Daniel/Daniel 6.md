@@ -70,4 +70,4 @@ cssclasses:
 **28** So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian. ^dan-6-28
 
 ---
-[[Daniel 5|← Daniel 5]] · [[Daniel 6 - Study Guide|Study guide]] · [[Daniel 6 - My Notes|My notes]] · [[Daniel]] · [[Daniel 7|Daniel 7 →]]
+[[Daniel 5|← Daniel 5]] · [[Daniel 6 (Annotated)|Annotated]] · [[Daniel 6 - Study Guide|Study guide]] · [[Daniel 6 - My Notes|My notes]] · [[Daniel]] · [[Daniel 7|Daniel 7 →]]

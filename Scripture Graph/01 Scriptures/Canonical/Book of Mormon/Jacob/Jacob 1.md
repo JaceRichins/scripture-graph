@@ -52,4 +52,4 @@ cssclasses:
 **19** And we did magnify our office unto the Lord, taking upon us the responsibility, answering the sins of the people upon our own heads if we did not teach them the word of God with all diligence; wherefore, by laboring with our might their blood might not come upon our garments; otherwise their blood would come upon our garments, and we would not be found spotless at the last day. ^jacob-1-19
 
 ---
-[[Jacob 1 - Study Guide|Study guide]] · [[Jacob 1 - My Notes|My notes]] · [[Jacob]] · [[Jacob 2|Jacob 2 →]]
+[[Jacob 1 (Annotated)|Annotated]] · [[Jacob 1 - Study Guide|Study guide]] · [[Jacob 1 - My Notes|My notes]] · [[Jacob]] · [[Jacob 2|Jacob 2 →]]

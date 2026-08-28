@@ -48,4 +48,4 @@ cssclasses:
 **17** Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it. ^eccl-8-17
 
 ---
-[[Ecclesiastes 7|← Ecclesiastes 7]] · [[Ecclesiastes 8 - Study Guide|Study guide]] · [[Ecclesiastes 8 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 9|Ecclesiastes 9 →]]
+[[Ecclesiastes 7|← Ecclesiastes 7]] · [[Ecclesiastes 8 (Annotated)|Annotated]] · [[Ecclesiastes 8 - Study Guide|Study guide]] · [[Ecclesiastes 8 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 9|Ecclesiastes 9 →]]

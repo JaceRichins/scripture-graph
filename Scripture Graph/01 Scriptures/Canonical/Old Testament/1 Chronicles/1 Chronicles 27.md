@@ -82,4 +82,4 @@ cssclasses:
 **34** And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab. ^1chr-27-34
 
 ---
-[[1 Chronicles 26|← 1 Chronicles 26]] · [[1 Chronicles 27 - Study Guide|Study guide]] · [[1 Chronicles 27 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 28|1 Chronicles 28 →]]
+[[1 Chronicles 26|← 1 Chronicles 26]] · [[1 Chronicles 27 (Annotated)|Annotated]] · [[1 Chronicles 27 - Study Guide|Study guide]] · [[1 Chronicles 27 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 28|1 Chronicles 28 →]]

@@ -28,4 +28,4 @@ aliases:
 **6** Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. ^ps-53-6
 
 ---
-[[Psalm 52|← Psalm 52]] · [[Psalm 53 - Study Guide|Study guide]] · [[Psalm 53 - My Notes|My notes]] · [[Psalms]] · [[Psalm 54|Psalm 54 →]]
+[[Psalm 52|← Psalm 52]] · [[Psalm 53 (Annotated)|Annotated]] · [[Psalm 53 - Study Guide|Study guide]] · [[Psalm 53 - My Notes|My notes]] · [[Psalms]] · [[Psalm 54|Psalm 54 →]]

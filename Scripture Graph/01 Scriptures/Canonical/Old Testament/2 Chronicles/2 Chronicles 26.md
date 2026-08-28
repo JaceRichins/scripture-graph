@@ -60,4 +60,4 @@ cssclasses:
 **23** So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead. ^2chr-26-23
 
 ---
-[[2 Chronicles 25|← 2 Chronicles 25]] · [[2 Chronicles 26 - Study Guide|Study guide]] · [[2 Chronicles 26 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 27|2 Chronicles 27 →]]
+[[2 Chronicles 25|← 2 Chronicles 25]] · [[2 Chronicles 26 (Annotated)|Annotated]] · [[2 Chronicles 26 - Study Guide|Study guide]] · [[2 Chronicles 26 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 27|2 Chronicles 27 →]]

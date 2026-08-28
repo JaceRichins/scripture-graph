@@ -76,4 +76,4 @@ cssclasses:
 **31** And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped. ^ex-4-31
 
 ---
-[[Exodus 3|← Exodus 3]] · [[Exodus 4 - Study Guide|Study guide]] · [[Exodus 4 - My Notes|My notes]] · [[Exodus]] · [[Exodus 5|Exodus 5 →]]
+[[Exodus 3|← Exodus 3]] · [[Exodus 4 (Annotated)|Annotated]] · [[Exodus 4 - Study Guide|Study guide]] · [[Exodus 4 - My Notes|My notes]] · [[Exodus]] · [[Exodus 5|Exodus 5 →]]

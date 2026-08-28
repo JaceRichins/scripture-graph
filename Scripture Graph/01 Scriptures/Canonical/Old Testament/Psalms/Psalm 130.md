@@ -32,4 +32,4 @@ aliases:
 **8** And he shall redeem Israel from all his iniquities. ^ps-130-8
 
 ---
-[[Psalm 129|← Psalm 129]] · [[Psalm 130 - Study Guide|Study guide]] · [[Psalm 130 - My Notes|My notes]] · [[Psalms]] · [[Psalm 131|Psalm 131 →]]
+[[Psalm 129|← Psalm 129]] · [[Psalm 130 (Annotated)|Annotated]] · [[Psalm 130 - Study Guide|Study guide]] · [[Psalm 130 - My Notes|My notes]] · [[Psalms]] · [[Psalm 131|Psalm 131 →]]

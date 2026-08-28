@@ -40,4 +40,4 @@ cssclasses:
 **13** So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great. ^job-2-13
 
 ---
-[[Job 1|← Job 1]] · [[Job 2 - Study Guide|Study guide]] · [[Job 2 - My Notes|My notes]] · [[Job]] · [[Job 3|Job 3 →]]
+[[Job 1|← Job 1]] · [[Job 2 (Annotated)|Annotated]] · [[Job 2 - Study Guide|Study guide]] · [[Job 2 - My Notes|My notes]] · [[Job]] · [[Job 3|Job 3 →]]

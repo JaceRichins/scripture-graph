@@ -46,4 +46,4 @@ cssclasses:
 **16** They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate. ^titus-1-16
 
 ---
-[[Titus 1 - Study Guide|Study guide]] · [[Titus 1 - My Notes|My notes]] · [[Titus]] · [[Titus 2|Titus 2 →]]
+[[Titus 1 (Annotated)|Annotated]] · [[Titus 1 - Study Guide|Study guide]] · [[Titus 1 - My Notes|My notes]] · [[Titus]] · [[Titus 2|Titus 2 →]]

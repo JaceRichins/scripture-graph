@@ -56,4 +56,4 @@ cssclasses:
 **21** And now after the church had been established throughout all the land—having got the victory over the devil, and the word of God being preached in its purity in all the land, and the Lord pouring out his blessings upon the people—thus ended the fourteenth year of the reign of the judges over the people of Nephi. ^alma-16-21
 
 ---
-[[Alma 15|← Alma 15]] · [[Alma 16 - Study Guide|Study guide]] · [[Alma 16 - My Notes|My notes]] · [[Alma]] · [[Alma 17|Alma 17 →]]
+[[Alma 15|← Alma 15]] · [[Alma 16 (Annotated)|Annotated]] · [[Alma 16 - Study Guide|Study guide]] · [[Alma 16 - My Notes|My notes]] · [[Alma]] · [[Alma 17|Alma 17 →]]

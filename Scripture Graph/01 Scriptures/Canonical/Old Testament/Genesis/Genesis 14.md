@@ -62,4 +62,4 @@ cssclasses:
 **24** Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion. ^gen-14-24
 
 ---
-[[Genesis 13|← Genesis 13]] · [[Genesis 14 - Study Guide|Study guide]] · [[Genesis 14 - My Notes|My notes]] · [[Genesis]] · [[Genesis 15|Genesis 15 →]]
+[[Genesis 13|← Genesis 13]] · [[Genesis 14 (Annotated)|Annotated]] · [[Genesis 14 - Study Guide|Study guide]] · [[Genesis 14 - My Notes|My notes]] · [[Genesis]] · [[Genesis 15|Genesis 15 →]]

@@ -76,4 +76,4 @@ cssclasses:
 **31** And I, God, saw everything that I had made, and, behold, all things which I had made were very good; and the evening and the morning were the sixth day. ^moses-2-31
 
 ---
-[[Moses 1|← Moses 1]] · [[Moses 2 - Study Guide|Study guide]] · [[Moses 2 - My Notes|My notes]] · [[Moses]] · [[Moses 3|Moses 3 →]]
+[[Moses 1|← Moses 1]] · [[Moses 2 (Annotated)|Annotated]] · [[Moses 2 - Study Guide|Study guide]] · [[Moses 2 - My Notes|My notes]] · [[Moses]] · [[Moses 3|Moses 3 →]]

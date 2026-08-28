@@ -30,4 +30,4 @@ aliases:
 **7** God shall bless us; and all the ends of the earth shall fear him. ^ps-67-7
 
 ---
-[[Psalm 66|← Psalm 66]] · [[Psalm 67 - Study Guide|Study guide]] · [[Psalm 67 - My Notes|My notes]] · [[Psalms]] · [[Psalm 68|Psalm 68 →]]
+[[Psalm 66|← Psalm 66]] · [[Psalm 67 (Annotated)|Annotated]] · [[Psalm 67 - Study Guide|Study guide]] · [[Psalm 67 - My Notes|My notes]] · [[Psalms]] · [[Psalm 68|Psalm 68 →]]

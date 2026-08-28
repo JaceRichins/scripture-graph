@@ -70,4 +70,4 @@ cssclasses:
 **28** And the second was angry, and kept not his first estate; and, at that day, many followed after him. ^abr-3-28
 
 ---
-[[Abraham 2|← Abraham 2]] · [[Abraham 3 - Study Guide|Study guide]] · [[Abraham 3 - My Notes|My notes]] · [[Abraham]] · [[Abraham 4|Abraham 4 →]]
+[[Abraham 2|← Abraham 2]] · [[Abraham 3 (Annotated)|Annotated]] · [[Abraham 3 - Study Guide|Study guide]] · [[Abraham 3 - My Notes|My notes]] · [[Abraham]] · [[Abraham 4|Abraham 4 →]]

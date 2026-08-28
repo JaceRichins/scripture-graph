@@ -60,4 +60,4 @@ cssclasses:
 **23** For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. ^rom-6-23
 
 ---
-[[Romans 5|← Romans 5]] · [[Romans 6 - Study Guide|Study guide]] · [[Romans 6 - My Notes|My notes]] · [[Romans]] · [[Romans 7|Romans 7 →]]
+[[Romans 5|← Romans 5]] · [[Romans 6 (Annotated)|Annotated]] · [[Romans 6 - Study Guide|Study guide]] · [[Romans 6 - My Notes|My notes]] · [[Romans]] · [[Romans 7|Romans 7 →]]

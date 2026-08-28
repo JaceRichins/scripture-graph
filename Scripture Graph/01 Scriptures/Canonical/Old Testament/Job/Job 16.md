@@ -58,4 +58,4 @@ cssclasses:
 **22** When a few years are come, then I shall go the way whence I shall not return. ^job-16-22
 
 ---
-[[Job 15|← Job 15]] · [[Job 16 - Study Guide|Study guide]] · [[Job 16 - My Notes|My notes]] · [[Job]] · [[Job 17|Job 17 →]]
+[[Job 15|← Job 15]] · [[Job 16 (Annotated)|Annotated]] · [[Job 16 - Study Guide|Study guide]] · [[Job 16 - My Notes|My notes]] · [[Job]] · [[Job 17|Job 17 →]]

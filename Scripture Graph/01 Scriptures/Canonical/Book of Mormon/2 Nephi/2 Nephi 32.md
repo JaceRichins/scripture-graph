@@ -32,4 +32,4 @@ cssclasses:
 **9** But behold, I say unto you that ye must pray always, and not faint; that ye must not perform any thing unto the Lord save in the first place ye shall pray unto the Father in the name of Christ, that he will consecrate thy performance unto thee, that thy performance may be for the welfare of thy soul. ^2ne-32-9
 
 ---
-[[2 Nephi 31|← 2 Nephi 31]] · [[2 Nephi 32 - Study Guide|Study guide]] · [[2 Nephi 32 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 33|2 Nephi 33 →]]
+[[2 Nephi 31|← 2 Nephi 31]] · [[2 Nephi 32 (Annotated)|Annotated]] · [[2 Nephi 32 - Study Guide|Study guide]] · [[2 Nephi 32 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 33|2 Nephi 33 →]]

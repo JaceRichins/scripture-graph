@@ -86,4 +86,4 @@ cssclasses:
 **36** And they delivered the king's commissions unto the king's lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God. ^ezra-8-36
 
 ---
-[[Ezra 7|← Ezra 7]] · [[Ezra 8 - Study Guide|Study guide]] · [[Ezra 8 - My Notes|My notes]] · [[Ezra]] · [[Ezra 9|Ezra 9 →]]
+[[Ezra 7|← Ezra 7]] · [[Ezra 8 (Annotated)|Annotated]] · [[Ezra 8 - Study Guide|Study guide]] · [[Ezra 8 - My Notes|My notes]] · [[Ezra]] · [[Ezra 9|Ezra 9 →]]

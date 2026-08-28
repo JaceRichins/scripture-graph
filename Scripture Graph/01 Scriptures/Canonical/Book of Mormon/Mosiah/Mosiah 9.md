@@ -52,4 +52,4 @@ cssclasses:
 **19** And I, myself, with mine own hands, did help to bury their dead. And behold, to our great sorrow and lamentation, two hundred and seventy-nine of our brethren were slain. ^mosiah-9-19
 
 ---
-[[Mosiah 8|← Mosiah 8]] · [[Mosiah 9 - Study Guide|Study guide]] · [[Mosiah 9 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 10|Mosiah 10 →]]
+[[Mosiah 8|← Mosiah 8]] · [[Mosiah 9 (Annotated)|Annotated]] · [[Mosiah 9 - Study Guide|Study guide]] · [[Mosiah 9 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 10|Mosiah 10 →]]

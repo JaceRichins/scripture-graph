@@ -40,4 +40,4 @@ cssclasses:
 **13** And now abideth faith, hope, charity, these three; but the greatest of these is charity. ^1cor-13-13
 
 ---
-[[1 Corinthians 12|← 1 Corinthians 12]] · [[1 Corinthians 13 - Study Guide|Study guide]] · [[1 Corinthians 13 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 14|1 Corinthians 14 →]]
+[[1 Corinthians 12|← 1 Corinthians 12]] · [[1 Corinthians 13 (Annotated)|Annotated]] · [[1 Corinthians 13 - Study Guide|Study guide]] · [[1 Corinthians 13 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 14|1 Corinthians 14 →]]

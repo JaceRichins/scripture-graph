@@ -62,4 +62,4 @@ cssclasses:
 **24** And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done it. ^ezek-17-24
 
 ---
-[[Ezekiel 16|← Ezekiel 16]] · [[Ezekiel 17 - Study Guide|Study guide]] · [[Ezekiel 17 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 18|Ezekiel 18 →]]
+[[Ezekiel 16|← Ezekiel 16]] · [[Ezekiel 17 (Annotated)|Annotated]] · [[Ezekiel 17 - Study Guide|Study guide]] · [[Ezekiel 17 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 18|Ezekiel 18 →]]

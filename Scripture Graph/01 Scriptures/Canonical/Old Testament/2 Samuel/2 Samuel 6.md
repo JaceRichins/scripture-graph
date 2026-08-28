@@ -60,4 +60,4 @@ cssclasses:
 **23** Therefore Michal the daughter of Saul had no child unto the day of her death. ^2sam-6-23
 
 ---
-[[2 Samuel 5|← 2 Samuel 5]] · [[2 Samuel 6 - Study Guide|Study guide]] · [[2 Samuel 6 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 7|2 Samuel 7 →]]
+[[2 Samuel 5|← 2 Samuel 5]] · [[2 Samuel 6 (Annotated)|Annotated]] · [[2 Samuel 6 - Study Guide|Study guide]] · [[2 Samuel 6 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 7|2 Samuel 7 →]]

@@ -58,4 +58,4 @@ aliases:
 **21** Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD. ^ps-135-21
 
 ---
-[[Psalm 134|← Psalm 134]] · [[Psalm 135 - Study Guide|Study guide]] · [[Psalm 135 - My Notes|My notes]] · [[Psalms]] · [[Psalm 136|Psalm 136 →]]
+[[Psalm 134|← Psalm 134]] · [[Psalm 135 (Annotated)|Annotated]] · [[Psalm 135 - Study Guide|Study guide]] · [[Psalm 135 - My Notes|My notes]] · [[Psalms]] · [[Psalm 136|Psalm 136 →]]

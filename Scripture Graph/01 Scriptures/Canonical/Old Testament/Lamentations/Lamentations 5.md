@@ -58,4 +58,4 @@ cssclasses:
 **22** But thou hast utterly rejected us; thou art very wroth against us. ^lam-5-22
 
 ---
-[[Lamentations 4|← Lamentations 4]] · [[Lamentations 5 - Study Guide|Study guide]] · [[Lamentations 5 - My Notes|My notes]] · [[Lamentations]]
+[[Lamentations 4|← Lamentations 4]] · [[Lamentations 5 (Annotated)|Annotated]] · [[Lamentations 5 - Study Guide|Study guide]] · [[Lamentations 5 - My Notes|My notes]] · [[Lamentations]]

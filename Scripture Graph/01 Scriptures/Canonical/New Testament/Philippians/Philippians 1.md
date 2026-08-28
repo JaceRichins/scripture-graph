@@ -74,4 +74,4 @@ cssclasses:
 **30** Having the same conflict which ye saw in me, and now hear to be in me. ^philip-1-30
 
 ---
-[[Philippians 1 - Study Guide|Study guide]] · [[Philippians 1 - My Notes|My notes]] · [[Philippians]] · [[Philippians 2|Philippians 2 →]]
+[[Philippians 1 (Annotated)|Annotated]] · [[Philippians 1 - Study Guide|Study guide]] · [[Philippians 1 - My Notes|My notes]] · [[Philippians]] · [[Philippians 2|Philippians 2 →]]

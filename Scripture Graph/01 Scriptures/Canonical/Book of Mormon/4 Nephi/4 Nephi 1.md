@@ -112,4 +112,4 @@ cssclasses:
 **49** And he did hide them up unto the Lord, that they might come again unto the remnant of the house of Jacob, according to the prophecies and the promises of the Lord. And thus is the end of the record of Ammaron. ^4ne-1-49
 
 ---
-[[4 Nephi 1 - Study Guide|Study guide]] · [[4 Nephi 1 - My Notes|My notes]] · [[4 Nephi]]
+[[4 Nephi 1 (Annotated)|Annotated]] · [[4 Nephi 1 - Study Guide|Study guide]] · [[4 Nephi 1 - My Notes|My notes]] · [[4 Nephi]]

@@ -26,4 +26,4 @@ aliases:
 **5** Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God. ^ps-43-5
 
 ---
-[[Psalm 42|← Psalm 42]] · [[Psalm 43 - Study Guide|Study guide]] · [[Psalm 43 - My Notes|My notes]] · [[Psalms]] · [[Psalm 44|Psalm 44 →]]
+[[Psalm 42|← Psalm 42]] · [[Psalm 43 (Annotated)|Annotated]] · [[Psalm 43 - Study Guide|Study guide]] · [[Psalm 43 - My Notes|My notes]] · [[Psalms]] · [[Psalm 44|Psalm 44 →]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. ^matt-2-23
 
 ---
-[[Matthew 1|← Matthew 1]] · [[Matthew 2 - Study Guide|Study guide]] · [[Matthew 2 - My Notes|My notes]] · [[Matthew]] · [[Matthew 3|Matthew 3 →]]
+[[Matthew 1|← Matthew 1]] · [[Matthew 2 (Annotated)|Annotated]] · [[Matthew 2 - Study Guide|Study guide]] · [[Matthew 2 - My Notes|My notes]] · [[Matthew]] · [[Matthew 3|Matthew 3 →]]

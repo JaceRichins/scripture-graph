@@ -62,4 +62,4 @@ cssclasses:
 **24** Grace be with all them that love our Lord Jesus Christ in sincerity. Amen. ^eph-6-24
 
 ---
-[[Ephesians 5|← Ephesians 5]] · [[Ephesians 6 - Study Guide|Study guide]] · [[Ephesians 6 - My Notes|My notes]] · [[Ephesians]]
+[[Ephesians 5|← Ephesians 5]] · [[Ephesians 6 (Annotated)|Annotated]] · [[Ephesians 6 - Study Guide|Study guide]] · [[Ephesians 6 - My Notes|My notes]] · [[Ephesians]]

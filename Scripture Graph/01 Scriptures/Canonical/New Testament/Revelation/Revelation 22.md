@@ -56,4 +56,4 @@ cssclasses:
 **21** The grace of our Lord Jesus Christ be with you all. Amen. ^rev-22-21
 
 ---
-[[Revelation 21|← Revelation 21]] · [[Revelation 22 - Study Guide|Study guide]] · [[Revelation 22 - My Notes|My notes]] · [[Revelation]]
+[[Revelation 21|← Revelation 21]] · [[Revelation 22 (Annotated)|Annotated]] · [[Revelation 22 - Study Guide|Study guide]] · [[Revelation 22 - My Notes|My notes]] · [[Revelation]]

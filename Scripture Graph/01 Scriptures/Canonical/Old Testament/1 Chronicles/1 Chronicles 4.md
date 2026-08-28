@@ -100,4 +100,4 @@ cssclasses:
 **43** And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day. ^1chr-4-43
 
 ---
-[[1 Chronicles 3|← 1 Chronicles 3]] · [[1 Chronicles 4 - Study Guide|Study guide]] · [[1 Chronicles 4 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 5|1 Chronicles 5 →]]
+[[1 Chronicles 3|← 1 Chronicles 3]] · [[1 Chronicles 4 (Annotated)|Annotated]] · [[1 Chronicles 4 - Study Guide|Study guide]] · [[1 Chronicles 4 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 5|1 Chronicles 5 →]]

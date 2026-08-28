@@ -56,4 +56,4 @@ cssclasses:
 **21** And now, behold, my beloved brethren, this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God. And now, behold, this is the doctrine of Christ, and the only and true doctrine of the Father, and of the Son, and of the Holy Ghost, which is one God, without end. Amen. ^2ne-31-21
 
 ---
-[[2 Nephi 30|← 2 Nephi 30]] · [[2 Nephi 31 - Study Guide|Study guide]] · [[2 Nephi 31 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 32|2 Nephi 32 →]]
+[[2 Nephi 30|← 2 Nephi 30]] · [[2 Nephi 31 (Annotated)|Annotated]] · [[2 Nephi 31 - Study Guide|Study guide]] · [[2 Nephi 31 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 32|2 Nephi 32 →]]

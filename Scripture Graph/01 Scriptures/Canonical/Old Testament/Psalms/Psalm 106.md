@@ -112,4 +112,4 @@ aliases:
 **48** Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD. ^ps-106-48
 
 ---
-[[Psalm 105|← Psalm 105]] · [[Psalm 106 - Study Guide|Study guide]] · [[Psalm 106 - My Notes|My notes]] · [[Psalms]] · [[Psalm 107|Psalm 107 →]]
+[[Psalm 105|← Psalm 105]] · [[Psalm 106 (Annotated)|Annotated]] · [[Psalm 106 - Study Guide|Study guide]] · [[Psalm 106 - My Notes|My notes]] · [[Psalms]] · [[Psalm 107|Psalm 107 →]]

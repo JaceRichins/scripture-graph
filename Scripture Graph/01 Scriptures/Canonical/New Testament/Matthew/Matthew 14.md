@@ -86,4 +86,4 @@ cssclasses:
 **36** And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole. ^matt-14-36
 
 ---
-[[Matthew 13|← Matthew 13]] · [[Matthew 14 - Study Guide|Study guide]] · [[Matthew 14 - My Notes|My notes]] · [[Matthew]] · [[Matthew 15|Matthew 15 →]]
+[[Matthew 13|← Matthew 13]] · [[Matthew 14 (Annotated)|Annotated]] · [[Matthew 14 - Study Guide|Study guide]] · [[Matthew 14 - My Notes|My notes]] · [[Matthew]] · [[Matthew 15|Matthew 15 →]]

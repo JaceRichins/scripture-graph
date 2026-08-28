@@ -62,4 +62,4 @@ cssclasses:
 **24** That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever. ^josh-4-24
 
 ---
-[[Joshua 3|← Joshua 3]] · [[Joshua 4 - Study Guide|Study guide]] · [[Joshua 4 - My Notes|My notes]] · [[Joshua]] · [[Joshua 5|Joshua 5 →]]
+[[Joshua 3|← Joshua 3]] · [[Joshua 4 (Annotated)|Annotated]] · [[Joshua 4 - Study Guide|Study guide]] · [[Joshua 4 - My Notes|My notes]] · [[Joshua]] · [[Joshua 5|Joshua 5 →]]

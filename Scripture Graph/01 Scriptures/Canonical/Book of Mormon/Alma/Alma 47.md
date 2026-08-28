@@ -86,4 +86,4 @@ cssclasses:
 **36** Now these dissenters, having the same instruction and the same information of the Nephites, yea, having been instructed in the same knowledge of the Lord, nevertheless, it is strange to relate, not long after their dissensions they became more hardened and impenitent, and more wild, wicked and ferocious than the Lamanites—drinking in with the traditions of the Lamanites; giving way to indolence, and all manner of lasciviousness; yea, entirely forgetting the Lord their God. ^alma-47-36
 
 ---
-[[Alma 46|← Alma 46]] · [[Alma 47 - Study Guide|Study guide]] · [[Alma 47 - My Notes|My notes]] · [[Alma]] · [[Alma 48|Alma 48 →]]
+[[Alma 46|← Alma 46]] · [[Alma 47 (Annotated)|Annotated]] · [[Alma 47 - Study Guide|Study guide]] · [[Alma 47 - My Notes|My notes]] · [[Alma]] · [[Alma 48|Alma 48 →]]

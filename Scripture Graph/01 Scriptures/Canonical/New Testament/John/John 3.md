@@ -86,4 +86,4 @@ cssclasses:
 **36** He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him. ^john-3-36
 
 ---
-[[John 2|← John 2]] · [[John 3 - Study Guide|Study guide]] · [[John 3 - My Notes|My notes]] · [[John]] · [[John 4|John 4 →]]
+[[John 2|← John 2]] · [[John 3 (Annotated)|Annotated]] · [[John 3 - Study Guide|Study guide]] · [[John 3 - My Notes|My notes]] · [[John]] · [[John 4|John 4 →]]

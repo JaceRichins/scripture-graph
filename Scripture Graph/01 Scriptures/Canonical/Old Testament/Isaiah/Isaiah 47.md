@@ -44,4 +44,4 @@ cssclasses:
 **15** Thus shall they be unto thee with whom thou hast laboured, even thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee. ^isa-47-15
 
 ---
-[[Isaiah 46|← Isaiah 46]] · [[Isaiah 47 - Study Guide|Study guide]] · [[Isaiah 47 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 48|Isaiah 48 →]]
+[[Isaiah 46|← Isaiah 46]] · [[Isaiah 47 (Annotated)|Annotated]] · [[Isaiah 47 - Study Guide|Study guide]] · [[Isaiah 47 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 48|Isaiah 48 →]]

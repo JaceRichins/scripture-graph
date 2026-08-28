@@ -127,7 +127,8 @@ def run_nightly(ctx: Ctx) -> dict:
         # refresh every stale deterministic pass (no-ops when current):
         # corpus growth re-opens them via corpus versioning, nightly closes them
         for det in ("parallels", "embed", "semantic", "entities", "citations",
-                    "topics", "conference", "history", "synthesis", "topic-synthesis"):
+                    "topics", "conference", "history", "synthesis", "annotate",
+                    "topic-synthesis"):
             enqueue_wave(ctx, det)
         budget = _ai_budget(ctx, "nightly_ai_jobs")
         stats["ai_budget"] = budget

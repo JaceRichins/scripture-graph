@@ -58,4 +58,4 @@ cssclasses:
 **22** And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces; and her time is near to come, and her day shall not be prolonged. For I will destroy her speedily; yea, for I will be merciful unto my people, but the wicked shall perish. ^2ne-23-22
 
 ---
-[[2 Nephi 22|← 2 Nephi 22]] · [[2 Nephi 23 - Study Guide|Study guide]] · [[2 Nephi 23 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 24|2 Nephi 24 →]]
+[[2 Nephi 22|← 2 Nephi 22]] · [[2 Nephi 23 (Annotated)|Annotated]] · [[2 Nephi 23 - Study Guide|Study guide]] · [[2 Nephi 23 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 24|2 Nephi 24 →]]

@@ -76,4 +76,4 @@ cssclasses:
 **31** Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner. ^prov-11-31
 
 ---
-[[Proverbs 10|← Proverbs 10]] · [[Proverbs 11 - Study Guide|Study guide]] · [[Proverbs 11 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 12|Proverbs 12 →]]
+[[Proverbs 10|← Proverbs 10]] · [[Proverbs 11 (Annotated)|Annotated]] · [[Proverbs 11 - Study Guide|Study guide]] · [[Proverbs 11 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 12|Proverbs 12 →]]

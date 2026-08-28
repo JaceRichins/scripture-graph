@@ -26,4 +26,4 @@ cssclasses:
 **6** And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse. ^mal-4-6
 
 ---
-[[Malachi 3|← Malachi 3]] · [[Malachi 4 - Study Guide|Study guide]] · [[Malachi 4 - My Notes|My notes]] · [[Malachi]]
+[[Malachi 3|← Malachi 3]] · [[Malachi 4 (Annotated)|Annotated]] · [[Malachi 4 - Study Guide|Study guide]] · [[Malachi 4 - My Notes|My notes]] · [[Malachi]]

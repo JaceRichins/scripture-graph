@@ -154,4 +154,4 @@ cssclasses:
 **70** So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities. ^ezra-2-70
 
 ---
-[[Ezra 1|← Ezra 1]] · [[Ezra 2 - Study Guide|Study guide]] · [[Ezra 2 - My Notes|My notes]] · [[Ezra]] · [[Ezra 3|Ezra 3 →]]
+[[Ezra 1|← Ezra 1]] · [[Ezra 2 (Annotated)|Annotated]] · [[Ezra 2 - Study Guide|Study guide]] · [[Ezra 2 - My Notes|My notes]] · [[Ezra]] · [[Ezra 3|Ezra 3 →]]

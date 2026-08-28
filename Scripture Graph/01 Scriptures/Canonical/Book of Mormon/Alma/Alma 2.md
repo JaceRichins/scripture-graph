@@ -90,4 +90,4 @@ cssclasses:
 **38** And it came to pass that many died in the wilderness of their wounds, and were devoured by those beasts and also the vultures of the air; and their bones have been found, and have been heaped up on the earth. ^alma-2-38
 
 ---
-[[Alma 1|← Alma 1]] · [[Alma 2 - Study Guide|Study guide]] · [[Alma 2 - My Notes|My notes]] · [[Alma]] · [[Alma 3|Alma 3 →]]
+[[Alma 1|← Alma 1]] · [[Alma 2 (Annotated)|Annotated]] · [[Alma 2 - Study Guide|Study guide]] · [[Alma 2 - My Notes|My notes]] · [[Alma]] · [[Alma 3|Alma 3 →]]

@@ -90,4 +90,4 @@ cssclasses:
 **38** And thus ended the eighty and fifth year. ^hel-11-38
 
 ---
-[[Helaman 10|← Helaman 10]] · [[Helaman 11 - Study Guide|Study guide]] · [[Helaman 11 - My Notes|My notes]] · [[Helaman]] · [[Helaman 12|Helaman 12 →]]
+[[Helaman 10|← Helaman 10]] · [[Helaman 11 (Annotated)|Annotated]] · [[Helaman 11 - Study Guide|Study guide]] · [[Helaman 11 - My Notes|My notes]] · [[Helaman]] · [[Helaman 12|Helaman 12 →]]

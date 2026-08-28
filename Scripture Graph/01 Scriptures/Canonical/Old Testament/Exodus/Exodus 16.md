@@ -86,4 +86,4 @@ cssclasses:
 **36** Now an omer is the tenth part of an ephah. ^ex-16-36
 
 ---
-[[Exodus 15|← Exodus 15]] · [[Exodus 16 - Study Guide|Study guide]] · [[Exodus 16 - My Notes|My notes]] · [[Exodus]] · [[Exodus 17|Exodus 17 →]]
+[[Exodus 15|← Exodus 15]] · [[Exodus 16 (Annotated)|Annotated]] · [[Exodus 16 - Study Guide|Study guide]] · [[Exodus 16 - My Notes|My notes]] · [[Exodus]] · [[Exodus 17|Exodus 17 →]]

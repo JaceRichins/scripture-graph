@@ -76,4 +76,4 @@ cssclasses:
 **31** The four and twentieth to Romamti-ezer, he, his sons, and his brethren, were twelve. ^1chr-25-31
 
 ---
-[[1 Chronicles 24|← 1 Chronicles 24]] · [[1 Chronicles 25 - Study Guide|Study guide]] · [[1 Chronicles 25 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 26|1 Chronicles 26 →]]
+[[1 Chronicles 24|← 1 Chronicles 24]] · [[1 Chronicles 25 (Annotated)|Annotated]] · [[1 Chronicles 25 - Study Guide|Study guide]] · [[1 Chronicles 25 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 26|1 Chronicles 26 →]]

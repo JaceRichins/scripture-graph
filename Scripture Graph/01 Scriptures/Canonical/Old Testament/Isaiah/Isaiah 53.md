@@ -38,4 +38,4 @@ cssclasses:
 **12** Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors. ^isa-53-12
 
 ---
-[[Isaiah 52|← Isaiah 52]] · [[Isaiah 53 - Study Guide|Study guide]] · [[Isaiah 53 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 54|Isaiah 54 →]]
+[[Isaiah 52|← Isaiah 52]] · [[Isaiah 53 (Annotated)|Annotated]] · [[Isaiah 53 - Study Guide|Study guide]] · [[Isaiah 53 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 54|Isaiah 54 →]]

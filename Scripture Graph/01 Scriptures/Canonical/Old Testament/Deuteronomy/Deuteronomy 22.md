@@ -74,4 +74,4 @@ cssclasses:
 **30** A man shall not take his father's wife, nor discover his father's skirt. ^deut-22-30
 
 ---
-[[Deuteronomy 21|← Deuteronomy 21]] · [[Deuteronomy 22 - Study Guide|Study guide]] · [[Deuteronomy 22 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 23|Deuteronomy 23 →]]
+[[Deuteronomy 21|← Deuteronomy 21]] · [[Deuteronomy 22 (Annotated)|Annotated]] · [[Deuteronomy 22 - Study Guide|Study guide]] · [[Deuteronomy 22 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 23|Deuteronomy 23 →]]

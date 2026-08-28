@@ -46,4 +46,4 @@ cssclasses:
 **16** But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing: for thou speakest falsely of Ishmael. ^jer-40-16
 
 ---
-[[Jeremiah 39|← Jeremiah 39]] · [[Jeremiah 40 - Study Guide|Study guide]] · [[Jeremiah 40 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 41|Jeremiah 41 →]]
+[[Jeremiah 39|← Jeremiah 39]] · [[Jeremiah 40 (Annotated)|Annotated]] · [[Jeremiah 40 - Study Guide|Study guide]] · [[Jeremiah 40 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 41|Jeremiah 41 →]]

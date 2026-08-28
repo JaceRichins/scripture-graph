@@ -84,4 +84,4 @@ cssclasses:
 **35** Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work. ^ex-35-35
 
 ---
-[[Exodus 34|← Exodus 34]] · [[Exodus 35 - Study Guide|Study guide]] · [[Exodus 35 - My Notes|My notes]] · [[Exodus]] · [[Exodus 36|Exodus 36 →]]
+[[Exodus 34|← Exodus 34]] · [[Exodus 35 (Annotated)|Annotated]] · [[Exodus 35 - Study Guide|Study guide]] · [[Exodus 35 - My Notes|My notes]] · [[Exodus]] · [[Exodus 36|Exodus 36 →]]

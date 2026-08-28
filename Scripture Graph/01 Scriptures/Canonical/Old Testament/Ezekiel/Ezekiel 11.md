@@ -64,4 +64,4 @@ cssclasses:
 **25** Then I spake unto them of the captivity all the things that the LORD had shewed me. ^ezek-11-25
 
 ---
-[[Ezekiel 10|← Ezekiel 10]] · [[Ezekiel 11 - Study Guide|Study guide]] · [[Ezekiel 11 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 12|Ezekiel 12 →]]
+[[Ezekiel 10|← Ezekiel 10]] · [[Ezekiel 11 (Annotated)|Annotated]] · [[Ezekiel 11 - Study Guide|Study guide]] · [[Ezekiel 11 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 12|Ezekiel 12 →]]

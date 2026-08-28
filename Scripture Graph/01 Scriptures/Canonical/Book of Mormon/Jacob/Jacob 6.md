@@ -40,4 +40,4 @@ cssclasses:
 **13** Finally, I bid you farewell, until I shall meet you before the pleasing bar of God, which bar striketh the wicked with awful dread and fear. Amen. ^jacob-6-13
 
 ---
-[[Jacob 5|← Jacob 5]] · [[Jacob 6 - Study Guide|Study guide]] · [[Jacob 6 - My Notes|My notes]] · [[Jacob]] · [[Jacob 7|Jacob 7 →]]
+[[Jacob 5|← Jacob 5]] · [[Jacob 6 (Annotated)|Annotated]] · [[Jacob 6 - Study Guide|Study guide]] · [[Jacob 6 - My Notes|My notes]] · [[Jacob]] · [[Jacob 7|Jacob 7 →]]

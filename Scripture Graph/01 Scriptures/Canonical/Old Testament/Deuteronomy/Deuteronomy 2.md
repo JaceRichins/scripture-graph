@@ -88,4 +88,4 @@ cssclasses:
 **37** Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us. ^deut-2-37
 
 ---
-[[Deuteronomy 1|← Deuteronomy 1]] · [[Deuteronomy 2 - Study Guide|Study guide]] · [[Deuteronomy 2 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 3|Deuteronomy 3 →]]
+[[Deuteronomy 1|← Deuteronomy 1]] · [[Deuteronomy 2 (Annotated)|Annotated]] · [[Deuteronomy 2 - Study Guide|Study guide]] · [[Deuteronomy 2 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 3|Deuteronomy 3 →]]

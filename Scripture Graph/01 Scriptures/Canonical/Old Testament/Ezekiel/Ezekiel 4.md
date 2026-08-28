@@ -48,4 +48,4 @@ cssclasses:
 **17** That they may want bread and water, and be astonied one with another, and consume away for their iniquity. ^ezek-4-17
 
 ---
-[[Ezekiel 3|← Ezekiel 3]] · [[Ezekiel 4 - Study Guide|Study guide]] · [[Ezekiel 4 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 5|Ezekiel 5 →]]
+[[Ezekiel 3|← Ezekiel 3]] · [[Ezekiel 4 (Annotated)|Annotated]] · [[Ezekiel 4 - Study Guide|Study guide]] · [[Ezekiel 4 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 5|Ezekiel 5 →]]

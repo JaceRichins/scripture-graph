@@ -96,4 +96,4 @@ cssclasses:
 **41** But that ye have patience, and bear with those afflictions, with a firm hope that ye shall one day rest from all your afflictions. ^alma-34-41
 
 ---
-[[Alma 33|← Alma 33]] · [[Alma 34 - Study Guide|Study guide]] · [[Alma 34 - My Notes|My notes]] · [[Alma]] · [[Alma 35|Alma 35 →]]
+[[Alma 33|← Alma 33]] · [[Alma 34 (Annotated)|Annotated]] · [[Alma 34 - Study Guide|Study guide]] · [[Alma 34 - My Notes|My notes]] · [[Alma]] · [[Alma 35|Alma 35 →]]

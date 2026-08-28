@@ -76,4 +76,4 @@ cssclasses:
 **31** And Darius the Median took the kingdom, being about threescore and two years old. ^dan-5-31
 
 ---
-[[Daniel 4|← Daniel 4]] · [[Daniel 5 - Study Guide|Study guide]] · [[Daniel 5 - My Notes|My notes]] · [[Daniel]] · [[Daniel 6|Daniel 6 →]]
+[[Daniel 4|← Daniel 4]] · [[Daniel 5 (Annotated)|Annotated]] · [[Daniel 5 - Study Guide|Study guide]] · [[Daniel 5 - My Notes|My notes]] · [[Daniel]] · [[Daniel 6|Daniel 6 →]]

@@ -112,4 +112,4 @@ cssclasses:
 **49** Then said I, Ah Lord GOD! they say of me, Doth he not speak parables? ^ezek-20-49
 
 ---
-[[Ezekiel 19|← Ezekiel 19]] · [[Ezekiel 20 - Study Guide|Study guide]] · [[Ezekiel 20 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 21|Ezekiel 21 →]]
+[[Ezekiel 19|← Ezekiel 19]] · [[Ezekiel 20 (Annotated)|Annotated]] · [[Ezekiel 20 - Study Guide|Study guide]] · [[Ezekiel 20 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 21|Ezekiel 21 →]]

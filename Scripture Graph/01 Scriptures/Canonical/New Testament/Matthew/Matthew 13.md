@@ -130,4 +130,4 @@ cssclasses:
 **58** And he did not many mighty works there because of their unbelief. ^matt-13-58
 
 ---
-[[Matthew 12|← Matthew 12]] · [[Matthew 13 - Study Guide|Study guide]] · [[Matthew 13 - My Notes|My notes]] · [[Matthew]] · [[Matthew 14|Matthew 14 →]]
+[[Matthew 12|← Matthew 12]] · [[Matthew 13 (Annotated)|Annotated]] · [[Matthew 13 - Study Guide|Study guide]] · [[Matthew 13 - My Notes|My notes]] · [[Matthew]] · [[Matthew 14|Matthew 14 →]]

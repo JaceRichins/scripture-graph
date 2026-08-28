@@ -72,4 +72,4 @@ cssclasses:
 **29** Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son's days will I bring the evil upon his house. ^1kgs-21-29
 
 ---
-[[1 Kings 20|← 1 Kings 20]] · [[1 Kings 21 - Study Guide|Study guide]] · [[1 Kings 21 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 22|1 Kings 22 →]]
+[[1 Kings 20|← 1 Kings 20]] · [[1 Kings 21 (Annotated)|Annotated]] · [[1 Kings 21 - Study Guide|Study guide]] · [[1 Kings 21 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 22|1 Kings 22 →]]

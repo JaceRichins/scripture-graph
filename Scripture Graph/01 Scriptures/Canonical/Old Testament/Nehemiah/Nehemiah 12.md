@@ -108,4 +108,4 @@ cssclasses:
 **47** And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron. ^neh-12-47
 
 ---
-[[Nehemiah 11|← Nehemiah 11]] · [[Nehemiah 12 - Study Guide|Study guide]] · [[Nehemiah 12 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 13|Nehemiah 13 →]]
+[[Nehemiah 11|← Nehemiah 11]] · [[Nehemiah 12 (Annotated)|Annotated]] · [[Nehemiah 12 - Study Guide|Study guide]] · [[Nehemiah 12 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 13|Nehemiah 13 →]]

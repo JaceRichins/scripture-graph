@@ -26,4 +26,4 @@ cssclasses:
 **6** And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and a covert from storm and from rain. ^2ne-14-6
 
 ---
-[[2 Nephi 13|← 2 Nephi 13]] · [[2 Nephi 14 - Study Guide|Study guide]] · [[2 Nephi 14 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 15|2 Nephi 15 →]]
+[[2 Nephi 13|← 2 Nephi 13]] · [[2 Nephi 14 (Annotated)|Annotated]] · [[2 Nephi 14 - Study Guide|Study guide]] · [[2 Nephi 14 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 15|2 Nephi 15 →]]

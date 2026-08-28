@@ -44,4 +44,4 @@ cssclasses:
 **15** And they that are far off shall come and build in the temple of the LORD, and ye shall know that the LORD of hosts hath sent me unto you. And this shall come to pass, if ye will diligently obey the voice of the LORD your God. ^zech-6-15
 
 ---
-[[Zechariah 5|← Zechariah 5]] · [[Zechariah 6 - Study Guide|Study guide]] · [[Zechariah 6 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 7|Zechariah 7 →]]
+[[Zechariah 5|← Zechariah 5]] · [[Zechariah 6 (Annotated)|Annotated]] · [[Zechariah 6 - Study Guide|Study guide]] · [[Zechariah 6 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 7|Zechariah 7 →]]

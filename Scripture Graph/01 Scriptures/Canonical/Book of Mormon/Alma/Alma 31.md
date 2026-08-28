@@ -90,4 +90,4 @@ cssclasses:
 **38** And the Lord provided for them that they should hunger not, neither should they thirst; yea, and he also gave them strength, that they should suffer no manner of afflictions, save it were swallowed up in the joy of Christ. Now this was according to the prayer of Alma; and this because he prayed in faith. ^alma-31-38
 
 ---
-[[Alma 30|← Alma 30]] · [[Alma 31 - Study Guide|Study guide]] · [[Alma 31 - My Notes|My notes]] · [[Alma]] · [[Alma 32|Alma 32 →]]
+[[Alma 30|← Alma 30]] · [[Alma 31 (Annotated)|Annotated]] · [[Alma 31 - Study Guide|Study guide]] · [[Alma 31 - My Notes|My notes]] · [[Alma]] · [[Alma 32|Alma 32 →]]

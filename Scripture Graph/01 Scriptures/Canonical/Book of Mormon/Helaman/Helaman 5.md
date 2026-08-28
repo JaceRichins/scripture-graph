@@ -118,4 +118,4 @@ cssclasses:
 **52** And it came to pass that they did yield up unto the Nephites the lands of their possession. ^hel-5-52
 
 ---
-[[Helaman 4|← Helaman 4]] · [[Helaman 5 - Study Guide|Study guide]] · [[Helaman 5 - My Notes|My notes]] · [[Helaman]] · [[Helaman 6|Helaman 6 →]]
+[[Helaman 4|← Helaman 4]] · [[Helaman 5 (Annotated)|Annotated]] · [[Helaman 5 - Study Guide|Study guide]] · [[Helaman 5 - My Notes|My notes]] · [[Helaman]] · [[Helaman 6|Helaman 6 →]]

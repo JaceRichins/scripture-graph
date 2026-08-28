@@ -54,4 +54,4 @@ cssclasses:
 **20** But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost. ^job-11-20
 
 ---
-[[Job 10|← Job 10]] · [[Job 11 - Study Guide|Study guide]] · [[Job 11 - My Notes|My notes]] · [[Job]] · [[Job 12|Job 12 →]]
+[[Job 10|← Job 10]] · [[Job 11 (Annotated)|Annotated]] · [[Job 11 - Study Guide|Study guide]] · [[Job 11 - My Notes|My notes]] · [[Job]] · [[Job 12|Job 12 →]]

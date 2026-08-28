@@ -22,4 +22,4 @@ aliases:
 **3** If it were not so, the whole earth would be utterly wasted at his coming. ^dc-2-3
 
 ---
-[[D&C 1|← D&C 1]] · [[D&C 2 - Study Guide|Study guide]] · [[D&C 2 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 3|D&C 3 →]]
+[[D&C 1|← D&C 1]] · [[D&C 2 (Annotated)|Annotated]] · [[D&C 2 - Study Guide|Study guide]] · [[D&C 2 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 3|D&C 3 →]]

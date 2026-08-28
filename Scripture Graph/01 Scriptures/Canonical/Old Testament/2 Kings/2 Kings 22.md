@@ -54,4 +54,4 @@ cssclasses:
 **20** Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again. ^2kgs-22-20
 
 ---
-[[2 Kings 21|← 2 Kings 21]] · [[2 Kings 22 - Study Guide|Study guide]] · [[2 Kings 22 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 23|2 Kings 23 →]]
+[[2 Kings 21|← 2 Kings 21]] · [[2 Kings 22 (Annotated)|Annotated]] · [[2 Kings 22 - Study Guide|Study guide]] · [[2 Kings 22 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 23|2 Kings 23 →]]

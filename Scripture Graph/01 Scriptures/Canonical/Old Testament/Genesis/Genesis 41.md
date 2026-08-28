@@ -128,4 +128,4 @@ cssclasses:
 **57** And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands. ^gen-41-57
 
 ---
-[[Genesis 40|← Genesis 40]] · [[Genesis 41 - Study Guide|Study guide]] · [[Genesis 41 - My Notes|My notes]] · [[Genesis]] · [[Genesis 42|Genesis 42 →]]
+[[Genesis 40|← Genesis 40]] · [[Genesis 41 (Annotated)|Annotated]] · [[Genesis 41 - Study Guide|Study guide]] · [[Genesis 41 - My Notes|My notes]] · [[Genesis]] · [[Genesis 42|Genesis 42 →]]

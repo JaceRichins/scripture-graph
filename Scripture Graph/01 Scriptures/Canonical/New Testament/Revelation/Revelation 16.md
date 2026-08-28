@@ -56,4 +56,4 @@ cssclasses:
 **21** And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great. ^rev-16-21
 
 ---
-[[Revelation 15|← Revelation 15]] · [[Revelation 16 - Study Guide|Study guide]] · [[Revelation 16 - My Notes|My notes]] · [[Revelation]] · [[Revelation 17|Revelation 17 →]]
+[[Revelation 15|← Revelation 15]] · [[Revelation 16 (Annotated)|Annotated]] · [[Revelation 16 - Study Guide|Study guide]] · [[Revelation 16 - My Notes|My notes]] · [[Revelation]] · [[Revelation 17|Revelation 17 →]]

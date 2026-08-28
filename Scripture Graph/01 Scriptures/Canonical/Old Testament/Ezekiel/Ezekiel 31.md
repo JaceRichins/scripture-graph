@@ -50,4 +50,4 @@ cssclasses:
 **18** To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword. This is Pharaoh and all his multitude, saith the Lord GOD. ^ezek-31-18
 
 ---
-[[Ezekiel 30|← Ezekiel 30]] · [[Ezekiel 31 - Study Guide|Study guide]] · [[Ezekiel 31 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 32|Ezekiel 32 →]]
+[[Ezekiel 30|← Ezekiel 30]] · [[Ezekiel 31 (Annotated)|Annotated]] · [[Ezekiel 31 - Study Guide|Study guide]] · [[Ezekiel 31 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 32|Ezekiel 32 →]]

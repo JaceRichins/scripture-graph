@@ -106,4 +106,4 @@ cssclasses:
 **46** So the king commanded Benaiah the son of Jehoiada; which went out, and fell upon him, that he died. And the kingdom was established in the hand of Solomon. ^1kgs-2-46
 
 ---
-[[1 Kings 1|← 1 Kings 1]] · [[1 Kings 2 - Study Guide|Study guide]] · [[1 Kings 2 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 3|1 Kings 3 →]]
+[[1 Kings 1|← 1 Kings 1]] · [[1 Kings 2 (Annotated)|Annotated]] · [[1 Kings 2 - Study Guide|Study guide]] · [[1 Kings 2 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 3|1 Kings 3 →]]

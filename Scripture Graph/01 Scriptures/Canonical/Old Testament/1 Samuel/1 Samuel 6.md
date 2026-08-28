@@ -56,4 +56,4 @@ cssclasses:
 **21** And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you. ^1sam-6-21
 
 ---
-[[1 Samuel 5|← 1 Samuel 5]] · [[1 Samuel 6 - Study Guide|Study guide]] · [[1 Samuel 6 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 7|1 Samuel 7 →]]
+[[1 Samuel 5|← 1 Samuel 5]] · [[1 Samuel 6 (Annotated)|Annotated]] · [[1 Samuel 6 - Study Guide|Study guide]] · [[1 Samuel 6 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 7|1 Samuel 7 →]]

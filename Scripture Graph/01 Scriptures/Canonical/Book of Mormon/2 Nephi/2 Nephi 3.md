@@ -64,4 +64,4 @@ cssclasses:
 **25** And now, blessed art thou, Joseph. Behold, thou art little; wherefore hearken unto the words of thy brother, Nephi, and it shall be done unto thee even according to the words which I have spoken. Remember the words of thy dying father. Amen. ^2ne-3-25
 
 ---
-[[2 Nephi 2|← 2 Nephi 2]] · [[2 Nephi 3 - Study Guide|Study guide]] · [[2 Nephi 3 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 4|2 Nephi 4 →]]
+[[2 Nephi 2|← 2 Nephi 2]] · [[2 Nephi 3 (Annotated)|Annotated]] · [[2 Nephi 3 - Study Guide|Study guide]] · [[2 Nephi 3 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 4|2 Nephi 4 →]]

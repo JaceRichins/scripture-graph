@@ -56,4 +56,4 @@ cssclasses:
 **21** For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. ^2pet-1-21
 
 ---
-[[2 Peter 1 - Study Guide|Study guide]] · [[2 Peter 1 - My Notes|My notes]] · [[2 Peter]] · [[2 Peter 2|2 Peter 2 →]]
+[[2 Peter 1 (Annotated)|Annotated]] · [[2 Peter 1 - Study Guide|Study guide]] · [[2 Peter 1 - My Notes|My notes]] · [[2 Peter]] · [[2 Peter 2|2 Peter 2 →]]

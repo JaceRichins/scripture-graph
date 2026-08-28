@@ -56,4 +56,4 @@ cssclasses:
 **21** And Adam gave names to all cattle, to the fowl of the air, to every beast of the field; and for Adam, there was found an help meet for him. ^abr-5-21
 
 ---
-[[Abraham 4|← Abraham 4]] · [[Abraham 5 - Study Guide|Study guide]] · [[Abraham 5 - My Notes|My notes]] · [[Abraham]]
+[[Abraham 4|← Abraham 4]] · [[Abraham 5 (Annotated)|Annotated]] · [[Abraham 5 - Study Guide|Study guide]] · [[Abraham 5 - My Notes|My notes]] · [[Abraham]]

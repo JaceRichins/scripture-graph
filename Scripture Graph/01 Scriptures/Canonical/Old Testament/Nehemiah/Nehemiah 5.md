@@ -52,4 +52,4 @@ cssclasses:
 **19** Think upon me, my God, for good, according to all that I have done for this people. ^neh-5-19
 
 ---
-[[Nehemiah 4|← Nehemiah 4]] · [[Nehemiah 5 - Study Guide|Study guide]] · [[Nehemiah 5 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 6|Nehemiah 6 →]]
+[[Nehemiah 4|← Nehemiah 4]] · [[Nehemiah 5 (Annotated)|Annotated]] · [[Nehemiah 5 - Study Guide|Study guide]] · [[Nehemiah 5 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 6|Nehemiah 6 →]]

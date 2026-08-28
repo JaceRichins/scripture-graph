@@ -40,4 +40,4 @@ cssclasses:
 **13** So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off. ^ezra-3-13
 
 ---
-[[Ezra 2|← Ezra 2]] · [[Ezra 3 - Study Guide|Study guide]] · [[Ezra 3 - My Notes|My notes]] · [[Ezra]] · [[Ezra 4|Ezra 4 →]]
+[[Ezra 2|← Ezra 2]] · [[Ezra 3 (Annotated)|Annotated]] · [[Ezra 3 - Study Guide|Study guide]] · [[Ezra 3 - My Notes|My notes]] · [[Ezra]] · [[Ezra 4|Ezra 4 →]]

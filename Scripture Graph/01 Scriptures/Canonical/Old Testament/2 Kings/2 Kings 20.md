@@ -56,4 +56,4 @@ cssclasses:
 **21** And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead. ^2kgs-20-21
 
 ---
-[[2 Kings 19|← 2 Kings 19]] · [[2 Kings 20 - Study Guide|Study guide]] · [[2 Kings 20 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 21|2 Kings 21 →]]
+[[2 Kings 19|← 2 Kings 19]] · [[2 Kings 20 (Annotated)|Annotated]] · [[2 Kings 20 - Study Guide|Study guide]] · [[2 Kings 20 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 21|2 Kings 21 →]]

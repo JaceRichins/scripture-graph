@@ -72,4 +72,4 @@ cssclasses:
 **29** Behold, they are all vanity; their works are nothing: their molten images are wind and confusion. ^isa-41-29
 
 ---
-[[Isaiah 40|← Isaiah 40]] · [[Isaiah 41 - Study Guide|Study guide]] · [[Isaiah 41 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 42|Isaiah 42 →]]
+[[Isaiah 40|← Isaiah 40]] · [[Isaiah 41 (Annotated)|Annotated]] · [[Isaiah 41 - Study Guide|Study guide]] · [[Isaiah 41 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 42|Isaiah 42 →]]

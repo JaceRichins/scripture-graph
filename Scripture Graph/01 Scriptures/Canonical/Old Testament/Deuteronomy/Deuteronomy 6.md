@@ -64,4 +64,4 @@ cssclasses:
 **25** And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us. ^deut-6-25
 
 ---
-[[Deuteronomy 5|← Deuteronomy 5]] · [[Deuteronomy 6 - Study Guide|Study guide]] · [[Deuteronomy 6 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 7|Deuteronomy 7 →]]
+[[Deuteronomy 5|← Deuteronomy 5]] · [[Deuteronomy 6 (Annotated)|Annotated]] · [[Deuteronomy 6 - Study Guide|Study guide]] · [[Deuteronomy 6 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 7|Deuteronomy 7 →]]

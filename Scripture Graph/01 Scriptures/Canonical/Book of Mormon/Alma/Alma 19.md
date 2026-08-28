@@ -86,4 +86,4 @@ cssclasses:
 **36** And thus the work of the Lord did commence among the Lamanites; thus the Lord did begin to pour out his Spirit upon them; and we see that his arm is extended to all people who will repent and believe on his name. ^alma-19-36
 
 ---
-[[Alma 18|← Alma 18]] · [[Alma 19 - Study Guide|Study guide]] · [[Alma 19 - My Notes|My notes]] · [[Alma]] · [[Alma 20|Alma 20 →]]
+[[Alma 18|← Alma 18]] · [[Alma 19 (Annotated)|Annotated]] · [[Alma 19 - Study Guide|Study guide]] · [[Alma 19 - My Notes|My notes]] · [[Alma]] · [[Alma 20|Alma 20 →]]

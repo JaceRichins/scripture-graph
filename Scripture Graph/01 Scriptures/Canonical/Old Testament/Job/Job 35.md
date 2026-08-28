@@ -46,4 +46,4 @@ cssclasses:
 **16** Therefore doth Job open his mouth in vain; he multiplieth words without knowledge. ^job-35-16
 
 ---
-[[Job 34|← Job 34]] · [[Job 35 - Study Guide|Study guide]] · [[Job 35 - My Notes|My notes]] · [[Job]] · [[Job 36|Job 36 →]]
+[[Job 34|← Job 34]] · [[Job 35 (Annotated)|Annotated]] · [[Job 35 - Study Guide|Study guide]] · [[Job 35 - My Notes|My notes]] · [[Job]] · [[Job 36|Job 36 →]]

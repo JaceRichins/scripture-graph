@@ -68,4 +68,4 @@ cssclasses:
 **27** But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched. ^jer-17-27
 
 ---
-[[Jeremiah 16|← Jeremiah 16]] · [[Jeremiah 17 - Study Guide|Study guide]] · [[Jeremiah 17 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 18|Jeremiah 18 →]]
+[[Jeremiah 16|← Jeremiah 16]] · [[Jeremiah 17 (Annotated)|Annotated]] · [[Jeremiah 17 - Study Guide|Study guide]] · [[Jeremiah 17 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 18|Jeremiah 18 →]]

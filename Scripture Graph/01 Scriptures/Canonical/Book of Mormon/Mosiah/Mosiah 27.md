@@ -88,4 +88,4 @@ cssclasses:
 **37** And how blessed are they! For they did publish peace; they did publish good tidings of good; and they did declare unto the people that the Lord reigneth. ^mosiah-27-37
 
 ---
-[[Mosiah 26|← Mosiah 26]] · [[Mosiah 27 - Study Guide|Study guide]] · [[Mosiah 27 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 28|Mosiah 28 →]]
+[[Mosiah 26|← Mosiah 26]] · [[Mosiah 27 (Annotated)|Annotated]] · [[Mosiah 27 - Study Guide|Study guide]] · [[Mosiah 27 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 28|Mosiah 28 →]]

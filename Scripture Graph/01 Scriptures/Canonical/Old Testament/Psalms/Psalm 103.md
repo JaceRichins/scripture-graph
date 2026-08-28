@@ -60,4 +60,4 @@ aliases:
 **22** Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul. ^ps-103-22
 
 ---
-[[Psalm 102|← Psalm 102]] · [[Psalm 103 - Study Guide|Study guide]] · [[Psalm 103 - My Notes|My notes]] · [[Psalms]] · [[Psalm 104|Psalm 104 →]]
+[[Psalm 102|← Psalm 102]] · [[Psalm 103 (Annotated)|Annotated]] · [[Psalm 103 - Study Guide|Study guide]] · [[Psalm 103 - My Notes|My notes]] · [[Psalms]] · [[Psalm 104|Psalm 104 →]]

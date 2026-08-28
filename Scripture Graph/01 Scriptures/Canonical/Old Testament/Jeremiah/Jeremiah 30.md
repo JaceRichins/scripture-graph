@@ -62,4 +62,4 @@ cssclasses:
 **24** The fierce anger of the LORD shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it. ^jer-30-24
 
 ---
-[[Jeremiah 29|← Jeremiah 29]] · [[Jeremiah 30 - Study Guide|Study guide]] · [[Jeremiah 30 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 31|Jeremiah 31 →]]
+[[Jeremiah 29|← Jeremiah 29]] · [[Jeremiah 30 (Annotated)|Annotated]] · [[Jeremiah 30 - Study Guide|Study guide]] · [[Jeremiah 30 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 31|Jeremiah 31 →]]

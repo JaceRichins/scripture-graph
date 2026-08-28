@@ -48,4 +48,4 @@ cssclasses:
 **17** And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD. ^1sam-7-17
 
 ---
-[[1 Samuel 6|← 1 Samuel 6]] · [[1 Samuel 7 - Study Guide|Study guide]] · [[1 Samuel 7 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 8|1 Samuel 8 →]]
+[[1 Samuel 6|← 1 Samuel 6]] · [[1 Samuel 7 (Annotated)|Annotated]] · [[1 Samuel 7 - Study Guide|Study guide]] · [[1 Samuel 7 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 8|1 Samuel 8 →]]

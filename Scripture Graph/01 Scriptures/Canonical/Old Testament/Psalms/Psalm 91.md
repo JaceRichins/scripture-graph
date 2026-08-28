@@ -48,4 +48,4 @@ aliases:
 **16** With long life will I satisfy him, and shew him my salvation. ^ps-91-16
 
 ---
-[[Psalm 90|← Psalm 90]] · [[Psalm 91 - Study Guide|Study guide]] · [[Psalm 91 - My Notes|My notes]] · [[Psalms]] · [[Psalm 92|Psalm 92 →]]
+[[Psalm 90|← Psalm 90]] · [[Psalm 91 (Annotated)|Annotated]] · [[Psalm 91 - Study Guide|Study guide]] · [[Psalm 91 - My Notes|My notes]] · [[Psalms]] · [[Psalm 92|Psalm 92 →]]

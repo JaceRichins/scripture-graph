@@ -76,4 +76,4 @@ cssclasses:
 **31** And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead. ^luke-16-31
 
 ---
-[[Luke 15|← Luke 15]] · [[Luke 16 - Study Guide|Study guide]] · [[Luke 16 - My Notes|My notes]] · [[Luke]] · [[Luke 17|Luke 17 →]]
+[[Luke 15|← Luke 15]] · [[Luke 16 (Annotated)|Annotated]] · [[Luke 16 - Study Guide|Study guide]] · [[Luke 16 - My Notes|My notes]] · [[Luke]] · [[Luke 17|Luke 17 →]]

@@ -44,4 +44,4 @@ cssclasses:
 **15** Thanks be unto God for his unspeakable gift. ^2cor-9-15
 
 ---
-[[2 Corinthians 8|← 2 Corinthians 8]] · [[2 Corinthians 9 - Study Guide|Study guide]] · [[2 Corinthians 9 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 10|2 Corinthians 10 →]]
+[[2 Corinthians 8|← 2 Corinthians 8]] · [[2 Corinthians 9 (Annotated)|Annotated]] · [[2 Corinthians 9 - Study Guide|Study guide]] · [[2 Corinthians 9 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 10|2 Corinthians 10 →]]

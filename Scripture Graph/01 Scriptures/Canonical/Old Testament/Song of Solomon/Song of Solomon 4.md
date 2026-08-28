@@ -46,4 +46,4 @@ cssclasses:
 **16** Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits. ^song-4-16
 
 ---
-[[Song of Solomon 3|← Song of Solomon 3]] · [[Song of Solomon 4 - Study Guide|Study guide]] · [[Song of Solomon 4 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 5|Song of Solomon 5 →]]
+[[Song of Solomon 3|← Song of Solomon 3]] · [[Song of Solomon 4 (Annotated)|Annotated]] · [[Song of Solomon 4 - Study Guide|Study guide]] · [[Song of Solomon 4 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 5|Song of Solomon 5 →]]

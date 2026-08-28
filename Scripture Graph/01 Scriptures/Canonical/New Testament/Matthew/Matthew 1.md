@@ -64,4 +64,4 @@ cssclasses:
 **25** And knew her not till she had brought forth her firstborn son: and he called his name JESUS. ^matt-1-25
 
 ---
-[[Matthew 1 - Study Guide|Study guide]] · [[Matthew 1 - My Notes|My notes]] · [[Matthew]] · [[Matthew 2|Matthew 2 →]]
+[[Matthew 1 (Annotated)|Annotated]] · [[Matthew 1 - Study Guide|Study guide]] · [[Matthew 1 - My Notes|My notes]] · [[Matthew]] · [[Matthew 2|Matthew 2 →]]

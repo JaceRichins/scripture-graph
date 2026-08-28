@@ -50,4 +50,4 @@ cssclasses:
 **18** The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen. ^col-4-18
 
 ---
-[[Colossians 3|← Colossians 3]] · [[Colossians 4 - Study Guide|Study guide]] · [[Colossians 4 - My Notes|My notes]] · [[Colossians]]
+[[Colossians 3|← Colossians 3]] · [[Colossians 4 (Annotated)|Annotated]] · [[Colossians 4 - Study Guide|Study guide]] · [[Colossians 4 - My Notes|My notes]] · [[Colossians]]

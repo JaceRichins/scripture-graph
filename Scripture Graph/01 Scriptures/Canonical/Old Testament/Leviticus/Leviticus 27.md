@@ -82,4 +82,4 @@ cssclasses:
 **34** These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai. ^lev-27-34
 
 ---
-[[Leviticus 26|← Leviticus 26]] · [[Leviticus 27 - Study Guide|Study guide]] · [[Leviticus 27 - My Notes|My notes]] · [[Leviticus]]
+[[Leviticus 26|← Leviticus 26]] · [[Leviticus 27 (Annotated)|Annotated]] · [[Leviticus 27 - Study Guide|Study guide]] · [[Leviticus 27 - My Notes|My notes]] · [[Leviticus]]

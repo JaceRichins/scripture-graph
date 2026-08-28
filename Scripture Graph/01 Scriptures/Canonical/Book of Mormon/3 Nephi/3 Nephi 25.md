@@ -26,4 +26,4 @@ cssclasses:
 **6** And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse. ^3ne-25-6
 
 ---
-[[3 Nephi 24|← 3 Nephi 24]] · [[3 Nephi 25 - Study Guide|Study guide]] · [[3 Nephi 25 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 26|3 Nephi 26 →]]
+[[3 Nephi 24|← 3 Nephi 24]] · [[3 Nephi 25 (Annotated)|Annotated]] · [[3 Nephi 25 - Study Guide|Study guide]] · [[3 Nephi 25 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 26|3 Nephi 26 →]]

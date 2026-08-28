@@ -108,4 +108,4 @@ cssclasses:
 **47** To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten. ^lev-11-47
 
 ---
-[[Leviticus 10|← Leviticus 10]] · [[Leviticus 11 - Study Guide|Study guide]] · [[Leviticus 11 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 12|Leviticus 12 →]]
+[[Leviticus 10|← Leviticus 10]] · [[Leviticus 11 (Annotated)|Annotated]] · [[Leviticus 11 - Study Guide|Study guide]] · [[Leviticus 11 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 12|Leviticus 12 →]]

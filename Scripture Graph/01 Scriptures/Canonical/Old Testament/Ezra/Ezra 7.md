@@ -70,4 +70,4 @@ cssclasses:
 **28** And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me. ^ezra-7-28
 
 ---
-[[Ezra 6|← Ezra 6]] · [[Ezra 7 - Study Guide|Study guide]] · [[Ezra 7 - My Notes|My notes]] · [[Ezra]] · [[Ezra 8|Ezra 8 →]]
+[[Ezra 6|← Ezra 6]] · [[Ezra 7 (Annotated)|Annotated]] · [[Ezra 7 - Study Guide|Study guide]] · [[Ezra 7 - My Notes|My notes]] · [[Ezra]] · [[Ezra 8|Ezra 8 →]]

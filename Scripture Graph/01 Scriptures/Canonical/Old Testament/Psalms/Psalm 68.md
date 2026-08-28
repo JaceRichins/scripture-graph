@@ -86,4 +86,4 @@ aliases:
 **35** O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God. ^ps-68-35
 
 ---
-[[Psalm 67|← Psalm 67]] · [[Psalm 68 - Study Guide|Study guide]] · [[Psalm 68 - My Notes|My notes]] · [[Psalms]] · [[Psalm 69|Psalm 69 →]]
+[[Psalm 67|← Psalm 67]] · [[Psalm 68 (Annotated)|Annotated]] · [[Psalm 68 - Study Guide|Study guide]] · [[Psalm 68 - My Notes|My notes]] · [[Psalms]] · [[Psalm 69|Psalm 69 →]]

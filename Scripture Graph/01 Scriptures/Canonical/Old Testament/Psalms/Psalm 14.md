@@ -30,4 +30,4 @@ aliases:
 **7** Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. ^ps-14-7
 
 ---
-[[Psalm 13|← Psalm 13]] · [[Psalm 14 - Study Guide|Study guide]] · [[Psalm 14 - My Notes|My notes]] · [[Psalms]] · [[Psalm 15|Psalm 15 →]]
+[[Psalm 13|← Psalm 13]] · [[Psalm 14 (Annotated)|Annotated]] · [[Psalm 14 - Study Guide|Study guide]] · [[Psalm 14 - My Notes|My notes]] · [[Psalms]] · [[Psalm 15|Psalm 15 →]]

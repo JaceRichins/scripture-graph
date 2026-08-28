@@ -52,4 +52,4 @@ cssclasses:
 **19** And thus ended the seventy and first year of the reign of the judges over the people of Nephi. ^hel-10-19
 
 ---
-[[Helaman 9|← Helaman 9]] · [[Helaman 10 - Study Guide|Study guide]] · [[Helaman 10 - My Notes|My notes]] · [[Helaman]] · [[Helaman 11|Helaman 11 →]]
+[[Helaman 9|← Helaman 9]] · [[Helaman 10 (Annotated)|Annotated]] · [[Helaman 10 - Study Guide|Study guide]] · [[Helaman 10 - My Notes|My notes]] · [[Helaman]] · [[Helaman 11|Helaman 11 →]]

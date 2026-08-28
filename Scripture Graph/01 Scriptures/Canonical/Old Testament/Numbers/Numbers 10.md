@@ -86,4 +86,4 @@ cssclasses:
 **36** And when it rested, he said, Return, O LORD, unto the many thousands of Israel. ^num-10-36
 
 ---
-[[Numbers 9|← Numbers 9]] · [[Numbers 10 - Study Guide|Study guide]] · [[Numbers 10 - My Notes|My notes]] · [[Numbers]] · [[Numbers 11|Numbers 11 →]]
+[[Numbers 9|← Numbers 9]] · [[Numbers 10 (Annotated)|Annotated]] · [[Numbers 10 - Study Guide|Study guide]] · [[Numbers 10 - My Notes|My notes]] · [[Numbers]] · [[Numbers 11|Numbers 11 →]]

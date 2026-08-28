@@ -90,4 +90,4 @@ cssclasses:
 **38** Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice. ^john-13-38
 
 ---
-[[John 12|← John 12]] · [[John 13 - Study Guide|Study guide]] · [[John 13 - My Notes|My notes]] · [[John]] · [[John 14|John 14 →]]
+[[John 12|← John 12]] · [[John 13 (Annotated)|Annotated]] · [[John 13 - Study Guide|Study guide]] · [[John 13 - My Notes|My notes]] · [[John]] · [[John 14|John 14 →]]

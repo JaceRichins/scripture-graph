@@ -56,4 +56,4 @@ cssclasses:
 **21** For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him. ^2cor-5-21
 
 ---
-[[2 Corinthians 4|← 2 Corinthians 4]] · [[2 Corinthians 5 - Study Guide|Study guide]] · [[2 Corinthians 5 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 6|2 Corinthians 6 →]]
+[[2 Corinthians 4|← 2 Corinthians 4]] · [[2 Corinthians 5 (Annotated)|Annotated]] · [[2 Corinthians 5 - Study Guide|Study guide]] · [[2 Corinthians 5 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 6|2 Corinthians 6 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** I have spoken these few words unto you all, my sons, in the last days of my probation; and I have chosen the good part, according to the words of the prophet. And I have none other object save it be the everlasting welfare of your souls. Amen. ^2ne-2-30
 
 ---
-[[2 Nephi 1|← 2 Nephi 1]] · [[2 Nephi 2 - Study Guide|Study guide]] · [[2 Nephi 2 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 3|2 Nephi 3 →]]
+[[2 Nephi 1|← 2 Nephi 1]] · [[2 Nephi 2 (Annotated)|Annotated]] · [[2 Nephi 2 - Study Guide|Study guide]] · [[2 Nephi 2 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 3|2 Nephi 3 →]]

@@ -58,4 +58,4 @@ cssclasses:
 **22** And now I, being old, did confer the kingdom upon one of my sons; therefore, I say no more. And may the Lord bless my people. Amen. ^mosiah-10-22
 
 ---
-[[Mosiah 9|← Mosiah 9]] · [[Mosiah 10 - Study Guide|Study guide]] · [[Mosiah 10 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 11|Mosiah 11 →]]
+[[Mosiah 9|← Mosiah 9]] · [[Mosiah 10 (Annotated)|Annotated]] · [[Mosiah 10 - Study Guide|Study guide]] · [[Mosiah 10 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 11|Mosiah 11 →]]

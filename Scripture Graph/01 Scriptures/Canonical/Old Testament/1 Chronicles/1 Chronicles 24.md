@@ -76,4 +76,4 @@ cssclasses:
 **31** These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren. ^1chr-24-31
 
 ---
-[[1 Chronicles 23|← 1 Chronicles 23]] · [[1 Chronicles 24 - Study Guide|Study guide]] · [[1 Chronicles 24 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 25|1 Chronicles 25 →]]
+[[1 Chronicles 23|← 1 Chronicles 23]] · [[1 Chronicles 24 (Annotated)|Annotated]] · [[1 Chronicles 24 - Study Guide|Study guide]] · [[1 Chronicles 24 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 25|1 Chronicles 25 →]]

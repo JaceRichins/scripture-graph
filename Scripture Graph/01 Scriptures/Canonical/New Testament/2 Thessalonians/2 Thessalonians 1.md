@@ -38,4 +38,4 @@ cssclasses:
 **12** That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ. ^2thes-1-12
 
 ---
-[[2 Thessalonians 1 - Study Guide|Study guide]] · [[2 Thessalonians 1 - My Notes|My notes]] · [[2 Thessalonians]] · [[2 Thessalonians 2|2 Thessalonians 2 →]]
+[[2 Thessalonians 1 (Annotated)|Annotated]] · [[2 Thessalonians 1 - Study Guide|Study guide]] · [[2 Thessalonians 1 - My Notes|My notes]] · [[2 Thessalonians]] · [[2 Thessalonians 2|2 Thessalonians 2 →]]

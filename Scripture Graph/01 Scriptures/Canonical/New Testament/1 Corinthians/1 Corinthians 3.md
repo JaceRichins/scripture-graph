@@ -60,4 +60,4 @@ cssclasses:
 **23** And ye are Christ's; and Christ is God's. ^1cor-3-23
 
 ---
-[[1 Corinthians 2|← 1 Corinthians 2]] · [[1 Corinthians 3 - Study Guide|Study guide]] · [[1 Corinthians 3 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 4|1 Corinthians 4 →]]
+[[1 Corinthians 2|← 1 Corinthians 2]] · [[1 Corinthians 3 (Annotated)|Annotated]] · [[1 Corinthians 3 - Study Guide|Study guide]] · [[1 Corinthians 3 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 4|1 Corinthians 4 →]]

@@ -72,4 +72,4 @@ aliases:
 **28** The children of thy servants shall continue, and their seed shall be established before thee. ^ps-102-28
 
 ---
-[[Psalm 101|← Psalm 101]] · [[Psalm 102 - Study Guide|Study guide]] · [[Psalm 102 - My Notes|My notes]] · [[Psalms]] · [[Psalm 103|Psalm 103 →]]
+[[Psalm 101|← Psalm 101]] · [[Psalm 102 (Annotated)|Annotated]] · [[Psalm 102 - Study Guide|Study guide]] · [[Psalm 102 - My Notes|My notes]] · [[Psalms]] · [[Psalm 103|Psalm 103 →]]

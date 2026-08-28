@@ -68,4 +68,4 @@ cssclasses:
 **27** So the LORD was with Joshua; and his fame was noised throughout all the country. ^josh-6-27
 
 ---
-[[Joshua 5|← Joshua 5]] · [[Joshua 6 - Study Guide|Study guide]] · [[Joshua 6 - My Notes|My notes]] · [[Joshua]] · [[Joshua 7|Joshua 7 →]]
+[[Joshua 5|← Joshua 5]] · [[Joshua 6 (Annotated)|Annotated]] · [[Joshua 6 - Study Guide|Study guide]] · [[Joshua 6 - My Notes|My notes]] · [[Joshua]] · [[Joshua 7|Joshua 7 →]]

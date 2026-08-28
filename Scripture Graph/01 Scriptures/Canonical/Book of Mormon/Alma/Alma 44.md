@@ -62,4 +62,4 @@ cssclasses:
 **24** And thus ended the eighteenth year of the reign of the judges over the people of Nephi. And thus ended the record of Alma, which was written upon the plates of Nephi. ^alma-44-24
 
 ---
-[[Alma 43|← Alma 43]] · [[Alma 44 - Study Guide|Study guide]] · [[Alma 44 - My Notes|My notes]] · [[Alma]] · [[Alma 45|Alma 45 →]]
+[[Alma 43|← Alma 43]] · [[Alma 44 (Annotated)|Annotated]] · [[Alma 44 - Study Guide|Study guide]] · [[Alma 44 - My Notes|My notes]] · [[Alma]] · [[Alma 45|Alma 45 →]]

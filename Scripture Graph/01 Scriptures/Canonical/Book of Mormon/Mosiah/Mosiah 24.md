@@ -64,4 +64,4 @@ cssclasses:
 **25** And after they had been in the wilderness twelve days they arrived in the land of Zarahemla; and king Mosiah did also receive them with joy. ^mosiah-24-25
 
 ---
-[[Mosiah 23|← Mosiah 23]] · [[Mosiah 24 - Study Guide|Study guide]] · [[Mosiah 24 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 25|Mosiah 25 →]]
+[[Mosiah 23|← Mosiah 23]] · [[Mosiah 24 (Annotated)|Annotated]] · [[Mosiah 24 - Study Guide|Study guide]] · [[Mosiah 24 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 25|Mosiah 25 →]]

@@ -76,4 +76,4 @@ cssclasses:
 **31** Give her of the fruit of her hands; and let her own works praise her in the gates. ^prov-31-31
 
 ---
-[[Proverbs 30|← Proverbs 30]] · [[Proverbs 31 - Study Guide|Study guide]] · [[Proverbs 31 - My Notes|My notes]] · [[Proverbs]]
+[[Proverbs 30|← Proverbs 30]] · [[Proverbs 31 (Annotated)|Annotated]] · [[Proverbs 31 - Study Guide|Study guide]] · [[Proverbs 31 - My Notes|My notes]] · [[Proverbs]]

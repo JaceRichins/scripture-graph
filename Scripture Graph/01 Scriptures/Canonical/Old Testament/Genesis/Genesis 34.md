@@ -76,4 +76,4 @@ cssclasses:
 **31** And they said, Should he deal with our sister as with an harlot? ^gen-34-31
 
 ---
-[[Genesis 33|← Genesis 33]] · [[Genesis 34 - Study Guide|Study guide]] · [[Genesis 34 - My Notes|My notes]] · [[Genesis]] · [[Genesis 35|Genesis 35 →]]
+[[Genesis 33|← Genesis 33]] · [[Genesis 34 (Annotated)|Annotated]] · [[Genesis 34 - Study Guide|Study guide]] · [[Genesis 34 - My Notes|My notes]] · [[Genesis]] · [[Genesis 35|Genesis 35 →]]

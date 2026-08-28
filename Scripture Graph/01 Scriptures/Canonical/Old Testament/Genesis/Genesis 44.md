@@ -82,4 +82,4 @@ cssclasses:
 **34** For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father. ^gen-44-34
 
 ---
-[[Genesis 43|← Genesis 43]] · [[Genesis 44 - Study Guide|Study guide]] · [[Genesis 44 - My Notes|My notes]] · [[Genesis]] · [[Genesis 45|Genesis 45 →]]
+[[Genesis 43|← Genesis 43]] · [[Genesis 44 (Annotated)|Annotated]] · [[Genesis 44 - Study Guide|Study guide]] · [[Genesis 44 - My Notes|My notes]] · [[Genesis]] · [[Genesis 45|Genesis 45 →]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death. ^jer-26-24
 
 ---
-[[Jeremiah 25|← Jeremiah 25]] · [[Jeremiah 26 - Study Guide|Study guide]] · [[Jeremiah 26 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 27|Jeremiah 27 →]]
+[[Jeremiah 25|← Jeremiah 25]] · [[Jeremiah 26 (Annotated)|Annotated]] · [[Jeremiah 26 - Study Guide|Study guide]] · [[Jeremiah 26 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 27|Jeremiah 27 →]]

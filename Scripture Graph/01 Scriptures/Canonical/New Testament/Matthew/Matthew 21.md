@@ -106,4 +106,4 @@ cssclasses:
 **46** But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet. ^matt-21-46
 
 ---
-[[Matthew 20|← Matthew 20]] · [[Matthew 21 - Study Guide|Study guide]] · [[Matthew 21 - My Notes|My notes]] · [[Matthew]] · [[Matthew 22|Matthew 22 →]]
+[[Matthew 20|← Matthew 20]] · [[Matthew 21 (Annotated)|Annotated]] · [[Matthew 21 - Study Guide|Study guide]] · [[Matthew 21 - My Notes|My notes]] · [[Matthew]] · [[Matthew 22|Matthew 22 →]]

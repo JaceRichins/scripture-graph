@@ -128,4 +128,4 @@ cssclasses:
 **57** To teach when it is unclean, and when it is clean: this is the law of leprosy. ^lev-14-57
 
 ---
-[[Leviticus 13|← Leviticus 13]] · [[Leviticus 14 - Study Guide|Study guide]] · [[Leviticus 14 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 15|Leviticus 15 →]]
+[[Leviticus 13|← Leviticus 13]] · [[Leviticus 14 (Annotated)|Annotated]] · [[Leviticus 14 - Study Guide|Study guide]] · [[Leviticus 14 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 15|Leviticus 15 →]]

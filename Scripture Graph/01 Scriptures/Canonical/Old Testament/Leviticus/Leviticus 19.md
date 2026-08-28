@@ -88,4 +88,4 @@ cssclasses:
 **37** Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD. ^lev-19-37
 
 ---
-[[Leviticus 18|← Leviticus 18]] · [[Leviticus 19 - Study Guide|Study guide]] · [[Leviticus 19 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 20|Leviticus 20 →]]
+[[Leviticus 18|← Leviticus 18]] · [[Leviticus 19 (Annotated)|Annotated]] · [[Leviticus 19 - Study Guide|Study guide]] · [[Leviticus 19 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 20|Leviticus 20 →]]

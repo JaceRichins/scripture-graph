@@ -76,4 +76,4 @@ cssclasses:
 **31** And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses. ^ex-14-31
 
 ---
-[[Exodus 13|← Exodus 13]] · [[Exodus 14 - Study Guide|Study guide]] · [[Exodus 14 - My Notes|My notes]] · [[Exodus]] · [[Exodus 15|Exodus 15 →]]
+[[Exodus 13|← Exodus 13]] · [[Exodus 14 (Annotated)|Annotated]] · [[Exodus 14 - Study Guide|Study guide]] · [[Exodus 14 - My Notes|My notes]] · [[Exodus]] · [[Exodus 15|Exodus 15 →]]

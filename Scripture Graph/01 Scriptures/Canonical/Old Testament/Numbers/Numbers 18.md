@@ -78,4 +78,4 @@ cssclasses:
 **32** And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die. ^num-18-32
 
 ---
-[[Numbers 17|← Numbers 17]] · [[Numbers 18 - Study Guide|Study guide]] · [[Numbers 18 - My Notes|My notes]] · [[Numbers]] · [[Numbers 19|Numbers 19 →]]
+[[Numbers 17|← Numbers 17]] · [[Numbers 18 (Annotated)|Annotated]] · [[Numbers 18 - Study Guide|Study guide]] · [[Numbers 18 - My Notes|My notes]] · [[Numbers]] · [[Numbers 19|Numbers 19 →]]

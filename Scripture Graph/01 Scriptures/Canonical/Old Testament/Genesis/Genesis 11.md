@@ -78,4 +78,4 @@ cssclasses:
 **32** And the days of Terah were two hundred and five years: and Terah died in Haran. ^gen-11-32
 
 ---
-[[Genesis 10|← Genesis 10]] · [[Genesis 11 - Study Guide|Study guide]] · [[Genesis 11 - My Notes|My notes]] · [[Genesis]] · [[Genesis 12|Genesis 12 →]]
+[[Genesis 10|← Genesis 10]] · [[Genesis 11 (Annotated)|Annotated]] · [[Genesis 11 - Study Guide|Study guide]] · [[Genesis 11 - My Notes|My notes]] · [[Genesis]] · [[Genesis 12|Genesis 12 →]]

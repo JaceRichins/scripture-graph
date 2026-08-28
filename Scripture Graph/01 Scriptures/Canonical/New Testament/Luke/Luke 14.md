@@ -84,4 +84,4 @@ cssclasses:
 **35** It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear. ^luke-14-35
 
 ---
-[[Luke 13|← Luke 13]] · [[Luke 14 - Study Guide|Study guide]] · [[Luke 14 - My Notes|My notes]] · [[Luke]] · [[Luke 15|Luke 15 →]]
+[[Luke 13|← Luke 13]] · [[Luke 14 (Annotated)|Annotated]] · [[Luke 14 - Study Guide|Study guide]] · [[Luke 14 - My Notes|My notes]] · [[Luke]] · [[Luke 15|Luke 15 →]]

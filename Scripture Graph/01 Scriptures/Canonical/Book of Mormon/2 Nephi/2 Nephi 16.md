@@ -40,4 +40,4 @@ cssclasses:
 **13** But yet there shall be a tenth, and they shall return, and shall be eaten, as a teil tree, and as an oak whose substance is in them when they cast their leaves; so the holy seed shall be the substance thereof. ^2ne-16-13
 
 ---
-[[2 Nephi 15|← 2 Nephi 15]] · [[2 Nephi 16 - Study Guide|Study guide]] · [[2 Nephi 16 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 17|2 Nephi 17 →]]
+[[2 Nephi 15|← 2 Nephi 15]] · [[2 Nephi 16 (Annotated)|Annotated]] · [[2 Nephi 16 - Study Guide|Study guide]] · [[2 Nephi 16 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 17|2 Nephi 17 →]]

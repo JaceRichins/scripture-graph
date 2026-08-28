@@ -60,4 +60,4 @@ cssclasses:
 **23** And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king. ^esth-2-23
 
 ---
-[[Esther 1|← Esther 1]] · [[Esther 2 - Study Guide|Study guide]] · [[Esther 2 - My Notes|My notes]] · [[Esther]] · [[Esther 3|Esther 3 →]]
+[[Esther 1|← Esther 1]] · [[Esther 2 (Annotated)|Annotated]] · [[Esther 2 - Study Guide|Study guide]] · [[Esther 2 - My Notes|My notes]] · [[Esther]] · [[Esther 3|Esther 3 →]]

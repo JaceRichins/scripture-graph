@@ -48,4 +48,4 @@ cssclasses:
 **17** And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan. ^josh-3-17
 
 ---
-[[Joshua 2|← Joshua 2]] · [[Joshua 3 - Study Guide|Study guide]] · [[Joshua 3 - My Notes|My notes]] · [[Joshua]] · [[Joshua 4|Joshua 4 →]]
+[[Joshua 2|← Joshua 2]] · [[Joshua 3 (Annotated)|Annotated]] · [[Joshua 3 - Study Guide|Study guide]] · [[Joshua 3 - My Notes|My notes]] · [[Joshua]] · [[Joshua 4|Joshua 4 →]]

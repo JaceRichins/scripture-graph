@@ -40,4 +40,4 @@ cssclasses:
 **13** Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying? ^num-17-13
 
 ---
-[[Numbers 16|← Numbers 16]] · [[Numbers 17 - Study Guide|Study guide]] · [[Numbers 17 - My Notes|My notes]] · [[Numbers]] · [[Numbers 18|Numbers 18 →]]
+[[Numbers 16|← Numbers 16]] · [[Numbers 17 (Annotated)|Annotated]] · [[Numbers 17 - Study Guide|Study guide]] · [[Numbers 17 - My Notes|My notes]] · [[Numbers]] · [[Numbers 18|Numbers 18 →]]

@@ -48,4 +48,4 @@ cssclasses:
 **17** Because I was not cut off before the darkness, neither hath he covered the darkness from my face. ^job-23-17
 
 ---
-[[Job 22|← Job 22]] · [[Job 23 - Study Guide|Study guide]] · [[Job 23 - My Notes|My notes]] · [[Job]] · [[Job 24|Job 24 →]]
+[[Job 22|← Job 22]] · [[Job 23 (Annotated)|Annotated]] · [[Job 23 - Study Guide|Study guide]] · [[Job 23 - My Notes|My notes]] · [[Job]] · [[Job 24|Job 24 →]]

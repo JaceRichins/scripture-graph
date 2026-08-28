@@ -72,4 +72,4 @@ cssclasses:
 **29** And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means. ^1kgs-10-29
 
 ---
-[[1 Kings 9|← 1 Kings 9]] · [[1 Kings 10 - Study Guide|Study guide]] · [[1 Kings 10 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 11|1 Kings 11 →]]
+[[1 Kings 9|← 1 Kings 9]] · [[1 Kings 10 (Annotated)|Annotated]] · [[1 Kings 10 - Study Guide|Study guide]] · [[1 Kings 10 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 11|1 Kings 11 →]]

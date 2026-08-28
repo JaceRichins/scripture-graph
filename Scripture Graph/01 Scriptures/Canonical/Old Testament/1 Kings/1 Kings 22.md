@@ -120,4 +120,4 @@ cssclasses:
 **53** For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done. ^1kgs-22-53
 
 ---
-[[1 Kings 21|← 1 Kings 21]] · [[1 Kings 22 - Study Guide|Study guide]] · [[1 Kings 22 - My Notes|My notes]] · [[1 Kings]]
+[[1 Kings 21|← 1 Kings 21]] · [[1 Kings 22 (Annotated)|Annotated]] · [[1 Kings 22 - Study Guide|Study guide]] · [[1 Kings 22 - My Notes|My notes]] · [[1 Kings]]

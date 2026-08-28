@@ -38,4 +38,4 @@ aliases:
 **11** The LORD of hosts is with us; the God of Jacob is our refuge. Selah. ^ps-46-11
 
 ---
-[[Psalm 45|← Psalm 45]] · [[Psalm 46 - Study Guide|Study guide]] · [[Psalm 46 - My Notes|My notes]] · [[Psalms]] · [[Psalm 47|Psalm 47 →]]
+[[Psalm 45|← Psalm 45]] · [[Psalm 46 (Annotated)|Annotated]] · [[Psalm 46 - Study Guide|Study guide]] · [[Psalm 46 - My Notes|My notes]] · [[Psalms]] · [[Psalm 47|Psalm 47 →]]

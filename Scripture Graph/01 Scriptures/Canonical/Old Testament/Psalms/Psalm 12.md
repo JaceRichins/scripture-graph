@@ -32,4 +32,4 @@ aliases:
 **8** The wicked walk on every side, when the vilest men are exalted. ^ps-12-8
 
 ---
-[[Psalm 11|← Psalm 11]] · [[Psalm 12 - Study Guide|Study guide]] · [[Psalm 12 - My Notes|My notes]] · [[Psalms]] · [[Psalm 13|Psalm 13 →]]
+[[Psalm 11|← Psalm 11]] · [[Psalm 12 (Annotated)|Annotated]] · [[Psalm 12 - Study Guide|Study guide]] · [[Psalm 12 - My Notes|My notes]] · [[Psalms]] · [[Psalm 13|Psalm 13 →]]

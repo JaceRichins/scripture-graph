@@ -72,4 +72,4 @@ cssclasses:
 **29** If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. ^1jn-2-29
 
 ---
-[[1 John 1|← 1 John 1]] · [[1 John 2 - Study Guide|Study guide]] · [[1 John 2 - My Notes|My notes]] · [[1 John]] · [[1 John 3|1 John 3 →]]
+[[1 John 1|← 1 John 1]] · [[1 John 2 (Annotated)|Annotated]] · [[1 John 2 - Study Guide|Study guide]] · [[1 John 2 - My Notes|My notes]] · [[1 John]] · [[1 John 3|1 John 3 →]]

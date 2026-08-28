@@ -66,4 +66,4 @@ cssclasses:
 **26** Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that are in the utmost corners, that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart. ^jer-9-26
 
 ---
-[[Jeremiah 8|← Jeremiah 8]] · [[Jeremiah 9 - Study Guide|Study guide]] · [[Jeremiah 9 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 10|Jeremiah 10 →]]
+[[Jeremiah 8|← Jeremiah 8]] · [[Jeremiah 9 (Annotated)|Annotated]] · [[Jeremiah 9 - Study Guide|Study guide]] · [[Jeremiah 9 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 10|Jeremiah 10 →]]

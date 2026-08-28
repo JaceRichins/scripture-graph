@@ -56,4 +56,4 @@ cssclasses:
 **21** Yea, they are as a wild flock which fleeth from the shepherd, and scattereth, and are driven, and are devoured by the beasts of the forest. ^mosiah-8-21
 
 ---
-[[Mosiah 7|← Mosiah 7]] · [[Mosiah 8 - Study Guide|Study guide]] · [[Mosiah 8 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 9|Mosiah 9 →]]
+[[Mosiah 7|← Mosiah 7]] · [[Mosiah 8 (Annotated)|Annotated]] · [[Mosiah 8 - Study Guide|Study guide]] · [[Mosiah 8 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 9|Mosiah 9 →]]

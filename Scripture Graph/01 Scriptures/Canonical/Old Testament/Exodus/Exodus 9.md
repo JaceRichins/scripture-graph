@@ -84,4 +84,4 @@ cssclasses:
 **35** And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses. ^ex-9-35
 
 ---
-[[Exodus 8|← Exodus 8]] · [[Exodus 9 - Study Guide|Study guide]] · [[Exodus 9 - My Notes|My notes]] · [[Exodus]] · [[Exodus 10|Exodus 10 →]]
+[[Exodus 8|← Exodus 8]] · [[Exodus 9 (Annotated)|Annotated]] · [[Exodus 9 - Study Guide|Study guide]] · [[Exodus 9 - My Notes|My notes]] · [[Exodus]] · [[Exodus 10|Exodus 10 →]]

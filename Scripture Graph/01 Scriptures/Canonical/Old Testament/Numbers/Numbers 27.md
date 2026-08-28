@@ -60,4 +60,4 @@ cssclasses:
 **23** And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. ^num-27-23
 
 ---
-[[Numbers 26|← Numbers 26]] · [[Numbers 27 - Study Guide|Study guide]] · [[Numbers 27 - My Notes|My notes]] · [[Numbers]] · [[Numbers 28|Numbers 28 →]]
+[[Numbers 26|← Numbers 26]] · [[Numbers 27 (Annotated)|Annotated]] · [[Numbers 27 - Study Guide|Study guide]] · [[Numbers 27 - My Notes|My notes]] · [[Numbers]] · [[Numbers 28|Numbers 28 →]]

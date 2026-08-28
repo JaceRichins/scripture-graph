@@ -64,4 +64,4 @@ cssclasses:
 **25** The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want. ^prov-13-25
 
 ---
-[[Proverbs 12|← Proverbs 12]] · [[Proverbs 13 - Study Guide|Study guide]] · [[Proverbs 13 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 14|Proverbs 14 →]]
+[[Proverbs 12|← Proverbs 12]] · [[Proverbs 13 (Annotated)|Annotated]] · [[Proverbs 13 - Study Guide|Study guide]] · [[Proverbs 13 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 14|Proverbs 14 →]]

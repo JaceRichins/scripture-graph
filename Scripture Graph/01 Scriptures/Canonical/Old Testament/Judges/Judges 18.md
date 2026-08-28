@@ -76,4 +76,4 @@ cssclasses:
 **31** And they set them up Micah's graven image, which he made, all the time that the house of God was in Shiloh. ^judg-18-31
 
 ---
-[[Judges 17|← Judges 17]] · [[Judges 18 - Study Guide|Study guide]] · [[Judges 18 - My Notes|My notes]] · [[Judges]] · [[Judges 19|Judges 19 →]]
+[[Judges 17|← Judges 17]] · [[Judges 18 (Annotated)|Annotated]] · [[Judges 18 - Study Guide|Study guide]] · [[Judges 18 - My Notes|My notes]] · [[Judges]] · [[Judges 19|Judges 19 →]]

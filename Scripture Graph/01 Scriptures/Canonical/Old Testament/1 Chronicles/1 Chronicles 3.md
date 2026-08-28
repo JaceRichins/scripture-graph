@@ -62,4 +62,4 @@ cssclasses:
 **24** And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven. ^1chr-3-24
 
 ---
-[[1 Chronicles 2|← 1 Chronicles 2]] · [[1 Chronicles 3 - Study Guide|Study guide]] · [[1 Chronicles 3 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 4|1 Chronicles 4 →]]
+[[1 Chronicles 2|← 1 Chronicles 2]] · [[1 Chronicles 3 (Annotated)|Annotated]] · [[1 Chronicles 3 - Study Guide|Study guide]] · [[1 Chronicles 3 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 4|1 Chronicles 4 →]]

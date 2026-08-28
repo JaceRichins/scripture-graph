@@ -36,4 +36,4 @@ cssclasses:
 **11** So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel. ^1sam-29-11
 
 ---
-[[1 Samuel 28|← 1 Samuel 28]] · [[1 Samuel 29 - Study Guide|Study guide]] · [[1 Samuel 29 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 30|1 Samuel 30 →]]
+[[1 Samuel 28|← 1 Samuel 28]] · [[1 Samuel 29 (Annotated)|Annotated]] · [[1 Samuel 29 - Study Guide|Study guide]] · [[1 Samuel 29 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 30|1 Samuel 30 →]]

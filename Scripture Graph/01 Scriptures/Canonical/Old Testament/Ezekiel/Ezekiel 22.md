@@ -76,4 +76,4 @@ cssclasses:
 **31** Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD. ^ezek-22-31
 
 ---
-[[Ezekiel 21|← Ezekiel 21]] · [[Ezekiel 22 - Study Guide|Study guide]] · [[Ezekiel 22 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 23|Ezekiel 23 →]]
+[[Ezekiel 21|← Ezekiel 21]] · [[Ezekiel 22 (Annotated)|Annotated]] · [[Ezekiel 22 - Study Guide|Study guide]] · [[Ezekiel 22 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 23|Ezekiel 23 →]]

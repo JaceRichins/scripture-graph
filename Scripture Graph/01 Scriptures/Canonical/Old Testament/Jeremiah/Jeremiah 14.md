@@ -58,4 +58,4 @@ cssclasses:
 **22** Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these things. ^jer-14-22
 
 ---
-[[Jeremiah 13|← Jeremiah 13]] · [[Jeremiah 14 - Study Guide|Study guide]] · [[Jeremiah 14 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 15|Jeremiah 15 →]]
+[[Jeremiah 13|← Jeremiah 13]] · [[Jeremiah 14 (Annotated)|Annotated]] · [[Jeremiah 14 - Study Guide|Study guide]] · [[Jeremiah 14 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 15|Jeremiah 15 →]]

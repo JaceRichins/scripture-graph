@@ -68,4 +68,4 @@ cssclasses:
 **27** And they shall put my name upon the children of Israel; and I will bless them. ^num-6-27
 
 ---
-[[Numbers 5|← Numbers 5]] · [[Numbers 6 - Study Guide|Study guide]] · [[Numbers 6 - My Notes|My notes]] · [[Numbers]] · [[Numbers 7|Numbers 7 →]]
+[[Numbers 5|← Numbers 5]] · [[Numbers 6 (Annotated)|Annotated]] · [[Numbers 6 - Study Guide|Study guide]] · [[Numbers 6 - My Notes|My notes]] · [[Numbers]] · [[Numbers 7|Numbers 7 →]]

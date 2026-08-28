@@ -116,4 +116,4 @@ cssclasses:
 **51** He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore. ^2sam-22-51
 
 ---
-[[2 Samuel 21|← 2 Samuel 21]] · [[2 Samuel 22 - Study Guide|Study guide]] · [[2 Samuel 22 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 23|2 Samuel 23 →]]
+[[2 Samuel 21|← 2 Samuel 21]] · [[2 Samuel 22 (Annotated)|Annotated]] · [[2 Samuel 22 - Study Guide|Study guide]] · [[2 Samuel 22 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 23|2 Samuel 23 →]]

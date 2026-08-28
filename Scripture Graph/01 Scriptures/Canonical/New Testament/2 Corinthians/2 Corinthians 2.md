@@ -48,4 +48,4 @@ cssclasses:
 **17** For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ. ^2cor-2-17
 
 ---
-[[2 Corinthians 1|← 2 Corinthians 1]] · [[2 Corinthians 2 - Study Guide|Study guide]] · [[2 Corinthians 2 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 3|2 Corinthians 3 →]]
+[[2 Corinthians 1|← 2 Corinthians 1]] · [[2 Corinthians 2 (Annotated)|Annotated]] · [[2 Corinthians 2 - Study Guide|Study guide]] · [[2 Corinthians 2 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 3|2 Corinthians 3 →]]

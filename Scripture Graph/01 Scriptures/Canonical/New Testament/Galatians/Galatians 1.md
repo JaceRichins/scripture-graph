@@ -62,4 +62,4 @@ cssclasses:
 **24** And they glorified God in me. ^gal-1-24
 
 ---
-[[Galatians 1 - Study Guide|Study guide]] · [[Galatians 1 - My Notes|My notes]] · [[Galatians]] · [[Galatians 2|Galatians 2 →]]
+[[Galatians 1 (Annotated)|Annotated]] · [[Galatians 1 - Study Guide|Study guide]] · [[Galatians 1 - My Notes|My notes]] · [[Galatians]] · [[Galatians 2|Galatians 2 →]]

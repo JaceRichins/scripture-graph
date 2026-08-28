@@ -96,4 +96,4 @@ cssclasses:
 **41** Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth. ^john-9-41
 
 ---
-[[John 8|← John 8]] · [[John 9 - Study Guide|Study guide]] · [[John 9 - My Notes|My notes]] · [[John]] · [[John 10|John 10 →]]
+[[John 8|← John 8]] · [[John 9 (Annotated)|Annotated]] · [[John 9 - Study Guide|Study guide]] · [[John 9 - My Notes|My notes]] · [[John]] · [[John 10|John 10 →]]

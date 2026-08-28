@@ -36,4 +36,4 @@ cssclasses:
 **11** And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings. ^rev-10-11
 
 ---
-[[Revelation 9|← Revelation 9]] · [[Revelation 10 - Study Guide|Study guide]] · [[Revelation 10 - My Notes|My notes]] · [[Revelation]] · [[Revelation 11|Revelation 11 →]]
+[[Revelation 9|← Revelation 9]] · [[Revelation 10 (Annotated)|Annotated]] · [[Revelation 10 - Study Guide|Study guide]] · [[Revelation 10 - My Notes|My notes]] · [[Revelation]] · [[Revelation 11|Revelation 11 →]]

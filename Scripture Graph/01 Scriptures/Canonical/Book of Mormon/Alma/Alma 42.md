@@ -76,4 +76,4 @@ cssclasses:
 **31** And now, O my son, ye are called of God to preach the word unto this people. And now, my son, go thy way, declare the word with truth and soberness, that thou mayest bring souls unto repentance, that the great plan of mercy may have claim upon them. And may God grant unto you even according to my words. Amen. ^alma-42-31
 
 ---
-[[Alma 41|← Alma 41]] · [[Alma 42 - Study Guide|Study guide]] · [[Alma 42 - My Notes|My notes]] · [[Alma]] · [[Alma 43|Alma 43 →]]
+[[Alma 41|← Alma 41]] · [[Alma 42 (Annotated)|Annotated]] · [[Alma 42 - Study Guide|Study guide]] · [[Alma 42 - My Notes|My notes]] · [[Alma]] · [[Alma 43|Alma 43 →]]

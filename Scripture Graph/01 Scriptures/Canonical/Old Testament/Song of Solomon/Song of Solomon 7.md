@@ -40,4 +40,4 @@ cssclasses:
 **13** The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved. ^song-7-13
 
 ---
-[[Song of Solomon 6|← Song of Solomon 6]] · [[Song of Solomon 7 - Study Guide|Study guide]] · [[Song of Solomon 7 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 8|Song of Solomon 8 →]]
+[[Song of Solomon 6|← Song of Solomon 6]] · [[Song of Solomon 7 (Annotated)|Annotated]] · [[Song of Solomon 7 - Study Guide|Study guide]] · [[Song of Solomon 7 - My Notes|My notes]] · [[Song of Solomon]] · [[Song of Solomon 8|Song of Solomon 8 →]]

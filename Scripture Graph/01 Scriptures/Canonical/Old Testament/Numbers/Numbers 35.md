@@ -82,4 +82,4 @@ cssclasses:
 **34** Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel. ^num-35-34
 
 ---
-[[Numbers 34|← Numbers 34]] · [[Numbers 35 - Study Guide|Study guide]] · [[Numbers 35 - My Notes|My notes]] · [[Numbers]] · [[Numbers 36|Numbers 36 →]]
+[[Numbers 34|← Numbers 34]] · [[Numbers 35 (Annotated)|Annotated]] · [[Numbers 35 - Study Guide|Study guide]] · [[Numbers 35 - My Notes|My notes]] · [[Numbers]] · [[Numbers 36|Numbers 36 →]]

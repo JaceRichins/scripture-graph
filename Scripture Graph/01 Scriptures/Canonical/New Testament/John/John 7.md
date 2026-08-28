@@ -120,4 +120,4 @@ cssclasses:
 **53** And every man went unto his own house. ^john-7-53
 
 ---
-[[John 6|← John 6]] · [[John 7 - Study Guide|Study guide]] · [[John 7 - My Notes|My notes]] · [[John]] · [[John 8|John 8 →]]
+[[John 6|← John 6]] · [[John 7 (Annotated)|Annotated]] · [[John 7 - Study Guide|Study guide]] · [[John 7 - My Notes|My notes]] · [[John]] · [[John 8|John 8 →]]

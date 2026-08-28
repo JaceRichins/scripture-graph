@@ -134,4 +134,4 @@ cssclasses:
 **60** And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. ^acts-7-60
 
 ---
-[[Acts 6|← Acts 6]] · [[Acts 7 - Study Guide|Study guide]] · [[Acts 7 - My Notes|My notes]] · [[Acts]] · [[Acts 8|Acts 8 →]]
+[[Acts 6|← Acts 6]] · [[Acts 7 (Annotated)|Annotated]] · [[Acts 7 - Study Guide|Study guide]] · [[Acts 7 - My Notes|My notes]] · [[Acts]] · [[Acts 8|Acts 8 →]]

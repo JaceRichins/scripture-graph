@@ -46,4 +46,4 @@ cssclasses:
 **16** Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up. ^hosea-13-16
 
 ---
-[[Hosea 12|← Hosea 12]] · [[Hosea 13 - Study Guide|Study guide]] · [[Hosea 13 - My Notes|My notes]] · [[Hosea]] · [[Hosea 14|Hosea 14 →]]
+[[Hosea 12|← Hosea 12]] · [[Hosea 13 (Annotated)|Annotated]] · [[Hosea 13 - Study Guide|Study guide]] · [[Hosea 13 - My Notes|My notes]] · [[Hosea]] · [[Hosea 14|Hosea 14 →]]

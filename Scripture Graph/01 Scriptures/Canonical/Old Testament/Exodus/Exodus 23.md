@@ -80,4 +80,4 @@ cssclasses:
 **33** They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee. ^ex-23-33
 
 ---
-[[Exodus 22|← Exodus 22]] · [[Exodus 23 - Study Guide|Study guide]] · [[Exodus 23 - My Notes|My notes]] · [[Exodus]] · [[Exodus 24|Exodus 24 →]]
+[[Exodus 22|← Exodus 22]] · [[Exodus 23 (Annotated)|Annotated]] · [[Exodus 23 - Study Guide|Study guide]] · [[Exodus 23 - My Notes|My notes]] · [[Exodus]] · [[Exodus 24|Exodus 24 →]]

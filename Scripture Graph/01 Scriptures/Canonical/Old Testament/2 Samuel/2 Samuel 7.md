@@ -72,4 +72,4 @@ cssclasses:
 **29** Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord GOD, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever. ^2sam-7-29
 
 ---
-[[2 Samuel 6|← 2 Samuel 6]] · [[2 Samuel 7 - Study Guide|Study guide]] · [[2 Samuel 7 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 8|2 Samuel 8 →]]
+[[2 Samuel 6|← 2 Samuel 6]] · [[2 Samuel 7 (Annotated)|Annotated]] · [[2 Samuel 7 - Study Guide|Study guide]] · [[2 Samuel 7 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 8|2 Samuel 8 →]]

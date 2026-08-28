@@ -54,4 +54,4 @@ cssclasses:
 **20** Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem. ^neh-2-20
 
 ---
-[[Nehemiah 1|← Nehemiah 1]] · [[Nehemiah 2 - Study Guide|Study guide]] · [[Nehemiah 2 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 3|Nehemiah 3 →]]
+[[Nehemiah 1|← Nehemiah 1]] · [[Nehemiah 2 (Annotated)|Annotated]] · [[Nehemiah 2 - Study Guide|Study guide]] · [[Nehemiah 2 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 3|Nehemiah 3 →]]

@@ -34,4 +34,4 @@ cssclasses:
 **10** If we say that we have not sinned, we make him a liar, and his word is not in us. ^1jn-1-10
 
 ---
-[[1 John 1 - Study Guide|Study guide]] · [[1 John 1 - My Notes|My notes]] · [[1 John]] · [[1 John 2|1 John 2 →]]
+[[1 John 1 (Annotated)|Annotated]] · [[1 John 1 - Study Guide|Study guide]] · [[1 John 1 - My Notes|My notes]] · [[1 John]] · [[1 John 2|1 John 2 →]]

@@ -70,4 +70,4 @@ cssclasses:
 **28** So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. ^heb-9-28
 
 ---
-[[Hebrews 8|← Hebrews 8]] · [[Hebrews 9 - Study Guide|Study guide]] · [[Hebrews 9 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 10|Hebrews 10 →]]
+[[Hebrews 8|← Hebrews 8]] · [[Hebrews 9 (Annotated)|Annotated]] · [[Hebrews 9 - Study Guide|Study guide]] · [[Hebrews 9 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 10|Hebrews 10 →]]

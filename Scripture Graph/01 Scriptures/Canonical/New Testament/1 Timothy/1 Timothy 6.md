@@ -56,4 +56,4 @@ cssclasses:
 **21** Which some professing have erred concerning the faith. Grace be with thee. Amen. ^1tim-6-21
 
 ---
-[[1 Timothy 5|← 1 Timothy 5]] · [[1 Timothy 6 - Study Guide|Study guide]] · [[1 Timothy 6 - My Notes|My notes]] · [[1 Timothy]]
+[[1 Timothy 5|← 1 Timothy 5]] · [[1 Timothy 6 (Annotated)|Annotated]] · [[1 Timothy 6 - Study Guide|Study guide]] · [[1 Timothy 6 - My Notes|My notes]] · [[1 Timothy]]

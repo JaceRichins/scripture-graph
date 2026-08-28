@@ -84,4 +84,4 @@ cssclasses:
 **35** And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing. ^gen-29-35
 
 ---
-[[Genesis 28|← Genesis 28]] · [[Genesis 29 - Study Guide|Study guide]] · [[Genesis 29 - My Notes|My notes]] · [[Genesis]] · [[Genesis 30|Genesis 30 →]]
+[[Genesis 28|← Genesis 28]] · [[Genesis 29 (Annotated)|Annotated]] · [[Genesis 29 - Study Guide|Study guide]] · [[Genesis 29 - My Notes|My notes]] · [[Genesis]] · [[Genesis 30|Genesis 30 →]]

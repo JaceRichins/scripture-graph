@@ -54,4 +54,4 @@ cssclasses:
 **20** Of whom is Hymenæus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme. ^1tim-1-20
 
 ---
-[[1 Timothy 1 - Study Guide|Study guide]] · [[1 Timothy 1 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 2|1 Timothy 2 →]]
+[[1 Timothy 1 (Annotated)|Annotated]] · [[1 Timothy 1 - Study Guide|Study guide]] · [[1 Timothy 1 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 2|1 Timothy 2 →]]

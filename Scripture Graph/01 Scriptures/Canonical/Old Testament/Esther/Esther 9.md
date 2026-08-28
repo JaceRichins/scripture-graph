@@ -78,4 +78,4 @@ cssclasses:
 **32** And the decree of Esther confirmed these matters of Purim; and it was written in the book. ^esth-9-32
 
 ---
-[[Esther 8|← Esther 8]] · [[Esther 9 - Study Guide|Study guide]] · [[Esther 9 - My Notes|My notes]] · [[Esther]] · [[Esther 10|Esther 10 →]]
+[[Esther 8|← Esther 8]] · [[Esther 9 (Annotated)|Annotated]] · [[Esther 9 - Study Guide|Study guide]] · [[Esther 9 - My Notes|My notes]] · [[Esther]] · [[Esther 10|Esther 10 →]]

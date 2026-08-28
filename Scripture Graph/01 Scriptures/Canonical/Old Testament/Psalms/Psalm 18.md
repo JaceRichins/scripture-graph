@@ -116,4 +116,4 @@ aliases:
 **50** Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore. ^ps-18-50
 
 ---
-[[Psalm 17|← Psalm 17]] · [[Psalm 18 - Study Guide|Study guide]] · [[Psalm 18 - My Notes|My notes]] · [[Psalms]] · [[Psalm 19|Psalm 19 →]]
+[[Psalm 17|← Psalm 17]] · [[Psalm 18 (Annotated)|Annotated]] · [[Psalm 18 - Study Guide|Study guide]] · [[Psalm 18 - My Notes|My notes]] · [[Psalms]] · [[Psalm 19|Psalm 19 →]]

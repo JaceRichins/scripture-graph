@@ -42,4 +42,4 @@ aliases:
 **13** Salt Lake City, Utah, September 30, 1978. ^od-2-13
 
 ---
-[[Official Declaration 1|← Official Declaration 1]] · [[Official Declaration 2 - Study Guide|Study guide]] · [[Official Declaration 2 - My Notes|My notes]] · [[Official Declarations]]
+[[Official Declaration 1|← Official Declaration 1]] · [[Official Declaration 2 (Annotated)|Annotated]] · [[Official Declaration 2 - Study Guide|Study guide]] · [[Official Declaration 2 - My Notes|My notes]] · [[Official Declarations]]

@@ -126,4 +126,4 @@ cssclasses:
 **56** Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them. ^num-33-56
 
 ---
-[[Numbers 32|← Numbers 32]] · [[Numbers 33 - Study Guide|Study guide]] · [[Numbers 33 - My Notes|My notes]] · [[Numbers]] · [[Numbers 34|Numbers 34 →]]
+[[Numbers 32|← Numbers 32]] · [[Numbers 33 (Annotated)|Annotated]] · [[Numbers 33 - Study Guide|Study guide]] · [[Numbers 33 - My Notes|My notes]] · [[Numbers]] · [[Numbers 34|Numbers 34 →]]

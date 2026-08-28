@@ -68,4 +68,4 @@ cssclasses:
 **27** Turn not to the right hand nor to the left: remove thy foot from evil. ^prov-4-27
 
 ---
-[[Proverbs 3|← Proverbs 3]] · [[Proverbs 4 - Study Guide|Study guide]] · [[Proverbs 4 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 5|Proverbs 5 →]]
+[[Proverbs 3|← Proverbs 3]] · [[Proverbs 4 (Annotated)|Annotated]] · [[Proverbs 4 - Study Guide|Study guide]] · [[Proverbs 4 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 5|Proverbs 5 →]]

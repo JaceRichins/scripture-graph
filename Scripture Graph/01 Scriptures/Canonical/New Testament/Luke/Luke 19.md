@@ -110,4 +110,4 @@ cssclasses:
 **48** And could not find what they might do: for all the people were very attentive to hear him. ^luke-19-48
 
 ---
-[[Luke 18|← Luke 18]] · [[Luke 19 - Study Guide|Study guide]] · [[Luke 19 - My Notes|My notes]] · [[Luke]] · [[Luke 20|Luke 20 →]]
+[[Luke 18|← Luke 18]] · [[Luke 19 (Annotated)|Annotated]] · [[Luke 19 - Study Guide|Study guide]] · [[Luke 19 - My Notes|My notes]] · [[Luke]] · [[Luke 20|Luke 20 →]]

@@ -70,4 +70,4 @@ cssclasses:
 **28** Therefore also I have lent him to the LORD; as long as he liveth he shall be lent to the LORD. And he worshipped the LORD there. ^1sam-1-28
 
 ---
-[[1 Samuel 1 - Study Guide|Study guide]] · [[1 Samuel 1 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 2|1 Samuel 2 →]]
+[[1 Samuel 1 (Annotated)|Annotated]] · [[1 Samuel 1 - Study Guide|Study guide]] · [[1 Samuel 1 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 2|1 Samuel 2 →]]

@@ -54,4 +54,4 @@ cssclasses:
 **20** Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. ^matt-28-20
 
 ---
-[[Matthew 27|← Matthew 27]] · [[Matthew 28 - Study Guide|Study guide]] · [[Matthew 28 - My Notes|My notes]] · [[Matthew]]
+[[Matthew 27|← Matthew 27]] · [[Matthew 28 (Annotated)|Annotated]] · [[Matthew 28 - Study Guide|Study guide]] · [[Matthew 28 - My Notes|My notes]] · [[Matthew]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the LORD. ^ezek-38-23
 
 ---
-[[Ezekiel 37|← Ezekiel 37]] · [[Ezekiel 38 - Study Guide|Study guide]] · [[Ezekiel 38 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 39|Ezekiel 39 →]]
+[[Ezekiel 37|← Ezekiel 37]] · [[Ezekiel 38 (Annotated)|Annotated]] · [[Ezekiel 38 - Study Guide|Study guide]] · [[Ezekiel 38 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 39|Ezekiel 39 →]]

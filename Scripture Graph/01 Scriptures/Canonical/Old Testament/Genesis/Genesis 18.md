@@ -80,4 +80,4 @@ cssclasses:
 **33** And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place. ^gen-18-33
 
 ---
-[[Genesis 17|← Genesis 17]] · [[Genesis 18 - Study Guide|Study guide]] · [[Genesis 18 - My Notes|My notes]] · [[Genesis]] · [[Genesis 19|Genesis 19 →]]
+[[Genesis 17|← Genesis 17]] · [[Genesis 18 (Annotated)|Annotated]] · [[Genesis 18 - Study Guide|Study guide]] · [[Genesis 18 - My Notes|My notes]] · [[Genesis]] · [[Genesis 19|Genesis 19 →]]

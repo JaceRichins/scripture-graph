@@ -56,4 +56,4 @@ cssclasses:
 **21** In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am the LORD. ^ezek-29-21
 
 ---
-[[Ezekiel 28|← Ezekiel 28]] · [[Ezekiel 29 - Study Guide|Study guide]] · [[Ezekiel 29 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 30|Ezekiel 30 →]]
+[[Ezekiel 28|← Ezekiel 28]] · [[Ezekiel 29 (Annotated)|Annotated]] · [[Ezekiel 29 - Study Guide|Study guide]] · [[Ezekiel 29 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 30|Ezekiel 30 →]]

@@ -88,4 +88,4 @@ cssclasses:
 **37** Now Abinadi said unto them, Have ye done all this? I say unto you, Nay, ye have not. And have ye taught this people that they should do all these things? I say unto you, Nay, ye have not. ^mosiah-12-37
 
 ---
-[[Mosiah 11|← Mosiah 11]] · [[Mosiah 12 - Study Guide|Study guide]] · [[Mosiah 12 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 13|Mosiah 13 →]]
+[[Mosiah 11|← Mosiah 11]] · [[Mosiah 12 (Annotated)|Annotated]] · [[Mosiah 12 - Study Guide|Study guide]] · [[Mosiah 12 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 13|Mosiah 13 →]]

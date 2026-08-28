@@ -76,4 +76,4 @@ cssclasses:
 **31** Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him. ^acts-28-31
 
 ---
-[[Acts 27|← Acts 27]] · [[Acts 28 - Study Guide|Study guide]] · [[Acts 28 - My Notes|My notes]] · [[Acts]]
+[[Acts 27|← Acts 27]] · [[Acts 28 (Annotated)|Annotated]] · [[Acts 28 - Study Guide|Study guide]] · [[Acts 28 - My Notes|My notes]] · [[Acts]]

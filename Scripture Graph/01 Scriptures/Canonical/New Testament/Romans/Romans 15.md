@@ -80,4 +80,4 @@ cssclasses:
 **33** Now the God of peace be with you all. Amen. ^rom-15-33
 
 ---
-[[Romans 14|← Romans 14]] · [[Romans 15 - Study Guide|Study guide]] · [[Romans 15 - My Notes|My notes]] · [[Romans]] · [[Romans 16|Romans 16 →]]
+[[Romans 14|← Romans 14]] · [[Romans 15 (Annotated)|Annotated]] · [[Romans 15 - Study Guide|Study guide]] · [[Romans 15 - My Notes|My notes]] · [[Romans]] · [[Romans 16|Romans 16 →]]

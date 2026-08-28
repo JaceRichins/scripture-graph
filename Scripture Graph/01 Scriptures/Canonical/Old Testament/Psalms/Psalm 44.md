@@ -68,4 +68,4 @@ aliases:
 **26** Arise for our help, and redeem us for thy mercies' sake. ^ps-44-26
 
 ---
-[[Psalm 43|← Psalm 43]] · [[Psalm 44 - Study Guide|Study guide]] · [[Psalm 44 - My Notes|My notes]] · [[Psalms]] · [[Psalm 45|Psalm 45 →]]
+[[Psalm 43|← Psalm 43]] · [[Psalm 44 (Annotated)|Annotated]] · [[Psalm 44 - Study Guide|Study guide]] · [[Psalm 44 - My Notes|My notes]] · [[Psalms]] · [[Psalm 45|Psalm 45 →]]

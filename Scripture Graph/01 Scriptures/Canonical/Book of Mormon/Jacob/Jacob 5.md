@@ -168,4 +168,4 @@ cssclasses:
 **77** And when the time cometh that evil fruit shall again come into my vineyard, then will I cause the good and the bad to be gathered; and the good will I preserve unto myself, and the bad will I cast away into its own place. And then cometh the season and the end; and my vineyard will I cause to be burned with fire. ^jacob-5-77
 
 ---
-[[Jacob 4|← Jacob 4]] · [[Jacob 5 - Study Guide|Study guide]] · [[Jacob 5 - My Notes|My notes]] · [[Jacob]] · [[Jacob 6|Jacob 6 →]]
+[[Jacob 4|← Jacob 4]] · [[Jacob 5 (Annotated)|Annotated]] · [[Jacob 5 - Study Guide|Study guide]] · [[Jacob 5 - My Notes|My notes]] · [[Jacob]] · [[Jacob 6|Jacob 6 →]]

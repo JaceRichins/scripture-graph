@@ -44,4 +44,4 @@ cssclasses:
 **15** O LORD God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this. ^ezra-9-15
 
 ---
-[[Ezra 8|← Ezra 8]] · [[Ezra 9 - Study Guide|Study guide]] · [[Ezra 9 - My Notes|My notes]] · [[Ezra]] · [[Ezra 10|Ezra 10 →]]
+[[Ezra 8|← Ezra 8]] · [[Ezra 9 (Annotated)|Annotated]] · [[Ezra 9 - Study Guide|Study guide]] · [[Ezra 9 - My Notes|My notes]] · [[Ezra]] · [[Ezra 10|Ezra 10 →]]

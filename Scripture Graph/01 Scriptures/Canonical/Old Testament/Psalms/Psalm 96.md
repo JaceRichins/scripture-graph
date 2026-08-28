@@ -42,4 +42,4 @@ aliases:
 **13** Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth. ^ps-96-13
 
 ---
-[[Psalm 95|← Psalm 95]] · [[Psalm 96 - Study Guide|Study guide]] · [[Psalm 96 - My Notes|My notes]] · [[Psalms]] · [[Psalm 97|Psalm 97 →]]
+[[Psalm 95|← Psalm 95]] · [[Psalm 96 (Annotated)|Annotated]] · [[Psalm 96 - Study Guide|Study guide]] · [[Psalm 96 - My Notes|My notes]] · [[Psalms]] · [[Psalm 97|Psalm 97 →]]

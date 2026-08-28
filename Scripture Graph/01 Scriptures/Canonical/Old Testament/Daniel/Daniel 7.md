@@ -70,4 +70,4 @@ cssclasses:
 **28** Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart. ^dan-7-28
 
 ---
-[[Daniel 6|← Daniel 6]] · [[Daniel 7 - Study Guide|Study guide]] · [[Daniel 7 - My Notes|My notes]] · [[Daniel]] · [[Daniel 8|Daniel 8 →]]
+[[Daniel 6|← Daniel 6]] · [[Daniel 7 (Annotated)|Annotated]] · [[Daniel 7 - Study Guide|Study guide]] · [[Daniel 7 - My Notes|My notes]] · [[Daniel]] · [[Daniel 8|Daniel 8 →]]

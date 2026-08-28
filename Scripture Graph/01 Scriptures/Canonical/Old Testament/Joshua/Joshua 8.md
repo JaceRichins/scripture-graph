@@ -84,4 +84,4 @@ cssclasses:
 **35** There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them. ^josh-8-35
 
 ---
-[[Joshua 7|← Joshua 7]] · [[Joshua 8 - Study Guide|Study guide]] · [[Joshua 8 - My Notes|My notes]] · [[Joshua]] · [[Joshua 9|Joshua 9 →]]
+[[Joshua 7|← Joshua 7]] · [[Joshua 8 (Annotated)|Annotated]] · [[Joshua 8 - Study Guide|Study guide]] · [[Joshua 8 - My Notes|My notes]] · [[Joshua]] · [[Joshua 9|Joshua 9 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever. ^2ne-29-14
 
 ---
-[[2 Nephi 28|← 2 Nephi 28]] · [[2 Nephi 29 - Study Guide|Study guide]] · [[2 Nephi 29 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 30|2 Nephi 30 →]]
+[[2 Nephi 28|← 2 Nephi 28]] · [[2 Nephi 29 (Annotated)|Annotated]] · [[2 Nephi 29 - Study Guide|Study guide]] · [[2 Nephi 29 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 30|2 Nephi 30 →]]

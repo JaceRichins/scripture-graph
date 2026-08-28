@@ -90,4 +90,4 @@ cssclasses:
 **38** Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship. ^acts-20-38
 
 ---
-[[Acts 19|← Acts 19]] · [[Acts 20 - Study Guide|Study guide]] · [[Acts 20 - My Notes|My notes]] · [[Acts]] · [[Acts 21|Acts 21 →]]
+[[Acts 19|← Acts 19]] · [[Acts 20 (Annotated)|Annotated]] · [[Acts 20 - Study Guide|Study guide]] · [[Acts 20 - My Notes|My notes]] · [[Acts]] · [[Acts 21|Acts 21 →]]

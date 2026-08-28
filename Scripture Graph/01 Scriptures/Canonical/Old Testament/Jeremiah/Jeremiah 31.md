@@ -94,4 +94,4 @@ cssclasses:
 **40** And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, shall be holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever. ^jer-31-40
 
 ---
-[[Jeremiah 30|← Jeremiah 30]] · [[Jeremiah 31 - Study Guide|Study guide]] · [[Jeremiah 31 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 32|Jeremiah 32 →]]
+[[Jeremiah 30|← Jeremiah 30]] · [[Jeremiah 31 (Annotated)|Annotated]] · [[Jeremiah 31 - Study Guide|Study guide]] · [[Jeremiah 31 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 32|Jeremiah 32 →]]

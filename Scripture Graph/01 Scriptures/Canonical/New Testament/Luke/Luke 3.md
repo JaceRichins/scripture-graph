@@ -90,4 +90,4 @@ cssclasses:
 **38** Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God. ^luke-3-38
 
 ---
-[[Luke 2|← Luke 2]] · [[Luke 3 - Study Guide|Study guide]] · [[Luke 3 - My Notes|My notes]] · [[Luke]] · [[Luke 4|Luke 4 →]]
+[[Luke 2|← Luke 2]] · [[Luke 3 (Annotated)|Annotated]] · [[Luke 3 - Study Guide|Study guide]] · [[Luke 3 - My Notes|My notes]] · [[Luke]] · [[Luke 4|Luke 4 →]]

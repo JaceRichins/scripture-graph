@@ -78,4 +78,4 @@ aliases:
 **31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this. ^ps-22-31
 
 ---
-[[Psalm 21|← Psalm 21]] · [[Psalm 22 - Study Guide|Study guide]] · [[Psalm 22 - My Notes|My notes]] · [[Psalms]] · [[Psalm 23|Psalm 23 →]]
+[[Psalm 21|← Psalm 21]] · [[Psalm 22 (Annotated)|Annotated]] · [[Psalm 22 - Study Guide|Study guide]] · [[Psalm 22 - My Notes|My notes]] · [[Psalms]] · [[Psalm 23|Psalm 23 →]]

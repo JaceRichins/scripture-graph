@@ -84,4 +84,4 @@ cssclasses:
 **35** And the people journeyed from Kibroth-hattaavah unto Hazeroth; and abode at Hazeroth. ^num-11-35
 
 ---
-[[Numbers 10|← Numbers 10]] · [[Numbers 11 - Study Guide|Study guide]] · [[Numbers 11 - My Notes|My notes]] · [[Numbers]] · [[Numbers 12|Numbers 12 →]]
+[[Numbers 10|← Numbers 10]] · [[Numbers 11 (Annotated)|Annotated]] · [[Numbers 11 - Study Guide|Study guide]] · [[Numbers 11 - My Notes|My notes]] · [[Numbers]] · [[Numbers 12|Numbers 12 →]]

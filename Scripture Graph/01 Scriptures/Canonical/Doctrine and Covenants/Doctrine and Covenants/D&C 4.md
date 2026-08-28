@@ -30,4 +30,4 @@ aliases:
 **7** Ask, and ye shall receive; knock, and it shall be opened unto you. Amen. ^dc-4-7
 
 ---
-[[D&C 3|← D&C 3]] · [[D&C 4 - Study Guide|Study guide]] · [[D&C 4 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 5|D&C 5 →]]
+[[D&C 3|← D&C 3]] · [[D&C 4 (Annotated)|Annotated]] · [[D&C 4 - Study Guide|Study guide]] · [[D&C 4 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 5|D&C 5 →]]

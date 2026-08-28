@@ -54,4 +54,4 @@ cssclasses:
 **20** And so it fell out unto him: for the people trode upon him in the gate, and he died. ^2kgs-7-20
 
 ---
-[[2 Kings 6|← 2 Kings 6]] · [[2 Kings 7 - Study Guide|Study guide]] · [[2 Kings 7 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 8|2 Kings 8 →]]
+[[2 Kings 6|← 2 Kings 6]] · [[2 Kings 7 (Annotated)|Annotated]] · [[2 Kings 7 - Study Guide|Study guide]] · [[2 Kings 7 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 8|2 Kings 8 →]]

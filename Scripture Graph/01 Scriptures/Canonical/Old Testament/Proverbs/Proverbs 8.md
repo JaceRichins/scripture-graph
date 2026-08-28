@@ -86,4 +86,4 @@ cssclasses:
 **36** But he that sinneth against me wrongeth his own soul: all they that hate me love death. ^prov-8-36
 
 ---
-[[Proverbs 7|← Proverbs 7]] · [[Proverbs 8 - Study Guide|Study guide]] · [[Proverbs 8 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 9|Proverbs 9 →]]
+[[Proverbs 7|← Proverbs 7]] · [[Proverbs 8 (Annotated)|Annotated]] · [[Proverbs 8 - Study Guide|Study guide]] · [[Proverbs 8 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 9|Proverbs 9 →]]

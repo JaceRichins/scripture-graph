@@ -78,4 +78,4 @@ cssclasses:
 **32** And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you. ^eph-4-32
 
 ---
-[[Ephesians 3|← Ephesians 3]] · [[Ephesians 4 - Study Guide|Study guide]] · [[Ephesians 4 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 5|Ephesians 5 →]]
+[[Ephesians 3|← Ephesians 3]] · [[Ephesians 4 (Annotated)|Annotated]] · [[Ephesians 4 - Study Guide|Study guide]] · [[Ephesians 4 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 5|Ephesians 5 →]]

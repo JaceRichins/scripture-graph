@@ -140,4 +140,4 @@ cssclasses:
 **63** As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day. ^josh-15-63
 
 ---
-[[Joshua 14|← Joshua 14]] · [[Joshua 15 - Study Guide|Study guide]] · [[Joshua 15 - My Notes|My notes]] · [[Joshua]] · [[Joshua 16|Joshua 16 →]]
+[[Joshua 14|← Joshua 14]] · [[Joshua 15 (Annotated)|Annotated]] · [[Joshua 15 - Study Guide|Study guide]] · [[Joshua 15 - My Notes|My notes]] · [[Joshua]] · [[Joshua 16|Joshua 16 →]]

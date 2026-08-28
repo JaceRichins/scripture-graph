@@ -94,4 +94,4 @@ cssclasses:
 **40** And look that thou make them after their pattern, which was shewed thee in the mount. ^ex-25-40
 
 ---
-[[Exodus 24|← Exodus 24]] · [[Exodus 25 - Study Guide|Study guide]] · [[Exodus 25 - My Notes|My notes]] · [[Exodus]] · [[Exodus 26|Exodus 26 →]]
+[[Exodus 24|← Exodus 24]] · [[Exodus 25 (Annotated)|Annotated]] · [[Exodus 25 - Study Guide|Study guide]] · [[Exodus 25 - My Notes|My notes]] · [[Exodus]] · [[Exodus 26|Exodus 26 →]]

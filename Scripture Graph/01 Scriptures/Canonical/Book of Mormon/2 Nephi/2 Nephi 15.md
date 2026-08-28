@@ -74,4 +74,4 @@ cssclasses:
 **30** And in that day they shall roar against them like the roaring of the sea; and if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof. ^2ne-15-30
 
 ---
-[[2 Nephi 14|← 2 Nephi 14]] · [[2 Nephi 15 - Study Guide|Study guide]] · [[2 Nephi 15 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 16|2 Nephi 16 →]]
+[[2 Nephi 14|← 2 Nephi 14]] · [[2 Nephi 15 (Annotated)|Annotated]] · [[2 Nephi 15 - Study Guide|Study guide]] · [[2 Nephi 15 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 16|2 Nephi 16 →]]

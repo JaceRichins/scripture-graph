@@ -60,4 +60,4 @@ cssclasses:
 **23** Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard. ^1sam-22-23
 
 ---
-[[1 Samuel 21|← 1 Samuel 21]] · [[1 Samuel 22 - Study Guide|Study guide]] · [[1 Samuel 22 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 23|1 Samuel 23 →]]
+[[1 Samuel 21|← 1 Samuel 21]] · [[1 Samuel 22 (Annotated)|Annotated]] · [[1 Samuel 22 - Study Guide|Study guide]] · [[1 Samuel 22 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 23|1 Samuel 23 →]]

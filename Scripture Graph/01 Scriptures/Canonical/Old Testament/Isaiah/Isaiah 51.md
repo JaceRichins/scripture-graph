@@ -60,4 +60,4 @@ cssclasses:
 **23** But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over. ^isa-51-23
 
 ---
-[[Isaiah 50|← Isaiah 50]] · [[Isaiah 51 - Study Guide|Study guide]] · [[Isaiah 51 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 52|Isaiah 52 →]]
+[[Isaiah 50|← Isaiah 50]] · [[Isaiah 51 (Annotated)|Annotated]] · [[Isaiah 51 - Study Guide|Study guide]] · [[Isaiah 51 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 52|Isaiah 52 →]]

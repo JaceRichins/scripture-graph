@@ -62,4 +62,4 @@ cssclasses:
 **24** Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf. ^2cor-8-24
 
 ---
-[[2 Corinthians 7|← 2 Corinthians 7]] · [[2 Corinthians 8 - Study Guide|Study guide]] · [[2 Corinthians 8 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 9|2 Corinthians 9 →]]
+[[2 Corinthians 7|← 2 Corinthians 7]] · [[2 Corinthians 8 (Annotated)|Annotated]] · [[2 Corinthians 8 - Study Guide|Study guide]] · [[2 Corinthians 8 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 9|2 Corinthians 9 →]]

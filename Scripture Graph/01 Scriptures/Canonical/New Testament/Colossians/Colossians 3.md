@@ -64,4 +64,4 @@ cssclasses:
 **25** But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons. ^col-3-25
 
 ---
-[[Colossians 2|← Colossians 2]] · [[Colossians 3 - Study Guide|Study guide]] · [[Colossians 3 - My Notes|My notes]] · [[Colossians]] · [[Colossians 4|Colossians 4 →]]
+[[Colossians 2|← Colossians 2]] · [[Colossians 3 (Annotated)|Annotated]] · [[Colossians 3 - Study Guide|Study guide]] · [[Colossians 3 - My Notes|My notes]] · [[Colossians]] · [[Colossians 4|Colossians 4 →]]

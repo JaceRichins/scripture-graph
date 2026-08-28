@@ -80,4 +80,4 @@ cssclasses:
 **33** If not, hearken unto me: hold thy peace, and I shall teach thee wisdom. ^job-33-33
 
 ---
-[[Job 32|← Job 32]] · [[Job 33 - Study Guide|Study guide]] · [[Job 33 - My Notes|My notes]] · [[Job]] · [[Job 34|Job 34 →]]
+[[Job 32|← Job 32]] · [[Job 33 (Annotated)|Annotated]] · [[Job 33 - Study Guide|Study guide]] · [[Job 33 - My Notes|My notes]] · [[Job]] · [[Job 34|Job 34 →]]

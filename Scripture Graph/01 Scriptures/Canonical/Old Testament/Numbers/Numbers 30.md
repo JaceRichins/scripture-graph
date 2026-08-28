@@ -46,4 +46,4 @@ cssclasses:
 **16** These are the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house. ^num-30-16
 
 ---
-[[Numbers 29|← Numbers 29]] · [[Numbers 30 - Study Guide|Study guide]] · [[Numbers 30 - My Notes|My notes]] · [[Numbers]] · [[Numbers 31|Numbers 31 →]]
+[[Numbers 29|← Numbers 29]] · [[Numbers 30 (Annotated)|Annotated]] · [[Numbers 30 - Study Guide|Study guide]] · [[Numbers 30 - My Notes|My notes]] · [[Numbers]] · [[Numbers 31|Numbers 31 →]]

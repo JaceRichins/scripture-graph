@@ -48,4 +48,4 @@ cssclasses:
 **17** So Hananiah the prophet died the same year in the seventh month. ^jer-28-17
 
 ---
-[[Jeremiah 27|← Jeremiah 27]] · [[Jeremiah 28 - Study Guide|Study guide]] · [[Jeremiah 28 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 29|Jeremiah 29 →]]
+[[Jeremiah 27|← Jeremiah 27]] · [[Jeremiah 28 (Annotated)|Annotated]] · [[Jeremiah 28 - Study Guide|Study guide]] · [[Jeremiah 28 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 29|Jeremiah 29 →]]

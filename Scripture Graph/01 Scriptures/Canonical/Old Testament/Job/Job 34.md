@@ -88,4 +88,4 @@ cssclasses:
 **37** For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God. ^job-34-37
 
 ---
-[[Job 33|← Job 33]] · [[Job 34 - Study Guide|Study guide]] · [[Job 34 - My Notes|My notes]] · [[Job]] · [[Job 35|Job 35 →]]
+[[Job 33|← Job 33]] · [[Job 34 (Annotated)|Annotated]] · [[Job 34 - Study Guide|Study guide]] · [[Job 34 - My Notes|My notes]] · [[Job]] · [[Job 35|Job 35 →]]

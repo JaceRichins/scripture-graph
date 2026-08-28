@@ -72,4 +72,4 @@ cssclasses:
 **29** And David went up from thence, and dwelt in strong holds at En-gedi. ^1sam-23-29
 
 ---
-[[1 Samuel 22|← 1 Samuel 22]] · [[1 Samuel 23 - Study Guide|Study guide]] · [[1 Samuel 23 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 24|1 Samuel 24 →]]
+[[1 Samuel 22|← 1 Samuel 22]] · [[1 Samuel 23 (Annotated)|Annotated]] · [[1 Samuel 23 - Study Guide|Study guide]] · [[1 Samuel 23 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 24|1 Samuel 24 →]]

@@ -32,4 +32,4 @@ cssclasses:
 **9** Therefore ye need not suppose that ye can turn the right hand of the Lord unto the left, that he may not execute judgment unto the fulfilling of the covenant which he hath made unto the house of Israel. ^3ne-29-9
 
 ---
-[[3 Nephi 28|← 3 Nephi 28]] · [[3 Nephi 29 - Study Guide|Study guide]] · [[3 Nephi 29 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 30|3 Nephi 30 →]]
+[[3 Nephi 28|← 3 Nephi 28]] · [[3 Nephi 29 (Annotated)|Annotated]] · [[3 Nephi 29 - Study Guide|Study guide]] · [[3 Nephi 29 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 30|3 Nephi 30 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** But many that are first shall be last; and the last shall be first. ^matt-19-30
 
 ---
-[[Matthew 18|← Matthew 18]] · [[Matthew 19 - Study Guide|Study guide]] · [[Matthew 19 - My Notes|My notes]] · [[Matthew]] · [[Matthew 20|Matthew 20 →]]
+[[Matthew 18|← Matthew 18]] · [[Matthew 19 (Annotated)|Annotated]] · [[Matthew 19 - Study Guide|Study guide]] · [[Matthew 19 - My Notes|My notes]] · [[Matthew]] · [[Matthew 20|Matthew 20 →]]

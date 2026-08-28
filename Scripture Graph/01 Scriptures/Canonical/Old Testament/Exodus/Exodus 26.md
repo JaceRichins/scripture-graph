@@ -88,4 +88,4 @@ cssclasses:
 **37** And thou shalt make for the hanging five pillars of shittim wood, and overlay them with gold, and their hooks shall be of gold: and thou shalt cast five sockets of brass for them. ^ex-26-37
 
 ---
-[[Exodus 25|← Exodus 25]] · [[Exodus 26 - Study Guide|Study guide]] · [[Exodus 26 - My Notes|My notes]] · [[Exodus]] · [[Exodus 27|Exodus 27 →]]
+[[Exodus 25|← Exodus 25]] · [[Exodus 26 (Annotated)|Annotated]] · [[Exodus 26 - Study Guide|Study guide]] · [[Exodus 26 - My Notes|My notes]] · [[Exodus]] · [[Exodus 27|Exodus 27 →]]

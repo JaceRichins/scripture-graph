@@ -26,4 +26,4 @@ cssclasses:
 **6** How much less man, that is a worm? and the son of man, which is a worm? ^job-25-6
 
 ---
-[[Job 24|← Job 24]] · [[Job 25 - Study Guide|Study guide]] · [[Job 25 - My Notes|My notes]] · [[Job]] · [[Job 26|Job 26 →]]
+[[Job 24|← Job 24]] · [[Job 25 (Annotated)|Annotated]] · [[Job 25 - Study Guide|Study guide]] · [[Job 25 - My Notes|My notes]] · [[Job]] · [[Job 26|Job 26 →]]

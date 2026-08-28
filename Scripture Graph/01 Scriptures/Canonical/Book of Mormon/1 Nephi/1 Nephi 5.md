@@ -58,4 +58,4 @@ cssclasses:
 **22** Wherefore, it was wisdom in the Lord that we should carry them with us, as we journeyed in the wilderness towards the land of promise. ^1ne-5-22
 
 ---
-[[1 Nephi 4|← 1 Nephi 4]] · [[1 Nephi 5 - Study Guide|Study guide]] · [[1 Nephi 5 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 6|1 Nephi 6 →]]
+[[1 Nephi 4|← 1 Nephi 4]] · [[1 Nephi 5 (Annotated)|Annotated]] · [[1 Nephi 5 - Study Guide|Study guide]] · [[1 Nephi 5 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 6|1 Nephi 6 →]]

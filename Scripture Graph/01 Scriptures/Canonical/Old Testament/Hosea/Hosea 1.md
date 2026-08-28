@@ -36,4 +36,4 @@ cssclasses:
 **11** Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel. ^hosea-1-11
 
 ---
-[[Hosea 1 - Study Guide|Study guide]] · [[Hosea 1 - My Notes|My notes]] · [[Hosea]] · [[Hosea 2|Hosea 2 →]]
+[[Hosea 1 (Annotated)|Annotated]] · [[Hosea 1 - Study Guide|Study guide]] · [[Hosea 1 - My Notes|My notes]] · [[Hosea]] · [[Hosea 2|Hosea 2 →]]

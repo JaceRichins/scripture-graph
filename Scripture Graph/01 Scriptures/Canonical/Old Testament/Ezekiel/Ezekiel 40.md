@@ -112,4 +112,4 @@ cssclasses:
 **49** The length of the porch was twenty cubits, and the breadth eleven cubits; and he brought me by the steps whereby they went up to it: and there were pillars by the posts, one on this side, and another on that side. ^ezek-40-49
 
 ---
-[[Ezekiel 39|← Ezekiel 39]] · [[Ezekiel 40 - Study Guide|Study guide]] · [[Ezekiel 40 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 41|Ezekiel 41 →]]
+[[Ezekiel 39|← Ezekiel 39]] · [[Ezekiel 40 (Annotated)|Annotated]] · [[Ezekiel 40 - Study Guide|Study guide]] · [[Ezekiel 40 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 41|Ezekiel 41 →]]

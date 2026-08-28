@@ -80,4 +80,4 @@ cssclasses:
 **33** And it came to pass that by thus exercising the law upon them, every man suffering according to that which he had done, they became more still, and durst not commit any wickedness if it were known; therefore, there was much peace among the people of Nephi until the fifth year of the reign of the judges. ^alma-1-33
 
 ---
-[[Alma 1 - Study Guide|Study guide]] · [[Alma 1 - My Notes|My notes]] · [[Alma]] · [[Alma 2|Alma 2 →]]
+[[Alma 1 (Annotated)|Annotated]] · [[Alma 1 - Study Guide|Study guide]] · [[Alma 1 - My Notes|My notes]] · [[Alma]] · [[Alma 2|Alma 2 →]]

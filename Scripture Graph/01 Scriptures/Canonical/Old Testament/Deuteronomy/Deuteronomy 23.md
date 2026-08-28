@@ -64,4 +64,4 @@ cssclasses:
 **25** When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour's standing corn. ^deut-23-25
 
 ---
-[[Deuteronomy 22|← Deuteronomy 22]] · [[Deuteronomy 23 - Study Guide|Study guide]] · [[Deuteronomy 23 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 24|Deuteronomy 24 →]]
+[[Deuteronomy 22|← Deuteronomy 22]] · [[Deuteronomy 23 (Annotated)|Annotated]] · [[Deuteronomy 23 - Study Guide|Study guide]] · [[Deuteronomy 23 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 24|Deuteronomy 24 →]]

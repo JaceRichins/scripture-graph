@@ -60,4 +60,4 @@ cssclasses:
 **23** Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up. ^2chr-36-23
 
 ---
-[[2 Chronicles 35|← 2 Chronicles 35]] · [[2 Chronicles 36 - Study Guide|Study guide]] · [[2 Chronicles 36 - My Notes|My notes]] · [[2 Chronicles]]
+[[2 Chronicles 35|← 2 Chronicles 35]] · [[2 Chronicles 36 (Annotated)|Annotated]] · [[2 Chronicles 36 - Study Guide|Study guide]] · [[2 Chronicles 36 - My Notes|My notes]] · [[2 Chronicles]]

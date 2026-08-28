@@ -72,4 +72,4 @@ cssclasses:
 **29** Whereunto I also labour, striving according to his working, which worketh in me mightily. ^col-1-29
 
 ---
-[[Colossians 1 - Study Guide|Study guide]] · [[Colossians 1 - My Notes|My notes]] · [[Colossians]] · [[Colossians 2|Colossians 2 →]]
+[[Colossians 1 (Annotated)|Annotated]] · [[Colossians 1 - Study Guide|Study guide]] · [[Colossians 1 - My Notes|My notes]] · [[Colossians]] · [[Colossians 2|Colossians 2 →]]

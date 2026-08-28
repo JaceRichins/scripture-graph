@@ -36,4 +36,4 @@ cssclasses:
 **11** And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me. ^ezek-9-11
 
 ---
-[[Ezekiel 8|← Ezekiel 8]] · [[Ezekiel 9 - Study Guide|Study guide]] · [[Ezekiel 9 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 10|Ezekiel 10 →]]
+[[Ezekiel 8|← Ezekiel 8]] · [[Ezekiel 9 (Annotated)|Annotated]] · [[Ezekiel 9 - Study Guide|Study guide]] · [[Ezekiel 9 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 10|Ezekiel 10 →]]

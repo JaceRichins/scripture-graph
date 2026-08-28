@@ -54,4 +54,4 @@ cssclasses:
 **20** But Samson's wife was given to his companion, whom he had used as his friend. ^judg-14-20
 
 ---
-[[Judges 13|← Judges 13]] · [[Judges 14 - Study Guide|Study guide]] · [[Judges 14 - My Notes|My notes]] · [[Judges]] · [[Judges 15|Judges 15 →]]
+[[Judges 13|← Judges 13]] · [[Judges 14 (Annotated)|Annotated]] · [[Judges 14 - Study Guide|Study guide]] · [[Judges 14 - My Notes|My notes]] · [[Judges]] · [[Judges 15|Judges 15 →]]

@@ -48,4 +48,4 @@ cssclasses:
 **17** And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king. ^1chr-18-17
 
 ---
-[[1 Chronicles 17|← 1 Chronicles 17]] · [[1 Chronicles 18 - Study Guide|Study guide]] · [[1 Chronicles 18 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 19|1 Chronicles 19 →]]
+[[1 Chronicles 17|← 1 Chronicles 17]] · [[1 Chronicles 18 (Annotated)|Annotated]] · [[1 Chronicles 18 - Study Guide|Study guide]] · [[1 Chronicles 18 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 19|1 Chronicles 19 →]]

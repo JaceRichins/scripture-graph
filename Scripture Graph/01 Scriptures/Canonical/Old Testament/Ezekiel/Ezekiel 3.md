@@ -68,4 +68,4 @@ cssclasses:
 **27** But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. ^ezek-3-27
 
 ---
-[[Ezekiel 2|← Ezekiel 2]] · [[Ezekiel 3 - Study Guide|Study guide]] · [[Ezekiel 3 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 4|Ezekiel 4 →]]
+[[Ezekiel 2|← Ezekiel 2]] · [[Ezekiel 3 (Annotated)|Annotated]] · [[Ezekiel 3 - Study Guide|Study guide]] · [[Ezekiel 3 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 4|Ezekiel 4 →]]

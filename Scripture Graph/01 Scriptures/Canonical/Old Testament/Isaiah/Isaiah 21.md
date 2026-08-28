@@ -48,4 +48,4 @@ cssclasses:
 **17** And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it. ^isa-21-17
 
 ---
-[[Isaiah 20|← Isaiah 20]] · [[Isaiah 21 - Study Guide|Study guide]] · [[Isaiah 21 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 22|Isaiah 22 →]]
+[[Isaiah 20|← Isaiah 20]] · [[Isaiah 21 (Annotated)|Annotated]] · [[Isaiah 21 - Study Guide|Study guide]] · [[Isaiah 21 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 22|Isaiah 22 →]]

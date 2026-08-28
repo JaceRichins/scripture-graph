@@ -54,4 +54,4 @@ cssclasses:
 **20** For he shall not much remember the days of his life; because God answereth him in the joy of his heart. ^eccl-5-20
 
 ---
-[[Ecclesiastes 4|← Ecclesiastes 4]] · [[Ecclesiastes 5 - Study Guide|Study guide]] · [[Ecclesiastes 5 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 6|Ecclesiastes 6 →]]
+[[Ecclesiastes 4|← Ecclesiastes 4]] · [[Ecclesiastes 5 (Annotated)|Annotated]] · [[Ecclesiastes 5 - Study Guide|Study guide]] · [[Ecclesiastes 5 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 6|Ecclesiastes 6 →]]

@@ -52,4 +52,4 @@ cssclasses:
 **19** Showing his body unto them, and ministering unto them; and an account of his ministry shall be given hereafter. Therefore for this time I make an end of my sayings. ^3ne-10-19
 
 ---
-[[3 Nephi 9|← 3 Nephi 9]] · [[3 Nephi 10 - Study Guide|Study guide]] · [[3 Nephi 10 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 11|3 Nephi 11 →]]
+[[3 Nephi 9|← 3 Nephi 9]] · [[3 Nephi 10 (Annotated)|Annotated]] · [[3 Nephi 10 - Study Guide|Study guide]] · [[3 Nephi 10 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 11|3 Nephi 11 →]]

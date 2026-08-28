@@ -42,4 +42,4 @@ cssclasses:
 **14** And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries' art: and they made a very great burning for him. ^2chr-16-14
 
 ---
-[[2 Chronicles 15|← 2 Chronicles 15]] · [[2 Chronicles 16 - Study Guide|Study guide]] · [[2 Chronicles 16 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 17|2 Chronicles 17 →]]
+[[2 Chronicles 15|← 2 Chronicles 15]] · [[2 Chronicles 16 (Annotated)|Annotated]] · [[2 Chronicles 16 - Study Guide|Study guide]] · [[2 Chronicles 16 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 17|2 Chronicles 17 →]]

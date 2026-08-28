@@ -54,4 +54,4 @@ cssclasses:
 **20** The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches. ^rev-1-20
 
 ---
-[[Revelation 1 - Study Guide|Study guide]] · [[Revelation 1 - My Notes|My notes]] · [[Revelation]] · [[Revelation 2|Revelation 2 →]]
+[[Revelation 1 (Annotated)|Annotated]] · [[Revelation 1 - Study Guide|Study guide]] · [[Revelation 1 - My Notes|My notes]] · [[Revelation]] · [[Revelation 2|Revelation 2 →]]

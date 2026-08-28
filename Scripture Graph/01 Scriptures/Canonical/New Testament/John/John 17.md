@@ -66,4 +66,4 @@ cssclasses:
 **26** And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them. ^john-17-26
 
 ---
-[[John 16|← John 16]] · [[John 17 - Study Guide|Study guide]] · [[John 17 - My Notes|My notes]] · [[John]] · [[John 18|John 18 →]]
+[[John 16|← John 16]] · [[John 17 (Annotated)|Annotated]] · [[John 17 - Study Guide|Study guide]] · [[John 17 - My Notes|My notes]] · [[John]] · [[John 18|John 18 →]]

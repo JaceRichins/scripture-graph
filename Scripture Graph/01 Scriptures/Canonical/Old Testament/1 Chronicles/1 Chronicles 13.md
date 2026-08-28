@@ -42,4 +42,4 @@ cssclasses:
 **14** And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had. ^1chr-13-14
 
 ---
-[[1 Chronicles 12|← 1 Chronicles 12]] · [[1 Chronicles 13 - Study Guide|Study guide]] · [[1 Chronicles 13 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 14|1 Chronicles 14 →]]
+[[1 Chronicles 12|← 1 Chronicles 12]] · [[1 Chronicles 13 (Annotated)|Annotated]] · [[1 Chronicles 13 - Study Guide|Study guide]] · [[1 Chronicles 13 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 14|1 Chronicles 14 →]]

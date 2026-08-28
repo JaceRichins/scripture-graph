@@ -90,4 +90,4 @@ cssclasses:
 **38** And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead. ^2kgs-15-38
 
 ---
-[[2 Kings 14|← 2 Kings 14]] · [[2 Kings 15 - Study Guide|Study guide]] · [[2 Kings 15 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 16|2 Kings 16 →]]
+[[2 Kings 14|← 2 Kings 14]] · [[2 Kings 15 (Annotated)|Annotated]] · [[2 Kings 15 - Study Guide|Study guide]] · [[2 Kings 15 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 16|2 Kings 16 →]]

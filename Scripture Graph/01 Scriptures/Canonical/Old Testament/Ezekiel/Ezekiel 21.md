@@ -78,4 +78,4 @@ cssclasses:
 **32** Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the LORD have spoken it. ^ezek-21-32
 
 ---
-[[Ezekiel 20|← Ezekiel 20]] · [[Ezekiel 21 - Study Guide|Study guide]] · [[Ezekiel 21 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 22|Ezekiel 22 →]]
+[[Ezekiel 20|← Ezekiel 20]] · [[Ezekiel 21 (Annotated)|Annotated]] · [[Ezekiel 21 - Study Guide|Study guide]] · [[Ezekiel 21 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 22|Ezekiel 22 →]]

@@ -44,4 +44,4 @@ aliases:
 **14** Stand fast in the work wherewith I have called you, and a hair of your head shall not be lost, and you shall be lifted up at the last day. Amen. ^dc-9-14
 
 ---
-[[D&C 8|← D&C 8]] · [[D&C 9 - Study Guide|Study guide]] · [[D&C 9 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 10|D&C 10 →]]
+[[D&C 8|← D&C 8]] · [[D&C 9 (Annotated)|Annotated]] · [[D&C 9 - Study Guide|Study guide]] · [[D&C 9 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 10|D&C 10 →]]

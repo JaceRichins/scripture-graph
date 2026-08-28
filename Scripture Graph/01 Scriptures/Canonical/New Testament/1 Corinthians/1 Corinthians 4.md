@@ -56,4 +56,4 @@ cssclasses:
 **21** What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness? ^1cor-4-21
 
 ---
-[[1 Corinthians 3|← 1 Corinthians 3]] · [[1 Corinthians 4 - Study Guide|Study guide]] · [[1 Corinthians 4 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 5|1 Corinthians 5 →]]
+[[1 Corinthians 3|← 1 Corinthians 3]] · [[1 Corinthians 4 (Annotated)|Annotated]] · [[1 Corinthians 4 - Study Guide|Study guide]] · [[1 Corinthians 4 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 5|1 Corinthians 5 →]]

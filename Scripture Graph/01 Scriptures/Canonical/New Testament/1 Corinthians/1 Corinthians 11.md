@@ -82,4 +82,4 @@ cssclasses:
 **34** And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come. ^1cor-11-34
 
 ---
-[[1 Corinthians 10|← 1 Corinthians 10]] · [[1 Corinthians 11 - Study Guide|Study guide]] · [[1 Corinthians 11 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 12|1 Corinthians 12 →]]
+[[1 Corinthians 10|← 1 Corinthians 10]] · [[1 Corinthians 11 (Annotated)|Annotated]] · [[1 Corinthians 11 - Study Guide|Study guide]] · [[1 Corinthians 11 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 12|1 Corinthians 12 →]]

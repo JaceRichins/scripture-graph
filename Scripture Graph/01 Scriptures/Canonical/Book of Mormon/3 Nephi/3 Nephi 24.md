@@ -50,4 +50,4 @@ cssclasses:
 **18** Then shall ye return and discern between the righteous and the wicked, between him that serveth God and him that serveth him not. ^3ne-24-18
 
 ---
-[[3 Nephi 23|← 3 Nephi 23]] · [[3 Nephi 24 - Study Guide|Study guide]] · [[3 Nephi 24 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 25|3 Nephi 25 →]]
+[[3 Nephi 23|← 3 Nephi 23]] · [[3 Nephi 24 (Annotated)|Annotated]] · [[3 Nephi 24 - Study Guide|Study guide]] · [[3 Nephi 24 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 25|3 Nephi 25 →]]

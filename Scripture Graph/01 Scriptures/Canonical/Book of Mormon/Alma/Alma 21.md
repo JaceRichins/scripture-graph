@@ -60,4 +60,4 @@ cssclasses:
 **23** And Ammon did preach unto the people of king Lamoni; and it came to pass that he did teach them all things concerning things pertaining to righteousness. And he did exhort them daily, with all diligence; and they gave heed unto his word, and they were zealous for keeping the commandments of God. ^alma-21-23
 
 ---
-[[Alma 20|← Alma 20]] · [[Alma 21 - Study Guide|Study guide]] · [[Alma 21 - My Notes|My notes]] · [[Alma]] · [[Alma 22|Alma 22 →]]
+[[Alma 20|← Alma 20]] · [[Alma 21 (Annotated)|Annotated]] · [[Alma 21 - Study Guide|Study guide]] · [[Alma 21 - My Notes|My notes]] · [[Alma]] · [[Alma 22|Alma 22 →]]

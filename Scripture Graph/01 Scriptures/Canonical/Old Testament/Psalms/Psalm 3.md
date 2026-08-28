@@ -32,4 +32,4 @@ aliases:
 **8** Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah. ^ps-3-8
 
 ---
-[[Psalm 2|← Psalm 2]] · [[Psalm 3 - Study Guide|Study guide]] · [[Psalm 3 - My Notes|My notes]] · [[Psalms]] · [[Psalm 4|Psalm 4 →]]
+[[Psalm 2|← Psalm 2]] · [[Psalm 3 (Annotated)|Annotated]] · [[Psalm 3 - Study Guide|Study guide]] · [[Psalm 3 - My Notes|My notes]] · [[Psalms]] · [[Psalm 4|Psalm 4 →]]

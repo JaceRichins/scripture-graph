@@ -62,4 +62,4 @@ cssclasses:
 **24** And behold now, I am a bold Lamanite; behold, this war hath been waged to avenge their wrongs, and to maintain and to obtain their rights to the government; and I close my epistle to Moroni. ^alma-54-24
 
 ---
-[[Alma 53|← Alma 53]] · [[Alma 54 - Study Guide|Study guide]] · [[Alma 54 - My Notes|My notes]] · [[Alma]] · [[Alma 55|Alma 55 →]]
+[[Alma 53|← Alma 53]] · [[Alma 54 (Annotated)|Annotated]] · [[Alma 54 - Study Guide|Study guide]] · [[Alma 54 - My Notes|My notes]] · [[Alma]] · [[Alma 55|Alma 55 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** And in every work that he began in the service of the house of God, and in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered. ^2chr-31-21
 
 ---
-[[2 Chronicles 30|← 2 Chronicles 30]] · [[2 Chronicles 31 - Study Guide|Study guide]] · [[2 Chronicles 31 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 32|2 Chronicles 32 →]]
+[[2 Chronicles 30|← 2 Chronicles 30]] · [[2 Chronicles 31 (Annotated)|Annotated]] · [[2 Chronicles 31 - Study Guide|Study guide]] · [[2 Chronicles 31 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 32|2 Chronicles 32 →]]

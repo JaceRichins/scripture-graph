@@ -84,4 +84,4 @@ cssclasses:
 **35** And thus ended the twenty and ninth year of the reign of the judges over the people of Nephi. ^alma-55-35
 
 ---
-[[Alma 54|← Alma 54]] · [[Alma 55 - Study Guide|Study guide]] · [[Alma 55 - My Notes|My notes]] · [[Alma]] · [[Alma 56|Alma 56 →]]
+[[Alma 54|← Alma 54]] · [[Alma 55 (Annotated)|Annotated]] · [[Alma 55 - Study Guide|Study guide]] · [[Alma 55 - My Notes|My notes]] · [[Alma]] · [[Alma 56|Alma 56 →]]

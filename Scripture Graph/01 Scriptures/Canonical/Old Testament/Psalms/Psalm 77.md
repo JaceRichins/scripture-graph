@@ -56,4 +56,4 @@ aliases:
 **20** Thou leddest thy people like a flock by the hand of Moses and Aaron. ^ps-77-20
 
 ---
-[[Psalm 76|← Psalm 76]] · [[Psalm 77 - Study Guide|Study guide]] · [[Psalm 77 - My Notes|My notes]] · [[Psalms]] · [[Psalm 78|Psalm 78 →]]
+[[Psalm 76|← Psalm 76]] · [[Psalm 77 (Annotated)|Annotated]] · [[Psalm 77 - Study Guide|Study guide]] · [[Psalm 77 - My Notes|My notes]] · [[Psalms]] · [[Psalm 78|Psalm 78 →]]

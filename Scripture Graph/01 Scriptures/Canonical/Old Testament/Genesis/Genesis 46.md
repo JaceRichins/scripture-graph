@@ -82,4 +82,4 @@ cssclasses:
 **34** That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians. ^gen-46-34
 
 ---
-[[Genesis 45|← Genesis 45]] · [[Genesis 46 - Study Guide|Study guide]] · [[Genesis 46 - My Notes|My notes]] · [[Genesis]] · [[Genesis 47|Genesis 47 →]]
+[[Genesis 45|← Genesis 45]] · [[Genesis 46 (Annotated)|Annotated]] · [[Genesis 46 - Study Guide|Study guide]] · [[Genesis 46 - My Notes|My notes]] · [[Genesis]] · [[Genesis 47|Genesis 47 →]]

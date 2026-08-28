@@ -80,4 +80,4 @@ cssclasses:
 **33** The fear of the LORD is the instruction of wisdom; and before honour is humility. ^prov-15-33
 
 ---
-[[Proverbs 14|← Proverbs 14]] · [[Proverbs 15 - Study Guide|Study guide]] · [[Proverbs 15 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 16|Proverbs 16 →]]
+[[Proverbs 14|← Proverbs 14]] · [[Proverbs 15 (Annotated)|Annotated]] · [[Proverbs 15 - Study Guide|Study guide]] · [[Proverbs 15 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 16|Proverbs 16 →]]

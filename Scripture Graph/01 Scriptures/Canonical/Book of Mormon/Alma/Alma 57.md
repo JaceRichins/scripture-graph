@@ -86,4 +86,4 @@ cssclasses:
 **36** Now it came to pass that when I, Helaman, had heard these words of Gid, I was filled with exceeding joy because of the goodness of God in preserving us, that we might not all perish; yea, and I trust that the souls of them who have been slain have entered into the rest of their God. ^alma-57-36
 
 ---
-[[Alma 56|← Alma 56]] · [[Alma 57 - Study Guide|Study guide]] · [[Alma 57 - My Notes|My notes]] · [[Alma]] · [[Alma 58|Alma 58 →]]
+[[Alma 56|← Alma 56]] · [[Alma 57 (Annotated)|Annotated]] · [[Alma 57 - Study Guide|Study guide]] · [[Alma 57 - My Notes|My notes]] · [[Alma]] · [[Alma 58|Alma 58 →]]

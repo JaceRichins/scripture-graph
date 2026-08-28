@@ -56,4 +56,4 @@ cssclasses:
 **21** Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God. ^job-18-21
 
 ---
-[[Job 17|← Job 17]] · [[Job 18 - Study Guide|Study guide]] · [[Job 18 - My Notes|My notes]] · [[Job]] · [[Job 19|Job 19 →]]
+[[Job 17|← Job 17]] · [[Job 18 (Annotated)|Annotated]] · [[Job 18 - Study Guide|Study guide]] · [[Job 18 - My Notes|My notes]] · [[Job]] · [[Job 19|Job 19 →]]

@@ -66,4 +66,4 @@ cssclasses:
 **26** And Ira also the Jairite was a chief ruler about David. ^2sam-20-26
 
 ---
-[[2 Samuel 19|← 2 Samuel 19]] · [[2 Samuel 20 - Study Guide|Study guide]] · [[2 Samuel 20 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 21|2 Samuel 21 →]]
+[[2 Samuel 19|← 2 Samuel 19]] · [[2 Samuel 20 (Annotated)|Annotated]] · [[2 Samuel 20 - Study Guide|Study guide]] · [[2 Samuel 20 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 21|2 Samuel 21 →]]

@@ -72,4 +72,4 @@ cssclasses:
 **29** And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him. ^gen-35-29
 
 ---
-[[Genesis 34|← Genesis 34]] · [[Genesis 35 - Study Guide|Study guide]] · [[Genesis 35 - My Notes|My notes]] · [[Genesis]] · [[Genesis 36|Genesis 36 →]]
+[[Genesis 34|← Genesis 34]] · [[Genesis 35 (Annotated)|Annotated]] · [[Genesis 35 - Study Guide|Study guide]] · [[Genesis 35 - My Notes|My notes]] · [[Genesis]] · [[Genesis 36|Genesis 36 →]]

@@ -76,4 +76,4 @@ cssclasses:
 **31** Then his brethren and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years. ^judg-16-31
 
 ---
-[[Judges 15|← Judges 15]] · [[Judges 16 - Study Guide|Study guide]] · [[Judges 16 - My Notes|My notes]] · [[Judges]] · [[Judges 17|Judges 17 →]]
+[[Judges 15|← Judges 15]] · [[Judges 16 (Annotated)|Annotated]] · [[Judges 16 - Study Guide|Study guide]] · [[Judges 16 - My Notes|My notes]] · [[Judges]] · [[Judges 17|Judges 17 →]]

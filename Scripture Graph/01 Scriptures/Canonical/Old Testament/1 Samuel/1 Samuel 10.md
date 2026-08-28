@@ -68,4 +68,4 @@ cssclasses:
 **27** But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace. ^1sam-10-27
 
 ---
-[[1 Samuel 9|← 1 Samuel 9]] · [[1 Samuel 10 - Study Guide|Study guide]] · [[1 Samuel 10 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 11|1 Samuel 11 →]]
+[[1 Samuel 9|← 1 Samuel 9]] · [[1 Samuel 10 (Annotated)|Annotated]] · [[1 Samuel 10 - Study Guide|Study guide]] · [[1 Samuel 10 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 11|1 Samuel 11 →]]

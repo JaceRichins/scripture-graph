@@ -84,4 +84,4 @@ cssclasses:
 **35** Neither shewed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had shewed unto Israel. ^judg-8-35
 
 ---
-[[Judges 7|← Judges 7]] · [[Judges 8 - Study Guide|Study guide]] · [[Judges 8 - My Notes|My notes]] · [[Judges]] · [[Judges 9|Judges 9 →]]
+[[Judges 7|← Judges 7]] · [[Judges 8 (Annotated)|Annotated]] · [[Judges 8 - Study Guide|Study guide]] · [[Judges 8 - My Notes|My notes]] · [[Judges]] · [[Judges 9|Judges 9 →]]

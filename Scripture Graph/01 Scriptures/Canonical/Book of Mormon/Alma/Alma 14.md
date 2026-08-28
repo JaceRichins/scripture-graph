@@ -72,4 +72,4 @@ cssclasses:
 **29** Now the people having heard a great noise came running together by multitudes to know the cause of it; and when they saw Alma and Amulek coming forth out of the prison, and the walls thereof had fallen to the earth, they were struck with great fear, and fled from the presence of Alma and Amulek even as a goat fleeth with her young from two lions; and thus they did flee from the presence of Alma and Amulek. ^alma-14-29
 
 ---
-[[Alma 13|← Alma 13]] · [[Alma 14 - Study Guide|Study guide]] · [[Alma 14 - My Notes|My notes]] · [[Alma]] · [[Alma 15|Alma 15 →]]
+[[Alma 13|← Alma 13]] · [[Alma 14 (Annotated)|Annotated]] · [[Alma 14 - Study Guide|Study guide]] · [[Alma 14 - My Notes|My notes]] · [[Alma]] · [[Alma 15|Alma 15 →]]

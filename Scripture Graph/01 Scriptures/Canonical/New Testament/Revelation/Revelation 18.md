@@ -62,4 +62,4 @@ cssclasses:
 **24** And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth. ^rev-18-24
 
 ---
-[[Revelation 17|← Revelation 17]] · [[Revelation 18 - Study Guide|Study guide]] · [[Revelation 18 - My Notes|My notes]] · [[Revelation]] · [[Revelation 19|Revelation 19 →]]
+[[Revelation 17|← Revelation 17]] · [[Revelation 18 (Annotated)|Annotated]] · [[Revelation 18 - Study Guide|Study guide]] · [[Revelation 18 - My Notes|My notes]] · [[Revelation]] · [[Revelation 19|Revelation 19 →]]

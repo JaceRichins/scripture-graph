@@ -62,4 +62,4 @@ cssclasses:
 **24** And they were called the people of God. And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land. ^mosiah-25-24
 
 ---
-[[Mosiah 24|← Mosiah 24]] · [[Mosiah 25 - Study Guide|Study guide]] · [[Mosiah 25 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 26|Mosiah 26 →]]
+[[Mosiah 24|← Mosiah 24]] · [[Mosiah 25 (Annotated)|Annotated]] · [[Mosiah 25 - Study Guide|Study guide]] · [[Mosiah 25 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 26|Mosiah 26 →]]

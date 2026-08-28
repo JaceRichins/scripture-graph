@@ -82,4 +82,4 @@ cssclasses:
 **34** And he shall cut down the thickets of the forests with iron, and Lebanon shall fall by a mighty one. ^2ne-20-34
 
 ---
-[[2 Nephi 19|← 2 Nephi 19]] · [[2 Nephi 20 - Study Guide|Study guide]] · [[2 Nephi 20 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 21|2 Nephi 21 →]]
+[[2 Nephi 19|← 2 Nephi 19]] · [[2 Nephi 20 (Annotated)|Annotated]] · [[2 Nephi 20 - Study Guide|Study guide]] · [[2 Nephi 20 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 21|2 Nephi 21 →]]

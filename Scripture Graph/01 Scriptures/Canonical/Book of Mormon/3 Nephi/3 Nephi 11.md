@@ -96,4 +96,4 @@ cssclasses:
 **41** Therefore, go forth unto this people, and declare the words which I have spoken, unto the ends of the earth. ^3ne-11-41
 
 ---
-[[3 Nephi 10|← 3 Nephi 10]] · [[3 Nephi 11 - Study Guide|Study guide]] · [[3 Nephi 11 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 12|3 Nephi 12 →]]
+[[3 Nephi 10|← 3 Nephi 10]] · [[3 Nephi 11 (Annotated)|Annotated]] · [[3 Nephi 11 - Study Guide|Study guide]] · [[3 Nephi 11 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 12|3 Nephi 12 →]]

@@ -38,4 +38,4 @@ cssclasses:
 **12** And he was with them hid in the house of God six years: and Athaliah reigned over the land. ^2chr-22-12
 
 ---
-[[2 Chronicles 21|← 2 Chronicles 21]] · [[2 Chronicles 22 - Study Guide|Study guide]] · [[2 Chronicles 22 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 23|2 Chronicles 23 →]]
+[[2 Chronicles 21|← 2 Chronicles 21]] · [[2 Chronicles 22 (Annotated)|Annotated]] · [[2 Chronicles 22 - Study Guide|Study guide]] · [[2 Chronicles 22 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 23|2 Chronicles 23 →]]

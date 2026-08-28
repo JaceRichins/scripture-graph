@@ -148,4 +148,4 @@ cssclasses:
 **67** And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death. ^gen-24-67
 
 ---
-[[Genesis 23|← Genesis 23]] · [[Genesis 24 - Study Guide|Study guide]] · [[Genesis 24 - My Notes|My notes]] · [[Genesis]] · [[Genesis 25|Genesis 25 →]]
+[[Genesis 23|← Genesis 23]] · [[Genesis 24 (Annotated)|Annotated]] · [[Genesis 24 - Study Guide|Study guide]] · [[Genesis 24 - My Notes|My notes]] · [[Genesis]] · [[Genesis 25|Genesis 25 →]]

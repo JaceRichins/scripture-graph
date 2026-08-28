@@ -54,4 +54,4 @@ cssclasses:
 **20** Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass. ^isa-32-20
 
 ---
-[[Isaiah 31|← Isaiah 31]] · [[Isaiah 32 - Study Guide|Study guide]] · [[Isaiah 32 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 33|Isaiah 33 →]]
+[[Isaiah 31|← Isaiah 31]] · [[Isaiah 32 (Annotated)|Annotated]] · [[Isaiah 32 - Study Guide|Study guide]] · [[Isaiah 32 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 33|Isaiah 33 →]]

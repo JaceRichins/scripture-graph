@@ -126,4 +126,4 @@ cssclasses:
 **56** And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment. ^luke-23-56
 
 ---
-[[Luke 22|← Luke 22]] · [[Luke 23 - Study Guide|Study guide]] · [[Luke 23 - My Notes|My notes]] · [[Luke]] · [[Luke 24|Luke 24 →]]
+[[Luke 22|← Luke 22]] · [[Luke 23 (Annotated)|Annotated]] · [[Luke 23 - Study Guide|Study guide]] · [[Luke 23 - My Notes|My notes]] · [[Luke]] · [[Luke 24|Luke 24 →]]

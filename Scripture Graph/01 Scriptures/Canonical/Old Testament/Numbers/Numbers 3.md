@@ -116,4 +116,4 @@ cssclasses:
 **51** And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses. ^num-3-51
 
 ---
-[[Numbers 2|← Numbers 2]] · [[Numbers 3 - Study Guide|Study guide]] · [[Numbers 3 - My Notes|My notes]] · [[Numbers]] · [[Numbers 4|Numbers 4 →]]
+[[Numbers 2|← Numbers 2]] · [[Numbers 3 (Annotated)|Annotated]] · [[Numbers 3 - Study Guide|Study guide]] · [[Numbers 3 - My Notes|My notes]] · [[Numbers]] · [[Numbers 4|Numbers 4 →]]

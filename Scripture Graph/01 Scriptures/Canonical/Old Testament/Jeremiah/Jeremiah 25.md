@@ -90,4 +90,4 @@ cssclasses:
 **38** He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger. ^jer-25-38
 
 ---
-[[Jeremiah 24|← Jeremiah 24]] · [[Jeremiah 25 - Study Guide|Study guide]] · [[Jeremiah 25 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 26|Jeremiah 26 →]]
+[[Jeremiah 24|← Jeremiah 24]] · [[Jeremiah 25 (Annotated)|Annotated]] · [[Jeremiah 25 - Study Guide|Study guide]] · [[Jeremiah 25 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 26|Jeremiah 26 →]]

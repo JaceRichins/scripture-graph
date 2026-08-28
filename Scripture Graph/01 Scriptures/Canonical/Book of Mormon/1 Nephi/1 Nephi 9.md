@@ -26,4 +26,4 @@ cssclasses:
 **6** But the Lord knoweth all things from the beginning; wherefore, he prepareth a way to accomplish all his works among the children of men; for behold, he hath all power unto the fulfilling of all his words. And thus it is. Amen. ^1ne-9-6
 
 ---
-[[1 Nephi 8|← 1 Nephi 8]] · [[1 Nephi 9 - Study Guide|Study guide]] · [[1 Nephi 9 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 10|1 Nephi 10 →]]
+[[1 Nephi 8|← 1 Nephi 8]] · [[1 Nephi 9 (Annotated)|Annotated]] · [[1 Nephi 9 - Study Guide|Study guide]] · [[1 Nephi 9 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 10|1 Nephi 10 →]]

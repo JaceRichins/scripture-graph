@@ -40,4 +40,4 @@ aliases:
 **12** He shall cut off the spirit of princes: he is terrible to the kings of the earth. ^ps-76-12
 
 ---
-[[Psalm 75|← Psalm 75]] · [[Psalm 76 - Study Guide|Study guide]] · [[Psalm 76 - My Notes|My notes]] · [[Psalms]] · [[Psalm 77|Psalm 77 →]]
+[[Psalm 75|← Psalm 75]] · [[Psalm 76 (Annotated)|Annotated]] · [[Psalm 76 - Study Guide|Study guide]] · [[Psalm 76 - My Notes|My notes]] · [[Psalms]] · [[Psalm 77|Psalm 77 →]]

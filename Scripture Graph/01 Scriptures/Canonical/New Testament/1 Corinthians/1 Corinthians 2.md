@@ -46,4 +46,4 @@ cssclasses:
 **16** For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ. ^1cor-2-16
 
 ---
-[[1 Corinthians 1|← 1 Corinthians 1]] · [[1 Corinthians 2 - Study Guide|Study guide]] · [[1 Corinthians 2 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 3|1 Corinthians 3 →]]
+[[1 Corinthians 1|← 1 Corinthians 1]] · [[1 Corinthians 2 (Annotated)|Annotated]] · [[1 Corinthians 2 - Study Guide|Study guide]] · [[1 Corinthians 2 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 3|1 Corinthians 3 →]]

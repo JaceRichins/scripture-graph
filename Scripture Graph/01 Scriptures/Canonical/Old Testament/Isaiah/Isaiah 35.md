@@ -34,4 +34,4 @@ cssclasses:
 **10** And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away. ^isa-35-10
 
 ---
-[[Isaiah 34|← Isaiah 34]] · [[Isaiah 35 - Study Guide|Study guide]] · [[Isaiah 35 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 36|Isaiah 36 →]]
+[[Isaiah 34|← Isaiah 34]] · [[Isaiah 35 (Annotated)|Annotated]] · [[Isaiah 35 - Study Guide|Study guide]] · [[Isaiah 35 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 36|Isaiah 36 →]]

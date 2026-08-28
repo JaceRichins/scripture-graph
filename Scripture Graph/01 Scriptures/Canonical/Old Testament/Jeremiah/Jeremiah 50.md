@@ -106,4 +106,4 @@ cssclasses:
 **46** At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations. ^jer-50-46
 
 ---
-[[Jeremiah 49|← Jeremiah 49]] · [[Jeremiah 50 - Study Guide|Study guide]] · [[Jeremiah 50 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 51|Jeremiah 51 →]]
+[[Jeremiah 49|← Jeremiah 49]] · [[Jeremiah 50 (Annotated)|Annotated]] · [[Jeremiah 50 - Study Guide|Study guide]] · [[Jeremiah 50 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 51|Jeremiah 51 →]]

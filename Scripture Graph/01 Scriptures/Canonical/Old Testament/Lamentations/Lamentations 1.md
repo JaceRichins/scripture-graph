@@ -58,4 +58,4 @@ cssclasses:
 **22** Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint. ^lam-1-22
 
 ---
-[[Lamentations 1 - Study Guide|Study guide]] · [[Lamentations 1 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 2|Lamentations 2 →]]
+[[Lamentations 1 (Annotated)|Annotated]] · [[Lamentations 1 - Study Guide|Study guide]] · [[Lamentations 1 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 2|Lamentations 2 →]]

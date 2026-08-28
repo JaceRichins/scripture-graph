@@ -64,4 +64,4 @@ cssclasses:
 **25** But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you. ^1pet-1-25
 
 ---
-[[1 Peter 1 - Study Guide|Study guide]] · [[1 Peter 1 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 2|1 Peter 2 →]]
+[[1 Peter 1 (Annotated)|Annotated]] · [[1 Peter 1 - Study Guide|Study guide]] · [[1 Peter 1 - My Notes|My notes]] · [[1 Peter]] · [[1 Peter 2|1 Peter 2 →]]

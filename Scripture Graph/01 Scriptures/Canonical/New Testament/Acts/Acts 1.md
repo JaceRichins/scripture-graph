@@ -66,4 +66,4 @@ cssclasses:
 **26** And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles. ^acts-1-26
 
 ---
-[[Acts 1 - Study Guide|Study guide]] · [[Acts 1 - My Notes|My notes]] · [[Acts]] · [[Acts 2|Acts 2 →]]
+[[Acts 1 (Annotated)|Annotated]] · [[Acts 1 - Study Guide|Study guide]] · [[Acts 1 - My Notes|My notes]] · [[Acts]] · [[Acts 2|Acts 2 →]]

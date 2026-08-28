@@ -72,4 +72,4 @@ cssclasses:
 **29** And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart. ^1chr-15-29
 
 ---
-[[1 Chronicles 14|← 1 Chronicles 14]] · [[1 Chronicles 15 - Study Guide|Study guide]] · [[1 Chronicles 15 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 16|1 Chronicles 16 →]]
+[[1 Chronicles 14|← 1 Chronicles 14]] · [[1 Chronicles 15 (Annotated)|Annotated]] · [[1 Chronicles 15 - Study Guide|Study guide]] · [[1 Chronicles 15 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 16|1 Chronicles 16 →]]

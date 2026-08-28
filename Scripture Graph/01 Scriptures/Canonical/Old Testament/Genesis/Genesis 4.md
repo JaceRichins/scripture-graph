@@ -66,4 +66,4 @@ cssclasses:
 **26** And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD. ^gen-4-26
 
 ---
-[[Genesis 3|← Genesis 3]] · [[Genesis 4 - Study Guide|Study guide]] · [[Genesis 4 - My Notes|My notes]] · [[Genesis]] · [[Genesis 5|Genesis 5 →]]
+[[Genesis 3|← Genesis 3]] · [[Genesis 4 (Annotated)|Annotated]] · [[Genesis 4 - Study Guide|Study guide]] · [[Genesis 4 - My Notes|My notes]] · [[Genesis]] · [[Genesis 5|Genesis 5 →]]

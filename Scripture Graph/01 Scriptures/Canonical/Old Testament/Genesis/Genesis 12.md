@@ -54,4 +54,4 @@ cssclasses:
 **20** And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had. ^gen-12-20
 
 ---
-[[Genesis 11|← Genesis 11]] · [[Genesis 12 - Study Guide|Study guide]] · [[Genesis 12 - My Notes|My notes]] · [[Genesis]] · [[Genesis 13|Genesis 13 →]]
+[[Genesis 11|← Genesis 11]] · [[Genesis 12 (Annotated)|Annotated]] · [[Genesis 12 - Study Guide|Study guide]] · [[Genesis 12 - My Notes|My notes]] · [[Genesis]] · [[Genesis 13|Genesis 13 →]]

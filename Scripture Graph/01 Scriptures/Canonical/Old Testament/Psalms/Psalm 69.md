@@ -88,4 +88,4 @@ aliases:
 **36** The seed also of his servants shall inherit it: and they that love his name shall dwell therein. ^ps-69-36
 
 ---
-[[Psalm 68|← Psalm 68]] · [[Psalm 69 - Study Guide|Study guide]] · [[Psalm 69 - My Notes|My notes]] · [[Psalms]] · [[Psalm 70|Psalm 70 →]]
+[[Psalm 68|← Psalm 68]] · [[Psalm 69 (Annotated)|Annotated]] · [[Psalm 69 - Study Guide|Study guide]] · [[Psalm 69 - My Notes|My notes]] · [[Psalms]] · [[Psalm 70|Psalm 70 →]]

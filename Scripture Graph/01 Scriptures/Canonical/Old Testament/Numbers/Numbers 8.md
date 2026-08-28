@@ -66,4 +66,4 @@ cssclasses:
 **26** But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge. ^num-8-26
 
 ---
-[[Numbers 7|← Numbers 7]] · [[Numbers 8 - Study Guide|Study guide]] · [[Numbers 8 - My Notes|My notes]] · [[Numbers]] · [[Numbers 9|Numbers 9 →]]
+[[Numbers 7|← Numbers 7]] · [[Numbers 8 (Annotated)|Annotated]] · [[Numbers 8 - Study Guide|Study guide]] · [[Numbers 8 - My Notes|My notes]] · [[Numbers]] · [[Numbers 9|Numbers 9 →]]

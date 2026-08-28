@@ -56,4 +56,4 @@ cssclasses:
 **21** Doth not their excellency which is in them go away? they die, even without wisdom. ^job-4-21
 
 ---
-[[Job 3|← Job 3]] · [[Job 4 - Study Guide|Study guide]] · [[Job 4 - My Notes|My notes]] · [[Job]] · [[Job 5|Job 5 →]]
+[[Job 3|← Job 3]] · [[Job 4 (Annotated)|Annotated]] · [[Job 4 - Study Guide|Study guide]] · [[Job 4 - My Notes|My notes]] · [[Job]] · [[Job 5|Job 5 →]]

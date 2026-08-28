@@ -40,4 +40,4 @@ cssclasses:
 **13** And they took their bones, and buried them under a tree at Jabesh, and fasted seven days. ^1sam-31-13
 
 ---
-[[1 Samuel 30|← 1 Samuel 30]] · [[1 Samuel 31 - Study Guide|Study guide]] · [[1 Samuel 31 - My Notes|My notes]] · [[1 Samuel]]
+[[1 Samuel 30|← 1 Samuel 30]] · [[1 Samuel 31 (Annotated)|Annotated]] · [[1 Samuel 31 - Study Guide|Study guide]] · [[1 Samuel 31 - My Notes|My notes]] · [[1 Samuel]]

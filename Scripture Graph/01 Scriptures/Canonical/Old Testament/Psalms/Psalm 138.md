@@ -32,4 +32,4 @@ aliases:
 **8** The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands. ^ps-138-8
 
 ---
-[[Psalm 137|← Psalm 137]] · [[Psalm 138 - Study Guide|Study guide]] · [[Psalm 138 - My Notes|My notes]] · [[Psalms]] · [[Psalm 139|Psalm 139 →]]
+[[Psalm 137|← Psalm 137]] · [[Psalm 138 (Annotated)|Annotated]] · [[Psalm 138 - Study Guide|Study guide]] · [[Psalm 138 - My Notes|My notes]] · [[Psalms]] · [[Psalm 139|Psalm 139 →]]

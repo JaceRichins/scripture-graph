@@ -38,4 +38,4 @@ cssclasses:
 **12** Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints. ^hosea-11-12
 
 ---
-[[Hosea 10|← Hosea 10]] · [[Hosea 11 - Study Guide|Study guide]] · [[Hosea 11 - My Notes|My notes]] · [[Hosea]] · [[Hosea 12|Hosea 12 →]]
+[[Hosea 10|← Hosea 10]] · [[Hosea 11 (Annotated)|Annotated]] · [[Hosea 11 - Study Guide|Study guide]] · [[Hosea 11 - My Notes|My notes]] · [[Hosea]] · [[Hosea 12|Hosea 12 →]]

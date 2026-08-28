@@ -74,4 +74,4 @@ cssclasses:
 **30** Her young ones also suck up blood: and where the slain are, there is she. ^job-39-30
 
 ---
-[[Job 38|← Job 38]] · [[Job 39 - Study Guide|Study guide]] · [[Job 39 - My Notes|My notes]] · [[Job]] · [[Job 40|Job 40 →]]
+[[Job 38|← Job 38]] · [[Job 39 (Annotated)|Annotated]] · [[Job 39 - Study Guide|Study guide]] · [[Job 39 - My Notes|My notes]] · [[Job]] · [[Job 40|Job 40 →]]

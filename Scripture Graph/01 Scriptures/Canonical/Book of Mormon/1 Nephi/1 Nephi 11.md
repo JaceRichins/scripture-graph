@@ -86,4 +86,4 @@ cssclasses:
 **36** And it came to pass that I saw and bear record, that the great and spacious building was the pride of the world; and it fell, and the fall thereof was exceedingly great. And the angel of the Lord spake unto me again, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb. ^1ne-11-36
 
 ---
-[[1 Nephi 10|← 1 Nephi 10]] · [[1 Nephi 11 - Study Guide|Study guide]] · [[1 Nephi 11 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 12|1 Nephi 12 →]]
+[[1 Nephi 10|← 1 Nephi 10]] · [[1 Nephi 11 (Annotated)|Annotated]] · [[1 Nephi 11 - Study Guide|Study guide]] · [[1 Nephi 11 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 12|1 Nephi 12 →]]

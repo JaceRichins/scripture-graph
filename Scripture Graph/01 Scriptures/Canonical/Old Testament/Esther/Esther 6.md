@@ -42,4 +42,4 @@ cssclasses:
 **14** And while they were yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared. ^esth-6-14
 
 ---
-[[Esther 5|← Esther 5]] · [[Esther 6 - Study Guide|Study guide]] · [[Esther 6 - My Notes|My notes]] · [[Esther]] · [[Esther 7|Esther 7 →]]
+[[Esther 5|← Esther 5]] · [[Esther 6 (Annotated)|Annotated]] · [[Esther 6 - Study Guide|Study guide]] · [[Esther 6 - My Notes|My notes]] · [[Esther]] · [[Esther 7|Esther 7 →]]

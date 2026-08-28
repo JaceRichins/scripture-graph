@@ -32,4 +32,4 @@ aliases:
 **8** Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD. ^ps-129-8
 
 ---
-[[Psalm 128|← Psalm 128]] · [[Psalm 129 - Study Guide|Study guide]] · [[Psalm 129 - My Notes|My notes]] · [[Psalms]] · [[Psalm 130|Psalm 130 →]]
+[[Psalm 128|← Psalm 128]] · [[Psalm 129 (Annotated)|Annotated]] · [[Psalm 129 - Study Guide|Study guide]] · [[Psalm 129 - My Notes|My notes]] · [[Psalms]] · [[Psalm 130|Psalm 130 →]]

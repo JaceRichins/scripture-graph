@@ -68,4 +68,4 @@ cssclasses:
 **27** And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah. ^2chr-35-27
 
 ---
-[[2 Chronicles 34|← 2 Chronicles 34]] · [[2 Chronicles 35 - Study Guide|Study guide]] · [[2 Chronicles 35 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 36|2 Chronicles 36 →]]
+[[2 Chronicles 34|← 2 Chronicles 34]] · [[2 Chronicles 35 (Annotated)|Annotated]] · [[2 Chronicles 35 - Study Guide|Study guide]] · [[2 Chronicles 35 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 36|2 Chronicles 36 →]]

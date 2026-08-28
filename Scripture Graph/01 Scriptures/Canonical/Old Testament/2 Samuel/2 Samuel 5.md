@@ -64,4 +64,4 @@ cssclasses:
 **25** And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer. ^2sam-5-25
 
 ---
-[[2 Samuel 4|← 2 Samuel 4]] · [[2 Samuel 5 - Study Guide|Study guide]] · [[2 Samuel 5 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 6|2 Samuel 6 →]]
+[[2 Samuel 4|← 2 Samuel 4]] · [[2 Samuel 5 (Annotated)|Annotated]] · [[2 Samuel 5 - Study Guide|Study guide]] · [[2 Samuel 5 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 6|2 Samuel 6 →]]

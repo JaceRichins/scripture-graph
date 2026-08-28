@@ -44,4 +44,4 @@ aliases:
 **14** Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD. ^ps-27-14
 
 ---
-[[Psalm 26|← Psalm 26]] · [[Psalm 27 - Study Guide|Study guide]] · [[Psalm 27 - My Notes|My notes]] · [[Psalms]] · [[Psalm 28|Psalm 28 →]]
+[[Psalm 26|← Psalm 26]] · [[Psalm 27 (Annotated)|Annotated]] · [[Psalm 27 - Study Guide|Study guide]] · [[Psalm 27 - My Notes|My notes]] · [[Psalms]] · [[Psalm 28|Psalm 28 →]]

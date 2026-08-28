@@ -50,4 +50,4 @@ aliases:
 **17** I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high. ^ps-7-17
 
 ---
-[[Psalm 6|← Psalm 6]] · [[Psalm 7 - Study Guide|Study guide]] · [[Psalm 7 - My Notes|My notes]] · [[Psalms]] · [[Psalm 8|Psalm 8 →]]
+[[Psalm 6|← Psalm 6]] · [[Psalm 7 (Annotated)|Annotated]] · [[Psalm 7 - Study Guide|Study guide]] · [[Psalm 7 - My Notes|My notes]] · [[Psalms]] · [[Psalm 8|Psalm 8 →]]

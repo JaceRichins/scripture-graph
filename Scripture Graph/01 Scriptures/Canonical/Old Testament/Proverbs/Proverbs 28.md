@@ -70,4 +70,4 @@ cssclasses:
 **28** When the wicked rise, men hide themselves: but when they perish, the righteous increase. ^prov-28-28
 
 ---
-[[Proverbs 27|← Proverbs 27]] · [[Proverbs 28 - Study Guide|Study guide]] · [[Proverbs 28 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 29|Proverbs 29 →]]
+[[Proverbs 27|← Proverbs 27]] · [[Proverbs 28 (Annotated)|Annotated]] · [[Proverbs 28 - Study Guide|Study guide]] · [[Proverbs 28 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 29|Proverbs 29 →]]

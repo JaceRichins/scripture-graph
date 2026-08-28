@@ -56,4 +56,4 @@ aliases:
 **20** Man that is in honour, and understandeth not, is like the beasts that perish. ^ps-49-20
 
 ---
-[[Psalm 48|← Psalm 48]] · [[Psalm 49 - Study Guide|Study guide]] · [[Psalm 49 - My Notes|My notes]] · [[Psalms]] · [[Psalm 50|Psalm 50 →]]
+[[Psalm 48|← Psalm 48]] · [[Psalm 49 (Annotated)|Annotated]] · [[Psalm 49 - Study Guide|Study guide]] · [[Psalm 49 - My Notes|My notes]] · [[Psalms]] · [[Psalm 50|Psalm 50 →]]

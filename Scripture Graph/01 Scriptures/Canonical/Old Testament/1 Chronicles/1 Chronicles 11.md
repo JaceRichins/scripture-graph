@@ -108,4 +108,4 @@ cssclasses:
 **47** Eliel, and Obed, and Jasiel the Mesobaite. ^1chr-11-47
 
 ---
-[[1 Chronicles 10|← 1 Chronicles 10]] · [[1 Chronicles 11 - Study Guide|Study guide]] · [[1 Chronicles 11 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 12|1 Chronicles 12 →]]
+[[1 Chronicles 10|← 1 Chronicles 10]] · [[1 Chronicles 11 (Annotated)|Annotated]] · [[1 Chronicles 11 - Study Guide|Study guide]] · [[1 Chronicles 11 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 12|1 Chronicles 12 →]]

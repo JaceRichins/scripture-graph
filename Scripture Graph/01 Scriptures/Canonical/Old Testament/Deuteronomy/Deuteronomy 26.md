@@ -52,4 +52,4 @@ cssclasses:
 **19** And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken. ^deut-26-19
 
 ---
-[[Deuteronomy 25|← Deuteronomy 25]] · [[Deuteronomy 26 - Study Guide|Study guide]] · [[Deuteronomy 26 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 27|Deuteronomy 27 →]]
+[[Deuteronomy 25|← Deuteronomy 25]] · [[Deuteronomy 26 (Annotated)|Annotated]] · [[Deuteronomy 26 - Study Guide|Study guide]] · [[Deuteronomy 26 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 27|Deuteronomy 27 →]]

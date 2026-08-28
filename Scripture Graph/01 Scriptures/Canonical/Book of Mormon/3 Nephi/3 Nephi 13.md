@@ -82,4 +82,4 @@ cssclasses:
 **34** Take therefore no thought for the morrow, for the morrow shall take thought for the things of itself. Sufficient is the day unto the evil thereof. ^3ne-13-34
 
 ---
-[[3 Nephi 12|← 3 Nephi 12]] · [[3 Nephi 13 - Study Guide|Study guide]] · [[3 Nephi 13 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 14|3 Nephi 14 →]]
+[[3 Nephi 12|← 3 Nephi 12]] · [[3 Nephi 13 (Annotated)|Annotated]] · [[3 Nephi 13 - Study Guide|Study guide]] · [[3 Nephi 13 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 14|3 Nephi 14 →]]

@@ -90,4 +90,4 @@ cssclasses:
 **38** And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets were of brass. ^ex-36-38
 
 ---
-[[Exodus 35|← Exodus 35]] · [[Exodus 36 - Study Guide|Study guide]] · [[Exodus 36 - My Notes|My notes]] · [[Exodus]] · [[Exodus 37|Exodus 37 →]]
+[[Exodus 35|← Exodus 35]] · [[Exodus 36 (Annotated)|Annotated]] · [[Exodus 36 - Study Guide|Study guide]] · [[Exodus 36 - My Notes|My notes]] · [[Exodus]] · [[Exodus 37|Exodus 37 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark. ^acts-12-25
 
 ---
-[[Acts 11|← Acts 11]] · [[Acts 12 - Study Guide|Study guide]] · [[Acts 12 - My Notes|My notes]] · [[Acts]] · [[Acts 13|Acts 13 →]]
+[[Acts 11|← Acts 11]] · [[Acts 12 (Annotated)|Annotated]] · [[Acts 12 - Study Guide|Study guide]] · [[Acts 12 - My Notes|My notes]] · [[Acts]] · [[Acts 13|Acts 13 →]]

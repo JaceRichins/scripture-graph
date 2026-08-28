@@ -38,4 +38,4 @@ aliases:
 **11** Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God. ^ps-42-11
 
 ---
-[[Psalm 41|← Psalm 41]] · [[Psalm 42 - Study Guide|Study guide]] · [[Psalm 42 - My Notes|My notes]] · [[Psalms]] · [[Psalm 43|Psalm 43 →]]
+[[Psalm 41|← Psalm 41]] · [[Psalm 42 (Annotated)|Annotated]] · [[Psalm 42 - Study Guide|Study guide]] · [[Psalm 42 - My Notes|My notes]] · [[Psalms]] · [[Psalm 43|Psalm 43 →]]

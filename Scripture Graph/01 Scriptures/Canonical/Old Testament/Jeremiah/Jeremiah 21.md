@@ -42,4 +42,4 @@ cssclasses:
 **14** But I will punish you according to the fruit of your doings, saith the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it. ^jer-21-14
 
 ---
-[[Jeremiah 20|← Jeremiah 20]] · [[Jeremiah 21 - Study Guide|Study guide]] · [[Jeremiah 21 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 22|Jeremiah 22 →]]
+[[Jeremiah 20|← Jeremiah 20]] · [[Jeremiah 21 (Annotated)|Annotated]] · [[Jeremiah 21 - Study Guide|Study guide]] · [[Jeremiah 21 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 22|Jeremiah 22 →]]

@@ -82,4 +82,4 @@ cssclasses:
 **34** And thus ended the forty and first year of the reign of the judges. ^hel-1-34
 
 ---
-[[Helaman 1 - Study Guide|Study guide]] · [[Helaman 1 - My Notes|My notes]] · [[Helaman]] · [[Helaman 2|Helaman 2 →]]
+[[Helaman 1 (Annotated)|Annotated]] · [[Helaman 1 - Study Guide|Study guide]] · [[Helaman 1 - My Notes|My notes]] · [[Helaman]] · [[Helaman 2|Helaman 2 →]]

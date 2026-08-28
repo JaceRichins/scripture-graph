@@ -58,4 +58,4 @@ cssclasses:
 **22** O that ye had repented before this great destruction had come upon you. But behold, ye are gone, and the Father, yea, the Eternal Father of heaven, knoweth your state; and he doeth with you according to his justice and mercy. ^morm-6-22
 
 ---
-[[Mormon 5|← Mormon 5]] · [[Mormon 6 - Study Guide|Study guide]] · [[Mormon 6 - My Notes|My notes]] · [[Mormon]] · [[Mormon 7|Mormon 7 →]]
+[[Mormon 5|← Mormon 5]] · [[Mormon 6 (Annotated)|Annotated]] · [[Mormon 6 - Study Guide|Study guide]] · [[Mormon 6 - My Notes|My notes]] · [[Mormon]] · [[Mormon 7|Mormon 7 →]]

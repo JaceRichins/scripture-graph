@@ -76,4 +76,4 @@ cssclasses:
 **31** Do we then make void the law through faith? God forbid: yea, we establish the law. ^rom-3-31
 
 ---
-[[Romans 2|← Romans 2]] · [[Romans 3 - Study Guide|Study guide]] · [[Romans 3 - My Notes|My notes]] · [[Romans]] · [[Romans 4|Romans 4 →]]
+[[Romans 2|← Romans 2]] · [[Romans 3 (Annotated)|Annotated]] · [[Romans 3 - Study Guide|Study guide]] · [[Romans 3 - My Notes|My notes]] · [[Romans]] · [[Romans 4|Romans 4 →]]

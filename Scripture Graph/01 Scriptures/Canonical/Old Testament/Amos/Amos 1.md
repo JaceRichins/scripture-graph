@@ -44,4 +44,4 @@ cssclasses:
 **15** And their king shall go into captivity, he and his princes together, saith the LORD. ^amos-1-15
 
 ---
-[[Amos 1 - Study Guide|Study guide]] · [[Amos 1 - My Notes|My notes]] · [[Amos]] · [[Amos 2|Amos 2 →]]
+[[Amos 1 (Annotated)|Annotated]] · [[Amos 1 - Study Guide|Study guide]] · [[Amos 1 - My Notes|My notes]] · [[Amos]] · [[Amos 2|Amos 2 →]]

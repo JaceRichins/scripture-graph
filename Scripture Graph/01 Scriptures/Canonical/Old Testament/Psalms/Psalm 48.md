@@ -44,4 +44,4 @@ aliases:
 **14** For this God is our God for ever and ever: he will be our guide even unto death. ^ps-48-14
 
 ---
-[[Psalm 47|← Psalm 47]] · [[Psalm 48 - Study Guide|Study guide]] · [[Psalm 48 - My Notes|My notes]] · [[Psalms]] · [[Psalm 49|Psalm 49 →]]
+[[Psalm 47|← Psalm 47]] · [[Psalm 48 (Annotated)|Annotated]] · [[Psalm 48 - Study Guide|Study guide]] · [[Psalm 48 - My Notes|My notes]] · [[Psalms]] · [[Psalm 49|Psalm 49 →]]

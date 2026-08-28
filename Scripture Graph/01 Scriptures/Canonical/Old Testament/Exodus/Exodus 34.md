@@ -84,4 +84,4 @@ cssclasses:
 **35** And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the veil upon his face again, until he went in to speak with him. ^ex-34-35
 
 ---
-[[Exodus 33|← Exodus 33]] · [[Exodus 34 - Study Guide|Study guide]] · [[Exodus 34 - My Notes|My notes]] · [[Exodus]] · [[Exodus 35|Exodus 35 →]]
+[[Exodus 33|← Exodus 33]] · [[Exodus 34 (Annotated)|Annotated]] · [[Exodus 34 - Study Guide|Study guide]] · [[Exodus 34 - My Notes|My notes]] · [[Exodus]] · [[Exodus 35|Exodus 35 →]]

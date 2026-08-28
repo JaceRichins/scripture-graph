@@ -114,4 +114,4 @@ cssclasses:
 **50** And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed. ^num-16-50
 
 ---
-[[Numbers 15|← Numbers 15]] · [[Numbers 16 - Study Guide|Study guide]] · [[Numbers 16 - My Notes|My notes]] · [[Numbers]] · [[Numbers 17|Numbers 17 →]]
+[[Numbers 15|← Numbers 15]] · [[Numbers 16 (Annotated)|Annotated]] · [[Numbers 16 - Study Guide|Study guide]] · [[Numbers 16 - My Notes|My notes]] · [[Numbers]] · [[Numbers 17|Numbers 17 →]]

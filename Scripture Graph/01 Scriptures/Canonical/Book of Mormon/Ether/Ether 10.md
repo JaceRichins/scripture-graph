@@ -82,4 +82,4 @@ cssclasses:
 **34** Now Com did fight against them much; nevertheless, he did not prevail against them. ^ether-10-34
 
 ---
-[[Ether 9|← Ether 9]] · [[Ether 10 - Study Guide|Study guide]] · [[Ether 10 - My Notes|My notes]] · [[Ether]] · [[Ether 11|Ether 11 →]]
+[[Ether 9|← Ether 9]] · [[Ether 10 (Annotated)|Annotated]] · [[Ether 10 - Study Guide|Study guide]] · [[Ether 10 - My Notes|My notes]] · [[Ether]] · [[Ether 11|Ether 11 →]]

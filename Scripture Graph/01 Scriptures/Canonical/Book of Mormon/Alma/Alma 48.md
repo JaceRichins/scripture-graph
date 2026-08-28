@@ -64,4 +64,4 @@ cssclasses:
 **25** Yea, they could not bear that their brethren should rejoice over the blood of the Nephites, so long as there were any who should keep the commandments of God, for the promise of the Lord was, if they should keep his commandments they should prosper in the land. ^alma-48-25
 
 ---
-[[Alma 47|← Alma 47]] · [[Alma 48 - Study Guide|Study guide]] · [[Alma 48 - My Notes|My notes]] · [[Alma]] · [[Alma 49|Alma 49 →]]
+[[Alma 47|← Alma 47]] · [[Alma 48 (Annotated)|Annotated]] · [[Alma 48 - Study Guide|Study guide]] · [[Alma 48 - My Notes|My notes]] · [[Alma]] · [[Alma 49|Alma 49 →]]

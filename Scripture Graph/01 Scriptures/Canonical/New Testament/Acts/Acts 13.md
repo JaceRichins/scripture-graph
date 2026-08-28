@@ -118,4 +118,4 @@ cssclasses:
 **52** And the disciples were filled with joy, and with the Holy Ghost. ^acts-13-52
 
 ---
-[[Acts 12|← Acts 12]] · [[Acts 13 - Study Guide|Study guide]] · [[Acts 13 - My Notes|My notes]] · [[Acts]] · [[Acts 14|Acts 14 →]]
+[[Acts 12|← Acts 12]] · [[Acts 13 (Annotated)|Annotated]] · [[Acts 13 - Study Guide|Study guide]] · [[Acts 13 - My Notes|My notes]] · [[Acts]] · [[Acts 14|Acts 14 →]]

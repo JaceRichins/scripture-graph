@@ -56,4 +56,4 @@ aliases:
 **20** Put them in fear, O LORD: that the nations may know themselves to be but men. Selah. ^ps-9-20
 
 ---
-[[Psalm 8|← Psalm 8]] · [[Psalm 9 - Study Guide|Study guide]] · [[Psalm 9 - My Notes|My notes]] · [[Psalms]] · [[Psalm 10|Psalm 10 →]]
+[[Psalm 8|← Psalm 8]] · [[Psalm 9 (Annotated)|Annotated]] · [[Psalm 9 - Study Guide|Study guide]] · [[Psalm 9 - My Notes|My notes]] · [[Psalms]] · [[Psalm 10|Psalm 10 →]]

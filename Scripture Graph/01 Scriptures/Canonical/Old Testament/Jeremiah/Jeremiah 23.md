@@ -94,4 +94,4 @@ cssclasses:
 **40** And I will bring an everlasting reproach upon you, and a perpetual shame, which shall not be forgotten. ^jer-23-40
 
 ---
-[[Jeremiah 22|← Jeremiah 22]] · [[Jeremiah 23 - Study Guide|Study guide]] · [[Jeremiah 23 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 24|Jeremiah 24 →]]
+[[Jeremiah 22|← Jeremiah 22]] · [[Jeremiah 23 (Annotated)|Annotated]] · [[Jeremiah 23 - Study Guide|Study guide]] · [[Jeremiah 23 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 24|Jeremiah 24 →]]

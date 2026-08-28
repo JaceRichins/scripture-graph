@@ -22,4 +22,4 @@ aliases:
 **3** The LORD that made heaven and earth bless thee out of Zion. ^ps-134-3
 
 ---
-[[Psalm 133|← Psalm 133]] · [[Psalm 134 - Study Guide|Study guide]] · [[Psalm 134 - My Notes|My notes]] · [[Psalms]] · [[Psalm 135|Psalm 135 →]]
+[[Psalm 133|← Psalm 133]] · [[Psalm 134 (Annotated)|Annotated]] · [[Psalm 134 - Study Guide|Study guide]] · [[Psalm 134 - My Notes|My notes]] · [[Psalms]] · [[Psalm 135|Psalm 135 →]]

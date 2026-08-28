@@ -82,4 +82,4 @@ cssclasses:
 **34** Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof. ^matt-6-34
 
 ---
-[[Matthew 5|← Matthew 5]] · [[Matthew 6 - Study Guide|Study guide]] · [[Matthew 6 - My Notes|My notes]] · [[Matthew]] · [[Matthew 7|Matthew 7 →]]
+[[Matthew 5|← Matthew 5]] · [[Matthew 6 (Annotated)|Annotated]] · [[Matthew 6 - Study Guide|Study guide]] · [[Matthew 6 - My Notes|My notes]] · [[Matthew]] · [[Matthew 7|Matthew 7 →]]

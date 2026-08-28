@@ -80,4 +80,4 @@ cssclasses:
 **33** That brought you out of the land of Egypt, to be your God: I am the LORD. ^lev-22-33
 
 ---
-[[Leviticus 21|← Leviticus 21]] · [[Leviticus 22 - Study Guide|Study guide]] · [[Leviticus 22 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 23|Leviticus 23 →]]
+[[Leviticus 21|← Leviticus 21]] · [[Leviticus 22 (Annotated)|Annotated]] · [[Leviticus 22 - Study Guide|Study guide]] · [[Leviticus 22 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 23|Leviticus 23 →]]

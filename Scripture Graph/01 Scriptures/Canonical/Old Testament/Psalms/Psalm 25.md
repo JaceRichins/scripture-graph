@@ -60,4 +60,4 @@ aliases:
 **22** Redeem Israel, O God, out of all his troubles. ^ps-25-22
 
 ---
-[[Psalm 24|← Psalm 24]] · [[Psalm 25 - Study Guide|Study guide]] · [[Psalm 25 - My Notes|My notes]] · [[Psalms]] · [[Psalm 26|Psalm 26 →]]
+[[Psalm 24|← Psalm 24]] · [[Psalm 25 (Annotated)|Annotated]] · [[Psalm 25 - Study Guide|Study guide]] · [[Psalm 25 - My Notes|My notes]] · [[Psalms]] · [[Psalm 26|Psalm 26 →]]

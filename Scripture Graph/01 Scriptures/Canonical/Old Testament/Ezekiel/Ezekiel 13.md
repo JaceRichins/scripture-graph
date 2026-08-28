@@ -60,4 +60,4 @@ cssclasses:
 **23** Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD. ^ezek-13-23
 
 ---
-[[Ezekiel 12|← Ezekiel 12]] · [[Ezekiel 13 - Study Guide|Study guide]] · [[Ezekiel 13 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 14|Ezekiel 14 →]]
+[[Ezekiel 12|← Ezekiel 12]] · [[Ezekiel 13 (Annotated)|Annotated]] · [[Ezekiel 13 - Study Guide|Study guide]] · [[Ezekiel 13 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 14|Ezekiel 14 →]]

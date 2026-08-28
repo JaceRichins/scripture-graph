@@ -58,4 +58,4 @@ cssclasses:
 **22** And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo. ^2chr-13-22
 
 ---
-[[2 Chronicles 12|← 2 Chronicles 12]] · [[2 Chronicles 13 - Study Guide|Study guide]] · [[2 Chronicles 13 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 14|2 Chronicles 14 →]]
+[[2 Chronicles 12|← 2 Chronicles 12]] · [[2 Chronicles 13 (Annotated)|Annotated]] · [[2 Chronicles 13 - Study Guide|Study guide]] · [[2 Chronicles 13 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 14|2 Chronicles 14 →]]

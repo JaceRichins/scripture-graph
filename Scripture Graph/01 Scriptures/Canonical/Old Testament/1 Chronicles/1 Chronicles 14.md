@@ -48,4 +48,4 @@ cssclasses:
 **17** And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations. ^1chr-14-17
 
 ---
-[[1 Chronicles 13|← 1 Chronicles 13]] · [[1 Chronicles 14 - Study Guide|Study guide]] · [[1 Chronicles 14 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 15|1 Chronicles 15 →]]
+[[1 Chronicles 13|← 1 Chronicles 13]] · [[1 Chronicles 14 (Annotated)|Annotated]] · [[1 Chronicles 14 - Study Guide|Study guide]] · [[1 Chronicles 14 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 15|1 Chronicles 15 →]]

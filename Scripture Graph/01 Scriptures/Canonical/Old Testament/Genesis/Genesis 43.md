@@ -82,4 +82,4 @@ cssclasses:
 **34** And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him. ^gen-43-34
 
 ---
-[[Genesis 42|← Genesis 42]] · [[Genesis 43 - Study Guide|Study guide]] · [[Genesis 43 - My Notes|My notes]] · [[Genesis]] · [[Genesis 44|Genesis 44 →]]
+[[Genesis 42|← Genesis 42]] · [[Genesis 43 (Annotated)|Annotated]] · [[Genesis 43 - Study Guide|Study guide]] · [[Genesis 43 - My Notes|My notes]] · [[Genesis]] · [[Genesis 44|Genesis 44 →]]

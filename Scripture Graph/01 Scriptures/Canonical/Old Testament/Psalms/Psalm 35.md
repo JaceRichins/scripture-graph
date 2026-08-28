@@ -72,4 +72,4 @@ aliases:
 **28** And my tongue shall speak of thy righteousness and of thy praise all the day long. ^ps-35-28
 
 ---
-[[Psalm 34|← Psalm 34]] · [[Psalm 35 - Study Guide|Study guide]] · [[Psalm 35 - My Notes|My notes]] · [[Psalms]] · [[Psalm 36|Psalm 36 →]]
+[[Psalm 34|← Psalm 34]] · [[Psalm 35 (Annotated)|Annotated]] · [[Psalm 35 - Study Guide|Study guide]] · [[Psalm 35 - My Notes|My notes]] · [[Psalms]] · [[Psalm 36|Psalm 36 →]]

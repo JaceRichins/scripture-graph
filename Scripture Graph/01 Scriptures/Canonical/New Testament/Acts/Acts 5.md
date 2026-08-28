@@ -98,4 +98,4 @@ cssclasses:
 **42** And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. ^acts-5-42
 
 ---
-[[Acts 4|← Acts 4]] · [[Acts 5 - Study Guide|Study guide]] · [[Acts 5 - My Notes|My notes]] · [[Acts]] · [[Acts 6|Acts 6 →]]
+[[Acts 4|← Acts 4]] · [[Acts 5 (Annotated)|Annotated]] · [[Acts 5 - Study Guide|Study guide]] · [[Acts 5 - My Notes|My notes]] · [[Acts]] · [[Acts 6|Acts 6 →]]

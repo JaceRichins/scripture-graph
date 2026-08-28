@@ -78,4 +78,4 @@ cssclasses:
 **32** And they took up Asahel, and buried him in the sepulchre of his father, which was in Beth-lehem. And Joab and his men went all night, and they came to Hebron at break of day. ^2sam-2-32
 
 ---
-[[2 Samuel 1|← 2 Samuel 1]] · [[2 Samuel 2 - Study Guide|Study guide]] · [[2 Samuel 2 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 3|2 Samuel 3 →]]
+[[2 Samuel 1|← 2 Samuel 1]] · [[2 Samuel 2 (Annotated)|Annotated]] · [[2 Samuel 2 - Study Guide|Study guide]] · [[2 Samuel 2 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 3|2 Samuel 3 →]]

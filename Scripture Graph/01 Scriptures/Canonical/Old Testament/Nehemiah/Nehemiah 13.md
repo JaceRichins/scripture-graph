@@ -76,4 +76,4 @@ cssclasses:
 **31** And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good. ^neh-13-31
 
 ---
-[[Nehemiah 12|← Nehemiah 12]] · [[Nehemiah 13 - Study Guide|Study guide]] · [[Nehemiah 13 - My Notes|My notes]] · [[Nehemiah]]
+[[Nehemiah 12|← Nehemiah 12]] · [[Nehemiah 13 (Annotated)|Annotated]] · [[Nehemiah 13 - Study Guide|Study guide]] · [[Nehemiah 13 - My Notes|My notes]] · [[Nehemiah]]

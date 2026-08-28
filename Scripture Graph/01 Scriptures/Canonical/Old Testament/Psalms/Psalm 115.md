@@ -52,4 +52,4 @@ aliases:
 **18** But we will bless the LORD from this time forth and for evermore. Praise the LORD. ^ps-115-18
 
 ---
-[[Psalm 114|← Psalm 114]] · [[Psalm 115 - Study Guide|Study guide]] · [[Psalm 115 - My Notes|My notes]] · [[Psalms]] · [[Psalm 116|Psalm 116 →]]
+[[Psalm 114|← Psalm 114]] · [[Psalm 115 (Annotated)|Annotated]] · [[Psalm 115 - Study Guide|Study guide]] · [[Psalm 115 - My Notes|My notes]] · [[Psalms]] · [[Psalm 116|Psalm 116 →]]

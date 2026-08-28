@@ -70,4 +70,4 @@ cssclasses:
 **28** And it came to pass that the Lord commanded him that he should seal up the two stones which he had received, and show them not, until the Lord should show them unto the children of men. ^ether-3-28
 
 ---
-[[Ether 2|← Ether 2]] · [[Ether 3 - Study Guide|Study guide]] · [[Ether 3 - My Notes|My notes]] · [[Ether]] · [[Ether 4|Ether 4 →]]
+[[Ether 2|← Ether 2]] · [[Ether 3 (Annotated)|Annotated]] · [[Ether 3 - Study Guide|Study guide]] · [[Ether 3 - My Notes|My notes]] · [[Ether]] · [[Ether 4|Ether 4 →]]

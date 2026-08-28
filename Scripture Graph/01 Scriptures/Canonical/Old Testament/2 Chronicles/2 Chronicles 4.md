@@ -58,4 +58,4 @@ cssclasses:
 **22** And the snuffers, and the basins, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold. ^2chr-4-22
 
 ---
-[[2 Chronicles 3|← 2 Chronicles 3]] · [[2 Chronicles 4 - Study Guide|Study guide]] · [[2 Chronicles 4 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 5|2 Chronicles 5 →]]
+[[2 Chronicles 3|← 2 Chronicles 3]] · [[2 Chronicles 4 (Annotated)|Annotated]] · [[2 Chronicles 4 - Study Guide|Study guide]] · [[2 Chronicles 4 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 5|2 Chronicles 5 →]]

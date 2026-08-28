@@ -62,4 +62,4 @@ cssclasses:
 **24** Therefore, repent ye, and humble yourselves before him, lest he shall come out in justice against you—lest a remnant of the seed of Jacob shall go forth among you as a lion, and tear you in pieces, and there is none to deliver. ^morm-5-24
 
 ---
-[[Mormon 4|← Mormon 4]] · [[Mormon 5 - Study Guide|Study guide]] · [[Mormon 5 - My Notes|My notes]] · [[Mormon]] · [[Mormon 6|Mormon 6 →]]
+[[Mormon 4|← Mormon 4]] · [[Mormon 5 (Annotated)|Annotated]] · [[Mormon 5 - Study Guide|Study guide]] · [[Mormon 5 - My Notes|My notes]] · [[Mormon]] · [[Mormon 6|Mormon 6 →]]

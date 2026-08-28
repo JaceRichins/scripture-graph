@@ -46,4 +46,4 @@ cssclasses:
 **16** When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you. ^josh-23-16
 
 ---
-[[Joshua 22|← Joshua 22]] · [[Joshua 23 - Study Guide|Study guide]] · [[Joshua 23 - My Notes|My notes]] · [[Joshua]] · [[Joshua 24|Joshua 24 →]]
+[[Joshua 22|← Joshua 22]] · [[Joshua 23 (Annotated)|Annotated]] · [[Joshua 23 - Study Guide|Study guide]] · [[Joshua 23 - My Notes|My notes]] · [[Joshua]] · [[Joshua 24|Joshua 24 →]]

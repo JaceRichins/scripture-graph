@@ -66,4 +66,4 @@ cssclasses:
 **26** For as the body without the spirit is dead, so faith without works is dead also. ^james-2-26
 
 ---
-[[James 1|← James 1]] · [[James 2 - Study Guide|Study guide]] · [[James 2 - My Notes|My notes]] · [[James]] · [[James 3|James 3 →]]
+[[James 1|← James 1]] · [[James 2 (Annotated)|Annotated]] · [[James 2 - Study Guide|Study guide]] · [[James 2 - My Notes|My notes]] · [[James]] · [[James 3|James 3 →]]

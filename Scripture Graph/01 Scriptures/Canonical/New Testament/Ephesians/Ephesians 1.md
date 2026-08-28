@@ -60,4 +60,4 @@ cssclasses:
 **23** Which is his body, the fulness of him that filleth all in all. ^eph-1-23
 
 ---
-[[Ephesians 1 - Study Guide|Study guide]] · [[Ephesians 1 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 2|Ephesians 2 →]]
+[[Ephesians 1 (Annotated)|Annotated]] · [[Ephesians 1 - Study Guide|Study guide]] · [[Ephesians 1 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 2|Ephesians 2 →]]

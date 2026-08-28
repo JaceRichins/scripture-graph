@@ -80,4 +80,4 @@ cssclasses:
 **33** But unto the tribe of Levi Moses gave not any inheritance: the LORD God of Israel was their inheritance, as he said unto them. ^josh-13-33
 
 ---
-[[Joshua 12|← Joshua 12]] · [[Joshua 13 - Study Guide|Study guide]] · [[Joshua 13 - My Notes|My notes]] · [[Joshua]] · [[Joshua 14|Joshua 14 →]]
+[[Joshua 12|← Joshua 12]] · [[Joshua 13 (Annotated)|Annotated]] · [[Joshua 13 - Study Guide|Study guide]] · [[Joshua 13 - My Notes|My notes]] · [[Joshua]] · [[Joshua 14|Joshua 14 →]]

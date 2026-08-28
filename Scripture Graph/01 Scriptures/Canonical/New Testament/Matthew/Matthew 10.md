@@ -98,4 +98,4 @@ cssclasses:
 **42** And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward. ^matt-10-42
 
 ---
-[[Matthew 9|← Matthew 9]] · [[Matthew 10 - Study Guide|Study guide]] · [[Matthew 10 - My Notes|My notes]] · [[Matthew]] · [[Matthew 11|Matthew 11 →]]
+[[Matthew 9|← Matthew 9]] · [[Matthew 10 (Annotated)|Annotated]] · [[Matthew 10 - Study Guide|Study guide]] · [[Matthew 10 - My Notes|My notes]] · [[Matthew]] · [[Matthew 11|Matthew 11 →]]

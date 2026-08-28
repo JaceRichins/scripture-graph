@@ -50,4 +50,4 @@ cssclasses:
 **18** Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage. ^josh-1-18
 
 ---
-[[Joshua 1 - Study Guide|Study guide]] · [[Joshua 1 - My Notes|My notes]] · [[Joshua]] · [[Joshua 2|Joshua 2 →]]
+[[Joshua 1 (Annotated)|Annotated]] · [[Joshua 1 - Study Guide|Study guide]] · [[Joshua 1 - My Notes|My notes]] · [[Joshua]] · [[Joshua 2|Joshua 2 →]]

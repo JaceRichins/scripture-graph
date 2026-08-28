@@ -80,4 +80,4 @@ cssclasses:
 **33** But if ye will turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind, if ye do this, he will, according to his own will and pleasure, deliver you out of bondage. ^mosiah-7-33
 
 ---
-[[Mosiah 6|← Mosiah 6]] · [[Mosiah 7 - Study Guide|Study guide]] · [[Mosiah 7 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 8|Mosiah 8 →]]
+[[Mosiah 6|← Mosiah 6]] · [[Mosiah 7 (Annotated)|Annotated]] · [[Mosiah 7 - Study Guide|Study guide]] · [[Mosiah 7 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 8|Mosiah 8 →]]

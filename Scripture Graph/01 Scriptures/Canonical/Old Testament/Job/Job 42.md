@@ -48,4 +48,4 @@ cssclasses:
 **17** So Job died, being old and full of days. ^job-42-17
 
 ---
-[[Job 41|← Job 41]] · [[Job 42 - Study Guide|Study guide]] · [[Job 42 - My Notes|My notes]] · [[Job]]
+[[Job 41|← Job 41]] · [[Job 42 (Annotated)|Annotated]] · [[Job 42 - Study Guide|Study guide]] · [[Job 42 - My Notes|My notes]] · [[Job]]

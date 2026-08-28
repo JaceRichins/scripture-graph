@@ -40,4 +40,4 @@ aliases:
 **12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him. ^ps-2-12
 
 ---
-[[Psalm 1|← Psalm 1]] · [[Psalm 2 - Study Guide|Study guide]] · [[Psalm 2 - My Notes|My notes]] · [[Psalms]] · [[Psalm 3|Psalm 3 →]]
+[[Psalm 1|← Psalm 1]] · [[Psalm 2 (Annotated)|Annotated]] · [[Psalm 2 - Study Guide|Study guide]] · [[Psalm 2 - My Notes|My notes]] · [[Psalms]] · [[Psalm 3|Psalm 3 →]]

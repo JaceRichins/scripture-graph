@@ -84,4 +84,4 @@ cssclasses:
 **35** Then would I speak, and not fear him; but it is not so with me. ^job-9-35
 
 ---
-[[Job 8|← Job 8]] · [[Job 9 - Study Guide|Study guide]] · [[Job 9 - My Notes|My notes]] · [[Job]] · [[Job 10|Job 10 →]]
+[[Job 8|← Job 8]] · [[Job 9 (Annotated)|Annotated]] · [[Job 9 - Study Guide|Study guide]] · [[Job 9 - My Notes|My notes]] · [[Job]] · [[Job 10|Job 10 →]]

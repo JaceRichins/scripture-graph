@@ -50,4 +50,4 @@ cssclasses:
 **18** But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord. ^2cor-3-18
 
 ---
-[[2 Corinthians 2|← 2 Corinthians 2]] · [[2 Corinthians 3 - Study Guide|Study guide]] · [[2 Corinthians 3 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 4|2 Corinthians 4 →]]
+[[2 Corinthians 2|← 2 Corinthians 2]] · [[2 Corinthians 3 (Annotated)|Annotated]] · [[2 Corinthians 3 - Study Guide|Study guide]] · [[2 Corinthians 3 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 4|2 Corinthians 4 →]]

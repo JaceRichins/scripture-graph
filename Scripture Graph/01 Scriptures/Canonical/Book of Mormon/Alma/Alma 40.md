@@ -66,4 +66,4 @@ cssclasses:
 **26** But behold, an awful death cometh upon the wicked; for they die as to things pertaining to things of righteousness; for they are unclean, and no unclean thing can inherit the kingdom of God; but they are cast out, and consigned to partake of the fruits of their labors or their works, which have been evil; and they drink the dregs of a bitter cup. ^alma-40-26
 
 ---
-[[Alma 39|← Alma 39]] · [[Alma 40 - Study Guide|Study guide]] · [[Alma 40 - My Notes|My notes]] · [[Alma]] · [[Alma 41|Alma 41 →]]
+[[Alma 39|← Alma 39]] · [[Alma 40 (Annotated)|Annotated]] · [[Alma 40 - Study Guide|Study guide]] · [[Alma 40 - My Notes|My notes]] · [[Alma]] · [[Alma 41|Alma 41 →]]

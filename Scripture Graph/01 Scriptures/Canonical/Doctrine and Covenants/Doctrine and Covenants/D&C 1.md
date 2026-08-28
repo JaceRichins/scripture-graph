@@ -94,4 +94,4 @@ aliases:
 **39** For behold, and lo, the Lord is God, and the Spirit beareth record, and the record is true, and the truth abideth forever and ever. Amen. ^dc-1-39
 
 ---
-[[D&C 1 - Study Guide|Study guide]] · [[D&C 1 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 2|D&C 2 →]]
+[[D&C 1 (Annotated)|Annotated]] · [[D&C 1 - Study Guide|Study guide]] · [[D&C 1 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 2|D&C 2 →]]

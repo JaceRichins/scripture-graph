@@ -74,4 +74,4 @@ cssclasses:
 **30** Farewell, my son, until I shall write unto you, or shall meet you again. Amen. ^moro-8-30
 
 ---
-[[Moroni 7|← Moroni 7]] · [[Moroni 8 - Study Guide|Study guide]] · [[Moroni 8 - My Notes|My notes]] · [[Moroni]] · [[Moroni 9|Moroni 9 →]]
+[[Moroni 7|← Moroni 7]] · [[Moroni 8 (Annotated)|Annotated]] · [[Moroni 8 - Study Guide|Study guide]] · [[Moroni 8 - My Notes|My notes]] · [[Moroni]] · [[Moroni 9|Moroni 9 →]]

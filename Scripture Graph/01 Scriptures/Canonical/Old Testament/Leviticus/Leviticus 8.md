@@ -86,4 +86,4 @@ cssclasses:
 **36** So Aaron and his sons did all things which the LORD commanded by the hand of Moses. ^lev-8-36
 
 ---
-[[Leviticus 7|← Leviticus 7]] · [[Leviticus 8 - Study Guide|Study guide]] · [[Leviticus 8 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 9|Leviticus 9 →]]
+[[Leviticus 7|← Leviticus 7]] · [[Leviticus 8 (Annotated)|Annotated]] · [[Leviticus 8 - Study Guide|Study guide]] · [[Leviticus 8 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 9|Leviticus 9 →]]

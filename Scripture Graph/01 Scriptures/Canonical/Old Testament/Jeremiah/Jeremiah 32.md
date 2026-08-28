@@ -102,4 +102,4 @@ cssclasses:
 **44** Men shall buy fields for money, and subscribe evidences, and seal them, and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD. ^jer-32-44
 
 ---
-[[Jeremiah 31|← Jeremiah 31]] · [[Jeremiah 32 - Study Guide|Study guide]] · [[Jeremiah 32 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 33|Jeremiah 33 →]]
+[[Jeremiah 31|← Jeremiah 31]] · [[Jeremiah 32 (Annotated)|Annotated]] · [[Jeremiah 32 - Study Guide|Study guide]] · [[Jeremiah 32 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 33|Jeremiah 33 →]]

@@ -66,4 +66,4 @@ cssclasses:
 **26** For behold, they saw that the strength of the Lamanites was as great as their strength, even man for man. And thus had they fallen into this great transgression; yea, thus had they become weak, because of their transgression, in the space of not many years. ^hel-4-26
 
 ---
-[[Helaman 3|← Helaman 3]] · [[Helaman 4 - Study Guide|Study guide]] · [[Helaman 4 - My Notes|My notes]] · [[Helaman]] · [[Helaman 5|Helaman 5 →]]
+[[Helaman 3|← Helaman 3]] · [[Helaman 4 (Annotated)|Annotated]] · [[Helaman 4 - Study Guide|Study guide]] · [[Helaman 4 - My Notes|My notes]] · [[Helaman]] · [[Helaman 5|Helaman 5 →]]

@@ -86,4 +86,4 @@ cssclasses:
 **36** And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard. ^gen-37-36
 
 ---
-[[Genesis 36|← Genesis 36]] · [[Genesis 37 - Study Guide|Study guide]] · [[Genesis 37 - My Notes|My notes]] · [[Genesis]] · [[Genesis 38|Genesis 38 →]]
+[[Genesis 36|← Genesis 36]] · [[Genesis 37 (Annotated)|Annotated]] · [[Genesis 37 - Study Guide|Study guide]] · [[Genesis 37 - My Notes|My notes]] · [[Genesis]] · [[Genesis 38|Genesis 38 →]]

@@ -76,4 +76,4 @@ cssclasses:
 **31** And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead. ^1kgs-14-31
 
 ---
-[[1 Kings 13|← 1 Kings 13]] · [[1 Kings 14 - Study Guide|Study guide]] · [[1 Kings 14 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 15|1 Kings 15 →]]
+[[1 Kings 13|← 1 Kings 13]] · [[1 Kings 14 (Annotated)|Annotated]] · [[1 Kings 14 - Study Guide|Study guide]] · [[1 Kings 14 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 15|1 Kings 15 →]]

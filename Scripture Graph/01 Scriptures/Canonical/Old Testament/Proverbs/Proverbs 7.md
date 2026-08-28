@@ -68,4 +68,4 @@ cssclasses:
 **27** Her house is the way to hell, going down to the chambers of death. ^prov-7-27
 
 ---
-[[Proverbs 6|← Proverbs 6]] · [[Proverbs 7 - Study Guide|Study guide]] · [[Proverbs 7 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 8|Proverbs 8 →]]
+[[Proverbs 6|← Proverbs 6]] · [[Proverbs 7 (Annotated)|Annotated]] · [[Proverbs 7 - Study Guide|Study guide]] · [[Proverbs 7 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 8|Proverbs 8 →]]

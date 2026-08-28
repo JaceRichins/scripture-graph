@@ -26,4 +26,4 @@ aliases:
 **5** For the LORD is good; his mercy is everlasting; and his truth endureth to all generations. ^ps-100-5
 
 ---
-[[Psalm 99|← Psalm 99]] · [[Psalm 100 - Study Guide|Study guide]] · [[Psalm 100 - My Notes|My notes]] · [[Psalms]] · [[Psalm 101|Psalm 101 →]]
+[[Psalm 99|← Psalm 99]] · [[Psalm 100 (Annotated)|Annotated]] · [[Psalm 100 - Study Guide|Study guide]] · [[Psalm 100 - My Notes|My notes]] · [[Psalms]] · [[Psalm 101|Psalm 101 →]]

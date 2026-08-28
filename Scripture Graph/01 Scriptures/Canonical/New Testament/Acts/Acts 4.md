@@ -88,4 +88,4 @@ cssclasses:
 **37** Having land, sold it, and brought the money, and laid it at the apostles' feet. ^acts-4-37
 
 ---
-[[Acts 3|← Acts 3]] · [[Acts 4 - Study Guide|Study guide]] · [[Acts 4 - My Notes|My notes]] · [[Acts]] · [[Acts 5|Acts 5 →]]
+[[Acts 3|← Acts 3]] · [[Acts 4 (Annotated)|Annotated]] · [[Acts 4 - Study Guide|Study guide]] · [[Acts 4 - My Notes|My notes]] · [[Acts]] · [[Acts 5|Acts 5 →]]

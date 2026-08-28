@@ -86,4 +86,4 @@ cssclasses:
 **36** Verily I say unto you, there are none of them that have seen so great things as ye have seen; neither have they heard so great things as ye have heard. ^3ne-19-36
 
 ---
-[[3 Nephi 18|← 3 Nephi 18]] · [[3 Nephi 19 - Study Guide|Study guide]] · [[3 Nephi 19 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 20|3 Nephi 20 →]]
+[[3 Nephi 18|← 3 Nephi 18]] · [[3 Nephi 19 (Annotated)|Annotated]] · [[3 Nephi 19 - Study Guide|Study guide]] · [[3 Nephi 19 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 20|3 Nephi 20 →]]

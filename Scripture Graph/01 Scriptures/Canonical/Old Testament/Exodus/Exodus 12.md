@@ -116,4 +116,4 @@ cssclasses:
 **51** And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies. ^ex-12-51
 
 ---
-[[Exodus 11|← Exodus 11]] · [[Exodus 12 - Study Guide|Study guide]] · [[Exodus 12 - My Notes|My notes]] · [[Exodus]] · [[Exodus 13|Exodus 13 →]]
+[[Exodus 11|← Exodus 11]] · [[Exodus 12 (Annotated)|Annotated]] · [[Exodus 12 - Study Guide|Study guide]] · [[Exodus 12 - My Notes|My notes]] · [[Exodus]] · [[Exodus 13|Exodus 13 →]]

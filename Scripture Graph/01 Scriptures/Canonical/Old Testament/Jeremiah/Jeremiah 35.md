@@ -52,4 +52,4 @@ cssclasses:
 **19** Therefore thus saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever. ^jer-35-19
 
 ---
-[[Jeremiah 34|← Jeremiah 34]] · [[Jeremiah 35 - Study Guide|Study guide]] · [[Jeremiah 35 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 36|Jeremiah 36 →]]
+[[Jeremiah 34|← Jeremiah 34]] · [[Jeremiah 35 (Annotated)|Annotated]] · [[Jeremiah 35 - Study Guide|Study guide]] · [[Jeremiah 35 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 36|Jeremiah 36 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** See that ye strengthen Lehi and Teancum in the Lord; tell them to fear not, for God will deliver them, yea, and also all those who stand fast in that liberty wherewith God hath made them free. And now I close mine epistle to my beloved brother, Moroni. ^alma-61-21
 
 ---
-[[Alma 60|← Alma 60]] · [[Alma 61 - Study Guide|Study guide]] · [[Alma 61 - My Notes|My notes]] · [[Alma]] · [[Alma 62|Alma 62 →]]
+[[Alma 60|← Alma 60]] · [[Alma 61 (Annotated)|Annotated]] · [[Alma 61 - Study Guide|Study guide]] · [[Alma 61 - My Notes|My notes]] · [[Alma]] · [[Alma 62|Alma 62 →]]

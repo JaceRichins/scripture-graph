@@ -44,4 +44,4 @@ cssclasses:
 **15** Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. ^1tim-2-15
 
 ---
-[[1 Timothy 1|← 1 Timothy 1]] · [[1 Timothy 2 - Study Guide|Study guide]] · [[1 Timothy 2 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 3|1 Timothy 3 →]]
+[[1 Timothy 1|← 1 Timothy 1]] · [[1 Timothy 2 (Annotated)|Annotated]] · [[1 Timothy 2 - Study Guide|Study guide]] · [[1 Timothy 2 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 3|1 Timothy 3 →]]

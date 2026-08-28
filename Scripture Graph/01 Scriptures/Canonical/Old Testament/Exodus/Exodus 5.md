@@ -60,4 +60,4 @@ cssclasses:
 **23** For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all. ^ex-5-23
 
 ---
-[[Exodus 4|← Exodus 4]] · [[Exodus 5 - Study Guide|Study guide]] · [[Exodus 5 - My Notes|My notes]] · [[Exodus]] · [[Exodus 6|Exodus 6 →]]
+[[Exodus 4|← Exodus 4]] · [[Exodus 5 (Annotated)|Annotated]] · [[Exodus 5 - Study Guide|Study guide]] · [[Exodus 5 - My Notes|My notes]] · [[Exodus]] · [[Exodus 6|Exodus 6 →]]

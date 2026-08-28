@@ -82,4 +82,4 @@ cssclasses:
 **34** Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright. ^gen-25-34
 
 ---
-[[Genesis 24|← Genesis 24]] · [[Genesis 25 - Study Guide|Study guide]] · [[Genesis 25 - My Notes|My notes]] · [[Genesis]] · [[Genesis 26|Genesis 26 →]]
+[[Genesis 24|← Genesis 24]] · [[Genesis 25 (Annotated)|Annotated]] · [[Genesis 25 - Study Guide|Study guide]] · [[Genesis 25 - My Notes|My notes]] · [[Genesis]] · [[Genesis 26|Genesis 26 →]]

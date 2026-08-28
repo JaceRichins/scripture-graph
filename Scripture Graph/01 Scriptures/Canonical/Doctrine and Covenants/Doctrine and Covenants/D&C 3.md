@@ -56,4 +56,4 @@ aliases:
 **20** And that the Lamanites might come to the knowledge of their fathers, and that they might know the promises of the Lord, and that they may believe the gospel and rely upon the merits of Jesus Christ, and be glorified through faith in his name, and that through their repentance they might be saved. Amen. ^dc-3-20
 
 ---
-[[D&C 2|← D&C 2]] · [[D&C 3 - Study Guide|Study guide]] · [[D&C 3 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 4|D&C 4 →]]
+[[D&C 2|← D&C 2]] · [[D&C 3 (Annotated)|Annotated]] · [[D&C 3 - Study Guide|Study guide]] · [[D&C 3 - My Notes|My notes]] · [[Doctrine and Covenants]] · [[D&C 4|D&C 4 →]]

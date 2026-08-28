@@ -108,4 +108,4 @@ cssclasses:
 **47** But if ye believe not his writings, how shall ye believe my words? ^john-5-47
 
 ---
-[[John 4|← John 4]] · [[John 5 - Study Guide|Study guide]] · [[John 5 - My Notes|My notes]] · [[John]] · [[John 6|John 6 →]]
+[[John 4|← John 4]] · [[John 5 (Annotated)|Annotated]] · [[John 5 - Study Guide|Study guide]] · [[John 5 - My Notes|My notes]] · [[John]] · [[John 6|John 6 →]]

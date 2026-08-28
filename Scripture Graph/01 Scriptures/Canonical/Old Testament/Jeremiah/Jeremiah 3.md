@@ -64,4 +64,4 @@ cssclasses:
 **25** We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God. ^jer-3-25
 
 ---
-[[Jeremiah 2|← Jeremiah 2]] · [[Jeremiah 3 - Study Guide|Study guide]] · [[Jeremiah 3 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 4|Jeremiah 4 →]]
+[[Jeremiah 2|← Jeremiah 2]] · [[Jeremiah 3 (Annotated)|Annotated]] · [[Jeremiah 3 - Study Guide|Study guide]] · [[Jeremiah 3 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 4|Jeremiah 4 →]]

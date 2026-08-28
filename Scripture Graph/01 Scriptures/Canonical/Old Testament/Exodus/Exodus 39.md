@@ -100,4 +100,4 @@ cssclasses:
 **43** And Moses did look upon all the work, and, behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them. ^ex-39-43
 
 ---
-[[Exodus 38|← Exodus 38]] · [[Exodus 39 - Study Guide|Study guide]] · [[Exodus 39 - My Notes|My notes]] · [[Exodus]] · [[Exodus 40|Exodus 40 →]]
+[[Exodus 38|← Exodus 38]] · [[Exodus 39 (Annotated)|Annotated]] · [[Exodus 39 - Study Guide|Study guide]] · [[Exodus 39 - My Notes|My notes]] · [[Exodus]] · [[Exodus 40|Exodus 40 →]]

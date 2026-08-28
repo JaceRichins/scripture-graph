@@ -126,4 +126,4 @@ cssclasses:
 **56** And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole. ^mark-6-56
 
 ---
-[[Mark 5|← Mark 5]] · [[Mark 6 - Study Guide|Study guide]] · [[Mark 6 - My Notes|My notes]] · [[Mark]] · [[Mark 7|Mark 7 →]]
+[[Mark 5|← Mark 5]] · [[Mark 6 (Annotated)|Annotated]] · [[Mark 6 - Study Guide|Study guide]] · [[Mark 6 - My Notes|My notes]] · [[Mark]] · [[Mark 7|Mark 7 →]]

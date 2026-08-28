@@ -102,4 +102,4 @@ cssclasses:
 **44** So he set it before them, and they did eat, and left thereof, according to the word of the LORD. ^2kgs-4-44
 
 ---
-[[2 Kings 3|← 2 Kings 3]] · [[2 Kings 4 - Study Guide|Study guide]] · [[2 Kings 4 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 5|2 Kings 5 →]]
+[[2 Kings 3|← 2 Kings 3]] · [[2 Kings 4 (Annotated)|Annotated]] · [[2 Kings 4 - Study Guide|Study guide]] · [[2 Kings 4 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 5|2 Kings 5 →]]

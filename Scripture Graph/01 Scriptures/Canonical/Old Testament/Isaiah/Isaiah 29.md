@@ -62,4 +62,4 @@ cssclasses:
 **24** They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine. ^isa-29-24
 
 ---
-[[Isaiah 28|← Isaiah 28]] · [[Isaiah 29 - Study Guide|Study guide]] · [[Isaiah 29 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 30|Isaiah 30 →]]
+[[Isaiah 28|← Isaiah 28]] · [[Isaiah 29 (Annotated)|Annotated]] · [[Isaiah 29 - Study Guide|Study guide]] · [[Isaiah 29 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 30|Isaiah 30 →]]

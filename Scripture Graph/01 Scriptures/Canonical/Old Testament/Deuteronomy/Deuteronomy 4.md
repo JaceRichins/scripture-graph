@@ -112,4 +112,4 @@ cssclasses:
 **49** And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah. ^deut-4-49
 
 ---
-[[Deuteronomy 3|← Deuteronomy 3]] · [[Deuteronomy 4 - Study Guide|Study guide]] · [[Deuteronomy 4 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 5|Deuteronomy 5 →]]
+[[Deuteronomy 3|← Deuteronomy 3]] · [[Deuteronomy 4 (Annotated)|Annotated]] · [[Deuteronomy 4 - Study Guide|Study guide]] · [[Deuteronomy 4 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 5|Deuteronomy 5 →]]

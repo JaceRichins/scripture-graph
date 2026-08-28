@@ -54,4 +54,4 @@ cssclasses:
 **20** For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon. ^2kgs-24-20
 
 ---
-[[2 Kings 23|← 2 Kings 23]] · [[2 Kings 24 - Study Guide|Study guide]] · [[2 Kings 24 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 25|2 Kings 25 →]]
+[[2 Kings 23|← 2 Kings 23]] · [[2 Kings 24 (Annotated)|Annotated]] · [[2 Kings 24 - Study Guide|Study guide]] · [[2 Kings 24 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 25|2 Kings 25 →]]

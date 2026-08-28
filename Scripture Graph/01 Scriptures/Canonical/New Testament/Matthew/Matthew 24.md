@@ -116,4 +116,4 @@ cssclasses:
 **51** And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth. ^matt-24-51
 
 ---
-[[Matthew 23|← Matthew 23]] · [[Matthew 24 - Study Guide|Study guide]] · [[Matthew 24 - My Notes|My notes]] · [[Matthew]] · [[Matthew 25|Matthew 25 →]]
+[[Matthew 23|← Matthew 23]] · [[Matthew 24 (Annotated)|Annotated]] · [[Matthew 24 - Study Guide|Study guide]] · [[Matthew 24 - My Notes|My notes]] · [[Matthew]] · [[Matthew 25|Matthew 25 →]]

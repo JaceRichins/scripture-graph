@@ -60,4 +60,4 @@ cssclasses:
 **23** So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing. ^neh-4-23
 
 ---
-[[Nehemiah 3|← Nehemiah 3]] · [[Nehemiah 4 - Study Guide|Study guide]] · [[Nehemiah 4 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 5|Nehemiah 5 →]]
+[[Nehemiah 3|← Nehemiah 3]] · [[Nehemiah 4 (Annotated)|Annotated]] · [[Nehemiah 4 - Study Guide|Study guide]] · [[Nehemiah 4 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 5|Nehemiah 5 →]]

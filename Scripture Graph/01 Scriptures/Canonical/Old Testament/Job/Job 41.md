@@ -82,4 +82,4 @@ cssclasses:
 **34** He beholdeth all high things: he is a king over all the children of pride. ^job-41-34
 
 ---
-[[Job 40|← Job 40]] · [[Job 41 - Study Guide|Study guide]] · [[Job 41 - My Notes|My notes]] · [[Job]] · [[Job 42|Job 42 →]]
+[[Job 40|← Job 40]] · [[Job 41 (Annotated)|Annotated]] · [[Job 41 - Study Guide|Study guide]] · [[Job 41 - My Notes|My notes]] · [[Job]] · [[Job 42|Job 42 →]]

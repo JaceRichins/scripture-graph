@@ -56,4 +56,4 @@ cssclasses:
 **21** For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead. ^2kgs-12-21
 
 ---
-[[2 Kings 11|← 2 Kings 11]] · [[2 Kings 12 - Study Guide|Study guide]] · [[2 Kings 12 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 13|2 Kings 13 →]]
+[[2 Kings 11|← 2 Kings 11]] · [[2 Kings 12 (Annotated)|Annotated]] · [[2 Kings 12 - Study Guide|Study guide]] · [[2 Kings 12 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 13|2 Kings 13 →]]

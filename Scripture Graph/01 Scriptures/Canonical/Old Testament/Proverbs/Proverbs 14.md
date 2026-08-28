@@ -84,4 +84,4 @@ cssclasses:
 **35** The king's favour is toward a wise servant: but his wrath is against him that causeth shame. ^prov-14-35
 
 ---
-[[Proverbs 13|← Proverbs 13]] · [[Proverbs 14 - Study Guide|Study guide]] · [[Proverbs 14 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 15|Proverbs 15 →]]
+[[Proverbs 13|← Proverbs 13]] · [[Proverbs 14 (Annotated)|Annotated]] · [[Proverbs 14 - Study Guide|Study guide]] · [[Proverbs 14 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 15|Proverbs 15 →]]

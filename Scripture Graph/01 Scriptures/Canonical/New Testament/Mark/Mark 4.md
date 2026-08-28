@@ -96,4 +96,4 @@ cssclasses:
 **41** And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him? ^mark-4-41
 
 ---
-[[Mark 3|← Mark 3]] · [[Mark 4 - Study Guide|Study guide]] · [[Mark 4 - My Notes|My notes]] · [[Mark]] · [[Mark 5|Mark 5 →]]
+[[Mark 3|← Mark 3]] · [[Mark 4 (Annotated)|Annotated]] · [[Mark 4 - Study Guide|Study guide]] · [[Mark 4 - My Notes|My notes]] · [[Mark]] · [[Mark 5|Mark 5 →]]

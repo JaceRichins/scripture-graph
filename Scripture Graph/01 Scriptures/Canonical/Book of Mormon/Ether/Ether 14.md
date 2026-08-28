@@ -76,4 +76,4 @@ cssclasses:
 **31** Now the loss of men, women and children on both sides was so great that Shiz commanded his people that they should not pursue the armies of Coriantumr; wherefore, they returned to their camp. ^ether-14-31
 
 ---
-[[Ether 13|← Ether 13]] · [[Ether 14 - Study Guide|Study guide]] · [[Ether 14 - My Notes|My notes]] · [[Ether]] · [[Ether 15|Ether 15 →]]
+[[Ether 13|← Ether 13]] · [[Ether 14 (Annotated)|Annotated]] · [[Ether 14 - Study Guide|Study guide]] · [[Ether 14 - My Notes|My notes]] · [[Ether]] · [[Ether 15|Ether 15 →]]

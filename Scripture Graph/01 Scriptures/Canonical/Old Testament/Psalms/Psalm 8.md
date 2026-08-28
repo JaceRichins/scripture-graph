@@ -34,4 +34,4 @@ aliases:
 **9** O LORD our Lord, how excellent is thy name in all the earth! ^ps-8-9
 
 ---
-[[Psalm 7|← Psalm 7]] · [[Psalm 8 - Study Guide|Study guide]] · [[Psalm 8 - My Notes|My notes]] · [[Psalms]] · [[Psalm 9|Psalm 9 →]]
+[[Psalm 7|← Psalm 7]] · [[Psalm 8 (Annotated)|Annotated]] · [[Psalm 8 - Study Guide|Study guide]] · [[Psalm 8 - My Notes|My notes]] · [[Psalms]] · [[Psalm 9|Psalm 9 →]]

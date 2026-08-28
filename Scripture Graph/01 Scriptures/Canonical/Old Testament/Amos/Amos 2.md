@@ -46,4 +46,4 @@ cssclasses:
 **16** And he that is courageous among the mighty shall flee away naked in that day, saith the LORD. ^amos-2-16
 
 ---
-[[Amos 1|← Amos 1]] · [[Amos 2 - Study Guide|Study guide]] · [[Amos 2 - My Notes|My notes]] · [[Amos]] · [[Amos 3|Amos 3 →]]
+[[Amos 1|← Amos 1]] · [[Amos 2 (Annotated)|Annotated]] · [[Amos 2 - Study Guide|Study guide]] · [[Amos 2 - My Notes|My notes]] · [[Amos]] · [[Amos 3|Amos 3 →]]

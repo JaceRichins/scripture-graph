@@ -52,4 +52,4 @@ cssclasses:
 **19** And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee. ^jer-1-19
 
 ---
-[[Jeremiah 1 - Study Guide|Study guide]] · [[Jeremiah 1 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 2|Jeremiah 2 →]]
+[[Jeremiah 1 (Annotated)|Annotated]] · [[Jeremiah 1 - Study Guide|Study guide]] · [[Jeremiah 1 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 2|Jeremiah 2 →]]

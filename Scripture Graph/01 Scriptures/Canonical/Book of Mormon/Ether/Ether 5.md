@@ -26,4 +26,4 @@ cssclasses:
 **6** And now, if I have no authority for these things, judge ye; for ye shall know that I have authority when ye shall see me, and we shall stand before God at the last day. Amen. ^ether-5-6
 
 ---
-[[Ether 4|← Ether 4]] · [[Ether 5 - Study Guide|Study guide]] · [[Ether 5 - My Notes|My notes]] · [[Ether]] · [[Ether 6|Ether 6 →]]
+[[Ether 4|← Ether 4]] · [[Ether 5 (Annotated)|Annotated]] · [[Ether 5 - Study Guide|Study guide]] · [[Ether 5 - My Notes|My notes]] · [[Ether]] · [[Ether 6|Ether 6 →]]

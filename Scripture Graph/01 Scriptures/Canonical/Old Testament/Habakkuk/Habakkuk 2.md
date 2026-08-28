@@ -54,4 +54,4 @@ cssclasses:
 **20** But the LORD is in his holy temple: let all the earth keep silence before him. ^hab-2-20
 
 ---
-[[Habakkuk 1|← Habakkuk 1]] · [[Habakkuk 2 - Study Guide|Study guide]] · [[Habakkuk 2 - My Notes|My notes]] · [[Habakkuk]] · [[Habakkuk 3|Habakkuk 3 →]]
+[[Habakkuk 1|← Habakkuk 1]] · [[Habakkuk 2 (Annotated)|Annotated]] · [[Habakkuk 2 - Study Guide|Study guide]] · [[Habakkuk 2 - My Notes|My notes]] · [[Habakkuk]] · [[Habakkuk 3|Habakkuk 3 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh. ^rev-19-21
 
 ---
-[[Revelation 18|← Revelation 18]] · [[Revelation 19 - Study Guide|Study guide]] · [[Revelation 19 - My Notes|My notes]] · [[Revelation]] · [[Revelation 20|Revelation 20 →]]
+[[Revelation 18|← Revelation 18]] · [[Revelation 19 (Annotated)|Annotated]] · [[Revelation 19 - Study Guide|Study guide]] · [[Revelation 19 - My Notes|My notes]] · [[Revelation]] · [[Revelation 20|Revelation 20 →]]

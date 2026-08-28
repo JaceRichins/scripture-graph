@@ -58,4 +58,4 @@ cssclasses:
 **22** But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it. ^prov-2-22
 
 ---
-[[Proverbs 1|← Proverbs 1]] · [[Proverbs 2 - Study Guide|Study guide]] · [[Proverbs 2 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 3|Proverbs 3 →]]
+[[Proverbs 1|← Proverbs 1]] · [[Proverbs 2 (Annotated)|Annotated]] · [[Proverbs 2 - Study Guide|Study guide]] · [[Proverbs 2 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 3|Proverbs 3 →]]

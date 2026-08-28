@@ -82,4 +82,4 @@ cssclasses:
 **34** In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun. ^1kgs-16-34
 
 ---
-[[1 Kings 15|← 1 Kings 15]] · [[1 Kings 16 - Study Guide|Study guide]] · [[1 Kings 16 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 17|1 Kings 17 →]]
+[[1 Kings 15|← 1 Kings 15]] · [[1 Kings 16 (Annotated)|Annotated]] · [[1 Kings 16 - Study Guide|Study guide]] · [[1 Kings 16 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 17|1 Kings 17 →]]

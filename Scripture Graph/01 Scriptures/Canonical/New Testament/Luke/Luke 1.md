@@ -174,4 +174,4 @@ cssclasses:
 **80** And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel. ^luke-1-80
 
 ---
-[[Luke 1 - Study Guide|Study guide]] · [[Luke 1 - My Notes|My notes]] · [[Luke]] · [[Luke 2|Luke 2 →]]
+[[Luke 1 (Annotated)|Annotated]] · [[Luke 1 - Study Guide|Study guide]] · [[Luke 1 - My Notes|My notes]] · [[Luke]] · [[Luke 2|Luke 2 →]]

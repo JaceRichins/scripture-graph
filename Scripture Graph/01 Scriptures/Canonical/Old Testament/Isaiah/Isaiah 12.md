@@ -26,4 +26,4 @@ cssclasses:
 **6** Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee. ^isa-12-6
 
 ---
-[[Isaiah 11|← Isaiah 11]] · [[Isaiah 12 - Study Guide|Study guide]] · [[Isaiah 12 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 13|Isaiah 13 →]]
+[[Isaiah 11|← Isaiah 11]] · [[Isaiah 12 (Annotated)|Annotated]] · [[Isaiah 12 - Study Guide|Study guide]] · [[Isaiah 12 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 13|Isaiah 13 →]]

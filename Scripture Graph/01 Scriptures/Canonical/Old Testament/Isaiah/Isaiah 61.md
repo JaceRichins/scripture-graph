@@ -36,4 +36,4 @@ cssclasses:
 **11** For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations. ^isa-61-11
 
 ---
-[[Isaiah 60|← Isaiah 60]] · [[Isaiah 61 - Study Guide|Study guide]] · [[Isaiah 61 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 62|Isaiah 62 →]]
+[[Isaiah 60|← Isaiah 60]] · [[Isaiah 61 (Annotated)|Annotated]] · [[Isaiah 61 - Study Guide|Study guide]] · [[Isaiah 61 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 62|Isaiah 62 →]]

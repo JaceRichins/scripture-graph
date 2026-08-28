@@ -82,4 +82,4 @@ cssclasses:
 **34** And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin. ^1kgs-15-34
 
 ---
-[[1 Kings 14|← 1 Kings 14]] · [[1 Kings 15 - Study Guide|Study guide]] · [[1 Kings 15 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 16|1 Kings 16 →]]
+[[1 Kings 14|← 1 Kings 14]] · [[1 Kings 15 (Annotated)|Annotated]] · [[1 Kings 15 - Study Guide|Study guide]] · [[1 Kings 15 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 16|1 Kings 16 →]]

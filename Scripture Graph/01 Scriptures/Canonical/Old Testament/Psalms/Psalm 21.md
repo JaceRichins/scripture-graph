@@ -42,4 +42,4 @@ aliases:
 **13** Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power. ^ps-21-13
 
 ---
-[[Psalm 20|← Psalm 20]] · [[Psalm 21 - Study Guide|Study guide]] · [[Psalm 21 - My Notes|My notes]] · [[Psalms]] · [[Psalm 22|Psalm 22 →]]
+[[Psalm 20|← Psalm 20]] · [[Psalm 21 (Annotated)|Annotated]] · [[Psalm 21 - Study Guide|Study guide]] · [[Psalm 21 - My Notes|My notes]] · [[Psalms]] · [[Psalm 22|Psalm 22 →]]

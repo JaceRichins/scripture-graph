@@ -60,4 +60,4 @@ cssclasses:
 **23** And it came to pass that Coriantor begat Ether, and he died, having dwelt in captivity all his days. ^ether-11-23
 
 ---
-[[Ether 10|← Ether 10]] · [[Ether 11 - Study Guide|Study guide]] · [[Ether 11 - My Notes|My notes]] · [[Ether]] · [[Ether 12|Ether 12 →]]
+[[Ether 10|← Ether 10]] · [[Ether 11 (Annotated)|Annotated]] · [[Ether 11 - Study Guide|Study guide]] · [[Ether 11 - My Notes|My notes]] · [[Ether]] · [[Ether 12|Ether 12 →]]

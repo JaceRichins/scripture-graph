@@ -106,4 +106,4 @@ cssclasses:
 **46** Verily, verily, I say unto you, all these things shall surely come, even as the Father hath commanded me. Then shall this covenant which the Father hath covenanted with his people be fulfilled; and then shall Jerusalem be inhabited again with my people, and it shall be the land of their inheritance. ^3ne-20-46
 
 ---
-[[3 Nephi 19|← 3 Nephi 19]] · [[3 Nephi 20 - Study Guide|Study guide]] · [[3 Nephi 20 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 21|3 Nephi 21 →]]
+[[3 Nephi 19|← 3 Nephi 19]] · [[3 Nephi 20 (Annotated)|Annotated]] · [[3 Nephi 20 - Study Guide|Study guide]] · [[3 Nephi 20 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 21|3 Nephi 21 →]]

@@ -42,4 +42,4 @@ cssclasses:
 **14** Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation? ^heb-1-14
 
 ---
-[[Hebrews 1 - Study Guide|Study guide]] · [[Hebrews 1 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 2|Hebrews 2 →]]
+[[Hebrews 1 (Annotated)|Annotated]] · [[Hebrews 1 - Study Guide|Study guide]] · [[Hebrews 1 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 2|Hebrews 2 →]]

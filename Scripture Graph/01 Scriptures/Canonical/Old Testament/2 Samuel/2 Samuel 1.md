@@ -68,4 +68,4 @@ cssclasses:
 **27** How are the mighty fallen, and the weapons of war perished! ^2sam-1-27
 
 ---
-[[2 Samuel 1 - Study Guide|Study guide]] · [[2 Samuel 1 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 2|2 Samuel 2 →]]
+[[2 Samuel 1 (Annotated)|Annotated]] · [[2 Samuel 1 - Study Guide|Study guide]] · [[2 Samuel 1 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 2|2 Samuel 2 →]]

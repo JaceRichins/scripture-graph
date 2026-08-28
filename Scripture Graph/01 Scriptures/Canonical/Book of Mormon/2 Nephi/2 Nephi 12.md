@@ -58,4 +58,4 @@ cssclasses:
 **22** Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of? ^2ne-12-22
 
 ---
-[[2 Nephi 11|← 2 Nephi 11]] · [[2 Nephi 12 - Study Guide|Study guide]] · [[2 Nephi 12 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 13|2 Nephi 13 →]]
+[[2 Nephi 11|← 2 Nephi 11]] · [[2 Nephi 12 (Annotated)|Annotated]] · [[2 Nephi 12 - Study Guide|Study guide]] · [[2 Nephi 12 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 13|2 Nephi 13 →]]

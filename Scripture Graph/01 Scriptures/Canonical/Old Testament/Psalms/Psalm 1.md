@@ -28,4 +28,4 @@ aliases:
 **6** For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish. ^ps-1-6
 
 ---
-[[Psalm 1 - Study Guide|Study guide]] · [[Psalm 1 - My Notes|My notes]] · [[Psalms]] · [[Psalm 2|Psalm 2 →]]
+[[Psalm 1 (Annotated)|Annotated]] · [[Psalm 1 - Study Guide|Study guide]] · [[Psalm 1 - My Notes|My notes]] · [[Psalms]] · [[Psalm 2|Psalm 2 →]]

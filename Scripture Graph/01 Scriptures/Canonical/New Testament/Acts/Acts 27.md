@@ -102,4 +102,4 @@ cssclasses:
 **44** And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land. ^acts-27-44
 
 ---
-[[Acts 26|← Acts 26]] · [[Acts 27 - Study Guide|Study guide]] · [[Acts 27 - My Notes|My notes]] · [[Acts]] · [[Acts 28|Acts 28 →]]
+[[Acts 26|← Acts 26]] · [[Acts 27 (Annotated)|Annotated]] · [[Acts 27 - Study Guide|Study guide]] · [[Acts 27 - My Notes|My notes]] · [[Acts]] · [[Acts 28|Acts 28 →]]

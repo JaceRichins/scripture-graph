@@ -46,4 +46,4 @@ cssclasses:
 **16** There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit. ^eccl-4-16
 
 ---
-[[Ecclesiastes 3|← Ecclesiastes 3]] · [[Ecclesiastes 4 - Study Guide|Study guide]] · [[Ecclesiastes 4 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 5|Ecclesiastes 5 →]]
+[[Ecclesiastes 3|← Ecclesiastes 3]] · [[Ecclesiastes 4 (Annotated)|Annotated]] · [[Ecclesiastes 4 - Study Guide|Study guide]] · [[Ecclesiastes 4 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 5|Ecclesiastes 5 →]]

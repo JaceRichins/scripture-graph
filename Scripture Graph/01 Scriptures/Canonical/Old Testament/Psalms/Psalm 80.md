@@ -54,4 +54,4 @@ aliases:
 **19** Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved. ^ps-80-19
 
 ---
-[[Psalm 79|← Psalm 79]] · [[Psalm 80 - Study Guide|Study guide]] · [[Psalm 80 - My Notes|My notes]] · [[Psalms]] · [[Psalm 81|Psalm 81 →]]
+[[Psalm 79|← Psalm 79]] · [[Psalm 80 (Annotated)|Annotated]] · [[Psalm 80 - Study Guide|Study guide]] · [[Psalm 80 - My Notes|My notes]] · [[Psalms]] · [[Psalm 81|Psalm 81 →]]

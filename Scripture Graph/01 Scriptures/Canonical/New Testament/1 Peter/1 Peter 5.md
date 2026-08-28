@@ -42,4 +42,4 @@ cssclasses:
 **14** Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen. ^1pet-5-14
 
 ---
-[[1 Peter 4|← 1 Peter 4]] · [[1 Peter 5 - Study Guide|Study guide]] · [[1 Peter 5 - My Notes|My notes]] · [[1 Peter]]
+[[1 Peter 4|← 1 Peter 4]] · [[1 Peter 5 (Annotated)|Annotated]] · [[1 Peter 5 - Study Guide|Study guide]] · [[1 Peter 5 - My Notes|My notes]] · [[1 Peter]]

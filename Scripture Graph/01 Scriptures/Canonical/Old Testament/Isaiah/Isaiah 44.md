@@ -70,4 +70,4 @@ cssclasses:
 **28** That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid. ^isa-44-28
 
 ---
-[[Isaiah 43|← Isaiah 43]] · [[Isaiah 44 - Study Guide|Study guide]] · [[Isaiah 44 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 45|Isaiah 45 →]]
+[[Isaiah 43|← Isaiah 43]] · [[Isaiah 44 (Annotated)|Annotated]] · [[Isaiah 44 - Study Guide|Study guide]] · [[Isaiah 44 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 45|Isaiah 45 →]]

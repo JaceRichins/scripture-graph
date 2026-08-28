@@ -66,4 +66,4 @@ cssclasses:
 **26** And her gates shall lament and mourn; and she being desolate shall sit upon the ground. ^isa-3-26
 
 ---
-[[Isaiah 2|← Isaiah 2]] · [[Isaiah 3 - Study Guide|Study guide]] · [[Isaiah 3 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 4|Isaiah 4 →]]
+[[Isaiah 2|← Isaiah 2]] · [[Isaiah 3 (Annotated)|Annotated]] · [[Isaiah 3 - Study Guide|Study guide]] · [[Isaiah 3 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 4|Isaiah 4 →]]

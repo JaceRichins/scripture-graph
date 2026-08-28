@@ -64,4 +64,4 @@ cssclasses:
 **25** And God looked upon the children of Israel, and God had respect unto them. ^ex-2-25
 
 ---
-[[Exodus 1|← Exodus 1]] · [[Exodus 2 - Study Guide|Study guide]] · [[Exodus 2 - My Notes|My notes]] · [[Exodus]] · [[Exodus 3|Exodus 3 →]]
+[[Exodus 1|← Exodus 1]] · [[Exodus 2 (Annotated)|Annotated]] · [[Exodus 2 - Study Guide|Study guide]] · [[Exodus 2 - My Notes|My notes]] · [[Exodus]] · [[Exodus 3|Exodus 3 →]]

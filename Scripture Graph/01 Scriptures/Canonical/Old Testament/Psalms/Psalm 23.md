@@ -28,4 +28,4 @@ aliases:
 **6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever. ^ps-23-6
 
 ---
-[[Psalm 22|← Psalm 22]] · [[Psalm 23 - Study Guide|Study guide]] · [[Psalm 23 - My Notes|My notes]] · [[Psalms]] · [[Psalm 24|Psalm 24 →]]
+[[Psalm 22|← Psalm 22]] · [[Psalm 23 (Annotated)|Annotated]] · [[Psalm 23 - Study Guide|Study guide]] · [[Psalm 23 - My Notes|My notes]] · [[Psalms]] · [[Psalm 24|Psalm 24 →]]

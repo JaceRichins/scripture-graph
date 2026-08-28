@@ -86,4 +86,4 @@ cssclasses:
 **36** And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread. ^1sam-2-36
 
 ---
-[[1 Samuel 1|← 1 Samuel 1]] · [[1 Samuel 2 - Study Guide|Study guide]] · [[1 Samuel 2 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 3|1 Samuel 3 →]]
+[[1 Samuel 1|← 1 Samuel 1]] · [[1 Samuel 2 (Annotated)|Annotated]] · [[1 Samuel 2 - Study Guide|Study guide]] · [[1 Samuel 2 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 3|1 Samuel 3 →]]

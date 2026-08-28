@@ -62,4 +62,4 @@ cssclasses:
 **24** And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh. ^isa-66-24
 
 ---
-[[Isaiah 65|← Isaiah 65]] · [[Isaiah 66 - Study Guide|Study guide]] · [[Isaiah 66 - My Notes|My notes]] · [[Isaiah]]
+[[Isaiah 65|← Isaiah 65]] · [[Isaiah 66 (Annotated)|Annotated]] · [[Isaiah 66 - Study Guide|Study guide]] · [[Isaiah 66 - My Notes|My notes]] · [[Isaiah]]

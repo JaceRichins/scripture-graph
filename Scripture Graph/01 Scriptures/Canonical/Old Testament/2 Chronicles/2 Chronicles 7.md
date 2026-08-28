@@ -58,4 +58,4 @@ cssclasses:
 **22** And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them. ^2chr-7-22
 
 ---
-[[2 Chronicles 6|← 2 Chronicles 6]] · [[2 Chronicles 7 - Study Guide|Study guide]] · [[2 Chronicles 7 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 8|2 Chronicles 8 →]]
+[[2 Chronicles 6|← 2 Chronicles 6]] · [[2 Chronicles 7 (Annotated)|Annotated]] · [[2 Chronicles 7 - Study Guide|Study guide]] · [[2 Chronicles 7 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 8|2 Chronicles 8 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** Be not overcome of evil, but overcome evil with good. ^rom-12-21
 
 ---
-[[Romans 11|← Romans 11]] · [[Romans 12 - Study Guide|Study guide]] · [[Romans 12 - My Notes|My notes]] · [[Romans]] · [[Romans 13|Romans 13 →]]
+[[Romans 11|← Romans 11]] · [[Romans 12 (Annotated)|Annotated]] · [[Romans 12 - Study Guide|Study guide]] · [[Romans 12 - My Notes|My notes]] · [[Romans]] · [[Romans 13|Romans 13 →]]

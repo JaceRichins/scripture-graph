@@ -84,4 +84,4 @@ cssclasses:
 **35** And now I, after having said this, return again to the account of Ammon and Aaron, Omner and Himni, and their brethren. ^alma-22-35
 
 ---
-[[Alma 21|← Alma 21]] · [[Alma 22 - Study Guide|Study guide]] · [[Alma 22 - My Notes|My notes]] · [[Alma]] · [[Alma 23|Alma 23 →]]
+[[Alma 21|← Alma 21]] · [[Alma 22 (Annotated)|Annotated]] · [[Alma 22 - Study Guide|Study guide]] · [[Alma 22 - My Notes|My notes]] · [[Alma]] · [[Alma 23|Alma 23 →]]

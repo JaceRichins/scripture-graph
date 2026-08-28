@@ -80,4 +80,4 @@ cssclasses:
 **33** And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight. ^num-13-33
 
 ---
-[[Numbers 12|← Numbers 12]] · [[Numbers 13 - Study Guide|Study guide]] · [[Numbers 13 - My Notes|My notes]] · [[Numbers]] · [[Numbers 14|Numbers 14 →]]
+[[Numbers 12|← Numbers 12]] · [[Numbers 13 (Annotated)|Annotated]] · [[Numbers 13 - Study Guide|Study guide]] · [[Numbers 13 - My Notes|My notes]] · [[Numbers]] · [[Numbers 14|Numbers 14 →]]

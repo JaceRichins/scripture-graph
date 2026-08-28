@@ -50,4 +50,4 @@ cssclasses:
 **18** And they began to be a very industrious people; yea, and they were friendly with the Nephites; therefore, they did open a correspondence with them, and the curse of God did no more follow them. ^alma-23-18
 
 ---
-[[Alma 22|← Alma 22]] · [[Alma 23 - Study Guide|Study guide]] · [[Alma 23 - My Notes|My notes]] · [[Alma]] · [[Alma 24|Alma 24 →]]
+[[Alma 22|← Alma 22]] · [[Alma 23 (Annotated)|Annotated]] · [[Alma 23 - Study Guide|Study guide]] · [[Alma 23 - My Notes|My notes]] · [[Alma]] · [[Alma 24|Alma 24 →]]

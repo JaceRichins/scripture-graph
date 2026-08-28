@@ -44,4 +44,4 @@ cssclasses:
 **15** So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off. ^hosea-10-15
 
 ---
-[[Hosea 9|← Hosea 9]] · [[Hosea 10 - Study Guide|Study guide]] · [[Hosea 10 - My Notes|My notes]] · [[Hosea]] · [[Hosea 11|Hosea 11 →]]
+[[Hosea 9|← Hosea 9]] · [[Hosea 10 (Annotated)|Annotated]] · [[Hosea 10 - Study Guide|Study guide]] · [[Hosea 10 - My Notes|My notes]] · [[Hosea]] · [[Hosea 11|Hosea 11 →]]

@@ -58,4 +58,4 @@ cssclasses:
 **22** And it came to pass that we did come down unto the tent of our father. And after I and my brethren and all the house of Ishmael had come down unto the tent of my father, they did give thanks unto the Lord their God; and they did offer sacrifice and burnt offerings unto him. ^1ne-7-22
 
 ---
-[[1 Nephi 6|← 1 Nephi 6]] · [[1 Nephi 7 - Study Guide|Study guide]] · [[1 Nephi 7 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 8|1 Nephi 8 →]]
+[[1 Nephi 6|← 1 Nephi 6]] · [[1 Nephi 7 (Annotated)|Annotated]] · [[1 Nephi 7 - Study Guide|Study guide]] · [[1 Nephi 7 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 8|1 Nephi 8 →]]

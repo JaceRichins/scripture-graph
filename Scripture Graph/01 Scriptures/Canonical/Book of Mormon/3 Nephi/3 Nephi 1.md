@@ -74,4 +74,4 @@ cssclasses:
 **30** And thus were the Lamanites afflicted also, and began to decrease as to their faith and righteousness, because of the wickedness of the rising generation. ^3ne-1-30
 
 ---
-[[3 Nephi 1 - Study Guide|Study guide]] · [[3 Nephi 1 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 2|3 Nephi 2 →]]
+[[3 Nephi 1 (Annotated)|Annotated]] · [[3 Nephi 1 - Study Guide|Study guide]] · [[3 Nephi 1 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 2|3 Nephi 2 →]]

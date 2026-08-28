@@ -84,4 +84,4 @@ cssclasses:
 **35** I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall. ^acts-23-35
 
 ---
-[[Acts 22|← Acts 22]] · [[Acts 23 - Study Guide|Study guide]] · [[Acts 23 - My Notes|My notes]] · [[Acts]] · [[Acts 24|Acts 24 →]]
+[[Acts 22|← Acts 22]] · [[Acts 23 (Annotated)|Annotated]] · [[Acts 23 - Study Guide|Study guide]] · [[Acts 23 - My Notes|My notes]] · [[Acts]] · [[Acts 24|Acts 24 →]]

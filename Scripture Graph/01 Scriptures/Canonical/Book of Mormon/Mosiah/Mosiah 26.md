@@ -92,4 +92,4 @@ cssclasses:
 **39** And they did admonish their brethren; and they were also admonished, every one by the word of God, according to his sins, or to the sins which he had committed, being commanded of God to pray without ceasing, and to give thanks in all things. ^mosiah-26-39
 
 ---
-[[Mosiah 25|← Mosiah 25]] · [[Mosiah 26 - Study Guide|Study guide]] · [[Mosiah 26 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 27|Mosiah 27 →]]
+[[Mosiah 25|← Mosiah 25]] · [[Mosiah 26 (Annotated)|Annotated]] · [[Mosiah 26 - Study Guide|Study guide]] · [[Mosiah 26 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 27|Mosiah 27 →]]

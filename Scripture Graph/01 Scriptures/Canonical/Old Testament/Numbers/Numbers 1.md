@@ -122,4 +122,4 @@ cssclasses:
 **54** And the children of Israel did according to all that the LORD commanded Moses, so did they. ^num-1-54
 
 ---
-[[Numbers 1 - Study Guide|Study guide]] · [[Numbers 1 - My Notes|My notes]] · [[Numbers]] · [[Numbers 2|Numbers 2 →]]
+[[Numbers 1 (Annotated)|Annotated]] · [[Numbers 1 - Study Guide|Study guide]] · [[Numbers 1 - My Notes|My notes]] · [[Numbers]] · [[Numbers 2|Numbers 2 →]]

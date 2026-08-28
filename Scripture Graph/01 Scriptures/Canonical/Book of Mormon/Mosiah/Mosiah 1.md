@@ -50,4 +50,4 @@ cssclasses:
 **18** And now, it came to pass that Mosiah went and did as his father had commanded him, and proclaimed unto all the people who were in the land of Zarahemla that thereby they might gather themselves together, to go up to the temple to hear the words which his father should speak unto them. ^mosiah-1-18
 
 ---
-[[Mosiah 1 - Study Guide|Study guide]] · [[Mosiah 1 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 2|Mosiah 2 →]]
+[[Mosiah 1 (Annotated)|Annotated]] · [[Mosiah 1 - Study Guide|Study guide]] · [[Mosiah 1 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 2|Mosiah 2 →]]

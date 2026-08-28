@@ -60,4 +60,4 @@ cssclasses:
 **23** Yet did not the chief butler remember Joseph, but forgat him. ^gen-40-23
 
 ---
-[[Genesis 39|← Genesis 39]] · [[Genesis 40 - Study Guide|Study guide]] · [[Genesis 40 - My Notes|My notes]] · [[Genesis]] · [[Genesis 41|Genesis 41 →]]
+[[Genesis 39|← Genesis 39]] · [[Genesis 40 (Annotated)|Annotated]] · [[Genesis 40 - Study Guide|Study guide]] · [[Genesis 40 - My Notes|My notes]] · [[Genesis]] · [[Genesis 41|Genesis 41 →]]

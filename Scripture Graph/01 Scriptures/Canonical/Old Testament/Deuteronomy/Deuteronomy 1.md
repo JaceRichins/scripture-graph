@@ -106,4 +106,4 @@ cssclasses:
 **46** So ye abode in Kadesh many days, according unto the days that ye abode there. ^deut-1-46
 
 ---
-[[Deuteronomy 1 - Study Guide|Study guide]] · [[Deuteronomy 1 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 2|Deuteronomy 2 →]]
+[[Deuteronomy 1 (Annotated)|Annotated]] · [[Deuteronomy 1 - Study Guide|Study guide]] · [[Deuteronomy 1 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 2|Deuteronomy 2 →]]

@@ -110,4 +110,4 @@ cssclasses:
 **48** Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall be like him, for we shall see him as he is; that we may have this hope; that we may be purified even as he is pure. Amen. ^moro-7-48
 
 ---
-[[Moroni 6|← Moroni 6]] · [[Moroni 7 - Study Guide|Study guide]] · [[Moroni 7 - My Notes|My notes]] · [[Moroni]] · [[Moroni 8|Moroni 8 →]]
+[[Moroni 6|← Moroni 6]] · [[Moroni 7 (Annotated)|Annotated]] · [[Moroni 7 - Study Guide|Study guide]] · [[Moroni 7 - My Notes|My notes]] · [[Moroni]] · [[Moroni 8|Moroni 8 →]]

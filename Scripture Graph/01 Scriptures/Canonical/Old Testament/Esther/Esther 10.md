@@ -20,4 +20,4 @@ cssclasses:
 **3** For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed. ^esth-10-3
 
 ---
-[[Esther 9|← Esther 9]] · [[Esther 10 - Study Guide|Study guide]] · [[Esther 10 - My Notes|My notes]] · [[Esther]]
+[[Esther 9|← Esther 9]] · [[Esther 10 (Annotated)|Annotated]] · [[Esther 10 - Study Guide|Study guide]] · [[Esther 10 - My Notes|My notes]] · [[Esther]]

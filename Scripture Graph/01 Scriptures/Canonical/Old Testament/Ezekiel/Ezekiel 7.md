@@ -68,4 +68,4 @@ cssclasses:
 **27** The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the LORD. ^ezek-7-27
 
 ---
-[[Ezekiel 6|← Ezekiel 6]] · [[Ezekiel 7 - Study Guide|Study guide]] · [[Ezekiel 7 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 8|Ezekiel 8 →]]
+[[Ezekiel 6|← Ezekiel 6]] · [[Ezekiel 7 (Annotated)|Annotated]] · [[Ezekiel 7 - Study Guide|Study guide]] · [[Ezekiel 7 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 8|Ezekiel 8 →]]

@@ -122,4 +122,4 @@ cssclasses:
 **54** Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him. ^luke-11-54
 
 ---
-[[Luke 10|← Luke 10]] · [[Luke 11 - Study Guide|Study guide]] · [[Luke 11 - My Notes|My notes]] · [[Luke]] · [[Luke 12|Luke 12 →]]
+[[Luke 10|← Luke 10]] · [[Luke 11 (Annotated)|Annotated]] · [[Luke 11 - Study Guide|Study guide]] · [[Luke 11 - My Notes|My notes]] · [[Luke]] · [[Luke 12|Luke 12 →]]

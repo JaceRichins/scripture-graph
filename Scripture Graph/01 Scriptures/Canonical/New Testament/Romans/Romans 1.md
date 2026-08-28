@@ -78,4 +78,4 @@ cssclasses:
 **32** Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. ^rom-1-32
 
 ---
-[[Romans 1 - Study Guide|Study guide]] · [[Romans 1 - My Notes|My notes]] · [[Romans]] · [[Romans 2|Romans 2 →]]
+[[Romans 1 (Annotated)|Annotated]] · [[Romans 1 - Study Guide|Study guide]] · [[Romans 1 - My Notes|My notes]] · [[Romans]] · [[Romans 2|Romans 2 →]]

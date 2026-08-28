@@ -58,4 +58,4 @@ cssclasses:
 **22** Thus did Noah; according to all that God commanded him, so did he. ^gen-6-22
 
 ---
-[[Genesis 5|← Genesis 5]] · [[Genesis 6 - Study Guide|Study guide]] · [[Genesis 6 - My Notes|My notes]] · [[Genesis]] · [[Genesis 7|Genesis 7 →]]
+[[Genesis 5|← Genesis 5]] · [[Genesis 6 (Annotated)|Annotated]] · [[Genesis 6 - Study Guide|Study guide]] · [[Genesis 6 - My Notes|My notes]] · [[Genesis]] · [[Genesis 7|Genesis 7 →]]

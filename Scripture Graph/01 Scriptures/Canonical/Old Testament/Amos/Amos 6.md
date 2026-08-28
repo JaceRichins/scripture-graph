@@ -42,4 +42,4 @@ cssclasses:
 **14** But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness. ^amos-6-14
 
 ---
-[[Amos 5|← Amos 5]] · [[Amos 6 - Study Guide|Study guide]] · [[Amos 6 - My Notes|My notes]] · [[Amos]] · [[Amos 7|Amos 7 →]]
+[[Amos 5|← Amos 5]] · [[Amos 6 (Annotated)|Annotated]] · [[Amos 6 - Study Guide|Study guide]] · [[Amos 6 - My Notes|My notes]] · [[Amos]] · [[Amos 7|Amos 7 →]]

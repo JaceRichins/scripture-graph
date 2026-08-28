@@ -68,4 +68,4 @@ cssclasses:
 **27** And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens. ^prov-27-27
 
 ---
-[[Proverbs 26|← Proverbs 26]] · [[Proverbs 27 - Study Guide|Study guide]] · [[Proverbs 27 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 28|Proverbs 28 →]]
+[[Proverbs 26|← Proverbs 26]] · [[Proverbs 27 (Annotated)|Annotated]] · [[Proverbs 27 - Study Guide|Study guide]] · [[Proverbs 27 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 28|Proverbs 28 →]]

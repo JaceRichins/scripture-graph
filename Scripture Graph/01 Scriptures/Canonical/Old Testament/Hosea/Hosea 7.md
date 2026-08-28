@@ -46,4 +46,4 @@ cssclasses:
 **16** They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt. ^hosea-7-16
 
 ---
-[[Hosea 6|← Hosea 6]] · [[Hosea 7 - Study Guide|Study guide]] · [[Hosea 7 - My Notes|My notes]] · [[Hosea]] · [[Hosea 8|Hosea 8 →]]
+[[Hosea 6|← Hosea 6]] · [[Hosea 7 (Annotated)|Annotated]] · [[Hosea 7 - Study Guide|Study guide]] · [[Hosea 7 - My Notes|My notes]] · [[Hosea]] · [[Hosea 8|Hosea 8 →]]

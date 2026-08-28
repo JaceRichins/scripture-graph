@@ -84,4 +84,4 @@ cssclasses:
 **35** They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again. ^prov-23-35
 
 ---
-[[Proverbs 22|← Proverbs 22]] · [[Proverbs 23 - Study Guide|Study guide]] · [[Proverbs 23 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 24|Proverbs 24 →]]
+[[Proverbs 22|← Proverbs 22]] · [[Proverbs 23 (Annotated)|Annotated]] · [[Proverbs 23 - Study Guide|Study guide]] · [[Proverbs 23 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 24|Proverbs 24 →]]

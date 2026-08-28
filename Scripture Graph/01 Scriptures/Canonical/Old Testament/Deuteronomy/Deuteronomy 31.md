@@ -74,4 +74,4 @@ cssclasses:
 **30** And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended. ^deut-31-30
 
 ---
-[[Deuteronomy 30|← Deuteronomy 30]] · [[Deuteronomy 31 - Study Guide|Study guide]] · [[Deuteronomy 31 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 32|Deuteronomy 32 →]]
+[[Deuteronomy 30|← Deuteronomy 30]] · [[Deuteronomy 31 (Annotated)|Annotated]] · [[Deuteronomy 31 - Study Guide|Study guide]] · [[Deuteronomy 31 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 32|Deuteronomy 32 →]]

@@ -66,4 +66,4 @@ cssclasses:
 **26** Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen. ^deut-27-26
 
 ---
-[[Deuteronomy 26|← Deuteronomy 26]] · [[Deuteronomy 27 - Study Guide|Study guide]] · [[Deuteronomy 27 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 28|Deuteronomy 28 →]]
+[[Deuteronomy 26|← Deuteronomy 26]] · [[Deuteronomy 27 (Annotated)|Annotated]] · [[Deuteronomy 27 - Study Guide|Study guide]] · [[Deuteronomy 27 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 28|Deuteronomy 28 →]]

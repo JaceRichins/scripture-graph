@@ -62,4 +62,4 @@ cssclasses:
 **24** And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah. ^gen-22-24
 
 ---
-[[Genesis 21|← Genesis 21]] · [[Genesis 22 - Study Guide|Study guide]] · [[Genesis 22 - My Notes|My notes]] · [[Genesis]] · [[Genesis 23|Genesis 23 →]]
+[[Genesis 21|← Genesis 21]] · [[Genesis 22 (Annotated)|Annotated]] · [[Genesis 22 - Study Guide|Study guide]] · [[Genesis 22 - My Notes|My notes]] · [[Genesis]] · [[Genesis 23|Genesis 23 →]]

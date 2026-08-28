@@ -64,4 +64,4 @@ aliases:
 **24** My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt. ^ps-71-24
 
 ---
-[[Psalm 70|← Psalm 70]] · [[Psalm 71 - Study Guide|Study guide]] · [[Psalm 71 - My Notes|My notes]] · [[Psalms]] · [[Psalm 72|Psalm 72 →]]
+[[Psalm 70|← Psalm 70]] · [[Psalm 71 (Annotated)|Annotated]] · [[Psalm 71 - Study Guide|Study guide]] · [[Psalm 71 - My Notes|My notes]] · [[Psalms]] · [[Psalm 72|Psalm 72 →]]

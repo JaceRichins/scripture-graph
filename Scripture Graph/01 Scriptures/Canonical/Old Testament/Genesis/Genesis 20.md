@@ -50,4 +50,4 @@ cssclasses:
 **18** For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife. ^gen-20-18
 
 ---
-[[Genesis 19|← Genesis 19]] · [[Genesis 20 - Study Guide|Study guide]] · [[Genesis 20 - My Notes|My notes]] · [[Genesis]] · [[Genesis 21|Genesis 21 →]]
+[[Genesis 19|← Genesis 19]] · [[Genesis 20 (Annotated)|Annotated]] · [[Genesis 20 - Study Guide|Study guide]] · [[Genesis 20 - My Notes|My notes]] · [[Genesis]] · [[Genesis 21|Genesis 21 →]]

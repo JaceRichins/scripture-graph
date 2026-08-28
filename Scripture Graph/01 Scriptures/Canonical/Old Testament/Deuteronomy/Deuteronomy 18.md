@@ -58,4 +58,4 @@ cssclasses:
 **22** When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him. ^deut-18-22
 
 ---
-[[Deuteronomy 17|← Deuteronomy 17]] · [[Deuteronomy 18 - Study Guide|Study guide]] · [[Deuteronomy 18 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 19|Deuteronomy 19 →]]
+[[Deuteronomy 17|← Deuteronomy 17]] · [[Deuteronomy 18 (Annotated)|Annotated]] · [[Deuteronomy 18 - Study Guide|Study guide]] · [[Deuteronomy 18 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 19|Deuteronomy 19 →]]

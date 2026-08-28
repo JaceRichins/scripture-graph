@@ -66,4 +66,4 @@ cssclasses:
 **26** And they raised over him a great heap of stones unto this day. So the LORD turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day. ^josh-7-26
 
 ---
-[[Joshua 6|← Joshua 6]] · [[Joshua 7 - Study Guide|Study guide]] · [[Joshua 7 - My Notes|My notes]] · [[Joshua]] · [[Joshua 8|Joshua 8 →]]
+[[Joshua 6|← Joshua 6]] · [[Joshua 7 (Annotated)|Annotated]] · [[Joshua 7 - Study Guide|Study guide]] · [[Joshua 7 - My Notes|My notes]] · [[Joshua]] · [[Joshua 8|Joshua 8 →]]

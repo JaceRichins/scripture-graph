@@ -52,4 +52,4 @@ cssclasses:
 **19** And Israel rebelled against the house of David unto this day. ^2chr-10-19
 
 ---
-[[2 Chronicles 9|← 2 Chronicles 9]] · [[2 Chronicles 10 - Study Guide|Study guide]] · [[2 Chronicles 10 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 11|2 Chronicles 11 →]]
+[[2 Chronicles 9|← 2 Chronicles 9]] · [[2 Chronicles 10 (Annotated)|Annotated]] · [[2 Chronicles 10 - Study Guide|Study guide]] · [[2 Chronicles 10 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 11|2 Chronicles 11 →]]

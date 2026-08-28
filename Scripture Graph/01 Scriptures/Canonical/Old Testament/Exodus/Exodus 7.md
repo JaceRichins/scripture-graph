@@ -64,4 +64,4 @@ cssclasses:
 **25** And seven days were fulfilled, after that the LORD had smitten the river. ^ex-7-25
 
 ---
-[[Exodus 6|← Exodus 6]] · [[Exodus 7 - Study Guide|Study guide]] · [[Exodus 7 - My Notes|My notes]] · [[Exodus]] · [[Exodus 8|Exodus 8 →]]
+[[Exodus 6|← Exodus 6]] · [[Exodus 7 (Annotated)|Annotated]] · [[Exodus 7 - Study Guide|Study guide]] · [[Exodus 7 - My Notes|My notes]] · [[Exodus]] · [[Exodus 8|Exodus 8 →]]

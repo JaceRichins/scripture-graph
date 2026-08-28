@@ -38,4 +38,4 @@ cssclasses:
 **12** And I will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD. ^zech-10-12
 
 ---
-[[Zechariah 9|← Zechariah 9]] · [[Zechariah 10 - Study Guide|Study guide]] · [[Zechariah 10 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 11|Zechariah 11 →]]
+[[Zechariah 9|← Zechariah 9]] · [[Zechariah 10 (Annotated)|Annotated]] · [[Zechariah 10 - Study Guide|Study guide]] · [[Zechariah 10 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 11|Zechariah 11 →]]

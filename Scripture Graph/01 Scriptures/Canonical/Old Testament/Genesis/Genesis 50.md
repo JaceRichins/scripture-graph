@@ -66,4 +66,4 @@ cssclasses:
 **26** So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt. ^gen-50-26
 
 ---
-[[Genesis 49|← Genesis 49]] · [[Genesis 50 - Study Guide|Study guide]] · [[Genesis 50 - My Notes|My notes]] · [[Genesis]]
+[[Genesis 49|← Genesis 49]] · [[Genesis 50 (Annotated)|Annotated]] · [[Genesis 50 - Study Guide|Study guide]] · [[Genesis 50 - My Notes|My notes]] · [[Genesis]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war. ^josh-11-23
 
 ---
-[[Joshua 10|← Joshua 10]] · [[Joshua 11 - Study Guide|Study guide]] · [[Joshua 11 - My Notes|My notes]] · [[Joshua]] · [[Joshua 12|Joshua 12 →]]
+[[Joshua 10|← Joshua 10]] · [[Joshua 11 (Annotated)|Annotated]] · [[Joshua 11 - Study Guide|Study guide]] · [[Joshua 11 - My Notes|My notes]] · [[Joshua]] · [[Joshua 12|Joshua 12 →]]

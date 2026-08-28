@@ -62,4 +62,4 @@ cssclasses:
 **24** Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia. ^ezra-4-24
 
 ---
-[[Ezra 3|← Ezra 3]] · [[Ezra 4 - Study Guide|Study guide]] · [[Ezra 4 - My Notes|My notes]] · [[Ezra]] · [[Ezra 5|Ezra 5 →]]
+[[Ezra 3|← Ezra 3]] · [[Ezra 4 (Annotated)|Annotated]] · [[Ezra 4 - Study Guide|Study guide]] · [[Ezra 4 - My Notes|My notes]] · [[Ezra]] · [[Ezra 5|Ezra 5 →]]

@@ -72,4 +72,4 @@ aliases:
 **28** But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works. ^ps-73-28
 
 ---
-[[Psalm 72|← Psalm 72]] · [[Psalm 73 - Study Guide|Study guide]] · [[Psalm 73 - My Notes|My notes]] · [[Psalms]] · [[Psalm 74|Psalm 74 →]]
+[[Psalm 72|← Psalm 72]] · [[Psalm 73 (Annotated)|Annotated]] · [[Psalm 73 - Study Guide|Study guide]] · [[Psalm 73 - My Notes|My notes]] · [[Psalms]] · [[Psalm 74|Psalm 74 →]]

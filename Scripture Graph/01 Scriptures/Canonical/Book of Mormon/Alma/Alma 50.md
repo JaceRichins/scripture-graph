@@ -94,4 +94,4 @@ cssclasses:
 **40** Now behold, his name was Pahoran. And Pahoran did fill the seat of his father, and did commence his reign in the end of the twenty and fourth year, over the people of Nephi. ^alma-50-40
 
 ---
-[[Alma 49|← Alma 49]] · [[Alma 50 - Study Guide|Study guide]] · [[Alma 50 - My Notes|My notes]] · [[Alma]] · [[Alma 51|Alma 51 →]]
+[[Alma 49|← Alma 49]] · [[Alma 50 (Annotated)|Annotated]] · [[Alma 50 - Study Guide|Study guide]] · [[Alma 50 - My Notes|My notes]] · [[Alma]] · [[Alma 51|Alma 51 →]]

@@ -38,4 +38,4 @@ cssclasses:
 **12** And the fortress of the high fort of thy walls shall he bring down, lay low, and bring to the ground, even to the dust. ^isa-25-12
 
 ---
-[[Isaiah 24|← Isaiah 24]] · [[Isaiah 25 - Study Guide|Study guide]] · [[Isaiah 25 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 26|Isaiah 26 →]]
+[[Isaiah 24|← Isaiah 24]] · [[Isaiah 25 (Annotated)|Annotated]] · [[Isaiah 25 - Study Guide|Study guide]] · [[Isaiah 25 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 26|Isaiah 26 →]]

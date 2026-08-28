@@ -62,4 +62,4 @@ cssclasses:
 **24** But they grew proud, being lifted up in their hearts, because of their exceedingly great riches; therefore they grew rich in their own eyes, and would not give heed to their words, to walk uprightly before God. ^alma-45-24
 
 ---
-[[Alma 44|← Alma 44]] · [[Alma 45 - Study Guide|Study guide]] · [[Alma 45 - My Notes|My notes]] · [[Alma]] · [[Alma 46|Alma 46 →]]
+[[Alma 44|← Alma 44]] · [[Alma 45 (Annotated)|Annotated]] · [[Alma 45 - Study Guide|Study guide]] · [[Alma 45 - My Notes|My notes]] · [[Alma]] · [[Alma 46|Alma 46 →]]

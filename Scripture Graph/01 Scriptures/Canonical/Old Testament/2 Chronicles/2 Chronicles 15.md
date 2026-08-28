@@ -52,4 +52,4 @@ cssclasses:
 **19** And there was no more war unto the five and thirtieth year of the reign of Asa. ^2chr-15-19
 
 ---
-[[2 Chronicles 14|← 2 Chronicles 14]] · [[2 Chronicles 15 - Study Guide|Study guide]] · [[2 Chronicles 15 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 16|2 Chronicles 16 →]]
+[[2 Chronicles 14|← 2 Chronicles 14]] · [[2 Chronicles 15 (Annotated)|Annotated]] · [[2 Chronicles 15 - Study Guide|Study guide]] · [[2 Chronicles 15 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 16|2 Chronicles 16 →]]

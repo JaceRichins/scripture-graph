@@ -90,4 +90,4 @@ cssclasses:
 **38** As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the LORD. ^ezek-36-38
 
 ---
-[[Ezekiel 35|← Ezekiel 35]] · [[Ezekiel 36 - Study Guide|Study guide]] · [[Ezekiel 36 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 37|Ezekiel 37 →]]
+[[Ezekiel 35|← Ezekiel 35]] · [[Ezekiel 36 (Annotated)|Annotated]] · [[Ezekiel 36 - Study Guide|Study guide]] · [[Ezekiel 36 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 37|Ezekiel 37 →]]

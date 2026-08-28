@@ -22,4 +22,4 @@ aliases:
 **3** Let Israel hope in the LORD from henceforth and for ever. ^ps-131-3
 
 ---
-[[Psalm 130|← Psalm 130]] · [[Psalm 131 - Study Guide|Study guide]] · [[Psalm 131 - My Notes|My notes]] · [[Psalms]] · [[Psalm 132|Psalm 132 →]]
+[[Psalm 130|← Psalm 130]] · [[Psalm 131 (Annotated)|Annotated]] · [[Psalm 131 - Study Guide|Study guide]] · [[Psalm 131 - My Notes|My notes]] · [[Psalms]] · [[Psalm 132|Psalm 132 →]]

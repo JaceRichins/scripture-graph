@@ -98,4 +98,4 @@ cssclasses:
 **42** But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her. ^luke-10-42
 
 ---
-[[Luke 9|← Luke 9]] · [[Luke 10 - Study Guide|Study guide]] · [[Luke 10 - My Notes|My notes]] · [[Luke]] · [[Luke 11|Luke 11 →]]
+[[Luke 9|← Luke 9]] · [[Luke 10 (Annotated)|Annotated]] · [[Luke 10 - Study Guide|Study guide]] · [[Luke 10 - My Notes|My notes]] · [[Luke]] · [[Luke 11|Luke 11 →]]

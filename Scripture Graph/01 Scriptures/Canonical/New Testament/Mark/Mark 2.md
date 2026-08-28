@@ -70,4 +70,4 @@ cssclasses:
 **28** Therefore the Son of man is Lord also of the sabbath. ^mark-2-28
 
 ---
-[[Mark 1|← Mark 1]] · [[Mark 2 - Study Guide|Study guide]] · [[Mark 2 - My Notes|My notes]] · [[Mark]] · [[Mark 3|Mark 3 →]]
+[[Mark 1|← Mark 1]] · [[Mark 2 (Annotated)|Annotated]] · [[Mark 2 - Study Guide|Study guide]] · [[Mark 2 - My Notes|My notes]] · [[Mark]] · [[Mark 3|Mark 3 →]]

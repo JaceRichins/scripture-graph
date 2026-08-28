@@ -94,4 +94,4 @@ cssclasses:
 **40** And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground. ^judg-6-40
 
 ---
-[[Judges 5|← Judges 5]] · [[Judges 6 - Study Guide|Study guide]] · [[Judges 6 - My Notes|My notes]] · [[Judges]] · [[Judges 7|Judges 7 →]]
+[[Judges 5|← Judges 5]] · [[Judges 6 (Annotated)|Annotated]] · [[Judges 6 - Study Guide|Study guide]] · [[Judges 6 - My Notes|My notes]] · [[Judges]] · [[Judges 7|Judges 7 →]]

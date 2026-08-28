@@ -54,4 +54,4 @@ cssclasses:
 **20** Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued. ^deut-20-20
 
 ---
-[[Deuteronomy 19|← Deuteronomy 19]] · [[Deuteronomy 20 - Study Guide|Study guide]] · [[Deuteronomy 20 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 21|Deuteronomy 21 →]]
+[[Deuteronomy 19|← Deuteronomy 19]] · [[Deuteronomy 20 (Annotated)|Annotated]] · [[Deuteronomy 20 - Study Guide|Study guide]] · [[Deuteronomy 20 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 21|Deuteronomy 21 →]]

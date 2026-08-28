@@ -76,4 +76,4 @@ cssclasses:
 **31** And the Gods said: We will do everything that we have said, and organize them; and behold, they shall be very obedient. And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the sixth time. ^abr-4-31
 
 ---
-[[Abraham 3|← Abraham 3]] · [[Abraham 4 - Study Guide|Study guide]] · [[Abraham 4 - My Notes|My notes]] · [[Abraham]] · [[Abraham 5|Abraham 5 →]]
+[[Abraham 3|← Abraham 3]] · [[Abraham 4 (Annotated)|Annotated]] · [[Abraham 4 - Study Guide|Study guide]] · [[Abraham 4 - My Notes|My notes]] · [[Abraham]] · [[Abraham 5|Abraham 5 →]]

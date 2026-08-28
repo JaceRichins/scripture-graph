@@ -80,4 +80,4 @@ cssclasses:
 **33** And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer? ^2kgs-6-33
 
 ---
-[[2 Kings 5|← 2 Kings 5]] · [[2 Kings 6 - Study Guide|Study guide]] · [[2 Kings 6 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 7|2 Kings 7 →]]
+[[2 Kings 5|← 2 Kings 5]] · [[2 Kings 6 (Annotated)|Annotated]] · [[2 Kings 6 - Study Guide|Study guide]] · [[2 Kings 6 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 7|2 Kings 7 →]]

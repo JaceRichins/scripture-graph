@@ -94,4 +94,4 @@ cssclasses:
 **40** And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed. ^acts-16-40
 
 ---
-[[Acts 15|← Acts 15]] · [[Acts 16 - Study Guide|Study guide]] · [[Acts 16 - My Notes|My notes]] · [[Acts]] · [[Acts 17|Acts 17 →]]
+[[Acts 15|← Acts 15]] · [[Acts 16 (Annotated)|Annotated]] · [[Acts 16 - Study Guide|Study guide]] · [[Acts 16 - My Notes|My notes]] · [[Acts]] · [[Acts 17|Acts 17 →]]

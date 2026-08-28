@@ -58,4 +58,4 @@ cssclasses:
 **22** Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude. ^deut-10-22
 
 ---
-[[Deuteronomy 9|← Deuteronomy 9]] · [[Deuteronomy 10 - Study Guide|Study guide]] · [[Deuteronomy 10 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 11|Deuteronomy 11 →]]
+[[Deuteronomy 9|← Deuteronomy 9]] · [[Deuteronomy 10 (Annotated)|Annotated]] · [[Deuteronomy 10 - Study Guide|Study guide]] · [[Deuteronomy 10 - My Notes|My notes]] · [[Deuteronomy]] · [[Deuteronomy 11|Deuteronomy 11 →]]

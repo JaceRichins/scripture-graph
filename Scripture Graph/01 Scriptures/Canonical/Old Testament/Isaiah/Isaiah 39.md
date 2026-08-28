@@ -30,4 +30,4 @@ cssclasses:
 **8** Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days. ^isa-39-8
 
 ---
-[[Isaiah 38|← Isaiah 38]] · [[Isaiah 39 - Study Guide|Study guide]] · [[Isaiah 39 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 40|Isaiah 40 →]]
+[[Isaiah 38|← Isaiah 38]] · [[Isaiah 39 (Annotated)|Annotated]] · [[Isaiah 39 - Study Guide|Study guide]] · [[Isaiah 39 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 40|Isaiah 40 →]]

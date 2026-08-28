@@ -50,4 +50,4 @@ cssclasses:
 **18** And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead. ^judg-10-18
 
 ---
-[[Judges 9|← Judges 9]] · [[Judges 10 - Study Guide|Study guide]] · [[Judges 10 - My Notes|My notes]] · [[Judges]] · [[Judges 11|Judges 11 →]]
+[[Judges 9|← Judges 9]] · [[Judges 10 (Annotated)|Annotated]] · [[Judges 10 - Study Guide|Study guide]] · [[Judges 10 - My Notes|My notes]] · [[Judges]] · [[Judges 11|Judges 11 →]]

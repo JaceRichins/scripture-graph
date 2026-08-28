@@ -64,4 +64,4 @@ cssclasses:
 **25** But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead. ^2chr-33-25
 
 ---
-[[2 Chronicles 32|← 2 Chronicles 32]] · [[2 Chronicles 33 - Study Guide|Study guide]] · [[2 Chronicles 33 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 34|2 Chronicles 34 →]]
+[[2 Chronicles 32|← 2 Chronicles 32]] · [[2 Chronicles 33 (Annotated)|Annotated]] · [[2 Chronicles 33 - Study Guide|Study guide]] · [[2 Chronicles 33 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 34|2 Chronicles 34 →]]

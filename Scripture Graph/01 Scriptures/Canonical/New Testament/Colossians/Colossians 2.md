@@ -60,4 +60,4 @@ cssclasses:
 **23** Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. ^col-2-23
 
 ---
-[[Colossians 1|← Colossians 1]] · [[Colossians 2 - Study Guide|Study guide]] · [[Colossians 2 - My Notes|My notes]] · [[Colossians]] · [[Colossians 3|Colossians 3 →]]
+[[Colossians 1|← Colossians 1]] · [[Colossians 2 (Annotated)|Annotated]] · [[Colossians 2 - Study Guide|Study guide]] · [[Colossians 2 - My Notes|My notes]] · [[Colossians]] · [[Colossians 3|Colossians 3 →]]

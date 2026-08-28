@@ -146,4 +146,4 @@ cssclasses:
 **66** Persecute and destroy them in anger from under the heavens of the LORD. ^lam-3-66
 
 ---
-[[Lamentations 2|← Lamentations 2]] · [[Lamentations 3 - Study Guide|Study guide]] · [[Lamentations 3 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 4|Lamentations 4 →]]
+[[Lamentations 2|← Lamentations 2]] · [[Lamentations 3 (Annotated)|Annotated]] · [[Lamentations 3 - Study Guide|Study guide]] · [[Lamentations 3 - My Notes|My notes]] · [[Lamentations]] · [[Lamentations 4|Lamentations 4 →]]

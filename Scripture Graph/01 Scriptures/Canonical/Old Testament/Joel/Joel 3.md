@@ -56,4 +56,4 @@ cssclasses:
 **21** For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion. ^joel-3-21
 
 ---
-[[Joel 2|← Joel 2]] · [[Joel 3 - Study Guide|Study guide]] · [[Joel 3 - My Notes|My notes]] · [[Joel]]
+[[Joel 2|← Joel 2]] · [[Joel 3 (Annotated)|Annotated]] · [[Joel 3 - Study Guide|Study guide]] · [[Joel 3 - My Notes|My notes]] · [[Joel]]

@@ -62,4 +62,4 @@ cssclasses:
 **24** And the waters prevailed upon the earth an hundred and fifty days. ^gen-7-24
 
 ---
-[[Genesis 6|← Genesis 6]] · [[Genesis 7 - Study Guide|Study guide]] · [[Genesis 7 - My Notes|My notes]] · [[Genesis]] · [[Genesis 8|Genesis 8 →]]
+[[Genesis 6|← Genesis 6]] · [[Genesis 7 (Annotated)|Annotated]] · [[Genesis 7 - Study Guide|Study guide]] · [[Genesis 7 - My Notes|My notes]] · [[Genesis]] · [[Genesis 8|Genesis 8 →]]

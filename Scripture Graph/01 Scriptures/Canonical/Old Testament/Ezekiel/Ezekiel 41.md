@@ -66,4 +66,4 @@ cssclasses:
 **26** And there were narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and upon the side chambers of the house, and thick planks. ^ezek-41-26
 
 ---
-[[Ezekiel 40|← Ezekiel 40]] · [[Ezekiel 41 - Study Guide|Study guide]] · [[Ezekiel 41 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 42|Ezekiel 42 →]]
+[[Ezekiel 40|← Ezekiel 40]] · [[Ezekiel 41 (Annotated)|Annotated]] · [[Ezekiel 41 - Study Guide|Study guide]] · [[Ezekiel 41 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 42|Ezekiel 42 →]]

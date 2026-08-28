@@ -74,4 +74,4 @@ cssclasses:
 **30** Thus saith the LORD; Behold, I will give Pharaoh-hophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life. ^jer-44-30
 
 ---
-[[Jeremiah 43|← Jeremiah 43]] · [[Jeremiah 44 - Study Guide|Study guide]] · [[Jeremiah 44 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 45|Jeremiah 45 →]]
+[[Jeremiah 43|← Jeremiah 43]] · [[Jeremiah 44 (Annotated)|Annotated]] · [[Jeremiah 44 - Study Guide|Study guide]] · [[Jeremiah 44 - My Notes|My notes]] · [[Jeremiah]] · [[Jeremiah 45|Jeremiah 45 →]]

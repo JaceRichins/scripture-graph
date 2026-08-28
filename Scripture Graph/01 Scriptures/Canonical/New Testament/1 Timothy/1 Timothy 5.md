@@ -64,4 +64,4 @@ cssclasses:
 **25** Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid. ^1tim-5-25
 
 ---
-[[1 Timothy 4|← 1 Timothy 4]] · [[1 Timothy 5 - Study Guide|Study guide]] · [[1 Timothy 5 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 6|1 Timothy 6 →]]
+[[1 Timothy 4|← 1 Timothy 4]] · [[1 Timothy 5 (Annotated)|Annotated]] · [[1 Timothy 5 - Study Guide|Study guide]] · [[1 Timothy 5 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 6|1 Timothy 6 →]]

@@ -46,4 +46,4 @@ cssclasses:
 **16** Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. ^1tim-4-16
 
 ---
-[[1 Timothy 3|← 1 Timothy 3]] · [[1 Timothy 4 - Study Guide|Study guide]] · [[1 Timothy 4 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 5|1 Timothy 5 →]]
+[[1 Timothy 3|← 1 Timothy 3]] · [[1 Timothy 4 (Annotated)|Annotated]] · [[1 Timothy 4 - Study Guide|Study guide]] · [[1 Timothy 4 - My Notes|My notes]] · [[1 Timothy]] · [[1 Timothy 5|1 Timothy 5 →]]

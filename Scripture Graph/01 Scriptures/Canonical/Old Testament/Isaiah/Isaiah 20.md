@@ -26,4 +26,4 @@ cssclasses:
 **6** And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape? ^isa-20-6
 
 ---
-[[Isaiah 19|← Isaiah 19]] · [[Isaiah 20 - Study Guide|Study guide]] · [[Isaiah 20 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 21|Isaiah 21 →]]
+[[Isaiah 19|← Isaiah 19]] · [[Isaiah 20 (Annotated)|Annotated]] · [[Isaiah 20 - Study Guide|Study guide]] · [[Isaiah 20 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 21|Isaiah 21 →]]

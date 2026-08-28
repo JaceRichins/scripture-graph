@@ -50,4 +50,4 @@ cssclasses:
 **18** Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. ^gal-6-18
 
 ---
-[[Galatians 5|← Galatians 5]] · [[Galatians 6 - Study Guide|Study guide]] · [[Galatians 6 - My Notes|My notes]] · [[Galatians]]
+[[Galatians 5|← Galatians 5]] · [[Galatians 6 (Annotated)|Annotated]] · [[Galatians 6 - Study Guide|Study guide]] · [[Galatians 6 - My Notes|My notes]] · [[Galatians]]

@@ -36,4 +36,4 @@ cssclasses:
 **11** Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. ^hosea-6-11
 
 ---
-[[Hosea 5|← Hosea 5]] · [[Hosea 6 - Study Guide|Study guide]] · [[Hosea 6 - My Notes|My notes]] · [[Hosea]] · [[Hosea 7|Hosea 7 →]]
+[[Hosea 5|← Hosea 5]] · [[Hosea 6 (Annotated)|Annotated]] · [[Hosea 6 - Study Guide|Study guide]] · [[Hosea 6 - My Notes|My notes]] · [[Hosea]] · [[Hosea 7|Hosea 7 →]]

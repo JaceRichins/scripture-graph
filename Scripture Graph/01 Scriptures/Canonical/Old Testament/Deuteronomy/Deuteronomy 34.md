@@ -38,4 +38,4 @@ cssclasses:
 **12** And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel. ^deut-34-12
 
 ---
-[[Deuteronomy 33|← Deuteronomy 33]] · [[Deuteronomy 34 - Study Guide|Study guide]] · [[Deuteronomy 34 - My Notes|My notes]] · [[Deuteronomy]]
+[[Deuteronomy 33|← Deuteronomy 33]] · [[Deuteronomy 34 (Annotated)|Annotated]] · [[Deuteronomy 34 - Study Guide|Study guide]] · [[Deuteronomy 34 - My Notes|My notes]] · [[Deuteronomy]]

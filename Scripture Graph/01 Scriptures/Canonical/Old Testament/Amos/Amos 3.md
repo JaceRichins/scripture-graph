@@ -44,4 +44,4 @@ cssclasses:
 **15** And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD. ^amos-3-15
 
 ---
-[[Amos 2|← Amos 2]] · [[Amos 3 - Study Guide|Study guide]] · [[Amos 3 - My Notes|My notes]] · [[Amos]] · [[Amos 4|Amos 4 →]]
+[[Amos 2|← Amos 2]] · [[Amos 3 (Annotated)|Annotated]] · [[Amos 3 - Study Guide|Study guide]] · [[Amos 3 - My Notes|My notes]] · [[Amos]] · [[Amos 4|Amos 4 →]]

@@ -94,4 +94,4 @@ cssclasses:
 **40** That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year. ^judg-11-40
 
 ---
-[[Judges 10|← Judges 10]] · [[Judges 11 - Study Guide|Study guide]] · [[Judges 11 - My Notes|My notes]] · [[Judges]] · [[Judges 12|Judges 12 →]]
+[[Judges 10|← Judges 10]] · [[Judges 11 (Annotated)|Annotated]] · [[Judges 11 - Study Guide|Study guide]] · [[Judges 11 - My Notes|My notes]] · [[Judges]] · [[Judges 12|Judges 12 →]]

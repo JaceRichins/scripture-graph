@@ -58,4 +58,4 @@ cssclasses:
 **22** They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought. ^job-8-22
 
 ---
-[[Job 7|← Job 7]] · [[Job 8 - Study Guide|Study guide]] · [[Job 8 - My Notes|My notes]] · [[Job]] · [[Job 9|Job 9 →]]
+[[Job 7|← Job 7]] · [[Job 8 (Annotated)|Annotated]] · [[Job 8 - Study Guide|Study guide]] · [[Job 8 - My Notes|My notes]] · [[Job]] · [[Job 9|Job 9 →]]

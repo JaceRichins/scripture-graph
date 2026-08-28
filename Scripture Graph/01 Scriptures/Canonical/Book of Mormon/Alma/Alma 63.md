@@ -48,4 +48,4 @@ cssclasses:
 **17** And thus ended the account of Alma, and Helaman his son, and also Shiblon, who was his son. ^alma-63-17
 
 ---
-[[Alma 62|← Alma 62]] · [[Alma 63 - Study Guide|Study guide]] · [[Alma 63 - My Notes|My notes]] · [[Alma]]
+[[Alma 62|← Alma 62]] · [[Alma 63 (Annotated)|Annotated]] · [[Alma 63 - Study Guide|Study guide]] · [[Alma 63 - My Notes|My notes]] · [[Alma]]

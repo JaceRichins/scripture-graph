@@ -62,4 +62,4 @@ cssclasses:
 **24** And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan. ^judg-4-24
 
 ---
-[[Judges 3|← Judges 3]] · [[Judges 4 - Study Guide|Study guide]] · [[Judges 4 - My Notes|My notes]] · [[Judges]] · [[Judges 5|Judges 5 →]]
+[[Judges 3|← Judges 3]] · [[Judges 4 (Annotated)|Annotated]] · [[Judges 4 - Study Guide|Study guide]] · [[Judges 4 - My Notes|My notes]] · [[Judges]] · [[Judges 5|Judges 5 →]]

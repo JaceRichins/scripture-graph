@@ -78,4 +78,4 @@ cssclasses:
 **32** And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth. ^gen-5-32
 
 ---
-[[Genesis 4|← Genesis 4]] · [[Genesis 5 - Study Guide|Study guide]] · [[Genesis 5 - My Notes|My notes]] · [[Genesis]] · [[Genesis 6|Genesis 6 →]]
+[[Genesis 4|← Genesis 4]] · [[Genesis 5 (Annotated)|Annotated]] · [[Genesis 5 - Study Guide|Study guide]] · [[Genesis 5 - My Notes|My notes]] · [[Genesis]] · [[Genesis 6|Genesis 6 →]]

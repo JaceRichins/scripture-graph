@@ -40,4 +40,4 @@ cssclasses:
 **13** I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory. ^isa-46-13
 
 ---
-[[Isaiah 45|← Isaiah 45]] · [[Isaiah 46 - Study Guide|Study guide]] · [[Isaiah 46 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 47|Isaiah 47 →]]
+[[Isaiah 45|← Isaiah 45]] · [[Isaiah 46 (Annotated)|Annotated]] · [[Isaiah 46 - Study Guide|Study guide]] · [[Isaiah 46 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 47|Isaiah 47 →]]

@@ -64,4 +64,4 @@ cssclasses:
 **25** And Jehoash the son of Jehoahaz took again out of the hand of Ben-hadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel. ^2kgs-13-25
 
 ---
-[[2 Kings 12|← 2 Kings 12]] · [[2 Kings 13 - Study Guide|Study guide]] · [[2 Kings 13 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 14|2 Kings 14 →]]
+[[2 Kings 12|← 2 Kings 12]] · [[2 Kings 13 (Annotated)|Annotated]] · [[2 Kings 13 - Study Guide|Study guide]] · [[2 Kings 13 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 14|2 Kings 14 →]]

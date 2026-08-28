@@ -42,4 +42,4 @@ cssclasses:
 **14** And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation. ^ezek-19-14
 
 ---
-[[Ezekiel 18|← Ezekiel 18]] · [[Ezekiel 19 - Study Guide|Study guide]] · [[Ezekiel 19 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 20|Ezekiel 20 →]]
+[[Ezekiel 18|← Ezekiel 18]] · [[Ezekiel 19 (Annotated)|Annotated]] · [[Ezekiel 19 - Study Guide|Study guide]] · [[Ezekiel 19 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 20|Ezekiel 20 →]]

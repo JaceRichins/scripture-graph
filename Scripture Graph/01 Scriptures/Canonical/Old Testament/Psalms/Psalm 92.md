@@ -46,4 +46,4 @@ aliases:
 **15** To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him. ^ps-92-15
 
 ---
-[[Psalm 91|← Psalm 91]] · [[Psalm 92 - Study Guide|Study guide]] · [[Psalm 92 - My Notes|My notes]] · [[Psalms]] · [[Psalm 93|Psalm 93 →]]
+[[Psalm 91|← Psalm 91]] · [[Psalm 92 (Annotated)|Annotated]] · [[Psalm 92 - Study Guide|Study guide]] · [[Psalm 92 - My Notes|My notes]] · [[Psalms]] · [[Psalm 93|Psalm 93 →]]

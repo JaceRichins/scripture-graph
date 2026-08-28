@@ -88,4 +88,4 @@ cssclasses:
 **37** And he did that which was evil in the sight of the LORD, according to all that his fathers had done. ^2kgs-23-37
 
 ---
-[[2 Kings 22|← 2 Kings 22]] · [[2 Kings 23 - Study Guide|Study guide]] · [[2 Kings 23 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 24|2 Kings 24 →]]
+[[2 Kings 22|← 2 Kings 22]] · [[2 Kings 23 (Annotated)|Annotated]] · [[2 Kings 23 - Study Guide|Study guide]] · [[2 Kings 23 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 24|2 Kings 24 →]]

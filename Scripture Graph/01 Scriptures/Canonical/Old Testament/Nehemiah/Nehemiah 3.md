@@ -78,4 +78,4 @@ cssclasses:
 **32** And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants. ^neh-3-32
 
 ---
-[[Nehemiah 2|← Nehemiah 2]] · [[Nehemiah 3 - Study Guide|Study guide]] · [[Nehemiah 3 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 4|Nehemiah 4 →]]
+[[Nehemiah 2|← Nehemiah 2]] · [[Nehemiah 3 (Annotated)|Annotated]] · [[Nehemiah 3 - Study Guide|Study guide]] · [[Nehemiah 3 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 4|Nehemiah 4 →]]

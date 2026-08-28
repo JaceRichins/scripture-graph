@@ -38,4 +38,4 @@ cssclasses:
 **12** For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun? ^eccl-6-12
 
 ---
-[[Ecclesiastes 5|← Ecclesiastes 5]] · [[Ecclesiastes 6 - Study Guide|Study guide]] · [[Ecclesiastes 6 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 7|Ecclesiastes 7 →]]
+[[Ecclesiastes 5|← Ecclesiastes 5]] · [[Ecclesiastes 6 (Annotated)|Annotated]] · [[Ecclesiastes 6 - Study Guide|Study guide]] · [[Ecclesiastes 6 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 7|Ecclesiastes 7 →]]

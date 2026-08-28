@@ -80,4 +80,4 @@ cssclasses:
 **33** And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people. ^gen-49-33
 
 ---
-[[Genesis 48|← Genesis 48]] · [[Genesis 49 - Study Guide|Study guide]] · [[Genesis 49 - My Notes|My notes]] · [[Genesis]] · [[Genesis 50|Genesis 50 →]]
+[[Genesis 48|← Genesis 48]] · [[Genesis 49 (Annotated)|Annotated]] · [[Genesis 49 - Study Guide|Study guide]] · [[Genesis 49 - My Notes|My notes]] · [[Genesis]] · [[Genesis 50|Genesis 50 →]]

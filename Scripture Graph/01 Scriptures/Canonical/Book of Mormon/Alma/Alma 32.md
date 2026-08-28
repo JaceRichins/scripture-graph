@@ -100,4 +100,4 @@ cssclasses:
 **43** Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you. ^alma-32-43
 
 ---
-[[Alma 31|← Alma 31]] · [[Alma 32 - Study Guide|Study guide]] · [[Alma 32 - My Notes|My notes]] · [[Alma]] · [[Alma 33|Alma 33 →]]
+[[Alma 31|← Alma 31]] · [[Alma 32 (Annotated)|Annotated]] · [[Alma 32 - Study Guide|Study guide]] · [[Alma 32 - My Notes|My notes]] · [[Alma]] · [[Alma 33|Alma 33 →]]

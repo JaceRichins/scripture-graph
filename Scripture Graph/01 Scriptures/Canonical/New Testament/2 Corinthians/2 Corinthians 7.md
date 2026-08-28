@@ -46,4 +46,4 @@ cssclasses:
 **16** I rejoice therefore that I have confidence in you in all things. ^2cor-7-16
 
 ---
-[[2 Corinthians 6|← 2 Corinthians 6]] · [[2 Corinthians 7 - Study Guide|Study guide]] · [[2 Corinthians 7 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 8|2 Corinthians 8 →]]
+[[2 Corinthians 6|← 2 Corinthians 6]] · [[2 Corinthians 7 (Annotated)|Annotated]] · [[2 Corinthians 7 - Study Guide|Study guide]] · [[2 Corinthians 7 - My Notes|My notes]] · [[2 Corinthians]] · [[2 Corinthians 8|2 Corinthians 8 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen. ^eph-3-21
 
 ---
-[[Ephesians 2|← Ephesians 2]] · [[Ephesians 3 - Study Guide|Study guide]] · [[Ephesians 3 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 4|Ephesians 4 →]]
+[[Ephesians 2|← Ephesians 2]] · [[Ephesians 3 (Annotated)|Annotated]] · [[Ephesians 3 - Study Guide|Study guide]] · [[Ephesians 3 - My Notes|My notes]] · [[Ephesians]] · [[Ephesians 4|Ephesians 4 →]]

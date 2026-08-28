@@ -90,4 +90,4 @@ cssclasses:
 **38** Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest. ^matt-9-38
 
 ---
-[[Matthew 8|← Matthew 8]] · [[Matthew 9 - Study Guide|Study guide]] · [[Matthew 9 - My Notes|My notes]] · [[Matthew]] · [[Matthew 10|Matthew 10 →]]
+[[Matthew 8|← Matthew 8]] · [[Matthew 9 (Annotated)|Annotated]] · [[Matthew 9 - Study Guide|Study guide]] · [[Matthew 9 - My Notes|My notes]] · [[Matthew]] · [[Matthew 10|Matthew 10 →]]

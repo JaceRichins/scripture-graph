@@ -106,4 +106,4 @@ cssclasses:
 **46** And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me? ^gen-27-46
 
 ---
-[[Genesis 26|← Genesis 26]] · [[Genesis 27 - Study Guide|Study guide]] · [[Genesis 27 - My Notes|My notes]] · [[Genesis]] · [[Genesis 28|Genesis 28 →]]
+[[Genesis 26|← Genesis 26]] · [[Genesis 27 (Annotated)|Annotated]] · [[Genesis 27 - Study Guide|Study guide]] · [[Genesis 27 - My Notes|My notes]] · [[Genesis]] · [[Genesis 28|Genesis 28 →]]

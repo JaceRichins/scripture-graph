@@ -42,4 +42,4 @@ cssclasses:
 **14** But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name. ^3jn-1-14
 
 ---
-[[3 John 1 - Study Guide|Study guide]] · [[3 John 1 - My Notes|My notes]] · [[3 John]]
+[[3 John 1 (Annotated)|Annotated]] · [[3 John 1 - Study Guide|Study guide]] · [[3 John 1 - My Notes|My notes]] · [[3 John]]

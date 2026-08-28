@@ -76,4 +76,4 @@ cssclasses:
 **31** And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem. ^2sam-12-31
 
 ---
-[[2 Samuel 11|← 2 Samuel 11]] · [[2 Samuel 12 - Study Guide|Study guide]] · [[2 Samuel 12 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 13|2 Samuel 13 →]]
+[[2 Samuel 11|← 2 Samuel 11]] · [[2 Samuel 12 (Annotated)|Annotated]] · [[2 Samuel 12 - Study Guide|Study guide]] · [[2 Samuel 12 - My Notes|My notes]] · [[2 Samuel]] · [[2 Samuel 13|2 Samuel 13 →]]

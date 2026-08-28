@@ -40,4 +40,4 @@ aliases:
 **12** And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant. ^ps-143-12
 
 ---
-[[Psalm 142|← Psalm 142]] · [[Psalm 143 - Study Guide|Study guide]] · [[Psalm 143 - My Notes|My notes]] · [[Psalms]] · [[Psalm 144|Psalm 144 →]]
+[[Psalm 142|← Psalm 142]] · [[Psalm 143 (Annotated)|Annotated]] · [[Psalm 143 - Study Guide|Study guide]] · [[Psalm 143 - My Notes|My notes]] · [[Psalms]] · [[Psalm 144|Psalm 144 →]]

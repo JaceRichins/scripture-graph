@@ -90,4 +90,4 @@ cssclasses:
 **38** And it came to pass that we took the plates of brass and the servant of Laban, and departed into the wilderness, and journeyed unto the tent of our father. ^1ne-4-38
 
 ---
-[[1 Nephi 3|← 1 Nephi 3]] · [[1 Nephi 4 - Study Guide|Study guide]] · [[1 Nephi 4 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 5|1 Nephi 5 →]]
+[[1 Nephi 3|← 1 Nephi 3]] · [[1 Nephi 4 (Annotated)|Annotated]] · [[1 Nephi 4 - Study Guide|Study guide]] · [[1 Nephi 4 - My Notes|My notes]] · [[1 Nephi]] · [[1 Nephi 5|1 Nephi 5 →]]

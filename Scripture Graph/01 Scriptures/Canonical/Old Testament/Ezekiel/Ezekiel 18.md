@@ -78,4 +78,4 @@ cssclasses:
 **32** For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye. ^ezek-18-32
 
 ---
-[[Ezekiel 17|← Ezekiel 17]] · [[Ezekiel 18 - Study Guide|Study guide]] · [[Ezekiel 18 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 19|Ezekiel 19 →]]
+[[Ezekiel 17|← Ezekiel 17]] · [[Ezekiel 18 (Annotated)|Annotated]] · [[Ezekiel 18 - Study Guide|Study guide]] · [[Ezekiel 18 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 19|Ezekiel 19 →]]

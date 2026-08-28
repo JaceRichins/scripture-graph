@@ -118,4 +118,4 @@ cssclasses:
 **52** And it came to pass that all these things were done. And Helaman died, in the thirty and fifth year of the reign of the judges over the people of Nephi. ^alma-62-52
 
 ---
-[[Alma 61|← Alma 61]] · [[Alma 62 - Study Guide|Study guide]] · [[Alma 62 - My Notes|My notes]] · [[Alma]] · [[Alma 63|Alma 63 →]]
+[[Alma 61|← Alma 61]] · [[Alma 62 (Annotated)|Annotated]] · [[Alma 62 - Study Guide|Study guide]] · [[Alma 62 - My Notes|My notes]] · [[Alma]] · [[Alma 63|Alma 63 →]]

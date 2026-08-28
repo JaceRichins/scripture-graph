@@ -74,4 +74,4 @@ cssclasses:
 **30** And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me? ^ex-6-30
 
 ---
-[[Exodus 5|← Exodus 5]] · [[Exodus 6 - Study Guide|Study guide]] · [[Exodus 6 - My Notes|My notes]] · [[Exodus]] · [[Exodus 7|Exodus 7 →]]
+[[Exodus 5|← Exodus 5]] · [[Exodus 6 (Annotated)|Annotated]] · [[Exodus 6 - Study Guide|Study guide]] · [[Exodus 6 - My Notes|My notes]] · [[Exodus]] · [[Exodus 7|Exodus 7 →]]

@@ -82,4 +82,4 @@ cssclasses:
 **34** And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses. ^lev-16-34
 
 ---
-[[Leviticus 15|← Leviticus 15]] · [[Leviticus 16 - Study Guide|Study guide]] · [[Leviticus 16 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 17|Leviticus 17 →]]
+[[Leviticus 15|← Leviticus 15]] · [[Leviticus 16 (Annotated)|Annotated]] · [[Leviticus 16 - Study Guide|Study guide]] · [[Leviticus 16 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 17|Leviticus 17 →]]

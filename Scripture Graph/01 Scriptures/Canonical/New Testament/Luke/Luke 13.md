@@ -84,4 +84,4 @@ cssclasses:
 **35** Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord. ^luke-13-35
 
 ---
-[[Luke 12|← Luke 12]] · [[Luke 13 - Study Guide|Study guide]] · [[Luke 13 - My Notes|My notes]] · [[Luke]] · [[Luke 14|Luke 14 →]]
+[[Luke 12|← Luke 12]] · [[Luke 13 (Annotated)|Annotated]] · [[Luke 13 - Study Guide|Study guide]] · [[Luke 13 - My Notes|My notes]] · [[Luke]] · [[Luke 14|Luke 14 →]]

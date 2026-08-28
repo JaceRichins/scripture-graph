@@ -56,4 +56,4 @@ cssclasses:
 **21** That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord. ^rom-5-21
 
 ---
-[[Romans 4|← Romans 4]] · [[Romans 5 - Study Guide|Study guide]] · [[Romans 5 - My Notes|My notes]] · [[Romans]] · [[Romans 6|Romans 6 →]]
+[[Romans 4|← Romans 4]] · [[Romans 5 (Annotated)|Annotated]] · [[Romans 5 - Study Guide|Study guide]] · [[Romans 5 - My Notes|My notes]] · [[Romans]] · [[Romans 6|Romans 6 →]]

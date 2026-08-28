@@ -50,4 +50,4 @@ cssclasses:
 **18** Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner. ^neh-8-18
 
 ---
-[[Nehemiah 7|← Nehemiah 7]] · [[Nehemiah 8 - Study Guide|Study guide]] · [[Nehemiah 8 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 9|Nehemiah 9 →]]
+[[Nehemiah 7|← Nehemiah 7]] · [[Nehemiah 8 (Annotated)|Annotated]] · [[Nehemiah 8 - Study Guide|Study guide]] · [[Nehemiah 8 - My Notes|My notes]] · [[Nehemiah]] · [[Nehemiah 9|Nehemiah 9 →]]

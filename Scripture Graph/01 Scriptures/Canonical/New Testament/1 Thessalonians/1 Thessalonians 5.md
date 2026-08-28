@@ -70,4 +70,4 @@ cssclasses:
 **28** The grace of our Lord Jesus Christ be with you. Amen. ^1thes-5-28
 
 ---
-[[1 Thessalonians 4|← 1 Thessalonians 4]] · [[1 Thessalonians 5 - Study Guide|Study guide]] · [[1 Thessalonians 5 - My Notes|My notes]] · [[1 Thessalonians]]
+[[1 Thessalonians 4|← 1 Thessalonians 4]] · [[1 Thessalonians 5 (Annotated)|Annotated]] · [[1 Thessalonians 5 - Study Guide|Study guide]] · [[1 Thessalonians 5 - My Notes|My notes]] · [[1 Thessalonians]]

@@ -128,4 +128,4 @@ cssclasses:
 **57** Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him. ^john-11-57
 
 ---
-[[John 10|← John 10]] · [[John 11 - Study Guide|Study guide]] · [[John 11 - My Notes|My notes]] · [[John]] · [[John 12|John 12 →]]
+[[John 10|← John 10]] · [[John 11 (Annotated)|Annotated]] · [[John 11 - Study Guide|Study guide]] · [[John 11 - My Notes|My notes]] · [[John]] · [[John 12|John 12 →]]

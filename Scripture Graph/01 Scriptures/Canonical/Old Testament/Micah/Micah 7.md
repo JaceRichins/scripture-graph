@@ -54,4 +54,4 @@ cssclasses:
 **20** Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old. ^micah-7-20
 
 ---
-[[Micah 6|← Micah 6]] · [[Micah 7 - Study Guide|Study guide]] · [[Micah 7 - My Notes|My notes]] · [[Micah]]
+[[Micah 6|← Micah 6]] · [[Micah 7 (Annotated)|Annotated]] · [[Micah 7 - Study Guide|Study guide]] · [[Micah 7 - My Notes|My notes]] · [[Micah]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** There is no peace, saith my God, to the wicked. ^isa-57-21
 
 ---
-[[Isaiah 56|← Isaiah 56]] · [[Isaiah 57 - Study Guide|Study guide]] · [[Isaiah 57 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 58|Isaiah 58 →]]
+[[Isaiah 56|← Isaiah 56]] · [[Isaiah 57 (Annotated)|Annotated]] · [[Isaiah 57 - Study Guide|Study guide]] · [[Isaiah 57 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 58|Isaiah 58 →]]

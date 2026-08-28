@@ -52,4 +52,4 @@ cssclasses:
 **19** It is a trespass offering: he hath certainly trespassed against the LORD. ^lev-5-19
 
 ---
-[[Leviticus 4|← Leviticus 4]] · [[Leviticus 5 - Study Guide|Study guide]] · [[Leviticus 5 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 6|Leviticus 6 →]]
+[[Leviticus 4|← Leviticus 4]] · [[Leviticus 5 (Annotated)|Annotated]] · [[Leviticus 5 - Study Guide|Study guide]] · [[Leviticus 5 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 6|Leviticus 6 →]]

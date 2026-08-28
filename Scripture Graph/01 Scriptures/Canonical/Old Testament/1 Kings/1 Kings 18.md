@@ -106,4 +106,4 @@ cssclasses:
 **46** And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel. ^1kgs-18-46
 
 ---
-[[1 Kings 17|← 1 Kings 17]] · [[1 Kings 18 - Study Guide|Study guide]] · [[1 Kings 18 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 19|1 Kings 19 →]]
+[[1 Kings 17|← 1 Kings 17]] · [[1 Kings 18 (Annotated)|Annotated]] · [[1 Kings 18 - Study Guide|Study guide]] · [[1 Kings 18 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 19|1 Kings 19 →]]

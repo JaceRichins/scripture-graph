@@ -108,4 +108,4 @@ cssclasses:
 **47** And Mary Magdalene and Mary the mother of Joses beheld where he was laid. ^mark-15-47
 
 ---
-[[Mark 14|← Mark 14]] · [[Mark 15 - Study Guide|Study guide]] · [[Mark 15 - My Notes|My notes]] · [[Mark]] · [[Mark 16|Mark 16 →]]
+[[Mark 14|← Mark 14]] · [[Mark 15 (Annotated)|Annotated]] · [[Mark 15 - Study Guide|Study guide]] · [[Mark 15 - My Notes|My notes]] · [[Mark]] · [[Mark 16|Mark 16 →]]

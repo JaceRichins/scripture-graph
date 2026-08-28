@@ -72,4 +72,4 @@ cssclasses:
 **29** For our God is a consuming fire. ^heb-12-29
 
 ---
-[[Hebrews 11|← Hebrews 11]] · [[Hebrews 12 - Study Guide|Study guide]] · [[Hebrews 12 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 13|Hebrews 13 →]]
+[[Hebrews 11|← Hebrews 11]] · [[Hebrews 12 (Annotated)|Annotated]] · [[Hebrews 12 - Study Guide|Study guide]] · [[Hebrews 12 - My Notes|My notes]] · [[Hebrews]] · [[Hebrews 13|Hebrews 13 →]]

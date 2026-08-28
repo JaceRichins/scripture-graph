@@ -58,4 +58,4 @@ cssclasses:
 **22** And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold. ^1sam-24-22
 
 ---
-[[1 Samuel 23|← 1 Samuel 23]] · [[1 Samuel 24 - Study Guide|Study guide]] · [[1 Samuel 24 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 25|1 Samuel 25 →]]
+[[1 Samuel 23|← 1 Samuel 23]] · [[1 Samuel 24 (Annotated)|Annotated]] · [[1 Samuel 24 - Study Guide|Study guide]] · [[1 Samuel 24 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 25|1 Samuel 25 →]]

@@ -92,4 +92,4 @@ cssclasses:
 **39** And he sent away the multitude, and took ship, and came into the coasts of Magdala. ^matt-15-39
 
 ---
-[[Matthew 14|← Matthew 14]] · [[Matthew 15 - Study Guide|Study guide]] · [[Matthew 15 - My Notes|My notes]] · [[Matthew]] · [[Matthew 16|Matthew 16 →]]
+[[Matthew 14|← Matthew 14]] · [[Matthew 15 (Annotated)|Annotated]] · [[Matthew 15 - Study Guide|Study guide]] · [[Matthew 15 - My Notes|My notes]] · [[Matthew]] · [[Matthew 16|Matthew 16 →]]

@@ -40,4 +40,4 @@ cssclasses:
 **13** Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation. ^zech-2-13
 
 ---
-[[Zechariah 1|← Zechariah 1]] · [[Zechariah 2 - Study Guide|Study guide]] · [[Zechariah 2 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 3|Zechariah 3 →]]
+[[Zechariah 1|← Zechariah 1]] · [[Zechariah 2 (Annotated)|Annotated]] · [[Zechariah 2 - Study Guide|Study guide]] · [[Zechariah 2 - My Notes|My notes]] · [[Zechariah]] · [[Zechariah 3|Zechariah 3 →]]

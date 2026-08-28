@@ -56,4 +56,4 @@ cssclasses:
 **21** As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the LORD, from henceforth and for ever. ^isa-59-21
 
 ---
-[[Isaiah 58|← Isaiah 58]] · [[Isaiah 59 - Study Guide|Study guide]] · [[Isaiah 59 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 60|Isaiah 60 →]]
+[[Isaiah 58|← Isaiah 58]] · [[Isaiah 59 (Annotated)|Annotated]] · [[Isaiah 59 - Study Guide|Study guide]] · [[Isaiah 59 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 60|Isaiah 60 →]]

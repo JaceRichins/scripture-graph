@@ -52,4 +52,4 @@ cssclasses:
 **19** And it came to pass that there were sorceries, and witchcrafts, and magics; and the power of the evil one was wrought upon all the face of the land, even unto the fulfilling of all the words of Abinadi, and also Samuel the Lamanite. ^morm-1-19
 
 ---
-[[Mormon 1 - Study Guide|Study guide]] · [[Mormon 1 - My Notes|My notes]] · [[Mormon]] · [[Mormon 2|Mormon 2 →]]
+[[Mormon 1 (Annotated)|Annotated]] · [[Mormon 1 - Study Guide|Study guide]] · [[Mormon 1 - My Notes|My notes]] · [[Mormon]] · [[Mormon 2|Mormon 2 →]]

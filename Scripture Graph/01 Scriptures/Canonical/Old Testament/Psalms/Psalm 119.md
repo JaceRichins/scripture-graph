@@ -368,4 +368,4 @@ aliases:
 **176** I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments. ^ps-119-176
 
 ---
-[[Psalm 118|← Psalm 118]] · [[Psalm 119 - Study Guide|Study guide]] · [[Psalm 119 - My Notes|My notes]] · [[Psalms]] · [[Psalm 120|Psalm 120 →]]
+[[Psalm 118|← Psalm 118]] · [[Psalm 119 (Annotated)|Annotated]] · [[Psalm 119 - Study Guide|Study guide]] · [[Psalm 119 - My Notes|My notes]] · [[Psalms]] · [[Psalm 120|Psalm 120 →]]

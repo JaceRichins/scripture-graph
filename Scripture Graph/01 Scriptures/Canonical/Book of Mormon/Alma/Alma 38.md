@@ -44,4 +44,4 @@ cssclasses:
 **15** And may the Lord bless your soul, and receive you at the last day into his kingdom, to sit down in peace. Now go, my son, and teach the word unto this people. Be sober. My son, farewell. ^alma-38-15
 
 ---
-[[Alma 37|← Alma 37]] · [[Alma 38 - Study Guide|Study guide]] · [[Alma 38 - My Notes|My notes]] · [[Alma]] · [[Alma 39|Alma 39 →]]
+[[Alma 37|← Alma 37]] · [[Alma 38 (Annotated)|Annotated]] · [[Alma 38 - Study Guide|Study guide]] · [[Alma 38 - My Notes|My notes]] · [[Alma]] · [[Alma 39|Alma 39 →]]

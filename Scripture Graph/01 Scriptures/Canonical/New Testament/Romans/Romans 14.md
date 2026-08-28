@@ -60,4 +60,4 @@ cssclasses:
 **23** And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. ^rom-14-23
 
 ---
-[[Romans 13|← Romans 13]] · [[Romans 14 - Study Guide|Study guide]] · [[Romans 14 - My Notes|My notes]] · [[Romans]] · [[Romans 15|Romans 15 →]]
+[[Romans 13|← Romans 13]] · [[Romans 14 (Annotated)|Annotated]] · [[Romans 14 - Study Guide|Study guide]] · [[Romans 14 - My Notes|My notes]] · [[Romans]] · [[Romans 15|Romans 15 →]]

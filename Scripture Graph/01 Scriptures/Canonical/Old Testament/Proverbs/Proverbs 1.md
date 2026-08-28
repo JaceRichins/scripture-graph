@@ -80,4 +80,4 @@ cssclasses:
 **33** But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. ^prov-1-33
 
 ---
-[[Proverbs 1 - Study Guide|Study guide]] · [[Proverbs 1 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 2|Proverbs 2 →]]
+[[Proverbs 1 (Annotated)|Annotated]] · [[Proverbs 1 - Study Guide|Study guide]] · [[Proverbs 1 - My Notes|My notes]] · [[Proverbs]] · [[Proverbs 2|Proverbs 2 →]]

@@ -60,4 +60,4 @@ cssclasses:
 **23** And the garrison of the Philistines went out to the passage of Michmash. ^1sam-13-23
 
 ---
-[[1 Samuel 12|← 1 Samuel 12]] · [[1 Samuel 13 - Study Guide|Study guide]] · [[1 Samuel 13 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 14|1 Samuel 14 →]]
+[[1 Samuel 12|← 1 Samuel 12]] · [[1 Samuel 13 (Annotated)|Annotated]] · [[1 Samuel 13 - Study Guide|Study guide]] · [[1 Samuel 13 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 14|1 Samuel 14 →]]

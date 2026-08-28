@@ -112,4 +112,4 @@ cssclasses:
 **49** Then Daniel requested of the king, and he set Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king. ^dan-2-49
 
 ---
-[[Daniel 1|← Daniel 1]] · [[Daniel 2 - Study Guide|Study guide]] · [[Daniel 2 - My Notes|My notes]] · [[Daniel]] · [[Daniel 3|Daniel 3 →]]
+[[Daniel 1|← Daniel 1]] · [[Daniel 2 (Annotated)|Annotated]] · [[Daniel 2 - Study Guide|Study guide]] · [[Daniel 2 - My Notes|My notes]] · [[Daniel]] · [[Daniel 3|Daniel 3 →]]

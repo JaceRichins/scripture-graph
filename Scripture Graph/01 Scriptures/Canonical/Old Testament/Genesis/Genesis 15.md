@@ -56,4 +56,4 @@ cssclasses:
 **21** And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites. ^gen-15-21
 
 ---
-[[Genesis 14|← Genesis 14]] · [[Genesis 15 - Study Guide|Study guide]] · [[Genesis 15 - My Notes|My notes]] · [[Genesis]] · [[Genesis 16|Genesis 16 →]]
+[[Genesis 14|← Genesis 14]] · [[Genesis 15 (Annotated)|Annotated]] · [[Genesis 15 - Study Guide|Study guide]] · [[Genesis 15 - My Notes|My notes]] · [[Genesis]] · [[Genesis 16|Genesis 16 →]]

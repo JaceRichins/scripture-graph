@@ -50,4 +50,4 @@ cssclasses:
 **18** Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not. ^mal-3-18
 
 ---
-[[Malachi 2|← Malachi 2]] · [[Malachi 3 - Study Guide|Study guide]] · [[Malachi 3 - My Notes|My notes]] · [[Malachi]] · [[Malachi 4|Malachi 4 →]]
+[[Malachi 2|← Malachi 2]] · [[Malachi 3 (Annotated)|Annotated]] · [[Malachi 3 - Study Guide|Study guide]] · [[Malachi 3 - My Notes|My notes]] · [[Malachi]] · [[Malachi 4|Malachi 4 →]]

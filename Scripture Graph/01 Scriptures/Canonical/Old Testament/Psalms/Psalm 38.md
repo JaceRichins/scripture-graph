@@ -60,4 +60,4 @@ aliases:
 **22** Make haste to help me, O Lord my salvation. ^ps-38-22
 
 ---
-[[Psalm 37|← Psalm 37]] · [[Psalm 38 - Study Guide|Study guide]] · [[Psalm 38 - My Notes|My notes]] · [[Psalms]] · [[Psalm 39|Psalm 39 →]]
+[[Psalm 37|← Psalm 37]] · [[Psalm 38 (Annotated)|Annotated]] · [[Psalm 38 - Study Guide|Study guide]] · [[Psalm 38 - My Notes|My notes]] · [[Psalms]] · [[Psalm 39|Psalm 39 →]]

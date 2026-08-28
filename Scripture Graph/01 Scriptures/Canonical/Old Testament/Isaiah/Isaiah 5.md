@@ -74,4 +74,4 @@ cssclasses:
 **30** And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof. ^isa-5-30
 
 ---
-[[Isaiah 4|← Isaiah 4]] · [[Isaiah 5 - Study Guide|Study guide]] · [[Isaiah 5 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 6|Isaiah 6 →]]
+[[Isaiah 4|← Isaiah 4]] · [[Isaiah 5 (Annotated)|Annotated]] · [[Isaiah 5 - Study Guide|Study guide]] · [[Isaiah 5 - My Notes|My notes]] · [[Isaiah]] · [[Isaiah 6|Isaiah 6 →]]

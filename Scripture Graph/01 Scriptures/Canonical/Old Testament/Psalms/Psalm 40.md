@@ -50,4 +50,4 @@ aliases:
 **17** But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God. ^ps-40-17
 
 ---
-[[Psalm 39|← Psalm 39]] · [[Psalm 40 - Study Guide|Study guide]] · [[Psalm 40 - My Notes|My notes]] · [[Psalms]] · [[Psalm 41|Psalm 41 →]]
+[[Psalm 39|← Psalm 39]] · [[Psalm 40 (Annotated)|Annotated]] · [[Psalm 40 - Study Guide|Study guide]] · [[Psalm 40 - My Notes|My notes]] · [[Psalms]] · [[Psalm 41|Psalm 41 →]]

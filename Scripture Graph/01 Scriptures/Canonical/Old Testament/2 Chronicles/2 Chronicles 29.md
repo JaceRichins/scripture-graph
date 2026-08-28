@@ -86,4 +86,4 @@ cssclasses:
 **36** And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly. ^2chr-29-36
 
 ---
-[[2 Chronicles 28|← 2 Chronicles 28]] · [[2 Chronicles 29 - Study Guide|Study guide]] · [[2 Chronicles 29 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 30|2 Chronicles 30 →]]
+[[2 Chronicles 28|← 2 Chronicles 28]] · [[2 Chronicles 29 (Annotated)|Annotated]] · [[2 Chronicles 29 - Study Guide|Study guide]] · [[2 Chronicles 29 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 30|2 Chronicles 30 →]]

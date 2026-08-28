@@ -68,4 +68,4 @@ cssclasses:
 **27** And their torment is as a lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever. Thus hath the Lord commanded me. Amen. ^mosiah-3-27
 
 ---
-[[Mosiah 2|← Mosiah 2]] · [[Mosiah 3 - Study Guide|Study guide]] · [[Mosiah 3 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 4|Mosiah 4 →]]
+[[Mosiah 2|← Mosiah 2]] · [[Mosiah 3 (Annotated)|Annotated]] · [[Mosiah 3 - Study Guide|Study guide]] · [[Mosiah 3 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 4|Mosiah 4 →]]

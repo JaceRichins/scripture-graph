@@ -68,4 +68,4 @@ cssclasses:
 **27** A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them. ^lev-20-27
 
 ---
-[[Leviticus 19|← Leviticus 19]] · [[Leviticus 20 - Study Guide|Study guide]] · [[Leviticus 20 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 21|Leviticus 21 →]]
+[[Leviticus 19|← Leviticus 19]] · [[Leviticus 20 (Annotated)|Annotated]] · [[Leviticus 20 - Study Guide|Study guide]] · [[Leviticus 20 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 21|Leviticus 21 →]]

@@ -30,4 +30,4 @@ aliases:
 **7** I am for peace: but when I speak, they are for war. ^ps-120-7
 
 ---
-[[Psalm 119|← Psalm 119]] · [[Psalm 120 - Study Guide|Study guide]] · [[Psalm 120 - My Notes|My notes]] · [[Psalms]] · [[Psalm 121|Psalm 121 →]]
+[[Psalm 119|← Psalm 119]] · [[Psalm 120 (Annotated)|Annotated]] · [[Psalm 120 - Study Guide|Study guide]] · [[Psalm 120 - My Notes|My notes]] · [[Psalms]] · [[Psalm 121|Psalm 121 →]]

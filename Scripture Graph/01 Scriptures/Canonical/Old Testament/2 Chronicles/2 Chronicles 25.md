@@ -70,4 +70,4 @@ cssclasses:
 **28** And they brought him upon horses, and buried him with his fathers in the city of Judah. ^2chr-25-28
 
 ---
-[[2 Chronicles 24|← 2 Chronicles 24]] · [[2 Chronicles 25 - Study Guide|Study guide]] · [[2 Chronicles 25 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 26|2 Chronicles 26 →]]
+[[2 Chronicles 24|← 2 Chronicles 24]] · [[2 Chronicles 25 (Annotated)|Annotated]] · [[2 Chronicles 25 - Study Guide|Study guide]] · [[2 Chronicles 25 - My Notes|My notes]] · [[2 Chronicles]] · [[2 Chronicles 26|2 Chronicles 26 →]]

@@ -132,4 +132,4 @@ cssclasses:
 **59** Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by. ^john-8-59
 
 ---
-[[John 7|← John 7]] · [[John 8 - Study Guide|Study guide]] · [[John 8 - My Notes|My notes]] · [[John]] · [[John 9|John 9 →]]
+[[John 7|← John 7]] · [[John 8 (Annotated)|Annotated]] · [[John 8 - Study Guide|Study guide]] · [[John 8 - My Notes|My notes]] · [[John]] · [[John 9|John 9 →]]

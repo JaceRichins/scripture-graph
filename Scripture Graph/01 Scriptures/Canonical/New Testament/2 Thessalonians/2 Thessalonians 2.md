@@ -48,4 +48,4 @@ cssclasses:
 **17** Comfort your hearts, and stablish you in every good word and work. ^2thes-2-17
 
 ---
-[[2 Thessalonians 1|← 2 Thessalonians 1]] · [[2 Thessalonians 2 - Study Guide|Study guide]] · [[2 Thessalonians 2 - My Notes|My notes]] · [[2 Thessalonians]] · [[2 Thessalonians 3|2 Thessalonians 3 →]]
+[[2 Thessalonians 1|← 2 Thessalonians 1]] · [[2 Thessalonians 2 (Annotated)|Annotated]] · [[2 Thessalonians 2 - Study Guide|Study guide]] · [[2 Thessalonians 2 - My Notes|My notes]] · [[2 Thessalonians]] · [[2 Thessalonians 3|2 Thessalonians 3 →]]

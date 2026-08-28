@@ -68,4 +68,4 @@ cssclasses:
 **27** And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate. ^dan-9-27
 
 ---
-[[Daniel 8|← Daniel 8]] · [[Daniel 9 - Study Guide|Study guide]] · [[Daniel 9 - My Notes|My notes]] · [[Daniel]] · [[Daniel 10|Daniel 10 →]]
+[[Daniel 8|← Daniel 8]] · [[Daniel 9 (Annotated)|Annotated]] · [[Daniel 9 - Study Guide|Study guide]] · [[Daniel 9 - My Notes|My notes]] · [[Daniel]] · [[Daniel 10|Daniel 10 →]]

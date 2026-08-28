@@ -42,4 +42,4 @@ cssclasses:
 **14** And now it came to pass that when Jesus had expounded all the scriptures in one, which they had written, he commanded them that they should teach the things which he had expounded unto them. ^3ne-23-14
 
 ---
-[[3 Nephi 22|← 3 Nephi 22]] · [[3 Nephi 23 - Study Guide|Study guide]] · [[3 Nephi 23 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 24|3 Nephi 24 →]]
+[[3 Nephi 22|← 3 Nephi 22]] · [[3 Nephi 23 (Annotated)|Annotated]] · [[3 Nephi 23 - Study Guide|Study guide]] · [[3 Nephi 23 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 24|3 Nephi 24 →]]

@@ -56,4 +56,4 @@ cssclasses:
 **21** And they who were baptized in the name of Jesus were called the church of Christ. ^3ne-26-21
 
 ---
-[[3 Nephi 25|← 3 Nephi 25]] · [[3 Nephi 26 - Study Guide|Study guide]] · [[3 Nephi 26 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 27|3 Nephi 27 →]]
+[[3 Nephi 25|← 3 Nephi 25]] · [[3 Nephi 26 (Annotated)|Annotated]] · [[3 Nephi 26 - Study Guide|Study guide]] · [[3 Nephi 26 - My Notes|My notes]] · [[3 Nephi]] · [[3 Nephi 27|3 Nephi 27 →]]

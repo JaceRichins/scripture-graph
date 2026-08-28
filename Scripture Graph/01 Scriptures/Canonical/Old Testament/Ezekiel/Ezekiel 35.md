@@ -44,4 +44,4 @@ cssclasses:
 **15** As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD. ^ezek-35-15
 
 ---
-[[Ezekiel 34|← Ezekiel 34]] · [[Ezekiel 35 - Study Guide|Study guide]] · [[Ezekiel 35 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 36|Ezekiel 36 →]]
+[[Ezekiel 34|← Ezekiel 34]] · [[Ezekiel 35 (Annotated)|Annotated]] · [[Ezekiel 35 - Study Guide|Study guide]] · [[Ezekiel 35 - My Notes|My notes]] · [[Ezekiel]] · [[Ezekiel 36|Ezekiel 36 →]]

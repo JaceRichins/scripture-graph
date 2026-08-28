@@ -92,4 +92,4 @@ cssclasses:
 **39** And the king of the Lamanites had granted unto Amulon that he should be a king and a ruler over his people, who were in the land of Helam; nevertheless he should have no power to do anything contrary to the will of the king of the Lamanites. ^mosiah-23-39
 
 ---
-[[Mosiah 22|← Mosiah 22]] · [[Mosiah 23 - Study Guide|Study guide]] · [[Mosiah 23 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 24|Mosiah 24 →]]
+[[Mosiah 22|← Mosiah 22]] · [[Mosiah 23 (Annotated)|Annotated]] · [[Mosiah 23 - Study Guide|Study guide]] · [[Mosiah 23 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 24|Mosiah 24 →]]

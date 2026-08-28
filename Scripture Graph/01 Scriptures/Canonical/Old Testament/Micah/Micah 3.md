@@ -38,4 +38,4 @@ cssclasses:
 **12** Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest. ^micah-3-12
 
 ---
-[[Micah 2|← Micah 2]] · [[Micah 3 - Study Guide|Study guide]] · [[Micah 3 - My Notes|My notes]] · [[Micah]] · [[Micah 4|Micah 4 →]]
+[[Micah 2|← Micah 2]] · [[Micah 3 (Annotated)|Annotated]] · [[Micah 3 - Study Guide|Study guide]] · [[Micah 3 - My Notes|My notes]] · [[Micah]] · [[Micah 4|Micah 4 →]]

@@ -34,4 +34,4 @@ cssclasses:
 **10** Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity. ^eccl-11-10
 
 ---
-[[Ecclesiastes 10|← Ecclesiastes 10]] · [[Ecclesiastes 11 - Study Guide|Study guide]] · [[Ecclesiastes 11 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 12|Ecclesiastes 12 →]]
+[[Ecclesiastes 10|← Ecclesiastes 10]] · [[Ecclesiastes 11 (Annotated)|Annotated]] · [[Ecclesiastes 11 - Study Guide|Study guide]] · [[Ecclesiastes 11 - My Notes|My notes]] · [[Ecclesiastes]] · [[Ecclesiastes 12|Ecclesiastes 12 →]]

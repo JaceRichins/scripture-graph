@@ -130,4 +130,4 @@ cssclasses:
 **58** And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Beth-lehemite. ^1sam-17-58
 
 ---
-[[1 Samuel 16|← 1 Samuel 16]] · [[1 Samuel 17 - Study Guide|Study guide]] · [[1 Samuel 17 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 18|1 Samuel 18 →]]
+[[1 Samuel 16|← 1 Samuel 16]] · [[1 Samuel 17 (Annotated)|Annotated]] · [[1 Samuel 17 - Study Guide|Study guide]] · [[1 Samuel 17 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 18|1 Samuel 18 →]]

@@ -24,4 +24,4 @@ cssclasses:
 **5** Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days. ^hosea-3-5
 
 ---
-[[Hosea 2|← Hosea 2]] · [[Hosea 3 - Study Guide|Study guide]] · [[Hosea 3 - My Notes|My notes]] · [[Hosea]] · [[Hosea 4|Hosea 4 →]]
+[[Hosea 2|← Hosea 2]] · [[Hosea 3 (Annotated)|Annotated]] · [[Hosea 3 - Study Guide|Study guide]] · [[Hosea 3 - My Notes|My notes]] · [[Hosea]] · [[Hosea 4|Hosea 4 →]]

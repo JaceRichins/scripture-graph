@@ -80,4 +80,4 @@ cssclasses:
 **33** So he offered upon the altar which he had made in Beth-el the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense. ^1kgs-12-33
 
 ---
-[[1 Kings 11|← 1 Kings 11]] · [[1 Kings 12 - Study Guide|Study guide]] · [[1 Kings 12 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 13|1 Kings 13 →]]
+[[1 Kings 11|← 1 Kings 11]] · [[1 Kings 12 (Annotated)|Annotated]] · [[1 Kings 12 - Study Guide|Study guide]] · [[1 Kings 12 - My Notes|My notes]] · [[1 Kings]] · [[1 Kings 13|1 Kings 13 →]]

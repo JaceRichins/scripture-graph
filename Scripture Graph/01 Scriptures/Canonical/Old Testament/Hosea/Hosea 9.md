@@ -48,4 +48,4 @@ cssclasses:
 **17** My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations. ^hosea-9-17
 
 ---
-[[Hosea 8|← Hosea 8]] · [[Hosea 9 - Study Guide|Study guide]] · [[Hosea 9 - My Notes|My notes]] · [[Hosea]] · [[Hosea 10|Hosea 10 →]]
+[[Hosea 8|← Hosea 8]] · [[Hosea 9 (Annotated)|Annotated]] · [[Hosea 9 - Study Guide|Study guide]] · [[Hosea 9 - My Notes|My notes]] · [[Hosea]] · [[Hosea 10|Hosea 10 →]]

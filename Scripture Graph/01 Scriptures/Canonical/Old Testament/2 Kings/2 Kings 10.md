@@ -86,4 +86,4 @@ cssclasses:
 **36** And the time that Jehu reigned over Israel in Samaria was twenty and eight years. ^2kgs-10-36
 
 ---
-[[2 Kings 9|← 2 Kings 9]] · [[2 Kings 10 - Study Guide|Study guide]] · [[2 Kings 10 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 11|2 Kings 11 →]]
+[[2 Kings 9|← 2 Kings 9]] · [[2 Kings 10 (Annotated)|Annotated]] · [[2 Kings 10 - Study Guide|Study guide]] · [[2 Kings 10 - My Notes|My notes]] · [[2 Kings]] · [[2 Kings 11|2 Kings 11 →]]

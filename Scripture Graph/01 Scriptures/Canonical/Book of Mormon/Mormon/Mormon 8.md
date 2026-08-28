@@ -96,4 +96,4 @@ cssclasses:
 **41** Behold, the sword of vengeance hangeth over you; and the time soon cometh that he avengeth the blood of the saints upon you, for he will not suffer their cries any longer. ^morm-8-41
 
 ---
-[[Mormon 7|← Mormon 7]] · [[Mormon 8 - Study Guide|Study guide]] · [[Mormon 8 - My Notes|My notes]] · [[Mormon]] · [[Mormon 9|Mormon 9 →]]
+[[Mormon 7|← Mormon 7]] · [[Mormon 8 (Annotated)|Annotated]] · [[Mormon 8 - Study Guide|Study guide]] · [[Mormon 8 - My Notes|My notes]] · [[Mormon]] · [[Mormon 9|Mormon 9 →]]

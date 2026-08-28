@@ -40,4 +40,4 @@ aliases:
 **12** For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield. ^ps-5-12
 
 ---
-[[Psalm 4|← Psalm 4]] · [[Psalm 5 - Study Guide|Study guide]] · [[Psalm 5 - My Notes|My notes]] · [[Psalms]] · [[Psalm 6|Psalm 6 →]]
+[[Psalm 4|← Psalm 4]] · [[Psalm 5 (Annotated)|Annotated]] · [[Psalm 5 - Study Guide|Study guide]] · [[Psalm 5 - My Notes|My notes]] · [[Psalms]] · [[Psalm 6|Psalm 6 →]]

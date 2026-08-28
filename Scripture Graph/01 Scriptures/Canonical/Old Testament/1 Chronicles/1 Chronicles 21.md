@@ -74,4 +74,4 @@ cssclasses:
 **30** But David could not go before it to inquire of God: for he was afraid because of the sword of the angel of the LORD. ^1chr-21-30
 
 ---
-[[1 Chronicles 20|← 1 Chronicles 20]] · [[1 Chronicles 21 - Study Guide|Study guide]] · [[1 Chronicles 21 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 22|1 Chronicles 22 →]]
+[[1 Chronicles 20|← 1 Chronicles 20]] · [[1 Chronicles 21 (Annotated)|Annotated]] · [[1 Chronicles 21 - Study Guide|Study guide]] · [[1 Chronicles 21 - My Notes|My notes]] · [[1 Chronicles]] · [[1 Chronicles 22|1 Chronicles 22 →]]

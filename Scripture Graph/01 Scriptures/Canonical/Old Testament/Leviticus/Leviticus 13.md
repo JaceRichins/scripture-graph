@@ -132,4 +132,4 @@ cssclasses:
 **59** This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean. ^lev-13-59
 
 ---
-[[Leviticus 12|← Leviticus 12]] · [[Leviticus 13 - Study Guide|Study guide]] · [[Leviticus 13 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 14|Leviticus 14 →]]
+[[Leviticus 12|← Leviticus 12]] · [[Leviticus 13 (Annotated)|Annotated]] · [[Leviticus 13 - Study Guide|Study guide]] · [[Leviticus 13 - My Notes|My notes]] · [[Leviticus]] · [[Leviticus 14|Leviticus 14 →]]

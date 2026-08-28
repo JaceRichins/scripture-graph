@@ -44,4 +44,4 @@ cssclasses:
 **15** For what I seal on earth, shall be brought against you at the judgment bar; for thus hath the Lord commanded me, and I must obey. Amen. ^2ne-33-15
 
 ---
-[[2 Nephi 32|← 2 Nephi 32]] · [[2 Nephi 33 - Study Guide|Study guide]] · [[2 Nephi 33 - My Notes|My notes]] · [[2 Nephi]]
+[[2 Nephi 32|← 2 Nephi 32]] · [[2 Nephi 33 (Annotated)|Annotated]] · [[2 Nephi 33 - Study Guide|Study guide]] · [[2 Nephi 33 - My Notes|My notes]] · [[2 Nephi]]

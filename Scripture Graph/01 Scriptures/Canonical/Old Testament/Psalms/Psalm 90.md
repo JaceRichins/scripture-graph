@@ -50,4 +50,4 @@ aliases:
 **17** And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it. ^ps-90-17
 
 ---
-[[Psalm 89|← Psalm 89]] · [[Psalm 90 - Study Guide|Study guide]] · [[Psalm 90 - My Notes|My notes]] · [[Psalms]] · [[Psalm 91|Psalm 91 →]]
+[[Psalm 89|← Psalm 89]] · [[Psalm 90 (Annotated)|Annotated]] · [[Psalm 90 - Study Guide|Study guide]] · [[Psalm 90 - My Notes|My notes]] · [[Psalms]] · [[Psalm 91|Psalm 91 →]]

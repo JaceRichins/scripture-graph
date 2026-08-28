@@ -160,4 +160,4 @@ aliases:
 **72** So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands. ^ps-78-72
 
 ---
-[[Psalm 77|← Psalm 77]] · [[Psalm 78 - Study Guide|Study guide]] · [[Psalm 78 - My Notes|My notes]] · [[Psalms]] · [[Psalm 79|Psalm 79 →]]
+[[Psalm 77|← Psalm 77]] · [[Psalm 78 (Annotated)|Annotated]] · [[Psalm 78 - Study Guide|Study guide]] · [[Psalm 78 - My Notes|My notes]] · [[Psalms]] · [[Psalm 79|Psalm 79 →]]

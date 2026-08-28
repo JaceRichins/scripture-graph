@@ -80,4 +80,4 @@ cssclasses:
 **33** Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. ^1cor-10-33
 
 ---
-[[1 Corinthians 9|← 1 Corinthians 9]] · [[1 Corinthians 10 - Study Guide|Study guide]] · [[1 Corinthians 10 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 11|1 Corinthians 11 →]]
+[[1 Corinthians 9|← 1 Corinthians 9]] · [[1 Corinthians 10 (Annotated)|Annotated]] · [[1 Corinthians 10 - Study Guide|Study guide]] · [[1 Corinthians 10 - My Notes|My notes]] · [[1 Corinthians]] · [[1 Corinthians 11|1 Corinthians 11 →]]

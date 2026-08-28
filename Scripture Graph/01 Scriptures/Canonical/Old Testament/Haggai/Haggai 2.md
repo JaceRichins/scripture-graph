@@ -60,4 +60,4 @@ cssclasses:
 **23** In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts. ^hag-2-23
 
 ---
-[[Haggai 1|← Haggai 1]] · [[Haggai 2 - Study Guide|Study guide]] · [[Haggai 2 - My Notes|My notes]] · [[Haggai]]
+[[Haggai 1|← Haggai 1]] · [[Haggai 2 (Annotated)|Annotated]] · [[Haggai 2 - Study Guide|Study guide]] · [[Haggai 2 - My Notes|My notes]] · [[Haggai]]

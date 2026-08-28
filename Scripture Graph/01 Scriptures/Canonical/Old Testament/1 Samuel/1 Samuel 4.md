@@ -58,4 +58,4 @@ cssclasses:
 **22** And she said, The glory is departed from Israel: for the ark of God is taken. ^1sam-4-22
 
 ---
-[[1 Samuel 3|← 1 Samuel 3]] · [[1 Samuel 4 - Study Guide|Study guide]] · [[1 Samuel 4 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 5|1 Samuel 5 →]]
+[[1 Samuel 3|← 1 Samuel 3]] · [[1 Samuel 4 (Annotated)|Annotated]] · [[1 Samuel 4 - Study Guide|Study guide]] · [[1 Samuel 4 - My Notes|My notes]] · [[1 Samuel]] · [[1 Samuel 5|1 Samuel 5 →]]

@@ -36,4 +36,4 @@ aliases:
 **10** All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted. ^ps-75-10
 
 ---
-[[Psalm 74|← Psalm 74]] · [[Psalm 75 - Study Guide|Study guide]] · [[Psalm 75 - My Notes|My notes]] · [[Psalms]] · [[Psalm 76|Psalm 76 →]]
+[[Psalm 74|← Psalm 74]] · [[Psalm 75 (Annotated)|Annotated]] · [[Psalm 75 - Study Guide|Study guide]] · [[Psalm 75 - My Notes|My notes]] · [[Psalms]] · [[Psalm 76|Psalm 76 →]]

@@ -74,4 +74,4 @@ cssclasses:
 **30** And, inasmuch as it shall be expedient, ye must keep the performances and ordinances of God until the law shall be fulfilled which was given unto Moses. ^2ne-25-30
 
 ---
-[[2 Nephi 24|← 2 Nephi 24]] · [[2 Nephi 25 - Study Guide|Study guide]] · [[2 Nephi 25 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 26|2 Nephi 26 →]]
+[[2 Nephi 24|← 2 Nephi 24]] · [[2 Nephi 25 (Annotated)|Annotated]] · [[2 Nephi 25 - Study Guide|Study guide]] · [[2 Nephi 25 - My Notes|My notes]] · [[2 Nephi]] · [[2 Nephi 26|2 Nephi 26 →]]

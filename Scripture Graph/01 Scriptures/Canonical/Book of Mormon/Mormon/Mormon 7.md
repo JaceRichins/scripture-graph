@@ -34,4 +34,4 @@ cssclasses:
 **10** And ye will also know that ye are a remnant of the seed of Jacob; therefore ye are numbered among the people of the first covenant; and if it so be that ye believe in Christ, and are baptized, first with water, then with fire and with the Holy Ghost, following the example of our Savior, according to that which he hath commanded us, it shall be well with you in the day of judgment. Amen. ^morm-7-10
 
 ---
-[[Mormon 6|← Mormon 6]] · [[Mormon 7 - Study Guide|Study guide]] · [[Mormon 7 - My Notes|My notes]] · [[Mormon]] · [[Mormon 8|Mormon 8 →]]
+[[Mormon 6|← Mormon 6]] · [[Mormon 7 (Annotated)|Annotated]] · [[Mormon 7 - Study Guide|Study guide]] · [[Mormon 7 - My Notes|My notes]] · [[Mormon]] · [[Mormon 8|Mormon 8 →]]

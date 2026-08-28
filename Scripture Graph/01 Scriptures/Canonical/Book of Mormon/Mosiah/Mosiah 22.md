@@ -46,4 +46,4 @@ cssclasses:
 **16** And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness. ^mosiah-22-16
 
 ---
-[[Mosiah 21|← Mosiah 21]] · [[Mosiah 22 - Study Guide|Study guide]] · [[Mosiah 22 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 23|Mosiah 23 →]]
+[[Mosiah 21|← Mosiah 21]] · [[Mosiah 22 (Annotated)|Annotated]] · [[Mosiah 22 - Study Guide|Study guide]] · [[Mosiah 22 - My Notes|My notes]] · [[Mosiah]] · [[Mosiah 23|Mosiah 23 →]]

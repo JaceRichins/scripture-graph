@@ -40,4 +40,4 @@ aliases:
 **12** There are the workers of iniquity fallen: they are cast down, and shall not be able to rise. ^ps-36-12
 
 ---
-[[Psalm 35|← Psalm 35]] · [[Psalm 36 - Study Guide|Study guide]] · [[Psalm 36 - My Notes|My notes]] · [[Psalms]] · [[Psalm 37|Psalm 37 →]]
+[[Psalm 35|← Psalm 35]] · [[Psalm 36 (Annotated)|Annotated]] · [[Psalm 36 - Study Guide|Study guide]] · [[Psalm 36 - My Notes|My notes]] · [[Psalms]] · [[Psalm 37|Psalm 37 →]]
