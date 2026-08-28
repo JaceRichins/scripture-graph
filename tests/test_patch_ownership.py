@@ -5,9 +5,9 @@ from scripturegraph.vaultgen import md
 from scripturegraph.vaultgen.patch import PatchViolation, apply_ops
 
 
-GUIDE = "Library/01 Scriptures/Study Guides/Book of Mormon/1 Nephi/1 Nephi 1 - Study Guide.md"
-CANON = "Library/01 Scriptures/Canonical/Book of Mormon/1 Nephi/1 Nephi 1.md"
-PERSONAL = "80 Personal Notes/Scriptures/Book of Mormon/1 Nephi/1 Nephi 1 - My Notes.md"
+GUIDE = "AI Library/01 Scriptures/Study Guides/03 Book of Mormon/01 1 Nephi/1 Nephi 1 - Study Guide.md"
+CANON = "AI Library/01 Scriptures/Canonical/03 Book of Mormon/01 1 Nephi/1 Nephi 1.md"
+PERSONAL = "Library/Scriptures/03 Book of Mormon/01 1 Nephi/1 Nephi 1 - My Notes.md"
 
 
 def test_set_section_works_on_system_files(imported_ctx):
@@ -42,7 +42,7 @@ def test_create_note_and_duplicate_guard(imported_ctx):
             "sections": {"summary": "A modest observation."}}]
     result = apply_ops(ctx, ops, actor="test")
     assert result.created_paths == [
-        "Library/40 Evidence/Book of Mormon/Literary/Test Evidence Item.md"]
+        "AI Library/40 Evidence/Book of Mormon/Literary/Test Evidence Item.md"]
     # duplicate title refused
     with pytest.raises(PatchViolation, match="already"):
         apply_ops(ctx, ops, actor="test")

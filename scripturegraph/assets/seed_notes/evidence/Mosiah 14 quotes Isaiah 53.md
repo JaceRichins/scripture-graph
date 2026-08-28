@@ -8,7 +8,7 @@ evidence_strength: 0.35
 study_relevance: 0.85
 source_quality: 0.9
 consensus_status: broadly accepted
-sg-path: Library/40 Evidence/Book of Mormon/Literary/Mosiah 14 quotes Isaiah 53.md
+sg-path: AI Library/40 Evidence/Book of Mormon/Literary/Mosiah 14 quotes Isaiah 53.md
 ---
 # Mosiah 14 quotes Isaiah 53
 

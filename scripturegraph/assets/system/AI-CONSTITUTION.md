@@ -55,7 +55,7 @@ inspects support, and deterministic validation results outrank eloquence.
 Researchers and critics never touch production files. Only the Librarian
 layer writes, only inside managed markers or as new notes in allowed folders,
 only inside a git transaction that validates before committing. Canonical
-scripture and `80 Personal Notes` are refused at the persistence layer —
+scripture and `Library` are refused at the persistence layer —
 even a judge-approved patch cannot cross those lines.
 
 ## 6. Autonomy with rollback, not approval queues

@@ -15,9 +15,9 @@ study, built and maintained by a deterministic Python orchestrator
 
 | Class | Where | Frontmatter | Who writes |
 | --- | --- | --- | --- |
-| **Canonical** | `01 Scriptures/Canonical/` | `ownership: canonical, mutable: false` | Only the generator, only from the verified imported text. Hash-guarded, read-only attribute, auto-restored on drift. |
+| **Canonical** | `AI Library/01 Scriptures/Canonical/` | `ownership: canonical, mutable: false` | Only the generator, only from the verified imported text. Hash-guarded, read-only attribute, auto-restored on drift. |
 | **System (AI)** | study guides, topics, people, places, evidence, questions, MOCs | `ownership: system, mutable: ai` | The engine's Librarian layer, inside marked sections, after research→critique→judge→validation. |
-| **Personal** | `80 Personal Notes/` | `ownership: personal, mutable: user` | **You, only.** The engine reads/indexes/links toward your notes but never edits them. |
+| **Personal** | `Library/` | `ownership: personal, mutable: user` | **You, only.** The engine reads/indexes/links toward your notes but never edits them. |
 
 **Canonical text is immutable. AI knowledge is autonomously maintained.
 Personal writing belongs only to you.**

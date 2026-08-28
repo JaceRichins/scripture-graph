@@ -206,6 +206,27 @@ def find_chapter_by_title(title: str) -> tuple[Book, int] | None:
     return None
 
 
+# ------------------------------------------------------ folder ordering
+
+VOLUME_SEQ = {OT: 1, NT: 2, BM: 3, DC: 4, PGP: 5}
+
+_vol_counters: dict[str, int] = {}
+BOOK_SEQ: dict[str, int] = {}
+for _b in BOOKS:
+    _vol_counters[_b.volume] = _vol_counters.get(_b.volume, 0) + 1
+    BOOK_SEQ[_b.slug] = _vol_counters[_b.volume]
+
+
+def volume_dirname(volume: str) -> str:
+    """'Book of Mormon' -> '03 Book of Mormon' (canonical shelf order)."""
+    return f"{VOLUME_SEQ[volume]:02d} {volume}"
+
+
+def book_dirname(book: Book) -> str:
+    """'Alma' -> '09 Alma' (canonical order within its volume)."""
+    return f"{BOOK_SEQ[book.slug]:02d} {book.name}"
+
+
 # -------------------------------------------------- citation alias expansion
 
 def citation_alias_map() -> dict[str, Book]:

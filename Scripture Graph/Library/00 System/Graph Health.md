@@ -33,8 +33,8 @@ content_type: report
 - `00 System/README.md` → unresolved link [[Status]]
 - `00 System/README.md` → unresolved link [[Graph Health]]
 - `10 General Conference/General Conference.md` → unresolved link [[Status]]
-- `80 Personal Notes/_Template - Chapter Study.md` → unresolved link [[<Chapter>]]
-- `80 Personal Notes/_Template - Chapter Study.md` → unresolved link [[<Chapter> - Study Guide]]
+- `Library/_Template - Chapter Study.md` → unresolved link [[<Chapter>]]
+- `Library/_Template - Chapter Study.md` → unresolved link [[<Chapter> - Study Guide]]
 
 ### Hub notes to consider splitting
 - [[Jesus Christ]] — 456 links

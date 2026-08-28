@@ -13,9 +13,9 @@
 
 const { Plugin, Menu, Modal, Notice, normalizePath } = require("obsidian");
 
-const LIBRARY_PREFIX = "Library/";
-const CANONICAL_PREFIX = "Library/01 Scriptures/Canonical/";
-const PERSONAL_PREFIX = "80 Personal Notes/";
+const LIBRARY_PREFIX = "AI Library/";
+const CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+const PERSONAL_PREFIX = "Library/";
 const COLORS = ["yellow", "green", "blue", "pink", "orange"];
 
 class NoteModal extends Modal {

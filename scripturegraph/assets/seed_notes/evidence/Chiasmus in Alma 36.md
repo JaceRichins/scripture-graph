@@ -8,7 +8,7 @@ evidence_strength: 0.55
 study_relevance: 0.9
 source_quality: 0.75
 consensus_status: accepted observation / disputed interpretation
-sg-path: Library/40 Evidence/Book of Mormon/Chiasmus/Chiasmus in Alma 36.md
+sg-path: AI Library/40 Evidence/Book of Mormon/Chiasmus/Chiasmus in Alma 36.md
 ---
 # Chiasmus in Alma 36
 

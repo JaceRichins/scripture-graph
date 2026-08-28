@@ -8,7 +8,7 @@ evidence_strength: 0.5
 study_relevance: 0.7
 source_quality: 0.85
 consensus_status: accepted observation / disputed interpretation
-sg-path: Library/40 Evidence/Book of Mormon/Hebraisms/If-and conditionals in the Original Manuscript.md
+sg-path: AI Library/40 Evidence/Book of Mormon/Hebraisms/If-and conditionals in the Original Manuscript.md
 ---
 # If-and conditionals in the Original Manuscript
 

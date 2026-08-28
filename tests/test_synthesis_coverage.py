@@ -15,7 +15,7 @@ def test_synthesis_renders_verified_sections(imported_ctx):
     scan_chapter_mentions(ctx, "mosiah-14")
     run_global_parallels(ctx)
     synthesize_chapter(ctx, "mosiah-14")
-    guide = ctx.vault / ("Library/01 Scriptures/Study Guides/Book of Mormon/Mosiah/"
+    guide = ctx.vault / ("AI Library/01 Scriptures/Study Guides/03 Book of Mormon/08 Mosiah/"
                          "Mosiah 14 - Study Guide.md")
     fm, body = md.parse_note(read_text(guide))
     related = md.get_section(body, "related-scriptures")

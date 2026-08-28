@@ -9,7 +9,7 @@ from scripturegraph.vaultgen.patch import PatchViolation, apply_ops
 def test_path_traversal_and_absolute_are_rejected(imported_ctx):
     ctx = imported_ctx
     for evil in ("../outside.md",
-                 "Library/01 Scriptures/Study Guides/../../../evil.md",
+                 "AI Library/01 Scriptures/Study Guides/../../../evil.md",
                  "C:/Windows/evil.md",
                  "/etc/evil.md",
                  "00 System/notes.txt"):
@@ -20,8 +20,8 @@ def test_path_traversal_and_absolute_are_rejected(imported_ctx):
 
 def test_case_variant_bypass_rejected(imported_ctx):
     ctx = imported_ctx
-    for evil in ("80 personal notes/Scriptures/Book of Mormon/1 Nephi/1 Nephi 1 - My Notes.md",
-                 "Library/01 SCRIPTURES/CANONICAL/Book of Mormon/1 Nephi/1 Nephi 1.md"):
+    for evil in ("library/Scriptures/03 Book of Mormon/01 1 Nephi/1 Nephi 1 - My Notes.md",
+                 "AI AI LIBRARY/01 Scriptures/Canonical/03 Book of Mormon/01 1 Nephi/1 Nephi 1.md"):
         with pytest.raises(PatchViolation):
             apply_ops(ctx, [{"op": "set_section", "path": evil,
                              "section": "overview", "content": "x"}], actor="test")
@@ -30,16 +30,16 @@ def test_case_variant_bypass_rejected(imported_ctx):
 def test_hard_restore_spares_personal_notes(imported_ctx):
     ctx = imported_ctx
     gitops.commit_all(ctx, "test: baseline for restore")
-    guide = ctx.vault / ("Library/01 Scriptures/Study Guides/Book of Mormon/1 Nephi/"
+    guide = ctx.vault / ("AI Library/01 Scriptures/Study Guides/03 Book of Mormon/01 1 Nephi/"
                          "1 Nephi 1 - Study Guide.md")
     baseline = read_text(guide)
     # simulate: user writes a personal note AFTER the checkpoint, while the
     # engine damages a system file
     gitops.checkpoint(ctx, "test txn")
-    personal_new = ctx.vault / "80 Personal Notes" / "Post-checkpoint thought.md"
+    personal_new = ctx.vault / "Library" / "Post-checkpoint thought.md"
     personal_new.write_text("# Mine\n\nWritten during the engine's txn.\n", encoding="utf-8")
-    tracked_personal = ctx.vault / ("80 Personal Notes/Scriptures/Book of Mormon/"
-                                    "1 Nephi/1 Nephi 1 - My Notes.md")
+    tracked_personal = ctx.vault / ("Library/Scriptures/03 Book of Mormon/"
+                                    "01 1 Nephi/1 Nephi 1 - My Notes.md")
     user_edit = read_text(tracked_personal) + "\nMy new insight!\n"
     tracked_personal.write_text(user_edit, encoding="utf-8")
     guide.write_text(baseline + "\nGARBAGE", encoding="utf-8")

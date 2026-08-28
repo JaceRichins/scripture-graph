@@ -33,7 +33,7 @@ clickable link back to the exact verse (and your selected words quoted). A
 
 Highlights are a **personal overlay** (`.obsidian/plugins/
 scripture-graph-annotate/data.json`) applied at render time; notes are plain
-Markdown in `80 Personal Notes`. The canonical scripture files are **never
+Markdown in `Library`. The canonical scripture files are **never
 modified** — which is why your marks survive every engine regeneration, and
 why the scripture text can be trusted byte-for-byte.
 

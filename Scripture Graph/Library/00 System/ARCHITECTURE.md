@@ -81,7 +81,7 @@ authenticated).
 - **Chapter study guides live beside a `Study Guides/` tree, not folder 70.**
   `70 AI Study Guides` holds cross-cutting synthesized guides; per-chapter
   guides mirror the canonical tree for navigation symmetry with
-  `Canonical/` and `80 Personal Notes/Scriptures/`.
+  `Canonical/` and `Library/Scriptures/`.
 - **The database is an index, not the truth.** SQLite (WAL) + FTS5 + float32
   embedding blobs, all reproducible from Markdown + imported sources
   (`scripturegraph index --rebuild`).

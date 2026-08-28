@@ -55,7 +55,7 @@ def test_stub_job_is_idempotent_on_rerun(imported_ctx):
 
 def test_git_transaction_rollback(imported_ctx):
     ctx = imported_ctx
-    guide_rel = ("Library/01 Scriptures/Study Guides/Book of Mormon/1 Nephi/"
+    guide_rel = ("AI Library/01 Scriptures/Study Guides/03 Book of Mormon/01 1 Nephi/"
                  "1 Nephi 1 - Study Guide.md")
     baseline = read_text(ctx.vault / guide_rel)
     gitops.commit_all(ctx, "test: pre")
@@ -63,7 +63,7 @@ def test_git_transaction_rollback(imported_ctx):
     gitops.checkpoint(ctx, "test txn")
     (ctx.vault / guide_rel).write_text(baseline + "\nGARBAGE OUTSIDE MARKERS",
                                        encoding="utf-8")
-    (ctx.vault / "Library/70 AI Study Guides" / "junk.md").write_text("junk", encoding="utf-8")
+    (ctx.vault / "AI Library/70 AI Study Guides" / "junk.md").write_text("junk", encoding="utf-8")
     gitops.hard_restore(ctx)
     assert read_text(ctx.vault / guide_rel) == baseline
-    assert not (ctx.vault / "Library/70 AI Study Guides" / "junk.md").exists()
+    assert not (ctx.vault / "AI Library/70 AI Study Guides" / "junk.md").exists()

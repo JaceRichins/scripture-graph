@@ -8,19 +8,24 @@ replaceable, independent AI workers.
 ```
 SCRIPTURE GRAPH\
 ├── Scripture Graph\        ← the Obsidian vault (open this folder in Obsidian)
-│   ├── 00 System\          docs, Status, Graph Health
-│   ├── 01 Scriptures\      Canonical\ (immutable) · Study Guides\ (AI)
-│   ├── 02–06 …\            Gospel Topics · People · Places · Events · Doctrines
-│   ├── 10–30 …\            General Conference · Joseph Smith Papers · Church History
-│   ├── 40 Evidence\        scored, honest evidence dossiers
-│   ├── 50 Questions\       serious questions, both sides sourced
-│   ├── 80 Personal Notes\  YOURS — one "My Study" note per chapter; never AI-edited
+│   ├── Library\            YOURS (and family's) — My Study pages, Study Hub,
+│   │                       verse notes; the engine NEVER edits here
+│   ├── AI Library\         everything the engine maintains (read-only for humans):
+│   │   ├── 01 Scriptures\  Canonical (immutable) · Study Guides · Annotated · JST
+│   │   ├── 02–06 …\        Gospel Topics (+Essays/BD/TG) · People · Places · Events
+│   │   ├── 10–30 …\        General Conference (full talks) · JSP · Church History
+│   │   ├── 40–70 …\        Evidence · Questions · Scholarship · AI Study Guides
+│   │   └── 00, 90\         System docs & Status · Sources registry
+│   ├── Scripture Graph Home.md
 │   └── .scripture-engine\  config, prompts, database, jobs, logs (runtime)
 ├── scripturegraph\         the Python engine
-├── tests\                  automated test suite (49 tests)
+├── tests\                  automated test suite
 ├── scripts\                sg.ps1 CLI shim + scheduled-task runners
 └── sources\                downloads\ (auto) + drop\ (manual corpora go here)
 ```
+
+Scripture folders are numbered in canonical order (`03 Book of Mormon\09 Alma`)
+so nothing sorts alphabetically out of sequence.
 
 ## 1. What it is
 

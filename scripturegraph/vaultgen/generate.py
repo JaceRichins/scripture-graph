@@ -31,9 +31,9 @@ from scripturegraph.util import atomic_write_text, now_iso, read_text, sha256_te
 from scripturegraph.vaultgen import md
 
 # Everything the engine maintains lives under ONE root folder so vault
-# navigation (especially mobile) is: your space + the Library. Humans read
-# the Library; only the engine writes it.
-FOLDER_LIBRARY = "Library"
+# navigation (especially mobile) is: your space ("Library") + the engine's
+# "AI Library". Humans read the AI Library; only the engine writes it.
+FOLDER_LIBRARY = "AI Library"
 FOLDER_SCRIPTURES = f"{FOLDER_LIBRARY}/01 Scriptures"
 FOLDER_CANONICAL = f"{FOLDER_SCRIPTURES}/Canonical"
 FOLDER_GUIDES = f"{FOLDER_SCRIPTURES}/Study Guides"
@@ -49,7 +49,7 @@ FOLDER_EVIDENCE = f"{FOLDER_LIBRARY}/40 Evidence"
 FOLDER_QUESTIONS = f"{FOLDER_LIBRARY}/50 Questions"
 FOLDER_SCHOLARSHIP = f"{FOLDER_LIBRARY}/60 Scholarship"
 FOLDER_AI_GUIDES = f"{FOLDER_LIBRARY}/70 AI Study Guides"
-FOLDER_PERSONAL = "80 Personal Notes"
+FOLDER_PERSONAL = "Library"
 FOLDER_PERSONAL_SCRIPTURES = f"{FOLDER_PERSONAL}/Scriptures"
 FOLDER_SOURCES = f"{FOLDER_LIBRARY}/90 Sources"
 FOLDER_SYSTEM = f"{FOLDER_LIBRARY}/00 System"
@@ -85,15 +85,19 @@ STUDY_SECTIONS: list[tuple[str, str]] = [
 # --------------------------------------------------------------------- paths
 
 def canonical_dir(book: Book) -> str:
-    return f"{FOLDER_CANONICAL}/{book.volume}/{book.name}"
+    from scripturegraph.booksdata import book_dirname, volume_dirname
+    return f"{FOLDER_CANONICAL}/{volume_dirname(book.volume)}/{book_dirname(book)}"
 
 
 def guides_dir(book: Book) -> str:
-    return f"{FOLDER_GUIDES}/{book.volume}/{book.name}"
+    from scripturegraph.booksdata import book_dirname, volume_dirname
+    return f"{FOLDER_GUIDES}/{volume_dirname(book.volume)}/{book_dirname(book)}"
 
 
 def personal_dir(book: Book) -> str:
-    return f"{FOLDER_PERSONAL_SCRIPTURES}/{book.volume}/{book.name}"
+    from scripturegraph.booksdata import book_dirname, volume_dirname
+    return (f"{FOLDER_PERSONAL_SCRIPTURES}/{volume_dirname(book.volume)}"
+            f"/{book_dirname(book)}")
 
 
 def scripture_relpath(book: Book, chapter: int) -> str:
@@ -465,9 +469,10 @@ def generate_scriptures(ctx: Ctx) -> dict:
             stats["indexes_written"] += 1
         db.execute("UPDATE nodes SET vault_path=?, updated_at=? WHERE id=?",
                    (f"{guides_dir(book)}/{book.name}.md", now_iso(), f"book:{book.slug}"))
+    from scripturegraph.booksdata import volume_dirname
     for volume, books in vol_books.items():
-        if books and record_file(ctx, f"{FOLDER_GUIDES}/{volume}/{volume}.md", "moc",
-                                 "generator", None, render_volume_moc(volume, books)):
+        if books and record_file(ctx, f"{FOLDER_GUIDES}/{volume_dirname(volume)}/{volume}.md",
+                                 "moc", "generator", None, render_volume_moc(volume, books)):
             stats["indexes_written"] += 1
     record_file(ctx, f"{FOLDER_SCRIPTURES}/Scriptures.md", "moc", "generator", None,
                 render_scriptures_moc())

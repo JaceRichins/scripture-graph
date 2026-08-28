@@ -32,7 +32,9 @@ def annotated_title(book: Book, chapter: int) -> str:
 
 
 def annotated_relpath(book: Book, chapter: int) -> str:
-    return f"{FOLDER_ANNOTATED}/{book.volume}/{book.name}/{annotated_title(book, chapter)}.md"
+    from scripturegraph.booksdata import book_dirname, volume_dirname
+    return (f"{FOLDER_ANNOTATED}/{volume_dirname(book.volume)}/{book_dirname(book)}"
+            f"/{annotated_title(book, chapter)}.md")
 
 
 def _footnote_links_by_verse(ctx: Ctx, cslug: str) -> dict[int, list[str]]:

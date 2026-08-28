@@ -83,8 +83,10 @@ def checkpoint(ctx: Ctx, label: str) -> str | None:
 #   and the user may have edited it AFTER the checkpoint;
 # - engine runtime dir: live database/log handles must never be git-unlinked
 #   mid-process (tracked config there is not touched inside transactions).
-_RESTORE_EXCLUDES = (f":(exclude){VAULT_DIRNAME}/80 Personal Notes",
-                     f":(exclude){VAULT_DIRNAME}/.scripture-engine")
+def _restore_excludes():
+    from scripturegraph.vaultgen.generate import FOLDER_PERSONAL
+    return (f":(exclude){VAULT_DIRNAME}/{FOLDER_PERSONAL}",
+            f":(exclude){VAULT_DIRNAME}/.scripture-engine")
 
 
 def _clear_readonly_tree(ctx: Ctx, sub: str) -> None:
@@ -107,11 +109,13 @@ def hard_restore(ctx: Ctx) -> None:
     a silent half-rollback must never look like success."""
     import os
     import stat
+    from scripturegraph.vaultgen.generate import FOLDER_CANONICAL
     ensure_repo(ctx)
-    _clear_readonly_tree(ctx, "01 Scriptures/Canonical")  # git can't overwrite RO
-    _git(ctx, "checkout", "--", VAULT_DIRNAME, *_RESTORE_EXCLUDES)
-    _git(ctx, "clean", "-fd", "--", VAULT_DIRNAME, *_RESTORE_EXCLUDES)
-    canonical = ctx.vault / "01 Scriptures" / "Canonical"
+    _clear_readonly_tree(ctx, FOLDER_CANONICAL)  # git can't overwrite RO
+    excludes = _restore_excludes()
+    _git(ctx, "checkout", "--", VAULT_DIRNAME, *excludes)
+    _git(ctx, "clean", "-fd", "--", VAULT_DIRNAME, *excludes)
+    canonical = ctx.vault / FOLDER_CANONICAL
     if canonical.exists():  # re-arm the best-effort read-only defense
         for p in canonical.rglob("*.md"):
             try:

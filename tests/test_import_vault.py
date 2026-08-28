@@ -12,16 +12,16 @@ def test_import_and_generation(imported_ctx):
     assert db.execute("SELECT COUNT(*) AS n FROM chapters").fetchone()["n"] == 4
     assert db.execute("SELECT COUNT(*) AS n FROM verses").fetchone()["n"] == 9
     # canonical file exists with stable block ids + frontmatter contract
-    p = ctx.vault / "Library/01 Scriptures/Canonical/Book of Mormon/1 Nephi/1 Nephi 3.md"
+    p = ctx.vault / "AI Library/01 Scriptures/Canonical/03 Book of Mormon/01 1 Nephi/1 Nephi 3.md"
     assert p.exists()
     text = read_text(p)
     fm, body = md.parse_note(text)
     assert fm["ownership"] == "canonical" and fm["mutable"] is False
     assert "^1ne-3-7" in body
     # study stub + personal scaffold exist in mirrored trees
-    assert (ctx.vault / "Library/01 Scriptures/Study Guides/Book of Mormon/1 Nephi/"
+    assert (ctx.vault / "AI Library/01 Scriptures/Study Guides/03 Book of Mormon/01 1 Nephi/"
             "1 Nephi 3 - Study Guide.md").exists()
-    my = ctx.vault / ("80 Personal Notes/Scriptures/Book of Mormon/1 Nephi/"
+    my = ctx.vault / ("Library/Scriptures/03 Book of Mormon/01 1 Nephi/"
                       "1 Nephi 3 - My Notes.md")
     assert my.exists()
     assert "![[1 Nephi 3]]" in read_text(my)
@@ -37,7 +37,7 @@ def test_regeneration_is_idempotent(imported_ctx):
 
 def test_immutability_guard_and_restore(imported_ctx):
     ctx = imported_ctx
-    p = ctx.vault / "Library/01 Scriptures/Canonical/Book of Mormon/1 Nephi/1 Nephi 1.md"
+    p = ctx.vault / "AI Library/01 Scriptures/Canonical/03 Book of Mormon/01 1 Nephi/1 Nephi 1.md"
     os.chmod(p, p.stat().st_mode | stat.S_IWRITE)
     tampered = read_text(p).replace("goodly parents", "EVIL EDIT")
     p.write_text(tampered, encoding="utf-8")
@@ -55,11 +55,11 @@ def test_immutability_guard_and_restore(imported_ctx):
 
 def test_validation_catches_bad_links(imported_ctx):
     ctx = imported_ctx
-    bad = ctx.vault / "Library/70 AI Study Guides" / "Bad Note.md"
+    bad = ctx.vault / "AI Library/70 AI Study Guides" / "Bad Note.md"
     bad.write_text("# Bad\n\nSee [[Alma 36#^alma-36-999]] and [[No Such Note XYZ]].\n",
                    encoding="utf-8")
     from scripturegraph.validation import Report, check_files
     report = Report()
-    check_files(ctx, report, paths=["Library/70 AI Study Guides/Bad Note.md"])
+    check_files(ctx, report, paths=["AI Library/70 AI Study Guides/Bad Note.md"])
     checks = {i.check for i in report.issues}
     assert "block-link" in checks and "link" in checks
