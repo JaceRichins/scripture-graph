@@ -1,7 +1,7 @@
 /** Shared plugin context: settings (shared, non-secret, in data.json) vs
  * device-local state (secrets + personal data, in localStorage — NEVER in
  * data.json because Obsidian Sync replicates data.json to every vault user). */
-import type { App, Plugin } from "obsidian";
+import { requestUrl, type App, type Plugin } from "obsidian";
 import {
   ApiClient, Budget, SyncEngine, WebStorage,
   type Annotation, type FetchLike, type ModelInfo, type Tier, type AiTask,
@@ -70,9 +70,16 @@ export class SGState {
     this.store = new WebStorage(ns, globalThis.localStorage);
     this.sync = new SyncEngine(this.store);
     this.budget = new Budget(this.store);
+    // Obsidian's requestUrl runs in the native layer: no CORS preflight and no
+    // iOS cleartext/mixed-content blocks — required for http://LAN sync on phones
     const fetchLike: FetchLike = async (url, init) => {
-      const res = await fetch(url, init);
-      return { status: res.status, json: () => res.json() };
+      const res = await requestUrl({
+        url, method: init.method, headers: init.headers, body: init.body, throw: false,
+      });
+      return {
+        status: res.status,
+        json: async () => { try { return res.json as unknown; } catch { return {}; } },
+      };
     };
     this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
   }

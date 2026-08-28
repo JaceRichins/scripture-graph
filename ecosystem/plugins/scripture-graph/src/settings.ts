@@ -194,9 +194,7 @@ export class SGSettingsTab extends PluginSettingTab {
           new CodeModal(this.p, "Family account invite", inv.code,
             "Single use, 30 days. They enter it in Join Scripture Graph.").open();
         }));
-      const over = await fetch(`${s.settings.serverUrl}/admin/overview`, {
-        headers: { authorization: `Bearer ${s.device.deviceToken}` },
-      }).then(r => r.json()).catch(() => null) as Record<string, number> | null;
+      const over = await s.api.adminOverview().catch(() => null);
       if (over) {
         el.createEl("p", {
           text: `Backend: ${over["users"]} users · ${over["devices"]} devices · ` +

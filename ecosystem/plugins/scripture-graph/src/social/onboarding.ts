@@ -30,10 +30,31 @@ export class WelcomeModal extends Modal {
 
     new Setting(contentEl)
       .addButton(b => b.setButtonText("Join").setCta().onClick(async () => {
-        if (!invite.trim() || !name.trim()) return void new Notice("Name and invite code required");
+        const code = invite.trim();
+        if (!code) return void new Notice("Invite code required");
+        // owner bootstrap prints a raw device token — accept it directly
+        if (code.startsWith("sgd_")) {
+          try {
+            this.s.device.deviceToken = code;
+            await this.s.saveDevice();
+            const me = await this.s.api.me();
+            this.s.device.userId = me.user.user_id;
+            this.s.device.displayName = me.user.display_name;
+            await this.s.saveDevice();
+            await refreshIdentity(this.s);
+            new Notice(`Welcome, ${me.user.display_name}!`);
+            this.close();
+            this.maybeOfferAi();
+          } catch (e) {
+            this.s.device.deviceToken = null;
+            await this.s.saveDevice();
+            new Notice(`Token rejected: ${(e as Error).message}`);
+          }
+          return;
+        }
+        if (!name.trim()) return void new Notice("Name and invite code required");
         try {
-          const looksLikeDeviceLink = false;
-          const session = await this.s.api.claim(invite.trim(), name.trim(), device);
+          const session = await this.s.api.claim(code, name.trim(), device);
           this.s.device.deviceToken = session.token;
           this.s.device.userId = session.user.user_id;
           this.s.device.displayName = session.user.display_name;
@@ -79,19 +100,13 @@ export class WelcomeModal extends Modal {
 }
 
 export async function linkDevice(s: SGState, code: string, deviceName: string) {
-  const res = await fetch(`${s.settings.serverUrl.replace(/\/$/, "")}/auth/link-device`, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({ link_code: code, device_name: deviceName }),
-  });
-  const data = await res.json() as { user?: { user_id: string; display_name: string }; token?: string; error?: string };
-  if (!res.ok || !data.token || !data.user) throw new Error(data.error ?? "invalid code");
-  s.device.deviceToken = data.token;
-  s.device.userId = data.user.user_id;
-  s.device.displayName = data.user.display_name;
+  const session = await s.api.linkDevice(code, deviceName);
+  s.device.deviceToken = session.token;
+  s.device.userId = session.user.user_id;
+  s.device.displayName = session.user.display_name;
   await s.saveDevice();
   await refreshIdentity(s);
-  return data.user;
+  return session.user;
 }
 
 export async function refreshIdentity(s: SGState): Promise<void> {

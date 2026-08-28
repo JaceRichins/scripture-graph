@@ -38,6 +38,9 @@ export class ApiClient {
   claim(invite_code: string, display_name: string, device_name: string) {
     return this.req<SessionInfo>("POST", "/auth/claim", { invite_code, display_name, device_name });
   }
+  linkDevice(link_code: string, device_name: string) {
+    return this.req<SessionInfo>("POST", "/auth/link-device", { link_code, device_name });
+  }
   me() { return this.req<{ user: SessionInfo["user"]; groups: unknown[] }>("GET", "/me"); }
   logoutDevice() { return this.req<{ ok: true }>("POST", "/auth/logout"); }
 
@@ -84,4 +87,7 @@ export class ApiClient {
     return this.req<{ annotations: Annotation[]; groups: unknown[]; exported_at: string }>("GET", "/export");
   }
   deleteAccount() { return this.req<{ ok: true }>("POST", "/account/delete"); }
+
+  // owner admin (content-free counters)
+  adminOverview() { return this.req<Record<string, number>>("GET", "/admin/overview"); }
 }
