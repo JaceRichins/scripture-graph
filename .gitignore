@@ -35,3 +35,11 @@ sources/downloads/archive-org/
 # Obsidian config at repo root (created if the ROOT folder is opened as a vault
 # by mistake; the real vault is the 'Scripture Graph' subfolder)
 /.obsidian/
+
+# Ecosystem
+ecosystem/node_modules/
+ecosystem/**/node_modules/
+ecosystem/**/dist/
+ecosystem/server/data/
+ecosystem/.env
+

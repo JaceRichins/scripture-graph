@@ -1,0 +1,1032 @@
+[
+{
+"name": "Genesis",
+"slug": "gen",
+"prefix": "Genesis",
+"volume": "Old Testament",
+"chapters": 50,
+"aliases": [
+"Gen."
+],
+"volumeSeq": 1,
+"bookSeq": 1
+},
+{
+"name": "Exodus",
+"slug": "ex",
+"prefix": "Exodus",
+"volume": "Old Testament",
+"chapters": 40,
+"aliases": [
+"Ex.",
+"Exod."
+],
+"volumeSeq": 1,
+"bookSeq": 2
+},
+{
+"name": "Leviticus",
+"slug": "lev",
+"prefix": "Leviticus",
+"volume": "Old Testament",
+"chapters": 27,
+"aliases": [
+"Lev."
+],
+"volumeSeq": 1,
+"bookSeq": 3
+},
+{
+"name": "Numbers",
+"slug": "num",
+"prefix": "Numbers",
+"volume": "Old Testament",
+"chapters": 36,
+"aliases": [
+"Num."
+],
+"volumeSeq": 1,
+"bookSeq": 4
+},
+{
+"name": "Deuteronomy",
+"slug": "deut",
+"prefix": "Deuteronomy",
+"volume": "Old Testament",
+"chapters": 34,
+"aliases": [
+"Deut."
+],
+"volumeSeq": 1,
+"bookSeq": 5
+},
+{
+"name": "Joshua",
+"slug": "josh",
+"prefix": "Joshua",
+"volume": "Old Testament",
+"chapters": 24,
+"aliases": [
+"Josh."
+],
+"volumeSeq": 1,
+"bookSeq": 6
+},
+{
+"name": "Judges",
+"slug": "judg",
+"prefix": "Judges",
+"volume": "Old Testament",
+"chapters": 21,
+"aliases": [
+"Judg."
+],
+"volumeSeq": 1,
+"bookSeq": 7
+},
+{
+"name": "Ruth",
+"slug": "ruth",
+"prefix": "Ruth",
+"volume": "Old Testament",
+"chapters": 4,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 8
+},
+{
+"name": "1 Samuel",
+"slug": "1sam",
+"prefix": "1 Samuel",
+"volume": "Old Testament",
+"chapters": 31,
+"aliases": [
+"1 Sam."
+],
+"volumeSeq": 1,
+"bookSeq": 9
+},
+{
+"name": "2 Samuel",
+"slug": "2sam",
+"prefix": "2 Samuel",
+"volume": "Old Testament",
+"chapters": 24,
+"aliases": [
+"2 Sam."
+],
+"volumeSeq": 1,
+"bookSeq": 10
+},
+{
+"name": "1 Kings",
+"slug": "1kgs",
+"prefix": "1 Kings",
+"volume": "Old Testament",
+"chapters": 22,
+"aliases": [
+"1 Kgs."
+],
+"volumeSeq": 1,
+"bookSeq": 11
+},
+{
+"name": "2 Kings",
+"slug": "2kgs",
+"prefix": "2 Kings",
+"volume": "Old Testament",
+"chapters": 25,
+"aliases": [
+"2 Kgs."
+],
+"volumeSeq": 1,
+"bookSeq": 12
+},
+{
+"name": "1 Chronicles",
+"slug": "1chr",
+"prefix": "1 Chronicles",
+"volume": "Old Testament",
+"chapters": 29,
+"aliases": [
+"1 Chr.",
+"1 Chron."
+],
+"volumeSeq": 1,
+"bookSeq": 13
+},
+{
+"name": "2 Chronicles",
+"slug": "2chr",
+"prefix": "2 Chronicles",
+"volume": "Old Testament",
+"chapters": 36,
+"aliases": [
+"2 Chr.",
+"2 Chron."
+],
+"volumeSeq": 1,
+"bookSeq": 14
+},
+{
+"name": "Ezra",
+"slug": "ezra",
+"prefix": "Ezra",
+"volume": "Old Testament",
+"chapters": 10,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 15
+},
+{
+"name": "Nehemiah",
+"slug": "neh",
+"prefix": "Nehemiah",
+"volume": "Old Testament",
+"chapters": 13,
+"aliases": [
+"Neh."
+],
+"volumeSeq": 1,
+"bookSeq": 16
+},
+{
+"name": "Esther",
+"slug": "esth",
+"prefix": "Esther",
+"volume": "Old Testament",
+"chapters": 10,
+"aliases": [
+"Esth."
+],
+"volumeSeq": 1,
+"bookSeq": 17
+},
+{
+"name": "Job",
+"slug": "job",
+"prefix": "Job",
+"volume": "Old Testament",
+"chapters": 42,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 18
+},
+{
+"name": "Psalms",
+"slug": "ps",
+"prefix": "Psalm",
+"volume": "Old Testament",
+"chapters": 150,
+"aliases": [
+"Psalm",
+"Ps.",
+"Pss."
+],
+"volumeSeq": 1,
+"bookSeq": 19
+},
+{
+"name": "Proverbs",
+"slug": "prov",
+"prefix": "Proverbs",
+"volume": "Old Testament",
+"chapters": 31,
+"aliases": [
+"Prov."
+],
+"volumeSeq": 1,
+"bookSeq": 20
+},
+{
+"name": "Ecclesiastes",
+"slug": "eccl",
+"prefix": "Ecclesiastes",
+"volume": "Old Testament",
+"chapters": 12,
+"aliases": [
+"Eccl."
+],
+"volumeSeq": 1,
+"bookSeq": 21
+},
+{
+"name": "Song of Solomon",
+"slug": "song",
+"prefix": "Song of Solomon",
+"volume": "Old Testament",
+"chapters": 8,
+"aliases": [
+"Song of Sol."
+],
+"volumeSeq": 1,
+"bookSeq": 22
+},
+{
+"name": "Isaiah",
+"slug": "isa",
+"prefix": "Isaiah",
+"volume": "Old Testament",
+"chapters": 66,
+"aliases": [
+"Isa."
+],
+"volumeSeq": 1,
+"bookSeq": 23
+},
+{
+"name": "Jeremiah",
+"slug": "jer",
+"prefix": "Jeremiah",
+"volume": "Old Testament",
+"chapters": 52,
+"aliases": [
+"Jer."
+],
+"volumeSeq": 1,
+"bookSeq": 24
+},
+{
+"name": "Lamentations",
+"slug": "lam",
+"prefix": "Lamentations",
+"volume": "Old Testament",
+"chapters": 5,
+"aliases": [
+"Lam."
+],
+"volumeSeq": 1,
+"bookSeq": 25
+},
+{
+"name": "Ezekiel",
+"slug": "ezek",
+"prefix": "Ezekiel",
+"volume": "Old Testament",
+"chapters": 48,
+"aliases": [
+"Ezek."
+],
+"volumeSeq": 1,
+"bookSeq": 26
+},
+{
+"name": "Daniel",
+"slug": "dan",
+"prefix": "Daniel",
+"volume": "Old Testament",
+"chapters": 12,
+"aliases": [
+"Dan."
+],
+"volumeSeq": 1,
+"bookSeq": 27
+},
+{
+"name": "Hosea",
+"slug": "hosea",
+"prefix": "Hosea",
+"volume": "Old Testament",
+"chapters": 14,
+"aliases": [
+"Hos."
+],
+"volumeSeq": 1,
+"bookSeq": 28
+},
+{
+"name": "Joel",
+"slug": "joel",
+"prefix": "Joel",
+"volume": "Old Testament",
+"chapters": 3,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 29
+},
+{
+"name": "Amos",
+"slug": "amos",
+"prefix": "Amos",
+"volume": "Old Testament",
+"chapters": 9,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 30
+},
+{
+"name": "Obadiah",
+"slug": "obad",
+"prefix": "Obadiah",
+"volume": "Old Testament",
+"chapters": 1,
+"aliases": [
+"Obad."
+],
+"volumeSeq": 1,
+"bookSeq": 31
+},
+{
+"name": "Jonah",
+"slug": "jonah",
+"prefix": "Jonah",
+"volume": "Old Testament",
+"chapters": 4,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 32
+},
+{
+"name": "Micah",
+"slug": "micah",
+"prefix": "Micah",
+"volume": "Old Testament",
+"chapters": 7,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 33
+},
+{
+"name": "Nahum",
+"slug": "nahum",
+"prefix": "Nahum",
+"volume": "Old Testament",
+"chapters": 3,
+"aliases": [],
+"volumeSeq": 1,
+"bookSeq": 34
+},
+{
+"name": "Habakkuk",
+"slug": "hab",
+"prefix": "Habakkuk",
+"volume": "Old Testament",
+"chapters": 3,
+"aliases": [
+"Hab."
+],
+"volumeSeq": 1,
+"bookSeq": 35
+},
+{
+"name": "Zephaniah",
+"slug": "zeph",
+"prefix": "Zephaniah",
+"volume": "Old Testament",
+"chapters": 3,
+"aliases": [
+"Zeph."
+],
+"volumeSeq": 1,
+"bookSeq": 36
+},
+{
+"name": "Haggai",
+"slug": "hag",
+"prefix": "Haggai",
+"volume": "Old Testament",
+"chapters": 2,
+"aliases": [
+"Hag."
+],
+"volumeSeq": 1,
+"bookSeq": 37
+},
+{
+"name": "Zechariah",
+"slug": "zech",
+"prefix": "Zechariah",
+"volume": "Old Testament",
+"chapters": 14,
+"aliases": [
+"Zech."
+],
+"volumeSeq": 1,
+"bookSeq": 38
+},
+{
+"name": "Malachi",
+"slug": "mal",
+"prefix": "Malachi",
+"volume": "Old Testament",
+"chapters": 4,
+"aliases": [
+"Mal."
+],
+"volumeSeq": 1,
+"bookSeq": 39
+},
+{
+"name": "Matthew",
+"slug": "matt",
+"prefix": "Matthew",
+"volume": "New Testament",
+"chapters": 28,
+"aliases": [
+"Matt."
+],
+"volumeSeq": 2,
+"bookSeq": 1
+},
+{
+"name": "Mark",
+"slug": "mark",
+"prefix": "Mark",
+"volume": "New Testament",
+"chapters": 16,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 2
+},
+{
+"name": "Luke",
+"slug": "luke",
+"prefix": "Luke",
+"volume": "New Testament",
+"chapters": 24,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 3
+},
+{
+"name": "John",
+"slug": "john",
+"prefix": "John",
+"volume": "New Testament",
+"chapters": 21,
+"aliases": [
+"Jn."
+],
+"volumeSeq": 2,
+"bookSeq": 4
+},
+{
+"name": "Acts",
+"slug": "acts",
+"prefix": "Acts",
+"volume": "New Testament",
+"chapters": 28,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 5
+},
+{
+"name": "Romans",
+"slug": "rom",
+"prefix": "Romans",
+"volume": "New Testament",
+"chapters": 16,
+"aliases": [
+"Rom."
+],
+"volumeSeq": 2,
+"bookSeq": 6
+},
+{
+"name": "1 Corinthians",
+"slug": "1cor",
+"prefix": "1 Corinthians",
+"volume": "New Testament",
+"chapters": 16,
+"aliases": [
+"1 Cor."
+],
+"volumeSeq": 2,
+"bookSeq": 7
+},
+{
+"name": "2 Corinthians",
+"slug": "2cor",
+"prefix": "2 Corinthians",
+"volume": "New Testament",
+"chapters": 13,
+"aliases": [
+"2 Cor."
+],
+"volumeSeq": 2,
+"bookSeq": 8
+},
+{
+"name": "Galatians",
+"slug": "gal",
+"prefix": "Galatians",
+"volume": "New Testament",
+"chapters": 6,
+"aliases": [
+"Gal."
+],
+"volumeSeq": 2,
+"bookSeq": 9
+},
+{
+"name": "Ephesians",
+"slug": "eph",
+"prefix": "Ephesians",
+"volume": "New Testament",
+"chapters": 6,
+"aliases": [
+"Eph."
+],
+"volumeSeq": 2,
+"bookSeq": 10
+},
+{
+"name": "Philippians",
+"slug": "philip",
+"prefix": "Philippians",
+"volume": "New Testament",
+"chapters": 4,
+"aliases": [
+"Philip.",
+"Phil."
+],
+"volumeSeq": 2,
+"bookSeq": 11
+},
+{
+"name": "Colossians",
+"slug": "col",
+"prefix": "Colossians",
+"volume": "New Testament",
+"chapters": 4,
+"aliases": [
+"Col."
+],
+"volumeSeq": 2,
+"bookSeq": 12
+},
+{
+"name": "1 Thessalonians",
+"slug": "1thes",
+"prefix": "1 Thessalonians",
+"volume": "New Testament",
+"chapters": 5,
+"aliases": [
+"1 Thes.",
+"1 Thess."
+],
+"volumeSeq": 2,
+"bookSeq": 13
+},
+{
+"name": "2 Thessalonians",
+"slug": "2thes",
+"prefix": "2 Thessalonians",
+"volume": "New Testament",
+"chapters": 3,
+"aliases": [
+"2 Thes.",
+"2 Thess."
+],
+"volumeSeq": 2,
+"bookSeq": 14
+},
+{
+"name": "1 Timothy",
+"slug": "1tim",
+"prefix": "1 Timothy",
+"volume": "New Testament",
+"chapters": 6,
+"aliases": [
+"1 Tim."
+],
+"volumeSeq": 2,
+"bookSeq": 15
+},
+{
+"name": "2 Timothy",
+"slug": "2tim",
+"prefix": "2 Timothy",
+"volume": "New Testament",
+"chapters": 4,
+"aliases": [
+"2 Tim."
+],
+"volumeSeq": 2,
+"bookSeq": 16
+},
+{
+"name": "Titus",
+"slug": "titus",
+"prefix": "Titus",
+"volume": "New Testament",
+"chapters": 3,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 17
+},
+{
+"name": "Philemon",
+"slug": "philem",
+"prefix": "Philemon",
+"volume": "New Testament",
+"chapters": 1,
+"aliases": [
+"Philem."
+],
+"volumeSeq": 2,
+"bookSeq": 18
+},
+{
+"name": "Hebrews",
+"slug": "heb",
+"prefix": "Hebrews",
+"volume": "New Testament",
+"chapters": 13,
+"aliases": [
+"Heb."
+],
+"volumeSeq": 2,
+"bookSeq": 19
+},
+{
+"name": "James",
+"slug": "james",
+"prefix": "James",
+"volume": "New Testament",
+"chapters": 5,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 20
+},
+{
+"name": "1 Peter",
+"slug": "1pet",
+"prefix": "1 Peter",
+"volume": "New Testament",
+"chapters": 5,
+"aliases": [
+"1 Pet."
+],
+"volumeSeq": 2,
+"bookSeq": 21
+},
+{
+"name": "2 Peter",
+"slug": "2pet",
+"prefix": "2 Peter",
+"volume": "New Testament",
+"chapters": 3,
+"aliases": [
+"2 Pet."
+],
+"volumeSeq": 2,
+"bookSeq": 22
+},
+{
+"name": "1 John",
+"slug": "1jn",
+"prefix": "1 John",
+"volume": "New Testament",
+"chapters": 5,
+"aliases": [
+"1 Jn."
+],
+"volumeSeq": 2,
+"bookSeq": 23
+},
+{
+"name": "2 John",
+"slug": "2jn",
+"prefix": "2 John",
+"volume": "New Testament",
+"chapters": 1,
+"aliases": [
+"2 Jn."
+],
+"volumeSeq": 2,
+"bookSeq": 24
+},
+{
+"name": "3 John",
+"slug": "3jn",
+"prefix": "3 John",
+"volume": "New Testament",
+"chapters": 1,
+"aliases": [
+"3 Jn."
+],
+"volumeSeq": 2,
+"bookSeq": 25
+},
+{
+"name": "Jude",
+"slug": "jude",
+"prefix": "Jude",
+"volume": "New Testament",
+"chapters": 1,
+"aliases": [],
+"volumeSeq": 2,
+"bookSeq": 26
+},
+{
+"name": "Revelation",
+"slug": "rev",
+"prefix": "Revelation",
+"volume": "New Testament",
+"chapters": 22,
+"aliases": [
+"Rev.",
+"Revelations"
+],
+"volumeSeq": 2,
+"bookSeq": 27
+},
+{
+"name": "1 Nephi",
+"slug": "1ne",
+"prefix": "1 Nephi",
+"volume": "Book of Mormon",
+"chapters": 22,
+"aliases": [
+"1 Ne."
+],
+"volumeSeq": 3,
+"bookSeq": 1
+},
+{
+"name": "2 Nephi",
+"slug": "2ne",
+"prefix": "2 Nephi",
+"volume": "Book of Mormon",
+"chapters": 33,
+"aliases": [
+"2 Ne."
+],
+"volumeSeq": 3,
+"bookSeq": 2
+},
+{
+"name": "Jacob",
+"slug": "jacob",
+"prefix": "Jacob",
+"volume": "Book of Mormon",
+"chapters": 7,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 3
+},
+{
+"name": "Enos",
+"slug": "enos",
+"prefix": "Enos",
+"volume": "Book of Mormon",
+"chapters": 1,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 4
+},
+{
+"name": "Jarom",
+"slug": "jarom",
+"prefix": "Jarom",
+"volume": "Book of Mormon",
+"chapters": 1,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 5
+},
+{
+"name": "Omni",
+"slug": "omni",
+"prefix": "Omni",
+"volume": "Book of Mormon",
+"chapters": 1,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 6
+},
+{
+"name": "Words of Mormon",
+"slug": "wofm",
+"prefix": "Words of Mormon",
+"volume": "Book of Mormon",
+"chapters": 1,
+"aliases": [
+"W of M",
+"WofM"
+],
+"volumeSeq": 3,
+"bookSeq": 7
+},
+{
+"name": "Mosiah",
+"slug": "mosiah",
+"prefix": "Mosiah",
+"volume": "Book of Mormon",
+"chapters": 29,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 8
+},
+{
+"name": "Alma",
+"slug": "alma",
+"prefix": "Alma",
+"volume": "Book of Mormon",
+"chapters": 63,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 9
+},
+{
+"name": "Helaman",
+"slug": "hel",
+"prefix": "Helaman",
+"volume": "Book of Mormon",
+"chapters": 16,
+"aliases": [
+"Hel."
+],
+"volumeSeq": 3,
+"bookSeq": 10
+},
+{
+"name": "3 Nephi",
+"slug": "3ne",
+"prefix": "3 Nephi",
+"volume": "Book of Mormon",
+"chapters": 30,
+"aliases": [
+"3 Ne."
+],
+"volumeSeq": 3,
+"bookSeq": 11
+},
+{
+"name": "4 Nephi",
+"slug": "4ne",
+"prefix": "4 Nephi",
+"volume": "Book of Mormon",
+"chapters": 1,
+"aliases": [
+"4 Ne."
+],
+"volumeSeq": 3,
+"bookSeq": 12
+},
+{
+"name": "Mormon",
+"slug": "morm",
+"prefix": "Mormon",
+"volume": "Book of Mormon",
+"chapters": 9,
+"aliases": [
+"Morm."
+],
+"volumeSeq": 3,
+"bookSeq": 13
+},
+{
+"name": "Ether",
+"slug": "ether",
+"prefix": "Ether",
+"volume": "Book of Mormon",
+"chapters": 15,
+"aliases": [],
+"volumeSeq": 3,
+"bookSeq": 14
+},
+{
+"name": "Moroni",
+"slug": "moro",
+"prefix": "Moroni",
+"volume": "Book of Mormon",
+"chapters": 10,
+"aliases": [
+"Moro."
+],
+"volumeSeq": 3,
+"bookSeq": 15
+},
+{
+"name": "Doctrine and Covenants",
+"slug": "dc",
+"prefix": "D&C",
+"volume": "Doctrine and Covenants",
+"chapters": 138,
+"aliases": [
+"D&C",
+"D & C",
+"Doctrine & Covenants"
+],
+"volumeSeq": 4,
+"bookSeq": 1
+},
+{
+"name": "Official Declarations",
+"slug": "od",
+"prefix": "Official Declaration",
+"volume": "Doctrine and Covenants",
+"chapters": 2,
+"aliases": [
+"OD",
+"Official Declaration"
+],
+"volumeSeq": 4,
+"bookSeq": 2
+},
+{
+"name": "Moses",
+"slug": "moses",
+"prefix": "Moses",
+"volume": "Pearl of Great Price",
+"chapters": 8,
+"aliases": [],
+"volumeSeq": 5,
+"bookSeq": 1
+},
+{
+"name": "Abraham",
+"slug": "abr",
+"prefix": "Abraham",
+"volume": "Pearl of Great Price",
+"chapters": 5,
+"aliases": [
+"Abr."
+],
+"volumeSeq": 5,
+"bookSeq": 2
+},
+{
+"name": "Joseph Smith—Matthew",
+"slug": "jsm",
+"prefix": "Joseph Smith—Matthew",
+"volume": "Pearl of Great Price",
+"chapters": 1,
+"aliases": [
+"Joseph Smith-Matthew",
+"JS-Matthew",
+"JS-M"
+],
+"volumeSeq": 5,
+"bookSeq": 3
+},
+{
+"name": "Joseph Smith—History",
+"slug": "jsh",
+"prefix": "Joseph Smith—History",
+"volume": "Pearl of Great Price",
+"chapters": 1,
+"aliases": [
+"Joseph Smith-History",
+"JS-History",
+"JS-H"
+],
+"volumeSeq": 5,
+"bookSeq": 4
+},
+{
+"name": "Articles of Faith",
+"slug": "aoff",
+"prefix": "Articles of Faith",
+"volume": "Pearl of Great Price",
+"chapters": 1,
+"aliases": [
+"A of F",
+"AofF"
+],
+"volumeSeq": 5,
+"bookSeq": 5
+}
+]
