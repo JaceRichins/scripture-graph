@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EvidenceNoteSpec",
+  "type": "object",
+  "required": ["title", "class", "area", "summary"],
+  "properties": {
+    "title": {"type": "string", "minLength": 4, "maxLength": 120},
+    "class": {"type": "string", "maxLength": 60},
+    "area": {"enum": ["Book of Mormon", "Bible", "Restoration"]},
+    "subfolder": {"type": "string", "maxLength": 60},
+    "summary": {"type": "string", "minLength": 20, "maxLength": 4000},
+    "scripture_refs": {"type": "array", "items": {"type": "string", "maxLength": 60}},
+    "sources": {"type": "array", "items": {"type": "object"}},
+    "scores": {"type": "object"},
+    "alternative_explanations": {"type": "array", "items": {"type": "string", "maxLength": 500}},
+    "does_not_establish": {"type": "string", "maxLength": 500}
+  }
+}

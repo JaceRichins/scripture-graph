@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scripturegraph"
+version = "0.1.0"
+description = "Scripture Graph — deterministic orchestrator for an AI-maintained Obsidian scripture knowledge graph"
+requires-python = ">=3.12"
+dependencies = [
+    "pyyaml>=6.0",
+    "jsonschema>=4.20",
+    "numpy>=1.26",
+]
+
+[project.optional-dependencies]
+semantic = ["fastembed>=0.3"]
+pdf = ["pypdf>=4.0"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+scripturegraph = "scripturegraph.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["scripturegraph*"]
+
+[tool.setuptools.package-data]
+scripturegraph = ["assets/**/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

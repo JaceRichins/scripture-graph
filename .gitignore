@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+
+# Engine runtime state (reproducible from Markdown + sources)
+Scripture Graph/.scripture-engine/database/
+Scripture Graph/.scripture-engine/logs/
+Scripture Graph/.scripture-engine/cache/
+Scripture Graph/.scripture-engine/jobs/
+Scripture Graph/.scripture-engine/embeddings/
+Scripture Graph/.scripture-engine/quarantine/
+
+# Secrets — never commit
+Scripture Graph/.scripture-engine/config/.env
+.env
+
+# Obsidian per-device state
+Scripture Graph/.obsidian/workspace.json
+Scripture Graph/.obsidian/workspace-mobile.json
+Scripture Graph/.obsidian/cache/
+Scripture Graph/.trash/
+
+# Scratch
+*.tmp

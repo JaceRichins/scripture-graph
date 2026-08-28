@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ResearcherProposal",
+  "type": "object",
+  "required": ["claims", "candidate_links", "study_sections"],
+  "properties": {
+    "claims": {
+      "type": "array",
+      "maxItems": 40,
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "text", "confidence"],
+        "properties": {
+          "id": {"type": "string", "minLength": 1, "maxLength": 40},
+          "type": {"enum": ["observation", "interpretation", "connection", "evidence"]},
+          "text": {"type": "string", "minLength": 8, "maxLength": 2000},
+          "scripture_refs": {"type": "array", "items": {"type": "string", "maxLength": 60}, "maxItems": 12},
+          "quotes": {
+            "type": "array", "maxItems": 6,
+            "items": {
+              "type": "object", "required": ["ref", "quote"],
+              "properties": {
+                "ref": {"type": "string", "maxLength": 60},
+                "quote": {"type": "string", "maxLength": 400}
+              }
+            }
+          },
+          "sources": {
+            "type": "array", "maxItems": 8,
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": {"type": "string", "maxLength": 300},
+                "author": {"type": "string", "maxLength": 120},
+                "year": {"type": ["string", "integer"]},
+                "url": {"type": "string", "maxLength": 400},
+                "note": {"type": "string", "maxLength": 400}
+              }
+            }
+          },
+          "evidence": {
+            "type": "object",
+            "properties": {
+              "class": {"type": "string", "maxLength": 60},
+              "claim_confidence": {"type": "number", "minimum": 0, "maximum": 1},
+              "evidence_strength": {"type": "number", "minimum": 0, "maximum": 1},
+              "study_relevance": {"type": "number", "minimum": 0, "maximum": 1},
+              "source_quality": {"type": "number", "minimum": 0, "maximum": 1},
+              "consensus_status": {"enum": ["broadly accepted", "accepted observation / disputed interpretation", "believing scholarship", "disputed", "minority interpretation", "speculative"]},
+              "alternative_explanations": {"type": "array", "items": {"type": "string", "maxLength": 400}, "maxItems": 6},
+              "does_not_establish": {"type": "string", "maxLength": 400}
+            }
+          },
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+          "suggested_tier": {"enum": ["ACCEPT", "ACCEPT_LOW_VISIBILITY", "TENTATIVE", "REJECT"]}
+        }
+      }
+    },
+    "candidate_links": {
+      "type": "array",
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "required": ["target", "rel"],
+        "properties": {
+          "target": {"type": "string", "minLength": 2, "maxLength": 120},
+          "rel": {"enum": ["semantically_related", "discusses", "supports", "challenges", "parallel_to", "historical_context_for", "quotes", "fulfills", "mentions"]},
+          "rationale": {"type": "string", "maxLength": 500},
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1}
+        }
+      }
+    },
+    "topics": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 15},
+    "people": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 20},
+    "places": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 20},
+    "events": {"type": "array", "items": {"type": "string", "maxLength": 120}, "maxItems": 10},
+    "study_sections": {
+      "type": "object",
+      "propertyNames": {"enum": ["overview", "structure", "doctrines", "language", "literary", "questions", "further-study"]},
+      "additionalProperties": {"type": "string", "maxLength": 8000}
+    },
+    "uncertainties": {"type": "array", "items": {"type": "string", "maxLength": 500}, "maxItems": 12},
+    "counterarguments": {"type": "array", "items": {"type": "string", "maxLength": 500}, "maxItems": 12}
+  }
+}
