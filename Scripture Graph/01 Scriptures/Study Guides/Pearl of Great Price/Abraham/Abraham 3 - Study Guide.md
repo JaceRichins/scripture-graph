@@ -58,7 +58,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
+- [[Divine Helps for Mortality (President Dallin H. Oaks, April 2025)|Divine Helps for Mortality]] — President Dallin H. Oaks, 2025-April *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
+- [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
+- [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[Hold on Thy Way (Elder Koichi Aoyagi, October 2015)|Hold on Thy Way]] — Elder Koichi Aoyagi, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -53,7 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Discovering the Divinity Within (Rosemary M. Wixom, October 2015)|Discovering the Divinity Within]] — Rosemary M. Wixom, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
+- [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
+- [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
+- [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Don’t Look Around, Look Up! (Elder Yoon Hwan Choi, April 2017)|Don’t Look Around, Look Up!]] — Elder Yoon Hwan Choi, 2017-April *(explicit citation)*
+- [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

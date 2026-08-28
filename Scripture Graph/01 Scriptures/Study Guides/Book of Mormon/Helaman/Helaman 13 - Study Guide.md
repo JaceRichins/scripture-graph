@@ -64,7 +64,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[His Daily Guiding Hand (M. Joseph Brough, April 2017)|His Daily Guiding Hand]] — M. Joseph Brough, 2017-April *(explicit citation)*
+- [[Preparing for the Second Coming of Christ (Elder Christoffel Golden, October 2021)|Preparing for the Second Coming of Christ]] — Elder Christoffel Golden, 2021-October *(explicit citation)*
+- [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
+- [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

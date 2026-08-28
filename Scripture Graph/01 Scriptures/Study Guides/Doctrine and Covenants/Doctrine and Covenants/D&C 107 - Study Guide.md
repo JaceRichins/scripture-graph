@@ -77,7 +77,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
+- [[Miracles, Angels, and Priesthood Power (Elder Shayne M. Bowen, April 2024)|Miracles, Angels, and Priesthood Power]] — Elder Shayne M. Bowen, 2024-April *(explicit citation)*
+- [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[Adjustments to Strengthen Youth (Elder Quentin L. Cook, October 2019)|Adjustments to Strengthen Youth]] — Elder Quentin L. Cook, 2019-October *(explicit citation)*
+- [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
+- [[The Heart of a Prophet (Elder Gary E. Stevenson, April 2018)|The Heart of a Prophet]] — Elder Gary E. Stevenson, 2018-April *(explicit citation)*
+- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
+- [[Spiritual Treasures (President Russell M. Nelson, October 2019)|Spiritual Treasures]] — President Russell M. Nelson, 2019-October *(explicit citation)*
+- [[Bishops—Shepherds over the Lord’s Flock (Elder Quentin L. Cook, April 2021)|Bishops—Shepherds over the Lord’s Flock]] — Elder Quentin L. Cook, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

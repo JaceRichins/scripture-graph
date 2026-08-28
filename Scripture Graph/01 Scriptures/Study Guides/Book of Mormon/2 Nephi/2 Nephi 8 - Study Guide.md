@@ -58,7 +58,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
+- [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

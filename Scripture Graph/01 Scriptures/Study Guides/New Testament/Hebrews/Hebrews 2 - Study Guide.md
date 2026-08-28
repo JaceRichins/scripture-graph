@@ -58,7 +58,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
+- [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
+- [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
+- [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*
+- [[What Has Our Savior Done for Us (President Dallin H. Oaks, April 2021)|What Has Our Savior Done for Us?]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
+- [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

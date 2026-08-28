@@ -52,7 +52,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Eternal Perspective of the Gospel (Elder Rafael E. Pino, April 2015)|The Eternal Perspective of the Gospel]] — Elder Rafael E. Pino, 2015-April *(explicit citation)*
+- [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
+- [[Fourth Floor, Last Door (President Dieter F. Uchtdorf, October 2016)|Fourth Floor, Last Door]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
+- [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
+- [[The Greatest Possession (Elder Jeffrey R. Holland, October 2021)|The Greatest Possession]] — Elder Jeffrey R. Holland, 2021-October *(explicit citation)*
+- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[A Voice of Gladness! (Elder Kevin R. Duncan, April 2023)|A Voice of Gladness!]] — Elder Kevin R. Duncan, 2023-April *(explicit citation)*
+- [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

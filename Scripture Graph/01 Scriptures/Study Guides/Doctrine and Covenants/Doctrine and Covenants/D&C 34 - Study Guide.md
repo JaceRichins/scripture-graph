@@ -63,7 +63,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Lovest Thou Me More Than These” (President M. Russell Ballard, October 2021)|“Lovest Thou Me More Than These?”]] — President M. Russell Ballard, 2021-October *(explicit citation)*
+- [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
+- [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
+- [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[What Has Our Savior Done for Us (President Dallin H. Oaks, April 2021)|What Has Our Savior Done for Us?]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

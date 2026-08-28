@@ -62,7 +62,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
+- [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
+- [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

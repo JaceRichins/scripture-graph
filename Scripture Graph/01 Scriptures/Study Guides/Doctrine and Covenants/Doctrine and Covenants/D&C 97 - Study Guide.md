@@ -64,7 +64,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
+- [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
+- [[I Love to See the Temple (President Henry B. Eyring, April 2021)|I Love to See the Temple]] — President Henry B. Eyring, 2021-April *(explicit citation)*
+- [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
+- [[“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025)|“By This All Will Know That You Are My Disciples”]] — Elder Dieter F. Uchtdorf, 2025-April *(explicit citation)*
+- [[A Peculiar Treasure (Elder Alan R. Walker, April 2026)|A Peculiar Treasure]] — Elder Alan R. Walker, 2026-April *(explicit citation)*
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -61,7 +61,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Divine Love in the Father’s Plan (President Dallin H. Oaks, April 2022)|Divine Love in the Father’s Plan]] — President Dallin H. Oaks, 2022-April *(explicit citation)*
+- [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[Do I Believe (Bonnie L. Oscarson, April 2016)|Do I Believe?]] — Bonnie L. Oscarson, 2016-April *(explicit citation)*
+- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
+- [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
+- [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[Let Us All Press On (President Russell M. Nelson, April 2018)|Let Us All Press On]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

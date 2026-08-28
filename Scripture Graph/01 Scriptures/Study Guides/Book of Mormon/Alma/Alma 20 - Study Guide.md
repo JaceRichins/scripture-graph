@@ -64,7 +64,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
+- [[Pray, He Is There (President Susan H. Porter, April 2024)|Pray, He Is There]] — President Susan H. Porter, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

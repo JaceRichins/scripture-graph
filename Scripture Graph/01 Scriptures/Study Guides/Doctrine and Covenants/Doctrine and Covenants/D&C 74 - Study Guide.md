@@ -56,7 +56,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

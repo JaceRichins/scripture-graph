@@ -78,7 +78,16 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
+- [[Recommended to the Lord (Elder Ronald A. Rasband, October 2020)|Recommended to the Lord]] — Elder Ronald A. Rasband, 2020-October *(explicit citation)*
+- [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
+- [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
+- [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

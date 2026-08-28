@@ -63,7 +63,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
+- [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Keep the Change (Becky Craven, October 2020)|Keep the Change]] — Becky Craven, 2020-October *(explicit citation)*
+- [[One Percent Better (Elder Michael A. Dunn, October 2021)|One Percent Better]] — Elder Michael A. Dunn, 2021-October *(explicit citation)*
+- [[The Lord Jesus Christ Teaches Us to Minister (Elder Juan A. Uceda, April 2023)|The Lord Jesus Christ Teaches Us to Minister]] — Elder Juan A. Uceda, 2023-April *(explicit citation)*
+- [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

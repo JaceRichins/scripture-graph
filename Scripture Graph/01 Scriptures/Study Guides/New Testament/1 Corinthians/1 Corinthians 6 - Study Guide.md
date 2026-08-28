@@ -52,7 +52,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Hallmarks of Happiness (Elder Gary B. Sabin, October 2023)|Hallmarks of Happiness]] — Elder Gary B. Sabin, 2023-October *(explicit citation)*
+- [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
+- [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

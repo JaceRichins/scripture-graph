@@ -65,7 +65,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[Gather Together in One All Things in Christ (Elder David A. Bednar, October 2018)|Gather Together in One All Things in Christ]] — Elder David A. Bednar, 2018-October *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Closing Remarks (President Russell M. Nelson, October 2019)|Closing Remarks]] — President Russell M. Nelson, 2019-October *(explicit citation)*
+- [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
+- [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
+- [[Sharing the Message of the Restoration and the Resurrection (Elder D. Todd Christofferson, April 2020)|Sharing the Message of the Restoration and the Resurrection]] — Elder D. Todd Christofferson, 2020-April *(explicit citation)*
+- [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

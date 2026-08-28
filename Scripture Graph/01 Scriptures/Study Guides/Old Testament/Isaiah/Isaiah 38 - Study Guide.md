@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[One More Day (Elder Taylor G. Godoy, April 2018)|One More Day]] — Elder Taylor G. Godoy, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -62,7 +62,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
+- [[The Elders Quorum (Elder D. Todd Christofferson, April 2018)|The Elders Quorum]] — Elder D. Todd Christofferson, 2018-April *(explicit citation)*
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

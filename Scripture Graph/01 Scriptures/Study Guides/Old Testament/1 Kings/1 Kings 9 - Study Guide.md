@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

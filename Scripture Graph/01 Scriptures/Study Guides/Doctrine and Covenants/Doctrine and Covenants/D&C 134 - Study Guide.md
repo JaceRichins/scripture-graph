@@ -54,7 +54,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

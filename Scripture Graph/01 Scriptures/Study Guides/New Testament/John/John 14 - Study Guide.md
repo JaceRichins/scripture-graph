@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
+- [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
+- [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
+- [[Follow Jesus Christ with Footsteps of Faith (President M. Russell Ballard, October 2022)|Follow Jesus Christ with Footsteps of Faith]] — President M. Russell Ballard, 2022-October *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
+- [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

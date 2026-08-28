@@ -73,7 +73,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
+- [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
+- [[Focus on Jesus Christ (Brother Milton Camargo, April 2023)|Focus on Jesus Christ]] — Brother Milton Camargo, 2023-April *(explicit citation)*
+- [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
+- [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
+- [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

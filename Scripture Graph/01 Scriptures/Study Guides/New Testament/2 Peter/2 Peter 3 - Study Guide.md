@@ -53,7 +53,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
+- [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
+- [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -52,7 +52,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
+- [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

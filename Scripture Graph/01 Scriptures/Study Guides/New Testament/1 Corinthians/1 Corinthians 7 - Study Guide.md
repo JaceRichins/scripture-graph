@@ -54,7 +54,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[Hallmarks of Happiness (Elder Gary B. Sabin, October 2023)|Hallmarks of Happiness]] — Elder Gary B. Sabin, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -61,7 +61,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
+- [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

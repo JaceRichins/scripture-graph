@@ -56,7 +56,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[Wilt Thou Be Made Whole (Elder Matthew L. Carpenter, October 2018)|Wilt Thou Be Made Whole?]] — Elder Matthew L. Carpenter, 2018-October *(explicit citation)*
+- [[Your Great Adventure (Elder Dieter F. Uchtdorf, October 2019)|Your Great Adventure]] — Elder Dieter F. Uchtdorf, 2019-October *(explicit citation)*
+- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
+- [[“Lovest Thou Me More Than These” (President M. Russell Ballard, October 2021)|“Lovest Thou Me More Than These?”]] — President M. Russell Ballard, 2021-October *(explicit citation)*
+- [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
+- [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
+- [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

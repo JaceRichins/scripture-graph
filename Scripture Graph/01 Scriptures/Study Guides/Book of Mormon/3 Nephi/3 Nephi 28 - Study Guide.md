@@ -70,7 +70,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[The Quorum A Place of Belonging (Elder Carl B. Cook, April 2019)|The Quorum: A Place of Belonging]] — Elder Carl B. Cook, 2019-April *(explicit citation)*
+- [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
+- [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[It’s Never Too Early and It’s Never Too Late (Elder Bradley D. Foster, October 2015)|It’s Never Too Early and It’s Never Too Late]] — Elder Bradley D. Foster, 2015-October *(explicit citation)*
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
+- [[Honoring His Name (Lisa L. Harkness, October 2019)|Honoring His Name]] — Lisa L. Harkness, 2019-October *(explicit citation)*
+- [[An Especially Noble Calling (Joy D. Jones, April 2020)|An Especially Noble Calling]] — Joy D. Jones, 2020-April *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Patterns of Discipleship (Elder Joseph W. Sitati, October 2022)|Patterns of Discipleship]] — Elder Joseph W. Sitati, 2022-October *(explicit citation)*
+- [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

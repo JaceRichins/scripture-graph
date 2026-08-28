@@ -70,7 +70,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
+- [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
+- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[The Triumph of Hope (Elder Neil L. Andersen, October 2024)|The Triumph of Hope]] — Elder Neil L. Andersen, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

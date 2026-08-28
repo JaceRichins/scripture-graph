@@ -69,7 +69,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[An Especially Noble Calling (Joy D. Jones, April 2020)|An Especially Noble Calling]] — Joy D. Jones, 2020-April *(explicit citation)*
+- [[Our Constant Companion (President Henry B. Eyring, October 2023)|Our Constant Companion]] — President Henry B. Eyring, 2023-October *(explicit citation)*
+- [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

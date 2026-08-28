@@ -54,7 +54,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
+- [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

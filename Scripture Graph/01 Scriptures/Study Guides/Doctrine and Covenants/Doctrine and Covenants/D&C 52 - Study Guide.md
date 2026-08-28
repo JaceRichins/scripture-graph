@@ -77,7 +77,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[The Greatest among You (President Dieter F. Uchtdorf, April 2017)|The Greatest among You]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
+- [[Patterns of Discipleship (Elder Joseph W. Sitati, October 2022)|Patterns of Discipleship]] — Elder Joseph W. Sitati, 2022-October *(explicit citation)*
+- [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
+- [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
+- [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

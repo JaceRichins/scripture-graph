@@ -53,7 +53,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
+- [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
+- [[Overcoming the World (Elder Neil L. Andersen, April 2017)|Overcoming the World]] — Elder Neil L. Andersen, 2017-April *(explicit citation)*
+- [[Then Jesus Beholding Him Loved Him (Elder S. Mark Palmer, April 2017)|Then Jesus Beholding Him Loved Him]] — Elder S. Mark Palmer, 2017-April *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

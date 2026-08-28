@@ -52,7 +52,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
+- [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
+- [[Cherishing Life (Elder Neil L. Andersen, April 2025)|Cherishing Life]] — Elder Neil L. Andersen, 2025-April *(explicit citation)*
+- [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

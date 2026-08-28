@@ -70,7 +70,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[Faith to Act and Become (Elder Ciro Schmeil, October 2021)|Faith to Act and Become]] — Elder Ciro Schmeil, 2021-October *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[“This Is My Gospel”—“This Is My Church” (Elder Dale G. Renlund, October 2024)|“This Is My Gospel”—“This Is My Church”]] — Elder Dale G. Renlund, 2024-October *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

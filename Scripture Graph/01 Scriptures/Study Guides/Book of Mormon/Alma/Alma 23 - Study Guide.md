@@ -65,7 +65,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
+- [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
+- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[God’s Compelling Witness The Book of Mormon (Tad R. Callister, October 2017)|God’s Compelling Witness: The Book of Mormon]] — Tad R. Callister, 2017-October *(explicit citation)*
+- [[Miracles of the Gospel of Jesus Christ (Elder Carlos G. Revillo Jr., October 2021)|Miracles of the Gospel of Jesus Christ]] — Elder Carlos G. Revillo Jr., 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

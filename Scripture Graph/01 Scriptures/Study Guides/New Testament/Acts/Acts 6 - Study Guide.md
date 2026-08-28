@@ -57,7 +57,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

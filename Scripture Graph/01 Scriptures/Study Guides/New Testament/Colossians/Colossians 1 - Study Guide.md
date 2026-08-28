@@ -64,7 +64,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[I Am a Child of God (Elder Donald L. Hallstrom, April 2016)|I Am a Child of God]] — Elder Donald L. Hallstrom, 2016-April *(explicit citation)*
+- [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[The Savior’s Touch (Elder Walter F. González, October 2019)|The Savior’s Touch]] — Elder Walter F. González, 2019-October *(explicit citation)*
+- [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
+- [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
+- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

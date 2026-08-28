@@ -62,7 +62,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
+- [[Our Sorrow Shall Be Turned into Joy (Elder S. Mark Palmer, April 2021)|Our Sorrow Shall Be Turned into Joy]] — Elder S. Mark Palmer, 2021-April *(explicit citation)*
+- [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
+- [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
+- [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
+- [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
+- [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
+- [[Precious Gifts from God (President M. Russell Ballard, April 2018)|Precious Gifts from God]] — President M. Russell Ballard, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

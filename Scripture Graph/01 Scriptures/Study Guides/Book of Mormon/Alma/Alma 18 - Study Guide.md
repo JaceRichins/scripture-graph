@@ -71,7 +71,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
+- [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
+- [[Trust Again (Elder Gerrit W. Gong, October 2021)|Trust Again]] — Elder Gerrit W. Gong, 2021-October *(explicit citation)*
+- [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
+- [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

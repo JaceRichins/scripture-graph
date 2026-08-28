@@ -68,7 +68,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Seeing More of Jesus Christ in Our Lives (Sister Tracy Y. Browning, October 2022)|Seeing More of Jesus Christ in Our Lives]] — Sister Tracy Y. Browning, 2022-October *(explicit citation)*
+- [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
+- [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
+- [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

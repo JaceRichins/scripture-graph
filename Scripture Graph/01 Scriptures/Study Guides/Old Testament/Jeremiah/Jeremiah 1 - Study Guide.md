@@ -67,7 +67,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
+- [[The Wind Did Never Cease to Blow (Elder Aroldo B. Cavalcante, October 2024)|The Wind Did Never Cease to Blow]] — Elder Aroldo B. Cavalcante, 2024-October *(explicit citation)*
+- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
+- [[The Personal Journey of a Child of God (Elder Neil L. Andersen, April 2021)|The Personal Journey of a Child of God]] — Elder Neil L. Andersen, 2021-April *(explicit citation)*
+- [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
+- [[Conference Report, April 1919 (General Conference (full report), April 1919)|Conference Report, April 1919]] — General Conference (full report), 1919-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

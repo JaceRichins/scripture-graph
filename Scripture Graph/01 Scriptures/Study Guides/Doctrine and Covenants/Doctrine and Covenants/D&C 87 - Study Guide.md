@@ -53,7 +53,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
+- [[Opening Message (President Russell M. Nelson, April 2020)|Opening Message]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
+- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[Conversion Is Our Goal (Mark L. Pace, April 2022)|Conversion Is Our Goal]] — Mark L. Pace, 2022-April *(explicit citation)*
+- [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
+- [[Promptings of the Spirit (Elder Gary E. Stevenson, October 2023)|Promptings of the Spirit]] — Elder Gary E. Stevenson, 2023-October *(explicit citation)*
+- [[Temples, Houses of the Lord Dotting the Earth (Elder Neil L. Andersen, April 2024)|Temples, Houses of the Lord Dotting the Earth]] — Elder Neil L. Andersen, 2024-April *(explicit citation)*
+- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

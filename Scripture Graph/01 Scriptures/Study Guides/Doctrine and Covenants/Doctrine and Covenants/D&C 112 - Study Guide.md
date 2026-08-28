@@ -66,7 +66,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
+- [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
+- [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
+- [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
+- [[Humble to Accept and Follow (Elder Joni L. Koch, October 2023)|Humble to Accept and Follow]] — Elder Joni L. Koch, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

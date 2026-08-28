@@ -56,7 +56,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives (Elder Quentin L. Cook, April 2020)|The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives]] — Elder Quentin L. Cook, 2020-April *(explicit citation)*
+- [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
+- [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
+- [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

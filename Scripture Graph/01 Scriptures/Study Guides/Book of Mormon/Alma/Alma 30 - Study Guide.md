@@ -75,7 +75,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Hearing His Voice (Elder David P. Homer, April 2019)|Hearing His Voice]] — Elder David P. Homer, 2019-April *(explicit citation)*
+- [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
+- [[The Eye of Faith (Elder Neil L. Andersen, April 2019)|The Eye of Faith]] — Elder Neil L. Andersen, 2019-April *(explicit citation)*
+- [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
+- [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
+- [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

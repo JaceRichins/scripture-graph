@@ -65,7 +65,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
+- [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

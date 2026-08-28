@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
+- [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
+- [[A Witness of God (Elder Neil L. Andersen, October 2016)|A Witness of God]] — Elder Neil L. Andersen, 2016-October *(explicit citation)*
+- [[Gratitude on the Sabbath Day (President Henry B. Eyring, October 2016)|Gratitude on the Sabbath Day]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

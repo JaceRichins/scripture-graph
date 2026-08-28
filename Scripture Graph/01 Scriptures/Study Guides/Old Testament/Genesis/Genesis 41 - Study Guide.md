@@ -55,7 +55,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[There Was Bread (Bishop W. Christopher Waddell, October 2020)|There Was Bread]] — Bishop W. Christopher Waddell, 2020-October *(explicit citation)*
+- [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

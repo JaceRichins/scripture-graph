@@ -54,7 +54,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Behold I Am the Light Which Ye Shall Hold Up” (Elder Ronald A. Rasband, October 2024)|“Behold I Am the Light Which Ye Shall Hold Up”]] — Elder Ronald A. Rasband, 2024-October *(explicit citation)*
+- [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
+- [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
+- [[“Be With and Strengthen Them” (Elder Jeffrey R. Holland, April 2018)|“Be With and Strengthen Them”]] — Elder Jeffrey R. Holland, 2018-April *(explicit citation)*
+- [[Precious Gifts from God (President M. Russell Ballard, April 2018)|Precious Gifts from God]] — President M. Russell Ballard, 2018-April *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
+- [[The Savior’s Abiding Compassion (Elder Ulisses Soares, October 2021)|The Savior’s Abiding Compassion]] — Elder Ulisses Soares, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

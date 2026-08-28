@@ -74,7 +74,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

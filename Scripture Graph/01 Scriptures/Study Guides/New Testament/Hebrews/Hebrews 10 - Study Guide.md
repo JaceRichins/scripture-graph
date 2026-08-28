@@ -58,7 +58,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
+- [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*
+- [[Covenant Confidence through Jesus Christ (Elder Ulisses Soares, April 2024)|Covenant Confidence through Jesus Christ]] — Elder Ulisses Soares, 2024-April *(explicit citation)*
+- [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
+- [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
+- [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
+- [[Let Patience Have Her Perfect Work, and Count It All Joy! (Elder Jeremy R. Jaggi, October 2020)|Let Patience Have Her Perfect Work, and Count It All Joy!]] — Elder Jeremy R. Jaggi, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -66,7 +66,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Rise! He Calleth Thee (Elder Massimo De Feo, April 2024)|Rise! He Calleth Thee]] — Elder Massimo De Feo, 2024-April *(explicit citation)*
+- [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
+- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[That Our Light May Be a Standard for the Nations (Elder Benjamín De Hoyos, April 2017)|That Our Light May Be a Standard for the Nations]] — Elder Benjamín De Hoyos, 2017-April *(explicit citation)*
+- [[“Behold I Am the Light Which Ye Shall Hold Up” (Elder Ronald A. Rasband, October 2024)|“Behold I Am the Light Which Ye Shall Hold Up”]] — Elder Ronald A. Rasband, 2024-October *(explicit citation)*
+- [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

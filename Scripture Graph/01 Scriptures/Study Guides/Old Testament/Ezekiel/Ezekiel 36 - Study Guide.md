@@ -65,7 +65,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[Beauty for Ashes The Healing Path of Forgiveness (Sister Kristin M. Yee, October 2022)|Beauty for Ashes: The Healing Path of Forgiveness]] — Sister Kristin M. Yee, 2022-October *(explicit citation)*
+- [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
+- [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
+- [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
+- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

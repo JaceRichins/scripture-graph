@@ -53,7 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

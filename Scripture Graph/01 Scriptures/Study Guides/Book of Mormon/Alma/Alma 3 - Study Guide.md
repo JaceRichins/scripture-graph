@@ -64,7 +64,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Careful versus Casual (Becky Craven, April 2019)|Careful versus Casual]] — Becky Craven, 2019-April *(explicit citation)*
+- [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

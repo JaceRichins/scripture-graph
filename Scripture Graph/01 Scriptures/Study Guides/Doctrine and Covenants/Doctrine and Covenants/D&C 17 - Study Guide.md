@@ -62,7 +62,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

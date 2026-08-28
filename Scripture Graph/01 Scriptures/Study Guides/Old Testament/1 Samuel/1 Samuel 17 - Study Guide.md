@@ -67,7 +67,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Faithful to the End (Sister Andrea Muñoz Spannaus, April 2024)|Faithful to the End]] — Sister Andrea Muñoz Spannaus, 2024-April *(explicit citation)*
+- [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
+- [[Your Priesthood Playbook (Elder Gary E. Stevenson, April 2019)|Your Priesthood Playbook]] — Elder Gary E. Stevenson, 2019-April *(explicit citation)*
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[Invite Christ to Author Your Story (Camille N. Johnson, October 2021)|Invite Christ to Author Your Story]] — Camille N. Johnson, 2021-October *(explicit citation)*
+- [[Deepening Our Conversion to Jesus Christ (Elder Arnulfo Valenzuela, October 2021)|Deepening Our Conversion to Jesus Christ]] — Elder Arnulfo Valenzuela, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

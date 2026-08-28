@@ -54,7 +54,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

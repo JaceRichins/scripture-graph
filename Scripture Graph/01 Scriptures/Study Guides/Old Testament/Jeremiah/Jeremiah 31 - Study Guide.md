@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Abiding in God and Repairing the Breach (Neill F. Marriott, October 2017)|Abiding in God and Repairing the Breach]] — Neill F. Marriott, 2017-October *(explicit citation)*
+- [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[The Gospel Light of Truth and Love (Elder Alan R. Walker, April 2021)|The Gospel Light of Truth and Love]] — Elder Alan R. Walker, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

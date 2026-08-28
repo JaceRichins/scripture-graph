@@ -60,7 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Beauty for Ashes The Healing Path of Forgiveness (Sister Kristin M. Yee, October 2022)|Beauty for Ashes: The Healing Path of Forgiveness]] — Sister Kristin M. Yee, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

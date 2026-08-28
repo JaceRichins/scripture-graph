@@ -61,7 +61,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Saving Ordinances Will Bring Us Marvelous Light (Elder Taniela B. Wakolo, April 2018)|Saving Ordinances Will Bring Us Marvelous Light]] — Elder Taniela B. Wakolo, 2018-April *(explicit citation)*
+- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

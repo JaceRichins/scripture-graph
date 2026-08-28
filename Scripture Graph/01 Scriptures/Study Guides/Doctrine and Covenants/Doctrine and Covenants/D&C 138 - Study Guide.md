@@ -86,7 +86,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
+- [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
+- [[The Vision of the Redemption of the Dead (President M. Russell Ballard, October 2018)|The Vision of the Redemption of the Dead]] — President M. Russell Ballard, 2018-October *(explicit citation)*
+- [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
+- [[Power to Overcome the Adversary (Elder Peter M. Johnson, October 2019)|Power to Overcome the Adversary]] — Elder Peter M. Johnson, 2019-October *(explicit citation)*
+- [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
+- [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
+- [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
+- [[Tested and Tempted—but Helped (Elder Hugo Montoya, October 2015)|Tested and Tempted—but Helped]] — Elder Hugo Montoya, 2015-October *(explicit citation)*
+- [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

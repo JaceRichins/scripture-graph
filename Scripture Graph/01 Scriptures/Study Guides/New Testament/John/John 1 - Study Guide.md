@@ -73,7 +73,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[But We Heeded Them Not (Elder David A. Bednar, April 2022)|But We Heeded Them Not]] — Elder David A. Bednar, 2022-April *(explicit citation)*
+- [[The Quorum A Place of Belonging (Elder Carl B. Cook, April 2019)|The Quorum: A Place of Belonging]] — Elder Carl B. Cook, 2019-April *(explicit citation)*
+- [[Sharing the Message of the Restoration and the Resurrection (Elder D. Todd Christofferson, April 2020)|Sharing the Message of the Restoration and the Resurrection]] — Elder D. Todd Christofferson, 2020-April *(explicit citation)*
+- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
+- [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

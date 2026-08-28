@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Bearing Witness of Jesus Christ in Word and Actions (Elder Adilson de Paula Parrella, October 2023)|Bearing Witness of Jesus Christ in Word and Actions]] — Elder Adilson de Paula Parrella, 2023-October *(explicit citation)*
+- [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
+- [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
+- [[The Correct Name of the Church (President Russell M. Nelson, October 2018)|The Correct Name of the Church]] — President Russell M. Nelson, 2018-October *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
+- [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

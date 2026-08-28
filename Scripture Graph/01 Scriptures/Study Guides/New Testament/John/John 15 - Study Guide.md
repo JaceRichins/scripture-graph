@@ -53,7 +53,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Seeking the Lord (Elder José A. Teixeira, April 2015)|Seeking the Lord]] — Elder José A. Teixeira, 2015-April *(explicit citation)*
+- [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
+- [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
+- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

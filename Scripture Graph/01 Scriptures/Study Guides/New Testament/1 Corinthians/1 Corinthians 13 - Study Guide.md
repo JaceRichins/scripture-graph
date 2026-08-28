@@ -52,7 +52,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
+- [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[I Will Bring the Light of the Gospel into My Home (Jean B. Bingham, October 2016)|I Will Bring the Light of the Gospel into My Home]] — Jean B. Bingham, 2016-October *(explicit citation)*
+- [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
+- [[Peacemakers Needed (President Russell M. Nelson, April 2023)|Peacemakers Needed]] — President Russell M. Nelson, 2023-April *(explicit citation)*
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
+- [[One in Christ (Elder Ulisses Soares, October 2018)|One in Christ]] — Elder Ulisses Soares, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

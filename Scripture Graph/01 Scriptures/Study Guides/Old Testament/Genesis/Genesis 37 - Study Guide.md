@@ -55,7 +55,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Answers to Prayer (Elder Brook P. Hales, April 2019)|Answers to Prayer]] — Elder Brook P. Hales, 2019-April *(explicit citation)*
+- [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
+- [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
+- [[For God So Loved Us (Elder Michael T. Ringwood, April 2022)|For God So Loved Us]] — Elder Michael T. Ringwood, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[But We Heeded Them Not (Elder David A. Bednar, April 2022)|But We Heeded Them Not]] — Elder David A. Bednar, 2022-April *(explicit citation)*
+- [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
+- [[Be Faithful, Not Faithless (Stephen W. Owen, October 2019)|Be Faithful, Not Faithless]] — Stephen W. Owen, 2019-October *(explicit citation)*
+- [[Fruit (Elder Neil L. Andersen, October 2019)|Fruit]] — Elder Neil L. Andersen, 2019-October *(explicit citation)*
+- [[Come unto Christ—Living as Latter-day Saints (Elder John A. McCune, April 2020)|Come unto Christ—Living as Latter-day Saints]] — Elder John A. McCune, 2020-April *(explicit citation)*
+- [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
+- [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
+- [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
+- [[Do I Believe (Bonnie L. Oscarson, April 2016)|Do I Believe?]] — Bonnie L. Oscarson, 2016-April *(explicit citation)*
+- [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

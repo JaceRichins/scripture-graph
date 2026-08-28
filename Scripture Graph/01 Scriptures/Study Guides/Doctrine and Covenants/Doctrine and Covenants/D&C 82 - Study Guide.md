@@ -75,7 +75,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026)|Jesus Christ Is the Way]] — Elder Brian J. Holmes, 2026-April *(explicit citation)*
+- [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
+- [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[For Him (Joy D. Jones, October 2018)|For Him]] — Joy D. Jones, 2018-October *(explicit citation)*
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
+- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
+- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[Giving Our Spirits Control over Our Bodies (President M. Russell Ballard, October 2019)|Giving Our Spirits Control over Our Bodies]] — President M. Russell Ballard, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -73,7 +73,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
+- [[Missionary Service Blessed My Life Forever (President M. Russell Ballard, April 2022)|Missionary Service Blessed My Life Forever]] — President M. Russell Ballard, 2022-April *(explicit citation)*
+- [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
+- [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
+- [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

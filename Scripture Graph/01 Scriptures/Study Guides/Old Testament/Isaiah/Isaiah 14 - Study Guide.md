@@ -52,7 +52,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Your Great Adventure (Elder Dieter F. Uchtdorf, October 2019)|Your Great Adventure]] — Elder Dieter F. Uchtdorf, 2019-October *(explicit citation)*
+- [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

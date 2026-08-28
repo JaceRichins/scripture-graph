@@ -59,7 +59,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
+- [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
+- [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
+- [[Becoming like Him (Elder Scott D. Whiting, October 2020)|Becoming like Him]] — Elder Scott D. Whiting, 2020-October *(explicit citation)*
+- [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
+- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[Words Matter (Elder Ronald A. Rasband, April 2024)|Words Matter]] — Elder Ronald A. Rasband, 2024-April *(explicit citation)*
+- [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -55,7 +55,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[The Wind Did Never Cease to Blow (Elder Aroldo B. Cavalcante, October 2024)|The Wind Did Never Cease to Blow]] — Elder Aroldo B. Cavalcante, 2024-October *(explicit citation)*
+- [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
+- [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
+- [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

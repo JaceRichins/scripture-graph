@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives (Elder Quentin L. Cook, April 2020)|The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives]] — Elder Quentin L. Cook, 2020-April *(explicit citation)*
+- [[Sustainable Societies (Elder D. Todd Christofferson, October 2020)|Sustainable Societies]] — Elder D. Todd Christofferson, 2020-October *(explicit citation)*
+- [[In Partnership with the Lord (Elder Ulisses Soares, October 2022)|In Partnership with the Lord]] — Elder Ulisses Soares, 2022-October *(explicit citation)*
+- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Be One with Christ (Elder Quentin L. Cook, April 2024)|Be One with Christ]] — Elder Quentin L. Cook, 2024-April *(explicit citation)*
+- [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
+- [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

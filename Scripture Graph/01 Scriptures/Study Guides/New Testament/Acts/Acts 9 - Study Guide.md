@@ -59,7 +59,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
+- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
+- [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
+- [[We Are His Children (Elder Christophe G. Giraud-Carrier, October 2023)|We Are His Children]] — Elder Christophe G. Giraud-Carrier, 2023-October *(explicit citation)*
+- [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
+- [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

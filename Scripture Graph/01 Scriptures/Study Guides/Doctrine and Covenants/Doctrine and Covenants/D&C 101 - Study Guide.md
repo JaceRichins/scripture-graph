@@ -66,7 +66,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
+- [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
+- [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

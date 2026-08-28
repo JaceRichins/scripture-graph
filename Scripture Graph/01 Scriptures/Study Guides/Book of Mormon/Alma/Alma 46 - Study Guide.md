@@ -74,7 +74,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[Honoring His Name (Lisa L. Harkness, October 2019)|Honoring His Name]] — Lisa L. Harkness, 2019-October *(explicit citation)*
+- [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
+- [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
+- [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

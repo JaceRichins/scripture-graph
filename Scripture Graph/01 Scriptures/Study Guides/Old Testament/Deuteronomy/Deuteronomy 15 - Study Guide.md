@@ -64,7 +64,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Second Great Commandment (President Russell M. Nelson, October 2019)|The Second Great Commandment]] — President Russell M. Nelson, 2019-October *(explicit citation)*
+- [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -54,7 +54,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
+- [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
+- [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
+- [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
+- [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
+- [[Divine Love in the Father’s Plan (President Dallin H. Oaks, April 2022)|Divine Love in the Father’s Plan]] — President Dallin H. Oaks, 2022-April *(explicit citation)*
+- [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
+- [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
+- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

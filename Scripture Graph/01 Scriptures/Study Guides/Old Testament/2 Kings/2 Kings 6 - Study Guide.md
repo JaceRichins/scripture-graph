@@ -57,7 +57,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Not Troubled (Elder Ronald A. Rasband, October 2018)|Be Not Troubled]] — Elder Ronald A. Rasband, 2018-October *(explicit citation)*
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[Eyes to See (Michelle D. Craig, October 2020)|Eyes to See]] — Michelle D. Craig, 2020-October *(explicit citation)*
+- [[Lord, Wilt Thou Cause That My Eyes May Be Opened (Elder W. Craig Zwick, October 2017)|Lord, Wilt Thou Cause That My Eyes May Be Opened]] — Elder W. Craig Zwick, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

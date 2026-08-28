@@ -68,7 +68,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[O How Great the Plan of Our God! (President Dieter F. Uchtdorf, October 2016)|O How Great the Plan of Our God!]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
+- [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
+- [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
+- [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
+- [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
+- [[Christlike Poise (Elder Mark A. Bragg, April 2023)|Christlike Poise]] — Elder Mark A. Bragg, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

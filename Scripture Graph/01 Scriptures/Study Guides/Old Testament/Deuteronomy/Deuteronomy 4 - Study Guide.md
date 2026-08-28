@@ -69,7 +69,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
+- [[Lest Thou Forget (Elder Ronald A. Rasband, October 2016)|Lest Thou Forget]] — Elder Ronald A. Rasband, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

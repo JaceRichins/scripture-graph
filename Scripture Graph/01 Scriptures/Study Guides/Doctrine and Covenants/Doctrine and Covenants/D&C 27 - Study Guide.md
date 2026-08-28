@@ -74,7 +74,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
+- [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
+- [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
+- [[Your Priesthood Playbook (Elder Gary E. Stevenson, April 2019)|Your Priesthood Playbook]] — Elder Gary E. Stevenson, 2019-April *(explicit citation)*
+- [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
+- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
+- [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -64,7 +64,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
+- [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
+- [[Christ Heals That Which Is Broken (Amy A. Wright, April 2022)|Christ Heals That Which Is Broken]] — Amy A. Wright, 2022-April *(explicit citation)*
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
+- [[Christlike Poise (Elder Mark A. Bragg, April 2023)|Christlike Poise]] — Elder Mark A. Bragg, 2023-April *(explicit citation)*
+- [[One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]] — Elder D. Todd Christofferson, 2023-April *(explicit citation)*
+- [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
+- [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

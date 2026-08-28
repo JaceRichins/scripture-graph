@@ -63,7 +63,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Come and Belong (Elder Dieter F. Uchtdorf, April 2020)|Come and Belong]] — Elder Dieter F. Uchtdorf, 2020-April *(explicit citation)*
+- [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
+- [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
+- [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
+- [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

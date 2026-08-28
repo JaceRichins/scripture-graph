@@ -54,7 +54,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[It’s Never Too Early and It’s Never Too Late (Elder Bradley D. Foster, October 2015)|It’s Never Too Early and It’s Never Too Late]] — Elder Bradley D. Foster, 2015-October *(explicit citation)*
+- [[Laying the Foundation of a Great Work (Elder Steven R. Bangerter, October 2018)|Laying the Foundation of a Great Work]] — Elder Steven R. Bangerter, 2018-October *(explicit citation)*
+- [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
+- [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

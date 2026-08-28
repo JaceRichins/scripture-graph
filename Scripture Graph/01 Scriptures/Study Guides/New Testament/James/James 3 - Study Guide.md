@@ -52,7 +52,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
+- [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

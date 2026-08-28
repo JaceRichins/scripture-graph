@@ -64,7 +64,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
+- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
+- [[Pure Truth, Pure Doctrine, and Pure Revelation (President Russell M. Nelson, October 2021)|Pure Truth, Pure Doctrine, and Pure Revelation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
+- [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
+- [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
+- [[“Here Am I, Send Me” (President Susan H. Porter, April 2026)|“Here Am I, Send Me”]] — President Susan H. Porter, 2026-April *(explicit citation)*
+- [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
+- [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
+- [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
+- [[Tested and Tempted—but Helped (Elder Hugo Montoya, October 2015)|Tested and Tempted—but Helped]] — Elder Hugo Montoya, 2015-October *(explicit citation)*
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
+- [[All Must Take upon Them the Name Given of the Father (Elder Paul B. Pieper, October 2018)|All Must Take upon Them the Name Given of the Father]] — Elder Paul B. Pieper, 2018-October *(explicit citation)*
+- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
+- [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
+- [[The Lord Jesus Christ Teaches Us to Pray (Elder Juan A. Uceda, October 2016)|The Lord Jesus Christ Teaches Us to Pray]] — Elder Juan A. Uceda, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -76,7 +76,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
+- [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
+- [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

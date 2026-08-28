@@ -59,7 +59,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Enduring Power (Elder Kelly R. Johnson, October 2020)|Enduring Power]] — Elder Kelly R. Johnson, 2020-October *(explicit citation)*
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
+- [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
+- [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
+- [[To Be a Follower of Christ (Elder Alfred Kyungu, October 2021)|To Be a Follower of Christ]] — Elder Alfred Kyungu, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -69,7 +69,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
+- [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
+- [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
+- [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
+- [[Enduring Power (Elder Kelly R. Johnson, October 2020)|Enduring Power]] — Elder Kelly R. Johnson, 2020-October *(explicit citation)*
+- [[Temples, Houses of the Lord Dotting the Earth (Elder Neil L. Andersen, April 2024)|Temples, Houses of the Lord Dotting the Earth]] — Elder Neil L. Andersen, 2024-April *(explicit citation)*
+- [[Family History and Temple Work Sealing and Healing (Elder Dale G. Renlund, April 2018)|Family History and Temple Work: Sealing and Healing]] — Elder Dale G. Renlund, 2018-April *(explicit citation)*
+- [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

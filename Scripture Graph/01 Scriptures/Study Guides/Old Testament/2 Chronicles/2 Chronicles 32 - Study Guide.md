@@ -68,7 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Remember Thy Suffering Saints, O Our God (Elder Anthony D. Perkins, October 2021)|Remember Thy Suffering Saints, O Our God]] — Elder Anthony D. Perkins, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

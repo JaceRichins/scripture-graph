@@ -58,7 +58,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Your Patriarchal Blessing—Inspired Direction from Heavenly Father (Elder Randall K. Bennett, April 2023)|Your Patriarchal Blessing—Inspired Direction from Heavenly Father]] — Elder Randall K. Bennett, 2023-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
+- [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
+- [[When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]] — Elder Kazuhiko Yamashita, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

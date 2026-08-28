@@ -62,7 +62,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
+- [[Infuriating Unfairness (Elder Dale G. Renlund, April 2021)|Infuriating Unfairness]] — Elder Dale G. Renlund, 2021-April *(explicit citation)*
+- [[Pressing toward the Mark (Elder Edward Dube, April 2021)|Pressing toward the Mark]] — Elder Edward Dube, 2021-April *(explicit citation)*
+- [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
+- [[The Lord Jesus Christ Teaches Us to Pray (Elder Juan A. Uceda, October 2016)|The Lord Jesus Christ Teaches Us to Pray]] — Elder Juan A. Uceda, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

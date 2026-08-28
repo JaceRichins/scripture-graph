@@ -67,7 +67,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
+- [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
+- [[For Him (Joy D. Jones, October 2018)|For Him]] — Joy D. Jones, 2018-October *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
+- [[Holiness to the Lord in Everyday Life (Elder Gerrit W. Gong, October 2024)|Holiness to the Lord in Everyday Life]] — Elder Gerrit W. Gong, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

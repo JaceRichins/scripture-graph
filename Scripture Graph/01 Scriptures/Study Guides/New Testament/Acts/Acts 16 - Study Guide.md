@@ -57,7 +57,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

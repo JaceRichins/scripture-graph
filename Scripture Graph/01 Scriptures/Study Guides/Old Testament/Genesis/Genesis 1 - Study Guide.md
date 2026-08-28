@@ -60,7 +60,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
+- [[A Faithful Search Rewarded (Elder Patricio M. Giuffra, October 2021)|A Faithful Search Rewarded]] — Elder Patricio M. Giuffra, 2021-October *(explicit citation)*
+- [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
+- [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[Words Matter (Elder Ronald A. Rasband, April 2024)|Words Matter]] — Elder Ronald A. Rasband, 2024-April *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
+- [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

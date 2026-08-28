@@ -60,7 +60,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[Fruit That Remains (Elder Matthew L. Carpenter, April 2024)|Fruit That Remains]] — Elder Matthew L. Carpenter, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

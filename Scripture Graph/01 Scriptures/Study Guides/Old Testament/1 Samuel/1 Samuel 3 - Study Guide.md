@@ -52,7 +52,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Child’s Guiding Gift (Mary R. Durham, April 2016)|A Child’s Guiding Gift]] — Mary R. Durham, 2016-April *(explicit citation)*
+- [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -57,7 +57,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Preparing for the Second Coming of Christ (Elder Christoffel Golden, October 2021)|Preparing for the Second Coming of Christ]] — Elder Christoffel Golden, 2021-October *(explicit citation)*
+- [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
+- [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
+- [[Behold! A Royal Army (Elder Ronald A. Rasband, April 2018)|Behold! A Royal Army]] — Elder Ronald A. Rasband, 2018-April *(explicit citation)*
+- [[Closing Remarks (President Russell M. Nelson, October 2019)|Closing Remarks]] — President Russell M. Nelson, 2019-October *(explicit citation)*
+- [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
+- [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

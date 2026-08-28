@@ -54,7 +54,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
+- [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
+- [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

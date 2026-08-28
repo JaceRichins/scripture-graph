@@ -52,7 +52,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
+- [[Family History and Temple Work Sealing and Healing (Elder Dale G. Renlund, April 2018)|Family History and Temple Work: Sealing and Healing]] — Elder Dale G. Renlund, 2018-April *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[Infuriating Unfairness (Elder Dale G. Renlund, April 2021)|Infuriating Unfairness]] — Elder Dale G. Renlund, 2021-April *(explicit citation)*
+- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[Charity—a Sign of True Discipleship (Elder Michael B. Strong, April 2025)|Charity—a Sign of True Discipleship]] — Elder Michael B. Strong, 2025-April *(explicit citation)*
+- [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

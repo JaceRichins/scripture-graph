@@ -53,7 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[For God So Loved Us (Elder Michael T. Ringwood, April 2022)|For God So Loved Us]] — Elder Michael T. Ringwood, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

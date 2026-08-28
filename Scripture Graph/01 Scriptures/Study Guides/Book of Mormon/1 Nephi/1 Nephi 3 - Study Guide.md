@@ -67,7 +67,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
+- [[The Language of the Gospel (Elder Valeri V. Cordón, April 2017)|The Language of the Gospel]] — Elder Valeri V. Cordón, 2017-April *(explicit citation)*
+- [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
+- [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
+- [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
+- [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
+- [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
+- [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
+- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
+- [[Covenant Women in Partnership with God (President Henry B. Eyring, October 2019)|Covenant Women in Partnership with God]] — President Henry B. Eyring, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

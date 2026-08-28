@@ -71,7 +71,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[Christ—Author and Finisher of Our Faith (Elder Eduardo F. Ortega, April 2026)|Christ—Author and Finisher of Our Faith]] — Elder Eduardo F. Ortega, 2026-April *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
+- [[Gather Together in One All Things in Christ (Elder David A. Bednar, October 2018)|Gather Together in One All Things in Christ]] — Elder David A. Bednar, 2018-October *(explicit citation)*
+- [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
+- [[The Powerful, Virtuous Cycle of the Doctrine of Christ (Elder Dale G. Renlund, April 2024)|The Powerful, Virtuous Cycle of the Doctrine of Christ]] — Elder Dale G. Renlund, 2024-April *(explicit citation)*
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

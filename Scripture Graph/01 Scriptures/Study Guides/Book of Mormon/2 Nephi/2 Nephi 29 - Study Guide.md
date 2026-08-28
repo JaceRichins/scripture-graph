@@ -65,7 +65,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
+- [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*
+- [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
+- [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -76,7 +76,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Simple Is the Doctrine of Jesus Christ (President Henry B. Eyring, October 2024)|Simple Is the Doctrine of Jesus Christ]] — President Henry B. Eyring, 2024-October *(explicit citation)*
+- [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
+- [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
+- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
+- [[All Must Take upon Them the Name Given of the Father (Elder Paul B. Pieper, October 2018)|All Must Take upon Them the Name Given of the Father]] — Elder Paul B. Pieper, 2018-October *(explicit citation)*
+- [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
+- [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
+- [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
+- [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
+- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -67,7 +67,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Turn On Your Light (Sharon Eubank, October 2017)|Turn On Your Light]] — Sharon Eubank, 2017-October *(explicit citation)*
+- [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
+- [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[The Great Plan (President Dallin H. Oaks, April 2020)|The Great Plan]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

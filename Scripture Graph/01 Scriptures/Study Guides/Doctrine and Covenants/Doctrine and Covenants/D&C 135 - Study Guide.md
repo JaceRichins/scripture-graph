@@ -56,7 +56,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
+- [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
+- [[How the Priesthood Blesses Youth (Enzo Serge Petelo, April 2020)|How the Priesthood Blesses Youth]] — Laudy Ruth Kaouk, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

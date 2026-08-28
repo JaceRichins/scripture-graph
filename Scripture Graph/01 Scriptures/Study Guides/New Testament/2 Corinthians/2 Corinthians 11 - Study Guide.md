@@ -56,7 +56,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Simplicity in Christ (Elder Michael Cziesla, October 2025)|Simplicity in Christ]] — Elder Michael Cziesla, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

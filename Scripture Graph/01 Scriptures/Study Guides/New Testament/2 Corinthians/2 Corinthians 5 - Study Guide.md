@@ -53,7 +53,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
+- [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
+- [[Fourth Floor, Last Door (President Dieter F. Uchtdorf, October 2016)|Fourth Floor, Last Door]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Bearers of Heavenly Light (President Dieter F. Uchtdorf, October 2017)|Bearers of Heavenly Light]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
+- [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
+- [[Deep and Lasting Conversion to Heavenly Father and the Lord Jesus Christ (Elder Quentin L. Cook, October 2018)|Deep and Lasting Conversion to Heavenly Father and the Lord Jesus Christ]] — Elder Quentin L. Cook, 2018-October *(explicit citation)*
+- [[Gather Together in One All Things in Christ (Elder David A. Bednar, October 2018)|Gather Together in One All Things in Christ]] — Elder David A. Bednar, 2018-October *(explicit citation)*
+- [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

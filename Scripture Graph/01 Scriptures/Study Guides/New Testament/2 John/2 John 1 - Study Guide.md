@@ -53,7 +53,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
+- [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

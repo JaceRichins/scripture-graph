@@ -61,7 +61,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
+- [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
+- [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
+- [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
+- [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
+- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -62,7 +62,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
+- [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
+- [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

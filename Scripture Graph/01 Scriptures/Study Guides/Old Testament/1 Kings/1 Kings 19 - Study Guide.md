@@ -59,7 +59,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
+- [[Promptings of the Spirit (Elder Gary E. Stevenson, October 2023)|Promptings of the Spirit]] — Elder Gary E. Stevenson, 2023-October *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

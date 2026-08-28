@@ -70,7 +70,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Opposition in All Things (Elder Mathias Held, April 2024)|Opposition in All Things]] — Elder Mathias Held, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -53,7 +53,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
+- [[Pure Truth, Pure Doctrine, and Pure Revelation (President Russell M. Nelson, October 2021)|Pure Truth, Pure Doctrine, and Pure Revelation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

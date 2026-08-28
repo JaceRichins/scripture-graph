@@ -58,7 +58,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
+- [[Love, Share, Invite (Elder Gary E. Stevenson, April 2022)|Love, Share, Invite]] — Elder Gary E. Stevenson, 2022-April *(explicit citation)*
+- [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
+- [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
+- [[Jesus Christ Is Relief (President Camille N. Johnson, April 2023)|Jesus Christ Is Relief]] — President Camille N. Johnson, 2023-April *(explicit citation)*
+- [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
+- [[Days Never to Be Forgotten (Elder Gary E. Stevenson, October 2024)|Days Never to Be Forgotten]] — Elder Gary E. Stevenson, 2024-October *(explicit citation)*
+- [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

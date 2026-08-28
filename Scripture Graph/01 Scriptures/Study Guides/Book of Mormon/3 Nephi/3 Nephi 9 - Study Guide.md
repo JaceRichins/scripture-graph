@@ -71,7 +71,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
+- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[Choose Jesus Christ as Your Guide (Elder Edward B. Rowe, April 2026)|Choose Jesus Christ as Your Guide]] — Elder Edward B. Rowe, 2026-April *(explicit citation)*
+- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
+- [[Yielding Our Hearts to God (Neill F. Marriott, October 2015)|Yielding Our Hearts to God]] — Neill F. Marriott, 2015-October *(explicit citation)*
+- [[The Master Healer (Carole M. Stephens, October 2016)|The Master Healer]] — Carole M. Stephens, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -70,7 +70,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“That I Might Draw All Men unto Me” (Elder Dale G. Renlund, April 2016)|“That I Might Draw All Men unto Me”]] — Elder Dale G. Renlund, 2016-April *(explicit citation)*
+- [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
+- [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
+- [[The Eternal Perspective of the Gospel (Elder Rafael E. Pino, April 2015)|The Eternal Perspective of the Gospel]] — Elder Rafael E. Pino, 2015-April *(explicit citation)*
+- [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
+- [[After the Trial of Our Faith (Elder Jorge M. Alvarado, October 2019)|After the Trial of Our Faith]] — Elder Jorge M. Alvarado, 2019-October *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

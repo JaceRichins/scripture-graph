@@ -63,7 +63,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
+- [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
+- [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
+- [[Be Thou Clean (Elder D. Martin Goury, October 2024)|Be Thou Clean]] — Elder D. Martin Goury, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

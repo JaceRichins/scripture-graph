@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Our Heavenly Guidance System (Elder Sergio R. Vargas, April 2025)|Our Heavenly Guidance System]] — Elder Sergio R. Vargas, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

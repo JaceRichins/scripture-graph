@@ -63,7 +63,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[There Is Power in the Book (Elder LeGrand R. Curtis Jr., October 2016)|There Is Power in the Book]] — Elder LeGrand R. Curtis Jr., 2016-October *(explicit citation)*
+- [[The Book of Mormon What Would Your Life Be Like without It (President Russell M. Nelson, October 2017)|The Book of Mormon: What Would Your Life Be Like without It?]] — President Russell M. Nelson, 2017-October *(explicit citation)*
+- [[“Come, Follow Me” (President Russell M. Nelson, April 2019)|“Come, Follow Me”]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
+- [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
+- [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

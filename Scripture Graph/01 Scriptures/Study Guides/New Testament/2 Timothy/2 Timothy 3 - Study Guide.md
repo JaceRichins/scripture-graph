@@ -59,7 +59,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
+- [[Plain and Precious Truths (Elder Gary E. Stevenson, October 2015)|Plain and Precious Truths]] — Elder Gary E. Stevenson, 2015-October *(explicit citation)*
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[Rise Up in Strength, Sisters in Zion (Bonnie L. Oscarson, October 2016)|Rise Up in Strength, Sisters in Zion]] — Bonnie L. Oscarson, 2016-October *(explicit citation)*
+- [[Be Not Troubled (Elder Ronald A. Rasband, October 2018)|Be Not Troubled]] — Elder Ronald A. Rasband, 2018-October *(explicit citation)*
+- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -67,7 +67,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
+- [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
+- [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
+- [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

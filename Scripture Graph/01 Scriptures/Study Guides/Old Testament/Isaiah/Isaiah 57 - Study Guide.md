@@ -52,7 +52,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
+- [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
+- [[The Healing Power of Jesus Christ (Cristina B. Franco, October 2020)|The Healing Power of Jesus Christ]] — Cristina B. Franco, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

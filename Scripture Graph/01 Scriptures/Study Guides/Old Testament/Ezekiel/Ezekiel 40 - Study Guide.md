@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Family History and Temple Work Sealing and Healing (Elder Dale G. Renlund, April 2018)|Family History and Temple Work: Sealing and Healing]] — Elder Dale G. Renlund, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -62,7 +62,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
+- [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
+- [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
+- [[Conference Report, October 1923 (General Conference (full report), October 1923)|Conference Report, October 1923]] — General Conference (full report), 1923-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

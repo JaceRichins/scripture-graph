@@ -64,7 +64,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[Women and Gospel Learning in the Home (President Henry B. Eyring, October 2018)|Women and Gospel Learning in the Home]] — President Henry B. Eyring, 2018-October *(explicit citation)*
+- [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
+- [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -76,7 +76,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Come unto Christ—Living as Latter-day Saints (Elder John A. McCune, April 2020)|Come unto Christ—Living as Latter-day Saints]] — Elder John A. McCune, 2020-April *(explicit citation)*
+- [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
+- [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
+- [[Embrace the Lord’s Gift of Repentance (Elder Jorge M. Alvarado, October 2024)|Embrace the Lord’s Gift of Repentance]] — Elder Jorge M. Alvarado, 2024-October *(explicit citation)*
+- [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

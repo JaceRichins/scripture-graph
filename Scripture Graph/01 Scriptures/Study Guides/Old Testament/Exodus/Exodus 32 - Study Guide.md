@@ -67,7 +67,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
+- [[More Than a Hero (Bishop W. Christopher Waddell, October 2023)|More Than a Hero]] — Bishop W. Christopher Waddell, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

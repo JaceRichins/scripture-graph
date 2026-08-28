@@ -55,7 +55,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Is Not This the Fast That I Have Chosen” (President Henry B. Eyring, April 2015)|“Is Not This the Fast That I Have Chosen?”]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
+- [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
+- [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[God Is at the Helm (Elder M. Russell Ballard, October 2015)|God Is at the Helm]] — Elder M. Russell Ballard, 2015-October *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[Abiding in God and Repairing the Breach (Neill F. Marriott, October 2017)|Abiding in God and Repairing the Breach]] — Neill F. Marriott, 2017-October *(explicit citation)*
+- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[The Second Great Commandment (President Russell M. Nelson, October 2019)|The Second Great Commandment]] — President Russell M. Nelson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

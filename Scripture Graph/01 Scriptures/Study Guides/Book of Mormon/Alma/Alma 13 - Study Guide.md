@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
+- [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
+- [[Repentance Is Always Positive (Stephen W. Owen, October 2017)|Repentance Is Always Positive]] — Stephen W. Owen, 2017-October *(explicit citation)*
+- [[The Book of Mormon What Would Your Life Be Like without It (President Russell M. Nelson, October 2017)|The Book of Mormon: What Would Your Life Be Like without It?]] — President Russell M. Nelson, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

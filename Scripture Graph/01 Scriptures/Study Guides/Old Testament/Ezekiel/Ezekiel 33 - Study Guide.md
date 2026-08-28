@@ -66,7 +66,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
+- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
+- [[Latter-day Saints Keep on Trying (Elder Dale G. Renlund, April 2015)|Latter-day Saints Keep on Trying]] — Elder Dale G. Renlund, 2015-April *(explicit citation)*
+- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
+- [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
+- [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
+- [[Follow the Prophet; He Knows the Way (Elder Michael John U. Teh, April 2026)|Follow the Prophet; He Knows the Way]] — Elder Michael John U. Teh, 2026-April *(explicit citation)*
+- [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

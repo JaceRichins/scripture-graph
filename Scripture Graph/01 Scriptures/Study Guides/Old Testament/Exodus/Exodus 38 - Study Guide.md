@@ -78,7 +78,7 @@ The offered materials may invite comparison with [[Consecration]], and the order
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Now Is the Time (President Russell M. Nelson, April 2022)|Now Is the Time]] — President Russell M. Nelson, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

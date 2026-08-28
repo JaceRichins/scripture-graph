@@ -64,7 +64,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[Conference Report, October 1903 (General Conference (full report), October 1903)|Conference Report, October 1903]] — General Conference (full report), 1903-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

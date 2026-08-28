@@ -68,7 +68,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
+- [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[Conference Report, April 1898 (General Conference (full report), April 1898)|Conference Report, April 1898]] — General Conference (full report), 1898-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

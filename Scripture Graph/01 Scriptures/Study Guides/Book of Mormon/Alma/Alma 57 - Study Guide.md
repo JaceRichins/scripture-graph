@@ -66,7 +66,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
+- [[God Loves All His Children (Elder Gregorio E. Casillas, October 2024)|God Loves All His Children]] — Elder Gregorio E. Casillas, 2024-October *(explicit citation)*
+- [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

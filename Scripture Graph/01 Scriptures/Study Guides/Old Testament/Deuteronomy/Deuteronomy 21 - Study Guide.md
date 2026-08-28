@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Prodigal and the Road That Leads Home (Elder Dieter F. Uchtdorf, October 2023)|The Prodigal and the Road That Leads Home]] — Elder Dieter F. Uchtdorf, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

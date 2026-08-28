@@ -69,7 +69,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Heart of a Prophet (Elder Gary E. Stevenson, April 2018)|The Heart of a Prophet]] — Elder Gary E. Stevenson, 2018-April *(explicit citation)*
+- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[About His Business (Elder Patrick Kearon, April 2026)|About His Business]] — Elder Patrick Kearon, 2026-April *(explicit citation)*
+- [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

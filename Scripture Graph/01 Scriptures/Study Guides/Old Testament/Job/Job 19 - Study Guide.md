@@ -52,7 +52,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
+- [[Becoming like Him (Elder Scott D. Whiting, October 2020)|Becoming like Him]] — Elder Scott D. Whiting, 2020-October *(explicit citation)*
+- [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
+- [[Just Keep Going—with Faith (Elder Carl B. Cook, April 2023)|Just Keep Going—with Faith]] — Elder Carl B. Cook, 2023-April *(explicit citation)*
+- [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -63,7 +63,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[The Prodigal and the Road That Leads Home (Elder Dieter F. Uchtdorf, October 2023)|The Prodigal and the Road That Leads Home]] — Elder Dieter F. Uchtdorf, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

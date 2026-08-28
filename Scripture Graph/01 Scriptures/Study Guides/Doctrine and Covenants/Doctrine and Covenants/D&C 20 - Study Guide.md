@@ -72,7 +72,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be One with Christ (Elder Quentin L. Cook, April 2024)|Be One with Christ]] — Elder Quentin L. Cook, 2024-April *(explicit citation)*
+- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Holiness to the Lord in Everyday Life (Elder Gerrit W. Gong, October 2024)|Holiness to the Lord in Everyday Life]] — Elder Gerrit W. Gong, 2024-October *(explicit citation)*
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[Emissaries to the Church (Elder Jeffrey R. Holland, October 2016)|Emissaries to the Church]] — Elder Jeffrey R. Holland, 2016-October *(explicit citation)*
+- [[All Must Take upon Them the Name Given of the Father (Elder Paul B. Pieper, October 2018)|All Must Take upon Them the Name Given of the Father]] — Elder Paul B. Pieper, 2018-October *(explicit citation)*
+- [[Essential Conversations (Joy D. Jones, April 2021)|Essential Conversations]] — Joy D. Jones, 2021-April *(explicit citation)*
+- [[The Power of Jesus Christ in Our Lives Every Day (Elder Joaquin E. Costa, October 2023)|The Power of Jesus Christ in Our Lives Every Day]] — Elder Joaquin E. Costa, 2023-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

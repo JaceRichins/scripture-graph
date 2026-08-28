@@ -71,7 +71,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
+- [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
+- [[He Could Heal Me! (Elder Peter F. Meurs, April 2023)|He Could Heal Me!]] — Elder Peter F. Meurs, 2023-April *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[There Is Power in the Book (Elder LeGrand R. Curtis Jr., October 2016)|There Is Power in the Book]] — Elder LeGrand R. Curtis Jr., 2016-October *(explicit citation)*
+- [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
+- [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

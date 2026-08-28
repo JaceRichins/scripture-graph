@@ -52,7 +52,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[Be an Example and a Light (President Thomas S. Monson, October 2015)|Be an Example and a Light]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
+- [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
+- [[Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]] — President Russell M. Nelson, 2023-October *(explicit citation)*
+- [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*
+- [[Inspired Ministering (President Henry B. Eyring, April 2018)|Inspired Ministering]] — President Henry B. Eyring, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

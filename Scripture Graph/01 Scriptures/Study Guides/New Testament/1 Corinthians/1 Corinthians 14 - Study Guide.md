@@ -55,7 +55,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Let the Clarion Trumpet Sound (Elder Gregory A. Schwitzer, October 2015)|Let the Clarion Trumpet Sound]] — Elder Gregory A. Schwitzer, 2015-October *(explicit citation)*
+- [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
+- [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
+- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

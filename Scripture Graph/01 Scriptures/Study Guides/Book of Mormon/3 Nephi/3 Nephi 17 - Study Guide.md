@@ -65,7 +65,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[He Could Heal Me! (Elder Peter F. Meurs, April 2023)|He Could Heal Me!]] — Elder Peter F. Meurs, 2023-April *(explicit citation)*
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[Come unto Christ and Don’t Come Alone (Bonnie H. Cordon, October 2021)|Come unto Christ and Don’t Come Alone]] — Bonnie H. Cordon, 2021-October *(explicit citation)*
+- [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
+- [[Charity—a Sign of True Discipleship (Elder Michael B. Strong, April 2025)|Charity—a Sign of True Discipleship]] — Elder Michael B. Strong, 2025-April *(explicit citation)*
+- [[It’s Never Too Early and It’s Never Too Late (Elder Bradley D. Foster, October 2015)|It’s Never Too Early and It’s Never Too Late]] — Elder Bradley D. Foster, 2015-October *(explicit citation)*
+- [[Just as He Did (Bishop W. Christopher Waddell, April 2019)|Just as He Did]] — Bishop W. Christopher Waddell, 2019-April *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
+- [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

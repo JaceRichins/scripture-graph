@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
+- [[Gratitude on the Sabbath Day (President Henry B. Eyring, October 2016)|Gratitude on the Sabbath Day]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
+- [[The True, Pure, and Simple Gospel of Jesus Christ (President M. Russell Ballard, April 2019)|The True, Pure, and Simple Gospel of Jesus Christ]] — President M. Russell Ballard, 2019-April *(explicit citation)*
+- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
+- [[Our Earthly Stewardship (Bishop Gérald Caussé, October 2022)|Our Earthly Stewardship]] — Bishop Gérald Caussé, 2022-October *(explicit citation)*
+- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
+- [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
+- [[The Powerful, Virtuous Cycle of the Doctrine of Christ (Elder Dale G. Renlund, April 2024)|The Powerful, Virtuous Cycle of the Doctrine of Christ]] — Elder Dale G. Renlund, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

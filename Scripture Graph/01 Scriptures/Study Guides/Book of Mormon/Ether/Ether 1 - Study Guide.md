@@ -68,7 +68,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[Conference Report, April 1908 (General Conference (full report), April 1908)|Conference Report, April 1908]] — General Conference (full report), 1908-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

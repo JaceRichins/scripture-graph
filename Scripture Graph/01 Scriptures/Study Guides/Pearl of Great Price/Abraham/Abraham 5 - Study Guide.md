@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

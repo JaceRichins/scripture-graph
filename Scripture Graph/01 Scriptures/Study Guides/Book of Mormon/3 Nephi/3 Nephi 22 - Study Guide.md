@@ -56,7 +56,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
+- [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
+- [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
+- [[Faithful to the End (Sister Andrea Muñoz Spannaus, April 2024)|Faithful to the End]] — Sister Andrea Muñoz Spannaus, 2024-April *(explicit citation)*
+- [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
+- [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -56,7 +56,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[Hold on Thy Way (Elder Koichi Aoyagi, October 2015)|Hold on Thy Way]] — Elder Koichi Aoyagi, 2015-October *(explicit citation)*
+- [[A Child’s Guiding Gift (Mary R. Durham, April 2016)|A Child’s Guiding Gift]] — Mary R. Durham, 2016-April *(explicit citation)*
+- [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
+- [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
+- [[Then Jesus Beholding Him Loved Him (Elder S. Mark Palmer, April 2017)|Then Jesus Beholding Him Loved Him]] — Elder S. Mark Palmer, 2017-April *(explicit citation)*
+- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

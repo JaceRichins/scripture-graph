@@ -52,7 +52,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[Come and Belong (Elder Dieter F. Uchtdorf, April 2020)|Come and Belong]] — Elder Dieter F. Uchtdorf, 2020-April *(explicit citation)*
+- [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
+- [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
+- [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

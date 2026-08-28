@@ -54,7 +54,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[A Good Foundation against the Time to Come (Elder Gary E. Stevenson, April 2020)|A Good Foundation against the Time to Come]] — Elder Gary E. Stevenson, 2020-April *(explicit citation)*
+- [[Come and Belong (Elder Dieter F. Uchtdorf, April 2020)|Come and Belong]] — Elder Dieter F. Uchtdorf, 2020-April *(explicit citation)*
+- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

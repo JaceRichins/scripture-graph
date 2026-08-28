@@ -66,7 +66,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]] — President Russell M. Nelson, 2018-October *(explicit citation)*
+- [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
+- [[Covenant Confidence through Jesus Christ (Elder Ulisses Soares, April 2024)|Covenant Confidence through Jesus Christ]] — Elder Ulisses Soares, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -54,7 +54,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[One Percent Better (Elder Michael A. Dunn, October 2021)|One Percent Better]] — Elder Michael A. Dunn, 2021-October *(explicit citation)*
+- [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

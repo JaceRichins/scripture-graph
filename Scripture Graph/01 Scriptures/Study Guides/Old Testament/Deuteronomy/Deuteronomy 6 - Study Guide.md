@@ -64,7 +64,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[A Child’s Guiding Gift (Mary R. Durham, April 2016)|A Child’s Guiding Gift]] — Mary R. Durham, 2016-April *(explicit citation)*
+- [[Laying the Foundation of a Great Work (Elder Steven R. Bangerter, October 2018)|Laying the Foundation of a Great Work]] — Elder Steven R. Bangerter, 2018-October *(explicit citation)*
+- [[Our Campfire of Faith (Elder Gerrit W. Gong, October 2018)|Our Campfire of Faith]] — Elder Gerrit W. Gong, 2018-October *(explicit citation)*
+- [[The True, Pure, and Simple Gospel of Jesus Christ (President M. Russell Ballard, April 2019)|The True, Pure, and Simple Gospel of Jesus Christ]] — President M. Russell Ballard, 2019-April *(explicit citation)*
+- [[Great Love for Our Father’s Children (Elder Quentin L. Cook, April 2019)|Great Love for Our Father’s Children]] — Elder Quentin L. Cook, 2019-April *(explicit citation)*
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
+- [[Becoming More in Christ The Parable of the Slope (Elder Clark G. Gilbert, October 2021)|Becoming More in Christ: The Parable of the Slope]] — Elder Clark G. Gilbert, 2021-October *(explicit citation)*
+- [[Finding Personal Peace (President Henry B. Eyring, April 2023)|Finding Personal Peace]] — President Henry B. Eyring, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

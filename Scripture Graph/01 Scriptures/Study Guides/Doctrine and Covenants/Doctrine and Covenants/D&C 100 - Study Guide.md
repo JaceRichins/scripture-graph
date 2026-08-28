@@ -63,7 +63,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
+- [[Don’t Look Around, Look Up! (Elder Yoon Hwan Choi, April 2017)|Don’t Look Around, Look Up!]] — Elder Yoon Hwan Choi, 2017-April *(explicit citation)*
+- [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
+- [[Sustainable Societies (Elder D. Todd Christofferson, October 2020)|Sustainable Societies]] — Elder D. Todd Christofferson, 2020-October *(explicit citation)*
+- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[Just Keep Going—with Faith (Elder Carl B. Cook, April 2023)|Just Keep Going—with Faith]] — Elder Carl B. Cook, 2023-April *(explicit citation)*
+- [[“Draw Near unto Me” (President Henry B. Eyring, April 2025)|“Draw Near unto Me”]] — President Henry B. Eyring, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

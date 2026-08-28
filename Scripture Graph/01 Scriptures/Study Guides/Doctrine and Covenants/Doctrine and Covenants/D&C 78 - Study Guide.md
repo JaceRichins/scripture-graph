@@ -61,7 +61,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
+- [[Gratitude on the Sabbath Day (President Henry B. Eyring, October 2016)|Gratitude on the Sabbath Day]] — President Henry B. Eyring, 2016-October *(explicit citation)*
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
+- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[Hearts Knit Together (Elder Gary E. Stevenson, April 2021)|Hearts Knit Together]] — Elder Gary E. Stevenson, 2021-April *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Pure Truth, Pure Doctrine, and Pure Revelation (President Russell M. Nelson, October 2021)|Pure Truth, Pure Doctrine, and Pure Revelation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

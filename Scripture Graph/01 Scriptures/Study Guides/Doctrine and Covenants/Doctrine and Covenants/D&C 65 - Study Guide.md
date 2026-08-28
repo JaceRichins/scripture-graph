@@ -59,7 +59,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
+- [[A Witness of God (Elder Neil L. Andersen, October 2016)|A Witness of God]] — Elder Neil L. Andersen, 2016-October *(explicit citation)*
+- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
+- [[It Is Wisdom in the Lord That We Should Have the Book of Mormon (President Mark L. Pace, April 2024)|It Is Wisdom in the Lord That We Should Have the Book of Mormon]] — President Mark L. Pace, 2024-April *(explicit citation)*
+- [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
+- [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
+- [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

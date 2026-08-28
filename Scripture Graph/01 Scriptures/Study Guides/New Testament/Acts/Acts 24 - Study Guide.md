@@ -54,7 +54,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Correct Name of the Church (President Russell M. Nelson, October 2018)|The Correct Name of the Church]] — President Russell M. Nelson, 2018-October *(explicit citation)*
+- [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

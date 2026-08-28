@@ -68,7 +68,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[To the Rescue We Can Do It (Elder Mervyn B. Arnold, April 2016)|To the Rescue: We Can Do It]] — Elder Mervyn B. Arnold, 2016-April *(explicit citation)*
+- [[The Wind Did Never Cease to Blow (Elder Aroldo B. Cavalcante, October 2024)|The Wind Did Never Cease to Blow]] — Elder Aroldo B. Cavalcante, 2024-October *(explicit citation)*
+- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
+- [[Prophets Speak by the Power of the Holy Spirit (Elder Ulisses Soares, April 2018)|Prophets Speak by the Power of the Holy Spirit]] — Elder Ulisses Soares, 2018-April *(explicit citation)*
+- [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

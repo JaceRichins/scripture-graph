@@ -60,7 +60,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Conference Report, April 1927 (General Conference (full report), April 1927)|Conference Report, April 1927]] — General Conference (full report), 1927-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

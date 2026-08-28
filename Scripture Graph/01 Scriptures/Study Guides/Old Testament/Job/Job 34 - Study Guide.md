@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Beware the Second Temptation (Elder Scott D. Whiting, April 2025)|Beware the Second Temptation]] — Elder Scott D. Whiting, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -52,7 +52,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
+- [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
+- [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
+- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
+- [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
+- [[Hold on Thy Way (Elder Koichi Aoyagi, October 2015)|Hold on Thy Way]] — Elder Koichi Aoyagi, 2015-October *(explicit citation)*
+- [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

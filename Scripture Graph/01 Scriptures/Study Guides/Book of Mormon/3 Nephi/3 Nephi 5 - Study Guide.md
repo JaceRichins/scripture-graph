@@ -69,7 +69,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
+- [[Found through the Power of the Book of Mormon (Elder Rubén V. Alliaud, October 2019)|Found through the Power of the Book of Mormon]] — Elder Rubén V. Alliaud, 2019-October *(explicit citation)*
+- [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
+- [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
+- [[Holiness to the Lord in Everyday Life (Elder Gerrit W. Gong, October 2024)|Holiness to the Lord in Everyday Life]] — Elder Gerrit W. Gong, 2024-October *(explicit citation)*
+- [[Encounter at the Empty Tomb (President Dieter F. Uchtdorf, April 2026)|Encounter at the Empty Tomb]] — President Dieter F. Uchtdorf, 2026-April *(explicit citation)*
+- [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
+- [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -58,7 +58,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
+- [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
+- [[Courage to Proclaim the Truth (Elder Denelson Silva, October 2022)|Courage to Proclaim the Truth]] — Elder Denelson Silva, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

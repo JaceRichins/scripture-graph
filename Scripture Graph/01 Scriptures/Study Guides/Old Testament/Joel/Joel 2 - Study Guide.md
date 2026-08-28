@@ -57,7 +57,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[He Will Place You on His Shoulders and Carry You Home (President Dieter F. Uchtdorf, April 2016)|He Will Place You on His Shoulders and Carry You Home]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

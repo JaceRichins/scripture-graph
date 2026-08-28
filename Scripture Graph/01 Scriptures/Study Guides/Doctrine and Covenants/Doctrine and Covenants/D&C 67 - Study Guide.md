@@ -56,7 +56,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
+- [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

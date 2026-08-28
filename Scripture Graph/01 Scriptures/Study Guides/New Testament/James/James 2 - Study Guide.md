@@ -58,7 +58,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[He Will Place You on His Shoulders and Carry You Home (President Dieter F. Uchtdorf, April 2016)|He Will Place You on His Shoulders and Carry You Home]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
+- [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
+- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
+- [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
+- [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
+- [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

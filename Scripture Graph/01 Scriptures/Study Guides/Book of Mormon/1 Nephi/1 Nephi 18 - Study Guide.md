@@ -62,7 +62,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[Favored of the Lord in All My Days (Elder Moisés Villanueva, October 2021)|Favored of the Lord in All My Days]] — Elder Moisés Villanueva, 2021-October *(explicit citation)*
+- [[The Correct Name of the Church (President Russell M. Nelson, October 2018)|The Correct Name of the Church]] — President Russell M. Nelson, 2018-October *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
+- [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

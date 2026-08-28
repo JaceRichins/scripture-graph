@@ -61,7 +61,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
+- [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*
+- [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[Gathering the Family of God (President Henry B. Eyring, April 2017)|Gathering the Family of God]] — President Henry B. Eyring, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

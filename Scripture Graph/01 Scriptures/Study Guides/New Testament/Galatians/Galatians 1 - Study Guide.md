@@ -58,7 +58,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
+- [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

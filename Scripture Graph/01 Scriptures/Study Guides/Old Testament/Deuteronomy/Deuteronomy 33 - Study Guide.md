@@ -54,7 +54,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
+- [[Divine Authority, Sublime Young Men (President Steven J. Lund, April 2025)|Divine Authority, Sublime Young Men]] — President Steven J. Lund, 2025-April *(explicit citation)*
+- [[Conference Report, October 1918 (General Conference (full report), October 1918)|Conference Report, October 1918]] — General Conference (full report), 1918-October *(explicit citation)*
+- [[Conference Report, April 1928 (General Conference (full report), April 1928)|Conference Report, April 1928]] — General Conference (full report), 1928-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

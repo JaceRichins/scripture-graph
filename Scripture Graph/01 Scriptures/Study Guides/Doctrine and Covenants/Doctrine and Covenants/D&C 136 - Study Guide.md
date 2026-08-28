@@ -71,7 +71,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Gather Together in One All Things in Christ (Elder David A. Bednar, October 2018)|Gather Together in One All Things in Christ]] — Elder David A. Bednar, 2018-October *(explicit citation)*
+- [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
+- [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
+- [[Light Cleaveth unto Light (Elder Timothy J. Dyches, April 2021)|Light Cleaveth unto Light]] — Elder Timothy J. Dyches, 2021-April *(explicit citation)*
+- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

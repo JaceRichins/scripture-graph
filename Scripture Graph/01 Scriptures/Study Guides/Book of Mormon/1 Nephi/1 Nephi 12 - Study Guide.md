@@ -61,7 +61,15 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
+- [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
+- [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
+- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
+- [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
+- [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
+- [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

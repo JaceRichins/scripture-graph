@@ -60,7 +60,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
+- [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

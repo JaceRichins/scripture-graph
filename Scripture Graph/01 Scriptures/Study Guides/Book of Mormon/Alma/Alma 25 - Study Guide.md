@@ -70,7 +70,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Seeing More of Jesus Christ in Our Lives (Sister Tracy Y. Browning, October 2022)|Seeing More of Jesus Christ in Our Lives]] — Sister Tracy Y. Browning, 2022-October *(explicit citation)*
+- [[Peacemakers Needed (President Russell M. Nelson, April 2023)|Peacemakers Needed]] — President Russell M. Nelson, 2023-April *(explicit citation)*
+- [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

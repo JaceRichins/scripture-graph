@@ -54,7 +54,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
+- [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
+- [[Shepherding Souls (Elder Gary E. Stevenson, October 2018)|Shepherding Souls]] — Elder Gary E. Stevenson, 2018-October *(explicit citation)*
+- [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
+- [[Come unto Christ and Don’t Come Alone (Bonnie H. Cordon, October 2021)|Come unto Christ and Don’t Come Alone]] — Bonnie H. Cordon, 2021-October *(explicit citation)*
+- [[One Percent Better (Elder Michael A. Dunn, October 2021)|One Percent Better]] — Elder Michael A. Dunn, 2021-October *(explicit citation)*
+- [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
+- [[The Lord Jesus Christ Teaches Us to Minister (Elder Juan A. Uceda, April 2023)|The Lord Jesus Christ Teaches Us to Minister]] — Elder Juan A. Uceda, 2023-April *(explicit citation)*
+- [[Right Before Our Eyes (Elder Ronald A. Rasband, April 2025)|Right Before Our Eyes]] — Elder Ronald A. Rasband, 2025-April *(explicit citation)*
+- [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

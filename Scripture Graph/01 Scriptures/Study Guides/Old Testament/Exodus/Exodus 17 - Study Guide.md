@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Faith A Bond of Trust and Loyalty (Elder Sandino Roman, April 2025)|Faith: A Bond of Trust and Loyalty]] — Elder Sandino Roman, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

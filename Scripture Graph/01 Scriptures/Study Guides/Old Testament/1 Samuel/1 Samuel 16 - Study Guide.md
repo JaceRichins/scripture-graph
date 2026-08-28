@@ -54,7 +54,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Master Healer (Carole M. Stephens, October 2016)|The Master Healer]] — Carole M. Stephens, 2016-October *(explicit citation)*
+- [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
+- [[The Savior’s Abiding Compassion (Elder Ulisses Soares, October 2021)|The Savior’s Abiding Compassion]] — Elder Ulisses Soares, 2021-October *(explicit citation)*
+- [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
+- [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
+- [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
+- [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[We Are His Children (Elder Christophe G. Giraud-Carrier, October 2023)|We Are His Children]] — Elder Christophe G. Giraud-Carrier, 2023-October *(explicit citation)*
+- [[“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025)|“By This All Will Know That You Are My Disciples”]] — Elder Dieter F. Uchtdorf, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -52,7 +52,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Even as Christ Forgives You, So Also Do Ye (Elder Larry J. Echo Hawk, April 2018)|Even as Christ Forgives You, So Also Do Ye]] — Elder Larry J. Echo Hawk, 2018-April *(explicit citation)*
+- [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
+- [[Eternal Families (President Henry B. Eyring, April 2016)|Eternal Families]] — President Henry B. Eyring, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

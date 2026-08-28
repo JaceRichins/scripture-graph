@@ -59,7 +59,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
+- [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
+- [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
+- [[Certain Women (Linda K. Burton, April 2017)|Certain Women]] — Linda K. Burton, 2017-April *(explicit citation)*
+- [[“Come, Follow Me” (President Russell M. Nelson, April 2019)|“Come, Follow Me”]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
+- [[Favored of the Lord in All My Days (Elder Moisés Villanueva, October 2021)|Favored of the Lord in All My Days]] — Elder Moisés Villanueva, 2021-October *(explicit citation)*
+- [[Remember Thy Suffering Saints, O Our God (Elder Anthony D. Perkins, October 2021)|Remember Thy Suffering Saints, O Our God]] — Elder Anthony D. Perkins, 2021-October *(explicit citation)*
+- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

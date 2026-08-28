@@ -56,7 +56,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
+- [[Focus on Jesus Christ and His Gospel (Elder I. Raymond Egbo, October 2024)|Focus on Jesus Christ and His Gospel]] — Elder I. Raymond Egbo, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

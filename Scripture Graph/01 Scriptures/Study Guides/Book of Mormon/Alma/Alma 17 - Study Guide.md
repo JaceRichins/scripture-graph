@@ -69,7 +69,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
+- [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
+- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
+- [[The Priesthood—a Sacred Gift (President Thomas S. Monson, April 2015)|The Priesthood—a Sacred Gift]] — President Thomas S. Monson, 2015-April *(explicit citation)*
+- [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
+- [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[Missionary Service Blessed My Life Forever (President M. Russell Ballard, April 2022)|Missionary Service Blessed My Life Forever]] — President M. Russell Ballard, 2022-April *(explicit citation)*
+- [[A Mighty Change of Heart “I Have Nothing More to Give You” (Elder Eduardo Gavarret, April 2022)|A Mighty Change of Heart: “I Have Nothing More to Give You”]] — Elder Eduardo Gavarret, 2022-April *(explicit citation)*
+- [[Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]] — President Henry B. Eyring, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

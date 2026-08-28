@@ -59,7 +59,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
+- [[Following Jesus Being a Peacemaker (Elder Neil L. Andersen, April 2022)|Following Jesus: Being a Peacemaker]] — Elder Neil L. Andersen, 2022-April *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
+- [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
+- [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
+- [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
+- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

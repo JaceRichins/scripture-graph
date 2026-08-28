@@ -55,7 +55,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Proved and Strengthened in Christ (Elder Henry B. Eyring, October 2025)|Proved and Strengthened in Christ]] — Elder Henry B. Eyring, 2025-October *(explicit citation)*
+- [[The Righteous Judge (Elder Lynn G. Robbins, October 2016)|The Righteous Judge]] — Elder Lynn G. Robbins, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

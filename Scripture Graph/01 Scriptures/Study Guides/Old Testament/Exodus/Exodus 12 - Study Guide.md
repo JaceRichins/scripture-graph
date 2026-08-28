@@ -85,7 +85,10 @@ Later Christian texts connect Passover with [[Jesus Christ (Gospel Topic)]] and 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
+- [[Behold the Lamb of God (Elder Jeffrey R. Holland, April 2019)|Behold the Lamb of God]] — Elder Jeffrey R. Holland, 2019-April *(explicit citation)*
+- [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
+- [[Conversion Is Our Goal (Mark L. Pace, April 2022)|Conversion Is Our Goal]] — Mark L. Pace, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -67,7 +67,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
+- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
+- [[Let the Clarion Trumpet Sound (Elder Gregory A. Schwitzer, October 2015)|Let the Clarion Trumpet Sound]] — Elder Gregory A. Schwitzer, 2015-October *(explicit citation)*
+- [[What Shall We Do (Neill F. Marriott, April 2016)|What Shall We Do?]] — Neill F. Marriott, 2016-April *(explicit citation)*
+- [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
+- [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
+- [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
+- [[Our Sorrow Shall Be Turned into Joy (Elder S. Mark Palmer, April 2021)|Our Sorrow Shall Be Turned into Joy]] — Elder S. Mark Palmer, 2021-April *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

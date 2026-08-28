@@ -73,7 +73,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[The Eternal Perspective of the Gospel (Elder Rafael E. Pino, April 2015)|The Eternal Perspective of the Gospel]] — Elder Rafael E. Pino, 2015-April *(explicit citation)*
+- [[Humble to Accept and Follow (Elder Joni L. Koch, October 2023)|Humble to Accept and Follow]] — Elder Joni L. Koch, 2023-October *(explicit citation)*
+- [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
+- [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
+- [[“That I Might Draw All Men unto Me” (Elder Dale G. Renlund, April 2016)|“That I Might Draw All Men unto Me”]] — Elder Dale G. Renlund, 2016-April *(explicit citation)*
+- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
+- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
+- [[Turn to the Lord (Bishop W. Christopher Waddell, October 2017)|Turn to the Lord]] — Bishop W. Christopher Waddell, 2017-October *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

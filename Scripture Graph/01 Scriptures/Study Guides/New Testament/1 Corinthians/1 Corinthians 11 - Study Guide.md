@@ -53,7 +53,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Defenders of the Family Proclamation (Bonnie L. Oscarson, April 2015)|Defenders of the Family Proclamation]] — Bonnie L. Oscarson, 2015-April *(explicit citation)*
+- [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
+- [[Two Great Commandments (President Dallin H. Oaks, October 2019)|Two Great Commandments]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
+- [[Focus on Jesus Christ (Brother Milton Camargo, April 2023)|Focus on Jesus Christ]] — Brother Milton Camargo, 2023-April *(explicit citation)*
+- [[Kingdoms of Glory (President Dallin H. Oaks, October 2023)|Kingdoms of Glory]] — President Dallin H. Oaks, 2023-October *(explicit citation)*
+- [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[The Pleasing Word of God (Elder Francisco J. Viñas, October 2015)|The Pleasing Word of God]] — Elder Francisco J. Viñas, 2015-October *(explicit citation)*
+- [[To Be a Follower of Christ (Elder Alfred Kyungu, October 2021)|To Be a Follower of Christ]] — Elder Alfred Kyungu, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

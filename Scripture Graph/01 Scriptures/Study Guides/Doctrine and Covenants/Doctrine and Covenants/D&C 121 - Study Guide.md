@@ -61,7 +61,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
+- [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
+- [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
+- [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
+- [[Our Campfire of Faith (Elder Gerrit W. Gong, October 2018)|Our Campfire of Faith]] — Elder Gerrit W. Gong, 2018-October *(explicit citation)*
+- [[The Atonement of Jesus Christ (Tad R. Callister, April 2019)|The Atonement of Jesus Christ]] — Tad R. Callister, 2019-April *(explicit citation)*
+- [[Hear Him (President Russell M. Nelson, April 2020)|Hear Him]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

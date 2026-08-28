@@ -65,7 +65,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[The Eye of Faith (Elder Neil L. Andersen, April 2019)|The Eye of Faith]] — Elder Neil L. Andersen, 2019-April *(explicit citation)*
+- [[Preparing for the Second Coming of Christ (Elder Christoffel Golden, October 2021)|Preparing for the Second Coming of Christ]] — Elder Christoffel Golden, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

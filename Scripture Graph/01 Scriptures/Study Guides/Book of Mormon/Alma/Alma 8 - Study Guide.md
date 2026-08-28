@@ -73,7 +73,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Learn from Alma and Amulek (President Dieter F. Uchtdorf, October 2016)|Learn from Alma and Amulek]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
+- [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
+- [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

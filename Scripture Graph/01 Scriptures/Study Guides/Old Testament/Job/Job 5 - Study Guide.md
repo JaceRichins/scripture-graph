@@ -52,7 +52,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Yielding Our Hearts to God (Neill F. Marriott, October 2015)|Yielding Our Hearts to God]] — Neill F. Marriott, 2015-October *(explicit citation)*
+- [[Spiritual Eclipse (Elder Gary E. Stevenson, October 2017)|Spiritual Eclipse]] — Elder Gary E. Stevenson, 2017-October *(explicit citation)*
+- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

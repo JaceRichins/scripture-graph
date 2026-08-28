@@ -56,7 +56,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[For God So Loved Us (Elder Michael T. Ringwood, April 2022)|For God So Loved Us]] — Elder Michael T. Ringwood, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

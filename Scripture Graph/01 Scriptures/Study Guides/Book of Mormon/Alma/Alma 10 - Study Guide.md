@@ -72,7 +72,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Learn from Alma and Amulek (President Dieter F. Uchtdorf, October 2016)|Learn from Alma and Amulek]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
+- [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
+- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
+- [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

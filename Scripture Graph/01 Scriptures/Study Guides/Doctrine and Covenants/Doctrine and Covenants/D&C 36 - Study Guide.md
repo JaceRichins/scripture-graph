@@ -58,7 +58,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Bishops—Shepherds over the Lord’s Flock (Elder Quentin L. Cook, April 2021)|Bishops—Shepherds over the Lord’s Flock]] — Elder Quentin L. Cook, 2021-April *(explicit citation)*
+- [[Light Cleaveth unto Light (Elder Timothy J. Dyches, April 2021)|Light Cleaveth unto Light]] — Elder Timothy J. Dyches, 2021-April *(explicit citation)*
+- [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
+- [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

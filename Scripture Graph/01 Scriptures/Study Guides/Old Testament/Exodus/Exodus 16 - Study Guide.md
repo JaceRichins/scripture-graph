@@ -81,7 +81,7 @@ Exodus 16:18 reports that those who gathered much had no excess and those who ga
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

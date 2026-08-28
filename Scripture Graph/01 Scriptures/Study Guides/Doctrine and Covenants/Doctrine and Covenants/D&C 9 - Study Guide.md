@@ -57,7 +57,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
+- [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
+- [[Hearing His Voice (Elder David P. Homer, April 2019)|Hearing His Voice]] — Elder David P. Homer, 2019-April *(explicit citation)*
+- [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
+- [[Enduring Power (Elder Kelly R. Johnson, October 2020)|Enduring Power]] — Elder Kelly R. Johnson, 2020-October *(explicit citation)*
+- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

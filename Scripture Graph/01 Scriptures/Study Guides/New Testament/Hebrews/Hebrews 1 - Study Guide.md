@@ -56,7 +56,10 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
+- [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[The Godhead and the Plan of Salvation (Elder Dallin H. Oaks, April 2017)|The Godhead and the Plan of Salvation]] — Elder Dallin H. Oaks, 2017-April *(explicit citation)*
+- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

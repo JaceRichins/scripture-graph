@@ -62,7 +62,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
+- [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
+- [[“That I Might Draw All Men unto Me” (Elder Dale G. Renlund, April 2016)|“That I Might Draw All Men unto Me”]] — Elder Dale G. Renlund, 2016-April *(explicit citation)*
+- [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
+- [[Prepared to Obtain Every Needful Thing (Elder David A. Bednar, April 2019)|Prepared to Obtain Every Needful Thing]] — Elder David A. Bednar, 2019-April *(explicit citation)*
+- [[Be Faithful, Not Faithless (Stephen W. Owen, October 2019)|Be Faithful, Not Faithless]] — Stephen W. Owen, 2019-October *(explicit citation)*
+- [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
+- [[Favored of the Lord in All My Days (Elder Moisés Villanueva, October 2021)|Favored of the Lord in All My Days]] — Elder Moisés Villanueva, 2021-October *(explicit citation)*
+- [[Building a Life Resistant to the Adversary (Elder Jorge F. Zeballos, October 2022)|Building a Life Resistant to the Adversary]] — Elder Jorge F. Zeballos, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

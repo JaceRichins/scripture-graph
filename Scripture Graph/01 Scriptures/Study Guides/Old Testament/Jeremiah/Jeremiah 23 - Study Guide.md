@@ -67,7 +67,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Rise! He Calleth Thee (Elder Massimo De Feo, April 2024)|Rise! He Calleth Thee]] — Elder Massimo De Feo, 2024-April *(explicit citation)*
+- [[Beware the Second Temptation (Elder Scott D. Whiting, April 2025)|Beware the Second Temptation]] — Elder Scott D. Whiting, 2025-April *(explicit citation)*
+- [[Conference Report, October 1903 (General Conference (full report), October 1903)|Conference Report, October 1903]] — General Conference (full report), 1903-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

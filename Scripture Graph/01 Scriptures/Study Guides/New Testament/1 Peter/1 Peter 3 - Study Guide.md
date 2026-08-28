@@ -56,7 +56,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
+- [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
+- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[Turn On Your Light (Sharon Eubank, October 2017)|Turn On Your Light]] — Sharon Eubank, 2017-October *(explicit citation)*
+- [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
+- [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
+- [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
+- [[Preaching the Gospel of Peace (President Russell M. Nelson, April 2022)|Preaching the Gospel of Peace]] — President Russell M. Nelson, 2022-April *(explicit citation)*
+- [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
+- [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

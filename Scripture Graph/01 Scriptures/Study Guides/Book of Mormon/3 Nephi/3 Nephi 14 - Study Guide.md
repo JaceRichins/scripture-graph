@@ -63,7 +63,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
+- [[The Melchizedek Priesthood and the Keys (President Dallin H. Oaks, April 2020)|The Melchizedek Priesthood and the Keys]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
+- [[Choose to Believe (Elder L. Whitney Clayton, April 2015)|Choose to Believe]] — Elder L. Whitney Clayton, 2015-April *(explicit citation)*
+- [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Seeking Knowledge by the Spirit (Elder Mathias Held, April 2019)|Seeking Knowledge by the Spirit]] — Elder Mathias Held, 2019-April *(explicit citation)*
+- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Prepared to Obtain Every Needful Thing (Elder David A. Bednar, April 2019)|Prepared to Obtain Every Needful Thing]] — Elder David A. Bednar, 2019-April *(explicit citation)*
+- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -57,7 +57,16 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Lessons at the Well (Susan H. Porter, April 2022)|Lessons at the Well]] — Susan H. Porter, 2022-April *(explicit citation)*
+- [[Whatsoever He Saith unto You, Do It (Elder L. Whitney Clayton, April 2017)|Whatsoever He Saith unto You, Do It]] — Elder L. Whitney Clayton, 2017-April *(explicit citation)*
+- [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
+- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
+- [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
+- [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
+- [[Jesus Christ Is the Treasure (Elder Dale G. Renlund, October 2023)|Jesus Christ Is the Treasure]] — Elder Dale G. Renlund, 2023-October *(explicit citation)*
+- [[Seeking Answers to Spiritual Questions (Sister Tracy Y. Browning, October 2024)|Seeking Answers to Spiritual Questions]] — Sister Tracy Y. Browning, 2024-October *(explicit citation)*
+- [[Simplicity in Christ (Elder Michael Cziesla, October 2025)|Simplicity in Christ]] — Elder Michael Cziesla, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

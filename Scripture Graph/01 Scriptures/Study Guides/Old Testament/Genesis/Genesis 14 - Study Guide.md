@@ -58,7 +58,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
+- [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[“Walk with Me” (President Henry B. Eyring, April 2017)|“Walk with Me”]] — President Henry B. Eyring, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

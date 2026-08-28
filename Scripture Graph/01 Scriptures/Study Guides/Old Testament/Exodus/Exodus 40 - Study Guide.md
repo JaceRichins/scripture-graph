@@ -75,7 +75,7 @@ The glory arrives only after the work is finished, making divine presence the na
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

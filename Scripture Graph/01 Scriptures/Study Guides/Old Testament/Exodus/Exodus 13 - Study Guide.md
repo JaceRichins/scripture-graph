@@ -64,7 +64,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
+- [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

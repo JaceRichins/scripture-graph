@@ -62,7 +62,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
+- [[Do What Mattereth Most (Rebecca L. Craven, April 2022)|Do What Mattereth Most]] — Rebecca L. Craven, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
