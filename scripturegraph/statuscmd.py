@@ -107,6 +107,21 @@ def print_status(ctx: Ctx, write_note: bool = True) -> dict:
     return s
 
 
+def _secondary_line(ctx: Ctx) -> str:
+    try:
+        db = ctx.db()
+        srcs = db.execute(
+            "SELECT COUNT(*) n FROM sec_sources WHERE approval_status='APPROVED'"
+        ).fetchone()["n"]
+        items = db.execute("SELECT COUNT(*) n FROM sec_items").fetchone()["n"]
+        ingested = db.execute(
+            "SELECT COUNT(*) n FROM sec_items WHERE status='ingested'").fetchone()["n"]
+        return (f"- Secondary sources: {srcs} approved · {items} episodes tracked · "
+                f"{ingested} ingested")
+    except Exception:  # noqa: BLE001 — status must never crash on a fresh DB
+        return "- Secondary sources: not initialized"
+
+
 def write_status_note(ctx: Ctx, s: dict | None = None) -> None:
     s = s or gather(ctx)
     lines = ["# Status", "", f"*Generated {now_iso()}.*", "",
@@ -120,6 +135,7 @@ def write_status_note(ctx: Ctx, s: dict | None = None) -> None:
              f"- Index: {s['chunks']} chunks · embeddings: "
              + (", ".join(f"{k} ({v})" for k, v in s["embeddings"].items()) or "none"),
              f"- Work queue: {s['queue'] or 'empty'}",
+             _secondary_line(ctx),
              f"- AI providers: " + ", ".join(
                  f"{k}: {'ready' if v['available'] else 'needs login' if v['exe_found'] else 'not installed'}"
                  for k, v in s["providers"].items()),
