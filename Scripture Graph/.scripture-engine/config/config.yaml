@@ -1,0 +1,17 @@
+# Scripture Graph engine configuration (deep-merged over built-in defaults).
+# Modes: aggressive | balanced | economical  (budgets per mode are built in;
+# override any value here, e.g.  budgets: {balanced: {nightly_ai_jobs: 50}} )
+mode: balanced
+
+automation:
+  enabled: true       # master switch for scheduled runs
+  ai_enabled: true    # allow AI provider calls during scheduled runs
+
+bootstrap:
+  ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
+
+# providers:
+#   claude: {enabled: auto}   # auto-detects; run `claude /login` once to enable
+#   codex:  {enabled: auto}
+# embeddings:
+#   provider: auto            # auto | hash | fastembed | openai

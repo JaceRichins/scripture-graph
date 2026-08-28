@@ -1,0 +1,45 @@
+/* Scripture Graph — Obsidian styling (enable under Appearance → CSS snippets) */
+
+/* readable scripture body */
+.sg-scripture .markdown-preview-view p,
+.sg-scripture .cm-line {
+  line-height: 1.75;
+}
+
+/* custom callout types */
+.callout[data-callout="evidence"] {
+  --callout-color: 158, 118, 45;
+  --callout-icon: lucide-gem;
+}
+.callout[data-callout="language"] {
+  --callout-color: 76, 110, 168;
+  --callout-icon: lucide-languages;
+}
+.callout[data-callout="history"] {
+  --callout-color: 121, 82, 62;
+  --callout-icon: lucide-landmark;
+}
+.callout[data-callout="textual"] {
+  --callout-color: 96, 96, 128;
+  --callout-icon: lucide-scroll-text;
+}
+.callout[data-callout="counter"] {
+  --callout-color: 150, 60, 60;
+  --callout-icon: lucide-scale;
+}
+.callout[data-callout="question"] {
+  --callout-color: 90, 190, 140;
+  --callout-icon: lucide-help-circle;
+}
+
+/* de-emphasize the block-id anchors on verses */
+.sg-scripture .cm-blockid,
+.sg-scripture .markdown-rendered .mod-highlighted + .block-language-none {
+  opacity: 0.35;
+}
+
+/* personal notes get a subtle left accent so ownership is visually obvious */
+.sg-personal.markdown-preview-view,
+.markdown-source-view.sg-personal {
+  border-left: 3px solid rgba(90, 190, 140, 0.35);
+}

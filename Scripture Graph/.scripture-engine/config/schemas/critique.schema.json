@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SkepticCritique",
+  "type": "object",
+  "required": ["assessments"],
+  "properties": {
+    "assessments": {
+      "type": "array",
+      "maxItems": 60,
+      "items": {
+        "type": "object",
+        "required": ["claim_id", "verdict"],
+        "properties": {
+          "claim_id": {"type": "string", "maxLength": 40},
+          "verdict": {"enum": ["affirm", "weaken", "refute", "unclear"]},
+          "reasons": {"type": "string", "maxLength": 1200},
+          "alternative_explanation": {"type": "string", "maxLength": 600},
+          "checks_requested": {"type": "array", "items": {"type": "string", "maxLength": 300}, "maxItems": 5}
+        }
+      }
+    },
+    "section_review": {
+      "type": "object",
+      "additionalProperties": {"type": "string", "maxLength": 1000}
+    },
+    "overall": {"type": "string", "maxLength": 2000}
+  }
+}
