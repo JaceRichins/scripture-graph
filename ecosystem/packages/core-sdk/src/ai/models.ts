@@ -77,7 +77,9 @@ export function pickModel(
     if (paid[0]) return { modelId: paid[0].id, reason: "cheapest capable model" };
     tier = "fast";
   }
-  const candidates = TIER_CANDIDATES[(tier === "auto" || tier === "specific" || tier === "cheapest" ? "fast" : tier)];
+  // "cheapest" was rewritten to "fast" above; "specific" lands here when the
+  // chosen model id is not in the registry
+  const candidates = TIER_CANDIDATES[(tier === "auto" || tier === "specific" ? "fast" : tier)];
   for (const c of candidates) {
     if (ids.has(c)) return { modelId: c, reason: `${tier} tier` };
   }

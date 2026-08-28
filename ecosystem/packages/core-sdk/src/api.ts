@@ -52,6 +52,9 @@ export class ApiClient {
   createAccountInvite(max_uses = 1, ttl_hours = 24 * 14) {
     return this.req<{ code: string; expires_at: string }>("POST", "/invites/account", { max_uses, ttl_hours });
   }
+  createAccountInviteDeviceLink() {
+    return this.req<{ code: string; expires_at: string }>("POST", "/invites/account", { device_link: true });
+  }
   acceptInvite(code: string) {
     return this.req<{ kind: string; group_id?: string; group_name?: string }>("POST", "/invites/accept", { code });
   }

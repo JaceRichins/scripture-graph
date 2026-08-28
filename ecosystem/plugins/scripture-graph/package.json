@@ -1,0 +1,17 @@
+{
+  "name": "@scripture-graph/plugin",
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@scripture-graph/core-sdk": "*"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "obsidian": "^1.7.2",
+    "typescript": "^5.6.0"
+  }
+}

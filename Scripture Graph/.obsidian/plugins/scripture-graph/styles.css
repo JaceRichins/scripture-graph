@@ -1,0 +1,81 @@
+/* Scripture Graph plugin suite */
+
+/* ---------- highlights (rendered decorations — files never change) ------- */
+mark.sgh { border-radius: 3px; padding: 0 1px; color: inherit; }
+mark.sgh-yellow { background: rgba(255, 213, 0, 0.35); }
+mark.sgh-green  { background: rgba( 80, 200, 120, 0.32); }
+mark.sgh-blue   { background: rgba( 80, 160, 255, 0.30); }
+mark.sgh-pink   { background: rgba(255, 120, 190, 0.30); }
+mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
+.theme-dark mark.sgh-yellow { background: rgba(255, 213, 0, 0.28); }
+
+.sgh-note-icon, .sg-badge {
+  cursor: pointer; font-size: 0.8em; margin-left: 4px;
+  opacity: 0.8; user-select: none;
+}
+.sg-badge { color: var(--text-accent); }
+
+/* ---------- verse popover / note modal ----------------------------------- */
+.sg-popover h4 { margin: 0.8em 0 0.3em; opacity: 0.7; }
+.sg-ann-row { border-top: 1px solid var(--background-modifier-border); padding: 8px 0; }
+.sg-ann-meta { font-size: 0.8em; opacity: 0.7; margin-bottom: 4px; }
+.sg-ann-row blockquote { margin: 4px 0; padding-left: 8px; font-style: italic; }
+.sg-ann-actions { display: flex; gap: 8px; margin-top: 6px; }
+.sg-note-modal textarea { width: 100%; min-height: 110px; margin-bottom: 10px; }
+
+/* ---------- invite codes -------------------------------------------------- */
+.sg-invite-code {
+  display: block; font-size: 1.5em; letter-spacing: 0.12em; text-align: center;
+  padding: 12px; margin: 10px 0; cursor: pointer;
+  background: var(--background-secondary); border-radius: 8px;
+}
+
+/* ---------- Ask AI pane --------------------------------------------------- */
+.sg-ask { display: flex; flex-direction: column; height: 100%; }
+.sg-ask-header {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  font-size: 0.85em; opacity: 0.9; padding: 6px 4px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.sg-ask-log { flex: 1; overflow-y: auto; padding: 8px 4px; }
+.sg-turn { margin: 8px 0; padding: 8px 10px; border-radius: 10px; }
+.sg-turn-user { background: var(--background-secondary); margin-left: 12%; }
+.sg-turn-assistant { background: var(--background-primary-alt); margin-right: 4%; }
+.sg-ask-meta { font-size: 0.75em; opacity: 0.65; margin-top: 6px; display: flex; gap: 10px; align-items: center; }
+.sg-ask-status { font-size: 0.8em; opacity: 0.6; text-align: center; margin: 6px 0; }
+.sg-ask-presets { display: flex; flex-wrap: wrap; gap: 6px; padding: 6px 4px; }
+.sg-ask-presets button, .sg-lens {
+  font-size: 0.78em; padding: 3px 9px; border-radius: 12px;
+  background: var(--background-secondary); box-shadow: none;
+}
+.sg-ask-input { display: flex; gap: 6px; padding: 6px 4px 10px; }
+.sg-ask-input textarea { flex: 1; min-height: 60px; resize: vertical; }
+
+/* ---------- Reader -------------------------------------------------------- */
+.sg-reader { padding: 12px 18px 40px; max-width: 46em; margin: 0 auto; }
+.sg-reader-bar { display: flex; align-items: center; gap: 12px; }
+.sg-reader-bar h2 { flex: 1; margin: 0.4em 0; }
+.sg-ask-btn { border-radius: 14px; }
+.sg-lens-bar {
+  display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0 14px;
+  position: sticky; top: 0; z-index: 5; background: var(--background-primary);
+  padding: 6px 0;
+}
+.sg-lens.on { background: var(--interactive-accent); color: var(--text-on-accent); }
+.sg-reader-scripture p { line-height: 1.75; margin: 0.55em 0; }
+.sg-reader-scripture strong { opacity: 0.55; font-size: 0.85em; margin-right: 2px; }
+.sg-section { margin: 10px 0; border: 1px solid var(--background-modifier-border); border-radius: 8px; padding: 4px 12px; }
+.sg-section summary { cursor: pointer; font-weight: 600; padding: 6px 0; }
+
+/* ---------- flashcards ---------------------------------------------------- */
+.sg-card-ref { opacity: 0.6; font-size: 0.85em; }
+.sg-card-grades { display: flex; gap: 10px; margin-top: 12px; }
+.sg-card-grades button { flex: 1; }
+
+/* ---------- welcome ------------------------------------------------------- */
+.sg-welcome p { opacity: 0.85; }
+
+/* ---------- mobile -------------------------------------------------------- */
+.is-mobile .sg-reader { padding: 8px 10px 60px; }
+.is-mobile .sg-lens-bar { overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }
+.is-mobile .sg-turn-user { margin-left: 6%; }

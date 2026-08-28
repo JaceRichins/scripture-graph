@@ -1,0 +1,100 @@
+/** Shared plugin context: settings (shared, non-secret, in data.json) vs
+ * device-local state (secrets + personal data, in localStorage — NEVER in
+ * data.json because Obsidian Sync replicates data.json to every vault user). */
+import type { App, Plugin } from "obsidian";
+import {
+  ApiClient, Budget, SyncEngine, WebStorage,
+  type Annotation, type FetchLike, type ModelInfo, type Tier, type AiTask,
+} from "@scripture-graph/core-sdk";
+
+export const CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+export const LIBRARY_PREFIX = "AI Library/";
+export const PERSONAL_PREFIX = "Library/";
+
+/** Shared, non-secret settings — synced with the vault ON PURPOSE so the
+ * whole family gets the server URL and defaults automatically. */
+export interface SharedSettings {
+  serverUrl: string;
+  defaultVisibility: "local" | "private";
+  forceLibraryPreview: boolean;
+}
+
+export const DEFAULT_SHARED: SharedSettings = {
+  serverUrl: "http://127.0.0.1:8930",
+  defaultVisibility: "private",
+  forceLibraryPreview: true,
+};
+
+/** Device-local (secret or personal) state. */
+export interface DeviceState {
+  deviceToken: string | null;
+  userId: string | null;
+  displayName: string | null;
+  openrouterKey: string | null;
+  aiTier: Tier;
+  aiSpecificModel: string | null;
+  aiUsePersonalNotes: boolean;
+  showScopes: { mine: boolean; groups: Record<string, boolean>; public: boolean };
+  aiDepth: "focused" | "balanced" | "deep";
+}
+
+export const DEFAULT_DEVICE: DeviceState = {
+  deviceToken: null,
+  userId: null,
+  displayName: null,
+  openrouterKey: null,
+  aiTier: "auto",
+  aiSpecificModel: null,
+  aiUsePersonalNotes: false,
+  showScopes: { mine: true, groups: {}, public: false },
+  aiDepth: "balanced",
+};
+
+export interface SocialAnnotation extends Annotation { author_name?: string }
+
+export class SGState {
+  settings: SharedSettings = { ...DEFAULT_SHARED };
+  device: DeviceState = { ...DEFAULT_DEVICE };
+  store: WebStorage;
+  sync: SyncEngine;
+  budget: Budget;
+  api: ApiClient;
+  modelRegistry: ModelInfo[] = [];
+  groups: { group_id: string; name: string; role: string }[] = [];
+  /** anchor_id -> social annotations from the last query (others' shared) */
+  socialCache = new Map<string, SocialAnnotation[]>();
+  onChange: (() => void)[] = [];
+
+  constructor(public app: App, public plugin: Plugin) {
+    const ns = `sg:${(app as unknown as { appId?: string }).appId ?? "vault"}`;
+    this.store = new WebStorage(ns, globalThis.localStorage);
+    this.sync = new SyncEngine(this.store);
+    this.budget = new Budget(this.store);
+    const fetchLike: FetchLike = async (url, init) => {
+      const res = await fetch(url, init);
+      return { status: res.status, json: () => res.json() };
+    };
+    this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
+  }
+
+  async loadDevice(): Promise<void> {
+    const d = await this.store.get<DeviceState>("device");
+    if (d) this.device = { ...DEFAULT_DEVICE, ...d };
+    this.api.setToken(this.device.deviceToken);
+  }
+
+  async saveDevice(): Promise<void> {
+    await this.store.put("device", this.device);
+    this.api.setToken(this.device.deviceToken);
+  }
+
+  applySettings(s: Partial<SharedSettings>): void {
+    this.settings = { ...DEFAULT_SHARED, ...this.settings, ...s };
+    this.api.baseUrl = this.settings.serverUrl;
+  }
+
+  get signedIn(): boolean { return !!this.device.deviceToken; }
+  get aiConnected(): boolean { return !!this.device.openrouterKey; }
+
+  notify(): void { for (const f of this.onChange) { try { f(); } catch { /* ui */ } } }
+}
