@@ -17,12 +17,19 @@ Scripture: [[Exodus 3]] · My notes: [[Exodus 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+Exodus 3 joins divine disclosure to a concrete mission. God appears to Moses at Horeb, identifies himself with Abraham, Isaac, and Jacob, declares awareness of Israel's suffering, and sends Moses to lead the people from Egypt. The movement from affliction to land ties [[Exodus and Deliverance]] to the [[Abrahamic Covenant]]. The chapter ends by anticipating royal resistance, divine wonders, and Israel's departure with Egyptian valuables.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is:
+
+1. **Encounter at Horeb (3:1-6):** the bush burns without being consumed; Moses is called by name and warned that the ground is holy.
+2. **Divine concern and commission (3:7-12):** God describes seeing, hearing, and knowing Israel's suffering, then sends Moses to Pharaoh. Moses objects, and God promises to be with him.
+3. **The question of God's name (3:13-15):** God answers with “I AM THAT I AM” and the ancestral identification.
+4. **Instructions and forecast (3:16-22):** Moses is to address Israel's elders and Egypt's king; resistance, wonders, release, and departure with valuables are foretold.
+
+This outline follows clear changes in dialogue and subject without claiming a more elaborate literary pattern than the chapter securely demonstrates.
 <!-- SG:END structure -->
 
 ## People
@@ -57,13 +64,16 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Exodus and Deliverance]]
+- [[Abrahamic Covenant]]
+- [[Prophets]]
+- [[Miracles]]
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Revelation]] as disclosure for a mission: God reveals who he is, what he has perceived, what he will do, and what Moses must say. The ancestral identification anchors the mission in the [[Abrahamic Covenant]]. Moses's inadequacy is answered by presence—"I will be with thee"—a recurring principle of prophetic commission without implying that human ability is irrelevant. Deliverance also has a worshipful destination: freedom from oppression leads toward service and [[Sacrifice]], not merely escape.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -78,25 +88,51 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several expressions require restraint. The KJV's “I AM THAT I AM” is the canonical wording supplied here, but detailed claims about its Hebrew grammar or metaphysical implications require linguistic evidence beyond the English text. Likewise, the alternation among “the angel of the LORD,” “the LORD,” and “God” is observable, but the chapter does not explicitly define their relationship.
+
+The KJV also places “borrow” and “spoil” in Exodus 3:22. That juxtaposition raises interpretive and ethical questions, but conclusions about the precise transaction should account for the underlying language and translation history rather than relying on modern implications of the English word “borrow.”
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The account repeatedly connects perception with response: Moses sees the bush and turns aside; the LORD sees Moses turn; God has seen Israel's affliction and acts. This recurrence supports a modest literary observation that attentive seeing advances the narrative. It should not be elevated into a rigid structural scheme without further textual demonstration.
+
+The sign in verse 12 is unusual from Moses's immediate perspective because its stated fulfillment comes after the deliverance: the people will serve God at the mountain. Its narrative function is therefore closer to subsequent confirmation and orientation toward worship than to an immediately testable credential.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Hebrew Lexical And Literary Evidence
+> The same Hebrew first-person verb form, ʾehyeh, underlies the promise translated "I will be" in verse 12 and the repeated expression translated "I AM" in verse 14. This strongly supports reading the name disclosure in connection with promised divine presence, while the full meaning and preferred tense of the expression remain disputed.
+> — strength 0.8 · confidence 0.9 · lexical observation accepted; full interpretation disputed · [[Hebrew Lexical And Literary Evidence in Exodus 3|full dossier]]
+
+> [!evidence] Canonical Narrative Retelling
+> Acts 7 retells the bush encounter, including the angelic appearance, God's patriarchal identification, holy ground, Israel's affliction, and Moses's commission. The overlap securely establishes early Christian reception of Exodus 3 as a pivotal call narrative.
+> — strength 0.9 · confidence 1.0 · secure canonical reception history · [[Canonical Narrative Retelling in Exodus 3|full dossier]]
+
+> [!evidence] Internal Literary Evidence
+> The repeated identification of God with Abraham, Isaac, and Jacob, together with the renewed promise of a land, is strong internal textual evidence that the chapter frames Israel's deliverance as a continuation of God's relationship with the ancestors.
+> — strength 0.9 · confidence 1.0 · broadly accepted literary interpretation · [[Internal Literary Evidence in Exodus 3|full dossier]]
+
+> [!evidence] Direct Canonical Reuse And Reception History
+> Matthew 22 and Mark 12 explicitly reuse God's identification as the God of Abraham, Isaac, and Jacob from the bush episode in an argument about resurrection. This is strong evidence for the passage's reception in early Christian scripture, but not proof that resurrection was the primary subject intended by the Exodus narrator.
+> — strength 1.0 · confidence 1.0 · secure canonical reception history · [[Direct Canonical Reuse And Reception History in Exodus 3|full dossier]]
+
+> [!evidence] Canonical Narrative Foreshadowing And Fulfillment
+> Later portions of Exodus narratively realize major forecasts in this chapter: the Egyptians give Israel silver, gold, and clothing before the departure; Israel later arrives at Sinai; and sacrifices and covenant worship occur at the mountain.
+> — strength 0.9 · confidence 1.0 · broadly accepted narrative correspondence · [[Canonical Narrative Foreshadowing And Fulfillment in Exodus 3|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrative introduce the angel of the LORD but then describe the LORD or God as speaking from the bush?
+- What kind of reassurance is a sign whose fulfillment follows the commissioned act?
+- How should the three-day request in verse 18 be related to the larger announced purpose of leaving Egypt?
+- How does [[Exodus 6]] affect interpretations of the name disclosure in Exodus 3?
+- What assumptions about resurrection underlie the later use of Exodus 3:6 in [[Matthew 22]] and [[Mark 12]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the continuation of Moses's objections in [[Exodus 4]], the later discussion of the divine name in [[Exodus 6]], and Stephen's retelling in [[Acts 7]]. The latter shows how the episode was received in an early Christian speech, while Matthew 22 and Mark 12 show a distinct later use of the patriarchal declaration. These reception histories should be distinguished from claims about what every element meant in the chapter's earliest literary setting.
 <!-- SG:END further-study -->
