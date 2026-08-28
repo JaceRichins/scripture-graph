@@ -34,3 +34,7 @@ Perspective label: `lds_academic` (tracked separately from quality — §8)
 ## Known limitations
 
 - hosted perspective is faithful-academic; check critical literature for counterpoints on contested topics
+
+## Ingested episodes
+
+- 2026-08-25 [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church His]] (quality 84)

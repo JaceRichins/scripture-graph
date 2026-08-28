@@ -19,5 +19,6 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 
 ## Recently ingested
 
+- 2026-08-25 — [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matte]] (Church History Matters)
 
-_0 episodes ingested · 2 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_
+_1 episodes ingested · 2 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_
