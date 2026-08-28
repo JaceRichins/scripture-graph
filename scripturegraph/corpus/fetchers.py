@@ -304,7 +304,12 @@ def fetch_public_domain_history(ctx: Ctx, include_conference_reports: bool = Tru
         stats["chunks"] += n
     # History of the Church (B. H. Roberts ed., public domain)
     hoc_ids = _archive_search_ids(
-        ctx, 'identifier:(historyofchurchof*) AND mediatype:texts', rows=30)
+        ctx, "identifier:historyofchurchof* AND mediatype:texts", rows=30)
+    if not any(re.search(r"historyofchurchof\d{2}", i) for i in hoc_ids):
+        hoc_ids = _archive_search_ids(
+            ctx, 'title:("history of the church of jesus christ of latter-day saints") '
+                 "AND mediatype:texts", rows=60)
+        hoc_ids = [i for i in hoc_ids if re.search(r"historyofchurchof\d{2}", i)]
     seen_vols: set[str] = set()
     for ident in sorted(hoc_ids):
         m = re.search(r"historyofchurchof(\d{2})", ident)
@@ -348,6 +353,16 @@ def fetch_public_domain_history(ctx: Ctx, include_conference_reports: bool = Tru
 
 def _fetch_pd_conference_reports(ctx: Ctx) -> int:
     from scripturegraph.corpus.conference import import_conference_file
+    # source row must exist BEFORE its documents (FK constraint)
+    ctx.db().execute(
+        "INSERT INTO sources(source_id,name,type,authority_category,acquisition_method,"
+        "status,source_url,license_notes) VALUES(?,?,?,?,?,?,?,?) "
+        "ON CONFLICT(source_id) DO NOTHING",
+        ("conference-reports-pd", "Conference Reports 1897-1930 (public domain)",
+         "conference", 3, "download", "available",
+         "https://archive.org/search?query=identifier%3Aconferencereport*",
+         "Public domain (pre-1931). OCR text; whole-report granularity."))
+    ctx.db().commit()
     ids = _archive_search_ids(ctx, "identifier:conferencereport* AND mediatype:texts",
                               rows=800)
     n_done = 0
@@ -373,13 +388,8 @@ def _fetch_pd_conference_reports(ctx: Ctx) -> int:
         n_done += 1
     if n_done:
         ctx.db().execute(
-            "INSERT INTO sources(source_id,name,type,authority_category,acquisition_method,"
-            "status,source_url,license_notes,last_imported) VALUES(?,?,?,?,?,?,?,?,?) "
-            "ON CONFLICT(source_id) DO UPDATE SET status='imported', last_imported=excluded.last_imported",
-            ("conference-reports-pd", "Conference Reports 1897-1930 (public domain)",
-             "conference", 3, "download", "imported",
-             "https://archive.org/search?query=identifier%3Aconferencereport*",
-             "Public domain (pre-1931). OCR text; whole-report granularity.", now_iso()))
+            "UPDATE sources SET status='imported', last_imported=? "
+            "WHERE source_id='conference-reports-pd'", (now_iso(),))
         ctx.db().commit()
     return n_done
 

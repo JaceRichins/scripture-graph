@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture Graph/03 People/Jesus Christ.md",
+                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jesus Christ"
+              "title": "Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture Graph/03 People/Jesus Christ.md",
+                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture Graph/03 People/Jesus Christ.md",
+                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture Graph/03 People/Jesus Christ.md",
+                "file": "Scripture Graph/10 General Conference/2025/October/Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,19 +190,20 @@
   },
   "active": "ab3a37a392f0115b",
   "lastOpenFiles": [
-    "sources/downloads/archive-org/journal-of-discourses/JoDV16.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV15.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV14.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV13.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV12.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV11.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV10.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV09.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV08.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV07.txt",
-    "sources/downloads/archive-org/journal-of-discourses/JoDV06.txt",
-    "Scripture Graph/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025).md",
+    "scripturegraph/corpus/fetchers.py.tmp.52664.8ca2823b42f0",
+    "scripturegraph/corpus/fetchers.py.tmp.52664.a1b3e0471979",
+    "scripturegraph/corpus/fetchers.py.tmp.52664.9b77da9c0575",
+    "sources/downloads/archive-org/conference-reports/conferencereport1880a.import.json",
+    "sources/downloads/archive-org/conference-reports/conferencereport1880a.txt",
+    "sources/downloads/archive-org/conference-reports",
+    "sources/downloads/archive-org/lucy-mack-smith/per_utah-and-the-mormons_biographical-sketches-of-joseph-smith-_1853.txt",
+    "sources/downloads/archive-org/lucy-mack-smith",
+    "sources/downloads/archive-org/journal-of-discourses/JoDV26.txt",
+    "sources/downloads/archive-org/journal-of-discourses/JoDV25.txt",
+    "sources/downloads/archive-org/journal-of-discourses/JoDV24.txt",
     "Scripture Graph/10 General Conference/2025/October/“Lovest Thou Me” (Elder Steven C. Barlow, October 2025).md",
+    "Scripture Graph/03 People/Jesus Christ.md",
+    "Scripture Graph/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025).md",
     "Scripture Graph/10 General Conference/2025/October/They Are Their Own Judges (Elder David A. Bednar, October 2025).md",
     "Scripture Graph/10 General Conference/2025/October/The Power of Ministering to the One (Elder Peter M. Johnson, October 2025).md",
     "Scripture Graph/10 General Conference/2025/October/The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025).md",
@@ -224,7 +225,6 @@
     "Scripture Graph/10 General Conference/2025/October/Prophets of God (Sister Andrea Muñoz Spannaus, October 2025).md",
     "Scripture Graph/10 General Conference/2025/October/Know Who You Really Are (Elder Brik V. Eyre, October 2025).md",
     "Scripture Graph/10 General Conference/2025/October/No One Sits Alone (Elder Gerrit W. Gong, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Introduction (President Dallin H. Oaks, October 2025).md",
-    "Scripture Graph/10 General Conference/2025/October/Look to God and Live (Elder D. Todd Christofferson, October 2025).md"
+    "Scripture Graph/10 General Conference/2025/October/Introduction (President Dallin H. Oaks, October 2025).md"
   ]
 }
