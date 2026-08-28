@@ -8,12 +8,12 @@ content_type: manifest
 
 | Source | Type | Authority | Status | Acquisition |
 | --- | --- | --- | --- | --- |
-| Standard Works (scriptures-json) | scripture | 1 | **available** | download |
+| Standard Works (scriptures-json) | scripture | 1 | **imported** | download |
 | Bible Dictionary / Guide to the Scriptures | reference | 2 | **manual_download_required** | drop-folder |
 | Gospel Topics essays & entries | reference | 2 | **manual_download_required** | drop-folder |
 | General Conference talks | conference | 3 | **manual_download_required** | drop-folder |
 | Church history materials (e.g. Saints, JS histories) | history | 4 | **manual_download_required** | drop-folder |
-| Joseph Smith Papers | jsp | 4 | **manual_download_required** | drop-folder |
+| Joseph Smith Papers | jsp | 4 | **imported** | drop-folder |
 | Academic scholarship & journals | scholarship | 6 | **manual_download_required** | drop-folder |
 
 ## Notes

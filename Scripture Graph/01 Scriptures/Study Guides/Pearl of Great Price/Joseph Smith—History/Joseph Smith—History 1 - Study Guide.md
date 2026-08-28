@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **JS History vol A-1 reference record** (jsp-document) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
