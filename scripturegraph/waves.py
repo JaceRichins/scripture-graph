@@ -109,7 +109,8 @@ def pending_targets(ctx: Ctx, name: str, by_priority: bool = False) -> list[str]
     if spec["scope"] == "topic":
         rows = db.execute(
             "SELECT n.id FROM nodes n LEFT JOIN passes p ON p.name=? AND p.target=n.id "
-            "WHERE n.node_type='topic' AND (p.target IS NULL OR p.corpus_version < ?) "
+            "WHERE n.node_type IN ('topic','event') "
+            "AND (p.target IS NULL OR p.corpus_version < ?) "
             "ORDER BY n.title", (name, cv)).fetchall()
         return [r["id"] for r in rows]
     if by_priority:

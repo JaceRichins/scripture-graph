@@ -175,6 +175,31 @@ def cmd_ask(args):
     return 0
 
 
+def cmd_fetch(args):
+    ctx = _ctx(args)
+    from scripturegraph.corpus import fetchers
+    from scripturegraph.corpus.registry import ensure_registry
+    ensure_registry(ctx)
+    fetchers.register_acquisition_sources(ctx)
+    out = {}
+    if args.what in ("conference", "all"):
+        out["conference"] = fetchers.fetch_conference_range(
+            ctx, args.from_year, args.to_year)
+    if args.what in ("history", "all"):
+        out["history"] = fetchers.fetch_public_domain_history(ctx)
+        ctx.bump_corpus_version("public-domain history corpus")
+        from scripturegraph.corpus.registry import _enqueue_affected, write_manifest
+        _enqueue_affected(ctx, {"history", "conference"})
+        write_manifest(ctx)
+    if args.what in ("jsp", "all"):
+        from scripturegraph.corpus.jsp_refs import write_jsp_reference_notes
+        out["jsp_reference_notes"] = write_jsp_reference_notes(ctx)
+    from scripturegraph import gitops
+    gitops.commit_all(ctx, f"acquire: {args.what} corpus fetch")
+    print(json.dumps(out, indent=2, default=str))
+    return 0
+
+
 def cmd_scheduler(args):
     ctx = _ctx(args)
     from scripturegraph import scheduler_win
@@ -278,6 +303,12 @@ def main(argv=None) -> int:
     sp = sub.add_parser("ask", help="answer a question from the local graph")
     sp.add_argument("question", nargs="+")
     sp.set_defaults(fn=cmd_ask)
+
+    sp = sub.add_parser("fetch", help="acquire corpora (conference API / public-domain history / JSP records)")
+    sp.add_argument("what", choices=["conference", "history", "jsp", "all"])
+    sp.add_argument("--from-year", type=int, default=2015)
+    sp.add_argument("--to-year", type=int, default=2026)
+    sp.set_defaults(fn=cmd_fetch)
 
     sp = sub.add_parser("scheduler", help="Windows Task Scheduler tasks")
     sp.add_argument("action", choices=["install", "remove", "status"])

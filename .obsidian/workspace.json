@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "b574165b6a78da6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d84d9381659922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de32762ba95d0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripture Graph/30 Church History/Church History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Church History"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de89bc7aecaf4c20",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99e3f4fe3be3609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3a37a392f0115b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd50f592ea44741c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39164dcc81f3e109",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "723f92857b49515b",
+    "type": "split",
+    "children": [
+      {
+        "id": "93913336f7e928d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d84e92063a5fd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scripture Graph/30 Church History/Church History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ac4fdb1e46606337",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scripture Graph/30 Church History/Church History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1d643362ac03252d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e9dd15142711039",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "74d0f3c4da53b366",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scripture Graph/30 Church History/Church History.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2de32762ba95d0dc",
+  "lastOpenFiles": [
+    "Scripture Graph/05 Events/Christ's appearance at the temple in Bountiful.md",
+    "Scripture Graph/05 Events/Birth of Jesus Christ.md",
+    "Scripture Graph/05 Events/Baptism of Jesus.md",
+    "Scripture Graph/05 Events/Babylonian captivity of Judah.md",
+    "Scripture Graph/05 Events/Assyrian captivity of Israel.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP First Vision Accounts.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Legal and Business Records Series.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Administrative Records Series.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Revelations and Translations Series.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Histories Series.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Journals Series.md",
+    "Scripture Graph/20 Joseph Smith Papers/JSP Documents Series.md",
+    "Scripture Graph/05 Events/Vision of the redemption of the dead.md",
+    "Scripture Graph/05 Events/Pioneer exodus to the Salt Lake Valley.md",
+    "Scripture Graph/05 Events/Martyrdom of Joseph and Hyrum Smith.md",
+    "Scripture Graph/05 Events/Liberty Jail imprisonment.md",
+    "Scripture Graph/05 Events/Priesthood keys restored in the Kirtland Temple.md",
+    "Scripture Graph/05 Events/Kirtland Temple dedication.md",
+    "Scripture Graph/05 Events/Organization of the Church.md",
+    "Scripture Graph/05 Events/Witnesses shown the plates.md",
+    "Scripture Graph/05 Events/Restoration of the Melchizedek Priesthood.md",
+    "Scripture Graph/05 Events/Restoration of the Aaronic Priesthood.md",
+    "Scripture Graph/05 Events/Translation of the Book of Mormon.md",
+    "Scripture Graph/05 Events/Moroni's visits and the plates.md",
+    "Scripture Graph/05 Events/The First Vision.md",
+    "Scripture Graph/05 Events/Jerusalem conference.md",
+    "scripturegraph/corpus/__pycache__/jsp_refs.cpython-313.pyc",
+    "scripturegraph/corpus/__pycache__/fetchers.cpython-313.pyc",
+    "scripturegraph/cli.py.tmp.52664.720f71b912c4",
+    "scripturegraph/cli.py.tmp.52664.84f6bf6c3d73",
+    "scripturegraph/context.py.tmp.52664.d5e953af38c1",
+    "scripturegraph/corpus/jsp_refs.py",
+    "scripturegraph/corpus/jsp_refs.py.tmp.52664.2883855cdbda",
+    "scripturegraph/synthesis.py.tmp.52664.e902ecc93a84",
+    "scripturegraph/synthesis.py.tmp.52664.95d8bf30427b",
+    "scripturegraph/indexing/entities.py.tmp.52664.5272e37b4092"
+  ]
+}

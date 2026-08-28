@@ -142,12 +142,14 @@ def synthesize_chapter(ctx: Ctx, cslug: str) -> dict:
 
 
 def synthesize_topic(ctx: Ctx, node_id: str) -> dict:
-    """Deterministic dossier scaffolding for one Gospel Topic: scriptural
-    foundation from anchors + strongest linked chapters; related entities."""
+    """Deterministic dossier scaffolding for one Gospel Topic or Event:
+    scripture anchors + strongest linked chapters; related entities."""
     db = ctx.db()
     node = db.execute("SELECT * FROM nodes WHERE id=?", (node_id,)).fetchone()
     if node is None or not node["vault_path"]:
         return {"skipped": True}
+    scripture_section = ("scriptural-accounts" if node["node_type"] == "event"
+                         else "scriptural-foundation")
     meta = json.loads(node["meta_json"] or "{}")
     lines = []
     from scripturegraph.indexing.citations import resolve_reference
@@ -176,7 +178,7 @@ def synthesize_topic(ctx: Ctx, node_id: str) -> dict:
     ops = []
     if lines:
         ops.append({"op": "set_section", "path": node["vault_path"],
-                    "section": "scriptural-foundation", "content": "\n".join(lines)})
+                    "section": scripture_section, "content": "\n".join(lines)})
     if talks:
         tl = [f"- {md.wikilink(Path(t['vault_path']).stem if t['vault_path'] else t['title'], t['title'])}"
               for t in talks]

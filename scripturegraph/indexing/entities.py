@@ -17,8 +17,8 @@ from functools import lru_cache
 from scripturegraph.context import Ctx
 from scripturegraph.util import now_iso, slugify
 from scripturegraph.vaultgen import md
-from scripturegraph.vaultgen.generate import (FOLDER_PEOPLE, FOLDER_PLACES, FOLDER_TOPICS,
-                                              record_file)
+from scripturegraph.vaultgen.generate import (FOLDER_EVENTS, FOLDER_PEOPLE, FOLDER_PLACES,
+                                              FOLDER_TOPICS, record_file)
 
 PERSON_SECTIONS = [("overview", "Overview"), ("scripture-profile", "In Scripture"),
                    ("mentions", "Mentioned In"), ("conference", "Teachings & Conference"),
@@ -26,6 +26,9 @@ PERSON_SECTIONS = [("overview", "Overview"), ("scripture-profile", "In Scripture
 PLACE_SECTIONS = [("overview", "Overview"), ("scripture-profile", "In Scripture"),
                   ("mentions", "Mentioned In"), ("geography", "Geography & Identification"),
                   ("related", "Related")]
+EVENT_SECTIONS = [("overview", "Overview"), ("scriptural-accounts", "Scriptural Accounts"),
+                  ("historical-context", "Historical Context"),
+                  ("conference", "Teachings About This Event"), ("related", "Related")]
 TOPIC_SECTIONS = [("definition", "Definition"), ("doctrinal-summary", "Doctrinal Summary"),
                   ("scriptural-foundation", "Scriptural Foundation"),
                   ("conference", "General Conference"), ("history", "Historical Development"),
@@ -58,11 +61,12 @@ def _entity_note(kind: str, title: str, aliases: list[str], sections, extra_fm=N
 def ensure_entities(ctx: Ctx) -> dict:
     """Create nodes, aliases, and stub notes for all seeded entities."""
     db = ctx.db()
-    stats = {"people": 0, "places": 0, "topics": 0}
+    stats = {"people": 0, "places": 0, "topics": 0, "events": 0}
     specs = [
         ("person", "people", FOLDER_PEOPLE, PERSON_SECTIONS),
         ("place", "places", FOLDER_PLACES, PLACE_SECTIONS),
         ("topic", "topics", FOLDER_TOPICS, TOPIC_SECTIONS),
+        ("event", "events", FOLDER_EVENTS, EVENT_SECTIONS),
     ]
     for kind, seed_name, folder, sections in specs:
         for ent in load_seed(seed_name):

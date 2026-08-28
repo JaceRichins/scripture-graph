@@ -110,6 +110,13 @@ def run_nightly(ctx: Ctx) -> dict:
         from scripturegraph.waves import enqueue_wave
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
+        if ctx.c("acquisition.conference_backfill", True):
+            from scripturegraph.corpus.fetchers import backfill_conference
+            try:
+                stats["conference_backfill"] = backfill_conference(
+                    ctx, int(ctx.c("acquisition.conference_sessions_per_night", 4)))
+            except Exception as e:  # noqa: BLE001 — network trouble must not sink the run
+                ctx.log.warn("nightly.backfill_failed", error=str(e)[:200])
         # refresh every stale deterministic pass (no-ops when current):
         # corpus growth re-opens them via corpus versioning, nightly closes them
         for det in ("parallels", "embed", "semantic", "entities", "citations",

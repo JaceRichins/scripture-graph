@@ -25,5 +25,9 @@ Scripture Graph/.obsidian/workspace-mobile.json
 Scripture Graph/.obsidian/cache/
 Scripture Graph/.trash/
 
+# Bulk-downloaded corpora (re-fetchable; URLs + hashes live in the registry)
+sources/downloads/conference/
+sources/downloads/archive-org/
+
 # Scratch
 *.tmp

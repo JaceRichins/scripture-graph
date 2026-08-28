@@ -71,6 +71,12 @@ DEFAULTS: dict = {
     "logs": {"retention_days": 21},
     "git": {"auto_commit": True},
     "ask": {"max_passages": 14},
+    "acquisition": {
+        "request_gap_sec": 1.5,            # hard politeness floor for remote fetches
+        "conference_from_year": 1971,      # earliest session on churchofjesuschrist.org
+        "conference_backfill": True,       # nightly fetches older sessions…
+        "conference_sessions_per_night": 4,  # …this many per night until complete
+    },
     "scheduler": {"frequent_hours": 2, "nightly_time": "02:30",
                   "weekly_day": "SUN", "weekly_time": "03:30"},
 }
