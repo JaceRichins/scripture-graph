@@ -31,3 +31,7 @@ sources/downloads/archive-org/
 
 # Scratch
 *.tmp
+
+# Obsidian config at repo root (created if the ROOT folder is opened as a vault
+# by mistake; the real vault is the 'Scripture Graph' subfolder)
+/.obsidian/
