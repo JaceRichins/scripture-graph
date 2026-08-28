@@ -30,25 +30,29 @@ from scripturegraph.context import Ctx
 from scripturegraph.util import atomic_write_text, now_iso, read_text, sha256_text
 from scripturegraph.vaultgen import md
 
-FOLDER_SCRIPTURES = "01 Scriptures"
+# Everything the engine maintains lives under ONE root folder so vault
+# navigation (especially mobile) is: your space + the Library. Humans read
+# the Library; only the engine writes it.
+FOLDER_LIBRARY = "Library"
+FOLDER_SCRIPTURES = f"{FOLDER_LIBRARY}/01 Scriptures"
 FOLDER_CANONICAL = f"{FOLDER_SCRIPTURES}/Canonical"
 FOLDER_GUIDES = f"{FOLDER_SCRIPTURES}/Study Guides"
-FOLDER_TOPICS = "02 Gospel Topics"
-FOLDER_PEOPLE = "03 People"
-FOLDER_PLACES = "04 Places"
-FOLDER_EVENTS = "05 Events"
-FOLDER_DOCTRINES = "06 Doctrines"
-FOLDER_CONFERENCE = "10 General Conference"
-FOLDER_JSP = "20 Joseph Smith Papers"
-FOLDER_HISTORY = "30 Church History"
-FOLDER_EVIDENCE = "40 Evidence"
-FOLDER_QUESTIONS = "50 Questions"
-FOLDER_SCHOLARSHIP = "60 Scholarship"
-FOLDER_AI_GUIDES = "70 AI Study Guides"
+FOLDER_TOPICS = f"{FOLDER_LIBRARY}/02 Gospel Topics"
+FOLDER_PEOPLE = f"{FOLDER_LIBRARY}/03 People"
+FOLDER_PLACES = f"{FOLDER_LIBRARY}/04 Places"
+FOLDER_EVENTS = f"{FOLDER_LIBRARY}/05 Events"
+FOLDER_DOCTRINES = f"{FOLDER_LIBRARY}/06 Doctrines"
+FOLDER_CONFERENCE = f"{FOLDER_LIBRARY}/10 General Conference"
+FOLDER_JSP = f"{FOLDER_LIBRARY}/20 Joseph Smith Papers"
+FOLDER_HISTORY = f"{FOLDER_LIBRARY}/30 Church History"
+FOLDER_EVIDENCE = f"{FOLDER_LIBRARY}/40 Evidence"
+FOLDER_QUESTIONS = f"{FOLDER_LIBRARY}/50 Questions"
+FOLDER_SCHOLARSHIP = f"{FOLDER_LIBRARY}/60 Scholarship"
+FOLDER_AI_GUIDES = f"{FOLDER_LIBRARY}/70 AI Study Guides"
 FOLDER_PERSONAL = "80 Personal Notes"
 FOLDER_PERSONAL_SCRIPTURES = f"{FOLDER_PERSONAL}/Scriptures"
-FOLDER_SOURCES = "90 Sources"
-FOLDER_SYSTEM = "00 System"
+FOLDER_SOURCES = f"{FOLDER_LIBRARY}/90 Sources"
+FOLDER_SYSTEM = f"{FOLDER_LIBRARY}/00 System"
 
 EVIDENCE_SUBFOLDERS = [
     "Book of Mormon/Chiasmus", "Book of Mormon/Hebraisms", "Book of Mormon/Literary",

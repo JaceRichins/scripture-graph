@@ -79,11 +79,12 @@ def _normalize_target(ctx: Ctx, relpath: str) -> str:
 
 
 def _guard_target(ctx: Ctx, relpath: str) -> str:
+    from scripturegraph.vaultgen.generate import FOLDER_CANONICAL, FOLDER_PERSONAL
     rel = _normalize_target(ctx, relpath)
     low = rel.lower()
-    if low.startswith("01 scriptures/canonical/"):
+    if low.startswith(FOLDER_CANONICAL.lower() + "/"):
         raise PatchViolation(f"IMMUTABLE: refusing to touch canonical scripture: {rel}")
-    if low.startswith("80 personal notes/"):
+    if low.startswith(FOLDER_PERSONAL.lower() + "/"):
         raise PatchViolation(f"PERSONAL: refusing to touch user-owned file: {rel}")
     row = ctx.db().execute(
         "SELECT kind, managed_by FROM file_registry WHERE lower(path)=?", (low,)).fetchone()
@@ -177,9 +178,12 @@ def _create_note(ctx: Ctx, op: dict, actor: str) -> tuple[str, str]:
     if sub:
         sub = "/".join(sanitize_filename(part) for part in str(sub).split("/") if part)
         folder = f"{folder}/{sub}"
+    from scripturegraph.vaultgen.generate import (FOLDER_CANONICAL, FOLDER_PERSONAL,
+                                                  FOLDER_SYSTEM)
     relpath = _normalize_target(ctx, f"{folder}/{title}.md")
     low = relpath.lower()
-    if low.startswith(("01 scriptures/canonical/", "80 personal notes/", "00 system/")):
+    if low.startswith((FOLDER_CANONICAL.lower() + "/", FOLDER_PERSONAL.lower() + "/",
+                       FOLDER_SYSTEM.lower() + "/")):
         raise PatchViolation(f"create_note outside allowed area: {relpath}")
     if (ctx.vault / relpath).exists():
         raise PatchViolation(f"note already exists (reuse it instead): {relpath}")

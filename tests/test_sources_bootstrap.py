@@ -39,7 +39,7 @@ def test_source_change_detection_and_conference_flow(imported_ctx):
     assert edge is not None
 
     # talk vault note exists with metadata (not full text)
-    note = ctx.vault / ("10 General Conference/2025/April/"
+    note = ctx.vault / ("Library/10 General Conference/2025/April/"
                         "The Power of Small Things (Elder Example, April 2025).md")
     assert note.exists()
     text = read_text(note)
@@ -48,7 +48,7 @@ def test_source_change_detection_and_conference_flow(imported_ctx):
     # conference pass renders the chapter's conference section
     from scripturegraph.corpus.conference import render_conference_section
     render_conference_section(ctx, "1ne-3")
-    guide = ctx.vault / ("01 Scriptures/Study Guides/Book of Mormon/1 Nephi/"
+    guide = ctx.vault / ("Library/01 Scriptures/Study Guides/Book of Mormon/1 Nephi/"
                          "1 Nephi 3 - Study Guide.md")
     _, body = md.parse_note(read_text(guide))
     conf = md.get_section(body, "conference")
@@ -81,9 +81,9 @@ def test_bootstrap_state_machine_resumes(mini_ctx):
     # full run to steady state on the mini corpus
     run_bootstrap(ctx)
     assert get_state(ctx) == "STEADY_STATE"
-    assert (ctx.vault / "00 System" / "Status.md").exists()
-    assert (ctx.vault / "00 System" / "Graph Health.md").exists()
-    assert (ctx.vault / "00 System" / "AI-CONSTITUTION.md").exists()
+    assert (ctx.vault / "Library/00 System" / "Status.md").exists()
+    assert (ctx.vault / "Library/00 System" / "Graph Health.md").exists()
+    assert (ctx.vault / "Library/00 System" / "AI-CONSTITUTION.md").exists()
 
 
 def test_personal_notes_indexed_never_touched(imported_ctx):

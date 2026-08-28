@@ -13,7 +13,9 @@
 
 const { Plugin, Menu, Modal, Notice, normalizePath } = require("obsidian");
 
-const CANONICAL_PREFIX = "01 Scriptures/Canonical/";
+const LIBRARY_PREFIX = "Library/";
+const CANONICAL_PREFIX = "Library/01 Scriptures/Canonical/";
+const PERSONAL_PREFIX = "80 Personal Notes/";
 const COLORS = ["yellow", "green", "blue", "pink", "orange"];
 
 class NoteModal extends Modal {
@@ -111,6 +113,24 @@ module.exports = class ScriptureGraphAnnotate extends Plugin {
         if (hit) this.clearVerse(hit.vslug);
       },
     });
+
+    // ---- the Library is read-only for humans -----------------------------
+    // Every Library file always opens in reading view (works on phones too,
+    // where the filesystem read-only attribute doesn't sync). Highlights and
+    // verse notes are the editing surface; prose editing happens in
+    // 80 Personal Notes.
+    this.registerEvent(this.app.workspace.on("active-leaf-change", (leaf) => {
+      try {
+        const view = leaf && leaf.view;
+        if (!view || view.getViewType() !== "markdown" || !view.file) return;
+        if (!view.file.path.startsWith(LIBRARY_PREFIX)) return;
+        const state = leaf.getViewState();
+        if (state.state && state.state.mode !== "preview") {
+          state.state.mode = "preview";
+          leaf.setViewState(state);
+        }
+      } catch (e) { /* never break navigation */ }
+    }));
 
     // ---- canonical protection warnings -----------------------------------
     this.registerEvent(this.app.vault.on("delete", (f) => {
@@ -268,7 +288,7 @@ module.exports = class ScriptureGraphAnnotate extends Plugin {
     if (!canonical) { new Notice("Could not resolve chapter"); return; }
     const title = canonical.basename;
     const myPath = normalizePath(canonical.path
-      .replace("01 Scriptures/Canonical/", "80 Personal Notes/Scriptures/")
+      .replace(CANONICAL_PREFIX, PERSONAL_PREFIX + "Scriptures/")
       .replace(/\.md$/, " - My Notes.md"));
     let file = this.app.vault.getAbstractFileByPath(myPath);
     if (!file) {

@@ -8,7 +8,7 @@ evidence_strength: 0.8
 study_relevance: 0.85
 source_quality: 0.95
 consensus_status: broadly accepted
-sg-path: 40 Evidence/Bible/Manuscripts/Dead Sea Scrolls and Old Testament reliability.md
+sg-path: Library/40 Evidence/Bible/Manuscripts/Dead Sea Scrolls and Old Testament reliability.md
 ---
 # Dead Sea Scrolls and Old Testament reliability
 

@@ -8,7 +8,7 @@ evidence_strength: 0.5
 study_relevance: 0.8
 source_quality: 0.7
 consensus_status: believing scholarship
-sg-path: 40 Evidence/Book of Mormon/Geography/Nahom and the NHM altars.md
+sg-path: Library/40 Evidence/Book of Mormon/Geography/Nahom and the NHM altars.md
 ---
 # Nahom and the NHM altars
 

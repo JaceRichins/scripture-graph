@@ -261,7 +261,8 @@ def _copy_seed_notes(ctx: Ctx) -> None:
     from scripturegraph.vaultgen import md as mdkit
     from scripturegraph.util import slugify
     base = res.files("scripturegraph").joinpath("assets/seed_notes")
-    for kind, folder_of in (("evidence", None), ("questions", "50 Questions")):
+    from scripturegraph.vaultgen.generate import FOLDER_QUESTIONS
+    for kind, folder_of in (("evidence", None), ("questions", FOLDER_QUESTIONS)):
         src_dir = base.joinpath(kind)
         try:
             entries = list(src_dir.iterdir())
