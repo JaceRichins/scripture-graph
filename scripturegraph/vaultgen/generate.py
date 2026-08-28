@@ -331,6 +331,7 @@ A living, AI-maintained knowledge graph for serious scripture study.
 - {md.wikilink('Church History')}
 
 ## System
+- {md.wikilink('STUDY-TOOLS', 'Study Tools')} — highlighting, verse notes, protection
 - {md.wikilink('Status')} — corpus, coverage, and engine state
 - {md.wikilink('Graph Health')}
 - {md.wikilink('README')} · {md.wikilink('ARCHITECTURE')} · {md.wikilink('AI-CONSTITUTION')}
@@ -374,6 +375,17 @@ def write_obsidian_config(ctx: Ctx) -> None:
     snippets.mkdir(exist_ok=True)
     css = res.files("scripturegraph").joinpath("assets/obsidian/snippets/scripture-graph.css")
     atomic_write_text(snippets / "scripture-graph.css", css.read_text(encoding="utf-8"))
+    # bundled plugin: highlight/notes overlay (data.json = user data, preserved)
+    plug_src = res.files("scripturegraph").joinpath(
+        "assets/obsidian/plugins/scripture-graph-annotate")
+    plug_dst = obs / "plugins" / "scripture-graph-annotate"
+    plug_dst.mkdir(parents=True, exist_ok=True)
+    for entry in plug_src.iterdir():
+        if entry.name != "data.json":
+            atomic_write_text(plug_dst / entry.name, entry.read_text(encoding="utf-8"))
+    cp = obs / "community-plugins.json"
+    if not cp.exists():
+        atomic_write_text(cp, json.dumps(["scripture-graph-annotate"], indent=2))
 
 
 # ------------------------------------------------------------- generate all

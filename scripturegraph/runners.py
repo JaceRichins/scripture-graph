@@ -174,6 +174,13 @@ def run_study(ctx: Ctx) -> dict:
     est = int(ctx.c("study.job_estimate_sec", 540))
     safety = 120
     try:
+        # 0. canonical self-heal: any user edit/deletion of scripture files is
+        # detected and restored EVERY tick (≤30-minute damage window)
+        from scripturegraph.validation import Report, check_canonical
+        report = Report()
+        check_canonical(ctx, report, repair=True)
+        if report.stats.get("canonical_restored"):
+            stats["canonical_restored"] = report.stats["canonical_restored"]
         # 1. quick deterministic drain (renders, re-opened passes, …)
         stats["det"] = _process(ctx, include_ai=False, max_items=600,
                                 deadline_ts=start + min(300, window // 4))

@@ -30,6 +30,7 @@ A living, AI-maintained knowledge graph for serious scripture study.
 - [[Church History]]
 
 ## System
+- [[STUDY-TOOLS|Study Tools]] — highlighting, verse notes, protection
 - [[Status]] — corpus, coverage, and engine state
 - [[Graph Health]]
 - [[README]] · [[ARCHITECTURE]] · [[AI-CONSTITUTION]]
