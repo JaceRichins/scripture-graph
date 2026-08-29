@@ -784,6 +784,14 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 }
 
 /* ---------- My Study pages (.sg-personal): reading-first ------------------ */
+/* system frontmatter (ownership/slug/cssclasses...) is plumbing, not reading
+   material — hide the whole Properties block in READING view on personal
+   pages and on any page that renders verses; edit mode still shows it */
+.markdown-preview-view.sg-personal .metadata-container,
+.sg-personal .markdown-preview-view .metadata-container,
+.markdown-preview-view:has([data-verse-id]) .metadata-container {
+  display: none;
+}
 /* the embedded scripture/guide render as part of the page — no embed chrome,
    no duplicated titles, no indent boxes */
 .sg-personal .markdown-embed { border: none; padding: 0; margin: 0; }

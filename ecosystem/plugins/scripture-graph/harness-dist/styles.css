@@ -306,14 +306,14 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 }
 .sg-scene-waters .sgl-2, .sg-scene-waters .sgl-3, .sg-scene-waters .sgl-4 {
   border-radius: 50%;
-  left: 50%; top: 36%; width: 62vmax; height: 30vmax;
+  left: 46%; top: 34%; width: 34vmax; height: 12vmax;
   inset: auto; transform: translate(-50%, -50%) scale(0.05);
-  border: 2px solid rgba(190, 235, 252, 0.5);
-  box-shadow: 0 0 26px rgba(150, 215, 245, 0.12) inset;
+  border: 1.6px solid rgba(190, 235, 252, 0.5);
+  box-shadow: 0 0 20px rgba(150, 215, 245, 0.12) inset;
   animation: sg-ripple 13s cubic-bezier(0.15, 0.6, 0.4, 1) infinite;
 }
-.sg-scene-waters .sgl-3 { animation-delay: 4.3s; left: 38%; }
-.sg-scene-waters .sgl-4 { animation-delay: 8.6s; left: 64%; top: 62%; }
+.sg-scene-waters .sgl-3 { animation-delay: 4.3s; left: 24%; top: 58%; width: 28vmax; height: 10vmax; }
+.sg-scene-waters .sgl-4 { animation-delay: 8.6s; left: 72%; top: 70%; width: 30vmax; height: 11vmax; }
 .sg-scene-waters .sgl-5 { /* the moon's glint lane on the water */
   background: linear-gradient(180deg, transparent 53%,
     rgba(200, 238, 255, 0.16) 56%, rgba(190, 232, 252, 0.09) 72%,
@@ -388,9 +388,10 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
   sg-sky-turn 240s linear infinite alternate; }
 .sg-scene-starlight .sgl-4 { /* the Milky Way itself, arcing across the sky */
   background-repeat: no-repeat; background-position: center; background-size: cover;
-  animation: sg-shimmer 22s ease-in-out infinite alternate,
+  animation: sg-galaxy-breathe 22s ease-in-out infinite alternate,
     sg-sky-turn 300s linear infinite alternate-reverse;
 }
+@keyframes sg-galaxy-breathe { from { opacity: 0.78; } to { opacity: 1; } }
 @keyframes sg-twinkle { from { opacity: 0.45; } to { opacity: 1; } }
 @keyframes sg-sky-turn { from { transform: translateX(-1.5%); } to { transform: translateX(1.5%); } }
 .sg-scene-starlight .sgl-5 { /* aurora + far nebulae breathing at the edges */
@@ -783,6 +784,14 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 }
 
 /* ---------- My Study pages (.sg-personal): reading-first ------------------ */
+/* system frontmatter (ownership/slug/cssclasses...) is plumbing, not reading
+   material — hide the whole Properties block in READING view on personal
+   pages and on any page that renders verses; edit mode still shows it */
+.markdown-preview-view.sg-personal .metadata-container,
+.sg-personal .markdown-preview-view .metadata-container,
+.markdown-preview-view:has([data-verse-id]) .metadata-container {
+  display: none;
+}
 /* the embedded scripture/guide render as part of the page — no embed chrome,
    no duplicated titles, no indent boxes */
 .sg-personal .markdown-embed { border: none; padding: 0; margin: 0; }
