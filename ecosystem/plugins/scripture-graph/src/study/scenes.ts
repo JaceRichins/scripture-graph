@@ -14,8 +14,8 @@ export interface SceneDef {
 }
 
 export const SCENES: SceneDef[] = [
-  { id: "sunrise", name: "Sunrise", emoji: "🌅", hours: [[5, 10]], layers: 5 },
-  { id: "waters", name: "Still Waters", emoji: "🌊", hours: [[10, 16]], layers: 7 },
+  { id: "sunrise", name: "Sunrise", emoji: "🌅", hours: [[5, 10]], layers: 6 },
+  { id: "waters", name: "Still Waters", emoji: "🌊", hours: [[10, 16]], layers: 8 },
   { id: "mount", name: "The Mount", emoji: "⛰️", hours: [], layers: 6 },
   { id: "garden", name: "The Garden", emoji: "🌿", hours: [], layers: 5 },
   { id: "fields", name: "The Fields", emoji: "🌾", hours: [], layers: 6 },
@@ -51,8 +51,8 @@ function seededStars(seed: number, n: number, w: number, h: number,
   return svgUrl(w, h, c, true);
 }
 
-/** jagged mountain ridgeline via seeded random walk */
-function ridge(seed: number, color: string, base: number, jag: number): string {
+/** jagged mountain ridgeline via seeded random walk; crest = lit edge stroke */
+function ridge(seed: number, color: string, base: number, jag: number, crest?: string): string {
   const rnd = lcg(seed);
   let d = `M0 ${base}`;
   let y = base;
@@ -60,15 +60,107 @@ function ridge(seed: number, color: string, base: number, jag: number): string {
     y = Math.max(20, Math.min(190, y + (rnd() - 0.5) * 2 * jag));
     d += ` L${x} ${y.toFixed(0)}`;
   }
+  const open = d;
   d += " L900 200 L0 200 Z";
-  return svgUrl(900, 200, `<path d='${d}' fill='${color}'/>`);
+  let c = `<path d='${d}' fill='${color}'/>`;
+  if (crest) c += `<path d='${open}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
+  return svgUrl(900, 200, c);
 }
 
-/** smooth rolling hills / dunes / swells */
-function hills(color: string, amp: number, phase: number): string {
-  return svgUrl(900, 200,
-    `<path d='M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} `
-    + `T 600 ${118 + phase} T 900 ${128 + phase} L 900 200 L 0 200 Z' fill='${color}'/>`);
+/** smooth rolling hills / dunes / swells; crest = foam/light along the top edge */
+function hills(color: string, amp: number, phase: number, crest?: string): string {
+  const top = `M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} `
+    + `T 600 ${118 + phase} T 900 ${128 + phase}`;
+  let c = `<path d='${top} L 900 200 L 0 200 Z' fill='${color}'/>`;
+  if (crest) c += `<path d='${top}' stroke='${crest}' stroke-width='2.6' fill='none' opacity='0.5'/>`;
+  return svgUrl(900, 200, c);
+}
+
+/** cattail reeds rising from the bank — clustered left, a few on the right */
+function reeds(seed: number, color: string): string {
+  const rnd = lcg(seed);
+  let c = "";
+  const stem = (x: number, h: number, lean: number, head: boolean): string => {
+    const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
+    let s = `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.35).toFixed(0)} ${(200 - h * 0.6).toFixed(0)} `
+      + `${hx} ${hy}' stroke='${color}' stroke-width='3' fill='none'/>`;
+    if (head) {
+      s += `<rect x='${(x + lean - 4).toFixed(0)}' y='${hy}' width='8' height='26' rx='4' fill='${color}' `
+        + `transform='rotate(${(lean * 0.8).toFixed(0)} ${hx} ${hy})'/>`;
+    }
+    return s;
+  };
+  for (let i = 0; i < 14; i++) {
+    c += stem(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
+  }
+  for (let i = 0; i < 5; i++) {
+    c += stem(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
+  }
+  return svgUrl(900, 200, c);
+}
+
+/** rolling cloud bank hanging from the top edge */
+function clouds(seed: number, color: string): string {
+  const rnd = lcg(seed);
+  let c = `<rect x='0' y='0' width='900' height='30' fill='${color}'/>`;
+  for (let i = 0; i < 13; i++) {
+    const x = i * 72 + rnd() * 36;
+    const depth = 24 + rnd() * 74;
+    for (let j = 0; j < 5; j++) {
+      c += `<ellipse cx='${(x + (rnd() - 0.5) * 90).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' `
+        + `rx='${(42 + rnd() * 52).toFixed(0)}' ry='${(18 + rnd() * 20).toFixed(0)}' fill='${color}'/>`;
+    }
+  }
+  return svgUrl(900, 200, c);
+}
+
+/** forked lightning bolt, walked downward from the cloud base */
+function bolt(seed: number, color: string): string {
+  const rnd = lcg(seed);
+  const walk = (x0: number, y0: number, yEnd: number, drift: number): string => {
+    let d = `M${x0.toFixed(0)} ${y0.toFixed(0)}`;
+    let x = x0;
+    for (let y = y0; y < yEnd; y += 34 + rnd() * 22) {
+      x += (rnd() - 0.5) * drift;
+      d += ` L${x.toFixed(0)} ${Math.min(y, yEnd).toFixed(0)}`;
+    }
+    return d;
+  };
+  return svgUrl(300, 420,
+    `<path d='${walk(150, 0, 340, 74)}' stroke='${color}' stroke-width='3.4' fill='none' `
+    + `stroke-linecap='round' stroke-linejoin='round'/>`
+    + `<path d='${walk(150 + (rnd() - 0.5) * 30, 120, 265, 88)}' stroke='${color}' stroke-width='1.8' `
+    + `fill='none' stroke-linecap='round' stroke-linejoin='round' opacity='0.8'/>`, true);
+}
+
+/** the Milky Way: a dense diagonal star lane with nebula tints and dust */
+function galaxy(seed: number): string {
+  const rnd = lcg(seed);
+  let c = "";
+  const px = (t: number): number => t * 1600;
+  const py = (t: number): number => 640 - t * 380;
+  for (let i = 0; i < 4; i++) {
+    const t = 0.12 + i * 0.24;
+    const hue = ["#b78cff", "#7fd4d4", "#ff9ad5", "#9fb4ff"][i]!;
+    c += `<ellipse cx='${px(t).toFixed(0)}' cy='${py(t).toFixed(0)}' rx='${(220 + rnd() * 140).toFixed(0)}' `
+      + `ry='${(80 + rnd() * 60).toFixed(0)}' fill='${hue}' opacity='0.055' `
+      + `transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
+  }
+  for (let i = 0; i < 3; i++) {
+    const t = 0.2 + i * 0.28;
+    c += `<ellipse cx='${px(t).toFixed(0)}' cy='${(py(t) + 14).toFixed(0)}' rx='${(200 + rnd() * 120).toFixed(0)}' `
+      + `ry='${(26 + rnd() * 22).toFixed(0)}' fill='#070919' opacity='0.4' `
+      + `transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
+  }
+  for (let i = 0; i < 560; i++) {
+    const t = rnd();
+    const spread = (rnd() + rnd() - 1) * 130;
+    const shade = rnd();
+    const fill = shade > 0.85 ? "#ffd9c4" : shade > 0.5 ? "#cdd6ff" : "#ffffff";
+    c += `<circle cx='${(px(t) + (rnd() - 0.5) * 40).toFixed(0)}' cy='${(py(t) + spread).toFixed(0)}' `
+      + `r='${(0.5 + rnd() * 1.1).toFixed(2)}' fill='${fill}' opacity='${(0.25 + rnd() * 0.7).toFixed(2)}'/>`;
+  }
+  return svgUrl(1600, 900, c, true);
 }
 
 /** ancient city skyline: walls, towers, domes */
@@ -88,8 +180,9 @@ function skyline(seed: number, color: string): string {
   return svgUrl(900, 200, c);
 }
 
-/** temple facade: pediment + entablature + columns on stepped base, grounded at bottom */
-function facade(color: string): string {
+/** temple facade: pediment + entablature + columns on stepped base, grounded at
+ *  bottom; a warm-lit doorway glows at the center of the portico */
+function facade(color: string, door?: string): string {
   let c = `<rect x='120' y='188' width='660' height='12' fill='${color}'/>`
     + `<rect x='145' y='178' width='610' height='10' fill='${color}'/>`
     + `<rect x='160' y='76' width='580' height='18' fill='${color}'/>`
@@ -97,6 +190,14 @@ function facade(color: string): string {
   for (let x = 185; x <= 665; x += 80) {
     c += `<rect x='${x}' y='100' width='22' height='78' rx='3' fill='${color}'/>`
       + `<rect x='${x - 5}' y='94' width='32' height='8' fill='${color}'/>`;
+  }
+  if (door) {
+    c = `<defs><radialGradient id='dg' cx='0.5' cy='0.7' r='0.5'>`
+      + `<stop offset='0%' stop-color='${door}' stop-opacity='0.55'/>`
+      + `<stop offset='100%' stop-color='${door}' stop-opacity='0'/>`
+      + `</radialGradient></defs>` + c
+      + `<ellipse cx='450' cy='152' rx='96' ry='64' fill='url(#dg)'/>`
+      + `<path d='M426 178 L426 140 Q450 118 474 140 L474 178 Z' fill='${door}' opacity='0.9'/>`;
   }
   return svgUrl(900, 200, c);
 }
@@ -200,8 +301,9 @@ export class SceneManager {
 
   private decorate(id: string, el: HTMLElement): void {
     if (id === "starlight") {
-      this.bg(el, 2, seededStars(7, 110, 1200, 900, 0.6, 1.4, "#ffffff"));
-      this.bg(el, 3, seededStars(23, 70, 1100, 800, 0.9, 1.9, "#cdd6ff"));
+      this.bg(el, 2, seededStars(7, 150, 1200, 900, 0.6, 1.4, "#ffffff"));
+      this.bg(el, 3, seededStars(23, 95, 1100, 800, 0.9, 2.0, "#cdd6ff"));
+      this.bg(el, 4, galaxy(67));
       el.createDiv({ cls: "sgp sg-shoot sg-shoot-a" });
       el.createDiv({ cls: "sgp sg-shoot sg-shoot-b" });
     }
@@ -230,7 +332,15 @@ export class SceneManager {
       }
     }
     if (id === "waters") {
+      // ripples live inside a clip so they can never wash up into the sky
+      const clip = el.createDiv({ cls: "sg-water-clip" });
+      el.insertBefore(clip, el.querySelector(".sgl-5"));
+      for (const n of [2, 3, 4]) {
+        const ring = el.querySelector(`.sgl-${n}`);
+        if (ring) clip.appendChild(ring);
+      }
       this.bg(el, 7, hills("#04121c", 16, 55)); // far shore
+      this.bg(el, 8, reeds(73, "#031017")); // cattails on the near bank
       particles(el, "sg-mote", 7, 91, (rnd, p) => {
         p.style.left = `${8 + rnd() * 84}%`;
         p.style.bottom = `${8 + rnd() * 40}%`;
@@ -247,9 +357,15 @@ export class SceneManager {
       });
     }
     if (id === "mount") {
-      this.bg(el, 2, ridge(5, "#2c3350", 100, 34));   // far range
-      this.bg(el, 3, ridge(29, "#1d2338", 130, 42));  // mid range
-      this.bg(el, 4, ridge(53, "#10131f", 160, 48));  // near range
+      this.bg(el, 2, ridge(5, "#2c3350", 100, 34, "#8fa3d6"));   // far range, dawn-lit crest
+      this.bg(el, 3, ridge(29, "#1d2338", 130, 42, "#5a6a97"));  // mid range
+      this.bg(el, 4, ridge(53, "#10131f", 160, 48));             // near range, dark
+      const b = el.createDiv({ cls: "sgp sg-bird" });            // one eagle, very high
+      b.style.backgroundImage = bird("#0e1220");
+      b.style.top = "9%";
+      b.style.animationDuration = "58s";
+      b.style.animationDelay = "-20s";
+      b.style.transform = "scale(0.8)";
       particles(el, "sg-mist", 4, 71, (rnd, p) => {
         p.style.top = `${34 + rnd() * 38}%`;
         p.style.animationDuration = `${34 + rnd() * 30}s`;
@@ -275,6 +391,18 @@ export class SceneManager {
         p.style.animationDuration = `${7 + rnd() * 8}s, ${3 + rnd() * 3}s`;
         p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });
+      particles(el, "sg-petal", 5, 103, (rnd, p) => {   // blossom petals drifting down
+        p.style.left = `${rnd() * 94}%`;
+        p.style.animationDuration = `${14 + rnd() * 10}s, ${4 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 20}s, ${-rnd() * 4}s`;
+        p.style.transform = `scale(${0.7 + rnd() * 0.6})`;
+      });
+      particles(el, "sg-blossom", 7, 109, (rnd, p) => { // blossoms up in the canopy
+        p.style.left = `${rnd() * 96}%`;
+        p.style.top = `${1 + rnd() * 12}%`;
+        p.style.animationDuration = `${5 + rnd() * 6}s`;
+        p.style.animationDelay = `${-rnd() * 8}s`;
+      });
     }
     if (id === "fields") {
       this.bg(el, 3, hills("#6d4a1f", 24, 30));
@@ -288,8 +416,13 @@ export class SceneManager {
       });
     }
     if (id === "storm") {
-      this.bg(el, 5, hills("#0a1420", 55, 30));       // heaving swell
-      this.bg(el, 6, hills("#050b13", 70, 60));       // near swell
+      this.bg(el, 5, hills("#0a1420", 55, 30, "#7d99b8"));  // heaving swell, foam crest
+      this.bg(el, 6, hills("#050b13", 70, 60, "#5c7896"));  // near swell
+      this.bg(el, 7, clouds(31, "#0b1019"));                // rolling cloud bank
+      const lit = el.createDiv({ cls: "sgp sg-cloudlit" }); // clouds ignite with the flash
+      lit.style.backgroundImage = clouds(31, "#93aed0");
+      const bt = el.createDiv({ cls: "sgp sg-bolt" });      // the strike itself
+      bt.style.backgroundImage = bolt(101, "#eaf2ff");
       el.createDiv({ cls: "sgp sg-flash" });
       particles(el, "sg-cloudmass", 3, 127, (rnd, p) => {
         p.style.top = `${-6 + rnd() * 18}%`;
@@ -299,12 +432,19 @@ export class SceneManager {
       });
     }
     if (id === "temple") {
-      this.bg(el, 3, facade("#1c1207"));
+      this.bg(el, 2, seededStars(83, 60, 1200, 420, 0.5, 1.3, "#ffe9c9"));
+      this.bg(el, 4, facade("#1c1207", "#ffc879"));
       this.bg(el, 5, hills("#0d0805", 16, 80));
       particles(el, "sg-incense", 5, 139, (rnd, p) => {
-        p.style.left = `${20 + rnd() * 60}%`;
+        p.style.left = `${22 + rnd() * 56}%`;
         p.style.animationDuration = `${16 + rnd() * 12}s`;
         p.style.animationDelay = `${-rnd() * 20}s`;
+      });
+      particles(el, "sg-ember sg-spark", 6, 149, (rnd, p) => {
+        p.style.left = `${44 + rnd() * 12}%`;
+        p.style.animationDuration = `${6 + rnd() * 6}s`;
+        p.style.animationDelay = `${-rnd() * 10}s`;
+        p.style.width = p.style.height = `${1.5 + rnd() * 2.5}px`;
       });
     }
     if (id === "city") {

@@ -71,6 +71,9 @@ export function registerReadingIntegration(
           parent.replaceChild(rest, node);
           parent.insertBefore(cap, rest);
           parent.insertBefore(lead, cap);
+          // the verse-1 chip must float ahead of the floated cap, or the
+          // number lands inside the word ("B1ut") — CSS keys off this class
+          first.p.addClass("sg-cap-p");
         }
       }
     }

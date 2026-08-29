@@ -126,11 +126,29 @@ body.sg-scene-on .markdown-preview-view h2,
 body.sg-scene-on .markdown-preview-view h3 { color: var(--sg-ink-strong, #f6f3ea); }
 body.sg-scene-on .markdown-preview-view a.internal-link,
 body.sg-scene-on .sg-reader a.internal-link { color: var(--sg-ink-accent, #ffd88a); }
+/* the words belong to the scene: title glow, lit drop cap, accented chips */
+body.sg-scene-on .markdown-preview-view h1 {
+  color: var(--sg-ink-strong, #f6f3ea);
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 28px color-mix(in srgb, var(--sg-ink-accent, #ffd88a) 26%, transparent);
+}
+body.sg-scene-on .sg-dropcap {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25),
+    0 0 22px color-mix(in srgb, var(--sg-ink-accent, #ffd88a) 45%, transparent);
+}
+body.sg-scene-on .sg-voice-who { color: var(--sg-ink-accent, #ffd88a); }
+body.sg-scene-on .sg-voice-line {
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-style: italic;
+}
+body.sg-scene-on .markdown-preview-view blockquote {
+  border-left-color: color-mix(in srgb, var(--sg-ink-accent, #ffd88a) 55%, transparent);
+}
 /* verse chips restyled to live on the scene */
 body.sg-scene-on .markdown-preview-view [data-verse-id] > strong,
 body.sg-scene-on .sg-reader [data-verse-id] > strong {
   background: rgba(255, 255, 255, 0.10);
-  border-color: rgba(255, 255, 255, 0.16);
+  border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
   color: var(--sg-ink, #eae7e0);
 }
 /* per-scene ink palettes — this is what makes it a THEME */
@@ -247,7 +265,19 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
   background: radial-gradient(ellipse at 50% 92%, rgba(255, 236, 180, 0.35) 0%, transparent 46%);
   animation: sg-halo 12s ease-in-out infinite alternate;
 }
-.sg-scene-sunrise .sgl-4 { /* drifting morning haze */
+.sg-scene-sunrise .sgl-4 { /* crepuscular rays fanning up from the sun
+  (layer is oversized by 22%, so 76% here = 88% of the viewport) */
+  inset: -22%;
+  background: repeating-conic-gradient(from -46deg at 50% 76%,
+    rgba(255, 224, 156, 0.04) 0deg 4.5deg, transparent 4.5deg 16deg);
+  -webkit-mask-image: radial-gradient(56% 48% at 50% 76%, #000 0%, transparent 72%);
+  mask-image: radial-gradient(56% 48% at 50% 76%, #000 0%, transparent 72%);
+  transform-origin: 50% 76%;
+  animation: sg-ray-turn 46s ease-in-out infinite alternate;
+  opacity: 0.9;
+}
+@keyframes sg-ray-turn { from { transform: rotate(-3deg); } to { transform: rotate(3deg); } }
+.sg-scene-sunrise .sgl-6 { /* drifting morning haze over the land */
   background: linear-gradient(100deg, transparent 30%, rgba(255, 230, 200, 0.09) 46%,
     transparent 60%, rgba(255, 230, 200, 0.07) 78%, transparent 92%);
   animation: sg-haze 38s linear infinite;
@@ -257,29 +287,40 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 @keyframes sg-halo { from { opacity: 0.55; } to { opacity: 1; } }
 @keyframes sg-haze { from { transform: translateX(-12%); } to { transform: translateX(12%); } }
 /* self-translating layers are oversized so their edges never drift into view */
-.sg-scene-sunrise .sgl-4 { left: -20%; right: -20%; }
-.sg-scene-starlight .sgl-3 { left: -4%; right: -4%; }
+.sg-scene-sunrise .sgl-6 { left: -20%; right: -20%; }
+.sg-scene-starlight .sgl-3, .sg-scene-starlight .sgl-4 { left: -4%; right: -4%; }
 .sg-scene-storm .sgl-2, .sg-scene-storm .sgl-3 { top: -80px; bottom: -80px; left: -40px; right: -40px; }
 .sg-scene-storm .sgl-5, .sg-scene-storm .sgl-6 { left: -4%; right: -4%; bottom: -14px; }
 
-/* ── 🌊 Still Waters: ripples in a calm pond ── */
-.sg-scene-waters .sgl-1 {
-  background: radial-gradient(120% 90% at 50% 0%, #10394a 0%, #0b2a3c 44%, #071c2c 100%);
+/* ── 🌊 Still Waters: a moonlit pond at dusk ── */
+.sg-scene-waters .sgl-1 { /* sky above the waterline, water below; the moon */
+  background:
+    radial-gradient(circle at 70% 22%, rgba(245, 252, 255, 0.95) 0 5px,
+      rgba(205, 235, 255, 0.4) 11px, rgba(180, 220, 250, 0.12) 26px, transparent 52px),
+    linear-gradient(180deg, #1c4a60 0%, #1b5169 30%, #2a6a84 50%, #14435c 54%,
+      #0d3348 70%, #082537 100%);
+}
+.sg-water-clip { /* everything below the waterline */
+  position: absolute; left: 0; right: 0; top: 54%; bottom: 0;
+  overflow: hidden; pointer-events: none;
 }
 .sg-scene-waters .sgl-2, .sg-scene-waters .sgl-3, .sg-scene-waters .sgl-4 {
   border-radius: 50%;
-  left: 50%; top: 58%; width: 60vmax; height: 34vmax;
+  left: 50%; top: 36%; width: 62vmax; height: 30vmax;
   inset: auto; transform: translate(-50%, -50%) scale(0.05);
-  border: 1.5px solid rgba(160, 220, 240, 0.35);
-  box-shadow: 0 0 24px rgba(120, 200, 235, 0.08) inset;
+  border: 2px solid rgba(190, 235, 252, 0.5);
+  box-shadow: 0 0 26px rgba(150, 215, 245, 0.12) inset;
   animation: sg-ripple 13s cubic-bezier(0.15, 0.6, 0.4, 1) infinite;
 }
-.sg-scene-waters .sgl-3 { animation-delay: 4.3s; }
-.sg-scene-waters .sgl-4 { animation-delay: 8.6s; }
-.sg-scene-waters .sgl-5 { /* moonlight shimmer lane */
-  background: linear-gradient(180deg, transparent 40%,
-    rgba(170, 225, 245, 0.05) 55%, rgba(170, 225, 245, 0.1) 70%, transparent 95%);
-  animation: sg-shimmer 9s ease-in-out infinite alternate;
+.sg-scene-waters .sgl-3 { animation-delay: 4.3s; left: 38%; }
+.sg-scene-waters .sgl-4 { animation-delay: 8.6s; left: 64%; top: 62%; }
+.sg-scene-waters .sgl-5 { /* the moon's glint lane on the water */
+  background: linear-gradient(180deg, transparent 53%,
+    rgba(200, 238, 255, 0.16) 56%, rgba(190, 232, 252, 0.09) 72%,
+    rgba(180, 228, 250, 0.04) 88%, transparent 98%);
+  -webkit-mask-image: linear-gradient(90deg, transparent 58%, #000 66%, #000 76%, transparent 84%);
+  mask-image: linear-gradient(90deg, transparent 58%, #000 66%, #000 76%, transparent 84%);
+  animation: sg-shimmer 7s ease-in-out infinite alternate;
 }
 @keyframes sg-ripple {
   0% { transform: translate(-50%, -50%) scale(0.05); opacity: 0; }
@@ -287,13 +328,22 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
   100% { transform: translate(-50%, -50%) scale(1); opacity: 0; }
 }
 @keyframes sg-shimmer { from { opacity: 0.5; } to { opacity: 1; } }
-.sg-scene-waters .sgl-6 { /* slow surface breathing */
-  background: radial-gradient(90% 50% at 50% 62%, rgba(120, 200, 230, 0.06), transparent 70%);
-  animation: sg-shimmer 14s ease-in-out infinite alternate-reverse;
+.sg-scene-waters .sgl-6 { /* light playing on the surface */
+  top: 54%; bottom: 0;
+  background: repeating-linear-gradient(178deg,
+    transparent 0 9px, rgba(170, 225, 250, 0.05) 9px 10.5px, transparent 10.5px 22px);
+  animation: sg-caustic 26s linear infinite alternate;
 }
+@keyframes sg-caustic { from { background-position-x: 0; } to { background-position-x: 70px; } }
+.sg-scene-waters .sgl-8 { /* cattails on the near bank */
+  background-repeat: repeat-x; background-position: bottom; background-size: 110% 30%;
+  transform-origin: 50% 100%;
+  animation: sg-reed-sway 8s ease-in-out infinite alternate;
+}
+@keyframes sg-reed-sway { from { transform: skewX(-0.7deg); } to { transform: skewX(0.9deg); } }
 .sg-scene-waters .sgl-scrim {
-  background: linear-gradient(180deg, rgba(4, 20, 31, 0.48) 0%,
-    rgba(4, 20, 31, 0.32) 24%, rgba(4, 20, 31, 0.34) 76%, rgba(4, 20, 31, 0.52) 100%);
+  background: linear-gradient(180deg, rgba(4, 22, 33, 0.46) 0%,
+    rgba(4, 22, 33, 0.30) 24%, rgba(4, 22, 33, 0.32) 76%, rgba(4, 22, 33, 0.50) 100%);
 }
 
 /* ── 🏜️ Desert Dusk: dunes under a burnt sky ── */
@@ -336,16 +386,18 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 .sg-scene-starlight .sgl-2 { animation: sg-twinkle 7s ease-in-out infinite alternate; }
 .sg-scene-starlight .sgl-3 { animation: sg-twinkle 11s ease-in-out infinite alternate-reverse,
   sg-sky-turn 240s linear infinite alternate; }
-.sg-scene-starlight .sgl-4 { /* faint galactic band */
-  background: linear-gradient(115deg, transparent 38%, rgba(190, 200, 255, 0.06) 48%,
-    rgba(220, 210, 255, 0.09) 52%, rgba(190, 200, 255, 0.06) 57%, transparent 68%);
-  animation: sg-shimmer 16s ease-in-out infinite alternate;
+.sg-scene-starlight .sgl-4 { /* the Milky Way itself, arcing across the sky */
+  background-repeat: no-repeat; background-position: center; background-size: cover;
+  animation: sg-shimmer 22s ease-in-out infinite alternate,
+    sg-sky-turn 300s linear infinite alternate-reverse;
 }
 @keyframes sg-twinkle { from { opacity: 0.45; } to { opacity: 1; } }
 @keyframes sg-sky-turn { from { transform: translateX(-1.5%); } to { transform: translateX(1.5%); } }
-.sg-scene-starlight .sgl-5 { /* aurora wisp breathing at the horizon */
-  background: radial-gradient(70% 26% at 50% 96%, rgba(120, 200, 190, 0.10),
-    rgba(130, 150, 255, 0.05) 55%, transparent 75%);
+.sg-scene-starlight .sgl-5 { /* aurora + far nebulae breathing at the edges */
+  background: radial-gradient(34% 22% at 16% 22%, rgba(183, 140, 255, 0.07), transparent 75%),
+    radial-gradient(30% 20% at 86% 38%, rgba(127, 212, 212, 0.06), transparent 75%),
+    radial-gradient(70% 26% at 50% 96%, rgba(120, 200, 190, 0.10),
+      rgba(130, 150, 255, 0.05) 55%, transparent 75%);
   animation: sg-shimmer 18s ease-in-out infinite alternate;
 }
 .sg-scene-starlight .sgl-scrim {
@@ -353,9 +405,10 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
     rgba(5, 7, 15, 0.30) 22%, rgba(5, 7, 15, 0.32) 78%, rgba(5, 7, 15, 0.52) 100%);
 }
 
-/* ── ⛰️ The Mount: ridgelines in moving mist ── */
+/* ── ⛰️ The Mount: alpine dawn, glory resting on the summit ── */
 .sg-scene-mount .sgl-1 {
-  background: linear-gradient(180deg, #6f7fa8 0%, #55628c 30%, #3b4468 60%, #232945 100%);
+  background: linear-gradient(180deg, #3d4a74 0%, #5d6c9a 36%, #8b98c0 58%,
+    #cfc3ae 72%, #8d7f70 88%, #4a4250 100%);
   animation: sg-dawn-breathe 52s ease-in-out infinite alternate;
 }
 .sg-scene-mount .sgl-2, .sg-scene-mount .sgl-3, .sg-scene-mount .sgl-4 {
@@ -364,9 +417,20 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 .sg-scene-mount .sgl-2 { animation: sg-parallax 120s linear infinite alternate; opacity: 0.75; }
 .sg-scene-mount .sgl-3 { background-size: 120% 58%; animation: sg-parallax 85s linear infinite alternate-reverse; }
 .sg-scene-mount .sgl-4 { background-size: 115% 72%; animation: sg-parallax 60s linear infinite alternate; }
-.sg-scene-mount .sgl-5 { /* summit light breaking through */
-  background: radial-gradient(50% 34% at 62% 12%, rgba(255, 244, 214, 0.30), transparent 70%);
+.sg-scene-mount .sgl-5 { /* the cloud of glory resting on the peak */
+  background: radial-gradient(30% 22% at 63% 42%, rgba(255, 246, 220, 0.42) 0%,
+    rgba(255, 238, 200, 0.16) 46%, transparent 74%);
   animation: sg-halo 16s ease-in-out infinite alternate;
+}
+.sg-scene-mount .sgl-6 { /* soft glory breaking from the summit
+  (layer is oversized by 22%, so 59%/44% here = 63%/42% of the viewport) */
+  inset: -22%;
+  background: repeating-conic-gradient(from -70deg at 59% 44%,
+    rgba(255, 240, 205, 0.035) 0deg 3.5deg, transparent 3.5deg 15deg);
+  -webkit-mask-image: radial-gradient(34% 30% at 59% 44%, #000 0%, transparent 70%);
+  mask-image: radial-gradient(34% 30% at 59% 44%, #000 0%, transparent 70%);
+  transform-origin: 59% 44%;
+  animation: sg-ray-turn 52s ease-in-out infinite alternate-reverse;
 }
 @keyframes sg-parallax { from { background-position-x: 0%; } to { background-position-x: 9%; } }
 .sg-mist {
@@ -427,6 +491,28 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 }
 @keyframes sg-firefly-wander { from { transform: translate(0, 0); } to { transform: translate(-40px, -26px); } }
 @keyframes sg-firefly-blink { 0%, 100% { opacity: 0; } 45%, 60% { opacity: 0.95; } }
+.sg-petal { /* blossom petals loosed from the canopy */
+  top: -4%;
+  width: 7px; height: 5px; border-radius: 60% 40% 55% 45%;
+  background: rgba(248, 222, 234, 0.55);
+  animation: sg-petal-fall 18s linear infinite, sg-petal-sway 5s ease-in-out infinite alternate;
+  opacity: 0;
+}
+@keyframes sg-petal-fall {
+  0% { top: -4%; opacity: 0; }
+  6% { opacity: 0.8; }
+  86% { opacity: 0.6; }
+  100% { top: 104%; opacity: 0; }
+}
+@keyframes sg-petal-sway {
+  from { transform: translateX(-16px) rotate(-40deg); }
+  to { transform: translateX(16px) rotate(50deg); }
+}
+.sg-blossom { /* blossoms tucked among the leaves */
+  width: 4px; height: 4px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 226, 238, 0.9), rgba(248, 200, 220, 0.3) 70%, transparent);
+  animation: sg-twinkle 6s ease-in-out infinite alternate;
+}
 .sg-scene-garden .sgl-scrim {
   background: linear-gradient(180deg, rgba(6, 18, 11, 0.40) 0%,
     rgba(6, 18, 11, 0.24) 26%, rgba(6, 18, 11, 0.26) 76%, rgba(6, 18, 11, 0.44) 100%);
@@ -473,8 +559,12 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 
 /* ── ⛈️ The Storm: rain, swells, and lightning ── */
 .sg-scene-storm .sgl-1 {
-  background: linear-gradient(180deg, #10141f 0%, #1a2233 40%, #223047 70%, #17222f 100%);
+  background: linear-gradient(180deg, #2c3c56 0%, #22304a 28%, #1a2233 52%, #223047 78%, #17222f 100%);
   animation: sg-dusk 26s ease-in-out infinite alternate;
+}
+.sg-scene-storm .sgl-7 { /* rolling cloud bank overhead */
+  background-repeat: repeat-x; background-position: top; background-size: 135% 30%;
+  animation: sg-parallax 90s linear infinite alternate;
 }
 .sg-scene-storm .sgl-2, .sg-scene-storm .sgl-3 { /* two rain sheets */
   background-image: repeating-linear-gradient(112deg,
@@ -509,6 +599,20 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
   89.8% { opacity: 0.1; }
   90.4% { opacity: 0.65; }
 }
+.sg-cloudlit { /* the cloud bank ignites with each flash — same tile, same drift */
+  position: absolute; inset: 0;
+  background-repeat: repeat-x; background-position: top; background-size: 135% 30%;
+  opacity: 0;
+  animation: sg-parallax 90s linear infinite alternate, sg-lightning 13s linear infinite;
+}
+.sg-bolt { /* the strike itself, revealed only during the flash */
+  position: absolute; top: -1%; left: 54%;
+  width: min(200px, 30vw); height: 52%;
+  background-repeat: no-repeat; background-position: top center; background-size: contain;
+  filter: drop-shadow(0 0 9px rgba(205, 228, 255, 0.85));
+  opacity: 0;
+  animation: sg-lightning 13s linear infinite;
+}
 .sg-cloudmass {
   width: 60vw; height: 22vh; border-radius: 50%;
   background: radial-gradient(closest-side, rgba(10, 14, 24, 0.85), transparent);
@@ -522,21 +626,30 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 }
 
 /* ── 🏛️ The Temple: pillars, lamplight, rising incense ── */
-.sg-scene-temple .sgl-1 {
-  background: radial-gradient(120% 110% at 50% 100%, #5a4020 0%, #33230f 46%, #170f08 100%);
+.sg-scene-temple .sgl-1 { /* violet dusk giving way to the warm court below */
+  background: radial-gradient(110% 70% at 50% 100%, #6a4a22 0%, #3c2812 40%, transparent 74%),
+    linear-gradient(180deg, #221537 0%, #2e1d2c 44%, #33230f 76%, #170f08 100%);
 }
-.sg-scene-temple .sgl-2 { /* altar glow behind the far portico */
+.sg-scene-temple .sgl-2 { /* evening stars above the sanctuary */
+  bottom: auto; height: 52%;
+  background-repeat: repeat; background-size: 1200px 420px;
+  -webkit-mask-image: linear-gradient(180deg, #000 60%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 60%, transparent 100%);
+  animation: sg-twinkle 9s ease-in-out infinite alternate;
+}
+.sg-scene-temple .sgl-3 { /* altar glow behind the portico */
   background: radial-gradient(64% 46% at 50% 86%, rgba(255, 202, 118, 0.44) 0%,
     rgba(255, 174, 84, 0.16) 42%, transparent 72%);
   animation: sg-flicker 6s ease-in-out infinite;
 }
-.sg-scene-temple .sgl-3 { /* temple facade across the court */
+.sg-scene-temple .sgl-4 { /* temple facade across the court, doorway alight */
   background-repeat: no-repeat; background-position: center bottom;
   background-size: min(760px, 108%) 34%;
 }
 .sg-scene-temple .sgl-5 { /* court floor */
   background-repeat: repeat-x; background-position: bottom; background-size: 140% 8%;
 }
+.sg-scene-temple .sg-spark { bottom: 13%; } /* sparks rise from the altar fire */
 .sg-incense {
   bottom: 10%; width: 2.5px; height: 60px; border-radius: 2px;
   background: linear-gradient(180deg, transparent, rgba(230, 210, 180, 0.35), transparent);
@@ -661,6 +774,12 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
   background: var(--interactive-accent);
   border-color: transparent;
   color: var(--text-on-accent);
+}
+/* verse 1: the chip floats ahead of the floated drop cap so the word stays
+   whole — without this the number renders inside the word ("B1ut") */
+[data-verse-id].sg-cap-p > strong {
+  float: left;
+  margin: 9px 8px 0 0;
 }
 
 /* ---------- My Study pages (.sg-personal): reading-first ------------------ */
