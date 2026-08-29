@@ -99,9 +99,18 @@ body.sg-scene-on .workspace-leaf,
 body.sg-scene-on .workspace-leaf-content,
 body.sg-scene-on .view-content,
 body.sg-scene-on .markdown-reading-view,
-body.sg-scene-on .markdown-preview-view {
+body.sg-scene-on .markdown-preview-view,
+body.sg-scene-on .metadata-container,
+body.sg-scene-on .metadata-properties,
+body.sg-scene-on .metadata-property,
+body.sg-scene-on .metadata-property-key,
+body.sg-scene-on .metadata-property-value,
+body.sg-scene-on .mod-header,
+body.sg-scene-on .markdown-preview-pusher {
   background: transparent !important;
 }
+body.sg-scene-on .metadata-container { color: var(--sg-ink, #eae7e0); }
+body.sg-scene-on .metadata-property-key .metadata-property-icon { color: var(--sg-ink, #eae7e0); opacity: 0.7; }
 /* NO panel, NO margin changes — the scene lives fully behind the text.
    Readability = each scene's scrim layer + its own ink palette below. */
 .sg-scene .sgl-scrim { z-index: 5; }
