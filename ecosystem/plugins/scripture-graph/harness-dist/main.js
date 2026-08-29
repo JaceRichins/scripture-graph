@@ -4456,6 +4456,10 @@ ${local.content}`,
     /** note body / question text; empty for pure highlights */
     content: external_exports.string().max(2e4).default(""),
     color: external_exports.string().max(20).nullable().default(null),
+    /** text treatment: highlight (bg) | underline | bold | italic — null = highlight */
+    style: external_exports.string().max(20).nullable().default(null),
+    /** user-named theme this mark belongs to ("Faith", "Covenants", …) */
+    theme: external_exports.string().max(60).nullable().default(null),
     visibility: Visibility,
     group_id: external_exports.string().uuid().nullable().default(null),
     created_at: external_exports.string(),
@@ -5670,8 +5674,25 @@ ${local.content}`,
   var AnnotationService = class {
     constructor(s) {
       this.s = s;
+      s.redecorate = () => this.redecorateOpen();
     }
     syncTimer = null;
+    /** Refresh decorations on every verse currently rendered, without
+     * re-rendering the page (which would scroll the user to the top). */
+    async redecorateOpen() {
+      const seen = /* @__PURE__ */ new Set();
+      const paras2 = document.querySelectorAll(
+        ".markdown-preview-view [data-verse-id], .sg-reader [data-verse-id]"
+      );
+      for (const p of Array.from(paras2)) {
+        if (seen.has(p)) continue;
+        seen.add(p);
+        const vid = p.getAttribute("data-verse-id");
+        if (!vid) continue;
+        const mine = await this.mine(vid);
+        decorateVerse(this.s, this, p, vid, mine, this.social(vid));
+      }
+    }
     start() {
       this.scheduleSync(5e3);
       this.syncTimer = window.setInterval(() => void this.syncNow(), 6e4);
@@ -5706,6 +5727,8 @@ ${local.content}`,
         text_hash: null,
         content: "",
         color: null,
+        style: null,
+        theme: null,
         visibility: vis,
         group_id: null,
         created_at: nowIso(),
@@ -5714,9 +5737,11 @@ ${local.content}`,
         version: 1
       };
     }
-    async addHighlight(anchorId, color, verseText, selected, visibility, groupId) {
+    async addHighlight(anchorId, color, verseText, selected, visibility, groupId, style = null, theme = null) {
       const a = this.base(anchorId, "highlight");
       a.color = color;
+      a.style = style;
+      a.theme = theme;
       a.visibility = visibility;
       a.group_id = groupId;
       if (selected && verseText) {
@@ -5836,16 +5861,37 @@ ${text}` : text;
       badge.onclick = openPopover;
     }
   }
+  function styleMark(mark, h) {
+    const color = h.color ?? "yellow";
+    const hex = COLOR_HEX[color] ?? "#f5d90a";
+    const bg = MARK_BG[color] ?? MARK_BG["yellow"];
+    mark.style.color = "inherit";
+    mark.style.background = "transparent";
+    switch (h.style ?? "highlight") {
+      case "underline":
+        mark.style.borderBottom = `2px solid ${hex}`;
+        break;
+      case "bold":
+        mark.style.fontWeight = "700";
+        mark.style.borderBottom = `2px solid ${hex}`;
+        break;
+      case "italic":
+        mark.style.fontStyle = "italic";
+        mark.style.borderBottom = `2px dotted ${hex}`;
+        break;
+      default:
+        mark.style.backgroundColor = bg;
+    }
+    if (h.theme) mark.setAttribute("aria-label", `Theme: ${h.theme}`);
+  }
   function applyMark(p, h) {
     const cls = `sgh sgh-${h.color ?? "yellow"}`;
-    const bg = MARK_BG[h.color ?? "yellow"] ?? MARK_BG["yellow"];
     if (!h.selected_text) {
       const strong = p.querySelector("strong");
       let node = strong ? strong.nextSibling : p.firstChild;
       const mark = document.createElement("mark");
       mark.className = cls;
-      mark.style.backgroundColor = bg;
-      mark.style.color = "inherit";
+      styleMark(mark, h);
       const moving = [];
       while (node) {
         const el = node;
@@ -5869,8 +5915,7 @@ ${text}` : text;
       range.setEnd(t, idx + h.selected_text.length);
       const mark = document.createElement("mark");
       mark.className = cls;
-      mark.style.backgroundColor = bg;
-      mark.style.color = "inherit";
+      styleMark(mark, h);
       try {
         range.surroundContents(mark);
       } catch {
@@ -5909,9 +5954,10 @@ ${text}` : text;
       const div = root2.createDiv({ cls: "sg-ann-row" });
       const visLabel = a.visibility === "local" ? "\u{1F512} device" : a.visibility === "private" ? "\u{1F510} me" : a.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === a.group_id)?.name ?? "group"}` : "\u{1F30E} public";
       const kindLabel = a.annotation_type === "study-marker" ? "flashcard" : a.annotation_type;
+      const themeLabel = a.theme ? ` \xB7 \u{1F3F7} ${a.theme}` : "";
       div.createEl("div", {
         cls: "sg-ann-meta",
-        text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color})` : ""} \xB7 ${visLabel}`
+        text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color}${a.style && a.style !== "highlight" ? ` ${a.style}` : ""})` : ""}${themeLabel} \xB7 ${visLabel}`
       });
       if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
       if (a.annotation_type === "study-marker") {
@@ -5983,11 +6029,13 @@ ${text}` : text;
     public: "\u{1F30E} Public"
   };
   var StudyBar = class {
-    constructor(s, ann2, study2, openAsk) {
+    constructor(s, ann2, study2, openAsk, saveSettings = async () => {
+    }) {
       this.s = s;
       this.ann = ann2;
       this.study = study2;
       this.openAsk = openAsk;
+      this.saveSettings = saveSettings;
     }
     sel = { verses: [], partial: null };
     barEl = null;
@@ -6078,6 +6126,12 @@ ${text}` : text;
       const p = target.closest("[data-verse-id], p");
       const vid = this.verseIdOf(p);
       if (!vid || !(p instanceof HTMLElement)) {
+        if (this.sel.verses.length || this.sel.partial) this.clear();
+        return;
+      }
+      const onNumber = !!target.closest("strong");
+      if (!onNumber) {
+        trace("tap.verseText", { vid });
         if (this.sel.verses.length || this.sel.partial) this.clear();
         return;
       }
@@ -6205,7 +6259,10 @@ ${text}` : text;
         this.sel.verses.map((v) => v.verseId),
         this.sel.partial?.selected,
         scope,
-        this.s.device.lastColor
+        this.s.device.lastColor,
+        this.s.device.lastStyle,
+        this.s.device.lastTheme,
+        (this.s.settings.themes ?? []).length
       ]);
       if (sig === this.lastSig && this.barEl) return;
       this.lastSig = sig;
@@ -6231,8 +6288,41 @@ ${text}` : text;
           dot.addClass("sg-dot-last");
           dot.style.borderColor = "var(--text-normal)";
         }
-        dot.setAttribute("aria-label", `Highlight ${c}`);
+        dot.setAttribute("aria-label", `Mark ${c}`);
         dot.onclick = () => void this.doHighlight(c);
+      }
+      const styles = [
+        ["highlight", "\u{1F58D}"],
+        ["underline", "U\u0332"],
+        ["bold", "B"],
+        ["italic", "I"]
+      ];
+      for (const [key, label] of styles) {
+        const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+        if (key === "bold") chip.style.fontWeight = "800";
+        if (key === "italic") chip.style.fontStyle = "italic";
+        if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
+        chip.setAttribute("aria-label", `${key} style`);
+        chip.onclick = () => {
+          this.s.device.lastStyle = key;
+          this.s.device.lastTheme = null;
+          void this.s.saveDevice();
+          this.render();
+        };
+      }
+      const themes = this.s.settings.themes ?? [];
+      if (themes.length || true) {
+        const trow = bar2.createDiv({ cls: "sg-studybar-themes" });
+        for (const th of themes) {
+          const chip = trow.createEl("button", { cls: "sg-theme-chip", text: th.name });
+          chip.style.borderBottom = `3px solid ${COLOR_HEX[th.color] ?? "#f5d90a"}`;
+          if (th.style === "bold") chip.style.fontWeight = "700";
+          if (th.style === "italic") chip.style.fontStyle = "italic";
+          if (this.s.device.lastTheme === th.name) chip.addClass("sg-style-on");
+          chip.onclick = () => void this.doHighlight(th.color, th);
+        }
+        const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B theme" });
+        add.onclick = () => this.saveThemePrompt();
       }
       const row = bar2.createDiv({ cls: "sg-studybar-actions" });
       const act = (label, fn) => {
@@ -6260,9 +6350,15 @@ ${text}` : text;
       menu.addItem((i) => i.setTitle("\u{1F30E} Public").onClick(() => set("public", null, "public")));
       menu.showAtMouseEvent(e);
     }
-    async doHighlight(color) {
+    async doHighlight(color, theme) {
       const { visibility, groupId } = this.s.device.lastShareScope;
+      const style = theme?.style ?? this.s.device.lastStyle ?? "highlight";
+      const themeName = theme?.name ?? null;
       this.s.device.lastColor = color;
+      if (theme) {
+        this.s.device.lastStyle = theme.style;
+        this.s.device.lastTheme = theme.name;
+      }
       void this.s.saveDevice();
       if (this.sel.partial) {
         const p = this.sel.partial;
@@ -6272,7 +6368,9 @@ ${text}` : text;
           p.verseText,
           p.selected,
           visibility,
-          groupId
+          groupId,
+          style,
+          themeName
         );
       } else {
         for (const v of this.sel.verses) {
@@ -6282,12 +6380,30 @@ ${text}` : text;
             v.verseText,
             null,
             visibility,
-            groupId
+            groupId,
+            style,
+            themeName
           );
         }
       }
-      new Notice(`Highlighted ${this.refLabel()}`);
+      new Notice(`${themeName ? `\u201C${themeName}\u201D \u2014 ` : ""}marked ${this.refLabel()}`);
       this.clear();
+    }
+    /** name the current color+treatment as a shared family theme */
+    saveThemePrompt() {
+      const color = this.s.device.lastColor;
+      const style = this.s.device.lastStyle || "highlight";
+      new ThemeNameModal(this.s, `${color} \xB7 ${style}`, async (name) => {
+        const themes = this.s.settings.themes ?? [];
+        const existing = themes.findIndex((t) => t.name.toLowerCase() === name.toLowerCase());
+        const entry = { name, color, style };
+        if (existing >= 0) themes[existing] = entry;
+        else themes.push(entry);
+        this.s.applySettings({ themes });
+        await this.saveSettings();
+        new Notice(`Theme \u201C${name}\u201D saved for the whole family`);
+        this.render();
+      }).open();
     }
     doNote() {
       const ref = this.refLabel();
@@ -6327,6 +6443,30 @@ ${text}` : text;
       const seed = this.sel.partial ? `About "${this.sel.partial.selected}" \u2014 ` : "";
       this.clear();
       this.openAsk(seed, anchor);
+    }
+  };
+  var ThemeNameModal = class extends Modal {
+    constructor(s, desc, onSave) {
+      super(s.app);
+      this.desc = desc;
+      this.onSave = onSave;
+    }
+    onOpen() {
+      this.contentEl.createEl("h3", { text: "Name this theme" });
+      this.contentEl.createEl("p", {
+        text: `Current look: ${this.desc}. Themes are shared with the family \u2014 e.g. "Faith", "Covenants", "Promises".`
+      });
+      let name = "";
+      new Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => name = v));
+      new Setting(this.contentEl).addButton((b) => b.setButtonText("Save theme").setCta().onClick(() => {
+        const n = name.trim().slice(0, 40);
+        if (!n) return;
+        this.close();
+        this.onSave(n);
+      }));
+    }
+    onClose() {
+      this.contentEl.empty();
     }
   };
 
@@ -6437,6 +6577,8 @@ ${body}
           card: { ease: 2.5, intervalDays: 0, due: nowIso(), reps: 0 }
         }),
         color: null,
+        style: null,
+        theme: null,
         visibility: "private",
         group_id: null,
         created_at: nowIso(),
@@ -6566,9 +6708,16 @@ ${body}
       userId: "harness-user",
       lastShareScope: { visibility: "private", groupId: null },
       lastColor: "yellow",
+      lastStyle: "highlight",
+      lastTheme: null,
       showScopes: { mine: true, groups: {}, public: false }
     },
-    settings: { defaultVisibility: "private" },
+    settings: { defaultVisibility: "private", themes: [
+      { name: "Faith", color: "blue", style: "underline" }
+    ] },
+    applySettings(p) {
+      Object.assign(this.settings, p);
+    },
     groups: [{ group_id: "g1", name: "Richins Family", role: "member" }],
     signedIn: true,
     socialCache: /* @__PURE__ */ new Map(),

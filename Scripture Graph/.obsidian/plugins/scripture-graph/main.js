@@ -4140,6 +4140,10 @@ var Annotation = external_exports.object({
   /** note body / question text; empty for pure highlights */
   content: external_exports.string().max(2e4).default(""),
   color: external_exports.string().max(20).nullable().default(null),
+  /** text treatment: highlight (bg) | underline | bold | italic — null = highlight */
+  style: external_exports.string().max(20).nullable().default(null),
+  /** user-named theme this mark belongs to ("Faith", "Covenants", …) */
+  theme: external_exports.string().max(60).nullable().default(null),
   visibility: Visibility,
   group_id: external_exports.string().uuid().nullable().default(null),
   created_at: external_exports.string(),
@@ -5928,7 +5932,8 @@ var DEFAULT_SHARED = {
   serverUrl: "http://127.0.0.1:8930",
   defaultVisibility: "private",
   forceLibraryPreview: true,
-  chapterLinksToMyStudy: true
+  chapterLinksToMyStudy: true,
+  themes: []
 };
 var DEFAULT_DEVICE = {
   deviceToken: null,
@@ -5942,6 +5947,8 @@ var DEFAULT_DEVICE = {
   aiDepth: "balanced",
   lastShareScope: { visibility: "private", groupId: null },
   lastColor: "yellow",
+  lastStyle: "highlight",
+  lastTheme: null,
   debugOverlay: false
 };
 var SGState = class {
@@ -6011,18 +6018,14 @@ var SGState = class {
       }
     }
   }
-  /** Re-render open scripture/personal reading views so marks appear the
-   * moment anything changes — every annotation mutation funnels through this. */
+  /** set by AnnotationService: re-decorates rendered verses IN PLACE */
+  redecorate = null;
+  /** Marks appear/disappear the moment anything changes. Decoration happens
+   * in place on the existing DOM — a full markdown re-render would reset the
+   * reading position to the top of the file (user-reported bug). */
   rerenderReading() {
     this.notify();
-    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
-      const v = leaf.view;
-      if (!(v instanceof import_obsidian.MarkdownView) || !v.file) continue;
-      const p = v.file.path;
-      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX) || p.startsWith(LIBRARY_PREFIX)) {
-        v.previewMode?.rerender?.(true);
-      }
-    }
+    void this.redecorate?.();
   }
 };
 
@@ -6070,8 +6073,25 @@ var NoteModal = class extends import_obsidian2.Modal {
 var AnnotationService = class {
   constructor(s) {
     this.s = s;
+    s.redecorate = () => this.redecorateOpen();
   }
   syncTimer = null;
+  /** Refresh decorations on every verse currently rendered, without
+   * re-rendering the page (which would scroll the user to the top). */
+  async redecorateOpen() {
+    const seen = /* @__PURE__ */ new Set();
+    const paras = document.querySelectorAll(
+      ".markdown-preview-view [data-verse-id], .sg-reader [data-verse-id]"
+    );
+    for (const p of Array.from(paras)) {
+      if (seen.has(p)) continue;
+      seen.add(p);
+      const vid = p.getAttribute("data-verse-id");
+      if (!vid) continue;
+      const mine = await this.mine(vid);
+      decorateVerse(this.s, this, p, vid, mine, this.social(vid));
+    }
+  }
   start() {
     this.scheduleSync(5e3);
     this.syncTimer = window.setInterval(() => void this.syncNow(), 6e4);
@@ -6106,6 +6126,8 @@ var AnnotationService = class {
       text_hash: null,
       content: "",
       color: null,
+      style: null,
+      theme: null,
       visibility: vis,
       group_id: null,
       created_at: nowIso(),
@@ -6114,9 +6136,11 @@ var AnnotationService = class {
       version: 1
     };
   }
-  async addHighlight(anchorId, color, verseText, selected, visibility, groupId) {
+  async addHighlight(anchorId, color, verseText, selected, visibility, groupId, style = null, theme = null) {
     const a = this.base(anchorId, "highlight");
     a.color = color;
+    a.style = style;
+    a.theme = theme;
     a.visibility = visibility;
     a.group_id = groupId;
     if (selected && verseText) {
@@ -6236,16 +6260,37 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
     badge.onclick = openPopover;
   }
 }
+function styleMark(mark, h) {
+  const color = h.color ?? "yellow";
+  const hex = COLOR_HEX[color] ?? "#f5d90a";
+  const bg = MARK_BG[color] ?? MARK_BG["yellow"];
+  mark.style.color = "inherit";
+  mark.style.background = "transparent";
+  switch (h.style ?? "highlight") {
+    case "underline":
+      mark.style.borderBottom = `2px solid ${hex}`;
+      break;
+    case "bold":
+      mark.style.fontWeight = "700";
+      mark.style.borderBottom = `2px solid ${hex}`;
+      break;
+    case "italic":
+      mark.style.fontStyle = "italic";
+      mark.style.borderBottom = `2px dotted ${hex}`;
+      break;
+    default:
+      mark.style.backgroundColor = bg;
+  }
+  if (h.theme) mark.setAttribute("aria-label", `Theme: ${h.theme}`);
+}
 function applyMark(p, h) {
   const cls = `sgh sgh-${h.color ?? "yellow"}`;
-  const bg = MARK_BG[h.color ?? "yellow"] ?? MARK_BG["yellow"];
   if (!h.selected_text) {
     const strong = p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
     const mark = document.createElement("mark");
     mark.className = cls;
-    mark.style.backgroundColor = bg;
-    mark.style.color = "inherit";
+    styleMark(mark, h);
     const moving = [];
     while (node) {
       const el = node;
@@ -6269,8 +6314,7 @@ function applyMark(p, h) {
     range.setEnd(t, idx + h.selected_text.length);
     const mark = document.createElement("mark");
     mark.className = cls;
-    mark.style.backgroundColor = bg;
-    mark.style.color = "inherit";
+    styleMark(mark, h);
     try {
       range.surroundContents(mark);
     } catch {
@@ -6309,9 +6353,10 @@ var NotesPopover = class extends import_obsidian2.Modal {
     const div = root.createDiv({ cls: "sg-ann-row" });
     const visLabel = a.visibility === "local" ? "\u{1F512} device" : a.visibility === "private" ? "\u{1F510} me" : a.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === a.group_id)?.name ?? "group"}` : "\u{1F30E} public";
     const kindLabel = a.annotation_type === "study-marker" ? "flashcard" : a.annotation_type;
+    const themeLabel = a.theme ? ` \xB7 \u{1F3F7} ${a.theme}` : "";
     div.createEl("div", {
       cls: "sg-ann-meta",
-      text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color})` : ""} \xB7 ${visLabel}`
+      text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color}${a.style && a.style !== "highlight" ? ` ${a.style}` : ""})` : ""}${themeLabel} \xB7 ${visLabel}`
     });
     if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
     if (a.annotation_type === "study-marker") {
@@ -7212,6 +7257,8 @@ ${body}
         card: { ease: 2.5, intervalDays: 0, due: nowIso(), reps: 0 }
       }),
       color: null,
+      style: null,
+      theme: null,
       visibility: "private",
       group_id: null,
       created_at: nowIso(),
@@ -7324,11 +7371,13 @@ var SCOPE_LABEL = {
   public: "\u{1F30E} Public"
 };
 var StudyBar = class {
-  constructor(s, ann, study, openAsk) {
+  constructor(s, ann, study, openAsk, saveSettings = async () => {
+  }) {
     this.s = s;
     this.ann = ann;
     this.study = study;
     this.openAsk = openAsk;
+    this.saveSettings = saveSettings;
   }
   sel = { verses: [], partial: null };
   barEl = null;
@@ -7419,6 +7468,12 @@ var StudyBar = class {
     const p = target.closest("[data-verse-id], p");
     const vid = this.verseIdOf(p);
     if (!vid || !(p instanceof HTMLElement)) {
+      if (this.sel.verses.length || this.sel.partial) this.clear();
+      return;
+    }
+    const onNumber = !!target.closest("strong");
+    if (!onNumber) {
+      trace("tap.verseText", { vid });
       if (this.sel.verses.length || this.sel.partial) this.clear();
       return;
     }
@@ -7546,7 +7601,10 @@ var StudyBar = class {
       this.sel.verses.map((v) => v.verseId),
       this.sel.partial?.selected,
       scope,
-      this.s.device.lastColor
+      this.s.device.lastColor,
+      this.s.device.lastStyle,
+      this.s.device.lastTheme,
+      (this.s.settings.themes ?? []).length
     ]);
     if (sig === this.lastSig && this.barEl) return;
     this.lastSig = sig;
@@ -7572,8 +7630,41 @@ var StudyBar = class {
         dot.addClass("sg-dot-last");
         dot.style.borderColor = "var(--text-normal)";
       }
-      dot.setAttribute("aria-label", `Highlight ${c}`);
+      dot.setAttribute("aria-label", `Mark ${c}`);
       dot.onclick = () => void this.doHighlight(c);
+    }
+    const styles = [
+      ["highlight", "\u{1F58D}"],
+      ["underline", "U\u0332"],
+      ["bold", "B"],
+      ["italic", "I"]
+    ];
+    for (const [key, label] of styles) {
+      const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+      if (key === "bold") chip.style.fontWeight = "800";
+      if (key === "italic") chip.style.fontStyle = "italic";
+      if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
+      chip.setAttribute("aria-label", `${key} style`);
+      chip.onclick = () => {
+        this.s.device.lastStyle = key;
+        this.s.device.lastTheme = null;
+        void this.s.saveDevice();
+        this.render();
+      };
+    }
+    const themes = this.s.settings.themes ?? [];
+    if (themes.length || true) {
+      const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+      for (const th of themes) {
+        const chip = trow.createEl("button", { cls: "sg-theme-chip", text: th.name });
+        chip.style.borderBottom = `3px solid ${COLOR_HEX[th.color] ?? "#f5d90a"}`;
+        if (th.style === "bold") chip.style.fontWeight = "700";
+        if (th.style === "italic") chip.style.fontStyle = "italic";
+        if (this.s.device.lastTheme === th.name) chip.addClass("sg-style-on");
+        chip.onclick = () => void this.doHighlight(th.color, th);
+      }
+      const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B theme" });
+      add.onclick = () => this.saveThemePrompt();
     }
     const row = bar.createDiv({ cls: "sg-studybar-actions" });
     const act = (label, fn) => {
@@ -7601,9 +7692,15 @@ var StudyBar = class {
     menu.addItem((i) => i.setTitle("\u{1F30E} Public").onClick(() => set("public", null, "public")));
     menu.showAtMouseEvent(e);
   }
-  async doHighlight(color) {
+  async doHighlight(color, theme) {
     const { visibility, groupId } = this.s.device.lastShareScope;
+    const style = theme?.style ?? this.s.device.lastStyle ?? "highlight";
+    const themeName = theme?.name ?? null;
     this.s.device.lastColor = color;
+    if (theme) {
+      this.s.device.lastStyle = theme.style;
+      this.s.device.lastTheme = theme.name;
+    }
     void this.s.saveDevice();
     if (this.sel.partial) {
       const p = this.sel.partial;
@@ -7613,7 +7710,9 @@ var StudyBar = class {
         p.verseText,
         p.selected,
         visibility,
-        groupId
+        groupId,
+        style,
+        themeName
       );
     } else {
       for (const v of this.sel.verses) {
@@ -7623,12 +7722,30 @@ var StudyBar = class {
           v.verseText,
           null,
           visibility,
-          groupId
+          groupId,
+          style,
+          themeName
         );
       }
     }
-    new import_obsidian9.Notice(`Highlighted ${this.refLabel()}`);
+    new import_obsidian9.Notice(`${themeName ? `\u201C${themeName}\u201D \u2014 ` : ""}marked ${this.refLabel()}`);
     this.clear();
+  }
+  /** name the current color+treatment as a shared family theme */
+  saveThemePrompt() {
+    const color = this.s.device.lastColor;
+    const style = this.s.device.lastStyle || "highlight";
+    new ThemeNameModal(this.s, `${color} \xB7 ${style}`, async (name) => {
+      const themes = this.s.settings.themes ?? [];
+      const existing = themes.findIndex((t) => t.name.toLowerCase() === name.toLowerCase());
+      const entry = { name, color, style };
+      if (existing >= 0) themes[existing] = entry;
+      else themes.push(entry);
+      this.s.applySettings({ themes });
+      await this.saveSettings();
+      new import_obsidian9.Notice(`Theme \u201C${name}\u201D saved for the whole family`);
+      this.render();
+    }).open();
   }
   doNote() {
     const ref = this.refLabel();
@@ -7668,6 +7785,30 @@ var StudyBar = class {
     const seed = this.sel.partial ? `About "${this.sel.partial.selected}" \u2014 ` : "";
     this.clear();
     this.openAsk(seed, anchor);
+  }
+};
+var ThemeNameModal = class extends import_obsidian9.Modal {
+  constructor(s, desc, onSave) {
+    super(s.app);
+    this.desc = desc;
+    this.onSave = onSave;
+  }
+  onOpen() {
+    this.contentEl.createEl("h3", { text: "Name this theme" });
+    this.contentEl.createEl("p", {
+      text: `Current look: ${this.desc}. Themes are shared with the family \u2014 e.g. "Faith", "Covenants", "Promises".`
+    });
+    let name = "";
+    new import_obsidian9.Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => name = v));
+    new import_obsidian9.Setting(this.contentEl).addButton((b) => b.setButtonText("Save theme").setCta().onClick(() => {
+      const n = name.trim().slice(0, 40);
+      if (!n) return;
+      this.close();
+      this.onSave(n);
+    }));
+  }
+  onClose() {
+    this.contentEl.empty();
   }
 };
 
@@ -7944,6 +8085,8 @@ async function migrateFromAnnotate(s) {
         text_hash: null,
         content: "",
         color: h.color ?? "yellow",
+        style: null,
+        theme: null,
         visibility: "local",
         group_id: null,
         created_at: h.created ?? nowIso(),
@@ -8001,7 +8144,13 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       const ct = this.chapterTitleFor(anchor);
       void this.openAsk(ct, anchor, prompt);
     };
-    this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading);
+    this.studyBar = new StudyBar(
+      this.state,
+      this.ann,
+      this.study,
+      openAskFromReading,
+      () => this.saveSharedSettings()
+    );
     registerReadingIntegration(this, this.state, this.ann, this.studyBar, openAskFromReading);
     this.addCommand({
       id: "open-ask",

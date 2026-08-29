@@ -115,6 +115,20 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-dot-blue   { background: #52a9ff; }
 .sg-dot-pink   { background: #f76bb0; }
 .sg-dot-orange { background: #ff9f45; }
+.sg-style-chip {
+  width: 34px; height: 34px; border-radius: 9px; padding: 0;
+  background: var(--background-secondary); box-shadow: none; font-size: 15px;
+}
+.sg-style-on { outline: 2px solid var(--text-normal); }
+.sg-studybar-themes {
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  padding-bottom: 2px;
+}
+.sg-theme-chip {
+  font-size: 0.8em; padding: 4px 10px; border-radius: 11px; white-space: nowrap;
+  background: var(--background-secondary); box-shadow: none;
+}
+.sg-theme-add { opacity: 0.75; }
 .sg-studybar-actions { display: flex; gap: 6px; }
 .sg-studybar-actions button {
   flex: 1; font-size: 0.82em; padding: 7px 4px; border-radius: 10px;
