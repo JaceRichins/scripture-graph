@@ -6145,6 +6145,10 @@ ${text}` : text;
       showTags: false,
       showAttachments: false,
       hideUnresolved: true,
+      // label fading is ZOOM-dependent (verified in Obsidian's source: the
+      // engine honors options.scale via renderer.zoomTo) — a sane initial zoom
+      // is what actually makes labels readable, fade multiplier alone is not
+      scale: 1,
       // settings panel arrives CLOSED and its sections collapsed
       close: true,
       "collapse-filter": true,
@@ -6160,10 +6164,15 @@ ${text}` : text;
     await ws.revealLeaf(leaf);
     const pushOptions = () => {
       const view2 = leaf.view;
-      const engine = view2?.dataEngine ?? view2?.engine;
+      const engine = view2?.engine ?? view2?.dataEngine;
       if (engine?.setOptions) {
         engine.setOptions(GRAPH_OPTS);
-        trace("graph.optionsPushed", {});
+        const applied = engine.getOptions?.() ?? {};
+        trace("graph.applied", {
+          tf: applied["textFadeMultiplier"],
+          scale: applied["scale"],
+          nodes: applied["nodeSizeMultiplier"]
+        });
         return true;
       }
       return false;

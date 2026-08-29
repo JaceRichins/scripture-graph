@@ -45,6 +45,10 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
     showArrow: false, localJumps: 1, localBacklinks: true,
     localForelinks: true, localInterlinks: true,
     showTags: false, showAttachments: false, hideUnresolved: true,
+    // label fading is ZOOM-dependent (verified in Obsidian's source: the
+    // engine honors options.scale via renderer.zoomTo) — a sane initial zoom
+    // is what actually makes labels readable, fade multiplier alone is not
+    scale: 1,
     // settings panel arrives CLOSED and its sections collapsed
     close: true, "collapse-filter": true, "collapse-color-groups": true,
     "collapse-display": true, "collapse-forces": true,
@@ -58,13 +62,18 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
   // the options straight into the graph engine once it exists, with retries
   const pushOptions = () => {
     const view = leaf.view as unknown as {
-      dataEngine?: { setOptions?: (o: unknown) => void };
-      engine?: { setOptions?: (o: unknown) => void };
+      dataEngine?: { setOptions?: (o: unknown) => void; getOptions?: () => Record<string, unknown> };
+      engine?: { setOptions?: (o: unknown) => void; getOptions?: () => Record<string, unknown> };
     } | undefined;
-    const engine = view?.dataEngine ?? view?.engine;
+    const engine = view?.engine ?? view?.dataEngine; // localgraph = .engine (verified in app source)
     if (engine?.setOptions) {
       engine.setOptions(GRAPH_OPTS);
-      trace("graph.optionsPushed", {});
+      // read back so the device's debug log PROVES what actually applied
+      const applied = engine.getOptions?.() ?? {};
+      trace("graph.applied", {
+        tf: applied["textFadeMultiplier"], scale: applied["scale"],
+        nodes: applied["nodeSizeMultiplier"],
+      });
       return true;
     }
     return false;
