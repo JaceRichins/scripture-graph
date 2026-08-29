@@ -93,7 +93,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   font-size: 0.78em; font-weight: 600; line-height: 1;
   opacity: 1; cursor: pointer;
   -webkit-user-select: none; user-select: none;
-  transition: background 0.12s ease, color 0.12s ease, transform 0.08s ease;
+  transition: transform 0.08s ease; /* selection state SNAPS — no color fade */
 }
 /* invisible halo = ~46px effective touch target without moving the layout */
 .markdown-preview-view [data-verse-id] > strong::after,
@@ -102,7 +102,8 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 }
 .markdown-preview-view [data-verse-id] > strong:active,
 .sg-reader [data-verse-id] > strong:active { transform: scale(0.9); }
-[data-verse-id].sg-vsel > strong {
+.markdown-preview-view [data-verse-id].sg-vsel > strong,
+.sg-reader [data-verse-id].sg-vsel > strong {
   background: var(--interactive-accent);
   border-color: transparent;
   color: var(--text-on-accent);

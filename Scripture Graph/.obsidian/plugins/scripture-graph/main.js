@@ -6810,15 +6810,31 @@ var init_studyBar = __esm({
         return (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim();
       }
       // ------------------------------------------------------- selection state
+      /** chip selection visuals are inline — immune to any CSS cascade surprise */
+      paintChip(el, on) {
+        const chip = el.querySelector("strong");
+        if (!chip) return;
+        if (on) {
+          chip.style.background = "var(--interactive-accent)";
+          chip.style.color = "var(--text-on-accent)";
+          chip.style.borderColor = "transparent";
+        } else {
+          chip.style.background = "";
+          chip.style.color = "";
+          chip.style.borderColor = "";
+        }
+      }
       toggleVerse(verseId, el) {
         trace("verse.toggle", { verseId });
         this.sel.partial = null;
         const i = this.sel.verses.findIndex((v) => v.verseId === verseId);
         if (i >= 0) {
           this.sel.verses[i].el.removeClass("sg-vsel");
+          this.paintChip(this.sel.verses[i].el, false);
           this.sel.verses.splice(i, 1);
         } else {
           el.addClass("sg-vsel");
+          this.paintChip(el, true);
           this.sel.verses.push({ verseId, verseText: this.verseTextOf(el), el });
           this.sel.verses.sort((a, b) => {
             const A2 = parseVerseId(a.verseId), B = parseVerseId(b.verseId);
@@ -6836,7 +6852,10 @@ var init_studyBar = __esm({
       clear() {
         trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
         if (this.sel.partial) window.getSelection()?.removeAllRanges();
-        for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
+        for (const v of this.sel.verses) {
+          v.el.removeClass("sg-vsel");
+          this.paintChip(v.el, false);
+        }
         this.sel = { verses: [], partial: null };
         this.render();
       }
