@@ -184,6 +184,22 @@ export class SGSettingsTab extends PluginSettingTab {
       .setDesc("Updates come straight from your family server — no sync games")
       .addButton(b => b.setButtonText("Check for updates")
         .onClick(() => void this.p.checkForUpdate(false)));
+    new Setting(el).setName("Debug: copy interaction log")
+      .setDesc("Copies what the touch layer saw (taps, selections, decisions) — "
+        + "paste it to whoever is fixing a bug")
+      .addButton(b => b.setButtonText("Copy log").onClick(async () => {
+        const { traceDump } = await import("./study/trace");
+        await navigator.clipboard.writeText(
+          `Scripture Graph v${this.p.manifest.version}\n` + traceDump());
+        new Notice("Interaction log copied — paste it in a message");
+      }))
+      .addToggle(t => t.setValue(s.device.debugOverlay ?? false)
+        .onChange(async v => {
+          s.device.debugOverlay = v;
+          await s.saveDevice();
+          const { setOverlay } = await import("./study/trace");
+          setOverlay(v);
+        }));
     new Setting(el).setName("Server address").setDesc(
       "Shared with the whole vault (everyone needs the same backend)")
       .addText(t => t.setValue(s.settings.serverUrl).onChange(async v => {

@@ -15,6 +15,7 @@ import { Menu, Notice, Platform, type Plugin } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import type { SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
+import { trace } from "./trace";
 import type { StudyService } from "./study";
 
 export interface StudySelection {
@@ -47,33 +48,65 @@ export class StudyBar {
 
   // ------------------------------------------------------------ tap wiring
 
-  /** Register all input listeners. A tap is only a tap when the finger
-   * didn't move (scroll), didn't linger (long-press selection), didn't land
-   * mid-scroll, and wasn't dismissing an iOS text selection — that's what
-   * keeps highlighting from fighting scrolls and page swipes. */
+  /** Input wiring, modeled on Hypothesis's battle-tested selection observer:
+   *  - the selection is captured shortly AFTER pointer-up (it isn't final at
+   *    the event itself on iOS), and settles via a short debounce while
+   *    handles are dragged — and it is NEVER cleared by us: the captured
+   *    phrase lives in bar state, so actions work even after iOS collapses
+   *    the native selection (e.g. when tapping a bar button).
+   *  - a tap is only a tap when the finger didn't move, didn't linger,
+   *    didn't land mid-scroll, and wasn't dismissing a selection. */
+  private isPointerDown = false;
+
   attach(plugin: Plugin): void {
-    if (Platform.isMobile) {
-      plugin.registerDomEvent(document, "pointerdown", (evt: PointerEvent) => {
-        this.downX = evt.clientX;
-        this.downY = evt.clientY;
-        this.downT = Date.now();
+    plugin.registerDomEvent(document, "pointerdown", (evt: PointerEvent) => {
+      this.isPointerDown = true;
+      this.downX = evt.clientX;
+      this.downY = evt.clientY;
+      this.downT = Date.now();
+      const native = window.getSelection();
+      this.downHadSelection = !!native && !native.isCollapsed;
+    }, { capture: true, passive: true } as AddEventListenerOptions);
+
+    plugin.registerDomEvent(document, "pointercancel", () => {
+      this.isPointerDown = false;
+    }, { capture: true, passive: true } as AddEventListenerOptions);
+
+    plugin.registerDomEvent(document, "pointerup", (evt: PointerEvent) => {
+      this.isPointerDown = false;
+      const dx = Math.abs(evt.clientX - this.downX);
+      const dy = Math.abs(evt.clientY - this.downY);
+      const dt = Date.now() - this.downT;
+      const target = evt.target instanceof Element ? evt.target : null;
+      // selection state is not final at pointerup — wait a tick (Hypothesis: 10ms)
+      window.setTimeout(() => {
         const native = window.getSelection();
-        this.downHadSelection = !!native && !native.isCollapsed;
-      }, { capture: true, passive: true } as AddEventListenerOptions);
-      plugin.registerDomEvent(document, "pointerup", (evt: PointerEvent) => {
-        const dx = Math.abs(evt.clientX - this.downX);
-        const dy = Math.abs(evt.clientY - this.downY);
-        const dt = Date.now() - this.downT;
-        if (dx > 10 || dy > 10) return;                 // it was a scroll/swipe
-        if (dt > 500) return;                           // it was a long-press
-        if (Date.now() - this.lastScrollT < 250) return; // it stopped momentum
-        if (this.downHadSelection) return;              // it dismissed a selection
-        this.handleTap(evt);
-      });
-      plugin.registerDomEvent(document, "scroll", () => {
-        this.lastScrollT = Date.now();
-      }, { capture: true, passive: true } as AddEventListenerOptions);
-    } else {
+        const hasSel = !!native && !native.isCollapsed;
+        if (hasSel) {
+          trace("up.capture", { dt, len: native!.toString().length });
+          this.capturePartial(native!);
+          return;
+        }
+        if (this.downHadSelection) {
+          // tap that dismissed a selection: dismiss our phrase bar too
+          trace("up.dismissedSelection", { dt });
+          if (this.sel.partial) this.clear();
+          return;
+        }
+        if (!Platform.isMobile) return;                  // desktop taps use click
+        if (dx > 10 || dy > 10) return trace("up.moved", { dx, dy });
+        if (dt > 500) return trace("up.longpress", { dt });
+        if (Date.now() - this.lastScrollT < 250) return trace("up.midscroll", {});
+        trace("up.tap", { dt });
+        this.handleTap({ target } as unknown as MouseEvent);
+      }, 30);
+    });
+
+    plugin.registerDomEvent(document, "scroll", () => {
+      this.lastScrollT = Date.now();
+    }, { capture: true, passive: true } as AddEventListenerOptions);
+
+    if (!Platform.isMobile) {
       plugin.registerDomEvent(document, "click", (evt) => this.handleTap(evt));
     }
     plugin.registerDomEvent(document, "selectionchange", () => this.handleSelectionChange());
@@ -110,33 +143,41 @@ export class StudyBar {
     this.toggleVerse(vid, p);
   }
 
-  /** Long-press / drag text selection → partial mode. Waits until the
-   * selection has been STABLE for a beat (so the bar never appears or
-   * re-renders while iOS drag handles are still moving). */
+  /** selectionchange path (Hypothesis timing): ignored while the pointer is
+   * down (pointer-up captures those); otherwise a 100ms settle captures
+   * keyboard/handle-adjusted selections. A COLLAPSED selection never clears
+   * the bar — the captured phrase is our state, and iOS collapses the native
+   * selection for all sorts of reasons (including tapping our own buttons). */
   handleSelectionChange(): void {
     if (this.selTimer) window.clearTimeout(this.selTimer);
     this.selTimer = window.setTimeout(() => {
+      if (this.isPointerDown) return;    // will be captured on pointer-up
       const native = window.getSelection();
       const text = native && !native.isCollapsed ? native.toString().trim() : "";
-      if (!text) {
-        this.lastSelText = "";
-        return;
-      }
-      if (text !== this.lastSelText) {
-        this.lastSelText = text;         // still moving — check again shortly
-        this.handleSelectionChange();
-        return;
-      }
-      if (this.sel.partial?.selected === text) return;   // already showing it
-      const anchor = native!.anchorNode instanceof Element
-        ? native!.anchorNode : native!.anchorNode?.parentElement;
-      if (!anchor || anchor.closest(".cm-editor")) return;
-      const p = anchor.closest("[data-verse-id], p");
-      const vid = this.verseIdOf(p);
-      if (!vid) return;
-      if (text.length < 3 || text.length > 600) return;
-      this.setPartial(vid, this.verseTextOf(p as HTMLElement), text);
-    }, 350);
+      if (!text) return;                 // collapse ≠ dismiss (state is captured)
+      if (this.sel.partial?.selected === text) return;
+      trace("selchange.capture", { len: text.length });
+      this.capturePartial(native!);
+    }, 100);
+  }
+
+  /** Native selection → partial-phrase state (selection left untouched). */
+  private capturePartial(native: Selection): void {
+    const text = native.toString().trim();
+    if (text.length < 3 || text.length > 600) return;
+    const anchor = native.anchorNode instanceof Element
+      ? native.anchorNode : native.anchorNode?.parentElement;
+    if (!anchor || anchor.closest(".cm-editor")) return;
+    const p = anchor.closest("[data-verse-id], p");
+    const vid = this.verseIdOf(p);
+    if (!vid) {
+      trace("capture.noVerse", {});
+      return;
+    }
+    if (this.sel.partial?.selected === text
+      && this.sel.partial.verseId === vid) return;
+    trace("capture.partial", { vid, len: text.length });
+    this.setPartial(vid, this.verseTextOf(p as HTMLElement), text);
   }
 
   private verseIdOf(el: Element | null): string | null {
@@ -181,6 +222,7 @@ export class StudyBar {
   // ------------------------------------------------------- selection state
 
   private toggleVerse(verseId: string, el: HTMLElement): void {
+    trace("verse.toggle", { verseId });
     this.sel.partial = null;
     const i = this.sel.verses.findIndex(v => v.verseId === verseId);
     if (i >= 0) {
@@ -202,12 +244,15 @@ export class StudyBar {
     this.sel.verses = [];
     this.sel.partial = { verseId, verseText, selected };
     this.render();
-    // we own the phrase now — dismiss the native iOS Copy/Look-Up callout so
-    // two menus never fight over the screen (reselect to pick a new phrase)
-    window.setTimeout(() => window.getSelection()?.removeAllRanges(), 80);
+    // the native selection is deliberately left alone (Hypothesis pattern):
+    // the user keeps their visual anchor, and our captured state means
+    // actions work even after iOS collapses it
   }
 
   clear(): void {
+    trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
+    // leaving phrase mode is the right moment to let go of the native selection
+    if (this.sel.partial) window.getSelection()?.removeAllRanges();
     for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
     this.sel = { verses: [], partial: null };
     this.render();

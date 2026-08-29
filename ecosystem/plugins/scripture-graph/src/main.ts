@@ -212,6 +212,10 @@ export default class SGPlugin extends Plugin {
           await this.state.store.put("last_loaded_version", this.manifest.version);
           new Notice(`Scripture Graph v${this.manifest.version} loaded`);
         }
+        if (this.state.device.debugOverlay) {
+          const { setOverlay } = await import("./study/trace");
+          setOverlay(true);
+        }
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);

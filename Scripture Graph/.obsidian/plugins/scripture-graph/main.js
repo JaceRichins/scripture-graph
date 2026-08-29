@@ -3,6 +3,9 @@ var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __esm = (fn, res) => function __init() {
+  return fn && (res = (0, fn[__getOwnPropNames(fn)[0]])(fn = 0)), res;
+};
 var __export = (target, all) => {
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
@@ -16,6 +19,48 @@ var __copyProps = (to, from, except, desc) => {
   return to;
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+
+// src/study/trace.ts
+var trace_exports = {};
+__export(trace_exports, {
+  setOverlay: () => setOverlay,
+  trace: () => trace,
+  traceDump: () => traceDump
+});
+function trace(kind, data = {}) {
+  const entry = {
+    t: Date.now() - START,
+    kind,
+    data: Object.entries(data).map(([k, v]) => `${k}=${String(v)}`).join(" ")
+  };
+  BUF.push(entry);
+  if (BUF.length > MAX) BUF.shift();
+  if (overlayEl) {
+    const last = BUF.slice(-4).map((e) => `${(e.t / 1e3).toFixed(1)}s ${e.kind} ${e.data}`);
+    overlayEl.setText(last.join("\n"));
+  }
+}
+function traceDump() {
+  return BUF.map((e) => `${(e.t / 1e3).toFixed(2)}s ${e.kind} ${e.data}`).join("\n");
+}
+function setOverlay(on) {
+  if (on && !overlayEl) {
+    overlayEl = document.body.createDiv({ cls: "sg-trace-overlay" });
+  } else if (!on && overlayEl) {
+    overlayEl.remove();
+    overlayEl = null;
+  }
+}
+var BUF, MAX, START, overlayEl;
+var init_trace = __esm({
+  "src/study/trace.ts"() {
+    "use strict";
+    BUF = [];
+    MAX = 300;
+    START = Date.now();
+    overlayEl = null;
+  }
+});
 
 // src/main.ts
 var main_exports = {};
@@ -5896,7 +5941,8 @@ var DEFAULT_DEVICE = {
   showScopes: { mine: true, groups: {}, public: false },
   aiDepth: "balanced",
   lastShareScope: { visibility: "private", groupId: null },
-  lastColor: "yellow"
+  lastColor: "yellow",
+  debugOverlay: false
 };
 var SGState = class {
   constructor(app, plugin) {
@@ -7270,6 +7316,7 @@ var ReviewModal = class extends import_obsidian8.Modal {
 
 // src/study/studyBar.ts
 var import_obsidian9 = require("obsidian");
+init_trace();
 var SCOPE_LABEL = {
   local: "\u{1F512} This device",
   private: "\u{1F510} Only me",
@@ -7295,33 +7342,58 @@ var StudyBar = class {
   lastScrollT = 0;
   lastSelText = "";
   // ------------------------------------------------------------ tap wiring
-  /** Register all input listeners. A tap is only a tap when the finger
-   * didn't move (scroll), didn't linger (long-press selection), didn't land
-   * mid-scroll, and wasn't dismissing an iOS text selection — that's what
-   * keeps highlighting from fighting scrolls and page swipes. */
+  /** Input wiring, modeled on Hypothesis's battle-tested selection observer:
+   *  - the selection is captured shortly AFTER pointer-up (it isn't final at
+   *    the event itself on iOS), and settles via a short debounce while
+   *    handles are dragged — and it is NEVER cleared by us: the captured
+   *    phrase lives in bar state, so actions work even after iOS collapses
+   *    the native selection (e.g. when tapping a bar button).
+   *  - a tap is only a tap when the finger didn't move, didn't linger,
+   *    didn't land mid-scroll, and wasn't dismissing a selection. */
+  isPointerDown = false;
   attach(plugin) {
-    if (import_obsidian9.Platform.isMobile) {
-      plugin.registerDomEvent(document, "pointerdown", (evt) => {
-        this.downX = evt.clientX;
-        this.downY = evt.clientY;
-        this.downT = Date.now();
+    plugin.registerDomEvent(document, "pointerdown", (evt) => {
+      this.isPointerDown = true;
+      this.downX = evt.clientX;
+      this.downY = evt.clientY;
+      this.downT = Date.now();
+      const native = window.getSelection();
+      this.downHadSelection = !!native && !native.isCollapsed;
+    }, { capture: true, passive: true });
+    plugin.registerDomEvent(document, "pointercancel", () => {
+      this.isPointerDown = false;
+    }, { capture: true, passive: true });
+    plugin.registerDomEvent(document, "pointerup", (evt) => {
+      this.isPointerDown = false;
+      const dx = Math.abs(evt.clientX - this.downX);
+      const dy = Math.abs(evt.clientY - this.downY);
+      const dt = Date.now() - this.downT;
+      const target = evt.target instanceof Element ? evt.target : null;
+      window.setTimeout(() => {
         const native = window.getSelection();
-        this.downHadSelection = !!native && !native.isCollapsed;
-      }, { capture: true, passive: true });
-      plugin.registerDomEvent(document, "pointerup", (evt) => {
-        const dx = Math.abs(evt.clientX - this.downX);
-        const dy = Math.abs(evt.clientY - this.downY);
-        const dt = Date.now() - this.downT;
-        if (dx > 10 || dy > 10) return;
-        if (dt > 500) return;
-        if (Date.now() - this.lastScrollT < 250) return;
-        if (this.downHadSelection) return;
-        this.handleTap(evt);
-      });
-      plugin.registerDomEvent(document, "scroll", () => {
-        this.lastScrollT = Date.now();
-      }, { capture: true, passive: true });
-    } else {
+        const hasSel = !!native && !native.isCollapsed;
+        if (hasSel) {
+          trace("up.capture", { dt, len: native.toString().length });
+          this.capturePartial(native);
+          return;
+        }
+        if (this.downHadSelection) {
+          trace("up.dismissedSelection", { dt });
+          if (this.sel.partial) this.clear();
+          return;
+        }
+        if (!import_obsidian9.Platform.isMobile) return;
+        if (dx > 10 || dy > 10) return trace("up.moved", { dx, dy });
+        if (dt > 500) return trace("up.longpress", { dt });
+        if (Date.now() - this.lastScrollT < 250) return trace("up.midscroll", {});
+        trace("up.tap", { dt });
+        this.handleTap({ target });
+      }, 30);
+    });
+    plugin.registerDomEvent(document, "scroll", () => {
+      this.lastScrollT = Date.now();
+    }, { capture: true, passive: true });
+    if (!import_obsidian9.Platform.isMobile) {
       plugin.registerDomEvent(document, "click", (evt) => this.handleTap(evt));
     }
     plugin.registerDomEvent(document, "selectionchange", () => this.handleSelectionChange());
@@ -7352,32 +7424,38 @@ var StudyBar = class {
     }
     this.toggleVerse(vid, p);
   }
-  /** Long-press / drag text selection → partial mode. Waits until the
-   * selection has been STABLE for a beat (so the bar never appears or
-   * re-renders while iOS drag handles are still moving). */
+  /** selectionchange path (Hypothesis timing): ignored while the pointer is
+   * down (pointer-up captures those); otherwise a 100ms settle captures
+   * keyboard/handle-adjusted selections. A COLLAPSED selection never clears
+   * the bar — the captured phrase is our state, and iOS collapses the native
+   * selection for all sorts of reasons (including tapping our own buttons). */
   handleSelectionChange() {
     if (this.selTimer) window.clearTimeout(this.selTimer);
     this.selTimer = window.setTimeout(() => {
+      if (this.isPointerDown) return;
       const native = window.getSelection();
       const text = native && !native.isCollapsed ? native.toString().trim() : "";
-      if (!text) {
-        this.lastSelText = "";
-        return;
-      }
-      if (text !== this.lastSelText) {
-        this.lastSelText = text;
-        this.handleSelectionChange();
-        return;
-      }
+      if (!text) return;
       if (this.sel.partial?.selected === text) return;
-      const anchor = native.anchorNode instanceof Element ? native.anchorNode : native.anchorNode?.parentElement;
-      if (!anchor || anchor.closest(".cm-editor")) return;
-      const p = anchor.closest("[data-verse-id], p");
-      const vid = this.verseIdOf(p);
-      if (!vid) return;
-      if (text.length < 3 || text.length > 600) return;
-      this.setPartial(vid, this.verseTextOf(p), text);
-    }, 350);
+      trace("selchange.capture", { len: text.length });
+      this.capturePartial(native);
+    }, 100);
+  }
+  /** Native selection → partial-phrase state (selection left untouched). */
+  capturePartial(native) {
+    const text = native.toString().trim();
+    if (text.length < 3 || text.length > 600) return;
+    const anchor = native.anchorNode instanceof Element ? native.anchorNode : native.anchorNode?.parentElement;
+    if (!anchor || anchor.closest(".cm-editor")) return;
+    const p = anchor.closest("[data-verse-id], p");
+    const vid = this.verseIdOf(p);
+    if (!vid) {
+      trace("capture.noVerse", {});
+      return;
+    }
+    if (this.sel.partial?.selected === text && this.sel.partial.verseId === vid) return;
+    trace("capture.partial", { vid, len: text.length });
+    this.setPartial(vid, this.verseTextOf(p), text);
   }
   verseIdOf(el) {
     if (!el) return null;
@@ -7413,6 +7491,7 @@ var StudyBar = class {
   }
   // ------------------------------------------------------- selection state
   toggleVerse(verseId, el) {
+    trace("verse.toggle", { verseId });
     this.sel.partial = null;
     const i = this.sel.verses.findIndex((v) => v.verseId === verseId);
     if (i >= 0) {
@@ -7433,9 +7512,10 @@ var StudyBar = class {
     this.sel.verses = [];
     this.sel.partial = { verseId, verseText, selected };
     this.render();
-    window.setTimeout(() => window.getSelection()?.removeAllRanges(), 80);
   }
   clear() {
+    trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
+    if (this.sel.partial) window.getSelection()?.removeAllRanges();
     for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
     this.sel = { verses: [], partial: null };
     this.render();
@@ -7754,6 +7834,19 @@ var SGSettingsTab = class extends import_obsidian10.PluginSettingTab {
     el.createEl("h2", { text: "My data" });
     new import_obsidian10.Setting(el).setName("Export my data").setDesc("All annotations + highlights \u2192 Markdown/JSON in Library/Exports").addButton((b) => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
     new import_obsidian10.Setting(el).setName(`Plugin version: v${this.p.manifest.version}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
+    new import_obsidian10.Setting(el).setName("Debug: copy interaction log").setDesc("Copies what the touch layer saw (taps, selections, decisions) \u2014 paste it to whoever is fixing a bug").addButton((b) => b.setButtonText("Copy log").onClick(async () => {
+      const { traceDump: traceDump2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
+      await navigator.clipboard.writeText(
+        `Scripture Graph v${this.p.manifest.version}
+` + traceDump2()
+      );
+      new import_obsidian10.Notice("Interaction log copied \u2014 paste it in a message");
+    })).addToggle((t) => t.setValue(s.device.debugOverlay ?? false).onChange(async (v) => {
+      s.device.debugOverlay = v;
+      await s.saveDevice();
+      const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
+      setOverlay2(v);
+    }));
     new import_obsidian10.Setting(el).setName("Server address").setDesc(
       "Shared with the whole vault (everyone needs the same backend)"
     ).addText((t) => t.setValue(s.settings.serverUrl).onChange(async (v) => {
@@ -8062,6 +8155,10 @@ var SGPlugin = class extends import_obsidian12.Plugin {
         if (seen !== this.manifest.version) {
           await this.state.store.put("last_loaded_version", this.manifest.version);
           new import_obsidian12.Notice(`Scripture Graph v${this.manifest.version} loaded`);
+        }
+        if (this.state.device.debugOverlay) {
+          const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
+          setOverlay2(true);
         }
         await migrateFromAnnotate(this.state);
         this.ann.start();

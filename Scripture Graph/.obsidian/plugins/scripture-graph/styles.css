@@ -127,6 +127,13 @@ body.sg-selecting .view-content { touch-action: pan-y; }
 body.sg-selecting .markdown-preview-view,
 body.sg-selecting .sg-reader { padding-bottom: 170px; }
 
+.sg-trace-overlay {
+  position: fixed; left: 6px; bottom: 6px; z-index: 999;
+  font: 10px/1.35 monospace; white-space: pre; pointer-events: none;
+  background: rgba(0, 0, 0, 0.55); color: #9f9;
+  padding: 4px 6px; border-radius: 6px; max-width: 92vw; overflow: hidden;
+}
+
 /* ---------- mobile -------------------------------------------------------- */
 .is-mobile .sg-reader { padding: 8px 10px 60px; }
 .is-mobile .sg-lens-bar { overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }

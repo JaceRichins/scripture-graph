@@ -44,6 +44,8 @@ export interface DeviceState {
   lastShareScope: { visibility: "local" | "private" | "group" | "public"; groupId: string | null };
   /** last highlight color used from the action bar */
   lastColor: string;
+  /** show the interaction-trace overlay (debugging aid) */
+  debugOverlay: boolean;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -58,6 +60,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   aiDepth: "balanced",
   lastShareScope: { visibility: "private", groupId: null },
   lastColor: "yellow",
+  debugOverlay: false,
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }
