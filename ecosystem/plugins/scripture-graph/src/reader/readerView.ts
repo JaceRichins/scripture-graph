@@ -67,6 +67,12 @@ export class ReaderView extends ItemView {
     // ---- top bar ----
     const bar = root.createDiv({ cls: "sg-reader-bar" });
     bar.createEl("h2", { text: this.chapterTitle });
+    const graphBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "🕸" });
+    graphBtn.setAttribute("aria-label", "Connections graph");
+    graphBtn.onclick = () => {
+      void import("../study/studyBar").then(m =>
+        m.openLocalGraphFor(this.s, this.chapterTitle));
+    };
     const myBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "✏️ My notes" });
     myBtn.onclick = () => {
       const companion = `${this.chapterTitle} - My Notes`;

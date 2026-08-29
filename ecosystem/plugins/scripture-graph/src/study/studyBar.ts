@@ -12,12 +12,26 @@
  * Nothing here ever blocks link taps or native text selection.
  */
 import { Menu, Modal, Notice, Platform, Setting, type Plugin } from "obsidian";
-import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
+import { chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import type { SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
+
+/** Open Obsidian's local connections graph centered on a page (§graph).
+ * The whole vault is wikilink-wired by the engine, so a chapter's local
+ * graph pulls in its study guide, topics, people, evidence, other chapters,
+ * podcast episodes, and the user's own notes. */
+export async function openLocalGraphFor(s: SGState, linkText: string | null): Promise<void> {
+  if (!linkText) return void new Notice("Nothing to graph here yet");
+  const f = s.app.metadataCache.getFirstLinkpathDest(linkText, "");
+  if (!f) return void new Notice(`Can't find “${linkText}”`);
+  const leaf = s.app.workspace.getLeaf("tab");
+  await leaf.setViewState({ type: "localgraph", active: true, state: { file: f.path } });
+  await s.app.workspace.revealLeaf(leaf);
+  trace("graph.open", { file: f.path });
+}
 
 export interface StudySelection {
   /** ordered verse ids currently selected (whole-verse mode) */
@@ -315,6 +329,9 @@ export class StudyBar {
         : SCOPE_LABEL[scope.visibility] ?? "🔐 Only me",
     });
     scopeChip.onclick = (e) => this.pickScope(e);
+    const graphBtn = top.createEl("button", { cls: "sg-graph-btn", text: "🕸" });
+    graphBtn.setAttribute("aria-label", "See this verse's connections graph");
+    graphBtn.onclick = () => void this.openGraph();
     const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
     close.onclick = () => this.clear();
 
@@ -417,6 +434,16 @@ export class StudyBar {
     }
     new Notice(`Marked ${this.refLabel()}`);
     this.clear();   // the annotation service re-renders the reading views
+  }
+
+  /** connections graph for the selected verse's chapter */
+  private async openGraph(): Promise<void> {
+    const vid = this.targetVerseIds()[0];
+    if (!vid) return;
+    const r = parseVerseId(vid);
+    const title = r ? chapterTitle(r.bookSlug, r.chapter) : null;
+    this.clear();
+    await openLocalGraphFor(this.s, title);
   }
 
   /** verses this action targets — themes are WHOLE-VERSE by design, so a

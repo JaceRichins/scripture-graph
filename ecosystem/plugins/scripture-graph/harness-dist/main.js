@@ -6126,6 +6126,15 @@ ${text}` : text;
   }
 
   // src/study/studyBar.ts
+  async function openLocalGraphFor(s, linkText) {
+    if (!linkText) return void new Notice("Nothing to graph here yet");
+    const f = s.app.metadataCache.getFirstLinkpathDest(linkText, "");
+    if (!f) return void new Notice(`Can't find \u201C${linkText}\u201D`);
+    const leaf = s.app.workspace.getLeaf("tab");
+    await leaf.setViewState({ type: "localgraph", active: true, state: { file: f.path } });
+    await s.app.workspace.revealLeaf(leaf);
+    trace("graph.open", { file: f.path });
+  }
   var SCOPE_LABEL = {
     local: "\u{1F512} This device",
     private: "\u{1F510} Only me",
@@ -6382,6 +6391,9 @@ ${text}` : text;
         text: scope.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === scope.groupId)?.name ?? "Group"}` : SCOPE_LABEL[scope.visibility] ?? "\u{1F510} Only me"
       });
       scopeChip.onclick = (e) => this.pickScope(e);
+      const graphBtn = top.createEl("button", { cls: "sg-graph-btn", text: "\u{1F578}" });
+      graphBtn.setAttribute("aria-label", "See this verse's connections graph");
+      graphBtn.onclick = () => void this.openGraph();
       const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
       close.onclick = () => this.clear();
       const colors = bar2.createDiv({ cls: "sg-studybar-colors" });
@@ -6488,6 +6500,15 @@ ${text}` : text;
       }
       new Notice(`Marked ${this.refLabel()}`);
       this.clear();
+    }
+    /** connections graph for the selected verse's chapter */
+    async openGraph() {
+      const vid = this.targetVerseIds()[0];
+      if (!vid) return;
+      const r = parseVerseId(vid);
+      const title = r ? chapterTitle(r.bookSlug, r.chapter) : null;
+      this.clear();
+      await openLocalGraphFor(this.s, title);
     }
     /** verses this action targets — themes are WHOLE-VERSE by design, so a
      * phrase selection resolves to its verse */
@@ -6830,10 +6851,20 @@ ${body}
         getActiveFile: () => null,
         getLeavesOfType: () => [],
         openLinkText: () => {
+        },
+        getLeaf: () => ({
+          setViewState: async (st) => {
+            window.__graphOpened = st;
+          }
+        }),
+        revealLeaf: async () => {
         }
       },
       metadataCache: {
-        getFirstLinkpathDest: () => null,
+        getFirstLinkpathDest: (t) => t === "Genesis 1" ? {
+          path: "AI Library/01 Scriptures/Canonical/01 Old Testament/01 Genesis/Genesis 1.md",
+          basename: "Genesis 1"
+        } : null,
         getFileCache: () => null
       }
     },

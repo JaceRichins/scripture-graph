@@ -23,9 +23,18 @@ const state = {
       getActiveFile: () => null,
       getLeavesOfType: () => [],
       openLinkText: () => { /* noop */ },
+      getLeaf: () => ({
+        setViewState: async (st: unknown) => {
+          (window as unknown as { __graphOpened?: unknown }).__graphOpened = st;
+        },
+      }),
+      revealLeaf: async () => { /* noop */ },
     },
     metadataCache: {
-      getFirstLinkpathDest: () => null,
+      getFirstLinkpathDest: (t: string) => t === "Genesis 1"
+        ? { path: "AI Library/01 Scriptures/Canonical/01 Old Testament/01 Genesis/Genesis 1.md",
+            basename: "Genesis 1" }
+        : null,
       getFileCache: () => null,
     },
   },

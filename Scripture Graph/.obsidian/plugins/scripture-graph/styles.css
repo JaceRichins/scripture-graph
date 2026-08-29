@@ -114,6 +114,10 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: var(--background-secondary); box-shadow: none;
 }
 .sg-studybar-x { background: transparent; box-shadow: none; padding: 2px 8px; opacity: 0.7; }
+.sg-graph-btn {
+  background: var(--background-secondary); box-shadow: none;
+  border-radius: 10px; padding: 3px 9px; font-size: 0.95em;
+}
 .sg-studybar-colors { display: flex; gap: 12px; justify-content: center; }
 .sg-dot {
   width: 34px; height: 34px; border-radius: 50%;

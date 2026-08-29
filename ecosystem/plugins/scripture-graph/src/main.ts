@@ -14,7 +14,7 @@ import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { StudyService } from "./study/study";
-import { StudyBar } from "./study/studyBar";
+import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
 
@@ -121,6 +121,20 @@ export default class SGPlugin extends Plugin {
           && !!chapterIdFromTitle(f.basename);
         if (!checking && ok) this.openMyStudy(f!.basename);
         return ok;
+      },
+    });
+    this.addCommand({
+      id: "open-graph", name: "See connections graph for this page", icon: "git-fork",
+      checkCallback: checking => {
+        const f = this.app.workspace.getActiveFile();
+        if (!f) return false;
+        if (!checking) {
+          // My Notes pages graph their chapter; everything else graphs itself
+          const title = f.basename.endsWith(" - My Notes")
+            ? f.basename.slice(0, -" - My Notes".length) : f.basename;
+          void openLocalGraphFor(this.state, title);
+        }
+        return true;
       },
     });
     this.addCommand({
@@ -315,12 +329,16 @@ export default class SGPlugin extends Plugin {
     }
   }
 
-  /** ✏️ button in the title bar of every canonical chapter view. */
+  /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view. */
   private addMyStudyAction(f: TFile): void {
     if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
     const view = this.app.workspace.getActiveViewOfType(MarkdownView);
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
     this.studyActionViews.add(view);
+    view.addAction("git-fork", "See this chapter's connections graph", () => {
+      const cur = view.file;
+      if (cur) void openLocalGraphFor(this.state, cur.basename);
+    });
     view.addAction("pencil", "Open my study page (editable)", () => {
       const cur = view.file;
       if (cur) this.openMyStudy(cur.basename);
