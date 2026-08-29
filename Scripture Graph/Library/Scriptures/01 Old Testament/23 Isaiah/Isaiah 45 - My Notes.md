@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 45 — My Study
 
-[[Isaiah 45 (Annotated)|Annotated view]] · [[Isaiah 45|Plain text]] · [[Isaiah 45 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 45|📜 Scripture only]] · [[Isaiah 45 (Annotated)|🔍 Annotated]] · [[Isaiah 45 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 45]]
 
-## Scripture Graph
+[[Isaiah 44 - My Notes|◀ Isaiah 44]] · [[Isaiah 46 - My Notes|Isaiah 46 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 45 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

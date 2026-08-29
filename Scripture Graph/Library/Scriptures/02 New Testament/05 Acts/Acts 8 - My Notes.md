@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 8 — My Study
 
-[[Acts 8 (Annotated)|Annotated view]] · [[Acts 8|Plain text]] · [[Acts 8 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 8|📜 Scripture only]] · [[Acts 8 (Annotated)|🔍 Annotated]] · [[Acts 8 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 8]]
 
-## Scripture Graph
+[[Acts 7 - My Notes|◀ Acts 7]] · [[Acts 9 - My Notes|Acts 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

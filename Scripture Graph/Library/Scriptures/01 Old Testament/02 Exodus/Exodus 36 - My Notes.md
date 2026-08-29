@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 36 — My Study
 
-[[Exodus 36 (Annotated)|Annotated view]] · [[Exodus 36|Plain text]] · [[Exodus 36 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 36|📜 Scripture only]] · [[Exodus 36 (Annotated)|🔍 Annotated]] · [[Exodus 36 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 36]]
 
-## Scripture Graph
+[[Exodus 35 - My Notes|◀ Exodus 35]] · [[Exodus 37 - My Notes|Exodus 37 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 36 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

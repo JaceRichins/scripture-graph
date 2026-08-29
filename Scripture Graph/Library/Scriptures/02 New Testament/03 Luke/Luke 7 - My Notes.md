@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 7 — My Study
 
-[[Luke 7 (Annotated)|Annotated view]] · [[Luke 7|Plain text]] · [[Luke 7 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 7|📜 Scripture only]] · [[Luke 7 (Annotated)|🔍 Annotated]] · [[Luke 7 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 7]]
 
-## Scripture Graph
+[[Luke 6 - My Notes|◀ Luke 6]] · [[Luke 8 - My Notes|Luke 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

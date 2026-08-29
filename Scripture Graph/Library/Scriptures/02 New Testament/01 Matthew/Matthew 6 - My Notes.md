@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 6 — My Study
 
-[[Matthew 6 (Annotated)|Annotated view]] · [[Matthew 6|Plain text]] · [[Matthew 6 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 6|📜 Scripture only]] · [[Matthew 6 (Annotated)|🔍 Annotated]] · [[Matthew 6 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 6]]
 
-## Scripture Graph
+[[Matthew 5 - My Notes|◀ Matthew 5]] · [[Matthew 7 - My Notes|Matthew 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

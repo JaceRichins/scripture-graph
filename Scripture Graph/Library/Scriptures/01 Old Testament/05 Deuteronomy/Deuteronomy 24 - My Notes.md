@@ -12,14 +12,15 @@ cssclasses:
 
 # Deuteronomy 24 — My Study
 
-[[Deuteronomy 24 (Annotated)|Annotated view]] · [[Deuteronomy 24|Plain text]] · [[Deuteronomy 24 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Deuteronomy 24|📜 Scripture only]] · [[Deuteronomy 24 (Annotated)|🔍 Annotated]] · [[Deuteronomy 24 - Study Guide|📖 Study guide]] · [[Deuteronomy|📚 Deuteronomy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Deuteronomy 24]]
 
-## Scripture Graph
+[[Deuteronomy 23 - My Notes|◀ Deuteronomy 23]] · [[Deuteronomy 25 - My Notes|Deuteronomy 25 ▶]]
+
+## 📖 Study Guide
 
 ![[Deuteronomy 24 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

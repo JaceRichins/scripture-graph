@@ -12,14 +12,15 @@ cssclasses:
 
 # Titus 3 — My Study
 
-[[Titus 3 (Annotated)|Annotated view]] · [[Titus 3|Plain text]] · [[Titus 3 - Study Guide|Study guide]] · [[Titus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Titus 3|📜 Scripture only]] · [[Titus 3 (Annotated)|🔍 Annotated]] · [[Titus 3 - Study Guide|📖 Study guide]] · [[Titus|📚 Titus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Titus 3]]
 
-## Scripture Graph
+[[Titus 2 - My Notes|◀ Titus 2]] · [[Titus|Titus ▶]]
+
+## 📖 Study Guide
 
 ![[Titus 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

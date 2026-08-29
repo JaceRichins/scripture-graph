@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 21 — My Study
 
-[[Isaiah 21 (Annotated)|Annotated view]] · [[Isaiah 21|Plain text]] · [[Isaiah 21 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 21|📜 Scripture only]] · [[Isaiah 21 (Annotated)|🔍 Annotated]] · [[Isaiah 21 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 21]]
 
-## Scripture Graph
+[[Isaiah 20 - My Notes|◀ Isaiah 20]] · [[Isaiah 22 - My Notes|Isaiah 22 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 21 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

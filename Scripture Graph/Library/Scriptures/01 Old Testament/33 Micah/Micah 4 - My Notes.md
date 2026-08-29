@@ -12,14 +12,15 @@ cssclasses:
 
 # Micah 4 — My Study
 
-[[Micah 4 (Annotated)|Annotated view]] · [[Micah 4|Plain text]] · [[Micah 4 - Study Guide|Study guide]] · [[Micah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Micah 4|📜 Scripture only]] · [[Micah 4 (Annotated)|🔍 Annotated]] · [[Micah 4 - Study Guide|📖 Study guide]] · [[Micah|📚 Micah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Micah 4]]
 
-## Scripture Graph
+[[Micah 3 - My Notes|◀ Micah 3]] · [[Micah 5 - My Notes|Micah 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Micah 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

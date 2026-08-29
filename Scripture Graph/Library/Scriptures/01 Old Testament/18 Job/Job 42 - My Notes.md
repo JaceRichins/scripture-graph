@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 42 — My Study
 
-[[Job 42 (Annotated)|Annotated view]] · [[Job 42|Plain text]] · [[Job 42 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 42|📜 Scripture only]] · [[Job 42 (Annotated)|🔍 Annotated]] · [[Job 42 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 42]]
 
-## Scripture Graph
+[[Job 41 - My Notes|◀ Job 41]] · [[Job|Job ▶]]
+
+## 📖 Study Guide
 
 ![[Job 42 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

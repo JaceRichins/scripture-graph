@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 18 — My Study
 
-[[Psalm 18 (Annotated)|Annotated view]] · [[Psalm 18|Plain text]] · [[Psalm 18 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 18|📜 Scripture only]] · [[Psalm 18 (Annotated)|🔍 Annotated]] · [[Psalm 18 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 18]]
 
-## Scripture Graph
+[[Psalm 17 - My Notes|◀ Psalm 17]] · [[Psalm 19 - My Notes|Psalm 19 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

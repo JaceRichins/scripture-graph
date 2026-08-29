@@ -12,14 +12,15 @@ cssclasses:
 
 # John 4 — My Study
 
-[[John 4 (Annotated)|Annotated view]] · [[John 4|Plain text]] · [[John 4 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[John 4|📜 Scripture only]] · [[John 4 (Annotated)|🔍 Annotated]] · [[John 4 - Study Guide|📖 Study guide]] · [[John|📚 John]] · [[Study Hub|🏠 Study Hub]]
 
 ![[John 4]]
 
-## Scripture Graph
+[[John 3 - My Notes|◀ John 3]] · [[John 5 - My Notes|John 5 ▶]]
+
+## 📖 Study Guide
 
 ![[John 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 20 — My Study
 
-[[Joshua 20 (Annotated)|Annotated view]] · [[Joshua 20|Plain text]] · [[Joshua 20 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 20|📜 Scripture only]] · [[Joshua 20 (Annotated)|🔍 Annotated]] · [[Joshua 20 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 20]]
 
-## Scripture Graph
+[[Joshua 19 - My Notes|◀ Joshua 19]] · [[Joshua 21 - My Notes|Joshua 21 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 20 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

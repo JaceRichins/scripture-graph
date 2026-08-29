@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 89 — My Study
 
-[[Psalm 89 (Annotated)|Annotated view]] · [[Psalm 89|Plain text]] · [[Psalm 89 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 89|📜 Scripture only]] · [[Psalm 89 (Annotated)|🔍 Annotated]] · [[Psalm 89 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 89]]
 
-## Scripture Graph
+[[Psalm 88 - My Notes|◀ Psalm 88]] · [[Psalm 90 - My Notes|Psalm 90 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 89 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

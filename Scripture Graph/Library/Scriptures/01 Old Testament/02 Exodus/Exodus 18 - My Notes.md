@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 18 — My Study
 
-[[Exodus 18 (Annotated)|Annotated view]] · [[Exodus 18|Plain text]] · [[Exodus 18 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 18|📜 Scripture only]] · [[Exodus 18 (Annotated)|🔍 Annotated]] · [[Exodus 18 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 18]]
 
-## Scripture Graph
+[[Exodus 17 - My Notes|◀ Exodus 17]] · [[Exodus 19 - My Notes|Exodus 19 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 86 — My Study
 
-[[Psalm 86 (Annotated)|Annotated view]] · [[Psalm 86|Plain text]] · [[Psalm 86 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 86|📜 Scripture only]] · [[Psalm 86 (Annotated)|🔍 Annotated]] · [[Psalm 86 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 86]]
 
-## Scripture Graph
+[[Psalm 85 - My Notes|◀ Psalm 85]] · [[Psalm 87 - My Notes|Psalm 87 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 86 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

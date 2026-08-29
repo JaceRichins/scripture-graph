@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 6 — My Study
 
-[[Leviticus 6 (Annotated)|Annotated view]] · [[Leviticus 6|Plain text]] · [[Leviticus 6 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 6|📜 Scripture only]] · [[Leviticus 6 (Annotated)|🔍 Annotated]] · [[Leviticus 6 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 6]]
 
-## Scripture Graph
+[[Leviticus 5 - My Notes|◀ Leviticus 5]] · [[Leviticus 7 - My Notes|Leviticus 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

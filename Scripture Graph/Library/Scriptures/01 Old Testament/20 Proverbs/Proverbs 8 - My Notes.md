@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 8 — My Study
 
-[[Proverbs 8 (Annotated)|Annotated view]] · [[Proverbs 8|Plain text]] · [[Proverbs 8 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 8|📜 Scripture only]] · [[Proverbs 8 (Annotated)|🔍 Annotated]] · [[Proverbs 8 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 8]]
 
-## Scripture Graph
+[[Proverbs 7 - My Notes|◀ Proverbs 7]] · [[Proverbs 9 - My Notes|Proverbs 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

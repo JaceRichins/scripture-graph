@@ -12,14 +12,15 @@ cssclasses:
 
 # Official Declaration 2 — My Study
 
-[[Official Declaration 2 (Annotated)|Annotated view]] · [[Official Declaration 2|Plain text]] · [[Official Declaration 2 - Study Guide|Study guide]] · [[Official Declarations]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Official Declaration 2|📜 Scripture only]] · [[Official Declaration 2 (Annotated)|🔍 Annotated]] · [[Official Declaration 2 - Study Guide|📖 Study guide]] · [[Official Declarations|📚 Official Declarations]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Official Declaration 2]]
 
-## Scripture Graph
+[[Official Declaration 1 - My Notes|◀ Official Declaration 1]] · [[Official Declarations|Official Declarations ▶]]
+
+## 📖 Study Guide
 
 ![[Official Declaration 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

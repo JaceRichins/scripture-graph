@@ -12,14 +12,15 @@ cssclasses:
 
 # Philemon 1 — My Study
 
-[[Philemon 1 (Annotated)|Annotated view]] · [[Philemon 1|Plain text]] · [[Philemon 1 - Study Guide|Study guide]] · [[Philemon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Philemon 1|📜 Scripture only]] · [[Philemon 1 (Annotated)|🔍 Annotated]] · [[Philemon 1 - Study Guide|📖 Study guide]] · [[Philemon|📚 Philemon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Philemon 1]]
 
-## Scripture Graph
+[[Philemon|◀ Philemon]] · [[Philemon|Philemon ▶]]
+
+## 📖 Study Guide
 
 ![[Philemon 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

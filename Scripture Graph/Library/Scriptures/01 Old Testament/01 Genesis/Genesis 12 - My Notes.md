@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 12 — My Study
 
-[[Genesis 12 (Annotated)|Annotated view]] · [[Genesis 12|Plain text]] · [[Genesis 12 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 12|📜 Scripture only]] · [[Genesis 12 (Annotated)|🔍 Annotated]] · [[Genesis 12 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 12]]
 
-## Scripture Graph
+[[Genesis 11 - My Notes|◀ Genesis 11]] · [[Genesis 13 - My Notes|Genesis 13 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

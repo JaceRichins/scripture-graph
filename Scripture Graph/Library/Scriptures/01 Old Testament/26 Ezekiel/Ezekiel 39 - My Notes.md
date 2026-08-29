@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 39 — My Study
 
-[[Ezekiel 39 (Annotated)|Annotated view]] · [[Ezekiel 39|Plain text]] · [[Ezekiel 39 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 39|📜 Scripture only]] · [[Ezekiel 39 (Annotated)|🔍 Annotated]] · [[Ezekiel 39 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 39]]
 
-## Scripture Graph
+[[Ezekiel 38 - My Notes|◀ Ezekiel 38]] · [[Ezekiel 40 - My Notes|Ezekiel 40 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 39 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Amos 3 — My Study
 
-[[Amos 3 (Annotated)|Annotated view]] · [[Amos 3|Plain text]] · [[Amos 3 - Study Guide|Study guide]] · [[Amos]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Amos 3|📜 Scripture only]] · [[Amos 3 (Annotated)|🔍 Annotated]] · [[Amos 3 - Study Guide|📖 Study guide]] · [[Amos|📚 Amos]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Amos 3]]
 
-## Scripture Graph
+[[Amos 2 - My Notes|◀ Amos 2]] · [[Amos 4 - My Notes|Amos 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Amos 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

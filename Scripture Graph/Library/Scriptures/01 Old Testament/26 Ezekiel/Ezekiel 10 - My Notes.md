@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 10 — My Study
 
-[[Ezekiel 10 (Annotated)|Annotated view]] · [[Ezekiel 10|Plain text]] · [[Ezekiel 10 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 10|📜 Scripture only]] · [[Ezekiel 10 (Annotated)|🔍 Annotated]] · [[Ezekiel 10 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 10]]
 
-## Scripture Graph
+[[Ezekiel 9 - My Notes|◀ Ezekiel 9]] · [[Ezekiel 11 - My Notes|Ezekiel 11 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

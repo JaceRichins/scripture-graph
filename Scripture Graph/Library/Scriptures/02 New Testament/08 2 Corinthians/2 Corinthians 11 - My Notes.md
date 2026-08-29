@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Corinthians 11 — My Study
 
-[[2 Corinthians 11 (Annotated)|Annotated view]] · [[2 Corinthians 11|Plain text]] · [[2 Corinthians 11 - Study Guide|Study guide]] · [[2 Corinthians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Corinthians 11|📜 Scripture only]] · [[2 Corinthians 11 (Annotated)|🔍 Annotated]] · [[2 Corinthians 11 - Study Guide|📖 Study guide]] · [[2 Corinthians|📚 2 Corinthians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Corinthians 11]]
 
-## Scripture Graph
+[[2 Corinthians 10 - My Notes|◀ 2 Corinthians 10]] · [[2 Corinthians 12 - My Notes|2 Corinthians 12 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Corinthians 11 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Samuel 4 — My Study
 
-[[1 Samuel 4 (Annotated)|Annotated view]] · [[1 Samuel 4|Plain text]] · [[1 Samuel 4 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Samuel 4|📜 Scripture only]] · [[1 Samuel 4 (Annotated)|🔍 Annotated]] · [[1 Samuel 4 - Study Guide|📖 Study guide]] · [[1 Samuel|📚 1 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Samuel 4]]
 
-## Scripture Graph
+[[1 Samuel 3 - My Notes|◀ 1 Samuel 3]] · [[1 Samuel 5 - My Notes|1 Samuel 5 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Samuel 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

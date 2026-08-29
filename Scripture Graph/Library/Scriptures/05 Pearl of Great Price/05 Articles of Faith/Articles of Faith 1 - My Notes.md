@@ -12,14 +12,15 @@ cssclasses:
 
 # Articles of Faith 1 — My Study
 
-[[Articles of Faith 1 (Annotated)|Annotated view]] · [[Articles of Faith 1|Plain text]] · [[Articles of Faith 1 - Study Guide|Study guide]] · [[Articles of Faith]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Articles of Faith 1|📜 Scripture only]] · [[Articles of Faith 1 (Annotated)|🔍 Annotated]] · [[Articles of Faith 1 - Study Guide|📖 Study guide]] · [[Articles of Faith|📚 Articles of Faith]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Articles of Faith 1]]
 
-## Scripture Graph
+[[Articles of Faith|◀ Articles of Faith]] · [[Articles of Faith|Articles of Faith ▶]]
+
+## 📖 Study Guide
 
 ![[Articles of Faith 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

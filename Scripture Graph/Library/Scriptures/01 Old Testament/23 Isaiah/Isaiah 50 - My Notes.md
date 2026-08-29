@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 50 — My Study
 
-[[Isaiah 50 (Annotated)|Annotated view]] · [[Isaiah 50|Plain text]] · [[Isaiah 50 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 50|📜 Scripture only]] · [[Isaiah 50 (Annotated)|🔍 Annotated]] · [[Isaiah 50 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 50]]
 
-## Scripture Graph
+[[Isaiah 49 - My Notes|◀ Isaiah 49]] · [[Isaiah 51 - My Notes|Isaiah 51 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 50 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

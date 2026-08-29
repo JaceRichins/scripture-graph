@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Kings 22 — My Study
 
-[[1 Kings 22 (Annotated)|Annotated view]] · [[1 Kings 22|Plain text]] · [[1 Kings 22 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Kings 22|📜 Scripture only]] · [[1 Kings 22 (Annotated)|🔍 Annotated]] · [[1 Kings 22 - Study Guide|📖 Study guide]] · [[1 Kings|📚 1 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Kings 22]]
 
-## Scripture Graph
+[[1 Kings 21 - My Notes|◀ 1 Kings 21]] · [[1 Kings|1 Kings ▶]]
+
+## 📖 Study Guide
 
 ![[1 Kings 22 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

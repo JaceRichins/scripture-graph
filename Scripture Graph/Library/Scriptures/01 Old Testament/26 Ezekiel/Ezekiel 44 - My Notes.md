@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 44 — My Study
 
-[[Ezekiel 44 (Annotated)|Annotated view]] · [[Ezekiel 44|Plain text]] · [[Ezekiel 44 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 44|📜 Scripture only]] · [[Ezekiel 44 (Annotated)|🔍 Annotated]] · [[Ezekiel 44 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 44]]
 
-## Scripture Graph
+[[Ezekiel 43 - My Notes|◀ Ezekiel 43]] · [[Ezekiel 45 - My Notes|Ezekiel 45 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 44 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

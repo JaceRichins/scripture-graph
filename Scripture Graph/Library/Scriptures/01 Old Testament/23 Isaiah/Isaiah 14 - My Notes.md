@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 14 — My Study
 
-[[Isaiah 14 (Annotated)|Annotated view]] · [[Isaiah 14|Plain text]] · [[Isaiah 14 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 14|📜 Scripture only]] · [[Isaiah 14 (Annotated)|🔍 Annotated]] · [[Isaiah 14 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 14]]
 
-## Scripture Graph
+[[Isaiah 13 - My Notes|◀ Isaiah 13]] · [[Isaiah 15 - My Notes|Isaiah 15 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 14 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

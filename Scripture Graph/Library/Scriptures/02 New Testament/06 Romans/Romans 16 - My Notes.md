@@ -12,14 +12,15 @@ cssclasses:
 
 # Romans 16 — My Study
 
-[[Romans 16 (Annotated)|Annotated view]] · [[Romans 16|Plain text]] · [[Romans 16 - Study Guide|Study guide]] · [[Romans]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Romans 16|📜 Scripture only]] · [[Romans 16 (Annotated)|🔍 Annotated]] · [[Romans 16 - Study Guide|📖 Study guide]] · [[Romans|📚 Romans]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Romans 16]]
 
-## Scripture Graph
+[[Romans 15 - My Notes|◀ Romans 15]] · [[Romans|Romans ▶]]
+
+## 📖 Study Guide
 
 ![[Romans 16 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

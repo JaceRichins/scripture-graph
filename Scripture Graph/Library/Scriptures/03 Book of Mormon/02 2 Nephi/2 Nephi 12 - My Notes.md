@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Nephi 12 — My Study
 
-[[2 Nephi 12 (Annotated)|Annotated view]] · [[2 Nephi 12|Plain text]] · [[2 Nephi 12 - Study Guide|Study guide]] · [[2 Nephi]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Nephi 12|📜 Scripture only]] · [[2 Nephi 12 (Annotated)|🔍 Annotated]] · [[2 Nephi 12 - Study Guide|📖 Study guide]] · [[2 Nephi|📚 2 Nephi]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Nephi 12]]
 
-## Scripture Graph
+[[2 Nephi 11 - My Notes|◀ 2 Nephi 11]] · [[2 Nephi 13 - My Notes|2 Nephi 13 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Nephi 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

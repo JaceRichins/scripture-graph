@@ -12,14 +12,15 @@ cssclasses:
 
 # Words of Mormon 1 — My Study
 
-[[Words of Mormon 1 (Annotated)|Annotated view]] · [[Words of Mormon 1|Plain text]] · [[Words of Mormon 1 - Study Guide|Study guide]] · [[Words of Mormon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Words of Mormon 1|📜 Scripture only]] · [[Words of Mormon 1 (Annotated)|🔍 Annotated]] · [[Words of Mormon 1 - Study Guide|📖 Study guide]] · [[Words of Mormon|📚 Words of Mormon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Words of Mormon 1]]
 
-## Scripture Graph
+[[Words of Mormon|◀ Words of Mormon]] · [[Words of Mormon|Words of Mormon ▶]]
+
+## 📖 Study Guide
 
 ![[Words of Mormon 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

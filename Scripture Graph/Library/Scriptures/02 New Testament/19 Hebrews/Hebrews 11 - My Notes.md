@@ -12,14 +12,15 @@ cssclasses:
 
 # Hebrews 11 — My Study
 
-[[Hebrews 11 (Annotated)|Annotated view]] · [[Hebrews 11|Plain text]] · [[Hebrews 11 - Study Guide|Study guide]] · [[Hebrews]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Hebrews 11|📜 Scripture only]] · [[Hebrews 11 (Annotated)|🔍 Annotated]] · [[Hebrews 11 - Study Guide|📖 Study guide]] · [[Hebrews|📚 Hebrews]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Hebrews 11]]
 
-## Scripture Graph
+[[Hebrews 10 - My Notes|◀ Hebrews 10]] · [[Hebrews 12 - My Notes|Hebrews 12 ▶]]
+
+## 📖 Study Guide
 
 ![[Hebrews 11 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

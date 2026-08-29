@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 37 — My Study
 
-[[Jeremiah 37 (Annotated)|Annotated view]] · [[Jeremiah 37|Plain text]] · [[Jeremiah 37 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 37|📜 Scripture only]] · [[Jeremiah 37 (Annotated)|🔍 Annotated]] · [[Jeremiah 37 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 37]]
 
-## Scripture Graph
+[[Jeremiah 36 - My Notes|◀ Jeremiah 36]] · [[Jeremiah 38 - My Notes|Jeremiah 38 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 37 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

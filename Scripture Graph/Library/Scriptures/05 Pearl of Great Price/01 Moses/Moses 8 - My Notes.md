@@ -12,14 +12,15 @@ cssclasses:
 
 # Moses 8 — My Study
 
-[[Moses 8 (Annotated)|Annotated view]] · [[Moses 8|Plain text]] · [[Moses 8 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Moses 8|📜 Scripture only]] · [[Moses 8 (Annotated)|🔍 Annotated]] · [[Moses 8 - Study Guide|📖 Study guide]] · [[Moses|📚 Moses]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Moses 8]]
 
-## Scripture Graph
+[[Moses 7 - My Notes|◀ Moses 7]] · [[Moses|Moses ▶]]
+
+## 📖 Study Guide
 
 ![[Moses 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

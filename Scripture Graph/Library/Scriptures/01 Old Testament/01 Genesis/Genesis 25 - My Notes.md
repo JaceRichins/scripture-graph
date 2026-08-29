@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 25 — My Study
 
-[[Genesis 25 (Annotated)|Annotated view]] · [[Genesis 25|Plain text]] · [[Genesis 25 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 25|📜 Scripture only]] · [[Genesis 25 (Annotated)|🔍 Annotated]] · [[Genesis 25 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 25]]
 
-## Scripture Graph
+[[Genesis 24 - My Notes|◀ Genesis 24]] · [[Genesis 26 - My Notes|Genesis 26 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

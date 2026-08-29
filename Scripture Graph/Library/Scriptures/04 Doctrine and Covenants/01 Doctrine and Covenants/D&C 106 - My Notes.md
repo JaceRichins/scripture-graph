@@ -12,14 +12,15 @@ cssclasses:
 
 # D&C 106 — My Study
 
-[[D&C 106 (Annotated)|Annotated view]] · [[D&C 106|Plain text]] · [[D&C 106 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[D&C 106|📜 Scripture only]] · [[D&C 106 (Annotated)|🔍 Annotated]] · [[D&C 106 - Study Guide|📖 Study guide]] · [[Doctrine and Covenants|📚 Doctrine and Covenants]] · [[Study Hub|🏠 Study Hub]]
 
 ![[D&C 106]]
 
-## Scripture Graph
+[[D&C 105 - My Notes|◀ D&C 105]] · [[D&C 107 - My Notes|D&C 107 ▶]]
+
+## 📖 Study Guide
 
 ![[D&C 106 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

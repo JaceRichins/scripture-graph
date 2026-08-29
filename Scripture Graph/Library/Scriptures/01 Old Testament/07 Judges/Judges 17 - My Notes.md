@@ -12,14 +12,15 @@ cssclasses:
 
 # Judges 17 — My Study
 
-[[Judges 17 (Annotated)|Annotated view]] · [[Judges 17|Plain text]] · [[Judges 17 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Judges 17|📜 Scripture only]] · [[Judges 17 (Annotated)|🔍 Annotated]] · [[Judges 17 - Study Guide|📖 Study guide]] · [[Judges|📚 Judges]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Judges 17]]
 
-## Scripture Graph
+[[Judges 16 - My Notes|◀ Judges 16]] · [[Judges 18 - My Notes|Judges 18 ▶]]
+
+## 📖 Study Guide
 
 ![[Judges 17 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

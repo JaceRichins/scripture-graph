@@ -12,14 +12,15 @@ cssclasses:
 
 # Daniel 9 — My Study
 
-[[Daniel 9 (Annotated)|Annotated view]] · [[Daniel 9|Plain text]] · [[Daniel 9 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Daniel 9|📜 Scripture only]] · [[Daniel 9 (Annotated)|🔍 Annotated]] · [[Daniel 9 - Study Guide|📖 Study guide]] · [[Daniel|📚 Daniel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Daniel 9]]
 
-## Scripture Graph
+[[Daniel 8 - My Notes|◀ Daniel 8]] · [[Daniel 10 - My Notes|Daniel 10 ▶]]
+
+## 📖 Study Guide
 
 ![[Daniel 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

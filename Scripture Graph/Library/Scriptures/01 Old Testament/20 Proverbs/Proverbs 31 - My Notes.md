@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 31 — My Study
 
-[[Proverbs 31 (Annotated)|Annotated view]] · [[Proverbs 31|Plain text]] · [[Proverbs 31 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 31|📜 Scripture only]] · [[Proverbs 31 (Annotated)|🔍 Annotated]] · [[Proverbs 31 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 31]]
 
-## Scripture Graph
+[[Proverbs 30 - My Notes|◀ Proverbs 30]] · [[Proverbs|Proverbs ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 31 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

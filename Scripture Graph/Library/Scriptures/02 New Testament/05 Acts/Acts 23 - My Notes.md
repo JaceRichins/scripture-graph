@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 23 — My Study
 
-[[Acts 23 (Annotated)|Annotated view]] · [[Acts 23|Plain text]] · [[Acts 23 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 23|📜 Scripture only]] · [[Acts 23 (Annotated)|🔍 Annotated]] · [[Acts 23 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 23]]
 
-## Scripture Graph
+[[Acts 22 - My Notes|◀ Acts 22]] · [[Acts 24 - My Notes|Acts 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

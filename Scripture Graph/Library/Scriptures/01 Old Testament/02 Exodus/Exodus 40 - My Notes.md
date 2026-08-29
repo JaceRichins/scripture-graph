@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 40 — My Study
 
-[[Exodus 40 (Annotated)|Annotated view]] · [[Exodus 40|Plain text]] · [[Exodus 40 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 40|📜 Scripture only]] · [[Exodus 40 (Annotated)|🔍 Annotated]] · [[Exodus 40 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 40]]
 
-## Scripture Graph
+[[Exodus 39 - My Notes|◀ Exodus 39]] · [[Exodus|Exodus ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 40 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

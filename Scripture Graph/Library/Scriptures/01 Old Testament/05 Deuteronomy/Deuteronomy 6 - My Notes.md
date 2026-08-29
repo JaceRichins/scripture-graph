@@ -12,14 +12,15 @@ cssclasses:
 
 # Deuteronomy 6 — My Study
 
-[[Deuteronomy 6 (Annotated)|Annotated view]] · [[Deuteronomy 6|Plain text]] · [[Deuteronomy 6 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Deuteronomy 6|📜 Scripture only]] · [[Deuteronomy 6 (Annotated)|🔍 Annotated]] · [[Deuteronomy 6 - Study Guide|📖 Study guide]] · [[Deuteronomy|📚 Deuteronomy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Deuteronomy 6]]
 
-## Scripture Graph
+[[Deuteronomy 5 - My Notes|◀ Deuteronomy 5]] · [[Deuteronomy 7 - My Notes|Deuteronomy 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Deuteronomy 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

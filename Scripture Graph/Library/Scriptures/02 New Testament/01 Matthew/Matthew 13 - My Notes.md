@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 13 — My Study
 
-[[Matthew 13 (Annotated)|Annotated view]] · [[Matthew 13|Plain text]] · [[Matthew 13 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 13|📜 Scripture only]] · [[Matthew 13 (Annotated)|🔍 Annotated]] · [[Matthew 13 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 13]]
 
-## Scripture Graph
+[[Matthew 12 - My Notes|◀ Matthew 12]] · [[Matthew 14 - My Notes|Matthew 14 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 13 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

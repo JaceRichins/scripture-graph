@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 71 — My Study
 
-[[Psalm 71 (Annotated)|Annotated view]] · [[Psalm 71|Plain text]] · [[Psalm 71 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 71|📜 Scripture only]] · [[Psalm 71 (Annotated)|🔍 Annotated]] · [[Psalm 71 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 71]]
 
-## Scripture Graph
+[[Psalm 70 - My Notes|◀ Psalm 70]] · [[Psalm 72 - My Notes|Psalm 72 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 71 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 53 — My Study
 
-[[Psalm 53 (Annotated)|Annotated view]] · [[Psalm 53|Plain text]] · [[Psalm 53 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 53|📜 Scripture only]] · [[Psalm 53 (Annotated)|🔍 Annotated]] · [[Psalm 53 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 53]]
 
-## Scripture Graph
+[[Psalm 52 - My Notes|◀ Psalm 52]] · [[Psalm 54 - My Notes|Psalm 54 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 53 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

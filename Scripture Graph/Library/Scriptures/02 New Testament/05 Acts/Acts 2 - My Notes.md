@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 2 — My Study
 
-[[Acts 2 (Annotated)|Annotated view]] · [[Acts 2|Plain text]] · [[Acts 2 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 2|📜 Scripture only]] · [[Acts 2 (Annotated)|🔍 Annotated]] · [[Acts 2 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 2]]
 
-## Scripture Graph
+[[Acts 1 - My Notes|◀ Acts 1]] · [[Acts 3 - My Notes|Acts 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

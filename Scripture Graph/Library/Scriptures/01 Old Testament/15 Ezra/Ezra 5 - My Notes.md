@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezra 5 — My Study
 
-[[Ezra 5 (Annotated)|Annotated view]] · [[Ezra 5|Plain text]] · [[Ezra 5 - Study Guide|Study guide]] · [[Ezra]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezra 5|📜 Scripture only]] · [[Ezra 5 (Annotated)|🔍 Annotated]] · [[Ezra 5 - Study Guide|📖 Study guide]] · [[Ezra|📚 Ezra]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezra 5]]
 
-## Scripture Graph
+[[Ezra 4 - My Notes|◀ Ezra 4]] · [[Ezra 6 - My Notes|Ezra 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezra 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

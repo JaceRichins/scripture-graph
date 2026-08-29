@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 19 — My Study
 
-[[Luke 19 (Annotated)|Annotated view]] · [[Luke 19|Plain text]] · [[Luke 19 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 19|📜 Scripture only]] · [[Luke 19 (Annotated)|🔍 Annotated]] · [[Luke 19 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 19]]
 
-## Scripture Graph
+[[Luke 18 - My Notes|◀ Luke 18]] · [[Luke 20 - My Notes|Luke 20 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

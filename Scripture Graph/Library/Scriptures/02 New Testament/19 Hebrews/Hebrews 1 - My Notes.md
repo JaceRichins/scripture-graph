@@ -12,14 +12,15 @@ cssclasses:
 
 # Hebrews 1 — My Study
 
-[[Hebrews 1 (Annotated)|Annotated view]] · [[Hebrews 1|Plain text]] · [[Hebrews 1 - Study Guide|Study guide]] · [[Hebrews]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Hebrews 1|📜 Scripture only]] · [[Hebrews 1 (Annotated)|🔍 Annotated]] · [[Hebrews 1 - Study Guide|📖 Study guide]] · [[Hebrews|📚 Hebrews]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Hebrews 1]]
 
-## Scripture Graph
+[[Hebrews|◀ Hebrews]] · [[Hebrews 2 - My Notes|Hebrews 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Hebrews 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

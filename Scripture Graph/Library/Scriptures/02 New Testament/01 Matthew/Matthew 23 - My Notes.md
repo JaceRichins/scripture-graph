@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 23 — My Study
 
-[[Matthew 23 (Annotated)|Annotated view]] · [[Matthew 23|Plain text]] · [[Matthew 23 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 23|📜 Scripture only]] · [[Matthew 23 (Annotated)|🔍 Annotated]] · [[Matthew 23 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 23]]
 
-## Scripture Graph
+[[Matthew 22 - My Notes|◀ Matthew 22]] · [[Matthew 24 - My Notes|Matthew 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

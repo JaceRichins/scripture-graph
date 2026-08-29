@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 25 — My Study
 
-[[Proverbs 25 (Annotated)|Annotated view]] · [[Proverbs 25|Plain text]] · [[Proverbs 25 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 25|📜 Scripture only]] · [[Proverbs 25 (Annotated)|🔍 Annotated]] · [[Proverbs 25 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 25]]
 
-## Scripture Graph
+[[Proverbs 24 - My Notes|◀ Proverbs 24]] · [[Proverbs 26 - My Notes|Proverbs 26 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

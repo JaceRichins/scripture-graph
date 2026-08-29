@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 32 — My Study
 
-[[Ezekiel 32 (Annotated)|Annotated view]] · [[Ezekiel 32|Plain text]] · [[Ezekiel 32 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 32|📜 Scripture only]] · [[Ezekiel 32 (Annotated)|🔍 Annotated]] · [[Ezekiel 32 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 32]]
 
-## Scripture Graph
+[[Ezekiel 31 - My Notes|◀ Ezekiel 31]] · [[Ezekiel 33 - My Notes|Ezekiel 33 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 32 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Corinthians 4 — My Study
 
-[[2 Corinthians 4 (Annotated)|Annotated view]] · [[2 Corinthians 4|Plain text]] · [[2 Corinthians 4 - Study Guide|Study guide]] · [[2 Corinthians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Corinthians 4|📜 Scripture only]] · [[2 Corinthians 4 (Annotated)|🔍 Annotated]] · [[2 Corinthians 4 - Study Guide|📖 Study guide]] · [[2 Corinthians|📚 2 Corinthians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Corinthians 4]]
 
-## Scripture Graph
+[[2 Corinthians 3 - My Notes|◀ 2 Corinthians 3]] · [[2 Corinthians 5 - My Notes|2 Corinthians 5 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Corinthians 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

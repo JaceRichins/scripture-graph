@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 3 — My Study
 
-[[Isaiah 3 (Annotated)|Annotated view]] · [[Isaiah 3|Plain text]] · [[Isaiah 3 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 3|📜 Scripture only]] · [[Isaiah 3 (Annotated)|🔍 Annotated]] · [[Isaiah 3 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 3]]
 
-## Scripture Graph
+[[Isaiah 2 - My Notes|◀ Isaiah 2]] · [[Isaiah 4 - My Notes|Isaiah 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

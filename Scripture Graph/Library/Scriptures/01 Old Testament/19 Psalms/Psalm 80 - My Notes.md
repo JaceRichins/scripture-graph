@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 80 — My Study
 
-[[Psalm 80 (Annotated)|Annotated view]] · [[Psalm 80|Plain text]] · [[Psalm 80 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 80|📜 Scripture only]] · [[Psalm 80 (Annotated)|🔍 Annotated]] · [[Psalm 80 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 80]]
 
-## Scripture Graph
+[[Psalm 79 - My Notes|◀ Psalm 79]] · [[Psalm 81 - My Notes|Psalm 81 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 80 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

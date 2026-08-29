@@ -12,14 +12,15 @@ cssclasses:
 
 # Romans 8 — My Study
 
-[[Romans 8 (Annotated)|Annotated view]] · [[Romans 8|Plain text]] · [[Romans 8 - Study Guide|Study guide]] · [[Romans]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Romans 8|📜 Scripture only]] · [[Romans 8 (Annotated)|🔍 Annotated]] · [[Romans 8 - Study Guide|📖 Study guide]] · [[Romans|📚 Romans]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Romans 8]]
 
-## Scripture Graph
+[[Romans 7 - My Notes|◀ Romans 7]] · [[Romans 9 - My Notes|Romans 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Romans 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

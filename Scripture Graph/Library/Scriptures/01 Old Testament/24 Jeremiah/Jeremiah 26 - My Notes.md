@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 26 — My Study
 
-[[Jeremiah 26 (Annotated)|Annotated view]] · [[Jeremiah 26|Plain text]] · [[Jeremiah 26 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 26|📜 Scripture only]] · [[Jeremiah 26 (Annotated)|🔍 Annotated]] · [[Jeremiah 26 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 26]]
 
-## Scripture Graph
+[[Jeremiah 25 - My Notes|◀ Jeremiah 25]] · [[Jeremiah 27 - My Notes|Jeremiah 27 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 26 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

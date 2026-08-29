@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 9 — My Study
 
-[[Proverbs 9 (Annotated)|Annotated view]] · [[Proverbs 9|Plain text]] · [[Proverbs 9 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 9|📜 Scripture only]] · [[Proverbs 9 (Annotated)|🔍 Annotated]] · [[Proverbs 9 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 9]]
 
-## Scripture Graph
+[[Proverbs 8 - My Notes|◀ Proverbs 8]] · [[Proverbs 10 - My Notes|Proverbs 10 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

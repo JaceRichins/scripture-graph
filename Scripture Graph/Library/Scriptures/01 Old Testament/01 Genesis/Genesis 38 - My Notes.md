@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 38 — My Study
 
-[[Genesis 38 (Annotated)|Annotated view]] · [[Genesis 38|Plain text]] · [[Genesis 38 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 38|📜 Scripture only]] · [[Genesis 38 (Annotated)|🔍 Annotated]] · [[Genesis 38 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 38]]
 
-## Scripture Graph
+[[Genesis 37 - My Notes|◀ Genesis 37]] · [[Genesis 39 - My Notes|Genesis 39 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 38 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

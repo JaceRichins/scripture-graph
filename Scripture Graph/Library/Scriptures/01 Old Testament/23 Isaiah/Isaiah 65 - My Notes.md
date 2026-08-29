@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 65 — My Study
 
-[[Isaiah 65 (Annotated)|Annotated view]] · [[Isaiah 65|Plain text]] · [[Isaiah 65 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 65|📜 Scripture only]] · [[Isaiah 65 (Annotated)|🔍 Annotated]] · [[Isaiah 65 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 65]]
 
-## Scripture Graph
+[[Isaiah 64 - My Notes|◀ Isaiah 64]] · [[Isaiah 66 - My Notes|Isaiah 66 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 65 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

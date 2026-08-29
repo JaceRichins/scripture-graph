@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 5 — My Study
 
-[[Ecclesiastes 5 (Annotated)|Annotated view]] · [[Ecclesiastes 5|Plain text]] · [[Ecclesiastes 5 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 5|📜 Scripture only]] · [[Ecclesiastes 5 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 5 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 5]]
 
-## Scripture Graph
+[[Ecclesiastes 4 - My Notes|◀ Ecclesiastes 4]] · [[Ecclesiastes 6 - My Notes|Ecclesiastes 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

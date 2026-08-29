@@ -12,14 +12,15 @@ cssclasses:
 
 # Esther 1 — My Study
 
-[[Esther 1 (Annotated)|Annotated view]] · [[Esther 1|Plain text]] · [[Esther 1 - Study Guide|Study guide]] · [[Esther]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Esther 1|📜 Scripture only]] · [[Esther 1 (Annotated)|🔍 Annotated]] · [[Esther 1 - Study Guide|📖 Study guide]] · [[Esther|📚 Esther]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Esther 1]]
 
-## Scripture Graph
+[[Esther|◀ Esther]] · [[Esther 2 - My Notes|Esther 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Esther 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

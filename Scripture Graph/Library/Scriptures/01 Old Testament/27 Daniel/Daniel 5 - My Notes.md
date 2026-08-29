@@ -12,14 +12,15 @@ cssclasses:
 
 # Daniel 5 — My Study
 
-[[Daniel 5 (Annotated)|Annotated view]] · [[Daniel 5|Plain text]] · [[Daniel 5 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Daniel 5|📜 Scripture only]] · [[Daniel 5 (Annotated)|🔍 Annotated]] · [[Daniel 5 - Study Guide|📖 Study guide]] · [[Daniel|📚 Daniel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Daniel 5]]
 
-## Scripture Graph
+[[Daniel 4 - My Notes|◀ Daniel 4]] · [[Daniel 6 - My Notes|Daniel 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Daniel 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

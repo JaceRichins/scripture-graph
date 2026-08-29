@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 5 — My Study
 
-[[Leviticus 5 (Annotated)|Annotated view]] · [[Leviticus 5|Plain text]] · [[Leviticus 5 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 5|📜 Scripture only]] · [[Leviticus 5 (Annotated)|🔍 Annotated]] · [[Leviticus 5 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 5]]
 
-## Scripture Graph
+[[Leviticus 4 - My Notes|◀ Leviticus 4]] · [[Leviticus 6 - My Notes|Leviticus 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Nahum 3 — My Study
 
-[[Nahum 3 (Annotated)|Annotated view]] · [[Nahum 3|Plain text]] · [[Nahum 3 - Study Guide|Study guide]] · [[Nahum]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nahum 3|📜 Scripture only]] · [[Nahum 3 (Annotated)|🔍 Annotated]] · [[Nahum 3 - Study Guide|📖 Study guide]] · [[Nahum|📚 Nahum]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nahum 3]]
 
-## Scripture Graph
+[[Nahum 2 - My Notes|◀ Nahum 2]] · [[Nahum|Nahum ▶]]
+
+## 📖 Study Guide
 
 ![[Nahum 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

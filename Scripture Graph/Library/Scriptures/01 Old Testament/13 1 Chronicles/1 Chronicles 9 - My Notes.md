@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Chronicles 9 — My Study
 
-[[1 Chronicles 9 (Annotated)|Annotated view]] · [[1 Chronicles 9|Plain text]] · [[1 Chronicles 9 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Chronicles 9|📜 Scripture only]] · [[1 Chronicles 9 (Annotated)|🔍 Annotated]] · [[1 Chronicles 9 - Study Guide|📖 Study guide]] · [[1 Chronicles|📚 1 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Chronicles 9]]
 
-## Scripture Graph
+[[1 Chronicles 8 - My Notes|◀ 1 Chronicles 8]] · [[1 Chronicles 10 - My Notes|1 Chronicles 10 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Chronicles 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

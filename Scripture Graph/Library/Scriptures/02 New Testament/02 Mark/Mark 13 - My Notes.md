@@ -12,14 +12,15 @@ cssclasses:
 
 # Mark 13 — My Study
 
-[[Mark 13 (Annotated)|Annotated view]] · [[Mark 13|Plain text]] · [[Mark 13 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mark 13|📜 Scripture only]] · [[Mark 13 (Annotated)|🔍 Annotated]] · [[Mark 13 - Study Guide|📖 Study guide]] · [[Mark|📚 Mark]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mark 13]]
 
-## Scripture Graph
+[[Mark 12 - My Notes|◀ Mark 12]] · [[Mark 14 - My Notes|Mark 14 ▶]]
+
+## 📖 Study Guide
 
 ![[Mark 13 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

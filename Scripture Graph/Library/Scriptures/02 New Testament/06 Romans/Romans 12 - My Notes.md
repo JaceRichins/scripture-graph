@@ -12,14 +12,15 @@ cssclasses:
 
 # Romans 12 — My Study
 
-[[Romans 12 (Annotated)|Annotated view]] · [[Romans 12|Plain text]] · [[Romans 12 - Study Guide|Study guide]] · [[Romans]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Romans 12|📜 Scripture only]] · [[Romans 12 (Annotated)|🔍 Annotated]] · [[Romans 12 - Study Guide|📖 Study guide]] · [[Romans|📚 Romans]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Romans 12]]
 
-## Scripture Graph
+[[Romans 11 - My Notes|◀ Romans 11]] · [[Romans 13 - My Notes|Romans 13 ▶]]
+
+## 📖 Study Guide
 
 ![[Romans 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

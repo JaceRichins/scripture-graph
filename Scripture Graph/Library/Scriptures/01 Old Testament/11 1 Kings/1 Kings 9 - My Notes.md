@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Kings 9 — My Study
 
-[[1 Kings 9 (Annotated)|Annotated view]] · [[1 Kings 9|Plain text]] · [[1 Kings 9 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Kings 9|📜 Scripture only]] · [[1 Kings 9 (Annotated)|🔍 Annotated]] · [[1 Kings 9 - Study Guide|📖 Study guide]] · [[1 Kings|📚 1 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Kings 9]]
 
-## Scripture Graph
+[[1 Kings 8 - My Notes|◀ 1 Kings 8]] · [[1 Kings 10 - My Notes|1 Kings 10 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Kings 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

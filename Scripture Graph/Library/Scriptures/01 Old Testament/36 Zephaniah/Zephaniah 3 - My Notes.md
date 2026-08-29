@@ -12,14 +12,15 @@ cssclasses:
 
 # Zephaniah 3 — My Study
 
-[[Zephaniah 3 (Annotated)|Annotated view]] · [[Zephaniah 3|Plain text]] · [[Zephaniah 3 - Study Guide|Study guide]] · [[Zephaniah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zephaniah 3|📜 Scripture only]] · [[Zephaniah 3 (Annotated)|🔍 Annotated]] · [[Zephaniah 3 - Study Guide|📖 Study guide]] · [[Zephaniah|📚 Zephaniah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zephaniah 3]]
 
-## Scripture Graph
+[[Zephaniah 2 - My Notes|◀ Zephaniah 2]] · [[Zephaniah|Zephaniah ▶]]
+
+## 📖 Study Guide
 
 ![[Zephaniah 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

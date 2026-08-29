@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 58 — My Study
 
-[[Isaiah 58 (Annotated)|Annotated view]] · [[Isaiah 58|Plain text]] · [[Isaiah 58 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 58|📜 Scripture only]] · [[Isaiah 58 (Annotated)|🔍 Annotated]] · [[Isaiah 58 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 58]]
 
-## Scripture Graph
+[[Isaiah 57 - My Notes|◀ Isaiah 57]] · [[Isaiah 59 - My Notes|Isaiah 59 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 58 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

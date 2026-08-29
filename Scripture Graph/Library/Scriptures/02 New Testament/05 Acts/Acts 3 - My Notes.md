@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 3 — My Study
 
-[[Acts 3 (Annotated)|Annotated view]] · [[Acts 3|Plain text]] · [[Acts 3 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 3|📜 Scripture only]] · [[Acts 3 (Annotated)|🔍 Annotated]] · [[Acts 3 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 3]]
 
-## Scripture Graph
+[[Acts 2 - My Notes|◀ Acts 2]] · [[Acts 4 - My Notes|Acts 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

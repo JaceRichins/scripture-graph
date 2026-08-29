@@ -12,14 +12,15 @@ cssclasses:
 
 # Song of Solomon 4 — My Study
 
-[[Song of Solomon 4 (Annotated)|Annotated view]] · [[Song of Solomon 4|Plain text]] · [[Song of Solomon 4 - Study Guide|Study guide]] · [[Song of Solomon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Song of Solomon 4|📜 Scripture only]] · [[Song of Solomon 4 (Annotated)|🔍 Annotated]] · [[Song of Solomon 4 - Study Guide|📖 Study guide]] · [[Song of Solomon|📚 Song of Solomon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Song of Solomon 4]]
 
-## Scripture Graph
+[[Song of Solomon 3 - My Notes|◀ Song of Solomon 3]] · [[Song of Solomon 5 - My Notes|Song of Solomon 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Song of Solomon 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

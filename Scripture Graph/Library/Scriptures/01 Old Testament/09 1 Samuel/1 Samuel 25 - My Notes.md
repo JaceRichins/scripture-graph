@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Samuel 25 — My Study
 
-[[1 Samuel 25 (Annotated)|Annotated view]] · [[1 Samuel 25|Plain text]] · [[1 Samuel 25 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Samuel 25|📜 Scripture only]] · [[1 Samuel 25 (Annotated)|🔍 Annotated]] · [[1 Samuel 25 - Study Guide|📖 Study guide]] · [[1 Samuel|📚 1 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Samuel 25]]
 
-## Scripture Graph
+[[1 Samuel 24 - My Notes|◀ 1 Samuel 24]] · [[1 Samuel 26 - My Notes|1 Samuel 26 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Samuel 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

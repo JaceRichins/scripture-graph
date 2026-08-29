@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 50 — My Study
 
-[[Jeremiah 50 (Annotated)|Annotated view]] · [[Jeremiah 50|Plain text]] · [[Jeremiah 50 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 50|📜 Scripture only]] · [[Jeremiah 50 (Annotated)|🔍 Annotated]] · [[Jeremiah 50 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 50]]
 
-## Scripture Graph
+[[Jeremiah 49 - My Notes|◀ Jeremiah 49]] · [[Jeremiah 51 - My Notes|Jeremiah 51 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 50 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

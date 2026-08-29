@@ -12,14 +12,15 @@ cssclasses:
 
 # Moses 7 — My Study
 
-[[Moses 7 (Annotated)|Annotated view]] · [[Moses 7|Plain text]] · [[Moses 7 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Moses 7|📜 Scripture only]] · [[Moses 7 (Annotated)|🔍 Annotated]] · [[Moses 7 - Study Guide|📖 Study guide]] · [[Moses|📚 Moses]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Moses 7]]
 
-## Scripture Graph
+[[Moses 6 - My Notes|◀ Moses 6]] · [[Moses 8 - My Notes|Moses 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Moses 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

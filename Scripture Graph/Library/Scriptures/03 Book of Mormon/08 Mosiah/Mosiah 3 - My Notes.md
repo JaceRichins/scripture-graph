@@ -12,14 +12,15 @@ cssclasses:
 
 # Mosiah 3 — My Study
 
-[[Mosiah 3 (Annotated)|Annotated view]] · [[Mosiah 3|Plain text]] · [[Mosiah 3 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mosiah 3|📜 Scripture only]] · [[Mosiah 3 (Annotated)|🔍 Annotated]] · [[Mosiah 3 - Study Guide|📖 Study guide]] · [[Mosiah|📚 Mosiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mosiah 3]]
 
-## Scripture Graph
+[[Mosiah 2 - My Notes|◀ Mosiah 2]] · [[Mosiah 4 - My Notes|Mosiah 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Mosiah 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

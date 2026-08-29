@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Kings 5 — My Study
 
-[[1 Kings 5 (Annotated)|Annotated view]] · [[1 Kings 5|Plain text]] · [[1 Kings 5 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Kings 5|📜 Scripture only]] · [[1 Kings 5 (Annotated)|🔍 Annotated]] · [[1 Kings 5 - Study Guide|📖 Study guide]] · [[1 Kings|📚 1 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Kings 5]]
 
-## Scripture Graph
+[[1 Kings 4 - My Notes|◀ 1 Kings 4]] · [[1 Kings 6 - My Notes|1 Kings 6 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Kings 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

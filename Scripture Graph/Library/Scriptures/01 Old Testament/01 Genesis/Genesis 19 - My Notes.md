@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 19 — My Study
 
-[[Genesis 19 (Annotated)|Annotated view]] · [[Genesis 19|Plain text]] · [[Genesis 19 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 19|📜 Scripture only]] · [[Genesis 19 (Annotated)|🔍 Annotated]] · [[Genesis 19 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 19]]
 
-## Scripture Graph
+[[Genesis 18 - My Notes|◀ Genesis 18]] · [[Genesis 20 - My Notes|Genesis 20 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

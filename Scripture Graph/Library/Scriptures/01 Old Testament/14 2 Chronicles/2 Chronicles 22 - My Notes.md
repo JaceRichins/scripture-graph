@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Chronicles 22 — My Study
 
-[[2 Chronicles 22 (Annotated)|Annotated view]] · [[2 Chronicles 22|Plain text]] · [[2 Chronicles 22 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Chronicles 22|📜 Scripture only]] · [[2 Chronicles 22 (Annotated)|🔍 Annotated]] · [[2 Chronicles 22 - Study Guide|📖 Study guide]] · [[2 Chronicles|📚 2 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Chronicles 22]]
 
-## Scripture Graph
+[[2 Chronicles 21 - My Notes|◀ 2 Chronicles 21]] · [[2 Chronicles 23 - My Notes|2 Chronicles 23 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Chronicles 22 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

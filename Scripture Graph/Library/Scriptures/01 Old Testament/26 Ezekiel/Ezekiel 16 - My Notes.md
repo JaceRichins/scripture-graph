@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 16 — My Study
 
-[[Ezekiel 16 (Annotated)|Annotated view]] · [[Ezekiel 16|Plain text]] · [[Ezekiel 16 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 16|📜 Scripture only]] · [[Ezekiel 16 (Annotated)|🔍 Annotated]] · [[Ezekiel 16 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 16]]
 
-## Scripture Graph
+[[Ezekiel 15 - My Notes|◀ Ezekiel 15]] · [[Ezekiel 17 - My Notes|Ezekiel 17 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 16 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

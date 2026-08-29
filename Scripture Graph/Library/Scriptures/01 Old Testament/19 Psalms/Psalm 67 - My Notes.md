@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 67 — My Study
 
-[[Psalm 67 (Annotated)|Annotated view]] · [[Psalm 67|Plain text]] · [[Psalm 67 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 67|📜 Scripture only]] · [[Psalm 67 (Annotated)|🔍 Annotated]] · [[Psalm 67 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 67]]
 
-## Scripture Graph
+[[Psalm 66 - My Notes|◀ Psalm 66]] · [[Psalm 68 - My Notes|Psalm 68 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 67 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

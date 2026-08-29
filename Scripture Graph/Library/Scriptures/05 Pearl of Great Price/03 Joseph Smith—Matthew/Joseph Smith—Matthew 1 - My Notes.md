@@ -12,14 +12,15 @@ cssclasses:
 
 # Joseph Smith—Matthew 1 — My Study
 
-[[Joseph Smith—Matthew 1 (Annotated)|Annotated view]] · [[Joseph Smith—Matthew 1|Plain text]] · [[Joseph Smith—Matthew 1 - Study Guide|Study guide]] · [[Joseph Smith—Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joseph Smith—Matthew 1|📜 Scripture only]] · [[Joseph Smith—Matthew 1 (Annotated)|🔍 Annotated]] · [[Joseph Smith—Matthew 1 - Study Guide|📖 Study guide]] · [[Joseph Smith—Matthew|📚 Joseph Smith—Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joseph Smith—Matthew 1]]
 
-## Scripture Graph
+[[Joseph Smith—Matthew|◀ Joseph Smith—Matthew]] · [[Joseph Smith—Matthew|Joseph Smith—Matthew ▶]]
+
+## 📖 Study Guide
 
 ![[Joseph Smith—Matthew 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

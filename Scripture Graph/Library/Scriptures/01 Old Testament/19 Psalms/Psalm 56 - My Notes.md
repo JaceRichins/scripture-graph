@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 56 — My Study
 
-[[Psalm 56 (Annotated)|Annotated view]] · [[Psalm 56|Plain text]] · [[Psalm 56 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 56|📜 Scripture only]] · [[Psalm 56 (Annotated)|🔍 Annotated]] · [[Psalm 56 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 56]]
 
-## Scripture Graph
+[[Psalm 55 - My Notes|◀ Psalm 55]] · [[Psalm 57 - My Notes|Psalm 57 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 56 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

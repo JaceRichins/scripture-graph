@@ -12,14 +12,15 @@ cssclasses:
 
 # Deuteronomy 7 — My Study
 
-[[Deuteronomy 7 (Annotated)|Annotated view]] · [[Deuteronomy 7|Plain text]] · [[Deuteronomy 7 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Deuteronomy 7|📜 Scripture only]] · [[Deuteronomy 7 (Annotated)|🔍 Annotated]] · [[Deuteronomy 7 - Study Guide|📖 Study guide]] · [[Deuteronomy|📚 Deuteronomy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Deuteronomy 7]]
 
-## Scripture Graph
+[[Deuteronomy 6 - My Notes|◀ Deuteronomy 6]] · [[Deuteronomy 8 - My Notes|Deuteronomy 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Deuteronomy 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

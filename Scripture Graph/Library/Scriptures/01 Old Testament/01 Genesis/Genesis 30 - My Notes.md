@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 30 — My Study
 
-[[Genesis 30 (Annotated)|Annotated view]] · [[Genesis 30|Plain text]] · [[Genesis 30 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 30|📜 Scripture only]] · [[Genesis 30 (Annotated)|🔍 Annotated]] · [[Genesis 30 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 30]]
 
-## Scripture Graph
+[[Genesis 29 - My Notes|◀ Genesis 29]] · [[Genesis 31 - My Notes|Genesis 31 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 30 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

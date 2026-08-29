@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 6 — My Study
 
-[[Acts 6 (Annotated)|Annotated view]] · [[Acts 6|Plain text]] · [[Acts 6 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 6|📜 Scripture only]] · [[Acts 6 (Annotated)|🔍 Annotated]] · [[Acts 6 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 6]]
 
-## Scripture Graph
+[[Acts 5 - My Notes|◀ Acts 5]] · [[Acts 7 - My Notes|Acts 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

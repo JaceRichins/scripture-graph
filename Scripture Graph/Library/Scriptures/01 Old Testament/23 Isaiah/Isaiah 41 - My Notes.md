@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 41 — My Study
 
-[[Isaiah 41 (Annotated)|Annotated view]] · [[Isaiah 41|Plain text]] · [[Isaiah 41 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 41|📜 Scripture only]] · [[Isaiah 41 (Annotated)|🔍 Annotated]] · [[Isaiah 41 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 41]]
 
-## Scripture Graph
+[[Isaiah 40 - My Notes|◀ Isaiah 40]] · [[Isaiah 42 - My Notes|Isaiah 42 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 41 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

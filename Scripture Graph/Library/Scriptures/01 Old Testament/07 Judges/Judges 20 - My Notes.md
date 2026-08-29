@@ -12,14 +12,15 @@ cssclasses:
 
 # Judges 20 — My Study
 
-[[Judges 20 (Annotated)|Annotated view]] · [[Judges 20|Plain text]] · [[Judges 20 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Judges 20|📜 Scripture only]] · [[Judges 20 (Annotated)|🔍 Annotated]] · [[Judges 20 - Study Guide|📖 Study guide]] · [[Judges|📚 Judges]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Judges 20]]
 
-## Scripture Graph
+[[Judges 19 - My Notes|◀ Judges 19]] · [[Judges 21 - My Notes|Judges 21 ▶]]
+
+## 📖 Study Guide
 
 ![[Judges 20 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

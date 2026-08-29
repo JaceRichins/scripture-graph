@@ -12,14 +12,15 @@ cssclasses:
 
 # Jacob 3 — My Study
 
-[[Jacob 3 (Annotated)|Annotated view]] · [[Jacob 3|Plain text]] · [[Jacob 3 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jacob 3|📜 Scripture only]] · [[Jacob 3 (Annotated)|🔍 Annotated]] · [[Jacob 3 - Study Guide|📖 Study guide]] · [[Jacob|📚 Jacob]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jacob 3]]
 
-## Scripture Graph
+[[Jacob 2 - My Notes|◀ Jacob 2]] · [[Jacob 4 - My Notes|Jacob 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Jacob 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

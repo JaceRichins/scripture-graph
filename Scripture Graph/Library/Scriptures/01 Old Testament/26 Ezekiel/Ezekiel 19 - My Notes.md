@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 19 — My Study
 
-[[Ezekiel 19 (Annotated)|Annotated view]] · [[Ezekiel 19|Plain text]] · [[Ezekiel 19 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 19|📜 Scripture only]] · [[Ezekiel 19 (Annotated)|🔍 Annotated]] · [[Ezekiel 19 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 19]]
 
-## Scripture Graph
+[[Ezekiel 18 - My Notes|◀ Ezekiel 18]] · [[Ezekiel 20 - My Notes|Ezekiel 20 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

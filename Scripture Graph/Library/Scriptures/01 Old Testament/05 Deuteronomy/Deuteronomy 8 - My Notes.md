@@ -12,14 +12,15 @@ cssclasses:
 
 # Deuteronomy 8 — My Study
 
-[[Deuteronomy 8 (Annotated)|Annotated view]] · [[Deuteronomy 8|Plain text]] · [[Deuteronomy 8 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Deuteronomy 8|📜 Scripture only]] · [[Deuteronomy 8 (Annotated)|🔍 Annotated]] · [[Deuteronomy 8 - Study Guide|📖 Study guide]] · [[Deuteronomy|📚 Deuteronomy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Deuteronomy 8]]
 
-## Scripture Graph
+[[Deuteronomy 7 - My Notes|◀ Deuteronomy 7]] · [[Deuteronomy 9 - My Notes|Deuteronomy 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Deuteronomy 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

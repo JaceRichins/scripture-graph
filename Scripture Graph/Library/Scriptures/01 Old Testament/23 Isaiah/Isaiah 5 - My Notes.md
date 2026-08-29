@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 5 — My Study
 
-[[Isaiah 5 (Annotated)|Annotated view]] · [[Isaiah 5|Plain text]] · [[Isaiah 5 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 5|📜 Scripture only]] · [[Isaiah 5 (Annotated)|🔍 Annotated]] · [[Isaiah 5 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 5]]
 
-## Scripture Graph
+[[Isaiah 4 - My Notes|◀ Isaiah 4]] · [[Isaiah 6 - My Notes|Isaiah 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

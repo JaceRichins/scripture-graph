@@ -12,14 +12,15 @@ cssclasses:
 
 # D&C 93 — My Study
 
-[[D&C 93 (Annotated)|Annotated view]] · [[D&C 93|Plain text]] · [[D&C 93 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[D&C 93|📜 Scripture only]] · [[D&C 93 (Annotated)|🔍 Annotated]] · [[D&C 93 - Study Guide|📖 Study guide]] · [[Doctrine and Covenants|📚 Doctrine and Covenants]] · [[Study Hub|🏠 Study Hub]]
 
 ![[D&C 93]]
 
-## Scripture Graph
+[[D&C 92 - My Notes|◀ D&C 92]] · [[D&C 94 - My Notes|D&C 94 ▶]]
+
+## 📖 Study Guide
 
 ![[D&C 93 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

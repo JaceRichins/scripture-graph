@@ -12,14 +12,15 @@ cssclasses:
 
 # 3 John 1 — My Study
 
-[[3 John 1 (Annotated)|Annotated view]] · [[3 John 1|Plain text]] · [[3 John 1 - Study Guide|Study guide]] · [[3 John]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[3 John 1|📜 Scripture only]] · [[3 John 1 (Annotated)|🔍 Annotated]] · [[3 John 1 - Study Guide|📖 Study guide]] · [[3 John|📚 3 John]] · [[Study Hub|🏠 Study Hub]]
 
 ![[3 John 1]]
 
-## Scripture Graph
+[[3 John|◀ 3 John]] · [[3 John|3 John ▶]]
+
+## 📖 Study Guide
 
 ![[3 John 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

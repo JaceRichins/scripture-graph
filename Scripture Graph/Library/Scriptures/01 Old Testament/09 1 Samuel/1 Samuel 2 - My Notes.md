@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Samuel 2 — My Study
 
-[[1 Samuel 2 (Annotated)|Annotated view]] · [[1 Samuel 2|Plain text]] · [[1 Samuel 2 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Samuel 2|📜 Scripture only]] · [[1 Samuel 2 (Annotated)|🔍 Annotated]] · [[1 Samuel 2 - Study Guide|📖 Study guide]] · [[1 Samuel|📚 1 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Samuel 2]]
 
-## Scripture Graph
+[[1 Samuel 1 - My Notes|◀ 1 Samuel 1]] · [[1 Samuel 3 - My Notes|1 Samuel 3 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Samuel 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

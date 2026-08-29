@@ -12,14 +12,15 @@ cssclasses:
 
 # Omni 1 — My Study
 
-[[Omni 1 (Annotated)|Annotated view]] · [[Omni 1|Plain text]] · [[Omni 1 - Study Guide|Study guide]] · [[Omni]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Omni 1|📜 Scripture only]] · [[Omni 1 (Annotated)|🔍 Annotated]] · [[Omni 1 - Study Guide|📖 Study guide]] · [[Omni|📚 Omni]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Omni 1]]
 
-## Scripture Graph
+[[Omni|◀ Omni]] · [[Omni|Omni ▶]]
+
+## 📖 Study Guide
 
 ![[Omni 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

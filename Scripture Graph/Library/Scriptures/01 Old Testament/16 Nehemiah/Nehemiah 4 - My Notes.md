@@ -12,14 +12,15 @@ cssclasses:
 
 # Nehemiah 4 — My Study
 
-[[Nehemiah 4 (Annotated)|Annotated view]] · [[Nehemiah 4|Plain text]] · [[Nehemiah 4 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nehemiah 4|📜 Scripture only]] · [[Nehemiah 4 (Annotated)|🔍 Annotated]] · [[Nehemiah 4 - Study Guide|📖 Study guide]] · [[Nehemiah|📚 Nehemiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nehemiah 4]]
 
-## Scripture Graph
+[[Nehemiah 3 - My Notes|◀ Nehemiah 3]] · [[Nehemiah 5 - My Notes|Nehemiah 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Nehemiah 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

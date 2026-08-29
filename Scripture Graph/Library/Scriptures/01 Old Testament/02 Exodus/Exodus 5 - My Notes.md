@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 5 — My Study
 
-[[Exodus 5 (Annotated)|Annotated view]] · [[Exodus 5|Plain text]] · [[Exodus 5 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 5|📜 Scripture only]] · [[Exodus 5 (Annotated)|🔍 Annotated]] · [[Exodus 5 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 5]]
 
-## Scripture Graph
+[[Exodus 4 - My Notes|◀ Exodus 4]] · [[Exodus 6 - My Notes|Exodus 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

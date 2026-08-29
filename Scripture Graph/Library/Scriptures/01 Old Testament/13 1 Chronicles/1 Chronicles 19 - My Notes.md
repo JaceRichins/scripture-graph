@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Chronicles 19 — My Study
 
-[[1 Chronicles 19 (Annotated)|Annotated view]] · [[1 Chronicles 19|Plain text]] · [[1 Chronicles 19 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Chronicles 19|📜 Scripture only]] · [[1 Chronicles 19 (Annotated)|🔍 Annotated]] · [[1 Chronicles 19 - Study Guide|📖 Study guide]] · [[1 Chronicles|📚 1 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Chronicles 19]]
 
-## Scripture Graph
+[[1 Chronicles 18 - My Notes|◀ 1 Chronicles 18]] · [[1 Chronicles 20 - My Notes|1 Chronicles 20 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Chronicles 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

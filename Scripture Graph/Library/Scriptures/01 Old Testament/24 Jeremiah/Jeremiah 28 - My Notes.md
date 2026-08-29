@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 28 — My Study
 
-[[Jeremiah 28 (Annotated)|Annotated view]] · [[Jeremiah 28|Plain text]] · [[Jeremiah 28 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 28|📜 Scripture only]] · [[Jeremiah 28 (Annotated)|🔍 Annotated]] · [[Jeremiah 28 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 28]]
 
-## Scripture Graph
+[[Jeremiah 27 - My Notes|◀ Jeremiah 27]] · [[Jeremiah 29 - My Notes|Jeremiah 29 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 28 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

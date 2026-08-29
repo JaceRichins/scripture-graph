@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 9 — My Study
 
-[[Jeremiah 9 (Annotated)|Annotated view]] · [[Jeremiah 9|Plain text]] · [[Jeremiah 9 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 9|📜 Scripture only]] · [[Jeremiah 9 (Annotated)|🔍 Annotated]] · [[Jeremiah 9 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 9]]
 
-## Scripture Graph
+[[Jeremiah 8 - My Notes|◀ Jeremiah 8]] · [[Jeremiah 10 - My Notes|Jeremiah 10 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 26 — My Study
 
-[[Acts 26 (Annotated)|Annotated view]] · [[Acts 26|Plain text]] · [[Acts 26 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 26|📜 Scripture only]] · [[Acts 26 (Annotated)|🔍 Annotated]] · [[Acts 26 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 26]]
 
-## Scripture Graph
+[[Acts 25 - My Notes|◀ Acts 25]] · [[Acts 27 - My Notes|Acts 27 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 26 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

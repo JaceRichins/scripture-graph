@@ -12,14 +12,15 @@ cssclasses:
 
 # 3 Nephi 28 — My Study
 
-[[3 Nephi 28 (Annotated)|Annotated view]] · [[3 Nephi 28|Plain text]] · [[3 Nephi 28 - Study Guide|Study guide]] · [[3 Nephi]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[3 Nephi 28|📜 Scripture only]] · [[3 Nephi 28 (Annotated)|🔍 Annotated]] · [[3 Nephi 28 - Study Guide|📖 Study guide]] · [[3 Nephi|📚 3 Nephi]] · [[Study Hub|🏠 Study Hub]]
 
 ![[3 Nephi 28]]
 
-## Scripture Graph
+[[3 Nephi 27 - My Notes|◀ 3 Nephi 27]] · [[3 Nephi 29 - My Notes|3 Nephi 29 ▶]]
+
+## 📖 Study Guide
 
 ![[3 Nephi 28 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 8 — My Study
 
-[[Joshua 8 (Annotated)|Annotated view]] · [[Joshua 8|Plain text]] · [[Joshua 8 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 8|📜 Scripture only]] · [[Joshua 8 (Annotated)|🔍 Annotated]] · [[Joshua 8 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 8]]
 
-## Scripture Graph
+[[Joshua 7 - My Notes|◀ Joshua 7]] · [[Joshua 9 - My Notes|Joshua 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

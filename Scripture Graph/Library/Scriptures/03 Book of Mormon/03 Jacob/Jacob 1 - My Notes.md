@@ -12,14 +12,15 @@ cssclasses:
 
 # Jacob 1 — My Study
 
-[[Jacob 1 (Annotated)|Annotated view]] · [[Jacob 1|Plain text]] · [[Jacob 1 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jacob 1|📜 Scripture only]] · [[Jacob 1 (Annotated)|🔍 Annotated]] · [[Jacob 1 - Study Guide|📖 Study guide]] · [[Jacob|📚 Jacob]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jacob 1]]
 
-## Scripture Graph
+[[Jacob|◀ Jacob]] · [[Jacob 2 - My Notes|Jacob 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Jacob 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

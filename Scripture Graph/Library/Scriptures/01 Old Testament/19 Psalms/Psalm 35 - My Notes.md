@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 35 — My Study
 
-[[Psalm 35 (Annotated)|Annotated view]] · [[Psalm 35|Plain text]] · [[Psalm 35 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 35|📜 Scripture only]] · [[Psalm 35 (Annotated)|🔍 Annotated]] · [[Psalm 35 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 35]]
 
-## Scripture Graph
+[[Psalm 34 - My Notes|◀ Psalm 34]] · [[Psalm 36 - My Notes|Psalm 36 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 35 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

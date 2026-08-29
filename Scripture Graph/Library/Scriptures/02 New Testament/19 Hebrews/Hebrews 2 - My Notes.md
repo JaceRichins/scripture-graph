@@ -12,14 +12,15 @@ cssclasses:
 
 # Hebrews 2 — My Study
 
-[[Hebrews 2 (Annotated)|Annotated view]] · [[Hebrews 2|Plain text]] · [[Hebrews 2 - Study Guide|Study guide]] · [[Hebrews]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Hebrews 2|📜 Scripture only]] · [[Hebrews 2 (Annotated)|🔍 Annotated]] · [[Hebrews 2 - Study Guide|📖 Study guide]] · [[Hebrews|📚 Hebrews]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Hebrews 2]]
 
-## Scripture Graph
+[[Hebrews 1 - My Notes|◀ Hebrews 1]] · [[Hebrews 3 - My Notes|Hebrews 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Hebrews 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

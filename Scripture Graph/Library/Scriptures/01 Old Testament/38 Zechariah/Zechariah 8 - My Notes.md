@@ -12,14 +12,15 @@ cssclasses:
 
 # Zechariah 8 — My Study
 
-[[Zechariah 8 (Annotated)|Annotated view]] · [[Zechariah 8|Plain text]] · [[Zechariah 8 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zechariah 8|📜 Scripture only]] · [[Zechariah 8 (Annotated)|🔍 Annotated]] · [[Zechariah 8 - Study Guide|📖 Study guide]] · [[Zechariah|📚 Zechariah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zechariah 8]]
 
-## Scripture Graph
+[[Zechariah 7 - My Notes|◀ Zechariah 7]] · [[Zechariah 9 - My Notes|Zechariah 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Zechariah 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Corinthians 8 — My Study
 
-[[1 Corinthians 8 (Annotated)|Annotated view]] · [[1 Corinthians 8|Plain text]] · [[1 Corinthians 8 - Study Guide|Study guide]] · [[1 Corinthians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Corinthians 8|📜 Scripture only]] · [[1 Corinthians 8 (Annotated)|🔍 Annotated]] · [[1 Corinthians 8 - Study Guide|📖 Study guide]] · [[1 Corinthians|📚 1 Corinthians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Corinthians 8]]
 
-## Scripture Graph
+[[1 Corinthians 7 - My Notes|◀ 1 Corinthians 7]] · [[1 Corinthians 9 - My Notes|1 Corinthians 9 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Corinthians 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

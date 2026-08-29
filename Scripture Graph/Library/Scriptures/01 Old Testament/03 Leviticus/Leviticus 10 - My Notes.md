@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 10 — My Study
 
-[[Leviticus 10 (Annotated)|Annotated view]] · [[Leviticus 10|Plain text]] · [[Leviticus 10 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 10|📜 Scripture only]] · [[Leviticus 10 (Annotated)|🔍 Annotated]] · [[Leviticus 10 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 10]]
 
-## Scripture Graph
+[[Leviticus 9 - My Notes|◀ Leviticus 9]] · [[Leviticus 11 - My Notes|Leviticus 11 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

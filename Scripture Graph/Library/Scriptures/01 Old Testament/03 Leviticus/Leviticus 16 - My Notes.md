@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 16 — My Study
 
-[[Leviticus 16 (Annotated)|Annotated view]] · [[Leviticus 16|Plain text]] · [[Leviticus 16 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 16|📜 Scripture only]] · [[Leviticus 16 (Annotated)|🔍 Annotated]] · [[Leviticus 16 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 16]]
 
-## Scripture Graph
+[[Leviticus 15 - My Notes|◀ Leviticus 15]] · [[Leviticus 17 - My Notes|Leviticus 17 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 16 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 25 — My Study
 
-[[Acts 25 (Annotated)|Annotated view]] · [[Acts 25|Plain text]] · [[Acts 25 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 25|📜 Scripture only]] · [[Acts 25 (Annotated)|🔍 Annotated]] · [[Acts 25 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 25]]
 
-## Scripture Graph
+[[Acts 24 - My Notes|◀ Acts 24]] · [[Acts 26 - My Notes|Acts 26 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

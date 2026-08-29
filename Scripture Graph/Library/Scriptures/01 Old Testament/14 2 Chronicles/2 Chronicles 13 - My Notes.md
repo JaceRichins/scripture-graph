@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Chronicles 13 — My Study
 
-[[2 Chronicles 13 (Annotated)|Annotated view]] · [[2 Chronicles 13|Plain text]] · [[2 Chronicles 13 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Chronicles 13|📜 Scripture only]] · [[2 Chronicles 13 (Annotated)|🔍 Annotated]] · [[2 Chronicles 13 - Study Guide|📖 Study guide]] · [[2 Chronicles|📚 2 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Chronicles 13]]
 
-## Scripture Graph
+[[2 Chronicles 12 - My Notes|◀ 2 Chronicles 12]] · [[2 Chronicles 14 - My Notes|2 Chronicles 14 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Chronicles 13 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

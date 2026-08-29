@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 26 — My Study
 
-[[Job 26 (Annotated)|Annotated view]] · [[Job 26|Plain text]] · [[Job 26 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 26|📜 Scripture only]] · [[Job 26 (Annotated)|🔍 Annotated]] · [[Job 26 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 26]]
 
-## Scripture Graph
+[[Job 25 - My Notes|◀ Job 25]] · [[Job 27 - My Notes|Job 27 ▶]]
+
+## 📖 Study Guide
 
 ![[Job 26 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

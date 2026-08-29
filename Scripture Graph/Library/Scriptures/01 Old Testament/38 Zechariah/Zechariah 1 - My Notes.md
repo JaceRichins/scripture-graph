@@ -12,14 +12,15 @@ cssclasses:
 
 # Zechariah 1 — My Study
 
-[[Zechariah 1 (Annotated)|Annotated view]] · [[Zechariah 1|Plain text]] · [[Zechariah 1 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zechariah 1|📜 Scripture only]] · [[Zechariah 1 (Annotated)|🔍 Annotated]] · [[Zechariah 1 - Study Guide|📖 Study guide]] · [[Zechariah|📚 Zechariah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zechariah 1]]
 
-## Scripture Graph
+[[Zechariah|◀ Zechariah]] · [[Zechariah 2 - My Notes|Zechariah 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Zechariah 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

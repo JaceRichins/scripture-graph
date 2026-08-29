@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 29 — My Study
 
-[[Psalm 29 (Annotated)|Annotated view]] · [[Psalm 29|Plain text]] · [[Psalm 29 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 29|📜 Scripture only]] · [[Psalm 29 (Annotated)|🔍 Annotated]] · [[Psalm 29 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 29]]
 
-## Scripture Graph
+[[Psalm 28 - My Notes|◀ Psalm 28]] · [[Psalm 30 - My Notes|Psalm 30 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 29 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

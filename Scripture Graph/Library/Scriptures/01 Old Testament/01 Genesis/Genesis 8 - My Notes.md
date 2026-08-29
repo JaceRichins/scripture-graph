@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 8 — My Study
 
-[[Genesis 8 (Annotated)|Annotated view]] · [[Genesis 8|Plain text]] · [[Genesis 8 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 8|📜 Scripture only]] · [[Genesis 8 (Annotated)|🔍 Annotated]] · [[Genesis 8 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 8]]
 
-## Scripture Graph
+[[Genesis 7 - My Notes|◀ Genesis 7]] · [[Genesis 9 - My Notes|Genesis 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

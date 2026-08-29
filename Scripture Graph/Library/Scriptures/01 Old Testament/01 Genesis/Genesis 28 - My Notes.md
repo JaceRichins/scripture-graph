@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 28 — My Study
 
-[[Genesis 28 (Annotated)|Annotated view]] · [[Genesis 28|Plain text]] · [[Genesis 28 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 28|📜 Scripture only]] · [[Genesis 28 (Annotated)|🔍 Annotated]] · [[Genesis 28 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 28]]
 
-## Scripture Graph
+[[Genesis 27 - My Notes|◀ Genesis 27]] · [[Genesis 29 - My Notes|Genesis 29 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 28 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

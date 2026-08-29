@@ -12,14 +12,15 @@ cssclasses:
 
 # Ether 12 — My Study
 
-[[Ether 12 (Annotated)|Annotated view]] · [[Ether 12|Plain text]] · [[Ether 12 - Study Guide|Study guide]] · [[Ether]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ether 12|📜 Scripture only]] · [[Ether 12 (Annotated)|🔍 Annotated]] · [[Ether 12 - Study Guide|📖 Study guide]] · [[Ether|📚 Ether]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ether 12]]
 
-## Scripture Graph
+[[Ether 11 - My Notes|◀ Ether 11]] · [[Ether 13 - My Notes|Ether 13 ▶]]
+
+## 📖 Study Guide
 
 ![[Ether 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

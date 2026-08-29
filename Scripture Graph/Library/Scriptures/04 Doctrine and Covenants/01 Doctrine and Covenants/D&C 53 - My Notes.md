@@ -12,14 +12,15 @@ cssclasses:
 
 # D&C 53 — My Study
 
-[[D&C 53 (Annotated)|Annotated view]] · [[D&C 53|Plain text]] · [[D&C 53 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[D&C 53|📜 Scripture only]] · [[D&C 53 (Annotated)|🔍 Annotated]] · [[D&C 53 - Study Guide|📖 Study guide]] · [[Doctrine and Covenants|📚 Doctrine and Covenants]] · [[Study Hub|🏠 Study Hub]]
 
 ![[D&C 53]]
 
-## Scripture Graph
+[[D&C 52 - My Notes|◀ D&C 52]] · [[D&C 54 - My Notes|D&C 54 ▶]]
+
+## 📖 Study Guide
 
 ![[D&C 53 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

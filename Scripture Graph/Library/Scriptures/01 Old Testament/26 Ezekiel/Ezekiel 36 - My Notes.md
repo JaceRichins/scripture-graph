@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 36 — My Study
 
-[[Ezekiel 36 (Annotated)|Annotated view]] · [[Ezekiel 36|Plain text]] · [[Ezekiel 36 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 36|📜 Scripture only]] · [[Ezekiel 36 (Annotated)|🔍 Annotated]] · [[Ezekiel 36 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 36]]
 
-## Scripture Graph
+[[Ezekiel 35 - My Notes|◀ Ezekiel 35]] · [[Ezekiel 37 - My Notes|Ezekiel 37 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 36 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

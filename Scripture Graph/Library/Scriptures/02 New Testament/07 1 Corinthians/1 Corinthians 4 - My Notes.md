@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Corinthians 4 — My Study
 
-[[1 Corinthians 4 (Annotated)|Annotated view]] · [[1 Corinthians 4|Plain text]] · [[1 Corinthians 4 - Study Guide|Study guide]] · [[1 Corinthians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Corinthians 4|📜 Scripture only]] · [[1 Corinthians 4 (Annotated)|🔍 Annotated]] · [[1 Corinthians 4 - Study Guide|📖 Study guide]] · [[1 Corinthians|📚 1 Corinthians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Corinthians 4]]
 
-## Scripture Graph
+[[1 Corinthians 3 - My Notes|◀ 1 Corinthians 3]] · [[1 Corinthians 5 - My Notes|1 Corinthians 5 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Corinthians 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 96 — My Study
 
-[[Psalm 96 (Annotated)|Annotated view]] · [[Psalm 96|Plain text]] · [[Psalm 96 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 96|📜 Scripture only]] · [[Psalm 96 (Annotated)|🔍 Annotated]] · [[Psalm 96 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 96]]
 
-## Scripture Graph
+[[Psalm 95 - My Notes|◀ Psalm 95]] · [[Psalm 97 - My Notes|Psalm 97 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 96 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

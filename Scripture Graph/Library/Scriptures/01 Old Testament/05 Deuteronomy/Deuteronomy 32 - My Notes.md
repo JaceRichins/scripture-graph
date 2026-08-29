@@ -12,14 +12,15 @@ cssclasses:
 
 # Deuteronomy 32 — My Study
 
-[[Deuteronomy 32 (Annotated)|Annotated view]] · [[Deuteronomy 32|Plain text]] · [[Deuteronomy 32 - Study Guide|Study guide]] · [[Deuteronomy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Deuteronomy 32|📜 Scripture only]] · [[Deuteronomy 32 (Annotated)|🔍 Annotated]] · [[Deuteronomy 32 - Study Guide|📖 Study guide]] · [[Deuteronomy|📚 Deuteronomy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Deuteronomy 32]]
 
-## Scripture Graph
+[[Deuteronomy 31 - My Notes|◀ Deuteronomy 31]] · [[Deuteronomy 33 - My Notes|Deuteronomy 33 ▶]]
+
+## 📖 Study Guide
 
 ![[Deuteronomy 32 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Malachi 2 — My Study
 
-[[Malachi 2 (Annotated)|Annotated view]] · [[Malachi 2|Plain text]] · [[Malachi 2 - Study Guide|Study guide]] · [[Malachi]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Malachi 2|📜 Scripture only]] · [[Malachi 2 (Annotated)|🔍 Annotated]] · [[Malachi 2 - Study Guide|📖 Study guide]] · [[Malachi|📚 Malachi]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Malachi 2]]
 
-## Scripture Graph
+[[Malachi 1 - My Notes|◀ Malachi 1]] · [[Malachi 3 - My Notes|Malachi 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Malachi 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

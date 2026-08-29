@@ -12,14 +12,15 @@ cssclasses:
 
 # Joel 3 — My Study
 
-[[Joel 3 (Annotated)|Annotated view]] · [[Joel 3|Plain text]] · [[Joel 3 - Study Guide|Study guide]] · [[Joel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joel 3|📜 Scripture only]] · [[Joel 3 (Annotated)|🔍 Annotated]] · [[Joel 3 - Study Guide|📖 Study guide]] · [[Joel|📚 Joel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joel 3]]
 
-## Scripture Graph
+[[Joel 2 - My Notes|◀ Joel 2]] · [[Joel|Joel ▶]]
+
+## 📖 Study Guide
 
 ![[Joel 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

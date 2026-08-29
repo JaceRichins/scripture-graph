@@ -12,14 +12,15 @@ cssclasses:
 
 # Nehemiah 3 — My Study
 
-[[Nehemiah 3 (Annotated)|Annotated view]] · [[Nehemiah 3|Plain text]] · [[Nehemiah 3 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nehemiah 3|📜 Scripture only]] · [[Nehemiah 3 (Annotated)|🔍 Annotated]] · [[Nehemiah 3 - Study Guide|📖 Study guide]] · [[Nehemiah|📚 Nehemiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nehemiah 3]]
 
-## Scripture Graph
+[[Nehemiah 2 - My Notes|◀ Nehemiah 2]] · [[Nehemiah 4 - My Notes|Nehemiah 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Nehemiah 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

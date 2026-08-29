@@ -12,14 +12,15 @@ cssclasses:
 
 # Nehemiah 8 — My Study
 
-[[Nehemiah 8 (Annotated)|Annotated view]] · [[Nehemiah 8|Plain text]] · [[Nehemiah 8 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nehemiah 8|📜 Scripture only]] · [[Nehemiah 8 (Annotated)|🔍 Annotated]] · [[Nehemiah 8 - Study Guide|📖 Study guide]] · [[Nehemiah|📚 Nehemiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nehemiah 8]]
 
-## Scripture Graph
+[[Nehemiah 7 - My Notes|◀ Nehemiah 7]] · [[Nehemiah 9 - My Notes|Nehemiah 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Nehemiah 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

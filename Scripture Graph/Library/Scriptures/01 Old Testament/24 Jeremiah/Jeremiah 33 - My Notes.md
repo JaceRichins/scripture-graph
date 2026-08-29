@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 33 — My Study
 
-[[Jeremiah 33 (Annotated)|Annotated view]] · [[Jeremiah 33|Plain text]] · [[Jeremiah 33 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 33|📜 Scripture only]] · [[Jeremiah 33 (Annotated)|🔍 Annotated]] · [[Jeremiah 33 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 33]]
 
-## Scripture Graph
+[[Jeremiah 32 - My Notes|◀ Jeremiah 32]] · [[Jeremiah 34 - My Notes|Jeremiah 34 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 33 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 1 — My Study
 
-[[Matthew 1 (Annotated)|Annotated view]] · [[Matthew 1|Plain text]] · [[Matthew 1 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 1|📜 Scripture only]] · [[Matthew 1 (Annotated)|🔍 Annotated]] · [[Matthew 1 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 1]]
 
-## Scripture Graph
+[[Matthew|◀ Matthew]] · [[Matthew 2 - My Notes|Matthew 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

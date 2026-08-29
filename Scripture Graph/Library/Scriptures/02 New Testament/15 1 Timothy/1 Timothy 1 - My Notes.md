@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Timothy 1 — My Study
 
-[[1 Timothy 1 (Annotated)|Annotated view]] · [[1 Timothy 1|Plain text]] · [[1 Timothy 1 - Study Guide|Study guide]] · [[1 Timothy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Timothy 1|📜 Scripture only]] · [[1 Timothy 1 (Annotated)|🔍 Annotated]] · [[1 Timothy 1 - Study Guide|📖 Study guide]] · [[1 Timothy|📚 1 Timothy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Timothy 1]]
 
-## Scripture Graph
+[[1 Timothy|◀ 1 Timothy]] · [[1 Timothy 2 - My Notes|1 Timothy 2 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Timothy 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

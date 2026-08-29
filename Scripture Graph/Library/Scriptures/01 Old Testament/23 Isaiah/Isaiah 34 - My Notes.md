@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 34 — My Study
 
-[[Isaiah 34 (Annotated)|Annotated view]] · [[Isaiah 34|Plain text]] · [[Isaiah 34 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 34|📜 Scripture only]] · [[Isaiah 34 (Annotated)|🔍 Annotated]] · [[Isaiah 34 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 34]]
 
-## Scripture Graph
+[[Isaiah 33 - My Notes|◀ Isaiah 33]] · [[Isaiah 35 - My Notes|Isaiah 35 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 34 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

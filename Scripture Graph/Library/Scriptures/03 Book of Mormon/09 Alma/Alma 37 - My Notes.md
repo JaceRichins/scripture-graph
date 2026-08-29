@@ -12,14 +12,15 @@ cssclasses:
 
 # Alma 37 — My Study
 
-[[Alma 37 (Annotated)|Annotated view]] · [[Alma 37|Plain text]] · [[Alma 37 - Study Guide|Study guide]] · [[Alma]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Alma 37|📜 Scripture only]] · [[Alma 37 (Annotated)|🔍 Annotated]] · [[Alma 37 - Study Guide|📖 Study guide]] · [[Alma|📚 Alma]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Alma 37]]
 
-## Scripture Graph
+[[Alma 36 - My Notes|◀ Alma 36]] · [[Alma 38 - My Notes|Alma 38 ▶]]
+
+## 📖 Study Guide
 
 ![[Alma 37 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 4 — My Study
 
-[[Joshua 4 (Annotated)|Annotated view]] · [[Joshua 4|Plain text]] · [[Joshua 4 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 4|📜 Scripture only]] · [[Joshua 4 (Annotated)|🔍 Annotated]] · [[Joshua 4 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 4]]
 
-## Scripture Graph
+[[Joshua 3 - My Notes|◀ Joshua 3]] · [[Joshua 5 - My Notes|Joshua 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

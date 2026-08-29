@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 19 — My Study
 
-[[Leviticus 19 (Annotated)|Annotated view]] · [[Leviticus 19|Plain text]] · [[Leviticus 19 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 19|📜 Scripture only]] · [[Leviticus 19 (Annotated)|🔍 Annotated]] · [[Leviticus 19 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 19]]
 
-## Scripture Graph
+[[Leviticus 18 - My Notes|◀ Leviticus 18]] · [[Leviticus 20 - My Notes|Leviticus 20 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

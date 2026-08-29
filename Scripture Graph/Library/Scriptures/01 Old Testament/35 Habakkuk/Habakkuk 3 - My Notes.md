@@ -12,14 +12,15 @@ cssclasses:
 
 # Habakkuk 3 — My Study
 
-[[Habakkuk 3 (Annotated)|Annotated view]] · [[Habakkuk 3|Plain text]] · [[Habakkuk 3 - Study Guide|Study guide]] · [[Habakkuk]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Habakkuk 3|📜 Scripture only]] · [[Habakkuk 3 (Annotated)|🔍 Annotated]] · [[Habakkuk 3 - Study Guide|📖 Study guide]] · [[Habakkuk|📚 Habakkuk]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Habakkuk 3]]
 
-## Scripture Graph
+[[Habakkuk 2 - My Notes|◀ Habakkuk 2]] · [[Habakkuk|Habakkuk ▶]]
+
+## 📖 Study Guide
 
 ![[Habakkuk 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

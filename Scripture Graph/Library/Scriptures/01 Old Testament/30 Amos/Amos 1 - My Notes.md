@@ -12,14 +12,15 @@ cssclasses:
 
 # Amos 1 — My Study
 
-[[Amos 1 (Annotated)|Annotated view]] · [[Amos 1|Plain text]] · [[Amos 1 - Study Guide|Study guide]] · [[Amos]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Amos 1|📜 Scripture only]] · [[Amos 1 (Annotated)|🔍 Annotated]] · [[Amos 1 - Study Guide|📖 Study guide]] · [[Amos|📚 Amos]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Amos 1]]
 
-## Scripture Graph
+[[Amos|◀ Amos]] · [[Amos 2 - My Notes|Amos 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Amos 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # John 7 — My Study
 
-[[John 7 (Annotated)|Annotated view]] · [[John 7|Plain text]] · [[John 7 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[John 7|📜 Scripture only]] · [[John 7 (Annotated)|🔍 Annotated]] · [[John 7 - Study Guide|📖 Study guide]] · [[John|📚 John]] · [[Study Hub|🏠 Study Hub]]
 
 ![[John 7]]
 
-## Scripture Graph
+[[John 6 - My Notes|◀ John 6]] · [[John 8 - My Notes|John 8 ▶]]
+
+## 📖 Study Guide
 
 ![[John 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

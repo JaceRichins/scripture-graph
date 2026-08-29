@@ -12,14 +12,15 @@ cssclasses:
 
 # Moses 6 — My Study
 
-[[Moses 6 (Annotated)|Annotated view]] · [[Moses 6|Plain text]] · [[Moses 6 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Moses 6|📜 Scripture only]] · [[Moses 6 (Annotated)|🔍 Annotated]] · [[Moses 6 - Study Guide|📖 Study guide]] · [[Moses|📚 Moses]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Moses 6]]
 
-## Scripture Graph
+[[Moses 5 - My Notes|◀ Moses 5]] · [[Moses 7 - My Notes|Moses 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Moses 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

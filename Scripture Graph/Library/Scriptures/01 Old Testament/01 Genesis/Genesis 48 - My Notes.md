@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 48 — My Study
 
-[[Genesis 48 (Annotated)|Annotated view]] · [[Genesis 48|Plain text]] · [[Genesis 48 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 48|📜 Scripture only]] · [[Genesis 48 (Annotated)|🔍 Annotated]] · [[Genesis 48 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 48]]
 
-## Scripture Graph
+[[Genesis 47 - My Notes|◀ Genesis 47]] · [[Genesis 49 - My Notes|Genesis 49 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 48 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

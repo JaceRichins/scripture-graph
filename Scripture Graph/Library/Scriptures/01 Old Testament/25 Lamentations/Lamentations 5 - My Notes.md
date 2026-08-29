@@ -12,14 +12,15 @@ cssclasses:
 
 # Lamentations 5 — My Study
 
-[[Lamentations 5 (Annotated)|Annotated view]] · [[Lamentations 5|Plain text]] · [[Lamentations 5 - Study Guide|Study guide]] · [[Lamentations]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Lamentations 5|📜 Scripture only]] · [[Lamentations 5 (Annotated)|🔍 Annotated]] · [[Lamentations 5 - Study Guide|📖 Study guide]] · [[Lamentations|📚 Lamentations]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Lamentations 5]]
 
-## Scripture Graph
+[[Lamentations 4 - My Notes|◀ Lamentations 4]] · [[Lamentations|Lamentations ▶]]
+
+## 📖 Study Guide
 
 ![[Lamentations 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

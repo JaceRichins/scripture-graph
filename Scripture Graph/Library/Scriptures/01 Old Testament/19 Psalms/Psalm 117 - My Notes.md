@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 117 — My Study
 
-[[Psalm 117 (Annotated)|Annotated view]] · [[Psalm 117|Plain text]] · [[Psalm 117 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 117|📜 Scripture only]] · [[Psalm 117 (Annotated)|🔍 Annotated]] · [[Psalm 117 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 117]]
 
-## Scripture Graph
+[[Psalm 116 - My Notes|◀ Psalm 116]] · [[Psalm 118 - My Notes|Psalm 118 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 117 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

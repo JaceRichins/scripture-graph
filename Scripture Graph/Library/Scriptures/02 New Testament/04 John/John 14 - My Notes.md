@@ -12,14 +12,15 @@ cssclasses:
 
 # John 14 — My Study
 
-[[John 14 (Annotated)|Annotated view]] · [[John 14|Plain text]] · [[John 14 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[John 14|📜 Scripture only]] · [[John 14 (Annotated)|🔍 Annotated]] · [[John 14 - Study Guide|📖 Study guide]] · [[John|📚 John]] · [[Study Hub|🏠 Study Hub]]
 
 ![[John 14]]
 
-## Scripture Graph
+[[John 13 - My Notes|◀ John 13]] · [[John 15 - My Notes|John 15 ▶]]
+
+## 📖 Study Guide
 
 ![[John 14 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

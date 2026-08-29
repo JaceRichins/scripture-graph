@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 2 — My Study
 
-[[Joshua 2 (Annotated)|Annotated view]] · [[Joshua 2|Plain text]] · [[Joshua 2 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 2|📜 Scripture only]] · [[Joshua 2 (Annotated)|🔍 Annotated]] · [[Joshua 2 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 2]]
 
-## Scripture Graph
+[[Joshua 1 - My Notes|◀ Joshua 1]] · [[Joshua 3 - My Notes|Joshua 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

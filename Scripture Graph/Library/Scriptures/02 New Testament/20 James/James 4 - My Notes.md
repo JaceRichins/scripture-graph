@@ -12,14 +12,15 @@ cssclasses:
 
 # James 4 — My Study
 
-[[James 4 (Annotated)|Annotated view]] · [[James 4|Plain text]] · [[James 4 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[James 4|📜 Scripture only]] · [[James 4 (Annotated)|🔍 Annotated]] · [[James 4 - Study Guide|📖 Study guide]] · [[James|📚 James]] · [[Study Hub|🏠 Study Hub]]
 
 ![[James 4]]
 
-## Scripture Graph
+[[James 3 - My Notes|◀ James 3]] · [[James 5 - My Notes|James 5 ▶]]
+
+## 📖 Study Guide
 
 ![[James 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

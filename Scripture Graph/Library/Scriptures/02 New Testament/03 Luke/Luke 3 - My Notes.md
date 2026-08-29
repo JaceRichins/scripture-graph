@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 3 — My Study
 
-[[Luke 3 (Annotated)|Annotated view]] · [[Luke 3|Plain text]] · [[Luke 3 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 3|📜 Scripture only]] · [[Luke 3 (Annotated)|🔍 Annotated]] · [[Luke 3 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 3]]
 
-## Scripture Graph
+[[Luke 2 - My Notes|◀ Luke 2]] · [[Luke 4 - My Notes|Luke 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

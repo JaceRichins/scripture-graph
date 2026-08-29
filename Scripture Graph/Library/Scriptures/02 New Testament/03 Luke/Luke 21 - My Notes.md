@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 21 — My Study
 
-[[Luke 21 (Annotated)|Annotated view]] · [[Luke 21|Plain text]] · [[Luke 21 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 21|📜 Scripture only]] · [[Luke 21 (Annotated)|🔍 Annotated]] · [[Luke 21 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 21]]
 
-## Scripture Graph
+[[Luke 20 - My Notes|◀ Luke 20]] · [[Luke 22 - My Notes|Luke 22 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 21 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

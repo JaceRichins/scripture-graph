@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 17 — My Study
 
-[[Jeremiah 17 (Annotated)|Annotated view]] · [[Jeremiah 17|Plain text]] · [[Jeremiah 17 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 17|📜 Scripture only]] · [[Jeremiah 17 (Annotated)|🔍 Annotated]] · [[Jeremiah 17 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 17]]
 
-## Scripture Graph
+[[Jeremiah 16 - My Notes|◀ Jeremiah 16]] · [[Jeremiah 18 - My Notes|Jeremiah 18 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 17 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

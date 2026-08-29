@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Kings 18 — My Study
 
-[[1 Kings 18 (Annotated)|Annotated view]] · [[1 Kings 18|Plain text]] · [[1 Kings 18 - Study Guide|Study guide]] · [[1 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Kings 18|📜 Scripture only]] · [[1 Kings 18 (Annotated)|🔍 Annotated]] · [[1 Kings 18 - Study Guide|📖 Study guide]] · [[1 Kings|📚 1 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Kings 18]]
 
-## Scripture Graph
+[[1 Kings 17 - My Notes|◀ 1 Kings 17]] · [[1 Kings 19 - My Notes|1 Kings 19 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Kings 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

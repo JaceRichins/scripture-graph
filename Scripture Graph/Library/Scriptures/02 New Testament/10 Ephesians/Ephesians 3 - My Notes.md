@@ -12,14 +12,15 @@ cssclasses:
 
 # Ephesians 3 — My Study
 
-[[Ephesians 3 (Annotated)|Annotated view]] · [[Ephesians 3|Plain text]] · [[Ephesians 3 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ephesians 3|📜 Scripture only]] · [[Ephesians 3 (Annotated)|🔍 Annotated]] · [[Ephesians 3 - Study Guide|📖 Study guide]] · [[Ephesians|📚 Ephesians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ephesians 3]]
 
-## Scripture Graph
+[[Ephesians 2 - My Notes|◀ Ephesians 2]] · [[Ephesians 4 - My Notes|Ephesians 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Ephesians 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

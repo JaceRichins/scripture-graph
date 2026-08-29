@@ -12,14 +12,15 @@ cssclasses:
 
 # Song of Solomon 8 — My Study
 
-[[Song of Solomon 8 (Annotated)|Annotated view]] · [[Song of Solomon 8|Plain text]] · [[Song of Solomon 8 - Study Guide|Study guide]] · [[Song of Solomon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Song of Solomon 8|📜 Scripture only]] · [[Song of Solomon 8 (Annotated)|🔍 Annotated]] · [[Song of Solomon 8 - Study Guide|📖 Study guide]] · [[Song of Solomon|📚 Song of Solomon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Song of Solomon 8]]
 
-## Scripture Graph
+[[Song of Solomon 7 - My Notes|◀ Song of Solomon 7]] · [[Song of Solomon|Song of Solomon ▶]]
+
+## 📖 Study Guide
 
 ![[Song of Solomon 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Abraham 5 — My Study
 
-[[Abraham 5 (Annotated)|Annotated view]] · [[Abraham 5|Plain text]] · [[Abraham 5 - Study Guide|Study guide]] · [[Abraham]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Abraham 5|📜 Scripture only]] · [[Abraham 5 (Annotated)|🔍 Annotated]] · [[Abraham 5 - Study Guide|📖 Study guide]] · [[Abraham|📚 Abraham]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Abraham 5]]
 
-## Scripture Graph
+[[Abraham 4 - My Notes|◀ Abraham 4]] · [[Abraham|Abraham ▶]]
+
+## 📖 Study Guide
 
 ![[Abraham 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

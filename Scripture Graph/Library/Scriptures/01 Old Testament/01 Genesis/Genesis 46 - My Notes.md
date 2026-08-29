@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 46 — My Study
 
-[[Genesis 46 (Annotated)|Annotated view]] · [[Genesis 46|Plain text]] · [[Genesis 46 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 46|📜 Scripture only]] · [[Genesis 46 (Annotated)|🔍 Annotated]] · [[Genesis 46 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 46]]
 
-## Scripture Graph
+[[Genesis 45 - My Notes|◀ Genesis 45]] · [[Genesis 47 - My Notes|Genesis 47 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 46 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

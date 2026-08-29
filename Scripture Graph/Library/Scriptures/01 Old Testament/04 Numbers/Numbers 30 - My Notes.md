@@ -12,14 +12,15 @@ cssclasses:
 
 # Numbers 30 — My Study
 
-[[Numbers 30 (Annotated)|Annotated view]] · [[Numbers 30|Plain text]] · [[Numbers 30 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Numbers 30|📜 Scripture only]] · [[Numbers 30 (Annotated)|🔍 Annotated]] · [[Numbers 30 - Study Guide|📖 Study guide]] · [[Numbers|📚 Numbers]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Numbers 30]]
 
-## Scripture Graph
+[[Numbers 29 - My Notes|◀ Numbers 29]] · [[Numbers 31 - My Notes|Numbers 31 ▶]]
+
+## 📖 Study Guide
 
 ![[Numbers 30 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 20 — My Study
 
-[[Job 20 (Annotated)|Annotated view]] · [[Job 20|Plain text]] · [[Job 20 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 20|📜 Scripture only]] · [[Job 20 (Annotated)|🔍 Annotated]] · [[Job 20 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 20]]
 
-## Scripture Graph
+[[Job 19 - My Notes|◀ Job 19]] · [[Job 21 - My Notes|Job 21 ▶]]
+
+## 📖 Study Guide
 
 ![[Job 20 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

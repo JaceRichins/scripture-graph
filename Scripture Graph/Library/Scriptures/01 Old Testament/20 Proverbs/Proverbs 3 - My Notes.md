@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 3 — My Study
 
-[[Proverbs 3 (Annotated)|Annotated view]] · [[Proverbs 3|Plain text]] · [[Proverbs 3 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 3|📜 Scripture only]] · [[Proverbs 3 (Annotated)|🔍 Annotated]] · [[Proverbs 3 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 3]]
 
-## Scripture Graph
+[[Proverbs 2 - My Notes|◀ Proverbs 2]] · [[Proverbs 4 - My Notes|Proverbs 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

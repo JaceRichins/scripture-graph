@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 23 — My Study
 
-[[Luke 23 (Annotated)|Annotated view]] · [[Luke 23|Plain text]] · [[Luke 23 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 23|📜 Scripture only]] · [[Luke 23 (Annotated)|🔍 Annotated]] · [[Luke 23 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 23]]
 
-## Scripture Graph
+[[Luke 22 - My Notes|◀ Luke 22]] · [[Luke 24 - My Notes|Luke 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

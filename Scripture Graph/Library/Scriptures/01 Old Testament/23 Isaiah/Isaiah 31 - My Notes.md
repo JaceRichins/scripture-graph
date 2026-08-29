@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 31 — My Study
 
-[[Isaiah 31 (Annotated)|Annotated view]] · [[Isaiah 31|Plain text]] · [[Isaiah 31 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 31|📜 Scripture only]] · [[Isaiah 31 (Annotated)|🔍 Annotated]] · [[Isaiah 31 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 31]]
 
-## Scripture Graph
+[[Isaiah 30 - My Notes|◀ Isaiah 30]] · [[Isaiah 32 - My Notes|Isaiah 32 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 31 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

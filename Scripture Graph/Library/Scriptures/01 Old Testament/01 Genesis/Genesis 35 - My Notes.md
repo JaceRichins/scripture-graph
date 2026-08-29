@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 35 — My Study
 
-[[Genesis 35 (Annotated)|Annotated view]] · [[Genesis 35|Plain text]] · [[Genesis 35 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 35|📜 Scripture only]] · [[Genesis 35 (Annotated)|🔍 Annotated]] · [[Genesis 35 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 35]]
 
-## Scripture Graph
+[[Genesis 34 - My Notes|◀ Genesis 34]] · [[Genesis 36 - My Notes|Genesis 36 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 35 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

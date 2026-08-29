@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 14 — My Study
 
-[[Proverbs 14 (Annotated)|Annotated view]] · [[Proverbs 14|Plain text]] · [[Proverbs 14 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 14|📜 Scripture only]] · [[Proverbs 14 (Annotated)|🔍 Annotated]] · [[Proverbs 14 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 14]]
 
-## Scripture Graph
+[[Proverbs 13 - My Notes|◀ Proverbs 13]] · [[Proverbs 15 - My Notes|Proverbs 15 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 14 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

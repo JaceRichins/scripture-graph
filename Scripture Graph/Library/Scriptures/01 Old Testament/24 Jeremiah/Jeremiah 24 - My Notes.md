@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 24 — My Study
 
-[[Jeremiah 24 (Annotated)|Annotated view]] · [[Jeremiah 24|Plain text]] · [[Jeremiah 24 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 24|📜 Scripture only]] · [[Jeremiah 24 (Annotated)|🔍 Annotated]] · [[Jeremiah 24 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 24]]
 
-## Scripture Graph
+[[Jeremiah 23 - My Notes|◀ Jeremiah 23]] · [[Jeremiah 25 - My Notes|Jeremiah 25 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 24 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Mosiah 21 — My Study
 
-[[Mosiah 21 (Annotated)|Annotated view]] · [[Mosiah 21|Plain text]] · [[Mosiah 21 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mosiah 21|📜 Scripture only]] · [[Mosiah 21 (Annotated)|🔍 Annotated]] · [[Mosiah 21 - Study Guide|📖 Study guide]] · [[Mosiah|📚 Mosiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mosiah 21]]
 
-## Scripture Graph
+[[Mosiah 20 - My Notes|◀ Mosiah 20]] · [[Mosiah 22 - My Notes|Mosiah 22 ▶]]
+
+## 📖 Study Guide
 
 ![[Mosiah 21 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

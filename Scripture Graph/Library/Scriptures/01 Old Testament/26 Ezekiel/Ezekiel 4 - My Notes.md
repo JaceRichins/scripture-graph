@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 4 — My Study
 
-[[Ezekiel 4 (Annotated)|Annotated view]] · [[Ezekiel 4|Plain text]] · [[Ezekiel 4 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 4|📜 Scripture only]] · [[Ezekiel 4 (Annotated)|🔍 Annotated]] · [[Ezekiel 4 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 4]]
 
-## Scripture Graph
+[[Ezekiel 3 - My Notes|◀ Ezekiel 3]] · [[Ezekiel 5 - My Notes|Ezekiel 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 18 — My Study
 
-[[Job 18 (Annotated)|Annotated view]] · [[Job 18|Plain text]] · [[Job 18 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 18|📜 Scripture only]] · [[Job 18 (Annotated)|🔍 Annotated]] · [[Job 18 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 18]]
 
-## Scripture Graph
+[[Job 17 - My Notes|◀ Job 17]] · [[Job 19 - My Notes|Job 19 ▶]]
+
+## 📖 Study Guide
 
 ![[Job 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Philippians 4 — My Study
 
-[[Philippians 4 (Annotated)|Annotated view]] · [[Philippians 4|Plain text]] · [[Philippians 4 - Study Guide|Study guide]] · [[Philippians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Philippians 4|📜 Scripture only]] · [[Philippians 4 (Annotated)|🔍 Annotated]] · [[Philippians 4 - Study Guide|📖 Study guide]] · [[Philippians|📚 Philippians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Philippians 4]]
 
-## Scripture Graph
+[[Philippians 3 - My Notes|◀ Philippians 3]] · [[Philippians|Philippians ▶]]
+
+## 📖 Study Guide
 
 ![[Philippians 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

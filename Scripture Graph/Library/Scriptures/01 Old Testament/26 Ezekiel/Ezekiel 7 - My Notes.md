@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 7 — My Study
 
-[[Ezekiel 7 (Annotated)|Annotated view]] · [[Ezekiel 7|Plain text]] · [[Ezekiel 7 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 7|📜 Scripture only]] · [[Ezekiel 7 (Annotated)|🔍 Annotated]] · [[Ezekiel 7 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 7]]
 
-## Scripture Graph
+[[Ezekiel 6 - My Notes|◀ Ezekiel 6]] · [[Ezekiel 8 - My Notes|Ezekiel 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

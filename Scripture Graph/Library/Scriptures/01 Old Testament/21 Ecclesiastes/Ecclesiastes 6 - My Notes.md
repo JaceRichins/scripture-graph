@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 6 — My Study
 
-[[Ecclesiastes 6 (Annotated)|Annotated view]] · [[Ecclesiastes 6|Plain text]] · [[Ecclesiastes 6 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 6|📜 Scripture only]] · [[Ecclesiastes 6 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 6 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 6]]
 
-## Scripture Graph
+[[Ecclesiastes 5 - My Notes|◀ Ecclesiastes 5]] · [[Ecclesiastes 7 - My Notes|Ecclesiastes 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

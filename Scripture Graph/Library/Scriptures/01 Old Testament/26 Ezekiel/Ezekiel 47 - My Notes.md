@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 47 — My Study
 
-[[Ezekiel 47 (Annotated)|Annotated view]] · [[Ezekiel 47|Plain text]] · [[Ezekiel 47 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 47|📜 Scripture only]] · [[Ezekiel 47 (Annotated)|🔍 Annotated]] · [[Ezekiel 47 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 47]]
 
-## Scripture Graph
+[[Ezekiel 46 - My Notes|◀ Ezekiel 46]] · [[Ezekiel 48 - My Notes|Ezekiel 48 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 47 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

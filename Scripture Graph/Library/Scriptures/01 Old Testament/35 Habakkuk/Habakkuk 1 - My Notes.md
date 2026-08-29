@@ -12,14 +12,15 @@ cssclasses:
 
 # Habakkuk 1 — My Study
 
-[[Habakkuk 1 (Annotated)|Annotated view]] · [[Habakkuk 1|Plain text]] · [[Habakkuk 1 - Study Guide|Study guide]] · [[Habakkuk]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Habakkuk 1|📜 Scripture only]] · [[Habakkuk 1 (Annotated)|🔍 Annotated]] · [[Habakkuk 1 - Study Guide|📖 Study guide]] · [[Habakkuk|📚 Habakkuk]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Habakkuk 1]]
 
-## Scripture Graph
+[[Habakkuk|◀ Habakkuk]] · [[Habakkuk 2 - My Notes|Habakkuk 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Habakkuk 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

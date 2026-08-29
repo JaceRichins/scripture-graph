@@ -12,14 +12,15 @@ cssclasses:
 
 # Mormon 5 — My Study
 
-[[Mormon 5 (Annotated)|Annotated view]] · [[Mormon 5|Plain text]] · [[Mormon 5 - Study Guide|Study guide]] · [[Mormon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mormon 5|📜 Scripture only]] · [[Mormon 5 (Annotated)|🔍 Annotated]] · [[Mormon 5 - Study Guide|📖 Study guide]] · [[Mormon|📚 Mormon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mormon 5]]
 
-## Scripture Graph
+[[Mormon 4 - My Notes|◀ Mormon 4]] · [[Mormon 6 - My Notes|Mormon 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Mormon 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

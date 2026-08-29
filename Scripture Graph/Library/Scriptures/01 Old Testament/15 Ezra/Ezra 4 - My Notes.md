@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezra 4 — My Study
 
-[[Ezra 4 (Annotated)|Annotated view]] · [[Ezra 4|Plain text]] · [[Ezra 4 - Study Guide|Study guide]] · [[Ezra]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezra 4|📜 Scripture only]] · [[Ezra 4 (Annotated)|🔍 Annotated]] · [[Ezra 4 - Study Guide|📖 Study guide]] · [[Ezra|📚 Ezra]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezra 4]]
 
-## Scripture Graph
+[[Ezra 3 - My Notes|◀ Ezra 3]] · [[Ezra 5 - My Notes|Ezra 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezra 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

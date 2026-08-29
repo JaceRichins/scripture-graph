@@ -12,14 +12,15 @@ cssclasses:
 
 # Joseph Smith—History 1 — My Study
 
-[[Joseph Smith—History 1 (Annotated)|Annotated view]] · [[Joseph Smith—History 1|Plain text]] · [[Joseph Smith—History 1 - Study Guide|Study guide]] · [[Joseph Smith—History]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joseph Smith—History 1|📜 Scripture only]] · [[Joseph Smith—History 1 (Annotated)|🔍 Annotated]] · [[Joseph Smith—History 1 - Study Guide|📖 Study guide]] · [[Joseph Smith—History|📚 Joseph Smith—History]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joseph Smith—History 1]]
 
-## Scripture Graph
+[[Joseph Smith—History|◀ Joseph Smith—History]] · [[Joseph Smith—History|Joseph Smith—History ▶]]
+
+## 📖 Study Guide
 
 ![[Joseph Smith—History 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

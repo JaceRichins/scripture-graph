@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 146 — My Study
 
-[[Psalm 146 (Annotated)|Annotated view]] · [[Psalm 146|Plain text]] · [[Psalm 146 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 146|📜 Scripture only]] · [[Psalm 146 (Annotated)|🔍 Annotated]] · [[Psalm 146 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 146]]
 
-## Scripture Graph
+[[Psalm 145 - My Notes|◀ Psalm 145]] · [[Psalm 147 - My Notes|Psalm 147 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 146 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

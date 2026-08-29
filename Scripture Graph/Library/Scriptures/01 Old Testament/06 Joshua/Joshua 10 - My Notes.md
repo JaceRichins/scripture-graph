@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 10 — My Study
 
-[[Joshua 10 (Annotated)|Annotated view]] · [[Joshua 10|Plain text]] · [[Joshua 10 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 10|📜 Scripture only]] · [[Joshua 10 (Annotated)|🔍 Annotated]] · [[Joshua 10 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 10]]
 
-## Scripture Graph
+[[Joshua 9 - My Notes|◀ Joshua 9]] · [[Joshua 11 - My Notes|Joshua 11 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

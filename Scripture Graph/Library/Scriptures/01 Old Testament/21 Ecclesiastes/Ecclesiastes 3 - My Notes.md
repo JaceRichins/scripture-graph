@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 3 — My Study
 
-[[Ecclesiastes 3 (Annotated)|Annotated view]] · [[Ecclesiastes 3|Plain text]] · [[Ecclesiastes 3 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 3|📜 Scripture only]] · [[Ecclesiastes 3 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 3 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 3]]
 
-## Scripture Graph
+[[Ecclesiastes 2 - My Notes|◀ Ecclesiastes 2]] · [[Ecclesiastes 4 - My Notes|Ecclesiastes 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

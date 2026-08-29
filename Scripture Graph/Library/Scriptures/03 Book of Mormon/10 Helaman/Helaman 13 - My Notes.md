@@ -12,14 +12,15 @@ cssclasses:
 
 # Helaman 13 — My Study
 
-[[Helaman 13 (Annotated)|Annotated view]] · [[Helaman 13|Plain text]] · [[Helaman 13 - Study Guide|Study guide]] · [[Helaman]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Helaman 13|📜 Scripture only]] · [[Helaman 13 (Annotated)|🔍 Annotated]] · [[Helaman 13 - Study Guide|📖 Study guide]] · [[Helaman|📚 Helaman]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Helaman 13]]
 
-## Scripture Graph
+[[Helaman 12 - My Notes|◀ Helaman 12]] · [[Helaman 14 - My Notes|Helaman 14 ▶]]
+
+## 📖 Study Guide
 
 ![[Helaman 13 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

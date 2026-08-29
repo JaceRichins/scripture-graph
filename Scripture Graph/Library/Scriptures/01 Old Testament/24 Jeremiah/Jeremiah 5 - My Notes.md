@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 5 — My Study
 
-[[Jeremiah 5 (Annotated)|Annotated view]] · [[Jeremiah 5|Plain text]] · [[Jeremiah 5 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 5|📜 Scripture only]] · [[Jeremiah 5 (Annotated)|🔍 Annotated]] · [[Jeremiah 5 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 5]]
 
-## Scripture Graph
+[[Jeremiah 4 - My Notes|◀ Jeremiah 4]] · [[Jeremiah 6 - My Notes|Jeremiah 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

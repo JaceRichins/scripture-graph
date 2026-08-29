@@ -12,14 +12,15 @@ cssclasses:
 
 # Daniel 7 — My Study
 
-[[Daniel 7 (Annotated)|Annotated view]] · [[Daniel 7|Plain text]] · [[Daniel 7 - Study Guide|Study guide]] · [[Daniel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Daniel 7|📜 Scripture only]] · [[Daniel 7 (Annotated)|🔍 Annotated]] · [[Daniel 7 - Study Guide|📖 Study guide]] · [[Daniel|📚 Daniel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Daniel 7]]
 
-## Scripture Graph
+[[Daniel 6 - My Notes|◀ Daniel 6]] · [[Daniel 8 - My Notes|Daniel 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Daniel 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

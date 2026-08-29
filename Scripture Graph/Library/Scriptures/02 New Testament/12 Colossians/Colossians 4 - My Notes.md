@@ -12,14 +12,15 @@ cssclasses:
 
 # Colossians 4 — My Study
 
-[[Colossians 4 (Annotated)|Annotated view]] · [[Colossians 4|Plain text]] · [[Colossians 4 - Study Guide|Study guide]] · [[Colossians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Colossians 4|📜 Scripture only]] · [[Colossians 4 (Annotated)|🔍 Annotated]] · [[Colossians 4 - Study Guide|📖 Study guide]] · [[Colossians|📚 Colossians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Colossians 4]]
 
-## Scripture Graph
+[[Colossians 3 - My Notes|◀ Colossians 3]] · [[Colossians|Colossians ▶]]
+
+## 📖 Study Guide
 
 ![[Colossians 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

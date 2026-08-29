@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 76 — My Study
 
-[[Psalm 76 (Annotated)|Annotated view]] · [[Psalm 76|Plain text]] · [[Psalm 76 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 76|📜 Scripture only]] · [[Psalm 76 (Annotated)|🔍 Annotated]] · [[Psalm 76 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 76]]
 
-## Scripture Graph
+[[Psalm 75 - My Notes|◀ Psalm 75]] · [[Psalm 77 - My Notes|Psalm 77 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 76 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

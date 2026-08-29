@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Chronicles 4 — My Study
 
-[[2 Chronicles 4 (Annotated)|Annotated view]] · [[2 Chronicles 4|Plain text]] · [[2 Chronicles 4 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Chronicles 4|📜 Scripture only]] · [[2 Chronicles 4 (Annotated)|🔍 Annotated]] · [[2 Chronicles 4 - Study Guide|📖 Study guide]] · [[2 Chronicles|📚 2 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Chronicles 4]]
 
-## Scripture Graph
+[[2 Chronicles 3 - My Notes|◀ 2 Chronicles 3]] · [[2 Chronicles 5 - My Notes|2 Chronicles 5 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Chronicles 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

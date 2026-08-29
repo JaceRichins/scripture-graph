@@ -12,14 +12,15 @@ cssclasses:
 
 # Nehemiah 7 — My Study
 
-[[Nehemiah 7 (Annotated)|Annotated view]] · [[Nehemiah 7|Plain text]] · [[Nehemiah 7 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nehemiah 7|📜 Scripture only]] · [[Nehemiah 7 (Annotated)|🔍 Annotated]] · [[Nehemiah 7 - Study Guide|📖 Study guide]] · [[Nehemiah|📚 Nehemiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nehemiah 7]]
 
-## Scripture Graph
+[[Nehemiah 6 - My Notes|◀ Nehemiah 6]] · [[Nehemiah 8 - My Notes|Nehemiah 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Nehemiah 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

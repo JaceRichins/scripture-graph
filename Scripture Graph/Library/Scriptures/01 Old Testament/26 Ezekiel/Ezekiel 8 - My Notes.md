@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 8 — My Study
 
-[[Ezekiel 8 (Annotated)|Annotated view]] · [[Ezekiel 8|Plain text]] · [[Ezekiel 8 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 8|📜 Scripture only]] · [[Ezekiel 8 (Annotated)|🔍 Annotated]] · [[Ezekiel 8 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 8]]
 
-## Scripture Graph
+[[Ezekiel 7 - My Notes|◀ Ezekiel 7]] · [[Ezekiel 9 - My Notes|Ezekiel 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Moroni 10 — My Study
 
-[[Moroni 10 (Annotated)|Annotated view]] · [[Moroni 10|Plain text]] · [[Moroni 10 - Study Guide|Study guide]] · [[Moroni]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Moroni 10|📜 Scripture only]] · [[Moroni 10 (Annotated)|🔍 Annotated]] · [[Moroni 10 - Study Guide|📖 Study guide]] · [[Moroni|📚 Moroni]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Moroni 10]]
 
-## Scripture Graph
+[[Moroni 9 - My Notes|◀ Moroni 9]] · [[Moroni|Moroni ▶]]
+
+## 📖 Study Guide
 
 ![[Moroni 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

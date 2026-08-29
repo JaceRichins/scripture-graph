@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Chronicles 25 — My Study
 
-[[1 Chronicles 25 (Annotated)|Annotated view]] · [[1 Chronicles 25|Plain text]] · [[1 Chronicles 25 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Chronicles 25|📜 Scripture only]] · [[1 Chronicles 25 (Annotated)|🔍 Annotated]] · [[1 Chronicles 25 - Study Guide|📖 Study guide]] · [[1 Chronicles|📚 1 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Chronicles 25]]
 
-## Scripture Graph
+[[1 Chronicles 24 - My Notes|◀ 1 Chronicles 24]] · [[1 Chronicles 26 - My Notes|1 Chronicles 26 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Chronicles 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

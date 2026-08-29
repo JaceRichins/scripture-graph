@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 73 — My Study
 
-[[Psalm 73 (Annotated)|Annotated view]] · [[Psalm 73|Plain text]] · [[Psalm 73 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 73|📜 Scripture only]] · [[Psalm 73 (Annotated)|🔍 Annotated]] · [[Psalm 73 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 73]]
 
-## Scripture Graph
+[[Psalm 72 - My Notes|◀ Psalm 72]] · [[Psalm 74 - My Notes|Psalm 74 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 73 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

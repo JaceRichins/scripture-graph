@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Samuel 30 — My Study
 
-[[1 Samuel 30 (Annotated)|Annotated view]] · [[1 Samuel 30|Plain text]] · [[1 Samuel 30 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Samuel 30|📜 Scripture only]] · [[1 Samuel 30 (Annotated)|🔍 Annotated]] · [[1 Samuel 30 - Study Guide|📖 Study guide]] · [[1 Samuel|📚 1 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Samuel 30]]
 
-## Scripture Graph
+[[1 Samuel 29 - My Notes|◀ 1 Samuel 29]] · [[1 Samuel 31 - My Notes|1 Samuel 31 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Samuel 30 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

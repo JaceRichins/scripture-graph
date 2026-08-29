@@ -12,14 +12,15 @@ cssclasses:
 
 # Song of Solomon 5 — My Study
 
-[[Song of Solomon 5 (Annotated)|Annotated view]] · [[Song of Solomon 5|Plain text]] · [[Song of Solomon 5 - Study Guide|Study guide]] · [[Song of Solomon]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Song of Solomon 5|📜 Scripture only]] · [[Song of Solomon 5 (Annotated)|🔍 Annotated]] · [[Song of Solomon 5 - Study Guide|📖 Study guide]] · [[Song of Solomon|📚 Song of Solomon]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Song of Solomon 5]]
 
-## Scripture Graph
+[[Song of Solomon 4 - My Notes|◀ Song of Solomon 4]] · [[Song of Solomon 6 - My Notes|Song of Solomon 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Song of Solomon 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

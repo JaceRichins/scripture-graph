@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 48 — My Study
 
-[[Psalm 48 (Annotated)|Annotated view]] · [[Psalm 48|Plain text]] · [[Psalm 48 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 48|📜 Scripture only]] · [[Psalm 48 (Annotated)|🔍 Annotated]] · [[Psalm 48 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 48]]
 
-## Scripture Graph
+[[Psalm 47 - My Notes|◀ Psalm 47]] · [[Psalm 49 - My Notes|Psalm 49 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 48 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

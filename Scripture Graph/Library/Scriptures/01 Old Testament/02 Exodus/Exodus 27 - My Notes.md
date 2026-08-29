@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 27 — My Study
 
-[[Exodus 27 (Annotated)|Annotated view]] · [[Exodus 27|Plain text]] · [[Exodus 27 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 27|📜 Scripture only]] · [[Exodus 27 (Annotated)|🔍 Annotated]] · [[Exodus 27 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 27]]
 
-## Scripture Graph
+[[Exodus 26 - My Notes|◀ Exodus 26]] · [[Exodus 28 - My Notes|Exodus 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

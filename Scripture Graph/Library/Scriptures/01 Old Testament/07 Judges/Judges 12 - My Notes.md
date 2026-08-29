@@ -12,14 +12,15 @@ cssclasses:
 
 # Judges 12 — My Study
 
-[[Judges 12 (Annotated)|Annotated view]] · [[Judges 12|Plain text]] · [[Judges 12 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Judges 12|📜 Scripture only]] · [[Judges 12 (Annotated)|🔍 Annotated]] · [[Judges 12 - Study Guide|📖 Study guide]] · [[Judges|📚 Judges]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Judges 12]]
 
-## Scripture Graph
+[[Judges 11 - My Notes|◀ Judges 11]] · [[Judges 13 - My Notes|Judges 13 ▶]]
+
+## 📖 Study Guide
 
 ![[Judges 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 52 — My Study
 
-[[Isaiah 52 (Annotated)|Annotated view]] · [[Isaiah 52|Plain text]] · [[Isaiah 52 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 52|📜 Scripture only]] · [[Isaiah 52 (Annotated)|🔍 Annotated]] · [[Isaiah 52 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 52]]
 
-## Scripture Graph
+[[Isaiah 51 - My Notes|◀ Isaiah 51]] · [[Isaiah 53 - My Notes|Isaiah 53 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 52 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

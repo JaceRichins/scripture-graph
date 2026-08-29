@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Corinthians 9 — My Study
 
-[[1 Corinthians 9 (Annotated)|Annotated view]] · [[1 Corinthians 9|Plain text]] · [[1 Corinthians 9 - Study Guide|Study guide]] · [[1 Corinthians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Corinthians 9|📜 Scripture only]] · [[1 Corinthians 9 (Annotated)|🔍 Annotated]] · [[1 Corinthians 9 - Study Guide|📖 Study guide]] · [[1 Corinthians|📚 1 Corinthians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Corinthians 9]]
 
-## Scripture Graph
+[[1 Corinthians 8 - My Notes|◀ 1 Corinthians 8]] · [[1 Corinthians 10 - My Notes|1 Corinthians 10 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Corinthians 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

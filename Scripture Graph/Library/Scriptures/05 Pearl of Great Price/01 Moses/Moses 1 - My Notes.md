@@ -12,14 +12,15 @@ cssclasses:
 
 # Moses 1 — My Study
 
-[[Moses 1 (Annotated)|Annotated view]] · [[Moses 1|Plain text]] · [[Moses 1 - Study Guide|Study guide]] · [[Moses]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Moses 1|📜 Scripture only]] · [[Moses 1 (Annotated)|🔍 Annotated]] · [[Moses 1 - Study Guide|📖 Study guide]] · [[Moses|📚 Moses]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Moses 1]]
 
-## Scripture Graph
+[[Moses|◀ Moses]] · [[Moses 2 - My Notes|Moses 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Moses 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

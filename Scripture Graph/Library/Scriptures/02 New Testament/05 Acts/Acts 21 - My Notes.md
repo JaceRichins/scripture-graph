@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 21 — My Study
 
-[[Acts 21 (Annotated)|Annotated view]] · [[Acts 21|Plain text]] · [[Acts 21 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 21|📜 Scripture only]] · [[Acts 21 (Annotated)|🔍 Annotated]] · [[Acts 21 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 21]]
 
-## Scripture Graph
+[[Acts 20 - My Notes|◀ Acts 20]] · [[Acts 22 - My Notes|Acts 22 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 21 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

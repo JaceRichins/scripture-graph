@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 149 — My Study
 
-[[Psalm 149 (Annotated)|Annotated view]] · [[Psalm 149|Plain text]] · [[Psalm 149 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 149|📜 Scripture only]] · [[Psalm 149 (Annotated)|🔍 Annotated]] · [[Psalm 149 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 149]]
 
-## Scripture Graph
+[[Psalm 148 - My Notes|◀ Psalm 148]] · [[Psalm 150 - My Notes|Psalm 150 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 149 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 11 — My Study
 
-[[Psalm 11 (Annotated)|Annotated view]] · [[Psalm 11|Plain text]] · [[Psalm 11 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 11|📜 Scripture only]] · [[Psalm 11 (Annotated)|🔍 Annotated]] · [[Psalm 11 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 11]]
 
-## Scripture Graph
+[[Psalm 10 - My Notes|◀ Psalm 10]] · [[Psalm 12 - My Notes|Psalm 12 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 11 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

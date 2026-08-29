@@ -12,14 +12,15 @@ cssclasses:
 
 # Ephesians 1 — My Study
 
-[[Ephesians 1 (Annotated)|Annotated view]] · [[Ephesians 1|Plain text]] · [[Ephesians 1 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ephesians 1|📜 Scripture only]] · [[Ephesians 1 (Annotated)|🔍 Annotated]] · [[Ephesians 1 - Study Guide|📖 Study guide]] · [[Ephesians|📚 Ephesians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ephesians 1]]
 
-## Scripture Graph
+[[Ephesians|◀ Ephesians]] · [[Ephesians 2 - My Notes|Ephesians 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Ephesians 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

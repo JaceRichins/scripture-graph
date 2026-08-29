@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 2 — My Study
 
-[[Ecclesiastes 2 (Annotated)|Annotated view]] · [[Ecclesiastes 2|Plain text]] · [[Ecclesiastes 2 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 2|📜 Scripture only]] · [[Ecclesiastes 2 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 2 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 2]]
 
-## Scripture Graph
+[[Ecclesiastes 1 - My Notes|◀ Ecclesiastes 1]] · [[Ecclesiastes 3 - My Notes|Ecclesiastes 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

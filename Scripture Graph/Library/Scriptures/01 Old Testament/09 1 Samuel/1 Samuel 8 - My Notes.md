@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Samuel 8 — My Study
 
-[[1 Samuel 8 (Annotated)|Annotated view]] · [[1 Samuel 8|Plain text]] · [[1 Samuel 8 - Study Guide|Study guide]] · [[1 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Samuel 8|📜 Scripture only]] · [[1 Samuel 8 (Annotated)|🔍 Annotated]] · [[1 Samuel 8 - Study Guide|📖 Study guide]] · [[1 Samuel|📚 1 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Samuel 8]]
 
-## Scripture Graph
+[[1 Samuel 7 - My Notes|◀ 1 Samuel 7]] · [[1 Samuel 9 - My Notes|1 Samuel 9 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Samuel 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

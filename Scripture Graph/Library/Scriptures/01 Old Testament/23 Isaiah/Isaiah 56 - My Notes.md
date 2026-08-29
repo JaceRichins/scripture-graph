@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 56 — My Study
 
-[[Isaiah 56 (Annotated)|Annotated view]] · [[Isaiah 56|Plain text]] · [[Isaiah 56 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 56|📜 Scripture only]] · [[Isaiah 56 (Annotated)|🔍 Annotated]] · [[Isaiah 56 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 56]]
 
-## Scripture Graph
+[[Isaiah 55 - My Notes|◀ Isaiah 55]] · [[Isaiah 57 - My Notes|Isaiah 57 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 56 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

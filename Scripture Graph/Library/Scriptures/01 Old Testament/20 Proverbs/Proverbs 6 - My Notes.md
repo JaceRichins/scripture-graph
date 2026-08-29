@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 6 — My Study
 
-[[Proverbs 6 (Annotated)|Annotated view]] · [[Proverbs 6|Plain text]] · [[Proverbs 6 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 6|📜 Scripture only]] · [[Proverbs 6 (Annotated)|🔍 Annotated]] · [[Proverbs 6 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 6]]
 
-## Scripture Graph
+[[Proverbs 5 - My Notes|◀ Proverbs 5]] · [[Proverbs 7 - My Notes|Proverbs 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

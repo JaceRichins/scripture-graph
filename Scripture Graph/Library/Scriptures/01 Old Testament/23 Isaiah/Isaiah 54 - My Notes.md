@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 54 — My Study
 
-[[Isaiah 54 (Annotated)|Annotated view]] · [[Isaiah 54|Plain text]] · [[Isaiah 54 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 54|📜 Scripture only]] · [[Isaiah 54 (Annotated)|🔍 Annotated]] · [[Isaiah 54 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 54]]
 
-## Scripture Graph
+[[Isaiah 53 - My Notes|◀ Isaiah 53]] · [[Isaiah 55 - My Notes|Isaiah 55 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 54 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

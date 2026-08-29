@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 23 — My Study
 
-[[Proverbs 23 (Annotated)|Annotated view]] · [[Proverbs 23|Plain text]] · [[Proverbs 23 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 23|📜 Scripture only]] · [[Proverbs 23 (Annotated)|🔍 Annotated]] · [[Proverbs 23 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 23]]
 
-## Scripture Graph
+[[Proverbs 22 - My Notes|◀ Proverbs 22]] · [[Proverbs 24 - My Notes|Proverbs 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Romans 5 — My Study
 
-[[Romans 5 (Annotated)|Annotated view]] · [[Romans 5|Plain text]] · [[Romans 5 - Study Guide|Study guide]] · [[Romans]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Romans 5|📜 Scripture only]] · [[Romans 5 (Annotated)|🔍 Annotated]] · [[Romans 5 - Study Guide|📖 Study guide]] · [[Romans|📚 Romans]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Romans 5]]
 
-## Scripture Graph
+[[Romans 4 - My Notes|◀ Romans 4]] · [[Romans 6 - My Notes|Romans 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Romans 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

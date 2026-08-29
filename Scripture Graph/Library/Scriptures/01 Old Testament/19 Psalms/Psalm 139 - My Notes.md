@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 139 — My Study
 
-[[Psalm 139 (Annotated)|Annotated view]] · [[Psalm 139|Plain text]] · [[Psalm 139 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 139|📜 Scripture only]] · [[Psalm 139 (Annotated)|🔍 Annotated]] · [[Psalm 139 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 139]]
 
-## Scripture Graph
+[[Psalm 138 - My Notes|◀ Psalm 138]] · [[Psalm 140 - My Notes|Psalm 140 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 139 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Judges 1 — My Study
 
-[[Judges 1 (Annotated)|Annotated view]] · [[Judges 1|Plain text]] · [[Judges 1 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Judges 1|📜 Scripture only]] · [[Judges 1 (Annotated)|🔍 Annotated]] · [[Judges 1 - Study Guide|📖 Study guide]] · [[Judges|📚 Judges]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Judges 1]]
 
-## Scripture Graph
+[[Judges|◀ Judges]] · [[Judges 2 - My Notes|Judges 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Judges 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

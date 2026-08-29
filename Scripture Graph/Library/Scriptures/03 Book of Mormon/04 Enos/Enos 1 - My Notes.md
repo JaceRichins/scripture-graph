@@ -12,14 +12,15 @@ cssclasses:
 
 # Enos 1 — My Study
 
-[[Enos 1 (Annotated)|Annotated view]] · [[Enos 1|Plain text]] · [[Enos 1 - Study Guide|Study guide]] · [[Enos]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Enos 1|📜 Scripture only]] · [[Enos 1 (Annotated)|🔍 Annotated]] · [[Enos 1 - Study Guide|📖 Study guide]] · [[Enos|📚 Enos]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Enos 1]]
 
-## Scripture Graph
+[[Enos|◀ Enos]] · [[Enos|Enos ▶]]
+
+## 📖 Study Guide
 
 ![[Enos 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

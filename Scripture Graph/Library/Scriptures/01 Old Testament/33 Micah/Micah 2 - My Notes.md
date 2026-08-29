@@ -12,14 +12,15 @@ cssclasses:
 
 # Micah 2 — My Study
 
-[[Micah 2 (Annotated)|Annotated view]] · [[Micah 2|Plain text]] · [[Micah 2 - Study Guide|Study guide]] · [[Micah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Micah 2|📜 Scripture only]] · [[Micah 2 (Annotated)|🔍 Annotated]] · [[Micah 2 - Study Guide|📖 Study guide]] · [[Micah|📚 Micah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Micah 2]]
 
-## Scripture Graph
+[[Micah 1 - My Notes|◀ Micah 1]] · [[Micah 3 - My Notes|Micah 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Micah 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

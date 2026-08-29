@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 42 — My Study
 
-[[Psalm 42 (Annotated)|Annotated view]] · [[Psalm 42|Plain text]] · [[Psalm 42 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 42|📜 Scripture only]] · [[Psalm 42 (Annotated)|🔍 Annotated]] · [[Psalm 42 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 42]]
 
-## Scripture Graph
+[[Psalm 41 - My Notes|◀ Psalm 41]] · [[Psalm 43 - My Notes|Psalm 43 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 42 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

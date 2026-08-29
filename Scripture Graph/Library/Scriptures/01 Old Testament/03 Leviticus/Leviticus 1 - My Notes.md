@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 1 — My Study
 
-[[Leviticus 1 (Annotated)|Annotated view]] · [[Leviticus 1|Plain text]] · [[Leviticus 1 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 1|📜 Scripture only]] · [[Leviticus 1 (Annotated)|🔍 Annotated]] · [[Leviticus 1 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 1]]
 
-## Scripture Graph
+[[Leviticus|◀ Leviticus]] · [[Leviticus 2 - My Notes|Leviticus 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

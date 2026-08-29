@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 20 — My Study
 
-[[Ezekiel 20 (Annotated)|Annotated view]] · [[Ezekiel 20|Plain text]] · [[Ezekiel 20 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 20|📜 Scripture only]] · [[Ezekiel 20 (Annotated)|🔍 Annotated]] · [[Ezekiel 20 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 20]]
 
-## Scripture Graph
+[[Ezekiel 19 - My Notes|◀ Ezekiel 19]] · [[Ezekiel 21 - My Notes|Ezekiel 21 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 20 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

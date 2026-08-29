@@ -12,14 +12,15 @@ cssclasses:
 
 # Mark 10 — My Study
 
-[[Mark 10 (Annotated)|Annotated view]] · [[Mark 10|Plain text]] · [[Mark 10 - Study Guide|Study guide]] · [[Mark]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mark 10|📜 Scripture only]] · [[Mark 10 (Annotated)|🔍 Annotated]] · [[Mark 10 - Study Guide|📖 Study guide]] · [[Mark|📚 Mark]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mark 10]]
 
-## Scripture Graph
+[[Mark 9 - My Notes|◀ Mark 9]] · [[Mark 11 - My Notes|Mark 11 ▶]]
+
+## 📖 Study Guide
 
 ![[Mark 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

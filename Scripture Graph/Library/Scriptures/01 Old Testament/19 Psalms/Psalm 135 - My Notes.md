@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 135 — My Study
 
-[[Psalm 135 (Annotated)|Annotated view]] · [[Psalm 135|Plain text]] · [[Psalm 135 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 135|📜 Scripture only]] · [[Psalm 135 (Annotated)|🔍 Annotated]] · [[Psalm 135 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 135]]
 
-## Scripture Graph
+[[Psalm 134 - My Notes|◀ Psalm 134]] · [[Psalm 136 - My Notes|Psalm 136 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 135 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 7 — My Study
 
-[[Ecclesiastes 7 (Annotated)|Annotated view]] · [[Ecclesiastes 7|Plain text]] · [[Ecclesiastes 7 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 7|📜 Scripture only]] · [[Ecclesiastes 7 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 7 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 7]]
 
-## Scripture Graph
+[[Ecclesiastes 6 - My Notes|◀ Ecclesiastes 6]] · [[Ecclesiastes 8 - My Notes|Ecclesiastes 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

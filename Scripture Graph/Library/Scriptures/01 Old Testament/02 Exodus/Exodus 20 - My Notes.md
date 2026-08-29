@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 20 — My Study
 
-[[Exodus 20 (Annotated)|Annotated view]] · [[Exodus 20|Plain text]] · [[Exodus 20 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 20|📜 Scripture only]] · [[Exodus 20 (Annotated)|🔍 Annotated]] · [[Exodus 20 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 20]]
 
-## Scripture Graph
+[[Exodus 19 - My Notes|◀ Exodus 19]] · [[Exodus 21 - My Notes|Exodus 21 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 20 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

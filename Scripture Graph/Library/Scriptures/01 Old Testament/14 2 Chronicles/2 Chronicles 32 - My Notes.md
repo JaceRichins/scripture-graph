@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Chronicles 32 — My Study
 
-[[2 Chronicles 32 (Annotated)|Annotated view]] · [[2 Chronicles 32|Plain text]] · [[2 Chronicles 32 - Study Guide|Study guide]] · [[2 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Chronicles 32|📜 Scripture only]] · [[2 Chronicles 32 (Annotated)|🔍 Annotated]] · [[2 Chronicles 32 - Study Guide|📖 Study guide]] · [[2 Chronicles|📚 2 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Chronicles 32]]
 
-## Scripture Graph
+[[2 Chronicles 31 - My Notes|◀ 2 Chronicles 31]] · [[2 Chronicles 33 - My Notes|2 Chronicles 33 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Chronicles 32 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

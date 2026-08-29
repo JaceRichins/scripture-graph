@@ -12,14 +12,15 @@ cssclasses:
 
 # Ephesians 5 — My Study
 
-[[Ephesians 5 (Annotated)|Annotated view]] · [[Ephesians 5|Plain text]] · [[Ephesians 5 - Study Guide|Study guide]] · [[Ephesians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ephesians 5|📜 Scripture only]] · [[Ephesians 5 (Annotated)|🔍 Annotated]] · [[Ephesians 5 - Study Guide|📖 Study guide]] · [[Ephesians|📚 Ephesians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ephesians 5]]
 
-## Scripture Graph
+[[Ephesians 4 - My Notes|◀ Ephesians 4]] · [[Ephesians 6 - My Notes|Ephesians 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Ephesians 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 37 — My Study
 
-[[Isaiah 37 (Annotated)|Annotated view]] · [[Isaiah 37|Plain text]] · [[Isaiah 37 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 37|📜 Scripture only]] · [[Isaiah 37 (Annotated)|🔍 Annotated]] · [[Isaiah 37 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 37]]
 
-## Scripture Graph
+[[Isaiah 36 - My Notes|◀ Isaiah 36]] · [[Isaiah 38 - My Notes|Isaiah 38 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 37 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

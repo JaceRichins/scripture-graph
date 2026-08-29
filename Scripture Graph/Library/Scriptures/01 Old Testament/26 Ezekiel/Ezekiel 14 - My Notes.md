@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 14 — My Study
 
-[[Ezekiel 14 (Annotated)|Annotated view]] · [[Ezekiel 14|Plain text]] · [[Ezekiel 14 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 14|📜 Scripture only]] · [[Ezekiel 14 (Annotated)|🔍 Annotated]] · [[Ezekiel 14 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 14]]
 
-## Scripture Graph
+[[Ezekiel 13 - My Notes|◀ Ezekiel 13]] · [[Ezekiel 15 - My Notes|Ezekiel 15 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 14 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

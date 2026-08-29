@@ -12,14 +12,15 @@ cssclasses:
 
 # Nehemiah 11 — My Study
 
-[[Nehemiah 11 (Annotated)|Annotated view]] · [[Nehemiah 11|Plain text]] · [[Nehemiah 11 - Study Guide|Study guide]] · [[Nehemiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Nehemiah 11|📜 Scripture only]] · [[Nehemiah 11 (Annotated)|🔍 Annotated]] · [[Nehemiah 11 - Study Guide|📖 Study guide]] · [[Nehemiah|📚 Nehemiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Nehemiah 11]]
 
-## Scripture Graph
+[[Nehemiah 10 - My Notes|◀ Nehemiah 10]] · [[Nehemiah 12 - My Notes|Nehemiah 12 ▶]]
+
+## 📖 Study Guide
 
 ![[Nehemiah 11 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 3 — My Study
 
-[[Leviticus 3 (Annotated)|Annotated view]] · [[Leviticus 3|Plain text]] · [[Leviticus 3 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 3|📜 Scripture only]] · [[Leviticus 3 (Annotated)|🔍 Annotated]] · [[Leviticus 3 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 3]]
 
-## Scripture Graph
+[[Leviticus 2 - My Notes|◀ Leviticus 2]] · [[Leviticus 4 - My Notes|Leviticus 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

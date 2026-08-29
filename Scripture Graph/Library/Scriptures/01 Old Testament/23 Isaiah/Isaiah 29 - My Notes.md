@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 29 — My Study
 
-[[Isaiah 29 (Annotated)|Annotated view]] · [[Isaiah 29|Plain text]] · [[Isaiah 29 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 29|📜 Scripture only]] · [[Isaiah 29 (Annotated)|🔍 Annotated]] · [[Isaiah 29 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 29]]
 
-## Scripture Graph
+[[Isaiah 28 - My Notes|◀ Isaiah 28]] · [[Isaiah 30 - My Notes|Isaiah 30 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 29 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

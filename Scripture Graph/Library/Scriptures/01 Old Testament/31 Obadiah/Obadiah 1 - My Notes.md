@@ -12,14 +12,15 @@ cssclasses:
 
 # Obadiah 1 — My Study
 
-[[Obadiah 1 (Annotated)|Annotated view]] · [[Obadiah 1|Plain text]] · [[Obadiah 1 - Study Guide|Study guide]] · [[Obadiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Obadiah 1|📜 Scripture only]] · [[Obadiah 1 (Annotated)|🔍 Annotated]] · [[Obadiah 1 - Study Guide|📖 Study guide]] · [[Obadiah|📚 Obadiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Obadiah 1]]
 
-## Scripture Graph
+[[Obadiah|◀ Obadiah]] · [[Obadiah|Obadiah ▶]]
+
+## 📖 Study Guide
 
 ![[Obadiah 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

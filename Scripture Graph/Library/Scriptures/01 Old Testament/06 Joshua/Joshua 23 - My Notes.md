@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 23 — My Study
 
-[[Joshua 23 (Annotated)|Annotated view]] · [[Joshua 23|Plain text]] · [[Joshua 23 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 23|📜 Scripture only]] · [[Joshua 23 (Annotated)|🔍 Annotated]] · [[Joshua 23 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 23]]
 
-## Scripture Graph
+[[Joshua 22 - My Notes|◀ Joshua 22]] · [[Joshua 24 - My Notes|Joshua 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

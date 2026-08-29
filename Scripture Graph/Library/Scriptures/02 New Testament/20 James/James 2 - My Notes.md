@@ -12,14 +12,15 @@ cssclasses:
 
 # James 2 — My Study
 
-[[James 2 (Annotated)|Annotated view]] · [[James 2|Plain text]] · [[James 2 - Study Guide|Study guide]] · [[James]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[James 2|📜 Scripture only]] · [[James 2 (Annotated)|🔍 Annotated]] · [[James 2 - Study Guide|📖 Study guide]] · [[James|📚 James]] · [[Study Hub|🏠 Study Hub]]
 
 ![[James 2]]
 
-## Scripture Graph
+[[James 1 - My Notes|◀ James 1]] · [[James 3 - My Notes|James 3 ▶]]
+
+## 📖 Study Guide
 
 ![[James 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

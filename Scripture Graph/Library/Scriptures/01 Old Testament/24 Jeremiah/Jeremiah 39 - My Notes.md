@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 39 — My Study
 
-[[Jeremiah 39 (Annotated)|Annotated view]] · [[Jeremiah 39|Plain text]] · [[Jeremiah 39 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 39|📜 Scripture only]] · [[Jeremiah 39 (Annotated)|🔍 Annotated]] · [[Jeremiah 39 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 39]]
 
-## Scripture Graph
+[[Jeremiah 38 - My Notes|◀ Jeremiah 38]] · [[Jeremiah 40 - My Notes|Jeremiah 40 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 39 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

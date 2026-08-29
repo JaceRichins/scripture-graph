@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 9 — My Study
 
-[[Luke 9 (Annotated)|Annotated view]] · [[Luke 9|Plain text]] · [[Luke 9 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 9|📜 Scripture only]] · [[Luke 9 (Annotated)|🔍 Annotated]] · [[Luke 9 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 9]]
 
-## Scripture Graph
+[[Luke 8 - My Notes|◀ Luke 8]] · [[Luke 10 - My Notes|Luke 10 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

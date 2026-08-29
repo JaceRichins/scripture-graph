@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 47 — My Study
 
-[[Isaiah 47 (Annotated)|Annotated view]] · [[Isaiah 47|Plain text]] · [[Isaiah 47 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 47|📜 Scripture only]] · [[Isaiah 47 (Annotated)|🔍 Annotated]] · [[Isaiah 47 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 47]]
 
-## Scripture Graph
+[[Isaiah 46 - My Notes|◀ Isaiah 46]] · [[Isaiah 48 - My Notes|Isaiah 48 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 47 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

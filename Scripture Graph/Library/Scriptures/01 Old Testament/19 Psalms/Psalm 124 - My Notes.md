@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 124 — My Study
 
-[[Psalm 124 (Annotated)|Annotated view]] · [[Psalm 124|Plain text]] · [[Psalm 124 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 124|📜 Scripture only]] · [[Psalm 124 (Annotated)|🔍 Annotated]] · [[Psalm 124 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 124]]
 
-## Scripture Graph
+[[Psalm 123 - My Notes|◀ Psalm 123]] · [[Psalm 125 - My Notes|Psalm 125 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 124 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

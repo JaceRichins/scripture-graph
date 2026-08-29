@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 28 — My Study
 
-[[Ezekiel 28 (Annotated)|Annotated view]] · [[Ezekiel 28|Plain text]] · [[Ezekiel 28 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 28|📜 Scripture only]] · [[Ezekiel 28 (Annotated)|🔍 Annotated]] · [[Ezekiel 28 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 28]]
 
-## Scripture Graph
+[[Ezekiel 27 - My Notes|◀ Ezekiel 27]] · [[Ezekiel 29 - My Notes|Ezekiel 29 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 28 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

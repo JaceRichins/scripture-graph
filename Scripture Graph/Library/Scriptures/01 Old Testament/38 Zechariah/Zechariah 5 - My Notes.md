@@ -12,14 +12,15 @@ cssclasses:
 
 # Zechariah 5 — My Study
 
-[[Zechariah 5 (Annotated)|Annotated view]] · [[Zechariah 5|Plain text]] · [[Zechariah 5 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zechariah 5|📜 Scripture only]] · [[Zechariah 5 (Annotated)|🔍 Annotated]] · [[Zechariah 5 - Study Guide|📖 Study guide]] · [[Zechariah|📚 Zechariah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zechariah 5]]
 
-## Scripture Graph
+[[Zechariah 4 - My Notes|◀ Zechariah 4]] · [[Zechariah 6 - My Notes|Zechariah 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Zechariah 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # 3 Nephi 7 — My Study
 
-[[3 Nephi 7 (Annotated)|Annotated view]] · [[3 Nephi 7|Plain text]] · [[3 Nephi 7 - Study Guide|Study guide]] · [[3 Nephi]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[3 Nephi 7|📜 Scripture only]] · [[3 Nephi 7 (Annotated)|🔍 Annotated]] · [[3 Nephi 7 - Study Guide|📖 Study guide]] · [[3 Nephi|📚 3 Nephi]] · [[Study Hub|🏠 Study Hub]]
 
 ![[3 Nephi 7]]
 
-## Scripture Graph
+[[3 Nephi 6 - My Notes|◀ 3 Nephi 6]] · [[3 Nephi 8 - My Notes|3 Nephi 8 ▶]]
+
+## 📖 Study Guide
 
 ![[3 Nephi 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

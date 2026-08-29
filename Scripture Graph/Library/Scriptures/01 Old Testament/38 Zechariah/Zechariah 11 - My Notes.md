@@ -12,14 +12,15 @@ cssclasses:
 
 # Zechariah 11 — My Study
 
-[[Zechariah 11 (Annotated)|Annotated view]] · [[Zechariah 11|Plain text]] · [[Zechariah 11 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zechariah 11|📜 Scripture only]] · [[Zechariah 11 (Annotated)|🔍 Annotated]] · [[Zechariah 11 - Study Guide|📖 Study guide]] · [[Zechariah|📚 Zechariah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zechariah 11]]
 
-## Scripture Graph
+[[Zechariah 10 - My Notes|◀ Zechariah 10]] · [[Zechariah 12 - My Notes|Zechariah 12 ▶]]
+
+## 📖 Study Guide
 
 ![[Zechariah 11 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

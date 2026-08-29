@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 21 — My Study
 
-[[Jeremiah 21 (Annotated)|Annotated view]] · [[Jeremiah 21|Plain text]] · [[Jeremiah 21 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 21|📜 Scripture only]] · [[Jeremiah 21 (Annotated)|🔍 Annotated]] · [[Jeremiah 21 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 21]]
 
-## Scripture Graph
+[[Jeremiah 20 - My Notes|◀ Jeremiah 20]] · [[Jeremiah 22 - My Notes|Jeremiah 22 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 21 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

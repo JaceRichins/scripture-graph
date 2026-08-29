@@ -12,14 +12,15 @@ cssclasses:
 
 # John 16 — My Study
 
-[[John 16 (Annotated)|Annotated view]] · [[John 16|Plain text]] · [[John 16 - Study Guide|Study guide]] · [[John]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[John 16|📜 Scripture only]] · [[John 16 (Annotated)|🔍 Annotated]] · [[John 16 - Study Guide|📖 Study guide]] · [[John|📚 John]] · [[Study Hub|🏠 Study Hub]]
 
 ![[John 16]]
 
-## Scripture Graph
+[[John 15 - My Notes|◀ John 15]] · [[John 17 - My Notes|John 17 ▶]]
+
+## 📖 Study Guide
 
 ![[John 16 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

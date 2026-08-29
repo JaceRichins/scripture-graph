@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 7 — My Study
 
-[[Proverbs 7 (Annotated)|Annotated view]] · [[Proverbs 7|Plain text]] · [[Proverbs 7 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 7|📜 Scripture only]] · [[Proverbs 7 (Annotated)|🔍 Annotated]] · [[Proverbs 7 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 7]]
 
-## Scripture Graph
+[[Proverbs 6 - My Notes|◀ Proverbs 6]] · [[Proverbs 8 - My Notes|Proverbs 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

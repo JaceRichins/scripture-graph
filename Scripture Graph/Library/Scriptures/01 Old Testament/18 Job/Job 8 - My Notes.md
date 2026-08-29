@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 8 — My Study
 
-[[Job 8 (Annotated)|Annotated view]] · [[Job 8|Plain text]] · [[Job 8 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 8|📜 Scripture only]] · [[Job 8 (Annotated)|🔍 Annotated]] · [[Job 8 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 8]]
 
-## Scripture Graph
+[[Job 7 - My Notes|◀ Job 7]] · [[Job 9 - My Notes|Job 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Job 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

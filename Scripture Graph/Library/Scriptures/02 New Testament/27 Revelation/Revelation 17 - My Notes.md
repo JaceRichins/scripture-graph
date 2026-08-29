@@ -12,14 +12,15 @@ cssclasses:
 
 # Revelation 17 — My Study
 
-[[Revelation 17 (Annotated)|Annotated view]] · [[Revelation 17|Plain text]] · [[Revelation 17 - Study Guide|Study guide]] · [[Revelation]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Revelation 17|📜 Scripture only]] · [[Revelation 17 (Annotated)|🔍 Annotated]] · [[Revelation 17 - Study Guide|📖 Study guide]] · [[Revelation|📚 Revelation]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Revelation 17]]
 
-## Scripture Graph
+[[Revelation 16 - My Notes|◀ Revelation 16]] · [[Revelation 18 - My Notes|Revelation 18 ▶]]
+
+## 📖 Study Guide
 
 ![[Revelation 17 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

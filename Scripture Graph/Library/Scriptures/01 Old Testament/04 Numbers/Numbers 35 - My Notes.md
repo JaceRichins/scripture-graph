@@ -12,14 +12,15 @@ cssclasses:
 
 # Numbers 35 — My Study
 
-[[Numbers 35 (Annotated)|Annotated view]] · [[Numbers 35|Plain text]] · [[Numbers 35 - Study Guide|Study guide]] · [[Numbers]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Numbers 35|📜 Scripture only]] · [[Numbers 35 (Annotated)|🔍 Annotated]] · [[Numbers 35 - Study Guide|📖 Study guide]] · [[Numbers|📚 Numbers]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Numbers 35]]
 
-## Scripture Graph
+[[Numbers 34 - My Notes|◀ Numbers 34]] · [[Numbers 36 - My Notes|Numbers 36 ▶]]
+
+## 📖 Study Guide
 
 ![[Numbers 35 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

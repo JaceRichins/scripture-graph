@@ -12,14 +12,15 @@ cssclasses:
 
 # Mosiah 27 — My Study
 
-[[Mosiah 27 (Annotated)|Annotated view]] · [[Mosiah 27|Plain text]] · [[Mosiah 27 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mosiah 27|📜 Scripture only]] · [[Mosiah 27 (Annotated)|🔍 Annotated]] · [[Mosiah 27 - Study Guide|📖 Study guide]] · [[Mosiah|📚 Mosiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mosiah 27]]
 
-## Scripture Graph
+[[Mosiah 26 - My Notes|◀ Mosiah 26]] · [[Mosiah 28 - My Notes|Mosiah 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Mosiah 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

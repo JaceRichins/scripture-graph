@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 42 — My Study
 
-[[Isaiah 42 (Annotated)|Annotated view]] · [[Isaiah 42|Plain text]] · [[Isaiah 42 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 42|📜 Scripture only]] · [[Isaiah 42 (Annotated)|🔍 Annotated]] · [[Isaiah 42 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 42]]
 
-## Scripture Graph
+[[Isaiah 41 - My Notes|◀ Isaiah 41]] · [[Isaiah 43 - My Notes|Isaiah 43 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 42 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

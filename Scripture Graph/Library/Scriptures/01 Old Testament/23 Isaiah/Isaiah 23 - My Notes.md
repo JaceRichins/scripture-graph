@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 23 — My Study
 
-[[Isaiah 23 (Annotated)|Annotated view]] · [[Isaiah 23|Plain text]] · [[Isaiah 23 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 23|📜 Scripture only]] · [[Isaiah 23 (Annotated)|🔍 Annotated]] · [[Isaiah 23 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 23]]
 
-## Scripture Graph
+[[Isaiah 22 - My Notes|◀ Isaiah 22]] · [[Isaiah 24 - My Notes|Isaiah 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

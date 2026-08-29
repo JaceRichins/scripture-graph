@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 1 — My Study
 
-[[Ezekiel 1 (Annotated)|Annotated view]] · [[Ezekiel 1|Plain text]] · [[Ezekiel 1 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 1|📜 Scripture only]] · [[Ezekiel 1 (Annotated)|🔍 Annotated]] · [[Ezekiel 1 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 1]]
 
-## Scripture Graph
+[[Ezekiel|◀ Ezekiel]] · [[Ezekiel 2 - My Notes|Ezekiel 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 50 — My Study
 
-[[Psalm 50 (Annotated)|Annotated view]] · [[Psalm 50|Plain text]] · [[Psalm 50 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 50|📜 Scripture only]] · [[Psalm 50 (Annotated)|🔍 Annotated]] · [[Psalm 50 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 50]]
 
-## Scripture Graph
+[[Psalm 49 - My Notes|◀ Psalm 49]] · [[Psalm 51 - My Notes|Psalm 51 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 50 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

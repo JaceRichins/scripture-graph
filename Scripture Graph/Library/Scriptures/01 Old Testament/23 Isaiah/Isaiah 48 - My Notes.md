@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 48 — My Study
 
-[[Isaiah 48 (Annotated)|Annotated view]] · [[Isaiah 48|Plain text]] · [[Isaiah 48 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 48|📜 Scripture only]] · [[Isaiah 48 (Annotated)|🔍 Annotated]] · [[Isaiah 48 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 48]]
 
-## Scripture Graph
+[[Isaiah 47 - My Notes|◀ Isaiah 47]] · [[Isaiah 49 - My Notes|Isaiah 49 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 48 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

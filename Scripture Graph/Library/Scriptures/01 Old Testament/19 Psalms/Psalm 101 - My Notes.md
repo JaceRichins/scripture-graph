@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 101 — My Study
 
-[[Psalm 101 (Annotated)|Annotated view]] · [[Psalm 101|Plain text]] · [[Psalm 101 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 101|📜 Scripture only]] · [[Psalm 101 (Annotated)|🔍 Annotated]] · [[Psalm 101 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 101]]
 
-## Scripture Graph
+[[Psalm 100 - My Notes|◀ Psalm 100]] · [[Psalm 102 - My Notes|Psalm 102 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 101 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

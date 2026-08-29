@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 24 — My Study
 
-[[Psalm 24 (Annotated)|Annotated view]] · [[Psalm 24|Plain text]] · [[Psalm 24 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 24|📜 Scripture only]] · [[Psalm 24 (Annotated)|🔍 Annotated]] · [[Psalm 24 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 24]]
 
-## Scripture Graph
+[[Psalm 23 - My Notes|◀ Psalm 23]] · [[Psalm 25 - My Notes|Psalm 25 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 24 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

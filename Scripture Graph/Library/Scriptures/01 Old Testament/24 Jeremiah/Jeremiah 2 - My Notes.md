@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 2 — My Study
 
-[[Jeremiah 2 (Annotated)|Annotated view]] · [[Jeremiah 2|Plain text]] · [[Jeremiah 2 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 2|📜 Scripture only]] · [[Jeremiah 2 (Annotated)|🔍 Annotated]] · [[Jeremiah 2 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 2]]
 
-## Scripture Graph
+[[Jeremiah 1 - My Notes|◀ Jeremiah 1]] · [[Jeremiah 3 - My Notes|Jeremiah 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

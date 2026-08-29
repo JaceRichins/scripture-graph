@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Samuel 24 — My Study
 
-[[2 Samuel 24 (Annotated)|Annotated view]] · [[2 Samuel 24|Plain text]] · [[2 Samuel 24 - Study Guide|Study guide]] · [[2 Samuel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Samuel 24|📜 Scripture only]] · [[2 Samuel 24 (Annotated)|🔍 Annotated]] · [[2 Samuel 24 - Study Guide|📖 Study guide]] · [[2 Samuel|📚 2 Samuel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Samuel 24]]
 
-## Scripture Graph
+[[2 Samuel 23 - My Notes|◀ 2 Samuel 23]] · [[2 Samuel|2 Samuel ▶]]
+
+## 📖 Study Guide
 
 ![[2 Samuel 24 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

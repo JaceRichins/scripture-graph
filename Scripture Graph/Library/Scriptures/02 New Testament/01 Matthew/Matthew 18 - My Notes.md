@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 18 — My Study
 
-[[Matthew 18 (Annotated)|Annotated view]] · [[Matthew 18|Plain text]] · [[Matthew 18 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 18|📜 Scripture only]] · [[Matthew 18 (Annotated)|🔍 Annotated]] · [[Matthew 18 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 18]]
 
-## Scripture Graph
+[[Matthew 17 - My Notes|◀ Matthew 17]] · [[Matthew 19 - My Notes|Matthew 19 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

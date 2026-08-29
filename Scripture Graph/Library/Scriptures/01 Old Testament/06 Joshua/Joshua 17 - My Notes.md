@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 17 — My Study
 
-[[Joshua 17 (Annotated)|Annotated view]] · [[Joshua 17|Plain text]] · [[Joshua 17 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 17|📜 Scripture only]] · [[Joshua 17 (Annotated)|🔍 Annotated]] · [[Joshua 17 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 17]]
 
-## Scripture Graph
+[[Joshua 16 - My Notes|◀ Joshua 16]] · [[Joshua 18 - My Notes|Joshua 18 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 17 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

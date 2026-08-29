@@ -12,14 +12,15 @@ cssclasses:
 
 # D&C 84 — My Study
 
-[[D&C 84 (Annotated)|Annotated view]] · [[D&C 84|Plain text]] · [[D&C 84 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[D&C 84|📜 Scripture only]] · [[D&C 84 (Annotated)|🔍 Annotated]] · [[D&C 84 - Study Guide|📖 Study guide]] · [[Doctrine and Covenants|📚 Doctrine and Covenants]] · [[Study Hub|🏠 Study Hub]]
 
 ![[D&C 84]]
 
-## Scripture Graph
+[[D&C 83 - My Notes|◀ D&C 83]] · [[D&C 85 - My Notes|D&C 85 ▶]]
+
+## 📖 Study Guide
 
 ![[D&C 84 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

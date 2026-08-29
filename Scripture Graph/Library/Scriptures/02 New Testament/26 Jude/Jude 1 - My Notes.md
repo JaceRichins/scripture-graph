@@ -12,14 +12,15 @@ cssclasses:
 
 # Jude 1 — My Study
 
-[[Jude 1 (Annotated)|Annotated view]] · [[Jude 1|Plain text]] · [[Jude 1 - Study Guide|Study guide]] · [[Jude]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jude 1|📜 Scripture only]] · [[Jude 1 (Annotated)|🔍 Annotated]] · [[Jude 1 - Study Guide|📖 Study guide]] · [[Jude|📚 Jude]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jude 1]]
 
-## Scripture Graph
+[[Jude|◀ Jude]] · [[Jude|Jude ▶]]
+
+## 📖 Study Guide
 
 ![[Jude 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Judges 8 — My Study
 
-[[Judges 8 (Annotated)|Annotated view]] · [[Judges 8|Plain text]] · [[Judges 8 - Study Guide|Study guide]] · [[Judges]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Judges 8|📜 Scripture only]] · [[Judges 8 (Annotated)|🔍 Annotated]] · [[Judges 8 - Study Guide|📖 Study guide]] · [[Judges|📚 Judges]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Judges 8]]
 
-## Scripture Graph
+[[Judges 7 - My Notes|◀ Judges 7]] · [[Judges 9 - My Notes|Judges 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Judges 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Matthew 27 — My Study
 
-[[Matthew 27 (Annotated)|Annotated view]] · [[Matthew 27|Plain text]] · [[Matthew 27 - Study Guide|Study guide]] · [[Matthew]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Matthew 27|📜 Scripture only]] · [[Matthew 27 (Annotated)|🔍 Annotated]] · [[Matthew 27 - Study Guide|📖 Study guide]] · [[Matthew|📚 Matthew]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Matthew 27]]
 
-## Scripture Graph
+[[Matthew 26 - My Notes|◀ Matthew 26]] · [[Matthew 28 - My Notes|Matthew 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Matthew 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

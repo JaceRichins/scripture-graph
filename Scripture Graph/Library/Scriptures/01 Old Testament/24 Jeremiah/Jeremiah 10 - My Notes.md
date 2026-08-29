@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 10 — My Study
 
-[[Jeremiah 10 (Annotated)|Annotated view]] · [[Jeremiah 10|Plain text]] · [[Jeremiah 10 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 10|📜 Scripture only]] · [[Jeremiah 10 (Annotated)|🔍 Annotated]] · [[Jeremiah 10 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 10]]
 
-## Scripture Graph
+[[Jeremiah 9 - My Notes|◀ Jeremiah 9]] · [[Jeremiah 11 - My Notes|Jeremiah 11 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 10 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

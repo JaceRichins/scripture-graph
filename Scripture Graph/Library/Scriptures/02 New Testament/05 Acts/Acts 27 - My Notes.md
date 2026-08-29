@@ -12,14 +12,15 @@ cssclasses:
 
 # Acts 27 — My Study
 
-[[Acts 27 (Annotated)|Annotated view]] · [[Acts 27|Plain text]] · [[Acts 27 - Study Guide|Study guide]] · [[Acts]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Acts 27|📜 Scripture only]] · [[Acts 27 (Annotated)|🔍 Annotated]] · [[Acts 27 - Study Guide|📖 Study guide]] · [[Acts|📚 Acts]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Acts 27]]
 
-## Scripture Graph
+[[Acts 26 - My Notes|◀ Acts 26]] · [[Acts 28 - My Notes|Acts 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Acts 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 1 — My Study
 
-[[Luke 1 (Annotated)|Annotated view]] · [[Luke 1|Plain text]] · [[Luke 1 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 1|📜 Scripture only]] · [[Luke 1 (Annotated)|🔍 Annotated]] · [[Luke 1 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 1]]
 
-## Scripture Graph
+[[Luke|◀ Luke]] · [[Luke 2 - My Notes|Luke 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

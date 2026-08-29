@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 115 — My Study
 
-[[Psalm 115 (Annotated)|Annotated view]] · [[Psalm 115|Plain text]] · [[Psalm 115 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 115|📜 Scripture only]] · [[Psalm 115 (Annotated)|🔍 Annotated]] · [[Psalm 115 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 115]]
 
-## Scripture Graph
+[[Psalm 114 - My Notes|◀ Psalm 114]] · [[Psalm 116 - My Notes|Psalm 116 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 115 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 60 — My Study
 
-[[Isaiah 60 (Annotated)|Annotated view]] · [[Isaiah 60|Plain text]] · [[Isaiah 60 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 60|📜 Scripture only]] · [[Isaiah 60 (Annotated)|🔍 Annotated]] · [[Isaiah 60 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 60]]
 
-## Scripture Graph
+[[Isaiah 59 - My Notes|◀ Isaiah 59]] · [[Isaiah 61 - My Notes|Isaiah 61 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 60 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

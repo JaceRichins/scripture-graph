@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 40 — My Study
 
-[[Genesis 40 (Annotated)|Annotated view]] · [[Genesis 40|Plain text]] · [[Genesis 40 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 40|📜 Scripture only]] · [[Genesis 40 (Annotated)|🔍 Annotated]] · [[Genesis 40 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 40]]
 
-## Scripture Graph
+[[Genesis 39 - My Notes|◀ Genesis 39]] · [[Genesis 41 - My Notes|Genesis 41 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 40 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

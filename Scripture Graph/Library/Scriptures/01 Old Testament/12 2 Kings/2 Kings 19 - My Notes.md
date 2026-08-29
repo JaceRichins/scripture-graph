@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Kings 19 — My Study
 
-[[2 Kings 19 (Annotated)|Annotated view]] · [[2 Kings 19|Plain text]] · [[2 Kings 19 - Study Guide|Study guide]] · [[2 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Kings 19|📜 Scripture only]] · [[2 Kings 19 (Annotated)|🔍 Annotated]] · [[2 Kings 19 - Study Guide|📖 Study guide]] · [[2 Kings|📚 2 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Kings 19]]
 
-## Scripture Graph
+[[2 Kings 18 - My Notes|◀ 2 Kings 18]] · [[2 Kings 20 - My Notes|2 Kings 20 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Kings 19 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

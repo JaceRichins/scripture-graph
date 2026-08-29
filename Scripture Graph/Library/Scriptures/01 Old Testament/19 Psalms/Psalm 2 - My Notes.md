@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 2 — My Study
 
-[[Psalm 2 (Annotated)|Annotated view]] · [[Psalm 2|Plain text]] · [[Psalm 2 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 2|📜 Scripture only]] · [[Psalm 2 (Annotated)|🔍 Annotated]] · [[Psalm 2 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 2]]
 
-## Scripture Graph
+[[Psalm 1 - My Notes|◀ Psalm 1]] · [[Psalm 3 - My Notes|Psalm 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

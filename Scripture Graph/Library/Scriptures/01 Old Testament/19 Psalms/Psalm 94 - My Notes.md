@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 94 — My Study
 
-[[Psalm 94 (Annotated)|Annotated view]] · [[Psalm 94|Plain text]] · [[Psalm 94 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 94|📜 Scripture only]] · [[Psalm 94 (Annotated)|🔍 Annotated]] · [[Psalm 94 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 94]]
 
-## Scripture Graph
+[[Psalm 93 - My Notes|◀ Psalm 93]] · [[Psalm 95 - My Notes|Psalm 95 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 94 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

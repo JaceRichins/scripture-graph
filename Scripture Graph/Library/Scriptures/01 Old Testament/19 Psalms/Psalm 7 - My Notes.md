@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 7 — My Study
 
-[[Psalm 7 (Annotated)|Annotated view]] · [[Psalm 7|Plain text]] · [[Psalm 7 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 7|📜 Scripture only]] · [[Psalm 7 (Annotated)|🔍 Annotated]] · [[Psalm 7 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 7]]
 
-## Scripture Graph
+[[Psalm 6 - My Notes|◀ Psalm 6]] · [[Psalm 8 - My Notes|Psalm 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

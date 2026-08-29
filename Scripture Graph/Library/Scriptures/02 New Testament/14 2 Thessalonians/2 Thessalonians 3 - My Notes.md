@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Thessalonians 3 — My Study
 
-[[2 Thessalonians 3 (Annotated)|Annotated view]] · [[2 Thessalonians 3|Plain text]] · [[2 Thessalonians 3 - Study Guide|Study guide]] · [[2 Thessalonians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Thessalonians 3|📜 Scripture only]] · [[2 Thessalonians 3 (Annotated)|🔍 Annotated]] · [[2 Thessalonians 3 - Study Guide|📖 Study guide]] · [[2 Thessalonians|📚 2 Thessalonians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Thessalonians 3]]
 
-## Scripture Graph
+[[2 Thessalonians 2 - My Notes|◀ 2 Thessalonians 2]] · [[2 Thessalonians|2 Thessalonians ▶]]
+
+## 📖 Study Guide
 
 ![[2 Thessalonians 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

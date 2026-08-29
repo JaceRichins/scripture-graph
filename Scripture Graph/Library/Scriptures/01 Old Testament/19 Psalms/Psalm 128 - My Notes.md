@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 128 — My Study
 
-[[Psalm 128 (Annotated)|Annotated view]] · [[Psalm 128|Plain text]] · [[Psalm 128 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 128|📜 Scripture only]] · [[Psalm 128 (Annotated)|🔍 Annotated]] · [[Psalm 128 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 128]]
 
-## Scripture Graph
+[[Psalm 127 - My Notes|◀ Psalm 127]] · [[Psalm 129 - My Notes|Psalm 129 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 128 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

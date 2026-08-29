@@ -12,14 +12,15 @@ cssclasses:
 
 # D&C 18 — My Study
 
-[[D&C 18 (Annotated)|Annotated view]] · [[D&C 18|Plain text]] · [[D&C 18 - Study Guide|Study guide]] · [[Doctrine and Covenants]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[D&C 18|📜 Scripture only]] · [[D&C 18 (Annotated)|🔍 Annotated]] · [[D&C 18 - Study Guide|📖 Study guide]] · [[Doctrine and Covenants|📚 Doctrine and Covenants]] · [[Study Hub|🏠 Study Hub]]
 
 ![[D&C 18]]
 
-## Scripture Graph
+[[D&C 17 - My Notes|◀ D&C 17]] · [[D&C 19 - My Notes|D&C 19 ▶]]
+
+## 📖 Study Guide
 
 ![[D&C 18 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

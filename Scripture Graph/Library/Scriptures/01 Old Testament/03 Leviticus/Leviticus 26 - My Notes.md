@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 26 — My Study
 
-[[Leviticus 26 (Annotated)|Annotated view]] · [[Leviticus 26|Plain text]] · [[Leviticus 26 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 26|📜 Scripture only]] · [[Leviticus 26 (Annotated)|🔍 Annotated]] · [[Leviticus 26 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 26]]
 
-## Scripture Graph
+[[Leviticus 25 - My Notes|◀ Leviticus 25]] · [[Leviticus 27 - My Notes|Leviticus 27 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 26 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

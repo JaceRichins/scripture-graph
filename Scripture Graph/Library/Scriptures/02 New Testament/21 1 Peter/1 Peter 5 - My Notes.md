@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Peter 5 — My Study
 
-[[1 Peter 5 (Annotated)|Annotated view]] · [[1 Peter 5|Plain text]] · [[1 Peter 5 - Study Guide|Study guide]] · [[1 Peter]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Peter 5|📜 Scripture only]] · [[1 Peter 5 (Annotated)|🔍 Annotated]] · [[1 Peter 5 - Study Guide|📖 Study guide]] · [[1 Peter|📚 1 Peter]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Peter 5]]
 
-## Scripture Graph
+[[1 Peter 4 - My Notes|◀ 1 Peter 4]] · [[1 Peter|1 Peter ▶]]
+
+## 📖 Study Guide
 
 ![[1 Peter 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

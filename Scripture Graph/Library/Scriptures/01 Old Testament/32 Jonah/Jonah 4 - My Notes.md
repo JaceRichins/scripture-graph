@@ -12,14 +12,15 @@ cssclasses:
 
 # Jonah 4 — My Study
 
-[[Jonah 4 (Annotated)|Annotated view]] · [[Jonah 4|Plain text]] · [[Jonah 4 - Study Guide|Study guide]] · [[Jonah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jonah 4|📜 Scripture only]] · [[Jonah 4 (Annotated)|🔍 Annotated]] · [[Jonah 4 - Study Guide|📖 Study guide]] · [[Jonah|📚 Jonah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jonah 4]]
 
-## Scripture Graph
+[[Jonah 3 - My Notes|◀ Jonah 3]] · [[Jonah|Jonah ▶]]
+
+## 📖 Study Guide
 
 ![[Jonah 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

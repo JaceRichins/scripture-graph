@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 27 — My Study
 
-[[Psalm 27 (Annotated)|Annotated view]] · [[Psalm 27|Plain text]] · [[Psalm 27 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 27|📜 Scripture only]] · [[Psalm 27 (Annotated)|🔍 Annotated]] · [[Psalm 27 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 27]]
 
-## Scripture Graph
+[[Psalm 26 - My Notes|◀ Psalm 26]] · [[Psalm 28 - My Notes|Psalm 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

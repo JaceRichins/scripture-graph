@@ -12,14 +12,15 @@ cssclasses:
 
 # Ruth 1 — My Study
 
-[[Ruth 1 (Annotated)|Annotated view]] · [[Ruth 1|Plain text]] · [[Ruth 1 - Study Guide|Study guide]] · [[Ruth]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ruth 1|📜 Scripture only]] · [[Ruth 1 (Annotated)|🔍 Annotated]] · [[Ruth 1 - Study Guide|📖 Study guide]] · [[Ruth|📚 Ruth]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ruth 1]]
 
-## Scripture Graph
+[[Ruth|◀ Ruth]] · [[Ruth 2 - My Notes|Ruth 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Ruth 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

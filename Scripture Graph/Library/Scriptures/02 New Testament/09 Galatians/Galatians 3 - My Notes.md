@@ -12,14 +12,15 @@ cssclasses:
 
 # Galatians 3 — My Study
 
-[[Galatians 3 (Annotated)|Annotated view]] · [[Galatians 3|Plain text]] · [[Galatians 3 - Study Guide|Study guide]] · [[Galatians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Galatians 3|📜 Scripture only]] · [[Galatians 3 (Annotated)|🔍 Annotated]] · [[Galatians 3 - Study Guide|📖 Study guide]] · [[Galatians|📚 Galatians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Galatians 3]]
 
-## Scripture Graph
+[[Galatians 2 - My Notes|◀ Galatians 2]] · [[Galatians 4 - My Notes|Galatians 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Galatians 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

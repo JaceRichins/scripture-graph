@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Timothy 4 — My Study
 
-[[2 Timothy 4 (Annotated)|Annotated view]] · [[2 Timothy 4|Plain text]] · [[2 Timothy 4 - Study Guide|Study guide]] · [[2 Timothy]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Timothy 4|📜 Scripture only]] · [[2 Timothy 4 (Annotated)|🔍 Annotated]] · [[2 Timothy 4 - Study Guide|📖 Study guide]] · [[2 Timothy|📚 2 Timothy]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Timothy 4]]
 
-## Scripture Graph
+[[2 Timothy 3 - My Notes|◀ 2 Timothy 3]] · [[2 Timothy|2 Timothy ▶]]
+
+## 📖 Study Guide
 
 ![[2 Timothy 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

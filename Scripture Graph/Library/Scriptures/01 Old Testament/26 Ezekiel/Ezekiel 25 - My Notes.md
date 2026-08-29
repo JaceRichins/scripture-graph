@@ -12,14 +12,15 @@ cssclasses:
 
 # Ezekiel 25 — My Study
 
-[[Ezekiel 25 (Annotated)|Annotated view]] · [[Ezekiel 25|Plain text]] · [[Ezekiel 25 - Study Guide|Study guide]] · [[Ezekiel]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ezekiel 25|📜 Scripture only]] · [[Ezekiel 25 (Annotated)|🔍 Annotated]] · [[Ezekiel 25 - Study Guide|📖 Study guide]] · [[Ezekiel|📚 Ezekiel]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ezekiel 25]]
 
-## Scripture Graph
+[[Ezekiel 24 - My Notes|◀ Ezekiel 24]] · [[Ezekiel 26 - My Notes|Ezekiel 26 ▶]]
+
+## 📖 Study Guide
 
 ![[Ezekiel 25 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

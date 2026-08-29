@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 4 — My Study
 
-[[Proverbs 4 (Annotated)|Annotated view]] · [[Proverbs 4|Plain text]] · [[Proverbs 4 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 4|📜 Scripture only]] · [[Proverbs 4 (Annotated)|🔍 Annotated]] · [[Proverbs 4 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 4]]
 
-## Scripture Graph
+[[Proverbs 3 - My Notes|◀ Proverbs 3]] · [[Proverbs 5 - My Notes|Proverbs 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

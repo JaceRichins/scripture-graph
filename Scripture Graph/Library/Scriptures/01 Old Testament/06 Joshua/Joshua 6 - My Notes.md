@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 6 — My Study
 
-[[Joshua 6 (Annotated)|Annotated view]] · [[Joshua 6|Plain text]] · [[Joshua 6 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 6|📜 Scripture only]] · [[Joshua 6 (Annotated)|🔍 Annotated]] · [[Joshua 6 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 6]]
 
-## Scripture Graph
+[[Joshua 5 - My Notes|◀ Joshua 5]] · [[Joshua 7 - My Notes|Joshua 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

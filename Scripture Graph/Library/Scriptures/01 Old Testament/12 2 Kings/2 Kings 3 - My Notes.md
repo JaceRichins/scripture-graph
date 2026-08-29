@@ -12,14 +12,15 @@ cssclasses:
 
 # 2 Kings 3 — My Study
 
-[[2 Kings 3 (Annotated)|Annotated view]] · [[2 Kings 3|Plain text]] · [[2 Kings 3 - Study Guide|Study guide]] · [[2 Kings]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[2 Kings 3|📜 Scripture only]] · [[2 Kings 3 (Annotated)|🔍 Annotated]] · [[2 Kings 3 - Study Guide|📖 Study guide]] · [[2 Kings|📚 2 Kings]] · [[Study Hub|🏠 Study Hub]]
 
 ![[2 Kings 3]]
 
-## Scripture Graph
+[[2 Kings 2 - My Notes|◀ 2 Kings 2]] · [[2 Kings 4 - My Notes|2 Kings 4 ▶]]
+
+## 📖 Study Guide
 
 ![[2 Kings 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

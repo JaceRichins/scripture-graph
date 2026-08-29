@@ -12,14 +12,15 @@ cssclasses:
 
 # Zechariah 4 — My Study
 
-[[Zechariah 4 (Annotated)|Annotated view]] · [[Zechariah 4|Plain text]] · [[Zechariah 4 - Study Guide|Study guide]] · [[Zechariah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Zechariah 4|📜 Scripture only]] · [[Zechariah 4 (Annotated)|🔍 Annotated]] · [[Zechariah 4 - Study Guide|📖 Study guide]] · [[Zechariah|📚 Zechariah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Zechariah 4]]
 
-## Scripture Graph
+[[Zechariah 3 - My Notes|◀ Zechariah 3]] · [[Zechariah 5 - My Notes|Zechariah 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Zechariah 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

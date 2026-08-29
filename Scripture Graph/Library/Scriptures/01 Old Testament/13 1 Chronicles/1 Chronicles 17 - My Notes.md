@@ -12,14 +12,15 @@ cssclasses:
 
 # 1 Chronicles 17 — My Study
 
-[[1 Chronicles 17 (Annotated)|Annotated view]] · [[1 Chronicles 17|Plain text]] · [[1 Chronicles 17 - Study Guide|Study guide]] · [[1 Chronicles]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[1 Chronicles 17|📜 Scripture only]] · [[1 Chronicles 17 (Annotated)|🔍 Annotated]] · [[1 Chronicles 17 - Study Guide|📖 Study guide]] · [[1 Chronicles|📚 1 Chronicles]] · [[Study Hub|🏠 Study Hub]]
 
 ![[1 Chronicles 17]]
 
-## Scripture Graph
+[[1 Chronicles 16 - My Notes|◀ 1 Chronicles 16]] · [[1 Chronicles 18 - My Notes|1 Chronicles 18 ▶]]
+
+## 📖 Study Guide
 
 ![[1 Chronicles 17 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

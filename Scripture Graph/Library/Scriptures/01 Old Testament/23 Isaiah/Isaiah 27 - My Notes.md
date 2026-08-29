@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 27 — My Study
 
-[[Isaiah 27 (Annotated)|Annotated view]] · [[Isaiah 27|Plain text]] · [[Isaiah 27 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 27|📜 Scripture only]] · [[Isaiah 27 (Annotated)|🔍 Annotated]] · [[Isaiah 27 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 27]]
 
-## Scripture Graph
+[[Isaiah 26 - My Notes|◀ Isaiah 26]] · [[Isaiah 28 - My Notes|Isaiah 28 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 27 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

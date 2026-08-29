@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 2 — My Study
 
-[[Proverbs 2 (Annotated)|Annotated view]] · [[Proverbs 2|Plain text]] · [[Proverbs 2 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 2|📜 Scripture only]] · [[Proverbs 2 (Annotated)|🔍 Annotated]] · [[Proverbs 2 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 2]]
 
-## Scripture Graph
+[[Proverbs 1 - My Notes|◀ Proverbs 1]] · [[Proverbs 3 - My Notes|Proverbs 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

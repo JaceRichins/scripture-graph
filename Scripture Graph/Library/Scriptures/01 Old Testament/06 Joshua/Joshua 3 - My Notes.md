@@ -12,14 +12,15 @@ cssclasses:
 
 # Joshua 3 — My Study
 
-[[Joshua 3 (Annotated)|Annotated view]] · [[Joshua 3|Plain text]] · [[Joshua 3 - Study Guide|Study guide]] · [[Joshua]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Joshua 3|📜 Scripture only]] · [[Joshua 3 (Annotated)|🔍 Annotated]] · [[Joshua 3 - Study Guide|📖 Study guide]] · [[Joshua|📚 Joshua]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Joshua 3]]
 
-## Scripture Graph
+[[Joshua 2 - My Notes|◀ Joshua 2]] · [[Joshua 4 - My Notes|Joshua 4 ▶]]
+
+## 📖 Study Guide
 
 ![[Joshua 3 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

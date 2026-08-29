@@ -12,14 +12,15 @@ cssclasses:
 
 # Hosea 7 — My Study
 
-[[Hosea 7 (Annotated)|Annotated view]] · [[Hosea 7|Plain text]] · [[Hosea 7 - Study Guide|Study guide]] · [[Hosea]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Hosea 7|📜 Scripture only]] · [[Hosea 7 (Annotated)|🔍 Annotated]] · [[Hosea 7 - Study Guide|📖 Study guide]] · [[Hosea|📚 Hosea]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Hosea 7]]
 
-## Scripture Graph
+[[Hosea 6 - My Notes|◀ Hosea 6]] · [[Hosea 8 - My Notes|Hosea 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Hosea 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

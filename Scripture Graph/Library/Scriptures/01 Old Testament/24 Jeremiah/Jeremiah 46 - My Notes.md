@@ -12,14 +12,15 @@ cssclasses:
 
 # Jeremiah 46 — My Study
 
-[[Jeremiah 46 (Annotated)|Annotated view]] · [[Jeremiah 46|Plain text]] · [[Jeremiah 46 - Study Guide|Study guide]] · [[Jeremiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jeremiah 46|📜 Scripture only]] · [[Jeremiah 46 (Annotated)|🔍 Annotated]] · [[Jeremiah 46 - Study Guide|📖 Study guide]] · [[Jeremiah|📚 Jeremiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jeremiah 46]]
 
-## Scripture Graph
+[[Jeremiah 45 - My Notes|◀ Jeremiah 45]] · [[Jeremiah 47 - My Notes|Jeremiah 47 ▶]]
+
+## 📖 Study Guide
 
 ![[Jeremiah 46 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

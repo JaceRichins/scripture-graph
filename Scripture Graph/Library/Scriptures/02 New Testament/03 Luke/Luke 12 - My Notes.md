@@ -12,14 +12,15 @@ cssclasses:
 
 # Luke 12 — My Study
 
-[[Luke 12 (Annotated)|Annotated view]] · [[Luke 12|Plain text]] · [[Luke 12 - Study Guide|Study guide]] · [[Luke]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Luke 12|📜 Scripture only]] · [[Luke 12 (Annotated)|🔍 Annotated]] · [[Luke 12 - Study Guide|📖 Study guide]] · [[Luke|📚 Luke]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Luke 12]]
 
-## Scripture Graph
+[[Luke 11 - My Notes|◀ Luke 11]] · [[Luke 13 - My Notes|Luke 13 ▶]]
+
+## 📖 Study Guide
 
 ![[Luke 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

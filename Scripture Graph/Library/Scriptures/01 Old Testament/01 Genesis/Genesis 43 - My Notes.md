@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 43 — My Study
 
-[[Genesis 43 (Annotated)|Annotated view]] · [[Genesis 43|Plain text]] · [[Genesis 43 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 43|📜 Scripture only]] · [[Genesis 43 (Annotated)|🔍 Annotated]] · [[Genesis 43 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 43]]
 
-## Scripture Graph
+[[Genesis 42 - My Notes|◀ Genesis 42]] · [[Genesis 44 - My Notes|Genesis 44 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 43 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

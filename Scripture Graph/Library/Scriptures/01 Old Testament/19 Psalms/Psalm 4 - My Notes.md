@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 4 — My Study
 
-[[Psalm 4 (Annotated)|Annotated view]] · [[Psalm 4|Plain text]] · [[Psalm 4 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 4|📜 Scripture only]] · [[Psalm 4 (Annotated)|🔍 Annotated]] · [[Psalm 4 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 4]]
 
-## Scripture Graph
+[[Psalm 3 - My Notes|◀ Psalm 3]] · [[Psalm 5 - My Notes|Psalm 5 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 4 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

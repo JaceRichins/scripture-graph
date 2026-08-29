@@ -12,14 +12,15 @@ cssclasses:
 
 # Genesis 23 — My Study
 
-[[Genesis 23 (Annotated)|Annotated view]] · [[Genesis 23|Plain text]] · [[Genesis 23 - Study Guide|Study guide]] · [[Genesis]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Genesis 23|📜 Scripture only]] · [[Genesis 23 (Annotated)|🔍 Annotated]] · [[Genesis 23 - Study Guide|📖 Study guide]] · [[Genesis|📚 Genesis]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Genesis 23]]
 
-## Scripture Graph
+[[Genesis 22 - My Notes|◀ Genesis 22]] · [[Genesis 24 - My Notes|Genesis 24 ▶]]
+
+## 📖 Study Guide
 
 ![[Genesis 23 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

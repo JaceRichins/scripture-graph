@@ -12,14 +12,15 @@ cssclasses:
 
 # Isaiah 7 — My Study
 
-[[Isaiah 7 (Annotated)|Annotated view]] · [[Isaiah 7|Plain text]] · [[Isaiah 7 - Study Guide|Study guide]] · [[Isaiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Isaiah 7|📜 Scripture only]] · [[Isaiah 7 (Annotated)|🔍 Annotated]] · [[Isaiah 7 - Study Guide|📖 Study guide]] · [[Isaiah|📚 Isaiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Isaiah 7]]
 
-## Scripture Graph
+[[Isaiah 6 - My Notes|◀ Isaiah 6]] · [[Isaiah 8 - My Notes|Isaiah 8 ▶]]
+
+## 📖 Study Guide
 
 ![[Isaiah 7 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

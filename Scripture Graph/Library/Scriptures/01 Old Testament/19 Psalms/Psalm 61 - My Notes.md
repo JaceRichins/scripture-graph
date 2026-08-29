@@ -12,14 +12,15 @@ cssclasses:
 
 # Psalm 61 — My Study
 
-[[Psalm 61 (Annotated)|Annotated view]] · [[Psalm 61|Plain text]] · [[Psalm 61 - Study Guide|Study guide]] · [[Psalms]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Psalm 61|📜 Scripture only]] · [[Psalm 61 (Annotated)|🔍 Annotated]] · [[Psalm 61 - Study Guide|📖 Study guide]] · [[Psalms|📚 Psalms]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Psalm 61]]
 
-## Scripture Graph
+[[Psalm 60 - My Notes|◀ Psalm 60]] · [[Psalm 62 - My Notes|Psalm 62 ▶]]
+
+## 📖 Study Guide
 
 ![[Psalm 61 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

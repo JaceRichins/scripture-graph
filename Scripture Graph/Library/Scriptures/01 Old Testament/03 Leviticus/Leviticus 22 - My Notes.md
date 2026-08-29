@@ -12,14 +12,15 @@ cssclasses:
 
 # Leviticus 22 — My Study
 
-[[Leviticus 22 (Annotated)|Annotated view]] · [[Leviticus 22|Plain text]] · [[Leviticus 22 - Study Guide|Study guide]] · [[Leviticus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Leviticus 22|📜 Scripture only]] · [[Leviticus 22 (Annotated)|🔍 Annotated]] · [[Leviticus 22 - Study Guide|📖 Study guide]] · [[Leviticus|📚 Leviticus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Leviticus 22]]
 
-## Scripture Graph
+[[Leviticus 21 - My Notes|◀ Leviticus 21]] · [[Leviticus 23 - My Notes|Leviticus 23 ▶]]
+
+## 📖 Study Guide
 
 ![[Leviticus 22 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

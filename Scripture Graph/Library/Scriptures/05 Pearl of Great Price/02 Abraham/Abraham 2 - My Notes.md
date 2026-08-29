@@ -12,14 +12,15 @@ cssclasses:
 
 # Abraham 2 — My Study
 
-[[Abraham 2 (Annotated)|Annotated view]] · [[Abraham 2|Plain text]] · [[Abraham 2 - Study Guide|Study guide]] · [[Abraham]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Abraham 2|📜 Scripture only]] · [[Abraham 2 (Annotated)|🔍 Annotated]] · [[Abraham 2 - Study Guide|📖 Study guide]] · [[Abraham|📚 Abraham]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Abraham 2]]
 
-## Scripture Graph
+[[Abraham 1 - My Notes|◀ Abraham 1]] · [[Abraham 3 - My Notes|Abraham 3 ▶]]
+
+## 📖 Study Guide
 
 ![[Abraham 2 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

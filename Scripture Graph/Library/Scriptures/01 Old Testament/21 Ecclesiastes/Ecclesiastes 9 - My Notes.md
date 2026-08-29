@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 9 — My Study
 
-[[Ecclesiastes 9 (Annotated)|Annotated view]] · [[Ecclesiastes 9|Plain text]] · [[Ecclesiastes 9 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 9|📜 Scripture only]] · [[Ecclesiastes 9 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 9 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 9]]
 
-## Scripture Graph
+[[Ecclesiastes 8 - My Notes|◀ Ecclesiastes 8]] · [[Ecclesiastes 10 - My Notes|Ecclesiastes 10 ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 9 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

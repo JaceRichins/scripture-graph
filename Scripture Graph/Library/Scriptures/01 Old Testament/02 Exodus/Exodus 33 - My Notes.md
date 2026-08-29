@@ -12,14 +12,15 @@ cssclasses:
 
 # Exodus 33 — My Study
 
-[[Exodus 33 (Annotated)|Annotated view]] · [[Exodus 33|Plain text]] · [[Exodus 33 - Study Guide|Study guide]] · [[Exodus]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Exodus 33|📜 Scripture only]] · [[Exodus 33 (Annotated)|🔍 Annotated]] · [[Exodus 33 - Study Guide|📖 Study guide]] · [[Exodus|📚 Exodus]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Exodus 33]]
 
-## Scripture Graph
+[[Exodus 32 - My Notes|◀ Exodus 32]] · [[Exodus 34 - My Notes|Exodus 34 ▶]]
+
+## 📖 Study Guide
 
 ![[Exodus 33 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

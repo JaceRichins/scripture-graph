@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 5 — My Study
 
-[[Proverbs 5 (Annotated)|Annotated view]] · [[Proverbs 5|Plain text]] · [[Proverbs 5 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 5|📜 Scripture only]] · [[Proverbs 5 (Annotated)|🔍 Annotated]] · [[Proverbs 5 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 5]]
 
-## Scripture Graph
+[[Proverbs 4 - My Notes|◀ Proverbs 4]] · [[Proverbs 6 - My Notes|Proverbs 6 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 5 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

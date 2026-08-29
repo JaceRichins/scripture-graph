@@ -12,14 +12,15 @@ cssclasses:
 
 # Job 24 — My Study
 
-[[Job 24 (Annotated)|Annotated view]] · [[Job 24|Plain text]] · [[Job 24 - Study Guide|Study guide]] · [[Job]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Job 24|📜 Scripture only]] · [[Job 24 (Annotated)|🔍 Annotated]] · [[Job 24 - Study Guide|📖 Study guide]] · [[Job|📚 Job]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Job 24]]
 
-## Scripture Graph
+[[Job 23 - My Notes|◀ Job 23]] · [[Job 25 - My Notes|Job 25 ▶]]
+
+## 📖 Study Guide
 
 ![[Job 24 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

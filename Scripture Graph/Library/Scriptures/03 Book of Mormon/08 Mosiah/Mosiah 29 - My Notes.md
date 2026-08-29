@@ -12,14 +12,15 @@ cssclasses:
 
 # Mosiah 29 — My Study
 
-[[Mosiah 29 (Annotated)|Annotated view]] · [[Mosiah 29|Plain text]] · [[Mosiah 29 - Study Guide|Study guide]] · [[Mosiah]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Mosiah 29|📜 Scripture only]] · [[Mosiah 29 (Annotated)|🔍 Annotated]] · [[Mosiah 29 - Study Guide|📖 Study guide]] · [[Mosiah|📚 Mosiah]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Mosiah 29]]
 
-## Scripture Graph
+[[Mosiah 28 - My Notes|◀ Mosiah 28]] · [[Mosiah|Mosiah ▶]]
+
+## 📖 Study Guide
 
 ![[Mosiah 29 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

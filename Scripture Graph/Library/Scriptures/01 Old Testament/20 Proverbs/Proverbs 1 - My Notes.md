@@ -12,14 +12,15 @@ cssclasses:
 
 # Proverbs 1 — My Study
 
-[[Proverbs 1 (Annotated)|Annotated view]] · [[Proverbs 1|Plain text]] · [[Proverbs 1 - Study Guide|Study guide]] · [[Proverbs]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Proverbs 1|📜 Scripture only]] · [[Proverbs 1 (Annotated)|🔍 Annotated]] · [[Proverbs 1 - Study Guide|📖 Study guide]] · [[Proverbs|📚 Proverbs]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Proverbs 1]]
 
-## Scripture Graph
+[[Proverbs|◀ Proverbs]] · [[Proverbs 2 - My Notes|Proverbs 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Proverbs 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

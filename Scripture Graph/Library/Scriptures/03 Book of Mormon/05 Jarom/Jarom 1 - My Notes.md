@@ -12,14 +12,15 @@ cssclasses:
 
 # Jarom 1 — My Study
 
-[[Jarom 1 (Annotated)|Annotated view]] · [[Jarom 1|Plain text]] · [[Jarom 1 - Study Guide|Study guide]] · [[Jarom]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jarom 1|📜 Scripture only]] · [[Jarom 1 (Annotated)|🔍 Annotated]] · [[Jarom 1 - Study Guide|📖 Study guide]] · [[Jarom|📚 Jarom]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jarom 1]]
 
-## Scripture Graph
+[[Jarom|◀ Jarom]] · [[Jarom|Jarom ▶]]
+
+## 📖 Study Guide
 
 ![[Jarom 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

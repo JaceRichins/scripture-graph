@@ -12,14 +12,15 @@ cssclasses:
 
 # Jacob 6 — My Study
 
-[[Jacob 6 (Annotated)|Annotated view]] · [[Jacob 6|Plain text]] · [[Jacob 6 - Study Guide|Study guide]] · [[Jacob]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Jacob 6|📜 Scripture only]] · [[Jacob 6 (Annotated)|🔍 Annotated]] · [[Jacob 6 - Study Guide|📖 Study guide]] · [[Jacob|📚 Jacob]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Jacob 6]]
 
-## Scripture Graph
+[[Jacob 5 - My Notes|◀ Jacob 5]] · [[Jacob 7 - My Notes|Jacob 7 ▶]]
+
+## 📖 Study Guide
 
 ![[Jacob 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

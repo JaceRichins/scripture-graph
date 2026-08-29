@@ -12,14 +12,15 @@ cssclasses:
 
 # Galatians 6 — My Study
 
-[[Galatians 6 (Annotated)|Annotated view]] · [[Galatians 6|Plain text]] · [[Galatians 6 - Study Guide|Study guide]] · [[Galatians]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Galatians 6|📜 Scripture only]] · [[Galatians 6 (Annotated)|🔍 Annotated]] · [[Galatians 6 - Study Guide|📖 Study guide]] · [[Galatians|📚 Galatians]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Galatians 6]]
 
-## Scripture Graph
+[[Galatians 5 - My Notes|◀ Galatians 5]] · [[Galatians|Galatians ▶]]
+
+## 📖 Study Guide
 
 ![[Galatians 6 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

@@ -12,14 +12,15 @@ cssclasses:
 
 # Revelation 8 — My Study
 
-[[Revelation 8 (Annotated)|Annotated view]] · [[Revelation 8|Plain text]] · [[Revelation 8 - Study Guide|Study guide]] · [[Revelation]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Revelation 8|📜 Scripture only]] · [[Revelation 8 (Annotated)|🔍 Annotated]] · [[Revelation 8 - Study Guide|📖 Study guide]] · [[Revelation|📚 Revelation]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Revelation 8]]
 
-## Scripture Graph
+[[Revelation 7 - My Notes|◀ Revelation 7]] · [[Revelation 9 - My Notes|Revelation 9 ▶]]
+
+## 📖 Study Guide
 
 ![[Revelation 8 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

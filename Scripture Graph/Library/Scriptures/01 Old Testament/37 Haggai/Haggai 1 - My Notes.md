@@ -12,14 +12,15 @@ cssclasses:
 
 # Haggai 1 — My Study
 
-[[Haggai 1 (Annotated)|Annotated view]] · [[Haggai 1|Plain text]] · [[Haggai 1 - Study Guide|Study guide]] · [[Haggai]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Haggai 1|📜 Scripture only]] · [[Haggai 1 (Annotated)|🔍 Annotated]] · [[Haggai 1 - Study Guide|📖 Study guide]] · [[Haggai|📚 Haggai]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Haggai 1]]
 
-## Scripture Graph
+[[Haggai|◀ Haggai]] · [[Haggai 2 - My Notes|Haggai 2 ▶]]
+
+## 📖 Study Guide
 
 ![[Haggai 1 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes

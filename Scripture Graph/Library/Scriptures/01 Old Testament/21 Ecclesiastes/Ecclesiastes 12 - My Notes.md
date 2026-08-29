@@ -12,14 +12,15 @@ cssclasses:
 
 # Ecclesiastes 12 — My Study
 
-[[Ecclesiastes 12 (Annotated)|Annotated view]] · [[Ecclesiastes 12|Plain text]] · [[Ecclesiastes 12 - Study Guide|Study guide]] · [[Ecclesiastes]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[Ecclesiastes 12|📜 Scripture only]] · [[Ecclesiastes 12 (Annotated)|🔍 Annotated]] · [[Ecclesiastes 12 - Study Guide|📖 Study guide]] · [[Ecclesiastes|📚 Ecclesiastes]] · [[Study Hub|🏠 Study Hub]]
 
 ![[Ecclesiastes 12]]
 
-## Scripture Graph
+[[Ecclesiastes 11 - My Notes|◀ Ecclesiastes 11]] · [[Ecclesiastes|Ecclesiastes ▶]]
+
+## 📖 Study Guide
 
 ![[Ecclesiastes 12 - Study Guide]]
 
-## My Notes
+## ✍️ My Notes
