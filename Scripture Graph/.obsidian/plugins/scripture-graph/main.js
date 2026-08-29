@@ -8031,3 +8031,5 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     else await this.app.vault.create(path, content);
   }
 };
+
+/* sg-build 0.5.1 */
