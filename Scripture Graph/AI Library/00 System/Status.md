@@ -6,29 +6,29 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-29T07:06:17Z.*
+*Generated 2026-08-29T07:36:45Z.*
 
-- Engine: v0.1.0 · corpus **v5** · bootstrap **STEADY_STATE** · git `3c104b05`
+- Engine: v0.1.0 · corpus **v5** · bootstrap **STEADY_STATE** · git `e2b6eb0d`
 - Scripture: 88 books, 1584 chapters, 42027 verses
-- Graph: 108 topics · 167 people · 82 places · 187 evidence notes · 4 questions
+- Graph: 108 topics · 167 people · 82 places · 195 evidence notes · 4 questions
 - Personal notes indexed: 3172
 - Documents: 2224 (902 conference talks)
 - Index: 198571 chunks · embeddings: hash/hash-ngram-v1 (196978)
-- Work queue: {'dead': 120, 'pending': 2}
-- **Today:** 12 study ticks · 22 research jobs applied · 696 new claims
+- Work queue: {'dead': 120, 'pending': 22}
+- **Today:** 13 study ticks · 25 research jobs applied · 782 new claims
 - Secondary sources: 2 approved · 80 episodes tracked · 1 ingested
 - AI providers: claude: not installed, codex: ready
 
 ## Coverage
 
-Overall: mean **52.7**, stddev 5.8, min 30.9
+Overall: mean **52.9**, stddev 6.15, min 31.2
 
 | Volume | Mean | Min | P10 |
 | --- | --- | --- | --- |
-| Old Testament | 51.4 | 43.9 | 47.8 |
-| New Testament | 54.6 | 45.8 | 51.3 |
-| Book of Mormon | 54.2 | 45.8 | 47.8 |
-| Doctrine and Covenants | 55.0 | 30.9 | 50.8 |
+| Old Testament | 51.8 | 45.3 | 47.8 |
+| New Testament | 54.6 | 46.5 | 51.7 |
+| Book of Mormon | 54.2 | 46.5 | 47.8 |
+| Doctrine and Covenants | 55.0 | 31.2 | 51.2 |
 | Pearl of Great Price | 57.4 | 52.2 | 52.2 |
 
 ## Next in the refinement queue
@@ -44,8 +44,8 @@ Overall: mean **52.7**, stddev 5.8, min 30.9
 
 ## Recent runs
 
-- study: 2026-08-29T06:45:03Z → … (running)
+- study: 2026-08-29T07:15:03Z → … (running)
+- study: 2026-08-29T06:45:03Z → 2026-08-29T07:06:17Z (ok)
 - frequent: 2026-08-29T06:15:03Z → 2026-08-29T06:15:03Z (ok)
 - study: 2026-08-29T05:45:03Z → 2026-08-29T06:04:59Z (ok)
 - study: 2026-08-29T05:15:03Z → 2026-08-29T05:15:58Z (ok)
-- study: 2026-08-29T04:45:03Z → 2026-08-29T04:45:56Z (ok)
