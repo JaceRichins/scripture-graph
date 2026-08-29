@@ -27,9 +27,45 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
   if (!linkText) return void new Notice("Nothing to graph here yet");
   const f = s.app.metadataCache.getFirstLinkpathDest(linkText, "");
   if (!f) return void new Notice(`Can't find “${linkText}”`);
-  const leaf = s.app.workspace.getLeaf("tab");
-  await leaf.setViewState({ type: "localgraph", active: true, state: { file: f.path } });
-  await s.app.workspace.revealLeaf(leaf);
+  const ws = s.app.workspace as unknown as {
+    getLeaf: (mode: unknown) => {
+      setViewState: (st: unknown) => Promise<void>;
+      view?: { containerEl?: HTMLElement };
+      detach?: () => void;
+    };
+    getMostRecentLeaf?: () => unknown;
+    revealLeaf: (l: unknown) => Promise<void>;
+    setActiveLeaf?: (l: unknown, o?: unknown) => void;
+  };
+  const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
+  // desktop: side-by-side so the reading stays visible; mobile: new tab
+  const leaf = ws.getLeaf(Platform.isMobile ? "tab" : "split");
+  await leaf.setViewState({
+    type: "localgraph", active: true,
+    state: {
+      file: f.path,
+      // labels visible WITHOUT zooming (mobile complaint), chunkier nodes,
+      // neighbor-to-neighbor links on, noise off
+      options: {
+        textFadeMultiplier: 3, nodeSizeMultiplier: 1.3, lineSizeMultiplier: 1,
+        showArrow: false, localJumps: 1, localBacklinks: true,
+        localForelinks: true, localInterlinks: true,
+        showTags: false, showAttachments: false, hideUnresolved: true,
+      },
+    },
+  });
+  await ws.revealLeaf(leaf);
+  // mobile: a floating "← back" pill returns exactly to the reading spot
+  if (Platform.isMobile && returnLeaf) {
+    const container = leaf.view?.containerEl;
+    if (container) {
+      const back = container.createDiv({ cls: "sg-graph-back", text: `← ${linkText}` });
+      back.onclick = () => {
+        leaf.detach?.();
+        ws.setActiveLeaf?.(returnLeaf, { focus: true });
+      };
+    }
+  }
   trace("graph.open", { file: f.path });
 }
 
