@@ -289,20 +289,29 @@ def render_personal_scaffold(book: Book, chapter: int) -> str:
         "slug": f"{book.slug}-{chapter}",
         "cssclasses": ["sg-personal"],
     }
+    prev_nav = (f"[[{personal_title(book, chapter - 1)}|◀ {chapter_title(book, chapter - 1)}]]"
+                if chapter > 1 else f"[[{book.name}|◀ {book.name}]]")
+    next_nav = (f"[[{personal_title(book, chapter + 1)}|{chapter_title(book, chapter + 1)} ▶]]"
+                if chapter < book.chapters else f"[[{book.name}|{book.name} ▶]]")
+    # Reading-first: the page opens straight into scripture (the embed's own
+    # title/H1 are hidden by the plugin CSS); navigation folds away in a
+    # collapsed callout; My Notes stays LAST so the ✍️ dialog appends there.
     body = f"""# {title} — My Study
 
-[[{title} (Annotated)|Annotated view]] · [[{title}|Plain text]] · \
-[[{study_title(book, chapter)}|Study guide]] · [[{book.name}]] · [[Study Hub]]
-
-## Scripture
+> [!tip]- Views & navigation
+> [[{title}|📜 Scripture only]] · [[{title} (Annotated)|🔍 Annotated]] · \
+[[{study_title(book, chapter)}|📖 Study guide]] · [[{book.name}|📚 {book.name}]] · \
+[[Study Hub|🏠 Study Hub]]
 
 ![[{title}]]
 
-## Scripture Graph
+{prev_nav} · {next_nav}
+
+## 📖 Study Guide
 
 ![[{study_title(book, chapter)}]]
 
-## My Notes
+## ✍️ My Notes
 
 """
     return md.build_note(fm, body)

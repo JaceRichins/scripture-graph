@@ -63,7 +63,6 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 }
 .sg-lens.on { background: var(--interactive-accent); color: var(--text-on-accent); }
 .sg-reader-scripture p { line-height: 1.75; margin: 0.55em 0; }
-.sg-reader-scripture strong { opacity: 0.55; font-size: 0.85em; margin-right: 2px; }
 .sg-section { margin: 10px 0; border: 1px solid var(--background-modifier-border); border-radius: 8px; padding: 4px 12px; }
 .sg-section summary { cursor: pointer; font-weight: 600; padding: 6px 0; }
 
@@ -79,6 +78,45 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 
 /* ---------- welcome ------------------------------------------------------- */
 .sg-welcome p { opacity: 0.85; }
+
+/* ---------- verse-number chips: the tap target ---------------------------- */
+.markdown-preview-view [data-verse-id] > strong,
+.sg-reader [data-verse-id] > strong {
+  position: relative;
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 30px; min-height: 28px;
+  margin: -2px 8px -2px 0; padding: 1px 7px;
+  border-radius: 9px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 75%, transparent);
+  color: var(--text-muted);
+  font-size: 0.78em; font-weight: 600; line-height: 1;
+  opacity: 1; cursor: pointer;
+  -webkit-user-select: none; user-select: none;
+  transition: background 0.12s ease, color 0.12s ease, transform 0.08s ease;
+}
+/* invisible halo = ~46px effective touch target without moving the layout */
+.markdown-preview-view [data-verse-id] > strong::after,
+.sg-reader [data-verse-id] > strong::after {
+  content: ""; position: absolute; inset: -9px;
+}
+.markdown-preview-view [data-verse-id] > strong:active,
+.sg-reader [data-verse-id] > strong:active { transform: scale(0.9); }
+[data-verse-id].sg-vsel > strong {
+  background: var(--interactive-accent);
+  border-color: transparent;
+  color: var(--text-on-accent);
+}
+
+/* ---------- My Study pages (.sg-personal): reading-first ------------------ */
+/* the embedded scripture/guide render as part of the page — no embed chrome,
+   no duplicated titles, no indent boxes */
+.sg-personal .markdown-embed { border: none; padding: 0; margin: 0; }
+.sg-personal .markdown-embed-title { display: none; }
+.sg-personal .markdown-embed-link { display: none; }
+.sg-personal .markdown-embed h1 { display: none; }
+.sg-personal .markdown-embed .markdown-embed-content { max-height: none; }
+.sg-personal .markdown-preview-view h1 { margin-bottom: 0.3em; }
 
 /* ---------- themed verses (whole-verse, stackable) ------------------------ */
 .sg-themed {
