@@ -149,8 +149,30 @@ const SCENE_KEYWORDS: [string, RegExp][] = [
   ["candle", /\b(candle|lamp|oil|watch|evening|supper|upper room|pray|vigil)/gi],
 ];
 
-/** pick the ambient scene that best matches the chapter's own words */
-export function matchScene(chapterText: string): string {
+/** curated worlds for books/chapters where the right scene is known —
+ * keyword scoring is only the fallback */
+export const SCENE_OVERRIDES: Record<string, string> = {
+  // chapters
+  "ps-23": "waters", "gen-1": "starlight", "ex-3": "desert", "ex-14": "waters",
+  "matt-2": "starlight", "matt-26": "candle", "john-13": "candle",
+  "john-17": "candle", "luke-2": "starlight", "luke-22": "candle",
+  "3ne-1": "starlight", "1ne-18": "waters", "ether-6": "waters",
+  "dc-121": "candle", "jsh-1": "sunrise", "alma-36": "sunrise",
+  // whole books
+  "2tim": "candle", "eph": "candle", "philip": "candle", "col": "candle",
+  "philem": "candle", "rev": "starlight", "abr": "starlight",
+  "ex": "desert", "num": "desert", "deut": "desert",
+  "jonah": "waters", "ruth": "sunrise", "song": "sunrise",
+};
+
+/** pick the ambient scene: curated override first, else the chapter's words */
+export function matchScene(chapterText: string, slug?: string): string {
+  if (slug) {
+    if (SCENE_OVERRIDES[slug]) return SCENE_OVERRIDES[slug]!;
+    const dash = slug.lastIndexOf("-");
+    const book = dash > 0 ? slug.slice(0, dash) : slug;
+    if (SCENE_OVERRIDES[book]) return SCENE_OVERRIDES[book]!;
+  }
   let best = "sunrise";
   let bestScore = 0;
   for (const [scene, re] of SCENE_KEYWORDS) {

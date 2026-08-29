@@ -383,16 +383,26 @@ export default class SGPlugin extends Plugin {
     }
   }
 
-  /** In "match" mode the scene follows the chapter's own words. */
+  /** In "match" mode the scene follows the chapter's own words.
+   * A My Notes page only CONTAINS an embed reference — the scripture text
+   * lives in the canonical file, so resolve to that before scoring. */
   async matchSceneToChapter(f: TFile): Promise<void> {
     if (this.state.device.scene !== "match") return;
-    const isChapterish = (f.path.startsWith(CANONICAL_PREFIX)
-      || (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")));
-    if (!isChapterish) return;
+    let target: TFile | null = null;
+    if (f.path.startsWith(CANONICAL_PREFIX) && chapterIdFromTitle(f.basename)) {
+      target = f;
+    } else if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+      const dest = this.app.metadataCache.getFirstLinkpathDest(
+        f.basename.replace(/ - My Notes$/, ""), "");
+      if (dest?.path.startsWith(CANONICAL_PREFIX)) target = dest;
+    }
+    if (!target) return;
     try {
       const { matchScene } = await import("./study/presence");
-      const text = await this.app.vault.cachedRead(f);
-      this.scenes.apply(matchScene(text));
+      const slug = (this.app.metadataCache.getFileCache(target)?.frontmatter as
+        { slug?: string } | undefined)?.slug;
+      const text = await this.app.vault.cachedRead(target);
+      this.scenes.apply(matchScene(text, slug));
     } catch { /* keep current scene */ }
   }
 

@@ -6508,6 +6508,7 @@ ${text}` : text;
 var presence_exports = {};
 __export(presence_exports, {
   CHAPTER_VOICES: () => CHAPTER_VOICES,
+  SCENE_OVERRIDES: () => SCENE_OVERRIDES,
   VOICES: () => VOICES,
   matchScene: () => matchScene,
   voiceFor: () => voiceFor
@@ -6520,7 +6521,13 @@ function voiceFor(slug) {
   const over = CHAPTER_VOICES[slug];
   return { v: { ...v, ...over }, chapterLine: over?.line ?? null };
 }
-function matchScene(chapterText) {
+function matchScene(chapterText, slug) {
+  if (slug) {
+    if (SCENE_OVERRIDES[slug]) return SCENE_OVERRIDES[slug];
+    const dash = slug.lastIndexOf("-");
+    const book = dash > 0 ? slug.slice(0, dash) : slug;
+    if (SCENE_OVERRIDES[book]) return SCENE_OVERRIDES[book];
+  }
   let best = "sunrise";
   let bestScore = 0;
   for (const [scene, re] of SCENE_KEYWORDS) {
@@ -6532,7 +6539,7 @@ function matchScene(chapterText) {
   }
   return best;
 }
-var VOICES, CHAPTER_VOICES, SCENE_KEYWORDS;
+var VOICES, CHAPTER_VOICES, SCENE_KEYWORDS, SCENE_OVERRIDES;
 var init_presence = __esm({
   "src/study/presence.ts"() {
     "use strict";
@@ -6655,6 +6662,39 @@ var init_presence = __esm({
       ["sunrise", /\b(morning|dawn|sunris|light|day ?spring|east|arise|awake)/gi],
       ["candle", /\b(candle|lamp|oil|watch|evening|supper|upper room|pray|vigil)/gi]
     ];
+    SCENE_OVERRIDES = {
+      // chapters
+      "ps-23": "waters",
+      "gen-1": "starlight",
+      "ex-3": "desert",
+      "ex-14": "waters",
+      "matt-2": "starlight",
+      "matt-26": "candle",
+      "john-13": "candle",
+      "john-17": "candle",
+      "luke-2": "starlight",
+      "luke-22": "candle",
+      "3ne-1": "starlight",
+      "1ne-18": "waters",
+      "ether-6": "waters",
+      "dc-121": "candle",
+      "jsh-1": "sunrise",
+      "alma-36": "sunrise",
+      // whole books
+      "2tim": "candle",
+      "eph": "candle",
+      "philip": "candle",
+      "col": "candle",
+      "philem": "candle",
+      "rev": "starlight",
+      "abr": "starlight",
+      "ex": "desert",
+      "num": "desert",
+      "deut": "desert",
+      "jonah": "waters",
+      "ruth": "sunrise",
+      "song": "sunrise"
+    };
   }
 });
 
@@ -9218,15 +9258,27 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       new import_obsidian12.Notice("No My Notes page exists for this chapter yet");
     }
   }
-  /** In "match" mode the scene follows the chapter's own words. */
+  /** In "match" mode the scene follows the chapter's own words.
+   * A My Notes page only CONTAINS an embed reference — the scripture text
+   * lives in the canonical file, so resolve to that before scoring. */
   async matchSceneToChapter(f) {
     if (this.state.device.scene !== "match") return;
-    const isChapterish = f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md");
-    if (!isChapterish) return;
+    let target = null;
+    if (f.path.startsWith(CANONICAL_PREFIX) && chapterIdFromTitle(f.basename)) {
+      target = f;
+    } else if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+      const dest = this.app.metadataCache.getFirstLinkpathDest(
+        f.basename.replace(/ - My Notes$/, ""),
+        ""
+      );
+      if (dest?.path.startsWith(CANONICAL_PREFIX)) target = dest;
+    }
+    if (!target) return;
     try {
       const { matchScene: matchScene2 } = await Promise.resolve().then(() => (init_presence(), presence_exports));
-      const text = await this.app.vault.cachedRead(f);
-      this.scenes.apply(matchScene2(text));
+      const slug = this.app.metadataCache.getFileCache(target)?.frontmatter?.slug;
+      const text = await this.app.vault.cachedRead(target);
+      this.scenes.apply(matchScene2(text, slug));
     } catch {
     }
   }
