@@ -9,7 +9,7 @@ import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
 import type { StudyBar } from "../study/studyBar";
 import { voiceFor } from "../study/presence";
-import { ConnectionsModal, connectionsFor } from "./connections";
+import { ConnectionsModal, clearConnectionsCache, connectionsFor } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
 
 export interface SelectionHit {

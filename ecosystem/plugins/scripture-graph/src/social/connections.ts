@@ -101,13 +101,13 @@ export function connectionsFor(app: App, chapterPath: string, slug: string): Cha
   return conns;
 }
 
-/** the line a page says about this verse, stripped down to plain words */
-export async function snippetFor(app: App, conn: VerseConnection, verseId: string): Promise<string | null> {
+/** the line a page says about this verse/chapter, stripped to plain words */
+export async function snippetFor(app: App, conn: VerseConnection, needle: string): Promise<string | null> {
   const f = app.vault.getAbstractFileByPath(conn.path);
   if (!(f instanceof TFile)) return null;
   try {
     const text = await app.vault.cachedRead(f);
-    const line = text.split("\n").find(ln => ln.includes(`#^${verseId}`));
+    const line = text.split("\n").find(ln => ln.includes(needle));
     if (!line) return null;
     const plain = line
       .replace(/!?\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2")  // links → their display text
@@ -126,25 +126,37 @@ export async function snippetFor(app: App, conn: VerseConnection, verseId: strin
 export class ConnectionsModal extends Modal {
   constructor(
     private s: SGState,
-    private verseId: string,
+    private title: string,
+    private sub: string,
+    private needle: string,
     private conns: VerseConnection[],
     private openGraph: () => void,
   ) {
     super(s.app);
   }
 
+  /** sheet for one verse's citations */
+  static forVerse(s: SGState, verseId: string, conns: VerseConnection[], openGraph: () => void): ConnectionsModal {
+    return new ConnectionsModal(s,
+      `⇄ ${verseDisplay(verseId) ?? verseId}`,
+      `${conns.length} page${conns.length === 1 ? "" : "s"} in your library cite this verse`,
+      `#^${verseId}`, conns, openGraph);
+  }
+
+  /** sheet for everything connected to the whole chapter */
+  static forChapter(s: SGState, chapterTitle: string, conns: VerseConnection[], openGraph: () => void): ConnectionsModal {
+    return new ConnectionsModal(s,
+      `⇄ ${chapterTitle}`,
+      `${conns.length} page${conns.length === 1 ? "" : "s"} in your library connect to this chapter`,
+      `[[${chapterTitle}`, conns, openGraph);
+  }
+
   onOpen(): void {
     const c = this.contentEl;
     this.modalEl.addClass("sg-conn-modal");
     c.addClass("sg-conn");
-    c.createEl("h3", {
-      cls: "sg-conn-title",
-      text: `⇄ ${verseDisplay(this.verseId) ?? this.verseId}`,
-    });
-    c.createDiv({
-      cls: "sg-conn-sub",
-      text: `${this.conns.length} page${this.conns.length === 1 ? "" : "s"} in your library cite this verse`,
-    });
+    c.createEl("h3", { cls: "sg-conn-title", text: this.title });
+    c.createDiv({ cls: "sg-conn-sub", text: this.sub });
     const list = c.createDiv({ cls: "sg-conn-list" });
     for (const conn of this.conns.slice(0, 14)) {
       const row = list.createDiv({ cls: "sg-conn-row" });
@@ -152,7 +164,7 @@ export class ConnectionsModal extends Modal {
       head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
       head.createSpan({ cls: "sg-conn-name", text: conn.name });
       const snip = row.createDiv({ cls: "sg-conn-snippet", text: "…" });
-      void snippetFor(this.s.app, conn, this.verseId).then(t => {
+      void snippetFor(this.s.app, conn, this.needle).then(t => {
         if (t) snip.setText(t);
         else snip.remove();
       });
