@@ -6,46 +6,46 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-29T08:05:59Z.*
+*Generated 2026-08-29T12:55:58Z.*
 
-- Engine: v0.1.0 · corpus **v5** · bootstrap **STEADY_STATE** · git `b263a373`
+- Engine: v0.1.0 · corpus **v7** · bootstrap **STEADY_STATE** · git `9e73ef43`
 - Scripture: 88 books, 1584 chapters, 42027 verses
-- Graph: 108 topics · 167 people · 82 places · 204 evidence notes · 4 questions
+- Graph: 108 topics · 167 people · 82 places · 259 evidence notes · 4 questions
 - Personal notes indexed: 3172
-- Documents: 2224 (902 conference talks)
-- Index: 198571 chunks · embeddings: hash/hash-ngram-v1 (196978)
-- Work queue: {'dead': 120, 'pending': 19}
-- **Today:** 14 study ticks · 28 research jobs applied · 872 new claims
-- Secondary sources: 2 approved · 80 episodes tracked · 1 ingested
+- Documents: 2540 (1060 conference talks)
+- Index: 203939 chunks · embeddings: hash/hash-ngram-v1 (202346)
+- Work queue: {'dead': 331, 'running': 24}
+- **Today:** 14 study ticks · 49 research jobs applied · 1499 new claims
+- Secondary sources: 2 approved · 81 episodes tracked · 2 ingested
 - AI providers: claude: not installed, codex: ready
 
 ## Coverage
 
-Overall: mean **53.0**, stddev 6.15, min 31.2
+Overall: mean **74.0**, stddev 4.94, min 67.0
 
 | Volume | Mean | Min | P10 |
 | --- | --- | --- | --- |
-| Old Testament | 51.8 | 45.3 | 47.8 |
-| New Testament | 54.6 | 46.5 | 52.2 |
-| Book of Mormon | 54.2 | 46.5 | 47.8 |
-| Doctrine and Covenants | 55.0 | 31.2 | 51.2 |
-| Pearl of Great Price | 57.4 | 52.2 | 52.2 |
+| Old Testament | 74.6 | 67.0 | 73.0 |
+| New Testament | 73.3 | 73.0 | 73.0 |
+| Book of Mormon | 73.8 | 67.0 | 73.0 |
+| Doctrine and Covenants | 72.1 | 70.1 | 71.4 |
+| Pearl of Great Price | 72.7 | 71.4 | 71.4 |
 
 ## Next in the refinement queue
 
-- `chapter:gen-4` — completeness 47.77
-- `chapter:gen-6` — completeness 47.77
-- `chapter:gen-10` — completeness 47.77
-- `chapter:gen-19` — completeness 47.77
-- `chapter:gen-24` — completeness 47.77
-- `chapter:gen-47` — completeness 47.77
-- `chapter:ex-1` — completeness 47.77
-- `chapter:ex-9` — completeness 47.77
+- `chapter:ps-69` — completeness 66.96
+- `chapter:ps-78` — completeness 66.96
+- `chapter:hel-1` — completeness 66.96
+- `chapter:ps-50` — completeness 66.96
+- `chapter:ps-51` — completeness 66.96
+- `chapter:ps-49` — completeness 66.96
+- `chapter:ps-119` — completeness 71.43
+- `chapter:dc-25` — completeness 71.43
 
 ## Recent runs
 
-- study: 2026-08-29T07:45:03Z → … (running)
+- nightly: 2026-08-29T08:30:03Z → … (running)
+- frequent: 2026-08-29T08:15:03Z → 2026-08-29T08:15:03Z (ok)
+- study: 2026-08-29T07:45:03Z → 2026-08-29T08:05:59Z (ok)
 - study: 2026-08-29T07:15:03Z → 2026-08-29T07:36:45Z (ok)
 - study: 2026-08-29T06:45:03Z → 2026-08-29T07:06:17Z (ok)
-- frequent: 2026-08-29T06:15:03Z → 2026-08-29T06:15:03Z (ok)
-- study: 2026-08-29T05:45:03Z → 2026-08-29T06:04:59Z (ok)
