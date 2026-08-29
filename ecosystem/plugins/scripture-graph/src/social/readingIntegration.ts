@@ -50,20 +50,33 @@ export function registerReadingIntegration(
     const chapterTitle = ctx.sourcePath.split("/").pop()!.replace(/\.md$/, "");
     const conns = connectionsFor(plugin.app, ctx.sourcePath, slug);
     for (const { p, verseId } of paragraphs) {
-      const list = conns.get(verseId);
+      const list = conns.byVerse.get(verseId);
       if (!list?.length || p.querySelector(".sg-conn-chip")) continue;
       const chip = p.createSpan({ cls: "sg-conn-chip", text: `⇄ ${list.length}` });
       chip.setAttr("aria-label", `${list.length} connected pages`);
       chip.onclick = (e) => {
         e.preventDefault();
         e.stopPropagation();
-        new ConnectionsModal(s, verseId, list,
+        ConnectionsModal.forVerse(s, verseId, list,
           () => void openLocalGraphFor(s, chapterTitle)).open();
       };
     }
     // PRESENCE: above verse 1, say who is speaking and from where —
     // being with the author is the point of the whole page
     const first = paragraphs.find(x => x.verseId === `${slug}-1`);
+    // even when no single verse is cited yet, the CHAPTER usually is —
+    // people/places/topics pages link it. One quiet strip says so.
+    if (first && conns.chapter.length && !el.querySelector(".sg-chap-conn")) {
+      const strip = createDiv({ cls: "sg-chap-conn" });
+      strip.createSpan({
+        text: `⇄ ${conns.chapter.length} page${conns.chapter.length === 1 ? "" : "s"} connect to this chapter`,
+      });
+      strip.onclick = () => {
+        ConnectionsModal.forChapter(s, chapterTitle, conns.chapter,
+          () => void openLocalGraphFor(s, chapterTitle)).open();
+      };
+      first.p.parentElement?.insertBefore(strip, first.p);
+    }
     if (first && !el.querySelector(".sg-voice")) {
       const found = voiceFor(slug);
       if (found) {
@@ -99,6 +112,10 @@ export function registerReadingIntegration(
     // social refresh in background, then re-decorate on next render
     void svc.refreshSocial(anchors);
   });
+
+  // connections recompute when the link index changes (files added/renamed,
+  // or the index finishing its initial build right after app launch)
+  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => clearConnectionsCache()));
 
   // ---- taps + long-press selections → StudyBar (gesture-safe wiring) -----
   bar.attach(plugin);

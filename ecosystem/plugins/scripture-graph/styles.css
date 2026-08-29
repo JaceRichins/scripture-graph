@@ -915,6 +915,23 @@ body.sg-scene-on .sg-conn-chip {
   background: rgba(255, 255, 255, 0.08);
   border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
 }
+.sg-chap-conn { /* whole-chapter connections, under the author strip */
+  display: inline-block;
+  margin: 2px 0 14px; padding: 7px 14px;
+  border-radius: 17px;
+  font-size: 0.86em; font-weight: 600;
+  color: var(--text-muted);
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+  cursor: pointer;
+  -webkit-user-select: none; user-select: none;
+}
+.sg-chap-conn:active { transform: scale(0.97); }
+body.sg-scene-on .sg-chap-conn {
+  color: var(--sg-ink-accent, #ffd88a);
+  background: rgba(255, 255, 255, 0.08);
+  border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
+}
 .sg-conn-modal { width: min(560px, 96vw); }
 .sg-conn-title { margin: 0 0 2px; }
 .sg-conn-sub { color: var(--text-muted); font-size: 0.88em; margin-bottom: 12px; }

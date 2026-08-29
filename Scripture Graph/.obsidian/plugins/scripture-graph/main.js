@@ -7670,6 +7670,7 @@ var EXCLUDED_PREFIXES = [
 ];
 var SECTIONS = [
   ["AI Library/40 Evidence/", "\u{1F50E}", 1],
+  ["AI Library/01 Scriptures/Cross References/", "\u{1F4D6}", 2],
   ["AI Library/02 Gospel Topics/", "\u{1F3F7}\uFE0F", 2],
   ["AI Library/01 Scriptures/Study Guides/", "\u{1F9E0}", 3],
   ["AI Library/03 People/", "\u{1F9D1}", 4],
@@ -7691,11 +7692,16 @@ function sectionFor(path) {
   return { emoji: "\u{1F517}", rank: 7 };
 }
 var cache = /* @__PURE__ */ new Map();
+function clearConnectionsCache() {
+  cache.clear();
+}
 function connectionsFor(app, chapterPath, slug) {
   const hit = cache.get(chapterPath);
-  if (hit && Date.now() - hit.at < 6e4) return hit.map;
-  const map = /* @__PURE__ */ new Map();
+  if (hit && Date.now() - hit.at < 6e4) return hit.conns;
+  const byVerse = /* @__PURE__ */ new Map();
+  const chapter = [];
   const anchorRe = new RegExp(`#\\^(${slug}-\\d+)$`);
+  const chapterBase = chapterPath.split("/").pop().replace(/\.md$/, "");
   const resolved = app.metadataCache.resolvedLinks;
   for (const src of Object.keys(resolved)) {
     if (!resolved[src]?.[chapterPath]) continue;
@@ -7703,6 +7709,7 @@ function connectionsFor(app, chapterPath, slug) {
     if (EXCLUDED_PREFIXES.some((p) => src.startsWith(p))) continue;
     const f = app.vault.getAbstractFileByPath(src);
     if (!(f instanceof import_obsidian4.TFile)) continue;
+    if (f.basename === `${chapterBase} - My Notes`) continue;
     const fc = app.metadataCache.getFileCache(f);
     const seen = /* @__PURE__ */ new Set();
     for (const l of [...fc?.links ?? [], ...fc?.embeds ?? []]) {
@@ -7711,22 +7718,26 @@ function connectionsFor(app, chapterPath, slug) {
       const verseId = m[1];
       if (seen.has(verseId)) continue;
       seen.add(verseId);
-      const { emoji, rank } = sectionFor(src);
-      const list = map.get(verseId) ?? [];
-      list.push({ path: src, name: f.basename, emoji, rank });
-      map.set(verseId, list);
+      const { emoji: emoji2, rank: rank2 } = sectionFor(src);
+      const list = byVerse.get(verseId) ?? [];
+      list.push({ path: src, name: f.basename, emoji: emoji2, rank: rank2 });
+      byVerse.set(verseId, list);
     }
+    const { emoji, rank } = sectionFor(src);
+    chapter.push({ path: src, name: f.basename, emoji, rank });
   }
-  for (const list of map.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
-  cache.set(chapterPath, { at: Date.now(), map });
-  return map;
+  for (const list of byVerse.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  chapter.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  const conns = { byVerse, chapter };
+  if (byVerse.size || chapter.length) cache.set(chapterPath, { at: Date.now(), conns });
+  return conns;
 }
-async function snippetFor(app, conn, verseId) {
+async function snippetFor(app, conn, needle) {
   const f = app.vault.getAbstractFileByPath(conn.path);
   if (!(f instanceof import_obsidian4.TFile)) return null;
   try {
     const text = await app.vault.cachedRead(f);
-    const line = text.split("\n").find((ln) => ln.includes(`#^${verseId}`));
+    const line = text.split("\n").find((ln) => ln.includes(needle));
     if (!line) return null;
     const plain = line.replace(/!?\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2").replace(/<!--[\s\S]*?-->/g, "").replace(/[*_=`>#]|\[!\w+\][+-]?/g, "").replace(/^\s*[-•\d.)\s]+/, "").replace(/\s+/g, " ").trim();
     if (plain.length < 8) return null;
@@ -7735,26 +7746,44 @@ async function snippetFor(app, conn, verseId) {
     return null;
   }
 }
-var ConnectionsModal = class extends import_obsidian4.Modal {
-  constructor(s, verseId, conns, openGraph) {
+var ConnectionsModal = class _ConnectionsModal extends import_obsidian4.Modal {
+  constructor(s, title, sub, needle, conns, openGraph) {
     super(s.app);
     this.s = s;
-    this.verseId = verseId;
+    this.title = title;
+    this.sub = sub;
+    this.needle = needle;
     this.conns = conns;
     this.openGraph = openGraph;
+  }
+  /** sheet for one verse's citations */
+  static forVerse(s, verseId, conns, openGraph) {
+    return new _ConnectionsModal(
+      s,
+      `\u21C4 ${verseDisplay(verseId) ?? verseId}`,
+      `${conns.length} page${conns.length === 1 ? "" : "s"} in your library cite this verse`,
+      `#^${verseId}`,
+      conns,
+      openGraph
+    );
+  }
+  /** sheet for everything connected to the whole chapter */
+  static forChapter(s, chapterTitle2, conns, openGraph) {
+    return new _ConnectionsModal(
+      s,
+      `\u21C4 ${chapterTitle2}`,
+      `${conns.length} page${conns.length === 1 ? "" : "s"} in your library connect to this chapter`,
+      `[[${chapterTitle2}`,
+      conns,
+      openGraph
+    );
   }
   onOpen() {
     const c = this.contentEl;
     this.modalEl.addClass("sg-conn-modal");
     c.addClass("sg-conn");
-    c.createEl("h3", {
-      cls: "sg-conn-title",
-      text: `\u21C4 ${verseDisplay(this.verseId) ?? this.verseId}`
-    });
-    c.createDiv({
-      cls: "sg-conn-sub",
-      text: `${this.conns.length} page${this.conns.length === 1 ? "" : "s"} in your library cite this verse`
-    });
+    c.createEl("h3", { cls: "sg-conn-title", text: this.title });
+    c.createDiv({ cls: "sg-conn-sub", text: this.sub });
     const list = c.createDiv({ cls: "sg-conn-list" });
     for (const conn of this.conns.slice(0, 14)) {
       const row = list.createDiv({ cls: "sg-conn-row" });
@@ -7762,7 +7791,7 @@ var ConnectionsModal = class extends import_obsidian4.Modal {
       head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
       head.createSpan({ cls: "sg-conn-name", text: conn.name });
       const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
-      void snippetFor(this.s.app, conn, this.verseId).then((t) => {
+      void snippetFor(this.s.app, conn, this.needle).then((t) => {
         if (t) snip.setText(t);
         else snip.remove();
       });
@@ -7812,14 +7841,14 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     const chapterTitle2 = ctx.sourcePath.split("/").pop().replace(/\.md$/, "");
     const conns = connectionsFor(plugin.app, ctx.sourcePath, slug);
     for (const { p, verseId } of paragraphs) {
-      const list = conns.get(verseId);
+      const list = conns.byVerse.get(verseId);
       if (!list?.length || p.querySelector(".sg-conn-chip")) continue;
       const chip = p.createSpan({ cls: "sg-conn-chip", text: `\u21C4 ${list.length}` });
       chip.setAttr("aria-label", `${list.length} connected pages`);
       chip.onclick = (e) => {
         e.preventDefault();
         e.stopPropagation();
-        new ConnectionsModal(
+        ConnectionsModal.forVerse(
           s,
           verseId,
           list,
@@ -7828,6 +7857,21 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
       };
     }
     const first = paragraphs.find((x) => x.verseId === `${slug}-1`);
+    if (first && conns.chapter.length && !el.querySelector(".sg-chap-conn")) {
+      const strip = createDiv({ cls: "sg-chap-conn" });
+      strip.createSpan({
+        text: `\u21C4 ${conns.chapter.length} page${conns.chapter.length === 1 ? "" : "s"} connect to this chapter`
+      });
+      strip.onclick = () => {
+        ConnectionsModal.forChapter(
+          s,
+          chapterTitle2,
+          conns.chapter,
+          () => void openLocalGraphFor(s, chapterTitle2)
+        ).open();
+      };
+      first.p.parentElement?.insertBefore(strip, first.p);
+    }
     if (first && !el.querySelector(".sg-voice")) {
       const found = voiceFor(slug);
       if (found) {
@@ -7859,6 +7903,7 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     }
     void svc.refreshSocial(anchors);
   });
+  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => clearConnectionsCache()));
   bar.attach(plugin);
   plugin.registerDomEvent(document, "contextmenu", (evt) => {
     const hit = resolveSelection(s, evt);

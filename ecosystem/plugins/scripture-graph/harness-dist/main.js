@@ -7323,12 +7323,12 @@ ${body}
   };
 
   // src/social/connections.ts
-  async function snippetFor(app, conn, verseId) {
+  async function snippetFor(app, conn, needle) {
     const f = app.vault.getAbstractFileByPath(conn.path);
     if (!(f instanceof TFile)) return null;
     try {
       const text = await app.vault.cachedRead(f);
-      const line = text.split("\n").find((ln) => ln.includes(`#^${verseId}`));
+      const line = text.split("\n").find((ln) => ln.includes(needle));
       if (!line) return null;
       const plain = line.replace(/!?\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2").replace(/<!--[\s\S]*?-->/g, "").replace(/[*_=`>#]|\[!\w+\][+-]?/g, "").replace(/^\s*[-•\d.)\s]+/, "").replace(/\s+/g, " ").trim();
       if (plain.length < 8) return null;
@@ -7337,26 +7337,44 @@ ${body}
       return null;
     }
   }
-  var ConnectionsModal = class extends Modal {
-    constructor(s, verseId, conns, openGraph) {
+  var ConnectionsModal = class _ConnectionsModal extends Modal {
+    constructor(s, title, sub, needle, conns, openGraph) {
       super(s.app);
       this.s = s;
-      this.verseId = verseId;
+      this.title = title;
+      this.sub = sub;
+      this.needle = needle;
       this.conns = conns;
       this.openGraph = openGraph;
+    }
+    /** sheet for one verse's citations */
+    static forVerse(s, verseId, conns, openGraph) {
+      return new _ConnectionsModal(
+        s,
+        `\u21C4 ${verseDisplay(verseId) ?? verseId}`,
+        `${conns.length} page${conns.length === 1 ? "" : "s"} in your library cite this verse`,
+        `#^${verseId}`,
+        conns,
+        openGraph
+      );
+    }
+    /** sheet for everything connected to the whole chapter */
+    static forChapter(s, chapterTitle2, conns, openGraph) {
+      return new _ConnectionsModal(
+        s,
+        `\u21C4 ${chapterTitle2}`,
+        `${conns.length} page${conns.length === 1 ? "" : "s"} in your library connect to this chapter`,
+        `[[${chapterTitle2}`,
+        conns,
+        openGraph
+      );
     }
     onOpen() {
       const c = this.contentEl;
       this.modalEl.addClass("sg-conn-modal");
       c.addClass("sg-conn");
-      c.createEl("h3", {
-        cls: "sg-conn-title",
-        text: `\u21C4 ${verseDisplay(this.verseId) ?? this.verseId}`
-      });
-      c.createDiv({
-        cls: "sg-conn-sub",
-        text: `${this.conns.length} page${this.conns.length === 1 ? "" : "s"} in your library cite this verse`
-      });
+      c.createEl("h3", { cls: "sg-conn-title", text: this.title });
+      c.createDiv({ cls: "sg-conn-sub", text: this.sub });
       const list = c.createDiv({ cls: "sg-conn-list" });
       for (const conn of this.conns.slice(0, 14)) {
         const row = list.createDiv({ cls: "sg-conn-row" });
@@ -7364,7 +7382,7 @@ ${body}
         head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
         head.createSpan({ cls: "sg-conn-name", text: conn.name });
         const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
-        void snippetFor(this.s.app, conn, this.verseId).then((t) => {
+        void snippetFor(this.s.app, conn, this.needle).then((t) => {
           if (t) snip.setText(t);
           else snip.remove();
         });
@@ -7643,10 +7661,10 @@ ${body}
     const fakeState = {
       app: { vault: { getAbstractFileByPath: () => null } }
     };
-    new ConnectionsModal(fakeState, "1ne-1-4", [
+    ConnectionsModal.forVerse(fakeState, "1ne-1-4", [
       { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction \u2014 evidence dossier", emoji: "\u{1F50E}", rank: 1 },
+      { path: "AI Library/01 Scriptures/Cross References/x.md", name: "1 Nephi 1 - Cross References", emoji: "\u{1F4D6}", rank: 2 },
       { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "\u{1F3F7}\uFE0F", rank: 2 },
-      { path: "AI Library/01 Scriptures/Study Guides/x.md", name: "1 Nephi 1 - Study Guide", emoji: "\u{1F9E0}", rank: 3 },
       { path: "Library/mine.md", name: "My mission notes", emoji: "\u270D\uFE0F", rank: 0 }
     ], () => log("nav \u2192 graph")).open();
   };

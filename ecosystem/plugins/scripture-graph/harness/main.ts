@@ -119,10 +119,10 @@ import { ConnectionsModal } from "../src/social/connections";
   const fakeState = {
     app: { vault: { getAbstractFileByPath: () => null } },
   } as never;
-  new ConnectionsModal(fakeState, "1ne-1-4", [
+  ConnectionsModal.forVerse(fakeState, "1ne-1-4", [
     { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction — evidence dossier", emoji: "🔎", rank: 1 },
+    { path: "AI Library/01 Scriptures/Cross References/x.md", name: "1 Nephi 1 - Cross References", emoji: "📖", rank: 2 },
     { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "🏷️", rank: 2 },
-    { path: "AI Library/01 Scriptures/Study Guides/x.md", name: "1 Nephi 1 - Study Guide", emoji: "🧠", rank: 3 },
     { path: "Library/mine.md", name: "My mission notes", emoji: "✍️", rank: 0 },
   ], () => log("nav → graph")).open();
 };
