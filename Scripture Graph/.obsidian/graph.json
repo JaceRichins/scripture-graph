@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Jesus",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.989660541887263,
+  "lineSizeMultiplier": 0.623419495484273,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 7.81687947679851,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.18699720167557454,
+  "linkDistance": 371,
+  "scale": 0.058591436318960674,
   "close": false
 }

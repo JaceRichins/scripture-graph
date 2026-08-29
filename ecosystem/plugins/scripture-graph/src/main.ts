@@ -196,6 +196,16 @@ export default class SGPlugin extends Plugin {
     // ---- deferred startup --------------------------------------------------
     this.app.workspace.onLayoutReady(() => {
       void (async () => {
+        // the superseded v0.2 plugin keeps resurrecting via config sync from
+        // devices that still list it — every device now retires it on sight
+        const plugins = (this.app as unknown as {
+          plugins?: { enabledPlugins?: Set<string>;
+            disablePluginAndSave?: (id: string) => Promise<void> };
+        }).plugins;
+        if (plugins?.enabledPlugins?.has?.("scripture-graph-annotate")) {
+          await plugins.disablePluginAndSave?.("scripture-graph-annotate");
+          new Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
+        }
         // always know what build you're on — the toast is the proof
         const seen = await this.state.store.get<string>("last_loaded_version");
         if (seen !== this.manifest.version) {
@@ -316,15 +326,22 @@ export default class SGPlugin extends Plugin {
   }
 
   /** Personal Library pages open reading-first; the pencil toggle switches to
-   * writing and sticks until the next open. */
+   * writing and sticks until the next open. Mobile restores a tab's editing
+   * mode slightly AFTER file-open fires, so the flip retries briefly. */
   private openInPreviewOnce(f: TFile): void {
     if (!f.path.startsWith(PERSONAL_PREFIX)) return;
-    const view = this.app.workspace.getActiveViewOfType(MarkdownView);
-    if (!view || view.file?.path !== f.path || view.getMode() === "preview") return;
-    void view.leaf.setViewState({
-      type: "markdown",
-      state: { ...view.getState(), mode: "preview" },
-    });
+    const flip = () => {
+      const view = this.app.workspace.getActiveViewOfType(MarkdownView);
+      if (!view || view.file?.path !== f.path) return;
+      if (view.getMode() === "preview") return;
+      void view.leaf.setViewState({
+        type: "markdown",
+        state: { ...view.getState(), mode: "preview" },
+      });
+    };
+    flip();
+    window.setTimeout(flip, 150);
+    window.setTimeout(flip, 500);
   }
 
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
