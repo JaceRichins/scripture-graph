@@ -14,6 +14,7 @@ import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { StudyService } from "./study/study";
+import { StudyBar } from "./study/studyBar";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
 
@@ -22,6 +23,7 @@ export default class SGPlugin extends Plugin {
   ai!: AiService;
   ann!: AnnotationService;
   study!: StudyService;
+  studyBar!: StudyBar;
   private origOpenLinkText: typeof this.app.workspace.openLinkText | null = null;
   private studyActionViews = new WeakSet<MarkdownView>();
 
@@ -50,11 +52,13 @@ export default class SGPlugin extends Plugin {
       this.ai.completeConnect(code).catch(e => new Notice((e as Error).message));
     });
 
-    // ---- in-place reading decorations + selection menu ---------------------
-    registerReadingIntegration(this, this.state, this.ann, (prompt, anchor) => {
+    // ---- the study surface: tap-to-select verses + bottom action bar -------
+    const openAskFromReading = (prompt: string, anchor: string | null) => {
       const ct = this.chapterTitleFor(anchor);
       void this.openAsk(ct, anchor, prompt);
-    });
+    };
+    this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading);
+    registerReadingIntegration(this, this.state, this.ann, this.studyBar, openAskFromReading);
 
     // ---- commands ---------------------------------------------------------
     this.addCommand({
@@ -183,6 +187,7 @@ export default class SGPlugin extends Plugin {
 
   onunload() {
     this.ann.stop();
+    this.studyBar?.clear();
     if (this.origOpenLinkText) {
       this.app.workspace.openLinkText = this.origOpenLinkText;
     }

@@ -75,6 +75,52 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 /* ---------- welcome ------------------------------------------------------- */
 .sg-welcome p { opacity: 0.85; }
 
+/* ---------- verse selection + study bar (Gospel-Library-style) ----------- */
+.sg-vsel {
+  text-decoration: underline dotted var(--text-accent) 2px;
+  text-underline-offset: 4px;
+  background: color-mix(in srgb, var(--text-accent) 7%, transparent);
+  border-radius: 4px;
+}
+.sg-studybar {
+  position: fixed;
+  left: 50%; transform: translateX(-50%);
+  bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+  z-index: var(--layer-popover, 30);
+  width: min(480px, calc(100vw - 16px));
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 16px;
+  box-shadow: var(--shadow-l, 0 6px 24px rgba(0, 0, 0, 0.25));
+  padding: 8px 12px calc(10px + env(safe-area-inset-bottom, 0px) * 0);
+  display: flex; flex-direction: column; gap: 8px;
+  animation: sg-bar-in 0.15s ease-out;
+}
+@keyframes sg-bar-in { from { transform: translate(-50%, 12px); opacity: 0; } }
+.sg-studybar-top { display: flex; align-items: center; gap: 8px; }
+.sg-studybar-ref { font-weight: 600; flex: 1; }
+.sg-scope-chip {
+  font-size: 0.78em; padding: 3px 10px; border-radius: 12px;
+  background: var(--background-secondary); box-shadow: none;
+}
+.sg-studybar-x { background: transparent; box-shadow: none; padding: 2px 8px; opacity: 0.7; }
+.sg-studybar-colors { display: flex; gap: 12px; justify-content: center; }
+.sg-dot {
+  width: 34px; height: 34px; border-radius: 50%;
+  border: 2px solid transparent; box-shadow: none; padding: 0;
+}
+.sg-dot-last { border-color: var(--text-normal); }
+.sg-dot-yellow { background: #f5d90a; }
+.sg-dot-green  { background: #4cc38a; }
+.sg-dot-blue   { background: #52a9ff; }
+.sg-dot-pink   { background: #f76bb0; }
+.sg-dot-orange { background: #ff9f45; }
+.sg-studybar-actions { display: flex; gap: 6px; }
+.sg-studybar-actions button {
+  flex: 1; font-size: 0.82em; padding: 7px 4px; border-radius: 10px;
+  background: var(--background-secondary); box-shadow: none; white-space: nowrap;
+}
+
 /* ---------- mobile -------------------------------------------------------- */
 .is-mobile .sg-reader { padding: 8px 10px 60px; }
 .is-mobile .sg-lens-bar { overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }

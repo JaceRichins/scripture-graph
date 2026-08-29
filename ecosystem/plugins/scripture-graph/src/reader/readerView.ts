@@ -6,7 +6,6 @@ import {
 } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, decorateVerse } from "../social/annotations";
-import { buildSelectionMenu, resolveSelection } from "../social/readingIntegration";
 
 export const READER_VIEW = "scripture-graph-reader";
 
@@ -43,13 +42,7 @@ export class ReaderView extends ItemView {
 
   async onOpen() {
     this.contentEl.addClass("sg-reader");
-    this.registerDomEvent(this.contentEl, "contextmenu", evt => {
-      const hit = resolveSelection(this.s, evt);
-      if (!hit) return;
-      evt.preventDefault();
-      buildSelectionMenu(this.s, this.ann, hit,
-        (seed, anchor) => this.openAsk(this.chapterTitle, anchor, seed)).showAtMouseEvent(evt);
-    });
+    // taps + right-clicks are handled by the plugin-wide StudyBar/context menu
     this.s.onChange.push(() => void this.render());
     if (this.chapterTitle) await this.render();
     else this.contentEl.createEl("p", { text: "Open a chapter with “Open in Scripture Graph reader”." });

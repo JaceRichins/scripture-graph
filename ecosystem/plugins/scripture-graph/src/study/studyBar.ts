@@ -11,9 +11,9 @@
  *
  * Nothing here ever blocks link taps or native text selection.
  */
-import { Menu, Notice, Platform } from "obsidian";
+import { MarkdownView, Menu, Notice } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
-import type { SGState } from "../state";
+import { CANONICAL_PREFIX, PERSONAL_PREFIX, type SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover } from "../social/annotations";
 import type { StudyService } from "./study";
 
@@ -302,9 +302,17 @@ export class StudyBar {
     this.openAsk(seed, anchor);
   }
 
-  /** nudge open reading views to re-render decorations after a change */
+  /** re-render open reading views so the new mark appears immediately */
   private rerenderReading(): void {
-    this.s.notify();
-    if (Platform.isMobile) return; // markdown post-processors re-run on their own
+    this.s.notify(); // reader view + settings listeners
+    for (const leaf of this.s.app.workspace.getLeavesOfType("markdown")) {
+      const v = leaf.view;
+      if (!(v instanceof MarkdownView) || !v.file) continue;
+      const p = v.file.path;
+      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX)) {
+        (v.previewMode as unknown as { rerender?: (full?: boolean) => void })
+          ?.rerender?.(true);
+      }
+    }
   }
 }
