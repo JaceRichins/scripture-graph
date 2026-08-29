@@ -113,6 +113,20 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// connections sheet: window.sgConn() opens it with representative rows
+import { ConnectionsModal } from "../src/social/connections";
+(window as unknown as { sgConn: () => void }).sgConn = () => {
+  const fakeState = {
+    app: { vault: { getAbstractFileByPath: () => null } },
+  } as never;
+  new ConnectionsModal(fakeState, "1ne-1-4", [
+    { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction — evidence dossier", emoji: "🔎", rank: 1 },
+    { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "🏷️", rank: 2 },
+    { path: "AI Library/01 Scriptures/Study Guides/x.md", name: "1 Nephi 1 - Study Guide", emoji: "🧠", rank: 3 },
+    { path: "Library/mine.md", name: "My mission notes", emoji: "✍️", rank: 0 },
+  ], () => log("nav → graph")).open();
+};
+
 // the navigator too: window.sgNav() opens it seeded at D&C 120
 import { SGNavigatorModal } from "../src/study/navigator";
 (window as unknown as { sgNav: (last?: { slug: string; title: string } | null) => void }).sgNav =

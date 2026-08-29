@@ -859,6 +859,53 @@ body.sg-selecting .sg-nav-fab { display: none; } /* never crowd the StudyBar */
   color: var(--text-on-accent);
 }
 
+/* ---------- ⇄ verse connections: the graph, visible while reading -------- */
+.sg-conn-chip {
+  position: relative;
+  display: inline-block;
+  margin-left: 7px; padding: 0 7px;
+  border-radius: 9px;
+  font-size: 0.72em; font-weight: 600; line-height: 1.7;
+  color: var(--text-muted);
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+  cursor: pointer; opacity: 0.8;
+  -webkit-user-select: none; user-select: none;
+  vertical-align: 0.08em;
+}
+.sg-conn-chip::after { content: ""; position: absolute; inset: -9px; } /* touch halo */
+.sg-conn-chip:active { transform: scale(0.92); }
+body.sg-scene-on .sg-conn-chip {
+  color: var(--sg-ink-accent, #ffd88a);
+  background: rgba(255, 255, 255, 0.08);
+  border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
+}
+.sg-conn-modal { width: min(560px, 96vw); }
+.sg-conn-title { margin: 0 0 2px; }
+.sg-conn-sub { color: var(--text-muted); font-size: 0.88em; margin-bottom: 12px; }
+.sg-conn-list {
+  display: flex; flex-direction: column; gap: 8px;
+  max-height: min(58vh, 520px); overflow-y: auto; overscroll-behavior: contain;
+}
+.sg-conn-row {
+  padding: 10px 12px; border-radius: 12px; cursor: pointer;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+}
+.sg-conn-row:active { transform: scale(0.99); }
+.sg-conn-row-head { display: flex; align-items: center; gap: 8px; }
+.sg-conn-emoji { font-size: 1.05em; }
+.sg-conn-name { font-weight: 600; }
+.sg-conn-snippet {
+  margin-top: 4px; color: var(--text-muted); font-size: 0.88em; line-height: 1.35;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.sg-conn-more { color: var(--text-faint); font-size: 0.85em; text-align: center; padding: 4px; }
+.sg-conn-graph {
+  margin-top: 12px; width: 100%; min-height: 46px;
+  border-radius: 12px; font-weight: 600;
+}
+
 /* the AI Library is gated: invisible in the file explorer unless the power
    toggle is on — its content still reaches readers through study pages */
 body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"]) {

@@ -401,6 +401,10 @@ ${local.content}`,
     }
   };
   var Platform = { isMobile: true };
+  var TFile = class {
+    path = "";
+    basename = "";
+  };
 
   // ../../node_modules/zod/v3/external.js
   var external_exports = {};
@@ -7318,6 +7322,72 @@ ${body}
     }
   };
 
+  // src/social/connections.ts
+  async function snippetFor(app, conn, verseId) {
+    const f = app.vault.getAbstractFileByPath(conn.path);
+    if (!(f instanceof TFile)) return null;
+    try {
+      const text = await app.vault.cachedRead(f);
+      const line = text.split("\n").find((ln) => ln.includes(`#^${verseId}`));
+      if (!line) return null;
+      const plain = line.replace(/!?\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2").replace(/<!--[\s\S]*?-->/g, "").replace(/[*_=`>#]|\[!\w+\][+-]?/g, "").replace(/^\s*[-•\d.)\s]+/, "").replace(/\s+/g, " ").trim();
+      if (plain.length < 8) return null;
+      return plain.length > 200 ? `${plain.slice(0, 197)}\u2026` : plain;
+    } catch {
+      return null;
+    }
+  }
+  var ConnectionsModal = class extends Modal {
+    constructor(s, verseId, conns, openGraph) {
+      super(s.app);
+      this.s = s;
+      this.verseId = verseId;
+      this.conns = conns;
+      this.openGraph = openGraph;
+    }
+    onOpen() {
+      const c = this.contentEl;
+      this.modalEl.addClass("sg-conn-modal");
+      c.addClass("sg-conn");
+      c.createEl("h3", {
+        cls: "sg-conn-title",
+        text: `\u21C4 ${verseDisplay(this.verseId) ?? this.verseId}`
+      });
+      c.createDiv({
+        cls: "sg-conn-sub",
+        text: `${this.conns.length} page${this.conns.length === 1 ? "" : "s"} in your library cite this verse`
+      });
+      const list = c.createDiv({ cls: "sg-conn-list" });
+      for (const conn of this.conns.slice(0, 14)) {
+        const row = list.createDiv({ cls: "sg-conn-row" });
+        const head = row.createDiv({ cls: "sg-conn-row-head" });
+        head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
+        head.createSpan({ cls: "sg-conn-name", text: conn.name });
+        const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
+        void snippetFor(this.s.app, conn, this.verseId).then((t) => {
+          if (t) snip.setText(t);
+          else snip.remove();
+        });
+        row.onclick = () => {
+          this.close();
+          const f = this.s.app.vault.getAbstractFileByPath(conn.path);
+          if (f instanceof TFile) void this.s.app.workspace.getLeaf().openFile(f);
+        };
+      }
+      if (this.conns.length > 14) {
+        list.createDiv({ cls: "sg-conn-more", text: `\u2026and ${this.conns.length - 14} more in the graph` });
+      }
+      const foot = c.createEl("button", { cls: "sg-conn-graph", text: "\u{1F578} See the whole connection graph" });
+      foot.onclick = () => {
+        this.close();
+        this.openGraph();
+      };
+    }
+    onClose() {
+      this.contentEl.empty();
+    }
+  };
+
   // src/study/navigator.ts
   var VOLUMES = [
     { name: "Old Testament", emoji: "\u{1F4DC}" },
@@ -7531,6 +7601,17 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgConn = () => {
+    const fakeState = {
+      app: { vault: { getAbstractFileByPath: () => null } }
+    };
+    new ConnectionsModal(fakeState, "1ne-1-4", [
+      { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction \u2014 evidence dossier", emoji: "\u{1F50E}", rank: 1 },
+      { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "\u{1F3F7}\uFE0F", rank: 2 },
+      { path: "AI Library/01 Scriptures/Study Guides/x.md", name: "1 Nephi 1 - Study Guide", emoji: "\u{1F9E0}", rank: 3 },
+      { path: "Library/mine.md", name: "My mission notes", emoji: "\u270D\uFE0F", rank: 0 }
+    ], () => log("nav \u2192 graph")).open();
+  };
   window.sgNav = (last = { slug: "dc-120", title: "D&C 120" }) => new SGNavigatorModal({}, {
     openChapter: (t) => log(`nav \u2192 ${t}`),
     openNote: (l) => log(`nav \u2192 note ${l}`),

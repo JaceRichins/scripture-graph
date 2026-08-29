@@ -9,6 +9,8 @@ import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
 import type { StudyBar } from "../study/studyBar";
 import { voiceFor } from "../study/presence";
+import { ConnectionsModal, connectionsFor } from "./connections";
+import { openLocalGraphFor } from "../study/studyBar";
 
 export interface SelectionHit {
   verseId: string;
@@ -41,6 +43,23 @@ export function registerReadingIntegration(
     for (const { p, verseId } of paragraphs) {
       const mine = await svc.mine(verseId);
       decorateVerse(s, svc, p, verseId, mine, svc.social(verseId));
+    }
+    // ---- ⇄ connections: what the rest of the library says about each verse -
+    // the vault's resolved links already know every page that cites a verse
+    // anchor; connected verses get a quiet chip that opens the evidence
+    const chapterTitle = ctx.sourcePath.split("/").pop()!.replace(/\.md$/, "");
+    const conns = connectionsFor(plugin.app, ctx.sourcePath, slug);
+    for (const { p, verseId } of paragraphs) {
+      const list = conns.get(verseId);
+      if (!list?.length || p.querySelector(".sg-conn-chip")) continue;
+      const chip = p.createSpan({ cls: "sg-conn-chip", text: `⇄ ${list.length}` });
+      chip.setAttr("aria-label", `${list.length} connected pages`);
+      chip.onclick = (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        new ConnectionsModal(s, verseId, list,
+          () => void openLocalGraphFor(s, chapterTitle)).open();
+      };
     }
     // PRESENCE: above verse 1, say who is speaking and from where —
     // being with the author is the point of the whole page
@@ -134,7 +153,7 @@ export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionH
   if (!verseId || verseId.split("-").length < 3) return null;
   const selected = sel && !sel.isCollapsed ? sel.toString().trim() : null;
   const clone = p.cloneNode(true) as HTMLElement;
-  clone.querySelectorAll(".sgh-note-icon, .sg-badge").forEach(e => e.remove());
+  clone.querySelectorAll(".sgh-note-icon, .sg-badge, .sg-conn-chip").forEach(e => e.remove());
   const verseText = (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
   return {
     verseId,

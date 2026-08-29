@@ -1,9 +1,0 @@
-{
-  "id": "scripture-graph-annotate",
-  "name": "Scripture Graph Annotate",
-  "version": "0.2.1",
-  "minAppVersion": "1.4.0",
-  "description": "Highlight verses and attach notes — LDS-Tools-style study marks stored in a personal overlay, never in the immutable scripture files.",
-  "author": "Scripture Graph Engine",
-  "isDesktopOnly": false
-}
