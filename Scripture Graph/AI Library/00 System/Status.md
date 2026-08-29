@@ -6,26 +6,26 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-29T22:36:09Z.*
+*Generated 2026-08-29T23:06:55Z.*
 
-- Engine: v0.1.0 · corpus **v7** · bootstrap **STEADY_STATE** · git `41fb72df`
+- Engine: v0.1.0 · corpus **v7** · bootstrap **STEADY_STATE** · git `0503fede`
 - Scripture: 88 books, 1584 chapters, 42027 verses
-- Graph: 108 topics · 167 people · 82 places · 271 evidence notes · 4 questions
+- Graph: 108 topics · 167 people · 82 places · 278 evidence notes · 4 questions
 - Personal notes indexed: 3172
 - Documents: 2540 (1060 conference talks)
 - Index: 205519 chunks · embeddings: hash/hash-ngram-v1 (202346)
-- Work queue: {'dead': 331, 'pending': 18}
-- **Today:** 29 study ticks · 55 research jobs applied · 1688 new claims
+- Work queue: {'dead': 331, 'pending': 15}
+- **Today:** 30 study ticks · 58 research jobs applied · 1776 new claims
 - Secondary sources: 2 approved · 81 episodes tracked · 2 ingested
 - AI providers: claude: not installed, codex: ready
 
 ## Coverage
 
-Overall: mean **74.0**, stddev 4.97, min 67.0
+Overall: mean **74.1**, stddev 4.98, min 67.0
 
 | Volume | Mean | Min | P10 |
 | --- | --- | --- | --- |
-| Old Testament | 74.6 | 67.0 | 73.0 |
+| Old Testament | 74.7 | 67.0 | 73.0 |
 | New Testament | 73.3 | 73.0 | 73.0 |
 | Book of Mormon | 73.8 | 67.0 | 73.0 |
 | Doctrine and Covenants | 72.1 | 70.1 | 71.4 |
@@ -44,8 +44,8 @@ Overall: mean **74.0**, stddev 4.97, min 67.0
 
 ## Recent runs
 
-- study: 2026-08-29T22:15:02Z → … (running)
+- study: 2026-08-29T22:45:02Z → … (running)
+- study: 2026-08-29T22:15:02Z → 2026-08-29T22:36:09Z (ok)
 - study: 2026-08-29T21:45:02Z → 2026-08-29T22:06:38Z (ok)
 - study: 2026-08-29T21:15:02Z → 2026-08-29T21:18:19Z (ok)
 - study: 2026-08-29T20:45:03Z → 2026-08-29T20:48:06Z (ok)
-- frequent: 2026-08-29T20:15:03Z → 2026-08-29T20:15:03Z (ok)
