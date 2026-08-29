@@ -27,6 +27,7 @@ const EXCLUDED_PREFIXES = [
 
 const SECTIONS: [string, string, number][] = [
   ["AI Library/40 Evidence/", "🔎", 1],
+  ["AI Library/01 Scriptures/Cross References/", "📖", 2],
   ["AI Library/02 Gospel Topics/", "🏷️", 2],
   ["AI Library/01 Scriptures/Study Guides/", "🧠", 3],
   ["AI Library/03 People/", "🧑", 4],
@@ -49,15 +50,26 @@ function sectionFor(path: string): { emoji: string; rank: number } {
   return { emoji: "🔗", rank: 7 };
 }
 
-/** verse-id → citing pages for one chapter; cached briefly because the
- * post-processor re-runs freely while reading */
-const cache = new Map<string, { at: number; map: Map<string, VerseConnection[]> }>();
+export interface ChapterConnections {
+  byVerse: Map<string, VerseConnection[]>;
+  chapter: VerseConnection[];
+}
 
-export function connectionsFor(app: App, chapterPath: string, slug: string): Map<string, VerseConnection[]> {
+/** citations for one chapter; cached briefly because the post-processor
+ * re-runs freely while reading. Empty results are NEVER cached — early in a
+ * session the link index may still be building, and a trapped empty answer
+ * would hide every chip for a minute. */
+const cache = new Map<string, { at: number; conns: ChapterConnections }>();
+
+export function clearConnectionsCache(): void { cache.clear(); }
+
+export function connectionsFor(app: App, chapterPath: string, slug: string): ChapterConnections {
   const hit = cache.get(chapterPath);
-  if (hit && Date.now() - hit.at < 60_000) return hit.map;
-  const map = new Map<string, VerseConnection[]>();
+  if (hit && Date.now() - hit.at < 60_000) return hit.conns;
+  const byVerse = new Map<string, VerseConnection[]>();
+  const chapter: VerseConnection[] = [];
   const anchorRe = new RegExp(`#\\^(${slug}-\\d+)$`);
+  const chapterBase = chapterPath.split("/").pop()!.replace(/\.md$/, "");
   const resolved = app.metadataCache.resolvedLinks;
   for (const src of Object.keys(resolved)) {
     if (!resolved[src]?.[chapterPath]) continue;
@@ -65,6 +77,7 @@ export function connectionsFor(app: App, chapterPath: string, slug: string): Map
     if (EXCLUDED_PREFIXES.some(p => src.startsWith(p))) continue;
     const f = app.vault.getAbstractFileByPath(src);
     if (!(f instanceof TFile)) continue;
+    if (f.basename === `${chapterBase} - My Notes`) continue; // the page you're on
     const fc = app.metadataCache.getFileCache(f);
     const seen = new Set<string>();
     for (const l of [...(fc?.links ?? []), ...(fc?.embeds ?? [])]) {
@@ -74,14 +87,18 @@ export function connectionsFor(app: App, chapterPath: string, slug: string): Map
       if (seen.has(verseId)) continue;   // one row per page per verse
       seen.add(verseId);
       const { emoji, rank } = sectionFor(src);
-      const list = map.get(verseId) ?? [];
+      const list = byVerse.get(verseId) ?? [];
       list.push({ path: src, name: f.basename, emoji, rank });
-      map.set(verseId, list);
+      byVerse.set(verseId, list);
     }
+    const { emoji, rank } = sectionFor(src);
+    chapter.push({ path: src, name: f.basename, emoji, rank });
   }
-  for (const list of map.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
-  cache.set(chapterPath, { at: Date.now(), map });
-  return map;
+  for (const list of byVerse.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  chapter.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  const conns = { byVerse, chapter };
+  if (byVerse.size || chapter.length) cache.set(chapterPath, { at: Date.now(), conns });
+  return conns;
 }
 
 /** the line a page says about this verse, stripped down to plain words */

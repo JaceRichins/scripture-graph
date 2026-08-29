@@ -160,6 +160,23 @@ def cmd_health(args):
     return cmd_gardener(args)
 
 
+def cmd_crossrefs(args):
+    ctx = _ctx(args)
+    from scripturegraph import gitops
+    from scripturegraph.crossrefs import build_crossrefs
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    try:
+        with engine_lock(ctx):
+            gitops.checkpoint(ctx, "crossrefs: pre-build checkpoint")
+            stats = build_crossrefs(ctx)
+            gitops.commit_all(ctx, "crossrefs: deterministic verse parallels")
+    except EngineBusy:
+        print("engine busy — another run holds the lock; try again shortly")
+        return 1
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_validate(args):
     ctx = _ctx(args)
     from scripturegraph.validation import validate_all
@@ -328,6 +345,9 @@ def main(argv=None) -> int:
     sp = sub.add_parser("bootstrap", help="run/resume the bootstrap state machine")
     sp.add_argument("--until", default=None, help="stop after reaching this stage")
     sp.set_defaults(fn=cmd_bootstrap)
+
+    sub.add_parser("crossrefs", help="rebuild deterministic verse-parallel cross-references") \
+        .set_defaults(fn=cmd_crossrefs)
 
     sp = sub.add_parser("status", help="status dashboard (console + Status.md)")
     sp.add_argument("--no-note", action="store_true")

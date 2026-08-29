@@ -244,6 +244,12 @@ def run_weekly(ctx: Ctx) -> dict:
                 stats["secondary"] = secondary_weekly(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("weekly.secondary_failed", error=str(e)[:200])
+        if ctx.c("crossrefs.enabled", True):
+            from scripturegraph.crossrefs import build_crossrefs
+            try:
+                stats["crossrefs"] = build_crossrefs(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("weekly.crossrefs_failed", error=str(e)[:200])
         update_all_coverage(ctx)
         batch = int(ctx.c("coverage.equalize_batch", 40))
         for w in weakest_chapters(ctx, batch):
