@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>SG Harness</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  :root { color-scheme: dark; --background-primary:#1e1e1e; --background-secondary:#2a2a2a;
+    --background-primary-alt:#252525; --background-modifier-border:#3f3f3f;
+    --text-normal:#e0e0e0; --text-accent:#a882ff; --text-on-accent:#fff;
+    --interactive-accent:#7c5cff; --layer-popover:40; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#1e1e1e; color:#e0e0e0;
+    font-family: -apple-system, "Segoe UI", Roboto, sans-serif; }
+  #app { padding: 14px; }
+  .markdown-preview-view p { line-height: 1.8; font-size: 17px; margin: 0.7em 0;
+    -webkit-user-select: text; user-select: text; }
+  .markdown-preview-view strong { opacity:.55; font-size:.85em; margin-right:2px; }
+  button { color: inherit; border: 1px solid #444; background:#2a2a2a; border-radius:8px;
+    padding:6px 10px; font-size:15px; }
+  input { background:#222; color:inherit; border:1px solid #444; border-radius:6px;
+    padding:6px 8px; font-size:16px; width: 100%; margin: 4px 0; }
+  #stats { position: fixed; top: 4px; right: 8px; font-size: 11px; opacity: .7; }
+  .harness-log { margin-top: 40px; padding-top: 10px; border-top: 1px dashed #444;
+    font-size: 12px; opacity: .8; max-height: 130px; overflow-y: auto; }
+  /* shim UI */
+  .shim-notice { position: fixed; top: 34px; left: 50%; transform: translateX(-50%);
+    background:#3a3a3a; padding:8px 14px; border-radius:10px; z-index:100; font-size:14px;
+    box-shadow: 0 4px 14px rgba(0,0,0,.4); }
+  .shim-menu { position: fixed; z-index: 90; background:#2c2c2c; border:1px solid #494949;
+    border-radius:10px; display:flex; flex-direction:column; min-width: 220px;
+    box-shadow:0 8px 30px rgba(0,0,0,.5); }
+  .shim-menu-item { background:none; border:none; text-align:left; padding:11px 14px;
+    font-size:15px; }
+  .shim-menu-item:active { background:#3d3d3d; }
+  .shim-menu-sep { height:1px; background:#454545; margin:2px 0; }
+  .shim-modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,.5); z-index:95;
+    display:flex; align-items:center; justify-content:center; }
+  .shim-modal { background:#262626; border-radius:14px; padding:16px; width:min(420px,92vw);
+    position:relative; }
+  .shim-modal-x { position:absolute; top:8px; right:8px; }
+  .shim-modal textarea { width:100%; min-height:90px; background:#222; color:inherit;
+    border:1px solid #444; border-radius:8px; font-size:16px; }
+  .shim-setting { display:flex; gap:8px; align-items:center; margin:6px 0; }
+</style>
+</head>
+<body>
+<div id="stats"></div>
+<div id="app"></div>
+<script src="main.js"></script>
+</body>
+</html>

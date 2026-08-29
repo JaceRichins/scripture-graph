@@ -6380,7 +6380,9 @@ function resolveSelection(s, evt) {
   }
   if (!verseId || verseId.split("-").length < 3) return null;
   const selected = sel && !sel.isCollapsed ? sel.toString().trim() : null;
-  const verseText = (p.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
+  const clone = p.cloneNode(true);
+  clone.querySelectorAll(".sgh-note-icon, .sg-badge").forEach((e) => e.remove());
+  const verseText = (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
   return {
     verseId,
     verseText: verseText ?? "",
@@ -7128,9 +7130,11 @@ ${body}
     new import_obsidian8.Notice(`Bookmarked ${f.basename}`);
   }
   // -------------------------------------------------------- flashcards
-  /** Idempotent: the same card (anchor + answer) is never added twice. */
+  /** Idempotent: the same card (anchor + answer) is never added twice.
+   * Comparison ignores punctuation/symbols so decoration glyphs or trailing
+   * marks can never sneak a duplicate past the check. */
   async addFlashcard(front, back, anchor) {
-    const norm = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const norm = (t) => t.normalize("NFKD").replace(/[^\p{L}\p{N} ]/gu, "").replace(/\s+/g, " ").trim().toLowerCase();
     const all = await this.s.sync.allAnnotations();
     const dup = all.find((x) => {
       if (x.annotation_type !== "study-marker" || x.deleted_at) return false;
@@ -7400,8 +7404,12 @@ var StudyBar = class {
     if (!f) return null;
     return app.metadataCache.getFileCache(f)?.frontmatter?.slug ?? null;
   }
+  /** Verse text WITHOUT our decoration glyphs (📝/🃏/👥 icons would otherwise
+   * leak into copies, note quotes, and card-dedup comparisons). */
   verseTextOf(p) {
-    return (p.textContent ?? "").replace(/^\s*\d+\s*/, "").trim();
+    const clone = p.cloneNode(true);
+    clone.querySelectorAll(".sgh-note-icon, .sg-badge").forEach((e) => e.remove());
+    return (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim();
   }
   // ------------------------------------------------------- selection state
   toggleVerse(verseId, el) {
@@ -8045,6 +8053,11 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     };
     this.app.workspace.onLayoutReady(() => {
       void (async () => {
+        const plugins = this.app.plugins;
+        if (plugins?.enabledPlugins?.has?.("scripture-graph-annotate")) {
+          await plugins.disablePluginAndSave?.("scripture-graph-annotate");
+          new import_obsidian12.Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
+        }
         const seen = await this.state.store.get("last_loaded_version");
         if (seen !== this.manifest.version) {
           await this.state.store.put("last_loaded_version", this.manifest.version);
@@ -8077,7 +8090,14 @@ var SGPlugin = class extends import_obsidian12.Plugin {
         if (!silent) new import_obsidian12.Notice("No plugin build published on the server yet");
         return;
       }
-      const remote = mf.json?.version ?? "";
+      let manifest;
+      try {
+        manifest = JSON.parse(mf.text.replace(/^\uFEFF/, ""));
+      } catch {
+        if (!silent) new import_obsidian12.Notice("Update channel returned an unreadable manifest");
+        return;
+      }
+      const remote = manifest.version ?? "";
       if (!newerVersion(remote, this.manifest.version)) {
         if (!silent) new import_obsidian12.Notice(`Up to date \u2014 v${this.manifest.version}`);
         return;
@@ -8152,15 +8172,22 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     return r ? chapterTitle(r.bookSlug, r.chapter) : null;
   }
   /** Personal Library pages open reading-first; the pencil toggle switches to
-   * writing and sticks until the next open. */
+   * writing and sticks until the next open. Mobile restores a tab's editing
+   * mode slightly AFTER file-open fires, so the flip retries briefly. */
   openInPreviewOnce(f) {
     if (!f.path.startsWith(PERSONAL_PREFIX)) return;
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian12.MarkdownView);
-    if (!view || view.file?.path !== f.path || view.getMode() === "preview") return;
-    void view.leaf.setViewState({
-      type: "markdown",
-      state: { ...view.getState(), mode: "preview" }
-    });
+    const flip = () => {
+      const view = this.app.workspace.getActiveViewOfType(import_obsidian12.MarkdownView);
+      if (!view || view.file?.path !== f.path) return;
+      if (view.getMode() === "preview") return;
+      void view.leaf.setViewState({
+        type: "markdown",
+        state: { ...view.getState(), mode: "preview" }
+      });
+    };
+    flip();
+    window.setTimeout(flip, 150);
+    window.setTimeout(flip, 500);
   }
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
    * flipped back to reading view (even if the user hits the pencil toggle —

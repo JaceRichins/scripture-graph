@@ -64,9 +64,12 @@ export class StudyService {
   }
 
   // -------------------------------------------------------- flashcards
-  /** Idempotent: the same card (anchor + answer) is never added twice. */
+  /** Idempotent: the same card (anchor + answer) is never added twice.
+   * Comparison ignores punctuation/symbols so decoration glyphs or trailing
+   * marks can never sneak a duplicate past the check. */
   async addFlashcard(front: string, back: string, anchor: string | null): Promise<boolean> {
-    const norm = (t: string) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const norm = (t: string) => t.normalize("NFKD")
+      .replace(/[^\p{L}\p{N} ]/gu, "").replace(/\s+/g, " ").trim().toLowerCase();
     const all = await this.s.sync.allAnnotations();
     const dup = all.find(x => {
       if (x.annotation_type !== "study-marker" || x.deleted_at) return false;

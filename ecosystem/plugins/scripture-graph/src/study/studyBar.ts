@@ -170,8 +170,12 @@ export class StudyBar {
       ?.slug ?? null;
   }
 
+  /** Verse text WITHOUT our decoration glyphs (📝/🃏/👥 icons would otherwise
+   * leak into copies, note quotes, and card-dedup comparisons). */
   private verseTextOf(p: HTMLElement): string {
-    return (p.textContent ?? "").replace(/^\s*\d+\s*/, "").trim();
+    const clone = p.cloneNode(true) as HTMLElement;
+    clone.querySelectorAll(".sgh-note-icon, .sg-badge").forEach(e => e.remove());
+    return (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim();
   }
 
   // ------------------------------------------------------- selection state

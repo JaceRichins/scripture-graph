@@ -241,7 +241,15 @@ export default class SGPlugin extends Plugin {
         if (!silent) new Notice("No plugin build published on the server yet");
         return;
       }
-      const remote = (mf.json as { version?: string })?.version ?? "";
+      // parse from text with BOM tolerance — .json can choke on a BOM
+      let manifest: { version?: string };
+      try {
+        manifest = JSON.parse(mf.text.replace(/^\uFEFF/, "")) as { version?: string };
+      } catch {
+        if (!silent) new Notice("Update channel returned an unreadable manifest");
+        return;
+      }
+      const remote = manifest.version ?? "";
       if (!newerVersion(remote, this.manifest.version)) {
         if (!silent) new Notice(`Up to date — v${this.manifest.version}`);
         return;

@@ -368,7 +368,9 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
     const p = join(dir, file);
     if (!existsSync(p)) return reply.code(404).send({ error: "no build published" });
     reply.header("content-type", type);
-    return readFileSync(p, "utf8");
+    // Windows editors love UTF-8 BOMs; a BOM in manifest.json breaks every
+    // JSON parser downstream — strip it at the door
+    return readFileSync(p, "utf8").replace(/^\uFEFF/, "");
   });
 
   return app;

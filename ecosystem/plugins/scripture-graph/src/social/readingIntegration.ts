@@ -97,7 +97,9 @@ export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionH
   }
   if (!verseId || verseId.split("-").length < 3) return null;
   const selected = sel && !sel.isCollapsed ? sel.toString().trim() : null;
-  const verseText = (p.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
+  const clone = p.cloneNode(true) as HTMLElement;
+  clone.querySelectorAll(".sgh-note-icon, .sg-badge").forEach(e => e.remove());
+  const verseText = (clone.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
   return {
     verseId,
     verseText: verseText ?? "",
