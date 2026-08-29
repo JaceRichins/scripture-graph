@@ -151,6 +151,10 @@ export default class SGPlugin extends Plugin {
       if (!f) return;
       this.study.recordVisit(f);
       this.enforceReadOnly();
+      // personal pages OPEN in reading view too (mobile reuses the last tab
+      // mode, so app.json's default is not enough) — but only on open: once
+      // the user taps the pencil to write, we never fight them
+      this.openInPreviewOnce(f);
       this.addMyStudyAction(f);
     }));
     // canonical scripture must never sit in an editable view — mobile has no
@@ -237,6 +241,18 @@ export default class SGPlugin extends Plugin {
     if (!verseId) return null;
     const r = parseVerseId(verseId);
     return r ? chapterTitle(r.bookSlug, r.chapter) : null;
+  }
+
+  /** Personal Library pages open reading-first; the pencil toggle switches to
+   * writing and sticks until the next open. */
+  private openInPreviewOnce(f: TFile): void {
+    if (!f.path.startsWith(PERSONAL_PREFIX)) return;
+    const view = this.app.workspace.getActiveViewOfType(MarkdownView);
+    if (!view || view.file?.path !== f.path || view.getMode() === "preview") return;
+    void view.leaf.setViewState({
+      type: "markdown",
+      state: { ...view.getState(), mode: "preview" },
+    });
   }
 
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS

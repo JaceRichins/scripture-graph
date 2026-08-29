@@ -7841,6 +7841,7 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       if (!f) return;
       this.study.recordVisit(f);
       this.enforceReadOnly();
+      this.openInPreviewOnce(f);
       this.addMyStudyAction(f);
     }));
     this.registerEvent(this.app.workspace.on("layout-change", () => this.enforceReadOnly()));
@@ -7915,6 +7916,17 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     if (!verseId) return null;
     const r = parseVerseId(verseId);
     return r ? chapterTitle(r.bookSlug, r.chapter) : null;
+  }
+  /** Personal Library pages open reading-first; the pencil toggle switches to
+   * writing and sticks until the next open. */
+  openInPreviewOnce(f) {
+    if (!f.path.startsWith(PERSONAL_PREFIX)) return;
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian12.MarkdownView);
+    if (!view || view.file?.path !== f.path || view.getMode() === "preview") return;
+    void view.leaf.setViewState({
+      type: "markdown",
+      state: { ...view.getState(), mode: "preview" }
+    });
   }
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
    * flipped back to reading view (even if the user hits the pencil toggle —
