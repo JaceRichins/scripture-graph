@@ -75,12 +75,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Be Ye Converted (Bonnie L. Oscarson, October 2013)|Be Ye Converted]] — Bonnie L. Oscarson, 2013-October *(explicit citation)*
 - [[Whatsoever He Saith unto You, Do It (Elder L. Whitney Clayton, April 2017)|Whatsoever He Saith unto You, Do It]] — Elder L. Whitney Clayton, 2017-April *(explicit citation)*
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
 - [[This Is Our Time! (Elder S. Gifford Nielsen, April 2021)|This Is Our Time!]] — Elder S. Gifford Nielsen, 2021-April *(explicit citation)*
+- [[Approaching the Throne of God with Confidence (Elder Jörg Klebingat, October 2014)|Approaching the Throne of God with Confidence]] — Elder Jörg Klebingat, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

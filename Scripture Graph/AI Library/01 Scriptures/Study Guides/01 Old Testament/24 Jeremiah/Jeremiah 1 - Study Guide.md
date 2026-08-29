@@ -75,7 +75,8 @@ _Not yet developed._
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
-- [[Conference Report, April 1919 (General Conference (full report), April 1919)|Conference Report, April 1919]] — General Conference (full report), 1919-April *(explicit citation)*
+- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

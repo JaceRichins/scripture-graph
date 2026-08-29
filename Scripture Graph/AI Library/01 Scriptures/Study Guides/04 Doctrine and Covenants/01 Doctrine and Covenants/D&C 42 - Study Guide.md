@@ -90,13 +90,13 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
 - [[Fruit That Remains (Elder Matthew L. Carpenter, April 2024)|Fruit That Remains]] — Elder Matthew L. Carpenter, 2024-April *(explicit citation)*
 - [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
+- [[Marriage Watch and Learn (Elder L. Whitney Clayton, April 2013)|Marriage: Watch and Learn]] — Elder L. Whitney Clayton, 2013-April *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[A Plea to My Sisters (President Russell M. Nelson, October 2015)|A Plea to My Sisters]] — President Russell M. Nelson, 2015-October *(explicit citation)*
 - [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
-- [[Ministering as the Savior Does (Jean B. Bingham, April 2018)|Ministering as the Savior Does]] — Jean B. Bingham, 2018-April *(explicit citation)*
-- [[Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

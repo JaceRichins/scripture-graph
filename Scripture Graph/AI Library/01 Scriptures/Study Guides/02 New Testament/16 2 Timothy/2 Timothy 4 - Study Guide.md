@@ -57,6 +57,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Proved and Strengthened in Christ (Elder Henry B. Eyring, October 2025)|Proved and Strengthened in Christ]] — Elder Henry B. Eyring, 2025-October *(explicit citation)*
+- [[The Moral Force of Women (Elder D. Todd Christofferson, October 2013)|The Moral Force of Women]] — Elder D. Todd Christofferson, 2013-October *(explicit citation)*
+- [[The Strength to Endure (Elder Richard J. Maynes, October 2013)|The Strength to Endure]] — Elder Richard J. Maynes, 2013-October *(explicit citation)*
 - [[The Righteous Judge (Elder Lynn G. Robbins, October 2016)|The Righteous Judge]] — Elder Lynn G. Robbins, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 

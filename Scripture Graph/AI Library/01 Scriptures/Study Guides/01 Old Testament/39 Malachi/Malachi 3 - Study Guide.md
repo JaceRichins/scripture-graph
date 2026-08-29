@@ -60,6 +60,9 @@ _Not yet developed._
 - [[I Am a Child of God (Elder Donald L. Hallstrom, April 2016)|I Am a Child of God]] — Elder Donald L. Hallstrom, 2016-April *(explicit citation)*
 - [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
+- [[The Windows of Heaven (Elder David A. Bednar, October 2013)|The Windows of Heaven]] — Elder David A. Bednar, 2013-October *(explicit citation)*
 - [[Tithing—Putting God First (Elder Jorge T. Becerra, April 2026)|Tithing—Putting God First]] — Elder Jorge T. Becerra, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 

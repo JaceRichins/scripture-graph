@@ -20,5 +20,6 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 ## Recently ingested
 
 - 2026-08-25 — [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matte]] (Church History Matters)
+- 2026-08-20 — [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] (followHIM)
 
-_1 episodes ingested · 2 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_
+_2 episodes ingested · 2 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_

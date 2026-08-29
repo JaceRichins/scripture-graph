@@ -76,11 +76,11 @@ _Not yet developed._
 - [[Then Jesus Beholding Him Loved Him (Elder S. Mark Palmer, April 2017)|Then Jesus Beholding Him Loved Him]] — Elder S. Mark Palmer, 2017-April *(explicit citation)*
 - [[The Message, the Meaning, and the Multitude (Elder Jeffrey R. Holland, October 2019)|The Message, the Meaning, and the Multitude]] — Elder Jeffrey R. Holland, 2019-October *(explicit citation)*
 - [[The Greatest Possession (Elder Jeffrey R. Holland, October 2021)|The Greatest Possession]] — Elder Jeffrey R. Holland, 2021-October *(explicit citation)*
+- [[Yes, Lord, I Will Follow Thee (Elder Eduardo Gavarret, October 2014)|Yes, Lord, I Will Follow Thee]] — Elder Eduardo Gavarret, 2014-October *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
-- [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -112,3 +112,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

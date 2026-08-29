@@ -62,6 +62,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
+- [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 

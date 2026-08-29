@@ -69,6 +69,7 @@ _Not yet developed._
 - [[Women and Gospel Learning in the Home (President Henry B. Eyring, October 2018)|Women and Gospel Learning in the Home]] — President Henry B. Eyring, 2018-October *(explicit citation)*
 - [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[A Priceless Heritage of Hope (President Henry B. Eyring, April 2014)|A Priceless Heritage of Hope]] — President Henry B. Eyring, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

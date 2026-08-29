@@ -65,6 +65,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Joyful Burden of Discipleship (Elder Ronald A. Rasband, April 2014)|The Joyful Burden of Discipleship]] — Elder Ronald A. Rasband, 2014-April *(explicit citation)*
 - [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[“Whoso Receiveth Them, Receiveth Me” (Elder Neil L. Andersen, April 2016)|“Whoso Receiveth Them, Receiveth Me”]] — Elder Neil L. Andersen, 2016-April *(explicit citation)*
@@ -74,7 +75,6 @@ _Not yet developed._
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
-- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

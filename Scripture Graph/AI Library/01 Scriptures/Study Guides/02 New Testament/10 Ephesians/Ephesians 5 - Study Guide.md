@@ -58,6 +58,9 @@ _Not yet developed._
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[The Need for a Church (President Dallin H. Oaks, October 2021)|The Need for a Church]] — President Dallin H. Oaks, 2021-October *(explicit citation)*
 - [[“Lovest Thou Me More Than These” (President M. Russell Ballard, October 2021)|“Lovest Thou Me More Than These?”]] — President M. Russell Ballard, 2021-October *(explicit citation)*
+- [[Are You Sleeping through the Restoration (President Dieter F. Uchtdorf, April 2014)|Are You Sleeping through the Restoration?]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

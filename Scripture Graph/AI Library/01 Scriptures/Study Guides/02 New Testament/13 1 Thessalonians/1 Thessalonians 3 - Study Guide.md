@@ -53,7 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[No Other Gods (Elder Dallin H. Oaks, October 2013)|No Other Gods]] — Elder Dallin H. Oaks, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

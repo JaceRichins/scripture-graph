@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
+- [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

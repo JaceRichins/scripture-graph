@@ -54,6 +54,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Like a Broken Vessel (Elder Jeffrey R. Holland, October 2013)|Like a Broken Vessel]] — Elder Jeffrey R. Holland, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

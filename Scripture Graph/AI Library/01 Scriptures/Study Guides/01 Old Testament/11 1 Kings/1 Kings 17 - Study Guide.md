@@ -59,6 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Live according to the Words of the Prophets (Carol F. McConkie, October 2014)|Live according to the Words of the Prophets]] — Carol F. McConkie, 2014-October *(explicit citation)*
 - [[The Eternal Principle of Love (Elder Hugo Montoya, October 2022)|The Eternal Principle of Love]] — Elder Hugo Montoya, 2022-October *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*

@@ -58,6 +58,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
+- [[Receiving a Testimony of Light and Truth (President Dieter F. Uchtdorf, October 2014)|Receiving a Testimony of Light and Truth]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

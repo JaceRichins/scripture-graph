@@ -69,6 +69,8 @@ _Not yet developed._
 - [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Personal Peace The Reward of Righteousness (Elder Quentin L. Cook, April 2013)|Personal Peace: The Reward of Righteousness]] — Elder Quentin L. Cook, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

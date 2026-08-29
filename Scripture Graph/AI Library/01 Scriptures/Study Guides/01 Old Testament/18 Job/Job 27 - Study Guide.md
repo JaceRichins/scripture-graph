@@ -53,6 +53,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[We Can Do Hard Things through Him (Elder Isaac K. Morrison, October 2022)|We Can Do Hard Things through Him]] — Elder Isaac K. Morrison, 2022-October *(explicit citation)*
+- [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

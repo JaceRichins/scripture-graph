@@ -69,8 +69,8 @@ _Not yet developed._
 - [[It Is Wisdom in the Lord That We Should Have the Book of Mormon (President Mark L. Pace, April 2024)|It Is Wisdom in the Lord That We Should Have the Book of Mormon]] — President Mark L. Pace, 2024-April *(explicit citation)*
 - [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 - [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
+- [[It’s a Miracle (Elder Neil L. Andersen, April 2013)|It’s a Miracle]] — Elder Neil L. Andersen, 2013-April *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
-- [[Prayers of Faith (President Henry B. Eyring, April 2020)|Prayers of Faith]] — President Henry B. Eyring, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

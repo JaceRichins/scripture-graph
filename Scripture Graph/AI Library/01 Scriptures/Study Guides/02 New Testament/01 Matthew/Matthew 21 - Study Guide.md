@@ -77,6 +77,7 @@ _Not yet developed._
 - [[Rise! He Calleth Thee (Elder Massimo De Feo, April 2024)|Rise! He Calleth Thee]] — Elder Massimo De Feo, 2024-April *(explicit citation)*
 - [[“I Am He” (President Jeffrey R. Holland, October 2024)|“I Am He”]] — President Jeffrey R. Holland, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

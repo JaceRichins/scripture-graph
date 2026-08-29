@@ -65,6 +65,8 @@ _Not yet developed._
 - [[“Behold I Am the Light Which Ye Shall Hold Up” (Elder Ronald A. Rasband, October 2024)|“Behold I Am the Light Which Ye Shall Hold Up”]] — Elder Ronald A. Rasband, 2024-October *(explicit citation)*
 - [[Right Before Our Eyes (Elder Ronald A. Rasband, April 2025)|Right Before Our Eyes]] — Elder Ronald A. Rasband, 2025-April *(explicit citation)*
 - [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
+- [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
+- [[We Are Daughters of Our Heavenly Father (Elaine S. Dalton, April 2013)|We Are Daughters of Our Heavenly Father]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

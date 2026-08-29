@@ -89,6 +89,7 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
 - [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
 - [[A Mighty Change of Heart “I Have Nothing More to Give You” (Elder Eduardo Gavarret, April 2022)|A Mighty Change of Heart: “I Have Nothing More to Give You”]] — Elder Eduardo Gavarret, 2022-April *(explicit citation)*
+- [[Ye Are No More Strangers (Bishop Gérald Caussé, October 2013)|Ye Are No More Strangers]] — Bishop Gérald Caussé, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

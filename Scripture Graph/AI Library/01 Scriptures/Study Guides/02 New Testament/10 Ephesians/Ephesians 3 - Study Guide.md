@@ -61,6 +61,7 @@ _Not yet developed._
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
+- [[“Lord, Is It I” (President Dieter F. Uchtdorf, October 2014)|“Lord, Is It I?”]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

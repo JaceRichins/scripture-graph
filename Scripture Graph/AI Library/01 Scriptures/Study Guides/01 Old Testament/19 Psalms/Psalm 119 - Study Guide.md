@@ -65,6 +65,8 @@ _Not yet developed._
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
+- [[The Home The School of Life (Elder Enrique R. Falabella, April 2013)|The Home: The School of Life]] — Elder Enrique R. Falabella, 2013-April *(explicit citation)*
+- [[Yes, Lord, I Will Follow Thee (Elder Eduardo Gavarret, October 2014)|Yes, Lord, I Will Follow Thee]] — Elder Eduardo Gavarret, 2014-October *(explicit citation)*
 - [[Conference Report, October 1925 (General Conference (full report), October 1925)|Conference Report, October 1925]] — General Conference (full report), 1925-October *(explicit citation)*
 <!-- SG:END conference -->
 

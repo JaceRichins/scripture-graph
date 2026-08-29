@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
+- [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Seek Ye Out of the Best Books (Elder Ian S. Ardern, October 2017)|Seek Ye Out of the Best Books]] — Elder Ian S. Ardern, 2017-October *(explicit citation)*
 - [[Conference Report, October 1926 (General Conference (full report), October 1926)|Conference Report, October 1926]] — General Conference (full report), 1926-October *(explicit citation)*
 <!-- SG:END conference -->

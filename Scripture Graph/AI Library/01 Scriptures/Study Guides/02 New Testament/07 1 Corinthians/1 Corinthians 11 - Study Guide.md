@@ -53,6 +53,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Defenders of the Family Proclamation (Bonnie L. Oscarson, April 2015)|Defenders of the Family Proclamation]] — Bonnie L. Oscarson, 2015-April *(explicit citation)*
 - [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
 - [[Two Great Commandments (President Dallin H. Oaks, October 2019)|Two Great Commandments]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
@@ -61,6 +62,7 @@ _Not yet developed._
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[The Pleasing Word of God (Elder Francisco J. Viñas, October 2015)|The Pleasing Word of God]] — Elder Francisco J. Viñas, 2015-October *(explicit citation)*
 - [[To Be a Follower of Christ (Elder Alfred Kyungu, October 2021)|To Be a Follower of Christ]] — Elder Alfred Kyungu, 2021-October *(explicit citation)*
+- [[We Believe in Being Chaste (Elder David A. Bednar, April 2013)|We Believe in Being Chaste]] — Elder David A. Bednar, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

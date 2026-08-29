@@ -69,6 +69,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[“If Ye Love Me, Keep My Commandments” (Elder Robert D. Hales, April 2014)|“If Ye Love Me, Keep My Commandments”]] — Elder Robert D. Hales, 2014-April *(explicit citation)*
 - [[The Heart of a Prophet (Elder Gary E. Stevenson, April 2018)|The Heart of a Prophet]] — Elder Gary E. Stevenson, 2018-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*

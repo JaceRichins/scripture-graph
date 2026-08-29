@@ -72,6 +72,9 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
+- [[Obedience Brings Blessings (President Thomas S. Monson, April 2013)|Obedience Brings Blessings]] — President Thomas S. Monson, 2013-April *(explicit citation)*
+- [[Ponder the Path of Thy Feet (President Thomas S. Monson, October 2014)|Ponder the Path of Thy Feet]] — President Thomas S. Monson, 2014-October *(explicit citation)*
+- [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

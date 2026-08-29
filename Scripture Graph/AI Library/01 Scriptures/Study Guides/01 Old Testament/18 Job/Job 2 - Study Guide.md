@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

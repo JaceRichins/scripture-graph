@@ -57,6 +57,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
+- [[Choose Wisely (Elder Quentin L. Cook, October 2014)|Choose Wisely]] — Elder Quentin L. Cook, 2014-October *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[I Am a Child of God (Elder Donald L. Hallstrom, April 2016)|I Am a Child of God]] — Elder Donald L. Hallstrom, 2016-April *(explicit citation)*
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
@@ -65,7 +66,6 @@ _Not yet developed._
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
 - [[Following Jesus Being a Peacemaker (Elder Neil L. Andersen, April 2022)|Following Jesus: Being a Peacemaker]] — Elder Neil L. Andersen, 2022-April *(explicit citation)*
-- [[My Mind Caught Hold upon This Thought of Jesus Christ (Elder Neil L. Andersen, April 2023)|My Mind Caught Hold upon This Thought of Jesus Christ]] — Elder Neil L. Andersen, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

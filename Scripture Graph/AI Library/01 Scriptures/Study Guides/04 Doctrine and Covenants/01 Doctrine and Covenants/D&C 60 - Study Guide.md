@@ -57,6 +57,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
 - [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
 <!-- SG:END conference -->

@@ -61,6 +61,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
 - [[Follow the Prophet; He Knows the Way (Elder Michael John U. Teh, April 2026)|Follow the Prophet; He Knows the Way]] — Elder Michael John U. Teh, 2026-April *(explicit citation)*
+- [[General Conference Strengthening Faith and Testimony (Elder Robert D. Hales, October 2013)|General Conference: Strengthening Faith and Testimony]] — Elder Robert D. Hales, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

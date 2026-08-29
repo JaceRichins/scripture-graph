@@ -64,10 +64,10 @@ _Not yet developed._
 - [[Peacemakers Needed (President Russell M. Nelson, April 2023)|Peacemakers Needed]] — President Russell M. Nelson, 2023-April *(explicit citation)*
 - [[Cherishing Life (Elder Neil L. Andersen, April 2025)|Cherishing Life]] — Elder Neil L. Andersen, 2025-April *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
+- [[“I Have Given You an Example” (Elder Richard G. Scott, April 2014)|“I Have Given You an Example”]] — Elder Richard G. Scott, 2014-April *(explicit citation)*
 - [[God Is at the Helm (Elder M. Russell Ballard, October 2015)|God Is at the Helm]] — Elder M. Russell Ballard, 2015-October *(explicit citation)*
 - [[I Stand All Amazed (Elder Ronald A. Rasband, October 2015)|I Stand All Amazed]] — Elder Ronald A. Rasband, 2015-October *(explicit citation)*
 - [[He Asks Us to Be His Hands (Cheryl A. Esplin, April 2016)|He Asks Us to Be His Hands]] — Cheryl A. Esplin, 2016-April *(explicit citation)*
-- [[Love One Another as He Has Loved Us (Elder Jose L. Alonso, October 2017)|Love One Another as He Has Loved Us]] — Elder Jose L. Alonso, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

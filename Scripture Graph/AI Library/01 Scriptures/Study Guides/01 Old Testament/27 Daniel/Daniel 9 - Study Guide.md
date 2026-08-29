@@ -67,6 +67,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
+- [[Sustaining the Prophets (Elder Russell M. Nelson, October 2014)|Sustaining the Prophets]] — Elder Russell M. Nelson, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

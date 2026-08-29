@@ -64,6 +64,7 @@ _Not yet developed._
 - [[It Is Wisdom in the Lord That We Should Have the Book of Mormon (President Mark L. Pace, April 2024)|It Is Wisdom in the Lord That We Should Have the Book of Mormon]] — President Mark L. Pace, 2024-April *(explicit citation)*
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
+- [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
 - [[The Powers of the Priesthood (President Dallin H. Oaks, April 2018)|The Powers of the Priesthood]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 

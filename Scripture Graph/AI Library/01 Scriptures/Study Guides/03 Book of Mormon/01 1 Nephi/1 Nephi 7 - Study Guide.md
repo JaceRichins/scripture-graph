@@ -69,6 +69,7 @@ _Not yet developed._
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Faithful to the End (Sister Andrea Muñoz Spannaus, April 2024)|Faithful to the End]] — Sister Andrea Muñoz Spannaus, 2024-April *(explicit citation)*
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
+- [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

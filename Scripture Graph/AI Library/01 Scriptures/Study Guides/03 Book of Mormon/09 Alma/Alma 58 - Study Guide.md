@@ -67,11 +67,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
+- [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 - [[That Your Joy Might Be Full (Jean B. Bingham, October 2017)|That Your Joy Might Be Full]] — Jean B. Bingham, 2017-October *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
 - [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Call, Don’t Fall (Elder Taylor G. Godoy, April 2024)|Call, Don’t Fall]] — Elder Taylor G. Godoy, 2024-April *(explicit citation)*
+- [[The Windows of Heaven (Elder David A. Bednar, October 2013)|The Windows of Heaven]] — Elder David A. Bednar, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

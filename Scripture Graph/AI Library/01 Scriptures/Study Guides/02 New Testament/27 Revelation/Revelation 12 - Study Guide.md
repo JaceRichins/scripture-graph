@@ -66,7 +66,7 @@ _Not yet developed._
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
 - [[Beware the Second Temptation (Elder Scott D. Whiting, April 2025)|Beware the Second Temptation]] — Elder Scott D. Whiting, 2025-April *(explicit citation)*
-- [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
+- [[Free Forever, to Act for Themselves (Elder D. Todd Christofferson, October 2014)|Free Forever, to Act for Themselves]] — Elder D. Todd Christofferson, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

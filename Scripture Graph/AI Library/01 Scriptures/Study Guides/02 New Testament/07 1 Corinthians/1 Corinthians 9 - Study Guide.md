@@ -81,7 +81,7 @@ Paul's use of [[Freedom and Liberty]] is relational and disciplined: possessing 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Your Four Minutes (Bishop Gary E. Stevenson, April 2014)|Your Four Minutes]] — Bishop Gary E. Stevenson, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

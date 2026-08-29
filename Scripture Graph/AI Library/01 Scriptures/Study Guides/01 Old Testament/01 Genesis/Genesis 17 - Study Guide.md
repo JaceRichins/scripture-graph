@@ -66,6 +66,7 @@ _Not yet developed._
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]] — Elder Kazuhiko Yamashita, 2023-April *(explicit citation)*
+- [[Obedience through Our Faithfulness (Elder L. Tom Perry, April 2014)|Obedience through Our Faithfulness]] — Elder L. Tom Perry, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

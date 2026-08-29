@@ -65,6 +65,8 @@ _Not yet developed._
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
+- [[Hastening the Lord’s Game Plan! (Elder S. Gifford Nielsen, October 2013)|Hastening the Lord’s Game Plan!]] — Elder S. Gifford Nielsen, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

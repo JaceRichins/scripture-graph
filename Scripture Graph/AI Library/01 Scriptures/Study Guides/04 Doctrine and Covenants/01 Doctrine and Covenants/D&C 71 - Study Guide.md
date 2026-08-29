@@ -65,6 +65,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
+- [[“If Ye Love Me, Keep My Commandments” (Elder Robert D. Hales, April 2014)|“If Ye Love Me, Keep My Commandments”]] — Elder Robert D. Hales, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

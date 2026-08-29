@@ -57,6 +57,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
+- [[The Joyful Burden of Discipleship (Elder Ronald A. Rasband, April 2014)|The Joyful Burden of Discipleship]] — Elder Ronald A. Rasband, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

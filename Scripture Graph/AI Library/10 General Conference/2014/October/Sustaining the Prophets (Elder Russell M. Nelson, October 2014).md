@@ -1,0 +1,181 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Russell M. Nelson
+year: '2014'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2014/10/sustaining-the-prophets?lang=eng
+doc_id: talk:2014-october-sustaining-the-prophets
+full_text: true
+---
+
+# Sustaining the Prophets
+
+**Speaker:** Elder Russell M. Nelson · **Conference:** October 2014 · [source](https://www.churchofjesuschrist.org/general-conference/2014/10/sustaining-the-prophets?lang=eng)
+
+Sustaining the Prophets
+
+By Elder Russell M. Nelson
+
+Of the Quorum of the Twelve Apostles
+
+Our sustaining of prophets is a personal commitment that we will do our utmost to uphold their prophetic priorities.
+
+President Eyring, we thank you for your instructive and inspiring message. My dear brothers and sisters, we thank you for your faith and devotion. Yesterday, we were each invited to sustain Thomas S. Monson as the prophet of the Lord and President of the Lord’s Church. And often we sing, “We thank thee, O God, for a prophet.” Do you and I really understand what that means? Imagine the privilege the Lord has given us of sustaining His prophet, whose counsel will be untainted, unvarnished, unmotivated by any personal aspiration, and utterly true!
+
+How do we really sustain a prophet? Long before he became President of the Church, President Joseph F. Smith explained, “It is an important duty resting upon the Saints who … sustain the authorities of the Church, to do so not only by the lifting of the hand, the mere form, but in deed and in truth.”
+
+Well do I remember my most unique “deed” to sustain a prophet. As a medical doctor and cardiac surgeon, I had the responsibility of performing open-heart surgery on President Spencer W. Kimball in 1972, when he was Acting President of the Quorum of the Twelve Apostles. He needed a very complex operation. But I had no experience doing such a procedure on a 77-year-old patient in heart failure. I did not recommend the operation and so informed President Kimball and the First Presidency. But, in faith, President Kimball chose to have the operation, only because it was advised by the First Presidency. That shows how he sustained his leaders! And his decision made me tremble!
+
+Thanks to the Lord, the operation was a success. When President Kimball’s heart resumed beating, it did so with great power! At that very moment, I had a clear witness of the Spirit that this man would one day become President of the Church!
+
+You know the outcome. Only 20 months later, President Kimball became President of the Church. And he provided bold and courageous leadership for many years.
+
+Since then we have sustained Presidents Ezra Taft Benson, Howard W. Hunter, Gordon B. Hinckley, and now Thomas S. Monson as Presidents of the Church—prophets in every sense of the word!
+
+My dear brothers and sisters, if the Restoration did anything, it shattered the age-old myth that God had stopped talking to His children. Nothing could be further from the truth. A prophet has stood at the head of God’s Church in all dispensations, from Adam to the present day. Prophets testify of Jesus Christ—of His divinity and of His earthly mission and ministry. We honor the Prophet Joseph Smith as the prophet of this last dispensation. And we honor each man who has succeeded him as President of the Church.
+
+When we sustain prophets and other leaders, we invoke the law of common consent, for the Lord said, “It shall not be given to any one to go forth to preach my gospel, or to build up my church, except he be ordained by some one who has authority, and it is known to the church that he has authority and has been regularly ordained by the heads of the church.”
+
+This gives us, as members of the Lord’s Church, confidence and faith as we strive to keep the scriptural injunction to heed the Lord’s voice as it comes through the voice of His servants the prophets. All leaders in the Lord’s Church are called by proper authority. No prophet or any other leader in this Church, for that matter, has ever called himself or herself. No prophet has ever been elected. The Lord made that clear when He said, “Ye have not chosen me, but I have chosen you, and ordained you.” You and I do not “vote” on Church leaders at any level. We do, though, have the privilege of sustaining them.
+
+The ways of the Lord are different from the ways of man. Man’s ways remove people from office or business when they grow old or become disabled. But man’s ways are not and never will be the Lord’s ways. Our sustaining of prophets is a personal commitment that we will do our utmost to uphold their prophetic priorities. Our sustaining is an oath-like indication that we recognize their calling as a prophet to be legitimate and binding upon us.
+
+Twenty-six years before he became President of the Church, then-Elder George Albert Smith said: “The obligation that we make when we raise our hands … is a most sacred one. It does not mean that we will go quietly on our way and be willing that the prophet of the Lord shall direct this work, but it means … that we will stand behind him; we will pray for him; we will defend his good name, and we will strive to carry out his instructions as the Lord shall direct.”
+
+The living Lord leads His living Church! The Lord reveals His will for the Church to His prophet. Yesterday, after we were invited to sustain Thomas S. Monson as President of the Church, we also had the privilege to sustain him, the counselors in the First Presidency, and members of the Quorum of the Twelve Apostles as prophets, seers, and revelators. Think of that! We sustain 15 men as prophets of God! They hold all the priesthood keys that have ever been conferred upon man in this dispensation.
+
+The calling of 15 men to the holy apostleship provides great protection for us as members of the Church. Why? Because decisions of these leaders must be unanimous. Can you imagine how the Spirit needs to move upon 15 men to bring about unanimity? These 15 men have varied educational and professional backgrounds, with differing opinions about many things. Trust me! These 15 men—prophets, seers, and revelators—know what the will of the Lord is when unanimity is reached! They are committed to see that the Lord’s will truly will be done. The Lord’s Prayer provides the pattern for each of these 15 men when they pray: “Thy will be done on earth as it is in heaven.”
+
+The Apostle with the longest seniority in the office of Apostle presides. That system of seniority will usually bring older men to the office of President of the Church. It provides continuity, seasoned maturity, experience, and extensive preparation, as guided by the Lord.
+
+The Church today has been organized by the Lord Himself. He has put in place a remarkable system of governance that provides redundancy and backup. That system provides for prophetic leadership even when the inevitable illnesses and incapacities may come with advancing age. Counterbalances and safeguards abound so that no one can ever lead the Church astray. Senior leaders are constantly being tutored such that one day they are ready to sit in the highest councils. They learn how to hear the voice of the Lord through the whisperings of the Spirit.
+
+While serving as First Counselor to President Ezra Taft Benson, who was then nearing the end of his mortal life, President Gordon B. Hinckley explained:
+
+“The principles and procedures which the Lord has put in place for the governance of His church make provision for any … circumstance. It is important … that there be no doubts or concerns about the governance of the Church and the exercise of the prophetic gifts, including the right to inspiration and revelation in administering the affairs and programs of the Church, when the President may be ill or is not able to function fully.
+
+“The First Presidency and the Council of the Twelve Apostles, called and ordained to hold the keys of the priesthood, have the authority and responsibility to govern the Church, to administer its ordinances, to expound its doctrine, and to establish and maintain its practices.”
+
+President Hinckley continued:
+
+“When the President is ill or not able to function fully in all of the duties of his office, his two Counselors together comprise a Quorum of the First Presidency. They carry on with the day-to-day work of the Presidency. …
+
+“… But any major questions of policy, procedures, programs, or doctrine are considered deliberately and prayerfully by the First Presidency and the Twelve together.”
+
+Last year, when President Monson reached the milestone of 5 years of service as President of the Church, he reflected on his 50 years of apostolic service and made this statement: “Age eventually takes its toll on all of us. However, we join our voices with King Benjamin, who said, … ‘I am like as yourselves, subject to all manner of infirmities in body and mind; yet I have been chosen … and consecrated by my father, … and have been kept and preserved by his matchless power, to serve you with all the might, mind and strength which the Lord hath granted unto me’ (Mosiah 2:11).”
+
+President Monson continued: “Despite any health challenges that may come to us, despite any weakness in body or mind, we serve to the best of our ability. I assure you that the Church is in good hands. The system set up for the Council of the First Presidency and Quorum of the Twelve [Apostles] assures [us] that it will always be in good hands and that, come what may, there is no need to worry or to fear. Our Savior, Jesus Christ, whom we follow, whom we worship, and whom we serve, is ever at the helm.”
+
+President Monson, we thank you for those truths! And we thank you for your lifetime of exemplary and dedicated service. May I presume to speak for the members of the Church throughout the world in our united and sincere expression of gratitude for you. We honor you! We love you! We sustain you, not only with uplifted hands but with all our hearts and consecrated efforts. Humbly and fervently, “we ever pray for thee, our prophet dear”! In the name of Jesus Christ, amen.
+
+Notes
+
+“We Thank Thee, O God, for a Prophet,” Hymns, no. 19.
+
+Teachings of Presidents of the Church: Joseph F. Smith (1998), 211; emphasis added. This statement was made in 1898, when President Smith was Second Counselor in the First Presidency.
+
+For further details, see Spencer J. Condie, Russell M. Nelson: Father, Surgeon, Apostle (2003), 153–56.
+
+See Bible Dictionary, “Dispensations.”
+
+A number of prophets foretold the coming of the Lord, including Lehi (see 1 Nephi 1:19), Nephi (see 1 Nephi 11:31–33; 19:7–8), Jacob (see Jacob 4:4–6), Benjamin (see Mosiah 3:5–11, 15), Abinadi (see Mosiah 15:1–9), Alma (see Alma 40:2), and Samuel the Lamanite (see Helaman 14:12). Before the Savior was born in Bethlehem, they foresaw His atoning sacrifice and His subsequent Resurrection.
+
+The principle of sustaining leaders is fundamental throughout the Lord’s Church. A person is sustained before being set apart to a calling or being ordained to an office in the priesthood.
+
+Doctrine and Covenants 42:11. The practice of sustaining our leaders was implemented on April 6, 1830, when the Church was organized, and in March 1836, when members of the First Presidency and the Quorum of the Twelve Apostles were sustained as prophets, seers, and revelators (see History of the Church, 1:74–77; 2:417).
+
+The Book of Mormon warns of danger if we disregard prophetic teachings. From it we read that “the great and spacious building was the pride of the world; and it fell, and the fall thereof was exceedingly great. And the angel of the Lord spake … , saying: Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb” (1 Nephi 11:36).
+
+See Daniel 9:10; Amos 3:7; Doctrine and Covenants 21:1, 4–5; 124:45–46.
+
+John 15:16. The fifth article of faith clarifies: “We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.”
+
+Teachings of Presidents of the Church: George Albert Smith (2011), 64; emphasis added. This quotation came from a conference address by Elder George Albert Smith in 1919. He became President of the Church in 1945.
+
+See Doctrine and Covenants 1:30, 38.
+
+See Doctrine and Covenants 107:27.
+
+3 Nephi 13:10; see also Matthew 6:10; Luke 11:2.
+
+When a President of the Church dies, the First Presidency is dissolved and the counselors take their places in the Quorum of the Twelve Apostles. The Quorum of the Twelve then presides over the Church until the First Presidency is reorganized. That period of time is known as an apostolic interregnum. Historically, that interval has varied in length from four days to three and a half years.
+
+Of course, that pattern of succession did not apply to the calling of Joseph Smith, who was foreordained to be the prophet of the Restoration and the first President of the Church (see 2 Nephi 3:6–22; see also Abraham 3:22–23).
+
+We know that the Lord Himself can call any of us home anytime He chooses.
+
+Gordon B. Hinckley, “God Is at the Helm,” Ensign, May 1994, 54; see also Gordon B. Hinckley, “He Slumbers Not, nor Sleeps,” Ensign, May 1983, 6.
+
+“Message from President Thomas S. Monson,” Church News, Feb. 3, 2013, 9.
+
+“We Ever Pray for Thee,” Hymns, no. 23.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28863829", "context": "", "text": "
+“We Thank Thee, O God, for a Prophet,” Hymns, no. 19.
+"}, "note2": {"id": "note2", "marker": "2.", "pid": "28863830", "context": "", "text": "
+Teachings of Presidents of the Church: Joseph F. Smith (1998), 211; emphasis added. This statement was made in 1898, when President Smith was Second Counselor in the First Presidency.
+"}, "note3": {"id": "note3", "marker": "3.", "pid": "28863832", "context": "", "text": "
+For further details, see Spencer J. Condie, Russell M. Nelson: Father, Surgeon, Apostle (2003), 153–56.
+"}, "note4": {"id": "note4", "marker": "4.", "pid": "28863835", "context": "", "text": "
+See Bible Dictionary, “Dispensations.”
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bd/dispensations?lang=eng", "text": "Dispensations"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28863835", "context": "", "text": "
+A number of prophets foretold the coming of the Lord, including Lehi (see 1 Nephi 1:19), Nephi (see 1 Nephi 11:31–33; 19:7–8), Jacob (see Jacob 4:4–6), Benjamin (see Mosiah 3:5–11, 15), Abinadi (see Mosiah 15:1–9), Alma (see Alma 40:2), and Samuel the Lamanite (see Helaman 14:12). Before the Savior was born in Bethlehem, they foresaw His atoning sacrifice and His subsequent Resurrection.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/1?lang=eng&id=p19#p19", "text": "1 Nephi 1:19"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/11?lang=eng&id=p31-p33#p31", "text": "1 Nephi 11:31–33"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/19?lang=eng&id=p7-p8#p7", "text": "19:7–8"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/jacob/4?lang=eng&id=p4-p6#p4", "text": "Jacob 4:4–6"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/3?lang=eng&id=p5-p11%2Cp15#p5", "text": "Mosiah 3:5–11, 15"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/15?lang=eng&id=p1-p9#p1", "text": "Mosiah 15:1–9"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/40?lang=eng&id=p2#p2", "text": "Alma 40:2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/14?lang=eng&id=p12#p12", "text": "Helaman 14:12"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28863836", "context": "", "text": "
+The principle of sustaining leaders is fundamental throughout the Lord’s Church. A person is sustained before being set apart to a calling or being ordained to an office in the priesthood.
+"}, "note7": {"id": "note7", "marker": "7.", "pid": "28863836", "context": "", "text": "
+Doctrine and Covenants 42:11. The practice of sustaining our leaders was implemented on April 6, 1830, when the Church was organized, and in March 1836, when members of the First Presidency and the Quorum of the Twelve Apostles were sustained as prophets, seers, and revelators (see History of the Church, 1:74–77; 2:417).
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11", "text": "Doctrine and Covenants 42:11"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28863837", "context": "", "text": "
+The Book of Mormon warns of danger if we disregard prophetic teachings. From it we read that “the great and spacious building was the pride of the world; and it fell, and the fall thereof was exceedingly great. And the angel of the Lord spake … , saying: Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb” (1 Nephi 11:36).
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/11?lang=eng&id=p36#p36", "text": "1 Nephi 11:36"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28863837", "context": "", "text": "
+See Daniel 9:10; Amos 3:7; Doctrine and Covenants 21:1, 4–5; 124:45–46.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/dan/9?lang=eng&id=p10#p10", "text": "Daniel 9:10"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/amos/3?lang=eng&id=p7#p7", "text": "Amos 3:7"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/21?lang=eng&id=p1%2Cp4-p5#p1", "text": "Doctrine and Covenants 21:1, 4–5"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/124?lang=eng&id=p45-p46#p45", "text": "124:45–46"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28863837", "context": "", "text": "
+John 15:16. The fifth article of faith clarifies: “We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.”
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/15?lang=eng&id=p16#p16", "text": "John 15:16"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/a-of-f/1?lang=eng&id=p5#p5", "text": "fifth article of faith"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28863839", "context": "", "text": "
+Teachings of Presidents of the Church: George Albert Smith (2011), 64; emphasis added. This quotation came from a conference address by Elder George Albert Smith in 1919. He became President of the Church in 1945.
+"}, "note12": {"id": "note12", "marker": "12.", "pid": "28863840", "context": "", "text": "
+See Doctrine and Covenants 1:30, 38.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/1?lang=eng&id=p30%2Cp38#p30", "text": "Doctrine and Covenants 1:30, 38"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28863841", "context": "", "text": "
+See Doctrine and Covenants 107:27.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/107?lang=eng&id=p27#p27", "text": "Doctrine and Covenants 107:27"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28863841", "context": "", "text": "
+3 Nephi 13:10; see also Matthew 6:10; Luke 11:2.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/13?lang=eng&id=p10#p10", "text": "3 Nephi 13:10"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/matt/6?lang=eng&id=p10#p10", "text": "Matthew 6:10"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/luke/11?lang=eng&id=p2#p2", "text": "Luke 11:2"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28863842", "context": "", "text": "
+When a President of the Church dies, the First Presidency is dissolved and the counselors take their places in the Quorum of the Twelve Apostles. The Quorum of the Twelve then presides over the Church until the First Presidency is reorganized. That period of time is known as an apostolic interregnum. Historically, that interval has varied in length from four days to three and a half years.
+"}, "note16": {"id": "note16", "marker": "16.", "pid": "28863842", "context": "", "text": "
+Of course, that pattern of succession did not apply to the calling of Joseph Smith, who was foreordained to be the prophet of the Restoration and the first President of the Church (see 2 Nephi 3:6–22; see also Abraham 3:22–23).
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/3?lang=eng&id=p6-p22#p6", "text": "2 Nephi 3:6–22"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22", "text": "Abraham 3:22–23"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28863843", "context": "", "text": "
+We know that the Lord Himself can call any of us home anytime He chooses.
+"}, "note18": {"id": "note18", "marker": "18.", "pid": "28863849", "context": "", "text": "
+Gordon B. Hinckley, “God Is at the Helm,” Ensign, May 1994, 54; see also Gordon B. Hinckley, “He Slumbers Not, nor Sleeps,” Ensign, May 1983, 6.
+", "referenceUris": [{"type": "cross-ref", "href": "/study/ensign/1983/05/he-slumbers-not-nor-sleeps?lang=eng", "text": "He Slumbers Not, nor Sleeps"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28863851", "context": "", "text": "
+“Message from President Thomas S. Monson,” Church News, Feb. 3, 2013, 9.
+"}, "note20": {"id": "note20", "marker": "20.", "pid": "28863852", "context": "", "text": "
+“We Ever Pray for Thee,” Hymns, no. 23.
+"}}
+
+## Scripture citations in this talk
+
+- [[1 Nephi 11]] (6×)
+- [[1 Nephi 1]] (3×)
+- [[Jacob 4]] (3×)
+- [[Mosiah 3]] (3×)
+- [[Mosiah 15]] (3×)
+- [[Alma 40]] (3×)
+- [[Helaman 14]] (3×)
+- [[D&C 42]] (3×)
+- [[Daniel 9]] (3×)
+- [[Amos 3]] (3×)
+- [[D&C 21]] (3×)
+- [[John 15]] (3×)
+- [[D&C 1]] (3×)
+- [[D&C 107]] (3×)
+- [[3 Nephi 13]] (3×)
+- [[Matthew 6]] (3×)
+- [[Luke 11]] (3×)
+- [[2 Nephi 3]] (3×)
+- [[Abraham 3]] (3×)
+- [[1 Nephi 19]] (2×)
+- [[D&C 124]] (2×)
+- [[Mosiah 2]] (1×)

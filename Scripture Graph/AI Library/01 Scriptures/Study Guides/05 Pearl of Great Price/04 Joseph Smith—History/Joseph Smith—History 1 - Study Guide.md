@@ -106,11 +106,11 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - [[Knowing, Loving, and Growing (Elder Hans T. Boom, October 2019)|Knowing, Loving, and Growing]] — Elder Hans T. Boom, 2019-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
+- [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
 - [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
 - [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
-- [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -177,3 +177,8 @@ Compare Joseph's analogy in verses 24–25 with Paul's defense in [[Acts 26]]. C
 
 Track source proximity throughout the chapter: Joseph narrates some experiences as his own, quotes messages remembered years later, and embeds Martin Harris's account in verses 63–65. These distinctions help prevent a reported claim, a narrator's interpretation, a textual parallel, and independent evidence from being treated as equivalent. Textual parallels can illuminate the chapter's place within [[Restoration of the Gospel]], but they cannot by themselves establish historicity or supernatural origin.
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

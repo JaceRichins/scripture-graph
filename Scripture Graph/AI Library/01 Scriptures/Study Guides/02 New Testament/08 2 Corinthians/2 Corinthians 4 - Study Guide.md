@@ -59,7 +59,9 @@ _Not yet developed._
 - [[Come and Belong (Elder Dieter F. Uchtdorf, April 2020)|Come and Belong]] — Elder Dieter F. Uchtdorf, 2020-April *(explicit citation)*
 - [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
-- [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
+- [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[Spiritual Whirlwinds (Elder Neil L. Andersen, April 2014)|Spiritual Whirlwinds]] — Elder Neil L. Andersen, 2014-April *(explicit citation)*
+- [[“Lord, Is It I” (President Dieter F. Uchtdorf, October 2014)|“Lord, Is It I?”]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

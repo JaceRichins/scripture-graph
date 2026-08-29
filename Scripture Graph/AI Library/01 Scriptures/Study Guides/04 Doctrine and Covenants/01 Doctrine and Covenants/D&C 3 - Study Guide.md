@@ -66,9 +66,9 @@ _Not yet developed._
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
-- [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
-- [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
-- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
+- [[“If Ye Love Me, Keep My Commandments” (Elder Robert D. Hales, April 2014)|“If Ye Love Me, Keep My Commandments”]] — Elder Robert D. Hales, 2014-April *(explicit citation)*
+- [[Let Your Faith Show (Elder Russell M. Nelson, April 2014)|Let Your Faith Show]] — Elder Russell M. Nelson, 2014-April *(explicit citation)*
+- [[Free Forever, to Act for Themselves (Elder D. Todd Christofferson, October 2014)|Free Forever, to Act for Themselves]] — Elder D. Todd Christofferson, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

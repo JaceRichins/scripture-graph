@@ -53,7 +53,10 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
+- [[Marriage Watch and Learn (Elder L. Whitney Clayton, April 2013)|Marriage: Watch and Learn]] — Elder L. Whitney Clayton, 2013-April *(explicit citation)*
+- [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[What Are You Thinking (Elder W. Craig Zwick, April 2014)|What Are You Thinking?]] — Elder W. Craig Zwick, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

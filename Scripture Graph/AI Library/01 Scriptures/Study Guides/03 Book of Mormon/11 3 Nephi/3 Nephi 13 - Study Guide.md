@@ -73,8 +73,8 @@ _Not yet developed._
 - [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 - [[Peacemakers Needed (President Russell M. Nelson, April 2023)|Peacemakers Needed]] — President Russell M. Nelson, 2023-April *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
-- [[The Melchizedek Priesthood and the Keys (President Dallin H. Oaks, April 2020)|The Melchizedek Priesthood and the Keys]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
-- [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
+- [[Where Your Treasure Is (Elder Michael John U. Teh, April 2014)|Where Your Treasure Is]] — Elder Michael John U. Teh, 2014-April *(explicit citation)*
+- [[Sustaining the Prophets (Elder Russell M. Nelson, October 2014)|Sustaining the Prophets]] — Elder Russell M. Nelson, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

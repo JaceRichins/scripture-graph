@@ -61,6 +61,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[Teaching with the Power and Authority of God (David M. McConkie, October 2013)|Teaching with the Power and Authority of God]] — David M. McConkie, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -54,7 +54,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

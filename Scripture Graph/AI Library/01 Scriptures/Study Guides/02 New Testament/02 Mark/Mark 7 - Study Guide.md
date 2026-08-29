@@ -62,7 +62,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Choose Wisely (Elder Quentin L. Cook, October 2014)|Choose Wisely]] — Elder Quentin L. Cook, 2014-October *(explicit citation)*
 - [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
+- [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
+- [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

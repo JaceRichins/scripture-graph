@@ -54,6 +54,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Even as Christ Forgives You, So Also Do Ye (Elder Larry J. Echo Hawk, April 2018)|Even as Christ Forgives You, So Also Do Ye]] — Elder Larry J. Echo Hawk, 2018-April *(explicit citation)*
 - [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
+- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
 - [[Eternal Families (President Henry B. Eyring, April 2016)|Eternal Families]] — President Henry B. Eyring, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

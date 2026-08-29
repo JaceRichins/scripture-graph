@@ -54,7 +54,10 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
+- [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
+- [[Obedience through Our Faithfulness (Elder L. Tom Perry, April 2014)|Obedience through Our Faithfulness]] — Elder L. Tom Perry, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

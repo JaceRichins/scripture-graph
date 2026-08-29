@@ -77,7 +77,8 @@ _Not yet developed._
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
-- [[Whatsoever He Saith unto You, Do It (Elder L. Whitney Clayton, April 2017)|Whatsoever He Saith unto You, Do It]] — Elder L. Whitney Clayton, 2017-April *(explicit citation)*
+- [[The Home The School of Life (Elder Enrique R. Falabella, April 2013)|The Home: The School of Life]] — Elder Enrique R. Falabella, 2013-April *(explicit citation)*
+- [[The Words We Speak (Rosemary M. Wixom, April 2013)|The Words We Speak]] — Rosemary M. Wixom, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let Your Faith Show (Elder Russell M. Nelson, April 2014)|Let Your Faith Show]] — Elder Russell M. Nelson, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

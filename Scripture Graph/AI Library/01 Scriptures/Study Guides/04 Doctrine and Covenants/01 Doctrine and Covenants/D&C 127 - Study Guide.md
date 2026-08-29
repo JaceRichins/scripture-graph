@@ -58,6 +58,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Recommended to the Lord (Elder Ronald A. Rasband, October 2020)|Recommended to the Lord]] — Elder Ronald A. Rasband, 2020-October *(explicit citation)*
+- [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

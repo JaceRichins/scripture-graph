@@ -68,6 +68,8 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[These Things I Know (President Boyd K. Packer, April 2013)|These Things I Know]] — President Boyd K. Packer, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

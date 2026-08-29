@@ -59,6 +59,8 @@ _Not yet developed._
 - [[Let the Clarion Trumpet Sound (Elder Gregory A. Schwitzer, October 2015)|Let the Clarion Trumpet Sound]] — Elder Gregory A. Schwitzer, 2015-October *(explicit citation)*
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
+- [[Personal Peace The Reward of Righteousness (Elder Quentin L. Cook, April 2013)|Personal Peace: The Reward of Righteousness]] — Elder Quentin L. Cook, 2013-April *(explicit citation)*
+- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

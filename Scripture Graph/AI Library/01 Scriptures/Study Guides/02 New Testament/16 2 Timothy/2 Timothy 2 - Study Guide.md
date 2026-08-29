@@ -56,6 +56,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
+- [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
+- [[Be Meek and Lowly of Heart (Elder Ulisses Soares, October 2013)|Be Meek and Lowly of Heart]] — Elder Ulisses Soares, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -66,6 +66,8 @@ _Not yet developed._
 - [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
 - [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
 - [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[If Ye Lack Wisdom (Elder Marcos A. Aidukaitis, April 2014)|If Ye Lack Wisdom]] — Elder Marcos A. Aidukaitis, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

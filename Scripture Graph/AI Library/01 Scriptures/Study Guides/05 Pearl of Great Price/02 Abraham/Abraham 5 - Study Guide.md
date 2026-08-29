@@ -55,6 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Daughters in the Covenant (President Henry B. Eyring, April 2014)|Daughters in the Covenant]] — President Henry B. Eyring, 2014-April *(explicit citation)*
 - [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

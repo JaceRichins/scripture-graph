@@ -52,7 +52,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[These Things I Know (President Boyd K. Packer, April 2013)|These Things I Know]] — President Boyd K. Packer, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

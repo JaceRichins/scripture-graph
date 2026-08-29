@@ -66,6 +66,8 @@ _Not yet developed._
 - [[Our Earthly Stewardship (Bishop Gérald Caussé, October 2022)|Our Earthly Stewardship]] — Bishop Gérald Caussé, 2022-October *(explicit citation)*
 - [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
 - [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
+- [[The Moral Force of Women (Elder D. Todd Christofferson, October 2013)|The Moral Force of Women]] — Elder D. Todd Christofferson, 2013-October *(explicit citation)*
+- [[Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ (Elder Robert D. Hales, October 2014)|Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ]] — Elder Robert D. Hales, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

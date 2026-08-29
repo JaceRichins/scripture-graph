@@ -69,6 +69,8 @@ _Not yet developed._
 - [[Love Is Spoken Here (Elder Gerrit W. Gong, October 2023)|Love Is Spoken Here]] — Elder Gerrit W. Gong, 2023-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[Lost Luggage, Redeemed Souls (Elder Gary E. Stevenson, April 2026)|Lost Luggage, Redeemed Souls]] — Elder Gary E. Stevenson, 2026-April *(explicit citation)*
+- [[Your Sacred Duty to Minister (David L. Beck, April 2013)|Your Sacred Duty to Minister]] — David L. Beck, 2013-April *(explicit citation)*
+- [[Are You Sleeping through the Restoration (President Dieter F. Uchtdorf, April 2014)|Are You Sleeping through the Restoration?]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 - [[No Greater Joy Than to Know That They Know (Elder K. Brett Nattress, October 2016)|No Greater Joy Than to Know That They Know]] — Elder K. Brett Nattress, 2016-October *(explicit citation)*
 - [[Conference Report, October 1921 (General Conference (full report), October 1921)|Conference Report, October 1921]] — General Conference (full report), 1921-October *(explicit citation)*
@@ -103,3 +105,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

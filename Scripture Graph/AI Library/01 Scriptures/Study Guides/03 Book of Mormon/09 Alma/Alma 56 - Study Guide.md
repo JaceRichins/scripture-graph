@@ -72,11 +72,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
+- [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
 - [[Women and Gospel Learning in the Home (President Henry B. Eyring, October 2018)|Women and Gospel Learning in the Home]] — President Henry B. Eyring, 2018-October *(explicit citation)*
 - [[After the Trial of Our Faith (Elder Jorge M. Alvarado, October 2019)|After the Trial of Our Faith]] — Elder Jorge M. Alvarado, 2019-October *(explicit citation)*
 - [[God Loves All His Children (Elder Gregorio E. Casillas, October 2024)|God Loves All His Children]] — Elder Gregorio E. Casillas, 2024-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[Like a Broken Vessel (Elder Jeffrey R. Holland, October 2013)|Like a Broken Vessel]] — Elder Jeffrey R. Holland, 2013-October *(explicit citation)*
+- [[I Know These Things of Myself (Elder Craig C. Christensen, October 2014)|I Know These Things of Myself]] — Elder Craig C. Christensen, 2014-October *(explicit citation)*
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 

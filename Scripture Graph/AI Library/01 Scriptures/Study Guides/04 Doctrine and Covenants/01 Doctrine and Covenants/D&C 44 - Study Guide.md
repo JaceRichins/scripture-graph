@@ -58,6 +58,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Exercising Our Spiritual Muscles (Elder Juan Pablo Villar, April 2019)|Exercising Our Spiritual Muscles]] — Elder Juan Pablo Villar, 2019-April *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[What Manner of Men (Elder Donald L. Hallstrom, April 2014)|What Manner of Men?]] — Elder Donald L. Hallstrom, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

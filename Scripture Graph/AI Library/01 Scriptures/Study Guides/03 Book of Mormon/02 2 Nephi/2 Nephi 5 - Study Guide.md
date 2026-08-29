@@ -76,6 +76,8 @@ _Not yet developed._
 - [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
+- [[The Power, Joy, and Love of Covenant Keeping (Linda K. Burton, October 2013)|The Power, Joy, and Love of Covenant Keeping]] — Linda K. Burton, 2013-October *(explicit citation)*
 - [[Let Doing Good Be Our Normal (Elder Rafael E. Pino, October 2022)|Let Doing Good Be Our Normal]] — Elder Rafael E. Pino, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

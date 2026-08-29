@@ -64,6 +64,7 @@ _Not yet developed._
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
+- [[Let Your Faith Show (Elder Russell M. Nelson, April 2014)|Let Your Faith Show]] — Elder Russell M. Nelson, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

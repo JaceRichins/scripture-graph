@@ -17,22 +17,22 @@ _Analyzed from show notes only — no transcript was available._
 
 > Scott Woodward and Casey Griffiths evaluate the historical authenticity of the White Horse Prophecy and distinguish its poorly substantiated narrative from the better-attested tradition that Joseph Smith warned the United States Constitution would face grave danger. Based on the show notes, the episode emphasizes source criticism, including the account's late recollection, lack of a contemporary record, and apparent development over time.
 
-## Timestamped outline
+## Outline
 
-- **?** — The White Horse Prophecy question: The hosts introduce the disputed claim that Joseph Smith foresaw the Constitution hanging by a thread and the Latter-day Saints stepping forward to save it. ([[Joseph Smith Jr]])
-- **?** — Authenticity and source problems: The hosts examine weaknesses in attributing the full prophecy to Joseph Smith, particularly its dependence on a late recollection, the absence of a contemporary record, and questions about how the account developed over time. ([[Joseph Smith Jr]])
-- **?** — The Constitution hanging by a thread: The hosts distinguish the full White Horse narrative from the more strongly attested tradition that Joseph Smith expressed concern about a future constitutional crisis. They consider multiple attributed statements while acknowledging limitations in those sources. ([[Joseph Smith Jr]])
-- **?** — Prophecy, folklore, and modern politics: The discussion considers how later repetition and expansion shaped the tradition and why it has continued to influence Latter-day Saint political interpretation.
+- The White Horse Prophecy question: The hosts introduce the disputed claim that Joseph Smith foresaw the Constitution hanging by a thread and the Latter-day Saints stepping forward to save it. ([[Joseph Smith Jr]])
+- Authenticity and source problems: The hosts examine weaknesses in attributing the full prophecy to Joseph Smith, particularly its dependence on a late recollection, the absence of a contemporary record, and questions about how the account developed over time. ([[Joseph Smith Jr]])
+- The Constitution hanging by a thread: The hosts distinguish the full White Horse narrative from the more strongly attested tradition that Joseph Smith expressed concern about a future constitutional crisis. They consider multiple attributed statements while acknowledging limitations in those sources. ([[Joseph Smith Jr]])
+- Prophecy, folklore, and modern politics: The discussion considers how later repetition and expansion shaped the tradition and why it has continued to influence Latter-day Saint political interpretation.
 
 ## Claims extracted (TENTATIVE — awaiting corroboration)
 
 _Secondary commentary is not primary evidence (§13). These entered the evidence pipeline as tentative claims._
 
-- **Scott Woodward and Casey Griffiths** (?): The tradition that Joseph Smith warned the Constitution would face grave danger has a stronger historical foundation than the full White Horse Prophecy.
-- **Scott Woodward and Casey Griffiths** (?): No contemporary record of the full White Horse Prophecy is known from the time when Joseph Smith allegedly delivered it.
-- **Scott Woodward and Casey Griffiths** (?): The White Horse Prophecy appears to have changed, expanded, or accumulated details as the story was transmitted over time.
-- **Scott Woodward and Casey Griffiths** (?): The full White Horse Prophecy has significant authenticity problems because the account depends heavily on a late recollection.
-- **Scott Woodward and Casey Griffiths** (?): Multiple sources attribute statements to Joseph Smith expressing concern about the future of the United States Constitution.
+- **Scott Woodward and Casey Griffiths**: The tradition that Joseph Smith warned the Constitution would face grave danger has a stronger historical foundation than the full White Horse Prophecy.
+- **Scott Woodward and Casey Griffiths**: No contemporary record of the full White Horse Prophecy is known from the time when Joseph Smith allegedly delivered it.
+- **Scott Woodward and Casey Griffiths**: The White Horse Prophecy appears to have changed, expanded, or accumulated details as the story was transmitted over time.
+- **Scott Woodward and Casey Griffiths**: The full White Horse Prophecy has significant authenticity problems because the account depends heavily on a late recollection.
+- **Scott Woodward and Casey Griffiths**: Multiple sources attribute statements to Joseph Smith expressing concern about the future of the United States Constitution.
 
 ## Insights (attributed)
 

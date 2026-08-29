@@ -72,6 +72,7 @@ _Not yet developed._
 - [[One Percent Better (Elder Michael A. Dunn, October 2021)|One Percent Better]] — Elder Michael A. Dunn, 2021-October *(explicit citation)*
 - [[The Lord Jesus Christ Teaches Us to Minister (Elder Juan A. Uceda, April 2023)|The Lord Jesus Christ Teaches Us to Minister]] — Elder Juan A. Uceda, 2023-April *(explicit citation)*
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
+- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

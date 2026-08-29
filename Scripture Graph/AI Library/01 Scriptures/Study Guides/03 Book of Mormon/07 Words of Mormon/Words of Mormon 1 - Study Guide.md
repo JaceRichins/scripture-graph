@@ -65,6 +65,7 @@ _Not yet developed._
 - [[Answers to Prayer (Elder Brook P. Hales, April 2019)|Answers to Prayer]] — Elder Brook P. Hales, 2019-April *(explicit citation)*
 - [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[Bear Up Their Burdens with Ease (Elder David A. Bednar, April 2014)|Bear Up Their Burdens with Ease]] — Elder David A. Bednar, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

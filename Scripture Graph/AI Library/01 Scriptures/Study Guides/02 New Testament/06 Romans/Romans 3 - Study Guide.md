@@ -65,8 +65,8 @@ _Not yet developed._
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
 - [[Choose Jesus Christ as Your Guide (Elder Edward B. Rowe, April 2026)|Choose Jesus Christ as Your Guide]] — Elder Edward B. Rowe, 2026-April *(explicit citation)*
-- [[Waiting for the Prodigal (Elder Brent H. Nielson, April 2015)|Waiting for the Prodigal]] — Elder Brent H. Nielson, 2015-April *(explicit citation)*
-- [[Conference Report, October 1920 (General Conference (full report), October 1920)|Conference Report, October 1920]] — General Conference (full report), 1920-October *(explicit citation)*
+- [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

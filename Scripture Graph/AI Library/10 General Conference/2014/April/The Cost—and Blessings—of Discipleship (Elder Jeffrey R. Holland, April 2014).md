@@ -1,0 +1,188 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Jeffrey R. Holland
+year: '2014'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2014/04/the-cost-and-blessings-of-discipleship?lang=eng
+doc_id: talk:2014-april-the-cost-and-blessings-of-discipleship
+full_text: true
+---
+
+# The Cost—and Blessings—of Discipleship
+
+**Speaker:** Elder Jeffrey R. Holland · **Conference:** April 2014 · [source](https://www.churchofjesuschrist.org/general-conference/2014/04/the-cost-and-blessings-of-discipleship?lang=eng)
+
+The Cost—and Blessings—of Discipleship
+
+By Elder Jeffrey R. Holland
+
+Of the Quorum of the Twelve Apostles
+
+Be strong. Live the gospel faithfully even if others around you don’t live it at all.
+
+President Monson, we love you. You have given your heart and your health to every calling the Lord has ever given you, especially the sacred office you now hold. This entire Church thanks you for your steadfast service and for your unfailing devotion to duty.
+
+With admiration and encouragement for everyone who will need to remain steadfast in these latter days, I say to all and especially the youth of the Church that if you haven’t already, you will one day find yourself called upon to defend your faith or perhaps even endure some personal abuse simply because you are a member of The Church of Jesus Christ of Latter-day Saints. Such moments will require both courage and courtesy on your part.
+
+For example, a sister missionary recently wrote to me: “My companion and I saw a man sitting on a bench in the town square eating his lunch. As we drew near, he looked up and saw our missionary name tags. With a terrible look in his eye, he jumped up and raised his hand to hit me. I ducked just in time, only to have him spit his food all over me and start swearing the most horrible things at us. We walked away saying nothing. I tried to wipe the food off of my face, only to feel a clump of mashed potato hit me in the back of the head. Sometimes it is hard being a missionary because right then I wanted to go back, grab that little man, and say, ‘EXCUSE ME!’ But I didn’t.”
+
+To this devoted missionary I say, dear child, you have in your own humble way stepped into a circle of very distinguished women and men who have, as the Book of Mormon prophet Jacob said, “view[ed Christ’s] death, and suffer[ed] his cross and [borne] the shame of the world.”
+
+Indeed, of Jesus Himself, Jacob’s brother Nephi wrote: “And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.”
+
+In keeping with the Savior’s own experience, there has been a long history of rejection and a painfully high price paid by prophets and apostles, missionaries and members in every generation—all those who have tried to honor God’s call to lift the human family to “a more excellent way.”
+
+“And what shall I more say [of them]?” the writer of the book of Hebrews asks.
+
+“[They] who … stopped the mouths of lions,
+
+“Quenched the violence of fire, escaped the edge of the sword, … waxed valiant in fight, turned [armies] to flight …
+
+“[Saw] their dead raised to life [while] others were tortured, …
+
+“And … had trial of cruel mockings and scourgings, … of bonds and imprisonment:
+
+“They were stoned, … were sawn asunder, were tempted, were slain with the sword: … wandered about in sheepskins and goatskins; being destitute, afflicted, [and] tormented;
+
+“([They] of whom the world was not worthy:) … wandered in deserts, and in mountains, and in dens and caves of the earth.”
+
+Surely the angels of heaven wept as they recorded this cost of discipleship in a world that is often hostile to the commandments of God. The Savior Himself shed His own tears over those who for hundreds of years had been rejected and slain in His service. And now He was being rejected and about to be slain.
+
+“O Jerusalem, Jerusalem,” Jesus cried, “thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
+
+“Behold, your house is left unto you desolate.”
+
+And therein lies a message for every young man and young woman in this Church. You may wonder if it is worth it to take a courageous moral stand in high school or to go on a mission only to have your most cherished beliefs reviled or to strive against much in society that sometimes ridicules a life of religious devotion. Yes, it is worth it, because the alternative is to have our “houses” left unto us “desolate”—desolate individuals, desolate families, desolate neighborhoods, and desolate nations.
+
+So here we have the burden of those called to bear the messianic message. In addition to teaching, encouraging, and cheering people on (that is the pleasant part of discipleship), from time to time these same messengers are called upon to worry, to warn, and sometimes just to weep (that is the painful part of discipleship). They know full well that the road leading to the promised land “flowing with milk and honey” of necessity runs by way of Mount Sinai, flowing with “thou shalts” and “thou shalt nots.”
+
+Unfortunately, messengers of divinely mandated commandments are often no more popular today than they were anciently, as at least two spit-upon, potato-spattered sister missionaries can now attest. Hate is an ugly word, yet there are those today who would say with the corrupt Ahab, “I hate [the prophet Micaiah]; for he never prophesied good unto me, but always [prophesied] evil.” That kind of hate for a prophet’s honesty cost Abinadi his life. As he said to King Noah: “Because I have told you the truth ye are angry with me. … Because I have spoken the word of God ye have judged me that I am mad” or, we might add, provincial, patriarchal, bigoted, unkind, narrow, outmoded, and elderly.
+
+It is as the Lord Himself lamented to the prophet Isaiah:
+
+“[These] children … will not hear the law of the Lord:
+
+“[They] say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:
+
+“Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.”
+
+Sadly enough, my young friends, it is a characteristic of our age that if people want any gods at all, they want them to be gods who do not demand much, comfortable gods, smooth gods who not only don’t rock the boat but don’t even row it, gods who pat us on the head, make us giggle, then tell us to run along and pick marigolds.
+
+Talk about man creating God in his own image! Sometimes—and this seems the greatest irony of all—these folks invoke the name of Jesus as one who was this kind of “comfortable” God. Really? He who said not only should we not break commandments, but we should not even think about breaking them. And if we do think about breaking them, we have already broken them in our heart. Does that sound like “comfortable” doctrine, easy on the ear and popular down at the village love-in?
+
+And what of those who just want to look at sin or touch it from a distance? Jesus said with a flash, if your eye offends you, pluck it out. If your hand offends you, cut it off. “I came not to [bring] peace, but a sword,” He warned those who thought He spoke only soothing platitudes. No wonder that, sermon after sermon, the local communities “pray[ed] him to depart out of their coasts.” No wonder, miracle after miracle, His power was attributed not to God but to the devil. It is obvious that the bumper sticker question “What would Jesus do?” will not always bring a popular response.
+
+At the zenith of His mortal ministry, Jesus said, “Love one another, as I have loved you.” To make certain they understood exactly what kind of love that was, He said, “If ye love me, keep my commandments” and “whosoever … shall break one of [the] least commandments, and shall teach men so, he shall be … the least in the kingdom of heaven.” Christlike love is the greatest need we have on this planet in part because righteousness was always supposed to accompany it. So if love is to be our watchword, as it must be, then by the word of Him who is love personified, we must forsake transgression and any hint of advocacy for it in others. Jesus clearly understood what many in our modern culture seem to forget: that there is a crucial difference between the commandment to forgive sin (which He had an infinite capacity to do) and the warning against condoning it (which He never ever did even once).
+
+Friends, especially my young friends, take heart. Pure Christlike love flowing from true righteousness can change the world. I testify that the true and living gospel of Jesus Christ is on the earth and you are members of His true and living Church, trying to share it. I bear witness of that gospel and that Church, with a particular witness of restored priesthood keys which unlock the power and efficacy of saving ordinances. I am more certain that those keys have been restored and that those ordinances are once again available through The Church of Jesus Christ of Latter-day Saints than I am certain I stand before you at this pulpit and you sit before me in this conference.
+
+Be strong. Live the gospel faithfully even if others around you don’t live it at all. Defend your beliefs with courtesy and with compassion, but defend them. A long history of inspired voices, including those you will hear in this conference and the voice you just heard in the person of President Thomas S. Monson, point you toward the path of Christian discipleship. It is a strait path, and it is a narrow path without a great deal of latitude at some points, but it can be thrillingly and successfully traveled, “with … steadfastness in Christ, … a perfect brightness of hope, and a love of God and of all men.” In courageously pursuing such a course, you will forge unshakable faith, you will find safety against ill winds that blow, even shafts in the whirlwind, and you will feel the rock-like strength of our Redeemer, upon whom if you build your unflagging discipleship, you cannot fall. In the sacred name of Jesus Christ, amen.
+
+Notes
+
+Jacob 1:8.
+
+1 Nephi 19:9.
+
+1 Corinthians 12:31; Ether 12:11.
+
+Hebrews 11:32–38.
+
+Matthew 23:37–38.
+
+Exodus 3:8.
+
+See Exodus 20:3–17.
+
+2 Chronicles 18:7.
+
+Mosiah 13:4.
+
+Isaiah 30:9–11.
+
+See Henry Fairlie, The Seven Deadly Sins Today (1978), 15–16.
+
+See Matthew 5:29–30.
+
+Matthew 10:34.
+
+Mark 5:17.
+
+See Matthew 9:34.
+
+John 15:12.
+
+John 14:15.
+
+Matthew 5:19; emphasis added.
+
+2 Nephi 31:20.
+
+See Helaman 5:12.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28861900", "context": "", "text": "
+Jacob 1:8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/jacob/1?lang=eng&id=p8#p8", "text": "Jacob 1:8"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28861901", "context": "", "text": "
+1 Nephi 19:9.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/19?lang=eng&id=p9#p9", "text": "1 Nephi 19:9"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28861902", "context": "", "text": "
+1 Corinthians 12:31; Ether 12:11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-cor/12?lang=eng&id=p31#p31", "text": "1 Corinthians 12:31"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/12?lang=eng&id=p11#p11", "text": "Ether 12:11"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28861909", "context": "", "text": "
+Hebrews 11:32–38.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/heb/11?lang=eng&id=p32-p38#p32", "text": "Hebrews 11:32–38"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28861912", "context": "", "text": "
+Matthew 23:37–38.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/23?lang=eng&id=p37-p38#p37", "text": "Matthew 23:37–38"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28861914", "context": "", "text": "
+Exodus 3:8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/ex/3?lang=eng&id=p8#p8", "text": "Exodus 3:8"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28861914", "context": "", "text": "
+See Exodus 20:3–17.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/ex/20?lang=eng&id=p3-p17#p3", "text": "Exodus 20:3–17"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28861915", "context": "", "text": "
+2 Chronicles 18:7.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/2-chr/18?lang=eng&id=p7#p7", "text": "2 Chronicles 18:7"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28861915", "context": "", "text": "
+Mosiah 13:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/13?lang=eng&id=p4#p4", "text": "Mosiah 13:4"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28861919", "context": "", "text": "
+Isaiah 30:9–11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/isa/30?lang=eng&id=p9-p11#p9", "text": "Isaiah 30:9–11"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28861920", "context": "", "text": "
+See Henry Fairlie, The Seven Deadly Sins Today (1978), 15–16.
+"}, "note12": {"id": "note12", "marker": "12.", "pid": "28861922", "context": "", "text": "
+See Matthew 5:29–30.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p29-p30#p29", "text": "Matthew 5:29–30"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28861922", "context": "", "text": "
+Matthew 10:34.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/10?lang=eng&id=p34#p34", "text": "Matthew 10:34"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28861922", "context": "", "text": "
+Mark 5:17.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/mark/5?lang=eng&id=p17#p17", "text": "Mark 5:17"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28861922", "context": "", "text": "
+See Matthew 9:34.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/9?lang=eng&id=p34#p34", "text": "Matthew 9:34"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28861923", "context": "", "text": "
+John 15:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/15?lang=eng&id=p12#p12", "text": "John 15:12"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28861923", "context": "", "text": "
+John 14:15.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p15#p15", "text": "John 14:15"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28861923", "context": "", "text": "
+Matthew 5:19; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p19#p19", "text": "Matthew 5:19"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28861925", "context": "", "text": "
+2 Nephi 31:20.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/31?lang=eng&id=p20#p20", "text": "2 Nephi 31:20"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "28861925", "context": "", "text": "
+See Helaman 5:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/5?lang=eng&id=p12#p12", "text": "Helaman 5:12"}]}}
+
+## Scripture citations in this talk
+
+- [[Matthew 5]] (6×)
+- [[Jacob 1]] (3×)
+- [[1 Nephi 19]] (3×)
+- [[1 Corinthians 12]] (3×)
+- [[Ether 12]] (3×)
+- [[Hebrews 11]] (3×)
+- [[Matthew 23]] (3×)
+- [[Exodus 3]] (3×)
+- [[Exodus 20]] (3×)
+- [[2 Chronicles 18]] (3×)
+- [[Mosiah 13]] (3×)
+- [[Isaiah 30]] (3×)
+- [[Matthew 10]] (3×)
+- [[Mark 5]] (3×)
+- [[Matthew 9]] (3×)
+- [[John 15]] (3×)
+- [[John 14]] (3×)
+- [[2 Nephi 31]] (3×)
+- [[Helaman 5]] (3×)

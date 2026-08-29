@@ -78,6 +78,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
+- [[The Words We Speak (Rosemary M. Wixom, April 2013)|The Words We Speak]] — Rosemary M. Wixom, 2013-April *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[Lest Thou Forget (Elder Ronald A. Rasband, October 2016)|Lest Thou Forget]] — Elder Ronald A. Rasband, 2016-October *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
@@ -86,7 +87,6 @@ _Not yet developed._
 - [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
 - [[Returning to Faith (Rosemary M. Wixom, April 2015)|Returning to Faith]] — Rosemary M. Wixom, 2015-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
-- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

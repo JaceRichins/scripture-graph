@@ -66,6 +66,7 @@ _Not yet developed._
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
 - [[Days Never to Be Forgotten (Elder Gary E. Stevenson, October 2024)|Days Never to Be Forgotten]] — Elder Gary E. Stevenson, 2024-October *(explicit citation)*
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
+- [[Stay in the Boat and Hold On! (Elder M. Russell Ballard, October 2014)|Stay in the Boat and Hold On!]] — Elder M. Russell Ballard, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

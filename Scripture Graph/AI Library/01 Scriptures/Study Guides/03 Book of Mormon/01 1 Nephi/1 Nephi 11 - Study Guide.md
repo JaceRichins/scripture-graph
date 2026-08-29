@@ -71,11 +71,11 @@ _Not yet developed._
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Fruit (Elder Neil L. Andersen, October 2019)|Fruit]] — Elder Neil L. Andersen, 2019-October *(explicit citation)*
 - [[Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026)|Jesus Christ Is the Way]] — Elder Brian J. Holmes, 2026-April *(explicit citation)*
+- [[I Know These Things of Myself (Elder Craig C. Christensen, October 2014)|I Know These Things of Myself]] — Elder Craig C. Christensen, 2014-October *(explicit citation)*
+- [[Sustaining the Prophets (Elder Russell M. Nelson, October 2014)|Sustaining the Prophets]] — Elder Russell M. Nelson, 2014-October *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
-- [[The Master Healer (Carole M. Stephens, October 2016)|The Master Healer]] — Carole M. Stephens, 2016-October *(explicit citation)*
-- [[There Is Power in the Book (Elder LeGrand R. Curtis Jr., October 2016)|There Is Power in the Book]] — Elder LeGrand R. Curtis Jr., 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

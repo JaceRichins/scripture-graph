@@ -75,6 +75,8 @@ _Not yet developed._
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
 - [[Holiness to the Lord in Everyday Life (Elder Gerrit W. Gong, October 2024)|Holiness to the Lord in Everyday Life]] — Elder Gerrit W. Gong, 2024-October *(explicit citation)*
 - [[Encounter at the Empty Tomb (President Dieter F. Uchtdorf, April 2026)|Encounter at the Empty Tomb]] — President Dieter F. Uchtdorf, 2026-April *(explicit citation)*
+- [[Called of Him to Declare His Word (Elder Randy D. Funk, October 2013)|Called of Him to Declare His Word]] — Elder Randy D. Funk, 2013-October *(explicit citation)*
+- [[Wanted Hands and Hearts to Hasten the Work (Linda K. Burton, April 2014)|Wanted: Hands and Hearts to Hasten the Work]] — Linda K. Burton, 2014-April *(explicit citation)*
 - [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 <!-- SG:END conference -->

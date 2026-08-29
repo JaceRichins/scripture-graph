@@ -66,6 +66,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Second Great Commandment (President Russell M. Nelson, October 2019)|The Second Great Commandment]] — President Russell M. Nelson, 2019-October *(explicit citation)*
 - [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
+- [[The Law of the Fast A Personal Responsibility to Care for the Poor and Needy (Bishop Dean M. Davies, October 2014)|The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy]] — Bishop Dean M. Davies, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -63,6 +63,8 @@ _Not yet developed._
 - [[Family History and Temple Work Sealing and Healing (Elder Dale G. Renlund, April 2018)|Family History and Temple Work: Sealing and Healing]] — Elder Dale G. Renlund, 2018-April *(explicit citation)*
 - [[Is There No Balm in Gilead (Elder Brent H. Nielson, October 2021)|Is There No Balm in Gilead?]] — Elder Brent H. Nielson, 2021-October *(explicit citation)*
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
+- [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
+- [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

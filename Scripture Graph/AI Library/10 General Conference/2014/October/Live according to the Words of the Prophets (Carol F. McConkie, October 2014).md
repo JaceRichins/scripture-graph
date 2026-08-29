@@ -1,0 +1,173 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Carol F. McConkie
+year: '2014'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2014/10/live-according-to-the-words-of-the-prophets?lang=eng
+doc_id: talk:2014-october-live-according-to-the-words-of-the-prophets
+full_text: true
+---
+
+# Live according to the Words of the Prophets
+
+**Speaker:** Carol F. McConkie · **Conference:** October 2014 · [source](https://www.churchofjesuschrist.org/general-conference/2014/10/live-according-to-the-words-of-the-prophets?lang=eng)
+
+Live according to the Words of the Prophets
+
+By Carol F. McConkie
+
+First Counselor in the Young Women General Presidency
+
+To be in harmony with heaven’s divine purposes, we sustain the prophet and choose to live according to his words.
+
+Our Father in Heaven loves all of His children and desires that they know and understand His plan of happiness. Therefore, He calls prophets, those who have been ordained with power and authority to act in God’s name for the salvation of His children. They are messengers of righteousness, witnesses of Jesus Christ and the infinite power of His Atonement. They hold the keys of the kingdom of God on earth and authorize the performance of saving ordinances.
+
+In the Lord’s true Church, “there is never but one on the earth at a time on whom this power and the keys of this priesthood are conferred.” We sustain President Thomas S. Monson as our prophet, seer, and revelator. He reveals the word of the Lord to guide and direct our entire Church. As President J. Reuben Clark Jr. explained, “The President of the Church … alone has the right to receive revelations for the Church.”
+
+Concerning the living prophet, the Lord commands the people of His Church:
+
+“Thou shalt give heed unto all his words and commandments which he shall give unto you as he receiveth them, walking in all holiness before me;
+
+“For his word ye shall receive, as if from mine own mouth, in all patience and faith.
+
+“For by doing these things the gates of hell shall not prevail against you.”
+
+To be in harmony with heaven’s divine purposes, we sustain the prophet and choose to live according to his words.
+
+We also sustain President Monson’s counselors and the Quorum of the Twelve Apostles as prophets, seers, and revelators. “They have the right, the power, and authority to declare the mind and will of [the Lord] … , subject to … the President of the Church.” They speak in the name of Christ. They prophesy in the name of Christ. They do all things in the name of Jesus Christ. In their words we hear the voice of the Lord and we feel the Savior’s love. “And whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture … and the power of God unto salvation.” The Lord Himself has spoken: “Whether by mine own voice or by the voice of my servants, it is the same.”
+
+We are grateful for a church “built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone.” The Lord’s house is a house of order, and we need never be deceived about where to look for answers to our questions or uncertain about which voice to follow. We need not be “tossed to and fro, and carried about with every wind of doctrine.” God reveals His word through His ordained servants, “for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: till we all come in the unity of the faith, and of the knowledge of the Son of God.” When we choose to live according to the words of the prophets, we are on the covenant path that leads to eternal perfection.
+
+From a single mother struggling to survive a season of famine, we learn what it means to sustain a prophet. The Lord instructed the prophet Elijah to go to Zarephath, where he would find a widow woman whom God had commanded to sustain him. As Elijah approached the city, he saw her gathering sticks. He called to her, “Fetch me, I pray thee, a little water in a vessel, that I may drink.”
+
+“And as she was going to fetch it, he called to her [again], and said, Bring me, I pray thee, a morsel of bread in thine hand.
+
+“And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.”
+
+Elijah responded, “Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.”
+
+Imagine for a moment the difficulty of what the prophet was asking a starving mother to do. Certainly, God Himself could have provided food for His faithful servant. But, acting in the name of the Lord, Elijah did as directed, which was to ask a beloved daughter of God to sacrifice that which she had in order to sustain the prophet.
+
+But Elijah also promised a blessing for obedience: “For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail.” The Lord gave the widow the opportunity to choose to believe and obey the words of the prophet.
+
+In a world threatened by a famine of righteousness and spiritual starvation, we have been commanded to sustain the prophet. As we give heed to, uphold, and affirm prophetic word, we witness that we have the faith to humbly submit to the will, the wisdom, and the timing of the Lord.
+
+We heed prophetic word even when it may seem unreasonable, inconvenient, and uncomfortable. According to the world’s standards, following the prophet may be unpopular, politically incorrect, or socially unacceptable. But following the prophet is always right. “For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.” “Trust in the Lord with all thine heart; and lean not unto thine own understanding.”
+
+The Lord honors and favors those who will heed prophetic direction. For the widow of Zarephath, obedience to Elijah saved her life and ultimately the life of her son. As the prophet had promised, “she, and he, and her house, did eat many days … according to the word of the Lord, which he spake by Elijah.”
+
+The Lord “will feed those who trust Him.” The words of the prophets are like manna to our souls. When we partake, we are blessed, protected, and preserved both temporally and spiritually. When we feast upon their words, we learn how to come unto Christ and live.
+
+Elder Bruce R. McConkie wrote that through the prophets “the Lord reveals the truths of salvation, … the salvation that is in Christ; and he charts … the course leading to eternal life. … In every age the Lord gives his people the direction they need at the moment of their peril and danger. And surely in the days ahead there will be times when nothing but the wisdom of God, descending from heaven and flowing forth from prophetic lips, will be able to save his people.”
+
+For me, the words of prophets taught by my Laurel teacher gave me a vision of what a covenant marriage relationship should look like. The words of the prophets gave me the faith and hope that I could prepare for and obtain a happy home. Consistently studying the teachings of the prophets, both ancient and modern, sustained me during the strenuous and often exhausting years of bearing, teaching, and nurturing seven children. The words of the prophets in the scriptures and taught from this pulpit are words of comfort, love, strength, and good cheer that embrace us all.
+
+When we heed the words of the prophets, we build our homes and our lives upon an eternally sure foundation, “the rock of our Redeemer, who is Christ, the Son of God, … that when the devil shall send forth his mighty winds, yea, his shafts in the whirlwind, yea, when all his hail and his mighty storm shall beat upon you, it shall have no power over you to drag you down to … misery and endless wo.”
+
+We have a choice. We may choose to ignore, trifle with, trample upon, or rebel against the words of Christ spoken by His ordained servants. But the Savior taught that those who do so will be cut off from His covenant people.
+
+As we prayerfully read and study sacred prophetic word with faith in Christ, with real intent, the Holy Ghost will speak truth to our minds and hearts. May we open our ears to hear, our hearts to understand, and our minds that the mysteries of God may be unfolded to our view.
+
+I bear my witness that Joseph Smith was and is the prophet called of God to restore the gospel of Jesus Christ and His priesthood to the earth. And I testify that in President Monson we are led by a true prophet of God today. May we choose to stand with the prophets and live according to their words until we become unified in faith, purified in Christ, and filled with the knowledge of the Son of God. In the sacred name of Jesus Christ, amen.
+
+Notes
+
+Doctrine and Covenants 132:7; see also Handbook 2: Administering the Church (2010), 2.1.1: “Jesus Christ holds all the keys of the priesthood pertaining to His Church. He has conferred upon each of His Apostles all the keys that pertain to the kingdom of God on earth. The senior living Apostle, the President of the Church, is the only person on earth authorized to exercise all priesthood keys.”
+
+J. Reuben Clark Jr., “When Are the Writings and Sermons of Church Leaders Entitled to the Claim of Scripture?” (address to seminary and institute personnel, Brigham Young University, July 7, 1954).
+
+Doctrine and Covenants 21:4–6; emphasis added.
+
+J. Reuben Clark Jr., “When Are the Writings and Sermons of Church Leaders Entitled to the Claim of Scripture?”
+
+Doctrine and Covenants 68:4.
+
+Doctrine and Covenants 1:38.
+
+Ephesians 2:20.
+
+Ephesians 4:14.
+
+Ephesians 4:12–13.
+
+1 Kings 17:10.
+
+1 Kings 17:11–13; emphasis added.
+
+1 Kings 17:14.
+
+Isaiah 55:9.
+
+Proverbs 3:5.
+
+1 Kings 17:15–16.
+
+Roger Hoffman, “Consider the Lilies.”
+
+Bruce R. McConkie, A New Witness for the Articles of Faith (Deseret Book Company, 1985), 478; punctuation modified; used by permission.
+
+Helaman 5:12.
+
+See 3 Nephi 20:23.
+
+See Mosiah 2:9.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28863171", "context": "", "text": "
+Doctrine and Covenants 132:7; see also Handbook 2: Administering the Church (2010), 2.1.1: “Jesus Christ holds all the keys of the priesthood pertaining to His Church. He has conferred upon each of His Apostles all the keys that pertain to the kingdom of God on earth. The senior living Apostle, the President of the Church, is the only person on earth authorized to exercise all priesthood keys.”
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/132?lang=eng&id=p7#p7", "text": "Doctrine and Covenants 132:7"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28863171", "context": "", "text": "
+J. Reuben Clark Jr., “When Are the Writings and Sermons of Church Leaders Entitled to the Claim of Scripture?” (address to seminary and institute personnel, Brigham Young University, July 7, 1954).
+"}, "note3": {"id": "note3", "marker": "3.", "pid": "28863175", "context": "", "text": "
+Doctrine and Covenants 21:4–6; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/21?lang=eng&id=p4-p6#p4", "text": "Doctrine and Covenants 21:4–6"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28863177", "context": "", "text": "
+J. Reuben Clark Jr., “When Are the Writings and Sermons of Church Leaders Entitled to the Claim of Scripture?”
+"}, "note5": {"id": "note5", "marker": "5.", "pid": "28863177", "context": "", "text": "
+Doctrine and Covenants 68:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/68?lang=eng&id=p4#p4", "text": "Doctrine and Covenants 68:4"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28863177", "context": "", "text": "
+Doctrine and Covenants 1:38.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38", "text": "Doctrine and Covenants 1:38"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28863178", "context": "", "text": "
+Ephesians 2:20.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/eph/2?lang=eng&id=p20#p20", "text": "Ephesians 2:20"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28863178", "context": "", "text": "
+Ephesians 4:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/eph/4?lang=eng&id=p14#p14", "text": "Ephesians 4:14"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28863178", "context": "", "text": "
+Ephesians 4:12–13.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/eph/4?lang=eng&id=p12-p13#p12", "text": "Ephesians 4:12–13"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28863179", "context": "", "text": "
+1 Kings 17:10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p10#p10", "text": "1 Kings 17:10"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28863182", "context": "", "text": "
+1 Kings 17:11–13; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p11-p13#p11", "text": "1 Kings 17:11–13"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28863184", "context": "", "text": "
+1 Kings 17:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p14#p14", "text": "1 Kings 17:14"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28863186", "context": "", "text": "
+Isaiah 55:9.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/isa/55?lang=eng&id=p9#p9", "text": "Isaiah 55:9"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28863186", "context": "", "text": "
+Proverbs 3:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/prov/3?lang=eng&id=p5#p5", "text": "Proverbs 3:5"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28863187", "context": "", "text": "
+1 Kings 17:15–16.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/1-kgs/17?lang=eng&id=p15-p16#p15", "text": "1 Kings 17:15–16"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28863188", "context": "", "text": "
+Roger Hoffman, “Consider the Lilies.”
+"}, "note17": {"id": "note17", "marker": "17.", "pid": "28863189", "context": "", "text": "
+Bruce R. McConkie, A New Witness for the Articles of Faith (Deseret Book Company, 1985), 478; punctuation modified; used by permission.
+"}, "note18": {"id": "note18", "marker": "18.", "pid": "28863191", "context": "", "text": "
+Helaman 5:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/5?lang=eng&id=p12#p12", "text": "Helaman 5:12"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28863192", "context": "", "text": "
+See 3 Nephi 20:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/20?lang=eng&id=p23#p23", "text": "3 Nephi 20:23"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "28863193", "context": "", "text": "
+See Mosiah 2:9.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p9#p9", "text": "Mosiah 2:9"}]}}
+
+## Scripture citations in this talk
+
+- [[1 Kings 17]] (12×)
+- [[Ephesians 4]] (6×)
+- [[D&C 132]] (3×)
+- [[D&C 21]] (3×)
+- [[D&C 68]] (3×)
+- [[D&C 1]] (3×)
+- [[Ephesians 2]] (3×)
+- [[Isaiah 55]] (3×)
+- [[Proverbs 3]] (3×)
+- [[Helaman 5]] (3×)
+- [[3 Nephi 20]] (3×)
+- [[Mosiah 2]] (3×)

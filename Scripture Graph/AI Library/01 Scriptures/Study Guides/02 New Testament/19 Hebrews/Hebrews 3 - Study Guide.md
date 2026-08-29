@@ -56,6 +56,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Our Heavenly Guidance System (Elder Sergio R. Vargas, April 2025)|Our Heavenly Guidance System]] — Elder Sergio R. Vargas, 2025-April *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

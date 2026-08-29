@@ -60,6 +60,8 @@ _Not yet developed._
 - [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
 - [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
+- [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
+- [[Our Personal Ministries (Elder Hugo E. Martinez, October 2014)|Our Personal Ministries]] — Elder Hugo E. Martinez, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

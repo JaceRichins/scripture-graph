@@ -71,6 +71,8 @@ _Not yet developed._
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 - [[Just Keep Going—with Faith (Elder Carl B. Cook, April 2023)|Just Keep Going—with Faith]] — Elder Carl B. Cook, 2023-April *(explicit citation)*
 - [[“Draw Near unto Me” (President Henry B. Eyring, April 2025)|“Draw Near unto Me”]] — President Henry B. Eyring, 2025-April *(explicit citation)*
+- [[“Come unto Me” (President Henry B. Eyring, April 2013)|“Come unto Me”]] — President Henry B. Eyring, 2013-April *(explicit citation)*
+- [[The Words We Speak (Rosemary M. Wixom, April 2013)|The Words We Speak]] — Rosemary M. Wixom, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

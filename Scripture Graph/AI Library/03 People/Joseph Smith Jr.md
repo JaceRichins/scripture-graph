@@ -41,4 +41,5 @@ _Not yet developed._
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matte]] — Church History Matters · tier A
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
 <!-- SG:END secondary-sources -->

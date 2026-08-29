@@ -61,7 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Wanted Hands and Hearts to Hasten the Work (Linda K. Burton, April 2014)|Wanted: Hands and Hearts to Hasten the Work]] — Linda K. Burton, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

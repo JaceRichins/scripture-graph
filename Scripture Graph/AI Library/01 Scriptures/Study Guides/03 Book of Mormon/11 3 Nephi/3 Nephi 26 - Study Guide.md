@@ -75,7 +75,7 @@ _Not yet developed._
 - [[He Could Heal Me! (Elder Peter F. Meurs, April 2023)|He Could Heal Me!]] — Elder Peter F. Meurs, 2023-April *(explicit citation)*
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
-- [[Sharing the Restored Gospel (Elder Dallin H. Oaks, October 2016)|Sharing the Restored Gospel]] — Elder Dallin H. Oaks, 2016-October *(explicit citation)*
+- [[Daughters in the Covenant (President Henry B. Eyring, April 2014)|Daughters in the Covenant]] — President Henry B. Eyring, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

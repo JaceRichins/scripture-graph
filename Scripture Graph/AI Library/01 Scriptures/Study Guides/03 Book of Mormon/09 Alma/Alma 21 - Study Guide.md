@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Being Accepted of the Lord (Elder Erich W. Kopischke, April 2013)|Being Accepted of the Lord]] — Elder Erich W. Kopischke, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

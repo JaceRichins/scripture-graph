@@ -56,7 +56,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Power, Joy, and Love of Covenant Keeping (Linda K. Burton, October 2013)|The Power, Joy, and Love of Covenant Keeping]] — Linda K. Burton, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

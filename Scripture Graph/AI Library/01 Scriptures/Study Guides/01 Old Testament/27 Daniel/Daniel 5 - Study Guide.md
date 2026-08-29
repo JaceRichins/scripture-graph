@@ -56,6 +56,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 - [[Conference Report, April 1928 (General Conference (full report), April 1928)|Conference Report, April 1928]] — General Conference (full report), 1928-April *(explicit citation)*
 <!-- SG:END conference -->

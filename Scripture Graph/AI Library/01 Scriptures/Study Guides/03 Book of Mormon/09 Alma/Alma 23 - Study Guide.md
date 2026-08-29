@@ -70,9 +70,11 @@ _Not yet developed._
 - [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
+- [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[God’s Compelling Witness The Book of Mormon (Tad R. Callister, October 2017)|God’s Compelling Witness: The Book of Mormon]] — Tad R. Callister, 2017-October *(explicit citation)*
 - [[Miracles of the Gospel of Jesus Christ (Elder Carlos G. Revillo Jr., October 2021)|Miracles of the Gospel of Jesus Christ]] — Elder Carlos G. Revillo Jr., 2021-October *(explicit citation)*
+- [[Wilt Thou Be Made Whole (Elder Timothy J. Dyches, October 2013)|Wilt Thou Be Made Whole?]] — Elder Timothy J. Dyches, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

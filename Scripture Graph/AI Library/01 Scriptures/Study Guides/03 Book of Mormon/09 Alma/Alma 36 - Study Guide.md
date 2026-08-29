@@ -147,3 +147,8 @@ Why does the remembered teaching of Alma's father become decisive when the angel
 <!-- SG:BEGIN further-study -->
 Compare Alma 36:1, 30 with [[2 Nephi 1]] for the prosperity-and-presence formula. Compare Alma 36:3 with [[Alma 38]] for Alma's repeated teaching about trust during affliction. Read [[Mosiah 27]] alongside vv. 6–23 to identify what Alma's retrospective narration adds, especially his remembered sins, recollection of Christ, inward plea, and transition to joy.
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

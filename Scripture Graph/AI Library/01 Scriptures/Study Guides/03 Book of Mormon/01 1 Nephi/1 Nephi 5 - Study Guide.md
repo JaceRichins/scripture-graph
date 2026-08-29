@@ -76,6 +76,8 @@ _Not yet developed._
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[It Is Wisdom in the Lord That We Should Have the Book of Mormon (President Mark L. Pace, April 2024)|It Is Wisdom in the Lord That We Should Have the Book of Mormon]] — President Mark L. Pace, 2024-April *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
+- [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
+- [[What Are You Thinking (Elder W. Craig Zwick, April 2014)|What Are You Thinking?]] — Elder W. Craig Zwick, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

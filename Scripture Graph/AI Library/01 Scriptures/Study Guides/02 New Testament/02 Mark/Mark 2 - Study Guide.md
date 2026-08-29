@@ -60,15 +60,15 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
+- [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
+- [[Rescue in Unity (Elder Chi Hong (Sam) Wong, October 2014)|Rescue in Unity]] — Elder Chi Hong (Sam) Wong, 2014-October *(explicit citation)*
 - [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Is There No Balm in Gilead (Elder Brent H. Nielson, October 2021)|Is There No Balm in Gilead?]] — Elder Brent H. Nielson, 2021-October *(explicit citation)*
 - [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 - [[Jesus Christ Is Relief (President Camille N. Johnson, April 2023)|Jesus Christ Is Relief]] — President Camille N. Johnson, 2023-April *(explicit citation)*
-- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
-- [[Our Heavenly Guidance System (Elder Sergio R. Vargas, April 2025)|Our Heavenly Guidance System]] — Elder Sergio R. Vargas, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -62,6 +62,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
+- [[Bear Up Their Burdens with Ease (Elder David A. Bednar, April 2014)|Bear Up Their Burdens with Ease]] — Elder David A. Bednar, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
