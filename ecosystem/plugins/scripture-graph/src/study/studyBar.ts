@@ -11,9 +11,9 @@
  *
  * Nothing here ever blocks link taps or native text selection.
  */
-import { Menu, Notice, Platform, type Plugin } from "obsidian";
+import { Menu, Modal, Notice, Platform, Setting, type Plugin } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
-import type { SGState } from "../state";
+import type { MarkTheme, SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
@@ -44,7 +44,8 @@ export class StudyBar {
 
   constructor(private s: SGState, private ann: AnnotationService,
     private study: StudyService,
-    private openAsk: (seed: string, anchor: string | null) => void) {}
+    private openAsk: (seed: string, anchor: string | null) => void,
+    private saveSettings: () => Promise<void> = async () => { /* harness */ }) {}
 
   // ------------------------------------------------------------ tap wiring
 
@@ -137,6 +138,14 @@ export class StudyBar {
     const p = target.closest("[data-verse-id], p");
     const vid = this.verseIdOf(p);
     if (!vid || !(p instanceof HTMLElement)) {
+      if (this.sel.verses.length || this.sel.partial) this.clear();
+      return;
+    }
+    // selection lives on the VERSE NUMBER — tapping the text just reads
+    // (or dismisses an active selection); long-press still picks phrases
+    const onNumber = !!target.closest("strong");
+    if (!onNumber) {
+      trace("tap.verseText", { vid });
       if (this.sel.verses.length || this.sel.partial) this.clear();
       return;
     }
@@ -284,7 +293,9 @@ export class StudyBar {
     }
     const scope = this.s.device.lastShareScope;
     const sig = JSON.stringify([this.sel.verses.map(v => v.verseId),
-      this.sel.partial?.selected, scope, this.s.device.lastColor]);
+      this.sel.partial?.selected, scope, this.s.device.lastColor,
+      this.s.device.lastStyle, this.s.device.lastTheme,
+      (this.s.settings.themes ?? []).length]);
     if (sig === this.lastSig && this.barEl) return;      // no DOM churn
     this.lastSig = sig;
     if (!this.barEl) {
@@ -306,8 +317,8 @@ export class StudyBar {
     const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
     close.onclick = () => this.clear();
 
-    // row 2: color dots — ONE TAP highlights with the remembered scope.
-    // Colors are inline so they can never render gray on a stale-CSS device.
+    // row 2: color dots + text-treatment chips — ONE TAP marks with the
+    // remembered scope/style. Colors are inline so they never render gray.
     const colors = bar.createDiv({ cls: "sg-studybar-colors" });
     for (const c of COLORS) {
       const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
@@ -316,8 +327,40 @@ export class StudyBar {
         dot.addClass("sg-dot-last");
         dot.style.borderColor = "var(--text-normal)";
       }
-      dot.setAttribute("aria-label", `Highlight ${c}`);
+      dot.setAttribute("aria-label", `Mark ${c}`);
       dot.onclick = () => void this.doHighlight(c);
+    }
+    const styles: [string, string][] = [["highlight", "🖍"], ["underline", "U̲"],
+      ["bold", "B"], ["italic", "I"]];
+    for (const [key, label] of styles) {
+      const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+      if (key === "bold") chip.style.fontWeight = "800";
+      if (key === "italic") chip.style.fontStyle = "italic";
+      if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
+      chip.setAttribute("aria-label", `${key} style`);
+      chip.onclick = () => {
+        this.s.device.lastStyle = key;
+        this.s.device.lastTheme = null;   // manual pick leaves the theme
+        void this.s.saveDevice();
+        this.render();
+      };
+    }
+
+    // row 2b: family theme chips ("Faith", "Covenants", …) — a theme is a
+    // named color+treatment; tapping applies AND tags the mark with it
+    const themes = this.s.settings.themes ?? [];
+    if (themes.length || true) {
+      const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+      for (const th of themes) {
+        const chip = trow.createEl("button", { cls: "sg-theme-chip", text: th.name });
+        chip.style.borderBottom = `3px solid ${COLOR_HEX[th.color] ?? "#f5d90a"}`;
+        if (th.style === "bold") chip.style.fontWeight = "700";
+        if (th.style === "italic") chip.style.fontStyle = "italic";
+        if (this.s.device.lastTheme === th.name) chip.addClass("sg-style-on");
+        chip.onclick = () => void this.doHighlight(th.color, th);
+      }
+      const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "＋ theme" });
+      add.onclick = () => this.saveThemePrompt();
     }
 
     // row 3: actions
@@ -353,22 +396,45 @@ export class StudyBar {
     menu.showAtMouseEvent(e);
   }
 
-  private async doHighlight(color: string): Promise<void> {
+  private async doHighlight(color: string, theme?: MarkTheme): Promise<void> {
     const { visibility, groupId } = this.s.device.lastShareScope;
+    const style = theme?.style ?? this.s.device.lastStyle ?? "highlight";
+    const themeName = theme?.name ?? null;
     this.s.device.lastColor = color;
+    if (theme) {
+      this.s.device.lastStyle = theme.style;
+      this.s.device.lastTheme = theme.name;
+    }
     void this.s.saveDevice();
     if (this.sel.partial) {
       const p = this.sel.partial;
       await this.ann.addHighlight(p.verseId, color, p.verseText, p.selected,
-        visibility, groupId);
+        visibility, groupId, style, themeName);
     } else {
       for (const v of this.sel.verses) {
         await this.ann.addHighlight(v.verseId, color, v.verseText, null,
-          visibility, groupId);
+          visibility, groupId, style, themeName);
       }
     }
-    new Notice(`Highlighted ${this.refLabel()}`);
+    new Notice(`${themeName ? `“${themeName}” — ` : ""}marked ${this.refLabel()}`);
     this.clear();   // the annotation service re-renders the reading views
+  }
+
+  /** name the current color+treatment as a shared family theme */
+  private saveThemePrompt(): void {
+    const color = this.s.device.lastColor;
+    const style = this.s.device.lastStyle || "highlight";
+    new ThemeNameModal(this.s, `${color} · ${style}`, async (name) => {
+      const themes = this.s.settings.themes ?? [];
+      const existing = themes.findIndex(t => t.name.toLowerCase() === name.toLowerCase());
+      const entry = { name, color, style };
+      if (existing >= 0) themes[existing] = entry;
+      else themes.push(entry);
+      this.s.applySettings({ themes });
+      await this.saveSettings();
+      new Notice(`Theme “${name}” saved for the whole family`);
+      this.render();
+    }).open();
   }
 
   private doNote(): void {
@@ -414,5 +480,30 @@ export class StudyBar {
     this.clear();
     this.openAsk(seed, anchor);
   }
+}
+
+class ThemeNameModal extends Modal {
+  constructor(s: SGState, private desc: string,
+    private onSave: (name: string) => void) {
+    super(s.app);
+  }
+  onOpen() {
+    this.contentEl.createEl("h3", { text: "Name this theme" });
+    this.contentEl.createEl("p", {
+      text: `Current look: ${this.desc}. Themes are shared with the family — `
+        + `e.g. "Faith", "Covenants", "Promises".`,
+    });
+    let name = "";
+    new Setting(this.contentEl).setName("Theme name").addText(t =>
+      t.setPlaceholder("Faith").onChange(v => (name = v)));
+    new Setting(this.contentEl).addButton(b => b.setButtonText("Save theme").setCta()
+      .onClick(() => {
+        const n = name.trim().slice(0, 40);
+        if (!n) return;
+        this.close();
+        this.onSave(n);
+      }));
+  }
+  onClose() { this.contentEl.empty(); }
 
 }

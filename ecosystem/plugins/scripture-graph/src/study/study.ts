@@ -93,7 +93,8 @@ export class StudyService {
         front, back,
         card: { ease: 2.5, intervalDays: 0, due: nowIso(), reps: 0 } satisfies CardState,
       }),
-      color: null, visibility: "private" as const, group_id: null,
+      color: null, style: null, theme: null,
+      visibility: "private" as const, group_id: null,
       created_at: nowIso(), updated_at: nowIso(), deleted_at: null, version: 1,
     };
     await this.s.sync.save(a);

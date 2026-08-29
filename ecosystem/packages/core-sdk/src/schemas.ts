@@ -36,6 +36,10 @@ export const Annotation = z.object({
   /** note body / question text; empty for pure highlights */
   content: z.string().max(20000).default(""),
   color: z.string().max(20).nullable().default(null),
+  /** text treatment: highlight (bg) | underline | bold | italic — null = highlight */
+  style: z.string().max(20).nullable().default(null),
+  /** user-named theme this mark belongs to ("Faith", "Covenants", …) */
+  theme: z.string().max(60).nullable().default(null),
   visibility: Visibility,
   group_id: z.string().uuid().nullable().default(null),
   created_at: z.string(),

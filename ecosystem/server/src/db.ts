@@ -100,6 +100,11 @@ const MIGRATIONS: string[] = [
     detail        TEXT
   );
   `,
+  // v2: mark styling — text treatment + user-named theme (§ user request)
+  `
+  ALTER TABLE annotations ADD COLUMN style TEXT;
+  ALTER TABLE annotations ADD COLUMN theme TEXT;
+  `,
 ];
 
 export function openDb(path: string): DB {

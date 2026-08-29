@@ -1,7 +1,7 @@
 /** Shared plugin context: settings (shared, non-secret, in data.json) vs
  * device-local state (secrets + personal data, in localStorage — NEVER in
  * data.json because Obsidian Sync replicates data.json to every vault user). */
-import { MarkdownView, requestUrl, type App, type Plugin } from "obsidian";
+import { requestUrl, type App, type Plugin } from "obsidian";
 import {
   ApiClient, Budget, SyncEngine, WebStorage,
   type Annotation, type FetchLike, type ModelInfo, type Tier, type AiTask,
@@ -13,6 +13,12 @@ export const PERSONAL_PREFIX = "Library/";
 
 /** Shared, non-secret settings — synced with the vault ON PURPOSE so the
  * whole family gets the server URL and defaults automatically. */
+export interface MarkTheme {
+  name: string;
+  color: string;
+  style: string; // highlight | underline | bold | italic
+}
+
 export interface SharedSettings {
   serverUrl: string;
   defaultVisibility: "local" | "private";
@@ -20,6 +26,8 @@ export interface SharedSettings {
   /** chapter-level wikilinks land on the editable "<Chapter> - My Notes" page
    * (which embeds the scripture); verse-anchored links still open canonical */
   chapterLinksToMyStudy: boolean;
+  /** family-shared mark themes: a named color+treatment vocabulary */
+  themes: MarkTheme[];
 }
 
 export const DEFAULT_SHARED: SharedSettings = {
@@ -27,6 +35,7 @@ export const DEFAULT_SHARED: SharedSettings = {
   defaultVisibility: "private",
   forceLibraryPreview: true,
   chapterLinksToMyStudy: true,
+  themes: [],
 };
 
 /** Device-local (secret or personal) state. */
@@ -44,6 +53,10 @@ export interface DeviceState {
   lastShareScope: { visibility: "local" | "private" | "group" | "public"; groupId: string | null };
   /** last highlight color used from the action bar */
   lastColor: string;
+  /** last text treatment used from the action bar */
+  lastStyle: string;
+  /** last theme applied from the action bar (name, or null) */
+  lastTheme: string | null;
   /** show the interaction-trace overlay (debugging aid) */
   debugOverlay: boolean;
 }
@@ -60,6 +73,8 @@ export const DEFAULT_DEVICE: DeviceState = {
   aiDepth: "balanced",
   lastShareScope: { visibility: "private", groupId: null },
   lastColor: "yellow",
+  lastStyle: "highlight",
+  lastTheme: null,
   debugOverlay: false,
 };
 
@@ -118,19 +133,14 @@ export class SGState {
 
   notify(): void { for (const f of this.onChange) { try { f(); } catch { /* ui */ } } }
 
-  /** Re-render open scripture/personal reading views so marks appear the
-   * moment anything changes — every annotation mutation funnels through this. */
+  /** set by AnnotationService: re-decorates rendered verses IN PLACE */
+  redecorate: (() => Promise<void>) | null = null;
+
+  /** Marks appear/disappear the moment anything changes. Decoration happens
+   * in place on the existing DOM — a full markdown re-render would reset the
+   * reading position to the top of the file (user-reported bug). */
   rerenderReading(): void {
     this.notify();
-    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
-      const v = leaf.view;
-      if (!(v instanceof MarkdownView) || !v.file) continue;
-      const p = v.file.path;
-      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX)
-        || p.startsWith(LIBRARY_PREFIX)) {
-        (v.previewMode as unknown as { rerender?: (full?: boolean) => void })
-          ?.rerender?.(true);
-      }
-    }
+    void this.redecorate?.();
   }
 }

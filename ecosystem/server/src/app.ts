@@ -449,14 +449,15 @@ function applyOp(db: DB, who: AuthedDevice, op: SyncOp) {
   const tx = db.transaction(() => {
     db.prepare(`INSERT INTO annotations(annotation_id, author_user_id, anchor_type, anchor_id,
         annotation_type, selected_text, start_offset, end_offset, text_hash, content, color,
-        visibility, group_id, created_at, updated_at, deleted_at, version)
+        style, theme, visibility, group_id, created_at, updated_at, deleted_at, version)
       VALUES (@annotation_id,@author_user_id,@anchor_type,@anchor_id,@annotation_type,
-        @selected_text,@start_offset,@end_offset,@text_hash,@content,@color,@visibility,
-        @group_id,@created_at,@updated_at,@deleted_at,@version)
+        @selected_text,@start_offset,@end_offset,@text_hash,@content,@color,@style,@theme,
+        @visibility,@group_id,@created_at,@updated_at,@deleted_at,@version)
       ON CONFLICT(annotation_id) DO UPDATE SET
         annotation_type=excluded.annotation_type, selected_text=excluded.selected_text,
         start_offset=excluded.start_offset, end_offset=excluded.end_offset,
         text_hash=excluded.text_hash, content=excluded.content, color=excluded.color,
+        style=excluded.style, theme=excluded.theme,
         visibility=excluded.visibility, group_id=excluded.group_id,
         updated_at=excluded.updated_at, deleted_at=excluded.deleted_at, version=excluded.version`)
       .run(row as unknown as Record<string, unknown>);

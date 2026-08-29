@@ -11,7 +11,7 @@ function ann(partial: Partial<Annotation> = {}): Annotation {
     anchor_id: "alma-36-18",
     annotation_type: "highlight",
     selected_text: null, start_offset: null, end_offset: null, text_hash: null,
-    content: "", color: "yellow",
+    content: "", color: "yellow", style: null, theme: null,
     visibility: "private", group_id: null,
     created_at: nowIso(), updated_at: nowIso(), deleted_at: null,
     version: 1,

@@ -69,7 +69,8 @@ export default class SGPlugin extends Plugin {
       const ct = this.chapterTitleFor(anchor);
       void this.openAsk(ct, anchor, prompt);
     };
-    this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading);
+    this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading,
+      () => this.saveSharedSettings());
     registerReadingIntegration(this, this.state, this.ann, this.studyBar, openAskFromReading);
 
     // ---- commands ---------------------------------------------------------

@@ -40,7 +40,7 @@ export async function migrateFromAnnotate(s: SGState): Promise<void> {
         anchor_id: verseId,
         annotation_type: "highlight",
         selected_text: null, start_offset: null, end_offset: null, text_hash: null,
-        content: "", color: h.color ?? "yellow",
+        content: "", color: h.color ?? "yellow", style: null, theme: null,
         visibility: "local", group_id: null,
         created_at: h.created ?? nowIso(), updated_at: h.created ?? nowIso(),
         deleted_at: null, version: 1,

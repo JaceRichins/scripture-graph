@@ -46,7 +46,25 @@ export class NoteModal extends Modal {
 export class AnnotationService {
   private syncTimer: number | null = null;
 
-  constructor(private s: SGState) {}
+  constructor(private s: SGState) {
+    s.redecorate = () => this.redecorateOpen();
+  }
+
+  /** Refresh decorations on every verse currently rendered, without
+   * re-rendering the page (which would scroll the user to the top). */
+  async redecorateOpen(): Promise<void> {
+    const seen = new Set<HTMLElement>();
+    const paras = document.querySelectorAll<HTMLElement>(
+      ".markdown-preview-view [data-verse-id], .sg-reader [data-verse-id]");
+    for (const p of Array.from(paras)) {
+      if (seen.has(p)) continue;
+      seen.add(p);
+      const vid = p.getAttribute("data-verse-id");
+      if (!vid) continue;
+      const mine = await this.mine(vid);
+      decorateVerse(this.s, this, p, vid, mine, this.social(vid));
+    }
+  }
 
   start(): void {
     this.scheduleSync(5_000);
@@ -77,16 +95,19 @@ export class AnnotationService {
       anchor_id: anchorId,
       annotation_type: type,
       selected_text: null, start_offset: null, end_offset: null, text_hash: null,
-      content: "", color: null,
+      content: "", color: null, style: null, theme: null,
       visibility: vis, group_id: null,
       created_at: nowIso(), updated_at: nowIso(), deleted_at: null, version: 1,
     };
   }
 
   async addHighlight(anchorId: string, color: string, verseText: string | null,
-    selected: string | null, visibility: Visibility, groupId: string | null): Promise<void> {
+    selected: string | null, visibility: Visibility, groupId: string | null,
+    style: string | null = null, theme: string | null = null): Promise<void> {
     const a = this.base(anchorId, "highlight");
     a.color = color;
+    a.style = style;
+    a.theme = theme;
     a.visibility = visibility;
     a.group_id = groupId;
     if (selected && verseText) {
@@ -224,16 +245,40 @@ export function decorateVerse(
   }
 }
 
+/** Apply the mark's visual treatment (theme-aware): fill, underline, bold,
+ * italic — inline so styling never depends on CSS delivery. */
+function styleMark(mark: HTMLElement, h: Annotation): void {
+  const color = h.color ?? "yellow";
+  const hex = COLOR_HEX[color] ?? "#f5d90a";
+  const bg = MARK_BG[color] ?? MARK_BG["yellow"]!;
+  mark.style.color = "inherit";
+  mark.style.background = "transparent";
+  switch (h.style ?? "highlight") {
+    case "underline":
+      mark.style.borderBottom = `2px solid ${hex}`;
+      break;
+    case "bold":
+      mark.style.fontWeight = "700";
+      mark.style.borderBottom = `2px solid ${hex}`;
+      break;
+    case "italic":
+      mark.style.fontStyle = "italic";
+      mark.style.borderBottom = `2px dotted ${hex}`;
+      break;
+    default: // highlight fill
+      mark.style.backgroundColor = bg;
+  }
+  if (h.theme) mark.setAttribute("aria-label", `Theme: ${h.theme}`);
+}
+
 function applyMark(p: HTMLElement, h: Annotation): void {
   const cls = `sgh sgh-${h.color ?? "yellow"}`;
-  const bg = MARK_BG[h.color ?? "yellow"] ?? MARK_BG["yellow"]!;
   if (!h.selected_text) {
     const strong = p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
     const mark = document.createElement("mark");
     mark.className = cls;
-    mark.style.backgroundColor = bg;
-    mark.style.color = "inherit";
+    styleMark(mark, h);
     const moving: ChildNode[] = [];
     while (node) {
       const el = node as HTMLElement;
@@ -257,8 +302,7 @@ function applyMark(p: HTMLElement, h: Annotation): void {
     range.setEnd(t, idx + h.selected_text.length);
     const mark = document.createElement("mark");
     mark.className = cls;
-    mark.style.backgroundColor = bg;
-    mark.style.color = "inherit";
+    styleMark(mark, h);
     try { range.surroundContents(mark); } catch { /* spans nodes */ }
     return;
   }
@@ -296,9 +340,12 @@ export class NotesPopover extends Modal {
         : "🌎 public";
     const kindLabel = a.annotation_type === "study-marker" ? "flashcard"
       : a.annotation_type;
+    const themeLabel = a.theme ? ` · 🏷 ${a.theme}` : "";
     div.createEl("div", {
       cls: "sg-ann-meta",
-      text: `${isMine ? "You" : a.author_name ?? "someone"} · ${kindLabel}${a.color ? ` (${a.color})` : ""} · ${visLabel}`,
+      text: `${isMine ? "You" : a.author_name ?? "someone"} · ${kindLabel}`
+        + `${a.color ? ` (${a.color}${a.style && a.style !== "highlight" ? ` ${a.style}` : ""})` : ""}`
+        + `${themeLabel} · ${visLabel}`,
     });
     if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
     if (a.annotation_type === "study-marker") {
