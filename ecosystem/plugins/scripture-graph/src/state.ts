@@ -40,6 +40,10 @@ export interface DeviceState {
   aiUsePersonalNotes: boolean;
   showScopes: { mine: boolean; groups: Record<string, boolean>; public: boolean };
   aiDepth: "focused" | "balanced" | "deep";
+  /** last sharing scope used from the action bar — one-tap highlights */
+  lastShareScope: { visibility: "local" | "private" | "group" | "public"; groupId: string | null };
+  /** last highlight color used from the action bar */
+  lastColor: string;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -52,6 +56,8 @@ export const DEFAULT_DEVICE: DeviceState = {
   aiUsePersonalNotes: false,
   showScopes: { mine: true, groups: {}, public: false },
   aiDepth: "balanced",
+  lastShareScope: { visibility: "private", groupId: null },
+  lastColor: "yellow",
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }

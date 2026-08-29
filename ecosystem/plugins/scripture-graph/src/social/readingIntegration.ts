@@ -1,22 +1,25 @@
-/** In-place reading-view integration: decorate canonical files wherever they
- * render (plain view, Annotated view embeds, My Study embeds), and provide
- * the selection menu (highlight colors × visibility, note, ask AI). */
-import { Menu, Notice, Platform, type MarkdownPostProcessorContext, type Plugin } from "obsidian";
+/** In-place reading-view integration: decorate canonical verses wherever they
+ * render (plain view, My Notes embeds, reader), stamp stable data-verse-id
+ * attributes, and route taps/selections to the StudyBar. Desktop right-click
+ * keeps a full context menu as a power path. Nothing here blocks link taps
+ * or native text selection. */
+import { Menu, Notice, type MarkdownPostProcessorContext, type Plugin } from "obsidian";
 import type { Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
+import type { StudyBar } from "../study/studyBar";
 
 export interface SelectionHit {
   verseId: string;
-  verseText: string | null;
+  verseText: string;
   selected: string | null;
 }
 
 export function registerReadingIntegration(
-  plugin: Plugin, s: SGState, svc: AnnotationService,
+  plugin: Plugin, s: SGState, svc: AnnotationService, bar: StudyBar,
   openAsk: (prompt: string, anchor: string | null) => void,
 ): void {
-  // ---- decorations -------------------------------------------------------
+  // ---- decorations + verse-id stamping -----------------------------------
   plugin.registerMarkdownPostProcessor(async (el: HTMLElement, ctx: MarkdownPostProcessorContext) => {
     if (!ctx.sourcePath?.startsWith(CANONICAL_PREFIX)) return;
     const fm = plugin.app.metadataCache.getCache(ctx.sourcePath)?.frontmatter as
@@ -30,6 +33,7 @@ export function registerReadingIntegration(
       const n = strong ? parseInt(strong.textContent ?? "", 10) : NaN;
       if (!Number.isFinite(n)) return;
       const verseId = `${slug}-${n}`;
+      p.setAttribute("data-verse-id", verseId);   // stable hook for the StudyBar
       anchors.push(verseId);
       paragraphs.push({ p: p as HTMLElement, verseId });
     });
@@ -41,7 +45,11 @@ export function registerReadingIntegration(
     void svc.refreshSocial(anchors);
   });
 
-  // ---- selection context menu (desktop right-click / long-press) ---------
+  // ---- taps + long-press selections → StudyBar ---------------------------
+  plugin.registerDomEvent(document, "click", (evt) => bar.handleTap(evt));
+  plugin.registerDomEvent(document, "selectionchange", () => bar.handleSelectionChange());
+
+  // ---- desktop right-click power menu ------------------------------------
   plugin.registerDomEvent(document, "contextmenu", (evt) => {
     const hit = resolveSelection(s, evt);
     if (!hit) return;
@@ -49,24 +57,6 @@ export function registerReadingIntegration(
     evt.stopPropagation();
     buildSelectionMenu(s, svc, hit, openAsk).showAtMouseEvent(evt);
   });
-
-  // ---- mobile: TAP a verse = study actions (the LDS-Tools flow) ----------
-  // Reading view is the default surface, so a tap should study, never type.
-  // Links, buttons, and the note/badge icons keep their own behavior.
-  if (Platform.isMobile) {
-    plugin.registerDomEvent(document, "click", (evt) => {
-      const target = evt.target instanceof Element ? evt.target : null;
-      if (!target) return;
-      if (target.closest("a, button, input, textarea, select, "
-        + ".sgh-note-icon, .sg-badge, .modal, .menu")) return;
-      const hit = resolveSelection(s, evt);
-      if (!hit) return;
-      evt.preventDefault();
-      evt.stopPropagation();
-      buildSelectionMenu(s, svc, hit, openAsk)
-        .showAtPosition({ x: evt.clientX, y: evt.clientY });
-    });
-  }
 }
 
 export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionHit | null {
@@ -80,7 +70,7 @@ export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionH
   const p = target.closest("p") ?? sel?.anchorNode?.parentElement?.closest("p") ?? null;
   if (!p) return null;
 
-  // reader view marks verses with data-verse-id; reading view uses embeds/strong
+  // decorated verses carry data-verse-id (stamped by the post-processor / reader)
   const direct = (p as HTMLElement).getAttribute("data-verse-id")
     ?? (target.closest("[data-verse-id]") as HTMLElement | null)?.getAttribute("data-verse-id");
   let verseId: string | null = direct ?? null;
@@ -111,7 +101,7 @@ export function resolveSelection(s: SGState, evt: MouseEvent | null): SelectionH
   const verseText = (p.textContent ?? "").replace(/^\s*\d+\s*/, "").trim() || null;
   return {
     verseId,
-    verseText,
+    verseText: verseText ?? "",
     selected: selected && selected.length >= 3 && selected.length <= 600 ? selected : null,
   };
 }
