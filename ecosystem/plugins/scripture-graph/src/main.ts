@@ -300,6 +300,13 @@ export default class SGPlugin extends Plugin {
           const { setOverlay } = await import("./study/trace");
           setOverlay(true);
         }
+        // the navigator FAB + Continue card work immediately after (re)load,
+        // not only after the next file-open
+        const f0 = this.app.workspace.getActiveFile();
+        if (f0) {
+          this.recordLastChapter(f0);
+          this.updateNavFab(f0);
+        }
         // ambient scene: restore + hourly re-pick when following the clock
         this.scenes.apply(this.state.device.scene ?? "none");
         this.registerInterval(window.setInterval(() => {
@@ -501,7 +508,9 @@ export default class SGPlugin extends Plugin {
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
       this.studyActionViews.add(view);
-      view.addAction("pen-line", "Write in my notes", () => {
+      // feather, NOT a pencil — Obsidian's own edit toggle is already a
+      // pencil and two identical icons side by side read as a bug
+      view.addAction("feather", "Write in my notes", () => {
         const cur = view.file;
         if (cur) void this.writeInMyNotes(cur);
       });

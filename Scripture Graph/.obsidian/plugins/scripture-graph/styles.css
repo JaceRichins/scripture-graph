@@ -838,6 +838,7 @@ body.sg-selecting .sg-nav-fab { display: none; } /* never crowd the StudyBar */
 .sg-nav-books {
   display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
   max-height: min(62vh, 560px); overflow-y: auto; padding-bottom: 6px;
+  overscroll-behavior: contain; /* the page behind must not scroll along */
 }
 .sg-nav-book {
   min-height: 48px; border-radius: 12px;
@@ -847,6 +848,7 @@ body.sg-selecting .sg-nav-fab { display: none; } /* never crowd the StudyBar */
 .sg-nav-chapters {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
   gap: 8px; max-height: min(62vh, 560px); overflow-y: auto; padding-bottom: 6px;
+  overscroll-behavior: contain;
 }
 .sg-nav-ch {
   height: 48px; border-radius: 11px;
@@ -870,6 +872,13 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
 .markdown-preview-view.sg-personal .metadata-container,
 .sg-personal .markdown-preview-view .metadata-container,
 .markdown-preview-view:has([data-verse-id]) .metadata-container {
+  display: none;
+}
+/* the file name ("1 Nephi 1 - My Notes") stacked on the page's own H1
+   ("1 Nephi 1 — My Study") read as a doubled title — the H1 wins */
+.markdown-preview-view.sg-personal .inline-title,
+.sg-personal .markdown-preview-view .inline-title,
+.markdown-preview-view:has([data-verse-id]) .inline-title {
   display: none;
 }
 /* the embedded scripture/guide render as part of the page — no embed chrome,

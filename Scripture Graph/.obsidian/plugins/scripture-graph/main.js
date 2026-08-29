@@ -9610,6 +9610,11 @@ var SGPlugin = class extends import_obsidian13.Plugin {
           const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
           setOverlay2(true);
         }
+        const f0 = this.app.workspace.getActiveFile();
+        if (f0) {
+          this.recordLastChapter(f0);
+          this.updateNavFab(f0);
+        }
         this.scenes.apply(this.state.device.scene ?? "none");
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
@@ -9795,7 +9800,7 @@ ${text.trim()}
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
       this.studyActionViews.add(view);
-      view.addAction("pen-line", "Write in my notes", () => {
+      view.addAction("feather", "Write in my notes", () => {
         const cur = view.file;
         if (cur) void this.writeInMyNotes(cur);
       });
