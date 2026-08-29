@@ -198,6 +198,9 @@ export class StudyBar {
     this.sel.verses = [];
     this.sel.partial = { verseId, verseText, selected };
     this.render();
+    // we own the phrase now — dismiss the native iOS Copy/Look-Up callout so
+    // two menus never fight over the screen (reselect to pick a new phrase)
+    window.setTimeout(() => window.getSelection()?.removeAllRanges(), 80);
   }
 
   clear(): void {

@@ -41,5 +41,6 @@ ecosystem/node_modules/
 ecosystem/**/node_modules/
 ecosystem/**/dist/
 ecosystem/server/data/
+ecosystem/server/plugin-release/
 ecosystem/.env
 

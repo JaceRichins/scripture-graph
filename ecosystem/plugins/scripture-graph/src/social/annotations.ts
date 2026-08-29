@@ -283,7 +283,11 @@ export class NotesPopover extends Modal {
       contentEl.createEl("h4", { text: "Shared" });
       for (const a of social) this.row(contentEl, a as Annotation & { author_name?: string }, false);
     }
-    if (!mine.length && !social.length) contentEl.createEl("p", { text: "Nothing here yet." });
+    if (!mine.length && !social.length) {
+      contentEl.createEl("p", {
+        text: "No marks on this verse yet — tap the verse and pick a color to highlight it.",
+      });
+    }
   }
   private row(root: HTMLElement, a: Annotation & { author_name?: string }, isMine: boolean) {
     const div = root.createDiv({ cls: "sg-ann-row" });

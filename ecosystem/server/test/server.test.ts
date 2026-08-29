@@ -112,6 +112,32 @@ describe("auth + invites", () => {
     expect(join.status).toBe(200); // both group uses intact
   });
 
+  it("plugin update channel serves only the allowlisted files", async () => {
+    const { mkdtempSync, writeFileSync } = await import("node:fs");
+    const { tmpdir } = await import("node:os");
+    const { join } = await import("node:path");
+    const dir = mkdtempSync(join(tmpdir(), "sg-plugin-"));
+    writeFileSync(join(dir, "manifest.json"), JSON.stringify({ id: "scripture-graph", version: "9.9.9" }));
+    writeFileSync(join(dir, "main.js"), "/* build */");
+    process.env["SG_PLUGIN_DIR"] = dir;
+    try {
+      const mf = await call("GET", "/plugin/manifest.json", null);
+      expect(mf.status).toBe(200);
+      expect((mf.json as { version: string }).version).toBe("9.9.9");
+      const mainRes = await app.inject({ method: "GET", url: "/plugin/main.js" });
+      expect(mainRes.statusCode).toBe(200);
+      expect(mainRes.body).toContain("build");
+      expect(mainRes.headers["content-type"]).toContain("javascript");
+      // traversal / arbitrary files: refused by the fixed allowlist
+      expect((await call("GET", "/plugin/..%2Fdata%2Fsecrets.txt", null)).status).toBe(404);
+      expect((await call("GET", "/plugin/evil.js", null)).status).toBe(404);
+      // missing file in the release dir → 404, not a crash
+      expect((await call("GET", "/plugin/styles.css", null)).status).toBe(404);
+    } finally {
+      delete process.env["SG_PLUGIN_DIR"];
+    }
+  });
+
   it("revoked device token stops working (logout)", async () => {
     const u = mkUser("A");
     expect((await call("GET", "/me", u.token)).status).toBe(200);

@@ -20,7 +20,8 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
-  default: () => SGPlugin
+  default: () => SGPlugin,
+  newerVersion: () => newerVersion
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian12 = require("obsidian");
@@ -6252,7 +6253,11 @@ var NotesPopover = class extends import_obsidian2.Modal {
       contentEl.createEl("h4", { text: "Shared" });
       for (const a of social) this.row(contentEl, a, false);
     }
-    if (!mine.length && !social.length) contentEl.createEl("p", { text: "Nothing here yet." });
+    if (!mine.length && !social.length) {
+      contentEl.createEl("p", {
+        text: "No marks on this verse yet \u2014 tap the verse and pick a color to highlight it."
+      });
+    }
   }
   row(root, a, isMine) {
     const div = root.createDiv({ cls: "sg-ann-row" });
@@ -7420,6 +7425,7 @@ var StudyBar = class {
     this.sel.verses = [];
     this.sel.partial = { verseId, verseText, selected };
     this.render();
+    window.setTimeout(() => window.getSelection()?.removeAllRanges(), 80);
   }
   clear() {
     for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
@@ -7739,6 +7745,7 @@ var SGSettingsTab = class extends import_obsidian10.PluginSettingTab {
     }
     el.createEl("h2", { text: "My data" });
     new import_obsidian10.Setting(el).setName("Export my data").setDesc("All annotations + highlights \u2192 Markdown/JSON in Library/Exports").addButton((b) => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
+    new import_obsidian10.Setting(el).setName(`Plugin version: v${this.p.manifest.version}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
     new import_obsidian10.Setting(el).setName("Server address").setDesc(
       "Shared with the whole vault (everyone needs the same backend)"
     ).addText((t) => t.setValue(s.settings.serverUrl).onChange(async (v) => {
@@ -7855,6 +7862,16 @@ async function migrateFromAnnotate(s) {
 }
 
 // src/main.ts
+function newerVersion(remote, local) {
+  const r = remote.split(".").map(Number);
+  const l = local.split(".").map(Number);
+  if (r.some(Number.isNaN) || l.some(Number.isNaN) || !remote) return false;
+  for (let i = 0; i < 3; i++) {
+    const a = r[i] ?? 0, b = l[i] ?? 0;
+    if (a !== b) return a > b;
+  }
+  return false;
+}
 var SGPlugin = class extends import_obsidian12.Plugin {
   state;
   ai;
@@ -8007,6 +8024,7 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     });
     this.registerEvent(this.app.workspace.on("file-open", (f) => {
       if (!f) return;
+      this.studyBar.clear();
       this.study.recordVisit(f);
       this.enforceReadOnly();
       this.openInPreviewOnce(f);
@@ -8027,6 +8045,11 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     };
     this.app.workspace.onLayoutReady(() => {
       void (async () => {
+        const seen = await this.state.store.get("last_loaded_version");
+        if (seen !== this.manifest.version) {
+          await this.state.store.put("last_loaded_version", this.manifest.version);
+          new import_obsidian12.Notice(`Scripture Graph v${this.manifest.version} loaded`);
+        }
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);
@@ -8035,8 +8058,51 @@ var SGPlugin = class extends import_obsidian12.Plugin {
           new WelcomeModal(this.state, this.ai, () => {
           }).open();
         }
+        const last = await this.state.store.get("update_checked_at") ?? 0;
+        if (Date.now() - last > 6 * 36e5) {
+          await this.state.store.put("update_checked_at", Date.now());
+          void this.checkForUpdate(true);
+        }
       })();
     });
+  }
+  // ------------------------------------------------------------ self-update
+  /** Pull the latest build from the family server's /plugin channel and
+   * install it in place. `silent` = only speak when something happens. */
+  async checkForUpdate(silent) {
+    const base = this.state.settings.serverUrl.replace(/\/$/, "");
+    try {
+      const mf = await (0, import_obsidian12.requestUrl)({ url: `${base}/plugin/manifest.json`, throw: false });
+      if (mf.status !== 200) {
+        if (!silent) new import_obsidian12.Notice("No plugin build published on the server yet");
+        return;
+      }
+      const remote = mf.json?.version ?? "";
+      if (!newerVersion(remote, this.manifest.version)) {
+        if (!silent) new import_obsidian12.Notice(`Up to date \u2014 v${this.manifest.version}`);
+        return;
+      }
+      const [main, styles] = await Promise.all([
+        (0, import_obsidian12.requestUrl)({ url: `${base}/plugin/main.js`, throw: false }),
+        (0, import_obsidian12.requestUrl)({ url: `${base}/plugin/styles.css`, throw: false })
+      ]);
+      if (main.status !== 200 || main.text.length < 1e4) {
+        if (!silent) new import_obsidian12.Notice("Update download failed \u2014 try again");
+        return;
+      }
+      const dir = `${this.app.vault.configDir}/plugins/scripture-graph`;
+      const ad = this.app.vault.adapter;
+      await ad.write(`${dir}/main.js`, main.text);
+      if (styles.status === 200) await ad.write(`${dir}/styles.css`, styles.text);
+      await ad.write(`${dir}/manifest.json`, JSON.stringify(mf.json, null, 2));
+      new import_obsidian12.Notice(`Scripture Graph updated to v${remote} \u2014 reloading\u2026`, 8e3);
+      window.setTimeout(() => {
+        const cmds = this.app.commands;
+        cmds?.executeCommandById?.("app:reload");
+      }, 900);
+    } catch (e) {
+      if (!silent) new import_obsidian12.Notice(`Update check failed: ${e.message}`);
+    }
   }
   onunload() {
     this.ann.stop();

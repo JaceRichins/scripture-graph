@@ -4,6 +4,8 @@
  * clients converge. Nothing relies on UI hiding (§41). */
 import Fastify, { type FastifyInstance, type FastifyReply, type FastifyRequest } from "fastify";
 import { randomUUID } from "node:crypto";
+import { existsSync, readFileSync } from "node:fs";
+import { join } from "node:path";
 import { z } from "zod";
 import { Annotation, SyncOp } from "@scripture-graph/core-sdk";
 import { audit, authenticate, consumeInvite, createDevice, createInvite, createUser, now, type AuthedDevice } from "./auth";
@@ -345,6 +347,29 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
   });
 
   app.get("/health", async () => ({ ok: true, at: now() }));
+
+  // ------------------------------------------------- plugin update channel
+  // The family server hands out the latest plugin build directly — devices
+  // self-update with one tap instead of waiting on vault-config sync.
+  // Fixed filename allowlist: no traversal, nothing else served.
+  const PLUGIN_FILES: Record<string, string> = {
+    "manifest.json": "application/json",
+    "main.js": "application/javascript",
+    "styles.css": "text/css",
+  };
+  app.get("/plugin/:file", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:plugin`, 60, 60_000)) {
+      return reply.code(429).send({ error: "rate limited" });
+    }
+    const file = (req.params as { file: string }).file;
+    const type = PLUGIN_FILES[file];
+    if (!type) return reply.code(404).send({ error: "not found" });
+    const dir = process.env["SG_PLUGIN_DIR"] ?? "plugin-release";
+    const p = join(dir, file);
+    if (!existsSync(p)) return reply.code(404).send({ error: "no build published" });
+    reply.header("content-type", type);
+    return readFileSync(p, "utf8");
+  });
 
   return app;
 }

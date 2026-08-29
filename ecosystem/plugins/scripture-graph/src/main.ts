@@ -4,7 +4,7 @@
  * (highlights/notes/groups), AI (Ask pane over the user's own wallet), STUDY
  * (reader, bookmarks, trails, flashcards). Shared state lives in SGState;
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
-import { MarkdownView, Notice, Plugin, TFile, WorkspaceLeaf } from "obsidian";
+import { MarkdownView, Notice, Plugin, TFile, WorkspaceLeaf, requestUrl } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { AnnotationService, NoteModal } from "./social/annotations";
@@ -17,6 +17,18 @@ import { StudyService } from "./study/study";
 import { StudyBar } from "./study/studyBar";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
+
+/** "0.7.0" vs "0.6.1" — plain numeric semver compare. */
+export function newerVersion(remote: string, local: string): boolean {
+  const r = remote.split(".").map(Number);
+  const l = local.split(".").map(Number);
+  if (r.some(Number.isNaN) || l.some(Number.isNaN) || !remote) return false;
+  for (let i = 0; i < 3; i++) {
+    const a = r[i] ?? 0, b = l[i] ?? 0;
+    if (a !== b) return a > b;
+  }
+  return false;
+}
 
 export default class SGPlugin extends Plugin {
   state!: SGState;
@@ -154,6 +166,7 @@ export default class SGPlugin extends Plugin {
     // ---- study-trail tracking + read-only enforcement ----------------------
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
+      this.studyBar.clear();          // selections never follow you across pages
       this.study.recordVisit(f);
       this.enforceReadOnly();
       // personal pages OPEN in reading view too (mobile reuses the last tab
@@ -183,6 +196,12 @@ export default class SGPlugin extends Plugin {
     // ---- deferred startup --------------------------------------------------
     this.app.workspace.onLayoutReady(() => {
       void (async () => {
+        // always know what build you're on — the toast is the proof
+        const seen = await this.state.store.get<string>("last_loaded_version");
+        if (seen !== this.manifest.version) {
+          await this.state.store.put("last_loaded_version", this.manifest.version);
+          new Notice(`Scripture Graph v${this.manifest.version} loaded`);
+        }
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);
@@ -190,8 +209,56 @@ export default class SGPlugin extends Plugin {
           await this.state.store.put("welcome_shown", true);
           new WelcomeModal(this.state, this.ai, () => { /* noop */ }).open();
         }
+        // self-update from the family server (kills sync-delivery roulette)
+        const last = (await this.state.store.get<number>("update_checked_at")) ?? 0;
+        if (Date.now() - last > 6 * 3600_000) {
+          await this.state.store.put("update_checked_at", Date.now());
+          void this.checkForUpdate(true);
+        }
       })();
     });
+  }
+
+  // ------------------------------------------------------------ self-update
+
+  /** Pull the latest build from the family server's /plugin channel and
+   * install it in place. `silent` = only speak when something happens. */
+  async checkForUpdate(silent: boolean): Promise<void> {
+    const base = this.state.settings.serverUrl.replace(/\/$/, "");
+    try {
+      const mf = await requestUrl({ url: `${base}/plugin/manifest.json`, throw: false });
+      if (mf.status !== 200) {
+        if (!silent) new Notice("No plugin build published on the server yet");
+        return;
+      }
+      const remote = (mf.json as { version?: string })?.version ?? "";
+      if (!newerVersion(remote, this.manifest.version)) {
+        if (!silent) new Notice(`Up to date — v${this.manifest.version}`);
+        return;
+      }
+      const [main, styles] = await Promise.all([
+        requestUrl({ url: `${base}/plugin/main.js`, throw: false }),
+        requestUrl({ url: `${base}/plugin/styles.css`, throw: false }),
+      ]);
+      if (main.status !== 200 || main.text.length < 10_000) {
+        if (!silent) new Notice("Update download failed — try again");
+        return;
+      }
+      const dir = `${this.app.vault.configDir}/plugins/scripture-graph`;
+      const ad = this.app.vault.adapter;
+      await ad.write(`${dir}/main.js`, main.text);
+      if (styles.status === 200) await ad.write(`${dir}/styles.css`, styles.text);
+      await ad.write(`${dir}/manifest.json`, JSON.stringify(mf.json, null, 2));
+      new Notice(`Scripture Graph updated to v${remote} — reloading…`, 8000);
+      window.setTimeout(() => {
+        const cmds = (this.app as unknown as {
+          commands?: { executeCommandById?: (id: string) => void };
+        }).commands;
+        cmds?.executeCommandById?.("app:reload");
+      }, 900);
+    } catch (e) {
+      if (!silent) new Notice(`Update check failed: ${(e as Error).message}`);
+    }
   }
 
   onunload() {

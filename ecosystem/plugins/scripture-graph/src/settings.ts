@@ -180,6 +180,10 @@ export class SGSettingsTab extends PluginSettingTab {
     new Setting(el).setName("Export my data")
       .setDesc("All annotations + highlights → Markdown/JSON in Library/Exports")
       .addButton(b => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
+    new Setting(el).setName(`Plugin version: v${this.p.manifest.version}`)
+      .setDesc("Updates come straight from your family server — no sync games")
+      .addButton(b => b.setButtonText("Check for updates")
+        .onClick(() => void this.p.checkForUpdate(false)));
     new Setting(el).setName("Server address").setDesc(
       "Shared with the whole vault (everyone needs the same backend)")
       .addText(t => t.setValue(s.settings.serverUrl).onChange(async v => {
