@@ -56,6 +56,9 @@ proto.appendText = function (t: string) { this.appendChild(document.createTextNo
 proto.addClass = function (c: string) { this.classList.add(c); };
 proto.removeClass = function (c: string) { this.classList.remove(c); };
 proto.toggleClass = function (c: string, on: boolean) { this.classList.toggle(c, on); };
+proto.setAttr = function (k: string, v: string | number | boolean) {
+  this.setAttribute(k, String(v));
+};
 
 // ------------------------------------------------------------------- Notice
 export class Notice {
@@ -118,11 +121,13 @@ class MenuItem {
 // -------------------------------------------------------------------- Modal
 export class Modal {
   contentEl: HTMLElement = document.createElement("div");
+  modalEl: HTMLElement = document.createElement("div");
   private overlay: HTMLElement | null = null;
   constructor(public app: unknown) { this.contentEl.className = "shim-modal-content"; }
   open(): void {
     this.overlay = document.body.createDiv({ cls: "shim-modal-overlay" });
     const box = this.overlay.createDiv({ cls: "shim-modal" });
+    this.modalEl = box;
     const x = box.createEl("button", { cls: "shim-modal-x", text: "✕" });
     x.onclick = () => this.close();
     box.appendChild(this.contentEl);

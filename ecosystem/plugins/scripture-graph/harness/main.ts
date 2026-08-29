@@ -113,5 +113,15 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// the navigator too: window.sgNav() opens it seeded at D&C 120
+import { SGNavigatorModal } from "../src/study/navigator";
+(window as unknown as { sgNav: (last?: { slug: string; title: string } | null) => void }).sgNav =
+  (last = { slug: "dc-120", title: "D&C 120" }) =>
+    new SGNavigatorModal({} as never, {
+      openChapter: t => log(`nav → ${t}`),
+      openNote: l => log(`nav → note ${l}`),
+      lastChapter: () => last,
+    }).open();
+
 void redecorate();
 log("harness ready — real StudyBar + AnnotationService + SyncEngine");

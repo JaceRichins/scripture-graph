@@ -239,6 +239,9 @@ ${local.content}`,
   proto.toggleClass = function(c, on) {
     this.classList.toggle(c, on);
   };
+  proto.setAttr = function(k, v) {
+    this.setAttribute(k, String(v));
+  };
   var Notice = class {
     constructor(message, _timeout = 4e3) {
       const n = document.body.createDiv({ cls: "shim-notice", text: message });
@@ -312,10 +315,12 @@ ${local.content}`,
       this.contentEl.className = "shim-modal-content";
     }
     contentEl = document.createElement("div");
+    modalEl = document.createElement("div");
     overlay = null;
     open() {
       this.overlay = document.body.createDiv({ cls: "shim-modal-overlay" });
       const box = this.overlay.createDiv({ cls: "shim-modal" });
+      this.modalEl = box;
       const x = box.createEl("button", { cls: "shim-modal-x", text: "\u2715" });
       x.onclick = () => this.close();
       box.appendChild(this.contentEl);
@@ -7313,6 +7318,117 @@ ${body}
     }
   };
 
+  // src/study/navigator.ts
+  var VOLUMES = [
+    { name: "Old Testament", emoji: "\u{1F4DC}" },
+    { name: "New Testament", emoji: "\u271D\uFE0F" },
+    { name: "Book of Mormon", emoji: "\u{1F4D8}" },
+    { name: "Doctrine and Covenants", emoji: "\u{1F511}" },
+    { name: "Pearl of Great Price", emoji: "\u{1F48E}" }
+  ];
+  var SGNavigatorModal = class extends Modal {
+    constructor(app, host) {
+      super(app);
+      this.host = host;
+      const last = host.lastChapter();
+      if (last) {
+        const book = BOOKS.find((b) => last.slug.startsWith(`${b.slug}-`));
+        if (book) this.view = { kind: "chapters", book };
+      }
+    }
+    view = { kind: "home" };
+    onOpen() {
+      this.render();
+    }
+    onClose() {
+      this.contentEl.empty();
+    }
+    render() {
+      const c = this.contentEl;
+      c.empty();
+      c.addClass("sg-nav");
+      this.modalEl.addClass("sg-nav-modal");
+      const v = this.view;
+      const head = c.createDiv({ cls: "sg-nav-head" });
+      if (v.kind !== "home") {
+        const back = head.createEl("button", { cls: "sg-nav-btn sg-nav-back", text: "\u2039" });
+        back.setAttr("aria-label", "Back");
+        back.onclick = () => {
+          this.view = v.kind === "chapters" ? { kind: "books", volume: v.book.volume } : { kind: "home" };
+          this.render();
+        };
+      }
+      head.createSpan({
+        cls: "sg-nav-title",
+        text: v.kind === "home" ? "\u{1F4D6} Scriptures" : v.kind === "books" ? v.volume : v.book.name
+      });
+      if (v.kind !== "home") {
+        const home = head.createEl("button", { cls: "sg-nav-btn sg-nav-homebtn", text: "\u2302" });
+        home.setAttr("aria-label", "All volumes");
+        home.onclick = () => {
+          this.view = { kind: "home" };
+          this.render();
+        };
+      }
+      if (v.kind === "home") this.renderHome(c);
+      else if (v.kind === "books") this.renderBooks(c, v.volume);
+      else this.renderChapters(c, v.book);
+    }
+    renderHome(c) {
+      const last = this.host.lastChapter();
+      if (last) {
+        const cont = c.createDiv({ cls: "sg-nav-continue" });
+        cont.createSpan({ cls: "sg-nav-continue-tag", text: "\u25B6 Continue reading" });
+        cont.createSpan({ cls: "sg-nav-continue-title", text: last.title });
+        cont.onclick = () => {
+          this.close();
+          this.host.openChapter(last.title);
+        };
+      }
+      const list = c.createDiv({ cls: "sg-nav-list" });
+      for (const vol of VOLUMES) {
+        const row = list.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: vol.emoji });
+        row.createSpan({ cls: "sg-nav-name", text: vol.name });
+        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+        row.onclick = () => {
+          const books = BOOKS.filter((b) => b.volume === vol.name);
+          this.view = books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name };
+          this.render();
+        };
+      }
+      const hub = list.createDiv({ cls: "sg-nav-row sg-nav-hub" });
+      hub.createSpan({ cls: "sg-nav-emoji", text: "\u{1F3E0}" });
+      hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
+      hub.onclick = () => {
+        this.close();
+        this.host.openNote("Study Hub");
+      };
+    }
+    renderBooks(c, volume) {
+      const grid = c.createDiv({ cls: "sg-nav-books" });
+      for (const b of BOOKS.filter((x) => x.volume === volume)) {
+        const pill = grid.createEl("button", { cls: "sg-nav-book", text: b.name });
+        pill.onclick = () => {
+          this.view = { kind: "chapters", book: b };
+          this.render();
+        };
+      }
+    }
+    renderChapters(c, book) {
+      const cur = this.host.lastChapter();
+      const grid = c.createDiv({ cls: "sg-nav-chapters" });
+      for (let n = 1; n <= book.chapters; n++) {
+        const btn = grid.createEl("button", { cls: "sg-nav-ch", text: String(n) });
+        if (cur?.slug === `${book.slug}-${n}`) btn.addClass("sg-nav-ch-now");
+        btn.onclick = () => {
+          this.close();
+          this.host.openChapter(`${book.prefix} ${n}`);
+        };
+      }
+    }
+  };
+
   // harness/main.ts
   var VERSES = [
     "In the beginning God created the heaven and the earth.",
@@ -7415,6 +7531,11 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgNav = (last = { slug: "dc-120", title: "D&C 120" }) => new SGNavigatorModal({}, {
+    openChapter: (t) => log(`nav \u2192 ${t}`),
+    openNote: (l) => log(`nav \u2192 note ${l}`),
+    lastChapter: () => last
+  }).open();
   void redecorate();
   log("harness ready \u2014 real StudyBar + AnnotationService + SyncEngine");
 })();

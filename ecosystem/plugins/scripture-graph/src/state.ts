@@ -59,6 +59,11 @@ export interface DeviceState {
   lastTheme: string | null;
   /** show the interaction-trace overlay (debugging aid) */
   debugOverlay: boolean;
+  /** last chapter opened — powers "Continue reading" in the navigator */
+  lastChapter: { slug: string; title: string } | null;
+  /** show the AI Library folder in the file explorer (power users only;
+   * off keeps family devices from ever wandering in — links still work) */
+  showAiLibrary: boolean;
   /** ambient reading scene: "none" | "auto" | scene id */
   scene: string;
 }
@@ -78,6 +83,8 @@ export const DEFAULT_DEVICE: DeviceState = {
   lastStyle: "highlight",
   lastTheme: null,
   debugOverlay: false,
+  lastChapter: null,
+  showAiLibrary: false,
   scene: "none",
 };
 

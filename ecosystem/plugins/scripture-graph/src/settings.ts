@@ -88,6 +88,17 @@ export class SGSettingsTab extends PluginSettingTab {
           await this.p.saveSharedSettings();
         }));
 
+    new Setting(el).setName("Show AI Library folder in sidebar")
+      .setDesc("Off keeps the AI Library out of the file explorer on this device — "
+        + "study pages still show and link its content (read-only). "
+        + "Leave off on family devices.")
+      .addToggle(t => t.setValue(s.device.showAiLibrary)
+        .onChange(async v => {
+          s.device.showAiLibrary = v;
+          document.body.toggleClass("sg-hide-ai-lib", !v);
+          await s.saveDevice();
+        }));
+
     new Setting(el).setName("Reading scene")
       .setDesc("An ambient living backdrop behind the scriptures")
       .addDropdown(d => {

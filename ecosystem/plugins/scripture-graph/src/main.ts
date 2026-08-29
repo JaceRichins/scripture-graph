@@ -7,6 +7,7 @@
 import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, WorkspaceLeaf, requestUrl, type App } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
+import { SGNavigatorModal } from "./study/navigator";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -152,6 +153,11 @@ export default class SGPlugin extends Plugin {
       },
     });
     this.addCommand({
+      id: "open-navigator", name: "Navigate scriptures (books & chapters)", icon: "compass",
+      callback: () => this.openNavigator(),
+    });
+    this.addRibbonIcon("compass", "Navigate scriptures", () => this.openNavigator());
+    this.addCommand({
       id: "reading-scene", name: "Change reading scene", icon: "sunrise",
       callback: () => this.pickScene(),
     });
@@ -226,11 +232,25 @@ export default class SGPlugin extends Plugin {
       callback: () => new WelcomeModal(this.state, this.ai, () => { /* settings will refresh */ }).open(),
     });
 
+    // ---- 📖 navigator: floating button + AI Library gate -------------------
+    const fab = document.body.createDiv({ cls: "sg-nav-fab" });
+    fab.setText("📖");
+    fab.setAttr("aria-label", "Navigate scriptures");
+    fab.onclick = () => this.openNavigator();
+    this.register(() => fab.remove());
+    document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
+    this.register(() => {
+      document.body.removeClass("sg-hide-ai-lib");
+      document.body.removeClass("sg-fab-on");
+    });
+
     // ---- study-trail tracking + read-only enforcement ----------------------
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
       this.studyBar.clear();          // selections never follow you across pages
       this.study.recordVisit(f);
+      this.recordLastChapter(f);
+      this.updateNavFab(f);
       this.enforceReadOnly();
       void this.matchSceneToChapter(f);
       // personal pages OPEN in reading view too (mobile reuses the last tab
@@ -381,6 +401,37 @@ export default class SGPlugin extends Plugin {
     } else {
       new Notice("No My Notes page exists for this chapter yet");
     }
+  }
+
+  /** 📖 Volume → book → chapter in three taps; lands on My Study pages. */
+  private openNavigator(): void {
+    new SGNavigatorModal(this.app, {
+      openChapter: t => this.openMyStudy(t),
+      openNote: l => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
+      lastChapter: () => this.state.device.lastChapter,
+    }).open();
+  }
+
+  /** Remember where the reader is — powers the navigator's Continue card. */
+  private recordLastChapter(f: TFile): void {
+    let title: string | null = null;
+    if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
+      title = f.basename.slice(0, -" - My Notes".length);
+    } else if (f.path.startsWith(CANONICAL_PREFIX)) {
+      title = f.basename;
+    }
+    const slug = title ? chapterIdFromTitle(title) : null;
+    if (!title || !slug) return;
+    const d = this.state.device;
+    if (d.lastChapter?.slug === slug) return;
+    d.lastChapter = { slug, title };
+    void this.state.saveDevice();
+  }
+
+  /** The floating 📖 shows only while reading library/study pages. */
+  private updateNavFab(f: TFile | null): void {
+    const on = !!f && (f.path.startsWith(PERSONAL_PREFIX) || f.path.startsWith(LIBRARY_PREFIX));
+    document.body.toggleClass("sg-fab-on", on);
   }
 
   /** In "match" mode the scene follows the chapter's own words.
