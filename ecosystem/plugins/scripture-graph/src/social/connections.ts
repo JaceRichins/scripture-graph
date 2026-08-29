@@ -23,6 +23,7 @@ const EXCLUDED_PREFIXES = [
   "AI Library/00 System/",
   "AI Library/01 Scriptures/Annotated/",
   "AI Library/01 Scriptures/Canonical/",
+  "AI Library/01 Scriptures/Translations/",
 ];
 
 const SECTIONS: [string, string, number][] = [

@@ -11,6 +11,7 @@ import type { StudyBar } from "../study/studyBar";
 import { voiceFor } from "../study/presence";
 import { ConnectionsModal, clearConnectionsCache, connectionsFor } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
+import { TranslationsModal, isBiblical } from "../study/translations";
 
 export interface SelectionHit {
   verseId: string;
@@ -186,6 +187,10 @@ export function buildSelectionMenu(
   const menu = new Menu();
   menu.addItem(i => i.setTitle("View notes on this verse").setIcon("sticky-note")
     .onClick(() => new NotesPopover(s, svc, hit.verseId).open()));
+  if (isBiblical(hit.verseId)) {
+    menu.addItem(i => i.setTitle("🌐 Other translations").setIcon("languages")
+      .onClick(() => new TranslationsModal(s, hit.verseId, hit.verseText).open()));
+  }
   menu.addSeparator();
   for (const c of COLORS) {
     menu.addItem(i => i.setTitle(`Highlight ${c}`).setIcon("highlighter").onClick((e) => {

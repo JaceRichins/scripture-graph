@@ -6144,6 +6144,86 @@ ${text}` : text;
     }
   }
 
+  // src/study/translations.ts
+  var TRANSLATIONS = [
+    { abbr: "KJV", name: "King James Version", note: "your reading text" },
+    { abbr: "WEB", name: "World English Bible", note: "modern English \xB7 public domain" },
+    { abbr: "ASV", name: "American Standard Version", note: "1901 \xB7 public domain" },
+    { abbr: "YLT", name: "Young's Literal Translation", note: "literal \xB7 public domain" }
+  ];
+  function isBiblical(verseId) {
+    const r = parseVerseId(verseId);
+    const b = r ? BOOK_BY_SLUG.get(r.bookSlug) : void 0;
+    return !!b && (b.volume === "Old Testament" || b.volume === "New Testament");
+  }
+  var fileCache = /* @__PURE__ */ new Map();
+  async function bookText(app, bookName, abbr) {
+    const dest = app.metadataCache.getFirstLinkpathDest(`${bookName} (${abbr})`, "");
+    if (!(dest instanceof TFile)) return null;
+    const hit = fileCache.get(dest.path);
+    if (hit != null) return hit;
+    const text = await app.vault.cachedRead(dest);
+    if (fileCache.size >= 8) fileCache.clear();
+    fileCache.set(dest.path, text);
+    return text;
+  }
+  async function translationVerse(app, verseId, abbr) {
+    const r = parseVerseId(verseId);
+    if (!r) return null;
+    const b = BOOK_BY_SLUG.get(r.bookSlug);
+    if (!b) return null;
+    const text = await bookText(app, b.name, abbr);
+    if (!text) return null;
+    const m = new RegExp(`^\\*\\*${r.chapter}:${r.verse}\\*\\*\\s+(.*)$`, "m").exec(text);
+    return m?.[1]?.trim() || null;
+  }
+  var TranslationsModal = class extends Modal {
+    constructor(s, verseId, kjvText) {
+      super(s.app);
+      this.s = s;
+      this.verseId = verseId;
+      this.kjvText = kjvText;
+    }
+    onOpen() {
+      this.modalEl.addClass("sg-trans-modal");
+      const c = this.contentEl;
+      c.addClass("sg-trans");
+      c.createEl("h3", {
+        cls: "sg-trans-title",
+        text: `\u{1F310} ${verseDisplay(this.verseId) ?? this.verseId}`
+      });
+      const list = c.createDiv({ cls: "sg-trans-list" });
+      for (const t of TRANSLATIONS) {
+        const row = list.createDiv({ cls: "sg-trans-row" });
+        if (t.abbr === "KJV") row.addClass("sg-trans-kjv");
+        const head = row.createDiv({ cls: "sg-trans-head" });
+        head.createSpan({ cls: "sg-trans-abbr", text: t.abbr });
+        head.createSpan({ cls: "sg-trans-name", text: `${t.name} \xB7 ${t.note}` });
+        const body = row.createDiv({
+          cls: "sg-trans-text",
+          text: t.abbr === "KJV" ? this.kjvText : "\u2026"
+        });
+        if (t.abbr !== "KJV") {
+          void translationVerse(this.s.app, this.verseId, t.abbr).then((v) => {
+            if (v) {
+              body.setText(v);
+              return;
+            }
+            body.setText("not available \u2014 this translation may still be syncing to this device");
+            body.addClass("sg-trans-missing");
+          });
+        }
+      }
+      c.createDiv({
+        cls: "sg-trans-foot",
+        text: "WEB, ASV, and YLT are public domain and stored in your own library \u2014 they work offline."
+      });
+    }
+    onClose() {
+      this.contentEl.empty();
+    }
+  };
+
   // src/study/studyBar.ts
   async function openLocalGraphFor(s, linkText) {
     if (!linkText) return void new Notice("Nothing to graph here yet");
@@ -6546,6 +6626,12 @@ ${text}` : text;
       act("\u{1F578} Graph", () => void this.openGraph());
       act("\u{1F4CB} Copy", () => void this.doCopy());
       act("\u2728 AI", () => this.doAsk());
+      const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
+      if (firstSel && isBiblical(firstSel.verseId)) {
+        act("\u{1F310} Versions", () => {
+          new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
+        });
+      }
     }
     pickScope(e) {
       const menu = new Menu();
@@ -7657,6 +7743,19 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgTrans = () => {
+    const fakeState = {
+      app: {
+        metadataCache: { getFirstLinkpathDest: () => null },
+        vault: { cachedRead: async () => "" }
+      }
+    };
+    new TranslationsModal(
+      fakeState,
+      "john-3-16",
+      "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    ).open();
+  };
   window.sgConn = () => {
     const fakeState = {
       app: { vault: { getAbstractFileByPath: () => null } }

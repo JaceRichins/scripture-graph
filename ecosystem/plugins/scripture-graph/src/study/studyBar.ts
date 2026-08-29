@@ -18,6 +18,7 @@ import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from ".
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
+import { TranslationsModal, isBiblical } from "./translations";
 
 /** Open Obsidian's local connections graph centered on a page (§graph).
  * The whole vault is wikilink-wired by the engine, so a chapter's local
@@ -477,6 +478,13 @@ export class StudyBar {
     act("🕸 Graph", () => void this.openGraph());
     act("📋 Copy", () => void this.doCopy());
     act("✨ AI", () => this.doAsk());
+    // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
+    const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
+    if (firstSel && isBiblical(firstSel.verseId)) {
+      act("🌐 Versions", () => {
+        new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
+      });
+    }
   }
 
   private pickScope(e: MouseEvent): void {

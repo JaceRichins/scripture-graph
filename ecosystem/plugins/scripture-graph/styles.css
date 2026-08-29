@@ -932,6 +932,30 @@ body.sg-scene-on .sg-chap-conn {
   background: rgba(255, 255, 255, 0.08);
   border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
 }
+/* ---------- 🌐 parallel translations ---------- */
+.sg-trans-modal { width: min(600px, 96vw); }
+.sg-trans-title { margin: 0 0 12px; }
+.sg-trans-list {
+  display: flex; flex-direction: column; gap: 10px;
+  max-height: min(64vh, 600px); overflow-y: auto; overscroll-behavior: contain;
+}
+.sg-trans-row {
+  padding: 12px 14px; border-radius: 12px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+}
+.sg-trans-kjv { border-color: color-mix(in srgb, var(--interactive-accent) 55%, transparent); }
+.sg-trans-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 5px; }
+.sg-trans-abbr {
+  font-weight: 800; font-size: 0.82em; letter-spacing: 0.04em;
+  padding: 1px 7px; border-radius: 7px;
+  background: color-mix(in srgb, var(--interactive-accent) 18%, var(--background-primary));
+}
+.sg-trans-name { color: var(--text-muted); font-size: 0.82em; }
+.sg-trans-text { line-height: 1.5; }
+.sg-trans-missing { color: var(--text-faint); font-style: italic; font-size: 0.9em; }
+.sg-trans-foot { margin-top: 12px; color: var(--text-faint); font-size: 0.8em; }
+
 .sg-conn-modal { width: min(560px, 96vw); }
 .sg-conn-title { margin: 0 0 2px; }
 .sg-conn-sub { color: var(--text-muted); font-size: 0.88em; margin-bottom: 12px; }

@@ -160,6 +160,23 @@ def cmd_health(args):
     return cmd_gardener(args)
 
 
+def cmd_translations(args):
+    ctx = _ctx(args)
+    from scripturegraph import gitops
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    from scripturegraph.translations import build_translations
+    try:
+        with engine_lock(ctx):
+            gitops.checkpoint(ctx, "translations: pre-build checkpoint")
+            stats = build_translations(ctx, refresh=args.refresh)
+            gitops.commit_all(ctx, "translations: public-domain bibles (WEB/ASV/YLT)")
+    except EngineBusy:
+        print("engine busy — another run holds the lock; try again shortly")
+        return 1
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_crossrefs(args):
     ctx = _ctx(args)
     from scripturegraph import gitops
@@ -348,6 +365,10 @@ def main(argv=None) -> int:
 
     sub.add_parser("crossrefs", help="rebuild deterministic verse-parallel cross-references") \
         .set_defaults(fn=cmd_crossrefs)
+
+    sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
+    sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
+    sp.set_defaults(fn=cmd_translations)
 
     sp = sub.add_parser("status", help="status dashboard (console + Status.md)")
     sp.add_argument("--no-note", action="store_true")

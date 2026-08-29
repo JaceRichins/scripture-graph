@@ -113,6 +113,19 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// translations sheet: window.sgTrans() — KJV row real, others show fallback
+import { TranslationsModal } from "../src/study/translations";
+(window as unknown as { sgTrans: () => void }).sgTrans = () => {
+  const fakeState = {
+    app: {
+      metadataCache: { getFirstLinkpathDest: () => null },
+      vault: { cachedRead: async () => "" },
+    },
+  } as never;
+  new TranslationsModal(fakeState, "john-3-16",
+    "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.").open();
+};
+
 // connections sheet: window.sgConn() opens it with representative rows
 import { ConnectionsModal } from "../src/social/connections";
 (window as unknown as { sgConn: () => void }).sgConn = () => {
