@@ -138,6 +138,11 @@ export default class SGPlugin extends Plugin {
       callback: async () => { await this.ann.syncNow(); new Notice("Synced"); },
     });
     this.addCommand({
+      id: "cleanup-marks", name: "Clean up marks (duplicates & conflict copies)",
+      icon: "eraser",
+      callback: () => void this.cleanupMarks(),
+    });
+    this.addCommand({
       id: "export-my-data", name: "Export my data", icon: "download",
       callback: () => void this.exportMyData(),
     });
@@ -354,6 +359,48 @@ export default class SGPlugin extends Plugin {
     }
     await this.writeExport(`${folder}/My annotations ${stamp}.md`, lines.join("\n"));
     new Notice("Exported to Library/Exports");
+  }
+
+  /** One sweep over my annotations: duplicate flashcards, duplicate
+   * highlights, and "⚠ Conflict copy" junk notes get soft-deleted (oldest
+   * copy of each real thing is kept). */
+  async cleanupMarks(): Promise<void> {
+    const norm = (t: string) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const all = (await this.state.sync.allAnnotations())
+      .filter(a => a.author_user_id === this.state.device.userId || a.author_user_id === null)
+      .sort((a, b) => a.created_at.localeCompare(b.created_at));
+    const seen = new Set<string>();
+    let removed = 0;
+    for (const a of all) {
+      if (a.annotation_type === "note" && a.content.startsWith("⚠ Conflict copy")) {
+        await this.state.sync.softDelete(a.annotation_id);
+        removed++;
+        continue;
+      }
+      let key: string | null = null;
+      if (a.annotation_type === "study-marker") {
+        try {
+          const d = JSON.parse(a.content) as { back?: string };
+          key = `card|${a.anchor_id}|${norm(d.back ?? "")}`;
+        } catch { key = null; }
+      } else if (a.annotation_type === "highlight") {
+        key = `hl|${a.anchor_id}|${a.color ?? ""}|${norm(a.selected_text ?? "")}`;
+      } else if (a.annotation_type === "bookmark") {
+        key = `bm|${a.anchor_id}`;
+      }
+      if (!key) continue;
+      if (seen.has(key)) {
+        await this.state.sync.softDelete(a.annotation_id);
+        removed++;
+      } else {
+        seen.add(key);
+      }
+    }
+    this.ann.scheduleSync(500);
+    this.state.rerenderReading();
+    new Notice(removed
+      ? `Cleaned up ${removed} duplicate/junk mark${removed === 1 ? "" : "s"} 🧹`
+      : "Nothing to clean — your marks are tidy ✨");
   }
 
   private async writeExport(path: string, content: string): Promise<void> {

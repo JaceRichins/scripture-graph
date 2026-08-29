@@ -5423,7 +5423,9 @@ var ApiClient = class {
 // ../../packages/core-sdk/src/syncengine.ts
 var Q = "syncq/";
 var A = "ann/";
+var SV = "sv/";
 var CURSOR = "sync_cursor";
+var MAX_PUSH = 180;
 function nowIso() {
   return (/* @__PURE__ */ new Date()).toISOString();
 }
@@ -5433,6 +5435,11 @@ function uuid() {
 var SyncEngine = class {
   constructor(store) {
     this.store = store;
+  }
+  /** same-millisecond ops still sort in exact creation order */
+  opSeq = 0;
+  stamp() {
+    return `${nowIso()}~${(this.opSeq++).toString().padStart(6, "0")}`;
   }
   // ---------------------------------------------------------- local reads
   async getAnnotation(id) {
@@ -5450,17 +5457,25 @@ var SyncEngine = class {
   async annotationsForAnchor(anchorId) {
     return (await this.allAnnotations()).filter((a) => a.anchor_id === anchorId);
   }
+  async serverVersion(id) {
+    return this.store.get(SV + id);
+  }
+  async setServerVersion(id, v) {
+    await this.store.put(SV + id, v);
+  }
   // --------------------------------------------------------- local writes
   /** Save locally and (unless visibility=local) enqueue for the backend. */
   async save(a) {
     await this.store.put(A + a.annotation_id, a);
     if (a.visibility === "local") return;
+    const sv = await this.serverVersion(a.annotation_id);
     const op = {
       op_id: uuid(),
       kind: a.deleted_at ? "delete_annotation" : "upsert_annotation",
       annotation: a,
-      base_version: a.version > 1 || a.deleted_at ? a.version : 0,
-      queued_at: nowIso()
+      // the base is what the SERVER last confirmed — 0 only for never-synced
+      base_version: sv ?? (a.deleted_at ? a.version : 0),
+      queued_at: this.stamp()
     };
     await this.store.put(Q + op.op_id, op);
   }
@@ -5470,12 +5485,13 @@ var SyncEngine = class {
     const dead = { ...a, deleted_at: nowIso(), updated_at: nowIso() };
     await this.store.put(A + id, dead);
     if (a.visibility !== "local") {
+      const sv = await this.serverVersion(id);
       const op = {
         op_id: uuid(),
         kind: "delete_annotation",
         annotation: dead,
-        base_version: a.version,
-        queued_at: nowIso()
+        base_version: sv ?? a.version,
+        queued_at: this.stamp()
       };
       await this.store.put(Q + op.op_id, op);
     }
@@ -5485,14 +5501,16 @@ var SyncEngine = class {
   }
   // ---------------------------------------------------------------- push
   async flush(api) {
-    const keys = (await this.store.keys(Q)).sort();
+    const keys = await this.store.keys(Q);
     const stats = { applied: 0, conflicts: 0, failed: 0 };
     if (!keys.length) return stats;
-    const ops = [];
+    const all = [];
     for (const k of keys) {
       const op = await this.store.get(k);
-      if (op) ops.push(op);
+      if (op) all.push(op);
     }
+    all.sort((x, y) => x.queued_at.localeCompare(y.queued_at) || x.op_id.localeCompare(y.op_id));
+    const ops = all.slice(0, MAX_PUSH);
     let results;
     try {
       results = (await api.syncPush(ops)).results;
@@ -5506,6 +5524,10 @@ var SyncEngine = class {
       if (r.status === "applied" || r.status === "duplicate") {
         if (r.server_annotation) {
           await this.store.put(A + r.server_annotation.annotation_id, r.server_annotation);
+          await this.setServerVersion(
+            r.server_annotation.annotation_id,
+            r.server_annotation.version
+          );
         }
         await this.store.delete(Q + r.op_id);
         stats.applied++;
@@ -5513,7 +5535,13 @@ var SyncEngine = class {
         if (r.server_annotation) {
           const local = op.annotation;
           await this.store.put(A + r.server_annotation.annotation_id, r.server_annotation);
-          if (local.content && local.content !== r.server_annotation.content) {
+          await this.setServerVersion(
+            r.server_annotation.annotation_id,
+            r.server_annotation.version
+          );
+          if (op.kind === "delete_annotation") {
+            await this.softDelete(r.server_annotation.annotation_id);
+          } else if (local.content && local.content !== r.server_annotation.content) {
             const copy = {
               ...local,
               annotation_id: uuid(),
@@ -5545,10 +5573,10 @@ ${local.content}`,
     const res = await api.syncPull(cursor);
     for (const a of res.annotations) {
       const localKey = A + a.annotation_id;
+      await this.setServerVersion(a.annotation_id, a.version);
       const local = await this.store.get(localKey);
       if (local && local.version >= a.version && !a.deleted_at) continue;
-      if (a.deleted_at) await this.store.put(localKey, a);
-      else await this.store.put(localKey, a);
+      await this.store.put(localKey, a);
     }
     await this.store.put(CURSOR, res.next_cursor);
     return res.annotations.length;
@@ -6259,8 +6287,15 @@ var NotesPopover = class extends import_obsidian2.Modal {
         }).showAtMouseEvent(e);
       };
       const del = actions.createEl("button", { text: "Delete" });
-      del.onclick = () => {
-        void this.svc.remove(a.annotation_id);
+      del.onclick = async () => {
+        del.setAttribute("disabled", "true");
+        del.setText("Deleting\u2026");
+        try {
+          await this.svc.remove(a.annotation_id);
+          new import_obsidian2.Notice("Deleted");
+        } catch (e) {
+          new import_obsidian2.Notice(`Delete failed: ${e.message}`);
+        }
         this.close();
       };
     }
@@ -7952,6 +7987,12 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       }
     });
     this.addCommand({
+      id: "cleanup-marks",
+      name: "Clean up marks (duplicates & conflict copies)",
+      icon: "eraser",
+      callback: () => void this.cleanupMarks()
+    });
+    this.addCommand({
       id: "export-my-data",
       name: "Export my data",
       icon: "download",
@@ -8151,6 +8192,45 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     }
     await this.writeExport(`${folder}/My annotations ${stamp}.md`, lines.join("\n"));
     new import_obsidian12.Notice("Exported to Library/Exports");
+  }
+  /** One sweep over my annotations: duplicate flashcards, duplicate
+   * highlights, and "⚠ Conflict copy" junk notes get soft-deleted (oldest
+   * copy of each real thing is kept). */
+  async cleanupMarks() {
+    const norm = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const all = (await this.state.sync.allAnnotations()).filter((a) => a.author_user_id === this.state.device.userId || a.author_user_id === null).sort((a, b) => a.created_at.localeCompare(b.created_at));
+    const seen = /* @__PURE__ */ new Set();
+    let removed = 0;
+    for (const a of all) {
+      if (a.annotation_type === "note" && a.content.startsWith("\u26A0 Conflict copy")) {
+        await this.state.sync.softDelete(a.annotation_id);
+        removed++;
+        continue;
+      }
+      let key = null;
+      if (a.annotation_type === "study-marker") {
+        try {
+          const d = JSON.parse(a.content);
+          key = `card|${a.anchor_id}|${norm(d.back ?? "")}`;
+        } catch {
+          key = null;
+        }
+      } else if (a.annotation_type === "highlight") {
+        key = `hl|${a.anchor_id}|${a.color ?? ""}|${norm(a.selected_text ?? "")}`;
+      } else if (a.annotation_type === "bookmark") {
+        key = `bm|${a.anchor_id}`;
+      }
+      if (!key) continue;
+      if (seen.has(key)) {
+        await this.state.sync.softDelete(a.annotation_id);
+        removed++;
+      } else {
+        seen.add(key);
+      }
+    }
+    this.ann.scheduleSync(500);
+    this.state.rerenderReading();
+    new import_obsidian12.Notice(removed ? `Cleaned up ${removed} duplicate/junk mark${removed === 1 ? "" : "s"} \u{1F9F9}` : "Nothing to clean \u2014 your marks are tidy \u2728");
   }
   async writeExport(path, content) {
     const existing = this.app.vault.getAbstractFileByPath(path);

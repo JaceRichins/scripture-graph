@@ -321,7 +321,17 @@ export class NotesPopover extends Modal {
         }).showAtMouseEvent(e as MouseEvent);
       };
       const del = actions.createEl("button", { text: "Delete" });
-      del.onclick = () => { void this.svc.remove(a.annotation_id); this.close(); };
+      del.onclick = async () => {
+        del.setAttribute("disabled", "true");
+        del.setText("Deleting…");
+        try {
+          await this.svc.remove(a.annotation_id);
+          new Notice("Deleted");
+        } catch (e) {
+          new Notice(`Delete failed: ${(e as Error).message}`);
+        }
+        this.close();
+      };
     }
   }
   onClose() { this.contentEl.empty(); }

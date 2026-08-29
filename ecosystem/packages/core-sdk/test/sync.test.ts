@@ -101,4 +101,78 @@ describe("sync engine (§12, §46)", () => {
     expect(r.applied).toBe(1);
     expect((await s.allAnnotations()).find(x => x.annotation_id === a.annotation_id)).toBeUndefined();
   });
+
+  // ---- regressions from live phone testing 2026-08-28 ---------------------
+
+  it("editing an already-synced annotation pushes the SERVER's version as base " +
+     "(phantom-conflict bug: edits were silently undone)", async () => {
+    const s = new SyncEngine(new MemoryStore());
+    const a = ann({ visibility: "private" });
+    const api = new FakeApi();
+    await s.save(a);
+    await s.flush(api as never);          // server confirms version 1
+    const edited = { ...(await s.getAnnotation(a.annotation_id))!, visibility: "group" as const,
+      group_id: uuid(), updated_at: nowIso() };
+    await s.save(edited);
+    const r = await s.flush(api as never);
+    expect(r.conflicts).toBe(0);
+    expect(r.applied).toBe(1);
+    const pushedOp = api.pushes[1]![0]!;
+    expect(pushedOp.base_version).toBe(1); // not 0 — the server-confirmed base
+  });
+
+  it("a version pulled from the server becomes the base for the next edit", async () => {
+    const store = new MemoryStore();
+    const s = new SyncEngine(store);
+    const a = ann({ version: 5, author_user_id: "u".padEnd(36, "0") });
+    const api = new FakeApi();
+    api.syncPull = async () => ({ annotations: [a], next_cursor: "c2" });
+    await s.pull(api as never);
+    const edited = { ...(await s.getAnnotation(a.annotation_id))!, color: "blue" };
+    await s.save(edited);
+    const r = await s.flush(api as never);
+    expect(r.applied).toBe(1);
+    expect(api.pushes[0]![0]!.base_version).toBe(5);
+  });
+
+  it("ops flush in the order they happened, even in the same millisecond " +
+     "(uuid-order bug: deletes could race ahead of their create)", async () => {
+    const s = new SyncEngine(new MemoryStore());
+    const a = ann();
+    await s.save(a);          // create
+    await s.softDelete(a.annotation_id); // then delete — same ms is fine
+    const api = new FakeApi();
+    await s.flush(api as never);
+    const kinds = api.pushes[0]!.map(o => o.kind);
+    expect(kinds).toEqual(["upsert_annotation", "delete_annotation"]);
+  });
+
+  it("a conflicted DELETE retries the delete instead of resurrecting the mark, " +
+     "and never spawns a conflict copy", async () => {
+    const s = new SyncEngine(new MemoryStore());
+    const a = ann({ annotation_type: "note", content: "kill me" });
+    const api = new FakeApi();
+    await s.save(a);
+    await s.flush(api as never);          // synced at v1
+    await s.softDelete(a.annotation_id);
+    api.respond = op => ({
+      op_id: op.op_id, status: "conflict",
+      server_annotation: { ...op.annotation, deleted_at: null, content: "kill me",
+        version: 4 },
+    });
+    const r = await s.flush(api as never);
+    expect(r.conflicts).toBe(1);
+    // no junk copy…
+    expect((await s.allAnnotations()).filter(x => x.content.includes("Conflict copy"))).toHaveLength(0);
+    // …and the delete was re-queued against the server's version
+    expect(await s.pendingCount()).toBe(1);
+    const requeued = (await (s as never as { store: MemoryStore }).store.keys("syncq/"));
+    expect(requeued).toHaveLength(1);
+    api.respond = op => ({
+      op_id: op.op_id, status: "applied",
+      server_annotation: { ...op.annotation, version: 5 },
+    });
+    await s.flush(api as never);
+    expect((await s.allAnnotations()).find(x => x.annotation_id === a.annotation_id)).toBeUndefined();
+  });
 });

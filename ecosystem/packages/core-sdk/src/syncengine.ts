@@ -4,8 +4,13 @@
  * - local-visibility annotations NEVER enter the queue
  * - the queue survives restarts (persisted in LocalStore)
  * - push is idempotent (client op_id is the server's idempotency key)
- * - conflicts: the server's record wins the slot, but the losing local text
- *   is preserved as a new private "conflict copy" — user text is never lost
+ * - ops flush in the ORDER THEY HAPPENED (queued_at), never uuid order
+ * - the last version the server confirmed is tracked per annotation
+ *   ("sv/" marker); every edit/delete pushes against THAT base version, so
+ *   legitimate edits never lose to phantom conflicts
+ * - real conflicts: the server's record wins the slot, but the losing local
+ *   text is preserved as a new private "conflict copy" — user text is never
+ *   lost. Deletions never spawn copies (the user wanted the thing gone).
  */
 import type { ApiClient } from "./api";
 import type { LocalStore } from "./localstore";
@@ -13,7 +18,9 @@ import type { Annotation, SyncOp } from "./schemas";
 
 const Q = "syncq/";
 const A = "ann/";
+const SV = "sv/";          // annotation_id -> last server-confirmed version
 const CURSOR = "sync_cursor";
+const MAX_PUSH = 180;      // stay under the server's per-push cap
 
 export function nowIso(): string {
   return new Date().toISOString();
@@ -24,7 +31,14 @@ export function uuid(): string {
 }
 
 export class SyncEngine {
+  /** same-millisecond ops still sort in exact creation order */
+  private opSeq = 0;
+
   constructor(private store: LocalStore) {}
+
+  private stamp(): string {
+    return `${nowIso()}~${(this.opSeq++).toString().padStart(6, "0")}`;
+  }
 
   // ---------------------------------------------------------- local reads
   async getAnnotation(id: string): Promise<Annotation | null> {
@@ -45,17 +59,27 @@ export class SyncEngine {
     return (await this.allAnnotations()).filter(a => a.anchor_id === anchorId);
   }
 
+  private async serverVersion(id: string): Promise<number | null> {
+    return this.store.get<number>(SV + id);
+  }
+
+  private async setServerVersion(id: string, v: number): Promise<void> {
+    await this.store.put(SV + id, v);
+  }
+
   // --------------------------------------------------------- local writes
   /** Save locally and (unless visibility=local) enqueue for the backend. */
   async save(a: Annotation): Promise<void> {
     await this.store.put(A + a.annotation_id, a);
     if (a.visibility === "local") return; // §6: never uploaded
+    const sv = await this.serverVersion(a.annotation_id);
     const op: SyncOp = {
       op_id: uuid(),
       kind: a.deleted_at ? "delete_annotation" : "upsert_annotation",
       annotation: a,
-      base_version: a.version > 1 || a.deleted_at ? a.version : 0,
-      queued_at: nowIso(),
+      // the base is what the SERVER last confirmed — 0 only for never-synced
+      base_version: sv ?? (a.deleted_at ? a.version : 0),
+      queued_at: this.stamp(),
     };
     await this.store.put(Q + op.op_id, op);
   }
@@ -66,9 +90,10 @@ export class SyncEngine {
     const dead = { ...a, deleted_at: nowIso(), updated_at: nowIso() };
     await this.store.put(A + id, dead);
     if (a.visibility !== "local") {
+      const sv = await this.serverVersion(id);
       const op: SyncOp = {
         op_id: uuid(), kind: "delete_annotation", annotation: dead,
-        base_version: a.version, queued_at: nowIso(),
+        base_version: sv ?? a.version, queued_at: this.stamp(),
       };
       await this.store.put(Q + op.op_id, op);
     }
@@ -80,14 +105,18 @@ export class SyncEngine {
 
   // ---------------------------------------------------------------- push
   async flush(api: ApiClient): Promise<{ applied: number; conflicts: number; failed: number }> {
-    const keys = (await this.store.keys(Q)).sort();
+    const keys = await this.store.keys(Q);
     const stats = { applied: 0, conflicts: 0, failed: 0 };
     if (!keys.length) return stats;
-    const ops: SyncOp[] = [];
+    const all: SyncOp[] = [];
     for (const k of keys) {
       const op = await this.store.get<SyncOp>(k);
-      if (op) ops.push(op);
+      if (op) all.push(op);
     }
+    // chronological — a delete must never race ahead of the create it deletes
+    all.sort((x, y) => x.queued_at.localeCompare(y.queued_at)
+      || x.op_id.localeCompare(y.op_id));
+    const ops = all.slice(0, MAX_PUSH); // leftovers go on the next flush
     let results;
     try {
       results = (await api.syncPush(ops)).results;
@@ -101,6 +130,8 @@ export class SyncEngine {
       if (r.status === "applied" || r.status === "duplicate") {
         if (r.server_annotation) {
           await this.store.put(A + r.server_annotation.annotation_id, r.server_annotation);
+          await this.setServerVersion(r.server_annotation.annotation_id,
+            r.server_annotation.version);
         }
         await this.store.delete(Q + r.op_id);
         stats.applied++;
@@ -109,7 +140,13 @@ export class SyncEngine {
         if (r.server_annotation) {
           const local = op.annotation;
           await this.store.put(A + r.server_annotation.annotation_id, r.server_annotation);
-          if (local.content && local.content !== r.server_annotation.content) {
+          await this.setServerVersion(r.server_annotation.annotation_id,
+            r.server_annotation.version);
+          // deletions never spawn copies — retry the delete against the
+          // server's version instead of resurrecting the mark
+          if (op.kind === "delete_annotation") {
+            await this.softDelete(r.server_annotation.annotation_id);
+          } else if (local.content && local.content !== r.server_annotation.content) {
             const copy: Annotation = {
               ...local,
               annotation_id: uuid(),
@@ -141,11 +178,12 @@ export class SyncEngine {
     const res = await api.syncPull(cursor);
     for (const a of res.annotations) {
       const localKey = A + a.annotation_id;
+      // the server's version is the new base for future edits, always
+      await this.setServerVersion(a.annotation_id, a.version);
       const local = await this.store.get<Annotation>(localKey);
       // don't clobber a newer queued local edit; flush() will reconcile it
       if (local && local.version >= a.version && !a.deleted_at) continue;
-      if (a.deleted_at) await this.store.put(localKey, a);
-      else await this.store.put(localKey, a);
+      await this.store.put(localKey, a);
     }
     await this.store.put(CURSOR, res.next_cursor);
     return res.annotations.length;
