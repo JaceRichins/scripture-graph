@@ -72,6 +72,11 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-card-grades { display: flex; gap: 10px; margin-top: 12px; }
 .sg-card-grades button { flex: 1; }
 
+.sg-write-modal textarea {
+  width: 100%; min-height: 160px; resize: vertical; font-size: 16px;
+  margin: 8px 0;
+}
+
 /* ---------- welcome ------------------------------------------------------- */
 .sg-welcome p { opacity: 0.85; }
 
@@ -125,10 +130,16 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   border-radius: 14px; padding: 6px 14px; font-size: 0.9em; font-weight: 600;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.3);
 }
-.sg-studybar-colors { display: flex; gap: 12px; justify-content: center; }
+.sg-studybar-colors, .sg-studybar-styles {
+  display: flex; gap: 12px; justify-content: center; align-items: center;
+}
 .sg-dot {
-  width: 34px; height: 34px; border-radius: 50%;
+  flex: 0 0 34px; width: 34px; height: 34px; border-radius: 50%;
   border: 2px solid transparent; box-shadow: none; padding: 0;
+}
+.sg-style-chip { flex: 0 0 40px; }
+.sg-studybar-ref {
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0;
 }
 .sg-dot-last { border-color: var(--text-normal); }
 .sg-dot-yellow { background: #f5d90a; }

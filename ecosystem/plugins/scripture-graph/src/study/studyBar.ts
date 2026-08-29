@@ -40,21 +40,40 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
   // desktop: side-by-side so the reading stays visible; mobile: new tab
   const leaf = ws.getLeaf(Platform.isMobile ? "tab" : "split");
+  const GRAPH_OPTS = {
+    textFadeMultiplier: 3, nodeSizeMultiplier: 1.4, lineSizeMultiplier: 1,
+    showArrow: false, localJumps: 1, localBacklinks: true,
+    localForelinks: true, localInterlinks: true,
+    showTags: false, showAttachments: false, hideUnresolved: true,
+    // settings panel arrives CLOSED and its sections collapsed
+    close: true, "collapse-filter": true, "collapse-color-groups": true,
+    "collapse-display": true, "collapse-forces": true,
+  };
   await leaf.setViewState({
     type: "localgraph", active: true,
-    state: {
-      file: f.path,
-      // labels visible WITHOUT zooming (mobile complaint), chunkier nodes,
-      // neighbor-to-neighbor links on, noise off
-      options: {
-        textFadeMultiplier: 3, nodeSizeMultiplier: 1.3, lineSizeMultiplier: 1,
-        showArrow: false, localJumps: 1, localBacklinks: true,
-        localForelinks: true, localInterlinks: true,
-        showTags: false, showAttachments: false, hideUnresolved: true,
-      },
-    },
+    state: { file: f.path, options: GRAPH_OPTS },
   });
   await ws.revealLeaf(leaf);
+  // the state payload alone doesn't always take (observed on mobile): push
+  // the options straight into the graph engine once it exists, with retries
+  const pushOptions = () => {
+    const view = leaf.view as unknown as {
+      dataEngine?: { setOptions?: (o: unknown) => void };
+      engine?: { setOptions?: (o: unknown) => void };
+    } | undefined;
+    const engine = view?.dataEngine ?? view?.engine;
+    if (engine?.setOptions) {
+      engine.setOptions(GRAPH_OPTS);
+      trace("graph.optionsPushed", {});
+      return true;
+    }
+    return false;
+  };
+  if (!pushOptions()) {
+    window.setTimeout(pushOptions, 250);
+    window.setTimeout(pushOptions, 800);
+    window.setTimeout(pushOptions, 1800);
+  }
   // mobile: a floating "← back" pill returns exactly to the reading spot
   if (Platform.isMobile && returnLeaf) {
     const container = leaf.view?.containerEl;
@@ -365,9 +384,6 @@ export class StudyBar {
         : SCOPE_LABEL[scope.visibility] ?? "🔐 Only me",
     });
     scopeChip.onclick = (e) => this.pickScope(e);
-    const graphBtn = top.createEl("button", { cls: "sg-graph-btn", text: "🕸" });
-    graphBtn.setAttribute("aria-label", "See this verse's connections graph");
-    graphBtn.onclick = () => void this.openGraph();
     const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
     close.onclick = () => this.clear();
 
@@ -384,10 +400,11 @@ export class StudyBar {
       dot.setAttribute("aria-label", `Mark ${c}`);
       dot.onclick = () => void this.doHighlight(c);
     }
+    const styleRow = bar.createDiv({ cls: "sg-studybar-styles" });
     const styles: [string, string][] = [["highlight", "🖍"], ["underline", "U̲"],
       ["bold", "B"], ["italic", "I"]];
     for (const [key, label] of styles) {
-      const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+      const chip = styleRow.createEl("button", { cls: "sg-style-chip", text: label });
       if (key === "bold") chip.style.fontWeight = "800";
       if (key === "italic") chip.style.fontStyle = "italic";
       if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
@@ -428,8 +445,9 @@ export class StudyBar {
     };
     act("📝 Note", () => this.doNote());
     act("🃏 Card", () => void this.doFlashcard());
+    act("🕸 Graph", () => void this.openGraph());
     act("📋 Copy", () => void this.doCopy());
-    act("✨ Ask AI", () => this.doAsk());
+    act("✨ AI", () => this.doAsk());
   }
 
   private pickScope(e: MouseEvent): void {

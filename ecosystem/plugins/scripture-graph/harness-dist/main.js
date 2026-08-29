@@ -6133,29 +6133,46 @@ ${text}` : text;
     const ws = s.app.workspace;
     const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
     const leaf = ws.getLeaf(Platform.isMobile ? "tab" : "split");
+    const GRAPH_OPTS = {
+      textFadeMultiplier: 3,
+      nodeSizeMultiplier: 1.4,
+      lineSizeMultiplier: 1,
+      showArrow: false,
+      localJumps: 1,
+      localBacklinks: true,
+      localForelinks: true,
+      localInterlinks: true,
+      showTags: false,
+      showAttachments: false,
+      hideUnresolved: true,
+      // settings panel arrives CLOSED and its sections collapsed
+      close: true,
+      "collapse-filter": true,
+      "collapse-color-groups": true,
+      "collapse-display": true,
+      "collapse-forces": true
+    };
     await leaf.setViewState({
       type: "localgraph",
       active: true,
-      state: {
-        file: f.path,
-        // labels visible WITHOUT zooming (mobile complaint), chunkier nodes,
-        // neighbor-to-neighbor links on, noise off
-        options: {
-          textFadeMultiplier: 3,
-          nodeSizeMultiplier: 1.3,
-          lineSizeMultiplier: 1,
-          showArrow: false,
-          localJumps: 1,
-          localBacklinks: true,
-          localForelinks: true,
-          localInterlinks: true,
-          showTags: false,
-          showAttachments: false,
-          hideUnresolved: true
-        }
-      }
+      state: { file: f.path, options: GRAPH_OPTS }
     });
     await ws.revealLeaf(leaf);
+    const pushOptions = () => {
+      const view2 = leaf.view;
+      const engine = view2?.dataEngine ?? view2?.engine;
+      if (engine?.setOptions) {
+        engine.setOptions(GRAPH_OPTS);
+        trace("graph.optionsPushed", {});
+        return true;
+      }
+      return false;
+    };
+    if (!pushOptions()) {
+      window.setTimeout(pushOptions, 250);
+      window.setTimeout(pushOptions, 800);
+      window.setTimeout(pushOptions, 1800);
+    }
     if (Platform.isMobile && returnLeaf) {
       const container = leaf.view?.containerEl;
       if (container) {
@@ -6424,9 +6441,6 @@ ${text}` : text;
         text: scope.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === scope.groupId)?.name ?? "Group"}` : SCOPE_LABEL[scope.visibility] ?? "\u{1F510} Only me"
       });
       scopeChip.onclick = (e) => this.pickScope(e);
-      const graphBtn = top.createEl("button", { cls: "sg-graph-btn", text: "\u{1F578}" });
-      graphBtn.setAttribute("aria-label", "See this verse's connections graph");
-      graphBtn.onclick = () => void this.openGraph();
       const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
       close.onclick = () => this.clear();
       const colors = bar2.createDiv({ cls: "sg-studybar-colors" });
@@ -6440,6 +6454,7 @@ ${text}` : text;
         dot.setAttribute("aria-label", `Mark ${c}`);
         dot.onclick = () => void this.doHighlight(c);
       }
+      const styleRow = bar2.createDiv({ cls: "sg-studybar-styles" });
       const styles = [
         ["highlight", "\u{1F58D}"],
         ["underline", "U\u0332"],
@@ -6447,7 +6462,7 @@ ${text}` : text;
         ["italic", "I"]
       ];
       for (const [key, label] of styles) {
-        const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+        const chip = styleRow.createEl("button", { cls: "sg-style-chip", text: label });
         if (key === "bold") chip.style.fontWeight = "800";
         if (key === "italic") chip.style.fontStyle = "italic";
         if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
@@ -6481,8 +6496,9 @@ ${text}` : text;
       };
       act("\u{1F4DD} Note", () => this.doNote());
       act("\u{1F0CF} Card", () => void this.doFlashcard());
+      act("\u{1F578} Graph", () => void this.openGraph());
       act("\u{1F4CB} Copy", () => void this.doCopy());
-      act("\u2728 Ask AI", () => this.doAsk());
+      act("\u2728 AI", () => this.doAsk());
     }
     pickScope(e) {
       const menu = new Menu();

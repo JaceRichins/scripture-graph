@@ -6559,29 +6559,46 @@ async function openLocalGraphFor(s, linkText) {
   const ws = s.app.workspace;
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
   const leaf = ws.getLeaf(import_obsidian7.Platform.isMobile ? "tab" : "split");
+  const GRAPH_OPTS = {
+    textFadeMultiplier: 3,
+    nodeSizeMultiplier: 1.4,
+    lineSizeMultiplier: 1,
+    showArrow: false,
+    localJumps: 1,
+    localBacklinks: true,
+    localForelinks: true,
+    localInterlinks: true,
+    showTags: false,
+    showAttachments: false,
+    hideUnresolved: true,
+    // settings panel arrives CLOSED and its sections collapsed
+    close: true,
+    "collapse-filter": true,
+    "collapse-color-groups": true,
+    "collapse-display": true,
+    "collapse-forces": true
+  };
   await leaf.setViewState({
     type: "localgraph",
     active: true,
-    state: {
-      file: f.path,
-      // labels visible WITHOUT zooming (mobile complaint), chunkier nodes,
-      // neighbor-to-neighbor links on, noise off
-      options: {
-        textFadeMultiplier: 3,
-        nodeSizeMultiplier: 1.3,
-        lineSizeMultiplier: 1,
-        showArrow: false,
-        localJumps: 1,
-        localBacklinks: true,
-        localForelinks: true,
-        localInterlinks: true,
-        showTags: false,
-        showAttachments: false,
-        hideUnresolved: true
-      }
-    }
+    state: { file: f.path, options: GRAPH_OPTS }
   });
   await ws.revealLeaf(leaf);
+  const pushOptions = () => {
+    const view = leaf.view;
+    const engine = view?.dataEngine ?? view?.engine;
+    if (engine?.setOptions) {
+      engine.setOptions(GRAPH_OPTS);
+      trace("graph.optionsPushed", {});
+      return true;
+    }
+    return false;
+  };
+  if (!pushOptions()) {
+    window.setTimeout(pushOptions, 250);
+    window.setTimeout(pushOptions, 800);
+    window.setTimeout(pushOptions, 1800);
+  }
   if (import_obsidian7.Platform.isMobile && returnLeaf) {
     const container = leaf.view?.containerEl;
     if (container) {
@@ -6859,9 +6876,6 @@ var init_studyBar = __esm({
           text: scope.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === scope.groupId)?.name ?? "Group"}` : SCOPE_LABEL[scope.visibility] ?? "\u{1F510} Only me"
         });
         scopeChip.onclick = (e) => this.pickScope(e);
-        const graphBtn = top.createEl("button", { cls: "sg-graph-btn", text: "\u{1F578}" });
-        graphBtn.setAttribute("aria-label", "See this verse's connections graph");
-        graphBtn.onclick = () => void this.openGraph();
         const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
         close.onclick = () => this.clear();
         const colors = bar.createDiv({ cls: "sg-studybar-colors" });
@@ -6875,6 +6889,7 @@ var init_studyBar = __esm({
           dot.setAttribute("aria-label", `Mark ${c}`);
           dot.onclick = () => void this.doHighlight(c);
         }
+        const styleRow = bar.createDiv({ cls: "sg-studybar-styles" });
         const styles = [
           ["highlight", "\u{1F58D}"],
           ["underline", "U\u0332"],
@@ -6882,7 +6897,7 @@ var init_studyBar = __esm({
           ["italic", "I"]
         ];
         for (const [key, label] of styles) {
-          const chip = colors.createEl("button", { cls: "sg-style-chip", text: label });
+          const chip = styleRow.createEl("button", { cls: "sg-style-chip", text: label });
           if (key === "bold") chip.style.fontWeight = "800";
           if (key === "italic") chip.style.fontStyle = "italic";
           if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
@@ -6916,8 +6931,9 @@ var init_studyBar = __esm({
         };
         act("\u{1F4DD} Note", () => this.doNote());
         act("\u{1F0CF} Card", () => void this.doFlashcard());
+        act("\u{1F578} Graph", () => void this.openGraph());
         act("\u{1F4CB} Copy", () => void this.doCopy());
-        act("\u2728 Ask AI", () => this.doAsk());
+        act("\u2728 AI", () => this.doAsk());
       }
       pickScope(e) {
         const menu = new import_obsidian7.Menu();
@@ -8484,6 +8500,29 @@ async function migrateFromAnnotate(s) {
 }
 
 // src/main.ts
+var WriteModal = class extends import_obsidian12.Modal {
+  constructor(app, chapter, onSave) {
+    super(app);
+    this.chapter = chapter;
+    this.onSave = onSave;
+  }
+  onOpen() {
+    this.contentEl.addClass("sg-write-modal");
+    this.contentEl.createEl("h3", { text: `\u270D\uFE0F ${this.chapter} \u2014 my notes` });
+    const ta = this.contentEl.createEl("textarea", {
+      attr: { placeholder: "Write your thoughts\u2026 (added under My Notes)" }
+    });
+    new import_obsidian12.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(async () => {
+      const text = ta.value.trim();
+      this.close();
+      if (text) await this.onSave(text);
+    })).addButton((b) => b.setButtonText("Cancel").onClick(() => this.close()));
+    setTimeout(() => ta.focus(), 60);
+  }
+  onClose() {
+    this.contentEl.empty();
+  }
+};
 function newerVersion(remote, local) {
   const r = remote.split(".").map(Number);
   const l = local.split(".").map(Number);
@@ -8586,6 +8625,26 @@ var SGPlugin = class extends import_obsidian12.Plugin {
         const ok = !!f && f.path.startsWith(CANONICAL_PREFIX) && !!chapterIdFromTitle(f.basename);
         if (!checking && ok) this.openMyStudy(f.basename);
         return ok;
+      }
+    });
+    this.addCommand({
+      id: "write-my-notes",
+      name: "Write in my notes (this chapter)",
+      icon: "pen-line",
+      checkCallback: (checking) => {
+        const f = this.app.workspace.getActiveFile();
+        let target = null;
+        if (f?.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+          target = f;
+        } else if (f?.path.startsWith(CANONICAL_PREFIX) && chapterIdFromTitle(f.basename)) {
+          const dest = this.app.metadataCache.getFirstLinkpathDest(
+            `${f.basename} - My Notes`,
+            ""
+          );
+          if (dest) target = dest;
+        }
+        if (!checking && target) void this.writeInMyNotes(target);
+        return !!target;
       }
     });
     this.addCommand({
@@ -8789,11 +8848,31 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       new import_obsidian12.Notice("No My Notes page exists for this chapter yet");
     }
   }
-  /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view. */
+  /** ✍️ Write dialog: append to the My Notes section without ever putting
+   * the page itself into an editor (mobile keyboard stays in the dialog). */
+  async writeInMyNotes(f) {
+    new WriteModal(this.app, f.basename.replace(/ - My Notes$/, ""), async (text) => {
+      await this.app.vault.process(f, (c) => `${c.trimEnd()}
+
+${text.trim()}
+`);
+      new import_obsidian12.Notice("Added to your notes \u270D\uFE0F");
+    }).open();
+  }
+  /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view,
+   * ✍️ on My Study pages. */
   addMyStudyAction(f) {
-    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
     const view = this.app.workspace.getActiveViewOfType(import_obsidian12.MarkdownView);
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
+    if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+      this.studyActionViews.add(view);
+      view.addAction("pen-line", "Write in my notes", () => {
+        const cur = view.file;
+        if (cur) void this.writeInMyNotes(cur);
+      });
+      return;
+    }
+    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
     this.studyActionViews.add(view);
     view.addAction("git-fork", "See this chapter's connections graph", () => {
       const cur = view.file;
@@ -8843,7 +8922,8 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       const path = view.file.path;
       const canonical = path.startsWith(CANONICAL_PREFIX);
       const aiLibrary = path.startsWith(LIBRARY_PREFIX);
-      if (!canonical && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
+      const mobileStudyPage = import_obsidian12.Platform.isMobile && path.startsWith(PERSONAL_PREFIX) && path.endsWith(" - My Notes.md");
+      if (!canonical && !mobileStudyPage && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
       if (view.getMode() === "preview") continue;
       void leaf.setViewState({
         type: "markdown",

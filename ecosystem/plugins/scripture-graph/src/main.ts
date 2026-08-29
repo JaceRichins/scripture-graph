@@ -4,7 +4,7 @@
  * (highlights/notes/groups), AI (Ask pane over the user's own wallet), STUDY
  * (reader, bookmarks, trails, flashcards). Shared state lives in SGState;
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
-import { MarkdownView, Notice, Plugin, TFile, WorkspaceLeaf, requestUrl } from "obsidian";
+import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, WorkspaceLeaf, requestUrl, type App } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { AnnotationService, NoteModal } from "./social/annotations";
@@ -17,6 +17,31 @@ import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
+
+/** Longform writing dialog — the ONLY way a keyboard appears in the study
+ * flow on mobile. Appends to the page's My Notes area. */
+class WriteModal extends Modal {
+  constructor(app: App, private chapter: string,
+    private onSave: (text: string) => Promise<void>) {
+    super(app);
+  }
+  onOpen() {
+    this.contentEl.addClass("sg-write-modal");
+    this.contentEl.createEl("h3", { text: `✍️ ${this.chapter} — my notes` });
+    const ta = this.contentEl.createEl("textarea", {
+      attr: { placeholder: "Write your thoughts… (added under My Notes)" },
+    });
+    new Setting(this.contentEl)
+      .addButton(b => b.setButtonText("Save").setCta().onClick(async () => {
+        const text = ta.value.trim();
+        this.close();
+        if (text) await this.onSave(text);
+      }))
+      .addButton(b => b.setButtonText("Cancel").onClick(() => this.close()));
+    setTimeout(() => ta.focus(), 60);
+  }
+  onClose() { this.contentEl.empty(); }
+}
 
 /** "0.7.0" vs "0.6.1" — plain numeric semver compare. */
 export function newerVersion(remote: string, local: string): boolean {
@@ -121,6 +146,22 @@ export default class SGPlugin extends Plugin {
           && !!chapterIdFromTitle(f.basename);
         if (!checking && ok) this.openMyStudy(f!.basename);
         return ok;
+      },
+    });
+    this.addCommand({
+      id: "write-my-notes", name: "Write in my notes (this chapter)", icon: "pen-line",
+      checkCallback: checking => {
+        const f = this.app.workspace.getActiveFile();
+        let target: TFile | null = null;
+        if (f?.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+          target = f;
+        } else if (f?.path.startsWith(CANONICAL_PREFIX) && chapterIdFromTitle(f.basename)) {
+          const dest = this.app.metadataCache.getFirstLinkpathDest(
+            `${f.basename} - My Notes`, "");
+          if (dest) target = dest;
+        }
+        if (!checking && target) void this.writeInMyNotes(target);
+        return !!target;
       },
     });
     this.addCommand({
@@ -329,11 +370,30 @@ export default class SGPlugin extends Plugin {
     }
   }
 
-  /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view. */
+  /** ✍️ Write dialog: append to the My Notes section without ever putting
+   * the page itself into an editor (mobile keyboard stays in the dialog). */
+  async writeInMyNotes(f: TFile): Promise<void> {
+    new WriteModal(this.app, f.basename.replace(/ - My Notes$/, ""), async (text) => {
+      await this.app.vault.process(f, (c) =>
+        `${c.trimEnd()}\n\n${text.trim()}\n`);
+      new Notice("Added to your notes ✍️");
+    }).open();
+  }
+
+  /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view,
+   * ✍️ on My Study pages. */
   private addMyStudyAction(f: TFile): void {
-    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
     const view = this.app.workspace.getActiveViewOfType(MarkdownView);
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
+    if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
+      this.studyActionViews.add(view);
+      view.addAction("pen-line", "Write in my notes", () => {
+        const cur = view.file;
+        if (cur) void this.writeInMyNotes(cur);
+      });
+      return;
+    }
+    if (!f.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(f.basename)) return;
     this.studyActionViews.add(view);
     view.addAction("git-fork", "See this chapter's connections graph", () => {
       const cur = view.file;
@@ -388,7 +448,12 @@ export default class SGPlugin extends Plugin {
       const path = view.file.path;
       const canonical = path.startsWith(CANONICAL_PREFIX);
       const aiLibrary = path.startsWith(LIBRARY_PREFIX);
-      if (!canonical && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
+      // phones: My Study pages are a READING surface too — the keyboard only
+      // ever appears through the ✍️ write dialog (user-reported keyboard trap)
+      const mobileStudyPage = Platform.isMobile
+        && path.startsWith(PERSONAL_PREFIX) && path.endsWith(" - My Notes.md");
+      if (!canonical && !mobileStudyPage
+        && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
       if (view.getMode() === "preview") continue;
       void leaf.setViewState({
         type: "markdown",
