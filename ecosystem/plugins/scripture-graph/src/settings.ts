@@ -93,6 +93,7 @@ export class SGSettingsTab extends PluginSettingTab {
       .addDropdown(d => {
         d.addOption("none", "None (plain)");
         d.addOption("auto", "Auto — follow the time of day");
+        d.addOption("match", "📖 Match the chapter");
         for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
         d.setValue(s.device.scene ?? "none").onChange(async v => {
           s.device.scene = v;

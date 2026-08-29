@@ -8,6 +8,7 @@ import type { Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
 import type { StudyBar } from "../study/studyBar";
+import { voiceFor } from "../study/presence";
 
 export interface SelectionHit {
   verseId: string;
@@ -40,6 +41,38 @@ export function registerReadingIntegration(
     for (const { p, verseId } of paragraphs) {
       const mine = await svc.mine(verseId);
       decorateVerse(s, svc, p, verseId, mine, svc.social(verseId));
+    }
+    // PRESENCE: above verse 1, say who is speaking and from where —
+    // being with the author is the point of the whole page
+    const first = paragraphs.find(x => x.verseId === `${slug}-1`);
+    if (first && !el.querySelector(".sg-voice")) {
+      const found = voiceFor(slug);
+      if (found) {
+        const { v } = found;
+        const strip = createDiv({ cls: "sg-voice" });
+        const who = strip.createSpan({ cls: "sg-voice-who", text: `✒️ ${v.display ?? v.author}` });
+        who.onclick = () => plugin.app.workspace.openLinkText(v.author, ctx.sourcePath);
+        strip.createSpan({ cls: "sg-voice-where", text: ` · ${v.place} · ${v.era}` });
+        strip.createDiv({ cls: "sg-voice-line", text: v.line });
+        first.p.parentElement?.insertBefore(strip, first.p);
+      }
+      // manuscript drop cap on the chapter's first letter
+      const strong = first.p.querySelector("strong");
+      let node = strong?.nextSibling ?? null;
+      while (node && !(node.nodeType === 3 && node.textContent?.trim())) node = node.nextSibling;
+      if (node?.nodeType === 3 && node.textContent) {
+        const text = node.textContent;
+        const m = /^(\s*)(\S)/.exec(text);
+        if (m && /[A-Za-z]/.test(m[2]!)) {
+          const rest = document.createTextNode(text.slice(m[0].length));
+          const cap = createSpan({ cls: "sg-dropcap", text: m[2]! });
+          const lead = document.createTextNode(m[1]!);
+          const parent = node.parentNode!;
+          parent.replaceChild(rest, node);
+          parent.insertBefore(cap, rest);
+          parent.insertBefore(lead, cap);
+        }
+      }
     }
     // social refresh in background, then re-decorate on next render
     void svc.refreshSocial(anchors);

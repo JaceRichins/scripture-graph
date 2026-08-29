@@ -198,6 +198,16 @@ ${local.content}`,
     if (opts.text) el.textContent = opts.text;
     if (opts.attr) for (const [k, v] of Object.entries(opts.attr)) el.setAttribute(k, v);
   }
+  globalThis["createDiv"] = (opts) => {
+    const d = document.createElement("div");
+    applyOpts(d, opts);
+    return d;
+  };
+  globalThis["createSpan"] = (opts) => {
+    const s = document.createElement("span");
+    applyOpts(s, opts);
+    return s;
+  };
   var proto = HTMLElement.prototype;
   proto.createEl = function(tag, opts) {
     const el = document.createElement(tag);

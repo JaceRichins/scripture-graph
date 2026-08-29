@@ -6504,6 +6504,160 @@ ${text}` : text;
   }
 });
 
+// src/study/presence.ts
+var presence_exports = {};
+__export(presence_exports, {
+  CHAPTER_VOICES: () => CHAPTER_VOICES,
+  VOICES: () => VOICES,
+  matchScene: () => matchScene,
+  voiceFor: () => voiceFor
+});
+function voiceFor(slug) {
+  const dash = slug.lastIndexOf("-");
+  const book = dash > 0 ? slug.slice(0, dash) : slug;
+  const v = VOICES[book];
+  if (!v) return null;
+  const over = CHAPTER_VOICES[slug];
+  return { v: { ...v, ...over }, chapterLine: over?.line ?? null };
+}
+function matchScene(chapterText) {
+  let best = "sunrise";
+  let bestScore = 0;
+  for (const [scene, re] of SCENE_KEYWORDS) {
+    const score = (chapterText.match(re) ?? []).length;
+    if (score > bestScore) {
+      bestScore = score;
+      best = scene;
+    }
+  }
+  return best;
+}
+var VOICES, CHAPTER_VOICES, SCENE_KEYWORDS;
+var init_presence = __esm({
+  "src/study/presence.ts"() {
+    "use strict";
+    VOICES = {
+      gen: { author: "Moses", place: "the wilderness of Sinai", era: "recounting the beginning", line: "the record of creation, the fall, and the covenant family" },
+      ex: { author: "Moses", place: "the wilderness", era: "after the deliverance from Egypt", line: "written by the man who stood before Pharaoh and the burning bush" },
+      lev: { author: "Moses", place: "the foot of Sinai", era: "the first year of the Exodus", line: "the law given while the tabernacle was new" },
+      num: { author: "Moses", place: "the wilderness", era: "forty years of wandering", line: "a people counted, tested, and led" },
+      deut: { author: "Moses", place: "the plains of Moab", era: "his final days", line: "an old prophet's last sermons, in sight of a land he will not enter" },
+      josh: { author: "Joshua", place: "Canaan", era: "the conquest and settlement", line: "the soldier who served Moses now leads" },
+      judg: { author: "Samuel", display: "the chronicler (trad. Samuel)", place: "Israel", era: "the turbulent generations before the kings", line: "when every man did what was right in his own eyes" },
+      ruth: { author: "Samuel", display: "the chronicler", place: "Bethlehem", era: "the days of the judges", line: "a quiet story of loyalty inside a violent age" },
+      "1sam": { author: "Samuel", place: "Israel", era: "the birth of the monarchy", line: "prophet, kingmaker, and mourner of kings" },
+      "2sam": { author: "Samuel", display: "the court chronicler", place: "Jerusalem", era: "David's reign", line: "the glory and the wreckage of a king after God's own heart" },
+      "1kgs": { author: "Jeremiah", display: "the chronicler (trad. Jeremiah)", place: "Jerusalem", era: "from Solomon to the divided kingdom", line: "how wisdom rose and the kingdom tore" },
+      "2kgs": { author: "Jeremiah", display: "the chronicler", place: "Jerusalem", era: "the fall of two kingdoms", line: "prophets crying to kings who would not hear" },
+      "1chr": { author: "Ezra", display: "the chronicler (trad. Ezra)", place: "Jerusalem, rebuilt", era: "after the exile", line: "a returned people retelling their story to remember who they are" },
+      "2chr": { author: "Ezra", display: "the chronicler", place: "Jerusalem, rebuilt", era: "after the exile", line: "the temple's story, told by those who lost it and came home" },
+      ezra: { author: "Ezra", place: "Jerusalem", era: "the return from Babylon", line: "a scribe rebuilding a people around the word" },
+      neh: { author: "Nehemiah", place: "Jerusalem's broken walls", era: "~445 BC", line: "a cupbearer who left a palace to rebuild a ruin" },
+      esth: { author: "Mordecai", display: "the chronicler", place: "Susa, Persia", era: "the exile", line: "courage in a court where God is never named and always present" },
+      job: { author: "Job", display: "unknown poet", place: "the land of Uz", era: "the age of the patriarchs", line: "the oldest questions, asked from the ash heap" },
+      ps: { author: "David", display: "David and the temple poets", place: "wilderness caves and the sanctuary", era: "across centuries", line: "prayers that were sung \u2014 grief, awe, and trust set to music" },
+      prov: { author: "Solomon", place: "the court of Jerusalem", era: "the golden age", line: "a father's wisdom pressed into sayings" },
+      eccl: { author: "Solomon", display: "the Preacher", place: "Jerusalem", era: "the end of a full life", line: "everything tried, everything weighed" },
+      song: { author: "Solomon", place: "Jerusalem", era: "the golden age", line: "love poetry the ages kept" },
+      isa: { author: "Isaiah", place: "Jerusalem", era: "~740\u2013690 BC, under four kings", line: "the prophet of the temple vision, walking with kings and seeing the Messiah" },
+      jer: { author: "Jeremiah", place: "Jerusalem under siege", era: "the last years before Babylon", line: "the weeping prophet, hated for telling the truth" },
+      lam: { author: "Jeremiah", place: "the ruins of Jerusalem", era: "586 BC", line: "funeral poetry for a city he loved and warned" },
+      ezek: { author: "Ezekiel", place: "by the river Chebar, Babylon", era: "the exile", line: "a priest with no temple, seeing visions instead" },
+      dan: { author: "Daniel", place: "the courts of Babylon and Persia", era: "the exile", line: "faithful in a foreign palace, from youth to old age" },
+      hosea: { author: "Hosea", place: "the northern kingdom", era: "its final decades", line: "a broken marriage lived as prophecy" },
+      joel: { author: "Joel", place: "Judah", era: "after the locusts", line: "disaster read as a summons to return" },
+      amos: { author: "Amos", place: "Bethel", era: "~760 BC", line: "a shepherd from the south thundering at northern comfort" },
+      obad: { author: "Obadiah", place: "Judah", era: "after Jerusalem's fall", line: "the shortest book: a brother's betrayal answered" },
+      jonah: { author: "Jonah", place: "Nineveh, unwillingly", era: "~780 BC", line: "the prophet who ran, and the mercy that wouldn't" },
+      micah: { author: "Micah", place: "the villages of Judah", era: "Isaiah's generation", line: "what does the Lord require of thee?" },
+      nahum: { author: "Nahum", place: "Judah", era: "before Nineveh fell", line: "the end of the empire that terrorized his world" },
+      hab: { author: "Habakkuk", place: "the watchtower", era: "before Babylon came", line: "arguing with God, and choosing trust" },
+      zeph: { author: "Zephaniah", place: "Jerusalem", era: "Josiah's reforms", line: "a royal descendant announcing the day of the Lord" },
+      hag: { author: "Haggai", place: "Jerusalem", era: "520 BC", line: "urging a discouraged people to build again" },
+      zech: { author: "Zechariah", place: "Jerusalem", era: "the temple rebuilding", line: "visions in the night for a small, struggling remnant" },
+      mal: { author: "Malachi", place: "Jerusalem", era: "the Old Testament's last word", line: "the last prophet before four hundred years of silence" },
+      matt: { author: "Matthew", place: "written for Israel", era: "~AD 60s", line: "the tax collector Jesus called from the receipt table" },
+      mark: { author: "Mark", place: "Rome", era: "~AD 60s", line: "Peter's memories, written fast and urgent" },
+      luke: { author: "Luke", place: "compiled from eyewitnesses", era: "~AD 60s", line: "a physician's careful investigation, for one honest reader" },
+      john: { author: "John", place: "Ephesus", era: "old age, ~AD 90s", line: "the disciple Jesus loved, distilling a lifetime" },
+      acts: { author: "Luke", place: "on the roads of the empire", era: "~AD 62", line: "volume two: the church catches fire and spreads" },
+      rom: { author: "Paul", place: "Corinth", era: "~AD 57", line: "his fullest gospel, sent ahead to a city he'd never seen" },
+      "1cor": { author: "Paul", place: "Ephesus", era: "~AD 55", line: "a founder writing to his fractured, gifted church" },
+      "2cor": { author: "Paul", place: "Macedonia", era: "~AD 56", line: "his most personal letter \u2014 strength out of weakness" },
+      gal: { author: "Paul", place: "on the road", era: "~AD 49", line: "written hot, in his own large letters" },
+      eph: { author: "Paul", place: "a Roman prison", era: "~AD 62", line: "chained, and writing about the church as the body of Christ" },
+      philip: { author: "Paul", place: "a Roman prison", era: "~AD 62", line: "joy, from a man in chains" },
+      col: { author: "Paul", place: "a Roman prison", era: "~AD 62", line: "to a church he never met, about the supremacy of Christ" },
+      "1thes": { author: "Paul", place: "Corinth", era: "~AD 51 \u2014 likely his earliest letter", line: "to brand-new believers he was torn from too soon" },
+      "2thes": { author: "Paul", place: "Corinth", era: "~AD 51", line: "steadying a church shaken about the Lord's return" },
+      "1tim": { author: "Paul", place: "Macedonia", era: "~AD 64", line: "a father in the faith coaching his young successor" },
+      "2tim": { author: "Paul", place: "a Roman dungeon", era: "~AD 66, awaiting execution", line: "his last surviving words: I have kept the faith" },
+      titus: { author: "Paul", place: "en route", era: "~AD 64", line: "order for the rough young churches of Crete" },
+      philem: { author: "Paul", place: "a Roman prison", era: "~AD 62", line: "one page that quietly dismantles slavery with love" },
+      heb: { author: "Paul", display: "unknown (trad. Paul)", place: "outside the land", era: "before AD 70", line: "to wavering Jewish believers: Christ is greater" },
+      james: { author: "James", place: "Jerusalem", era: "~AD 45", line: "the Lord's brother, blunt as a proverb" },
+      "1pet": { author: "Peter", place: "Rome ('Babylon')", era: "~AD 64, as persecution began", line: "the fisherman steadying scattered exiles" },
+      "2pet": { author: "Peter", place: "Rome", era: "shortly before his death", line: "a shepherd's farewell warnings" },
+      "1jn": { author: "John", place: "Ephesus", era: "old age", line: "little children, love one another" },
+      "2jn": { author: "John", place: "Ephesus", era: "old age", line: "a postcard: truth and love, walk in them" },
+      "3jn": { author: "John", place: "Ephesus", era: "old age", line: "the smallest book \u2014 hospitality and truth" },
+      jude: { author: "Jude", place: "Judea", era: "~AD 65", line: "the Lord's brother, contending for the faith" },
+      rev: { author: "John", place: "exiled on Patmos", era: "~AD 95", line: "a prisoner's window opened onto the end of the story" },
+      "1ne": { author: "Nephi", place: "the wilderness, the sea, a new land", era: "~600\u2013570 BC", line: "a young man engraving his family's escape from Jerusalem" },
+      "2ne": { author: "Nephi", place: "the land of Nephi", era: "his later years", line: "an aging founder writing for his people \u2014 and for us" },
+      jacob: { author: "Jacob", place: "the temple in the land of Nephi", era: "the second generation", line: "born in the wilderness, anxious for his people's souls" },
+      enos: { author: "Enos", place: "the forests, hunting", era: "the third generation", line: "one man's all-day wrestle before God" },
+      jarom: { author: "Jarom", place: "the land of Nephi", era: "keeping the record", line: "a small entry in the small plates" },
+      omni: { author: "Omni", display: "Omni and four record-keepers", place: "the land of Nephi to Zarahemla", era: "generations passing the plates", line: "five voices bridging two worlds" },
+      wofm: { author: "Mormon", place: "amid the final wars", era: "~AD 385", line: "the editor steps forward to explain the records" },
+      mosiah: { author: "Mormon", place: "abridging in the last days of his people", era: "events ~130\u201391 BC", line: "kings, prophets, and a people in bondage delivered" },
+      alma: { author: "Mormon", place: "abridging the great records", era: "events ~91\u201352 BC", line: "the longest book: missions, wars, and the wrestle for souls" },
+      hel: { author: "Mormon", place: "abridging as his nation dies", era: "events ~52\u20131 BC", line: "pride cycles quickening toward the sign" },
+      "3ne": { author: "Mormon", place: "abridging the most sacred record", era: "events ~AD 1\u201335", line: "darkness, then the risen Christ among them" },
+      "4ne": { author: "Mormon", place: "abridging two golden centuries", era: "events ~AD 36\u2013321", line: "what a whole people at peace looks like \u2014 and how it ends" },
+      morm: { author: "Mormon", place: "the last battlefields", era: "~AD 385", line: "a general who never stopped loving the people he buried" },
+      ether: { author: "Moroni", place: "alone, wandering", era: "after his people's fall", line: "abridging an older fallen nation while his own lies in ruins" },
+      moro: { author: "Moroni", place: "alone, hunted", era: "~AD 400\u2013421", line: "the last Nephite, sealing the record for you" },
+      dc: { author: "Joseph Smith", place: "Kirtland, Missouri, Nauvoo \u2014 as given", era: "1823\u20131847", line: "revelations received in the moment, place by place" },
+      od: { author: "Joseph Smith", display: "the Presidents of the Church", place: "Salt Lake City", era: "1890 and 1978", line: "official declarations to the whole church" },
+      moses: { author: "Moses", display: "revealed to Joseph Smith", place: "given June\u2013Dec 1830", era: "restoring Moses' vision", line: "what Moses saw, restored" },
+      abr: { author: "Abraham", display: "translated by Joseph Smith", place: "from Egyptian papyri, 1835\u201342", era: "Abraham in Egypt", line: "the father of the faithful, in his own record" },
+      jsm: { author: "Joseph Smith", place: "Kirtland, 1831", era: "revising Matthew 24", line: "the Olivet discourse, clarified" },
+      jsh: { author: "Joseph Smith", place: "Nauvoo, 1838", era: "telling his own story", line: "a young man's grove, in his own words" },
+      aoff: { author: "Joseph Smith", place: "Nauvoo, 1842", era: "the Wentworth letter", line: "thirteen sentences of what we believe" }
+    };
+    CHAPTER_VOICES = {
+      "alma-36": { line: "an old father giving his conversion to his son Helaman \u2014 shaped as one great chiasm" },
+      "alma-37": { line: "entrusting the records to Helaman: by small and simple things" },
+      "alma-38": { line: "to Shiblon, the steady son" },
+      "alma-39": { line: "to Corianton, the wandering son \u2014 hard love" },
+      "2ne-4": { line: "Nephi's psalm: grief and grace in the same breath" },
+      "3ne-11": { line: "the moment: a voice from heaven, and He descends" },
+      "ps-23": { line: "the shepherd psalm, from a man who kept sheep" },
+      "ps-51": { line: "David after Nathan's finger pointed at him" },
+      "isa-53": { line: "the suffering servant, seen seven centuries early" },
+      "john-17": { line: "overhearing the Son pray to the Father" },
+      "luke-15": { line: "three lost things, one seeking heart" },
+      "matt-5": { line: "on the mountainside \u2014 the kingdom's constitution" },
+      "gen-22": { line: "the hardest walk a father ever took" },
+      "ex-3": { line: "a shepherd, a bush that burns, a name revealed" },
+      "1ne-3": { line: "I will go and do \u2014 a young man's resolve" },
+      "jsh-1": { line: "a fourteen-year-old walks into a grove" },
+      "dc-121": { line: "from the pit of Liberty Jail: O God, where art thou?" },
+      "dc-76": { line: "the vision of the three glories, seen with Sidney Rigdon" },
+      "morm-6": { line: "a father watching his whole world fall at Cumorah" },
+      "moro-10": { line: "the last page: a promise, and a farewell until the bar of God" }
+    };
+    SCENE_KEYWORDS = [
+      ["waters", /\b(waters?|sea|river|rain|fountain|deep|ship|flood|fish|baptiz)/gi],
+      ["desert", /\b(wilderness|desert|sand|camel|thirst|dry|waste|sinai|journey)/gi],
+      ["starlight", /\b(stars?|heavens?|night|moon|firmament|host of|sky|glory)/gi],
+      ["sunrise", /\b(morning|dawn|sunris|light|day ?spring|east|arise|awake)/gi],
+      ["candle", /\b(candle|lamp|oil|watch|evening|supper|upper room|pray|vigil)/gi]
+    ];
+  }
+});
+
 // src/study/trace.ts
 var trace_exports = {};
 __export(trace_exports, {
@@ -7262,6 +7416,7 @@ init_annotations();
 // src/social/readingIntegration.ts
 var import_obsidian3 = require("obsidian");
 init_annotations();
+init_presence();
 function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
   plugin.registerMarkdownPostProcessor(async (el, ctx) => {
     if (!ctx.sourcePath?.startsWith(CANONICAL_PREFIX)) return;
@@ -7282,6 +7437,35 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     for (const { p, verseId } of paragraphs) {
       const mine = await svc.mine(verseId);
       decorateVerse(s, svc, p, verseId, mine, svc.social(verseId));
+    }
+    const first = paragraphs.find((x) => x.verseId === `${slug}-1`);
+    if (first && !el.querySelector(".sg-voice")) {
+      const found = voiceFor(slug);
+      if (found) {
+        const { v } = found;
+        const strip = createDiv({ cls: "sg-voice" });
+        const who = strip.createSpan({ cls: "sg-voice-who", text: `\u2712\uFE0F ${v.display ?? v.author}` });
+        who.onclick = () => plugin.app.workspace.openLinkText(v.author, ctx.sourcePath);
+        strip.createSpan({ cls: "sg-voice-where", text: ` \xB7 ${v.place} \xB7 ${v.era}` });
+        strip.createDiv({ cls: "sg-voice-line", text: v.line });
+        first.p.parentElement?.insertBefore(strip, first.p);
+      }
+      const strong = first.p.querySelector("strong");
+      let node = strong?.nextSibling ?? null;
+      while (node && !(node.nodeType === 3 && node.textContent?.trim())) node = node.nextSibling;
+      if (node?.nodeType === 3 && node.textContent) {
+        const text = node.textContent;
+        const m = /^(\s*)(\S)/.exec(text);
+        if (m && /[A-Za-z]/.test(m[2])) {
+          const rest = document.createTextNode(text.slice(m[0].length));
+          const cap = createSpan({ cls: "sg-dropcap", text: m[2] });
+          const lead = document.createTextNode(m[1]);
+          const parent = node.parentNode;
+          parent.replaceChild(rest, node);
+          parent.insertBefore(cap, rest);
+          parent.insertBefore(lead, cap);
+        }
+      }
     }
     void svc.refreshSocial(anchors);
   });
@@ -8456,6 +8640,7 @@ var SGSettingsTab = class extends import_obsidian10.PluginSettingTab {
     new import_obsidian10.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
       d.addOption("none", "None (plain)");
       d.addOption("auto", "Auto \u2014 follow the time of day");
+      d.addOption("match", "\u{1F4D6} Match the chapter");
       for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
       d.setValue(s.device.scene ?? "none").onChange(async (v) => {
         s.device.scene = v;
@@ -8908,6 +9093,7 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       this.studyBar.clear();
       this.study.recordVisit(f);
       this.enforceReadOnly();
+      void this.matchSceneToChapter(f);
       this.openInPreviewOnce(f);
       this.addMyStudyAction(f);
     }));
@@ -9032,17 +9218,35 @@ var SGPlugin = class extends import_obsidian12.Plugin {
       new import_obsidian12.Notice("No My Notes page exists for this chapter yet");
     }
   }
+  /** In "match" mode the scene follows the chapter's own words. */
+  async matchSceneToChapter(f) {
+    if (this.state.device.scene !== "match") return;
+    const isChapterish = f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md");
+    if (!isChapterish) return;
+    try {
+      const { matchScene: matchScene2 } = await Promise.resolve().then(() => (init_presence(), presence_exports));
+      const text = await this.app.vault.cachedRead(f);
+      this.scenes.apply(matchScene2(text));
+    } catch {
+    }
+  }
   /** Ambient scene picker. */
   pickScene() {
     const menu = new import_obsidian13.Menu();
     const set = (value, label) => {
       this.state.device.scene = value;
       void this.state.saveDevice();
-      this.scenes.apply(value);
+      if (value === "match") {
+        const f = this.app.workspace.getActiveFile();
+        if (f) void this.matchSceneToChapter(f);
+      } else {
+        this.scenes.apply(value);
+      }
       new import_obsidian12.Notice(`Reading scene: ${label}`);
     };
     menu.addItem((i) => i.setTitle("\u2716 None (plain)").onClick(() => set("none", "none")));
     menu.addItem((i) => i.setTitle("\u{1F550} Auto \u2014 follow the time of day").onClick(() => set("auto", "auto")));
+    menu.addItem((i) => i.setTitle("\u{1F4D6} Match the chapter \u2014 the scene follows the words").onClick(() => set("match", "match the chapter")));
     menu.addSeparator();
     for (const s of SCENES) {
       menu.addItem((i) => i.setTitle(`${s.emoji} ${s.name}`).onClick(() => set(s.id, s.name)));

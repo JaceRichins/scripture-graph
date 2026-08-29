@@ -355,6 +355,28 @@ body[data-sg-scene="candle"] { --sg-ink: #f0e0c4; --sg-ink-strong: #fbeed6; --sg
     rgba(8, 6, 4, 0.30) 30%, rgba(8, 6, 4, 0.36) 80%, rgba(8, 6, 4, 0.55) 100%);
 }
 
+/* ---------- presence: with the author ------------------------------------- */
+.sg-voice {
+  margin: 0.2em 0 1.1em;
+  padding: 0.65em 0.9em;
+  border-left: 3px solid var(--sg-ink-accent, var(--text-accent));
+  border-radius: 0 10px 10px 0;
+  background: color-mix(in srgb, var(--text-accent) 5%, transparent);
+  font-size: 0.86em;
+}
+.sg-voice-who { font-weight: 700; cursor: pointer; }
+.sg-voice-who:hover { text-decoration: underline; }
+.sg-voice-where { opacity: 0.75; }
+.sg-voice-line { margin-top: 3px; font-style: italic; opacity: 0.88; }
+.sg-dropcap {
+  float: left;
+  font-size: 3.05em; line-height: 0.82;
+  padding: 0.04em 0.08em 0 0;
+  font-weight: 700;
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  color: var(--sg-ink-accent, var(--text-accent));
+}
+
 /* ---------- verse-number chips: the tap target ---------------------------- */
 .markdown-preview-view [data-verse-id] > strong,
 .sg-reader [data-verse-id] > strong {

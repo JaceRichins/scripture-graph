@@ -35,6 +35,12 @@ function applyOpts(el: HTMLElement, opts?: {
   if (opts.attr) for (const [k, v] of Object.entries(opts.attr)) el.setAttribute(k, v);
 }
 
+// Obsidian also exposes global element factories
+(globalThis as unknown as Record<string, unknown>)["createDiv"] =
+  (opts?: never) => { const d = document.createElement("div"); applyOpts(d, opts); return d; };
+(globalThis as unknown as Record<string, unknown>)["createSpan"] =
+  (opts?: never) => { const s = document.createElement("span"); applyOpts(s, opts); return s; };
+
 const proto = HTMLElement.prototype;
 proto.createEl = function (tag: string, opts?: never) {
   const el = document.createElement(tag);

@@ -232,6 +232,7 @@ export default class SGPlugin extends Plugin {
       this.studyBar.clear();          // selections never follow you across pages
       this.study.recordVisit(f);
       this.enforceReadOnly();
+      void this.matchSceneToChapter(f);
       // personal pages OPEN in reading view too (mobile reuses the last tab
       // mode, so app.json's default is not enough) — but only on open: once
       // the user taps the pencil to write, we never fight them
@@ -382,18 +383,38 @@ export default class SGPlugin extends Plugin {
     }
   }
 
+  /** In "match" mode the scene follows the chapter's own words. */
+  async matchSceneToChapter(f: TFile): Promise<void> {
+    if (this.state.device.scene !== "match") return;
+    const isChapterish = (f.path.startsWith(CANONICAL_PREFIX)
+      || (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")));
+    if (!isChapterish) return;
+    try {
+      const { matchScene } = await import("./study/presence");
+      const text = await this.app.vault.cachedRead(f);
+      this.scenes.apply(matchScene(text));
+    } catch { /* keep current scene */ }
+  }
+
   /** Ambient scene picker. */
   pickScene(): void {
     const menu = new Menu();
     const set = (value: string, label: string) => {
       this.state.device.scene = value;
       void this.state.saveDevice();
-      this.scenes.apply(value);
+      if (value === "match") {
+        const f = this.app.workspace.getActiveFile();
+        if (f) void this.matchSceneToChapter(f);
+      } else {
+        this.scenes.apply(value);
+      }
       new Notice(`Reading scene: ${label}`);
     };
     menu.addItem(i => i.setTitle("✖ None (plain)").onClick(() => set("none", "none")));
     menu.addItem(i => i.setTitle("🕐 Auto — follow the time of day")
       .onClick(() => set("auto", "auto")));
+    menu.addItem(i => i.setTitle("📖 Match the chapter — the scene follows the words")
+      .onClick(() => set("match", "match the chapter")));
     menu.addSeparator();
     for (const s of SCENES) {
       menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
