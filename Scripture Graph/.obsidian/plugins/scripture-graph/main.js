@@ -8235,16 +8235,19 @@ init_studyBar();
 
 // src/study/scenes.ts
 var SCENES = [
-  { id: "sunrise", name: "Sunrise", emoji: "\u{1F305}", hours: [[5, 10]], layers: 4 },
-  { id: "waters", name: "Still Waters", emoji: "\u{1F30A}", hours: [[10, 16]], layers: 5 },
-  { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [[16, 20]], layers: 4 },
-  { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 4 },
-  { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 3 }
+  { id: "sunrise", name: "Sunrise", emoji: "\u{1F305}", hours: [[5, 10]], layers: 5 },
+  { id: "waters", name: "Still Waters", emoji: "\u{1F30A}", hours: [[10, 16]], layers: 6 },
+  { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [[16, 20]], layers: 6 },
+  { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 5 },
+  { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 4 }
 ];
 var ROOT_CLS = "sg-scene";
-function seededStars(seed, n, w, h, rMin, rMax, color) {
+function lcg(seed) {
   let s = seed;
-  const rnd = () => (s = (s * 1103515245 + 12345) % 2147483648) / 2147483648;
+  return () => (s = (s * 1103515245 + 12345) % 2147483648) / 2147483648;
+}
+function seededStars(seed, n, w, h, rMin, rMax, color) {
+  const rnd = lcg(seed);
   let circles = "";
   for (let i = 0; i < n; i++) {
     const x = (rnd() * w).toFixed(1);
@@ -8260,10 +8263,20 @@ function dunes(color, amp, phase) {
   const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='900' height='200' preserveAspectRatio='none'><path d='M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} T 600 ${118 + phase} T 900 ${128 + phase} L 900 200 L 0 200 Z' fill='${color}'/></svg>`;
   return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
 }
+function bird(color) {
+  const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='26' height='12'><path d='M1 9 Q 7 1 13 9 Q 19 1 25 9' stroke='${color}' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>`;
+  return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
+}
+function particles(el, cls, n, seed, style) {
+  const rnd = lcg(seed);
+  for (let i = 0; i < n; i++) {
+    const p = el.createDiv({ cls: `sgp ${cls}` });
+    style(rnd, p, i);
+  }
+}
 var SceneManager = class {
   el = null;
   currentId = null;
-  /** mount / switch / unmount ("none" removes) */
   apply(id) {
     const target = id === "auto" ? this.autoPick() : id;
     if (!target || target === "none") {
@@ -8271,6 +8284,7 @@ var SceneManager = class {
       this.el = null;
       this.currentId = null;
       document.body.removeClass("sg-scene-on");
+      delete document.body.dataset["sgScene"];
       return;
     }
     if (this.currentId === target && this.el) return;
@@ -8279,10 +8293,12 @@ var SceneManager = class {
     const el = document.body.createDiv({ cls: `${ROOT_CLS} ${ROOT_CLS}-${scene.id}` });
     document.body.insertBefore(el, document.body.firstChild);
     for (let i = 1; i <= scene.layers; i++) el.createDiv({ cls: `sgl sgl-${i}` });
+    el.createDiv({ cls: "sgl sgl-scrim" });
     this.decorate(scene.id, el);
     this.el = el;
     this.currentId = scene.id;
     document.body.addClass("sg-scene-on");
+    document.body.dataset["sgScene"] = scene.id;
   }
   current() {
     return this.currentId;
@@ -8294,19 +8310,56 @@ var SceneManager = class {
     }
     return "starlight";
   }
-  /** scene-specific generated artwork (stars, dunes) as inline SVG layers */
+  /** generated artwork + living particles, per scene */
   decorate(id, el) {
     if (id === "starlight") {
-      const l1 = el.querySelector(".sgl-2");
-      const l2 = el.querySelector(".sgl-3");
-      if (l1) l1.style.backgroundImage = seededStars(7, 90, 1200, 900, 0.6, 1.4, "#ffffff");
-      if (l2) l2.style.backgroundImage = seededStars(23, 60, 1100, 800, 0.9, 1.9, "#cdd6ff");
+      const l2 = el.querySelector(".sgl-2");
+      const l3 = el.querySelector(".sgl-3");
+      if (l2) l2.style.backgroundImage = seededStars(7, 110, 1200, 900, 0.6, 1.4, "#ffffff");
+      if (l3) l3.style.backgroundImage = seededStars(23, 70, 1100, 800, 0.9, 1.9, "#cdd6ff");
+      el.createDiv({ cls: "sgp sg-shoot sg-shoot-a" });
+      el.createDiv({ cls: "sgp sg-shoot sg-shoot-b" });
     }
     if (id === "desert") {
       const back = el.querySelector(".sgl-2");
       const front = el.querySelector(".sgl-3");
+      const stars = el.querySelector(".sgl-4");
       if (back) back.style.backgroundImage = dunes("#2a1c2e", 30, -12);
       if (front) front.style.backgroundImage = dunes("#140d18", 45, 18);
+      if (stars) stars.style.backgroundImage = seededStars(41, 45, 1200, 500, 0.5, 1.2, "#ffe9c9");
+      particles(el, "sg-sand", 5, 61, (rnd, p) => {
+        p.style.top = `${55 + rnd() * 30}%`;
+        p.style.animationDuration = `${18 + rnd() * 14}s`;
+        p.style.animationDelay = `${-rnd() * 20}s`;
+        p.style.opacity = `${0.05 + rnd() * 0.08}`;
+      });
+    }
+    if (id === "sunrise") {
+      const rnd = lcg(11);
+      for (let i = 0; i < 3; i++) {
+        const b = el.createDiv({ cls: "sgp sg-bird" });
+        b.style.backgroundImage = bird("#2c2136");
+        b.style.top = `${12 + rnd() * 22}%`;
+        b.style.animationDuration = `${34 + rnd() * 22}s`;
+        b.style.animationDelay = `${-rnd() * 40}s`;
+        b.style.transform = `scale(${0.7 + rnd() * 0.7})`;
+      }
+    }
+    if (id === "waters") {
+      particles(el, "sg-mote", 7, 91, (rnd, p) => {
+        p.style.left = `${8 + rnd() * 84}%`;
+        p.style.bottom = `${8 + rnd() * 40}%`;
+        p.style.animationDuration = `${9 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "candle") {
+      particles(el, "sg-ember", 8, 133, (rnd, p) => {
+        p.style.left = `${38 + rnd() * 24}%`;
+        p.style.animationDuration = `${7 + rnd() * 7}s`;
+        p.style.animationDelay = `${-rnd() * 12}s`;
+        p.style.width = p.style.height = `${2 + rnd() * 3}px`;
+      });
     }
   }
 };

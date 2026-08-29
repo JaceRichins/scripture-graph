@@ -102,25 +102,116 @@ body.sg-scene-on .markdown-reading-view,
 body.sg-scene-on .markdown-preview-view {
   background: transparent !important;
 }
-/* the text floats on vellum — readability is non-negotiable */
-body.sg-scene-on .markdown-preview-sizer,
-body.sg-scene-on .sg-reader {
-  background: color-mix(in srgb, var(--background-primary) 76%, transparent);
-  -webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);
-  border-radius: 16px;
-  padding: 1.1em 1.2em !important;
-  margin-top: 10px; margin-bottom: 40px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.18);
+/* NO panel, NO margin changes — the scene lives fully behind the text.
+   Readability = each scene's scrim layer + its own ink palette below. */
+.sg-scene .sgl-scrim { z-index: 5; }
+body.sg-scene-on .markdown-preview-view,
+body.sg-scene-on .markdown-reading-view,
+body.sg-scene-on .sg-reader,
+body.sg-scene-on .view-header-title,
+body.sg-scene-on .inline-title {
+  color: var(--sg-ink, #eae7e0);
 }
+body.sg-scene-on .markdown-preview-view h1,
+body.sg-scene-on .markdown-preview-view h2,
+body.sg-scene-on .markdown-preview-view h3 { color: var(--sg-ink-strong, #f6f3ea); }
+body.sg-scene-on .markdown-preview-view a.internal-link,
+body.sg-scene-on .sg-reader a.internal-link { color: var(--sg-ink-accent, #ffd88a); }
+/* verse chips restyled to live on the scene */
+body.sg-scene-on .markdown-preview-view [data-verse-id] > strong,
+body.sg-scene-on .sg-reader [data-verse-id] > strong {
+  background: rgba(255, 255, 255, 0.10);
+  border-color: rgba(255, 255, 255, 0.16);
+  color: var(--sg-ink, #eae7e0);
+}
+/* per-scene ink palettes — this is what makes it a THEME */
+body[data-sg-scene="sunrise"] { --sg-ink: #f6ead6; --sg-ink-strong: #fff6e4; --sg-ink-accent: #ffc98a; }
+body[data-sg-scene="waters"] { --sg-ink: #dcedf3; --sg-ink-strong: #f0f9fc; --sg-ink-accent: #8fd8f0; }
+body[data-sg-scene="desert"] { --sg-ink: #f2e3cd; --sg-ink-strong: #fdf3df; --sg-ink-accent: #ffb37a; }
+body[data-sg-scene="starlight"] { --sg-ink: #e0e4f4; --sg-ink-strong: #f2f4ff; --sg-ink-accent: #a8b6ff; }
+body[data-sg-scene="candle"] { --sg-ink: #f0e0c4; --sg-ink-strong: #fbeed6; --sg-ink-accent: #ffbe7d; }
 @media (prefers-reduced-motion: reduce) {
-  .sg-scene .sgl { animation: none !important; }
+  .sg-scene .sgl, .sg-scene .sgp { animation: none !important; }
 }
 
-/* ── 🌅 Sunrise: night lifting into gold ── */
+/* ── living particles (shared) ── */
+.sg-scene .sgp { position: absolute; pointer-events: none; }
+.sg-bird {
+  width: 26px; height: 12px; left: -6%;
+  background-repeat: no-repeat; opacity: 0.55;
+  animation: sg-fly 40s linear infinite;
+}
+@keyframes sg-fly {
+  0% { left: -6%; margin-top: 0; }
+  30% { margin-top: 10px; }
+  60% { margin-top: -8px; }
+  100% { left: 106%; margin-top: 4px; }
+}
+.sg-shoot {
+  width: 110px; height: 2px; border-radius: 2px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.9), transparent);
+  transform: rotate(32deg);
+  opacity: 0;
+}
+.sg-shoot-a { top: 12%; left: 70%; animation: sg-shooting 23s linear infinite; }
+.sg-shoot-b { top: 26%; left: 40%; animation: sg-shooting 31s linear infinite 11s; }
+@keyframes sg-shooting {
+  0% { opacity: 0; transform: rotate(32deg) translateX(0); }
+  1.2% { opacity: 0.95; }
+  6% { opacity: 0; transform: rotate(32deg) translateX(46vw); }
+  100% { opacity: 0; transform: rotate(32deg) translateX(46vw); }
+}
+.sg-ember {
+  bottom: 4%; border-radius: 50%;
+  background: radial-gradient(circle, #ffcf8f 0%, #ff9d4d 60%, transparent 75%);
+  animation: sg-rise 10s ease-in infinite;
+  opacity: 0;
+}
+@keyframes sg-rise {
+  0% { opacity: 0; transform: translate(0, 0) scale(1); }
+  12% { opacity: 0.85; }
+  50% { transform: translate(14px, -24vh) scale(0.8); }
+  85% { opacity: 0.25; }
+  100% { opacity: 0; transform: translate(-10px, -46vh) scale(0.5); }
+}
+.sg-mote {
+  width: 3px; height: 3px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(200, 240, 255, 0.9), transparent 70%);
+  animation: sg-mote-drift 12s ease-in-out infinite alternate,
+    sg-mote-glow 6s ease-in-out infinite alternate;
+}
+@keyframes sg-mote-drift { from { transform: translate(0, 0); } to { transform: translate(22px, -34px); } }
+@keyframes sg-mote-glow { from { opacity: 0.15; } to { opacity: 0.7; } }
+.sg-sand {
+  left: -10%; width: 45vw; height: 5px; border-radius: 50%;
+  background: linear-gradient(90deg, transparent, rgba(255, 214, 170, 0.5), transparent);
+  filter: blur(3px);
+  animation: sg-sand-drift 24s linear infinite;
+}
+@keyframes sg-sand-drift {
+  0% { transform: translateX(0); opacity: 0; }
+  15% { opacity: 1; }
+  85% { opacity: 1; }
+  100% { transform: translateX(160%); opacity: 0; }
+}
+
+/* ── 🌅 Sunrise: the sky itself moves through phases of dawn ── */
 .sg-scene-sunrise .sgl-1 {
-  background: linear-gradient(180deg, #1b1b3a 0%, #4a2b5e 34%, #b0486a 62%, #e8875a 82%, #f5c96b 100%);
-  animation: sg-dawn-breathe 46s ease-in-out infinite alternate;
+  background: linear-gradient(180deg,
+    #0e1030 0%, #1b1b3a 14%, #352352 30%, #4a2b5e 44%,
+    #8a3d63 58%, #b0486a 68%, #d96a58 78%, #e8875a 86%, #f5c96b 100%);
+  background-size: 100% 260%;
+  background-position: 0% 100%;
+  animation: sg-dawn-phase 150s ease-in-out infinite alternate,
+    sg-dawn-breathe 46s ease-in-out infinite alternate;
+}
+@keyframes sg-dawn-phase {
+  from { background-position: 0% 100%; }  /* pre-dawn: warm horizon only */
+  to { background-position: 0% 30%; }     /* morning: gold climbs the sky */
+}
+.sg-scene-sunrise .sgl-scrim {
+  background: linear-gradient(180deg, rgba(20, 13, 34, 0.50) 0%,
+    rgba(20, 13, 34, 0.34) 22%, rgba(20, 13, 34, 0.36) 78%, rgba(20, 13, 34, 0.55) 100%);
 }
 .sg-scene-sunrise .sgl-2 { /* the sun, rising imperceptibly */
   background: radial-gradient(circle at 50% 100%, rgba(255, 214, 130, 0.95) 0%,
@@ -167,6 +258,14 @@ body.sg-scene-on .sg-reader {
   100% { transform: translate(-50%, -50%) scale(1); opacity: 0; }
 }
 @keyframes sg-shimmer { from { opacity: 0.5; } to { opacity: 1; } }
+.sg-scene-waters .sgl-6 { /* slow surface breathing */
+  background: radial-gradient(90% 50% at 50% 62%, rgba(120, 200, 230, 0.06), transparent 70%);
+  animation: sg-shimmer 14s ease-in-out infinite alternate-reverse;
+}
+.sg-scene-waters .sgl-scrim {
+  background: linear-gradient(180deg, rgba(4, 20, 31, 0.48) 0%,
+    rgba(4, 20, 31, 0.32) 24%, rgba(4, 20, 31, 0.34) 76%, rgba(4, 20, 31, 0.52) 100%);
+}
 
 /* ── 🏜️ Desert Dusk: dunes under a burnt sky ── */
 .sg-scene-desert .sgl-1 {
@@ -186,6 +285,20 @@ body.sg-scene-on .sg-reader {
 }
 @keyframes sg-dusk { from { filter: brightness(1.02) saturate(1); } to { filter: brightness(0.88) saturate(1.15); } }
 @keyframes sg-dune-drift { from { background-position-x: 0%; } to { background-position-x: 6%; } }
+.sg-scene-desert .sgl-4 { /* the stars come out as dusk deepens */
+  background-repeat: repeat; background-size: 1200px 500px;
+  animation: sg-stars-arrive 80s ease-in-out infinite alternate;
+}
+@keyframes sg-stars-arrive { from { opacity: 0.05; } to { opacity: 0.8; } }
+.sg-scene-desert .sgl-5 { /* heat shimmer over the horizon */
+  background: linear-gradient(180deg, transparent 58%, rgba(255, 170, 110, 0.05) 66%,
+    transparent 74%);
+  animation: sg-shimmer 6s ease-in-out infinite alternate;
+}
+.sg-scene-desert .sgl-scrim {
+  background: linear-gradient(180deg, rgba(18, 9, 22, 0.50) 0%,
+    rgba(18, 9, 22, 0.33) 24%, rgba(18, 9, 22, 0.36) 74%, rgba(18, 9, 22, 0.55) 100%);
+}
 
 /* ── 🌌 The Heavens: a slow, deep starfield ── */
 .sg-scene-starlight .sgl-1 {
@@ -201,6 +314,15 @@ body.sg-scene-on .sg-reader {
 }
 @keyframes sg-twinkle { from { opacity: 0.45; } to { opacity: 1; } }
 @keyframes sg-sky-turn { from { transform: translateX(-1.5%); } to { transform: translateX(1.5%); } }
+.sg-scene-starlight .sgl-5 { /* aurora wisp breathing at the horizon */
+  background: radial-gradient(70% 26% at 50% 96%, rgba(120, 200, 190, 0.10),
+    rgba(130, 150, 255, 0.05) 55%, transparent 75%);
+  animation: sg-shimmer 18s ease-in-out infinite alternate;
+}
+.sg-scene-starlight .sgl-scrim {
+  background: linear-gradient(180deg, rgba(5, 7, 15, 0.46) 0%,
+    rgba(5, 7, 15, 0.30) 22%, rgba(5, 7, 15, 0.32) 78%, rgba(5, 7, 15, 0.52) 100%);
+}
 
 /* ── 🕯️ Candlelight: warm study at night ── */
 .sg-scene-candle .sgl-1 { background: radial-gradient(120% 120% at 50% 88%, #2a1c10 0%, #15100b 46%, #090705 100%); }
@@ -218,6 +340,19 @@ body.sg-scene-on .sg-reader {
   41% { opacity: 0.8; transform: scale(0.985); }
   58% { opacity: 0.98; transform: scale(1.02); }
   76% { opacity: 0.88; transform: scale(0.995); }
+}
+.sg-scene-candle .sgl-4 { /* fast micro-flicker layered over the slow breathe */
+  background: radial-gradient(circle at 50% 97%, rgba(255, 210, 140, 0.28) 0%,
+    rgba(255, 170, 90, 0.10) 14%, transparent 34%);
+  animation: sg-microflicker 0.9s steps(3, jump-none) infinite;
+}
+@keyframes sg-microflicker {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+.sg-scene-candle .sgl-scrim {
+  background: linear-gradient(180deg, rgba(8, 6, 4, 0.46) 0%,
+    rgba(8, 6, 4, 0.30) 30%, rgba(8, 6, 4, 0.36) 80%, rgba(8, 6, 4, 0.55) 100%);
 }
 
 /* ---------- verse-number chips: the tap target ---------------------------- */
