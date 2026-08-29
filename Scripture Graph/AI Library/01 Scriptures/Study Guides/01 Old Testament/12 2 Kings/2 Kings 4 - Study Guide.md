@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 4
 slug: 2kgs-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 4]] · My notes: [[2 Kings 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elisha multiplies the widow’s oil—He promises a son to a Shunammite woman—The child dies and is raised to life by Elisha—He makes the poisonous food harmless—Bread and grain are multiplied for the people to eat.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 2]] — 3 footnote cross-references (from [[2 Kings 4#^2kgs-4-25|2 Kings 4:25]])
+- [[1 Kings 17]] — 2 footnote cross-references (from [[2 Kings 4#^2kgs-4-34|2 Kings 4:34]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[2 Kings 4#^2kgs-4-1|2 Kings 4:1]])
+- [[Joshua 19]] — 1 footnote cross-reference (from [[2 Kings 4#^2kgs-4-8|2 Kings 4:8]])
+- [[Genesis 18]] — 1 footnote cross-reference (from [[2 Kings 4#^2kgs-4-16|2 Kings 4:16]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[2 Kings 4#^2kgs-4-27|2 Kings 4:27]])
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]] ↔ [[2 Kings 2#^2kgs-2-6|2 Kings 2:6]]
 - [[1 Samuel 20]] — 1 parallel verse, e.g. [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]] ↔ [[1 Samuel 20#^1sam-20-3|1 Samuel 20:3]]
 - [[1 Samuel 25]] — 1 parallel verse, e.g. [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]] ↔ [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]]

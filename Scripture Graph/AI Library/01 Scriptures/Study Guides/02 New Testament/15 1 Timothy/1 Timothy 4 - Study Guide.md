@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 4
 slug: 1tim-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 4]] · My notes: [[1 Timothy 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul describes the latter-day apostasy—Christ is the Savior of all men, especially of those who believe.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 49]] — 2 footnote cross-references (from [[1 Timothy 4#^1tim-4-3|1 Timothy 4:3]])
+- [[Matthew 8]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-3|1 Timothy 4:3]])
+- [[D&C 89]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-3|1 Timothy 4:3]])
+- [[Genesis 1]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-4|1 Timothy 4:4]])
+- [[Luke 12]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-8|1 Timothy 4:8]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-12|1 Timothy 4:12]])
 - [[1 Timothy 1]] — 1 parallel verse, e.g. [[1 Timothy 4#^1tim-4-9|1 Timothy 4:9]] ↔ [[1 Timothy 1#^1tim-1-15|1 Timothy 1:15]]
 <!-- SG:END related-scriptures -->
 

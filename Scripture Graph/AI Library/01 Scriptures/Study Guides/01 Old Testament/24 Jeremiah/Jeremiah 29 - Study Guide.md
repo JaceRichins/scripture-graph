@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 29]] · My notes: [[Jeremiah 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah tells the Jews in Babylon to prepare for seventy years of captivity—Those remaining in Jerusalem will yet be scattered—Shemaiah prophesies falsely and is cursed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-2|Jeremiah 29:2]])
+- [[Jeremiah 24]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-2|Jeremiah 29:2]])
+- [[Jeremiah 27]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-8|Jeremiah 29:8]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-10|Jeremiah 29:10]])
+- [[Jeremiah 33]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-10|Jeremiah 29:10]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Jeremiah 29#^jer-29-10|Jeremiah 29:10]])
 - [[Jeremiah 44]] — 15 parallel verses, e.g. [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
 - [[Jeremiah 35]] — 14 parallel verses, e.g. [[Jeremiah 29#^jer-29-19|Jeremiah 29:19]] ↔ [[Jeremiah 35#^jer-35-15|Jeremiah 35:15]]
 - [[Jeremiah 32]] — 12 parallel verses, e.g. [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]] ↔ [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 4
 slug: ether-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 4]] · My notes: [[Ether 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni is commanded to seal up the writings of the brother of Jared—They will not be revealed until men have faith even as the brother of Jared—Christ commands men to believe His words and those of His disciples—Men are commanded to repent, believe the gospel, and be saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 3]] — 4 footnote cross-references (from [[Ether 4#^ether-4-1|Ether 4:1]])
+- [[2 Nephi 27]] — 4 footnote cross-references (from [[Ether 4#^ether-4-4|Ether 4:4]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[Ether 4#^ether-4-3|Ether 4:3]])
+- [[Ether 5]] — 3 footnote cross-references (from [[Ether 4#^ether-4-4|Ether 4:4]])
+- [[3 Nephi 26]] — 3 footnote cross-references (from [[Ether 4#^ether-4-5|Ether 4:5]])
+- [[D&C 17]] — 2 footnote cross-references (from [[Ether 4#^ether-4-5|Ether 4:5]])
 - [[Mormon 9]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
 - [[3 Nephi 27]] — 3 parallel verses, e.g. [[Ether 4#^ether-4-18|Ether 4:18]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]

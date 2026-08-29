@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 12
 slug: acts-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 12]] · My notes: [[Acts 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The martyrdom of James is described—An angel frees Peter from prison—The Lord slays Herod by disease—The Church grows.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 14]] — 1 footnote cross-reference (from [[Acts 12#^acts-12-4|Acts 12:4]])
+- [[Helaman 5]] — 1 footnote cross-reference (from [[Acts 12#^acts-12-4|Acts 12:4]])
+- [[Acts 5]] — 1 footnote cross-reference (from [[Acts 12#^acts-12-7|Acts 12:7]])
+- [[Acts 21]] — 1 footnote cross-reference (from [[Acts 12#^acts-12-17|Acts 12:17]])
+- [[Acts 15]] — 1 footnote cross-reference (from [[Acts 12#^acts-12-25|Acts 12:25]])
 - [[1 Nephi 5]] — 1 parallel verse, e.g. [[Acts 12#^acts-12-11|Acts 12:11]] ↔ [[1 Nephi 5#^1ne-5-8|1 Nephi 5:8]]
 <!-- SG:END related-scriptures -->
 

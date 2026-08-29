@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 41
 slug: alma-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 41]] · My notes: [[Alma 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the Resurrection men come forth to a state of endless happiness or endless misery—Wickedness never was happiness—Carnal men are without God in the world—Every person receives again in the Restoration the characteristics and attributes acquired in mortality. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 42]] — 5 footnote cross-references (from [[Alma 41#^alma-41-3|Alma 41:3]])
+- [[Helaman 14]] — 2 footnote cross-references (from [[Alma 41#^alma-41-3|Alma 41:3]])
+- [[Helaman 13]] — 2 footnote cross-references (from [[Alma 41#^alma-41-10|Alma 41:10]])
+- [[2 Peter 1]] — 1 footnote cross-reference (from [[Alma 41#^alma-41-1|Alma 41:1]])
+- [[2 Peter 3]] — 1 footnote cross-reference (from [[Alma 41#^alma-41-1|Alma 41:1]])
+- [[Alma 13]] — 1 footnote cross-reference (from [[Alma 41#^alma-41-1|Alma 41:1]])
 - [[Mormon 8]] — 1 parallel verse, e.g. [[Alma 41#^alma-41-11|Alma 41:11]] ↔ [[Mormon 8#^morm-8-31|Mormon 8:31]]
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Alma 41#^alma-41-11|Alma 41:11]] ↔ [[Moroni 8#^moro-8-14|Moroni 8:14]]
 - [[Alma 37]] — 1 parallel verse, e.g. [[Alma 41#^alma-41-1|Alma 41:1]] ↔ [[Alma 37#^alma-37-38|Alma 37:38]]

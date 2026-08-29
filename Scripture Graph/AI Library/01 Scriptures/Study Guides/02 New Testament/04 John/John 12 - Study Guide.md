@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 12
 slug: john-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 12]] · My notes: [[John 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mary anoints Jesus’ feet—His triumphal entry into Jerusalem is recounted—He foretells His death—To receive Christ is to receive the Father.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,8 +46,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 8]] — 2 footnote cross-references (from [[John 12#^john-12-42|John 12:42]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[John 12#^john-12-2|John 12:2]])
+- [[John 11]] — 1 footnote cross-reference (from [[John 12#^john-12-2|John 12:2]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[John 12#^john-12-6|John 12:6]])
+- [[John 13]] — 1 footnote cross-reference (from [[John 12#^john-12-6|John 12:6]])
+- [[Mark 14]] — 1 footnote cross-reference (from [[John 12#^john-12-7|John 12:7]])
 - [[Mosiah 14]] — 1 parallel verse, e.g. [[John 12#^john-12-38|John 12:38]] ↔ [[Mosiah 14#^mosiah-14-1|Mosiah 14:1]]
 - [[Isaiah 53]] — 1 parallel verse, e.g. [[John 12#^john-12-38|John 12:38]] ↔ [[Isaiah 53#^isa-53-1|Isaiah 53:1]]
+- [[3 Nephi 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 18
 slug: ps-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 18]] · My notes: [[Psalm 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David praises the Lord for His greatness and preserving care—The Lord’s way is perfect—The Lord has given marvelous blessings—David testifies, The Lord lives, and blessed be my Rock.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 22]] — 2 footnote cross-references (from [[Psalm 18#^ps-18-27|Psalm 18:27]])
+- [[Alma 13]] — 1 footnote cross-reference (from [[Psalm 18#^ps-18-1|Psalm 18:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[Psalm 18#^ps-18-1|Psalm 18:1]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 18#^ps-18-1|Psalm 18:1]])
+- [[Hebrews 2]] — 1 footnote cross-reference (from [[Psalm 18#^ps-18-2|Psalm 18:2]])
+- [[Jonah 2]] — 1 footnote cross-reference (from [[Psalm 18#^ps-18-6|Psalm 18:6]])
 - [[2 Samuel 22]] — 42 parallel verses, e.g. [[Psalm 18#^ps-18-8|Psalm 18:8]] ↔ [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]]
 <!-- SG:END related-scriptures -->
 

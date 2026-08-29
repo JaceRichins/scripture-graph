@@ -38,6 +38,11 @@ _Not yet developed._
 - [[Alma 30]] *(keyword match)*
 - [[Jacob 4]]
 - [[Mosiah 5]]
+- [[1 Kings 22]]
+- [[2 Kings 24]]
+- [[2 Kings 13]]
+- [[2 Kings 14]]
+- [[D&C 84]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

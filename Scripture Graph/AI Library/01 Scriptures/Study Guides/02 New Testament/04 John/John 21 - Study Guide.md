@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 21]] · My notes: [[John 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus appears to the disciples at the sea of Tiberias—He says, Feed my sheep—He foretells Peter’s martyrdom and that John will not die.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 26]] — 2 footnote cross-references (from [[John 21#^john-21-14|John 21:14]])
+- [[John 20]] — 2 footnote cross-references (from [[John 21#^john-21-24|John 21:24]])
+- [[Matthew 4]] — 1 footnote cross-reference (from [[John 21#^john-21-2|John 21:2]])
+- [[3 Nephi 27]] — 1 footnote cross-reference (from [[John 21#^john-21-14|John 21:14]])
+- [[1 Peter 5]] — 1 footnote cross-reference (from [[John 21#^john-21-16|John 21:16]])
+- [[D&C 112]] — 1 footnote cross-reference (from [[John 21#^john-21-16|John 21:16]])
 - [[D&C 7]] — 2 parallel verses, e.g. [[John 21#^john-21-22|John 21:22]] ↔ [[D&C 7#^dc-7-4|D&C 7:4]]
 <!-- SG:END related-scriptures -->
 

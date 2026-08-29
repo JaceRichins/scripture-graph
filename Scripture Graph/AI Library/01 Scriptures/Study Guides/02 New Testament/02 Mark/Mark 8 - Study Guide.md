@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 8]] · My notes: [[Mark 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus feeds the four thousand—He counsels, Beware of the leaven of the Pharisees—He heals a blind man in Bethsaida—Peter testifies that Jesus is the Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 9]] — 2 footnote cross-references (from [[Mark 8#^mark-8-30|Mark 8:30]])
+- [[Hebrews 11]] — 2 footnote cross-references (from [[Mark 8#^mark-8-35|Mark 8:35]])
+- [[D&C 46]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-11|Mark 8:11]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-11|Mark 8:11]])
+- [[Matthew 16]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-12|Mark 8:12]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-33|Mark 8:33]])
 - [[Matthew 16]] — 16 parallel verses, e.g. [[Mark 8#^mark-8-34|Mark 8:34]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]
 - [[Luke 9]] — 6 parallel verses, e.g. [[Mark 8#^mark-8-31|Mark 8:31]] ↔ [[Luke 9#^luke-9-22|Luke 9:22]]
 - [[Matthew 15]] — 5 parallel verses, e.g. [[Mark 8#^mark-8-8|Mark 8:8]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]

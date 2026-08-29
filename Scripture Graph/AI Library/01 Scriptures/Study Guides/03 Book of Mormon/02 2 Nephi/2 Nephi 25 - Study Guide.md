@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 25
 slug: 2ne-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 25]] · My notes: [[2 Nephi 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi glories in plainness—Isaiah’s prophecies will be understood in the last days—The Jews will return from Babylon, crucify the Messiah, and be scattered and scourged—They will be restored when they believe in the Messiah—He will first come six hundred years after Lehi left Jerusalem—The Nephites keep the law of Moses and believe in Christ, who is the Holy One of Israel. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 4]] — 4 footnote cross-references (from [[2 Nephi 25#^2ne-25-1|2 Nephi 25:1]])
+- [[2 Nephi 33]] — 4 footnote cross-references (from [[2 Nephi 25#^2ne-25-4|2 Nephi 25:4]])
+- [[1 Nephi 19]] — 4 footnote cross-references (from [[2 Nephi 25#^2ne-25-5|2 Nephi 25:5]])
+- [[Helaman 8]] — 3 footnote cross-references (from [[2 Nephi 25#^2ne-25-6|2 Nephi 25:6]])
+- [[2 Nephi 27]] — 3 footnote cross-references (from [[2 Nephi 25#^2ne-25-8|2 Nephi 25:8]])
+- [[1 Nephi 10]] — 3 footnote cross-references (from [[2 Nephi 25#^2ne-25-10|2 Nephi 25:10]])
 - [[2 Nephi 29]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
 - [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[Jacob 6#^jacob-6-2|Jacob 6:2]]

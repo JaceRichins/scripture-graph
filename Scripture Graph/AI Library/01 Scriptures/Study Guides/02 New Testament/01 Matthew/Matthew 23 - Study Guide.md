@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 23
 slug: matt-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 23]] · My notes: [[Matthew 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus pronounces woes upon the scribes and Pharisees—They will be held responsible for killing the prophets—They will not escape the damnation of hell.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 11]] — 3 footnote cross-references (from [[Matthew 23#^matt-23-6|Matthew 23:6]])
+- [[D&C 43]] — 2 footnote cross-references (from [[Matthew 23#^matt-23-34|Matthew 23:34]])
+- [[Exodus 13]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-5|Matthew 23:5]])
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-5|Matthew 23:5]])
+- [[Numbers 15]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-5|Matthew 23:5]])
+- [[Luke 14]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-6|Matthew 23:6]])
 - [[Luke 11]] — 9 parallel verses, e.g. [[Matthew 23#^matt-23-23|Matthew 23:23]] ↔ [[Luke 11#^luke-11-42|Luke 11:42]]
 - [[Luke 13]] — 3 parallel verses, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[Luke 13#^luke-13-34|Luke 13:34]]
 - [[3 Nephi 10]] — 3 parallel verses, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]]

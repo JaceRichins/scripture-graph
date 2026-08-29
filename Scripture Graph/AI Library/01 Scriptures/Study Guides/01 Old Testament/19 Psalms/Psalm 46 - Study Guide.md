@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 46]] · My notes: [[Psalm 46 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God is our refuge and strength—He dwells in His city, does marvelous things, and says, Be still and know that I am God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 101]] — 1 parallel verse, e.g. [[Psalm 46#^ps-46-10|Psalm 46:10]] ↔ [[D&C 101#^dc-101-16|D&C 101:16]]
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-5|Psalm 46:5]])
+- [[Isaiah 12]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-5|Psalm 46:5]])
+- [[Isaiah 8]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-7|Psalm 46:7]])
+- [[Job 37]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

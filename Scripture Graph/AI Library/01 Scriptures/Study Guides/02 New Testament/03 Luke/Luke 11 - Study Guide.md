@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 11
 slug: luke-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 11]] · My notes: [[Luke 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the Lord’s Prayer—He discusses the casting out of devils—He acclaims Himself as greater than Jonah and Solomon—He rebukes the Pharisees and says that the blood of all the prophets may be required of their generation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 23]] — 3 footnote cross-references (from [[Luke 11#^luke-11-43|Luke 11:43]])
+- [[Matthew 12]] — 2 footnote cross-references (from [[Luke 11#^luke-11-17|Luke 11:17]])
+- [[Luke 1]] — 2 footnote cross-references (from [[Luke 11#^luke-11-27|Luke 11:27]])
+- [[Alma 10]] — 2 footnote cross-references (from [[Luke 11#^luke-11-46|Luke 11:46]])
+- [[Mosiah 3]] — 1 footnote cross-reference (from [[Luke 11#^luke-11-15|Luke 11:15]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Luke 11#^luke-11-15|Luke 11:15]])
 - [[Matthew 12]] — 9 parallel verses, e.g. [[Luke 11#^luke-11-31|Luke 11:31]] ↔ [[Matthew 12#^matt-12-42|Matthew 12:42]]
 - [[Matthew 7]] — 4 parallel verses, e.g. [[Luke 11#^luke-11-9|Luke 11:9]] ↔ [[Matthew 7#^matt-7-7|Matthew 7:7]]
 - [[3 Nephi 14]] — 4 parallel verses, e.g. [[Luke 11#^luke-11-10|Luke 11:10]] ↔ [[3 Nephi 14#^3ne-14-8|3 Nephi 14:8]]

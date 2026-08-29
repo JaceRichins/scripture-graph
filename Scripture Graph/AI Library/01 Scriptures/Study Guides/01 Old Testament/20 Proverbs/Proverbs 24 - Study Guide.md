@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 24
 slug: prov-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 24]] · My notes: [[Proverbs 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In a multitude of counselors there is safety—Fret not yourself because of evil men—It is not good to show partiality in judgment.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 23]] — 3 footnote cross-references (from [[Proverbs 24#^prov-24-1|Proverbs 24:1]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Proverbs 24#^prov-24-12|Proverbs 24:12]])
+- [[Proverbs 17]] — 2 footnote cross-references (from [[Proverbs 24#^prov-24-17|Proverbs 24:17]])
+- [[Ecclesiastes 7]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-5|Proverbs 24:5]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
+- [[Proverbs 11]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
 - [[Proverbs 6]] — 2 parallel verses, e.g. [[Proverbs 24#^prov-24-34|Proverbs 24:34]] ↔ [[Proverbs 6#^prov-6-11|Proverbs 6:11]]
 <!-- SG:END related-scriptures -->
 

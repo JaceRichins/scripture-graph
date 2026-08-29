@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 15
 slug: deut-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 15]] · My notes: [[Deuteronomy 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Every seven years, all debts are to be released—The people are admonished to care for the poor—Hebrew servants are to be released and given gifts during the seventh year—The firstling males of herds and flocks are the Lord’s.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 22]] — 2 footnote cross-references (from [[Deuteronomy 15#^deut-15-19|Deuteronomy 15:19]])
+- [[Deuteronomy 12]] — 2 footnote cross-references (from [[Deuteronomy 15#^deut-15-20|Deuteronomy 15:20]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Deuteronomy 15#^deut-15-2|Deuteronomy 15:2]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Deuteronomy 15#^deut-15-9|Deuteronomy 15:9]])
+- [[Deuteronomy 24]] — 1 footnote cross-reference (from [[Deuteronomy 15#^deut-15-9|Deuteronomy 15:9]])
+- [[Leviticus 25]] — 1 footnote cross-reference (from [[Deuteronomy 15#^deut-15-12|Deuteronomy 15:12]])
 - [[Deuteronomy 16]] — 11 parallel verses, e.g. [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]] ↔ [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]]
 - [[Deuteronomy 28]] — 7 parallel verses, e.g. [[Deuteronomy 15#^deut-15-5|Deuteronomy 15:5]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
 - [[Deuteronomy 19]] — 6 parallel verses, e.g. [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]

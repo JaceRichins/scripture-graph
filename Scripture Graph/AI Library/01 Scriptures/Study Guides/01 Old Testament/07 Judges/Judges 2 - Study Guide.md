@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 2
 slug: judg-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 2]] · My notes: [[Judges 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An angel rebukes Israel for not serving the Lord—As a pattern of future events, a new generation arises that forsakes the Lord and serves Baal and Ashtaroth—The Lord is angry with the children of Israel and ceases to preserve them—He raises up judges to guide and lead them—The Canaanites are left in the land to test Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 34]] — 2 footnote cross-references (from [[Judges 2#^judg-2-2|Judges 2:2]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-1|Judges 2:1]])
+- [[Joshua 9]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-2|Judges 2:2]])
+- [[Exodus 23]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-3|Judges 2:3]])
+- [[Joshua 24]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-7|Judges 2:7]])
+- [[Numbers 13]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-8|Judges 2:8]])
 - [[Joshua 24]] — 3 parallel verses, e.g. [[Judges 2#^judg-2-7|Judges 2:7]] ↔ [[Joshua 24#^josh-24-31|Joshua 24:31]]
 - [[Judges 3]] — 4 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Judges 3#^judg-3-8|Judges 3:8]]
 - [[Judges 10]] — 3 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Judges 10#^judg-10-7|Judges 10:7]]

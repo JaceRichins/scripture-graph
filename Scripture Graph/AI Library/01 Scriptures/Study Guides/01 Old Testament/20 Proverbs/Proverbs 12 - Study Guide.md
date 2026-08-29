@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 12
 slug: prov-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 12]] · My notes: [[Proverbs 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A virtuous woman is a crown to her husband—The way of a fool is right in his own eyes—Lying lips are an abomination to the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 11]] — 3 parallel verses, e.g. [[Proverbs 12#^prov-12-22|Proverbs 12:22]] ↔ [[Proverbs 11#^prov-11-20|Proverbs 11:20]]
+- [[D&C 82]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-2|Proverbs 12:2]])
+- [[Ruth 3]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-4|Proverbs 12:4]])
+- [[Proverbs 15]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-7|Proverbs 12:7]])
+- [[3 Nephi 14]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-7|Proverbs 12:7]])
+- [[Proverbs 26]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-9|Proverbs 12:9]])
+- [[Genesis 1]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-10|Proverbs 12:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

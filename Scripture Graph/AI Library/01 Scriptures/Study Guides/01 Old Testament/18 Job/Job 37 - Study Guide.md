@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 37
 slug: job-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 37]] · My notes: [[Job 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elihu concludes, saying, The Lord controls the laws of nature—God reigns in terrible majesty.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mormon 9]] — 2 parallel verses, e.g. [[Job 37#^job-37-3|Job 37:3]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
-- [[D&C 65]] — 2 parallel verses, e.g. [[Job 37#^job-37-3|Job 37:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
+- [[Psalm 46]] — 1 footnote cross-reference (from [[Job 37#^job-37-14|Job 37:14]])
+- [[1 Corinthians 10]] — 1 footnote cross-reference (from [[Job 37#^job-37-23|Job 37:23]])
+- [[Alma 13]] — 1 footnote cross-reference (from [[Job 37#^job-37-23|Job 37:23]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

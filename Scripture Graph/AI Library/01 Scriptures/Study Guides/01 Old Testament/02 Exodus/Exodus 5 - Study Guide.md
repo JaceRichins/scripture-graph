@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 5
 slug: ex-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 5]] · My notes: [[Exodus 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses and Aaron ask Pharaoh to free Israel—Pharaoh responds, Who is the Lord?—He places greater burdens upon the children of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 3]] — 2 footnote cross-references (from [[Exodus 5#^ex-5-1|Exodus 5:1]])
+- [[Exodus 10]] — 2 footnote cross-references (from [[Exodus 5#^ex-5-1|Exodus 5:1]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-1|Exodus 5:1]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-1|Exodus 5:1]])
+- [[Exodus 9]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-2|Exodus 5:2]])
+- [[Alma 9]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-2|Exodus 5:2]])
 - [[Genesis 41]] — 1 parallel verse, e.g. [[Exodus 5#^ex-5-21|Exodus 5:21]] ↔ [[Genesis 41#^gen-41-37|Genesis 41:37]]
 - [[Exodus 8]] — 2 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 8#^ex-8-1|Exodus 8:1]]
 - [[Exodus 9]] — 2 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]

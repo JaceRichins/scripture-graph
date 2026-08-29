@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 7
 slug: judg-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 7]] · My notes: [[Judges 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gideon’s army is reduced to 300—They frighten the Midianite armies with trumpets and lights—The Midianites fight among themselves, flee, and are defeated by Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 14]] — 2 footnote cross-references (from [[Judges 7#^judg-7-4|Judges 7:4]])
+- [[Deuteronomy 20]] — 1 footnote cross-reference (from [[Judges 7#^judg-7-3|Judges 7:3]])
+- [[Alma 27]] — 1 footnote cross-reference (from [[Judges 7#^judg-7-4|Judges 7:4]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Judges 7#^judg-7-4|Judges 7:4]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Judges 7#^judg-7-8|Judges 7:8]])
+- [[2 Chronicles 20]] — 1 footnote cross-reference (from [[Judges 7#^judg-7-22|Judges 7:22]])
 - [[Judges 6]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[Judges 6#^judg-6-25|Judges 6:25]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[1 Chronicles 17]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[1 Chronicles 17#^1chr-17-3|1 Chronicles 17:3]]

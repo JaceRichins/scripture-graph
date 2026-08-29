@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 89
 slug: ps-89
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 89]] · My notes: [[Psalm 89 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm—A song setting forth the mercy, greatness, justice, and righteousness of the Holy One of Israel—The Lord will establish David’s seed and throne forever—God’s Firstborn will be made higher than the kings of the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 4]] — 1 parallel verse, e.g. [[Psalm 89#^ps-89-26|Psalm 89:26]] ↔ [[2 Nephi 4#^2ne-4-30|2 Nephi 4:30]]
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-1|Psalm 89:1]])
+- [[Haggai 2]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-3|Psalm 89:3]])
+- [[Jeremiah 10]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-6|Psalm 89:6]])
+- [[Psalm 65]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-9|Psalm 89:9]])
+- [[Matthew 8]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-9|Psalm 89:9]])
+- [[Mark 4]] — 1 footnote cross-reference (from [[Psalm 89#^ps-89-9|Psalm 89:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

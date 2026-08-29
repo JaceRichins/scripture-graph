@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 4
 slug: 3ne-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 4]] · My notes: [[3 Nephi 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephite armies defeat the Gadianton robbers—Giddianhi is slain, and his successor, Zemnarihah, is hanged—The Nephites praise the Lord for their victories. About A.D. 19–22.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 3]] — 5 footnote cross-references (from [[3 Nephi 4#^3ne-4-1|3 Nephi 4:1]])
+- [[1 Nephi 18]] — 2 footnote cross-references (from [[3 Nephi 4#^3ne-4-2|3 Nephi 4:2]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[3 Nephi 4#^3ne-4-2|3 Nephi 4:2]])
+- [[Genesis 41]] — 2 footnote cross-references (from [[3 Nephi 4#^3ne-4-4|3 Nephi 4:4]])
+- [[Helaman 2]] — 1 footnote cross-reference (from [[3 Nephi 4#^3ne-4-1|3 Nephi 4:1]])
+- [[Alma 58]] — 1 footnote cross-reference (from [[3 Nephi 4#^3ne-4-1|3 Nephi 4:1]])
 - [[Omni 1]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Omni 1#^omni-1-7|Omni 1:7]]
 - [[3 Nephi 3]] — 4 parallel verses, e.g. [[3 Nephi 4#^3ne-4-3|3 Nephi 4:3]] ↔ [[3 Nephi 3#^3ne-3-13|3 Nephi 3:13]]
 - [[Mormon 3]] — 3 parallel verses, e.g. [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]] ↔ [[Mormon 3#^morm-3-13|Mormon 3:13]]

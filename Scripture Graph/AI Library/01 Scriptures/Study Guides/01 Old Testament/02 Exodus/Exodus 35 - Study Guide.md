@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 35
 slug: ex-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 35]] · My notes: [[Exodus 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is admonished to observe the Sabbath—Free gifts are offered for the tabernacle—The calls and inspiration of certain artisans are confirmed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 31]] — 5 footnote cross-references (from [[Exodus 35#^ex-35-2|Exodus 35:2]])
+- [[Exodus 25]] — 5 footnote cross-references (from [[Exodus 35#^ex-35-4|Exodus 35:4]])
+- [[D&C 59]] — 3 footnote cross-references (from [[Exodus 35#^ex-35-2|Exodus 35:2]])
+- [[Exodus 30]] — 3 footnote cross-references (from [[Exodus 35#^ex-35-15|Exodus 35:15]])
+- [[Exodus 36]] — 3 footnote cross-references (from [[Exodus 35#^ex-35-21|Exodus 35:21]])
+- [[Exodus 28]] — 2 footnote cross-references (from [[Exodus 35#^ex-35-10|Exodus 35:10]])
 - [[Exodus 31]] — 7 parallel verses, e.g. [[Exodus 35#^ex-35-19|Exodus 35:19]] ↔ [[Exodus 31#^ex-31-10|Exodus 31:10]]
 - [[Exodus 39]] — 11 parallel verses, e.g. [[Exodus 35#^ex-35-19|Exodus 35:19]] ↔ [[Exodus 39#^ex-39-41|Exodus 39:41]]
 - [[Exodus 25]] — 5 parallel verses, e.g. [[Exodus 35#^ex-35-6|Exodus 35:6]] ↔ [[Exodus 25#^ex-25-4|Exodus 25:4]]

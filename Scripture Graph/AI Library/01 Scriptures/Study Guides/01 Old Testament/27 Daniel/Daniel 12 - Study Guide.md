@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 12
 slug: dan-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 12]] · My notes: [[Daniel 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Michael will deliver Israel from their troubles—Daniel tells of the two resurrections—The wise will know the times and meanings of his visions.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 10]] — 1 parallel verse, e.g. [[Daniel 12#^dan-12-7|Daniel 12:7]] ↔ [[Revelation 10#^rev-10-6|Revelation 10:6]]
+- [[Daniel 9]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-1|Daniel 12:1]])
+- [[Revelation 16]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-1|Daniel 12:1]])
+- [[Joseph Smith—Matthew 1]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-1|Daniel 12:1]])
+- [[John 5]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-2|Daniel 12:2]])
+- [[Mormon 9]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-2|Daniel 12:2]])
+- [[D&C 43]] — 1 footnote cross-reference (from [[Daniel 12#^dan-12-2|Daniel 12:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 3
 slug: 3ne-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 3]] · My notes: [[3 Nephi 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Giddianhi, the Gadianton leader, demands that Lachoneus and the Nephites surrender themselves and their lands—Lachoneus appoints Gidgiddoni as chief captain of the armies—The Nephites assemble in Zarahemla and Bountiful to defend themselves. About A.D. 16–18.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 4]] — 5 footnote cross-references (from [[3 Nephi 3#^3ne-3-9|3 Nephi 3:9]])
+- [[Mormon 3]] — 3 footnote cross-references (from [[3 Nephi 3#^3ne-3-21|3 Nephi 3:21]])
+- [[3 Nephi 6]] — 2 footnote cross-references (from [[3 Nephi 3#^3ne-3-1|3 Nephi 3:1]])
+- [[3 Nephi 2]] — 2 footnote cross-references (from [[3 Nephi 3#^3ne-3-2|3 Nephi 3:2]])
+- [[Helaman 6]] — 2 footnote cross-references (from [[3 Nephi 3#^3ne-3-7|3 Nephi 3:7]])
+- [[Helaman 1]] — 2 footnote cross-references (from [[3 Nephi 3#^3ne-3-8|3 Nephi 3:8]])
 - [[3 Nephi 4]] — 4 parallel verses, e.g. [[3 Nephi 3#^3ne-3-13|3 Nephi 3:13]] ↔ [[3 Nephi 4#^3ne-4-3|3 Nephi 4:3]]
 - [[Alma 60]] — 2 parallel verses, e.g. [[3 Nephi 3#^3ne-3-8|3 Nephi 3:8]] ↔ [[Alma 60#^alma-60-35|Alma 60:35]]
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[3 Nephi 3#^3ne-3-25|3 Nephi 3:25]] ↔ [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]]

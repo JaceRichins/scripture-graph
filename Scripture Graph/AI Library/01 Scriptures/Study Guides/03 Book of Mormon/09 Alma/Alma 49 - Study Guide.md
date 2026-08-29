@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 49]] · My notes: [[Alma 49 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The invading Lamanites are unable to take the fortified cities of Ammonihah and Noah—Amalickiah curses God and swears to drink the blood of Moroni—Helaman and his brethren continue to strengthen the Church. About 72 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 48]] — 5 footnote cross-references (from [[Alma 49#^alma-49-2|Alma 49:2]])
+- [[Alma 43]] — 5 footnote cross-references (from [[Alma 49#^alma-49-2|Alma 49:2]])
+- [[Alma 46]] — 3 footnote cross-references (from [[Alma 49#^alma-49-6|Alma 49:6]])
+- [[Alma 16]] — 2 footnote cross-references (from [[Alma 49#^alma-49-3|Alma 49:3]])
+- [[Alma 50]] — 2 footnote cross-references (from [[Alma 49#^alma-49-4|Alma 49:4]])
+- [[Alma 51]] — 2 footnote cross-references (from [[Alma 49#^alma-49-25|Alma 49:25]])
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 5
 slug: hosea-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 5]] · My notes: [[Hosea 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The kingdoms of Judah and Israel will both fall because of their iniquities.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 101]] — 2 footnote cross-references (from [[Hosea 5#^hosea-5-6|Hosea 5:6]])
+- [[Hosea 9]] — 1 footnote cross-reference (from [[Hosea 5#^hosea-5-3|Hosea 5:3]])
+- [[Deuteronomy 19]] — 1 footnote cross-reference (from [[Hosea 5#^hosea-5-10|Hosea 5:10]])
+- [[Job 24]] — 1 footnote cross-reference (from [[Hosea 5#^hosea-5-10|Hosea 5:10]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Hosea 5#^hosea-5-10|Hosea 5:10]])
+- [[Jeremiah 30]] — 1 footnote cross-reference (from [[Hosea 5#^hosea-5-13|Hosea 5:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

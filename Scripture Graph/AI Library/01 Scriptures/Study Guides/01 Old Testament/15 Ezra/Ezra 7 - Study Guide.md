@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 7
 slug: ezra-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 7]] · My notes: [[Ezra 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezra goes up to Jerusalem—Artaxerxes provides for beautifying the temple and sustains the Jews in their worship.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,14 +41,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Nehemiah 8]] — 2 footnote cross-references (from [[Ezra 7#^ezra-7-6|Ezra 7:6]])
+- [[Ezra 8]] — 2 footnote cross-references (from [[Ezra 7#^ezra-7-6|Ezra 7:6]])
+- [[Exodus 18]] — 2 footnote cross-references (from [[Ezra 7#^ezra-7-25|Ezra 7:25]])
+- [[2 Kings 22]] — 1 footnote cross-reference (from [[Ezra 7#^ezra-7-1|Ezra 7:1]])
+- [[1 Chronicles 6]] — 1 footnote cross-reference (from [[Ezra 7#^ezra-7-1|Ezra 7:1]])
+- [[3 Nephi 17]] — 1 footnote cross-reference (from [[Ezra 7#^ezra-7-10|Ezra 7:10]])
 - [[Numbers 25]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Numbers 25#^num-25-7|Numbers 25:7]]
 - [[Nehemiah 11]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
 - [[Ezra 2]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Ezra 2#^ezra-2-70|Ezra 2:70]]
 - [[Nehemiah 13]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]]
+- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-1|Ezra 7:1]] ↔ [[1 Chronicles 6#^1chr-6-36|1 Chronicles 6:36]]
 - [[1 Chronicles 23]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
 - [[1 Chronicles 9]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
-- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-1|Ezra 7:1]] ↔ [[1 Chronicles 6#^1chr-6-36|1 Chronicles 6:36]]
 - [[Judges 20]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Judges 20#^judg-20-28|Judges 20:28]]
 <!-- SG:END related-scriptures -->
 

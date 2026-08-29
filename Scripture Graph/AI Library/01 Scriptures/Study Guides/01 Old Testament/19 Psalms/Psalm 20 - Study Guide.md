@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 20
 slug: ps-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 20]] · My notes: [[Psalm 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays that the Lord will hear in time of trouble—The Lord saves His anointed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 73]] — 1 footnote cross-reference (from [[Psalm 20#^ps-20-2|Psalm 20:2]])
+- [[Psalm 18]] — 1 footnote cross-reference (from [[Psalm 20#^ps-20-6|Psalm 20:6]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Psalm 20#^ps-20-6|Psalm 20:6]])
+- [[Isaiah 31]] — 1 footnote cross-reference (from [[Psalm 20#^ps-20-7|Psalm 20:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

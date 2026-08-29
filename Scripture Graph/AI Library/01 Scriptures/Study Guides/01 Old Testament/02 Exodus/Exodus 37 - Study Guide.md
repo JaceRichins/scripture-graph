@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 37
 slug: ex-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 37]] · My notes: [[Exodus 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bezaleel makes the ark, the mercy seat, and the cherubims—He makes the table, the vessels, the candlestick, the incense altar, the holy anointing oil, and the sweet incense.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 25]] — 3 footnote cross-references (from [[Exodus 37#^ex-37-6|Exodus 37:6]])
+- [[1 Kings 7]] — 2 footnote cross-references (from [[Exodus 37#^ex-37-10|Exodus 37:10]])
+- [[Zechariah 4]] — 1 footnote cross-reference (from [[Exodus 37#^ex-37-17|Exodus 37:17]])
+- [[Revelation 1]] — 1 footnote cross-reference (from [[Exodus 37#^ex-37-17|Exodus 37:17]])
+- [[Psalm 141]] — 1 footnote cross-reference (from [[Exodus 37#^ex-37-29|Exodus 37:29]])
 - [[Exodus 25]] — 21 parallel verses, e.g. [[Exodus 37#^ex-37-10|Exodus 37:10]] ↔ [[Exodus 25#^ex-25-23|Exodus 25:23]]
 - [[Exodus 38]] — 5 parallel verses, e.g. [[Exodus 37#^ex-37-15|Exodus 37:15]] ↔ [[Exodus 38#^ex-38-6|Exodus 38:6]]
 - [[Exodus 30]] — 3 parallel verses, e.g. [[Exodus 37#^ex-37-26|Exodus 37:26]] ↔ [[Exodus 30#^ex-30-3|Exodus 30:3]]

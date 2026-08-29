@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 51
 slug: jer-51
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 51]] · My notes: [[Jeremiah 51 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judgment, destruction, and desolation will come upon Babylon for her sins—Israel is commanded, Flee from Babylon—Israel is the Lord’s rod to destroy all kingdoms.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 50]] — 4 footnote cross-references (from [[Jeremiah 51#^jer-51-13|Jeremiah 51:13]])
+- [[Revelation 18]] — 2 footnote cross-references (from [[Jeremiah 51#^jer-51-8|Jeremiah 51:8]])
+- [[1 Nephi 14]] — 2 footnote cross-references (from [[Jeremiah 51#^jer-51-13|Jeremiah 51:13]])
+- [[Jeremiah 4]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]])
+- [[Isaiah 41]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-2|Jeremiah 51:2]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-2|Jeremiah 51:2]])
 - [[Jeremiah 10]] — 7 parallel verses, e.g. [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]] ↔ [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]]
 - [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 51#^jer-51-59|Jeremiah 51:59]] ↔ [[Jeremiah 32#^jer-32-12|Jeremiah 32:12]]
 - [[Jeremiah 31]] — 5 parallel verses, e.g. [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]

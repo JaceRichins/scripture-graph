@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 11
 slug: gen-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 11]] · My notes: [[Genesis 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All men speak the same language—They build the Tower of Babel—The Lord confounds their language and scatters them over all the earth—The generations of Shem include Abram, whose wife is Sarai—Abram leaves Ur and settles in Haran.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Abraham 2]] — 8 footnote cross-references (from [[Genesis 11#^gen-11-24|Genesis 11:24]])
+- [[Genesis 14]] — 2 footnote cross-references (from [[Genesis 11#^gen-11-2|Genesis 11:2]])
+- [[Abraham 1]] — 2 footnote cross-references (from [[Genesis 11#^gen-11-26|Genesis 11:26]])
+- [[Genesis 12]] — 2 footnote cross-references (from [[Genesis 11#^gen-11-29|Genesis 11:29]])
+- [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 11#^gen-11-29|Genesis 11:29]])
+- [[Acts 7]] — 2 footnote cross-references (from [[Genesis 11#^gen-11-31|Genesis 11:31]])
 - [[Genesis 5]] — 6 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Genesis 5#^gen-5-16|Genesis 5:16]]
 - [[Moses 6]] — 3 parallel verses, e.g. [[Genesis 11#^gen-11-17|Genesis 11:17]] ↔ [[Moses 6#^moses-6-20|Moses 6:20]]
 - [[Moses 2]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Moses 2#^moses-2-29|Moses 2:29]]

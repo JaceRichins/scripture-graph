@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 5
 slug: matt-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 5]] · My notes: [[Matthew 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus preaches the Sermon on the Mount—Its teachings replace and transcend some aspects of the law of Moses—All are commanded to be perfect like their Father in Heaven.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 12]] — 6 footnote cross-references (from [[Matthew 5#^matt-5-1|Matthew 5:1]])
+- [[Matthew 18]] — 4 footnote cross-references (from [[Matthew 5#^matt-5-24|Matthew 5:24]])
+- [[D&C 10]] — 2 footnote cross-references (from [[Matthew 5#^matt-5-10|Matthew 5:10]])
+- [[D&C 42]] — 2 footnote cross-references (from [[Matthew 5#^matt-5-27|Matthew 5:27]])
+- [[James 2]] — 1 footnote cross-reference (from [[Matthew 5#^matt-5-3|Matthew 5:3]])
+- [[D&C 56]] — 1 footnote cross-reference (from [[Matthew 5#^matt-5-3|Matthew 5:3]])
 - [[3 Nephi 12]] — 43 parallel verses, e.g. [[Matthew 5#^matt-5-22|Matthew 5:22]] ↔ [[3 Nephi 12#^3ne-12-22|3 Nephi 12:22]]
 - [[3 Nephi 16]] — 1 parallel verse, e.g. [[Matthew 5#^matt-5-13|Matthew 5:13]] ↔ [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]]
 - [[Luke 6]] — 2 parallel verses, e.g. [[Matthew 5#^matt-5-44|Matthew 5:44]] ↔ [[Luke 6#^luke-6-28|Luke 6:28]]

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—History
 chapter: 1
 slug: jsh-1
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ A useful outline is:
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 13]] — 1 parallel verse, e.g. [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]] ↔ [[D&C 13#^dc-13-1|D&C 13:1]]
 - [[D&C 2]] — 3 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
+- [[Malachi 4]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
 - [[James 1]] — 1 parallel verse, e.g. [[Joseph Smith—History 1#^jsh-1-11|Joseph Smith—History 1:11]] ↔ [[James 1#^james-1-5|James 1:5]]
@@ -75,19 +76,18 @@ A useful outline is:
 - [[D&C 138]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-39|Joseph Smith—History 1:39]] ↔ [[D&C 138#^dc-138-47|D&C 138:47]]
 - [[D&C 115]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
 - [[D&C 110]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
-- [[Articles of Faith 1]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]] ↔ [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Priesthood]]
-- [[First Vision]]
-- [[Restoration of the Gospel]]
 - [[Book of Mormon (Gospel Topic)]]
+- [[First Vision]]
 - [[Priesthood Restoration]]
-- [[Records and Sacred Writings]]
+- [[Restoration of the Gospel]]
 - [[Scripture Study]]
 - [[The Godhead]]
+- [[Satan and Temptation]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

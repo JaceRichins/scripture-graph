@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 8
 slug: amos-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Amos 8]] · My notes: [[Amos 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amos prophesies the downfall of Israel—There will be a famine of hearing the word of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 7]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-2|Amos 8:2]])
+- [[Amos 7]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-2|Amos 8:2]])
+- [[Leviticus 19]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-5|Amos 8:5]])
+- [[Deuteronomy 25]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-5|Amos 8:5]])
+- [[Ezekiel 45]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-5|Amos 8:5]])
+- [[Proverbs 11]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-5|Amos 8:5]])
 - [[Amos 7]] — 3 parallel verses, e.g. [[Amos 8#^amos-8-2|Amos 8:2]] ↔ [[Amos 7#^amos-7-8|Amos 7:8]]
 - [[Jeremiah 31]] — 3 parallel verses, e.g. [[Amos 8#^amos-8-11|Amos 8:11]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Amos 9]] — 2 parallel verses, e.g. [[Amos 8#^amos-8-8|Amos 8:8]] ↔ [[Amos 9#^amos-9-5|Amos 9:5]]

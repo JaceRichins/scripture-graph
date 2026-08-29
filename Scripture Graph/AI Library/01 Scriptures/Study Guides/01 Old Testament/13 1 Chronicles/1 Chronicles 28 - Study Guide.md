@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 28
 slug: 1chr-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 28]] · My notes: [[1 Chronicles 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David assembles the leaders of Israel—Solomon is appointed to build the temple—David exhorts Solomon and the people to keep the commandments—David gives Solomon the pattern and materials for the temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 27]] — 3 footnote cross-references (from [[1 Chronicles 28#^1chr-28-1|1 Chronicles 28:1]])
+- [[2 Chronicles 6]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]])
+- [[Psalm 99]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]])
+- [[Lamentations 2]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]])
+- [[2 Nephi 13]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-3|1 Chronicles 28:3]])
+- [[1 Samuel 16]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-4|1 Chronicles 28:4]])
 - [[Deuteronomy 31]] — 8 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]] ↔ [[Deuteronomy 31#^deut-31-6|Deuteronomy 31:6]]
 - [[1 Chronicles 15]] — 8 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Joshua 3]] — 6 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]

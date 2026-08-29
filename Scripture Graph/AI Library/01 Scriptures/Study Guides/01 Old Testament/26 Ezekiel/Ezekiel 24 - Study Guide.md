@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 24
 slug: ezek-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 24]] · My notes: [[Ezekiel 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The irrevocable judgment of Jerusalem is foretold—As a sign to the Jews, Ezekiel does not weep at his wife’s death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 33]] — 3 footnote cross-references (from [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]])
+- [[Ezekiel 12]] — 3 footnote cross-references (from [[Ezekiel 24#^ezek-24-19|Ezekiel 24:19]])
+- [[Jeremiah 39]] — 2 footnote cross-references (from [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]])
+- [[2 Kings 25]] — 1 footnote cross-reference (from [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]])
+- [[Ezekiel 1]] — 1 footnote cross-reference (from [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]])
 - [[Ezekiel 20]] — 6 parallel verses, e.g. [[Ezekiel 24#^ezek-24-21|Ezekiel 24:21]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
 - [[Ezekiel 29]] — 5 parallel verses, e.g. [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]] ↔ [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]]
 - [[Ezekiel 37]] — 5 parallel verses, e.g. [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]

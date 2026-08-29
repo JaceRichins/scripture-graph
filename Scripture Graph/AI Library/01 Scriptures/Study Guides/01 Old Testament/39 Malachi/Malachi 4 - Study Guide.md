@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 4
 slug: mal-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Malachi 4]] · My notes: [[Malachi 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 25]] — 3 footnote cross-references (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
+- [[3 Nephi 21]] — 2 footnote cross-references (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
+- [[Isaiah 34]] — 1 footnote cross-reference (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
+- [[Isaiah 61]] — 1 footnote cross-reference (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
+- [[Psalm 21]] — 1 footnote cross-reference (from [[Malachi 4#^mal-4-1|Malachi 4:1]])
 - [[3 Nephi 25]] — 6 parallel verses, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Malachi 4#^mal-4-6|Malachi 4:6]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
@@ -45,8 +52,9 @@ _Not yet developed._
 - [[D&C 110]] — 3 parallel verses, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]]
 - [[D&C 2]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
-- [[D&C 29]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
 - [[D&C 138]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
+- [[D&C 29]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
+- [[1 Nephi 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 17]] · My notes: [[1 Kings 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elijah seals the heavens and is fed by the ravens—At his command the barrel of flour and the jar of oil of the widow of Zarephath never become empty—He raises her son from death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 4]] — 2 footnote cross-references (from [[1 Kings 17#^1kgs-17-1|1 Kings 17:1]])
+- [[1 Nephi 3]] — 2 footnote cross-references (from [[1 Kings 17#^1kgs-17-3|1 Kings 17:3]])
+- [[2 Kings 4]] — 2 footnote cross-references (from [[1 Kings 17#^1kgs-17-21|1 Kings 17:21]])
+- [[Matthew 17]] — 1 footnote cross-reference (from [[1 Kings 17#^1kgs-17-1|1 Kings 17:1]])
+- [[D&C 110]] — 1 footnote cross-reference (from [[1 Kings 17#^1kgs-17-1|1 Kings 17:1]])
+- [[Helaman 10]] — 1 footnote cross-reference (from [[1 Kings 17#^1kgs-17-1|1 Kings 17:1]])
 - [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[1 Kings 16#^1kgs-16-34|1 Kings 16:34]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-17|1 Kings 17:17]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
 - [[Judges 4]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-10|1 Kings 17:10]] ↔ [[Judges 4#^judg-4-19|Judges 4:19]]

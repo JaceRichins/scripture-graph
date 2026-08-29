@@ -33,8 +33,8 @@ _Not yet developed._
 - [[Mark 9]] *(keyword match)*
 - [[Luke 9]] *(keyword match)*
 - [[D&C 110]]
-- [[D&C 13]]
 - [[Joseph Smith—History 1]]
+- [[D&C 13]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 129
 slug: ps-129
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 129]] · My notes: [[Psalm 129 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord is righteous—Let those be confounded who hate Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[Psalm 129#^ps-129-2|Psalm 129:2]])
+- [[2 Kings 19]] — 1 footnote cross-reference (from [[Psalm 129#^ps-129-6|Psalm 129:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

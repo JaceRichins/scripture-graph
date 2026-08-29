@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 29
 slug: ps-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 29]] · My notes: [[Psalm 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David counsels, Worship the Lord in the beauty of holiness—David sets forth the wonder and power of the voice of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting

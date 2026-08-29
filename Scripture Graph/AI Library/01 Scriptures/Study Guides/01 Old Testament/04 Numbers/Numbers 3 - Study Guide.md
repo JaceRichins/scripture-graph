@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 3
 slug: num-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -47,28 +47,34 @@ Repeated divine-speech formulas mark major transitions, while recurring language
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 1]] — 3 footnote cross-references (from [[Numbers 3#^num-3-8|Numbers 3:8]])
+- [[1 Chronicles 23]] — 2 footnote cross-references (from [[Numbers 3#^num-3-2|Numbers 3:2]])
+- [[Numbers 18]] — 2 footnote cross-references (from [[Numbers 3#^num-3-25|Numbers 3:25]])
+- [[Leviticus 10]] — 1 footnote cross-reference (from [[Numbers 3#^num-3-4|Numbers 3:4]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[Numbers 3#^num-3-6|Numbers 3:6]])
+- [[Leviticus 8]] — 1 footnote cross-reference (from [[Numbers 3#^num-3-7|Numbers 3:7]])
+- [[Numbers 4]] — 7 parallel verses, e.g. [[Numbers 3#^num-3-26|Numbers 3:26]] ↔ [[Numbers 4#^num-4-26|Numbers 4:26]]
 - [[Numbers 7]] — 15 parallel verses, e.g. [[Numbers 3#^num-3-8|Numbers 3:8]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
 - [[Numbers 26]] — 11 parallel verses, e.g. [[Numbers 3#^num-3-4|Numbers 3:4]] ↔ [[Numbers 26#^num-26-61|Numbers 26:61]]
+- [[Numbers 8]] — 8 parallel verses, e.g. [[Numbers 3#^num-3-8|Numbers 3:8]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]
+- [[Numbers 1]] — 7 parallel verses, e.g. [[Numbers 3#^num-3-10|Numbers 3:10]] ↔ [[Numbers 1#^num-1-51|Numbers 1:51]]
 - [[Numbers 18]] — 7 parallel verses, e.g. [[Numbers 3#^num-3-10|Numbers 3:10]] ↔ [[Numbers 18#^num-18-7|Numbers 18:7]]
+- [[Exodus 6]] — 4 parallel verses, e.g. [[Numbers 3#^num-3-2|Numbers 3:2]] ↔ [[Exodus 6#^ex-6-16|Exodus 6:16]]
 - [[Genesis 25]] — 3 parallel verses, e.g. [[Numbers 3#^num-3-2|Numbers 3:2]] ↔ [[Genesis 25#^gen-25-13|Genesis 25:13]]
 - [[1 Chronicles 23]] — 3 parallel verses, e.g. [[Numbers 3#^num-3-8|Numbers 3:8]] ↔ [[1 Chronicles 23#^1chr-23-32|1 Chronicles 23:32]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 3#^num-3-25|Numbers 3:25]] ↔ [[Exodus 35#^ex-35-17|Exodus 35:17]]
 - [[Numbers 16]] — 3 parallel verses, e.g. [[Numbers 3#^num-3-7|Numbers 3:7]] ↔ [[Numbers 16#^num-16-9|Numbers 16:9]]
 - [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Numbers 3#^num-3-20|Numbers 3:20]] ↔ [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]]
-- [[Exodus 12]] — 2 parallel verses, e.g. [[Numbers 3#^num-3-13|Numbers 3:13]] ↔ [[Exodus 12#^ex-12-29|Exodus 12:29]]
-- [[Genesis 36]] — 2 parallel verses, e.g. [[Numbers 3#^num-3-2|Numbers 3:2]] ↔ [[Genesis 36#^gen-36-40|Genesis 36:40]]
-- [[Genesis 46]] — 2 parallel verses, e.g. [[Numbers 3#^num-3-2|Numbers 3:2]] ↔ [[Genesis 46#^gen-46-8|Genesis 46:8]]
-- [[Alma 23]] — 2 parallel verses, e.g. [[Numbers 3#^num-3-2|Numbers 3:2]] ↔ [[Alma 23#^alma-23-13|Alma 23:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Family]]
-- [[Service]]
 - [[Priesthood]]
 - [[Consecration]]
 - [[Exodus and Deliverance]]
 - [[Law of Moses]]
+- [[Family]] *(keyword match — unconfirmed)*
+- [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

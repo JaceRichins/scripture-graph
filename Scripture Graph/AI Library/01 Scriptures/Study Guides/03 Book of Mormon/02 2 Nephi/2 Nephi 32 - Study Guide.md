@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 32
 slug: 2ne-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 32]] · My notes: [[2 Nephi 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Angels speak by the power of the Holy Ghost—Men must pray and gain knowledge for themselves from the Holy Ghost. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 31]] — 2 footnote cross-references (from [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]])
+- [[Colossians 3]] — 2 footnote cross-references (from [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]])
+- [[Alma 36]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]])
+- [[3 Nephi 9]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]])
+- [[Exodus 4]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]])
 - [[2 Nephi 31]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
 - [[2 Nephi 33]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]]

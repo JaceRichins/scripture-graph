@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 2
 slug: dc-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 2]] · My notes: [[D&C 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1, Elijah is to reveal the priesthood; 2–3, The promises of the fathers are planted in the hearts of the children.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Malachi 4]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
+- [[3 Nephi 25]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
+- [[D&C 110]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
+- [[D&C 128]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[D&C 2#^dc-2-1|D&C 2:1]])
 - [[Joseph Smith—History 1]] — 3 parallel verses, e.g. [[D&C 2#^dc-2-1|D&C 2:1]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
 - [[D&C 138]] — 2 parallel verses, e.g. [[D&C 2#^dc-2-2|D&C 2:2]] ↔ [[D&C 138#^dc-138-47|D&C 138:47]]
 - [[Malachi 4]] — 1 parallel verse, e.g. [[D&C 2#^dc-2-1|D&C 2:1]] ↔ [[Malachi 4#^mal-4-5|Malachi 4:5]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 4
 slug: eph-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 4]] · My notes: [[Ephesians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> There is one Lord, one faith, and one baptism—Apostles and prophets are essential to the Church—The Saints are exhorted to live righteously—They are sealed unto the day of redemption.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 14]] — 3 footnote cross-references (from [[Ephesians 4#^eph-4-5|Ephesians 4:5]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Ephesians 4#^eph-4-5|Ephesians 4:5]])
+- [[3 Nephi 11]] — 2 footnote cross-references (from [[Ephesians 4#^eph-4-13|Ephesians 4:13]])
+- [[Malachi 2]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-6|Ephesians 4:6]])
+- [[1 Corinthians 8]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-6|Ephesians 4:6]])
+- [[Psalm 68]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-8|Ephesians 4:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

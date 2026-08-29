@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 22
 slug: 1kgs-22
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ The chapter closes Ahab's reign through a conflict between desired counsel and u
 - [[Isaiah 19]] — 1 footnote cross-reference (from [[1 Kings 22#^1kgs-22-22|1 Kings 22:22]])
 - [[1 Kings 20]] — 1 footnote cross-reference (from [[1 Kings 22#^1kgs-22-37|1 Kings 22:37]])
 - [[Amos 3]] — 1 footnote cross-reference (from [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]])
+- [[2 Chronicles 18]] — 45 parallel verses, e.g. [[1 Kings 22#^1kgs-22-8|1 Kings 22:8]] ↔ [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]]
 - [[2 Kings 15]] — 25 parallel verses, e.g. [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]] ↔ [[2 Kings 15#^2kgs-15-38|2 Kings 15:38]]
 - [[1 Kings 15]] — 14 parallel verses, e.g. [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]] ↔ [[1 Kings 15#^1kgs-15-24|1 Kings 15:24]]
 - [[1 Kings 16]] — 13 parallel verses, e.g. [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
@@ -59,14 +60,14 @@ The chapter closes Ahab's reign through a conflict between desired counsel and u
 - [[2 Kings 8]] — 7 parallel verses, e.g. [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]] ↔ [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]]
 - [[2 Kings 24]] — 6 parallel verses, e.g. [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
 - [[2 Kings 3]] — 9 parallel verses, e.g. [[1 Kings 22#^1kgs-22-51|1 Kings 22:51]] ↔ [[2 Kings 3#^2kgs-3-1|2 Kings 3:1]]
-- [[2 Chronicles 20]] — 3 parallel verses, e.g. [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

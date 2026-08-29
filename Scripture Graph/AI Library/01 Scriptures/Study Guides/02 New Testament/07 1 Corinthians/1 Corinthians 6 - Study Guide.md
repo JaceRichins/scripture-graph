@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 6
 slug: 1cor-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 6]] · My notes: [[1 Corinthians 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Church members should not fight one another in the courts—The unrighteous will not be saved—True Saints are the temple of the Holy Ghost.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 18]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-1|1 Corinthians 6:1]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-1|1 Corinthians 6:1]])
+- [[1 Corinthians 5]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-1|1 Corinthians 6:1]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-1|1 Corinthians 6:1]])
+- [[Matthew 7]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-2|1 Corinthians 6:2]])
+- [[Daniel 7]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-2|1 Corinthians 6:2]])
 - [[1 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 6#^1cor-6-12|1 Corinthians 6:12]] ↔ [[1 Corinthians 10#^1cor-10-23|1 Corinthians 10:23]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 20
 slug: 3ne-20
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -47,28 +47,34 @@ The chapter moves from worship to covenant exposition. Jesus commands continued 
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 16]] — 11 footnote cross-references (from [[3 Nephi 20#^3ne-20-11|3 Nephi 20:11]])
+- [[3 Nephi 21]] — 8 footnote cross-references (from [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]])
+- [[Isaiah 52]] — 5 footnote cross-references (from [[3 Nephi 20#^3ne-20-32|3 Nephi 20:32]])
+- [[Mormon 5]] — 3 footnote cross-references (from [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]])
+- [[D&C 133]] — 3 footnote cross-references (from [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]])
+- [[3 Nephi 18]] — 2 footnote cross-references (from [[3 Nephi 20#^3ne-20-3|3 Nephi 20:3]])
 - [[Isaiah 52]] — 13 parallel verses, e.g. [[3 Nephi 20#^3ne-20-45|3 Nephi 20:45]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
+- [[Acts 3]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
+- [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[Mosiah 12]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-40|3 Nephi 20:40]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
 - [[Mosiah 15]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
+- [[1 Nephi 22]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
 - [[3 Nephi 16]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
 - [[2 Nephi 8]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]] ↔ [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]]
 - [[Micah 5]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
 - [[Micah 4]] — 1 parallel verse, e.g. [[3 Nephi 20#^3ne-20-19|3 Nephi 20:19]] ↔ [[Micah 4#^micah-4-13|Micah 4:13]]
 - [[D&C 133]] — 3 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
 - [[1 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 20#^3ne-20-27|3 Nephi 20:27]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
-- [[Acts 7]] — 1 parallel verse, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[Acts 7#^acts-7-37|Acts 7:37]]
-- [[3 Nephi 18]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-14|3 Nephi 20:14]] ↔ [[3 Nephi 18#^3ne-18-14|3 Nephi 18:14]]
-- [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 20#^3ne-20-10|3 Nephi 20:10]] ↔ [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Gathering of Israel]]
 - [[Abrahamic Covenant]]
-- [[Covenants]]
-- [[Jews and Gentiles]]
 - [[Scripture Study]]
 - [[Scattering of Israel]]
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

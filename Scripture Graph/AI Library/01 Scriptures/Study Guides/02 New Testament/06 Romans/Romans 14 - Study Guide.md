@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 14]] · My notes: [[Romans 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Avoid quarreling about opinions and making unrighteous judgment of each other—Every knee will bow to Christ—The kingdom of God embraces righteousness, peace, and joy in the Holy Ghost.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 8]] — 3 footnote cross-references (from [[Romans 14#^rom-14-1|Romans 14:1]])
+- [[Isaiah 35]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
+- [[Romans 15]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
+- [[Galatians 6]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
+- [[D&C 81]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Romans 14#^rom-14-10|Romans 14:10]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
 <!-- SG:END related-scriptures -->
 

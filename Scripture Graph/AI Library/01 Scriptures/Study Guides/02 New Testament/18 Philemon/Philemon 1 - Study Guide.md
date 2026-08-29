@@ -6,7 +6,7 @@ volume: New Testament
 book: Philemon
 chapter: 1
 slug: philem-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Philemon 1]] · My notes: [[Philemon 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel changes a servant into a brother.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Colossians 4]] — 4 footnote cross-references (from [[Philemon 1#^philem-1-2|Philemon 1:2]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[Philemon 1#^philem-1-22|Philemon 1:22]])
+- [[Philippians 1]] — 1 footnote cross-reference (from [[Philemon 1#^philem-1-22|Philemon 1:22]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[Philemon 1#^philem-1-23|Philemon 1:23]])
+- [[2 Timothy 4]] — 1 footnote cross-reference (from [[Philemon 1#^philem-1-24|Philemon 1:24]])
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Philemon 1#^philem-1-3|Philemon 1:3]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[Romans 16]] — 2 parallel verses, e.g. [[Philemon 1#^philem-1-25|Philemon 1:25]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Romans 1]] — 1 parallel verse, e.g. [[Philemon 1#^philem-1-3|Philemon 1:3]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]

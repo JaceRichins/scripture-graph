@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 4
 slug: esth-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 4]] · My notes: [[Esther 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mordecai and the Jews mourn and fast because of the king’s decree—Esther, at the peril of her life, prepares to go in unto the king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 9]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-3|Esther 4:3]])
+- [[Esther 7]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-7|Esther 4:7]])
+- [[Esther 6]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-11|Esther 4:11]])
+- [[Esther 5]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-11|Esther 4:11]])
+- [[Esther 8]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-11|Esther 4:11]])
+- [[Genesis 45]] — 1 footnote cross-reference (from [[Esther 4#^esth-4-14|Esther 4:14]])
 - [[Esther 8]] — 1 parallel verse, e.g. [[Esther 4#^esth-4-3|Esther 4:3]] ↔ [[Esther 8#^esth-8-17|Esther 8:17]]
 <!-- SG:END related-scriptures -->
 

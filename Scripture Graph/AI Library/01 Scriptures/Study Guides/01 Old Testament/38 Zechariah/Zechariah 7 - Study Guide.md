@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 7
 slug: zech-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 7]] · My notes: [[Zechariah 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reproves hypocrisy in fasts—He calls upon the people to show mercy and compassion and to live godly lives.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,16 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Zechariah 8]] — 4 parallel verses, e.g. [[Zechariah 7#^zech-7-10|Zechariah 7:10]] ↔ [[Zechariah 8#^zech-8-17|Zechariah 8:17]]
-- [[2 Kings 11]] — 4 parallel verses, e.g. [[Zechariah 7#^zech-7-5|Zechariah 7:5]] ↔ [[2 Kings 11#^2kgs-11-19|2 Kings 11:19]]
-- [[2 Chronicles 23]] — 4 parallel verses, e.g. [[Zechariah 7#^zech-7-5|Zechariah 7:5]] ↔ [[2 Chronicles 23#^2chr-23-20|2 Chronicles 23:20]]
-- [[Haggai 1]] — 3 parallel verses, e.g. [[Zechariah 7#^zech-7-9|Zechariah 7:9]] ↔ [[Haggai 1#^hag-1-2|Haggai 1:2]]
-- [[Jeremiah 29]] — 3 parallel verses, e.g. [[Zechariah 7#^zech-7-4|Zechariah 7:4]] ↔ [[Jeremiah 29#^jer-29-30|Jeremiah 29:30]]
-- [[Zechariah 14]] — 2 parallel verses, e.g. [[Zechariah 7#^zech-7-3|Zechariah 7:3]] ↔ [[Zechariah 14#^zech-14-21|Zechariah 14:21]]
-- [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 7#^zech-7-9|Zechariah 7:9]] ↔ [[Zechariah 6#^zech-6-12|Zechariah 6:12]]
-- [[Ezekiel 45]] — 2 parallel verses, e.g. [[Zechariah 7#^zech-7-5|Zechariah 7:5]] ↔ [[Ezekiel 45#^ezek-45-16|Ezekiel 45:16]]
-- [[2 Kings 18]] — 1 parallel verse, e.g. [[Zechariah 7#^zech-7-1|Zechariah 7:1]] ↔ [[2 Kings 18#^2kgs-18-9|2 Kings 18:9]]
-- [[Zechariah 2]] — 2 parallel verses, e.g. [[Zechariah 7#^zech-7-12|Zechariah 7:12]] ↔ [[Zechariah 2#^zech-2-9|Zechariah 2:9]]
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-5|Zechariah 7:5]])
+- [[3 Nephi 13]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-5|Zechariah 7:5]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-7|Zechariah 7:7]])
+- [[Ezekiel 22]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-10|Zechariah 7:10]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-10|Zechariah 7:10]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Zechariah 7#^zech-7-10|Zechariah 7:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

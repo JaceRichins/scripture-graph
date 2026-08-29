@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 3
 slug: matt-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 3]] · My notes: [[Matthew 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John the Baptist preaches in Judæa—Jesus is baptized, and the Father acclaims Him as His Beloved Son.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[Matthew 3#^matt-3-1|Matthew 3:1]])
+- [[Alma 7]] — 2 footnote cross-references (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
+- [[Alma 9]] — 2 footnote cross-references (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
+- [[D&C 65]] — 2 footnote cross-references (from [[Matthew 3#^matt-3-3|Matthew 3:3]])
+- [[Helaman 5]] — 1 footnote cross-reference (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
+- [[D&C 33]] — 1 footnote cross-reference (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
 - [[Luke 3]] — 6 parallel verses, e.g. [[Matthew 3#^matt-3-9|Matthew 3:9]] ↔ [[Luke 3#^luke-3-8|Luke 3:8]]
 - [[Mark 1]] — 4 parallel verses, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]

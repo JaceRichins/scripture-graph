@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 4
 slug: lev-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 16]] — 2 footnote cross-references (from [[Leviticus 4#^lev-4-5|Leviticus 4:5]])
+- [[Leviticus 8]] — 2 footnote cross-references (from [[Leviticus 4#^lev-4-7|Leviticus 4:7]])
+- [[Exodus 29]] — 2 footnote cross-references (from [[Leviticus 4#^lev-4-7|Leviticus 4:7]])
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Leviticus 4#^lev-4-13|Leviticus 4:13]])
+- [[2 Chronicles 29]] — 2 footnote cross-references (from [[Leviticus 4#^lev-4-14|Leviticus 4:14]])
+- [[Hebrews 5]] — 1 footnote cross-reference (from [[Leviticus 4#^lev-4-3|Leviticus 4:3]])
 - [[Leviticus 3]] — 21 parallel verses, e.g. [[Leviticus 4#^lev-4-9|Leviticus 4:9]] ↔ [[Leviticus 3#^lev-3-10|Leviticus 3:10]]
 - [[Leviticus 5]] — 28 parallel verses, e.g. [[Leviticus 4#^lev-4-35|Leviticus 4:35]] ↔ [[Leviticus 5#^lev-5-12|Leviticus 5:12]]
 - [[Leviticus 14]] — 17 parallel verses, e.g. [[Leviticus 4#^lev-4-31|Leviticus 4:31]] ↔ [[Leviticus 14#^lev-14-20|Leviticus 14:20]]
@@ -60,11 +66,12 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sin]]
-- [[Sacrifice]]
 - [[Law of Moses]]
 - [[Priesthood]]
 - [[Ordinances]]
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

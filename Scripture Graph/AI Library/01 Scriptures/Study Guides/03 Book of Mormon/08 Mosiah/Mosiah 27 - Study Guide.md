@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 27
 slug: mosiah-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 27]] · My notes: [[Mosiah 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mosiah forbids persecution and enjoins equality—Alma the younger and the four sons of Mosiah seek to destroy the Church—An angel appears and commands them to cease their evil course—Alma is struck dumb—All mankind must be born again to gain salvation—Alma and the sons of Mosiah declare glad tidings. About 100–92 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 23]] — 3 footnote cross-references (from [[Mosiah 27#^mosiah-27-3|Mosiah 27:3]])
+- [[Mosiah 28]] — 3 footnote cross-references (from [[Mosiah 27#^mosiah-27-10|Mosiah 27:10]])
+- [[Mosiah 29]] — 2 footnote cross-references (from [[Mosiah 27#^mosiah-27-3|Mosiah 27:3]])
+- [[Alma 30]] — 2 footnote cross-references (from [[Mosiah 27#^mosiah-27-3|Mosiah 27:3]])
+- [[Alma 17]] — 2 footnote cross-references (from [[Mosiah 27#^mosiah-27-11|Mosiah 27:11]])
+- [[Daniel 10]] — 2 footnote cross-references (from [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]])
 - [[Alma 17]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]] ↔ [[Alma 17#^alma-17-4|Alma 17:4]]
 - [[Alma 18]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]] ↔ [[Alma 18#^alma-18-43|Alma 18:43]]
 - [[Mosiah 18]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]] ↔ [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]]

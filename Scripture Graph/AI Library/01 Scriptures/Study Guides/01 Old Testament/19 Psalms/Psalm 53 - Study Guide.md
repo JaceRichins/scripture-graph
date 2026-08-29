@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 53
 slug: ps-53
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 53]] · My notes: [[Psalm 53 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, The fool says there is no God—There is none who does good—Gathered Israel will rejoice.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 14]] — 1 footnote cross-reference (from [[Psalm 53#^ps-53-1|Psalm 53:1]])
+- [[Romans 3]] — 1 footnote cross-reference (from [[Psalm 53#^ps-53-1|Psalm 53:1]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Psalm 53#^ps-53-5|Psalm 53:5]])
 - [[Psalm 14]] — 5 parallel verses, e.g. [[Psalm 53#^ps-53-6|Psalm 53:6]] ↔ [[Psalm 14#^ps-14-7|Psalm 14:7]]
 - [[Romans 3]] — 1 parallel verse, e.g. [[Psalm 53#^ps-53-3|Psalm 53:3]] ↔ [[Romans 3#^rom-3-12|Romans 3:12]]
 <!-- SG:END related-scriptures -->

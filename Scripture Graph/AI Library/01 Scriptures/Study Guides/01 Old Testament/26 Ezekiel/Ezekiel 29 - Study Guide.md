@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 29
 slug: ezek-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 29]] · My notes: [[Ezekiel 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Egypt will be overthrown by Babylon—When Egypt rises again, it will be the basest of kingdoms.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 46]] — 2 footnote cross-references (from [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]])
+- [[Isaiah 19]] — 1 footnote cross-reference (from [[Ezekiel 29#^ezek-29-2|Ezekiel 29:2]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Ezekiel 29#^ezek-29-2|Ezekiel 29:2]])
+- [[Joel 3]] — 1 footnote cross-reference (from [[Ezekiel 29#^ezek-29-2|Ezekiel 29:2]])
+- [[2 Nephi 8]] — 1 footnote cross-reference (from [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]])
+- [[Ezekiel 38]] — 1 footnote cross-reference (from [[Ezekiel 29#^ezek-29-4|Ezekiel 29:4]])
 - [[Ezekiel 30]] — 5 parallel verses, e.g. [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]] ↔ [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]]
 - [[Ezekiel 24]] — 5 parallel verses, e.g. [[Ezekiel 29#^ezek-29-1|Ezekiel 29:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
 - [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]

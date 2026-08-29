@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 34
 slug: jer-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 34]] · My notes: [[Jeremiah 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah prophesies the captivity of Zedekiah—The people of Judah will be removed into all the kingdoms of the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 15]] — 2 footnote cross-references (from [[Jeremiah 34#^jer-34-18|Jeremiah 34:18]])
+- [[Ezekiel 26]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-1|Jeremiah 34:1]])
+- [[Jeremiah 21]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]])
+- [[Jeremiah 38]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]])
+- [[Jeremiah 22]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]])
 - [[Jeremiah 32]] — 10 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 21]] — 6 parallel verses, e.g. [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]] ↔ [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]]
 - [[Jeremiah 38]] — 8 parallel verses, e.g. [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]] ↔ [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]]

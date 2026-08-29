@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 17
 slug: judg-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 17]] · My notes: [[Judges 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Micah has a house of gods (images) and consecrates his own priests.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 18]] — 3 footnote cross-references (from [[Judges 17#^judg-17-5|Judges 17:5]])
+- [[Joshua 24]] — 1 footnote cross-reference (from [[Judges 17#^judg-17-1|Judges 17:1]])
+- [[Genesis 24]] — 1 footnote cross-reference (from [[Judges 17#^judg-17-2|Judges 17:2]])
+- [[Exodus 20]] — 1 footnote cross-reference (from [[Judges 17#^judg-17-3|Judges 17:3]])
+- [[Leviticus 19]] — 1 footnote cross-reference (from [[Judges 17#^judg-17-3|Judges 17:3]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Judges 17#^judg-17-3|Judges 17:3]])
 - [[Judges 18]] — 4 parallel verses, e.g. [[Judges 17#^judg-17-3|Judges 17:3]] ↔ [[Judges 18#^judg-18-14|Judges 18:14]]
 - [[Judges 21]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-6|Judges 17:6]] ↔ [[Judges 21#^judg-21-25|Judges 21:25]]
 <!-- SG:END related-scriptures -->

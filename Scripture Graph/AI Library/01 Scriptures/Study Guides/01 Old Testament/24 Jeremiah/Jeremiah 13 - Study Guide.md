@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 13
 slug: jer-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 13]] · My notes: [[Jeremiah 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel and Judah will be as a rotted and decayed belt—The people are commanded to repent—Judah will be taken captive and scattered as stubble.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 1]] — 3 footnote cross-references (from [[Jeremiah 13#^jer-13-11|Jeremiah 13:11]])
+- [[2 Kings 24]] — 2 footnote cross-references (from [[Jeremiah 13#^jer-13-19|Jeremiah 13:19]])
+- [[Ezekiel 23]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-14|Jeremiah 13:14]])
+- [[2 Kings 25]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-19|Jeremiah 13:19]])
+- [[2 Nephi 6]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-19|Jeremiah 13:19]])
 - [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 25#^jer-25-28|Jeremiah 25:28]]
 - [[Jeremiah 26]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 26#^jer-26-7|Jeremiah 26:7]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]

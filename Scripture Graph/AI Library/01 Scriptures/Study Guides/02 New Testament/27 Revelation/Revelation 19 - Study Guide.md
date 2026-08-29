@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 19
 slug: rev-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 19]] · My notes: [[Revelation 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The marriage supper of the Lamb is made ready—The testimony of Jesus is the spirit of prophecy—Christ is King of Kings and Lord of Lords.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 17]] — 2 footnote cross-references (from [[Revelation 19#^rev-19-2|Revelation 19:2]])
+- [[Matthew 22]] — 2 footnote cross-references (from [[Revelation 19#^rev-19-7|Revelation 19:7]])
+- [[Isaiah 63]] — 2 footnote cross-references (from [[Revelation 19#^rev-19-13|Revelation 19:13]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-2|Revelation 19:2]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-3|Revelation 19:3]])
+- [[Daniel 2]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-6|Revelation 19:6]])
 - [[Revelation 6]] — 3 parallel verses, e.g. [[Revelation 19#^rev-19-11|Revelation 19:11]] ↔ [[Revelation 6#^rev-6-2|Revelation 6:2]]
 - [[Revelation 14]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[D&C 133#^dc-133-22|D&C 133:22]]

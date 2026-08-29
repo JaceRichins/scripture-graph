@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 109
 slug: ps-109
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 109]] · My notes: [[Psalm 109 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David speaks of the cursings due to the wicked and deceitful—He prays that his enemies will be confounded.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 109]] — 1 parallel verse, e.g. [[Psalm 109#^ps-109-27|Psalm 109:27]] ↔ [[D&C 109#^dc-109-23|D&C 109:23]]
+- [[D&C 121]] — 2 footnote cross-references (from [[Psalm 109#^ps-109-7|Psalm 109:7]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Psalm 109#^ps-109-13|Psalm 109:13]])
+- [[D&C 56]] — 2 footnote cross-references (from [[Psalm 109#^ps-109-16|Psalm 109:16]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Psalm 109#^ps-109-2|Psalm 109:2]])
+- [[1 John 3]] — 1 footnote cross-reference (from [[Psalm 109#^ps-109-5|Psalm 109:5]])
+- [[Zechariah 3]] — 1 footnote cross-reference (from [[Psalm 109#^ps-109-6|Psalm 109:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

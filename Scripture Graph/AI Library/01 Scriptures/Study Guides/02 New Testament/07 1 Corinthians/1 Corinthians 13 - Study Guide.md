@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 13
 slug: 1cor-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 13]] · My notes: [[1 Corinthians 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul discusses the high status of charity—Charity, a pure love, excels and exceeds almost all else.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Corinthians 3]] — 1 footnote cross-reference (from [[1 Corinthians 13#^1cor-13-12|1 Corinthians 13:12]])
+- [[James 1]] — 1 footnote cross-reference (from [[1 Corinthians 13#^1cor-13-12|1 Corinthians 13:12]])
 - [[Moroni 7]] — 3 parallel verses, e.g. [[1 Corinthians 13#^1cor-13-7|1 Corinthians 13:7]] ↔ [[Moroni 7#^moro-7-45|Moroni 7:45]]
 <!-- SG:END related-scriptures -->
 

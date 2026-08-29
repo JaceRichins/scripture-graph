@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 41|Plain text]] · [[Job 41 - Study Guide|Study guide]] · [[Job 41 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The Lord points to His power in the leviathan—All things under the whole heaven are the Lord’s.
+
 ![[Job 41#^job-41-1]]
 
 ![[Job 41#^job-41-2]]

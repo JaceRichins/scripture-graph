@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Omni
 chapter: 1
 slug: omni-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Omni 1]] · My notes: [[Omni 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Omni, Amaron, Chemish, Abinadom, and Amaleki, each in turn, keep the records—Mosiah discovers the people of Zarahemla, who came from Jerusalem in the days of Zedekiah—Mosiah is made king over them—The descendants of Mulek at Zarahemla had discovered Coriantumr, the last of the Jaredites—King Benjamin succeeds Mosiah—Men should offer their souls as an offering to Christ. About 323–130 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jarom 1]] — 7 footnote cross-references (from [[Omni 1#^omni-1-1|Omni 1:1]])
+- [[Words of Mormon 1]] — 6 footnote cross-references (from [[Omni 1#^omni-1-11|Omni 1:11]])
+- [[Mosiah 1]] — 4 footnote cross-references (from [[Omni 1#^omni-1-6|Omni 1:6]])
+- [[Mosiah 28]] — 3 footnote cross-references (from [[Omni 1#^omni-1-20|Omni 1:20]])
+- [[Jacob 1]] — 2 footnote cross-references (from [[Omni 1#^omni-1-3|Omni 1:3]])
+- [[Mosiah 7]] — 2 footnote cross-references (from [[Omni 1#^omni-1-12|Omni 1:12]])
 - [[3 Nephi 4]] — 4 parallel verses, e.g. [[Omni 1#^omni-1-7|Omni 1:7]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 - [[4 Nephi 1]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-3|Omni 1:3]] ↔ [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]]
 - [[Jarom 1]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]

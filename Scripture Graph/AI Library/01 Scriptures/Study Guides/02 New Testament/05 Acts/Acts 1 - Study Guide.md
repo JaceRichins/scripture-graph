@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 1]] · My notes: [[Acts 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus ministers for forty days after His resurrection—The kingdom is to be restored to Israel at a later time—The Twelve are to bear witness in Jerusalem, Judæa, Samaria, and the uttermost parts of the earth—Jesus ascends into heaven—Matthias is chosen to fill the vacancy in the Twelve.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Timothy 4]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-1|Acts 1:1]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-1|Acts 1:1]])
+- [[D&C 100]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-3|Acts 1:3]])
+- [[D&C 95]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-4|Acts 1:4]])
+- [[Daniel 2]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
 - [[Acts 11]] — 1 parallel verse, e.g. [[Acts 1#^acts-1-5|Acts 1:5]] ↔ [[Acts 11#^acts-11-16|Acts 11:16]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 32
 slug: gen-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 32]] · My notes: [[Genesis 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob sees angels—He asks God to preserve him from Esau, for whom he prepares presents—He wrestles all night with a messenger of God—Jacob’s name is changed to Israel—He sees God face to face.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 36]] — 2 footnote cross-references (from [[Genesis 32#^gen-32-3|Genesis 32:3]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-2|Genesis 32:2]])
+- [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-3|Genesis 32:3]])
+- [[Ezekiel 35]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-3|Genesis 32:3]])
+- [[Genesis 35]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-7|Genesis 32:7]])
+- [[Matthew 22]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-9|Genesis 32:9]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Genesis 32#^gen-32-12|Genesis 32:12]] ↔ [[Hosea 1#^hosea-1-10|Hosea 1:10]]
 <!-- SG:END related-scriptures -->
 

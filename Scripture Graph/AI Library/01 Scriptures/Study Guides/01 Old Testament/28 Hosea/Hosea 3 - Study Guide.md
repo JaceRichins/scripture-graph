@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 3
 slug: hosea-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 3]] · My notes: [[Hosea 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel will seek the Lord, return to the Lord, and receive of His goodness in the latter days.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 30]] — 1 parallel verse, e.g. [[Hosea 3#^hosea-3-5|Hosea 3:5]] ↔ [[Jeremiah 30#^jer-30-9|Jeremiah 30:9]]
+- [[Hosea 1]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-1|Hosea 3:1]])
+- [[2 Nephi 6]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
+- [[D&C 113]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

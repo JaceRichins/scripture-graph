@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 29
 slug: prov-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 29]] · My notes: [[Proverbs 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> When the wicked rule, the people mourn—The righteous consider the cause of the poor—A fool speaks all that is in his mind—Where there is no vision, the people perish.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 17]] — 2 footnote cross-references (from [[Proverbs 29#^prov-29-11|Proverbs 29:11]])
+- [[Proverbs 6]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-1|Proverbs 29:1]])
+- [[Mosiah 5]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-2|Proverbs 29:2]])
+- [[Mosiah 7]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-2|Proverbs 29:2]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-2|Proverbs 29:2]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-3|Proverbs 29:3]])
 - [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 29#^prov-29-20|Proverbs 29:20]] ↔ [[Proverbs 26#^prov-26-12|Proverbs 26:12]]
 <!-- SG:END related-scriptures -->
 

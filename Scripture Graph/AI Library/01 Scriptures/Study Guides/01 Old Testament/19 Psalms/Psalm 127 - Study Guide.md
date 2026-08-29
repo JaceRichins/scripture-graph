@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 127
 slug: ps-127
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 127]] · My notes: [[Psalm 127 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Children are a heritage from the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 121]] — 1 footnote cross-reference (from [[Psalm 127#^ps-127-1|Psalm 127:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

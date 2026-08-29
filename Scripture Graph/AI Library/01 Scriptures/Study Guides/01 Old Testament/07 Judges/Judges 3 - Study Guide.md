@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 3
 slug: judg-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 3]] · My notes: [[Judges 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel intermarry with the Canaanites, worship false gods, and are cursed—Othniel judges the Israelites—They serve Moab and are delivered by Ehud, who slays Eglon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 13]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-3|Judges 3:3]])
+- [[Psalm 106]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-5|Judges 3:5]])
+- [[Judges 4]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-7|Judges 3:7]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-7|Judges 3:7]])
+- [[Nehemiah 9]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-9|Judges 3:9]])
+- [[Habakkuk 3]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-10|Judges 3:10]])
 - [[Judges 10]] — 5 parallel verses, e.g. [[Judges 3#^judg-3-8|Judges 3:8]] ↔ [[Judges 10#^judg-10-7|Judges 10:7]]
 - [[Judges 6]] — 6 parallel verses, e.g. [[Judges 3#^judg-3-7|Judges 3:7]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]
 - [[Judges 2]] — 4 parallel verses, e.g. [[Judges 3#^judg-3-8|Judges 3:8]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]

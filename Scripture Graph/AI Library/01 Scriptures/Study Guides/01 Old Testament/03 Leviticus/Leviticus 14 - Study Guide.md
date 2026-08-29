@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 14
 slug: lev-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 14]] · My notes: [[Leviticus 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws, rites, and sacrifices are revealed for cleansing lepers, their garments, and leprous houses.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 5]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-2|Leviticus 14:2]])
+- [[Acts 21]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-8|Leviticus 14:8]])
+- [[Ezekiel 45]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-19|Leviticus 14:19]])
+- [[Leviticus 5]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-21|Leviticus 14:21]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-28|Leviticus 14:28]])
+- [[Leviticus 15]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-31|Leviticus 14:31]])
 - [[Leviticus 5]] — 17 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 14#^lev-14-21|Leviticus 14:21]] ↔ [[Numbers 7#^num-7-13|Numbers 7:13]]
 - [[Leviticus 4]] — 17 parallel verses, e.g. [[Leviticus 14#^lev-14-20|Leviticus 14:20]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 13
 slug: prov-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 13]] · My notes: [[Proverbs 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The way of the transgressor is hard—Evil pursues sinners—He who does not discipline his children hates them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 11]] — 2 footnote cross-references (from [[Proverbs 13#^prov-13-6|Proverbs 13:6]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-6|Proverbs 13:6]])
+- [[Matthew 16]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-7|Proverbs 13:7]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-7|Proverbs 13:7]])
+- [[Job 18]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
+- [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
 - [[Proverbs 14]] — 1 parallel verse, e.g. [[Proverbs 13#^prov-13-14|Proverbs 13:14]] ↔ [[Proverbs 14#^prov-14-27|Proverbs 14:27]]
 <!-- SG:END related-scriptures -->
 

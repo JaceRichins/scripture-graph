@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 7
 slug: dc-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 7]] · My notes: [[D&C 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, John the Beloved will live until the Lord comes; 4–8, Peter, James, and John hold gospel keys.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 28]] — 2 footnote cross-references (from [[D&C 7#^dc-7-1|D&C 7:1]])
+- [[John 19]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-1|D&C 7:1]])
+- [[John 20]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-1|D&C 7:1]])
+- [[2 Chronicles 1]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-1|D&C 7:1]])
+- [[Luke 9]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-2|D&C 7:2]])
+- [[John 21]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-3|D&C 7:3]])
 - [[John 21]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-4|D&C 7:4]] ↔ [[John 21#^john-21-22|John 21:22]]
 - [[D&C 132]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-7|D&C 7:7]] ↔ [[D&C 132#^dc-132-7|D&C 132:7]]
 <!-- SG:END related-scriptures -->

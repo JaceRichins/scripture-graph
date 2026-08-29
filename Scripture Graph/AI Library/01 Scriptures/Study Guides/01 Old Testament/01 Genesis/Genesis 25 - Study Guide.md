@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 25
 slug: gen-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 25]] · My notes: [[Genesis 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abraham marries, has descendants, dies, and is buried in the cave of Machpelah—His descendants through Ishmael are listed—Rebekah conceives, and Jacob and Esau struggle in her womb—The Lord reveals their destiny to Rebekah—Esau sells his birthright for a mess of pottage.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 27]] — 6 footnote cross-references (from [[Genesis 25#^gen-25-23|Genesis 25:23]])
+- [[1 Chronicles 1]] — 3 footnote cross-references (from [[Genesis 25#^gen-25-2|Genesis 25:2]])
+- [[Genesis 24]] — 3 footnote cross-references (from [[Genesis 25#^gen-25-5|Genesis 25:5]])
+- [[D&C 132]] — 3 footnote cross-references (from [[Genesis 25#^gen-25-6|Genesis 25:6]])
+- [[2 Nephi 20]] — 2 footnote cross-references (from [[Genesis 25#^gen-25-2|Genesis 25:2]])
+- [[Exodus 2]] — 2 footnote cross-references (from [[Genesis 25#^gen-25-2|Genesis 25:2]])
 - [[1 Chronicles 1]] — 3 parallel verses, e.g. [[Genesis 25#^gen-25-2|Genesis 25:2]] ↔ [[1 Chronicles 1#^1chr-1-32|1 Chronicles 1:32]]
 - [[Numbers 3]] — 3 parallel verses, e.g. [[Genesis 25#^gen-25-13|Genesis 25:13]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
 - [[Exodus 6]] — 2 parallel verses, e.g. [[Genesis 25#^gen-25-17|Genesis 25:17]] ↔ [[Exodus 6#^ex-6-20|Exodus 6:20]]

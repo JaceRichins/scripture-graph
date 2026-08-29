@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 3
 slug: zeph-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zephaniah 3]] · My notes: [[Zephaniah 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Micah 5]] — 3 parallel verses, e.g. [[Zephaniah 3#^zeph-3-11|Zephaniah 3:11]] ↔ [[Micah 5#^micah-5-13|Micah 5:13]]
-- [[3 Nephi 21]] — 3 parallel verses, e.g. [[Zephaniah 3#^zeph-3-11|Zephaniah 3:11]] ↔ [[3 Nephi 21#^3ne-21-17|3 Nephi 21:17]]
-- [[Psalm 116]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-9|Zephaniah 3:9]] ↔ [[Psalm 116#^ps-116-13|Psalm 116:13]]
-- [[Ether 2]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-9|Zephaniah 3:9]] ↔ [[Ether 2#^ether-2-14|Ether 2:14]]
-- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Zephaniah 3#^zeph-3-17|Zephaniah 3:17]] ↔ [[Deuteronomy 16#^deut-16-15|Deuteronomy 16:15]]
-- [[Isaiah 17]] — 1 parallel verse, e.g. [[Zephaniah 3#^zeph-3-13|Zephaniah 3:13]] ↔ [[Isaiah 17#^isa-17-2|Isaiah 17:2]]
+- [[Jeremiah 5]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-3|Zephaniah 3:3]])
+- [[Joel 3]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-8|Zephaniah 3:8]])
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-8|Zephaniah 3:8]])
+- [[Isaiah 18]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-10|Zephaniah 3:10]])
+- [[Isaiah 63]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-20|Zephaniah 3:20]])
+- [[Isaiah 62]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-20|Zephaniah 3:20]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

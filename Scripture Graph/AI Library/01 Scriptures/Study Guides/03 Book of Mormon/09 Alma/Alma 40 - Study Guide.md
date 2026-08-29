@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 40
 slug: alma-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 40]] · My notes: [[Alma 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ brings to pass the resurrection of all men—The righteous dead go to paradise and the wicked to outer darkness to await the day of their resurrection—All things will be restored to their proper and perfect frame in the Resurrection. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 3 footnote cross-references (from [[Alma 40#^alma-40-5|Alma 40:5]])
+- [[D&C 138]] — 3 footnote cross-references (from [[Alma 40#^alma-40-7|Alma 40:7]])
+- [[Alma 11]] — 3 footnote cross-references (from [[Alma 40#^alma-40-11|Alma 40:11]])
+- [[Mosiah 16]] — 2 footnote cross-references (from [[Alma 40#^alma-40-2|Alma 40:2]])
+- [[1 Corinthians 15]] — 2 footnote cross-references (from [[Alma 40#^alma-40-2|Alma 40:2]])
+- [[Luke 16]] — 2 footnote cross-references (from [[Alma 40#^alma-40-11|Alma 40:11]])
 - [[Alma 11]] — 4 parallel verses, e.g. [[Alma 40#^alma-40-21|Alma 40:21]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]
 - [[Alma 12]] — 3 parallel verses, e.g. [[Alma 40#^alma-40-3|Alma 40:3]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
 - [[Matthew 8]] — 1 parallel verse, e.g. [[Alma 40#^alma-40-13|Alma 40:13]] ↔ [[Matthew 8#^matt-8-12|Matthew 8:12]]

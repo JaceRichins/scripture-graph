@@ -36,6 +36,8 @@ _Not yet developed._
 - [[John 6]] *(keyword match)*
 - [[Alma 37]] *(keyword match)*
 - [[2 Nephi 27]]
+- [[Exodus 3]]
+- [[Exodus 16]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

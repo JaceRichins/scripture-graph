@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 54
 slug: alma-54
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 54]] · My notes: [[Alma 54 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ammoron and Moroni negotiate for the exchange of prisoners—Moroni demands that the Lamanites withdraw and cease their murderous attacks—Ammoron demands that the Nephites lay down their arms and become subject to the Lamanites. About 63 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 52]] — 3 footnote cross-references (from [[Alma 54#^alma-54-1|Alma 54:1]])
+- [[Alma 48]] — 2 footnote cross-references (from [[Alma 54#^alma-54-5|Alma 54:5]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[Alma 54#^alma-54-12|Alma 54:12]])
+- [[Alma 47]] — 1 footnote cross-reference (from [[Alma 54#^alma-54-7|Alma 54:7]])
+- [[Alma 43]] — 1 footnote cross-reference (from [[Alma 54#^alma-54-10|Alma 54:10]])
+- [[John 8]] — 1 footnote cross-reference (from [[Alma 54#^alma-54-11|Alma 54:11]])
 - [[Alma 56]] — 4 parallel verses, e.g. [[Alma 54#^alma-54-15|Alma 54:15]] ↔ [[Alma 56#^alma-56-2|Alma 56:2]]
 - [[Alma 60]] — 2 parallel verses, e.g. [[Alma 54#^alma-54-15|Alma 54:15]] ↔ [[Alma 60#^alma-60-1|Alma 60:1]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 54#^alma-54-1|Alma 54:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]

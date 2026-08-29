@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 15]] · My notes: [[3 Nephi 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus announces that the law of Moses is fulfilled in Him—The Nephites are the other sheep of whom He spoke in Jerusalem—Because of iniquity, the Lord’s people in Jerusalem do not know of the scattered sheep of Israel. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 16]] — 4 footnote cross-references (from [[3 Nephi 15#^3ne-15-8|3 Nephi 15:8]])
+- [[John 6]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-1|3 Nephi 15:1]])
+- [[3 Nephi 12]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-2|3 Nephi 15:2]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-4|3 Nephi 15:4]])
+- [[3 Nephi 5]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-8|3 Nephi 15:8]])
+- [[James 1]] — 1 footnote cross-reference (from [[3 Nephi 15#^3ne-15-1|3 Nephi 15:1]])
 - [[John 10]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]] ↔ [[John 10#^john-10-16|John 10:16]]
 - [[3 Nephi 20]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]] ↔ [[3 Nephi 20#^3ne-20-10|3 Nephi 20:10]]
 - [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]

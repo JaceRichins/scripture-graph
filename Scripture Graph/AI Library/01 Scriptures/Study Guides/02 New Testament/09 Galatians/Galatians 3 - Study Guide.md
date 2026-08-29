@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 3
 slug: gal-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Galatians 3]] · My notes: [[Galatians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Galatians 2]] — 3 parallel verses, e.g. [[Galatians 3#^gal-3-24|Galatians 3:24]] ↔ [[Galatians 2#^gal-2-16|Galatians 2:16]]
-- [[Galatians 5]] — 1 parallel verse, e.g. [[Galatians 3#^gal-3-1|Galatians 3:1]] ↔ [[Galatians 5#^gal-5-7|Galatians 5:7]]
-- [[Romans 9]] — 2 parallel verses, e.g. [[Galatians 3#^gal-3-2|Galatians 3:2]] ↔ [[Romans 9#^rom-9-32|Romans 9:32]]
+- [[Romans 10]] — 2 footnote cross-references (from [[Galatians 3#^gal-3-2|Galatians 3:2]])
+- [[Galatians 4]] — 2 footnote cross-references (from [[Galatians 3#^gal-3-13|Galatians 3:13]])
+- [[Jacob 7]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-1|Galatians 3:1]])
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-2|Galatians 3:2]])
+- [[Mosiah 13]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-2|Galatians 3:2]])
+- [[Alma 42]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-13|Galatians 3:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

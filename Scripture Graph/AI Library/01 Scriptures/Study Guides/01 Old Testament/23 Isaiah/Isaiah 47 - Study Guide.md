@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 47
 slug: isa-47
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 47]] · My notes: [[Isaiah 47 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Babylon and Chaldea will be destroyed for their iniquities—No one will save them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Lamentations 1]] — 2 footnote cross-references (from [[Isaiah 47#^isa-47-7|Isaiah 47:7]])
+- [[Psalm 137]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-1|Isaiah 47:1]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-10|Isaiah 47:10]])
+- [[Ezekiel 9]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-10|Isaiah 47:10]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-11|Isaiah 47:11]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-11|Isaiah 47:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

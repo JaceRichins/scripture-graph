@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 11|Plain text]] · [[Mark 11 - Study Guide|Study guide]] · [[Mark 11 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus rides into Jerusalem amid shouts of hosanna—He curses a fig tree, drives the money changers from the temple, and confounds the scribes on the matter of authority.
+
 ![[Mark 11#^mark-11-1]]
 > [[Mark 14#^mark-14-13|≈ Mark 14:13]] · [[Luke 19#^luke-19-29|≈ Luke 19:29]]
 
@@ -29,12 +32,13 @@ cssclasses:
 ![[Mark 11#^mark-11-6]]
 
 ![[Mark 11#^mark-11-7]]
+> [[Zechariah 9#^zech-9-9|Zech. 9:9]]
 
 ![[Mark 11#^mark-11-8]]
 > [[Matthew 21#^matt-21-8|≈ Matthew 21:8]]
 
 ![[Mark 11#^mark-11-9]]
-> [[Matthew 21#^matt-21-9|≈ Matthew 21:9]] · [[Matthew 23#^matt-23-39|≈ Matthew 23:39]] · [[Luke 13#^luke-13-35|≈ Luke 13:35]]
+> [[Psalm 118#^ps-118-26|Ps. 118:26]] · [[Matthew 21#^matt-21-9|≈ Matthew 21:9]] · [[Matthew 23#^matt-23-39|≈ Matthew 23:39]] · [[Luke 13#^luke-13-35|≈ Luke 13:35]]
 
 ![[Mark 11#^mark-11-10]]
 > [[Matthew 21#^matt-21-9|≈ Matthew 21:9]]
@@ -69,10 +73,12 @@ cssclasses:
 > [[Matthew 21#^matt-21-21|≈ Matthew 21:21]]
 
 ![[Mark 11#^mark-11-24]]
+> [[3 Nephi 18#^3ne-18-20|3 Ne. 18:20]] · [[D&C 29#^dc-29-6|D&amp;C 29:6]]
 
 ![[Mark 11#^mark-11-25]]
 
 ![[Mark 11#^mark-11-26]]
+> [[D&C 64#^dc-64-7|D&amp;C 64:9 (7–10)]]
 
 ![[Mark 11#^mark-11-27]]
 > [[Mark 14#^mark-14-43|≈ Mark 14:43]] · [[Matthew 26#^matt-26-3|≈ Matthew 26:3]] · [[Luke 19#^luke-19-47|≈ Luke 19:47]]

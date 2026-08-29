@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 114
 slug: ps-114
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 114]] · My notes: [[Psalm 114 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord governs the sea and the land for the blessing of His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 13]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-1|Psalm 114:1]])
+- [[Exodus 14]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-3|Psalm 114:3]])
+- [[Psalm 78]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-3|Psalm 114:3]])
+- [[Exodus 17]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-8|Psalm 114:8]])
 - [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 114#^ps-114-7|Psalm 114:7]] ↔ [[Psalm 97#^ps-97-5|Psalm 97:5]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 26
 slug: deut-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 26]] · My notes: [[Deuteronomy 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel are to offer to the Lord a basket of the firstfruits of Canaan—They are commanded to keep the law of tithing—They covenant to keep the commandments, and the Lord promises to make them a holy people and a great nation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 12]] — 2 footnote cross-references (from [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]])
+- [[Genesis 28]] — 2 footnote cross-references (from [[Deuteronomy 26#^deut-26-5|Deuteronomy 26:5]])
+- [[Exodus 1]] — 2 footnote cross-references (from [[Deuteronomy 26#^deut-26-5|Deuteronomy 26:5]])
+- [[Exodus 23]] — 1 footnote cross-reference (from [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]])
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]])
 - [[Deuteronomy 16]] — 5 parallel verses, e.g. [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]] ↔ [[Deuteronomy 16#^deut-16-6|Deuteronomy 16:6]]
 - [[Deuteronomy 14]] — 5 parallel verses, e.g. [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]] ↔ [[Deuteronomy 14#^deut-14-25|Deuteronomy 14:25]]
 - [[Deuteronomy 30]] — 4 parallel verses, e.g. [[Deuteronomy 26#^deut-26-16|Deuteronomy 26:16]] ↔ [[Deuteronomy 30#^deut-30-2|Deuteronomy 30:2]]

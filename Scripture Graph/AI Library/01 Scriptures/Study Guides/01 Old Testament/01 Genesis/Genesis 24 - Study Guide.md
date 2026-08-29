@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 24
 slug: gen-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 24]] · My notes: [[Genesis 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abraham commands that Isaac shall not marry a Canaanite—The Lord guides Abraham’s servant in choosing Rebekah as a wife for Isaac—Rebekah is blessed to be the mother of thousands of millions—She marries Isaac.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 22]] — 5 footnote cross-references (from [[Genesis 24#^gen-24-4|Genesis 24:4]])
+- [[Genesis 26]] — 4 footnote cross-references (from [[Genesis 24#^gen-24-16|Genesis 24:16]])
+- [[Abraham 2]] — 3 footnote cross-references (from [[Genesis 24#^gen-24-4|Genesis 24:4]])
+- [[Genesis 25]] — 3 footnote cross-references (from [[Genesis 24#^gen-24-36|Genesis 24:36]])
+- [[Genesis 11]] — 2 footnote cross-references (from [[Genesis 24#^gen-24-4|Genesis 24:4]])
+- [[Genesis 27]] — 2 footnote cross-references (from [[Genesis 24#^gen-24-4|Genesis 24:4]])
 - [[Exodus 3]] — 1 parallel verse, e.g. [[Genesis 24#^gen-24-53|Genesis 24:53]] ↔ [[Exodus 3#^ex-3-22|Exodus 3:22]]
 - [[Genesis 9]] — 1 parallel verse, e.g. [[Genesis 24#^gen-24-27|Genesis 24:27]] ↔ [[Genesis 9#^gen-9-26|Genesis 9:26]]
 - [[Genesis 47]] — 1 parallel verse, e.g. [[Genesis 24#^gen-24-2|Genesis 24:2]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]

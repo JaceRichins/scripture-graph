@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 43
 slug: jer-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 43]] · My notes: [[Jeremiah 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Johanan carries Jeremiah and the remnant of Judah into Egypt—Jeremiah prophesies that Babylon will conquer Egypt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 40]] — 3 footnote cross-references (from [[Jeremiah 43#^jer-43-2|Jeremiah 43:2]])
+- [[2 Kings 25]] — 2 footnote cross-references (from [[Jeremiah 43#^jer-43-6|Jeremiah 43:6]])
+- [[Jeremiah 39]] — 2 footnote cross-references (from [[Jeremiah 43#^jer-43-6|Jeremiah 43:6]])
+- [[Jeremiah 44]] — 2 footnote cross-references (from [[Jeremiah 43#^jer-43-7|Jeremiah 43:7]])
+- [[Jeremiah 46]] — 2 footnote cross-references (from [[Jeremiah 43#^jer-43-7|Jeremiah 43:7]])
+- [[Jeremiah 32]] — 1 footnote cross-reference (from [[Jeremiah 43#^jer-43-3|Jeremiah 43:3]])
 - [[Jeremiah 41]] — 11 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
 - [[Jeremiah 40]] — 8 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
 - [[Jeremiah 42]] — 8 parallel verses, e.g. [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]

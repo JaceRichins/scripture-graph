@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 22
 slug: job-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 22]] · My notes: [[Job 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eliphaz accuses Job of various sins and exhorts him to repent.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Job 22#^job-22-3|Job 22:3]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Job 22#^job-22-3|Job 22:3]])
+- [[Matthew 25]] — 1 footnote cross-reference (from [[Job 22#^job-22-7|Job 22:7]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Job 22#^job-22-7|Job 22:7]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Job 22#^job-22-7|Job 22:7]])
+- [[Job 31]] — 1 footnote cross-reference (from [[Job 22#^job-22-9|Job 22:9]])
 - [[Job 21]] — 1 parallel verse, e.g. [[Job 22#^job-22-18|Job 22:18]] ↔ [[Job 21#^job-21-16|Job 21:16]]
 <!-- SG:END related-scriptures -->
 

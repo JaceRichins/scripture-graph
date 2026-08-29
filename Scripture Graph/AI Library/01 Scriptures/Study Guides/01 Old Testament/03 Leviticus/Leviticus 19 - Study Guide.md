@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 19
 slug: lev-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -46,9 +46,16 @@ These divisions are approximate rather than explicit. The recurring declarations
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ruth 2]] — 2 footnote cross-references (from [[Leviticus 19#^lev-19-9|Leviticus 19:9]])
+- [[Deuteronomy 22]] — 2 footnote cross-references (from [[Leviticus 19#^lev-19-19|Leviticus 19:19]])
+- [[Deuteronomy 25]] — 2 footnote cross-references (from [[Leviticus 19#^lev-19-36|Leviticus 19:36]])
+- [[Joshua 24]] — 1 footnote cross-reference (from [[Leviticus 19#^lev-19-2|Leviticus 19:2]])
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[Leviticus 19#^lev-19-2|Leviticus 19:2]])
+- [[D&C 82]] — 1 footnote cross-reference (from [[Leviticus 19#^lev-19-2|Leviticus 19:2]])
 - [[Leviticus 5]] — 6 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 5#^lev-5-16|Leviticus 5:16]]
 - [[Numbers 15]] — 8 parallel verses, e.g. [[Leviticus 19#^lev-19-8|Leviticus 19:8]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
 - [[Leviticus 23]] — 6 parallel verses, e.g. [[Leviticus 19#^lev-19-9|Leviticus 19:9]] ↔ [[Leviticus 23#^lev-23-22|Leviticus 23:22]]
+- [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 19#^lev-19-7|Leviticus 19:7]] ↔ [[Leviticus 7#^lev-7-18|Leviticus 7:18]]
 - [[Leviticus 4]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
 - [[Leviticus 15]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-22|Leviticus 19:22]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
 - [[Leviticus 17]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-8|Leviticus 19:8]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
@@ -57,17 +64,16 @@ These divisions are approximate rather than explicit. The recurring declarations
 - [[Leviticus 25]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-34|Leviticus 19:34]] ↔ [[Leviticus 25#^lev-25-55|Leviticus 25:55]]
 - [[Leviticus 26]] — 2 parallel verses, e.g. [[Leviticus 19#^lev-19-30|Leviticus 19:30]] ↔ [[Leviticus 26#^lev-26-2|Leviticus 26:2]]
 - [[Leviticus 6]] — 3 parallel verses, e.g. [[Leviticus 19#^lev-19-21|Leviticus 19:21]] ↔ [[Leviticus 6#^lev-6-6|Leviticus 6:6]]
-- [[Leviticus 22]] — 4 parallel verses, e.g. [[Leviticus 19#^lev-19-5|Leviticus 19:5]] ↔ [[Leviticus 22#^lev-22-21|Leviticus 22:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Ten Commandments]]
-- [[Sacrifice]]
 - [[Law of Moses]]
 - [[Sabbath Day]]
 - [[Honesty]]
 - [[Justice and Mercy]]
+- [[Ten Commandments]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 28
 slug: gen-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 28]] · My notes: [[Genesis 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaac forbids Jacob to marry a Canaanite—He blesses Jacob and his seed with the blessings of Abraham—Esau marries a daughter of Ishmael—Jacob sees in vision a ladder reaching up into heaven—The Lord promises him seed as the dust of the earth in number—The Lord also promises Jacob that in him and in his seed all the families of the earth will be blessed—Jacob covenants to pay tithes.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 25]] — 3 footnote cross-references (from [[Genesis 28#^gen-28-2|Genesis 28:2]])
+- [[Genesis 35]] — 3 footnote cross-references (from [[Genesis 28#^gen-28-3|Genesis 28:3]])
+- [[Genesis 26]] — 2 footnote cross-references (from [[Genesis 28#^gen-28-3|Genesis 28:3]])
+- [[Genesis 12]] — 2 footnote cross-references (from [[Genesis 28#^gen-28-3|Genesis 28:3]])
+- [[Deuteronomy 26]] — 2 footnote cross-references (from [[Genesis 28#^gen-28-5|Genesis 28:5]])
+- [[Hosea 12]] — 2 footnote cross-references (from [[Genesis 28#^gen-28-5|Genesis 28:5]])
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
 - [[Abraham 2]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Abraham 2#^abr-2-11|Abraham 2:11]]

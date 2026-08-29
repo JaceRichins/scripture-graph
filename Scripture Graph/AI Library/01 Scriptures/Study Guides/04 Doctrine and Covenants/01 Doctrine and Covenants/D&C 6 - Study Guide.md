@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 6
 slug: dc-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 6]] · My notes: [[D&C 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Laborers in the Lord’s field gain salvation; 7–13, There is no gift greater than the gift of salvation; 14–27, A witness of the truth comes by the power of the Spirit; 28–37, Look unto Christ, and do good continually.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 18]] — 6 footnote cross-references (from [[D&C 6#^dc-6-1|D&C 6:1]])
+- [[D&C 15]] — 3 footnote cross-references (from [[D&C 6#^dc-6-2|D&C 6:2]])
+- [[D&C 11]] — 3 footnote cross-references (from [[D&C 6#^dc-6-4|D&C 6:4]])
+- [[Matthew 7]] — 3 footnote cross-references (from [[D&C 6#^dc-6-5|D&C 6:5]])
+- [[D&C 10]] — 3 footnote cross-references (from [[D&C 6#^dc-6-12|D&C 6:12]])
+- [[Hebrews 4]] — 2 footnote cross-references (from [[D&C 6#^dc-6-2|D&C 6:2]])
 - [[D&C 11]] — 12 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 12]] — 6 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
 - [[D&C 14]] — 7 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]

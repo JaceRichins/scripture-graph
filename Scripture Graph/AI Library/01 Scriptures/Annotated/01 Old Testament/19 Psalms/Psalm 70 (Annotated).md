@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 70|Plain text]] · [[Psalm 70 - Study Guide|Study guide]] · [[Psalm 70 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David proclaims, Let God be magnified.
+
 ![[Psalm 70#^ps-70-1]]
 
 ![[Psalm 70#^ps-70-2]]
@@ -25,4 +28,4 @@ cssclasses:
 > [[Psalm 40#^ps-40-16|≈ Psalm 40:16]]
 
 ![[Psalm 70#^ps-70-5]]
-> [[Psalm 40#^ps-40-17|≈ Psalm 40:17]]
+> [[Psalm 141#^ps-141-1|Ps. 141:1]] · [[Psalm 40#^ps-40-17|≈ Psalm 40:17]]

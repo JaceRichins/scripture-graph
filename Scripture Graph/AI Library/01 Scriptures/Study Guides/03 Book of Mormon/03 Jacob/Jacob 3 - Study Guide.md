@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 3
 slug: jacob-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 3]] · My notes: [[Jacob 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The pure in heart receive the pleasing word of God—Lamanite righteousness exceeds that of the Nephites—Jacob warns against fornication, lasciviousness, and every sin. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 2]] — 2 footnote cross-references (from [[Jacob 3#^jacob-3-5|Jacob 3:5]])
+- [[Jarom 1]] — 2 footnote cross-references (from [[Jacob 3#^jacob-3-13|Jacob 3:13]])
+- [[2 Nephi 32]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-1|Jacob 3:1]])
+- [[Alma 57]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-2|Jacob 3:2]])
+- [[1 Nephi 12]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-3|Jacob 3:3]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-4|Jacob 3:4]])
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Jacob 3#^jacob-3-11|Jacob 3:11]] ↔ [[2 Nephi 9#^2ne-9-19|2 Nephi 9:19]]
 - [[Helaman 7]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-5|Jacob 3:5]] ↔ [[Helaman 7#^hel-7-24|Helaman 7:24]]
 - [[Helaman 3]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-13|Jacob 3:13]] ↔ [[Helaman 3#^hel-3-14|Helaman 3:14]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 3
 slug: ezek-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 3]] · My notes: [[Ezekiel 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel is made a watchman unto the house of Israel—The blood of Israel is required at his hand unless he raises the warning voice.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 33]] — 2 footnote cross-references (from [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-3|Ezekiel 3:3]])
+- [[Ezekiel 2]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-3|Ezekiel 3:3]])
+- [[Revelation 10]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-3|Ezekiel 3:3]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-6|Ezekiel 3:6]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-20|Ezekiel 3:20]])
 - [[Ezekiel 33]] — 8 parallel verses, e.g. [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]] ↔ [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]]
 - [[Ezekiel 2]] — 14 parallel verses, e.g. [[Ezekiel 3#^ezek-3-9|Ezekiel 3:9]] ↔ [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]]
 - [[Ezekiel 37]] — 11 parallel verses, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]

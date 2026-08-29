@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 23
 slug: num-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 23]] · My notes: [[Numbers 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord commands Balaam to bless Israel—He does so, saying, Who can count the dust of Jacob? and, What hath God wrought!
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 15]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-1|Numbers 23:1]])
+- [[Nehemiah 13]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-11|Numbers 23:11]])
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-11|Numbers 23:11]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-19|Numbers 23:19]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-19|Numbers 23:19]])
+- [[Isaiah 31]] — 1 footnote cross-reference (from [[Numbers 23#^num-23-19|Numbers 23:19]])
 - [[Numbers 24]] — 10 parallel verses, e.g. [[Numbers 23#^num-23-22|Numbers 23:22]] ↔ [[Numbers 24#^num-24-8|Numbers 24:8]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 7
 slug: hosea-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 7]] · My notes: [[Hosea 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is reproved for her many sins—Ephraim is mixed among the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 5]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-2|Hosea 7:2]])
+- [[Leviticus 24]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-8|Hosea 7:8]])
+- [[Isaiah 9]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-10|Hosea 7:10]])
+- [[Ezekiel 12]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-12|Hosea 7:12]])
+- [[Ezekiel 17]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-12|Hosea 7:12]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Hosea 7#^hosea-7-13|Hosea 7:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

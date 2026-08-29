@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 4
 slug: matt-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 4]] · My notes: [[Matthew 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus fasts forty days and is tempted—He begins His ministry, calls disciples, and heals the sick.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Matthew 4#^matt-4-2|Matthew 4:2]])
+- [[D&C 10]] — 2 footnote cross-references (from [[Matthew 4#^matt-4-7|Matthew 4:7]])
+- [[D&C 24]] — 2 footnote cross-references (from [[Matthew 4#^matt-4-7|Matthew 4:7]])
+- [[Luke 4]] — 2 footnote cross-references (from [[Matthew 4#^matt-4-12|Matthew 4:12]])
+- [[Matthew 9]] — 2 footnote cross-references (from [[Matthew 4#^matt-4-23|Matthew 4:23]])
+- [[Exodus 24]] — 1 footnote cross-reference (from [[Matthew 4#^matt-4-2|Matthew 4:2]])
 - [[Luke 4]] — 11 parallel verses, e.g. [[Matthew 4#^matt-4-6|Matthew 4:6]] ↔ [[Luke 4#^luke-4-11|Luke 4:11]]
 - [[Mark 1]] — 2 parallel verses, e.g. [[Matthew 4#^matt-4-18|Matthew 4:18]] ↔ [[Mark 1#^mark-1-16|Mark 1:16]]
 - [[Matthew 10]] — 3 parallel verses, e.g. [[Matthew 4#^matt-4-21|Matthew 4:21]] ↔ [[Matthew 10#^matt-10-2|Matthew 10:2]]

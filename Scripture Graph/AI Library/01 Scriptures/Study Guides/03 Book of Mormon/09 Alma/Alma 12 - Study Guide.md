@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 12
 slug: alma-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 12]] · My notes: [[Alma 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma speaks to Zeezrom—The mysteries of God can be given only to the faithful—Men are judged by their thoughts, beliefs, words, and works—The wicked will suffer a spiritual death—This mortal life is a probationary state—The plan of redemption brings to pass the Resurrection and, through faith, a remission of sins—The repentant have a claim on mercy through the Only Begotten Son. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 2]] — 7 footnote cross-references (from [[Alma 12#^alma-12-11|Alma 12:11]])
+- [[Alma 11]] — 6 footnote cross-references (from [[Alma 12#^alma-12-1|Alma 12:1]])
+- [[Alma 42]] — 6 footnote cross-references (from [[Alma 12#^alma-12-21|Alma 12:21]])
+- [[Moses 5]] — 5 footnote cross-references (from [[Alma 12#^alma-12-24|Alma 12:24]])
+- [[Genesis 2]] — 4 footnote cross-references (from [[Alma 12#^alma-12-23|Alma 12:23]])
+- [[2 Nephi 28]] — 3 footnote cross-references (from [[Alma 12#^alma-12-10|Alma 12:10]])
 - [[Alma 5]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
 - [[Alma 42]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-26|Alma 12:26]] ↔ [[Alma 42#^alma-42-5|Alma 42:5]]
 - [[Alma 11]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-8|Alma 12:8]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]

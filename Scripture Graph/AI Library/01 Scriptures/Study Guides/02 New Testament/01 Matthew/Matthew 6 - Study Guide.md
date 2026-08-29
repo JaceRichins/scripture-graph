@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 6]] · My notes: [[Matthew 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus continues the Sermon on the Mount—He teaches the disciples the Lord’s Prayer—They are commanded to seek first the kingdom of God and His righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,11 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 4 footnote cross-references (from [[Matthew 6#^matt-6-8|Matthew 6:8]])
+- [[3 Nephi 13]] — 3 footnote cross-references (from [[Matthew 6#^matt-6-1|Matthew 6:1]])
+- [[Alma 31]] — 2 footnote cross-references (from [[Matthew 6#^matt-6-5|Matthew 6:5]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Matthew 6#^matt-6-2|Matthew 6:2]])
+- [[Luke 14]] — 1 footnote cross-reference (from [[Matthew 6#^matt-6-4|Matthew 6:4]])
+- [[Alma 33]] — 1 footnote cross-reference (from [[Matthew 6#^matt-6-6|Matthew 6:6]])
 - [[3 Nephi 13]] — 43 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 - [[Luke 12]] — 7 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
 - [[Luke 16]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-24|Matthew 6:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
-- [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 6#^matt-6-13|Matthew 6:13]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
+- [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 6#^matt-6-13|Matthew 6:13]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 <!-- SG:END related-scriptures -->
 

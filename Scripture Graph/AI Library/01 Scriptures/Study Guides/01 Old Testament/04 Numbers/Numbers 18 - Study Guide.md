@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 18
 slug: num-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 18]] · My notes: [[Numbers 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron and his sons are called to minister in the priest’s office—Levites are called to minister in the service of the tabernacle—Levites receive no land inheritance but are supported by the tithes of the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 18]] — 5 footnote cross-references (from [[Numbers 18#^num-18-8|Numbers 18:8]])
+- [[Leviticus 7]] — 3 footnote cross-references (from [[Numbers 18#^num-18-8|Numbers 18:8]])
+- [[Numbers 3]] — 2 footnote cross-references (from [[Numbers 18#^num-18-3|Numbers 18:3]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Numbers 18#^num-18-3|Numbers 18:3]])
+- [[Exodus 29]] — 2 footnote cross-references (from [[Numbers 18#^num-18-8|Numbers 18:8]])
+- [[Leviticus 6]] — 2 footnote cross-references (from [[Numbers 18#^num-18-9|Numbers 18:9]])
 - [[Numbers 7]] — 15 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
 - [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
 - [[Numbers 8]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-6|Numbers 18:6]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]

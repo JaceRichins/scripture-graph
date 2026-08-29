@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 25
 slug: jer-25
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -56,7 +56,9 @@ The chapter does not divide humanity into a righteous imperial power and guilty 
 - [[Jeremiah 50]] — 2 footnote cross-references (from [[Jeremiah 25#^jer-25-20|Jeremiah 25:20]])
 - [[Jeremiah 47]] — 2 footnote cross-references (from [[Jeremiah 25#^jer-25-20|Jeremiah 25:20]])
 - [[Jeremiah 9]] — 2 footnote cross-references (from [[Jeremiah 25#^jer-25-21|Jeremiah 25:21]])
+- [[Jeremiah 7]] — 5 parallel verses, e.g. [[Jeremiah 25#^jer-25-10|Jeremiah 25:10]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]
 - [[Jeremiah 35]] — 6 parallel verses, e.g. [[Jeremiah 25#^jer-25-3|Jeremiah 25:3]] ↔ [[Jeremiah 35#^jer-35-14|Jeremiah 35:14]]
+- [[Jeremiah 27]] — 5 parallel verses, e.g. [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]
 - [[Jeremiah 16]] — 2 parallel verses, e.g. [[Jeremiah 25#^jer-25-10|Jeremiah 25:10]] ↔ [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]]
 - [[Jeremiah 26]] — 4 parallel verses, e.g. [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]] ↔ [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]]
 - [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]] ↔ [[Jeremiah 44#^jer-44-1|Jeremiah 44:1]]
@@ -66,8 +68,6 @@ The chapter does not divide humanity into a righteous imperial power and guilty 
 - [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]] ↔ [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]]
 - [[Jeremiah 13]] — 3 parallel verses, e.g. [[Jeremiah 25#^jer-25-28|Jeremiah 25:28]] ↔ [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]]
 - [[Jeremiah 1]] — 3 parallel verses, e.g. [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]] ↔ [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]]
-- [[Jeremiah 50]] — 3 parallel verses, e.g. [[Jeremiah 25#^jer-25-32|Jeremiah 25:32]] ↔ [[Jeremiah 50#^jer-50-41|Jeremiah 50:41]]
-- [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]] ↔ [[Jeremiah 19#^jer-19-11|Jeremiah 19:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

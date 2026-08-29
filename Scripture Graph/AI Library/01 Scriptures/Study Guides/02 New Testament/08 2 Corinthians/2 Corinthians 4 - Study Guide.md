@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 4
 slug: 2cor-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 4]] · My notes: [[2 Corinthians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gospel light shines on the Saints—Mortal trials are nothing as contrasted with eternal glory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[2 Corinthians 4#^2cor-4-6|2 Corinthians 4:6]] ↔ [[Mosiah 4#^mosiah-4-11|Mosiah 4:11]]
+- [[D&C 19]] — 2 footnote cross-references (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
+- [[Romans 8]] — 2 footnote cross-references (from [[2 Corinthians 4#^2cor-4-11|2 Corinthians 4:11]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-1|2 Corinthians 4:1]])
+- [[2 Corinthians 2]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

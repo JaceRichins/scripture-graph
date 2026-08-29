@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 19
 slug: josh-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 19]] · My notes: [[Joshua 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan receive their inheritances by lot.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 49]] — 1 footnote cross-reference (from [[Joshua 19#^josh-19-10|Joshua 19:10]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[Joshua 19#^josh-19-18|Joshua 19:18]])
+- [[Joshua 24]] — 1 footnote cross-reference (from [[Joshua 19#^josh-19-50|Joshua 19:50]])
+- [[Numbers 34]] — 1 footnote cross-reference (from [[Joshua 19#^josh-19-51|Joshua 19:51]])
 - [[Numbers 34]] — 45 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
 - [[Numbers 10]] — 42 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
 - [[Joshua 15]] — 18 parallel verses, e.g. [[Joshua 19#^josh-19-8|Joshua 19:8]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]

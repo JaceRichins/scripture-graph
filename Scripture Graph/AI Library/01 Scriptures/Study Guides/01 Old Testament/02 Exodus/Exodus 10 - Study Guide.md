@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 10
 slug: ex-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 10]] · My notes: [[Exodus 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord sends a plague of locusts—This is followed by thick darkness in all Egypt for three days—Moses is cast out from the presence of Pharaoh.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 5]] — 2 footnote cross-references (from [[Exodus 10#^ex-10-3|Exodus 10:3]])
+- [[Exodus 9]] — 2 footnote cross-references (from [[Exodus 10#^ex-10-3|Exodus 10:3]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Exodus 10#^ex-10-2|Exodus 10:2]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Exodus 10#^ex-10-2|Exodus 10:2]])
+- [[Psalm 105]] — 1 footnote cross-reference (from [[Exodus 10#^ex-10-4|Exodus 10:4]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Exodus 10#^ex-10-4|Exodus 10:4]])
 - [[Exodus 9]] — 4 parallel verses, e.g. [[Exodus 10#^ex-10-3|Exodus 10:3]] ↔ [[Exodus 9#^ex-9-13|Exodus 9:13]]
 - [[Exodus 8]] — 5 parallel verses, e.g. [[Exodus 10#^ex-10-3|Exodus 10:3]] ↔ [[Exodus 8#^ex-8-1|Exodus 8:1]]
 - [[Exodus 11]] — 1 parallel verse, e.g. [[Exodus 10#^ex-10-20|Exodus 10:20]] ↔ [[Exodus 11#^ex-11-10|Exodus 11:10]]

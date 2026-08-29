@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 28]] · My notes: [[Matthew 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ the Lord is risen—He appears to many—He has all power in heaven and earth—He sends the Apostles to teach and baptize all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 20]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-3|Matthew 28:3]])
+- [[Hebrews 2]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-18|Matthew 28:18]])
+- [[1 Nephi 9]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-18|Matthew 28:18]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-20|Matthew 28:20]])
+- [[D&C 30]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-20|Matthew 28:20]])
+- [[D&C 31]] — 1 footnote cross-reference (from [[Matthew 28#^matt-28-20|Matthew 28:20]])
 - [[D&C 20]] — 2 parallel verses, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[Moses 7]] — 3 parallel verses, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]

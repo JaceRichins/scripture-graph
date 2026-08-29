@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 6
 slug: john-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 6]] · My notes: [[John 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus feeds the five thousand—He walks on the sea—He is the living manna sent from God—Salvation is gained by eating living bread—Jesus explains how men eat His flesh and drink His blood—Peter testifies that Jesus is the Messiah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 17]] — 3 footnote cross-references (from [[John 6#^john-6-37|John 6:37]])
+- [[D&C 46]] — 2 footnote cross-references (from [[John 6#^john-6-11|John 6:11]])
+- [[John 18]] — 2 footnote cross-references (from [[John 6#^john-6-15|John 6:15]])
+- [[3 Nephi 15]] — 2 footnote cross-references (from [[John 6#^john-6-37|John 6:37]])
+- [[3 Nephi 27]] — 2 footnote cross-references (from [[John 6#^john-6-39|John 6:39]])
+- [[Matthew 14]] — 1 footnote cross-reference (from [[John 6#^john-6-10|John 6:10]])
 - [[John 5]] — 3 parallel verses, e.g. [[John 6#^john-6-32|John 6:32]] ↔ [[John 5#^john-5-19|John 5:19]]
 - [[John 8]] — 2 parallel verses, e.g. [[John 6#^john-6-32|John 6:32]] ↔ [[John 8#^john-8-58|John 8:58]]
 - [[John 14]] — 2 parallel verses, e.g. [[John 6#^john-6-47|John 6:47]] ↔ [[John 14#^john-14-12|John 14:12]]

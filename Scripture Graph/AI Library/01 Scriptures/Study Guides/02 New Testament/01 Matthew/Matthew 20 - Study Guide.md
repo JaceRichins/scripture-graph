@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 20
 slug: matt-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 20]] · My notes: [[Matthew 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parable of the laborers in the vineyard—He foretells His crucifixion and resurrection—He came to give His life as a ransom for many.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 38]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-3|Matthew 20:3]])
+- [[D&C 33]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-6|Matthew 20:6]])
+- [[D&C 39]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-8|Matthew 20:8]])
+- [[Jacob 5]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-16|Matthew 20:16]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-28|Matthew 20:28]])
+- [[D&C 138]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-28|Matthew 20:28]])
 - [[Mark 10]] — 12 parallel verses, e.g. [[Matthew 20#^matt-20-18|Matthew 20:18]] ↔ [[Mark 10#^mark-10-33|Mark 10:33]]
 - [[Matthew 13]] — 5 parallel verses, e.g. [[Matthew 20#^matt-20-1|Matthew 20:1]] ↔ [[Matthew 13#^matt-13-52|Matthew 13:52]]
 - [[Luke 18]] — 3 parallel verses, e.g. [[Matthew 20#^matt-20-18|Matthew 20:18]] ↔ [[Luke 18#^luke-18-31|Luke 18:31]]

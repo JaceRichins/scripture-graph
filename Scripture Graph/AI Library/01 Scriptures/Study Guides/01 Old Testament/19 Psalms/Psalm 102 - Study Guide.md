@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 102
 slug: ps-102
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 102]] · My notes: [[Psalm 102 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The psalmist offers a prayer of the afflicted—Zion will be built up when the Lord appears in His glory—Though the heaven and earth perish, the Lord who created them will endure forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 121]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-2|Psalm 102:2]])
+- [[1 Chronicles 29]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-11|Psalm 102:11]])
+- [[Psalm 144]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-11|Psalm 102:11]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-11|Psalm 102:11]])
+- [[Isaiah 14]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-13|Psalm 102:13]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Psalm 102#^ps-102-17|Psalm 102:17]])
 - [[Hebrews 1]] — 2 parallel verses, e.g. [[Psalm 102#^ps-102-25|Psalm 102:25]] ↔ [[Hebrews 1#^heb-1-10|Hebrews 1:10]]
 <!-- SG:END related-scriptures -->
 

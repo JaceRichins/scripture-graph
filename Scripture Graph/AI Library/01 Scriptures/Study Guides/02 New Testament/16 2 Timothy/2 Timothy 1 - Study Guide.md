@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 1
 slug: 2tim-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ brings immortality and eternal life through the gospel—Be strong in the faith.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Titus 1]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]])
+- [[Acts 16]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-5|2 Timothy 1:5]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-6|2 Timothy 1:6]])
+- [[D&C 8]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-6|2 Timothy 1:6]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-7|2 Timothy 1:7]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[2 Timothy 1#^2tim-1-10|2 Timothy 1:10]])
 - [[1 Timothy 1]] — 2 parallel verses, e.g. [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]] ↔ [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]

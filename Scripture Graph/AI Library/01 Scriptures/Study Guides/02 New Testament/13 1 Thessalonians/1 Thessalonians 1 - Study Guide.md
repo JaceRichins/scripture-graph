@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 1
 slug: 1thes-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Thessalonians 1]] · My notes: [[1 Thessalonians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel comes both in word and in power.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 17]] — 2 footnote cross-references (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
+- [[1 Thessalonians 5]] — 2 footnote cross-references (from [[1 Thessalonians 1#^1thes-1-3|1 Thessalonians 1:3]])
+- [[1 Thessalonians 2]] — 2 footnote cross-references (from [[1 Thessalonians 1#^1thes-1-5|1 Thessalonians 1:5]])
+- [[Acts 15]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
+- [[1 Peter 5]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[2 Thessalonians 1#^2thes-1-1|2 Thessalonians 1:1]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[Romans 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 16
 slug: alma-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 16]] · My notes: [[Alma 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamanites destroy the people of Ammonihah—Zoram leads the Nephites to victory over the Lamanites—Alma and Amulek and many others preach the word—They teach that after His Resurrection Christ will appear to the Nephites. About 81–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 15]] — 4 footnote cross-references (from [[Alma 16#^alma-16-2|Alma 16:2]])
+- [[Alma 9]] — 3 footnote cross-references (from [[Alma 16#^alma-16-3|Alma 16:3]])
+- [[Alma 49]] — 2 footnote cross-references (from [[Alma 16#^alma-16-2|Alma 16:2]])
+- [[Alma 1]] — 2 footnote cross-references (from [[Alma 16#^alma-16-11|Alma 16:11]])
+- [[Alma 21]] — 2 footnote cross-references (from [[Alma 16#^alma-16-13|Alma 16:13]])
+- [[2 Kings 6]] — 1 footnote cross-reference (from [[Alma 16#^alma-16-6|Alma 16:6]])
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 16#^alma-16-5|Alma 16:5]] ↔ [[Alma 43#^alma-43-16|Alma 43:16]]
 - [[Alma 13]] — 3 parallel verses, e.g. [[Alma 16#^alma-16-17|Alma 16:17]] ↔ [[Alma 13#^alma-13-16|Alma 13:16]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 103
 slug: ps-103
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 103]] · My notes: [[Psalm 103 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David exhorts the Saints to bless the Lord for His mercy—The Lord is merciful unto those who keep His commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 104]] — 3 parallel verses, e.g. [[Psalm 103#^ps-103-1|Psalm 103:1]] ↔ [[Psalm 104#^ps-104-1|Psalm 104:1]]
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-5|Psalm 103:5]])
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-8|Psalm 103:8]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-8|Psalm 103:8]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-8|Psalm 103:8]])
+- [[Ezekiel 24]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-13|Psalm 103:13]])
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Psalm 103#^ps-103-13|Psalm 103:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

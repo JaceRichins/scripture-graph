@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 25
 slug: acts-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 25]] · My notes: [[Acts 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul, before Festus, appeals unto Cæsar—Agrippa desires to hear Paul.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezra 6]] — 2 parallel verses, e.g. [[Acts 25#^acts-25-15|Acts 25:15]] ↔ [[Ezra 6#^ezra-6-7|Ezra 6:7]]
-- [[Matthew 21]] — 1 parallel verse, e.g. [[Acts 25#^acts-25-15|Acts 25:15]] ↔ [[Matthew 21#^matt-21-23|Matthew 21:23]]
+- [[Acts 23]] — 2 footnote cross-references (from [[Acts 25#^acts-25-3|Acts 25:3]])
+- [[Acts 18]] — 1 footnote cross-reference (from [[Acts 25#^acts-25-5|Acts 25:5]])
+- [[Acts 26]] — 1 footnote cross-reference (from [[Acts 25#^acts-25-11|Acts 25:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

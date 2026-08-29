@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 98
 slug: ps-98
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 98]] · My notes: [[Psalm 98 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sing unto the Lord—All the ends of the earth will see His salvation—He comes to judge all men with equity and righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 15]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-1|Psalm 98:1]])
+- [[Isaiah 62]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-2|Psalm 98:2]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-2|Psalm 98:2]])
+- [[1 Nephi 15]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-2|Psalm 98:2]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-2|Psalm 98:2]])
+- [[Genesis 24]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-3|Psalm 98:3]])
 - [[Psalm 96]] — 3 parallel verses, e.g. [[Psalm 98#^ps-98-9|Psalm 98:9]] ↔ [[Psalm 96#^ps-96-13|Psalm 96:13]]
 - [[Psalm 24]] — 1 parallel verse, e.g. [[Psalm 98#^ps-98-7|Psalm 98:7]] ↔ [[Psalm 24#^ps-24-1|Psalm 24:1]]
 <!-- SG:END related-scriptures -->

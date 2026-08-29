@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 11
 slug: hosea-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 11]] · My notes: [[Hosea 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel, as a child, was called out of Egypt in similitude of our Lord, as a child, coming out of Egypt—But Ephraim turns away from the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 5]] — 2 parallel verses, e.g. [[Hosea 11#^hosea-11-9|Hosea 11:9]] ↔ [[Ezekiel 5#^ezek-5-10|Ezekiel 5:10]]
-- [[Ezekiel 7]] — 2 parallel verses, e.g. [[Hosea 11#^hosea-11-9|Hosea 11:9]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
+- [[Exodus 4]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-1|Hosea 11:1]])
+- [[Hosea 13]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-2|Hosea 11:2]])
+- [[2 Kings 17]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-2|Hosea 11:2]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-2|Hosea 11:2]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-3|Hosea 11:3]])
+- [[Alma 33]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-3|Hosea 11:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

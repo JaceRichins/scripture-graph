@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 20
 slug: ex-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 20]] · My notes: [[Exodus 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals the Ten Commandments—Israel is to bear witness that the Lord has spoken from heaven—The children of Israel are forbidden to make gods of silver or gold—They are to make altars of unhewn stones and sacrifice to the Lord thereon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 13]] — 7 footnote cross-references (from [[Exodus 20#^ex-20-1|Exodus 20:1]])
+- [[Deuteronomy 5]] — 4 footnote cross-references (from [[Exodus 20#^ex-20-1|Exodus 20:1]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Exodus 20#^ex-20-2|Exodus 20:2]])
+- [[Moses 1]] — 2 footnote cross-references (from [[Exodus 20#^ex-20-2|Exodus 20:2]])
+- [[Exodus 34]] — 2 footnote cross-references (from [[Exodus 20#^ex-20-3|Exodus 20:3]])
+- [[Deuteronomy 6]] — 2 footnote cross-references (from [[Exodus 20#^ex-20-3|Exodus 20:3]])
 - [[Deuteronomy 5]] — 8 parallel verses, e.g. [[Exodus 20#^ex-20-5|Exodus 20:5]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Mosiah 13]] — 10 parallel verses, e.g. [[Exodus 20#^ex-20-5|Exodus 20:5]] ↔ [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Exodus 20#^ex-20-4|Exodus 20:4]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]

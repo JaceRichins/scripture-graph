@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 3
 slug: john-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 3]] · My notes: [[John 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus tells Nicodemus that men must be born again—God so loved the world that He sent His Only Begotten Son to save men—John the Baptist testifies that he that believes on the Son has everlasting life.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,16 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 10]] — 5 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[Mark 10#^mark-10-51|Mark 10:51]]
-- [[John 1]] — 5 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[John 1#^john-1-48|John 1:48]]
-- [[D&C 10]] — 2 parallel verses, e.g. [[John 3#^john-3-19|John 3:19]] ↔ [[D&C 10#^dc-10-21|D&C 10:21]]
-- [[Matthew 16]] — 2 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[Matthew 16#^matt-16-17|Matthew 16:17]]
-- [[Luke 4]] — 2 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[Luke 4#^luke-4-8|Luke 4:8]]
-- [[Luke 18]] — 2 parallel verses, e.g. [[John 3#^john-3-5|John 3:5]] ↔ [[Luke 18#^luke-18-24|Luke 18:24]]
-- [[John 13]] — 2 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[John 13#^john-13-7|John 13:7]]
-- [[John 14]] — 2 parallel verses, e.g. [[John 3#^john-3-3|John 3:3]] ↔ [[John 14#^john-14-23|John 14:23]]
-- [[John 18]] — 2 parallel verses, e.g. [[John 3#^john-3-10|John 3:10]] ↔ [[John 18#^john-18-33|John 18:33]]
-- [[D&C 34]] — 1 parallel verse, e.g. [[John 3#^john-3-16|John 3:16]] ↔ [[D&C 34#^dc-34-3|D&C 34:3]]
+- [[John 7]] — 2 footnote cross-references (from [[John 3#^john-3-1|John 3:1]])
+- [[John 19]] — 1 footnote cross-reference (from [[John 3#^john-3-1|John 3:1]])
+- [[Exodus 8]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
+- [[Luke 11]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
+- [[Acts 2]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
+- [[1 John 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

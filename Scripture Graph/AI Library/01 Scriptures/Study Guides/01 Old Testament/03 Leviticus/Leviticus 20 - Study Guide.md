@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 20
 slug: lev-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 20]] · My notes: [[Leviticus 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The death penalty is prescribed for sacrificing children to Molech, cursing father and mother, adultery, homosexual behavior, bestiality, spiritualism, and other abominations—Various laws and ordinances are listed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 18]] — 2 footnote cross-references (from [[Leviticus 20#^lev-20-11|Leviticus 20:11]])
+- [[Deuteronomy 27]] — 2 footnote cross-references (from [[Leviticus 20#^lev-20-15|Leviticus 20:15]])
+- [[Deuteronomy 17]] — 1 footnote cross-reference (from [[Leviticus 20#^lev-20-4|Leviticus 20:4]])
+- [[Jeremiah 21]] — 1 footnote cross-reference (from [[Leviticus 20#^lev-20-5|Leviticus 20:5]])
+- [[Jeremiah 44]] — 1 footnote cross-reference (from [[Leviticus 20#^lev-20-5|Leviticus 20:5]])
+- [[Jeremiah 3]] — 1 footnote cross-reference (from [[Leviticus 20#^lev-20-5|Leviticus 20:5]])
 - [[Leviticus 18]] — 7 parallel verses, e.g. [[Leviticus 20#^lev-20-19|Leviticus 20:19]] ↔ [[Leviticus 18#^lev-18-13|Leviticus 18:13]]
 - [[Leviticus 17]] — 4 parallel verses, e.g. [[Leviticus 20#^lev-20-6|Leviticus 20:6]] ↔ [[Leviticus 17#^lev-17-10|Leviticus 17:10]]
 - [[Exodus 21]] — 4 parallel verses, e.g. [[Leviticus 20#^lev-20-9|Leviticus 20:9]] ↔ [[Exodus 21#^ex-21-15|Exodus 21:15]]

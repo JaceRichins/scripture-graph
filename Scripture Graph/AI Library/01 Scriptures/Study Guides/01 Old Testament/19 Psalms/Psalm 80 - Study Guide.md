@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 80
 slug: ps-80
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 80]] · My notes: [[Psalm 80 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel pleads with the Shepherd of Israel for deliverance, for salvation, and for His face to shine upon them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Daniel 9]] — 2 parallel verses, e.g. [[Psalm 80#^ps-80-3|Psalm 80:3]] ↔ [[Daniel 9#^dan-9-17|Daniel 9:17]]
+- [[Lamentations 5]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-3|Psalm 80:3]])
+- [[Exodus 20]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-8|Psalm 80:8]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-8|Psalm 80:8]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-8|Psalm 80:8]])
+- [[Numbers 21]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-8|Psalm 80:8]])
+- [[Acts 13]] — 1 footnote cross-reference (from [[Psalm 80#^ps-80-8|Psalm 80:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

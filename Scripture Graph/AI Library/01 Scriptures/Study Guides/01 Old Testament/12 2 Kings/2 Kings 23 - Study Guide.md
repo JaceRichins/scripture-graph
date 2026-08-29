@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 23
 slug: 2kgs-23
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -64,24 +64,24 @@ The chapter moves from public covenant renewal (vv. 1-3) through an extensive an
 - [[2 Kings 24]] — 10 parallel verses, e.g. [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
 - [[2 Kings 21]] — 13 parallel verses, e.g. [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
 - [[2 Kings 14]] — 8 parallel verses, e.g. [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
+- [[2 Chronicles 34]] — 5 parallel verses, e.g. [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]] ↔ [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]]
 - [[1 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
 - [[Jeremiah 52]] — 4 parallel verses, e.g. [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]] ↔ [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]]
 - [[1 Kings 22]] — 5 parallel verses, e.g. [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 - [[2 Kings 13]] — 7 parallel verses, e.g. [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[2 Chronicles 33]] — 9 parallel verses, e.g. [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]] ↔ [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]]
 - [[1 Kings 16]] — 4 parallel verses, e.g. [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
-- [[2 Kings 8]] — 5 parallel verses, e.g. [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Covenants]]
-- [[Passover]]
 - [[Records and Sacred Writings]]
 - [[Law of Moses]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

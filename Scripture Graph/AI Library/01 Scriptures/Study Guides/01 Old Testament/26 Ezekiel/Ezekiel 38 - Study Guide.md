@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 38
 slug: ezek-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 38]] · My notes: [[Ezekiel 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The battle of Gog, from the land of Magog, against Israel will usher in the Second Coming—The Lord will come amid war and pestilence, and all men will shake at His presence.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 39]] — 4 footnote cross-references (from [[Ezekiel 38#^ezek-38-2|Ezekiel 38:2]])
+- [[Genesis 10]] — 3 footnote cross-references (from [[Ezekiel 38#^ezek-38-2|Ezekiel 38:2]])
+- [[Ezekiel 27]] — 3 footnote cross-references (from [[Ezekiel 38#^ezek-38-2|Ezekiel 38:2]])
+- [[Ezekiel 34]] — 2 footnote cross-references (from [[Ezekiel 38#^ezek-38-8|Ezekiel 38:8]])
+- [[Revelation 16]] — 2 footnote cross-references (from [[Ezekiel 38#^ezek-38-16|Ezekiel 38:16]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Ezekiel 38#^ezek-38-22|Ezekiel 38:22]])
 - [[Ezekiel 39]] — 3 parallel verses, e.g. [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
 - [[Ezekiel 29]] — 3 parallel verses, e.g. [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
 - [[Ezekiel 28]] — 2 parallel verses, e.g. [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]

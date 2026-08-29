@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 31
 slug: job-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 31]] · My notes: [[Job 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job invites judgment so that God may know his integrity—If he has done ill, Job welcomes the penalties for so doing.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 43]] — 1 footnote cross-reference (from [[Job 31#^job-31-1|Job 31:1]])
+- [[Daniel 5]] — 1 footnote cross-reference (from [[Job 31#^job-31-6|Job 31:6]])
+- [[Ecclesiastes 11]] — 1 footnote cross-reference (from [[Job 31#^job-31-7|Job 31:7]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Job 31#^job-31-7|Job 31:7]])
+- [[Malachi 2]] — 1 footnote cross-reference (from [[Job 31#^job-31-15|Job 31:15]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[Job 31#^job-31-15|Job 31:15]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

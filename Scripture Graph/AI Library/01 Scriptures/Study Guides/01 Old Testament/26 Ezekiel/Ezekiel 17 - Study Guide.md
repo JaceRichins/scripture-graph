@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 17
 slug: ezek-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 17]] · My notes: [[Ezekiel 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel shows in a parable how Israel, while subject to Babylon, wrongfully sought help from Egypt—Yet the Lord will bring forth in the last days a goodly tree from the cedars of Lebanon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 12]] — 3 footnote cross-references (from [[Ezekiel 17#^ezek-17-12|Ezekiel 17:12]])
+- [[2 Kings 24]] — 3 footnote cross-references (from [[Ezekiel 17#^ezek-17-12|Ezekiel 17:12]])
+- [[Jacob 5]] — 2 footnote cross-references (from [[Ezekiel 17#^ezek-17-8|Ezekiel 17:8]])
+- [[Ezekiel 19]] — 2 footnote cross-references (from [[Ezekiel 17#^ezek-17-10|Ezekiel 17:10]])
+- [[Omni 1]] — 2 footnote cross-references (from [[Ezekiel 17#^ezek-17-12|Ezekiel 17:12]])
+- [[2 Chronicles 36]] — 2 footnote cross-references (from [[Ezekiel 17#^ezek-17-13|Ezekiel 17:13]])
 - [[Ezekiel 20]] — 4 parallel verses, e.g. [[Ezekiel 17#^ezek-17-16|Ezekiel 17:16]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
 - [[Ezekiel 5]] — 3 parallel verses, e.g. [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]] ↔ [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]]
 - [[Ezekiel 12]] — 1 parallel verse, e.g. [[Ezekiel 17#^ezek-17-20|Ezekiel 17:20]] ↔ [[Ezekiel 12#^ezek-12-13|Ezekiel 12:13]]

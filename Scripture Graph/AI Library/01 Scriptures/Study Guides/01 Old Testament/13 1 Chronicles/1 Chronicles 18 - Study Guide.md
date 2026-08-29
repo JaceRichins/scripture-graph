@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 18
 slug: 1chr-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 18]] · My notes: [[1 Chronicles 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David subdues all the adversaries of Israel and reigns in justice over the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,11 +42,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-1|1 Chronicles 18:1]])
+- [[1 Samuel 17]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-1|1 Chronicles 18:1]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-8|1 Chronicles 18:8]])
+- [[1 Kings 7]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-8|1 Chronicles 18:8]])
+- [[2 Chronicles 4]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-8|1 Chronicles 18:8]])
+- [[1 Kings 11]] — 1 footnote cross-reference (from [[1 Chronicles 18#^1chr-18-13|1 Chronicles 18:13]])
 - [[2 Samuel 8]] — 15 parallel verses, e.g. [[1 Chronicles 18#^1chr-18-5|1 Chronicles 18:5]] ↔ [[2 Samuel 8#^2sam-8-5|2 Samuel 8:5]]
 - [[2 Samuel 20]] — 1 parallel verse, e.g. [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]] ↔ [[2 Samuel 20#^2sam-20-23|2 Samuel 20:23]]
 - [[1 Kings 1]] — 2 parallel verses, e.g. [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]] ↔ [[1 Kings 1#^1kgs-1-44|1 Kings 1:44]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[1 Chronicles 18#^1chr-18-11|1 Chronicles 18:11]] ↔ [[Judges 10#^judg-10-11|Judges 10:11]]
 - [[1 Kings 4]] — 1 parallel verse, e.g. [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]] ↔ [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]]
+- [[2 Samuel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

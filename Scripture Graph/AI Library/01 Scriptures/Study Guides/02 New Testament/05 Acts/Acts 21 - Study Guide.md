@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 21
 slug: acts-21
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -62,10 +62,10 @@ The geography narrows from sea travel and Christian households to Jerusalem, the
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Law of Moses]]
 - [[Prophecy]]
 - [[Government and Laws]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

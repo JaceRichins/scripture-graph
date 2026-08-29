@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 11
 slug: judg-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 11]] · My notes: [[Judges 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jephthah is chosen as the captain of the armies of Israel—The Ammonites assail Israel in war—Jephthah is guided by the Spirit and defeats Ammon with a great slaughter—He makes a rash vow, which leads to the sacrifice of his only daughter.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 21]] — 3 footnote cross-references (from [[Judges 11#^judg-11-13|Judges 11:13]])
+- [[Deuteronomy 2]] — 2 footnote cross-references (from [[Judges 11#^judg-11-13|Judges 11:13]])
+- [[1 Samuel 12]] — 1 footnote cross-reference (from [[Judges 11#^judg-11-1|Judges 11:1]])
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[Judges 11#^judg-11-6|Judges 11:6]])
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Judges 11#^judg-11-13|Judges 11:13]])
+- [[Numbers 20]] — 1 footnote cross-reference (from [[Judges 11#^judg-11-17|Judges 11:17]])
 - [[Numbers 21]] — 4 parallel verses, e.g. [[Judges 11#^judg-11-30|Judges 11:30]] ↔ [[Numbers 21#^num-21-2|Numbers 21:2]]
 - [[2 Samuel 10]] — 5 parallel verses, e.g. [[Judges 11#^judg-11-12|Judges 11:12]] ↔ [[2 Samuel 10#^2sam-10-1|2 Samuel 10:1]]
 - [[1 Chronicles 19]] — 5 parallel verses, e.g. [[Judges 11#^judg-11-12|Judges 11:12]] ↔ [[1 Chronicles 19#^1chr-19-1|1 Chronicles 19:1]]

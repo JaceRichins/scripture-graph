@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 20
 slug: gen-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 20]] · My notes: [[Genesis 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abimelech desires Sarah, who is preserved by the Lord—Abraham prays for Abimelech, and the Lord blesses him and his household.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 26]] — 5 footnote cross-references (from [[Genesis 20#^gen-20-1|Genesis 20:1]])
+- [[Genesis 12]] — 5 footnote cross-references (from [[Genesis 20#^gen-20-5|Genesis 20:5]])
+- [[Abraham 2]] — 2 footnote cross-references (from [[Genesis 20#^gen-20-12|Genesis 20:12]])
+- [[Genesis 16]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-1|Genesis 20:1]])
+- [[Genesis 10]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-1|Genesis 20:1]])
+- [[Genesis 21]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-2|Genesis 20:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

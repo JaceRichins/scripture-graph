@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 3
 slug: alma-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 3]] · My notes: [[Alma 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Amlicites had marked themselves according to the prophetic word—The Lamanites had been cursed for their rebellion—Men bring their own curses upon themselves—The Nephites defeat another Lamanite army. About 87–86 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 2]] — 6 footnote cross-references (from [[Alma 3#^alma-3-1|Alma 3:1]])
+- [[Alma 4]] — 2 footnote cross-references (from [[Alma 3#^alma-3-1|Alma 3:1]])
+- [[Mosiah 10]] — 2 footnote cross-references (from [[Alma 3#^alma-3-5|Alma 3:5]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[Alma 3#^alma-3-6|Alma 3:6]])
+- [[Alma 17]] — 2 footnote cross-references (from [[Alma 3#^alma-3-11|Alma 3:11]])
+- [[Alma 44]] — 1 footnote cross-reference (from [[Alma 3#^alma-3-3|Alma 3:3]])
 - [[Alma 43]] — 3 parallel verses, e.g. [[Alma 3#^alma-3-5|Alma 3:5]] ↔ [[Alma 43#^alma-43-20|Alma 43:20]]
 - [[Alma 23]] — 3 parallel verses, e.g. [[Alma 3#^alma-3-12|Alma 3:12]] ↔ [[Alma 23#^alma-23-10|Alma 23:10]]
 - [[Alma 44]] — 2 parallel verses, e.g. [[Alma 3#^alma-3-3|Alma 3:3]] ↔ [[Alma 44#^alma-44-22|Alma 44:22]]

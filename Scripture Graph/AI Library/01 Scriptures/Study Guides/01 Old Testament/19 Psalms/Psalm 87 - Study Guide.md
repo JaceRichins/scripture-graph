@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 87
 slug: ps-87
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 87]] · My notes: [[Psalm 87 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord loves the gates of Zion, and He Himself will establish Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 28]] — 1 footnote cross-reference (from [[Psalm 87#^ps-87-1|Psalm 87:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

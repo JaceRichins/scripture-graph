@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 1
 slug: num-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -48,25 +48,31 @@ The repeated census formulas make the tribal figures directly comparable. Their 
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 26]] — 4 footnote cross-references (from [[Numbers 1#^num-1-2|Numbers 1:2]])
+- [[1 Chronicles 23]] — 3 footnote cross-references (from [[Numbers 1#^num-1-22|Numbers 1:22]])
+- [[Numbers 3]] — 3 footnote cross-references (from [[Numbers 1#^num-1-50|Numbers 1:50]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Numbers 1#^num-1-1|Numbers 1:1]])
+- [[Psalm 105]] — 1 footnote cross-reference (from [[Numbers 1#^num-1-1|Numbers 1:1]])
+- [[Hebrews 3]] — 1 footnote cross-reference (from [[Numbers 1#^num-1-1|Numbers 1:1]])
+- [[Numbers 4]] — 56 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 4#^num-4-2|Numbers 4:2]]
+- [[Numbers 2]] — 13 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Numbers 2#^num-2-34|Numbers 2:34]]
 - [[2 Chronicles 25]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-3|Numbers 1:3]] ↔ [[2 Chronicles 25#^2chr-25-5|2 Chronicles 25:5]]
 - [[2 Chronicles 31]] — 14 parallel verses, e.g. [[Numbers 1#^num-1-18|Numbers 1:18]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
+- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 1#^num-1-51|Numbers 1:51]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
 - [[Numbers 9]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-1|Numbers 1:1]] ↔ [[Numbers 9#^num-9-1|Numbers 9:1]]
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
+- [[Numbers 26]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Numbers 26#^num-26-2|Numbers 26:2]]
 - [[Numbers 18]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-51|Numbers 1:51]] ↔ [[Numbers 18#^num-18-7|Numbers 18:7]]
 - [[Numbers 8]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Numbers 8#^num-8-20|Numbers 8:20]]
 - [[Numbers 15]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-53|Numbers 1:53]] ↔ [[Numbers 15#^num-15-26|Numbers 15:26]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
-- [[Numbers 13]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-5|Numbers 1:5]] ↔ [[Numbers 13#^num-13-16|Numbers 13:16]]
-- [[Exodus 40]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-54|Numbers 1:54]] ↔ [[Exodus 40#^ex-40-16|Exodus 40:16]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 1#^num-1-2|Numbers 1:2]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
-- [[Numbers 10]] — 1 parallel verse, e.g. [[Numbers 1#^num-1-1|Numbers 1:1]] ↔ [[Numbers 10#^num-10-11|Numbers 10:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Family]]
-- [[War and Peace]]
 - [[Obedience]]
+- [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 16
 slug: gen-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 16]] · My notes: [[Genesis 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sarai gives Hagar to Abram as his wife—Hagar flees from Sarai—An angel commands Hagar to return and submit herself to Sarai—Hagar bears Ishmael.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 21]] — 5 footnote cross-references (from [[Genesis 16#^gen-16-1|Genesis 16:1]])
+- [[Galatians 4]] — 2 footnote cross-references (from [[Genesis 16#^gen-16-1|Genesis 16:1]])
+- [[D&C 132]] — 2 footnote cross-references (from [[Genesis 16#^gen-16-1|Genesis 16:1]])
+- [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 16#^gen-16-7|Genesis 16:7]])
+- [[Abraham 1]] — 1 footnote cross-reference (from [[Genesis 16#^gen-16-1|Genesis 16:1]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Genesis 16#^gen-16-1|Genesis 16:1]])
 - [[Judges 13]] — 9 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[Judges 13#^judg-13-13|Judges 13:13]]
 - [[Numbers 22]] — 6 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
 - [[2 Kings 1]] — 3 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[2 Kings 1#^2kgs-1-15|2 Kings 1:15]]

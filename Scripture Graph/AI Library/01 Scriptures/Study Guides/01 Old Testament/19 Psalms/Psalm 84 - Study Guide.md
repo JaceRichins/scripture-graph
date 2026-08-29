@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 84
 slug: ps-84
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 84]] · My notes: [[Psalm 84 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The righteous cry unto the living God—It is better to be a doorkeeper in the house of the Lord than to dwell in the tents of wickedness—No good thing is withheld from those who walk uprightly.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-2|Psalm 84:2]])
+- [[Deuteronomy 16]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-7|Psalm 84:7]])
+- [[3 Nephi 25]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-11|Psalm 84:11]])
+- [[Proverbs 30]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-11|Psalm 84:11]])
+- [[Revelation 21]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-11|Psalm 84:11]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 84#^ps-84-11|Psalm 84:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

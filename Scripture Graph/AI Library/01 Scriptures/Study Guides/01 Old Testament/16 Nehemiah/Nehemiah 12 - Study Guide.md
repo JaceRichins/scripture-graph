@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 12
 slug: neh-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 12]] · My notes: [[Nehemiah 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The priests and Levites who came up from Babylon are named—The walls of Jerusalem are dedicated—The offices of priests and Levites are appointed in the temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,17 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezra 3]] — 4 parallel verses, e.g. [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
-- [[2 Chronicles 35]] — 3 parallel verses, e.g. [[Nehemiah 12#^neh-12-45|Nehemiah 12:45]] ↔ [[2 Chronicles 35#^2chr-35-15|2 Chronicles 35:15]]
-- [[2 Chronicles 29]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-45|Nehemiah 12:45]] ↔ [[2 Chronicles 29#^2chr-29-25|2 Chronicles 29:25]]
-- [[Ezra 5]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]] ↔ [[Ezra 5#^ezra-5-2|Ezra 5:2]]
-- [[Ezra 10]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-26|Nehemiah 12:26]] ↔ [[Ezra 10#^ezra-10-18|Ezra 10:18]]
-- [[2 Chronicles 23]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-40|Nehemiah 12:40]] ↔ [[2 Chronicles 23#^2chr-23-3|2 Chronicles 23:3]]
-- [[1 Chronicles 15]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-12|Nehemiah 12:12]] ↔ [[1 Chronicles 15#^1chr-15-12|1 Chronicles 15:12]]
-- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-12|Nehemiah 12:12]] ↔ [[1 Chronicles 23#^1chr-23-9|1 Chronicles 23:9]]
-- [[1 Chronicles 24]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-12|Nehemiah 12:12]] ↔ [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]]
-- [[Ezra 1]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-12|Nehemiah 12:12]] ↔ [[Ezra 1#^ezra-1-5|Ezra 1:5]]
-- [[2 Chronicles 11]] — 2 parallel verses, e.g. [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]] ↔ [[2 Chronicles 11#^2chr-11-13|2 Chronicles 11:13]]
+- [[Nehemiah 2]] — 2 footnote cross-references (from [[Nehemiah 12#^neh-12-31|Nehemiah 12:31]])
+- [[Ezra 2]] — 1 footnote cross-reference (from [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Nehemiah 12#^neh-12-1|Nehemiah 12:1]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Nehemiah 12#^neh-12-4|Nehemiah 12:4]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[Nehemiah 12#^neh-12-24|Nehemiah 12:24]])
+- [[Numbers 8]] — 1 footnote cross-reference (from [[Nehemiah 12#^neh-12-30|Nehemiah 12:30]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

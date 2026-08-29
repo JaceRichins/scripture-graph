@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 20
 slug: dc-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 20]] · My notes: [[D&C 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–16, The Book of Mormon proves the divinity of the latter-day work; 17–28, The doctrines of creation, fall, atonement, and baptism are affirmed; 29–37, Laws governing repentance, justification, sanctification, and baptism are set forth; 38–67, Duties of elders, priests, teachers, and deacons are summarized; 68–74, Duties of members, blessing of children, and the mode of baptism are revealed; 75–84, Sacramental prayers and regulations governing Church membership are given.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 18]] — 7 footnote cross-references (from [[D&C 20#^dc-20-9|D&C 20:9]])
+- [[Joseph Smith—History 1]] — 5 footnote cross-references (from [[D&C 20#^dc-20-1|D&C 20:1]])
+- [[D&C 5]] — 4 footnote cross-references (from [[D&C 20#^dc-20-2|D&C 20:2]])
+- [[D&C 76]] — 4 footnote cross-references (from [[D&C 20#^dc-20-12|D&C 20:12]])
+- [[D&C 21]] — 3 footnote cross-references (from [[D&C 20#^dc-20-1|D&C 20:1]])
+- [[D&C 109]] — 3 footnote cross-references (from [[D&C 20#^dc-20-16|D&C 20:16]])
 - [[Moroni 4]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-77|D&C 20:77]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
 - [[Moroni 5]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-79|D&C 20:79]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]

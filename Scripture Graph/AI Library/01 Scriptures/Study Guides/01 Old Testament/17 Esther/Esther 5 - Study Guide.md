@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 5
 slug: esth-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 5]] · My notes: [[Esther 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The king receives Esther—She invites him and Haman to a banquet—Haman plans to have Mordecai hanged.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 7]] — 2 footnote cross-references (from [[Esther 5#^esth-5-6|Esther 5:6]])
+- [[Esther 6]] — 2 footnote cross-references (from [[Esther 5#^esth-5-8|Esther 5:8]])
+- [[Esther 3]] — 2 footnote cross-references (from [[Esther 5#^esth-5-9|Esther 5:9]])
+- [[Esther 4]] — 1 footnote cross-reference (from [[Esther 5#^esth-5-2|Esther 5:2]])
+- [[Mark 6]] — 1 footnote cross-reference (from [[Esther 5#^esth-5-3|Esther 5:3]])
 - [[Esther 7]] — 4 parallel verses, e.g. [[Esther 5#^esth-5-6|Esther 5:6]] ↔ [[Esther 7#^esth-7-2|Esther 7:2]]
 - [[Esther 9]] — 1 parallel verse, e.g. [[Esther 5#^esth-5-6|Esther 5:6]] ↔ [[Esther 9#^esth-9-12|Esther 9:12]]
 <!-- SG:END related-scriptures -->

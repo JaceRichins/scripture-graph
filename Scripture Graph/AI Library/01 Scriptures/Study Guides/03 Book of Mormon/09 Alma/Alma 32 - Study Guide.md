@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 32
 slug: alma-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 32]] · My notes: [[Alma 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma teaches the poor whose afflictions had humbled them—Faith is a hope in that which is not seen which is true—Alma testifies that angels minister to men, women, and children—Alma compares the word unto a seed—It must be planted and nourished—Then it grows into a tree from which the fruit of eternal life is picked. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 33]] — 5 footnote cross-references (from [[Alma 32#^alma-32-5|Alma 32:5]])
+- [[Alma 34]] — 2 footnote cross-references (from [[Alma 32#^alma-32-3|Alma 32:3]])
+- [[Proverbs 16]] — 2 footnote cross-references (from [[Alma 32#^alma-32-6|Alma 32:6]])
+- [[Ether 12]] — 2 footnote cross-references (from [[Alma 32#^alma-32-18|Alma 32:18]])
+- [[Genesis 1]] — 2 footnote cross-references (from [[Alma 32#^alma-32-31|Alma 32:31]])
+- [[Matthew 13]] — 2 footnote cross-references (from [[Alma 32#^alma-32-39|Alma 32:39]])
 - [[Alma 5]] — 3 parallel verses, e.g. [[Alma 32#^alma-32-40|Alma 32:40]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[3 Nephi 27#^3ne-27-6|3 Nephi 27:6]]
 - [[2 Nephi 31]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]]

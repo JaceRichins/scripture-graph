@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 15
 slug: ezek-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 15]] · My notes: [[Ezekiel 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jerusalem, as a useless vine, will be burned.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[Ezekiel 15#^ezek-15-6|Ezekiel 15:6]])
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 20#^ezek-20-42|Ezekiel 20:42]]
 - [[Ezekiel 14]] — 1 parallel verse, e.g. [[Ezekiel 15#^ezek-15-7|Ezekiel 15:7]] ↔ [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]]
 <!-- SG:END related-scriptures -->

@@ -13,6 +13,9 @@ cssclasses:
 
 [[Isaiah 37|Plain text]] · [[Isaiah 37 - Study Guide|Study guide]] · [[Isaiah 37 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Hezekiah seeks counsel from Isaiah to save Jerusalem—Isaiah prophesies the defeat of the Assyrians and the death of Sennacherib—Hezekiah prays for deliverance—Sennacherib sends a blasphemous letter—Isaiah prophesies that the Assyrians will be destroyed and that a remnant of Judah will flourish—An angel slays 185,000 Assyrians—Sennacherib is slain by his sons.
+
 ![[Isaiah 37#^isa-37-1]]
 > [[Jeremiah 38#^jer-38-11|≈ Jeremiah 38:11]] · [[2 Kings 19#^2kgs-19-1|≈ 2 Kings 19:1]]
 
@@ -20,7 +23,7 @@ cssclasses:
 > [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[2 Kings 18#^2kgs-18-18|≈ 2 Kings 18:18]] · [[2 Kings 18#^2kgs-18-37|≈ 2 Kings 18:37]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[Isaiah 36#^isa-36-22|≈ Isaiah 36:22]]
 
 ![[Isaiah 37#^isa-37-3]]
-> [[2 Kings 19#^2kgs-19-3|≈ 2 Kings 19:3]]
+> [[Isaiah 22#^isa-22-5|Isa. 22:5]] · [[Hosea 13#^hosea-13-9|Hosea 13:13 (9–14)]] · [[2 Kings 19#^2kgs-19-3|≈ 2 Kings 19:3]]
 
 ![[Isaiah 37#^isa-37-4]]
 > [[2 Kings 19#^2kgs-19-4|≈ 2 Kings 19:4]]
@@ -29,7 +32,7 @@ cssclasses:
 > [[2 Kings 19#^2kgs-19-5|≈ 2 Kings 19:5]]
 
 ![[Isaiah 37#^isa-37-6]]
-> [[2 Kings 19#^2kgs-19-6|≈ 2 Kings 19:6]]
+> [[2 Kings 19#^2kgs-19-6|2 Kgs. 19:6 (6–37)]] · [[2 Kings 19#^2kgs-19-6|≈ 2 Kings 19:6]]
 
 ![[Isaiah 37#^isa-37-7]]
 > [[2 Kings 19#^2kgs-19-7|≈ 2 Kings 19:7]]
@@ -81,7 +84,7 @@ cssclasses:
 > [[2 Kings 19#^2kgs-19-22|≈ 2 Kings 19:22]]
 
 ![[Isaiah 37#^isa-37-24]]
-> [[2 Kings 19#^2kgs-19-23|≈ 2 Kings 19:23]]
+> [[Jeremiah 22#^jer-22-6|Jer. 22:7 (6–7)]] · [[2 Kings 19#^2kgs-19-23|≈ 2 Kings 19:23]]
 
 ![[Isaiah 37#^isa-37-25]]
 > [[2 Kings 19#^2kgs-19-24|≈ 2 Kings 19:24]]
@@ -108,16 +111,16 @@ cssclasses:
 > [[2 Kings 19#^2kgs-19-31|≈ 2 Kings 19:31]]
 
 ![[Isaiah 37#^isa-37-33]]
-> [[2 Kings 19#^2kgs-19-32|≈ 2 Kings 19:32]]
+> [[Luke 19#^luke-19-43|Luke 19:43]] · [[2 Kings 19#^2kgs-19-32|≈ 2 Kings 19:32]]
 
 ![[Isaiah 37#^isa-37-34]]
 > [[2 Kings 19#^2kgs-19-33|≈ 2 Kings 19:33]]
 
 ![[Isaiah 37#^isa-37-35]]
-> [[2 Kings 19#^2kgs-19-34|≈ 2 Kings 19:34]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]]
+> [[Isaiah 38#^isa-38-6|Isa. 38:6]] · [[2 Kings 19#^2kgs-19-34|≈ 2 Kings 19:34]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]]
 
 ![[Isaiah 37#^isa-37-36]]
-> [[2 Kings 19#^2kgs-19-35|≈ 2 Kings 19:35]]
+> [[2 Samuel 24#^2sam-24-16|JST 2 Sam. 24:16 (2 Sam. 24:16 note a)]] · [[Isaiah 10#^isa-10-34|Isa. 10:34]] · [[2 Kings 19#^2kgs-19-32|2 Kgs. 19:35 (32–37)]] · [[Isaiah 14#^isa-14-24|Isa. 14:25 (24–28)]] · [[Isaiah 30#^isa-30-31|30:31]] · [[Isaiah 31#^isa-31-7|31:8 (7–9)]] · [[2 Kings 19#^2kgs-19-35|≈ 2 Kings 19:35]]
 
 ![[Isaiah 37#^isa-37-37]]
 > [[2 Kings 19#^2kgs-19-36|≈ 2 Kings 19:36]]

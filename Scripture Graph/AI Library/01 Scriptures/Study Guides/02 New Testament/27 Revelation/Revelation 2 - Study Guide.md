@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 2]] · My notes: [[Revelation 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> He who overcomes will gain eternal life, avoid the second death, inherit the celestial kingdom, and rule many kingdoms.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 1]] — 5 footnote cross-references (from [[Revelation 2#^rev-2-5|Revelation 2:5]])
+- [[Revelation 22]] — 2 footnote cross-references (from [[Revelation 2#^rev-2-7|Revelation 2:7]])
+- [[1 Nephi 11]] — 2 footnote cross-references (from [[Revelation 2#^rev-2-26|Revelation 2:26]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-2|Revelation 2:2]])
+- [[D&C 4]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-4|Revelation 2:4]])
+- [[1 John 5]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-7|Revelation 2:7]])
 - [[Revelation 3]] — 22 parallel verses, e.g. [[Revelation 2#^rev-2-7|Revelation 2:7]] ↔ [[Revelation 3#^rev-3-6|Revelation 3:6]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 2#^rev-2-27|Revelation 2:27]] ↔ [[Revelation 19#^rev-19-15|Revelation 19:15]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -63,11 +63,11 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Gospel of Jesus Christ]]
-- [[Apostles]]
 - [[Freedom and Liberty]]
 - [[Law of Moses]]
 - [[Endurance]]
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Missionary Work]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

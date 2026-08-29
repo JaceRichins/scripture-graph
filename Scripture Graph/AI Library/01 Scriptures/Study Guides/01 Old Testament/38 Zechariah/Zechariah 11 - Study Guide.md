@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 11
 slug: zech-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 11]] · My notes: [[Zechariah 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zechariah speaks about the Messiah—The Messiah will be betrayed for thirty pieces of silver—They will be cast to the potter in the house of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 6]] — 1 parallel verse, e.g. [[Zechariah 11#^zech-11-6|Zechariah 11:6]] ↔ [[Jeremiah 6#^jer-6-12|Jeremiah 6:12]]
+- [[Nahum 2]] — 1 footnote cross-reference (from [[Zechariah 11#^zech-11-2|Zechariah 11:2]])
+- [[Ezekiel 27]] — 1 footnote cross-reference (from [[Zechariah 11#^zech-11-2|Zechariah 11:2]])
+- [[Luke 22]] — 1 footnote cross-reference (from [[Zechariah 11#^zech-11-12|Zechariah 11:12]])
+- [[Matthew 27]] — 1 footnote cross-reference (from [[Zechariah 11#^zech-11-13|Zechariah 11:13]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Zechariah 11#^zech-11-17|Zechariah 11:17]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

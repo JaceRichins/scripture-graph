@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 22
 slug: dc-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 22]] · My notes: [[D&C 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1, Baptism is a new and everlasting covenant; 2–4, Authoritative baptism is required.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 8]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-1|D&C 22:1]])
+- [[3 Nephi 9]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-1|D&C 22:1]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-1|D&C 22:1]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-1|D&C 22:1]])
+- [[Galatians 2]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-2|D&C 22:2]])
+- [[Moroni 8]] — 1 footnote cross-reference (from [[D&C 22#^dc-22-2|D&C 22:2]])
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 22#^dc-22-1|D&C 22:1]] ↔ [[D&C 49#^dc-49-9|D&C 49:9]]
 <!-- SG:END related-scriptures -->
 

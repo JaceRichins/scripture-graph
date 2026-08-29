@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 11
 slug: job-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 11]] · My notes: [[Job 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zophar asks, Canst thou by searching find out God?—Zophar says that the hope of the wicked will fade away as though it had died.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Job 11#^job-11-4|Job 11:4]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Job 11#^job-11-6|Job 11:6]])
+- [[Alma 38]] — 1 footnote cross-reference (from [[Job 11#^job-11-14|Job 11:14]])
+- [[Job 22]] — 1 footnote cross-reference (from [[Job 11#^job-11-15|Job 11:15]])
+- [[D&C 122]] — 1 footnote cross-reference (from [[Job 11#^job-11-20|Job 11:20]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

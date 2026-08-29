@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 143
 slug: ps-143
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 143]] · My notes: [[Psalm 143 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays for favor in judgment—He meditates on the Lord’s works and trusts in Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 25]] — 2 footnote cross-references (from [[Psalm 143#^ps-143-8|Psalm 143:8]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-1|Psalm 143:1]])
+- [[Psalm 42]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
+- [[Isaiah 55]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
+- [[John 4]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
+- [[John 7]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

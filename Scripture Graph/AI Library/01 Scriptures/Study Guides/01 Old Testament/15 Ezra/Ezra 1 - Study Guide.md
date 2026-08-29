@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 1
 slug: ezra-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 1]] · My notes: [[Ezra 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Cyrus of Persia lets the Jews go back to Jerusalem to build the temple—Cyrus returns the vessels of the house of the Lord taken by Nebuchadnezzar.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-1|Ezra 1:1]])
+- [[1 Nephi 7]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-1|Ezra 1:1]])
+- [[Helaman 8]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-1|Ezra 1:1]])
+- [[Daniel 6]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-1|Ezra 1:1]])
+- [[Ezra 3]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-2|Ezra 1:2]])
+- [[2 Chronicles 36]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-2|Ezra 1:2]])
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[Ezra 1#^ezra-1-1|Ezra 1:1]] ↔ [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 2
 slug: song-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 2]] · My notes: [[Song of Solomon 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Beloved ones are praised and described.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 8]] — 1 footnote cross-reference (from [[Song of Solomon 2#^song-2-12|Song of Solomon 2:12]])
 - [[Song of Solomon 3]] — 1 parallel verse, e.g. [[Song of Solomon 2#^song-2-7|Song of Solomon 2:7]] ↔ [[Song of Solomon 3#^song-3-5|Song of Solomon 3:5]]
 - [[Song of Solomon 8]] — 3 parallel verses, e.g. [[Song of Solomon 2#^song-2-7|Song of Solomon 2:7]] ↔ [[Song of Solomon 8#^song-8-4|Song of Solomon 8:4]]
 - [[Song of Solomon 4]] — 1 parallel verse, e.g. [[Song of Solomon 2#^song-2-17|Song of Solomon 2:17]] ↔ [[Song of Solomon 4#^song-4-6|Song of Solomon 4:6]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 5
 slug: mosiah-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 5]] · My notes: [[Mosiah 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints become the sons and daughters of Christ through faith—They are then called by the name of Christ—King Benjamin exhorts them to be steadfast and immovable in good works. About 124 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 5]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-2|Mosiah 5:2]])
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-5|Mosiah 5:5]])
+- [[Mosiah 15]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-7|Mosiah 5:7]])
+- [[Mosiah 4]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
+- [[Mosiah 1]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
+- [[Mosiah 26]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Mosiah 5#^mosiah-5-5|Mosiah 5:5]] ↔ [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]]
 <!-- SG:END related-scriptures -->
 

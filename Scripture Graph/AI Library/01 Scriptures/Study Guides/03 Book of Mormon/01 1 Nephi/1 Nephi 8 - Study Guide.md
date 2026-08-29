@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 8]] · My notes: [[1 Nephi 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi sees a vision of the tree of life—He partakes of its fruit and desires his family to do likewise—He sees a rod of iron, a strait and narrow path, and the mists of darkness that enshroud men—Sariah, Nephi, and Sam partake of the fruit, but Laman and Lemuel refuse. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 15]] — 7 footnote cross-references (from [[1 Nephi 8#^1ne-8-11|1 Nephi 8:11]])
+- [[1 Nephi 11]] — 4 footnote cross-references (from [[1 Nephi 8#^1ne-8-10|1 Nephi 8:10]])
+- [[Matthew 13]] — 3 footnote cross-references (from [[1 Nephi 8#^1ne-8-9|1 Nephi 8:9]])
+- [[1 Nephi 12]] — 3 footnote cross-references (from [[1 Nephi 8#^1ne-8-13|1 Nephi 8:13]])
+- [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]])
+- [[1 Nephi 10]] — 2 footnote cross-references (from [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]])
 - [[1 Nephi 10]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 1
 slug: od-1
-corpus_version_reviewed: 0
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Official Declaration 1]] · My notes: [[Official Declaration 1 - My
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Bible and the Book of Mormon teach that monogamy is God’s standard for marriage unless He declares otherwise (see 2 Samuel 12:7–8 and Jacob 2:27, 30). Following a revelation to Joseph Smith, the practice of plural marriage was instituted among Church members in the early 1840s (see section 132). From the 1860s to the 1880s, the United States government passed laws to make this religious practice illegal. These laws were eventually upheld by the U.S. Supreme Court. After receiving revelation, President Wilford Woodruff issued the following Manifesto, which was accepted by the Church as authoritative and binding on October 6, 1890. This led to the end of the practice of plural marriage in the Church.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -27,22 +28,31 @@ _Not yet developed._
 
 ## People
 <!-- SG:BEGIN people -->
-_Not yet developed._
+- [[Jesus Christ]] — 5 mentions
+- [[Wilford Woodruff]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Salt Lake Valley]] — 5 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Official Declaration 2]] — 9 parallel verses, e.g. [[Official Declaration 1#^od-1-3|Official Declaration 1:3]] ↔ [[Official Declaration 2#^od-2-11|Official Declaration 2:11]]
+- [[D&C 115]] — 6 parallel verses, e.g. [[Official Declaration 1#^od-1-3|Official Declaration 1:3]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
+- [[D&C 136]] — 3 parallel verses, e.g. [[Official Declaration 1#^od-1-9|Official Declaration 1:9]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
+- [[D&C 127]] — 3 parallel verses, e.g. [[Official Declaration 1#^od-1-3|Official Declaration 1:3]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
+- [[Joseph Smith—History 1]] — 3 parallel verses, e.g. [[Official Declaration 1#^od-1-3|Official Declaration 1:3]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
+- [[D&C 128]] — 3 parallel verses, e.g. [[Official Declaration 1#^od-1-9|Official Declaration 1:9]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Temples]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
+- [[Ordinances]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

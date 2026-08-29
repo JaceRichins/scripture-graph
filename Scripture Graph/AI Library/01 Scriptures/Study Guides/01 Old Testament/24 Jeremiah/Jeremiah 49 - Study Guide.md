@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 49
 slug: jer-49
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 49]] · My notes: [[Jeremiah 49 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judgment and destruction will come upon the people of Ammon, Edom, Kedar, Hazor, and Elam.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Obadiah 1]] — 5 footnote cross-references (from [[Jeremiah 49#^jer-49-7|Jeremiah 49:7]])
+- [[Ezekiel 25]] — 3 footnote cross-references (from [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]])
+- [[Ezekiel 21]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]])
+- [[Amos 1]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]])
+- [[Jeremiah 48]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-3|Jeremiah 49:3]])
+- [[Genesis 36]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-7|Jeremiah 49:7]])
 - [[Jeremiah 50]] — 5 parallel verses, e.g. [[Jeremiah 49#^jer-49-19|Jeremiah 49:19]] ↔ [[Jeremiah 50#^jer-50-44|Jeremiah 50:44]]
 - [[Jeremiah 30]] — 6 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
 - [[Obadiah 1]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-14|Jeremiah 49:14]] ↔ [[Obadiah 1#^obad-1-1|Obadiah 1:1]]

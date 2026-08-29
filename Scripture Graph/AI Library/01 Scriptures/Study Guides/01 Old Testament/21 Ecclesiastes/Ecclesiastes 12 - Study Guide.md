@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 12]] · My notes: [[Ecclesiastes 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 37]] — 1 footnote cross-reference (from [[Ecclesiastes 12#^eccl-12-1|Ecclesiastes 12:1]])
+- [[Ecclesiastes 11]] — 1 footnote cross-reference (from [[Ecclesiastes 12#^eccl-12-1|Ecclesiastes 12:1]])
+- [[Job 17]] — 1 footnote cross-reference (from [[Ecclesiastes 12#^eccl-12-5|Ecclesiastes 12:5]])
+- [[Alma 40]] — 1 footnote cross-reference (from [[Ecclesiastes 12#^eccl-12-5|Ecclesiastes 12:5]])
 - [[Jeremiah 42]] — 1 parallel verse, e.g. [[Ecclesiastes 12#^eccl-12-14|Ecclesiastes 12:14]] ↔ [[Jeremiah 42#^jer-42-6|Jeremiah 42:6]]
 <!-- SG:END related-scriptures -->
 

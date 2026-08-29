@@ -85,7 +85,7 @@ cssclasses:
 > [[Numbers 3#^num-3-50|≈ Numbers 3:50]] · [[Numbers 7#^num-7-13|≈ Numbers 7:13]] · [[Numbers 7#^num-7-19|≈ Numbers 7:19]] · [[Numbers 7#^num-7-25|≈ Numbers 7:25]] · [[Numbers 7#^num-7-31|≈ Numbers 7:31]] · [[Numbers 7#^num-7-37|≈ Numbers 7:37]]
 
 ![[Exodus 38#^ex-38-26]]
-> [[Exodus 30#^ex-30-13|Ex. 30:13]] · [[Matthew 17#^matt-17-24|Matt. 17:27 (24–27)]] · [[Numbers 2#^num-2-32|≈ Numbers 2:32]] · [[Exodus 30#^ex-30-13|≈ Exodus 30:13]]
+> [[Exodus 30#^ex-30-13|Ex. 30:13]] · [[Matthew 17#^matt-17-24|Matt. 17:27 (24–27)]] · [[Numbers 1#^num-1-46|≈ Numbers 1:46]] · [[Numbers 2#^num-2-32|≈ Numbers 2:32]] · [[Exodus 30#^ex-30-13|≈ Exodus 30:13]]
 
 ![[Exodus 38#^ex-38-27]]
 

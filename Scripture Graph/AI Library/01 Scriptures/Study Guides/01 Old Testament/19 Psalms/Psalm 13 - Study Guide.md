@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 13
 slug: ps-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 13]] · My notes: [[Psalm 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David trusts in the Lord’s mercy and rejoices in His salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 121]] — 1 footnote cross-reference (from [[Psalm 13#^ps-13-1|Psalm 13:1]])
+- [[Psalm 55]] — 1 footnote cross-reference (from [[Psalm 13#^ps-13-3|Psalm 13:3]])
+- [[1 Samuel 2]] — 1 footnote cross-reference (from [[Psalm 13#^ps-13-5|Psalm 13:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 11
 slug: 3ne-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 11]] · My notes: [[3 Nephi 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Father testifies of His Beloved Son—Christ appears and proclaims His Atonement—The people feel the wound marks in His hands and feet and side—They cry Hosanna—He sets forth the mode and manner of baptism—The spirit of contention is of the devil—Christ’s doctrine is that men should believe and be baptized and receive the Holy Ghost. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 9]] — 3 footnote cross-references (from [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]])
+- [[3 Nephi 18]] — 3 footnote cross-references (from [[3 Nephi 11#^3ne-11-15|3 Nephi 11:15]])
+- [[3 Nephi 12]] — 3 footnote cross-references (from [[3 Nephi 11#^3ne-11-22|3 Nephi 11:22]])
+- [[3 Nephi 8]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-1|3 Nephi 11:1]])
+- [[Ezekiel 1]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-3|3 Nephi 11:3]])
+- [[1 Nephi 12]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-8|3 Nephi 11:8]])
 - [[D&C 20]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-32|3 Nephi 11:32]] ↔ [[3 Nephi 28#^3ne-28-11|3 Nephi 28:11]]
 - [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]] ↔ [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 3
 slug: nahum-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nahum 3]] · My notes: [[Nahum 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The miserable downfall of Nineveh is foretold.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 46]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-8|Nahum 3:8]])
+- [[Ezekiel 30]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-8|Nahum 3:8]])
+- [[Genesis 10]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-9|Nahum 3:9]])
+- [[2 Chronicles 12]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-9|Nahum 3:9]])
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-10|Nahum 3:10]])
+- [[Jeremiah 51]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-13|Nahum 3:13]])
 - [[Nahum 2]] — 1 parallel verse, e.g. [[Nahum 3#^nahum-3-5|Nahum 3:5]] ↔ [[Nahum 2#^nahum-2-13|Nahum 2:13]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 41
 slug: isa-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 41]] · My notes: [[Isaiah 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> To Israel the Lord says, Ye are my servants; I will preserve you—Idols are nothing—One will bring good tidings to Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 43]] — 2 parallel verses, e.g. [[Isaiah 41#^isa-41-10|Isaiah 41:10]] ↔ [[Isaiah 43#^isa-43-5|Isaiah 43:5]]
+- [[Isaiah 40]] — 2 footnote cross-references (from [[Isaiah 41#^isa-41-1|Isaiah 41:1]])
+- [[Isaiah 43]] — 2 footnote cross-references (from [[Isaiah 41#^isa-41-10|Isaiah 41:10]])
+- [[Isaiah 44]] — 2 footnote cross-references (from [[Isaiah 41#^isa-41-10|Isaiah 41:10]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-1|Isaiah 41:1]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-2|Isaiah 41:2]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-2|Isaiah 41:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

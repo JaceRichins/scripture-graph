@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 2|Plain text]] · [[Mark 2 - Study Guide|Study guide]] · [[Mark 2 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus forgives sins, heals a paralytic, eats with tax gatherers and sinners, and announces that He is Lord of the Sabbath.
+
 ![[Mark 2#^mark-2-1]]
 
 ![[Mark 2#^mark-2-2]]
@@ -22,7 +25,7 @@ cssclasses:
 ![[Mark 2#^mark-2-4]]
 
 ![[Mark 2#^mark-2-5]]
-> [[Matthew 9#^matt-9-2|≈ Matthew 9:2]] · [[Luke 5#^luke-5-24|≈ Luke 5:24]]
+> [[Luke 7#^luke-7-48|Luke 7:48]] · [[James 5#^james-5-14|James 5:15 (14–15)]] · [[Matthew 9#^matt-9-2|≈ Matthew 9:2]] · [[Luke 5#^luke-5-24|≈ Luke 5:24]]
 
 ![[Mark 2#^mark-2-6]]
 
@@ -38,7 +41,7 @@ cssclasses:
 > [[Matthew 9#^matt-9-6|≈ Matthew 9:6]] · [[Luke 5#^luke-5-24|≈ Luke 5:24]]
 
 ![[Mark 2#^mark-2-11]]
-> [[Luke 5#^luke-5-24|≈ Luke 5:24]]
+> [[Alma 15#^alma-15-4|Alma 15:10 (4–11)]] · [[3 Nephi 9#^3ne-9-10|3 Ne. 9:13 (10–22)]] · [[3 Nephi 7#^3ne-7-22|3 Ne. 7:22]] · [[Luke 5#^luke-5-24|≈ Luke 5:24]]
 
 ![[Mark 2#^mark-2-12]]
 
@@ -50,15 +53,16 @@ cssclasses:
 ![[Mark 2#^mark-2-15]]
 
 ![[Mark 2#^mark-2-16]]
+> [[Luke 15#^luke-15-1|Luke 15:1 (1–2)]]
 
 ![[Mark 2#^mark-2-17]]
-> [[Matthew 9#^matt-9-13|≈ Matthew 9:13]] · [[Moroni 8#^moro-8-8|≈ Moroni 8:8]] · [[Luke 5#^luke-5-32|≈ Luke 5:32]] · [[Luke 5#^luke-5-31|≈ Luke 5:31]]
+> [[Moroni 8#^moro-8-8|Moro. 8:8 (8–27)]] · [[Matthew 9#^matt-9-13|≈ Matthew 9:13]] · [[Moroni 8#^moro-8-8|≈ Moroni 8:8]] · [[Luke 5#^luke-5-32|≈ Luke 5:32]] · [[Luke 5#^luke-5-31|≈ Luke 5:31]]
 
 ![[Mark 2#^mark-2-18]]
-> [[Luke 5#^luke-5-33|≈ Luke 5:33]]
+> [[Luke 5#^luke-5-33|Luke 5:33 (33–38)]] · [[Luke 5#^luke-5-33|≈ Luke 5:33]]
 
 ![[Mark 2#^mark-2-19]]
-> [[Matthew 9#^matt-9-15|≈ Matthew 9:15]] · [[Luke 5#^luke-5-34|≈ Luke 5:34]]
+> [[Luke 5#^luke-5-35|Luke 5:35]] · [[D&C 65#^dc-65-3|D&amp;C 65:3]] · [[Matthew 9#^matt-9-15|≈ Matthew 9:15]] · [[Luke 5#^luke-5-34|≈ Luke 5:34]]
 
 ![[Mark 2#^mark-2-20]]
 > [[Matthew 9#^matt-9-15|≈ Matthew 9:15]] · [[Luke 5#^luke-5-35|≈ Luke 5:35]]

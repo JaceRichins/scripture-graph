@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 38
 slug: jer-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 38]] · My notes: [[Jeremiah 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The rulers cast Jeremiah into a muddy dungeon—He is freed by Ebed-melech, an Ethiopian, and put in the court of the prison—Jeremiah counsels Zedekiah concerning the war.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 21]] — 2 footnote cross-references (from [[Jeremiah 38#^jer-38-1|Jeremiah 38:1]])
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[Jeremiah 38#^jer-38-1|Jeremiah 38:1]])
+- [[Jeremiah 34]] — 1 footnote cross-reference (from [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]])
+- [[Jeremiah 26]] — 1 footnote cross-reference (from [[Jeremiah 38#^jer-38-4|Jeremiah 38:4]])
+- [[Jeremiah 37]] — 1 footnote cross-reference (from [[Jeremiah 38#^jer-38-9|Jeremiah 38:9]])
 - [[Jeremiah 32]] — 9 parallel verses, e.g. [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 34]] — 8 parallel verses, e.g. [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]] ↔ [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]]
 - [[Jeremiah 21]] — 4 parallel verses, e.g. [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]] ↔ [[Jeremiah 21#^jer-21-9|Jeremiah 21:9]]

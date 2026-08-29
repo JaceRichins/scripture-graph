@@ -43,6 +43,8 @@ _Not yet developed._
 - [[John 14]]
 - [[John 6]]
 - [[Mosiah 3]]
+- [[3 Nephi 27]]
+- [[1 John 4]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

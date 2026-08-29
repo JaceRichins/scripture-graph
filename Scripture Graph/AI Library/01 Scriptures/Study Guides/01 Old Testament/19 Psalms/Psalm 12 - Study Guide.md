@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 12
 slug: ps-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 12]] · My notes: [[Psalm 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David decries flattering lips and proud tongues—He says, The words of the Lord are pure words.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[James 1]] — 1 footnote cross-reference (from [[Psalm 12#^ps-12-2|Psalm 12:2]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Psalm 12#^ps-12-6|Psalm 12:6]])
+- [[Psalm 18]] — 1 footnote cross-reference (from [[Psalm 12#^ps-12-6|Psalm 12:6]])
+- [[Psalm 19]] — 1 footnote cross-reference (from [[Psalm 12#^ps-12-6|Psalm 12:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

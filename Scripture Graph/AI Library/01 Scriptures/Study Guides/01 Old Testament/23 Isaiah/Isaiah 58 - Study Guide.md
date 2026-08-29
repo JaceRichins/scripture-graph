@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 58]] · My notes: [[Isaiah 58 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The true law of the fast, with its purposes and attendant blessings, is set forth—The commandment to keep the Sabbath is given.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 34]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-1|Isaiah 58:1]])
+- [[Alma 29]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-1|Isaiah 58:1]])
+- [[D&C 33]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-1|Isaiah 58:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-1|Isaiah 58:1]])
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-3|Isaiah 58:3]])
+- [[Alma 34]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-3|Isaiah 58:3]])
 - [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
 <!-- SG:END related-scriptures -->

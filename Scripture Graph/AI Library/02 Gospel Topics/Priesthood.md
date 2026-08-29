@@ -29,6 +29,7 @@ _Not yet developed._
 - [[Joseph Smith—History 1#^jsh-1-68|Joseph Smith—History 1:68-72]] — key passage
 - [[Moroni 3]] *(keyword match)*
 - [[D&C 107]]
+- [[Official Declaration 2]] *(keyword match)*
 - [[D&C 68]] *(keyword match)*
 - [[Alma 13]]
 - [[D&C 113]] *(keyword match)*
@@ -41,7 +42,6 @@ _Not yet developed._
 - [[D&C 78]] *(keyword match)*
 - [[D&C 121]]
 - [[Abraham 1]] *(keyword match)*
-- [[D&C 50]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

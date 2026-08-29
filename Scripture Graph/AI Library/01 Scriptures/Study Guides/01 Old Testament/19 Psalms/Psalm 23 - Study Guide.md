@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 23
 slug: ps-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 23]] · My notes: [[Psalm 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David declares, The Lord is my shepherd.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Zechariah 2]] — 2 parallel verses, e.g. [[Psalm 23#^ps-23-6|Psalm 23:6]] ↔ [[Zechariah 2#^zech-2-10|Zechariah 2:10]]
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-1|Psalm 23:1]])
+- [[Philippians 4]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-1|Psalm 23:1]])
+- [[1 Samuel 12]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-3|Psalm 23:3]])
+- [[Psalm 31]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-3|Psalm 23:3]])
+- [[Psalm 109]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-3|Psalm 23:3]])
+- [[1 John 2]] — 1 footnote cross-reference (from [[Psalm 23#^ps-23-3|Psalm 23:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

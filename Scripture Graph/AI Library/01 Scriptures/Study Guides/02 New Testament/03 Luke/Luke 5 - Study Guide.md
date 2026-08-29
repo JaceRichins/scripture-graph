@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 5
 slug: luke-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 5]] · My notes: [[Luke 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peter, the fisherman, is called to catch men—Jesus heals a leper—He forgives sins and heals a paralytic—Matthew is called—The sick need a physician—New wine must be put in new bottles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 2]] — 2 footnote cross-references (from [[Luke 5#^luke-5-33|Luke 5:33]])
+- [[Luke 14]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-11|Luke 5:11]])
+- [[Leviticus 14]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-14|Luke 5:14]])
+- [[Luke 4]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-16|Luke 5:16]])
+- [[Luke 6]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-16|Luke 5:16]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-21|Luke 5:21]])
 - [[Mark 2]] — 13 parallel verses, e.g. [[Luke 5#^luke-5-35|Luke 5:35]] ↔ [[Mark 2#^mark-2-20|Mark 2:20]]
 - [[Matthew 9]] — 9 parallel verses, e.g. [[Luke 5#^luke-5-35|Luke 5:35]] ↔ [[Matthew 9#^matt-9-15|Matthew 9:15]]
 - [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 5#^luke-5-13|Luke 5:13]] ↔ [[Matthew 8#^matt-8-3|Matthew 8:3]]

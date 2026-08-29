@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 16
 slug: dc-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 16]] · My notes: [[D&C 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–2, The Lord’s arm is over all the earth; 3–6, To preach the gospel and save souls is the thing of most worth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 15]] — 1 footnote cross-reference (from [[D&C 16#^dc-16-1|D&C 16:1]])
 - [[D&C 15]] — 8 parallel verses, e.g. [[D&C 16#^dc-16-6|D&C 16:6]] ↔ [[D&C 15#^dc-15-6|D&C 15:6]]
 <!-- SG:END related-scriptures -->
 

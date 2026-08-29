@@ -32,6 +32,7 @@ _Not yet developed._
 - [[Psalm 29]] *(keyword match)*
 - [[2 Thessalonians 2]] *(keyword match)*
 - [[D&C 77]] *(keyword match)*
+- [[Official Declaration 2]] *(keyword match)*
 - [[D&C 25]] *(keyword match)*
 - [[Jeremiah 42]] *(keyword match)*
 - [[1 Peter 1]] *(keyword match)*
@@ -43,7 +44,6 @@ _Not yet developed._
 - [[1 Nephi 16]] *(keyword match)*
 - [[1 Samuel 15]] *(keyword match)*
 - [[D&C 121]] *(keyword match)*
-- [[D&C 8]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

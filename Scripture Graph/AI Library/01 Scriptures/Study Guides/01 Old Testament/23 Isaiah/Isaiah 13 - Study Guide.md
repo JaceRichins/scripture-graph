@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 13
 slug: isa-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 13]] · My notes: [[Isaiah 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The destruction of Babylon is a type of the destruction at the Second Coming—It will be a day of wrath and vengeance—Babylon (the world) will fall forever—Compare 2 Nephi 23.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 14]] — 4 footnote cross-references (from [[Isaiah 13#^isa-13-1|Isaiah 13:1]])
+- [[Jeremiah 50]] — 3 footnote cross-references (from [[Isaiah 13#^isa-13-14|Isaiah 13:14]])
+- [[Isaiah 24]] — 2 footnote cross-references (from [[Isaiah 13#^isa-13-12|Isaiah 13:12]])
+- [[2 Nephi 23]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-1|Isaiah 13:1]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-1|Isaiah 13:1]])
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-2|Isaiah 13:2]])
 - [[2 Nephi 23]] — 22 parallel verses, e.g. [[Isaiah 13#^isa-13-10|Isaiah 13:10]] ↔ [[2 Nephi 23#^2ne-23-10|2 Nephi 23:10]]
 - [[Jeremiah 50]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-20|Isaiah 13:20]] ↔ [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]]
 - [[Haggai 2]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-13|Isaiah 13:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]

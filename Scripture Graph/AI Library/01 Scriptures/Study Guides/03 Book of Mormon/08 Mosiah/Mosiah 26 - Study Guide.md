@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 26
 slug: mosiah-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 26]] · My notes: [[Mosiah 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many members of the Church are led into sin by unbelievers—Alma is promised eternal life—Those who repent and are baptized gain forgiveness—Church members in sin who repent and confess to Alma and to the Lord will be forgiven; otherwise, they will not be numbered among the people of the Church. About 120–100 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 25]] — 2 footnote cross-references (from [[Mosiah 26#^mosiah-26-4|Mosiah 26:4]])
+- [[Mosiah 29]] — 2 footnote cross-references (from [[Mosiah 26#^mosiah-26-7|Mosiah 26:7]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Mosiah 26#^mosiah-26-22|Mosiah 26:22]])
+- [[Alma 1]] — 2 footnote cross-references (from [[Mosiah 26#^mosiah-26-32|Mosiah 26:32]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Mosiah 26#^mosiah-26-4|Mosiah 26:4]])
 - [[Alma 4]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]] ↔ [[Alma 4#^alma-4-9|Alma 4:9]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]] ↔ [[Alma 46#^alma-46-14|Alma 46:14]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-36|Mosiah 26:36]] ↔ [[Moroni 6#^moro-6-7|Moroni 6:7]]

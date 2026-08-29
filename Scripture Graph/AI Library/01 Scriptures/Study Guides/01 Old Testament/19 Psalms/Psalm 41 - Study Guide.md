@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 41
 slug: ps-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 41]] · My notes: [[Psalm 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—Blessed is he who considers the poor—The treachery of Judas is foretold.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 106]] — 1 parallel verse, e.g. [[Psalm 41#^ps-41-13|Psalm 41:13]] ↔ [[Psalm 106#^ps-106-48|Psalm 106:48]]
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-2|Psalm 41:2]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-4|Psalm 41:4]])
+- [[D&C 61]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-4|Psalm 41:4]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-9|Psalm 41:9]])
+- [[Psalm 72]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-13|Psalm 41:13]])
+- [[Alma 26]] — 1 footnote cross-reference (from [[Psalm 41#^ps-41-13|Psalm 41:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

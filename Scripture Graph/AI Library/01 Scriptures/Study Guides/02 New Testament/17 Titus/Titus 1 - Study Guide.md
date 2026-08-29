@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Titus 1]] · My notes: [[Titus 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 15]] — 2 footnote cross-references (from [[Titus 1#^titus-1-14|Titus 1:14]])
+- [[2 Timothy 1]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-2|Titus 1:2]])
+- [[Abraham 3]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-2|Titus 1:2]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-9|Titus 1:9]])
+- [[1 Timothy 6]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-11|Titus 1:11]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-11|Titus 1:11]])
 - [[1 Timothy 3]] — 2 parallel verses, e.g. [[Titus 1#^titus-1-6|Titus 1:6]] ↔ [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]]
 - [[Ephesians 6]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[Ephesians 6#^eph-6-23|Ephesians 6:23]]
 - [[2 Timothy 1]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]]

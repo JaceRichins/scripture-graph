@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 34|Plain text]] · [[Job 34 - Study Guide|Study guide]] · [[Job 34 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Elihu teaches, God cannot be unjust, commit iniquity, pervert judgment, or respect persons—Man should bear chastisement and do iniquity no more.
+
 ![[Job 34#^job-34-1]]
 
 ![[Job 34#^job-34-2]]
@@ -34,8 +37,10 @@ cssclasses:
 ![[Job 34#^job-34-10]]
 
 ![[Job 34#^job-34-11]]
+> [[2 Nephi 25#^2ne-25-23|2 Ne. 25:23]] · [[Alma 9#^alma-9-28|Alma 9:28]] · [[D&C 1#^dc-1-10|D&amp;C 1:10]] · [[D&C 6#^dc-6-33|6:33]]
 
 ![[Job 34#^job-34-12]]
+> [[Psalm 19#^ps-19-9|Ps. 19:9]] · [[2 Nephi 9#^2ne-9-15|2 Ne. 9:15]] · [[2 Nephi 30#^2ne-30-9|30:9]]
 
 ![[Job 34#^job-34-13]]
 
@@ -56,6 +61,7 @@ cssclasses:
 ![[Job 34#^job-34-21]]
 
 ![[Job 34#^job-34-22]]
+> [[Alma 12#^alma-12-14|Alma 12:14 (14–15)]] · [[D&C 1#^dc-1-2|D&amp;C 1:2]]
 
 ![[Job 34#^job-34-23]]
 

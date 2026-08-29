@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 4
 slug: morm-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 4]] · My notes: [[Mormon 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> War and carnage continue—The wicked punish the wicked—Greater wickedness prevails than ever before in all Israel—Women and children are sacrificed to idols—The Lamanites begin to sweep the Nephites before them. About A.D. 363–75.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 3]] — 6 footnote cross-references (from [[Mormon 4#^morm-4-2|Mormon 4:2]])
+- [[Mormon 1]] — 2 footnote cross-references (from [[Mormon 4#^morm-4-1|Mormon 4:1]])
+- [[2 Nephi 1]] — 1 footnote cross-reference (from [[Mormon 4#^morm-4-1|Mormon 4:1]])
+- [[3 Nephi 3]] — 1 footnote cross-reference (from [[Mormon 4#^morm-4-2|Mormon 4:2]])
+- [[Nahum 1]] — 1 footnote cross-reference (from [[Mormon 4#^morm-4-5|Mormon 4:5]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Mormon 4#^morm-4-5|Mormon 4:5]])
 - [[Mormon 3]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
 - [[Mormon 2]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
 - [[Mormon 5]] — 3 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 5#^morm-5-6|Mormon 5:6]]

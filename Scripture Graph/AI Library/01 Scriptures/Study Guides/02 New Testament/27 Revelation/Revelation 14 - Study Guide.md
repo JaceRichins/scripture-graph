@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 14
 slug: rev-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 14]] · My notes: [[Revelation 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamb will stand upon Mount Zion—The gospel will be restored in the last days by angelic ministry—The Son of Man will harvest the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 5 footnote cross-references (from [[Revelation 14#^rev-14-7|Revelation 14:7]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Revelation 14#^rev-14-1|Revelation 14:1]])
+- [[Revelation 3]] — 1 footnote cross-reference (from [[Revelation 14#^rev-14-1|Revelation 14:1]])
+- [[Revelation 22]] — 1 footnote cross-reference (from [[Revelation 14#^rev-14-1|Revelation 14:1]])
+- [[Jude 1]] — 1 footnote cross-reference (from [[Revelation 14#^rev-14-4|Revelation 14:4]])
+- [[D&C 43]] — 1 footnote cross-reference (from [[Revelation 14#^rev-14-4|Revelation 14:4]])
 - [[D&C 133]] — 6 parallel verses, e.g. [[Revelation 14#^rev-14-7|Revelation 14:7]] ↔ [[D&C 133#^dc-133-38|D&C 133:38]]
 - [[D&C 88]] — 5 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]

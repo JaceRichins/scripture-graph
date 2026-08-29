@@ -13,7 +13,11 @@ cssclasses:
 
 [[Psalm 3|Plain text]] · [[Psalm 3 - Study Guide|Study guide]] · [[Psalm 3 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David cries unto the Lord and is heard—Salvation is of the Lord.
+
 ![[Psalm 3#^ps-3-1]]
+> [[2 Samuel 15#^2sam-15-14|2 Sam. 15:14]] · [[2 Samuel 17#^2sam-17-27|17:27 (27–29)]]
 
 ![[Psalm 3#^ps-3-2]]
 

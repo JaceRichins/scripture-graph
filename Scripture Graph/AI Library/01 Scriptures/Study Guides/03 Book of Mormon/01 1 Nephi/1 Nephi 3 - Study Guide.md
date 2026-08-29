@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 3
 slug: 1ne-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 3]] · My notes: [[1 Nephi 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi’s sons return to Jerusalem to obtain the plates of brass—Laban refuses to give the plates up—Nephi exhorts and encourages his brethren—Laban steals their property and attempts to slay them—Laman and Lemuel smite Nephi and Sam and are reproved by an angel. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 2]] — 6 footnote cross-references (from [[1 Nephi 3#^1ne-3-1|1 Nephi 3:1]])
+- [[1 Nephi 4]] — 5 footnote cross-references (from [[1 Nephi 3#^1ne-3-16|1 Nephi 3:16]])
+- [[1 Nephi 7]] — 3 footnote cross-references (from [[1 Nephi 3#^1ne-3-2|1 Nephi 3:2]])
+- [[1 Nephi 5]] — 3 footnote cross-references (from [[1 Nephi 3#^1ne-3-3|1 Nephi 3:3]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[1 Nephi 3#^1ne-3-7|1 Nephi 3:7]])
+- [[1 Nephi 16]] — 2 footnote cross-references (from [[1 Nephi 3#^1ne-3-18|1 Nephi 3:18]])
 - [[1 Nephi 5]] — 4 parallel verses, e.g. [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]] ↔ [[1 Nephi 5#^1ne-5-10|1 Nephi 5:10]]
 - [[1 Nephi 4]] — 3 parallel verses, e.g. [[1 Nephi 3#^1ne-3-16|1 Nephi 3:16]] ↔ [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]] ↔ [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]]

@@ -13,7 +13,11 @@ cssclasses:
 
 [[Song of Solomon 1|Plain text]] · [[Song of Solomon 1 - Study Guide|Study guide]] · [[Song of Solomon 1 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The poet sings of love and devotion.
+
 ![[Song of Solomon 1#^song-1-1]]
+> [[1 Kings 4#^1kgs-4-32|1 Kgs. 4:32]]
 
 ![[Song of Solomon 1#^song-1-2]]
 
@@ -36,6 +40,7 @@ cssclasses:
 ![[Song of Solomon 1#^song-1-11]]
 
 ![[Song of Solomon 1#^song-1-12]]
+> [[Song of Solomon 4#^song-4-13|Song 4:13 (13–14)]]
 
 ![[Song of Solomon 1#^song-1-13]]
 

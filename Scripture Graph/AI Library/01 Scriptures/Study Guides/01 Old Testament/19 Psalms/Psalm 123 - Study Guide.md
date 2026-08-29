@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 123
 slug: ps-123
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 123]] · My notes: [[Psalm 123 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lift up your eyes unto the Lord, and plead with Him for mercy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 121]] — 1 footnote cross-reference (from [[Psalm 123#^ps-123-1|Psalm 123:1]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Psalm 123#^ps-123-1|Psalm 123:1]])
+- [[Nehemiah 2]] — 1 footnote cross-reference (from [[Psalm 123#^ps-123-4|Psalm 123:4]])
+- [[Amos 6]] — 1 footnote cross-reference (from [[Psalm 123#^ps-123-4|Psalm 123:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

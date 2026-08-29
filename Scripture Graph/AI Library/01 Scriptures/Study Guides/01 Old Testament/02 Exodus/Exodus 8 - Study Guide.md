@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 8
 slug: ex-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 8]] · My notes: [[Exodus 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord sends plagues of frogs, lice, and flies upon Egypt—Pharaoh hardens his heart.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 105]] — 2 footnote cross-references (from [[Exodus 8#^ex-8-6|Exodus 8:6]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-1|Exodus 8:1]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
+- [[2 Samuel 7]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
+- [[Jeremiah 10]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
 - [[Exodus 9]] — 10 parallel verses, e.g. [[Exodus 8#^ex-8-20|Exodus 8:20]] ↔ [[Exodus 9#^ex-9-13|Exodus 9:13]]
 - [[Exodus 7]] — 8 parallel verses, e.g. [[Exodus 8#^ex-8-19|Exodus 8:19]] ↔ [[Exodus 7#^ex-7-13|Exodus 7:13]]
 - [[Exodus 10]] — 5 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]

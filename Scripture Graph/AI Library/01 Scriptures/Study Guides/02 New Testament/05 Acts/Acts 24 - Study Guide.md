@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 24
 slug: acts-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 24]] · My notes: [[Acts 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul is accused of sedition—He answers in defense of his life and doctrine—He teaches Felix of righteousness, temperance, and the judgment to come.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 23]] — 3 footnote cross-references (from [[Acts 24#^acts-24-1|Acts 24:1]])
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 24#^acts-24-6|Acts 24:6]])
+- [[Acts 28]] — 1 footnote cross-reference (from [[Acts 24#^acts-24-14|Acts 24:14]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[Acts 24#^acts-24-17|Acts 24:17]])
 - [[Acts 23]] — 1 parallel verse, e.g. [[Acts 24#^acts-24-21|Acts 24:21]] ↔ [[Acts 23#^acts-23-6|Acts 23:6]]
 <!-- SG:END related-scriptures -->
 

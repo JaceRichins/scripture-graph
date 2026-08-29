@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 9
 slug: 2kgs-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 9]] · My notes: [[2 Kings 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A prophet anoints Jehu king over Israel and prophesies the destruction of the house of Ahab and the death of Jezebel—Jehu kills Joram in the field of Naboth—Jezebel is killed by Jehu and is eaten by dogs.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 16]] — 3 footnote cross-references (from [[2 Kings 9#^2kgs-9-9|2 Kings 9:9]])
+- [[2 Chronicles 22]] — 2 footnote cross-references (from [[2 Kings 9#^2kgs-9-6|2 Kings 9:6]])
+- [[2 Kings 10]] — 2 footnote cross-references (from [[2 Kings 9#^2kgs-9-7|2 Kings 9:7]])
+- [[1 Kings 21]] — 2 footnote cross-references (from [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]])
+- [[1 Kings 18]] — 1 footnote cross-reference (from [[2 Kings 9#^2kgs-9-7|2 Kings 9:7]])
+- [[1 Kings 14]] — 1 footnote cross-reference (from [[2 Kings 9#^2kgs-9-9|2 Kings 9:9]])
 - [[1 Kings 21]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]] ↔ [[1 Kings 21#^1kgs-21-21|1 Kings 21:21]]
 - [[2 Kings 8]] — 4 parallel verses, e.g. [[2 Kings 9#^2kgs-9-15|2 Kings 9:15]] ↔ [[2 Kings 8#^2kgs-8-29|2 Kings 8:29]]
 - [[1 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]] ↔ [[1 Kings 14#^1kgs-14-10|1 Kings 14:10]]

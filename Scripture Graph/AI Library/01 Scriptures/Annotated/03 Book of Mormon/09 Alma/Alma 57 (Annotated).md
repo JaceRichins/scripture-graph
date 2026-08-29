@@ -13,6 +13,9 @@ cssclasses:
 
 [[Alma 57|Plain text]] · [[Alma 57 - Study Guide|Study guide]] · [[Alma 57 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Helaman recounts the taking of Antiparah and the surrender and later the defense of Cumeni—His Ammonite striplings fight valiantly; all are wounded, but none are slain—Gid reports the slaying and the escape of the Lamanite prisoners. About 63 B.C.
+
 ![[Alma 57#^alma-57-1]]
 
 ![[Alma 57#^alma-57-2]]
@@ -25,9 +28,10 @@ cssclasses:
 > [[Alma 53#^alma-53-23|≈ Alma 53:23]]
 
 ![[Alma 57#^alma-57-6]]
-> [[Alma 30#^alma-30-5|≈ Alma 30:5]] · [[Alma 50#^alma-50-25|≈ Alma 50:25]] · [[Alma 50#^alma-50-17|≈ Alma 50:17]] · [[3 Nephi 1#^3ne-1-4|≈ 3 Nephi 1:4]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]]
+> [[Alma 53#^alma-53-16|Alma 53:16]] · [[Alma 30#^alma-30-5|≈ Alma 30:5]] · [[Alma 50#^alma-50-25|≈ Alma 50:25]] · [[Alma 50#^alma-50-17|≈ Alma 50:17]] · [[3 Nephi 1#^3ne-1-4|≈ 3 Nephi 1:4]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]]
 
 ![[Alma 57#^alma-57-7]]
+> [[Alma 56#^alma-56-14|Alma 56:14]]
 
 ![[Alma 57#^alma-57-8]]
 > [[Helaman 9#^hel-9-25|≈ Helaman 9:25]]
@@ -37,7 +41,7 @@ cssclasses:
 ![[Alma 57#^alma-57-10]]
 
 ![[Alma 57#^alma-57-11]]
-> [[Alma 58#^alma-58-3|≈ Alma 58:3]]
+> [[Alma 56#^alma-56-9|Alma 56:9]] · [[Alma 58#^alma-58-3|≈ Alma 58:3]]
 
 ![[Alma 57#^alma-57-12]]
 
@@ -56,10 +60,12 @@ cssclasses:
 ![[Alma 57#^alma-57-18]]
 
 ![[Alma 57#^alma-57-19]]
+> [[Alma 62#^alma-62-11|Alma 62:11]]
 
 ![[Alma 57#^alma-57-20]]
 
 ![[Alma 57#^alma-57-21]]
+> [[Alma 56#^alma-56-47|Alma 56:47 (47–48)]]
 
 ![[Alma 57#^alma-57-22]]
 
@@ -69,10 +75,13 @@ cssclasses:
 > [[Alma 53#^alma-53-3|≈ Alma 53:3]]
 
 ![[Alma 57#^alma-57-25]]
+> [[Alma 56#^alma-56-56|Alma 56:56]]
 
 ![[Alma 57#^alma-57-26]]
+> [[1 Chronicles 5#^1chr-5-18|1 Chr. 5:20 (18–22)]]
 
 ![[Alma 57#^alma-57-27]]
+> [[Alma 58#^alma-58-40|Alma 58:40]] · [[Jacob 3#^jacob-3-2|Jacob 3:2]]
 
 ![[Alma 57#^alma-57-28]]
 > [[Alma 27#^alma-27-5|≈ Alma 27:5]] · [[Alma 53#^alma-53-3|≈ Alma 53:3]]
@@ -94,3 +103,4 @@ cssclasses:
 > [[Alma 58#^alma-58-10|≈ Alma 58:10]] · [[Alma 58#^alma-58-37|≈ Alma 58:37]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]]
 
 ![[Alma 57#^alma-57-36]]
+> [[Alma 12#^alma-12-34|Alma 12:34]]

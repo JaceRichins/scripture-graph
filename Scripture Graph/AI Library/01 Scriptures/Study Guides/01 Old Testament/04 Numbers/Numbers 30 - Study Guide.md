@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 30
 slug: num-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 30]] · My notes: [[Numbers 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Vows and oaths must be kept—Fathers may disallow vows of daughters, and husbands may disallow vows of wives.
 <!-- SG:END overview -->
 
 ## Structure & Setting

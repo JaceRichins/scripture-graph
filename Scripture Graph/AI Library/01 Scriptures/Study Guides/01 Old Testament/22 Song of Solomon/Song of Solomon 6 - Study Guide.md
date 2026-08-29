@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 6
 slug: song-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 6]] · My notes: [[Song of Solomon 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The song of love continues.
 <!-- SG:END overview -->
 
 ## Structure & Setting

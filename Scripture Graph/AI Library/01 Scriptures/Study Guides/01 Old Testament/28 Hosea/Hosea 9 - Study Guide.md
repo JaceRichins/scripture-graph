@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 9
 slug: hosea-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 9]] · My notes: [[Hosea 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Israel are taken into captivity for their sins—Ephraim will be a wanderer among the nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 30]] — 2 parallel verses, e.g. [[Hosea 9#^hosea-9-7|Hosea 9:7]] ↔ [[Jeremiah 30#^jer-30-14|Jeremiah 30:14]]
-- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Hosea 9#^hosea-9-5|Hosea 9:5]] ↔ [[Ezekiel 46#^ezek-46-1|Ezekiel 46:1]]
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-1|Hosea 9:1]])
+- [[Hosea 5]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-1|Hosea 9:1]])
+- [[Jeremiah 2]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-3|Hosea 9:3]])
+- [[Hosea 8]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-3|Hosea 9:3]])
+- [[Ezekiel 4]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-3|Hosea 9:3]])
+- [[Daniel 1]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-3|Hosea 9:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

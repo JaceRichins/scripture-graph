@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 20
 slug: job-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 20]] · My notes: [[Job 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zophar shows the condition of the wicked—He says, The triumphing of the wicked is short, and the joy of the hypocrite is but for a moment.
 <!-- SG:END overview -->
 
 ## Structure & Setting

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 37]] · My notes: [[Alma 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The plates of brass and other scriptures are preserved to bring souls to salvation—The Jaredites were destroyed because of their wickedness—Their secret oaths and covenants must be kept from the people—Counsel with the Lord in all your doings—As the Liahona guided the Nephites, so the word of Christ leads men to eternal life. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 16]] — 5 footnote cross-references (from [[Alma 37#^alma-37-6|Alma 37:6]])
+- [[Alma 63]] — 4 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
+- [[Mosiah 28]] — 3 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
+- [[Mosiah 1]] — 3 footnote cross-references (from [[Alma 37#^alma-37-8|Alma 37:8]])
+- [[Alma 45]] — 2 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
+- [[Alma 50]] — 2 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
 - [[Jarom 1]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Alma 38]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]

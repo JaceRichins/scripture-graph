@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 18
 slug: isa-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 18]] · My notes: [[Isaiah 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord will raise the gospel ensign, send messengers to His scattered people, and gather them to Mount Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Samuel 17]] — 2 parallel verses, e.g. [[Isaiah 18#^isa-18-7|Isaiah 18:7]] ↔ [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]]
-- [[Jeremiah 34]] — 1 parallel verse, e.g. [[Isaiah 18#^isa-18-6|Isaiah 18:6]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
-- [[2 Samuel 6]] — 2 parallel verses, e.g. [[Isaiah 18#^isa-18-7|Isaiah 18:7]] ↔ [[2 Samuel 6#^2sam-6-2|2 Samuel 6:2]]
+- [[Zephaniah 3]] — 1 footnote cross-reference (from [[Isaiah 18#^isa-18-1|Isaiah 18:1]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Isaiah 18#^isa-18-6|Isaiah 18:6]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Isaiah 18#^isa-18-7|Isaiah 18:7]])
+- [[3 Nephi 20]] — 1 footnote cross-reference (from [[Isaiah 18#^isa-18-7|Isaiah 18:7]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Isaiah 18#^isa-18-7|Isaiah 18:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

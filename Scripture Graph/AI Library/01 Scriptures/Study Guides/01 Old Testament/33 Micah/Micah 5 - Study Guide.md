@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 5
 slug: micah-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 5]] · My notes: [[Micah 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Messiah will be born in Bethlehem—In the last days, the remnant of Jacob will triumph gloriously over the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 16]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
+- [[Luke 2]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
+- [[John 7]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
+- [[Hebrews 7]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
+- [[1 Chronicles 5]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
 - [[3 Nephi 21]] — 8 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
 - [[Zechariah 13]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]

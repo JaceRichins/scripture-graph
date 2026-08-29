@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 9]] · My notes: [[Acts 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus appears to Saul—Saul is a chosen vessel—Ananias restores Saul’s sight—Saul is baptized and begins his ministry—Peter heals Æneas and raises Dorcas from death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 26]] — 5 footnote cross-references (from [[Acts 9#^acts-9-1|Acts 9:1]])
+- [[Acts 22]] — 5 footnote cross-references (from [[Acts 9#^acts-9-2|Acts 9:2]])
+- [[Galatians 1]] — 2 footnote cross-references (from [[Acts 9#^acts-9-21|Acts 9:21]])
+- [[Ezekiel 1]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
+- [[Ether 3]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
 - [[Acts 26]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-5|Acts 9:5]] ↔ [[Acts 26#^acts-26-14|Acts 26:14]]
 <!-- SG:END related-scriptures -->
 

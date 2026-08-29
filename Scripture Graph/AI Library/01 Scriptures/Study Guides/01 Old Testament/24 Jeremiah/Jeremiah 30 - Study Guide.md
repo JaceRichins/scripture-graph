@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 30
 slug: jer-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 30]] · My notes: [[Jeremiah 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Judah and Israel will be gathered to their own lands—David, their king (the Messiah), will reign over them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 101]] — 3 footnote cross-references (from [[Jeremiah 30#^jer-30-11|Jeremiah 30:11]])
+- [[Lamentations 1]] — 3 footnote cross-references (from [[Jeremiah 30#^jer-30-14|Jeremiah 30:14]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Jeremiah 30#^jer-30-7|Jeremiah 30:7]])
+- [[Malachi 4]] — 1 footnote cross-reference (from [[Jeremiah 30#^jer-30-7|Jeremiah 30:7]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Jeremiah 30#^jer-30-9|Jeremiah 30:9]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Jeremiah 30#^jer-30-9|Jeremiah 30:9]])
 - [[Jeremiah 49]] — 6 parallel verses, e.g. [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-24|Jeremiah 30:24]] ↔ [[Jeremiah 23#^jer-23-20|Jeremiah 23:20]]
 - [[Jeremiah 46]] — 2 parallel verses, e.g. [[Jeremiah 30#^jer-30-10|Jeremiah 30:10]] ↔ [[Jeremiah 46#^jer-46-27|Jeremiah 46:27]]

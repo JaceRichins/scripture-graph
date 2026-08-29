@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 19
 slug: 1chr-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 19]] · My notes: [[1 Chronicles 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Ammonites insult David’s messengers and plan war against Israel—David defeats the Ammonites and the Syrians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 10]] — 1 footnote cross-reference (from [[1 Chronicles 19#^1chr-19-1|1 Chronicles 19:1]])
+- [[Joshua 13]] — 1 footnote cross-reference (from [[1 Chronicles 19#^1chr-19-7|1 Chronicles 19:7]])
 - [[2 Samuel 10]] — 20 parallel verses, e.g. [[1 Chronicles 19#^1chr-19-12|1 Chronicles 19:12]] ↔ [[2 Samuel 10#^2sam-10-11|2 Samuel 10:11]]
 - [[Judges 11]] — 5 parallel verses, e.g. [[1 Chronicles 19#^1chr-19-1|1 Chronicles 19:1]] ↔ [[Judges 11#^judg-11-12|Judges 11:12]]
 - [[Deuteronomy 2]] — 2 parallel verses, e.g. [[1 Chronicles 19#^1chr-19-2|1 Chronicles 19:2]] ↔ [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]]

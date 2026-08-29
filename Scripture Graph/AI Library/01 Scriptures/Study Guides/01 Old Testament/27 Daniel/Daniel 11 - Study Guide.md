@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 11
 slug: dan-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 11]] · My notes: [[Daniel 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Daniel sees the successive kings and their wars, leagues, and conflicts that lead up to the Second Coming of Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Daniel 8]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-40|Daniel 11:40]] ↔ [[Daniel 8#^dan-8-17|Daniel 8:17]]
-- [[Mosiah 11]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-38|Daniel 11:38]] ↔ [[Mosiah 11#^mosiah-11-9|Mosiah 11:9]]
-- [[Ezekiel 6]] — 2 parallel verses, e.g. [[Daniel 11#^dan-11-33|Daniel 11:33]] ↔ [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]]
+- [[Daniel 8]] — 7 footnote cross-references (from [[Daniel 11#^dan-11-2|Daniel 11:2]])
+- [[Daniel 9]] — 2 footnote cross-references (from [[Daniel 11#^dan-11-1|Daniel 11:1]])
+- [[Daniel 5]] — 1 footnote cross-reference (from [[Daniel 11#^dan-11-1|Daniel 11:1]])
+- [[Daniel 7]] — 1 footnote cross-reference (from [[Daniel 11#^dan-11-4|Daniel 11:4]])
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[Daniel 11#^dan-11-4|Daniel 11:4]])
+- [[Revelation 7]] — 1 footnote cross-reference (from [[Daniel 11#^dan-11-4|Daniel 11:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

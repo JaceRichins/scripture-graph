@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 12
 slug: mosiah-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 12]] · My notes: [[Mosiah 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abinadi is imprisoned for prophesying the destruction of the people and the death of King Noah—The false priests quote the scriptures and pretend to keep the law of Moses—Abinadi begins to teach them the Ten Commandments. About 148 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 13]] — 5 footnote cross-references (from [[Mosiah 12#^mosiah-12-20|Mosiah 12:20]])
+- [[Mosiah 11]] — 4 footnote cross-references (from [[Mosiah 12#^mosiah-12-2|Mosiah 12:2]])
+- [[Mosiah 21]] — 3 footnote cross-references (from [[Mosiah 12#^mosiah-12-2|Mosiah 12:2]])
+- [[Amos 7]] — 2 footnote cross-references (from [[Mosiah 12#^mosiah-12-3|Mosiah 12:3]])
+- [[Mosiah 7]] — 2 footnote cross-references (from [[Mosiah 12#^mosiah-12-6|Mosiah 12:6]])
+- [[Mosiah 15]] — 2 footnote cross-references (from [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]])
 - [[Isaiah 52]] — 4 parallel verses, e.g. [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]] ↔ [[Isaiah 52#^isa-52-7|Isaiah 52:7]]
 - [[Mosiah 15]] — 6 parallel verses, e.g. [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[Mosiah 12#^mosiah-12-22|Mosiah 12:22]] ↔ [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]]

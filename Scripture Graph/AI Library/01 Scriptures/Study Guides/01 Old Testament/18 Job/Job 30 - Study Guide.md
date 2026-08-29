@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 30
 slug: job-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 30]] · My notes: [[Job 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job is derided by the children of vile and base men—In his afflicted state, he cries to the Lord—Job says that he wept for those in trouble.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 69]] — 1 footnote cross-reference (from [[Job 30#^job-30-9|Job 30:9]])
+- [[Jeremiah 8]] — 1 footnote cross-reference (from [[Job 30#^job-30-26|Job 30:26]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

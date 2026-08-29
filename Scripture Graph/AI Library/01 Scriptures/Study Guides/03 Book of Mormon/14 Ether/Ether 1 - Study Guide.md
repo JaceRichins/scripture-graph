@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 1
 slug: ether-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 1]] · My notes: [[Ether 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni abridges the writings of Ether—Ether’s genealogy is set forth—The language of the Jaredites is not confounded at the Tower of Babel—The Lord promises to lead them to a choice land and make them a great nation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 15]] — 4 footnote cross-references (from [[Ether 1#^ether-1-2|Ether 1:2]])
+- [[Ether 6]] — 4 footnote cross-references (from [[Ether 1#^ether-1-32|Ether 1:32]])
+- [[Ether 2]] — 4 footnote cross-references (from [[Ether 1#^ether-1-34|Ether 1:34]])
+- [[Mosiah 28]] — 3 footnote cross-references (from [[Ether 1#^ether-1-1|Ether 1:1]])
+- [[Ether 3]] — 3 footnote cross-references (from [[Ether 1#^ether-1-5|Ether 1:5]])
+- [[Genesis 11]] — 2 footnote cross-references (from [[Ether 1#^ether-1-3|Ether 1:3]])
 - [[Ether 2]] — 12 parallel verses, e.g. [[Ether 1#^ether-1-35|Ether 1:35]] ↔ [[Ether 2#^ether-2-16|Ether 2:16]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
 - [[1 Nephi 14]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 22]] · My notes: [[Revelation 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints will reign in celestial splendor—Christ will come, and men will be judged—Blessed are they who keep His commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 1]] — 3 footnote cross-references (from [[Revelation 22#^rev-22-6|Revelation 22:6]])
+- [[Ezekiel 47]] — 2 footnote cross-references (from [[Revelation 22#^rev-22-1|Revelation 22:1]])
+- [[Joel 3]] — 2 footnote cross-references (from [[Revelation 22#^rev-22-1|Revelation 22:1]])
+- [[Revelation 2]] — 2 footnote cross-references (from [[Revelation 22#^rev-22-2|Revelation 22:2]])
+- [[Alma 41]] — 2 footnote cross-references (from [[Revelation 22#^rev-22-11|Revelation 22:11]])
+- [[Zechariah 14]] — 1 footnote cross-reference (from [[Revelation 22#^rev-22-1|Revelation 22:1]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
 - [[D&C 54]] — 2 parallel verses, e.g. [[Revelation 22#^rev-22-12|Revelation 22:12]] ↔ [[D&C 54#^dc-54-10|D&C 54:10]]
 - [[D&C 112]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-12|Revelation 22:12]] ↔ [[D&C 112#^dc-112-34|D&C 112:34]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 3]] · My notes: [[1 Timothy 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Qualifications are given for bishops and deacons—Great is the mystery of godliness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-1|1 Timothy 3:1]])
+- [[2 Timothy 2]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]])
+- [[Esther 1]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-5|1 Timothy 3:5]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-5|1 Timothy 3:5]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-6|1 Timothy 3:6]])
+- [[Acts 6]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-7|1 Timothy 3:7]])
 - [[Titus 1]] — 2 parallel verses, e.g. [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]] ↔ [[Titus 1#^titus-1-6|Titus 1:6]]
 <!-- SG:END related-scriptures -->
 

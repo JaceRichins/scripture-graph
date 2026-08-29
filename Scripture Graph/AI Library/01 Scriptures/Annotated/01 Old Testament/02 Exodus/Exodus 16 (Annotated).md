@@ -17,7 +17,7 @@ cssclasses:
 > Israel murmurs for want of bread and lusts for the fleshpots of Egypt—The Lord rains bread from heaven and sends quail for meat—Israel is given manna each day, except the Sabbath, for forty years.
 
 ![[Exodus 16#^ex-16-1]]
-> [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]]
+> [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]]
 
 ![[Exodus 16#^ex-16-2]]
 > [[Numbers 16#^num-16-41|≈ Numbers 16:41]] · [[Joshua 18#^josh-18-1|≈ Joshua 18:1]] · [[Joshua 22#^josh-22-12|≈ Joshua 22:12]] · [[Numbers 14#^num-14-2|≈ Numbers 14:2]]
@@ -39,7 +39,7 @@ cssclasses:
 > [[1 Samuel 8#^1sam-8-7|1 Sam. 8:7 (7–9)]] · [[Matthew 10#^matt-10-40|Matt. 10:40–41]] · [[Numbers 16#^num-16-11|Num. 16:11]] · [[1 Nephi 16#^1ne-16-20|1 Ne. 16:22 (20–25)]] · [[D&C 29#^dc-29-19|D&amp;C 29:19]]
 
 ![[Exodus 16#^ex-16-9]]
-> [[Exodus 4#^ex-4-14|Ex. 4:16 (14–16)]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]]
+> [[Exodus 4#^ex-4-14|Ex. 4:16 (14–16)]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]]
 
 ![[Exodus 16#^ex-16-10]]
 > [[Exodus 14#^ex-14-19|Ex. 14:19]] · [[Exodus 24#^ex-24-16|24:16]] · [[Numbers 14#^num-14-10|Num. 14:10]] · [[Exodus 40#^ex-40-38|Ex. 40:38]] · [[Joshua 18#^josh-18-1|≈ Joshua 18:1]] · [[Joshua 22#^josh-22-12|≈ Joshua 22:12]] · [[Numbers 14#^num-14-10|≈ Numbers 14:10]]

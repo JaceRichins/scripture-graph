@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 15
 slug: john-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 15]] · My notes: [[John 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is the vine; His disciples are the branches—He discourses on the perfect law of love—His servants have been chosen and ordained by Him—The world hates and fights true religion—He promises the Comforter, the Spirit of Truth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 6]] — 2 footnote cross-references (from [[John 15#^john-15-12|John 15:12]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[John 15#^john-15-1|John 15:1]])
+- [[1 Nephi 15]] — 1 footnote cross-reference (from [[John 15#^john-15-1|John 15:1]])
+- [[Matthew 15]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
+- [[Matthew 7]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
+- [[Luke 3]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
 - [[John 13]] — 2 parallel verses, e.g. [[John 15#^john-15-20|John 15:20]] ↔ [[John 13#^john-13-16|John 13:16]]
 - [[John 16]] — 3 parallel verses, e.g. [[John 15#^john-15-11|John 15:11]] ↔ [[John 16#^john-16-1|John 16:1]]
 <!-- SG:END related-scriptures -->

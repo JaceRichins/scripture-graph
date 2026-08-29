@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 17
 slug: 2kgs-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 17]] · My notes: [[2 Kings 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hoshea reigns in Israel and is subject to the Assyrians—The Israelites forsake the Lord, worship idols, serve Baal, and reject all that the Lord has given them—The ten tribes are carried away captive by the kings of Assyria—The land of Israel (Samaria) is repopulated by other people—Many forms of false worship are found among the Samaritans.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hosea 1]] — 2 footnote cross-references (from [[2 Kings 17#^2kgs-17-5|2 Kings 17:5]])
+- [[Hosea 8]] — 2 footnote cross-references (from [[2 Kings 17#^2kgs-17-5|2 Kings 17:5]])
+- [[1 Kings 12]] — 2 footnote cross-references (from [[2 Kings 17#^2kgs-17-16|2 Kings 17:16]])
+- [[Hosea 10]] — 1 footnote cross-reference (from [[2 Kings 17#^2kgs-17-3|2 Kings 17:3]])
+- [[Hosea 7]] — 1 footnote cross-reference (from [[2 Kings 17#^2kgs-17-5|2 Kings 17:5]])
+- [[Micah 1]] — 1 footnote cross-reference (from [[2 Kings 17#^2kgs-17-5|2 Kings 17:5]])
 - [[2 Kings 21]] — 6 parallel verses, e.g. [[2 Kings 17#^2kgs-17-17|2 Kings 17:17]] ↔ [[2 Kings 21#^2kgs-21-6|2 Kings 21:6]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Kings 17#^2kgs-17-2|2 Kings 17:2]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
 - [[2 Chronicles 33]] — 5 parallel verses, e.g. [[2 Kings 17#^2kgs-17-17|2 Kings 17:17]] ↔ [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]]

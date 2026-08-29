@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 2
 slug: 2chr-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 2]] · My notes: [[2 Chronicles 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Solomon engages Huram of Tyre to supply timber for the temple—Laborers are organized to do the work.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 5]] — 1 footnote cross-reference (from [[2 Chronicles 2#^2chr-2-3|2 Chronicles 2:3]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[2 Chronicles 2#^2chr-2-4|2 Chronicles 2:4]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[2 Chronicles 2#^2chr-2-6|2 Chronicles 2:6]])
+- [[1 Kings 7]] — 1 footnote cross-reference (from [[2 Chronicles 2#^2chr-2-13|2 Chronicles 2:13]])
 - [[1 Kings 8]] — 3 parallel verses, e.g. [[2 Chronicles 2#^2chr-2-1|2 Chronicles 2:1]] ↔ [[1 Kings 8#^1kgs-8-17|1 Kings 8:17]]
 - [[Exodus 31]] — 2 parallel verses, e.g. [[2 Chronicles 2#^2chr-2-7|2 Chronicles 2:7]] ↔ [[Exodus 31#^ex-31-4|Exodus 31:4]]
 - [[Exodus 35]] — 2 parallel verses, e.g. [[2 Chronicles 2#^2chr-2-7|2 Chronicles 2:7]] ↔ [[Exodus 35#^ex-35-32|Exodus 35:32]]

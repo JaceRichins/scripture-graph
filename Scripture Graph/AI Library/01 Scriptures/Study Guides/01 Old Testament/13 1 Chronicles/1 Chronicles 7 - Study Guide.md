@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 7
 slug: 1chr-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 7]] · My notes: [[1 Chronicles 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons and families are named for Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 26]] — 3 footnote cross-references (from [[1 Chronicles 7#^1chr-7-1|1 Chronicles 7:1]])
+- [[Genesis 46]] — 2 footnote cross-references (from [[1 Chronicles 7#^1chr-7-1|1 Chronicles 7:1]])
+- [[Numbers 1]] — 1 footnote cross-reference (from [[1 Chronicles 7#^1chr-7-1|1 Chronicles 7:1]])
+- [[2 Samuel 24]] — 1 footnote cross-reference (from [[1 Chronicles 7#^1chr-7-2|1 Chronicles 7:2]])
+- [[Alma 10]] — 1 footnote cross-reference (from [[1 Chronicles 7#^1chr-7-14|1 Chronicles 7:14]])
+- [[Numbers 11]] — 1 footnote cross-reference (from [[1 Chronicles 7#^1chr-7-27|1 Chronicles 7:27]])
 - [[Genesis 38]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]] ↔ [[Genesis 38#^gen-38-3|Genesis 38:3]]
 - [[Moses 6]] — 2 parallel verses, e.g. [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[Numbers 27]] — 1 parallel verse, e.g. [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 128
 slug: ps-128
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 128]] · My notes: [[Psalm 128 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Blessed are those who fear the Lord and walk in His ways.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 3]] — 2 parallel verses, e.g. [[Psalm 128#^ps-128-5|Psalm 128:5]] ↔ [[Genesis 3#^gen-3-14|Genesis 3:14]]
-- [[Moses 4]] — 2 parallel verses, e.g. [[Psalm 128#^ps-128-5|Psalm 128:5]] ↔ [[Moses 4#^moses-4-20|Moses 4:20]]
+- [[2 Nephi 13]] — 1 footnote cross-reference (from [[Psalm 128#^ps-128-2|Psalm 128:2]])
+- [[Isaiah 3]] — 1 footnote cross-reference (from [[Psalm 128#^ps-128-2|Psalm 128:2]])
+- [[Psalm 134]] — 1 footnote cross-reference (from [[Psalm 128#^ps-128-5|Psalm 128:5]])
+- [[Psalm 125]] — 1 footnote cross-reference (from [[Psalm 128#^ps-128-6|Psalm 128:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

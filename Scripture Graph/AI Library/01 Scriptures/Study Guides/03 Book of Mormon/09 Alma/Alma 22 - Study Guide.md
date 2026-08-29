@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 22
 slug: alma-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 22]] · My notes: [[Alma 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron teaches Lamoni’s father about the Creation, the Fall of Adam, and the plan of redemption through Christ—The king and all his household are converted—The division of the land between the Nephites and the Lamanites is explained. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -48,6 +49,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 20]] — 6 footnote cross-references (from [[Alma 22#^alma-22-1|Alma 22:1]])
+- [[Alma 18]] — 4 footnote cross-references (from [[Alma 22#^alma-22-9|Alma 22:9]])
+- [[Alma 21]] — 3 footnote cross-references (from [[Alma 22#^alma-22-1|Alma 22:1]])
+- [[Acts 2]] — 2 footnote cross-references (from [[Alma 22#^alma-22-3|Alma 22:3]])
+- [[Alma 23]] — 2 footnote cross-references (from [[Alma 22#^alma-22-23|Alma 22:23]])
+- [[Helaman 3]] — 2 footnote cross-references (from [[Alma 22#^alma-22-27|Alma 22:27]])
 - [[Alma 18]] — 4 parallel verses, e.g. [[Alma 22#^alma-22-13|Alma 22:13]] ↔ [[Alma 18#^alma-18-39|Alma 18:39]]
 - [[Mosiah 4]] — 3 parallel verses, e.g. [[Alma 22#^alma-22-10|Alma 22:10]] ↔ [[Mosiah 4#^mosiah-4-9|Mosiah 4:9]]
 - [[Alma 30]] — 2 parallel verses, e.g. [[Alma 22#^alma-22-7|Alma 22:7]] ↔ [[Alma 30#^alma-30-37|Alma 30:37]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 20
 slug: jer-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 20]] · My notes: [[Jeremiah 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah is smitten and put in the stocks—He prophesies that all Judah will be taken captive by Babylon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 21]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-1|Jeremiah 20:1]])
+- [[Jeremiah 38]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-1|Jeremiah 20:1]])
+- [[1 Chronicles 24]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-1|Jeremiah 20:1]])
+- [[1 Nephi 16]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-2|Jeremiah 20:2]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-2|Jeremiah 20:2]])
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]])
 - [[Jeremiah 34]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 - [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-12|Jeremiah 20:12]] ↔ [[Jeremiah 11#^jer-11-20|Jeremiah 11:20]]

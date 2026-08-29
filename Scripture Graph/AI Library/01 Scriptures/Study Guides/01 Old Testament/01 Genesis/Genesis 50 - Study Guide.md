@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 50
 slug: gen-50
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 50]] · My notes: [[Genesis 50 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob’s body is embalmed—Joseph buries him in Canaan—Joseph comforts his brothers—The children of Israel multiply—Joseph promises that God will bring Israel out of Egypt into Canaan—Joseph dies in Egypt and is embalmed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 47]] — 2 footnote cross-references (from [[Genesis 50#^gen-50-5|Genesis 50:5]])
+- [[Genesis 45]] — 2 footnote cross-references (from [[Genesis 50#^gen-50-8|Genesis 50:8]])
+- [[Genesis 46]] — 1 footnote cross-reference (from [[Genesis 50#^gen-50-1|Genesis 50:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Genesis 50#^gen-50-1|Genesis 50:1]])
+- [[2 Nephi 1]] — 1 footnote cross-reference (from [[Genesis 50#^gen-50-5|Genesis 50:5]])
+- [[Alma 28]] — 1 footnote cross-reference (from [[Genesis 50#^gen-50-10|Genesis 50:10]])
 - [[Exodus 13]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-25|Genesis 50:25]] ↔ [[Exodus 13#^ex-13-19|Exodus 13:19]]
 - [[Genesis 47]] — 2 parallel verses, e.g. [[Genesis 50#^gen-50-4|Genesis 50:4]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
 - [[Genesis 49]] — 1 parallel verse, e.g. [[Genesis 50#^gen-50-13|Genesis 50:13]] ↔ [[Genesis 49#^gen-49-30|Genesis 49:30]]

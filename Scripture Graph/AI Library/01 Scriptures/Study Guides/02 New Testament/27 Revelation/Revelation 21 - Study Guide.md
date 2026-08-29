@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 21
 slug: rev-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 21]] · My notes: [[Revelation 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Those who overcome will be sons of God—The earth attains its celestial glory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 60]] — 3 footnote cross-references (from [[Revelation 21#^rev-21-23|Revelation 21:23]])
+- [[Ezekiel 48]] — 2 footnote cross-references (from [[Revelation 21#^rev-21-3|Revelation 21:3]])
+- [[D&C 76]] — 2 footnote cross-references (from [[Revelation 21#^rev-21-7|Revelation 21:7]])
+- [[Ezekiel 40]] — 2 footnote cross-references (from [[Revelation 21#^rev-21-10|Revelation 21:10]])
+- [[Matthew 22]] — 1 footnote cross-reference (from [[Revelation 21#^rev-21-2|Revelation 21:2]])
+- [[Luke 5]] — 1 footnote cross-reference (from [[Revelation 21#^rev-21-2|Revelation 21:2]])
 - [[1 Nephi 13]] — 4 parallel verses, e.g. [[Revelation 21#^rev-21-14|Revelation 21:14]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
 - [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 21#^rev-21-9|Revelation 21:9]] ↔ [[Revelation 17#^rev-17-1|Revelation 17:1]]
 - [[D&C 63]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-8|Revelation 21:8]] ↔ [[D&C 63#^dc-63-17|D&C 63:17]]

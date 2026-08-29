@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 1
 slug: lev-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 1]] · My notes: [[Leviticus 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Animals without blemish are sacrificed as an atonement for sins—Burnt offerings are a sweet savor unto the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 19]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-1|Leviticus 1:1]])
+- [[D&C 28]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-1|Leviticus 1:1]])
+- [[Ezekiel 40]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-3|Leviticus 1:3]])
+- [[Hebrews 9]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-3|Leviticus 1:3]])
+- [[1 Peter 1]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-3|Leviticus 1:3]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Leviticus 1#^lev-1-4|Leviticus 1:4]])
 - [[Numbers 15]] — 11 parallel verses, e.g. [[Leviticus 1#^lev-1-9|Leviticus 1:9]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
 - [[Leviticus 2]] — 6 parallel verses, e.g. [[Leviticus 1#^lev-1-13|Leviticus 1:13]] ↔ [[Leviticus 2#^lev-2-9|Leviticus 2:9]]
 - [[Leviticus 3]] — 7 parallel verses, e.g. [[Leviticus 1#^lev-1-17|Leviticus 1:17]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
@@ -49,6 +56,7 @@ _Not yet developed._
 - [[Numbers 18]] — 3 parallel verses, e.g. [[Leviticus 1#^lev-1-9|Leviticus 1:9]] ↔ [[Numbers 18#^num-18-17|Numbers 18:17]]
 - [[Numbers 5]] — 1 parallel verse, e.g. [[Leviticus 1#^lev-1-2|Leviticus 1:2]] ↔ [[Numbers 5#^num-5-12|Numbers 5:12]]
 - [[Leviticus 22]] — 2 parallel verses, e.g. [[Leviticus 1#^lev-1-2|Leviticus 1:2]] ↔ [[Leviticus 22#^lev-22-18|Leviticus 22:18]]
+- [[Leviticus 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

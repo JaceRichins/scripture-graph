@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 15
 slug: 2ne-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 15]] · My notes: [[2 Nephi 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord’s vineyard (Israel) will become desolate, and His people will be scattered—Woes will come upon them in their apostate and scattered state—The Lord will lift an ensign and gather Israel—Compare Isaiah 5. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 64]] — 2 footnote cross-references (from [[2 Nephi 15#^2ne-15-20|2 Nephi 15:20]])
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[2 Nephi 15#^2ne-15-1|2 Nephi 15:1]])
+- [[Jeremiah 2]] — 1 footnote cross-reference (from [[2 Nephi 15#^2ne-15-2|2 Nephi 15:2]])
+- [[Psalm 80]] — 1 footnote cross-reference (from [[2 Nephi 15#^2ne-15-5|2 Nephi 15:5]])
+- [[Isaiah 7]] — 1 footnote cross-reference (from [[2 Nephi 15#^2ne-15-6|2 Nephi 15:6]])
+- [[Isaiah 32]] — 1 footnote cross-reference (from [[2 Nephi 15#^2ne-15-6|2 Nephi 15:6]])
 - [[Isaiah 5]] — 33 parallel verses, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[Isaiah 9]] — 4 parallel verses, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 4 parallel verses, e.g. [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]

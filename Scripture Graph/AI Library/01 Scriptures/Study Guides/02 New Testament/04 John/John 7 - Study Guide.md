@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 7
 slug: john-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 7]] · My notes: [[John 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus’ kinsmen do not believe—He teaches His Father’s doctrine and proclaims His divine sonship—Truth may be known through obedience—Jesus offers living water to all people—The people have various opinions concerning Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 5]] — 3 footnote cross-references (from [[John 7#^john-7-1|John 7:1]])
+- [[Luke 2]] — 2 footnote cross-references (from [[John 7#^john-7-15|John 7:15]])
+- [[John 8]] — 2 footnote cross-references (from [[John 7#^john-7-16|John 7:16]])
+- [[John 3]] — 2 footnote cross-references (from [[John 7#^john-7-26|John 7:26]])
+- [[John 13]] — 2 footnote cross-references (from [[John 7#^john-7-29|John 7:29]])
+- [[John 11]] — 1 footnote cross-reference (from [[John 7#^john-7-1|John 7:1]])
 - [[John 8]] — 2 parallel verses, e.g. [[John 7#^john-7-30|John 7:30]] ↔ [[John 8#^john-8-20|John 8:20]]
 <!-- SG:END related-scriptures -->
 

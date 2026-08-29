@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 16
 slug: 1sam-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 16]] · My notes: [[1 Samuel 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord chooses David of Bethlehem as king—He is anointed by Samuel—Saul chooses David as his companion and armor bearer.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 14]] — 2 parallel verses, e.g. [[1 Samuel 16#^1sam-16-13|1 Samuel 16:13]] ↔ [[Judges 14#^judg-14-19|Judges 14:19]]
+- [[1 Samuel 17]] — 2 footnote cross-references (from [[1 Samuel 16#^1sam-16-6|1 Samuel 16:6]])
+- [[1 Chronicles 2]] — 2 footnote cross-references (from [[1 Samuel 16#^1sam-16-6|1 Samuel 16:6]])
+- [[Micah 5]] — 1 footnote cross-reference (from [[1 Samuel 16#^1sam-16-1|1 Samuel 16:1]])
+- [[Luke 2]] — 1 footnote cross-reference (from [[1 Samuel 16#^1sam-16-1|1 Samuel 16:1]])
+- [[John 7]] — 1 footnote cross-reference (from [[1 Samuel 16#^1sam-16-1|1 Samuel 16:1]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[1 Samuel 16#^1sam-16-1|1 Samuel 16:1]])
+- [[2 Samuel 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

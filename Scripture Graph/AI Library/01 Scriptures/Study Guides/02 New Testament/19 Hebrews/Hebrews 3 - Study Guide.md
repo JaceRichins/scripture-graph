@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 3
 slug: heb-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 3]] · My notes: [[Hebrews 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ is the Apostle and High Priest of our profession—Jesus, being the Son, is more than a servant—Now is the time and the day of our salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 95]] — 2 footnote cross-references (from [[Hebrews 3#^heb-3-7|Hebrews 3:7]])
+- [[Numbers 14]] — 2 footnote cross-references (from [[Hebrews 3#^heb-3-8|Hebrews 3:8]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-6|Hebrews 3:6]])
+- [[Hebrews 10]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-7|Hebrews 3:7]])
+- [[Jacob 1]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-8|Hebrews 3:8]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-8|Hebrews 3:8]])
 - [[Psalm 95]] — 5 parallel verses, e.g. [[Hebrews 3#^heb-3-10|Hebrews 3:10]] ↔ [[Psalm 95#^ps-95-10|Psalm 95:10]]
 - [[Hebrews 4]] — 2 parallel verses, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Hebrews 4#^heb-4-7|Hebrews 4:7]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]

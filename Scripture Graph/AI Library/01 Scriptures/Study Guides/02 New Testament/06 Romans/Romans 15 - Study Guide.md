@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 15
 slug: rom-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 15]] · My notes: [[Romans 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> True Saints fellowship one another—Paul recounts his diligence in preaching the gospel—The gifts of the Spirit are poured out upon the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 9]] — 2 footnote cross-references (from [[Romans 15#^rom-15-4|Romans 15:4]])
+- [[Alma 31]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-1|Romans 15:1]])
+- [[Romans 14]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-1|Romans 15:1]])
+- [[1 Corinthians 10]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-4|Romans 15:4]])
+- [[1 Corinthians 1]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-5|Romans 15:5]])
+- [[1 Thessalonians 5]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-5|Romans 15:5]])
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 15#^rom-15-6|Romans 15:6]] ↔ [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]]
 <!-- SG:END related-scriptures -->
 

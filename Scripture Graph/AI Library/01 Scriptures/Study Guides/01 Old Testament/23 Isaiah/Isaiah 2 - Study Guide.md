@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 2
 slug: isa-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 2]] · My notes: [[Isaiah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah sees the latter-day temple, gathering of Israel, and millennial judgment and peace—The proud and wicked will be brought low at the Second Coming—Compare 2 Nephi 12.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 12]] — 3 footnote cross-references (from [[Isaiah 2#^isa-2-1|Isaiah 2:1]])
+- [[Psalm 48]] — 2 footnote cross-references (from [[Isaiah 2#^isa-2-3|Isaiah 2:3]])
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-2|Isaiah 2:2]])
+- [[Micah 4]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-2|Isaiah 2:2]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-2|Isaiah 2:2]])
+- [[Isaiah 30]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-3|Isaiah 2:3]])
 - [[2 Nephi 12]] — 26 parallel verses, e.g. [[Isaiah 2#^isa-2-3|Isaiah 2:3]] ↔ [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]]
 - [[Micah 4]] — 3 parallel verses, e.g. [[Isaiah 2#^isa-2-3|Isaiah 2:3]] ↔ [[Micah 4#^micah-4-2|Micah 4:2]]
 - [[Isaiah 31]] — 1 parallel verse, e.g. [[Isaiah 2#^isa-2-20|Isaiah 2:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]

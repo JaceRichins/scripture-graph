@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 20
 slug: 1ne-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 20]] · My notes: [[1 Nephi 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals His purposes to Israel—Israel has been chosen in the furnace of affliction and is to go forth from Babylon—Compare Isaiah 48. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 45]] — 3 footnote cross-references (from [[1 Nephi 20#^1ne-20-15|1 Nephi 20:15]])
+- [[Isaiah 48]] — 2 footnote cross-references (from [[1 Nephi 20#^1ne-20-1|1 Nephi 20:1]])
+- [[Isaiah 42]] — 2 footnote cross-references (from [[1 Nephi 20#^1ne-20-3|1 Nephi 20:3]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[1 Nephi 20#^1ne-20-10|1 Nephi 20:10]])
+- [[D&C 133]] — 2 footnote cross-references (from [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]])
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[1 Nephi 20#^1ne-20-1|1 Nephi 20:1]])
 - [[Isaiah 48]] — 22 parallel verses, e.g. [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]] ↔ [[Isaiah 48#^isa-48-20|Isaiah 48:20]]
 <!-- SG:END related-scriptures -->
 

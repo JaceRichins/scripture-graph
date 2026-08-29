@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 3
 slug: 2ne-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 3]] · My notes: [[2 Nephi 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joseph in Egypt saw the Nephites in vision—He prophesied of Joseph Smith, the latter-day seer; of Moses, who would deliver Israel; and of the coming forth of the Book of Mormon. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 45]] — 4 footnote cross-references (from [[2 Nephi 3#^2ne-3-3|2 Nephi 3:3]])
+- [[2 Nephi 29]] — 4 footnote cross-references (from [[2 Nephi 3#^2ne-3-9|2 Nephi 3:9]])
+- [[1 Nephi 13]] — 3 footnote cross-references (from [[2 Nephi 3#^2ne-3-3|2 Nephi 3:3]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[2 Nephi 3#^2ne-3-6|2 Nephi 3:6]])
+- [[Genesis 49]] — 2 footnote cross-references (from [[2 Nephi 3#^2ne-3-4|2 Nephi 3:4]])
+- [[1 Nephi 15]] — 2 footnote cross-references (from [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]])
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]] ↔ [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]]
 - [[2 Nephi 9]] — 1 parallel verse, e.g. [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]] ↔ [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]]
 <!-- SG:END related-scriptures -->

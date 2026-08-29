@@ -32,6 +32,8 @@ _Not yet developed._
 - [[1 Nephi 15]]
 - [[3 Nephi 20]]
 - [[Abraham 2]]
+- [[Exodus 3]]
+- [[Exodus 6]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

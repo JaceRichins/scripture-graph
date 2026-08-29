@@ -13,6 +13,9 @@ cssclasses:
 
 [[Jeremiah 11|Plain text]] · [[Jeremiah 11 - Study Guide|Study guide]] · [[Jeremiah 11 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The people of Judah are cursed for breaking the covenant of obedience—The Lord will not hear their prayers.
+
 ![[Jeremiah 11#^jer-11-1]]
 > [[Jeremiah 32#^jer-32-1|≈ Jeremiah 32:1]] · [[Jeremiah 30#^jer-30-1|≈ Jeremiah 30:1]] · [[Jeremiah 34#^jer-34-12|≈ Jeremiah 34:12]] · [[Jeremiah 7#^jer-7-1|≈ Jeremiah 7:1]] · [[Jeremiah 18#^jer-18-1|≈ Jeremiah 18:1]] · [[Jeremiah 40#^jer-40-1|≈ Jeremiah 40:1]]
 
@@ -20,12 +23,13 @@ cssclasses:
 > [[Jeremiah 18#^jer-18-11|≈ Jeremiah 18:11]] · [[Daniel 9#^dan-9-7|≈ Daniel 9:7]]
 
 ![[Jeremiah 11#^jer-11-3]]
+> [[Exodus 20#^ex-20-1|Ex. 20:20 (1–26)]]
 
 ![[Jeremiah 11#^jer-11-4]]
-> [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Jeremiah 30#^jer-30-22|≈ Jeremiah 30:22]] · [[Zechariah 8#^zech-8-8|≈ Zechariah 8:8]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]] · [[Jeremiah 7#^jer-7-22|≈ Jeremiah 7:22]] · [[Jeremiah 7#^jer-7-23|≈ Jeremiah 7:23]]
+> [[Alma 5#^alma-5-37|Alma 5:38 (37–41)]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Jeremiah 30#^jer-30-22|≈ Jeremiah 30:22]] · [[Zechariah 8#^zech-8-8|≈ Zechariah 8:8]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]] · [[Jeremiah 7#^jer-7-22|≈ Jeremiah 7:22]] · [[Jeremiah 7#^jer-7-23|≈ Jeremiah 7:23]]
 
 ![[Jeremiah 11#^jer-11-5]]
-> [[Jeremiah 32#^jer-32-22|≈ Jeremiah 32:22]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]]
+> [[Deuteronomy 7#^deut-7-12|Deut. 7:12 (12–13)]] · [[D&C 38#^dc-38-20|D&amp;C 38:20]] · [[Exodus 3#^ex-3-8|Ex. 3:8]] · [[Jeremiah 32#^jer-32-22|≈ Jeremiah 32:22]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]]
 
 ![[Jeremiah 11#^jer-11-6]]
 > [[Jeremiah 32#^jer-32-44|≈ Jeremiah 32:44]] · [[Jeremiah 44#^jer-44-6|≈ Jeremiah 44:6]] · [[Jeremiah 44#^jer-44-17|≈ Jeremiah 44:17]] · [[Jeremiah 44#^jer-44-21|≈ Jeremiah 44:21]] · [[Jeremiah 44#^jer-44-9|≈ Jeremiah 44:9]] · [[Jeremiah 7#^jer-7-17|≈ Jeremiah 7:17]]
@@ -39,21 +43,22 @@ cssclasses:
 ![[Jeremiah 11#^jer-11-9]]
 
 ![[Jeremiah 11#^jer-11-10]]
-> [[Jeremiah 5#^jer-5-11|≈ Jeremiah 5:11]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]]
+> [[Zephaniah 1#^zeph-1-6|Zeph. 1:6]] · [[Jeremiah 5#^jer-5-11|≈ Jeremiah 5:11]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]]
 
 ![[Jeremiah 11#^jer-11-11]]
-> [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Jeremiah 20#^jer-20-4|≈ Jeremiah 20:4]] · [[Jeremiah 29#^jer-29-32|≈ Jeremiah 29:32]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]]
+> [[Psalm 18#^ps-18-40|Ps. 18:41 (40–41)]] · [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] · [[D&C 101#^dc-101-7|D&amp;C 101:7]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Jeremiah 20#^jer-20-4|≈ Jeremiah 20:4]] · [[Jeremiah 29#^jer-29-32|≈ Jeremiah 29:32]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]]
 
 ![[Jeremiah 11#^jer-11-12]]
 
 ![[Jeremiah 11#^jer-11-13]]
 
 ![[Jeremiah 11#^jer-11-14]]
-> [[Jeremiah 7#^jer-7-16|≈ Jeremiah 7:16]]
+> [[Jeremiah 7#^jer-7-16|Jer. 7:16]] · [[Jeremiah 14#^jer-14-11|14:11]] · [[Jeremiah 7#^jer-7-16|≈ Jeremiah 7:16]]
 
 ![[Jeremiah 11#^jer-11-15]]
 
 ![[Jeremiah 11#^jer-11-16]]
+> [[Psalm 52#^ps-52-8|Ps. 52:8]]
 
 ![[Jeremiah 11#^jer-11-17]]
 > [[Jeremiah 32#^jer-32-32|≈ Jeremiah 32:32]]
@@ -61,9 +66,10 @@ cssclasses:
 ![[Jeremiah 11#^jer-11-18]]
 
 ![[Jeremiah 11#^jer-11-19]]
+> [[Isaiah 53#^isa-53-7|Isa. 53:7]] · [[Mosiah 14#^mosiah-14-7|Mosiah 14:7]] · [[D&C 135#^dc-135-4|D&amp;C 135:4]] · [[Lamentations 3#^lam-3-60|Lam. 3:62 (60–62)]] · [[Psalm 83#^ps-83-4|Ps. 83:4]] · [[1 Nephi 1#^1ne-1-20|1 Ne. 1:20]]
 
 ![[Jeremiah 11#^jer-11-20]]
-> [[Jeremiah 20#^jer-20-12|≈ Jeremiah 20:12]]
+> [[D&C 64#^dc-64-34|D&amp;C 64:34]] · [[Jeremiah 20#^jer-20-12|≈ Jeremiah 20:12]]
 
 ![[Jeremiah 11#^jer-11-21]]
 

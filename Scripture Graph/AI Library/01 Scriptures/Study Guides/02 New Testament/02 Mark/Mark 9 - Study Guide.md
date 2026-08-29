@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 9
 slug: mark-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 9]] · My notes: [[Mark 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is transfigured on the mountain—He casts out an unclean spirit—He teaches concerning His death and resurrection, who will be greatest, and the condemnation of those who offend His little ones.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 9]] — 5 footnote cross-references (from [[Mark 9#^mark-9-2|Mark 9:2]])
+- [[Matthew 17]] — 2 footnote cross-references (from [[Mark 9#^mark-9-2|Mark 9:2]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Mark 9#^mark-9-7|Mark 9:7]])
+- [[John 20]] — 1 footnote cross-reference (from [[Mark 9#^mark-9-10|Mark 9:10]])
+- [[Isaiah 53]] — 1 footnote cross-reference (from [[Mark 9#^mark-9-12|Mark 9:12]])
+- [[Mark 1]] — 1 footnote cross-reference (from [[Mark 9#^mark-9-20|Mark 9:20]])
 - [[Luke 9]] — 8 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
 - [[Matthew 17]] — 9 parallel verses, e.g. [[Mark 9#^mark-9-5|Mark 9:5]] ↔ [[Matthew 17#^matt-17-4|Matthew 17:4]]
 - [[Matthew 18]] — 8 parallel verses, e.g. [[Mark 9#^mark-9-47|Mark 9:47]] ↔ [[Matthew 18#^matt-18-9|Matthew 18:9]]

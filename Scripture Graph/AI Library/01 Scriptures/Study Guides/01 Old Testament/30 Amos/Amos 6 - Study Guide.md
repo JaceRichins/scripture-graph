@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 6
 slug: amos-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Amos 6]] · My notes: [[Amos 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Woe to them who are at ease in Zion—Israel will be plagued with desolation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 123]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-1|Amos 6:1]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-1|Amos 6:1]])
+- [[Amos 4]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-1|Amos 6:1]])
+- [[Ezekiel 12]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-3|Amos 6:3]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-5|Amos 6:5]])
+- [[2 Chronicles 29]] — 1 footnote cross-reference (from [[Amos 6#^amos-6-5|Amos 6:5]])
 - [[Jeremiah 38]] — 2 parallel verses, e.g. [[Amos 6#^amos-6-8|Amos 6:8]] ↔ [[Jeremiah 38#^jer-38-17|Jeremiah 38:17]]
 - [[Jeremiah 44]] — 2 parallel verses, e.g. [[Amos 6#^amos-6-8|Amos 6:8]] ↔ [[Jeremiah 44#^jer-44-7|Jeremiah 44:7]]
 <!-- SG:END related-scriptures -->

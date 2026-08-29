@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 32
 slug: num-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 32]] · My notes: [[Numbers 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Reuben, Gad, and half the tribe of Manasseh receive their inheritances east of the Jordan—They covenant to join other tribes in conquering Canaan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 33]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-2|Numbers 32:2]])
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-2|Numbers 32:2]])
+- [[Numbers 14]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-11|Numbers 32:11]])
+- [[Joshua 15]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-12|Numbers 32:12]])
+- [[Genesis 15]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-18|Numbers 32:18]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Numbers 32#^num-32-18|Numbers 32:18]])
 - [[Joshua 22]] — 26 parallel verses, e.g. [[Numbers 32#^num-32-33|Numbers 32:33]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
 - [[Joshua 4]] — 6 parallel verses, e.g. [[Numbers 32#^num-32-1|Numbers 32:1]] ↔ [[Joshua 4#^josh-4-12|Joshua 4:12]]
 - [[Joshua 14]] — 3 parallel verses, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]

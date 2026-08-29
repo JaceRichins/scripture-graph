@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 45
 slug: ps-45
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 45]] · My notes: [[Psalm 45 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm—The Messiah is fairer than the children of men—He is anointed with the oil of gladness above His fellows—His name will be remembered in all generations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 4]] — 1 footnote cross-reference (from [[Psalm 45#^ps-45-2|Psalm 45:2]])
+- [[Psalm 21]] — 1 footnote cross-reference (from [[Psalm 45#^ps-45-3|Psalm 45:3]])
+- [[John 19]] — 1 footnote cross-reference (from [[Psalm 45#^ps-45-8|Psalm 45:8]])
 - [[Hebrews 1]] — 2 parallel verses, e.g. [[Psalm 45#^ps-45-7|Psalm 45:7]] ↔ [[Hebrews 1#^heb-1-9|Hebrews 1:9]]
 <!-- SG:END related-scriptures -->
 

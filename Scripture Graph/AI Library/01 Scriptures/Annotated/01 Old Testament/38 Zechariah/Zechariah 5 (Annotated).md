@@ -13,6 +13,9 @@ cssclasses:
 
 [[Zechariah 5|Plain text]] · [[Zechariah 5 - Study Guide|Study guide]] · [[Zechariah 5 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> An angel reveals truths to Zechariah by the use of symbolic representations.
+
 ![[Zechariah 5#^zech-5-1]]
 > [[Zechariah 6#^zech-6-1|≈ Zechariah 6:1]] · [[Daniel 10#^dan-10-5|≈ Daniel 10:5]]
 
@@ -20,6 +23,7 @@ cssclasses:
 > [[Zechariah 4#^zech-4-2|≈ Zechariah 4:2]]
 
 ![[Zechariah 5#^zech-5-3]]
+> [[D&C 42#^dc-42-20|D&amp;C 42:20]]
 
 ![[Zechariah 5#^zech-5-4]]
 

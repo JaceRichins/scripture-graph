@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 23
 slug: ezek-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 23]] · My notes: [[Ezekiel 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Two sisters, Samaria and Jerusalem, committed whoredoms by worshipping idols—Both are destroyed for their lewdness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 16]] — 6 footnote cross-references (from [[Ezekiel 23#^ezek-23-2|Ezekiel 23:2]])
+- [[Jeremiah 3]] — 2 footnote cross-references (from [[Ezekiel 23#^ezek-23-2|Ezekiel 23:2]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[Ezekiel 23#^ezek-23-5|Ezekiel 23:5]])
+- [[2 Kings 17]] — 1 footnote cross-reference (from [[Ezekiel 23#^ezek-23-5|Ezekiel 23:5]])
+- [[Hosea 8]] — 1 footnote cross-reference (from [[Ezekiel 23#^ezek-23-5|Ezekiel 23:5]])
+- [[2 Kings 16]] — 1 footnote cross-reference (from [[Ezekiel 23#^ezek-23-12|Ezekiel 23:12]])
 - [[Ezekiel 37]] — 5 parallel verses, e.g. [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]] ↔ [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]]
 - [[Ezekiel 26]] — 4 parallel verses, e.g. [[Ezekiel 23#^ezek-23-34|Ezekiel 23:34]] ↔ [[Ezekiel 26#^ezek-26-5|Ezekiel 26:5]]
 - [[Ezekiel 25]] — 4 parallel verses, e.g. [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]] ↔ [[Ezekiel 25#^ezek-25-1|Ezekiel 25:1]]

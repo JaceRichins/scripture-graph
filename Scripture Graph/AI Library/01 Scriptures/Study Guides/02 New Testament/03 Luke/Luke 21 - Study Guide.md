@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 21
 slug: luke-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 21]] · My notes: [[Luke 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus foretells the destruction of the temple and of Jerusalem—He tells of the signs to precede His Second Coming and gives the parable of the fig tree.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 6 footnote cross-references (from [[Luke 21#^luke-21-6|Luke 21:6]])
+- [[Matthew 10]] — 2 footnote cross-references (from [[Luke 21#^luke-21-15|Luke 21:15]])
+- [[Revelation 16]] — 2 footnote cross-references (from [[Luke 21#^luke-21-20|Luke 21:20]])
+- [[D&C 35]] — 2 footnote cross-references (from [[Luke 21#^luke-21-28|Luke 21:28]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Luke 21#^luke-21-1|Luke 21:1]])
+- [[D&C 56]] — 1 footnote cross-reference (from [[Luke 21#^luke-21-1|Luke 21:1]])
 - [[Mark 13]] — 10 parallel verses, e.g. [[Luke 21#^luke-21-6|Luke 21:6]] ↔ [[Mark 13#^mark-13-2|Mark 13:2]]
 - [[Matthew 24]] — 10 parallel verses, e.g. [[Luke 21#^luke-21-23|Luke 21:23]] ↔ [[Matthew 24#^matt-24-19|Matthew 24:19]]
 - [[Joseph Smith—Matthew 1]] — 9 parallel verses, e.g. [[Luke 21#^luke-21-8|Luke 21:8]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]]

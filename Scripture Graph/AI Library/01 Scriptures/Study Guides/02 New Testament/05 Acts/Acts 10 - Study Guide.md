@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 10]] · My notes: [[Acts 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An angel ministers to Cornelius—Peter, in a vision, is commanded to take the gospel to the Gentiles—The gospel is taught by witnesses—The Holy Ghost falls upon the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Acts 10#^acts-10-15|Acts 10:15]])
+- [[Acts 15]] — 2 footnote cross-references (from [[Acts 10#^acts-10-20|Acts 10:20]])
+- [[Acts 17]] — 2 footnote cross-references (from [[Acts 10#^acts-10-34|Acts 10:34]])
+- [[2 Nephi 32]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
+- [[Moroni 7]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
+- [[1 Samuel 9]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-9|Acts 10:9]])
 - [[Acts 11]] — 4 parallel verses, e.g. [[Acts 10#^acts-10-12|Acts 10:12]] ↔ [[Acts 11#^acts-11-6|Acts 11:6]]
 <!-- SG:END related-scriptures -->
 

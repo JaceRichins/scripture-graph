@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 2
 slug: luke-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 2]] · My notes: [[Luke 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Heavenly messengers herald the birth of Jesus in Bethlehem—He is circumcised, and Simeon and Anna prophesy of His mission—At twelve years of age, He goes about His Father’s business.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 7]] — 2 footnote cross-references (from [[Luke 2#^luke-2-4|Luke 2:4]])
+- [[Matthew 1]] — 2 footnote cross-references (from [[Luke 2#^luke-2-5|Luke 2:5]])
+- [[1 Samuel 16]] — 1 footnote cross-reference (from [[Luke 2#^luke-2-4|Luke 2:4]])
+- [[Micah 5]] — 1 footnote cross-reference (from [[Luke 2#^luke-2-4|Luke 2:4]])
+- [[Alma 7]] — 1 footnote cross-reference (from [[Luke 2#^luke-2-4|Luke 2:4]])
+- [[Luke 19]] — 1 footnote cross-reference (from [[Luke 2#^luke-2-14|Luke 2:14]])
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[2 Chronicles 31]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
 - [[Mark 8]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-49|Luke 2:49]] ↔ [[Mark 8#^mark-8-21|Mark 8:21]]

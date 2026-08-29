@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 15
 slug: job-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 15]] · My notes: [[Job 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eliphaz sets forth the disquietude of wicked men—They do not believe they will return out of darkness and be resurrected.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ether 12]] — 1 footnote cross-reference (from [[Job 15#^job-15-14|Job 15:14]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Job 15#^job-15-14|Job 15:14]])
+- [[Psalm 7]] — 1 footnote cross-reference (from [[Job 15#^job-15-35|Job 15:35]])
+- [[Isaiah 59]] — 1 footnote cross-reference (from [[Job 15#^job-15-35|Job 15:35]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

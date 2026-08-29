@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 120
 slug: ps-120
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 120]] · My notes: [[Psalm 120 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Call upon the Lord when in distress.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 10]] — 1 footnote cross-reference (from [[Psalm 120#^ps-120-5|Psalm 120:5]])
+- [[Ezekiel 27]] — 1 footnote cross-reference (from [[Psalm 120#^ps-120-5|Psalm 120:5]])
+- [[Jeremiah 49]] — 1 footnote cross-reference (from [[Psalm 120#^ps-120-5|Psalm 120:5]])
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Psalm 120#^ps-120-5|Psalm 120:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

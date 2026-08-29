@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 35
 slug: job-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 35]] · My notes: [[Job 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elihu contrasts the weakness of man and the power of God—Our wickedness hurts other men, and our righteousness helps them—Man should trust in the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 27]] — 2 parallel verses, e.g. [[Job 35#^job-35-9|Job 35:9]] ↔ [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]]
+- [[Proverbs 9]] — 1 footnote cross-reference (from [[Job 35#^job-35-7|Job 35:7]])
+- [[Psalm 77]] — 1 footnote cross-reference (from [[Job 35#^job-35-10|Job 35:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

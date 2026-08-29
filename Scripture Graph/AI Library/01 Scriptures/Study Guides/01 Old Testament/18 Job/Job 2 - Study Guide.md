@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 2
 slug: job-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 2]] · My notes: [[Job 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Satan obtains permission from the Lord to afflict Job physically—Job is smitten with boils—Eliphaz, Bildad, and Zophar come to comfort him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 122]] — 2 footnote cross-references (from [[Job 2#^job-2-10|Job 2:10]])
+- [[Isaiah 38]] — 1 footnote cross-reference (from [[Job 2#^job-2-7|Job 2:7]])
+- [[Job 42]] — 1 footnote cross-reference (from [[Job 2#^job-2-8|Job 2:8]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Job 2#^job-2-8|Job 2:8]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Job 2#^job-2-8|Job 2:8]])
+- [[Matthew 5]] — 1 footnote cross-reference (from [[Job 2#^job-2-10|Job 2:10]])
 - [[Job 1]] — 5 parallel verses, e.g. [[Job 2#^job-2-3|Job 2:3]] ↔ [[Job 1#^job-1-8|Job 1:8]]
 - [[Job 42]] — 1 parallel verse, e.g. [[Job 2#^job-2-11|Job 2:11]] ↔ [[Job 42#^job-42-9|Job 42:9]]
 - [[Ruth 1]] — 2 parallel verses, e.g. [[Job 2#^job-2-12|Job 2:12]] ↔ [[Ruth 1#^ruth-1-9|Ruth 1:9]]

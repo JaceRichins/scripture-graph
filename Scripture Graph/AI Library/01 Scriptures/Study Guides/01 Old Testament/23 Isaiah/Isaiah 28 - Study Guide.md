@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 28
 slug: isa-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 28]] · My notes: [[Isaiah 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Woe to the drunkards of Ephraim!—Revelation comes line upon line and precept upon precept—Christ, the sure foundation, is promised.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hosea 12]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-1|Isaiah 28:1]])
+- [[Isaiah 30]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-2|Isaiah 28:2]])
+- [[Ezekiel 38]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-2|Isaiah 28:2]])
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-5|Isaiah 28:5]])
+- [[Isaiah 56]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-7|Isaiah 28:7]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-9|Isaiah 28:9]])
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[2 Nephi 28#^2ne-28-30|2 Nephi 28:30]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
 <!-- SG:END related-scriptures -->

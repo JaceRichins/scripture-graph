@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jude 1]] · My notes: [[Jude 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Contend for the faith—Some angels kept not their first estate—Michael disputed about the body of Moses—Enoch prophesied of the Second Coming—Mockers will come in the last days.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,7 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Peter 2]] — 5 footnote cross-references (from [[Jude 1#^jude-1-4|Jude 1:4]])
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
+- [[Articles of Faith 1]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
+- [[Philippians 1]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
+- [[D&C 112]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

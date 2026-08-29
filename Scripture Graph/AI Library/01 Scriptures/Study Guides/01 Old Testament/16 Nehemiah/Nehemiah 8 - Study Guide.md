@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 8
 slug: neh-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 8]] · My notes: [[Nehemiah 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezra reads and interprets the law of Moses to the people—They keep the Feast of Tabernacles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,8 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezra 7]] — 2 footnote cross-references (from [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]])
+- [[Mosiah 4]] — 2 footnote cross-references (from [[Nehemiah 8#^neh-8-9|Nehemiah 8:9]])
+- [[Nehemiah 3]] — 1 footnote cross-reference (from [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Nehemiah 8#^neh-8-2|Nehemiah 8:2]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Nehemiah 8#^neh-8-4|Nehemiah 8:4]])
+- [[Jacob 4]] — 1 footnote cross-reference (from [[Nehemiah 8#^neh-8-8|Nehemiah 8:8]])
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]] ↔ [[Ezra 3#^ezra-3-1|Ezra 3:1]]
 - [[D&C 85]] — 2 parallel verses, e.g. [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
+- [[Leviticus 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

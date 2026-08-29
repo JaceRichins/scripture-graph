@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 18
 slug: matt-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 18]] · My notes: [[Matthew 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus explains how we are to treat our offending brethren—The Son of Man came to save that which was lost—All of the Twelve receive the keys of the kingdom—Jesus explains why we should forgive.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 3 footnote cross-references (from [[Matthew 18#^matt-18-15|Matthew 18:15]])
+- [[Luke 9]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-1|Matthew 18:1]])
+- [[1 Corinthians 14]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-3|Matthew 18:3]])
+- [[Mosiah 3]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-3|Matthew 18:3]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-6|Matthew 18:6]])
+- [[Mosiah 28]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-14|Matthew 18:14]])
 - [[Mark 9]] — 8 parallel verses, e.g. [[Matthew 18#^matt-18-9|Matthew 18:9]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
 - [[D&C 6]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-20|Matthew 18:20]] ↔ [[D&C 6#^dc-6-32|D&C 6:32]]

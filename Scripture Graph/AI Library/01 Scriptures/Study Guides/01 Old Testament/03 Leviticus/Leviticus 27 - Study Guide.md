@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 27
 slug: lev-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 27]] · My notes: [[Leviticus 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How properties are consecrated unto the Lord is explained—Israel is commanded to pay tithes of their crops, flocks, and herds.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 45]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-16|Leviticus 27:16]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-21|Leviticus 27:21]])
+- [[Leviticus 25]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-24|Leviticus 27:24]])
+- [[Exodus 30]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-25|Leviticus 27:25]])
+- [[Ezekiel 48]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-28|Leviticus 27:28]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Leviticus 27#^lev-27-32|Leviticus 27:32]])
 - [[Numbers 15]] — 3 parallel verses, e.g. [[Leviticus 27#^lev-27-2|Leviticus 27:2]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 27#^lev-27-2|Leviticus 27:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
 - [[Numbers 6]] — 1 parallel verse, e.g. [[Leviticus 27#^lev-27-2|Leviticus 27:2]] ↔ [[Numbers 6#^num-6-2|Numbers 6:2]]

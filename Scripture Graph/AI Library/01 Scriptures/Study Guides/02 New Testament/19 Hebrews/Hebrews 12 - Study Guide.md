@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 12
 slug: heb-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 12]] · My notes: [[Hebrews 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Whom the Lord loves He chastens—God is the Father of spirits—To see God, follow peace and holiness—Exalted Saints belong to the Church of the Firstborn.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Peter 1]] — 2 footnote cross-references (from [[Hebrews 12#^heb-12-2|Hebrews 12:2]])
+- [[Romans 7]] — 1 footnote cross-reference (from [[Hebrews 12#^heb-12-1|Hebrews 12:1]])
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[Hebrews 12#^heb-12-1|Hebrews 12:1]])
+- [[Hebrews 1]] — 1 footnote cross-reference (from [[Hebrews 12#^heb-12-2|Hebrews 12:2]])
+- [[Hebrews 10]] — 1 footnote cross-reference (from [[Hebrews 12#^heb-12-4|Hebrews 12:4]])
+- [[Isaiah 35]] — 1 footnote cross-reference (from [[Hebrews 12#^heb-12-12|Hebrews 12:12]])
 - [[D&C 76]] — 3 parallel verses, e.g. [[Hebrews 12#^heb-12-22|Hebrews 12:22]] ↔ [[D&C 76#^dc-76-66|D&C 76:66]]
 - [[D&C 107]] — 2 parallel verses, e.g. [[Hebrews 12#^heb-12-23|Hebrews 12:23]] ↔ [[D&C 107#^dc-107-19|D&C 107:19]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 7
 slug: 1kgs-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 7]] · My notes: [[1 Kings 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Solomon builds himself a house—Hiram of Tyre makes the two pillars, the molten sea, the ten bases, the ten lavers, and all the vessels for the temple—The molten sea (baptismal font) rests on the backs of twelve oxen.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 6]] — 4 footnote cross-references (from [[1 Kings 7#^1kgs-7-11|1 Kings 7:11]])
+- [[2 Kings 25]] — 4 footnote cross-references (from [[1 Kings 7#^1kgs-7-15|1 Kings 7:15]])
+- [[Jeremiah 52]] — 3 footnote cross-references (from [[1 Kings 7#^1kgs-7-15|1 Kings 7:15]])
+- [[2 Chronicles 4]] — 3 footnote cross-references (from [[1 Kings 7#^1kgs-7-26|1 Kings 7:26]])
+- [[1 Kings 3]] — 2 footnote cross-references (from [[1 Kings 7#^1kgs-7-1|1 Kings 7:1]])
+- [[1 Kings 9]] — 2 footnote cross-references (from [[1 Kings 7#^1kgs-7-1|1 Kings 7:1]])
 - [[2 Chronicles 4]] — 16 parallel verses, e.g. [[1 Kings 7#^1kgs-7-25|1 Kings 7:25]] ↔ [[2 Chronicles 4#^2chr-4-4|2 Chronicles 4:4]]
 - [[Ezra 8]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]] ↔ [[Ezra 8#^ezra-8-25|Ezra 8:25]]
 - [[1 Kings 6]] — 3 parallel verses, e.g. [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]] ↔ [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]]

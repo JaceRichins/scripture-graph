@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 9
 slug: 1sam-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 9]] · My notes: [[1 Samuel 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul, the son of Kish, a Benjamite, is a choice and goodly person—He is sent to seek his father’s asses—The Lord reveals to Samuel the seer that Saul is to be king—Saul goes to Samuel and is entertained by him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 2 footnote cross-references (from [[1 Samuel 9#^1sam-9-15|1 Samuel 9:15]])
+- [[1 Samuel 14]] — 1 footnote cross-reference (from [[1 Samuel 9#^1sam-9-1|1 Samuel 9:1]])
+- [[1 Chronicles 8]] — 1 footnote cross-reference (from [[1 Samuel 9#^1sam-9-1|1 Samuel 9:1]])
+- [[1 Chronicles 12]] — 1 footnote cross-reference (from [[1 Samuel 9#^1sam-9-2|1 Samuel 9:2]])
+- [[1 Samuel 10]] — 1 footnote cross-reference (from [[1 Samuel 9#^1sam-9-2|1 Samuel 9:2]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[1 Samuel 9#^1sam-9-7|1 Samuel 9:7]])
 - [[1 Samuel 10]] — 1 parallel verse, e.g. [[1 Samuel 9#^1sam-9-2|1 Samuel 9:2]] ↔ [[1 Samuel 10#^1sam-10-23|1 Samuel 10:23]]
 <!-- SG:END related-scriptures -->
 

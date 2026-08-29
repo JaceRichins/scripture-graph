@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 19
 slug: matt-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 19]] · My notes: [[Matthew 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches about marriage and divorce—Eternal life is for those who keep the commandments—The Twelve Apostles will judge the house of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 29]] — 2 footnote cross-references (from [[Matthew 19#^matt-19-28|Matthew 19:28]])
+- [[D&C 137]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-14|Matthew 19:14]])
+- [[Proverbs 4]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-17|Matthew 19:17]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-17|Matthew 19:17]])
+- [[Proverbs 25]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-18|Matthew 19:18]])
+- [[Alma 22]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-21|Matthew 19:21]])
 - [[Mark 10]] — 14 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Mark 10#^mark-10-25|Mark 10:25]]
 - [[Luke 18]] — 6 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Luke 18#^luke-18-25|Luke 18:25]]
 - [[Romans 13]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-18|Matthew 19:18]] ↔ [[Romans 13#^rom-13-9|Romans 13:9]]

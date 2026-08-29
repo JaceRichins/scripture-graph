@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 3
 slug: titus-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Titus 3]] · My notes: [[Titus 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints must live righteously after baptism.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 38]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-2|Titus 3:2]])
+- [[D&C 70]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-7|Titus 3:7]])
+- [[2 Timothy 2]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-9|Titus 3:9]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-10|Titus 3:10]])
+- [[Romans 15]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-14|Titus 3:14]])
+- [[Philippians 4]] — 1 footnote cross-reference (from [[Titus 3#^titus-3-14|Titus 3:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 25
 slug: 1chr-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 25]] · My notes: [[1 Chronicles 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Levite singers and musicians are assigned their duties by lot.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 6]] — 2 footnote cross-references (from [[1 Chronicles 25#^1chr-25-1|1 Chronicles 25:1]])
+- [[Numbers 3]] — 1 footnote cross-reference (from [[1 Chronicles 25#^1chr-25-1|1 Chronicles 25:1]])
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]])
+- [[2 Chronicles 23]] — 1 footnote cross-reference (from [[1 Chronicles 25#^1chr-25-7|1 Chronicles 25:7]])
+- [[1 Chronicles 24]] — 1 footnote cross-reference (from [[1 Chronicles 25#^1chr-25-8|1 Chronicles 25:8]])
+- [[1 Chronicles 26]] — 1 footnote cross-reference (from [[1 Chronicles 25#^1chr-25-8|1 Chronicles 25:8]])
 - [[1 Chronicles 23]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
+- [[1 Chronicles 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

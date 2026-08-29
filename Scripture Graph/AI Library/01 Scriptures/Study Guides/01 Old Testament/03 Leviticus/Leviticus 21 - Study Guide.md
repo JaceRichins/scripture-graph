@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 21
 slug: lev-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 21]] · My notes: [[Leviticus 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The priests are to be holy—The high priest is not to marry a widow, a divorced person, or a harlot—Descendants of Aaron with physical blemishes may not offer the bread of God upon the altar.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 44]] — 3 footnote cross-references (from [[Leviticus 21#^lev-21-1|Leviticus 21:1]])
+- [[Leviticus 19]] — 1 footnote cross-reference (from [[Leviticus 21#^lev-21-5|Leviticus 21:5]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Leviticus 21#^lev-21-6|Leviticus 21:6]])
+- [[Leviticus 3]] — 1 footnote cross-reference (from [[Leviticus 21#^lev-21-6|Leviticus 21:6]])
+- [[Leviticus 20]] — 1 footnote cross-reference (from [[Leviticus 21#^lev-21-8|Leviticus 21:8]])
+- [[Genesis 38]] — 1 footnote cross-reference (from [[Leviticus 21#^lev-21-9|Leviticus 21:9]])
 - [[Leviticus 7]] — 4 parallel verses, e.g. [[Leviticus 21#^lev-21-6|Leviticus 21:6]] ↔ [[Leviticus 7#^lev-7-30|Leviticus 7:30]]
 - [[Leviticus 2]] — 4 parallel verses, e.g. [[Leviticus 21#^lev-21-6|Leviticus 21:6]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]
 - [[Leviticus 22]] — 2 parallel verses, e.g. [[Leviticus 21#^lev-21-24|Leviticus 21:24]] ↔ [[Leviticus 22#^lev-22-18|Leviticus 22:18]]

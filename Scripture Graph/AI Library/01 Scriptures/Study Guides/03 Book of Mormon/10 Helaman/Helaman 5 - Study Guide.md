@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 5
 slug: hel-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 5]] · My notes: [[Helaman 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi and Lehi devote themselves to preaching—Their names invite them to pattern their lives after their forebears—Christ redeems those who repent—Nephi and Lehi make many converts and are imprisoned, and fire encircles them—A cloud of darkness overshadows three hundred people—The earth shakes, and a voice commands men to repent—Nephi and Lehi converse with angels, and the multitude is encircled by fire. About 30 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -48,6 +49,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 4]] — 4 footnote cross-references (from [[Helaman 5#^hel-5-16|Helaman 5:16]])
+- [[Helaman 6]] — 3 footnote cross-references (from [[Helaman 5#^hel-5-1|Helaman 5:1]])
+- [[1 Nephi 1]] — 3 footnote cross-references (from [[Helaman 5#^hel-5-6|Helaman 5:6]])
+- [[Helaman 3]] — 2 footnote cross-references (from [[Helaman 5#^hel-5-1|Helaman 5:1]])
+- [[Exodus 14]] — 2 footnote cross-references (from [[Helaman 5#^hel-5-24|Helaman 5:24]])
+- [[Alma 31]] — 2 footnote cross-references (from [[Helaman 5#^hel-5-41|Helaman 5:41]])
 - [[Alma 23]] — 5 parallel verses, e.g. [[Helaman 5#^hel-5-19|Helaman 5:19]] ↔ [[Alma 23#^alma-23-9|Alma 23:9]]
 - [[Mosiah 1]] — 4 parallel verses, e.g. [[Helaman 5#^hel-5-5|Helaman 5:5]] ↔ [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]]
 - [[Helaman 11]] — 4 parallel verses, e.g. [[Helaman 5#^hel-5-18|Helaman 5:18]] ↔ [[Helaman 11#^hel-11-23|Helaman 11:23]]

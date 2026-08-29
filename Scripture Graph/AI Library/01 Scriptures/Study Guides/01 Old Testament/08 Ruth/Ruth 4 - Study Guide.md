@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 4
 slug: ruth-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ruth 4]] · My notes: [[Ruth 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,7 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 9]] — 3 parallel verses, e.g. [[Ruth 4#^ruth-4-11|Ruth 4:11]] ↔ [[Judges 9#^judg-9-44|Judges 9:44]]
+- [[Deuteronomy 25]] — 4 footnote cross-references (from [[Ruth 4#^ruth-4-5|Ruth 4:5]])
+- [[Joshua 20]] — 2 footnote cross-references (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
+- [[Matthew 1]] — 2 footnote cross-references (from [[Ruth 4#^ruth-4-18|Ruth 4:18]])
+- [[Genesis 23]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
+- [[Ruth 2]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
+- [[Leviticus 25]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-4|Ruth 4:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

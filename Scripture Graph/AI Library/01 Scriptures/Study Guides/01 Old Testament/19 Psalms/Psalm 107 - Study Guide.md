@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 107
 slug: ps-107
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 107]] · My notes: [[Psalm 107 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Israel are to praise and thank the Lord when they are gathered and redeemed—Oh, that men would praise the Lord!—The Lord’s providences prevail in the lives of men.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-2|Psalm 107:2]])
+- [[3 Nephi 9]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-2|Psalm 107:2]])
+- [[Jeremiah 2]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-4|Psalm 107:4]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-4|Psalm 107:4]])
+- [[Jonah 2]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-6|Psalm 107:6]])
+- [[Job 3]] — 1 footnote cross-reference (from [[Psalm 107#^ps-107-14|Psalm 107:14]])
 - [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
 - [[Psalm 136]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]

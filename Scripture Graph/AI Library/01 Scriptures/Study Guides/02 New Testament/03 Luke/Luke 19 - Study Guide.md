@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 19
 slug: luke-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 19]] · My notes: [[Luke 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus came to save souls—He gives the parable of the pounds—He rides in triumph into Jerusalem, weeps over the city, and cleanses the temple again.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 12]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-8|Luke 19:8]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-10|Luke 19:10]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-10|Luke 19:10]])
+- [[2 Thessalonians 2]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-11|Luke 19:11]])
+- [[D&C 72]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-15|Luke 19:15]])
+- [[Zechariah 9]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-35|Luke 19:35]])
 - [[Mark 11]] — 5 parallel verses, e.g. [[Luke 19#^luke-19-30|Luke 19:30]] ↔ [[Mark 11#^mark-11-2|Mark 11:2]]
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Luke 19#^luke-19-46|Luke 19:46]] ↔ [[Matthew 21#^matt-21-13|Matthew 21:13]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[Luke 19#^luke-19-47|Luke 19:47]] ↔ [[Mark 14#^mark-14-43|Mark 14:43]]

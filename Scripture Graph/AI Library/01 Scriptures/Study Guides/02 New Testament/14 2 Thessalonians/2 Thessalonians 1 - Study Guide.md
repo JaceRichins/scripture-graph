@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 1
 slug: 2thes-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Thessalonians 1]] · My notes: [[2 Thessalonians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At His Second Coming, the Lord Jesus will take vengeance upon the ungodly.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-4|2 Thessalonians 1:4]])
+- [[D&C 58]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-4|2 Thessalonians 1:4]])
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-4|2 Thessalonians 1:4]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-7|2 Thessalonians 1:7]])
+- [[1 Thessalonians 4]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-8|2 Thessalonians 1:8]])
+- [[Isaiah 66]] — 1 footnote cross-reference (from [[2 Thessalonians 1#^2thes-1-10|2 Thessalonians 1:10]])
 - [[1 Thessalonians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-1|2 Thessalonians 1:1]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
 - [[Colossians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[Romans 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]

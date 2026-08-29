@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 4]] · My notes: [[Acts 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peter and John are arrested and brought before the council—Peter testifies that salvation comes because of Christ—The Sadducees strive to silence Peter and John—The Saints glory in the testimony of Jesus—They have all things in common.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 2]] — 3 footnote cross-references (from [[Acts 4#^acts-4-4|Acts 4:4]])
+- [[Acts 3]] — 2 footnote cross-references (from [[Acts 4#^acts-4-10|Acts 4:10]])
+- [[Acts 5]] — 2 footnote cross-references (from [[Acts 4#^acts-4-18|Acts 4:18]])
+- [[Acts 23]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-2|Acts 4:2]])
+- [[Psalm 9]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
+- [[Hosea 13]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
 - [[Acts 5]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-1|Acts 4:1]] ↔ [[Acts 5#^acts-5-24|Acts 5:24]]
 - [[Psalm 2]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-26|Acts 4:26]] ↔ [[Psalm 2#^ps-2-2|Psalm 2:2]]

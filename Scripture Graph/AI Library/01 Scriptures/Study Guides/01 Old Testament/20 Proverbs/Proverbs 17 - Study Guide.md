@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 17
 slug: prov-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 17]] · My notes: [[Proverbs 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> He who is glad at calamities will be punished—A friend loves at all times—Even a fool, when he holds his peace, is counted wise.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 15]] — 2 footnote cross-references (from [[Proverbs 17#^prov-17-1|Proverbs 17:1]])
+- [[Proverbs 14]] — 2 footnote cross-references (from [[Proverbs 17#^prov-17-5|Proverbs 17:5]])
+- [[Proverbs 24]] — 2 footnote cross-references (from [[Proverbs 17#^prov-17-5|Proverbs 17:5]])
+- [[Proverbs 29]] — 2 footnote cross-references (from [[Proverbs 17#^prov-17-19|Proverbs 17:19]])
+- [[Proverbs 10]] — 2 footnote cross-references (from [[Proverbs 17#^prov-17-21|Proverbs 17:21]])
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Proverbs 17#^prov-17-3|Proverbs 17:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

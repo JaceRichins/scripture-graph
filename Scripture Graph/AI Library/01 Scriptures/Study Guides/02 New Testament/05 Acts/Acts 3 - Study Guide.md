@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 3
 slug: acts-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 3]] · My notes: [[Acts 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peter and John heal a man lame since birth—Peter preaches repentance—He also speaks of the age of restoration preceding the Second Coming—He identifies Christ as the prophet of whom Moses spoke.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 4]] — 2 footnote cross-references (from [[Acts 3#^acts-3-6|Acts 3:6]])
+- [[Acts 14]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-2|Acts 3:2]])
+- [[Jacob 4]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-6|Acts 3:6]])
+- [[3 Nephi 8]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-6|Acts 3:6]])
+- [[Mark 9]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-7|Acts 3:7]])
+- [[1 Kings 6]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-11|Acts 3:11]])
 - [[3 Nephi 20]] — 6 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[Acts 7#^acts-7-37|Acts 7:37]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 18
 slug: jer-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 18]] · My notes: [[Jeremiah 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is as potter’s clay in the hands of the Lord—If nations repent, the Lord withholds the evil decreed against them—The people of Judah will be scattered.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 26]] — 8 footnote cross-references (from [[Jeremiah 18#^jer-18-8|Jeremiah 18:8]])
+- [[Jeremiah 2]] — 3 footnote cross-references (from [[Jeremiah 18#^jer-18-12|Jeremiah 18:12]])
+- [[Jeremiah 19]] — 2 footnote cross-references (from [[Jeremiah 18#^jer-18-2|Jeremiah 18:2]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Jeremiah 18#^jer-18-6|Jeremiah 18:6]])
+- [[Romans 9]] — 1 footnote cross-reference (from [[Jeremiah 18#^jer-18-6|Jeremiah 18:6]])
+- [[2 Nephi 27]] — 1 footnote cross-reference (from [[Jeremiah 18#^jer-18-6|Jeremiah 18:6]])
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
 - [[Daniel 9]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Daniel 9#^dan-9-7|Daniel 9:7]]
 - [[Jeremiah 2]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]]

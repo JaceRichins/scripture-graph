@@ -20,7 +20,7 @@ cssclasses:
 > [[Exodus 2#^ex-2-16|Ex. 2:18 (16–18)]] · [[D&C 84#^dc-84-6|D&amp;C 84:6 (6–16)]] · [[Exodus 4#^ex-4-27|Ex. 4:27]] · [[Exodus 18#^ex-18-5|18:5]] · [[Exodus 24#^ex-24-13|24:13]] · [[Mosiah 13#^mosiah-13-5|Mosiah 13:5]] · [[Moses 1#^moses-1-42|Moses 1:42]] · [[1 Kings 19#^1kgs-19-8|1 Kgs. 19:8]] · [[3 Nephi 25#^3ne-25-4|3 Ne. 25:4]]
 
 ![[Exodus 3#^ex-3-2]]
-> [[Acts 7#^acts-7-30|Acts 7:30]] · [[Exodus 19#^ex-19-18|Ex. 19:18]] · [[Deuteronomy 5#^deut-5-4|Deut. 5:4 (4–5)]] · [[1 Nephi 1#^1ne-1-5|1 Ne. 1:6 (5–6)]] · [[D&C 29#^dc-29-12|D&amp;C 29:12]] · [[Deuteronomy 33#^deut-33-16|Deut. 33:16]] · [[Luke 20#^luke-20-37|Luke 20:37 (37–38)]] · [[Moses 1#^moses-1-17|Moses 1:17]] · [[Matthew 1#^matt-1-20|≈ Matthew 1:20]]
+> [[Acts 7#^acts-7-30|Acts 7:30]] · [[Exodus 19#^ex-19-18|Ex. 19:18]] · [[Deuteronomy 5#^deut-5-4|Deut. 5:4 (4–5)]] · [[1 Nephi 1#^1ne-1-5|1 Ne. 1:6 (5–6)]] · [[D&C 29#^dc-29-12|D&amp;C 29:12]] · [[Deuteronomy 33#^deut-33-16|Deut. 33:16]] · [[Luke 20#^luke-20-37|Luke 20:37 (37–38)]] · [[Moses 1#^moses-1-17|Moses 1:17]] · [[Judges 6#^judg-6-12|≈ Judges 6:12]] · [[Matthew 1#^matt-1-20|≈ Matthew 1:20]]
 
 ![[Exodus 3#^ex-3-3]]
 

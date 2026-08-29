@@ -56,9 +56,10 @@ cssclasses:
 > [[Genesis 46#^gen-46-8|Gen. 46:8]] · [[1 Chronicles 5#^1chr-5-1|≈ 1 Chronicles 5:1]] · [[1 Chronicles 5#^1chr-5-3|≈ 1 Chronicles 5:3]]
 
 ![[Exodus 6#^ex-6-15]]
+> [[Genesis 46#^gen-46-10|≈ Genesis 46:10]]
 
 ![[Exodus 6#^ex-6-16]]
-> [[Numbers 3#^num-3-17|Num. 3:17]] · [[Numbers 4#^num-4-4|4:4 (4–15)]] · [[1 Chronicles 6#^1chr-6-16|1 Chr. 6:16 (16–19)]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]]
+> [[Numbers 3#^num-3-17|Num. 3:17]] · [[Numbers 4#^num-4-4|4:4 (4–15)]] · [[1 Chronicles 6#^1chr-6-16|1 Chr. 6:16 (16–19)]] · [[Numbers 3#^num-3-2|≈ Numbers 3:2]] · [[Numbers 3#^num-3-18|≈ Numbers 3:18]] · [[Numbers 3#^num-3-3|≈ Numbers 3:3]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Genesis 46#^gen-46-8|≈ Genesis 46:8]]
 
 ![[Exodus 6#^ex-6-17]]
 > [[Numbers 4#^num-4-41|Num. 4:41]]
@@ -67,7 +68,7 @@ cssclasses:
 > [[1 Chronicles 6#^1chr-6-18|≈ 1 Chronicles 6:18]] · [[1 Chronicles 6#^1chr-6-2|≈ 1 Chronicles 6:2]]
 
 ![[Exodus 6#^ex-6-19]]
-> [[Numbers 4#^num-4-41|Num. 4:42 (41–45)]] · [[Genesis 15#^gen-15-13|Gen. 15:16 (13–16)]]
+> [[Numbers 4#^num-4-41|Num. 4:42 (41–45)]] · [[Genesis 15#^gen-15-13|Gen. 15:16 (13–16)]] · [[Numbers 3#^num-3-20|≈ Numbers 3:20]]
 
 ![[Exodus 6#^ex-6-20]]
 > [[Exodus 2#^ex-2-1|Ex. 2:1 (1–2)]] · [[1 Chronicles 23#^1chr-23-13|1 Chr. 23:13]] · [[Exodus 7#^ex-7-7|Ex. 7:7]] · [[Genesis 25#^gen-25-17|≈ Genesis 25:17]]

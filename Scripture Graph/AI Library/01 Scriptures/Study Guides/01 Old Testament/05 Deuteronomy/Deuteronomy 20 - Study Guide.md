@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 20
 slug: deut-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 20]] · My notes: [[Deuteronomy 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws are revealed for selecting soldiers and making war—Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites will be utterly destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 11]] — 2 footnote cross-references (from [[Deuteronomy 20#^deut-20-16|Deuteronomy 20:16]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]])
+- [[Joshua 17]] — 1 footnote cross-reference (from [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]])
+- [[Joshua 23]] — 1 footnote cross-reference (from [[Deuteronomy 20#^deut-20-4|Deuteronomy 20:4]])
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 20#^deut-20-17|Deuteronomy 20:17]] ↔ [[Deuteronomy 5#^deut-5-12|Deuteronomy 5:12]]
 - [[Deuteronomy 28]] — 2 parallel verses, e.g. [[Deuteronomy 20#^deut-20-14|Deuteronomy 20:14]] ↔ [[Deuteronomy 28#^deut-28-53|Deuteronomy 28:53]]
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Deuteronomy 20#^deut-20-1|Deuteronomy 20:1]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 3
 slug: hel-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 3]] · My notes: [[Helaman 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many Nephites migrate to the land northward—They build houses of cement and keep many records—Tens of thousands are converted and baptized—The word of God leads men to salvation—Nephi the son of Helaman fills the judgment seat. About 49–39 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 63]] — 4 footnote cross-references (from [[Helaman 3#^hel-3-3|Helaman 3:3]])
+- [[Helaman 2]] — 3 footnote cross-references (from [[Helaman 3#^hel-3-20|Helaman 3:20]])
+- [[Mosiah 8]] — 2 footnote cross-references (from [[Helaman 3#^hel-3-4|Helaman 3:4]])
+- [[Alma 22]] — 2 footnote cross-references (from [[Helaman 3#^hel-3-6|Helaman 3:6]])
+- [[Helaman 6]] — 2 footnote cross-references (from [[Helaman 3#^hel-3-12|Helaman 3:12]])
+- [[3 Nephi 5]] — 2 footnote cross-references (from [[Helaman 3#^hel-3-14|Helaman 3:14]])
 - [[Alma 50]] — 3 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-20|Helaman 3:20]] ↔ [[Ether 10#^ether-10-5|Ether 10:5]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 46#^alma-46-36|Alma 46:36]]

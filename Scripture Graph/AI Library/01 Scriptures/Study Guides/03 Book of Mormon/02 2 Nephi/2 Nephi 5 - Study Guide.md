@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 5]] · My notes: [[2 Nephi 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites. About 588–559 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 1]] — 7 footnote cross-references (from [[2 Nephi 5#^2ne-5-9|2 Nephi 5:9]])
+- [[Mosiah 1]] — 5 footnote cross-references (from [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]])
+- [[2 Nephi 4]] — 4 footnote cross-references (from [[2 Nephi 5#^2ne-5-1|2 Nephi 5:1]])
+- [[Mosiah 10]] — 4 footnote cross-references (from [[2 Nephi 5#^2ne-5-1|2 Nephi 5:1]])
+- [[1 Nephi 18]] — 3 footnote cross-references (from [[2 Nephi 5#^2ne-5-2|2 Nephi 5:2]])
+- [[1 Nephi 16]] — 3 footnote cross-references (from [[2 Nephi 5#^2ne-5-3|2 Nephi 5:3]])
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]] ↔ [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]]
 - [[1 Nephi 16]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]

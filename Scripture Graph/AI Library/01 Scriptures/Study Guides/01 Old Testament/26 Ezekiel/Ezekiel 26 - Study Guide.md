@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 26
 slug: ezek-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 26]] · My notes: [[Ezekiel 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Because she rejoiced in the sorrows and fall of Jerusalem, Tyre will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 23]] — 3 footnote cross-references (from [[Ezekiel 26#^ezek-26-2|Ezekiel 26:2]])
+- [[Ezekiel 1]] — 1 footnote cross-reference (from [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]])
+- [[Ezekiel 33]] — 1 footnote cross-reference (from [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]])
+- [[Amos 1]] — 1 footnote cross-reference (from [[Ezekiel 26#^ezek-26-2|Ezekiel 26:2]])
+- [[Jeremiah 34]] — 1 footnote cross-reference (from [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]])
+- [[1 Nephi 21]] — 1 footnote cross-reference (from [[Ezekiel 26#^ezek-26-6|Ezekiel 26:6]])
 - [[Ezekiel 32]] — 6 parallel verses, e.g. [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 - [[Ezekiel 31]] — 3 parallel verses, e.g. [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]] ↔ [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]]
 - [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]

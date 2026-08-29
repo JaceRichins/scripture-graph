@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 5
 slug: rev-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 5]] · My notes: [[Revelation 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John sees the book sealed with seven seals, and he sees those people redeemed out of every nation—He hears every creature praising God and the Lamb.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 2]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-1|Revelation 5:1]])
+- [[D&C 77]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-1|Revelation 5:1]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-5|Revelation 5:5]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-5|Revelation 5:5]])
+- [[Revelation 22]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-5|Revelation 5:5]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-8|Revelation 5:8]])
 - [[Revelation 4]] — 3 parallel verses, e.g. [[Revelation 5#^rev-5-14|Revelation 5:14]] ↔ [[Revelation 4#^rev-4-10|Revelation 4:10]]
 <!-- SG:END related-scriptures -->
 

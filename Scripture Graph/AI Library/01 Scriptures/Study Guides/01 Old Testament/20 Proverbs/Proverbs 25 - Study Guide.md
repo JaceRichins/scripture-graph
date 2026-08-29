@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 25
 slug: prov-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 25]] · My notes: [[Proverbs 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Boast not of false gifts—Give food and drink to your enemy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 1]] — 2 footnote cross-references (from [[Proverbs 25#^prov-25-1|Proverbs 25:1]])
+- [[1 Kings 4]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-1|Proverbs 25:1]])
+- [[Proverbs 10]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-1|Proverbs 25:1]])
+- [[Romans 11]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-2|Proverbs 25:2]])
+- [[D&C 5]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-2|Proverbs 25:2]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-5|Proverbs 25:5]])
 - [[Proverbs 21]] — 2 parallel verses, e.g. [[Proverbs 25#^prov-25-24|Proverbs 25:24]] ↔ [[Proverbs 21#^prov-21-9|Proverbs 21:9]]
 <!-- SG:END related-scriptures -->
 

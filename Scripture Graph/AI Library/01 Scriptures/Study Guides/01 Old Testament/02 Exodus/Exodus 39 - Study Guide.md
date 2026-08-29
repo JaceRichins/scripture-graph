@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 39
 slug: ex-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 39]] · My notes: [[Exodus 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Holy garments are made for Aaron and the priests—The breastplate is made—The tabernacle of the congregation is finished—Moses blesses the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 28]] — 4 footnote cross-references (from [[Exodus 39#^ex-39-1|Exodus 39:1]])
+- [[Ezekiel 44]] — 3 footnote cross-references (from [[Exodus 39#^ex-39-27|Exodus 39:27]])
+- [[Exodus 35]] — 1 footnote cross-reference (from [[Exodus 39#^ex-39-1|Exodus 39:1]])
+- [[Leviticus 6]] — 1 footnote cross-reference (from [[Exodus 39#^ex-39-28|Exodus 39:28]])
+- [[Hebrews 9]] — 1 footnote cross-reference (from [[Exodus 39#^ex-39-33|Exodus 39:33]])
 - [[Exodus 28]] — 26 parallel verses, e.g. [[Exodus 39#^ex-39-14|Exodus 39:14]] ↔ [[Exodus 28#^ex-28-21|Exodus 28:21]]
 - [[Exodus 35]] — 11 parallel verses, e.g. [[Exodus 39#^ex-39-41|Exodus 39:41]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
 - [[Exodus 26]] — 10 parallel verses, e.g. [[Exodus 39#^ex-39-29|Exodus 39:29]] ↔ [[Exodus 26#^ex-26-1|Exodus 26:1]]

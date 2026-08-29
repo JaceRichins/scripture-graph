@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 8
 slug: num-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 8]] · My notes: [[Numbers 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Levites are washed, consecrated, and set apart by the laying on of hands—They are the Lord’s in place of the firstborn of every family—They are a gift to Aaron and his sons to do the service of the tabernacle.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-2|Numbers 8:2]])
+- [[Exodus 27]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
+- [[1 Chronicles 28]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
+- [[D&C 94]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
 - [[Numbers 3]] — 8 parallel verses, e.g. [[Numbers 8#^num-8-19|Numbers 8:19]] ↔ [[Numbers 3#^num-3-8|Numbers 3:8]]
 - [[Numbers 18]] — 6 parallel verses, e.g. [[Numbers 8#^num-8-19|Numbers 8:19]] ↔ [[Numbers 18#^num-18-6|Numbers 18:6]]
 - [[Leviticus 15]] — 2 parallel verses, e.g. [[Numbers 8#^num-8-12|Numbers 8:12]] ↔ [[Leviticus 15#^lev-15-30|Leviticus 15:30]]

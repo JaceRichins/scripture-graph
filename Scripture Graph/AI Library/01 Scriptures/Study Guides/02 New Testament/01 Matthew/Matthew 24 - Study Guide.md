@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 24
 slug: matt-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 24]] · My notes: [[Matthew 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus foretells the doom of Jerusalem and the destruction of the temple—Great calamities will precede His Second Coming—He gives the parable of the fig tree.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 12 footnote cross-references (from [[Matthew 24#^matt-24-1|Matthew 24:1]])
+- [[Joseph Smith—Matthew 1]] — 7 footnote cross-references (from [[Matthew 24#^matt-24-1|Matthew 24:1]])
+- [[D&C 49]] — 5 footnote cross-references (from [[Matthew 24#^matt-24-4|Matthew 24:4]])
+- [[D&C 29]] — 4 footnote cross-references (from [[Matthew 24#^matt-24-14|Matthew 24:14]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Matthew 24#^matt-24-24|Matthew 24:24]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Matthew 24#^matt-24-34|Matthew 24:34]])
 - [[Joseph Smith—Matthew 1]] — 54 parallel verses, e.g. [[Matthew 24#^matt-24-30|Matthew 24:30]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-36|Joseph Smith—Matthew 1:36]]
 - [[Mark 13]] — 21 parallel verses, e.g. [[Matthew 24#^matt-24-32|Matthew 24:32]] ↔ [[Mark 13#^mark-13-28|Mark 13:28]]
 - [[Luke 21]] — 10 parallel verses, e.g. [[Matthew 24#^matt-24-19|Matthew 24:19]] ↔ [[Luke 21#^luke-21-23|Luke 21:23]]

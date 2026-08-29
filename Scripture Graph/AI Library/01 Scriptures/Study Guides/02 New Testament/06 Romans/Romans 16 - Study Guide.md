@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 16]] · My notes: [[Romans 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul sends greetings to various Saints—He counsels the Saints to avoid those who cause divisions—The Saints should be wise concerning good and innocent concerning evil.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 20]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
+- [[1 Corinthians 1]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
+- [[2 Thessalonians 3]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
+- [[1 Corinthians 5]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
 - [[1 Corinthians 16]] — 3 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[Philippians 4]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[2 Thessalonians 3]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]

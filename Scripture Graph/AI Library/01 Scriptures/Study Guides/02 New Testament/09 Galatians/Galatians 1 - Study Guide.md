@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 1
 slug: gal-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Galatians 1]] · My notes: [[Galatians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Galatians 5]] — 2 footnote cross-references (from [[Galatians 1#^gal-1-7|Galatians 1:7]])
+- [[Acts 9]] — 2 footnote cross-references (from [[Galatians 1#^gal-1-13|Galatians 1:13]])
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Galatians 1#^gal-1-6|Galatians 1:6]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[Galatians 1#^gal-1-8|Galatians 1:8]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Galatians 1#^gal-1-9|Galatians 1:9]])
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[Galatians 1#^gal-1-11|Galatians 1:11]])
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
 - [[2 Timothy 4]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]]
 <!-- SG:END related-scriptures -->

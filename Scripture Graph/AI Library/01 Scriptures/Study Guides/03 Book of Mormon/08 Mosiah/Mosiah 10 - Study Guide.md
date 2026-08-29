@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 10
 slug: mosiah-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 10]] · My notes: [[Mosiah 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Laman dies—His people are wild and ferocious and believe in false traditions—Zeniff and his people prevail against them. About 187–160 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 5]] — 6 footnote cross-references (from [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]])
+- [[Mosiah 9]] — 4 footnote cross-references (from [[Mosiah 10#^mosiah-10-4|Mosiah 10:4]])
+- [[Alma 3]] — 2 footnote cross-references (from [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]])
+- [[1 Nephi 18]] — 2 footnote cross-references (from [[Mosiah 10#^mosiah-10-13|Mosiah 10:13]])
+- [[Alma 1]] — 1 footnote cross-reference (from [[Mosiah 10#^mosiah-10-5|Mosiah 10:5]])
+- [[Helaman 6]] — 1 footnote cross-reference (from [[Mosiah 10#^mosiah-10-5|Mosiah 10:5]])
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]] ↔ [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]]
 - [[Mosiah 9]] — 3 parallel verses, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]]
 - [[Alma 2]] — 1 parallel verse, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 31]] · My notes: [[Jeremiah 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Israel will be gathered—The Lord declares that Ephraim has the birthright as the firstborn—The Lord will make a new covenant with Israel, to be inscribed in the heart—Then all Israel will know the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 5]] — 2 footnote cross-references (from [[Jeremiah 31#^jer-31-18|Jeremiah 31:18]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Jeremiah 31#^jer-31-7|Jeremiah 31:7]])
+- [[Jeremiah 50]] — 1 footnote cross-reference (from [[Jeremiah 31#^jer-31-9|Jeremiah 31:9]])
+- [[2 Corinthians 6]] — 1 footnote cross-reference (from [[Jeremiah 31#^jer-31-9|Jeremiah 31:9]])
+- [[Genesis 48]] — 1 footnote cross-reference (from [[Jeremiah 31#^jer-31-9|Jeremiah 31:9]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Jeremiah 31#^jer-31-9|Jeremiah 31:9]])
 - [[Hebrews 8]] — 6 parallel verses, e.g. [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]] ↔ [[Hebrews 8#^heb-8-10|Hebrews 8:10]]
 - [[Jeremiah 23]] — 6 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 - [[Jeremiah 9]] — 5 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
@@ -50,7 +57,7 @@ _Not yet developed._
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 16]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
 - [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]] ↔ [[Jeremiah 44#^jer-44-9|Jeremiah 44:9]]
-- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
+- [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-38|Jeremiah 31:38]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

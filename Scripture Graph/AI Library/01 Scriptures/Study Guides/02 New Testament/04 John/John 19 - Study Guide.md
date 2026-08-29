@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 19]] · My notes: [[John 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is scourged and crucified—He places His mother in John’s care—He dies and His side is pierced with a spear—He is buried in the tomb of Joseph of Arimathæa.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,8 +43,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 15]] — 2 parallel verses, e.g. [[John 19#^john-19-2|John 19:2]] ↔ [[Mark 15#^mark-15-17|Mark 15:17]]
-- [[John 17]] — 2 parallel verses, e.g. [[John 19#^john-19-24|John 19:24]] ↔ [[John 17#^john-17-12|John 17:12]]
+- [[John 18]] — 4 footnote cross-references (from [[John 19#^john-19-4|John 19:4]])
+- [[Exodus 12]] — 4 footnote cross-references (from [[John 19#^john-19-31|John 19:31]])
+- [[Mosiah 15]] — 3 footnote cross-references (from [[John 19#^john-19-1|John 19:1]])
+- [[D&C 45]] — 2 footnote cross-references (from [[John 19#^john-19-3|John 19:3]])
+- [[Mosiah 14]] — 2 footnote cross-references (from [[John 19#^john-19-4|John 19:4]])
+- [[John 1]] — 2 footnote cross-references (from [[John 19#^john-19-35|John 19:35]])
+- [[Exodus 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

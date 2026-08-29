@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 61
 slug: ps-61
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 61]] · My notes: [[Psalm 61 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David finds shelter in the Lord, abides in the Lord’s presence, and keeps his own vows.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 18]] — 1 footnote cross-reference (from [[Psalm 61#^ps-61-3|Psalm 61:3]])
+- [[Psalm 40]] — 1 footnote cross-reference (from [[Psalm 61#^ps-61-7|Psalm 61:7]])
+- [[Psalm 50]] — 1 footnote cross-reference (from [[Psalm 61#^ps-61-8|Psalm 61:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

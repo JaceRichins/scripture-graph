@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 6]] · My notes: [[Luke 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus heals on the Sabbath—He chooses the Twelve Apostles—He pronounces blessings upon the obedient and woes upon the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 7]] — 2 footnote cross-references (from [[Luke 6#^luke-6-44|Luke 6:44]])
+- [[John 5]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-2|Luke 6:2]])
+- [[Exodus 29]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-4|Luke 6:4]])
+- [[Leviticus 24]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-4|Luke 6:4]])
+- [[1 Samuel 21]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-4|Luke 6:4]])
+- [[John 2]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-8|Luke 6:8]])
 - [[Matthew 7]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[Matthew 7#^matt-7-3|Matthew 7:3]]
 - [[3 Nephi 14]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]]
 - [[Mark 2]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-4|Luke 6:4]] ↔ [[Mark 2#^mark-2-26|Mark 2:26]]

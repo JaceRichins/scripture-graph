@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 13
 slug: 2ne-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 13]] · My notes: [[2 Nephi 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah and Jerusalem will be punished for their disobedience—The Lord pleads for and judges His people—The daughters of Zion are cursed and tormented for their worldliness—Compare Isaiah 3. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 1]] — 3 footnote cross-references (from [[2 Nephi 13#^2ne-13-8|2 Nephi 13:8]])
+- [[Isaiah 3]] — 2 footnote cross-references (from [[2 Nephi 13#^2ne-13-1|2 Nephi 13:1]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-2|2 Nephi 13:2]])
+- [[1 Chronicles 28]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-2|2 Nephi 13:2]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-8|2 Nephi 13:8]])
+- [[Jeremiah 9]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-8|2 Nephi 13:8]])
 - [[Isaiah 3]] — 24 parallel verses, e.g. [[2 Nephi 13#^2ne-13-16|2 Nephi 13:16]] ↔ [[Isaiah 3#^isa-3-16|Isaiah 3:16]]
 <!-- SG:END related-scriptures -->
 

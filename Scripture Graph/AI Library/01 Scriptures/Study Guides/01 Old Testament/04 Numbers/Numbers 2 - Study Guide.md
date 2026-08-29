@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 2
 slug: num-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 2]] · My notes: [[Numbers 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The order and leaders of the tribes and armies of Israel in their tents are given.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 10]] — 3 footnote cross-references (from [[Numbers 2#^num-2-9|Numbers 2:9]])
+- [[Numbers 24]] — 1 footnote cross-reference (from [[Numbers 2#^num-2-2|Numbers 2:2]])
+- [[Numbers 1]] — 1 footnote cross-reference (from [[Numbers 2#^num-2-14|Numbers 2:14]])
+- [[Numbers 7]] — 1 footnote cross-reference (from [[Numbers 2#^num-2-14|Numbers 2:14]])
+- [[Ezekiel 48]] — 1 footnote cross-reference (from [[Numbers 2#^num-2-25|Numbers 2:25]])
+- [[D&C 61]] — 1 footnote cross-reference (from [[Numbers 2#^num-2-34|Numbers 2:34]])
 - [[Numbers 1]] — 13 parallel verses, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 1#^num-1-54|Numbers 1:54]]
 - [[Numbers 26]] — 12 parallel verses, e.g. [[Numbers 2#^num-2-15|Numbers 2:15]] ↔ [[Numbers 26#^num-26-41|Numbers 26:41]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[Numbers 2#^num-2-10|Numbers 2:10]] ↔ [[Numbers 10#^num-10-18|Numbers 10:18]]

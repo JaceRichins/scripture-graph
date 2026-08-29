@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 1
 slug: 3ne-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 1]] · My notes: [[3 Nephi 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi, the son of Helaman, departs out of the land, and his son Nephi keeps the records—Though signs and wonders abound, the wicked plan to slay the righteous—The night of Christ’s birth arrives—The sign is given, and a new star arises—Lyings and deceivings increase, and the Gadianton robbers slaughter many. About A.D. 1–4.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 14]] — 7 footnote cross-references (from [[3 Nephi 1#^3ne-1-5|3 Nephi 1:5]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-1|3 Nephi 1:1]])
+- [[3 Nephi 2]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-3|3 Nephi 1:3]])
+- [[Helaman 16]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]])
+- [[Matthew 2]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-13|3 Nephi 1:13]])
+- [[Luke 2]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-13|3 Nephi 1:13]])
 - [[3 Nephi 5]] — 3 parallel verses, e.g. [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]] ↔ [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]]
 - [[D&C 20]] — 3 parallel verses, e.g. [[3 Nephi 1#^3ne-1-14|3 Nephi 1:14]] ↔ [[D&C 20#^dc-20-27|D&C 20:27]]
 - [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 1#^3ne-1-14|3 Nephi 1:14]] ↔ [[Moses 7#^moses-7-24|Moses 7:24]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 13
 slug: john-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 13]] · My notes: [[John 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus washes the feet of the Twelve—He identifies Judas as His betrayer—He commands them to love one another.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,10 +41,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 7]] — 2 footnote cross-references (from [[John 13#^john-13-3|John 13:3]])
+- [[Deuteronomy 16]] — 1 footnote cross-reference (from [[John 13#^john-13-1|John 13:1]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[John 13#^john-13-2|John 13:2]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[John 13#^john-13-2|John 13:2]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[John 13#^john-13-10|John 13:10]])
+- [[John 6]] — 1 footnote cross-reference (from [[John 13#^john-13-11|John 13:11]])
 - [[John 15]] — 2 parallel verses, e.g. [[John 13#^john-13-16|John 13:16]] ↔ [[John 15#^john-15-20|John 15:20]]
 - [[Matthew 10]] — 1 parallel verse, e.g. [[John 13#^john-13-20|John 13:20]] ↔ [[Matthew 10#^matt-10-40|Matthew 10:40]]
 - [[Matthew 26]] — 1 parallel verse, e.g. [[John 13#^john-13-21|John 13:21]] ↔ [[Matthew 26#^matt-26-21|Matthew 26:21]]
 - [[D&C 39]] — 1 parallel verse, e.g. [[John 13#^john-13-20|John 13:20]] ↔ [[D&C 39#^dc-39-5|D&C 39:5]]
+- [[1 John 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

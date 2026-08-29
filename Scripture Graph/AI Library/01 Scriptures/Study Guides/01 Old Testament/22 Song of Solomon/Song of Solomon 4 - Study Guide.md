@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 4
 slug: song-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 4]] · My notes: [[Song of Solomon 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A song describes the beauty of the poet’s beloved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Song of Solomon 5]] — 2 footnote cross-references (from [[Song of Solomon 4#^song-4-8|Song of Solomon 4:8]])
+- [[Song of Solomon 1]] — 1 footnote cross-reference (from [[Song of Solomon 4#^song-4-13|Song of Solomon 4:13]])
 - [[Song of Solomon 6]] — 2 parallel verses, e.g. [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]] ↔ [[Song of Solomon 6#^song-6-5|Song of Solomon 6:5]]
 - [[Song of Solomon 1]] — 1 parallel verse, e.g. [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]] ↔ [[Song of Solomon 1#^song-1-15|Song of Solomon 1:15]]
 - [[Song of Solomon 7]] — 1 parallel verse, e.g. [[Song of Solomon 4#^song-4-5|Song of Solomon 4:5]] ↔ [[Song of Solomon 7#^song-7-3|Song of Solomon 7:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 22
 slug: num-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 22]] · My notes: [[Numbers 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Balak offers money, cattle, and great honors to Balaam to curse Israel—The Lord forbids Balaam to do so—An angel opposes Balaam on the way.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Peter 2]] — 2 footnote cross-references (from [[Numbers 22#^num-22-5|Numbers 22:5]])
+- [[Judges 11]] — 1 footnote cross-reference (from [[Numbers 22#^num-22-2|Numbers 22:2]])
+- [[Micah 6]] — 1 footnote cross-reference (from [[Numbers 22#^num-22-2|Numbers 22:2]])
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[Numbers 22#^num-22-5|Numbers 22:5]])
+- [[Nehemiah 13]] — 1 footnote cross-reference (from [[Numbers 22#^num-22-5|Numbers 22:5]])
+- [[Deuteronomy 18]] — 1 footnote cross-reference (from [[Numbers 22#^num-22-7|Numbers 22:7]])
 - [[Judges 13]] — 7 parallel verses, e.g. [[Numbers 22#^num-22-32|Numbers 22:32]] ↔ [[Judges 13#^judg-13-18|Judges 13:18]]
 - [[Genesis 16]] — 6 parallel verses, e.g. [[Numbers 22#^num-22-32|Numbers 22:32]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
 - [[Numbers 24]] — 1 parallel verse, e.g. [[Numbers 22#^num-22-18|Numbers 22:18]] ↔ [[Numbers 24#^num-24-13|Numbers 24:13]]

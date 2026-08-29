@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 27
 slug: ex-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 27]] · My notes: [[Exodus 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The tabernacle is to contain an altar for burnt offerings and a court surrounded by pillars—A light is to burn always in the tabernacle of the congregation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 38]] — 4 footnote cross-references (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
+- [[Exodus 35]] — 2 footnote cross-references (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
+- [[Exodus 26]] — 2 footnote cross-references (from [[Exodus 27#^ex-27-8|Exodus 27:8]])
+- [[Ezekiel 9]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
+- [[Alma 15]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
+- [[1 Kings 1]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-2|Exodus 27:2]])
 - [[Exodus 38]] — 16 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
 - [[Exodus 39]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
 - [[Exodus 25]] — 5 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 25#^ex-25-13|Exodus 25:13]]
@@ -47,6 +54,7 @@ _Not yet developed._
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-21|Exodus 27:21]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
 - [[Exodus 30]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
 - [[Exodus 35]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
+- [[Leviticus 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 1
 slug: philip-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Philippians 1]] · My notes: [[Philippians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All that happened to Paul furthered the gospel cause—Our conduct should be worthy of the gospel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Philippians 4]] — 2 footnote cross-references (from [[Philippians 1#^philip-1-13|Philippians 1:13]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Philippians 1#^philip-1-9|Philippians 1:9]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Philippians 1#^philip-1-14|Philippians 1:14]])
+- [[1 John 4]] — 1 footnote cross-reference (from [[Philippians 1#^philip-1-14|Philippians 1:14]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Philippians 1#^philip-1-14|Philippians 1:14]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[Philippians 1#^philip-1-19|Philippians 1:19]])
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[Philippians 1#^philip-1-2|Philippians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]

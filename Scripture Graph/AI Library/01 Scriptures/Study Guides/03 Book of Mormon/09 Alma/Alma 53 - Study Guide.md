@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 53]] · My notes: [[Alma 53 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamanite prisoners are used to fortify the city Bountiful—Dissensions among the Nephites give rise to Lamanite victories—Helaman takes command of the two thousand stripling sons of the people of Ammon. About 64–63 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 52]] — 3 footnote cross-references (from [[Alma 53#^alma-53-3|Alma 53:3]])
+- [[Alma 56]] — 3 footnote cross-references (from [[Alma 53#^alma-53-13|Alma 53:13]])
+- [[Alma 27]] — 2 footnote cross-references (from [[Alma 53#^alma-53-10|Alma 53:10]])
+- [[Alma 24]] — 2 footnote cross-references (from [[Alma 53#^alma-53-11|Alma 53:11]])
+- [[Alma 48]] — 1 footnote cross-reference (from [[Alma 53#^alma-53-2|Alma 53:2]])
+- [[Alma 63]] — 1 footnote cross-reference (from [[Alma 53#^alma-53-3|Alma 53:3]])
 - [[Alma 57]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-23|Alma 53:23]] ↔ [[Alma 57#^alma-57-5|Alma 57:5]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-6|Alma 53:6]] ↔ [[Alma 62#^alma-62-30|Alma 62:30]]
 - [[Helaman 6]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-10|Alma 53:10]] ↔ [[Helaman 6#^hel-6-4|Helaman 6:4]]

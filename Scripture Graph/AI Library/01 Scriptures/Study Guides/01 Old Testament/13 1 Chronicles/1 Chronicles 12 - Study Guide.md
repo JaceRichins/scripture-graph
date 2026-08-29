@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 12
 slug: 1chr-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 12]] · My notes: [[1 Chronicles 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David’s mighty men are cataloged—The armies of the tribes of Israel join David at Hebron—Israel rejoices because of King David.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,17 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 21]] — 6 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]] ↔ [[Joshua 21#^josh-21-5|Joshua 21:5]]
-- [[1 Chronicles 6]] — 6 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]] ↔ [[1 Chronicles 6#^1chr-6-61|1 Chronicles 6:61]]
-- [[1 Chronicles 5]] — 4 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-37|1 Chronicles 12:37]] ↔ [[1 Chronicles 5#^1chr-5-26|1 Chronicles 5:26]]
-- [[1 Chronicles 27]] — 4 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]] ↔ [[1 Chronicles 27#^1chr-27-20|1 Chronicles 27:20]]
-- [[1 Chronicles 9]] — 3 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-30|1 Chronicles 12:30]] ↔ [[1 Chronicles 9#^1chr-9-3|1 Chronicles 9:3]]
-- [[Joshua 22]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-37|1 Chronicles 12:37]] ↔ [[Joshua 22#^josh-22-1|Joshua 22:1]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
-- [[2 Kings 1]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]] ↔ [[2 Kings 1#^2kgs-1-17|2 Kings 1:17]]
-- [[Joshua 13]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]] ↔ [[Joshua 13#^josh-13-29|Joshua 13:29]]
-- [[1 Chronicles 11]] — 2 parallel verses, e.g. [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]] ↔ [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]]
+- [[Judges 20]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-2|1 Chronicles 12:2]])
+- [[2 Samuel 17]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-18|1 Chronicles 12:18]])
+- [[1 Samuel 29]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-19|1 Chronicles 12:19]])
+- [[2 Samuel 2]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]])
+- [[2 Samuel 5]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-23|1 Chronicles 12:23]])
+- [[1 Samuel 9]] — 1 footnote cross-reference (from [[1 Chronicles 12#^1chr-12-29|1 Chronicles 12:29]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

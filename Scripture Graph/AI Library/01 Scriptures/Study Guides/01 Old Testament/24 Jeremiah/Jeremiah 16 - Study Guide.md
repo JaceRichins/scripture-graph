@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 16
 slug: jer-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 16]] · My notes: [[Jeremiah 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The utter ruin of Judah is foreseen—Israel is rejected and scattered for serving false gods—Fishers and hunters will gather Israel again, and the people will serve the Lord—The gospel is to be restored.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 7]] — 2 footnote cross-references (from [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]])
+- [[Jeremiah 14]] — 1 footnote cross-reference (from [[Jeremiah 16#^jer-16-4|Jeremiah 16:4]])
+- [[Deuteronomy 28]] — 1 footnote cross-reference (from [[Jeremiah 16#^jer-16-4|Jeremiah 16:4]])
+- [[Ezekiel 24]] — 1 footnote cross-reference (from [[Jeremiah 16#^jer-16-5|Jeremiah 16:5]])
+- [[Deuteronomy 14]] — 1 footnote cross-reference (from [[Jeremiah 16#^jer-16-6|Jeremiah 16:6]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]])
 - [[Jeremiah 7]] — 5 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]
 - [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 16#^jer-16-4|Jeremiah 16:4]] ↔ [[Jeremiah 19#^jer-19-7|Jeremiah 19:7]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]] ↔ [[Jeremiah 25#^jer-25-10|Jeremiah 25:10]]

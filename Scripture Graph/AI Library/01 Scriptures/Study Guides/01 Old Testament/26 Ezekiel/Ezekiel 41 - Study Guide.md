@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 41
 slug: ezek-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 41]] · My notes: [[Ezekiel 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel sees the inner temple and the Holy of Holies, and he is shown their form and size.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 6]] — 5 footnote cross-references (from [[Ezekiel 41#^ezek-41-2|Ezekiel 41:2]])
+- [[Ezekiel 40]] — 4 footnote cross-references (from [[Ezekiel 41#^ezek-41-8|Ezekiel 41:8]])
+- [[Ezekiel 42]] — 3 footnote cross-references (from [[Ezekiel 41#^ezek-41-10|Ezekiel 41:10]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Ezekiel 41#^ezek-41-4|Ezekiel 41:4]])
+- [[1 Kings 7]] — 2 footnote cross-references (from [[Ezekiel 41#^ezek-41-18|Ezekiel 41:18]])
+- [[Ezekiel 47]] — 1 footnote cross-reference (from [[Ezekiel 41#^ezek-41-2|Ezekiel 41:2]])
 - [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]]
 - [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-26|Ezekiel 41:26]] ↔ [[Ezekiel 47#^ezek-47-7|Ezekiel 47:7]]
 - [[Ezekiel 48]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]]

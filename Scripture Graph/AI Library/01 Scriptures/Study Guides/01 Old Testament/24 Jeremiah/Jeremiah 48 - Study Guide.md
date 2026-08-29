@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 48
 slug: jer-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 48]] · My notes: [[Jeremiah 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judgment and destruction will come upon the Moabites for their contempt of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 15]] — 5 footnote cross-references (from [[Jeremiah 48#^jer-48-3|Jeremiah 48:3]])
+- [[Isaiah 16]] — 4 footnote cross-references (from [[Jeremiah 48#^jer-48-20|Jeremiah 48:20]])
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Jeremiah 48#^jer-48-1|Jeremiah 48:1]])
+- [[Jeremiah 49]] — 2 footnote cross-references (from [[Jeremiah 48#^jer-48-7|Jeremiah 48:7]])
+- [[Jeremiah 17]] — 1 footnote cross-reference (from [[Jeremiah 48#^jer-48-6|Jeremiah 48:6]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Jeremiah 48#^jer-48-7|Jeremiah 48:7]])
 - [[Jeremiah 31]] — 4 parallel verses, e.g. [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[Jeremiah 48#^jer-48-44|Jeremiah 48:44]] ↔ [[Isaiah 24#^isa-24-18|Isaiah 24:18]]
 - [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 48#^jer-48-15|Jeremiah 48:15]] ↔ [[Jeremiah 51#^jer-51-57|Jeremiah 51:57]]

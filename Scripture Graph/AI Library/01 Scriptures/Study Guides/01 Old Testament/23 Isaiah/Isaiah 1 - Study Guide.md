@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 1
 slug: isa-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 1]] · My notes: [[Isaiah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Israel are apostate, rebellious, and corrupt; only a few remain faithful—The people’s sacrifices and feasts are rejected—They are called upon to repent and work righteousness—Zion will be redeemed in the day of restoration.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,9 +41,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 15]] — 2 footnote cross-references (from [[Isaiah 1#^isa-1-1|Isaiah 1:1]])
+- [[Deuteronomy 32]] — 2 footnote cross-references (from [[Isaiah 1#^isa-1-2|Isaiah 1:2]])
+- [[Jeremiah 9]] — 2 footnote cross-references (from [[Isaiah 1#^isa-1-7|Isaiah 1:7]])
+- [[D&C 101]] — 2 footnote cross-references (from [[Isaiah 1#^isa-1-15|Isaiah 1:15]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Isaiah 1#^isa-1-1|Isaiah 1:1]])
+- [[3 Nephi 23]] — 1 footnote cross-reference (from [[Isaiah 1#^isa-1-1|Isaiah 1:1]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-1|Isaiah 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
+- [[Amos 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

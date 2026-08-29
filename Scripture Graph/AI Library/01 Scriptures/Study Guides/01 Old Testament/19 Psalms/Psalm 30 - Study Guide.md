@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 30
 slug: ps-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 30]] · My notes: [[Psalm 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David sings praises and gives thanks to the Lord—David pleads for mercy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-3|Psalm 30:3]])
+- [[Acts 2]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-3|Psalm 30:3]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-3|Psalm 30:3]])
+- [[Psalm 16]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-3|Psalm 30:3]])
+- [[Psalm 104]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-7|Psalm 30:7]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-7|Psalm 30:7]])
 - [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 30#^ps-30-4|Psalm 30:4]] ↔ [[Psalm 97#^ps-97-12|Psalm 97:12]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 29
 slug: ex-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,13 @@ Scripture: [[Exodus 29]] · My notes: [[Exodus 29 - My Notes]]
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 8]] — 8 footnote cross-references (from [[Exodus 29#^ex-29-1|Exodus 29:1]])
+- [[Ezekiel 43]] — 3 footnote cross-references (from [[Exodus 29#^ex-29-10|Exodus 29:10]])
+- [[D&C 124]] — 2 footnote cross-references (from [[Exodus 29#^ex-29-4|Exodus 29:4]])
+- [[Exodus 28]] — 2 footnote cross-references (from [[Exodus 29#^ex-29-5|Exodus 29:5]])
+- [[Exodus 27]] — 2 footnote cross-references (from [[Exodus 29#^ex-29-9|Exodus 29:9]])
+- [[Leviticus 4]] — 2 footnote cross-references (from [[Exodus 29#^ex-29-12|Exodus 29:12]])
+- [[Leviticus 8]] — 31 parallel verses, e.g. [[Exodus 29#^ex-29-21|Exodus 29:21]] ↔ [[Leviticus 8#^lev-8-30|Leviticus 8:30]]
 - [[Leviticus 3]] — 27 parallel verses, e.g. [[Exodus 29#^ex-29-22|Exodus 29:22]] ↔ [[Leviticus 3#^lev-3-10|Leviticus 3:10]]
 - [[Leviticus 23]] — 21 parallel verses, e.g. [[Exodus 29#^ex-29-18|Exodus 29:18]] ↔ [[Leviticus 23#^lev-23-36|Leviticus 23:36]]
 - [[Leviticus 4]] — 14 parallel verses, e.g. [[Exodus 29#^ex-29-22|Exodus 29:22]] ↔ [[Leviticus 4#^lev-4-9|Leviticus 4:9]]
@@ -58,16 +65,15 @@ Scripture: [[Exodus 29]] · My notes: [[Exodus 29 - My Notes]]
 - [[Exodus 30]] — 5 parallel verses, e.g. [[Exodus 29#^ex-29-1|Exodus 29:1]] ↔ [[Exodus 30#^ex-30-30|Exodus 30:30]]
 - [[Leviticus 16]] — 3 parallel verses, e.g. [[Exodus 29#^ex-29-12|Exodus 29:12]] ↔ [[Leviticus 16#^lev-16-18|Leviticus 16:18]]
 - [[Exodus 28]] — 4 parallel verses, e.g. [[Exodus 29#^ex-29-1|Exodus 29:1]] ↔ [[Exodus 28#^ex-28-1|Exodus 28:1]]
-- [[Leviticus 9]] — 4 parallel verses, e.g. [[Exodus 29#^ex-29-12|Exodus 29:12]] ↔ [[Leviticus 9#^lev-9-9|Leviticus 9:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sacrifice]]
-- [[Consecration]]
 - [[Priesthood]]
 - [[Ordinances]]
 - [[Law of Moses]]
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Consecration]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

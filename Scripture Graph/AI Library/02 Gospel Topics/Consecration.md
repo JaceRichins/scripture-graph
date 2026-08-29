@@ -42,6 +42,7 @@ _Not yet developed._
 - [[4 Nephi 1]]
 - [[D&C 82]]
 - [[Moses 7]]
+- [[Numbers 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 15
 slug: 1chr-15
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ The chapter recounts a corrected attempt to bring the ark into the city of David
 - [[Deuteronomy 10]] — 1 footnote cross-reference (from [[1 Chronicles 15#^1chr-15-2|1 Chronicles 15:2]])
 - [[1 Chronicles 23]] — 1 footnote cross-reference (from [[1 Chronicles 15#^1chr-15-4|1 Chronicles 15:4]])
 - [[1 Chronicles 6]] — 1 footnote cross-reference (from [[1 Chronicles 15#^1chr-15-5|1 Chronicles 15:5]])
+- [[2 Chronicles 5]] — 11 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
+- [[1 Kings 8]] — 10 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[1 Samuel 4]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[Deuteronomy 31]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[Joshua 3]] — 12 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]] ↔ [[Joshua 3#^josh-3-17|Joshua 3:17]]
@@ -65,14 +67,12 @@ The chapter recounts a corrected attempt to bring the ark into the city of David
 - [[Numbers 14]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
 - [[Deuteronomy 10]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
 - [[Joshua 6]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
-- [[1 Kings 3]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]]
-- [[1 Kings 6]] — 4 parallel verses, e.g. [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]] ↔ [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Law of Moses]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

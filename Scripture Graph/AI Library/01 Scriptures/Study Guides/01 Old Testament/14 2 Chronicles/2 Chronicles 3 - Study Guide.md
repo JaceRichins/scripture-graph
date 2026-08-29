@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 3
 slug: 2chr-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 3]] · My notes: [[2 Chronicles 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Solomon begins to build the temple—He makes the veil and the pillars, and uses much gold and many precious stones.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 6]] — 3 footnote cross-references (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
+- [[1 Chronicles 22]] — 2 footnote cross-references (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
+- [[2 Samuel 24]] — 2 footnote cross-references (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
+- [[1 Chronicles 21]] — 2 footnote cross-references (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]])
 - [[1 Kings 6]] — 5 parallel verses, e.g. [[2 Chronicles 3#^2chr-3-8|2 Chronicles 3:8]] ↔ [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]]
 - [[Luke 23]] — 1 parallel verse, e.g. [[2 Chronicles 3#^2chr-3-17|2 Chronicles 3:17]] ↔ [[Luke 23#^luke-23-33|Luke 23:33]]
 - [[1 Chronicles 21]] — 2 parallel verses, e.g. [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]] ↔ [[1 Chronicles 21#^1chr-21-18|1 Chronicles 21:18]]

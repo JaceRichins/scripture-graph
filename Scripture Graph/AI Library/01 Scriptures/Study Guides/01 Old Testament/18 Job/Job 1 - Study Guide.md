@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 1
 slug: job-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 1]] · My notes: [[Job 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job’s property and children are destroyed, and yet he praises and blesses the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 10]] — 2 footnote cross-references (from [[Job 1#^job-1-1|Job 1:1]])
+- [[Genesis 10]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
+- [[Lamentations 4]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
+- [[Ezekiel 14]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
+- [[James 5]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
+- [[Job 4]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
 - [[Job 2]] — 5 parallel verses, e.g. [[Job 1#^job-1-8|Job 1:8]] ↔ [[Job 2#^job-2-3|Job 2:3]]
 - [[Joshua 10]] — 12 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Numbers 21]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Numbers 21#^num-21-24|Numbers 21:24]]

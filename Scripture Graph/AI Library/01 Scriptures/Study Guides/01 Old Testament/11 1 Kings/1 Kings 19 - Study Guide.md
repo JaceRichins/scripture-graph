@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 19
 slug: 1kgs-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 19]] · My notes: [[1 Kings 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jezebel seeks the life of Elijah—An angel sends him to Horeb—The Lord speaks to Elijah, not in the wind nor the earthquake nor the fire, but in a still, small voice—Elisha joins Elijah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,11 +41,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 9]] — 2 parallel verses, e.g. [[1 Kings 19#^1kgs-19-13|1 Kings 19:13]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
-- [[Genesis 32]] — 2 parallel verses, e.g. [[1 Kings 19#^1kgs-19-9|1 Kings 19:9]] ↔ [[Genesis 32#^gen-32-27|Genesis 32:27]]
-- [[Isaiah 10]] — 2 parallel verses, e.g. [[1 Kings 19#^1kgs-19-10|1 Kings 19:10]] ↔ [[Isaiah 10#^isa-10-23|Isaiah 10:23]]
-- [[Jeremiah 46]] — 2 parallel verses, e.g. [[1 Kings 19#^1kgs-19-10|1 Kings 19:10]] ↔ [[Jeremiah 46#^jer-46-10|Jeremiah 46:10]]
-- [[2 Nephi 20]] — 2 parallel verses, e.g. [[1 Kings 19#^1kgs-19-10|1 Kings 19:10]] ↔ [[2 Nephi 20#^2ne-20-23|2 Nephi 20:23]]
+- [[2 Kings 2]] — 2 footnote cross-references (from [[1 Kings 19#^1kgs-19-16|1 Kings 19:16]])
+- [[1 Kings 20]] — 1 footnote cross-reference (from [[1 Kings 19#^1kgs-19-2|1 Kings 19:2]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[1 Kings 19#^1kgs-19-8|1 Kings 19:8]])
+- [[3 Nephi 25]] — 1 footnote cross-reference (from [[1 Kings 19#^1kgs-19-8|1 Kings 19:8]])
+- [[Exodus 4]] — 1 footnote cross-reference (from [[1 Kings 19#^1kgs-19-8|1 Kings 19:8]])
+- [[Job 4]] — 1 footnote cross-reference (from [[1 Kings 19#^1kgs-19-12|1 Kings 19:12]])
+- [[2 Kings 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

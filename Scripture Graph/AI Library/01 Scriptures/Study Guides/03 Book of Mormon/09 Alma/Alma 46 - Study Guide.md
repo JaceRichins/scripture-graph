@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 46]] · My notes: [[Alma 46 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amalickiah conspires to be king—Moroni raises the title of liberty—He rallies the people to defend their religion—True believers are called Christians—A remnant of Joseph will be preserved—Amalickiah and the dissenters flee to the land of Nephi—Those who will not support the cause of freedom are put to death. About 73–72 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 43]] — 5 footnote cross-references (from [[Alma 46#^alma-46-11|Alma 46:11]])
+- [[Mosiah 29]] — 4 footnote cross-references (from [[Alma 46#^alma-46-4|Alma 46:4]])
+- [[Alma 49]] — 3 footnote cross-references (from [[Alma 46#^alma-46-3|Alma 46:3]])
+- [[Alma 44]] — 3 footnote cross-references (from [[Alma 46#^alma-46-7|Alma 46:7]])
+- [[Alma 48]] — 3 footnote cross-references (from [[Alma 46#^alma-46-12|Alma 46:12]])
+- [[Alma 45]] — 2 footnote cross-references (from [[Alma 46#^alma-46-1|Alma 46:1]])
 - [[3 Nephi 6]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-31|Alma 46:31]] ↔ [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]]
 - [[Ether 13]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
 - [[Alma 48]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-38|Alma 46:38]] ↔ [[Alma 48#^alma-48-20|Alma 48:20]]

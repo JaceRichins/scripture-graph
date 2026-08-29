@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 17]] · My notes: [[Revelation 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John is shown that Babylon the great, the mother of harlots and abominations, has become established throughout the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 18]] — 3 footnote cross-references (from [[Revelation 17#^rev-17-1|Revelation 17:1]])
+- [[Revelation 19]] — 2 footnote cross-references (from [[Revelation 17#^rev-17-1|Revelation 17:1]])
+- [[Jeremiah 51]] — 1 footnote cross-reference (from [[Revelation 17#^rev-17-1|Revelation 17:1]])
+- [[Isaiah 24]] — 1 footnote cross-reference (from [[Revelation 17#^rev-17-2|Revelation 17:2]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[Revelation 17#^rev-17-2|Revelation 17:2]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[Revelation 17#^rev-17-4|Revelation 17:4]])
 - [[Revelation 21]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-1|Revelation 17:1]] ↔ [[Revelation 21#^rev-21-9|Revelation 21:9]]
 - [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-4|Revelation 17:4]] ↔ [[Revelation 18#^rev-18-16|Revelation 18:16]]
 <!-- SG:END related-scriptures -->

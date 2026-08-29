@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 15
 slug: 2chr-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 15]] · My notes: [[2 Chronicles 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Azariah prophesies that Judah will prosper if the people keep the commandments—Asa does away with false worship in Judah—Many from Ephraim, Manasseh, and Simeon migrate to Judah—The people covenant to serve the Lord and are blessed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 33]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-3|2 Chronicles 15:3]])
+- [[2 Chronicles 17]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-3|2 Chronicles 15:3]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-3|2 Chronicles 15:3]])
+- [[Alma 10]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-9|2 Chronicles 15:9]])
+- [[Mosiah 5]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[2 Chronicles 15#^2chr-15-15|2 Chronicles 15:15]])
 - [[1 Kings 15]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-16|2 Chronicles 15:16]] ↔ [[1 Kings 15#^1kgs-15-13|1 Kings 15:13]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[2 Chronicles 6#^2chr-6-38|2 Chronicles 6:38]]
 - [[1 Kings 2]] — 1 parallel verse, e.g. [[2 Chronicles 15#^2chr-15-12|2 Chronicles 15:12]] ↔ [[1 Kings 2#^1kgs-2-4|1 Kings 2:4]]

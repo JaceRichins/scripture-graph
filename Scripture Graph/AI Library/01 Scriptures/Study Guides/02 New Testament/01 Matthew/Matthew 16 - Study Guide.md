@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 16
 slug: matt-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 16]] · My notes: [[Matthew 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus warns against the doctrine of the Pharisees and Sadducees—Peter testifies that Jesus is the Christ and is promised the keys of the kingdom—Jesus foretells His death and resurrection.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 10]] — 2 footnote cross-references (from [[Matthew 16#^matt-16-19|Matthew 16:19]])
+- [[Proverbs 26]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-2|Matthew 16:2]])
+- [[2 Peter 3]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-3|Matthew 16:3]])
+- [[Esther 1]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-3|Matthew 16:3]])
+- [[Mark 8]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-4|Matthew 16:4]])
+- [[Jonah 1]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-4|Matthew 16:4]])
 - [[Mark 8]] — 16 parallel verses, e.g. [[Matthew 16#^matt-16-24|Matthew 16:24]] ↔ [[Mark 8#^mark-8-34|Mark 8:34]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[Matthew 16#^matt-16-19|Matthew 16:19]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
 - [[Luke 9]] — 6 parallel verses, e.g. [[Matthew 16#^matt-16-24|Matthew 16:24]] ↔ [[Luke 9#^luke-9-23|Luke 9:23]]

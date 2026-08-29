@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 13
 slug: hosea-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 13]] · My notes: [[Hosea 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ephraim’s sins provoke the Lord—There is no Savior beside the Lord—He ransoms from the grave and redeems from death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 8]] — 2 footnote cross-references (from [[Hosea 13#^hosea-13-10|Hosea 13:10]])
+- [[Hosea 11]] — 1 footnote cross-reference (from [[Hosea 13#^hosea-13-1|Hosea 13:1]])
+- [[Deuteronomy 27]] — 1 footnote cross-reference (from [[Hosea 13#^hosea-13-2|Hosea 13:2]])
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Hosea 13#^hosea-13-3|Hosea 13:3]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Hosea 13#^hosea-13-3|Hosea 13:3]])
+- [[Mormon 5]] — 1 footnote cross-reference (from [[Hosea 13#^hosea-13-3|Hosea 13:3]])
 - [[Hosea 12]] — 1 parallel verse, e.g. [[Hosea 13#^hosea-13-4|Hosea 13:4]] ↔ [[Hosea 12#^hosea-12-9|Hosea 12:9]]
+- [[1 Corinthians 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

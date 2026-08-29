@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---

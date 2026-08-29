@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 27
 slug: job-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 27]] · My notes: [[Job 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job asserts his righteousness—When the wicked are buried in death, terrors will take hold of them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Job 20]] — 1 parallel verse, e.g. [[Job 27#^job-27-13|Job 27:13]] ↔ [[Job 20#^job-20-29|Job 20:29]]
+- [[Mosiah 11]] — 2 footnote cross-references (from [[Job 27#^job-27-9|Job 27:9]])
+- [[Psalm 5]] — 1 footnote cross-reference (from [[Job 27#^job-27-4|Job 27:4]])
+- [[Mosiah 24]] — 1 footnote cross-reference (from [[Job 27#^job-27-5|Job 27:5]])
+- [[D&C 54]] — 1 footnote cross-reference (from [[Job 27#^job-27-5|Job 27:5]])
+- [[Alma 29]] — 1 footnote cross-reference (from [[Job 27#^job-27-6|Job 27:6]])
+- [[Alma 34]] — 1 footnote cross-reference (from [[Job 27#^job-27-8|Job 27:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

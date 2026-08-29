@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 14
 slug: 2ne-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 14]] · My notes: [[2 Nephi 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zion and her daughters will be redeemed and cleansed in the millennial day—Compare Isaiah 4. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 60]] — 2 footnote cross-references (from [[2 Nephi 14#^2ne-14-2|2 Nephi 14:2]])
+- [[Isaiah 4]] — 1 footnote cross-reference (from [[2 Nephi 14#^2ne-14-1|2 Nephi 14:1]])
+- [[Isaiah 61]] — 1 footnote cross-reference (from [[2 Nephi 14#^2ne-14-2|2 Nephi 14:2]])
+- [[2 Nephi 3]] — 1 footnote cross-reference (from [[2 Nephi 14#^2ne-14-2|2 Nephi 14:2]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[2 Nephi 14#^2ne-14-2|2 Nephi 14:2]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[2 Nephi 14#^2ne-14-3|2 Nephi 14:3]])
 - [[Isaiah 4]] — 6 parallel verses, e.g. [[2 Nephi 14#^2ne-14-1|2 Nephi 14:1]] ↔ [[Isaiah 4#^isa-4-1|Isaiah 4:1]]
 <!-- SG:END related-scriptures -->
 

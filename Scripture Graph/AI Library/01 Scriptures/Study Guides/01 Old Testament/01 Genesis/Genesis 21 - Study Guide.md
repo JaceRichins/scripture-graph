@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 21
 slug: gen-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 21]] · My notes: [[Genesis 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sarah bears Isaac—He is circumcised—Hagar and her son are cast out of Abraham’s household—The Lord saves Hagar and Ishmael—Abraham and Abimelech deal honorably with each other.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 26]] — 8 footnote cross-references (from [[Genesis 21#^gen-21-22|Genesis 21:22]])
+- [[Genesis 16]] — 5 footnote cross-references (from [[Genesis 21#^gen-21-3|Genesis 21:3]])
+- [[Genesis 17]] — 4 footnote cross-references (from [[Genesis 21#^gen-21-1|Genesis 21:1]])
+- [[Galatians 4]] — 3 footnote cross-references (from [[Genesis 21#^gen-21-6|Genesis 21:6]])
+- [[Genesis 18]] — 2 footnote cross-references (from [[Genesis 21#^gen-21-1|Genesis 21:1]])
+- [[Genesis 30]] — 1 footnote cross-reference (from [[Genesis 21#^gen-21-1|Genesis 21:1]])
 - [[Genesis 26]] — 2 parallel verses, e.g. [[Genesis 21#^gen-21-22|Genesis 21:22]] ↔ [[Genesis 26#^gen-26-26|Genesis 26:26]]
 - [[Galatians 4]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-10|Genesis 21:10]] ↔ [[Galatians 4#^gal-4-30|Galatians 4:30]]
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[Genesis 22#^gen-22-3|Genesis 22:3]]

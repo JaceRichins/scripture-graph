@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 6
 slug: ether-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 6]] · My notes: [[Ether 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jaredite barges are driven by the winds to the promised land—The people praise the Lord for His goodness—Orihah is appointed king over them—Jared and his brother die.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 2]] — 4 footnote cross-references (from [[Ether 6#^ether-6-4|Ether 6:4]])
+- [[Ether 7]] — 4 footnote cross-references (from [[Ether 6#^ether-6-12|Ether 6:12]])
+- [[Ether 1]] — 3 footnote cross-references (from [[Ether 6#^ether-6-1|Ether 6:1]])
+- [[1 Nephi 18]] — 2 footnote cross-references (from [[Ether 6#^ether-6-5|Ether 6:5]])
+- [[Ether 3]] — 1 footnote cross-reference (from [[Ether 6#^ether-6-2|Ether 6:2]])
+- [[Ether 9]] — 1 footnote cross-reference (from [[Ether 6#^ether-6-4|Ether 6:4]])
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[Ether 6#^ether-6-25|Ether 6:25]] ↔ [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]]
 - [[Alma 62]] — 1 parallel verse, e.g. [[Ether 6#^ether-6-30|Ether 6:30]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Ether 6#^ether-6-25|Ether 6:25]] ↔ [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]]

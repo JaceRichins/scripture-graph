@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 7
 slug: mark-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 7]] · My notes: [[Mark 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus reproves the Pharisees for their false traditions and ceremonies—He casts a devil out of the daughter of a Greek woman—He opens the ears and loosens the tongue of a person with an impediment.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 15]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-11|Mark 7:11]])
+- [[Titus 1]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-15|Mark 7:15]])
+- [[2 Nephi 19]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-15|Mark 7:15]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-15|Mark 7:15]])
+- [[James 3]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-20|Mark 7:20]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Mark 7#^mark-7-20|Mark 7:20]])
 - [[Matthew 15]] — 5 parallel verses, e.g. [[Mark 7#^mark-7-27|Mark 7:27]] ↔ [[Matthew 15#^matt-15-26|Matthew 15:26]]
 - [[Mark 8]] — 1 parallel verse, e.g. [[Mark 7#^mark-7-36|Mark 7:36]] ↔ [[Mark 8#^mark-8-30|Mark 8:30]]
 - [[Mark 4]] — 1 parallel verse, e.g. [[Mark 7#^mark-7-16|Mark 7:16]] ↔ [[Mark 4#^mark-4-23|Mark 4:23]]

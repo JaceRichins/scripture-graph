@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 2
 slug: micah-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 2]] · My notes: [[Micah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The destruction of Israel is lamented—The Lord will gather the remnant of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 27]] — 2 parallel verses, e.g. [[Micah 2#^micah-2-12|Micah 2:12]] ↔ [[Ezekiel 27#^ezek-27-12|Ezekiel 27:12]]
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-2|Micah 2:2]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-7|Micah 2:7]])
+- [[Helaman 3]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-7|Micah 2:7]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-9|Micah 2:9]])
+- [[D&C 81]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-9|Micah 2:9]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Micah 2#^micah-2-9|Micah 2:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

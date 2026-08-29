@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 13
 slug: neh-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 13]] · My notes: [[Nehemiah 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Ammonites and Moabites are denied a place in the congregation of God—Tobiah is ejected from his dwelling place in the temple—Nehemiah corrects abuses and reinstitutes Sabbath observance—Some Jews are rebuked for marrying non-Israelite women and defiling the priesthood.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 17]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-1|Nehemiah 13:1]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-1|Nehemiah 13:1]])
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-1|Nehemiah 13:1]])
+- [[Numbers 22]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-2|Nehemiah 13:2]])
+- [[Numbers 23]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-2|Nehemiah 13:2]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-3|Nehemiah 13:3]])
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Nehemiah 13#^neh-13-12|Nehemiah 13:12]] ↔ [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]]
 - [[Ezra 7]] — 1 parallel verse, e.g. [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
 <!-- SG:END related-scriptures -->

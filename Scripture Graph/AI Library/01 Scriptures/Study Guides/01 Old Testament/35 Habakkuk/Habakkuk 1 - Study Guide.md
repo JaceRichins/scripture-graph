@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 1
 slug: hab-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Habakkuk 1]] · My notes: [[Habakkuk 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> When Habakkuk learns that the Lord will raise up the Chaldeans to overrun the land of Israel, he is troubled that the wicked can be thus employed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 121]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-2|Habakkuk 1:2]])
+- [[Micah 6]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-2|Habakkuk 1:2]])
+- [[Acts 13]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-5|Habakkuk 1:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

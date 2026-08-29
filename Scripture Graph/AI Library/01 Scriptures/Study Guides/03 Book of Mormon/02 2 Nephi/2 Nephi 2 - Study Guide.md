@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 2
 slug: 2ne-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 2]] · My notes: [[2 Nephi 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Redemption comes through the Holy Messiah—Freedom of choice (agency) is essential to existence and progression—Adam fell that men might be—Men are free to choose liberty and eternal life. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 12]] — 9 footnote cross-references (from [[2 Nephi 2#^2ne-2-5|2 Nephi 2:5]])
+- [[Alma 42]] — 6 footnote cross-references (from [[2 Nephi 2#^2ne-2-5|2 Nephi 2:5]])
+- [[2 Nephi 9]] — 4 footnote cross-references (from [[2 Nephi 2#^2ne-2-5|2 Nephi 2:5]])
+- [[2 Nephi 11]] — 3 footnote cross-references (from [[2 Nephi 2#^2ne-2-3|2 Nephi 2:3]])
+- [[Moroni 7]] — 3 footnote cross-references (from [[2 Nephi 2#^2ne-2-5|2 Nephi 2:5]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 2#^2ne-2-5|2 Nephi 2:5]])
 - [[3 Nephi 9]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[D&C 59]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]

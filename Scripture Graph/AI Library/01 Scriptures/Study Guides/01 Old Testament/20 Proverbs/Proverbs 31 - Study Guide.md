@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 31]] · My notes: [[Proverbs 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wine and strong drink are condemned—Plead the cause of the poor and needy—A virtuous woman is more precious than rubies.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 2 parallel verses, e.g. [[Proverbs 31#^prov-31-9|Proverbs 31:9]] ↔ [[D&C 124#^dc-124-75|D&C 124:75]]
+- [[D&C 88]] — 2 footnote cross-references (from [[Proverbs 31#^prov-31-15|Proverbs 31:15]])
+- [[2 Nephi 15]] — 1 footnote cross-reference (from [[Proverbs 31#^prov-31-4|Proverbs 31:4]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Proverbs 31#^prov-31-9|Proverbs 31:9]])
+- [[1 Thessalonians 4]] — 1 footnote cross-reference (from [[Proverbs 31#^prov-31-13|Proverbs 31:13]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[Proverbs 31#^prov-31-13|Proverbs 31:13]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Proverbs 31#^prov-31-20|Proverbs 31:20]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

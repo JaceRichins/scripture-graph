@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 11
 slug: num-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 11]] · My notes: [[Numbers 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Fire from the Lord consumes the rebels in Israel—Israel murmurs and lusts for meat instead of manna—Moses complains that he cannot bear the burden alone—He is commanded to choose seventy elders to assist him—The Lord promises meat until it becomes loathsome to the Israelites—The seventy elders are chosen, they prophesy, the Lord comes down, and Eldad and Medad prophesy in the camp—Israel is provided with quail—The people lust, a great plague follows, and many die.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 16]] — 3 footnote cross-references (from [[Numbers 11#^num-11-7|Numbers 11:7]])
+- [[Deuteronomy 9]] — 2 footnote cross-references (from [[Numbers 11#^num-11-1|Numbers 11:1]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Numbers 11#^num-11-1|Numbers 11:1]])
+- [[1 Nephi 16]] — 1 footnote cross-reference (from [[Numbers 11#^num-11-1|Numbers 11:1]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Numbers 11#^num-11-1|Numbers 11:1]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Numbers 11#^num-11-1|Numbers 11:1]])
 - [[Judges 2]] — 3 parallel verses, e.g. [[Numbers 11#^num-11-28|Numbers 11:28]] ↔ [[Judges 2#^judg-2-8|Judges 2:8]]
 - [[2 Samuel 6]] — 2 parallel verses, e.g. [[Numbers 11#^num-11-3|Numbers 11:3]] ↔ [[2 Samuel 6#^2sam-6-8|2 Samuel 6:8]]
 - [[Joshua 7]] — 2 parallel verses, e.g. [[Numbers 11#^num-11-10|Numbers 11:10]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
+- [[Exodus 16]] — 0 parallel verses
+- [[Exodus 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

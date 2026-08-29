@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 2]] · My notes: [[Genesis 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Creation is completed—God rests on the seventh day—The prior spirit creation is explained—Adam and Eve are placed in the Garden of Eden—They are forbidden to eat of the tree of knowledge of good and evil—Adam names every living creature—Adam and Eve are married by the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 3]] — 16 footnote cross-references (from [[Genesis 2#^gen-2-1|Genesis 2:1]])
+- [[Abraham 5]] — 14 footnote cross-references (from [[Genesis 2#^gen-2-1|Genesis 2:1]])
+- [[D&C 77]] — 4 footnote cross-references (from [[Genesis 2#^gen-2-2|Genesis 2:2]])
+- [[Moses 4]] — 3 footnote cross-references (from [[Genesis 2#^gen-2-7|Genesis 2:7]])
+- [[Genesis 3]] — 3 footnote cross-references (from [[Genesis 2#^gen-2-9|Genesis 2:9]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Genesis 2#^gen-2-3|Genesis 2:3]])
 - [[Moses 3]] — 25 parallel verses, e.g. [[Genesis 2#^gen-2-5|Genesis 2:5]] ↔ [[Moses 3#^moses-3-5|Moses 3:5]]
 - [[Abraham 5]] — 19 parallel verses, e.g. [[Genesis 2#^gen-2-9|Genesis 2:9]] ↔ [[Abraham 5#^abr-5-9|Abraham 5:9]]
 - [[Genesis 1]] — 1 parallel verse, e.g. [[Genesis 2#^gen-2-20|Genesis 2:20]] ↔ [[Genesis 1#^gen-1-30|Genesis 1:30]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 43
 slug: ps-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 43]] · My notes: [[Psalm 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The righteous praise God and cry, Send out Thy light and Thy truth.
 <!-- SG:END overview -->
 
 ## Structure & Setting

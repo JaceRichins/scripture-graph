@@ -80,4 +80,4 @@ cssclasses:
 > [[Deuteronomy 29#^deut-29-24|≈ Deuteronomy 29:24]] · [[1 Kings 9#^1kgs-9-8|≈ 1 Kings 9:8]]
 
 ![[2 Chronicles 7#^2chr-7-22]]
-> [[Judges 2#^judg-2-12|≈ Judges 2:12]] · [[Deuteronomy 29#^deut-29-25|≈ Deuteronomy 29:25]] · [[1 Kings 9#^1kgs-9-9|≈ 1 Kings 9:9]]
+> [[Deuteronomy 29#^deut-29-25|≈ Deuteronomy 29:25]] · [[Judges 2#^judg-2-12|≈ Judges 2:12]] · [[1 Kings 9#^1kgs-9-9|≈ 1 Kings 9:9]]

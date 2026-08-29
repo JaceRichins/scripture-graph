@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 1
 slug: lam-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Lamentations 1]] · My notes: [[Lamentations 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Lamentations 2]] — 2 parallel verses, e.g. [[Lamentations 1#^lam-1-18|Lamentations 1:18]] ↔ [[Lamentations 2#^lam-2-21|Lamentations 2:21]]
-- [[Psalm 31]] — 2 parallel verses, e.g. [[Lamentations 1#^lam-1-7|Lamentations 1:7]] ↔ [[Psalm 31#^ps-31-8|Psalm 31:8]]
+- [[Jeremiah 30]] — 3 footnote cross-references (from [[Lamentations 1#^lam-1-2|Lamentations 1:2]])
+- [[Isaiah 3]] — 3 footnote cross-references (from [[Lamentations 1#^lam-1-3|Lamentations 1:3]])
+- [[2 Nephi 13]] — 3 footnote cross-references (from [[Lamentations 1#^lam-1-3|Lamentations 1:3]])
+- [[Isaiah 47]] — 2 footnote cross-references (from [[Lamentations 1#^lam-1-1|Lamentations 1:1]])
+- [[D&C 101]] — 2 footnote cross-references (from [[Lamentations 1#^lam-1-2|Lamentations 1:2]])
+- [[Hosea 2]] — 2 footnote cross-references (from [[Lamentations 1#^lam-1-4|Lamentations 1:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

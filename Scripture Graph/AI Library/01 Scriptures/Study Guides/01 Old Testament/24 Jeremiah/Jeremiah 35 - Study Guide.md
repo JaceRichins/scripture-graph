@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 35
 slug: jer-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 35]] · My notes: [[Jeremiah 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Rechabites are commended and blessed for their obedience.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 10]] — 2 footnote cross-references (from [[Jeremiah 35#^jer-35-2|Jeremiah 35:2]])
+- [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Jeremiah 35#^jer-35-2|Jeremiah 35:2]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Jeremiah 35#^jer-35-15|Jeremiah 35:15]])
 - [[Jeremiah 29]] — 14 parallel verses, e.g. [[Jeremiah 35#^jer-35-15|Jeremiah 35:15]] ↔ [[Jeremiah 29#^jer-29-19|Jeremiah 29:19]]
 - [[Jeremiah 44]] — 13 parallel verses, e.g. [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
 - [[Jeremiah 19]] — 8 parallel verses, e.g. [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]] ↔ [[Jeremiah 19#^jer-19-15|Jeremiah 19:15]]

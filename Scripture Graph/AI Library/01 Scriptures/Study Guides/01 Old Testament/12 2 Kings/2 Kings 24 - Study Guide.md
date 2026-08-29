@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 24
 slug: 2kgs-24
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Jehoiakim’s rebellion near the beginning and Zedekiah’s rebellion at the end
 - [[2 Kings 23]] — 10 parallel verses, e.g. [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 - [[2 Chronicles 36]] — 16 parallel verses, e.g. [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
 - [[2 Kings 21]] — 12 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
+- [[Jeremiah 52]] — 5 parallel verses, e.g. [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]] ↔ [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]]
 - [[1 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
 - [[2 Kings 14]] — 8 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[1 Kings 14]] — 6 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
@@ -68,14 +69,13 @@ Jehoiakim’s rebellion near the beginning and Zedekiah’s rebellion at the end
 - [[1 Kings 22]] — 6 parallel verses, e.g. [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 - [[2 Kings 13]] — 6 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[2 Chronicles 33]] — 8 parallel verses, e.g. [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]] ↔ [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]]
-- [[2 Kings 8]] — 5 parallel verses, e.g. [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Scattering of Israel]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

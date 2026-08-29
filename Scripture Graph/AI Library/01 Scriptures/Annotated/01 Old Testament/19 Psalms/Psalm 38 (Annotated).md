@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 38|Plain text]] · [[Psalm 38 - Study Guide|Study guide]] · [[Psalm 38 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David sorrows for his sins—They rest as a disease upon him—He asks the Lord to be compassionate.
+
 ![[Psalm 38#^ps-38-1]]
 > [[Psalm 6#^ps-6-1|≈ Psalm 6:1]]
 
@@ -33,6 +36,7 @@ cssclasses:
 ![[Psalm 38#^ps-38-9]]
 
 ![[Psalm 38#^ps-38-10]]
+> [[Psalm 88#^ps-88-9|Ps. 88:9]]
 
 ![[Psalm 38#^ps-38-11]]
 
@@ -53,6 +57,7 @@ cssclasses:
 ![[Psalm 38#^ps-38-19]]
 
 ![[Psalm 38#^ps-38-20]]
+> [[Psalm 35#^ps-35-12|Ps. 35:12]]
 
 ![[Psalm 38#^ps-38-21]]
 

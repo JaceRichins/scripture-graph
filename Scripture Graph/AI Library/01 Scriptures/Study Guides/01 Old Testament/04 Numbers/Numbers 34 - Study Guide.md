@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 34
 slug: num-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 34]] · My notes: [[Numbers 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses specifies the borders of Israel’s inheritance in Canaan and names the princes of the tribes who will divide the land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 15]] — 2 footnote cross-references (from [[Numbers 34#^num-34-3|Numbers 34:3]])
+- [[Genesis 17]] — 1 footnote cross-reference (from [[Numbers 34#^num-34-2|Numbers 34:2]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Numbers 34#^num-34-2|Numbers 34:2]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Numbers 34#^num-34-2|Numbers 34:2]])
+- [[Joshua 13]] — 1 footnote cross-reference (from [[Numbers 34#^num-34-2|Numbers 34:2]])
+- [[Ezekiel 47]] — 1 footnote cross-reference (from [[Numbers 34#^num-34-2|Numbers 34:2]])
 - [[Numbers 10]] — 58 parallel verses, e.g. [[Numbers 34#^num-34-20|Numbers 34:20]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
 - [[Joshua 19]] — 45 parallel verses, e.g. [[Numbers 34#^num-34-17|Numbers 34:17]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
 - [[Joshua 15]] — 23 parallel verses, e.g. [[Numbers 34#^num-34-5|Numbers 34:5]] ↔ [[Joshua 15#^josh-15-4|Joshua 15:4]]

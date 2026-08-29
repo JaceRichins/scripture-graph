@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 32
 slug: isa-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 32]] · My notes: [[Isaiah 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A king (the Messiah) will reign in righteousness—The land of Israel will be a wilderness until the day of restoration and gathering.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Isaiah 32#^isa-32-1|Isaiah 32:1]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[Isaiah 32#^isa-32-3|Isaiah 32:3]])
+- [[Isaiah 35]] — 1 footnote cross-reference (from [[Isaiah 32#^isa-32-3|Isaiah 32:3]])
+- [[Joel 1]] — 1 footnote cross-reference (from [[Isaiah 32#^isa-32-10|Isaiah 32:10]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Isaiah 32#^isa-32-19|Isaiah 32:19]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

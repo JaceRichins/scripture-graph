@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 17
 slug: num-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 17]] · My notes: [[Numbers 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> As a test, a rod for each tribe is placed in the tabernacle of witness—Aaron’s rod buds and blossoms and brings forth almonds—It is kept as a token against rebels.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,14 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Exodus 16]] — 4 parallel verses, e.g. [[Numbers 17#^num-17-9|Numbers 17:9]] ↔ [[Exodus 16#^ex-16-6|Exodus 16:6]]
-- [[Numbers 14]] — 3 parallel verses, e.g. [[Numbers 17#^num-17-9|Numbers 17:9]] ↔ [[Numbers 14#^num-14-39|Numbers 14:39]]
-- [[1 Chronicles 5]] — 3 parallel verses, e.g. [[Numbers 17#^num-17-3|Numbers 17:3]] ↔ [[1 Chronicles 5#^1chr-5-13|1 Chronicles 5:13]]
-- [[1 Chronicles 24]] — 2 parallel verses, e.g. [[Numbers 17#^num-17-2|Numbers 17:2]] ↔ [[1 Chronicles 24#^1chr-24-4|1 Chronicles 24:4]]
-- [[Exodus 30]] — 2 parallel verses, e.g. [[Numbers 17#^num-17-4|Numbers 17:4]] ↔ [[Exodus 30#^ex-30-6|Exodus 30:6]]
-- [[2 Chronicles 17]] — 1 parallel verse, e.g. [[Numbers 17#^num-17-2|Numbers 17:2]] ↔ [[2 Chronicles 17#^2chr-17-14|2 Chronicles 17:14]]
-- [[1 Chronicles 7]] — 2 parallel verses, e.g. [[Numbers 17#^num-17-3|Numbers 17:3]] ↔ [[1 Chronicles 7#^1chr-7-7|1 Chronicles 7:7]]
-- [[1 Kings 2]] — 2 parallel verses, e.g. [[Numbers 17#^num-17-13|Numbers 17:13]] ↔ [[1 Kings 2#^1kgs-2-28|1 Kings 2:28]]
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-2|Numbers 17:2]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-4|Numbers 17:4]])
+- [[Exodus 38]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-7|Numbers 17:7]])
+- [[Hebrews 9]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-10|Numbers 17:10]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-13|Numbers 17:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

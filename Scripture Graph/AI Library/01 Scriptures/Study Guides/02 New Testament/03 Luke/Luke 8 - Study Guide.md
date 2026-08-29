@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 8
 slug: luke-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 8]] · My notes: [[Luke 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives and interprets the parable of the sower—He stills the tempest; casts out a legion of devils, who then enter the swine; heals a woman of an issue of blood; and raises Jairus’s daughter from death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 26]] — 2 footnote cross-references (from [[Luke 8#^luke-8-10|Luke 8:10]])
+- [[Mark 4]] — 2 footnote cross-references (from [[Luke 8#^luke-8-10|Luke 8:10]])
+- [[Mark 5]] — 2 footnote cross-references (from [[Luke 8#^luke-8-39|Luke 8:39]])
+- [[Alma 23]] — 1 footnote cross-reference (from [[Luke 8#^luke-8-1|Luke 8:1]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[Luke 8#^luke-8-1|Luke 8:1]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Luke 8#^luke-8-1|Luke 8:1]])
 - [[Mark 5]] — 11 parallel verses, e.g. [[Luke 8#^luke-8-33|Luke 8:33]] ↔ [[Mark 5#^mark-5-13|Mark 5:13]]
 - [[Mark 4]] — 8 parallel verses, e.g. [[Luke 8#^luke-8-18|Luke 8:18]] ↔ [[Mark 4#^mark-4-25|Mark 4:25]]
 - [[Matthew 13]] — 5 parallel verses, e.g. [[Luke 8#^luke-8-18|Luke 8:18]] ↔ [[Matthew 13#^matt-13-12|Matthew 13:12]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 14
 slug: john-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 14]] · My notes: [[John 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus speaks of many mansions—He says that He is the way, the truth, and the life and that to see Him is to see the Father—He promises the first and second Comforters.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 50]] — 2 footnote cross-references (from [[John 14#^john-14-1|John 14:1]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[John 14#^john-14-2|John 14:2]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[John 14#^john-14-2|John 14:2]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[John 14#^john-14-3|John 14:3]])
+- [[D&C 27]] — 1 footnote cross-reference (from [[John 14#^john-14-3|John 14:3]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[John 14#^john-14-3|John 14:3]])
 - [[D&C 93]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
 - [[3 Nephi 9]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]

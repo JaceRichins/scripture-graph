@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 13
 slug: alma-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 13]] · My notes: [[Alma 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Men are called as high priests because of their exceeding faith and good works—They are to teach the commandments—Through righteousness they are sanctified and enter into the rest of the Lord—Melchizedek was one of these—Angels are declaring glad tidings throughout the land—They will declare the actual coming of Christ. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 5 footnote cross-references (from [[Alma 13#^alma-13-1|Alma 13:1]])
+- [[D&C 107]] — 5 footnote cross-references (from [[Alma 13#^alma-13-2|Alma 13:2]])
+- [[Moses 6]] — 2 footnote cross-references (from [[Alma 13#^alma-13-1|Alma 13:1]])
+- [[Alma 12]] — 2 footnote cross-references (from [[Alma 13#^alma-13-3|Alma 13:3]])
+- [[Alma 22]] — 2 footnote cross-references (from [[Alma 13#^alma-13-3|Alma 13:3]])
+- [[Ether 12]] — 2 footnote cross-references (from [[Alma 13#^alma-13-4|Alma 13:4]])
 - [[Alma 5]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
 - [[Alma 16]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-16|Alma 13:16]] ↔ [[Alma 16#^alma-16-17|Alma 16:17]]
 - [[Alma 34]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-11|Alma 13:11]] ↔ [[Alma 34#^alma-34-36|Alma 34:36]]

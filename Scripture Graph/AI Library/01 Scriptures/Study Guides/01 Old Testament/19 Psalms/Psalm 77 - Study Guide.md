@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 77
 slug: ps-77
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 77]] · My notes: [[Psalm 77 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The righteous cry unto the Lord—They remember the wonders of old, how He redeemed the sons of Jacob and led Israel like a flock.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-2|Psalm 77:2]])
+- [[Genesis 37]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-2|Psalm 77:2]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-2|Psalm 77:2]])
+- [[Psalm 142]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-3|Psalm 77:3]])
+- [[Job 35]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-6|Psalm 77:6]])
+- [[2 Nephi 3]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-15|Psalm 77:15]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

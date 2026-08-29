@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 2
 slug: jer-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 2]] · My notes: [[Jeremiah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Judah forsook the Lord, the fountain of living waters—They worshipped idols and rejected the prophets.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 18]] — 3 footnote cross-references (from [[Jeremiah 2#^jer-2-25|Jeremiah 2:25]])
+- [[Isaiah 30]] — 2 footnote cross-references (from [[Jeremiah 2#^jer-2-18|Jeremiah 2:18]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Jeremiah 2#^jer-2-2|Jeremiah 2:2]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Jeremiah 2#^jer-2-3|Jeremiah 2:3]])
+- [[Isaiah 23]] — 1 footnote cross-reference (from [[Jeremiah 2#^jer-2-3|Jeremiah 2:3]])
+- [[Psalm 107]] — 1 footnote cross-reference (from [[Jeremiah 2#^jer-2-6|Jeremiah 2:6]])
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-6|Jeremiah 2:6]] ↔ [[Exodus 32#^ex-32-1|Exodus 32:1]]
 - [[Ezekiel 12]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]] ↔ [[Ezekiel 12#^ezek-12-17|Ezekiel 12:17]]
 - [[Jeremiah 18]] — 2 parallel verses, e.g. [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]] ↔ [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]]

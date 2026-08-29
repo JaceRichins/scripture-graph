@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 2
 slug: 1chr-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 2]] · My notes: [[1 Chronicles 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The descendants of Israel, Judah, Jesse, Caleb, and others are listed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 1]] — 2 footnote cross-references (from [[1 Chronicles 2#^1chr-2-4|1 Chronicles 2:4]])
+- [[1 Samuel 16]] — 2 footnote cross-references (from [[1 Chronicles 2#^1chr-2-13|1 Chronicles 2:13]])
+- [[1 Samuel 17]] — 2 footnote cross-references (from [[1 Chronicles 2#^1chr-2-13|1 Chronicles 2:13]])
+- [[Genesis 29]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-1|1 Chronicles 2:1]])
+- [[Genesis 30]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-2|1 Chronicles 2:2]])
+- [[Genesis 38]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-3|1 Chronicles 2:3]])
 - [[Genesis 46]] — 1 parallel verse, e.g. [[1 Chronicles 2#^1chr-2-3|1 Chronicles 2:3]] ↔ [[Genesis 46#^gen-46-12|Genesis 46:12]]
 <!-- SG:END related-scriptures -->
 

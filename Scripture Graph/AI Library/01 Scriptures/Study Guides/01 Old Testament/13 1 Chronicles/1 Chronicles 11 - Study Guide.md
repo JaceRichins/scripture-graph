@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 11
 slug: 1chr-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 11]] · My notes: [[1 Chronicles 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David is anointed king in Hebron—He takes Zion, the City of David—His valiant warriors are named and their deeds recounted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 5]] — 4 footnote cross-references (from [[1 Chronicles 11#^1chr-11-1|1 Chronicles 11:1]])
+- [[2 Samuel 23]] — 2 footnote cross-references (from [[1 Chronicles 11#^1chr-11-10|1 Chronicles 11:10]])
+- [[2 Samuel 2]] — 2 footnote cross-references (from [[1 Chronicles 11#^1chr-11-20|1 Chronicles 11:20]])
+- [[1 Samuel 16]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-4|1 Chronicles 11:4]])
+- [[Joshua 15]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-4|1 Chronicles 11:4]])
 - [[2 Samuel 23]] — 19 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]] ↔ [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]]
 - [[2 Samuel 5]] — 3 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]] ↔ [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]]
 <!-- SG:END related-scriptures -->

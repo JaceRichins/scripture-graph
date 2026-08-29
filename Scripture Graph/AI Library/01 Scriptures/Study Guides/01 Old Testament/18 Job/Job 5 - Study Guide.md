@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 5
 slug: job-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 5]] · My notes: [[Job 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eliphaz counsels Job: Man is born unto trouble, seek unto God, and happy is the man whom God corrects.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Corinthians 3]] — 1 parallel verse, e.g. [[Job 5#^job-5-13|Job 5:13]] ↔ [[1 Corinthians 3#^1cor-3-19|1 Corinthians 3:19]]
+- [[D&C 38]] — 1 footnote cross-reference (from [[Job 5#^job-5-21|Job 5:21]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Job 5#^job-5-23|Job 5:23]])
+- [[Psalm 72]] — 1 footnote cross-reference (from [[Job 5#^job-5-25|Job 5:25]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

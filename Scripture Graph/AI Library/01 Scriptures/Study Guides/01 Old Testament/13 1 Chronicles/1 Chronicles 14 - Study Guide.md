@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 14
 slug: 1chr-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 14]] · My notes: [[1 Chronicles 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David marries wives, begets children, and defeats the Philistines; his fame spreads to all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 5]] — 4 footnote cross-references (from [[1 Chronicles 14#^1chr-14-8|1 Chronicles 14:8]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[1 Chronicles 14#^1chr-14-3|1 Chronicles 14:3]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[1 Chronicles 14#^1chr-14-3|1 Chronicles 14:3]])
+- [[Isaiah 28]] — 1 footnote cross-reference (from [[1 Chronicles 14#^1chr-14-11|1 Chronicles 14:11]])
 - [[2 Samuel 5]] — 9 parallel verses, e.g. [[1 Chronicles 14#^1chr-14-15|1 Chronicles 14:15]] ↔ [[2 Samuel 5#^2sam-5-24|2 Samuel 5:24]]
 <!-- SG:END related-scriptures -->
 

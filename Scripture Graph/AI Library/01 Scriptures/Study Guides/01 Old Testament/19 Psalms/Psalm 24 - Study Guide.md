@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 24
 slug: ps-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 24]] · My notes: [[Psalm 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David testifies, The earth is the Lord’s and the fulness thereof, he who has clean hands and a pure heart will ascend unto the hill of the Lord, and the Lord of Hosts is the King of Glory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 9]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-1|Psalm 24:1]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-1|Psalm 24:1]])
+- [[Psalm 89]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-1|Psalm 24:1]])
+- [[1 Corinthians 10]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-1|Psalm 24:1]])
+- [[1 Chronicles 29]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-1|Psalm 24:1]])
+- [[Psalm 15]] — 1 footnote cross-reference (from [[Psalm 24#^ps-24-3|Psalm 24:3]])
 - [[1 Corinthians 10]] — 2 parallel verses, e.g. [[Psalm 24#^ps-24-1|Psalm 24:1]] ↔ [[1 Corinthians 10#^1cor-10-26|1 Corinthians 10:26]]
 - [[Psalm 98]] — 1 parallel verse, e.g. [[Psalm 24#^ps-24-1|Psalm 24:1]] ↔ [[Psalm 98#^ps-98-7|Psalm 98:7]]
 <!-- SG:END related-scriptures -->

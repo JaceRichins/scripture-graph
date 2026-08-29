@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 5
 slug: ezra-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 5]] · My notes: [[Ezra 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Haggai and Zechariah prophesy—Zerubbabel renews the building of the temple—The Samaritans challenge the Jews’ right to continue their building work.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezra 6]] — 2 footnote cross-references (from [[Ezra 5#^ezra-5-1|Ezra 5:1]])
+- [[Zechariah 8]] — 1 footnote cross-reference (from [[Ezra 5#^ezra-5-1|Ezra 5:1]])
+- [[Zechariah 1]] — 1 footnote cross-reference (from [[Ezra 5#^ezra-5-1|Ezra 5:1]])
+- [[D&C 123]] — 1 footnote cross-reference (from [[Ezra 5#^ezra-5-8|Ezra 5:8]])
 - [[Ezra 6]] — 6 parallel verses, e.g. [[Ezra 5#^ezra-5-1|Ezra 5:1]] ↔ [[Ezra 6#^ezra-6-14|Ezra 6:14]]
 - [[Ezra 4]] — 4 parallel verses, e.g. [[Ezra 5#^ezra-5-6|Ezra 5:6]] ↔ [[Ezra 4#^ezra-4-11|Ezra 4:11]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Ezra 5#^ezra-5-2|Ezra 5:2]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]

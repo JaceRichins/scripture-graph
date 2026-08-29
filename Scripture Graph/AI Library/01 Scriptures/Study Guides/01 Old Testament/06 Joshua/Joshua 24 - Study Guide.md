@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 24
 slug: josh-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 24]] · My notes: [[Joshua 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua recites how the Lord has blessed and led Israel—Joshua and all the people covenant to choose the Lord and serve Him only—Joshua and Eleazar die—The bones of Joseph, taken from Egypt, are buried in Shechem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Joshua 24#^josh-24-6|Joshua 24:6]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-2|Joshua 24:2]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-6|Joshua 24:6]])
+- [[Exodus 14]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-6|Joshua 24:6]])
+- [[Numbers 21]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-8|Joshua 24:8]])
+- [[Amos 2]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-8|Joshua 24:8]])
 - [[Judges 2]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-31|Joshua 24:31]] ↔ [[Judges 2#^judg-2-7|Judges 2:7]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Joshua 23]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-1|Joshua 24:1]] ↔ [[Joshua 23#^josh-23-2|Joshua 23:2]]

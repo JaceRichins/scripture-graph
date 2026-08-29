@@ -20,7 +20,7 @@ cssclasses:
 > [[2 Kings 18#^2kgs-18-1|2 Kgs. 18:2 (1–3)]] · [[Jeremiah 52#^jer-52-1|≈ Jeremiah 52:1]] · [[2 Kings 12#^2kgs-12-1|≈ 2 Kings 12:1]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]] · [[2 Kings 15#^2kgs-15-33|≈ 2 Kings 15:33]] · [[2 Kings 15#^2kgs-15-2|≈ 2 Kings 15:2]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]]
 
 ![[2 Chronicles 29#^2chr-29-2]]
-> [[Jeremiah 52#^jer-52-2|≈ Jeremiah 52:2]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]] · [[2 Kings 15#^2kgs-15-34|≈ 2 Kings 15:34]] · [[2 Kings 22#^2kgs-22-2|≈ 2 Kings 22:2]]
+> [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[Jeremiah 52#^jer-52-2|≈ Jeremiah 52:2]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]]
 
 ![[2 Chronicles 29#^2chr-29-3]]
 > [[Jeremiah 52#^jer-52-31|≈ Jeremiah 52:31]]

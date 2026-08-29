@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 14
 slug: hosea-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 14]] · My notes: [[Hosea 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Ephraim will repent and return unto the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Hosea 13]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-1|Hosea 14:1]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-2|Hosea 14:2]])
+- [[Psalm 51]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-2|Hosea 14:2]])
+- [[Hosea 5]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-3|Hosea 14:3]])
+- [[Isaiah 31]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-3|Hosea 14:3]])
+- [[Hosea 1]] — 1 footnote cross-reference (from [[Hosea 14#^hosea-14-3|Hosea 14:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

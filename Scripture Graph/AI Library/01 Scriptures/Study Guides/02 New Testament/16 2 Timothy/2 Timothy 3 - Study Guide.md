@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 3
 slug: 2tim-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Timothy 3]] · My notes: [[2 Timothy 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul describes the apostasy and perilous times of the last days—The scriptures guide man to salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,11 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Helaman 15]] — 3 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
-- [[Alma 23]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Alma 23#^alma-23-15|Alma 23:15]]
-- [[Mosiah 27]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]]
-- [[Alma 17]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Alma 17#^alma-17-4|Alma 17:4]]
-- [[Mosiah 18]] — 2 parallel verses, e.g. [[2 Timothy 3#^2tim-3-7|2 Timothy 3:7]] ↔ [[Mosiah 18#^mosiah-18-3|Mosiah 18:3]]
+- [[Mormon 1]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-1|2 Timothy 3:1]])
+- [[Mormon 8]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-1|2 Timothy 3:1]])
+- [[2 Timothy 4]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-1|2 Timothy 3:1]])
+- [[Romans 1]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-3|2 Timothy 3:3]])
+- [[Romans 2]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-5|2 Timothy 3:5]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[2 Timothy 3#^2tim-3-5|2 Timothy 3:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

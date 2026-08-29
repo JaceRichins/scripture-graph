@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 27
 slug: 3ne-27
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -42,6 +42,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 5]] — 3 footnote cross-references (from [[3 Nephi 27#^3ne-27-1|3 Nephi 27:1]])
+- [[1 Nephi 12]] — 3 footnote cross-references (from [[3 Nephi 27#^3ne-27-19|3 Nephi 27:19]])
+- [[D&C 29]] — 2 footnote cross-references (from [[3 Nephi 27#^3ne-27-1|3 Nephi 27:1]])
+- [[D&C 84]] — 2 footnote cross-references (from [[3 Nephi 27#^3ne-27-1|3 Nephi 27:1]])
+- [[3 Nephi 26]] — 2 footnote cross-references (from [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]])
+- [[3 Nephi 15]] — 2 footnote cross-references (from [[3 Nephi 27#^3ne-27-6|3 Nephi 27:6]])
+- [[Matthew 7]] — 6 parallel verses, e.g. [[3 Nephi 27#^3ne-27-33|3 Nephi 27:33]] ↔ [[Matthew 7#^matt-7-14|Matthew 7:14]]
 - [[3 Nephi 14]] — 6 parallel verses, e.g. [[3 Nephi 27#^3ne-27-33|3 Nephi 27:33]] ↔ [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]]
 - [[Alma 5]] — 7 parallel verses, e.g. [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]
 - [[3 Nephi 18]] — 6 parallel verses, e.g. [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
@@ -53,15 +60,14 @@ _Not yet developed._
 - [[D&C 88]] — 2 parallel verses, e.g. [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
 - [[3 Nephi 30]] — 1 parallel verse, e.g. [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
 - [[Alma 32]] — 2 parallel verses, e.g. [[3 Nephi 27#^3ne-27-6|3 Nephi 27:6]] ↔ [[Alma 32#^alma-32-13|Alma 32:13]]
-- [[3 Nephi 26]] — 1 parallel verse, e.g. [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]] ↔ [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sermon at the Temple (3 Nephi)]]
 - [[Gospel of Jesus Christ]]
 - [[Crucifixion of Jesus Christ]]
 - [[Justification and Sanctification]]
+- [[Sermon at the Temple (3 Nephi)]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Endurance]]
 - [[Final Judgment]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 4
 slug: prov-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 4]] · My notes: [[Proverbs 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Keep the commandments and live—With all your getting, get understanding—Go not in the way of evil men.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ephesians 6]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-1|Proverbs 4:1]])
+- [[Exodus 20]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-10|Proverbs 4:10]])
+- [[D&C 89]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-12|Proverbs 4:12]])
+- [[1 Nephi 15]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-13|Proverbs 4:13]])
+- [[1 Nephi 12]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-14|Proverbs 4:14]])
+- [[2 Nephi 31]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-18|Proverbs 4:18]])
 - [[2 Samuel 2]] — 1 parallel verse, e.g. [[Proverbs 4#^prov-4-27|Proverbs 4:27]] ↔ [[2 Samuel 2#^2sam-2-19|2 Samuel 2:19]]
 <!-- SG:END related-scriptures -->
 

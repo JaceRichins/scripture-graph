@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 3
 slug: joel-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joel 3]] · My notes: [[Joel 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All nations will be at war—Multitudes will stand in the valley of decision as the Second Coming draws near—The Lord will dwell in Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Zechariah 14]] — 3 footnote cross-references (from [[Joel 3#^joel-3-14|Joel 3:14]])
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Joel 3#^joel-3-2|Joel 3:2]])
+- [[Isaiah 19]] — 2 footnote cross-references (from [[Joel 3#^joel-3-2|Joel 3:2]])
+- [[Revelation 22]] — 2 footnote cross-references (from [[Joel 3#^joel-3-18|Joel 3:18]])
+- [[Micah 4]] — 1 footnote cross-reference (from [[Joel 3#^joel-3-2|Joel 3:2]])
+- [[Zephaniah 3]] — 1 footnote cross-reference (from [[Joel 3#^joel-3-2|Joel 3:2]])
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Joel 2]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-15|Joel 3:15]] ↔ [[Joel 2#^joel-2-10|Joel 2:10]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
@@ -49,6 +56,7 @@ _Not yet developed._
 - [[Isaiah 22]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-8|Joel 3:8]] ↔ [[Isaiah 22#^isa-22-25|Isaiah 22:25]]
 - [[Jeremiah 50]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-1|Joel 3:1]] ↔ [[Jeremiah 50#^jer-50-4|Jeremiah 50:4]]
 - [[Amos 1]] — 1 parallel verse, e.g. [[Joel 3#^joel-3-16|Joel 3:16]] ↔ [[Amos 1#^amos-1-2|Amos 1:2]]
+- [[Amos 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

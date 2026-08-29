@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 14
 slug: num-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 14]] · My notes: [[Numbers 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel murmurs and speaks of returning to Egypt—Joshua and Caleb give a good report of Canaan—Moses mediates between Israel and the Lord—The adults of Israel will not enter the promised land—The Lord slays the false spies by a plague—Some rebels try to go alone and are slain by the Amalekites and Canaanites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 13]] — 4 footnote cross-references (from [[Numbers 14#^num-14-6|Numbers 14:6]])
+- [[Deuteronomy 1]] — 3 footnote cross-references (from [[Numbers 14#^num-14-14|Numbers 14:14]])
+- [[Exodus 16]] — 2 footnote cross-references (from [[Numbers 14#^num-14-10|Numbers 14:10]])
+- [[Jacob 1]] — 2 footnote cross-references (from [[Numbers 14#^num-14-11|Numbers 14:11]])
+- [[Exodus 32]] — 2 footnote cross-references (from [[Numbers 14#^num-14-12|Numbers 14:12]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Numbers 14#^num-14-14|Numbers 14:14]])
 - [[Deuteronomy 31]] — 5 parallel verses, e.g. [[Numbers 14#^num-14-23|Numbers 14:23]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
 - [[Numbers 32]] — 4 parallel verses, e.g. [[Numbers 14#^num-14-30|Numbers 14:30]] ↔ [[Numbers 32#^num-32-12|Numbers 32:12]]
 - [[Exodus 34]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]

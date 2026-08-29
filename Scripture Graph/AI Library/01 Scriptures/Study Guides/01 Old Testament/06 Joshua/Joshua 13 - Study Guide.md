@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 13
 slug: josh-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 13]] · My notes: [[Joshua 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> There remain some lands yet to be possessed—Some inhabitants are not expelled—The inheritances of Reuben, Gad, and one half of Manasseh are confirmed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 3]] — 2 footnote cross-references (from [[Joshua 13#^josh-13-2|Joshua 13:2]])
+- [[Joshua 23]] — 1 footnote cross-reference (from [[Joshua 13#^josh-13-1|Joshua 13:1]])
+- [[Judges 3]] — 1 footnote cross-reference (from [[Joshua 13#^josh-13-3|Joshua 13:3]])
+- [[1 Kings 5]] — 1 footnote cross-reference (from [[Joshua 13#^josh-13-5|Joshua 13:5]])
+- [[Numbers 34]] — 1 footnote cross-reference (from [[Joshua 13#^josh-13-6|Joshua 13:6]])
+- [[Psalm 135]] — 1 footnote cross-reference (from [[Joshua 13#^josh-13-6|Joshua 13:6]])
 - [[Joshua 19]] — 4 parallel verses, e.g. [[Joshua 13#^josh-13-28|Joshua 13:28]] ↔ [[Joshua 19#^josh-19-23|Joshua 19:23]]
 - [[Joshua 12]] — 4 parallel verses, e.g. [[Joshua 13#^josh-13-9|Joshua 13:9]] ↔ [[Joshua 12#^josh-12-2|Joshua 12:2]]
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Joshua 13#^josh-13-31|Joshua 13:31]] ↔ [[Deuteronomy 3#^deut-3-10|Deuteronomy 3:10]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 4
 slug: 1kgs-4
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,18 @@ The chapter presents Solomon's kingdom through four connected portraits: central
 - [[1 Kings 12]] — 2 footnote cross-references (from [[1 Kings 4#^1kgs-4-6|1 Kings 4:6]])
 - [[D&C 127]] — 1 footnote cross-reference (from [[1 Kings 4#^1kgs-4-3|1 Kings 4:3]])
 - [[D&C 128]] — 1 footnote cross-reference (from [[1 Kings 4#^1kgs-4-3|1 Kings 4:3]])
+- [[2 Samuel 20]] — 2 parallel verses, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[2 Samuel 20#^2sam-20-23|2 Samuel 20:23]]
+- [[Micah 4]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-25|1 Kings 4:25]] ↔ [[Micah 4#^micah-4-4|Micah 4:4]]
 - [[1 Chronicles 18]] — 1 parallel verse, e.g. [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]] ↔ [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]]
-- [[2 Samuel 20]] — 0 parallel verses
-- [[Micah 4]] — 0 parallel verses
 - [[1 Kings 10]] — 0 parallel verses
 - [[2 Chronicles 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Education and Learning]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

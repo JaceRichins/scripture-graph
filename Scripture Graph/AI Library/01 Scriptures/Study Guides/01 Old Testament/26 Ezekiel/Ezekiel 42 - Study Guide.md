@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 42
 slug: ezek-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 42]] · My notes: [[Ezekiel 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel sees in the temple the chambers for the priests.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 40]] — 8 footnote cross-references (from [[Ezekiel 42#^ezek-42-1|Ezekiel 42:1]])
+- [[Ezekiel 41]] — 3 footnote cross-references (from [[Ezekiel 42#^ezek-42-3|Ezekiel 42:3]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Ezekiel 42#^ezek-42-14|Ezekiel 42:14]])
+- [[Ezekiel 45]] — 2 footnote cross-references (from [[Ezekiel 42#^ezek-42-20|Ezekiel 42:20]])
+- [[Ezekiel 46]] — 1 footnote cross-reference (from [[Ezekiel 42#^ezek-42-4|Ezekiel 42:4]])
+- [[Leviticus 6]] — 1 footnote cross-reference (from [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]])
 - [[Ezekiel 44]] — 1 parallel verse, e.g. [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]] ↔ [[Ezekiel 44#^ezek-44-29|Ezekiel 44:29]]
 - [[Ezekiel 46]] — 1 parallel verse, e.g. [[Ezekiel 42#^ezek-42-1|Ezekiel 42:1]] ↔ [[Ezekiel 46#^ezek-46-21|Ezekiel 46:21]]
 - [[Ezekiel 40]] — 1 parallel verse, e.g. [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]] ↔ [[Ezekiel 40#^ezek-40-39|Ezekiel 40:39]]

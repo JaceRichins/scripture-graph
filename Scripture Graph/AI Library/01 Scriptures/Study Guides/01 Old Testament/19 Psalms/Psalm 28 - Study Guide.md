@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 28
 slug: ps-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 28]] · My notes: [[Psalm 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads with the Lord to hear his voice and grant his petitions—David prays, Save Thy people and bless Thine inheritance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 124]] — 2 footnote cross-references (from [[Psalm 28#^ps-28-2|Psalm 28:2]])
+- [[Psalm 83]] — 1 footnote cross-reference (from [[Psalm 28#^ps-28-1|Psalm 28:1]])
+- [[Psalm 88]] — 1 footnote cross-reference (from [[Psalm 28#^ps-28-1|Psalm 28:1]])
+- [[Psalm 143]] — 1 footnote cross-reference (from [[Psalm 28#^ps-28-1|Psalm 28:1]])
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Psalm 28#^ps-28-1|Psalm 28:1]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[Psalm 28#^ps-28-1|Psalm 28:1]])
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Psalm 28#^ps-28-4|Psalm 28:4]] ↔ [[Jeremiah 25#^jer-25-14|Jeremiah 25:14]]
 <!-- SG:END related-scriptures -->
 

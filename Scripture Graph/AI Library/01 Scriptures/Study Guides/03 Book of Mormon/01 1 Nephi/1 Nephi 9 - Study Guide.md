@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 9
 slug: 1ne-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 9]] · My notes: [[1 Nephi 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi makes two sets of records—Each is called the plates of Nephi—The larger plates contain a secular history; the smaller ones deal primarily with sacred things. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Words of Mormon 1]] — 3 footnote cross-references (from [[1 Nephi 9#^1ne-9-2|1 Nephi 9:2]])
+- [[1 Nephi 6]] — 2 footnote cross-references (from [[1 Nephi 9#^1ne-9-2|1 Nephi 9:2]])
+- [[1 Nephi 19]] — 2 footnote cross-references (from [[1 Nephi 9#^1ne-9-2|1 Nephi 9:2]])
+- [[Omni 1]] — 2 footnote cross-references (from [[1 Nephi 9#^1ne-9-2|1 Nephi 9:2]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]])
+- [[1 Nephi 16]] — 1 footnote cross-reference (from [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]])
 - [[Helaman 14]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[Helaman 14#^hel-14-1|Helaman 14:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[1 Nephi 10#^1ne-10-16|1 Nephi 10:16]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 3]] · My notes: [[Romans 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Man is not justified by the law of Moses—He is justified through righteousness, which comes through faith in Christ, made possible through Christ’s atoning sacrifice.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 8]] — 2 footnote cross-references (from [[Romans 3#^rom-3-14|Romans 3:14]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-2|Romans 3:2]])
+- [[2 Nephi 29]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-2|Romans 3:2]])
+- [[1 Nephi 8]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-3|Romans 3:3]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-4|Romans 3:4]])
+- [[Psalm 51]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-4|Romans 3:4]])
 - [[Psalm 14]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 14#^ps-14-3|Psalm 14:3]]
 - [[Psalm 53]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 53#^ps-53-3|Psalm 53:3]]
 <!-- SG:END related-scriptures -->

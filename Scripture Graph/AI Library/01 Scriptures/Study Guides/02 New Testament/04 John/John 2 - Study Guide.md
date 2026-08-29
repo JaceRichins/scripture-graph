@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 2
 slug: john-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 2]] · My notes: [[John 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus turns water into wine in Cana—He attends the Passover, cleanses the temple, foretells His death and resurrection, and performs miracles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 4]] — 1 footnote cross-reference (from [[John 2#^john-2-11|John 2:11]])
+- [[Psalm 69]] — 1 footnote cross-reference (from [[John 2#^john-2-14|John 2:14]])
+- [[Matthew 21]] — 1 footnote cross-reference (from [[John 2#^john-2-15|John 2:15]])
+- [[Matthew 26]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
+- [[Matthew 27]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
+- [[Mark 14]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
 - [[Psalm 69]] — 1 parallel verse, e.g. [[John 2#^john-2-17|John 2:17]] ↔ [[Psalm 69#^ps-69-9|Psalm 69:9]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 22
 slug: isa-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 22]] · My notes: [[Isaiah 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jerusalem will be attacked and scourged—The people will be carried captive—The Messiah will hold the key of the house of David, inherit glory, and be fastened as a nail in a sure place.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 37]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-5|Isaiah 22:5]])
+- [[1 Kings 7]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-8|Isaiah 22:8]])
+- [[2 Kings 20]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-9|Isaiah 22:9]])
+- [[Isaiah 7]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-11|Isaiah 22:11]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-12|Isaiah 22:12]])
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-12|Isaiah 22:12]])
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Isaiah 22#^isa-22-25|Isaiah 22:25]] ↔ [[Joel 3#^joel-3-8|Joel 3:8]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]

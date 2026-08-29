@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 5
 slug: ezek-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 5]] · My notes: [[Ezekiel 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The judgment of Jerusalem will include famine, pestilence, war, and the scattering of her inhabitants.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 2]] — 2 footnote cross-references (from [[Ezekiel 5#^ezek-5-10|Ezekiel 5:10]])
+- [[Ezekiel 12]] — 1 footnote cross-reference (from [[Ezekiel 5#^ezek-5-2|Ezekiel 5:2]])
+- [[1 Nephi 21]] — 1 footnote cross-reference (from [[Ezekiel 5#^ezek-5-5|Ezekiel 5:5]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Ezekiel 5#^ezek-5-5|Ezekiel 5:5]])
+- [[Alma 39]] — 1 footnote cross-reference (from [[Ezekiel 5#^ezek-5-5|Ezekiel 5:5]])
+- [[D&C 103]] — 1 footnote cross-reference (from [[Ezekiel 5#^ezek-5-5|Ezekiel 5:5]])
 - [[Ezekiel 17]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
 - [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]

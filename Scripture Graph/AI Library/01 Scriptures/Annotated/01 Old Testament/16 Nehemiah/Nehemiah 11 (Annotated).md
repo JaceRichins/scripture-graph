@@ -13,7 +13,11 @@ cssclasses:
 
 [[Nehemiah 11|Plain text]] · [[Nehemiah 11 - Study Guide|Study guide]] · [[Nehemiah 11 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The people and their overseers are elected by lot to dwell in Jerusalem and the other cities.
+
 ![[Nehemiah 11#^neh-11-1]]
+> [[Matthew 4#^matt-4-5|Matt. 4:5]] · [[Matthew 27#^matt-27-53|27:53]] · [[Revelation 11#^rev-11-2|Rev. 11:2]] · [[Ezekiel 48#^ezek-48-31|Ezek. 48:31]]
 
 ![[Nehemiah 11#^neh-11-2]]
 
@@ -36,6 +40,7 @@ cssclasses:
 ![[Nehemiah 11#^neh-11-9]]
 
 ![[Nehemiah 11#^neh-11-10]]
+> [[1 Chronicles 9#^1chr-9-10|1 Chr. 9:10]]
 
 ![[Nehemiah 11#^neh-11-11]]
 > [[1 Chronicles 9#^1chr-9-11|≈ 1 Chronicles 9:11]] · [[1 Chronicles 9#^1chr-9-7|≈ 1 Chronicles 9:7]] · [[1 Chronicles 9#^1chr-9-12|≈ 1 Chronicles 9:12]] · [[Ezra 7#^ezra-7-2|≈ Ezra 7:2]]
@@ -51,6 +56,7 @@ cssclasses:
 > [[1 Chronicles 6#^1chr-6-45|≈ 1 Chronicles 6:45]] · [[1 Chronicles 9#^1chr-9-14|≈ 1 Chronicles 9:14]]
 
 ![[Nehemiah 11#^neh-11-16]]
+> [[D&C 107#^dc-107-68|D&amp;C 107:68 (68–69)]] · [[1 Chronicles 26#^1chr-26-29|1 Chr. 26:29]]
 
 ![[Nehemiah 11#^neh-11-17]]
 > [[1 Chronicles 9#^1chr-9-16|≈ 1 Chronicles 9:16]] · [[Joshua 7#^josh-7-1|≈ Joshua 7:1]] · [[Joshua 7#^josh-7-18|≈ Joshua 7:18]]
@@ -64,11 +70,12 @@ cssclasses:
 ![[Nehemiah 11#^neh-11-21]]
 
 ![[Nehemiah 11#^neh-11-22]]
-> [[1 Chronicles 6#^1chr-6-45|≈ 1 Chronicles 6:45]] · [[1 Chronicles 6#^1chr-6-46|≈ 1 Chronicles 6:46]]
+> [[D&C 107#^dc-107-13|D&amp;C 107:16 (13–17)]] · [[1 Chronicles 6#^1chr-6-45|≈ 1 Chronicles 6:45]] · [[1 Chronicles 6#^1chr-6-46|≈ 1 Chronicles 6:46]]
 
 ![[Nehemiah 11#^neh-11-23]]
 
 ![[Nehemiah 11#^neh-11-24]]
+> [[Genesis 38#^gen-38-30|Gen. 38:30]]
 
 ![[Nehemiah 11#^neh-11-25]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 72
 slug: ps-72
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 72]] · My notes: [[Psalm 72 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David speaks of Solomon, who is made a type of the Messiah—He will have dominion—His name will endure forever—All nations will call him blessed—The whole earth will be filled with the glory of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mormon 9]] — 2 parallel verses, e.g. [[Psalm 72#^ps-72-8|Psalm 72:8]] ↔ [[Mormon 9#^morm-9-21|Mormon 9:21]]
-- [[D&C 65]] — 2 parallel verses, e.g. [[Psalm 72#^ps-72-8|Psalm 72:8]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
+- [[D&C 101]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-4|Psalm 72:4]])
+- [[Psalm 89]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-5|Psalm 72:5]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-7|Psalm 72:7]])
+- [[D&C 54]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-7|Psalm 72:7]])
+- [[Zechariah 9]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-8|Psalm 72:8]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Psalm 72#^ps-72-9|Psalm 72:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

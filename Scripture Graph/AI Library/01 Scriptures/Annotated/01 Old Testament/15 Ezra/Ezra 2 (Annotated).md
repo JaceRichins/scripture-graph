@@ -13,11 +13,14 @@ cssclasses:
 
 [[Ezra 2|Plain text]] · [[Ezra 2 - Study Guide|Study guide]] · [[Ezra 2 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The descendants of the Jews taken captive who return to Jerusalem and to Judah are listed—The children of priests whose genealogy is lost are denied the priesthood—Faithful people contribute to the building of the temple.
+
 ![[Ezra 2#^ezra-2-1]]
-> [[Nehemiah 7#^neh-7-6|≈ Nehemiah 7:6]] · [[Esther 2#^esth-2-6|≈ Esther 2:6]]
+> [[Nehemiah 7#^neh-7-6|Neh. 7:6 (6–73)]] · [[Nehemiah 12#^neh-12-1|12:1]] · [[1 Nephi 1#^1ne-1-13|1 Ne. 1:13]] · [[1 Nephi 10#^1ne-10-3|10:3]] · [[Omni 1#^omni-1-15|Omni 1:15]] · [[Nehemiah 7#^neh-7-6|≈ Nehemiah 7:6]] · [[Esther 2#^esth-2-6|≈ Esther 2:6]]
 
 ![[Ezra 2#^ezra-2-2]]
-> [[Nehemiah 7#^neh-7-7|≈ Nehemiah 7:7]]
+> [[Nehemiah 7#^neh-7-7|Neh. 7:7]] · [[1 Chronicles 3#^1chr-3-17|1 Chr. 3:19 (17–19)]] · [[Haggai 1#^hag-1-1|Hag. 1:1]] · [[Matthew 1#^matt-1-11|Matt. 1:12 (11–13)]] · [[Nehemiah 7#^neh-7-7|≈ Nehemiah 7:7]]
 
 ![[Ezra 2#^ezra-2-3]]
 > [[Nehemiah 7#^neh-7-8|≈ Nehemiah 7:8]]
@@ -39,6 +42,7 @@ cssclasses:
 > [[Nehemiah 7#^neh-7-14|≈ Nehemiah 7:14]]
 
 ![[Ezra 2#^ezra-2-10]]
+> [[Nehemiah 7#^neh-7-15|Neh. 7:15]]
 
 ![[Ezra 2#^ezra-2-11]]
 > [[Nehemiah 7#^neh-7-16|≈ Nehemiah 7:16]]
@@ -120,7 +124,7 @@ cssclasses:
 > [[Nehemiah 7#^neh-7-45|≈ Nehemiah 7:45]]
 
 ![[Ezra 2#^ezra-2-43]]
-> [[Nehemiah 7#^neh-7-46|≈ Nehemiah 7:46]]
+> [[1 Chronicles 9#^1chr-9-2|1 Chr. 9:2]] · [[Ezra 7#^ezra-7-24|Ezra 7:24]] · [[Ezra 8#^ezra-8-20|8:20]] · [[Nehemiah 7#^neh-7-46|≈ Nehemiah 7:46]]
 
 ![[Ezra 2#^ezra-2-44]]
 > [[Nehemiah 7#^neh-7-47|≈ Nehemiah 7:47]]
@@ -171,13 +175,13 @@ cssclasses:
 > [[Nehemiah 7#^neh-7-62|≈ Nehemiah 7:62]]
 
 ![[Ezra 2#^ezra-2-61]]
-> [[Nehemiah 7#^neh-7-63|≈ Nehemiah 7:63]]
+> [[Nehemiah 7#^neh-7-63|Neh. 7:63 (63–64)]] · [[D&C 85#^dc-85-11|D&amp;C 85:12 (11–12)]] · [[Nehemiah 7#^neh-7-63|≈ Nehemiah 7:63]]
 
 ![[Ezra 2#^ezra-2-62]]
 > [[Nehemiah 7#^neh-7-64|≈ Nehemiah 7:64]]
 
 ![[Ezra 2#^ezra-2-63]]
-> [[Nehemiah 7#^neh-7-65|≈ Nehemiah 7:65]]
+> [[Leviticus 22#^lev-22-2|Lev. 22:2 (2, 10, 15–16)]] · [[Nehemiah 7#^neh-7-65|≈ Nehemiah 7:65]]
 
 ![[Ezra 2#^ezra-2-64]]
 > [[Nehemiah 7#^neh-7-66|≈ Nehemiah 7:66]]
@@ -192,7 +196,7 @@ cssclasses:
 > [[Nehemiah 7#^neh-7-69|≈ Nehemiah 7:69]]
 
 ![[Ezra 2#^ezra-2-68]]
-> [[Nehemiah 7#^neh-7-70|≈ Nehemiah 7:70]] · [[Nehemiah 7#^neh-7-71|≈ Nehemiah 7:71]]
+> [[Psalm 122#^ps-122-1|Ps. 122:1]] · [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] · [[D&C 88#^dc-88-137|D&amp;C 88:137]] · [[Nehemiah 7#^neh-7-70|≈ Nehemiah 7:70]] · [[Nehemiah 7#^neh-7-71|≈ Nehemiah 7:71]]
 
 ![[Ezra 2#^ezra-2-69]]
 

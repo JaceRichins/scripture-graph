@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 18
 slug: 1sam-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 18]] · My notes: [[1 Samuel 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jonathan loves David—Saul sets David over his armies—David is honored by the people, and Saul becomes jealous—David marries Michal, a daughter of Saul.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 14]] — 2 footnote cross-references (from [[1 Samuel 18#^1sam-18-17|1 Samuel 18:17]])
+- [[Genesis 44]] — 1 footnote cross-reference (from [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]])
+- [[1 Samuel 20]] — 1 footnote cross-reference (from [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]])
+- [[Mosiah 18]] — 1 footnote cross-reference (from [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]])
 - [[Judges 15]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]] ↔ [[Judges 15#^judg-15-17|Judges 15:17]]
 - [[1 Samuel 21]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-7|1 Samuel 18:7]] ↔ [[1 Samuel 21#^1sam-21-11|1 Samuel 21:11]]
 - [[1 Samuel 22]] — 2 parallel verses, e.g. [[1 Samuel 18#^1sam-18-26|1 Samuel 18:26]] ↔ [[1 Samuel 22#^1sam-22-14|1 Samuel 22:14]]

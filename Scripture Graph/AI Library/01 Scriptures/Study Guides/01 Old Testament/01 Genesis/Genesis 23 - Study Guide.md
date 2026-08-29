@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 23
 slug: gen-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 23]] · My notes: [[Genesis 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sarah dies and is buried in the cave of Machpelah, which Abraham buys from Ephron the Hittite.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,10 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 50]] — 3 parallel verses, e.g. [[Genesis 23#^gen-23-19|Genesis 23:19]] ↔ [[Genesis 50#^gen-50-13|Genesis 50:13]]
-- [[Exodus 6]] — 3 parallel verses, e.g. [[Genesis 23#^gen-23-1|Genesis 23:1]] ↔ [[Exodus 6#^ex-6-16|Exodus 6:16]]
-- [[Genesis 46]] — 2 parallel verses, e.g. [[Genesis 23#^gen-23-2|Genesis 23:2]] ↔ [[Genesis 46#^gen-46-6|Genesis 46:6]]
-- [[Genesis 49]] — 2 parallel verses, e.g. [[Genesis 23#^gen-23-9|Genesis 23:9]] ↔ [[Genesis 49#^gen-49-30|Genesis 49:30]]
+- [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 23#^gen-23-9|Genesis 23:9]])
+- [[Genesis 49]] — 2 footnote cross-references (from [[Genesis 23#^gen-23-9|Genesis 23:9]])
+- [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 23#^gen-23-2|Genesis 23:2]])
+- [[Genesis 13]] — 1 footnote cross-reference (from [[Genesis 23#^gen-23-2|Genesis 23:2]])
+- [[Genesis 34]] — 1 footnote cross-reference (from [[Genesis 23#^gen-23-10|Genesis 23:10]])
+- [[Ruth 4]] — 1 footnote cross-reference (from [[Genesis 23#^gen-23-10|Genesis 23:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

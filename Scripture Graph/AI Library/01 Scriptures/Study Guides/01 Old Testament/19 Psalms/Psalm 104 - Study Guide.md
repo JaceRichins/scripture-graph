@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 104
 slug: ps-104
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 104]] · My notes: [[Psalm 104 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord is clothed with honor and majesty—He makes His angels spirits and His ministers a flaming fire—Through His providence He sustains all forms of life—His glory endures forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 103]] — 3 parallel verses, e.g. [[Psalm 104#^ps-104-1|Psalm 104:1]] ↔ [[Psalm 103#^ps-103-1|Psalm 103:1]]
+- [[Proverbs 31]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-1|Psalm 104:1]])
+- [[Job 9]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-2|Psalm 104:2]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-2|Psalm 104:2]])
+- [[Isaiah 19]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-3|Psalm 104:3]])
+- [[Genesis 7]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-6|Psalm 104:6]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Psalm 104#^ps-104-9|Psalm 104:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

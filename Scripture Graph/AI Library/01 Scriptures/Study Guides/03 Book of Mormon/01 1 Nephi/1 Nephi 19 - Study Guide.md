@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 19
 slug: 1ne-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 19]] · My notes: [[1 Nephi 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi makes plates of ore and records the history of his people—The God of Israel will come six hundred years from the time Lehi left Jerusalem—Nephi tells of His sufferings and crucifixion—The Jews will be despised and scattered until the latter days, when they will return unto the Lord. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 25]] — 5 footnote cross-references (from [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]])
+- [[3 Nephi 10]] — 5 footnote cross-references (from [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]])
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-2|1 Nephi 19:2]])
+- [[1 Nephi 9]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-2|1 Nephi 19:2]])
+- [[Matthew 27]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-9|1 Nephi 19:9]])
+- [[2 Nephi 10]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]])
 - [[1 Nephi 22]] — 6 parallel verses, e.g. [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]] ↔ [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]]
 - [[3 Nephi 16]] — 5 parallel verses, e.g. [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
 - [[3 Nephi 20]] — 3 parallel verses, e.g. [[1 Nephi 19#^1ne-19-24|1 Nephi 19:24]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]

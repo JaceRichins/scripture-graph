@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 118
 slug: ps-118
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 118]] · My notes: [[Psalm 118 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm—Let all Israel say of the Lord, His mercy endures forever—The Stone that the builders refused is become the headstone of the corner—Blessed is he who comes in the name of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 54]] — 2 footnote cross-references (from [[Psalm 118#^ps-118-7|Psalm 118:7]])
+- [[Psalm 4]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-5|Psalm 118:5]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-5|Psalm 118:5]])
+- [[Psalm 56]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
+- [[2 Nephi 8]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
+- [[D&C 122]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
 - [[Psalm 136]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
 - [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Psalm 106]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]

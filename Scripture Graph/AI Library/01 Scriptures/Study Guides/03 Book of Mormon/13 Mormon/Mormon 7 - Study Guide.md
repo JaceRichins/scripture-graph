@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 7
 slug: morm-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 7]] · My notes: [[Mormon 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mormon invites the Lamanites of the latter days to believe in Christ, accept His gospel, and be saved—All who believe the Bible will also believe the Book of Mormon. About A.D. 385.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 5]] — 3 footnote cross-references (from [[Mormon 7#^morm-7-1|Mormon 7:1]])
+- [[2 Nephi 3]] — 2 footnote cross-references (from [[Mormon 7#^morm-7-5|Mormon 7:5]])
+- [[3 Nephi 5]] — 2 footnote cross-references (from [[Mormon 7#^morm-7-5|Mormon 7:5]])
+- [[1 Nephi 13]] — 2 footnote cross-references (from [[Mormon 7#^morm-7-8|Mormon 7:8]])
+- [[Helaman 15]] — 1 footnote cross-reference (from [[Mormon 7#^morm-7-1|Mormon 7:1]])
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[Mormon 7#^morm-7-2|Mormon 7:2]])
 - [[3 Nephi 12]] — 2 parallel verses, e.g. [[Mormon 7#^morm-7-10|Mormon 7:10]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[Mormon 7#^morm-7-6|Mormon 7:6]] ↔ [[Mosiah 15#^mosiah-15-20|Mosiah 15:20]]
 - [[Alma 40]] — 1 parallel verse, e.g. [[Mormon 7#^morm-7-6|Mormon 7:6]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]

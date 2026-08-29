@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 38
 slug: ex-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 27]] — 5 footnote cross-references (from [[Exodus 38#^ex-38-1|Exodus 38:1]])
+- [[Exodus 35]] — 2 footnote cross-references (from [[Exodus 38#^ex-38-1|Exodus 38:1]])
+- [[2 Chronicles 1]] — 1 footnote cross-reference (from [[Exodus 38#^ex-38-2|Exodus 38:2]])
+- [[Numbers 10]] — 1 footnote cross-reference (from [[Exodus 38#^ex-38-21|Exodus 38:21]])
+- [[Numbers 17]] — 1 footnote cross-reference (from [[Exodus 38#^ex-38-21|Exodus 38:21]])
+- [[Numbers 1]] — 1 footnote cross-reference (from [[Exodus 38#^ex-38-21|Exodus 38:21]])
 - [[Exodus 27]] — 16 parallel verses, e.g. [[Exodus 38#^ex-38-18|Exodus 38:18]] ↔ [[Exodus 27#^ex-27-16|Exodus 27:16]]
 - [[Numbers 7]] — 26 parallel verses, e.g. [[Exodus 38#^ex-38-24|Exodus 38:24]] ↔ [[Numbers 7#^num-7-13|Numbers 7:13]]
 - [[Exodus 37]] — 5 parallel verses, e.g. [[Exodus 38#^ex-38-6|Exodus 38:6]] ↔ [[Exodus 37#^ex-37-15|Exodus 37:15]]
@@ -57,16 +63,16 @@ _Not yet developed._
 - [[Exodus 30]] — 3 parallel verses, e.g. [[Exodus 38#^ex-38-26|Exodus 38:26]] ↔ [[Exodus 30#^ex-30-13|Exodus 30:13]]
 - [[Exodus 28]] — 2 parallel verses, e.g. [[Exodus 38#^ex-38-18|Exodus 38:18]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Exodus 38#^ex-38-3|Exodus 38:3]] ↔ [[Numbers 4#^num-4-14|Numbers 4:14]]
-- [[Numbers 2]] — 1 parallel verse, e.g. [[Exodus 38#^ex-38-26|Exodus 38:26]] ↔ [[Numbers 2#^num-2-32|Numbers 2:32]]
+- [[Numbers 1]] — 1 parallel verse, e.g. [[Exodus 38#^ex-38-26|Exodus 38:26]] ↔ [[Numbers 1#^num-1-46|Numbers 1:46]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sacrifice]]
 - [[Law of Moses]]
 - [[Service]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Parables of Jesus]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

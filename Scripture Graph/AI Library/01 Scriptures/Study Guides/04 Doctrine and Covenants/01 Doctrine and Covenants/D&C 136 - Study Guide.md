@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 136
 slug: dc-136
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Official Declaration 2]] — 4 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
+- [[Official Declaration 1]] — 3 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Official Declaration 1#^od-1-9|Official Declaration 1:9]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-41|D&C 136:41]] ↔ [[D&C 45#^dc-45-6|D&C 45:6]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Exodus 3#^ex-3-16|Exodus 3:16]]
 - [[D&C 115]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]

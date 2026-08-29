@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 110
 slug: ps-110
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 110]] · My notes: [[Psalm 110 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—Christ will sit on the Lord’s right hand—He will be a priest forever after the order of Melchizedek.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,10 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 12]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-1|Psalm 110:1]])
+- [[Luke 20]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-1|Psalm 110:1]])
+- [[Acts 2]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-1|Psalm 110:1]])
+- [[Hebrews 1]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-1|Psalm 110:1]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-2|Psalm 110:2]])
+- [[Isaiah 53]] — 1 footnote cross-reference (from [[Psalm 110#^ps-110-2|Psalm 110:2]])
 - [[Hebrews 7]] — 2 parallel verses, e.g. [[Psalm 110#^ps-110-4|Psalm 110:4]] ↔ [[Hebrews 7#^heb-7-21|Hebrews 7:21]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-1|Psalm 110:1]] ↔ [[Hebrews 1#^heb-1-13|Hebrews 1:13]]
 - [[Hebrews 5]] — 1 parallel verse, e.g. [[Psalm 110#^ps-110-4|Psalm 110:4]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
+- [[1 Corinthians 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

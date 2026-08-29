@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 15]] · My notes: [[Mosiah 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How Christ is both the Father and the Son—He will make intercession and bear the transgressions of His people—They and all the holy prophets are His seed—He brings to pass the Resurrection—Little children have eternal life. About 148 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 53]] — 4 footnote cross-references (from [[Mosiah 15#^mosiah-15-6|Mosiah 15:6]])
+- [[Mosiah 14]] — 4 footnote cross-references (from [[Mosiah 15#^mosiah-15-6|Mosiah 15:6]])
+- [[Mosiah 3]] — 3 footnote cross-references (from [[Mosiah 15#^mosiah-15-2|Mosiah 15:2]])
+- [[Alma 7]] — 3 footnote cross-references (from [[Mosiah 15#^mosiah-15-2|Mosiah 15:2]])
+- [[John 19]] — 3 footnote cross-references (from [[Mosiah 15#^mosiah-15-2|Mosiah 15:2]])
+- [[Alma 11]] — 3 footnote cross-references (from [[Mosiah 15#^mosiah-15-2|Mosiah 15:2]])
 - [[Isaiah 52]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
 - [[Mosiah 12]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
 - [[3 Nephi 20]] — 6 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]

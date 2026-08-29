@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 3
 slug: 1thes-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Thessalonians 3]] · My notes: [[1 Thessalonians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are told to perfect that which is lacking in their faith.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Thessalonians 2]] — 2 footnote cross-references (from [[1 Thessalonians 3#^1thes-3-10|1 Thessalonians 3:10]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[1 Thessalonians 3#^1thes-3-1|1 Thessalonians 3:1]])
+- [[Acts 16]] — 1 footnote cross-reference (from [[1 Thessalonians 3#^1thes-3-2|1 Thessalonians 3:2]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[1 Thessalonians 3#^1thes-3-2|1 Thessalonians 3:2]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[1 Thessalonians 3#^1thes-3-2|1 Thessalonians 3:2]])
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[1 Thessalonians 3#^1thes-3-2|1 Thessalonians 3:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 54
 slug: ps-54
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 54]] · My notes: [[Psalm 54 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads for salvation and promises to serve God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 118]] — 2 footnote cross-references (from [[Psalm 54#^ps-54-4|Psalm 54:4]])
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 54#^ps-54-3|Psalm 54:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 56
 slug: isa-56
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 56]] · My notes: [[Isaiah 56 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All who keep the commandments will be exalted—Other people will join Israel—The Lord will gather others to the house of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 60]] — 2 footnote cross-references (from [[Isaiah 56#^isa-56-3|Isaiah 56:3]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Isaiah 56#^isa-56-1|Isaiah 56:1]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Isaiah 56#^isa-56-1|Isaiah 56:1]])
+- [[Matthew 4]] — 1 footnote cross-reference (from [[Isaiah 56#^isa-56-1|Isaiah 56:1]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Isaiah 56#^isa-56-2|Isaiah 56:2]])
+- [[Romans 8]] — 1 footnote cross-reference (from [[Isaiah 56#^isa-56-3|Isaiah 56:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

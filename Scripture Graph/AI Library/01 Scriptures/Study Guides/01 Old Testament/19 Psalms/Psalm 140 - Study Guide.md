@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 140
 slug: ps-140
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 140]] · My notes: [[Psalm 140 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays for deliverance from his enemies—The Lord maintains the cause of the poor and afflicted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 3]] — 1 footnote cross-reference (from [[Psalm 140#^ps-140-3|Psalm 140:3]])
+- [[Psalm 142]] — 1 footnote cross-reference (from [[Psalm 140#^ps-140-5|Psalm 140:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

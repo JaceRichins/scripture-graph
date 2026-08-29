@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 13
 slug: 2cor-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 13]] · My notes: [[2 Corinthians 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints should test themselves as to righteousness—Be perfect and of one mind; live in peace.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 19]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]])
+- [[1 Corinthians 11]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-5|2 Corinthians 13:5]])
+- [[1 John 3]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-5|2 Corinthians 13:5]])
+- [[1 John 4]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-5|2 Corinthians 13:5]])
+- [[Romans 8]] — 1 footnote cross-reference (from [[2 Corinthians 13#^2cor-13-5|2 Corinthians 13:5]])
 - [[D&C 6]] — 1 parallel verse, e.g. [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]] ↔ [[D&C 6#^dc-6-28|D&C 6:28]]
 <!-- SG:END related-scriptures -->
 

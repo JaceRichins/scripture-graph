@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 14
 slug: josh-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 14]] · My notes: [[Joshua 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The land is divided by lot among 9½ tribes—Caleb inherits Hebron as a special reward for his faithfulness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 13]] — 3 footnote cross-references (from [[Joshua 14#^josh-14-7|Joshua 14:7]])
+- [[Numbers 14]] — 2 footnote cross-references (from [[Joshua 14#^josh-14-8|Joshua 14:8]])
+- [[Joshua 21]] — 2 footnote cross-references (from [[Joshua 14#^josh-14-14|Joshua 14:14]])
+- [[Numbers 34]] — 1 footnote cross-reference (from [[Joshua 14#^josh-14-1|Joshua 14:1]])
+- [[Numbers 11]] — 1 footnote cross-reference (from [[Joshua 14#^josh-14-1|Joshua 14:1]])
+- [[Numbers 27]] — 1 footnote cross-reference (from [[Joshua 14#^josh-14-1|Joshua 14:1]])
 - [[Joshua 19]] — 1 parallel verse, e.g. [[Joshua 14#^josh-14-1|Joshua 14:1]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
 - [[Joshua 21]] — 3 parallel verses, e.g. [[Joshua 14#^josh-14-1|Joshua 14:1]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
 - [[Numbers 32]] — 3 parallel verses, e.g. [[Joshua 14#^josh-14-1|Joshua 14:1]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]

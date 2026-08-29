@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 10
 slug: moro-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 10]] · My notes: [[Moroni 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A testimony of the Book of Mormon comes by the power of the Holy Ghost—The gifts of the Spirit are dispensed to the faithful—Spiritual gifts always accompany faith—Moroni’s words speak from the dust—Come unto Christ, be perfected in Him, and sanctify your souls. About A.D. 421.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moroni 7]] — 6 footnote cross-references (from [[Moroni 10#^moro-10-4|Moroni 10:4]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-1|Moroni 10:1]])
+- [[Deuteronomy 11]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-3|Moroni 10:3]])
+- [[Ether 5]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-4|Moroni 10:4]])
+- [[James 1]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-4|Moroni 10:4]])
+- [[John 8]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-5|Moroni 10:5]])
 - [[1 Nephi 10]] — 7 parallel verses, e.g. [[Moroni 10#^moro-10-19|Moroni 10:19]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
 - [[Moroni 6]] — 6 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[Moroni 6#^moro-6-9|Moroni 6:9]]
 - [[D&C 20]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-26|Moroni 10:26]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]

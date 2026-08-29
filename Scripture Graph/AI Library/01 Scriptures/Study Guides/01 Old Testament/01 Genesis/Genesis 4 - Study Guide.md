@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 4]] · My notes: [[Genesis 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eve bears Cain and Abel—They offer sacrifices—Cain slays Abel and is cursed by the Lord, who also sets a mark upon him—The children of men multiply—Adam begets Seth, and Seth begets Enos.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 5]] — 15 footnote cross-references (from [[Genesis 4#^gen-4-1|Genesis 4:1]])
+- [[Moses 6]] — 3 footnote cross-references (from [[Genesis 4#^gen-4-16|Genesis 4:16]])
+- [[Mosiah 2]] — 2 footnote cross-references (from [[Genesis 4#^gen-4-4|Genesis 4:4]])
+- [[Numbers 16]] — 2 footnote cross-references (from [[Genesis 4#^gen-4-5|Genesis 4:5]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Genesis 4#^gen-4-4|Genesis 4:4]])
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 4#^gen-4-4|Genesis 4:4]])
 - [[Moses 5]] — 26 parallel verses, e.g. [[Genesis 4#^gen-4-23|Genesis 4:23]] ↔ [[Moses 5#^moses-5-47|Moses 5:47]]
 - [[Moses 6]] — 4 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[1 Samuel 1]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-19|Genesis 4:19]] ↔ [[1 Samuel 1#^1sam-1-2|1 Samuel 1:2]]

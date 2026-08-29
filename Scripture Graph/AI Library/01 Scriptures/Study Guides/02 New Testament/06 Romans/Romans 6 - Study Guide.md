@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 6
 slug: rom-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 6]] · My notes: [[Romans 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Baptism is in similitude of the death, burial, and resurrection of Christ—The wages of sin is death—Christ brings eternal life.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Colossians 3]] — 3 footnote cross-references (from [[Romans 6#^rom-6-5|Romans 6:5]])
+- [[Colossians 2]] — 2 footnote cross-references (from [[Romans 6#^rom-6-5|Romans 6:5]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-1|Romans 6:1]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-2|Romans 6:2]])
+- [[Mosiah 27]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-3|Romans 6:3]])
+- [[2 Timothy 2]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-5|Romans 6:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

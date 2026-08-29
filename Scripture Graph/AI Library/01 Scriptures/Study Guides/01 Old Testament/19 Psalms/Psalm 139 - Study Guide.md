@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 139
 slug: ps-139
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 139]] · My notes: [[Psalm 139 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says that the Lord knows all man’s thoughts and doings—He asks, Where can man go to escape from the spirit and presence of the Lord?—Man is fearfully and wonderfully made.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 121]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-1|Psalm 139:1]])
+- [[2 Samuel 7]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-1|Psalm 139:1]])
+- [[Amos 4]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-2|Psalm 139:2]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-2|Psalm 139:2]])
+- [[Mosiah 24]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-2|Psalm 139:2]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Psalm 139#^ps-139-2|Psalm 139:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

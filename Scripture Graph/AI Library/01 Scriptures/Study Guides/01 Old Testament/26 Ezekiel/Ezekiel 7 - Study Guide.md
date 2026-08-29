@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 7
 slug: ezek-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 7]] · My notes: [[Ezekiel 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Desolation, war, pestilence, and destruction will sweep the land of Israel—The desolation of the people is foreseen.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 4]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-2|Ezekiel 7:2]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-2|Ezekiel 7:2]])
+- [[1 Samuel 3]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-3|Ezekiel 7:3]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-3|Ezekiel 7:3]])
+- [[Ezekiel 5]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]])
+- [[Ezekiel 9]] — 1 footnote cross-reference (from [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]])
 - [[Ezekiel 9]] — 2 parallel verses, e.g. [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]] ↔ [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]]
 - [[Zephaniah 1]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-19|Ezekiel 7:19]] ↔ [[Zephaniah 1#^zeph-1-18|Zephaniah 1:18]]
 - [[Ezekiel 8]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]] ↔ [[Ezekiel 8#^ezek-8-18|Ezekiel 8:18]]

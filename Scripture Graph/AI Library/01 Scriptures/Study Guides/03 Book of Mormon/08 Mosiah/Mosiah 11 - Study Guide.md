@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 11
 slug: mosiah-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 11]] · My notes: [[Mosiah 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Noah rules in wickedness—He revels in riotous living with his wives and concubines—Abinadi prophesies that the people will be taken into bondage—His life is sought by King Noah. About 160–150 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 12]] — 4 footnote cross-references (from [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]])
+- [[Ether 10]] — 2 footnote cross-references (from [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]])
+- [[1 Kings 15]] — 2 footnote cross-references (from [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]])
+- [[Mosiah 23]] — 2 footnote cross-references (from [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]])
+- [[Mosiah 29]] — 2 footnote cross-references (from [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]])
+- [[Jacob 3]] — 1 footnote cross-reference (from [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]])
 - [[Mormon 8]] — 4 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Mormon 8#^morm-8-28|Mormon 8:28]]
 - [[Alma 4]] — 4 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
 - [[Alma 6]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 6#^alma-6-3|Alma 6:3]]

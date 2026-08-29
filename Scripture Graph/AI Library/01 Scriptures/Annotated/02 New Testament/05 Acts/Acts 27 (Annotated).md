@@ -13,9 +13,13 @@ cssclasses:
 
 [[Acts 27|Plain text]] · [[Acts 27 - Study Guide|Study guide]] · [[Acts 27 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Paul, in a perilous voyage, travels toward Rome—An angel comforts him—He uses the gift of seership—He is shipwrecked.
+
 ![[Acts 27#^acts-27-1]]
 
 ![[Acts 27#^acts-27-2]]
+> [[Acts 19#^acts-19-29|Acts 19:29]] · [[Acts 20#^acts-20-4|20:4]] · [[Colossians 4#^col-4-10|Col. 4:10]]
 
 ![[Acts 27#^acts-27-3]]
 
@@ -30,6 +34,7 @@ cssclasses:
 ![[Acts 27#^acts-27-8]]
 
 ![[Acts 27#^acts-27-9]]
+> [[Leviticus 23#^lev-23-27|Lev. 23:27 (27, 29)]]
 
 ![[Acts 27#^acts-27-10]]
 

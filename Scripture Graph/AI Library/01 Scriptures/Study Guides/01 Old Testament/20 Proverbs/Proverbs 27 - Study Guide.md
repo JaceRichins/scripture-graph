@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 27
 slug: prov-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 27]] · My notes: [[Proverbs 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Let another man praise you—A prudent man foresees evil—Hell and destruction are never full.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[James 4]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-1|Proverbs 27:1]])
+- [[Esther 3]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-3|Proverbs 27:3]])
+- [[Proverbs 28]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-5|Proverbs 27:5]])
+- [[Psalm 141]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
+- [[2 Samuel 20]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
 - [[Proverbs 20]] — 1 parallel verse, e.g. [[Proverbs 27#^prov-27-13|Proverbs 27:13]] ↔ [[Proverbs 20#^prov-20-16|Proverbs 20:16]]
 - [[Proverbs 22]] — 1 parallel verse, e.g. [[Proverbs 27#^prov-27-12|Proverbs 27:12]] ↔ [[Proverbs 22#^prov-22-3|Proverbs 22:3]]
 <!-- SG:END related-scriptures -->

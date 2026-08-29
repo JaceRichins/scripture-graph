@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 9
 slug: isa-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 9]] · My notes: [[Isaiah 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks about the Messiah—The people in darkness will see a great Light—Unto us a Child is born—He will be the Prince of Peace and reign on David’s throne—Compare 2 Nephi 19.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 10]] — 4 footnote cross-references (from [[Isaiah 9#^isa-9-4|Isaiah 9:4]])
+- [[2 Nephi 19]] — 3 footnote cross-references (from [[Isaiah 9#^isa-9-1|Isaiah 9:1]])
+- [[Matthew 4]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-1|Isaiah 9:1]])
+- [[Isaiah 8]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-2|Isaiah 9:2]])
+- [[Isaiah 26]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-3|Isaiah 9:3]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-3|Isaiah 9:3]])
 - [[2 Nephi 19]] — 27 parallel verses, e.g. [[Isaiah 9#^isa-9-17|Isaiah 9:17]] ↔ [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]]
 - [[Isaiah 5]] — 4 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[2 Nephi 15]] — 4 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 15
 slug: lev-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 15]] · My notes: [[Leviticus 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws, rites, and sacrifices are revealed for cleansing those who have a discharge and other types of uncleanness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 5]] — 2 footnote cross-references (from [[Leviticus 15#^lev-15-2|Leviticus 15:2]])
+- [[Leviticus 6]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-12|Leviticus 15:12]])
+- [[Leviticus 12]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-15|Leviticus 15:15]])
+- [[Leviticus 14]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-15|Leviticus 15:15]])
+- [[Matthew 9]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-25|Leviticus 15:25]])
+- [[Luke 8]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-25|Leviticus 15:25]])
 - [[Leviticus 17]] — 14 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
 - [[Leviticus 11]] — 28 parallel verses, e.g. [[Leviticus 15#^lev-15-1|Leviticus 15:1]] ↔ [[Leviticus 11#^lev-11-1|Leviticus 11:1]]
 - [[Numbers 19]] — 20 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Numbers 19#^num-19-19|Numbers 19:19]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 4
 slug: num-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 6]] — 3 footnote cross-references (from [[Numbers 4#^num-4-4|Numbers 4:4]])
+- [[Exodus 25]] — 2 footnote cross-references (from [[Numbers 4#^num-4-5|Numbers 4:5]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Numbers 4#^num-4-3|Numbers 4:3]])
+- [[Luke 3]] — 1 footnote cross-reference (from [[Numbers 4#^num-4-3|Numbers 4:3]])
+- [[Numbers 3]] — 1 footnote cross-reference (from [[Numbers 4#^num-4-4|Numbers 4:4]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Numbers 4#^num-4-15|Numbers 4:15]])
+- [[Numbers 1]] — 56 parallel verses, e.g. [[Numbers 4#^num-4-2|Numbers 4:2]] ↔ [[Numbers 1#^num-1-2|Numbers 1:2]]
+- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 4#^num-4-26|Numbers 4:26]] ↔ [[Numbers 3#^num-3-26|Numbers 3:26]]
 - [[Numbers 9]] — 6 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Numbers 9#^num-9-23|Numbers 9:23]]
 - [[Numbers 10]] — 4 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[2 Chronicles 31]] — 4 parallel verses, e.g. [[Numbers 4#^num-4-30|Numbers 4:30]] ↔ [[2 Chronicles 31#^2chr-31-16|2 Chronicles 31:16]]
@@ -53,15 +61,14 @@ _Not yet developed._
 - [[Numbers 16]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-1|Numbers 4:1]] ↔ [[Numbers 16#^num-16-20|Numbers 16:20]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[Numbers 4#^num-4-45|Numbers 4:45]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[Numbers 4#^num-4-45|Numbers 4:45]] ↔ [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]]
-- [[Numbers 8]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-31|Numbers 4:31]] ↔ [[Numbers 8#^num-8-22|Numbers 8:22]]
-- [[Exodus 17]] — 3 parallel verses, e.g. [[Numbers 4#^num-4-37|Numbers 4:37]] ↔ [[Exodus 17#^ex-17-1|Exodus 17:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Service]]
 - [[Priesthood]]
 - [[Law of Moses]]
+- [[Service]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -13,25 +13,30 @@ cssclasses:
 
 [[2 Chronicles 34|Plain text]] · [[2 Chronicles 34 - Study Guide|Study guide]] · [[2 Chronicles 34 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Josiah destroys idolatry in Judah—The people of Judah repair the house of the Lord—Hilkiah finds a book of the law—Huldah the prophetess reveals the desolations to come upon the people—Josiah and the people covenant to serve the Lord.
+
 ![[2 Chronicles 34#^2chr-34-1]]
-> [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Kings 18#^2kgs-18-2|≈ 2 Kings 18:2]] · [[2 Samuel 2#^2sam-2-10|≈ 2 Samuel 2:10]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]]
+> [[2 Kings 22#^2kgs-22-1|2 Kgs. 22:1 (1–20)]] · [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Kings 18#^2kgs-18-2|≈ 2 Kings 18:2]] · [[2 Samuel 2#^2sam-2-10|≈ 2 Samuel 2:10]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]]
 
 ![[2 Chronicles 34#^2chr-34-2]]
 > [[2 Kings 22#^2kgs-22-2|≈ 2 Kings 22:2]] · [[Ether 10#^ether-10-16|≈ Ether 10:16]] · [[Ether 10#^ether-10-5|≈ Ether 10:5]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 16#^2kgs-16-2|≈ 2 Kings 16:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]]
 
 ![[2 Chronicles 34#^2chr-34-3]]
-> [[2 Kings 24#^2kgs-24-12|≈ 2 Kings 24:12]]
+> [[D&C 88#^dc-88-63|D&amp;C 88:63 (63–67)]] · [[2 Chronicles 33#^2chr-33-3|2 Chr. 33:3 (3–22)]] · [[2 Kings 24#^2kgs-24-12|≈ 2 Kings 24:12]]
 
 ![[2 Chronicles 34#^2chr-34-4]]
+> [[2 Kings 23#^2kgs-23-6|2 Kgs. 23:6]]
 
 ![[2 Chronicles 34#^2chr-34-5]]
+> [[1 Kings 13#^1kgs-13-2|1 Kgs. 13:2]] · [[2 Kings 23#^2kgs-23-20|2 Kgs. 23:20]]
 
 ![[2 Chronicles 34#^2chr-34-6]]
 
 ![[2 Chronicles 34#^2chr-34-7]]
 
 ![[2 Chronicles 34#^2chr-34-8]]
-> [[2 Kings 22#^2kgs-22-3|≈ 2 Kings 22:3]]
+> [[Jeremiah 26#^jer-26-24|Jer. 26:24]] · [[2 Kings 22#^2kgs-22-3|≈ 2 Kings 22:3]]
 
 ![[2 Chronicles 34#^2chr-34-9]]
 > [[2 Kings 12#^2kgs-12-9|≈ 2 Kings 12:9]] · [[2 Kings 12#^2kgs-12-13|≈ 2 Kings 12:13]]
@@ -68,7 +73,7 @@ cssclasses:
 > [[2 Kings 22#^2kgs-22-12|≈ 2 Kings 22:12]]
 
 ![[2 Chronicles 34#^2chr-34-21]]
-> [[2 Kings 22#^2kgs-22-13|≈ 2 Kings 22:13]]
+> [[Deuteronomy 6#^deut-6-6|Deut. 6:6 (6–8)]] · [[1 Nephi 15#^1ne-15-23|1 Ne. 15:24 (23–24)]] · [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]] · [[2 Kings 22#^2kgs-22-13|≈ 2 Kings 22:13]]
 
 ![[2 Chronicles 34#^2chr-34-22]]
 > [[2 Kings 22#^2kgs-22-14|≈ 2 Kings 22:14]]
@@ -77,7 +82,7 @@ cssclasses:
 > [[2 Kings 22#^2kgs-22-15|≈ 2 Kings 22:15]]
 
 ![[2 Chronicles 34#^2chr-34-24]]
-> [[2 Kings 22#^2kgs-22-16|≈ 2 Kings 22:16]] · [[Jeremiah 6#^jer-6-21|≈ Jeremiah 6:21]] · [[Jeremiah 6#^jer-6-19|≈ Jeremiah 6:19]] · [[Jeremiah 11#^jer-11-11|≈ Jeremiah 11:11]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]]
+> [[2 Kings 22#^2kgs-22-8|2 Kgs. 22:16 (8–20)]] · [[2 Kings 22#^2kgs-22-16|≈ 2 Kings 22:16]] · [[Jeremiah 6#^jer-6-21|≈ Jeremiah 6:21]] · [[Jeremiah 6#^jer-6-19|≈ Jeremiah 6:19]] · [[Jeremiah 11#^jer-11-11|≈ Jeremiah 11:11]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]]
 
 ![[2 Chronicles 34#^2chr-34-25]]
 > [[2 Kings 22#^2kgs-22-17|≈ 2 Kings 22:17]] · [[Jeremiah 19#^jer-19-4|≈ Jeremiah 19:4]] · [[Jeremiah 1#^jer-1-16|≈ Jeremiah 1:16]]
@@ -94,7 +99,7 @@ cssclasses:
 ![[2 Chronicles 34#^2chr-34-29]]
 
 ![[2 Chronicles 34#^2chr-34-30]]
-> [[2 Kings 23#^2kgs-23-2|≈ 2 Kings 23:2]] · [[2 Kings 22#^2kgs-22-11|≈ 2 Kings 22:11]] · [[2 Kings 12#^2kgs-12-10|≈ 2 Kings 12:10]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 18#^2kgs-18-15|≈ 2 Kings 18:15]] · [[Jeremiah 32#^jer-32-32|≈ Jeremiah 32:32]]
+> [[Mosiah 2#^mosiah-2-1|Mosiah 2:1 (1–41)]] · [[2 Kings 23#^2kgs-23-2|≈ 2 Kings 23:2]] · [[2 Kings 22#^2kgs-22-11|≈ 2 Kings 22:11]] · [[2 Kings 12#^2kgs-12-10|≈ 2 Kings 12:10]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 18#^2kgs-18-15|≈ 2 Kings 18:15]] · [[Jeremiah 32#^jer-32-32|≈ Jeremiah 32:32]]
 
 ![[2 Chronicles 34#^2chr-34-31]]
 > [[2 Kings 23#^2kgs-23-3|≈ 2 Kings 23:3]] · [[2 Kings 23#^2kgs-23-25|≈ 2 Kings 23:25]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]]

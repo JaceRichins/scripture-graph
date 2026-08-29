@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 28
 slug: deut-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 28]] · My notes: [[Deuteronomy 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> If the children of Israel are obedient, they will be blessed temporally and spiritually—If they are disobedient, they will be cursed, smitten, and destroyed; diseases, plagues, and oppression will come upon them; they will serve false gods and become a byword among all nations; fierce nations will enslave them; and they will eat their own children and be scattered among all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 26]] — 4 footnote cross-references (from [[Deuteronomy 28#^deut-28-12|Deuteronomy 28:12]])
+- [[Deuteronomy 11]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-10|Deuteronomy 28:10]])
+- [[Haggai 1]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]])
+- [[Exodus 9]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-27|Deuteronomy 28:27]])
+- [[Hosea 8]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-49|Deuteronomy 28:49]])
+- [[Lamentations 4]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-50|Deuteronomy 28:50]])
 - [[Deuteronomy 30]] — 14 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]]
 - [[Deuteronomy 7]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
 - [[Deuteronomy 15]] — 7 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 15#^deut-15-5|Deuteronomy 15:5]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 16
 slug: ezek-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 16]] · My notes: [[Ezekiel 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jerusalem has become as a harlot, reveling in her idols and worshipping false gods—She has partaken of all the sins of Egypt and the nations round about, and she is rejected—Yet in the last days, the Lord will again establish His covenant with her.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 23]] — 6 footnote cross-references (from [[Ezekiel 16#^ezek-16-28|Ezekiel 16:28]])
+- [[Hosea 2]] — 4 footnote cross-references (from [[Ezekiel 16#^ezek-16-4|Ezekiel 16:4]])
+- [[Ezekiel 36]] — 3 footnote cross-references (from [[Ezekiel 16#^ezek-16-36|Ezekiel 16:36]])
+- [[Jeremiah 3]] — 2 footnote cross-references (from [[Ezekiel 16#^ezek-16-46|Ezekiel 16:46]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Ezekiel 16#^ezek-16-2|Ezekiel 16:2]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Ezekiel 16#^ezek-16-2|Ezekiel 16:2]])
 - [[Ezekiel 35]] — 5 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 34
 slug: alma-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 34]] · My notes: [[Alma 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amulek testifies that the word is in Christ unto salvation—Unless an atonement is made, all mankind must perish—The whole law of Moses points toward the sacrifice of the Son of God—The eternal plan of redemption is based on faith and repentance—Pray for temporal and spiritual blessings—This life is the time for men to prepare to meet God—Work out your salvation with fear before God. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 33]] — 7 footnote cross-references (from [[Alma 34#^alma-34-4|Alma 34:4]])
+- [[Alma 30]] — 3 footnote cross-references (from [[Alma 34#^alma-34-5|Alma 34:5]])
+- [[2 Nephi 9]] — 3 footnote cross-references (from [[Alma 34#^alma-34-9|Alma 34:9]])
+- [[Alma 12]] — 3 footnote cross-references (from [[Alma 34#^alma-34-9|Alma 34:9]])
+- [[Alma 31]] — 2 footnote cross-references (from [[Alma 34#^alma-34-1|Alma 34:1]])
+- [[Alma 32]] — 2 footnote cross-references (from [[Alma 34#^alma-34-3|Alma 34:3]])
 - [[Alma 5]] — 5 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Alma 5#^alma-5-32|Alma 5:32]]
 - [[Alma 13]] — 3 parallel verses, e.g. [[Alma 34#^alma-34-36|Alma 34:36]] ↔ [[Alma 13#^alma-13-11|Alma 13:11]]
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]

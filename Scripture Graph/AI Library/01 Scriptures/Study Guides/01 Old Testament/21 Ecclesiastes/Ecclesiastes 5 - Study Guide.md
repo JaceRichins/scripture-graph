@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 5
 slug: eccl-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 5]] · My notes: [[Ecclesiastes 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-2|Ecclesiastes 5:2]])
+- [[Ephesians 5]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-2|Ecclesiastes 5:2]])
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-2|Ecclesiastes 5:2]])
+- [[Leviticus 22]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-4|Ecclesiastes 5:4]])
+- [[Ecclesiastes 3]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-7|Ecclesiastes 5:7]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-15|Ecclesiastes 5:15]])
 - [[Ecclesiastes 8]] — 1 parallel verse, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[Ecclesiastes 8#^eccl-8-15|Ecclesiastes 8:15]]
 <!-- SG:END related-scriptures -->
 

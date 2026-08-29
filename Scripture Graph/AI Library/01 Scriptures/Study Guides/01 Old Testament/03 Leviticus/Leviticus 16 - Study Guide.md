@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 16
 slug: lev-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 16]] · My notes: [[Leviticus 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How and when Aaron must enter the holy place is explained—Sacrifices are offered to reconcile Israel to God—The scapegoat carries away the sins of the people—The sins of all Israel are forgiven on the Day of Atonement.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 10]] — 2 footnote cross-references (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
+- [[D&C 109]] — 2 footnote cross-references (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
+- [[Leviticus 4]] — 2 footnote cross-references (from [[Leviticus 16#^lev-16-14|Leviticus 16:14]])
+- [[Leviticus 10]] — 1 footnote cross-reference (from [[Leviticus 16#^lev-16-1|Leviticus 16:1]])
+- [[Hebrews 9]] — 1 footnote cross-reference (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 4]] — 7 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
 - [[Leviticus 9]] — 4 parallel verses, e.g. [[Leviticus 16#^lev-16-3|Leviticus 16:3]] ↔ [[Leviticus 9#^lev-9-2|Leviticus 9:2]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 44
 slug: gen-44
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 44]] · My notes: [[Genesis 44 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joseph arranges to stop the return of his brothers to Canaan—Judah offers himself in place of Benjamin for their father’s sake.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 42]] — 5 footnote cross-references (from [[Genesis 44#^gen-44-14|Genesis 44:14]])
+- [[Genesis 43]] — 5 footnote cross-references (from [[Genesis 44#^gen-44-14|Genesis 44:14]])
+- [[Alma 46]] — 2 footnote cross-references (from [[Genesis 44#^gen-44-13|Genesis 44:13]])
+- [[Genesis 37]] — 2 footnote cross-references (from [[Genesis 44#^gen-44-14|Genesis 44:14]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Genesis 44#^gen-44-13|Genesis 44:13]])
+- [[Ecclesiastes 3]] — 1 footnote cross-reference (from [[Genesis 44#^gen-44-13|Genesis 44:13]])
 - [[Genesis 42]] — 1 parallel verse, e.g. [[Genesis 44#^gen-44-29|Genesis 44:29]] ↔ [[Genesis 42#^gen-42-38|Genesis 42:38]]
 <!-- SG:END related-scriptures -->
 

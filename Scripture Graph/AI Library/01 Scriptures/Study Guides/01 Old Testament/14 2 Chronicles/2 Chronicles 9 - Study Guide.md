@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 9
 slug: 2chr-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 9]] · My notes: [[2 Chronicles 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The queen of Sheba visits Solomon—He excels in wisdom, wealth, and magnificence—After reigning forty years, Solomon dies, and Rehoboam becomes king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 4]] — 3 footnote cross-references (from [[2 Chronicles 9#^2chr-9-23|2 Chronicles 9:23]])
+- [[Deuteronomy 17]] — 1 footnote cross-reference (from [[2 Chronicles 9#^2chr-9-28|2 Chronicles 9:28]])
 - [[1 Kings 10]] — 25 parallel verses, e.g. [[2 Chronicles 9#^2chr-9-4|2 Chronicles 9:4]] ↔ [[1 Kings 10#^1kgs-10-5|1 Kings 10:5]]
 - [[1 Kings 11]] — 3 parallel verses, e.g. [[2 Chronicles 9#^2chr-9-31|2 Chronicles 9:31]] ↔ [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]]
 - [[2 Chronicles 1]] — 2 parallel verses, e.g. [[2 Chronicles 9#^2chr-9-27|2 Chronicles 9:27]] ↔ [[2 Chronicles 1#^2chr-1-15|2 Chronicles 1:15]]

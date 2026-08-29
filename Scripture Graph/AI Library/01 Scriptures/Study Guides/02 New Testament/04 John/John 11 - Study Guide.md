@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 11]] · My notes: [[John 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus testifies that He is the Resurrection and the Life—Mary and Martha testify of Him—He raises Lazarus from the dead—Caiaphas speaks prophetically of the death of Jesus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 26]] — 2 footnote cross-references (from [[John 11#^john-11-2|John 11:2]])
+- [[D&C 42]] — 2 footnote cross-references (from [[John 11#^john-11-26|John 11:26]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[John 11#^john-11-1|John 11:1]])
+- [[John 12]] — 1 footnote cross-reference (from [[John 11#^john-11-1|John 11:1]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[John 11#^john-11-4|John 11:4]])
+- [[Ether 12]] — 1 footnote cross-reference (from [[John 11#^john-11-4|John 11:4]])
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 11#^john-11-41|John 11:41]] ↔ [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]]
 <!-- SG:END related-scriptures -->
 

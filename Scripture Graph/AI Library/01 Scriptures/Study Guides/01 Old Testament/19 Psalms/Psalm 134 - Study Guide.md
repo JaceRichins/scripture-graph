@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 134
 slug: ps-134
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 134]] · My notes: [[Psalm 134 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bless the Lord, and He will bless you.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[Psalm 134#^ps-134-1|Psalm 134:1]])
+- [[Psalm 63]] — 1 footnote cross-reference (from [[Psalm 134#^ps-134-2|Psalm 134:2]])
+- [[Psalm 128]] — 1 footnote cross-reference (from [[Psalm 134#^ps-134-3|Psalm 134:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

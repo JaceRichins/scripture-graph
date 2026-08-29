@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 7
 slug: 1ne-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 7]] · My notes: [[1 Nephi 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi’s sons return to Jerusalem and invite Ishmael and his household to join them in their journey—Laman and others rebel—Nephi exhorts his brethren to have faith in the Lord—They bind him with cords and plan his destruction—He is freed by the power of faith—His brethren ask forgiveness—Lehi and his company offer sacrifice and burnt offerings. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 16]] — 4 footnote cross-references (from [[1 Nephi 7#^1ne-7-1|1 Nephi 7:1]])
+- [[1 Nephi 2]] — 4 footnote cross-references (from [[1 Nephi 7#^1ne-7-12|1 Nephi 7:12]])
+- [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 7#^1ne-7-1|1 Nephi 7:1]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[1 Nephi 7#^1ne-7-6|1 Nephi 7:6]])
+- [[1 Nephi 4]] — 2 footnote cross-references (from [[1 Nephi 7#^1ne-7-10|1 Nephi 7:10]])
+- [[1 Nephi 18]] — 2 footnote cross-references (from [[1 Nephi 7#^1ne-7-16|1 Nephi 7:16]])
 - [[3 Nephi 7]] — 3 parallel verses, e.g. [[1 Nephi 7#^1ne-7-8|1 Nephi 7:8]] ↔ [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]]
 - [[1 Nephi 5]] — 3 parallel verses, e.g. [[1 Nephi 7#^1ne-7-11|1 Nephi 7:11]] ↔ [[1 Nephi 5#^1ne-5-5|1 Nephi 5:5]]
 - [[1 Nephi 2]] — 1 parallel verse, e.g. [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]] ↔ [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]]

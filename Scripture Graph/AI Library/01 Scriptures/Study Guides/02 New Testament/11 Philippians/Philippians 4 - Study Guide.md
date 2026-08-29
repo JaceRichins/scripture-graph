@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 4
 slug: philip-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Philippians 4]] · My notes: [[Philippians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Stand fast in the Lord—We believe in being honest, true, and chaste.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Philippians 1]] — 2 footnote cross-references (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
+- [[Philippians 2]] — 2 footnote cross-references (from [[Philippians 4#^philip-4-10|Philippians 4:10]])
+- [[1 Corinthians 10]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
+- [[Galatians 5]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
+- [[D&C 87]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]

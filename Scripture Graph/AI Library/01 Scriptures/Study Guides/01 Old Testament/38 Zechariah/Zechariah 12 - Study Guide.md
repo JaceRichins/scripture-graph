@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 12
 slug: zech-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 12]] · My notes: [[Zechariah 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the final great war, all nations will be engaged at Jerusalem, but the Lord will defend His people—Then the Jews will look upon the Lord, whom they crucified, and there will be great mourning.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 39]] — 2 footnote cross-references (from [[Zechariah 12#^zech-12-9|Zechariah 12:9]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-2|Zechariah 12:2]])
+- [[Micah 4]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-3|Zechariah 12:3]])
+- [[2 Nephi 23]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-3|Zechariah 12:3]])
+- [[Obadiah 1]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-6|Zechariah 12:6]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-6|Zechariah 12:6]])
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]

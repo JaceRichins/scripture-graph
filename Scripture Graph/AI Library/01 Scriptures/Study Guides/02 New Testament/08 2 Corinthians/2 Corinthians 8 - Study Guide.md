@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 8
 slug: 2cor-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 8]] · My notes: [[2 Corinthians 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> True Saints impart of their substance to the poor—Christ, out of His poverty, brought eternal riches.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 12]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-2|2 Corinthians 8:2]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-4|2 Corinthians 8:4]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-8|2 Corinthians 8:8]])
+- [[Philippians 2]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]])
+- [[2 Corinthians 6]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-12|2 Corinthians 8:12]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Exodus 16]] — 1 parallel verse, e.g. [[2 Corinthians 8#^2cor-8-15|2 Corinthians 8:15]] ↔ [[Exodus 16#^ex-16-18|Exodus 16:18]]
 <!-- SG:END related-scriptures -->

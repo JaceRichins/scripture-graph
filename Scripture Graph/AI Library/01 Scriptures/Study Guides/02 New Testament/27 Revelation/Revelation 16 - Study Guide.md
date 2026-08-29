@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 16
 slug: rev-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 16]] · My notes: [[Revelation 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God pours out plagues upon the wicked—The nations assemble for Armageddon—Christ comes, islands flee, and mountains cease.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 19]] — 2 parallel verses, e.g. [[Revelation 16#^rev-16-14|Revelation 16:14]] ↔ [[Revelation 19#^rev-19-19|Revelation 19:19]]
-- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 16#^rev-16-1|Revelation 16:1]] ↔ [[Revelation 21#^rev-21-3|Revelation 21:3]]
-- [[2 Chronicles 21]] — 2 parallel verses, e.g. [[Revelation 16#^rev-16-12|Revelation 16:12]] ↔ [[2 Chronicles 21#^2chr-21-6|2 Chronicles 21:6]]
+- [[Luke 21]] — 2 footnote cross-references (from [[Revelation 16#^rev-16-15|Revelation 16:15]])
+- [[Ezekiel 38]] — 2 footnote cross-references (from [[Revelation 16#^rev-16-16|Revelation 16:16]])
+- [[Revelation 6]] — 2 footnote cross-references (from [[Revelation 16#^rev-16-18|Revelation 16:18]])
+- [[Revelation 11]] — 2 footnote cross-references (from [[Revelation 16#^rev-16-18|Revelation 16:18]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[Revelation 16#^rev-16-14|Revelation 16:14]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Revelation 16#^rev-16-14|Revelation 16:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

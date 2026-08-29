@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 16
 slug: deut-16
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -69,10 +69,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Passover]]
 - [[Exodus and Deliverance]]
 - [[Law of Moses]]
 - [[Government and Laws]]
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

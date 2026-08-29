@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 11]] · My notes: [[Hebrews 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> By faith we understand the word and work of God—The faith of the ancients was centered in Christ—By faith, men subdued kingdoms, wrought righteousness, and worked miracles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -50,8 +51,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Kings 4]] — 1 parallel verse, e.g. [[Hebrews 11#^heb-11-12|Hebrews 11:12]] ↔ [[1 Kings 4#^1kgs-4-20|1 Kings 4:20]]
-- [[D&C 45]] — 1 parallel verse, e.g. [[Hebrews 11#^heb-11-13|Hebrews 11:13]] ↔ [[D&C 45#^dc-45-13|D&C 45:13]]
+- [[Exodus 2]] — 3 footnote cross-references (from [[Hebrews 11#^heb-11-23|Hebrews 11:23]])
+- [[James 2]] — 2 footnote cross-references (from [[Hebrews 11#^heb-11-17|Hebrews 11:17]])
+- [[Exodus 12]] — 2 footnote cross-references (from [[Hebrews 11#^heb-11-28|Hebrews 11:28]])
+- [[Genesis 4]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-4|Hebrews 11:4]])
+- [[Jude 1]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-5|Hebrews 11:5]])
+- [[Hebrews 7]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-6|Hebrews 11:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

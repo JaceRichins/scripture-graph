@@ -6,7 +6,7 @@ volume: Old Testament
 book: Obadiah
 chapter: 1
 slug: obad-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Obadiah 1]] · My notes: [[Obadiah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Obadiah prophesies the downfall of Edom—Saviors will stand upon Mount Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 49]] — 5 footnote cross-references (from [[Obadiah 1#^obad-1-1|Obadiah 1:1]])
+- [[2 Nephi 20]] — 2 footnote cross-references (from [[Obadiah 1#^obad-1-3|Obadiah 1:3]])
+- [[D&C 64]] — 2 footnote cross-references (from [[Obadiah 1#^obad-1-9|Obadiah 1:9]])
+- [[Ezekiel 35]] — 2 footnote cross-references (from [[Obadiah 1#^obad-1-11|Obadiah 1:11]])
+- [[Amos 9]] — 2 footnote cross-references (from [[Obadiah 1#^obad-1-17|Obadiah 1:17]])
+- [[Genesis 36]] — 1 footnote cross-reference (from [[Obadiah 1#^obad-1-1|Obadiah 1:1]])
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Obadiah 1#^obad-1-1|Obadiah 1:1]] ↔ [[Jeremiah 49#^jer-49-14|Jeremiah 49:14]]
 - [[Zephaniah 1]] — 2 parallel verses, e.g. [[Obadiah 1#^obad-1-15|Obadiah 1:15]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 <!-- SG:END related-scriptures -->

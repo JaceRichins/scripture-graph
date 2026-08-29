@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 90
 slug: ps-90
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 90]] · My notes: [[Psalm 90 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A prayer of Moses, the man of God—God is from everlasting to everlasting—Man’s days last but seventy years—Moses implores the Lord to give mercy and blessings to His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 38]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-2|Psalm 90:2]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-5|Psalm 90:5]])
+- [[Psalm 130]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-8|Psalm 90:8]])
+- [[Jeremiah 16]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-8|Psalm 90:8]])
+- [[Psalm 19]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-8|Psalm 90:8]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-16|Psalm 90:16]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

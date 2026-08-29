@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 8
 slug: ether-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 8]] · My notes: [[Ether 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> There is strife and contention over the kingdom—Akish forms an oath-bound secret combination to slay the king—Secret combinations are of the devil and result in the destruction of nations—Modern Gentiles are warned against the secret combination that will seek to overthrow the freedom of all lands, nations, and countries.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 6]] — 3 footnote cross-references (from [[Ether 8#^ether-8-9|Ether 8:9]])
+- [[Moses 5]] — 3 footnote cross-references (from [[Ether 8#^ether-8-9|Ether 8:9]])
+- [[Helaman 1]] — 2 footnote cross-references (from [[Ether 8#^ether-8-2|Ether 8:2]])
+- [[Mormon 2]] — 2 footnote cross-references (from [[Ether 8#^ether-8-7|Ether 8:7]])
+- [[3 Nephi 3]] — 2 footnote cross-references (from [[Ether 8#^ether-8-9|Ether 8:9]])
+- [[Moses 4]] — 2 footnote cross-references (from [[Ether 8#^ether-8-16|Ether 8:16]])
 - [[1 Nephi 12]] — 2 parallel verses, e.g. [[Ether 8#^ether-8-26|Ether 8:26]] ↔ [[1 Nephi 12#^1ne-12-17|1 Nephi 12:17]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[Ether 8#^ether-8-26|Ether 8:26]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
 - [[Helaman 13]] — 1 parallel verse, e.g. [[Ether 8#^ether-8-25|Ether 8:25]] ↔ [[Helaman 13#^hel-13-33|Helaman 13:33]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 43
 slug: ezek-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 43]] · My notes: [[Ezekiel 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The glory of God fills the temple—His throne is there, and He promises to dwell in the midst of Israel forever—Ezekiel sees the altar and the ordinances of the altar.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 40]] — 5 footnote cross-references (from [[Ezekiel 43#^ezek-43-1|Ezekiel 43:1]])
+- [[Ezekiel 44]] — 4 footnote cross-references (from [[Ezekiel 43#^ezek-43-1|Ezekiel 43:1]])
+- [[Exodus 29]] — 3 footnote cross-references (from [[Ezekiel 43#^ezek-43-19|Ezekiel 43:19]])
+- [[Ezekiel 1]] — 2 footnote cross-references (from [[Ezekiel 43#^ezek-43-2|Ezekiel 43:2]])
+- [[Leviticus 8]] — 2 footnote cross-references (from [[Ezekiel 43#^ezek-43-19|Ezekiel 43:19]])
+- [[Ezekiel 42]] — 1 footnote cross-reference (from [[Ezekiel 43#^ezek-43-1|Ezekiel 43:1]])
 - [[Ezekiel 3]] — 8 parallel verses, e.g. [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]] ↔ [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]]
 - [[Zechariah 2]] — 4 parallel verses, e.g. [[Ezekiel 43#^ezek-43-9|Ezekiel 43:9]] ↔ [[Zechariah 2#^zech-2-10|Zechariah 2:10]]
 - [[Ezekiel 2]] — 4 parallel verses, e.g. [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]] ↔ [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]]

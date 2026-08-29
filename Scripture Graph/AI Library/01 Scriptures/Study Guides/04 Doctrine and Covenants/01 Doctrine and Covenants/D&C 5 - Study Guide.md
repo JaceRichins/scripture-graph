@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 5
 slug: dc-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 5]] · My notes: [[D&C 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–10, This generation will receive the Lord’s word through Joseph Smith; 11–18, Three witnesses will testify of the Book of Mormon; 19–20, The word of the Lord will be verified as in previous times; 21–35, Martin Harris may repent and be one of the witnesses.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 20]] — 4 footnote cross-references (from [[D&C 5#^dc-5-6|D&C 5:6]])
+- [[D&C 17]] — 4 footnote cross-references (from [[D&C 5#^dc-5-11|D&C 5:11]])
+- [[2 Nephi 27]] — 3 footnote cross-references (from [[D&C 5#^dc-5-3|D&C 5:3]])
+- [[Helaman 7]] — 3 footnote cross-references (from [[D&C 5#^dc-5-5|D&C 5:5]])
+- [[Ether 5]] — 3 footnote cross-references (from [[D&C 5#^dc-5-11|D&C 5:11]])
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[D&C 5#^dc-5-1|D&C 5:1]])
 - [[Helaman 9]] — 2 parallel verses, e.g. [[D&C 5#^dc-5-25|D&C 5:25]] ↔ [[Helaman 9#^hel-9-36|Helaman 9:36]]
 - [[Ether 5]] — 1 parallel verse, e.g. [[D&C 5#^dc-5-12|D&C 5:12]] ↔ [[Ether 5#^ether-5-3|Ether 5:3]]
 - [[Song of Solomon 6]] — 1 parallel verse, e.g. [[D&C 5#^dc-5-14|D&C 5:14]] ↔ [[Song of Solomon 6#^song-6-10|Song of Solomon 6:10]]

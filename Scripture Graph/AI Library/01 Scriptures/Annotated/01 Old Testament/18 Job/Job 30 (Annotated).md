@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 30|Plain text]] · [[Job 30 - Study Guide|Study guide]] · [[Job 30 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Job is derided by the children of vile and base men—In his afflicted state, he cries to the Lord—Job says that he wept for those in trouble.
+
 ![[Job 30#^job-30-1]]
 
 ![[Job 30#^job-30-2]]
@@ -30,6 +33,7 @@ cssclasses:
 ![[Job 30#^job-30-8]]
 
 ![[Job 30#^job-30-9]]
+> [[Psalm 69#^ps-69-12|Ps. 69:12]]
 
 ![[Job 30#^job-30-10]]
 
@@ -64,6 +68,7 @@ cssclasses:
 ![[Job 30#^job-30-25]]
 
 ![[Job 30#^job-30-26]]
+> [[Jeremiah 8#^jer-8-15|Jer. 8:15]]
 
 ![[Job 30#^job-30-27]]
 

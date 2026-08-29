@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 9
 slug: gen-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 9]] · My notes: [[Genesis 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Noah and his sons are commanded to multiply and fill the earth—They are given dominion over all forms of life—The death penalty is decreed for murder—God will not again destroy the earth by a flood—Canaan is cursed; Shem and Japheth are blessed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 7]] — 3 footnote cross-references (from [[Genesis 9#^gen-9-11|Genesis 9:11]])
+- [[Genesis 8]] — 2 footnote cross-references (from [[Genesis 9#^gen-9-1|Genesis 9:1]])
+- [[Moses 5]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-1|Genesis 9:1]])
+- [[Genesis 1]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-2|Genesis 9:2]])
+- [[Leviticus 17]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-4|Genesis 9:4]])
+- [[Psalm 9]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-5|Genesis 9:5]])
 - [[Moses 2]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
 - [[Genesis 1]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Genesis 1#^gen-1-28|Genesis 1:28]]
 - [[Abraham 4]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Abraham 4#^abr-4-28|Abraham 4:28]]
@@ -44,6 +51,7 @@ _Not yet developed._
 - [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[Genesis 24#^gen-24-27|Genesis 24:27]]
 - [[1 Kings 8]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[1 Kings 8#^1kgs-8-15|1 Kings 8:15]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[2 Chronicles 6#^2chr-6-4|2 Chronicles 6:4]]
+- [[Leviticus 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

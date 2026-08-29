@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 12
 slug: 1sam-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 12]] · My notes: [[1 Samuel 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel testifies of his own just dealings in Israel—He reproves the people for their ingratitude—He exhorts them to keep the commandments lest the Lord consume them and their king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 2]] — 2 footnote cross-references (from [[1 Samuel 12#^1sam-12-2|1 Samuel 12:2]])
+- [[Exodus 2]] — 1 footnote cross-reference (from [[1 Samuel 12#^1sam-12-8|1 Samuel 12:8]])
+- [[Judges 6]] — 1 footnote cross-reference (from [[1 Samuel 12#^1sam-12-11|1 Samuel 12:11]])
+- [[Judges 11]] — 1 footnote cross-reference (from [[1 Samuel 12#^1sam-12-11|1 Samuel 12:11]])
+- [[Hosea 13]] — 1 footnote cross-reference (from [[1 Samuel 12#^1sam-12-12|1 Samuel 12:12]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[1 Samuel 12#^1sam-12-12|1 Samuel 12:12]])
 - [[Judges 11]] — 4 parallel verses, e.g. [[1 Samuel 12#^1sam-12-12|1 Samuel 12:12]] ↔ [[Judges 11#^judg-11-12|Judges 11:12]]
 - [[1 Chronicles 19]] — 1 parallel verse, e.g. [[1 Samuel 12#^1sam-12-12|1 Samuel 12:12]] ↔ [[1 Chronicles 19#^1chr-19-1|1 Chronicles 19:1]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 28
 slug: 2chr-28
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ The chapter portrays Judah's collapse through Ahaz's sustained [[Apostasy]], but
 - [[Ezekiel 20]] — 1 footnote cross-reference (from [[2 Chronicles 28#^2chr-28-3|2 Chronicles 28:3]])
 - [[Isaiah 7]] — 1 footnote cross-reference (from [[2 Chronicles 28#^2chr-28-5|2 Chronicles 28:5]])
 - [[2 Chronicles 33]] — 7 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-3|2 Chronicles 28:3]] ↔ [[2 Chronicles 33#^2chr-33-2|2 Chronicles 33:2]]
+- [[2 Kings 16]] — 5 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-4|2 Chronicles 28:4]] ↔ [[2 Kings 16#^2kgs-16-4|2 Kings 16:4]]
 - [[2 Kings 15]] — 9 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[2 Kings 15#^2kgs-15-33|2 Kings 15:33]]
 - [[2 Chronicles 36]] — 6 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[2 Chronicles 27]] — 5 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
@@ -64,12 +65,12 @@ The chapter portrays Judah's collapse through Ahaz's sustained [[Apostasy]], but
 - [[2 Chronicles 32]] — 2 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]] ↔ [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]]
 - [[2 Chronicles 21]] — 3 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

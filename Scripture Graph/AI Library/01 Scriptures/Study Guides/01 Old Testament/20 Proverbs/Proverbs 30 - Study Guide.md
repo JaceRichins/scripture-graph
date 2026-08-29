@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 30
 slug: prov-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 30]] · My notes: [[Proverbs 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Every word of God is pure—Give me neither poverty nor riches.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 9]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-3|Proverbs 30:3]])
+- [[Psalm 84]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-5|Proverbs 30:5]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-9|Proverbs 30:9]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
+- [[Psalm 95]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
+- [[Hebrews 3]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

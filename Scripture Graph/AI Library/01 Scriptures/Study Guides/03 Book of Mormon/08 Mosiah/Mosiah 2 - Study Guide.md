@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 2
 slug: mosiah-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 2]] · My notes: [[Mosiah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Benjamin addresses his people—He recounts the equity, fairness, and spirituality of his reign—He counsels them to serve their Heavenly King—Those who rebel against God will suffer anguish like unquenchable fire. About 124 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 1]] — 3 footnote cross-references (from [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]])
+- [[Omni 1]] — 3 footnote cross-references (from [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]])
+- [[Alma 5]] — 3 footnote cross-references (from [[Mosiah 2#^mosiah-2-32|Mosiah 2:32]])
+- [[Genesis 4]] — 2 footnote cross-references (from [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]])
+- [[1 Nephi 5]] — 2 footnote cross-references (from [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]])
+- [[Alma 30]] — 2 footnote cross-references (from [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]])
 - [[Mosiah 1]] — 3 parallel verses, e.g. [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
 - [[Alma 5]] — 4 parallel verses, e.g. [[Mosiah 2#^mosiah-2-9|Mosiah 2:9]] ↔ [[Alma 5#^alma-5-2|Alma 5:2]]
 - [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 2#^mosiah-2-7|Mosiah 2:7]] ↔ [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 22]] · My notes: [[Genesis 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abraham is commanded to sacrifice Isaac, his son—Both father and son yield to the will of God—Abraham’s seed will be as the stars and the sand in number—In his seed, all nations will be blessed—Rebekah is born to Bethuel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 24]] — 5 footnote cross-references (from [[Genesis 22#^gen-22-17|Genesis 22:17]])
+- [[D&C 132]] — 3 footnote cross-references (from [[Genesis 22#^gen-22-2|Genesis 22:2]])
+- [[James 2]] — 2 footnote cross-references (from [[Genesis 22#^gen-22-9|Genesis 22:9]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[Genesis 22#^gen-22-1|Genesis 22:1]])
+- [[John 3]] — 1 footnote cross-reference (from [[Genesis 22#^gen-22-2|Genesis 22:2]])
+- [[Jacob 4]] — 1 footnote cross-reference (from [[Genesis 22#^gen-22-2|Genesis 22:2]])
 - [[Genesis 26]] — 1 parallel verse, e.g. [[Genesis 22#^gen-22-18|Genesis 22:18]] ↔ [[Genesis 26#^gen-26-4|Genesis 26:4]]
 - [[Genesis 27]] — 1 parallel verse, e.g. [[Genesis 22#^gen-22-7|Genesis 22:7]] ↔ [[Genesis 27#^gen-27-18|Genesis 27:18]]
 - [[Genesis 28]] — 2 parallel verses, e.g. [[Genesis 22#^gen-22-18|Genesis 22:18]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]

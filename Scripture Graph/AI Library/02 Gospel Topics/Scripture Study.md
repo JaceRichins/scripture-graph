@@ -40,6 +40,10 @@ _Not yet developed._
 - [[2 Nephi 32]]
 - [[John 5]]
 - [[1 Nephi 19]]
+- [[3 Nephi 20]]
+- [[Joseph Smith—History 1]]
+- [[2 Chronicles 34]]
+- [[2 Kings 22]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

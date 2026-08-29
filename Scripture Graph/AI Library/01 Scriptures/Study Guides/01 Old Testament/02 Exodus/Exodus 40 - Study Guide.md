@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 40
 slug: ex-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -42,18 +42,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 30]] — 2 footnote cross-references (from [[Exodus 40#^ex-40-15|Exodus 40:15]])
+- [[Numbers 9]] — 2 footnote cross-references (from [[Exodus 40#^ex-40-37|Exodus 40:37]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Exodus 40#^ex-40-2|Exodus 40:2]])
+- [[Hebrews 8]] — 1 footnote cross-reference (from [[Exodus 40#^ex-40-2|Exodus 40:2]])
+- [[Exodus 26]] — 1 footnote cross-reference (from [[Exodus 40#^ex-40-4|Exodus 40:4]])
+- [[Leviticus 24]] — 1 footnote cross-reference (from [[Exodus 40#^ex-40-4|Exodus 40:4]])
 - [[Exodus 28]] — 8 parallel verses, e.g. [[Exodus 40#^ex-40-13|Exodus 40:13]] ↔ [[Exodus 28#^ex-28-3|Exodus 28:3]]
 - [[Exodus 39]] — 5 parallel verses, e.g. [[Exodus 40#^ex-40-2|Exodus 40:2]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
 - [[Exodus 30]] — 4 parallel verses, e.g. [[Exodus 40#^ex-40-15|Exodus 40:15]] ↔ [[Exodus 30#^ex-30-30|Exodus 30:30]]
+- [[Exodus 29]] — 4 parallel verses, e.g. [[Exodus 40#^ex-40-13|Exodus 40:13]] ↔ [[Exodus 29#^ex-29-1|Exodus 29:1]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[Exodus 40#^ex-40-36|Exodus 40:36]] ↔ [[Numbers 9#^num-9-17|Numbers 9:17]]
 - [[Numbers 1]] — 2 parallel verses, e.g. [[Exodus 40#^ex-40-16|Exodus 40:16]] ↔ [[Numbers 1#^num-1-54|Numbers 1:54]]
 - [[Numbers 29]] — 2 parallel verses, e.g. [[Exodus 40#^ex-40-16|Exodus 40:16]] ↔ [[Numbers 29#^num-29-40|Numbers 29:40]]
 - [[Numbers 3]] — 2 parallel verses, e.g. [[Exodus 40#^ex-40-25|Exodus 40:25]] ↔ [[Numbers 3#^num-3-51|Numbers 3:51]]
 - [[2 Chronicles 7]] — 2 parallel verses, e.g. [[Exodus 40#^ex-40-34|Exodus 40:34]] ↔ [[2 Chronicles 7#^2chr-7-1|2 Chronicles 7:1]]
 - [[Exodus 26]] — 1 parallel verse, e.g. [[Exodus 40#^ex-40-24|Exodus 40:24]] ↔ [[Exodus 26#^ex-26-35|Exodus 26:35]]
-- [[Numbers 9]] — 0 parallel verses
 - [[Exodus 39]] — 0 parallel verses
 - [[Leviticus 8]] — 0 parallel verses
-- [[Exodus 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

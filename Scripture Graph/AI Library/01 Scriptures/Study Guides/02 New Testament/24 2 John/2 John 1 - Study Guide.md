@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 John
 chapter: 1
 slug: 2jn-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 John 1]] · My notes: [[2 John 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John rejoices because the children of the elect lady are true and faithful.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 John 2]] — 1 footnote cross-reference (from [[2 John 1#^2jn-1-6|2 John 1:6]])
+- [[1 Corinthians 5]] — 1 footnote cross-reference (from [[2 John 1#^2jn-1-10|2 John 1:10]])
+- [[1 Timothy 5]] — 1 footnote cross-reference (from [[2 John 1#^2jn-1-11|2 John 1:11]])
 - [[1 John 4]] — 2 parallel verses, e.g. [[2 John 1#^2jn-1-7|2 John 1:7]] ↔ [[1 John 4#^1jn-4-3|1 John 4:3]]
 <!-- SG:END related-scriptures -->
 

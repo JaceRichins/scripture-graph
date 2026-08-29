@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 5
 slug: 1kgs-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 5]] · My notes: [[1 Kings 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Solomon solicits and gains Hiram’s help in getting timber to build the temple—The Israelites hew stones and cut timber for the temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 4]] — 3 footnote cross-references (from [[1 Kings 5#^1kgs-5-4|1 Kings 5:4]])
+- [[1 Kings 9]] — 3 footnote cross-references (from [[1 Kings 5#^1kgs-5-13|1 Kings 5:13]])
+- [[1 Chronicles 22]] — 2 footnote cross-references (from [[1 Kings 5#^1kgs-5-4|1 Kings 5:4]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]])
+- [[2 Nephi 19]] — 2 footnote cross-references (from [[1 Kings 5#^1kgs-5-6|1 Kings 5:6]])
+- [[1 Kings 6]] — 2 footnote cross-references (from [[1 Kings 5#^1kgs-5-8|1 Kings 5:8]])
 - [[1 Chronicles 22]] — 2 parallel verses, e.g. [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]] ↔ [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]]
 <!-- SG:END related-scriptures -->
 

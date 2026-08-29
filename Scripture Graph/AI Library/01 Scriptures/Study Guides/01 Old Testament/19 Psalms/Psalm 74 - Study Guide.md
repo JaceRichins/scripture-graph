@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 74
 slug: ps-74
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 74]] · My notes: [[Psalm 74 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> O God, remember Thy chosen congregation—The wicked destroy the sanctuary and burn the synagogues—O God, remember them for their deeds, and save Thy people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Lamentations 2]] — 2 footnote cross-references (from [[Psalm 74#^ps-74-9|Psalm 74:9]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Psalm 74#^ps-74-1|Psalm 74:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[Psalm 74#^ps-74-1|Psalm 74:1]])
+- [[Joseph Smith—Matthew 1]] — 1 footnote cross-reference (from [[Psalm 74#^ps-74-1|Psalm 74:1]])
+- [[Exodus 15]] — 1 footnote cross-reference (from [[Psalm 74#^ps-74-2|Psalm 74:2]])
+- [[Psalm 83]] — 1 footnote cross-reference (from [[Psalm 74#^ps-74-8|Psalm 74:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

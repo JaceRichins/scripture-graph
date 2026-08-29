@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 60
 slug: alma-60
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 60]] · My notes: [[Alma 60 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni complains to Pahoran of the government’s neglect of the armies—The Lord suffers the righteous to be slain—The Nephites must use all of their power and means to deliver themselves from their enemies—Moroni threatens to fight against the government unless help is supplied to his armies. About 62 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 61]] — 5 footnote cross-references (from [[Alma 60#^alma-60-3|Alma 60:3]])
+- [[Alma 59]] — 3 footnote cross-references (from [[Alma 60#^alma-60-1|Alma 60:1]])
+- [[Alma 51]] — 2 footnote cross-references (from [[Alma 60#^alma-60-16|Alma 60:16]])
+- [[Alma 62]] — 2 footnote cross-references (from [[Alma 60#^alma-60-16|Alma 60:16]])
+- [[Alma 50]] — 1 footnote cross-reference (from [[Alma 60#^alma-60-1|Alma 60:1]])
+- [[Alma 58]] — 1 footnote cross-reference (from [[Alma 60#^alma-60-9|Alma 60:9]])
 - [[Alma 2]] — 2 parallel verses, e.g. [[Alma 60#^alma-60-2|Alma 60:2]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
 - [[Alma 61]] — 2 parallel verses, e.g. [[Alma 60#^alma-60-16|Alma 60:16]] ↔ [[Alma 61#^alma-61-18|Alma 61:18]]
 - [[Alma 54]] — 2 parallel verses, e.g. [[Alma 60#^alma-60-1|Alma 60:1]] ↔ [[Alma 54#^alma-54-15|Alma 54:15]]

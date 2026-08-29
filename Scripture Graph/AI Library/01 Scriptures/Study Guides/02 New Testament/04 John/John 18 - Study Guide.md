@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 18
 slug: john-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 18]] · My notes: [[John 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is betrayed and arrested—He is examined and maltreated first before Annas, then before Caiaphas—Peter denies knowing Jesus—Jesus is arraigned before Pilate.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 19]] — 4 footnote cross-references (from [[John 18#^john-18-14|John 18:14]])
+- [[John 6]] — 2 footnote cross-references (from [[John 18#^john-18-9|John 18:9]])
+- [[Matthew 26]] — 2 footnote cross-references (from [[John 18#^john-18-10|John 18:10]])
+- [[3 Nephi 11]] — 2 footnote cross-references (from [[John 18#^john-18-11|John 18:11]])
+- [[John 17]] — 1 footnote cross-reference (from [[John 18#^john-18-9|John 18:9]])
+- [[Luke 3]] — 1 footnote cross-reference (from [[John 18#^john-18-13|John 18:13]])
 - [[Mark 15]] — 2 parallel verses, e.g. [[John 18#^john-18-39|John 18:39]] ↔ [[Mark 15#^mark-15-9|Mark 15:9]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[John 18#^john-18-33|John 18:33]] ↔ [[Mark 14#^mark-14-61|Mark 14:61]]
 <!-- SG:END related-scriptures -->

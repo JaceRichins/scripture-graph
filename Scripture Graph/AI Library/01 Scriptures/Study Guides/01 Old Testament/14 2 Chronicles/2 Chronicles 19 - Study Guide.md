@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 19
 slug: 2chr-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 19]] · My notes: [[2 Chronicles 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jehoshaphat is rebuked for helping ungodly Ahab—He helps the people return to the Lord, sets up judges, and administers justice.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,14 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-8|2 Chronicles 19:8]] ↔ [[2 Chronicles 23#^2chr-23-2|2 Chronicles 23:2]]
-- [[1 Chronicles 29]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-6|2 Chronicles 19:6]] ↔ [[1 Chronicles 29#^1chr-29-1|1 Chronicles 29:1]]
-- [[2 Chronicles 24]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-4|2 Chronicles 19:4]] ↔ [[2 Chronicles 24#^2chr-24-18|2 Chronicles 24:18]]
-- [[2 Chronicles 30]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-4|2 Chronicles 19:4]] ↔ [[2 Chronicles 30#^2chr-30-7|2 Chronicles 30:7]]
-- [[Ezra 4]] — 1 parallel verse, e.g. [[2 Chronicles 19#^2chr-19-8|2 Chronicles 19:8]] ↔ [[Ezra 4#^ezra-4-3|Ezra 4:3]]
-- [[Nehemiah 7]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-8|2 Chronicles 19:8]] ↔ [[Nehemiah 7#^neh-7-70|Nehemiah 7:70]]
-- [[1 Chronicles 24]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-8|2 Chronicles 19:8]] ↔ [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]]
-- [[1 Kings 22]] — 2 parallel verses, e.g. [[2 Chronicles 19#^2chr-19-1|2 Chronicles 19:1]] ↔ [[1 Kings 22#^1kgs-22-10|1 Kings 22:10]]
+- [[Exodus 18]] — 3 footnote cross-references (from [[2 Chronicles 19#^2chr-19-5|2 Chronicles 19:5]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[2 Chronicles 19#^2chr-19-7|2 Chronicles 19:7]])
+- [[D&C 107]] — 1 footnote cross-reference (from [[2 Chronicles 19#^2chr-19-11|2 Chronicles 19:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

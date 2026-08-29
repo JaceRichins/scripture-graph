@@ -13,6 +13,9 @@ cssclasses:
 
 [[Zechariah 6|Plain text]] · [[Zechariah 6 - Study Guide|Study guide]] · [[Zechariah 6 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Zechariah crowns Joshua, the high priest, in similitude of Christ, the Branch, who will come—Christ will be a priest upon His throne forever.
+
 ![[Zechariah 6#^zech-6-1]]
 > [[Zechariah 5#^zech-5-1|≈ Zechariah 5:1]] · [[Zechariah 5#^zech-5-9|≈ Zechariah 5:9]]
 
@@ -24,6 +27,7 @@ cssclasses:
 > [[Zechariah 4#^zech-4-4|≈ Zechariah 4:4]] · [[Zechariah 1#^zech-1-19|≈ Zechariah 1:19]]
 
 ![[Zechariah 6#^zech-6-5]]
+> [[Hebrews 1#^heb-1-7|Heb. 1:14 (7, 14)]]
 
 ![[Zechariah 6#^zech-6-6]]
 
@@ -47,4 +51,4 @@ cssclasses:
 ![[Zechariah 6#^zech-6-14]]
 
 ![[Zechariah 6#^zech-6-15]]
-> [[Jeremiah 42#^jer-42-21|≈ Jeremiah 42:21]] · [[Jeremiah 42#^jer-42-13|≈ Jeremiah 42:13]] · [[Zechariah 4#^zech-4-9|≈ Zechariah 4:9]] · [[Zechariah 2#^zech-2-9|≈ Zechariah 2:9]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]]
+> [[Isaiah 60#^isa-60-10|Isa. 60:10]] · [[Jeremiah 42#^jer-42-21|≈ Jeremiah 42:21]] · [[Jeremiah 42#^jer-42-13|≈ Jeremiah 42:13]] · [[Zechariah 4#^zech-4-9|≈ Zechariah 4:9]] · [[Zechariah 2#^zech-2-9|≈ Zechariah 2:9]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]]

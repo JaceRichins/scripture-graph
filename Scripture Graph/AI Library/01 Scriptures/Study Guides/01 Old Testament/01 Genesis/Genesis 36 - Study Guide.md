@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 36
 slug: gen-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 36]] · My notes: [[Genesis 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The descendants of Esau, who is Edom, are listed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 1]] — 3 footnote cross-references (from [[Genesis 36#^gen-36-9|Genesis 36:9]])
+- [[Genesis 32]] — 2 footnote cross-references (from [[Genesis 36#^gen-36-1|Genesis 36:1]])
+- [[Jeremiah 49]] — 2 footnote cross-references (from [[Genesis 36#^gen-36-1|Genesis 36:1]])
+- [[Genesis 25]] — 1 footnote cross-reference (from [[Genesis 36#^gen-36-1|Genesis 36:1]])
+- [[Obadiah 1]] — 1 footnote cross-reference (from [[Genesis 36#^gen-36-1|Genesis 36:1]])
+- [[Genesis 28]] — 1 footnote cross-reference (from [[Genesis 36#^gen-36-3|Genesis 36:3]])
 - [[1 Chronicles 1]] — 15 parallel verses, e.g. [[Genesis 36#^gen-36-39|Genesis 36:39]] ↔ [[1 Chronicles 1#^1chr-1-50|1 Chronicles 1:50]]
 - [[Numbers 3]] — 2 parallel verses, e.g. [[Genesis 36#^gen-36-40|Genesis 36:40]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
 <!-- SG:END related-scriptures -->

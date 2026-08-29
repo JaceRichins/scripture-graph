@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 7
 slug: deut-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 7]] · My notes: [[Deuteronomy 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is to destroy the seven nations of Canaan—Marriages with them are forbidden lest apostasy result—Israel has a mission as a holy and chosen people—The Lord shows mercy unto those who love Him and keep His commandments—He promises to remove sickness from the children of Israel if they obey.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 23]] — 2 footnote cross-references (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
+- [[Leviticus 20]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]])
+- [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
+- [[Joshua 6]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
+- [[Joshua 9]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
 - [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]] ↔ [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]]
 - [[Deuteronomy 14]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-6|Deuteronomy 7:6]] ↔ [[Deuteronomy 14#^deut-14-2|Deuteronomy 14:2]]
 - [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Deuteronomy 11#^deut-11-29|Deuteronomy 11:29]]

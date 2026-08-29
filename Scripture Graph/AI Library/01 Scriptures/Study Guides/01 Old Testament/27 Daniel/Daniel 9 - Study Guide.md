@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 9
 slug: dan-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 9]] · My notes: [[Daniel 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Daniel fasts, confesses, and prays for all Israel—Gabriel reveals the time of the coming of the Messiah, who will make reconciliation for iniquity—The Messiah will be cut off.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 11]] — 2 footnote cross-references (from [[Daniel 9#^dan-9-1|Daniel 9:1]])
+- [[2 Chronicles 36]] — 2 footnote cross-references (from [[Daniel 9#^dan-9-2|Daniel 9:2]])
+- [[Jeremiah 52]] — 2 footnote cross-references (from [[Daniel 9#^dan-9-11|Daniel 9:11]])
+- [[Daniel 8]] — 2 footnote cross-references (from [[Daniel 9#^dan-9-21|Daniel 9:21]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Daniel 9#^dan-9-2|Daniel 9:2]])
+- [[Daniel 10]] — 1 footnote cross-reference (from [[Daniel 9#^dan-9-3|Daniel 9:3]])
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]

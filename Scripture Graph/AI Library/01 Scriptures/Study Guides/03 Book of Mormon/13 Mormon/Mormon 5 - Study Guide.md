@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 5
 slug: morm-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 5]] · My notes: [[Mormon 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mormon again leads the Nephite armies in battles of blood and carnage—The Book of Mormon will come forth to convince all Israel that Jesus is the Christ—Because of their unbelief, the Lamanites will be scattered, and the Spirit will cease to strive with them—They will receive the gospel from the Gentiles in the latter days. About A.D. 375–84.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 16]] — 3 footnote cross-references (from [[Mormon 5#^morm-5-9|Mormon 5:9]])
+- [[Mormon 3]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-1|Mormon 5:1]])
+- [[2 Nephi 27]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-8|Mormon 5:8]])
+- [[Enos 1]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
+- [[Mormon 7]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
 - [[Mormon 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
 - [[Mormon 2]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-13|Mormon 5:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]

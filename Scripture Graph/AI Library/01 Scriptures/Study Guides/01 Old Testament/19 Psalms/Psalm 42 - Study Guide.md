@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 42
 slug: ps-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 42]] · My notes: [[Psalm 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The souls of the righteous thirst for God—The wicked say, Where is your God?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 63]] — 2 footnote cross-references (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
+- [[Psalm 143]] — 1 footnote cross-reference (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
+- [[Isaiah 55]] — 1 footnote cross-reference (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
+- [[John 4]] — 1 footnote cross-reference (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
+- [[John 7]] — 1 footnote cross-reference (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
+- [[Joshua 3]] — 1 footnote cross-reference (from [[Psalm 42#^ps-42-2|Psalm 42:2]])
 - [[Psalm 43]] — 3 parallel verses, e.g. [[Psalm 42#^ps-42-11|Psalm 42:11]] ↔ [[Psalm 43#^ps-43-5|Psalm 43:5]]
 <!-- SG:END related-scriptures -->
 

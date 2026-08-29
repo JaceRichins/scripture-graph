@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 1
 slug: ezek-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 1]] · My notes: [[Ezekiel 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel sees in vision four living creatures, four wheels, and the glory of God on His throne.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 10]] — 8 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
+- [[Revelation 4]] — 4 footnote cross-references (from [[Ezekiel 1#^ezek-1-13|Ezekiel 1:13]])
+- [[Ezekiel 8]] — 3 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
+- [[Ezekiel 40]] — 3 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
+- [[1 Nephi 1]] — 2 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
+- [[D&C 110]] — 2 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
 - [[Ezekiel 10]] — 6 parallel verses, e.g. [[Ezekiel 1#^ezek-1-19|Ezekiel 1:19]] ↔ [[Ezekiel 10#^ezek-10-16|Ezekiel 10:16]]
 - [[Ezekiel 8]] — 3 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 8#^ezek-8-1|Ezekiel 8:1]]
 - [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]]

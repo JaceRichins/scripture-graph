@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 149
 slug: ps-149
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 149]] · My notes: [[Psalm 149 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise the Lord in the congregation of the Saints—He will beautify the meek with salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 95]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-2|Psalm 149:2]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-2|Psalm 149:2]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-2|Psalm 149:2]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-2|Psalm 149:2]])
+- [[Psalm 63]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-5|Psalm 149:5]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Psalm 149#^ps-149-6|Psalm 149:6]])
 - [[Isaiah 42]] — 1 parallel verse, e.g. [[Psalm 149#^ps-149-1|Psalm 149:1]] ↔ [[Isaiah 42#^isa-42-10|Isaiah 42:10]]
 <!-- SG:END related-scriptures -->
 

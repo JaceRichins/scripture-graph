@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 10
 slug: alma-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 10]] · My notes: [[Alma 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi descended from Manasseh—Amulek recounts the angelic command that he care for Alma—The prayers of the righteous cause the people to be spared—Unrighteous lawyers and judges lay the foundation of the destruction of the people. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -46,6 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 8]] — 7 footnote cross-references (from [[Alma 10#^alma-10-1|Alma 10:1]])
+- [[Alma 11]] — 5 footnote cross-references (from [[Alma 10#^alma-10-10|Alma 10:10]])
+- [[Alma 9]] — 4 footnote cross-references (from [[Alma 10#^alma-10-1|Alma 10:1]])
+- [[Alma 14]] — 3 footnote cross-references (from [[Alma 10#^alma-10-14|Alma 10:14]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Alma 10#^alma-10-6|Alma 10:6]])
+- [[Daniel 5]] — 1 footnote cross-reference (from [[Alma 10#^alma-10-2|Alma 10:2]])
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-30|Alma 10:30]] ↔ [[Alma 50#^alma-50-29|Alma 50:29]]
 - [[Helaman 5]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]

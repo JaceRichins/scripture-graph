@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 68
 slug: ps-68
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 68]] · My notes: [[Psalm 68 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—He extols Jah—The Lord gave the word—He takes captivity captive—He delivers us from death—Sing praises unto the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Judges 5]] — 2 footnote cross-references (from [[Psalm 68#^ps-68-7|Psalm 68:7]])
+- [[Numbers 10]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-1|Psalm 68:1]])
+- [[Psalm 97]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-2|Psalm 68:2]])
+- [[Micah 1]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-2|Psalm 68:2]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-3|Psalm 68:3]])
+- [[Psalm 10]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-5|Psalm 68:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

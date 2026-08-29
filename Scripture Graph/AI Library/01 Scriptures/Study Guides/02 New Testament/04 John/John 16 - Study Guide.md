@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 16
 slug: john-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 16]] · My notes: [[John 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus discourses on the mission of the Holy Ghost—He tells of His death and resurrection, announces that He is the Son of God, and says that He has overcome the world.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 8]] — 3 footnote cross-references (from [[John 16#^john-16-28|John 16:28]])
+- [[D&C 50]] — 2 footnote cross-references (from [[John 16#^john-16-12|John 16:12]])
+- [[D&C 76]] — 2 footnote cross-references (from [[John 16#^john-16-15|John 16:15]])
+- [[Moses 4]] — 1 footnote cross-reference (from [[John 16#^john-16-3|John 16:3]])
+- [[Luke 5]] — 1 footnote cross-reference (from [[John 16#^john-16-5|John 16:5]])
+- [[John 15]] — 1 footnote cross-reference (from [[John 16#^john-16-12|John 16:12]])
 - [[John 15]] — 3 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 15#^john-15-11|John 15:11]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[John 16#^john-16-16|John 16:16]] ↔ [[D&C 84#^dc-84-119|D&C 84:119]]
 - [[John 14]] — 2 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 14#^john-14-25|John 14:25]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 1
 slug: eccl-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 1]] · My notes: [[Ecclesiastes 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]] ↔ [[Ecclesiastes 4#^eccl-4-1|Ecclesiastes 4:1]]
-- [[Ecclesiastes 2]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]] ↔ [[Ecclesiastes 2#^eccl-2-17|Ecclesiastes 2:17]]
-- [[Ecclesiastes 9]] — 2 parallel verses, e.g. [[Ecclesiastes 1#^eccl-1-13|Ecclesiastes 1:13]] ↔ [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]]
+- [[Ecclesiastes 7]] — 3 footnote cross-references (from [[Ecclesiastes 1#^eccl-1-1|Ecclesiastes 1:1]])
+- [[Ecclesiastes 4]] — 2 footnote cross-references (from [[Ecclesiastes 1#^eccl-1-13|Ecclesiastes 1:13]])
+- [[1 Samuel 12]] — 1 footnote cross-reference (from [[Ecclesiastes 1#^eccl-1-3|Ecclesiastes 1:3]])
+- [[Matthew 16]] — 1 footnote cross-reference (from [[Ecclesiastes 1#^eccl-1-3|Ecclesiastes 1:3]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Ecclesiastes 1#^eccl-1-3|Ecclesiastes 1:3]])
+- [[Proverbs 27]] — 1 footnote cross-reference (from [[Ecclesiastes 1#^eccl-1-8|Ecclesiastes 1:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 23
 slug: 1chr-23
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -57,16 +57,17 @@ The chapter joins royal succession to sanctuary administration. The aged David m
 - [[1 Kings 1]] — 1 footnote cross-reference (from [[1 Chronicles 23#^1chr-23-1|1 Chronicles 23:1]])
 - [[1 Chronicles 29]] — 1 footnote cross-reference (from [[1 Chronicles 23#^1chr-23-1|1 Chronicles 23:1]])
 - [[1 Chronicles 28]] — 4 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
+- [[Numbers 3]] — 3 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-32|1 Chronicles 23:32]] ↔ [[Numbers 3#^num-3-8|Numbers 3:8]]
+- [[Deuteronomy 10]] — 1 parallel verse, e.g. [[1 Chronicles 23#^1chr-23-13|1 Chronicles 23:13]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
 - [[Nehemiah 10]] — 3 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]] ↔ [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]]
 - [[1 Chronicles 24]] — 1 parallel verse, e.g. [[1 Chronicles 23#^1chr-23-19|1 Chronicles 23:19]] ↔ [[1 Chronicles 24#^1chr-24-23|1 Chronicles 24:23]]
 - [[1 Chronicles 25]] — 2 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]] ↔ [[1 Chronicles 25#^1chr-25-6|1 Chronicles 25:6]]
 - [[1 Chronicles 29]] — 2 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]] ↔ [[1 Chronicles 29#^1chr-29-7|1 Chronicles 29:7]]
+- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]] ↔ [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]]
 - [[Ezra 7]] — 2 parallel verses, e.g. [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]] ↔ [[Ezra 7#^ezra-7-19|Ezra 7:19]]
 - [[1 Chronicles 9]] — 1 parallel verse, e.g. [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]] ↔ [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]]
+- [[Ezra 3]] — 1 parallel verse, e.g. [[1 Chronicles 23#^1chr-23-4|1 Chronicles 23:4]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
 - [[2 Chronicles 24]] — 1 parallel verse, e.g. [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]] ↔ [[2 Chronicles 24#^2chr-24-12|2 Chronicles 24:12]]
-- [[Numbers 3]] — 0 parallel verses
-- [[2 Chronicles 31]] — 0 parallel verses
-- [[Ezra 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

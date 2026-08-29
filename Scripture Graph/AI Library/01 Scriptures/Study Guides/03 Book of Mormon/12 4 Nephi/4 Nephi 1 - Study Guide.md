@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 4 Nephi
 chapter: 1
 slug: 4ne-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[4 Nephi 1]] · My notes: [[4 Nephi 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites and the Lamanites are all converted unto the Lord—They have all things in common, work miracles, and prosper in the land—After two centuries, divisions, evils, false churches, and persecutions arise—After three hundred years, both the Nephites and the Lamanites are wicked—Ammaron hides up the sacred records. About A.D. 35–321.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 28]] — 7 footnote cross-references (from [[4 Nephi 1#^4ne-1-14|4 Nephi 1:14]])
+- [[Mormon 1]] — 4 footnote cross-references (from [[4 Nephi 1#^4ne-1-20|4 Nephi 1:20]])
+- [[3 Nephi 26]] — 3 footnote cross-references (from [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[4 Nephi 1#^4ne-1-26|4 Nephi 1:26]])
+- [[3 Nephi 12]] — 2 footnote cross-references (from [[4 Nephi 1#^4ne-1-3|4 Nephi 1:3]])
+- [[3 Nephi 9]] — 2 footnote cross-references (from [[4 Nephi 1#^4ne-1-9|4 Nephi 1:9]])
 - [[Omni 1]] — 5 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Omni 1#^omni-1-3|Omni 1:3]]
 - [[3 Nephi 26]] — 3 parallel verses, e.g. [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]] ↔ [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]]
 - [[Jarom 1]] — 4 parallel verses, e.g. [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]] ↔ [[Jarom 1#^jarom-1-5|Jarom 1:5]]

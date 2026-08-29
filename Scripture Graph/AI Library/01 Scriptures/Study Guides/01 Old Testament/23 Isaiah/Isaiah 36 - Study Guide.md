@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 36
 slug: isa-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 36]] · My notes: [[Isaiah 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Assyrians war against Judah and blaspheme the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 18]] — 2 footnote cross-references (from [[Isaiah 36#^isa-36-1|Isaiah 36:1]])
+- [[Ezekiel 29]] — 1 footnote cross-reference (from [[Isaiah 36#^isa-36-6|Isaiah 36:6]])
 - [[2 Kings 18]] — 27 parallel verses, e.g. [[Isaiah 36#^isa-36-16|Isaiah 36:16]] ↔ [[2 Kings 18#^2kgs-18-31|2 Kings 18:31]]
 - [[2 Kings 19]] — 3 parallel verses, e.g. [[Isaiah 36#^isa-36-15|Isaiah 36:15]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Isaiah 36#^isa-36-15|Isaiah 36:15]] ↔ [[Jeremiah 32#^jer-32-4|Jeremiah 32:4]]

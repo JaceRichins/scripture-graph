@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 2
 slug: neh-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 2]] · My notes: [[Nehemiah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Artaxerxes sends Nehemiah to Jerusalem—Sanballat and others oppose Nehemiah in rebuilding the walls and gates of Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Nehemiah 1]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-17|Nehemiah 2:17]] ↔ [[Nehemiah 1#^neh-1-3|Nehemiah 1:3]]
-- [[Numbers 11]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-5|Nehemiah 2:5]] ↔ [[Numbers 11#^num-11-11|Numbers 11:11]]
-- [[Esther 7]] — 2 parallel verses, e.g. [[Nehemiah 2#^neh-2-5|Nehemiah 2:5]] ↔ [[Esther 7#^esth-7-3|Esther 7:3]]
+- [[Nehemiah 3]] — 3 footnote cross-references (from [[Nehemiah 2#^neh-2-13|Nehemiah 2:13]])
+- [[Nehemiah 6]] — 2 footnote cross-references (from [[Nehemiah 2#^neh-2-10|Nehemiah 2:10]])
+- [[Nehemiah 12]] — 2 footnote cross-references (from [[Nehemiah 2#^neh-2-13|Nehemiah 2:13]])
+- [[Psalm 137]] — 1 footnote cross-reference (from [[Nehemiah 2#^neh-2-3|Nehemiah 2:3]])
+- [[Nehemiah 4]] — 1 footnote cross-reference (from [[Nehemiah 2#^neh-2-10|Nehemiah 2:10]])
+- [[Ezekiel 5]] — 1 footnote cross-reference (from [[Nehemiah 2#^neh-2-17|Nehemiah 2:17]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

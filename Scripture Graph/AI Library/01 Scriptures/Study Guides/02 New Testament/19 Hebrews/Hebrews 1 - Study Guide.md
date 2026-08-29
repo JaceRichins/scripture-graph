@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 1
 slug: heb-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 1]] · My notes: [[Hebrews 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Son is in the express image of the person of the Father—Christ is the Only Begotten Son and thus above the angels.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 21]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-2|Hebrews 1:2]])
+- [[John 1]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-3|Hebrews 1:3]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-3|Hebrews 1:3]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-3|Hebrews 1:3]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-3|Hebrews 1:3]])
+- [[Ephesians 1]] — 1 footnote cross-reference (from [[Hebrews 1#^heb-1-4|Hebrews 1:4]])
 - [[Psalm 45]] — 2 parallel verses, e.g. [[Hebrews 1#^heb-1-9|Hebrews 1:9]] ↔ [[Psalm 45#^ps-45-7|Psalm 45:7]]
 - [[Psalm 102]] — 2 parallel verses, e.g. [[Hebrews 1#^heb-1-10|Hebrews 1:10]] ↔ [[Psalm 102#^ps-102-25|Psalm 102:25]]
 - [[Psalm 2]] — 1 parallel verse, e.g. [[Hebrews 1#^heb-1-5|Hebrews 1:5]] ↔ [[Psalm 2#^ps-2-7|Psalm 2:7]]

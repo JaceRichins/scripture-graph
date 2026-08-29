@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 17]] · My notes: [[Luke 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus speaks of offenses, forgiveness, and faith—Even the faithful are unprofitable servants—Ten lepers are healed—Jesus discourses on the Second Coming.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 19]] — 2 footnote cross-references (from [[Luke 17#^luke-17-29|Luke 17:29]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-3|Luke 17:3]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-6|Luke 17:6]])
+- [[Romans 3]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
+- [[Leviticus 13]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-14|Luke 17:14]])
 - [[Matthew 24]] — 7 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Matthew 24#^matt-24-40|Matthew 24:40]]
 - [[Joseph Smith—Matthew 1]] — 8 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]]
 - [[Matthew 18]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Matthew 18#^matt-18-6|Matthew 18:6]]

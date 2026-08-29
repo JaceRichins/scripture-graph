@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 6
 slug: eccl-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 6]] · My notes: [[Ecclesiastes 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 14]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-3|Ecclesiastes 6:3]])
+- [[Jeremiah 22]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-3|Ecclesiastes 6:3]])
+- [[Ecclesiastes 1]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-9|Ecclesiastes 6:9]])
+- [[Job 9]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-10|Ecclesiastes 6:10]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-10|Ecclesiastes 6:10]])
+- [[Ecclesiastes 2]] — 1 footnote cross-reference (from [[Ecclesiastes 6#^eccl-6-11|Ecclesiastes 6:11]])
 - [[Ecclesiastes 10]] — 1 parallel verse, e.g. [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]] ↔ [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]]
 <!-- SG:END related-scriptures -->
 

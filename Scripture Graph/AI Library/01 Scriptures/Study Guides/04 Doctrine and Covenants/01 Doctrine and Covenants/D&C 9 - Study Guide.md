@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 9
 slug: dc-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 9]] · My notes: [[D&C 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Other ancient records are yet to be translated; 7–14, The Book of Mormon is translated by study and by spiritual confirmation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 8]] — 4 footnote cross-references (from [[D&C 9#^dc-9-1|D&C 9:1]])
+- [[D&C 6]] — 2 footnote cross-references (from [[D&C 9#^dc-9-2|D&C 9:2]])
+- [[D&C 10]] — 2 footnote cross-references (from [[D&C 9#^dc-9-2|D&C 9:2]])
+- [[D&C 18]] — 2 footnote cross-references (from [[D&C 9#^dc-9-4|D&C 9:4]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[D&C 9#^dc-9-1|D&C 9:1]])
+- [[D&C 24]] — 1 footnote cross-reference (from [[D&C 9#^dc-9-4|D&C 9:4]])
 - [[Alma 38]] — 3 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[Alma 38#^alma-38-5|Alma 38:5]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[Alma 36#^alma-36-3|Alma 36:3]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]

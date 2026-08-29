@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 20]] · My notes: [[John 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mary Magdalene, Peter, and John find the empty tomb—The risen Christ appears to Mary Magdalene in the garden—He appears to the disciples and shows His resurrected body—Thomas feels the wounds in Jesus’ hands, feet, and side—Jesus is the Christ, the Son of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,13 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 16]] — 4 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
-- [[Luke 24]] — 3 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[Luke 24#^luke-24-36|Luke 24:36]]
-- [[Acts 20]] — 2 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]
-- [[Matthew 28]] — 2 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[Matthew 28#^matt-28-1|Matthew 28:1]]
-- [[Mormon 5]] — 1 parallel verse, e.g. [[John 20#^john-20-31|John 20:31]] ↔ [[Mormon 5#^morm-5-14|Mormon 5:14]]
-- [[1 Corinthians 16]] — 2 parallel verses, e.g. [[John 20#^john-20-1|John 20:1]] ↔ [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]]
-- [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 20#^john-20-19|John 20:19]] ↔ [[3 Nephi 19#^3ne-19-15|3 Nephi 19:15]]
+- [[Mark 16]] — 2 footnote cross-references (from [[John 20#^john-20-1|John 20:1]])
+- [[John 21]] — 2 footnote cross-references (from [[John 20#^john-20-2|John 20:2]])
+- [[1 Nephi 14]] — 2 footnote cross-references (from [[John 20#^john-20-2|John 20:2]])
+- [[Matthew 27]] — 1 footnote cross-reference (from [[John 20#^john-20-1|John 20:1]])
+- [[John 13]] — 1 footnote cross-reference (from [[John 20#^john-20-2|John 20:2]])
+- [[John 19]] — 1 footnote cross-reference (from [[John 20#^john-20-2|John 20:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

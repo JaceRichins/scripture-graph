@@ -65,4 +65,4 @@ cssclasses:
 ![[2 Chronicles 31#^2chr-31-20]]
 
 ![[2 Chronicles 31#^2chr-31-21]]
-> [[1 Chronicles 28#^1chr-28-21|≈ 1 Chronicles 28:21]] · [[1 Chronicles 9#^1chr-9-13|≈ 1 Chronicles 9:13]] · [[1 Chronicles 23#^1chr-23-28|≈ 1 Chronicles 23:28]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]]
+> [[1 Chronicles 23#^1chr-23-28|≈ 1 Chronicles 23:28]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]] · [[1 Chronicles 28#^1chr-28-21|≈ 1 Chronicles 28:21]] · [[1 Chronicles 9#^1chr-9-13|≈ 1 Chronicles 9:13]]

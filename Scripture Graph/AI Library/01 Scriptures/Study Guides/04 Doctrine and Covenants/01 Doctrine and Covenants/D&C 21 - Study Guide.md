@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 21
 slug: dc-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 21]] · My notes: [[D&C 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Joseph Smith is called to be a seer, translator, prophet, apostle, and elder; 4–8, His word will guide the cause of Zion; 9–12, The Saints will believe his words as he speaks by the Comforter.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 20]] — 3 footnote cross-references (from [[D&C 21#^dc-21-3|D&C 21:3]])
+- [[D&C 1]] — 2 footnote cross-references (from [[D&C 21#^dc-21-3|D&C 21:3]])
+- [[1 Nephi 13]] — 2 footnote cross-references (from [[D&C 21#^dc-21-9|D&C 21:9]])
+- [[D&C 47]] — 1 footnote cross-reference (from [[D&C 21#^dc-21-1|D&C 21:1]])
+- [[D&C 69]] — 1 footnote cross-reference (from [[D&C 21#^dc-21-1|D&C 21:1]])
+- [[D&C 85]] — 1 footnote cross-reference (from [[D&C 21#^dc-21-1|D&C 21:1]])
 - [[D&C 20]] — 1 parallel verse, e.g. [[D&C 21#^dc-21-3|D&C 21:3]] ↔ [[D&C 20#^dc-20-1|D&C 20:1]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[D&C 21#^dc-21-6|D&C 21:6]] ↔ [[D&C 33#^dc-33-13|D&C 33:13]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[D&C 21#^dc-21-6|D&C 21:6]] ↔ [[D&C 98#^dc-98-22|D&C 98:22]]

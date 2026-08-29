@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 19
 slug: mosiah-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 19]] · My notes: [[Mosiah 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gideon seeks to slay King Noah—The Lamanites invade the land—King Noah suffers death by fire—Limhi rules as a tributary monarch. About 145–121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 20]] — 5 footnote cross-references (from [[Mosiah 19#^mosiah-19-6|Mosiah 19:6]])
+- [[Mosiah 7]] — 4 footnote cross-references (from [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]])
+- [[Mosiah 11]] — 3 footnote cross-references (from [[Mosiah 19#^mosiah-19-5|Mosiah 19:5]])
+- [[Mosiah 17]] — 2 footnote cross-references (from [[Mosiah 19#^mosiah-19-20|Mosiah 19:20]])
+- [[Mosiah 21]] — 2 footnote cross-references (from [[Mosiah 19#^mosiah-19-25|Mosiah 19:25]])
+- [[Mosiah 22]] — 2 footnote cross-references (from [[Mosiah 19#^mosiah-19-26|Mosiah 19:26]])
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
 - [[3 Nephi 6]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]]
 - [[Mosiah 11]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]] ↔ [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]]

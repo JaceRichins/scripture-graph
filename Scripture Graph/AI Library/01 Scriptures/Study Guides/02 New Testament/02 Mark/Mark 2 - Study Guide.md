@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 2
 slug: mark-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 2]] · My notes: [[Mark 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus forgives sins, heals a paralytic, eats with tax gatherers and sinners, and announces that He is Lord of the Sabbath.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 5]] — 2 footnote cross-references (from [[Mark 2#^mark-2-18|Mark 2:18]])
+- [[Luke 7]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-5|Mark 2:5]])
+- [[James 5]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-5|Mark 2:5]])
+- [[Alma 15]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
+- [[3 Nephi 9]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
+- [[3 Nephi 7]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
 - [[Luke 5]] — 13 parallel verses, e.g. [[Mark 2#^mark-2-20|Mark 2:20]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
 - [[Matthew 9]] — 10 parallel verses, e.g. [[Mark 2#^mark-2-10|Mark 2:10]] ↔ [[Matthew 9#^matt-9-6|Matthew 9:6]]
 - [[Luke 6]] — 3 parallel verses, e.g. [[Mark 2#^mark-2-26|Mark 2:26]] ↔ [[Luke 6#^luke-6-4|Luke 6:4]]

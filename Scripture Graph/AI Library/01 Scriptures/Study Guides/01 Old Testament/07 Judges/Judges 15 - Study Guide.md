@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 15
 slug: judg-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 15]] · My notes: [[Judges 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samson burns the grain of the Philistines—They burn his wife and father-in-law—Samson slays a thousand Philistines at Lehi with the jawbone of an ass.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 14]] — 2 footnote cross-references (from [[Judges 15#^judg-15-6|Judges 15:6]])
+- [[Exodus 22]] — 1 footnote cross-reference (from [[Judges 15#^judg-15-5|Judges 15:5]])
+- [[Alma 2]] — 1 footnote cross-reference (from [[Judges 15#^judg-15-14|Judges 15:14]])
+- [[Alma 14]] — 1 footnote cross-reference (from [[Judges 15#^judg-15-14|Judges 15:14]])
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-17|Judges 15:17]] ↔ [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]]
 - [[Judges 14]] — 1 parallel verse, e.g. [[Judges 15#^judg-15-14|Judges 15:14]] ↔ [[Judges 14#^judg-14-6|Judges 14:6]]
 <!-- SG:END related-scriptures -->

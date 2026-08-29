@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Peter 2]] · My notes: [[1 Peter 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Romans 9]] — 1 parallel verse, e.g. [[1 Peter 2#^1pet-2-6|1 Peter 2:6]] ↔ [[Romans 9#^rom-9-33|Romans 9:33]]
+- [[Isaiah 53]] — 3 footnote cross-references (from [[1 Peter 2#^1pet-2-22|1 Peter 2:22]])
+- [[Isaiah 28]] — 2 footnote cross-references (from [[1 Peter 2#^1pet-2-6|1 Peter 2:6]])
+- [[Matthew 21]] — 2 footnote cross-references (from [[1 Peter 2#^1pet-2-7|1 Peter 2:7]])
+- [[Exodus 19]] — 2 footnote cross-references (from [[1 Peter 2#^1pet-2-9|1 Peter 2:9]])
+- [[Titus 2]] — 2 footnote cross-references (from [[1 Peter 2#^1pet-2-12|1 Peter 2:12]])
+- [[1 Corinthians 3]] — 1 footnote cross-reference (from [[1 Peter 2#^1pet-2-2|1 Peter 2:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

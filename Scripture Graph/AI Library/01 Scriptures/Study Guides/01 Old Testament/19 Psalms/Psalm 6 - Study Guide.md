@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 6
 slug: ps-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 6]] · My notes: [[Psalm 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David cries unto the Lord for mercy—He asks to be healed and saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 30]] — 1 footnote cross-reference (from [[Psalm 6#^ps-6-5|Psalm 6:5]])
+- [[2 Nephi 33]] — 1 footnote cross-reference (from [[Psalm 6#^ps-6-6|Psalm 6:6]])
 - [[Psalm 38]] — 1 parallel verse, e.g. [[Psalm 6#^ps-6-1|Psalm 6:1]] ↔ [[Psalm 38#^ps-38-1|Psalm 38:1]]
 - [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 6#^ps-6-2|Psalm 6:2]] ↔ [[Psalm 31#^ps-31-9|Psalm 31:9]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 4
 slug: deut-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 4]] · My notes: [[Deuteronomy 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses exhorts the children of Israel to keep the commandments, to teach them to their children, and to be exemplary before all nations—They are forbidden to make graven images or worship other gods—They are to witness that they have heard the voice of God—They will be scattered among all nations when they worship other gods—They will be gathered again in the latter days when they seek the Lord their God—Moses extols the mercy and goodness of God to Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 3]] — 4 footnote cross-references (from [[Deuteronomy 4#^deut-4-43|Deuteronomy 4:43]])
+- [[Exodus 19]] — 3 footnote cross-references (from [[Deuteronomy 4#^deut-4-10|Deuteronomy 4:10]])
+- [[1 Kings 8]] — 3 footnote cross-references (from [[Deuteronomy 4#^deut-4-10|Deuteronomy 4:10]])
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Deuteronomy 4#^deut-4-34|Deuteronomy 4:34]])
+- [[Hosea 8]] — 2 footnote cross-references (from [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]])
+- [[Mosiah 4]] — 2 footnote cross-references (from [[Deuteronomy 4#^deut-4-9|Deuteronomy 4:9]])
 - [[Deuteronomy 6]] — 7 parallel verses, e.g. [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]] ↔ [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]]
 - [[Deuteronomy 5]] — 7 parallel verses, e.g. [[Deuteronomy 4#^deut-4-33|Deuteronomy 4:33]] ↔ [[Deuteronomy 5#^deut-5-26|Deuteronomy 5:26]]
 - [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]] ↔ [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]]

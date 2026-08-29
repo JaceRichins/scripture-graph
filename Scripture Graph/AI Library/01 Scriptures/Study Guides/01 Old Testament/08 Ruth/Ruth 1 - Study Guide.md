@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 1
 slug: ruth-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ruth 1]] · My notes: [[Ruth 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 2]] — 1 footnote cross-reference (from [[Ruth 1#^ruth-1-1|Ruth 1:1]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[Ruth 1#^ruth-1-1|Ruth 1:1]])
+- [[Genesis 35]] — 1 footnote cross-reference (from [[Ruth 1#^ruth-1-2|Ruth 1:2]])
+- [[Deuteronomy 25]] — 1 footnote cross-reference (from [[Ruth 1#^ruth-1-11|Ruth 1:11]])
 - [[Job 2]] — 2 parallel verses, e.g. [[Ruth 1#^ruth-1-9|Ruth 1:9]] ↔ [[Job 2#^job-2-12|Job 2:12]]
 <!-- SG:END related-scriptures -->
 

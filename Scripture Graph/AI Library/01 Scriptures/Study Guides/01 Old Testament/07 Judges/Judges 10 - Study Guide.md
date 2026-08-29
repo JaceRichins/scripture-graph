@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 10
 slug: judg-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 10]] · My notes: [[Judges 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Tola and then Jair judge Israel—The children of Israel worship false gods, are forsaken by the Lord, and are distressed by their enemies—They repent and ask the Lord for deliverance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 7]] — 2 footnote cross-references (from [[Judges 10#^judg-10-10|Judges 10:10]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Judges 10#^judg-10-7|Judges 10:7]])
+- [[Exodus 14]] — 1 footnote cross-reference (from [[Judges 10#^judg-10-11|Judges 10:11]])
+- [[Judges 3]] — 1 footnote cross-reference (from [[Judges 10#^judg-10-11|Judges 10:11]])
+- [[2 Kings 3]] — 1 footnote cross-reference (from [[Judges 10#^judg-10-14|Judges 10:14]])
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Judges 10#^judg-10-14|Judges 10:14]])
 - [[Judges 3]] — 5 parallel verses, e.g. [[Judges 10#^judg-10-7|Judges 10:7]] ↔ [[Judges 3#^judg-3-8|Judges 3:8]]
 - [[Judges 2]] — 3 parallel verses, e.g. [[Judges 10#^judg-10-7|Judges 10:7]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 - [[Judges 6]] — 3 parallel verses, e.g. [[Judges 10#^judg-10-10|Judges 10:10]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]

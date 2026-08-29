@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 28
 slug: jer-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 28]] · My notes: [[Jeremiah 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hananiah prophesies falsely that the Babylonian yoke will be broken.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 18]] — 2 footnote cross-references (from [[Jeremiah 28#^jer-28-9|Jeremiah 28:9]])
+- [[Jeremiah 27]] — 2 footnote cross-references (from [[Jeremiah 28#^jer-28-10|Jeremiah 28:10]])
+- [[Ezekiel 13]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-9|Jeremiah 28:9]])
+- [[Matthew 7]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-9|Jeremiah 28:9]])
+- [[1 Nephi 13]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-14|Jeremiah 28:14]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-14|Jeremiah 28:14]])
 - [[Jeremiah 27]] — 14 parallel verses, e.g. [[Jeremiah 28#^jer-28-4|Jeremiah 28:4]] ↔ [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]]
 - [[Jeremiah 29]] — 9 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]]
 - [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]

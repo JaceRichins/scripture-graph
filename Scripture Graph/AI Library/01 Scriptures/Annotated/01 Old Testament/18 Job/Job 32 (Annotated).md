@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 32|Plain text]] · [[Job 32 - Study Guide|Study guide]] · [[Job 32 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Elihu, in anger, answers Job and his three friends—Elihu says, There is a spirit in man, and the inspiration of the Almighty gives understanding—He also says, Great men are not always wise.
+
 ![[Job 32#^job-32-1]]
 
 ![[Job 32#^job-32-2]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 9
 slug: moro-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 9]] · My notes: [[Moroni 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Both the Nephites and the Lamanites are depraved and degenerate—They torture and murder each other—Mormon prays that grace and goodness may rest upon Moroni forever. About A.D. 401.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Words of Mormon 1]] — 2 footnote cross-references (from [[Moroni 9#^moro-9-4|Moroni 9:4]])
+- [[Mormon 4]] — 2 footnote cross-references (from [[Moroni 9#^moro-9-5|Moroni 9:5]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[Moroni 9#^moro-9-22|Moroni 9:22]])
+- [[2 Nephi 1]] — 1 footnote cross-reference (from [[Moroni 9#^moro-9-4|Moroni 9:4]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Moroni 9#^moro-9-4|Moroni 9:4]])
+- [[Moroni 8]] — 1 footnote cross-reference (from [[Moroni 9#^moro-9-4|Moroni 9:4]])
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-10|Moroni 9:10]] ↔ [[1 Nephi 2#^1ne-2-18|1 Nephi 2:18]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[Moroni 9#^moro-9-24|Moroni 9:24]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
 <!-- SG:END related-scriptures -->

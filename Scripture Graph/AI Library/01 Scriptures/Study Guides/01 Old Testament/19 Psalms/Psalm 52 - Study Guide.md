@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 52
 slug: ps-52
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 52]] · My notes: [[Psalm 52 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says that wicked tongues devise mischief and the wicked trust in riches—The Saints trust in the mercy of God forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 57]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-2|Psalm 52:2]])
+- [[2 Nephi 13]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-2|Psalm 52:2]])
+- [[Proverbs 2]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-5|Psalm 52:5]])
+- [[Mosiah 16]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-5|Psalm 52:5]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-5|Psalm 52:5]])
+- [[Psalm 92]] — 1 footnote cross-reference (from [[Psalm 52#^ps-52-8|Psalm 52:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

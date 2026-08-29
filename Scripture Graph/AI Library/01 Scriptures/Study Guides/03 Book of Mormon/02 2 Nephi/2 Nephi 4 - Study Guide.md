@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 4
 slug: 2ne-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 4]] · My notes: [[2 Nephi 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi counsels and blesses his posterity—He dies and is buried—Nephi glories in the goodness of God—Nephi puts his trust in the Lord forever. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[2 Nephi 4#^2ne-4-2|2 Nephi 4:2]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-2|2 Nephi 4:2]])
+- [[Alma 9]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]])
+- [[Jacob 1]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-7|2 Nephi 4:7]])
+- [[1 Nephi 7]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-10|2 Nephi 4:10]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-13|2 Nephi 4:13]])
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]

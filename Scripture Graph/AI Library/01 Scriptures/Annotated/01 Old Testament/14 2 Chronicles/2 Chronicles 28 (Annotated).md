@@ -17,19 +17,19 @@ cssclasses:
 > Ahaz reigns in wickedness and practices idolatry; his people are defeated by Israel—The captives are freed by the command of a prophet—The Edomites and Philistines attack Judah—Ahaz continues his idolatrous ways.
 
 ![[2 Chronicles 28#^2chr-28-1]]
-> [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 18#^2kgs-18-2|≈ 2 Kings 18:2]] · [[2 Kings 16#^2kgs-16-2|≈ 2 Kings 16:2]] · [[2 Kings 21#^2kgs-21-19|≈ 2 Kings 21:19]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]] · [[2 Chronicles 33#^2chr-33-1|≈ 2 Chronicles 33:1]]
+> [[2 Kings 16#^2kgs-16-2|≈ 2 Kings 16:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 18#^2kgs-18-2|≈ 2 Kings 18:2]] · [[2 Kings 21#^2kgs-21-19|≈ 2 Kings 21:19]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]] · [[2 Chronicles 33#^2chr-33-1|≈ 2 Chronicles 33:1]]
 
 ![[2 Chronicles 28#^2chr-28-2]]
 > [[Exodus 34#^ex-34-17|Ex. 34:17]]
 
 ![[2 Chronicles 28#^2chr-28-3]]
-> [[2 Kings 21#^2kgs-21-6|2 Kgs. 21:6]] · [[2 Chronicles 33#^2chr-33-6|2 Chr. 33:6]] · [[Ezekiel 20#^ezek-20-26|Ezek. 20:26]] · [[Jeremiah 32#^jer-32-35|≈ Jeremiah 32:35]] · [[2 Kings 16#^2kgs-16-3|≈ 2 Kings 16:3]] · [[2 Kings 21#^2kgs-21-2|≈ 2 Kings 21:2]] · [[2 Chronicles 33#^2chr-33-2|≈ 2 Chronicles 33:2]] · [[2 Chronicles 33#^2chr-33-6|≈ 2 Chronicles 33:6]] · [[2 Chronicles 33#^2chr-33-9|≈ 2 Chronicles 33:9]]
+> [[2 Kings 21#^2kgs-21-6|2 Kgs. 21:6]] · [[2 Chronicles 33#^2chr-33-6|2 Chr. 33:6]] · [[Ezekiel 20#^ezek-20-26|Ezek. 20:26]] · [[2 Kings 16#^2kgs-16-3|≈ 2 Kings 16:3]] · [[Jeremiah 32#^jer-32-35|≈ Jeremiah 32:35]] · [[2 Kings 21#^2kgs-21-2|≈ 2 Kings 21:2]] · [[2 Chronicles 33#^2chr-33-2|≈ 2 Chronicles 33:2]] · [[2 Chronicles 33#^2chr-33-6|≈ 2 Chronicles 33:6]] · [[2 Chronicles 33#^2chr-33-9|≈ 2 Chronicles 33:9]]
 
 ![[2 Chronicles 28#^2chr-28-4]]
 > [[2 Kings 16#^2kgs-16-4|≈ 2 Kings 16:4]] · [[2 Kings 12#^2kgs-12-3|≈ 2 Kings 12:3]]
 
 ![[2 Chronicles 28#^2chr-28-5]]
-> [[Isaiah 7#^isa-7-1|Isa. 7:1]] · [[2 Kings 18#^2kgs-18-30|≈ 2 Kings 18:30]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[2 Kings 16#^2kgs-16-7|≈ 2 Kings 16:7]] · [[1 Kings 22#^1kgs-22-3|≈ 1 Kings 22:3]]
+> [[Isaiah 7#^isa-7-1|Isa. 7:1]] · [[2 Kings 16#^2kgs-16-7|≈ 2 Kings 16:7]] · [[2 Kings 18#^2kgs-18-30|≈ 2 Kings 18:30]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[1 Kings 22#^1kgs-22-3|≈ 1 Kings 22:3]]
 
 ![[2 Chronicles 28#^2chr-28-6]]
 > [[2 Kings 15#^2kgs-15-27|2 Kgs. 15:27 (27–28)]] · [[2 Chronicles 24#^2chr-24-24|≈ 2 Chronicles 24:24]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 19
 slug: job-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 19]] · My notes: [[Job 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job tells of the ills that have befallen him and then testifies, I know that my Redeemer lives—Job prophesies that he will be resurrected and that in his flesh he will see God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 31]] — 1 footnote cross-reference (from [[Job 19#^job-19-14|Job 19:14]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Job 19#^job-19-21|Job 19:21]])
+- [[1 John 3]] — 1 footnote cross-reference (from [[Job 19#^job-19-26|Job 19:26]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

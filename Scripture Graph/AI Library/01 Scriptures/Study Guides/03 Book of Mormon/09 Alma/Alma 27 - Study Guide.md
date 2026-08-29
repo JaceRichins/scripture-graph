@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 27
 slug: alma-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 27]] · My notes: [[Alma 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord commands Ammon to lead the people of Anti-Nephi-Lehi to safety—Upon meeting Alma, Ammon’s joy exhausts his strength—The Nephites give the Anti-Nephi-Lehies the land of Jershon—They are called the people of Ammon. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 43]] — 5 footnote cross-references (from [[Alma 27#^alma-27-2|Alma 27:2]])
+- [[Alma 25]] — 3 footnote cross-references (from [[Alma 27#^alma-27-1|Alma 27:1]])
+- [[Alma 24]] — 3 footnote cross-references (from [[Alma 27#^alma-27-3|Alma 27:3]])
+- [[Alma 28]] — 2 footnote cross-references (from [[Alma 27#^alma-27-18|Alma 27:18]])
+- [[Acts 13]] — 1 footnote cross-reference (from [[Alma 27#^alma-27-2|Alma 27:2]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[Alma 27#^alma-27-9|Alma 27:9]])
 - [[Alma 57]] — 4 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 57#^alma-57-35|Alma 57:35]]
 - [[Mosiah 24]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-12|Alma 27:12]] ↔ [[Mosiah 24#^mosiah-24-23|Mosiah 24:23]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 43#^alma-43-11|Alma 43:11]]

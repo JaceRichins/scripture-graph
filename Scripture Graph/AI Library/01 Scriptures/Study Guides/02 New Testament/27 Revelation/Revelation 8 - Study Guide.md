@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 8
 slug: rev-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 8]] · My notes: [[Revelation 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John sees fire and desolation poured out during the seventh seal and preceding the Second Coming.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,10 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 6]] — 5 parallel verses, e.g. [[Revelation 8#^rev-8-1|Revelation 8:1]] ↔ [[Revelation 6#^rev-6-3|Revelation 6:3]]
-- [[Revelation 12]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-13|Revelation 8:13]] ↔ [[Revelation 12#^rev-12-12|Revelation 12:12]]
-- [[D&C 133]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-13|Revelation 8:13]] ↔ [[D&C 133#^dc-133-36|D&C 133:36]]
-- [[D&C 88]] — 2 parallel verses, e.g. [[Revelation 8#^rev-8-1|Revelation 8:1]] ↔ [[D&C 88#^dc-88-95|D&C 88:95]]
+- [[D&C 77]] — 3 footnote cross-references (from [[Revelation 8#^rev-8-1|Revelation 8:1]])
+- [[D&C 88]] — 2 footnote cross-references (from [[Revelation 8#^rev-8-5|Revelation 8:5]])
+- [[Leviticus 16]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-3|Revelation 8:3]])
+- [[Numbers 16]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-3|Revelation 8:3]])
+- [[Revelation 5]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-4|Revelation 8:4]])
+- [[Ezekiel 10]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-5|Revelation 8:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

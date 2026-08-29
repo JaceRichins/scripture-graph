@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 46
 slug: jer-46
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 46]] · My notes: [[Jeremiah 46 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah prophesies the conquest of Egypt by Babylon—Jacob will be saved and will return to his own land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 30]] — 3 footnote cross-references (from [[Jeremiah 46#^jer-46-9|Jeremiah 46:9]])
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Jeremiah 46#^jer-46-1|Jeremiah 46:1]])
+- [[Jeremiah 44]] — 2 footnote cross-references (from [[Jeremiah 46#^jer-46-14|Jeremiah 46:14]])
+- [[Jeremiah 43]] — 2 footnote cross-references (from [[Jeremiah 46#^jer-46-14|Jeremiah 46:14]])
+- [[Ezekiel 29]] — 2 footnote cross-references (from [[Jeremiah 46#^jer-46-19|Jeremiah 46:19]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 46#^jer-46-1|Jeremiah 46:1]])
 - [[Jeremiah 29]] — 6 parallel verses, e.g. [[Jeremiah 46#^jer-46-26|Jeremiah 46:26]] ↔ [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]]
 - [[Jeremiah 30]] — 2 parallel verses, e.g. [[Jeremiah 46#^jer-46-27|Jeremiah 46:27]] ↔ [[Jeremiah 30#^jer-30-10|Jeremiah 30:10]]
 - [[Jeremiah 22]] — 3 parallel verses, e.g. [[Jeremiah 46#^jer-46-26|Jeremiah 46:26]] ↔ [[Jeremiah 22#^jer-22-25|Jeremiah 22:25]]

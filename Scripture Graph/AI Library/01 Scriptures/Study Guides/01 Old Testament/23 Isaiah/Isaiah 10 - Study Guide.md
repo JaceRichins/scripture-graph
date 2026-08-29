@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 10
 slug: isa-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 10]] · My notes: [[Isaiah 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The destruction of Assyria is a type of the destruction of the wicked at the Second Coming—Few people will be left after the Lord comes again—The remnant of Jacob will return in that day—Compare 2 Nephi 20.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 9]] — 4 footnote cross-references (from [[Isaiah 10#^isa-10-17|Isaiah 10:17]])
+- [[2 Nephi 20]] — 2 footnote cross-references (from [[Isaiah 10#^isa-10-1|Isaiah 10:1]])
+- [[2 Kings 19]] — 2 footnote cross-references (from [[Isaiah 10#^isa-10-12|Isaiah 10:12]])
+- [[Exodus 14]] — 2 footnote cross-references (from [[Isaiah 10#^isa-10-26|Isaiah 10:26]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Isaiah 10#^isa-10-2|Isaiah 10:2]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Isaiah 10#^isa-10-2|Isaiah 10:2]])
 - [[2 Nephi 20]] — 36 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[Isaiah 9]] — 3 parallel verses, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 3 parallel verses, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]

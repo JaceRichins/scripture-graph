@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 5
 slug: prov-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 5]] · My notes: [[Proverbs 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Those who associate with immoral women will go down to hell—Rejoice with the wife of your youth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 5#^prov-5-7|Proverbs 5:7]] ↔ [[Proverbs 7#^prov-7-24|Proverbs 7:24]]
+- [[Alma 39]] — 2 footnote cross-references (from [[Proverbs 5#^prov-5-3|Proverbs 5:3]])
+- [[Proverbs 2]] — 1 footnote cross-reference (from [[Proverbs 5#^prov-5-3|Proverbs 5:3]])
+- [[Proverbs 7]] — 1 footnote cross-reference (from [[Proverbs 5#^prov-5-4|Proverbs 5:4]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[Proverbs 5#^prov-5-4|Proverbs 5:4]])
+- [[Ecclesiastes 7]] — 1 footnote cross-reference (from [[Proverbs 5#^prov-5-4|Proverbs 5:4]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Proverbs 5#^prov-5-12|Proverbs 5:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

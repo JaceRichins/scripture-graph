@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 46
 slug: isa-46
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 46]] · My notes: [[Isaiah 46 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Idols are not to be compared with the Lord—He alone is God and will save Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 45]] — 3 footnote cross-references (from [[Isaiah 46#^isa-46-3|Isaiah 46:3]])
+- [[Isaiah 44]] — 2 footnote cross-references (from [[Isaiah 46#^isa-46-9|Isaiah 46:9]])
+- [[Jeremiah 50]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-1|Isaiah 46:1]])
+- [[Isaiah 63]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-4|Isaiah 46:4]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-5|Isaiah 46:5]])
+- [[Jeremiah 10]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-7|Isaiah 46:7]])
 - [[Isaiah 45]] — 1 parallel verse, e.g. [[Isaiah 46#^isa-46-9|Isaiah 46:9]] ↔ [[Isaiah 45#^isa-45-22|Isaiah 45:22]]
 <!-- SG:END related-scriptures -->
 

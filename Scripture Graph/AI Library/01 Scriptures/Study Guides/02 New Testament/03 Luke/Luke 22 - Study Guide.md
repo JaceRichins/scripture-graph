@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 22
 slug: luke-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 22]] · My notes: [[Luke 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus institutes the sacrament—He suffers in Gethsemane and is betrayed and arrested—Peter denies knowing Him—Jesus is smitten and mocked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 26]] — 6 footnote cross-references (from [[Luke 22#^luke-22-2|Luke 22:2]])
+- [[Mark 14]] — 4 footnote cross-references (from [[Luke 22#^luke-22-2|Luke 22:2]])
+- [[2 Nephi 10]] — 2 footnote cross-references (from [[Luke 22#^luke-22-2|Luke 22:2]])
+- [[D&C 20]] — 2 footnote cross-references (from [[Luke 22#^luke-22-19|Luke 22:19]])
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Luke 22#^luke-22-32|Luke 22:32]])
+- [[D&C 19]] — 2 footnote cross-references (from [[Luke 22#^luke-22-42|Luke 22:42]])
 - [[Mark 14]] — 12 parallel verses, e.g. [[Luke 22#^luke-22-11|Luke 22:11]] ↔ [[Mark 14#^mark-14-14|Mark 14:14]]
 - [[Matthew 26]] — 10 parallel verses, e.g. [[Luke 22#^luke-22-61|Luke 22:61]] ↔ [[Matthew 26#^matt-26-75|Matthew 26:75]]
 - [[1 Corinthians 11]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-19|Luke 22:19]] ↔ [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]]

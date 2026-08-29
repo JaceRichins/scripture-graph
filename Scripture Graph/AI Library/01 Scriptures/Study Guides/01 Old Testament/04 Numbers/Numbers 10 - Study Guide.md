@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 10
 slug: num-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 10]] · My notes: [[Numbers 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Silver trumpets are used to call assemblies and to blow alarms—The cloud is taken from the tabernacle, and the children of Israel march forth in their prescribed order—The ark of the covenant goes before them in their journeyings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 2]] — 2 footnote cross-references (from [[Numbers 10#^num-10-14|Numbers 10:14]])
+- [[1 Chronicles 15]] — 1 footnote cross-reference (from [[Numbers 10#^num-10-8|Numbers 10:8]])
+- [[Leviticus 23]] — 1 footnote cross-reference (from [[Numbers 10#^num-10-10|Numbers 10:10]])
+- [[Psalm 81]] — 1 footnote cross-reference (from [[Numbers 10#^num-10-10|Numbers 10:10]])
+- [[Exodus 40]] — 1 footnote cross-reference (from [[Numbers 10#^num-10-11|Numbers 10:11]])
+- [[Exodus 38]] — 1 footnote cross-reference (from [[Numbers 10#^num-10-11|Numbers 10:11]])
 - [[Numbers 34]] — 58 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
 - [[Joshua 19]] — 42 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
 - [[Joshua 15]] — 26 parallel verses, e.g. [[Numbers 10#^num-10-14|Numbers 10:14]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]

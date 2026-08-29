@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 13
 slug: num-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 13]] · My notes: [[Numbers 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses sends twelve spies to search the land of Canaan—Ten of them bring an evil report, telling only of the strength of the inhabitants.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 14]] — 3 footnote cross-references (from [[Numbers 13#^num-13-2|Numbers 13:2]])
+- [[Deuteronomy 1]] — 3 footnote cross-references (from [[Numbers 13#^num-13-2|Numbers 13:2]])
+- [[Numbers 14]] — 3 footnote cross-references (from [[Numbers 13#^num-13-16|Numbers 13:16]])
+- [[Joshua 15]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-6|Numbers 13:6]])
+- [[Numbers 11]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-16|Numbers 13:16]])
+- [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-16|Numbers 13:16]])
 - [[Numbers 34]] — 2 parallel verses, e.g. [[Numbers 13#^num-13-6|Numbers 13:6]] ↔ [[Numbers 34#^num-34-19|Numbers 34:19]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 13#^num-13-26|Numbers 13:26]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 - [[Deuteronomy 32]] — 1 parallel verse, e.g. [[Numbers 13#^num-13-2|Numbers 13:2]] ↔ [[Deuteronomy 32#^deut-32-49|Deuteronomy 32:49]]

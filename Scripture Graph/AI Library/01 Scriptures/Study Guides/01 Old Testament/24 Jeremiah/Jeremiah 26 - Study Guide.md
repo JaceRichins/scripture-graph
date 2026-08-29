@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 26
 slug: jer-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 26]] · My notes: [[Jeremiah 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah prophesies the destruction of the people—For this he is arraigned, tried, and then acquitted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 17]] — 2 footnote cross-references (from [[Jeremiah 26#^jer-26-11|Jeremiah 26:11]])
+- [[1 Nephi 1]] — 2 footnote cross-references (from [[Jeremiah 26#^jer-26-18|Jeremiah 26:18]])
+- [[Jeremiah 36]] — 2 footnote cross-references (from [[Jeremiah 26#^jer-26-22|Jeremiah 26:22]])
+- [[Jeremiah 27]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]])
+- [[D&C 28]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-2|Jeremiah 26:2]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]])
 - [[Jeremiah 36]] — 4 parallel verses, e.g. [[Jeremiah 26#^jer-26-3|Jeremiah 26:3]] ↔ [[Jeremiah 36#^jer-36-3|Jeremiah 36:3]]
 - [[Jeremiah 25]] — 4 parallel verses, e.g. [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]

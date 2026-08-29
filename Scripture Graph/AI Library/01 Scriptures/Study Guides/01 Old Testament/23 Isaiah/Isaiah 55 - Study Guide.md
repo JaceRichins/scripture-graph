@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 55
 slug: isa-55
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 55]] · My notes: [[Isaiah 55 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Come and drink; salvation is free—The Lord will make an everlasting covenant with Israel—Seek the Lord while He is near.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 42]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
+- [[Psalm 143]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
+- [[Luke 6]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
+- [[John 4]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
+- [[John 7]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Isaiah 55#^isa-55-1|Isaiah 55:1]] ↔ [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]]
 <!-- SG:END related-scriptures -->
 

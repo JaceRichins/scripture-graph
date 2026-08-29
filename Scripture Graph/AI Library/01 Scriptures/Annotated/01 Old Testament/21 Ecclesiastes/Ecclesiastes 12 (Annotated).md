@@ -13,7 +13,11 @@ cssclasses:
 
 [[Ecclesiastes 12|Plain text]] · [[Ecclesiastes 12 - Study Guide|Study guide]] · [[Ecclesiastes 12 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.
+
 ![[Ecclesiastes 12#^eccl-12-1]]
+> [[Alma 37#^alma-37-35|Alma 37:35]] · [[Ecclesiastes 11#^eccl-11-8|Eccl. 11:8]]
 
 ![[Ecclesiastes 12#^eccl-12-2]]
 
@@ -22,6 +26,7 @@ cssclasses:
 ![[Ecclesiastes 12#^eccl-12-4]]
 
 ![[Ecclesiastes 12#^eccl-12-5]]
+> [[Job 17#^job-17-13|Job 17:13]] · [[Alma 40#^alma-40-11|Alma 40:11]]
 
 ![[Ecclesiastes 12#^eccl-12-6]]
 

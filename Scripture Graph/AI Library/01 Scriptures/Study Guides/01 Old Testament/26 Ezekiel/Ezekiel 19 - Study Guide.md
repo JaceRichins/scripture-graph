@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 19
 slug: ezek-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 19]] · My notes: [[Ezekiel 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel laments for Israel because she has been taken captive by other nations and has become like a vine planted in dry and thirsty ground.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 16]] — 2 parallel verses, e.g. [[Ezekiel 19#^ezek-19-5|Ezekiel 19:5]] ↔ [[Genesis 16#^gen-16-4|Genesis 16:4]]
+- [[2 Chronicles 36]] — 4 footnote cross-references (from [[Ezekiel 19#^ezek-19-3|Ezekiel 19:3]])
+- [[2 Kings 24]] — 2 footnote cross-references (from [[Ezekiel 19#^ezek-19-8|Ezekiel 19:8]])
+- [[Ezekiel 17]] — 2 footnote cross-references (from [[Ezekiel 19#^ezek-19-12|Ezekiel 19:12]])
+- [[Jeremiah 7]] — 1 footnote cross-reference (from [[Ezekiel 19#^ezek-19-1|Ezekiel 19:1]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[Ezekiel 19#^ezek-19-2|Ezekiel 19:2]])
+- [[2 Kings 23]] — 1 footnote cross-reference (from [[Ezekiel 19#^ezek-19-4|Ezekiel 19:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

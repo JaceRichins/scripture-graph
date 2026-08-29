@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 6
 slug: 3ne-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 6]] · My notes: [[3 Nephi 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites prosper—Pride, wealth, and class distinctions arise—The Church is rent with dissensions—Satan leads the people in open rebellion—Many prophets cry repentance and are slain—Their murderers conspire to take over the government. About A.D. 26–30.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 3]] — 3 footnote cross-references (from [[3 Nephi 6#^3ne-6-1|3 Nephi 6:1]])
+- [[Helaman 6]] — 3 footnote cross-references (from [[3 Nephi 6#^3ne-6-11|3 Nephi 6:11]])
+- [[3 Nephi 7]] — 2 footnote cross-references (from [[3 Nephi 6#^3ne-6-23|3 Nephi 6:23]])
+- [[3 Nephi 4]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]])
+- [[3 Nephi 5]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]])
+- [[3 Nephi 8]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-8|3 Nephi 6:8]])
 - [[Alma 46]] — 4 parallel verses, e.g. [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]] ↔ [[Alma 46#^alma-46-31|Alma 46:31]]
 - [[Alma 4]] — 2 parallel verses, e.g. [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
 - [[Mosiah 19]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]] ↔ [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]]

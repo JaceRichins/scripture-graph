@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 10
 slug: 3ne-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 10]] · My notes: [[3 Nephi 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> There is silence in the land for many hours—The voice of Christ promises to gather His people as a hen gathers her chickens—The more righteous part of the people have been preserved. About A.D. 34–35.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 19]] — 4 footnote cross-references (from [[3 Nephi 10#^3ne-10-1|3 Nephi 10:1]])
+- [[3 Nephi 8]] — 3 footnote cross-references (from [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]])
+- [[3 Nephi 9]] — 3 footnote cross-references (from [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]])
+- [[Helaman 14]] — 2 footnote cross-references (from [[3 Nephi 10#^3ne-10-9|3 Nephi 10:9]])
+- [[2 Nephi 26]] — 2 footnote cross-references (from [[3 Nephi 10#^3ne-10-12|3 Nephi 10:12]])
+- [[Helaman 7]] — 1 footnote cross-reference (from [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]])
 - [[Matthew 23]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
 - [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-6|3 Nephi 10:6]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
 - [[D&C 43]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-5|3 Nephi 10:5]] ↔ [[D&C 43#^dc-43-24|D&C 43:24]]

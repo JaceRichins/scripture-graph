@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 22
 slug: mosiah-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 22]] · My notes: [[Mosiah 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Plans are made for the people to escape from Lamanite bondage—The Lamanites are made drunk—The people escape, return to Zarahemla, and become subject to King Mosiah. About 121–120 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 7]] — 2 footnote cross-references (from [[Mosiah 22#^mosiah-22-1|Mosiah 22:1]])
+- [[Mosiah 19]] — 2 footnote cross-references (from [[Mosiah 22#^mosiah-22-6|Mosiah 22:6]])
+- [[Mosiah 25]] — 2 footnote cross-references (from [[Mosiah 22#^mosiah-22-11|Mosiah 22:11]])
+- [[Mosiah 8]] — 2 footnote cross-references (from [[Mosiah 22#^mosiah-22-14|Mosiah 22:14]])
+- [[Mosiah 20]] — 1 footnote cross-reference (from [[Mosiah 22#^mosiah-22-3|Mosiah 22:3]])
+- [[Alma 1]] — 1 footnote cross-reference (from [[Mosiah 22#^mosiah-22-3|Mosiah 22:3]])
 - [[Mosiah 24]] — 2 parallel verses, e.g. [[Mosiah 22#^mosiah-22-13|Mosiah 22:13]] ↔ [[Mosiah 24#^mosiah-24-25|Mosiah 24:25]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Mosiah 22#^mosiah-22-14|Mosiah 22:14]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
 <!-- SG:END related-scriptures -->

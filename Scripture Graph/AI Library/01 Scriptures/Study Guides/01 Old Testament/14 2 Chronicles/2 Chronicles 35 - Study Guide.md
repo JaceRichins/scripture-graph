@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 35
 slug: 2chr-35
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[1 Chronicles 24]] — 1 footnote cross-reference (from [[2 Chronicles 35#^2chr-35-4|2 Chronicles 35:4]])
 - [[2 Chronicles 30]] — 4 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-1|2 Chronicles 35:1]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Kings 15#^2kgs-15-11|2 Kings 15:11]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-1|2 Chronicles 35:1]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
 - [[Ezra 6]] — 3 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[Ezra 6#^ezra-6-18|Ezra 6:18]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Numbers 4#^num-4-45|Numbers 4:45]]
 - [[1 Chronicles 29]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]]
@@ -66,15 +67,14 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[2 Chronicles 28]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
-- [[Joshua 22]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
-- [[2 Chronicles 33]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]]
+- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Kings 23#^2kgs-23-21|2 Kings 23:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Passover]]
 - [[Law of Moses]]
 - [[Records and Sacred Writings]]
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*

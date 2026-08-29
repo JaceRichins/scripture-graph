@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 1
 slug: 2kgs-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 1]] · My notes: [[2 Kings 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ahaziah turns to Baalzebub to learn if he will live—Elijah prophesies Ahaziah’s death—Elijah calls down fire from heaven to consume the soldiers sent to apprehend him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 3]] — 2 footnote cross-references (from [[2 Kings 1#^2kgs-1-1|2 Kings 1:1]])
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[2 Kings 1#^2kgs-1-1|2 Kings 1:1]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[2 Kings 1#^2kgs-1-2|2 Kings 1:2]])
+- [[Mark 1]] — 1 footnote cross-reference (from [[2 Kings 1#^2kgs-1-8|2 Kings 1:8]])
+- [[Luke 9]] — 1 footnote cross-reference (from [[2 Kings 1#^2kgs-1-10|2 Kings 1:10]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[2 Kings 1#^2kgs-1-10|2 Kings 1:10]])
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]] ↔ [[2 Kings 15#^2kgs-15-21|2 Kings 15:21]]
 - [[1 Kings 16]] — 4 parallel verses, e.g. [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[1 Kings 15]] — 3 parallel verses, e.g. [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]] ↔ [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]]

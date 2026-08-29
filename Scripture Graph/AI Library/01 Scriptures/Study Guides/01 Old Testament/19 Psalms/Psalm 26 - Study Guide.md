@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 26
 slug: ps-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 26]] · My notes: [[Psalm 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says that he has walked in integrity and obedience—He loves the Lord’s house.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-4|Psalm 26:4]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-4|Psalm 26:4]])
+- [[Romans 12]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-4|Psalm 26:4]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-4|Psalm 26:4]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-5|Psalm 26:5]])
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Psalm 26#^ps-26-7|Psalm 26:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

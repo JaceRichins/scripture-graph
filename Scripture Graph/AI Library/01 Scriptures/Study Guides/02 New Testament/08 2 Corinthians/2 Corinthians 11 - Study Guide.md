@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 11]] · My notes: [[2 Corinthians 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Maintain the simplicity that is in Christ—Satan sends forth false apostles—Paul glories in his sufferings for Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,8 +41,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 9]] — 2 footnote cross-references (from [[2 Corinthians 11#^2cor-11-7|2 Corinthians 11:7]])
+- [[Philippians 3]] — 2 footnote cross-references (from [[2 Corinthians 11#^2cor-11-15|2 Corinthians 11:15]])
+- [[Acts 16]] — 2 footnote cross-references (from [[2 Corinthians 11#^2cor-11-23|2 Corinthians 11:23]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[2 Corinthians 11#^2cor-11-2|2 Corinthians 11:2]])
+- [[Genesis 3]] — 1 footnote cross-reference (from [[2 Corinthians 11#^2cor-11-3|2 Corinthians 11:3]])
+- [[Hebrews 13]] — 1 footnote cross-reference (from [[2 Corinthians 11#^2cor-11-3|2 Corinthians 11:3]])
 - [[1 Peter 1]] — 1 parallel verse, e.g. [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]] ↔ [[1 Peter 1#^1pet-1-3|1 Peter 1:3]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
+- [[1 Corinthians 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

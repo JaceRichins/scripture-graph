@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 50
 slug: isa-50
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 50]] · My notes: [[Isaiah 50 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks as the Messiah—He will have the tongue of the learned—He will give His back to the smiters—He will not be confounded—Compare 2 Nephi 7.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 26]] — 2 footnote cross-references (from [[Isaiah 50#^isa-50-5|Isaiah 50:5]])
+- [[Isaiah 51]] — 2 footnote cross-references (from [[Isaiah 50#^isa-50-9|Isaiah 50:9]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Isaiah 50#^isa-50-9|Isaiah 50:9]])
+- [[2 Nephi 7]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-1|Isaiah 50:1]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-1|Isaiah 50:1]])
+- [[Isaiah 59]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-2|Isaiah 50:2]])
 - [[2 Nephi 7]] — 12 parallel verses, e.g. [[Isaiah 50#^isa-50-7|Isaiah 50:7]] ↔ [[2 Nephi 7#^2ne-7-7|2 Nephi 7:7]]
 - [[D&C 133]] — 3 parallel verses, e.g. [[Isaiah 50#^isa-50-2|Isaiah 50:2]] ↔ [[D&C 133#^dc-133-68|D&C 133:68]]
 <!-- SG:END related-scriptures -->

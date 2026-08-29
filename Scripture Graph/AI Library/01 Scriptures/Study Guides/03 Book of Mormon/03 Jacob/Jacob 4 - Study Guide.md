@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 4
 slug: jacob-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 4]] · My notes: [[Jacob 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All the prophets worshiped the Father in the name of Christ—Abraham’s offering of Isaac was in similitude of God and His Only Begotten—Men should reconcile themselves to God through the Atonement—The Jews will reject the foundation stone. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 25]] — 4 footnote cross-references (from [[Jacob 4#^jacob-4-5|Jacob 4:5]])
+- [[Ether 12]] — 3 footnote cross-references (from [[Jacob 4#^jacob-4-1|Jacob 4:1]])
+- [[Romans 11]] — 3 footnote cross-references (from [[Jacob 4#^jacob-4-8|Jacob 4:8]])
+- [[D&C 3]] — 3 footnote cross-references (from [[Jacob 4#^jacob-4-8|Jacob 4:8]])
+- [[Jarom 1]] — 2 footnote cross-references (from [[Jacob 4#^jacob-4-1|Jacob 4:1]])
+- [[Jacob 7]] — 2 footnote cross-references (from [[Jacob 4#^jacob-4-4|Jacob 4:4]])
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Jacob 4#^jacob-4-15|Jacob 4:15]] ↔ [[2 Nephi 1#^2ne-1-6|2 Nephi 1:6]]
 - [[D&C 76]] — 1 parallel verse, e.g. [[Jacob 4#^jacob-4-8|Jacob 4:8]] ↔ [[D&C 76#^dc-76-114|D&C 76:114]]
 <!-- SG:END related-scriptures -->

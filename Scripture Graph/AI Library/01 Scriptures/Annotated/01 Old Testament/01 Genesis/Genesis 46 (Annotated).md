@@ -37,12 +37,13 @@ cssclasses:
 > [[Genesis 37#^gen-37-35|Gen. 37:35]]
 
 ![[Genesis 46#^gen-46-8]]
-> [[Exodus 1#^ex-1-1|Ex. 1:1 (1–5)]] · [[Exodus 6#^ex-6-14|6:14 (14–25)]] · [[Alma 46#^alma-46-23|Alma 46:23]] · [[3 Nephi 5#^3ne-5-24|3 Ne. 5:24]] · [[Mormon 7#^morm-7-10|Morm. 7:10]] · [[Numbers 3#^num-3-2|≈ Numbers 3:2]] · [[Numbers 3#^num-3-18|≈ Numbers 3:18]] · [[Exodus 1#^ex-1-1|≈ Exodus 1:1]]
+> [[Exodus 1#^ex-1-1|Ex. 1:1 (1–5)]] · [[Exodus 6#^ex-6-14|6:14 (14–25)]] · [[Alma 46#^alma-46-23|Alma 46:23]] · [[3 Nephi 5#^3ne-5-24|3 Ne. 5:24]] · [[Mormon 7#^morm-7-10|Morm. 7:10]] · [[Numbers 3#^num-3-2|≈ Numbers 3:2]] · [[Numbers 3#^num-3-18|≈ Numbers 3:18]] · [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Exodus 1#^ex-1-1|≈ Exodus 1:1]]
 
 ![[Genesis 46#^gen-46-9]]
 > [[Numbers 26#^num-26-5|Num. 26:5 (5–7)]]
 
 ![[Genesis 46#^gen-46-10]]
+> [[Exodus 6#^ex-6-15|≈ Exodus 6:15]]
 
 ![[Genesis 46#^gen-46-11]]
 > [[1 Chronicles 6#^1chr-6-1|1 Chr. 6:1]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 22
 slug: 3ne-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 22]] · My notes: [[3 Nephi 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Zion and her stakes will be established, and Israel will be gathered in mercy and tenderness—They will triumph—Compare Isaiah 54. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 54]] — 2 footnote cross-references (from [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[3 Nephi 22#^3ne-22-13|3 Nephi 22:13]])
+- [[Isaiah 49]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]])
+- [[Obadiah 1]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
+- [[2 Nephi 6]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
 - [[Isaiah 54]] — 17 parallel verses, e.g. [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]] ↔ [[Isaiah 54#^isa-54-1|Isaiah 54:1]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
 <!-- SG:END related-scriptures -->

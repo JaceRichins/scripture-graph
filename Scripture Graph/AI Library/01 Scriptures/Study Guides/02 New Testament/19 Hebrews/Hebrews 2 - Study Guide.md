@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 2
 slug: heb-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 2]] · My notes: [[Hebrews 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus came to suffer death and save men—He came to make reconciliation for the sins of the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 21]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-1|Hebrews 2:1]])
+- [[Hebrews 10]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-3|Hebrews 2:3]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-3|Hebrews 2:3]])
+- [[Acts 5]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-4|Hebrews 2:4]])
+- [[Psalm 8]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-6|Hebrews 2:6]])
+- [[Matthew 28]] — 1 footnote cross-reference (from [[Hebrews 2#^heb-2-8|Hebrews 2:8]])
 - [[Psalm 8]] — 2 parallel verses, e.g. [[Hebrews 2#^heb-2-6|Hebrews 2:6]] ↔ [[Psalm 8#^ps-8-4|Psalm 8:4]]
 - [[Psalm 22]] — 1 parallel verse, e.g. [[Hebrews 2#^heb-2-12|Hebrews 2:12]] ↔ [[Psalm 22#^ps-22-22|Psalm 22:22]]
 - [[Psalm 144]] — 1 parallel verse, e.g. [[Hebrews 2#^heb-2-6|Hebrews 2:6]] ↔ [[Psalm 144#^ps-144-3|Psalm 144:3]]

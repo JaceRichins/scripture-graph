@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 2
 slug: hosea-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 2]] · My notes: [[Hosea 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Worshipping false gods brings severe judgments upon Israel—In the last days, Israel will be reconciled to God and become His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 16]] — 4 footnote cross-references (from [[Hosea 2#^hosea-2-3|Hosea 2:3]])
+- [[Lamentations 1]] — 2 footnote cross-references (from [[Hosea 2#^hosea-2-10|Hosea 2:10]])
+- [[Isaiah 50]] — 1 footnote cross-reference (from [[Hosea 2#^hosea-2-2|Hosea 2:2]])
+- [[Jeremiah 13]] — 1 footnote cross-reference (from [[Hosea 2#^hosea-2-3|Hosea 2:3]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[Hosea 2#^hosea-2-3|Hosea 2:3]])
+- [[Jeremiah 44]] — 1 footnote cross-reference (from [[Hosea 2#^hosea-2-5|Hosea 2:5]])
 - [[Hosea 4]] — 1 parallel verse, e.g. [[Hosea 2#^hosea-2-18|Hosea 2:18]] ↔ [[Hosea 4#^hosea-4-3|Hosea 4:3]]
 <!-- SG:END related-scriptures -->
 

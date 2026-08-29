@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 5|Plain text]] · [[Mark 5 - Study Guide|Study guide]] · [[Mark 5 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus casts out a legion of devils, who then enter the swine—A woman is healed by touching Jesus’ clothes—He raises Jairus’s daughter from the dead.
+
 ![[Mark 5#^mark-5-1]]
 > [[Luke 8#^luke-8-22|≈ Luke 8:22]]
 
@@ -46,7 +49,7 @@ cssclasses:
 > [[Luke 8#^luke-8-34|≈ Luke 8:34]]
 
 ![[Mark 5#^mark-5-15]]
-> [[Luke 8#^luke-8-35|≈ Luke 8:35]]
+> [[1 Nephi 11#^1ne-11-31|1 Ne. 11:31]] · [[Mormon 9#^morm-9-24|Morm. 9:24]] · [[Luke 8#^luke-8-35|≈ Luke 8:35]]
 
 ![[Mark 5#^mark-5-16]]
 
@@ -58,6 +61,7 @@ cssclasses:
 ![[Mark 5#^mark-5-19]]
 
 ![[Mark 5#^mark-5-20]]
+> [[Luke 8#^luke-8-39|Luke 8:39]]
 
 ![[Mark 5#^mark-5-21]]
 
@@ -72,12 +76,14 @@ cssclasses:
 ![[Mark 5#^mark-5-26]]
 
 ![[Mark 5#^mark-5-27]]
+> [[Matthew 14#^matt-14-36|Matt. 14:36]]
 
 ![[Mark 5#^mark-5-28]]
 
 ![[Mark 5#^mark-5-29]]
 
 ![[Mark 5#^mark-5-30]]
+> [[Luke 6#^luke-6-17|Luke 6:19 (17–19)]] · [[Luke 8#^luke-8-41|8:46 (41–48)]]
 
 ![[Mark 5#^mark-5-31]]
 > [[Luke 8#^luke-8-45|≈ Luke 8:45]]
@@ -87,7 +93,7 @@ cssclasses:
 ![[Mark 5#^mark-5-33]]
 
 ![[Mark 5#^mark-5-34]]
-> [[Luke 8#^luke-8-48|≈ Luke 8:48]]
+> [[Helaman 15#^hel-15-9|Hel. 15:9 (9–10)]] · [[D&C 46#^dc-46-19|D&amp;C 46:19]] · [[Luke 8#^luke-8-48|≈ Luke 8:48]]
 
 ![[Mark 5#^mark-5-35]]
 > [[Luke 8#^luke-8-49|≈ Luke 8:49]]

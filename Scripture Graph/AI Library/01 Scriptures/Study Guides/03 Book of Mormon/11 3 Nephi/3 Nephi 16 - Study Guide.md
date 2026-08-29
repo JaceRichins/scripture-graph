@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 16
 slug: 3ne-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 16]] · My notes: [[3 Nephi 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus will visit others of the lost sheep of Israel—In the latter days the gospel will go to the Gentiles and then to the house of Israel—The Lord’s people will see eye to eye when He brings again Zion. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 20]] — 9 footnote cross-references (from [[3 Nephi 16#^3ne-16-4|3 Nephi 16:4]])
+- [[3 Nephi 21]] — 4 footnote cross-references (from [[3 Nephi 16#^3ne-16-4|3 Nephi 16:4]])
+- [[3 Nephi 15]] — 3 footnote cross-references (from [[3 Nephi 16#^3ne-16-1|3 Nephi 16:1]])
+- [[1 Nephi 19]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-1|3 Nephi 16:1]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]])
+- [[1 Nephi 13]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-6|3 Nephi 16:6]])
 - [[Isaiah 52]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Isaiah 52#^isa-52-8|Isaiah 52:8]]
 - [[Mosiah 12]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Mosiah 12#^mosiah-12-22|Mosiah 12:22]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]

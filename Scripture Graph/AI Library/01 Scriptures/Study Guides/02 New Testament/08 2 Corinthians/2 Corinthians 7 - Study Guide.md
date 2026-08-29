@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 7
 slug: 2cor-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 7]] · My notes: [[2 Corinthians 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Godly sorrow for sin leads to repentance—The sorrow of the world leads to death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-2|2 Corinthians 7:2]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-4|2 Corinthians 7:4]])
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-5|2 Corinthians 7:5]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-5|2 Corinthians 7:5]])
+- [[Ecclesiastes 7]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-10|2 Corinthians 7:10]])
+- [[Isaiah 22]] — 1 footnote cross-reference (from [[2 Corinthians 7#^2cor-7-10|2 Corinthians 7:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

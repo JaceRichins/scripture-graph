@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 15
 slug: jer-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 15]] · My notes: [[Jeremiah 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Judah will suffer death, the sword, famine, and captivity—They will be scattered into all the kingdoms of the earth—Jerusalem will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 29]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-3|Jeremiah 15:3]])
+- [[2 Kings 21]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-4|Jeremiah 15:4]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-4|Jeremiah 15:4]])
+- [[Jeremiah 51]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-7|Jeremiah 15:7]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-7|Jeremiah 15:7]])
+- [[Jeremiah 16]] — 1 footnote cross-reference (from [[Jeremiah 15#^jer-15-14|Jeremiah 15:14]])
 - [[Jeremiah 1]] — 2 parallel verses, e.g. [[Jeremiah 15#^jer-15-20|Jeremiah 15:20]] ↔ [[Jeremiah 1#^jer-1-19|Jeremiah 1:19]]
 - [[Jeremiah 43]] — 1 parallel verse, e.g. [[Jeremiah 15#^jer-15-2|Jeremiah 15:2]] ↔ [[Jeremiah 43#^jer-43-11|Jeremiah 43:11]]
 - [[Ezekiel 38]] — 1 parallel verse, e.g. [[Jeremiah 15#^jer-15-3|Jeremiah 15:3]] ↔ [[Ezekiel 38#^ezek-38-20|Ezekiel 38:20]]

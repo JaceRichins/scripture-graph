@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 57
 slug: isa-57
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 57]] · My notes: [[Isaiah 57 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> When the righteous die, they enter into peace—Mercy is promised to the penitent—There is no peace for the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 1]] — 2 footnote cross-references (from [[Isaiah 57#^isa-57-12|Isaiah 57:12]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[Isaiah 57#^isa-57-1|Isaiah 57:1]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Isaiah 57#^isa-57-4|Isaiah 57:4]])
+- [[1 Kings 14]] — 1 footnote cross-reference (from [[Isaiah 57#^isa-57-5|Isaiah 57:5]])
+- [[2 Kings 16]] — 1 footnote cross-reference (from [[Isaiah 57#^isa-57-5|Isaiah 57:5]])
+- [[Jeremiah 7]] — 1 footnote cross-reference (from [[Isaiah 57#^isa-57-5|Isaiah 57:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

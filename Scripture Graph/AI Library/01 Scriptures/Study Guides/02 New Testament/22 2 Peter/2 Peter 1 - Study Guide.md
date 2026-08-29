@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Peter 1]] · My notes: [[2 Peter 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peter urges the Saints to make their calling and election sure—Prophecy comes by the power of the Holy Ghost.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 107]] — 2 footnote cross-references (from [[2 Peter 1#^2pet-1-1|2 Peter 1:1]])
+- [[D&C 76]] — 2 footnote cross-references (from [[2 Peter 1#^2pet-1-2|2 Peter 1:2]])
+- [[D&C 93]] — 2 footnote cross-references (from [[2 Peter 1#^2pet-1-4|2 Peter 1:4]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-3|2 Peter 1:3]])
+- [[1 Samuel 10]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-4|2 Peter 1:4]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-4|2 Peter 1:4]])
 - [[Matthew 3]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Matthew 3#^matt-3-17|Matthew 3:17]]
 - [[Matthew 17]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]

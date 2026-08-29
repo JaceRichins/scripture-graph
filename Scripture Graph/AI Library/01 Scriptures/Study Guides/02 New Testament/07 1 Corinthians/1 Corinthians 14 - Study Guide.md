@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 14]] · My notes: [[1 Corinthians 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> People should desire spiritual gifts—Tongues and prophecy are compared—Prophecy is the greater gift—Paul says, You may all prophesy; covet to prophesy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 4]] — 3 footnote cross-references (from [[1 Corinthians 14#^1cor-14-20|1 Corinthians 14:20]])
+- [[Acts 2]] — 2 footnote cross-references (from [[1 Corinthians 14#^1cor-14-22|1 Corinthians 14:22]])
+- [[D&C 46]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-12|1 Corinthians 14:12]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-20|1 Corinthians 14:20]])
+- [[Hebrews 4]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-25|1 Corinthians 14:25]])
+- [[2 Corinthians 12]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-26|1 Corinthians 14:26]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

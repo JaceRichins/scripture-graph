@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 12
 slug: 2ne-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 12]] · My notes: [[2 Nephi 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah sees the latter-day temple, gathering of Israel, and millennial judgment and peace—The proud and wicked will be brought low at the Second Coming—Compare Isaiah 2. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 2]] — 2 footnote cross-references (from [[2 Nephi 12#^2ne-12-1|2 Nephi 12:1]])
+- [[D&C 133]] — 2 footnote cross-references (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
+- [[3 Nephi 24]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
+- [[D&C 49]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
 - [[Isaiah 2]] — 26 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Isaiah 2#^isa-2-3|Isaiah 2:3]]
 - [[Micah 4]] — 3 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Micah 4#^micah-4-2|Micah 4:2]]
 - [[Isaiah 31]] — 1 parallel verse, e.g. [[2 Nephi 12#^2ne-12-20|2 Nephi 12:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 12
 slug: rev-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 12]] · My notes: [[Revelation 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John sees the imminent apostasy of the Church—He also sees the War in Heaven in the beginning when Satan was cast out—He sees the continuation of that war on earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,10 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 8]] — 2 parallel verses, e.g. [[Revelation 12#^rev-12-12|Revelation 12:12]] ↔ [[Revelation 8#^rev-8-13|Revelation 8:13]]
-- [[Numbers 16]] — 1 parallel verse, e.g. [[Revelation 12#^rev-12-16|Revelation 12:16]] ↔ [[Numbers 16#^num-16-32|Numbers 16:32]]
-- [[Numbers 26]] — 1 parallel verse, e.g. [[Revelation 12#^rev-12-16|Revelation 12:16]] ↔ [[Numbers 26#^num-26-10|Numbers 26:10]]
-- [[Ether 13]] — 2 parallel verses, e.g. [[Revelation 12#^rev-12-11|Revelation 12:11]] ↔ [[Ether 13#^ether-13-10|Ether 13:10]]
+- [[Daniel 7]] — 2 footnote cross-references (from [[Revelation 12#^rev-12-13|Revelation 12:13]])
+- [[D&C 5]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-1|Revelation 12:1]])
+- [[Isaiah 66]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-2|Revelation 12:2]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-4|Revelation 12:4]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-5|Revelation 12:5]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-6|Revelation 12:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

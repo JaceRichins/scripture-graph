@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 3]] · My notes: [[1 Corinthians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Milk comes before meat in the Church—Men’s works will be tried by fire—The Saints are the temple of God, and if they are faithful, they will inherit all things.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 2 footnote cross-references (from [[1 Corinthians 3#^1cor-3-21|1 Corinthians 3:21]])
+- [[Hebrews 5]] — 1 footnote cross-reference (from [[1 Corinthians 3#^1cor-3-2|1 Corinthians 3:2]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[1 Corinthians 3#^1cor-3-2|1 Corinthians 3:2]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[1 Corinthians 3#^1cor-3-2|1 Corinthians 3:2]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[1 Corinthians 3#^1cor-3-2|1 Corinthians 3:2]])
+- [[2 Corinthians 3]] — 1 footnote cross-reference (from [[1 Corinthians 3#^1cor-3-5|1 Corinthians 3:5]])
 - [[D&C 76]] — 2 parallel verses, e.g. [[1 Corinthians 3#^1cor-3-22|1 Corinthians 3:22]] ↔ [[D&C 76#^dc-76-59|D&C 76:59]]
 <!-- SG:END related-scriptures -->
 

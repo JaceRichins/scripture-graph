@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 16
 slug: hel-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 16]] · My notes: [[Helaman 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites who believe Samuel are baptized by Nephi—Samuel cannot be slain with the arrows and stones of the unrepentant Nephites—Some harden their hearts, and others see angels—The unbelievers say it is not reasonable to believe in Christ and His coming in Jerusalem. About 6–1 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 13]] — 3 footnote cross-references (from [[Helaman 16#^hel-16-1|Helaman 16:1]])
+- [[Helaman 14]] — 2 footnote cross-references (from [[Helaman 16#^hel-16-4|Helaman 16:4]])
+- [[3 Nephi 1]] — 2 footnote cross-references (from [[Helaman 16#^hel-16-6|Helaman 16:6]])
+- [[Alma 30]] — 2 footnote cross-references (from [[Helaman 16#^hel-16-18|Helaman 16:18]])
+- [[Alma 9]] — 1 footnote cross-reference (from [[Helaman 16#^hel-16-1|Helaman 16:1]])
+- [[Proverbs 29]] — 1 footnote cross-reference (from [[Helaman 16#^hel-16-2|Helaman 16:2]])
 - [[Helaman 14]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-18|Helaman 16:18]] ↔ [[Helaman 14#^hel-14-12|Helaman 14:12]]
 - [[Alma 17]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-2|Helaman 16:2]] ↔ [[Alma 17#^alma-17-36|Alma 17:36]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Helaman 16#^hel-16-15|Helaman 16:15]] ↔ [[Helaman 11#^hel-11-32|Helaman 11:32]]

@@ -31,13 +31,13 @@ cssclasses:
 > [[Moroni 7#^moro-7-6|Moro. 7:6]] · [[Leviticus 22#^lev-22-21|≈ Leviticus 22:21]] · [[Numbers 6#^num-6-17|≈ Numbers 6:17]]
 
 ![[Leviticus 19#^lev-19-6]]
-> [[Leviticus 6#^lev-6-30|≈ Leviticus 6:30]]
+> [[Leviticus 7#^lev-7-16|≈ Leviticus 7:16]] · [[Leviticus 6#^lev-6-30|≈ Leviticus 6:30]]
 
 ![[Leviticus 19#^lev-19-7]]
-> [[Leviticus 7#^lev-7-18|Lev. 7:18]] · [[Ezekiel 4#^ezek-4-14|Ezek. 4:14]]
+> [[Leviticus 7#^lev-7-18|Lev. 7:18]] · [[Ezekiel 4#^ezek-4-14|Ezek. 4:14]] · [[Leviticus 7#^lev-7-18|≈ Leviticus 7:18]]
 
 ![[Leviticus 19#^lev-19-8]]
-> [[Leviticus 5#^lev-5-1|Lev. 5:1 (1–6)]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Numbers 9#^num-9-13|≈ Numbers 9:13]] · [[Leviticus 23#^lev-23-29|≈ Leviticus 23:29]]
+> [[Leviticus 5#^lev-5-1|Lev. 5:1 (1–6)]] · [[Leviticus 7#^lev-7-20|≈ Leviticus 7:20]] · [[Leviticus 7#^lev-7-21|≈ Leviticus 7:21]] · [[Leviticus 7#^lev-7-27|≈ Leviticus 7:27]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]]
 
 ![[Leviticus 19#^lev-19-9]]
 > [[Ruth 2#^ruth-2-2|Ruth 2:2 (2, 12)]] · [[Ruth 2#^ruth-2-2|Ruth 2:8 (2–9)]] · [[Mosiah 4#^mosiah-4-26|Mosiah 4:26]] · [[D&C 42#^dc-42-31|D&amp;C 42:31]] · [[Leviticus 23#^lev-23-22|≈ Leviticus 23:22]]

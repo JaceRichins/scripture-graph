@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 27
 slug: gen-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 27]] · My notes: [[Genesis 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Rebekah guides Jacob in seeking blessings—Jacob is blessed to have dominion and rule over peoples and nations—Esau hates Jacob and plans to slay him—Rebekah fears that Jacob may marry one of the daughters of Heth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 25]] — 6 footnote cross-references (from [[Genesis 27#^gen-27-3|Genesis 27:3]])
+- [[Genesis 48]] — 2 footnote cross-references (from [[Genesis 27#^gen-27-1|Genesis 27:1]])
+- [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 27#^gen-27-43|Genesis 27:43]])
+- [[Alma 49]] — 1 footnote cross-reference (from [[Genesis 27#^gen-27-16|Genesis 27:16]])
+- [[Moses 4]] — 1 footnote cross-reference (from [[Genesis 27#^gen-27-16|Genesis 27:16]])
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 27#^gen-27-27|Genesis 27:27]])
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 27#^gen-27-18|Genesis 27:18]] ↔ [[Genesis 22#^gen-22-7|Genesis 22:7]]
 - [[Genesis 28]] — 2 parallel verses, e.g. [[Genesis 27#^gen-27-46|Genesis 27:46]] ↔ [[Genesis 28#^gen-28-1|Genesis 28:1]]
 <!-- SG:END related-scriptures -->

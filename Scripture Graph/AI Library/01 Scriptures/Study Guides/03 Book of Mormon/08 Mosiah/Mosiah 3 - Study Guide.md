@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 3
 slug: mosiah-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 3]] · My notes: [[Mosiah 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Benjamin continues his address—The Lord Omnipotent will minister among men in a tabernacle of clay—Blood will come from every pore as He atones for the sins of the world—His is the only name whereby salvation comes—Men can put off the natural man and become Saints through the Atonement—The torment of the wicked will be as a lake of fire and brimstone. About 124 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 16]] — 4 footnote cross-references (from [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]])
+- [[1 Nephi 11]] — 4 footnote cross-references (from [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]])
+- [[Mosiah 4]] — 3 footnote cross-references (from [[Mosiah 3#^mosiah-3-2|Mosiah 3:2]])
+- [[Mosiah 15]] — 3 footnote cross-references (from [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]])
+- [[3 Nephi 9]] — 3 footnote cross-references (from [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[Mosiah 3#^mosiah-3-10|Mosiah 3:10]])
 - [[Helaman 14]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]] ↔ [[Helaman 14#^hel-14-12|Helaman 14:12]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]] ↔ [[Jacob 6#^jacob-6-10|Jacob 6:10]]
 - [[4 Nephi 1]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]] ↔ [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]]

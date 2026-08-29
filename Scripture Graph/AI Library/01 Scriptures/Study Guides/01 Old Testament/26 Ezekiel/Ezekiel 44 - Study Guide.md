@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 44
 slug: ezek-44
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 44]] · My notes: [[Ezekiel 44 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The glory of the Lord fills the house of the Lord—No strangers may enter the sanctuary—The services of the priests in the temple are explained.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 40]] — 4 footnote cross-references (from [[Ezekiel 44#^ezek-44-1|Ezekiel 44:1]])
+- [[Ezekiel 43]] — 4 footnote cross-references (from [[Ezekiel 44#^ezek-44-1|Ezekiel 44:1]])
+- [[Ezekiel 45]] — 3 footnote cross-references (from [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]])
+- [[Leviticus 21]] — 3 footnote cross-references (from [[Ezekiel 44#^ezek-44-20|Ezekiel 44:20]])
+- [[Ezekiel 42]] — 2 footnote cross-references (from [[Ezekiel 44#^ezek-44-1|Ezekiel 44:1]])
+- [[Ezekiel 48]] — 2 footnote cross-references (from [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]])
 - [[Ezekiel 46]] — 3 parallel verses, e.g. [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]] ↔ [[Ezekiel 46#^ezek-46-2|Ezekiel 46:2]]
 - [[Ezekiel 40]] — 3 parallel verses, e.g. [[Ezekiel 44#^ezek-44-5|Ezekiel 44:5]] ↔ [[Ezekiel 40#^ezek-40-4|Ezekiel 40:4]]
 - [[Ezekiel 42]] — 1 parallel verse, e.g. [[Ezekiel 44#^ezek-44-29|Ezekiel 44:29]] ↔ [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]]

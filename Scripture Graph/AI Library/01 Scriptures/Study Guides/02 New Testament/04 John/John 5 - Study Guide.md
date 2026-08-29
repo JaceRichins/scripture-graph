@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 5
 slug: john-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 5]] · My notes: [[John 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus heals an invalid on the Sabbath—He explains why men must honor the Son—Jesus promises to take the gospel to the dead—Man is resurrected, judged, and assigned his glory by the Son—Jesus obeys the divine law of witnesses.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 7]] — 3 footnote cross-references (from [[John 5#^john-5-8|John 5:8]])
+- [[John 10]] — 2 footnote cross-references (from [[John 5#^john-5-18|John 5:18]])
+- [[John 8]] — 2 footnote cross-references (from [[John 5#^john-5-19|John 5:19]])
+- [[D&C 76]] — 2 footnote cross-references (from [[John 5#^john-5-28|John 5:28]])
+- [[Matthew 11]] — 2 footnote cross-references (from [[John 5#^john-5-35|John 5:35]])
+- [[Matthew 26]] — 1 footnote cross-reference (from [[John 5#^john-5-1|John 5:1]])
 - [[John 6]] — 3 parallel verses, e.g. [[John 5#^john-5-19|John 5:19]] ↔ [[John 6#^john-6-32|John 6:32]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 38
 slug: ps-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 38]] · My notes: [[Psalm 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David sorrows for his sins—They rest as a disease upon him—He asks the Lord to be compassionate.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 88]] — 1 footnote cross-reference (from [[Psalm 38#^ps-38-10|Psalm 38:10]])
+- [[Psalm 35]] — 1 footnote cross-reference (from [[Psalm 38#^ps-38-20|Psalm 38:20]])
 - [[Psalm 6]] — 1 parallel verse, e.g. [[Psalm 38#^ps-38-1|Psalm 38:1]] ↔ [[Psalm 6#^ps-6-1|Psalm 6:1]]
 <!-- SG:END related-scriptures -->
 

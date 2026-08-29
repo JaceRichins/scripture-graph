@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 43
 slug: gen-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 43]] · My notes: [[Genesis 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob is persuaded to send Benjamin to Egypt—Joseph’s brothers show respect to him—They all eat and drink together.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,12 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 44]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-9|Genesis 43:9]] ↔ [[Genesis 44#^gen-44-32|Genesis 44:32]]
-- [[Joshua 5]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-2|Genesis 43:2]] ↔ [[Joshua 5#^josh-5-8|Joshua 5:8]]
-- [[Judges 19]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-19|Genesis 43:19]] ↔ [[Judges 19#^judg-19-27|Judges 19:27]]
-- [[Genesis 19]] — 2 parallel verses, e.g. [[Genesis 43#^gen-43-2|Genesis 43:2]] ↔ [[Genesis 19#^gen-19-17|Genesis 19:17]]
-- [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 43#^gen-43-29|Genesis 43:29]] ↔ [[Genesis 24#^gen-24-63|Genesis 24:63]]
-- [[Genesis 33]] — 1 parallel verse, e.g. [[Genesis 43#^gen-43-29|Genesis 43:29]] ↔ [[Genesis 33#^gen-33-5|Genesis 33:5]]
+- [[Genesis 42]] — 6 footnote cross-references (from [[Genesis 43#^gen-43-12|Genesis 43:12]])
+- [[Genesis 44]] — 5 footnote cross-references (from [[Genesis 43#^gen-43-3|Genesis 43:3]])
+- [[Genesis 45]] — 2 footnote cross-references (from [[Genesis 43#^gen-43-30|Genesis 43:30]])
+- [[Genesis 37]] — 1 footnote cross-reference (from [[Genesis 43#^gen-43-26|Genesis 43:26]])
+- [[Genesis 35]] — 1 footnote cross-reference (from [[Genesis 43#^gen-43-29|Genesis 43:29]])
+- [[Genesis 46]] — 1 footnote cross-reference (from [[Genesis 43#^gen-43-32|Genesis 43:32]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 36
 slug: job-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 36]] · My notes: [[Job 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elihu says, Those who are righteous are prospered—The wicked perish and die without knowledge—Elihu praises the greatness of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting

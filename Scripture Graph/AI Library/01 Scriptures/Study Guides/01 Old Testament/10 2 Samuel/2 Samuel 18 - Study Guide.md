@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 18
 slug: 2sam-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 18]] · My notes: [[2 Samuel 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Israelites are smitten in the woods of Ephraim—Joab slays Absalom—Tidings of his death are taken to David, who mourns for his son.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 21]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-3|2 Samuel 18:3]])
+- [[1 Kings 2]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-5|2 Samuel 18:5]])
+- [[Joshua 17]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-6|2 Samuel 18:6]])
+- [[Genesis 14]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-18|2 Samuel 18:18]])
+- [[2 Samuel 14]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-18|2 Samuel 18:18]])
 - [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 18#^2sam-18-1|2 Samuel 18:1]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 1
 slug: mosiah-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 1]] · My notes: [[Mosiah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Benjamin teaches his sons the language and prophecies of their fathers—Their religion and civilization have been preserved because of the records kept on the various plates—Mosiah is chosen as king and is given custody of the records and other things. About 130–124 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 4 footnote cross-references (from [[Mosiah 1#^mosiah-1-1|Mosiah 1:1]])
+- [[1 Nephi 1]] — 3 footnote cross-references (from [[Mosiah 1#^mosiah-1-2|Mosiah 1:2]])
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]])
+- [[Mosiah 2]] — 3 footnote cross-references (from [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]])
+- [[Mormon 9]] — 2 footnote cross-references (from [[Mosiah 1#^mosiah-1-2|Mosiah 1:2]])
+- [[1 Nephi 3]] — 2 footnote cross-references (from [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]])
 - [[Mosiah 28]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
 - [[Mosiah 2]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]]
 - [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]]

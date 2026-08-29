@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 25
 slug: 2chr-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 25]] · My notes: [[2 Chronicles 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amaziah reigns, smites the Edomites, and worships false gods—A prophet foretells Amaziah’s destruction—Judah is defeated by Israel, and Amaziah is slain in a conspiracy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 60]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-8|2 Chronicles 25:8]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-15|2 Chronicles 25:15]])
+- [[2 Samuel 2]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-17|2 Chronicles 25:17]])
+- [[2 Chronicles 32]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-23|2 Chronicles 25:23]])
 - [[2 Kings 14]] — 18 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-18|2 Chronicles 25:18]] ↔ [[2 Kings 14#^2kgs-14-9|2 Kings 14:9]]
 - [[2 Kings 15]] — 9 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[Numbers 1]] — 14 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-5|2 Chronicles 25:5]] ↔ [[Numbers 1#^num-1-3|Numbers 1:3]]

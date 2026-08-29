@@ -29,7 +29,7 @@ cssclasses:
 ![[Numbers 8#^num-8-5]]
 
 ![[Numbers 8#^num-8-6]]
-> [[Numbers 18#^num-18-6|≈ Numbers 18:6]]
+> [[Numbers 3#^num-3-12|≈ Numbers 3:12]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]]
 
 ![[Numbers 8#^num-8-7]]
 > [[Nehemiah 12#^neh-12-30|Neh. 12:30]]
@@ -50,20 +50,21 @@ cssclasses:
 ![[Numbers 8#^num-8-13]]
 
 ![[Numbers 8#^num-8-14]]
-> [[Numbers 1#^num-1-53|≈ Numbers 1:53]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]]
+> [[Numbers 1#^num-1-53|≈ Numbers 1:53]] · [[Numbers 3#^num-3-12|≈ Numbers 3:12]] · [[Numbers 3#^num-3-45|≈ Numbers 3:45]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]]
 
 ![[Numbers 8#^num-8-15]]
-> [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 16#^num-16-9|≈ Numbers 16:9]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]]
+> [[Numbers 3#^num-3-8|≈ Numbers 3:8]] · [[Numbers 3#^num-3-7|≈ Numbers 3:7]] · [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 16#^num-16-9|≈ Numbers 16:9]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]]
 
 ![[Numbers 8#^num-8-16]]
+> [[Numbers 3#^num-3-12|≈ Numbers 3:12]]
 
 ![[Numbers 8#^num-8-17]]
-> [[Exodus 12#^ex-12-29|Ex. 12:29]]
+> [[Exodus 12#^ex-12-29|Ex. 12:29]] · [[Numbers 3#^num-3-13|≈ Numbers 3:13]]
 
 ![[Numbers 8#^num-8-18]]
 
 ![[Numbers 8#^num-8-19]]
-> [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Numbers 25#^num-25-13|≈ Numbers 25:13]] · [[Numbers 4#^num-4-47|≈ Numbers 4:47]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]] · [[Leviticus 16#^lev-16-34|≈ Leviticus 16:34]]
+> [[Numbers 3#^num-3-8|≈ Numbers 3:8]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Numbers 25#^num-25-13|≈ Numbers 25:13]] · [[Numbers 4#^num-4-47|≈ Numbers 4:47]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]]
 
 ![[Numbers 8#^num-8-20]]
 > [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Exodus 16#^ex-16-1|≈ Exodus 16:1]] · [[Exodus 16#^ex-16-9|≈ Exodus 16:9]] · [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]]

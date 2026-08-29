@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 10
 slug: luke-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 10]] · My notes: [[Luke 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus calls, empowers, and instructs the Seventy—They preach and heal—Those who receive Christ’s disciples receive Christ—The Father is revealed by the Son—Jesus gives the parable of the good Samaritan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 10]] — 5 footnote cross-references (from [[Luke 10#^luke-10-3|Luke 10:3]])
+- [[Mark 6]] — 2 footnote cross-references (from [[Luke 10#^luke-10-1|Luke 10:1]])
+- [[Matthew 11]] — 2 footnote cross-references (from [[Luke 10#^luke-10-21|Luke 10:21]])
+- [[Matthew 9]] — 1 footnote cross-reference (from [[Luke 10#^luke-10-2|Luke 10:2]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[Luke 10#^luke-10-4|Luke 10:4]])
+- [[1 Samuel 25]] — 1 footnote cross-reference (from [[Luke 10#^luke-10-5|Luke 10:5]])
 - [[Matthew 11]] — 6 parallel verses, e.g. [[Luke 10#^luke-10-21|Luke 10:21]] ↔ [[Matthew 11#^matt-11-25|Matthew 11:25]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Luke 10#^luke-10-24|Luke 10:24]] ↔ [[Matthew 13#^matt-13-17|Matthew 13:17]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Luke 10#^luke-10-27|Luke 10:27]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]

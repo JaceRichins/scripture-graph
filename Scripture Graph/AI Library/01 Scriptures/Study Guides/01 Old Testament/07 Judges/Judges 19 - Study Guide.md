@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 19
 slug: judg-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 19]] · My notes: [[Judges 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A Levite’s concubine returns to her father—Her husband takes her back, and they lodge overnight in Gibeah—The men of Gibeah abuse the concubine and she dies—The Levite husband cuts her into twelve pieces and sends them to the tribes of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 19]] — 2 footnote cross-references (from [[Judges 19#^judg-19-22|Judges 19:22]])
+- [[Judges 17]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-1|Judges 19:1]])
+- [[Hosea 9]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-14|Judges 19:14]])
+- [[Joshua 18]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-14|Judges 19:14]])
+- [[Judges 1]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-14|Judges 19:14]])
+- [[Joshua 20]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-16|Judges 19:16]])
 - [[1 Samuel 3]] — 1 parallel verse, e.g. [[Judges 19#^judg-19-27|Judges 19:27]] ↔ [[1 Samuel 3#^1sam-3-15|1 Samuel 3:15]]
 <!-- SG:END related-scriptures -->
 

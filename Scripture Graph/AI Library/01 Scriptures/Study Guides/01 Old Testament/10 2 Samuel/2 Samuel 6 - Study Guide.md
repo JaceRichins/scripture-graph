@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 6
 slug: 2sam-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 6]] · My notes: [[2 Samuel 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David takes the ark to the city of David—Uzzah is smitten for steadying the ark and dies—David dances before the Lord, causing a breach between him and Michal.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 15]] — 3 footnote cross-references (from [[2 Samuel 6#^2sam-6-5|2 Samuel 6:5]])
+- [[1 Chronicles 13]] — 2 footnote cross-references (from [[2 Samuel 6#^2sam-6-1|2 Samuel 6:1]])
+- [[1 Chronicles 16]] — 2 footnote cross-references (from [[2 Samuel 6#^2sam-6-18|2 Samuel 6:18]])
+- [[Genesis 31]] — 1 footnote cross-reference (from [[2 Samuel 6#^2sam-6-5|2 Samuel 6:5]])
+- [[Daniel 3]] — 1 footnote cross-reference (from [[2 Samuel 6#^2sam-6-5|2 Samuel 6:5]])
+- [[D&C 85]] — 1 footnote cross-reference (from [[2 Samuel 6#^2sam-6-6|2 Samuel 6:6]])
 - [[1 Chronicles 13]] — 6 parallel verses, e.g. [[2 Samuel 6#^2sam-6-8|2 Samuel 6:8]] ↔ [[1 Chronicles 13#^1chr-13-11|1 Chronicles 13:11]]
 - [[1 Chronicles 16]] — 3 parallel verses, e.g. [[2 Samuel 6#^2sam-6-19|2 Samuel 6:19]] ↔ [[1 Chronicles 16#^1chr-16-3|1 Chronicles 16:3]]
 - [[1 Chronicles 15]] — 2 parallel verses, e.g. [[2 Samuel 6#^2sam-6-15|2 Samuel 6:15]] ↔ [[1 Chronicles 15#^1chr-15-28|1 Chronicles 15:28]]

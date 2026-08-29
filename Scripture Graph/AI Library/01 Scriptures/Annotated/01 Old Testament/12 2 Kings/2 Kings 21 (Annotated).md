@@ -35,10 +35,10 @@ cssclasses:
 > [[Leviticus 18#^lev-18-21|Lev. 18:21]] · [[2 Chronicles 28#^2chr-28-3|2 Chr. 28:3]] · [[2 Chronicles 33#^2chr-33-6|33:6]] · [[Ezekiel 20#^ezek-20-26|Ezek. 20:26]] · [[Leviticus 19#^lev-19-26|Lev. 19:26]] · [[Deuteronomy 9#^deut-9-18|≈ Deuteronomy 9:18]] · [[Deuteronomy 31#^deut-31-29|≈ Deuteronomy 31:29]] · [[2 Chronicles 33#^2chr-33-6|≈ 2 Chronicles 33:6]] · [[2 Kings 17#^2kgs-17-17|≈ 2 Kings 17:17]]
 
 ![[2 Kings 21#^2kgs-21-7]]
-> [[1 Kings 11#^1kgs-11-32|≈ 1 Kings 11:32]] · [[2 Chronicles 33#^2chr-33-7|≈ 2 Chronicles 33:7]]
+> [[2 Chronicles 33#^2chr-33-7|≈ 2 Chronicles 33:7]] · [[1 Kings 11#^1kgs-11-32|≈ 1 Kings 11:32]]
 
 ![[2 Kings 21#^2kgs-21-8]]
-> [[Joshua 1#^josh-1-8|≈ Joshua 1:8]] · [[Joshua 1#^josh-1-7|≈ Joshua 1:7]] · [[1 Kings 9#^1kgs-9-4|≈ 1 Kings 9:4]] · [[2 Chronicles 33#^2chr-33-8|≈ 2 Chronicles 33:8]]
+> [[Joshua 1#^josh-1-8|≈ Joshua 1:8]] · [[Joshua 1#^josh-1-7|≈ Joshua 1:7]] · [[2 Chronicles 33#^2chr-33-8|≈ 2 Chronicles 33:8]] · [[1 Kings 9#^1kgs-9-4|≈ 1 Kings 9:4]]
 
 ![[2 Kings 21#^2kgs-21-9]]
 
@@ -61,10 +61,10 @@ cssclasses:
 > [[2 Kings 24#^2kgs-24-4|2 Kgs. 24:4]] · [[2 Kings 23#^2kgs-23-32|≈ 2 Kings 23:32]] · [[2 Kings 23#^2kgs-23-37|≈ 2 Kings 23:37]] · [[2 Kings 24#^2kgs-24-9|≈ 2 Kings 24:9]] · [[2 Kings 24#^2kgs-24-19|≈ 2 Kings 24:19]] · [[2 Chronicles 33#^2chr-33-2|≈ 2 Chronicles 33:2]] · [[2 Chronicles 33#^2chr-33-22|≈ 2 Chronicles 33:22]]
 
 ![[2 Kings 21#^2kgs-21-17]]
-> [[2 Chronicles 33#^2chr-33-11|2 Chr. 33:18 (11–19)]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]] · [[Esther 10#^esth-10-2|≈ Esther 10:2]] · [[2 Chronicles 25#^2chr-25-26|≈ 2 Chronicles 25:26]] · [[1 Kings 11#^1kgs-11-41|≈ 1 Kings 11:41]]
+> [[2 Chronicles 33#^2chr-33-11|2 Chr. 33:18 (11–19)]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]] · [[Esther 10#^esth-10-2|≈ Esther 10:2]] · [[2 Chronicles 33#^2chr-33-18|≈ 2 Chronicles 33:18]] · [[2 Chronicles 25#^2chr-25-26|≈ 2 Chronicles 25:26]]
 
 ![[2 Kings 21#^2kgs-21-18]]
-> [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]] · [[1 Kings 11#^1kgs-11-43|≈ 1 Kings 11:43]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]] · [[2 Chronicles 33#^2chr-33-20|≈ 2 Chronicles 33:20]] · [[1 Kings 14#^1kgs-14-31|≈ 1 Kings 14:31]]
+> [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Chronicles 33#^2chr-33-20|≈ 2 Chronicles 33:20]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]] · [[1 Kings 11#^1kgs-11-43|≈ 1 Kings 11:43]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]] · [[1 Kings 14#^1kgs-14-31|≈ 1 Kings 14:31]]
 
 ![[2 Kings 21#^2kgs-21-19]]
 > [[2 Chronicles 33#^2chr-33-21|2 Chr. 33:21 (21–25)]] · [[2 Kings 8#^2kgs-8-26|≈ 2 Kings 8:26]] · [[2 Kings 8#^2kgs-8-17|≈ 2 Kings 8:17]] · [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[2 Kings 24#^2kgs-24-18|≈ 2 Kings 24:18]]

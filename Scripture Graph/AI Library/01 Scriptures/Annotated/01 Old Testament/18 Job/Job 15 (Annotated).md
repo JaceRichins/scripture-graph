@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 15|Plain text]] · [[Job 15 - Study Guide|Study guide]] · [[Job 15 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Eliphaz sets forth the disquietude of wicked men—They do not believe they will return out of darkness and be resurrected.
+
 ![[Job 15#^job-15-1]]
 
 ![[Job 15#^job-15-2]]
@@ -40,6 +43,7 @@ cssclasses:
 ![[Job 15#^job-15-13]]
 
 ![[Job 15#^job-15-14]]
+> [[Ether 12#^ether-12-37|Ether 12:37]] · [[D&C 38#^dc-38-42|D&amp;C 38:42]]
 
 ![[Job 15#^job-15-15]]
 
@@ -82,3 +86,4 @@ cssclasses:
 ![[Job 15#^job-15-34]]
 
 ![[Job 15#^job-15-35]]
+> [[Psalm 7#^ps-7-14|Ps. 7:14]] · [[Isaiah 59#^isa-59-4|Isa. 59:4]]

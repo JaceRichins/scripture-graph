@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 5
 slug: 1thes-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Thessalonians 5]] · My notes: [[1 Thessalonians 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Romans 13]] — 2 footnote cross-references (from [[1 Thessalonians 5#^1thes-5-4|1 Thessalonians 5:4]])
+- [[1 Thessalonians 1]] — 2 footnote cross-references (from [[1 Thessalonians 5#^1thes-5-8|1 Thessalonians 5:8]])
+- [[D&C 106]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-2|1 Thessalonians 5:2]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-3|1 Thessalonians 5:3]])
+- [[Luke 17]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-4|1 Thessalonians 5:4]])
+- [[Luke 21]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-4|1 Thessalonians 5:4]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]

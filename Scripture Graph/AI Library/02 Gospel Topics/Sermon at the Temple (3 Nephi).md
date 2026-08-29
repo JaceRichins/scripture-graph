@@ -30,6 +30,7 @@ _Not yet developed._
 - [[John 10]]
 - [[3 Nephi 27]]
 - [[3 Nephi 11]]
+- [[3 Nephi 12]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

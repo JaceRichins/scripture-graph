@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 5
 slug: gal-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Galatians 5]] · My notes: [[Galatians 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Mark 12]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-14|Galatians 5:14]] ↔ [[Mark 12#^mark-12-31|Mark 12:31]]
-- [[Galatians 6]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-6|Galatians 5:6]] ↔ [[Galatians 6#^gal-6-15|Galatians 6:15]]
-- [[Galatians 3]] — 1 parallel verse, e.g. [[Galatians 5#^gal-5-7|Galatians 5:7]] ↔ [[Galatians 3#^gal-3-1|Galatians 3:1]]
+- [[Galatians 1]] — 2 footnote cross-references (from [[Galatians 5#^gal-5-10|Galatians 5:10]])
+- [[Philippians 4]] — 1 footnote cross-reference (from [[Galatians 5#^gal-5-1|Galatians 5:1]])
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Galatians 5#^gal-5-1|Galatians 5:1]])
+- [[Mosiah 5]] — 1 footnote cross-reference (from [[Galatians 5#^gal-5-1|Galatians 5:1]])
+- [[Alma 61]] — 1 footnote cross-reference (from [[Galatians 5#^gal-5-1|Galatians 5:1]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Galatians 5#^gal-5-1|Galatians 5:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

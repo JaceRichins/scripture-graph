@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 23
 slug: 3ne-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 23]] · My notes: [[3 Nephi 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus approves the words of Isaiah—He commands the people to search the prophets—The words of Samuel the Lamanite concerning the Resurrection are added to their records. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 20]] — 2 footnote cross-references (from [[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]])
+- [[Luke 24]] — 2 footnote cross-references (from [[3 Nephi 23#^3ne-23-5|3 Nephi 23:5]])
+- [[2 Nephi 25]] — 1 footnote cross-reference (from [[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]])
+- [[Isaiah 49]] — 1 footnote cross-reference (from [[3 Nephi 23#^3ne-23-2|3 Nephi 23:2]])
+- [[3 Nephi 15]] — 1 footnote cross-reference (from [[3 Nephi 23#^3ne-23-3|3 Nephi 23:3]])
 - [[2 Nephi 29]] — 3 parallel verses, e.g. [[3 Nephi 23#^3ne-23-2|3 Nephi 23:2]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
 - [[3 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6]] ↔ [[3 Nephi 15#^3ne-15-2|3 Nephi 15:2]]
 <!-- SG:END related-scriptures -->

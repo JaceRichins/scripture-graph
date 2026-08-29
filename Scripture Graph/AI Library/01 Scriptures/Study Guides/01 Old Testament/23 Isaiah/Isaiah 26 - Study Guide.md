@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 26
 slug: isa-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 26]] · My notes: [[Isaiah 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Trust in the Lord forever—Jehovah will die and be resurrected—All men will rise in the Resurrection.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-1|Isaiah 26:1]])
+- [[Helaman 3]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-2|Isaiah 26:2]])
+- [[Isaiah 33]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-8|Isaiah 26:8]])
+- [[Psalm 63]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-9|Isaiah 26:9]])
+- [[Mosiah 27]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-11|Isaiah 26:11]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Isaiah 26#^isa-26-12|Isaiah 26:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

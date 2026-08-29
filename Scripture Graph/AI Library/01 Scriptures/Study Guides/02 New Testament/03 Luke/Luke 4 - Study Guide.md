@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 4
 slug: luke-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 4]] · My notes: [[Luke 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus fasts forty days and is tempted by the devil—Jesus announces His divine sonship in Nazareth and is rejected—He casts out a devil in Capernaum, heals Peter’s mother-in-law, and preaches and heals throughout Galilee.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 4]] — 2 footnote cross-references (from [[Luke 4#^luke-4-14|Luke 4:14]])
+- [[1 Kings 17]] — 2 footnote cross-references (from [[Luke 4#^luke-4-25|Luke 4:25]])
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-1|Luke 4:1]])
+- [[Mosiah 15]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
+- [[D&C 62]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
 - [[Matthew 4]] — 11 parallel verses, e.g. [[Luke 4#^luke-4-11|Luke 4:11]] ↔ [[Matthew 4#^matt-4-6|Matthew 4:6]]
 - [[Mark 1]] — 4 parallel verses, e.g. [[Luke 4#^luke-4-34|Luke 4:34]] ↔ [[Mark 1#^mark-1-24|Mark 1:24]]
 - [[Psalm 91]] — 2 parallel verses, e.g. [[Luke 4#^luke-4-10|Luke 4:10]] ↔ [[Psalm 91#^ps-91-11|Psalm 91:11]]

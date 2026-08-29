@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 35
 slug: ezek-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 35]] · My notes: [[Ezekiel 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judgment will fall upon Mount Seir and all Idumea for their hatred of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 36]] — 2 footnote cross-references (from [[Ezekiel 35#^ezek-35-5|Ezekiel 35:5]])
+- [[Obadiah 1]] — 2 footnote cross-references (from [[Ezekiel 35#^ezek-35-5|Ezekiel 35:5]])
+- [[Ezekiel 6]] — 1 footnote cross-reference (from [[Ezekiel 35#^ezek-35-2|Ezekiel 35:2]])
+- [[Genesis 32]] — 1 footnote cross-reference (from [[Ezekiel 35#^ezek-35-2|Ezekiel 35:2]])
+- [[Genesis 36]] — 1 footnote cross-reference (from [[Ezekiel 35#^ezek-35-2|Ezekiel 35:2]])
+- [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Ezekiel 35#^ezek-35-2|Ezekiel 35:2]])
 - [[Ezekiel 20]] — 6 parallel verses, e.g. [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 14]] — 6 parallel verses, e.g. [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 - [[Ezekiel 16]] — 5 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]]

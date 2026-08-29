@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 57
 slug: alma-57
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 57]] · My notes: [[Alma 57 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Helaman recounts the taking of Antiparah and the surrender and later the defense of Cumeni—His Ammonite striplings fight valiantly; all are wounded, but none are slain—Gid reports the slaying and the escape of the Lamanite prisoners. About 63 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 56]] — 4 footnote cross-references (from [[Alma 57#^alma-57-7|Alma 57:7]])
+- [[Alma 53]] — 1 footnote cross-reference (from [[Alma 57#^alma-57-6|Alma 57:6]])
+- [[Alma 62]] — 1 footnote cross-reference (from [[Alma 57#^alma-57-19|Alma 57:19]])
+- [[1 Chronicles 5]] — 1 footnote cross-reference (from [[Alma 57#^alma-57-26|Alma 57:26]])
+- [[Alma 58]] — 1 footnote cross-reference (from [[Alma 57#^alma-57-27|Alma 57:27]])
+- [[Jacob 3]] — 1 footnote cross-reference (from [[Alma 57#^alma-57-27|Alma 57:27]])
 - [[Alma 53]] — 3 parallel verses, e.g. [[Alma 57#^alma-57-5|Alma 57:5]] ↔ [[Alma 53#^alma-53-23|Alma 53:23]]
 - [[Alma 58]] — 4 parallel verses, e.g. [[Alma 57#^alma-57-17|Alma 57:17]] ↔ [[Alma 58#^alma-58-14|Alma 58:14]]
 - [[Alma 27]] — 4 parallel verses, e.g. [[Alma 57#^alma-57-35|Alma 57:35]] ↔ [[Alma 27#^alma-27-5|Alma 27:5]]

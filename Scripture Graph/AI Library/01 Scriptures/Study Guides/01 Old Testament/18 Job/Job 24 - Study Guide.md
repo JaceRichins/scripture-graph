@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 24
 slug: job-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 24]] · My notes: [[Job 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Murderers, adulterers, those who oppress the poor, and wicked people in general often go unpunished for a little while.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 10]] — 2 footnote cross-references (from [[Job 24#^job-24-13|Job 24:13]])
+- [[Deuteronomy 19]] — 1 footnote cross-reference (from [[Job 24#^job-24-2|Job 24:2]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Job 24#^job-24-2|Job 24:2]])
+- [[Hosea 5]] — 1 footnote cross-reference (from [[Job 24#^job-24-2|Job 24:2]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[Job 24#^job-24-13|Job 24:13]])
+- [[Mosiah 15]] — 1 footnote cross-reference (from [[Job 24#^job-24-13|Job 24:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

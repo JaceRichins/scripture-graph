@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 5]] · My notes: [[Genesis 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The generations of Adam are Adam, Seth, Enos, Cainan, Mahalaleel, Jared, Enoch (who walked with God), Methuselah, Lamech, and Noah (who begat Shem, Ham, and Japheth).
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 107]] — 5 footnote cross-references (from [[Genesis 5#^gen-5-3|Genesis 5:3]])
+- [[Moses 8]] — 4 footnote cross-references (from [[Genesis 5#^gen-5-22|Genesis 5:22]])
+- [[Moses 7]] — 3 footnote cross-references (from [[Genesis 5#^gen-5-22|Genesis 5:22]])
+- [[Moses 6]] — 2 footnote cross-references (from [[Genesis 5#^gen-5-14|Genesis 5:14]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Genesis 5#^gen-5-23|Genesis 5:23]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Genesis 5#^gen-5-1|Genesis 5:1]])
 - [[Moses 6]] — 20 parallel verses, e.g. [[Genesis 5#^gen-5-2|Genesis 5:2]] ↔ [[Moses 6#^moses-6-9|Moses 6:9]]
 - [[Moses 8]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-29|Genesis 5:29]] ↔ [[Moses 8#^moses-8-9|Moses 8:9]]
 - [[Genesis 11]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-16|Genesis 5:16]] ↔ [[Genesis 11#^gen-11-17|Genesis 11:17]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 46
 slug: ezek-46
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 46]] · My notes: [[Ezekiel 46 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The ordinances of worship and of sacrifice are explained.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 45]] — 3 footnote cross-references (from [[Ezekiel 46#^ezek-46-1|Ezekiel 46:1]])
+- [[Ezekiel 40]] — 2 footnote cross-references (from [[Ezekiel 46#^ezek-46-2|Ezekiel 46:2]])
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[Ezekiel 46#^ezek-46-1|Ezekiel 46:1]])
+- [[Ezekiel 41]] — 1 footnote cross-reference (from [[Ezekiel 46#^ezek-46-2|Ezekiel 46:2]])
+- [[Numbers 28]] — 1 footnote cross-reference (from [[Ezekiel 46#^ezek-46-4|Ezekiel 46:4]])
+- [[Exodus 23]] — 1 footnote cross-reference (from [[Ezekiel 46#^ezek-46-9|Ezekiel 46:9]])
 - [[Ezekiel 44]] — 3 parallel verses, e.g. [[Ezekiel 46#^ezek-46-2|Ezekiel 46:2]] ↔ [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]]
 - [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-7|Ezekiel 46:7]] ↔ [[Ezekiel 45#^ezek-45-24|Ezekiel 45:24]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-14|Ezekiel 46:14]] ↔ [[Numbers 15#^num-15-6|Numbers 15:6]]

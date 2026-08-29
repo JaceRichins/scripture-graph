@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 10
 slug: eccl-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 10]] · My notes: [[Ecclesiastes 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 7]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-1|Ecclesiastes 10:1]])
+- [[Ecclesiastes 9]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-1|Ecclesiastes 10:1]])
+- [[Proverbs 19]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-7|Ecclesiastes 10:7]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-8|Ecclesiastes 10:8]])
+- [[Proverbs 10]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-12|Ecclesiastes 10:12]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-12|Ecclesiastes 10:12]])
 - [[Ecclesiastes 6]] — 1 parallel verse, e.g. [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]] ↔ [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]]
 <!-- SG:END related-scriptures -->
 

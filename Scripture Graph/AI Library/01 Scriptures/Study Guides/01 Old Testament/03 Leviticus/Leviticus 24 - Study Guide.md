@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 24
 slug: lev-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 27]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-2|Leviticus 24:2]])
+- [[1 Samuel 3]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-2|Leviticus 24:2]])
+- [[Matthew 25]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-2|Leviticus 24:2]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-4|Leviticus 24:4]])
+- [[Hosea 7]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-5|Leviticus 24:5]])
+- [[Exodus 40]] — 1 footnote cross-reference (from [[Leviticus 24#^lev-24-6|Leviticus 24:6]])
 - [[Leviticus 23]] — 10 parallel verses, e.g. [[Leviticus 24#^lev-24-3|Leviticus 24:3]] ↔ [[Leviticus 23#^lev-23-41|Leviticus 23:41]]
 - [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 7#^lev-7-35|Leviticus 7:35]]
 - [[Leviticus 2]] — 3 parallel verses, e.g. [[Leviticus 24#^lev-24-9|Leviticus 24:9]] ↔ [[Leviticus 2#^lev-2-3|Leviticus 2:3]]

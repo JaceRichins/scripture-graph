@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 2
 slug: eccl-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 2]] · My notes: [[Ecclesiastes 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 2#^eccl-2-26|Ecclesiastes 2:26]] ↔ [[Ecclesiastes 4#^eccl-4-16|Ecclesiastes 4:16]]
-- [[Ecclesiastes 1]] — 2 parallel verses, e.g. [[Ecclesiastes 2#^eccl-2-17|Ecclesiastes 2:17]] ↔ [[Ecclesiastes 1#^eccl-1-14|Ecclesiastes 1:14]]
+- [[Ecclesiastes 3]] — 2 footnote cross-references (from [[Ecclesiastes 2#^eccl-2-10|Ecclesiastes 2:10]])
+- [[Ecclesiastes 9]] — 2 footnote cross-references (from [[Ecclesiastes 2#^eccl-2-10|Ecclesiastes 2:10]])
+- [[Proverbs 14]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-1|Ecclesiastes 2:1]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-1|Ecclesiastes 2:1]])
+- [[1 Kings 7]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-4|Ecclesiastes 2:4]])
+- [[1 Kings 9]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-8|Ecclesiastes 2:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

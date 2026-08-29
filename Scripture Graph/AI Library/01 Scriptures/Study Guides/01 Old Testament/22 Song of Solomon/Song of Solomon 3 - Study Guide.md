@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 3
 slug: song-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 3]] · My notes: [[Song of Solomon 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A love song concerning Solomon is presented.
 <!-- SG:END overview -->
 
 ## Structure & Setting

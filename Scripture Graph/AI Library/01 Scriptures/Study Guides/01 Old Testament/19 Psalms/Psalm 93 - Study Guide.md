@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 93
 slug: ps-93
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 93]] · My notes: [[Psalm 93 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reigns—He is from everlasting—Holiness adorns the house of the Lord forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 65]] — 1 footnote cross-reference (from [[Psalm 93#^ps-93-1|Psalm 93:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

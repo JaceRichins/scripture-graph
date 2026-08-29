@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 23
 slug: luke-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 23]] · My notes: [[Luke 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is taken before Pilate, then to Herod, and then to Pilate again—Barabbas is released—Jesus is crucified between two thieves—He is buried in the tomb of Joseph of Arimathæa.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 15]] — 2 footnote cross-references (from [[Luke 23#^luke-23-9|Luke 23:9]])
+- [[Psalm 22]] — 2 footnote cross-references (from [[Luke 23#^luke-23-34|Luke 23:34]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-2|Luke 23:2]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-2|Luke 23:2]])
+- [[Mosiah 14]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-9|Luke 23:9]])
+- [[Matthew 27]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-17|Luke 23:17]])
 - [[Matthew 27]] — 3 parallel verses, e.g. [[Luke 23#^luke-23-3|Luke 23:3]] ↔ [[Matthew 27#^matt-27-11|Matthew 27:11]]
 - [[Mark 15]] — 2 parallel verses, e.g. [[Luke 23#^luke-23-45|Luke 23:45]] ↔ [[Mark 15#^mark-15-38|Mark 15:38]]
 - [[2 Chronicles 3]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-33|Luke 23:33]] ↔ [[2 Chronicles 3#^2chr-3-17|2 Chronicles 3:17]]

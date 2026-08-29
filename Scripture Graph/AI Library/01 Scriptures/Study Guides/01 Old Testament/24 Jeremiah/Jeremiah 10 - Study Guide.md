@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 10
 slug: jer-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 10]] · My notes: [[Jeremiah 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Learn not the way of other nations—Their gods are idols and molten images—The Lord is the true and living God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 4]] — 2 footnote cross-references (from [[Jeremiah 10#^jer-10-20|Jeremiah 10:20]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-3|Jeremiah 10:3]])
+- [[Isaiah 44]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-3|Jeremiah 10:3]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-5|Jeremiah 10:5]])
+- [[Psalm 71]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-6|Jeremiah 10:6]])
+- [[Esther 1]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-7|Jeremiah 10:7]])
 - [[Jeremiah 51]] — 7 parallel verses, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]]
 - [[Psalm 135]] — 1 parallel verse, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Psalm 135#^ps-135-7|Psalm 135:7]]
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 10#^jer-10-18|Jeremiah 10:18]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]

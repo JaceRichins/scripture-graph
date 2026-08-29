@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 9
 slug: luke-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 9]] · My notes: [[Luke 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Twelve are sent out—Jesus feeds the five thousand—Peter testifies of Christ—Jesus foretells His death and resurrection—He is transfigured on the mount—He heals and teaches.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 10]] — 5 footnote cross-references (from [[Luke 9#^luke-9-2|Luke 9:2]])
+- [[Mark 9]] — 5 footnote cross-references (from [[Luke 9#^luke-9-28|Luke 9:28]])
+- [[Matthew 14]] — 3 footnote cross-references (from [[Luke 9#^luke-9-7|Luke 9:7]])
+- [[Mark 6]] — 2 footnote cross-references (from [[Luke 9#^luke-9-7|Luke 9:7]])
+- [[Mark 8]] — 2 footnote cross-references (from [[Luke 9#^luke-9-21|Luke 9:21]])
+- [[D&C 60]] — 1 footnote cross-reference (from [[Luke 9#^luke-9-5|Luke 9:5]])
 - [[Mark 9]] — 8 parallel verses, e.g. [[Luke 9#^luke-9-33|Luke 9:33]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
 - [[Mark 8]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-22|Luke 9:22]] ↔ [[Mark 8#^mark-8-31|Mark 8:31]]
 - [[Matthew 16]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-23|Luke 9:23]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]

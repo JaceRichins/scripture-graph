@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 9
 slug: 2cor-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 9]] · My notes: [[2 Corinthians 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God loves and rewards a cheerful giver—Thanks be to God for His unspeakable gift.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 112]] — 1 parallel verse, e.g. [[2 Corinthians 9#^2cor-9-9|2 Corinthians 9:9]] ↔ [[Psalm 112#^ps-112-9|Psalm 112:9]]
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-2|2 Corinthians 9:2]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-7|2 Corinthians 9:7]])
+- [[Philippians 4]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-8|2 Corinthians 9:8]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-8|2 Corinthians 9:8]])
+- [[Hebrews 13]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-12|2 Corinthians 9:12]])
+- [[James 1]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-15|2 Corinthians 9:15]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

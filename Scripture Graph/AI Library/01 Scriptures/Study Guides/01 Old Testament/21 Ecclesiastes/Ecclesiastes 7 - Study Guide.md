@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 7
 slug: eccl-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 7]] · My notes: [[Ecclesiastes 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wisdom gives life to them that have it—All men are sinners—God has made man upright.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ecclesiastes 1]] — 3 footnote cross-references (from [[Ecclesiastes 7#^eccl-7-13|Ecclesiastes 7:13]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Ecclesiastes 7#^eccl-7-1|Ecclesiastes 7:1]])
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[Ecclesiastes 7#^eccl-7-3|Ecclesiastes 7:3]])
+- [[Proverbs 29]] — 1 footnote cross-reference (from [[Ecclesiastes 7#^eccl-7-9|Ecclesiastes 7:9]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Ecclesiastes 7#^eccl-7-12|Ecclesiastes 7:12]])
+- [[Proverbs 3]] — 1 footnote cross-reference (from [[Ecclesiastes 7#^eccl-7-12|Ecclesiastes 7:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

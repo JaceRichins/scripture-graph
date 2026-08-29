@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 37
 slug: isa-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 37]] · My notes: [[Isaiah 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hezekiah seeks counsel from Isaiah to save Jerusalem—Isaiah prophesies the defeat of the Assyrians and the death of Sennacherib—Hezekiah prays for deliverance—Sennacherib sends a blasphemous letter—Isaiah prophesies that the Assyrians will be destroyed and that a remnant of Judah will flourish—An angel slays 185,000 Assyrians—Sennacherib is slain by his sons.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 19]] — 2 footnote cross-references (from [[Isaiah 37#^isa-37-6|Isaiah 37:6]])
+- [[Isaiah 22]] — 1 footnote cross-reference (from [[Isaiah 37#^isa-37-3|Isaiah 37:3]])
+- [[Hosea 13]] — 1 footnote cross-reference (from [[Isaiah 37#^isa-37-3|Isaiah 37:3]])
+- [[Jeremiah 22]] — 1 footnote cross-reference (from [[Isaiah 37#^isa-37-24|Isaiah 37:24]])
+- [[Luke 19]] — 1 footnote cross-reference (from [[Isaiah 37#^isa-37-33|Isaiah 37:33]])
+- [[Isaiah 38]] — 1 footnote cross-reference (from [[Isaiah 37#^isa-37-35|Isaiah 37:35]])
 - [[2 Kings 19]] — 37 parallel verses, e.g. [[Isaiah 37#^isa-37-27|Isaiah 37:27]] ↔ [[2 Kings 19#^2kgs-19-26|2 Kings 19:26]]
 - [[2 Kings 18]] — 4 parallel verses, e.g. [[Isaiah 37#^isa-37-2|Isaiah 37:2]] ↔ [[2 Kings 18#^2kgs-18-18|2 Kings 18:18]]
 - [[2 Kings 20]] — 2 parallel verses, e.g. [[Isaiah 37#^isa-37-35|Isaiah 37:35]] ↔ [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]]

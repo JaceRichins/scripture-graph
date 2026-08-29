@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 21
 slug: job-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 21]] · My notes: [[Job 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job admits that the wicked sometimes prosper in this life—Then he testifies that their judgment will be hereafter in the day of wrath and destruction.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Job 16]] — 1 footnote cross-reference (from [[Job 21#^job-21-3|Job 21:3]])
+- [[Judges 18]] — 1 footnote cross-reference (from [[Job 21#^job-21-5|Job 21:5]])
+- [[Job 12]] — 1 footnote cross-reference (from [[Job 21#^job-21-7|Job 21:7]])
+- [[Helaman 7]] — 1 footnote cross-reference (from [[Job 21#^job-21-7|Job 21:7]])
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Job 21#^job-21-18|Job 21:18]])
+- [[Psalm 75]] — 1 footnote cross-reference (from [[Job 21#^job-21-20|Job 21:20]])
 - [[Job 22]] — 1 parallel verse, e.g. [[Job 21#^job-21-16|Job 21:16]] ↔ [[Job 22#^job-22-18|Job 22:18]]
 <!-- SG:END related-scriptures -->
 

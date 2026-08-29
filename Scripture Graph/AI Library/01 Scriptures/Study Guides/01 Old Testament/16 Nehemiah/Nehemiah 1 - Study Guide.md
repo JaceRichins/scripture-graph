@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 1
 slug: neh-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 1]] · My notes: [[Nehemiah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nehemiah mourns, fasts, and prays for the Jews in Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Nehemiah 2]] — 2 parallel verses, e.g. [[Nehemiah 1#^neh-1-3|Nehemiah 1:3]] ↔ [[Nehemiah 2#^neh-2-17|Nehemiah 2:17]]
-- [[2 Chronicles 6]] — 1 parallel verse, e.g. [[Nehemiah 1#^neh-1-11|Nehemiah 1:11]] ↔ [[2 Chronicles 6#^2chr-6-19|2 Chronicles 6:19]]
-- [[Daniel 9]] — 2 parallel verses, e.g. [[Nehemiah 1#^neh-1-6|Nehemiah 1:6]] ↔ [[Daniel 9#^dan-9-17|Daniel 9:17]]
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[Nehemiah 1#^neh-1-8|Nehemiah 1:8]])
+- [[D&C 45]] — 2 footnote cross-references (from [[Nehemiah 1#^neh-1-8|Nehemiah 1:8]])
+- [[Esther 1]] — 1 footnote cross-reference (from [[Nehemiah 1#^neh-1-1|Nehemiah 1:1]])
+- [[Nehemiah 7]] — 1 footnote cross-reference (from [[Nehemiah 1#^neh-1-2|Nehemiah 1:2]])
+- [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Nehemiah 1#^neh-1-5|Nehemiah 1:5]])
+- [[Daniel 9]] — 1 footnote cross-reference (from [[Nehemiah 1#^neh-1-5|Nehemiah 1:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

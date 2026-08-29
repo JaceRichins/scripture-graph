@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 35
 slug: gen-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 35]] · My notes: [[Genesis 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God sends Jacob to Bethel, where he builds an altar and the Lord appears to him—God renews the promise that Jacob will be a great nation and that his name will be Israel—Jacob sets up an altar and pours a drink offering—Rachel bears Benjamin, dies in childbirth, and is buried near Bethlehem—Reuben sins with Bilhah—Isaac dies and is buried by Jacob and Esau.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 28]] — 3 footnote cross-references (from [[Genesis 35#^gen-35-6|Genesis 35:6]])
+- [[Genesis 48]] — 2 footnote cross-references (from [[Genesis 35#^gen-35-6|Genesis 35:6]])
+- [[Genesis 42]] — 2 footnote cross-references (from [[Genesis 35#^gen-35-18|Genesis 35:18]])
+- [[Genesis 47]] — 2 footnote cross-references (from [[Genesis 35#^gen-35-28|Genesis 35:28]])
+- [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 35#^gen-35-28|Genesis 35:28]])
+- [[Genesis 27]] — 1 footnote cross-reference (from [[Genesis 35#^gen-35-1|Genesis 35:1]])
 - [[Judges 9]] — 2 parallel verses, e.g. [[Genesis 35#^gen-35-6|Genesis 35:6]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
 - [[Genesis 25]] — 1 parallel verse, e.g. [[Genesis 35#^gen-35-29|Genesis 35:29]] ↔ [[Genesis 25#^gen-25-17|Genesis 25:17]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 51
 slug: isa-51
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 51]] · My notes: [[Isaiah 51 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, the Lord will comfort Zion and gather Israel—The redeemed will come to Zion amid great joy—Compare 2 Nephi 8.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 20]] — 2 footnote cross-references (from [[Isaiah 51#^isa-51-2|Isaiah 51:2]])
+- [[Isaiah 50]] — 2 footnote cross-references (from [[Isaiah 51#^isa-51-6|Isaiah 51:6]])
+- [[Isaiah 35]] — 2 footnote cross-references (from [[Isaiah 51#^isa-51-10|Isaiah 51:10]])
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Isaiah 51#^isa-51-17|Isaiah 51:17]])
+- [[2 Nephi 8]] — 1 footnote cross-reference (from [[Isaiah 51#^isa-51-1|Isaiah 51:1]])
+- [[Genesis 12]] — 1 footnote cross-reference (from [[Isaiah 51#^isa-51-2|Isaiah 51:2]])
 - [[2 Nephi 8]] — 23 parallel verses, e.g. [[Isaiah 51#^isa-51-6|Isaiah 51:6]] ↔ [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]]
+- [[Jeremiah 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

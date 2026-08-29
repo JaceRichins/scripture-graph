@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 14
 slug: job-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 14]] · My notes: [[Job 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job testifies of the shortness of life, the certainty of death, and the guarantee of a resurrection—He asks, If a man die, will he live again?—Job answers that he will await the Lord’s call to come forth from the grave.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Job 14#^job-14-1|Job 14:1]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[Job 14#^job-14-1|Job 14:1]])
+- [[Moses 4]] — 1 footnote cross-reference (from [[Job 14#^job-14-1|Job 14:1]])
+- [[Isaiah 38]] — 1 footnote cross-reference (from [[Job 14#^job-14-2|Job 14:2]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[Job 14#^job-14-5|Job 14:5]])
+- [[Job 7]] — 1 footnote cross-reference (from [[Job 14#^job-14-6|Job 14:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

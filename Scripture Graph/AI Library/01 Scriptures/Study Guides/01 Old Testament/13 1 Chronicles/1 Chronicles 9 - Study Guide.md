@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 9
 slug: 1chr-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 9]] · My notes: [[1 Chronicles 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The inhabitants of Jerusalem are listed—The responsibilities of the Levites and the areas where they are to serve are listed—The family of Saul is named.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]])
+- [[Ezra 2]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-2|1 Chronicles 9:2]])
+- [[Ezra 7]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-2|1 Chronicles 9:2]])
+- [[Ezra 8]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-2|1 Chronicles 9:2]])
+- [[Alma 10]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-3|1 Chronicles 9:3]])
+- [[Nehemiah 11]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-10|1 Chronicles 9:10]])
 - [[Nehemiah 11]] — 10 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
 - [[1 Chronicles 8]] — 8 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-44|1 Chronicles 9:44]] ↔ [[1 Chronicles 8#^1chr-8-38|1 Chronicles 8:38]]
 - [[1 Chronicles 6]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]] ↔ [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]]

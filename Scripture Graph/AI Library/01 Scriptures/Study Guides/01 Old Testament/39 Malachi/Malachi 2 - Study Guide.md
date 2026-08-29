@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 2
 slug: mal-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Malachi 2]] · My notes: [[Malachi 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,13 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 13]] — 4 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
-- [[Ezekiel 14]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 14#^ezek-14-23|Ezekiel 14:23]]
-- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-16|Malachi 2:16]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
-- [[Ezekiel 7]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 7#^ezek-7-4|Ezekiel 7:4]]
-- [[Ezekiel 11]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]]
-- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Malachi 2#^mal-2-4|Malachi 2:4]] ↔ [[Ezekiel 37#^ezek-37-6|Ezekiel 37:6]]
+- [[Isaiah 54]] — 2 footnote cross-references (from [[Malachi 2#^mal-2-5|Malachi 2:5]])
+- [[1 Samuel 2]] — 2 footnote cross-references (from [[Malachi 2#^mal-2-8|Malachi 2:8]])
+- [[2 Nephi 28]] — 2 footnote cross-references (from [[Malachi 2#^mal-2-17|Malachi 2:17]])
+- [[Deuteronomy 28]] — 1 footnote cross-reference (from [[Malachi 2#^mal-2-2|Malachi 2:2]])
+- [[Numbers 25]] — 1 footnote cross-reference (from [[Malachi 2#^mal-2-5|Malachi 2:5]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[Malachi 2#^mal-2-6|Malachi 2:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

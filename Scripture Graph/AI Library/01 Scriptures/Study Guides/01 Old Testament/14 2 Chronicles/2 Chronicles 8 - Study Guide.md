@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 8
 slug: 2chr-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 8]] · My notes: [[2 Chronicles 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Solomon builds cities—He offers sacrifices according to the law of Moses—Priests and Levites are appointed to serve the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 9]] — 2 footnote cross-references (from [[2 Chronicles 8#^2chr-8-2|2 Chronicles 8:2]])
+- [[Exodus 29]] — 1 footnote cross-reference (from [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]])
+- [[Deuteronomy 16]] — 1 footnote cross-reference (from [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]])
+- [[2 Chronicles 35]] — 1 footnote cross-reference (from [[2 Chronicles 8#^2chr-8-14|2 Chronicles 8:14]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[2 Chronicles 8#^2chr-8-14|2 Chronicles 8:14]])
+- [[Ezra 6]] — 1 footnote cross-reference (from [[2 Chronicles 8#^2chr-8-14|2 Chronicles 8:14]])
 - [[1 Kings 9]] — 8 parallel verses, e.g. [[2 Chronicles 8#^2chr-8-9|2 Chronicles 8:9]] ↔ [[1 Kings 9#^1kgs-9-22|1 Kings 9:22]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[2 Chronicles 8#^2chr-8-7|2 Chronicles 8:7]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Deuteronomy 16]] — 1 parallel verse, e.g. [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]] ↔ [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]]

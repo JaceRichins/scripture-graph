@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 55
 slug: ps-55
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 55]] · My notes: [[Psalm 55 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays morning, noon, and night—He seeks protection and help against his enemies.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Numbers 16]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-15|Psalm 55:15]])
+- [[Psalm 13]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-17|Psalm 55:17]])
+- [[Job 10]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-19|Psalm 55:19]])
+- [[Proverbs 16]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-22|Psalm 55:22]])
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-22|Psalm 55:22]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Psalm 55#^ps-55-22|Psalm 55:22]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

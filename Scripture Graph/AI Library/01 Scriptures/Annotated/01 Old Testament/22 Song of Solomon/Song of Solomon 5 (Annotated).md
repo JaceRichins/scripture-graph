@@ -13,7 +13,11 @@ cssclasses:
 
 [[Song of Solomon 5|Plain text]] · [[Song of Solomon 5 - Study Guide|Study guide]] · [[Song of Solomon 5 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The song of love and affection continues.
+
 ![[Song of Solomon 5#^song-5-1]]
+> [[Song of Solomon 4#^song-4-9|Song 4:9]] · [[Song of Solomon 4#^song-4-8|Song 4:8]]
 
 ![[Song of Solomon 5#^song-5-2]]
 

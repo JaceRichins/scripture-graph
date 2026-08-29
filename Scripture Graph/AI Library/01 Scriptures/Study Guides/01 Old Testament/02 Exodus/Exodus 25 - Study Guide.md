@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 25]] · My notes: [[Exodus 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is commanded to donate property and build a tabernacle, the ark of testimony (with the mercy seat and cherubims), a table (for the shewbread), and the candlestick, all according to patterns shown to Moses on the mount.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 35]] — 5 footnote cross-references (from [[Exodus 25#^ex-25-2|Exodus 25:2]])
+- [[Hebrews 9]] — 5 footnote cross-references (from [[Exodus 25#^ex-25-16|Exodus 25:16]])
+- [[Exodus 26]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-5|Exodus 25:5]])
+- [[Exodus 30]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-6|Exodus 25:6]])
+- [[D&C 124]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-6|Exodus 25:6]])
+- [[Exodus 37]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-17|Exodus 25:17]])
 - [[Exodus 37]] — 21 parallel verses, e.g. [[Exodus 25#^ex-25-23|Exodus 25:23]] ↔ [[Exodus 37#^ex-37-10|Exodus 37:10]]
 - [[Exodus 30]] — 8 parallel verses, e.g. [[Exodus 25#^ex-25-28|Exodus 25:28]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
 - [[Exodus 26]] — 9 parallel verses, e.g. [[Exodus 25#^ex-25-10|Exodus 25:10]] ↔ [[Exodus 26#^ex-26-16|Exodus 26:16]]
@@ -46,6 +53,8 @@ _Not yet developed._
 - [[Exodus 39]] — 3 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
 - [[Exodus 36]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Exodus 14]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Exodus 14#^ex-14-2|Exodus 14:2]]
+- [[1 Kings 6]] — 0 parallel verses
+- [[1 Chronicles 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

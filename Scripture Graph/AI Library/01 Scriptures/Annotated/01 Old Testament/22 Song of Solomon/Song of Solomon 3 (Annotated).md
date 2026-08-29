@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 3|Plain text]] · [[Song of Solomon 3 - Study Guide|Study guide]] · [[Song of Solomon 3 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> A love song concerning Solomon is presented.
+
 ![[Song of Solomon 3#^song-3-1]]
 
 ![[Song of Solomon 3#^song-3-2]]

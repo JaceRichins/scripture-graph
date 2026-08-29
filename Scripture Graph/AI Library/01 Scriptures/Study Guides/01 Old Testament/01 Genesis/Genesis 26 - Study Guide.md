@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 26
 slug: gen-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 26]] · My notes: [[Genesis 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord promises Isaac posterity as the stars of heaven in number—In his seed, all nations will be blessed—The Lord prospers Isaac, temporally and spiritually, for Abraham’s sake—Isaac offers sacrifices—Esau marries Hittite wives to the sorrow of his parents.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 21]] — 9 footnote cross-references (from [[Genesis 26#^gen-26-1|Genesis 26:1]])
+- [[Genesis 20]] — 5 footnote cross-references (from [[Genesis 26#^gen-26-1|Genesis 26:1]])
+- [[Genesis 24]] — 4 footnote cross-references (from [[Genesis 26#^gen-26-7|Genesis 26:7]])
+- [[Abraham 2]] — 2 footnote cross-references (from [[Genesis 26#^gen-26-3|Genesis 26:3]])
+- [[Genesis 12]] — 2 footnote cross-references (from [[Genesis 26#^gen-26-7|Genesis 26:7]])
+- [[Exodus 1]] — 2 footnote cross-references (from [[Genesis 26#^gen-26-16|Genesis 26:16]])
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
 - [[Genesis 12]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-1|Genesis 26:1]] ↔ [[Genesis 12#^gen-12-10|Genesis 12:10]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]

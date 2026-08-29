@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 17]] · My notes: [[D&C 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, By faith the Three Witnesses will see the plates and other sacred items; 5–9, Christ bears testimony of the divinity of the Book of Mormon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 5]] — 3 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[D&C 5]] — 3 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[2 Nephi 27]] — 2 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[Ether 4]] — 2 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[Mormon 6]] — 1 footnote cross-reference (from [[D&C 17#^dc-17-1|D&C 17:1]])
 - [[D&C 18]] — 3 parallel verses, e.g. [[D&C 17#^dc-17-9|D&C 17:9]] ↔ [[D&C 18#^dc-18-33|D&C 18:33]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 17#^dc-17-8|D&C 17:8]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[D&C 9]] — 1 parallel verse, e.g. [[D&C 17#^dc-17-8|D&C 17:8]] ↔ [[D&C 9#^dc-9-14|D&C 9:14]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 7
 slug: mosiah-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 7]] · My notes: [[Mosiah 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ammon finds the land of Lehi-Nephi, where Limhi is king—Limhi’s people are in bondage to the Lamanites—Limhi recounts their history—A prophet (Abinadi) had testified that Christ is the God and Father of all things—Those who sow filthiness reap the whirlwind, and those who put their trust in the Lord will be delivered. About 121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -49,6 +50,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 7 footnote cross-references (from [[Mosiah 7#^mosiah-7-1|Mosiah 7:1]])
+- [[Mosiah 9]] — 6 footnote cross-references (from [[Mosiah 7#^mosiah-7-1|Mosiah 7:1]])
+- [[Mosiah 21]] — 6 footnote cross-references (from [[Mosiah 7#^mosiah-7-6|Mosiah 7:6]])
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[Mosiah 7#^mosiah-7-1|Mosiah 7:1]])
+- [[Mosiah 8]] — 3 footnote cross-references (from [[Mosiah 7#^mosiah-7-3|Mosiah 7:3]])
+- [[Mosiah 11]] — 3 footnote cross-references (from [[Mosiah 7#^mosiah-7-5|Mosiah 7:5]])
 - [[Mosiah 25]] — 4 parallel verses, e.g. [[Mosiah 7#^mosiah-7-1|Mosiah 7:1]] ↔ [[Mosiah 25#^mosiah-25-5|Mosiah 25:5]]
 - [[Mosiah 1]] — 3 parallel verses, e.g. [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
 - [[Mosiah 9]] — 3 parallel verses, e.g. [[Mosiah 7#^mosiah-7-21|Mosiah 7:21]] ↔ [[Mosiah 9#^mosiah-9-8|Mosiah 9:8]]

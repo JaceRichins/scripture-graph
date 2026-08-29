@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 10
 slug: heb-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 10]] · My notes: [[Hebrews 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> We are sanctified by the shedding of the blood of Christ—The superiority of His sacrifice is explained—Those who fall from grace through willful sin are damned—The just will live by faith.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 9]] — 4 footnote cross-references (from [[Hebrews 10#^heb-10-3|Hebrews 10:3]])
+- [[Leviticus 16]] — 2 footnote cross-references (from [[Hebrews 10#^heb-10-3|Hebrews 10:3]])
+- [[1 Peter 1]] — 2 footnote cross-references (from [[Hebrews 10#^heb-10-22|Hebrews 10:22]])
+- [[Mosiah 3]] — 1 footnote cross-reference (from [[Hebrews 10#^heb-10-1|Hebrews 10:1]])
+- [[Mosiah 13]] — 1 footnote cross-reference (from [[Hebrews 10#^heb-10-1|Hebrews 10:1]])
+- [[1 Samuel 15]] — 1 footnote cross-reference (from [[Hebrews 10#^heb-10-6|Hebrews 10:6]])
 - [[Hebrews 8]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-16|Hebrews 10:16]] ↔ [[Hebrews 8#^heb-8-10|Hebrews 8:10]]
 - [[Psalm 40]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-7|Hebrews 10:7]] ↔ [[Psalm 40#^ps-40-7|Psalm 40:7]]
 - [[Jeremiah 31]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-16|Hebrews 10:16]] ↔ [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]]

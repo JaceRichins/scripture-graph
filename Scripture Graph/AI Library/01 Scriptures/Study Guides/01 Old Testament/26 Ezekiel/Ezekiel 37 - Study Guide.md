@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 37
 slug: ezek-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 37]] · My notes: [[Ezekiel 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel is shown the valley of dry bones—Israel will inherit the land in the Resurrection—The stick of Judah (the Bible) and the stick of Joseph (the Book of Mormon) will become one in the Lord’s hand—The children of Israel will be gathered and cleansed—David (the Messiah) will reign over them—They will receive the everlasting gospel covenant.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 34]] — 5 footnote cross-references (from [[Ezekiel 37#^ezek-37-22|Ezekiel 37:22]])
+- [[Ezekiel 36]] — 3 footnote cross-references (from [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]])
+- [[Ezekiel 1]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]])
+- [[1 Kings 18]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]])
+- [[Luke 4]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]])
+- [[D&C 138]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-7|Ezekiel 37:7]])
 - [[Ezekiel 20]] — 14 parallel verses, e.g. [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]] ↔ [[Ezekiel 20#^ezek-20-44|Ezekiel 20:44]]
 - [[Ezekiel 3]] — 11 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]]
 - [[Ezekiel 2]] — 7 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]]

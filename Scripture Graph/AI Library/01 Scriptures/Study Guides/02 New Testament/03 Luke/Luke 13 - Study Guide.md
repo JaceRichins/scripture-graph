@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 13
 slug: luke-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 13]] · My notes: [[Luke 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches, Repent or perish—He gives the parable of the barren fig tree, heals a woman on the Sabbath, and likens the kingdom of God to a mustard seed—He discusses whether few or many are saved and laments over Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 7]] — 2 footnote cross-references (from [[Luke 13#^luke-13-7|Luke 13:7]])
+- [[3 Nephi 27]] — 2 footnote cross-references (from [[Luke 13#^luke-13-23|Luke 13:23]])
+- [[3 Nephi 14]] — 2 footnote cross-references (from [[Luke 13#^luke-13-24|Luke 13:24]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Luke 13#^luke-13-27|Luke 13:27]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[Luke 13#^luke-13-3|Luke 13:3]])
+- [[Ether 8]] — 1 footnote cross-reference (from [[Luke 13#^luke-13-3|Luke 13:3]])
 - [[Matthew 23]] — 3 parallel verses, e.g. [[Luke 13#^luke-13-34|Luke 13:34]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
 - [[Matthew 13]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-21|Luke 13:21]] ↔ [[Matthew 13#^matt-13-33|Matthew 13:33]]
 - [[D&C 44]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[D&C 44#^dc-44-1|D&C 44:1]]

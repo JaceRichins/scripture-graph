@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 6
 slug: prov-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 6]] · My notes: [[Proverbs 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Six things that the Lord hates are named—Those who commit adultery destroy their own souls.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 11]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-1|Proverbs 6:1]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-1|Proverbs 6:1]])
+- [[D&C 67]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-3|Proverbs 6:3]])
+- [[Proverbs 30]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-6|Proverbs 6:6]])
+- [[Proverbs 29]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-15|Proverbs 6:15]])
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Proverbs 6#^prov-6-21|Proverbs 6:21]])
 - [[Proverbs 24]] — 2 parallel verses, e.g. [[Proverbs 6#^prov-6-11|Proverbs 6:11]] ↔ [[Proverbs 24#^prov-24-34|Proverbs 24:34]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 6
 slug: josh-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 6]] · My notes: [[Joshua 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jericho is taken and destroyed—Only Rahab and her household are saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 2]] — 2 footnote cross-references (from [[Joshua 6#^josh-6-23|Joshua 6:23]])
+- [[Joshua 24]] — 1 footnote cross-reference (from [[Joshua 6#^josh-6-1|Joshua 6:1]])
+- [[Judges 11]] — 1 footnote cross-reference (from [[Joshua 6#^josh-6-3|Joshua 6:3]])
+- [[Judges 16]] — 1 footnote cross-reference (from [[Joshua 6#^josh-6-3|Joshua 6:3]])
+- [[Joshua 7]] — 1 footnote cross-reference (from [[Joshua 6#^josh-6-18|Joshua 6:18]])
+- [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Joshua 6#^josh-6-18|Joshua 6:18]])
 - [[Joshua 3]] — 5 parallel verses, e.g. [[Joshua 6#^josh-6-12|Joshua 6:12]] ↔ [[Joshua 3#^josh-3-1|Joshua 3:1]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Ezra 8]] — 3 parallel verses, e.g. [[Joshua 6#^josh-6-24|Joshua 6:24]] ↔ [[Ezra 8#^ezra-8-25|Ezra 8:25]]

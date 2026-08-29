@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 14
 slug: 2kgs-14
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -71,12 +71,12 @@ The chapter surveys portions of three reigns but develops two especially clear c
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Law of Moses]]
 - [[Pride]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

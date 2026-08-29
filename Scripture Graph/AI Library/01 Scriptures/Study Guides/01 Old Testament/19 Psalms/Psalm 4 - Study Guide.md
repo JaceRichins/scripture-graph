@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 4
 slug: ps-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 4]] · My notes: [[Psalm 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads for mercy—He counsels, Put your trust in the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 34]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
+- [[Micah 7]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
+- [[1 John 5]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
+- [[Mosiah 9]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
+- [[Ether 1]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
+- [[Psalm 97]] — 1 footnote cross-reference (from [[Psalm 4#^ps-4-1|Psalm 4:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

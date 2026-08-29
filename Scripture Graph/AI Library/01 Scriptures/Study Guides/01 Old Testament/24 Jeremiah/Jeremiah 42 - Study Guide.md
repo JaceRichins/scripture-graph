@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 42
 slug: jer-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 42]] · My notes: [[Jeremiah 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah promises Johanan and the remnant of Judah peace and safety if they remain in Judah, but the sword, famine, and pestilence if they go to Egypt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 44]] — 2 footnote cross-references (from [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]])
+- [[Numbers 21]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
+- [[1 Samuel 7]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
+- [[2 Nephi 33]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
+- [[Enos 1]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
+- [[Revelation 1]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-5|Jeremiah 42:5]])
 - [[Jeremiah 44]] — 12 parallel verses, e.g. [[Jeremiah 42#^jer-42-18|Jeremiah 42:18]] ↔ [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]]
 - [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
 - [[Jeremiah 41]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]

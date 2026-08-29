@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 21
 slug: isa-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 21]] · My notes: [[Isaiah 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Babylon is fallen, is fallen!—Other nations also are destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 33]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-2|Isaiah 21:2]])
+- [[Revelation 14]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-9|Isaiah 21:9]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-9|Isaiah 21:9]])
+- [[Genesis 36]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-11|Isaiah 21:11]])
+- [[Ezekiel 35]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-11|Isaiah 21:11]])
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 21#^isa-21-16|Isaiah 21:16]])
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 35]] — 3 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
 - [[Jeremiah 44]] — 3 parallel verses, e.g. [[Isaiah 21#^isa-21-10|Isaiah 21:10]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]

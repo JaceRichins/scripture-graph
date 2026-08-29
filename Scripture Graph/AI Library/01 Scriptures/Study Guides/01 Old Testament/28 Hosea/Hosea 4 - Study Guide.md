@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 4
 slug: hosea-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 4]] · My notes: [[Hosea 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel loses all truth, mercy, and knowledge of God and goes whoring after false gods.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-1|Hosea 4:1]])
+- [[Hosea 12]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-1|Hosea 4:1]])
+- [[Micah 6]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-1|Hosea 4:1]])
+- [[Joel 1]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-3|Hosea 4:3]])
+- [[Isaiah 44]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-12|Hosea 4:12]])
+- [[Romans 1]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-12|Hosea 4:12]])
 - [[Hosea 2]] — 1 parallel verse, e.g. [[Hosea 4#^hosea-4-3|Hosea 4:3]] ↔ [[Hosea 2#^hosea-2-18|Hosea 2:18]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 35
 slug: alma-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 35]] · My notes: [[Alma 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The preaching of the word destroys the craft of the Zoramites—They expel the converts, who then join the people of Ammon in Jershon—Alma sorrows because of the wickedness of the people. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 30]] — 3 footnote cross-references (from [[Alma 35#^alma-35-2|Alma 35:2]])
+- [[Alma 31]] — 2 footnote cross-references (from [[Alma 35#^alma-35-14|Alma 35:14]])
+- [[Alma 28]] — 1 footnote cross-reference (from [[Alma 35#^alma-35-1|Alma 35:1]])
+- [[Alma 27]] — 1 footnote cross-reference (from [[Alma 35#^alma-35-8|Alma 35:8]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Alma 35#^alma-35-9|Alma 35:9]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Alma 35#^alma-35-9|Alma 35:9]])
 - [[Alma 24]] — 1 parallel verse, e.g. [[Alma 35#^alma-35-11|Alma 35:11]] ↔ [[Alma 24#^alma-24-4|Alma 24:4]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 35#^alma-35-13|Alma 35:13]] ↔ [[Alma 43#^alma-43-3|Alma 43:3]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Alma 35#^alma-35-1|Alma 35:1]] ↔ [[Alma 47#^alma-47-29|Alma 47:29]]

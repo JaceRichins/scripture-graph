@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 33
 slug: job-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 33]] · My notes: [[Job 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elihu says, God is greater than man, He speaks to man in dreams and visions, He ransoms those cast into the pit, and He delivers their souls and gives them life.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 55]] — 1 footnote cross-reference (from [[Job 33#^job-33-12|Job 33:12]])
+- [[1 Timothy 2]] — 1 footnote cross-reference (from [[Job 33#^job-33-24|Job 33:24]])
+- [[2 Kings 5]] — 1 footnote cross-reference (from [[Job 33#^job-33-25|Job 33:25]])
+- [[2 Nephi 32]] — 1 footnote cross-reference (from [[Job 33#^job-33-26|Job 33:26]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Job 33#^job-33-26|Job 33:26]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

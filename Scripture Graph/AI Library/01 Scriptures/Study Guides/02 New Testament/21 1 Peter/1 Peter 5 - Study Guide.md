@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 5
 slug: 1pet-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Peter 5]] · My notes: [[1 Peter 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The elders are to feed the flock of God—Humility and godly graces lead to perfection.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 66]] — 2 footnote cross-references (from [[1 Peter 5#^1pet-5-1|1 Peter 5:1]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-1|1 Peter 5:1]])
+- [[John 21]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-2|1 Peter 5:2]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-3|1 Peter 5:3]])
+- [[Luke 12]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-4|1 Peter 5:4]])
+- [[Acts 15]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-12|1 Peter 5:12]])
 - [[Revelation 1]] — 1 parallel verse, e.g. [[1 Peter 5#^1pet-5-11|1 Peter 5:11]] ↔ [[Revelation 1#^rev-1-6|Revelation 1:6]]
 <!-- SG:END related-scriptures -->
 

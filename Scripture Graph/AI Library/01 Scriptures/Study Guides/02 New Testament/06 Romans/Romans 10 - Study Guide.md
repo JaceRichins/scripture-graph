@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 10
 slug: rom-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 10]] · My notes: [[Romans 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Salvation comes through righteousness to those who believe in Christ—Faith comes by hearing the gospel taught by legal administrators sent of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,11 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Romans 9]] — 2 parallel verses, e.g. [[Romans 10#^rom-10-11|Romans 10:11]] ↔ [[Romans 9#^rom-9-33|Romans 9:33]]
-- [[Psalm 116]] — 2 parallel verses, e.g. [[Romans 10#^rom-10-13|Romans 10:13]] ↔ [[Psalm 116#^ps-116-13|Psalm 116:13]]
-- [[Ether 2]] — 2 parallel verses, e.g. [[Romans 10#^rom-10-13|Romans 10:13]] ↔ [[Ether 2#^ether-2-14|Ether 2:14]]
-- [[Deuteronomy 30]] — 1 parallel verse, e.g. [[Romans 10#^rom-10-8|Romans 10:8]] ↔ [[Deuteronomy 30#^deut-30-14|Deuteronomy 30:14]]
-- [[Isaiah 65]] — 1 parallel verse, e.g. [[Romans 10#^rom-10-20|Romans 10:20]] ↔ [[Isaiah 65#^isa-65-1|Isaiah 65:1]]
+- [[Galatians 3]] — 2 footnote cross-references (from [[Romans 10#^rom-10-12|Romans 10:12]])
+- [[Isaiah 65]] — 2 footnote cross-references (from [[Romans 10#^rom-10-20|Romans 10:20]])
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-4|Romans 10:4]])
+- [[D&C 46]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-10|Romans 10:10]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-12|Romans 10:12]])
+- [[Romans 2]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-12|Romans 10:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

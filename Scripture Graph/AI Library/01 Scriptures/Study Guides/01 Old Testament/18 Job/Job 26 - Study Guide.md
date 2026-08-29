@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 26
 slug: job-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 26]] · My notes: [[Job 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job reproves Bildad’s lack of empathy—He extols the power, greatness, and strength of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 139]] — 1 footnote cross-reference (from [[Job 26#^job-26-6|Job 26:6]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Job 26#^job-26-13|Job 26:13]])
+- [[Isaiah 27]] — 1 footnote cross-reference (from [[Job 26#^job-26-13|Job 26:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

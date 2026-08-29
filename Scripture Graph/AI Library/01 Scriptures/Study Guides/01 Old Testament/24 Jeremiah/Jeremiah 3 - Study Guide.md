@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 3]] · My notes: [[Jeremiah 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel and Judah defiled and polluted the land through wickedness—In the last days, the Lord will gather the people of Israel, one from a city and two from a family, and bring them to Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 14]] — 2 footnote cross-references (from [[Jeremiah 3#^jer-3-3|Jeremiah 3:3]])
+- [[Ezekiel 16]] — 2 footnote cross-references (from [[Jeremiah 3#^jer-3-7|Jeremiah 3:7]])
+- [[Ezekiel 23]] — 2 footnote cross-references (from [[Jeremiah 3#^jer-3-7|Jeremiah 3:7]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Jeremiah 3#^jer-3-2|Jeremiah 3:2]])
+- [[Amos 4]] — 1 footnote cross-reference (from [[Jeremiah 3#^jer-3-3|Jeremiah 3:3]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Jeremiah 3#^jer-3-3|Jeremiah 3:3]])
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]

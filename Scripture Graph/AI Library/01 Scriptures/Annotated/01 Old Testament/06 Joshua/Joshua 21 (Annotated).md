@@ -34,10 +34,10 @@ cssclasses:
 > [[1 Chronicles 6#^1chr-6-62|≈ 1 Chronicles 6:62]] · [[1 Chronicles 6#^1chr-6-70|≈ 1 Chronicles 6:70]] · [[1 Chronicles 6#^1chr-6-72|≈ 1 Chronicles 6:72]] · [[1 Chronicles 6#^1chr-6-74|≈ 1 Chronicles 6:74]] · [[1 Chronicles 6#^1chr-6-76|≈ 1 Chronicles 6:76]] · [[1 Chronicles 6#^1chr-6-61|≈ 1 Chronicles 6:61]]
 
 ![[Joshua 21#^josh-21-7]]
-> [[Joshua 20#^josh-20-8|≈ Joshua 20:8]] · [[1 Chronicles 6#^1chr-6-63|≈ 1 Chronicles 6:63]] · [[1 Chronicles 6#^1chr-6-80|≈ 1 Chronicles 6:80]]
+> [[1 Chronicles 6#^1chr-6-63|≈ 1 Chronicles 6:63]] · [[1 Chronicles 6#^1chr-6-80|≈ 1 Chronicles 6:80]] · [[Joshua 20#^josh-20-8|≈ Joshua 20:8]]
 
 ![[Joshua 21#^josh-21-8]]
-> [[Leviticus 8#^lev-8-36|≈ Leviticus 8:36]] · [[Numbers 27#^num-27-23|≈ Numbers 27:23]] · [[Numbers 36#^num-36-13|≈ Numbers 36:13]] · [[Joshua 14#^josh-14-2|≈ Joshua 14:2]] · [[1 Chronicles 6#^1chr-6-64|≈ 1 Chronicles 6:64]]
+> [[Leviticus 8#^lev-8-36|≈ Leviticus 8:36]] · [[Numbers 27#^num-27-23|≈ Numbers 27:23]] · [[Numbers 36#^num-36-13|≈ Numbers 36:13]] · [[1 Chronicles 6#^1chr-6-64|≈ 1 Chronicles 6:64]] · [[Joshua 14#^josh-14-2|≈ Joshua 14:2]]
 
 ![[Joshua 21#^josh-21-9]]
 > [[2 Chronicles 31#^2chr-31-15|2 Chr. 31:15]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]

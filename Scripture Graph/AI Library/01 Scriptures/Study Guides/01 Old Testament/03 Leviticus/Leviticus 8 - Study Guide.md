@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 8
 slug: lev-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 29]] — 8 footnote cross-references (from [[Leviticus 8#^lev-8-2|Leviticus 8:2]])
+- [[D&C 84]] — 3 footnote cross-references (from [[Leviticus 8#^lev-8-10|Leviticus 8:10]])
+- [[Exodus 28]] — 2 footnote cross-references (from [[Leviticus 8#^lev-8-7|Leviticus 8:7]])
+- [[D&C 109]] — 2 footnote cross-references (from [[Leviticus 8#^lev-8-7|Leviticus 8:7]])
+- [[Ezekiel 43]] — 2 footnote cross-references (from [[Leviticus 8#^lev-8-14|Leviticus 8:14]])
+- [[Leviticus 4]] — 2 footnote cross-references (from [[Leviticus 8#^lev-8-15|Leviticus 8:15]])
+- [[Exodus 29]] — 31 parallel verses, e.g. [[Leviticus 8#^lev-8-30|Leviticus 8:30]] ↔ [[Exodus 29#^ex-29-21|Exodus 29:21]]
 - [[Leviticus 14]] — 8 parallel verses, e.g. [[Leviticus 8#^lev-8-23|Leviticus 8:23]] ↔ [[Leviticus 14#^lev-14-25|Leviticus 14:25]]
 - [[Leviticus 3]] — 17 parallel verses, e.g. [[Leviticus 8#^lev-8-28|Leviticus 8:28]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
 - [[Leviticus 23]] — 14 parallel verses, e.g. [[Leviticus 8#^lev-8-21|Leviticus 8:21]] ↔ [[Leviticus 23#^lev-23-13|Leviticus 23:13]]
@@ -54,16 +61,16 @@ _Not yet developed._
 - [[Numbers 27]] — 2 parallel verses, e.g. [[Leviticus 8#^lev-8-4|Leviticus 8:4]] ↔ [[Numbers 27#^num-27-22|Numbers 27:22]]
 - [[Numbers 36]] — 2 parallel verses, e.g. [[Leviticus 8#^lev-8-36|Leviticus 8:36]] ↔ [[Numbers 36#^num-36-13|Numbers 36:13]]
 - [[Leviticus 22]] — 2 parallel verses, e.g. [[Leviticus 8#^lev-8-21|Leviticus 8:21]] ↔ [[Leviticus 22#^lev-22-27|Leviticus 22:27]]
-- [[Leviticus 24]] — 2 parallel verses, e.g. [[Leviticus 8#^lev-8-21|Leviticus 8:21]] ↔ [[Leviticus 24#^lev-24-7|Leviticus 24:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sacrifice]]
-- [[Consecration]]
 - [[Priesthood]]
 - [[Obedience]]
 - [[Law of Moses]]
+- [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Consecration]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

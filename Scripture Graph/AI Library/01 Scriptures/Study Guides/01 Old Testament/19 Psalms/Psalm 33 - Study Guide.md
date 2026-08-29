@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 33
 slug: ps-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 33]] · My notes: [[Psalm 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Rejoice in the Lord—Sing unto Him a new song—He loves righteousness and judgment—Blessed is the nation whose God is the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 25]] — 2 parallel verses, e.g. [[Psalm 33#^ps-33-14|Psalm 33:14]] ↔ [[Jeremiah 25#^jer-25-29|Jeremiah 25:29]]
+- [[D&C 38]] — 2 footnote cross-references (from [[Psalm 33#^ps-33-9|Psalm 33:9]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Psalm 33#^ps-33-11|Psalm 33:11]])
+- [[Moses 1]] — 2 footnote cross-references (from [[Psalm 33#^ps-33-11|Psalm 33:11]])
+- [[Psalm 147]] — 1 footnote cross-reference (from [[Psalm 33#^ps-33-1|Psalm 33:1]])
+- [[Alma 26]] — 1 footnote cross-reference (from [[Psalm 33#^ps-33-1|Psalm 33:1]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[Psalm 33#^ps-33-1|Psalm 33:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

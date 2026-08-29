@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 16
 slug: josh-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 16]] · My notes: [[Joshua 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Joseph (Ephraim and Manasseh) receive their inheritances—Some Canaanites continue to dwell among the Ephraimites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 12]] — 1 footnote cross-reference (from [[Joshua 16#^josh-16-2|Joshua 16:2]])
+- [[Genesis 28]] — 1 footnote cross-reference (from [[Joshua 16#^josh-16-2|Joshua 16:2]])
+- [[2 Kings 2]] — 1 footnote cross-reference (from [[Joshua 16#^josh-16-2|Joshua 16:2]])
+- [[Joshua 17]] — 1 footnote cross-reference (from [[Joshua 16#^josh-16-4|Joshua 16:4]])
+- [[Judges 1]] — 1 footnote cross-reference (from [[Joshua 16#^josh-16-10|Joshua 16:10]])
 - [[Joshua 19]] — 5 parallel verses, e.g. [[Joshua 16#^josh-16-8|Joshua 16:8]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[Joshua 16#^josh-16-8|Joshua 16:8]] ↔ [[Numbers 10#^num-10-15|Numbers 10:15]]
 - [[Numbers 34]] — 7 parallel verses, e.g. [[Joshua 16#^josh-16-8|Joshua 16:8]] ↔ [[Numbers 34#^num-34-24|Numbers 34:24]]

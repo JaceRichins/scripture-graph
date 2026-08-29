@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 17
 slug: 1sam-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 17]] · My notes: [[1 Samuel 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel and the Philistines engage in war—Goliath of Gath, a giant, defies Israel and challenges any Israelite to personal combat—David goes against him in the name of the Lord—David slays Goliath with a sling and a stone—Israel defeats the Philistines.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,18 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 29]] — 4 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
-- [[Jeremiah 35]] — 3 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
-- [[Jeremiah 44]] — 3 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]
-- [[Judges 20]] — 4 parallel verses, e.g. [[1 Samuel 17#^1sam-17-19|1 Samuel 17:19]] ↔ [[Judges 20#^judg-20-33|Judges 20:33]]
-- [[2 Samuel 17]] — 4 parallel verses, e.g. [[1 Samuel 17#^1sam-17-19|1 Samuel 17:19]] ↔ [[2 Samuel 17#^2sam-17-14|2 Samuel 17:14]]
-- [[Isaiah 18]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Isaiah 18#^isa-18-7|Isaiah 18:7]]
-- [[Jeremiah 7]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
-- [[Jeremiah 19]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
-- [[Jeremiah 27]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]]
-- [[Jeremiah 28]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
-- [[Jeremiah 32]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 32#^jer-32-14|Jeremiah 32:14]]
-- [[Jeremiah 42]] — 2 parallel verses, e.g. [[1 Samuel 17#^1sam-17-45|1 Samuel 17:45]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
+- [[1 Samuel 16]] — 3 footnote cross-references (from [[1 Samuel 17#^1sam-17-12|1 Samuel 17:12]])
+- [[2 Samuel 21]] — 2 footnote cross-references (from [[1 Samuel 17#^1sam-17-4|1 Samuel 17:4]])
+- [[1 Chronicles 2]] — 2 footnote cross-references (from [[1 Samuel 17#^1sam-17-12|1 Samuel 17:12]])
+- [[Joshua 11]] — 1 footnote cross-reference (from [[1 Samuel 17#^1sam-17-4|1 Samuel 17:4]])
+- [[1 Samuel 5]] — 1 footnote cross-reference (from [[1 Samuel 17#^1sam-17-4|1 Samuel 17:4]])
+- [[1 Chronicles 18]] — 1 footnote cross-reference (from [[1 Samuel 17#^1sam-17-4|1 Samuel 17:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

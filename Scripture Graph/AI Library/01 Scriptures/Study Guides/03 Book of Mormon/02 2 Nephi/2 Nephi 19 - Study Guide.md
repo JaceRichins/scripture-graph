@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 19]] · My notes: [[2 Nephi 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks messianically—The people in darkness will see a great light—Unto us a child is born—He will be the Prince of Peace and will reign on David’s throne—Compare Isaiah 9. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 9]] — 3 footnote cross-references (from [[2 Nephi 19#^2ne-19-1|2 Nephi 19:1]])
+- [[Joshua 19]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-1|2 Nephi 19:1]])
+- [[Malachi 4]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-5|2 Nephi 19:5]])
+- [[1 Kings 5]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-10|2 Nephi 19:10]])
+- [[Isaiah 10]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]])
+- [[Micah 7]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]])
 - [[Isaiah 9]] — 27 parallel verses, e.g. [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]] ↔ [[Isaiah 9#^isa-9-17|Isaiah 9:17]]
 - [[Isaiah 5]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[2 Nephi 15]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]

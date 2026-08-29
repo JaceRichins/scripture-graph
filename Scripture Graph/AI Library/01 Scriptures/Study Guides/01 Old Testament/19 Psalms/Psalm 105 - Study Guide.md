@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 105
 slug: ps-105
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 105]] · My notes: [[Psalm 105 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Make the Lord’s doings known among all men—Show His covenant with Abraham and His dealings with Israel—Touch not His anointed, and do His prophets no harm—Israel is to observe His statutes and keep His laws.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 1]] — 3 footnote cross-references (from [[Psalm 105#^ps-105-23|Psalm 105:23]])
+- [[Exodus 12]] — 3 footnote cross-references (from [[Psalm 105#^ps-105-36|Psalm 105:36]])
+- [[Genesis 41]] — 2 footnote cross-references (from [[Psalm 105#^ps-105-20|Psalm 105:20]])
+- [[Exodus 8]] — 2 footnote cross-references (from [[Psalm 105#^ps-105-30|Psalm 105:30]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[Psalm 105#^ps-105-2|Psalm 105:2]])
+- [[Exodus 2]] — 1 footnote cross-reference (from [[Psalm 105#^ps-105-8|Psalm 105:8]])
 - [[1 Chronicles 16]] — 12 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]]
 <!-- SG:END related-scriptures -->
 

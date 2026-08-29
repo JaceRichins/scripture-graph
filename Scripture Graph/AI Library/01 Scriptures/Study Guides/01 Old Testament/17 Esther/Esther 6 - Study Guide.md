@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 6
 slug: esth-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 6]] · My notes: [[Esther 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mordecai receives great honors—Haman mourns and is counseled by his wife.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 2]] — 2 footnote cross-references (from [[Esther 6#^esth-6-1|Esther 6:1]])
+- [[Esther 5]] — 2 footnote cross-references (from [[Esther 6#^esth-6-4|Esther 6:4]])
+- [[Esther 10]] — 1 footnote cross-reference (from [[Esther 6#^esth-6-1|Esther 6:1]])
+- [[Esther 4]] — 1 footnote cross-reference (from [[Esther 6#^esth-6-4|Esther 6:4]])
+- [[2 Samuel 15]] — 1 footnote cross-reference (from [[Esther 6#^esth-6-12|Esther 6:12]])
 - [[Esther 2]] — 2 parallel verses, e.g. [[Esther 6#^esth-6-3|Esther 6:3]] ↔ [[Esther 2#^esth-2-2|Esther 2:2]]
 <!-- SG:END related-scriptures -->
 

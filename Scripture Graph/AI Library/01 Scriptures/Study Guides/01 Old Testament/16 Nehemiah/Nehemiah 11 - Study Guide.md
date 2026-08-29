@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 11
 slug: neh-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 11]] · My notes: [[Nehemiah 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people and their overseers are elected by lot to dwell in Jerusalem and the other cities.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 107]] — 2 footnote cross-references (from [[Nehemiah 11#^neh-11-16|Nehemiah 11:16]])
+- [[Matthew 4]] — 1 footnote cross-reference (from [[Nehemiah 11#^neh-11-1|Nehemiah 11:1]])
+- [[Matthew 27]] — 1 footnote cross-reference (from [[Nehemiah 11#^neh-11-1|Nehemiah 11:1]])
+- [[Revelation 11]] — 1 footnote cross-reference (from [[Nehemiah 11#^neh-11-1|Nehemiah 11:1]])
+- [[Ezekiel 48]] — 1 footnote cross-reference (from [[Nehemiah 11#^neh-11-1|Nehemiah 11:1]])
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[Nehemiah 11#^neh-11-10|Nehemiah 11:10]])
 - [[1 Chronicles 9]] — 10 parallel verses, e.g. [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
 - [[1 Chronicles 6]] — 6 parallel verses, e.g. [[Nehemiah 11#^neh-11-4|Nehemiah 11:4]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
 - [[Ezra 7]] — 3 parallel verses, e.g. [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]] ↔ [[Ezra 7#^ezra-7-2|Ezra 7:2]]

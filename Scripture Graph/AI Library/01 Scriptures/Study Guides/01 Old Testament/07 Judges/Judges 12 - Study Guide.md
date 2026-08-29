@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 12
 slug: judg-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 12]] · My notes: [[Judges 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Gileadites slay 42,000 Ephraimites—Jephthah, Ibzan, Elon, and Abdon each in turn judge Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Judges 12#^judg-12-3|Judges 12:3]])
 - [[Judges 11]] — 3 parallel verses, e.g. [[Judges 12#^judg-12-1|Judges 12:1]] ↔ [[Judges 11#^judg-11-9|Judges 11:9]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 4
 slug: 1ne-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 4]] · My notes: [[1 Nephi 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi slays Laban at the Lord’s command and then secures the plates of brass by stratagem—Zoram chooses to join Lehi’s family in the wilderness. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 3]] — 4 footnote cross-references (from [[1 Nephi 4#^1ne-4-3|1 Nephi 4:3]])
+- [[1 Nephi 7]] — 3 footnote cross-references (from [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]])
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[1 Nephi 4#^1ne-4-2|1 Nephi 4:2]])
+- [[1 Nephi 2]] — 3 footnote cross-references (from [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[1 Nephi 4#^1ne-4-9|1 Nephi 4:9]])
+- [[1 Samuel 17]] — 2 footnote cross-references (from [[1 Nephi 4#^1ne-4-11|1 Nephi 4:11]])
 - [[1 Nephi 3]] — 3 parallel verses, e.g. [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]] ↔ [[1 Nephi 3#^1ne-3-16|1 Nephi 3:16]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[1 Nephi 4#^1ne-4-4|1 Nephi 4:4]] ↔ [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]]

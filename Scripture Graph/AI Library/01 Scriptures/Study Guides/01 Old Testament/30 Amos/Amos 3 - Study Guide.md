@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 3
 slug: amos-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Amos 3]] · My notes: [[Amos 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals His secrets unto His servants the prophets—Because Israel rejects the prophets and follows evil, the nation is overwhelmed by an adversary.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,8 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 41]] — 2 parallel verses, e.g. [[Amos 3#^amos-3-9|Amos 3:9]] ↔ [[Genesis 41#^gen-41-30|Genesis 41:30]]
-- [[Genesis 47]] — 2 parallel verses, e.g. [[Amos 3#^amos-3-9|Amos 3:9]] ↔ [[Genesis 47#^gen-47-14|Genesis 47:14]]
+- [[Amos 2]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-1|Amos 3:1]])
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-1|Amos 3:1]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-1|Amos 3:1]])
+- [[Psalm 147]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-2|Amos 3:2]])
+- [[Mosiah 26]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-2|Amos 3:2]])
+- [[D&C 103]] — 1 footnote cross-reference (from [[Amos 3#^amos-3-2|Amos 3:2]])
+- [[Amos 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

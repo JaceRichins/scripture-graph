@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 11
 slug: eccl-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 11]] · My notes: [[Ecclesiastes 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Do good and give to them who need—God will bring all men to judgment.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 16]] — 1 parallel verse, e.g. [[Ecclesiastes 11#^eccl-11-9|Ecclesiastes 11:9]] ↔ [[Ezekiel 16#^ezek-16-60|Ezekiel 16:60]]
+- [[D&C 39]] — 1 footnote cross-reference (from [[Ecclesiastes 11#^eccl-11-2|Ecclesiastes 11:2]])
+- [[John 3]] — 1 footnote cross-reference (from [[Ecclesiastes 11#^eccl-11-5|Ecclesiastes 11:5]])
+- [[Ecclesiastes 12]] — 1 footnote cross-reference (from [[Ecclesiastes 11#^eccl-11-8|Ecclesiastes 11:8]])
+- [[Job 31]] — 1 footnote cross-reference (from [[Ecclesiastes 11#^eccl-11-9|Ecclesiastes 11:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

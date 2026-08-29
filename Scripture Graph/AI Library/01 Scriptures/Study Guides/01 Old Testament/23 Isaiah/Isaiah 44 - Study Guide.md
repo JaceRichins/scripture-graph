@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 44
 slug: isa-44
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 44]] · My notes: [[Isaiah 44 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord’s Spirit will be poured out on the descendants of Israel—Idols of wood are as fuel for a fire—The Lord will gather, bless, and redeem Israel and rebuild Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 44#^isa-44-6|Isaiah 44:6]] ↔ [[1 Nephi 20#^1ne-20-12|1 Nephi 20:12]]
-- [[Ezekiel 15]] — 2 parallel verses, e.g. [[Isaiah 44#^isa-44-14|Isaiah 44:14]] ↔ [[Ezekiel 15#^ezek-15-2|Ezekiel 15:2]]
+- [[Isaiah 45]] — 5 footnote cross-references (from [[Isaiah 44#^isa-44-1|Isaiah 44:1]])
+- [[1 Nephi 20]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-1|Isaiah 44:1]])
+- [[Isaiah 49]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-2|Isaiah 44:2]])
+- [[Isaiah 41]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-8|Isaiah 44:8]])
+- [[Isaiah 46]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-8|Isaiah 44:8]])
+- [[Jeremiah 50]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-27|Isaiah 44:27]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

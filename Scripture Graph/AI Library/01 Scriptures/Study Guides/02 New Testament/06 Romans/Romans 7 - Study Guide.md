@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 7
 slug: rom-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 7]] · My notes: [[Romans 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The law of Moses is fulfilled in Christ—Paul delights in the law of God after the inward man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Corinthians 7]] — 3 parallel verses, e.g. [[Romans 7#^rom-7-3|Romans 7:3]] ↔ [[1 Corinthians 7#^1cor-7-39|1 Corinthians 7:39]]
+- [[2 Nephi 4]] — 3 footnote cross-references (from [[Romans 7#^rom-7-18|Romans 7:18]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Romans 7#^rom-7-1|Romans 7:1]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[Romans 7#^rom-7-4|Romans 7:4]])
+- [[Alma 42]] — 2 footnote cross-references (from [[Romans 7#^rom-7-5|Romans 7:5]])
+- [[Galatians 2]] — 1 footnote cross-reference (from [[Romans 7#^rom-7-4|Romans 7:4]])
+- [[D&C 74]] — 1 footnote cross-reference (from [[Romans 7#^rom-7-4|Romans 7:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

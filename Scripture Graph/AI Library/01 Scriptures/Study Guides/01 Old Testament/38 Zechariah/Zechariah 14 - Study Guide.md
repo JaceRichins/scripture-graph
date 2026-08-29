@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 14
 slug: zech-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 14]] · My notes: [[Zechariah 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At His Second Coming, the Lord will fight for Israel—His feet will stand upon the Mount of Olives—He will be King over all the earth—Plagues will destroy the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joel 3]] — 3 footnote cross-references (from [[Zechariah 14#^zech-14-2|Zechariah 14:2]])
+- [[D&C 45]] — 3 footnote cross-references (from [[Zechariah 14#^zech-14-4|Zechariah 14:4]])
+- [[1 Thessalonians 4]] — 2 footnote cross-references (from [[Zechariah 14#^zech-14-5|Zechariah 14:5]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Zechariah 14#^zech-14-1|Zechariah 14:1]])
+- [[Revelation 16]] — 1 footnote cross-reference (from [[Zechariah 14#^zech-14-2|Zechariah 14:2]])
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Zechariah 14#^zech-14-2|Zechariah 14:2]])
 - [[Isaiah 7]] — 6 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Isaiah 27]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Isaiah 10]] — 4 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]

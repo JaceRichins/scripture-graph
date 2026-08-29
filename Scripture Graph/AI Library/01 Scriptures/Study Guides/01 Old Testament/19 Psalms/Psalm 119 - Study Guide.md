@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 119#^ps-119-135|Psalm 119:135]] ↔ [[Psalm 31#^ps-31-16|Psalm 31:16]]
-- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Psalm 119#^ps-119-1|Psalm 119:1]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
-- [[Luke 2]] — 2 parallel verses, e.g. [[Psalm 119#^ps-119-1|Psalm 119:1]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
+- [[Psalm 19]] — 3 footnote cross-references (from [[Psalm 119#^ps-119-72|Psalm 119:72]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Psalm 119#^ps-119-46|Psalm 119:46]])
+- [[Psalm 63]] — 2 footnote cross-references (from [[Psalm 119#^ps-119-48|Psalm 119:48]])
+- [[Ezra 9]] — 2 footnote cross-references (from [[Psalm 119#^ps-119-53|Psalm 119:53]])
+- [[Psalm 37]] — 1 footnote cross-reference (from [[Psalm 119#^ps-119-11|Psalm 119:11]])
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[Psalm 119#^ps-119-24|Psalm 119:24]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

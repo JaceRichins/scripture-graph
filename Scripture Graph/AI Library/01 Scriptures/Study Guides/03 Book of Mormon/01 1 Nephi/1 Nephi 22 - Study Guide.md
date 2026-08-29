@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 22
 slug: 1ne-22
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -49,30 +49,36 @@ Nephi interprets the prophecy read in [[1 Nephi 21]] as concerning matters that 
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 14]] — 6 footnote cross-references (from [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]])
+- [[1 Nephi 21]] — 5 footnote cross-references (from [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]])
+- [[1 Nephi 19]] — 4 footnote cross-references (from [[1 Nephi 22#^1ne-22-1|1 Nephi 22:1]])
+- [[2 Nephi 10]] — 4 footnote cross-references (from [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]])
+- [[3 Nephi 20]] — 4 footnote cross-references (from [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]])
+- [[1 Nephi 15]] — 3 footnote cross-references (from [[1 Nephi 22#^1ne-22-6|1 Nephi 22:6]])
+- [[3 Nephi 20]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
+- [[Acts 3]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
 - [[1 Nephi 19]] — 6 parallel verses, e.g. [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
 - [[1 Nephi 14]] — 5 parallel verses, e.g. [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[2 Nephi 6]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
 - [[1 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-9|1 Nephi 22:9]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
 - [[D&C 29]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[D&C 29#^dc-29-21|D&C 29:21]]
 - [[1 Nephi 13]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
 - [[D&C 1]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]] ↔ [[D&C 1#^dc-1-9|D&C 1:9]]
 - [[2 Nephi 1]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]]
-- [[2 Nephi 27]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
-- [[Acts 7]] — 1 parallel verse, e.g. [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]] ↔ [[Acts 7#^acts-7-37|Acts 7:37]]
-- [[3 Nephi 26]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]]
-- [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
+- [[3 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]] ↔ [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Gathering of Israel]]
 - [[Scattering of Israel]]
-- [[Records and Sacred Writings]]
+- [[Gathering of Israel]]
 - [[Endurance]]
 - [[Satan and Temptation]]
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

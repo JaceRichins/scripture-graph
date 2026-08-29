@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 5
 slug: 2chr-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 5]] · My notes: [[2 Chronicles 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The temple is finished, and the ark of the covenant is placed in the Holy of Holies—The glory of the Lord fills the temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 8]] — 2 footnote cross-references (from [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]])
+- [[D&C 97]] — 2 footnote cross-references (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
+- [[D&C 77]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-8|2 Chronicles 5:8]])
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
+- [[Ezra 3]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
 - [[1 Kings 8]] — 13 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[1 Chronicles 15]] — 11 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[1 Samuel 4]] — 6 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]

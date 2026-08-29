@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 38
 slug: isa-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 38]] · My notes: [[Isaiah 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hezekiah’s life is lengthened fifteen years—The sun goes back ten degrees as a sign—Hezekiah praises and thanks the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 20]] — 2 footnote cross-references (from [[Isaiah 38#^isa-38-1|Isaiah 38:1]])
+- [[2 Chronicles 32]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-1|Isaiah 38:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-5|Isaiah 38:5]])
+- [[Isaiah 37]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-6|Isaiah 38:6]])
+- [[Joshua 10]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-8|Isaiah 38:8]])
+- [[Job 14]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-12|Isaiah 38:12]])
 - [[2 Kings 20]] — 7 parallel verses, e.g. [[Isaiah 38#^isa-38-1|Isaiah 38:1]] ↔ [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]]
 - [[2 Kings 18]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-6|Isaiah 38:6]] ↔ [[2 Kings 18#^2kgs-18-33|2 Kings 18:33]]
 - [[Isaiah 36]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-6|Isaiah 38:6]] ↔ [[Isaiah 36#^isa-36-18|Isaiah 36:18]]

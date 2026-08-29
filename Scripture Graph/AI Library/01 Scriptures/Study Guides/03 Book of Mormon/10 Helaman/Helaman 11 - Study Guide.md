@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 11
 slug: hel-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 11]] · My notes: [[Helaman 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi persuades the Lord to replace their war with a famine—Many people perish—They repent, and Nephi importunes the Lord for rain—Nephi and Lehi receive many revelations—The Gadianton robbers entrench themselves in the land. About 20–6 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 6]] — 4 footnote cross-references (from [[Helaman 11#^hel-11-2|Helaman 11:2]])
+- [[Helaman 10]] — 3 footnote cross-references (from [[Helaman 11#^hel-11-4|Helaman 11:4]])
+- [[Jarom 1]] — 2 footnote cross-references (from [[Helaman 11#^hel-11-20|Helaman 11:20]])
+- [[3 Nephi 1]] — 2 footnote cross-references (from [[Helaman 11#^hel-11-20|Helaman 11:20]])
+- [[Helaman 4]] — 2 footnote cross-references (from [[Helaman 11#^hel-11-24|Helaman 11:24]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Helaman 11#^hel-11-4|Helaman 11:4]])
 - [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-20|Helaman 11:20]] ↔ [[Alma 62#^alma-62-48|Alma 62:48]]
 - [[Helaman 5]] — 4 parallel verses, e.g. [[Helaman 11#^hel-11-23|Helaman 11:23]] ↔ [[Helaman 5#^hel-5-18|Helaman 5:18]]
 - [[Alma 28]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-1|Helaman 11:1]] ↔ [[Alma 28#^alma-28-4|Alma 28:4]]

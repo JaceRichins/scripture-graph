@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 12
 slug: hel-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 12]] · My notes: [[Helaman 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Men are unstable and foolish and quick to do evil—The Lord chastens His people—The nothingness of men is compared with the power of God—In the day of judgment, men will gain everlasting life or everlasting damnation. About 6 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 13]] — 2 footnote cross-references (from [[Helaman 12#^hel-12-18|Helaman 12:18]])
+- [[2 Chronicles 26]] — 1 footnote cross-reference (from [[Helaman 12#^hel-12-1|Helaman 12:1]])
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Helaman 12#^hel-12-1|Helaman 12:1]])
+- [[Psalm 36]] — 1 footnote cross-reference (from [[Helaman 12#^hel-12-1|Helaman 12:1]])
+- [[2 Nephi 22]] — 1 footnote cross-reference (from [[Helaman 12#^hel-12-1|Helaman 12:1]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Helaman 12#^hel-12-1|Helaman 12:1]])
 - [[Alma 9]] — 4 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-2|Helaman 12:2]] ↔ [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]]
 - [[Alma 42]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]

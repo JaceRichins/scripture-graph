@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 12
 slug: hosea-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 12]] · My notes: [[Hosea 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord uses prophets, visions, and similitudes to guide His people, but they become rich and will not wait on the Lord—Ephraim provokes Him most bitterly.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 28]] — 2 footnote cross-references (from [[Hosea 12#^hosea-12-4|Hosea 12:4]])
+- [[Isaiah 28]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-1|Hosea 12:1]])
+- [[Hosea 5]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-1|Hosea 12:1]])
+- [[Hosea 4]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-2|Hosea 12:2]])
+- [[Genesis 25]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-3|Hosea 12:3]])
+- [[Genesis 32]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-4|Hosea 12:4]])
 - [[Hosea 13]] — 1 parallel verse, e.g. [[Hosea 12#^hosea-12-9|Hosea 12:9]] ↔ [[Hosea 13#^hosea-13-4|Hosea 13:4]]
 <!-- SG:END related-scriptures -->
 

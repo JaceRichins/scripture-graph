@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 10
 slug: ezra-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 10]] · My notes: [[Ezra 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews covenant to put away their wives taken from the Canaanites and others—Ezra assembles the people at Jerusalem—The Levites who married non-Israelite women are listed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 5]] — 1 footnote cross-reference (from [[Ezra 10#^ezra-10-12|Ezra 10:12]])
 - [[Ezra 8]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-11|Ezra 10:11]] ↔ [[Ezra 8#^ezra-8-28|Ezra 8:28]]
 - [[2 Chronicles 29]] — 2 parallel verses, e.g. [[Ezra 10#^ezra-10-17|Ezra 10:17]] ↔ [[2 Chronicles 29#^2chr-29-17|2 Chronicles 29:17]]
 <!-- SG:END related-scriptures -->

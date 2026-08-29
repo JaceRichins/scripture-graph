@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 36
 slug: ex-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 36]] · My notes: [[Exodus 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wise-hearted men are chosen to work on the tabernacle—Moses restrains the people from donating any more material.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 35]] — 3 footnote cross-references (from [[Exodus 36#^ex-36-1|Exodus 36:1]])
+- [[Exodus 26]] — 2 footnote cross-references (from [[Exodus 36#^ex-36-8|Exodus 36:8]])
+- [[Exodus 31]] — 1 footnote cross-reference (from [[Exodus 36#^ex-36-1|Exodus 36:1]])
+- [[1 Kings 7]] — 1 footnote cross-reference (from [[Exodus 36#^ex-36-1|Exodus 36:1]])
 - [[Exodus 26]] — 25 parallel verses, e.g. [[Exodus 36#^ex-36-24|Exodus 36:24]] ↔ [[Exodus 26#^ex-26-19|Exodus 26:19]]
 - [[Exodus 39]] — 9 parallel verses, e.g. [[Exodus 36#^ex-36-8|Exodus 36:8]] ↔ [[Exodus 39#^ex-39-29|Exodus 39:29]]
 - [[Exodus 38]] — 4 parallel verses, e.g. [[Exodus 36#^ex-36-35|Exodus 36:35]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 12
 slug: 1ne-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 12]] · My notes: [[1 Nephi 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi sees in vision the land of promise; the righteousness, iniquity, and downfall of its inhabitants; the coming of the Lamb of God among them; how the Twelve Disciples and the Twelve Apostles will judge Israel; and the loathsome and filthy state of those who dwindle in unbelief. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 26]] — 6 footnote cross-references (from [[1 Nephi 12#^1ne-12-4|1 Nephi 12:4]])
+- [[3 Nephi 27]] — 4 footnote cross-references (from [[1 Nephi 12#^1ne-12-10|1 Nephi 12:10]])
+- [[1 Nephi 15]] — 4 footnote cross-references (from [[1 Nephi 12#^1ne-12-16|1 Nephi 12:16]])
+- [[1 Nephi 8]] — 3 footnote cross-references (from [[1 Nephi 12#^1ne-12-16|1 Nephi 12:16]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[1 Nephi 12#^1ne-12-2|1 Nephi 12:2]])
+- [[1 Nephi 19]] — 2 footnote cross-references (from [[1 Nephi 12#^1ne-12-4|1 Nephi 12:4]])
 - [[1 Nephi 13]] — 15 parallel verses, e.g. [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]] ↔ [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]]
 - [[1 Nephi 11]] — 10 parallel verses, e.g. [[1 Nephi 12#^1ne-12-11|1 Nephi 12:11]] ↔ [[1 Nephi 11#^1ne-11-8|1 Nephi 11:8]]
 - [[1 Nephi 14]] — 5 parallel verses, e.g. [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]] ↔ [[1 Nephi 14#^1ne-14-16|1 Nephi 14:16]]

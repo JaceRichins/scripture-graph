@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 25]] · My notes: [[3 Nephi 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day—Compare Malachi 4. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Malachi 4]] — 3 footnote cross-references (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
+- [[D&C 110]] — 2 footnote cross-references (from [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]])
+- [[Psalm 21]] — 1 footnote cross-reference (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
+- [[Isaiah 24]] — 1 footnote cross-reference (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
+- [[Isaiah 66]] — 1 footnote cross-reference (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
 - [[Malachi 4]] — 6 parallel verses, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[3 Nephi 25#^3ne-25-6|3 Nephi 25:6]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]

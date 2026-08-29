@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 26
 slug: 1sam-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 26]] · My notes: [[1 Samuel 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David again spares Saul’s life—He again refuses to stretch forth his hand against the Lord’s anointed—Saul and David separate.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 2]] — 1 footnote cross-reference (from [[1 Samuel 26#^1sam-26-6|1 Samuel 26:6]])
+- [[1 Samuel 24]] — 1 footnote cross-reference (from [[1 Samuel 26#^1sam-26-9|1 Samuel 26:9]])
+- [[1 Samuel 31]] — 1 footnote cross-reference (from [[1 Samuel 26#^1sam-26-10|1 Samuel 26:10]])
+- [[Mosiah 24]] — 1 footnote cross-reference (from [[1 Samuel 26#^1sam-26-12|1 Samuel 26:12]])
+- [[Alma 55]] — 1 footnote cross-reference (from [[1 Samuel 26#^1sam-26-12|1 Samuel 26:12]])
 - [[1 Samuel 23]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-1|1 Samuel 26:1]] ↔ [[1 Samuel 23#^1sam-23-19|1 Samuel 23:19]]
 - [[1 Samuel 24]] — 2 parallel verses, e.g. [[1 Samuel 26#^1sam-26-17|1 Samuel 26:17]] ↔ [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]]
 <!-- SG:END related-scriptures -->

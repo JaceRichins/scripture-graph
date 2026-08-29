@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 17
 slug: ex-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 17]] · My notes: [[Exodus 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel murmurs for want of water—Moses smites a rock in Horeb, and water gushes forth—Aaron and Hur uphold Moses’ hands so that Joshua prevails against Amalek.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 32]] — 2 footnote cross-references (from [[Exodus 17#^ex-17-2|Exodus 17:2]])
+- [[Numbers 20]] — 2 footnote cross-references (from [[Exodus 17#^ex-17-6|Exodus 17:6]])
+- [[Numbers 33]] — 1 footnote cross-reference (from [[Exodus 17#^ex-17-1|Exodus 17:1]])
+- [[Exodus 7]] — 1 footnote cross-reference (from [[Exodus 17#^ex-17-5|Exodus 17:5]])
+- [[Psalm 74]] — 1 footnote cross-reference (from [[Exodus 17#^ex-17-6|Exodus 17:6]])
+- [[Psalm 78]] — 1 footnote cross-reference (from [[Exodus 17#^ex-17-6|Exodus 17:6]])
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Exodus 35#^ex-35-20|Exodus 35:20]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[Numbers 21]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-7|Exodus 17:7]] ↔ [[Numbers 21#^num-21-3|Numbers 21:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 22
 slug: 1chr-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 22]] · My notes: [[1 Chronicles 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prepares gold, silver, brass, iron, stone, and cedar wood for the temple—He charges Solomon to do the work of building it.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 5]] — 2 footnote cross-references (from [[1 Chronicles 22#^1chr-22-4|1 Chronicles 22:4]])
+- [[1 Chronicles 29]] — 2 footnote cross-references (from [[1 Chronicles 22#^1chr-22-5|1 Chronicles 22:5]])
+- [[2 Chronicles 3]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-1|1 Chronicles 22:1]])
+- [[2 Samuel 24]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-1|1 Chronicles 22:1]])
+- [[1 Kings 9]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-2|1 Chronicles 22:2]])
+- [[1 Kings 3]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-5|1 Chronicles 22:5]])
 - [[1 Chronicles 28]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[1 Chronicles 28#^1chr-28-6|1 Chronicles 28:6]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[1 Kings 5]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]] ↔ [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]]

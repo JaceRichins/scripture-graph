@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,7 @@ _Not yet developed._
 - [[D&C 124]] — 4 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-19|D&C 128:19]] ↔ [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
-- [[D&C 138]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
+- [[Official Declaration 1]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-21|D&C 128:21]] ↔ [[Official Declaration 1#^od-1-9|Official Declaration 1:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

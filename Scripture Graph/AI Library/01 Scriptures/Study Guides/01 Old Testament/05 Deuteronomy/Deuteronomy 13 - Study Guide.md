@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 13
 slug: deut-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 13]] · My notes: [[Deuteronomy 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord tests His people to see if they will worship false gods—Prophets, dreamers, relatives, or friends who advocate worship of false gods will be put to death—Idolatrous cities will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 17]] — 2 footnote cross-references (from [[Deuteronomy 13#^deut-13-9|Deuteronomy 13:9]])
+- [[Exodus 22]] — 1 footnote cross-reference (from [[Deuteronomy 13#^deut-13-2|Deuteronomy 13:2]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Deuteronomy 13#^deut-13-6|Deuteronomy 13:6]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Deuteronomy 13#^deut-13-8|Deuteronomy 13:8]])
+- [[Judges 20]] — 1 footnote cross-reference (from [[Deuteronomy 13#^deut-13-13|Deuteronomy 13:13]])
+- [[1 Samuel 1]] — 1 footnote cross-reference (from [[Deuteronomy 13#^deut-13-13|Deuteronomy 13:13]])
 - [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]] ↔ [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]]
 - [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 13#^deut-13-7|Deuteronomy 13:7]] ↔ [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]

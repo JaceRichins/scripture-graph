@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 58
 slug: alma-58
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 58]] · My notes: [[Alma 58 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Helaman, Gid, and Teomner take the city of Manti by a stratagem—The Lamanites withdraw—The sons of the people of Ammon are preserved as they stand fast in defense of their liberty and faith. About 63–62 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 56]] — 4 footnote cross-references (from [[Alma 58#^alma-58-1|Alma 58:1]])
+- [[Alma 59]] — 4 footnote cross-references (from [[Alma 58#^alma-58-25|Alma 58:25]])
+- [[Alma 52]] — 2 footnote cross-references (from [[Alma 58#^alma-58-1|Alma 58:1]])
+- [[Alma 61]] — 2 footnote cross-references (from [[Alma 58#^alma-58-36|Alma 58:36]])
+- [[1 Samuel 24]] — 1 footnote cross-reference (from [[Alma 58#^alma-58-6|Alma 58:6]])
+- [[3 Nephi 4]] — 1 footnote cross-reference (from [[Alma 58#^alma-58-6|Alma 58:6]])
 - [[Alma 57]] — 4 parallel verses, e.g. [[Alma 58#^alma-58-14|Alma 58:14]] ↔ [[Alma 57#^alma-57-17|Alma 57:17]]
 - [[Mosiah 9]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-10|Alma 58:10]] ↔ [[Mosiah 9#^mosiah-9-17|Mosiah 9:17]]
 - [[Alma 52]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-30|Alma 58:30]] ↔ [[Alma 52#^alma-52-23|Alma 52:23]]

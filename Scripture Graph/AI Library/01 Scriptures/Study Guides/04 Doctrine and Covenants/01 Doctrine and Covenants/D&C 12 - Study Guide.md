@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 12
 slug: dc-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 12]] · My notes: [[D&C 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Laborers in the vineyard are to gain salvation; 7–9, All who desire and are qualified may assist in the Lord’s work.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 11]] — 2 footnote cross-references (from [[D&C 12#^dc-12-1|D&C 12:1]])
+- [[D&C 4]] — 2 footnote cross-references (from [[D&C 12#^dc-12-1|D&C 12:1]])
+- [[D&C 14]] — 2 footnote cross-references (from [[D&C 12#^dc-12-3|D&C 12:3]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[D&C 12#^dc-12-1|D&C 12:1]])
+- [[Hebrews 4]] — 1 footnote cross-reference (from [[D&C 12#^dc-12-2|D&C 12:2]])
+- [[D&C 33]] — 1 footnote cross-reference (from [[D&C 12#^dc-12-3|D&C 12:3]])
 - [[D&C 11]] — 6 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 6]] — 6 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
 - [[D&C 14]] — 5 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 73
 slug: ps-73
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 73]] · My notes: [[Psalm 73 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God is good to Israel—The wicked and ungodly prosper in this world—They will be consumed with terrors hereafter—Those who trust in the Lord will be received up unto glory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 68]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-7|Psalm 73:7]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-8|Psalm 73:8]])
+- [[Job 22]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-11|Psalm 73:11]])
+- [[Job 12]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
+- [[Psalm 17]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
+- [[Helaman 7]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

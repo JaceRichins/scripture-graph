@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 5
 slug: lev-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 5]] · My notes: [[Leviticus 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people are to confess and make amends for their sins—Forgiveness comes through a trespass offering—Priests thereby make an atonement for sin.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 7]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-1|Leviticus 5:1]])
+- [[Leviticus 19]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-1|Leviticus 5:1]])
+- [[Leviticus 11]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-2|Leviticus 5:2]])
+- [[Numbers 19]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-2|Leviticus 5:2]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-4|Leviticus 5:4]])
+- [[Numbers 5]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-5|Leviticus 5:5]])
 - [[Leviticus 4]] — 28 parallel verses, e.g. [[Leviticus 5#^lev-5-12|Leviticus 5:12]] ↔ [[Leviticus 4#^lev-4-35|Leviticus 4:35]]
 - [[Leviticus 14]] — 17 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
 - [[Leviticus 6]] — 10 parallel verses, e.g. [[Leviticus 5#^lev-5-18|Leviticus 5:18]] ↔ [[Leviticus 6#^lev-6-6|Leviticus 6:6]]

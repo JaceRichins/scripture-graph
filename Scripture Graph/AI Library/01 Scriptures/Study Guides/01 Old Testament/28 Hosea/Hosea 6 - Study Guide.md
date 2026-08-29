@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 6
 slug: hosea-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 6]] · My notes: [[Hosea 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hosea calls Israel to return and serve the Lord—The mercy and knowledge of God are more important than ritualistic sacrifices.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 103]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-1|Hosea 6:1]])
+- [[Hosea 14]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-4|Hosea 6:4]])
+- [[Hebrews 4]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-5|Hosea 6:5]])
+- [[Matthew 9]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-6|Hosea 6:6]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-6|Hosea 6:6]])
+- [[Hosea 8]] — 1 footnote cross-reference (from [[Hosea 6#^hosea-6-7|Hosea 6:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 1
 slug: john-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 1]] · My notes: [[John 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ is the Word of God—He created all things and was made flesh—John baptizes Jesus and testifies that He is the Lamb of God—John, Andrew, Simon, Philip, and Nathanael believe in Christ and follow Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 3 footnote cross-references (from [[John 1#^john-1-9|John 1:9]])
+- [[D&C 93]] — 3 footnote cross-references (from [[John 1#^john-1-14|John 1:14]])
+- [[D&C 76]] — 2 footnote cross-references (from [[John 1#^john-1-1|John 1:1]])
+- [[D&C 6]] — 2 footnote cross-references (from [[John 1#^john-1-5|John 1:5]])
+- [[D&C 45]] — 2 footnote cross-references (from [[John 1#^john-1-5|John 1:5]])
+- [[John 19]] — 2 footnote cross-references (from [[John 1#^john-1-7|John 1:7]])
 - [[D&C 93]] — 4 parallel verses, e.g. [[John 1#^john-1-14|John 1:14]] ↔ [[D&C 93#^dc-93-11|D&C 93:11]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[John 1#^john-1-27|John 1:27]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[D&C 11]] — 1 parallel verse, e.g. [[John 1#^john-1-12|John 1:12]] ↔ [[D&C 11#^dc-11-30|D&C 11:30]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 14
 slug: hel-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 14]] · My notes: [[Helaman 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel predicts light during the night and a new star at Christ’s birth—Christ redeems men from temporal and spiritual death—The signs of His death include three days of darkness, the rending of the rocks, and great upheavals of nature. About 6 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 1]] — 5 footnote cross-references (from [[Helaman 14#^hel-14-2|Helaman 14:2]])
+- [[3 Nephi 8]] — 5 footnote cross-references (from [[Helaman 14#^hel-14-20|Helaman 14:20]])
+- [[3 Nephi 10]] — 5 footnote cross-references (from [[Helaman 14#^hel-14-21|Helaman 14:21]])
+- [[Helaman 13]] — 3 footnote cross-references (from [[Helaman 14#^hel-14-1|Helaman 14:1]])
+- [[1 Nephi 19]] — 3 footnote cross-references (from [[Helaman 14#^hel-14-21|Helaman 14:21]])
+- [[3 Nephi 23]] — 2 footnote cross-references (from [[Helaman 14#^hel-14-1|Helaman 14:1]])
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 42#^alma-42-11|Alma 42:11]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[Jacob 5#^jacob-5-46|Jacob 5:46]]

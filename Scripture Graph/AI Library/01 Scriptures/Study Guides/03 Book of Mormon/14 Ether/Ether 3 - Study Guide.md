@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 3
 slug: ether-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 3]] · My notes: [[Ether 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The brother of Jared sees the finger of the Lord as He touches sixteen stones—Christ shows His spirit body to the brother of Jared—Those who have a perfect knowledge cannot be kept from within the veil—Interpreters are provided to bring the Jaredite record to light.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 1]] — 4 footnote cross-references (from [[Ether 3#^ether-3-2|Ether 3:2]])
+- [[Ether 4]] — 3 footnote cross-references (from [[Ether 3#^ether-3-1|Ether 3:1]])
+- [[Ether 1]] — 3 footnote cross-references (from [[Ether 3#^ether-3-3|Ether 3:3]])
+- [[Ether 12]] — 3 footnote cross-references (from [[Ether 3#^ether-3-4|Ether 3:4]])
+- [[D&C 17]] — 3 footnote cross-references (from [[Ether 3#^ether-3-16|Ether 3:16]])
+- [[Mosiah 8]] — 3 footnote cross-references (from [[Ether 3#^ether-3-22|Ether 3:22]])
 - [[Ether 2]] — 6 parallel verses, e.g. [[Ether 3#^ether-3-21|Ether 3:21]] ↔ [[Ether 2#^ether-2-20|Ether 2:20]]
 - [[Ether 1]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-1|Ether 3:1]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
 - [[Ether 12]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-20|Ether 3:20]] ↔ [[Ether 12#^ether-12-19|Ether 12:19]]

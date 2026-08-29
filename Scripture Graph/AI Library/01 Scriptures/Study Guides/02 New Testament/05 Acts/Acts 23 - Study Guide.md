@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 23
 slug: acts-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 23]] · My notes: [[Acts 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul is smitten at Ananias’s order—The Lord again appears to Paul—Forty Jews plot his death—He is delivered over to Felix.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 22]] — 4 footnote cross-references (from [[Acts 23#^acts-23-9|Acts 23:9]])
+- [[Acts 24]] — 3 footnote cross-references (from [[Acts 23#^acts-23-2|Acts 23:2]])
+- [[Acts 25]] — 2 footnote cross-references (from [[Acts 23#^acts-23-12|Acts 23:12]])
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 23#^acts-23-27|Acts 23:27]])
+- [[John 18]] — 1 footnote cross-reference (from [[Acts 23#^acts-23-2|Acts 23:2]])
+- [[Psalm 5]] — 1 footnote cross-reference (from [[Acts 23#^acts-23-3|Acts 23:3]])
 - [[Acts 24]] — 1 parallel verse, e.g. [[Acts 23#^acts-23-6|Acts 23:6]] ↔ [[Acts 24#^acts-24-21|Acts 24:21]]
 <!-- SG:END related-scriptures -->
 

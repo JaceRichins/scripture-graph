@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 17
 slug: isa-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 17]] · My notes: [[Isaiah 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel was scattered because she forgot God—Yet the nations that plunder her will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Zephaniah 3]] — 1 parallel verse, e.g. [[Isaiah 17#^isa-17-2|Isaiah 17:2]] ↔ [[Zephaniah 3#^zeph-3-13|Zephaniah 3:13]]
+- [[Isaiah 7]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-1|Isaiah 17:1]])
+- [[Hosea 8]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-7|Isaiah 17:7]])
+- [[Micah 5]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-8|Isaiah 17:8]])
+- [[Helaman 7]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-10|Isaiah 17:10]])
+- [[Psalm 68]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-10|Isaiah 17:10]])
+- [[Psalm 83]] — 1 footnote cross-reference (from [[Isaiah 17#^isa-17-13|Isaiah 17:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

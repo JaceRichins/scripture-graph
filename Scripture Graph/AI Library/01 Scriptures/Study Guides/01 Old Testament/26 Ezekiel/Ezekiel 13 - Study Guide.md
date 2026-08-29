@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 13
 slug: ezek-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 13]] · My notes: [[Ezekiel 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel reproves false prophets, both male and female, who speak lies, to whom God has not spoken.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hosea 9]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-3|Ezekiel 13:3]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-3|Ezekiel 13:3]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-3|Ezekiel 13:3]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]])
+- [[Jeremiah 28]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-10|Ezekiel 13:10]])
+- [[Ezekiel 22]] — 1 footnote cross-reference (from [[Ezekiel 13#^ezek-13-10|Ezekiel 13:10]])
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
 - [[Ezekiel 28]] — 2 parallel verses, e.g. [[Ezekiel 13#^ezek-13-20|Ezekiel 13:20]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Ezekiel 29]] — 2 parallel verses, e.g. [[Ezekiel 13#^ezek-13-20|Ezekiel 13:20]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]

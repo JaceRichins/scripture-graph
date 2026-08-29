@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 9
 slug: deut-9
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ The chapter does not declare Israel innocent. Its closing prayer appeals to God'
 - [[Deuteronomy 12]] — 1 footnote cross-reference (from [[Deuteronomy 9#^deut-9-1|Deuteronomy 9:1]])
 - [[Numbers 13]] — 1 footnote cross-reference (from [[Deuteronomy 9#^deut-9-1|Deuteronomy 9:1]])
 - [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Deuteronomy 9#^deut-9-2|Deuteronomy 9:2]])
+- [[Exodus 32]] — 8 parallel verses, e.g. [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]] ↔ [[Exodus 32#^ex-32-8|Exodus 32:8]]
 - [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Deuteronomy 9#^deut-9-18|Deuteronomy 9:18]] ↔ [[Deuteronomy 31#^deut-31-29|Deuteronomy 31:29]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
@@ -65,14 +66,13 @@ The chapter does not declare Israel innocent. Its closing prayer appeals to God'
 - [[Genesis 8]] — 1 parallel verse, e.g. [[Deuteronomy 9#^deut-9-11|Deuteronomy 9:11]] ↔ [[Genesis 8#^gen-8-6|Genesis 8:6]]
 - [[1 Kings 17]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]] ↔ [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]]
 - [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-5|Deuteronomy 9:5]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
-- [[Deuteronomy 28]] — 2 parallel verses, e.g. [[Deuteronomy 9#^deut-9-5|Deuteronomy 9:5]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
-- [[Exodus and Deliverance]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

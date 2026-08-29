@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 6
 slug: neh-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 6]] · My notes: [[Nehemiah 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sanballat engages in intrigue against Nehemiah and the building of the wall—The Jews finish the construction of the wall.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 2]] — 2 footnote cross-references (from [[Nehemiah 6#^neh-6-1|Nehemiah 6:1]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[Nehemiah 6#^neh-6-2|Nehemiah 6:2]])
+- [[Alma 55]] — 1 footnote cross-reference (from [[Nehemiah 6#^neh-6-8|Nehemiah 6:8]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[Nehemiah 6#^neh-6-13|Nehemiah 6:13]])
+- [[Nehemiah 4]] — 1 footnote cross-reference (from [[Nehemiah 6#^neh-6-16|Nehemiah 6:16]])
+- [[Ezra 8]] — 1 footnote cross-reference (from [[Nehemiah 6#^neh-6-18|Nehemiah 6:18]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

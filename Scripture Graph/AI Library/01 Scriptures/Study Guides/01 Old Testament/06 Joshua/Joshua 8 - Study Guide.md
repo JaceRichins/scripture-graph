@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 8
 slug: josh-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 8]] · My notes: [[Joshua 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua uses an ambush, takes Ai, and slays its inhabitants—He builds an altar in Mount Ebal—The words of the law, both blessings and cursings, are read to the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 27]] — 2 footnote cross-references (from [[Joshua 8#^josh-8-31|Joshua 8:31]])
+- [[Mormon 7]] — 1 footnote cross-reference (from [[Joshua 8#^josh-8-2|Joshua 8:2]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Joshua 8#^josh-8-2|Joshua 8:2]])
+- [[Judges 9]] — 1 footnote cross-reference (from [[Joshua 8#^josh-8-13|Joshua 8:13]])
+- [[Judges 16]] — 1 footnote cross-reference (from [[Joshua 8#^josh-8-13|Joshua 8:13]])
+- [[Judges 20]] — 1 footnote cross-reference (from [[Joshua 8#^josh-8-13|Joshua 8:13]])
 - [[Joshua 10]] — 5 parallel verses, e.g. [[Joshua 8#^josh-8-24|Joshua 8:24]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Joshua 8#^josh-8-33|Joshua 8:33]] ↔ [[Deuteronomy 31#^deut-31-25|Deuteronomy 31:25]]
 - [[Joshua 11]] — 4 parallel verses, e.g. [[Joshua 8#^josh-8-24|Joshua 8:24]] ↔ [[Joshua 11#^josh-11-14|Joshua 11:14]]

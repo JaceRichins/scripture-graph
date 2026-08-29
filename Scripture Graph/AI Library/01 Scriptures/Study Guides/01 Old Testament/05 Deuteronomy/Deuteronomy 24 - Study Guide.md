@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 24
 slug: deut-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 24]] · My notes: [[Deuteronomy 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws are given concerning divorce, newly married persons, making merchandise of men, taking pledges, leprosy, oppression of servants, and leaving gleanings of crops.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 1]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-1|Deuteronomy 24:1]])
+- [[Deuteronomy 20]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-5|Deuteronomy 24:5]])
+- [[Deuteronomy 21]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-7|Deuteronomy 24:7]])
+- [[Exodus 22]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-13|Deuteronomy 24:13]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-13|Deuteronomy 24:13]])
+- [[Proverbs 14]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-14|Deuteronomy 24:14]])
 - [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]]
 - [[2 Kings 14]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-16|Deuteronomy 24:16]] ↔ [[2 Kings 14#^2kgs-14-6|2 Kings 14:6]]
 - [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]]
@@ -47,6 +54,8 @@ _Not yet developed._
 - [[Deuteronomy 26]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
 - [[Deuteronomy 19]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]
 - [[Deuteronomy 21]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
+- [[Leviticus 19]] — 0 parallel verses
+- [[Leviticus 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 138
 slug: ps-138
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 138]] · My notes: [[Psalm 138 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David praises the Lord for His loving kindness and truth—He worships toward the holy temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Psalm 138#^ps-138-4|Psalm 138:4]] ↔ [[2 Chronicles 9#^2chr-9-22|2 Chronicles 9:22]]
+- [[Enos 1]] — 1 footnote cross-reference (from [[Psalm 138#^ps-138-3|Psalm 138:3]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Psalm 138#^ps-138-4|Psalm 138:4]])
+- [[Psalm 23]] — 1 footnote cross-reference (from [[Psalm 138#^ps-138-7|Psalm 138:7]])
+- [[D&C 127]] — 1 footnote cross-reference (from [[Psalm 138#^ps-138-7|Psalm 138:7]])
+- [[Isaiah 64]] — 1 footnote cross-reference (from [[Psalm 138#^ps-138-8|Psalm 138:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

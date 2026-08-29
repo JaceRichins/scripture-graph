@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 63
 slug: isa-63
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 63]] · My notes: [[Isaiah 63 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Second Coming will be a day of vengeance and also the year of the redeemed of the Lord—Then the Saints will praise the Lord and acknowledge Him as their father.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 133]] — 5 footnote cross-references (from [[Isaiah 63#^isa-63-2|Isaiah 63:2]])
+- [[Revelation 19]] — 2 footnote cross-references (from [[Isaiah 63#^isa-63-2|Isaiah 63:2]])
+- [[Isaiah 64]] — 2 footnote cross-references (from [[Isaiah 63#^isa-63-16|Isaiah 63:16]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Isaiah 63#^isa-63-1|Isaiah 63:1]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[Isaiah 63#^isa-63-2|Isaiah 63:2]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Isaiah 63#^isa-63-2|Isaiah 63:2]])
 - [[D&C 133]] — 5 parallel verses, e.g. [[Isaiah 63#^isa-63-9|Isaiah 63:9]] ↔ [[D&C 133#^dc-133-53|D&C 133:53]]
 - [[2 Kings 23]] — 2 parallel verses, e.g. [[Isaiah 63#^isa-63-7|Isaiah 63:7]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
 - [[2 Kings 24]] — 2 parallel verses, e.g. [[Isaiah 63#^isa-63-7|Isaiah 63:7]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]

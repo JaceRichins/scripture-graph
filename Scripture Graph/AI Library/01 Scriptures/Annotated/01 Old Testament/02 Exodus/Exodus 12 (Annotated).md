@@ -45,7 +45,7 @@ cssclasses:
 > [[Isaiah 11#^isa-11-5|Isa. 11:5]] · [[D&C 27#^dc-27-15|D&amp;C 27:15 (15–18)]] · [[Deuteronomy 16#^deut-16-3|Deut. 16:3]]
 
 ![[Exodus 12#^ex-12-12]]
-> [[Isaiah 19#^isa-19-1|Isa. 19:1]] · [[Jeremiah 43#^jer-43-12|Jer. 43:12]] · [[Alma 17#^alma-17-15|Alma 17:15]] · [[Mormon 4#^morm-4-14|Morm. 4:14 (14, 21)]] · [[Abraham 1#^abr-1-6|Abr. 1:8 (6–14)]] · [[Numbers 3#^num-3-13|≈ Numbers 3:13]] · [[Exodus 11#^ex-11-5|≈ Exodus 11:5]]
+> [[Isaiah 19#^isa-19-1|Isa. 19:1]] · [[Jeremiah 43#^jer-43-12|Jer. 43:12]] · [[Alma 17#^alma-17-15|Alma 17:15]] · [[Mormon 4#^morm-4-14|Morm. 4:14 (14, 21)]] · [[Abraham 1#^abr-1-6|Abr. 1:8 (6–14)]] · [[Exodus 13#^ex-13-15|≈ Exodus 13:15]] · [[Numbers 3#^num-3-13|≈ Numbers 3:13]] · [[Exodus 11#^ex-11-5|≈ Exodus 11:5]]
 
 ![[Exodus 12#^ex-12-13]]
 
@@ -91,7 +91,7 @@ cssclasses:
 > [[Hebrews 11#^heb-11-24|Heb. 11:28 (24–29)]]
 
 ![[Exodus 12#^ex-12-29]]
-> [[Exodus 13#^ex-13-15|Ex. 13:15]] · [[Numbers 8#^num-8-17|Num. 8:17 (17–18)]] · [[Psalm 105#^ps-105-36|Ps. 105:36]] · [[Numbers 3#^num-3-13|≈ Numbers 3:13]] · [[Exodus 11#^ex-11-5|≈ Exodus 11:5]]
+> [[Exodus 13#^ex-13-15|Ex. 13:15]] · [[Numbers 8#^num-8-17|Num. 8:17 (17–18)]] · [[Psalm 105#^ps-105-36|Ps. 105:36]] · [[Exodus 13#^ex-13-15|≈ Exodus 13:15]] · [[Numbers 3#^num-3-13|≈ Numbers 3:13]] · [[Exodus 11#^ex-11-5|≈ Exodus 11:5]]
 
 ![[Exodus 12#^ex-12-30]]
 

@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 6|Plain text]] · [[Job 6 - Study Guide|Study guide]] · [[Job 6 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Job bemoans his grief—He prays that God will grant his petitions—Those who are afflicted should be pitied—How forcible are right words!
+
 ![[Job 6#^job-6-1]]
 
 ![[Job 6#^job-6-2]]
@@ -66,6 +69,7 @@ cssclasses:
 ![[Job 6#^job-6-26]]
 
 ![[Job 6#^job-6-27]]
+> [[2 Nephi 28#^2ne-28-8|2 Ne. 28:8]]
 
 ![[Job 6#^job-6-28]]
 

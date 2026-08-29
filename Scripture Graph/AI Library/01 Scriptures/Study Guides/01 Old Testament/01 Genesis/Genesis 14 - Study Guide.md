@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 14]] · My notes: [[Genesis 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lot is captured in the battles of the kings—He is rescued by Abram—Melchizedek administers bread and wine and blesses Abram—Abram pays tithes—He declines to accept the spoils of conquest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,8 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 52]] — 2 parallel verses, e.g. [[Genesis 14#^gen-14-17|Genesis 14:17]] ↔ [[Jeremiah 52#^jer-52-32|Jeremiah 52:32]]
-- [[2 Kings 25]] — 2 parallel verses, e.g. [[Genesis 14#^gen-14-17|Genesis 14:17]] ↔ [[2 Kings 25#^2kgs-25-28|2 Kings 25:28]]
+- [[Deuteronomy 2]] — 3 footnote cross-references (from [[Genesis 14#^gen-14-5|Genesis 14:5]])
+- [[Genesis 11]] — 2 footnote cross-references (from [[Genesis 14#^gen-14-1|Genesis 14:1]])
+- [[Genesis 13]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-2|Genesis 14:2]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-2|Genesis 14:2]])
+- [[Numbers 34]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-3|Genesis 14:3]])
+- [[Genesis 6]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-5|Genesis 14:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

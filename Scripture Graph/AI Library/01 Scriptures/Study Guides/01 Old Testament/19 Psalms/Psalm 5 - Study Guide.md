@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 5
 slug: ps-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 5]] · My notes: [[Psalm 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David asks the Lord to hear his voice—The Lord hates workers of iniquity—He blesses and shields the righteous.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Isaiah 43]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-2|Psalm 5:2]])
+- [[Alma 37]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-3|Psalm 5:3]])
+- [[Job 27]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-4|Psalm 5:4]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-5|Psalm 5:5]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-7|Psalm 5:7]])
+- [[Daniel 6]] — 1 footnote cross-reference (from [[Psalm 5#^ps-5-7|Psalm 5:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

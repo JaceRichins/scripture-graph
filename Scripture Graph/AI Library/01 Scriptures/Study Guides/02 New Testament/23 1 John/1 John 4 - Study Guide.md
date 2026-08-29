@@ -52,8 +52,8 @@ _Not yet developed._
 - [[1 Thessalonians 5]] — 1 footnote cross-reference (from [[1 John 4#^1jn-4-1|1 John 4:1]])
 - [[D&C 11]] — 1 footnote cross-reference (from [[1 John 4#^1jn-4-1|1 John 4:1]])
 - [[D&C 129]] — 1 footnote cross-reference (from [[1 John 4#^1jn-4-1|1 John 4:1]])
-- [[1 John 5]] — 0 parallel verses
-- [[2 John 1]] — 0 parallel verses
+- [[2 John 1]] — 2 parallel verses, e.g. [[1 John 4#^1jn-4-3|1 John 4:3]] ↔ [[2 John 1#^2jn-1-7|2 John 1:7]]
+- [[1 John 5]] — 2 parallel verses, e.g. [[1 John 4#^1jn-4-7|1 John 4:7]] ↔ [[1 John 5#^1jn-5-1|1 John 5:1]]
 - [[1 John 3]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses

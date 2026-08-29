@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 4]] · My notes: [[Romans 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abraham’s faith was accounted to him for righteousness—Man is justified by faith, righteous works, and grace.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 32]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-7|Romans 4:7]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-11|Romans 4:11]])
+- [[Romans 5]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-15|Romans 4:15]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-15|Romans 4:15]])
+- [[Alma 42]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-15|Romans 4:15]])
+- [[Genesis 18]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-21|Romans 4:21]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

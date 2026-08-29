@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 10
 slug: 1sam-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 10]] · My notes: [[1 Samuel 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel anoints Saul to be captain over the Lord’s inheritance—Samuel manifests the gift of seership—Saul prophesies among the prophets, and the Lord gives him a new heart—He is chosen king at Mizpeh.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,9 +41,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 19]] — 2 footnote cross-references (from [[1 Samuel 10#^1sam-10-10|1 Samuel 10:10]])
+- [[1 Kings 1]] — 1 footnote cross-reference (from [[1 Samuel 10#^1sam-10-1|1 Samuel 10:1]])
+- [[Judges 18]] — 1 footnote cross-reference (from [[1 Samuel 10#^1sam-10-4|1 Samuel 10:4]])
+- [[2 Kings 3]] — 1 footnote cross-reference (from [[1 Samuel 10#^1sam-10-5|1 Samuel 10:5]])
+- [[2 Peter 1]] — 1 footnote cross-reference (from [[1 Samuel 10#^1sam-10-6|1 Samuel 10:6]])
+- [[1 Samuel 13]] — 1 footnote cross-reference (from [[1 Samuel 10#^1sam-10-8|1 Samuel 10:8]])
 - [[Judges 6]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]] ↔ [[Judges 6#^judg-6-9|Judges 6:9]]
 - [[Exodus 18]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]] ↔ [[Exodus 18#^ex-18-10|Exodus 18:10]]
 - [[1 Samuel 9]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-23|1 Samuel 10:23]] ↔ [[1 Samuel 9#^1sam-9-2|1 Samuel 9:2]]
+- [[2 Kings 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

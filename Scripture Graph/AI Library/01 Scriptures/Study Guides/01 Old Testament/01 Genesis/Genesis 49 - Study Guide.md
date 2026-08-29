@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 49]] · My notes: [[Genesis 49 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob blesses his sons and their seed—Reuben, Simeon, and Levi are chastened—Judah will rule until Shiloh (Christ) comes—Joseph is a fruitful bough by a well—His branches (the Nephites and Lamanites) will run over the wall—The Shepherd and Stone of Israel (Christ) will bless Joseph temporally and spiritually—Jacob chooses to be buried with his fathers in Canaan—He yields up the ghost and is gathered to his people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 33]] — 12 footnote cross-references (from [[Genesis 49#^gen-49-3|Genesis 49:3]])
+- [[Genesis 30]] — 6 footnote cross-references (from [[Genesis 49#^gen-49-13|Genesis 49:13]])
+- [[D&C 133]] — 4 footnote cross-references (from [[Genesis 49#^gen-49-11|Genesis 49:11]])
+- [[Genesis 29]] — 3 footnote cross-references (from [[Genesis 49#^gen-49-3|Genesis 49:3]])
+- [[Genesis 34]] — 3 footnote cross-references (from [[Genesis 49#^gen-49-5|Genesis 49:5]])
+- [[1 Chronicles 5]] — 2 footnote cross-references (from [[Genesis 49#^gen-49-3|Genesis 49:3]])
 - [[Genesis 50]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 50#^gen-50-13|Genesis 50:13]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 25
 slug: deut-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 25]] · My notes: [[Deuteronomy 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judges prescribe punishment for the wicked—The marriage law provides for a brother’s widow—Just weights and measures are required—Israel is commanded to blot out the Amalekites from under heaven.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ruth 4]] — 4 footnote cross-references (from [[Deuteronomy 25#^deut-25-5|Deuteronomy 25:5]])
+- [[Leviticus 19]] — 2 footnote cross-references (from [[Deuteronomy 25#^deut-25-13|Deuteronomy 25:13]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[Deuteronomy 25#^deut-25-1|Deuteronomy 25:1]])
+- [[Luke 12]] — 1 footnote cross-reference (from [[Deuteronomy 25#^deut-25-2|Deuteronomy 25:2]])
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Deuteronomy 25#^deut-25-3|Deuteronomy 25:3]])
+- [[1 Corinthians 9]] — 1 footnote cross-reference (from [[Deuteronomy 25#^deut-25-4|Deuteronomy 25:4]])
 - [[Deuteronomy 19]] — 8 parallel verses, e.g. [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]
 - [[Deuteronomy 15]] — 4 parallel verses, e.g. [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]] ↔ [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 5
 slug: song-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 5]] · My notes: [[Song of Solomon 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The song of love and affection continues.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Song of Solomon 4]] — 2 footnote cross-references (from [[Song of Solomon 5#^song-5-1|Song of Solomon 5:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

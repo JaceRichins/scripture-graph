@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 27
 slug: jer-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 27]] · My notes: [[Jeremiah 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord sends word to many nations that they are to serve Babylon—The vessels of the Lord’s house will go into Babylon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 52]] — 3 footnote cross-references (from [[Jeremiah 27#^jer-27-3|Jeremiah 27:3]])
+- [[Jeremiah 28]] — 2 footnote cross-references (from [[Jeremiah 27#^jer-27-2|Jeremiah 27:2]])
+- [[2 Kings 24]] — 2 footnote cross-references (from [[Jeremiah 27#^jer-27-11|Jeremiah 27:11]])
+- [[Jeremiah 26]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-3|Jeremiah 27:3]])
+- [[Ezekiel 28]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-3|Jeremiah 27:3]])
 - [[Jeremiah 28]] — 14 parallel verses, e.g. [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]] ↔ [[Jeremiah 28#^jer-28-4|Jeremiah 28:4]]
 - [[Jeremiah 29]] — 10 parallel verses, e.g. [[Jeremiah 27#^jer-27-15|Jeremiah 27:15]] ↔ [[Jeremiah 29#^jer-29-9|Jeremiah 29:9]]
 - [[Jeremiah 35]] — 7 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]

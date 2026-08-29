@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 21
 slug: judg-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 21]] · My notes: [[Judges 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people lament the desolation of Benjamin—The inhabitants of Jabesh-gilead are destroyed for not engaging in the war with Benjamin—Wives are provided for the remnant of Benjamin.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 17]] — 2 footnote cross-references (from [[Judges 21#^judg-21-25|Judges 21:25]])
+- [[Judges 5]] — 1 footnote cross-reference (from [[Judges 21#^judg-21-5|Judges 21:5]])
+- [[Joshua 8]] — 1 footnote cross-reference (from [[Judges 21#^judg-21-20|Judges 21:20]])
+- [[Mosiah 20]] — 1 footnote cross-reference (from [[Judges 21#^judg-21-21|Judges 21:21]])
+- [[Judges 18]] — 1 footnote cross-reference (from [[Judges 21#^judg-21-25|Judges 21:25]])
+- [[Deuteronomy 12]] — 1 footnote cross-reference (from [[Judges 21#^judg-21-25|Judges 21:25]])
 - [[Judges 17]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-25|Judges 21:25]] ↔ [[Judges 17#^judg-17-6|Judges 17:6]]
 - [[Judges 9]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-4|Judges 21:4]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Judges 21#^judg-21-5|Judges 21:5]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 7
 slug: num-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 7]] · My notes: [[Numbers 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The princes of Israel make offerings for the tabernacle at its dedication—The Lord speaks to Moses from the mercy seat, between the cherubim, upon the ark.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 40]] — 1 footnote cross-reference (from [[Numbers 7#^num-7-1|Numbers 7:1]])
+- [[Numbers 1]] — 1 footnote cross-reference (from [[Numbers 7#^num-7-2|Numbers 7:2]])
+- [[Genesis 45]] — 1 footnote cross-reference (from [[Numbers 7#^num-7-3|Numbers 7:3]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Numbers 7#^num-7-89|Numbers 7:89]])
 - [[Numbers 29]] — 60 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Numbers 29#^num-29-5|Numbers 29:5]]
 - [[Leviticus 23]] — 36 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
 - [[Numbers 28]] — 24 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]

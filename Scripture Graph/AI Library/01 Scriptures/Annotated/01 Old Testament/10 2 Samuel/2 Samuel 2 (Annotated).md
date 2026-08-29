@@ -17,7 +17,7 @@ cssclasses:
 > David is anointed king over the house of Judah—Ishbosheth becomes the king of Israel—David’s followers defeat Abner and the men of Israel.
 
 ![[2 Samuel 2#^2sam-2-1]]
-> [[Judges 20#^judg-20-23|≈ Judges 20:23]] · [[2 Samuel 5#^2sam-5-19|≈ 2 Samuel 5:19]] · [[1 Samuel 23#^1sam-23-2|≈ 1 Samuel 23:2]]
+> [[2 Samuel 5#^2sam-5-19|≈ 2 Samuel 5:19]] · [[Judges 20#^judg-20-23|≈ Judges 20:23]] · [[1 Samuel 23#^1sam-23-2|≈ 1 Samuel 23:2]]
 
 ![[2 Samuel 2#^2sam-2-2]]
 > [[1 Samuel 25#^1sam-25-42|1 Sam. 25:43 (42–43)]] · [[1 Samuel 27#^1sam-27-3|27:3]] · [[D&C 132#^dc-132-39|D&amp;C 132:39]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 31
 slug: ps-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 31]] · My notes: [[Psalm 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David trusts in the Lord and rejoices in His mercy—Speaking as the Messiah he says, Into Thine hand I commit my spirit—He counsels, O love the Lord, all ye His Saints, for the Lord preserves the faithful.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 9]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-1|Psalm 31:1]])
+- [[Psalm 23]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-3|Psalm 31:3]])
+- [[Psalm 109]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-3|Psalm 31:3]])
+- [[Psalm 9]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-4|Psalm 31:4]])
+- [[Psalm 25]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-4|Psalm 31:4]])
+- [[Luke 23]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-5|Psalm 31:5]])
 - [[Psalm 71]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-1|Psalm 31:1]] ↔ [[Psalm 71#^ps-71-1|Psalm 71:1]]
 - [[Psalm 6]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-9|Psalm 31:9]] ↔ [[Psalm 6#^ps-6-2|Psalm 6:2]]
 <!-- SG:END related-scriptures -->

@@ -13,9 +13,13 @@ cssclasses:
 
 [[Psalm 82|Plain text]] · [[Psalm 82 - Study Guide|Study guide]] · [[Psalm 82 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Thus says the Lord, Ye are gods and children of the Most High.
+
 ![[Psalm 82#^ps-82-1]]
 
 ![[Psalm 82#^ps-82-2]]
+> [[Proverbs 18#^prov-18-5|Prov. 18:5]]
 
 ![[Psalm 82#^ps-82-3]]
 
@@ -26,5 +30,6 @@ cssclasses:
 ![[Psalm 82#^ps-82-6]]
 
 ![[Psalm 82#^ps-82-7]]
+> [[1 Corinthians 15#^1cor-15-22|1 Cor. 15:22]]
 
 ![[Psalm 82#^ps-82-8]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 16
 slug: mark-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 16]] · My notes: [[Mark 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ is risen—He appears to Mary Magdalene, then to others—He sends the Apostles to preach and promises that signs will follow faith—He ascends into heaven.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,14 +42,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 20]] — 2 footnote cross-references (from [[Mark 16#^mark-16-2|Mark 16:2]])
+- [[Luke 8]] — 1 footnote cross-reference (from [[Mark 16#^mark-16-9|Mark 16:9]])
+- [[Matthew 14]] — 1 footnote cross-reference (from [[Mark 16#^mark-16-14|Mark 16:14]])
+- [[Mark 4]] — 1 footnote cross-reference (from [[Mark 16#^mark-16-14|Mark 16:14]])
+- [[Luke 24]] — 1 footnote cross-reference (from [[Mark 16#^mark-16-14|Mark 16:14]])
+- [[Acts 6]] — 1 footnote cross-reference (from [[Mark 16#^mark-16-15|Mark 16:15]])
 - [[Mormon 9]] — 4 parallel verses, e.g. [[Mark 16#^mark-16-18|Mark 16:18]] ↔ [[Mormon 9#^morm-9-24|Mormon 9:24]]
 - [[Ether 4]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-16|Mark 16:16]] ↔ [[Ether 4#^ether-4-18|Ether 4:18]]
 - [[D&C 68]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-16|Mark 16:16]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
 - [[D&C 112]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-16|Mark 16:16]] ↔ [[D&C 112#^dc-112-29|D&C 112:29]]
 - [[Matthew 28]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-7|Mark 16:7]] ↔ [[Matthew 28#^matt-28-7|Matthew 28:7]]
+- [[D&C 84]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-17|Mark 16:17]] ↔ [[D&C 84#^dc-84-65|D&C 84:65]]
 - [[Luke 24]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-2|Mark 16:2]] ↔ [[Luke 24#^luke-24-1|Luke 24:1]]
 - [[Mark 15]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-1|Mark 16:1]] ↔ [[Mark 15#^mark-15-40|Mark 15:40]]
-- [[D&C 84]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-17|Mark 16:17]] ↔ [[D&C 84#^dc-84-65|D&C 84:65]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-1|Mark 16:1]] ↔ [[Matthew 27#^matt-27-56|Matthew 27:56]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-15|Mark 16:15]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
 <!-- SG:END related-scriptures -->

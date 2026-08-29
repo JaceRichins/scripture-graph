@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 28
 slug: mosiah-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 28]] · My notes: [[Mosiah 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons of Mosiah go to preach to the Lamanites—Using the two seer stones, Mosiah translates the Jaredite plates. About 92 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 17]] — 5 footnote cross-references (from [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]])
+- [[Alma 26]] — 3 footnote cross-references (from [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]])
+- [[Alma 37]] — 3 footnote cross-references (from [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]])
+- [[Mosiah 8]] — 3 footnote cross-references (from [[Mosiah 28#^mosiah-28-12|Mosiah 28:12]])
+- [[Mosiah 27]] — 2 footnote cross-references (from [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]])
+- [[Mosiah 1]] — 2 footnote cross-references (from [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]])
 - [[Mosiah 1]] — 3 parallel verses, e.g. [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
 - [[Ether 1]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]] ↔ [[Alma 37#^alma-37-9|Alma 37:9]]

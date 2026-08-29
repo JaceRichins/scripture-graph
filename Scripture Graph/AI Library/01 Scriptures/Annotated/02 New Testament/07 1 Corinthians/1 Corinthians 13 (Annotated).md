@@ -13,6 +13,9 @@ cssclasses:
 
 [[1 Corinthians 13|Plain text]] · [[1 Corinthians 13 - Study Guide|Study guide]] · [[1 Corinthians 13 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Paul discusses the high status of charity—Charity, a pure love, excels and exceeds almost all else.
+
 ![[1 Corinthians 13#^1cor-13-1]]
 
 ![[1 Corinthians 13#^1cor-13-2]]
@@ -39,5 +42,6 @@ cssclasses:
 ![[1 Corinthians 13#^1cor-13-11]]
 
 ![[1 Corinthians 13#^1cor-13-12]]
+> [[2 Corinthians 3#^2cor-3-18|2 Cor. 3:18]] · [[James 1#^james-1-22|James 1:23 (22–27)]]
 
 ![[1 Corinthians 13#^1cor-13-13]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 9
 slug: jer-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 9]] · My notes: [[Jeremiah 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah sorrows greatly because of the sins of the people—They will be scattered among the nations and punished.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Micah 7]] — 2 footnote cross-references (from [[Jeremiah 9#^jer-9-4|Jeremiah 9:4]])
+- [[Isaiah 1]] — 2 footnote cross-references (from [[Jeremiah 9#^jer-9-7|Jeremiah 9:7]])
+- [[Psalm 64]] — 1 footnote cross-reference (from [[Jeremiah 9#^jer-9-3|Jeremiah 9:3]])
+- [[John 17]] — 1 footnote cross-reference (from [[Jeremiah 9#^jer-9-3|Jeremiah 9:3]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Jeremiah 9#^jer-9-3|Jeremiah 9:3]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Jeremiah 9#^jer-9-4|Jeremiah 9:4]])
 - [[Jeremiah 5]] — 2 parallel verses, e.g. [[Jeremiah 9#^jer-9-9|Jeremiah 9:9]] ↔ [[Jeremiah 5#^jer-5-29|Jeremiah 5:29]]
 - [[Jeremiah 31]] — 5 parallel verses, e.g. [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]

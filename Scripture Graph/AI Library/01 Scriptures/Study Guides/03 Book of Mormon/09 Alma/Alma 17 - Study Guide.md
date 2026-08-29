@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 17
 slug: alma-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 17]] · My notes: [[Alma 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons of Mosiah have the spirit of prophecy and of revelation—They go their several ways to declare the word to the Lamanites—Ammon goes to the land of Ishmael and becomes the servant of King Lamoni—Ammon saves the king’s flocks and slays his enemies at the water of Sebus. Verses 1–3, about 77 B.C.; verse 4, about 91–77 B.C.; and verses 5–39, about 91 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 28]] — 4 footnote cross-references (from [[Alma 17#^alma-17-6|Alma 17:6]])
+- [[Alma 26]] — 4 footnote cross-references (from [[Alma 17#^alma-17-6|Alma 17:6]])
+- [[Alma 18]] — 4 footnote cross-references (from [[Alma 17#^alma-17-15|Alma 17:15]])
+- [[Alma 19]] — 4 footnote cross-references (from [[Alma 17#^alma-17-23|Alma 17:23]])
+- [[Alma 21]] — 3 footnote cross-references (from [[Alma 17#^alma-17-13|Alma 17:13]])
+- [[Mosiah 27]] — 2 footnote cross-references (from [[Alma 17#^alma-17-1|Alma 17:1]])
 - [[Alma 21]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 21#^alma-21-17|Alma 21:17]]
 - [[Alma 26]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 26#^alma-26-24|Alma 26:24]]
 - [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-4|Alma 17:4]] ↔ [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]]

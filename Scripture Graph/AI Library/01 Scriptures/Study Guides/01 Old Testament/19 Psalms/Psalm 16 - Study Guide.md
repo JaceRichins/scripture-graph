@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 16
 slug: ps-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 16]] · My notes: [[Psalm 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—He rejoices in the Saints who are on the earth, in his own future redemption from hell, in the fact that God will not suffer His Holy One (the Messiah) to see corruption, and in the fulness of joy that is found in the Lord’s presence.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-4|Psalm 16:4]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-4|Psalm 16:4]])
+- [[Alma 7]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-4|Psalm 16:4]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-4|Psalm 16:4]])
+- [[Abraham 1]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-4|Psalm 16:4]])
+- [[Psalm 73]] — 1 footnote cross-reference (from [[Psalm 16#^ps-16-5|Psalm 16:5]])
 - [[Acts 2]] — 1 parallel verse, e.g. [[Psalm 16#^ps-16-10|Psalm 16:10]] ↔ [[Acts 2#^acts-2-27|Acts 2:27]]
 <!-- SG:END related-scriptures -->
 

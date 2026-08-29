@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 21
 slug: 1kgs-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 21]] · My notes: [[1 Kings 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ahab desires the vineyard of Naboth—Jezebel arranges for false witnesses, and Naboth is stoned for blasphemy—Elijah prophesies that Ahab and Jezebel and their house will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 9]] — 2 footnote cross-references (from [[1 Kings 21#^1kgs-21-21|1 Kings 21:21]])
+- [[2 Kings 21]] — 1 footnote cross-reference (from [[1 Kings 21#^1kgs-21-26|1 Kings 21:26]])
+- [[2 Kings 6]] — 1 footnote cross-reference (from [[1 Kings 21#^1kgs-21-27|1 Kings 21:27]])
 - [[2 Kings 9]] — 2 parallel verses, e.g. [[1 Kings 21#^1kgs-21-21|1 Kings 21:21]] ↔ [[2 Kings 9#^2kgs-9-8|2 Kings 9:8]]
 - [[1 Kings 14]] — 3 parallel verses, e.g. [[1 Kings 21#^1kgs-21-21|1 Kings 21:21]] ↔ [[1 Kings 14#^1kgs-14-10|1 Kings 14:10]]
 - [[1 Kings 16]] — 3 parallel verses, e.g. [[1 Kings 21#^1kgs-21-22|1 Kings 21:22]] ↔ [[1 Kings 16#^1kgs-16-3|1 Kings 16:3]]

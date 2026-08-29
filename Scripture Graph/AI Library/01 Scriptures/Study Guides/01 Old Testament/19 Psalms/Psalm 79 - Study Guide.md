@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 79
 slug: ps-79
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 79]] · My notes: [[Psalm 79 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The heathen nations destroy Jerusalem and defile the temple—Israel pleads for forgiveness and deliverance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 5]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-1|Psalm 79:1]])
+- [[Lamentations 1]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-1|Psalm 79:1]])
+- [[2 Kings 25]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-1|Psalm 79:1]])
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-3|Psalm 79:3]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-3|Psalm 79:3]])
+- [[Jeremiah 14]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-3|Psalm 79:3]])
 - [[Psalm 44]] — 1 parallel verse, e.g. [[Psalm 79#^ps-79-4|Psalm 79:4]] ↔ [[Psalm 44#^ps-44-13|Psalm 44:13]]
 <!-- SG:END related-scriptures -->
 

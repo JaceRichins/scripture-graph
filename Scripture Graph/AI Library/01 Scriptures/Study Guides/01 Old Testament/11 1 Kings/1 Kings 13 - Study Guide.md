@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 13
 slug: 1kgs-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 13]] · My notes: [[1 Kings 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeroboam is smitten and then healed by a prophet from Judah—The prophet delivers his message, is led astray by a prophet from Bethel, and is slain by a lion for his disobedience—Jeroboam continues false worship in Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 23]] — 2 footnote cross-references (from [[1 Kings 13#^1kgs-13-2|1 Kings 13:2]])
+- [[2 Chronicles 34]] — 1 footnote cross-reference (from [[1 Kings 13#^1kgs-13-2|1 Kings 13:2]])
 - [[1 Kings 16]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 16#^1kgs-16-12|1 Kings 16:12]]
 - [[2 Kings 17]] — 2 parallel verses, e.g. [[1 Kings 13#^1kgs-13-32|1 Kings 13:32]] ↔ [[2 Kings 17#^2kgs-17-29|2 Kings 17:29]]
 - [[1 Kings 14]] — 1 parallel verse, e.g. [[1 Kings 13#^1kgs-13-26|1 Kings 13:26]] ↔ [[1 Kings 14#^1kgs-14-18|1 Kings 14:18]]

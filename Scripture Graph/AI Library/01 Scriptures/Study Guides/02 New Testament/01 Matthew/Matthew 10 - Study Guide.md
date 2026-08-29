@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 10
 slug: matt-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 10]] · My notes: [[Matthew 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus instructs and empowers the Twelve Apostles and sends them forth to preach, minister, and heal the sick—Those who receive the Twelve receive the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 6 footnote cross-references (from [[Matthew 10#^matt-10-8|Matthew 10:8]])
+- [[Luke 9]] — 5 footnote cross-references (from [[Matthew 10#^matt-10-5|Matthew 10:5]])
+- [[Luke 10]] — 5 footnote cross-references (from [[Matthew 10#^matt-10-9|Matthew 10:9]])
+- [[D&C 24]] — 3 footnote cross-references (from [[Matthew 10#^matt-10-9|Matthew 10:9]])
+- [[Mark 13]] — 2 footnote cross-references (from [[Matthew 10#^matt-10-19|Matthew 10:19]])
+- [[Luke 21]] — 2 footnote cross-references (from [[Matthew 10#^matt-10-19|Matthew 10:19]])
 - [[Mark 13]] — 5 parallel verses, e.g. [[Matthew 10#^matt-10-22|Matthew 10:22]] ↔ [[Mark 13#^mark-13-13|Mark 13:13]]
 - [[Luke 12]] — 4 parallel verses, e.g. [[Matthew 10#^matt-10-26|Matthew 10:26]] ↔ [[Luke 12#^luke-12-2|Luke 12:2]]
 - [[Mark 6]] — 2 parallel verses, e.g. [[Matthew 10#^matt-10-15|Matthew 10:15]] ↔ [[Mark 6#^mark-6-11|Mark 6:11]]

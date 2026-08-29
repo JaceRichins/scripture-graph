@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 33
 slug: isa-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 33]] · My notes: [[Isaiah 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Apostasy and wickedness will precede the Second Coming—The Lord will come with devouring fire—Zion and its stakes will be perfected—The Lord is our Judge, Lawgiver, and King.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 14]] — 2 parallel verses, e.g. [[Isaiah 33#^isa-33-6|Isaiah 33:6]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
+- [[Isaiah 17]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-1|Isaiah 33:1]])
+- [[Habakkuk 2]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-1|Isaiah 33:1]])
+- [[Isaiah 21]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-1|Isaiah 33:1]])
+- [[Isaiah 26]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-2|Isaiah 33:2]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-2|Isaiah 33:2]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Isaiah 33#^isa-33-2|Isaiah 33:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

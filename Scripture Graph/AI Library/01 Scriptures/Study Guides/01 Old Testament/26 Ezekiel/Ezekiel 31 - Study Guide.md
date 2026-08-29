@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 31
 slug: ezek-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 31]] · My notes: [[Ezekiel 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Pharaoh’s glory and fall are compared to that of the Assyrians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 28]] — 2 footnote cross-references (from [[Ezekiel 31#^ezek-31-9|Ezekiel 31:9]])
+- [[Isaiah 19]] — 1 footnote cross-reference (from [[Ezekiel 31#^ezek-31-2|Ezekiel 31:2]])
+- [[Ezekiel 32]] — 1 footnote cross-reference (from [[Ezekiel 31#^ezek-31-2|Ezekiel 31:2]])
+- [[Isaiah 10]] — 1 footnote cross-reference (from [[Ezekiel 31#^ezek-31-3|Ezekiel 31:3]])
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Ezekiel 31#^ezek-31-3|Ezekiel 31:3]])
+- [[Isaiah 14]] — 1 footnote cross-reference (from [[Ezekiel 31#^ezek-31-10|Ezekiel 31:10]])
 - [[Ezekiel 32]] — 10 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 - [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
 - [[Ezekiel 30]] — 1 parallel verse, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]]

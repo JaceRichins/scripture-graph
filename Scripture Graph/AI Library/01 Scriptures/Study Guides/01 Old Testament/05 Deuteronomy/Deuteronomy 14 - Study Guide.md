@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 14
 slug: deut-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 14]] · My notes: [[Deuteronomy 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Israelites are children of the Lord Jehovah—Unclean beasts, fish, and fowl are not to be eaten—The Israelites are to tithe all the increase of their seed annually.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 16]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-1|Deuteronomy 14:1]])
+- [[1 Kings 18]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-1|Deuteronomy 14:1]])
+- [[Leviticus 11]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-4|Deuteronomy 14:4]])
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-21|Deuteronomy 14:21]])
+- [[Amos 4]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-28|Deuteronomy 14:28]])
+- [[D&C 83]] — 1 footnote cross-reference (from [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]])
 - [[Leviticus 11]] — 9 parallel verses, e.g. [[Deuteronomy 14#^deut-14-15|Deuteronomy 14:15]] ↔ [[Leviticus 11#^lev-11-16|Leviticus 11:16]]
 - [[Deuteronomy 16]] — 10 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]]
 - [[Deuteronomy 12]] — 8 parallel verses, e.g. [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]] ↔ [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]]

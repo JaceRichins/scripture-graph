@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 39
 slug: ezek-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 39]] · My notes: [[Ezekiel 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gog and the land of Magog will be destroyed—For seven years the people in the cities of Israel will burn the weapons of war—For seven months they will bury the dead—Then will come the supper of the great God and the continued gathering of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 38]] — 4 footnote cross-references (from [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]])
+- [[Zechariah 12]] — 2 footnote cross-references (from [[Ezekiel 39#^ezek-39-3|Ezekiel 39:3]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-3|Ezekiel 39:3]])
+- [[Ezekiel 26]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
+- [[Ezekiel 27]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
+- [[2 Nephi 10]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
 - [[Ezekiel 38]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
 - [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 18
 slug: gen-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 18]] · My notes: [[Genesis 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abraham entertains three holy men—They promise that Sarah will have a son—Abraham will command his children to be just—The Lord appears to him—They discuss the destruction of Sodom and Gomorrah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,10 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 32]] — 4 parallel verses, e.g. [[Genesis 18#^gen-18-29|Genesis 18:29]] ↔ [[Genesis 32#^gen-32-26|Genesis 32:26]]
-- [[2 Kings 4]] — 4 parallel verses, e.g. [[Genesis 18#^gen-18-10|Genesis 18:10]] ↔ [[2 Kings 4#^2kgs-4-16|2 Kings 4:16]]
-- [[Genesis 26]] — 3 parallel verses, e.g. [[Genesis 18#^gen-18-1|Genesis 18:1]] ↔ [[Genesis 26#^gen-26-2|Genesis 26:2]]
-- [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 18#^gen-18-2|Genesis 18:2]] ↔ [[Genesis 22#^gen-22-13|Genesis 22:13]]
+- [[Genesis 19]] — 2 footnote cross-references (from [[Genesis 18#^gen-18-5|Genesis 18:5]])
+- [[Genesis 21]] — 2 footnote cross-references (from [[Genesis 18#^gen-18-10|Genesis 18:10]])
+- [[Luke 1]] — 2 footnote cross-references (from [[Genesis 18#^gen-18-13|Genesis 18:13]])
+- [[Joshua 5]] — 1 footnote cross-reference (from [[Genesis 18#^gen-18-2|Genesis 18:2]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[Genesis 18#^gen-18-2|Genesis 18:2]])
+- [[Ether 6]] — 1 footnote cross-reference (from [[Genesis 18#^gen-18-2|Genesis 18:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

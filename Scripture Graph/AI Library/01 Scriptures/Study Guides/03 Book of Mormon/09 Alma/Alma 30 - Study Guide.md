@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 30
 slug: alma-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Korihor, the anti-Christ, ridicules Christ, the Atonement, and the spirit of prophecy—He teaches that there is no God, no fall of man, no penalty for sin, and no Christ—Alma testifies that Christ will come and that all things denote there is a God—Korihor demands a sign and is struck dumb—The devil had appeared to Korihor as an angel and taught him what to say—Korihor is trodden down and dies. About 76–74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 7]] — 6 footnote cross-references (from [[Alma 30#^alma-30-12|Alma 30:12]])
+- [[Alma 28]] — 3 footnote cross-references (from [[Alma 30#^alma-30-1|Alma 30:1]])
+- [[Alma 1]] — 3 footnote cross-references (from [[Alma 30#^alma-30-7|Alma 30:7]])
+- [[Alma 31]] — 3 footnote cross-references (from [[Alma 30#^alma-30-12|Alma 30:12]])
+- [[Mosiah 2]] — 2 footnote cross-references (from [[Alma 30#^alma-30-3|Alma 30:3]])
+- [[Alma 34]] — 2 footnote cross-references (from [[Alma 30#^alma-30-3|Alma 30:3]])
 - [[Alma 28]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-1|Alma 30:1]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[Alma 50#^alma-50-25|Alma 50:25]]
 - [[Alma 18]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-37|Alma 30:37]] ↔ [[Alma 18#^alma-18-24|Alma 18:24]]

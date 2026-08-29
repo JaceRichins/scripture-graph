@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jarom 1]] · My notes: [[Jarom 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites keep the law of Moses, look forward to the coming of Christ, and prosper in the land—Many prophets labor to keep the people in the way of truth. About 399–361 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 7 footnote cross-references (from [[Jarom 1#^jarom-1-2|Jarom 1:2]])
+- [[Jacob 7]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-2|Jarom 1:2]])
+- [[Enos 1]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-3|Jarom 1:3]])
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-7|Jarom 1:7]])
+- [[Words of Mormon 1]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-7|Jarom 1:7]])
+- [[Ether 2]] — 2 footnote cross-references (from [[Jarom 1#^jarom-1-3|Jarom 1:3]])
 - [[Omni 1]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[4 Nephi 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]

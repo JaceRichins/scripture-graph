@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 2
 slug: 2cor-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 2]] · My notes: [[2 Corinthians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints should love and forgive one another—They always triumph in Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Corinthians 8]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-3|2 Corinthians 2:3]])
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-9|2 Corinthians 2:9]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-11|2 Corinthians 2:11]])
+- [[Acts 14]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-12|2 Corinthians 2:12]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-12|2 Corinthians 2:12]])
+- [[Romans 8]] — 1 footnote cross-reference (from [[2 Corinthians 2#^2cor-2-14|2 Corinthians 2:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

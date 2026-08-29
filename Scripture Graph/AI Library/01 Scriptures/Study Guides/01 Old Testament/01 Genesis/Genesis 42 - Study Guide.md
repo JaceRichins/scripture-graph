@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 42
 slug: gen-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 42]] · My notes: [[Genesis 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob sends his sons to buy grain in Egypt—They bow before Joseph—He makes harsh accusations against them, imprisons Simeon, and sends them back for Benjamin.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 43]] — 6 footnote cross-references (from [[Genesis 42#^gen-42-3|Genesis 42:3]])
+- [[Genesis 44]] — 5 footnote cross-references (from [[Genesis 42#^gen-42-4|Genesis 42:4]])
+- [[Genesis 37]] — 4 footnote cross-references (from [[Genesis 42#^gen-42-6|Genesis 42:6]])
+- [[Genesis 35]] — 2 footnote cross-references (from [[Genesis 42#^gen-42-4|Genesis 42:4]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Genesis 42#^gen-42-1|Genesis 42:1]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[Genesis 42#^gen-42-4|Genesis 42:4]])
 - [[Genesis 44]] — 1 parallel verse, e.g. [[Genesis 42#^gen-42-38|Genesis 42:38]] ↔ [[Genesis 44#^gen-44-29|Genesis 44:29]]
 <!-- SG:END related-scriptures -->
 

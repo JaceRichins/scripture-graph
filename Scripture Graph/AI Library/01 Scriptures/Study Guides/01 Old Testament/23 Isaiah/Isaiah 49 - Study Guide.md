@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 49
 slug: isa-49
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 49]] · My notes: [[Isaiah 49 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Messiah will be a light to the Gentiles and will free the prisoners—Israel will be gathered with power in the last days—Kings will be the nursing fathers of Israel—Compare 1 Nephi 21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 60]] — 4 footnote cross-references (from [[Isaiah 49#^isa-49-22|Isaiah 49:22]])
+- [[1 Nephi 21]] — 2 footnote cross-references (from [[Isaiah 49#^isa-49-1|Isaiah 49:1]])
+- [[Isaiah 44]] — 2 footnote cross-references (from [[Isaiah 49#^isa-49-5|Isaiah 49:5]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Isaiah 49#^isa-49-1|Isaiah 49:1]])
+- [[Abraham 3]] — 1 footnote cross-reference (from [[Isaiah 49#^isa-49-1|Isaiah 49:1]])
+- [[Hebrews 4]] — 1 footnote cross-reference (from [[Isaiah 49#^isa-49-2|Isaiah 49:2]])
 - [[1 Nephi 21]] — 26 parallel verses, e.g. [[Isaiah 49#^isa-49-23|Isaiah 49:23]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[2 Nephi 6]] — 5 parallel verses, e.g. [[Isaiah 49#^isa-49-23|Isaiah 49:23]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
 - [[Isaiah 60]] — 2 parallel verses, e.g. [[Isaiah 49#^isa-49-26|Isaiah 49:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 2
 slug: lev-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 2]] · My notes: [[Leviticus 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How offerings of flour with oil and incense are made.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 42]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-1|Leviticus 2:1]])
+- [[Matthew 2]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-1|Leviticus 2:1]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-3|Leviticus 2:3]])
+- [[Leviticus 6]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-3|Leviticus 2:3]])
+- [[Ezekiel 46]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-4|Leviticus 2:4]])
+- [[Exodus 29]] — 1 footnote cross-reference (from [[Leviticus 2#^lev-2-4|Leviticus 2:4]])
 - [[Leviticus 1]] — 6 parallel verses, e.g. [[Leviticus 2#^lev-2-9|Leviticus 2:9]] ↔ [[Leviticus 1#^lev-1-13|Leviticus 1:13]]
 - [[Numbers 15]] — 6 parallel verses, e.g. [[Leviticus 2#^lev-2-2|Leviticus 2:2]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
 - [[Leviticus 3]] — 8 parallel verses, e.g. [[Leviticus 2#^lev-2-9|Leviticus 2:9]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]

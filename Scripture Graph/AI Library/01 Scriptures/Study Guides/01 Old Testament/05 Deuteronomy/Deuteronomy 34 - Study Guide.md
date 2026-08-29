@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 34
 slug: deut-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 34]] · My notes: [[Deuteronomy 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses sees the promised land and is taken by the Lord—Joshua leads Israel—Moses was Israel’s greatest prophet.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 1]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-3|Deuteronomy 34:3]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]])
+- [[Alma 45]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-6|Deuteronomy 34:6]])
+- [[Exodus 7]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-7|Deuteronomy 34:7]])
 - [[Numbers 32]] — 1 parallel verse, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
 <!-- SG:END related-scriptures -->
 

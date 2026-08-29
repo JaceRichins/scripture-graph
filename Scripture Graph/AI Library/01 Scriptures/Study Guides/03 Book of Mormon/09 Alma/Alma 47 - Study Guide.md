@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 47
 slug: alma-47
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 47]] · My notes: [[Alma 47 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amalickiah uses treachery, murder, and intrigue to become king of the Lamanites—The Nephite dissenters are more wicked and ferocious than the Lamanites. About 72 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 43]] — 3 footnote cross-references (from [[Alma 47#^alma-47-1|Alma 47:1]])
+- [[Alma 46]] — 2 footnote cross-references (from [[Alma 47#^alma-47-1|Alma 47:1]])
+- [[Alma 49]] — 2 footnote cross-references (from [[Alma 47#^alma-47-1|Alma 47:1]])
+- [[Alma 55]] — 2 footnote cross-references (from [[Alma 47#^alma-47-29|Alma 47:29]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[Alma 47#^alma-47-1|Alma 47:1]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Alma 47#^alma-47-1|Alma 47:1]])
 - [[Alma 23]] — 5 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 23#^alma-23-1|Alma 23:1]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
 - [[Mormon 1]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]

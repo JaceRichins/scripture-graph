@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 18
 slug: 3ne-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 18]] · My notes: [[3 Nephi 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus institutes the sacrament among the Nephites—They are commanded to pray always in His name—Those who eat His flesh and drink His blood unworthily are damned—The disciples are given power to confer the Holy Ghost. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 20]] — 3 footnote cross-references (from [[3 Nephi 18#^3ne-18-1|3 Nephi 18:1]])
+- [[3 Nephi 11]] — 3 footnote cross-references (from [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]])
+- [[Moroni 7]] — 3 footnote cross-references (from [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]])
+- [[Matthew 26]] — 2 footnote cross-references (from [[3 Nephi 18#^3ne-18-1|3 Nephi 18:1]])
+- [[3 Nephi 26]] — 2 footnote cross-references (from [[3 Nephi 18#^3ne-18-1|3 Nephi 18:1]])
+- [[Moroni 4]] — 2 footnote cross-references (from [[3 Nephi 18#^3ne-18-5|3 Nephi 18:5]])
 - [[3 Nephi 12]] — 7 parallel verses, e.g. [[3 Nephi 18#^3ne-18-17|3 Nephi 18:17]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
 - [[3 Nephi 17]] — 5 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
 - [[3 Nephi 27]] — 6 parallel verses, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]

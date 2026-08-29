@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 11
 slug: rev-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 11]] · My notes: [[Revelation 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, two prophets will be slain in Jerusalem—After 3½ days, they will be resurrected—Christ will reign over all the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 16]] — 2 footnote cross-references (from [[Revelation 11#^rev-11-13|Revelation 11:13]])
+- [[Daniel 7]] — 2 footnote cross-references (from [[Revelation 11#^rev-11-15|Revelation 11:15]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Revelation 11#^rev-11-18|Revelation 11:18]])
+- [[Ezekiel 45]] — 1 footnote cross-reference (from [[Revelation 11#^rev-11-1|Revelation 11:1]])
+- [[Ezekiel 40]] — 1 footnote cross-reference (from [[Revelation 11#^rev-11-1|Revelation 11:1]])
+- [[Exodus 30]] — 1 footnote cross-reference (from [[Revelation 11#^rev-11-1|Revelation 11:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

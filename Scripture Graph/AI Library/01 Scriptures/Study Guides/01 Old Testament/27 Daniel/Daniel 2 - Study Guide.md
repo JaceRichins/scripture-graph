@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 2]] · My notes: [[Daniel 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nebuchadnezzar’s dream is revealed to Daniel—The king saw a great image, a stone cut from the mountain without hands destroyed the image, and the stone grew and filled the whole earth—The stone is the latter-day kingdom of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 5]] — 4 footnote cross-references (from [[Daniel 2#^dan-2-11|Daniel 2:11]])
+- [[Daniel 7]] — 4 footnote cross-references (from [[Daniel 2#^dan-2-38|Daniel 2:38]])
+- [[Genesis 41]] — 3 footnote cross-references (from [[Daniel 2#^dan-2-1|Daniel 2:1]])
+- [[Daniel 1]] — 3 footnote cross-references (from [[Daniel 2#^dan-2-17|Daniel 2:17]])
+- [[Daniel 4]] — 2 footnote cross-references (from [[Daniel 2#^dan-2-2|Daniel 2:2]])
+- [[Daniel 3]] — 2 footnote cross-references (from [[Daniel 2#^dan-2-5|Daniel 2:5]])
 - [[Daniel 4]] — 3 parallel verses, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[Daniel 4#^dan-4-12|Daniel 4:12]]
 - [[Daniel 3]] — 2 parallel verses, e.g. [[Daniel 2#^dan-2-49|Daniel 2:49]] ↔ [[Daniel 3#^dan-3-12|Daniel 3:12]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]

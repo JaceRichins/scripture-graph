@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 141
 slug: ps-141
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 141]] · My notes: [[Psalm 141 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads with the Lord to hear his prayers—The reproof of the righteous is a kindness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 70]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-1|Psalm 141:1]])
+- [[Revelation 5]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
+- [[Exodus 30]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
+- [[Exodus 37]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
+- [[Exodus 29]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
+- [[Psalm 39]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-3|Psalm 141:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

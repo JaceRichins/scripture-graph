@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 John 1]] · My notes: [[3 John 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John commends Gaius for his help to those who love the truth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 John 5]] — 1 footnote cross-reference (from [[3 John 1#^3jn-1-4|3 John 1:4]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[3 John 1#^3jn-1-5|3 John 1:5]])
+- [[Numbers 16]] — 1 footnote cross-reference (from [[3 John 1#^3jn-1-10|3 John 1:10]])
+- [[Moroni 7]] — 1 footnote cross-reference (from [[3 John 1#^3jn-1-11|3 John 1:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -13,10 +13,14 @@ cssclasses:
 
 [[Jeremiah 35|Plain text]] · [[Jeremiah 35 - Study Guide|Study guide]] · [[Jeremiah 35 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The Rechabites are commended and blessed for their obedience.
+
 ![[Jeremiah 35#^jer-35-1]]
 > [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]]
 
 ![[Jeremiah 35#^jer-35-2]]
+> [[2 Kings 10#^2kgs-10-15|2 Kgs. 10:15]] · [[1 Chronicles 2#^1chr-2-55|1 Chr. 2:55]]
 
 ![[Jeremiah 35#^jer-35-3]]
 
@@ -25,6 +29,7 @@ cssclasses:
 ![[Jeremiah 35#^jer-35-5]]
 
 ![[Jeremiah 35#^jer-35-6]]
+> [[2 Kings 10#^2kgs-10-15|2 Kgs. 10:15]]
 
 ![[Jeremiah 35#^jer-35-7]]
 
@@ -46,7 +51,7 @@ cssclasses:
 > [[Jeremiah 25#^jer-25-3|≈ Jeremiah 25:3]]
 
 ![[Jeremiah 35#^jer-35-15]]
-> [[Jeremiah 7#^jer-7-25|≈ Jeremiah 7:25]] · [[Jeremiah 44#^jer-44-4|≈ Jeremiah 44:4]] · [[Jeremiah 25#^jer-25-6|≈ Jeremiah 25:6]] · [[Jeremiah 29#^jer-29-19|≈ Jeremiah 29:19]]
+> [[D&C 98#^dc-98-15|D&amp;C 98:17 (15–18)]] · [[Jeremiah 7#^jer-7-25|≈ Jeremiah 7:25]] · [[Jeremiah 44#^jer-44-4|≈ Jeremiah 44:4]] · [[Jeremiah 25#^jer-25-6|≈ Jeremiah 25:6]] · [[Jeremiah 29#^jer-29-19|≈ Jeremiah 29:19]]
 
 ![[Jeremiah 35#^jer-35-16]]
 

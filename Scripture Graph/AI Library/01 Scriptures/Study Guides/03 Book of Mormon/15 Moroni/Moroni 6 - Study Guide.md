@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 6
 slug: moro-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 6]] · My notes: [[Moroni 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Repentant persons are baptized and fellowshipped—Church members who repent are forgiven—Meetings are conducted by the power of the Holy Ghost. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 20]] — 5 footnote cross-references (from [[Moroni 6#^moro-6-4|Moroni 6:4]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Moroni 6#^moro-6-3|Moroni 6:3]])
+- [[D&C 47]] — 1 footnote cross-reference (from [[Moroni 6#^moro-6-4|Moroni 6:4]])
+- [[2 Nephi 31]] — 1 footnote cross-reference (from [[Moroni 6#^moro-6-4|Moroni 6:4]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[Moroni 6#^moro-6-4|Moroni 6:4]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[Moroni 6#^moro-6-5|Moroni 6:5]])
 - [[Moroni 10]] — 6 parallel verses, e.g. [[Moroni 6#^moro-6-9|Moroni 6:9]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
 - [[D&C 20]] — 4 parallel verses, e.g. [[Moroni 6#^moro-6-3|Moroni 6:3]] ↔ [[D&C 20#^dc-20-37|D&C 20:37]]
 - [[1 Nephi 10]] — 4 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]

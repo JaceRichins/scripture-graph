@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 126
 slug: ps-126
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 126]] · My notes: [[Psalm 126 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord has done great things for His people, Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Psalm 126#^ps-126-2|Psalm 126:2]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Psalm 126#^ps-126-2|Psalm 126:2]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Psalm 126#^ps-126-6|Psalm 126:6]])
+- [[D&C 31]] — 1 footnote cross-reference (from [[Psalm 126#^ps-126-6|Psalm 126:6]])
+- [[D&C 33]] — 1 footnote cross-reference (from [[Psalm 126#^ps-126-6|Psalm 126:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

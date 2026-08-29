@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 2
 slug: ether-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 2]] · My notes: [[Ether 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jaredites prepare for their journey to a promised land—It is a choice land whereon men must serve Christ or be swept off—The Lord talks to the brother of Jared for three hours—The Jaredites build barges—The Lord asks the brother of Jared to propose how the barges will be lighted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 1]] — 4 footnote cross-references (from [[Ether 2#^ether-2-1|Ether 2:1]])
+- [[Ether 6]] — 4 footnote cross-references (from [[Ether 2#^ether-2-1|Ether 2:1]])
+- [[Ether 9]] — 3 footnote cross-references (from [[Ether 2#^ether-2-1|Ether 2:1]])
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Ether 2#^ether-2-3|Ether 2:3]])
+- [[Genesis 6]] — 3 footnote cross-references (from [[Ether 2#^ether-2-6|Ether 2:6]])
+- [[1 Nephi 16]] — 2 footnote cross-references (from [[Ether 2#^ether-2-3|Ether 2:3]])
 - [[Ether 1]] — 12 parallel verses, e.g. [[Ether 2#^ether-2-16|Ether 2:16]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
 - [[Ether 3]] — 6 parallel verses, e.g. [[Ether 2#^ether-2-20|Ether 2:20]] ↔ [[Ether 3#^ether-3-21|Ether 3:21]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]

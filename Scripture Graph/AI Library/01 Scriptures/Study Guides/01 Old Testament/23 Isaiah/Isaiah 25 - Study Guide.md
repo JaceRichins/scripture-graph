@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 25
 slug: isa-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 25]] · My notes: [[Isaiah 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In Mount Zion the Lord will prepare a gospel feast of rich food—He will swallow up death in victory—It will be said, Lo, this is our God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 118]] — 1 parallel verse, e.g. [[Isaiah 25#^isa-25-1|Isaiah 25:1]] ↔ [[Psalm 118#^ps-118-28|Psalm 118:28]]
+- [[Psalm 35]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-4|Isaiah 25:4]])
+- [[D&C 56]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-4|Isaiah 25:4]])
+- [[Psalm 4]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-4|Isaiah 25:4]])
+- [[John 20]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-8|Isaiah 25:8]])
+- [[1 Corinthians 15]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-8|Isaiah 25:8]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-12|Isaiah 25:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

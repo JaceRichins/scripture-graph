@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 7]] · My notes: [[Hebrews 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Melchizedek Priesthood brings exaltation and administers the gospel—It is received with an oath and covenant—The superiority of the Melchizedek Priesthood over the Aaronic Priesthood is explained—Salvation comes through the intercession of Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 8]] — 2 footnote cross-references (from [[Hebrews 7#^heb-7-11|Hebrews 7:11]])
+- [[Hebrews 9]] — 2 footnote cross-references (from [[Hebrews 7#^heb-7-16|Hebrews 7:16]])
+- [[Romans 8]] — 2 footnote cross-references (from [[Hebrews 7#^heb-7-18|Hebrews 7:18]])
+- [[Hebrews 10]] — 2 footnote cross-references (from [[Hebrews 7#^heb-7-27|Hebrews 7:27]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Hebrews 7#^heb-7-3|Hebrews 7:3]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Hebrews 7#^heb-7-14|Hebrews 7:14]])
 - [[Psalm 110]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-21|Hebrews 7:21]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
 - [[Hebrews 5]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
 - [[Hebrews 6]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]

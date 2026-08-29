@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 19]] · My notes: [[Acts 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul confers the gift of the Holy Ghost by the laying on of hands—He preaches and works many miracles—The sons of Sceva fail to cast out devils by exorcism—The worshippers of Diana (Artemis) raise a tumult against Paul.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 18]] — 2 footnote cross-references (from [[Acts 19#^acts-19-3|Acts 19:3]])
+- [[Acts 5]] — 2 footnote cross-references (from [[Acts 19#^acts-19-12|Acts 19:12]])
+- [[Acts 20]] — 2 footnote cross-references (from [[Acts 19#^acts-19-21|Acts 19:21]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Acts 19#^acts-19-3|Acts 19:3]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[Acts 19#^acts-19-8|Acts 19:8]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[Acts 19#^acts-19-12|Acts 19:12]])
 - [[Acts 8]] — 2 parallel verses, e.g. [[Acts 19#^acts-19-5|Acts 19:5]] ↔ [[Acts 8#^acts-8-16|Acts 8:16]]
 <!-- SG:END related-scriptures -->
 

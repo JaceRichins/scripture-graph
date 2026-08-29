@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 3
 slug: lev-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 3]] · My notes: [[Leviticus 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peace offerings are made with animals without blemish, whose blood is sprinkled on the altar—Israel is forbidden to eat fat or blood.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Leviticus 3#^lev-3-11|Leviticus 3:11]])
+- [[2 Chronicles 29]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-1|Leviticus 3:1]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-2|Leviticus 3:2]])
+- [[Hebrews 7]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-6|Leviticus 3:6]])
+- [[1 Peter 1]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-6|Leviticus 3:6]])
+- [[Leviticus 21]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-11|Leviticus 3:11]])
 - [[Leviticus 4]] — 21 parallel verses, e.g. [[Leviticus 3#^lev-3-10|Leviticus 3:10]] ↔ [[Leviticus 4#^lev-4-9|Leviticus 4:9]]
 - [[Exodus 29]] — 27 parallel verses, e.g. [[Leviticus 3#^lev-3-10|Leviticus 3:10]] ↔ [[Exodus 29#^ex-29-22|Exodus 29:22]]
 - [[Leviticus 7]] — 14 parallel verses, e.g. [[Leviticus 3#^lev-3-4|Leviticus 3:4]] ↔ [[Leviticus 7#^lev-7-4|Leviticus 7:4]]

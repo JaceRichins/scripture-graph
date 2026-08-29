@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 8
 slug: job-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 8]] · My notes: [[Job 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bildad asks, Doth God pervert judgment?—Bildad says, Our days upon earth are a shadow, and God will not cast away a perfect man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 12]] — 1 footnote cross-reference (from [[Job 8#^job-8-3|Job 8:3]])
+- [[Job 7]] — 1 footnote cross-reference (from [[Job 8#^job-8-9|Job 8:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

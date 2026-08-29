@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 26]] · My notes: [[Acts 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul recounts his former persecution of the Saints as a Pharisee—He testifies of the appearance of Jesus on the Damascus road—Paul bears his testimony to King Agrippa.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 22]] — 5 footnote cross-references (from [[Acts 26#^acts-26-5|Acts 26:5]])
+- [[Acts 9]] — 4 footnote cross-references (from [[Acts 26#^acts-26-10|Acts 26:10]])
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[Acts 26#^acts-26-13|Acts 26:13]])
+- [[Acts 23]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-5|Acts 26:5]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-9|Acts 26:9]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-16|Acts 26:16]])
 - [[Acts 9]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 32
 slug: 2chr-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 32]] · My notes: [[2 Chronicles 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sennacherib invades Judah and besieges the cities—He rails against the Lord—Isaiah and Hezekiah pray, and an angel destroys the leaders of the Assyrian armies—Hezekiah reigns in righteousness despite some pride in his heart.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 18]] — 2 footnote cross-references (from [[2 Chronicles 32#^2chr-32-9|2 Chronicles 32:9]])
+- [[2 Kings 20]] — 2 footnote cross-references (from [[2 Chronicles 32#^2chr-32-24|2 Chronicles 32:24]])
+- [[2 Chronicles 25]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
+- [[2 Samuel 5]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
+- [[1 Kings 9]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
+- [[1 Kings 11]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
 - [[2 Kings 20]] — 4 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Kings 20#^2kgs-20-21|2 Kings 20:21]]
 - [[2 Kings 18]] — 4 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-18|2 Chronicles 32:18]] ↔ [[2 Kings 18#^2kgs-18-28|2 Kings 18:28]]
 - [[2 Chronicles 28]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]

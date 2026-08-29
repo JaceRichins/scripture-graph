@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 9
 slug: 2sam-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 9]] · My notes: [[2 Samuel 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David seeks to honor the house of Saul—He finds Mephibosheth, the son of Jonathan, to whom he restores all the land of Saul.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 19]] — 3 footnote cross-references (from [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]])
+- [[2 Samuel 16]] — 2 footnote cross-references (from [[2 Samuel 9#^2sam-9-2|2 Samuel 9:2]])
+- [[1 Samuel 18]] — 1 footnote cross-reference (from [[2 Samuel 9#^2sam-9-1|2 Samuel 9:1]])
+- [[1 Samuel 20]] — 1 footnote cross-reference (from [[2 Samuel 9#^2sam-9-1|2 Samuel 9:1]])
+- [[Proverbs 27]] — 1 footnote cross-reference (from [[2 Samuel 9#^2sam-9-1|2 Samuel 9:1]])
+- [[2 Samuel 4]] — 1 footnote cross-reference (from [[2 Samuel 9#^2sam-9-3|2 Samuel 9:3]])
 - [[2 Samuel 21]] — 1 parallel verse, e.g. [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]] ↔ [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]]
 <!-- SG:END related-scriptures -->
 

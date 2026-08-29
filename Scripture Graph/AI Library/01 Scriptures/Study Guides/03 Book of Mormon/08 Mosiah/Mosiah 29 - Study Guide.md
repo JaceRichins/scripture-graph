@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 29
 slug: mosiah-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 29]] · My notes: [[Mosiah 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mosiah proposes that judges be chosen in place of a king—Unrighteous kings lead their people into sin—Alma the younger is chosen chief judge by the voice of the people—He is also the high priest over the Church—Alma the elder and Mosiah die. About 92–91 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 8]] — 6 footnote cross-references (from [[Mosiah 29#^mosiah-29-5|Mosiah 29:5]])
+- [[Exodus 18]] — 3 footnote cross-references (from [[Mosiah 29#^mosiah-29-11|Mosiah 29:11]])
+- [[Alma 46]] — 3 footnote cross-references (from [[Mosiah 29#^mosiah-29-11|Mosiah 29:11]])
+- [[Alma 1]] — 3 footnote cross-references (from [[Mosiah 29#^mosiah-29-15|Mosiah 29:15]])
+- [[Alma 2]] — 3 footnote cross-references (from [[Mosiah 29#^mosiah-29-25|Mosiah 29:25]])
+- [[Alma 17]] — 2 footnote cross-references (from [[Mosiah 29#^mosiah-29-3|Mosiah 29:3]])
 - [[Mosiah 23]] — 3 parallel verses, e.g. [[Mosiah 29#^mosiah-29-16|Mosiah 29:16]] ↔ [[Mosiah 23#^mosiah-23-7|Mosiah 23:7]]
 - [[Alma 51]] — 3 parallel verses, e.g. [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]] ↔ [[Alma 51#^alma-51-7|Alma 51:7]]
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]] ↔ [[1 Nephi 16#^1ne-16-9|1 Nephi 16:9]]

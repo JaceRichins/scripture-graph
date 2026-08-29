@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 29
 slug: num-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 29]] · My notes: [[Numbers 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sacrifices are to be offered during the seventh month, including at the Feast of Trumpets and at the Feast of Tabernacles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 23]] — 2 footnote cross-references (from [[Numbers 29#^num-29-1|Numbers 29:1]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Numbers 29#^num-29-39|Numbers 29:39]])
+- [[Ezra 3]] — 1 footnote cross-reference (from [[Numbers 29#^num-29-39|Numbers 29:39]])
 - [[Numbers 28]] — 60 parallel verses, e.g. [[Numbers 29#^num-29-3|Numbers 29:3]] ↔ [[Numbers 28#^num-28-20|Numbers 28:20]]
 - [[Numbers 7]] — 60 parallel verses, e.g. [[Numbers 29#^num-29-5|Numbers 29:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 23]] — 31 parallel verses, e.g. [[Numbers 29#^num-29-12|Numbers 29:12]] ↔ [[Leviticus 23#^lev-23-39|Leviticus 23:39]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Timothy 4]] · My notes: [[2 Timothy 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul gives a solemn charge to preach the gospel in a day of apostasy—Paul and all Saints are assured of exaltation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Colossians 4]] — 2 footnote cross-references (from [[2 Timothy 4#^2tim-4-10|2 Timothy 4:10]])
+- [[2 Timothy 3]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-3|2 Timothy 4:3]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-3|2 Timothy 4:3]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-3|2 Timothy 4:3]])
+- [[Acts 21]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-5|2 Timothy 4:5]])
+- [[Ephesians 4]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-5|2 Timothy 4:5]])
 - [[Galatians 1]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
 <!-- SG:END related-scriptures -->

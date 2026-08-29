@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 6]] · My notes: [[Revelation 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ opens the six seals, and John sees the events therein—In the fifth seal, he sees the Christian martyrs; and in the sixth, he sees the signs of the times.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 77]] — 2 footnote cross-references (from [[Revelation 6#^rev-6-3|Revelation 6:3]])
+- [[Revelation 16]] — 2 footnote cross-references (from [[Revelation 6#^rev-6-12|Revelation 6:12]])
+- [[D&C 88]] — 2 footnote cross-references (from [[Revelation 6#^rev-6-12|Revelation 6:12]])
+- [[Moses 8]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-3|Revelation 6:3]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-4|Revelation 6:4]])
+- [[Ezekiel 5]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-8|Revelation 6:8]])
 - [[Revelation 19]] — 3 parallel verses, e.g. [[Revelation 6#^rev-6-2|Revelation 6:2]] ↔ [[Revelation 19#^rev-19-11|Revelation 19:11]]
 - [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 6#^rev-6-9|Revelation 6:9]] ↔ [[Revelation 1#^rev-1-9|Revelation 1:9]]
 <!-- SG:END related-scriptures -->

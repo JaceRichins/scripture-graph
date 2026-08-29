@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 6]] · My notes: [[Hebrews 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Let us go on to perfection—The sons of perdition crucify Christ anew—God swears with an oath that the faithful will be saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 68]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-2|Hebrews 6:2]])
+- [[D&C 107]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-2|Hebrews 6:2]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-4|Hebrews 6:4]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-5|Hebrews 6:5]])
+- [[D&C 104]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-8|Hebrews 6:8]])
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-10|Hebrews 6:10]])
 - [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 6#^heb-6-20|Hebrews 6:20]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
 <!-- SG:END related-scriptures -->
 

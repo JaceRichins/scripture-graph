@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 20
 slug: josh-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 20]] · My notes: [[Joshua 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Six cities of refuge are appointed for those guilty of manslaughter.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 35]] — 3 footnote cross-references (from [[Joshua 20#^josh-20-5|Joshua 20:5]])
+- [[Ruth 4]] — 2 footnote cross-references (from [[Joshua 20#^josh-20-4|Joshua 20:4]])
+- [[D&C 134]] — 1 footnote cross-reference (from [[Joshua 20#^josh-20-3|Joshua 20:3]])
+- [[Mosiah 7]] — 1 footnote cross-reference (from [[Joshua 20#^josh-20-4|Joshua 20:4]])
+- [[1 Nephi 4]] — 1 footnote cross-reference (from [[Joshua 20#^josh-20-4|Joshua 20:4]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Joshua 20#^josh-20-4|Joshua 20:4]])
 - [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[1 Chronicles 6#^1chr-6-78|1 Chronicles 6:78]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-4|Joshua 20:4]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 15#^num-15-29|Numbers 15:29]]

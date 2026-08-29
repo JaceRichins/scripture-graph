@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 9
 slug: num-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 9]] · My notes: [[Numbers 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is again commanded to keep the Passover—A cloud rests upon the tabernacle by day and by night, plus a fire by night—When the cloud rests, Israel camps; when it lifts, they journey.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,11 +40,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 40]] — 2 footnote cross-references (from [[Numbers 9#^num-9-15|Numbers 9:15]])
+- [[Numbers 1]] — 1 footnote cross-reference (from [[Numbers 9#^num-9-1|Numbers 9:1]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Numbers 9#^num-9-3|Numbers 9:3]])
+- [[Numbers 5]] — 1 footnote cross-reference (from [[Numbers 9#^num-9-6|Numbers 9:6]])
+- [[D&C 102]] — 1 footnote cross-reference (from [[Numbers 9#^num-9-8|Numbers 9:8]])
+- [[2 Chronicles 30]] — 1 footnote cross-reference (from [[Numbers 9#^num-9-11|Numbers 9:11]])
 - [[Numbers 4]] — 6 parallel verses, e.g. [[Numbers 9#^num-9-23|Numbers 9:23]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[Numbers 1]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-1|Numbers 9:1]] ↔ [[Numbers 1#^num-1-1|Numbers 1:1]]
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
-- [[2 Chronicles 30]] — 3 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[2 Chronicles 35#^2chr-35-1|2 Chronicles 35:1]]
+- [[2 Chronicles 30]] — 3 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Leviticus 23#^lev-23-5|Leviticus 23:5]]
 - [[Numbers 10]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-23|Numbers 9:23]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[Leviticus 17]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-13|Numbers 9:13]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]

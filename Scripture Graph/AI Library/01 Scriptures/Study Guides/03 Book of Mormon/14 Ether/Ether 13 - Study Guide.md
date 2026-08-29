@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 13
 slug: ether-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 13]] · My notes: [[Ether 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ether speaks of a New Jerusalem to be built in America by the seed of Joseph—He prophesies, is cast out, writes the Jaredite history, and foretells the destruction of the Jaredites—War rages over all the land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 21]] — 4 footnote cross-references (from [[Ether 13#^ether-13-3|Ether 13:3]])
+- [[Ether 15]] — 3 footnote cross-references (from [[Ether 13#^ether-13-14|Ether 13:14]])
+- [[3 Nephi 20]] — 2 footnote cross-references (from [[Ether 13#^ether-13-3|Ether 13:3]])
+- [[Genesis 7]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
+- [[Genesis 8]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
+- [[Ether 2]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
 - [[Ether 14]] — 3 parallel verses, e.g. [[Ether 13#^ether-13-28|Ether 13:28]] ↔ [[Ether 14#^ether-14-15|Ether 14:15]]
 - [[3 Nephi 5]] — 3 parallel verses, e.g. [[Ether 13#^ether-13-11|Ether 13:11]] ↔ [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]]
 - [[Alma 46]] — 4 parallel verses, e.g. [[Ether 13#^ether-13-7|Ether 13:7]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]

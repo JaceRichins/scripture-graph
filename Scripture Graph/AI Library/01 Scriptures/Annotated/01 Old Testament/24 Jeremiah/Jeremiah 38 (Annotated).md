@@ -13,15 +13,20 @@ cssclasses:
 
 [[Jeremiah 38|Plain text]] · [[Jeremiah 38 - Study Guide|Study guide]] · [[Jeremiah 38 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The rulers cast Jeremiah into a muddy dungeon—He is freed by Ebed-melech, an Ethiopian, and put in the court of the prison—Jeremiah counsels Zedekiah concerning the war.
+
 ![[Jeremiah 38#^jer-38-1]]
+> [[Jeremiah 21#^jer-21-1|Jer. 21:1]] · [[Jeremiah 20#^jer-20-1|Jer. 20:1]]
 
 ![[Jeremiah 38#^jer-38-2]]
 > [[Jeremiah 42#^jer-42-17|≈ Jeremiah 42:17]] · [[Jeremiah 42#^jer-42-22|≈ Jeremiah 42:22]] · [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]]
 
 ![[Jeremiah 38#^jer-38-3]]
-> [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]]
+> [[Jeremiah 21#^jer-21-10|Jer. 21:10]] · [[Jeremiah 34#^jer-34-2|34:2]] · [[Jeremiah 52#^jer-52-13|52:13]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]]
 
 ![[Jeremiah 38#^jer-38-4]]
+> [[Jeremiah 26#^jer-26-11|Jer. 26:11]]
 
 ![[Jeremiah 38#^jer-38-5]]
 
@@ -33,6 +38,7 @@ cssclasses:
 ![[Jeremiah 38#^jer-38-8]]
 
 ![[Jeremiah 38#^jer-38-9]]
+> [[Jeremiah 37#^jer-37-21|Jer. 37:21]]
 
 ![[Jeremiah 38#^jer-38-10]]
 
@@ -68,7 +74,7 @@ cssclasses:
 > [[Jeremiah 32#^jer-32-2|≈ Jeremiah 32:2]]
 
 ![[Jeremiah 38#^jer-38-23]]
-> [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]]
+> [[Jeremiah 39#^jer-39-6|Jer. 39:6]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]]
 
 ![[Jeremiah 38#^jer-38-24]]
 

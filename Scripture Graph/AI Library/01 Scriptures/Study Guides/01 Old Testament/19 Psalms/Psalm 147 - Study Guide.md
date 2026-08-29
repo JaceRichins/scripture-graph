@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 147
 slug: ps-147
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 147]] · My notes: [[Psalm 147 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise the Lord for His power—His understanding is infinite—He sends His commandments, His word, His statutes, and His judgments unto Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 33]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-1|Psalm 147:1]])
+- [[Deuteronomy 30]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-2|Psalm 147:2]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-2|Psalm 147:2]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-4|Psalm 147:4]])
+- [[Amos 3]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-20|Psalm 147:20]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

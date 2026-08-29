@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Colossians 1]] · My notes: [[Colossians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ephesians 3]] — 3 footnote cross-references (from [[Colossians 1#^col-1-11|Colossians 1:11]])
+- [[Ephesians 1]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-4|Colossians 1:4]])
+- [[1 Thessalonians 5]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-4|Colossians 1:4]])
+- [[Hebrews 6]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-4|Colossians 1:4]])
+- [[1 Peter 1]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-5|Colossians 1:5]])
+- [[Alma 32]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-6|Colossians 1:6]])
 - [[Ephesians 1]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
 - [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]

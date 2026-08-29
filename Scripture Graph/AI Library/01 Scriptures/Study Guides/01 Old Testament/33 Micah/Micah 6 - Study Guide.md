@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 6
 slug: micah-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 6]] · My notes: [[Micah 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In spite of all His goodness to them, the people have not served the Lord in spirit and in truth—They must act righteously, love mercy, and walk humbly before Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,8 +41,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 24]] — 2 footnote cross-references (from [[Micah 6#^micah-6-16|Micah 6:16]])
+- [[Hosea 4]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-2|Micah 6:2]])
+- [[Isaiah 3]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-2|Micah 6:2]])
+- [[Hosea 7]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-4|Micah 6:4]])
+- [[Alma 29]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-4|Micah 6:4]])
+- [[Numbers 22]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-5|Micah 6:5]])
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-4|Micah 6:4]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Micah 6#^micah-6-2|Micah 6:2]] ↔ [[Jeremiah 25#^jer-25-31|Jeremiah 25:31]]
+- [[Amos 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

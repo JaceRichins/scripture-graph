@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 45
 slug: jer-45
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 45]] · My notes: [[Jeremiah 45 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah promises Baruch that his life will be preserved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 36]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]])
+- [[Lamentations 1]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-3|Jeremiah 45:3]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-4|Jeremiah 45:4]])
+- [[Jeremiah 31]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-4|Jeremiah 45:4]])
+- [[Mark 8]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-5|Jeremiah 45:5]])
+- [[Jeremiah 21]] — 1 footnote cross-reference (from [[Jeremiah 45#^jer-45-5|Jeremiah 45:5]])
 - [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]] ↔ [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]]
 - [[Jeremiah 46]] — 1 parallel verse, e.g. [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]] ↔ [[Jeremiah 46#^jer-46-2|Jeremiah 46:2]]
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]

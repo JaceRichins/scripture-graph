@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 5
 slug: acts-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 5]] · My notes: [[Acts 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ananias and Sapphira lie to the Lord and lose their lives—The Apostles continue the miracles of Jesus—Peter and John are arrested, an angel delivers them from prison, and they testify of Christ—Gamaliel counsels moderation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 4]] — 2 footnote cross-references (from [[Acts 5#^acts-5-1|Acts 5:1]])
+- [[Joshua 7]] — 2 footnote cross-references (from [[Acts 5#^acts-5-2|Acts 5:2]])
+- [[Acts 19]] — 2 footnote cross-references (from [[Acts 5#^acts-5-15|Acts 5:15]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-1|Acts 5:1]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-2|Acts 5:2]])
+- [[Leviticus 10]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-5|Acts 5:5]])
 - [[Acts 4]] — 2 parallel verses, e.g. [[Acts 5#^acts-5-24|Acts 5:24]] ↔ [[Acts 4#^acts-4-1|Acts 4:1]]
 - [[Acts 2]] — 2 parallel verses, e.g. [[Acts 5#^acts-5-35|Acts 5:35]] ↔ [[Acts 2#^acts-2-14|Acts 2:14]]
 - [[Luke 6]] — 1 parallel verse, e.g. [[Acts 5#^acts-5-16|Acts 5:16]] ↔ [[Luke 6#^luke-6-18|Luke 6:18]]

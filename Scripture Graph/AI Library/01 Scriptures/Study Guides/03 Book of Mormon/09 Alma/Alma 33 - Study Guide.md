@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 33
 slug: alma-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 33]] · My notes: [[Alma 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zenos taught that men should pray and worship in all places, and that judgments are turned away because of the Son—Zenock taught that mercy is bestowed because of the Son—Moses had lifted up in the wilderness a type of the Son of God. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 34]] — 8 footnote cross-references (from [[Alma 33#^alma-33-3|Alma 33:3]])
+- [[Alma 32]] — 5 footnote cross-references (from [[Alma 33#^alma-33-1|Alma 33:1]])
+- [[Mosiah 15]] — 2 footnote cross-references (from [[Alma 33#^alma-33-1|Alma 33:1]])
+- [[Alma 11]] — 2 footnote cross-references (from [[Alma 33#^alma-33-1|Alma 33:1]])
+- [[Alma 37]] — 2 footnote cross-references (from [[Alma 33#^alma-33-2|Alma 33:2]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Alma 33#^alma-33-19|Alma 33:19]])
 - [[Alma 32]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 32#^alma-32-10|Alma 32:10]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-20|Alma 33:20]] ↔ [[Mosiah 13#^mosiah-13-32|Mosiah 13:32]]
 <!-- SG:END related-scriptures -->

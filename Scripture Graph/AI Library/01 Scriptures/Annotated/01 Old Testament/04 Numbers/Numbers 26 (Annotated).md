@@ -20,7 +20,7 @@ cssclasses:
 > [[Numbers 3#^num-3-32|≈ Numbers 3:32]] · [[Numbers 4#^num-4-16|≈ Numbers 4:16]] · [[Numbers 16#^num-16-37|≈ Numbers 16:37]] · [[Numbers 25#^num-25-7|≈ Numbers 25:7]] · [[Numbers 25#^num-25-11|≈ Numbers 25:11]]
 
 ![[Numbers 26#^num-26-2]]
-> [[Numbers 1#^num-1-2|Num. 1:2 (2–46)]] · [[Exodus 16#^ex-16-1|≈ Exodus 16:1]] · [[Exodus 16#^ex-16-9|≈ Exodus 16:9]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]]
+> [[Numbers 1#^num-1-2|Num. 1:2 (2–46)]] · [[Exodus 16#^ex-16-1|≈ Exodus 16:1]] · [[Exodus 16#^ex-16-9|≈ Exodus 16:9]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]] · [[Exodus 35#^ex-35-4|≈ Exodus 35:4]] · [[Exodus 35#^ex-35-20|≈ Exodus 35:20]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]]
 
 ![[Numbers 26#^num-26-3]]
 > [[Numbers 33#^num-33-50|≈ Numbers 33:50]] · [[Numbers 33#^num-33-48|≈ Numbers 33:48]] · [[Numbers 36#^num-36-13|≈ Numbers 36:13]] · [[Numbers 35#^num-35-1|≈ Numbers 35:1]]
@@ -128,7 +128,7 @@ cssclasses:
 ![[Numbers 26#^num-26-46]]
 
 ![[Numbers 26#^num-26-47]]
-> [[Genesis 10#^gen-10-32|≈ Genesis 10:32]] · [[Numbers 2#^num-2-30|≈ Numbers 2:30]]
+> [[Genesis 10#^gen-10-32|≈ Genesis 10:32]] · [[Numbers 2#^num-2-30|≈ Numbers 2:30]] · [[Numbers 1#^num-1-43|≈ Numbers 1:43]]
 
 ![[Numbers 26#^num-26-48]]
 

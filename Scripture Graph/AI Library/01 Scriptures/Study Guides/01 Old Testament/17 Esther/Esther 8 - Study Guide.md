@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 8
 slug: esth-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 8]] · My notes: [[Esther 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mordecai is honored and placed over the house of Haman—Ahasuerus issues a decree to preserve the Jews.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 3]] — 4 footnote cross-references (from [[Esther 8#^esth-8-2|Esther 8:2]])
+- [[Esther 9]] — 4 footnote cross-references (from [[Esther 8#^esth-8-10|Esther 8:10]])
+- [[Genesis 41]] — 2 footnote cross-references (from [[Esther 8#^esth-8-2|Esther 8:2]])
+- [[Esther 1]] — 2 footnote cross-references (from [[Esther 8#^esth-8-8|Esther 8:8]])
+- [[Esther 2]] — 1 footnote cross-reference (from [[Esther 8#^esth-8-1|Esther 8:1]])
+- [[Esther 4]] — 1 footnote cross-reference (from [[Esther 8#^esth-8-4|Esther 8:4]])
 - [[Esther 3]] — 8 parallel verses, e.g. [[Esther 8#^esth-8-13|Esther 8:13]] ↔ [[Esther 3#^esth-3-14|Esther 3:14]]
 - [[Esther 9]] — 4 parallel verses, e.g. [[Esther 8#^esth-8-9|Esther 8:9]] ↔ [[Esther 9#^esth-9-27|Esther 9:27]]
 - [[Esther 1]] — 1 parallel verse, e.g. [[Esther 8#^esth-8-9|Esther 8:9]] ↔ [[Esther 1#^esth-1-22|Esther 1:22]]

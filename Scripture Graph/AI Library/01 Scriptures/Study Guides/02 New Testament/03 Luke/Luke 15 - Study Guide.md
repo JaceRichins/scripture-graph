@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 15
 slug: luke-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 15]] · My notes: [[Luke 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parables of the lost sheep, the piece of silver, and the prodigal son.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 18]] — 2 parallel verses, e.g. [[Luke 15#^luke-15-10|Luke 15:10]] ↔ [[Luke 18#^luke-18-29|Luke 18:29]]
-- [[Genesis 33]] — 1 parallel verse, e.g. [[Luke 15#^luke-15-20|Luke 15:20]] ↔ [[Genesis 33#^gen-33-4|Genesis 33:4]]
+- [[Mark 2]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-1|Luke 15:1]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-4|Luke 15:4]])
+- [[Proverbs 28]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-13|Luke 15:13]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-17|Luke 15:17]])
+- [[Lamentations 3]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-18|Luke 15:18]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-31|Luke 15:31]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

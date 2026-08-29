@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 29
 slug: alma-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 29]] · My notes: [[Alma 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma desires to cry repentance with angelic zeal—The Lord grants teachers for all nations—Alma glories in the Lord’s work and in the success of Ammon and his brethren. About 76 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 2]] — 2 footnote cross-references (from [[Alma 29#^alma-29-5|Alma 29:5]])
+- [[Alma 36]] — 2 footnote cross-references (from [[Alma 29#^alma-29-11|Alma 29:11]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Alma 29#^alma-29-12|Alma 29:12]])
+- [[Isaiah 58]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-1|Alma 29:1]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-1|Alma 29:1]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-2|Alma 29:2]])
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Exodus 4]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Exodus 4#^ex-4-5|Exodus 4:5]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Alma 5#^alma-5-5|Alma 5:5]]

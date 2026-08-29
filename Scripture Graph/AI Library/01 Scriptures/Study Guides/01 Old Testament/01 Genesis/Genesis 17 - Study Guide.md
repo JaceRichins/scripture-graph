@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 17
 slug: gen-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 17]] · My notes: [[Genesis 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abram is commanded to be perfect—He will be a father of many nations—His name is changed to Abraham—The Lord covenants to be a God unto Abraham and his seed forever—Also, the Lord gives Abraham the land of Canaan for an everlasting possession—Circumcision becomes a token of the everlasting covenant between God and Abraham—Sarai’s name is changed to Sarah—She will bear Isaac, with whom the Lord will establish His covenant—Abraham and the men of his house are circumcised.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 21]] — 4 footnote cross-references (from [[Genesis 17#^gen-17-17|Genesis 17:17]])
+- [[Abraham 2]] — 3 footnote cross-references (from [[Genesis 17#^gen-17-1|Genesis 17:1]])
+- [[Exodus 6]] — 3 footnote cross-references (from [[Genesis 17#^gen-17-1|Genesis 17:1]])
+- [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-7|Genesis 17:7]])
+- [[Acts 15]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-11|Genesis 17:11]])
+- [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-16|Genesis 17:16]])
 - [[Leviticus 7]] — 4 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
 - [[Numbers 19]] — 2 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Numbers 19#^num-19-13|Numbers 19:13]]
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Exodus 12#^ex-12-15|Exodus 12:15]]

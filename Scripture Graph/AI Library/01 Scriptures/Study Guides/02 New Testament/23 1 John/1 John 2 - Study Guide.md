@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 2
 slug: 1jn-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 John 2]] · My notes: [[1 John 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ is our Advocate with the Father—We know God by obedience—Love not the world—Anti-Christs will come in the last days.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Moroni 7]] — 2 parallel verses, e.g. [[1 John 2#^1jn-2-22|1 John 2:22]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
-- [[2 John 1]] — 2 parallel verses, e.g. [[1 John 2#^1jn-2-7|1 John 2:7]] ↔ [[2 John 1#^2jn-1-6|2 John 1:6]]
+- [[1 John 3]] — 2 footnote cross-references (from [[1 John 2#^1jn-2-3|1 John 2:3]])
+- [[2 Nephi 31]] — 2 footnote cross-references (from [[1 John 2#^1jn-2-6|1 John 2:6]])
+- [[D&C 95]] — 2 footnote cross-references (from [[1 John 2#^1jn-2-10|1 John 2:10]])
+- [[Alma 11]] — 1 footnote cross-reference (from [[1 John 2#^1jn-2-2|1 John 2:2]])
+- [[D&C 21]] — 1 footnote cross-reference (from [[1 John 2#^1jn-2-2|1 John 2:2]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[1 John 2#^1jn-2-2|1 John 2:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

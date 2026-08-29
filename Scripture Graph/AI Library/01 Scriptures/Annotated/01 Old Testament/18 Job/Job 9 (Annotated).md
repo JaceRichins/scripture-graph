@@ -13,11 +13,15 @@ cssclasses:
 
 [[Job 9|Plain text]] · [[Job 9 - Study Guide|Study guide]] · [[Job 9 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Job acknowledges the justice and greatness of God and concludes that man cannot contend against Him.
+
 ![[Job 9#^job-9-1]]
 
 ![[Job 9#^job-9-2]]
 
 ![[Job 9#^job-9-3]]
+> [[Ecclesiastes 6#^eccl-6-10|Eccl. 6:10]] · [[Isaiah 45#^isa-45-9|Isa. 45:9]] · [[Ether 4#^ether-4-8|Ether 4:8]]
 
 ![[Job 9#^job-9-4]]
 
@@ -28,6 +32,7 @@ cssclasses:
 ![[Job 9#^job-9-7]]
 
 ![[Job 9#^job-9-8]]
+> [[Psalm 104#^ps-104-2|Ps. 104:2]] · [[Isaiah 40#^isa-40-22|Isa. 40:22]] · [[2 Nephi 8#^2ne-8-13|2 Ne. 8:13]]
 
 ![[Job 9#^job-9-9]]
 
@@ -36,6 +41,7 @@ cssclasses:
 ![[Job 9#^job-9-11]]
 
 ![[Job 9#^job-9-12]]
+> [[Romans 9#^rom-9-20|Rom. 9:20 (20–21)]] · [[Moses 1#^moses-1-4|Moses 1:4]]
 
 ![[Job 9#^job-9-13]]
 
@@ -56,6 +62,7 @@ cssclasses:
 ![[Job 9#^job-9-21]]
 
 ![[Job 9#^job-9-22]]
+> [[Malachi 3#^mal-3-14|Mal. 3:14 (14–18)]]
 
 ![[Job 9#^job-9-23]]
 

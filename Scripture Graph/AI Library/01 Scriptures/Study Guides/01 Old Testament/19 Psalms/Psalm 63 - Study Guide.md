@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 63
 slug: ps-63
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 63]] · My notes: [[Psalm 63 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David thirsts for God, whom he praises with joyful lips.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 57]] — 1 parallel verse, e.g. [[Psalm 63#^ps-63-7|Psalm 63:7]] ↔ [[Psalm 57#^ps-57-1|Psalm 57:1]]
+- [[Psalm 42]] — 2 footnote cross-references (from [[Psalm 63#^ps-63-1|Psalm 63:1]])
+- [[Psalm 119]] — 2 footnote cross-references (from [[Psalm 63#^ps-63-4|Psalm 63:4]])
+- [[Isaiah 26]] — 1 footnote cross-reference (from [[Psalm 63#^ps-63-1|Psalm 63:1]])
+- [[Psalm 143]] — 1 footnote cross-reference (from [[Psalm 63#^ps-63-1|Psalm 63:1]])
+- [[D&C 25]] — 1 footnote cross-reference (from [[Psalm 63#^ps-63-3|Psalm 63:3]])
+- [[Psalm 134]] — 1 footnote cross-reference (from [[Psalm 63#^ps-63-4|Psalm 63:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

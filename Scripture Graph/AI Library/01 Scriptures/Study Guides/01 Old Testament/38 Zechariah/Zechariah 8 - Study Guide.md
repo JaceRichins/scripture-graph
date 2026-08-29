@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 8
 slug: zech-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 8]] · My notes: [[Zechariah 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Jerusalem will be restored, Judah will be gathered, and the Lord will bless His people beyond anything in the past.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Zechariah 1]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-2|Zechariah 8:2]])
+- [[Daniel 9]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-3|Zechariah 8:3]])
+- [[Joel 3]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-3|Zechariah 8:3]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-8|Zechariah 8:8]])
+- [[Ezra 5]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-9|Zechariah 8:9]])
+- [[Genesis 18]] — 1 footnote cross-reference (from [[Zechariah 8#^zech-8-13|Zechariah 8:13]])
 - [[Jeremiah 24]] — 1 parallel verse, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]
 - [[Ezekiel 11]] — 1 parallel verse, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]]

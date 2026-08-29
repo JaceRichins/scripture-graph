@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 48
 slug: gen-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 48]] · My notes: [[Genesis 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob tells of the appearance of God to him in Luz—He adopts Ephraim and Manasseh as his own children—Jacob blesses Joseph—He puts Ephraim before Manasseh—The seed of Ephraim will become a multitude of nations—The children of Israel will come again into the land of their fathers.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Abraham 2]] — 2 footnote cross-references (from [[Genesis 48#^gen-48-3|Genesis 48:3]])
+- [[Genesis 35]] — 2 footnote cross-references (from [[Genesis 48#^gen-48-3|Genesis 48:3]])
+- [[Genesis 27]] — 2 footnote cross-references (from [[Genesis 48#^gen-48-10|Genesis 48:10]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Genesis 48#^gen-48-14|Genesis 48:14]])
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 48#^gen-48-2|Genesis 48:2]])
+- [[Genesis 47]] — 1 footnote cross-reference (from [[Genesis 48#^gen-48-2|Genesis 48:2]])
 - [[Abraham 2]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-4|Genesis 48:4]] ↔ [[Abraham 2#^abr-2-6|Abraham 2:6]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 48#^gen-48-1|Genesis 48:1]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
 <!-- SG:END related-scriptures -->

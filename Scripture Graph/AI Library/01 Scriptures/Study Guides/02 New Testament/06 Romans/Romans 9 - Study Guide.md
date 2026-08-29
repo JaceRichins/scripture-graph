@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 9
 slug: rom-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 9]] · My notes: [[Romans 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul explains how the law of election (foreordination) operates—The people of Israel are chosen (foreordained) to receive the adoption, covenants, promises, and blessings of the gospel; yet they are not all Israel who are of Israel—They must seek their blessings by faith—The Gentiles also attain to righteousness and salvation by faith.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Timothy 2]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-1|Romans 9:1]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-3|Romans 9:3]])
+- [[2 Nephi 30]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-6|Romans 9:6]])
+- [[Genesis 22]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-10|Romans 9:10]])
+- [[Genesis 25]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-12|Romans 9:12]])
+- [[Malachi 1]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-13|Romans 9:13]])
 - [[Hosea 1]] — 2 parallel verses, e.g. [[Romans 9#^rom-9-26|Romans 9:26]] ↔ [[Hosea 1#^hosea-1-10|Hosea 1:10]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 3
 slug: zech-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 3]] · My notes: [[Zechariah 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zechariah speaks about the Messiah—The Branch will come—At the Second Coming, iniquity will be removed in one day.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 22]] — 1 parallel verse, e.g. [[Zechariah 3#^zech-3-10|Zechariah 3:10]] ↔ [[Isaiah 22#^isa-22-25|Isaiah 22:25]]
-- [[Amos 8]] — 2 parallel verses, e.g. [[Zechariah 3#^zech-3-10|Zechariah 3:10]] ↔ [[Amos 8#^amos-8-3|Amos 8:3]]
+- [[Psalm 109]] — 1 footnote cross-reference (from [[Zechariah 3#^zech-3-1|Zechariah 3:1]])
+- [[Amos 4]] — 1 footnote cross-reference (from [[Zechariah 3#^zech-3-2|Zechariah 3:2]])
+- [[Deuteronomy 11]] — 1 footnote cross-reference (from [[Zechariah 3#^zech-3-7|Zechariah 3:7]])
+- [[Amos 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

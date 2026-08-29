@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 22]] · My notes: [[2 Samuel 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David praises the Lord in a psalm of thanksgiving—The Lord is his fortress and savior, He is mighty and powerful in deliverance, He rewards men according to their righteousness, He shows mercy to the merciful, His way is perfect, He lives, and blessed is He.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 18]] — 2 footnote cross-references (from [[2 Samuel 22#^2sam-22-28|2 Samuel 22:28]])
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-1|2 Samuel 22:1]])
+- [[Deuteronomy 20]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
+- [[Proverbs 18]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
 - [[Psalm 18]] — 42 parallel verses, e.g. [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]] ↔ [[Psalm 18#^ps-18-8|Psalm 18:8]]
 <!-- SG:END related-scriptures -->
 

@@ -13,13 +13,19 @@ cssclasses:
 
 [[Psalm 56|Plain text]] · [[Psalm 56 - Study Guide|Study guide]] · [[Psalm 56 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David seeks mercy, trusts in and praises the Lord, and thanks Him for deliverance.
+
 ![[Psalm 56#^ps-56-1]]
+> [[Psalm 124#^ps-124-3|Ps. 124:3]]
 
 ![[Psalm 56#^ps-56-2]]
 
 ![[Psalm 56#^ps-56-3]]
+> [[1 Samuel 30#^1sam-30-6|1 Sam. 30:6]]
 
 ![[Psalm 56#^ps-56-4]]
+> [[Psalm 118#^ps-118-6|Ps. 118:6]] · [[Isaiah 51#^isa-51-12|Isa. 51:12]] · [[2 Nephi 8#^2ne-8-7|2 Ne. 8:7 (7, 12)]] · [[D&C 122#^dc-122-9|D&amp;C 122:9]]
 
 ![[Psalm 56#^ps-56-5]]
 
@@ -38,3 +44,4 @@ cssclasses:
 ![[Psalm 56#^ps-56-12]]
 
 ![[Psalm 56#^ps-56-13]]
+> [[Psalm 116#^ps-116-8|Ps. 116:8]]

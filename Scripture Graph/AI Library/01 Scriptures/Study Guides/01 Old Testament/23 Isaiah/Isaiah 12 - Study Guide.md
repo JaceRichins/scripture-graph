@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 12
 slug: isa-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 12]] · My notes: [[Isaiah 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the millennial day, all men will praise the Lord—He will dwell among them—Compare 2 Nephi 22.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 22]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-1|Isaiah 12:1]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-1|Isaiah 12:1]])
+- [[Exodus 6]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-2|Isaiah 12:2]])
+- [[Psalm 83]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-2|Isaiah 12:2]])
+- [[Isaiah 26]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-2|Isaiah 12:2]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-6|Isaiah 12:6]])
 - [[2 Nephi 22]] — 6 parallel verses, e.g. [[Isaiah 12#^isa-12-1|Isaiah 12:1]] ↔ [[2 Nephi 22#^2ne-22-1|2 Nephi 22:1]]
 <!-- SG:END related-scriptures -->
 

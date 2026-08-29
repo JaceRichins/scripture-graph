@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 2
 slug: rom-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 2]] · My notes: [[Romans 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God will render to every person according to his or her deeds—Both Jews and Gentiles will be judged by gospel laws.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Romans 1]] — 1 parallel verse, e.g. [[Romans 2#^rom-2-10|Romans 2:10]] ↔ [[Romans 1#^rom-1-16|Romans 1:16]]
+- [[Ezekiel 16]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-3|Romans 2:3]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-3|Romans 2:3]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-4|Romans 2:4]])
+- [[Romans 11]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-6|Romans 2:6]])
+- [[D&C 67]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-7|Romans 2:7]])
+- [[Psalm 32]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-9|Romans 2:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

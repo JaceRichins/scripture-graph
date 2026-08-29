@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 13
 slug: dc-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 13]] · My notes: [[D&C 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The keys and powers of the Aaronic Priesthood are set forth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joseph Smith—History 1]] — 3 footnote cross-references (from [[D&C 13#^dc-13-1|D&C 13:1]])
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 13#^dc-13-1|D&C 13:1]])
+- [[D&C 27]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
+- [[Genesis 49]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
+- [[1 Chronicles 6]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
 - [[D&C 107]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[D&C 107#^dc-107-20|D&C 107:20]]
+- [[Joseph Smith—History 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 1
 slug: rev-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 1]] · My notes: [[Revelation 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ chooses some as kings and priests unto God—Christ will come again—John sees the risen Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 2]] — 5 footnote cross-references (from [[Revelation 1#^rev-1-11|Revelation 1:11]])
+- [[Revelation 22]] — 3 footnote cross-references (from [[Revelation 1#^rev-1-1|Revelation 1:1]])
+- [[D&C 110]] — 3 footnote cross-references (from [[Revelation 1#^rev-1-14|Revelation 1:14]])
+- [[Revelation 3]] — 2 footnote cross-references (from [[Revelation 1#^rev-1-4|Revelation 1:4]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[Revelation 1#^rev-1-1|Revelation 1:1]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Revelation 1#^rev-1-1|Revelation 1:1]])
 - [[Revelation 22]] — 2 parallel verses, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
 - [[D&C 110]] — 2 parallel verses, e.g. [[Revelation 1#^rev-1-14|Revelation 1:14]] ↔ [[D&C 110#^dc-110-3|D&C 110:3]]
 - [[1 Peter 5]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-6|Revelation 1:6]] ↔ [[1 Peter 5#^1pet-5-11|1 Peter 5:11]]

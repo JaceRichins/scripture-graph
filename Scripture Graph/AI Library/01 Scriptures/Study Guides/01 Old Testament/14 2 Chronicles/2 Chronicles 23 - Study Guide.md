@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 23
 slug: 2chr-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 23]] · My notes: [[2 Chronicles 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jehoiada the priest makes Joash king—Athaliah is slain—Worship of the Lord is restored, and the priest of Baal is slain.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 11]] — 3 footnote cross-references (from [[2 Chronicles 23#^2chr-23-1|2 Chronicles 23:1]])
+- [[2 Samuel 7]] — 1 footnote cross-reference (from [[2 Chronicles 23#^2chr-23-3|2 Chronicles 23:3]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[2 Chronicles 23#^2chr-23-6|2 Chronicles 23:6]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[2 Chronicles 23#^2chr-23-6|2 Chronicles 23:6]])
+- [[Deuteronomy 17]] — 1 footnote cross-reference (from [[2 Chronicles 23#^2chr-23-11|2 Chronicles 23:11]])
+- [[1 Chronicles 25]] — 1 footnote cross-reference (from [[2 Chronicles 23#^2chr-23-13|2 Chronicles 23:13]])
 - [[2 Kings 11]] — 16 parallel verses, e.g. [[2 Chronicles 23#^2chr-23-8|2 Chronicles 23:8]] ↔ [[2 Kings 11#^2kgs-11-9|2 Kings 11:9]]
 - [[Daniel 9]] — 2 parallel verses, e.g. [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]] ↔ [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 10
 slug: ps-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 10]] · My notes: [[Psalm 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David speaks of various acts of the wicked—God is not in their thoughts—But the Lord is King forever and ever—He will judge the fatherless and oppressed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 15]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-1|Psalm 10:1]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-1|Psalm 10:1]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-1|Psalm 10:1]])
+- [[Psalm 14]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-4|Psalm 10:4]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-4|Psalm 10:4]])
+- [[Psalm 68]] — 1 footnote cross-reference (from [[Psalm 10#^ps-10-14|Psalm 10:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

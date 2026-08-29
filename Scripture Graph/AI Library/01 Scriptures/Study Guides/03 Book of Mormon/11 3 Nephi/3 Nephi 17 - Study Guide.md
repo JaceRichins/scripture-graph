@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 17
 slug: 3ne-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 17]] · My notes: [[3 Nephi 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus directs the people to ponder His words and pray for understanding—He heals their sick—He prays for the people, using language that cannot be written—Angels minister to and fire encircles their little ones. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 19]] — 6 footnote cross-references (from [[3 Nephi 17#^3ne-17-3|3 Nephi 17:3]])
+- [[3 Nephi 26]] — 2 footnote cross-references (from [[3 Nephi 17#^3ne-17-9|3 Nephi 17:9]])
+- [[Mark 10]] — 2 footnote cross-references (from [[3 Nephi 17#^3ne-17-11|3 Nephi 17:11]])
+- [[John 16]] — 1 footnote cross-reference (from [[3 Nephi 17#^3ne-17-2|3 Nephi 17:2]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[3 Nephi 17#^3ne-17-2|3 Nephi 17:2]])
+- [[D&C 78]] — 1 footnote cross-reference (from [[3 Nephi 17#^3ne-17-2|3 Nephi 17:2]])
 - [[3 Nephi 18]] — 5 parallel verses, e.g. [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[3 Nephi 19]] — 4 parallel verses, e.g. [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]] ↔ [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]]
 - [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]

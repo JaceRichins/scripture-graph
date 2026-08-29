@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 10
 slug: 2cor-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 10]] · My notes: [[2 Corinthians 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bring every thought into obedience—Paul glories in the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 19]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-1|2 Corinthians 10:1]])
+- [[D&C 25]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-1|2 Corinthians 10:1]])
+- [[Ephesians 6]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-4|2 Corinthians 10:4]])
+- [[1 Corinthians 9]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-4|2 Corinthians 10:4]])
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-6|2 Corinthians 10:6]])
+- [[1 Samuel 16]] — 1 footnote cross-reference (from [[2 Corinthians 10#^2cor-10-7|2 Corinthians 10:7]])
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[2 Corinthians 10#^2cor-10-17|2 Corinthians 10:17]] ↔ [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]]
 <!-- SG:END related-scriptures -->
 

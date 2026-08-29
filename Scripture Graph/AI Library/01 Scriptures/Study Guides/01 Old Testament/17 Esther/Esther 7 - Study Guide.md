@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 7
 slug: esth-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 7]] · My notes: [[Esther 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Esther reveals Haman’s plot to destroy the Jews—He is hanged on his own gallows.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 5]] — 2 footnote cross-references (from [[Esther 7#^esth-7-2|Esther 7:2]])
+- [[Esther 1]] — 2 footnote cross-references (from [[Esther 7#^esth-7-7|Esther 7:7]])
+- [[Esther 9]] — 1 footnote cross-reference (from [[Esther 7#^esth-7-2|Esther 7:2]])
+- [[Esther 3]] — 1 footnote cross-reference (from [[Esther 7#^esth-7-4|Esther 7:4]])
+- [[Esther 4]] — 1 footnote cross-reference (from [[Esther 7#^esth-7-4|Esther 7:4]])
+- [[Esther 2]] — 1 footnote cross-reference (from [[Esther 7#^esth-7-9|Esther 7:9]])
 - [[Esther 5]] — 4 parallel verses, e.g. [[Esther 7#^esth-7-2|Esther 7:2]] ↔ [[Esther 5#^esth-5-6|Esther 5:6]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 12
 slug: gen-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 12]] · My notes: [[Genesis 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abram will become a great nation—He and his seed will bless all the families of the earth—He travels from Haran to the land of Canaan—Because of famine, he goes down into Egypt—Abram and Sarai are tested in Pharaoh’s court.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Abraham 2]] — 13 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
+- [[Genesis 20]] — 5 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
+- [[Genesis 13]] — 4 footnote cross-references (from [[Genesis 12#^gen-12-5|Genesis 12:5]])
+- [[Abraham 1]] — 3 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
+- [[Nehemiah 9]] — 2 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
+- [[1 Nephi 2]] — 2 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
 - [[Abraham 2]] — 12 parallel verses, e.g. [[Genesis 12#^gen-12-13|Genesis 12:13]] ↔ [[Abraham 2#^abr-2-25|Abraham 2:25]]
 - [[Genesis 26]] — 2 parallel verses, e.g. [[Genesis 12#^gen-12-10|Genesis 12:10]] ↔ [[Genesis 26#^gen-26-1|Genesis 26:1]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Genesis 12#^gen-12-1|Genesis 12:1]] ↔ [[Acts 7#^acts-7-3|Acts 7:3]]

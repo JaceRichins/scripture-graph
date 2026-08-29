@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 14
 slug: 1ne-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 14]] · My notes: [[1 Nephi 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An angel tells Nephi of the blessings and cursings to fall upon the Gentiles—There are only two churches: the Church of the Lamb of God and the church of the devil—The Saints of God in all nations are persecuted by the great and abominable church—The Apostle John will write concerning the end of the world. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 13]] — 11 footnote cross-references (from [[1 Nephi 14#^1ne-14-1|1 Nephi 14:1]])
+- [[1 Nephi 22]] — 7 footnote cross-references (from [[1 Nephi 14#^1ne-14-1|1 Nephi 14:1]])
+- [[Mormon 8]] — 4 footnote cross-references (from [[1 Nephi 14#^1ne-14-10|1 Nephi 14:10]])
+- [[Revelation 1]] — 4 footnote cross-references (from [[1 Nephi 14#^1ne-14-20|1 Nephi 14:20]])
+- [[3 Nephi 16]] — 3 footnote cross-references (from [[1 Nephi 14#^1ne-14-1|1 Nephi 14:1]])
+- [[2 Nephi 10]] — 3 footnote cross-references (from [[1 Nephi 14#^1ne-14-2|1 Nephi 14:2]])
 - [[1 Nephi 13]] — 18 parallel verses, e.g. [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]] ↔ [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]]
 - [[1 Nephi 11]] — 14 parallel verses, e.g. [[1 Nephi 14#^1ne-14-29|1 Nephi 14:29]] ↔ [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]]
 - [[1 Nephi 12]] — 5 parallel verses, e.g. [[1 Nephi 14#^1ne-14-16|1 Nephi 14:16]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]

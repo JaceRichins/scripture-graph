@@ -17,7 +17,7 @@ cssclasses:
 > How priests are supported—Divination, spiritualism, and the like are abominations—A Prophet (Christ) will arise like unto Moses.
 
 ![[Deuteronomy 18#^deut-18-1]]
-> [[Numbers 18#^num-18-20|Num. 18:20]] · [[Numbers 26#^num-26-62|Num. 26:62]] · [[Numbers 18#^num-18-8|Num. 18:10 (8–10)]] · [[1 Corinthians 9#^1cor-9-13|1 Cor. 9:13]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 7#^lev-7-30|≈ Leviticus 7:30]] · [[Leviticus 7#^lev-7-35|≈ Leviticus 7:35]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]] · [[Leviticus 21#^lev-21-6|≈ Leviticus 21:6]]
+> [[Numbers 18#^num-18-20|Num. 18:20]] · [[Numbers 26#^num-26-62|Num. 26:62]] · [[Numbers 18#^num-18-8|Num. 18:10 (8–10)]] · [[1 Corinthians 9#^1cor-9-13|1 Cor. 9:13]] · [[Leviticus 7#^lev-7-30|≈ Leviticus 7:30]] · [[Leviticus 7#^lev-7-35|≈ Leviticus 7:35]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]] · [[Leviticus 21#^lev-21-6|≈ Leviticus 21:6]]
 
 ![[Deuteronomy 18#^deut-18-2]]
 > [[Psalm 16#^ps-16-5|Ps. 16:5]]

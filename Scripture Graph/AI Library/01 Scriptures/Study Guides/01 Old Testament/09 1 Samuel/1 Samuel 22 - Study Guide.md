@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 22
 slug: 1sam-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 22]] · My notes: [[1 Samuel 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David gains followers—He goes from one place to another, fleeing from Saul—Saul slays the priests who showed kindness to David.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 21]] — 2 footnote cross-references (from [[1 Samuel 22#^1sam-22-9|1 Samuel 22:9]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[1 Samuel 22#^1sam-22-18|1 Samuel 22:18]])
+- [[1 Samuel 2]] — 1 footnote cross-reference (from [[1 Samuel 22#^1sam-22-18|1 Samuel 22:18]])
+- [[1 Samuel 14]] — 1 footnote cross-reference (from [[1 Samuel 22#^1sam-22-18|1 Samuel 22:18]])
+- [[2 Samuel 15]] — 1 footnote cross-reference (from [[1 Samuel 22#^1sam-22-20|1 Samuel 22:20]])
+- [[1 Kings 2]] — 1 footnote cross-reference (from [[1 Samuel 22#^1sam-22-20|1 Samuel 22:20]])
 - [[1 Samuel 18]] — 2 parallel verses, e.g. [[1 Samuel 22#^1sam-22-14|1 Samuel 22:14]] ↔ [[1 Samuel 18#^1sam-18-26|1 Samuel 18:26]]
 <!-- SG:END related-scriptures -->
 

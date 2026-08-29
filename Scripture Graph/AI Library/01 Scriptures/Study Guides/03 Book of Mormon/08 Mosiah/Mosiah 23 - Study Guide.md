@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 23
 slug: mosiah-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 23]] · My notes: [[Mosiah 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma refuses to be king—He serves as high priest—The Lord chastens His people, and the Lamanites conquer the land of Helam—Amulon, leader of King Noah’s wicked priests, rules subject to the Lamanite monarch. About 145–121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 18]] — 8 footnote cross-references (from [[Mosiah 23#^mosiah-23-1|Mosiah 23:1]])
+- [[Mosiah 24]] — 4 footnote cross-references (from [[Mosiah 23#^mosiah-23-3|Mosiah 23:3]])
+- [[Mosiah 27]] — 3 footnote cross-references (from [[Mosiah 23#^mosiah-23-1|Mosiah 23:1]])
+- [[Mosiah 29]] — 3 footnote cross-references (from [[Mosiah 23#^mosiah-23-8|Mosiah 23:8]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Mosiah 23#^mosiah-23-1|Mosiah 23:1]])
+- [[Mosiah 11]] — 2 footnote cross-references (from [[Mosiah 23#^mosiah-23-9|Mosiah 23:9]])
 - [[Mosiah 29]] — 3 parallel verses, e.g. [[Mosiah 23#^mosiah-23-7|Mosiah 23:7]] ↔ [[Mosiah 29#^mosiah-29-16|Mosiah 29:16]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-13|Mosiah 23:13]] ↔ [[1 Nephi 13#^1ne-13-19|1 Nephi 13:19]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-22|Mosiah 23:22]] ↔ [[Alma 36#^alma-36-3|Alma 36:3]]

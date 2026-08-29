@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 15
 slug: ps-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 15]] · My notes: [[Psalm 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David asks, Who will dwell in the Lord’s holy hill?—He answers, The righteous, the upright, and those with integrity.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 24]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
+- [[1 Nephi 15]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
+- [[Mosiah 15]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

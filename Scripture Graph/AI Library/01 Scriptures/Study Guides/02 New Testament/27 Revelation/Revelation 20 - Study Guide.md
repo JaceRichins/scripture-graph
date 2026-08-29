@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 20]] · My notes: [[Revelation 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Satan is bound during the Millennium—The Saints will then live and reign with Christ—The dead stand before God and are judged out of the books according to their works.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 7]] — 3 footnote cross-references (from [[Revelation 20#^rev-20-4|Revelation 20:4]])
+- [[D&C 76]] — 2 footnote cross-references (from [[Revelation 20#^rev-20-1|Revelation 20:1]])
+- [[D&C 43]] — 2 footnote cross-references (from [[Revelation 20#^rev-20-3|Revelation 20:3]])
+- [[Revelation 9]] — 1 footnote cross-reference (from [[Revelation 20#^rev-20-1|Revelation 20:1]])
+- [[Isaiah 27]] — 1 footnote cross-reference (from [[Revelation 20#^rev-20-2|Revelation 20:2]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Revelation 20#^rev-20-2|Revelation 20:2]])
 - [[D&C 128]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-12|Revelation 20:12]] ↔ [[D&C 128#^dc-128-6|D&C 128:6]]
 <!-- SG:END related-scriptures -->
 

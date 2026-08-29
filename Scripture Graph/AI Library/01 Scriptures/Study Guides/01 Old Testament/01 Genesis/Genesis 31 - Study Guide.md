@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 31
 slug: gen-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 31]] · My notes: [[Genesis 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord commands Jacob to return to Canaan, and Jacob departs secretly—Laban pursues him; they resolve their differences and make a covenant of peace—Laban blesses his descendants, and he and Jacob part company.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,16 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Matthew 22]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
-- [[Mark 12]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
-- [[Luke 20]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
-- [[Mormon 9]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
-- [[Acts 7]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
-- [[1 Nephi 6]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
-- [[Alma 36]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
-- [[3 Nephi 4]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-53|Genesis 31:53]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
-- [[1 Kings 18]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-10|Genesis 31:10]] ↔ [[1 Kings 18#^1kgs-18-36|1 Kings 18:36]]
-- [[Genesis 36]] — 2 parallel verses, e.g. [[Genesis 31#^gen-31-18|Genesis 31:18]] ↔ [[Genesis 36#^gen-36-6|Genesis 36:6]]
+- [[Genesis 28]] — 2 footnote cross-references (from [[Genesis 31#^gen-31-13|Genesis 31:13]])
+- [[Genesis 32]] — 1 footnote cross-reference (from [[Genesis 31#^gen-31-3|Genesis 31:3]])
+- [[Genesis 26]] — 1 footnote cross-reference (from [[Genesis 31#^gen-31-3|Genesis 31:3]])
+- [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 31#^gen-31-24|Genesis 31:24]])
+- [[Genesis 4]] — 1 footnote cross-reference (from [[Genesis 31#^gen-31-27|Genesis 31:27]])
+- [[2 Samuel 6]] — 1 footnote cross-reference (from [[Genesis 31#^gen-31-27|Genesis 31:27]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

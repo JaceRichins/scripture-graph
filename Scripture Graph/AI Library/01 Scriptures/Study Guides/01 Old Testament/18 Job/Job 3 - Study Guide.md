@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 3
 slug: job-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 3]] · My notes: [[Job 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job curses the circumstances of his birth—He asks, Why died I not from the womb?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[Job 3#^job-3-3|Job 3:3]])
+- [[Psalm 23]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
+- [[Psalm 44]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
+- [[Psalm 107]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
+- [[D&C 57]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
+- [[Job 10]] — 1 footnote cross-reference (from [[Job 3#^job-3-11|Job 3:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

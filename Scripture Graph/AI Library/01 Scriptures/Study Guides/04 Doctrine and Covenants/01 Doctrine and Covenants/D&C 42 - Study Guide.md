@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -67,8 +67,8 @@ This outline describes shifts in subject matter; the text itself does not formal
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Consecration]]
-- [[Marriage]]
 - [[Work and Self-Reliance]]
+- [[Marriage]]
 - [[Government and Laws]]
 - [[Repentance and Forgiveness]]
 - [[Records and Sacred Writings]]

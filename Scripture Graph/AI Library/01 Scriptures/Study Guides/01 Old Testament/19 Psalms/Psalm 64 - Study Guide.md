@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 64
 slug: ps-64
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 64]] · My notes: [[Psalm 64 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays for safety—The righteous will be glad in heart.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 57]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-3|Psalm 64:3]])
+- [[Jeremiah 9]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-3|Psalm 64:3]])
+- [[Psalm 11]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-4|Psalm 64:4]])
+- [[Alma 37]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-5|Psalm 64:5]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-5|Psalm 64:5]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[Psalm 64#^ps-64-6|Psalm 64:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 2
 slug: 1thes-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Thessalonians 2]] · My notes: [[1 Thessalonians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> True ministers preach in a godly manner—Converts are the glory and joy of missionaries.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Thessalonians 1]] — 2 footnote cross-references (from [[1 Thessalonians 2#^1thes-2-1|1 Thessalonians 2:1]])
+- [[Acts 17]] — 2 footnote cross-references (from [[1 Thessalonians 2#^1thes-2-2|1 Thessalonians 2:2]])
+- [[1 Thessalonians 3]] — 2 footnote cross-references (from [[1 Thessalonians 2#^1thes-2-17|1 Thessalonians 2:17]])
+- [[Acts 16]] — 1 footnote cross-reference (from [[1 Thessalonians 2#^1thes-2-2|1 Thessalonians 2:2]])
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[1 Thessalonians 2#^1thes-2-3|1 Thessalonians 2:3]])
+- [[2 Corinthians 7]] — 1 footnote cross-reference (from [[1 Thessalonians 2#^1thes-2-3|1 Thessalonians 2:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

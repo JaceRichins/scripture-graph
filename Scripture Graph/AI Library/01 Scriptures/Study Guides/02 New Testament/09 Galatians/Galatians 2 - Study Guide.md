@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 2
 slug: gal-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Galatians 2]] · My notes: [[Galatians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,7 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Galatians 3]] — 3 parallel verses, e.g. [[Galatians 2#^gal-2-16|Galatians 2:16]] ↔ [[Galatians 3#^gal-3-24|Galatians 3:24]]
+- [[1 Corinthians 9]] — 2 footnote cross-references (from [[Galatians 2#^gal-2-7|Galatians 2:7]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Galatians 2#^gal-2-16|Galatians 2:16]])
+- [[Acts 15]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-1|Galatians 2:1]])
+- [[Acts 4]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-1|Galatians 2:1]])
+- [[Alma 8]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

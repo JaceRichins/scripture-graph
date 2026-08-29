@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 24
 slug: ex-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 24]] · My notes: [[Exodus 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel accepts the word of the Lord by covenant—Moses sprinkles the blood of the covenant—He, Aaron, Nadab, Abihu, and seventy of the elders of Israel see God—The Lord calls Moses on to the mount to receive the tables of stone and commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,18 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Deuteronomy 9]] — 4 parallel verses, e.g. [[Exodus 24#^ex-24-18|Exodus 24:18]] ↔ [[Deuteronomy 9#^deut-9-9|Deuteronomy 9:9]]
-- [[Deuteronomy 5]] — 5 parallel verses, e.g. [[Exodus 24#^ex-24-16|Exodus 24:16]] ↔ [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]]
-- [[Jeremiah 36]] — 4 parallel verses, e.g. [[Exodus 24#^ex-24-3|Exodus 24:3]] ↔ [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]]
-- [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Exodus 24#^ex-24-16|Exodus 24:16]] ↔ [[Deuteronomy 4#^deut-4-12|Deuteronomy 4:12]]
-- [[Exodus 4]] — 3 parallel verses, e.g. [[Exodus 24#^ex-24-3|Exodus 24:3]] ↔ [[Exodus 4#^ex-4-28|Exodus 4:28]]
-- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-3|Exodus 24:3]] ↔ [[Jeremiah 43#^jer-43-1|Jeremiah 43:1]]
-- [[Numbers 20]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-17|Exodus 24:17]] ↔ [[Numbers 20#^num-20-12|Numbers 20:12]]
-- [[Numbers 14]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-4|Exodus 24:4]] ↔ [[Numbers 14#^num-14-40|Numbers 14:40]]
-- [[Joshua 7]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-4|Exodus 24:4]] ↔ [[Joshua 7#^josh-7-16|Joshua 7:16]]
-- [[Job 1]] — 1 parallel verse, e.g. [[Exodus 24#^ex-24-4|Exodus 24:4]] ↔ [[Job 1#^job-1-5|Job 1:5]]
-- [[Ezekiel 1]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-16|Exodus 24:16]] ↔ [[Ezekiel 1#^ezek-1-4|Ezekiel 1:4]]
-- [[Numbers 11]] — 2 parallel verses, e.g. [[Exodus 24#^ex-24-3|Exodus 24:3]] ↔ [[Numbers 11#^num-11-24|Numbers 11:24]]
+- [[Exodus 32]] — 4 footnote cross-references (from [[Exodus 24#^ex-24-5|Exodus 24:5]])
+- [[Hebrews 9]] — 4 footnote cross-references (from [[Exodus 24#^ex-24-6|Exodus 24:6]])
+- [[Exodus 34]] — 2 footnote cross-references (from [[Exodus 24#^ex-24-12|Exodus 24:12]])
+- [[Exodus 6]] — 1 footnote cross-reference (from [[Exodus 24#^ex-24-1|Exodus 24:1]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Exodus 24#^ex-24-1|Exodus 24:1]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[Exodus 24#^ex-24-4|Exodus 24:4]])
+- [[Exodus 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

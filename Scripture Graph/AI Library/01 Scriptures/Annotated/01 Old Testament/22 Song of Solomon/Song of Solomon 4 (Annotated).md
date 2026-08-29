@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 4|Plain text]] · [[Song of Solomon 4 - Study Guide|Study guide]] · [[Song of Solomon 4 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> A song describes the beauty of the poet’s beloved.
+
 ![[Song of Solomon 4#^song-4-1]]
 > [[Song of Solomon 6#^song-6-5|≈ Song of Solomon 6:5]] · [[Song of Solomon 1#^song-1-15|≈ Song of Solomon 1:15]]
 
@@ -32,8 +35,10 @@ cssclasses:
 ![[Song of Solomon 4#^song-4-7]]
 
 ![[Song of Solomon 4#^song-4-8]]
+> [[Song of Solomon 5#^song-5-1|Song 5:1]]
 
 ![[Song of Solomon 4#^song-4-9]]
+> [[Song of Solomon 5#^song-5-1|Song 5:1]]
 
 ![[Song of Solomon 4#^song-4-10]]
 
@@ -42,6 +47,7 @@ cssclasses:
 ![[Song of Solomon 4#^song-4-12]]
 
 ![[Song of Solomon 4#^song-4-13]]
+> [[Song of Solomon 1#^song-1-12|Song 1:12]]
 
 ![[Song of Solomon 4#^song-4-14]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 31
 slug: ex-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Artisans are inspired in building and furnishing the tabernacle—Israel is commanded to keep the Lord’s Sabbaths—The death penalty is decreed for Sabbath desecration—Moses receives the stone tablets.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 35]] — 5 footnote cross-references (from [[Exodus 31#^ex-31-2|Exodus 31:2]])
+- [[Exodus 30]] — 2 footnote cross-references (from [[Exodus 31#^ex-31-11|Exodus 31:11]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Exodus 31#^ex-31-15|Exodus 31:15]])
+- [[Exodus 36]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-2|Exodus 31:2]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-4|Exodus 31:4]])
+- [[Mark 6]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-11|Exodus 31:11]])
 - [[Exodus 35]] — 7 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
 - [[Exodus 38]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-2|Exodus 31:2]] ↔ [[Exodus 38#^ex-38-22|Exodus 38:22]]
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 39#^ex-39-41|Exodus 39:41]]

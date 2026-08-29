@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 7
 slug: gen-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 7]] · My notes: [[Genesis 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Noah’s family and various beasts and fowl enter the ark—The Flood comes, and water covers the whole earth—All other life that breathes is destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 6]] — 2 footnote cross-references (from [[Genesis 7#^gen-7-5|Genesis 7:5]])
+- [[Moses 8]] — 2 footnote cross-references (from [[Genesis 7#^gen-7-5|Genesis 7:5]])
+- [[Genesis 8]] — 2 footnote cross-references (from [[Genesis 7#^gen-7-6|Genesis 7:6]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Genesis 7#^gen-7-11|Genesis 7:11]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Genesis 7#^gen-7-1|Genesis 7:1]])
+- [[1 Peter 3]] — 1 footnote cross-reference (from [[Genesis 7#^gen-7-1|Genesis 7:1]])
 - [[Genesis 1]] — 6 parallel verses, e.g. [[Genesis 7#^gen-7-14|Genesis 7:14]] ↔ [[Genesis 1#^gen-1-25|Genesis 1:25]]
 - [[Genesis 8]] — 3 parallel verses, e.g. [[Genesis 7#^gen-7-21|Genesis 7:21]] ↔ [[Genesis 8#^gen-8-17|Genesis 8:17]]
 - [[Abraham 4]] — 6 parallel verses, e.g. [[Genesis 7#^gen-7-14|Genesis 7:14]] ↔ [[Abraham 4#^abr-4-25|Abraham 4:25]]

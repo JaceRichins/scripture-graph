@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 26
 slug: num-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 26]] · My notes: [[Numbers 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses and Eleazar count the Israelites on the plains of Moab near Jericho—The males twenty years and older, excluding Levites, total 601,730—Only Caleb and Joshua remain from those numbered at Sinai.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -50,6 +51,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 1]] — 4 footnote cross-references (from [[Numbers 26#^num-26-2|Numbers 26:2]])
+- [[Genesis 46]] — 4 footnote cross-references (from [[Numbers 26#^num-26-5|Numbers 26:5]])
+- [[1 Chronicles 7]] — 3 footnote cross-references (from [[Numbers 26#^num-26-23|Numbers 26:23]])
+- [[Exodus 2]] — 2 footnote cross-references (from [[Numbers 26#^num-26-59|Numbers 26:59]])
+- [[Genesis 42]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
+- [[Joshua 13]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
 - [[Numbers 2]] — 12 parallel verses, e.g. [[Numbers 26#^num-26-41|Numbers 26:41]] ↔ [[Numbers 2#^num-2-15|Numbers 2:15]]
 - [[Numbers 3]] — 11 parallel verses, e.g. [[Numbers 26#^num-26-61|Numbers 26:61]] ↔ [[Numbers 3#^num-3-4|Numbers 3:4]]
 - [[Numbers 33]] — 5 parallel verses, e.g. [[Numbers 26#^num-26-4|Numbers 26:4]] ↔ [[Numbers 33#^num-33-1|Numbers 33:1]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 16
 slug: 2kgs-16
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -58,18 +58,18 @@ The chapter presents Ahaz as an unfaithful king and then traces two intertwined 
 - [[1 Kings 16]] — 6 parallel verses, e.g. [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[Numbers 29]] — 11 parallel verses, e.g. [[2 Kings 16#^2kgs-16-15|2 Kings 16:15]] ↔ [[Numbers 29#^num-29-18|Numbers 29:18]]
 - [[2 Kings 21]] — 5 parallel verses, e.g. [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
+- [[2 Chronicles 28]] — 5 parallel verses, e.g. [[2 Kings 16#^2kgs-16-4|2 Kings 16:4]] ↔ [[2 Chronicles 28#^2chr-28-4|2 Chronicles 28:4]]
 - [[2 Kings 12]] — 6 parallel verses, e.g. [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]] ↔ [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]]
 - [[1 Kings 22]] — 4 parallel verses, e.g. [[2 Kings 16#^2kgs-16-20|2 Kings 16:20]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
 - [[2 Kings 8]] — 4 parallel verses, e.g. [[2 Kings 16#^2kgs-16-20|2 Kings 16:20]] ↔ [[2 Kings 8#^2kgs-8-24|2 Kings 8:24]]
 - [[1 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Chronicles 21]] — 3 parallel verses, e.g. [[2 Kings 16#^2kgs-16-20|2 Kings 16:20]] ↔ [[2 Chronicles 21#^2chr-21-1|2 Chronicles 21:1]]
-- [[2 Chronicles 27]] — 4 parallel verses, e.g. [[2 Kings 16#^2kgs-16-2|2 Kings 16:2]] ↔ [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

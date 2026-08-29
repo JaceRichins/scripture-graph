@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 8
 slug: john-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 8]] · My notes: [[John 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The woman taken in adultery is brought before Christ—Christ is the Light of the world—He again proclaims that He is the Messiah—The true children of Abraham believe in Christ—Jesus says, Before Abraham was I, Jehovah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 16]] — 4 footnote cross-references (from [[John 8#^john-8-14|John 8:14]])
+- [[D&C 42]] — 2 footnote cross-references (from [[John 8#^john-8-11|John 8:11]])
+- [[John 12]] — 2 footnote cross-references (from [[John 8#^john-8-15|John 8:15]])
+- [[Moroni 10]] — 2 footnote cross-references (from [[John 8#^john-8-21|John 8:21]])
+- [[John 5]] — 2 footnote cross-references (from [[John 8#^john-8-28|John 8:28]])
+- [[John 7]] — 2 footnote cross-references (from [[John 8#^john-8-28|John 8:28]])
 - [[D&C 132]] — 4 parallel verses, e.g. [[John 8#^john-8-51|John 8:51]] ↔ [[D&C 132#^dc-132-18|D&C 132:18]]
 - [[John 6]] — 2 parallel verses, e.g. [[John 8#^john-8-58|John 8:58]] ↔ [[John 6#^john-6-32|John 6:32]]
 - [[John 14]] — 1 parallel verse, e.g. [[John 8#^john-8-19|John 8:19]] ↔ [[John 14#^john-14-7|John 14:7]]

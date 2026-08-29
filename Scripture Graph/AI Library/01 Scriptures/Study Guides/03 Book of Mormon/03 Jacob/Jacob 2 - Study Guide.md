@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 2
 slug: jacob-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 2]] · My notes: [[Jacob 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob denounces the love of riches, pride, and unchastity—Men may seek riches to help their fellowmen—The Lord commands that no man among the Nephites may have more than one wife—The Lord delights in the chastity of women. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 6]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-1|Jacob 2:1]])
+- [[D&C 6]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-5|Jacob 2:5]])
+- [[Alma 31]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-8|Jacob 2:8]])
+- [[4 Nephi 1]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-17|Jacob 2:17]])
+- [[1 Kings 11]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-24|Jacob 2:24]])
+- [[D&C 132]] — 2 footnote cross-references (from [[Jacob 2#^jacob-2-24|Jacob 2:24]])
 - [[2 Nephi 26]] — 3 parallel verses, e.g. [[Jacob 2#^jacob-2-14|Jacob 2:14]] ↔ [[2 Nephi 26#^2ne-26-25|2 Nephi 26:25]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Jacob 2#^jacob-2-22|Jacob 2:22]] ↔ [[1 Nephi 14#^1ne-14-30|1 Nephi 14:30]]
 - [[D&C 56]] — 1 parallel verse, e.g. [[Jacob 2#^jacob-2-22|Jacob 2:22]] ↔ [[D&C 56#^dc-56-20|D&C 56:20]]

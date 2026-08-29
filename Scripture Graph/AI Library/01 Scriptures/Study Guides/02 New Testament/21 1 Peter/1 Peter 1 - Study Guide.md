@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 1
 slug: 1pet-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Peter 1]] · My notes: [[1 Peter 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 12]] — 2 footnote cross-references (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
+- [[Hebrews 10]] — 2 footnote cross-references (from [[1 Peter 1#^1pet-1-5|1 Peter 1:5]])
+- [[2 Peter 3]] — 2 footnote cross-references (from [[1 Peter 1#^1pet-1-10|1 Peter 1:10]])
+- [[John 6]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
+- [[Isaiah 52]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
+- [[Exodus 24]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
 - [[2 Corinthians 11]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]]
 <!-- SG:END related-scriptures -->

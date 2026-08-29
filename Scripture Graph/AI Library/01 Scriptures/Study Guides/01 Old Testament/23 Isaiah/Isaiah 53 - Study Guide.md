@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 53]] · My notes: [[Isaiah 53 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks about the Messiah—His humiliation and sufferings are described—He makes His soul an offering for sin and makes intercession for the transgressors—Compare Mosiah 14.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Peter 2]] — 3 footnote cross-references (from [[Isaiah 53#^isa-53-3|Isaiah 53:3]])
+- [[Mosiah 14]] — 2 footnote cross-references (from [[Isaiah 53#^isa-53-1|Isaiah 53:1]])
+- [[Mark 15]] — 2 footnote cross-references (from [[Isaiah 53#^isa-53-7|Isaiah 53:7]])
+- [[Mosiah 15]] — 2 footnote cross-references (from [[Isaiah 53#^isa-53-8|Isaiah 53:8]])
+- [[John 12]] — 1 footnote cross-reference (from [[Isaiah 53#^isa-53-1|Isaiah 53:1]])
+- [[Romans 10]] — 1 footnote cross-reference (from [[Isaiah 53#^isa-53-1|Isaiah 53:1]])
 - [[Mosiah 14]] — 12 parallel verses, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
 - [[John 12]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-1|Isaiah 53:1]] ↔ [[John 12#^john-12-38|John 12:38]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]

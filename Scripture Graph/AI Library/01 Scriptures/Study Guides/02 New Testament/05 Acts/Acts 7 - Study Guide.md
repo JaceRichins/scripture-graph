@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 7
 slug: acts-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 7]] · My notes: [[Acts 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Stephen recounts the history of Israel and names Moses as a prototype of Christ—He testifies of the apostasy in Israel—He sees Jesus on the right hand of God—Stephen’s testimony is rejected, and he is stoned to death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 2]] — 8 footnote cross-references (from [[Acts 7#^acts-7-20|Acts 7:20]])
+- [[Exodus 3]] — 4 footnote cross-references (from [[Acts 7#^acts-7-25|Acts 7:25]])
+- [[Genesis 11]] — 2 footnote cross-references (from [[Acts 7#^acts-7-2|Acts 7:2]])
+- [[Genesis 45]] — 2 footnote cross-references (from [[Acts 7#^acts-7-13|Acts 7:13]])
+- [[Exodus 32]] — 2 footnote cross-references (from [[Acts 7#^acts-7-40|Acts 7:40]])
+- [[Genesis 12]] — 1 footnote cross-reference (from [[Acts 7#^acts-7-2|Acts 7:2]])
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Acts 7#^acts-7-40|Acts 7:40]] ↔ [[Exodus 32#^ex-32-1|Exodus 32:1]]
 - [[Exodus 3]] — 4 parallel verses, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Acts 3]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-37|Acts 7:37]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]

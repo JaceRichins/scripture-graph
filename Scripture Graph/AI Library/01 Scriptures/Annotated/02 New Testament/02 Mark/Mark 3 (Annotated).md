@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 3|Plain text]] · [[Mark 3 - Study Guide|Study guide]] · [[Mark 3 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus heals on the Sabbath day—He chooses and ordains the Twelve Apostles—He asks, Can Satan cast out Satan?—Jesus speaks of blasphemy against the Holy Ghost and identifies those who believe as being members of His family.
+
 ![[Mark 3#^mark-3-1]]
 
 ![[Mark 3#^mark-3-2]]
@@ -52,12 +55,14 @@ cssclasses:
 ![[Mark 3#^mark-3-16]]
 
 ![[Mark 3#^mark-3-17]]
+> [[Luke 9#^luke-9-54|Luke 9:54]]
 
 ![[Mark 3#^mark-3-18]]
 
 ![[Mark 3#^mark-3-19]]
 
 ![[Mark 3#^mark-3-20]]
+> [[Mark 6#^mark-6-30|Mark 6:31 (30–36)]]
 
 ![[Mark 3#^mark-3-21]]
 
@@ -91,4 +96,4 @@ cssclasses:
 > [[Matthew 12#^matt-12-49|≈ Matthew 12:49]]
 
 ![[Mark 3#^mark-3-35]]
-> [[Matthew 12#^matt-12-50|≈ Matthew 12:50]]
+> [[Matthew 12#^matt-12-50|Matt. 12:50]] · [[Matthew 12#^matt-12-50|≈ Matthew 12:50]]

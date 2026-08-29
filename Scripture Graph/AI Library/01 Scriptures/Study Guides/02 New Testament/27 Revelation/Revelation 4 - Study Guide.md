@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 4
 slug: rev-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 4]] · My notes: [[Revelation 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John sees the celestial earth, the throne of God, and all created things worshipping the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 1]] — 4 footnote cross-references (from [[Revelation 4#^rev-4-3|Revelation 4:3]])
+- [[D&C 77]] — 3 footnote cross-references (from [[Revelation 4#^rev-4-4|Revelation 4:4]])
+- [[Revelation 1]] — 1 footnote cross-reference (from [[Revelation 4#^rev-4-5|Revelation 4:5]])
+- [[Isaiah 6]] — 1 footnote cross-reference (from [[Revelation 4#^rev-4-8|Revelation 4:8]])
 - [[Revelation 5]] — 3 parallel verses, e.g. [[Revelation 4#^rev-4-10|Revelation 4:10]] ↔ [[Revelation 5#^rev-5-14|Revelation 5:14]]
 <!-- SG:END related-scriptures -->
 

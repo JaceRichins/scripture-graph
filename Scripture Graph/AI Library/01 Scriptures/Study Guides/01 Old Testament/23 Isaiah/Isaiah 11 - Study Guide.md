@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 11
 slug: isa-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 11]] · My notes: [[Isaiah 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The stem of Jesse (Christ) will judge in righteousness—The knowledge about God will cover the earth in the Millennium—The Lord will raise an ensign and gather Israel—Compare 2 Nephi 21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 113]] — 3 footnote cross-references (from [[Isaiah 11#^isa-11-1|Isaiah 11:1]])
+- [[D&C 133]] — 3 footnote cross-references (from [[Isaiah 11#^isa-11-11|Isaiah 11:11]])
+- [[2 Nephi 21]] — 2 footnote cross-references (from [[Isaiah 11#^isa-11-1|Isaiah 11:1]])
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[Isaiah 11#^isa-11-1|Isaiah 11:1]])
+- [[2 Nephi 30]] — 2 footnote cross-references (from [[Isaiah 11#^isa-11-4|Isaiah 11:4]])
+- [[2 Nephi 10]] — 2 footnote cross-references (from [[Isaiah 11#^isa-11-11|Isaiah 11:11]])
 - [[2 Nephi 21]] — 18 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 - [[2 Nephi 30]] — 6 parallel verses, e.g. [[Isaiah 11#^isa-11-4|Isaiah 11:4]] ↔ [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 11#^isa-11-11|Isaiah 11:11]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]

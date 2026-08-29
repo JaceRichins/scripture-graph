@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 41
 slug: jer-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 41]] · My notes: [[Jeremiah 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ishmael kills Gedaliah and carries the people of Mizpah captive—They are rescued by Johanan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 43]] — 1 footnote cross-reference (from [[Jeremiah 41#^jer-41-10|Jeremiah 41:10]])
 - [[Jeremiah 43]] — 11 parallel verses, e.g. [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
 - [[Jeremiah 40]] — 11 parallel verses, e.g. [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
 - [[Jeremiah 42]] — 6 parallel verses, e.g. [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]

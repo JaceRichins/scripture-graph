@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 12]] · My notes: [[Matthew 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus proclaims Himself Lord of the Sabbath and heals on the Sabbath day—He is accused of casting out devils through the power of Beelzebub—He speaks of blasphemy against the Holy Ghost and says that an evil and adulterous generation seeks signs.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 10]] — 2 footnote cross-references (from [[Matthew 12#^matt-12-21|Matthew 12:21]])
+- [[John 5]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-1|Matthew 12:1]])
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-1|Matthew 12:1]])
+- [[1 Samuel 21]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-3|Matthew 12:3]])
+- [[Numbers 28]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-5|Matthew 12:5]])
+- [[Hosea 6]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-7|Matthew 12:7]])
 - [[Luke 11]] — 9 parallel verses, e.g. [[Matthew 12#^matt-12-42|Matthew 12:42]] ↔ [[Luke 11#^luke-11-31|Luke 11:31]]
 - [[Mark 3]] — 7 parallel verses, e.g. [[Matthew 12#^matt-12-29|Matthew 12:29]] ↔ [[Mark 3#^mark-3-27|Mark 3:27]]
 - [[Luke 6]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-35|Matthew 12:35]] ↔ [[Luke 6#^luke-6-45|Luke 6:45]]

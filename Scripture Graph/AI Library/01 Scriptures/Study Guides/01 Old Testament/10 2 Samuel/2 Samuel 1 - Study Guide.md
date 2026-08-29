@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 1
 slug: 2sam-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 1]] · My notes: [[2 Samuel 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David learns of the death of Saul and Jonathan—He slays the Amalekite who claims to have killed Saul—David laments the passing of Saul and Jonathan with a song.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 31]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-10|2 Samuel 1:10]])
+- [[1 Chronicles 10]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-10|2 Samuel 1:10]])
+- [[2 Samuel 4]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-14|2 Samuel 1:14]])
+- [[Psalm 60]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-18|2 Samuel 1:18]])
+- [[D&C 135]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-23|2 Samuel 1:23]])
+- [[Alma 20]] — 1 footnote cross-reference (from [[2 Samuel 1#^2sam-1-26|2 Samuel 1:26]])
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[2 Samuel 1#^2sam-1-1|2 Samuel 1:1]] ↔ [[1 Samuel 18#^1sam-18-6|1 Samuel 18:6]]
 <!-- SG:END related-scriptures -->
 

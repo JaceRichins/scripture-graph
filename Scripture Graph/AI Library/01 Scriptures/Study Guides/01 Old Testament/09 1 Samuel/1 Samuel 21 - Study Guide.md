@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 21
 slug: 1sam-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 21]] · My notes: [[1 Samuel 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David gets help from Ahimelech the priest—He eats the shewbread—He goes to Gath, where he pretends madness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 22]] — 2 footnote cross-references (from [[1 Samuel 21#^1sam-21-1|1 Samuel 21:1]])
+- [[Moroni 4]] — 1 footnote cross-reference (from [[1 Samuel 21#^1sam-21-4|1 Samuel 21:4]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[1 Samuel 21#^1sam-21-6|1 Samuel 21:6]])
+- [[Luke 6]] — 1 footnote cross-reference (from [[1 Samuel 21#^1sam-21-6|1 Samuel 21:6]])
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[1 Samuel 21#^1sam-21-11|1 Samuel 21:11]] ↔ [[1 Samuel 18#^1sam-18-7|1 Samuel 18:7]]
 <!-- SG:END related-scriptures -->
 

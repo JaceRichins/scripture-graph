@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 35]] · My notes: [[Isaiah 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the day of restoration, the desert will blossom, the Lord will come, Israel will be gathered, and Zion will be built up.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 84]] — 2 parallel verses, e.g. [[Isaiah 35#^isa-35-5|Isaiah 35:5]] ↔ [[D&C 84#^dc-84-69|D&C 84:69]]
+- [[Isaiah 51]] — 2 footnote cross-references (from [[Isaiah 35#^isa-35-8|Isaiah 35:8]])
+- [[D&C 117]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-1|Isaiah 35:1]])
+- [[Psalm 96]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-1|Isaiah 35:1]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-1|Isaiah 35:1]])
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-2|Isaiah 35:2]])
+- [[Romans 14]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-3|Isaiah 35:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

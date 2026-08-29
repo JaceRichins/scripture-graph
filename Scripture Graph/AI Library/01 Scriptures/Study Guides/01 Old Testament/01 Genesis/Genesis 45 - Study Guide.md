@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 45
 slug: gen-45
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 45]] · My notes: [[Genesis 45 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joseph makes himself known to his brothers—They rejoice together—Pharaoh invites Jacob and his family to dwell in Egypt and eat the fat of the land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,13 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 41]] — 5 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Genesis 41#^gen-41-29|Genesis 41:29]]
-- [[Exodus 8]] — 4 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 8#^ex-8-16|Exodus 8:16]]
-- [[Exodus 9]] — 4 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 9#^ex-9-9|Exodus 9:9]]
-- [[Genesis 46]] — 3 parallel verses, e.g. [[Genesis 45#^gen-45-3|Genesis 45:3]] ↔ [[Genesis 46#^gen-46-31|Genesis 46:31]]
-- [[Genesis 50]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-3|Genesis 45:3]] ↔ [[Genesis 50#^gen-50-24|Genesis 50:24]]
-- [[Genesis 47]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-10|Genesis 45:10]] ↔ [[Genesis 47#^gen-47-4|Genesis 47:4]]
-- [[Exodus 7]] — 2 parallel verses, e.g. [[Genesis 45#^gen-45-8|Genesis 45:8]] ↔ [[Exodus 7#^ex-7-19|Exodus 7:19]]
+- [[Genesis 46]] — 4 footnote cross-references (from [[Genesis 45#^gen-45-1|Genesis 45:1]])
+- [[2 Nephi 3]] — 3 footnote cross-references (from [[Genesis 45#^gen-45-4|Genesis 45:4]])
+- [[Genesis 41]] — 3 footnote cross-references (from [[Genesis 45#^gen-45-8|Genesis 45:8]])
+- [[Genesis 43]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-1|Genesis 45:1]])
+- [[Acts 7]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-3|Genesis 45:3]])
+- [[Genesis 50]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-5|Genesis 45:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

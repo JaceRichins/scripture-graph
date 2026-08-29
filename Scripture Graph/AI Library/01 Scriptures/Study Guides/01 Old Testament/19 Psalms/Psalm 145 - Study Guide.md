@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 145
 slug: ps-145
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 145]] · My notes: [[Psalm 145 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David proclaims the greatness and majesty of God—The Lord is good to all—His kingdom is an everlasting kingdom—He is near to all who call upon Him, and He preserves those who love Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 34]] — 2 footnote cross-references (from [[Psalm 145#^ps-145-6|Psalm 145:6]])
+- [[Deuteronomy 4]] — 1 footnote cross-reference (from [[Psalm 145#^ps-145-4|Psalm 145:4]])
+- [[Psalm 78]] — 1 footnote cross-reference (from [[Psalm 145#^ps-145-4|Psalm 145:4]])
+- [[Isaiah 38]] — 1 footnote cross-reference (from [[Psalm 145#^ps-145-4|Psalm 145:4]])
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 145#^ps-145-8|Psalm 145:8]])
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Psalm 145#^ps-145-12|Psalm 145:12]])
 - [[Psalm 48]] — 1 parallel verse, e.g. [[Psalm 145#^ps-145-3|Psalm 145:3]] ↔ [[Psalm 48#^ps-48-1|Psalm 48:1]]
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 145#^ps-145-3|Psalm 145:3]] ↔ [[1 Chronicles 16#^1chr-16-25|1 Chronicles 16:25]]
 <!-- SG:END related-scriptures -->

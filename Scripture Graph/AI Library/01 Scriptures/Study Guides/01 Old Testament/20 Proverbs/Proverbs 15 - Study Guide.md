@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 15
 slug: prov-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 15]] · My notes: [[Proverbs 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A soft answer turns away wrath—A wise son makes a glad father—The thoughts of the wicked are an abomination to the Lord—Before honor comes humility.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 9]] — 3 footnote cross-references (from [[Proverbs 15#^prov-15-10|Proverbs 15:10]])
+- [[Proverbs 14]] — 3 footnote cross-references (from [[Proverbs 15#^prov-15-10|Proverbs 15:10]])
+- [[Proverbs 10]] — 2 footnote cross-references (from [[Proverbs 15#^prov-15-5|Proverbs 15:5]])
+- [[Proverbs 17]] — 2 footnote cross-references (from [[Proverbs 15#^prov-15-13|Proverbs 15:13]])
+- [[Genesis 26]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-1|Proverbs 15:1]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-5|Proverbs 15:5]])
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 15#^prov-15-20|Proverbs 15:20]] ↔ [[Proverbs 10#^prov-10-1|Proverbs 10:1]]
 <!-- SG:END related-scriptures -->
 

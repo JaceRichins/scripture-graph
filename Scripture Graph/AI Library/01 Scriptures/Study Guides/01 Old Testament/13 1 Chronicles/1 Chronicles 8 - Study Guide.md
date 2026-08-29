@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 8
 slug: 1chr-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 8]] · My notes: [[1 Chronicles 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons and chief men of Benjamin are named.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 9]] — 1 footnote cross-reference (from [[1 Chronicles 8#^1chr-8-33|1 Chronicles 8:33]])
+- [[1 Samuel 14]] — 1 footnote cross-reference (from [[1 Chronicles 8#^1chr-8-33|1 Chronicles 8:33]])
 - [[1 Chronicles 9]] — 8 parallel verses, e.g. [[1 Chronicles 8#^1chr-8-38|1 Chronicles 8:38]] ↔ [[1 Chronicles 9#^1chr-9-44|1 Chronicles 9:44]]
 - [[Exodus 6]] — 1 parallel verse, e.g. [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]] ↔ [[Exodus 6#^ex-6-25|Exodus 6:25]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 50
 slug: jer-50
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 50]] · My notes: [[Jeremiah 50 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Babylon will be destroyed and never rise again—The scattered people of Israel will be brought again into the lands of their inheritance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 51]] — 4 footnote cross-references (from [[Jeremiah 50#^jer-50-1|Jeremiah 50:1]])
+- [[Isaiah 13]] — 3 footnote cross-references (from [[Jeremiah 50#^jer-50-3|Jeremiah 50:3]])
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Jeremiah 50#^jer-50-9|Jeremiah 50:9]])
+- [[Numbers 24]] — 2 footnote cross-references (from [[Jeremiah 50#^jer-50-9|Jeremiah 50:9]])
+- [[Isaiah 44]] — 2 footnote cross-references (from [[Jeremiah 50#^jer-50-38|Jeremiah 50:38]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Jeremiah 50#^jer-50-2|Jeremiah 50:2]])
 - [[Jeremiah 49]] — 5 parallel verses, e.g. [[Jeremiah 50#^jer-50-44|Jeremiah 50:44]] ↔ [[Jeremiah 49#^jer-49-19|Jeremiah 49:19]]
 - [[Jeremiah 35]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
 - [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-33|Jeremiah 50:33]] ↔ [[Jeremiah 32#^jer-32-30|Jeremiah 32:30]]

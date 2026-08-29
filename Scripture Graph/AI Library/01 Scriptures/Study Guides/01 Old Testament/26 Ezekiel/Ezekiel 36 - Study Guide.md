@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 36
 slug: ezek-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 36]] · My notes: [[Ezekiel 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, all the house of Israel will be gathered to their own lands—The Lord will give them a new heart and a new spirit—They will have His gospel law.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 16]] — 3 footnote cross-references (from [[Ezekiel 36#^ezek-36-11|Ezekiel 36:11]])
+- [[Ezekiel 37]] — 3 footnote cross-references (from [[Ezekiel 36#^ezek-36-25|Ezekiel 36:25]])
+- [[Ezekiel 6]] — 2 footnote cross-references (from [[Ezekiel 36#^ezek-36-1|Ezekiel 36:1]])
+- [[Ezekiel 35]] — 2 footnote cross-references (from [[Ezekiel 36#^ezek-36-2|Ezekiel 36:2]])
+- [[Isaiah 61]] — 2 footnote cross-references (from [[Ezekiel 36#^ezek-36-10|Ezekiel 36:10]])
+- [[Ezekiel 22]] — 2 footnote cross-references (from [[Ezekiel 36#^ezek-36-17|Ezekiel 36:17]])
 - [[Ezekiel 6]] — 3 parallel verses, e.g. [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]] ↔ [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]]
 - [[Ezekiel 20]] — 5 parallel verses, e.g. [[Ezekiel 36#^ezek-36-22|Ezekiel 36:22]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
 - [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 36#^ezek-36-23|Ezekiel 36:23]] ↔ [[Ezekiel 37#^ezek-37-28|Ezekiel 37:28]]

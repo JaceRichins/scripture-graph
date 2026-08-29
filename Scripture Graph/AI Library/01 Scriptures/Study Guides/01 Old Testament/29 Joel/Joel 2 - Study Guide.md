@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joel 2]] · My notes: [[Joel 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> War and desolation will precede the Second Coming—The sun and the moon will be darkened—The Lord will pour out His Spirit upon all flesh—There will be dreams and visions.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 133]] — 3 footnote cross-references (from [[Joel 2#^joel-2-5|Joel 2:5]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Joel 2#^joel-2-3|Joel 2:3]])
+- [[D&C 64]] — 2 footnote cross-references (from [[Joel 2#^joel-2-5|Joel 2:5]])
+- [[D&C 43]] — 2 footnote cross-references (from [[Joel 2#^joel-2-10|Joel 2:10]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Joel 2#^joel-2-10|Joel 2:10]])
+- [[D&C 45]] — 2 footnote cross-references (from [[Joel 2#^joel-2-10|Joel 2:10]])
 - [[Acts 2]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-28|Joel 2:28]] ↔ [[Acts 2#^acts-2-17|Acts 2:17]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-10|Joel 2:10]] ↔ [[Joel 3#^joel-3-15|Joel 3:15]]
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]

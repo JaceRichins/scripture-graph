@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 9
 slug: job-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 9]] · My notes: [[Job 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job acknowledges the justice and greatness of God and concludes that man cannot contend against Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 32]] — 3 parallel verses, e.g. [[Job 9#^job-9-24|Job 9:24]] ↔ [[Jeremiah 32#^jer-32-24|Jeremiah 32:24]]
-- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Job 9#^job-9-24|Job 9:24]] ↔ [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]]
+- [[Ecclesiastes 6]] — 1 footnote cross-reference (from [[Job 9#^job-9-3|Job 9:3]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Job 9#^job-9-3|Job 9:3]])
+- [[Ether 4]] — 1 footnote cross-reference (from [[Job 9#^job-9-3|Job 9:3]])
+- [[Psalm 104]] — 1 footnote cross-reference (from [[Job 9#^job-9-8|Job 9:8]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Job 9#^job-9-8|Job 9:8]])
+- [[2 Nephi 8]] — 1 footnote cross-reference (from [[Job 9#^job-9-8|Job 9:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

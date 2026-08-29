@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 19
 slug: num-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 19]] · My notes: [[Numbers 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Directions are given for the sacrifice of a red heifer—The water of separation is used for purification from sin—Ceremonially unclean persons are sprinkled with the water of separation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 4]] — 1 footnote cross-reference (from [[Numbers 19#^num-19-4|Numbers 19:4]])
+- [[Leviticus 5]] — 1 footnote cross-reference (from [[Numbers 19#^num-19-11|Numbers 19:11]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[Numbers 19#^num-19-11|Numbers 19:11]])
+- [[Psalm 51]] — 1 footnote cross-reference (from [[Numbers 19#^num-19-18|Numbers 19:18]])
 - [[Leviticus 15]] — 20 parallel verses, e.g. [[Numbers 19#^num-19-19|Numbers 19:19]] ↔ [[Leviticus 15#^lev-15-5|Leviticus 15:5]]
 - [[Leviticus 16]] — 4 parallel verses, e.g. [[Numbers 19#^num-19-7|Numbers 19:7]] ↔ [[Leviticus 16#^lev-16-28|Leviticus 16:28]]
 - [[Leviticus 7]] — 6 parallel verses, e.g. [[Numbers 19#^num-19-13|Numbers 19:13]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]

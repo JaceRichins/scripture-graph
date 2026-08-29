@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 2
 slug: 1cor-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 2]] · My notes: [[1 Corinthians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel is preached by the power of the Spirit—The Spirit reveals all things to the Saints—The unrepentant natural man cannot receive the things of the Spirit of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 12]] — 2 footnote cross-references (from [[1 Corinthians 2#^1cor-2-3|1 Corinthians 2:3]])
+- [[1 John 3]] — 2 footnote cross-references (from [[1 Corinthians 2#^1cor-2-10|1 Corinthians 2:10]])
+- [[Galatians 4]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-3|1 Corinthians 2:3]])
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-4|1 Corinthians 2:4]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-4|1 Corinthians 2:4]])
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-5|1 Corinthians 2:5]])
 - [[Romans 11]] — 1 parallel verse, e.g. [[1 Corinthians 2#^1cor-2-16|1 Corinthians 2:16]] ↔ [[Romans 11#^rom-11-34|Romans 11:34]]
 <!-- SG:END related-scriptures -->
 

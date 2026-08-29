@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 2
 slug: moro-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 2]] · My notes: [[Moroni 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gave the twelve Nephite disciples power to confer the gift of the Holy Ghost. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[3 Nephi 13]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-1|Moroni 2:1]])
+- [[3 Nephi 15]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-1|Moroni 2:1]])
+- [[Genesis 4]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-2|Moroni 2:2]])
+- [[Ether 4]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-2|Moroni 2:2]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-2|Moroni 2:2]])
+- [[3 Nephi 18]] — 1 footnote cross-reference (from [[Moroni 2#^moro-2-2|Moroni 2:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

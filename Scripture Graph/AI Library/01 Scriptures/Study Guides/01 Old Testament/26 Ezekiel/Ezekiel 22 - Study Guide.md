@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 22
 slug: ezek-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 22]] · My notes: [[Ezekiel 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel catalogs the sins of the people of Judah in Jerusalem—They will be scattered and destroyed for their iniquities.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 36]] — 2 footnote cross-references (from [[Ezekiel 22#^ezek-22-3|Ezekiel 22:3]])
+- [[Ezekiel 21]] — 2 footnote cross-references (from [[Ezekiel 22#^ezek-22-3|Ezekiel 22:3]])
+- [[Leviticus 18]] — 2 footnote cross-references (from [[Ezekiel 22#^ezek-22-10|Ezekiel 22:10]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Ezekiel 22#^ezek-22-26|Ezekiel 22:26]])
+- [[Ezekiel 5]] — 1 footnote cross-reference (from [[Ezekiel 22#^ezek-22-4|Ezekiel 22:4]])
+- [[Zechariah 7]] — 1 footnote cross-reference (from [[Ezekiel 22#^ezek-22-7|Ezekiel 22:7]])
 - [[Ezekiel 17]] — 2 parallel verses, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 22#^ezek-22-16|Ezekiel 22:16]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
 - [[Ezekiel 5]] — 2 parallel verses, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]]

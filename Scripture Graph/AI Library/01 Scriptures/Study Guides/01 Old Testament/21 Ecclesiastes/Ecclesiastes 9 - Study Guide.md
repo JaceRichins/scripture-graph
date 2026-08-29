@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 9
 slug: eccl-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 9]] · My notes: [[Ecclesiastes 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ecclesiastes 8]] — 3 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 8#^eccl-8-11|Ecclesiastes 8:11]]
-- [[Ecclesiastes 1]] — 2 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 1#^eccl-1-13|Ecclesiastes 1:13]]
-- [[Ecclesiastes 4]] — 2 parallel verses, e.g. [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]] ↔ [[Ecclesiastes 4#^eccl-4-1|Ecclesiastes 4:1]]
+- [[Ecclesiastes 2]] — 2 footnote cross-references (from [[Ecclesiastes 9#^eccl-9-2|Ecclesiastes 9:2]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[Ecclesiastes 9#^eccl-9-2|Ecclesiastes 9:2]])
+- [[Alma 40]] — 1 footnote cross-reference (from [[Ecclesiastes 9#^eccl-9-3|Ecclesiastes 9:3]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Ecclesiastes 9#^eccl-9-8|Ecclesiastes 9:8]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Ecclesiastes 9#^eccl-9-10|Ecclesiastes 9:10]])
+- [[D&C 130]] — 1 footnote cross-reference (from [[Ecclesiastes 9#^eccl-9-10|Ecclesiastes 9:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

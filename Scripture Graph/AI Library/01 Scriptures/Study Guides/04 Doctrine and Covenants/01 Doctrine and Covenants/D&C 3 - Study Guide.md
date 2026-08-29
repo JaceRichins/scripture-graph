@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 3
 slug: dc-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 3]] · My notes: [[D&C 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, The Lord’s course is one eternal round; 5–15, Joseph Smith must repent or lose the gift to translate; 16–20, The Book of Mormon comes forth to save the seed of Lehi.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 10]] — 5 footnote cross-references (from [[D&C 3#^dc-3-3|D&C 3:3]])
+- [[Jacob 4]] — 3 footnote cross-references (from [[D&C 3#^dc-3-4|D&C 3:4]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[D&C 3#^dc-3-3|D&C 3:3]])
+- [[Alma 37]] — 2 footnote cross-references (from [[D&C 3#^dc-3-4|D&C 3:4]])
+- [[D&C 5]] — 2 footnote cross-references (from [[D&C 3#^dc-3-6|D&C 3:6]])
+- [[D&C 20]] — 2 footnote cross-references (from [[D&C 3#^dc-3-6|D&C 3:6]])
 - [[Mormon 1]] — 3 parallel verses, e.g. [[D&C 3#^dc-3-17|D&C 3:17]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]
 - [[Alma 7]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-2|D&C 3:2]] ↔ [[Alma 7#^alma-7-20|Alma 7:20]]
 - [[Alma 37]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-2|D&C 3:2]] ↔ [[Alma 37#^alma-37-12|Alma 37:12]]

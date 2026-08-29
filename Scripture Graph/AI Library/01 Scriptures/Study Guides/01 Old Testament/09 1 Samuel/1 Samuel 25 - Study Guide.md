@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 25
 slug: 1sam-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 25]] · My notes: [[1 Samuel 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel dies—Nabal rebuffs David and refuses to give him food—Abigail intercedes, saves Nabal, and gives David a present—David is pacified, Nabal dies, and David marries Abigail.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 3]] — 2 footnote cross-references (from [[1 Samuel 25#^1sam-25-43|1 Samuel 25:43]])
+- [[Psalm 122]] — 1 footnote cross-reference (from [[1 Samuel 25#^1sam-25-6|1 Samuel 25:6]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[1 Samuel 25#^1sam-25-6|1 Samuel 25:6]])
+- [[1 Samuel 2]] — 1 footnote cross-reference (from [[1 Samuel 25#^1sam-25-28|1 Samuel 25:28]])
+- [[2 Chronicles 13]] — 1 footnote cross-reference (from [[1 Samuel 25#^1sam-25-38|1 Samuel 25:38]])
+- [[Abraham 1]] — 1 footnote cross-reference (from [[1 Samuel 25#^1sam-25-38|1 Samuel 25:38]])
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]]
 - [[Ruth 2]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-23|1 Samuel 25:23]] ↔ [[Ruth 2#^ruth-2-10|Ruth 2:10]]
 - [[2 Kings 4]] — 1 parallel verse, e.g. [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]] ↔ [[2 Kings 4#^2kgs-4-30|2 Kings 4:30]]

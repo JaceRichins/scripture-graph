@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 18
 slug: 2ne-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 18]] · My notes: [[2 Nephi 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ will be as a stone of stumbling and a rock of offense—Seek the Lord, not peeping wizards—Turn to the law and to the testimony for guidance—Compare Isaiah 8. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 8]] — 3 footnote cross-references (from [[2 Nephi 18#^2ne-18-1|2 Nephi 18:1]])
+- [[2 Nephi 17]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
+- [[2 Kings 17]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
+- [[2 Kings 16]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
+- [[2 Nephi 20]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
 - [[Isaiah 8]] — 22 parallel verses, e.g. [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]] ↔ [[Isaiah 8#^isa-8-7|Isaiah 8:7]]
 <!-- SG:END related-scriptures -->
 

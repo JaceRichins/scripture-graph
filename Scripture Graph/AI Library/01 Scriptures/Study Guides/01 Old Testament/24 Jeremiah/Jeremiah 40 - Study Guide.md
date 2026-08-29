@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 40
 slug: jer-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 40]] · My notes: [[Jeremiah 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The king of Babylon makes Gedaliah governor over the remnant left in Judah—Jeremiah is freed and dwells among them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 43]] — 3 footnote cross-references (from [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]])
+- [[2 Kings 25]] — 2 footnote cross-references (from [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]])
+- [[Matthew 2]] — 1 footnote cross-reference (from [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Jeremiah 40#^jer-40-3|Jeremiah 40:3]])
+- [[Jeremiah 44]] — 1 footnote cross-reference (from [[Jeremiah 40#^jer-40-3|Jeremiah 40:3]])
 - [[2 Kings 25]] — 10 parallel verses, e.g. [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]] ↔ [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]]
 - [[Jeremiah 41]] — 11 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
 - [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]

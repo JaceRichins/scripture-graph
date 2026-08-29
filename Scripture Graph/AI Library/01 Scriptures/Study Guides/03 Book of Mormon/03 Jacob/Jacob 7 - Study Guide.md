@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 7]] · My notes: [[Jacob 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sherem denies Christ, contends with Jacob, demands a sign, and is smitten of God—All of the prophets have spoken of Christ and His Atonement—The Nephites lived out their days as wanderers, born in tribulation, and hated by the Lamanites. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 30]] — 7 footnote cross-references (from [[Jacob 7#^jacob-7-2|Jacob 7:2]])
+- [[Enos 1]] — 3 footnote cross-references (from [[Jacob 7#^jacob-7-24|Jacob 7:24]])
+- [[Jarom 1]] — 3 footnote cross-references (from [[Jacob 7#^jacob-7-24|Jacob 7:24]])
+- [[2 Nephi 2]] — 2 footnote cross-references (from [[Jacob 7#^jacob-7-5|Jacob 7:5]])
+- [[Jacob 4]] — 2 footnote cross-references (from [[Jacob 7#^jacob-7-7|Jacob 7:7]])
+- [[Alma 26]] — 2 footnote cross-references (from [[Jacob 7#^jacob-7-24|Jacob 7:24]])
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
 - [[Helaman 9]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-17|Jacob 7:17]] ↔ [[Helaman 9#^hel-9-10|Helaman 9:10]]
 - [[Alma 17]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-24|Jacob 7:24]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]

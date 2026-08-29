@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[James 1]] · My notes: [[James 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> If any of you lack wisdom, let him ask of God—Resist temptation—Be doers of the word—James explains how to recognize pure religion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 67]] — 2 footnote cross-references (from [[James 1#^james-1-17|James 1:17]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[James 1#^james-1-5|James 1:5]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[James 1#^james-1-5|James 1:5]])
+- [[1 Kings 18]] — 1 footnote cross-reference (from [[James 1#^james-1-8|James 1:8]])
+- [[Psalm 12]] — 1 footnote cross-reference (from [[James 1#^james-1-8|James 1:8]])
+- [[Hosea 10]] — 1 footnote cross-reference (from [[James 1#^james-1-8|James 1:8]])
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[James 1#^james-1-5|James 1:5]] ↔ [[Joseph Smith—History 1#^jsh-1-11|Joseph Smith—History 1:11]]
 <!-- SG:END related-scriptures -->
 

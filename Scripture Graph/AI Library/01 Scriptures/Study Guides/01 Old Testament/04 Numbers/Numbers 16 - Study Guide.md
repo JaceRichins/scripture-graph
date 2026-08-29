@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 16
 slug: num-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 16]] · My notes: [[Numbers 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Korah, Dathan, Abiram, and 250 leaders rebel and seek priestly offices—The earth swallows the three rebels and their families—Fire from the Lord consumes the 250 rebels—Israel murmurs against Moses and Aaron for slaying the people—The Lord sends a plague, from which 14,700 die.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 11]] — 2 footnote cross-references (from [[Numbers 16#^num-16-1|Numbers 16:1]])
+- [[Genesis 4]] — 2 footnote cross-references (from [[Numbers 16#^num-16-15|Numbers 16:15]])
+- [[Genesis 19]] — 2 footnote cross-references (from [[Numbers 16#^num-16-21|Numbers 16:21]])
+- [[Psalm 106]] — 2 footnote cross-references (from [[Numbers 16#^num-16-32|Numbers 16:32]])
+- [[3 John 1]] — 1 footnote cross-reference (from [[Numbers 16#^num-16-3|Numbers 16:3]])
+- [[Ezekiel 40]] — 1 footnote cross-reference (from [[Numbers 16#^num-16-5|Numbers 16:5]])
 - [[Deuteronomy 11]] — 5 parallel verses, e.g. [[Numbers 16#^num-16-32|Numbers 16:32]] ↔ [[Deuteronomy 11#^deut-11-6|Deuteronomy 11:6]]
 - [[Numbers 20]] — 4 parallel verses, e.g. [[Numbers 16#^num-16-3|Numbers 16:3]] ↔ [[Numbers 20#^num-20-2|Numbers 20:2]]
 - [[Exodus 16]] — 5 parallel verses, e.g. [[Numbers 16#^num-16-41|Numbers 16:41]] ↔ [[Exodus 16#^ex-16-2|Exodus 16:2]]

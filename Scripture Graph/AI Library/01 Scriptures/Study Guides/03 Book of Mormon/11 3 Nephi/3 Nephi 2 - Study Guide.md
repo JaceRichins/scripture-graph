@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 2
 slug: 3ne-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 2]] · My notes: [[3 Nephi 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wickedness and abominations increase among the people—The Nephites and Lamanites unite to defend themselves against the Gadianton robbers—Converted Lamanites become white and are called Nephites. About A.D. 5–16.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 1]] — 2 footnote cross-references (from [[3 Nephi 2#^3ne-2-9|3 Nephi 2:9]])
+- [[3 Nephi 3]] — 2 footnote cross-references (from [[3 Nephi 2#^3ne-2-12|3 Nephi 2:12]])
+- [[Helaman 14]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-1|3 Nephi 2:1]])
+- [[Hebrews 3]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-2|3 Nephi 2:2]])
+- [[1 Corinthians 1]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-2|3 Nephi 2:2]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-2|3 Nephi 2:2]])
 - [[Alma 51]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-12|3 Nephi 2:12]] ↔ [[Alma 51#^alma-51-6|Alma 51:6]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-11|3 Nephi 2:11]] ↔ [[Helaman 11#^hel-11-21|Helaman 11:21]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-18|3 Nephi 2:18]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]

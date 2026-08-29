@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 4
 slug: james-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[James 4]] · My notes: [[James 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wars are born of lusts—The friends of the world are the enemies of God—Sin is failure to walk in the light we have received.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 46]] — 2 footnote cross-references (from [[James 4#^james-4-3|James 4:3]])
+- [[D&C 88]] — 2 footnote cross-references (from [[James 4#^james-4-3|James 4:3]])
+- [[Helaman 10]] — 1 footnote cross-reference (from [[James 4#^james-4-3|James 4:3]])
+- [[Romans 8]] — 1 footnote cross-reference (from [[James 4#^james-4-3|James 4:3]])
+- [[Psalm 69]] — 1 footnote cross-reference (from [[James 4#^james-4-8|James 4:8]])
+- [[Isaiah 22]] — 1 footnote cross-reference (from [[James 4#^james-4-9|James 4:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

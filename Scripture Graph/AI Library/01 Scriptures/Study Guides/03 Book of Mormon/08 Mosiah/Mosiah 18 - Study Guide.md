@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 18
 slug: mosiah-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 18]] · My notes: [[Mosiah 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma preaches in private—He sets forth the covenant of baptism and baptizes at the waters of Mormon—He organizes the Church of Christ and ordains priests—They support themselves and teach the people—Alma and his people flee from King Noah into the wilderness. About 147–145 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 23]] — 8 footnote cross-references (from [[Mosiah 18#^mosiah-18-1|Mosiah 18:1]])
+- [[Mosiah 21]] — 4 footnote cross-references (from [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]])
+- [[Alma 5]] — 3 footnote cross-references (from [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]])
+- [[Alma 4]] — 2 footnote cross-references (from [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]])
+- [[Nehemiah 10]] — 2 footnote cross-references (from [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]])
+- [[Mosiah 4]] — 2 footnote cross-references (from [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]])
 - [[3 Nephi 20]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]]
 - [[Mosiah 27]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]] ↔ [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]]
 - [[Alma 62]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 62#^alma-62-28|Alma 62:28]]

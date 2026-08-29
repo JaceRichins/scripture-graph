@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 28]] · My notes: [[Acts 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul is unharmed by a viper’s bite—He heals the sick in Melita—He preaches in Rome, first to the Jews and then to the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Romans 1]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-2|Acts 28:2]])
+- [[Mark 16]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
+- [[D&C 24]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-5|Acts 28:5]])
 - [[Matthew 13]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
 - [[Isaiah 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Isaiah 6#^isa-6-10|Isaiah 6:10]]
 - [[2 Nephi 16]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]]

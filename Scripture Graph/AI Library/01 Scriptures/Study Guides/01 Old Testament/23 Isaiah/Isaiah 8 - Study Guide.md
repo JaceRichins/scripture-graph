@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 8]] · My notes: [[Isaiah 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ will be as a stone of stumbling and a rock of offense—Seek the Lord, not muttering wizards—Turn to the law and to the testimony for guidance—Compare 2 Nephi 18.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 7]] — 4 footnote cross-references (from [[Isaiah 8#^isa-8-3|Isaiah 8:3]])
+- [[2 Nephi 18]] — 2 footnote cross-references (from [[Isaiah 8#^isa-8-1|Isaiah 8:1]])
+- [[Alma 32]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-3|Isaiah 8:3]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-4|Isaiah 8:4]])
+- [[Nehemiah 3]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-6|Isaiah 8:6]])
+- [[John 9]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-6|Isaiah 8:6]])
 - [[2 Nephi 18]] — 22 parallel verses, e.g. [[Isaiah 8#^isa-8-7|Isaiah 8:7]] ↔ [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]]
 <!-- SG:END related-scriptures -->
 

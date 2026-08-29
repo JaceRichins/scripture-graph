@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 28
 slug: 1sam-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 28]] · My notes: [[1 Samuel 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul inquires of the witch of Endor for revelation—She foretells his death, the death of his sons, and the defeat of Israel by the Philistines.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,9 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Judges 15]] — 1 parallel verse, e.g. [[1 Samuel 28#^1sam-28-19|1 Samuel 28:19]] ↔ [[Judges 15#^judg-15-12|Judges 15:12]]
-- [[2 Samuel 14]] — 2 parallel verses, e.g. [[1 Samuel 28#^1sam-28-10|1 Samuel 28:10]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]
-- [[1 Samuel 20]] — 1 parallel verse, e.g. [[1 Samuel 28#^1sam-28-14|1 Samuel 28:14]] ↔ [[1 Samuel 20#^1sam-20-41|1 Samuel 20:41]]
+- [[Leviticus 20]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-3|1 Samuel 28:3]])
+- [[Deuteronomy 18]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-3|1 Samuel 28:3]])
+- [[1 Samuel 14]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-6|1 Samuel 28:6]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-6|1 Samuel 28:6]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-6|1 Samuel 28:6]])
+- [[1 Samuel 31]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-14|1 Samuel 28:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

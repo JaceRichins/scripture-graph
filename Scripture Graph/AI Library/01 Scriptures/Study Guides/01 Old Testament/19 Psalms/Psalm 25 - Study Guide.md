@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 25
 slug: ps-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 25]] · My notes: [[Psalm 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads for truth and asks for pardon—Mercy and truth are for those who keep the commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 143]] — 2 footnote cross-references (from [[Psalm 25#^ps-25-1|Psalm 25:1]])
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-1|Psalm 25:1]])
+- [[Exodus 33]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
+- [[John 14]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
 - [[Psalm 86]] — 2 parallel verses, e.g. [[Psalm 25#^ps-25-1|Psalm 25:1]] ↔ [[Psalm 86#^ps-86-4|Psalm 86:4]]
 <!-- SG:END related-scriptures -->
 

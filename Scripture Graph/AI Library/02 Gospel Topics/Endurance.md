@@ -33,6 +33,9 @@ _Not yet developed._
 - [[Mosiah 5]]
 - [[D&C 121]]
 - [[James 5]]
+- [[1 Nephi 22]]
+- [[3 Nephi 27]]
+- [[1 Corinthians 9]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

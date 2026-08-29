@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 8
 slug: rom-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 8]] · My notes: [[Romans 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The law of Christ brings life and peace—Those adopted as children of God become joint heirs with Christ—God’s elect are foreordained to eternal life—Christ makes intercession for man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 44]] — 1 parallel verse, e.g. [[Romans 8#^rom-8-36|Romans 8:36]] ↔ [[Psalm 44#^ps-44-22|Psalm 44:22]]
-- [[2 Nephi 9]] — 1 parallel verse, e.g. [[Romans 8#^rom-8-6|Romans 8:6]] ↔ [[2 Nephi 9#^2ne-9-39|2 Nephi 9:39]]
+- [[2 Corinthians 3]] — 2 footnote cross-references (from [[Romans 8#^rom-8-2|Romans 8:2]])
+- [[Hebrews 7]] — 2 footnote cross-references (from [[Romans 8#^rom-8-3|Romans 8:3]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Romans 8#^rom-8-11|Romans 8:11]])
+- [[Colossians 3]] — 2 footnote cross-references (from [[Romans 8#^rom-8-13|Romans 8:13]])
+- [[2 Corinthians 4]] — 2 footnote cross-references (from [[Romans 8#^rom-8-24|Romans 8:24]])
+- [[Alma 13]] — 1 footnote cross-reference (from [[Romans 8#^rom-8-1|Romans 8:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

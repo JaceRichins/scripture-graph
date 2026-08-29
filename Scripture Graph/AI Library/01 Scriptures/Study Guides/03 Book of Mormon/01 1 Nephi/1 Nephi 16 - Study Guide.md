@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 16
 slug: 1ne-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 16]] · My notes: [[1 Nephi 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The wicked take the truth to be hard—Lehi’s sons marry the daughters of Ishmael—The Liahona guides their course in the wilderness—Messages from the Lord are written on the Liahona from time to time—Ishmael dies; his family murmurs because of afflictions. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 18]] — 5 footnote cross-references (from [[1 Nephi 16#^1ne-16-5|1 Nephi 16:5]])
+- [[1 Nephi 7]] — 4 footnote cross-references (from [[1 Nephi 16#^1ne-16-7|1 Nephi 16:7]])
+- [[Alma 37]] — 4 footnote cross-references (from [[1 Nephi 16#^1ne-16-10|1 Nephi 16:10]])
+- [[2 Nephi 1]] — 3 footnote cross-references (from [[1 Nephi 16#^1ne-16-2|1 Nephi 16:2]])
+- [[1 Nephi 2]] — 3 footnote cross-references (from [[1 Nephi 16#^1ne-16-6|1 Nephi 16:6]])
+- [[1 Nephi 15]] — 2 footnote cross-references (from [[1 Nephi 16#^1ne-16-5|1 Nephi 16:5]])
 - [[1 Nephi 18]] — 8 parallel verses, e.g. [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]] ↔ [[1 Nephi 18#^1ne-18-5|1 Nephi 18:5]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
 - [[1 Nephi 17]] — 3 parallel verses, e.g. [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]] ↔ [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]]

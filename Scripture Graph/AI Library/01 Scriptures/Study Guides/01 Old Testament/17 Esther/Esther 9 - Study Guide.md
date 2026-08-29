@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 9
 slug: esth-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 9]] · My notes: [[Esther 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews slay their enemies, including Haman’s ten sons—The Feast of Purim is instituted to commemorate their deliverance and victory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 8]] — 4 footnote cross-references (from [[Esther 9#^esth-9-2|Esther 9:2]])
+- [[Esther 3]] — 2 footnote cross-references (from [[Esther 9#^esth-9-1|Esther 9:1]])
+- [[Esther 7]] — 1 footnote cross-reference (from [[Esther 9#^esth-9-12|Esther 9:12]])
+- [[Nehemiah 8]] — 1 footnote cross-reference (from [[Esther 9#^esth-9-19|Esther 9:19]])
+- [[Esther 2]] — 1 footnote cross-reference (from [[Esther 9#^esth-9-29|Esther 9:29]])
+- [[Esther 1]] — 1 footnote cross-reference (from [[Esther 9#^esth-9-30|Esther 9:30]])
 - [[Esther 3]] — 4 parallel verses, e.g. [[Esther 9#^esth-9-13|Esther 9:13]] ↔ [[Esther 3#^esth-3-9|Esther 3:9]]
 - [[Esther 8]] — 4 parallel verses, e.g. [[Esther 9#^esth-9-27|Esther 9:27]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
 - [[Esther 5]] — 1 parallel verse, e.g. [[Esther 9#^esth-9-12|Esther 9:12]] ↔ [[Esther 5#^esth-5-6|Esther 5:6]]

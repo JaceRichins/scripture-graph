@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 13
 slug: 2sam-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 13]] · My notes: [[2 Samuel 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amnon desires Tamar, his sister, and forces her—He is slain by Absalom’s command—Absalom flees to Geshur.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 3]] — 2 footnote cross-references (from [[2 Samuel 13#^2sam-13-1|2 Samuel 13:1]])
+- [[1 Chronicles 3]] — 1 footnote cross-reference (from [[2 Samuel 13#^2sam-13-1|2 Samuel 13:1]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[2 Samuel 13#^2sam-13-4|2 Samuel 13:4]])
+- [[Leviticus 18]] — 1 footnote cross-reference (from [[2 Samuel 13#^2sam-13-12|2 Samuel 13:12]])
 - [[2 Samuel 15]] — 2 parallel verses, e.g. [[2 Samuel 13#^2sam-13-6|2 Samuel 13:6]] ↔ [[2 Samuel 15#^2sam-15-7|2 Samuel 15:7]]
 - [[2 Kings 10]] — 1 parallel verse, e.g. [[2 Samuel 13#^2sam-13-36|2 Samuel 13:36]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
 - [[Joshua 5]] — 1 parallel verse, e.g. [[2 Samuel 13#^2sam-13-34|2 Samuel 13:34]] ↔ [[Joshua 5#^josh-5-13|Joshua 5:13]]

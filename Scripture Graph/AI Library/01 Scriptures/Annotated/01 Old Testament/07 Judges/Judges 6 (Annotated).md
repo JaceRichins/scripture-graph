@@ -38,7 +38,7 @@ cssclasses:
 > [[Exodus 32#^ex-32-27|≈ Exodus 32:27]]
 
 ![[Judges 6#^judg-6-9]]
-> [[Exodus 18#^ex-18-10|≈ Exodus 18:10]] · [[1 Samuel 10#^1sam-10-18|≈ 1 Samuel 10:18]]
+> [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Exodus 18#^ex-18-10|≈ Exodus 18:10]] · [[1 Samuel 10#^1sam-10-18|≈ 1 Samuel 10:18]]
 
 ![[Judges 6#^judg-6-10]]
 > [[2 Kings 17#^2kgs-17-35|2 Kgs. 17:35]] · [[Judges 2#^judg-2-2|≈ Judges 2:2]] · [[Joshua 24#^josh-24-15|≈ Joshua 24:15]]
@@ -46,7 +46,7 @@ cssclasses:
 ![[Judges 6#^judg-6-11]]
 
 ![[Judges 6#^judg-6-12]]
-> [[Judges 13#^judg-13-3|≈ Judges 13:3]]
+> [[Exodus 3#^ex-3-2|≈ Exodus 3:2]] · [[Judges 13#^judg-13-3|≈ Judges 13:3]]
 
 ![[Judges 6#^judg-6-13]]
 > [[Mormon 9#^morm-9-15|Morm. 9:20 (15–20)]]

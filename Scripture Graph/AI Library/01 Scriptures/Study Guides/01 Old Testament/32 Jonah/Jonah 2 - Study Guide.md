@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 2
 slug: jonah-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jonah 2]] · My notes: [[Jonah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jonah prays to the Lord, and the fish vomits him out on dry ground.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 36]] — 1 footnote cross-reference (from [[Jonah 2#^jonah-2-2|Jonah 2:2]])
+- [[Psalm 5]] — 1 footnote cross-reference (from [[Jonah 2#^jonah-2-4|Jonah 2:4]])
+- [[Psalm 107]] — 1 footnote cross-reference (from [[Jonah 2#^jonah-2-7|Jonah 2:7]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Jonah 2#^jonah-2-7|Jonah 2:7]])
+- [[Psalm 18]] — 1 footnote cross-reference (from [[Jonah 2#^jonah-2-7|Jonah 2:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

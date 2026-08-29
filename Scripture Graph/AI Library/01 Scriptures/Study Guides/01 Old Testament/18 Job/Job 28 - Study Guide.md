@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 28
 slug: job-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 28]] · My notes: [[Job 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wealth comes out of the earth—Wisdom cannot be purchased—The fear of the Lord is wisdom, and to depart from evil is understanding.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Job 28#^job-28-13|Job 28:13]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
-- [[Isaiah 66]] — 2 parallel verses, e.g. [[Job 28#^job-28-12|Job 28:12]] ↔ [[Isaiah 66#^isa-66-1|Isaiah 66:1]]
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Job 28#^job-28-16|Job 28:16]])
+- [[1 Kings 9]] — 1 footnote cross-reference (from [[Job 28#^job-28-16|Job 28:16]])
+- [[Proverbs 8]] — 1 footnote cross-reference (from [[Job 28#^job-28-18|Job 28:18]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[Job 28#^job-28-18|Job 28:18]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

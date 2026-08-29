@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 113|Plain text]] · [[Psalm 113 - Study Guide|Study guide]] · [[Psalm 113 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Blessed be the name of the Lord—Who is like unto the Lord our God?
+
 ![[Psalm 113#^ps-113-1]]
 
 ![[Psalm 113#^ps-113-2]]
@@ -28,7 +31,7 @@ cssclasses:
 ![[Psalm 113#^ps-113-6]]
 
 ![[Psalm 113#^ps-113-7]]
-> [[1 Samuel 2#^1sam-2-8|≈ 1 Samuel 2:8]]
+> [[1 Samuel 2#^1sam-2-1|1 Sam. 2:8 (1–10)]] · [[1 Samuel 2#^1sam-2-8|≈ 1 Samuel 2:8]]
 
 ![[Psalm 113#^ps-113-8]]
 

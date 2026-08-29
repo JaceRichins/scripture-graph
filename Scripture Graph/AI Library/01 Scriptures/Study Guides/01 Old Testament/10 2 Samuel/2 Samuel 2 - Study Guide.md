@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 2
 slug: 2sam-2
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ The political division becomes violent at Gibeon. An organized contest between t
 - [[1 Chronicles 11]] — 2 footnote cross-references (from [[2 Samuel 2#^2sam-2-18|2 Samuel 2:18]])
 - [[1 Samuel 25]] — 1 footnote cross-reference (from [[2 Samuel 2#^2sam-2-2|2 Samuel 2:2]])
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
+- [[2 Samuel 5]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[2 Samuel 5#^2sam-5-19|2 Samuel 5:19]]
 - [[Judges 20]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-1|2 Samuel 2:1]] ↔ [[Judges 20#^judg-20-23|Judges 20:23]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-19|2 Samuel 2:19]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
 - [[Deuteronomy 2]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-24|2 Samuel 2:24]] ↔ [[Deuteronomy 2#^deut-2-8|Deuteronomy 2:8]]
@@ -64,13 +65,12 @@ The political division becomes violent at Gibeon. An organized contest between t
 - [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
 - [[2 Chronicles 33]] — 2 parallel verses, e.g. [[2 Samuel 2#^2sam-2-10|2 Samuel 2:10]] ↔ [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]]
 - [[Exodus 17]] — 1 parallel verse, e.g. [[2 Samuel 2#^2sam-2-13|2 Samuel 2:13]] ↔ [[Exodus 17#^ex-17-12|Exodus 17:12]]
-- [[Proverbs 4]] — 1 parallel verse, e.g. [[2 Samuel 2#^2sam-2-19|2 Samuel 2:19]] ↔ [[Proverbs 4#^prov-4-27|Proverbs 4:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

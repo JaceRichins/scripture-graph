@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 8
 slug: 2ne-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 8]] · My notes: [[2 Nephi 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob continues reading from Isaiah: In the last days, the Lord will comfort Zion and gather Israel—The redeemed will come to Zion amid great joy—Compare Isaiah 51 and 52:1–2. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 35]] — 3 footnote cross-references (from [[2 Nephi 8#^2ne-8-3|2 Nephi 8:3]])
+- [[Isaiah 52]] — 3 footnote cross-references (from [[2 Nephi 8#^2ne-8-9|2 Nephi 8:9]])
+- [[D&C 113]] — 3 footnote cross-references (from [[2 Nephi 8#^2ne-8-9|2 Nephi 8:9]])
+- [[Joel 3]] — 2 footnote cross-references (from [[2 Nephi 8#^2ne-8-23|2 Nephi 8:23]])
+- [[Zechariah 14]] — 2 footnote cross-references (from [[2 Nephi 8#^2ne-8-23|2 Nephi 8:23]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[2 Nephi 8#^2ne-8-1|2 Nephi 8:1]])
 - [[Isaiah 51]] — 23 parallel verses, e.g. [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]] ↔ [[Isaiah 51#^isa-51-6|Isaiah 51:6]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]]
 - [[Isaiah 52]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[Isaiah 52#^isa-52-1|Isaiah 52:1]]

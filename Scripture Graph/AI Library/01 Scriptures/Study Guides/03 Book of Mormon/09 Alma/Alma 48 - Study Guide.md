@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 48]] · My notes: [[Alma 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amalickiah incites the Lamanites against the Nephites—Moroni prepares his people to defend the cause of the Christians—He rejoices in liberty and freedom and is a mighty man of God. About 72 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 46]] — 4 footnote cross-references (from [[Alma 48#^alma-48-10|Alma 48:10]])
+- [[Alma 43]] — 3 footnote cross-references (from [[Alma 48#^alma-48-5|Alma 48:5]])
+- [[Alma 49]] — 3 footnote cross-references (from [[Alma 48#^alma-48-5|Alma 48:5]])
+- [[Alma 45]] — 3 footnote cross-references (from [[Alma 48#^alma-48-15|Alma 48:15]])
+- [[Alma 52]] — 2 footnote cross-references (from [[Alma 48#^alma-48-1|Alma 48:1]])
+- [[Alma 54]] — 2 footnote cross-references (from [[Alma 48#^alma-48-1|Alma 48:1]])
 - [[Alma 46]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-20|Alma 48:20]] ↔ [[Alma 46#^alma-46-38|Alma 46:38]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]

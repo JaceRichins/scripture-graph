@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 7
 slug: matt-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 7]] · My notes: [[Matthew 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus concludes the Sermon on the Mount—He commands, Judge not; ask of God; beware of false prophets—He promises salvation to those who do the will of the Father.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 14]] — 3 footnote cross-references (from [[Matthew 7#^matt-7-1|Matthew 7:1]])
+- [[D&C 6]] — 3 footnote cross-references (from [[Matthew 7#^matt-7-6|Matthew 7:6]])
+- [[D&C 11]] — 2 footnote cross-references (from [[Matthew 7#^matt-7-1|Matthew 7:1]])
+- [[D&C 10]] — 2 footnote cross-references (from [[Matthew 7#^matt-7-2|Matthew 7:2]])
+- [[D&C 41]] — 2 footnote cross-references (from [[Matthew 7#^matt-7-6|Matthew 7:6]])
+- [[2 Nephi 31]] — 2 footnote cross-references (from [[Matthew 7#^matt-7-13|Matthew 7:13]])
 - [[3 Nephi 14]] — 31 parallel verses, e.g. [[Matthew 7#^matt-7-22|Matthew 7:22]] ↔ [[3 Nephi 14#^3ne-14-22|3 Nephi 14:22]]
 - [[Luke 6]] — 8 parallel verses, e.g. [[Matthew 7#^matt-7-3|Matthew 7:3]] ↔ [[Luke 6#^luke-6-41|Luke 6:41]]
 - [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 7#^matt-7-7|Matthew 7:7]] ↔ [[Luke 11#^luke-11-9|Luke 11:9]]

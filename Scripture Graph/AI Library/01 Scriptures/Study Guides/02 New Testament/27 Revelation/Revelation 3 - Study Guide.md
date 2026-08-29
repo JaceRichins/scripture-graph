@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 3
 slug: rev-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 3]] · My notes: [[Revelation 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> He who overcomes will retain his name in the book of life, reach godhood, and be with Jesus as He is with the Father.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 1]] — 3 footnote cross-references (from [[Revelation 3#^rev-3-1|Revelation 3:1]])
+- [[D&C 6]] — 2 footnote cross-references (from [[Revelation 3#^rev-3-18|Revelation 3:18]])
+- [[Ephesians 2]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-1|Revelation 3:1]])
+- [[D&C 39]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
+- [[Luke 21]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
+- [[Revelation 16]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
 - [[Revelation 2]] — 22 parallel verses, e.g. [[Revelation 3#^rev-3-6|Revelation 3:6]] ↔ [[Revelation 2#^rev-2-7|Revelation 2:7]]
 <!-- SG:END related-scriptures -->
 

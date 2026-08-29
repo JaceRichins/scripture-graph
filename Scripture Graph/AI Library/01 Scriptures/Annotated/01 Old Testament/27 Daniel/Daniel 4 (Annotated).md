@@ -13,6 +13,9 @@ cssclasses:
 
 [[Daniel 4|Plain text]] · [[Daniel 4 - Study Guide|Study guide]] · [[Daniel 4 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Daniel interprets Nebuchadnezzar’s dream of the great tree, describing the king’s fall and madness—The king learns that the Most High rules and sets the basest of men over earthly kingdoms.
+
 ![[Daniel 4#^dan-4-1]]
 > [[Daniel 6#^dan-6-25|≈ Daniel 6:25]]
 
@@ -25,12 +28,13 @@ cssclasses:
 ![[Daniel 4#^dan-4-5]]
 
 ![[Daniel 4#^dan-4-6]]
+> [[Daniel 2#^dan-2-2|Dan. 2:2]]
 
 ![[Daniel 4#^dan-4-7]]
 > [[Daniel 5#^dan-5-7|≈ Daniel 5:7]] · [[Daniel 5#^dan-5-15|≈ Daniel 5:15]]
 
 ![[Daniel 4#^dan-4-8]]
-> [[Daniel 5#^dan-5-11|≈ Daniel 5:11]]
+> [[Daniel 2#^dan-2-11|Dan. 2:11]] · [[Daniel 5#^dan-5-11|≈ Daniel 5:11]]
 
 ![[Daniel 4#^dan-4-9]]
 > [[Daniel 2#^dan-2-26|≈ Daniel 2:26]]
@@ -62,6 +66,7 @@ cssclasses:
 ![[Daniel 4#^dan-4-21]]
 
 ![[Daniel 4#^dan-4-22]]
+> [[Jeremiah 27#^jer-27-6|Jer. 27:7 (6–8)]]
 
 ![[Daniel 4#^dan-4-23]]
 
@@ -73,6 +78,7 @@ cssclasses:
 ![[Daniel 4#^dan-4-26]]
 
 ![[Daniel 4#^dan-4-27]]
+> [[Mosiah 4#^mosiah-4-16|Mosiah 4:21 (16–21)]] · [[D&C 42#^dc-42-30|D&amp;C 42:31 (30–39)]]
 
 ![[Daniel 4#^dan-4-28]]
 
@@ -81,6 +87,7 @@ cssclasses:
 ![[Daniel 4#^dan-4-30]]
 
 ![[Daniel 4#^dan-4-31]]
+> [[Daniel 5#^dan-5-20|Dan. 5:20]]
 
 ![[Daniel 4#^dan-4-32]]
 
@@ -90,6 +97,7 @@ cssclasses:
 ![[Daniel 4#^dan-4-34]]
 
 ![[Daniel 4#^dan-4-35]]
+> [[Psalm 39#^ps-39-5|Ps. 39:5]] · [[Isaiah 40#^isa-40-15|Isa. 40:15]] · [[Helaman 12#^hel-12-7|Hel. 12:7]] · [[Moses 1#^moses-1-10|Moses 1:10]] · [[D&C 38#^dc-38-33|D&amp;C 38:33]] · [[D&C 121#^dc-121-33|121:33]]
 
 ![[Daniel 4#^dan-4-36]]
 

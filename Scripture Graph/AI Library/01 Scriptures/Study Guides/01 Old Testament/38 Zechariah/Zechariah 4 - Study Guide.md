@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 4
 slug: zech-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 4]] · My notes: [[Zechariah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zerubbabel will lay the foundation of and finish the house of the Lord, the temple of Zerubbabel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 37]] — 1 footnote cross-reference (from [[Zechariah 4#^zech-4-2|Zechariah 4:2]])
+- [[Revelation 1]] — 1 footnote cross-reference (from [[Zechariah 4#^zech-4-2|Zechariah 4:2]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[Zechariah 4#^zech-4-14|Zechariah 4:14]])
+- [[Revelation 11]] — 1 footnote cross-reference (from [[Zechariah 4#^zech-4-14|Zechariah 4:14]])
+- [[D&C 77]] — 1 footnote cross-reference (from [[Zechariah 4#^zech-4-14|Zechariah 4:14]])
 - [[Zechariah 2]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 2#^zech-2-11|Zechariah 2:11]]
 - [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
 - [[Zechariah 5]] — 3 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Zechariah 5#^zech-5-2|Zechariah 5:2]]

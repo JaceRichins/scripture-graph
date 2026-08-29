@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 137
 slug: ps-137
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 137]] · My notes: [[Psalm 137 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> While in captivity, the Jews wept by the rivers of Babylon—Because of sorrow, they could not bear to sing the songs of Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Nehemiah 2]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-4|Psalm 137:4]])
+- [[Ezekiel 25]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-7|Psalm 137:7]])
+- [[Ezekiel 35]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-7|Psalm 137:7]])
+- [[Isaiah 47]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-8|Psalm 137:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

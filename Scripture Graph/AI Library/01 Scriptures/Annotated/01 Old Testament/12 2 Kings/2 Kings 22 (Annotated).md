@@ -20,7 +20,7 @@ cssclasses:
 > [[2 Chronicles 34#^2chr-34-1|2 Chr. 34:1 (1–33)]] · [[2 Kings 8#^2kgs-8-26|≈ 2 Kings 8:26]] · [[2 Kings 8#^2kgs-8-17|≈ 2 Kings 8:17]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[2 Kings 24#^2kgs-24-18|≈ 2 Kings 24:18]] · [[2 Kings 24#^2kgs-24-8|≈ 2 Kings 24:8]]
 
 ![[2 Kings 22#^2kgs-22-2]]
-> [[Deuteronomy 5#^deut-5-32|≈ Deuteronomy 5:32]] · [[Alma 24#^alma-24-23|≈ Alma 24:23]] · [[Ether 10#^ether-10-16|≈ Ether 10:16]] · [[Ether 10#^ether-10-5|≈ Ether 10:5]] · [[1 Samuel 6#^1sam-6-12|≈ 1 Samuel 6:12]] · [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]]
+> [[Deuteronomy 5#^deut-5-32|≈ Deuteronomy 5:32]] · [[Alma 24#^alma-24-23|≈ Alma 24:23]] · [[Ether 10#^ether-10-16|≈ Ether 10:16]] · [[Ether 10#^ether-10-5|≈ Ether 10:5]] · [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]]
 
 ![[2 Kings 22#^2kgs-22-3]]
 > [[2 Kings 23#^2kgs-23-23|≈ 2 Kings 23:23]] · [[2 Chronicles 34#^2chr-34-8|≈ 2 Chronicles 34:8]]

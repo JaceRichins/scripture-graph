@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 20
 slug: ezek-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 20]] · My notes: [[Ezekiel 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> From the time of their deliverance from Egypt to the day of Ezekiel, the people of Israel have rebelled and failed to keep the commandments—In the last days, the Lord will gather Israel and restore His gospel covenant.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 33]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-1|Ezekiel 20:1]])
+- [[1 Samuel 8]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]])
+- [[Ezekiel 14]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]])
+- [[Mosiah 21]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]])
+- [[Ezekiel 16]] — 1 footnote cross-reference (from [[Ezekiel 20#^ezek-20-4|Ezekiel 20:4]])
 - [[Ezekiel 37]] — 14 parallel verses, e.g. [[Ezekiel 20#^ezek-20-44|Ezekiel 20:44]] ↔ [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]]
 - [[Ezekiel 14]] — 14 parallel verses, e.g. [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
 - [[Ezekiel 33]] — 8 parallel verses, e.g. [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]] ↔ [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]]

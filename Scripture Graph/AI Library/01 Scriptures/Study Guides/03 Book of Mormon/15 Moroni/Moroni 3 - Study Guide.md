@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 3
 slug: moro-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 3]] · My notes: [[Moroni 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elders ordain priests and teachers by the laying on of hands. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 6]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-1|Moroni 3:1]])
+- [[Mosiah 6]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-1|Moroni 3:1]])
+- [[D&C 18]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-4|Moroni 3:4]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-4|Moroni 3:4]])
+- [[1 Nephi 13]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-4|Moroni 3:4]])
+- [[Moroni 6]] — 1 footnote cross-reference (from [[Moroni 3#^moro-3-4|Moroni 3:4]])
 - [[D&C 20]] — 2 parallel verses, e.g. [[Moroni 3#^moro-3-4|Moroni 3:4]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
 - [[Moroni 8]] — 2 parallel verses, e.g. [[Moroni 3#^moro-3-3|Moroni 3:3]] ↔ [[Moroni 8#^moro-8-3|Moroni 8:3]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Moroni 3#^moro-3-4|Moroni 3:4]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 5]] · My notes: [[Isaiah 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord’s vineyard (Israel) will become desolate, and His people will be scattered—Woes will come upon them in their apostate and scattered state—The Lord will lift an ensign and gather Israel—Compare 2 Nephi 15.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 15]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-1|Isaiah 5:1]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-1|Isaiah 5:1]])
+- [[Matthew 21]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
+- [[D&C 24]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
+- [[Proverbs 24]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
+- [[Lamentations 2]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
 - [[2 Nephi 15]] — 33 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
 - [[Isaiah 9]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]

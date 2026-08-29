@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 2
 slug: nahum-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nahum 2]] · My notes: [[Nahum 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nineveh will be destroyed, which is a symbol of what will be in the latter days.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Zechariah 11]] — 1 footnote cross-reference (from [[Nahum 2#^nahum-2-3|Nahum 2:3]])
+- [[Jeremiah 8]] — 1 footnote cross-reference (from [[Nahum 2#^nahum-2-10|Nahum 2:10]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Nahum 2#^nahum-2-10|Nahum 2:10]])
 - [[Nahum 3]] — 1 parallel verse, e.g. [[Nahum 2#^nahum-2-13|Nahum 2:13]] ↔ [[Nahum 3#^nahum-3-5|Nahum 3:5]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 2
 slug: hel-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 2]] · My notes: [[Helaman 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Helaman, the son of Helaman, becomes chief judge—Gadianton leads the band of Kishkumen—Helaman’s servant slays Kishkumen, and the Gadianton band flees into the wilderness. About 50–49 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,18 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Alma 62]] — 5 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 62#^alma-62-11|Alma 62:11]]
-- [[Alma 50]] — 7 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 4#^alma-4-1|Alma 4:1]]
-- [[Alma 16]] — 3 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 16#^alma-16-1|Alma 16:1]]
-- [[Alma 52]] — 3 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 52#^alma-52-1|Alma 52:1]]
-- [[Helaman 6]] — 4 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Helaman 6#^hel-6-32|Helaman 6:32]]
-- [[Alma 51]] — 4 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Helaman 11]] — 4 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Helaman 11#^hel-11-24|Helaman 11:24]]
-- [[Helaman 1]] — 5 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Helaman 1#^hel-1-1|Helaman 1:1]]
-- [[Helaman 3]] — 4 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Helaman 3#^hel-3-22|Helaman 3:22]]
-- [[Alma 8]] — 2 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 8#^alma-8-2|Alma 8:2]]
-- [[Alma 30]] — 2 parallel verses, e.g. [[Helaman 2#^hel-2-12|Helaman 2:12]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
+- [[Helaman 3]] — 3 footnote cross-references (from [[Helaman 2#^hel-2-2|Helaman 2:2]])
+- [[Helaman 1]] — 3 footnote cross-references (from [[Helaman 2#^hel-2-2|Helaman 2:2]])
+- [[Helaman 6]] — 2 footnote cross-references (from [[Helaman 2#^hel-2-4|Helaman 2:4]])
+- [[Mosiah 27]] — 1 footnote cross-reference (from [[Helaman 2#^hel-2-5|Helaman 2:5]])
+- [[Alma 50]] — 1 footnote cross-reference (from [[Helaman 2#^hel-2-5|Helaman 2:5]])
+- [[Ether 8]] — 1 footnote cross-reference (from [[Helaman 2#^hel-2-5|Helaman 2:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

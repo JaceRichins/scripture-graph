@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 21
 slug: deut-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 21]] · My notes: [[Deuteronomy 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How amends are made for murders by unknown persons—Equity is required in dealing with wives and children—Stubborn and rebellious sons will be put to death.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Galatians 3]] — 2 footnote cross-references (from [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]])
+- [[Psalm 25]] — 1 footnote cross-reference (from [[Deuteronomy 21#^deut-21-8|Deuteronomy 21:8]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Deuteronomy 21#^deut-21-8|Deuteronomy 21:8]])
+- [[Deuteronomy 24]] — 1 footnote cross-reference (from [[Deuteronomy 21#^deut-21-14|Deuteronomy 21:14]])
+- [[Genesis 29]] — 1 footnote cross-reference (from [[Deuteronomy 21#^deut-21-15|Deuteronomy 21:15]])
+- [[2 Kings 2]] — 1 footnote cross-reference (from [[Deuteronomy 21#^deut-21-17|Deuteronomy 21:17]])
 - [[Deuteronomy 19]] — 6 parallel verses, e.g. [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
 - [[Deuteronomy 25]] — 3 parallel verses, e.g. [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
 - [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Deuteronomy 21#^deut-21-9|Deuteronomy 21:9]] ↔ [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]]

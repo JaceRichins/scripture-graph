@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 17
 slug: lev-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 12]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-4|Leviticus 17:4]])
+- [[Jeremiah 3]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-7|Leviticus 17:7]])
+- [[Ezekiel 23]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-7|Leviticus 17:7]])
+- [[Moroni 7]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-8|Leviticus 17:8]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-8|Leviticus 17:8]])
+- [[Ezekiel 14]] — 1 footnote cross-reference (from [[Leviticus 17#^lev-17-10|Leviticus 17:10]])
 - [[Leviticus 15]] — 14 parallel verses, e.g. [[Leviticus 17#^lev-17-15|Leviticus 17:15]] ↔ [[Leviticus 15#^lev-15-5|Leviticus 15:5]]
 - [[Leviticus 20]] — 4 parallel verses, e.g. [[Leviticus 17#^lev-17-10|Leviticus 17:10]] ↔ [[Leviticus 20#^lev-20-6|Leviticus 20:6]]
 - [[Numbers 15]] — 6 parallel verses, e.g. [[Leviticus 17#^lev-17-4|Leviticus 17:4]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
@@ -61,9 +67,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sacrifice]]
 - [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

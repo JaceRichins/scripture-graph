@@ -13,8 +13,11 @@ cssclasses:
 
 [[Isaiah 36|Plain text]] · [[Isaiah 36 - Study Guide|Study guide]] · [[Isaiah 36 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The Assyrians war against Judah and blaspheme the Lord.
+
 ![[Isaiah 36#^isa-36-1]]
-> [[2 Kings 18#^2kgs-18-13|≈ 2 Kings 18:13]]
+> [[2 Kings 18#^2kgs-18-11|2 Kgs. 18:13 (11–37)]] · [[2 Kings 18#^2kgs-18-13|≈ 2 Kings 18:13]]
 
 ![[Isaiah 36#^isa-36-2]]
 > [[Isaiah 7#^isa-7-3|≈ Isaiah 7:3]] · [[2 Kings 18#^2kgs-18-17|≈ 2 Kings 18:17]] · [[2 Nephi 17#^2ne-17-3|≈ 2 Nephi 17:3]]
@@ -28,7 +31,7 @@ cssclasses:
 > [[2 Kings 18#^2kgs-18-20|≈ 2 Kings 18:20]]
 
 ![[Isaiah 36#^isa-36-6]]
-> [[2 Kings 18#^2kgs-18-21|≈ 2 Kings 18:21]]
+> [[2 Kings 18#^2kgs-18-21|2 Kgs. 18:21]] · [[Ezekiel 29#^ezek-29-6|Ezek. 29:6 (6–16)]] · [[2 Kings 18#^2kgs-18-21|≈ 2 Kings 18:21]]
 
 ![[Isaiah 36#^isa-36-7]]
 > [[2 Kings 18#^2kgs-18-22|≈ 2 Kings 18:22]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 3
 slug: 2kgs-3
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -64,9 +64,9 @@ Water arrives as predicted, Moab mistakes its appearance for blood, and the coal
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

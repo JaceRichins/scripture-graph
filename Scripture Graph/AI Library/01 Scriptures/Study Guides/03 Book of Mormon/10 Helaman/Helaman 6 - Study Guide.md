@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 6
 slug: hel-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 6]] · My notes: [[Helaman 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The righteous Lamanites preach to the wicked Nephites—Both peoples prosper during an era of peace and plenty—Lucifer, the author of sin, stirs up the hearts of the wicked and the Gadianton robbers in murder and wickedness—The robbers take over the Nephite government. About 29–23 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 11]] — 4 footnote cross-references (from [[Helaman 6#^hel-6-6|Helaman 6:6]])
+- [[Helaman 5]] — 3 footnote cross-references (from [[Helaman 6#^hel-6-6|Helaman 6:6]])
+- [[3 Nephi 6]] — 3 footnote cross-references (from [[Helaman 6#^hel-6-8|Helaman 6:8]])
+- [[Helaman 7]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-6|Helaman 6:6]])
+- [[Helaman 3]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-6|Helaman 6:6]])
+- [[Helaman 8]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-10|Helaman 6:10]])
 - [[Alma 53]] — 3 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 53#^alma-53-10|Alma 53:10]]
 - [[Mosiah 11]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-9|Helaman 6:9]] ↔ [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 62#^alma-62-27|Alma 62:27]]

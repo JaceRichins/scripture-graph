@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 29]] · My notes: [[Isaiah 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A people (the Nephites) will speak as a voice from the dust—The Apostasy, restoration of the gospel, and coming forth of a sealed book (the Book of Mormon) are foretold—Compare 2 Nephi 27.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 27]] — 3 footnote cross-references (from [[Isaiah 29#^isa-29-9|Isaiah 29:9]])
+- [[Joseph Smith—History 1]] — 3 footnote cross-references (from [[Isaiah 29#^isa-29-11|Isaiah 29:11]])
+- [[Isaiah 45]] — 3 footnote cross-references (from [[Isaiah 29#^isa-29-16|Isaiah 29:16]])
+- [[Ezekiel 43]] — 1 footnote cross-reference (from [[Isaiah 29#^isa-29-1|Isaiah 29:1]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Isaiah 29#^isa-29-3|Isaiah 29:3]])
+- [[Moroni 10]] — 1 footnote cross-reference (from [[Isaiah 29#^isa-29-4|Isaiah 29:4]])
 - [[2 Nephi 27]] — 19 parallel verses, e.g. [[Isaiah 29#^isa-29-16|Isaiah 29:16]] ↔ [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-4|Isaiah 29:4]] ↔ [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-21|Isaiah 29:21]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]

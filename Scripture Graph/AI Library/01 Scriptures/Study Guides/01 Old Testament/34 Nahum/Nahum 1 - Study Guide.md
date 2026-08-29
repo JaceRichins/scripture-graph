@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 1
 slug: nahum-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nahum 1]] · My notes: [[Nahum 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-3|Nahum 1:3]])
+- [[Mormon 4]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-3|Nahum 1:3]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-3|Nahum 1:3]])
+- [[Psalm 97]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-5|Nahum 1:5]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-5|Nahum 1:5]])
+- [[Psalm 34]] — 1 footnote cross-reference (from [[Nahum 1#^nahum-1-7|Nahum 1:7]])
 - [[Isaiah 52]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Isaiah 52#^isa-52-7|Isaiah 52:7]]
 - [[Mosiah 12]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[Nahum 1#^nahum-1-15|Nahum 1:15]] ↔ [[Mosiah 15#^mosiah-15-18|Mosiah 15:18]]

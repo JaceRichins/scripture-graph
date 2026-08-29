@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 144
 slug: ps-144
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 144]] · My notes: [[Psalm 144 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David blesses the Lord for deliverance and temporal prosperity—Happy is that people whose God is the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-1|Psalm 144:1]])
+- [[Job 7]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-3|Psalm 144:3]])
+- [[Psalm 8]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-3|Psalm 144:3]])
+- [[1 Chronicles 29]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-4|Psalm 144:4]])
+- [[Psalm 102]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-4|Psalm 144:4]])
+- [[Jacob 7]] — 1 footnote cross-reference (from [[Psalm 144#^ps-144-4|Psalm 144:4]])
 - [[Hebrews 2]] — 1 parallel verse, e.g. [[Psalm 144#^ps-144-3|Psalm 144:3]] ↔ [[Hebrews 2#^heb-2-6|Hebrews 2:6]]
 <!-- SG:END related-scriptures -->
 

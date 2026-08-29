@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 24
 slug: 1sam-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 24]] · My notes: [[1 Samuel 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David finds Saul in a cave and spares his life—Saul confesses that David is more righteous than he—David swears that he will not cut off the seed of Saul.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 26]] — 1 footnote cross-reference (from [[1 Samuel 24#^1sam-24-10|1 Samuel 24:10]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[1 Samuel 24#^1sam-24-12|1 Samuel 24:12]])
+- [[1 Samuel 23]] — 1 footnote cross-reference (from [[1 Samuel 24#^1sam-24-22|1 Samuel 24:22]])
+- [[Alma 58]] — 1 footnote cross-reference (from [[1 Samuel 24#^1sam-24-22|1 Samuel 24:22]])
+- [[3 Nephi 4]] — 1 footnote cross-reference (from [[1 Samuel 24#^1sam-24-22|1 Samuel 24:22]])
 - [[1 Samuel 26]] — 2 parallel verses, e.g. [[1 Samuel 24#^1sam-24-16|1 Samuel 24:16]] ↔ [[1 Samuel 26#^1sam-26-17|1 Samuel 26:17]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 11]] · My notes: [[Ezekiel 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> He sees in vision the destruction of Jerusalem and the captivity of the Jews—He prophesies the latter-day gathering of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 10]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-1|Ezekiel 11:1]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-5|Ezekiel 11:5]])
+- [[2 Kings 25]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]])
+- [[Jeremiah 39]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]])
+- [[Ezekiel 5]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-12|Ezekiel 11:12]])
 - [[Ezekiel 8]] — 6 parallel verses, e.g. [[Ezekiel 11#^ezek-11-1|Ezekiel 11:1]] ↔ [[Ezekiel 8#^ezek-8-16|Ezekiel 8:16]]
 - [[Ezekiel 10]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
 - [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]

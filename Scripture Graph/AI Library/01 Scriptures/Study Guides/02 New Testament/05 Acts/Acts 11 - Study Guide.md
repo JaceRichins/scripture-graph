@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 11
 slug: acts-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 11]] · My notes: [[Acts 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God grants the gift of repentance to the Gentiles—The disciples are first called Christians at Antioch—The Church is guided by revelation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,8 +44,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 11#^acts-11-18|Acts 11:18]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-1|Acts 11:1]])
+- [[Acts 8]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-1|Acts 11:1]])
+- [[Acts 22]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-5|Acts 11:5]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-9|Acts 11:9]])
+- [[Mark 16]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-18|Acts 11:18]])
 - [[Acts 10]] — 4 parallel verses, e.g. [[Acts 11#^acts-11-6|Acts 11:6]] ↔ [[Acts 10#^acts-10-12|Acts 10:12]]
 - [[Acts 1]] — 1 parallel verse, e.g. [[Acts 11#^acts-11-16|Acts 11:16]] ↔ [[Acts 1#^acts-1-5|Acts 1:5]]
+- [[Acts 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

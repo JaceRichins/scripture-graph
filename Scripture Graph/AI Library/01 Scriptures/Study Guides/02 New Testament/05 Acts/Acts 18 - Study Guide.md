@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 18
 slug: acts-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 18]] · My notes: [[Acts 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Being rejected by the Jews, Paul turns to the Gentiles—He preaches, ministers, and travels—Apollos also preaches with power.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,7 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 16]] — 2 footnote cross-references (from [[Acts 18#^acts-18-2|Acts 18:2]])
+- [[Acts 17]] — 2 footnote cross-references (from [[Acts 18#^acts-18-4|Acts 18:4]])
+- [[Acts 19]] — 2 footnote cross-references (from [[Acts 18#^acts-18-4|Acts 18:4]])
+- [[Acts 20]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-3|Acts 18:3]])
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-3|Acts 18:3]])
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-5|Acts 18:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

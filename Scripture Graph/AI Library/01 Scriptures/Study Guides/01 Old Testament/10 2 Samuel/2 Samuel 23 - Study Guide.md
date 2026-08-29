@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 23
 slug: 2sam-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 23]] · My notes: [[2 Samuel 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David speaks by the power of the Holy Ghost—Rulers must be just, ruling in the fear of God—David’s mighty men are named and their deeds extolled.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 11]] — 2 footnote cross-references (from [[2 Samuel 23#^2sam-23-8|2 Samuel 23:8]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[2 Samuel 23#^2sam-23-3|2 Samuel 23:3]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[2 Samuel 23#^2sam-23-3|2 Samuel 23:3]])
+- [[Exodus 18]] — 1 footnote cross-reference (from [[2 Samuel 23#^2sam-23-3|2 Samuel 23:3]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[2 Samuel 23#^2sam-23-3|2 Samuel 23:3]])
+- [[D&C 49]] — 1 footnote cross-reference (from [[2 Samuel 23#^2sam-23-5|2 Samuel 23:5]])
 - [[1 Chronicles 11]] — 19 parallel verses, e.g. [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]] ↔ [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]]
 <!-- SG:END related-scriptures -->
 

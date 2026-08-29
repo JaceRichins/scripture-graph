@@ -13,15 +13,20 @@ cssclasses:
 
 [[Acts 25|Plain text]] · [[Acts 25 - Study Guide|Study guide]] · [[Acts 25 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Paul, before Festus, appeals unto Cæsar—Agrippa desires to hear Paul.
+
 ![[Acts 25#^acts-25-1]]
 
 ![[Acts 25#^acts-25-2]]
 
 ![[Acts 25#^acts-25-3]]
+> [[Acts 23#^acts-23-12|Acts 23:12]]
 
 ![[Acts 25#^acts-25-4]]
 
 ![[Acts 25#^acts-25-5]]
+> [[Acts 18#^acts-18-14|Acts 18:14]]
 
 ![[Acts 25#^acts-25-6]]
 
@@ -34,6 +39,7 @@ cssclasses:
 ![[Acts 25#^acts-25-10]]
 
 ![[Acts 25#^acts-25-11]]
+> [[Acts 26#^acts-26-32|Acts 26:32]]
 
 ![[Acts 25#^acts-25-12]]
 
@@ -62,6 +68,7 @@ cssclasses:
 ![[Acts 25#^acts-25-24]]
 
 ![[Acts 25#^acts-25-25]]
+> [[Acts 23#^acts-23-29|Acts 23:29]]
 
 ![[Acts 25#^acts-25-26]]
 

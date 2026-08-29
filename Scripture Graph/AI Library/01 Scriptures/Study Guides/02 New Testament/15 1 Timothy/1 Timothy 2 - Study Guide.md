@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 2
 slug: 1tim-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 2]] · My notes: [[1 Timothy 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> We should pray for all people—Christ is our Mediator—Women should dress modestly—Women are blessed in childbearing and are admonished to continue in faith, charity, and holiness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 6]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-4|1 Timothy 2:4]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-4|1 Timothy 2:4]])
+- [[Romans 3]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-5|1 Timothy 2:5]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-5|1 Timothy 2:5]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-5|1 Timothy 2:5]])
+- [[Job 33]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-6|1 Timothy 2:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

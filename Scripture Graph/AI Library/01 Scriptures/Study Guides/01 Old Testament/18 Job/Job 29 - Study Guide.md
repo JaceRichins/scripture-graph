@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 29
 slug: job-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 29]] · My notes: [[Job 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job recalls his former prosperity and greatness—He was blessed because of his righteousness, his charity, and his good deeds.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Job 29#^job-29-12|Job 29:12]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Job 29#^job-29-12|Job 29:12]])
+- [[D&C 104]] — 1 footnote cross-reference (from [[Job 29#^job-29-12|Job 29:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

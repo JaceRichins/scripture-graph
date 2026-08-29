@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 1
 slug: esth-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 1]] · My notes: [[Esther 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ahasuerus of Persia and Media makes royal feasts—Vashti disobeys the king and is deposed as queen.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 7]] — 2 footnote cross-references (from [[Esther 1#^esth-1-5|Esther 1:5]])
+- [[Esther 8]] — 2 footnote cross-references (from [[Esther 1#^esth-1-19|Esther 1:19]])
+- [[Ezra 4]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-1|Esther 1:1]])
+- [[Esther 9]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-1|Esther 1:1]])
+- [[Nehemiah 1]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-2|Esther 1:2]])
+- [[Alma 18]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-3|Esther 1:3]])
 - [[Esther 3]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 3#^esth-3-12|Esther 3:12]]
 - [[Jeremiah 26]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[Jeremiah 26#^jer-26-12|Jeremiah 26:12]]
 - [[Esther 2]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-3|Esther 1:3]] ↔ [[Esther 2#^esth-2-18|Esther 2:18]]

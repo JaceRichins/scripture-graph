@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 27
 slug: 2ne-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 27]] · My notes: [[2 Nephi 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Darkness and apostasy will cover the earth in the last days—The Book of Mormon will come forth—Three witnesses will testify of the book—The learned man will say he cannot read the sealed book—The Lord will do a marvelous work and a wonder—Compare Isaiah 29. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 29]] — 12 footnote cross-references (from [[2 Nephi 27#^2ne-27-1|2 Nephi 27:1]])
+- [[Ether 4]] — 5 footnote cross-references (from [[2 Nephi 27#^2ne-27-7|2 Nephi 27:7]])
+- [[2 Nephi 28]] — 4 footnote cross-references (from [[2 Nephi 27#^2ne-27-14|2 Nephi 27:14]])
+- [[Ether 5]] — 3 footnote cross-references (from [[2 Nephi 27#^2ne-27-8|2 Nephi 27:8]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-3|2 Nephi 27:3]])
+- [[Mormon 5]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-6|2 Nephi 27:6]])
 - [[Isaiah 29]] — 19 parallel verses, e.g. [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]] ↔ [[Isaiah 29#^isa-29-16|Isaiah 29:16]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]]
 - [[2 Nephi 29]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]] ↔ [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]]

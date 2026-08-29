@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 1]] · My notes: [[Romans 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel is the power of God unto salvation through Jesus Christ—The wrath of God rests on those guilty of murder, homosexual practices, fornication, and other sins if the guilty do not repent.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 4]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-1|Romans 1:1]])
+- [[D&C 18]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-1|Romans 1:1]])
+- [[D&C 10]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
+- [[D&C 14]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]

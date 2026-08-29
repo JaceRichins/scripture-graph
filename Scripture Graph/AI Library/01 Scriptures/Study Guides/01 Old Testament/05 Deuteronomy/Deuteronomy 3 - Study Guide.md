@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 3
 slug: deut-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 3]] · My notes: [[Deuteronomy 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel destroy the people of Bashan—Their lands, on the east of the Jordan, are given to Reuben and Gad—Moses sees Canaan from Pisgah but is denied entrance thereto—He counsels and strengthens Joshua.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 21]] — 4 footnote cross-references (from [[Deuteronomy 3#^deut-3-3|Deuteronomy 3:3]])
+- [[Deuteronomy 4]] — 4 footnote cross-references (from [[Deuteronomy 3#^deut-3-9|Deuteronomy 3:9]])
+- [[Deuteronomy 1]] — 2 footnote cross-references (from [[Deuteronomy 3#^deut-3-11|Deuteronomy 3:11]])
+- [[Deuteronomy 2]] — 2 footnote cross-references (from [[Deuteronomy 3#^deut-3-11|Deuteronomy 3:11]])
+- [[Joshua 12]] — 2 footnote cross-references (from [[Deuteronomy 3#^deut-3-11|Deuteronomy 3:11]])
+- [[Joshua 13]] — 2 footnote cross-references (from [[Deuteronomy 3#^deut-3-14|Deuteronomy 3:14]])
 - [[Numbers 21]] — 3 parallel verses, e.g. [[Deuteronomy 3#^deut-3-2|Deuteronomy 3:2]] ↔ [[Numbers 21#^num-21-34|Numbers 21:34]]
 - [[Joshua 23]] — 5 parallel verses, e.g. [[Deuteronomy 3#^deut-3-21|Deuteronomy 3:21]] ↔ [[Joshua 23#^josh-23-3|Joshua 23:3]]
 - [[Joshua 12]] — 2 parallel verses, e.g. [[Deuteronomy 3#^deut-3-16|Deuteronomy 3:16]] ↔ [[Joshua 12#^josh-12-2|Joshua 12:2]]

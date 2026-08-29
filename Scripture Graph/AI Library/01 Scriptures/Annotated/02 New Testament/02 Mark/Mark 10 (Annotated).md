@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 10|Plain text]] · [[Mark 10 - Study Guide|Study guide]] · [[Mark 10 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus teaches the higher law of marriage—He blesses little children—Jesus counsels the rich young man, foretells His own death, and heals blind Bartimæus.
+
 ![[Mark 10#^mark-10-1]]
 
 ![[Mark 10#^mark-10-2]]
@@ -47,20 +50,21 @@ cssclasses:
 ![[Mark 10#^mark-10-13]]
 
 ![[Mark 10#^mark-10-14]]
-> [[Matthew 19#^matt-19-14|≈ Matthew 19:14]] · [[Luke 18#^luke-18-16|≈ Luke 18:16]]
+> [[Moroni 8#^moro-8-5|Moro. 8:8 (5–9)]] · [[Matthew 19#^matt-19-14|≈ Matthew 19:14]] · [[Luke 18#^luke-18-16|≈ Luke 18:16]]
 
 ![[Mark 10#^mark-10-15]]
 > [[Luke 18#^luke-18-17|≈ Luke 18:17]]
 
 ![[Mark 10#^mark-10-16]]
+> [[3 Nephi 17#^3ne-17-21|3 Ne. 17:21]]
 
 ![[Mark 10#^mark-10-17]]
 
 ![[Mark 10#^mark-10-18]]
-> [[Matthew 19#^matt-19-17|≈ Matthew 19:17]] · [[Luke 18#^luke-18-19|≈ Luke 18:19]]
+> [[Ether 4#^ether-4-11|Ether 4:12 (11–12)]] · [[Matthew 19#^matt-19-17|≈ Matthew 19:17]] · [[Luke 18#^luke-18-19|≈ Luke 18:19]]
 
 ![[Mark 10#^mark-10-19]]
-> [[Luke 18#^luke-18-20|≈ Luke 18:20]]
+> [[D&C 66#^dc-66-10|D&amp;C 66:10]] · [[Luke 18#^luke-18-20|≈ Luke 18:20]]
 
 ![[Mark 10#^mark-10-20]]
 > [[Alma 18#^alma-18-25|≈ Alma 18:25]]
@@ -74,7 +78,7 @@ cssclasses:
 > [[Luke 18#^luke-18-24|≈ Luke 18:24]]
 
 ![[Mark 10#^mark-10-24]]
-> [[Matthew 19#^matt-19-24|≈ Matthew 19:24]] · [[Mark 9#^mark-9-47|≈ Mark 9:47]] · [[Luke 18#^luke-18-25|≈ Luke 18:25]]
+> [[Jacob 2#^jacob-2-17|Jacob 2:18 (17–19)]] · [[Matthew 19#^matt-19-24|≈ Matthew 19:24]] · [[Mark 9#^mark-9-47|≈ Mark 9:47]] · [[Luke 18#^luke-18-25|≈ Luke 18:25]]
 
 ![[Mark 10#^mark-10-25]]
 > [[Matthew 19#^matt-19-24|≈ Matthew 19:24]] · [[Mark 9#^mark-9-47|≈ Mark 9:47]] · [[Luke 18#^luke-18-25|≈ Luke 18:25]]
@@ -91,7 +95,7 @@ cssclasses:
 ![[Mark 10#^mark-10-30]]
 
 ![[Mark 10#^mark-10-31]]
-> [[Matthew 19#^matt-19-30|≈ Matthew 19:30]]
+> [[Jacob 5#^jacob-5-63|Jacob 5:63]] · [[Ether 13#^ether-13-10|Ether 13:12 (10–12)]] · [[Matthew 19#^matt-19-30|≈ Matthew 19:30]]
 
 ![[Mark 10#^mark-10-32]]
 
@@ -123,14 +127,16 @@ cssclasses:
 ![[Mark 10#^mark-10-42]]
 
 ![[Mark 10#^mark-10-43]]
-> [[Matthew 20#^matt-20-26|≈ Matthew 20:26]]
+> [[D&C 50#^dc-50-26|D&amp;C 50:26 (26–27)]] · [[Matthew 20#^matt-20-26|≈ Matthew 20:26]]
 
 ![[Mark 10#^mark-10-44]]
+> [[Matthew 23#^matt-23-11|Matt. 23:11]] · [[Luke 22#^luke-22-24|Luke 22:24 (24–30)]] · [[2 Nephi 9#^2ne-9-5|2 Ne. 9:5]]
 
 ![[Mark 10#^mark-10-45]]
-> [[Matthew 20#^matt-20-28|≈ Matthew 20:28]]
+> [[Romans 4#^rom-4-25|Rom. 4:25]] · [[Matthew 20#^matt-20-28|≈ Matthew 20:28]]
 
 ![[Mark 10#^mark-10-46]]
+> [[Matthew 20#^matt-20-29|Matt. 20:30 (29–34)]]
 
 ![[Mark 10#^mark-10-47]]
 > [[Matthew 9#^matt-9-27|≈ Matthew 9:27]] · [[Luke 18#^luke-18-38|≈ Luke 18:38]] · [[Luke 18#^luke-18-39|≈ Luke 18:39]]
@@ -139,6 +145,7 @@ cssclasses:
 > [[Matthew 9#^matt-9-27|≈ Matthew 9:27]] · [[Luke 18#^luke-18-39|≈ Luke 18:39]] · [[Luke 18#^luke-18-38|≈ Luke 18:38]]
 
 ![[Mark 10#^mark-10-49]]
+> [[1 Nephi 17#^1ne-17-51|1 Ne. 17:51]]
 
 ![[Mark 10#^mark-10-50]]
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 51
 slug: alma-51
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 51]] · My notes: [[Alma 51 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The king-men seek to change the law and set up a king—Pahoran and the freemen are supported by the voice of the people—Moroni compels the king-men to defend their country or be put to death—Amalickiah and the Lamanites capture many fortified cities—Teancum repels the Lamanite invasion and slays Amalickiah in his tent. About 67–66 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 62]] — 7 footnote cross-references (from [[Alma 51#^alma-51-5|Alma 51:5]])
+- [[Alma 50]] — 7 footnote cross-references (from [[Alma 51#^alma-51-22|Alma 51:22]])
+- [[Alma 52]] — 4 footnote cross-references (from [[Alma 51#^alma-51-26|Alma 51:26]])
+- [[Alma 60]] — 3 footnote cross-references (from [[Alma 51#^alma-51-5|Alma 51:5]])
+- [[Alma 48]] — 2 footnote cross-references (from [[Alma 51#^alma-51-6|Alma 51:6]])
+- [[Helaman 1]] — 2 footnote cross-references (from [[Alma 51#^alma-51-7|Alma 51:7]])
 - [[Alma 2]] — 3 parallel verses, e.g. [[Alma 51#^alma-51-7|Alma 51:7]] ↔ [[Alma 2#^alma-2-7|Alma 2:7]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-22|Alma 51:22]] ↔ [[Alma 62#^alma-62-25|Alma 62:25]]
 - [[Mosiah 29]] — 3 parallel verses, e.g. [[Alma 51#^alma-51-7|Alma 51:7]] ↔ [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]]

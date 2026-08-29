@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 5
 slug: lam-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Lamentations 5]] · My notes: [[Lamentations 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah recites in prayer the sorrowful condition of Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 31]] — 2 footnote cross-references (from [[Lamentations 5#^lam-5-7|Lamentations 5:7]])
+- [[Psalm 79]] — 1 footnote cross-reference (from [[Lamentations 5#^lam-5-2|Lamentations 5:2]])
+- [[Jeremiah 39]] — 1 footnote cross-reference (from [[Lamentations 5#^lam-5-2|Lamentations 5:2]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Lamentations 5#^lam-5-7|Lamentations 5:7]])
+- [[Mosiah 13]] — 1 footnote cross-reference (from [[Lamentations 5#^lam-5-7|Lamentations 5:7]])
+- [[Psalm 51]] — 1 footnote cross-reference (from [[Lamentations 5#^lam-5-21|Lamentations 5:21]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

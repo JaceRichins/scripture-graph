@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 3
 slug: morm-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 3]] · My notes: [[Mormon 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mormon cries repentance unto the Nephites—They gain a great victory and glory in their own strength—Mormon refuses to lead them, and his prayers for them are without faith—The Book of Mormon invites the twelve tribes of Israel to believe the gospel. About A.D. 360–62.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 4]] — 5 footnote cross-references (from [[Mormon 3#^morm-3-3|Mormon 3:3]])
+- [[3 Nephi 3]] — 2 footnote cross-references (from [[Mormon 3#^morm-3-7|Mormon 3:7]])
+- [[Mormon 2]] — 2 footnote cross-references (from [[Mormon 3#^morm-3-8|Mormon 3:8]])
+- [[Mormon 5]] — 2 footnote cross-references (from [[Mormon 3#^morm-3-11|Mormon 3:11]])
+- [[Helaman 15]] — 1 footnote cross-reference (from [[Mormon 3#^morm-3-2|Mormon 3:2]])
+- [[Mormon 6]] — 1 footnote cross-reference (from [[Mormon 3#^morm-3-2|Mormon 3:2]])
 - [[Mormon 4]] — 6 parallel verses, e.g. [[Mormon 3#^morm-3-7|Mormon 3:7]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
 - [[3 Nephi 4]] — 3 parallel verses, e.g. [[Mormon 3#^morm-3-13|Mormon 3:13]] ↔ [[3 Nephi 4#^3ne-4-33|3 Nephi 4:33]]
 - [[Mormon 2]] — 2 parallel verses, e.g. [[Mormon 3#^morm-3-7|Mormon 3:7]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]

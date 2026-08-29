@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 29|Plain text]] · [[Job 29 - Study Guide|Study guide]] · [[Job 29 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Job recalls his former prosperity and greatness—He was blessed because of his righteousness, his charity, and his good deeds.
+
 ![[Job 29#^job-29-1]]
 
 ![[Job 29#^job-29-2]]
@@ -36,6 +39,7 @@ cssclasses:
 ![[Job 29#^job-29-11]]
 
 ![[Job 29#^job-29-12]]
+> [[Mosiah 4#^mosiah-4-26|Mosiah 4:26]] · [[D&C 42#^dc-42-30|D&amp;C 42:31 (30–31)]] · [[D&C 104#^dc-104-18|104:18]]
 
 ![[Job 29#^job-29-13]]
 

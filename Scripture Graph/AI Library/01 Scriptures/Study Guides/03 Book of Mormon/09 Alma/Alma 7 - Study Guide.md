@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 7
 slug: alma-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 7]] · My notes: [[Alma 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ will be born of Mary—He will loose the bands of death and bear the sins of His people—Those who repent, are baptized, and keep the commandments will have eternal life—Filthiness cannot inherit the kingdom of God—Humility, faith, hope, and charity are required. About 83 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 15]] — 3 footnote cross-references (from [[Alma 7#^alma-7-9|Alma 7:9]])
+- [[Alma 4]] — 2 footnote cross-references (from [[Alma 7#^alma-7-1|Alma 7:1]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Alma 7#^alma-7-6|Alma 7:6]])
+- [[Alma 9]] — 2 footnote cross-references (from [[Alma 7#^alma-7-7|Alma 7:7]])
+- [[Matthew 3]] — 2 footnote cross-references (from [[Alma 7#^alma-7-9|Alma 7:9]])
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Alma 7#^alma-7-9|Alma 7:9]])
 - [[Alma 5]] — 4 parallel verses, e.g. [[Alma 7#^alma-7-6|Alma 7:6]] ↔ [[Alma 5#^alma-5-53|Alma 5:53]]
 - [[D&C 3]] — 1 parallel verse, e.g. [[Alma 7#^alma-7-20|Alma 7:20]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Alma 7#^alma-7-10|Alma 7:10]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]

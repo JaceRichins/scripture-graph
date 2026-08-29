@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 33
 slug: num-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 33]] · My notes: [[Numbers 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel’s journeys from Egypt to Canaan are reviewed—The people are commanded to drive out the inhabitants of the land—Any remaining inhabitants will vex Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 14]] — 2 footnote cross-references (from [[Numbers 33#^num-33-3|Numbers 33:3]])
+- [[Numbers 20]] — 2 footnote cross-references (from [[Numbers 33#^num-33-36|Numbers 33:36]])
+- [[Numbers 21]] — 2 footnote cross-references (from [[Numbers 33#^num-33-40|Numbers 33:40]])
+- [[Genesis 47]] — 1 footnote cross-reference (from [[Numbers 33#^num-33-3|Numbers 33:3]])
+- [[Exodus 13]] — 1 footnote cross-reference (from [[Numbers 33#^num-33-5|Numbers 33:5]])
+- [[Exodus 17]] — 1 footnote cross-reference (from [[Numbers 33#^num-33-12|Numbers 33:12]])
 - [[Numbers 26]] — 5 parallel verses, e.g. [[Numbers 33#^num-33-1|Numbers 33:1]] ↔ [[Numbers 26#^num-26-4|Numbers 26:4]]
 - [[Numbers 35]] — 3 parallel verses, e.g. [[Numbers 33#^num-33-50|Numbers 33:50]] ↔ [[Numbers 35#^num-35-1|Numbers 35:1]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 33#^num-33-51|Numbers 33:51]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]

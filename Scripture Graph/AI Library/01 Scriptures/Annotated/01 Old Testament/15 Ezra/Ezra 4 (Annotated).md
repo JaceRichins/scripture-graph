@@ -13,17 +13,25 @@ cssclasses:
 
 [[Ezra 4|Plain text]] · [[Ezra 4 - Study Guide|Study guide]] · [[Ezra 4 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The Samaritans offer help, then hinder the work—The building of the temple and of the walls of Jerusalem ceases.
+
 ![[Ezra 4#^ezra-4-1]]
+> [[D&C 123#^dc-123-1|D&amp;C 123:1 (1–17)]]
 
 ![[Ezra 4#^ezra-4-2]]
+> [[2 Kings 17#^2kgs-17-24|2 Kgs. 17:24]]
 
 ![[Ezra 4#^ezra-4-3]]
+> [[Ezra 3#^ezra-3-7|Ezra 3:7]]
 
 ![[Ezra 4#^ezra-4-4]]
 
 ![[Ezra 4#^ezra-4-5]]
+> [[Daniel 6#^dan-6-28|Dan. 6:28]]
 
 ![[Ezra 4#^ezra-4-6]]
+> [[Esther 1#^esth-1-1|Esth. 1:1]]
 
 ![[Ezra 4#^ezra-4-7]]
 
@@ -54,8 +62,10 @@ cssclasses:
 ![[Ezra 4#^ezra-4-19]]
 
 ![[Ezra 4#^ezra-4-20]]
+> [[Lamentations 1#^lam-1-1|Lam. 1:1]]
 
 ![[Ezra 4#^ezra-4-21]]
+> [[D&C 124#^dc-124-49|D&amp;C 124:49]]
 
 ![[Ezra 4#^ezra-4-22]]
 

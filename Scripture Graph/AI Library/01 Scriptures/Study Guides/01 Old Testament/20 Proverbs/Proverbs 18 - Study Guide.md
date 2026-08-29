@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 18
 slug: prov-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 18]] · My notes: [[Proverbs 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A fool’s mouth is his destruction—Whoever obtains a wife obtains a good thing—A man who has friends must show himself friendly.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 10]] — 2 footnote cross-references (from [[Proverbs 18#^prov-18-7|Proverbs 18:7]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-4|Proverbs 18:4]])
+- [[Psalm 82]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-5|Proverbs 18:5]])
+- [[Psalm 64]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-7|Proverbs 18:7]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-10|Proverbs 18:10]])
+- [[Psalm 61]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-10|Proverbs 18:10]])
 - [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-8|Proverbs 18:8]] ↔ [[Proverbs 26#^prov-26-22|Proverbs 26:22]]
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-11|Proverbs 18:11]] ↔ [[Proverbs 10#^prov-10-15|Proverbs 10:15]]
 <!-- SG:END related-scriptures -->

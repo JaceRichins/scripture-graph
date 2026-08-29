@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 1
 slug: jacob-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 1]] · My notes: [[Jacob 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob and Joseph seek to persuade men to believe in Christ and keep His commandments—Nephi dies—Wickedness prevails among the Nephites. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 5]] — 6 footnote cross-references (from [[Jacob 1#^jacob-1-1|Jacob 1:1]])
+- [[Jarom 1]] — 2 footnote cross-references (from [[Jacob 1#^jacob-1-1|Jacob 1:1]])
+- [[Omni 1]] — 2 footnote cross-references (from [[Jacob 1#^jacob-1-1|Jacob 1:1]])
+- [[Jacob 3]] — 2 footnote cross-references (from [[Jacob 1#^jacob-1-1|Jacob 1:1]])
+- [[2 Nephi 1]] — 2 footnote cross-references (from [[Jacob 1#^jacob-1-5|Jacob 1:5]])
+- [[2 Nephi 4]] — 2 footnote cross-references (from [[Jacob 1#^jacob-1-5|Jacob 1:5]])
 - [[Enos 1]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-1|Jacob 1:1]] ↔ [[Enos 1#^enos-1-25|Enos 1:25]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-7|Jacob 1:7]] ↔ [[Numbers 15#^num-15-32|Numbers 15:32]]
 - [[Mosiah 23]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]

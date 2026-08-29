@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 1
 slug: alma-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 1]] · My notes: [[Alma 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nehor teaches false doctrines, establishes a church, introduces priestcraft, and slays Gideon—Nehor is executed for his crimes—Priestcrafts and persecutions spread among the people—The priests support themselves, the people care for the poor, and the Church prospers. About 91–88 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 29]] — 3 footnote cross-references (from [[Alma 1#^alma-1-1|Alma 1:1]])
+- [[Alma 4]] — 3 footnote cross-references (from [[Alma 1#^alma-1-1|Alma 1:1]])
+- [[Alma 30]] — 3 footnote cross-references (from [[Alma 1#^alma-1-4|Alma 1:4]])
+- [[Alma 2]] — 3 footnote cross-references (from [[Alma 1#^alma-1-8|Alma 1:8]])
+- [[Mosiah 18]] — 2 footnote cross-references (from [[Alma 1#^alma-1-3|Alma 1:3]])
+- [[Mosiah 27]] — 2 footnote cross-references (from [[Alma 1#^alma-1-3|Alma 1:3]])
 - [[Alma 4]] — 8 parallel verses, e.g. [[Alma 1#^alma-1-6|Alma 1:6]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
 - [[Alma 6]] — 4 parallel verses, e.g. [[Alma 1#^alma-1-19|Alma 1:19]] ↔ [[Alma 6#^alma-6-2|Alma 6:2]]
 - [[Ether 14]] — 2 parallel verses, e.g. [[Alma 1#^alma-1-1|Alma 1:1]] ↔ [[Ether 14#^ether-14-11|Ether 14:11]]

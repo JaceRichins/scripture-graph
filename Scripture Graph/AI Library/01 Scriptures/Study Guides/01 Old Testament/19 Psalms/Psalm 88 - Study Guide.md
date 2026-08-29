@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 88
 slug: ps-88
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 88]] · My notes: [[Psalm 88 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A prayer of one who feels forsaken and who asks whether the Lord’s loving kindness will be declared in the grave.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 32]] — 1 parallel verse, e.g. [[Psalm 88#^ps-88-4|Psalm 88:4]] ↔ [[Ezekiel 32#^ezek-32-18|Ezekiel 32:18]]
+- [[Psalm 28]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-4|Psalm 88:4]])
+- [[Psalm 143]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-4|Psalm 88:4]])
+- [[2 Nephi 24]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-4|Psalm 88:4]])
+- [[Psalm 31]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-5|Psalm 88:5]])
+- [[Psalm 38]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-9|Psalm 88:9]])
+- [[2 Samuel 11]] — 1 footnote cross-reference (from [[Psalm 88#^ps-88-14|Psalm 88:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

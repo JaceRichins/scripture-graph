@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 10
 slug: 2sam-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 10]] · My notes: [[2 Samuel 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David’s messengers are abused by the Ammonites—Israel defeats the Ammonites and Syrians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 19]] — 1 footnote cross-reference (from [[2 Samuel 10#^2sam-10-1|2 Samuel 10:1]])
+- [[Judges 11]] — 1 footnote cross-reference (from [[2 Samuel 10#^2sam-10-6|2 Samuel 10:6]])
+- [[1 Samuel 4]] — 1 footnote cross-reference (from [[2 Samuel 10#^2sam-10-12|2 Samuel 10:12]])
+- [[Alma 46]] — 1 footnote cross-reference (from [[2 Samuel 10#^2sam-10-12|2 Samuel 10:12]])
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[2 Samuel 10#^2sam-10-14|2 Samuel 10:14]])
 - [[1 Chronicles 19]] — 20 parallel verses, e.g. [[2 Samuel 10#^2sam-10-11|2 Samuel 10:11]] ↔ [[1 Chronicles 19#^1chr-19-12|1 Chronicles 19:12]]
 - [[Judges 11]] — 5 parallel verses, e.g. [[2 Samuel 10#^2sam-10-1|2 Samuel 10:1]] ↔ [[Judges 11#^judg-11-12|Judges 11:12]]
 - [[Deuteronomy 2]] — 2 parallel verses, e.g. [[2 Samuel 10#^2sam-10-2|2 Samuel 10:2]] ↔ [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]]

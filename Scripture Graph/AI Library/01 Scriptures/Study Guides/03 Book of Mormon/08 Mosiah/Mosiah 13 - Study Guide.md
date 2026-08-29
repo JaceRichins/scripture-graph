@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 13
 slug: mosiah-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 13]] · My notes: [[Mosiah 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abinadi is protected by divine power—He teaches the Ten Commandments—Salvation does not come by the law of Moses alone—God Himself will make an atonement and redeem His people. About 148 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 25]] — 5 footnote cross-references (from [[Mosiah 13#^mosiah-13-10|Mosiah 13:10]])
+- [[Exodus 20]] — 5 footnote cross-references (from [[Mosiah 13#^mosiah-13-11|Mosiah 13:11]])
+- [[Mosiah 12]] — 4 footnote cross-references (from [[Mosiah 13#^mosiah-13-3|Mosiah 13:3]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Mosiah 13#^mosiah-13-3|Mosiah 13:3]])
+- [[Mosiah 17]] — 2 footnote cross-references (from [[Mosiah 13#^mosiah-13-10|Mosiah 13:10]])
 - [[Exodus 20]] — 10 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
 - [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-12|Mosiah 13:12]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]

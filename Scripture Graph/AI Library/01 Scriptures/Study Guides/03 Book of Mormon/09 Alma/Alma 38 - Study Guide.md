@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 38
 slug: alma-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 38]] · My notes: [[Alma 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Shiblon was persecuted for righteousness’ sake—Salvation is in Christ, who is the life and the light of the world—Bridle all your passions. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 36]] — 4 footnote cross-references (from [[Alma 38#^alma-38-1|Alma 38:1]])
+- [[Alma 31]] — 3 footnote cross-references (from [[Alma 38#^alma-38-1|Alma 38:1]])
+- [[Alma 9]] — 2 footnote cross-references (from [[Alma 38#^alma-38-1|Alma 38:1]])
+- [[Alma 63]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
 - [[Alma 36]] — 5 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]

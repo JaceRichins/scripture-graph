@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 2
 slug: philip-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Philippians 2]] · My notes: [[Philippians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints should be of one mind and one spirit—Every knee will bow to Christ—Saints must work out their salvation—Paul faces martyrdom with joy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Philippians 4]] — 2 footnote cross-references (from [[Philippians 2#^philip-2-25|Philippians 2:25]])
+- [[Romans 12]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-2|Philippians 2:2]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-2|Philippians 2:2]])
+- [[Isaiah 53]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-7|Philippians 2:7]])
+- [[2 Corinthians 8]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-7|Philippians 2:7]])
+- [[Hebrews 2]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-7|Philippians 2:7]])
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Philippians 2#^philip-2-12|Philippians 2:12]] ↔ [[Mormon 9#^morm-9-27|Mormon 9:27]]
 <!-- SG:END related-scriptures -->
 

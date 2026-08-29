@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 31
 slug: num-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 31]] · My notes: [[Numbers 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses sends forth 12,000 warriors who destroy the Midianites—The prey is divided in Israel—None in the armies of Israel are lost.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 30]] — 2 footnote cross-references (from [[Numbers 31#^num-31-50|Numbers 31:50]])
+- [[Luke 18]] — 1 footnote cross-reference (from [[Numbers 31#^num-31-2|Numbers 31:2]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Numbers 31#^num-31-2|Numbers 31:2]])
+- [[Habakkuk 3]] — 1 footnote cross-reference (from [[Numbers 31#^num-31-2|Numbers 31:2]])
+- [[Joshua 13]] — 1 footnote cross-reference (from [[Numbers 31#^num-31-8|Numbers 31:8]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Numbers 31#^num-31-16|Numbers 31:16]])
 - [[Numbers 19]] — 3 parallel verses, e.g. [[Numbers 31#^num-31-21|Numbers 31:21]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Numbers 31#^num-31-6|Numbers 31:6]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
 - [[Joshua 13]] — 1 parallel verse, e.g. [[Numbers 31#^num-31-8|Numbers 31:8]] ↔ [[Joshua 13#^josh-13-21|Joshua 13:21]]

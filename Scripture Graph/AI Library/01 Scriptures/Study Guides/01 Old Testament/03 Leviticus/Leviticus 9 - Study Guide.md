@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 9
 slug: lev-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 9]] · My notes: [[Leviticus 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron makes an atonement by sacrifice for himself and all Israel—He and his sons offer sacrifices—The glory of the Lord appears to all—Fire from the Lord consumes the offerings on the altar.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 10]] — 2 footnote cross-references (from [[Leviticus 9#^lev-9-3|Leviticus 9:3]])
+- [[2 Nephi 1]] — 2 footnote cross-references (from [[Leviticus 9#^lev-9-6|Leviticus 9:6]])
+- [[Ether 12]] — 2 footnote cross-references (from [[Leviticus 9#^lev-9-6|Leviticus 9:6]])
+- [[Ezekiel 43]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
+- [[Alma 6]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
+- [[D&C 46]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 9#^lev-9-3|Leviticus 9:3]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 4]] — 5 parallel verses, e.g. [[Leviticus 9#^lev-9-9|Leviticus 9:9]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
 - [[Leviticus 8]] — 5 parallel verses, e.g. [[Leviticus 9#^lev-9-9|Leviticus 9:9]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 34
 slug: job-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 34]] · My notes: [[Job 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elihu teaches, God cannot be unjust, commit iniquity, pervert judgment, or respect persons—Man should bear chastisement and do iniquity no more.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 1]] — 2 footnote cross-references (from [[Job 34#^job-34-11|Job 34:11]])
+- [[2 Nephi 25]] — 1 footnote cross-reference (from [[Job 34#^job-34-11|Job 34:11]])
+- [[Alma 9]] — 1 footnote cross-reference (from [[Job 34#^job-34-11|Job 34:11]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Job 34#^job-34-11|Job 34:11]])
+- [[Psalm 19]] — 1 footnote cross-reference (from [[Job 34#^job-34-12|Job 34:12]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Job 34#^job-34-12|Job 34:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

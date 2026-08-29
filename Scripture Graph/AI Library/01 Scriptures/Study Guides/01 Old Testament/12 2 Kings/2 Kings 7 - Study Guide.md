@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 7
 slug: 2kgs-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 7]] · My notes: [[2 Kings 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elisha prophesies incredible plenty in Samaria—The Syrian hosts flee at a noise of battle and leave their possessions—Israel takes spoil from the Syrians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,18 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 42]] — 3 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Genesis 42#^gen-42-21|Genesis 42:21]]
-- [[Deuteronomy 34]] — 3 parallel verses, e.g. [[2 Kings 7#^2kgs-7-16|2 Kings 7:16]] ↔ [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]]
-- [[2 Kings 23]] — 3 parallel verses, e.g. [[2 Kings 7#^2kgs-7-16|2 Kings 7:16]] ↔ [[2 Kings 23#^2kgs-23-16|2 Kings 23:16]]
-- [[Matthew 17]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-5|2 Kings 7:5]] ↔ [[Matthew 17#^matt-17-14|Matthew 17:14]]
-- [[Genesis 11]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Genesis 11#^gen-11-3|Genesis 11:3]]
-- [[Genesis 37]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Genesis 37#^gen-37-19|Genesis 37:19]]
-- [[Numbers 14]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Numbers 14#^num-14-4|Numbers 14:4]]
-- [[Judges 6]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Judges 6#^judg-6-29|Judges 6:29]]
-- [[Luke 24]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[Luke 24#^luke-24-32|Luke 24:32]]
-- [[Numbers 3]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-16|2 Kings 7:16]] ↔ [[Numbers 3#^num-3-16|Numbers 3:16]]
-- [[2 Samuel 10]] — 1 parallel verse, e.g. [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]] ↔ [[2 Samuel 10#^2sam-10-8|2 Samuel 10:8]]
-- [[Mark 13]] — 2 parallel verses, e.g. [[2 Kings 7#^2kgs-7-5|2 Kings 7:5]] ↔ [[Mark 13#^mark-13-27|Mark 13:27]]
+- [[Malachi 3]] — 1 footnote cross-reference (from [[2 Kings 7#^2kgs-7-2|2 Kings 7:2]])
+- [[2 Kings 6]] — 1 footnote cross-reference (from [[2 Kings 7#^2kgs-7-6|2 Kings 7:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 1
 slug: luke-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 1]] · My notes: [[Luke 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gabriel promises Zacharias that Elisabeth will bear a son, whom they will name John—He also tells Mary that she will be the mother of the Son of God—Mary visits Elisabeth and utters a psalm of praise—John the Baptist is born—Zacharias prophesies of John’s mission.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -46,11 +47,18 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 10]] — 2 footnote cross-references (from [[Luke 1#^luke-1-13|Luke 1:13]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Luke 1#^luke-1-15|Luke 1:15]])
+- [[D&C 27]] — 2 footnote cross-references (from [[Luke 1#^luke-1-17|Luke 1:17]])
+- [[Genesis 18]] — 2 footnote cross-references (from [[Luke 1#^luke-1-18|Luke 1:18]])
+- [[1 Nephi 11]] — 2 footnote cross-references (from [[Luke 1#^luke-1-27|Luke 1:27]])
+- [[Luke 11]] — 2 footnote cross-references (from [[Luke 1#^luke-1-48|Luke 1:48]])
 - [[D&C 110]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 98#^dc-98-16|D&C 98:16]]
 - [[Luke 2]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-80|Luke 1:80]] ↔ [[Luke 2#^luke-2-40|Luke 2:40]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-79|Luke 1:79]] ↔ [[Psalm 107#^ps-107-10|Psalm 107:10]]
+- [[2 Samuel 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

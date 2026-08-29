@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 14
 slug: alma-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 14]] · My notes: [[Alma 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma and Amulek are imprisoned and smitten—The believers and their holy scriptures are burned by fire—These martyrs are received by the Lord in glory—The prison walls are rent and fall—Alma and Amulek are delivered, and their persecutors are slain. About 82–81 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 15]] — 6 footnote cross-references (from [[Alma 14#^alma-14-6|Alma 14:6]])
+- [[Alma 10]] — 4 footnote cross-references (from [[Alma 14#^alma-14-2|Alma 14:2]])
+- [[Alma 11]] — 3 footnote cross-references (from [[Alma 14#^alma-14-5|Alma 14:5]])
+- [[Alma 8]] — 3 footnote cross-references (from [[Alma 14#^alma-14-10|Alma 14:10]])
+- [[Alma 12]] — 2 footnote cross-references (from [[Alma 14#^alma-14-2|Alma 14:2]])
+- [[Mosiah 17]] — 2 footnote cross-references (from [[Alma 14#^alma-14-11|Alma 14:11]])
 - [[Alma 15]] — 4 parallel verses, e.g. [[Alma 14#^alma-14-5|Alma 14:5]] ↔ [[Alma 15#^alma-15-15|Alma 15:15]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Alma 14#^alma-14-6|Alma 14:6]] ↔ [[Alma 20#^alma-20-27|Alma 20:27]]
 - [[Alma 35]] — 1 parallel verse, e.g. [[Alma 14#^alma-14-7|Alma 14:7]] ↔ [[Alma 35#^alma-35-6|Alma 35:6]]

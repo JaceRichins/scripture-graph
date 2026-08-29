@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 65
 slug: ps-65
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 65]] · My notes: [[Psalm 65 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David speaks of the blessedness of God’s chosen—The Lord sends rain and good things upon the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 1]] — 2 footnote cross-references (from [[Psalm 65#^ps-65-2|Psalm 65:2]])
+- [[2 Nephi 2]] — 1 footnote cross-reference (from [[Psalm 65#^ps-65-2|Psalm 65:2]])
+- [[Psalm 86]] — 1 footnote cross-reference (from [[Psalm 65#^ps-65-2|Psalm 65:2]])
+- [[Psalm 27]] — 1 footnote cross-reference (from [[Psalm 65#^ps-65-4|Psalm 65:4]])
+- [[Enos 1]] — 1 footnote cross-reference (from [[Psalm 65#^ps-65-4|Psalm 65:4]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[Psalm 65#^ps-65-4|Psalm 65:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

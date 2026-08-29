@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 12
 slug: 2chr-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 12]] · My notes: [[2 Chronicles 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Rehoboam forsakes the law of the Lord—The Egyptians plunder Jerusalem and take the treasures of the house of the Lord—The people repent and receive partial deliverance—Rehoboam dies.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Nahum 3]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-3|2 Chronicles 12:3]])
+- [[2 Chronicles 11]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-4|2 Chronicles 12:4]])
+- [[2 Chronicles 6]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]])
+- [[1 Kings 12]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-15|2 Chronicles 12:15]])
+- [[1 Kings 14]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]])
 - [[1 Kings 14]] — 8 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[2 Chronicles 36]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 13
 slug: matt-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 13]] · My notes: [[Matthew 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus explains why He teaches with parables—He gives the parables of the sower, the wheat and the tares, the grain of mustard seed, the leaven, the treasure hidden in the field, the pearl of great price, and the net cast into the sea—A prophet is not honored by his own people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 4]] — 2 footnote cross-references (from [[Matthew 13#^matt-13-1|Matthew 13:1]])
+- [[D&C 19]] — 2 footnote cross-references (from [[Matthew 13#^matt-13-11|Matthew 13:11]])
+- [[D&C 86]] — 2 footnote cross-references (from [[Matthew 13#^matt-13-24|Matthew 13:24]])
+- [[Jeremiah 4]] — 1 footnote cross-reference (from [[Matthew 13#^matt-13-7|Matthew 13:7]])
+- [[Daniel 12]] — 1 footnote cross-reference (from [[Matthew 13#^matt-13-10|Matthew 13:10]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Matthew 13#^matt-13-11|Matthew 13:11]])
 - [[Acts 28]] — 2 parallel verses, e.g. [[Matthew 13#^matt-13-15|Matthew 13:15]] ↔ [[Acts 28#^acts-28-27|Acts 28:27]]
 - [[Mark 4]] — 7 parallel verses, e.g. [[Matthew 13#^matt-13-12|Matthew 13:12]] ↔ [[Mark 4#^mark-4-25|Mark 4:25]]
 - [[Matthew 20]] — 5 parallel verses, e.g. [[Matthew 13#^matt-13-52|Matthew 13:52]] ↔ [[Matthew 20#^matt-20-1|Matthew 20:1]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 40
 slug: job-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 40]] · My notes: [[Job 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord challenges Job, and Job replies humbly—The Lord speaks of His power to Job—He asks, Hast thou an arm like God?—He points to His power in the behemoth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Job 40#^job-40-11|Job 40:11]])
+- [[2 Nephi 12]] — 1 footnote cross-reference (from [[Job 40#^job-40-11|Job 40:11]])
+- [[2 Nephi 23]] — 1 footnote cross-reference (from [[Job 40#^job-40-11|Job 40:11]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Job 40#^job-40-11|Job 40:11]])
 - [[Job 42]] — 2 parallel verses, e.g. [[Job 40#^job-40-7|Job 40:7]] ↔ [[Job 42#^job-42-4|Job 42:4]]
 <!-- SG:END related-scriptures -->
 

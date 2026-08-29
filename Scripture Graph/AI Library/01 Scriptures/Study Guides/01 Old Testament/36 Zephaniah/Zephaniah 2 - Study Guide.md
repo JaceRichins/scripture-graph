@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 2
 slug: zeph-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zephaniah 2]] · My notes: [[Zephaniah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 76]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]])
+- [[Zechariah 9]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-4|Zephaniah 2:4]])
+- [[Ezekiel 25]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-5|Zephaniah 2:5]])
+- [[Obadiah 1]] — 1 footnote cross-reference (from [[Zephaniah 2#^zeph-2-5|Zephaniah 2:5]])
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 35]] — 3 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
 - [[Jeremiah 44]] — 3 parallel verses, e.g. [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]] ↔ [[Jeremiah 44#^jer-44-2|Jeremiah 44:2]]

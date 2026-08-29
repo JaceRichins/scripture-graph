@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 8
 slug: ezra-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 8]] · My notes: [[Ezra 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Those who go up from Babylon to Jerusalem are listed—The Levites are called to accompany them—Ezra and the people fast and pray for and gain guidance and protection in going to Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezra 7]] — 2 footnote cross-references (from [[Ezra 8#^ezra-8-18|Ezra 8:18]])
+- [[Nehemiah 6]] — 1 footnote cross-reference (from [[Ezra 8#^ezra-8-16|Ezra 8:16]])
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[Ezra 8#^ezra-8-20|Ezra 8:20]])
+- [[Ezra 2]] — 1 footnote cross-reference (from [[Ezra 8#^ezra-8-20|Ezra 8:20]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Ezra 8#^ezra-8-21|Ezra 8:21]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Ezra 8#^ezra-8-21|Ezra 8:21]])
 - [[Joshua 6]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[Joshua 6#^josh-6-24|Joshua 6:24]]
 - [[1 Kings 7]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]]
 - [[Isaiah 39]] — 3 parallel verses, e.g. [[Ezra 8#^ezra-8-25|Ezra 8:25]] ↔ [[Isaiah 39#^isa-39-2|Isaiah 39:2]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 15
 slug: gen-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 15]] · My notes: [[Genesis 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Abram desires offspring—The Lord promises him seed in number as the stars—Abram believes the promise—His seed will be strangers in Egypt—Then, after four generations, they will inherit Canaan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 34]] — 2 footnote cross-references (from [[Genesis 15#^gen-15-10|Genesis 15:10]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Genesis 15#^gen-15-13|Genesis 15:13]])
+- [[Genesis 26]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-1|Genesis 15:1]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-1|Genesis 15:1]])
+- [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-2|Genesis 15:2]])
+- [[Genesis 14]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-3|Genesis 15:3]])
 - [[Deuteronomy 7]] — 1 parallel verse, e.g. [[Genesis 15#^gen-15-21|Genesis 15:21]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
 <!-- SG:END related-scriptures -->
 

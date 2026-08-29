@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 3
 slug: 1kgs-3
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ The final case is connected to the dream by both its placement and verse 28's ex
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

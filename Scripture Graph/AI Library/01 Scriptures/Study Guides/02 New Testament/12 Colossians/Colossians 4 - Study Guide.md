@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 4
 slug: col-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Colossians 4]] · My notes: [[Colossians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are told to be wise in all things—Luke and others greet the Colossians.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Philemon 1]] — 4 footnote cross-references (from [[Colossians 4#^col-4-9|Colossians 4:9]])
+- [[2 Timothy 4]] — 2 footnote cross-references (from [[Colossians 4#^col-4-10|Colossians 4:10]])
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Colossians 4#^col-4-1|Colossians 4:1]])
+- [[Ephesians 6]] — 1 footnote cross-reference (from [[Colossians 4#^col-4-1|Colossians 4:1]])
+- [[Matthew 23]] — 1 footnote cross-reference (from [[Colossians 4#^col-4-1|Colossians 4:1]])
+- [[1 Corinthians 16]] — 1 footnote cross-reference (from [[Colossians 4#^col-4-3|Colossians 4:3]])
 - [[Ephesians 6]] — 1 parallel verse, e.g. [[Colossians 4#^col-4-8|Colossians 4:8]] ↔ [[Ephesians 6#^eph-6-22|Ephesians 6:22]]
 <!-- SG:END related-scriptures -->
 

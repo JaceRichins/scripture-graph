@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 5
 slug: 2cor-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 5]] · My notes: [[2 Corinthians 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints walk by faith and seek tabernacles of immortal glory—The gospel reconciles man to God—God’s ministers carry the word of reconciliation to the world.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 27]] — 3 parallel verses, e.g. [[2 Corinthians 5#^2cor-5-10|2 Corinthians 5:10]] ↔ [[Leviticus 27#^lev-27-12|Leviticus 27:12]]
-- [[Mormon 3]] — 2 parallel verses, e.g. [[2 Corinthians 5#^2cor-5-10|2 Corinthians 5:10]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
+- [[Romans 8]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-2|2 Corinthians 5:2]])
+- [[Moroni 9]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-9|2 Corinthians 5:9]])
+- [[Romans 5]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-14|2 Corinthians 5:14]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-14|2 Corinthians 5:14]])
+- [[Romans 14]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-15|2 Corinthians 5:15]])
+- [[1 John 2]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-17|2 Corinthians 5:17]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

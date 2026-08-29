@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 36
 slug: ps-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 36]] · My notes: [[Psalm 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David praises the Lord for His mercy, His righteousness, and His loving kindness—The fountain of life is with the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 26]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
+- [[Mormon 6]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
+- [[Psalm 71]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
+- [[Abraham 2]] — 1 footnote cross-reference (from [[Psalm 36#^ps-36-5|Psalm 36:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

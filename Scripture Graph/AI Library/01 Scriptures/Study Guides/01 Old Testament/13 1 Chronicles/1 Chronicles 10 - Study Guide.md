@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 10
 slug: 1chr-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 10]] · My notes: [[1 Chronicles 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Philistines defeat Israel—Saul dies for his transgressions.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 31]] — 2 footnote cross-references (from [[1 Chronicles 10#^1chr-10-1|1 Chronicles 10:1]])
+- [[2 Samuel 1]] — 1 footnote cross-reference (from [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]])
+- [[2 Samuel 4]] — 1 footnote cross-reference (from [[1 Chronicles 10#^1chr-10-13|1 Chronicles 10:13]])
+- [[1 Samuel 13]] — 1 footnote cross-reference (from [[1 Chronicles 10#^1chr-10-14|1 Chronicles 10:14]])
 - [[1 Samuel 31]] — 11 parallel verses, e.g. [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]] ↔ [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]]
 <!-- SG:END related-scriptures -->
 

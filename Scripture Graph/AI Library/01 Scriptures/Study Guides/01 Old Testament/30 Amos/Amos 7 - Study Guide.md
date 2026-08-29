@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 7
 slug: amos-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Amos 7]] · My notes: [[Amos 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amos relates how he was called of God to be a prophet—He prophesies the captivity of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 6]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-3|Amos 7:3]])
+- [[Numbers 23]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-3|Amos 7:3]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-8|Amos 7:8]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-9|Amos 7:9]])
+- [[Amos 1]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-10|Amos 7:10]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-14|Amos 7:14]])
 - [[Amos 8]] — 3 parallel verses, e.g. [[Amos 7#^amos-7-8|Amos 7:8]] ↔ [[Amos 8#^amos-8-2|Amos 8:2]]
 <!-- SG:END related-scriptures -->
 

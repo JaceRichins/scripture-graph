@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 1
 slug: zeph-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zephaniah 1]] · My notes: [[Zephaniah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 101]] — 2 footnote cross-references (from [[Zephaniah 1#^zeph-1-2|Zephaniah 1:2]])
+- [[2 Kings 21]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-1|Zephaniah 1:1]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-2|Zephaniah 1:2]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-2|Zephaniah 1:2]])
+- [[Ezekiel 7]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-3|Zephaniah 1:3]])
+- [[2 Nephi 19]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]])
 - [[Jeremiah 1]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-1|Zephaniah 1:1]] ↔ [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]] ↔ [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]]
 - [[Zephaniah 2]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]] ↔ [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]]

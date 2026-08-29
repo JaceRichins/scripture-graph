@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 8
 slug: alma-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 8]] · My notes: [[Alma 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma preaches and baptizes in Melek—He is rejected in Ammonihah and leaves—An angel commands him to return and cry repentance unto the people—He is received by Amulek, and the two of them preach in Ammonihah. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 10]] — 6 footnote cross-references (from [[Alma 8#^alma-8-14|Alma 8:14]])
+- [[Alma 9]] — 3 footnote cross-references (from [[Alma 8#^alma-8-6|Alma 8:6]])
+- [[Alma 6]] — 2 footnote cross-references (from [[Alma 8#^alma-8-1|Alma 8:1]])
+- [[Alma 14]] — 2 footnote cross-references (from [[Alma 8#^alma-8-31|Alma 8:31]])
+- [[Alma 2]] — 1 footnote cross-reference (from [[Alma 8#^alma-8-1|Alma 8:1]])
+- [[Alma 31]] — 1 footnote cross-reference (from [[Alma 8#^alma-8-3|Alma 8:3]])
 - [[Alma 9]] — 3 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[Alma 9#^alma-9-1|Alma 9:1]]
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 8#^alma-8-3|Alma 8:3]] ↔ [[Alma 43#^alma-43-27|Alma 43:27]]
 - [[Alma 4]] — 3 parallel verses, e.g. [[Alma 8#^alma-8-24|Alma 8:24]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]

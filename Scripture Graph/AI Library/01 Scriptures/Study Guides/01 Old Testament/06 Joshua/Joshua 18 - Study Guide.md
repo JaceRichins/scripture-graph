@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 18
 slug: josh-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 18]] · My notes: [[Joshua 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The tabernacle of the congregation is set up at Shiloh—Benjamin receives an inheritance by lot.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 7]] — 2 footnote cross-references (from [[Joshua 18#^josh-18-1|Joshua 18:1]])
+- [[Joshua 15]] — 2 footnote cross-references (from [[Joshua 18#^josh-18-17|Joshua 18:17]])
+- [[Judges 20]] — 1 footnote cross-reference (from [[Joshua 18#^josh-18-1|Joshua 18:1]])
+- [[1 Samuel 1]] — 1 footnote cross-reference (from [[Joshua 18#^josh-18-1|Joshua 18:1]])
+- [[1 Samuel 3]] — 1 footnote cross-reference (from [[Joshua 18#^josh-18-1|Joshua 18:1]])
+- [[Judges 11]] — 1 footnote cross-reference (from [[Joshua 18#^josh-18-5|Joshua 18:5]])
 - [[Numbers 10]] — 17 parallel verses, e.g. [[Joshua 18#^josh-18-11|Joshua 18:11]] ↔ [[Numbers 10#^num-10-24|Numbers 10:24]]
 - [[Numbers 34]] — 15 parallel verses, e.g. [[Joshua 18#^josh-18-7|Joshua 18:7]] ↔ [[Numbers 34#^num-34-14|Numbers 34:14]]
 - [[Joshua 15]] — 12 parallel verses, e.g. [[Joshua 18#^josh-18-16|Joshua 18:16]] ↔ [[Joshua 15#^josh-15-8|Joshua 15:8]]

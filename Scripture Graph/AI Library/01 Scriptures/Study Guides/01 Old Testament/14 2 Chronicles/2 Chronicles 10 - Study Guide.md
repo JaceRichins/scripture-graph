@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 10
 slug: 2chr-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 10]] · My notes: [[2 Chronicles 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people request relief, but Rehoboam promises to increase the burdens upon the people—Israel rebels and the kingdom is divided.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 12]] — 1 footnote cross-reference (from [[2 Chronicles 10#^2chr-10-1|2 Chronicles 10:1]])
 - [[1 Kings 12]] — 18 parallel verses, e.g. [[2 Chronicles 10#^2chr-10-10|2 Chronicles 10:10]] ↔ [[1 Kings 12#^1kgs-12-10|1 Kings 12:10]]
 - [[2 Samuel 20]] — 1 parallel verse, e.g. [[2 Chronicles 10#^2chr-10-16|2 Chronicles 10:16]] ↔ [[2 Samuel 20#^2sam-20-1|2 Samuel 20:1]]
 <!-- SG:END related-scriptures -->

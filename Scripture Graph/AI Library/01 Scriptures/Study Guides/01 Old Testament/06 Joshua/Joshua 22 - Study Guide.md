@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 22
 slug: josh-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 22]] · My notes: [[Joshua 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The 2½ tribes are dismissed with a blessing—They build an altar of testimony by the Jordan to show they are the Lord’s people—It is not an altar for sacrifices or burnt offerings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 5]] — 2 footnote cross-references (from [[Joshua 22#^josh-22-1|Joshua 22:1]])
+- [[Joshua 18]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-1|Joshua 22:1]])
+- [[Joshua 21]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-4|Joshua 22:4]])
+- [[Joshua 23]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-4|Joshua 22:4]])
+- [[Numbers 32]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-4|Joshua 22:4]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-5|Joshua 22:5]])
 - [[Numbers 32]] — 26 parallel verses, e.g. [[Joshua 22#^josh-22-31|Joshua 22:31]] ↔ [[Numbers 32#^num-32-33|Numbers 32:33]]
 - [[Joshua 4]] — 6 parallel verses, e.g. [[Joshua 22#^josh-22-9|Joshua 22:9]] ↔ [[Joshua 4#^josh-4-12|Joshua 4:12]]
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 22#^josh-22-5|Joshua 22:5]] ↔ [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]]

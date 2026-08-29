@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 27
 slug: acts-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 27]] · My notes: [[Acts 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul, in a perilous voyage, travels toward Rome—An angel comforts him—He uses the gift of seership—He is shipwrecked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Luke 24]] — 2 parallel verses, e.g. [[Acts 27#^acts-27-35|Acts 27:35]] ↔ [[Luke 24#^luke-24-40|Luke 24:40]]
+- [[Acts 19]] — 1 footnote cross-reference (from [[Acts 27#^acts-27-2|Acts 27:2]])
+- [[Acts 20]] — 1 footnote cross-reference (from [[Acts 27#^acts-27-2|Acts 27:2]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[Acts 27#^acts-27-2|Acts 27:2]])
+- [[Leviticus 23]] — 1 footnote cross-reference (from [[Acts 27#^acts-27-9|Acts 27:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 11
 slug: 2kgs-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 11]] · My notes: [[2 Kings 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Athaliah destroys the royal family in Judah and reigns herself in Judah—Joash is preserved and crowned king when seven years old—Jehoiada the priest destroys the house of Baal.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Chronicles 23]] — 3 footnote cross-references (from [[2 Kings 11#^2kgs-11-4|2 Kings 11:4]])
+- [[2 Chronicles 22]] — 1 footnote cross-reference (from [[2 Kings 11#^2kgs-11-1|2 Kings 11:1]])
+- [[1 Chronicles 9]] — 1 footnote cross-reference (from [[2 Kings 11#^2kgs-11-5|2 Kings 11:5]])
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[2 Kings 11#^2kgs-11-10|2 Kings 11:10]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[2 Kings 11#^2kgs-11-12|2 Kings 11:12]])
+- [[2 Kings 23]] — 1 footnote cross-reference (from [[2 Kings 11#^2kgs-11-14|2 Kings 11:14]])
 - [[2 Chronicles 23]] — 16 parallel verses, e.g. [[2 Kings 11#^2kgs-11-9|2 Kings 11:9]] ↔ [[2 Chronicles 23#^2chr-23-8|2 Chronicles 23:8]]
 - [[2 Chronicles 22]] — 2 parallel verses, e.g. [[2 Kings 11#^2kgs-11-1|2 Kings 11:1]] ↔ [[2 Chronicles 22#^2chr-22-10|2 Chronicles 22:10]]
 <!-- SG:END related-scriptures -->

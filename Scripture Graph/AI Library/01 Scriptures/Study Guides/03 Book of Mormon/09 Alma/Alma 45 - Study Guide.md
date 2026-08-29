@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 45
 slug: alma-45
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 45]] · My notes: [[Alma 45 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Helaman believes the words of Alma—Alma prophesies the destruction of the Nephites—He blesses and curses the land—Alma may have been taken up by the Spirit, even as Moses—Dissension grows in the Church. About 73 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 37]] — 2 footnote cross-references (from [[Alma 45#^alma-45-2|Alma 45:2]])
+- [[Alma 48]] — 2 footnote cross-references (from [[Alma 45#^alma-45-8|Alma 45:8]])
+- [[Helaman 13]] — 2 footnote cross-references (from [[Alma 45#^alma-45-10|Alma 45:10]])
+- [[Alma 46]] — 2 footnote cross-references (from [[Alma 45#^alma-45-15|Alma 45:15]])
+- [[Alma 62]] — 2 footnote cross-references (from [[Alma 45#^alma-45-15|Alma 45:15]])
+- [[Alma 50]] — 1 footnote cross-reference (from [[Alma 45#^alma-45-2|Alma 45:2]])
 - [[Alma 2]] — 4 parallel verses, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
 - [[Alma 62]] — 3 parallel verses, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
 - [[Alma 46]] — 3 parallel verses, e.g. [[Alma 45#^alma-45-22|Alma 45:22]] ↔ [[Alma 46#^alma-46-36|Alma 46:36]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 106
 slug: ps-106
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 106]] · My notes: [[Psalm 106 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise the Lord for His mercy and mighty works—Israel rebelled and did wickedly—Moses mediated between Israel and the Lord—Israel was scattered and slain for worshipping false gods.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 14]] — 3 footnote cross-references (from [[Psalm 106#^ps-106-7|Psalm 106:7]])
+- [[Jeremiah 14]] — 2 footnote cross-references (from [[Psalm 106#^ps-106-6|Psalm 106:6]])
+- [[Numbers 16]] — 2 footnote cross-references (from [[Psalm 106#^ps-106-17|Psalm 106:17]])
+- [[Exodus 32]] — 2 footnote cross-references (from [[Psalm 106#^ps-106-19|Psalm 106:19]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 106#^ps-106-1|Psalm 106:1]])
+- [[Jacob 4]] — 1 footnote cross-reference (from [[Psalm 106#^ps-106-2|Psalm 106:2]])
 - [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Psalm 136]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]

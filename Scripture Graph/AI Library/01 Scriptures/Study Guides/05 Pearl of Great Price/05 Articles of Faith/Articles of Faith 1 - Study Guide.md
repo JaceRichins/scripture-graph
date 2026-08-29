@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Articles of Faith
 chapter: 1
 slug: aoff-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 20
 slug: luke-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 20]] · My notes: [[Luke 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The chief priests oppose Jesus—He gives the parable of the wicked husbandmen—Render unto Cæsar and God that which is theirs—Jesus teaches the law of marriage.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 12]] — 2 footnote cross-references (from [[Luke 20#^luke-20-20|Luke 20:20]])
+- [[D&C 58]] — 2 footnote cross-references (from [[Luke 20#^luke-20-22|Luke 20:22]])
+- [[Alma 10]] — 2 footnote cross-references (from [[Luke 20#^luke-20-23|Luke 20:23]])
+- [[D&C 132]] — 2 footnote cross-references (from [[Luke 20#^luke-20-35|Luke 20:35]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Luke 20#^luke-20-6|Luke 20:6]])
+- [[Matthew 14]] — 1 footnote cross-reference (from [[Luke 20#^luke-20-6|Luke 20:6]])
 - [[Mark 12]] — 15 parallel verses, e.g. [[Luke 20#^luke-20-28|Luke 20:28]] ↔ [[Mark 12#^mark-12-19|Mark 12:19]]
 - [[Matthew 21]] — 10 parallel verses, e.g. [[Luke 20#^luke-20-18|Luke 20:18]] ↔ [[Matthew 21#^matt-21-44|Matthew 21:44]]
 - [[Matthew 22]] — 9 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]

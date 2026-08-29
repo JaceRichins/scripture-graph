@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 25
 slug: alma-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 25]] · My notes: [[Alma 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lamanite aggressions spread—The seed of the priests of Noah perish as Abinadi prophesied—Many Lamanites are converted and join the people of Anti-Nephi-Lehi—They believe in Christ and keep the law of Moses. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 24]] — 4 footnote cross-references (from [[Alma 25#^alma-25-1|Alma 25:1]])
+- [[Alma 27]] — 3 footnote cross-references (from [[Alma 25#^alma-25-1|Alma 25:1]])
+- [[Mosiah 17]] — 3 footnote cross-references (from [[Alma 25#^alma-25-5|Alma 25:5]])
+- [[Mosiah 13]] — 3 footnote cross-references (from [[Alma 25#^alma-25-10|Alma 25:10]])
+- [[Alma 21]] — 2 footnote cross-references (from [[Alma 25#^alma-25-6|Alma 25:6]])
+- [[Alma 26]] — 2 footnote cross-references (from [[Alma 25#^alma-25-6|Alma 25:6]])
 - [[Mosiah 6]] — 1 parallel verse, e.g. [[Alma 25#^alma-25-14|Alma 25:14]] ↔ [[Mosiah 6#^mosiah-6-6|Mosiah 6:6]]
 - [[Alma 27]] — 2 parallel verses, e.g. [[Alma 25#^alma-25-13|Alma 25:13]] ↔ [[Alma 27#^alma-27-21|Alma 27:21]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 25#^alma-25-2|Alma 25:2]] ↔ [[Alma 50#^alma-50-9|Alma 50:9]]

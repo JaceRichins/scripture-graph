@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 8
 slug: matt-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 8]] · My notes: [[Matthew 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus heals a leper, cures the centurion’s servant and others, stills the tempest, and casts out devils—The devils enter a herd of swine.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 4]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-6|Matthew 8:6]])
+- [[3 Nephi 17]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-10|Matthew 8:10]])
+- [[Luke 13]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
+- [[2 Nephi 10]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
 - [[Luke 7]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-9|Matthew 8:9]] ↔ [[Luke 7#^luke-7-8|Luke 7:8]]
 - [[Luke 5]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-3|Matthew 8:3]] ↔ [[Luke 5#^luke-5-13|Luke 5:13]]
 - [[Mark 1]] — 4 parallel verses, e.g. [[Matthew 8#^matt-8-4|Matthew 8:4]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]

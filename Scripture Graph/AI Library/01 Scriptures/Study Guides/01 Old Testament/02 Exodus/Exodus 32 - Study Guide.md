@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 32
 slug: ex-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron makes a golden calf, which Israel worships—Moses serves as a mediator between God and rebellious Israel—Moses breaks the tablets of stone—The Levites slay about 3,000 rebels—Moses pleads and intercedes for the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 9]] — 13 footnote cross-references (from [[Exodus 32#^ex-32-1|Exodus 32:1]])
+- [[Exodus 24]] — 4 footnote cross-references (from [[Exodus 32#^ex-32-1|Exodus 32:1]])
+- [[Exodus 34]] — 3 footnote cross-references (from [[Exodus 32#^ex-32-1|Exodus 32:1]])
+- [[Acts 7]] — 3 footnote cross-references (from [[Exodus 32#^ex-32-1|Exodus 32:1]])
+- [[Genesis 6]] — 3 footnote cross-references (from [[Exodus 32#^ex-32-7|Exodus 32:7]])
+- [[D&C 84]] — 3 footnote cross-references (from [[Exodus 32#^ex-32-8|Exodus 32:8]])
 - [[Deuteronomy 9]] — 8 parallel verses, e.g. [[Exodus 32#^ex-32-8|Exodus 32:8]] ↔ [[Deuteronomy 9#^deut-9-12|Deuteronomy 9:12]]
 - [[Acts 7]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-1|Exodus 32:1]] ↔ [[Acts 7#^acts-7-40|Acts 7:40]]
 - [[1 Kings 12]] — 2 parallel verses, e.g. [[Exodus 32#^ex-32-4|Exodus 32:4]] ↔ [[1 Kings 12#^1kgs-12-28|1 Kings 12:28]]

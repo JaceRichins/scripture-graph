@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 34
 slug: gen-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 34]] · My notes: [[Genesis 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Shechem defiles Dinah—The Hivites seek to arrange marriages with Jacob’s family—Many, having been circumcised, are slain by Simeon and Levi—Jacob reproves his sons.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 49]] — 3 footnote cross-references (from [[Genesis 34#^gen-34-7|Genesis 34:7]])
+- [[Judges 9]] — 1 footnote cross-reference (from [[Genesis 34#^gen-34-2|Genesis 34:2]])
+- [[Genesis 20]] — 1 footnote cross-reference (from [[Genesis 34#^gen-34-10|Genesis 34:10]])
+- [[Mosiah 24]] — 1 footnote cross-reference (from [[Genesis 34#^gen-34-10|Genesis 34:10]])
+- [[4 Nephi 1]] — 1 footnote cross-reference (from [[Genesis 34#^gen-34-10|Genesis 34:10]])
+- [[Ether 10]] — 1 footnote cross-reference (from [[Genesis 34#^gen-34-10|Genesis 34:10]])
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Job 1]] — 2 parallel verses, e.g. [[Genesis 34#^gen-34-26|Genesis 34:26]] ↔ [[Job 1#^job-1-15|Job 1:15]]
 <!-- SG:END related-scriptures -->

@@ -13,11 +13,15 @@ cssclasses:
 
 [[Job 8|Plain text]] · [[Job 8 - Study Guide|Study guide]] · [[Job 8 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Bildad asks, Doth God pervert judgment?—Bildad says, Our days upon earth are a shadow, and God will not cast away a perfect man.
+
 ![[Job 8#^job-8-1]]
 
 ![[Job 8#^job-8-2]]
 
 ![[Job 8#^job-8-3]]
+> [[Alma 12#^alma-12-15|Alma 12:15]]
 
 ![[Job 8#^job-8-4]]
 
@@ -30,6 +34,7 @@ cssclasses:
 ![[Job 8#^job-8-8]]
 
 ![[Job 8#^job-8-9]]
+> [[Job 7#^job-7-6|Job 7:6]]
 
 ![[Job 8#^job-8-10]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 1
 slug: gen-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 1]] · My notes: [[Genesis 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Abraham 4]] — 19 footnote cross-references (from [[Genesis 1#^gen-1-1|Genesis 1:1]])
+- [[Moses 2]] — 17 footnote cross-references (from [[Genesis 1#^gen-1-1|Genesis 1:1]])
+- [[D&C 76]] — 4 footnote cross-references (from [[Genesis 1#^gen-1-1|Genesis 1:1]])
+- [[Moses 1]] — 3 footnote cross-references (from [[Genesis 1#^gen-1-1|Genesis 1:1]])
+- [[D&C 121]] — 2 footnote cross-references (from [[Genesis 1#^gen-1-1|Genesis 1:1]])
+- [[Alma 32]] — 2 footnote cross-references (from [[Genesis 1#^gen-1-4|Genesis 1:4]])
 - [[Moses 2]] — 74 parallel verses, e.g. [[Genesis 1#^gen-1-28|Genesis 1:28]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
 - [[Abraham 4]] — 32 parallel verses, e.g. [[Genesis 1#^gen-1-26|Genesis 1:26]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
 - [[Genesis 7]] — 6 parallel verses, e.g. [[Genesis 1#^gen-1-25|Genesis 1:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]

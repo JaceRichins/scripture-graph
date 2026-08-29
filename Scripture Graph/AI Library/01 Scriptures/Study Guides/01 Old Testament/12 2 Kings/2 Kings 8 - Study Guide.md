@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 8
 slug: 2kgs-8
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -68,10 +68,10 @@ The chapter contains four principal movements: the restoration of a vulnerable h
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Covenants]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

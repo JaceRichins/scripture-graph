@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 13
 slug: 3ne-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 13]] · My notes: [[3 Nephi 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches the Nephites the Lord’s Prayer—They are to lay up treasures in heaven—The twelve disciples in their ministry are commanded to take no thought for temporal things—Compare Matthew 6. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 6]] — 6 footnote cross-references (from [[3 Nephi 13#^3ne-13-1|3 Nephi 13:1]])
+- [[D&C 84]] — 2 footnote cross-references (from [[3 Nephi 13#^3ne-13-8|3 Nephi 13:8]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-2|3 Nephi 13:2]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-6|3 Nephi 13:6]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-8|3 Nephi 13:8]])
+- [[Mosiah 26]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-14|3 Nephi 13:14]])
 - [[Matthew 6]] — 43 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
 - [[Luke 12]] — 6 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
 - [[Luke 16]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 40
 slug: isa-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 40]] · My notes: [[Isaiah 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks about the Messiah—Prepare ye the way of the Lord—He will feed His flock like a shepherd—Israel’s God is incomparably great.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 41]] — 2 footnote cross-references (from [[Isaiah 40#^isa-40-20|Isaiah 40:20]])
+- [[Jeremiah 16]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-2|Isaiah 40:2]])
+- [[Jeremiah 17]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-2|Isaiah 40:2]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
+- [[D&C 128]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
 - [[Luke 3]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-4|Isaiah 40:4]] ↔ [[Luke 3#^luke-3-5|Luke 3:5]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]

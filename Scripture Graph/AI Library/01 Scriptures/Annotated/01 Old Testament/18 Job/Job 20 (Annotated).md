@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 20|Plain text]] · [[Job 20 - Study Guide|Study guide]] · [[Job 20 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Zophar shows the condition of the wicked—He says, The triumphing of the wicked is short, and the joy of the hypocrite is but for a moment.
+
 ![[Job 20#^job-20-1]]
 
 ![[Job 20#^job-20-2]]

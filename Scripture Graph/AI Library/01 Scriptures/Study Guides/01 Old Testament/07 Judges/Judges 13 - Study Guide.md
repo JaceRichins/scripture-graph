@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 13]] · My notes: [[Judges 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is in Philistine bondage for forty years—An angel comes to Manoah’s wife and promises a son who will begin to deliver Israel—The angel comes again; he ascends in a flame from the altar—Samson is born, and the Spirit of the Lord moves upon him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 1]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-1|Judges 13:1]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-1|Judges 13:1]])
+- [[1 Samuel 4]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-1|Judges 13:1]])
+- [[Moroni 7]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-3|Judges 13:3]])
+- [[Numbers 6]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-5|Judges 13:5]])
+- [[Judges 16]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-5|Judges 13:5]])
 - [[Genesis 16]] — 9 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
 - [[Numbers 22]] — 7 parallel verses, e.g. [[Judges 13#^judg-13-18|Judges 13:18]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
 - [[Judges 6]] — 4 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]

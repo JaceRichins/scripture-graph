@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 95
 slug: ps-95
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 95]] · My notes: [[Psalm 95 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Let us sing unto the Lord—Let us worship and bow down before Him—Israel provoked the Lord and failed to enter into His rest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 16]] — 2 footnote cross-references (from [[Psalm 95#^ps-95-1|Psalm 95:1]])
+- [[Hebrews 3]] — 2 footnote cross-references (from [[Psalm 95#^ps-95-7|Psalm 95:7]])
+- [[Psalm 66]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-1|Psalm 95:1]])
+- [[2 Samuel 22]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-1|Psalm 95:1]])
+- [[Psalm 89]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-1|Psalm 95:1]])
+- [[Psalm 149]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-6|Psalm 95:6]])
 - [[Hebrews 3]] — 5 parallel verses, e.g. [[Psalm 95#^ps-95-10|Psalm 95:10]] ↔ [[Hebrews 3#^heb-3-10|Hebrews 3:10]]
 <!-- SG:END related-scriptures -->
 

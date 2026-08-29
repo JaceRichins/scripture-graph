@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 5
 slug: 2kgs-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 5]] · My notes: [[2 Kings 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Naaman, the Syrian, comes to Elisha to be healed of leprosy—He rejects the prophet’s instruction at first but relents and dips himself in the Jordan seven times; he is healed—Elisha refuses to accept a reward—Gehazi accepts a gift from Naaman and is cursed with leprosy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 37]] — 2 footnote cross-references (from [[2 Kings 5#^2kgs-5-13|2 Kings 5:13]])
+- [[1 Samuel 9]] — 1 footnote cross-reference (from [[2 Kings 5#^2kgs-5-5|2 Kings 5:5]])
+- [[Genesis 30]] — 1 footnote cross-reference (from [[2 Kings 5#^2kgs-5-7|2 Kings 5:7]])
+- [[1 Kings 20]] — 1 footnote cross-reference (from [[2 Kings 5#^2kgs-5-7|2 Kings 5:7]])
+- [[Alma 17]] — 1 footnote cross-reference (from [[2 Kings 5#^2kgs-5-8|2 Kings 5:8]])
+- [[John 9]] — 1 footnote cross-reference (from [[2 Kings 5#^2kgs-5-10|2 Kings 5:10]])
 - [[2 Kings 8]] — 2 parallel verses, e.g. [[2 Kings 5#^2kgs-5-14|2 Kings 5:14]] ↔ [[2 Kings 8#^2kgs-8-2|2 Kings 8:2]]
 <!-- SG:END related-scriptures -->
 

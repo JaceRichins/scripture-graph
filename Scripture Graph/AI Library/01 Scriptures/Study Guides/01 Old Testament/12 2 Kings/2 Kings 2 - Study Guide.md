@@ -61,11 +61,11 @@ The paired Jordan crossings provide the clearest structural correspondence: Elij
 - [[1 Samuel 25]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[1 Samuel 25#^1sam-25-26|1 Samuel 25:26]]
 - [[2 Samuel 11]] — 3 parallel verses, e.g. [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]] ↔ [[2 Samuel 11#^2sam-11-11|2 Samuel 11:11]]
 - [[Matthew 15]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-3|2 Kings 2:3]] ↔ [[Matthew 15#^matt-15-12|Matthew 15:12]]
+- [[2 Kings 13]] — 1 parallel verse, e.g. [[2 Kings 2#^2kgs-2-12|2 Kings 2:12]] ↔ [[2 Kings 13#^2kgs-13-14|2 Kings 13:14]]
 - [[2 Samuel 15]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 15#^2sam-15-21|2 Samuel 15:21]]
 - [[2 Samuel 14]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]
 - [[1 Kings 19]] — 0 parallel verses
 - [[Joshua 3]] — 0 parallel verses
-- [[2 Kings 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

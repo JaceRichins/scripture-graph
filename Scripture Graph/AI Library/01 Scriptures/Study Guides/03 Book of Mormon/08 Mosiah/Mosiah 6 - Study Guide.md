@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 6
 slug: mosiah-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 6]] · My notes: [[Mosiah 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Benjamin records the names of the people and appoints priests to teach them—Mosiah reigns as a righteous king. About 124–121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 128]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-1|Mosiah 6:1]])
+- [[Mosiah 1]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]])
+- [[Mosiah 5]] — 1 footnote cross-reference (from [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]])
 - [[Alma 25]] — 1 parallel verse, e.g. [[Mosiah 6#^mosiah-6-6|Mosiah 6:6]] ↔ [[Alma 25#^alma-25-14|Alma 25:14]]
 - [[Mosiah 4]] — 1 parallel verse, e.g. [[Mosiah 6#^mosiah-6-3|Mosiah 6:3]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
 - [[Mosiah 29]] — 1 parallel verse, e.g. [[Mosiah 6#^mosiah-6-6|Mosiah 6:6]] ↔ [[Mosiah 29#^mosiah-29-43|Mosiah 29:43]]

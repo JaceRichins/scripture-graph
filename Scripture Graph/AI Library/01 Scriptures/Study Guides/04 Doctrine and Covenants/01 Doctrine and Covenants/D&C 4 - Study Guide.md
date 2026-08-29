@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 4
 slug: dc-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 4]] · My notes: [[D&C 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, Valiant service saves the Lord’s ministers; 5–6, Godly attributes qualify them for the ministry; 7, The things of God must be sought after.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 11]] — 3 footnote cross-references (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[D&C 12]] — 2 footnote cross-references (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
 - [[D&C 11]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-1|D&C 4:1]] ↔ [[D&C 11#^dc-11-1|D&C 11:1]]
 - [[D&C 12]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-1|D&C 4:1]] ↔ [[D&C 12#^dc-12-1|D&C 12:1]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]

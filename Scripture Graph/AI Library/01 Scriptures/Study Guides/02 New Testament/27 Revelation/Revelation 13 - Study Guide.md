@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 13]] · My notes: [[Revelation 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John sees fierce-looking beasts that represent degenerate earthly kingdoms controlled by Satan—The devil works miracles and deceives men.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Revelation 17#^rev-17-8|Revelation 17:8]]
-- [[Alma 13]] — 3 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Alma 13#^alma-13-3|Alma 13:3]]
-- [[Ether 4]] — 3 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Ether 4#^ether-4-14|Ether 4:14]]
-- [[Revelation 6]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-5|Revelation 13:5]] ↔ [[Revelation 6#^rev-6-4|Revelation 6:4]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[Alma 12]] — 2 parallel verses, e.g. [[Revelation 13#^rev-13-8|Revelation 13:8]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
+- [[Daniel 7]] — 2 footnote cross-references (from [[Revelation 13#^rev-13-1|Revelation 13:1]])
+- [[Luke 4]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-2|Revelation 13:2]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
+- [[Revelation 19]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

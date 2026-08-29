@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 3
 slug: 2pet-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Peter 3]] · My notes: [[2 Peter 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Some in the latter days will doubt the Second Coming—The elements will melt at the coming of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Peter 1]] — 2 footnote cross-references (from [[2 Peter 3#^2pet-3-2|2 Peter 3:2]])
+- [[D&C 45]] — 2 footnote cross-references (from [[2 Peter 3#^2pet-3-4|2 Peter 3:4]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-1|2 Peter 3:1]])
+- [[Matthew 16]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-4|2 Peter 3:4]])
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-4|2 Peter 3:4]])
+- [[Genesis 7]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-6|2 Peter 3:6]])
 - [[Mormon 9]] — 2 parallel verses, e.g. [[2 Peter 3#^2pet-3-10|2 Peter 3:10]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
 <!-- SG:END related-scriptures -->
 

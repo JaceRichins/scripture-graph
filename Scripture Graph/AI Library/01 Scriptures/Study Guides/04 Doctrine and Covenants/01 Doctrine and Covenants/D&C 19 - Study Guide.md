@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 19
 slug: dc-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 19]] · My notes: [[D&C 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Christ has all power; 4–5, All men must repent or suffer; 6–12, Eternal punishment is God’s punishment; 13–20, Christ suffered for all, that they might not suffer if they would repent; 21–28, Preach the gospel of repentance; 29–41, Declare glad tidings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 58]] — 4 footnote cross-references (from [[D&C 19#^dc-19-5|D&C 19:5]])
+- [[D&C 29]] — 3 footnote cross-references (from [[D&C 19#^dc-19-3|D&C 19:3]])
+- [[Moses 1]] — 3 footnote cross-references (from [[D&C 19#^dc-19-4|D&C 19:4]])
+- [[D&C 76]] — 3 footnote cross-references (from [[D&C 19#^dc-19-6|D&C 19:6]])
+- [[D&C 68]] — 2 footnote cross-references (from [[D&C 19#^dc-19-1|D&C 19:1]])
+- [[D&C 75]] — 2 footnote cross-references (from [[D&C 19#^dc-19-1|D&C 19:1]])
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 19#^dc-19-7|D&C 19:7]] ↔ [[D&C 45#^dc-45-55|D&C 45:55]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[D&C 19#^dc-19-25|D&C 19:25]] ↔ [[Mosiah 13#^mosiah-13-24|Mosiah 13:24]]
 - [[D&C 55]] — 1 parallel verse, e.g. [[D&C 19#^dc-19-13|D&C 19:13]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]

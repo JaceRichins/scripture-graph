@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 24]] · My notes: [[Isaiah 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Men will transgress the law and break the everlasting covenant—At the Second Coming, they will be burned, the earth will reel, and the sun will be ashamed—Then the Lord will reign in Zion and in Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 13]] — 2 footnote cross-references (from [[Isaiah 24#^isa-24-1|Isaiah 24:1]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Isaiah 24#^isa-24-5|Isaiah 24:5]])
+- [[D&C 5]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-1|Isaiah 24:1]])
+- [[Ezekiel 7]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-2|Isaiah 24:2]])
+- [[Revelation 17]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-6|Isaiah 24:6]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-8|Isaiah 24:8]])
 - [[Jeremiah 48]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-18|Isaiah 24:18]] ↔ [[Jeremiah 48#^jer-48-44|Jeremiah 48:44]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 7
 slug: isa-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 7]] · My notes: [[Isaiah 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ephraim and Syria wage war against Judah—Christ will be born of a virgin—Compare 2 Nephi 17.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 8]] — 3 footnote cross-references (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
+- [[2 Kings 15]] — 2 footnote cross-references (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
+- [[2 Nephi 17]] — 1 footnote cross-reference (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
+- [[2 Kings 16]] — 1 footnote cross-reference (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
+- [[Isaiah 9]] — 1 footnote cross-reference (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
+- [[2 Chronicles 28]] — 1 footnote cross-reference (from [[Isaiah 7#^isa-7-1|Isaiah 7:1]])
 - [[2 Nephi 17]] — 28 parallel verses, e.g. [[Isaiah 7#^isa-7-1|Isaiah 7:1]] ↔ [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]]
 - [[Isaiah 27]] — 6 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[2 Nephi 24]] — 6 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]

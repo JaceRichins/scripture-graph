@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 38
 slug: job-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 38]] · My notes: [[Job 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God asks Job where he was when the foundations of the earth were laid, when the morning stars sang together, and when all the sons of God shouted for joy—The phenomena of nature show the greatness of God and the weakness of man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Job 40]] — 2 parallel verses, e.g. [[Job 38#^job-38-1|Job 38:1]] ↔ [[Job 40#^job-40-6|Job 40:6]]
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Job 38#^job-38-15|Job 38:15]])
+- [[D&C 34]] — 1 footnote cross-reference (from [[Job 38#^job-38-15|Job 38:15]])
+- [[Psalm 10]] — 1 footnote cross-reference (from [[Job 38#^job-38-15|Job 38:15]])
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[Job 38#^job-38-15|Job 38:15]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Job 38#^job-38-15|Job 38:15]])
+- [[Jeremiah 31]] — 1 footnote cross-reference (from [[Job 38#^job-38-33|Job 38:33]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

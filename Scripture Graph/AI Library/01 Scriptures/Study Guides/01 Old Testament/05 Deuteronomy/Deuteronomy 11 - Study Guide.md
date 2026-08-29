@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 11]] · My notes: [[Deuteronomy 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Thou shalt love and obey the Lord thy God—If the children of Israel obey, they will be blessed with rain and harvests and will drive out mighty nations—Israel must learn God’s laws and teach them—Blessings flow from obedience; cursings attend disobedience.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 6]] — 4 footnote cross-references (from [[Deuteronomy 11#^deut-11-1|Deuteronomy 11:1]])
+- [[Moroni 10]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-1|Deuteronomy 11:1]])
+- [[D&C 98]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-2|Deuteronomy 11:2]])
+- [[D&C 8]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-4|Deuteronomy 11:4]])
+- [[Exodus 20]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]])
+- [[Deuteronomy 28]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-14|Deuteronomy 11:14]])
 - [[Deuteronomy 6]] — 6 parallel verses, e.g. [[Deuteronomy 11#^deut-11-19|Deuteronomy 11:19]] ↔ [[Deuteronomy 6#^deut-6-7|Deuteronomy 6:7]]
 - [[Numbers 16]] — 5 parallel verses, e.g. [[Deuteronomy 11#^deut-11-6|Deuteronomy 11:6]] ↔ [[Numbers 16#^num-16-32|Numbers 16:32]]
 - [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 11#^deut-11-27|Deuteronomy 11:27]] ↔ [[Deuteronomy 4#^deut-4-2|Deuteronomy 4:2]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 8
 slug: song-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 8]] · My notes: [[Song of Solomon 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many waters cannot quench love.
 <!-- SG:END overview -->
 
 ## Structure & Setting

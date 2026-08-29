@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 3
 slug: gen-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 3]] · My notes: [[Genesis 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The serpent (Lucifer) deceives Eve—She and then Adam partake of the forbidden fruit—Her Seed (Christ) will bruise the serpent’s head—The roles of woman and of man are explained—Adam and Eve are cast out of the Garden of Eden—Adam presides—Eve becomes the mother of all living.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 4]] — 11 footnote cross-references (from [[Genesis 3#^gen-3-1|Genesis 3:1]])
+- [[Alma 12]] — 3 footnote cross-references (from [[Genesis 3#^gen-3-1|Genesis 3:1]])
+- [[Genesis 2]] — 3 footnote cross-references (from [[Genesis 3#^gen-3-3|Genesis 3:3]])
+- [[2 Nephi 2]] — 3 footnote cross-references (from [[Genesis 3#^gen-3-5|Genesis 3:5]])
+- [[Mosiah 16]] — 2 footnote cross-references (from [[Genesis 3#^gen-3-5|Genesis 3:5]])
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Genesis 3#^gen-3-1|Genesis 3:1]])
 - [[Moses 4]] — 25 parallel verses, e.g. [[Genesis 3#^gen-3-17|Genesis 3:17]] ↔ [[Moses 4#^moses-4-23|Moses 4:23]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Genesis 3#^gen-3-24|Genesis 3:24]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 100
 slug: ps-100
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 100]] · My notes: [[Psalm 100 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Serve the Lord with gladness, all who are His people—Be thankful unto Him and bless His name.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 98]] — 1 parallel verse, e.g. [[Psalm 100#^ps-100-1|Psalm 100:1]] ↔ [[Psalm 98#^ps-98-4|Psalm 98:4]]
-- [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Psalm 100#^ps-100-3|Psalm 100:3]] ↔ [[Deuteronomy 4#^deut-4-35|Deuteronomy 4:35]]
+- [[Ephesians 2]] — 1 footnote cross-reference (from [[Psalm 100#^ps-100-3|Psalm 100:3]])
+- [[Psalm 116]] — 1 footnote cross-reference (from [[Psalm 100#^ps-100-4|Psalm 100:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

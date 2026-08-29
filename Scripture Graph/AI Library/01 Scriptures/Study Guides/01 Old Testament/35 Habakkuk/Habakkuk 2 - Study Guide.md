@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 2
 slug: hab-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Habakkuk 2]] · My notes: [[Habakkuk 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord admonishes patience and promises that the just will live by faith—The earth will be filled with knowledge about God—Idols have no power.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 39]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-3|Habakkuk 2:3]])
+- [[Isaiah 33]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-8|Habakkuk 2:8]])
+- [[Jeremiah 51]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-13|Habakkuk 2:13]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]])
+- [[Isaiah 44]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-18|Habakkuk 2:18]])
+- [[Zephaniah 1]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-20|Habakkuk 2:20]])
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[Isaiah 11#^isa-11-9|Isaiah 11:9]]
 - [[2 Nephi 21]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]]

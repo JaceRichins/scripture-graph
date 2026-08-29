@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 1]] · My notes: [[2 Nephi 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi prophesies of a land of liberty—His seed will be scattered and smitten if they reject the Holy One of Israel—He exhorts his sons to put on the armor of righteousness. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[2 Nephi 1#^2ne-1-4|2 Nephi 1:4]])
+- [[Alma 9]] — 3 footnote cross-references (from [[2 Nephi 1#^2ne-1-4|2 Nephi 1:4]])
+- [[2 Nephi 5]] — 3 footnote cross-references (from [[2 Nephi 1#^2ne-1-16|2 Nephi 1:16]])
+- [[1 Nephi 16]] — 3 footnote cross-references (from [[2 Nephi 1#^2ne-1-24|2 Nephi 1:24]])
+- [[1 Nephi 18]] — 2 footnote cross-references (from [[2 Nephi 1#^2ne-1-2|2 Nephi 1:2]])
+- [[Ether 2]] — 2 footnote cross-references (from [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]])
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[1 Nephi 2]] — 5 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 31
 slug: 2ne-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 31]] · My notes: [[2 Nephi 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi tells why Christ was baptized—Men must follow Christ, be baptized, receive the Holy Ghost, and endure to the end to be saved—Repentance and baptism are the gate to the strait and narrow path—Eternal life comes to those who keep the commandments after baptism. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 31#^2ne-31-1|2 Nephi 31:1]])
+- [[2 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-1|2 Nephi 31:1]])
+- [[2 Nephi 32]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-3|2 Nephi 31:3]])
+- [[1 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-4|2 Nephi 31:4]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-9|2 Nephi 31:9]])
+- [[Matthew 8]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-10|2 Nephi 31:10]])
 - [[D&C 20]] — 3 parallel verses, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]] ↔ [[D&C 33#^dc-33-11|D&C 33:11]]
 - [[2 Nephi 32]] — 3 parallel verses, e.g. [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]] ↔ [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]]

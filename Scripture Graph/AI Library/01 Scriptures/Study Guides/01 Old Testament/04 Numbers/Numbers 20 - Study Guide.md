@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 20
 slug: num-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 20]] · My notes: [[Numbers 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Miriam dies—Moses smites a rock at Meribah and brings forth water—The king of Edom refuses to let Israel pass peacefully through his land—Aaron dies, and Eleazar becomes the high priest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 33]] — 2 footnote cross-references (from [[Numbers 20#^num-20-1|Numbers 20:1]])
+- [[Deuteronomy 33]] — 2 footnote cross-references (from [[Numbers 20#^num-20-3|Numbers 20:3]])
+- [[Exodus 17]] — 2 footnote cross-references (from [[Numbers 20#^num-20-8|Numbers 20:8]])
+- [[Deuteronomy 32]] — 2 footnote cross-references (from [[Numbers 20#^num-20-12|Numbers 20:12]])
+- [[Numbers 27]] — 1 footnote cross-reference (from [[Numbers 20#^num-20-1|Numbers 20:1]])
+- [[Exodus 4]] — 1 footnote cross-reference (from [[Numbers 20#^num-20-8|Numbers 20:8]])
 - [[Numbers 16]] — 4 parallel verses, e.g. [[Numbers 20#^num-20-2|Numbers 20:2]] ↔ [[Numbers 16#^num-16-3|Numbers 16:3]]
 - [[Numbers 27]] — 2 parallel verses, e.g. [[Numbers 20#^num-20-24|Numbers 20:24]] ↔ [[Numbers 27#^num-27-12|Numbers 27:12]]
 - [[D&C 3]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-17|Numbers 20:17]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]

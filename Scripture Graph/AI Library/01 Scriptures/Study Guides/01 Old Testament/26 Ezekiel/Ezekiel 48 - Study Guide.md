@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 48
 slug: ezek-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 48]] · My notes: [[Ezekiel 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The portions of land for the tribes are named—The gates of the city bear the names of the tribes—The name of the city will be The Lord Is There.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 45]] — 6 footnote cross-references (from [[Ezekiel 48#^ezek-48-10|Ezekiel 48:10]])
+- [[Ezekiel 47]] — 2 footnote cross-references (from [[Ezekiel 48#^ezek-48-4|Ezekiel 48:4]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Ezekiel 48#^ezek-48-11|Ezekiel 48:11]])
+- [[Revelation 21]] — 2 footnote cross-references (from [[Ezekiel 48#^ezek-48-31|Ezekiel 48:31]])
+- [[Numbers 2]] — 1 footnote cross-reference (from [[Ezekiel 48#^ezek-48-1|Ezekiel 48:1]])
+- [[Ether 13]] — 1 footnote cross-reference (from [[Ezekiel 48#^ezek-48-5|Ezekiel 48:5]])
 - [[Ezekiel 45]] — 4 parallel verses, e.g. [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]] ↔ [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]]
 - [[Ezekiel 41]] — 2 parallel verses, e.g. [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]] ↔ [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]]
 <!-- SG:END related-scriptures -->

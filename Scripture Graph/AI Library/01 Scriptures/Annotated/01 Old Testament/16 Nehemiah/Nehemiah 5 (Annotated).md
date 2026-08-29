@@ -13,6 +13,9 @@ cssclasses:
 
 [[Nehemiah 5|Plain text]] · [[Nehemiah 5 - Study Guide|Study guide]] · [[Nehemiah 5 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Many Jews are in bondage to their fellow Jews—At Nehemiah’s direction they are freed, their lands are restored, and the taking of usury is discontinued.
+
 ![[Nehemiah 5#^neh-5-1]]
 
 ![[Nehemiah 5#^neh-5-2]]
@@ -40,6 +43,7 @@ cssclasses:
 ![[Nehemiah 5#^neh-5-13]]
 
 ![[Nehemiah 5#^neh-5-14]]
+> [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]] · [[Mosiah 2#^mosiah-2-12|Mosiah 2:14 (12, 14)]]
 
 ![[Nehemiah 5#^neh-5-15]]
 

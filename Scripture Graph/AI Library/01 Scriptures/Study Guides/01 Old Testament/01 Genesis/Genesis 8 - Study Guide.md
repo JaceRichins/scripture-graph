@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 8
 slug: gen-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 8]] · My notes: [[Genesis 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Flood ceases—Noah sends forth a dove, which returns with an olive leaf—He releases all living things from the ark—He offers sacrifices—Seedtime, harvest, and seasons are ensured.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 7]] — 2 footnote cross-references (from [[Genesis 8#^gen-8-2|Genesis 8:2]])
+- [[Genesis 9]] — 2 footnote cross-references (from [[Genesis 8#^gen-8-17|Genesis 8:17]])
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 8#^gen-8-1|Genesis 8:1]])
+- [[1 Peter 3]] — 1 footnote cross-reference (from [[Genesis 8#^gen-8-1|Genesis 8:1]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Genesis 8#^gen-8-1|Genesis 8:1]])
+- [[Ether 13]] — 1 footnote cross-reference (from [[Genesis 8#^gen-8-3|Genesis 8:3]])
 - [[Genesis 7]] — 3 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Genesis 7#^gen-7-21|Genesis 7:21]]
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Genesis 8#^gen-8-17|Genesis 8:17]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 6]] — 1 parallel verse, e.g. [[Genesis 8#^gen-8-16|Genesis 8:16]] ↔ [[Genesis 6#^gen-6-18|Genesis 6:18]]

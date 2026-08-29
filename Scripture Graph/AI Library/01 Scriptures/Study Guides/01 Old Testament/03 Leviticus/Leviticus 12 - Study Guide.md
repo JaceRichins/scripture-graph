@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 12
 slug: lev-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 12]] · My notes: [[Leviticus 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals the law of purification of women after childbirth, including a sin offering.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 5]] — 1 footnote cross-reference (from [[Leviticus 12#^lev-12-8|Leviticus 12:8]])
+- [[Leviticus 15]] — 1 footnote cross-reference (from [[Leviticus 12#^lev-12-8|Leviticus 12:8]])
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 12#^lev-12-6|Leviticus 12:6]] ↔ [[Numbers 7#^num-7-15|Numbers 7:15]]
 - [[Leviticus 5]] — 6 parallel verses, e.g. [[Leviticus 12#^lev-12-8|Leviticus 12:8]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 - [[Leviticus 4]] — 5 parallel verses, e.g. [[Leviticus 12#^lev-12-2|Leviticus 12:2]] ↔ [[Leviticus 4#^lev-4-2|Leviticus 4:2]]

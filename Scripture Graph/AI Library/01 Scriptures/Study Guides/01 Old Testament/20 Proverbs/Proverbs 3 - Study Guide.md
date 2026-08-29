@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 3
 slug: prov-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 3]] · My notes: [[Proverbs 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Write mercy and truth upon the tablet of your heart—Trust in the Lord—Honor Him with your substance—Whom the Lord loves He corrects—Happy is the man who finds wisdom.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 3#^prov-3-3|Proverbs 3:3]] ↔ [[Proverbs 7#^prov-7-3|Proverbs 7:3]]
+- [[Proverbs 21]] — 2 footnote cross-references (from [[Proverbs 3#^prov-3-27|Proverbs 3:27]])
+- [[D&C 5]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-2|Proverbs 3:2]])
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-3|Proverbs 3:3]])
+- [[2 Corinthians 3]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-3|Proverbs 3:3]])
+- [[1 Samuel 2]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-4|Proverbs 3:4]])
+- [[2 Nephi 15]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-7|Proverbs 3:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

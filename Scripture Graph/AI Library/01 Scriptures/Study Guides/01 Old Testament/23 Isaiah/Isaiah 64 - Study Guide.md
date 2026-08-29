@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 64]] · My notes: [[Isaiah 64 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of the Lord pray for the Second Coming and for the salvation that will then be theirs.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 133]] — 3 footnote cross-references (from [[Isaiah 64#^isa-64-1|Isaiah 64:1]])
+- [[Isaiah 63]] — 2 footnote cross-references (from [[Isaiah 64#^isa-64-8|Isaiah 64:8]])
+- [[Revelation 16]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-1|Isaiah 64:1]])
+- [[D&C 34]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-2|Isaiah 64:2]])
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-3|Isaiah 64:3]])
+- [[Micah 1]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-3|Isaiah 64:3]])
 - [[D&C 133]] — 3 parallel verses, e.g. [[Isaiah 64#^isa-64-4|Isaiah 64:4]] ↔ [[D&C 133#^dc-133-45|D&C 133:45]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 21
 slug: 1ne-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 21]] · My notes: [[1 Nephi 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Messiah will be a light to the Gentiles and will free the prisoners—Israel will be gathered with power in the last days—Kings will be their nursing fathers—Compare Isaiah 49. About 588–570 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 22]] — 5 footnote cross-references (from [[1 Nephi 21#^1ne-21-1|1 Nephi 21:1]])
+- [[3 Nephi 21]] — 3 footnote cross-references (from [[1 Nephi 21#^1ne-21-6|1 Nephi 21:6]])
+- [[D&C 133]] — 3 footnote cross-references (from [[1 Nephi 21#^1ne-21-11|1 Nephi 21:11]])
+- [[Isaiah 49]] — 2 footnote cross-references (from [[1 Nephi 21#^1ne-21-1|1 Nephi 21:1]])
+- [[2 Nephi 10]] — 2 footnote cross-references (from [[1 Nephi 21#^1ne-21-1|1 Nephi 21:1]])
+- [[Isaiah 41]] — 2 footnote cross-references (from [[1 Nephi 21#^1ne-21-3|1 Nephi 21:3]])
 - [[Isaiah 49]] — 26 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[2 Nephi 6]] — 5 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
 - [[Isaiah 60]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]

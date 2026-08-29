@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 20
 slug: alma-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 20]] · My notes: [[Alma 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord sends Ammon to Middoni to deliver his imprisoned brethren—Ammon and Lamoni meet Lamoni’s father, who is king over all the land—Ammon compels the old king to approve the release of his brethren. About 90 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 22]] — 5 footnote cross-references (from [[Alma 20#^alma-20-4|Alma 20:4]])
+- [[Alma 21]] — 3 footnote cross-references (from [[Alma 20#^alma-20-2|Alma 20:2]])
+- [[Alma 18]] — 2 footnote cross-references (from [[Alma 20#^alma-20-6|Alma 20:6]])
+- [[Alma 17]] — 2 footnote cross-references (from [[Alma 20#^alma-20-14|Alma 20:14]])
+- [[2 Nephi 5]] — 1 footnote cross-reference (from [[Alma 20#^alma-20-1|Alma 20:1]])
+- [[Alma 2]] — 1 footnote cross-reference (from [[Alma 20#^alma-20-1|Alma 20:1]])
 - [[Alma 18]] — 3 parallel verses, e.g. [[Alma 20#^alma-20-8|Alma 20:8]] ↔ [[Alma 18#^alma-18-9|Alma 18:9]]
 - [[Alma 14]] — 2 parallel verses, e.g. [[Alma 20#^alma-20-27|Alma 20:27]] ↔ [[Alma 14#^alma-14-6|Alma 14:6]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Alma 20#^alma-20-2|Alma 20:2]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]

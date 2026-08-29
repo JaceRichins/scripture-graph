@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 10]] · My notes: [[John 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is the Good Shepherd—He gained power over death from His Father—He promises to visit His other sheep—He proclaims, I am the Son of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 5]] — 2 footnote cross-references (from [[John 10#^john-10-25|John 10:25]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[John 10#^john-10-3|John 10:3]])
+- [[Isaiah 55]] — 1 footnote cross-reference (from [[John 10#^john-10-3|John 10:3]])
+- [[John 14]] — 1 footnote cross-reference (from [[John 10#^john-10-7|John 10:7]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[John 10#^john-10-10|John 10:10]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[John 10#^john-10-11|John 10:11]])
 - [[3 Nephi 15]] — 2 parallel verses, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
 <!-- SG:END related-scriptures -->

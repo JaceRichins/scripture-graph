@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 3
 slug: mal-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Malachi 3]] · My notes: [[Malachi 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 24]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-1|Malachi 3:1]])
+- [[D&C 35]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-1|Malachi 3:1]])
+- [[D&C 109]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-4|Malachi 3:4]])
+- [[D&C 64]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-10|Malachi 3:10]])
+- [[D&C 85]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-11|Malachi 3:11]])
+- [[D&C 101]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-17|Malachi 3:17]])
 - [[3 Nephi 24]] — 18 parallel verses, e.g. [[Malachi 3#^mal-3-5|Malachi 3:5]] ↔ [[3 Nephi 24#^3ne-24-5|3 Nephi 24:5]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Malachi 3#^mal-3-3|Malachi 3:3]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
 <!-- SG:END related-scriptures -->

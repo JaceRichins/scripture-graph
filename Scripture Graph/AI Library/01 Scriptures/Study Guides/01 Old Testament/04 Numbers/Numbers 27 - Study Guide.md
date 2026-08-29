@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 27
 slug: num-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 27]] · My notes: [[Numbers 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The law of inheritances to sons, daughters, and kinsmen is explained—Moses will see but not enter the promised land—Joshua is called and set apart to lead Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 32]] — 2 footnote cross-references (from [[Numbers 27#^num-27-12|Numbers 27:12]])
+- [[Numbers 36]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-7|Numbers 27:7]])
+- [[Joshua 17]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-7|Numbers 27:7]])
+- [[Numbers 20]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-14|Numbers 27:14]])
+- [[Articles of Faith 1]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-16|Numbers 27:16]])
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-18|Numbers 27:18]])
 - [[Joshua 17]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
 - [[Numbers 36]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-22|Numbers 27:22]] ↔ [[Leviticus 8#^lev-8-4|Leviticus 8:4]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 16]] · My notes: [[1 Corinthians 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul counsels, Stand fast in the faith; let all things be done with charity.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Corinthians 1]] — 2 footnote cross-references (from [[1 Corinthians 16#^1cor-16-7|1 Corinthians 16:7]])
+- [[Acts 18]] — 2 footnote cross-references (from [[1 Corinthians 16#^1cor-16-12|1 Corinthians 16:12]])
+- [[Acts 24]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-1|1 Corinthians 16:1]])
+- [[Deuteronomy 16]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-9|1 Corinthians 16:9]])
+- [[1 Thessalonians 3]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-10|1 Corinthians 16:10]])
 - [[Romans 16]] — 3 parallel verses, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]

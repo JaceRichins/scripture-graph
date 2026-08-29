@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 5
 slug: james-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[James 5]] · My notes: [[James 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Misery awaits the wanton rich—Await the Lord’s coming with patience—The elders are to anoint and heal the sick.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Timothy 6]] — 1 footnote cross-reference (from [[James 5#^james-5-3|James 5:3]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[James 5#^james-5-3|James 5:3]])
+- [[D&C 56]] — 1 footnote cross-reference (from [[James 5#^james-5-3|James 5:3]])
+- [[Jeremiah 22]] — 1 footnote cross-reference (from [[James 5#^james-5-4|James 5:4]])
+- [[2 Nephi 31]] — 1 footnote cross-reference (from [[James 5#^james-5-8|James 5:8]])
+- [[D&C 106]] — 1 footnote cross-reference (from [[James 5#^james-5-8|James 5:8]])
 - [[D&C 98]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
 <!-- SG:END related-scriptures -->
 

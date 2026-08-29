@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 12
 slug: ezek-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 12]] · My notes: [[Ezekiel 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel makes himself a symbol of the scattering of the people of Judah from Jerusalem—He then prophesies their scattering among all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 24]] — 3 footnote cross-references (from [[Ezekiel 12#^ezek-12-6|Ezekiel 12:6]])
+- [[Ezekiel 17]] — 3 footnote cross-references (from [[Ezekiel 12#^ezek-12-9|Ezekiel 12:9]])
+- [[Ezekiel 2]] — 1 footnote cross-reference (from [[Ezekiel 12#^ezek-12-2|Ezekiel 12:2]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[Ezekiel 12#^ezek-12-2|Ezekiel 12:2]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Ezekiel 12#^ezek-12-2|Ezekiel 12:2]])
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[Ezekiel 12#^ezek-12-9|Ezekiel 12:9]])
 - [[Ezekiel 20]] — 5 parallel verses, e.g. [[Ezekiel 12#^ezek-12-8|Ezekiel 12:8]] ↔ [[Ezekiel 20#^ezek-20-2|Ezekiel 20:2]]
 - [[Ezekiel 17]] — 1 parallel verse, e.g. [[Ezekiel 12#^ezek-12-13|Ezekiel 12:13]] ↔ [[Ezekiel 17#^ezek-17-20|Ezekiel 17:20]]
 - [[Ezekiel 30]] — 3 parallel verses, e.g. [[Ezekiel 12#^ezek-12-15|Ezekiel 12:15]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]

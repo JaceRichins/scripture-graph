@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 2]] · My notes: [[Acts 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Spirit is poured out on the day of Pentecost—Peter testifies of Jesus’ resurrection—He tells how to gain salvation and speaks of the gift of the Holy Ghost—Many believe and are baptized.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 4]] — 3 footnote cross-references (from [[Acts 2#^acts-2-4|Acts 2:4]])
+- [[D&C 109]] — 2 footnote cross-references (from [[Acts 2#^acts-2-2|Acts 2:2]])
+- [[Acts 13]] — 2 footnote cross-references (from [[Acts 2#^acts-2-10|Acts 2:10]])
+- [[1 Corinthians 14]] — 2 footnote cross-references (from [[Acts 2#^acts-2-11|Acts 2:11]])
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 2#^acts-2-17|Acts 2:17]])
+- [[Alma 22]] — 2 footnote cross-references (from [[Acts 2#^acts-2-37|Acts 2:37]])
 - [[Joel 2]] — 3 parallel verses, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Joel 2#^joel-2-28|Joel 2:28]]
 - [[Psalm 16]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-27|Acts 2:27]] ↔ [[Psalm 16#^ps-16-10|Psalm 16:10]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]

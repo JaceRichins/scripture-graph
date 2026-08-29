@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 11
 slug: prov-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 11]] · My notes: [[Proverbs 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The state and rewards of the righteous and the wicked are contrasted—When a wicked man dies, his expectations perish—He who wins souls is wise.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 12]] — 3 parallel verses, e.g. [[Proverbs 11#^prov-11-20|Proverbs 11:20]] ↔ [[Proverbs 12#^prov-12-22|Proverbs 12:22]]
-- [[Proverbs 15]] — 3 parallel verses, e.g. [[Proverbs 11#^prov-11-13|Proverbs 11:13]] ↔ [[Proverbs 15#^prov-15-15|Proverbs 15:15]]
-- [[Leviticus 14]] — 2 parallel verses, e.g. [[Proverbs 11#^prov-11-26|Proverbs 11:26]] ↔ [[Leviticus 14#^lev-14-18|Leviticus 14:18]]
+- [[D&C 1]] — 2 footnote cross-references (from [[Proverbs 11#^prov-11-4|Proverbs 11:4]])
+- [[Proverbs 13]] — 2 footnote cross-references (from [[Proverbs 11#^prov-11-5|Proverbs 11:5]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[Proverbs 11#^prov-11-1|Proverbs 11:1]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Proverbs 11#^prov-11-2|Proverbs 11:2]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Proverbs 11#^prov-11-2|Proverbs 11:2]])
+- [[Esther 7]] — 1 footnote cross-reference (from [[Proverbs 11#^prov-11-5|Proverbs 11:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 76
 slug: ps-76
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 76]] · My notes: [[Psalm 76 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God is known in Judah and dwells in Zion—He will save the meek of the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 130]] — 1 footnote cross-reference (from [[Psalm 76#^ps-76-7|Psalm 76:7]])
+- [[Revelation 6]] — 1 footnote cross-reference (from [[Psalm 76#^ps-76-7|Psalm 76:7]])
+- [[Zephaniah 2]] — 1 footnote cross-reference (from [[Psalm 76#^ps-76-9|Psalm 76:9]])
+- [[Psalm 68]] — 1 footnote cross-reference (from [[Psalm 76#^ps-76-11|Psalm 76:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

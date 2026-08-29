@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 18
 slug: 2kgs-18
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -57,7 +57,9 @@ The chapter first presents Hezekiah as an unusually faithful king, then places t
 - [[Micah 1]] — 1 footnote cross-reference (from [[2 Kings 18#^2kgs-18-1|2 Kings 18:1]])
 - [[2 Chronicles 29]] — 1 footnote cross-reference (from [[2 Kings 18#^2kgs-18-2|2 Kings 18:2]])
 - [[2 Kings 21]] — 1 footnote cross-reference (from [[2 Kings 18#^2kgs-18-4|2 Kings 18:4]])
+- [[Isaiah 36]] — 27 parallel verses, e.g. [[2 Kings 18#^2kgs-18-31|2 Kings 18:31]] ↔ [[Isaiah 36#^isa-36-16|Isaiah 36:16]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
 - [[2 Kings 24]] — 5 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
 - [[2 Kings 19]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-30|2 Kings 18:30]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
 - [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 14#^2kgs-14-14|2 Kings 14:14]]
@@ -67,8 +69,6 @@ The chapter first presents Hezekiah as an unusually faithful king, then places t
 - [[2 Chronicles 26]] — 2 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
 - [[2 Kings 16]] — 3 parallel verses, e.g. [[2 Kings 18#^2kgs-18-15|2 Kings 18:15]] ↔ [[2 Kings 16#^2kgs-16-8|2 Kings 16:8]]
 - [[2 Chronicles 34]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
-- [[Isaiah 37]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-18|2 Kings 18:18]] ↔ [[Isaiah 37#^isa-37-2|Isaiah 37:2]]
-- [[2 Chronicles 32]] — 4 parallel verses, e.g. [[2 Kings 18#^2kgs-18-28|2 Kings 18:28]] ↔ [[2 Chronicles 32#^2chr-32-18|2 Chronicles 32:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +77,7 @@ The chapter first presents Hezekiah as an unusually faithful king, then places t
 - [[Law of Moses]]
 - [[Scattering of Israel]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

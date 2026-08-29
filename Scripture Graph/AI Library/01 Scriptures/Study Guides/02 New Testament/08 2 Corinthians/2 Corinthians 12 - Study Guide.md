@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 12]] · My notes: [[2 Corinthians 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul is caught up to the third heaven—The Lord gives men weaknesses that they may triumph over them—Paul manifests the signs of an Apostle.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 28]] — 1 parallel verse, e.g. [[2 Corinthians 12#^2cor-12-3|2 Corinthians 12:3]] ↔ [[3 Nephi 28#^3ne-28-15|3 Nephi 28:15]]
+- [[1 Corinthians 9]] — 2 footnote cross-references (from [[2 Corinthians 12#^2cor-12-1|2 Corinthians 12:1]])
+- [[D&C 137]] — 1 footnote cross-reference (from [[2 Corinthians 12#^2cor-12-2|2 Corinthians 12:2]])
+- [[3 Nephi 17]] — 1 footnote cross-reference (from [[2 Corinthians 12#^2cor-12-4|2 Corinthians 12:4]])
+- [[3 Nephi 19]] — 1 footnote cross-reference (from [[2 Corinthians 12#^2cor-12-4|2 Corinthians 12:4]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[2 Corinthians 12#^2cor-12-7|2 Corinthians 12:7]])
+- [[2 Corinthians 13]] — 1 footnote cross-reference (from [[2 Corinthians 12#^2cor-12-9|2 Corinthians 12:9]])
+- [[1 Corinthians 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

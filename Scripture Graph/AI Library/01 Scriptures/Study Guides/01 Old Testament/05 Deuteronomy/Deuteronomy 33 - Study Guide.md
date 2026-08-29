@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 33
 slug: deut-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 33]] · My notes: [[Deuteronomy 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses blesses the tribes of Israel—Levi is blessed to teach the Lord’s judgments and His law—Joseph is blessed above all; the Lord will gather Israel in the latter days—Israel will triumph.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 49]] — 1 parallel verse, e.g. [[Deuteronomy 33#^deut-33-16|Deuteronomy 33:16]] ↔ [[Genesis 49#^gen-49-26|Genesis 49:26]]
+- [[Genesis 49]] — 12 footnote cross-references (from [[Deuteronomy 33#^deut-33-1|Deuteronomy 33:1]])
+- [[Habakkuk 3]] — 2 footnote cross-references (from [[Deuteronomy 33#^deut-33-2|Deuteronomy 33:2]])
+- [[Numbers 20]] — 2 footnote cross-references (from [[Deuteronomy 33#^deut-33-8|Deuteronomy 33:8]])
+- [[Genesis 27]] — 2 footnote cross-references (from [[Deuteronomy 33#^deut-33-13|Deuteronomy 33:13]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Deuteronomy 33#^deut-33-16|Deuteronomy 33:16]])
+- [[Deuteronomy 32]] — 2 footnote cross-references (from [[Deuteronomy 33#^deut-33-26|Deuteronomy 33:26]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

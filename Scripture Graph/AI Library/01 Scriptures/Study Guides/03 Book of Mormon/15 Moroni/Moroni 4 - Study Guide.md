@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 4
 slug: moro-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 4]] · My notes: [[Moroni 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> How elders and priests administer the sacramental bread is explained. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 18]] — 2 footnote cross-references (from [[Moroni 4#^moro-4-1|Moroni 4:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-1|Moroni 4:1]])
+- [[1 Samuel 21]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-3|Moroni 4:3]])
+- [[Luke 22]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-3|Moroni 4:3]])
+- [[3 Nephi 20]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-3|Moroni 4:3]])
 - [[D&C 20]] — 3 parallel verses, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[D&C 20#^dc-20-77|D&C 20:77]]
 - [[Moroni 5]] — 1 parallel verse, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
 <!-- SG:END related-scriptures -->

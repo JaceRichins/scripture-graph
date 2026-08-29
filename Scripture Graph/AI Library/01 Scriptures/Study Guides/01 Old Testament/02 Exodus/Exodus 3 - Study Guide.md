@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 3
 slug: ex-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,12 @@ This outline follows clear changes in dialogue and subject without claiming a mo
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 4]] — 5 footnote cross-references (from [[Exodus 3#^ex-3-1|Exodus 3:1]])
+- [[Acts 7]] — 4 footnote cross-references (from [[Exodus 3#^ex-3-2|Exodus 3:2]])
+- [[Exodus 2]] — 3 footnote cross-references (from [[Exodus 3#^ex-3-1|Exodus 3:1]])
+- [[Moses 1]] — 3 footnote cross-references (from [[Exodus 3#^ex-3-1|Exodus 3:1]])
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Exodus 3#^ex-3-10|Exodus 3:10]])
+- [[Exodus 12]] — 3 footnote cross-references (from [[Exodus 3#^ex-3-20|Exodus 3:20]])
 - [[Exodus 13]] — 2 parallel verses, e.g. [[Exodus 3#^ex-3-17|Exodus 3:17]] ↔ [[Exodus 13#^ex-13-5|Exodus 13:5]]
 - [[Exodus 4]] — 2 parallel verses, e.g. [[Exodus 3#^ex-3-15|Exodus 3:15]] ↔ [[Exodus 4#^ex-4-5|Exodus 4:5]]
 - [[2 Chronicles 8]] — 2 parallel verses, e.g. [[Exodus 3#^ex-3-8|Exodus 3:8]] ↔ [[2 Chronicles 8#^2chr-8-7|2 Chronicles 8:7]]
@@ -64,11 +70,11 @@ This outline follows clear changes in dialogue and subject without claiming a mo
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Abrahamic Covenant]]
 - [[Prophets]]
 - [[Miracles]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

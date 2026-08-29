@@ -68,7 +68,7 @@ cssclasses:
 > [[1 Chronicles 14#^1chr-14-9|≈ 1 Chronicles 14:9]]
 
 ![[2 Samuel 5#^2sam-5-19]]
-> [[1 Chronicles 14#^1chr-14-10|≈ 1 Chronicles 14:10]] · [[1 Samuel 23#^1sam-23-2|≈ 1 Samuel 23:2]] · [[1 Samuel 23#^1sam-23-4|≈ 1 Samuel 23:4]] · [[2 Samuel 2#^2sam-2-1|≈ 2 Samuel 2:1]]
+> [[2 Samuel 2#^2sam-2-1|≈ 2 Samuel 2:1]] · [[1 Chronicles 14#^1chr-14-10|≈ 1 Chronicles 14:10]] · [[1 Samuel 23#^1sam-23-2|≈ 1 Samuel 23:2]] · [[1 Samuel 23#^1sam-23-4|≈ 1 Samuel 23:4]]
 
 ![[2 Samuel 5#^2sam-5-20]]
 > [[1 Chronicles 14#^1chr-14-10|1 Chr. 14:11 (10–11)]] · [[Isaiah 28#^isa-28-21|Isa. 28:21]] · [[1 Chronicles 14#^1chr-14-11|≈ 1 Chronicles 14:11]]

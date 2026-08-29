@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 11
 slug: rom-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 11]] · My notes: [[Romans 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel was chosen (foreordained) according to the election of grace—But some harden their hearts against it—The Gentiles are adopted into the house of Israel—The gospel goes preferentially to the Gentiles until the fulness of the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 22]] — 2 footnote cross-references (from [[Romans 11#^rom-11-1|Romans 11:1]])
+- [[D&C 49]] — 2 footnote cross-references (from [[Romans 11#^rom-11-4|Romans 11:4]])
+- [[Jacob 4]] — 2 footnote cross-references (from [[Romans 11#^rom-11-25|Romans 11:25]])
+- [[Isaiah 59]] — 2 footnote cross-references (from [[Romans 11#^rom-11-26|Romans 11:26]])
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Romans 11#^rom-11-1|Romans 11:1]])
+- [[1 Kings 19]] — 1 footnote cross-reference (from [[Romans 11#^rom-11-3|Romans 11:3]])
 - [[1 Corinthians 2]] — 1 parallel verse, e.g. [[Romans 11#^rom-11-34|Romans 11:34]] ↔ [[1 Corinthians 2#^1cor-2-16|1 Corinthians 2:16]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 7
 slug: moro-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 7]] · My notes: [[Moroni 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An invitation is given to enter into the rest of the Lord—Pray with real intent—The Spirit of Christ enables men to know good from evil—Satan persuades men to deny Christ and do evil—The prophets manifest the coming of Christ—By faith, miracles are wrought and angels minister—Men should hope for eternal life and cleave unto charity. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 12]] — 6 footnote cross-references (from [[Moroni 7#^moro-7-1|Moroni 7:1]])
+- [[Moroni 10]] — 6 footnote cross-references (from [[Moroni 7#^moro-7-1|Moroni 7:1]])
+- [[2 Nephi 2]] — 4 footnote cross-references (from [[Moroni 7#^moro-7-16|Moroni 7:16]])
+- [[1 Corinthians 13]] — 3 footnote cross-references (from [[Moroni 7#^moro-7-1|Moroni 7:1]])
+- [[3 Nephi 18]] — 3 footnote cross-references (from [[Moroni 7#^moro-7-1|Moroni 7:1]])
+- [[Ether 4]] — 3 footnote cross-references (from [[Moroni 7#^moro-7-12|Moroni 7:12]])
 - [[1 Corinthians 13]] — 3 parallel verses, e.g. [[Moroni 7#^moro-7-45|Moroni 7:45]] ↔ [[1 Corinthians 13#^1cor-13-7|1 Corinthians 13:7]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-34|Moroni 7:34]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]
 - [[1 John 3]] — 1 parallel verse, e.g. [[Moroni 7#^moro-7-48|Moroni 7:48]] ↔ [[1 John 3#^1jn-3-2|1 John 3:2]]

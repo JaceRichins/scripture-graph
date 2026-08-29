@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 4
 slug: jonah-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jonah 4]] · My notes: [[Jonah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 7]] — 1 footnote cross-reference (from [[Jonah 4#^jonah-4-8|Jonah 4:8]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Jonah 4#^jonah-4-8|Jonah 4:8]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Jonah 4#^jonah-4-11|Jonah 4:11]])
+- [[Alma 26]] — 1 footnote cross-reference (from [[Jonah 4#^jonah-4-11|Jonah 4:11]])
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
 - [[Joel 2]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Joel 2#^joel-2-13|Joel 2:13]]
 <!-- SG:END related-scriptures -->

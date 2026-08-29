@@ -13,10 +13,14 @@ cssclasses:
 
 [[Nehemiah 7|Plain text]] · [[Nehemiah 7 - Study Guide|Study guide]] · [[Nehemiah 7 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Provision is made to protect Jerusalem—The genealogy is given of the Jews who returned from Babylon—Priests without genealogical records are denied the priesthood.
+
 ![[Nehemiah 7#^neh-7-1]]
 > [[Nehemiah 10#^neh-10-39|≈ Nehemiah 10:39]]
 
 ![[Nehemiah 7#^neh-7-2]]
+> [[Nehemiah 1#^neh-1-2|Neh. 1:2]] · [[D&C 52#^dc-52-13|D&amp;C 52:13]] · [[D&C 132#^dc-132-53|132:53]] · [[Exodus 18#^ex-18-21|Ex. 18:21]] · [[Mosiah 29#^mosiah-29-13|Mosiah 29:13]]
 
 ![[Nehemiah 7#^neh-7-3]]
 
@@ -25,10 +29,10 @@ cssclasses:
 ![[Nehemiah 7#^neh-7-5]]
 
 ![[Nehemiah 7#^neh-7-6]]
-> [[Ezra 2#^ezra-2-1|≈ Ezra 2:1]] · [[Esther 2#^esth-2-6|≈ Esther 2:6]]
+> [[Ezra 2#^ezra-2-1|Ezra 2:1 (1–70)]] · [[Ezra 2#^ezra-2-1|≈ Ezra 2:1]] · [[Esther 2#^esth-2-6|≈ Esther 2:6]]
 
 ![[Nehemiah 7#^neh-7-7]]
-> [[Ezra 2#^ezra-2-2|≈ Ezra 2:2]]
+> [[Ezra 2#^ezra-2-2|Ezra 2:2]] · [[Ezra 2#^ezra-2-2|≈ Ezra 2:2]]
 
 ![[Nehemiah 7#^neh-7-8]]
 > [[Ezra 2#^ezra-2-3|≈ Ezra 2:3]]
@@ -50,6 +54,7 @@ cssclasses:
 > [[Ezra 2#^ezra-2-9|≈ Ezra 2:9]]
 
 ![[Nehemiah 7#^neh-7-15]]
+> [[Ezra 2#^ezra-2-10|Ezra 2:10]]
 
 ![[Nehemiah 7#^neh-7-16]]
 > [[Ezra 2#^ezra-2-11|≈ Ezra 2:11]]
@@ -176,13 +181,13 @@ cssclasses:
 > [[Ezra 2#^ezra-2-60|≈ Ezra 2:60]]
 
 ![[Nehemiah 7#^neh-7-63]]
-> [[Ezra 2#^ezra-2-61|≈ Ezra 2:61]]
+> [[Ezra 2#^ezra-2-61|Ezra 2:61 (61–62)]] · [[D&C 85#^dc-85-11|D&amp;C 85:12 (11–12)]] · [[Ezra 2#^ezra-2-61|≈ Ezra 2:61]]
 
 ![[Nehemiah 7#^neh-7-64]]
 > [[Ezra 2#^ezra-2-62|≈ Ezra 2:62]]
 
 ![[Nehemiah 7#^neh-7-65]]
-> [[Ezra 2#^ezra-2-63|≈ Ezra 2:63]]
+> [[Nehemiah 8#^neh-8-9|Neh. 8:9]] · [[Ezra 2#^ezra-2-63|≈ Ezra 2:63]]
 
 ![[Nehemiah 7#^neh-7-66]]
 > [[Ezra 2#^ezra-2-64|≈ Ezra 2:64]]
@@ -197,7 +202,7 @@ cssclasses:
 > [[Ezra 2#^ezra-2-67|≈ Ezra 2:67]]
 
 ![[Nehemiah 7#^neh-7-70]]
-> [[Ezra 2#^ezra-2-68|≈ Ezra 2:68]]
+> [[D&C 109#^dc-109-5|D&amp;C 109:5]] · [[Ezra 2#^ezra-2-68|≈ Ezra 2:68]]
 
 ![[Nehemiah 7#^neh-7-71]]
 > [[Ezra 2#^ezra-2-68|≈ Ezra 2:68]]

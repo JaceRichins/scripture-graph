@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 8|Plain text]] · [[Song of Solomon 8 - Study Guide|Study guide]] · [[Song of Solomon 8 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Many waters cannot quench love.
+
 ![[Song of Solomon 8#^song-8-1]]
 
 ![[Song of Solomon 8#^song-8-2]]

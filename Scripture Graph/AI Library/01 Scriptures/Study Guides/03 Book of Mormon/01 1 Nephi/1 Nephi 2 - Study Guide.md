@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 2
 slug: 1ne-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 2]] · My notes: [[1 Nephi 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi takes his family into the wilderness by the Red Sea—They leave their property—Lehi offers a sacrifice to the Lord and teaches his sons to keep the commandments—Laman and Lemuel murmur against their father—Nephi is obedient and prays in faith; the Lord speaks to him, and he is chosen to rule over his brethren. About 600 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 4 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
+- [[1 Nephi 7]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-1|1 Nephi 2:1]])
+- [[1 Nephi 3]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
+- [[1 Nephi 4]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
+- [[1 Nephi 5]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
+- [[Genesis 12]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
 - [[2 Nephi 1]] — 5 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]] ↔ [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]

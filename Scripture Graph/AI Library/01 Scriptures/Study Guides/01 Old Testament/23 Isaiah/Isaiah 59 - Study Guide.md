@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 59
 slug: isa-59
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 59]] · My notes: [[Isaiah 59 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Israel are separated from their God by iniquity—Their sins testify against them—The Messiah will intercede, come to Zion, and redeem the repentant.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 5]] — 3 footnote cross-references (from [[Isaiah 59#^isa-59-3|Isaiah 59:3]])
+- [[Romans 11]] — 2 footnote cross-references (from [[Isaiah 59#^isa-59-20|Isaiah 59:20]])
+- [[Isaiah 50]] — 1 footnote cross-reference (from [[Isaiah 59#^isa-59-1|Isaiah 59:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[Isaiah 59#^isa-59-1|Isaiah 59:1]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Isaiah 59#^isa-59-2|Isaiah 59:2]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Isaiah 59#^isa-59-2|Isaiah 59:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

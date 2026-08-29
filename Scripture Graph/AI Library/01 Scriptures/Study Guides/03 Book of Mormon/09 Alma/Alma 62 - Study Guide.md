@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 62
 slug: alma-62
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 62]] · My notes: [[Alma 62 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni marches to the aid of Pahoran in the land of Gideon—The king-men who refuse to defend their country are put to death—Pahoran and Moroni retake Nephihah—Many Lamanites join the people of Ammon—Teancum slays Ammoron and is in turn slain—The Lamanites are driven from the land, and peace is established—Helaman returns to the ministry and builds up the Church. About 62–57 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 51]] — 8 footnote cross-references (from [[Alma 62#^alma-62-6|Alma 62:6]])
+- [[Alma 50]] — 5 footnote cross-references (from [[Alma 62#^alma-62-18|Alma 62:18]])
+- [[Alma 61]] — 3 footnote cross-references (from [[Alma 62#^alma-62-5|Alma 62:5]])
+- [[Alma 60]] — 2 footnote cross-references (from [[Alma 62#^alma-62-1|Alma 62:1]])
+- [[Alma 46]] — 2 footnote cross-references (from [[Alma 62#^alma-62-4|Alma 62:4]])
+- [[Alma 44]] — 2 footnote cross-references (from [[Alma 62#^alma-62-11|Alma 62:11]])
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-48|Alma 62:48]] ↔ [[Helaman 11#^hel-11-20|Helaman 11:20]]
 - [[Alma 51]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-25|Alma 62:25]] ↔ [[Alma 51#^alma-51-22|Alma 51:22]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-50|Alma 62:50]] ↔ [[Alma 45#^alma-45-1|Alma 45:1]]

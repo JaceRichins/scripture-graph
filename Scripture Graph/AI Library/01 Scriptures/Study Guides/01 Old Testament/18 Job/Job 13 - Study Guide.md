@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 13
 slug: job-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 13]] · My notes: [[Job 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job testifies of his confidence in the Lord and says, Though He slay me, yet will I trust in Him, and He also will be my salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 16]] — 1 footnote cross-reference (from [[Job 13#^job-13-4|Job 13:4]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Job 13#^job-13-4|Job 13:4]])
+- [[Proverbs 17]] — 1 footnote cross-reference (from [[Job 13#^job-13-5|Job 13:5]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Job 13#^job-13-15|Job 13:15]])
+- [[Alma 36]] — 1 footnote cross-reference (from [[Job 13#^job-13-23|Job 13:23]])
+- [[D&C 18]] — 1 footnote cross-reference (from [[Job 13#^job-13-23|Job 13:23]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

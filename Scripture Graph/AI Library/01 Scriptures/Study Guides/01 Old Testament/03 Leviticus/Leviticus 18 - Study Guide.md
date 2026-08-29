@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 18
 slug: lev-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 18]] · My notes: [[Leviticus 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel shall not live as the Egyptians and the Canaanites—Marriages to many close relatives and others are forbidden—Homosexual behavior and other sexual perversions are an abomination—The land expels those nations that practice sexual abominations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 18]] — 3 footnote cross-references (from [[Leviticus 18#^lev-18-21|Leviticus 18:21]])
+- [[Ezekiel 22]] — 2 footnote cross-references (from [[Leviticus 18#^lev-18-7|Leviticus 18:7]])
+- [[Leviticus 20]] — 2 footnote cross-references (from [[Leviticus 18#^lev-18-8|Leviticus 18:8]])
+- [[Ezekiel 33]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
+- [[3 Nephi 15]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
 - [[Leviticus 20]] — 7 parallel verses, e.g. [[Leviticus 18#^lev-18-13|Leviticus 18:13]] ↔ [[Leviticus 20#^lev-20-19|Leviticus 20:19]]
 - [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 18#^lev-18-21|Leviticus 18:21]] ↔ [[Leviticus 19#^lev-19-12|Leviticus 19:12]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Leviticus 18#^lev-18-5|Leviticus 18:5]] ↔ [[Ezekiel 20#^ezek-20-11|Ezekiel 20:11]]

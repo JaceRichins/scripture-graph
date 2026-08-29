@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 115
 slug: dc-115
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -42,6 +42,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Official Declaration 1]] — 6 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Official Declaration 1#^od-1-3|Official Declaration 1:3]]
+- [[Official Declaration 2]] — 6 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
 - [[D&C 127]] — 3 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
 - [[D&C 136]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
@@ -52,8 +54,6 @@ _Not yet developed._
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
 - [[D&C 126]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
-- [[D&C 90]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
-- [[D&C 70]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 70#^dc-70-1|D&C 70:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

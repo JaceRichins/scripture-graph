@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 5
 slug: dan-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 5]] · My notes: [[Daniel 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Belshazzar and his revelers drink from the vessels of the temple—A hand writes upon the wall, telling of Belshazzar’s downfall—Daniel interprets the words and reproves the king for pride and idolatry—That night Babylon is conquered.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 2]] — 4 footnote cross-references (from [[Daniel 5#^dan-5-14|Daniel 5:14]])
+- [[Daniel 1]] — 2 footnote cross-references (from [[Daniel 5#^dan-5-2|Daniel 5:2]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-2|Daniel 5:2]])
+- [[Ether 3]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-5|Daniel 5:5]])
+- [[Abraham 3]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-5|Daniel 5:5]])
+- [[Alma 18]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-6|Daniel 5:6]])
 - [[Daniel 4]] — 5 parallel verses, e.g. [[Daniel 5#^dan-5-21|Daniel 5:21]] ↔ [[Daniel 4#^dan-4-33|Daniel 4:33]]
 - [[Daniel 6]] — 3 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Daniel 6#^dan-6-13|Daniel 6:13]]
 <!-- SG:END related-scriptures -->

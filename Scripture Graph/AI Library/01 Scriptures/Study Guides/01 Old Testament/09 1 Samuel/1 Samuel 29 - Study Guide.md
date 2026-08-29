@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 29
 slug: 1sam-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 29]] · My notes: [[1 Samuel 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel and the Philistines gather for war—The Philistine princes send David away.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,10 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 21]] — 2 parallel verses, e.g. [[1 Samuel 29#^1sam-29-10|1 Samuel 29:10]] ↔ [[Genesis 21#^gen-21-14|Genesis 21:14]]
-- [[2 Kings 19]] — 1 parallel verse, e.g. [[1 Samuel 29#^1sam-29-6|1 Samuel 29:6]] ↔ [[2 Kings 19#^2kgs-19-27|2 Kings 19:27]]
-- [[Isaiah 37]] — 1 parallel verse, e.g. [[1 Samuel 29#^1sam-29-6|1 Samuel 29:6]] ↔ [[Isaiah 37#^isa-37-28|Isaiah 37:28]]
-- [[1 Samuel 14]] — 2 parallel verses, e.g. [[1 Samuel 29#^1sam-29-11|1 Samuel 29:11]] ↔ [[1 Samuel 14#^1sam-14-11|1 Samuel 14:11]]
+- [[1 Chronicles 12]] — 1 footnote cross-reference (from [[1 Samuel 29#^1sam-29-4|1 Samuel 29:4]])
+- [[1 Samuel 18]] — 1 footnote cross-reference (from [[1 Samuel 29#^1sam-29-5|1 Samuel 29:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

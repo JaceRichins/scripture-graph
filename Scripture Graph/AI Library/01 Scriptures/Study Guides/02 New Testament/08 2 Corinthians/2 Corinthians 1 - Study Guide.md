@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 1
 slug: 2cor-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 1]] · My notes: [[2 Corinthians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God comforts and cares for His Saints—The Saints are sealed and given assurance by the Spirit in their hearts.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 16]] — 2 footnote cross-references (from [[2 Corinthians 1#^2cor-1-15|2 Corinthians 1:15]])
+- [[D&C 21]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]])
+- [[Philippians 3]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-4|2 Corinthians 1:4]])
+- [[2 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-4|2 Corinthians 1:4]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-5|2 Corinthians 1:5]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-6|2 Corinthians 1:6]])
 - [[Ephesians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
 - [[Colossians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
 - [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]

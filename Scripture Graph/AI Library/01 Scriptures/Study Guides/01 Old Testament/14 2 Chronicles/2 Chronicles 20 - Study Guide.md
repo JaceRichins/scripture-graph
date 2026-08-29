@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 20]] · My notes: [[2 Chronicles 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Ammonites and others attack Judah—Jehoshaphat and all the people fast and pray—Jahaziel prophesies the deliverance of Judah—Judah’s attackers war among and destroy themselves.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 11]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-12|2 Chronicles 20:12]])
+- [[1 Nephi 4]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-12|2 Chronicles 20:12]])
+- [[1 Samuel 17]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-15|2 Chronicles 20:15]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-15|2 Chronicles 20:15]])
+- [[Judges 7]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-23|2 Chronicles 20:23]])
+- [[1 Samuel 14]] — 1 footnote cross-reference (from [[2 Chronicles 20#^2chr-20-23|2 Chronicles 20:23]])
 - [[2 Kings 15]] — 8 parallel verses, e.g. [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 - [[2 Chronicles 36]] — 5 parallel verses, e.g. [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]

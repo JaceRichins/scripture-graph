@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 27
 slug: deut-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 27]] · My notes: [[Deuteronomy 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel are to cross the Jordan, build an altar, and worship the Lord—They are the Lord’s people but will be cursed if they do not obey Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 8]] — 2 footnote cross-references (from [[Deuteronomy 27#^deut-27-6|Deuteronomy 27:6]])
+- [[Deuteronomy 19]] — 2 footnote cross-references (from [[Deuteronomy 27#^deut-27-17|Deuteronomy 27:17]])
+- [[Leviticus 20]] — 2 footnote cross-references (from [[Deuteronomy 27#^deut-27-21|Deuteronomy 27:21]])
+- [[Moses 5]] — 2 footnote cross-references (from [[Deuteronomy 27#^deut-27-24|Deuteronomy 27:24]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Deuteronomy 27#^deut-27-1|Deuteronomy 27:1]])
+- [[Joshua 4]] — 1 footnote cross-reference (from [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]])
 - [[Deuteronomy 28]] — 5 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
 - [[Deuteronomy 19]] — 7 parallel verses, e.g. [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]] ↔ [[Deuteronomy 19#^deut-19-9|Deuteronomy 19:9]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]

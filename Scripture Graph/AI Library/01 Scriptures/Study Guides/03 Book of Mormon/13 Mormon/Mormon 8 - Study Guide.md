@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 8
 slug: morm-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 8]] · My notes: [[Mormon 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamanites seek out and destroy the Nephites—The Book of Mormon will come forth by the power of God—Woes pronounced upon those who breathe out wrath and strife against the work of the Lord—The Nephite record will come forth in a day of wickedness, degeneracy, and apostasy. About A.D. 400–421.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 28]] — 6 footnote cross-references (from [[Mormon 8#^morm-8-27|Mormon 8:27]])
+- [[Ether 4]] — 4 footnote cross-references (from [[Mormon 8#^morm-8-3|Mormon 8:3]])
+- [[Moroni 10]] — 4 footnote cross-references (from [[Mormon 8#^morm-8-4|Mormon 8:4]])
+- [[Mormon 9]] — 4 footnote cross-references (from [[Mormon 8#^morm-8-17|Mormon 8:17]])
+- [[1 Nephi 14]] — 4 footnote cross-references (from [[Mormon 8#^morm-8-21|Mormon 8:21]])
+- [[Mormon 6]] — 3 footnote cross-references (from [[Mormon 8#^morm-8-1|Mormon 8:1]])
 - [[Alma 5]] — 4 parallel verses, e.g. [[Mormon 8#^morm-8-21|Mormon 8:21]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]
 - [[Mosiah 11]] — 4 parallel verses, e.g. [[Mormon 8#^morm-8-28|Mormon 8:28]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Mormon 8#^morm-8-21|Mormon 8:21]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]

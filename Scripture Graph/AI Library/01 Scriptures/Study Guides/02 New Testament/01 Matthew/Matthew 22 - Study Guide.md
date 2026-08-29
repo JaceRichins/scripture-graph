@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 22]] · My notes: [[Matthew 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parable of the marriage of the king’s son—Pay tribute to Cæsar and to God—Worldly marriages endure in this life only—The first commandment is to love the Lord—Jesus asks, What think ye of Christ?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mark 12]] — 3 footnote cross-references (from [[Matthew 22#^matt-22-15|Matthew 22:15]])
+- [[Revelation 19]] — 2 footnote cross-references (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
+- [[Luke 5]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
+- [[Revelation 21]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
+- [[D&C 65]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-10|Matthew 22:10]])
 - [[Mark 12]] — 11 parallel verses, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
 - [[Luke 20]] — 9 parallel verses, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Matthew 13]] — 5 parallel verses, e.g. [[Matthew 22#^matt-22-2|Matthew 22:2]] ↔ [[Matthew 13#^matt-13-45|Matthew 13:45]]

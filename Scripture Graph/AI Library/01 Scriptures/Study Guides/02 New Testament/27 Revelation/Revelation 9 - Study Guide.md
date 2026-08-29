@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 9
 slug: rev-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 9]] · My notes: [[Revelation 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John also sees the wars and plagues poured out during the seventh seal and before the Lord comes.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 9#^rev-9-13|Revelation 9:13]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
+- [[Joel 1]] — 2 footnote cross-references (from [[Revelation 9#^rev-9-8|Revelation 9:8]])
+- [[Revelation 20]] — 1 footnote cross-reference (from [[Revelation 9#^rev-9-1|Revelation 9:1]])
+- [[Revelation 7]] — 1 footnote cross-reference (from [[Revelation 9#^rev-9-4|Revelation 9:4]])
+- [[Job 3]] — 1 footnote cross-reference (from [[Revelation 9#^rev-9-6|Revelation 9:6]])
+- [[Jeremiah 8]] — 1 footnote cross-reference (from [[Revelation 9#^rev-9-6|Revelation 9:6]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Revelation 9#^rev-9-9|Revelation 9:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

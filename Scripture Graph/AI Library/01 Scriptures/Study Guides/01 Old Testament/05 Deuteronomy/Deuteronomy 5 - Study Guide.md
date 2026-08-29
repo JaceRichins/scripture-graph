@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 5
 slug: deut-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 5]] · My notes: [[Deuteronomy 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses tells of the covenant God made with Israel in Horeb—He reviews the Ten Commandments—Sabbath observance also commemorates the deliverance from Egypt—God talks with man—Blessings flow from obedience.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 20]] — 4 footnote cross-references (from [[Deuteronomy 5#^deut-5-2|Deuteronomy 5:2]])
+- [[Exodus 3]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]])
+- [[Exodus 19]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]])
+- [[Deuteronomy 4]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-23|Deuteronomy 5:23]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-27|Deuteronomy 5:27]])
+- [[Deuteronomy 29]] — 1 footnote cross-reference (from [[Deuteronomy 5#^deut-5-3|Deuteronomy 5:3]])
 - [[Exodus 20]] — 8 parallel verses, e.g. [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
 - [[Mosiah 13]] — 6 parallel verses, e.g. [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]] ↔ [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]]
 - [[Deuteronomy 4]] — 7 parallel verses, e.g. [[Deuteronomy 5#^deut-5-26|Deuteronomy 5:26]] ↔ [[Deuteronomy 4#^deut-4-33|Deuteronomy 4:33]]

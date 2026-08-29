@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 7
 slug: ex-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 7]] · My notes: [[Exodus 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses is appointed to give the word of the Lord to Pharaoh—The Lord will multiply signs and wonders in Egypt—Aaron’s rod becomes a serpent—The river is turned into blood—The magicians imitate the miracles of Moses and Aaron.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 4]] — 3 footnote cross-references (from [[Exodus 7#^ex-7-1|Exodus 7:1]])
+- [[Exodus 14]] — 2 footnote cross-references (from [[Exodus 7#^ex-7-5|Exodus 7:5]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-4|Exodus 7:4]])
+- [[Nehemiah 9]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-5|Exodus 7:5]])
+- [[Exodus 8]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-5|Exodus 7:5]])
+- [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-7|Exodus 7:7]])
 - [[Exodus 8]] — 8 parallel verses, e.g. [[Exodus 7#^ex-7-13|Exodus 7:13]] ↔ [[Exodus 8#^ex-8-19|Exodus 8:19]]
 - [[Exodus 9]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
 - [[Exodus 6]] — 4 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 6#^ex-6-13|Exodus 6:13]]

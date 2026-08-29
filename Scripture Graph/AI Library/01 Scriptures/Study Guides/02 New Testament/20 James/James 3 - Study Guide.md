@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 3
 slug: james-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[James 3]] · My notes: [[James 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> By governing the tongue, we gain perfection—Heavenly wisdom is pure, peaceable, and full of mercy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 82]] — 1 footnote cross-reference (from [[James 3#^james-3-1|James 3:1]])
+- [[Psalm 39]] — 1 footnote cross-reference (from [[James 3#^james-3-2|James 3:2]])
+- [[Proverbs 21]] — 1 footnote cross-reference (from [[James 3#^james-3-2|James 3:2]])
+- [[Proverbs 16]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
+- [[Mark 7]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

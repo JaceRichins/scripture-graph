@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 15
 slug: matt-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 15]] · My notes: [[Matthew 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The scribes and Pharisees contend against Jesus—He heals the daughter of a gentile woman—He feeds the four thousand.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Titus 1]] — 2 footnote cross-references (from [[Matthew 15#^matt-15-8|Matthew 15:8]])
+- [[Alma 24]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-2|Matthew 15:2]])
+- [[D&C 123]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-2|Matthew 15:2]])
+- [[Mark 7]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-5|Matthew 15:5]])
+- [[Jeremiah 12]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-8|Matthew 15:8]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-8|Matthew 15:8]])
 - [[Mark 7]] — 5 parallel verses, e.g. [[Matthew 15#^matt-15-26|Matthew 15:26]] ↔ [[Mark 7#^mark-7-27|Mark 7:27]]
 - [[Mark 8]] — 5 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Mark 8#^mark-8-8|Mark 8:8]]
 - [[Matthew 14]] — 3 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Matthew 14#^matt-14-20|Matthew 14:20]]

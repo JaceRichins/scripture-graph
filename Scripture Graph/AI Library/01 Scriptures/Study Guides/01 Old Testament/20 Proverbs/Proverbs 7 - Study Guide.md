@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 7
 slug: prov-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 7]] · My notes: [[Proverbs 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An immoral woman leads a man to destruction as an ox to the slaughter—The house of an adulterous woman is the way to hell.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-2|Proverbs 7:2]])
+- [[D&C 14]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-2|Proverbs 7:2]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-2|Proverbs 7:2]])
+- [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-3|Proverbs 7:3]])
+- [[Jeremiah 31]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-3|Proverbs 7:3]])
+- [[Alma 37]] — 1 footnote cross-reference (from [[Proverbs 7#^prov-7-4|Proverbs 7:4]])
 - [[Proverbs 2]] — 1 parallel verse, e.g. [[Proverbs 7#^prov-7-5|Proverbs 7:5]] ↔ [[Proverbs 2#^prov-2-16|Proverbs 2:16]]
 <!-- SG:END related-scriptures -->
 

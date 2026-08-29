@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 1
 slug: ps-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 1]] · My notes: [[Psalm 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Blessed are the righteous—The ungodly will perish.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Psalm 1#^ps-1-2|Psalm 1:2]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
-- [[Luke 2]] — 2 parallel verses, e.g. [[Psalm 1#^ps-1-2|Psalm 1:2]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-1|Psalm 1:1]])
+- [[Ephesians 5]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-1|Psalm 1:1]])
+- [[Psalm 26]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-1|Psalm 1:1]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-1|Psalm 1:1]])
+- [[Jeremiah 17]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
+- [[Genesis 39]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

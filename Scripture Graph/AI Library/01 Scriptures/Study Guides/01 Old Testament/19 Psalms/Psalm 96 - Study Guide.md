@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 96
 slug: ps-96
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 96]] · My notes: [[Psalm 96 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sing praises unto the Lord—Declare His name among the nations—Worship the Lord in the beauty of holiness—He comes to judge His people and the world.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-1|Psalm 96:1]])
+- [[D&C 25]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-1|Psalm 96:1]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-1|Psalm 96:1]])
+- [[Moses 4]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-8|Psalm 96:8]])
+- [[Psalm 116]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-8|Psalm 96:8]])
+- [[Isaiah 35]] — 1 footnote cross-reference (from [[Psalm 96#^ps-96-12|Psalm 96:12]])
 - [[1 Chronicles 16]] — 8 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]]
 - [[Psalm 29]] — 3 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[Psalm 29#^ps-29-2|Psalm 29:2]]
 - [[Psalm 98]] — 3 parallel verses, e.g. [[Psalm 96#^ps-96-13|Psalm 96:13]] ↔ [[Psalm 98#^ps-98-9|Psalm 98:9]]

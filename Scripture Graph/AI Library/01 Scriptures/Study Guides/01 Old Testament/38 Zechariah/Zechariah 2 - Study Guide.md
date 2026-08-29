@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 2
 slug: zech-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 2]] · My notes: [[Zechariah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Judah will gather to Jerusalem—The people will come from the land of the north—The Lord will dwell among them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 2 footnote cross-references (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
+- [[Ezekiel 47]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-1|Zechariah 2:1]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-4|Zechariah 2:4]])
+- [[Ezekiel 17]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
 - [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 2#^zech-2-9|Zechariah 2:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
 - [[Zechariah 4]] — 2 parallel verses, e.g. [[Zechariah 2#^zech-2-11|Zechariah 2:11]] ↔ [[Zechariah 4#^zech-4-9|Zechariah 4:9]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Zechariah 2#^zech-2-10|Zechariah 2:10]] ↔ [[Ezekiel 43#^ezek-43-9|Ezekiel 43:9]]

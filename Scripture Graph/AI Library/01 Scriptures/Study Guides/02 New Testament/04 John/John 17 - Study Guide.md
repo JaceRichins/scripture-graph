@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 17]] · My notes: [[John 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus offers the great Intercessory Prayer—He is glorified by gaining eternal life—He prays for His Apostles and all the Saints—He explains how the Father and Son are one.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,11 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[3 Nephi 19]] — 4 parallel verses, e.g. [[John 17#^john-17-9|John 17:9]] ↔ [[3 Nephi 19#^3ne-19-29|3 Nephi 19:29]]
-- [[D&C 132]] — 3 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 132#^dc-132-5|D&C 132:5]]
-- [[John 19]] — 2 parallel verses, e.g. [[John 17#^john-17-12|John 17:12]] ↔ [[John 19#^john-19-24|John 19:24]]
-- [[D&C 124]] — 2 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 124#^dc-124-33|D&C 124:33]]
-- [[D&C 128]] — 2 parallel verses, e.g. [[John 17#^john-17-24|John 17:24]] ↔ [[D&C 128#^dc-128-5|D&C 128:5]]
+- [[John 6]] — 3 footnote cross-references (from [[John 17#^john-17-2|John 17:2]])
+- [[D&C 50]] — 2 footnote cross-references (from [[John 17#^john-17-2|John 17:2]])
+- [[John 10]] — 1 footnote cross-reference (from [[John 17#^john-17-2|John 17:2]])
+- [[1 John 1]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
+- [[1 John 2]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

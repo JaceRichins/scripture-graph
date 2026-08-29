@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 4
 slug: 1thes-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Thessalonians 4]] · My notes: [[1 Thessalonians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ephesians 2]] — 2 footnote cross-references (from [[1 Thessalonians 4#^1thes-4-5|1 Thessalonians 4:5]])
+- [[Philippians 4]] — 1 footnote cross-reference (from [[1 Thessalonians 4#^1thes-4-1|1 Thessalonians 4:1]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[1 Thessalonians 4#^1thes-4-1|1 Thessalonians 4:1]])
+- [[1 Thessalonians 3]] — 1 footnote cross-reference (from [[1 Thessalonians 4#^1thes-4-1|1 Thessalonians 4:1]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[1 Thessalonians 4#^1thes-4-2|1 Thessalonians 4:2]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[1 Thessalonians 4#^1thes-4-3|1 Thessalonians 4:3]])
+- [[1 Corinthians 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

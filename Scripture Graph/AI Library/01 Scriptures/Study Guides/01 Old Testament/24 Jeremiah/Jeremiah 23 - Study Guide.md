@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 23
 slug: jer-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 23]] · My notes: [[Jeremiah 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The remnants of Israel will be gathered in the last days—The Branch, who is the King (the Messiah), will reign in righteousness—False prophets who teach lies will be cursed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-1|Jeremiah 23:1]])
+- [[Zechariah 11]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-1|Jeremiah 23:1]])
+- [[Isaiah 4]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
+- [[Isaiah 32]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
+- [[Jeremiah 30]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
 - [[Jeremiah 31]] — 6 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-20|Jeremiah 23:20]] ↔ [[Jeremiah 30#^jer-30-24|Jeremiah 30:24]]
 - [[Jeremiah 33]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]

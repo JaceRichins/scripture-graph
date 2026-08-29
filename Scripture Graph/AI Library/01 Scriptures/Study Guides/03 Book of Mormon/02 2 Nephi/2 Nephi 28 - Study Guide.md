@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 28
 slug: 2ne-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 28]] · My notes: [[2 Nephi 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many false churches will be built up in the last days—They will teach false, vain, and foolish doctrines—Apostasy will abound because of false teachers—The devil will rage in the hearts of men—He will teach all manner of false doctrines. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 8]] — 9 footnote cross-references (from [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]])
+- [[2 Nephi 9]] — 6 footnote cross-references (from [[2 Nephi 28#^2ne-28-4|2 Nephi 28:4]])
+- [[1 Nephi 14]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-2|2 Nephi 28:2]])
+- [[1 Nephi 22]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-2|2 Nephi 28:2]])
+- [[Alma 30]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-5|2 Nephi 28:5]])
+- [[2 Nephi 27]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-14|2 Nephi 28:14]])
 - [[2 Nephi 9]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]] ↔ [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-26|2 Nephi 28:26]] ↔ [[Jacob 6#^jacob-6-8|Jacob 6:8]]

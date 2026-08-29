@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 20
 slug: 1chr-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 20]] · My notes: [[1 Chronicles 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Ammonites are overcome—Israel defeats the Philistines.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 12]] — 2 footnote cross-references (from [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]])
+- [[2 Samuel 11]] — 1 footnote cross-reference (from [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]])
+- [[2 Samuel 21]] — 1 footnote cross-reference (from [[1 Chronicles 20#^1chr-20-4|1 Chronicles 20:4]])
 - [[2 Samuel 21]] — 5 parallel verses, e.g. [[1 Chronicles 20#^1chr-20-8|1 Chronicles 20:8]] ↔ [[2 Samuel 21#^2sam-21-22|2 Samuel 21:22]]
 - [[2 Samuel 11]] — 1 parallel verse, e.g. [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]] ↔ [[2 Samuel 11#^2sam-11-1|2 Samuel 11:1]]
 - [[2 Samuel 12]] — 1 parallel verse, e.g. [[1 Chronicles 20#^1chr-20-3|1 Chronicles 20:3]] ↔ [[2 Samuel 12#^2sam-12-31|2 Samuel 12:31]]

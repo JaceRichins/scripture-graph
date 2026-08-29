@@ -57,12 +57,12 @@ cssclasses:
 > [[Leviticus 22#^lev-22-29|Lev. 22:30 (29–30)]]
 
 ![[Leviticus 7#^lev-7-16]]
-> [[Leviticus 22#^lev-22-23|Lev. 22:23]] · [[Ezekiel 46#^ezek-46-12|Ezek. 46:12]] · [[D&C 58#^dc-58-26|D&amp;C 58:27 (26–28)]]
+> [[Leviticus 22#^lev-22-23|Lev. 22:23]] · [[Ezekiel 46#^ezek-46-12|Ezek. 46:12]] · [[D&C 58#^dc-58-26|D&amp;C 58:27 (26–28)]] · [[Leviticus 19#^lev-19-6|≈ Leviticus 19:6]]
 
 ![[Leviticus 7#^lev-7-17]]
 
 ![[Leviticus 7#^lev-7-18]]
-> [[D&C 132#^dc-132-7|D&amp;C 132:9 (7–12)]] · [[Leviticus 19#^lev-19-7|Lev. 19:7]] · [[Ezekiel 4#^ezek-4-14|Ezek. 4:14]] · [[3 Nephi 18#^3ne-18-28|3 Ne. 18:28 (28–31)]] · [[Leviticus 5#^lev-5-1|Lev. 5:1 (1–6)]]
+> [[D&C 132#^dc-132-7|D&amp;C 132:9 (7–12)]] · [[Leviticus 19#^lev-19-7|Lev. 19:7]] · [[Ezekiel 4#^ezek-4-14|Ezek. 4:14]] · [[3 Nephi 18#^3ne-18-28|3 Ne. 18:28 (28–31)]] · [[Leviticus 5#^lev-5-1|Lev. 5:1 (1–6)]] · [[Leviticus 19#^lev-19-7|≈ Leviticus 19:7]]
 
 ![[Leviticus 7#^lev-7-19]]
 
@@ -93,7 +93,7 @@ cssclasses:
 ![[Leviticus 7#^lev-7-29]]
 
 ![[Leviticus 7#^lev-7-30]]
-> [[Leviticus 8#^lev-8-27|≈ Leviticus 8:27]] · [[Leviticus 8#^lev-8-29|≈ Leviticus 8:29]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]]
+> [[Leviticus 8#^lev-8-27|≈ Leviticus 8:27]] · [[Leviticus 8#^lev-8-29|≈ Leviticus 8:29]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Deuteronomy 18#^deut-18-1|≈ Deuteronomy 18:1]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]]
 
 ![[Leviticus 7#^lev-7-31]]
 > [[Numbers 18#^num-18-8|Num. 18:8 (8–24)]] · [[Deuteronomy 18#^deut-18-1|Deut. 18:3 (1–5)]] · [[Exodus 29#^ex-29-28|≈ Exodus 29:28]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 24#^lev-24-9|≈ Leviticus 24:9]]
@@ -108,7 +108,7 @@ cssclasses:
 > [[Numbers 18#^num-18-11|Num. 18:11]] · [[Exodus 29#^ex-29-28|≈ Exodus 29:28]]
 
 ![[Leviticus 7#^lev-7-35]]
-> [[Luke 1#^luke-1-9|Luke 1:9]] · [[D&C 107#^dc-107-20|D&amp;C 107:20]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 24#^lev-24-9|≈ Leviticus 24:9]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]] · [[Leviticus 6#^lev-6-18|≈ Leviticus 6:18]] · [[Leviticus 21#^lev-21-6|≈ Leviticus 21:6]]
+> [[Luke 1#^luke-1-9|Luke 1:9]] · [[D&C 107#^dc-107-20|D&amp;C 107:20]] · [[Deuteronomy 18#^deut-18-1|≈ Deuteronomy 18:1]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 24#^lev-24-9|≈ Leviticus 24:9]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]] · [[Leviticus 6#^lev-6-18|≈ Leviticus 6:18]]
 
 ![[Leviticus 7#^lev-7-36]]
 > [[Exodus 40#^ex-40-13|Ex. 40:15 (13–15)]]

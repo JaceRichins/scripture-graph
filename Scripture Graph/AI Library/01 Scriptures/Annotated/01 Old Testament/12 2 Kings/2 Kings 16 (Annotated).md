@@ -20,13 +20,13 @@ cssclasses:
 > [[Micah 1#^micah-1-1|Micah 1:1]] · [[2 Kings 15#^2kgs-15-32|≈ 2 Kings 15:32]]
 
 ![[2 Kings 16#^2kgs-16-2]]
-> [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]] · [[Ether 10#^ether-10-5|≈ Ether 10:5]] · [[Ether 10#^ether-10-16|≈ Ether 10:16]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]]
+> [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]] · [[Ether 10#^ether-10-5|≈ Ether 10:5]] · [[Ether 10#^ether-10-16|≈ Ether 10:16]] · [[2 Chronicles 28#^2chr-28-1|≈ 2 Chronicles 28:1]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]]
 
 ![[2 Kings 16#^2kgs-16-3]]
 > [[Leviticus 18#^lev-18-21|Lev. 18:21]] · [[2 Kings 17#^2kgs-17-17|2 Kgs. 17:17]] · [[2 Kings 17#^2kgs-17-8|≈ 2 Kings 17:8]] · [[2 Kings 21#^2kgs-21-2|≈ 2 Kings 21:2]] · [[2 Kings 8#^2kgs-8-18|≈ 2 Kings 8:18]] · [[2 Kings 8#^2kgs-8-27|≈ 2 Kings 8:27]] · [[2 Chronicles 28#^2chr-28-3|≈ 2 Chronicles 28:3]] · [[2 Chronicles 33#^2chr-33-2|≈ 2 Chronicles 33:2]]
 
 ![[2 Kings 16#^2kgs-16-4]]
-> [[1 Kings 14#^1kgs-14-22|1 Kgs. 14:23 (22–23)]] · [[Isaiah 57#^isa-57-5|Isa. 57:5]] · [[2 Kings 12#^2kgs-12-3|≈ 2 Kings 12:3]] · [[2 Chronicles 28#^2chr-28-4|≈ 2 Chronicles 28:4]]
+> [[1 Kings 14#^1kgs-14-22|1 Kgs. 14:23 (22–23)]] · [[Isaiah 57#^isa-57-5|Isa. 57:5]] · [[2 Chronicles 28#^2chr-28-4|≈ 2 Chronicles 28:4]] · [[2 Kings 12#^2kgs-12-3|≈ 2 Kings 12:3]]
 
 ![[2 Kings 16#^2kgs-16-5]]
 > [[2 Kings 15#^2kgs-15-36|2 Kgs. 15:37 (36–38)]] · [[Isaiah 7#^isa-7-1|Isa. 7:1]]
@@ -66,4 +66,4 @@ cssclasses:
 > [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]]
 
 ![[2 Kings 16#^2kgs-16-20]]
-> [[Isaiah 1#^isa-1-1|Isa. 1:1]] · [[Isaiah 14#^isa-14-28|14:28]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 12#^2kgs-12-21|≈ 2 Kings 12:21]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]] · [[2 Kings 14#^2kgs-14-20|≈ 2 Kings 14:20]]
+> [[Isaiah 1#^isa-1-1|Isa. 1:1]] · [[Isaiah 14#^isa-14-28|14:28]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]] · [[2 Kings 12#^2kgs-12-21|≈ 2 Kings 12:21]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]] · [[2 Kings 14#^2kgs-14-20|≈ 2 Kings 14:20]]

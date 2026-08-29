@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 7
 slug: luke-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 7]] · My notes: [[Luke 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus heals the centurion’s servant—Jesus raises from death the son of the widow of Nain—He praises John the Baptist as more than a prophet—A woman anoints Jesus’ feet, and He forgives her sins.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 19]] — 2 footnote cross-references (from [[Luke 7#^luke-7-9|Luke 7:9]])
+- [[Matthew 11]] — 2 footnote cross-references (from [[Luke 7#^luke-7-18|Luke 7:18]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
+- [[D&C 110]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
 - [[Matthew 11]] — 13 parallel verses, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
 - [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 7#^luke-7-8|Luke 7:8]] ↔ [[Matthew 8#^matt-8-9|Matthew 8:9]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Mark 1#^mark-1-2|Mark 1:2]]

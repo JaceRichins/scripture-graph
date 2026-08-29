@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 29]] · My notes: [[2 Nephi 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many Gentiles will reject the Book of Mormon—They will say, We need no more Bible—The Lord speaks to many nations—He will judge the world out of the books which will be written. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 13]] — 6 footnote cross-references (from [[2 Nephi 29#^2ne-29-3|2 Nephi 29:3]])
+- [[2 Nephi 3]] — 4 footnote cross-references (from [[2 Nephi 29#^2ne-29-2|2 Nephi 29:2]])
+- [[2 Nephi 27]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]])
+- [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]])
+- [[Ezekiel 37]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-8|2 Nephi 29:8]])
 - [[2 Nephi 10]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]]
 - [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
 - [[D&C 39]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[D&C 39#^dc-39-11|D&C 39:11]]

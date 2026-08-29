@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 7
 slug: lev-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 7]] · My notes: [[Leviticus 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws governing various sacrifices are listed—The children of Israel are forbidden to eat fat or blood—They worship by sacrifice—Through sacrifice they gain forgiveness, make vows, consecrate their property, render thanks, and are reconciled to God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 18]] — 3 footnote cross-references (from [[Leviticus 7#^lev-7-7|Leviticus 7:7]])
+- [[Leviticus 22]] — 2 footnote cross-references (from [[Leviticus 7#^lev-7-15|Leviticus 7:15]])
+- [[Ezekiel 4]] — 2 footnote cross-references (from [[Leviticus 7#^lev-7-18|Leviticus 7:18]])
+- [[D&C 1]] — 2 footnote cross-references (from [[Leviticus 7#^lev-7-20|Leviticus 7:20]])
+- [[2 Kings 12]] — 1 footnote cross-reference (from [[Leviticus 7#^lev-7-7|Leviticus 7:7]])
+- [[2 Chronicles 29]] — 1 footnote cross-reference (from [[Leviticus 7#^lev-7-12|Leviticus 7:12]])
 - [[Leviticus 3]] — 14 parallel verses, e.g. [[Leviticus 7#^lev-7-4|Leviticus 7:4]] ↔ [[Leviticus 3#^lev-3-4|Leviticus 3:4]]
 - [[Exodus 29]] — 13 parallel verses, e.g. [[Leviticus 7#^lev-7-4|Leviticus 7:4]] ↔ [[Exodus 29#^ex-29-13|Exodus 29:13]]
 - [[Leviticus 23]] — 13 parallel verses, e.g. [[Leviticus 7#^lev-7-5|Leviticus 7:5]] ↔ [[Leviticus 23#^lev-23-36|Leviticus 23:36]]

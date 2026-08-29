@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 58
 slug: ps-58
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 58]] · My notes: [[Psalm 58 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David reproves wicked judges—They go astray and speak lies.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[Psalm 58#^ps-58-1|Psalm 58:1]])
+- [[Isaiah 48]] — 1 footnote cross-reference (from [[Psalm 58#^ps-58-3|Psalm 58:3]])
+- [[Job 4]] — 1 footnote cross-reference (from [[Psalm 58#^ps-58-6|Psalm 58:6]])
+- [[Psalm 68]] — 1 footnote cross-reference (from [[Psalm 58#^ps-58-10|Psalm 58:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

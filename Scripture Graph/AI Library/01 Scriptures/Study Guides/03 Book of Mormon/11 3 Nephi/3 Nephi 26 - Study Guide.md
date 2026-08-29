@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 26
 slug: 3ne-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 26]] · My notes: [[3 Nephi 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus expounds all things from the beginning to the end—Babes and children utter marvelous things that cannot be written—Those in the Church of Christ have all things in common among them. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 28]] — 4 footnote cross-references (from [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]])
+- [[4 Nephi 1]] — 4 footnote cross-references (from [[3 Nephi 26#^3ne-26-7|3 Nephi 26:7]])
+- [[John 21]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-6|3 Nephi 26:6]])
+- [[Words of Mormon 1]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-6|3 Nephi 26:6]])
+- [[Ether 4]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-9|3 Nephi 26:9]])
+- [[Ether 12]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]])
 - [[Mosiah 16]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-5|3 Nephi 26:5]] ↔ [[Mosiah 16#^mosiah-16-11|Mosiah 16:11]]
 - [[4 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]] ↔ [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]

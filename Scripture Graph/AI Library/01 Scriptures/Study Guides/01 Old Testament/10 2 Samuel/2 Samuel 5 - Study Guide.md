@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 5
 slug: 2sam-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 5]] · My notes: [[2 Samuel 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All Israel anoints David king—He takes Jerusalem and is blessed of the Lord—He conquers the Philistines.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 11]] — 4 footnote cross-references (from [[2 Samuel 5#^2sam-5-1|2 Samuel 5:1]])
+- [[1 Chronicles 14]] — 4 footnote cross-references (from [[2 Samuel 5#^2sam-5-3|2 Samuel 5:3]])
+- [[2 Samuel 2]] — 3 footnote cross-references (from [[2 Samuel 5#^2sam-5-3|2 Samuel 5:3]])
+- [[2 Samuel 8]] — 2 footnote cross-references (from [[2 Samuel 5#^2sam-5-4|2 Samuel 5:4]])
+- [[1 Kings 2]] — 2 footnote cross-references (from [[2 Samuel 5#^2sam-5-4|2 Samuel 5:4]])
+- [[1 Chronicles 12]] — 1 footnote cross-reference (from [[2 Samuel 5#^2sam-5-3|2 Samuel 5:3]])
 - [[1 Chronicles 14]] — 9 parallel verses, e.g. [[2 Samuel 5#^2sam-5-24|2 Samuel 5:24]] ↔ [[1 Chronicles 14#^1chr-14-15|1 Chronicles 14:15]]
 - [[1 Chronicles 11]] — 3 parallel verses, e.g. [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]] ↔ [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]]
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Samuel 5#^2sam-5-4|2 Samuel 5:4]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]

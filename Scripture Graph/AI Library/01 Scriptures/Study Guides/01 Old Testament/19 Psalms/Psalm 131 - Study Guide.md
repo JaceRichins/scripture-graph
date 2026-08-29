@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 131
 slug: ps-131
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 131]] · My notes: [[Psalm 131 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, Let Israel hope in the Lord forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 30]] — 1 footnote cross-reference (from [[Psalm 131#^ps-131-1|Psalm 131:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

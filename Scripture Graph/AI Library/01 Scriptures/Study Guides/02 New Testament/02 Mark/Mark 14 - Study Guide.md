@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 14
 slug: mark-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 14]] · My notes: [[Mark 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is anointed with oil—He eats the Passover, institutes the sacrament, suffers in Gethsemane, and is betrayed by Judas—Jesus is falsely accused, and Peter denies that he knows Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 26]] — 4 footnote cross-references (from [[Mark 14#^mark-14-1|Mark 14:1]])
+- [[Luke 22]] — 4 footnote cross-references (from [[Mark 14#^mark-14-1|Mark 14:1]])
+- [[D&C 117]] — 1 footnote cross-reference (from [[Mark 14#^mark-14-4|Mark 14:4]])
+- [[John 12]] — 1 footnote cross-reference (from [[Mark 14#^mark-14-9|Mark 14:9]])
+- [[John 6]] — 1 footnote cross-reference (from [[Mark 14#^mark-14-22|Mark 14:22]])
+- [[D&C 27]] — 1 footnote cross-reference (from [[Mark 14#^mark-14-25|Mark 14:25]])
 - [[Matthew 26]] — 29 parallel verses, e.g. [[Mark 14#^mark-14-27|Mark 14:27]] ↔ [[Matthew 26#^matt-26-31|Matthew 26:31]]
 - [[Luke 22]] — 12 parallel verses, e.g. [[Mark 14#^mark-14-14|Mark 14:14]] ↔ [[Luke 22#^luke-22-11|Luke 22:11]]
 - [[Mark 11]] — 3 parallel verses, e.g. [[Mark 14#^mark-14-43|Mark 14:43]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]

@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 37|Plain text]] · [[Job 37 - Study Guide|Study guide]] · [[Job 37 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Elihu concludes, saying, The Lord controls the laws of nature—God reigns in terrible majesty.
+
 ![[Job 37#^job-37-1]]
 
 ![[Job 37#^job-37-2]]
@@ -40,6 +43,7 @@ cssclasses:
 ![[Job 37#^job-37-13]]
 
 ![[Job 37#^job-37-14]]
+> [[Psalm 46#^ps-46-10|Ps. 46:10]]
 
 ![[Job 37#^job-37-15]]
 
@@ -58,5 +62,6 @@ cssclasses:
 ![[Job 37#^job-37-22]]
 
 ![[Job 37#^job-37-23]]
+> [[1 Corinthians 10#^1cor-10-13|1 Cor. 10:13]] · [[Alma 13#^alma-13-28|Alma 13:28]]
 
 ![[Job 37#^job-37-24]]

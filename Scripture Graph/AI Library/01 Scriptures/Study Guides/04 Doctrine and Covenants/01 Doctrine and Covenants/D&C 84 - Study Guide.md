@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 84
 slug: dc-84
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -63,25 +63,25 @@ Verse 6 begins a statement about the sons of Moses that verse 31 explicitly resu
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 6]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-82|D&C 84:82]] ↔ [[Matthew 6#^matt-6-28|Matthew 6:28]]
 - [[3 Nephi 13]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-82|D&C 84:82]] ↔ [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]]
+- [[Luke 12]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-81|D&C 84:81]] ↔ [[Luke 12#^luke-12-29|Luke 12:29]]
 - [[John 16]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-119|D&C 84:119]] ↔ [[John 16#^john-16-16|John 16:16]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[Alma 13]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-17|D&C 84:17]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
+- [[D&C 93]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-41|D&C 84:41]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-65|D&C 84:65]] ↔ [[Mark 16#^mark-16-17|Mark 16:17]]
+- [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-65|D&C 84:65]] ↔ [[Mormon 9#^morm-9-24|Mormon 9:24]]
+- [[John 1]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-28|D&C 84:28]] ↔ [[John 1#^john-1-23|John 1:23]]
 - [[Revelation 21]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
-- [[3 Nephi 20]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-98|D&C 84:98]] ↔ [[3 Nephi 20#^3ne-20-32|3 Nephi 20:32]]
-- [[D&C 70]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-73|D&C 84:73]] ↔ [[D&C 70#^dc-70-6|D&C 70:6]]
-- [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]]
-- [[D&C 38]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
-- [[Revelation 1]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[Revelation 1#^rev-1-8|Revelation 1:8]]
-- [[D&C 27]] — 1 parallel verse, e.g. [[D&C 84#^dc-84-81|D&C 84:81]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Covenants]]
 - [[Aaronic Priesthood]]
 - [[Ordinances]]
-- [[Covenants]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Prophecy]]
 - [[Signs of the Times]]

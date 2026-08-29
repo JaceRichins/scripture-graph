@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 13]] · My notes: [[1 Samuel 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul offers a burnt offering—The Lord rejects him and chooses another captain over His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 14]] — 4 footnote cross-references (from [[1 Samuel 13#^1sam-13-6|1 Samuel 13:6]])
+- [[1 Samuel 10]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-9|1 Samuel 13:9]])
+- [[Judges 18]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]])
+- [[1 Samuel 15]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-14|1 Samuel 13:14]])
+- [[1 Chronicles 10]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-14|1 Samuel 13:14]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-19|1 Samuel 13:19]])
 - [[2 Kings 10]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 6
 slug: 1ne-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 6]] · My notes: [[1 Nephi 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi writes of the things of God—Nephi’s purpose is to persuade men to come unto the God of Abraham and be saved. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-1|1 Nephi 6:1]])
+- [[1 Nephi 9]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-1|1 Nephi 6:1]])
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-1|1 Nephi 6:1]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-1|1 Nephi 6:1]])
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-2|1 Nephi 6:2]])
+- [[Jacob 7]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-3|1 Nephi 6:3]])
 - [[Alma 36]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]

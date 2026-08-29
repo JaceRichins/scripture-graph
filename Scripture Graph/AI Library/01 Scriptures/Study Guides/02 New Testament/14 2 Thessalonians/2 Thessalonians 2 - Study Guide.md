@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 2
 slug: 2thes-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Thessalonians 2]] · My notes: [[2 Thessalonians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Apostasy is to precede the Second Coming—The gospel prepares men for eternal glory.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 2#^2thes-2-1|2 Thessalonians 2:1]] ↔ [[1 Corinthians 1#^1cor-1-7|1 Corinthians 1:7]]
+- [[1 Thessalonians 4]] — 1 footnote cross-reference (from [[2 Thessalonians 2#^2thes-2-2|2 Thessalonians 2:2]])
+- [[Luke 19]] — 1 footnote cross-reference (from [[2 Thessalonians 2#^2thes-2-2|2 Thessalonians 2:2]])
+- [[1 John 4]] — 1 footnote cross-reference (from [[2 Thessalonians 2#^2thes-2-16|2 Thessalonians 2:16]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[2 Thessalonians 2#^2thes-2-16|2 Thessalonians 2:16]])
+- [[Philippians 3]] — 1 footnote cross-reference (from [[2 Thessalonians 2#^2thes-2-16|2 Thessalonians 2:16]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

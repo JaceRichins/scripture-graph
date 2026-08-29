@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 115
 slug: ps-115
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 115]] · My notes: [[Psalm 115 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Our God is in the heavens—Idols are false gods—Trust in the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 48]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-1|Psalm 115:1]])
+- [[Exodus 20]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-4|Psalm 115:4]])
+- [[Jeremiah 10]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-4|Psalm 115:4]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-5|Psalm 115:5]])
+- [[Isaiah 44]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-5|Psalm 115:5]])
+- [[Deuteronomy 1]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-14|Psalm 115:14]])
 - [[Psalm 135]] — 4 parallel verses, e.g. [[Psalm 115#^ps-115-8|Psalm 115:8]] ↔ [[Psalm 135#^ps-135-18|Psalm 135:18]]
 - [[Psalm 113]] — 1 parallel verse, e.g. [[Psalm 115#^ps-115-18|Psalm 115:18]] ↔ [[Psalm 113#^ps-113-2|Psalm 113:2]]
 <!-- SG:END related-scriptures -->

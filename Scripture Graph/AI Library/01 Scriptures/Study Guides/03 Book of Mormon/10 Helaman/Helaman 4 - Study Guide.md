@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 4
 slug: hel-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 4]] · My notes: [[Helaman 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephite dissenters and the Lamanites join forces and take the land of Zarahemla—The Nephites’ defeats come because of their wickedness—The Church dwindles, and the people become weak like the Lamanites. About 38–30 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 5]] — 3 footnote cross-references (from [[Helaman 4#^hel-4-4|Helaman 4:4]])
+- [[Helaman 11]] — 2 footnote cross-references (from [[Helaman 4#^hel-4-3|Helaman 4:3]])
+- [[Helaman 1]] — 2 footnote cross-references (from [[Helaman 4#^hel-4-3|Helaman 4:3]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[Helaman 4#^hel-4-1|Helaman 4:1]])
+- [[Alma 63]] — 1 footnote cross-reference (from [[Helaman 4#^hel-4-4|Helaman 4:4]])
+- [[Alma 22]] — 1 footnote cross-reference (from [[Helaman 4#^hel-4-7|Helaman 4:7]])
 - [[Helaman 11]] — 3 parallel verses, e.g. [[Helaman 4#^hel-4-18|Helaman 4:18]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Helaman 4#^hel-4-18|Helaman 4:18]] ↔ [[Helaman 6#^hel-6-1|Helaman 6:1]]
 - [[Helaman 7]] — 2 parallel verses, e.g. [[Helaman 4#^hel-4-14|Helaman 4:14]] ↔ [[Helaman 7#^hel-7-2|Helaman 7:2]]

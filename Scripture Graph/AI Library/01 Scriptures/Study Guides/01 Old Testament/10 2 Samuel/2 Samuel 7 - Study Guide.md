@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 7
 slug: 2sam-7
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -62,11 +62,11 @@ Verse 11 contains the principal verbal reversal: David intends a house for God, 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Covenants]]
 - [[Prophecy]]
 - [[1 Chronicles 22]]
 - [[Exodus and Deliverance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

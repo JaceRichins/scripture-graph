@@ -65,7 +65,7 @@ cssclasses:
 > [[D&C 138#^dc-138-48|≈ D&C 138:48]] · [[Ephesians 1#^eph-1-10|≈ Ephesians 1:10]] · [[D&C 124#^dc-124-41|≈ D&C 124:41]] · [[D&C 112#^dc-112-30|≈ D&C 112:30]] · [[D&C 121#^dc-121-31|≈ D&C 121:31]]
 
 ![[D&C 128#^dc-128-21]]
-> [[Isaiah 28#^isa-28-10|≈ Isaiah 28:10]] · [[Isaiah 28#^isa-28-13|≈ Isaiah 28:13]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[2 Nephi 28#^2ne-28-30|≈ 2 Nephi 28:30]] · [[D&C 115#^dc-115-3|≈ D&C 115:3]]
+> [[Isaiah 28#^isa-28-10|≈ Isaiah 28:10]] · [[Isaiah 28#^isa-28-13|≈ Isaiah 28:13]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[Official Declaration 1#^od-1-9|≈ Official Declaration 1:9]] · [[Official Declaration 1#^od-1-3|≈ Official Declaration 1:3]]
 
 ![[D&C 128#^dc-128-22]]
 

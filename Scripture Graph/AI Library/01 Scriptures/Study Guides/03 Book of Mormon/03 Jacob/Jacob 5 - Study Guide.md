@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 5
 slug: jacob-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 5]] · My notes: [[Jacob 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob quotes Zenos relative to the allegory of the tame and wild olive trees—They are a likeness of Israel and the Gentiles—The scattering and gathering of Israel are prefigured—Allusions are made to the Nephites and Lamanites and all the house of Israel—The Gentiles will be grafted into Israel—Eventually the vineyard will be burned. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 6]] — 7 footnote cross-references (from [[Jacob 5#^jacob-5-1|Jacob 5:1]])
+- [[Ezekiel 17]] — 4 footnote cross-references (from [[Jacob 5#^jacob-5-8|Jacob 5:8]])
+- [[D&C 101]] — 3 footnote cross-references (from [[Jacob 5#^jacob-5-3|Jacob 5:3]])
+- [[2 Nephi 30]] — 3 footnote cross-references (from [[Jacob 5#^jacob-5-6|Jacob 5:6]])
+- [[Romans 11]] — 2 footnote cross-references (from [[Jacob 5#^jacob-5-3|Jacob 5:3]])
+- [[1 Nephi 10]] — 2 footnote cross-references (from [[Jacob 5#^jacob-5-3|Jacob 5:3]])
 - [[D&C 101]] — 14 parallel verses, e.g. [[Jacob 5#^jacob-5-15|Jacob 5:15]] ↔ [[D&C 101#^dc-101-55|D&C 101:55]]
 - [[Alma 5]] — 9 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]
 - [[D&C 45]] — 6 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 23
 slug: job-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 23]] · My notes: [[Job 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job seeks the Lord and asserts his own righteousness—He says, When the Lord has tried me, I will come forth as gold.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 34]] — 1 footnote cross-reference (from [[Job 23#^job-23-2|Job 23:2]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Job 23#^job-23-6|Job 23:6]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Job 23#^job-23-7|Job 23:7]])
+- [[D&C 108]] — 1 footnote cross-reference (from [[Job 23#^job-23-7|Job 23:7]])
+- [[Genesis 45]] — 1 footnote cross-reference (from [[Job 23#^job-23-15|Job 23:15]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 11
 slug: 1kgs-11
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -74,10 +74,10 @@ The chapter presents Solomon's covenant disloyalty as the beginning of his kingd
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[1 Kings 14]]
 - [[Covenants]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

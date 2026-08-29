@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 1
 slug: 1cor-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 1]] · My notes: [[1 Corinthians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> True Saints are perfectly united in the same mind and in the same judgment—Preach the gospel and save souls—The gospel is preached by the weak and the simple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 27]] — 2 footnote cross-references (from [[1 Corinthians 1#^1cor-1-8|1 Corinthians 1:8]])
+- [[D&C 133]] — 2 footnote cross-references (from [[1 Corinthians 1#^1cor-1-20|1 Corinthians 1:20]])
+- [[1 Thessalonians 3]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-7|1 Corinthians 1:7]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-7|1 Corinthians 1:7]])
+- [[D&C 4]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-8|1 Corinthians 1:8]])
+- [[Acts 4]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]])
 - [[2 Corinthians 1]] — 2 parallel verses, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]

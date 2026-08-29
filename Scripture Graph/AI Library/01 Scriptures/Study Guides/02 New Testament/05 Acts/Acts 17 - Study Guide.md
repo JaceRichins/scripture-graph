@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 17
 slug: acts-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 17]] · My notes: [[Acts 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul and Silas preach and are persecuted in Thessalonica and in Berea—Paul, in Athens, preaches from Mars’ Hill about the unknown god—He says, We are the offspring of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,8 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ether 1]] — 2 parallel verses, e.g. [[Acts 17#^acts-17-26|Acts 17:26]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
-- [[1 Nephi 14]] — 2 parallel verses, e.g. [[Acts 17#^acts-17-26|Acts 17:26]] ↔ [[1 Nephi 14#^1ne-14-12|1 Nephi 14:12]]
+- [[1 Thessalonians 1]] — 2 footnote cross-references (from [[Acts 17#^acts-17-1|Acts 17:1]])
+- [[Acts 18]] — 2 footnote cross-references (from [[Acts 17#^acts-17-2|Acts 17:2]])
+- [[1 Thessalonians 2]] — 2 footnote cross-references (from [[Acts 17#^acts-17-2|Acts 17:2]])
+- [[Acts 10]] — 2 footnote cross-references (from [[Acts 17#^acts-17-26|Acts 17:26]])
+- [[Alma 14]] — 1 footnote cross-reference (from [[Acts 17#^acts-17-2|Acts 17:2]])
+- [[John 12]] — 1 footnote cross-reference (from [[Acts 17#^acts-17-4|Acts 17:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

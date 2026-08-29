@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 21
 slug: jer-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 21]] · My notes: [[Jeremiah 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah foretells the siege, captivity, and destruction of Jerusalem—Zedekiah is to be taken captive by Nebuchadrezzar.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 38]] — 2 footnote cross-references (from [[Jeremiah 21#^jer-21-1|Jeremiah 21:1]])
+- [[2 Chronicles 36]] — 1 footnote cross-reference (from [[Jeremiah 21#^jer-21-1|Jeremiah 21:1]])
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[Jeremiah 21#^jer-21-1|Jeremiah 21:1]])
+- [[2 Kings 25]] — 1 footnote cross-reference (from [[Jeremiah 21#^jer-21-2|Jeremiah 21:2]])
+- [[Jeremiah 43]] — 1 footnote cross-reference (from [[Jeremiah 21#^jer-21-2|Jeremiah 21:2]])
+- [[Deuteronomy 4]] — 1 footnote cross-reference (from [[Jeremiah 21#^jer-21-5|Jeremiah 21:5]])
 - [[Jeremiah 34]] — 6 parallel verses, e.g. [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]] ↔ [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]]
 - [[Jeremiah 32]] — 6 parallel verses, e.g. [[Jeremiah 21#^jer-21-9|Jeremiah 21:9]] ↔ [[Jeremiah 32#^jer-32-36|Jeremiah 32:36]]
 - [[Jeremiah 38]] — 4 parallel verses, e.g. [[Jeremiah 21#^jer-21-9|Jeremiah 21:9]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]

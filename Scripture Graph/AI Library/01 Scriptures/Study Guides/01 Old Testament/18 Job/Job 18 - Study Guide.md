@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 18
 slug: job-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 18]] · My notes: [[Job 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bildad tells of the damned state of the wicked who know not God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 13]] — 1 footnote cross-reference (from [[Job 18#^job-18-5|Job 18:5]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[Job 18#^job-18-5|Job 18:5]])
+- [[Proverbs 24]] — 1 footnote cross-reference (from [[Job 18#^job-18-5|Job 18:5]])
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[Job 18#^job-18-16|Job 18:16]])
+- [[2 Nephi 15]] — 1 footnote cross-reference (from [[Job 18#^job-18-16|Job 18:16]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Job 18#^job-18-16|Job 18:16]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

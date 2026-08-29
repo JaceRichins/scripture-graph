@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 4]] · My notes: [[Mark 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parables of the sower, the candle under a bushel, the seed growing secretly, and the mustard seed—He stills the tempest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 13]] — 2 footnote cross-references (from [[Mark 4#^mark-4-1|Mark 4:1]])
+- [[Luke 8]] — 2 footnote cross-references (from [[Mark 4#^mark-4-11|Mark 4:11]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-2|Mark 4:2]])
+- [[D&C 86]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-3|Mark 4:3]])
+- [[D&C 40]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-16|Mark 4:16]])
+- [[1 Nephi 8]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-17|Mark 4:17]])
 - [[Luke 8]] — 8 parallel verses, e.g. [[Mark 4#^mark-4-25|Mark 4:25]] ↔ [[Luke 8#^luke-8-18|Luke 8:18]]
 - [[Matthew 13]] — 7 parallel verses, e.g. [[Mark 4#^mark-4-25|Mark 4:25]] ↔ [[Matthew 13#^matt-13-12|Matthew 13:12]]
 - [[Matthew 8]] — 2 parallel verses, e.g. [[Mark 4#^mark-4-41|Mark 4:41]] ↔ [[Matthew 8#^matt-8-27|Matthew 8:27]]

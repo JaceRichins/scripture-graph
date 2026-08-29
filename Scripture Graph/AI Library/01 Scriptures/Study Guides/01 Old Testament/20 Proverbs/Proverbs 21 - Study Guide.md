@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 21
 slug: prov-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 21]] · My notes: [[Proverbs 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Do righteousness and justice—Follow after righteousness and mercy—Safety comes from the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 8]] — 2 footnote cross-references (from [[Proverbs 21#^prov-21-1|Proverbs 21:1]])
+- [[Proverbs 19]] — 2 footnote cross-references (from [[Proverbs 21#^prov-21-9|Proverbs 21:9]])
+- [[Proverbs 25]] — 2 footnote cross-references (from [[Proverbs 21#^prov-21-9|Proverbs 21:9]])
+- [[Proverbs 3]] — 2 footnote cross-references (from [[Proverbs 21#^prov-21-10|Proverbs 21:10]])
+- [[Proverbs 16]] — 1 footnote cross-reference (from [[Proverbs 21#^prov-21-2|Proverbs 21:2]])
+- [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 21#^prov-21-2|Proverbs 21:2]])
 - [[Proverbs 25]] — 2 parallel verses, e.g. [[Proverbs 21#^prov-21-9|Proverbs 21:9]] ↔ [[Proverbs 25#^prov-25-24|Proverbs 25:24]]
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 21#^prov-21-15|Proverbs 21:15]] ↔ [[Proverbs 10#^prov-10-29|Proverbs 10:29]]
 <!-- SG:END related-scriptures -->

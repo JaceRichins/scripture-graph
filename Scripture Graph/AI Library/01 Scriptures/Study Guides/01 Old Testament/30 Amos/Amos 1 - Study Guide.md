@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 1
 slug: amos-1
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -55,13 +55,13 @@ Each national oracle begins with the three-and-four formula and announces punish
 - [[Hosea 1]] — 1 footnote cross-reference (from [[Amos 1#^amos-1-1|Amos 1:1]])
 - [[Amos 7]] — 1 footnote cross-reference (from [[Amos 1#^amos-1-1|Amos 1:1]])
 - [[Zechariah 14]] — 1 footnote cross-reference (from [[Amos 1#^amos-1-1|Amos 1:1]])
+- [[Amos 2]] — 19 parallel verses, e.g. [[Amos 1#^amos-1-3|Amos 1:3]] ↔ [[Amos 2#^amos-2-4|Amos 2:4]]
+- [[Hosea 1]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-1|Amos 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
 - [[Hosea 8]] — 4 parallel verses, e.g. [[Amos 1#^amos-1-14|Amos 1:14]] ↔ [[Hosea 8#^hosea-8-14|Hosea 8:14]]
+- [[Jeremiah 49]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-14|Amos 1:14]] ↔ [[Jeremiah 49#^jer-49-27|Jeremiah 49:27]]
 - [[Zechariah 14]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-1|Amos 1:1]] ↔ [[Zechariah 14#^zech-14-5|Zechariah 14:5]]
 - [[Joel 3]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-2|Amos 1:2]] ↔ [[Joel 3#^joel-3-16|Joel 3:16]]
 - [[1 Chronicles 5]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-1|Amos 1:1]] ↔ [[1 Chronicles 5#^1chr-5-17|1 Chronicles 5:17]]
-- [[Hosea 1]] — 0 parallel verses
-- [[Amos 2]] — 0 parallel verses
-- [[Jeremiah 49]] — 0 parallel verses
 - [[Ezekiel 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 10
 slug: gen-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 10]] · My notes: [[Genesis 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The descendants of Noah are Japheth, whose descendants are Gentiles; Ham, whose descendants include the Canaanites; and Shem, of whom came Peleg (in whose days the earth was divided).
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 1]] — 8 footnote cross-references (from [[Genesis 10#^gen-10-4|Genesis 10:4]])
+- [[Ezekiel 38]] — 4 footnote cross-references (from [[Genesis 10#^gen-10-2|Genesis 10:2]])
+- [[Ezekiel 27]] — 3 footnote cross-references (from [[Genesis 10#^gen-10-2|Genesis 10:2]])
+- [[Abraham 1]] — 3 footnote cross-references (from [[Genesis 10#^gen-10-6|Genesis 10:6]])
+- [[Genesis 5]] — 1 footnote cross-reference (from [[Genesis 10#^gen-10-1|Genesis 10:1]])
+- [[Revelation 20]] — 1 footnote cross-reference (from [[Genesis 10#^gen-10-2|Genesis 10:2]])
 - [[1 Chronicles 1]] — 12 parallel verses, e.g. [[Genesis 10#^gen-10-2|Genesis 10:2]] ↔ [[1 Chronicles 1#^1chr-1-5|1 Chronicles 1:5]]
 - [[Numbers 26]] — 2 parallel verses, e.g. [[Genesis 10#^gen-10-32|Genesis 10:32]] ↔ [[Numbers 26#^num-26-37|Numbers 26:37]]
 <!-- SG:END related-scriptures -->

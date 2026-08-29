@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 13]] · My notes: [[Hebrews 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Marriage is honorable—Christ is the same everlastingly—Paul explains how the Saints are to offer acceptable sacrifices.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 24]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-2|Hebrews 13:2]])
+- [[Matthew 25]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-3|Hebrews 13:3]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-3|Hebrews 13:3]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-5|Hebrews 13:5]])
+- [[1 Kings 6]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-5|Hebrews 13:5]])
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Hebrews 13#^heb-13-9|Hebrews 13:9]])
 - [[Galatians 1]] — 1 parallel verse, e.g. [[Hebrews 13#^heb-13-21|Hebrews 13:21]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
 - [[2 Timothy 4]] — 1 parallel verse, e.g. [[Hebrews 13#^heb-13-21|Hebrews 13:21]] ↔ [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]]
 <!-- SG:END related-scriptures -->

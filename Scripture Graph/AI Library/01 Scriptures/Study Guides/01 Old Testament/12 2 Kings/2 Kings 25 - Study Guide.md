@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 25
 slug: 2kgs-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 25]] · My notes: [[2 Kings 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nebuchadnezzar again besieges Jerusalem—Zedekiah is captured, Jerusalem and the temple are destroyed, and most of the people of Judah are carried into Babylon—Gedaliah, left to govern the remnant, is slain—The remnant flee to Egypt—Jehoiachin is shown favor in Babylon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 52]] — 6 footnote cross-references (from [[2 Kings 25#^2kgs-25-1|2 Kings 25:1]])
+- [[1 Kings 7]] — 4 footnote cross-references (from [[2 Kings 25#^2kgs-25-13|2 Kings 25:13]])
+- [[Jeremiah 39]] — 3 footnote cross-references (from [[2 Kings 25#^2kgs-25-1|2 Kings 25:1]])
+- [[2 Kings 23]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-6|2 Kings 25:6]])
+- [[Jeremiah 43]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-8|2 Kings 25:8]])
+- [[Jeremiah 40]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]])
 - [[Jeremiah 52]] — 30 parallel verses, e.g. [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]] ↔ [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]]
 - [[Jeremiah 40]] — 10 parallel verses, e.g. [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]] ↔ [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]]
 - [[Jeremiah 39]] — 7 parallel verses, e.g. [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]] ↔ [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]]
@@ -53,6 +60,8 @@ _Not yet developed._
 - [[Ezekiel 24]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-1|2 Kings 25:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
 - [[Genesis 8]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]] ↔ [[Genesis 8#^gen-8-14|Genesis 8:14]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[2 Chronicles 7#^2chr-7-11|2 Chronicles 7:11]]
+- [[Jeremiah 52]] — 0 parallel verses
+- [[2 Chronicles 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

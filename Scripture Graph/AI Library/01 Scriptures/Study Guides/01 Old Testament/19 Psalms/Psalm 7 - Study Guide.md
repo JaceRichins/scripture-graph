@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 7
 slug: ps-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 7]] · My notes: [[Psalm 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David trusts in the Lord, who will judge the people—God is angry with the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 15]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-14|Psalm 7:14]])
+- [[Isaiah 59]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-14|Psalm 7:14]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-15|Psalm 7:15]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-15|Psalm 7:15]])
+- [[Psalm 9]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-16|Psalm 7:16]])
+- [[Galatians 6]] — 1 footnote cross-reference (from [[Psalm 7#^ps-7-16|Psalm 7:16]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

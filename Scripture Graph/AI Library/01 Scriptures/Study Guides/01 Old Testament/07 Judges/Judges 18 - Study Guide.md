@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 18
 slug: judg-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 18]] · My notes: [[Judges 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Danites send men to seek an inheritance—They take Micah’s images and priest, burn the city of Laish, and set up idolatry.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 17]] — 3 footnote cross-references (from [[Judges 18#^judg-18-1|Judges 18:1]])
+- [[Judges 21]] — 1 footnote cross-reference (from [[Judges 18#^judg-18-1|Judges 18:1]])
+- [[Judges 8]] — 1 footnote cross-reference (from [[Judges 18#^judg-18-10|Judges 18:10]])
+- [[Joshua 15]] — 1 footnote cross-reference (from [[Judges 18#^judg-18-12|Judges 18:12]])
+- [[1 Samuel 10]] — 1 footnote cross-reference (from [[Judges 18#^judg-18-15|Judges 18:15]])
+- [[1 Samuel 13]] — 1 footnote cross-reference (from [[Judges 18#^judg-18-15|Judges 18:15]])
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Judges 18#^judg-18-27|Judges 18:27]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
 - [[Judges 17]] — 4 parallel verses, e.g. [[Judges 18#^judg-18-14|Judges 18:14]] ↔ [[Judges 17#^judg-17-3|Judges 17:3]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Judges 18#^judg-18-29|Judges 18:29]] ↔ [[Alma 50#^alma-50-13|Alma 50:13]]

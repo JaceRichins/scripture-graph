@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 9
 slug: alma-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 9]] · My notes: [[Alma 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma commands the people of Ammonihah to repent—The Lord will be merciful to the Lamanites in the last days—If the Nephites forsake the light, they will be destroyed by the Lamanites—The Son of God will come soon—He will redeem those who repent, are baptized, and have faith in His name. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 8]] — 4 footnote cross-references (from [[Alma 9#^alma-9-1|Alma 9:1]])
+- [[Alma 16]] — 4 footnote cross-references (from [[Alma 9#^alma-9-4|Alma 9:4]])
+- [[Alma 10]] — 4 footnote cross-references (from [[Alma 9#^alma-9-6|Alma 9:6]])
+- [[Matthew 3]] — 2 footnote cross-references (from [[Alma 9#^alma-9-8|Alma 9:8]])
+- [[2 Nephi 1]] — 2 footnote cross-references (from [[Alma 9#^alma-9-13|Alma 9:13]])
+- [[Alma 38]] — 2 footnote cross-references (from [[Alma 9#^alma-9-14|Alma 9:14]])
 - [[Alma 42]] — 6 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]

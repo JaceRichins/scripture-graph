@@ -180,7 +180,7 @@ cssclasses:
 > [[Joshua 21#^josh-21-9|≈ Joshua 21:9]] · [[Joshua 21#^josh-21-4|≈ Joshua 21:4]] · [[Joshua 21#^josh-21-5|≈ Joshua 21:5]] · [[Joshua 21#^josh-21-6|≈ Joshua 21:6]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]
 
 ![[1 Chronicles 6#^1chr-6-66]]
-> [[Joshua 21#^josh-21-20|Josh. 21:20 (20–26)]] · [[Numbers 3#^num-3-29|≈ Numbers 3:29]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]]
+> [[Joshua 21#^josh-21-20|Josh. 21:20 (20–26)]] · [[Joshua 21#^josh-21-5|≈ Joshua 21:5]] · [[Numbers 3#^num-3-29|≈ Numbers 3:29]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]]
 
 ![[1 Chronicles 6#^1chr-6-67]]
 

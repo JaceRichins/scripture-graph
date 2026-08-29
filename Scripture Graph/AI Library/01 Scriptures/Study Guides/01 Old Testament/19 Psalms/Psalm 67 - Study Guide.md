@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 67
 slug: ps-67
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 67]] · My notes: [[Psalm 67 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm—The Lord will cause His face to shine upon men—He will judge and govern in righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,13 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Isaiah 52]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
-- [[Mosiah 12]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
-- [[Mosiah 15]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
-- [[3 Nephi 16]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
-- [[3 Nephi 20]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
-- [[D&C 45]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
-- [[D&C 133]] — 1 parallel verse, e.g. [[Psalm 67#^ps-67-7|Psalm 67:7]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
+- [[D&C 50]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-1|Psalm 67:1]])
+- [[Psalm 4]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-1|Psalm 67:1]])
+- [[Luke 2]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-2|Psalm 67:2]])
+- [[Mosiah 15]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-2|Psalm 67:2]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-2|Psalm 67:2]])
+- [[2 Nephi 1]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-6|Psalm 67:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

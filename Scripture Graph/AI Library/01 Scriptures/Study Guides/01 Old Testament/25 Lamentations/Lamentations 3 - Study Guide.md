@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 3
 slug: lam-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Lamentations 3]] · My notes: [[Lamentations 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 2]] — 3 footnote cross-references (from [[Lamentations 3#^lam-3-43|Lamentations 3:43]])
+- [[Psalm 34]] — 2 footnote cross-references (from [[Lamentations 3#^lam-3-25|Lamentations 3:25]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Lamentations 3#^lam-3-25|Lamentations 3:25]])
+- [[Alma 37]] — 2 footnote cross-references (from [[Lamentations 3#^lam-3-25|Lamentations 3:25]])
+- [[Hosea 2]] — 1 footnote cross-reference (from [[Lamentations 3#^lam-3-7|Lamentations 3:7]])
+- [[D&C 122]] — 1 footnote cross-reference (from [[Lamentations 3#^lam-3-7|Lamentations 3:7]])
 - [[Lamentations 2]] — 1 parallel verse, e.g. [[Lamentations 3#^lam-3-48|Lamentations 3:48]] ↔ [[Lamentations 2#^lam-2-11|Lamentations 2:11]]
 <!-- SG:END related-scriptures -->
 

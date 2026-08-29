@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 3
 slug: micah-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 3]] · My notes: [[Micah 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Priests who teach for hire and prophets who divine for money bring a curse upon the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-4|Micah 3:4]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-5|Micah 3:5]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-5|Micah 3:5]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-6|Micah 3:6]])
+- [[D&C 112]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-6|Micah 3:6]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Micah 3#^micah-3-6|Micah 3:6]])
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[Micah 3#^micah-3-12|Micah 3:12]] ↔ [[Jeremiah 26#^jer-26-18|Jeremiah 26:18]]
 <!-- SG:END related-scriptures -->
 

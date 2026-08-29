@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 14
 slug: ex-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 14]] · My notes: [[Exodus 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel goes out of Egypt—Israel passes through the Red Sea on dry ground—The Lord overthrows the Egyptians in the midst of the sea.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 15]] — 4 footnote cross-references (from [[Exodus 14#^ex-14-7|Exodus 14:7]])
+- [[Psalm 106]] — 3 footnote cross-references (from [[Exodus 14#^ex-14-11|Exodus 14:11]])
+- [[Numbers 33]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-2|Exodus 14:2]])
+- [[Exodus 7]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-4|Exodus 14:4]])
+- [[Exodus 13]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-12|Exodus 14:12]])
+- [[2 Nephi 7]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-21|Exodus 14:21]])
 - [[Exodus 7]] — 3 parallel verses, e.g. [[Exodus 14#^ex-14-18|Exodus 14:18]] ↔ [[Exodus 7#^ex-7-5|Exodus 7:5]]
 - [[Exodus 10]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-26|Exodus 14:26]] ↔ [[Exodus 10#^ex-10-12|Exodus 10:12]]
 - [[Numbers 33]] — 1 parallel verse, e.g. [[Exodus 14#^ex-14-8|Exodus 14:8]] ↔ [[Numbers 33#^num-33-3|Numbers 33:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 24
 slug: 1chr-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 24]] · My notes: [[1 Chronicles 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons of Aaron and the rest of the sons of Levi are divided into groups and assigned their duties by lot.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 26]] — 2 footnote cross-references (from [[1 Chronicles 24#^1chr-24-23|1 Chronicles 24:23]])
+- [[2 Chronicles 35]] — 1 footnote cross-reference (from [[1 Chronicles 24#^1chr-24-1|1 Chronicles 24:1]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[1 Chronicles 24#^1chr-24-1|1 Chronicles 24:1]])
+- [[Leviticus 10]] — 1 footnote cross-reference (from [[1 Chronicles 24#^1chr-24-2|1 Chronicles 24:2]])
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[1 Chronicles 24#^1chr-24-3|1 Chronicles 24:3]])
+- [[1 Chronicles 6]] — 1 footnote cross-reference (from [[1 Chronicles 24#^1chr-24-3|1 Chronicles 24:3]])
 - [[1 Chronicles 23]] — 1 parallel verse, e.g. [[1 Chronicles 24#^1chr-24-23|1 Chronicles 24:23]] ↔ [[1 Chronicles 23#^1chr-23-19|1 Chronicles 23:19]]
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[1 Chronicles 24#^1chr-24-6|1 Chronicles 24:6]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]

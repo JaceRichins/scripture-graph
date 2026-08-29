@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 32
 slug: ezek-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 32]] · My notes: [[Ezekiel 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel laments for the fearful fall of Pharaoh and of Egypt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joseph Smith—Matthew 1]] — 2 footnote cross-references (from [[Ezekiel 32#^ezek-32-7|Ezekiel 32:7]])
+- [[Isaiah 19]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-2|Ezekiel 32:2]])
+- [[Ezekiel 31]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-2|Ezekiel 32:2]])
+- [[Ezekiel 12]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-3|Ezekiel 32:3]])
+- [[Isaiah 13]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-7|Ezekiel 32:7]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-7|Ezekiel 32:7]])
 - [[Ezekiel 31]] — 10 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]]
 - [[Ezekiel 26]] — 6 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
 - [[Ezekiel 30]] — 3 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]]

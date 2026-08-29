@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 2
 slug: ps-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 2]] · My notes: [[Psalm 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm—The heathen will rage against the Lord’s anointed—The Lord speaks of His Son, whom He has begotten.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 4]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-2|Psalm 2:2]])
+- [[Psalm 48]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-6|Psalm 2:6]])
+- [[Psalm 99]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-6|Psalm 2:6]])
+- [[Isaiah 27]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-6|Psalm 2:6]])
+- [[Isaiah 11]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-9|Psalm 2:9]])
+- [[2 Nephi 21]] — 1 footnote cross-reference (from [[Psalm 2#^ps-2-9|Psalm 2:9]])
 - [[Acts 4]] — 2 parallel verses, e.g. [[Psalm 2#^ps-2-2|Psalm 2:2]] ↔ [[Acts 4#^acts-4-26|Acts 4:26]]
 - [[Acts 13]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Acts 13#^acts-13-33|Acts 13:33]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]

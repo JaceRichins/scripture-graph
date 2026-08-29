@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 26
 slug: alma-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 26]] · My notes: [[Alma 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ammon glories in the Lord—The faithful are strengthened by the Lord and are given knowledge—By faith men may bring thousands of souls unto repentance—God has all power and comprehends all things. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 23]] — 5 footnote cross-references (from [[Alma 26#^alma-26-3|Alma 26:3]])
+- [[Mosiah 28]] — 4 footnote cross-references (from [[Alma 26#^alma-26-1|Alma 26:1]])
+- [[Alma 17]] — 3 footnote cross-references (from [[Alma 26#^alma-26-1|Alma 26:1]])
+- [[Alma 36]] — 3 footnote cross-references (from [[Alma 26#^alma-26-7|Alma 26:7]])
+- [[Alma 24]] — 3 footnote cross-references (from [[Alma 26#^alma-26-32|Alma 26:32]])
+- [[Mosiah 23]] — 2 footnote cross-references (from [[Alma 26#^alma-26-3|Alma 26:3]])
 - [[Alma 17]] — 3 parallel verses, e.g. [[Alma 26#^alma-26-24|Alma 26:24]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Alma 26#^alma-26-23|Alma 26:23]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Alma 26#^alma-26-23|Alma 26:23]] ↔ [[Alma 20#^alma-20-2|Alma 20:2]]

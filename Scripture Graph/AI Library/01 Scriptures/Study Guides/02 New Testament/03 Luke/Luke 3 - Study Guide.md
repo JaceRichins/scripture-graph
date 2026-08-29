@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 3
 slug: luke-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 3]] · My notes: [[Luke 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John the Baptist preaches and baptizes—Jesus is baptized, and God acclaims Him as His Son—Jesus’ genealogy back to Adam is given.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -51,6 +52,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 1]] — 2 footnote cross-references (from [[Luke 3#^luke-3-4|Luke 3:4]])
+- [[Luke 9]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-1|Luke 3:1]])
+- [[John 18]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-2|Luke 3:2]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
+- [[Mark 1]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
 - [[Matthew 3]] — 6 parallel verses, e.g. [[Luke 3#^luke-3-8|Luke 3:8]] ↔ [[Matthew 3#^matt-3-9|Matthew 3:9]]
 - [[Mark 1]] — 4 parallel verses, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[Isaiah 40]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-5|Luke 3:5]] ↔ [[Isaiah 40#^isa-40-4|Isaiah 40:4]]

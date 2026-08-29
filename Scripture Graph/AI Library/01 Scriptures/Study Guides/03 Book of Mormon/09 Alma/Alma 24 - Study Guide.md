@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 24
 slug: alma-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 24]] · My notes: [[Alma 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamanites come against the people of God—The Anti-Nephi-Lehies rejoice in Christ and are visited by angels—They choose to suffer death rather than to defend themselves—More Lamanites are converted. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -46,6 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 25]] — 4 footnote cross-references (from [[Alma 24#^alma-24-1|Alma 24:1]])
+- [[Alma 21]] — 3 footnote cross-references (from [[Alma 24#^alma-24-1|Alma 24:1]])
+- [[Alma 23]] — 3 footnote cross-references (from [[Alma 24#^alma-24-1|Alma 24:1]])
+- [[Alma 26]] — 3 footnote cross-references (from [[Alma 24#^alma-24-15|Alma 24:15]])
+- [[Alma 27]] — 2 footnote cross-references (from [[Alma 24#^alma-24-5|Alma 24:5]])
+- [[Mosiah 23]] — 1 footnote cross-reference (from [[Alma 24#^alma-24-1|Alma 24:1]])
 - [[Alma 23]] — 4 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 23#^alma-23-12|Alma 23:12]]
 - [[Alma 35]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-4|Alma 24:4]] ↔ [[Alma 35#^alma-35-11|Alma 35:11]]
 - [[Alma 21]] — 2 parallel verses, e.g. [[Alma 24#^alma-24-1|Alma 24:1]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]

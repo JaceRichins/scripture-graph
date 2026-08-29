@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 56
 slug: alma-56
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 56]] · My notes: [[Alma 56 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Helaman sends an epistle to Moroni, recounting the state of the war with the Lamanites—Antipus and Helaman gain a great victory over the Lamanites—Helaman’s two thousand stripling sons fight with miraculous power, and none of them are slain. Verse 1, about 62 B.C.; verses 2–19, about 66 B.C.; and verses 20–57, about 65–64 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 53]] — 5 footnote cross-references (from [[Alma 56#^alma-56-1|Alma 56:1]])
+- [[Alma 57]] — 4 footnote cross-references (from [[Alma 56#^alma-56-9|Alma 56:9]])
+- [[Alma 58]] — 3 footnote cross-references (from [[Alma 56#^alma-56-1|Alma 56:1]])
+- [[Alma 52]] — 2 footnote cross-references (from [[Alma 56#^alma-56-12|Alma 56:12]])
+- [[Alma 59]] — 1 footnote cross-reference (from [[Alma 56#^alma-56-1|Alma 56:1]])
+- [[Alma 24]] — 1 footnote cross-reference (from [[Alma 56#^alma-56-7|Alma 56:7]])
 - [[Alma 52]] — 6 parallel verses, e.g. [[Alma 56#^alma-56-26|Alma 56:26]] ↔ [[Alma 52#^alma-52-5|Alma 52:5]]
 - [[Alma 54]] — 4 parallel verses, e.g. [[Alma 56#^alma-56-2|Alma 56:2]] ↔ [[Alma 54#^alma-54-15|Alma 54:15]]
 - [[Mormon 6]] — 3 parallel verses, e.g. [[Alma 56#^alma-56-50|Alma 56:50]] ↔ [[Mormon 6#^morm-6-6|Mormon 6:6]]

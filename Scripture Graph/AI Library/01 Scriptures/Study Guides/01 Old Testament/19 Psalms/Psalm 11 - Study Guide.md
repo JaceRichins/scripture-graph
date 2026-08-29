@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 11
 slug: ps-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 11]] · My notes: [[Psalm 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David rejoices that the Lord is in His holy temple—The Lord tests the righteous and hates the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 64]] — 1 footnote cross-reference (from [[Psalm 11#^ps-11-2|Psalm 11:2]])
+- [[Isaiah 3]] — 1 footnote cross-reference (from [[Psalm 11#^ps-11-6|Psalm 11:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

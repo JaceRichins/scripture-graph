@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 2
 slug: 1sam-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 2]] · My notes: [[1 Samuel 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hannah sings praises to the Lord—Samuel ministers before the Lord—Eli blesses Elkanah and Hannah, and they have sons and daughters—The sons of Eli reject the Lord and live in wickedness—The Lord rejects the house of Eli.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 75]] — 3 footnote cross-references (from [[1 Samuel 2#^1sam-2-1|1 Samuel 2:1]])
+- [[1 Samuel 3]] — 3 footnote cross-references (from [[1 Samuel 2#^1sam-2-12|1 Samuel 2:12]])
+- [[1 Samuel 1]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-12|1 Samuel 2:12]])
+- [[Malachi 2]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-17|1 Samuel 2:17]])
+- [[Exodus 28]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-18|1 Samuel 2:18]])
+- [[1 Kings 2]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-31|1 Samuel 2:31]])
 - [[Isaiah 38]] — 2 parallel verses, e.g. [[1 Samuel 2#^1sam-2-34|1 Samuel 2:34]] ↔ [[Isaiah 38#^isa-38-7|Isaiah 38:7]]
 - [[Psalm 113]] — 1 parallel verse, e.g. [[1 Samuel 2#^1sam-2-8|1 Samuel 2:8]] ↔ [[Psalm 113#^ps-113-7|Psalm 113:7]]
 - [[1 Kings 20]] — 2 parallel verses, e.g. [[1 Samuel 2#^1sam-2-27|1 Samuel 2:27]] ↔ [[1 Kings 20#^1kgs-20-42|1 Kings 20:42]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 12
 slug: deut-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 12]] · My notes: [[Deuteronomy 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is to destroy the Canaanite gods and places of worship—The Lord will designate where His people will worship—The eating of blood is forbidden—Israel’s worship must conform to the divine standard.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 15]] — 2 footnote cross-references (from [[Deuteronomy 12#^deut-12-5|Deuteronomy 12:5]])
+- [[Deuteronomy 26]] — 2 footnote cross-references (from [[Deuteronomy 12#^deut-12-5|Deuteronomy 12:5]])
+- [[2 Kings 12]] — 1 footnote cross-reference (from [[Deuteronomy 12#^deut-12-2|Deuteronomy 12:2]])
+- [[Exodus 34]] — 1 footnote cross-reference (from [[Deuteronomy 12#^deut-12-3|Deuteronomy 12:3]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Deuteronomy 12#^deut-12-5|Deuteronomy 12:5]])
+- [[2 Chronicles 7]] — 1 footnote cross-reference (from [[Deuteronomy 12#^deut-12-5|Deuteronomy 12:5]])
 - [[Deuteronomy 16]] — 13 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 16#^deut-16-11|Deuteronomy 16:11]]
 - [[Deuteronomy 14]] — 8 parallel verses, e.g. [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]] ↔ [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]]
 - [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]] ↔ [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]]

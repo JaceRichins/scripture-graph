@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 18
 slug: ezek-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 18]] · My notes: [[Ezekiel 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Men will be punished for their own sins—Sinners will die, and the righteous will surely live—A righteous man who sins will be damned, and a sinner who repents will be saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 33]] — 8 footnote cross-references (from [[Ezekiel 18#^ezek-18-7|Ezekiel 18:7]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Ezekiel 18#^ezek-18-6|Ezekiel 18:6]])
+- [[Jeremiah 31]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-2|Ezekiel 18:2]])
+- [[Lamentations 5]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-2|Ezekiel 18:2]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-5|Ezekiel 18:5]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-5|Ezekiel 18:5]])
 - [[Ezekiel 33]] — 18 parallel verses, e.g. [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]] ↔ [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]]
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 18#^ezek-18-30|Ezekiel 18:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]

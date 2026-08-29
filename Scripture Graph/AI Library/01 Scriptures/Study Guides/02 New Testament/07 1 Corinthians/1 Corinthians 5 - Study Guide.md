@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 5
 slug: 1cor-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 5]] · My notes: [[1 Corinthians 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Church cannot fellowship sinners—Christ, our passover, was sacrificed for us.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,9 +39,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Zephaniah 1]] — 2 parallel verses, e.g. [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
-- [[Ephesians 5]] — 1 parallel verse, e.g. [[1 Corinthians 5#^1cor-5-4|1 Corinthians 5:4]] ↔ [[Ephesians 5#^eph-5-20|Ephesians 5:20]]
-- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 5#^1cor-5-4|1 Corinthians 5:4]] ↔ [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]]
+- [[Alma 5]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-2|1 Corinthians 5:2]])
+- [[Alma 6]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-2|1 Corinthians 5:2]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
+- [[D&C 78]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
+- [[D&C 2]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
+- [[Exodus 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

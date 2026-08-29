@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 7
 slug: rev-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 7]] · My notes: [[Revelation 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John also sees in the sixth seal the Restoration of the gospel, the sealing of the 144,000, and the hosts of the exalted from all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 77]] — 4 footnote cross-references (from [[Revelation 7#^rev-7-1|Revelation 7:1]])
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-1|Revelation 7:1]])
+- [[Daniel 11]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-1|Revelation 7:1]])
+- [[Revelation 9]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-3|Revelation 7:3]])
+- [[Revelation 22]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-3|Revelation 7:3]])
+- [[Ezekiel 48]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-5|Revelation 7:5]])
 - [[D&C 77]] — 2 parallel verses, e.g. [[Revelation 7#^rev-7-3|Revelation 7:3]] ↔ [[D&C 77#^dc-77-9|D&C 77:9]]
 - [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 7#^rev-7-17|Revelation 7:17]] ↔ [[Revelation 21#^rev-21-4|Revelation 21:4]]
 <!-- SG:END related-scriptures -->

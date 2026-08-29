@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 34
 slug: ps-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 34]] · My notes: [[Psalm 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David blesses the Lord at all times—He counsels, Keep your tongue from evil; do good and seek peace—He says that not one of the Messiah’s bones will be broken.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Lamentations 3]] — 2 footnote cross-references (from [[Psalm 34#^ps-34-4|Psalm 34:4]])
+- [[Alma 36]] — 2 footnote cross-references (from [[Psalm 34#^ps-34-8|Psalm 34:8]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Psalm 34#^ps-34-1|Psalm 34:1]])
+- [[Ether 6]] — 1 footnote cross-reference (from [[Psalm 34#^ps-34-1|Psalm 34:1]])
+- [[D&C 46]] — 1 footnote cross-reference (from [[Psalm 34#^ps-34-1|Psalm 34:1]])
+- [[D&C 59]] — 1 footnote cross-reference (from [[Psalm 34#^ps-34-1|Psalm 34:1]])
 - [[1 Peter 3]] — 2 parallel verses, e.g. [[Psalm 34#^ps-34-15|Psalm 34:15]] ↔ [[1 Peter 3#^1pet-3-12|1 Peter 3:12]]
 <!-- SG:END related-scriptures -->
 

@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 43|Plain text]] · [[Psalm 43 - Study Guide|Study guide]] · [[Psalm 43 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The righteous praise God and cry, Send out Thy light and Thy truth.
+
 ![[Psalm 43#^ps-43-1]]
 
 ![[Psalm 43#^ps-43-2]]

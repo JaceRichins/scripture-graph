@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 9
 slug: morm-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 9]] · My notes: [[Mormon 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni calls upon those who do not believe in Christ to repent—He proclaims a God of miracles, who gives revelations and pours out gifts and signs upon the faithful—Miracles cease because of unbelief—Signs follow those who believe—Men are exhorted to be wise and keep the commandments. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 8]] — 4 footnote cross-references (from [[Mormon 9#^morm-9-15|Mormon 9:15]])
+- [[Mark 16]] — 3 footnote cross-references (from [[Mormon 9#^morm-9-22|Mormon 9:22]])
+- [[Mormon 5]] — 2 footnote cross-references (from [[Mormon 9#^morm-9-2|Mormon 9:2]])
+- [[D&C 63]] — 2 footnote cross-references (from [[Mormon 9#^morm-9-2|Mormon 9:2]])
+- [[3 Nephi 29]] — 2 footnote cross-references (from [[Mormon 9#^morm-9-7|Mormon 9:7]])
+- [[Alma 7]] — 2 footnote cross-references (from [[Mormon 9#^morm-9-9|Mormon 9:9]])
 - [[Mark 16]] — 4 parallel verses, e.g. [[Mormon 9#^morm-9-24|Mormon 9:24]] ↔ [[Mark 16#^mark-16-18|Mark 16:18]]
 - [[Ether 4]] — 3 parallel verses, e.g. [[Mormon 9#^morm-9-23|Mormon 9:23]] ↔ [[Ether 4#^ether-4-18|Ether 4:18]]
 - [[D&C 68]] — 3 parallel verses, e.g. [[Mormon 9#^morm-9-23|Mormon 9:23]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]

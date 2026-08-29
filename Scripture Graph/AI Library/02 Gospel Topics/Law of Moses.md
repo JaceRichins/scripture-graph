@@ -37,6 +37,13 @@ _Not yet developed._
 - [[2 Nephi 25]]
 - [[Alma 34]]
 - [[Galatians 3]]
+- [[Exodus 29]]
+- [[Exodus 38]]
+- [[Exodus 40]]
+- [[Leviticus 4]]
+- [[Leviticus 8]]
+- [[Leviticus 17]]
+- [[Leviticus 19]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

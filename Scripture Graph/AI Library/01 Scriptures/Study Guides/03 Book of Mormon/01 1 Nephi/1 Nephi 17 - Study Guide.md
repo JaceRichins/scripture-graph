@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 17
 slug: 1ne-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 17]] · My notes: [[1 Nephi 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi is commanded to build a ship—His brethren oppose him—He exhorts them by recounting the history of God’s dealings with Israel—Nephi is filled with the power of God—His brethren are forbidden to touch him, lest they wither as a dried reed. About 592–591 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 18]] — 6 footnote cross-references (from [[1 Nephi 17#^1ne-17-2|1 Nephi 17:2]])
+- [[Deuteronomy 8]] — 4 footnote cross-references (from [[1 Nephi 17#^1ne-17-9|1 Nephi 17:9]])
+- [[1 Nephi 2]] — 4 footnote cross-references (from [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]])
+- [[1 Nephi 4]] — 4 footnote cross-references (from [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]])
+- [[Moses 1]] — 4 footnote cross-references (from [[1 Nephi 17#^1ne-17-23|1 Nephi 17:23]])
+- [[Isaiah 45]] — 3 footnote cross-references (from [[1 Nephi 17#^1ne-17-3|1 Nephi 17:3]])
 - [[1 Nephi 2]] — 4 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
 - [[Mosiah 13]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
 - [[2 Nephi 1]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]

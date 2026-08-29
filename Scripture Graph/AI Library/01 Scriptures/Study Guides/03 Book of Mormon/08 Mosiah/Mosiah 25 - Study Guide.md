@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 25
 slug: mosiah-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 25]] · My notes: [[Mosiah 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The descendants of Mulek at Zarahemla become Nephites—They learn of the people of Alma and of Zeniff—Alma baptizes Limhi and all his people—Mosiah authorizes Alma to organize the Church of God. About 120 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 2 footnote cross-references (from [[Mosiah 25#^mosiah-25-2|Mosiah 25:2]])
+- [[Mosiah 22]] — 2 footnote cross-references (from [[Mosiah 25#^mosiah-25-5|Mosiah 25:5]])
+- [[Mosiah 21]] — 2 footnote cross-references (from [[Mosiah 25#^mosiah-25-9|Mosiah 25:9]])
+- [[Mosiah 18]] — 2 footnote cross-references (from [[Mosiah 25#^mosiah-25-18|Mosiah 25:18]])
+- [[Mosiah 26]] — 2 footnote cross-references (from [[Mosiah 25#^mosiah-25-19|Mosiah 25:19]])
+- [[Helaman 6]] — 1 footnote cross-reference (from [[Mosiah 25#^mosiah-25-2|Mosiah 25:2]])
 - [[Mosiah 7]] — 4 parallel verses, e.g. [[Mosiah 25#^mosiah-25-5|Mosiah 25:5]] ↔ [[Mosiah 7#^mosiah-7-1|Mosiah 7:1]]
 - [[Alma 1]] — 2 parallel verses, e.g. [[Mosiah 25#^mosiah-25-18|Mosiah 25:18]] ↔ [[Alma 1#^alma-1-19|Alma 1:19]]
 - [[D&C 20]] — 2 parallel verses, e.g. [[Mosiah 25#^mosiah-25-23|Mosiah 25:23]] ↔ [[D&C 20#^dc-20-37|D&C 20:37]]

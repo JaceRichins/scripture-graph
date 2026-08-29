@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 1
 slug: 1jn-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 John 1]] · My notes: [[1 John 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints gain fellowship with God by obedience—We must confess our sins to gain forgiveness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[John 1]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-1|1 John 1:1]])
+- [[John 17]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-2|1 John 1:2]])
+- [[1 John 5]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-2|1 John 1:2]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-3|1 John 1:3]])
+- [[John 8]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-5|1 John 1:5]])
+- [[2 Nephi 15]] — 1 footnote cross-reference (from [[1 John 1#^1jn-1-6|1 John 1:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 9
 slug: judg-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 9]] · My notes: [[Judges 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gideon’s son Abimelech is made king—He slays his seventy brothers—Jotham tells a fable of trees choosing a king—The Shechemites conspire against Abimelech—He is slain at Thebez.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 11]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-7|Judges 9:7]])
+- [[Ezekiel 19]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-15|Judges 9:15]])
+- [[Numbers 21]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-21|Judges 9:21]])
+- [[Joshua 8]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-25|Judges 9:25]])
+- [[Genesis 34]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-28|Judges 9:28]])
+- [[2 Samuel 11]] — 1 footnote cross-reference (from [[Judges 9#^judg-9-53|Judges 9:53]])
 - [[1 Samuel 14]] — 4 parallel verses, e.g. [[Judges 9#^judg-9-34|Judges 9:34]] ↔ [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]]
 - [[Judges 4]] — 3 parallel verses, e.g. [[Judges 9#^judg-9-34|Judges 9:34]] ↔ [[Judges 4#^judg-4-13|Judges 4:13]]
 - [[Joshua 8]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-35|Judges 9:35]] ↔ [[Joshua 8#^josh-8-29|Joshua 8:29]]

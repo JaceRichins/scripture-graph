@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 30
 slug: 2ne-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 30]] · My notes: [[2 Nephi 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Converted Gentiles will be numbered with the covenant people—Many Lamanites and Jews will believe the word and become delightsome—Israel will be restored and the wicked destroyed. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 5]] — 3 footnote cross-references (from [[2 Nephi 30#^2ne-30-2|2 Nephi 30:2]])
+- [[1 Nephi 22]] — 3 footnote cross-references (from [[2 Nephi 30#^2ne-30-3|2 Nephi 30:3]])
+- [[3 Nephi 5]] — 2 footnote cross-references (from [[2 Nephi 30#^2ne-30-3|2 Nephi 30:3]])
+- [[Isaiah 11]] — 2 footnote cross-references (from [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]])
+- [[Luke 13]] — 1 footnote cross-reference (from [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]])
+- [[Galatians 3]] — 1 footnote cross-reference (from [[2 Nephi 30#^2ne-30-2|2 Nephi 30:2]])
 - [[Isaiah 11]] — 6 parallel verses, e.g. [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]] ↔ [[Isaiah 11#^isa-11-4|Isaiah 11:4]]
 - [[2 Nephi 21]] — 6 parallel verses, e.g. [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]] ↔ [[2 Nephi 21#^2ne-21-4|2 Nephi 21:4]]
 - [[Isaiah 65]] — 2 parallel verses, e.g. [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]] ↔ [[Isaiah 65#^isa-65-25|Isaiah 65:25]]

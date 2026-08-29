@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 1
 slug: matt-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 1]] · My notes: [[Matthew 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ is born of Mary—She conceives by the power of the Holy Ghost—Our Lord is named Jesus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ruth 4]] — 2 footnote cross-references (from [[Matthew 1#^matt-1-3|Matthew 1:3]])
+- [[1 Chronicles 2]] — 2 footnote cross-references (from [[Matthew 1#^matt-1-3|Matthew 1:3]])
+- [[1 Chronicles 3]] — 2 footnote cross-references (from [[Matthew 1#^matt-1-6|Matthew 1:6]])
+- [[Luke 2]] — 2 footnote cross-references (from [[Matthew 1#^matt-1-21|Matthew 1:21]])
+- [[Genesis 25]] — 1 footnote cross-reference (from [[Matthew 1#^matt-1-2|Matthew 1:2]])
+- [[Genesis 38]] — 1 footnote cross-reference (from [[Matthew 1#^matt-1-3|Matthew 1:3]])
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 1#^matt-1-22|Matthew 1:22]] ↔ [[Matthew 2#^matt-2-15|Matthew 2:15]]
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 1#^matt-1-22|Matthew 1:22]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
 - [[Exodus 3]] — 1 parallel verse, e.g. [[Matthew 1#^matt-1-20|Matthew 1:20]] ↔ [[Exodus 3#^ex-3-2|Exodus 3:2]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 10
 slug: hel-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 10]] · My notes: [[Helaman 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord gives Nephi the sealing power—He is empowered to bind and loose on earth and in heaven—He commands the people to repent or perish—The Spirit carries him from multitude to multitude. About 21–20 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 11]] — 3 footnote cross-references (from [[Helaman 10#^hel-10-6|Helaman 10:6]])
+- [[Acts 23]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
+- [[Acts 20]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
+- [[Mosiah 24]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
+- [[3 Nephi 18]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-5|Helaman 10:5]])
 - [[Matthew 18]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
 - [[Ether 11]] — 2 parallel verses, e.g. [[Helaman 10#^hel-10-1|Helaman 10:1]] ↔ [[Ether 11#^ether-11-15|Ether 11:15]]

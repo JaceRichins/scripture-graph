@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 15
 slug: josh-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 15]] · My notes: [[Joshua 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah is given an inheritance in Canaan—The Jebusites dwell with Judah at Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 34]] — 2 footnote cross-references (from [[Joshua 15#^josh-15-1|Joshua 15:1]])
+- [[Joshua 18]] — 2 footnote cross-references (from [[Joshua 15#^josh-15-6|Joshua 15:6]])
+- [[Judges 1]] — 2 footnote cross-references (from [[Joshua 15#^josh-15-19|Joshua 15:19]])
+- [[Joshua 3]] — 1 footnote cross-reference (from [[Joshua 15#^josh-15-2|Joshua 15:2]])
+- [[Joshua 23]] — 1 footnote cross-reference (from [[Joshua 15#^josh-15-12|Joshua 15:12]])
+- [[Numbers 13]] — 1 footnote cross-reference (from [[Joshua 15#^josh-15-13|Joshua 15:13]])
 - [[Numbers 10]] — 26 parallel verses, e.g. [[Joshua 15#^josh-15-20|Joshua 15:20]] ↔ [[Numbers 10#^num-10-14|Numbers 10:14]]
 - [[Judges 1]] — 6 parallel verses, e.g. [[Joshua 15#^josh-15-19|Joshua 15:19]] ↔ [[Judges 1#^judg-1-15|Judges 1:15]]
 - [[Joshua 19]] — 18 parallel verses, e.g. [[Joshua 15#^josh-15-20|Joshua 15:20]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]

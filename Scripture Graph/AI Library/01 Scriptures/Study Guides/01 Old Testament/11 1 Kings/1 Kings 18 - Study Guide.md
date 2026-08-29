@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 18
 slug: 1kgs-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 18]] · My notes: [[1 Kings 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elijah is sent to meet Ahab—Obadiah saves a hundred prophets and meets Elijah—Elijah challenges the prophets of Baal to call down fire from heaven—They fail—He calls down fire, slays the prophets of Baal, and opens the heavens for rain.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-3|1 Kings 18:3]])
+- [[1 Kings 16]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-4|1 Kings 18:4]])
+- [[2 Kings 6]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-4|1 Kings 18:4]])
+- [[2 Kings 9]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-4|1 Kings 18:4]])
+- [[Ezekiel 37]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-12|1 Kings 18:12]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[1 Kings 18#^1kgs-18-12|1 Kings 18:12]])
 - [[Joshua 4]] — 2 parallel verses, e.g. [[1 Kings 18#^1kgs-18-31|1 Kings 18:31]] ↔ [[Joshua 4#^josh-4-8|Joshua 4:8]]
 - [[2 Kings 3]] — 1 parallel verse, e.g. [[1 Kings 18#^1kgs-18-15|1 Kings 18:15]] ↔ [[2 Kings 3#^2kgs-3-14|2 Kings 3:14]]
 - [[Joshua 10]] — 1 parallel verse, e.g. [[1 Kings 18#^1kgs-18-36|1 Kings 18:36]] ↔ [[Joshua 10#^josh-10-27|Joshua 10:27]]

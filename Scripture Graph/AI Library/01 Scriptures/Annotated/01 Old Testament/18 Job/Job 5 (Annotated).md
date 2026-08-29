@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 5|Plain text]] · [[Job 5 - Study Guide|Study guide]] · [[Job 5 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Eliphaz counsels Job: Man is born unto trouble, seek unto God, and happy is the man whom God corrects.
+
 ![[Job 5#^job-5-1]]
 
 ![[Job 5#^job-5-2]]
@@ -54,14 +57,17 @@ cssclasses:
 ![[Job 5#^job-5-20]]
 
 ![[Job 5#^job-5-21]]
+> [[D&C 38#^dc-38-30|D&amp;C 38:30]]
 
 ![[Job 5#^job-5-22]]
 
 ![[Job 5#^job-5-23]]
+> [[Hosea 2#^hosea-2-18|Hosea 2:18]]
 
 ![[Job 5#^job-5-24]]
 
 ![[Job 5#^job-5-25]]
+> [[Psalm 72#^ps-72-16|Ps. 72:16]]
 
 ![[Job 5#^job-5-26]]
 

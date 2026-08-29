@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 52]] · My notes: [[Isaiah 52 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Zion will return, and Israel will be redeemed—The Messiah will deal prudently and be exalted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 113]] — 2 footnote cross-references (from [[Isaiah 52#^isa-52-1|Isaiah 52:1]])
+- [[3 Nephi 20]] — 1 footnote cross-reference (from [[Isaiah 52#^isa-52-1|Isaiah 52:1]])
+- [[D&C 82]] — 1 footnote cross-reference (from [[Isaiah 52#^isa-52-1|Isaiah 52:1]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[Isaiah 52#^isa-52-2|Isaiah 52:2]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Isaiah 52#^isa-52-3|Isaiah 52:3]])
+- [[Genesis 46]] — 1 footnote cross-reference (from [[Isaiah 52#^isa-52-4|Isaiah 52:4]])
 - [[3 Nephi 20]] — 13 parallel verses, e.g. [[Isaiah 52#^isa-52-15|Isaiah 52:15]] ↔ [[3 Nephi 20#^3ne-20-45|3 Nephi 20:45]]
 - [[Mosiah 12]] — 4 parallel verses, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
 - [[Mosiah 15]] — 6 parallel verses, e.g. [[Isaiah 52#^isa-52-10|Isaiah 52:10]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]

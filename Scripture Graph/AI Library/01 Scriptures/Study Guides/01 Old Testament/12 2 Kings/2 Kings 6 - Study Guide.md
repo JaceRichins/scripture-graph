@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Kings 6]] · My notes: [[2 Kings 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Elisha causes an ax to float—He reveals to the king how to conduct a war with Syria—Horses and chariots of fire protect Elisha—The Syrians are smitten with blindness—Benhadad besieges Samaria, and foodstuff sells for a great price.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 22]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-17|2 Kings 6:17]])
+- [[2 Kings 7]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-17|2 Kings 6:17]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-18|2 Kings 6:18]])
+- [[Genesis 21]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-20|2 Kings 6:20]])
+- [[Romans 12]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-22|2 Kings 6:22]])
+- [[1 Kings 20]] — 1 footnote cross-reference (from [[2 Kings 6#^2kgs-6-24|2 Kings 6:24]])
 - [[1 Kings 22]] — 4 parallel verses, e.g. [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]] ↔ [[1 Kings 22#^1kgs-22-3|1 Kings 22:3]]
 - [[1 Kings 20]] — 3 parallel verses, e.g. [[2 Kings 6#^2kgs-6-24|2 Kings 6:24]] ↔ [[1 Kings 20#^1kgs-20-1|1 Kings 20:1]]
 - [[2 Samuel 14]] — 1 parallel verse, e.g. [[2 Kings 6#^2kgs-6-28|2 Kings 6:28]] ↔ [[2 Samuel 14#^2sam-14-5|2 Samuel 14:5]]

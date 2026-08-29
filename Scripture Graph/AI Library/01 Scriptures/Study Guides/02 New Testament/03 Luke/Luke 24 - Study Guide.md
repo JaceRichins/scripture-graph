@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Angels announce the resurrection of Christ—He walks on the Emmaus road—He appears with a body of flesh and bones, eats food, testifies of His divinity, and promises the Holy Ghost—He ascends into heaven.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 23]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-1|Luke 24:1]])
+- [[Hebrews 13]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-16|Luke 24:16]])
+- [[Ether 3]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-16|Luke 24:16]])
+- [[D&C 25]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-16|Luke 24:16]])
+- [[John 19]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-18|Luke 24:18]])
+- [[Matthew 14]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-25|Luke 24:25]])
 - [[D&C 129]] — 1 parallel verse, e.g. [[Luke 24#^luke-24-39|Luke 24:39]] ↔ [[D&C 129#^dc-129-2|D&C 129:2]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
 - [[Acts 20]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]

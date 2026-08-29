@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 37
 slug: jer-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 37]] · My notes: [[Jeremiah 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah prophesies that Egypt will not save Judah from Babylon—He is cast into a dungeon—Zedekiah transfers him to the court of the prison.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 52]] — 2 footnote cross-references (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
+- [[2 Chronicles 36]] — 1 footnote cross-reference (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
+- [[1 Nephi 5]] — 1 footnote cross-reference (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Jeremiah 37#^jer-37-1|Jeremiah 37:1]])
 - [[Jeremiah 32]] — 5 parallel verses, e.g. [[Jeremiah 37#^jer-37-17|Jeremiah 37:17]] ↔ [[Jeremiah 32#^jer-32-4|Jeremiah 32:4]]
 - [[Jeremiah 38]] — 6 parallel verses, e.g. [[Jeremiah 37#^jer-37-21|Jeremiah 37:21]] ↔ [[Jeremiah 38#^jer-38-13|Jeremiah 38:13]]
 - [[Jeremiah 34]] — 5 parallel verses, e.g. [[Jeremiah 37#^jer-37-7|Jeremiah 37:7]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]

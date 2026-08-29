@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 39
 slug: job-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 39]] · My notes: [[Job 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Man’s weakness and ignorance are compared with God’s mighty works—Does man even know how the laws of nature operate?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Lamentations 4]] — 1 footnote cross-reference (from [[Job 39#^job-39-16|Job 39:16]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

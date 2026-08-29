@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 11
 slug: josh-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 11]] · My notes: [[Joshua 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua and Israel conquer the whole land, destroying many cities and nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 12]] — 2 footnote cross-references (from [[Joshua 11#^josh-11-1|Joshua 11:1]])
+- [[Deuteronomy 20]] — 2 footnote cross-references (from [[Joshua 11#^josh-11-12|Joshua 11:12]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Joshua 11#^josh-11-6|Joshua 11:6]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[Joshua 11#^josh-11-6|Joshua 11:6]])
+- [[Judges 14]] — 1 footnote cross-reference (from [[Joshua 11#^josh-11-20|Joshua 11:20]])
+- [[1 Samuel 17]] — 1 footnote cross-reference (from [[Joshua 11#^josh-11-22|Joshua 11:22]])
 - [[Joshua 10]] — 13 parallel verses, e.g. [[Joshua 11#^josh-11-12|Joshua 11:12]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
 - [[Joshua 8]] — 4 parallel verses, e.g. [[Joshua 11#^josh-11-14|Joshua 11:14]] ↔ [[Joshua 8#^josh-8-24|Joshua 8:24]]
 - [[Joshua 12]] — 1 parallel verse, e.g. [[Joshua 11#^josh-11-17|Joshua 11:17]] ↔ [[Joshua 12#^josh-12-7|Joshua 12:7]]

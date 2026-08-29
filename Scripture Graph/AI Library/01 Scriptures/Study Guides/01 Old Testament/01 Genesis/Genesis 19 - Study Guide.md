@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 19]] · My notes: [[Genesis 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lot entertains holy men—The men of Sodom seek to abuse Lot’s guests and are smitten with blindness—Lot is sent out of Sodom—The Lord rains brimstone and fire upon Sodom and Gomorrah—Lot’s daughters preserve his seed in the land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 13]] — 3 footnote cross-references (from [[Genesis 19#^gen-19-9|Genesis 19:9]])
+- [[Judges 19]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-5|Genesis 19:5]])
+- [[Genesis 18]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-8|Genesis 19:8]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
+- [[Revelation 18]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
+- [[2 Peter 2]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-15|Genesis 19:15]])
 - [[Genesis 4]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 4#^gen-4-25|Genesis 4:25]]
 - [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
 - [[Judges 13]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Judges 13#^judg-13-24|Judges 13:24]]
@@ -48,6 +55,7 @@ _Not yet developed._
 - [[Judges 21]] — 1 parallel verse, e.g. [[Genesis 19#^gen-19-34|Genesis 19:34]] ↔ [[Judges 21#^judg-21-4|Judges 21:4]]
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[Genesis 19#^gen-19-34|Genesis 19:34]] ↔ [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]]
 - [[3 Nephi 26]] — 1 parallel verse, e.g. [[Genesis 19#^gen-19-34|Genesis 19:34]] ↔ [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]]
+- [[Amos 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

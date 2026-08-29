@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 21
 slug: matt-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 21]] · My notes: [[Matthew 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus rides in triumph into Jerusalem—He cleanses the temple, curses the fig tree, and discusses authority—He gives the parables of the two sons and the wicked husbandmen.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Peter 2]] — 2 footnote cross-references (from [[Matthew 21#^matt-21-42|Matthew 21:42]])
+- [[Isaiah 62]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-5|Matthew 21:5]])
+- [[Zechariah 9]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-5|Matthew 21:5]])
+- [[Luke 19]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-9|Matthew 21:9]])
+- [[Psalm 118]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-9|Matthew 21:9]])
+- [[Psalm 27]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-13|Matthew 21:13]])
 - [[Mark 11]] — 16 parallel verses, e.g. [[Matthew 21#^matt-21-12|Matthew 21:12]] ↔ [[Mark 11#^mark-11-15|Mark 11:15]]
 - [[Luke 20]] — 10 parallel verses, e.g. [[Matthew 21#^matt-21-44|Matthew 21:44]] ↔ [[Luke 20#^luke-20-18|Luke 20:18]]
 - [[Mark 12]] — 6 parallel verses, e.g. [[Matthew 21#^matt-21-33|Matthew 21:33]] ↔ [[Mark 12#^mark-12-1|Mark 12:1]]

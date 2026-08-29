@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 28
 slug: prov-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 28]] · My notes: [[Proverbs 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The wicked flee when no man pursues—Whoever walks uprightly will be saved—A faithful man will abound with blessings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 2 footnote cross-references (from [[Proverbs 28#^prov-28-5|Proverbs 28:5]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Proverbs 28#^prov-28-1|Proverbs 28:1]])
+- [[Amos 9]] — 1 footnote cross-reference (from [[Proverbs 28#^prov-28-1|Proverbs 28:1]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Proverbs 28#^prov-28-1|Proverbs 28:1]])
+- [[Proverbs 10]] — 1 footnote cross-reference (from [[Proverbs 28#^prov-28-6|Proverbs 28:6]])
+- [[Proverbs 19]] — 1 footnote cross-reference (from [[Proverbs 28#^prov-28-6|Proverbs 28:6]])
 - [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 28#^prov-28-6|Proverbs 28:6]] ↔ [[Proverbs 14#^prov-14-2|Proverbs 14:2]]
 - [[Proverbs 19]] — 1 parallel verse, e.g. [[Proverbs 28#^prov-28-6|Proverbs 28:6]] ↔ [[Proverbs 19#^prov-19-1|Proverbs 19:1]]
 <!-- SG:END related-scriptures -->

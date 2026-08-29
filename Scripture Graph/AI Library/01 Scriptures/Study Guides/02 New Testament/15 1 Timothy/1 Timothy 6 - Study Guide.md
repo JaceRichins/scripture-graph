@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 6
 slug: 1tim-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 6]] · My notes: [[1 Timothy 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The love of money is the root of all evil—Fight the good fight of faith—Do not trust in worldly riches.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Timothy 1]] — 3 footnote cross-references (from [[1 Timothy 6#^1tim-6-3|1 Timothy 6:3]])
+- [[Titus 2]] — 2 footnote cross-references (from [[1 Timothy 6#^1tim-6-1|1 Timothy 6:1]])
+- [[D&C 88]] — 2 footnote cross-references (from [[1 Timothy 6#^1tim-6-13|1 Timothy 6:13]])
+- [[Colossians 3]] — 1 footnote cross-reference (from [[1 Timothy 6#^1tim-6-1|1 Timothy 6:1]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[1 Timothy 6#^1tim-6-1|1 Timothy 6:1]])
+- [[1 John 3]] — 1 footnote cross-reference (from [[1 Timothy 6#^1tim-6-2|1 Timothy 6:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

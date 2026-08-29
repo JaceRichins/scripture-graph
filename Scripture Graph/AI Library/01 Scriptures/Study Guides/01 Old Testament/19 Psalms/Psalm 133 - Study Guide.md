@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 133
 slug: ps-133
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 133]] · My notes: [[Psalm 133 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, It is pleasant for brethren to dwell together in unity!
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Psalm 133#^ps-133-3|Psalm 133:3]])
+- [[Deuteronomy 28]] — 1 footnote cross-reference (from [[Psalm 133#^ps-133-3|Psalm 133:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 13
 slug: lev-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 13]] · My notes: [[Leviticus 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Laws and tokens are revealed for discerning and controlling leprosy—Leprous garments are to be burnt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 10]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-45|Leviticus 13:45]])
+- [[Alma 46]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-45|Leviticus 13:45]])
+- [[Ezekiel 24]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-45|Leviticus 13:45]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-46|Leviticus 13:46]])
+- [[Luke 17]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-49|Leviticus 13:49]])
+- [[Leviticus 14]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-59|Leviticus 13:59]])
 - [[Leviticus 14]] — 9 parallel verses, e.g. [[Leviticus 13#^lev-13-32|Leviticus 13:32]] ↔ [[Leviticus 14#^lev-14-37|Leviticus 14:37]]
 <!-- SG:END related-scriptures -->
 

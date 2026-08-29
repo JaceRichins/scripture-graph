@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 11
 slug: ether-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 11]] · My notes: [[Ether 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wars, dissensions, and wickedness dominate Jaredite life—Prophets predict the utter destruction of the Jaredites unless they repent—The people reject the words of the prophets.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 2 footnote cross-references (from [[Ether 11#^ether-11-6|Ether 11:6]])
+- [[Ether 12]] — 2 footnote cross-references (from [[Ether 11#^ether-11-12|Ether 11:12]])
+- [[Ether 7]] — 1 footnote cross-reference (from [[Ether 11#^ether-11-1|Ether 11:1]])
+- [[Ether 9]] — 1 footnote cross-reference (from [[Ether 11#^ether-11-1|Ether 11:1]])
+- [[Ether 14]] — 1 footnote cross-reference (from [[Ether 11#^ether-11-6|Ether 11:6]])
+- [[Ether 10]] — 1 footnote cross-reference (from [[Ether 11#^ether-11-9|Ether 11:9]])
 - [[Ether 10]] — 3 parallel verses, e.g. [[Ether 11#^ether-11-4|Ether 11:4]] ↔ [[Ether 10#^ether-10-16|Ether 10:16]]
 - [[Alma 28]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[Alma 28#^alma-28-2|Alma 28:2]]
 - [[3 Nephi 8]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[3 Nephi 8#^3ne-8-5|3 Nephi 8:5]]

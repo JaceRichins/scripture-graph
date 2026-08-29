@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 35
 slug: ps-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 35]] · My notes: [[Psalm 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David complains of his enemies and their wrong dealings—He asks the Lord to judge him according to his righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 121]] — 2 footnote cross-references (from [[Psalm 35#^ps-35-1|Psalm 35:1]])
+- [[Isaiah 49]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-1|Psalm 35:1]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-1|Psalm 35:1]])
+- [[D&C 105]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-1|Psalm 35:1]])
+- [[Proverbs 22]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-10|Psalm 35:10]])
+- [[Isaiah 25]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-10|Psalm 35:10]])
 - [[Psalm 70]] — 1 parallel verse, e.g. [[Psalm 35#^ps-35-4|Psalm 35:4]] ↔ [[Psalm 70#^ps-70-2|Psalm 70:2]]
 <!-- SG:END related-scriptures -->
 

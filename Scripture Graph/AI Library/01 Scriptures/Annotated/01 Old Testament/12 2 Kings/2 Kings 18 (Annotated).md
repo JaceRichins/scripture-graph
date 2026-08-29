@@ -55,7 +55,7 @@ cssclasses:
 ![[2 Kings 18#^2kgs-18-14]]
 
 ![[2 Kings 18#^2kgs-18-15]]
-> [[Isaiah 39#^isa-39-2|Isa. 39:2]] · [[2 Kings 24#^2kgs-24-13|≈ 2 Kings 24:13]] · [[2 Kings 12#^2kgs-12-18|≈ 2 Kings 12:18]] · [[2 Kings 12#^2kgs-12-10|≈ 2 Kings 12:10]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Chronicles 34#^2chr-34-17|≈ 2 Chronicles 34:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
+> [[Isaiah 39#^isa-39-2|Isa. 39:2]] · [[2 Kings 24#^2kgs-24-13|≈ 2 Kings 24:13]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 12#^2kgs-12-18|≈ 2 Kings 12:18]] · [[2 Kings 12#^2kgs-12-10|≈ 2 Kings 12:10]] · [[2 Chronicles 34#^2chr-34-17|≈ 2 Chronicles 34:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
 
 ![[2 Kings 18#^2kgs-18-16]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 37
 slug: gen-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 37]] · My notes: [[Genesis 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob loves and favors Joseph, who is hated by his brothers—Joseph dreams that his parents and brothers make obeisance to him—His brothers sell him into Egypt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,8 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Kings 7]] — 2 parallel verses, e.g. [[Genesis 37#^gen-37-19|Genesis 37:19]] ↔ [[2 Kings 7#^2kgs-7-3|2 Kings 7:3]]
-- [[1 Kings 21]] — 1 parallel verse, e.g. [[Genesis 37#^gen-37-34|Genesis 37:34]] ↔ [[1 Kings 21#^1kgs-21-27|1 Kings 21:27]]
+- [[Genesis 42]] — 4 footnote cross-references (from [[Genesis 37#^gen-37-7|Genesis 37:7]])
+- [[Alma 46]] — 3 footnote cross-references (from [[Genesis 37#^gen-37-3|Genesis 37:3]])
+- [[Genesis 44]] — 2 footnote cross-references (from [[Genesis 37#^gen-37-7|Genesis 37:7]])
+- [[Genesis 46]] — 2 footnote cross-references (from [[Genesis 37#^gen-37-12|Genesis 37:12]])
+- [[Genesis 39]] — 2 footnote cross-references (from [[Genesis 37#^gen-37-28|Genesis 37:28]])
+- [[Genesis 41]] — 1 footnote cross-reference (from [[Genesis 37#^gen-37-2|Genesis 37:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

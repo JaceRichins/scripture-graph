@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 15]] · My notes: [[Acts 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Great dissension arises at Antioch concerning circumcision—The Apostles at Jerusalem decide the issue—Paul chooses Silas as his companion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,7 +46,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 10]] — 2 footnote cross-references (from [[Acts 15#^acts-15-7|Acts 15:7]])
+- [[Galatians 2]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-2|Acts 15:2]])
+- [[Galatians 5]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-5|Acts 15:5]])
+- [[D&C 7]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-7|Acts 15:7]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-7|Acts 15:7]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-9|Acts 15:9]])
 - [[Acts 21]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-29|Acts 15:29]] ↔ [[Acts 21#^acts-21-25|Acts 21:25]]
+- [[Amos 9]] — 0 parallel verses
+- [[Acts 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

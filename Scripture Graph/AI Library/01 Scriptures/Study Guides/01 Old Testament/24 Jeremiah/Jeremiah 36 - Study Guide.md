@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 36]] · My notes: [[Jeremiah 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Baruch writes the prophecies of Jeremiah and reads them in the house of the Lord—Jehoiakim, the king, burns the book, and judgment comes upon him—Jeremiah dictates the prophecies again and adds many more.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 26]] — 2 footnote cross-references (from [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]])
+- [[Ezra 6]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
+- [[Ezekiel 2]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
+- [[Jeremiah 45]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]])
 - [[Jeremiah 26]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-3|Jeremiah 36:3]] ↔ [[Jeremiah 26#^jer-26-3|Jeremiah 26:3]]
 - [[Jeremiah 35]] — 3 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 11
 slug: lev-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 11]] · My notes: [[Leviticus 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals which living things may and may not be eaten, and which things are clean and unclean—He commands Israel: Be holy, for I am holy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 14]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-2|Leviticus 11:2]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-2|Leviticus 11:2]])
+- [[D&C 89]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-2|Leviticus 11:2]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-22|Leviticus 11:22]])
+- [[Mark 1]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-22|Leviticus 11:22]])
+- [[Leviticus 5]] — 1 footnote cross-reference (from [[Leviticus 11#^lev-11-24|Leviticus 11:24]])
 - [[Leviticus 15]] — 28 parallel verses, e.g. [[Leviticus 11#^lev-11-1|Leviticus 11:1]] ↔ [[Leviticus 15#^lev-15-1|Leviticus 15:1]]
 - [[Deuteronomy 14]] — 9 parallel verses, e.g. [[Leviticus 11#^lev-11-16|Leviticus 11:16]] ↔ [[Deuteronomy 14#^deut-14-15|Deuteronomy 14:15]]
 - [[Numbers 19]] — 3 parallel verses, e.g. [[Leviticus 11#^lev-11-25|Leviticus 11:25]] ↔ [[Numbers 19#^num-19-10|Numbers 19:10]]

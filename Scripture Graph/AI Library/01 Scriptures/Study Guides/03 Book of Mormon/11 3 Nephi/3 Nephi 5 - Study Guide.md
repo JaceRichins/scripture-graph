@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 5
 slug: 3ne-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 5]] · My notes: [[3 Nephi 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites repent and forsake their sins—Mormon writes the history of his people and declares the everlasting word to them—Israel will be gathered in from her long dispersion. About A.D. 22–26.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Words of Mormon 1]] — 5 footnote cross-references (from [[3 Nephi 5#^3ne-5-8|3 Nephi 5:8]])
+- [[Mormon 1]] — 3 footnote cross-references (from [[3 Nephi 5#^3ne-5-10|3 Nephi 5:10]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[3 Nephi 5#^3ne-5-10|3 Nephi 5:10]])
+- [[Mormon 2]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-9|3 Nephi 5:9]])
+- [[Mormon 7]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-15|3 Nephi 5:15]])
+- [[3 Nephi 15]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]])
 - [[Ether 13]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Ether 13#^ether-13-11|Ether 13:11]]
 - [[Alma 46]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
 - [[3 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]

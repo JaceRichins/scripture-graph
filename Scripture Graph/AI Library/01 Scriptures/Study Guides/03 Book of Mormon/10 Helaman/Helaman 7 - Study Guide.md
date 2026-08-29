@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 7
 slug: hel-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 7]] · My notes: [[Helaman 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi is rejected in the north and returns to Zarahemla—He prays upon his garden tower and then calls upon the people to repent or perish. About 23–21 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 5]] — 3 footnote cross-references (from [[Helaman 7#^hel-7-7|Helaman 7:7]])
+- [[Helaman 8]] — 3 footnote cross-references (from [[Helaman 7#^hel-7-22|Helaman 7:22]])
+- [[Helaman 6]] — 2 footnote cross-references (from [[Helaman 7#^hel-7-1|Helaman 7:1]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Helaman 7#^hel-7-18|Helaman 7:18]])
+- [[Alma 9]] — 2 footnote cross-references (from [[Helaman 7#^hel-7-24|Helaman 7:24]])
+- [[Job 12]] — 1 footnote cross-reference (from [[Helaman 7#^hel-7-5|Helaman 7:5]])
 - [[Alma 9]] — 3 parallel verses, e.g. [[Helaman 7#^hel-7-28|Helaman 7:28]] ↔ [[Alma 9#^alma-9-24|Alma 9:24]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-18|Helaman 7:18]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
 - [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-2|Helaman 7:2]] ↔ [[Helaman 4#^hel-4-14|Helaman 4:14]]

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 7
 slug: moses-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---

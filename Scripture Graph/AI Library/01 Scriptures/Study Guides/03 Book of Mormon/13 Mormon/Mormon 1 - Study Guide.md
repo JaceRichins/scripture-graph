@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 1
 slug: morm-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 1]] · My notes: [[Mormon 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ammaron instructs Mormon concerning the sacred records—War commences between the Nephites and the Lamanites—The Three Nephites are taken away—Wickedness, unbelief, sorceries, and witchcraft prevail. About A.D. 321–26.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 2]] — 5 footnote cross-references (from [[Mormon 1#^morm-1-3|Mormon 1:3]])
+- [[4 Nephi 1]] — 4 footnote cross-references (from [[Mormon 1#^morm-1-2|Mormon 1:2]])
+- [[3 Nephi 5]] — 3 footnote cross-references (from [[Mormon 1#^morm-1-1|Mormon 1:1]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[Mormon 1#^morm-1-1|Mormon 1:1]])
+- [[Words of Mormon 1]] — 2 footnote cross-references (from [[Mormon 1#^morm-1-1|Mormon 1:1]])
+- [[Mormon 4]] — 2 footnote cross-references (from [[Mormon 1#^morm-1-3|Mormon 1:3]])
 - [[D&C 3]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[D&C 3#^dc-3-17|D&C 3:17]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
 - [[Mormon 2]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Mormon 2#^morm-2-1|Mormon 2:1]]

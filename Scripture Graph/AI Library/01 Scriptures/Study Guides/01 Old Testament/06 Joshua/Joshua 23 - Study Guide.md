@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 23
 slug: josh-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 23]] · My notes: [[Joshua 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua exhorts Israel to be courageous, keep the commandments, love the Lord, and neither marry among nor cleave unto the remnants of the Canaanites who remain in the land—When the children of Israel serve other gods, they will be cursed and dispossessed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 21]] — 2 footnote cross-references (from [[Joshua 23#^josh-23-9|Joshua 23:9]])
+- [[1 Nephi 2]] — 2 footnote cross-references (from [[Joshua 23#^josh-23-13|Joshua 23:13]])
+- [[Joshua 22]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-1|Joshua 23:1]])
+- [[Joshua 13]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-1|Joshua 23:1]])
+- [[Joshua 15]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-4|Joshua 23:4]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-5|Joshua 23:5]])
 - [[Deuteronomy 3]] — 5 parallel verses, e.g. [[Joshua 23#^josh-23-3|Joshua 23:3]] ↔ [[Deuteronomy 3#^deut-3-21|Deuteronomy 3:21]]
 - [[Joshua 1]] — 3 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 1#^josh-1-7|Joshua 1:7]]
 - [[Joshua 24]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-2|Joshua 23:2]] ↔ [[Joshua 24#^josh-24-1|Joshua 24:1]]

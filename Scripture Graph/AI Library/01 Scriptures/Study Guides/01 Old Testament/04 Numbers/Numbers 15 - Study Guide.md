@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 15
 slug: num-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 15]] · My notes: [[Numbers 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Various sacrificial ordinances bring forgiveness to repentant Israel—Those who sin willfully are cut off from among the people—A man is stoned for gathering sticks on the Sabbath day—The Israelites are to look on the fringes of their garments and remember the commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Chronicles 29]] — 2 footnote cross-references (from [[Numbers 15#^num-15-5|Numbers 15:5]])
+- [[Numbers 35]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-15|Numbers 15:15]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-20|Numbers 15:20]])
+- [[Leviticus 1]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
+- [[Leviticus 4]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
+- [[Mosiah 3]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-27|Numbers 15:27]])
 - [[Numbers 29]] — 19 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
 - [[Leviticus 1]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
 - [[Numbers 28]] — 16 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 4
 slug: josh-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 4]] · My notes: [[Joshua 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua places twelve stones to commemorate the crossing of the Jordan—Joshua is magnified before the children of Israel as they cross the Jordan—After the priests bearing the ark pass over, the river returns to its course.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 18]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-3|Joshua 4:3]])
+- [[Deuteronomy 27]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-3|Joshua 4:3]])
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-11|Joshua 4:11]])
+- [[Joshua 3]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-14|Joshua 4:14]])
+- [[Joshua 5]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-19|Joshua 4:19]])
+- [[Exodus 14]] — 1 footnote cross-reference (from [[Joshua 4#^josh-4-23|Joshua 4:23]])
 - [[Joshua 3]] — 10 parallel verses, e.g. [[Joshua 4#^josh-4-18|Joshua 4:18]] ↔ [[Joshua 3#^josh-3-17|Joshua 3:17]]
 - [[Joshua 22]] — 6 parallel verses, e.g. [[Joshua 4#^josh-4-12|Joshua 4:12]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
 - [[1 Chronicles 15]] — 8 parallel verses, e.g. [[Joshua 4#^josh-4-18|Joshua 4:18]] ↔ [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 27
 slug: matt-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 27]] · My notes: [[Matthew 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is accused and condemned before Pilate—Barabbas is released—Jesus is mocked, crucified, and buried in the tomb of Joseph of Arimathæa.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 22]] — 3 footnote cross-references (from [[Matthew 27#^matt-27-35|Matthew 27:35]])
+- [[Matthew 26]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-20|Matthew 27:20]])
+- [[2 Nephi 10]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-20|Matthew 27:20]])
+- [[Psalm 69]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-25|Matthew 27:25]])
+- [[1 Nephi 19]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-30|Matthew 27:30]])
+- [[John 2]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-40|Matthew 27:40]])
 - [[Mark 15]] — 14 parallel verses, e.g. [[Matthew 27#^matt-27-46|Matthew 27:46]] ↔ [[Mark 15#^mark-15-34|Mark 15:34]]
 - [[Matthew 2]] — 3 parallel verses, e.g. [[Matthew 27#^matt-27-9|Matthew 27:9]] ↔ [[Matthew 2#^matt-2-17|Matthew 2:17]]
 - [[Luke 23]] — 3 parallel verses, e.g. [[Matthew 27#^matt-27-11|Matthew 27:11]] ↔ [[Luke 23#^luke-23-3|Luke 23:3]]

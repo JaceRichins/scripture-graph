@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 16
 slug: job-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 16]] · My notes: [[Job 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job speaks against the wicked who oppose him—Though even his friends scorn him, he testifies that his witness is in heaven and his record is on high.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 13]] — 1 footnote cross-reference (from [[Job 16#^job-16-2|Job 16:2]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Job 16#^job-16-2|Job 16:2]])
+- [[Job 21]] — 1 footnote cross-reference (from [[Job 16#^job-16-20|Job 16:20]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

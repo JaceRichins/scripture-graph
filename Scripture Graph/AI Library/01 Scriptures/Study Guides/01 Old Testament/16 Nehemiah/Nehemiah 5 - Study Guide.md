@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 5
 slug: neh-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 5]] · My notes: [[Nehemiah 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many Jews are in bondage to their fellow Jews—At Nehemiah’s direction they are freed, their lands are restored, and the taking of usury is discontinued.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 27]] — 1 footnote cross-reference (from [[Nehemiah 5#^neh-5-14|Nehemiah 5:14]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Nehemiah 5#^neh-5-14|Nehemiah 5:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

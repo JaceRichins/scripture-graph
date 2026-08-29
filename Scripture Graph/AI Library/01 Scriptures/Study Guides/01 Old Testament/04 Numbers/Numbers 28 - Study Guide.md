@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 28
 slug: num-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 28]] · My notes: [[Numbers 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sacrifices are to be offered each morning and evening, on the Sabbath, on the first day of each month, at Passover, on each day of the Feast of Unleavened Bread, and at the Feast of Firstfruits.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Chronicles 31]] — 4 footnote cross-references (from [[Numbers 28#^num-28-3|Numbers 28:3]])
+- [[Exodus 29]] — 2 footnote cross-references (from [[Numbers 28#^num-28-3|Numbers 28:3]])
+- [[Genesis 35]] — 2 footnote cross-references (from [[Numbers 28#^num-28-7|Numbers 28:7]])
+- [[Ezekiel 45]] — 2 footnote cross-references (from [[Numbers 28#^num-28-11|Numbers 28:11]])
+- [[Nehemiah 10]] — 1 footnote cross-reference (from [[Numbers 28#^num-28-8|Numbers 28:8]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Numbers 28#^num-28-9|Numbers 28:9]])
 - [[Numbers 29]] — 60 parallel verses, e.g. [[Numbers 28#^num-28-20|Numbers 28:20]] ↔ [[Numbers 29#^num-29-3|Numbers 29:3]]
 - [[Numbers 7]] — 24 parallel verses, e.g. [[Numbers 28#^num-28-15|Numbers 28:15]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 23]] — 20 parallel verses, e.g. [[Numbers 28#^num-28-25|Numbers 28:25]] ↔ [[Leviticus 23#^lev-23-7|Leviticus 23:7]]

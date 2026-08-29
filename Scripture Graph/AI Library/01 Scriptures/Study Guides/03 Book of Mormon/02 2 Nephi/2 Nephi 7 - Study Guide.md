@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 7
 slug: 2ne-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 7]] · My notes: [[2 Nephi 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob continues reading from Isaiah: Isaiah speaks messianically—The Messiah will have the tongue of the learned—He will give His back to the smiters—He will not be confounded—Compare Isaiah 50. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 133]] — 2 footnote cross-references (from [[2 Nephi 7#^2ne-7-2|2 Nephi 7:2]])
+- [[Romans 8]] — 2 footnote cross-references (from [[2 Nephi 7#^2ne-7-8|2 Nephi 7:8]])
+- [[Isaiah 50]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
+- [[2 Nephi 8]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
+- [[Jeremiah 3]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
+- [[2 Kings 4]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
 - [[Isaiah 50]] — 12 parallel verses, e.g. [[2 Nephi 7#^2ne-7-7|2 Nephi 7:7]] ↔ [[Isaiah 50#^isa-50-7|Isaiah 50:7]]
 - [[D&C 133]] — 3 parallel verses, e.g. [[2 Nephi 7#^2ne-7-2|2 Nephi 7:2]] ↔ [[D&C 133#^dc-133-68|D&C 133:68]]
 <!-- SG:END related-scriptures -->

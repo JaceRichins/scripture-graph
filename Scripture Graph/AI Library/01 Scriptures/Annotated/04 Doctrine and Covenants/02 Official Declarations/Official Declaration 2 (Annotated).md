@@ -19,12 +19,14 @@ cssclasses:
 ![[Official Declaration 2#^od-2-1]]
 
 ![[Official Declaration 2#^od-2-2]]
+> [[D&C 115#^dc-115-4|≈ D&C 115:4]] · [[D&C 115#^dc-115-3|≈ D&C 115:3]] · [[D&C 127#^dc-127-12|≈ D&C 127:12]] · [[D&C 128#^dc-128-21|≈ D&C 128:21]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]]
 
 ![[Official Declaration 2#^od-2-3]]
 
 ![[Official Declaration 2#^od-2-4]]
 
 ![[Official Declaration 2#^od-2-5]]
+> [[D&C 115#^dc-115-4|≈ D&C 115:4]] · [[D&C 115#^dc-115-3|≈ D&C 115:3]] · [[D&C 127#^dc-127-12|≈ D&C 127:12]] · [[D&C 128#^dc-128-21|≈ D&C 128:21]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]]
 
 ![[Official Declaration 2#^od-2-6]]
 
@@ -37,6 +39,7 @@ cssclasses:
 ![[Official Declaration 2#^od-2-10]]
 
 ![[Official Declaration 2#^od-2-11]]
+> [[D&C 115#^dc-115-4|≈ D&C 115:4]] · [[D&C 115#^dc-115-3|≈ D&C 115:3]] · [[D&C 127#^dc-127-12|≈ D&C 127:12]] · [[D&C 128#^dc-128-21|≈ D&C 128:21]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[D&C 136#^dc-136-1|≈ D&C 136:1]]
 
 ![[Official Declaration 2#^od-2-12]]
 

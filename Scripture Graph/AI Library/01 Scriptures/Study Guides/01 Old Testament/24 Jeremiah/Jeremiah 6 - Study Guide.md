@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 6
 slug: jer-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 6]] · My notes: [[Jeremiah 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jerusalem will be destroyed because of her iniquity—She will be overrun by a great and cruel nation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-1|Jeremiah 6:1]])
+- [[Jeremiah 4]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-1|Jeremiah 6:1]])
+- [[Jeremiah 10]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-1|Jeremiah 6:1]])
+- [[Ezekiel 4]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-6|Jeremiah 6:6]])
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-7|Jeremiah 6:7]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Jeremiah 6#^jer-6-10|Jeremiah 6:10]])
 - [[Jeremiah 8]] — 4 parallel verses, e.g. [[Jeremiah 6#^jer-6-15|Jeremiah 6:15]] ↔ [[Jeremiah 8#^jer-8-12|Jeremiah 8:12]]
 - [[2 Kings 22]] — 2 parallel verses, e.g. [[Jeremiah 6#^jer-6-21|Jeremiah 6:21]] ↔ [[2 Kings 22#^2kgs-22-16|2 Kings 22:16]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Jeremiah 6#^jer-6-21|Jeremiah 6:21]] ↔ [[2 Chronicles 34#^2chr-34-24|2 Chronicles 34:24]]

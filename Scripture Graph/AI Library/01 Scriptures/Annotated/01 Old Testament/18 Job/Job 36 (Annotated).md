@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 36|Plain text]] · [[Job 36 - Study Guide|Study guide]] · [[Job 36 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Elihu says, Those who are righteous are prospered—The wicked perish and die without knowledge—Elihu praises the greatness of God.
+
 ![[Job 36#^job-36-1]]
 
 ![[Job 36#^job-36-2]]

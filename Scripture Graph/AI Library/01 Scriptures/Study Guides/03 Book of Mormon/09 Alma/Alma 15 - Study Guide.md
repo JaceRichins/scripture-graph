@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 15
 slug: alma-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 15]] · My notes: [[Alma 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma and Amulek go to Sidom and establish a church—Alma heals Zeezrom, who joins the Church—Many are baptized, and the Church prospers—Alma and Amulek go to Zarahemla. About 81 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 14]] — 6 footnote cross-references (from [[Alma 15#^alma-15-1|Alma 15:1]])
+- [[Alma 16]] — 4 footnote cross-references (from [[Alma 15#^alma-15-1|Alma 15:1]])
+- [[Mark 9]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-6|Alma 15:6]])
+- [[Mark 2]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-10|Alma 15:10]])
+- [[Acts 3]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-11|Alma 15:11]])
+- [[Alma 4]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-13|Alma 15:13]])
 - [[Alma 14]] — 4 parallel verses, e.g. [[Alma 15#^alma-15-15|Alma 15:15]] ↔ [[Alma 14#^alma-14-5|Alma 14:5]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 15#^alma-15-15|Alma 15:15]] ↔ [[Alma 9#^alma-9-5|Alma 9:5]]
 <!-- SG:END related-scriptures -->

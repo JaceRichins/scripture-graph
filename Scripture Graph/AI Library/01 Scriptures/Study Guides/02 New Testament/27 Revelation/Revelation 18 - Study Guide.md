@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 18
 slug: rev-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 18]] · My notes: [[Revelation 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are called out of Babylon lest they partake of her sins—She falls and is lamented by her supporters.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,10 +38,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 17]] — 3 footnote cross-references (from [[Revelation 18#^rev-18-3|Revelation 18:3]])
+- [[Genesis 19]] — 2 footnote cross-references (from [[Revelation 18#^rev-18-4|Revelation 18:4]])
+- [[Jeremiah 51]] — 2 footnote cross-references (from [[Revelation 18#^rev-18-5|Revelation 18:5]])
+- [[Ezekiel 43]] — 1 footnote cross-reference (from [[Revelation 18#^rev-18-1|Revelation 18:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[Revelation 18#^rev-18-3|Revelation 18:3]])
+- [[Isaiah 23]] — 1 footnote cross-reference (from [[Revelation 18#^rev-18-3|Revelation 18:3]])
 - [[D&C 88]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
 - [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-16|Revelation 18:16]] ↔ [[Revelation 17#^rev-17-4|Revelation 17:4]]
 - [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
+- [[Jeremiah 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 3
 slug: dan-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 3]] · My notes: [[Daniel 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nebuchadnezzar creates a golden image and commands all men to worship it—Shadrach, Meshach, and Abed-nego refuse and are cast into the fiery furnace—They are preserved and come out unharmed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 2]] — 2 footnote cross-references (from [[Daniel 3#^dan-3-12|Daniel 3:12]])
+- [[2 Samuel 6]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-5|Daniel 3:5]])
+- [[1 Chronicles 15]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-5|Daniel 3:5]])
+- [[Mosiah 17]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-6|Daniel 3:6]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-16|Daniel 3:16]])
+- [[Acts 20]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-16|Daniel 3:16]])
 - [[Daniel 2]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-12|Daniel 3:12]] ↔ [[Daniel 2#^dan-2-49|Daniel 2:49]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-2|Daniel 3:2]] ↔ [[Esther 9#^esth-9-3|Esther 9:3]]
 <!-- SG:END related-scriptures -->

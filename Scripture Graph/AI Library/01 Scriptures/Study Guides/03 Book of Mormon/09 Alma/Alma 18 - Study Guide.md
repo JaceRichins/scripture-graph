@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 18
 slug: alma-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 18]] · My notes: [[Alma 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Lamoni supposes that Ammon is the Great Spirit—Ammon teaches the king about the Creation, God’s dealings with men, and the redemption that comes through Christ—Lamoni believes and falls to the earth as if dead. About 90 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 19]] — 7 footnote cross-references (from [[Alma 18#^alma-18-1|Alma 18:1]])
+- [[Alma 17]] — 6 footnote cross-references (from [[Alma 18#^alma-18-3|Alma 18:3]])
+- [[Alma 22]] — 5 footnote cross-references (from [[Alma 18#^alma-18-2|Alma 18:2]])
+- [[Alma 20]] — 3 footnote cross-references (from [[Alma 18#^alma-18-9|Alma 18:9]])
+- [[Daniel 5]] — 2 footnote cross-references (from [[Alma 18#^alma-18-12|Alma 18:12]])
+- [[Genesis 41]] — 2 footnote cross-references (from [[Alma 18#^alma-18-16|Alma 18:16]])
 - [[Alma 22]] — 4 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Alma 22#^alma-22-13|Alma 22:13]]
 - [[Alma 20]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-9|Alma 18:9]] ↔ [[Alma 20#^alma-20-8|Alma 20:8]]
 - [[Alma 30]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-24|Alma 18:24]] ↔ [[Alma 30#^alma-30-37|Alma 30:37]]

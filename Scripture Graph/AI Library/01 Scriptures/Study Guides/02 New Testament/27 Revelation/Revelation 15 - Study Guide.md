@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 15
 slug: rev-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Revelation 15]] · My notes: [[Revelation 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Exalted Saints praise God in celestial glory forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 130]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-2|Revelation 15:2]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-3|Revelation 15:3]])
+- [[Psalm 99]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-4|Revelation 15:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

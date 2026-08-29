@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 17
 slug: josh-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 17]] · My notes: [[Joshua 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Manasseh and Ephraim both receive an additional inheritance—Ephraim is to drive out the Canaanites from the hill country.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 1]] — 2 footnote cross-references (from [[Joshua 17#^josh-17-13|Joshua 17:13]])
+- [[Genesis 41]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
+- [[Genesis 46]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
+- [[Alma 10]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
+- [[Numbers 32]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
+- [[Judges 5]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
 - [[Judges 1]] — 4 parallel verses, e.g. [[Joshua 17#^josh-17-11|Joshua 17:11]] ↔ [[Judges 1#^judg-1-27|Judges 1:27]]
 - [[Numbers 27]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Joshua 17#^josh-17-4|Joshua 17:4]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]

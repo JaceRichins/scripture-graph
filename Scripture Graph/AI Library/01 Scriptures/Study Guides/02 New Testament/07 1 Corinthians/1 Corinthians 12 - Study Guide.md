@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 12]] · My notes: [[1 Corinthians 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Holy Ghost reveals that Jesus is the Christ—Spiritual gifts are present among the Saints—Apostles, prophets, and miracles are found in the true Church.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 46]] — 2 footnote cross-references (from [[1 Corinthians 12#^1cor-12-7|1 Corinthians 12:7]])
+- [[D&C 35]] — 2 footnote cross-references (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
+- [[John 6]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-3|1 Corinthians 12:3]])
+- [[D&C 25]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
+- [[D&C 89]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
+- [[Moroni 10]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
 - [[Moroni 10]] — 3 parallel verses, e.g. [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]] ↔ [[Moroni 10#^moro-10-11|Moroni 10:11]]
+- [[D&C 84]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

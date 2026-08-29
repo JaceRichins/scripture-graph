@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 21
 slug: 2sam-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 21]] · My notes: [[2 Samuel 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord sends a famine—David understands that the famine came because Saul smote the Gibeonites, contrary to the oath of Israel—David delivers up seven sons of Saul to be hanged by the Gibeonites—Israel and the Philistines continue their wars.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 17]] — 2 footnote cross-references (from [[2 Samuel 21#^2sam-21-19|2 Samuel 21:19]])
+- [[Joshua 9]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-2|2 Samuel 21:2]])
+- [[Deuteronomy 24]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-6|2 Samuel 21:6]])
+- [[Helaman 11]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-6|2 Samuel 21:6]])
+- [[Joshua 18]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-6|2 Samuel 21:6]])
+- [[1 Samuel 20]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]])
 - [[1 Chronicles 20]] — 5 parallel verses, e.g. [[2 Samuel 21#^2sam-21-22|2 Samuel 21:22]] ↔ [[1 Chronicles 20#^1chr-20-8|1 Chronicles 20:8]]
 - [[2 Samuel 9]] — 1 parallel verse, e.g. [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]] ↔ [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]]
 <!-- SG:END related-scriptures -->

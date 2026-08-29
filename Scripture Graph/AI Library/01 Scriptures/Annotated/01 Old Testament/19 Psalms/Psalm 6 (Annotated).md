@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 6|Plain text]] · [[Psalm 6 - Study Guide|Study guide]] · [[Psalm 6 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David cries unto the Lord for mercy—He asks to be healed and saved.
+
 ![[Psalm 6#^ps-6-1]]
 > [[Psalm 38#^ps-38-1|≈ Psalm 38:1]]
 
@@ -24,8 +27,10 @@ cssclasses:
 ![[Psalm 6#^ps-6-4]]
 
 ![[Psalm 6#^ps-6-5]]
+> [[Psalm 30#^ps-30-9|Ps. 30:9]]
 
 ![[Psalm 6#^ps-6-6]]
+> [[2 Nephi 33#^2ne-33-3|2 Ne. 33:3]]
 
 ![[Psalm 6#^ps-6-7]]
 

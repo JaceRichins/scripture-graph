@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 39|Plain text]] · [[Job 39 - Study Guide|Study guide]] · [[Job 39 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Man’s weakness and ignorance are compared with God’s mighty works—Does man even know how the laws of nature operate?
+
 ![[Job 39#^job-39-1]]
 
 ![[Job 39#^job-39-2]]
@@ -44,6 +47,7 @@ cssclasses:
 ![[Job 39#^job-39-15]]
 
 ![[Job 39#^job-39-16]]
+> [[Lamentations 4#^lam-4-3|Lam. 4:3]]
 
 ![[Job 39#^job-39-17]]
 

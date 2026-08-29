@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 1
 slug: song-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Song of Solomon 1]] · My notes: [[Song of Solomon 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The poet sings of love and devotion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 4]] — 1 footnote cross-reference (from [[Song of Solomon 1#^song-1-1|Song of Solomon 1:1]])
+- [[Song of Solomon 4]] — 1 footnote cross-reference (from [[Song of Solomon 1#^song-1-12|Song of Solomon 1:12]])
 - [[Song of Solomon 4]] — 1 parallel verse, e.g. [[Song of Solomon 1#^song-1-15|Song of Solomon 1:15]] ↔ [[Song of Solomon 4#^song-4-1|Song of Solomon 4:1]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 5
 slug: josh-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 5]] · My notes: [[Joshua 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The inhabitants of Canaan fear Israel—The males of Israel are circumcised—Israel keeps the Passover, eats the fruit of the land, and manna ceases—The captain of the Lord’s host appears to Joshua.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 15]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-1|Joshua 5:1]])
+- [[Joshua 2]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-1|Joshua 5:1]])
+- [[Numbers 14]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-6|Joshua 5:6]])
+- [[Joshua 4]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-9|Joshua 5:9]])
+- [[2 Samuel 19]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-9|Joshua 5:9]])
+- [[2 Kings 2]] — 1 footnote cross-reference (from [[Joshua 5#^josh-5-9|Joshua 5:9]])
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
 - [[Numbers 16]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
 - [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]]
@@ -49,6 +56,7 @@ _Not yet developed._
 - [[2 Samuel 13]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-13|Joshua 5:13]] ↔ [[2 Samuel 13#^2sam-13-34|2 Samuel 13:34]]
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-10|Joshua 5:10]] ↔ [[Exodus 12#^ex-12-18|Exodus 12:18]]
 - [[Deuteronomy 27]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]]
+- [[Exodus 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

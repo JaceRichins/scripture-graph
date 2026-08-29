@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 1
 slug: 1tim-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 1]] · My notes: [[1 Timothy 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Counsel is given to teach true doctrine only—Christ came to save repentant sinners.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Timothy 6]] — 3 footnote cross-references (from [[1 Timothy 1#^1tim-1-3|1 Timothy 1:3]])
+- [[2 Timothy 2]] — 2 footnote cross-references (from [[1 Timothy 1#^1tim-1-5|1 Timothy 1:5]])
+- [[John 9]] — 2 footnote cross-references (from [[1 Timothy 1#^1tim-1-13|1 Timothy 1:13]])
+- [[Acts 16]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]])
+- [[1 Corinthians 4]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-3|1 Timothy 1:3]])
 - [[2 Timothy 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]] ↔ [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]]
 - [[2 Corinthians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
 - [[Ephesians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]

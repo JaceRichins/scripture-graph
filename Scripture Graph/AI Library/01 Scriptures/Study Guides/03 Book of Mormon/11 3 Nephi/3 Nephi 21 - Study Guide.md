@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 21]] · My notes: [[3 Nephi 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel will be gathered when the Book of Mormon comes forth—The Gentiles will be established as a free people in America—They will be saved if they believe and obey; otherwise, they will be cut off and destroyed—Israel will build the New Jerusalem, and the lost tribes will return. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 20]] — 7 footnote cross-references (from [[3 Nephi 21#^3ne-21-3|3 Nephi 21:3]])
+- [[3 Nephi 16]] — 7 footnote cross-references (from [[3 Nephi 21#^3ne-21-4|3 Nephi 21:4]])
+- [[Mormon 5]] — 5 footnote cross-references (from [[3 Nephi 21#^3ne-21-3|3 Nephi 21:3]])
+- [[1 Nephi 10]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]])
+- [[1 Nephi 13]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-4|3 Nephi 21:4]])
+- [[2 Nephi 30]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-5|3 Nephi 21:5]])
 - [[Micah 5]] — 8 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
 - [[3 Nephi 20]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
 - [[3 Nephi 16]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]]

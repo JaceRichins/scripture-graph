@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 11
 slug: alma-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 11]] · My notes: [[Alma 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephite monetary system is set forth—Amulek contends with Zeezrom—Christ will not save people in their sins—Only those who inherit the kingdom of heaven are saved—All men will rise in immortality—There is no death after the Resurrection. About 82 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 10]] — 6 footnote cross-references (from [[Alma 11#^alma-11-1|Alma 11:1]])
+- [[Alma 12]] — 5 footnote cross-references (from [[Alma 11#^alma-11-36|Alma 11:36]])
+- [[Alma 40]] — 3 footnote cross-references (from [[Alma 11#^alma-11-37|Alma 11:37]])
+- [[D&C 88]] — 3 footnote cross-references (from [[Alma 11#^alma-11-41|Alma 11:41]])
+- [[Alma 14]] — 2 footnote cross-references (from [[Alma 11#^alma-11-21|Alma 11:21]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Alma 11#^alma-11-23|Alma 11:23]])
 - [[Alma 40]] — 4 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 40#^alma-40-21|Alma 40:21]]
 - [[Alma 12]] — 3 parallel verses, e.g. [[Alma 11#^alma-11-41|Alma 11:41]] ↔ [[Alma 12#^alma-12-8|Alma 12:8]]
 - [[Alma 1]] — 1 parallel verse, e.g. [[Alma 11#^alma-11-44|Alma 11:44]] ↔ [[Alma 1#^alma-1-30|Alma 1:30]]

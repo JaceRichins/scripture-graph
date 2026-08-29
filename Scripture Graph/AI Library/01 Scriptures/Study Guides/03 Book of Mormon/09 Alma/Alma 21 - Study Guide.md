@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 21
 slug: alma-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 21]] · My notes: [[Alma 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron teaches the Amalekites about Christ and His Atonement—Aaron and his brethren are imprisoned in Middoni—After their deliverance, they teach in the synagogues and make many converts—Lamoni grants religious freedom to the people in the land of Ishmael. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 22]] — 4 footnote cross-references (from [[Alma 21#^alma-21-9|Alma 21:9]])
+- [[Alma 17]] — 3 footnote cross-references (from [[Alma 21#^alma-21-1|Alma 21:1]])
+- [[Alma 24]] — 3 footnote cross-references (from [[Alma 21#^alma-21-1|Alma 21:1]])
+- [[Alma 25]] — 3 footnote cross-references (from [[Alma 21#^alma-21-2|Alma 21:2]])
+- [[Alma 16]] — 3 footnote cross-references (from [[Alma 21#^alma-21-5|Alma 21:5]])
+- [[Alma 20]] — 3 footnote cross-references (from [[Alma 21#^alma-21-13|Alma 21:13]])
 - [[Alma 17]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
 - [[Alma 24]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]

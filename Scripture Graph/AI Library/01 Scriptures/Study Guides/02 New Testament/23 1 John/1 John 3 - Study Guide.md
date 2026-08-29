@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 John 3]] · My notes: [[1 John 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons of God will become like Christ—Love for others is required to gain eternal life—Obedience ensures us an answer to our prayers.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 5]] — 2 footnote cross-references (from [[1 John 3#^1jn-3-2|1 John 3:2]])
+- [[1 John 2]] — 2 footnote cross-references (from [[1 John 3#^1jn-3-6|1 John 3:6]])
+- [[1 John 4]] — 2 footnote cross-references (from [[1 John 3#^1jn-3-17|1 John 3:17]])
+- [[1 Corinthians 2]] — 2 footnote cross-references (from [[1 John 3#^1jn-3-24|1 John 3:24]])
+- [[Isaiah 56]] — 1 footnote cross-reference (from [[1 John 3#^1jn-3-1|1 John 3:1]])
+- [[Colossians 3]] — 1 footnote cross-reference (from [[1 John 3#^1jn-3-2|1 John 3:2]])
 - [[Moroni 7]] — 1 parallel verse, e.g. [[1 John 3#^1jn-3-2|1 John 3:2]] ↔ [[Moroni 7#^moro-7-48|Moroni 7:48]]
+- [[1 John 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

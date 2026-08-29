@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 6]] · My notes: [[Alma 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Church in Zarahemla is cleansed and set in order—Alma goes to Gideon to preach. About 83 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 26]] — 2 footnote cross-references (from [[Alma 6#^alma-6-3|Alma 6:3]])
+- [[Alma 1]] — 2 footnote cross-references (from [[Alma 6#^alma-6-3|Alma 6:3]])
+- [[Alma 2]] — 2 footnote cross-references (from [[Alma 6#^alma-6-4|Alma 6:4]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Alma 6#^alma-6-1|Alma 6:1]])
+- [[1 Corinthians 5]] — 1 footnote cross-reference (from [[Alma 6#^alma-6-3|Alma 6:3]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Alma 6#^alma-6-3|Alma 6:3]])
 - [[Alma 5]] — 5 parallel verses, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 5#^alma-5-21|Alma 5:21]]
 - [[Alma 1]] — 4 parallel verses, e.g. [[Alma 6#^alma-6-2|Alma 6:2]] ↔ [[Alma 1#^alma-1-19|Alma 1:19]]
 - [[Mosiah 11]] — 2 parallel verses, e.g. [[Alma 6#^alma-6-3|Alma 6:3]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]

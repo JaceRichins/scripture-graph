@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 1
 slug: prov-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 1]] · My notes: [[Proverbs 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The fear of the Lord is the beginning of knowledge—If sinners entice you, do not consent—Those who hearken to wisdom will dwell safely.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 25]] — 2 footnote cross-references (from [[Proverbs 1#^prov-1-1|Proverbs 1:1]])
+- [[1 Kings 4]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-1|Proverbs 1:1]])
+- [[Proverbs 10]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-1|Proverbs 1:1]])
+- [[Proverbs 8]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-4|Proverbs 1:4]])
+- [[Proverbs 3]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-9|Proverbs 1:9]])
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-10|Proverbs 1:10]])
 - [[Psalm 111]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Psalm 111#^ps-111-10|Psalm 111:10]]
 - [[Proverbs 9]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Proverbs 9#^prov-9-10|Proverbs 9:10]]
 - [[2 Chronicles 30]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-1|Proverbs 1:1]] ↔ [[2 Chronicles 30#^2chr-30-26|2 Chronicles 30:26]]

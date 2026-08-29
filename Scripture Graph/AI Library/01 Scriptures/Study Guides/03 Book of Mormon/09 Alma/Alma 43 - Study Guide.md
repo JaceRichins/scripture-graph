@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 43]] · My notes: [[Alma 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma and his sons preach the word—The Zoramites and other Nephite dissenters become Lamanites—The Lamanites come against the Nephites in war—Moroni arms the Nephites with defensive armor—The Lord reveals to Alma the strategy of the Lamanites—The Nephites defend their homes, liberties, families, and religion—The armies of Moroni and Lehi surround the Lamanites. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -47,6 +48,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 44]] — 8 footnote cross-references (from [[Alma 43#^alma-43-5|Alma 43:5]])
+- [[Alma 46]] — 7 footnote cross-references (from [[Alma 43#^alma-43-2|Alma 43:2]])
+- [[Alma 48]] — 5 footnote cross-references (from [[Alma 43#^alma-43-6|Alma 43:6]])
+- [[Alma 49]] — 4 footnote cross-references (from [[Alma 43#^alma-43-19|Alma 43:19]])
+- [[Alma 27]] — 3 footnote cross-references (from [[Alma 43#^alma-43-8|Alma 43:8]])
+- [[Alma 47]] — 3 footnote cross-references (from [[Alma 43#^alma-43-8|Alma 43:8]])
 - [[Alma 3]] — 3 parallel verses, e.g. [[Alma 43#^alma-43-20|Alma 43:20]] ↔ [[Alma 3#^alma-3-5|Alma 3:5]]
 - [[Alma 16]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-16|Alma 43:16]] ↔ [[Alma 16#^alma-16-5|Alma 16:5]]
 - [[Alma 50]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-35|Alma 43:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]

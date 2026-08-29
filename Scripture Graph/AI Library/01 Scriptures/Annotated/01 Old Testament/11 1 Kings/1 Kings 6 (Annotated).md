@@ -17,10 +17,10 @@ cssclasses:
 > Solomon builds the temple—The Lord promises to dwell among the Israelites if they are obedient—The ornaments of the temple are described.
 
 ![[1 Kings 6#^1kgs-6-1]]
-> [[2 Chronicles 3#^2chr-3-1|2 Chr. 3:1 (1–17)]] · [[D&C 88#^dc-88-119|D&amp;C 88:119]] · [[D&C 124#^dc-124-26|124:27 (26–27)]] · [[Numbers 33#^num-33-38|≈ Numbers 33:38]] · [[2 Chronicles 3#^2chr-3-1|≈ 2 Chronicles 3:1]]
+> [[2 Chronicles 3#^2chr-3-1|2 Chr. 3:1 (1–17)]] · [[D&C 88#^dc-88-119|D&amp;C 88:119]] · [[D&C 124#^dc-124-26|124:27 (26–27)]] · [[2 Chronicles 3#^2chr-3-1|≈ 2 Chronicles 3:1]] · [[Numbers 33#^num-33-38|≈ Numbers 33:38]]
 
 ![[1 Kings 6#^1kgs-6-2]]
-> [[2 Chronicles 3#^2chr-3-3|2 Chr. 3:3 (3–4)]] · [[D&C 95#^dc-95-13|D&amp;C 95:13]] · [[2 Nephi 5#^2ne-5-16|2 Ne. 5:16]] · [[Ezekiel 41#^ezek-41-2|Ezek. 41:2]] · [[1 Kings 7#^1kgs-7-2|≈ 1 Kings 7:2]] · [[2 Chronicles 3#^2chr-3-8|≈ 2 Chronicles 3:8]]
+> [[2 Chronicles 3#^2chr-3-3|2 Chr. 3:3 (3–4)]] · [[D&C 95#^dc-95-13|D&amp;C 95:13]] · [[2 Nephi 5#^2ne-5-16|2 Ne. 5:16]] · [[Ezekiel 41#^ezek-41-2|Ezek. 41:2]] · [[2 Chronicles 3#^2chr-3-8|≈ 2 Chronicles 3:8]] · [[1 Kings 7#^1kgs-7-2|≈ 1 Kings 7:2]]
 
 ![[1 Kings 6#^1kgs-6-3]]
 > [[Ezekiel 8#^ezek-8-16|Ezek. 8:16]] · [[Ezekiel 40#^ezek-40-49|40:49]] · [[John 10#^john-10-23|John 10:23]] · [[Acts 3#^acts-3-11|Acts 3:11]] · [[2 Chronicles 3#^2chr-3-4|≈ 2 Chronicles 3:4]] · [[2 Chronicles 3#^2chr-3-8|≈ 2 Chronicles 3:8]]

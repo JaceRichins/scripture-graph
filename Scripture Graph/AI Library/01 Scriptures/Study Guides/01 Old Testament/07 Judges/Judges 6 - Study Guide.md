@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 6]] · My notes: [[Judges 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is in bondage to the Midianites—An angel appears to Gideon and calls him to deliver Israel—He overthrows the altar of Baal, the Spirit of the Lord rests upon him, and the Lord gives him a sign to show he is called to deliver Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 25]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-3|Judges 6:3]])
+- [[2 Kings 17]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-10|Judges 6:10]])
+- [[Mormon 9]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-13|Judges 6:13]])
+- [[D&C 4]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-14|Judges 6:14]])
+- [[1 Samuel 9]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-15|Judges 6:15]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Judges 6#^judg-6-16|Judges 6:16]])
 - [[Judges 3]] — 6 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 3#^judg-3-7|Judges 3:7]]
 - [[Judges 13]] — 4 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 13#^judg-13-1|Judges 13:1]]
 - [[Judges 7]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-25|Judges 6:25]] ↔ [[Judges 7#^judg-7-9|Judges 7:9]]

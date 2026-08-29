@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 17
 slug: job-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 17]] · My notes: [[Job 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job speaks of the sorrow of death and of the grave in that day when the body returns to the dust.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 25]] — 1 footnote cross-reference (from [[Job 17#^job-17-9|Job 17:9]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Job 17#^job-17-9|Job 17:9]])
+- [[Job 7]] — 1 footnote cross-reference (from [[Job 17#^job-17-11|Job 17:11]])
+- [[Ecclesiastes 12]] — 1 footnote cross-reference (from [[Job 17#^job-17-13|Job 17:13]])
+- [[Alma 40]] — 1 footnote cross-reference (from [[Job 17#^job-17-13|Job 17:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

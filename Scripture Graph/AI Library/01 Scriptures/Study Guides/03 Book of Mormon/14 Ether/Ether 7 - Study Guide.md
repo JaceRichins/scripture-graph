@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 7
 slug: ether-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 7]] · My notes: [[Ether 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Orihah reigns in righteousness—Amid usurpation and strife, the rival kingdoms of Shule and Cohor are set up—Prophets condemn the wickedness and idolatry of the people, who then repent.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 6]] — 4 footnote cross-references (from [[Ether 7#^ether-7-5|Ether 7:5]])
+- [[Ether 9]] — 3 footnote cross-references (from [[Ether 7#^ether-7-3|Ether 7:3]])
+- [[Ether 1]] — 1 footnote cross-reference (from [[Ether 7#^ether-7-3|Ether 7:3]])
+- [[Genesis 18]] — 1 footnote cross-reference (from [[Ether 7#^ether-7-3|Ether 7:3]])
+- [[Ether 14]] — 1 footnote cross-reference (from [[Ether 7#^ether-7-5|Ether 7:5]])
+- [[Ether 8]] — 1 footnote cross-reference (from [[Ether 7#^ether-7-7|Ether 7:7]])
 - [[Ether 9]] — 2 parallel verses, e.g. [[Ether 7#^ether-7-23|Ether 7:23]] ↔ [[Ether 9#^ether-9-28|Ether 9:28]]
 - [[Helaman 1]] — 2 parallel verses, e.g. [[Ether 7#^ether-7-18|Ether 7:18]] ↔ [[Helaman 1#^hel-1-8|Helaman 1:8]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[Ether 7#^ether-7-22|Ether 7:22]] ↔ [[Ether 10#^ether-10-10|Ether 10:10]]

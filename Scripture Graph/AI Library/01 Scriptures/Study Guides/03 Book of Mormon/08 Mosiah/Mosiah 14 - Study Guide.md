@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 14]] · My notes: [[Mosiah 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks messianically—The Messiah’s humiliation and sufferings are set forth—He makes His soul an offering for sin and makes intercession for transgressors—Compare Isaiah 53. About 148 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 15]] — 5 footnote cross-references (from [[Mosiah 14#^mosiah-14-5|Mosiah 14:5]])
+- [[Isaiah 53]] — 2 footnote cross-references (from [[Mosiah 14#^mosiah-14-1|Mosiah 14:1]])
+- [[1 Peter 2]] — 2 footnote cross-references (from [[Mosiah 14#^mosiah-14-5|Mosiah 14:5]])
+- [[Mark 15]] — 2 footnote cross-references (from [[Mosiah 14#^mosiah-14-7|Mosiah 14:7]])
+- [[John 19]] — 2 footnote cross-references (from [[Mosiah 14#^mosiah-14-7|Mosiah 14:7]])
+- [[Psalm 22]] — 1 footnote cross-reference (from [[Mosiah 14#^mosiah-14-3|Mosiah 14:3]])
 - [[Isaiah 53]] — 12 parallel verses, e.g. [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]] ↔ [[Isaiah 53#^isa-53-10|Isaiah 53:10]]
 - [[Mosiah 15]] — 2 parallel verses, e.g. [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]
 - [[John 12]] — 1 parallel verse, e.g. [[Mosiah 14#^mosiah-14-1|Mosiah 14:1]] ↔ [[John 12#^john-12-38|John 12:38]]

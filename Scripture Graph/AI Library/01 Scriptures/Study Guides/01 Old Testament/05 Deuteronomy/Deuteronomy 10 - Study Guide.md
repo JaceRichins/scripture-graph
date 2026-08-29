@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 10
 slug: deut-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 10]] · My notes: [[Deuteronomy 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The tables of stone containing the Ten Commandments are placed in the ark—All that God requires is that Israel love and serve Him—How great and mighty is the Lord!
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 34]] — 3 footnote cross-references (from [[Deuteronomy 10#^deut-10-1|Deuteronomy 10:1]])
+- [[D&C 76]] — 2 footnote cross-references (from [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]])
+- [[Exodus 31]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-1|Deuteronomy 10:1]])
+- [[Exodus 25]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-1|Deuteronomy 10:1]])
+- [[2 Nephi 3]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]])
+- [[Mormon 8]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]])
 - [[Exodus 34]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]] ↔ [[Exodus 34#^ex-34-1|Exodus 34:1]]
 - [[Deuteronomy 9]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]]
 - [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 4#^deut-4-29|Deuteronomy 4:29]]

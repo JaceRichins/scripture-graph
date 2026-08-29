@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 39
 slug: alma-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 39]] · My notes: [[Alma 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sexual sin is an abomination—Corianton’s sins kept the Zoramites from receiving the word—Christ’s redemption is retroactive in saving the faithful who preceded it. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 2]] — 2 footnote cross-references (from [[Alma 39#^alma-39-3|Alma 39:3]])
+- [[Proverbs 5]] — 2 footnote cross-references (from [[Alma 39#^alma-39-3|Alma 39:3]])
+- [[Alma 31]] — 1 footnote cross-reference (from [[Alma 39#^alma-39-1|Alma 39:1]])
+- [[Alma 38]] — 1 footnote cross-reference (from [[Alma 39#^alma-39-2|Alma 39:2]])
+- [[Proverbs 7]] — 1 footnote cross-reference (from [[Alma 39#^alma-39-4|Alma 39:4]])
+- [[Moroni 8]] — 1 footnote cross-reference (from [[Alma 39#^alma-39-6|Alma 39:6]])
 - [[Alma 5]] — 2 parallel verses, e.g. [[Alma 39#^alma-39-15|Alma 39:15]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Alma 39#^alma-39-6|Alma 39:6]] ↔ [[Alma 36#^alma-36-21|Alma 36:21]]
 - [[Mosiah 17]] — 1 parallel verse, e.g. [[Alma 39#^alma-39-8|Alma 39:8]] ↔ [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]]

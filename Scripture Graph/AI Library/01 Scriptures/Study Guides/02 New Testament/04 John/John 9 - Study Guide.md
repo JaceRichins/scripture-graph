@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 9]] · My notes: [[John 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus, on the Sabbath, heals a man born blind—The Jews accuse Him of Sabbath violation—He lectures them on spiritual blindness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 9]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
+- [[Matthew 20]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
+- [[Mosiah 3]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
+- [[3 Nephi 17]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
+- [[D&C 84]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
+- [[John 11]] — 1 footnote cross-reference (from [[John 9#^john-9-3|John 9:3]])
 - [[John 8]] — 2 parallel verses, e.g. [[John 9#^john-9-12|John 9:12]] ↔ [[John 8#^john-8-19|John 8:19]]
 <!-- SG:END related-scriptures -->
 

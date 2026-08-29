@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 10
 slug: neh-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 10]] · My notes: [[Nehemiah 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people covenant not to marry outside of Israel—They also covenant to honor the Sabbath, to pay tithes, and to keep the commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 18]] — 2 footnote cross-references (from [[Nehemiah 10#^neh-10-28|Nehemiah 10:28]])
+- [[Ezra 6]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-28|Nehemiah 10:28]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-29|Nehemiah 10:29]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-29|Nehemiah 10:29]])
+- [[Exodus 30]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]])
+- [[3 Nephi 24]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]])
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]] ↔ [[Joshua 22#^josh-22-33|Joshua 22:33]]
 - [[1 Chronicles 23]] — 3 parallel verses, e.g. [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
 - [[Nehemiah 13]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]] ↔ [[Nehemiah 13#^neh-13-12|Nehemiah 13:12]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 6
 slug: mark-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 6]] · My notes: [[Mark 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus sends forth the Twelve—John the Baptist is beheaded by Herod—Our Lord feeds the five thousand, walks on the water, and heals multitudes.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 10]] — 2 footnote cross-references (from [[Mark 6#^mark-6-7|Mark 6:7]])
+- [[Luke 9]] — 2 footnote cross-references (from [[Mark 6#^mark-6-14|Mark 6:14]])
+- [[Ecclesiastes 9]] — 1 footnote cross-reference (from [[Mark 6#^mark-6-2|Mark 6:2]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[Mark 6#^mark-6-3|Mark 6:3]])
+- [[Mormon 9]] — 1 footnote cross-reference (from [[Mark 6#^mark-6-5|Mark 6:5]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Mark 6#^mark-6-7|Mark 6:7]])
 - [[Matthew 14]] — 10 parallel verses, e.g. [[Mark 6#^mark-6-14|Mark 6:14]] ↔ [[Matthew 14#^matt-14-2|Matthew 14:2]]
 - [[Matthew 10]] — 2 parallel verses, e.g. [[Mark 6#^mark-6-11|Mark 6:11]] ↔ [[Matthew 10#^matt-10-15|Matthew 10:15]]
 - [[Luke 9]] — 4 parallel verses, e.g. [[Mark 6#^mark-6-37|Mark 6:37]] ↔ [[Luke 9#^luke-9-13|Luke 9:13]]

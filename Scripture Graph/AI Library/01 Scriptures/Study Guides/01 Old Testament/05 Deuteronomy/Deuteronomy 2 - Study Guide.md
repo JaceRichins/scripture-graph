@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 2
 slug: deut-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 2]] · My notes: [[Deuteronomy 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel press forward to their promised land—They pass through the lands of Esau and of Ammon in peace but destroy the Amorites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 14]] — 3 footnote cross-references (from [[Deuteronomy 2#^deut-2-10|Deuteronomy 2:10]])
+- [[Genesis 19]] — 2 footnote cross-references (from [[Deuteronomy 2#^deut-2-9|Deuteronomy 2:9]])
+- [[Judges 11]] — 2 footnote cross-references (from [[Deuteronomy 2#^deut-2-9|Deuteronomy 2:9]])
+- [[Deuteronomy 3]] — 2 footnote cross-references (from [[Deuteronomy 2#^deut-2-11|Deuteronomy 2:11]])
+- [[Numbers 21]] — 2 footnote cross-references (from [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]])
+- [[Deuteronomy 29]] — 2 footnote cross-references (from [[Deuteronomy 2#^deut-2-32|Deuteronomy 2:32]])
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Deuteronomy 2#^deut-2-32|Deuteronomy 2:32]] ↔ [[Deuteronomy 3#^deut-3-1|Deuteronomy 3:1]]
 - [[Numbers 21]] — 3 parallel verses, e.g. [[Deuteronomy 2#^deut-2-33|Deuteronomy 2:33]] ↔ [[Numbers 21#^num-21-35|Numbers 21:35]]
 - [[Deuteronomy 1]] — 1 parallel verse, e.g. [[Deuteronomy 2#^deut-2-1|Deuteronomy 2:1]] ↔ [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]]

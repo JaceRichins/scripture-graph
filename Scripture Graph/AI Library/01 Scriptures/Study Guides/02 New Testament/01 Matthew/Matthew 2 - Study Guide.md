@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 2]] · My notes: [[Matthew 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The wise men are directed by a star to Jesus—Joseph takes the child to Egypt—Herod slays the children in Bethlehem—Jesus is taken to Nazareth to dwell.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 6]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[2 Nephi 10]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[D&C 128]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
 - [[Matthew 27]] — 3 parallel verses, e.g. [[Matthew 2#^matt-2-17|Matthew 2:17]] ↔ [[Matthew 27#^matt-27-9|Matthew 27:9]]
 - [[Matthew 1]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-15|Matthew 2:15]] ↔ [[Matthew 1#^matt-1-22|Matthew 1:22]]
 - [[Matthew 21]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]

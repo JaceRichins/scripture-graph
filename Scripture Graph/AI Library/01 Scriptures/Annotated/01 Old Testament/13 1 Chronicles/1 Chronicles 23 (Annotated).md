@@ -83,7 +83,7 @@ cssclasses:
 ![[1 Chronicles 23#^1chr-23-27]]
 
 ![[1 Chronicles 23#^1chr-23-28]]
-> [[2 Chronicles 23#^2chr-23-6|2 Chr. 23:6]] · [[1 Chronicles 25#^1chr-25-6|≈ 1 Chronicles 25:6]] · [[1 Chronicles 28#^1chr-28-13|≈ 1 Chronicles 28:13]] · [[1 Chronicles 28#^1chr-28-20|≈ 1 Chronicles 28:20]] · [[1 Chronicles 28#^1chr-28-21|≈ 1 Chronicles 28:21]] · [[1 Chronicles 29#^1chr-29-7|≈ 1 Chronicles 29:7]] · [[Ezra 7#^ezra-7-19|≈ Ezra 7:19]]
+> [[2 Chronicles 23#^2chr-23-6|2 Chr. 23:6]] · [[2 Chronicles 31#^2chr-31-21|≈ 2 Chronicles 31:21]] · [[1 Chronicles 25#^1chr-25-6|≈ 1 Chronicles 25:6]] · [[1 Chronicles 28#^1chr-28-13|≈ 1 Chronicles 28:13]] · [[1 Chronicles 28#^1chr-28-20|≈ 1 Chronicles 28:20]] · [[1 Chronicles 28#^1chr-28-21|≈ 1 Chronicles 28:21]] · [[1 Chronicles 29#^1chr-29-7|≈ 1 Chronicles 29:7]]
 
 ![[1 Chronicles 23#^1chr-23-29]]
 > [[Nehemiah 10#^neh-10-33|≈ Nehemiah 10:33]]

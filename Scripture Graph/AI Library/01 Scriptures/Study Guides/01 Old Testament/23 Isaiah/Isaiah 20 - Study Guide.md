@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 20
 slug: isa-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 20]] · My notes: [[Isaiah 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Assyria will overrun Egypt and make her ashamed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Kings 18]] — 1 footnote cross-reference (from [[Isaiah 20#^isa-20-1|Isaiah 20:1]])
+- [[Isaiah 19]] — 1 footnote cross-reference (from [[Isaiah 20#^isa-20-4|Isaiah 20:4]])
+- [[Ezekiel 30]] — 1 footnote cross-reference (from [[Isaiah 20#^isa-20-4|Isaiah 20:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

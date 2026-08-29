@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 13]] · My notes: [[1 Nephi 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi sees in vision the church of the devil set up among the Gentiles, the discovery and colonizing of America, the loss of many plain and precious parts of the Bible, the resultant state of gentile apostasy, the restoration of the gospel, the coming forth of latter-day scripture, and the building up of Zion. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 14]] — 11 footnote cross-references (from [[1 Nephi 13#^1ne-13-4|1 Nephi 13:4]])
+- [[2 Nephi 29]] — 7 footnote cross-references (from [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]])
+- [[2 Nephi 10]] — 4 footnote cross-references (from [[1 Nephi 13#^1ne-13-5|1 Nephi 13:5]])
+- [[Mormon 8]] — 4 footnote cross-references (from [[1 Nephi 13#^1ne-13-7|1 Nephi 13:7]])
+- [[Mormon 5]] — 4 footnote cross-references (from [[1 Nephi 13#^1ne-13-14|1 Nephi 13:14]])
+- [[1 Nephi 22]] — 3 footnote cross-references (from [[1 Nephi 13#^1ne-13-6|1 Nephi 13:6]])
 - [[1 Nephi 14]] — 18 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
 - [[1 Nephi 12]] — 15 parallel verses, e.g. [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]
 - [[1 Nephi 11]] — 12 parallel verses, e.g. [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]] ↔ [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 1
 slug: joel-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joel 1]] · My notes: [[Joel 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Call a solemn assembly and gather to the house of the Lord, for the day of the Lord is at hand.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 9]] — 2 footnote cross-references (from [[Joel 1#^joel-1-6|Joel 1:6]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Joel 1#^joel-1-2|Joel 1:2]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Joel 1#^joel-1-4|Joel 1:4]])
+- [[Isaiah 32]] — 1 footnote cross-reference (from [[Joel 1#^joel-1-5|Joel 1:5]])
+- [[Ezekiel 16]] — 1 footnote cross-reference (from [[Joel 1#^joel-1-8|Joel 1:8]])
+- [[Hosea 4]] — 1 footnote cross-reference (from [[Joel 1#^joel-1-10|Joel 1:10]])
 - [[Isaiah 13]] — 1 parallel verse, e.g. [[Joel 1#^joel-1-15|Joel 1:15]] ↔ [[Isaiah 13#^isa-13-6|Isaiah 13:6]]
 - [[2 Nephi 23]] — 1 parallel verse, e.g. [[Joel 1#^joel-1-15|Joel 1:15]] ↔ [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]]
 - [[Jeremiah 47]] — 2 parallel verses, e.g. [[Joel 1#^joel-1-14|Joel 1:14]] ↔ [[Jeremiah 47#^jer-47-2|Jeremiah 47:2]]

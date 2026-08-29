@@ -13,6 +13,9 @@ cssclasses:
 
 [[Ezra 10|Plain text]] · [[Ezra 10 - Study Guide|Study guide]] · [[Ezra 10 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The Jews covenant to put away their wives taken from the Canaanites and others—Ezra assembles the people at Jerusalem—The Levites who married non-Israelite women are listed.
+
 ![[Ezra 10#^ezra-10-1]]
 
 ![[Ezra 10#^ezra-10-2]]
@@ -38,6 +41,7 @@ cssclasses:
 > [[Ezra 8#^ezra-8-28|≈ Ezra 8:28]] · [[2 Chronicles 29#^2chr-29-5|≈ 2 Chronicles 29:5]]
 
 ![[Ezra 10#^ezra-10-12]]
+> [[Mosiah 5#^mosiah-5-1|Mosiah 5:5 (1–5)]]
 
 ![[Ezra 10#^ezra-10-13]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 22
 slug: ps-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 22]] · My notes: [[Psalm 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—He foretells events in the Messiah’s life—The Messiah will say, My God, my God, why hast Thou forsaken me?—They will pierce His hands and feet—He will yet govern among all nations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 27]] — 3 footnote cross-references (from [[Psalm 22#^ps-22-1|Psalm 22:1]])
+- [[Luke 23]] — 2 footnote cross-references (from [[Psalm 22#^ps-22-7|Psalm 22:7]])
+- [[Isaiah 53]] — 1 footnote cross-reference (from [[Psalm 22#^ps-22-6|Psalm 22:6]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Psalm 22#^ps-22-6|Psalm 22:6]])
+- [[Mosiah 14]] — 1 footnote cross-reference (from [[Psalm 22#^ps-22-6|Psalm 22:6]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Psalm 22#^ps-22-14|Psalm 22:14]])
 - [[Hebrews 2]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-22|Psalm 22:22]] ↔ [[Hebrews 2#^heb-2-12|Hebrews 2:12]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
 - [[Mark 15]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Mark 15#^mark-15-34|Mark 15:34]]

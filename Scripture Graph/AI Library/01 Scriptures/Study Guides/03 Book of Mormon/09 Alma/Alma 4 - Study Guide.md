@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 4
 slug: alma-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma baptizes thousands of converts—Iniquity enters the Church, and the Church’s progress is hindered—Nephihah is appointed chief judge—Alma, as high priest, devotes himself to the ministry. About 86–83 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 1]] — 3 footnote cross-references (from [[Alma 4#^alma-4-6|Alma 4:6]])
+- [[Alma 5]] — 3 footnote cross-references (from [[Alma 4#^alma-4-14|Alma 4:14]])
+- [[Alma 2]] — 2 footnote cross-references (from [[Alma 4#^alma-4-2|Alma 4:2]])
+- [[Alma 3]] — 2 footnote cross-references (from [[Alma 4#^alma-4-2|Alma 4:2]])
+- [[Mosiah 29]] — 2 footnote cross-references (from [[Alma 4#^alma-4-4|Alma 4:4]])
+- [[Alma 16]] — 2 footnote cross-references (from [[Alma 4#^alma-4-9|Alma 4:9]])
 - [[Alma 1]] — 8 parallel verses, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[Alma 1#^alma-1-6|Alma 1:6]]
 - [[Mosiah 11]] — 4 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]
 - [[Alma 62]] — 3 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[Alma 62#^alma-62-49|Alma 62:49]]

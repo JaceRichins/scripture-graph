@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 4
 slug: ex-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 4]] · My notes: [[Exodus 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord gives signs to Moses—Aaron is chosen as a spokesman—Israel is the Lord’s firstborn and must be released to serve Him—Moses’ son is circumcised—Moses and Aaron lead Israel in worship.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 3]] — 5 footnote cross-references (from [[Exodus 4#^ex-4-1|Exodus 4:1]])
+- [[Exodus 2]] — 4 footnote cross-references (from [[Exodus 4#^ex-4-1|Exodus 4:1]])
+- [[Exodus 7]] — 3 footnote cross-references (from [[Exodus 4#^ex-4-9|Exodus 4:9]])
+- [[Jeremiah 1]] — 2 footnote cross-references (from [[Exodus 4#^ex-4-10|Exodus 4:10]])
+- [[Moses 6]] — 2 footnote cross-references (from [[Exodus 4#^ex-4-10|Exodus 4:10]])
+- [[D&C 100]] — 2 footnote cross-references (from [[Exodus 4#^ex-4-12|Exodus 4:12]])
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Exodus 3#^ex-3-15|Exodus 3:15]]
 - [[Alma 29]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Alma 29#^alma-29-11|Alma 29:11]]
 - [[Jeremiah 12]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-8|Exodus 4:8]] ↔ [[Jeremiah 12#^jer-12-16|Jeremiah 12:16]]

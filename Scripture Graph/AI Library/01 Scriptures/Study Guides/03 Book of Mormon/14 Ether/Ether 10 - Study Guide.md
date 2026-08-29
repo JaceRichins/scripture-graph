@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 10
 slug: ether-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 10]] · My notes: [[Ether 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> One king succeeds another—Some of the kings are righteous; others are wicked—When righteousness prevails, the people are blessed and prospered by the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 9]] — 6 footnote cross-references (from [[Ether 10#^ether-10-1|Ether 10:1]])
+- [[Ether 6]] — 1 footnote cross-reference (from [[Ether 10#^ether-10-2|Ether 10:2]])
+- [[Mosiah 10]] — 1 footnote cross-reference (from [[Ether 10#^ether-10-3|Ether 10:3]])
+- [[Esther 2]] — 1 footnote cross-reference (from [[Ether 10#^ether-10-5|Ether 10:5]])
+- [[Jacob 3]] — 1 footnote cross-reference (from [[Ether 10#^ether-10-5|Ether 10:5]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Ether 10#^ether-10-5|Ether 10:5]])
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-16|Ether 10:16]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[Ether 9]] — 5 parallel verses, e.g. [[Ether 10#^ether-10-17|Ether 10:17]] ↔ [[Ether 9#^ether-9-21|Ether 9:21]]
 - [[Moses 6]] — 4 parallel verses, e.g. [[Ether 10#^ether-10-29|Ether 10:29]] ↔ [[Moses 6#^moses-6-19|Moses 6:19]]

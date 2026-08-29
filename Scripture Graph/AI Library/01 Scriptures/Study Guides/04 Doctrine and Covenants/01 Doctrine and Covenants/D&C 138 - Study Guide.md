@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -67,18 +67,18 @@ _Not yet developed._
 - [[D&C 68]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-46|D&C 138:46]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-48|D&C 138:48]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
+- [[D&C 2]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[D&C 2#^dc-2-2|D&C 2:2]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[Joseph Smith—History 1#^jsh-1-39|Joseph Smith—History 1:39]]
 - [[D&C 20]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-60|D&C 138:60]] ↔ [[D&C 20#^dc-20-1|D&C 20:1]]
+- [[Isaiah 61]] — 1 parallel verse, e.g. [[D&C 138#^dc-138-42|D&C 138:42]] ↔ [[Isaiah 61#^isa-61-1|Isaiah 61:1]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[D&C 88#^dc-88-99|D&C 88:99]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
-- [[Moses 7]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-49|D&C 138:49]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
-- [[Alma 10]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[Alma 10#^alma-10-13|Alma 10:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Baptism for the Dead]]
 - [[Death and the Spirit World]]
+- [[Baptism for the Dead]]
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*

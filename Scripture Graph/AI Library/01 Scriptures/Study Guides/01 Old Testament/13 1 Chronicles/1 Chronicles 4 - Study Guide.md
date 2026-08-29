@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 4
 slug: 1chr-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 4]] · My notes: [[1 Chronicles 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The families and descendants of Judah, Simeon, and others are chronicled—Various princes in their families are named.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 19]] — 1 footnote cross-reference (from [[1 Chronicles 4#^1chr-4-10|1 Chronicles 4:10]])
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[1 Chronicles 4#^1chr-4-41|1 Chronicles 4:41]] ↔ [[Jeremiah 26#^jer-26-18|Jeremiah 26:18]]
 <!-- SG:END related-scriptures -->
 

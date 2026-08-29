@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 6
 slug: deut-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 6]] · My notes: [[Deuteronomy 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses proclaims, The Lord our God is one Lord, and, Thou shalt love the Lord thy God—The children of Israel are commanded to teach their children—Moses exhorts them to keep the commandments, testimonies, and statutes of the Lord that they may prosper.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 11]] — 4 footnote cross-references (from [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]])
+- [[D&C 20]] — 3 footnote cross-references (from [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]])
+- [[Mark 12]] — 2 footnote cross-references (from [[Deuteronomy 6#^deut-6-4|Deuteronomy 6:4]])
+- [[Exodus 13]] — 2 footnote cross-references (from [[Deuteronomy 6#^deut-6-8|Deuteronomy 6:8]])
+- [[Exodus 20]] — 2 footnote cross-references (from [[Deuteronomy 6#^deut-6-14|Deuteronomy 6:14]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]])
 - [[Deuteronomy 30]] — 5 parallel verses, e.g. [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]] ↔ [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]]
 - [[Deuteronomy 11]] — 6 parallel verses, e.g. [[Deuteronomy 6#^deut-6-7|Deuteronomy 6:7]] ↔ [[Deuteronomy 11#^deut-11-19|Deuteronomy 11:19]]
 - [[Deuteronomy 4]] — 7 parallel verses, e.g. [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]] ↔ [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]]

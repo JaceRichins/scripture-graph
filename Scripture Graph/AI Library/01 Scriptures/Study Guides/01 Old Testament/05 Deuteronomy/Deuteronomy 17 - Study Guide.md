@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 17
 slug: deut-17
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Leviticus 20]] — 1 footnote cross-reference (from [[Deuteronomy 17#^deut-17-5|Deuteronomy 17:5]])
 - [[John 8]] — 1 footnote cross-reference (from [[Deuteronomy 17#^deut-17-7|Deuteronomy 17:7]])
 - [[Deuteronomy 16]] — 5 parallel verses, e.g. [[Deuteronomy 17#^deut-17-2|Deuteronomy 17:2]] ↔ [[Deuteronomy 16#^deut-16-5|Deuteronomy 16:5]]
+- [[Deuteronomy 19]] — 6 parallel verses, e.g. [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]] ↔ [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
 - [[Deuteronomy 13]] — 2 parallel verses, e.g. [[Deuteronomy 17#^deut-17-7|Deuteronomy 17:7]] ↔ [[Deuteronomy 13#^deut-13-9|Deuteronomy 13:9]]
 - [[Deuteronomy 25]] — 3 parallel verses, e.g. [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
@@ -57,21 +58,20 @@ _Not yet developed._
 - [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 28]] — 2 parallel verses, e.g. [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]] ↔ [[Deuteronomy 28#^deut-28-14|Deuteronomy 28:14]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]] ↔ [[Deuteronomy 5#^deut-5-32|Deuteronomy 5:32]]
-- [[Joshua 1]] — 0 parallel verses
-- [[Deuteronomy 19]] — 0 parallel verses
+- [[Joshua 1]] — 2 parallel verses, e.g. [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]] ↔ [[Joshua 1#^josh-1-7|Joshua 1:7]]
 - [[Deuteronomy 13]] — 0 parallel verses
 - [[1 Samuel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Law of Moses]]
 - [[Records and Sacred Writings]]
 - [[Scripture Study]]
 - [[Covenants]]
 - [[Pride]]
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

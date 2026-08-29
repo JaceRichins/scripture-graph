@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 19
 slug: jer-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 19]] · My notes: [[Jeremiah 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord will bring evil upon Judah—They sacrifice their children to Baal—In the siege they will eat the flesh of their sons and daughters.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 18]] — 2 footnote cross-references (from [[Jeremiah 19#^jer-19-1|Jeremiah 19:1]])
+- [[2 Kings 23]] — 2 footnote cross-references (from [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]])
+- [[Joshua 18]] — 1 footnote cross-reference (from [[Jeremiah 19#^jer-19-2|Jeremiah 19:2]])
+- [[1 Samuel 3]] — 1 footnote cross-reference (from [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]])
+- [[2 Kings 21]] — 1 footnote cross-reference (from [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 19#^jer-19-4|Jeremiah 19:4]])
 - [[Jeremiah 7]] — 10 parallel verses, e.g. [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
 - [[Jeremiah 35]] — 8 parallel verses, e.g. [[Jeremiah 19#^jer-19-15|Jeremiah 19:15]] ↔ [[Jeremiah 35#^jer-35-17|Jeremiah 35:17]]
 - [[Jeremiah 32]] — 9 parallel verses, e.g. [[Jeremiah 19#^jer-19-13|Jeremiah 19:13]] ↔ [[Jeremiah 32#^jer-32-29|Jeremiah 32:29]]

@@ -51,9 +51,9 @@ Scripture: [[1 Corinthians 15]] · My notes: [[1 Corinthians 15 - My Notes]]
 - [[Philippians 3]] — 2 footnote cross-references (from [[1 Corinthians 15#^1cor-15-28|1 Corinthians 15:28]])
 - [[D&C 76]] — 2 footnote cross-references (from [[1 Corinthians 15#^1cor-15-28|1 Corinthians 15:28]])
 - [[Mosiah 16]] — 2 footnote cross-references (from [[1 Corinthians 15#^1cor-15-42|1 Corinthians 15:42]])
+- [[D&C 128]] — 4 parallel verses, e.g. [[1 Corinthians 15#^1cor-15-29|1 Corinthians 15:29]] ↔ [[D&C 128#^dc-128-16|D&C 128:16]]
+- [[D&C 76]] — 2 parallel verses, e.g. [[1 Corinthians 15#^1cor-15-40|1 Corinthians 15:40]] ↔ [[D&C 76#^dc-76-96|D&C 76:96]]
 - [[Isaiah 22]] — 1 parallel verse, e.g. [[1 Corinthians 15#^1cor-15-32|1 Corinthians 15:32]] ↔ [[Isaiah 22#^isa-22-13|Isaiah 22:13]]
-- [[D&C 76]] — 0 parallel verses
-- [[D&C 128]] — 0 parallel verses
 - [[Psalm 110]] — 0 parallel verses
 - [[Hosea 13]] — 0 parallel verses
 - [[Romans 5]] — 0 parallel verses
@@ -65,10 +65,10 @@ Scripture: [[1 Corinthians 15]] · My notes: [[1 Corinthians 15 - My Notes]]
 - [[Resurrection]]
 - [[Kingdoms of Glory]]
 - [[Baptism for the Dead]]
-- [[Apostles]]
 - [[Gospel of Jesus Christ]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

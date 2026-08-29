@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 5
 slug: ether-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 5]] · My notes: [[Ether 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Three witnesses and the work itself will stand as a testimony of the truthfulness of the Book of Mormon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 27]] — 4 footnote cross-references (from [[Ether 5#^ether-5-1|Ether 5:1]])
+- [[D&C 17]] — 3 footnote cross-references (from [[Ether 5#^ether-5-1|Ether 5:1]])
+- [[Ether 4]] — 2 footnote cross-references (from [[Ether 5#^ether-5-1|Ether 5:1]])
+- [[D&C 5]] — 2 footnote cross-references (from [[Ether 5#^ether-5-2|Ether 5:2]])
+- [[Moroni 10]] — 2 footnote cross-references (from [[Ether 5#^ether-5-3|Ether 5:3]])
+- [[2 Nephi 11]] — 1 footnote cross-reference (from [[Ether 5#^ether-5-3|Ether 5:3]])
 - [[Mormon 9]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[D&C 5]] — 1 parallel verse, e.g. [[Ether 5#^ether-5-3|Ether 5:3]] ↔ [[D&C 5#^dc-5-12|D&C 5:12]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[Ether 5#^ether-5-5|Ether 5:5]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]

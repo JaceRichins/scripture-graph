@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 28
 slug: ezek-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 28]] · My notes: [[Ezekiel 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Tyre and Sidon will fall and be destroyed—The Lord will gather the people of Israel to their own land—They will then dwell safely.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Ezekiel 28#^ezek-28-5|Ezekiel 28:5]])
+- [[Ezekiel 27]] — 2 footnote cross-references (from [[Ezekiel 28#^ezek-28-12|Ezekiel 28:12]])
+- [[Ezekiel 31]] — 2 footnote cross-references (from [[Ezekiel 28#^ezek-28-13|Ezekiel 28:13]])
+- [[Isaiah 55]] — 1 footnote cross-reference (from [[Ezekiel 28#^ezek-28-2|Ezekiel 28:2]])
+- [[Ezekiel 14]] — 1 footnote cross-reference (from [[Ezekiel 28#^ezek-28-3|Ezekiel 28:3]])
+- [[Daniel 9]] — 1 footnote cross-reference (from [[Ezekiel 28#^ezek-28-3|Ezekiel 28:3]])
 - [[Ezekiel 30]] — 6 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Ezekiel 26]] — 4 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
 - [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]

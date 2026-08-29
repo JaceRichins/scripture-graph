@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Colossians 3]] · My notes: [[Colossians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Romans 6]] — 3 footnote cross-references (from [[Colossians 3#^col-3-3|Colossians 3:3]])
+- [[Colossians 2]] — 2 footnote cross-references (from [[Colossians 3#^col-3-1|Colossians 3:1]])
+- [[Romans 8]] — 2 footnote cross-references (from [[Colossians 3#^col-3-5|Colossians 3:5]])
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-2|Colossians 3:2]])
+- [[Proverbs 15]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-2|Colossians 3:2]])
+- [[Ether 4]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-4|Colossians 3:4]])
 - [[Ephesians 5]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-16|Colossians 3:16]] ↔ [[Ephesians 5#^eph-5-19|Ephesians 5:19]]
 <!-- SG:END related-scriptures -->
 

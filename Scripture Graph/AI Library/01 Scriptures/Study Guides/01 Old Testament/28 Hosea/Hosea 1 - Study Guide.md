@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 1
 slug: hosea-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hosea 1]] · My notes: [[Hosea 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Hosea and his family are a sign unto Israel—In the day of gathering, the people of Israel will become the sons of the living God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 15]] — 2 footnote cross-references (from [[Hosea 1#^hosea-1-4|Hosea 1:4]])
+- [[2 Kings 17]] — 2 footnote cross-references (from [[Hosea 1#^hosea-1-4|Hosea 1:4]])
+- [[D&C 109]] — 2 footnote cross-references (from [[Hosea 1#^hosea-1-6|Hosea 1:6]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Hosea 1#^hosea-1-1|Hosea 1:1]])
+- [[Amos 1]] — 1 footnote cross-reference (from [[Hosea 1#^hosea-1-1|Hosea 1:1]])
+- [[Hosea 3]] — 1 footnote cross-reference (from [[Hosea 1#^hosea-1-2|Hosea 1:2]])
 - [[Romans 9]] — 2 parallel verses, e.g. [[Hosea 1#^hosea-1-10|Hosea 1:10]] ↔ [[Romans 9#^rom-9-26|Romans 9:26]]
 - [[Amos 1]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-1|Hosea 1:1]] ↔ [[Amos 1#^amos-1-1|Amos 1:1]]
 - [[Genesis 29]] — 3 parallel verses, e.g. [[Hosea 1#^hosea-1-6|Hosea 1:6]] ↔ [[Genesis 29#^gen-29-33|Genesis 29:33]]

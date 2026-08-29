@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 3]] · My notes: [[1 Samuel 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord calls Samuel—The house of Eli will not be purged by sacrifices and offerings—Samuel is recognized as a prophet by all Israel—The Lord appears to him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 2]] — 3 footnote cross-references (from [[1 Samuel 3#^1sam-3-12|1 Samuel 3:12]])
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[1 Samuel 3#^1sam-3-1|1 Samuel 3:1]])
+- [[Psalm 74]] — 1 footnote cross-reference (from [[1 Samuel 3#^1sam-3-1|1 Samuel 3:1]])
+- [[Amos 8]] — 1 footnote cross-reference (from [[1 Samuel 3#^1sam-3-1|1 Samuel 3:1]])
+- [[Mormon 1]] — 1 footnote cross-reference (from [[1 Samuel 3#^1sam-3-1|1 Samuel 3:1]])
+- [[1 Samuel 4]] — 1 footnote cross-reference (from [[1 Samuel 3#^1sam-3-2|1 Samuel 3:2]])
 - [[Judges 19]] — 1 parallel verse, e.g. [[1 Samuel 3#^1sam-3-15|1 Samuel 3:15]] ↔ [[Judges 19#^judg-19-27|Judges 19:27]]
+- [[2 Kings 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

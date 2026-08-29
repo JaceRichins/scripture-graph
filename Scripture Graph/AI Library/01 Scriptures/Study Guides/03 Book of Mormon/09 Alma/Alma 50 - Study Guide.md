@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 50
 slug: alma-50
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 50]] · My notes: [[Alma 50 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni fortifies the lands of the Nephites—They build many new cities—Wars and destructions befell the Nephites in the days of their wickedness and abominations—Morianton and his dissenters are defeated by Teancum—Nephihah dies, and his son Pahoran fills the judgment seat. About 72–67 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 51]] — 6 footnote cross-references (from [[Alma 50#^alma-50-13|Alma 50:13]])
+- [[Alma 62]] — 4 footnote cross-references (from [[Alma 50#^alma-50-13|Alma 50:13]])
+- [[Helaman 1]] — 4 footnote cross-references (from [[Alma 50#^alma-50-34|Alma 50:34]])
+- [[Alma 22]] — 3 footnote cross-references (from [[Alma 50#^alma-50-7|Alma 50:7]])
+- [[Alma 49]] — 2 footnote cross-references (from [[Alma 50#^alma-50-1|Alma 50:1]])
+- [[Alma 53]] — 2 footnote cross-references (from [[Alma 50#^alma-50-2|Alma 50:2]])
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 50#^alma-50-35|Alma 50:35]] ↔ [[Alma 43#^alma-43-35|Alma 43:35]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 50#^alma-50-20|Alma 50:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Ether 2]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-20|Alma 50:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]

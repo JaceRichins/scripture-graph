@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 30
 slug: isa-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 30]] · My notes: [[Isaiah 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is scattered for rejecting the seers and prophets—Israel’s people will be gathered and blessed temporally and spiritually—The Lord will come in a day of apostasy to judge and destroy the wicked.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 2]] — 2 footnote cross-references (from [[Isaiah 30#^isa-30-2|Isaiah 30:2]])
+- [[Lamentations 4]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-7|Isaiah 30:7]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-9|Isaiah 30:9]])
+- [[Psalm 2]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-14|Isaiah 30:14]])
+- [[Isaiah 31]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-16|Isaiah 30:16]])
+- [[D&C 113]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-17|Isaiah 30:17]])
 - [[D&C 88]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-26|Isaiah 30:26]] ↔ [[D&C 88#^dc-88-7|D&C 88:7]]
 <!-- SG:END related-scriptures -->
 

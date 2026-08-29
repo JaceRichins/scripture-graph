@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 30
 slug: deut-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 30]] · My notes: [[Deuteronomy 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The scattered Israelites will be gathered from all nations when they remember the covenant—Moses places life or death, blessing or cursing, before the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 7]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-2|Deuteronomy 30:2]])
+- [[Zechariah 10]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-2|Deuteronomy 30:2]])
+- [[Zephaniah 2]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
+- [[Zephaniah 3]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
+- [[Jeremiah 12]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
+- [[Nehemiah 1]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
 - [[Deuteronomy 28]] — 14 parallel verses, e.g. [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
 - [[Deuteronomy 6]] — 5 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-2|Deuteronomy 30:2]] ↔ [[Deuteronomy 26#^deut-26-16|Deuteronomy 26:16]]

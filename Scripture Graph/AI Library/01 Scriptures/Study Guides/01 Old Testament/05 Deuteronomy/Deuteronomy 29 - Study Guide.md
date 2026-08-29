@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 29
 slug: deut-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 29]] · My notes: [[Deuteronomy 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel make a covenant with the Lord under which they will be blessed if they are obedient, and cursed if they are disobedient—If they are disobedient, their land will be as brimstone and salt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 2]] — 2 footnote cross-references (from [[Deuteronomy 29#^deut-29-7|Deuteronomy 29:7]])
+- [[Deuteronomy 5]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-1|Deuteronomy 29:1]])
+- [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-3|Deuteronomy 29:3]])
+- [[Numbers 21]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-7|Deuteronomy 29:7]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]])
+- [[1 Kings 2]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]])
 - [[Deuteronomy 30]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-13|Deuteronomy 29:13]] ↔ [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]]
 - [[2 Chronicles 7]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-25|Deuteronomy 29:25]] ↔ [[2 Chronicles 7#^2chr-7-22|2 Chronicles 7:22]]
 - [[Judges 2]] — 3 parallel verses, e.g. [[Deuteronomy 29#^deut-29-25|Deuteronomy 29:25]] ↔ [[Judges 2#^judg-2-12|Judges 2:12]]

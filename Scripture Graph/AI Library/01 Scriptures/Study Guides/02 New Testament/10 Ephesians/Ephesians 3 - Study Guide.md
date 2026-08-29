@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 3
 slug: eph-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 3]] · My notes: [[Ephesians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Gentiles are fellow heirs with Israel—The love of Christ surpasses all understanding.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Colossians 1]] — 3 parallel verses, e.g. [[Ephesians 3#^eph-3-14|Ephesians 3:14]] ↔ [[Colossians 1#^col-1-3|Colossians 1:3]]
-- [[Ephesians 1]] — 2 parallel verses, e.g. [[Ephesians 3#^eph-3-14|Ephesians 3:14]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
+- [[Colossians 1]] — 3 footnote cross-references (from [[Ephesians 3#^eph-3-3|Ephesians 3:3]])
+- [[Romans 16]] — 1 footnote cross-reference (from [[Ephesians 3#^eph-3-4|Ephesians 3:4]])
+- [[Ephesians 1]] — 1 footnote cross-reference (from [[Ephesians 3#^eph-3-4|Ephesians 3:4]])
+- [[Colossians 2]] — 1 footnote cross-reference (from [[Ephesians 3#^eph-3-17|Ephesians 3:17]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Ephesians 3#^eph-3-21|Ephesians 3:21]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

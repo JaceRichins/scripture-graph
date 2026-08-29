@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 27
 slug: isa-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 27]] · My notes: [[Isaiah 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Israel will blossom and bud and fill the earth with fruit—They will be gathered one by one and will worship the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 66]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-1|Isaiah 27:1]])
+- [[Job 26]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-1|Isaiah 27:1]])
+- [[Psalm 74]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-1|Isaiah 27:1]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-1|Isaiah 27:1]])
+- [[Revelation 20]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-1|Isaiah 27:1]])
+- [[Ether 13]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-6|Isaiah 27:6]])
 - [[Isaiah 7]] — 6 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[2 Nephi 24]] — 5 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
 - [[Zechariah 14]] — 4 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]

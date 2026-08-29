@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 17
 slug: 2ne-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 17]] · My notes: [[2 Nephi 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ephraim and Syria wage war against Judah—Christ will be born of a virgin—Compare Isaiah 7. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 15]] — 4 footnote cross-references (from [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]])
+- [[2 Kings 16]] — 3 footnote cross-references (from [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]])
+- [[2 Chronicles 28]] — 3 footnote cross-references (from [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]])
+- [[Isaiah 8]] — 3 footnote cross-references (from [[2 Nephi 17#^2ne-17-7|2 Nephi 17:7]])
+- [[Isaiah 7]] — 2 footnote cross-references (from [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]])
+- [[2 Nephi 18]] — 2 footnote cross-references (from [[2 Nephi 17#^2ne-17-14|2 Nephi 17:14]])
 - [[Isaiah 7]] — 28 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[Isaiah 7#^isa-7-1|Isaiah 7:1]]
 - [[2 Kings 15]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[2 Kings 15#^2kgs-15-32|2 Kings 15:32]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]

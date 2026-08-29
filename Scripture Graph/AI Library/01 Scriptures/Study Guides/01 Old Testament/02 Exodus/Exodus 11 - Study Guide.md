@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 11
 slug: ex-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 11]] · My notes: [[Exodus 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The departing Israelites are authorized to ask for jewels and gold from their neighbors—The Lord promises to slay the firstborn in every Egyptian home—He puts a difference between the Egyptians and the Israelites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Exodus 11#^ex-11-1|Exodus 11:1]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Exodus 11#^ex-11-3|Exodus 11:3]])
+- [[Exodus 4]] — 1 footnote cross-reference (from [[Exodus 11#^ex-11-5|Exodus 11:5]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Exodus 11#^ex-11-7|Exodus 11:7]])
 - [[Exodus 12]] — 4 parallel verses, e.g. [[Exodus 11#^ex-11-3|Exodus 11:3]] ↔ [[Exodus 12#^ex-12-36|Exodus 12:36]]
 - [[Exodus 10]] — 1 parallel verse, e.g. [[Exodus 11#^ex-11-10|Exodus 11:10]] ↔ [[Exodus 10#^ex-10-20|Exodus 10:20]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 11#^ex-11-2|Exodus 11:2]] ↔ [[Exodus 3#^ex-3-22|Exodus 3:22]]

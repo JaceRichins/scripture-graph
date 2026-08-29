@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 21
 slug: josh-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 21]] · My notes: [[Joshua 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Levites receive forty-eight cities with their suburbs—The Lord fulfills all His promises and gives Israel rest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 6]] — 4 footnote cross-references (from [[Joshua 21#^josh-21-4|Joshua 21:4]])
+- [[Numbers 35]] — 2 footnote cross-references (from [[Joshua 21#^josh-21-1|Joshua 21:1]])
+- [[Joshua 14]] — 2 footnote cross-references (from [[Joshua 21#^josh-21-11|Joshua 21:11]])
+- [[Joshua 23]] — 2 footnote cross-references (from [[Joshua 21#^josh-21-44|Joshua 21:44]])
+- [[2 Chronicles 31]] — 1 footnote cross-reference (from [[Joshua 21#^josh-21-9|Joshua 21:9]])
+- [[1 Kings 2]] — 1 footnote cross-reference (from [[Joshua 21#^josh-21-18|Joshua 21:18]])
 - [[1 Chronicles 6]] — 38 parallel verses, e.g. [[Joshua 21#^josh-21-6|Joshua 21:6]] ↔ [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]]
 - [[Joshua 19]] — 7 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]

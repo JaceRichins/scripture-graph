@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 9
 slug: zech-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 9]] · My notes: [[Zechariah 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zechariah speaks as the Messiah—The Messiah will come, having salvation, lowly and riding upon an ass—He will free the prisoners from the pit—Judah and Ephraim are instruments of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 62]] — 2 footnote cross-references (from [[Zechariah 9#^zech-9-9|Zechariah 9:9]])
+- [[Amos 1]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-3|Zechariah 9:3]])
+- [[Zephaniah 2]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-5|Zechariah 9:5]])
+- [[Judges 1]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-7|Zechariah 9:7]])
+- [[Matthew 21]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-9|Zechariah 9:9]])
+- [[John 12]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-9|Zechariah 9:9]])
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Zechariah 9#^zech-9-9|Zechariah 9:9]] ↔ [[Matthew 21#^matt-21-5|Matthew 21:5]]
 <!-- SG:END related-scriptures -->
 

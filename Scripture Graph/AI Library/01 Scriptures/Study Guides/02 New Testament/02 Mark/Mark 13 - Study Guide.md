@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 13
 slug: mark-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 13]] · My notes: [[Mark 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus tells of the calamities and signs preceding the Second Coming—There will be false Christs and false prophets—He gives the parable of the fig tree.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 3 footnote cross-references (from [[Mark 13#^mark-13-28|Mark 13:28]])
+- [[Matthew 10]] — 2 footnote cross-references (from [[Mark 13#^mark-13-11|Mark 13:11]])
+- [[Joseph Smith—Matthew 1]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-1|Mark 13:1]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-6|Mark 13:6]])
+- [[1 Nephi 14]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-8|Mark 13:8]])
+- [[D&C 87]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-8|Mark 13:8]])
 - [[Matthew 24]] — 21 parallel verses, e.g. [[Mark 13#^mark-13-28|Mark 13:28]] ↔ [[Matthew 24#^matt-24-32|Matthew 24:32]]
 - [[Joseph Smith—Matthew 1]] — 17 parallel verses, e.g. [[Mark 13#^mark-13-6|Mark 13:6]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]]
 - [[Luke 21]] — 10 parallel verses, e.g. [[Mark 13#^mark-13-2|Mark 13:2]] ↔ [[Luke 21#^luke-21-6|Luke 21:6]]

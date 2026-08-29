@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Timothy 5]] · My notes: [[1 Timothy 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints are to care for their worthy poor—Policies concerning elders are given.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[1 Corinthians 9]] — 1 parallel verse, e.g. [[1 Timothy 5#^1tim-5-18|1 Timothy 5:18]] ↔ [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]]
+- [[Acts 16]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-10|1 Timothy 5:10]])
+- [[Titus 2]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-14|1 Timothy 5:14]])
+- [[Deuteronomy 25]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-18|1 Timothy 5:18]])
+- [[Deuteronomy 19]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-19|1 Timothy 5:19]])
+- [[1 Timothy 3]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-22|1 Timothy 5:22]])
+- [[2 John 1]] — 1 footnote cross-reference (from [[1 Timothy 5#^1tim-5-22|1 Timothy 5:22]])
+- [[1 Corinthians 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

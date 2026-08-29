@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 5
 slug: 1chr-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 5]] · My notes: [[1 Chronicles 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The sons of Joseph received Reuben’s birthright—Judah and his descendants became rulers in Israel—The line of Reuben down to the captivity is given—The Assyrians carry the Reubenites, Gadites, and half of Manasseh into captivity.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 15]] — 4 footnote cross-references (from [[1 Chronicles 5#^1chr-5-6|1 Chronicles 5:6]])
+- [[Genesis 49]] — 2 footnote cross-references (from [[1 Chronicles 5#^1chr-5-1|1 Chronicles 5:1]])
+- [[Joshua 22]] — 2 footnote cross-references (from [[1 Chronicles 5#^1chr-5-3|1 Chronicles 5:3]])
+- [[Genesis 29]] — 1 footnote cross-reference (from [[1 Chronicles 5#^1chr-5-1|1 Chronicles 5:1]])
+- [[Deuteronomy 33]] — 1 footnote cross-reference (from [[1 Chronicles 5#^1chr-5-1|1 Chronicles 5:1]])
+- [[Joshua 14]] — 1 footnote cross-reference (from [[1 Chronicles 5#^1chr-5-1|1 Chronicles 5:1]])
 - [[Exodus 6]] — 2 parallel verses, e.g. [[1 Chronicles 5#^1chr-5-1|1 Chronicles 5:1]] ↔ [[Exodus 6#^ex-6-14|Exodus 6:14]]
 - [[Joshua 12]] — 1 parallel verse, e.g. [[1 Chronicles 5#^1chr-5-26|1 Chronicles 5:26]] ↔ [[Joshua 12#^josh-12-6|Joshua 12:6]]
 - [[Joshua 22]] — 1 parallel verse, e.g. [[1 Chronicles 5#^1chr-5-26|1 Chronicles 5:26]] ↔ [[Joshua 22#^josh-22-1|Joshua 22:1]]

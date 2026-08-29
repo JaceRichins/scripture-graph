@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 25
 slug: ezek-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 25]] · My notes: [[Ezekiel 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord’s vengeance will fall on the Ammonites, on the Moabites and Edomites, and on the Philistines.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 49]] — 3 footnote cross-references (from [[Ezekiel 25#^ezek-25-5|Ezekiel 25:5]])
+- [[Amos 1]] — 2 footnote cross-references (from [[Ezekiel 25#^ezek-25-5|Ezekiel 25:5]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Ezekiel 25#^ezek-25-2|Ezekiel 25:2]])
+- [[Ezekiel 21]] — 1 footnote cross-reference (from [[Ezekiel 25#^ezek-25-5|Ezekiel 25:5]])
+- [[Isaiah 15]] — 1 footnote cross-reference (from [[Ezekiel 25#^ezek-25-8|Ezekiel 25:8]])
+- [[Ezekiel 35]] — 1 footnote cross-reference (from [[Ezekiel 25#^ezek-25-8|Ezekiel 25:8]])
 - [[Ezekiel 30]] — 5 parallel verses, e.g. [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Ezekiel 23]] — 4 parallel verses, e.g. [[Ezekiel 25#^ezek-25-1|Ezekiel 25:1]] ↔ [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]]

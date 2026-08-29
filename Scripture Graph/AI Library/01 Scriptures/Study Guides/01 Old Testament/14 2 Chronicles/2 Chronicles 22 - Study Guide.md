@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 22
 slug: 2chr-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 22]] · My notes: [[2 Chronicles 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ahaziah reigns in wickedness and is slain by Jehu; his mother, Athaliah, reigns in his stead.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Chronicles 21]] — 4 footnote cross-references (from [[2 Chronicles 22#^2chr-22-1|2 Chronicles 22:1]])
+- [[2 Kings 8]] — 4 footnote cross-references (from [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]])
+- [[2 Kings 9]] — 2 footnote cross-references (from [[2 Chronicles 22#^2chr-22-7|2 Chronicles 22:7]])
+- [[1 Kings 16]] — 1 footnote cross-reference (from [[2 Chronicles 22#^2chr-22-3|2 Chronicles 22:3]])
+- [[2 Kings 11]] — 1 footnote cross-reference (from [[2 Chronicles 22#^2chr-22-10|2 Chronicles 22:10]])
 - [[2 Kings 8]] — 10 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Kings 8#^2kgs-8-26|2 Kings 8:26]]
 - [[2 Kings 11]] — 2 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-10|2 Chronicles 22:10]] ↔ [[2 Kings 11#^2kgs-11-1|2 Kings 11:1]]
 - [[2 Chronicles 36]] — 3 parallel verses, e.g. [[2 Chronicles 22#^2chr-22-2|2 Chronicles 22:2]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]

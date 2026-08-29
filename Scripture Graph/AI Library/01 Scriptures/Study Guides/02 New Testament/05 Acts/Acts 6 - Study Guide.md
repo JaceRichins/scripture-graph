@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 6
 slug: acts-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 6]] · My notes: [[Acts 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Apostles choose seven to assist them—Stephen is tried before the council.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,7 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[2 Nephi 31]] — 2 parallel verses, e.g. [[Acts 6#^acts-6-5|Acts 6:5]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
+- [[D&C 107]] — 2 footnote cross-references (from [[Acts 6#^acts-6-3|Acts 6:3]])
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 6#^acts-6-5|Acts 6:5]])
+- [[Acts 4]] — 1 footnote cross-reference (from [[Acts 6#^acts-6-1|Acts 6:1]])
+- [[1 Timothy 3]] — 1 footnote cross-reference (from [[Acts 6#^acts-6-3|Acts 6:3]])
+- [[Mark 16]] — 1 footnote cross-reference (from [[Acts 6#^acts-6-4|Acts 6:4]])
+- [[John 12]] — 1 footnote cross-reference (from [[Acts 6#^acts-6-7|Acts 6:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

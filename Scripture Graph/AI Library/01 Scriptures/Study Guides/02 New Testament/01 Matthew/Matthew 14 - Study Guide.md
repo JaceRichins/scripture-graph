@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 14
 slug: matt-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 14]] · My notes: [[Matthew 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> John the Baptist is beheaded—Jesus feeds the five thousand and walks on the sea—Those who touch the hem of His garment are made whole.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 9]] — 3 footnote cross-references (from [[Matthew 14#^matt-14-1|Matthew 14:1]])
+- [[Leviticus 18]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-4|Matthew 14:4]])
+- [[Leviticus 20]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-4|Matthew 14:4]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
+- [[Matthew 21]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
+- [[Luke 20]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
 - [[Mark 6]] — 10 parallel verses, e.g. [[Matthew 14#^matt-14-2|Matthew 14:2]] ↔ [[Mark 6#^mark-6-14|Mark 6:14]]
 - [[Matthew 15]] — 3 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
 - [[Luke 9]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-19|Matthew 14:19]] ↔ [[Luke 9#^luke-9-16|Luke 9:16]]

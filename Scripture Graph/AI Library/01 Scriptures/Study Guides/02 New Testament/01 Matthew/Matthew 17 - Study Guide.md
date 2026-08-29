@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 17
 slug: matt-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 17]] · My notes: [[Matthew 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is transfigured before Peter, James, and John on the mount—Jesus heals a lunatic, tells of His coming death, and pays taxes in a miraculous manner.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 110]] — 3 footnote cross-references (from [[Matthew 17#^matt-17-3|Matthew 17:3]])
+- [[Mark 9]] — 2 footnote cross-references (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
+- [[D&C 128]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-1|Matthew 17:1]])
+- [[Luke 9]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
+- [[John 1]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
+- [[2 Peter 1]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
 - [[Mark 9]] — 9 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
 - [[Luke 9]] — 4 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
 - [[Matthew 21]] — 3 parallel verses, e.g. [[Matthew 17#^matt-17-20|Matthew 17:20]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]

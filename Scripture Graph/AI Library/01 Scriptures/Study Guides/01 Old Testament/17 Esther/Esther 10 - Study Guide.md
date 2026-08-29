@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 10
 slug: esth-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 10]] · My notes: [[Esther 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mordecai, the Jew, stands next to Ahasuerus in power and might.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 3]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-2|Esther 10:2]])
+- [[1 Kings 14]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-2|Esther 10:2]])
+- [[1 Chronicles 27]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-2|Esther 10:2]])
+- [[Esther 6]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-2|Esther 10:2]])
+- [[Daniel 6]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-3|Esther 10:3]])
+- [[Genesis 41]] — 1 footnote cross-reference (from [[Esther 10#^esth-10-3|Esther 10:3]])
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[Esther 10#^esth-10-2|Esther 10:2]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
 - [[1 Kings 16]] — 4 parallel verses, e.g. [[Esther 10#^esth-10-2|Esther 10:2]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
 - [[1 Kings 15]] — 3 parallel verses, e.g. [[Esther 10#^esth-10-2|Esther 10:2]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]

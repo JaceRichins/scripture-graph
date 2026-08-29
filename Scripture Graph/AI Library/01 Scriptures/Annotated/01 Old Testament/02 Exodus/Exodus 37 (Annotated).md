@@ -20,7 +20,7 @@ cssclasses:
 > [[Exodus 25#^ex-25-10|≈ Exodus 25:10]] · [[Exodus 25#^ex-25-23|≈ Exodus 25:23]] · [[Exodus 25#^ex-25-17|≈ Exodus 25:17]]
 
 ![[Exodus 37#^ex-37-2]]
-> [[Exodus 25#^ex-25-11|≈ Exodus 25:11]] · [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]]
+> [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]] · [[Exodus 25#^ex-25-11|≈ Exodus 25:11]]
 
 ![[Exodus 37#^ex-37-3]]
 > [[Exodus 25#^ex-25-12|≈ Exodus 25:12]]
@@ -46,7 +46,7 @@ cssclasses:
 > [[Exodus 25#^ex-25-23|Ex. 25:23 (23–29)]] · [[1 Kings 7#^1kgs-7-48|1 Kgs. 7:48]] · [[Exodus 25#^ex-25-23|≈ Exodus 25:23]] · [[Exodus 25#^ex-25-10|≈ Exodus 25:10]] · [[Exodus 25#^ex-25-17|≈ Exodus 25:17]] · [[Exodus 30#^ex-30-2|≈ Exodus 30:2]]
 
 ![[Exodus 37#^ex-37-11]]
-> [[Exodus 25#^ex-25-24|≈ Exodus 25:24]] · [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]]
+> [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]] · [[Exodus 25#^ex-25-24|≈ Exodus 25:24]]
 
 ![[Exodus 37#^ex-37-12]]
 
@@ -85,7 +85,7 @@ cssclasses:
 > [[1 Kings 7#^1kgs-7-48|1 Kgs. 7:48]] · [[Exodus 38#^ex-38-2|≈ Exodus 38:2]]
 
 ![[Exodus 37#^ex-37-26]]
-> [[Exodus 25#^ex-25-11|≈ Exodus 25:11]] · [[Exodus 30#^ex-30-3|≈ Exodus 30:3]] · [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]]
+> [[1 Kings 6#^1kgs-6-20|≈ 1 Kings 6:20]] · [[Exodus 25#^ex-25-11|≈ Exodus 25:11]] · [[Exodus 30#^ex-30-3|≈ Exodus 30:3]]
 
 ![[Exodus 37#^ex-37-27]]
 > [[Exodus 30#^ex-30-4|≈ Exodus 30:4]]

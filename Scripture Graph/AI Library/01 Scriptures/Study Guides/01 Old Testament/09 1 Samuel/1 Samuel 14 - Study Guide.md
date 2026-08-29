@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 14
 slug: 1sam-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 14]] · My notes: [[1 Samuel 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jonathan smites the garrison of the Philistines—Saul instructs the people to eat no food until evening—Unaware of the oath, Jonathan eats, and Saul decrees his death—He is rescued by the people—Saul vexes his enemies on every hand.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 13]] — 4 footnote cross-references (from [[1 Samuel 14#^1sam-14-4|1 Samuel 14:4]])
+- [[Judges 7]] — 2 footnote cross-references (from [[1 Samuel 14#^1sam-14-6|1 Samuel 14:6]])
+- [[1 Samuel 18]] — 2 footnote cross-references (from [[1 Samuel 14#^1sam-14-49|1 Samuel 14:49]])
+- [[2 Samuel 3]] — 2 footnote cross-references (from [[1 Samuel 14#^1sam-14-49|1 Samuel 14:49]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[1 Samuel 14#^1sam-14-3|1 Samuel 14:3]])
+- [[1 Samuel 2]] — 1 footnote cross-reference (from [[1 Samuel 14#^1sam-14-3|1 Samuel 14:3]])
 - [[Judges 9]] — 4 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[2 Samuel 16]] — 2 parallel verses, e.g. [[1 Samuel 14#^1sam-14-20|1 Samuel 14:20]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
 - [[2 Samuel 14]] — 1 parallel verse, e.g. [[1 Samuel 14#^1sam-14-45|1 Samuel 14:45]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]

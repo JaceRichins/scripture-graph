@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 4
 slug: john-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[John 4]] · My notes: [[John 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches a woman of Samaria—All must worship the Father in spirit and truth—Those who harvest souls gain eternal life—Many Samaritans believe—Jesus heals a nobleman’s son.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 6]] — 2 footnote cross-references (from [[John 4#^john-4-14|John 4:14]])
+- [[D&C 93]] — 2 footnote cross-references (from [[John 4#^john-4-22|John 4:22]])
+- [[John 8]] — 2 footnote cross-references (from [[John 4#^john-4-26|John 4:26]])
+- [[John 3]] — 1 footnote cross-reference (from [[John 4#^john-4-2|John 4:2]])
+- [[2 Kings 17]] — 1 footnote cross-reference (from [[John 4#^john-4-9|John 4:9]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[John 4#^john-4-9|John 4:9]])
 - [[John 6]] — 2 parallel verses, e.g. [[John 4#^john-4-34|John 4:34]] ↔ [[John 6#^john-6-38|John 6:38]]
 <!-- SG:END related-scriptures -->
 

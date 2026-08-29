@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 4
 slug: judg-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 4]] · My notes: [[Judges 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Deborah, a prophetess, judges Israel—She and Barak deliver Israel from the Canaanites—Jael, a woman, slays Sisera, the Canaanite.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Judges 3]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-1|Judges 4:1]])
+- [[3 Nephi 30]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-1|Judges 4:1]])
+- [[Abraham 1]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-1|Judges 4:1]])
+- [[2 Nephi 7]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-2|Judges 4:2]])
+- [[Joshua 17]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-3|Judges 4:3]])
+- [[Judges 1]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-3|Judges 4:3]])
 - [[Judges 9]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-13|Judges 4:13]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[Judges 6]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
 - [[Judges 3]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 3#^judg-3-9|Judges 3:9]]

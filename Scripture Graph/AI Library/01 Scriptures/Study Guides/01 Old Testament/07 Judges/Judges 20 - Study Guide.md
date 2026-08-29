@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 20
 slug: judg-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 20]] · My notes: [[Judges 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> All Israel arises against the Benjamites, who refuse to deliver up the men of Gibeah—The Benjamites are smitten and destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hosea 10]] — 2 footnote cross-references (from [[Judges 20#^judg-20-4|Judges 20:4]])
+- [[1 Samuel 7]] — 1 footnote cross-reference (from [[Judges 20#^judg-20-1|Judges 20:1]])
+- [[Joshua 1]] — 1 footnote cross-reference (from [[Judges 20#^judg-20-10|Judges 20:10]])
+- [[Deuteronomy 13]] — 1 footnote cross-reference (from [[Judges 20#^judg-20-13|Judges 20:13]])
+- [[Jude 1]] — 1 footnote cross-reference (from [[Judges 20#^judg-20-13|Judges 20:13]])
+- [[1 Chronicles 12]] — 1 footnote cross-reference (from [[Judges 20#^judg-20-16|Judges 20:16]])
 - [[Numbers 25]] — 2 parallel verses, e.g. [[Judges 20#^judg-20-28|Judges 20:28]] ↔ [[Numbers 25#^num-25-7|Numbers 25:7]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Judges 20#^judg-20-28|Judges 20:28]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
 - [[Judges 1]] — 2 parallel verses, e.g. [[Judges 20#^judg-20-37|Judges 20:37]] ↔ [[Judges 1#^judg-1-25|Judges 1:25]]

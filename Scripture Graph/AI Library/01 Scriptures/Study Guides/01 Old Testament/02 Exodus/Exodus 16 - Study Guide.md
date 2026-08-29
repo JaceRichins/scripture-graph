@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 16
 slug: ex-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,12 @@ Scripture: [[Exodus 16]] · My notes: [[Exodus 16 - My Notes]]
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 78]] — 3 footnote cross-references (from [[Exodus 16#^ex-16-3|Exodus 16:3]])
+- [[Numbers 11]] — 3 footnote cross-references (from [[Exodus 16#^ex-16-13|Exodus 16:13]])
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Exodus 16#^ex-16-13|Exodus 16:13]])
+- [[Numbers 14]] — 2 footnote cross-references (from [[Exodus 16#^ex-16-10|Exodus 16:10]])
+- [[Mosiah 7]] — 2 footnote cross-references (from [[Exodus 16#^ex-16-15|Exodus 16:15]])
+- [[John 11]] — 1 footnote cross-reference (from [[Exodus 16#^ex-16-7|Exodus 16:7]])
 - [[Exodus 35]] — 8 parallel verses, e.g. [[Exodus 16#^ex-16-9|Exodus 16:9]] ↔ [[Exodus 35#^ex-35-4|Exodus 35:4]]
 - [[Numbers 16]] — 5 parallel verses, e.g. [[Exodus 16#^ex-16-2|Exodus 16:2]] ↔ [[Numbers 16#^num-16-41|Numbers 16:41]]
 - [[Numbers 15]] — 4 parallel verses, e.g. [[Exodus 16#^ex-16-1|Exodus 16:1]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
@@ -53,14 +59,13 @@ Scripture: [[Exodus 16]] · My notes: [[Exodus 16 - My Notes]]
 - [[Numbers 30]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-16|Exodus 16:16]] ↔ [[Numbers 30#^num-30-1|Numbers 30:1]]
 - [[Numbers 25]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-1|Exodus 16:1]] ↔ [[Numbers 25#^num-25-6|Numbers 25:6]]
 - [[Leviticus 19]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-9|Exodus 16:9]] ↔ [[Leviticus 19#^lev-19-2|Leviticus 19:2]]
+- [[Exodus 17]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-1|Exodus 16:1]] ↔ [[Exodus 17#^ex-17-1|Exodus 17:1]]
 - [[Numbers 8]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-1|Exodus 16:1]] ↔ [[Numbers 8#^num-8-20|Numbers 8:20]]
 - [[Joshua 18]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-2|Exodus 16:2]] ↔ [[Joshua 18#^josh-18-1|Joshua 18:1]]
-- [[Leviticus 8]] — 2 parallel verses, e.g. [[Exodus 16#^ex-16-16|Exodus 16:16]] ↔ [[Leviticus 8#^lev-8-5|Leviticus 8:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Sabbath Day]]
 - [[Obedience]]
 - [[Exodus and Deliverance]]
 - [[Miracles]]
@@ -68,6 +73,7 @@ Scripture: [[Exodus 16]] · My notes: [[Exodus 16 - My Notes]]
 - [[John 6]]
 - [[Psalm 78]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Sabbath Day]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

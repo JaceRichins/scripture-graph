@@ -13,6 +13,9 @@ cssclasses:
 
 [[Ezra 8|Plain text]] · [[Ezra 8 - Study Guide|Study guide]] · [[Ezra 8 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Those who go up from Babylon to Jerusalem are listed—The Levites are called to accompany them—Ezra and the people fast and pray for and gain guidance and protection in going to Jerusalem.
+
 ![[Ezra 8#^ezra-8-1]]
 
 ![[Ezra 8#^ezra-8-2]]
@@ -44,20 +47,26 @@ cssclasses:
 ![[Ezra 8#^ezra-8-15]]
 
 ![[Ezra 8#^ezra-8-16]]
+> [[Nehemiah 6#^neh-6-18|Neh. 6:18]]
 
 ![[Ezra 8#^ezra-8-17]]
 
 ![[Ezra 8#^ezra-8-18]]
+> [[Ezra 7#^ezra-7-6|Ezra 7:6]]
 
 ![[Ezra 8#^ezra-8-19]]
 
 ![[Ezra 8#^ezra-8-20]]
+> [[1 Chronicles 9#^1chr-9-2|1 Chr. 9:2]] · [[Ezra 2#^ezra-2-43|Ezra 2:43]] · [[Ezra 7#^ezra-7-24|7:24]]
 
 ![[Ezra 8#^ezra-8-21]]
+> [[Omni 1#^omni-1-26|Omni 1:26]] · [[Alma 5#^alma-5-45|Alma 5:46 (45–46)]] · [[Alma 6#^alma-6-6|6:6]]
 
 ![[Ezra 8#^ezra-8-22]]
+> [[Romans 8#^rom-8-28|Rom. 8:28]] · [[D&C 6#^dc-6-13|D&amp;C 6:13]] · [[D&C 90#^dc-90-24|90:24]] · [[1 Nephi 17#^1ne-17-1|1 Ne. 17:3 (1–3)]] · [[2 Nephi 1#^2ne-1-5|2 Ne. 1:5 (5–6)]] · [[Ether 12#^ether-12-41|Ether 12:41]] · [[D&C 88#^dc-88-63|D&amp;C 88:63]]
 
 ![[Ezra 8#^ezra-8-23]]
+> [[Genesis 25#^gen-25-21|Gen. 25:21]]
 
 ![[Ezra 8#^ezra-8-24]]
 

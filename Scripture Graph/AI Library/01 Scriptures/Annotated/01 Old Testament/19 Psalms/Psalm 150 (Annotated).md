@@ -13,7 +13,11 @@ cssclasses:
 
 [[Psalm 150|Plain text]] · [[Psalm 150 - Study Guide|Study guide]] · [[Psalm 150 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Praise God in His sanctuary—Let everything that has breath praise the Lord.
+
 ![[Psalm 150#^ps-150-1]]
+> [[Alma 15#^alma-15-17|Alma 15:17]]
 
 ![[Psalm 150#^ps-150-2]]
 

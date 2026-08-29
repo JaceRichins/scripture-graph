@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 39
 slug: ps-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 39]] · My notes: [[Psalm 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David seeks to control his tongue—Man is altogether vanity—He is a stranger and a sojourner on the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[James 3]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-1|Psalm 39:1]])
+- [[Psalm 141]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-1|Psalm 39:1]])
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-3|Psalm 39:3]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-4|Psalm 39:4]])
+- [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-5|Psalm 39:5]])
+- [[Daniel 4]] — 1 footnote cross-reference (from [[Psalm 39#^ps-39-5|Psalm 39:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

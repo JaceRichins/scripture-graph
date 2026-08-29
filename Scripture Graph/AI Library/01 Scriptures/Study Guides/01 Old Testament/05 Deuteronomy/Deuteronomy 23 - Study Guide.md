@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 23
 slug: deut-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 23]] · My notes: [[Deuteronomy 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses specifies those who may and may not enter the congregation—He sets forth laws concerning sanitation, servants, usury, and vows.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 21]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-1|Deuteronomy 23:1]])
+- [[Nehemiah 13]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-3|Deuteronomy 23:3]])
+- [[Numbers 22]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-4|Deuteronomy 23:4]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-4|Deuteronomy 23:4]])
+- [[Numbers 23]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-5|Deuteronomy 23:5]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-5|Deuteronomy 23:5]])
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 28#^deut-28-21|Deuteronomy 28:21]]
 - [[Deuteronomy 14]] — 2 parallel verses, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]]
 - [[Deuteronomy 24]] — 1 parallel verse, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]]

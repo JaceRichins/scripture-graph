@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 13]] · My notes: [[Romans 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul counsels, Be subject unto God’s ministers; keep the commandments; love one another; righteousness leads to salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Thessalonians 5]] — 2 footnote cross-references (from [[Romans 13#^rom-13-12|Romans 13:12]])
+- [[D&C 58]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-1|Romans 13:1]])
+- [[John 19]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-1|Romans 13:1]])
+- [[D&C 134]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-7|Romans 13:7]])
+- [[Moroni 7]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
+- [[Matthew 22]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
 - [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
 <!-- SG:END related-scriptures -->
 

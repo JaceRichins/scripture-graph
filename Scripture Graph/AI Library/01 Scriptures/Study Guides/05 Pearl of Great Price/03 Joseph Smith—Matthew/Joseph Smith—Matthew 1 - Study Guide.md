@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---

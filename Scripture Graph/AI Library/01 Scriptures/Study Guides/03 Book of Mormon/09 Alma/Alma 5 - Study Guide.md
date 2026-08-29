@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 5
 slug: alma-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 5]] · My notes: [[Alma 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> To gain salvation, men must repent and keep the commandments, be born again, cleanse their garments through the blood of Christ, be humble and strip themselves of pride and envy, and do the works of righteousness—The Good Shepherd calls His people—Those who do evil works are children of the devil—Alma testifies of the truth of his doctrine and commands men to repent—The names of the righteous will be written in the book of life. About 83 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 9]] — 4 footnote cross-references (from [[Alma 5#^alma-5-18|Alma 5:18]])
+- [[Alma 4]] — 3 footnote cross-references (from [[Alma 5#^alma-5-1|Alma 5:1]])
+- [[Mosiah 18]] — 3 footnote cross-references (from [[Alma 5#^alma-5-3|Alma 5:3]])
+- [[Mosiah 5]] — 3 footnote cross-references (from [[Alma 5#^alma-5-14|Alma 5:14]])
+- [[3 Nephi 14]] — 3 footnote cross-references (from [[Alma 5#^alma-5-17|Alma 5:17]])
+- [[Isaiah 59]] — 3 footnote cross-references (from [[Alma 5#^alma-5-22|Alma 5:22]])
 - [[Jacob 5]] — 9 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[D&C 45]] — 6 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
 - [[D&C 97]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-52|Alma 5:52]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]

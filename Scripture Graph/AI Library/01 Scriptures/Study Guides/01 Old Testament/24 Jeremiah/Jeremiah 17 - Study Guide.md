@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 17
 slug: jer-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 17]] · My notes: [[Jeremiah 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The captivity of Judah comes because of sin and forsaking the Lord—Hallow the Sabbath day; doing so will save the people; otherwise they will be destroyed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Jeremiah 17#^jer-17-2|Jeremiah 17:2]])
+- [[1 Nephi 3]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-1|Jeremiah 17:1]])
+- [[Exodus 27]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-1|Jeremiah 17:1]])
+- [[Alma 31]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-2|Jeremiah 17:2]])
+- [[Jeremiah 15]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-4|Jeremiah 17:4]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-5|Jeremiah 17:5]])
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 17#^jer-17-10|Jeremiah 17:10]] ↔ [[Jeremiah 32#^jer-32-19|Jeremiah 32:19]]
 - [[Jeremiah 22]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 22#^jer-22-4|Jeremiah 22:4]]
 - [[Amos 2]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]] ↔ [[Amos 2#^amos-2-5|Amos 2:5]]

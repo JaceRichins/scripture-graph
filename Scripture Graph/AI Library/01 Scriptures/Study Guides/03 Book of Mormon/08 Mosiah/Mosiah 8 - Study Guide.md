@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 8]] · My notes: [[Mosiah 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ammon teaches the people of Limhi—He learns of the twenty-four Jaredite plates—Ancient records can be translated by seers—No gift is greater than seership. About 121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 21]] — 5 footnote cross-references (from [[Mosiah 8#^mosiah-8-6|Mosiah 8:6]])
+- [[Mosiah 7]] — 3 footnote cross-references (from [[Mosiah 8#^mosiah-8-1|Mosiah 8:1]])
+- [[Omni 1]] — 3 footnote cross-references (from [[Mosiah 8#^mosiah-8-5|Mosiah 8:5]])
+- [[Mosiah 9]] — 2 footnote cross-references (from [[Mosiah 8#^mosiah-8-5|Mosiah 8:5]])
+- [[Mosiah 22]] — 2 footnote cross-references (from [[Mosiah 8#^mosiah-8-5|Mosiah 8:5]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Mosiah 8#^mosiah-8-3|Mosiah 8:3]])
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]]
 - [[2 Nephi 5]] — 1 parallel verse, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
 <!-- SG:END related-scriptures -->

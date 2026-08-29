@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 12
 slug: job-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 12]] · My notes: [[Job 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job says, The souls of all things are in the hands of the Lord, with the ancient is wisdom, and the Lord governs in all things.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 107]] — 2 parallel verses, e.g. [[Job 12#^job-12-24|Job 12:24]] ↔ [[Psalm 107#^ps-107-40|Psalm 107:40]]
-- [[D&C 29]] — 3 parallel verses, e.g. [[Job 12#^job-12-7|Job 12:7]] ↔ [[D&C 29#^dc-29-20|D&C 29:20]]
-- [[1 Samuel 17]] — 2 parallel verses, e.g. [[Job 12#^job-12-7|Job 12:7]] ↔ [[1 Samuel 17#^1sam-17-44|1 Samuel 17:44]]
+- [[Job 21]] — 1 footnote cross-reference (from [[Job 12#^job-12-6|Job 12:6]])
+- [[Psalm 73]] — 1 footnote cross-reference (from [[Job 12#^job-12-6|Job 12:6]])
+- [[Helaman 7]] — 1 footnote cross-reference (from [[Job 12#^job-12-6|Job 12:6]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[Job 12#^job-12-8|Job 12:8]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Job 12#^job-12-13|Job 12:13]])
+- [[Abraham 3]] — 1 footnote cross-reference (from [[Job 12#^job-12-13|Job 12:13]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

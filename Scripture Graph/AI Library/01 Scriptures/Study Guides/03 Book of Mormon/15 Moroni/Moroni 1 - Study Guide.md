@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 1
 slug: moro-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 1]] · My notes: [[Moroni 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni writes for the benefit of the Lamanites—The Nephites who will not deny Christ are put to death. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mormon 8]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-1|Moroni 1:1]])
+- [[Moroni 10]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-1|Moroni 1:1]])
+- [[1 Nephi 12]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-2|Moroni 1:2]])
+- [[Alma 45]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-2|Moroni 1:2]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-3|Moroni 1:3]])
+- [[3 Nephi 29]] — 1 footnote cross-reference (from [[Moroni 1#^moro-1-3|Moroni 1:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

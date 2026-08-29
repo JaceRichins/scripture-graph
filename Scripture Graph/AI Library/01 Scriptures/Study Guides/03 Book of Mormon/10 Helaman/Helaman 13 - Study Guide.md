@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 13
 slug: hel-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 13]] · My notes: [[Helaman 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel the Lamanite prophesies the destruction of the Nephites unless they repent—They and their riches are cursed—They reject and stone the prophets, are encircled about by demons, and seek for happiness in doing iniquity. About 6 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 14]] — 4 footnote cross-references (from [[Helaman 13#^hel-13-2|Helaman 13:2]])
+- [[Helaman 16]] — 3 footnote cross-references (from [[Helaman 13#^hel-13-2|Helaman 13:2]])
+- [[Alma 45]] — 3 footnote cross-references (from [[Helaman 13#^hel-13-6|Helaman 13:6]])
+- [[Matthew 23]] — 3 footnote cross-references (from [[Helaman 13#^hel-13-25|Helaman 13:25]])
+- [[Helaman 15]] — 2 footnote cross-references (from [[Helaman 13#^hel-13-1|Helaman 13:1]])
+- [[3 Nephi 9]] — 2 footnote cross-references (from [[Helaman 13#^hel-13-12|Helaman 13:12]])
 - [[Alma 30]] — 2 parallel verses, e.g. [[Helaman 13#^hel-13-1|Helaman 13:1]] ↔ [[Alma 30#^alma-30-3|Alma 30:3]]
 - [[Mormon 2]] — 2 parallel verses, e.g. [[Helaman 13#^hel-13-2|Helaman 13:2]] ↔ [[Mormon 2#^morm-2-20|Mormon 2:20]]
 - [[Helaman 9]] — 2 parallel verses, e.g. [[Helaman 13#^hel-13-14|Helaman 13:14]] ↔ [[Helaman 9#^hel-9-23|Helaman 9:23]]

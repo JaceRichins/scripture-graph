@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 39
 slug: gen-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 39]] · My notes: [[Genesis 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joseph, prospered by the Lord, becomes ruler of Potiphar’s house—He resists the advances of Potiphar’s wife, is falsely accused, and is cast into prison—The keeper of the prison commits the prison’s affairs into Joseph’s hands.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 37]] — 2 footnote cross-references (from [[Genesis 39#^gen-39-1|Genesis 39:1]])
+- [[2 Nephi 3]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-2|Genesis 39:2]])
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-2|Genesis 39:2]])
+- [[Psalm 1]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-3|Genesis 39:3]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-3|Genesis 39:3]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-3|Genesis 39:3]])
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 39#^gen-39-7|Genesis 39:7]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
 <!-- SG:END related-scriptures -->
 

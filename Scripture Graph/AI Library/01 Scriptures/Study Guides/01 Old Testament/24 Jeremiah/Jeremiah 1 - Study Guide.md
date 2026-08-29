@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 1
 slug: jer-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 1]] · My notes: [[Jeremiah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah was foreordained to be a prophet unto the nations—He is called as a mortal to declare the word of the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 25]] — 2 footnote cross-references (from [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]])
+- [[Exodus 4]] — 2 footnote cross-references (from [[Jeremiah 1#^jer-1-6|Jeremiah 1:6]])
+- [[Jeremiah 29]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-1|Jeremiah 1:1]])
+- [[Jeremiah 36]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]])
+- [[Isaiah 44]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-5|Jeremiah 1:5]])
 - [[Jeremiah 15]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-19|Jeremiah 1:19]] ↔ [[Jeremiah 15#^jer-15-20|Jeremiah 15:20]]
 - [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]
 - [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]]

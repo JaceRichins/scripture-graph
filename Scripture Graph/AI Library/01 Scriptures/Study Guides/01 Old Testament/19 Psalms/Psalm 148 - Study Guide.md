@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 148
 slug: ps-148
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 148]] · My notes: [[Psalm 148 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Let all things praise the Lord: men and angels, the heavenly bodies, the elements and the earth, and all things thereon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Genesis 1]] — 1 footnote cross-reference (from [[Psalm 148#^ps-148-4|Psalm 148:4]])
+- [[Psalm 33]] — 1 footnote cross-reference (from [[Psalm 148#^ps-148-5|Psalm 148:5]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 148#^ps-148-6|Psalm 148:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

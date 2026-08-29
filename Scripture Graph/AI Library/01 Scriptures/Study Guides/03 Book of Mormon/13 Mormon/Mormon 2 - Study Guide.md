@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 2
 slug: morm-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 2]] · My notes: [[Mormon 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mormon leads the Nephite armies—Blood and carnage sweep the land—The Nephites lament and mourn with the sorrowing of the damned—Their day of grace is passed—Mormon obtains the plates of Nephi—Wars continue. About A.D. 327–50.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 1]] — 3 footnote cross-references (from [[Mormon 2#^morm-2-1|Mormon 2:1]])
+- [[3 Nephi 3]] — 2 footnote cross-references (from [[Mormon 2#^morm-2-4|Mormon 2:4]])
+- [[4 Nephi 1]] — 2 footnote cross-references (from [[Mormon 2#^morm-2-8|Mormon 2:8]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[Mormon 2#^morm-2-8|Mormon 2:8]])
+- [[Ether 8]] — 2 footnote cross-references (from [[Mormon 2#^morm-2-8|Mormon 2:8]])
+- [[Helaman 13]] — 2 footnote cross-references (from [[Mormon 2#^morm-2-10|Mormon 2:10]])
 - [[Mormon 4]] — 6 parallel verses, e.g. [[Mormon 2#^morm-2-3|Mormon 2:3]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Mormon 2#^morm-2-3|Mormon 2:3]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
 - [[Mormon 5]] — 2 parallel verses, e.g. [[Mormon 2#^morm-2-3|Mormon 2:3]] ↔ [[Mormon 5#^morm-5-6|Mormon 5:6]]

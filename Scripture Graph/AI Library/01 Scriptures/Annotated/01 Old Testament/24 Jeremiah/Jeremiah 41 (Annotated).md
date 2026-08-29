@@ -13,6 +13,9 @@ cssclasses:
 
 [[Jeremiah 41|Plain text]] · [[Jeremiah 41 - Study Guide|Study guide]] · [[Jeremiah 41 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Ishmael kills Gedaliah and carries the people of Mizpah captive—They are rescued by Johanan.
+
 ![[Jeremiah 41#^jer-41-1]]
 > [[2 Kings 25#^2kgs-25-25|≈ 2 Kings 25:25]] · [[Jeremiah 40#^jer-40-6|≈ Jeremiah 40:6]]
 
@@ -34,7 +37,7 @@ cssclasses:
 ![[Jeremiah 41#^jer-41-9]]
 
 ![[Jeremiah 41#^jer-41-10]]
-> [[Jeremiah 43#^jer-43-6|≈ Jeremiah 43:6]] · [[Jeremiah 52#^jer-52-15|≈ Jeremiah 52:15]] · [[Jeremiah 52#^jer-52-16|≈ Jeremiah 52:16]] · [[Jeremiah 52#^jer-52-26|≈ Jeremiah 52:26]] · [[Jeremiah 52#^jer-52-30|≈ Jeremiah 52:30]] · [[2 Kings 25#^2kgs-25-11|≈ 2 Kings 25:11]]
+> [[Jeremiah 43#^jer-43-6|Jer. 43:6]] · [[Jeremiah 43#^jer-43-6|≈ Jeremiah 43:6]] · [[Jeremiah 52#^jer-52-15|≈ Jeremiah 52:15]] · [[Jeremiah 52#^jer-52-16|≈ Jeremiah 52:16]] · [[Jeremiah 52#^jer-52-26|≈ Jeremiah 52:26]] · [[Jeremiah 52#^jer-52-30|≈ Jeremiah 52:30]] · [[2 Kings 25#^2kgs-25-11|≈ 2 Kings 25:11]]
 
 ![[Jeremiah 41#^jer-41-11]]
 > [[Jeremiah 43#^jer-43-4|≈ Jeremiah 43:4]] · [[Jeremiah 43#^jer-43-5|≈ Jeremiah 43:5]] · [[Jeremiah 43#^jer-43-2|≈ Jeremiah 43:2]] · [[Jeremiah 42#^jer-42-8|≈ Jeremiah 42:8]] · [[Jeremiah 42#^jer-42-1|≈ Jeremiah 42:1]] · [[Jeremiah 40#^jer-40-13|≈ Jeremiah 40:13]]

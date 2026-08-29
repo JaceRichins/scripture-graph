@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 2
 slug: alma-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 2]] · My notes: [[Alma 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amlici seeks to be king and is rejected by the voice of the people—His followers make him king—The Amlicites make war on the Nephites and are defeated—The Lamanites and Amlicites join forces and are defeated—Alma slays Amlici. About 87 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 3]] — 7 footnote cross-references (from [[Alma 2#^alma-2-11|Alma 2:11]])
+- [[Mosiah 29]] — 4 footnote cross-references (from [[Alma 2#^alma-2-3|Alma 2:3]])
+- [[Alma 1]] — 3 footnote cross-references (from [[Alma 2#^alma-2-1|Alma 2:1]])
+- [[Alma 16]] — 2 footnote cross-references (from [[Alma 2#^alma-2-1|Alma 2:1]])
+- [[Alma 4]] — 2 footnote cross-references (from [[Alma 2#^alma-2-3|Alma 2:3]])
+- [[Omni 1]] — 2 footnote cross-references (from [[Alma 2#^alma-2-15|Alma 2:15]])
 - [[Helaman 1]] — 3 parallel verses, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Helaman 1#^hel-1-14|Helaman 1:14]]
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 2#^alma-2-34|Alma 2:34]] ↔ [[Alma 43#^alma-43-27|Alma 43:27]]
 - [[Alma 45]] — 4 parallel verses, e.g. [[Alma 2#^alma-2-28|Alma 2:28]] ↔ [[Alma 45#^alma-45-1|Alma 45:1]]

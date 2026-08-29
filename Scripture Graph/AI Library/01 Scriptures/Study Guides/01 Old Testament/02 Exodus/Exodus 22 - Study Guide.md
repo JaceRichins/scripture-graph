@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 22
 slug: ex-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 22]] · My notes: [[Exodus 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals His laws pertaining to stealing, destructions by fire, care of the property of others, borrowing, lascivious acts, sacrifices to false gods, afflicting widows, usury, reviling God, and the firstborn of men and of animals—The men of Israel are commanded to be holy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,14 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Leviticus 20]] — 8 parallel verses, e.g. [[Exodus 22#^ex-22-19|Exodus 22:19]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]
-- [[Numbers 35]] — 4 parallel verses, e.g. [[Exodus 22#^ex-22-19|Exodus 22:19]] ↔ [[Numbers 35#^num-35-16|Numbers 35:16]]
-- [[Leviticus 19]] — 1 parallel verse, e.g. [[Exodus 22#^ex-22-21|Exodus 22:21]] ↔ [[Leviticus 19#^lev-19-34|Leviticus 19:34]]
-- [[Deuteronomy 10]] — 1 parallel verse, e.g. [[Exodus 22#^ex-22-21|Exodus 22:21]] ↔ [[Deuteronomy 10#^deut-10-19|Deuteronomy 10:19]]
-- [[Exodus 31]] — 2 parallel verses, e.g. [[Exodus 22#^ex-22-19|Exodus 22:19]] ↔ [[Exodus 31#^ex-31-14|Exodus 31:14]]
-- [[Leviticus 24]] — 2 parallel verses, e.g. [[Exodus 22#^ex-22-19|Exodus 22:19]] ↔ [[Leviticus 24#^lev-24-16|Leviticus 24:16]]
-- [[Exodus 23]] — 1 parallel verse, e.g. [[Exodus 22#^ex-22-21|Exodus 22:21]] ↔ [[Exodus 23#^ex-23-9|Exodus 23:9]]
-- [[Exodus 21]] — 2 parallel verses, e.g. [[Exodus 22#^ex-22-19|Exodus 22:19]] ↔ [[Exodus 21#^ex-21-16|Exodus 21:16]]
+- [[Deuteronomy 22]] — 2 footnote cross-references (from [[Exodus 22#^ex-22-16|Exodus 22:16]])
+- [[Leviticus 22]] — 2 footnote cross-references (from [[Exodus 22#^ex-22-30|Exodus 22:30]])
+- [[2 Samuel 12]] — 1 footnote cross-reference (from [[Exodus 22#^ex-22-1|Exodus 22:1]])
+- [[Matthew 24]] — 1 footnote cross-reference (from [[Exodus 22#^ex-22-2|Exodus 22:2]])
+- [[Proverbs 6]] — 1 footnote cross-reference (from [[Exodus 22#^ex-22-4|Exodus 22:4]])
+- [[Judges 15]] — 1 footnote cross-reference (from [[Exodus 22#^ex-22-6|Exodus 22:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[James 2]] · My notes: [[James 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> God has chosen the poor of this world who are rich in faith—Salvation is gained by keeping the whole law—Faith without works is dead.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 20]] — 2 footnote cross-references (from [[James 2#^james-2-14|James 2:14]])
+- [[Hebrews 11]] — 2 footnote cross-references (from [[James 2#^james-2-21|James 2:21]])
+- [[Genesis 22]] — 2 footnote cross-references (from [[James 2#^james-2-21|James 2:21]])
+- [[Proverbs 15]] — 1 footnote cross-reference (from [[James 2#^james-2-5|James 2:5]])
+- [[Matthew 5]] — 1 footnote cross-reference (from [[James 2#^james-2-5|James 2:5]])
+- [[Luke 6]] — 1 footnote cross-reference (from [[James 2#^james-2-5|James 2:5]])
+- [[Leviticus 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,12 @@ Scripture: [[Exodus 18]] · My notes: [[Exodus 18 - My Notes]]
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 2]] — 3 footnote cross-references (from [[Exodus 18#^ex-18-1|Exodus 18:1]])
+- [[2 Chronicles 19]] — 3 footnote cross-references (from [[Exodus 18#^ex-18-21|Exodus 18:21]])
+- [[Exodus 4]] — 2 footnote cross-references (from [[Exodus 18#^ex-18-5|Exodus 18:5]])
+- [[Ezra 7]] — 2 footnote cross-references (from [[Exodus 18#^ex-18-13|Exodus 18:13]])
+- [[Mosiah 29]] — 2 footnote cross-references (from [[Exodus 18#^ex-18-13|Exodus 18:13]])
+- [[Deuteronomy 1]] — 2 footnote cross-references (from [[Exodus 18#^ex-18-18|Exodus 18:18]])
 - [[Judges 6]] — 1 parallel verse, e.g. [[Exodus 18#^ex-18-10|Exodus 18:10]] ↔ [[Judges 6#^judg-6-9|Judges 6:9]]
 - [[1 Samuel 10]] — 1 parallel verse, e.g. [[Exodus 18#^ex-18-10|Exodus 18:10]] ↔ [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[Exodus 18#^ex-18-13|Exodus 18:13]] ↔ [[Exodus 32#^ex-32-30|Exodus 32:30]]
@@ -57,10 +63,11 @@ Scripture: [[Exodus 18]] · My notes: [[Exodus 18 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Government and Laws]]
 - [[Sacrifice]]
 - [[Family]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

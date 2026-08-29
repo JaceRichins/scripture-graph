@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 92
 slug: ps-92
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 92]] · My notes: [[Psalm 92 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A psalm or song for the Sabbath day—Give thanks unto the Lord—His enemies will perish—The righteous will flourish—There is no unrighteousness in the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 59]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-1|Psalm 92:1]])
+- [[Psalm 40]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-5|Psalm 92:5]])
+- [[Mormon 9]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-5|Psalm 92:5]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-5|Psalm 92:5]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-5|Psalm 92:5]])
+- [[Psalm 52]] — 1 footnote cross-reference (from [[Psalm 92#^ps-92-12|Psalm 92:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

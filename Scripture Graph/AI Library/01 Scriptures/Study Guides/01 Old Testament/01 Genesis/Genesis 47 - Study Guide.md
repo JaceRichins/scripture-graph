@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 47
 slug: gen-47
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 47]] · My notes: [[Genesis 47 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Israelites settle in Goshen—Jacob blesses Pharaoh—Joseph sells grain to the Egyptians—Pharaoh receives the Egyptians’ cattle and lands—Jacob desires to be buried with his fathers in Canaan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 46]] — 3 footnote cross-references (from [[Genesis 47#^gen-47-1|Genesis 47:1]])
+- [[Genesis 45]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-1|Genesis 47:1]])
+- [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-9|Genesis 47:9]])
+- [[Genesis 35]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-9|Genesis 47:9]])
+- [[Genesis 41]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-14|Genesis 47:14]])
+- [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-29|Genesis 47:29]])
 - [[Genesis 33]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
 - [[Judges 6]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Judges 6#^judg-6-17|Judges 6:17]]
 - [[Genesis 50]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 50#^gen-50-4|Genesis 50:4]]

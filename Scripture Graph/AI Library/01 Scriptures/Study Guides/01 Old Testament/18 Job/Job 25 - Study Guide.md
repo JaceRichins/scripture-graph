@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 25
 slug: job-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 25]] · My notes: [[Job 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bildad bemoans the lowly state of man and classifies him as a worm.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ether 12]] — 1 footnote cross-reference (from [[Job 25#^job-25-4|Job 25:4]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Job 25#^job-25-4|Job 25:4]])
+- [[D&C 135]] — 1 footnote cross-reference (from [[Job 25#^job-25-4|Job 25:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

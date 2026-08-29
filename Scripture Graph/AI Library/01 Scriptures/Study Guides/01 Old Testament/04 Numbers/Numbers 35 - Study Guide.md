@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 35
 slug: num-35
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 35]] · My notes: [[Numbers 35 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Levites are to possess their own cities—Cities of refuge are established for those guilty of manslaughter—Murderers are to be executed by the revenger of blood.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 20]] — 3 footnote cross-references (from [[Numbers 35#^num-35-12|Numbers 35:12]])
+- [[Joshua 21]] — 2 footnote cross-references (from [[Numbers 35#^num-35-2|Numbers 35:2]])
+- [[Numbers 18]] — 1 footnote cross-reference (from [[Numbers 35#^num-35-2|Numbers 35:2]])
+- [[Leviticus 25]] — 1 footnote cross-reference (from [[Numbers 35#^num-35-2|Numbers 35:2]])
+- [[Joshua 14]] — 1 footnote cross-reference (from [[Numbers 35#^num-35-2|Numbers 35:2]])
+- [[2 Chronicles 11]] — 1 footnote cross-reference (from [[Numbers 35#^num-35-2|Numbers 35:2]])
 - [[Numbers 33]] — 3 parallel verses, e.g. [[Numbers 35#^num-35-1|Numbers 35:1]] ↔ [[Numbers 33#^num-33-50|Numbers 33:50]]
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Numbers 35#^num-35-10|Numbers 35:10]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
 - [[Numbers 15]] — 3 parallel verses, e.g. [[Numbers 35#^num-35-10|Numbers 35:10]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 6
 slug: zech-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 6]] · My notes: [[Zechariah 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zechariah crowns Joshua, the high priest, in similitude of Christ, the Branch, who will come—Christ will be a priest upon His throne forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 1]] — 1 footnote cross-reference (from [[Zechariah 6#^zech-6-5|Zechariah 6:5]])
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Zechariah 6#^zech-6-15|Zechariah 6:15]])
 - [[Haggai 1]] — 4 parallel verses, e.g. [[Zechariah 6#^zech-6-11|Zechariah 6:11]] ↔ [[Haggai 1#^hag-1-14|Haggai 1:14]]
 - [[Zechariah 2]] — 2 parallel verses, e.g. [[Zechariah 6#^zech-6-15|Zechariah 6:15]] ↔ [[Zechariah 2#^zech-2-9|Zechariah 2:9]]
 - [[Zechariah 5]] — 2 parallel verses, e.g. [[Zechariah 6#^zech-6-1|Zechariah 6:1]] ↔ [[Zechariah 5#^zech-5-1|Zechariah 5:1]]

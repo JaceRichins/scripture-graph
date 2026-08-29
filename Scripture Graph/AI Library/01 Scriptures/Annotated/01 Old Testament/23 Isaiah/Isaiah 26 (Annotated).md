@@ -13,9 +13,14 @@ cssclasses:
 
 [[Isaiah 26|Plain text]] · [[Isaiah 26 - Study Guide|Study guide]] · [[Isaiah 26 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Trust in the Lord forever—Jehovah will die and be resurrected—All men will rise in the Resurrection.
+
 ![[Isaiah 26#^isa-26-1]]
+> [[Isaiah 60#^isa-60-18|Isa. 60:18]]
 
 ![[Isaiah 26#^isa-26-2]]
+> [[Helaman 3#^hel-3-28|Hel. 3:28]]
 
 ![[Isaiah 26#^isa-26-3]]
 
@@ -28,20 +33,26 @@ cssclasses:
 ![[Isaiah 26#^isa-26-7]]
 
 ![[Isaiah 26#^isa-26-8]]
+> [[Isaiah 33#^isa-33-2|Isa. 33:2]]
 
 ![[Isaiah 26#^isa-26-9]]
+> [[Psalm 63#^ps-63-1|Ps. 63:1]]
 
 ![[Isaiah 26#^isa-26-10]]
 
 ![[Isaiah 26#^isa-26-11]]
+> [[Mosiah 27#^mosiah-27-31|Mosiah 27:31]]
 
 ![[Isaiah 26#^isa-26-12]]
+> [[Alma 5#^alma-5-40|Alma 5:40 (40–41)]]
 
 ![[Isaiah 26#^isa-26-13]]
+> [[2 Kings 18#^2kgs-18-4|2 Kgs. 18:4 (4–6)]]
 
 ![[Isaiah 26#^isa-26-14]]
 
 ![[Isaiah 26#^isa-26-15]]
+> [[Isaiah 9#^isa-9-3|Isa. 9:3]] · [[Abraham 2#^abr-2-9|Abr. 2:9]]
 
 ![[Isaiah 26#^isa-26-16]]
 

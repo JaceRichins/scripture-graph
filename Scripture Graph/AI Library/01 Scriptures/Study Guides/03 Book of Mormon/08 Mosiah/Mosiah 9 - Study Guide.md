@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 9
 slug: mosiah-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 9]] · My notes: [[Mosiah 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zeniff leads a group from Zarahemla to possess the land of Lehi-Nephi—The Lamanite king permits them to inherit the land—There is war between the Lamanites and Zeniff’s people. About 200–187 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 7]] — 6 footnote cross-references (from [[Mosiah 9#^mosiah-9-1|Mosiah 9:1]])
+- [[Mosiah 10]] — 3 footnote cross-references (from [[Mosiah 9#^mosiah-9-9|Mosiah 9:9]])
+- [[2 Nephi 5]] — 2 footnote cross-references (from [[Mosiah 9#^mosiah-9-1|Mosiah 9:1]])
+- [[Omni 1]] — 2 footnote cross-references (from [[Mosiah 9#^mosiah-9-1|Mosiah 9:1]])
+- [[Enos 1]] — 2 footnote cross-references (from [[Mosiah 9#^mosiah-9-9|Mosiah 9:9]])
+- [[Mosiah 8]] — 1 footnote cross-reference (from [[Mosiah 9#^mosiah-9-1|Mosiah 9:1]])
 - [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 9#^mosiah-9-8|Mosiah 9:8]] ↔ [[Mosiah 7#^mosiah-7-21|Mosiah 7:21]]
 - [[Alma 58]] — 2 parallel verses, e.g. [[Mosiah 9#^mosiah-9-17|Mosiah 9:17]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
 - [[Mosiah 10]] — 3 parallel verses, e.g. [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]] ↔ [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]]

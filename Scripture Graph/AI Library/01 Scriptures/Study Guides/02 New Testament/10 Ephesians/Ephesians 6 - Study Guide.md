@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 6
 slug: eph-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 6]] · My notes: [[Ephesians 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Children should honor their parents—Servants and masters are judged by the same law—Saints should put on the whole armor of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Titus 2]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-5|Ephesians 6:5]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-5|Ephesians 6:5]])
+- [[1 Corinthians 7]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-6|Ephesians 6:6]])
+- [[Colossians 3]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-8|Ephesians 6:8]])
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-9|Ephesians 6:9]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[Ephesians 6#^eph-6-9|Ephesians 6:9]])
 - [[D&C 27]] — 6 parallel verses, e.g. [[Ephesians 6#^eph-6-16|Ephesians 6:16]] ↔ [[D&C 27#^dc-27-17|D&C 27:17]]
 - [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Ephesians 6#^eph-6-3|Ephesians 6:3]] ↔ [[Deuteronomy 6#^deut-6-3|Deuteronomy 6:3]]
 - [[Colossians 4]] — 1 parallel verse, e.g. [[Ephesians 6#^eph-6-22|Ephesians 6:22]] ↔ [[Colossians 4#^col-4-8|Colossians 4:8]]

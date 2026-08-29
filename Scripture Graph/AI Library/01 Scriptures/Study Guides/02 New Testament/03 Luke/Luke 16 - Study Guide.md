@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 16]] · My notes: [[Luke 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parable of the unjust steward—He teaches of service and condemns divorce—He gives the parable of the rich man and Lazarus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 5]] — 2 footnote cross-references (from [[Luke 16#^luke-16-30|Luke 16:30]])
+- [[D&C 82]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-9|Luke 16:9]])
+- [[Matthew 25]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-10|Luke 16:10]])
+- [[D&C 51]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-10|Luke 16:10]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-10|Luke 16:10]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-13|Luke 16:13]])
 - [[Matthew 6]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[Matthew 6#^matt-6-24|Matthew 6:24]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]]
 <!-- SG:END related-scriptures -->

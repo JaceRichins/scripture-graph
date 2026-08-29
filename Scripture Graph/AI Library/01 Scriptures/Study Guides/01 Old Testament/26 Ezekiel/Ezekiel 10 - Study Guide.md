@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 10
 slug: ezek-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 10]] · My notes: [[Ezekiel 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> He sees in vision, as before, the wheels, the cherubims, and the throne and the glory of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 1]] — 8 footnote cross-references (from [[Ezekiel 10#^ezek-10-1|Ezekiel 10:1]])
+- [[Revelation 8]] — 1 footnote cross-reference (from [[Ezekiel 10#^ezek-10-2|Ezekiel 10:2]])
+- [[Ezekiel 41]] — 1 footnote cross-reference (from [[Ezekiel 10#^ezek-10-14|Ezekiel 10:14]])
+- [[Hosea 9]] — 1 footnote cross-reference (from [[Ezekiel 10#^ezek-10-18|Ezekiel 10:18]])
+- [[Ezekiel 11]] — 1 footnote cross-reference (from [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]])
 - [[Ezekiel 1]] — 6 parallel verses, e.g. [[Ezekiel 10#^ezek-10-16|Ezekiel 10:16]] ↔ [[Ezekiel 1#^ezek-1-19|Ezekiel 1:19]]
 - [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]] ↔ [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]]
 - [[Ezekiel 3]] — 4 parallel verses, e.g. [[Ezekiel 10#^ezek-10-22|Ezekiel 10:22]] ↔ [[Ezekiel 3#^ezek-3-23|Ezekiel 3:23]]

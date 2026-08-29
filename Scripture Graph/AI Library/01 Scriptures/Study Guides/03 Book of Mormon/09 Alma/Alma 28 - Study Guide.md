@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 28]] · My notes: [[Alma 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lamanites are defeated in a tremendous battle—Tens of thousands are slain—The wicked are consigned to a state of endless woe; the righteous attain a never-ending happiness. About 77–76 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 30]] — 3 footnote cross-references (from [[Alma 28#^alma-28-1|Alma 28:1]])
+- [[Alma 27]] — 2 footnote cross-references (from [[Alma 28#^alma-28-1|Alma 28:1]])
+- [[Matthew 5]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-6|Alma 28:6]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-6|Alma 28:6]])
+- [[Alma 17]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-8|Alma 28:8]])
+- [[Alma 1]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-10|Alma 28:10]])
 - [[Alma 30]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-1|Alma 28:1]] ↔ [[Alma 30#^alma-30-1|Alma 30:1]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-4|Alma 28:4]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-1|Alma 28:1]] ↔ [[Alma 43#^alma-43-15|Alma 43:15]]

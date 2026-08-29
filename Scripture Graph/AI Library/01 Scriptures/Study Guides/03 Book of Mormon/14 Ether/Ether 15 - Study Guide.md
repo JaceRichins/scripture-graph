@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 15
 slug: ether-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 15]] · My notes: [[Ether 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Millions of the Jaredites are slain in battle—Shiz and Coriantumr assemble all the people to mortal combat—The Spirit of the Lord ceases to strive with them—The Jaredite nation is utterly destroyed—Only Coriantumr remains.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 13]] — 4 footnote cross-references (from [[Ether 15#^ether-15-1|Ether 15:1]])
+- [[Ether 1]] — 3 footnote cross-references (from [[Ether 15#^ether-15-2|Ether 15:2]])
+- [[Mosiah 8]] — 2 footnote cross-references (from [[Ether 15#^ether-15-15|Ether 15:15]])
+- [[Genesis 37]] — 1 footnote cross-reference (from [[Ether 15#^ether-15-3|Ether 15:3]])
+- [[Moses 7]] — 1 footnote cross-reference (from [[Ether 15#^ether-15-3|Ether 15:3]])
+- [[Mormon 6]] — 1 footnote cross-reference (from [[Ether 15#^ether-15-11|Ether 15:11]])
 - [[Alma 2]] — 2 parallel verses, e.g. [[Ether 15#^ether-15-17|Ether 15:17]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
 - [[1 Nephi 14]] — 1 parallel verse, e.g. [[Ether 15#^ether-15-19|Ether 15:19]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
 - [[3 Nephi 7]] — 1 parallel verse, e.g. [[Ether 15#^ether-15-19|Ether 15:19]] ↔ [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]]

@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 8|Plain text]] · [[Mark 8 - Study Guide|Study guide]] · [[Mark 8 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus feeds the four thousand—He counsels, Beware of the leaven of the Pharisees—He heals a blind man in Bethsaida—Peter testifies that Jesus is the Christ.
+
 ![[Mark 8#^mark-8-1]]
 > [[Matthew 15#^matt-15-32|≈ Matthew 15:32]]
 
@@ -41,9 +44,10 @@ cssclasses:
 > [[Luke 8#^luke-8-22|≈ Luke 8:22]]
 
 ![[Mark 8#^mark-8-11]]
+> [[D&C 46#^dc-46-9|D&amp;C 46:9]] · [[D&C 63#^dc-63-7|63:7 (7–11)]]
 
 ![[Mark 8#^mark-8-12]]
-> [[Matthew 16#^matt-16-4|≈ Matthew 16:4]]
+> [[Matthew 16#^matt-16-1|Matt. 16:4 (1–12)]] · [[Matthew 16#^matt-16-4|≈ Matthew 16:4]]
 
 ![[Mark 8#^mark-8-13]]
 
@@ -86,7 +90,7 @@ cssclasses:
 > [[Matthew 16#^matt-16-15|≈ Matthew 16:15]] · [[Luke 9#^luke-9-20|≈ Luke 9:20]]
 
 ![[Mark 8#^mark-8-30]]
-> [[Mark 9#^mark-9-9|≈ Mark 9:9]] · [[Mark 7#^mark-7-36|≈ Mark 7:36]] · [[Luke 8#^luke-8-56|≈ Luke 8:56]]
+> [[Luke 9#^luke-9-21|Luke 9:21]] · [[Mark 9#^mark-9-9|≈ Mark 9:9]] · [[Mark 7#^mark-7-36|≈ Mark 7:36]] · [[Luke 8#^luke-8-56|≈ Luke 8:56]]
 
 ![[Mark 8#^mark-8-31]]
 > [[Matthew 16#^matt-16-21|≈ Matthew 16:21]] · [[Luke 9#^luke-9-22|≈ Luke 9:22]] · [[Luke 17#^luke-17-25|≈ Luke 17:25]]
@@ -95,19 +99,19 @@ cssclasses:
 > [[Matthew 16#^matt-16-22|≈ Matthew 16:22]]
 
 ![[Mark 8#^mark-8-33]]
-> [[Matthew 16#^matt-16-23|≈ Matthew 16:23]]
+> [[Alma 12#^alma-12-5|Alma 12:5 (5–6, 34)]] · [[Matthew 16#^matt-16-23|≈ Matthew 16:23]]
 
 ![[Mark 8#^mark-8-34]]
 > [[Matthew 16#^matt-16-24|≈ Matthew 16:24]] · [[Luke 9#^luke-9-23|≈ Luke 9:23]]
 
 ![[Mark 8#^mark-8-35]]
-> [[Matthew 16#^matt-16-25|≈ Matthew 16:25]] · [[Luke 9#^luke-9-24|≈ Luke 9:24]] · [[Luke 17#^luke-17-33|≈ Luke 17:33]]
+> [[Luke 9#^luke-9-24|Luke 9:24]] · [[Hebrews 11#^heb-11-35|Heb. 11:35]] · [[Hebrews 11#^heb-11-35|JST Heb. 11:35 (Heb. 11:35 note b)]] · [[D&C 103#^dc-103-27|D&amp;C 103:28 (27–28)]] · [[Matthew 16#^matt-16-25|≈ Matthew 16:25]] · [[Luke 9#^luke-9-24|≈ Luke 9:24]] · [[Luke 17#^luke-17-33|≈ Luke 17:33]]
 
 ![[Mark 8#^mark-8-36]]
-> [[Matthew 16#^matt-16-26|≈ Matthew 16:26]]
+> [[Jeremiah 45#^jer-45-5|Jer. 45:5]] · [[Matthew 16#^matt-16-26|≈ Matthew 16:26]]
 
 ![[Mark 8#^mark-8-37]]
 > [[Matthew 16#^matt-16-26|≈ Matthew 16:26]]
 
 ![[Mark 8#^mark-8-38]]
-> [[Matthew 16#^matt-16-27|≈ Matthew 16:27]] · [[Luke 9#^luke-9-26|≈ Luke 9:26]]
+> [[1 Nephi 8#^1ne-8-24|1 Ne. 8:28 (24–28)]] · [[Matthew 16#^matt-16-27|≈ Matthew 16:27]] · [[Luke 9#^luke-9-26|≈ Luke 9:26]]

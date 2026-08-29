@@ -27,7 +27,7 @@ cssclasses:
 ![[Numbers 9#^num-9-4]]
 
 ![[Numbers 9#^num-9-5]]
-> [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]] · [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 2#^num-2-34|≈ Numbers 2:34]] · [[Leviticus 23#^lev-23-5|≈ Leviticus 23:5]] · [[2 Chronicles 30#^2chr-30-15|≈ 2 Chronicles 30:15]]
+> [[2 Chronicles 35#^2chr-35-1|≈ 2 Chronicles 35:1]] · [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]] · [[Exodus 40#^ex-40-16|≈ Exodus 40:16]] · [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 2#^num-2-34|≈ Numbers 2:34]]
 
 ![[Numbers 9#^num-9-6]]
 > [[Numbers 5#^num-5-1|Num. 5:2 (1–4)]]
@@ -58,6 +58,7 @@ cssclasses:
 ![[Numbers 9#^num-9-16]]
 
 ![[Numbers 9#^num-9-17]]
+> [[Exodus 40#^ex-40-36|≈ Exodus 40:36]]
 
 ![[Numbers 9#^num-9-18]]
 
@@ -72,4 +73,4 @@ cssclasses:
 ![[Numbers 9#^num-9-22]]
 
 ![[Numbers 9#^num-9-23]]
-> [[Numbers 4#^num-4-37|≈ Numbers 4:37]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]] · [[Numbers 4#^num-4-49|≈ Numbers 4:49]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[2 Chronicles 35#^2chr-35-6|≈ 2 Chronicles 35:6]]
+> [[2 Chronicles 35#^2chr-35-6|≈ 2 Chronicles 35:6]] · [[Numbers 4#^num-4-37|≈ Numbers 4:37]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]] · [[Numbers 4#^num-4-49|≈ Numbers 4:49]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]]

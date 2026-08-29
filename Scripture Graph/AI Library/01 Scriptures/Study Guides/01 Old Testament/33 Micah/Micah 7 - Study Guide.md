@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 7
 slug: micah-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 7]] · My notes: [[Micah 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Though the people of Israel have rebelled, yet in the last days the Lord will have mercy on them—He will have compassion and pardon their iniquities.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 9]] — 2 footnote cross-references (from [[Micah 7#^micah-7-5|Micah 7:5]])
+- [[Luke 1]] — 2 footnote cross-references (from [[Micah 7#^micah-7-20|Micah 7:20]])
+- [[Isaiah 9]] — 1 footnote cross-reference (from [[Micah 7#^micah-7-2|Micah 7:2]])
+- [[Luke 12]] — 1 footnote cross-reference (from [[Micah 7#^micah-7-6|Micah 7:6]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[Micah 7#^micah-7-6|Micah 7:6]])
+- [[Psalm 4]] — 1 footnote cross-reference (from [[Micah 7#^micah-7-7|Micah 7:7]])
 - [[Matthew 10]] — 1 parallel verse, e.g. [[Micah 7#^micah-7-6|Micah 7:6]] ↔ [[Matthew 10#^matt-10-35|Matthew 10:35]]
 - [[Luke 12]] — 1 parallel verse, e.g. [[Micah 7#^micah-7-6|Micah 7:6]] ↔ [[Luke 12#^luke-12-53|Luke 12:53]]
 <!-- SG:END related-scriptures -->

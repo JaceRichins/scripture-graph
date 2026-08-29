@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 14]] · My notes: [[Luke 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus again heals on the Sabbath—He teaches humility and gives the parable of the great supper—Those who follow Him must forsake all else.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 10]] — 2 footnote cross-references (from [[Luke 14#^luke-14-26|Luke 14:26]])
+- [[Matthew 23]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-7|Luke 14:7]])
+- [[Proverbs 25]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-10|Luke 14:10]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-11|Luke 14:11]])
+- [[D&C 104]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-11|Luke 14:11]])
+- [[Matthew 6]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-14|Luke 14:14]])
 - [[Luke 18]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-11|Luke 14:11]] ↔ [[Luke 18#^luke-18-14|Luke 18:14]]
 - [[Matthew 5]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
 - [[Mark 9]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Mark 9#^mark-9-50|Mark 9:50]]

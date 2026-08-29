@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 6
 slug: job-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 6]] · My notes: [[Job 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job bemoans his grief—He prays that God will grant his petitions—Those who are afflicted should be pitied—How forcible are right words!
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Job 6#^job-6-27|Job 6:27]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

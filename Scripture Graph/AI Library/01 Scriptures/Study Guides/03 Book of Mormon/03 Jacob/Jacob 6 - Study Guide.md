@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 6
 slug: jacob-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jacob 6]] · My notes: [[Jacob 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord will recover Israel in the last days—The world will be burned with fire—Men must follow Christ to avoid the lake of fire and brimstone. About 544–421 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jacob 5]] — 8 footnote cross-references (from [[Jacob 6#^jacob-6-1|Jacob 6:1]])
+- [[2 Nephi 28]] — 2 footnote cross-references (from [[Jacob 6#^jacob-6-4|Jacob 6:4]])
+- [[Alma 5]] — 2 footnote cross-references (from [[Jacob 6#^jacob-6-5|Jacob 6:5]])
+- [[Alma 33]] — 1 footnote cross-reference (from [[Jacob 6#^jacob-6-1|Jacob 6:1]])
+- [[Romans 11]] — 1 footnote cross-reference (from [[Jacob 6#^jacob-6-1|Jacob 6:1]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Jacob 6#^jacob-6-1|Jacob 6:1]])
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Jacob 6#^jacob-6-10|Jacob 6:10]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Jacob 6#^jacob-6-7|Jacob 6:7]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[Alma 5]] — 3 parallel verses, e.g. [[Jacob 6#^jacob-6-7|Jacob 6:7]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 42
 slug: alma-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 42]] · My notes: [[Alma 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mortality is a probationary time to enable man to repent and serve God—The Fall brought temporal and spiritual death upon all mankind—Redemption comes through repentance—God Himself atones for the sins of the world—Mercy is for those who repent—All others are subject to God’s justice—Mercy comes because of the Atonement—Only the truly penitent are saved. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 9]] — 7 footnote cross-references (from [[Alma 42#^alma-42-6|Alma 42:6]])
+- [[Alma 12]] — 6 footnote cross-references (from [[Alma 42#^alma-42-2|Alma 42:2]])
+- [[2 Nephi 2]] — 5 footnote cross-references (from [[Alma 42#^alma-42-7|Alma 42:7]])
+- [[Genesis 3]] — 3 footnote cross-references (from [[Alma 42#^alma-42-2|Alma 42:2]])
+- [[Helaman 14]] — 3 footnote cross-references (from [[Alma 42#^alma-42-7|Alma 42:7]])
+- [[Alma 41]] — 3 footnote cross-references (from [[Alma 42#^alma-42-27|Alma 42:27]])
 - [[Genesis 3]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Genesis 3#^gen-3-24|Genesis 3:24]]
 - [[Moses 4]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
 - [[Alma 12]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-5|Alma 42:5]] ↔ [[Alma 12#^alma-12-26|Alma 12:26]]

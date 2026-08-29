@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 13]] · My notes: [[Exodus 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The firstborn of man and of beasts are to be sanctified unto the Lord—The Feast of Unleavened Bread is to be kept in the land of Canaan—Moses takes Joseph’s bones out of Egypt—The Lord attends Israel in a pillar of cloud by day and a pillar of fire by night.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 12]] — 5 footnote cross-references (from [[Exodus 13#^ex-13-4|Exodus 13:4]])
+- [[Deuteronomy 6]] — 3 footnote cross-references (from [[Exodus 13#^ex-13-9|Exodus 13:9]])
+- [[Exodus 34]] — 2 footnote cross-references (from [[Exodus 13#^ex-13-2|Exodus 13:2]])
+- [[Deuteronomy 16]] — 2 footnote cross-references (from [[Exodus 13#^ex-13-4|Exodus 13:4]])
+- [[Exodus 33]] — 2 footnote cross-references (from [[Exodus 13#^ex-13-5|Exodus 13:5]])
+- [[Exodus 3]] — 2 footnote cross-references (from [[Exodus 13#^ex-13-11|Exodus 13:11]])
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Exodus 3#^ex-3-17|Exodus 3:17]]
 - [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Exodus 13#^ex-13-14|Exodus 13:14]] ↔ [[Deuteronomy 6#^deut-6-20|Deuteronomy 6:20]]
 - [[Genesis 50]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-19|Exodus 13:19]] ↔ [[Genesis 50#^gen-50-25|Genesis 50:25]]
@@ -49,6 +56,7 @@ _Not yet developed._
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[2 Chronicles 8#^2chr-8-7|2 Chronicles 8:7]]
 - [[Joshua 3]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Joshua 3#^josh-3-10|Joshua 3:10]]
 - [[Deuteronomy 16]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-6|Exodus 13:6]] ↔ [[Deuteronomy 16#^deut-16-8|Deuteronomy 16:8]]
+- [[Exodus 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

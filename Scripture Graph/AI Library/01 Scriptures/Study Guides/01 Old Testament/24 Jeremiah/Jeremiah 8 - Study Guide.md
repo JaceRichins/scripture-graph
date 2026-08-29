@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 8
 slug: jer-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 8]] · My notes: [[Jeremiah 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Calamities will befall the inhabitants of Jerusalem—For them the harvest is past, the summer is ended, and they are not saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-2|Jeremiah 8:2]])
+- [[Revelation 9]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-3|Jeremiah 8:3]])
+- [[Song of Solomon 2]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-7|Jeremiah 8:7]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-7|Jeremiah 8:7]])
+- [[1 Corinthians 1]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-8|Jeremiah 8:8]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Jeremiah 8#^jer-8-8|Jeremiah 8:8]])
 - [[Jeremiah 6]] — 4 parallel verses, e.g. [[Jeremiah 8#^jer-8-12|Jeremiah 8:12]] ↔ [[Jeremiah 6#^jer-6-15|Jeremiah 6:15]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 37]] — 3 parallel verses, e.g. [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]

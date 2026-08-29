@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 7
 slug: josh-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 7]] · My notes: [[Joshua 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel is defeated by the people of Ai—Joshua complains to the Lord—Achan and his household are destroyed because he disobeyed the Lord by taking the spoils of Jericho.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 5]] — 2 footnote cross-references (from [[Joshua 7#^josh-7-20|Joshua 7:20]])
+- [[Joshua 6]] — 1 footnote cross-reference (from [[Joshua 7#^josh-7-1|Joshua 7:1]])
+- [[Joshua 22]] — 1 footnote cross-reference (from [[Joshua 7#^josh-7-1|Joshua 7:1]])
+- [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Joshua 7#^josh-7-1|Joshua 7:1]])
+- [[Joshua 18]] — 1 footnote cross-reference (from [[Joshua 7#^josh-7-2|Joshua 7:2]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Joshua 7#^josh-7-4|Joshua 7:4]])
 - [[Numbers 11]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 11#^num-11-10|Numbers 11:10]]
 - [[Deuteronomy 1]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-7|Joshua 7:7]] ↔ [[Deuteronomy 1#^deut-1-27|Deuteronomy 1:27]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]

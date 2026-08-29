@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 2
 slug: col-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Colossians 2]] · My notes: [[Colossians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 123]] — 2 footnote cross-references (from [[Colossians 2#^col-2-8|Colossians 2:8]])
+- [[Romans 6]] — 2 footnote cross-references (from [[Colossians 2#^col-2-11|Colossians 2:11]])
+- [[Colossians 3]] — 2 footnote cross-references (from [[Colossians 2#^col-2-12|Colossians 2:12]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-1|Colossians 2:1]])
+- [[Revelation 1]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-1|Colossians 2:1]])
+- [[1 Corinthians 2]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-3|Colossians 2:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

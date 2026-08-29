@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 10
 slug: josh-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 10]] · My notes: [[Joshua 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel defeats the Amorites and their allies, and the Lord casts stones from heaven upon them—The sun and moon stand still—Many kings and cities are destroyed—The Lord fought for Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 12]] — 5 footnote cross-references (from [[Joshua 10#^josh-10-23|Joshua 10:23]])
+- [[D&C 98]] — 2 footnote cross-references (from [[Joshua 10#^josh-10-8|Joshua 10:8]])
+- [[Joshua 9]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-2|Joshua 10:2]])
+- [[Joshua 21]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-8|Joshua 10:8]])
+- [[Isaiah 28]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-10|Joshua 10:10]])
+- [[Exodus 9]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-11|Joshua 10:11]])
 - [[Joshua 11]] — 13 parallel verses, e.g. [[Joshua 10#^josh-10-39|Joshua 10:39]] ↔ [[Joshua 11#^josh-11-12|Joshua 11:12]]
 - [[Job 1]] — 12 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Job 1#^job-1-15|Job 1:15]]
 - [[Joshua 19]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-37|Joshua 10:37]] ↔ [[Joshua 19#^josh-19-47|Joshua 19:47]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 5
 slug: mark-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 5]] · My notes: [[Mark 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus casts out a legion of devils, who then enter the swine—A woman is healed by touching Jesus’ clothes—He raises Jairus’s daughter from the dead.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 8]] — 2 footnote cross-references (from [[Mark 5#^mark-5-20|Mark 5:20]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-15|Mark 5:15]])
+- [[Mormon 9]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-15|Mark 5:15]])
+- [[Matthew 14]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-27|Mark 5:27]])
+- [[Luke 6]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-30|Mark 5:30]])
+- [[Helaman 15]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-34|Mark 5:34]])
 - [[Luke 8]] — 11 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Luke 8#^luke-8-33|Luke 8:33]]
 - [[Matthew 8]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Matthew 8#^matt-8-32|Matthew 8:32]]
 <!-- SG:END related-scriptures -->

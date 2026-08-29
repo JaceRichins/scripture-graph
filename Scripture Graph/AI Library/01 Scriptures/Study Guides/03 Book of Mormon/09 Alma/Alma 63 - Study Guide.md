@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 63
 slug: alma-63
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 63]] · My notes: [[Alma 63 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Shiblon and later Helaman take possession of the sacred records—Many Nephites travel to the land northward—Hagoth builds ships, which sail forth in the west sea—Moronihah defeats the Lamanites in battle. About 56–52 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 3]] — 5 footnote cross-references (from [[Alma 63#^alma-63-4|Alma 63:4]])
+- [[Alma 37]] — 3 footnote cross-references (from [[Alma 63#^alma-63-1|Alma 63:1]])
+- [[Alma 22]] — 2 footnote cross-references (from [[Alma 63#^alma-63-4|Alma 63:4]])
+- [[Helaman 1]] — 2 footnote cross-references (from [[Alma 63#^alma-63-5|Alma 63:5]])
+- [[Alma 38]] — 1 footnote cross-reference (from [[Alma 63#^alma-63-1|Alma 63:1]])
+- [[Alma 49]] — 1 footnote cross-reference (from [[Alma 63#^alma-63-1|Alma 63:1]])
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 63#^alma-63-9|Alma 63:9]] ↔ [[Helaman 11#^hel-11-3|Helaman 11:3]]
 - [[Alma 62]] — 1 parallel verse, e.g. [[Alma 63#^alma-63-1|Alma 63:1]] ↔ [[Alma 62#^alma-62-12|Alma 62:12]]
 <!-- SG:END related-scriptures -->

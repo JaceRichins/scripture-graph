@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 22
 slug: acts-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 22]] · My notes: [[Acts 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul recounts the story of his conversion and also tells of seeing Jesus in a vision—He is accorded some privileges as a Roman citizen.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,8 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Acts 26]] — 2 parallel verses, e.g. [[Acts 22#^acts-22-8|Acts 22:8]] ↔ [[Acts 26#^acts-26-15|Acts 26:15]]
-- [[Acts 9]] — 1 parallel verse, e.g. [[Acts 22#^acts-22-7|Acts 22:7]] ↔ [[Acts 9#^acts-9-4|Acts 9:4]]
+- [[Acts 26]] — 5 footnote cross-references (from [[Acts 22#^acts-22-3|Acts 22:3]])
+- [[Acts 9]] — 5 footnote cross-references (from [[Acts 22#^acts-22-5|Acts 22:5]])
+- [[Acts 23]] — 4 footnote cross-references (from [[Acts 22#^acts-22-8|Acts 22:8]])
+- [[Romans 11]] — 2 footnote cross-references (from [[Acts 22#^acts-22-3|Acts 22:3]])
+- [[Acts 8]] — 2 footnote cross-references (from [[Acts 22#^acts-22-4|Acts 22:4]])
+- [[Deuteronomy 33]] — 1 footnote cross-reference (from [[Acts 22#^acts-22-3|Acts 22:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

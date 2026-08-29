@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 20
 slug: acts-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 20]] · My notes: [[Acts 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul raises Eutychus from death—Paul is free from the blood of all men—He predicts apostasy from within the Church—He reveals a teaching from Jesus, It is more blessed to give than to receive.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,7 +41,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 19]] — 2 footnote cross-references (from [[Acts 20#^acts-20-4|Acts 20:4]])
+- [[Acts 21]] — 2 footnote cross-references (from [[Acts 20#^acts-20-4|Acts 20:4]])
+- [[Acts 27]] — 1 footnote cross-reference (from [[Acts 20#^acts-20-4|Acts 20:4]])
+- [[Colossians 4]] — 1 footnote cross-reference (from [[Acts 20#^acts-20-4|Acts 20:4]])
+- [[Acts 16]] — 1 footnote cross-reference (from [[Acts 20#^acts-20-4|Acts 20:4]])
+- [[Ephesians 6]] — 1 footnote cross-reference (from [[Acts 20#^acts-20-4|Acts 20:4]])
 - [[Luke 24]] — 2 parallel verses, e.g. [[Acts 20#^acts-20-7|Acts 20:7]] ↔ [[Luke 24#^luke-24-1|Luke 24:1]]
+- [[Acts 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

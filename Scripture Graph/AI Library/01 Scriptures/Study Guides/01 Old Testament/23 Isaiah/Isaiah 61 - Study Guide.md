@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 61
 slug: isa-61
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 61]] · My notes: [[Isaiah 61 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks about the Messiah—The Messiah will have the Spirit, preach the gospel, and proclaim liberty—In the last days, the Lord will call His ministers and make an everlasting covenant with the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 138]] — 2 footnote cross-references (from [[Isaiah 61#^isa-61-1|Isaiah 61:1]])
+- [[Ezekiel 36]] — 2 footnote cross-references (from [[Isaiah 61#^isa-61-4|Isaiah 61:4]])
+- [[Isaiah 60]] — 2 footnote cross-references (from [[Isaiah 61#^isa-61-6|Isaiah 61:6]])
+- [[Luke 4]] — 1 footnote cross-reference (from [[Isaiah 61#^isa-61-1|Isaiah 61:1]])
+- [[John 3]] — 1 footnote cross-reference (from [[Isaiah 61#^isa-61-1|Isaiah 61:1]])
+- [[Isaiah 57]] — 1 footnote cross-reference (from [[Isaiah 61#^isa-61-1|Isaiah 61:1]])
 - [[D&C 138]] — 1 parallel verse, e.g. [[Isaiah 61#^isa-61-1|Isaiah 61:1]] ↔ [[D&C 138#^dc-138-42|D&C 138:42]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Isaiah 61#^isa-61-8|Isaiah 61:8]] ↔ [[Jeremiah 32#^jer-32-40|Jeremiah 32:40]]
 <!-- SG:END related-scriptures -->

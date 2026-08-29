@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 13
 slug: 2kgs-13
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -69,10 +69,10 @@ Jehoash's formal death and succession notice appears before the Elisha episode i
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Prophecy]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

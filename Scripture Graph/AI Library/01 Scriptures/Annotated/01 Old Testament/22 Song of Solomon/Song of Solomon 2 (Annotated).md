@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 2|Plain text]] · [[Song of Solomon 2 - Study Guide|Study guide]] · [[Song of Solomon 2 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Beloved ones are praised and described.
+
 ![[Song of Solomon 2#^song-2-1]]
 
 ![[Song of Solomon 2#^song-2-2]]
@@ -38,6 +41,7 @@ cssclasses:
 ![[Song of Solomon 2#^song-2-11]]
 
 ![[Song of Solomon 2#^song-2-12]]
+> [[Jeremiah 8#^jer-8-7|Jer. 8:7]]
 
 ![[Song of Solomon 2#^song-2-13]]
 

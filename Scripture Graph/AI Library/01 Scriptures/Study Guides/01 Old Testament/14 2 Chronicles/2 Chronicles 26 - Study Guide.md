@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 26
 slug: 2chr-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 26]] · My notes: [[2 Chronicles 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Uzziah reigns and prospers as long as he keeps the commandments—He transgresses, attempts to burn incense upon the altar, and is cursed with leprosy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 14]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-1|2 Chronicles 26:1]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-1|2 Chronicles 26:1]])
+- [[2 Nephi 4]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-5|2 Chronicles 26:5]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-5|2 Chronicles 26:5]])
+- [[1 Chronicles 6]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-17|2 Chronicles 26:17]])
+- [[Numbers 16]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-18|2 Chronicles 26:18]])
 - [[2 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
 - [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-2|2 Chronicles 26:2]] ↔ [[2 Kings 14#^2kgs-14-22|2 Kings 14:22]]

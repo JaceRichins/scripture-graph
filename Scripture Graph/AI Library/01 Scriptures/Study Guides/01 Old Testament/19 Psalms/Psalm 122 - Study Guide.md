@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 122
 slug: ps-122
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 122]] · My notes: [[Psalm 122 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, Go into the house of the Lord—Give thanks unto Him.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Ezra 2]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-1|Psalm 122:1]])
+- [[2 Nephi 12]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-1|Psalm 122:1]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-1|Psalm 122:1]])
+- [[Jarom 1]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-6|Psalm 122:6]])
+- [[Mosiah 1]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-6|Psalm 122:6]])
+- [[Alma 37]] — 1 footnote cross-reference (from [[Psalm 122#^ps-122-6|Psalm 122:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

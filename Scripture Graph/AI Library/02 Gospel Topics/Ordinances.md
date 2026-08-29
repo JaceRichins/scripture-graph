@@ -31,11 +31,15 @@ _Not yet developed._
 - [[Numbers 9]] *(keyword match)*
 - [[Ezekiel 43]] *(keyword match)*
 - [[D&C 128]] *(keyword match)*
+- [[Official Declaration 1]] *(keyword match)*
 - [[Exodus 12]] *(keyword match)*
 - [[Alma 13]]
 - [[D&C 124]] *(keyword match)*
 - [[D&C 84]]
 - [[3 Nephi 11]]
+- [[Exodus 29]]
+- [[Exodus 40]]
+- [[Leviticus 4]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

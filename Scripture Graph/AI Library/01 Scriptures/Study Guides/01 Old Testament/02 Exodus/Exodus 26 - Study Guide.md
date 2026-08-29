@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 26
 slug: ex-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 26]] · My notes: [[Exodus 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The tabernacle is to be built with ten curtains and with boards—A veil is to separate the holy place from the most holy place—The ark of testimony (with the mercy seat) is to be put in the most holy place.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 25]] — 3 footnote cross-references (from [[Exodus 26#^ex-26-14|Exodus 26:14]])
+- [[Exodus 35]] — 2 footnote cross-references (from [[Exodus 26#^ex-26-1|Exodus 26:1]])
+- [[Hebrews 9]] — 2 footnote cross-references (from [[Exodus 26#^ex-26-1|Exodus 26:1]])
+- [[Exodus 36]] — 2 footnote cross-references (from [[Exodus 26#^ex-26-1|Exodus 26:1]])
+- [[D&C 124]] — 2 footnote cross-references (from [[Exodus 26#^ex-26-15|Exodus 26:15]])
+- [[Exodus 27]] — 2 footnote cross-references (from [[Exodus 26#^ex-26-30|Exodus 26:30]])
 - [[Exodus 36]] — 25 parallel verses, e.g. [[Exodus 26#^ex-26-19|Exodus 26:19]] ↔ [[Exodus 36#^ex-36-24|Exodus 36:24]]
 - [[Exodus 39]] — 10 parallel verses, e.g. [[Exodus 26#^ex-26-1|Exodus 26:1]] ↔ [[Exodus 39#^ex-39-29|Exodus 39:29]]
 - [[Exodus 25]] — 9 parallel verses, e.g. [[Exodus 26#^ex-26-16|Exodus 26:16]] ↔ [[Exodus 25#^ex-25-10|Exodus 25:10]]

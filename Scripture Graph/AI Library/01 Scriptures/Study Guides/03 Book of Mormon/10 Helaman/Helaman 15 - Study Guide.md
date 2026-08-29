@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 15
 slug: hel-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 15]] · My notes: [[Helaman 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord chastened the Nephites because He loved them—Converted Lamanites are firm and steadfast in the faith—The Lord will be merciful unto the Lamanites in the latter days. About 6 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 5]] — 3 footnote cross-references (from [[Helaman 15#^hel-15-11|Helaman 15:11]])
+- [[Jacob 5]] — 2 footnote cross-references (from [[Helaman 15#^hel-15-3|Helaman 15:3]])
+- [[Alma 9]] — 2 footnote cross-references (from [[Helaman 15#^hel-15-4|Helaman 15:4]])
+- [[Helaman 13]] — 2 footnote cross-references (from [[Helaman 15#^hel-15-5|Helaman 15:5]])
+- [[Enos 1]] — 2 footnote cross-references (from [[Helaman 15#^hel-15-12|Helaman 15:12]])
+- [[Isaiah 5]] — 1 footnote cross-reference (from [[Helaman 15#^hel-15-1|Helaman 15:1]])
 - [[Deuteronomy 30]] — 2 parallel verses, e.g. [[Helaman 15#^hel-15-5|Helaman 15:5]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
 - [[Alma 23]] — 3 parallel verses, e.g. [[Helaman 15#^hel-15-6|Helaman 15:6]] ↔ [[Alma 23#^alma-23-6|Alma 23:6]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Helaman 15#^hel-15-3|Helaman 15:3]] ↔ [[Alma 9#^alma-9-19|Alma 9:19]]

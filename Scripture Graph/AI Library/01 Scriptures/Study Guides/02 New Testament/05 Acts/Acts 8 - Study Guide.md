@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 8]] · My notes: [[Acts 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul persecutes the Church—Philip’s ministry in Samaria is described—Philip performs miracles and baptizes men and women—Peter and John come to Samaria and confer the gift of the Holy Ghost by the laying on of hands—Simon seeks to buy this gift and is rebuked by Peter—Philip preaches about Christ and baptizes an Ethiopian eunuch.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 22]] — 2 footnote cross-references (from [[Acts 8#^acts-8-3|Acts 8:3]])
+- [[1 Corinthians 15]] — 1 footnote cross-reference (from [[Acts 8#^acts-8-3|Acts 8:3]])
+- [[1 Timothy 1]] — 1 footnote cross-reference (from [[Acts 8#^acts-8-3|Acts 8:3]])
+- [[Mosiah 27]] — 1 footnote cross-reference (from [[Acts 8#^acts-8-3|Acts 8:3]])
+- [[4 Nephi 1]] — 1 footnote cross-reference (from [[Acts 8#^acts-8-3|Acts 8:3]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[Acts 8#^acts-8-5|Acts 8:5]])
 - [[Acts 19]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-16|Acts 8:16]] ↔ [[Acts 19#^acts-19-5|Acts 19:5]]
 - [[1 Nephi 11]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-26|Acts 8:26]] ↔ [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]]
 <!-- SG:END related-scriptures -->

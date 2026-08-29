@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 66
 slug: ps-66
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 66]] · My notes: [[Psalm 66 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise and worship the Lord—He tests and tries men—Sacrifices are to be offered in His house.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Leviticus 26]] — 2 footnote cross-references (from [[Psalm 66#^ps-66-11|Psalm 66:11]])
+- [[Psalm 95]] — 1 footnote cross-reference (from [[Psalm 66#^ps-66-1|Psalm 66:1]])
+- [[D&C 49]] — 1 footnote cross-reference (from [[Psalm 66#^ps-66-3|Psalm 66:3]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 66#^ps-66-3|Psalm 66:3]])
+- [[2 Nephi 21]] — 1 footnote cross-reference (from [[Psalm 66#^ps-66-4|Psalm 66:4]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Psalm 66#^ps-66-4|Psalm 66:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

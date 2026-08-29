@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 4
 slug: micah-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 4]] · My notes: [[Micah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, the temple will be built, Israel will gather to it, the millennial era will commence, and the Lord will reign in Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Articles of Faith 1]] — 2 footnote cross-references (from [[Micah 4#^micah-4-5|Micah 4:5]])
+- [[Isaiah 2]] — 1 footnote cross-reference (from [[Micah 4#^micah-4-1|Micah 4:1]])
+- [[D&C 58]] — 1 footnote cross-reference (from [[Micah 4#^micah-4-2|Micah 4:2]])
+- [[1 Kings 4]] — 1 footnote cross-reference (from [[Micah 4#^micah-4-4|Micah 4:4]])
+- [[D&C 134]] — 1 footnote cross-reference (from [[Micah 4#^micah-4-5|Micah 4:5]])
+- [[Zechariah 10]] — 1 footnote cross-reference (from [[Micah 4#^micah-4-5|Micah 4:5]])
 - [[Isaiah 2]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-2|Micah 4:2]] ↔ [[Isaiah 2#^isa-2-3|Isaiah 2:3]]
 - [[2 Nephi 12]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-2|Micah 4:2]] ↔ [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]]
 - [[3 Nephi 20]] — 1 parallel verse, e.g. [[Micah 4#^micah-4-13|Micah 4:13]] ↔ [[3 Nephi 20#^3ne-20-19|3 Nephi 20:19]]

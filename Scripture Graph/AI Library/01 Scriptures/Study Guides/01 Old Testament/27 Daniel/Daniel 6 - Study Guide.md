@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 6]] · My notes: [[Daniel 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Darius makes Daniel the first of his presidents—Daniel worships the Lord in defiance of a decree of Darius—He is cast into the den of lions—His faith saves him, and Darius decrees that all people are to revere the God of Daniel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 41]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-3|Daniel 6:3]])
+- [[Esther 10]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-3|Daniel 6:3]])
+- [[Daniel 8]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-3|Daniel 6:3]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-4|Daniel 6:4]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-4|Daniel 6:4]])
+- [[1 Kings 8]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-10|Daniel 6:10]])
 - [[Daniel 4]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-25|Daniel 6:25]] ↔ [[Daniel 4#^dan-4-1|Daniel 4:1]]
 - [[Daniel 5]] — 3 parallel verses, e.g. [[Daniel 6#^dan-6-13|Daniel 6:13]] ↔ [[Daniel 5#^dan-5-13|Daniel 5:13]]
 - [[Daniel 7]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-26|Daniel 6:26]] ↔ [[Daniel 7#^dan-7-14|Daniel 7:14]]

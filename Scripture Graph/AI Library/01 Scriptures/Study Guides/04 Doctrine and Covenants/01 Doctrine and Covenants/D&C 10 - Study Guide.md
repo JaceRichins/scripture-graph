@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 10
 slug: dc-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 10]] · My notes: [[D&C 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–26, Satan stirs up wicked men to oppose the Lord’s work; 27–33, He seeks to destroy the souls of men; 34–52, The gospel is to go to the Lamanites and all nations through the Book of Mormon; 53–63, The Lord will establish His Church and His gospel among men; 64–70, He will gather the repentant into His Church and will save the obedient.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 3]] — 6 footnote cross-references (from [[D&C 10#^dc-10-1|D&C 10:1]])
+- [[2 Nephi 28]] — 3 footnote cross-references (from [[D&C 10#^dc-10-20|D&C 10:20]])
+- [[2 Nephi 2]] — 3 footnote cross-references (from [[D&C 10#^dc-10-22|D&C 10:22]])
+- [[D&C 6]] — 3 footnote cross-references (from [[D&C 10#^dc-10-37|D&C 10:37]])
+- [[Words of Mormon 1]] — 3 footnote cross-references (from [[D&C 10#^dc-10-38|D&C 10:38]])
+- [[D&C 9]] — 2 footnote cross-references (from [[D&C 10#^dc-10-2|D&C 10:2]])
 - [[D&C 6]] — 2 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
 - [[3 Nephi 21]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-43|D&C 10:43]] ↔ [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]]
 - [[D&C 11]] — 3 parallel verses, e.g. [[D&C 10#^dc-10-57|D&C 10:57]] ↔ [[D&C 11#^dc-11-28|D&C 11:28]]

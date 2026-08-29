@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 19
 slug: 3ne-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 19]] · My notes: [[3 Nephi 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The twelve disciples minister unto the people and pray for the Holy Ghost—The disciples are baptized and receive the Holy Ghost and the ministering of angels—Jesus prays using words that cannot be written—He attests to the exceedingly great faith of these Nephites. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 17]] — 5 footnote cross-references (from [[3 Nephi 19#^3ne-19-2|3 Nephi 19:2]])
+- [[Mosiah 2]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-5|3 Nephi 19:5]])
+- [[3 Nephi 9]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-9|3 Nephi 19:9]])
+- [[3 Nephi 11]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-11|3 Nephi 19:11]])
+- [[John 17]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]])
+- [[3 Nephi 7]] — 1 footnote cross-reference (from [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]])
 - [[3 Nephi 17]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
 - [[Mormon 9]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]

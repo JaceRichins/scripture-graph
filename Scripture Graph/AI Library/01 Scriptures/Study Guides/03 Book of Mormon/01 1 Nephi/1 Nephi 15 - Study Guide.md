@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 15
 slug: 1ne-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 15]] · My notes: [[1 Nephi 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi’s seed are to receive the gospel from the Gentiles in the latter days—The gathering of Israel is likened unto an olive tree whose natural branches will be grafted in again—Nephi interprets the vision of the tree of life and speaks of the justice of God in dividing the wicked from the righteous. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 8]] — 8 footnote cross-references (from [[1 Nephi 15#^1ne-15-21|1 Nephi 15:21]])
+- [[1 Nephi 19]] — 3 footnote cross-references (from [[1 Nephi 15#^1ne-15-12|1 Nephi 15:12]])
+- [[1 Nephi 12]] — 3 footnote cross-references (from [[1 Nephi 15#^1ne-15-13|1 Nephi 15:13]])
+- [[1 Nephi 10]] — 2 footnote cross-references (from [[1 Nephi 15#^1ne-15-7|1 Nephi 15:7]])
+- [[2 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 15#^1ne-15-8|1 Nephi 15:8]])
+- [[Genesis 49]] — 2 footnote cross-references (from [[1 Nephi 15#^1ne-15-12|1 Nephi 15:12]])
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]] ↔ [[3 Nephi 20#^3ne-20-27|3 Nephi 20:27]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]] ↔ [[1 Nephi 22#^1ne-22-9|1 Nephi 22:9]]
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[1 Nephi 15#^1ne-15-32|1 Nephi 15:32]] ↔ [[1 Nephi 16#^1ne-16-2|1 Nephi 16:2]]

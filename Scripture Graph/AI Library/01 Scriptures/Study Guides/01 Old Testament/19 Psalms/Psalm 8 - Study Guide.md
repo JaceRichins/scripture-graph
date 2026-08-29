@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 8
 slug: ps-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 8]] · My notes: [[Psalm 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—He says that babes and children praise the Lord—He asks, What is man, that Thou art mindful of him?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Job 7]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
+- [[Psalm 144]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
+- [[Hebrews 2]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
+- [[1 Nephi 2]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
+- [[1 Nephi 19]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
+- [[Alma 17]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
 - [[Hebrews 2]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-4|Psalm 8:4]] ↔ [[Hebrews 2#^heb-2-6|Hebrews 2:6]]
 - [[Genesis 1]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
 - [[Abraham 4]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]

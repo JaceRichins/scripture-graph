@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 12
 slug: mark-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 12]] · My notes: [[Mark 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parable of the wicked husbandmen—He speaks of paying taxes, celestial marriage, the two great commandments, the divine sonship of Christ, and the widow’s mites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 22]] — 3 footnote cross-references (from [[Mark 12#^mark-12-13|Mark 12:13]])
+- [[Luke 20]] — 2 footnote cross-references (from [[Mark 12#^mark-12-13|Mark 12:13]])
+- [[Deuteronomy 6]] — 2 footnote cross-references (from [[Mark 12#^mark-12-29|Mark 12:29]])
+- [[Luke 11]] — 1 footnote cross-reference (from [[Mark 12#^mark-12-13|Mark 12:13]])
+- [[Deuteronomy 25]] — 1 footnote cross-reference (from [[Mark 12#^mark-12-19|Mark 12:19]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Mark 12#^mark-12-26|Mark 12:26]])
 - [[Matthew 22]] — 11 parallel verses, e.g. [[Mark 12#^mark-12-30|Mark 12:30]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
 - [[Luke 20]] — 15 parallel verses, e.g. [[Mark 12#^mark-12-19|Mark 12:19]] ↔ [[Luke 20#^luke-20-28|Luke 20:28]]
 - [[Matthew 21]] — 6 parallel verses, e.g. [[Mark 12#^mark-12-1|Mark 12:1]] ↔ [[Matthew 21#^matt-21-33|Matthew 21:33]]

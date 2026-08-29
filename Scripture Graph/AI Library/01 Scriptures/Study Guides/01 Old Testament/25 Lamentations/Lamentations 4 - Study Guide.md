@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 4
 slug: lam-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Lamentations 4]] · My notes: [[Lamentations 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The condition of Zion is pitiful because of sin and iniquity.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,12 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 8]] — 8 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 8#^jer-8-11|Jeremiah 8:11]]
-- [[Lamentations 2]] — 3 parallel verses, e.g. [[Lamentations 4#^lam-4-10|Lamentations 4:10]] ↔ [[Lamentations 2#^lam-2-11|Lamentations 2:11]]
-- [[Lamentations 3]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-10|Lamentations 4:10]] ↔ [[Lamentations 3#^lam-3-48|Lamentations 3:48]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Isaiah 22#^isa-22-4|Isaiah 22:4]]
-- [[Jeremiah 6]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 6#^jer-6-14|Jeremiah 6:14]]
-- [[Jeremiah 9]] — 2 parallel verses, e.g. [[Lamentations 4#^lam-4-6|Lamentations 4:6]] ↔ [[Jeremiah 9#^jer-9-1|Jeremiah 9:1]]
+- [[Deuteronomy 28]] — 2 footnote cross-references (from [[Lamentations 4#^lam-4-10|Lamentations 4:10]])
+- [[Jeremiah 39]] — 2 footnote cross-references (from [[Lamentations 4#^lam-4-19|Lamentations 4:19]])
+- [[Job 39]] — 1 footnote cross-reference (from [[Lamentations 4#^lam-4-3|Lamentations 4:3]])
+- [[Jeremiah 52]] — 1 footnote cross-reference (from [[Lamentations 4#^lam-4-4|Lamentations 4:4]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[Lamentations 4#^lam-4-10|Lamentations 4:10]])
+- [[Jeremiah 19]] — 1 footnote cross-reference (from [[Lamentations 4#^lam-4-10|Lamentations 4:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

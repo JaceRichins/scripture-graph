@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 11
 slug: 2sam-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 11]] · My notes: [[2 Samuel 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David lies with Bathsheba, and she conceives—He then arranges for the death in battle of her husband, Uriah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 12]] — 3 footnote cross-references (from [[2 Samuel 11#^2sam-11-15|2 Samuel 11:15]])
+- [[D&C 132]] — 2 footnote cross-references (from [[2 Samuel 11#^2sam-11-4|2 Samuel 11:4]])
+- [[1 Chronicles 20]] — 1 footnote cross-reference (from [[2 Samuel 11#^2sam-11-1|2 Samuel 11:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[2 Samuel 11#^2sam-11-2|2 Samuel 11:2]])
+- [[1 Chronicles 3]] — 1 footnote cross-reference (from [[2 Samuel 11#^2sam-11-3|2 Samuel 11:3]])
+- [[1 Kings 15]] — 1 footnote cross-reference (from [[2 Samuel 11#^2sam-11-3|2 Samuel 11:3]])
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[2 Samuel 11#^2sam-11-11|2 Samuel 11:11]] ↔ [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 11#^2sam-11-21|2 Samuel 11:21]] ↔ [[Judges 9#^judg-9-53|Judges 9:53]]
 - [[1 Chronicles 20]] — 1 parallel verse, e.g. [[2 Samuel 11#^2sam-11-1|2 Samuel 11:1]] ↔ [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]]

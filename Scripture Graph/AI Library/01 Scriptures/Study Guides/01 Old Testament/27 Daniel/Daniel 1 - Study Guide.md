@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 1
 slug: dan-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 1]] · My notes: [[Daniel 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Daniel and certain Hebrews are trained in the court of Nebuchadnezzar—They eat plain food and drink no wine—God gives them knowledge and wisdom beyond all others.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 2]] — 3 footnote cross-references (from [[Daniel 1#^dan-1-6|Daniel 1:6]])
+- [[D&C 89]] — 3 footnote cross-references (from [[Daniel 1#^dan-1-12|Daniel 1:12]])
+- [[2 Kings 24]] — 2 footnote cross-references (from [[Daniel 1#^dan-1-1|Daniel 1:1]])
+- [[Daniel 5]] — 2 footnote cross-references (from [[Daniel 1#^dan-1-2|Daniel 1:2]])
+- [[2 Chronicles 36]] — 1 footnote cross-reference (from [[Daniel 1#^dan-1-1|Daniel 1:1]])
+- [[Genesis 11]] — 1 footnote cross-reference (from [[Daniel 1#^dan-1-2|Daniel 1:2]])
 - [[2 Chronicles 36]] — 2 parallel verses, e.g. [[Daniel 1#^dan-1-2|Daniel 1:2]] ↔ [[2 Chronicles 36#^2chr-36-7|2 Chronicles 36:7]]
 <!-- SG:END related-scriptures -->
 

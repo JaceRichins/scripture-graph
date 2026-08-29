@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 54
 slug: isa-54
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 54]] · My notes: [[Isaiah 54 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the last days, Zion and her stakes will be established, and Israel will be gathered in mercy and tenderness—Israel will triumph—Compare 3 Nephi 22.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 60]] — 2 footnote cross-references (from [[Isaiah 54#^isa-54-6|Isaiah 54:6]])
+- [[Malachi 2]] — 2 footnote cross-references (from [[Isaiah 54#^isa-54-6|Isaiah 54:6]])
+- [[3 Nephi 20]] — 1 footnote cross-reference (from [[Isaiah 54#^isa-54-1|Isaiah 54:1]])
+- [[3 Nephi 22]] — 1 footnote cross-reference (from [[Isaiah 54#^isa-54-1|Isaiah 54:1]])
+- [[Jeremiah 51]] — 1 footnote cross-reference (from [[Isaiah 54#^isa-54-5|Isaiah 54:5]])
+- [[Lamentations 1]] — 1 footnote cross-reference (from [[Isaiah 54#^isa-54-5|Isaiah 54:5]])
 - [[3 Nephi 22]] — 17 parallel verses, e.g. [[Isaiah 54#^isa-54-1|Isaiah 54:1]] ↔ [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[Isaiah 54#^isa-54-3|Isaiah 54:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
 <!-- SG:END related-scriptures -->

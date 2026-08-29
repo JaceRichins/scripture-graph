@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 57
 slug: ps-57
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 57]] · My notes: [[Psalm 57 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads for mercy and acclaims the glory and exaltation of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ruth 2]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-1|Psalm 57:1]])
+- [[Proverbs 30]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-4|Psalm 57:4]])
+- [[Psalm 52]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-4|Psalm 57:4]])
+- [[Psalm 64]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-4|Psalm 57:4]])
+- [[Psalm 59]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-4|Psalm 57:4]])
+- [[Proverbs 25]] — 1 footnote cross-reference (from [[Psalm 57#^ps-57-4|Psalm 57:4]])
 - [[Psalm 108]] — 5 parallel verses, e.g. [[Psalm 57#^ps-57-7|Psalm 57:7]] ↔ [[Psalm 108#^ps-108-1|Psalm 108:1]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 14
 slug: dc-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 14]] · My notes: [[D&C 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Laborers in the vineyard will gain salvation; 7–8, Eternal life is the greatest of God’s gifts; 9–11, Christ created the heavens and the earth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 4]] — 2 footnote cross-references (from [[D&C 14#^dc-14-9|D&C 14:9]])
+- [[D&C 20]] — 2 footnote cross-references (from [[D&C 14#^dc-14-9|D&C 14:9]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-1|D&C 14:1]])
+- [[Psalm 19]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
+- [[Proverbs 7]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
 - [[D&C 6]] — 7 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
 - [[D&C 11]] — 6 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 12]] — 5 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]

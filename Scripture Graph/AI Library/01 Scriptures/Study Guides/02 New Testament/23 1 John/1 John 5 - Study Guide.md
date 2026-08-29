@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 5
 slug: 1jn-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 John 5]] · My notes: [[1 John 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints are born of God through belief in Christ—Water, blood, and the Spirit testify of Christ—Belief in Christ is required in order to gain eternal life.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 64]] — 2 footnote cross-references (from [[1 John 5#^1jn-5-4|1 John 5:4]])
+- [[1 John 2]] — 1 footnote cross-reference (from [[1 John 5#^1jn-5-3|1 John 5:3]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[1 John 5#^1jn-5-3|1 John 5:3]])
+- [[Romans 12]] — 1 footnote cross-reference (from [[1 John 5#^1jn-5-4|1 John 5:4]])
+- [[Revelation 3]] — 1 footnote cross-reference (from [[1 John 5#^1jn-5-4|1 John 5:4]])
+- [[1 Corinthians 15]] — 1 footnote cross-reference (from [[1 John 5#^1jn-5-4|1 John 5:4]])
 - [[1 John 4]] — 2 parallel verses, e.g. [[1 John 5#^1jn-5-1|1 John 5:1]] ↔ [[1 John 4#^1jn-4-7|1 John 4:7]]
 <!-- SG:END related-scriptures -->
 

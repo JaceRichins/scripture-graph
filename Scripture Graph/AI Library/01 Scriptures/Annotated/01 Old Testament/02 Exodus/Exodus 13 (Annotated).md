@@ -56,7 +56,7 @@ cssclasses:
 > [[Exodus 12#^ex-12-25|Ex. 12:26 (25–27)]] · [[Deuteronomy 6#^deut-6-20|Deut. 6:20]] · [[Exodus 3#^ex-3-2|Ex. 3:10 (2–10)]] · [[Alma 36#^alma-36-28|Alma 36:28]] · [[D&C 8#^dc-8-2|D&amp;C 8:3 (2–3)]] · [[Deuteronomy 6#^deut-6-20|≈ Deuteronomy 6:20]]
 
 ![[Exodus 13#^ex-13-15]]
-> [[Exodus 12#^ex-12-29|Ex. 12:29]]
+> [[Exodus 12#^ex-12-29|Ex. 12:29]] · [[Exodus 12#^ex-12-12|≈ Exodus 12:12]] · [[Exodus 12#^ex-12-29|≈ Exodus 12:29]]
 
 ![[Exodus 13#^ex-13-16]]
 > [[Deuteronomy 6#^deut-6-6|Deut. 6:8 (6–9)]]

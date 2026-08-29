@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 18
 slug: 2chr-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 18]] · My notes: [[2 Chronicles 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jehoshaphat of Judah joins Ahab of Israel to fight Syria—Ahab’s false prophets foretell victory—Micaiah prophesies the fall and death of Ahab—The Syrians slay Ahab.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 1]] — 1 footnote cross-reference (from [[2 Chronicles 18#^2chr-18-4|2 Chronicles 18:4]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]])
 - [[1 Kings 22]] — 45 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]] ↔ [[1 Kings 22#^1kgs-22-8|1 Kings 22:8]]
 - [[2 Kings 3]] — 5 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-6|2 Chronicles 18:6]] ↔ [[2 Kings 3#^2kgs-3-11|2 Kings 3:11]]
 - [[2 Kings 6]] — 2 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]] ↔ [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 55
 slug: alma-55
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 55]] · My notes: [[Alma 55 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moroni refuses to exchange prisoners—The Lamanite guards are enticed to become drunk, and the Nephite prisoners are freed—The city of Gid is taken without bloodshed. About 63–62 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 47]] — 2 footnote cross-references (from [[Alma 55#^alma-55-1|Alma 55:1]])
+- [[Alma 51]] — 2 footnote cross-references (from [[Alma 55#^alma-55-7|Alma 55:7]])
+- [[Alma 62]] — 2 footnote cross-references (from [[Alma 55#^alma-55-16|Alma 55:16]])
+- [[Alma 52]] — 2 footnote cross-references (from [[Alma 55#^alma-55-23|Alma 55:23]])
+- [[Nehemiah 6]] — 1 footnote cross-reference (from [[Alma 55#^alma-55-1|Alma 55:1]])
+- [[Alma 54]] — 1 footnote cross-reference (from [[Alma 55#^alma-55-2|Alma 55:2]])
 - [[Alma 46]] — 2 parallel verses, e.g. [[Alma 55#^alma-55-4|Alma 55:4]] ↔ [[Alma 46#^alma-46-28|Alma 46:28]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Alma 55#^alma-55-1|Alma 55:1]] ↔ [[Alma 62#^alma-62-1|Alma 62:1]]
 <!-- SG:END related-scriptures -->

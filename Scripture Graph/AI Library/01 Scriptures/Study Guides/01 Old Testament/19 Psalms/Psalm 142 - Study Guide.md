@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 142
 slug: ps-142
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 142]] · My notes: [[Psalm 142 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David prays for preservation from his persecutors.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,9 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Psalm 142#^ps-142-5|Psalm 142:5]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
-- [[Psalm 3]] — 1 parallel verse, e.g. [[Psalm 142#^ps-142-1|Psalm 142:1]] ↔ [[Psalm 3#^ps-3-4|Psalm 3:4]]
-- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 142#^ps-142-5|Psalm 142:5]] ↔ [[Psalm 31#^ps-31-14|Psalm 31:14]]
+- [[Psalm 77]] — 1 footnote cross-reference (from [[Psalm 142#^ps-142-3|Psalm 142:3]])
+- [[Psalm 140]] — 1 footnote cross-reference (from [[Psalm 142#^ps-142-3|Psalm 142:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

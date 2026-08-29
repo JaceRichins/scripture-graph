@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 18
 slug: dc-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 18]] · My notes: [[D&C 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, Scriptures show how to build up the Church; 6–8, The world is ripening in iniquity; 9–16, The worth of souls is great; 17–25, To gain salvation, men must take upon themselves the name of Christ; 26–36, The calling and mission of the Twelve are revealed; 37–39, Oliver Cowdery and David Whitmer are to search out the Twelve; 40–47, To gain salvation, men must repent, be baptized, and keep the commandments.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 6]] — 6 footnote cross-references (from [[D&C 18#^dc-18-2|D&C 18:2]])
+- [[D&C 20]] — 6 footnote cross-references (from [[D&C 18#^dc-18-4|D&C 18:4]])
+- [[D&C 107]] — 4 footnote cross-references (from [[D&C 18#^dc-18-6|D&C 18:6]])
+- [[D&C 68]] — 3 footnote cross-references (from [[D&C 18#^dc-18-4|D&C 18:4]])
+- [[D&C 19]] — 3 footnote cross-references (from [[D&C 18#^dc-18-6|D&C 18:6]])
+- [[3 Nephi 11]] — 3 footnote cross-references (from [[D&C 18#^dc-18-20|D&C 18:20]])
 - [[D&C 17]] — 3 parallel verses, e.g. [[D&C 18#^dc-18-33|D&C 18:33]] ↔ [[D&C 17#^dc-17-9|D&C 17:9]]
 - [[D&C 49]] — 3 parallel verses, e.g. [[D&C 18#^dc-18-41|D&C 18:41]] ↔ [[D&C 49#^dc-49-13|D&C 49:13]]
 - [[2 Nephi 31]] — 3 parallel verses, e.g. [[D&C 18#^dc-18-22|D&C 18:22]] ↔ [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]]

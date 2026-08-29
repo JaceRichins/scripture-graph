@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 8
 slug: judg-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 8]] · My notes: [[Judges 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Gideon pursues and destroys the Midianites—He frees the children of Israel but refuses their invitation to reign as king over them—Gideon dies, and Israel returns to idolatry.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 83]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-5|Judges 8:5]])
+- [[Judges 18]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-11|Judges 8:11]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-23|Judges 8:23]])
+- [[D&C 60]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-23|Judges 8:23]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-26|Judges 8:26]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-27|Judges 8:27]])
 - [[Mosiah 2]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 6#^deut-6-2|Deuteronomy 6:2]]
 <!-- SG:END related-scriptures -->

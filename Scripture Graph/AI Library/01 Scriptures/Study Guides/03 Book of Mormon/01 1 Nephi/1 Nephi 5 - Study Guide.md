@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 5
 slug: 1ne-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 5]] · My notes: [[1 Nephi 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Sariah complains against Lehi—Both rejoice over the return of their sons—They offer sacrifices—The plates of brass contain writings of Moses and the prophets—The plates identify Lehi as a descendant of Joseph—Lehi prophesies concerning his seed and the preservation of the plates. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -45,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 2]] — 3 footnote cross-references (from [[1 Nephi 5#^1ne-5-4|1 Nephi 5:4]])
+- [[1 Nephi 3]] — 3 footnote cross-references (from [[1 Nephi 5#^1ne-5-4|1 Nephi 5:4]])
+- [[Genesis 37]] — 2 footnote cross-references (from [[1 Nephi 5#^1ne-5-2|1 Nephi 5:2]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[1 Nephi 5#^1ne-5-4|1 Nephi 5:4]])
+- [[1 Nephi 7]] — 2 footnote cross-references (from [[1 Nephi 5#^1ne-5-9|1 Nephi 5:9]])
+- [[Mosiah 2]] — 2 footnote cross-references (from [[1 Nephi 5#^1ne-5-9|1 Nephi 5:9]])
 - [[1 Nephi 3]] — 4 parallel verses, e.g. [[1 Nephi 5#^1ne-5-10|1 Nephi 5:10]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
 - [[1 Nephi 17]] — 3 parallel verses, e.g. [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]] ↔ [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]]
 - [[1 Nephi 7]] — 3 parallel verses, e.g. [[1 Nephi 5#^1ne-5-5|1 Nephi 5:5]] ↔ [[1 Nephi 7#^1ne-7-11|1 Nephi 7:11]]

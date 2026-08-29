@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 1
 slug: josh-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord speaks to Joshua—He is commanded to be of good courage, to meditate upon the law, and to keep the commandments—He prepares Israel to enter Canaan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-1|Joshua 1:1]])
+- [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-1|Joshua 1:1]])
+- [[Genesis 13]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-2|Joshua 1:2]])
+- [[Genesis 15]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-2|Joshua 1:2]])
+- [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-4|Joshua 1:4]])
+- [[Exodus 23]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-4|Joshua 1:4]])
 - [[Deuteronomy 31]] — 11 parallel verses, e.g. [[Joshua 1#^josh-1-6|Joshua 1:6]] ↔ [[Deuteronomy 31#^deut-31-23|Deuteronomy 31:23]]
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]]
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-13|Joshua 1:13]] ↔ [[Deuteronomy 3#^deut-3-18|Deuteronomy 3:18]]

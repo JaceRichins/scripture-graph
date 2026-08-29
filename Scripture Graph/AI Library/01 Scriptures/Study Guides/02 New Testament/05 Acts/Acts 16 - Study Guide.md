@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 16
 slug: acts-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 16]] · My notes: [[Acts 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul is directed in a vision to preach in Macedonia—He casts an evil spirit out of a woman—He and Silas are imprisoned, and they convert the jailor—They admonish all to believe on the Lord Jesus and be saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,8 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 39]] — 2 parallel verses, e.g. [[Acts 16#^acts-16-27|Acts 16:27]] ↔ [[Genesis 39#^gen-39-22|Genesis 39:22]]
-- [[D&C 49]] — 2 parallel verses, e.g. [[Acts 16#^acts-16-18|Acts 16:18]] ↔ [[D&C 49#^dc-49-13|D&C 49:13]]
+- [[2 Corinthians 11]] — 2 footnote cross-references (from [[Acts 16#^acts-16-22|Acts 16:22]])
+- [[Acts 17]] — 1 footnote cross-reference (from [[Acts 16#^acts-16-1|Acts 16:1]])
+- [[Acts 20]] — 1 footnote cross-reference (from [[Acts 16#^acts-16-1|Acts 16:1]])
+- [[1 Corinthians 4]] — 1 footnote cross-reference (from [[Acts 16#^acts-16-1|Acts 16:1]])
+- [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[Acts 16#^acts-16-1|Acts 16:1]])
+- [[1 Thessalonians 3]] — 1 footnote cross-reference (from [[Acts 16#^acts-16-1|Acts 16:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

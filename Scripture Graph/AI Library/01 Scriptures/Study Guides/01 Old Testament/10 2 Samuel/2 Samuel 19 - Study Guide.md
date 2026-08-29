@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 19
 slug: 2sam-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 19]] · My notes: [[2 Samuel 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joab rebukes David for favoring his enemies instead of his friends—David replaces Joab with Amasa—Shimei, who cursed David, is pardoned—Mephibosheth pledges allegiance to David—The men of Judah take David back to Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 9]] — 3 footnote cross-references (from [[2 Samuel 19#^2sam-19-24|2 Samuel 19:24]])
+- [[2 Samuel 17]] — 2 footnote cross-references (from [[2 Samuel 19#^2sam-19-13|2 Samuel 19:13]])
+- [[2 Samuel 15]] — 1 footnote cross-reference (from [[2 Samuel 19#^2sam-19-11|2 Samuel 19:11]])
+- [[2 Samuel 20]] — 1 footnote cross-reference (from [[2 Samuel 19#^2sam-19-13|2 Samuel 19:13]])
+- [[Joshua 5]] — 1 footnote cross-reference (from [[2 Samuel 19#^2sam-19-15|2 Samuel 19:15]])
+- [[2 Samuel 16]] — 1 footnote cross-reference (from [[2 Samuel 19#^2sam-19-16|2 Samuel 19:16]])
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[2 Samuel 19#^2sam-19-13|2 Samuel 19:13]] ↔ [[1 Kings 2#^1kgs-2-23|1 Kings 2:23]]
 - [[2 Samuel 16]] — 1 parallel verse, e.g. [[2 Samuel 19#^2sam-19-22|2 Samuel 19:22]] ↔ [[2 Samuel 16#^2sam-16-10|2 Samuel 16:10]]
 <!-- SG:END related-scriptures -->

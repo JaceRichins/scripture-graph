@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 5]] · My notes: [[Romans 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Man is justified through the blood of Christ—Adam fell, and Christ atoned that man might be saved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 15]] — 2 footnote cross-references (from [[Romans 5#^rom-5-12|Romans 5:12]])
+- [[Galatians 5]] — 1 footnote cross-reference (from [[Romans 5#^rom-5-2|Romans 5:2]])
+- [[2 Corinthians 4]] — 1 footnote cross-reference (from [[Romans 5#^rom-5-3|Romans 5:3]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Romans 5#^rom-5-5|Romans 5:5]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[Romans 5#^rom-5-8|Romans 5:8]])
+- [[Genesis 3]] — 1 footnote cross-reference (from [[Romans 5#^rom-5-12|Romans 5:12]])
+- [[1 Corinthians 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 30
 slug: 1sam-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 30]] · My notes: [[1 Samuel 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Amalekites spoil Ziklag and the borders of Judah—David smites Amalek and regains and divides the spoil.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Samuel 25]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-5|1 Samuel 30:5]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-5|1 Samuel 30:5]])
+- [[Psalm 56]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-6|1 Samuel 30:6]])
+- [[1 Kings 1]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-14|1 Samuel 30:14]])
+- [[Deuteronomy 23]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-15|1 Samuel 30:15]])
+- [[2 Samuel 8]] — 1 footnote cross-reference (from [[1 Samuel 30#^1sam-30-18|1 Samuel 30:18]])
 - [[Judges 9]] — 2 parallel verses, e.g. [[1 Samuel 30#^1sam-30-21|1 Samuel 30:21]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
 - [[2 Samuel 3]] — 2 parallel verses, e.g. [[1 Samuel 30#^1sam-30-5|1 Samuel 30:5]] ↔ [[2 Samuel 3#^2sam-3-3|2 Samuel 3:3]]
 <!-- SG:END related-scriptures -->

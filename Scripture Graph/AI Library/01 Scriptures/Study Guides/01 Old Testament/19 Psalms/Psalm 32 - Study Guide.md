@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 32
 slug: ps-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 32]] · My notes: [[Psalm 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, Blessed is the man unto whom the Lord imputes not iniquity—David acknowledges his sin—He recommends that the righteous be glad in the Lord and rejoice.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Romans 4]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-1|Psalm 32:1]])
+- [[Psalm 91]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-7|Psalm 32:7]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-7|Psalm 32:7]])
+- [[Proverbs 13]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-10|Psalm 32:10]])
+- [[Romans 2]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-10|Psalm 32:10]])
+- [[Alma 41]] — 1 footnote cross-reference (from [[Psalm 32#^ps-32-10|Psalm 32:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 6
 slug: ezra-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 6]] · My notes: [[Ezra 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Darius renews the decree of Cyrus to build the temple—It is finished and dedicated, and sacrifices and feasts commence again.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 2]] — 2 footnote cross-references (from [[Ezra 6#^ezra-6-10|Ezra 6:10]])
+- [[Ezra 5]] — 2 footnote cross-references (from [[Ezra 6#^ezra-6-14|Ezra 6:14]])
+- [[Jeremiah 36]] — 1 footnote cross-reference (from [[Ezra 6#^ezra-6-2|Ezra 6:2]])
+- [[Ezekiel 2]] — 1 footnote cross-reference (from [[Ezra 6#^ezra-6-2|Ezra 6:2]])
+- [[Haggai 1]] — 1 footnote cross-reference (from [[Ezra 6#^ezra-6-3|Ezra 6:3]])
+- [[Alma 6]] — 1 footnote cross-reference (from [[Ezra 6#^ezra-6-10|Ezra 6:10]])
 - [[Ezra 5]] — 6 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Ezra 5#^ezra-5-1|Ezra 5:1]]
 - [[2 Chronicles 35]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]]
 - [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[2 Chronicles 30#^2chr-30-21|2 Chronicles 30:21]]

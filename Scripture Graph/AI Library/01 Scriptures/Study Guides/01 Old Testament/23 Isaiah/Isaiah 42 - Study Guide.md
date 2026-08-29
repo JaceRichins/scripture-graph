@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 42
 slug: isa-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 42]] · My notes: [[Isaiah 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Isaiah speaks about the Messiah—The Lord will bring His law and His justice, be a light to the Gentiles, and free the prisoners—Praise the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-1|Isaiah 42:1]])
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-1|Isaiah 42:1]])
+- [[1 Nephi 13]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-1|Isaiah 42:1]])
+- [[2 Nephi 10]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-4|Isaiah 42:4]])
+- [[Isaiah 49]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-6|Isaiah 42:6]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-6|Isaiah 42:6]])
 - [[Psalm 149]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-10|Isaiah 42:10]] ↔ [[Psalm 149#^ps-149-1|Psalm 149:1]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-3|Isaiah 42:3]] ↔ [[Matthew 12#^matt-12-20|Matthew 12:20]]
 - [[Isaiah 49]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-6|Isaiah 42:6]] ↔ [[Isaiah 49#^isa-49-8|Isaiah 49:8]]

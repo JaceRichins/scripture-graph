@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 16
 slug: 1chr-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 16]] · My notes: [[1 Chronicles 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> People offer sacrifices and praise the Lord—David delivers a psalm of thanksgiving—He praises the Lord—Asaph, Obed-edom, Zadok, and others minister before the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 6]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-2|1 Chronicles 16:2]])
+- [[D&C 65]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]])
+- [[Psalm 95]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-9|1 Chronicles 16:9]])
+- [[Nehemiah 9]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-16|1 Chronicles 16:16]])
+- [[Ezra 3]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]])
+- [[2 Chronicles 29]] — 1 footnote cross-reference (from [[1 Chronicles 16#^1chr-16-4|1 Chronicles 16:4]])
 - [[Psalm 105]] — 12 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]] ↔ [[Psalm 105#^ps-105-1|Psalm 105:1]]
 - [[Psalm 96]] — 8 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]] ↔ [[Psalm 96#^ps-96-8|Psalm 96:8]]
 - [[2 Samuel 6]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-3|1 Chronicles 16:3]] ↔ [[2 Samuel 6#^2sam-6-19|2 Samuel 6:19]]

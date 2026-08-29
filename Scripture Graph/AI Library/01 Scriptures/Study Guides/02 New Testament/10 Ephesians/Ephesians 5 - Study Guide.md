@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 5
 slug: eph-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 5]] · My notes: [[Ephesians 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are exhorted to avoid uncleanness and walk uprightly—Husbands and wives should love each other.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 11]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-1|Ephesians 5:1]])
+- [[Philippians 3]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-1|Ephesians 5:1]])
+- [[Hebrews 8]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-2|Ephesians 5:2]])
+- [[Genesis 8]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-2|Ephesians 5:2]])
+- [[Leviticus 1]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-2|Ephesians 5:2]])
+- [[Ecclesiastes 5]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-4|Ephesians 5:4]])
 - [[Mark 10]] — 1 parallel verse, e.g. [[Ephesians 5#^eph-5-31|Ephesians 5:31]] ↔ [[Mark 10#^mark-10-7|Mark 10:7]]
 - [[Colossians 3]] — 2 parallel verses, e.g. [[Ephesians 5#^eph-5-19|Ephesians 5:19]] ↔ [[Colossians 3#^col-3-16|Colossians 3:16]]
 <!-- SG:END related-scriptures -->

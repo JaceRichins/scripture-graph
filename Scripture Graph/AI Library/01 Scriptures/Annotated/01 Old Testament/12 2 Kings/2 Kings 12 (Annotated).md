@@ -42,7 +42,7 @@ cssclasses:
 > [[2 Chronicles 34#^2chr-34-14|≈ 2 Chronicles 34:14]] · [[2 Chronicles 34#^2chr-34-9|≈ 2 Chronicles 34:9]]
 
 ![[2 Kings 12#^2kgs-12-10]]
-> [[2 Chronicles 24#^2chr-24-11|2 Chr. 24:11]] · [[2 Kings 22#^2kgs-22-9|≈ 2 Kings 22:9]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 18#^2kgs-18-15|≈ 2 Kings 18:15]] · [[2 Chronicles 34#^2chr-34-17|≈ 2 Chronicles 34:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]] · [[2 Chronicles 24#^2chr-24-11|≈ 2 Chronicles 24:11]]
+> [[2 Chronicles 24#^2chr-24-11|2 Chr. 24:11]] · [[2 Kings 22#^2kgs-22-9|≈ 2 Kings 22:9]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 18#^2kgs-18-15|≈ 2 Kings 18:15]] · [[2 Chronicles 24#^2chr-24-11|≈ 2 Chronicles 24:11]] · [[2 Chronicles 34#^2chr-34-17|≈ 2 Chronicles 34:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
 
 ![[2 Kings 12#^2kgs-12-11]]
 > [[2 Chronicles 34#^2chr-34-10|≈ 2 Chronicles 34:10]]
@@ -73,4 +73,4 @@ cssclasses:
 > [[2 Kings 14#^2kgs-14-5|2 Kgs. 14:5 (5–6)]] · [[2 Samuel 5#^2sam-5-9|2 Sam. 5:9]] · [[1 Kings 9#^1kgs-9-15|1 Kgs. 9:15 (15, 24)]] · [[1 Kings 11#^1kgs-11-27|11:27]] · [[2 Chronicles 32#^2chr-32-5|2 Chr. 32:5]]
 
 ![[2 Kings 12#^2kgs-12-21]]
-> [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 14#^2kgs-14-20|≈ 2 Kings 14:20]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[2 Chronicles 21#^2chr-21-1|≈ 2 Chronicles 21:1]]
+> [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 14#^2kgs-14-20|≈ 2 Kings 14:20]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[2 Chronicles 24#^2chr-24-25|≈ 2 Chronicles 24:25]]

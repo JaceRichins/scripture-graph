@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 117
 slug: ps-117
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 117]] · My notes: [[Psalm 117 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise the Lord for His mercy and truth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 84]] — 1 footnote cross-reference (from [[Psalm 117#^ps-117-2|Psalm 117:2]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Psalm 117#^ps-117-2|Psalm 117:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

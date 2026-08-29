@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 7
 slug: dan-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Daniel 7]] · My notes: [[Daniel 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Daniel sees four beasts representing the kingdoms of men—He sees the ancient of days (Adam) to whom the Son of Man (Christ) will come—The kingdom will be given to the Saints forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Daniel 2]] — 4 footnote cross-references (from [[Daniel 7#^dan-7-4|Daniel 7:4]])
+- [[Revelation 13]] — 3 footnote cross-references (from [[Daniel 7#^dan-7-3|Daniel 7:3]])
+- [[Daniel 8]] — 3 footnote cross-references (from [[Daniel 7#^dan-7-6|Daniel 7:6]])
+- [[Revelation 20]] — 3 footnote cross-references (from [[Daniel 7#^dan-7-10|Daniel 7:10]])
+- [[Revelation 11]] — 2 footnote cross-references (from [[Daniel 7#^dan-7-10|Daniel 7:10]])
+- [[Revelation 12]] — 2 footnote cross-references (from [[Daniel 7#^dan-7-21|Daniel 7:21]])
 - [[D&C 82]] — 3 parallel verses, e.g. [[Daniel 7#^dan-7-22|Daniel 7:22]] ↔ [[D&C 82#^dc-82-13|D&C 82:13]]
 - [[Daniel 6]] — 1 parallel verse, e.g. [[Daniel 7#^dan-7-14|Daniel 7:14]] ↔ [[Daniel 6#^dan-6-26|Daniel 6:26]]
 <!-- SG:END related-scriptures -->

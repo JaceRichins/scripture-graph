@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 8
 slug: moro-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Moroni 8]] · My notes: [[Moroni 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The baptism of little children is an evil abomination—Little children are alive in Christ because of the Atonement—Faith, repentance, meekness and lowliness of heart, receiving the Holy Ghost, and enduring to the end lead to salvation. About A.D. 401–21.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 3]] — 3 footnote cross-references (from [[Moroni 8#^moro-8-8|Moroni 8:8]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Moroni 8#^moro-8-8|Moroni 8:8]])
+- [[Mormon 9]] — 2 footnote cross-references (from [[Moroni 8#^moro-8-8|Moroni 8:8]])
+- [[D&C 38]] — 2 footnote cross-references (from [[Moroni 8#^moro-8-12|Moroni 8:12]])
+- [[Moroni 7]] — 2 footnote cross-references (from [[Moroni 8#^moro-8-14|Moroni 8:14]])
+- [[Words of Mormon 1]] — 1 footnote cross-reference (from [[Moroni 8#^moro-8-1|Moroni 8:1]])
 - [[Mormon 8]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-14|Moroni 8:14]] ↔ [[Mormon 8#^morm-8-31|Mormon 8:31]]
 - [[Moroni 3]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-3|Moroni 8:3]] ↔ [[Moroni 3#^moro-3-3|Moroni 3:3]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 121
 slug: ps-121
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 121]] · My notes: [[Psalm 121 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Help comes from the Lord—He is the guardian of Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 123]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-1|Psalm 121:1]])
+- [[Psalm 124]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-2|Psalm 121:2]])
+- [[Psalm 66]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-3|Psalm 121:3]])
+- [[Psalm 127]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-3|Psalm 121:3]])
+- [[Psalm 91]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-5|Psalm 121:5]])
+- [[Isaiah 49]] — 1 footnote cross-reference (from [[Psalm 121#^ps-121-6|Psalm 121:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

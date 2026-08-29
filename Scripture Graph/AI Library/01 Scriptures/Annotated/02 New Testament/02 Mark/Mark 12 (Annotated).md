@@ -13,6 +13,9 @@ cssclasses:
 
 [[Mark 12|Plain text]] · [[Mark 12 - Study Guide|Study guide]] · [[Mark 12 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus gives the parable of the wicked husbandmen—He speaks of paying taxes, celestial marriage, the two great commandments, the divine sonship of Christ, and the widow’s mites.
+
 ![[Mark 12#^mark-12-1]]
 > [[Matthew 21#^matt-21-33|≈ Matthew 21:33]] · [[Luke 20#^luke-20-9|≈ Luke 20:9]]
 
@@ -45,6 +48,7 @@ cssclasses:
 ![[Mark 12#^mark-12-12]]
 
 ![[Mark 12#^mark-12-13]]
+> [[Matthew 22#^matt-22-15|Matt. 22:15 (15–22)]] · [[Luke 11#^luke-11-53|Luke 11:54 (53–54)]] · [[Luke 20#^luke-20-19|20:20 (19–26)]]
 
 ![[Mark 12#^mark-12-14]]
 > [[Matthew 22#^matt-22-16|≈ Matthew 22:16]] · [[Luke 20#^luke-20-21|≈ Luke 20:21]]
@@ -61,7 +65,7 @@ cssclasses:
 ![[Mark 12#^mark-12-18]]
 
 ![[Mark 12#^mark-12-19]]
-> [[Matthew 22#^matt-22-24|≈ Matthew 22:24]] · [[Luke 20#^luke-20-28|≈ Luke 20:28]]
+> [[Deuteronomy 25#^deut-25-5|Deut. 25:5]] · [[Matthew 22#^matt-22-24|Matt. 22:24]] · [[Luke 20#^luke-20-28|Luke 20:28]] · [[Matthew 22#^matt-22-24|≈ Matthew 22:24]] · [[Luke 20#^luke-20-28|≈ Luke 20:28]]
 
 ![[Mark 12#^mark-12-20]]
 > [[Luke 20#^luke-20-29|≈ Luke 20:29]]
@@ -79,7 +83,7 @@ cssclasses:
 > [[Matthew 22#^matt-22-30|≈ Matthew 22:30]] · [[Luke 20#^luke-20-35|≈ Luke 20:35]] · [[D&C 132#^dc-132-16|≈ D&C 132:16]]
 
 ![[Mark 12#^mark-12-26]]
-> [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]]
+> [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]]
 
 ![[Mark 12#^mark-12-27]]
 > [[Matthew 22#^matt-22-32|≈ Matthew 22:32]]
@@ -87,10 +91,10 @@ cssclasses:
 ![[Mark 12#^mark-12-28]]
 
 ![[Mark 12#^mark-12-29]]
-> [[Deuteronomy 6#^deut-6-4|≈ Deuteronomy 6:4]]
+> [[Deuteronomy 6#^deut-6-4|Deut. 6:4]] · [[Deuteronomy 6#^deut-6-4|≈ Deuteronomy 6:4]]
 
 ![[Mark 12#^mark-12-30]]
-> [[Matthew 22#^matt-22-37|≈ Matthew 22:37]] · [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]] · [[Deuteronomy 4#^deut-4-29|≈ Deuteronomy 4:29]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Luke 10#^luke-10-27|≈ Luke 10:27]] · [[Deuteronomy 30#^deut-30-6|≈ Deuteronomy 30:6]]
+> [[Deuteronomy 6#^deut-6-5|Deut. 6:5]] · [[Matthew 22#^matt-22-37|≈ Matthew 22:37]] · [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]] · [[Deuteronomy 4#^deut-4-29|≈ Deuteronomy 4:29]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Luke 10#^luke-10-27|≈ Luke 10:27]] · [[Deuteronomy 30#^deut-30-6|≈ Deuteronomy 30:6]]
 
 ![[Mark 12#^mark-12-31]]
 > [[Matthew 22#^matt-22-39|≈ Matthew 22:39]]
@@ -98,17 +102,19 @@ cssclasses:
 ![[Mark 12#^mark-12-32]]
 
 ![[Mark 12#^mark-12-33]]
+> [[Matthew 22#^matt-22-15|Matt. 22:40 (15–40)]]
 
 ![[Mark 12#^mark-12-34]]
 
 ![[Mark 12#^mark-12-35]]
 
 ![[Mark 12#^mark-12-36]]
-> [[Matthew 22#^matt-22-44|≈ Matthew 22:44]] · [[Luke 20#^luke-20-42|≈ Luke 20:42]] · [[Luke 20#^luke-20-43|≈ Luke 20:43]]
+> [[Psalm 110#^ps-110-1|Ps. 110:1]] · [[Matthew 22#^matt-22-44|≈ Matthew 22:44]] · [[Luke 20#^luke-20-42|≈ Luke 20:42]] · [[Luke 20#^luke-20-43|≈ Luke 20:43]]
 
 ![[Mark 12#^mark-12-37]]
 
 ![[Mark 12#^mark-12-38]]
+> [[John 12#^john-12-42|John 12:43 (42–43)]]
 
 ![[Mark 12#^mark-12-39]]
 > [[Matthew 23#^matt-23-6|≈ Matthew 23:6]]
@@ -119,8 +125,10 @@ cssclasses:
 ![[Mark 12#^mark-12-41]]
 
 ![[Mark 12#^mark-12-42]]
+> [[Deuteronomy 16#^deut-16-17|Deut. 16:17]]
 
 ![[Mark 12#^mark-12-43]]
 > [[Matthew 21#^matt-21-31|≈ Matthew 21:31]] · [[Luke 21#^luke-21-3|≈ Luke 21:3]]
 
 ![[Mark 12#^mark-12-44]]
+> [[2 Corinthians 8#^2cor-8-2|2 Cor. 8:2 (2–12)]] · [[Mosiah 4#^mosiah-4-16|Mosiah 4:24 (16–27)]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 9
 slug: neh-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 9]] · My notes: [[Nehemiah 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews fast and confess their sins—The Levites bless and praise the Lord and recite His goodness toward Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Nehemiah 9#^neh-9-11|Nehemiah 9:11]])
+- [[Genesis 12]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-7|Nehemiah 9:7]])
+- [[Abraham 2]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-7|Nehemiah 9:7]])
+- [[1 Chronicles 16]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-8|Nehemiah 9:8]])
+- [[Helaman 8]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-9|Nehemiah 9:9]])
+- [[Mosiah 7]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-11|Nehemiah 9:11]])
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]] ↔ [[Ezekiel 20#^ezek-20-11|Ezekiel 20:11]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Nehemiah 9#^neh-9-8|Nehemiah 9:8]] ↔ [[Exodus 3#^ex-3-17|Exodus 3:17]]
 - [[Exodus 13]] — 2 parallel verses, e.g. [[Nehemiah 9#^neh-9-12|Nehemiah 9:12]] ↔ [[Exodus 13#^ex-13-21|Exodus 13:21]]

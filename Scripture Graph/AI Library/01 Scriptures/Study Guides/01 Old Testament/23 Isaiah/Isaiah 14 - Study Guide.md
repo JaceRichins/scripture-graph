@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 14]] · My notes: [[Isaiah 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Israel will be gathered and enjoy millennial rest—Lucifer was cast out of heaven for rebellion—Israel will triumph over Babylon (the world)—Compare 2 Nephi 24.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 13]] — 3 footnote cross-references (from [[Isaiah 14#^isa-14-26|Isaiah 14:26]])
+- [[2 Nephi 24]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-1|Isaiah 14:1]])
+- [[Psalm 102]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-1|Isaiah 14:1]])
+- [[Zechariah 1]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-1|Isaiah 14:1]])
+- [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-2|Isaiah 14:2]])
+- [[Ezekiel 39]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-2|Isaiah 14:2]])
 - [[2 Nephi 24]] — 32 parallel verses, e.g. [[Isaiah 14#^isa-14-9|Isaiah 14:9]] ↔ [[2 Nephi 24#^2ne-24-9|2 Nephi 24:9]]
 <!-- SG:END related-scriptures -->
 

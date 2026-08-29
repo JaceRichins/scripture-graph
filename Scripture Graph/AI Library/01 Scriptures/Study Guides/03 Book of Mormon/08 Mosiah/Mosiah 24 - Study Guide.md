@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 24
 slug: mosiah-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 24]] · My notes: [[Mosiah 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Amulon persecutes Alma and his people—They are to be put to death if they pray—The Lord makes their burdens seem light—He delivers them from bondage, and they return to Zarahemla. About 145–120 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 23]] — 7 footnote cross-references (from [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]])
+- [[Alma 21]] — 1 footnote cross-reference (from [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]])
+- [[Mosiah 9]] — 1 footnote cross-reference (from [[Mosiah 24#^mosiah-24-3|Mosiah 24:3]])
+- [[Mosiah 10]] — 1 footnote cross-reference (from [[Mosiah 24#^mosiah-24-3|Mosiah 24:3]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Mosiah 24#^mosiah-24-4|Mosiah 24:4]])
+- [[Mosiah 18]] — 1 footnote cross-reference (from [[Mosiah 24#^mosiah-24-4|Mosiah 24:4]])
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[Mosiah 24#^mosiah-24-13|Mosiah 24:13]] ↔ [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]]
 - [[Alma 27]] — 2 parallel verses, e.g. [[Mosiah 24#^mosiah-24-23|Mosiah 24:23]] ↔ [[Alma 27#^alma-27-12|Alma 27:12]]
 - [[Alma 23]] — 1 parallel verse, e.g. [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]] ↔ [[Alma 23#^alma-23-12|Alma 23:12]]

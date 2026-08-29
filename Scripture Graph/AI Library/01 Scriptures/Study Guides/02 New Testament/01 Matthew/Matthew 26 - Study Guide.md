@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 26]] · My notes: [[Matthew 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is anointed—He keeps the Passover and institutes the sacrament—He suffers in Gethsemane, is betrayed by Judas, and is taken before Caiaphas—Peter denies that he knows Jesus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 22]] — 5 footnote cross-references (from [[Matthew 26#^matt-26-4|Matthew 26:4]])
+- [[Mark 14]] — 4 footnote cross-references (from [[Matthew 26#^matt-26-4|Matthew 26:4]])
+- [[John 11]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-3|Matthew 26:3]])
+- [[Matthew 27]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-4|Matthew 26:4]])
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
+- [[Isaiah 50]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
 - [[Mark 14]] — 29 parallel verses, e.g. [[Matthew 26#^matt-26-31|Matthew 26:31]] ↔ [[Mark 14#^mark-14-27|Mark 14:27]]
 - [[Luke 22]] — 10 parallel verses, e.g. [[Matthew 26#^matt-26-75|Matthew 26:75]] ↔ [[Luke 22#^luke-22-61|Luke 22:61]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-59|Matthew 26:59]] ↔ [[Matthew 27#^matt-27-1|Matthew 27:1]]

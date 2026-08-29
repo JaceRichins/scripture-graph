@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 7
 slug: jer-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 7]] · My notes: [[Jeremiah 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> If the people of Judah repent, they will be preserved—The temple has become a den of robbers—The Lord rejects that generation of the people of Judah for their idolatries—They offer their children as sacrifices.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 18]] — 2 footnote cross-references (from [[Jeremiah 7#^jer-7-12|Jeremiah 7:12]])
+- [[Jeremiah 16]] — 2 footnote cross-references (from [[Jeremiah 7#^jer-7-26|Jeremiah 7:26]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]])
+- [[Jeremiah 22]] — 1 footnote cross-reference (from [[Jeremiah 7#^jer-7-6|Jeremiah 7:6]])
+- [[Jeremiah 5]] — 1 footnote cross-reference (from [[Jeremiah 7#^jer-7-8|Jeremiah 7:8]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Jeremiah 7#^jer-7-10|Jeremiah 7:10]])
 - [[Jeremiah 44]] — 16 parallel verses, e.g. [[Jeremiah 7#^jer-7-18|Jeremiah 7:18]] ↔ [[Jeremiah 44#^jer-44-18|Jeremiah 44:18]]
 - [[Jeremiah 32]] — 12 parallel verses, e.g. [[Jeremiah 7#^jer-7-31|Jeremiah 7:31]] ↔ [[Jeremiah 32#^jer-32-35|Jeremiah 32:35]]
 - [[Jeremiah 19]] — 10 parallel verses, e.g. [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 43
 slug: isa-43
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 43]] · My notes: [[Isaiah 43 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> To Israel the Lord says, I am your God; I will gather your descendants; beside me there is no Savior; you are my witnesses.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 41]] — 2 footnote cross-references (from [[Isaiah 43#^isa-43-5|Isaiah 43:5]])
+- [[Isaiah 42]] — 1 footnote cross-reference (from [[Isaiah 43#^isa-43-1|Isaiah 43:1]])
+- [[Psalm 66]] — 1 footnote cross-reference (from [[Isaiah 43#^isa-43-2|Isaiah 43:2]])
+- [[Daniel 3]] — 1 footnote cross-reference (from [[Isaiah 43#^isa-43-2|Isaiah 43:2]])
+- [[Psalm 91]] — 1 footnote cross-reference (from [[Isaiah 43#^isa-43-2|Isaiah 43:2]])
+- [[Isaiah 45]] — 1 footnote cross-reference (from [[Isaiah 43#^isa-43-3|Isaiah 43:3]])
 - [[D&C 132]] — 4 parallel verses, e.g. [[Isaiah 43#^isa-43-3|Isaiah 43:3]] ↔ [[D&C 132#^dc-132-49|D&C 132:49]]
 - [[Job 10]] — 1 parallel verse, e.g. [[Isaiah 43#^isa-43-13|Isaiah 43:13]] ↔ [[Job 10#^job-10-7|Job 10:7]]
 - [[Deuteronomy 32]] — 1 parallel verse, e.g. [[Isaiah 43#^isa-43-13|Isaiah 43:13]] ↔ [[Deuteronomy 32#^deut-32-39|Deuteronomy 32:39]]

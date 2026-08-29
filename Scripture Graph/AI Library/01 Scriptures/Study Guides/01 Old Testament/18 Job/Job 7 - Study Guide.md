@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 7
 slug: job-7
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 7]] · My notes: [[Job 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job asks, Is there an appointed time for man on earth? What is man that Thou shouldst magnify him? Why dost Thou not pardon my transgression?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 12]] — 1 footnote cross-reference (from [[Job 7#^job-7-1|Job 7:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Job 7#^job-7-1|Job 7:1]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Job 7#^job-7-1|Job 7:1]])
+- [[Job 14]] — 1 footnote cross-reference (from [[Job 7#^job-7-1|Job 7:1]])
+- [[Job 8]] — 1 footnote cross-reference (from [[Job 7#^job-7-6|Job 7:6]])
+- [[Job 10]] — 1 footnote cross-reference (from [[Job 7#^job-7-6|Job 7:6]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

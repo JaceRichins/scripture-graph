@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 14
 slug: 3ne-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 14]] · My notes: [[3 Nephi 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus commands: Judge not; ask of God; beware of false prophets—He promises salvation to those who do the will of the Father—Compare Matthew 7. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 7]] — 5 footnote cross-references (from [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]])
+- [[Alma 5]] — 3 footnote cross-references (from [[3 Nephi 14#^3ne-14-17|3 Nephi 14:17]])
+- [[3 Nephi 27]] — 2 footnote cross-references (from [[3 Nephi 14#^3ne-14-7|3 Nephi 14:7]])
+- [[Luke 13]] — 2 footnote cross-references (from [[3 Nephi 14#^3ne-14-13|3 Nephi 14:13]])
+- [[Mormon 8]] — 1 footnote cross-reference (from [[3 Nephi 14#^3ne-14-2|3 Nephi 14:2]])
+- [[John 8]] — 1 footnote cross-reference (from [[3 Nephi 14#^3ne-14-5|3 Nephi 14:5]])
 - [[Matthew 7]] — 31 parallel verses, e.g. [[3 Nephi 14#^3ne-14-22|3 Nephi 14:22]] ↔ [[Matthew 7#^matt-7-22|Matthew 7:22]]
 - [[Luke 6]] — 8 parallel verses, e.g. [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]] ↔ [[Luke 6#^luke-6-41|Luke 6:41]]
 - [[Luke 11]] — 4 parallel verses, e.g. [[3 Nephi 14#^3ne-14-8|3 Nephi 14:8]] ↔ [[Luke 11#^luke-11-10|Luke 11:10]]

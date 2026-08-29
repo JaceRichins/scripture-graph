@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 13]] · My notes: [[Acts 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul and Barnabas are called to missionary service—Saul, now called Paul, curses a sorcerer—Christ is a descendant of David—Paul offers the gospel to Israel, then to the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -50,6 +51,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 2]] — 2 footnote cross-references (from [[Acts 13#^acts-13-37|Acts 13:37]])
+- [[Acts 11]] — 1 footnote cross-reference (from [[Acts 13#^acts-13-1|Acts 13:1]])
+- [[Luke 5]] — 1 footnote cross-reference (from [[Acts 13#^acts-13-2|Acts 13:2]])
+- [[1 John 3]] — 1 footnote cross-reference (from [[Acts 13#^acts-13-10|Acts 13:10]])
+- [[Alma 11]] — 1 footnote cross-reference (from [[Acts 13#^acts-13-10|Acts 13:10]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Acts 13#^acts-13-11|Acts 13:11]])
 - [[Psalm 2]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Psalm 2#^ps-2-7|Psalm 2:7]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]
 - [[Luke 4]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-14|Acts 13:14]] ↔ [[Luke 4#^luke-4-16|Luke 4:16]]

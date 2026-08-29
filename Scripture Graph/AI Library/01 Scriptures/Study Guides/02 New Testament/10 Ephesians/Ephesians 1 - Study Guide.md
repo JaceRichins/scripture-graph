@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 1
 slug: eph-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 1]] · My notes: [[Ephesians 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Saints are foreordained to receive the gospel—The gospel is to be restored in the latter days—The Saints are sealed by the Holy Spirit of Promise—They know God and Christ by revelation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ephesians 3]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-9|Ephesians 1:9]])
+- [[D&C 107]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-9|Ephesians 1:9]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-13|Ephesians 1:13]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-15|Ephesians 1:15]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-18|Ephesians 1:18]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-18|Ephesians 1:18]])
 - [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Colossians 1]] — 3 parallel verses, e.g. [[Ephesians 1#^eph-1-1|Ephesians 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]

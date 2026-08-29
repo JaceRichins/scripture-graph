@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 25
 slug: lev-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 25]] · My notes: [[Leviticus 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Each seventh year is to be kept as a sabbath year—Each fiftieth year is to be one of jubilee, in which liberty is proclaimed throughout the land—Laws are revealed for the sale and redemption of lands, houses, and servants—The land is the Lord’s, as are the servants—Usury is forbidden.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Numbers 36]] — 2 footnote cross-references (from [[Leviticus 25#^lev-25-11|Leviticus 25:11]])
+- [[Mosiah 1]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-18|Leviticus 25:18]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-18|Leviticus 25:18]])
+- [[Alma 50]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-18|Leviticus 25:18]])
+- [[1 Nephi 3]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-21|Leviticus 25:21]])
+- [[Ruth 4]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-25|Leviticus 25:25]])
 - [[Leviticus 26]] — 5 parallel verses, e.g. [[Leviticus 25#^lev-25-38|Leviticus 25:38]] ↔ [[Leviticus 26#^lev-26-13|Leviticus 26:13]]
 - [[Numbers 15]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 15#^num-15-18|Numbers 15:18]]
 - [[Leviticus 23]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]

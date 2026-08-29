@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 21
 slug: num-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 21]] · My notes: [[Numbers 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel destroy those Canaanites who fight against them—The Israelites are plagued with fiery serpents—Moses lifts up a serpent of brass to save those who look thereon—Israel defeats the Amorites, destroys the people of Bashan, and occupies their lands.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Numbers 21#^num-21-3|Numbers 21:3]])
+- [[Judges 11]] — 3 footnote cross-references (from [[Numbers 21#^num-21-13|Numbers 21:13]])
+- [[Deuteronomy 3]] — 3 footnote cross-references (from [[Numbers 21#^num-21-24|Numbers 21:24]])
+- [[Numbers 33]] — 2 footnote cross-references (from [[Numbers 21#^num-21-1|Numbers 21:1]])
+- [[Joshua 12]] — 2 footnote cross-references (from [[Numbers 21#^num-21-3|Numbers 21:3]])
+- [[Isaiah 16]] — 2 footnote cross-references (from [[Numbers 21#^num-21-13|Numbers 21:13]])
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Numbers 21#^num-21-34|Numbers 21:34]] ↔ [[Deuteronomy 3#^deut-3-2|Deuteronomy 3:2]]
 - [[Judges 11]] — 4 parallel verses, e.g. [[Numbers 21#^num-21-2|Numbers 21:2]] ↔ [[Judges 11#^judg-11-30|Judges 11:30]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Numbers 21#^num-21-24|Numbers 21:24]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]

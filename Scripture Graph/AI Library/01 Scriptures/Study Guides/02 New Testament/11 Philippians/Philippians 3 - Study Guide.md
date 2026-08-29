@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 3
 slug: philip-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Philippians 3]] · My notes: [[Philippians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul sacrifices all things for Christ—True ministers set examples of righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[2 Corinthians 11]] — 2 footnote cross-references (from [[Philippians 3#^philip-3-5|Philippians 3:5]])
+- [[1 Corinthians 15]] — 2 footnote cross-references (from [[Philippians 3#^philip-3-21|Philippians 3:21]])
+- [[Acts 23]] — 1 footnote cross-reference (from [[Philippians 3#^philip-3-5|Philippians 3:5]])
+- [[Omni 1]] — 1 footnote cross-reference (from [[Philippians 3#^philip-3-8|Philippians 3:8]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Philippians 3#^philip-3-8|Philippians 3:8]])
+- [[2 Corinthians 1]] — 1 footnote cross-reference (from [[Philippians 3#^philip-3-10|Philippians 3:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

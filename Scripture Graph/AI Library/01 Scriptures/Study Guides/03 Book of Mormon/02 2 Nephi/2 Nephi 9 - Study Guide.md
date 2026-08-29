@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 9
 slug: 2ne-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 9]] · My notes: [[2 Nephi 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob explains that the Jews will be gathered in all their lands of promise—The Atonement ransoms man from the Fall—The bodies of the dead will come forth from the grave, and their spirits from hell and from paradise—They will be judged—The Atonement saves from death, hell, the devil, and endless torment—The righteous are to be saved in the kingdom of God—Penalties for sins are set forth—The Holy One of Israel is the keeper of the gate. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 42]] — 6 footnote cross-references (from [[2 Nephi 9#^2ne-9-4|2 Nephi 9:4]])
+- [[2 Nephi 28]] — 6 footnote cross-references (from [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]])
+- [[Alma 11]] — 5 footnote cross-references (from [[2 Nephi 9#^2ne-9-4|2 Nephi 9:4]])
+- [[2 Nephi 2]] — 4 footnote cross-references (from [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]])
+- [[D&C 76]] — 4 footnote cross-references (from [[2 Nephi 9#^2ne-9-12|2 Nephi 9:12]])
+- [[Mormon 9]] — 3 footnote cross-references (from [[2 Nephi 9#^2ne-9-4|2 Nephi 9:4]])
 - [[Isaiah 55]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]] ↔ [[Isaiah 55#^isa-55-1|Isaiah 55:1]]
 - [[2 Nephi 28]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]] ↔ [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]]
 - [[Alma 12]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 12#^alma-12-17|Alma 12:17]]

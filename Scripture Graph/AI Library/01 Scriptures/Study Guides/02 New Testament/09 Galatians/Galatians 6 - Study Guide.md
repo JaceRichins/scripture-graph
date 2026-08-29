@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Galatians 6]] · My notes: [[Galatians 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Romans 14]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-1|Galatians 6:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-1|Galatians 6:1]])
+- [[Hebrews 12]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-1|Galatians 6:1]])
+- [[Proverbs 9]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-5|Galatians 6:5]])
+- [[Ezekiel 32]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-7|Galatians 6:7]])
+- [[Psalm 7]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-7|Galatians 6:7]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]

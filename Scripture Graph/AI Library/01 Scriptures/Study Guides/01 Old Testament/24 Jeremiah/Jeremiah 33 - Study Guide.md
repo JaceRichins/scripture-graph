@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 33
 slug: jer-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 33]] · My notes: [[Jeremiah 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah and Israel will be gathered—The Branch of Righteousness (the Messiah) is promised—The Seed of David (the Messiah) will reign forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Jeremiah 33#^jer-33-7|Jeremiah 33:7]])
+- [[Jeremiah 49]] — 1 footnote cross-reference (from [[Jeremiah 33#^jer-33-9|Jeremiah 33:9]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Jeremiah 33#^jer-33-12|Jeremiah 33:12]])
+- [[Jeremiah 29]] — 1 footnote cross-reference (from [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]])
+- [[Genesis 8]] — 1 footnote cross-reference (from [[Jeremiah 33#^jer-33-20|Jeremiah 33:20]])
 - [[Jeremiah 32]] — 6 parallel verses, e.g. [[Jeremiah 33#^jer-33-13|Jeremiah 33:13]] ↔ [[Jeremiah 32#^jer-32-44|Jeremiah 32:44]]
 - [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 33#^jer-33-10|Jeremiah 33:10]] ↔ [[Jeremiah 44#^jer-44-6|Jeremiah 44:6]]
 - [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 33#^jer-33-11|Jeremiah 33:11]] ↔ [[Jeremiah 7#^jer-7-34|Jeremiah 7:34]]

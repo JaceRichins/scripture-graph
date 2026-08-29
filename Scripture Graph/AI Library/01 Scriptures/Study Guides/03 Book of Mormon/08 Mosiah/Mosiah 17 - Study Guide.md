@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 17]] · My notes: [[Mosiah 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma believes and writes the words of Abinadi—Abinadi suffers death by fire—He prophesies disease and death by fire upon his murderers. About 148 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 25]] — 5 footnote cross-references (from [[Mosiah 17#^mosiah-17-13|Mosiah 17:13]])
+- [[Mosiah 7]] — 3 footnote cross-references (from [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]])
+- [[Mosiah 13]] — 3 footnote cross-references (from [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]])
+- [[Jeremiah 26]] — 2 footnote cross-references (from [[Mosiah 17#^mosiah-17-1|Mosiah 17:1]])
+- [[Mosiah 11]] — 2 footnote cross-references (from [[Mosiah 17#^mosiah-17-6|Mosiah 17:6]])
+- [[Alma 14]] — 2 footnote cross-references (from [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]])
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]]
 - [[Alma 39]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]] ↔ [[Alma 39#^alma-39-8|Alma 39:8]]
 <!-- SG:END related-scriptures -->

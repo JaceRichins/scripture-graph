@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 61
 slug: alma-61
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 61]] · My notes: [[Alma 61 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Pahoran tells Moroni of the insurrection and rebellion against the government—The king-men take Zarahemla and are in league with the Lamanites—Pahoran asks for military aid against the rebels. About 62 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 60]] — 4 footnote cross-references (from [[Alma 61#^alma-61-2|Alma 61:2]])
+- [[Alma 62]] — 3 footnote cross-references (from [[Alma 61#^alma-61-4|Alma 61:4]])
+- [[Alma 58]] — 2 footnote cross-references (from [[Alma 61#^alma-61-3|Alma 61:3]])
+- [[Alma 51]] — 2 footnote cross-references (from [[Alma 61#^alma-61-3|Alma 61:3]])
+- [[Alma 50]] — 1 footnote cross-reference (from [[Alma 61#^alma-61-1|Alma 61:1]])
+- [[Alma 59]] — 1 footnote cross-reference (from [[Alma 61#^alma-61-3|Alma 61:3]])
 - [[Alma 60]] — 2 parallel verses, e.g. [[Alma 61#^alma-61-18|Alma 61:18]] ↔ [[Alma 60#^alma-60-16|Alma 60:16]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Alma 61#^alma-61-18|Alma 61:18]] ↔ [[Alma 46#^alma-46-20|Alma 46:20]]
 <!-- SG:END related-scriptures -->

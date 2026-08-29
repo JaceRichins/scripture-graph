@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 2
 slug: prov-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 2]] · My notes: [[Proverbs 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord gives wisdom, knowledge, and understanding—Walk in the way of good men.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 4]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-1|Proverbs 2:1]])
+- [[2 Nephi 16]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-2|Proverbs 2:2]])
+- [[3 Nephi 19]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-2|Proverbs 2:2]])
+- [[Alma 36]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-5|Proverbs 2:5]])
+- [[Psalm 91]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-7|Proverbs 2:7]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-9|Proverbs 2:9]])
 - [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 2#^prov-2-16|Proverbs 2:16]] ↔ [[Proverbs 7#^prov-7-5|Proverbs 7:5]]
 <!-- SG:END related-scriptures -->
 

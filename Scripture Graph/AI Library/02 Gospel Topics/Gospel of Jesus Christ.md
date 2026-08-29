@@ -39,11 +39,11 @@ _Not yet developed._
 - [[D&C 138]] *(keyword match)*
 - [[Romans 1]]
 - [[3 Nephi 27]]
+- [[Official Declaration 2]] *(keyword match)*
 - [[Romans 15]] *(keyword match)*
 - [[D&C 18]] *(keyword match)*
 - [[D&C 35]] *(keyword match)*
 - [[D&C 27]] *(keyword match)*
-- [[D&C 10]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

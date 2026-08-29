@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 42
 slug: job-42
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 42]] · My notes: [[Job 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Job repents in dust and ashes—He sees the Lord with his eyes—The Lord chastises Job’s friends, accepts Job, blesses him, and makes his latter days greater than his beginning.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 19]] — 1 footnote cross-reference (from [[Job 42#^job-42-2|Job 42:2]])
+- [[Psalm 139]] — 1 footnote cross-reference (from [[Job 42#^job-42-3|Job 42:3]])
+- [[Job 2]] — 1 footnote cross-reference (from [[Job 42#^job-42-6|Job 42:6]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Job 42#^job-42-6|Job 42:6]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Job 42#^job-42-8|Job 42:8]])
+- [[Genesis 20]] — 1 footnote cross-reference (from [[Job 42#^job-42-8|Job 42:8]])
 - [[Job 40]] — 2 parallel verses, e.g. [[Job 42#^job-42-4|Job 42:4]] ↔ [[Job 40#^job-40-7|Job 40:7]]
 - [[Job 2]] — 1 parallel verse, e.g. [[Job 42#^job-42-9|Job 42:9]] ↔ [[Job 2#^job-2-11|Job 2:11]]
 <!-- SG:END related-scriptures -->

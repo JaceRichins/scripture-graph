@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 27
 slug: 2chr-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 27]] · My notes: [[2 Chronicles 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jotham reigns, builds up the kingdom, and subdues the Ammonites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 2]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]])
+- [[2 Kings 15]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-3|2 Chronicles 27:3]])
+- [[Ezekiel 9]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-3|2 Chronicles 27:3]])
 - [[2 Kings 15]] — 12 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[2 Chronicles 36]] — 9 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
 - [[2 Kings 23]] — 6 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]

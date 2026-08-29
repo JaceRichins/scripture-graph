@@ -13,6 +13,9 @@ cssclasses:
 
 [[Job 28|Plain text]] · [[Job 28 - Study Guide|Study guide]] · [[Job 28 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Wealth comes out of the earth—Wisdom cannot be purchased—The fear of the Lord is wisdom, and to depart from evil is understanding.
+
 ![[Job 28#^job-28-1]]
 
 ![[Job 28#^job-28-2]]
@@ -44,10 +47,12 @@ cssclasses:
 ![[Job 28#^job-28-15]]
 
 ![[Job 28#^job-28-16]]
+> [[Isaiah 13#^isa-13-12|Isa. 13:12]] · [[1 Kings 9#^1kgs-9-28|1 Kgs. 9:28]]
 
 ![[Job 28#^job-28-17]]
 
 ![[Job 28#^job-28-18]]
+> [[Proverbs 8#^prov-8-10|Prov. 8:11 (10–11)]] · [[Proverbs 20#^prov-20-15|20:15]]
 
 ![[Job 28#^job-28-19]]
 

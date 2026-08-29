@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 2
 slug: titus-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Titus 2]] · My notes: [[Titus 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saints should live righteously, deny ungodliness, and seek the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Timothy 6]] — 2 footnote cross-references (from [[Titus 2#^titus-2-8|Titus 2:8]])
+- [[1 Peter 2]] — 2 footnote cross-references (from [[Titus 2#^titus-2-8|Titus 2:8]])
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[Titus 2#^titus-2-1|Titus 2:1]])
+- [[1 Peter 4]] — 1 footnote cross-reference (from [[Titus 2#^titus-2-1|Titus 2:1]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Titus 2#^titus-2-1|Titus 2:1]])
+- [[1 Timothy 5]] — 1 footnote cross-reference (from [[Titus 2#^titus-2-5|Titus 2:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

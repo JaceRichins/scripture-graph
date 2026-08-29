@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 3
 slug: josh-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Joshua 3]] · My notes: [[Joshua 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joshua leads Israel to the Jordan—The Lord cuts off the water of the Jordan; it stands up as a heap, and Israel passes over on dry ground.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 16]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-4|Joshua 3:4]])
+- [[Exodus 19]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-5|Joshua 3:5]])
+- [[Joshua 7]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-5|Joshua 3:5]])
+- [[D&C 43]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-5|Joshua 3:5]])
+- [[Joshua 4]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-7|Joshua 3:7]])
+- [[1 Chronicles 29]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-7|Joshua 3:7]])
 - [[Joshua 4]] — 10 parallel verses, e.g. [[Joshua 3#^josh-3-17|Joshua 3:17]] ↔ [[Joshua 4#^josh-4-18|Joshua 4:18]]
 - [[1 Chronicles 15]] — 12 parallel verses, e.g. [[Joshua 3#^josh-3-17|Joshua 3:17]] ↔ [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]]
 - [[Deuteronomy 31]] — 9 parallel verses, e.g. [[Joshua 3#^josh-3-3|Joshua 3:3]] ↔ [[Deuteronomy 31#^deut-31-26|Deuteronomy 31:26]]

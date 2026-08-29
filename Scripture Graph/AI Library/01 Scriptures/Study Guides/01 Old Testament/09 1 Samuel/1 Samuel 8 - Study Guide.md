@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 8
 slug: 1sam-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 8]] · My notes: [[1 Samuel 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Samuel’s sons take bribes and pervert judgment—The Israelites seek for a king to rule over them—Samuel rehearses the nature and evils of kingly rule—The Lord consents to give them a king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 29]] — 3 footnote cross-references (from [[1 Samuel 8#^1sam-8-5|1 Samuel 8:5]])
+- [[Hosea 13]] — 2 footnote cross-references (from [[1 Samuel 8#^1sam-8-5|1 Samuel 8:5]])
+- [[D&C 38]] — 2 footnote cross-references (from [[1 Samuel 8#^1sam-8-5|1 Samuel 8:5]])
+- [[1 Chronicles 6]] — 1 footnote cross-reference (from [[1 Samuel 8#^1sam-8-1|1 Samuel 8:1]])
+- [[Exodus 18]] — 1 footnote cross-reference (from [[1 Samuel 8#^1sam-8-3|1 Samuel 8:3]])
+- [[Helaman 9]] — 1 footnote cross-reference (from [[1 Samuel 8#^1sam-8-3|1 Samuel 8:3]])
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[1 Samuel 8#^1sam-8-8|1 Samuel 8:8]] ↔ [[Jeremiah 11#^jer-11-7|Jeremiah 11:7]]
+- [[1 Chronicles 6]] — 0 parallel verses
+- [[Deuteronomy 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

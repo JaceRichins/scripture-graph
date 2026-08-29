@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 19
 slug: ps-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 19]] · My notes: [[Psalm 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David testifies, The heavens declare the glory of God, the law of the Lord is perfect, and the judgments of the Lord are true and righteous altogether.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 14]] — 2 parallel verses, e.g. [[Psalm 19#^ps-19-9|Psalm 19:9]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
+- [[Psalm 119]] — 3 footnote cross-references (from [[Psalm 19#^ps-19-10|Psalm 19:10]])
+- [[Psalm 50]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-1|Psalm 19:1]])
+- [[D&C 104]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-1|Psalm 19:1]])
+- [[Romans 10]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
+- [[2 Nephi 31]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

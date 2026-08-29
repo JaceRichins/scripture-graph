@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 21]] · My notes: [[Mosiah 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Limhi’s people are smitten and defeated by the Lamanites—Limhi’s people meet Ammon and are converted—They tell Ammon of the twenty-four Jaredite plates. About 122–121 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 7]] — 7 footnote cross-references (from [[Mosiah 21#^mosiah-21-21|Mosiah 21:21]])
+- [[Mosiah 8]] — 4 footnote cross-references (from [[Mosiah 21#^mosiah-21-25|Mosiah 21:25]])
+- [[Mosiah 19]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-3|Mosiah 21:3]])
+- [[Mosiah 20]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-3|Mosiah 21:3]])
+- [[Mosiah 12]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-3|Mosiah 21:3]])
+- [[Mosiah 18]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]])
 - [[Mosiah 8]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]]
 - [[Mosiah 23]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
 - [[4 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]

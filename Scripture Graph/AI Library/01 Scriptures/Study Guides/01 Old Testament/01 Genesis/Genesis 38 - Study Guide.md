@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 38
 slug: gen-38
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 38]] · My notes: [[Genesis 38 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah has three sons by a Canaanite woman—Er and Onan are slain by the Lord—Tamar, disguised as a harlot, bears twins by Judah.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 46]] — 2 footnote cross-references (from [[Genesis 38#^gen-38-7|Genesis 38:7]])
+- [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Genesis 38#^gen-38-3|Genesis 38:3]])
+- [[Leviticus 21]] — 1 footnote cross-reference (from [[Genesis 38#^gen-38-24|Genesis 38:24]])
+- [[Ruth 4]] — 1 footnote cross-reference (from [[Genesis 38#^gen-38-29|Genesis 38:29]])
+- [[Luke 3]] — 1 footnote cross-reference (from [[Genesis 38#^gen-38-29|Genesis 38:29]])
+- [[Nehemiah 11]] — 1 footnote cross-reference (from [[Genesis 38#^gen-38-30|Genesis 38:30]])
 - [[Genesis 29]] — 4 parallel verses, e.g. [[Genesis 38#^gen-38-4|Genesis 38:4]] ↔ [[Genesis 29#^gen-29-33|Genesis 29:33]]
 - [[1 Chronicles 7]] — 2 parallel verses, e.g. [[Genesis 38#^gen-38-3|Genesis 38:3]] ↔ [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]]
 - [[Moses 6]] — 2 parallel verses, e.g. [[Genesis 38#^gen-38-3|Genesis 38:3]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]

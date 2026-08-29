@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 23
 slug: alma-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 23]] · My notes: [[Alma 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Religious freedom is proclaimed—The Lamanites in seven lands and cities are converted—They call themselves Anti-Nephi-Lehies and are freed from the curse—The Amalekites and the Amulonites reject the truth. About 90–77 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 26]] — 4 footnote cross-references (from [[Alma 23#^alma-23-2|Alma 23:2]])
+- [[Alma 24]] — 3 footnote cross-references (from [[Alma 23#^alma-23-14|Alma 23:14]])
+- [[Alma 22]] — 2 footnote cross-references (from [[Alma 23#^alma-23-1|Alma 23:1]])
+- [[Alma 21]] — 2 footnote cross-references (from [[Alma 23#^alma-23-2|Alma 23:2]])
+- [[Helaman 3]] — 1 footnote cross-reference (from [[Alma 23#^alma-23-2|Alma 23:2]])
+- [[Genesis 18]] — 1 footnote cross-reference (from [[Alma 23#^alma-23-3|Alma 23:3]])
 - [[Helaman 5]] — 5 parallel verses, e.g. [[Alma 23#^alma-23-9|Alma 23:9]] ↔ [[Helaman 5#^hel-5-19|Helaman 5:19]]
 - [[Alma 47]] — 5 parallel verses, e.g. [[Alma 23#^alma-23-1|Alma 23:1]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
 - [[Alma 24]] — 4 parallel verses, e.g. [[Alma 23#^alma-23-12|Alma 23:12]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]

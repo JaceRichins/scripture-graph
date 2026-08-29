@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 6
 slug: lev-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 6]] · My notes: [[Leviticus 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people must first make restitution for sin, then offer a trespass offering, and thereby gain forgiveness through atonement made by the priests.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Leviticus 6#^lev-6-10|Leviticus 6:10]])
+- [[Numbers 18]] — 2 footnote cross-references (from [[Leviticus 6#^lev-6-16|Leviticus 6:16]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Leviticus 6#^lev-6-4|Leviticus 6:4]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[Leviticus 6#^lev-6-4|Leviticus 6:4]])
+- [[2 Nephi 25]] — 1 footnote cross-reference (from [[Leviticus 6#^lev-6-9|Leviticus 6:9]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Leviticus 6#^lev-6-10|Leviticus 6:10]])
 - [[Leviticus 5]] — 10 parallel verses, e.g. [[Leviticus 6#^lev-6-6|Leviticus 6:6]] ↔ [[Leviticus 5#^lev-5-18|Leviticus 5:18]]
 - [[Leviticus 4]] — 7 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 4#^lev-4-26|Leviticus 4:26]]
 - [[Leviticus 14]] — 5 parallel verses, e.g. [[Leviticus 6#^lev-6-7|Leviticus 6:7]] ↔ [[Leviticus 14#^lev-14-18|Leviticus 14:18]]

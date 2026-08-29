@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 10
 slug: 2ne-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 10]] · My notes: [[2 Nephi 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob explains that the Jews will crucify their God—They will be scattered until they begin to believe in Him—America will be a land of liberty where no king will rule—Reconcile yourselves to God and gain salvation through His grace. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 22]] — 8 footnote cross-references (from [[2 Nephi 10#^2ne-10-2|2 Nephi 10:2]])
+- [[1 Nephi 13]] — 4 footnote cross-references (from [[2 Nephi 10#^2ne-10-12|2 Nephi 10:12]])
+- [[3 Nephi 21]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-2|2 Nephi 10:2]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
+- [[1 Nephi 19]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
+- [[2 Nephi 6]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-9|2 Nephi 10:9]])
 - [[2 Nephi 29]] — 3 parallel verses, e.g. [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
 - [[D&C 110]] — 1 parallel verse, e.g. [[2 Nephi 10#^2ne-10-8|2 Nephi 10:8]] ↔ [[D&C 110#^dc-110-11|D&C 110:11]]
 <!-- SG:END related-scriptures -->

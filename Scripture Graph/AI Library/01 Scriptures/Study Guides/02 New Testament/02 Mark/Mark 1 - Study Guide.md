@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 1
 slug: mark-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 1]] · My notes: [[Mark 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus is baptized by John—He preaches the gospel, calls disciples, casts out devils, heals the sick, and cleanses a leper.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Malachi 3]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-2|Mark 1:2]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-2|Mark 1:2]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
+- [[Luke 3]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
+- [[John 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
+- [[2 Kings 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-6|Mark 1:6]])
 - [[Luke 4]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-24|Mark 1:24]] ↔ [[Luke 4#^luke-4-34|Luke 4:34]]
 - [[Luke 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
 - [[Matthew 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]

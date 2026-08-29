@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 9
 slug: ps-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 9]] · My notes: [[Psalm 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—He praises the Lord for rebuking the nations—The Lord will judge the world in righteousness—He will dwell in Zion—The wicked will be sent to hell.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 31]] — 2 parallel verses, e.g. [[Psalm 9#^ps-9-2|Psalm 9:2]] ↔ [[Psalm 31#^ps-31-7|Psalm 31:7]]
+- [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-1|Psalm 9:1]])
+- [[Psalm 26]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-1|Psalm 9:1]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-1|Psalm 9:1]])
+- [[Deuteronomy 9]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-5|Psalm 9:5]])
+- [[Mosiah 26]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-5|Psalm 9:5]])
+- [[Acts 4]] — 1 footnote cross-reference (from [[Psalm 9#^ps-9-10|Psalm 9:10]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

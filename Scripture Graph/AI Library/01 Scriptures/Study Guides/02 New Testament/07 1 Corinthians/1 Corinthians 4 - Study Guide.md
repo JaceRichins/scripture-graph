@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 4
 slug: 1cor-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 4]] · My notes: [[1 Corinthians 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ’s ministers must be faithful—The Apostles suffer, minister, and keep the faith—The kingdom of God is not in word but in power.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 38]] — 2 footnote cross-references (from [[1 Corinthians 4#^1cor-4-6|1 Corinthians 4:6]])
+- [[D&C 42]] — 2 footnote cross-references (from [[1 Corinthians 4#^1cor-4-9|1 Corinthians 4:9]])
+- [[D&C 123]] — 1 footnote cross-reference (from [[1 Corinthians 4#^1cor-4-5|1 Corinthians 4:5]])
+- [[Romans 2]] — 1 footnote cross-reference (from [[1 Corinthians 4#^1cor-4-5|1 Corinthians 4:5]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[1 Corinthians 4#^1cor-4-7|1 Corinthians 4:7]])
+- [[Romans 1]] — 1 footnote cross-reference (from [[1 Corinthians 4#^1cor-4-9|1 Corinthians 4:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

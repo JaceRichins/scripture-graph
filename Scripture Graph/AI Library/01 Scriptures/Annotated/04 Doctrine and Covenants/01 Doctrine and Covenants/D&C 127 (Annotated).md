@@ -38,4 +38,4 @@ cssclasses:
 ![[D&C 127#^dc-127-11]]
 
 ![[D&C 127#^dc-127-12]]
-> [[D&C 128#^dc-128-21|≈ D&C 128:21]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]] · [[D&C 115#^dc-115-4|≈ D&C 115:4]] · [[D&C 115#^dc-115-3|≈ D&C 115:3]]
+> [[D&C 128#^dc-128-21|≈ D&C 128:21]] · [[D&C 136#^dc-136-2|≈ D&C 136:2]] · [[Joseph Smith—History 1#^jsh-1-1|≈ Joseph Smith—History 1:1]] · [[Official Declaration 1#^od-1-3|≈ Official Declaration 1:3]] · [[Official Declaration 1#^od-1-7|≈ Official Declaration 1:7]] · [[Official Declaration 1#^od-1-9|≈ Official Declaration 1:9]]

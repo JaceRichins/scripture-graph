@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 4
 slug: heb-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 4]] · My notes: [[Hebrews 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel was offered to ancient Israel—Saints enter into the rest of the Lord—Though tempted in all points, Jesus was without sin.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 6]] — 2 footnote cross-references (from [[Hebrews 4#^heb-4-12|Hebrews 4:12]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-3|Hebrews 4:3]])
+- [[Psalm 95]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-7|Hebrews 4:7]])
+- [[Exodus 17]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-8|Hebrews 4:8]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-8|Hebrews 4:8]])
+- [[Alma 31]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-12|Hebrews 4:12]])
 - [[Hebrews 3]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Hebrews 3#^heb-3-15|Hebrews 3:15]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-12|Hebrews 4:12]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]

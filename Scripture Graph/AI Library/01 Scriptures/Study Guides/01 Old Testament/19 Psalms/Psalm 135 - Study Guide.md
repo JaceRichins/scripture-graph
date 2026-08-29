@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 135
 slug: ps-135
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 135]] · My notes: [[Psalm 135 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise and bless the Lord—Our Lord is above all gods; idols cannot see, hear, or speak.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 136]] — 3 footnote cross-references (from [[Psalm 135#^ps-135-11|Psalm 135:11]])
+- [[Numbers 21]] — 2 footnote cross-references (from [[Psalm 135#^ps-135-11|Psalm 135:11]])
+- [[Genesis 32]] — 1 footnote cross-reference (from [[Psalm 135#^ps-135-4|Psalm 135:4]])
+- [[3 Nephi 5]] — 1 footnote cross-reference (from [[Psalm 135#^ps-135-4|Psalm 135:4]])
+- [[D&C 49]] — 1 footnote cross-reference (from [[Psalm 135#^ps-135-4|Psalm 135:4]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Psalm 135#^ps-135-4|Psalm 135:4]])
 - [[Psalm 115]] — 4 parallel verses, e.g. [[Psalm 135#^ps-135-18|Psalm 135:18]] ↔ [[Psalm 115#^ps-115-8|Psalm 115:8]]
 - [[Jeremiah 10]] — 1 parallel verse, e.g. [[Psalm 135#^ps-135-7|Psalm 135:7]] ↔ [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]]
 - [[Jeremiah 51]] — 1 parallel verse, e.g. [[Psalm 135#^ps-135-7|Psalm 135:7]] ↔ [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]]

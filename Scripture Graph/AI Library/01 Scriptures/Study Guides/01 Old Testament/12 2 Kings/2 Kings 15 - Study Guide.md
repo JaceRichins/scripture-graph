@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 15
 slug: 2kgs-15
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -69,10 +69,10 @@ The regnal synchronisms connect these units, but verse 30's reference to Jotham'
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Scattering of Israel]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

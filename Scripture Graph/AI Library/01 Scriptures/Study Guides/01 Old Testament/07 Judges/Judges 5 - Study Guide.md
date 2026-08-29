@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 5
 slug: judg-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 5]] · My notes: [[Judges 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Deborah and Barak sing a song of praise because Israel is delivered from Canaanite bondage.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 68]] — 2 footnote cross-references (from [[Judges 5#^judg-5-4|Judges 5:4]])
+- [[Psalm 97]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
+- [[Micah 1]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
+- [[3 Nephi 22]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

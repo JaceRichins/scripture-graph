@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 13
 slug: zech-13
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 13]] · My notes: [[Zechariah 13 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews will gain forgiveness at the Second Coming—They will ask the Lord, What are these wounds in Thine hands?—The remnant, tried and refined, will be His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Micah 3]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-4|Zechariah 13:4]])
+- [[Matthew 3]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-4|Zechariah 13:4]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-6|Zechariah 13:6]])
+- [[Matthew 26]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-7|Zechariah 13:7]])
+- [[Mark 14]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-7|Zechariah 13:7]])
+- [[Zechariah 10]] — 1 footnote cross-reference (from [[Zechariah 13#^zech-13-7|Zechariah 13:7]])
 - [[D&C 45]] — 2 parallel verses, e.g. [[Zechariah 13#^zech-13-6|Zechariah 13:6]] ↔ [[D&C 45#^dc-45-52|D&C 45:52]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Zechariah 13#^zech-13-4|Zechariah 13:4]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Zechariah 13#^zech-13-2|Zechariah 13:2]] ↔ [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]]

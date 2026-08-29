@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mormon 6]] · My notes: [[Mormon 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Nephites gather to the land of Cumorah for the final battles—Mormon hides the sacred records in the hill Cumorah—The Lamanites are victorious, and the Nephite nation is destroyed—Hundreds of thousands are slain with the sword. About A.D. 385.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 12]] — 3 footnote cross-references (from [[Mormon 6#^morm-6-1|Mormon 6:1]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[Mormon 6#^morm-6-2|Mormon 6:2]])
+- [[2 Nephi 26]] — 2 footnote cross-references (from [[Mormon 6#^morm-6-6|Mormon 6:6]])
+- [[Jarom 1]] — 1 footnote cross-reference (from [[Mormon 6#^morm-6-1|Mormon 6:1]])
+- [[Alma 45]] — 1 footnote cross-reference (from [[Mormon 6#^morm-6-1|Mormon 6:1]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Mormon 6#^morm-6-1|Mormon 6:1]])
 - [[Alma 56]] — 3 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 56#^alma-56-50|Alma 56:50]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-9|Mormon 6:9]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
 - [[Words of Mormon 1]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]]

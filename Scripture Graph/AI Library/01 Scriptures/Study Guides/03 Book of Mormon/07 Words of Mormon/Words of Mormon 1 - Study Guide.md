@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Words of Mormon
 chapter: 1
 slug: wofm-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Words of Mormon 1]] · My notes: [[Words of Mormon 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Omni 1]] — 5 footnote cross-references (from [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3]])
+- [[3 Nephi 5]] — 4 footnote cross-references (from [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]])
+- [[D&C 10]] — 4 footnote cross-references (from [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3]])
+- [[Enos 1]] — 4 footnote cross-references (from [[Words of Mormon 1#^wofm-1-7|Words of Mormon 1:7]])
+- [[Mormon 1]] — 3 footnote cross-references (from [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]])
+- [[Jarom 1]] — 3 footnote cross-references (from [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3]])
 - [[Mormon 6]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]] ↔ [[Mormon 6#^morm-6-1|Mormon 6:1]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]] ↔ [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]]
 <!-- SG:END related-scriptures -->

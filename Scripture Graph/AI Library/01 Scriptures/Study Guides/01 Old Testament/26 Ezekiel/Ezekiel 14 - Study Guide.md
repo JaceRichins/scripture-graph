@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 14
 slug: ezek-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 14]] · My notes: [[Ezekiel 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord will not answer those who worship false gods and work iniquity—Ezekiel preaches repentance—The people would not be saved though Noah, Daniel, and Job ministered among them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 26]] — 2 footnote cross-references (from [[Ezekiel 14#^ezek-14-13|Ezekiel 14:13]])
+- [[Ezekiel 8]] — 1 footnote cross-reference (from [[Ezekiel 14#^ezek-14-1|Ezekiel 14:1]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Ezekiel 14#^ezek-14-3|Ezekiel 14:3]])
+- [[Ezekiel 36]] — 1 footnote cross-reference (from [[Ezekiel 14#^ezek-14-3|Ezekiel 14:3]])
+- [[2 Kings 3]] — 1 footnote cross-reference (from [[Ezekiel 14#^ezek-14-3|Ezekiel 14:3]])
+- [[2 Corinthians 6]] — 1 footnote cross-reference (from [[Ezekiel 14#^ezek-14-3|Ezekiel 14:3]])
 - [[Ezekiel 20]] — 14 parallel verses, e.g. [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
 - [[Ezekiel 35]] — 6 parallel verses, e.g. [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
 - [[Ezekiel 18]] — 4 parallel verses, e.g. [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]] ↔ [[Ezekiel 18#^ezek-18-30|Ezekiel 18:30]]

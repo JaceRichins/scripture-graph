@@ -33,6 +33,7 @@ _Not yet developed._
 - [[Matthew 24]]
 - [[Joseph Smith—Matthew 1]]
 - [[D&C 45]]
+- [[D&C 84]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

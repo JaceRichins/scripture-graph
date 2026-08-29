@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 150
 slug: ps-150
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 150]] · My notes: [[Psalm 150 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Praise God in His sanctuary—Let everything that has breath praise the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Alma 15]] — 1 footnote cross-reference (from [[Psalm 150#^ps-150-1|Psalm 150:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

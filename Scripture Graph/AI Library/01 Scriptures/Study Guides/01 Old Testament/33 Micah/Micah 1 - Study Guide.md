@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 1
 slug: micah-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Micah 1]] · My notes: [[Micah 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Micah prophesies the downfall of Samaria and Jerusalem.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 26]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-1|Micah 1:1]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-1|Micah 1:1]])
+- [[2 Kings 16]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-1|Micah 1:1]])
+- [[2 Kings 18]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-1|Micah 1:1]])
+- [[Judges 5]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-4|Micah 1:4]])
+- [[Isaiah 64]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-4|Micah 1:4]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Micah 1#^micah-1-1|Micah 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
 <!-- SG:END related-scriptures -->
 

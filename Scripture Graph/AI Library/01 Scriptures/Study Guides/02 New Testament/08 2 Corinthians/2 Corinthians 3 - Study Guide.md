@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 3
 slug: 2cor-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Corinthians 3]] · My notes: [[2 Corinthians 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The gospel surpasses the law of Moses—Where the Spirit of the Lord is, there is liberty.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 7]] — 2 parallel verses, e.g. [[2 Corinthians 3#^2cor-3-7|2 Corinthians 3:7]] ↔ [[Joshua 7#^josh-7-12|Joshua 7:12]]
+- [[Romans 8]] — 2 footnote cross-references (from [[2 Corinthians 3#^2cor-3-17|2 Corinthians 3:17]])
+- [[1 Corinthians 9]] — 1 footnote cross-reference (from [[2 Corinthians 3#^2cor-3-2|2 Corinthians 3:2]])
+- [[Deuteronomy 9]] — 1 footnote cross-reference (from [[2 Corinthians 3#^2cor-3-3|2 Corinthians 3:3]])
+- [[Exodus 24]] — 1 footnote cross-reference (from [[2 Corinthians 3#^2cor-3-3|2 Corinthians 3:3]])
+- [[Exodus 31]] — 1 footnote cross-reference (from [[2 Corinthians 3#^2cor-3-3|2 Corinthians 3:3]])
+- [[Exodus 34]] — 1 footnote cross-reference (from [[2 Corinthians 3#^2cor-3-3|2 Corinthians 3:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

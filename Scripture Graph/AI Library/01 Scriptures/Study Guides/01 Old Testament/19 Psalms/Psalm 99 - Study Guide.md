@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 99
 slug: ps-99
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 99]] · My notes: [[Psalm 99 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord is great in Zion—Exalt the Lord and worship at His footstool, for He is holy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Revelation 15]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-3|Psalm 99:3]])
+- [[Luke 1]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-3|Psalm 99:3]])
+- [[1 Chronicles 28]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-5|Psalm 99:5]])
+- [[Exodus 33]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-7|Psalm 99:7]])
+- [[Numbers 14]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-7|Psalm 99:7]])
+- [[Psalm 78]] — 1 footnote cross-reference (from [[Psalm 99#^ps-99-7|Psalm 99:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 2
 slug: eph-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ephesians 2]] · My notes: [[Ephesians 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> We are saved by grace through faith—The blood of Christ saves Jew and Gentile alike—The Church is built upon the foundation of apostles and prophets.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Thessalonians 4]] — 2 footnote cross-references (from [[Ephesians 2#^eph-2-12|Ephesians 2:12]])
+- [[Colossians 1]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-1|Ephesians 2:1]])
+- [[Revelation 3]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-1|Ephesians 2:1]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-2|Ephesians 2:2]])
+- [[Alma 22]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-8|Ephesians 2:8]])
+- [[Alma 42]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-8|Ephesians 2:8]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

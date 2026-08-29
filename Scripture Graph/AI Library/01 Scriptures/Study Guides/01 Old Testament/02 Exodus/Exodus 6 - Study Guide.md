@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 6
 slug: ex-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,14 @@ The repetition gives the genealogy an identity-establishing effect in the receiv
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 17]] — 3 footnote cross-references (from [[Exodus 6#^ex-6-3|Exodus 6:3]])
+- [[Numbers 4]] — 3 footnote cross-references (from [[Exodus 6#^ex-6-16|Exodus 6:16]])
+- [[Abraham 2]] — 2 footnote cross-references (from [[Exodus 6#^ex-6-3|Exodus 6:3]])
+- [[Exodus 2]] — 2 footnote cross-references (from [[Exodus 6#^ex-6-5|Exodus 6:5]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Exodus 6#^ex-6-1|Exodus 6:1]])
+- [[Exodus 12]] — 1 footnote cross-reference (from [[Exodus 6#^ex-6-1|Exodus 6:1]])
+- [[Genesis 46]] — 2 parallel verses, e.g. [[Exodus 6#^ex-6-15|Exodus 6:15]] ↔ [[Genesis 46#^gen-46-10|Genesis 46:10]]
+- [[Numbers 3]] — 4 parallel verses, e.g. [[Exodus 6#^ex-6-16|Exodus 6:16]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
 - [[Exodus 7]] — 4 parallel verses, e.g. [[Exodus 6#^ex-6-13|Exodus 6:13]] ↔ [[Exodus 7#^ex-7-4|Exodus 7:4]]
 - [[Genesis 25]] — 2 parallel verses, e.g. [[Exodus 6#^ex-6-20|Exodus 6:20]] ↔ [[Genesis 25#^gen-25-17|Genesis 25:17]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Exodus 6#^ex-6-6|Exodus 6:6]] ↔ [[Ezekiel 20#^ezek-20-34|Ezekiel 20:34]]
@@ -60,19 +68,17 @@ The repetition gives the genealogy an identity-establishing effect in the receiv
 - [[Exodus 11]] — 1 parallel verse, e.g. [[Exodus 6#^ex-6-11|Exodus 6:11]] ↔ [[Exodus 11#^ex-11-10|Exodus 11:10]]
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Exodus 6#^ex-6-13|Exodus 6:13]] ↔ [[Exodus 12#^ex-12-51|Exodus 12:51]]
 - [[1 Chronicles 8]] — 1 parallel verse, e.g. [[Exodus 6#^ex-6-25|Exodus 6:25]] ↔ [[1 Chronicles 8#^1chr-8-6|1 Chronicles 8:6]]
-- [[Numbers 3]] — 0 parallel verses
-- [[Genesis 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Family]]
-- [[Freedom and Liberty]]
 - [[Abrahamic Covenant]]
 - [[Exodus and Deliverance]]
 - [[Covenants]]
 - [[Adversity]]
+- [[Family]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

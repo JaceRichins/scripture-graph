@@ -38,6 +38,7 @@ _Not yet developed._
 - [[2 Nephi 29]]
 - [[Moroni 10]]
 - [[D&C 20]]
+- [[D&C 84]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

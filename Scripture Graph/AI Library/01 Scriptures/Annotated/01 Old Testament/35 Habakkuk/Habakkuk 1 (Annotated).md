@@ -13,15 +13,20 @@ cssclasses:
 
 [[Habakkuk 1|Plain text]] · [[Habakkuk 1 - Study Guide|Study guide]] · [[Habakkuk 1 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> When Habakkuk learns that the Lord will raise up the Chaldeans to overrun the land of Israel, he is troubled that the wicked can be thus employed.
+
 ![[Habakkuk 1#^hab-1-1]]
 
 ![[Habakkuk 1#^hab-1-2]]
+> [[D&C 121#^dc-121-1|D&amp;C 121:2 (1–3)]] · [[Micah 6#^micah-6-12|Micah 6:12]]
 
 ![[Habakkuk 1#^hab-1-3]]
 
 ![[Habakkuk 1#^hab-1-4]]
 
 ![[Habakkuk 1#^hab-1-5]]
+> [[Acts 13#^acts-13-40|Acts 13:41 (40–41)]]
 
 ![[Habakkuk 1#^hab-1-6]]
 

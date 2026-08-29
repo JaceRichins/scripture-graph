@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 6|Plain text]] · [[Song of Solomon 6 - Study Guide|Study guide]] · [[Song of Solomon 6 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The song of love continues.
+
 ![[Song of Solomon 6#^song-6-1]]
 
 ![[Song of Solomon 6#^song-6-2]]

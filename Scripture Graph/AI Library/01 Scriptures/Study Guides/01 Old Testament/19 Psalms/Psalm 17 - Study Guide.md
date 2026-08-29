@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 17
 slug: ps-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 17]] · My notes: [[Psalm 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads with the Lord to hear his voice and to preserve him from men of the world—David hopes to behold the Lord’s face in righteousness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 17#^ps-17-5|Psalm 17:5]])
+- [[Psalm 73]] — 1 footnote cross-reference (from [[Psalm 17#^ps-17-14|Psalm 17:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

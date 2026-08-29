@@ -13,6 +13,9 @@ cssclasses:
 
 [[Song of Solomon 7|Plain text]] · [[Song of Solomon 7 - Study Guide|Study guide]] · [[Song of Solomon 7 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> The song of love continues.
+
 ![[Song of Solomon 7#^song-7-1]]
 
 ![[Song of Solomon 7#^song-7-2]]

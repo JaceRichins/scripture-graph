@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 41
 slug: job-41
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 41]] · My notes: [[Job 41 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord points to His power in the leviathan—All things under the whole heaven are the Lord’s.
 <!-- SG:END overview -->
 
 ## Structure & Setting

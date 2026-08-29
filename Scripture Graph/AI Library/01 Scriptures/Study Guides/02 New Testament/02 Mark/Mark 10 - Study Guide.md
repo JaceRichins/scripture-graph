@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 10]] · My notes: [[Mark 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches the higher law of marriage—He blesses little children—Jesus counsels the rich young man, foretells His own death, and heals blind Bartimæus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moroni 8]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-14|Mark 10:14]])
+- [[3 Nephi 17]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-16|Mark 10:16]])
+- [[Ether 4]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-18|Mark 10:18]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-19|Mark 10:19]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-24|Mark 10:24]])
+- [[Jacob 5]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-31|Mark 10:31]])
 - [[Luke 18]] — 16 parallel verses, e.g. [[Mark 10#^mark-10-19|Mark 10:19]] ↔ [[Luke 18#^luke-18-20|Luke 18:20]]
 - [[Matthew 20]] — 12 parallel verses, e.g. [[Mark 10#^mark-10-33|Mark 10:33]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
 - [[Matthew 19]] — 14 parallel verses, e.g. [[Mark 10#^mark-10-25|Mark 10:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]

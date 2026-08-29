@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 2
 slug: ezek-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 2]] · My notes: [[Ezekiel 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ezekiel is called to take the word of the Lord to Israel—He sees a book in which lamentations and mourning are written.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 10]] — 2 footnote cross-references (from [[Ezekiel 2#^ezek-2-8|Ezekiel 2:8]])
+- [[Ezekiel 12]] — 1 footnote cross-reference (from [[Ezekiel 2#^ezek-2-5|Ezekiel 2:5]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[Ezekiel 2#^ezek-2-5|Ezekiel 2:5]])
+- [[Ezekiel 33]] — 1 footnote cross-reference (from [[Ezekiel 2#^ezek-2-5|Ezekiel 2:5]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]])
+- [[Numbers 24]] — 1 footnote cross-reference (from [[Ezekiel 2#^ezek-2-7|Ezekiel 2:7]])
 - [[Ezekiel 3]] — 14 parallel verses, e.g. [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]] ↔ [[Ezekiel 3#^ezek-3-9|Ezekiel 3:9]]
 - [[Ezekiel 37]] — 7 parallel verses, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]

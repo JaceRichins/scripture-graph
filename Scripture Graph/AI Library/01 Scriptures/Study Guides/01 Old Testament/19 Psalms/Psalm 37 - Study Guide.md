@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 37
 slug: ps-37
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 37]] · My notes: [[Psalm 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David counsels, Trust in the Lord and do good—Rest in the Lord and wait patiently for Him—Cease from anger and forsake wrath—The meek will inherit the earth—The Lord loves justice and does not forsake His Saints.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 2]] — 2 parallel verses, e.g. [[Psalm 37#^ps-37-28|Psalm 37:28]] ↔ [[Proverbs 2#^prov-2-22|Proverbs 2:22]]
+- [[Alma 50]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-2|Psalm 37:2]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-2|Psalm 37:2]])
+- [[D&C 29]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-2|Psalm 37:2]])
+- [[Enos 1]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-4|Psalm 37:4]])
+- [[Alma 29]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-4|Psalm 37:4]])
+- [[Alma 37]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-5|Psalm 37:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

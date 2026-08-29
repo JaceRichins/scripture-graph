@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 112
 slug: ps-112
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 112]] · My notes: [[Psalm 112 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Blessed is the man who fears the Lord—The righteous will be remembered always.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Psalm 111]] — 2 parallel verses, e.g. [[Psalm 112#^ps-112-3|Psalm 112:3]] ↔ [[Psalm 111#^ps-111-3|Psalm 111:3]]
-- [[2 Corinthians 9]] — 1 parallel verse, e.g. [[Psalm 112#^ps-112-9|Psalm 112:9]] ↔ [[2 Corinthians 9#^2cor-9-9|2 Corinthians 9:9]]
+- [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 112#^ps-112-1|Psalm 112:1]])
+- [[D&C 104]] — 1 footnote cross-reference (from [[Psalm 112#^ps-112-2|Psalm 112:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

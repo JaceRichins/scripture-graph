@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 16
 slug: 2chr-16
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Chronicles 16]] · My notes: [[2 Chronicles 16 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Asa employs Syria to defeat Israel—Hanani the seer reproves Asa for lack of faith—Asa suffers from disease and dies.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 15]] — 1 footnote cross-reference (from [[2 Chronicles 16#^2chr-16-7|2 Chronicles 16:7]])
+- [[D&C 30]] — 1 footnote cross-reference (from [[2 Chronicles 16#^2chr-16-7|2 Chronicles 16:7]])
+- [[2 Chronicles 21]] — 1 footnote cross-reference (from [[2 Chronicles 16#^2chr-16-14|2 Chronicles 16:14]])
 - [[1 Kings 15]] — 8 parallel verses, e.g. [[2 Chronicles 16#^2chr-16-3|2 Chronicles 16:3]] ↔ [[1 Kings 15#^1kgs-15-19|1 Kings 15:19]]
 - [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Chronicles 16#^2chr-16-11|2 Chronicles 16:11]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
 - [[2 Chronicles 33]] — 2 parallel verses, e.g. [[2 Chronicles 16#^2chr-16-11|2 Chronicles 16:11]] ↔ [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]]

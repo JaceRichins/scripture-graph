@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 4
 slug: mosiah-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mosiah 4]] · My notes: [[Mosiah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> King Benjamin continues his address—Salvation comes because of the Atonement—Believe in God to be saved—Retain a remission of your sins through faithfulness—Impart of your substance to the poor—Do all things in wisdom and order. About 124 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 3]] — 3 footnote cross-references (from [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]])
+- [[Nehemiah 8]] — 2 footnote cross-references (from [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]])
+- [[Moses 1]] — 2 footnote cross-references (from [[Mosiah 4#^mosiah-4-5|Mosiah 4:5]])
+- [[Mosiah 18]] — 2 footnote cross-references (from [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]])
+- [[2 Nephi 31]] — 2 footnote cross-references (from [[Mosiah 4#^mosiah-4-8|Mosiah 4:8]])
+- [[Deuteronomy 4]] — 2 footnote cross-references (from [[Mosiah 4#^mosiah-4-9|Mosiah 4:9]])
 - [[Alma 22]] — 3 parallel verses, e.g. [[Mosiah 4#^mosiah-4-9|Mosiah 4:9]] ↔ [[Alma 22#^alma-22-10|Alma 22:10]]
 - [[Alma 18]] — 2 parallel verses, e.g. [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]] ↔ [[Alma 18#^alma-18-39|Alma 18:39]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Mosiah 4#^mosiah-4-4|Mosiah 4:4]] ↔ [[Alma 12#^alma-12-1|Alma 12:1]]

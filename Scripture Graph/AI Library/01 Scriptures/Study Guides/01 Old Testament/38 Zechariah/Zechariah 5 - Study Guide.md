@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 5
 slug: zech-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 5]] · My notes: [[Zechariah 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An angel reveals truths to Zechariah by the use of symbolic representations.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 1 footnote cross-reference (from [[Zechariah 5#^zech-5-3|Zechariah 5:3]])
 - [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 5#^zech-5-1|Zechariah 5:1]] ↔ [[Zechariah 6#^zech-6-1|Zechariah 6:1]]
 - [[Zechariah 4]] — 3 parallel verses, e.g. [[Zechariah 5#^zech-5-2|Zechariah 5:2]] ↔ [[Zechariah 4#^zech-4-2|Zechariah 4:2]]
 - [[Daniel 10]] — 2 parallel verses, e.g. [[Zechariah 5#^zech-5-1|Zechariah 5:1]] ↔ [[Daniel 10#^dan-10-5|Daniel 10:5]]

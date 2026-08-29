@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 22
 slug: lev-22
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Leviticus 22]] · My notes: [[Leviticus 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Those of the priests and their families who may eat of the holy things are described—Sacrificial animals are to be perfect and without blemish.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Malachi 1]] — 3 footnote cross-references (from [[Leviticus 22#^lev-22-20|Leviticus 22:20]])
+- [[Deuteronomy 15]] — 2 footnote cross-references (from [[Leviticus 22#^lev-22-2|Leviticus 22:2]])
+- [[Exodus 22]] — 2 footnote cross-references (from [[Leviticus 22#^lev-22-8|Leviticus 22:8]])
+- [[Leviticus 7]] — 2 footnote cross-references (from [[Leviticus 22#^lev-22-23|Leviticus 22:23]])
+- [[Ezra 2]] — 1 footnote cross-reference (from [[Leviticus 22#^lev-22-2|Leviticus 22:2]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[Leviticus 22#^lev-22-2|Leviticus 22:2]])
 - [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 22#^lev-22-27|Leviticus 22:27]] ↔ [[Leviticus 23#^lev-23-8|Leviticus 23:8]]
 - [[Leviticus 7]] — 5 parallel verses, e.g. [[Leviticus 22#^lev-22-3|Leviticus 22:3]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
 - [[Numbers 15]] — 4 parallel verses, e.g. [[Leviticus 22#^lev-22-33|Leviticus 22:33]] ↔ [[Numbers 15#^num-15-41|Numbers 15:41]]

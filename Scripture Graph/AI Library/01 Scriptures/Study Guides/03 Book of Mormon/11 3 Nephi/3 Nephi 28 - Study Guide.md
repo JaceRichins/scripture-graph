@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 28
 slug: 3ne-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 28]] · My notes: [[3 Nephi 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nine of the twelve disciples desire and are promised an inheritance in Christ’s kingdom when they die—The Three Nephites desire and are given power over death so as to remain on the earth until Jesus comes again—They are translated and see things not lawful to utter, and they are now ministering among men. About A.D. 34–35.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[4 Nephi 1]] — 7 footnote cross-references (from [[3 Nephi 28#^3ne-28-3|3 Nephi 28:3]])
+- [[Mormon 8]] — 5 footnote cross-references (from [[3 Nephi 28#^3ne-28-7|3 Nephi 28:7]])
+- [[3 Nephi 26]] — 4 footnote cross-references (from [[3 Nephi 28#^3ne-28-14|3 Nephi 28:14]])
+- [[D&C 7]] — 3 footnote cross-references (from [[3 Nephi 28#^3ne-28-1|3 Nephi 28:1]])
+- [[D&C 76]] — 2 footnote cross-references (from [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]])
+- [[2 Nephi 31]] — 2 footnote cross-references (from [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]])
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 28#^3ne-28-11|3 Nephi 28:11]] ↔ [[3 Nephi 11#^3ne-11-32|3 Nephi 11:32]]
 - [[D&C 45]] — 4 parallel verses, e.g. [[3 Nephi 28#^3ne-28-7|3 Nephi 28:7]] ↔ [[D&C 45#^dc-45-16|D&C 45:16]]
 - [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]

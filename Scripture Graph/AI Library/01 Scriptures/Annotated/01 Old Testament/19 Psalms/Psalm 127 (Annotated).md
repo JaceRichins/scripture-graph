@@ -13,7 +13,11 @@ cssclasses:
 
 [[Psalm 127|Plain text]] · [[Psalm 127 - Study Guide|Study guide]] · [[Psalm 127 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Children are a heritage from the Lord.
+
 ![[Psalm 127#^ps-127-1]]
+> [[Psalm 121#^ps-121-3|Ps. 121:3]]
 
 ![[Psalm 127#^ps-127-2]]
 

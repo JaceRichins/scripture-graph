@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 15
 slug: isa-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 15]] · My notes: [[Isaiah 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moab will be laid waste, and her people will howl and weep.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jeremiah 48]] — 5 footnote cross-references (from [[Isaiah 15#^isa-15-1|Isaiah 15:1]])
+- [[Genesis 19]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-1|Isaiah 15:1]])
+- [[Ezekiel 25]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-1|Isaiah 15:1]])
+- [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-1|Isaiah 15:1]])
+- [[Isaiah 3]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-2|Isaiah 15:2]])
+- [[Isaiah 16]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-5|Isaiah 15:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 10
 slug: prov-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 10]] · My notes: [[Proverbs 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A wise son makes a glad father—The mouth of a righteous man is a well of life—He who utters slander is a fool—The desire of the righteous will be granted.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 17]] — 2 footnote cross-references (from [[Proverbs 10#^prov-10-1|Proverbs 10:1]])
+- [[Proverbs 19]] — 2 footnote cross-references (from [[Proverbs 10#^prov-10-13|Proverbs 10:13]])
+- [[Proverbs 18]] — 2 footnote cross-references (from [[Proverbs 10#^prov-10-14|Proverbs 10:14]])
+- [[1 Kings 4]] — 1 footnote cross-reference (from [[Proverbs 10#^prov-10-1|Proverbs 10:1]])
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Proverbs 10#^prov-10-1|Proverbs 10:1]])
+- [[Proverbs 25]] — 1 footnote cross-reference (from [[Proverbs 10#^prov-10-1|Proverbs 10:1]])
 - [[Proverbs 15]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-1|Proverbs 10:1]] ↔ [[Proverbs 15#^prov-15-20|Proverbs 15:20]]
 - [[Proverbs 21]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-29|Proverbs 10:29]] ↔ [[Proverbs 21#^prov-21-15|Proverbs 21:15]]
 - [[Proverbs 18]] — 1 parallel verse, e.g. [[Proverbs 10#^prov-10-15|Proverbs 10:15]] ↔ [[Proverbs 18#^prov-18-11|Proverbs 18:11]]

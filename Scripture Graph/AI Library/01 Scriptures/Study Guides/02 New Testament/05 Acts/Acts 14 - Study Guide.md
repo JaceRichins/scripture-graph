@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Acts 14]] · My notes: [[Acts 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Persecution attends the spread of the gospel—Paul heals a crippled man; Paul and Barnabas are hailed as gods—Paul is stoned and revived; he preaches—Elders are ordained.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-5|Acts 14:5]])
+- [[Acts 3]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-8|Acts 14:8]])
+- [[Acts 28]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-11|Acts 14:11]])
+- [[Daniel 2]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
+- [[James 5]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
+- [[1 Nephi 17]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
 - [[Acts 4]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
 <!-- SG:END related-scriptures -->

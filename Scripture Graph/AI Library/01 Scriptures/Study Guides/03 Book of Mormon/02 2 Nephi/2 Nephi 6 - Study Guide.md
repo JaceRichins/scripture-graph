@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 6
 slug: 2ne-6
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 6]] · My notes: [[2 Nephi 6 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jacob recounts Jewish history: The Babylonian captivity and return; the ministry and crucifixion of the Holy One of Israel; the help received from the Gentiles; and the Jews’ latter-day restoration when they believe in the Messiah. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 10]] — 3 footnote cross-references (from [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]])
+- [[1 Nephi 22]] — 3 footnote cross-references (from [[2 Nephi 6#^2ne-6-11|2 Nephi 6:11]])
+- [[1 Nephi 21]] — 3 footnote cross-references (from [[2 Nephi 6#^2ne-6-13|2 Nephi 6:13]])
+- [[2 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
+- [[Jacob 2]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
+- [[Isaiah 49]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]])
 - [[Isaiah 49]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[1 Nephi 21]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]

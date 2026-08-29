@@ -13,11 +13,15 @@ cssclasses:
 
 [[Nahum 2|Plain text]] · [[Nahum 2 - Study Guide|Study guide]] · [[Nahum 2 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Nineveh will be destroyed, which is a symbol of what will be in the latter days.
+
 ![[Nahum 2#^nahum-2-1]]
 
 ![[Nahum 2#^nahum-2-2]]
 
 ![[Nahum 2#^nahum-2-3]]
+> [[Zechariah 11#^zech-11-2|Zech. 11:2]]
 
 ![[Nahum 2#^nahum-2-4]]
 
@@ -32,6 +36,7 @@ cssclasses:
 ![[Nahum 2#^nahum-2-9]]
 
 ![[Nahum 2#^nahum-2-10]]
+> [[Jeremiah 8#^jer-8-21|Jer. 8:21]] · [[Joel 2#^joel-2-6|Joel 2:6]]
 
 ![[Nahum 2#^nahum-2-11]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 2
 slug: ruth-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ruth 2]] · My notes: [[Ruth 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 19]] — 2 footnote cross-references (from [[Ruth 2#^ruth-2-2|Ruth 2:2]])
+- [[Deuteronomy 24]] — 1 footnote cross-reference (from [[Ruth 2#^ruth-2-2|Ruth 2:2]])
+- [[D&C 70]] — 1 footnote cross-reference (from [[Ruth 2#^ruth-2-12|Ruth 2:12]])
+- [[Psalm 57]] — 1 footnote cross-reference (from [[Ruth 2#^ruth-2-12|Ruth 2:12]])
+- [[Ruth 3]] — 1 footnote cross-reference (from [[Ruth 2#^ruth-2-20|Ruth 2:20]])
+- [[Ruth 4]] — 1 footnote cross-reference (from [[Ruth 2#^ruth-2-20|Ruth 2:20]])
 - [[1 Samuel 25]] — 1 parallel verse, e.g. [[Ruth 2#^ruth-2-10|Ruth 2:10]] ↔ [[1 Samuel 25#^1sam-25-23|1 Samuel 25:23]]
 <!-- SG:END related-scriptures -->
 

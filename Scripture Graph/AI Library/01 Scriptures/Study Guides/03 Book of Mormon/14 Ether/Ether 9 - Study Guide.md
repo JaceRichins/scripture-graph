@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 9
 slug: ether-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 9]] · My notes: [[Ether 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The kingdom passes from one to another by descent, intrigue, and murder—Emer saw the Son of Righteousness—Many prophets cry repentance—A famine and poisonous serpents plague the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ether 10]] — 5 footnote cross-references (from [[Ether 9#^ether-9-17|Ether 9:17]])
+- [[Ether 2]] — 2 footnote cross-references (from [[Ether 9#^ether-9-20|Ether 9:20]])
+- [[Ether 7]] — 2 footnote cross-references (from [[Ether 9#^ether-9-23|Ether 9:23]])
+- [[Ether 8]] — 1 footnote cross-reference (from [[Ether 9#^ether-9-1|Ether 9:1]])
+- [[Mormon 1]] — 1 footnote cross-reference (from [[Ether 9#^ether-9-3|Ether 9:3]])
+- [[Mormon 4]] — 1 footnote cross-reference (from [[Ether 9#^ether-9-3|Ether 9:3]])
 - [[Ether 10]] — 5 parallel verses, e.g. [[Ether 9#^ether-9-21|Ether 9:21]] ↔ [[Ether 10#^ether-10-17|Ether 10:17]]
 - [[Ether 7]] — 2 parallel verses, e.g. [[Ether 9#^ether-9-28|Ether 9:28]] ↔ [[Ether 7#^ether-7-23|Ether 7:23]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Ether 9#^ether-9-32|Ether 9:32]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 9
 slug: amos-9
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -53,17 +53,17 @@ The transition at verse 11 is sharp. Preservation in verses 8–9 makes hope con
 - [[D&C 77]] — 2 footnote cross-references (from [[Amos 9#^amos-9-14|Amos 9:14]])
 - [[Proverbs 28]] — 1 footnote cross-reference (from [[Amos 9#^amos-9-1|Amos 9:1]])
 - [[Amos 2]] — 1 footnote cross-reference (from [[Amos 9#^amos-9-1|Amos 9:1]])
+- [[Amos 5]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-6|Amos 9:6]] ↔ [[Amos 5#^amos-5-8|Amos 5:8]]
+- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 31#^jer-31-38|Jeremiah 31:38]]
+- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 23]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 - [[Amos 8]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-5|Amos 9:5]] ↔ [[Amos 8#^amos-8-8|Amos 8:8]]
+- [[Isaiah 65]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Isaiah 65#^isa-65-21|Isaiah 65:21]]
 - [[Jeremiah 29]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Jeremiah 29#^jer-29-5|Jeremiah 29:5]]
-- [[Jeremiah 30]] — 0 parallel verses
-- [[Isaiah 65]] — 0 parallel verses
-- [[Jeremiah 31]] — 0 parallel verses
 - [[Acts 15]] — 0 parallel verses
 - [[Amos 3]] — 0 parallel verses
 - [[Joel 3]] — 0 parallel verses
-- [[Amos 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

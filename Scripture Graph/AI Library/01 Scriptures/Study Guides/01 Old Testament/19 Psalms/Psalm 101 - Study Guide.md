@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 101
 slug: ps-101
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 101]] · My notes: [[Psalm 101 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David sings of mercy and justice—He will forsake the company of evildoers.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Jacob 6]] — 1 footnote cross-reference (from [[Psalm 101#^ps-101-2|Psalm 101:2]])
+- [[Proverbs 11]] — 1 footnote cross-reference (from [[Psalm 101#^ps-101-4|Psalm 101:4]])
+- [[Proverbs 17]] — 1 footnote cross-reference (from [[Psalm 101#^ps-101-4|Psalm 101:4]])
+- [[Matthew 7]] — 1 footnote cross-reference (from [[Psalm 101#^ps-101-4|Psalm 101:4]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[Psalm 101#^ps-101-5|Psalm 101:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

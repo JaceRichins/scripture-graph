@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 11
 slug: dc-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 11]] · My notes: [[D&C 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Laborers in the vineyard will gain salvation; 7–14, Seek wisdom, cry repentance, trust in the Spirit; 15–22, Keep the commandments, and study the Lord’s word; 23–27, Deny not the spirit of revelation and of prophecy; 28–30, Those who receive Christ become the sons of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 4 footnote cross-references (from [[D&C 11#^dc-11-2|D&C 11:2]])
+- [[D&C 6]] — 4 footnote cross-references (from [[D&C 11#^dc-11-2|D&C 11:2]])
+- [[D&C 4]] — 3 footnote cross-references (from [[D&C 11#^dc-11-1|D&C 11:1]])
+- [[Matthew 7]] — 2 footnote cross-references (from [[D&C 11#^dc-11-12|D&C 11:12]])
+- [[D&C 10]] — 2 footnote cross-references (from [[D&C 11#^dc-11-16|D&C 11:16]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[D&C 11#^dc-11-1|D&C 11:1]])
 - [[D&C 6]] — 12 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
 - [[D&C 12]] — 6 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
 - [[D&C 14]] — 6 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]

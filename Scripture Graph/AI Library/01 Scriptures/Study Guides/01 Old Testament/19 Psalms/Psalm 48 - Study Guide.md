@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 48
 slug: ps-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 48]] · My notes: [[Psalm 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zion, the city of God, the joy of the whole earth, will be established forever.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 2]] — 2 footnote cross-references (from [[Psalm 48#^ps-48-1|Psalm 48:1]])
+- [[Psalm 2]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-1|Psalm 48:1]])
+- [[Lamentations 2]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-2|Psalm 48:2]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-2|Psalm 48:2]])
+- [[Isaiah 14]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-2|Psalm 48:2]])
+- [[Matthew 5]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-2|Psalm 48:2]])
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 48#^ps-48-1|Psalm 48:1]] ↔ [[1 Chronicles 16#^1chr-16-25|1 Chronicles 16:25]]
 - [[Psalm 145]] — 1 parallel verse, e.g. [[Psalm 48#^ps-48-1|Psalm 48:1]] ↔ [[Psalm 145#^ps-145-3|Psalm 145:3]]
 <!-- SG:END related-scriptures -->

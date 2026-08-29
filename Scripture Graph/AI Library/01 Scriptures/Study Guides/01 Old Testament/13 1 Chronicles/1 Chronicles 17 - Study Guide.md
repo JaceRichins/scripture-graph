@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 17
 slug: 1chr-17
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 17]] · My notes: [[1 Chronicles 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nathan first approves David’s building of a house of the Lord, then restrains him—David’s son will build the temple—The triumph of Israel is foretold—David thanks the Lord for His goodness to Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 7]] — 2 footnote cross-references (from [[1 Chronicles 17#^1chr-17-6|1 Chronicles 17:6]])
+- [[Psalm 89]] — 1 footnote cross-reference (from [[1 Chronicles 17#^1chr-17-10|1 Chronicles 17:10]])
+- [[Micah 4]] — 1 footnote cross-reference (from [[1 Chronicles 17#^1chr-17-10|1 Chronicles 17:10]])
+- [[D&C 65]] — 1 footnote cross-reference (from [[1 Chronicles 17#^1chr-17-10|1 Chronicles 17:10]])
+- [[Hebrews 1]] — 1 footnote cross-reference (from [[1 Chronicles 17#^1chr-17-13|1 Chronicles 17:13]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[1 Chronicles 17#^1chr-17-14|1 Chronicles 17:14]])
 - [[2 Samuel 7]] — 20 parallel verses, e.g. [[1 Chronicles 17#^1chr-17-20|1 Chronicles 17:20]] ↔ [[2 Samuel 7#^2sam-7-22|2 Samuel 7:22]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 17#^1chr-17-1|1 Chronicles 17:1]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[1 Chronicles 22]] — 2 parallel verses, e.g. [[1 Chronicles 17#^1chr-17-13|1 Chronicles 17:13]] ↔ [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]]

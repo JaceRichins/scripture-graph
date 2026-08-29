@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 34
 slug: ex-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 34]] · My notes: [[Exodus 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses hews new tables of stone—He goes up into Mount Sinai for forty days—The Lord proclaims His name and attributes and reveals His law—He makes another covenant with Israel—The skin of Moses’ face shines, and he wears a veil.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 23]] — 8 footnote cross-references (from [[Exodus 34#^ex-34-12|Exodus 34:12]])
+- [[Deuteronomy 10]] — 3 footnote cross-references (from [[Exodus 34#^ex-34-1|Exodus 34:1]])
+- [[Exodus 32]] — 3 footnote cross-references (from [[Exodus 34#^ex-34-1|Exodus 34:1]])
+- [[Exodus 33]] — 3 footnote cross-references (from [[Exodus 34#^ex-34-5|Exodus 34:5]])
+- [[Exodus 12]] — 3 footnote cross-references (from [[Exodus 34#^ex-34-18|Exodus 34:18]])
+- [[Exodus 24]] — 2 footnote cross-references (from [[Exodus 34#^ex-34-1|Exodus 34:1]])
 - [[Exodus 23]] — 5 parallel verses, e.g. [[Exodus 34#^ex-34-26|Exodus 34:26]] ↔ [[Exodus 23#^ex-23-19|Exodus 23:19]]
 - [[Deuteronomy 10]] — 5 parallel verses, e.g. [[Exodus 34#^ex-34-1|Exodus 34:1]] ↔ [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]]
 - [[Numbers 14]] — 2 parallel verses, e.g. [[Exodus 34#^ex-34-7|Exodus 34:7]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]

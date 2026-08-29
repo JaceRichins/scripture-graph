@@ -112,7 +112,7 @@ cssclasses:
 ![[D&C 138#^dc-138-45]]
 
 ![[D&C 138#^dc-138-46]]
-> [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]] · [[D&C 110#^dc-110-14|≈ D&C 110:14]]
+> [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]] · [[D&C 110#^dc-110-14|≈ D&C 110:14]]
 
 ![[D&C 138#^dc-138-47]]
 > [[D&C 2#^dc-2-2|≈ D&C 2:2]] · [[Joseph Smith—History 1#^jsh-1-39|≈ Joseph Smith—History 1:39]]

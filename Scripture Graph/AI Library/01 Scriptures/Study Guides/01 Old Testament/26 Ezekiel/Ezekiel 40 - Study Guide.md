@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 40
 slug: ezek-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 40]] · My notes: [[Ezekiel 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A heavenly messenger shows Ezekiel in vision a city where the temple is located—Ezekiel is shown the form and size of the temple and its courts.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 42]] — 8 footnote cross-references (from [[Ezekiel 40#^ezek-40-3|Ezekiel 40:3]])
+- [[Ezekiel 43]] — 5 footnote cross-references (from [[Ezekiel 40#^ezek-40-2|Ezekiel 40:2]])
+- [[Ezekiel 41]] — 4 footnote cross-references (from [[Ezekiel 40#^ezek-40-5|Ezekiel 40:5]])
+- [[Ezekiel 44]] — 4 footnote cross-references (from [[Ezekiel 40#^ezek-40-6|Ezekiel 40:6]])
+- [[Ezekiel 1]] — 3 footnote cross-references (from [[Ezekiel 40#^ezek-40-1|Ezekiel 40:1]])
+- [[Revelation 21]] — 2 footnote cross-references (from [[Ezekiel 40#^ezek-40-2|Ezekiel 40:2]])
 - [[Ezekiel 44]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-4|Ezekiel 40:4]] ↔ [[Ezekiel 44#^ezek-44-5|Ezekiel 44:5]]
 - [[Ezekiel 47]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-34|Ezekiel 40:34]] ↔ [[Ezekiel 47#^ezek-47-12|Ezekiel 47:12]]
 - [[Exodus 26]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-10|Ezekiel 40:10]] ↔ [[Exodus 26#^ex-26-13|Exodus 26:13]]

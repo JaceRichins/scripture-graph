@@ -13,6 +13,9 @@ cssclasses:
 
 [[Psalm 29|Plain text]] · [[Psalm 29 - Study Guide|Study guide]] · [[Psalm 29 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> David counsels, Worship the Lord in the beauty of holiness—David sets forth the wonder and power of the voice of the Lord.
+
 ![[Psalm 29#^ps-29-1]]
 > [[Psalm 96#^ps-96-7|≈ Psalm 96:7]] · [[1 Chronicles 16#^1chr-16-28|≈ 1 Chronicles 16:28]]
 

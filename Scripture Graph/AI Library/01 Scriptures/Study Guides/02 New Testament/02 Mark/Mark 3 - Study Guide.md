@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 3
 slug: mark-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 3]] · My notes: [[Mark 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus heals on the Sabbath day—He chooses and ordains the Twelve Apostles—He asks, Can Satan cast out Satan?—Jesus speaks of blasphemy against the Holy Ghost and identifies those who believe as being members of His family.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -46,6 +47,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 9]] — 1 footnote cross-reference (from [[Mark 3#^mark-3-17|Mark 3:17]])
+- [[Mark 6]] — 1 footnote cross-reference (from [[Mark 3#^mark-3-20|Mark 3:20]])
+- [[Matthew 12]] — 1 footnote cross-reference (from [[Mark 3#^mark-3-35|Mark 3:35]])
 - [[Matthew 12]] — 7 parallel verses, e.g. [[Mark 3#^mark-3-27|Mark 3:27]] ↔ [[Matthew 12#^matt-12-29|Matthew 12:29]]
 - [[Luke 6]] — 4 parallel verses, e.g. [[Mark 3#^mark-3-5|Mark 3:5]] ↔ [[Luke 6#^luke-6-10|Luke 6:10]]
 <!-- SG:END related-scriptures -->

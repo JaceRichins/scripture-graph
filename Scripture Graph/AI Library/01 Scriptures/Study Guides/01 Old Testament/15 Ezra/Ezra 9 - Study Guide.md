@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 9
 slug: ezra-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezra 9]] · My notes: [[Ezra 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Many Jews intermarry with the Canaanites and others and follow their abominations—Ezra prays and confesses the sins of all the people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,12 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Nehemiah 10]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-1|Ezra 9:1]] ↔ [[Nehemiah 10#^neh-10-28|Nehemiah 10:28]]
-- [[Ezra 10]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-4|Ezra 9:4]] ↔ [[Ezra 10#^ezra-10-8|Ezra 10:8]]
-- [[Nehemiah 9]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-11|Ezra 9:11]] ↔ [[Nehemiah 9#^neh-9-30|Nehemiah 9:30]]
-- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-7|Ezra 9:7]] ↔ [[Jeremiah 32#^jer-32-4|Jeremiah 32:4]]
-- [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-11|Ezra 9:11]] ↔ [[Deuteronomy 11#^deut-11-11|Deuteronomy 11:11]]
-- [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 9#^ezra-9-1|Ezra 9:1]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
+- [[Psalm 119]] — 2 footnote cross-references (from [[Ezra 9#^ezra-9-4|Ezra 9:4]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-1|Ezra 9:1]])
+- [[Deuteronomy 12]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-1|Ezra 9:1]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-1|Ezra 9:1]])
+- [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-2|Ezra 9:2]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-3|Ezra 9:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

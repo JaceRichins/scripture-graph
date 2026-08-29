@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 4
 slug: neh-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Nehemiah 4]] · My notes: [[Nehemiah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews’ enemies seek to prevent them from rebuilding the walls of Jerusalem—Nehemiah arms the laborers and keeps the work progressing.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,8 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Daniel 3]] — 2 parallel verses, e.g. [[Nehemiah 4#^neh-4-20|Nehemiah 4:20]] ↔ [[Daniel 3#^dan-3-5|Daniel 3:5]]
-- [[Acts 2]] — 2 parallel verses, e.g. [[Nehemiah 4#^neh-4-14|Nehemiah 4:14]] ↔ [[Acts 2#^acts-2-37|Acts 2:37]]
+- [[Nehemiah 2]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-1|Nehemiah 4:1]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-6|Nehemiah 4:6]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-6|Nehemiah 4:6]])
+- [[D&C 115]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-6|Nehemiah 4:6]])
+- [[Nehemiah 6]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-7|Nehemiah 4:7]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Nehemiah 4#^neh-4-14|Nehemiah 4:14]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

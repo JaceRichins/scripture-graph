@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Corinthians 11]] · My notes: [[1 Corinthians 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul speaks of certain customs of hair and grooming—Heresies will arise that test and prove the faithful—The sacramental emblems are partaken in remembrance of the flesh and blood of Christ—Beware of partaking unworthily.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 4]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-1|1 Corinthians 11:1]])
+- [[Ephesians 5]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-1|1 Corinthians 11:1]])
+- [[Ezekiel 44]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-14|1 Corinthians 11:14]])
+- [[1 Corinthians 14]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-16|1 Corinthians 11:16]])
+- [[3 Nephi 11]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-16|1 Corinthians 11:16]])
+- [[3 Nephi 20]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-23|1 Corinthians 11:23]])
 - [[Luke 22]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Luke 22#^luke-22-19|Luke 22:19]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Mark 14#^mark-14-22|Mark 14:22]]
 <!-- SG:END related-scriptures -->

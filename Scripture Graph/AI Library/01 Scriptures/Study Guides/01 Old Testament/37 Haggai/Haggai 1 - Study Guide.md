@@ -6,7 +6,7 @@ volume: Old Testament
 book: Haggai
 chapter: 1
 slug: hag-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Haggai 1]] · My notes: [[Haggai 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Haggai exhorts the people to build the temple.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Haggai 2]] — 2 footnote cross-references (from [[Haggai 1#^hag-1-1|Haggai 1:1]])
+- [[Deuteronomy 28]] — 2 footnote cross-references (from [[Haggai 1#^hag-1-6|Haggai 1:6]])
+- [[1 Chronicles 3]] — 1 footnote cross-reference (from [[Haggai 1#^hag-1-1|Haggai 1:1]])
+- [[Ezra 2]] — 1 footnote cross-reference (from [[Haggai 1#^hag-1-1|Haggai 1:1]])
+- [[Matthew 1]] — 1 footnote cross-reference (from [[Haggai 1#^hag-1-1|Haggai 1:1]])
+- [[Micah 6]] — 1 footnote cross-reference (from [[Haggai 1#^hag-1-6|Haggai 1:6]])
 - [[Haggai 2]] — 11 parallel verses, e.g. [[Haggai 1#^hag-1-1|Haggai 1:1]] ↔ [[Haggai 2#^hag-2-2|Haggai 2:2]]
 - [[Zechariah 6]] — 4 parallel verses, e.g. [[Haggai 1#^hag-1-14|Haggai 1:14]] ↔ [[Zechariah 6#^zech-6-11|Zechariah 6:11]]
 - [[Zechariah 1]] — 4 parallel verses, e.g. [[Haggai 1#^hag-1-15|Haggai 1:15]] ↔ [[Zechariah 1#^zech-1-7|Zechariah 1:7]]

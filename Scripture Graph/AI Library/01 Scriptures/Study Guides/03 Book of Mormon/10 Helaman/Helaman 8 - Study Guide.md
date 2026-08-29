@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 8
 slug: hel-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Corrupt judges seek to incite the people against Nephi—Abraham, Moses, Zenos, Zenock, Ezias, Isaiah, Jeremiah, Lehi, and Nephi all testified of Christ—By inspiration Nephi announces the murder of the chief judge. About 23–21 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -46,6 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Helaman 7]] — 3 footnote cross-references (from [[Helaman 8#^hel-8-5|Helaman 8:5]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-11|Helaman 8:11]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-14|Helaman 8:14]])
+- [[Alma 33]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-14|Helaman 8:14]])
+- [[Alma 34]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-19|Helaman 8:19]])
+- [[Helaman 6]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-21|Helaman 8:21]])
 - [[Alma 5]] — 2 parallel verses, e.g. [[Helaman 8#^hel-8-13|Helaman 8:13]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]
 <!-- SG:END related-scriptures -->
 

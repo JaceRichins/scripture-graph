@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 19
 slug: deut-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 19]] · My notes: [[Deuteronomy 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Cities of refuge are appointed for cases of manslaughter—Murderers will be put to death—Two or three witnesses are required in court cases—False witnesses will be punished.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 21]] — 2 footnote cross-references (from [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]])
+- [[Deuteronomy 27]] — 2 footnote cross-references (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-6|Deuteronomy 19:6]])
+- [[1 Chronicles 4]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-8|Deuteronomy 19:8]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
+- [[Mosiah 13]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
 - [[Deuteronomy 25]] — 8 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
 - [[Deuteronomy 21]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]]
 - [[Deuteronomy 15]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]

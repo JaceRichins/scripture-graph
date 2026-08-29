@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 52
 slug: jer-52
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Jeremiah 52 recounts the collapse of Judah's kingdom: Jerusalem is besieged and 
 - [[2 Chronicles 36]] — 2 footnote cross-references (from [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]])
 - [[2 Kings 25]] — 30 parallel verses, e.g. [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]] ↔ [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]]
 - [[Jeremiah 39]] — 22 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]]
+- [[2 Kings 24]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 24#^2kgs-24-18|2 Kings 24:18]]
 - [[2 Kings 23]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
 - [[2 Chronicles 36]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
@@ -64,12 +65,12 @@ Jeremiah 52 recounts the collapse of Judah's kingdom: Jerusalem is besieged and 
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]] ↔ [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]]
 - [[2 Chronicles 21]] — 3 parallel verses, e.g. [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]] ↔ [[2 Chronicles 21#^2chr-21-6|2 Chronicles 21:6]]
 - [[Jeremiah 40]] — 5 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]]
-- [[Jeremiah 41]] — 4 parallel verses, e.g. [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]] ↔ [[Jeremiah 41#^jer-41-10|Jeremiah 41:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Scattering of Israel]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*

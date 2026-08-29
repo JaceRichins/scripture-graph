@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 3
 slug: hab-3
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Habakkuk 3]] · My notes: [[Habakkuk 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In his prayer Habakkuk trembles at the majesty of God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 33]] — 2 footnote cross-references (from [[Habakkuk 3#^hab-3-3|Habakkuk 3:3]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Habakkuk 3#^hab-3-6|Habakkuk 3:6]])
+- [[Judges 3]] — 1 footnote cross-reference (from [[Habakkuk 3#^hab-3-7|Habakkuk 3:7]])
+- [[Numbers 31]] — 1 footnote cross-reference (from [[Habakkuk 3#^hab-3-7|Habakkuk 3:7]])
+- [[Exodus 19]] — 1 footnote cross-reference (from [[Habakkuk 3#^hab-3-10|Habakkuk 3:10]])
+- [[Joshua 10]] — 1 footnote cross-reference (from [[Habakkuk 3#^hab-3-11|Habakkuk 3:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

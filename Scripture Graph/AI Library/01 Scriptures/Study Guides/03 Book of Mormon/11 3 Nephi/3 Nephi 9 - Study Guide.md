@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 9
 slug: 3ne-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> In the darkness, the voice of Christ proclaims the destruction of many people and cities for their wickedness—He also proclaims His divinity, announces that the law of Moses is fulfilled, and invites men to come unto Him and be saved. About A.D. 34.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 8]] — 5 footnote cross-references (from [[3 Nephi 9#^3ne-9-3|3 Nephi 9:3]])
+- [[Moses 7]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-2|3 Nephi 9:2]])
+- [[3 Nephi 10]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-8|3 Nephi 9:8]])
+- [[John 1]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]])
+- [[3 Nephi 15]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-16|3 Nephi 9:16]])
+- [[1 Nephi 19]] — 2 footnote cross-references (from [[3 Nephi 9#^3ne-9-1|3 Nephi 9:1]])
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[Ether 4]] — 3 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[Ether 4#^ether-4-7|Ether 4:7]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]

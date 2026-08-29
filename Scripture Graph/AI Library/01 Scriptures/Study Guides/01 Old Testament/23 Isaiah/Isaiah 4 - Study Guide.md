@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 4
 slug: isa-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 4]] · My notes: [[Isaiah 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zion and her daughters will be redeemed and cleansed in the millennial day—Compare 2 Nephi 14.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 3]] — 2 footnote cross-references (from [[Isaiah 4#^isa-4-1|Isaiah 4:1]])
+- [[Jeremiah 23]] — 1 footnote cross-reference (from [[Isaiah 4#^isa-4-2|Isaiah 4:2]])
+- [[2 Nephi 3]] — 1 footnote cross-reference (from [[Isaiah 4#^isa-4-2|Isaiah 4:2]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[Isaiah 4#^isa-4-2|Isaiah 4:2]])
+- [[Isaiah 10]] — 1 footnote cross-reference (from [[Isaiah 4#^isa-4-2|Isaiah 4:2]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[Isaiah 4#^isa-4-2|Isaiah 4:2]])
 - [[2 Nephi 14]] — 6 parallel verses, e.g. [[Isaiah 4#^isa-4-1|Isaiah 4:1]] ↔ [[2 Nephi 14#^2ne-14-1|2 Nephi 14:1]]
 <!-- SG:END related-scriptures -->
 

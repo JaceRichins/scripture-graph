@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 39
 slug: jer-39
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 39]] · My notes: [[Jeremiah 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jerusalem is taken, and the people are taken captive—Jeremiah and Ebed-melech, the Ethiopian, are preserved.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 52]] — 5 footnote cross-references (from [[Jeremiah 39#^jer-39-1|Jeremiah 39:1]])
+- [[2 Kings 25]] — 3 footnote cross-references (from [[Jeremiah 39#^jer-39-1|Jeremiah 39:1]])
+- [[Ezekiel 24]] — 2 footnote cross-references (from [[Jeremiah 39#^jer-39-1|Jeremiah 39:1]])
+- [[Lamentations 4]] — 2 footnote cross-references (from [[Jeremiah 39#^jer-39-5|Jeremiah 39:5]])
+- [[Jeremiah 43]] — 2 footnote cross-references (from [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 39#^jer-39-3|Jeremiah 39:3]])
 - [[Jeremiah 52]] — 22 parallel verses, e.g. [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
 - [[2 Kings 25]] — 7 parallel verses, e.g. [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]] ↔ [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]]
 - [[Jeremiah 40]] — 7 parallel verses, e.g. [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]] ↔ [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 36
 slug: num-36
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Numbers 36]] · My notes: [[Numbers 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Some daughters in Israel are directed to marry within their own tribe—Inheritances are not to move from tribe to tribe.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 25]] — 2 footnote cross-references (from [[Numbers 36#^num-36-4|Numbers 36:4]])
+- [[Numbers 27]] — 1 footnote cross-reference (from [[Numbers 36#^num-36-2|Numbers 36:2]])
 - [[Numbers 27]] — 3 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
 - [[Numbers 4]] — 5 parallel verses, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Numbers 4#^num-4-28|Numbers 4:28]]
 - [[Numbers 26]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Numbers 26#^num-26-63|Numbers 26:63]]

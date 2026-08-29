@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 1
 slug: mal-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Malachi 1]] · My notes: [[Malachi 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 22]] — 3 footnote cross-references (from [[Malachi 1#^mal-1-8|Malachi 1:8]])
+- [[Romans 9]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-2|Malachi 1:2]])
+- [[Jeremiah 49]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-3|Malachi 1:3]])
+- [[Ezekiel 25]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-3|Malachi 1:3]])
+- [[Amos 5]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-10|Malachi 1:10]])
+- [[3 Nephi 9]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-10|Malachi 1:10]])
 - [[Psalm 113]] — 1 parallel verse, e.g. [[Malachi 1#^mal-1-11|Malachi 1:11]] ↔ [[Psalm 113#^ps-113-3|Psalm 113:3]]
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 1
 slug: judg-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Judges 1]] · My notes: [[Judges 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah, Simeon, and Joseph continue to conquer the Canaanites—Remnants of the Canaanites remain in the lands of Judah, Manasseh, Ephraim, Zebulun, Asher, Naphtali, and Dan.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Joshua 15]] — 2 footnote cross-references (from [[Judges 1#^judg-1-15|Judges 1:15]])
+- [[Joshua 17]] — 2 footnote cross-references (from [[Judges 1#^judg-1-19|Judges 1:19]])
+- [[Mormon 6]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-4|Judges 1:4]])
+- [[1 Samuel 15]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
+- [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
+- [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
 - [[Joshua 15]] — 6 parallel verses, e.g. [[Judges 1#^judg-1-15|Judges 1:15]] ↔ [[Joshua 15#^josh-15-19|Joshua 15:19]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Judges 1#^judg-1-8|Judges 1:8]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Joshua 17]] — 4 parallel verses, e.g. [[Judges 1#^judg-1-27|Judges 1:27]] ↔ [[Joshua 17#^josh-17-11|Joshua 17:11]]

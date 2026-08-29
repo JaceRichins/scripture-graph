@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 4
 slug: 1pet-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Peter 4]] · My notes: [[1 Peter 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-6|1 Peter 4:6]])
+- [[D&C 138]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-6|1 Peter 4:6]])
+- [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-11|1 Peter 4:11]])
+- [[Titus 2]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-11|1 Peter 4:11]])
+- [[Acts 5]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-13|1 Peter 4:13]])
+- [[D&C 66]] — 1 footnote cross-reference (from [[1 Peter 4#^1pet-4-13|1 Peter 4:13]])
 - [[D&C 138]] — 2 parallel verses, e.g. [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
 - [[D&C 76]] — 1 parallel verse, e.g. [[1 Peter 4#^1pet-4-6|1 Peter 4:6]] ↔ [[D&C 76#^dc-76-73|D&C 76:73]]
 <!-- SG:END related-scriptures -->

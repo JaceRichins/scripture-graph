@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 33]] · My notes: [[Ezekiel 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Watchmen who raise the warning voice save their own souls—Repentant sinners are saved—The righteous who turn to sin are damned—The people of Judah in Jerusalem are destroyed because of their sins.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 18]] — 8 footnote cross-references (from [[Ezekiel 33#^ezek-33-4|Ezekiel 33:4]])
+- [[Ezekiel 24]] — 3 footnote cross-references (from [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]])
+- [[1 Nephi 10]] — 2 footnote cross-references (from [[Ezekiel 33#^ezek-33-9|Ezekiel 33:9]])
+- [[Ezekiel 3]] — 2 footnote cross-references (from [[Ezekiel 33#^ezek-33-12|Ezekiel 33:12]])
+- [[Ezekiel 1]] — 2 footnote cross-references (from [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]])
+- [[3 Nephi 16]] — 1 footnote cross-reference (from [[Ezekiel 33#^ezek-33-2|Ezekiel 33:2]])
 - [[Ezekiel 18]] — 18 parallel verses, e.g. [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]] ↔ [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]]
 - [[Ezekiel 3]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]] ↔ [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]]
 - [[Ezekiel 20]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]] ↔ [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]]

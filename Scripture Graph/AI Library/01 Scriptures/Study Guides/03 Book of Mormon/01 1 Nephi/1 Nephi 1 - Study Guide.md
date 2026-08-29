@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 1
 slug: 1ne-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 1]] · My notes: [[1 Nephi 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi begins the record of his people—Lehi sees in vision a pillar of fire and reads from a book of prophecy—He praises God, foretells the coming of the Messiah, and prophesies the destruction of Jerusalem—He is persecuted by the Jews. About 600 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 2]] — 4 footnote cross-references (from [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]])
+- [[2 Chronicles 36]] — 4 footnote cross-references (from [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]])
+- [[Joseph Smith—History 1]] — 4 footnote cross-references (from [[1 Nephi 1#^1ne-1-6|1 Nephi 1:6]])
+- [[Mosiah 1]] — 3 footnote cross-references (from [[1 Nephi 1#^1ne-1-1|1 Nephi 1:1]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[1 Nephi 1#^1ne-1-3|1 Nephi 1:3]])
+- [[2 Kings 24]] — 3 footnote cross-references (from [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]])
 - [[Alma 36]] — 1 parallel verse, e.g. [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]] ↔ [[Alma 36#^alma-36-22|Alma 36:22]]
 - [[1 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]] ↔ [[1 Nephi 5#^1ne-5-12|1 Nephi 5:12]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[1 Nephi 1#^1ne-1-7|1 Nephi 1:7]] ↔ [[Alma 8#^alma-8-1|Alma 8:1]]

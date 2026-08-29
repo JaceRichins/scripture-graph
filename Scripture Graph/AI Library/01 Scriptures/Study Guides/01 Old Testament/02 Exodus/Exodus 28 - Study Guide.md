@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 28
 slug: ex-28
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 28]] · My notes: [[Exodus 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Aaron and his sons are to be consecrated and anointed to minister in the priest’s office—Aaron’s garments are to include a breastplate, an ephod, a robe, a coat, a miter, and a girdle—The breastplate of judgment is to contain twelve precious stones with the names of the tribes of Israel thereon—The Urim and Thummim are to be carried in the breastplate.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 39]] — 5 footnote cross-references (from [[Exodus 28#^ex-28-2|Exodus 28:2]])
+- [[Leviticus 8]] — 2 footnote cross-references (from [[Exodus 28#^ex-28-4|Exodus 28:4]])
+- [[Ezekiel 44]] — 2 footnote cross-references (from [[Exodus 28#^ex-28-39|Exodus 28:39]])
+- [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Exodus 28#^ex-28-1|Exodus 28:1]])
+- [[Hebrews 5]] — 1 footnote cross-reference (from [[Exodus 28#^ex-28-1|Exodus 28:1]])
+- [[D&C 28]] — 1 footnote cross-reference (from [[Exodus 28#^ex-28-1|Exodus 28:1]])
 - [[Exodus 39]] — 26 parallel verses, e.g. [[Exodus 28#^ex-28-21|Exodus 28:21]] ↔ [[Exodus 39#^ex-39-14|Exodus 39:14]]
 - [[Exodus 40]] — 8 parallel verses, e.g. [[Exodus 28#^ex-28-3|Exodus 28:3]] ↔ [[Exodus 40#^ex-40-13|Exodus 40:13]]
 - [[Exodus 30]] — 6 parallel verses, e.g. [[Exodus 28#^ex-28-41|Exodus 28:41]] ↔ [[Exodus 30#^ex-30-30|Exodus 30:30]]

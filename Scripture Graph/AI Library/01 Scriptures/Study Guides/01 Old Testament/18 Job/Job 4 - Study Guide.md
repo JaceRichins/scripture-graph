@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 4
 slug: job-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Job 4]] · My notes: [[Job 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Eliphaz reproves Job, asking such questions as, Are the righteous cut off? Shall a man be more pure than his maker?
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Job 2]] — 1 footnote cross-reference (from [[Job 4#^job-4-1|Job 4:1]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Job 4#^job-4-1|Job 4:1]])
+- [[Proverbs 3]] — 1 footnote cross-reference (from [[Job 4#^job-4-6|Job 4:6]])
+- [[Job 1]] — 1 footnote cross-reference (from [[Job 4#^job-4-6|Job 4:6]])
+- [[1 Corinthians 10]] — 1 footnote cross-reference (from [[Job 4#^job-4-7|Job 4:7]])
+- [[1 Nephi 22]] — 1 footnote cross-reference (from [[Job 4#^job-4-7|Job 4:7]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

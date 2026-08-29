@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 24
 slug: jer-24
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 24]] · My notes: [[Jeremiah 24 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Zedekiah and the people of Judah will be cursed and scattered—Some will be gathered back from Chaldea to serve the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Micah 6]] — 2 footnote cross-references (from [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]])
+- [[Jeremiah 27]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]])
+- [[Jeremiah 29]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]])
+- [[Hosea 9]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-2|Jeremiah 24:2]])
+- [[D&C 122]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-5|Jeremiah 24:5]])
 - [[Jeremiah 34]] — 3 parallel verses, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Jeremiah 34#^jer-34-17|Jeremiah 34:17]]
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Jeremiah 29#^jer-29-18|Jeremiah 29:18]]
 - [[Jeremiah 32]] — 2 parallel verses, e.g. [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]

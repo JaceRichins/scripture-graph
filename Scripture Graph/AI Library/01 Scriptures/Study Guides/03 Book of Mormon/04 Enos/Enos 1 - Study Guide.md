@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Enos
 chapter: 1
 slug: enos-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Enos 1]] · My notes: [[Enos 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Enos prays mightily and gains a remission of his sins—The voice of the Lord comes into his mind, promising salvation for the Lamanites in a future day—The Nephites sought to reclaim the Lamanites—Enos rejoices in his Redeemer. About 420 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Nephi 33]] — 4 footnote cross-references (from [[Enos 1#^enos-1-9|Enos 1:9]])
+- [[Words of Mormon 1]] — 4 footnote cross-references (from [[Enos 1#^enos-1-11|Enos 1:11]])
+- [[Jacob 7]] — 3 footnote cross-references (from [[Enos 1#^enos-1-1|Enos 1:1]])
+- [[Ether 12]] — 3 footnote cross-references (from [[Enos 1#^enos-1-13|Enos 1:13]])
+- [[Jarom 1]] — 3 footnote cross-references (from [[Enos 1#^enos-1-20|Enos 1:20]])
+- [[Ephesians 6]] — 2 footnote cross-references (from [[Enos 1#^enos-1-1|Enos 1:1]])
 - [[Jacob 1]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[Jacob 1#^jacob-1-1|Jacob 1:1]]
 - [[Mosiah 10]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-20|Enos 1:20]] ↔ [[Mosiah 10#^mosiah-10-12|Mosiah 10:12]]
 - [[Jacob 7]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-26|Enos 1:26]] ↔ [[Jacob 7#^jacob-7-27|Jacob 7:27]]

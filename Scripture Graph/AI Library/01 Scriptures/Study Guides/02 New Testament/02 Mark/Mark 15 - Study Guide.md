@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 15
 slug: mark-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Mark 15]] · My notes: [[Mark 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Pilate decrees the death of Jesus—Jesus is mocked and crucified between two thieves—He dies and is buried in the tomb of Joseph of Arimathæa.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 14]] — 3 footnote cross-references (from [[Mark 15#^mark-15-3|Mark 15:3]])
+- [[Isaiah 53]] — 2 footnote cross-references (from [[Mark 15#^mark-15-3|Mark 15:3]])
+- [[Luke 23]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-9|Mark 15:9]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-19|Mark 15:19]])
+- [[Psalm 22]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-24|Mark 15:24]])
+- [[Psalm 69]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-36|Mark 15:36]])
 - [[Matthew 27]] — 14 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
 - [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
 - [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]

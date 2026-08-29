@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 14
 slug: jer-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 14]] · My notes: [[Jeremiah 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah prays because of dearth and famine—The Lord will not hear because of the wickedness of His people.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 3]] — 2 footnote cross-references (from [[Jeremiah 14#^jer-14-4|Jeremiah 14:4]])
+- [[Psalm 106]] — 2 footnote cross-references (from [[Jeremiah 14#^jer-14-20|Jeremiah 14:20]])
+- [[Jeremiah 7]] — 1 footnote cross-reference (from [[Jeremiah 14#^jer-14-11|Jeremiah 14:11]])
+- [[Jeremiah 11]] — 1 footnote cross-reference (from [[Jeremiah 14#^jer-14-11|Jeremiah 14:11]])
+- [[Mosiah 11]] — 1 footnote cross-reference (from [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]])
+- [[Mosiah 21]] — 1 footnote cross-reference (from [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]])
 - [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]] ↔ [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]]
 - [[Jeremiah 21]] — 1 parallel verse, e.g. [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]] ↔ [[Jeremiah 21#^jer-21-9|Jeremiah 21:9]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]] ↔ [[Jeremiah 32#^jer-32-36|Jeremiah 32:36]]

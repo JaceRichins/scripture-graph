@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 19
 slug: alma-19
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 19]] · My notes: [[Alma 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lamoni receives the light of everlasting life and sees the Redeemer—His household falls into a trance, and many see angels—Ammon is preserved miraculously—He baptizes many and establishes a church among them. About 90 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 18]] — 7 footnote cross-references (from [[Alma 19#^alma-19-1|Alma 19:1]])
+- [[Alma 17]] — 5 footnote cross-references (from [[Alma 19#^alma-19-19|Alma 19:19]])
+- [[John 11]] — 2 footnote cross-references (from [[Alma 19#^alma-19-5|Alma 19:5]])
+- [[Luke 7]] — 2 footnote cross-references (from [[Alma 19#^alma-19-10|Alma 19:10]])
+- [[Moses 6]] — 2 footnote cross-references (from [[Alma 19#^alma-19-24|Alma 19:24]])
+- [[D&C 3]] — 1 footnote cross-reference (from [[Alma 19#^alma-19-4|Alma 19:4]])
 - [[Mosiah 27]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-5|Alma 19:5]] ↔ [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]]
 - [[Mosiah 26]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Alma 46#^alma-46-39|Alma 46:39]]

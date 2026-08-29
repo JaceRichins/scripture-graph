@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 40
 slug: gen-40
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Genesis 40]] · My notes: [[Genesis 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Joseph interprets the dreams of Pharaoh’s chief butler and chief baker—The butler fails to tell Pharaoh about Joseph.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 39]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-3|Genesis 40:3]])
+- [[Psalm 105]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-8|Genesis 40:8]])
+- [[Daniel 2]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-8|Genesis 40:8]])
+- [[2 Peter 1]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-8|Genesis 40:8]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-8|Genesis 40:8]])
 - [[Genesis 41]] — 2 parallel verses, e.g. [[Genesis 40#^gen-40-5|Genesis 40:5]] ↔ [[Genesis 41#^gen-41-11|Genesis 41:11]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 40#^gen-40-1|Genesis 40:1]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
 <!-- SG:END related-scriptures -->

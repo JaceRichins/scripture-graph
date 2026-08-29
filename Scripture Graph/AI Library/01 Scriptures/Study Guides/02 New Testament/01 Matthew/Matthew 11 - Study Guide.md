@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 11
 slug: matt-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 11]] · My notes: [[Matthew 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus acclaims John as more than a prophet—The cities of Chorazin, Bethsaida, and Capernaum are rebuked for unbelief—The Son reveals the Father—The yoke of Christ is easy, and His burden is light.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 7]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-2|Matthew 11:2]])
+- [[John 5]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-4|Matthew 11:4]])
+- [[D&C 35]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-5|Matthew 11:5]])
+- [[D&C 45]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-10|Matthew 11:10]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-15|Matthew 11:15]])
+- [[Luke 10]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-25|Matthew 11:25]])
 - [[Luke 7]] — 13 parallel verses, e.g. [[Matthew 11#^matt-11-10|Matthew 11:10]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
 - [[Luke 10]] — 6 parallel verses, e.g. [[Matthew 11#^matt-11-25|Matthew 11:25]] ↔ [[Luke 10#^luke-10-21|Luke 10:21]]
 - [[Matthew 10]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-24|Matthew 11:24]] ↔ [[Matthew 10#^matt-10-15|Matthew 10:15]]

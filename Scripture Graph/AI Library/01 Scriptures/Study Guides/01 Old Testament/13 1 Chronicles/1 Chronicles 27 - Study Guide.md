@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 27
 slug: 1chr-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Chronicles 27]] · My notes: [[1 Chronicles 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The officers who serve the king are named—The princes of the tribes of Israel are set forth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,12 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 21]] — 6 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-21|1 Chronicles 27:21]] ↔ [[Joshua 21#^josh-21-6|Joshua 21:6]]
-- [[1 Chronicles 6]] — 6 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-20|1 Chronicles 27:20]] ↔ [[1 Chronicles 6#^1chr-6-61|1 Chronicles 6:61]]
-- [[1 Chronicles 12]] — 4 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-20|1 Chronicles 27:20]] ↔ [[1 Chronicles 12#^1chr-12-31|1 Chronicles 12:31]]
-- [[1 Chronicles 9]] — 2 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-10|1 Chronicles 27:10]] ↔ [[1 Chronicles 9#^1chr-9-3|1 Chronicles 9:3]]
-- [[Joshua 13]] — 2 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-20|1 Chronicles 27:20]] ↔ [[Joshua 13#^josh-13-29|Joshua 13:29]]
-- [[1 Chronicles 5]] — 2 parallel verses, e.g. [[1 Chronicles 27#^1chr-27-20|1 Chronicles 27:20]] ↔ [[1 Chronicles 5#^1chr-5-23|1 Chronicles 5:23]]
+- [[1 Chronicles 28]] — 3 footnote cross-references (from [[1 Chronicles 27#^1chr-27-1|1 Chronicles 27:1]])
+- [[2 Samuel 23]] — 1 footnote cross-reference (from [[1 Chronicles 27#^1chr-27-6|1 Chronicles 27:6]])
+- [[1 Chronicles 11]] — 1 footnote cross-reference (from [[1 Chronicles 27#^1chr-27-7|1 Chronicles 27:7]])
+- [[Genesis 15]] — 1 footnote cross-reference (from [[1 Chronicles 27#^1chr-27-23|1 Chronicles 27:23]])
+- [[D&C 132]] — 1 footnote cross-reference (from [[1 Chronicles 27#^1chr-27-23|1 Chronicles 27:23]])
+- [[1 Chronicles 21]] — 1 footnote cross-reference (from [[1 Chronicles 27#^1chr-27-24|1 Chronicles 27:24]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

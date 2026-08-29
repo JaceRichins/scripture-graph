@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 33
 slug: 2ne-33
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 33]] · My notes: [[2 Nephi 33 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nephi’s words are true—They testify of Christ—Those who believe in Christ will believe Nephi’s words, which will stand as a witness before the judgment bar. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Enos 1]] — 3 footnote cross-references (from [[2 Nephi 33#^2ne-33-3|2 Nephi 33:3]])
+- [[Words of Mormon 1]] — 3 footnote cross-references (from [[2 Nephi 33#^2ne-33-3|2 Nephi 33:3]])
+- [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 33#^2ne-33-5|2 Nephi 33:5]])
+- [[Jacob 4]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-2|2 Nephi 33:2]])
+- [[Moroni 7]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-4|2 Nephi 33:4]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-5|2 Nephi 33:5]])
 - [[Moroni 10]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]] ↔ [[Moroni 10#^moro-10-28|Moroni 10:28]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Moroni 7#^moro-7-35|Moroni 7:35]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]

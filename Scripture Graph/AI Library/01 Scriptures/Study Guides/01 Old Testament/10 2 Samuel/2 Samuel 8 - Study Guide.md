@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 8
 slug: 2sam-8
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ The preservation formula in verses 6 and 14 repeatedly closes major portions of 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

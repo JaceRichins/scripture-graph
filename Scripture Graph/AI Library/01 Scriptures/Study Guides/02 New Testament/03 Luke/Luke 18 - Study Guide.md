@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 18]] · My notes: [[Luke 18 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parables of the unjust judge and the Pharisee and publican—He invites little children to come unto Him and teaches how to gain eternal life—He tells of His coming death and resurrection and gives sight to a blind man.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 5 footnote cross-references (from [[Luke 18#^luke-18-20|Luke 18:20]])
+- [[Alma 1]] — 2 footnote cross-references (from [[Luke 18#^luke-18-7|Luke 18:7]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-1|Luke 18:1]])
+- [[Numbers 31]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-7|Luke 18:7]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-7|Luke 18:7]])
+- [[John 5]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-9|Luke 18:9]])
 - [[Mark 10]] — 16 parallel verses, e.g. [[Luke 18#^luke-18-20|Luke 18:20]] ↔ [[Mark 10#^mark-10-19|Mark 10:19]]
 - [[D&C 101]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-4|Luke 18:4]] ↔ [[D&C 101#^dc-101-84|D&C 101:84]]
 - [[Matthew 19]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-25|Luke 18:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]

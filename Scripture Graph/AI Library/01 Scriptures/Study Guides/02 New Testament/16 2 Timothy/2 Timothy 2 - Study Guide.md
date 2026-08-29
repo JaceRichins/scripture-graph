@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 2
 slug: 2tim-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Timothy 2]] · My notes: [[2 Timothy 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ gives eternal glory to the elect—Shun contention and seek godliness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 Corinthians 9]] — 2 footnote cross-references (from [[2 Timothy 2#^2tim-2-5|2 Timothy 2:5]])
+- [[1 Timothy 1]] — 2 footnote cross-references (from [[2 Timothy 2#^2tim-2-17|2 Timothy 2:17]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[2 Timothy 2#^2tim-2-2|2 Timothy 2:2]])
+- [[Romans 6]] — 1 footnote cross-reference (from [[2 Timothy 2#^2tim-2-11|2 Timothy 2:11]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[2 Timothy 2#^2tim-2-12|2 Timothy 2:12]])
+- [[Romans 1]] — 1 footnote cross-reference (from [[2 Timothy 2#^2tim-2-12|2 Timothy 2:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

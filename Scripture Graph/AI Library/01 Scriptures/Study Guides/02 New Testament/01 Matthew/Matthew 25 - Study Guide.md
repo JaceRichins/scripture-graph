@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 25
 slug: matt-25
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 25]] · My notes: [[Matthew 25 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus gives the parables of the ten virgins, the talents, and the sheep and the goats.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Luke 12]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-7|Matthew 25:7]])
+- [[D&C 132]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-21|Matthew 25:21]])
+- [[D&C 60]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-25|Matthew 25:25]])
+- [[D&C 82]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-28|Matthew 25:28]])
+- [[D&C 29]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-33|Matthew 25:33]])
+- [[D&C 19]] — 2 footnote cross-references (from [[Matthew 25#^matt-25-41|Matthew 25:41]])
 - [[D&C 133]] — 2 parallel verses, e.g. [[Matthew 25#^matt-25-13|Matthew 25:13]] ↔ [[D&C 133#^dc-133-11|D&C 133:11]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-41|Matthew 25:41]] ↔ [[D&C 29#^dc-29-28|D&C 29:28]]
 - [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Matthew 25#^matt-25-30|Matthew 25:30]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-54|Joseph Smith—Matthew 1:54]]

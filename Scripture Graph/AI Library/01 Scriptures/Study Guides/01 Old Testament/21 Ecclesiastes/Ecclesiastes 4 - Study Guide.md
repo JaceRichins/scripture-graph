@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 4
 slug: eccl-4
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ecclesiastes 4]] · My notes: [[Ecclesiastes 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ecclesiastes 1]] — 2 footnote cross-references (from [[Ecclesiastes 4#^eccl-4-4|Ecclesiastes 4:4]])
+- [[Genesis 26]] — 1 footnote cross-reference (from [[Ecclesiastes 4#^eccl-4-4|Ecclesiastes 4:4]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Ecclesiastes 4#^eccl-4-5|Ecclesiastes 4:5]])
+- [[Proverbs 15]] — 1 footnote cross-reference (from [[Ecclesiastes 4#^eccl-4-6|Ecclesiastes 4:6]])
+- [[Moses 3]] — 1 footnote cross-reference (from [[Ecclesiastes 4#^eccl-4-9|Ecclesiastes 4:9]])
+- [[3 Nephi 12]] — 1 footnote cross-reference (from [[Ecclesiastes 4#^eccl-4-13|Ecclesiastes 4:13]])
 - [[Ecclesiastes 8]] — 2 parallel verses, e.g. [[Ecclesiastes 4#^eccl-4-3|Ecclesiastes 4:3]] ↔ [[Ecclesiastes 8#^eccl-8-9|Ecclesiastes 8:9]]
 <!-- SG:END related-scriptures -->
 

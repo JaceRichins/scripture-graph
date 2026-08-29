@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 14
 slug: ps-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 14]] · My notes: [[Psalm 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, The fool has said in his heart, there is no God—Israel will rejoice in the day of restoration.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 53]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
+- [[Proverbs 10]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
+- [[Psalm 10]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
+- [[Alma 30]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
+- [[Genesis 6]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
+- [[2 Timothy 3]] — 1 footnote cross-reference (from [[Psalm 14#^ps-14-1|Psalm 14:1]])
 - [[Psalm 53]] — 5 parallel verses, e.g. [[Psalm 14#^ps-14-7|Psalm 14:7]] ↔ [[Psalm 53#^ps-53-6|Psalm 53:6]]
 - [[Romans 3]] — 1 parallel verse, e.g. [[Psalm 14#^ps-14-3|Psalm 14:3]] ↔ [[Romans 3#^rom-3-12|Romans 3:12]]
 <!-- SG:END related-scriptures -->

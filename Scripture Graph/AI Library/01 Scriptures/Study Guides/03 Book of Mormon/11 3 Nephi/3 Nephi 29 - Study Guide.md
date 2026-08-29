@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 29
 slug: 3ne-29
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[3 Nephi 29]] · My notes: [[3 Nephi 29 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The coming forth of the Book of Mormon is a sign that the Lord has commenced to gather Israel and fulfill His covenants—Those who reject His latter-day revelations and gifts will be cursed. About A.D. 34–35.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 9]] — 3 footnote cross-references (from [[3 Nephi 29#^3ne-29-5|3 Nephi 29:5]])
+- [[2 Nephi 28]] — 2 footnote cross-references (from [[3 Nephi 29#^3ne-29-5|3 Nephi 29:5]])
+- [[Mormon 8]] — 2 footnote cross-references (from [[3 Nephi 29#^3ne-29-5|3 Nephi 29:5]])
+- [[2 Nephi 30]] — 1 footnote cross-reference (from [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]])
+- [[Mormon 3]] — 1 footnote cross-reference (from [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]])
+- [[Ezekiel 20]] — 1 footnote cross-reference (from [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]])
 - [[3 Nephi 21]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]] ↔ [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]]
 - [[Mormon 8]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]] ↔ [[Mormon 8#^morm-8-21|Mormon 8:21]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[3 Nephi 29#^3ne-29-6|3 Nephi 29:6]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]

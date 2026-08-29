@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Luke 12]] · My notes: [[Luke 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus teaches, Beware of hypocrisy; lay up treasures in heaven rather than on earth; prepare for the coming of the Lord; where much is given, much is required; preaching the gospel causes division.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 3 footnote cross-references (from [[Luke 12#^luke-12-11|Luke 12:11]])
+- [[D&C 24]] — 2 footnote cross-references (from [[Luke 12#^luke-12-12|Luke 12:12]])
+- [[Matthew 25]] — 2 footnote cross-references (from [[Luke 12#^luke-12-32|Luke 12:32]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[Luke 12#^luke-12-34|Luke 12:34]])
+- [[Proverbs 28]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-2|Luke 12:2]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-3|Luke 12:3]])
 - [[Matthew 6]] — 7 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
 - [[3 Nephi 13]] — 6 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 - [[Matthew 24]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-39|Luke 12:39]] ↔ [[Matthew 24#^matt-24-43|Matthew 24:43]]

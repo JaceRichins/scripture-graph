@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 11
 slug: jer-11
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 11]] · My notes: [[Jeremiah 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The people of Judah are cursed for breaking the covenant of obedience—The Lord will not hear their prayers.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 20]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-3|Jeremiah 11:3]])
+- [[Alma 5]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]])
+- [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-5|Jeremiah 11:5]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-5|Jeremiah 11:5]])
+- [[Exodus 3]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-5|Jeremiah 11:5]])
+- [[Zephaniah 1]] — 1 footnote cross-reference (from [[Jeremiah 11#^jer-11-10|Jeremiah 11:10]])
 - [[Jeremiah 7]] — 7 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 7#^jer-7-17|Jeremiah 7:17]]
 - [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 11#^jer-11-5|Jeremiah 11:5]] ↔ [[Jeremiah 32#^jer-32-22|Jeremiah 32:22]]
 - [[Jeremiah 44]] — 5 parallel verses, e.g. [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]] ↔ [[Jeremiah 44#^jer-44-6|Jeremiah 44:6]]

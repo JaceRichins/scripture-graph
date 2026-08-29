@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 8
 slug: prov-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 8]] · My notes: [[Proverbs 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wisdom is greatly to be desired—The Lord and the sons of men possessed wisdom in the premortal life.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Proverbs 14]] — 2 parallel verses, e.g. [[Proverbs 8#^prov-8-13|Proverbs 8:13]] ↔ [[Proverbs 14#^prov-14-26|Proverbs 14:26]]
+- [[Proverbs 21]] — 2 footnote cross-references (from [[Proverbs 8#^prov-8-15|Proverbs 8:15]])
+- [[Proverbs 1]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
+- [[Mosiah 12]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
+- [[3 Nephi 19]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
+- [[2 Nephi 32]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-9|Proverbs 8:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

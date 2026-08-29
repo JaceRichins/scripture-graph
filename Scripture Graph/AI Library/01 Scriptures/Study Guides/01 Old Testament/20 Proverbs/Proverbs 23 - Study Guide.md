@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 23
 slug: prov-23
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 23]] · My notes: [[Proverbs 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Labor not to be rich—As a man thinks in his heart, so is he—Withhold not correction from a child—Be not among drunkards.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Proverbs 24]] — 2 footnote cross-references (from [[Proverbs 23#^prov-23-9|Proverbs 23:9]])
+- [[Proverbs 22]] — 2 footnote cross-references (from [[Proverbs 23#^prov-23-10|Proverbs 23:10]])
+- [[Jacob 2]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-4|Proverbs 23:4]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-4|Proverbs 23:4]])
+- [[Matthew 7]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-9|Proverbs 23:9]])
+- [[Matthew 15]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-9|Proverbs 23:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 10
 slug: zech-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Zechariah 10]] · My notes: [[Zechariah 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Judah and Joseph will be scattered among the people in far countries—The Lord will hiss for them, gather them, and redeem them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,10 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 24]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 24#^jer-24-6|Jeremiah 24:6]]
-- [[Ezekiel 39]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Ezekiel 39#^ezek-39-22|Ezekiel 39:22]]
-- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 16#^jer-16-15|Jeremiah 16:15]]
-- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Zechariah 10#^zech-10-6|Zechariah 10:6]] ↔ [[Jeremiah 32#^jer-32-37|Jeremiah 32:37]]
+- [[Deuteronomy 11]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-1|Zechariah 10:1]])
+- [[Joel 2]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-1|Zechariah 10:1]])
+- [[Deuteronomy 18]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-2|Zechariah 10:2]])
+- [[Psalm 118]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-4|Zechariah 10:4]])
+- [[Matthew 21]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-4|Zechariah 10:4]])
+- [[Isaiah 22]] — 1 footnote cross-reference (from [[Zechariah 10#^zech-10-4|Zechariah 10:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

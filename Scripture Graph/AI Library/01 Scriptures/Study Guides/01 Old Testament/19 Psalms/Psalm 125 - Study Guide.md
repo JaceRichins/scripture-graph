@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 125
 slug: ps-125
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 125]] · My notes: [[Psalm 125 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Blessed are they who trust in the Lord—Peace will be upon Israel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[1 John 2]] — 1 footnote cross-reference (from [[Psalm 125#^ps-125-1|Psalm 125:1]])
+- [[Psalm 128]] — 1 footnote cross-reference (from [[Psalm 125#^ps-125-5|Psalm 125:5]])
+- [[Galatians 6]] — 1 footnote cross-reference (from [[Psalm 125#^ps-125-5|Psalm 125:5]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

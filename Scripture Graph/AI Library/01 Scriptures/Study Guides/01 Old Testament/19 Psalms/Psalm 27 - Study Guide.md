@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 27
 slug: ps-27
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 27]] · My notes: [[Psalm 27 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David says, The Lord is my light and my salvation—He desires to dwell in the house of the Lord forever—He counsels, Wait on the Lord and be of good courage.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,10 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Ezekiel 32]] — 6 parallel verses, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Ezekiel 32#^ezek-32-23|Ezekiel 32:23]]
-- [[Psalm 31]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-14|Psalm 27:14]] ↔ [[Psalm 31#^ps-31-24|Psalm 31:24]]
-- [[Psalm 116]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Psalm 116#^ps-116-9|Psalm 116:9]]
-- [[Isaiah 38]] — 1 parallel verse, e.g. [[Psalm 27#^ps-27-13|Psalm 27:13]] ↔ [[Isaiah 38#^isa-38-11|Isaiah 38:11]]
+- [[D&C 3]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-1|Psalm 27:1]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
+- [[Mormon 7]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
+- [[Moses 6]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
+- [[Psalm 65]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 12
 slug: rom-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Romans 12]] · My notes: [[Romans 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Paul counsels the Saints to present their bodies as a living sacrifice, to use their own grace-given gifts, and to live as Saints should live.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Mosiah 2]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-1|Romans 12:1]])
+- [[Moroni 10]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-1|Romans 12:1]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-1|Romans 12:1]])
+- [[Leviticus 1]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-1|Romans 12:1]])
+- [[Ephesians 5]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-2|Romans 12:2]])
+- [[1 John 5]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-2|Romans 12:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

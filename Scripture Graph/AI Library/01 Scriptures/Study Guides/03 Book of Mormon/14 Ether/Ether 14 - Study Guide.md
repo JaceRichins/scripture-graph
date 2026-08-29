@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 14
 slug: ether-14
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ether 14]] · My notes: [[Ether 14 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The iniquity of the people brings a curse upon the land—Coriantumr engages in warfare against Gilead, then Lib, and then Shiz—Blood and carnage cover the land.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mormon 2]] — 2 footnote cross-references (from [[Ether 14#^ether-14-1|Ether 14:1]])
+- [[Helaman 12]] — 1 footnote cross-reference (from [[Ether 14#^ether-14-1|Ether 14:1]])
+- [[Helaman 13]] — 1 footnote cross-reference (from [[Ether 14#^ether-14-1|Ether 14:1]])
+- [[Mormon 1]] — 1 footnote cross-reference (from [[Ether 14#^ether-14-1|Ether 14:1]])
+- [[Ether 7]] — 1 footnote cross-reference (from [[Ether 14#^ether-14-6|Ether 14:6]])
+- [[Ether 11]] — 1 footnote cross-reference (from [[Ether 14#^ether-14-21|Ether 14:21]])
 - [[Ether 13]] — 3 parallel verses, e.g. [[Ether 14#^ether-14-15|Ether 14:15]] ↔ [[Ether 13#^ether-13-28|Ether 13:28]]
 - [[Alma 1]] — 2 parallel verses, e.g. [[Ether 14#^ether-14-11|Ether 14:11]] ↔ [[Alma 1#^alma-1-1|Alma 1:1]]
 - [[Mormon 1]] — 2 parallel verses, e.g. [[Ether 14#^ether-14-23|Ether 14:23]] ↔ [[Mormon 1#^morm-1-19|Mormon 1:19]]

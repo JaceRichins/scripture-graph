@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 8
 slug: 1kgs-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Kings 8]] · My notes: [[1 Kings 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The ark, containing the two tablets of stone, is placed in the Holy of Holies—The glory of the Lord fills the temple—Solomon offers the dedicatory prayer—He asks for temporal and spiritual blessings upon repentant and prayerful Israel—The people sacrifice and worship for fourteen days.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 109]] — 7 footnote cross-references (from [[1 Kings 8#^1kgs-8-11|1 Kings 8:11]])
+- [[2 Chronicles 7]] — 5 footnote cross-references (from [[1 Kings 8#^1kgs-8-2|1 Kings 8:2]])
+- [[Deuteronomy 4]] — 3 footnote cross-references (from [[1 Kings 8#^1kgs-8-9|1 Kings 8:9]])
+- [[2 Samuel 7]] — 3 footnote cross-references (from [[1 Kings 8#^1kgs-8-13|1 Kings 8:13]])
+- [[D&C 64]] — 3 footnote cross-references (from [[1 Kings 8#^1kgs-8-41|1 Kings 8:41]])
+- [[2 Chronicles 5]] — 2 footnote cross-references (from [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]])
 - [[2 Chronicles 6]] — 44 parallel verses, e.g. [[1 Kings 8#^1kgs-8-43|1 Kings 8:43]] ↔ [[2 Chronicles 6#^2chr-6-33|2 Chronicles 6:33]]
 - [[2 Chronicles 5]] — 13 parallel verses, e.g. [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[2 Chronicles 7]] — 7 parallel verses, e.g. [[1 Kings 8#^1kgs-8-64|1 Kings 8:64]] ↔ [[2 Chronicles 7#^2chr-7-7|2 Chronicles 7:7]]

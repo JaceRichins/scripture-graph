@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 9
 slug: matt-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Matthew 9]] · My notes: [[Matthew 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jesus forgives sins, heals a paralytic, and calls Matthew—Jesus eats with sinners, heals a woman who touches His garments, and raises Jairus’s daughter to life—He opens the eyes of the blind, casts out a devil, and preaches the gospel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 3]] — 2 footnote cross-references (from [[Matthew 9#^matt-9-28|Matthew 9:28]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Matthew 9#^matt-9-28|Matthew 9:28]])
+- [[Matthew 4]] — 2 footnote cross-references (from [[Matthew 9#^matt-9-32|Matthew 9:32]])
+- [[Luke 7]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
+- [[D&C 112]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
 - [[Mark 2]] — 10 parallel verses, e.g. [[Matthew 9#^matt-9-6|Matthew 9:6]] ↔ [[Mark 2#^mark-2-10|Mark 2:10]]
 - [[Luke 5]] — 9 parallel verses, e.g. [[Matthew 9#^matt-9-15|Matthew 9:15]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-35|Matthew 9:35]] ↔ [[Matthew 4#^matt-4-23|Matthew 4:23]]

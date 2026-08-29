@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 21
 slug: 2ne-21
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 21]] · My notes: [[2 Nephi 21 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The stem of Jesse (Christ) will judge in righteousness—The knowledge of God will cover the earth in the Millennium—The Lord will raise an ensign and gather Israel—Compare Isaiah 11. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 11]] — 2 footnote cross-references (from [[2 Nephi 21#^2ne-21-1|2 Nephi 21:1]])
+- [[D&C 113]] — 2 footnote cross-references (from [[2 Nephi 21#^2ne-21-1|2 Nephi 21:1]])
+- [[1 Kings 3]] — 2 footnote cross-references (from [[2 Nephi 21#^2ne-21-2|2 Nephi 21:2]])
+- [[D&C 45]] — 2 footnote cross-references (from [[2 Nephi 21#^2ne-21-10|2 Nephi 21:10]])
+- [[Zechariah 10]] — 2 footnote cross-references (from [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]])
+- [[Isaiah 53]] — 1 footnote cross-reference (from [[2 Nephi 21#^2ne-21-1|2 Nephi 21:1]])
 - [[Isaiah 11]] — 18 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[2 Nephi 30]] — 6 parallel verses, e.g. [[2 Nephi 21#^2ne-21-4|2 Nephi 21:4]] ↔ [[2 Nephi 30#^2ne-30-9|2 Nephi 30:9]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]

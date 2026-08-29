@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 31
 slug: 1sam-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 31]] · My notes: [[1 Samuel 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Philistines defeat Israel—Saul and his three sons are slain—Their bodies are retrieved by the Gileadites and burned.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Chronicles 10]] — 2 footnote cross-references (from [[1 Samuel 31#^1sam-31-1|1 Samuel 31:1]])
+- [[2 Samuel 1]] — 1 footnote cross-reference (from [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]])
+- [[1 Samuel 26]] — 1 footnote cross-reference (from [[1 Samuel 31#^1sam-31-5|1 Samuel 31:5]])
+- [[2 Samuel 2]] — 1 footnote cross-reference (from [[1 Samuel 31#^1sam-31-11|1 Samuel 31:11]])
 - [[1 Chronicles 10]] — 11 parallel verses, e.g. [[1 Samuel 31#^1sam-31-4|1 Samuel 31:4]] ↔ [[1 Chronicles 10#^1chr-10-4|1 Chronicles 10:4]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]] ↔ [[Judges 10#^judg-10-8|Judges 10:8]]
 <!-- SG:END related-scriptures -->

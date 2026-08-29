@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 20
 slug: prov-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Proverbs 20]] · My notes: [[Proverbs 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Wine is a mocker, and strong drink is raging—Turn to the Lord, and He will save you.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Proverbs 19]] — 2 footnote cross-references (from [[Proverbs 20#^prov-20-2|Proverbs 20:2]])
+- [[Mosiah 17]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-2|Proverbs 20:2]])
+- [[Ether 12]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-3|Proverbs 20:3]])
+- [[D&C 78]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
+- [[D&C 11]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
+- [[Proverbs 18]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
 - [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 20#^prov-20-16|Proverbs 20:16]] ↔ [[Proverbs 27#^prov-27-13|Proverbs 27:13]]
 <!-- SG:END related-scriptures -->
 

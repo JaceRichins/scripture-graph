@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 85
 slug: ps-85
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 85]] · My notes: [[Psalm 85 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord speaks peace to His people—Truth will spring out of the earth (the Book of Mormon), and righteousness will look down from heaven.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-1|Psalm 85:1]])
+- [[2 Peter 2]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-8|Psalm 85:8]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-8|Psalm 85:8]])
+- [[Isaiah 46]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-9|Psalm 85:9]])
+- [[Isaiah 51]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-9|Psalm 85:9]])
+- [[James 1]] — 1 footnote cross-reference (from [[Psalm 85#^ps-85-12|Psalm 85:12]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

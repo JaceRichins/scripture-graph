@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 4
 slug: 1sam-4
-corpus_version_reviewed: 5
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -68,9 +68,9 @@ A repeated question about public noise connects the scenes: the first noise is I
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

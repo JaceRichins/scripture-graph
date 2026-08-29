@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 8
 slug: deut-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 8]] · My notes: [[Deuteronomy 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord tested the children of Israel in the wilderness for forty years—Eating manna taught them that man lives by the word of God—Their clothing did not wear out—The Lord chastened them—If they serve other gods, they will perish.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 17]] — 3 footnote cross-references (from [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]])
+- [[Exodus 15]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-2|Deuteronomy 8:2]])
+- [[2 Chronicles 32]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-2|Deuteronomy 8:2]])
+- [[Nehemiah 9]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]])
+- [[Matthew 4]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]])
 - [[Deuteronomy 30]] — 4 parallel verses, e.g. [[Deuteronomy 8#^deut-8-6|Deuteronomy 8:6]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
 - [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]

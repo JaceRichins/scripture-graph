@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 34
 slug: ezek-34
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 34]] · My notes: [[Ezekiel 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reproves those shepherds who do not feed the flock—In the last days, the Lord will gather the lost sheep of Israel—The Messiah will be their Shepherd—The Lord will make His gospel covenant with them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Ezekiel 37]] — 5 footnote cross-references (from [[Ezekiel 34#^ezek-34-23|Ezekiel 34:23]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[Ezekiel 34#^ezek-34-12|Ezekiel 34:12]])
+- [[Ezekiel 38]] — 2 footnote cross-references (from [[Ezekiel 34#^ezek-34-13|Ezekiel 34:13]])
+- [[Isaiah 56]] — 1 footnote cross-reference (from [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]])
+- [[2 Nephi 26]] — 1 footnote cross-reference (from [[Ezekiel 34#^ezek-34-3|Ezekiel 34:3]])
+- [[2 Nephi 28]] — 1 footnote cross-reference (from [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]])
 - [[Ezekiel 20]] — 7 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]

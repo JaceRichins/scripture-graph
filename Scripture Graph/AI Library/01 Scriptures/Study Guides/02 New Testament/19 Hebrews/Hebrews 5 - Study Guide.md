@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 5
 slug: heb-5
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 5]] · My notes: [[Hebrews 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> For a man to hold the priesthood, he must be called of God as was Aaron—Christ was a priest forever after the order of Melchizedek—Jesus Christ is the Author of eternal salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Leviticus 4]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-3|Hebrews 5:3]])
+- [[Exodus 28]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-4|Hebrews 5:4]])
+- [[Hebrews 1]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-5|Hebrews 5:5]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-6|Hebrews 5:6]])
+- [[Matthew 26]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-7|Hebrews 5:7]])
+- [[John 16]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-11|Hebrews 5:11]])
 - [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
 - [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
 <!-- SG:END related-scriptures -->

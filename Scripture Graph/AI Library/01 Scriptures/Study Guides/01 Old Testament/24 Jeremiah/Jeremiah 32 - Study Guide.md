@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 32
 slug: jer-32
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Jeremiah 32]] · My notes: [[Jeremiah 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Jeremiah is imprisoned by Zedekiah—The prophet purchases land to symbolize the return of Israel to their land—The Lord will gather Israel and make an everlasting covenant with them.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-2|Jeremiah 32:2]])
+- [[Genesis 23]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-9|Jeremiah 32:9]])
+- [[Jeremiah 43]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-12|Jeremiah 32:12]])
+- [[2 Kings 23]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-29|Jeremiah 32:29]])
+- [[Jeremiah 2]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-33|Jeremiah 32:33]])
+- [[Ezekiel 8]] — 1 footnote cross-reference (from [[Jeremiah 32#^jer-32-33|Jeremiah 32:33]])
 - [[Jeremiah 34]] — 10 parallel verses, e.g. [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 - [[Jeremiah 44]] — 16 parallel verses, e.g. [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]] ↔ [[Jeremiah 44#^jer-44-30|Jeremiah 44:30]]
 - [[Jeremiah 7]] — 12 parallel verses, e.g. [[Jeremiah 32#^jer-32-35|Jeremiah 32:35]] ↔ [[Jeremiah 7#^jer-7-31|Jeremiah 7:31]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 2
 slug: esth-2
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Esther 2]] · My notes: [[Esther 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Ahasuerus seeks a new queen—Mordecai presents Esther—Esther pleases the king and is chosen as queen—Mordecai exposes a plot against the king.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Esther 6]] — 2 footnote cross-references (from [[Esther 2#^esth-2-21|Esther 2:21]])
+- [[2 Kings 24]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
+- [[1 Nephi 10]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
+- [[2 Nephi 6]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
+- [[Helaman 8]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
+- [[Esther 8]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-10|Esther 2:10]])
 - [[Esther 6]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-2|Esther 2:2]] ↔ [[Esther 6#^esth-6-3|Esther 6:3]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-8|Esther 2:8]] ↔ [[Esther 9#^esth-9-1|Esther 9:1]]
 - [[Esther 1]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-18|Esther 2:18]] ↔ [[Esther 1#^esth-1-3|Esther 1:3]]

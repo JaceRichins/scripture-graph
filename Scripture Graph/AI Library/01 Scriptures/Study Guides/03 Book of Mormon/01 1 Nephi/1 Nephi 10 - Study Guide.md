@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 10
 slug: 1ne-10
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Nephi 10]] · My notes: [[1 Nephi 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Lehi predicts that the Jews will be taken captive by the Babylonians—He tells of the coming among the Jews of a Messiah, a Savior, a Redeemer—Lehi tells also of the coming of the one who should baptize the Lamb of God—Lehi tells of the death and resurrection of the Messiah—He compares the scattering and gathering of Israel to an olive tree—Nephi speaks of the Son of God, of the gift of the Holy Ghost, and of the need for righteousness. About 600–592 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 19]] — 3 footnote cross-references (from [[1 Nephi 10#^1ne-10-1|1 Nephi 10:1]])
+- [[1 Nephi 8]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]])
+- [[2 Nephi 6]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
+- [[Helaman 8]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
+- [[2 Nephi 25]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
+- [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
 - [[Moroni 10]] — 7 parallel verses, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[Moroni 10#^moro-10-19|Moroni 10:19]]
 - [[3 Nephi 21]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[Moroni 6]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]

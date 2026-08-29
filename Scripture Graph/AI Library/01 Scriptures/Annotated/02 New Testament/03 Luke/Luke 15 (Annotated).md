@@ -13,13 +13,18 @@ cssclasses:
 
 [[Luke 15|Plain text]] · [[Luke 15 - Study Guide|Study guide]] · [[Luke 15 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> Jesus gives the parables of the lost sheep, the piece of silver, and the prodigal son.
+
 ![[Luke 15#^luke-15-1]]
+> [[Mark 2#^mark-2-15|Mark 2:16 (15–16)]]
 
 ![[Luke 15#^luke-15-2]]
 
 ![[Luke 15#^luke-15-3]]
 
 ![[Luke 15#^luke-15-4]]
+> [[Ezekiel 34#^ezek-34-11|Ezek. 34:16 (11–12, 16)]]
 
 ![[Luke 15#^luke-15-5]]
 
@@ -38,6 +43,7 @@ cssclasses:
 ![[Luke 15#^luke-15-12]]
 
 ![[Luke 15#^luke-15-13]]
+> [[Proverbs 28#^prov-28-7|Prov. 28:7]]
 
 ![[Luke 15#^luke-15-14]]
 
@@ -46,8 +52,10 @@ cssclasses:
 ![[Luke 15#^luke-15-16]]
 
 ![[Luke 15#^luke-15-17]]
+> [[Psalm 119#^ps-119-59|Ps. 119:59]]
 
 ![[Luke 15#^luke-15-18]]
+> [[Lamentations 3#^lam-3-40|Lam. 3:40]]
 
 ![[Luke 15#^luke-15-19]]
 
@@ -74,5 +82,6 @@ cssclasses:
 ![[Luke 15#^luke-15-30]]
 
 ![[Luke 15#^luke-15-31]]
+> [[D&C 84#^dc-84-38|D&amp;C 84:38]]
 
 ![[Luke 15#^luke-15-32]]

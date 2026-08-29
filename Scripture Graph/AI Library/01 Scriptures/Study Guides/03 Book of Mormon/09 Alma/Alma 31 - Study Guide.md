@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 31
 slug: alma-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Alma 31]] · My notes: [[Alma 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Alma heads a mission to reclaim the apostate Zoramites—The Zoramites deny Christ, believe in a false concept of election, and worship with set prayers—The missionaries are filled with the Holy Spirit—Their afflictions are swallowed up in the joy of Christ. About 74 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -49,6 +50,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Alma 35]] — 3 footnote cross-references (from [[Alma 31#^alma-31-1|Alma 31:1]])
+- [[Matthew 6]] — 3 footnote cross-references (from [[Alma 31#^alma-31-14|Alma 31:14]])
+- [[Moses 7]] — 2 footnote cross-references (from [[Alma 31#^alma-31-2|Alma 31:2]])
+- [[Jacob 2]] — 2 footnote cross-references (from [[Alma 31#^alma-31-5|Alma 31:5]])
+- [[Alma 45]] — 2 footnote cross-references (from [[Alma 31#^alma-31-5|Alma 31:5]])
+- [[Helaman 5]] — 2 footnote cross-references (from [[Alma 31#^alma-31-5|Alma 31:5]])
 - [[Alma 13]] — 1 parallel verse, e.g. [[Alma 31#^alma-31-36|Alma 31:36]] ↔ [[Alma 13#^alma-13-21|Alma 13:21]]
 <!-- SG:END related-scriptures -->
 

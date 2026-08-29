@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 30
 slug: ex-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 30]] · My notes: [[Exodus 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An altar of incense is to be placed before the veil—Atonement is to be made with the blood of the sin offering—Atonement money is to be paid to ransom each male—Priests are to use holy anointing oil and perfume.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 35]] — 3 footnote cross-references (from [[Exodus 30#^ex-30-1|Exodus 30:1]])
+- [[Exodus 25]] — 3 footnote cross-references (from [[Exodus 30#^ex-30-6|Exodus 30:6]])
+- [[Exodus 31]] — 3 footnote cross-references (from [[Exodus 30#^ex-30-7|Exodus 30:7]])
+- [[1 Kings 6]] — 2 footnote cross-references (from [[Exodus 30#^ex-30-1|Exodus 30:1]])
+- [[Exodus 40]] — 2 footnote cross-references (from [[Exodus 30#^ex-30-7|Exodus 30:7]])
+- [[1 Chronicles 6]] — 2 footnote cross-references (from [[Exodus 30#^ex-30-7|Exodus 30:7]])
 - [[Exodus 25]] — 8 parallel verses, e.g. [[Exodus 30#^ex-30-5|Exodus 30:5]] ↔ [[Exodus 25#^ex-25-28|Exodus 25:28]]
 - [[Numbers 7]] — 13 parallel verses, e.g. [[Exodus 30#^ex-30-24|Exodus 30:24]] ↔ [[Numbers 7#^num-7-85|Numbers 7:85]]
 - [[Leviticus 23]] — 10 parallel verses, e.g. [[Exodus 30#^ex-30-21|Exodus 30:21]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]

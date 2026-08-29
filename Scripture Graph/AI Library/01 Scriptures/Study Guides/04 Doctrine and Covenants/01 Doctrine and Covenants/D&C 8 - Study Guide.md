@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 8
 slug: dc-8
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 8]] · My notes: [[D&C 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, Revelation comes by the power of the Holy Ghost; 6–12, Knowledge of the mysteries of God and the power to translate ancient records come by faith.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 9]] — 4 footnote cross-references (from [[D&C 8#^dc-8-1|D&C 8:1]])
+- [[D&C 6]] — 3 footnote cross-references (from [[D&C 8#^dc-8-1|D&C 8:1]])
+- [[Deuteronomy 11]] — 2 footnote cross-references (from [[D&C 8#^dc-8-3|D&C 8:3]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[D&C 8#^dc-8-1|D&C 8:1]])
+- [[Daniel 5]] — 1 footnote cross-reference (from [[D&C 8#^dc-8-1|D&C 8:1]])
+- [[Mosiah 8]] — 1 footnote cross-reference (from [[D&C 8#^dc-8-1|D&C 8:1]])
 - [[D&C 11]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-11|D&C 8:11]] ↔ [[D&C 11#^dc-11-17|D&C 11:17]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-1|D&C 8:1]] ↔ [[Alma 40#^alma-40-22|Alma 40:22]]
 <!-- SG:END related-scriptures -->

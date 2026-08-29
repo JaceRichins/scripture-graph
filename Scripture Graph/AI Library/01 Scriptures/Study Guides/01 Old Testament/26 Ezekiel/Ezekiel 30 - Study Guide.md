@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 30
 slug: ezek-30
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Ezekiel 30]] · My notes: [[Ezekiel 30 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Egypt and its helpers will be made desolate by Babylon.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Jeremiah 46]] — 3 footnote cross-references (from [[Ezekiel 30#^ezek-30-5|Ezekiel 30:5]])
+- [[Ezekiel 34]] — 1 footnote cross-reference (from [[Ezekiel 30#^ezek-30-3|Ezekiel 30:3]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[Ezekiel 30#^ezek-30-3|Ezekiel 30:3]])
+- [[Zephaniah 2]] — 1 footnote cross-reference (from [[Ezekiel 30#^ezek-30-5|Ezekiel 30:5]])
+- [[Isaiah 66]] — 1 footnote cross-reference (from [[Ezekiel 30#^ezek-30-5|Ezekiel 30:5]])
+- [[Ezekiel 27]] — 1 footnote cross-reference (from [[Ezekiel 30#^ezek-30-5|Ezekiel 30:5]])
 - [[Ezekiel 29]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-23|Ezekiel 30:23]] ↔ [[Ezekiel 29#^ezek-29-12|Ezekiel 29:12]]
 - [[Ezekiel 28]] — 6 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Jeremiah 32]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]

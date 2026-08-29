@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 15
 slug: 1sam-15
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[1 Samuel 15]] · My notes: [[1 Samuel 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Saul is commanded to smite and destroy the Amalekites and all that they have—He saves some animals to sacrifice—Saul is rejected as king and told that to obey is better than sacrifice—Samuel destroys Agag.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,18 +41,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 10]] — 6 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
-- [[Joshua 11]] — 3 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Joshua 11#^josh-11-11|Joshua 11:11]]
-- [[Exodus 17]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Exodus 17#^ex-17-13|Exodus 17:13]]
-- [[D&C 59]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-21|1 Samuel 15:21]] ↔ [[D&C 59#^dc-59-8|D&C 59:8]]
-- [[Moses 7]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-26|1 Samuel 15:26]] ↔ [[Moses 7#^moses-7-13|Moses 7:13]]
-- [[Judges 1]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Judges 1#^judg-1-8|Judges 1:8]]
-- [[Judges 20]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Judges 20#^judg-20-37|Judges 20:37]]
-- [[Job 1]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]] ↔ [[Job 1#^job-1-15|Job 1:15]]
-- [[Numbers 33]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-24|1 Samuel 15:24]] ↔ [[Numbers 33#^num-33-2|Numbers 33:2]]
-- [[Numbers 23]] — 1 parallel verse, e.g. [[1 Samuel 15#^1sam-15-29|1 Samuel 15:29]] ↔ [[Numbers 23#^num-23-19|Numbers 23:19]]
-- [[Deuteronomy 17]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-15|1 Samuel 15:15]] ↔ [[Deuteronomy 17#^deut-17-1|Deuteronomy 17:1]]
-- [[Zechariah 1]] — 2 parallel verses, e.g. [[1 Samuel 15#^1sam-15-10|1 Samuel 15:10]] ↔ [[Zechariah 1#^zech-1-1|Zechariah 1:1]]
+- [[Exodus 17]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-2|1 Samuel 15:2]])
+- [[Deuteronomy 2]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-3|1 Samuel 15:3]])
+- [[Judges 1]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-6|1 Samuel 15:6]])
+- [[Genesis 25]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-7|1 Samuel 15:7]])
+- [[Esther 3]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-8|1 Samuel 15:8]])
+- [[Genesis 6]] — 1 footnote cross-reference (from [[1 Samuel 15#^1sam-15-11|1 Samuel 15:11]])
+- [[1 Kings 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

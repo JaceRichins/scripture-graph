@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 20
 slug: 2ne-20
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 20]] · My notes: [[2 Nephi 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The destruction of Assyria is a type of the destruction of the wicked at the Second Coming—Few people will be left after the Lord comes again—The remnant of Jacob will return in that day—Compare Isaiah 10. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -43,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Isaiah 10]] — 3 footnote cross-references (from [[2 Nephi 20#^2ne-20-1|2 Nephi 20:1]])
+- [[2 Kings 16]] — 3 footnote cross-references (from [[2 Nephi 20#^2ne-20-9|2 Nephi 20:9]])
+- [[2 Kings 19]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-8|2 Nephi 20:8]])
+- [[Isaiah 37]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-13|2 Nephi 20:13]])
+- [[Obadiah 1]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-17|2 Nephi 20:17]])
+- [[Nehemiah 11]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-29|2 Nephi 20:29]])
 - [[Isaiah 10]] — 36 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Isaiah 9]] — 3 parallel verses, e.g. [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 31
 slug: deut-31
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Deuteronomy 31]] · My notes: [[Deuteronomy 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Moses counsels Joshua and all Israel to be strong and of good courage—The law is to be read to all Israel every seven years—The children of Israel will follow false gods and corrupt themselves.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Exodus 7]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]])
+- [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]])
+- [[Acts 7]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]])
+- [[Numbers 20]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]])
+- [[Ether 9]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-4|Deuteronomy 31:4]])
+- [[Isaiah 41]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-6|Deuteronomy 31:6]])
 - [[Joshua 1]] — 11 parallel verses, e.g. [[Deuteronomy 31#^deut-31-23|Deuteronomy 31:23]] ↔ [[Joshua 1#^josh-1-6|Joshua 1:6]]
 - [[1 Chronicles 15]] — 12 parallel verses, e.g. [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]] ↔ [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]]
 - [[Joshua 3]] — 9 parallel verses, e.g. [[Deuteronomy 31#^deut-31-26|Deuteronomy 31:26]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]

@@ -39,21 +39,23 @@ cssclasses:
 ![[Exodus 40#^ex-40-9]]
 
 ![[Exodus 40#^ex-40-10]]
+> [[Exodus 29#^ex-29-37|≈ Exodus 29:37]]
 
 ![[Exodus 40#^ex-40-11]]
 
 ![[Exodus 40#^ex-40-12]]
 
 ![[Exodus 40#^ex-40-13]]
-> [[Exodus 28#^ex-28-3|≈ Exodus 28:3]] · [[Exodus 28#^ex-28-1|≈ Exodus 28:1]] · [[Exodus 28#^ex-28-4|≈ Exodus 28:4]] · [[Exodus 28#^ex-28-41|≈ Exodus 28:41]] · [[Exodus 30#^ex-30-30|≈ Exodus 30:30]]
+> [[Exodus 28#^ex-28-3|≈ Exodus 28:3]] · [[Exodus 28#^ex-28-1|≈ Exodus 28:1]] · [[Exodus 28#^ex-28-4|≈ Exodus 28:4]] · [[Exodus 28#^ex-28-41|≈ Exodus 28:41]] · [[Exodus 29#^ex-29-1|≈ Exodus 29:1]] · [[Exodus 30#^ex-30-30|≈ Exodus 30:30]]
 
 ![[Exodus 40#^ex-40-14]]
+> [[Exodus 29#^ex-29-8|≈ Exodus 29:8]]
 
 ![[Exodus 40#^ex-40-15]]
-> [[Exodus 29#^ex-29-7|Ex. 29:7]] · [[Exodus 30#^ex-30-30|30:30]] · [[Leviticus 7#^lev-7-36|Lev. 7:36]] · [[Exodus 28#^ex-28-41|≈ Exodus 28:41]] · [[Exodus 28#^ex-28-1|≈ Exodus 28:1]] · [[Exodus 28#^ex-28-3|≈ Exodus 28:3]] · [[Exodus 28#^ex-28-4|≈ Exodus 28:4]] · [[Exodus 30#^ex-30-30|≈ Exodus 30:30]]
+> [[Exodus 29#^ex-29-7|Ex. 29:7]] · [[Exodus 30#^ex-30-30|30:30]] · [[Leviticus 7#^lev-7-36|Lev. 7:36]] · [[Exodus 28#^ex-28-41|≈ Exodus 28:41]] · [[Exodus 28#^ex-28-1|≈ Exodus 28:1]] · [[Exodus 28#^ex-28-3|≈ Exodus 28:3]] · [[Exodus 28#^ex-28-4|≈ Exodus 28:4]] · [[Exodus 29#^ex-29-1|≈ Exodus 29:1]] · [[Exodus 30#^ex-30-30|≈ Exodus 30:30]]
 
 ![[Exodus 40#^ex-40-16]]
-> [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 29#^num-29-40|≈ Numbers 29:40]] · [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]]
+> [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 9#^num-9-5|≈ Numbers 9:5]] · [[Numbers 29#^num-29-40|≈ Numbers 29:40]] · [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]]
 
 ![[Exodus 40#^ex-40-17]]
 > [[Numbers 7#^num-7-1|Num. 7:1]] · [[Numbers 1#^num-1-1|≈ Numbers 1:1]] · [[Numbers 29#^num-29-1|≈ Numbers 29:1]]
@@ -103,7 +105,7 @@ cssclasses:
 > [[2 Chronicles 7#^2chr-7-1|≈ 2 Chronicles 7:1]]
 
 ![[Exodus 40#^ex-40-36]]
-> [[Numbers 10#^num-10-11|Num. 10:11 (11–13)]]
+> [[Numbers 10#^num-10-11|Num. 10:11 (11–13)]] · [[Numbers 9#^num-9-17|≈ Numbers 9:17]]
 
 ![[Exodus 40#^ex-40-37]]
 > [[Numbers 9#^num-9-19|Num. 9:19 (19–23)]]

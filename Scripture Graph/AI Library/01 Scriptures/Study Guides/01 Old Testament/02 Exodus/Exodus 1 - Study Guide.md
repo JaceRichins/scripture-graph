@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 1
 slug: ex-1
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Exodus 1]] · My notes: [[Exodus 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The children of Israel multiply—They are placed in bondage by the Egyptians—Pharaoh seeks to destroy the sons born to Hebrew women.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Psalm 105]] — 3 footnote cross-references (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
+- [[Genesis 26]] — 2 footnote cross-references (from [[Exodus 1#^ex-1-7|Exodus 1:7]])
+- [[Deuteronomy 26]] — 2 footnote cross-references (from [[Exodus 1#^ex-1-7|Exodus 1:7]])
+- [[1 Nephi 17]] — 2 footnote cross-references (from [[Exodus 1#^ex-1-11|Exodus 1:11]])
+- [[Genesis 46]] — 1 footnote cross-reference (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
+- [[Genesis 35]] — 1 footnote cross-reference (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
 - [[Genesis 46]] — 1 parallel verse, e.g. [[Exodus 1#^ex-1-1|Exodus 1:1]] ↔ [[Genesis 46#^gen-46-8|Genesis 46:8]]
 <!-- SG:END related-scriptures -->
 

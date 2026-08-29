@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 48
 slug: isa-48
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Isaiah 48]] · My notes: [[Isaiah 48 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Lord reveals His purposes to Israel—Israel has been chosen in the furnace of affliction and is to depart from Babylon—Compare 1 Nephi 20.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 20]] — 2 footnote cross-references (from [[Isaiah 48#^isa-48-1|Isaiah 48:1]])
+- [[Isaiah 29]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-1|Isaiah 48:1]])
+- [[Psalm 58]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-8|Isaiah 48:8]])
+- [[Joshua 7]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-9|Isaiah 48:9]])
+- [[Ezekiel 22]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-10|Isaiah 48:10]])
+- [[Psalm 115]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-11|Isaiah 48:11]])
 - [[1 Nephi 20]] — 22 parallel verses, e.g. [[Isaiah 48#^isa-48-20|Isaiah 48:20]] ↔ [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]]
 <!-- SG:END related-scriptures -->
 

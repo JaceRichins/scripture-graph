@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 9
 slug: heb-9
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Hebrews 9]] · My notes: [[Hebrews 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Mosaic ordinances prefigured Christ’s ministry—Christ is the Mediator of the new covenant.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Exodus 25]] — 5 footnote cross-references (from [[Hebrews 9#^heb-9-2|Hebrews 9:2]])
+- [[Hebrews 10]] — 4 footnote cross-references (from [[Hebrews 9#^heb-9-7|Hebrews 9:7]])
+- [[Exodus 24]] — 4 footnote cross-references (from [[Hebrews 9#^heb-9-16|Hebrews 9:16]])
+- [[Hebrews 8]] — 3 footnote cross-references (from [[Hebrews 9#^heb-9-11|Hebrews 9:11]])
+- [[Exodus 26]] — 2 footnote cross-references (from [[Hebrews 9#^heb-9-2|Hebrews 9:2]])
+- [[Hebrews 7]] — 2 footnote cross-references (from [[Hebrews 9#^heb-9-9|Hebrews 9:9]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

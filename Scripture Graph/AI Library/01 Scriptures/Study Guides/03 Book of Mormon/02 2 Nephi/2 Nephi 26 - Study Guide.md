@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 26
 slug: 2ne-26
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Nephi 26]] · My notes: [[2 Nephi 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Christ will minister to the Nephites—Nephi foresees the destruction of his people—They will speak from the dust—The Gentiles will build up false churches and secret combinations—The Lord forbids men to practice priestcrafts. About 559–545 B.C.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 12]] — 4 footnote cross-references (from [[2 Nephi 26#^2ne-26-1|2 Nephi 26:1]])
+- [[2 Nephi 28]] — 4 footnote cross-references (from [[2 Nephi 26#^2ne-26-3|2 Nephi 26:3]])
+- [[3 Nephi 9]] — 4 footnote cross-references (from [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]])
+- [[Mormon 8]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-3|2 Nephi 26:3]])
+- [[Mormon 5]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-12|2 Nephi 26:12]])
+- [[Isaiah 29]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-15|2 Nephi 26:15]])
 - [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]] ↔ [[Isaiah 29#^isa-29-4|Isaiah 29:4]]
 - [[Malachi 4]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]

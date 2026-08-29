@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 12
 slug: 2sam-12
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[2 Samuel 12]] · My notes: [[2 Samuel 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Nathan tells David the parable of the ewe lamb—The Lord gave many wives to David, who is now cursed for taking Bathsheba—David fasts and prays for his son, but the Lord takes him—Solomon is born—David conquers the royal city of the Ammonites.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,6 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[2 Samuel 11]] — 3 footnote cross-references (from [[2 Samuel 12#^2sam-12-9|2 Samuel 12:9]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[2 Samuel 12#^2sam-12-9|2 Samuel 12:9]])
+- [[Alma 39]] — 2 footnote cross-references (from [[2 Samuel 12#^2sam-12-9|2 Samuel 12:9]])
+- [[D&C 132]] — 2 footnote cross-references (from [[2 Samuel 12#^2sam-12-9|2 Samuel 12:9]])
+- [[1 Chronicles 20]] — 2 footnote cross-references (from [[2 Samuel 12#^2sam-12-26|2 Samuel 12:26]])
+- [[2 Samuel 7]] — 1 footnote cross-reference (from [[2 Samuel 12#^2sam-12-1|2 Samuel 12:1]])
 - [[Judges 14]] — 2 parallel verses, e.g. [[2 Samuel 12#^2sam-12-18|2 Samuel 12:18]] ↔ [[Judges 14#^judg-14-15|Judges 14:15]]
 - [[Moses 6]] — 2 parallel verses, e.g. [[2 Samuel 12#^2sam-12-24|2 Samuel 12:24]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[2 Samuel 12#^2sam-12-11|2 Samuel 12:11]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
