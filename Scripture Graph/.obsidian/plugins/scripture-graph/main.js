@@ -5936,11 +5936,38 @@ var SGState = class {
       }
     }
   }
+  /** Re-render open scripture/personal reading views so marks appear the
+   * moment anything changes — every annotation mutation funnels through this. */
+  rerenderReading() {
+    this.notify();
+    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
+      const v = leaf.view;
+      if (!(v instanceof import_obsidian.MarkdownView) || !v.file) continue;
+      const p = v.file.path;
+      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX) || p.startsWith(LIBRARY_PREFIX)) {
+        v.previewMode?.rerender?.(true);
+      }
+    }
+  }
 };
 
 // src/social/annotations.ts
 var import_obsidian2 = require("obsidian");
 var COLORS = ["yellow", "green", "blue", "pink", "orange"];
+var COLOR_HEX = {
+  yellow: "#f5d90a",
+  green: "#4cc38a",
+  blue: "#52a9ff",
+  pink: "#f76bb0",
+  orange: "#ff9f45"
+};
+var MARK_BG = {
+  yellow: "rgba(245,217,10,0.40)",
+  green: "rgba(76,195,138,0.35)",
+  blue: "rgba(82,169,255,0.35)",
+  pink: "rgba(247,107,176,0.35)",
+  orange: "rgba(255,159,69,0.40)"
+};
 var NoteModal = class extends import_obsidian2.Modal {
   constructor(state, refLabel, onSubmit) {
     super(state.app);
@@ -6023,7 +6050,7 @@ var AnnotationService = class {
     }
     await this.s.sync.save(a);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
   async addNote(anchorId, text, quoted, visibility, groupId) {
     const a = this.base(anchorId, "note");
@@ -6034,7 +6061,7 @@ ${text}` : text;
     a.group_id = groupId;
     await this.s.sync.save(a);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
   async setVisibility(id, visibility, groupId) {
     const a = await this.s.sync.getAnnotation(id);
@@ -6042,12 +6069,12 @@ ${text}` : text;
     const next = { ...a, visibility, group_id: groupId, updated_at: nowIso() };
     await this.s.sync.save(next);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
   async remove(id) {
     await this.s.sync.softDelete(id);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
   // --------------------------------------------------------------- reads
   /** my annotations (any scope) for an anchor */
@@ -6101,15 +6128,27 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
     }
     el.remove();
   });
+  mine = mine.filter((a) => !a.deleted_at);
+  social = social.filter((a) => !a.deleted_at);
   const visible = [
     ...s.device.showScopes.mine ? mine : [],
     ...social
   ].filter((a) => a.annotation_type === "highlight");
   for (const h of visible) applyMark(p, h);
-  const myNotes = mine.filter((a) => a.annotation_type === "note");
-  if (myNotes.length && s.device.showScopes.mine) {
-    const icon = p.createSpan({ cls: "sgh-note-icon", text: "\u{1F4DD}" });
-    icon.onclick = () => new NotesPopover(s, svc, verseId).open();
+  const openPopover = () => new NotesPopover(s, svc, verseId).open();
+  if (s.device.showScopes.mine) {
+    const kinds = [
+      ["note", "\u{1F4DD}"],
+      ["study-marker", "\u{1F0CF}"],
+      ["bookmark", "\u{1F516}"]
+    ];
+    for (const [kind, glyph] of kinds) {
+      if (mine.some((a) => a.annotation_type === kind)) {
+        const icon = p.createSpan({ cls: "sgh-note-icon", text: glyph });
+        icon.setAttribute("aria-label", "View your marks on this verse");
+        icon.onclick = openPopover;
+      }
+    }
   }
   const others = social.filter((a) => a.annotation_type !== "bookmark");
   if (others.length) {
@@ -6119,16 +6158,19 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
       text: ` \u{1F465} ${names.size}`,
       attr: { "aria-label": `${names.size} shared this \u2014 tap to view` }
     });
-    badge.onclick = () => new NotesPopover(s, svc, verseId).open();
+    badge.onclick = openPopover;
   }
 }
 function applyMark(p, h) {
   const cls = `sgh sgh-${h.color ?? "yellow"}`;
+  const bg = MARK_BG[h.color ?? "yellow"] ?? MARK_BG["yellow"];
   if (!h.selected_text) {
     const strong = p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
     const mark = document.createElement("mark");
     mark.className = cls;
+    mark.style.backgroundColor = bg;
+    mark.style.color = "inherit";
     const moving = [];
     while (node) {
       const el = node;
@@ -6152,6 +6194,8 @@ function applyMark(p, h) {
     range.setEnd(t, idx + h.selected_text.length);
     const mark = document.createElement("mark");
     mark.className = cls;
+    mark.style.backgroundColor = bg;
+    mark.style.color = "inherit";
     try {
       range.surroundContents(mark);
     } catch {
@@ -6185,12 +6229,25 @@ var NotesPopover = class extends import_obsidian2.Modal {
   row(root, a, isMine) {
     const div = root.createDiv({ cls: "sg-ann-row" });
     const visLabel = a.visibility === "local" ? "\u{1F512} device" : a.visibility === "private" ? "\u{1F510} me" : a.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === a.group_id)?.name ?? "group"}` : "\u{1F30E} public";
+    const kindLabel = a.annotation_type === "study-marker" ? "flashcard" : a.annotation_type;
     div.createEl("div", {
       cls: "sg-ann-meta",
-      text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${a.annotation_type}${a.color ? ` (${a.color})` : ""} \xB7 ${visLabel}`
+      text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color})` : ""} \xB7 ${visLabel}`
     });
     if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
-    if (a.content) div.createEl("p", { text: a.content });
+    if (a.annotation_type === "study-marker") {
+      try {
+        const d = JSON.parse(a.content);
+        div.createEl("p", { text: `\u{1F0CF} ${d.front ?? "Card"}` });
+        if (d.back) div.createEl("p", { cls: "sg-card-back", text: `\u2192 ${d.back}` });
+      } catch {
+        div.createEl("p", { text: "\u{1F0CF} Flashcard" });
+      }
+    } else if (a.annotation_type === "bookmark") {
+      div.createEl("p", { text: `\u{1F516} ${a.content || "Bookmark"}` });
+    } else if (a.content) {
+      div.createEl("p", { text: a.content });
+    }
     if (isMine) {
       const actions = div.createDiv({ cls: "sg-ann-actions" });
       const share = actions.createEl("button", { text: "Change sharing" });
@@ -7027,6 +7084,7 @@ ${body}
     const all = await this.s.sync.allAnnotations();
     const latest = all.filter((a) => a.anchor_id === anchor).sort((a, b) => b.created_at.localeCompare(a.created_at))[0];
     if (latest) await this.s.sync.save({ ...latest, annotation_type: "bookmark" });
+    this.s.rerenderReading();
     new import_obsidian8.Notice(`Bookmarked ${f.basename}`);
   }
   // -------------------------------------------------------- flashcards
@@ -7072,6 +7130,7 @@ ${body}
       version: 1
     };
     await this.s.sync.save(a);
+    this.s.rerenderReading();
     new import_obsidian8.Notice("Flashcard added \u{1F0CF}");
     return true;
   }
@@ -7379,7 +7438,11 @@ var StudyBar = class {
     const colors = bar.createDiv({ cls: "sg-studybar-colors" });
     for (const c of COLORS) {
       const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
-      if (c === this.s.device.lastColor) dot.addClass("sg-dot-last");
+      dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
+      if (c === this.s.device.lastColor) {
+        dot.addClass("sg-dot-last");
+        dot.style.borderColor = "var(--text-normal)";
+      }
       dot.setAttribute("aria-label", `Highlight ${c}`);
       dot.onclick = () => void this.doHighlight(c);
     }
@@ -7437,7 +7500,6 @@ var StudyBar = class {
     }
     new import_obsidian9.Notice(`Highlighted ${this.refLabel()}`);
     this.clear();
-    this.rerenderReading();
   }
   doNote() {
     const ref = this.refLabel();
@@ -7477,18 +7539,6 @@ var StudyBar = class {
     const seed = this.sel.partial ? `About "${this.sel.partial.selected}" \u2014 ` : "";
     this.clear();
     this.openAsk(seed, anchor);
-  }
-  /** re-render open reading views so the new mark appears immediately */
-  rerenderReading() {
-    this.s.notify();
-    for (const leaf of this.s.app.workspace.getLeavesOfType("markdown")) {
-      const v = leaf.view;
-      if (!(v instanceof import_obsidian9.MarkdownView) || !v.file) continue;
-      const p = v.file.path;
-      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX)) {
-        v.previewMode?.rerender?.(true);
-      }
-    }
   }
 };
 

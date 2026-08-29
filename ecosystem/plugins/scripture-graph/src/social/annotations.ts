@@ -10,6 +10,17 @@ import { CANONICAL_PREFIX, SGState, type SocialAnnotation } from "../state";
 
 export const COLORS = ["yellow", "green", "blue", "pink", "orange"] as const;
 
+/** Inline colors — never at the mercy of a stale styles.css on some device. */
+export const COLOR_HEX: Record<string, string> = {
+  yellow: "#f5d90a", green: "#4cc38a", blue: "#52a9ff",
+  pink: "#f76bb0", orange: "#ff9f45",
+};
+export const MARK_BG: Record<string, string> = {
+  yellow: "rgba(245,217,10,0.40)", green: "rgba(76,195,138,0.35)",
+  blue: "rgba(82,169,255,0.35)", pink: "rgba(247,107,176,0.35)",
+  orange: "rgba(255,159,69,0.40)",
+};
+
 export class NoteModal extends Modal {
   constructor(state: SGState, private refLabel: string,
     private onSubmit: (text: string) => void) {
@@ -84,7 +95,7 @@ export class AnnotationService {
     }
     await this.s.sync.save(a);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
 
   async addNote(anchorId: string, text: string, quoted: string | null,
@@ -95,7 +106,7 @@ export class AnnotationService {
     a.group_id = groupId;
     await this.s.sync.save(a);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
 
   async setVisibility(id: string, visibility: Visibility, groupId: string | null): Promise<void> {
@@ -104,13 +115,13 @@ export class AnnotationService {
     const next = { ...a, visibility, group_id: groupId, updated_at: nowIso() };
     await this.s.sync.save(next);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
 
   async remove(id: string): Promise<void> {
     await this.s.sync.softDelete(id);
     this.scheduleSync();
-    this.s.notify();
+    this.s.rerenderReading();
   }
 
   // --------------------------------------------------------------- reads
@@ -177,6 +188,8 @@ export function decorateVerse(
     }
     el.remove();
   });
+  mine = mine.filter(a => !a.deleted_at);
+  social = social.filter(a => !a.deleted_at);
 
   const visible = [
     ...(s.device.showScopes.mine ? mine : []),
@@ -185,10 +198,19 @@ export function decorateVerse(
 
   for (const h of visible) applyMark(p, h);
 
-  const myNotes = mine.filter(a => a.annotation_type === "note");
-  if (myNotes.length && s.device.showScopes.mine) {
-    const icon = p.createSpan({ cls: "sgh-note-icon", text: "📝" });
-    icon.onclick = () => new NotesPopover(s, svc, verseId).open();
+  // every annotation type leaves a visible, tappable trace on its verse
+  const openPopover = () => new NotesPopover(s, svc, verseId).open();
+  if (s.device.showScopes.mine) {
+    const kinds: [string, string][] = [
+      ["note", "📝"], ["study-marker", "🃏"], ["bookmark", "🔖"],
+    ];
+    for (const [kind, glyph] of kinds) {
+      if (mine.some(a => a.annotation_type === kind)) {
+        const icon = p.createSpan({ cls: "sgh-note-icon", text: glyph });
+        icon.setAttribute("aria-label", "View your marks on this verse");
+        icon.onclick = openPopover;
+      }
+    }
   }
   const others = social.filter(a => a.annotation_type !== "bookmark");
   if (others.length) {
@@ -198,17 +220,20 @@ export function decorateVerse(
       text: ` 👥 ${names.size}`,
       attr: { "aria-label": `${names.size} shared this — tap to view` },
     });
-    badge.onclick = () => new NotesPopover(s, svc, verseId).open();
+    badge.onclick = openPopover;
   }
 }
 
 function applyMark(p: HTMLElement, h: Annotation): void {
   const cls = `sgh sgh-${h.color ?? "yellow"}`;
+  const bg = MARK_BG[h.color ?? "yellow"] ?? MARK_BG["yellow"]!;
   if (!h.selected_text) {
     const strong = p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
     const mark = document.createElement("mark");
     mark.className = cls;
+    mark.style.backgroundColor = bg;
+    mark.style.color = "inherit";
     const moving: ChildNode[] = [];
     while (node) {
       const el = node as HTMLElement;
@@ -232,6 +257,8 @@ function applyMark(p: HTMLElement, h: Annotation): void {
     range.setEnd(t, idx + h.selected_text.length);
     const mark = document.createElement("mark");
     mark.className = cls;
+    mark.style.backgroundColor = bg;
+    mark.style.color = "inherit";
     try { range.surroundContents(mark); } catch { /* spans nodes */ }
     return;
   }
@@ -263,12 +290,26 @@ export class NotesPopover extends Modal {
     const visLabel = a.visibility === "local" ? "🔒 device" : a.visibility === "private" ? "🔐 me"
       : a.visibility === "group" ? `👥 ${this.s.groups.find(g => g.group_id === a.group_id)?.name ?? "group"}`
         : "🌎 public";
+    const kindLabel = a.annotation_type === "study-marker" ? "flashcard"
+      : a.annotation_type;
     div.createEl("div", {
       cls: "sg-ann-meta",
-      text: `${isMine ? "You" : a.author_name ?? "someone"} · ${a.annotation_type}${a.color ? ` (${a.color})` : ""} · ${visLabel}`,
+      text: `${isMine ? "You" : a.author_name ?? "someone"} · ${kindLabel}${a.color ? ` (${a.color})` : ""} · ${visLabel}`,
     });
     if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
-    if (a.content) div.createEl("p", { text: a.content });
+    if (a.annotation_type === "study-marker") {
+      try {
+        const d = JSON.parse(a.content) as { front?: string; back?: string };
+        div.createEl("p", { text: `🃏 ${d.front ?? "Card"}` });
+        if (d.back) div.createEl("p", { cls: "sg-card-back", text: `→ ${d.back}` });
+      } catch {
+        div.createEl("p", { text: "🃏 Flashcard" });
+      }
+    } else if (a.annotation_type === "bookmark") {
+      div.createEl("p", { text: `🔖 ${a.content || "Bookmark"}` });
+    } else if (a.content) {
+      div.createEl("p", { text: a.content });
+    }
     if (isMine) {
       const actions = div.createDiv({ cls: "sg-ann-actions" });
       const share = actions.createEl("button", { text: "Change sharing" });

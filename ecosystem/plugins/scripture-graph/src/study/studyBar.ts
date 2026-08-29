@@ -11,10 +11,10 @@
  *
  * Nothing here ever blocks link taps or native text selection.
  */
-import { MarkdownView, Menu, Notice, Platform, type Plugin } from "obsidian";
+import { Menu, Notice, Platform, type Plugin } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
-import { CANONICAL_PREFIX, PERSONAL_PREFIX, type SGState } from "../state";
-import { AnnotationService, COLORS, NoteModal, NotesPopover } from "../social/annotations";
+import type { SGState } from "../state";
+import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
 import type { StudyService } from "./study";
 
 export interface StudySelection {
@@ -254,11 +254,16 @@ export class StudyBar {
     const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
     close.onclick = () => this.clear();
 
-    // row 2: color dots — ONE TAP highlights with the remembered scope
+    // row 2: color dots — ONE TAP highlights with the remembered scope.
+    // Colors are inline so they can never render gray on a stale-CSS device.
     const colors = bar.createDiv({ cls: "sg-studybar-colors" });
     for (const c of COLORS) {
       const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
-      if (c === this.s.device.lastColor) dot.addClass("sg-dot-last");
+      dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
+      if (c === this.s.device.lastColor) {
+        dot.addClass("sg-dot-last");
+        dot.style.borderColor = "var(--text-normal)";
+      }
       dot.setAttribute("aria-label", `Highlight ${c}`);
       dot.onclick = () => void this.doHighlight(c);
     }
@@ -311,8 +316,7 @@ export class StudyBar {
       }
     }
     new Notice(`Highlighted ${this.refLabel()}`);
-    this.clear();
-    this.rerenderReading();
+    this.clear();   // the annotation service re-renders the reading views
   }
 
   private doNote(): void {
@@ -359,17 +363,4 @@ export class StudyBar {
     this.openAsk(seed, anchor);
   }
 
-  /** re-render open reading views so the new mark appears immediately */
-  private rerenderReading(): void {
-    this.s.notify(); // reader view + settings listeners
-    for (const leaf of this.s.app.workspace.getLeavesOfType("markdown")) {
-      const v = leaf.view;
-      if (!(v instanceof MarkdownView) || !v.file) continue;
-      const p = v.file.path;
-      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX)) {
-        (v.previewMode as unknown as { rerender?: (full?: boolean) => void })
-          ?.rerender?.(true);
-      }
-    }
-  }
 }

@@ -59,6 +59,7 @@ export class StudyService {
     const all = await this.s.sync.allAnnotations();
     const latest = all.filter(a => a.anchor_id === anchor).sort((a, b) => b.created_at.localeCompare(a.created_at))[0];
     if (latest) await this.s.sync.save({ ...latest, annotation_type: "bookmark" });
+    this.s.rerenderReading();
     new Notice(`Bookmarked ${f.basename}`);
   }
 
@@ -93,6 +94,7 @@ export class StudyService {
       created_at: nowIso(), updated_at: nowIso(), deleted_at: null, version: 1,
     };
     await this.s.sync.save(a);
+    this.s.rerenderReading();   // 🃏 marker appears on the verse immediately
     new Notice("Flashcard added 🃏");
     return true;
   }

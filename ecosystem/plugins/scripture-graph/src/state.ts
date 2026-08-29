@@ -1,7 +1,7 @@
 /** Shared plugin context: settings (shared, non-secret, in data.json) vs
  * device-local state (secrets + personal data, in localStorage — NEVER in
  * data.json because Obsidian Sync replicates data.json to every vault user). */
-import { requestUrl, type App, type Plugin } from "obsidian";
+import { MarkdownView, requestUrl, type App, type Plugin } from "obsidian";
 import {
   ApiClient, Budget, SyncEngine, WebStorage,
   type Annotation, type FetchLike, type ModelInfo, type Tier, type AiTask,
@@ -114,4 +114,20 @@ export class SGState {
   get aiConnected(): boolean { return !!this.device.openrouterKey; }
 
   notify(): void { for (const f of this.onChange) { try { f(); } catch { /* ui */ } } }
+
+  /** Re-render open scripture/personal reading views so marks appear the
+   * moment anything changes — every annotation mutation funnels through this. */
+  rerenderReading(): void {
+    this.notify();
+    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
+      const v = leaf.view;
+      if (!(v instanceof MarkdownView) || !v.file) continue;
+      const p = v.file.path;
+      if (p.startsWith(CANONICAL_PREFIX) || p.startsWith(PERSONAL_PREFIX)
+        || p.startsWith(LIBRARY_PREFIX)) {
+        (v.previewMode as unknown as { rerender?: (full?: boolean) => void })
+          ?.rerender?.(true);
+      }
+    }
+  }
 }
