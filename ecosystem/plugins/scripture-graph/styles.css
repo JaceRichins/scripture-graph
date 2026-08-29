@@ -139,6 +139,21 @@ body[data-sg-scene="waters"] { --sg-ink: #dcedf3; --sg-ink-strong: #f0f9fc; --sg
 body[data-sg-scene="desert"] { --sg-ink: #f2e3cd; --sg-ink-strong: #fdf3df; --sg-ink-accent: #ffb37a; }
 body[data-sg-scene="starlight"] { --sg-ink: #e0e4f4; --sg-ink-strong: #f2f4ff; --sg-ink-accent: #a8b6ff; }
 body[data-sg-scene="candle"] { --sg-ink: #f0e0c4; --sg-ink-strong: #fbeed6; --sg-ink-accent: #ffbe7d; }
+body[data-sg-scene="mount"] { --sg-ink: #e6ebf6; --sg-ink-strong: #f6f8fe; --sg-ink-accent: #b9c8ea; }
+body[data-sg-scene="garden"] { --sg-ink: #ddeede; --sg-ink-strong: #f0faf0; --sg-ink-accent: #a8e0a0; }
+body[data-sg-scene="fields"] { --sg-ink: #f7ecd4; --sg-ink-strong: #fff8e6; --sg-ink-accent: #ffd98c; }
+body[data-sg-scene="storm"] { --sg-ink: #dde6f0; --sg-ink-strong: #f0f5fc; --sg-ink-accent: #9fc2e8; }
+body[data-sg-scene="temple"] { --sg-ink: #f1e2c6; --sg-ink-strong: #fcf0d8; --sg-ink-accent: #ffce8a; }
+body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-ink-accent: #ffb996; }
+/* upgraded depth for the originals */
+.sg-scene-sunrise .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 130% 34%;
+  animation: sg-parallax 130s linear infinite alternate; opacity: 0.9;
+}
+.sg-scene-waters .sgl-7 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 20%;
+  opacity: 0.85;
+}
 @media (prefers-reduced-motion: reduce) {
   .sg-scene .sgl, .sg-scene .sgp { animation: none !important; }
 }
@@ -241,6 +256,11 @@ body[data-sg-scene="candle"] { --sg-ink: #f0e0c4; --sg-ink-strong: #fbeed6; --sg
 @keyframes sg-sunrise { from { transform: translateY(26%); } to { transform: translateY(9%); } }
 @keyframes sg-halo { from { opacity: 0.55; } to { opacity: 1; } }
 @keyframes sg-haze { from { transform: translateX(-12%); } to { transform: translateX(12%); } }
+/* self-translating layers are oversized so their edges never drift into view */
+.sg-scene-sunrise .sgl-4 { left: -20%; right: -20%; }
+.sg-scene-starlight .sgl-3 { left: -4%; right: -4%; }
+.sg-scene-storm .sgl-2, .sg-scene-storm .sgl-3 { top: -80px; bottom: -80px; left: -40px; right: -40px; }
+.sg-scene-storm .sgl-5, .sg-scene-storm .sgl-6 { left: -4%; right: -4%; bottom: -14px; }
 
 /* ── 🌊 Still Waters: ripples in a calm pond ── */
 .sg-scene-waters .sgl-1 {
@@ -331,6 +351,233 @@ body[data-sg-scene="candle"] { --sg-ink: #f0e0c4; --sg-ink-strong: #fbeed6; --sg
 .sg-scene-starlight .sgl-scrim {
   background: linear-gradient(180deg, rgba(5, 7, 15, 0.46) 0%,
     rgba(5, 7, 15, 0.30) 22%, rgba(5, 7, 15, 0.32) 78%, rgba(5, 7, 15, 0.52) 100%);
+}
+
+/* ── ⛰️ The Mount: ridgelines in moving mist ── */
+.sg-scene-mount .sgl-1 {
+  background: linear-gradient(180deg, #6f7fa8 0%, #55628c 30%, #3b4468 60%, #232945 100%);
+  animation: sg-dawn-breathe 52s ease-in-out infinite alternate;
+}
+.sg-scene-mount .sgl-2, .sg-scene-mount .sgl-3, .sg-scene-mount .sgl-4 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 130% 46%;
+}
+.sg-scene-mount .sgl-2 { animation: sg-parallax 120s linear infinite alternate; opacity: 0.75; }
+.sg-scene-mount .sgl-3 { background-size: 120% 58%; animation: sg-parallax 85s linear infinite alternate-reverse; }
+.sg-scene-mount .sgl-4 { background-size: 115% 72%; animation: sg-parallax 60s linear infinite alternate; }
+.sg-scene-mount .sgl-5 { /* summit light breaking through */
+  background: radial-gradient(50% 34% at 62% 12%, rgba(255, 244, 214, 0.30), transparent 70%);
+  animation: sg-halo 16s ease-in-out infinite alternate;
+}
+@keyframes sg-parallax { from { background-position-x: 0%; } to { background-position-x: 9%; } }
+.sg-mist {
+  left: -30%; width: 65vw; border-radius: 50%;
+  background: linear-gradient(90deg, transparent, rgba(228, 235, 250, 0.8), transparent);
+  filter: blur(14px);
+  animation: sg-mist-drift 40s linear infinite;
+}
+@keyframes sg-mist-drift {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(210%); }
+}
+.sg-scene-mount .sgl-scrim {
+  background: linear-gradient(180deg, rgba(18, 21, 36, 0.52) 0%,
+    rgba(18, 21, 36, 0.36) 24%, rgba(18, 21, 36, 0.38) 76%, rgba(18, 21, 36, 0.56) 100%);
+}
+
+/* ── 🌿 The Garden: dappled light through leaves ── */
+.sg-scene-garden .sgl-1 {
+  background: radial-gradient(120% 100% at 50% 0%, #33604080 0%, transparent 60%),
+    linear-gradient(180deg, #2c5639 0%, #1e472b 44%, #123322 100%);
+  animation: sg-dawn-breathe 44s ease-in-out infinite alternate;
+}
+.sg-scene-garden .sgl-2 { /* light shafts through the canopy + soft vignette */
+  background:
+    linear-gradient(108deg, transparent 28%, rgba(216, 255, 172, 0.11) 35%, transparent 43%),
+    linear-gradient(114deg, transparent 55%, rgba(216, 255, 172, 0.08) 63%, transparent 72%),
+    radial-gradient(130% 90% at 50% 118%, transparent 60%, rgba(4, 16, 9, 0.55) 100%),
+    radial-gradient(90% 36% at 8% -6%, rgba(3, 12, 7, 0.5), transparent 70%),
+    radial-gradient(90% 36% at 92% -6%, rgba(3, 12, 7, 0.5), transparent 70%);
+  animation: sg-halo 18s ease-in-out infinite alternate;
+}
+.sg-scene-garden .sgl-3, .sg-scene-garden .sgl-4 { /* hanging leaf canopy, two depths */
+  background-repeat: repeat-x; background-position: top; background-size: 118% 26%;
+  animation: sg-parallax 150s linear infinite alternate;
+}
+.sg-scene-garden .sgl-4 {
+  background-size: 104% 16%;
+  animation: sg-parallax 110s linear infinite alternate-reverse;
+}
+.sg-scene-garden .sgl-5 { /* ground foliage */
+  background-repeat: repeat-x; background-position: bottom; background-size: 130% 14%;
+}
+.sg-dapple {
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(214, 255, 180, 0.22), transparent 65%);
+  animation: sg-dapple-move 16s ease-in-out infinite alternate;
+}
+@keyframes sg-dapple-move {
+  from { transform: translate(0, 0) scale(1); opacity: 0.5; }
+  to { transform: translate(34px, 18px) scale(1.15); opacity: 1; }
+}
+.sg-firefly {
+  width: 3px; height: 3px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(230, 255, 150, 0.95), transparent 70%);
+  animation: sg-firefly-wander 10s ease-in-out infinite alternate,
+    sg-firefly-blink 4s ease-in-out infinite;
+}
+@keyframes sg-firefly-wander { from { transform: translate(0, 0); } to { transform: translate(-40px, -26px); } }
+@keyframes sg-firefly-blink { 0%, 100% { opacity: 0; } 45%, 60% { opacity: 0.95; } }
+.sg-scene-garden .sgl-scrim {
+  background: linear-gradient(180deg, rgba(6, 18, 11, 0.40) 0%,
+    rgba(6, 18, 11, 0.24) 26%, rgba(6, 18, 11, 0.26) 76%, rgba(6, 18, 11, 0.44) 100%);
+}
+
+/* ── 🌾 The Fields: harvest light over swaying wheat ── */
+.sg-scene-fields .sgl-1 {
+  background: linear-gradient(180deg, #63401f 0%, #9c6a2c 32%, #cf9a40 60%, #f0c468 84%, #ffe6a6 100%);
+  animation: sg-dawn-breathe 48s ease-in-out infinite alternate;
+}
+.sg-scene-fields .sgl-2 { /* low harvest sun */
+  background: radial-gradient(circle at 30% 76%, rgba(255, 238, 178, 0.65) 0%,
+    rgba(255, 214, 128, 0.26) 18%, transparent 46%);
+  animation: sg-halo 14s ease-in-out infinite alternate;
+}
+.sg-scene-fields .sgl-3, .sg-scene-fields .sgl-4, .sg-scene-fields .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 120% 24%;
+}
+.sg-scene-fields .sgl-4 {
+  background-size: 110% 26%;
+  transform-origin: 50% 100%;
+  animation: sg-sway 7s ease-in-out infinite alternate;
+}
+.sg-scene-fields .sgl-5 {
+  background-size: 105% 34%;
+  transform-origin: 50% 100%;
+  animation: sg-sway 5.2s ease-in-out infinite alternate-reverse;
+}
+@keyframes sg-sway { from { transform: skewX(-1.6deg); } to { transform: skewX(1.8deg); } }
+.sg-chaff {
+  width: 3px; height: 3px; border-radius: 50%;
+  background: rgba(255, 230, 160, 0.7);
+  animation: sg-chaff-float 12s linear infinite;
+}
+@keyframes sg-chaff-float {
+  0% { transform: translate(0, 0); opacity: 0; }
+  12% { opacity: 0.8; }
+  100% { transform: translate(38vw, -22vh); opacity: 0; }
+}
+.sg-scene-fields .sgl-scrim {
+  background: linear-gradient(180deg, rgba(48, 28, 10, 0.50) 0%,
+    rgba(48, 28, 10, 0.34) 24%, rgba(48, 28, 10, 0.38) 76%, rgba(48, 28, 10, 0.56) 100%);
+}
+
+/* ── ⛈️ The Storm: rain, swells, and lightning ── */
+.sg-scene-storm .sgl-1 {
+  background: linear-gradient(180deg, #10141f 0%, #1a2233 40%, #223047 70%, #17222f 100%);
+  animation: sg-dusk 26s ease-in-out infinite alternate;
+}
+.sg-scene-storm .sgl-2, .sg-scene-storm .sgl-3 { /* two rain sheets */
+  background-image: repeating-linear-gradient(112deg,
+    transparent 0 7px, rgba(190, 215, 240, 0.16) 7px 8.5px, transparent 8.5px 16px);
+  animation: sg-rainfall 0.85s linear infinite;
+}
+.sg-scene-storm .sgl-3 {
+  background-image: repeating-linear-gradient(108deg,
+    transparent 0 13px, rgba(160, 195, 230, 0.10) 13px 14.5px, transparent 14.5px 26px);
+  animation-duration: 1.35s;
+}
+@keyframes sg-rainfall { from { transform: translate3d(0, -60px, 0); } to { transform: translate3d(-26px, 60px, 0); } }
+.sg-scene-storm .sgl-4 { /* churn glow under clouds */
+  background: radial-gradient(80% 30% at 50% 6%, rgba(120, 150, 200, 0.14), transparent 70%);
+  animation: sg-shimmer 7s ease-in-out infinite alternate;
+}
+.sg-scene-storm .sgl-5, .sg-scene-storm .sgl-6 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 120% 30%;
+  animation: sg-swell 9s ease-in-out infinite alternate;
+}
+.sg-scene-storm .sgl-6 { background-size: 105% 22%; animation-duration: 6.5s; animation-direction: alternate-reverse; }
+@keyframes sg-swell { from { transform: translate(-2%, 4px); } to { transform: translate(2%, -6px); } }
+.sg-flash { /* lightning: two quick pulses on a long cycle */
+  position: absolute; inset: 0;
+  background: radial-gradient(70% 50% at 60% 10%, rgba(220, 235, 255, 0.9), rgba(160, 190, 255, 0.35) 45%, transparent 75%);
+  opacity: 0;
+  animation: sg-lightning 13s linear infinite;
+}
+@keyframes sg-lightning {
+  0%, 88.9%, 91.4%, 100% { opacity: 0; }
+  89.3% { opacity: 0.85; }
+  89.8% { opacity: 0.1; }
+  90.4% { opacity: 0.65; }
+}
+.sg-cloudmass {
+  width: 60vw; height: 22vh; border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(10, 14, 24, 0.85), transparent);
+  filter: blur(8px);
+  animation: sg-cloud-drift 34s linear infinite alternate;
+}
+@keyframes sg-cloud-drift { from { transform: translateX(-6%); } to { transform: translateX(16%); } }
+.sg-scene-storm .sgl-scrim {
+  background: linear-gradient(180deg, rgba(8, 11, 18, 0.52) 0%,
+    rgba(8, 11, 18, 0.36) 24%, rgba(8, 11, 18, 0.38) 76%, rgba(8, 11, 18, 0.56) 100%);
+}
+
+/* ── 🏛️ The Temple: pillars, lamplight, rising incense ── */
+.sg-scene-temple .sgl-1 {
+  background: radial-gradient(120% 110% at 50% 100%, #5a4020 0%, #33230f 46%, #170f08 100%);
+}
+.sg-scene-temple .sgl-2 { /* altar glow behind the far portico */
+  background: radial-gradient(64% 46% at 50% 86%, rgba(255, 202, 118, 0.44) 0%,
+    rgba(255, 174, 84, 0.16) 42%, transparent 72%);
+  animation: sg-flicker 6s ease-in-out infinite;
+}
+.sg-scene-temple .sgl-3 { /* temple facade across the court */
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: min(760px, 108%) 34%;
+}
+.sg-scene-temple .sgl-5 { /* court floor */
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 8%;
+}
+.sg-incense {
+  bottom: 10%; width: 2.5px; height: 60px; border-radius: 2px;
+  background: linear-gradient(180deg, transparent, rgba(230, 210, 180, 0.35), transparent);
+  filter: blur(2px);
+  animation: sg-incense-rise 18s ease-in-out infinite;
+  opacity: 0;
+}
+@keyframes sg-incense-rise {
+  0% { opacity: 0; transform: translate(0, 0) rotate(0deg); }
+  15% { opacity: 0.7; }
+  60% { transform: translate(14px, -30vh) rotate(6deg); }
+  100% { opacity: 0; transform: translate(-8px, -52vh) rotate(-5deg); }
+}
+.sg-scene-temple .sgl-scrim {
+  background: linear-gradient(180deg, rgba(14, 9, 4, 0.50) 0%,
+    rgba(14, 9, 4, 0.34) 26%, rgba(14, 9, 4, 0.38) 78%, rgba(14, 9, 4, 0.56) 100%);
+}
+
+/* ── 🏙️ The City: ancient skyline as the lamps come on ── */
+.sg-scene-city .sgl-1 {
+  background: linear-gradient(180deg, #201a38 0%, #38264a 40%, #64355a 70%, #9a4f52 100%);
+  animation: sg-dusk 70s ease-in-out infinite alternate;
+}
+.sg-scene-city .sgl-2 {
+  background: radial-gradient(60% 30% at 50% 74%, rgba(255, 190, 130, 0.20), transparent 75%);
+  animation: sg-halo 18s ease-in-out infinite alternate;
+}
+.sg-scene-city .sgl-3, .sg-scene-city .sgl-4 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 135% 42%;
+}
+.sg-scene-city .sgl-3 { animation: sg-parallax 150s linear infinite alternate; opacity: 0.9; }
+.sg-scene-city .sgl-4 { background-size: 118% 30%; animation: sg-parallax 95s linear infinite alternate-reverse; }
+.sg-window {
+  width: 2.5px; height: 3.5px;
+  background: rgba(255, 205, 130, 0.9);
+  animation: sg-window-flicker 4s steps(2, jump-none) infinite;
+}
+@keyframes sg-window-flicker { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.95; } }
+.sg-scene-city .sgl-scrim {
+  background: linear-gradient(180deg, rgba(20, 13, 28, 0.52) 0%,
+    rgba(20, 13, 28, 0.36) 24%, rgba(20, 13, 28, 0.38) 76%, rgba(20, 13, 28, 0.56) 100%);
 }
 
 /* ── 🕯️ Candlelight: warm study at night ── */

@@ -142,27 +142,42 @@ export function voiceFor(slug: string): { v: Voice; chapterLine: string | null }
 // ------------------------------------------------------- scene matching
 
 const SCENE_KEYWORDS: [string, RegExp][] = [
+  ["storm", /\b(storm|tempest|whirlwind|thunder|lightning|billows?|tossed|waves)/gi],
+  ["mount", /\b(mount(ain)?s?|sinai|horeb|hill of|high place|transfigur|summit)/gi],
+  ["temple", /\b(temple|tabernacle|altar|sanctuary|holy place|priest|offering|veil)/gi],
+  ["garden", /\b(garden|tree of|vineyard|olive|branch(es)?|fruit|eden|gethsemane|vine)/gi],
+  ["fields", /\b(fields?|harvest|wheat|reap|sow(er|ed|eth)?|barley|glean|sickle|tares)/gi],
+  ["city", /\b(city|jerusalem|walls?|gates?|streets?|zion|babylon|towers?)/gi],
   ["waters", /\b(waters?|sea|river|rain|fountain|deep|ship|flood|fish|baptiz)/gi],
-  ["desert", /\b(wilderness|desert|sand|camel|thirst|dry|waste|sinai|journey)/gi],
+  ["desert", /\b(wilderness|desert|sand|camel|thirst|dry|waste|journey)/gi],
   ["starlight", /\b(stars?|heavens?|night|moon|firmament|host of|sky|glory)/gi],
   ["sunrise", /\b(morning|dawn|sunris|light|day ?spring|east|arise|awake)/gi],
-  ["candle", /\b(candle|lamp|oil|watch|evening|supper|upper room|pray|vigil)/gi],
+  ["candle", /\b(candle|lamp|oil|watch|evening|supper|upper room|vigil)/gi],
 ];
 
 /** curated worlds for books/chapters where the right scene is known —
  * keyword scoring is only the fallback */
 export const SCENE_OVERRIDES: Record<string, string> = {
-  // chapters
-  "ps-23": "waters", "gen-1": "starlight", "ex-3": "desert", "ex-14": "waters",
-  "matt-2": "starlight", "matt-26": "candle", "john-13": "candle",
-  "john-17": "candle", "luke-2": "starlight", "luke-22": "candle",
-  "3ne-1": "starlight", "1ne-18": "waters", "ether-6": "waters",
-  "dc-121": "candle", "jsh-1": "sunrise", "alma-36": "sunrise",
+  // chapters — landmark moments land in their own world
+  "ps-23": "waters", "gen-1": "starlight", "gen-2": "garden", "gen-3": "garden",
+  "ex-3": "desert", "ex-14": "waters", "ex-19": "mount", "ex-20": "mount",
+  "matt-2": "starlight", "matt-5": "mount", "matt-6": "mount", "matt-7": "mount",
+  "matt-8": "storm", "matt-13": "fields", "matt-26": "garden", "matt-27": "city",
+  "mark-4": "storm", "john-13": "candle", "john-15": "garden", "john-17": "candle",
+  "luke-2": "starlight", "luke-8": "storm", "luke-15": "fields", "luke-22": "garden",
+  "acts-27": "storm", "1kgs-19": "mount", "1kgs-8": "temple", "2chr-6": "temple",
+  "isa-6": "temple", "ps-122": "city", "ps-127": "city", "ps-84": "temple",
+  "neh-2": "city", "neh-4": "city", "jonah-1": "storm", "jonah-2": "waters",
+  "3ne-1": "starlight", "3ne-12": "temple", "3ne-13": "temple", "3ne-14": "temple",
+  "1ne-18": "storm", "ether-2": "mount", "ether-3": "mount", "ether-6": "storm",
+  "hel-14": "city", "hel-16": "city", "alma-32": "fields", "alma-36": "sunrise",
+  "mosiah-2": "temple", "dc-121": "candle", "jsh-1": "sunrise",
   // whole books
   "2tim": "candle", "eph": "candle", "philip": "candle", "col": "candle",
   "philem": "candle", "rev": "starlight", "abr": "starlight",
   "ex": "desert", "num": "desert", "deut": "desert",
-  "jonah": "waters", "ruth": "sunrise", "song": "sunrise",
+  "ruth": "fields", "song": "garden", "lam": "city", "neh": "city",
+  "hag": "temple", "lev": "temple",
 };
 
 /** pick the ambient scene: curated override first, else the chapter's words */

@@ -14,7 +14,7 @@ export interface SceneDef {
 }
 
 export const SCENES: SceneDef[] = [
-  { id: "sunrise", name: "Sunrise", emoji: "🌅", hours: [[5, 10]], layers: 6 },
+  { id: "sunrise", name: "Sunrise", emoji: "🌅", hours: [[5, 10]], layers: 5 },
   { id: "waters", name: "Still Waters", emoji: "🌊", hours: [[10, 16]], layers: 7 },
   { id: "mount", name: "The Mount", emoji: "⛰️", hours: [], layers: 6 },
   { id: "garden", name: "The Garden", emoji: "🌿", hours: [], layers: 5 },
@@ -88,30 +88,58 @@ function skyline(seed: number, color: string): string {
   return svgUrl(900, 200, c);
 }
 
-/** temple colonnade: pillars + entablature */
-function colonnade(color: string): string {
-  let c = `<rect x='0' y='0' width='900' height='26' fill='${color}'/>`
-    + `<rect x='0' y='176' width='900' height='24' fill='${color}'/>`;
-  for (let x = 30; x < 900; x += 96) {
-    c += `<rect x='${x}' y='22' width='30' height='158' rx='4' fill='${color}'/>`
-      + `<rect x='${x - 6}' y='22' width='42' height='10' fill='${color}'/>`
-      + `<rect x='${x - 6}' y='170' width='42' height='10' fill='${color}'/>`;
+/** temple facade: pediment + entablature + columns on stepped base, grounded at bottom */
+function facade(color: string): string {
+  let c = `<rect x='120' y='188' width='660' height='12' fill='${color}'/>`
+    + `<rect x='145' y='178' width='610' height='10' fill='${color}'/>`
+    + `<rect x='160' y='76' width='580' height='18' fill='${color}'/>`
+    + `<path d='M148 74 L752 74 L450 16 Z' fill='${color}'/>`;
+  for (let x = 185; x <= 665; x += 80) {
+    c += `<rect x='${x}' y='100' width='22' height='78' rx='3' fill='${color}'/>`
+      + `<rect x='${x - 5}' y='94' width='32' height='8' fill='${color}'/>`;
   }
   return svgUrl(900, 200, c);
 }
 
-/** wheat fringe: curved stalks with heads along the bottom */
+/** wheat fringe: nodding stalks with plump grain heads + awns along the bottom */
 function wheat(seed: number, color: string, n: number): string {
   const rnd = lcg(seed);
   let c = "";
   for (let i = 0; i < n; i++) {
     const x = rnd() * 900;
-    const h = 60 + rnd() * 90;
-    const lean = (rnd() - 0.5) * 40;
-    c += `<path d='M${x.toFixed(0)} 200 Q ${(x + lean / 2).toFixed(0)} ${(200 - h / 2).toFixed(0)} `
-      + `${(x + lean).toFixed(0)} ${(200 - h).toFixed(0)}' stroke='${color}' stroke-width='2.4' fill='none'/>`
-      + `<ellipse cx='${(x + lean).toFixed(0)}' cy='${(200 - h).toFixed(0)}' rx='3.4' ry='9' fill='${color}' `
-      + `transform='rotate(${(lean / 2).toFixed(0)} ${(x + lean).toFixed(0)} ${(200 - h).toFixed(0)})'/>`;
+    const h = 82 + rnd() * 70;
+    const lean = (rnd() - 0.5) * 56;
+    const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
+    const tilt = (lean * 1.1).toFixed(0);
+    c += `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.3).toFixed(0)} ${(200 - h * 0.55).toFixed(0)} `
+      + `${hx} ${hy}' stroke='${color}' stroke-width='2.8' fill='none'/>`
+      + `<ellipse cx='${hx}' cy='${hy}' rx='4.6' ry='13' fill='${color}' transform='rotate(${tilt} ${hx} ${hy})'/>`;
+    for (let a = -1; a <= 1; a++) {
+      c += `<path d='M${hx} ${(200 - h - 6).toFixed(0)} l ${(a * 6 + lean * 0.2).toFixed(0)} -13' `
+        + `stroke='${color}' stroke-width='1.1' fill='none' transform='rotate(${tilt} ${hx} ${hy})'/>`;
+    }
+  }
+  return svgUrl(900, 200, c);
+}
+
+/** leafy canopy fringe hanging from the top edge */
+function canopy(seed: number, color: string): string {
+  const rnd = lcg(seed);
+  let c = `<rect x='0' y='0' width='900' height='24' fill='${color}'/>`;
+  for (let i = 0; i < 15; i++) {
+    const x = i * 62 + rnd() * 30;
+    const depth = 26 + rnd() * 92;
+    for (let j = 0; j < 6; j++) {
+      c += `<ellipse cx='${(x + (rnd() - 0.5) * 74).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' `
+        + `rx='${(22 + rnd() * 28).toFixed(0)}' ry='${(15 + rnd() * 19).toFixed(0)}' fill='${color}'/>`;
+    }
+  }
+  for (let b = 0; b < 3; b++) {
+    const bx = 90 + rnd() * 700;
+    const sway = (rnd() * 60 - 30).toFixed(0);
+    c += `<path d='M${bx.toFixed(0)} 0 q ${(rnd() * 36 - 18).toFixed(0)} 80 ${sway} 148' `
+      + `stroke='${color}' stroke-width='4.5' fill='none'/>`
+      + `<ellipse cx='${(bx + Number(sway)).toFixed(0)}' cy='150' rx='16' ry='11' fill='${color}'/>`;
   }
   return svgUrl(900, 200, c);
 }
@@ -231,6 +259,9 @@ export class SceneManager {
       });
     }
     if (id === "garden") {
+      this.bg(el, 3, canopy(11, "#0e2f1a"));
+      this.bg(el, 4, canopy(41, "#081f10"));
+      this.bg(el, 5, hills("#0a2413", 30, 45));
       particles(el, "sg-dapple", 5, 83, (rnd, p) => {
         p.style.left = `${rnd() * 90}%`;
         p.style.top = `${rnd() * 70}%`;
@@ -246,12 +277,12 @@ export class SceneManager {
       });
     }
     if (id === "fields") {
-      this.bg(el, 3, hills("#5a3d1e", 24, 30));
-      this.bg(el, 4, wheat(37, "#6b4a20", 70));
-      this.bg(el, 5, wheat(59, "#3d2a12", 55));
+      this.bg(el, 3, hills("#6d4a1f", 24, 30));
+      this.bg(el, 4, wheat(37, "#8a6226", 70));
+      this.bg(el, 5, wheat(59, "#553b14", 55));
       particles(el, "sg-chaff", 5, 113, (rnd, p) => {
         p.style.left = `${rnd() * 95}%`;
-        p.style.bottom = `${10 + rnd() * 35}%`;
+        p.style.bottom = `${6 + rnd() * 26}%`;
         p.style.animationDuration = `${11 + rnd() * 9}s`;
         p.style.animationDelay = `${-rnd() * 14}s`;
       });
@@ -268,7 +299,8 @@ export class SceneManager {
       });
     }
     if (id === "temple") {
-      this.bg(el, 3, colonnade("#120c08"));
+      this.bg(el, 3, facade("#1c1207"));
+      this.bg(el, 5, hills("#0d0805", 16, 80));
       particles(el, "sg-incense", 5, 139, (rnd, p) => {
         p.style.left = `${20 + rnd() * 60}%`;
         p.style.animationDuration = `${16 + rnd() * 12}s`;
