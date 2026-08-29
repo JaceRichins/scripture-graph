@@ -63,7 +63,22 @@ export class StudyService {
   }
 
   // -------------------------------------------------------- flashcards
-  async addFlashcard(front: string, back: string, anchor: string | null): Promise<void> {
+  /** Idempotent: the same card (anchor + answer) is never added twice. */
+  async addFlashcard(front: string, back: string, anchor: string | null): Promise<boolean> {
+    const norm = (t: string) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const all = await this.s.sync.allAnnotations();
+    const dup = all.find(x => {
+      if (x.annotation_type !== "study-marker" || x.deleted_at) return false;
+      if (x.anchor_id !== (anchor ?? "node:flashcards")) return false;
+      try {
+        const d = JSON.parse(x.content) as { back?: string };
+        return norm(d.back ?? "") === norm(back);
+      } catch { return false; }
+    });
+    if (dup) {
+      new Notice("You already have this flashcard 🃏");
+      return false;
+    }
     const a = {
       annotation_id: uuid(), author_user_id: this.s.device.userId,
       anchor_type: (anchor && parseVerseId(anchor) ? "verse" : "node") as "verse" | "node",
@@ -78,7 +93,8 @@ export class StudyService {
       created_at: nowIso(), updated_at: nowIso(), deleted_at: null, version: 1,
     };
     await this.s.sync.save(a);
-    new Notice("Flashcard added");
+    new Notice("Flashcard added 🃏");
+    return true;
   }
 
   async review(): Promise<void> {

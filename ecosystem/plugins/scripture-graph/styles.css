@@ -121,6 +121,12 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: var(--background-secondary); box-shadow: none; white-space: nowrap;
 }
 
+/* while studying a selection: vertical scroll only (no accidental page
+   swipes), and room at the bottom so the bar never covers the selection */
+body.sg-selecting .view-content { touch-action: pan-y; }
+body.sg-selecting .markdown-preview-view,
+body.sg-selecting .sg-reader { padding-bottom: 170px; }
+
 /* ---------- mobile -------------------------------------------------------- */
 .is-mobile .sg-reader { padding: 8px 10px 60px; }
 .is-mobile .sg-lens-bar { overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }

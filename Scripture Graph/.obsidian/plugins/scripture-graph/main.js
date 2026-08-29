@@ -6238,8 +6238,7 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     }
     void svc.refreshSocial(anchors);
   });
-  plugin.registerDomEvent(document, "click", (evt) => bar.handleTap(evt));
-  plugin.registerDomEvent(document, "selectionchange", () => bar.handleSelectionChange());
+  bar.attach(plugin);
   plugin.registerDomEvent(document, "contextmenu", (evt) => {
     const hit = resolveSelection(s, evt);
     if (!hit) return;
@@ -7031,7 +7030,24 @@ ${body}
     new import_obsidian8.Notice(`Bookmarked ${f.basename}`);
   }
   // -------------------------------------------------------- flashcards
+  /** Idempotent: the same card (anchor + answer) is never added twice. */
   async addFlashcard(front, back, anchor) {
+    const norm = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
+    const all = await this.s.sync.allAnnotations();
+    const dup = all.find((x) => {
+      if (x.annotation_type !== "study-marker" || x.deleted_at) return false;
+      if (x.anchor_id !== (anchor ?? "node:flashcards")) return false;
+      try {
+        const d = JSON.parse(x.content);
+        return norm(d.back ?? "") === norm(back);
+      } catch {
+        return false;
+      }
+    });
+    if (dup) {
+      new import_obsidian8.Notice("You already have this flashcard \u{1F0CF}");
+      return false;
+    }
     const a = {
       annotation_id: uuid(),
       author_user_id: this.s.device.userId,
@@ -7056,7 +7072,8 @@ ${body}
       version: 1
     };
     await this.s.sync.save(a);
-    new import_obsidian8.Notice("Flashcard added");
+    new import_obsidian8.Notice("Flashcard added \u{1F0CF}");
+    return true;
   }
   async review() {
     const all = await this.s.sync.allAnnotations();
@@ -7166,7 +7183,46 @@ var StudyBar = class {
   sel = { verses: [], partial: null };
   barEl = null;
   selTimer = null;
+  lastSig = "";
+  // touch-tap discrimination state (mobile)
+  downX = 0;
+  downY = 0;
+  downT = 0;
+  downHadSelection = false;
+  lastScrollT = 0;
+  lastSelText = "";
   // ------------------------------------------------------------ tap wiring
+  /** Register all input listeners. A tap is only a tap when the finger
+   * didn't move (scroll), didn't linger (long-press selection), didn't land
+   * mid-scroll, and wasn't dismissing an iOS text selection — that's what
+   * keeps highlighting from fighting scrolls and page swipes. */
+  attach(plugin) {
+    if (import_obsidian9.Platform.isMobile) {
+      plugin.registerDomEvent(document, "pointerdown", (evt) => {
+        this.downX = evt.clientX;
+        this.downY = evt.clientY;
+        this.downT = Date.now();
+        const native = window.getSelection();
+        this.downHadSelection = !!native && !native.isCollapsed;
+      }, { capture: true, passive: true });
+      plugin.registerDomEvent(document, "pointerup", (evt) => {
+        const dx = Math.abs(evt.clientX - this.downX);
+        const dy = Math.abs(evt.clientY - this.downY);
+        const dt = Date.now() - this.downT;
+        if (dx > 10 || dy > 10) return;
+        if (dt > 500) return;
+        if (Date.now() - this.lastScrollT < 250) return;
+        if (this.downHadSelection) return;
+        this.handleTap(evt);
+      });
+      plugin.registerDomEvent(document, "scroll", () => {
+        this.lastScrollT = Date.now();
+      }, { capture: true, passive: true });
+    } else {
+      plugin.registerDomEvent(document, "click", (evt) => this.handleTap(evt));
+    }
+    plugin.registerDomEvent(document, "selectionchange", () => this.handleSelectionChange());
+  }
   /** Delegated tap handling for any container that renders verses. */
   handleTap(evt) {
     const target = evt.target instanceof Element ? evt.target : null;
@@ -7193,21 +7249,32 @@ var StudyBar = class {
     }
     this.toggleVerse(vid, p);
   }
-  /** Long-press / drag text selection → partial mode (debounced). */
+  /** Long-press / drag text selection → partial mode. Waits until the
+   * selection has been STABLE for a beat (so the bar never appears or
+   * re-renders while iOS drag handles are still moving). */
   handleSelectionChange() {
     if (this.selTimer) window.clearTimeout(this.selTimer);
     this.selTimer = window.setTimeout(() => {
       const native = window.getSelection();
-      if (!native || native.isCollapsed) return;
+      const text = native && !native.isCollapsed ? native.toString().trim() : "";
+      if (!text) {
+        this.lastSelText = "";
+        return;
+      }
+      if (text !== this.lastSelText) {
+        this.lastSelText = text;
+        this.handleSelectionChange();
+        return;
+      }
+      if (this.sel.partial?.selected === text) return;
       const anchor = native.anchorNode instanceof Element ? native.anchorNode : native.anchorNode?.parentElement;
       if (!anchor || anchor.closest(".cm-editor")) return;
       const p = anchor.closest("[data-verse-id], p");
       const vid = this.verseIdOf(p);
       if (!vid) return;
-      const text = native.toString().trim();
       if (text.length < 3 || text.length > 600) return;
       this.setPartial(vid, this.verseTextOf(p), text);
-    }, 300);
+    }, 350);
   }
   verseIdOf(el) {
     if (!el) return null;
@@ -7279,11 +7346,22 @@ var StudyBar = class {
   }
   // ------------------------------------------------------------ action bar
   render() {
+    document.body.toggleClass("sg-selecting", this.active);
     if (!this.active) {
       this.barEl?.remove();
       this.barEl = null;
+      this.lastSig = "";
       return;
     }
+    const scope = this.s.device.lastShareScope;
+    const sig = JSON.stringify([
+      this.sel.verses.map((v) => v.verseId),
+      this.sel.partial?.selected,
+      scope,
+      this.s.device.lastColor
+    ]);
+    if (sig === this.lastSig && this.barEl) return;
+    this.lastSig = sig;
     if (!this.barEl) {
       this.barEl = document.body.createDiv({ cls: "sg-studybar" });
     }
@@ -7291,7 +7369,6 @@ var StudyBar = class {
     bar.empty();
     const top = bar.createDiv({ cls: "sg-studybar-top" });
     top.createSpan({ cls: "sg-studybar-ref", text: this.refLabel() });
-    const scope = this.s.device.lastShareScope;
     const scopeChip = top.createEl("button", {
       cls: "sg-scope-chip",
       text: scope.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === scope.groupId)?.name ?? "Group"}` : SCOPE_LABEL[scope.visibility] ?? "\u{1F510} Only me"
@@ -8031,5 +8108,3 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     else await this.app.vault.create(path, content);
   }
 };
-
-/* sg-build 0.5.1 */

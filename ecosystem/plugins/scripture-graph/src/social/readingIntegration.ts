@@ -45,9 +45,8 @@ export function registerReadingIntegration(
     void svc.refreshSocial(anchors);
   });
 
-  // ---- taps + long-press selections → StudyBar ---------------------------
-  plugin.registerDomEvent(document, "click", (evt) => bar.handleTap(evt));
-  plugin.registerDomEvent(document, "selectionchange", () => bar.handleSelectionChange());
+  // ---- taps + long-press selections → StudyBar (gesture-safe wiring) -----
+  bar.attach(plugin);
 
   // ---- desktop right-click power menu ------------------------------------
   plugin.registerDomEvent(document, "contextmenu", (evt) => {

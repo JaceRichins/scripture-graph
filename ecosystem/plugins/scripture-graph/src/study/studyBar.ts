@@ -11,7 +11,7 @@
  *
  * Nothing here ever blocks link taps or native text selection.
  */
-import { MarkdownView, Menu, Notice } from "obsidian";
+import { MarkdownView, Menu, Notice, Platform, type Plugin } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, type SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover } from "../social/annotations";
@@ -32,6 +32,14 @@ export class StudyBar {
   private sel: StudySelection = { verses: [], partial: null };
   private barEl: HTMLElement | null = null;
   private selTimer: number | null = null;
+  private lastSig = "";
+  // touch-tap discrimination state (mobile)
+  private downX = 0;
+  private downY = 0;
+  private downT = 0;
+  private downHadSelection = false;
+  private lastScrollT = 0;
+  private lastSelText = "";
 
   constructor(private s: SGState, private ann: AnnotationService,
     private study: StudyService,
@@ -39,8 +47,40 @@ export class StudyBar {
 
   // ------------------------------------------------------------ tap wiring
 
+  /** Register all input listeners. A tap is only a tap when the finger
+   * didn't move (scroll), didn't linger (long-press selection), didn't land
+   * mid-scroll, and wasn't dismissing an iOS text selection — that's what
+   * keeps highlighting from fighting scrolls and page swipes. */
+  attach(plugin: Plugin): void {
+    if (Platform.isMobile) {
+      plugin.registerDomEvent(document, "pointerdown", (evt: PointerEvent) => {
+        this.downX = evt.clientX;
+        this.downY = evt.clientY;
+        this.downT = Date.now();
+        const native = window.getSelection();
+        this.downHadSelection = !!native && !native.isCollapsed;
+      }, { capture: true, passive: true } as AddEventListenerOptions);
+      plugin.registerDomEvent(document, "pointerup", (evt: PointerEvent) => {
+        const dx = Math.abs(evt.clientX - this.downX);
+        const dy = Math.abs(evt.clientY - this.downY);
+        const dt = Date.now() - this.downT;
+        if (dx > 10 || dy > 10) return;                 // it was a scroll/swipe
+        if (dt > 500) return;                           // it was a long-press
+        if (Date.now() - this.lastScrollT < 250) return; // it stopped momentum
+        if (this.downHadSelection) return;              // it dismissed a selection
+        this.handleTap(evt);
+      });
+      plugin.registerDomEvent(document, "scroll", () => {
+        this.lastScrollT = Date.now();
+      }, { capture: true, passive: true } as AddEventListenerOptions);
+    } else {
+      plugin.registerDomEvent(document, "click", (evt) => this.handleTap(evt));
+    }
+    plugin.registerDomEvent(document, "selectionchange", () => this.handleSelectionChange());
+  }
+
   /** Delegated tap handling for any container that renders verses. */
-  handleTap(evt: MouseEvent): void {
+  handleTap(evt: MouseEvent | PointerEvent): void {
     const target = evt.target instanceof Element ? evt.target : null;
     if (!target) return;
     if (target.closest(".sg-studybar, .modal, .menu, .prompt")) return;
@@ -70,22 +110,33 @@ export class StudyBar {
     this.toggleVerse(vid, p);
   }
 
-  /** Long-press / drag text selection → partial mode (debounced). */
+  /** Long-press / drag text selection → partial mode. Waits until the
+   * selection has been STABLE for a beat (so the bar never appears or
+   * re-renders while iOS drag handles are still moving). */
   handleSelectionChange(): void {
     if (this.selTimer) window.clearTimeout(this.selTimer);
     this.selTimer = window.setTimeout(() => {
       const native = window.getSelection();
-      if (!native || native.isCollapsed) return;
-      const anchor = native.anchorNode instanceof Element
-        ? native.anchorNode : native.anchorNode?.parentElement;
+      const text = native && !native.isCollapsed ? native.toString().trim() : "";
+      if (!text) {
+        this.lastSelText = "";
+        return;
+      }
+      if (text !== this.lastSelText) {
+        this.lastSelText = text;         // still moving — check again shortly
+        this.handleSelectionChange();
+        return;
+      }
+      if (this.sel.partial?.selected === text) return;   // already showing it
+      const anchor = native!.anchorNode instanceof Element
+        ? native!.anchorNode : native!.anchorNode?.parentElement;
       if (!anchor || anchor.closest(".cm-editor")) return;
       const p = anchor.closest("[data-verse-id], p");
       const vid = this.verseIdOf(p);
       if (!vid) return;
-      const text = native.toString().trim();
       if (text.length < 3 || text.length > 600) return;
       this.setPartial(vid, this.verseTextOf(p as HTMLElement), text);
-    }, 300);
+    }, 350);
   }
 
   private verseIdOf(el: Element | null): string | null {
@@ -172,11 +223,18 @@ export class StudyBar {
   // ------------------------------------------------------------ action bar
 
   private render(): void {
+    document.body.toggleClass("sg-selecting", this.active);
     if (!this.active) {
       this.barEl?.remove();
       this.barEl = null;
+      this.lastSig = "";
       return;
     }
+    const scope = this.s.device.lastShareScope;
+    const sig = JSON.stringify([this.sel.verses.map(v => v.verseId),
+      this.sel.partial?.selected, scope, this.s.device.lastColor]);
+    if (sig === this.lastSig && this.barEl) return;      // no DOM churn
+    this.lastSig = sig;
     if (!this.barEl) {
       this.barEl = document.body.createDiv({ cls: "sg-studybar" });
     }
@@ -186,7 +244,6 @@ export class StudyBar {
     // row 1: reference + scope chip + close
     const top = bar.createDiv({ cls: "sg-studybar-top" });
     top.createSpan({ cls: "sg-studybar-ref", text: this.refLabel() });
-    const scope = this.s.device.lastShareScope;
     const scopeChip = top.createEl("button", {
       cls: "sg-scope-chip",
       text: scope.visibility === "group"
