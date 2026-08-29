@@ -7389,6 +7389,11 @@ ${body}
   };
 
   // src/study/navigator.ts
+  function titleForChapterSlug(slug) {
+    const m = /^(.+)-(\d+)$/.exec(slug);
+    if (!m) return null;
+    return chapterTitle(m[1], Number(m[2]));
+  }
   var VOLUMES = [
     { name: "Old Testament", emoji: "\u{1F4DC}" },
     { name: "New Testament", emoji: "\u271D\uFE0F" },
@@ -7455,6 +7460,17 @@ ${body}
           this.host.openChapter(last.title);
         };
       }
+      const rec = this.host.recentChapters().filter((r) => r.slug !== last?.slug).slice(0, 4);
+      if (rec.length) {
+        const row = c.createDiv({ cls: "sg-nav-recent" });
+        for (const r of rec) {
+          const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
+          pill.onclick = () => {
+            this.close();
+            this.host.openChapter(r.title);
+          };
+        }
+      }
       const list = c.createDiv({ cls: "sg-nav-list" });
       for (const vol of VOLUMES) {
         const row = list.createDiv({ cls: "sg-nav-row" });
@@ -7474,6 +7490,28 @@ ${body}
         this.close();
         this.host.openNote("Study Hub");
       };
+      const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
+      void this.host.groupActivity().then((acts) => {
+        if (!acts.length || this.view.kind !== "home") return;
+        groupsBox.createDiv({ cls: "sg-nav-sect", text: "\u{1F465} Studying with your groups" });
+        for (const a of acts.slice(0, 4)) {
+          const title = titleForChapterSlug(a.chapter_slug);
+          if (!title) continue;
+          const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
+          row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F465}" });
+          const col = row.createDiv({ cls: "sg-nav-gcol" });
+          col.createDiv({ cls: "sg-nav-name", text: title });
+          col.createDiv({
+            cls: "sg-nav-gsub",
+            text: `${a.group_name} \xB7 ${a.count} note${a.count === 1 ? "" : "s"}` + (a.others ? "" : " (all yours)")
+          });
+          row.onclick = () => {
+            this.close();
+            this.host.openChapter(title);
+          };
+        }
+      }).catch(() => {
+      });
     }
     renderBooks(c, volume) {
       const grid = c.createDiv({ cls: "sg-nav-books" });
@@ -7615,7 +7653,17 @@ ${body}
   window.sgNav = (last = { slug: "dc-120", title: "D&C 120" }) => new SGNavigatorModal({}, {
     openChapter: (t) => log(`nav \u2192 ${t}`),
     openNote: (l) => log(`nav \u2192 note ${l}`),
-    lastChapter: () => last
+    lastChapter: () => last,
+    recentChapters: () => [
+      { slug: "dc-120", title: "D&C 120" },
+      { slug: "alma-36", title: "Alma 36" },
+      { slug: "gen-1", title: "Genesis 1" },
+      { slug: "matt-5", title: "Matthew 5" }
+    ],
+    groupActivity: async () => [
+      { group_name: "Family", chapter_slug: "alma-36", count: 3, others: 2 },
+      { group_name: "Ward class", chapter_slug: "1ne-1", count: 5, others: 5 }
+    ]
   }).open();
   void redecorate();
   log("harness ready \u2014 real StudyBar + AnnotationService + SyncEngine");

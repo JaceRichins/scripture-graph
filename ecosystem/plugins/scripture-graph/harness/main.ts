@@ -135,6 +135,16 @@ import { SGNavigatorModal } from "../src/study/navigator";
       openChapter: t => log(`nav → ${t}`),
       openNote: l => log(`nav → note ${l}`),
       lastChapter: () => last,
+      recentChapters: () => [
+        { slug: "dc-120", title: "D&C 120" },
+        { slug: "alma-36", title: "Alma 36" },
+        { slug: "gen-1", title: "Genesis 1" },
+        { slug: "matt-5", title: "Matthew 5" },
+      ],
+      groupActivity: async () => [
+        { group_name: "Family", chapter_slug: "alma-36", count: 3, others: 2 },
+        { group_name: "Ward class", chapter_slug: "1ne-1", count: 5, others: 5 },
+      ],
     }).open();
 
 void redecorate();

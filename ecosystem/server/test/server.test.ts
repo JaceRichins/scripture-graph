@@ -317,6 +317,46 @@ describe("sync semantics (§46)", () => {
   });
 });
 
+describe("group activity rollup", () => {
+  it("shows my groups' recent chapters, scoped to MY memberships only", async () => {
+    const a = mkUser("A"), b = mkUser("B"), c = mkUser("C");
+    // group Fam: a + b; group Other: c alone
+    const fam = (await call("POST", "/groups", a.token, { name: "Fam" })).json as { group_id: string };
+    const inv = (await call("POST", `/groups/${fam.group_id}/invites`, a.token, {})).json as { code: string };
+    await call("POST", "/invites/accept", b.token, { code: inv.code });
+    const other = (await call("POST", "/groups", c.token, { name: "Other" })).json as { group_id: string };
+    // b shares two verse notes in Alma 36 with Fam; c shares in his own group;
+    // a also has a private note that must NOT appear
+    await call("POST", "/sync/push", b.token, { ops: [
+      op(ann({ visibility: "group", group_id: fam.group_id, anchor_id: "alma-36-18" })),
+      op(ann({ visibility: "group", group_id: fam.group_id, anchor_id: "alma-36-3" })),
+    ] });
+    await call("POST", "/sync/push", c.token, { ops: [
+      op(ann({ visibility: "group", group_id: other.group_id, anchor_id: "gen-1-1" })),
+    ] });
+    await call("POST", "/sync/push", a.token, { ops: [
+      op(ann({ visibility: "private", anchor_id: "ps-23-1" })),
+    ] });
+    const r = await call("GET", "/activity/groups", a.token);
+    expect(r.status).toBe(200);
+    const act = (r.json as unknown as { activity: {
+      group_id: string; chapter_slug: string; count: number; others: number;
+    }[] }).activity;
+    expect(act.length).toBe(1);
+    expect(act[0]!.group_id).toBe(fam.group_id);
+    expect(act[0]!.chapter_slug).toBe("alma-36");
+    expect(act[0]!.count).toBe(2);
+    expect(act[0]!.others).toBe(2);   // both notes are b's, not mine
+    // c sees only his own group's chapter
+    const rc = (await call("GET", "/activity/groups", c.token)).json as unknown as
+      { activity: { chapter_slug: string }[] };
+    expect(rc.activity.length).toBe(1);
+    expect(rc.activity[0]!.chapter_slug).toBe("gen-1");
+    // unauthenticated is refused
+    expect((await call("GET", "/activity/groups", null)).status).toBe(401);
+  });
+});
+
 describe("export + deletion (§40, §63)", () => {
   it("export returns exactly my annotations", async () => {
     const a = mkUser("A"), b = mkUser("B");

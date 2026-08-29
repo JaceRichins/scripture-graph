@@ -5483,6 +5483,10 @@ var init_api = __esm({
       groupMembers(group_id) {
         return this.req("GET", `/groups/${group_id}/members`);
       }
+      /** what my groups have been studying lately, rolled up per chapter */
+      groupActivity() {
+        return this.req("GET", "/activity/groups");
+      }
       // sync + annotations
       syncPush(ops) {
         return this.req("POST", "/sync/push", { ops });
@@ -7415,6 +7419,7 @@ var DEFAULT_DEVICE = {
   lastTheme: null,
   debugOverlay: false,
   lastChapter: null,
+  recentChapters: [],
   showAiLibrary: false,
   scene: "none"
 };
@@ -7499,6 +7504,11 @@ var SGState = class {
 // src/study/navigator.ts
 var import_obsidian2 = require("obsidian");
 init_src();
+function titleForChapterSlug(slug) {
+  const m = /^(.+)-(\d+)$/.exec(slug);
+  if (!m) return null;
+  return chapterTitle(m[1], Number(m[2]));
+}
 var VOLUMES = [
   { name: "Old Testament", emoji: "\u{1F4DC}" },
   { name: "New Testament", emoji: "\u271D\uFE0F" },
@@ -7565,6 +7575,17 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
         this.host.openChapter(last.title);
       };
     }
+    const rec = this.host.recentChapters().filter((r) => r.slug !== last?.slug).slice(0, 4);
+    if (rec.length) {
+      const row = c.createDiv({ cls: "sg-nav-recent" });
+      for (const r of rec) {
+        const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
+        pill.onclick = () => {
+          this.close();
+          this.host.openChapter(r.title);
+        };
+      }
+    }
     const list = c.createDiv({ cls: "sg-nav-list" });
     for (const vol of VOLUMES) {
       const row = list.createDiv({ cls: "sg-nav-row" });
@@ -7584,6 +7605,28 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
       this.close();
       this.host.openNote("Study Hub");
     };
+    const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
+    void this.host.groupActivity().then((acts) => {
+      if (!acts.length || this.view.kind !== "home") return;
+      groupsBox.createDiv({ cls: "sg-nav-sect", text: "\u{1F465} Studying with your groups" });
+      for (const a of acts.slice(0, 4)) {
+        const title = titleForChapterSlug(a.chapter_slug);
+        if (!title) continue;
+        const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F465}" });
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: title });
+        col.createDiv({
+          cls: "sg-nav-gsub",
+          text: `${a.group_name} \xB7 ${a.count} note${a.count === 1 ? "" : "s"}` + (a.others ? "" : " (all yours)")
+        });
+        row.onclick = () => {
+          this.close();
+          this.host.openChapter(title);
+        };
+      }
+    }).catch(() => {
+    });
   }
   renderBooks(c, volume) {
     const grid = c.createDiv({ cls: "sg-nav-books" });
@@ -9512,6 +9555,8 @@ var SGPlugin = class extends import_obsidian14.Plugin {
   scenes = new SceneManager();
   origOpenLinkText = null;
   studyActionViews = /* @__PURE__ */ new WeakSet();
+  lastReadingPath = null;
+  backPillEl = null;
   async onload() {
     this.state = new SGState(this.app, this);
     const saved = await this.loadData();
@@ -9712,10 +9757,19 @@ var SGPlugin = class extends import_obsidian14.Plugin {
     fab.setAttr("aria-label", "Navigate scriptures");
     fab.onclick = () => this.openNavigator();
     this.register(() => fab.remove());
+    const back = document.body.createDiv({ cls: "sg-back-pill" });
+    back.onclick = () => {
+      const p = this.lastReadingPath;
+      const f = p ? this.app.vault.getAbstractFileByPath(p) : null;
+      if (f instanceof import_obsidian14.TFile) void this.app.workspace.getLeaf().openFile(f);
+    };
+    this.register(() => back.remove());
+    this.backPillEl = back;
     document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
     this.register(() => {
       document.body.removeClass("sg-hide-ai-lib");
       document.body.removeClass("sg-fab-on");
+      document.body.removeClass("sg-back-on");
     });
     this.registerEvent(this.app.workspace.on("file-open", (f) => {
       if (!f) return;
@@ -9723,6 +9777,7 @@ var SGPlugin = class extends import_obsidian14.Plugin {
       this.study.recordVisit(f);
       this.recordLastChapter(f);
       this.updateNavFab(f);
+      this.updateBackPill(f);
       this.enforceReadOnly();
       void this.matchSceneToChapter(f);
       this.openInPreviewOnce(f);
@@ -9859,10 +9914,15 @@ var SGPlugin = class extends import_obsidian14.Plugin {
     new SGNavigatorModal(this.app, {
       openChapter: (t) => this.openMyStudy(t),
       openNote: (l) => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
-      lastChapter: () => this.state.device.lastChapter
+      lastChapter: () => this.state.device.lastChapter,
+      recentChapters: () => this.state.device.recentChapters ?? [],
+      groupActivity: async () => {
+        if (!this.state.device.deviceToken) return [];
+        return (await this.state.api.groupActivity()).activity;
+      }
     }).open();
   }
-  /** Remember where the reader is — powers the navigator's Continue card. */
+  /** Remember where the reader is — powers Continue + the Recent row. */
   recordLastChapter(f) {
     let title = null;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
@@ -9875,7 +9935,27 @@ var SGPlugin = class extends import_obsidian14.Plugin {
     const d = this.state.device;
     if (d.lastChapter?.slug === slug) return;
     d.lastChapter = { slug, title };
+    d.recentChapters = [
+      { slug, title, at: (/* @__PURE__ */ new Date()).toISOString() },
+      ...(d.recentChapters ?? []).filter((r) => r.slug !== slug)
+    ].slice(0, 8);
     void this.state.saveDevice();
+  }
+  /** After following a link away from a chapter, one labeled tap returns. */
+  updateBackPill(f) {
+    const isReading = f.path.startsWith(CANONICAL_PREFIX) && !!chapterIdFromTitle(f.basename) || f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes");
+    if (isReading) {
+      this.lastReadingPath = f.path;
+      document.body.removeClass("sg-back-on");
+      return;
+    }
+    const target = this.lastReadingPath;
+    const show = !!target && target !== f.path && !!this.app.vault.getAbstractFileByPath(target);
+    if (show && this.backPillEl) {
+      const base = target.split("/").pop().replace(/\.md$/, "").replace(/ - My Notes$/, "");
+      this.backPillEl.setText(`\u2039 ${base}`);
+    }
+    document.body.toggleClass("sg-back-on", show);
   }
   /** The floating 📖 shows only while reading library/study pages. */
   updateNavFab(f) {

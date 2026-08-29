@@ -61,6 +61,8 @@ export interface DeviceState {
   debugOverlay: boolean;
   /** last chapter opened — powers "Continue reading" in the navigator */
   lastChapter: { slug: string; title: string } | null;
+  /** parallel studies: the last few distinct chapters, most recent first */
+  recentChapters: { slug: string; title: string; at: string }[];
   /** show the AI Library folder in the file explorer (power users only;
    * off keeps family devices from ever wandering in — links still work) */
   showAiLibrary: boolean;
@@ -84,6 +86,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   lastTheme: null,
   debugOverlay: false,
   lastChapter: null,
+  recentChapters: [],
   showAiLibrary: false,
   scene: "none",
 };

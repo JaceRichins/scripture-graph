@@ -68,6 +68,13 @@ export class ApiClient {
   groupMembers(group_id: string) {
     return this.req<{ members: { user_id: string; display_name: string; role: string }[] }>("GET", `/groups/${group_id}/members`);
   }
+  /** what my groups have been studying lately, rolled up per chapter */
+  groupActivity() {
+    return this.req<{ activity: {
+      group_id: string; group_name: string; chapter_slug: string;
+      count: number; others: number; latest: string;
+    }[] }>("GET", "/activity/groups");
+  }
 
   // sync + annotations
   syncPush(ops: SyncOp[]) {

@@ -5,12 +5,28 @@
  * destination is the personal My Study page — never the AI Library — so a
  * family member can wander freely and do no damage. */
 import { App, Modal } from "obsidian";
-import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
+import { BOOKS, chapterTitle, type BookInfo } from "@scripture-graph/core-sdk";
+
+export interface GroupActivityRow {
+  group_name: string;
+  chapter_slug: string;
+  count: number;
+  others: number;
+}
 
 export interface NavigatorHost {
   openChapter(title: string): void;
   openNote(linkText: string): void;
   lastChapter(): { slug: string; title: string } | null;
+  recentChapters(): { slug: string; title: string }[];
+  groupActivity(): Promise<GroupActivityRow[]>;
+}
+
+/** "alma-36" → "Alma 36" (null for anything that isn't a chapter slug) */
+function titleForChapterSlug(slug: string): string | null {
+  const m = /^(.+)-(\d+)$/.exec(slug);
+  if (!m) return null;
+  return chapterTitle(m[1]!, Number(m[2]));
 }
 
 const VOLUMES: { name: string; emoji: string }[] = [
@@ -85,6 +101,16 @@ export class SGNavigatorModal extends Modal {
       cont.createSpan({ cls: "sg-nav-continue-title", text: last.title });
       cont.onclick = () => { this.close(); this.host.openChapter(last.title); };
     }
+    // parallel studies: everything you've been reading lately, one tap each
+    const rec = this.host.recentChapters()
+      .filter(r => r.slug !== last?.slug).slice(0, 4);
+    if (rec.length) {
+      const row = c.createDiv({ cls: "sg-nav-recent" });
+      for (const r of rec) {
+        const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
+        pill.onclick = () => { this.close(); this.host.openChapter(r.title); };
+      }
+    }
     const list = c.createDiv({ cls: "sg-nav-list" });
     for (const vol of VOLUMES) {
       const row = list.createDiv({ cls: "sg-nav-row" });
@@ -103,6 +129,27 @@ export class SGNavigatorModal extends Modal {
     hub.createSpan({ cls: "sg-nav-emoji", text: "🏠" });
     hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
     hub.onclick = () => { this.close(); this.host.openNote("Study Hub"); };
+    // what your groups have been studying — fills in when the server answers;
+    // offline or solo it simply says nothing
+    const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
+    void this.host.groupActivity().then(acts => {
+      if (!acts.length || this.view.kind !== "home") return;
+      groupsBox.createDiv({ cls: "sg-nav-sect", text: "👥 Studying with your groups" });
+      for (const a of acts.slice(0, 4)) {
+        const title = titleForChapterSlug(a.chapter_slug);
+        if (!title) continue;
+        const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "👥" });
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: title });
+        col.createDiv({
+          cls: "sg-nav-gsub",
+          text: `${a.group_name} · ${a.count} note${a.count === 1 ? "" : "s"}`
+            + (a.others ? "" : " (all yours)"),
+        });
+        row.onclick = () => { this.close(); this.host.openChapter(title); };
+      }
+    }).catch(() => { /* unreachable server — the section just doesn't appear */ });
   }
 
   private renderBooks(c: HTMLElement, volume: string): void {

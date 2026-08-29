@@ -67,6 +67,8 @@ export default class SGPlugin extends Plugin {
   scenes = new SceneManager();
   private origOpenLinkText: typeof this.app.workspace.openLinkText | null = null;
   private studyActionViews = new WeakSet<MarkdownView>();
+  private lastReadingPath: string | null = null;
+  private backPillEl: HTMLElement | null = null;
 
   async onload() {
     this.state = new SGState(this.app, this);
@@ -238,10 +240,21 @@ export default class SGPlugin extends Plugin {
     fab.setAttr("aria-label", "Navigate scriptures");
     fab.onclick = () => this.openNavigator();
     this.register(() => fab.remove());
+    // ---- ‹ back pill: after following a link away from a chapter, one
+    // labeled tap returns to exactly where you were reading ----------------
+    const back = document.body.createDiv({ cls: "sg-back-pill" });
+    back.onclick = () => {
+      const p = this.lastReadingPath;
+      const f = p ? this.app.vault.getAbstractFileByPath(p) : null;
+      if (f instanceof TFile) void this.app.workspace.getLeaf().openFile(f);
+    };
+    this.register(() => back.remove());
+    this.backPillEl = back;
     document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
     this.register(() => {
       document.body.removeClass("sg-hide-ai-lib");
       document.body.removeClass("sg-fab-on");
+      document.body.removeClass("sg-back-on");
     });
 
     // ---- study-trail tracking + read-only enforcement ----------------------
@@ -251,6 +264,7 @@ export default class SGPlugin extends Plugin {
       this.study.recordVisit(f);
       this.recordLastChapter(f);
       this.updateNavFab(f);
+      this.updateBackPill(f);
       this.enforceReadOnly();
       void this.matchSceneToChapter(f);
       // personal pages OPEN in reading view too (mobile reuses the last tab
@@ -416,10 +430,15 @@ export default class SGPlugin extends Plugin {
       openChapter: t => this.openMyStudy(t),
       openNote: l => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
       lastChapter: () => this.state.device.lastChapter,
+      recentChapters: () => this.state.device.recentChapters ?? [],
+      groupActivity: async () => {
+        if (!this.state.device.deviceToken) return [];
+        return (await this.state.api.groupActivity()).activity;
+      },
     }).open();
   }
 
-  /** Remember where the reader is — powers the navigator's Continue card. */
+  /** Remember where the reader is — powers Continue + the Recent row. */
   private recordLastChapter(f: TFile): void {
     let title: string | null = null;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
@@ -432,7 +451,28 @@ export default class SGPlugin extends Plugin {
     const d = this.state.device;
     if (d.lastChapter?.slug === slug) return;
     d.lastChapter = { slug, title };
+    d.recentChapters = [{ slug, title, at: new Date().toISOString() },
+      ...(d.recentChapters ?? []).filter(r => r.slug !== slug)].slice(0, 8);
     void this.state.saveDevice();
+  }
+
+  /** After following a link away from a chapter, one labeled tap returns. */
+  private updateBackPill(f: TFile): void {
+    const isReading = (f.path.startsWith(CANONICAL_PREFIX) && !!chapterIdFromTitle(f.basename))
+      || (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes"));
+    if (isReading) {
+      this.lastReadingPath = f.path;
+      document.body.removeClass("sg-back-on");
+      return;
+    }
+    const target = this.lastReadingPath;
+    const show = !!target && target !== f.path
+      && !!this.app.vault.getAbstractFileByPath(target);
+    if (show && this.backPillEl) {
+      const base = target!.split("/").pop()!.replace(/\.md$/, "").replace(/ - My Notes$/, "");
+      this.backPillEl.setText(`‹ ${base}`);
+    }
+    document.body.toggleClass("sg-back-on", show);
   }
 
   /** The floating 📖 shows only while reading library/study pages. */

@@ -802,6 +802,41 @@ body.sg-fab-on .sg-nav-fab { display: flex; }
 body.sg-selecting .sg-nav-fab { display: none; } /* never crowd the StudyBar */
 .sg-nav-fab:active { transform: scale(0.92); }
 
+.sg-back-pill { /* labeled way back to where you were reading */
+  position: fixed;
+  left: 14px;
+  bottom: calc(64px + env(safe-area-inset-bottom, 0px));
+  z-index: calc(var(--layer-popover, 30) - 1);
+  display: none; align-items: center;
+  max-width: min(58vw, 320px);
+  min-height: 42px; padding: 0 16px 0 12px;
+  border-radius: 21px;
+  font-weight: 600; font-size: 0.95em;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  cursor: pointer;
+  background: color-mix(in srgb, var(--background-primary) 84%, transparent);
+  -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 80%, transparent);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.22);
+  -webkit-user-select: none; user-select: none;
+}
+body.sg-back-on .sg-back-pill { display: block; line-height: 42px; }
+body.sg-selecting .sg-back-pill { display: none; }
+.sg-back-pill:active { transform: scale(0.95); }
+
+.sg-nav-recent { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 12px; }
+.sg-nav-recent-pill {
+  min-height: 38px; padding: 4px 13px; border-radius: 19px;
+  font-size: 0.92em; font-weight: 600;
+}
+.sg-nav-sect {
+  margin: 14px 2px 6px; font-size: 0.85em; font-weight: 700;
+  color: var(--text-muted); letter-spacing: 0.02em;
+}
+.sg-nav-groups .sg-nav-row { margin-bottom: 6px; }
+.sg-nav-gcol { flex: 1; display: flex; flex-direction: column; gap: 1px; padding: 8px 0; }
+.sg-nav-gsub { color: var(--text-muted); font-size: 0.83em; }
+
 .sg-nav-modal { width: min(560px, 96vw); }
 .sg-nav-head { display: flex; align-items: center; gap: 8px; margin-bottom: 12px;
   padding-right: 34px; /* clear Obsidian's absolute close button */ }

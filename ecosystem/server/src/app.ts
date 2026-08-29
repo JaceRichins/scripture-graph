@@ -185,6 +185,48 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
     return { members };
   });
 
+  /** What each of MY groups has been studying lately — recent group-shared
+   * annotations rolled up per (group, chapter). Strictly scoped to the
+   * caller's own memberships; content never leaves, only counts. */
+  app.get("/activity/groups", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    const since = new Date(Date.now() - 21 * 86_400_000).toISOString();
+    const rows = db.prepare(`
+      SELECT a.anchor_id, a.anchor_type, a.group_id, g.name AS group_name,
+             a.updated_at, a.author_user_id
+      FROM annotations a JOIN groups g ON g.group_id = a.group_id
+      WHERE a.visibility = 'group' AND a.deleted_at IS NULL AND g.deleted_at IS NULL
+        AND a.updated_at > ?
+        AND a.group_id IN (
+          SELECT gm.group_id FROM group_memberships gm WHERE gm.user_id = ?)
+      ORDER BY a.updated_at DESC LIMIT 500`).all(since, who.user_id) as {
+        anchor_id: string; anchor_type: string; group_id: string;
+        group_name: string; updated_at: string; author_user_id: string;
+      }[];
+    const agg = new Map<string, {
+      group_id: string; group_name: string; chapter_slug: string;
+      count: number; others: number; latest: string;
+    }>();
+    for (const r of rows) {
+      const chapter = r.anchor_type === "verse" ? r.anchor_id.replace(/-\d+$/, "")
+        : r.anchor_type === "chapter" ? r.anchor_id : null;
+      if (!chapter) continue;
+      const key = `${r.group_id}|${chapter}`;
+      const cur = agg.get(key) ?? {
+        group_id: r.group_id, group_name: r.group_name, chapter_slug: chapter,
+        count: 0, others: 0, latest: r.updated_at,
+      };
+      cur.count += 1;
+      if (r.author_user_id !== who.user_id) cur.others += 1;
+      if (r.updated_at > cur.latest) cur.latest = r.updated_at;
+      agg.set(key, cur);
+    }
+    const activity = [...agg.values()]
+      .sort((a, b) => b.latest.localeCompare(a.latest))
+      .slice(0, 12);
+    return { activity };
+  });
+
   app.post("/groups/:id/invites", async (req, reply) => {
     const who = authed(req, reply); if (!who) return;
     const groupId = (req.params as { id: string }).id;
