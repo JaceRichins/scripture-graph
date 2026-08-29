@@ -7,6 +7,7 @@ import {
   type Annotation, type Visibility,
 } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState, type SocialAnnotation } from "../state";
+import { themeRibbons, themeSpec, themeWash } from "../study/themeLibrary";
 
 export const COLORS = ["yellow", "green", "blue", "pink", "orange"] as const;
 
@@ -130,6 +131,22 @@ export class AnnotationService {
     this.s.rerenderReading();
   }
 
+  /** Whole-verse theme tag: tap once to add, tap again to remove (§themes).
+   * Returns true when the theme was ADDED. */
+  async toggleTheme(anchorId: string, themeName: string, primaryHex: string,
+    visibility: Visibility, groupId: string | null): Promise<boolean> {
+    const mine = await this.mine(anchorId);
+    const existing = mine.find(a => a.annotation_type === "highlight"
+      && !a.selected_text && a.theme?.toLowerCase() === themeName.toLowerCase());
+    if (existing) {
+      await this.remove(existing.annotation_id);
+      return false;
+    }
+    await this.addHighlight(anchorId, primaryHex, null, null, visibility, groupId,
+      "theme", themeName);
+    return true;
+  }
+
   async setVisibility(id: string, visibility: Visibility, groupId: string | null): Promise<void> {
     const a = await this.s.sync.getAnnotation(id);
     if (!a || a.author_user_id !== this.s.device.userId && a.author_user_id !== null) return;
@@ -201,7 +218,7 @@ export function decorateVerse(
   s: SGState, svc: AnnotationService, p: HTMLElement, verseId: string,
   mine: Annotation[], social: SocialAnnotation[],
 ): void {
-  p.querySelectorAll(".sgh, .sg-badge, .sgh-note-icon").forEach(el => {
+  p.querySelectorAll(".sgh, .sg-badge, .sgh-note-icon, .sg-theme-badges").forEach(el => {
     // re-render safety: unwrap old marks
     if (el.classList.contains("sgh")) {
       const parent = el.parentNode;
@@ -209,15 +226,52 @@ export function decorateVerse(
     }
     el.remove();
   });
+  if (p.hasAttribute("data-sg-themed")) {
+    p.removeAttribute("data-sg-themed");
+    p.removeClass("sg-themed");
+    p.style.backgroundImage = "";
+    p.style.boxShadow = "";
+    p.style.paddingLeft = "";
+  }
   mine = mine.filter(a => !a.deleted_at);
   social = social.filter(a => !a.deleted_at);
 
-  const visible = [
+  const all = [
     ...(s.device.showScopes.mine ? mine : []),
     ...social,
   ].filter(a => a.annotation_type === "highlight");
+  // whole-verse THEME layers vs plain text marks
+  const themed = all.filter(a => a.theme && !a.selected_text);
+  const visible = all.filter(a => !(a.theme && !a.selected_text));
 
   for (const h of visible) applyMark(p, h);
+
+  if (themed.length) {
+    // dedupe by theme name (mine + family may share a theme on the verse)
+    const names: string[] = [];
+    for (const t of themed) {
+      if (t.theme && !names.some(n => n.toLowerCase() === t.theme!.toLowerCase())) {
+        names.push(t.theme);
+      }
+    }
+    const specs = names.map(n => themeSpec(n, s.settings.themes ?? [], COLOR_HEX));
+    p.setAttribute("data-sg-themed", "1");
+    p.addClass("sg-themed");
+    const alpha = Math.max(0.06, 0.16 / specs.length); // more layers → subtler each
+    p.style.backgroundImage = specs.map(sp => themeWash(sp, alpha)).join(", ");
+    p.style.boxShadow = themeRibbons(specs);
+    p.style.paddingLeft = `${8 + specs.length * 4}px`;
+    const badges = p.createSpan({ cls: "sg-theme-badges" });
+    for (const sp of specs) {
+      const chip = badges.createSpan({ cls: "sg-theme-badge", text: sp.emoji });
+      chip.setAttribute("aria-label", sp.name);
+      chip.style.borderBottom = `2px solid ${sp.c1}`;
+      chip.onclick = (e) => {
+        e.stopPropagation();
+        new NotesPopover(s, svc, verseId).open();
+      };
+    }
+  }
 
   // every annotation type leaves a visible, tappable trace on its verse
   const openPopover = () => new NotesPopover(s, svc, verseId).open();

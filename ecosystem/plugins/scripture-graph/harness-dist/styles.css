@@ -75,6 +75,16 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 /* ---------- welcome ------------------------------------------------------- */
 .sg-welcome p { opacity: 0.85; }
 
+/* ---------- themed verses (whole-verse, stackable) ------------------------ */
+.sg-themed {
+  border-radius: 8px;
+  transition: background-image 0.25s ease, box-shadow 0.25s ease;
+}
+.sg-theme-badges { margin-left: 6px; white-space: nowrap; user-select: none; }
+.sg-theme-badge {
+  cursor: pointer; font-size: 0.85em; padding: 0 2px; border-radius: 3px;
+}
+
 /* ---------- verse selection + study bar (Gospel-Library-style) ----------- */
 .sg-vsel {
   text-decoration: underline dotted var(--text-accent) 2px;

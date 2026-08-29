@@ -5631,6 +5631,55 @@ ${local.content}`,
     };
   }
 
+  // src/study/themeLibrary.ts
+  var THEME_LIBRARY = [
+    { name: "Jesus Christ", emoji: "\u271D\uFE0F", c1: "#e8c547", c2: "#f5ead1" },
+    { name: "Faith", emoji: "\u{1F331}", c1: "#4cc38a", c2: "#a8e6c1" },
+    { name: "Hope", emoji: "\u{1F305}", c1: "#ff9f45", c2: "#ffd166" },
+    { name: "Charity", emoji: "\u2764\uFE0F", c1: "#f76bb0", c2: "#ff9aa2" },
+    { name: "Forgiveness", emoji: "\u{1F54A}\uFE0F", c1: "#52a9ff", c2: "#a5d8ff" },
+    { name: "Repentance", emoji: "\u{1F504}", c1: "#ffb347", c2: "#f76bb0" },
+    { name: "Sin", emoji: "\u26A0\uFE0F", c1: "#d64550", c2: "#8b2635" },
+    { name: "Awe", emoji: "\u{1F30C}", c1: "#6c5ce7", c2: "#a29bfe" },
+    { name: "Remember", emoji: "\u{1F397}\uFE0F", c1: "#e8c547", c2: "#d4a017" },
+    { name: "Interesting", emoji: "\u{1F4A1}", c1: "#22d3ee", c2: "#a3e635" },
+    { name: "Covenant", emoji: "\u{1F91D}", c1: "#3b6fd6", c2: "#e8c547" },
+    { name: "Prayer", emoji: "\u{1F64F}", c1: "#b197fc", c2: "#74c0fc" },
+    { name: "Promise", emoji: "\u{1F308}", c1: "#63e6be", c2: "#ffd43b" },
+    { name: "Prophecy", emoji: "\u{1F52E}", c1: "#9775fa", c2: "#4c3fb5" },
+    { name: "Commandment", emoji: "\u{1F4DC}", c1: "#8d99ae", c2: "#5c677d" },
+    { name: "Comfort", emoji: "\u{1F56F}\uFE0F", c1: "#ffb997", c2: "#ffe0c2" },
+    { name: "Joy", emoji: "\u{1F60A}", c1: "#ffd43b", c2: "#ff9f45" },
+    { name: "Wisdom", emoji: "\u{1F989}", c1: "#20b2aa", c2: "#5f7a8a" },
+    { name: "Family", emoji: "\u{1F3E1}", c1: "#ff9aa2", c2: "#ffdac1" },
+    { name: "Service", emoji: "\u{1FAF1}", c1: "#38d9a9", c2: "#4dabf7" },
+    { name: "Warning", emoji: "\u{1F6A8}", c1: "#ff6b6b", c2: "#ffa94d" },
+    { name: "Question", emoji: "\u2753", c1: "#adb5bd", c2: "#74c0fc" }
+  ];
+  var BY_NAME = new Map(THEME_LIBRARY.map((t) => [t.name.toLowerCase(), t]));
+  function themeSpec(name, custom2 = [], colorHex = {}) {
+    const hit = BY_NAME.get(name.toLowerCase());
+    if (hit) return hit;
+    const user = custom2.find((t) => t.name.toLowerCase() === name.toLowerCase());
+    if (user) {
+      const hex = colorHex[user.color] ?? user.color ?? "#e8c547";
+      return { name: user.name, emoji: "\u{1F3F7}\uFE0F", c1: hex, c2: hex };
+    }
+    return { name, emoji: "\u{1F3F7}\uFE0F", c1: "#8d99ae", c2: "#8d99ae" };
+  }
+  function hexToRgba(hex, alpha) {
+    const m = /^#?([0-9a-f]{6})$/i.exec(hex.trim());
+    if (!m) return `rgba(141,153,174,${alpha})`;
+    const n = parseInt(m[1], 16);
+    return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${alpha})`;
+  }
+  function themeWash(spec, layerAlpha) {
+    return `linear-gradient(120deg, ${hexToRgba(spec.c1, layerAlpha)}, ${hexToRgba(spec.c2, layerAlpha * 0.75)})`;
+  }
+  function themeRibbons(specs) {
+    return specs.map((s, i) => `inset ${(i + 1) * 4}px 0 0 ${s.c1}`).join(", ");
+  }
+
   // src/social/annotations.ts
   var COLORS = ["yellow", "green", "blue", "pink", "orange"];
   var COLOR_HEX = {
@@ -5763,6 +5812,27 @@ ${text}` : text;
       this.scheduleSync();
       this.s.rerenderReading();
     }
+    /** Whole-verse theme tag: tap once to add, tap again to remove (§themes).
+     * Returns true when the theme was ADDED. */
+    async toggleTheme(anchorId, themeName, primaryHex, visibility, groupId) {
+      const mine = await this.mine(anchorId);
+      const existing = mine.find((a) => a.annotation_type === "highlight" && !a.selected_text && a.theme?.toLowerCase() === themeName.toLowerCase());
+      if (existing) {
+        await this.remove(existing.annotation_id);
+        return false;
+      }
+      await this.addHighlight(
+        anchorId,
+        primaryHex,
+        null,
+        null,
+        visibility,
+        groupId,
+        "theme",
+        themeName
+      );
+      return true;
+    }
     async setVisibility(id, visibility, groupId) {
       const a = await this.s.sync.getAnnotation(id);
       if (!a || a.author_user_id !== this.s.device.userId && a.author_user_id !== null) return;
@@ -5821,20 +5891,54 @@ ${text}` : text;
     }
   };
   function decorateVerse(s, svc, p, verseId, mine, social) {
-    p.querySelectorAll(".sgh, .sg-badge, .sgh-note-icon").forEach((el) => {
+    p.querySelectorAll(".sgh, .sg-badge, .sgh-note-icon, .sg-theme-badges").forEach((el) => {
       if (el.classList.contains("sgh")) {
         const parent = el.parentNode;
         while (el.firstChild) parent?.insertBefore(el.firstChild, el);
       }
       el.remove();
     });
+    if (p.hasAttribute("data-sg-themed")) {
+      p.removeAttribute("data-sg-themed");
+      p.removeClass("sg-themed");
+      p.style.backgroundImage = "";
+      p.style.boxShadow = "";
+      p.style.paddingLeft = "";
+    }
     mine = mine.filter((a) => !a.deleted_at);
     social = social.filter((a) => !a.deleted_at);
-    const visible = [
+    const all = [
       ...s.device.showScopes.mine ? mine : [],
       ...social
     ].filter((a) => a.annotation_type === "highlight");
+    const themed = all.filter((a) => a.theme && !a.selected_text);
+    const visible = all.filter((a) => !(a.theme && !a.selected_text));
     for (const h of visible) applyMark(p, h);
+    if (themed.length) {
+      const names = [];
+      for (const t of themed) {
+        if (t.theme && !names.some((n) => n.toLowerCase() === t.theme.toLowerCase())) {
+          names.push(t.theme);
+        }
+      }
+      const specs = names.map((n) => themeSpec(n, s.settings.themes ?? [], COLOR_HEX));
+      p.setAttribute("data-sg-themed", "1");
+      p.addClass("sg-themed");
+      const alpha = Math.max(0.06, 0.16 / specs.length);
+      p.style.backgroundImage = specs.map((sp) => themeWash(sp, alpha)).join(", ");
+      p.style.boxShadow = themeRibbons(specs);
+      p.style.paddingLeft = `${8 + specs.length * 4}px`;
+      const badges = p.createSpan({ cls: "sg-theme-badges" });
+      for (const sp of specs) {
+        const chip = badges.createSpan({ cls: "sg-theme-badge", text: sp.emoji });
+        chip.setAttribute("aria-label", sp.name);
+        chip.style.borderBottom = `2px solid ${sp.c1}`;
+        chip.onclick = (e) => {
+          e.stopPropagation();
+          new NotesPopover(s, svc, verseId).open();
+        };
+      }
+    }
     const openPopover = () => new NotesPopover(s, svc, verseId).open();
     if (s.device.showScopes.mine) {
       const kinds = [
@@ -6310,20 +6414,21 @@ ${text}` : text;
           this.render();
         };
       }
-      const themes = this.s.settings.themes ?? [];
-      if (themes.length || true) {
-        const trow = bar2.createDiv({ cls: "sg-studybar-themes" });
-        for (const th of themes) {
-          const chip = trow.createEl("button", { cls: "sg-theme-chip", text: th.name });
-          chip.style.borderBottom = `3px solid ${COLOR_HEX[th.color] ?? "#f5d90a"}`;
-          if (th.style === "bold") chip.style.fontWeight = "700";
-          if (th.style === "italic") chip.style.fontStyle = "italic";
-          if (this.s.device.lastTheme === th.name) chip.addClass("sg-style-on");
-          chip.onclick = () => void this.doHighlight(th.color, th);
-        }
-        const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B theme" });
-        add.onclick = () => this.saveThemePrompt();
+      const trow = bar2.createDiv({ cls: "sg-studybar-themes" });
+      const customs = (this.s.settings.themes ?? []).filter((t) => !THEME_LIBRARY.some((l) => l.name.toLowerCase() === t.name.toLowerCase())).map((t) => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
+      const chipByName = /* @__PURE__ */ new Map();
+      for (const sp of [...THEME_LIBRARY, ...customs]) {
+        const chip = trow.createEl("button", {
+          cls: "sg-theme-chip",
+          text: `${sp.emoji} ${sp.name}`
+        });
+        chip.style.borderBottom = `3px solid ${sp.c1}`;
+        chipByName.set(sp.name.toLowerCase(), chip);
+        chip.onclick = () => void this.doTheme(sp);
       }
+      const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B own" });
+      add.onclick = () => this.saveThemePrompt();
+      void this.markActiveThemeChips(chipByName);
       const row = bar2.createDiv({ cls: "sg-studybar-actions" });
       const act = (label, fn) => {
         const b = row.createEl("button", { text: label });
@@ -6350,15 +6455,10 @@ ${text}` : text;
       menu.addItem((i) => i.setTitle("\u{1F30E} Public").onClick(() => set("public", null, "public")));
       menu.showAtMouseEvent(e);
     }
-    async doHighlight(color, theme) {
+    async doHighlight(color) {
       const { visibility, groupId } = this.s.device.lastShareScope;
-      const style = theme?.style ?? this.s.device.lastStyle ?? "highlight";
-      const themeName = theme?.name ?? null;
+      const style = this.s.device.lastStyle ?? "highlight";
       this.s.device.lastColor = color;
-      if (theme) {
-        this.s.device.lastStyle = theme.style;
-        this.s.device.lastTheme = theme.name;
-      }
       void this.s.saveDevice();
       if (this.sel.partial) {
         const p = this.sel.partial;
@@ -6370,7 +6470,7 @@ ${text}` : text;
           visibility,
           groupId,
           style,
-          themeName
+          null
         );
       } else {
         for (const v of this.sel.verses) {
@@ -6382,18 +6482,50 @@ ${text}` : text;
             visibility,
             groupId,
             style,
-            themeName
+            null
           );
         }
       }
-      new Notice(`${themeName ? `\u201C${themeName}\u201D \u2014 ` : ""}marked ${this.refLabel()}`);
+      new Notice(`Marked ${this.refLabel()}`);
       this.clear();
+    }
+    /** verses this action targets — themes are WHOLE-VERSE by design, so a
+     * phrase selection resolves to its verse */
+    targetVerseIds() {
+      if (this.sel.partial) return [this.sel.partial.verseId];
+      return this.sel.verses.map((v) => v.verseId);
+    }
+    /** apply/remove a theme tag on every selected verse (stackable) */
+    async doTheme(spec) {
+      const { visibility, groupId } = this.s.device.lastShareScope;
+      const ids = this.targetVerseIds();
+      if (!ids.length) return;
+      let added = 0, removed = 0;
+      for (const vid of ids) {
+        const on = await this.ann.toggleTheme(vid, spec.name, spec.c1, visibility, groupId);
+        if (on) added++;
+        else removed++;
+      }
+      trace("theme.toggle", { theme: spec.name, added, removed });
+      new Notice(added && !removed ? `${spec.emoji} ${spec.name} \u2014 ${this.refLabel()}` : !added && removed ? `${spec.emoji} ${spec.name} removed` : `${spec.emoji} ${spec.name} updated`);
+      this.clear();
+    }
+    /** ring the chips whose theme the (first) selected verse already carries */
+    async markActiveThemeChips(chips) {
+      const vid = this.targetVerseIds()[0];
+      if (!vid) return;
+      const mine = await this.ann.mine(vid);
+      for (const a of mine) {
+        if (a.annotation_type === "highlight" && a.theme && !a.selected_text) {
+          chips.get(a.theme.toLowerCase())?.addClass("sg-style-on");
+        }
+      }
     }
     /** name the current color+treatment as a shared family theme */
     saveThemePrompt() {
       const color = this.s.device.lastColor;
       const style = this.s.device.lastStyle || "highlight";
-      new ThemeNameModal(this.s, `${color} \xB7 ${style}`, async (name) => {
+      new ThemeNameModal(this.s, color, async (name) => {
         const themes = this.s.settings.themes ?? [];
         const existing = themes.findIndex((t) => t.name.toLowerCase() === name.toLowerCase());
         const entry = { name, color, style };
@@ -6401,7 +6533,8 @@ ${text}` : text;
         else themes.push(entry);
         this.s.applySettings({ themes });
         await this.saveSettings();
-        new Notice(`Theme \u201C${name}\u201D saved for the whole family`);
+        new Notice(`Theme \u201C${name}\u201D added to the family library`);
+        this.lastSig = "";
         this.render();
       }).open();
     }

@@ -13,8 +13,9 @@
  */
 import { Menu, Modal, Notice, Platform, Setting, type Plugin } from "obsidian";
 import { parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
-import type { MarkTheme, SGState } from "../state";
+import type { SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
+import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
 
@@ -346,22 +347,25 @@ export class StudyBar {
       };
     }
 
-    // row 2b: family theme chips ("Faith", "Covenants", …) — a theme is a
-    // named color+treatment; tapping applies AND tags the mark with it
-    const themes = this.s.settings.themes ?? [];
-    if (themes.length || true) {
-      const trow = bar.createDiv({ cls: "sg-studybar-themes" });
-      for (const th of themes) {
-        const chip = trow.createEl("button", { cls: "sg-theme-chip", text: th.name });
-        chip.style.borderBottom = `3px solid ${COLOR_HEX[th.color] ?? "#f5d90a"}`;
-        if (th.style === "bold") chip.style.fontWeight = "700";
-        if (th.style === "italic") chip.style.fontStyle = "italic";
-        if (this.s.device.lastTheme === th.name) chip.addClass("sg-style-on");
-        chip.onclick = () => void this.doHighlight(th.color, th);
-      }
-      const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "＋ theme" });
-      add.onclick = () => this.saveThemePrompt();
+    // row 2b: the THEME LIBRARY — premade study themes (gradient + emoji) plus
+    // any family-created ones. Whole-verse, stackable; tap = tag, tap again =
+    // untag. Chips the current verse already carries get a glow ring.
+    const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+    const customs = (this.s.settings.themes ?? [])
+      .filter(t => !THEME_LIBRARY.some(l => l.name.toLowerCase() === t.name.toLowerCase()))
+      .map(t => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
+    const chipByName = new Map<string, HTMLElement>();
+    for (const sp of [...THEME_LIBRARY, ...customs]) {
+      const chip = trow.createEl("button", {
+        cls: "sg-theme-chip", text: `${sp.emoji} ${sp.name}`,
+      });
+      chip.style.borderBottom = `3px solid ${sp.c1}`;
+      chipByName.set(sp.name.toLowerCase(), chip);
+      chip.onclick = () => void this.doTheme(sp);
     }
+    const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "＋ own" });
+    add.onclick = () => this.saveThemePrompt();
+    void this.markActiveThemeChips(chipByName);
 
     // row 3: actions
     const row = bar.createDiv({ cls: "sg-studybar-actions" });
@@ -396,35 +400,66 @@ export class StudyBar {
     menu.showAtMouseEvent(e);
   }
 
-  private async doHighlight(color: string, theme?: MarkTheme): Promise<void> {
+  private async doHighlight(color: string): Promise<void> {
     const { visibility, groupId } = this.s.device.lastShareScope;
-    const style = theme?.style ?? this.s.device.lastStyle ?? "highlight";
-    const themeName = theme?.name ?? null;
+    const style = this.s.device.lastStyle ?? "highlight";
     this.s.device.lastColor = color;
-    if (theme) {
-      this.s.device.lastStyle = theme.style;
-      this.s.device.lastTheme = theme.name;
-    }
     void this.s.saveDevice();
     if (this.sel.partial) {
       const p = this.sel.partial;
       await this.ann.addHighlight(p.verseId, color, p.verseText, p.selected,
-        visibility, groupId, style, themeName);
+        visibility, groupId, style, null);
     } else {
       for (const v of this.sel.verses) {
         await this.ann.addHighlight(v.verseId, color, v.verseText, null,
-          visibility, groupId, style, themeName);
+          visibility, groupId, style, null);
       }
     }
-    new Notice(`${themeName ? `“${themeName}” — ` : ""}marked ${this.refLabel()}`);
+    new Notice(`Marked ${this.refLabel()}`);
     this.clear();   // the annotation service re-renders the reading views
+  }
+
+  /** verses this action targets — themes are WHOLE-VERSE by design, so a
+   * phrase selection resolves to its verse */
+  private targetVerseIds(): string[] {
+    if (this.sel.partial) return [this.sel.partial.verseId];
+    return this.sel.verses.map(v => v.verseId);
+  }
+
+  /** apply/remove a theme tag on every selected verse (stackable) */
+  private async doTheme(spec: ThemeSpec): Promise<void> {
+    const { visibility, groupId } = this.s.device.lastShareScope;
+    const ids = this.targetVerseIds();
+    if (!ids.length) return;
+    let added = 0, removed = 0;
+    for (const vid of ids) {
+      const on = await this.ann.toggleTheme(vid, spec.name, spec.c1, visibility, groupId);
+      if (on) added++; else removed++;
+    }
+    trace("theme.toggle", { theme: spec.name, added, removed });
+    new Notice(added && !removed ? `${spec.emoji} ${spec.name} — ${this.refLabel()}`
+      : !added && removed ? `${spec.emoji} ${spec.name} removed`
+        : `${spec.emoji} ${spec.name} updated`);
+    this.clear();
+  }
+
+  /** ring the chips whose theme the (first) selected verse already carries */
+  private async markActiveThemeChips(chips: Map<string, HTMLElement>): Promise<void> {
+    const vid = this.targetVerseIds()[0];
+    if (!vid) return;
+    const mine = await this.ann.mine(vid);
+    for (const a of mine) {
+      if (a.annotation_type === "highlight" && a.theme && !a.selected_text) {
+        chips.get(a.theme.toLowerCase())?.addClass("sg-style-on");
+      }
+    }
   }
 
   /** name the current color+treatment as a shared family theme */
   private saveThemePrompt(): void {
     const color = this.s.device.lastColor;
     const style = this.s.device.lastStyle || "highlight";
-    new ThemeNameModal(this.s, `${color} · ${style}`, async (name) => {
+    new ThemeNameModal(this.s, color, async (name) => {
       const themes = this.s.settings.themes ?? [];
       const existing = themes.findIndex(t => t.name.toLowerCase() === name.toLowerCase());
       const entry = { name, color, style };
@@ -432,7 +467,8 @@ export class StudyBar {
       else themes.push(entry);
       this.s.applySettings({ themes });
       await this.saveSettings();
-      new Notice(`Theme “${name}” saved for the whole family`);
+      new Notice(`Theme “${name}” added to the family library`);
+      this.lastSig = "";   // force chip-row rebuild
       this.render();
     }).open();
   }
