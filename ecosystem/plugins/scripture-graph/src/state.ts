@@ -59,6 +59,8 @@ export interface DeviceState {
   lastTheme: string | null;
   /** show the interaction-trace overlay (debugging aid) */
   debugOverlay: boolean;
+  /** ambient reading scene: "none" | "auto" | scene id */
+  scene: string;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -76,6 +78,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   lastStyle: "highlight",
   lastTheme: null,
   debugOverlay: false,
+  scene: "none",
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }

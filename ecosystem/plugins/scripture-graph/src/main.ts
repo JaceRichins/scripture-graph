@@ -15,6 +15,8 @@ import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
+import { SCENES, SceneManager } from "./study/scenes";
+import { Menu } from "obsidian";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
 
@@ -61,6 +63,7 @@ export default class SGPlugin extends Plugin {
   ann!: AnnotationService;
   study!: StudyService;
   studyBar!: StudyBar;
+  scenes = new SceneManager();
   private origOpenLinkText: typeof this.app.workspace.openLinkText | null = null;
   private studyActionViews = new WeakSet<MarkdownView>();
 
@@ -147,6 +150,10 @@ export default class SGPlugin extends Plugin {
         if (!checking && ok) this.openMyStudy(f!.basename);
         return ok;
       },
+    });
+    this.addCommand({
+      id: "reading-scene", name: "Change reading scene", icon: "sunrise",
+      callback: () => this.pickScene(),
     });
     this.addCommand({
       id: "write-my-notes", name: "Write in my notes (this chapter)", icon: "pen-line",
@@ -272,6 +279,11 @@ export default class SGPlugin extends Plugin {
           const { setOverlay } = await import("./study/trace");
           setOverlay(true);
         }
+        // ambient scene: restore + hourly re-pick when following the clock
+        this.scenes.apply(this.state.device.scene ?? "none");
+        this.registerInterval(window.setInterval(() => {
+          if (this.state.device.scene === "auto") this.scenes.apply("auto");
+        }, 15 * 60_000));
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);
@@ -368,6 +380,26 @@ export default class SGPlugin extends Plugin {
     } else {
       new Notice("No My Notes page exists for this chapter yet");
     }
+  }
+
+  /** Ambient scene picker. */
+  pickScene(): void {
+    const menu = new Menu();
+    const set = (value: string, label: string) => {
+      this.state.device.scene = value;
+      void this.state.saveDevice();
+      this.scenes.apply(value);
+      new Notice(`Reading scene: ${label}`);
+    };
+    menu.addItem(i => i.setTitle("✖ None (plain)").onClick(() => set("none", "none")));
+    menu.addItem(i => i.setTitle("🕐 Auto — follow the time of day")
+      .onClick(() => set("auto", "auto")));
+    menu.addSeparator();
+    for (const s of SCENES) {
+      menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
+        .onClick(() => set(s.id, s.name)));
+    }
+    menu.showAtPosition({ x: window.innerWidth / 2 - 110, y: window.innerHeight / 3 });
   }
 
   /** ✍️ Write dialog: append to the My Notes section without ever putting

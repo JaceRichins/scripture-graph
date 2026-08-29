@@ -7175,7 +7175,8 @@ var DEFAULT_DEVICE = {
   lastColor: "yellow",
   lastStyle: "highlight",
   lastTheme: null,
-  debugOverlay: false
+  debugOverlay: false,
+  scene: "none"
 };
 var SGState = class {
   constructor(app, plugin) {
@@ -8232,6 +8233,87 @@ var ReviewModal = class extends import_obsidian9.Modal {
 // src/main.ts
 init_studyBar();
 
+// src/study/scenes.ts
+var SCENES = [
+  { id: "sunrise", name: "Sunrise", emoji: "\u{1F305}", hours: [[5, 10]], layers: 4 },
+  { id: "waters", name: "Still Waters", emoji: "\u{1F30A}", hours: [[10, 16]], layers: 5 },
+  { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [[16, 20]], layers: 4 },
+  { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 4 },
+  { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 3 }
+];
+var ROOT_CLS = "sg-scene";
+function seededStars(seed, n, w, h, rMin, rMax, color) {
+  let s = seed;
+  const rnd = () => (s = (s * 1103515245 + 12345) % 2147483648) / 2147483648;
+  let circles = "";
+  for (let i = 0; i < n; i++) {
+    const x = (rnd() * w).toFixed(1);
+    const y = (rnd() * h).toFixed(1);
+    const r = (rMin + rnd() * (rMax - rMin)).toFixed(2);
+    const o = (0.4 + rnd() * 0.6).toFixed(2);
+    circles += `<circle cx='${x}' cy='${y}' r='${r}' fill='${color}' opacity='${o}'/>`;
+  }
+  const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='${w}' height='${h}'>${circles}</svg>`;
+  return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
+}
+function dunes(color, amp, phase) {
+  const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='900' height='200' preserveAspectRatio='none'><path d='M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} T 600 ${118 + phase} T 900 ${128 + phase} L 900 200 L 0 200 Z' fill='${color}'/></svg>`;
+  return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
+}
+var SceneManager = class {
+  el = null;
+  currentId = null;
+  /** mount / switch / unmount ("none" removes) */
+  apply(id) {
+    const target = id === "auto" ? this.autoPick() : id;
+    if (!target || target === "none") {
+      this.el?.remove();
+      this.el = null;
+      this.currentId = null;
+      document.body.removeClass("sg-scene-on");
+      return;
+    }
+    if (this.currentId === target && this.el) return;
+    this.el?.remove();
+    const scene = SCENES.find((s) => s.id === target) ?? SCENES[0];
+    const el = document.body.createDiv({ cls: `${ROOT_CLS} ${ROOT_CLS}-${scene.id}` });
+    document.body.insertBefore(el, document.body.firstChild);
+    for (let i = 1; i <= scene.layers; i++) el.createDiv({ cls: `sgl sgl-${i}` });
+    this.decorate(scene.id, el);
+    this.el = el;
+    this.currentId = scene.id;
+    document.body.addClass("sg-scene-on");
+  }
+  current() {
+    return this.currentId;
+  }
+  autoPick() {
+    const h = (/* @__PURE__ */ new Date()).getHours();
+    for (const s of SCENES) {
+      if (s.hours.some(([a, b]) => h >= a && h < b)) return s.id;
+    }
+    return "starlight";
+  }
+  /** scene-specific generated artwork (stars, dunes) as inline SVG layers */
+  decorate(id, el) {
+    if (id === "starlight") {
+      const l1 = el.querySelector(".sgl-2");
+      const l2 = el.querySelector(".sgl-3");
+      if (l1) l1.style.backgroundImage = seededStars(7, 90, 1200, 900, 0.6, 1.4, "#ffffff");
+      if (l2) l2.style.backgroundImage = seededStars(23, 60, 1100, 800, 0.9, 1.9, "#cdd6ff");
+    }
+    if (id === "desert") {
+      const back = el.querySelector(".sgl-2");
+      const front = el.querySelector(".sgl-3");
+      if (back) back.style.backgroundImage = dunes("#2a1c2e", 30, -12);
+      if (front) front.style.backgroundImage = dunes("#140d18", 45, 18);
+    }
+  }
+};
+
+// src/main.ts
+var import_obsidian13 = require("obsidian");
+
 // src/settings.ts
 var import_obsidian10 = require("obsidian");
 init_src();
@@ -8318,6 +8400,16 @@ var SGSettingsTab = class extends import_obsidian10.PluginSettingTab {
       s.applySettings({ chapterLinksToMyStudy: v });
       await this.p.saveSharedSettings();
     }));
+    new import_obsidian10.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
+      d.addOption("none", "None (plain)");
+      d.addOption("auto", "Auto \u2014 follow the time of day");
+      for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
+      d.setValue(s.device.scene ?? "none").onChange(async (v) => {
+        s.device.scene = v;
+        await s.saveDevice();
+        this.p.scenes.apply(v);
+      });
+    });
     el.createEl("h2", { text: "Sharing & privacy" });
     new import_obsidian10.Setting(el).setName("Default for new notes/highlights").setDesc("\u{1F510} Only me (synced) is recommended; \u{1F512} device-only never uploads anywhere").addDropdown((d) => d.addOption("private", "\u{1F510} Only me (synced)").addOption("local", "\u{1F512} Only me (this device)").setValue(s.settings.defaultVisibility).onChange(async (v) => {
       s.settings.defaultVisibility = v;
@@ -8567,6 +8659,7 @@ var SGPlugin = class extends import_obsidian12.Plugin {
   ann;
   study;
   studyBar;
+  scenes = new SceneManager();
   origOpenLinkText = null;
   studyActionViews = /* @__PURE__ */ new WeakSet();
   async onload() {
@@ -8654,6 +8747,12 @@ var SGPlugin = class extends import_obsidian12.Plugin {
         if (!checking && ok) this.openMyStudy(f.basename);
         return ok;
       }
+    });
+    this.addCommand({
+      id: "reading-scene",
+      name: "Change reading scene",
+      icon: "sunrise",
+      callback: () => this.pickScene()
     });
     this.addCommand({
       id: "write-my-notes",
@@ -8788,6 +8887,10 @@ var SGPlugin = class extends import_obsidian12.Plugin {
           const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
           setOverlay2(true);
         }
+        this.scenes.apply(this.state.device.scene ?? "none");
+        this.registerInterval(window.setInterval(() => {
+          if (this.state.device.scene === "auto") this.scenes.apply("auto");
+        }, 15 * 6e4));
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);
@@ -8875,6 +8978,23 @@ var SGPlugin = class extends import_obsidian12.Plugin {
     } else {
       new import_obsidian12.Notice("No My Notes page exists for this chapter yet");
     }
+  }
+  /** Ambient scene picker. */
+  pickScene() {
+    const menu = new import_obsidian13.Menu();
+    const set = (value, label) => {
+      this.state.device.scene = value;
+      void this.state.saveDevice();
+      this.scenes.apply(value);
+      new import_obsidian12.Notice(`Reading scene: ${label}`);
+    };
+    menu.addItem((i) => i.setTitle("\u2716 None (plain)").onClick(() => set("none", "none")));
+    menu.addItem((i) => i.setTitle("\u{1F550} Auto \u2014 follow the time of day").onClick(() => set("auto", "auto")));
+    menu.addSeparator();
+    for (const s of SCENES) {
+      menu.addItem((i) => i.setTitle(`${s.emoji} ${s.name}`).onClick(() => set(s.id, s.name)));
+    }
+    menu.showAtPosition({ x: window.innerWidth / 2 - 110, y: window.innerHeight / 3 });
   }
   /** ✍️ Write dialog: append to the My Notes section without ever putting
    * the page itself into an editor (mobile keyboard stays in the dialog). */

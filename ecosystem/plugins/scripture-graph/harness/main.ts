@@ -107,5 +107,11 @@ bar.attach({
     opts?: AddEventListenerOptions) => el.addEventListener(ev, cb as EventListener, opts),
 } as never);
 
+// scenes drivable from tests: window.sgScene("sunrise" | ... | "none")
+import { SceneManager } from "../src/study/scenes";
+const sceneMgr = new SceneManager();
+(window as unknown as { sgScene: (id: string) => void }).sgScene =
+  (id: string) => sceneMgr.apply(id);
+
 void redecorate();
 log("harness ready — real StudyBar + AnnotationService + SyncEngine");
