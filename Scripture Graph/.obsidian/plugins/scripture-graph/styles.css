@@ -1078,6 +1078,39 @@ body.sg-scene-on .sg-chap-conn {
   fill: none; stroke: var(--interactive-accent);
   stroke-width: 2; opacity: 0.55; stroke-dasharray: 2 6; stroke-linecap: round;
 }
+.sg-tl-focus-thread { /* one subject's whole journey, stitched bright */
+  fill: none; stroke: var(--interactive-accent);
+  stroke-width: 3.5; opacity: 0.6; stroke-linecap: round;
+}
+.sg-tl-focus {
+  display: flex; align-items: center; gap: 10px;
+  padding: 4px 2px;
+}
+.sg-tl-focus-emoji { font-size: 1.5em; }
+.sg-tl-focus-col { flex: 1; min-width: 0; }
+.sg-tl-focus-name {
+  font-weight: 700; font-size: 1.08em;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.sg-tl-focus-sub { font-size: 0.8em; color: var(--text-muted); }
+.sg-tl-focus-btn {
+  flex: 0 0 40px; width: 40px; height: 40px; border-radius: 12px;
+  font-size: 1.1em; padding: 0; box-shadow: none;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+}
+.sg-tl-link-ref { border-color: color-mix(in srgb, var(--interactive-accent) 55%, transparent); }
+.sg-tlp-modal { width: min(540px, 96vw); }
+.sg-tlp-title { margin: 0 0 10px; }
+.sg-tlp-list {
+  max-height: min(58vh, 520px); overflow-y: auto; overscroll-behavior: contain;
+  display: flex; flex-direction: column; gap: 6px; margin-top: 8px;
+}
+.sg-tlp-count {
+  color: var(--text-faint); font-size: 0.82em; font-weight: 700;
+  padding: 1px 8px; border-radius: 9px;
+  background: var(--background-primary);
+}
 .sg-tl-node { cursor: pointer; }
 .sg-tl-dot { opacity: 0.92; }
 .sg-tl-node:hover .sg-tl-dot, .sg-tl-sel .sg-tl-dot { opacity: 1; }

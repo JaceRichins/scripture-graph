@@ -516,4 +516,68 @@ export class TimelineView extends ItemView {
   }
 
   async onClose(): Promise<void> { this.contentEl.empty(); }
+
+  /** exposed for the picker: every subject with its appearance count */
+  subjectsOf(kind: SubjectKind): { name: string; n: number }[] {
+    return this.subjectIndex(kind);
+  }
+}
+
+/** 🎯 pick a person, place, or thing — its whole timeline follows */
+export class SubjectPickerModal extends Modal {
+  private query = "";
+  private listEl: HTMLElement | null = null;
+
+  constructor(
+    s: SGState,
+    private view: TimelineView,
+    private onPick: (subject: Subject) => void,
+  ) {
+    super(s.app);
+  }
+
+  onOpen(): void {
+    registerSheet(this);
+    this.modalEl.addClass("sg-tlp-modal");
+    const c = this.contentEl;
+    c.addClass("sg-tlp");
+    c.createEl("h3", { cls: "sg-tlp-title", text: "🎯 Focus the timeline on…" });
+    const search = c.createEl("input", {
+      cls: "sg-nav-filter",
+      attr: { type: "search", placeholder: "Type a name — Nephi, Jerusalem, Gold Plates…" },
+    });
+    search.oninput = () => { this.query = search.value; this.renderList(); };
+    this.listEl = c.createDiv({ cls: "sg-tlp-list" });
+    this.renderList();
+    window.setTimeout(() => search.focus(), 80);
+  }
+
+  private renderList(): void {
+    const list = this.listEl;
+    if (!list) return;
+    list.empty();
+    const q = this.query.trim().toLowerCase();
+    for (const kind of ["things", "people", "places"] as SubjectKind[]) {
+      const subjects = this.view.subjectsOf(kind)
+        .filter(s => !q || s.name.toLowerCase().includes(q))
+        .slice(0, q ? 12 : 8);
+      if (!subjects.length) continue;
+      list.createDiv({ cls: "sg-nav-sect", text: `${SUBJECT_META[kind].emoji} ${SUBJECT_META[kind].label}` });
+      for (const s of subjects) {
+        const row = list.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[kind].emoji });
+        row.createSpan({ cls: "sg-nav-name", text: s.name });
+        row.createSpan({ cls: "sg-tlp-count", text: `${s.n}` });
+        row.onclick = () => { this.close(); this.onPick({ kind, name: s.name }); };
+      }
+    }
+    if (!list.childElementCount) {
+      list.createDiv({ cls: "sg-nav-empty", text: "No one and nothing by that name yet." });
+    }
+  }
+
+  onClose(): void {
+    unregisterSheet(this);
+    this.contentEl.empty();
+  }
 }

@@ -6018,9 +6018,34 @@ var init_src = __esm({
   }
 });
 
+// src/study/sheetRegistry.ts
+function registerSheet(m) {
+  open.add(m);
+}
+function unregisterSheet(m) {
+  open.delete(m);
+}
+function closeAllSheets() {
+  for (const m of Array.from(open)) {
+    open.delete(m);
+    try {
+      m.close();
+    } catch {
+    }
+  }
+}
+var open;
+var init_sheetRegistry = __esm({
+  "src/study/sheetRegistry.ts"() {
+    "use strict";
+    open = /* @__PURE__ */ new Set();
+  }
+});
+
 // src/study/timelineView.ts
 var timelineView_exports = {};
 __export(timelineView_exports, {
+  SubjectPickerModal: () => SubjectPickerModal,
   TIMELINE_VIEW: () => TIMELINE_VIEW,
   TimelineView: () => TimelineView,
   loadTimelineData: () => loadTimelineData
@@ -6040,12 +6065,18 @@ async function loadTimelineData(app) {
     return null;
   }
 }
-var import_obsidian6, TIMELINE_VIEW, DATA_PATH, ERAS, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_X, W, TimelineView;
+var import_obsidian6, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_X, W, TimelineView, SubjectPickerModal;
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
     import_obsidian6 = require("obsidian");
+    init_sheetRegistry();
     TIMELINE_VIEW = "sg-timeline";
+    SUBJECT_META = {
+      people: { emoji: "\u{1F9D1}", label: "People" },
+      places: { emoji: "\u{1F5FA}", label: "Places" },
+      things: { emoji: "\u{1F4E6}", label: "Things" }
+    };
     DATA_PATH = "AI Library/90 Timeline/_data.md";
     ERAS = [
       { label: "Beginnings", y: -4e3 },
@@ -6103,8 +6134,14 @@ var init_timelineView = __esm({
       detail = false;
       // false = major+notable only
       query = "";
+      focus = null;
       pendingYear = null;
       streamEl = null;
+      /** enter/leave focus mode: the constellation becomes ONE subject's thread */
+      setFocus(subject) {
+        this.focus = subject;
+        this.render();
+      }
       getViewType() {
         return TIMELINE_VIEW;
       }
@@ -6139,6 +6176,10 @@ var init_timelineView = __esm({
       }
       visible() {
         if (!this.data) return [];
+        if (this.focus) {
+          const { kind, name } = this.focus;
+          return this.data.events.filter((e) => (e[kind] ?? []).includes(name)).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+        }
         const q = this.query.toLowerCase();
         return this.data.events.filter((e) => {
           if (!this.lanes.has(e.lane)) return false;
@@ -6150,12 +6191,23 @@ var init_timelineView = __esm({
               e.note,
               ...e.people ?? [],
               ...e.places ?? [],
+              ...e.things ?? [],
               ...e.chapters ?? []
             ].join(" ").toLowerCase();
             if (!hay.includes(q)) return false;
           }
           return true;
         }).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+      }
+      /** every subject the dataset knows, with how often it appears */
+      subjectIndex(kind) {
+        const counts = /* @__PURE__ */ new Map();
+        for (const e of this.data?.events ?? []) {
+          for (const name of e[kind] ?? []) {
+            counts.set(name, (counts.get(name) ?? 0) + 1);
+          }
+        }
+        return Array.from(counts.entries()).map(([name, n]) => ({ name, n })).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
       }
       render() {
         const c = this.contentEl;
@@ -6167,6 +6219,38 @@ var init_timelineView = __esm({
           });
           const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "\u21BB Check now" });
           retry.onclick = () => void this.reload();
+          return;
+        }
+        if (this.focus) {
+          const meta = SUBJECT_META[this.focus.kind];
+          const events = this.visible();
+          const bar2 = c.createDiv({ cls: "sg-tl-bar" });
+          const banner2 = bar2.createDiv({ cls: "sg-tl-focus" });
+          banner2.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
+          const col = banner2.createDiv({ cls: "sg-tl-focus-col" });
+          col.createDiv({ cls: "sg-tl-focus-name", text: this.focus.name });
+          col.createDiv({
+            cls: "sg-tl-focus-sub",
+            text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`
+          });
+          if (this.focus.kind !== "things") {
+            const page = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u2197" });
+            page.setAttr("aria-label", "Open page");
+            const name = this.focus.name;
+            page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+          }
+          const swap = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u{1F3AF}" });
+          swap.setAttr("aria-label", "Focus something else");
+          swap.onclick = () => new SubjectPickerModal(
+            this.s,
+            this,
+            (sub) => this.setFocus(sub)
+          ).open();
+          const exit = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u2715" });
+          exit.setAttr("aria-label", "Back to everything");
+          exit.onclick = () => this.setFocus(null);
+          this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+          this.renderStream();
           return;
         }
         const bar = c.createDiv({ cls: "sg-tl-bar" });
@@ -6199,6 +6283,13 @@ var init_timelineView = __esm({
           this.detail = !this.detail;
           this.render();
         };
+        const focusBtn = row2.createEl("button", { cls: "sg-tl-chip", text: "\u{1F3AF} Focus\u2026" });
+        focusBtn.toggleClass("sg-tl-on", true);
+        focusBtn.onclick = () => new SubjectPickerModal(
+          this.s,
+          this,
+          (sub) => this.setFocus(sub)
+        ).open();
         const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
         for (const cat of CATS) {
           const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
@@ -6304,41 +6395,56 @@ var init_timelineView = __esm({
             void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
           };
         }
-        for (const lane of ["ow", "nw", "rs"]) {
-          const chain = events.filter((e) => e.lane === lane);
-          if (chain.length < 2) continue;
+        if (this.focus) {
           let d = "";
-          for (let i = 0; i < chain.length; i++) {
-            const p = pos.get(chain[i].id);
+          for (let i = 0; i < events.length; i++) {
+            const p = pos.get(events[i].id);
             if (i === 0) {
               d = `M ${p.x} ${p.y}`;
               continue;
             }
-            const prev = pos.get(chain[i - 1].id);
+            const prev = pos.get(events[i - 1].id);
             const midY = (prev.y + p.y) / 2;
             d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
           }
-          el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
-        }
-        const visibleIds = new Set(events.map((e) => e.id));
-        for (const [a, b] of NARRATIVE_LINKS) {
-          if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
-          const pa = pos.get(a), pb = pos.get(b);
-          const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
-          el("path", {
-            d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-            class: "sg-tl-arc"
-          });
-        }
-        const q = this.query.trim().toLowerCase();
-        if (q.length >= 3) {
-          const hits = events.filter((e) => (e.people ?? []).some((p) => p.toLowerCase().includes(q)));
-          for (let i = 1; i < hits.length; i++) {
-            const pa = pos.get(hits[i - 1].id), pb = pos.get(hits[i].id);
+          if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
+        } else {
+          for (const lane of ["ow", "nw", "rs"]) {
+            const chain = events.filter((e) => e.lane === lane);
+            if (chain.length < 2) continue;
+            let d = "";
+            for (let i = 0; i < chain.length; i++) {
+              const p = pos.get(chain[i].id);
+              if (i === 0) {
+                d = `M ${p.x} ${p.y}`;
+                continue;
+              }
+              const prev = pos.get(chain[i - 1].id);
+              const midY = (prev.y + p.y) / 2;
+              d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
+            }
+            el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
+          }
+          const visibleIds = new Set(events.map((e) => e.id));
+          for (const [a, b] of NARRATIVE_LINKS) {
+            if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
+            const pa = pos.get(a), pb = pos.get(b);
+            const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
             el("path", {
-              d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-              class: "sg-tl-spot"
+              d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+              class: "sg-tl-arc"
             });
+          }
+          const q = this.query.trim().toLowerCase();
+          if (q.length >= 3) {
+            const hits = events.filter((e) => (e.people ?? []).some((p) => p.toLowerCase().includes(q)));
+            for (let i = 1; i < hits.length; i++) {
+              const pa = pos.get(hits[i - 1].id), pb = pos.get(hits[i].id);
+              el("path", {
+                d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+                class: "sg-tl-spot"
+              });
+            }
           }
         }
         for (const e of events) {
@@ -6396,13 +6502,20 @@ var init_timelineView = __esm({
         card.createDiv({ cls: "sg-tl-detail-title", text: e.t });
         card.createDiv({ cls: "sg-tl-detail-note", text: e.note });
         const links = card.createDiv({ cls: "sg-tl-links" });
-        const link = (label, target) => {
-          const b = links.createEl("button", { cls: "sg-tl-link", text: label });
-          b.onclick = () => void this.s.app.workspace.openLinkText(target, "");
+        const focusChip = (kind, name) => {
+          const b = links.createEl("button", {
+            cls: "sg-tl-link",
+            text: `${SUBJECT_META[kind].emoji} ${name}`
+          });
+          b.onclick = () => this.setFocus({ kind, name });
         };
-        for (const p of (e.people ?? []).slice(0, 3)) link(`\u{1F9D1} ${p}`, p);
-        for (const p of (e.places ?? []).slice(0, 2)) link(`\u{1F5FA} ${p}`, p);
-        for (const ch of (e.chapters ?? []).slice(0, 3)) link(`\u{1F4D6} ${ch}`, ch);
+        for (const p of (e.people ?? []).slice(0, 3)) focusChip("people", p);
+        for (const p of (e.places ?? []).slice(0, 2)) focusChip("places", p);
+        for (const th of (e.things ?? []).slice(0, 3)) focusChip("things", th);
+        for (const ch of (e.chapters ?? []).slice(0, 3)) {
+          const b = links.createEl("button", { cls: "sg-tl-link sg-tl-link-ref", text: `\u{1F4D6} ${ch}` });
+          b.onclick = () => void this.s.app.workspace.openLinkText(ch, "");
+        }
       }
       scrollToYear(y) {
         const stream = this.streamEl;
@@ -6413,6 +6526,65 @@ var init_timelineView = __esm({
         stream.scrollTo({ top: Math.max(0, hit[1] * scale - 70), behavior: "smooth" });
       }
       async onClose() {
+        this.contentEl.empty();
+      }
+      /** exposed for the picker: every subject with its appearance count */
+      subjectsOf(kind) {
+        return this.subjectIndex(kind);
+      }
+    };
+    SubjectPickerModal = class extends import_obsidian6.Modal {
+      constructor(s, view, onPick) {
+        super(s.app);
+        this.view = view;
+        this.onPick = onPick;
+      }
+      query = "";
+      listEl = null;
+      onOpen() {
+        registerSheet(this);
+        this.modalEl.addClass("sg-tlp-modal");
+        const c = this.contentEl;
+        c.addClass("sg-tlp");
+        c.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F3AF} Focus the timeline on\u2026" });
+        const search = c.createEl("input", {
+          cls: "sg-nav-filter",
+          attr: { type: "search", placeholder: "Type a name \u2014 Nephi, Jerusalem, Gold Plates\u2026" }
+        });
+        search.oninput = () => {
+          this.query = search.value;
+          this.renderList();
+        };
+        this.listEl = c.createDiv({ cls: "sg-tlp-list" });
+        this.renderList();
+        window.setTimeout(() => search.focus(), 80);
+      }
+      renderList() {
+        const list = this.listEl;
+        if (!list) return;
+        list.empty();
+        const q = this.query.trim().toLowerCase();
+        for (const kind of ["things", "people", "places"]) {
+          const subjects = this.view.subjectsOf(kind).filter((s) => !q || s.name.toLowerCase().includes(q)).slice(0, q ? 12 : 8);
+          if (!subjects.length) continue;
+          list.createDiv({ cls: "sg-nav-sect", text: `${SUBJECT_META[kind].emoji} ${SUBJECT_META[kind].label}` });
+          for (const s of subjects) {
+            const row = list.createDiv({ cls: "sg-nav-row" });
+            row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[kind].emoji });
+            row.createSpan({ cls: "sg-nav-name", text: s.name });
+            row.createSpan({ cls: "sg-tlp-count", text: `${s.n}` });
+            row.onclick = () => {
+              this.close();
+              this.onPick({ kind, name: s.name });
+            };
+          }
+        }
+        if (!list.childElementCount) {
+          list.createDiv({ cls: "sg-nav-empty", text: "No one and nothing by that name yet." });
+        }
+      }
+      onClose() {
+        unregisterSheet(this);
         this.contentEl.empty();
       }
     };
@@ -8326,26 +8498,7 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
 
 // src/study/libraryPreview.ts
 var import_obsidian3 = require("obsidian");
-
-// src/study/sheetRegistry.ts
-var open = /* @__PURE__ */ new Set();
-function registerSheet(m) {
-  open.add(m);
-}
-function unregisterSheet(m) {
-  open.delete(m);
-}
-function closeAllSheets() {
-  for (const m of Array.from(open)) {
-    open.delete(m);
-    try {
-      m.close();
-    } catch {
-    }
-  }
-}
-
-// src/study/libraryPreview.ts
+init_sheetRegistry();
 var NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
 function sheetTargetFor(app, linktext, sourcePath) {
   if (!linktext) return null;
@@ -8444,6 +8597,7 @@ var LibraryPreviewModal = class extends import_obsidian3.Modal {
 // src/study/versePeek.ts
 var import_obsidian4 = require("obsidian");
 init_src();
+init_sheetRegistry();
 function peekTargetFor(app, linktext, sourcePath) {
   if (!linktext.includes("#^")) return null;
   const [base, anchor] = linktext.split("#^");
@@ -8515,6 +8669,9 @@ var VersePeekModal = class extends import_obsidian4.Modal {
     this.contentEl.empty();
   }
 };
+
+// src/main.ts
+init_sheetRegistry();
 
 // src/study/swipeNav.ts
 var import_obsidian5 = require("obsidian");
@@ -8596,6 +8753,7 @@ init_presence();
 // src/social/connections.ts
 var import_obsidian8 = require("obsidian");
 init_src();
+init_sheetRegistry();
 var EXCLUDED_PREFIXES = [
   "AI Library/00 System/",
   "AI Library/01 Scriptures/Annotated/",

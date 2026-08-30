@@ -131,6 +131,11 @@ import { TFile as ShimTFile } from "obsidian";
       { id: "resurrection", t: "The Resurrection", y0: 30, y1: 30, lane: "ow", imp: 1, cat: ["turning"], dating: "traditional", people: ["Jesus Christ"], places: ["Jerusalem"], chapters: ["John 20"], note: "the first fruits of them that slept" },
       { id: "christ-bountiful", t: "The risen Christ visits Bountiful", y0: 34, y1: 34, lane: "nw", imp: 1, cat: ["visions", "turning"], dating: "internal", people: ["Jesus Christ"], chapters: ["3 Nephi 11"], note: "one by one they feel the prints" },
       { id: "first-vision", t: "The First Vision", y0: 1820, y1: 1820, lane: "rs", imp: 1, cat: ["visions", "turning"], dating: "historical", people: ["Joseph Smith Jr"], places: ["Sacred Grove"], chapters: ["Joseph Smith—History 1"], note: "a spring-morning prayer opens the dispensation" },
+      { id: "small-plates-made", t: "Nephi makes the small plates", y0: -570, y1: -570, lane: "nw", imp: 2, cat: ["records"], dating: "internal", people: ["Nephi"], things: ["Gold Plates", "Small Plates of Nephi"], chapters: ["1 Nephi 9"], note: "for a wise purpose he did not yet know" },
+      { id: "mormon-abridges", t: "Mormon abridges a thousand years onto gold plates", y0: 380, y1: 384, lane: "nw", imp: 1, cat: ["records"], dating: "internal", people: ["Mormon"], things: ["Gold Plates"], chapters: ["Words of Mormon 1"], note: "the wise purpose revealed" },
+      { id: "cumorah", t: "The last battle at Cumorah", y0: 385, y1: 385, lane: "nw", imp: 1, cat: ["wars"], dating: "internal", people: ["Mormon", "Moroni (son of Mormon)"], things: ["Gold Plates"], chapters: ["Mormon 6"], note: "a record is buried to speak later" },
+      { id: "plates-received", t: "Joseph receives the plates", y0: 1827, y1: 1827, lane: "rs", imp: 2, cat: ["records"], dating: "historical", people: ["Joseph Smith Jr"], places: ["Cumorah"], things: ["Gold Plates"], chapters: ["Joseph Smith—History 1"], note: "four years of schooling first" },
+      { id: "bom-published", t: "The Book of Mormon published", y0: 1830, y1: 1830, lane: "rs", imp: 1, cat: ["records", "turning"], dating: "historical", people: ["Joseph Smith Jr"], things: ["Gold Plates"], chapters: ["D&C 20"], note: "the record speaks from the dust" },
     ],
   };
   const dataFile = Object.assign(new ShimTFile(), { path: "AI Library/90 Timeline/_data.md", basename: "_data" });
@@ -144,6 +149,7 @@ import { TFile as ShimTFile } from "obsidian";
     },
   } as never;
   const view = new TimelineView({} as never, fakeState);
+  (window as unknown as { sgTlView: unknown }).sgTlView = view;
   void view.onOpen().then(() => {
     view.contentEl.style.cssText =
       "position:fixed;inset:0;z-index:60;background:#141318;overflow:hidden;";
