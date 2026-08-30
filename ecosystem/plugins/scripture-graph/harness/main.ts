@@ -155,10 +155,13 @@ import { ConnectionsModal } from "../src/social/connections";
     app: { vault: { getAbstractFileByPath: () => null } },
   } as never;
   ConnectionsModal.forVerse(fakeState, "1ne-1-4", [
-    { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction — evidence dossier", emoji: "🔎", rank: 1 },
-    { path: "AI Library/01 Scriptures/Cross References/x.md", name: "1 Nephi 1 - Cross References", emoji: "📖", rank: 2 },
-    { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "🏷️", rank: 2 },
     { path: "Library/mine.md", name: "My mission notes", emoji: "✍️", rank: 0 },
+    { path: "AI Library/01 Scriptures/Cross References/x.md", name: "2 Kings 24:14", emoji: "📖", rank: 1,
+      link: "2 Kings 24#^2kgs-24-14", note: "textual parallel — tap to read" },
+    { path: "AI Library/01 Scriptures/Cross References/x.md", name: "Jeremiah 52:3", emoji: "📖", rank: 1,
+      link: "Jeremiah 52#^jer-52-3", note: "textual parallel — tap to read" },
+    { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction — evidence dossier", emoji: "🔎", rank: 1 },
+    { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "🏷️", rank: 2 },
   ], () => log("nav → graph")).open();
 };
 

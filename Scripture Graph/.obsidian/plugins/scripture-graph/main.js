@@ -8067,8 +8067,41 @@ function connectionsFor(app, chapterPath, slug) {
     if (!(f instanceof import_obsidian5.TFile)) continue;
     if (f.basename === `${chapterBase} - My Notes`) continue;
     const fc = app.metadataCache.getFileCache(f);
+    const links = [...fc?.links ?? [], ...fc?.embeds ?? []];
+    if (src.startsWith("AI Library/01 Scriptures/Cross References/")) {
+      const byLine = /* @__PURE__ */ new Map();
+      for (const l of links) {
+        const line = l.position?.start?.line ?? -1;
+        const arr = byLine.get(line) ?? [];
+        arr.push(l);
+        byLine.set(line, arr);
+      }
+      for (const l of links) {
+        const m = anchorRe.exec(l.link.trim());
+        if (!m) continue;
+        const verseId = m[1];
+        const mates = byLine.get(l.position?.start?.line ?? -1) ?? [];
+        for (const other of mates) {
+          const om = /#\^([a-z0-9]+(?:-\d+)+)$/.exec(other.link.trim());
+          if (!om || om[1] === verseId) continue;
+          const label = other.displayText?.trim() || verseDisplay(om[1]) || other.link;
+          const list = byVerse.get(verseId) ?? [];
+          if (list.some((c) => c.link === other.link)) continue;
+          list.push({
+            path: src,
+            name: label,
+            emoji: "\u{1F4D6}",
+            rank: 1,
+            link: other.link,
+            note: "textual parallel \u2014 tap to read"
+          });
+          byVerse.set(verseId, list);
+        }
+      }
+      continue;
+    }
     const seen = /* @__PURE__ */ new Set();
-    for (const l of [...fc?.links ?? [], ...fc?.embeds ?? []]) {
+    for (const l of links) {
       const m = anchorRe.exec(l.link.trim());
       if (!m) continue;
       const verseId = m[1];
@@ -8146,14 +8179,18 @@ var ConnectionsModal = class _ConnectionsModal extends import_obsidian5.Modal {
       const head = row.createDiv({ cls: "sg-conn-row-head" });
       head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
       head.createSpan({ cls: "sg-conn-name", text: conn.name });
-      const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
-      void snippetFor(this.s.app, conn, this.needle).then((t) => {
-        if (t) snip.setText(t);
-        else snip.remove();
-      });
+      if (conn.note) {
+        row.createDiv({ cls: "sg-conn-snippet", text: conn.note });
+      } else {
+        const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
+        void snippetFor(this.s.app, conn, this.needle).then((t) => {
+          if (t) snip.setText(t);
+          else snip.remove();
+        });
+      }
       row.onclick = () => {
         this.close();
-        void this.s.app.workspace.openLinkText(conn.path, "");
+        void this.s.app.workspace.openLinkText(conn.link ?? conn.path, "");
       };
     }
     if (this.conns.length > 14) {

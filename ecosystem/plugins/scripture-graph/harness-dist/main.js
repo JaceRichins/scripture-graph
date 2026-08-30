@@ -7685,14 +7685,18 @@ ${body}
         const head = row.createDiv({ cls: "sg-conn-row-head" });
         head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
         head.createSpan({ cls: "sg-conn-name", text: conn.name });
-        const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
-        void snippetFor(this.s.app, conn, this.needle).then((t) => {
-          if (t) snip.setText(t);
-          else snip.remove();
-        });
+        if (conn.note) {
+          row.createDiv({ cls: "sg-conn-snippet", text: conn.note });
+        } else {
+          const snip = row.createDiv({ cls: "sg-conn-snippet", text: "\u2026" });
+          void snippetFor(this.s.app, conn, this.needle).then((t) => {
+            if (t) snip.setText(t);
+            else snip.remove();
+          });
+        }
         row.onclick = () => {
           this.close();
-          void this.s.app.workspace.openLinkText(conn.path, "");
+          void this.s.app.workspace.openLinkText(conn.link ?? conn.path, "");
         };
       }
       if (this.conns.length > 14) {
@@ -8087,10 +8091,25 @@ ${body}
       app: { vault: { getAbstractFileByPath: () => null } }
     };
     ConnectionsModal.forVerse(fakeState, "1ne-1-4", [
+      { path: "Library/mine.md", name: "My mission notes", emoji: "\u270D\uFE0F", rank: 0 },
+      {
+        path: "AI Library/01 Scriptures/Cross References/x.md",
+        name: "2 Kings 24:14",
+        emoji: "\u{1F4D6}",
+        rank: 1,
+        link: "2 Kings 24#^2kgs-24-14",
+        note: "textual parallel \u2014 tap to read"
+      },
+      {
+        path: "AI Library/01 Scriptures/Cross References/x.md",
+        name: "Jeremiah 52:3",
+        emoji: "\u{1F4D6}",
+        rank: 1,
+        link: "Jeremiah 52#^jer-52-3",
+        note: "textual parallel \u2014 tap to read"
+      },
       { path: "AI Library/40 Evidence/E1.md", name: "Jerusalem's destruction \u2014 evidence dossier", emoji: "\u{1F50E}", rank: 1 },
-      { path: "AI Library/01 Scriptures/Cross References/x.md", name: "1 Nephi 1 - Cross References", emoji: "\u{1F4D6}", rank: 2 },
-      { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "\u{1F3F7}\uFE0F", rank: 2 },
-      { path: "Library/mine.md", name: "My mission notes", emoji: "\u270D\uFE0F", rank: 0 }
+      { path: "AI Library/02 Gospel Topics/P.md", name: "Prophets", emoji: "\u{1F3F7}\uFE0F", rank: 2 }
     ], () => log("nav \u2192 graph")).open();
   };
   window.sgNav = (last = { slug: "dc-120", title: "D&C 120" }) => new SGNavigatorModal({}, {

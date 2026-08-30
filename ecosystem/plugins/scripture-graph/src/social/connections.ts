@@ -17,6 +17,11 @@ export interface VerseConnection {
   name: string;
   emoji: string;
   rank: number;
+  /** when set, tapping the row jumps straight to this link (a verse) instead
+   * of opening the citing page — cross-references resolve to scripture */
+  link?: string;
+  /** static sub-line shown instead of an async snippet */
+  note?: string;
 }
 
 const EXCLUDED_PREFIXES = [
@@ -80,8 +85,41 @@ export function connectionsFor(app: App, chapterPath: string, slug: string): Cha
     if (!(f instanceof TFile)) continue;
     if (f.basename === `${chapterBase} - My Notes`) continue; // the page you're on
     const fc = app.metadataCache.getFileCache(f);
+    const links = [...(fc?.links ?? []), ...(fc?.embeds ?? [])];
+    // Cross References pages are engine plumbing — never show them as a
+    // destination. Each line pairs OUR verse with its PARTNER verse, so we
+    // resolve to the partner directly: tapping opens the referenced verse.
+    if (src.startsWith("AI Library/01 Scriptures/Cross References/")) {
+      const byLine = new Map<number, typeof links>();
+      for (const l of links) {
+        const line = l.position?.start?.line ?? -1;
+        const arr = byLine.get(line) ?? [];
+        arr.push(l);
+        byLine.set(line, arr);
+      }
+      for (const l of links) {
+        const m = anchorRe.exec(l.link.trim());
+        if (!m) continue;
+        const verseId = m[1]!;
+        const mates = byLine.get(l.position?.start?.line ?? -1) ?? [];
+        for (const other of mates) {
+          const om = /#\^([a-z0-9]+(?:-\d+)+)$/.exec(other.link.trim());
+          if (!om || om[1] === verseId) continue;
+          const label = other.displayText?.trim()
+            || verseDisplay(om[1]!) || other.link;
+          const list = byVerse.get(verseId) ?? [];
+          if (list.some(c => c.link === other.link)) continue;
+          list.push({
+            path: src, name: label, emoji: "📖", rank: 1,
+            link: other.link, note: "textual parallel — tap to read",
+          });
+          byVerse.set(verseId, list);
+        }
+      }
+      continue;   // no page row, no chapter row — the verses ARE the reference
+    }
     const seen = new Set<string>();
-    for (const l of [...(fc?.links ?? []), ...(fc?.embeds ?? [])]) {
+    for (const l of links) {
       const m = anchorRe.exec(l.link.trim());
       if (!m) continue;
       const verseId = m[1]!;
@@ -164,16 +202,20 @@ export class ConnectionsModal extends Modal {
       const head = row.createDiv({ cls: "sg-conn-row-head" });
       head.createSpan({ cls: "sg-conn-emoji", text: conn.emoji });
       head.createSpan({ cls: "sg-conn-name", text: conn.name });
-      const snip = row.createDiv({ cls: "sg-conn-snippet", text: "…" });
-      void snippetFor(this.s.app, conn, this.needle).then(t => {
-        if (t) snip.setText(t);
-        else snip.remove();
-      });
+      if (conn.note) {
+        row.createDiv({ cls: "sg-conn-snippet", text: conn.note });
+      } else {
+        const snip = row.createDiv({ cls: "sg-conn-snippet", text: "…" });
+        void snippetFor(this.s.app, conn, this.needle).then(t => {
+          if (t) snip.setText(t);
+          else snip.remove();
+        });
+      }
       row.onclick = () => {
         this.close();
-        // through the wrapper on purpose: AI pages float as a sheet,
-        // personal pages navigate — one rule everywhere
-        void this.s.app.workspace.openLinkText(conn.path, "");
+        // through the wrapper on purpose: AI pages float as a sheet, verses
+        // and personal pages navigate — one rule everywhere
+        void this.s.app.workspace.openLinkText(conn.link ?? conn.path, "");
       };
     }
     if (this.conns.length > 14) {
