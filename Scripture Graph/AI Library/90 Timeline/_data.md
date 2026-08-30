@@ -3215,6 +3215,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-88-33b66a50",
+   "t": "D&C 88 ('Olive Leaf') received at Kirtland, Ohio",
+   "y0": 1832,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Per the section heading, verses 1-126 were received December 27-28, 1832, and verses 127-141 were added January 3, 1833, both at Kirtland, Ohio, during meetings connected to the School of the Prophets.",
+   "chapters": [
+    "D&C 88"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Kirtland, Ohio"
+   ],
+   "things": [
+    "School of the Prophets"
+   ]
+  },
+  {
    "id": "r-jer-32-36341caf",
    "t": "Jeremiah's imprisonment and purchase of the field of Anathoth",
    "y0": -588,
