@@ -7676,6 +7676,21 @@ var SGState = class {
 // src/study/navigator.ts
 var import_obsidian2 = require("obsidian");
 init_src();
+var LIBRARY_SECTIONS = [
+  { emoji: "\u{1F3A4}", name: "General Conference", path: "AI Library/10 General Conference" },
+  { emoji: "\u{1F4D4}", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
+  { emoji: "\u{1F3F7}\uFE0F", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
+  { emoji: "\u{1F9D1}", name: "People", path: "AI Library/03 People" },
+  { emoji: "\u{1F5FA}\uFE0F", name: "Places", path: "AI Library/04 Places" },
+  { emoji: "\u{1F4C5}", name: "Events", path: "AI Library/05 Events" },
+  { emoji: "\u{1F4DC}", name: "Doctrines", path: "AI Library/06 Doctrines" },
+  { emoji: "\u{1F4C4}", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
+  { emoji: "\u{1F3DB}\uFE0F", name: "Church History", path: "AI Library/30 Church History" },
+  { emoji: "\u{1F50E}", name: "Evidence", path: "AI Library/40 Evidence" },
+  { emoji: "\u2753", name: "Questions", path: "AI Library/50 Questions" },
+  { emoji: "\u{1F393}", name: "Scholarship", path: "AI Library/60 Scholarship" },
+  { emoji: "\u{1F399}\uFE0F", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" }
+];
 function titleForChapterSlug(slug) {
   const m = /^(.+)-(\d+)$/.exec(slug);
   if (!m) return null;
@@ -7699,11 +7714,29 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
     }
   }
   view = { kind: "home" };
+  trail = [];
   onOpen() {
     this.render();
   }
   onClose() {
     this.contentEl.empty();
+  }
+  /** drill somewhere, remembering where we came from */
+  go(v) {
+    this.trail.push(this.view);
+    this.view = v;
+    this.render();
+  }
+  back() {
+    const prev = this.trail.pop();
+    if (prev) {
+      this.view = prev;
+      this.render();
+      return;
+    }
+    const v = this.view;
+    this.view = v.kind === "chapters" ? { kind: "books", volume: v.book.volume } : v.kind === "folder" ? { kind: "library" } : { kind: "home" };
+    this.render();
   }
   render() {
     const c = this.contentEl;
@@ -7715,26 +7748,26 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
     if (v.kind !== "home") {
       const back = head.createEl("button", { cls: "sg-nav-btn sg-nav-back", text: "\u2039" });
       back.setAttr("aria-label", "Back");
-      back.onclick = () => {
-        this.view = v.kind === "chapters" ? { kind: "books", volume: v.book.volume } : { kind: "home" };
-        this.render();
-      };
+      back.onclick = () => this.back();
     }
     head.createSpan({
       cls: "sg-nav-title",
-      text: v.kind === "home" ? "\u{1F4D6} Scriptures" : v.kind === "books" ? v.volume : v.book.name
+      text: v.kind === "home" ? "\u{1F4D6} Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "library" ? "\u{1F4DA} Library" : v.title
     });
     if (v.kind !== "home") {
       const home = head.createEl("button", { cls: "sg-nav-btn sg-nav-homebtn", text: "\u2302" });
-      home.setAttr("aria-label", "All volumes");
+      home.setAttr("aria-label", "Home");
       home.onclick = () => {
+        this.trail = [];
         this.view = { kind: "home" };
         this.render();
       };
     }
     if (v.kind === "home") this.renderHome(c);
     else if (v.kind === "books") this.renderBooks(c, v.volume);
-    else this.renderChapters(c, v.book);
+    else if (v.kind === "chapters") this.renderChapters(c, v.book);
+    else if (v.kind === "library") this.renderLibrary(c);
+    else this.renderFolder(c, v.path);
   }
   renderHome(c) {
     const last = this.host.lastChapter();
@@ -7766,10 +7799,14 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
       row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
       row.onclick = () => {
         const books = BOOKS.filter((b) => b.volume === vol.name);
-        this.view = books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name };
-        this.render();
+        this.go(books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name });
       };
     }
+    const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });
+    lib.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4DA}" });
+    lib.createSpan({ cls: "sg-nav-name", text: "Library" });
+    lib.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+    lib.onclick = () => this.go({ kind: "library" });
     const hub = list.createDiv({ cls: "sg-nav-row sg-nav-hub" });
     hub.createSpan({ cls: "sg-nav-emoji", text: "\u{1F3E0}" });
     hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
@@ -7804,11 +7841,64 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
     const grid = c.createDiv({ cls: "sg-nav-books" });
     for (const b of BOOKS.filter((x) => x.volume === volume)) {
       const pill = grid.createEl("button", { cls: "sg-nav-book", text: b.name });
-      pill.onclick = () => {
-        this.view = { kind: "chapters", book: b };
-        this.render();
-      };
+      pill.onclick = () => this.go({ kind: "chapters", book: b });
     }
+  }
+  renderLibrary(c) {
+    const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+    for (const s of LIBRARY_SECTIONS) {
+      const l = this.host.listFolder(s.path);
+      if (!l.folders.length && !l.files.length) continue;
+      const row = list.createDiv({ cls: "sg-nav-row" });
+      row.createSpan({ cls: "sg-nav-emoji", text: s.emoji });
+      row.createSpan({ cls: "sg-nav-name", text: s.name });
+      row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+      row.onclick = () => this.go({ kind: "folder", path: s.path, title: s.name });
+    }
+  }
+  renderFolder(c, path) {
+    const listing = this.host.listFolder(path);
+    const yearish = listing.folders.length > 3 && listing.folders.every((f) => /^\d{4}$/.test(f.name));
+    const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    let filter = "";
+    const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+    const renderRows = () => {
+      list.empty();
+      const q = filter.toLowerCase();
+      for (const f of folders) {
+        if (q && !f.name.toLowerCase().includes(q)) continue;
+        const row = list.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4C1}" });
+        row.createSpan({ cls: "sg-nav-name", text: f.name });
+        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+        row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+      }
+      for (const fi of listing.files) {
+        if (q && !fi.name.toLowerCase().includes(q)) continue;
+        const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4C4}" });
+        row.createSpan({ cls: "sg-nav-name", text: fi.name });
+        row.onclick = () => {
+          this.close();
+          this.host.openPath(fi.path);
+        };
+      }
+      if (!list.childElementCount) {
+        list.createDiv({ cls: "sg-nav-empty", text: "Nothing here matches." });
+      }
+    };
+    if (folders.length + listing.files.length > 30) {
+      const inp = c.createEl("input", {
+        cls: "sg-nav-filter",
+        attr: { type: "search", placeholder: "Type to filter\u2026" }
+      });
+      inp.oninput = () => {
+        filter = inp.value;
+        renderRows();
+      };
+      c.insertBefore(inp, list);
+    }
+    renderRows();
   }
   renderChapters(c, book) {
     const cur = this.host.lastChapter();
@@ -10222,6 +10312,27 @@ var SGPlugin = class extends import_obsidian15.Plugin {
       groupActivity: async () => {
         if (!this.state.device.deviceToken) return [];
         return (await this.state.api.groupActivity()).activity;
+      },
+      listFolder: (path) => {
+        const af = this.app.vault.getAbstractFileByPath(path);
+        const folders = [];
+        const files = [];
+        if (af instanceof import_obsidian15.TFolder) {
+          for (const ch of af.children) {
+            if (ch instanceof import_obsidian15.TFolder) {
+              folders.push({ name: ch.name, path: ch.path });
+            } else if (ch instanceof import_obsidian15.TFile && ch.extension === "md" && !ch.basename.startsWith("_")) {
+              files.push({ name: ch.basename, path: ch.path });
+            }
+          }
+          folders.sort((a, b) => a.name.localeCompare(b.name));
+          files.sort((a, b) => a.name.localeCompare(b.name));
+        }
+        return { folders, files };
+      },
+      openPath: (path) => {
+        const f = this.app.vault.getAbstractFileByPath(path);
+        if (f instanceof import_obsidian15.TFile) void this.app.workspace.getLeaf().openFile(f);
       }
     }).open();
   }

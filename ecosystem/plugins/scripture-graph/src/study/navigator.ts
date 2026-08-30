@@ -14,13 +14,37 @@ export interface GroupActivityRow {
   others: number;
 }
 
+export interface FolderListing {
+  folders: { name: string; path: string }[];
+  files: { name: string; path: string }[];
+}
+
 export interface NavigatorHost {
   openChapter(title: string): void;
   openNote(linkText: string): void;
   lastChapter(): { slug: string; title: string } | null;
   recentChapters(): { slug: string; title: string }[];
   groupActivity(): Promise<GroupActivityRow[]>;
+  listFolder(path: string): FolderListing;
+  openPath(path: string): void;
 }
+
+/** the rest of the library — everything beyond the scriptures themselves */
+const LIBRARY_SECTIONS: { emoji: string; name: string; path: string }[] = [
+  { emoji: "🎤", name: "General Conference", path: "AI Library/10 General Conference" },
+  { emoji: "📔", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
+  { emoji: "🏷️", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
+  { emoji: "🧑", name: "People", path: "AI Library/03 People" },
+  { emoji: "🗺️", name: "Places", path: "AI Library/04 Places" },
+  { emoji: "📅", name: "Events", path: "AI Library/05 Events" },
+  { emoji: "📜", name: "Doctrines", path: "AI Library/06 Doctrines" },
+  { emoji: "📄", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
+  { emoji: "🏛️", name: "Church History", path: "AI Library/30 Church History" },
+  { emoji: "🔎", name: "Evidence", path: "AI Library/40 Evidence" },
+  { emoji: "❓", name: "Questions", path: "AI Library/50 Questions" },
+  { emoji: "🎓", name: "Scholarship", path: "AI Library/60 Scholarship" },
+  { emoji: "🎙️", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" },
+];
 
 /** "alma-36" → "Alma 36" (null for anything that isn't a chapter slug) */
 function titleForChapterSlug(slug: string): string | null {
@@ -40,10 +64,13 @@ const VOLUMES: { name: string; emoji: string }[] = [
 type NavView =
   | { kind: "home" }
   | { kind: "books"; volume: string }
-  | { kind: "chapters"; book: BookInfo };
+  | { kind: "chapters"; book: BookInfo }
+  | { kind: "library" }
+  | { kind: "folder"; path: string; title: string };
 
 export class SGNavigatorModal extends Modal {
   private view: NavView = { kind: "home" };
+  private trail: NavView[] = [];
 
   constructor(app: App, private host: NavigatorHost) {
     super(app);
@@ -58,6 +85,24 @@ export class SGNavigatorModal extends Modal {
   onOpen(): void { this.render(); }
   onClose(): void { this.contentEl.empty(); }
 
+  /** drill somewhere, remembering where we came from */
+  private go(v: NavView): void {
+    this.trail.push(this.view);
+    this.view = v;
+    this.render();
+  }
+
+  private back(): void {
+    const prev = this.trail.pop();
+    if (prev) { this.view = prev; this.render(); return; }
+    // no trail (opened resumed at chapters): fall back to the natural parent
+    const v = this.view;
+    this.view = v.kind === "chapters" ? { kind: "books", volume: v.book.volume }
+      : v.kind === "folder" ? { kind: "library" }
+        : { kind: "home" };
+    this.render();
+  }
+
   private render(): void {
     const c = this.contentEl;
     c.empty();
@@ -69,28 +114,27 @@ export class SGNavigatorModal extends Modal {
     if (v.kind !== "home") {
       const back = head.createEl("button", { cls: "sg-nav-btn sg-nav-back", text: "‹" });
       back.setAttr("aria-label", "Back");
-      back.onclick = () => {
-        this.view = v.kind === "chapters"
-          ? { kind: "books", volume: v.book.volume }
-          : { kind: "home" };
-        this.render();
-      };
+      back.onclick = () => this.back();
     }
     head.createSpan({
       cls: "sg-nav-title",
       text: v.kind === "home" ? "📖 Scriptures"
         : v.kind === "books" ? v.volume
-          : v.book.name,
+          : v.kind === "chapters" ? v.book.name
+            : v.kind === "library" ? "📚 Library"
+              : v.title,
     });
     if (v.kind !== "home") {
       const home = head.createEl("button", { cls: "sg-nav-btn sg-nav-homebtn", text: "⌂" });
-      home.setAttr("aria-label", "All volumes");
-      home.onclick = () => { this.view = { kind: "home" }; this.render(); };
+      home.setAttr("aria-label", "Home");
+      home.onclick = () => { this.trail = []; this.view = { kind: "home" }; this.render(); };
     }
 
     if (v.kind === "home") this.renderHome(c);
     else if (v.kind === "books") this.renderBooks(c, v.volume);
-    else this.renderChapters(c, v.book);
+    else if (v.kind === "chapters") this.renderChapters(c, v.book);
+    else if (v.kind === "library") this.renderLibrary(c);
+    else this.renderFolder(c, v.path);
   }
 
   private renderHome(c: HTMLElement): void {
@@ -119,12 +163,18 @@ export class SGNavigatorModal extends Modal {
       row.createSpan({ cls: "sg-nav-chev", text: "›" });
       row.onclick = () => {
         const books = BOOKS.filter(b => b.volume === vol.name);
-        this.view = books.length === 1
+        this.go(books.length === 1
           ? { kind: "chapters", book: books[0]! }
-          : { kind: "books", volume: vol.name };
-        this.render();
+          : { kind: "books", volume: vol.name });
       };
     }
+    // everything beyond the scriptures: conference talks, the dictionary,
+    // topics, people, evidence... one door, endless shelves
+    const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });
+    lib.createSpan({ cls: "sg-nav-emoji", text: "📚" });
+    lib.createSpan({ cls: "sg-nav-name", text: "Library" });
+    lib.createSpan({ cls: "sg-nav-chev", text: "›" });
+    lib.onclick = () => this.go({ kind: "library" });
     const hub = list.createDiv({ cls: "sg-nav-row sg-nav-hub" });
     hub.createSpan({ cls: "sg-nav-emoji", text: "🏠" });
     hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
@@ -156,8 +206,62 @@ export class SGNavigatorModal extends Modal {
     const grid = c.createDiv({ cls: "sg-nav-books" });
     for (const b of BOOKS.filter(x => x.volume === volume)) {
       const pill = grid.createEl("button", { cls: "sg-nav-book", text: b.name });
-      pill.onclick = () => { this.view = { kind: "chapters", book: b }; this.render(); };
+      pill.onclick = () => this.go({ kind: "chapters", book: b });
     }
+  }
+
+  private renderLibrary(c: HTMLElement): void {
+    const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+    for (const s of LIBRARY_SECTIONS) {
+      const l = this.host.listFolder(s.path);
+      if (!l.folders.length && !l.files.length) continue;  // empty shelves stay hidden
+      const row = list.createDiv({ cls: "sg-nav-row" });
+      row.createSpan({ cls: "sg-nav-emoji", text: s.emoji });
+      row.createSpan({ cls: "sg-nav-name", text: s.name });
+      row.createSpan({ cls: "sg-nav-chev", text: "›" });
+      row.onclick = () => this.go({ kind: "folder", path: s.path, title: s.name });
+    }
+  }
+
+  private renderFolder(c: HTMLElement, path: string): void {
+    const listing = this.host.listFolder(path);
+    // conference years read best newest-first
+    const yearish = listing.folders.length > 3
+      && listing.folders.every(f => /^\d{4}$/.test(f.name));
+    const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    let filter = "";
+    const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+    const renderRows = () => {
+      list.empty();
+      const q = filter.toLowerCase();
+      for (const f of folders) {
+        if (q && !f.name.toLowerCase().includes(q)) continue;
+        const row = list.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "📁" });
+        row.createSpan({ cls: "sg-nav-name", text: f.name });
+        row.createSpan({ cls: "sg-nav-chev", text: "›" });
+        row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+      }
+      for (const fi of listing.files) {
+        if (q && !fi.name.toLowerCase().includes(q)) continue;
+        const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "📄" });
+        row.createSpan({ cls: "sg-nav-name", text: fi.name });
+        row.onclick = () => { this.close(); this.host.openPath(fi.path); };
+      }
+      if (!list.childElementCount) {
+        list.createDiv({ cls: "sg-nav-empty", text: "Nothing here matches." });
+      }
+    };
+    if (folders.length + listing.files.length > 30) {
+      const inp = c.createEl("input", {
+        cls: "sg-nav-filter",
+        attr: { type: "search", placeholder: "Type to filter…" },
+      });
+      inp.oninput = () => { filter = inp.value; renderRows(); };
+      c.insertBefore(inp, list);
+    }
+    renderRows();
   }
 
   private renderChapters(c: HTMLElement, book: BookInfo): void {

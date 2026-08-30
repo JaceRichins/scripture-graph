@@ -4,7 +4,7 @@
  * (highlights/notes/groups), AI (Ask pane over the user's own wallet), STUDY
  * (reader, bookmarks, trails, flashcards). Shared state lives in SGState;
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
-import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, WorkspaceLeaf, requestUrl, type App } from "obsidian";
+import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder, WorkspaceLeaf, requestUrl, type App } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { SGNavigatorModal } from "./study/navigator";
@@ -434,6 +434,28 @@ export default class SGPlugin extends Plugin {
       groupActivity: async () => {
         if (!this.state.device.deviceToken) return [];
         return (await this.state.api.groupActivity()).activity;
+      },
+      listFolder: (path) => {
+        const af = this.app.vault.getAbstractFileByPath(path);
+        const folders: { name: string; path: string }[] = [];
+        const files: { name: string; path: string }[] = [];
+        if (af instanceof TFolder) {
+          for (const ch of af.children) {
+            if (ch instanceof TFolder) {
+              folders.push({ name: ch.name, path: ch.path });
+            } else if (ch instanceof TFile && ch.extension === "md"
+              && !ch.basename.startsWith("_")) {
+              files.push({ name: ch.basename, path: ch.path });
+            }
+          }
+          folders.sort((a, b) => a.name.localeCompare(b.name));
+          files.sort((a, b) => a.name.localeCompare(b.name));
+        }
+        return { folders, files };
+      },
+      openPath: (path) => {
+        const f = this.app.vault.getAbstractFileByPath(path);
+        if (f instanceof TFile) void this.app.workspace.getLeaf().openFile(f);
       },
     }).open();
   }

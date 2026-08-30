@@ -158,6 +158,25 @@ import { SGNavigatorModal } from "../src/study/navigator";
         { group_name: "Family", chapter_slug: "alma-36", count: 3, others: 2 },
         { group_name: "Ward class", chapter_slug: "1ne-1", count: 5, others: 5 },
       ],
+      listFolder: (path: string) => {
+        if (path.endsWith("General Conference")) {
+          return {
+            folders: ["2024", "2025", "2026"].map(y => ({ name: y, path: `${path}/${y}` })),
+            files: [{ name: "General Conference", path: `${path}/General Conference.md` }],
+          };
+        }
+        if (/\/20\d\d$/.test(path)) {
+          return { folders: [], files: [
+            { name: "President Nelson — Think Celestial (October)", path: `${path}/t1.md` },
+            { name: "Elder Holland — Lifted Up upon the Cross", path: `${path}/t2.md` },
+          ] };
+        }
+        if (path.endsWith("Bible Dictionary")) {
+          return { folders: [], files: "ABCDEFG".split("").map(l => ({ name: l, path: `${path}/${l}.md` })) };
+        }
+        return { folders: [], files: [{ name: "Sample page", path: `${path}/s.md` }] };
+      },
+      openPath: (p: string) => log(`nav → open ${p}`),
     }).open();
 
 void redecorate();

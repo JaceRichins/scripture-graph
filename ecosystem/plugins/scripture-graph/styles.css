@@ -948,6 +948,19 @@ body.sg-selecting .sg-back-pill { display: none; }
   gap: 8px; max-height: min(62vh, 560px); overflow-y: auto; padding-bottom: 6px;
   overscroll-behavior: contain;
 }
+.sg-nav-scroll {
+  max-height: min(64vh, 600px); overflow-y: auto; overscroll-behavior: contain;
+  padding-bottom: 6px;
+}
+.sg-nav-file .sg-nav-name { font-weight: 500; }
+.sg-nav-filter {
+  width: 100%; min-height: 40px; margin-bottom: 8px;
+  border-radius: 11px; padding: 0 12px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+  font-size: 0.95em;
+}
+.sg-nav-empty { color: var(--text-faint); text-align: center; padding: 18px 0; }
 .sg-nav-ch {
   height: 48px; border-radius: 11px;
   font-size: 1.05em; font-weight: 600; padding: 0;
