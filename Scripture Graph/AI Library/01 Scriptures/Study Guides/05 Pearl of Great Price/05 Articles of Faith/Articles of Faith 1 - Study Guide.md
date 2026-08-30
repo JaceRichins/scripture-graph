@@ -99,7 +99,17 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Explicit Scriptural Intertextuality *(tentative)*
+> The explicit attribution to Paul together with the distinctive verbal clusters provides strong evidence that Article 13 deliberately adapts Pauline language. The evidence is strongest for literary reuse and does not determine whether the two passages were joined directly by the author or through an intervening Christian formulation.
+> — strength 0.9 · confidence 1.0 · broadly accepted
+
+> [!evidence] Internal Textual Evidence *(tentative)*
+> The syntax of the third article is strong textual evidence against interpreting this creed as teaching salvation by obedience apart from Christ; it is also evidence that the article does not describe obedience as irrelevant. Because the statement is compressed, it cannot by itself settle every question about grace, works, degrees of salvation, or the fate of those without access to ordinances.
+> — strength 0.9 · confidence 1.0 · accepted observation / disputed interpretation
+
+> [!evidence] Canonical Thematic Parallel *(tentative)*
+> The overlap between Article 4 and Hebrews 6:1–2 is good evidence that the article frames Christian initiation through a recognizable biblical cluster. It is only weak evidence for any single explanation of textual dependence because the concepts were also common Christian teachings.
+> — strength 0.4 · confidence 1.0 · accepted observation / disputed interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
