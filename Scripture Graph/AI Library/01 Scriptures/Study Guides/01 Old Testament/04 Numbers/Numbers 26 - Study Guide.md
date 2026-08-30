@@ -23,7 +23,11 @@ Scripture: [[Numbers 26]] · My notes: [[Numbers 26 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Commission and setting (vv. 1–4):** After the plague, the Lord commands Moses and Eleazar to count military-age Israel.
+2. **Tribal census (vv. 5–51):** Families and tribal totals are listed, producing an aggregate of 601,730.
+3. **Inheritance instructions (vv. 52–56):** Relative population and division by lot both govern land allocation, though their precise administrative interaction is not explained.
+4. **Separate Levitical census (vv. 57–62):** Levite males are counted from one month old and receive no inheritance among the other Israelites.
+5. **Comparison with Sinai (vv. 63–65):** None of the men in the earlier census remains except Caleb and Joshua.
 <!-- SG:END structure -->
 
 ## People
@@ -58,7 +62,6 @@ _Not yet developed._
 - [[Genesis 42]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
 - [[Joshua 13]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
 - [[Numbers 2]] — 12 parallel verses, e.g. [[Numbers 26#^num-26-41|Numbers 26:41]] ↔ [[Numbers 2#^num-2-15|Numbers 2:15]]
-- [[Numbers 3]] — 11 parallel verses, e.g. [[Numbers 26#^num-26-61|Numbers 26:61]] ↔ [[Numbers 3#^num-3-4|Numbers 3:4]]
 - [[Numbers 33]] — 5 parallel verses, e.g. [[Numbers 26#^num-26-4|Numbers 26:4]] ↔ [[Numbers 33#^num-33-1|Numbers 33:1]]
 - [[Numbers 36]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-63|Numbers 26:63]] ↔ [[Numbers 36#^num-36-13|Numbers 36:13]]
 - [[Numbers 1]] — 3 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Numbers 1#^num-1-2|Numbers 1:2]]
@@ -69,17 +72,21 @@ _Not yet developed._
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 - [[Genesis 10]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-37|Numbers 26:37]] ↔ [[Genesis 10#^gen-10-32|Genesis 10:32]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-57|Numbers 26:57]] ↔ [[Numbers 4#^num-4-41|Numbers 4:41]]
+- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Within the narrative, the closing verses present the disappearance of the formerly numbered men as fulfillment of an announced judgment. The claim is limited to that census cohort and should not be expanded to every person who left Egypt.
+
+The land is treated as an inheritance administered through tribes and families. Population affects the relative size of allotments, and lots participate in distribution, but the chapter does not explain the lot's mechanism or explicitly contrast divine control with human preference. The survival of Korah's children also shows that the genealogy distinguishes descendants from those destroyed in the rebellion; it does not by itself formulate a complete doctrine of intergenerational responsibility. These features are relevant to [[Family]] and the [[Law of Moses]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -99,20 +106,45 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The long census list is interrupted by selected narrative notices: Dathan and Abiram's rebellion, the survival of Korah's children, the deaths of Er and Onan, Zelophehad's five daughters, and the deaths of Nadab and Abihu. These notices make the chapter a selective record of continuity, loss, and exceptional family circumstances rather than merely a table of totals.
+
+The closing comparison with [[Numbers 1]] gives the chapter a narrative conclusion: the men belonging to the former census have disappeared except Caleb and Joshua, and a newly counted cohort stands ready to receive land. The notice about Zelophehad's daughters forms a clear canonical bridge to [[Numbers 27]] and [[Numbers 36]], without settling whether it prospectively anticipated those accounts or reflects later editorial coordination.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Entity Disambiguation
+> Local genealogical context shows that Noah in this chapter is a daughter of Zelophehad and Sarah is a daughter of Asher; these names therefore must not be identified merely by surface matching with the patriarch Noah or Abraham's wife Sarah.
+> — strength 1.0 · confidence 1.0 · Genealogical context decisively resolves the entities · [[Entity Disambiguation in Numbers 26|full dossier]]
+
+> [!evidence] Entity Disambiguation
+> Benjamin in this chapter is the ancestral figure associated with the tribe and its families, not King Benjamin from the Book of Mormon; identifying the occurrence as King Benjamin would be an entity-resolution error.
+> — strength 1.0 · confidence 1.0 · Context decisively resolves the entity
+
+> [!evidence] Internal Numerical Coherence
+> The exact agreement between the tribal subtotals and the aggregate of 601,730 is strong evidence that the numbers are deliberately coordinated in the chapter's present literary form.
+> — strength 0.9 · confidence 1.0 · Strong for present-form coordination only · [[Internal Numerical Coherence in Numbers 26|full dossier]]
+
+> [!evidence] Internal Narrative Correspondence
+> Within Numbers' own narrative, the absence of the previously numbered men except Caleb and Joshua provides strong literary evidence that the announced wilderness judgment has reached fulfillment by the time of the Moab census.
+> — strength 0.9 · confidence 1.0 · Strong internal narrative correspondence · [[Internal Narrative Correspondence in Numbers 26|full dossier]]
+
+> [!evidence] Narrative Juxtaposition And Demographic Comparison *(tentative)*
+> Simeon's count falls from 59,300 at Sinai to 22,200 after the plague, a decrease of 37,100 and by far the largest tribal decline. Because Zimri, killed during the preceding apostasy, was a Simeonite leader, the data modestly support the possibility that Simeon was disproportionately affected by that crisis.
+> — strength 0.4 · confidence 0.7 · Certain arithmetic; disputed causal interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How were proportional allotment and division by lot implemented together?
+- Why does the census preserve some death notices and personal details while omitting most individual histories?
+- What does the explicit survival of Korah's children contribute to the chapter's treatment of judgment and family continuity?
+- How does the notice about Zelophehad's daughters connect with [[Numbers 27]] and [[Numbers 36]]?
+- Why does Simeon's total decline so sharply between [[Numbers 1]] and [[Numbers 26]], and what evidence would be needed to connect that decline to the preceding plague?
+- What can the census totals establish about the chapter's literary form, and what historical conclusions would require independent evidence?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the eligibility rules, totals, leadership, and setting with [[Numbers 1]]. Read the closing verses alongside [[Numbers 14]] to examine the narrative fulfillment of the wilderness judgment. Compare the compressed recollection of rebellion with [[Numbers 16]], and read [[Numbers 25]] for the plague immediately preceding the census. Finally, trace Zelophehad's daughters through [[Numbers 27]] and [[Numbers 36]] to study the relationship among census organization, [[Family]], and inheritance law.
 <!-- SG:END further-study -->
