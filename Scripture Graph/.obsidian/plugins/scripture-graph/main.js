@@ -6135,7 +6135,7 @@ var init_timelineView = __esm({
       rs: "#52a9ff"
     };
     LANE_NAME = {
-      ow: "\u{1F30D} Old World",
+      ow: "\u{1F30D} Bible",
       nw: "\u{1F30E} Book of Mormon",
       rs: "\u{1F305} Restoration"
     };
@@ -6179,6 +6179,16 @@ var init_timelineView = __esm({
       /** enter/leave focus mode: the constellation becomes ONE subject's thread */
       setFocus(subject) {
         this.focus = subject;
+        this.render();
+      }
+      /** back to seeing everything — one tap out of any filter corner */
+      resetFilters() {
+        this.lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
+        this.cats = new Set(CATS.map((c) => c.key));
+        this.detail = false;
+        this.query = "";
+        this.showLenses = false;
+        this.showSearch = false;
         this.render();
       }
       saveDepth() {
@@ -6302,8 +6312,10 @@ var init_timelineView = __esm({
         }
         const bar = c.createDiv({ cls: "sg-tl-bar" });
         const eras = bar.createDiv({ cls: "sg-tl-eras" });
+        eras.createSpan({ cls: "sg-tl-rowcap", text: "Jump to" });
         for (const era of ERAS) {
           const b = eras.createEl("button", { cls: "sg-tl-era", text: era.label });
+          b.setAttr("title", `Scroll to the ${era.label} era`);
           b.onclick = () => this.scrollToYear(era.y);
         }
         const row2 = bar.createDiv({ cls: "sg-tl-row" });
@@ -6312,11 +6324,12 @@ var init_timelineView = __esm({
           seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
           const segDefs = [
             [1, "1", "One line per world"],
-            [2, "2", "Split out the storylines"]
+            [2, "2", "Split the storylines apart"]
           ];
           for (const [d, label, hint] of segDefs) {
             const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
             b.setAttr("aria-label", hint);
+            b.setAttr("title", hint);
             b.toggleClass("sg-tl-seg-on", this.depth === d);
             b.onclick = () => {
               if (this.depth === d) return;
@@ -6326,30 +6339,32 @@ var init_timelineView = __esm({
             };
           }
         }
-        for (const key of ["ow", "rs", "nw"]) {
-          const b = row2.createEl("button", {
-            cls: "sg-tl-world",
-            text: LANE_NAME[key].slice(0, 2)
-          });
-          b.setAttr("aria-label", LANE_NAME[key].slice(3));
+        for (const key of ["ow", "nw", "rs"]) {
+          const on = this.lanes.has(key);
+          const b = row2.createEl("button", { cls: "sg-tl-worldc", text: LANE_NAME[key] });
+          const hint = `${on ? "Hide" : "Show"} ${LANE_NAME[key].slice(3)} events`;
+          b.setAttr("title", hint);
+          b.setAttr("aria-label", hint);
           b.style.setProperty("--sg-lane", LANE_COLOR[key]);
-          b.toggleClass("sg-tl-on", this.lanes.has(key));
+          b.toggleClass("sg-tl-on", on);
           b.onclick = () => {
             if (this.lanes.has(key)) this.lanes.delete(key);
             else this.lanes.add(key);
             this.render();
           };
         }
+        row2.createSpan({ cls: "sg-tl-div" });
         const iconChip = (text, hint, on, click) => {
           const b = row2.createEl("button", { cls: "sg-tl-tool", text });
           b.setAttr("aria-label", hint);
+          b.setAttr("title", hint);
           b.toggleClass("sg-tl-on", on);
           b.onclick = click;
           return b;
         };
         iconChip(
-          this.detail ? "\u{1F50E} All" : "\u2B50 Major",
-          "How much detail",
+          this.detail ? "\u{1F50E} Everything" : "\u2B50 Major only",
+          "How much shows: the major moments, or every detail",
           this.detail,
           () => {
             this.detail = !this.detail;
@@ -6357,15 +6372,15 @@ var init_timelineView = __esm({
           }
         );
         iconChip(
-          "\u{1F3AF}",
-          "Focus on a person, place, or thing",
+          "\u{1F3AF} Focus",
+          "Follow one person, place, or thing through time",
           false,
           () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open()
         );
         const filtered = this.cats.size < CATS.length;
         iconChip(
-          filtered ? `\u2697 ${this.cats.size}` : "\u2697",
-          "Story lenses",
+          filtered ? `\u2697 Lenses \xB7 ${this.cats.size}` : "\u2697 Lenses",
+          "Filter by kind of moment \u2014 prophets, wars, records\u2026",
           this.showLenses || filtered,
           () => {
             this.showLenses = !this.showLenses;
@@ -6373,8 +6388,8 @@ var init_timelineView = __esm({
           }
         );
         iconChip(
-          "\u{1F50D}",
-          "Search the ages",
+          "\u{1F50D} Search",
+          "Find a person, place, or event",
           this.showSearch || !!this.query,
           () => {
             this.showSearch = !this.showSearch;
@@ -6384,6 +6399,12 @@ var init_timelineView = __esm({
             this.render();
           }
         );
+        if (this.lanes.size < 3 || filtered || this.detail || this.query) {
+          const reset = row2.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "\u21BA Reset" });
+          reset.setAttr("title", "Show everything again");
+          reset.setAttr("aria-label", "Show everything again");
+          reset.onclick = () => this.resetFilters();
+        }
         if (this.showLenses) {
           const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
           for (const cat of CATS) {
@@ -6446,7 +6467,10 @@ var init_timelineView = __esm({
         this.yByYear = [];
         const events = this.visible();
         if (!events.length) {
-          stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
+          const empty = stream.createDiv({ cls: "sg-tl-empty" });
+          empty.createDiv({ text: "Nothing matches \u2014 every event is filtered out." });
+          const back = empty.createEl("button", { cls: "sg-tl-retry", text: "\u21BA Show everything" });
+          back.onclick = () => this.resetFilters();
           return;
         }
         let cw = stream.clientWidth;
@@ -8695,6 +8719,319 @@ var SGState = class {
 // src/study/navigator.ts
 var import_obsidian2 = require("obsidian");
 init_src();
+
+// src/study/search.ts
+init_src();
+function normalize(s) {
+  return s.toLowerCase().normalize("NFD").replace(/\p{M}+/gu, "").replace(/['’ʼ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+var SUFFIXES = ["eth", "est", "ings", "ing", "ed", "es", "s", "'s"];
+function stem(t) {
+  for (const suf of SUFFIXES) {
+    if (t.endsWith(suf) && t.length - suf.length >= 3) {
+      return t.slice(0, t.length - suf.length);
+    }
+  }
+  return t;
+}
+function tokenize(s) {
+  const n = normalize(s);
+  return n ? n.split(" ").map(stem) : [];
+}
+var VERSE_LINE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
+function parseVerseLine(chapter, line) {
+  const m = VERSE_LINE_RE.exec(line);
+  if (!m) return null;
+  const text = m[2];
+  return {
+    chapter,
+    verse: Number(m[1]),
+    text,
+    anchor: m[3],
+    norm: normalize(text),
+    tokens: tokenize(text)
+  };
+}
+var builtIndex = null;
+var building = null;
+var progressListeners = [];
+function searchIndexReady() {
+  return builtIndex !== null;
+}
+function buildSearchIndex(app, onProgress) {
+  if (builtIndex) return Promise.resolve(builtIndex);
+  if (onProgress) progressListeners.push(onProgress);
+  if (building) return building;
+  building = (async () => {
+    const all = app.vault.getMarkdownFiles();
+    const canonical = all.filter((f) => f.path.startsWith(CANONICAL_PREFIX));
+    const verses = [];
+    const chapters = [];
+    let done = 0;
+    for (const f of canonical) {
+      const title = f.basename;
+      chapters.push({ title, norm: normalize(title), tokens: tokenize(title) });
+      try {
+        const md = await app.vault.cachedRead(f);
+        for (const line of md.split("\n")) {
+          const rec = parseVerseLine(title, line);
+          if (rec) verses.push(rec);
+        }
+      } catch {
+      }
+      done++;
+      for (const p of progressListeners) p(done, canonical.length);
+    }
+    const pages = [];
+    for (const f of all) {
+      if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
+      if (f.path.includes("01 Scriptures/")) continue;
+      if (f.basename.startsWith("_")) continue;
+      const fm = app.metadataCache.getFileCache(f)?.frontmatter;
+      const raw = fm?.["aliases"];
+      const aliases = Array.isArray(raw) ? raw.map(String) : typeof raw === "string" ? [raw] : [];
+      pages.push({ title: f.basename, path: f.path, aliases });
+    }
+    builtIndex = { verses, pages, chapters };
+    building = null;
+    progressListeners.length = 0;
+    return builtIndex;
+  })();
+  return building;
+}
+var BOOK_LOOKUP = (() => {
+  const m = /* @__PURE__ */ new Map();
+  for (const b of BOOKS) {
+    for (const form of [b.name, b.prefix, b.slug, ...b.aliases]) {
+      const key = normalize(form);
+      if (key) m.set(key, b);
+    }
+  }
+  return m;
+})();
+function parseReference(q) {
+  const m = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
+  if (!m) return null;
+  const book = BOOK_LOOKUP.get(normalize(m[1]));
+  if (!book) return null;
+  const chapter = Number(m[2]);
+  if (chapter < 1 || chapter > book.chapters) return null;
+  const verse = m[3] ? Number(m[3]) : null;
+  if (verse !== null && verse < 1) return null;
+  return {
+    bookName: book.name,
+    title: `${book.prefix} ${chapter}`,
+    chapter,
+    verse,
+    anchor: verse !== null ? `${book.slug}-${chapter}-${verse}` : null
+  };
+}
+function phraseAt(norm, qnorm) {
+  const hay = ` ${norm} `;
+  const i = hay.indexOf(` ${qnorm} `);
+  return i < 0 ? -1 : i;
+}
+function tokenMatches(token, q, isLast, prefixOk) {
+  return token === q || isLast && prefixOk && q.length >= 2 && token.startsWith(q);
+}
+function scoreTokens(tokens, qtokens, prefixOk) {
+  const n = qtokens.length;
+  if (!n || !tokens.length) return { tier: 9, score: 0 };
+  let present = 0;
+  for (let qi = 0; qi < n; qi++) {
+    const q = qtokens[qi];
+    const isLast = qi === n - 1;
+    for (const t of tokens) {
+      if (tokenMatches(t, q, isLast, prefixOk)) {
+        present++;
+        break;
+      }
+    }
+  }
+  const need = n >= 2 ? Math.ceil(n / 2) : 1;
+  if (present < need) return { tier: 9, score: 0 };
+  const tier = present === n ? 2 : 3;
+  const last = new Array(n).fill(-1);
+  let bestSpan = Infinity;
+  let bestStart = -1;
+  let bestOrdered = false;
+  for (let i = 0; i < tokens.length; i++) {
+    const t = tokens[i];
+    for (let qi = 0; qi < n; qi++) {
+      if (tokenMatches(t, qtokens[qi], qi === n - 1, prefixOk)) last[qi] = i;
+    }
+    let lo = Infinity, hi = -1, have = 0;
+    for (let qi = 0; qi < n; qi++) {
+      const p = last[qi];
+      if (p < 0) continue;
+      have++;
+      if (p < lo) lo = p;
+      if (p > hi) hi = p;
+    }
+    if (have < present) continue;
+    const span = hi - lo;
+    if (span < bestSpan || span === bestSpan && bestStart < 0) {
+      bestSpan = span;
+      bestStart = lo;
+      let ordered = true;
+      for (let qi = 1; qi < n; qi++) {
+        const a = last[qi - 1], b = last[qi];
+        if (a >= 0 && b >= 0 && a > b) {
+          ordered = false;
+          break;
+        }
+      }
+      bestOrdered = ordered;
+    }
+  }
+  if (bestStart < 0) return { tier: 9, score: 0 };
+  const slack = bestSpan - (present - 1);
+  let score = 60 / (1 + slack) + (bestOrdered ? 12 : 0) + 10 / (1 + bestStart) + 6 / (1 + tokens.length / 12) + present * 4;
+  return { tier, score };
+}
+function scoreText(norm, tokens, qnorm, qtokens) {
+  if (qnorm) {
+    const at = phraseAt(norm, qnorm);
+    if (at >= 0) {
+      return {
+        tier: 1,
+        score: 100 + 20 / (1 + at / 8) + 8 / (1 + tokens.length / 12)
+      };
+    }
+  }
+  return scoreTokens(tokens, qtokens, true);
+}
+function scoreTitle(title, qnorm, qtokens) {
+  const norm = normalize(title);
+  if (!norm) return { tier: 9, score: 0 };
+  if (norm === qnorm) return { tier: 1, score: 400 };
+  if (qnorm && norm.startsWith(qnorm)) return { tier: 1, score: 300 - norm.length };
+  const base = scoreText(norm, tokenize(title), qnorm, qtokens);
+  if (base.tier >= 9) return base;
+  const first = norm.split(" ")[0];
+  const qFirst = qtokens[0] ?? "";
+  const startsish = qFirst && (first === qFirst || first.startsWith(qFirst));
+  return { tier: base.tier, score: base.score + (startsish ? 30 : 0) };
+}
+function rawWords(text) {
+  const out = [];
+  const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
+  let m;
+  while (m = re.exec(text)) {
+    const w = normalize(m[0]);
+    if (!w) continue;
+    out.push({ start: m.index, end: m.index + m[0].length, norm: w, stemmed: stem(w) });
+  }
+  return out;
+}
+function matchRanges(text, qnorm, qtokens) {
+  const words = rawWords(text);
+  const phrase = qnorm ? qnorm.split(" ") : [];
+  if (phrase.length) {
+    for (let i = 0; i + phrase.length <= words.length; i++) {
+      let ok = true;
+      for (let j = 0; j < phrase.length; j++) {
+        if (words[i + j].norm !== phrase[j]) {
+          ok = false;
+          break;
+        }
+      }
+      if (ok) {
+        return [{ start: words[i].start, end: words[i + phrase.length - 1].end }];
+      }
+    }
+  }
+  const ranges = [];
+  const n = qtokens.length;
+  for (const w of words) {
+    for (let qi = 0; qi < n; qi++) {
+      if (tokenMatches(w.stemmed, qtokens[qi], qi === n - 1, true)) {
+        ranges.push({ start: w.start, end: w.end });
+        break;
+      }
+    }
+  }
+  return ranges;
+}
+var SNIPPET_LEN = 140;
+function makeSnippet(text, ranges) {
+  if (text.length <= SNIPPET_LEN) return { snippet: text, ranges };
+  if (!ranges.length) {
+    const cut = text.lastIndexOf(" ", SNIPPET_LEN);
+    return { snippet: `${text.slice(0, cut > 60 ? cut : SNIPPET_LEN)}\u2026`, ranges: [] };
+  }
+  const first = ranges[0];
+  let start = Math.max(0, first.start - 36);
+  if (start > 0) {
+    const sp = text.indexOf(" ", start);
+    if (sp >= 0 && sp < first.start) start = sp + 1;
+  }
+  let end = Math.min(text.length, start + SNIPPET_LEN);
+  if (end < text.length) {
+    const sp = text.lastIndexOf(" ", end);
+    if (sp > start + SNIPPET_LEN / 2) end = sp;
+  }
+  const prefix = start > 0 ? "\u2026" : "";
+  const suffix = end < text.length ? "\u2026" : "";
+  const body = text.slice(start, end);
+  const shift = start - prefix.length;
+  const kept = ranges.filter((r) => r.start >= start && r.end <= end).map((r) => ({ start: r.start - shift, end: r.end - shift }));
+  return { snippet: prefix + body + suffix, ranges: kept };
+}
+var byRank = (a, b) => a.tier - b.tier || b.score - a.score;
+function smartSearch(q, index) {
+  const qnorm = normalize(q);
+  const qtokens = tokenize(q);
+  const out = { verses: [], pages: [], chapters: [] };
+  if (!qtokens.length) return out;
+  const ref = parseReference(q);
+  if (ref) out.reference = ref;
+  const vhits = [];
+  for (const rec of index.verses) {
+    const s = scoreText(rec.norm, rec.tokens, qnorm, qtokens);
+    if (s.tier < 9) vhits.push({ rec, tier: s.tier, score: s.score });
+  }
+  vhits.sort(byRank);
+  for (const h of vhits.slice(0, 8)) {
+    const { snippet, ranges } = makeSnippet(h.rec.text, matchRanges(h.rec.text, qnorm, qtokens));
+    out.verses.push({
+      chapter: h.rec.chapter,
+      verse: h.rec.verse,
+      anchor: h.rec.anchor,
+      snippet,
+      ranges,
+      tier: h.tier,
+      score: h.score
+    });
+  }
+  const phits = [];
+  for (const rec of index.pages) {
+    let best = scoreTitle(rec.title, qnorm, qtokens);
+    for (const a of rec.aliases) {
+      const s = scoreTitle(a, qnorm, qtokens);
+      if (byRank(s, best) < 0) best = s;
+    }
+    if (best.tier < 9) phits.push({ rec, tier: best.tier, score: best.score });
+  }
+  phits.sort(byRank);
+  out.pages = phits.slice(0, 6).map((h) => ({
+    title: h.rec.title,
+    path: h.rec.path,
+    tier: h.tier,
+    score: h.score
+  }));
+  const chits = [];
+  for (const rec of index.chapters) {
+    if (ref && rec.title === ref.title) continue;
+    const s = scoreTitle(rec.title, qnorm, qtokens);
+    if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
+  }
+  chits.sort(byRank);
+  out.chapters = chits.slice(0, 4).map((h) => ({ title: h.rec.title, tier: h.tier, score: h.score }));
+  return out;
+}
+
+// src/study/navigator.ts
 var LIBRARY_SECTIONS = [
   { emoji: "\u{1F3A4}", name: "General Conference", path: "AI Library/10 General Conference" },
   { emoji: "\u{1F4D4}", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
@@ -8734,10 +9071,15 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
   }
   view = { kind: "home" };
   trail = [];
+  searchQuery = "";
+  searchTimer = null;
+  searchSeq = 0;
+  groupActs = null;
   onOpen() {
     this.render();
   }
   onClose() {
+    if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     this.contentEl.empty();
   }
   /** drill somewhere, remembering where we came from */
@@ -8788,7 +9130,122 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
     else if (v.kind === "library") this.renderLibrary(c);
     else this.renderFolder(c, v.path);
   }
+  /** Home = a search box over the browsing rows. Under 2 chars the rows
+   * show; at 2+ the smart search takes the body over, and clearing the box
+   * hands it back. */
   renderHome(c) {
+    const inp = c.createEl("input", {
+      cls: "sg-nav-filter sg-nav-search",
+      attr: { type: "search", placeholder: "Search scriptures, people, places\u2026", enterkeyhint: "search" }
+    });
+    inp.value = this.searchQuery;
+    const body = c.createDiv({ cls: "sg-nav-searchhost" });
+    const showHome = () => {
+      this.searchSeq++;
+      body.removeClass("sg-nav-scroll");
+      body.empty();
+      this.renderHomeRows(body);
+    };
+    inp.oninput = () => {
+      this.searchQuery = inp.value;
+      if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
+      const q = inp.value.trim();
+      if (q.length < 2) {
+        this.searchTimer = null;
+        showHome();
+        return;
+      }
+      this.searchTimer = window.setTimeout(() => {
+        this.searchTimer = null;
+        this.runSearch(q, body);
+      }, 160);
+    };
+    const q0 = this.searchQuery.trim();
+    if (q0.length >= 2) this.runSearch(q0, body);
+    else this.renderHomeRows(body);
+  }
+  /** First search of the session builds the index; a quiet progress row
+   * keeps the wait honest, then results replace it. */
+  runSearch(q, body) {
+    const seq = ++this.searchSeq;
+    if (!searchIndexReady()) {
+      body.empty();
+      const prog = body.createDiv({ cls: "sg-nav-progress", text: "Reading the scriptures\u2026 0%" });
+      void buildSearchIndex(this.app, (done, total) => {
+        const pct = total ? Math.round(done / total * 100) : 100;
+        prog.setText(`Reading the scriptures\u2026 ${pct}%`);
+      }).then((index) => {
+        if (seq !== this.searchSeq || this.view.kind !== "home") return;
+        this.renderResults(smartSearch(q, index), body);
+      });
+      return;
+    }
+    void buildSearchIndex(this.app).then((index) => {
+      if (seq !== this.searchSeq || this.view.kind !== "home") return;
+      this.renderResults(smartSearch(q, index), body);
+    });
+  }
+  renderResults(res, body) {
+    body.empty();
+    body.addClass("sg-nav-scroll");
+    const open2 = (go) => {
+      go();
+      this.close();
+    };
+    if (!res.reference && !res.verses.length && !res.pages.length && !res.chapters.length) {
+      body.createDiv({ cls: "sg-nav-empty", text: "Nothing found. Try fewer or different words." });
+      return;
+    }
+    if (res.reference || res.verses.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "\u{1F4D6} Scriptures" });
+    }
+    if (res.reference) {
+      const ref = res.reference;
+      const row = body.createDiv({ cls: "sg-nav-row sg-nav-refrow" });
+      row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F3AF}" });
+      const col = row.createDiv({ cls: "sg-nav-gcol" });
+      col.createDiv({ cls: "sg-nav-name", text: ref.verse !== null ? `${ref.title}:${ref.verse}` : ref.title });
+      col.createDiv({ cls: "sg-nav-gsub", text: ref.verse !== null ? "Go to verse" : "Open chapter" });
+      row.onclick = () => open2(() => {
+        if (ref.anchor) this.host.openNote(`${ref.title}#^${ref.anchor}`);
+        else this.host.openChapter(ref.title);
+      });
+    }
+    for (const v of res.verses) {
+      const row = body.createDiv({ cls: "sg-nav-row sg-nav-vrow" });
+      const col = row.createDiv({ cls: "sg-nav-vcol" });
+      col.createDiv({ cls: "sg-nav-vref", text: `${v.chapter}:${v.verse}` });
+      const snip = col.createDiv({ cls: "sg-nav-snip" });
+      let at = 0;
+      for (const r of v.ranges) {
+        if (r.start > at) snip.createSpan({ text: v.snippet.slice(at, r.start) });
+        snip.createEl("b", { text: v.snippet.slice(r.start, r.end) });
+        at = r.end;
+      }
+      if (at < v.snippet.length) snip.createSpan({ text: v.snippet.slice(at) });
+      row.onclick = () => open2(() => this.host.openNote(`${v.chapter}#^${v.anchor}`));
+    }
+    if (res.pages.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "\u{1F4DA} Library" });
+      for (const p of res.pages) {
+        const row = body.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4C4}" });
+        row.createSpan({ cls: "sg-nav-name", text: p.title });
+        row.onclick = () => open2(() => this.host.openPath(p.path));
+      }
+    }
+    if (res.chapters.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "\u{1F56E} Chapters" });
+      for (const ch of res.chapters) {
+        const row = body.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4D6}" });
+        row.createSpan({ cls: "sg-nav-name", text: ch.title });
+        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+        row.onclick = () => open2(() => this.host.openChapter(ch.title));
+      }
+    }
+  }
+  renderHomeRows(c) {
     const last = this.host.lastChapter();
     if (last) {
       const cont = c.createDiv({ cls: "sg-nav-continue" });
@@ -8842,8 +9299,10 @@ var SGNavigatorModal = class extends import_obsidian2.Modal {
       this.host.openNote("Study Hub");
     };
     const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
-    void this.host.groupActivity().then((acts) => {
-      if (!acts.length || this.view.kind !== "home") return;
+    const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
+    void actsP.then((acts) => {
+      this.groupActs = acts;
+      if (!acts.length || this.view.kind !== "home" || !groupsBox.isConnected) return;
       groupsBox.createDiv({ cls: "sg-nav-sect", text: "\u{1F465} Studying with your groups" });
       for (const a of acts.slice(0, 4)) {
         const title = titleForChapterSlug(a.chapter_slug);
@@ -10518,7 +10977,7 @@ function hills(color, amp, phase, crest) {
 function reeds(seed, color) {
   const rnd = lcg(seed);
   let c = "";
-  const stem = (x, h, lean, head) => {
+  const stem2 = (x, h, lean, head) => {
     const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
     let s = `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.35).toFixed(0)} ${(200 - h * 0.6).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='3' fill='none'/>`;
     if (head) {
@@ -10527,10 +10986,10 @@ function reeds(seed, color) {
     return s;
   };
   for (let i = 0; i < 14; i++) {
-    c += stem(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
+    c += stem2(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
   }
   for (let i = 0; i < 5; i++) {
-    c += stem(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
+    c += stem2(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
   }
   return svgUrl(900, 200, c);
 }

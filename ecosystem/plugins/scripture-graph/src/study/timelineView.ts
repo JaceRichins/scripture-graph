@@ -117,7 +117,7 @@ const LANE_COLOR: Record<string, string> = {
   ow: "#d9a441", nw: "#4cc38a", rs: "#52a9ff",
 };
 const LANE_NAME: Record<string, string> = {
-  ow: "🌍 Old World", nw: "🌎 Book of Mormon", rs: "🌅 Restoration",
+  ow: "🌍 Bible", nw: "🌎 Book of Mormon", rs: "🌅 Restoration",
 };
 /** rails as FRACTIONS of the real container width — the layout is computed
  * in device pixels so text renders at true size on every screen (a scaled
@@ -171,6 +171,17 @@ export class TimelineView extends ItemView {
   /** enter/leave focus mode: the constellation becomes ONE subject's thread */
   setFocus(subject: Subject | null): void {
     this.focus = subject;
+    this.render();
+  }
+
+  /** back to seeing everything — one tap out of any filter corner */
+  private resetFilters(): void {
+    this.lanes = new Set(["ow", "nw", "rs"]);
+    this.cats = new Set(CATS.map(c => c.key));
+    this.detail = false;
+    this.query = "";
+    this.showLenses = false;
+    this.showSearch = false;
     this.render();
   }
 
@@ -302,11 +313,14 @@ export class TimelineView extends ItemView {
       return;
     }
 
-    // ---- filter bar: two thin rows, everything else folds away ----------
+    // ---- filter bar: words on everything — a control you have to guess at
+    // is a control that gets guessed wrong ------------------------------
     const bar = c.createDiv({ cls: "sg-tl-bar" });
     const eras = bar.createDiv({ cls: "sg-tl-eras" });
+    eras.createSpan({ cls: "sg-tl-rowcap", text: "Jump to" });
     for (const era of ERAS) {
       const b = eras.createEl("button", { cls: "sg-tl-era", text: era.label });
+      b.setAttr("title", `Scroll to the ${era.label} era`);
       b.onclick = () => this.scrollToYear(era.y);
     }
     const row2 = bar.createDiv({ cls: "sg-tl-row" });
@@ -317,11 +331,12 @@ export class TimelineView extends ItemView {
       seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
       const segDefs: [1 | 2, string, string][] = [
         [1, "1", "One line per world"],
-        [2, "2", "Split out the storylines"],
+        [2, "2", "Split the storylines apart"],
       ];
       for (const [d, label, hint] of segDefs) {
         const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
         b.setAttr("aria-label", hint);
+        b.setAttr("title", hint);
         b.toggleClass("sg-tl-seg-on", this.depth === d);
         b.onclick = () => {
           if (this.depth === d) return;
@@ -331,41 +346,54 @@ export class TimelineView extends ItemView {
         };
       }
     }
-    // the three worlds as colored dot toggles — they double as the legend
-    for (const key of ["ow", "rs", "nw"]) {
-      const b = row2.createEl("button", {
-        cls: "sg-tl-world", text: LANE_NAME[key]!.slice(0, 2),
-      });
-      b.setAttr("aria-label", LANE_NAME[key]!.slice(3));
+    // the three worlds as LABELED toggles — show/hide is obvious, and the
+    // colored ring doubles as the legend for the rails below
+    for (const key of ["ow", "nw", "rs"]) {
+      const on = this.lanes.has(key);
+      const b = row2.createEl("button", { cls: "sg-tl-worldc", text: LANE_NAME[key]! });
+      const hint = `${on ? "Hide" : "Show"} ${LANE_NAME[key]!.slice(3)} events`;
+      b.setAttr("title", hint);
+      b.setAttr("aria-label", hint);
       b.style.setProperty("--sg-lane", LANE_COLOR[key]!);
-      b.toggleClass("sg-tl-on", this.lanes.has(key));
+      b.toggleClass("sg-tl-on", on);
       b.onclick = () => {
         if (this.lanes.has(key)) this.lanes.delete(key); else this.lanes.add(key);
         this.render();
       };
     }
+    row2.createSpan({ cls: "sg-tl-div" });
     const iconChip = (text: string, hint: string, on: boolean,
       click: () => void) => {
       const b = row2.createEl("button", { cls: "sg-tl-tool", text });
       b.setAttr("aria-label", hint);
+      b.setAttr("title", hint);
       b.toggleClass("sg-tl-on", on);
       b.onclick = click;
       return b;
     };
-    iconChip(this.detail ? "🔎 All" : "⭐ Major", "How much detail",
+    iconChip(this.detail ? "🔎 Everything" : "⭐ Major only",
+      "How much shows: the major moments, or every detail",
       this.detail, () => { this.detail = !this.detail; this.render(); });
-    iconChip("🎯", "Focus on a person, place, or thing", false,
+    iconChip("🎯 Focus", "Follow one person, place, or thing through time", false,
       () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open());
     const filtered = this.cats.size < CATS.length;
-    iconChip(filtered ? `⚗ ${this.cats.size}` : "⚗", "Story lenses",
+    iconChip(filtered ? `⚗ Lenses · ${this.cats.size}` : "⚗ Lenses",
+      "Filter by kind of moment — prophets, wars, records…",
       this.showLenses || filtered,
       () => { this.showLenses = !this.showLenses; this.render(); });
-    iconChip("🔍", "Search the ages", this.showSearch || !!this.query,
+    iconChip("🔍 Search", "Find a person, place, or event", this.showSearch || !!this.query,
       () => {
         this.showSearch = !this.showSearch;
         if (!this.showSearch) { this.query = ""; }
         this.render();
       });
+    // an escape hatch the moment anything is filtered — no stranded views
+    if (this.lanes.size < 3 || filtered || this.detail || this.query) {
+      const reset = row2.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "↺ Reset" });
+      reset.setAttr("title", "Show everything again");
+      reset.setAttr("aria-label", "Show everything again");
+      reset.onclick = () => this.resetFilters();
+    }
 
     if (this.showLenses) {
       const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
@@ -431,7 +459,10 @@ export class TimelineView extends ItemView {
     this.yByYear = [];
     const events = this.visible();
     if (!events.length) {
-      stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
+      const empty = stream.createDiv({ cls: "sg-tl-empty" });
+      empty.createDiv({ text: "Nothing matches — every event is filtered out." });
+      const back = empty.createEl("button", { cls: "sg-tl-retry", text: "↺ Show everything" });
+      back.onclick = () => this.resetFilters();
       return;
     }
 
