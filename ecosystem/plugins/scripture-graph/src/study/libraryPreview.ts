@@ -11,6 +11,13 @@
 import { App, Component, MarkdownRenderer, Modal, TFile } from "obsidian";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
+import type { Subject } from "./timelineView";
+
+/** host hook: does this page name a timeline subject, and how to focus it */
+export interface TimelineHook {
+  subjectFor: (name: string) => Subject | null;
+  focus: (subject: Subject) => void;
+}
 
 /** AI pages that ARE reading surfaces keep real navigation */
 const NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
@@ -35,12 +42,16 @@ export class LibraryPreviewModal extends Modal {
   private sheetTitleEl!: HTMLElement;
   private backBtn!: HTMLElement;
 
+  private tlBtn: HTMLElement | null = null;
+
   constructor(
     private s: SGState,
     file: TFile,
     private subpath: string | null,
     /** null = no open-as-page path at all (family mode) */
     private openAsPage: ((file: TFile) => void) | null,
+    /** when the page names someone the timeline knows, offer their thread */
+    private timeline: TimelineHook | null = null,
   ) {
     super(s.app);
     this.current = file;
@@ -61,6 +72,21 @@ export class LibraryPreviewModal extends Modal {
       if (prev) void this.show(prev, null);
     };
     this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
+    if (this.timeline) {
+      const tl = head.createEl("button", { cls: "sg-lib-btn sg-lib-tl", text: "⏳" });
+      tl.setAttr("aria-label", "See it in the Timeline");
+      tl.onclick = () => {
+        const sub = this.timeline?.subjectFor(this.current.basename);
+        if (!sub) return;
+        const focus = this.timeline!.focus;
+        this.close();
+        focus(sub);
+      };
+      this.tlBtn = tl;
+      // the subject index may still be warming on the very first sheet
+      window.setTimeout(() => this.tlBtn?.toggleClass("sg-lib-tl-off",
+        !this.timeline?.subjectFor(this.current.basename)), 450);
+    }
     if (this.openAsPage) {
       const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "↗" });
       asPage.setAttr("aria-label", "Open as its own page");
@@ -102,6 +128,8 @@ export class LibraryPreviewModal extends Modal {
     this.current = file;
     this.sheetTitleEl.setText(file.basename);
     this.backBtn.toggleClass("sg-lib-back-off", this.history.length === 0);
+    this.tlBtn?.toggleClass("sg-lib-tl-off",
+      !this.timeline?.subjectFor(file.basename));
     this.bodyEl.empty();
     try {
       const md = await this.s.app.vault.cachedRead(file);

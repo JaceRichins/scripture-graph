@@ -1195,6 +1195,8 @@ body.sg-scene-on .sg-chap-conn {
   padding: 1px 8px; border-radius: 9px;
   background: var(--background-primary);
 }
+/* the sheet's door into a subject's focused timeline */
+.sg-lib-tl-off { display: none; }
 .sg-tl-node { cursor: pointer; }
 .sg-tl-hit { fill: transparent; }
 .sg-tl-halo { opacity: 0.15; }

@@ -8393,11 +8393,12 @@ ${body}
     return dest;
   }
   var LibraryPreviewModal = class extends Modal {
-    constructor(s, file, subpath, openAsPage) {
+    constructor(s, file, subpath, openAsPage, timeline = null) {
       super(s.app);
       this.s = s;
       this.subpath = subpath;
       this.openAsPage = openAsPage;
+      this.timeline = timeline;
       this.current = file;
     }
     comp = new Component();
@@ -8406,6 +8407,7 @@ ${body}
     bodyEl;
     sheetTitleEl;
     backBtn;
+    tlBtn = null;
     onOpen() {
       registerSheet(this);
       this.modalEl.addClass("sg-lib-modal");
@@ -8420,6 +8422,22 @@ ${body}
         if (prev) void this.show(prev, null);
       };
       this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
+      if (this.timeline) {
+        const tl = head.createEl("button", { cls: "sg-lib-btn sg-lib-tl", text: "\u23F3" });
+        tl.setAttr("aria-label", "See it in the Timeline");
+        tl.onclick = () => {
+          const sub = this.timeline?.subjectFor(this.current.basename);
+          if (!sub) return;
+          const focus = this.timeline.focus;
+          this.close();
+          focus(sub);
+        };
+        this.tlBtn = tl;
+        window.setTimeout(() => this.tlBtn?.toggleClass(
+          "sg-lib-tl-off",
+          !this.timeline?.subjectFor(this.current.basename)
+        ), 450);
+      }
       if (this.openAsPage) {
         const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
         asPage.setAttr("aria-label", "Open as its own page");
@@ -8455,6 +8473,10 @@ ${body}
       this.current = file;
       this.sheetTitleEl.setText(file.basename);
       this.backBtn.toggleClass("sg-lib-back-off", this.history.length === 0);
+      this.tlBtn?.toggleClass(
+        "sg-lib-tl-off",
+        !this.timeline?.subjectFor(file.basename)
+      );
       this.bodyEl.empty();
       try {
         const md = await this.s.app.vault.cachedRead(file);

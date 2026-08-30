@@ -484,6 +484,15 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
                                   {"researcher": res_ver, "skeptic": skeptic_ver,
                                    "judge": judge_ver})
 
+    # ---- chronology proposals → timeline (deterministic gate; non-fatal) ----
+    try:
+        from scripturegraph.timeline import ingest_chronology
+        chron = ingest_chronology(ctx, cslug, [proposals["a"], proposals["b"]])
+        if chron.get("proposed"):
+            json_write(ws / "chronology.json", chron)
+    except Exception as e:  # noqa: BLE001 — the timeline must never sink a job
+        ctx.log.warn("research.chronology_failed", job=job_id, error=str(e)[:200])
+
     # ---- librarian (deterministic write phase, git transaction) ----
     set_status("librarian")
     ops = _librarian_ops(ctx, cslug, {"a": proposals["a"], "b": proposals["b"]}, judgment)

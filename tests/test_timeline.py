@@ -54,7 +54,7 @@ def test_organic_rebuild_only_on_change(mini_ctx):
     first = maybe_build_timeline(mini_ctx)
     assert first.get("rebuilt") is True
     second = maybe_build_timeline(mini_ctx)
-    assert second == {"skipped": "unchanged"}
+    assert second.get("skipped") == "unchanged"
     # dataset changes (simulated via the stored fingerprint) trigger a rebuild
     mini_ctx.meta_set("timeline:hash", "stale")
     third = maybe_build_timeline(mini_ctx)
@@ -82,3 +82,86 @@ def test_build_writes_pages_and_data(mini_ctx):
     assert len(data["events"]) == len(EVENTS)
     assert data["book_years"]["1ne"] == -595
     assert any(t["id"] == "nw-zeniff" for t in data["threads"])
+
+
+def _prop(items):
+    return {"claims": [], "candidate_links": [], "study_sections": {},
+            "chronology": items}
+
+
+def test_chronology_ingest_gate(mini_ctx):
+    """Research may PROPOSE events; the deterministic gate decides. Dates the
+    model invented (wrong window, wrong dating idiom, duplicates of the
+    curated roster) never reach the dataset."""
+    from scripturegraph.timeline import (dataset_hash, ingest_chronology,
+                                         maybe_build_timeline, merged_events)
+    base_hash = dataset_hash(mini_ctx)
+    maybe_build_timeline(mini_ctx)
+
+    good = {"title": "Alma names the church at Sidom", "year_start": -82,
+            "year_end": -82, "dating": "internal", "cat": ["turning"],
+            "basis": "the year markers around Alma 15 place this in the 10th "
+                     "year of the judges", "people": ["Alma the Younger"],
+            "places": ["Sidom"]}
+    wrong_dating = dict(good, title="Zeezrom healed of his burning fever",
+                        dating="historical")
+    wrong_window = dict(good, title="A completely different later event",
+                        year_start=600, year_end=600)
+    dupe = {"title": "The Anti-Nephi-Lehies bury their swords and weapons",
+            "year_start": -84, "year_end": -80, "dating": "internal",
+            "cat": ["turning"], "basis": "internal year markers in Alma 24"}
+    stats = ingest_chronology(
+        mini_ctx, "alma-15", [_prop([good, wrong_dating, wrong_window]), _prop([dupe])])
+    assert stats["stored"] == 1 and stats["rejected"] == 3
+
+    # the stored proposal joins the merged roster as a detail-tier moment
+    extra = [e for e in merged_events(mini_ctx) if e.get("src") == "research"]
+    assert len(extra) == 1 and extra[0]["imp"] == 3
+    assert extra[0]["t"] == good["title"]
+
+    # the fingerprint moved, so the next scheduled check rebuilds organically
+    assert dataset_hash(mini_ctx) != base_hash
+    assert maybe_build_timeline(mini_ctx).get("rebuilt") is True
+
+    # per-chapter cap: a second valid, distinct proposal fits; a third never
+    more = [{"title": "Aminadab points the Lamanites to prayer",
+             "year_start": -81, "year_end": -81, "dating": "internal",
+             "cat": ["visions"], "basis": "the year markers of the same span"},
+            {"title": "A third proposal past the cap for this chapter",
+             "year_start": -80, "year_end": -80, "dating": "internal",
+             "cat": ["records"], "basis": "internal year markers once more"}]
+    stats2 = ingest_chronology(mini_ctx, "alma-15", [_prop(more)])
+    assert stats2["stored"] == 1 and stats2["rejected"] == 1
+
+
+def test_entity_sections_sync(mini_ctx):
+    """Entity pages the chronology touches grow a maintained timeline
+    section — plural subject names resolve to their singular page, writes
+    are diff-gated, markers stay balanced."""
+    from scripturegraph.timeline import sync_entity_sections
+    from scripturegraph.util import now_iso, read_text
+    from scripturegraph.vaultgen import md
+    from scripturegraph.vaultgen.generate import record_file
+
+    db = mini_ctx.db()
+    nid, rel = "person:anti-nephi-lehi", "AI Library/30 People/Anti-Nephi-Lehi.md"
+    db.execute("INSERT INTO nodes(id,node_type,title,vault_path,created_at,updated_at) "
+               "VALUES(?,?,?,?,?,?)",
+               (nid, "person", "Anti-Nephi-Lehi", rel, now_iso(), now_iso()))
+    db.execute("INSERT INTO aliases(alias,node_id) VALUES(?,?)",
+               ("Anti-Nephi-Lehi", nid))
+    db.commit()
+    note = md.build_note({"ownership": "system", "mutable": "ai"},
+                         "# Anti-Nephi-Lehi\n\n## Overview\n"
+                         + md.marker_block("overview") + "\n")
+    record_file(mini_ctx, rel, "person", "librarian", nid, note)
+
+    stats = sync_entity_sections(mini_ctx)
+    assert stats["updated"] == 1
+    body = read_text(mini_ctx.vault / rel)
+    assert "## ⏳ In the Timeline" in body
+    assert "[[Alma 24]]" in body            # the buried-swords covenant
+    assert md.markers_balanced(md.parse_note(body)[1])
+
+    # unchanged world → no rewrite (organic runs stay quiet)
+    assert sync_entity_sections(mini_ctx)["updated"] == 0

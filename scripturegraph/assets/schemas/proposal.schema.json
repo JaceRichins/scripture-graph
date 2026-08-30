@@ -70,6 +70,25 @@
         }
       }
     },
+    "chronology": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["title", "year_start", "year_end", "dating", "basis", "cat"],
+        "properties": {
+          "title": {"type": "string", "minLength": 6, "maxLength": 90},
+          "year_start": {"type": "integer", "minimum": -4200, "maximum": 2100},
+          "year_end": {"type": "integer", "minimum": -4200, "maximum": 2100},
+          "dating": {"enum": ["traditional", "approximate", "internal", "historical"]},
+          "basis": {"type": "string", "minLength": 10, "maxLength": 300},
+          "cat": {"type": "array", "maxItems": 2, "items": {"enum": ["prophets", "rulers", "wars", "visions", "journeys", "temples", "records", "turning"]}},
+          "people": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 4},
+          "places": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 2},
+          "things": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 2}
+        }
+      }
+    },
     "topics": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 15},
     "people": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 20},
     "places": {"type": "array", "items": {"type": "string", "maxLength": 100}, "maxItems": 20},

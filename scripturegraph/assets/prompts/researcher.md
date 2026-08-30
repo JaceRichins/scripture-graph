@@ -34,7 +34,20 @@ IDs, verified index data, candidate connections). Produce:
    have something genuinely useful; concise, readable Markdown; wiki-style
    links [[like this]] only to titles in the vocabulary list or scripture
    chapter titles. Never invent note titles.
-4. **uncertainties / counterarguments** — say what you are not sure about.
+4. **chronology** (optional, 0–3 items) — dateable moments THIS chapter itself
+   narrates, for the vault's timeline. Only propose when the chapter clearly
+   contains a datable event; most chapters should propose none. Rules:
+   - years are integers, negative = BC; `dating` must be honest:
+     `internal` = the Book of Mormon's own year-markers (the ONLY basis for
+     BoM dates besides `approximate`); `traditional` / `approximate` /
+     `historical` for the Bible; `historical` for Restoration events.
+   - `basis` must name the actual dating evidence (the in-text year marker,
+     the scholarly convention, the section heading date). No basis, no item.
+   - `cat` from the fixed list; `people`/`places`/`things` use names exactly
+     as the chapter gives them. The orchestrator validates every item
+     mechanically (year windows, dating rules, duplicates) — an invented
+     date discredits the item.
+5. **uncertainties / counterarguments** — say what you are not sure about.
 
 Prefer depth and reliability over volume. A handful of excellent, verifiable
 contributions beats a long list of weak ones. If the chapter offers little for

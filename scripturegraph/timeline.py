@@ -362,6 +362,17 @@ EVENTS: list[dict] = [
       places=["Land of Nephi", "Middoni"],
       chapters=["Alma 17", "Alma 18", "Alma 24", "Alma 26"],
       note="enemies become the people who bury their weapons"),
+    E(id="anti-nephi-covenant", t="The Anti-Nephi-Lehies bury their swords",
+      y0=-84, y1=-77, lane="nw", imp=2, cat=["turning", "visions"],
+      dating="internal",
+      people=["Anti-Nephi-Lehi", "Anti-Nephi-Lehies", "Ammon", "Lamoni"],
+      chapters=["Alma 23", "Alma 24"],
+      note="swords buried deeper than graves — a covenant kept unto death"),
+    E(id="ammonites-jershon", t="The people of Ammon find refuge in Jershon",
+      y0=-77, y1=-77, lane="nw", imp=2, cat=["journeys"], dating="internal",
+      people=["Anti-Nephi-Lehies", "Ammon"], places=["Jershon"],
+      chapters=["Alma 27"],
+      note="converts the Nephites swore to defend"),
     E(id="korihor", t="Korihor demands a sign", y0=-74, y1=-74, lane="nw", imp=3,
       cat=["turning"], dating="internal", people=["Korihor", "Alma the Younger"],
       places=["Zarahemla"], chapters=["Alma 30"],
@@ -647,15 +658,16 @@ def _span_title(span: tuple[int, int]) -> str:
 
 
 def build_timeline(ctx) -> dict:
+    all_events = merged_events(ctx)
     # sanity: unique ids, sane years
-    ids = [e["id"] for e in EVENTS]
+    ids = [e["id"] for e in all_events]
     assert len(ids) == len(set(ids)), "duplicate event ids"
-    for e in EVENTS:
+    for e in all_events:
         assert e["y0"] <= e["y1"], e["id"]
 
     out_root = ctx.vault / OUTPUT_SUB
     by_century: dict[tuple[int, int], list[dict]] = {}
-    for e in EVENTS:
+    for e in all_events:
         span = _century_span(e["y0"])
         by_century.setdefault(span, []).append(e)
 
@@ -711,7 +723,7 @@ def build_timeline(ctx) -> dict:
 
     # dataset for the plugin's interactive view — markdown-wrapped JSON so
     # Obsidian Sync always carries it to every device
-    data = {"version": 2, "events": EVENTS, "book_years": BOOK_YEARS,
+    data = {"version": 2, "events": all_events, "book_years": BOOK_YEARS,
             "threads": THREADS}
     data_md = "\n".join([
         "---", "ownership: ai", "mutable: engine", "content_type: timeline-data",
@@ -737,27 +749,279 @@ def build_timeline(ctx) -> dict:
                 p.unlink()
                 pruned += 1
 
-    return {"events": len(EVENTS), "centuries": len(spans),
+    return {"events": len(all_events), "centuries": len(spans),
             "books_mapped": len(BOOK_YEARS), "pruned": pruned}
 
 
-def dataset_hash() -> str:
-    """content fingerprint of the chronology — changes iff the dataset does"""
+# ------------------------------------------------- organic growth (research)
+#
+# Research jobs may PROPOSE chronology items for the chapter they study.
+# Proposals are gated by deterministic validation only — year windows per
+# volume, dating-label rules per lane, title dedupe against the curated
+# roster, a hard per-chapter cap — and merge into the dataset as imp-3
+# detail-tier moments. The curated EVENTS stay the honest backbone; the
+# roster grows from the nightly research instead of by hand.
+
+_CAT_SET = {"prophets", "rulers", "wars", "visions", "journeys", "temples",
+            "records", "turning"}
+_DATING_BY_LANE = {
+    "nw": {"internal", "approximate"},
+    "ow": {"traditional", "approximate", "historical"},
+    "rs": {"historical", "approximate"},
+}
+_CHAPTER_EVENT_CAP = 2
+_TITLE_STOP = {"the", "a", "an", "of", "and", "in", "at", "to", "for",
+               "his", "her", "their", "is", "are"}
+
+
+def _book_lane_and_window(book_slug: str):
+    """lane + sane year window for a book's proposals; (None, None) = unknown."""
+    from .booksdata import BOOKS
+    book = next((b for b in BOOKS if b.slug == book_slug), None)
+    if not book:
+        return None, None
+    lane = {"Old Testament": "ow", "New Testament": "ow",
+            "Book of Mormon": "nw", "Doctrine and Covenants": "rs",
+            "Pearl of Great Price": "rs"}.get(book.volume)
+    # PGP carries ancient books alongside Restoration ones
+    lane = {"moses": "ow", "abr": "ow", "jsm": "ow"}.get(book_slug, lane)
+    if lane is None:
+        return None, None
+    window = {"ow": (-4100, -390), "nw": (-2300, 430), "rs": (1800, 1995)}[lane]
+    if book.volume == "New Testament" or book_slug == "jsm":
+        window = (-10, 110)
+    return lane, window
+
+
+def _title_tokens(t: str) -> set[str]:
+    import re
+    return {w for w in re.findall(r"[a-z]+", t.lower()) if w not in _TITLE_STOP}
+
+
+def _similar_title(a: str, b: str) -> bool:
+    ta, tb = _title_tokens(a), _title_tokens(b)
+    if not ta or not tb:
+        return False
+    return len(ta & tb) / min(len(ta), len(tb)) >= 0.6
+
+
+def _clean_names(raw, cap: int) -> list[str]:
+    out = []
+    for x in (raw or [])[:cap]:
+        s = str(x).strip()[:100]
+        if s:
+            out.append(s)
+    return out
+
+
+def ingest_chronology(ctx, chapter_slug: str, proposals: list[dict | None]) -> dict:
+    """Validate + store the chronology items research proposed for a chapter.
+    Deterministic gate; nothing here trusts a model's dates unchecked."""
     import hashlib
-    blob = json.dumps({"e": EVENTS, "b": BOOK_YEARS, "t": THREADS},
-                      sort_keys=True, ensure_ascii=False)
+
+    from .util import now_iso
+    db = ctx.db()
+    book_slug = chapter_slug.rsplit("-", 1)[0]
+    lane, window = _book_lane_and_window(book_slug)
+    stats = {"proposed": 0, "stored": 0, "rejected": 0}
+    if lane is None:
+        return stats
+    rows = db.execute("SELECT title FROM timeline_events WHERE chapter_slug=?",
+                      (chapter_slug,)).fetchall()
+    count = len(rows)
+    known_titles = [r["title"] for r in rows] + [e["t"] for e in EVENTS]
+    for prop in proposals:
+        for item in ((prop or {}).get("chronology") or [])[:3]:
+            stats["proposed"] += 1
+            title = str(item.get("title", "")).strip()
+            basis = str(item.get("basis", "")).strip()
+            dating = item.get("dating")
+            cats = [c for c in (item.get("cat") or []) if c in _CAT_SET][:2]
+            try:
+                y0, y1 = int(item["year_start"]), int(item["year_end"])
+            except (KeyError, TypeError, ValueError):
+                stats["rejected"] += 1
+                continue
+            ok = (6 <= len(title) <= 90 and len(basis) >= 10 and cats
+                  and y0 <= y1 and window[0] <= y0 and y1 <= window[1]
+                  and dating in _DATING_BY_LANE[lane]
+                  and count < _CHAPTER_EVENT_CAP
+                  and not any(_similar_title(title, t) for t in known_titles))
+            if not ok:
+                stats["rejected"] += 1
+                continue
+            eid = "r-" + chapter_slug + "-" + \
+                hashlib.sha1(title.lower().encode("utf-8")).hexdigest()[:8]
+            cur = db.execute(
+                "INSERT OR IGNORE INTO timeline_events(event_id,chapter_slug,"
+                "title,y0,y1,lane,dating,basis,cat_json,people_json,places_json,"
+                "things_json,status,provenance,created_at,updated_at) "
+                "VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+                (eid, chapter_slug, title, y0, y1, lane, dating, basis[:300],
+                 json.dumps(cats), json.dumps(_clean_names(item.get("people"), 4)),
+                 json.dumps(_clean_names(item.get("places"), 2)),
+                 json.dumps(_clean_names(item.get("things"), 2)),
+                 "tentative", "pass:research", now_iso(), now_iso()))
+            if cur.rowcount:
+                count += 1
+                stats["stored"] += 1
+                known_titles.append(title)
+    db.commit()
+    if stats["stored"]:
+        ctx.log.info("timeline.chronology", chapter=chapter_slug, **stats)
+    return stats
+
+
+def _research_events(ctx) -> list[dict]:
+    """Stored research proposals as timeline-event dicts (detail tier)."""
+    db = ctx.db()
+    try:
+        rows = db.execute(
+            "SELECT * FROM timeline_events WHERE status IN ('tentative','accepted') "
+            "ORDER BY chapter_slug, event_id").fetchall()
+    except Exception:  # noqa: BLE001 — a pre-migration db just has no proposals
+        return []
+    titles = {r["slug"]: r["title"] for r in
+              db.execute("SELECT slug, title FROM chapters").fetchall()}
+    out = []
+    for r in rows:
+        e = {"id": r["event_id"], "t": r["title"], "y0": r["y0"], "y1": r["y1"],
+             "lane": r["lane"], "imp": 3,
+             "cat": json.loads(r["cat_json"] or '["records"]'),
+             "dating": r["dating"], "src": "research",
+             "note": (r["basis"] or "surfaced by chapter research")}
+        chap = titles.get(r["chapter_slug"])
+        if chap:
+            e["chapters"] = [chap]
+        for key, col in (("people", "people_json"), ("places", "places_json"),
+                         ("things", "things_json")):
+            vals = json.loads(r[col] or "[]")
+            if vals:
+                e[key] = vals
+        out.append(e)
+    return out
+
+
+def merged_events(ctx) -> list[dict]:
+    """The full roster: curated backbone + validated research growth."""
+    return EVENTS + _research_events(ctx)
+
+
+# --------------------------------------------- entity pages ⇄ the timeline
+#
+# Every person/place/thing the chronology touches gets a maintained
+# `timeline` marker section on its own page — moments, chapter links, and
+# the century anchor — so entity pages, the timeline, and the reading
+# surfaces all nest into one graph instead of living in silos.
+
+_TL_SECTION = "timeline"
+
+
+def _subject_variants(name: str) -> list[str]:
+    out = [name]
+    if name.endswith("ies"):
+        out += [name[:-3] + "i", name[:-3] + "y"]
+    elif name.endswith("s"):
+        out.append(name[:-1])
+    return out
+
+
+def _resolve_subject(db, name: str) -> str | None:
+    for cand in _subject_variants(name):
+        r = db.execute("SELECT node_id FROM aliases WHERE alias=?", (cand,)).fetchone()
+        if r:
+            return r["node_id"]
+        r = db.execute("SELECT id FROM nodes WHERE title=?", (cand,)).fetchone()
+        if r:
+            return r["id"]
+    return None
+
+
+def sync_entity_sections(ctx) -> dict:
+    """Maintain the `timeline` marker section on every entity page the
+    chronology mentions. Deterministic, diff-gated; runs with every
+    scheduled timeline check so new entity pages pick up their moments
+    the night after they appear."""
+    from .util import read_text
+    from .vaultgen import md
+    from .vaultgen.generate import record_file
+    db = ctx.db()
+    stats = {"subjects": 0, "pages": 0, "updated": 0}
+    moments: dict[str, dict[str, dict]] = {}
+    for e in merged_events(ctx):
+        for kind in ("people", "places", "things"):
+            for name in e.get(kind, []):
+                nid = _resolve_subject(db, name)
+                if nid and not nid.startswith("chapter:"):
+                    moments.setdefault(nid, {})[e["id"]] = e
+    stats["subjects"] = len(moments)
+    for nid, by_id in moments.items():
+        reg = db.execute(
+            "SELECT path, kind, managed_by FROM file_registry WHERE node_id=? "
+            "AND kind IN ('person','place','event','topic')", (nid,)).fetchone()
+        if not reg:
+            continue
+        abspath = ctx.vault / reg["path"]
+        if not abspath.exists():
+            continue
+        stats["pages"] += 1
+        evs = sorted(by_id.values(), key=lambda e: (e["y0"], e["id"]))[:12]
+        lines = []
+        for e in evs:
+            year = _year_str(e["y0"]) if e["y0"] == e["y1"] else \
+                f"{_year_str(e['y0'])}–{_year_str(e['y1'])}"
+            line = f"- **{year}** — {e['t']}"
+            chaps = " · ".join(f"[[{c}]]" for c in e.get("chapters", [])[:3])
+            if chaps:
+                line += f" · {chaps}"
+            line += (f" · [[{_span_title(_century_span(e['y0']))}]]"
+                     f" *({DATING_MARK[e['dating']]})*")
+            lines.append(line)
+        lines += ["", "*Open the 🕰 Timeline from the navigator and Focus this "
+                      "name to walk the whole thread.*"]
+        new_inner = "\n".join(lines)
+        content = read_text(abspath)
+        fm, body = md.parse_note(content)
+        if md.get_section(body, _TL_SECTION) is not None:
+            if (md.get_section(body, _TL_SECTION) or "").strip() == new_inner.strip():
+                continue
+            body = md.set_section(body, _TL_SECTION, new_inner)
+        else:
+            body = (body.rstrip() + "\n\n## ⏳ In the Timeline\n"
+                    + md.marker_block(_TL_SECTION, new_inner) + "\n")
+        record_file(ctx, reg["path"], reg["kind"], reg["managed_by"], nid,
+                    md.build_note(fm, body))
+        stats["updated"] += 1
+    return stats
+
+
+def dataset_hash(ctx=None) -> str:
+    """content fingerprint of the chronology — changes iff the dataset does
+    (curated roster, book map, threads, AND stored research proposals)"""
+    import hashlib
+    payload = {"e": EVENTS, "b": BOOK_YEARS, "t": THREADS}
+    if ctx is not None:
+        payload["r"] = [dict(r) for r in _research_events(ctx)]
+    blob = json.dumps(payload, sort_keys=True, ensure_ascii=False)
     return hashlib.sha256(blob.encode("utf-8")).hexdigest()[:16]
 
 
 def maybe_build_timeline(ctx, force: bool = False) -> dict:
     """Regenerate the timeline ONLY when the chronology changed (or its
     output is missing) — called from the scheduled runs, so the timeline
-    stays current organically without nightly git churn."""
-    h = dataset_hash()
+    stays current organically without nightly git churn. Entity-page
+    timeline sections re-sync every call (diff-gated writes) because they
+    also depend on which entity pages exist by now."""
+    h = dataset_hash(ctx)
     data_file = ctx.vault / OUTPUT_SUB / "_data.md"
     if not force and ctx.meta_get("timeline:hash") == h and data_file.exists():
-        return {"skipped": "unchanged"}
-    stats = build_timeline(ctx)
-    ctx.meta_set("timeline:hash", h)
-    stats["rebuilt"] = True
+        stats: dict = {"skipped": "unchanged"}
+    else:
+        stats = build_timeline(ctx)
+        ctx.meta_set("timeline:hash", h)
+        stats["rebuilt"] = True
+    try:
+        stats["sections"] = sync_entity_sections(ctx)
+    except Exception as e:  # noqa: BLE001 — sections must never sink a run
+        ctx.log.warn("timeline.sections_failed", error=str(e)[:200])
     return stats

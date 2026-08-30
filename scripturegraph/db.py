@@ -375,6 +375,29 @@ CREATE TABLE IF NOT EXISTS sec_mentions (      -- referenced works / primary sou
     resolved_url TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_sec_mentions_item ON sec_mentions(item_id);
+
+-- research-proposed chronology: events the pipeline surfaced from chapters,
+-- deterministically validated (year windows, dating rules, dedupe) and merged
+-- into the timeline dataset as detail-tier moments — the roster grows itself
+CREATE TABLE IF NOT EXISTS timeline_events (
+    event_id     TEXT PRIMARY KEY,       -- r-<chapter>-<hash8>
+    chapter_slug TEXT NOT NULL,
+    title        TEXT NOT NULL,
+    y0           INTEGER NOT NULL,
+    y1           INTEGER NOT NULL,
+    lane         TEXT NOT NULL,          -- ow|nw|rs (derived from the book)
+    dating       TEXT NOT NULL,          -- traditional|approximate|internal|historical
+    basis        TEXT,                   -- the researcher's stated dating basis
+    cat_json     TEXT,
+    people_json  TEXT,
+    places_json  TEXT,
+    things_json  TEXT,
+    status       TEXT NOT NULL DEFAULT 'tentative',
+    provenance   TEXT,
+    created_at   TEXT,
+    updated_at   TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_timeline_events_chapter ON timeline_events(chapter_slug);
 """
 
 

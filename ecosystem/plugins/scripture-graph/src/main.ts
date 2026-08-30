@@ -479,6 +479,42 @@ export default class SGPlugin extends Plugin {
     await this.openTimeline(y);
   }
 
+  /** does this page name a subject the chronology knows? (entity sheets get
+   * a ⏳ door straight into that subject's focused timeline) */
+  private tlSubjects: Map<string, { kind: "people" | "places" | "things"; name: string }> | null = null;
+  private tlSubjectsAt = 0;
+
+  private async timelineSubjects(): Promise<Map<string, { kind: "people" | "places" | "things"; name: string }>> {
+    if (this.tlSubjects && Date.now() - this.tlSubjectsAt < 300_000) return this.tlSubjects;
+    const { loadTimelineData } = await import("./study/timelineView");
+    const data = await loadTimelineData(this.app);
+    const m = new Map<string, { kind: "people" | "places" | "things"; name: string }>();
+    for (const e of data?.events ?? []) {
+      for (const kind of ["people", "places", "things"] as const) {
+        for (const name of e[kind] ?? []) {
+          m.set(name.toLowerCase(), { kind, name });
+          // plural subjects resolve to their singular page and back
+          if (name.toLowerCase().endsWith("ies")) {
+            m.set(name.toLowerCase().slice(0, -3) + "i", { kind, name });
+          } else if (name.toLowerCase().endsWith("s")) {
+            m.set(name.toLowerCase().slice(0, -1), { kind, name });
+          }
+        }
+      }
+    }
+    this.tlSubjects = m;
+    this.tlSubjectsAt = Date.now();
+    return m;
+  }
+
+  /** jump to the timeline focused on one subject */
+  async openTimelineFocus(subject: { kind: "people" | "places" | "things"; name: string }): Promise<void> {
+    await this.openTimeline(null);
+    const leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0];
+    const view = leaf?.view;
+    if (view instanceof TimelineView) view.setFocus(subject);
+  }
+
   /** 📖 Volume → book → chapter in three taps; lands on My Study pages. */
   private openNavigator(): void {
     new SGNavigatorModal(this.app, {
@@ -541,7 +577,11 @@ export default class SGPlugin extends Plugin {
     const openAsPage = this.state.device.showAiLibrary
       ? (f: TFile) => { void this.app.workspace.getLeaf().openFile(f); }
       : null;
-    new LibraryPreviewModal(this.state, file, subpath, openAsPage).open();
+    void this.timelineSubjects();   // warm the cache for the sync lookup
+    new LibraryPreviewModal(this.state, file, subpath, openAsPage, {
+      subjectFor: (name) => this.tlSubjects?.get(name.toLowerCase()) ?? null,
+      focus: (subject) => void this.openTimelineFocus(subject),
+    }).open();
   }
 
   /** An AI Library page (other than scripture) just opened as a PAGE — bounce

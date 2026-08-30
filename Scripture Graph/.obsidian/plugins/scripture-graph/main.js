@@ -8744,11 +8744,12 @@ function sheetTargetFor(app, linktext, sourcePath) {
   return dest;
 }
 var LibraryPreviewModal = class extends import_obsidian3.Modal {
-  constructor(s, file, subpath, openAsPage) {
+  constructor(s, file, subpath, openAsPage, timeline = null) {
     super(s.app);
     this.s = s;
     this.subpath = subpath;
     this.openAsPage = openAsPage;
+    this.timeline = timeline;
     this.current = file;
   }
   comp = new import_obsidian3.Component();
@@ -8757,6 +8758,7 @@ var LibraryPreviewModal = class extends import_obsidian3.Modal {
   bodyEl;
   sheetTitleEl;
   backBtn;
+  tlBtn = null;
   onOpen() {
     registerSheet(this);
     this.modalEl.addClass("sg-lib-modal");
@@ -8771,6 +8773,22 @@ var LibraryPreviewModal = class extends import_obsidian3.Modal {
       if (prev) void this.show(prev, null);
     };
     this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
+    if (this.timeline) {
+      const tl = head.createEl("button", { cls: "sg-lib-btn sg-lib-tl", text: "\u23F3" });
+      tl.setAttr("aria-label", "See it in the Timeline");
+      tl.onclick = () => {
+        const sub = this.timeline?.subjectFor(this.current.basename);
+        if (!sub) return;
+        const focus = this.timeline.focus;
+        this.close();
+        focus(sub);
+      };
+      this.tlBtn = tl;
+      window.setTimeout(() => this.tlBtn?.toggleClass(
+        "sg-lib-tl-off",
+        !this.timeline?.subjectFor(this.current.basename)
+      ), 450);
+    }
     if (this.openAsPage) {
       const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
       asPage.setAttr("aria-label", "Open as its own page");
@@ -8806,6 +8824,10 @@ var LibraryPreviewModal = class extends import_obsidian3.Modal {
     this.current = file;
     this.sheetTitleEl.setText(file.basename);
     this.backBtn.toggleClass("sg-lib-back-off", this.history.length === 0);
+    this.tlBtn?.toggleClass(
+      "sg-lib-tl-off",
+      !this.timeline?.subjectFor(file.basename)
+    );
     this.bodyEl.empty();
     try {
       const md = await this.s.app.vault.cachedRead(file);
@@ -11454,6 +11476,38 @@ var SGPlugin = class extends import_obsidian19.Plugin {
     const y = data?.book_years?.[bookSlug] ?? null;
     await this.openTimeline(y);
   }
+  /** does this page name a subject the chronology knows? (entity sheets get
+   * a ⏳ door straight into that subject's focused timeline) */
+  tlSubjects = null;
+  tlSubjectsAt = 0;
+  async timelineSubjects() {
+    if (this.tlSubjects && Date.now() - this.tlSubjectsAt < 3e5) return this.tlSubjects;
+    const { loadTimelineData: loadTimelineData2 } = await Promise.resolve().then(() => (init_timelineView(), timelineView_exports));
+    const data = await loadTimelineData2(this.app);
+    const m = /* @__PURE__ */ new Map();
+    for (const e of data?.events ?? []) {
+      for (const kind of ["people", "places", "things"]) {
+        for (const name of e[kind] ?? []) {
+          m.set(name.toLowerCase(), { kind, name });
+          if (name.toLowerCase().endsWith("ies")) {
+            m.set(name.toLowerCase().slice(0, -3) + "i", { kind, name });
+          } else if (name.toLowerCase().endsWith("s")) {
+            m.set(name.toLowerCase().slice(0, -1), { kind, name });
+          }
+        }
+      }
+    }
+    this.tlSubjects = m;
+    this.tlSubjectsAt = Date.now();
+    return m;
+  }
+  /** jump to the timeline focused on one subject */
+  async openTimelineFocus(subject) {
+    await this.openTimeline(null);
+    const leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0];
+    const view = leaf?.view;
+    if (view instanceof TimelineView) view.setFocus(subject);
+  }
   /** 📖 Volume → book → chapter in three taps; lands on My Study pages. */
   openNavigator() {
     new SGNavigatorModal(this.app, {
@@ -11514,7 +11568,11 @@ var SGPlugin = class extends import_obsidian19.Plugin {
     const openAsPage = this.state.device.showAiLibrary ? (f) => {
       void this.app.workspace.getLeaf().openFile(f);
     } : null;
-    new LibraryPreviewModal(this.state, file, subpath, openAsPage).open();
+    void this.timelineSubjects();
+    new LibraryPreviewModal(this.state, file, subpath, openAsPage, {
+      subjectFor: (name) => this.tlSubjects?.get(name.toLowerCase()) ?? null,
+      focus: (subject) => void this.openTimelineFocus(subject)
+    }).open();
   }
   /** An AI Library page (other than scripture) just opened as a PAGE — bounce
    * back to where the reader was and float the content as a sheet instead.
