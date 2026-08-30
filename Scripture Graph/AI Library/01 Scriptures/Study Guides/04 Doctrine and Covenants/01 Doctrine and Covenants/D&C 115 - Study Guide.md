@@ -17,12 +17,12 @@ Scripture: [[D&C 115]] · My notes: [[D&C 115 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 115 moves from institutional identity and collective vocation to a concrete program of gathering and construction. It prescribes the church's name, commands its people to arise and shine as a standard for the nations, and describes [[Zion]] and its stakes as places of defense and refuge. Far West is declared holy and consecrated, and a house is commanded so the gathered Saints may worship. The closing verses direct the growth of Far West and the appointment of additional stakes, then state that Joseph Smith has received keys of the kingdom and ministry. That final statement reports the revelation's authority claim; it is not independent proof of divine conferral.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is: (1) recipients and the church's prescribed name, verses 1-4; (2) public light and protective gathering, verses 5-6; (3) Far West and the command to build a house, verses 7-8; (4) schedule and completion of the work, verses 9-12; (5) financial restraint, revealed pattern, and conditional acceptance, verses 13-16; and (6) expansion of Far West and surrounding stakes under Joseph Smith's direction, verses 17-19.
 <!-- SG:END structure -->
 
 ## People
@@ -47,23 +47,27 @@ _Not yet developed._
 - [[D&C 127]] — 3 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
 - [[D&C 136]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
-- [[D&C 95]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 95#^dc-95-11|D&C 95:11]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-3|D&C 115:3]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
-- [[D&C 124]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
 - [[D&C 126]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
+- [[D&C 90]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
+- [[D&C 70]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 70#^dc-70-1|D&C 70:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter brings [[Zion]], gathering, worship, and [[Obedience]] into a single administrative setting without making them interchangeable. Verse 6 speaks specifically of gathering the Saints upon Zion and its stakes; identifying this directly with the full doctrine of [[Gathering of Israel]] requires a broader theological context.
+
+The commanded house is intended for worship, and its acceptance is explicitly conditional on conformity to a pattern to be shown to the presidency (D&C 115:8, 14-16). This provides a strong contextual connection with [[Temples]], although the chapter itself consistently uses “house,” not “temple.” The people supply diligent labor while the presidency receives the promised pattern, joining communal participation with authorized direction.
+
+Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring additional debt for this project. A broader prudential lesson may be drawn as an application, but the verse does not establish a universal prohibition on debt. The closing reference to keys is relevant to [[Priesthood]] and the [[Kingdom of God]], while remaining an authority claim made within the revelation.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,25 +99,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The text repeatedly calls the proposed building a "house" or a "house unto my name" (verses 8, 10, 13-16); the word "temple" does not occur in the chapter. Reading the house as a temple is contextually natural, especially beside [[D&C 95]], [[D&C 97]], and [[D&C 124]], but that identification is an interpretation of the terminology rather than the chapter's explicit noun. Verse 5's combination of arising, shining, light, and nations strongly recalls [[Isaiah 60]], though it is not presented as a formal quotation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The discourse widens its audience from named leaders to worldwide membership in verses 1-3, then shifts into collective imperatives: arise, shine, gather, build, and labor. Repetition of "labor diligently" in verses 10 and 12 emphasizes sustained completion. The balanced alternatives in verses 15-16—failure or success in following the pattern—make acceptance explicitly conditional.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Primary Textual Evidence
+> Verse 4 is direct primary-text evidence that this revelation prescribes the designation The Church of Jesus Christ of Latter-day Saints for the church in the last days.
+> — strength 1.0 · confidence 1.0 · Unanimous and mechanically verified · [[Internal Primary Textual Evidence in D&C 115|full dossier]]
+
+> [!evidence] Textual And Administrative Specificity
+> The named recipients, specified location, phased schedule, financial constraint, construction standard, and provision for later expansion constitute strong textual evidence that the chapter presents itself as a concrete administrative directive rather than only a general devotional discourse.
+> — strength 0.9 · confidence 1.0 · Strong textual characterization; alternatives preserved · [[Textual And Administrative Specificity in D&C 115|full dossier]]
+
+> [!evidence] Institutional Self-Designation
+> Verse 4 is direct textual evidence that this revelation authorizes the institutional designation The Church of Jesus Christ of Latter-day Saints. It is not, by itself, evidence that every historical or informal usage immediately conformed to that designation.
+> — strength 1.0 · confidence 1.0 · Direct primary-text evidence with proper limits · [[Institutional Self-Designation in D&C 115|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+What kinds of protection are intended by the images of defense, refuge, storm, and wrath in verse 6—physical, spiritual, communal, eschatological, or some combination? Why does verse 13 restrict the debt instruction to three named leaders? What would the promised building pattern include, given that the chapter itself supplies no architectural details? How does the single command to gather relate to the simultaneous multiplication of stakes?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the sacred-building commands in [[D&C 95]], [[D&C 97]], and [[D&C 124]], attending to purpose, pattern, financing, deadlines, and conditions of acceptance. Compare D&C 115:5 with [[Isaiah 60]] to distinguish demonstrable verbal resemblance from stronger claims of direct quotation. Historical study would also be needed to determine the revelation's date, the calendar dates implied by verses 9-11, and the subsequent construction history; none of those details can be established from the chapter text alone.
 <!-- SG:END further-study -->
