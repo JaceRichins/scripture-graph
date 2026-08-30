@@ -1,5 +1,18 @@
 {
   "serverUrl": "http://192.168.1.59:8930",
   "defaultVisibility": "private",
-  "forceLibraryPreview": true
+  "forceLibraryPreview": true,
+  "chapterLinksToMyStudy": true,
+  "themes": [
+    {
+      "name": "Meekness",
+      "color": "yellow",
+      "style": "underline"
+    },
+    {
+      "name": "Pride",
+      "color": "yellow",
+      "style": "underline"
+    }
+  ]
 }
