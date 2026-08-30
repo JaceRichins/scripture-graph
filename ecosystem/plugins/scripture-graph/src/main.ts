@@ -8,6 +8,7 @@ import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder,
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { SGNavigatorModal } from "./study/navigator";
+import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -282,10 +283,17 @@ export default class SGPlugin extends Plugin {
     // Verse-anchored links ("Alma 36#^alma-36-18") keep opening canonical —
     // block anchors only exist there. Bare chapter links redirect to the
     // personal companion, which embeds the same scripture and is yours to edit.
+    // AI Library pages (topics, talks, people, evidence...) never navigate at
+    // all: they open as a floating sheet over the page being read.
     this.origOpenLinkText = this.app.workspace.openLinkText.bind(this.app.workspace);
     const orig = this.origOpenLinkText;
     this.app.workspace.openLinkText = (linktext: string, sourcePath: string,
       newLeaf?: unknown, openViewState?: unknown) => {
+      const sheet = sheetTargetFor(this.app, linktext, sourcePath);
+      if (sheet) {
+        this.openLibrarySheet(sheet, linktext.split("#")[1] ?? null);
+        return Promise.resolve();
+      }
       const redirect = this.companionForLink(linktext, sourcePath);
       return orig(redirect ?? linktext, sourcePath, newLeaf as never,
         openViewState as never);
@@ -454,8 +462,8 @@ export default class SGPlugin extends Plugin {
         return { folders, files };
       },
       openPath: (path) => {
-        const f = this.app.vault.getAbstractFileByPath(path);
-        if (f instanceof TFile) void this.app.workspace.getLeaf().openFile(f);
+        // through the wrapper: AI pages float as a sheet, scripture navigates
+        void this.app.workspace.openLinkText(path, "");
       },
     }).open();
   }
@@ -476,6 +484,14 @@ export default class SGPlugin extends Plugin {
     d.recentChapters = [{ slug, title, at: new Date().toISOString() },
       ...(d.recentChapters ?? []).filter(r => r.slug !== slug)].slice(0, 8);
     void this.state.saveDevice();
+  }
+
+  /** AI Library content floats over the reading page instead of replacing
+   * it; the sheet's ↗ is the deliberate power path to a real page. */
+  openLibrarySheet(file: TFile, subpath: string | null): void {
+    new LibraryPreviewModal(this.state, file, subpath, (f) => {
+      void this.app.workspace.getLeaf().openFile(f);
+    }).open();
   }
 
   /** After following a link away from a chapter, one labeled tap returns. */

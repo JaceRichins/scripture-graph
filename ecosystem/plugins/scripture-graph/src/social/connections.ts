@@ -171,8 +171,9 @@ export class ConnectionsModal extends Modal {
       });
       row.onclick = () => {
         this.close();
-        const f = this.s.app.vault.getAbstractFileByPath(conn.path);
-        if (f instanceof TFile) void this.s.app.workspace.getLeaf().openFile(f);
+        // through the wrapper on purpose: AI pages float as a sheet,
+        // personal pages navigate — one rule everywhere
+        void this.s.app.workspace.openLinkText(conn.path, "");
       };
     }
     if (this.conns.length > 14) {

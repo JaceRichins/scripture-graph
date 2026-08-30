@@ -7573,8 +7573,7 @@ ${body}
         });
         row.onclick = () => {
           this.close();
-          const f = this.s.app.vault.getAbstractFileByPath(conn.path);
-          if (f instanceof TFile) void this.s.app.workspace.getLeaf().openFile(f);
+          void this.s.app.workspace.openLinkText(conn.path, "");
         };
       }
       if (this.conns.length > 14) {

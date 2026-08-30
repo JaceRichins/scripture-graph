@@ -118,6 +118,33 @@ class MenuItem {
   }
 }
 
+// ---------------------------------------------------------------- Component
+export class Component {
+  load(): void { /* shim */ }
+  unload(): void { /* shim */ }
+  addChild<T>(c: T): T { return c; }
+}
+
+// The sheet only needs a plausible rendering for layout smoke tests
+export const MarkdownRenderer = {
+  render: async (_app: unknown, md: string, el: HTMLElement): Promise<void> => {
+    for (const block of md.split(/\n\n+/)) {
+      const line = block.trim();
+      if (!line) continue;
+      const h = /^(#{1,3})\s+(.*)$/.exec(line.split("\n")[0]!);
+      if (h) {
+        el.createEl(`h${h[1]!.length}` as "h2", { text: h[2]! });
+        const rest = line.split("\n").slice(1).join(" ").trim();
+        if (rest) el.createEl("p", { text: rest });
+      } else if (line.startsWith("---")) {
+        continue; // frontmatter-ish
+      } else {
+        el.createEl("p", { text: line.replace(/\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2") });
+      }
+    }
+  },
+};
+
 // -------------------------------------------------------------------- Modal
 export class Modal {
   contentEl: HTMLElement = document.createElement("div");

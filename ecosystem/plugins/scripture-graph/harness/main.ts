@@ -113,6 +113,28 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// library sheet: window.sgLib() renders a fake Gospel Topic over the page
+import { LibraryPreviewModal } from "../src/study/libraryPreview";
+(window as unknown as { sgLib: () => void }).sgLib = () => {
+  const fakeMd = [
+    "# Abrahamic Covenant",
+    "The covenant God made with Abraham — that through his seed all nations of the earth would be blessed — threads through every volume of scripture.",
+    "## Scriptural foundation",
+    "[[Genesis 12]] · [[Genesis 17]] · [[Abraham 2]] · [[Galatians 3]]",
+    "## From General Conference",
+    "Covenant belonging is not a minor doctrine; it is the doctrine.",
+  ].join("\n\n");
+  const fakeState = {
+    app: {
+      vault: { cachedRead: async () => fakeMd },
+      metadataCache: { getFirstLinkpathDest: () => null },
+      workspace: { openLinkText: () => log("sheet → navigate out") },
+    },
+  } as never;
+  const fakeFile = { basename: "Abrahamic Covenant", path: "AI Library/02 Gospel Topics/Abrahamic Covenant.md" } as never;
+  new LibraryPreviewModal(fakeState, fakeFile, null, () => log("sheet → open as page")).open();
+};
+
 // translations sheet: window.sgTrans() — KJV row real, others show fallback
 import { TranslationsModal } from "../src/study/translations";
 (window as unknown as { sgTrans: () => void }).sgTrans = () => {
