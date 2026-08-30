@@ -17,18 +17,18 @@ Scripture: [[2 Kings 8]] · My notes: [[2 Kings 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-The chapter contains four principal movements: the restoration of a vulnerable household (2 Kings 8:1–6), Hazael's violent rise in Damascus (2 Kings 8:7–15), Jehoram's troubled reign in Judah (2 Kings 8:16–24), and Ahaziah's alliance with the wounded Joram of Israel (2 Kings 8:25–29). Elisha's prophetic role shapes the first two movements. Hazael then reappears in the final war notice, creating a real connection between the Syrian episode and the royal history without proving that every part of the chapter was composed as one continuous arc. Judah is preserved for David's sake, but that preservation does not prevent corrupt leadership, revolt, territorial loss, or war.
+Four episodes make up the chapter: a displaced household receives restitution (8:1–6); Hazael learns that he will rule Syria and then kills Ben-hadad (8:7–15); Jehoram's corrupt reign brings territorial losses without extinguishing David's dynasty (8:16–24); and Ahaziah joins Joram's war against Hazael before visiting the wounded king at Jezreel (8:25–29). Elisha shapes the first half through warning, remembered miracle, revelation, and grief. Hazael links the Damascus episode with the closing war notice, while the final scene prepares [[2 Kings 9]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **The woman's return and restitution (8:1–6).** After obeying Elisha's famine warning, she returns as Gehazi recounts her son's restoration and receives her property and its produce.
+1. **Warning, return, and restitution (8:1–6).** The woman obeys Elisha's famine warning, returns after seven years, and petitions for her property just as Gehazi recounts her son's restoration.
 
-2. **Hazael and Ben-hadad (8:7–15).** A medical inquiry becomes an announcement of death, kingship, and future violence; Ben-hadad dies and Hazael succeeds him.
+2. **Revelation and regicide in Damascus (8:7–15).** Ben-hadad's medical inquiry becomes a disclosure of his death, Hazael's kingship, and violence against Israel. Hazael reports only recovery and then kills the king.
 
-3. **Jehoram of Judah (8:16–24).** Jehoram receives a negative theological evaluation, while the Davidic promise prevents Judah's destruction; Edom and Libnah nevertheless revolt.
+3. **Jehoram and a diminished Judah (8:16–24).** Marriage with Ahab's house accompanies a negative theological evaluation. The promise to David preserves the dynasty, although Edom and Libnah revolt.
 
-4. **Ahaziah and the war with Syria (8:25–29).** Another ruler tied to Ahab's house joins Joram against Hazael and visits the wounded king at Jezreel, preparing for [[2 Kings 9]].
+4. **Ahaziah, Joram, and Hazael (8:25–29).** Another Judahite king connected with Ahab's house joins Joram at Ramoth-gilead and later visits him at Jezreel.
 <!-- SG:END structure -->
 
 ## People
@@ -71,17 +71,16 @@ The chapter contains four principal movements: the restoration of a vulnerable h
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Covenants]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter distinguishes revelation from moral approval. Elisha knows that Hazael will become king, yet he calls the anticipated acts evil and weeps over their victims (2 Kings 8:11–13). The prediction neither commands the atrocities nor excuses Hazael's conduct, making the passage relevant to [[Prophecy]] and [[Agency]] without resolving every philosophical question about foreknowledge and responsibility.
+Elisha's knowledge of Hazael's future does not read as moral approval: he calls the anticipated acts evil and weeps over their victims (2 Kings 8:11–13). The passage is relevant to [[Prophecy]] and [[Agency]], but it does not fully resolve how foreknowledge, disclosure, causation, and human responsibility relate. Elisha gives no command to commit the violence, although his announcement of Hazael's kingship may have influenced what followed.
 
-Verses 18–22 place covenant preservation beside political loss. The LORD does not destroy Judah because of the promise to David, yet Edom and Libnah revolt during Jehoram's reign. The promise restrains total destruction; the text does not promise immunity from every consequence or explicitly identify each revolt as a direct divine punishment.
+Verses 18–22 place [[Covenants]] beside political loss. The LORD preserves Judah for David's sake, yet Edom and Libnah revolt during Jehoram's reign. The promise sustains David's line; it does not guarantee righteous rulers, stable borders, or immunity from consequences. The text does not explicitly identify each revolt as a direct divine punishment.
 
-The woman's action illustrates practical [[Obedience]]: she responds to Elisha's warning before the famine and later receives restitution. The episode does not establish a universal promise that obedience always produces an equally visible temporal reward.
+The woman's conduct illustrates practical [[Obedience]]: she acts on Elisha's warning before the famine and later petitions to recover her livelihood. Her restitution should not be converted into a universal promise that obedience always produces immediate material reward.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -96,49 +95,73 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The statement that the LORD had "called for a famine" personifies famine as something summoned to the land (v. 1). The language gives the disaster theological significance within the narrative, though it does not explain its natural mechanism.
+The statement that the LORD had "called for a famine" (2 Kings 8:1) personifies famine as something summoned upon the land. It gives the disaster theological significance within the narrative without describing its natural mechanism.
 
-The promised "light" for David and his children (v. 19) is a dynastic image: despite Jehoram's evil, David's line is not extinguished.
+The wording of 2 Kings 8:10 places possible recovery beside certain death. The underlying textual tradition is difficult, and recovery from disease followed by violent death is a plausible contextual reading rather than the only possible resolution.
 
-The forms Joram and Jehoram require special care. Joram son of Ahab rules Israel, while Jehoram son of Jehoshaphat rules Judah; the latter is also called Joram in verse 21.
+The promised "light" for David and his children (2 Kings 8:19) is a dynastic image: despite Jehoram's evil, David's royal line is not extinguished.
+
+The royal names require care. Joram son of Ahab rules Israel, while Jehoram son of Jehoshaphat rules Judah; the latter is also called Joram in verse 21. Verse 18 describes Jehoram's wife as Ahab's daughter, while verse 26 calls Ahaziah's mother Athaliah the daughter of Omri. Broader dynastic use of kinship language may explain the variation, but this chapter does not state the exact genealogy.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The opening episode uses a striking recognition scene: Gehazi is recounting the restoration of the woman's son just as the woman and son arrive (2 Kings 8:4–5). Their arrival validates her identity and assists her petition. The timing is central to the narrated scene, whether understood as providence, coincidence, traditional storytelling, or literary arrangement.
+The opening episode uses a recognition scene: Gehazi is recounting the restoration of the woman's son just as the woman and son arrive (2 Kings 8:4–5). Their presence confirms their identity and advances her petition. The timing is central to the narrated scene whether understood as providence, coincidence, traditional storytelling, or literary arrangement.
 
-The Hazael episode turns on disclosed and concealed knowledge. Ben-hadad asks whether he will recover; in the supplied wording Elisha speaks of both recovery and death; Hazael reports only recovery; and the king then dies through Hazael's action. The underlying wording of verse 10 is textually difficult, so recovery from disease followed by violent death should be presented as a plausible reading rather than a settled explanation.
+The Hazael episode turns on disclosed and concealed knowledge. In the supplied wording Elisha speaks of both recovery and death; Hazael reports only recovery; and the king then dies through Hazael's action. Because verse 10 is textually difficult, recovery from disease followed by violent death should be treated as a plausible reading rather than a settled explanation.
 
-Hazael's protest in verse 13 followed by his regicide creates irony, but the protest may concern low status or lack of royal power rather than moral incapacity. The chapter also contrasts a household restored through royal action with royal houses damaged by murder, corrupt alliance, revolt, and war; this is a suggestive thematic contrast, not a proven compositional scheme.
+Hazael's protest followed by the regicide creates irony, but the protest may concern horror, humble status, or lack of royal power. Hazael also links the Damascus account with the closing war notice. That recurrence creates real continuity without proving single authorship or a comprehensive compositional scheme.
+
+The restoration of a vulnerable household through royal action contrasts suggestively with royal houses marked by murder, corrupt alliance, revolt, and war. The contrast is useful literary interpretation, not an explicitly announced structure.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Literary Coherence
+> Hazael's appearance in both the Damascus narrative and the closing war notice gives the chapter a meaningful internal link: the man whose future violence Elisha foresees becomes the Syrian king fighting Israel and Judah. This supports reading the sections together, although it cannot establish that the whole chapter originated as a single composition.
+> — strength 0.7 · confidence 1.0 · literary connection accepted with stated limits · [[Literary Coherence in 2 Kings 8|full dossier]]
+
 > [!evidence] Internal Prediction-Fulfillment
 > Within the narrative, Elisha's announcement that Hazael will become king is followed immediately by Ben-hadad's death and Hazael's accession. This is strong evidence for a deliberate prediction-fulfillment pattern in the account.
 > — strength 0.9 · confidence 1.0 · strong internal literary pattern · [[Internal Prediction-Fulfillment in 2 Kings 8|full dossier]]
+
+> [!evidence] External Historical Attestation
+> Assyrian royal inscriptions independently name Hazael of Damascus as a major opponent of Shalmaneser III. This is strong evidence that Hazael was a historical Aramean ruler in the geopolitical setting presupposed by 2 Kings, while providing no direct verification of his encounter with Elisha or his killing of Ben-hadad.
+> — strength 0.8 · confidence 0.9 · broadly accepted external historical attestation · [[External Historical Attestation in 2 Kings 8|full dossier]]
+
+> [!evidence] Internal Genealogical Variation *(tentative)*
+> The chapter calls Jehoram's wife 'the daughter of Ahab' (8:18) but names Ahaziah's mother Athaliah as 'the daughter of Omri' (8:26). Since Ahab is elsewhere identified as Omri's son, these are either the same woman described with two different (and strictly speaking inconsistent) parentages, or 'daughter' is being used loosely to mean 'descendant/granddaughter,' a usage attested elsewhere in Hebrew genealogical language.
+> — strength 0.3 · confidence 0.6 · wording variation accepted; genealogical tension disputed
+
+> [!evidence] Textual Criticism *(tentative)*
+> 2 Kings 8:10 reports Elisha instructing Hazael to tell Ben-hadad he will 'certainly recover,' immediately followed by Elisha's private disclosure that Ben-hadad 'shall surely die.' The verse is widely regarded by textual critics as one of the most difficult readings in Kings, since the Hebrew consonantal text (traditionally read as a negative, 'he shall not recover') differs from the vocalized tradition followed by most English translations ('you may/shall recover'). The English rendering therefore already represents an interpretive choice among competing readings of the underlying text.
+> — strength 0.4 · confidence 0.6 · textual difficulty recognized; technical account insufficiently sourced
+
+> [!evidence] Text-Critical Comparison Across Parallel Accounts *(tentative)*
+> 2 Kings 8:26 gives Ahaziah's age at accession as twenty-two. The Chronicles parallel of the same king's accession (2 Chronicles 22:2) is textually disputed among ancient witnesses, with some manuscript traditions reportedly giving a different figure than Kings. If a higher figure were original there, it would make Ahaziah older than his own father Jehoram (who reportedly died at 40 per 2 Chronicles 21:20), which most commentators take as evidence of scribal number-corruption in the Chronicles textual tradition rather than a genuine chronological problem in 2 Kings 8 itself.
+> — strength 0.3 · confidence 0.6 · known transmission issue; witness details not verified here
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-1. Why does the narrator place Gehazi before the king without explaining whether this episode occurred before or after the events of [[2 Kings 5]]?
+1. Why does the narrator place Gehazi before the king without explaining how this appearance relates chronologically to his punishment in [[2 Kings 5]]?
 
-2. Does the order restoring the field's fruits reflect an established right, discretionary royal favor, or both?
+2. Does the order restoring the field's produce enforce a recognized right, grant discretionary royal favor, or combine both?
 
-3. How should the recovery statement and the declaration of death in 2 Kings 8:10 be related, especially given the verse's textual difficulty?
+3. How should the recovery statement and declaration of death in 8:10 be related?
 
-4. Who is the subject of the prolonged gaze in 2 Kings 8:11, and how does that identification affect the encounter?
+4. Who performs the prolonged gaze in 8:11, and how does that identification affect the encounter?
 
-5. What does Hazael mean by calling himself a dog: horror, self-abasement, disbelief about his power, or concealment?
+5. Does Hazael's reference to himself as a dog express moral horror, humble status, disbelief about his future power, or calculated concealment?
 
-6. Should the woman's timely arrival be read as providence, coincidence, literary arrangement, or some combination of these?
+6. Should the woman's timely arrival be read as providence, coincidence, literary arrangement, or some combination?
 
-7. How does Elisha's grief shape the moral interpretation of his prediction?
+7. How do Elisha's tears guide the reader's moral judgment of a prophecy that is subsequently fulfilled through human violence?
 
-8. Why is the promise to David placed immediately before the revolts of Edom and Libnah?
+8. Why does the narrator place the promise to David immediately before the revolts of Edom and Libnah?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Read the woman's earlier story in [[2 Kings 4]] and compare Gehazi's appearance here with [[2 Kings 5]]. Compare Hazael's accession with his earlier prophetic designation in [[1 Kings 19]], noting that 2 Kings 8 does not narrate Elijah anointing him, and follow Hazael's later oppression of Israel in [[2 Kings 13]]. Compare the Judahite regnal notices with [[2 Chronicles 21]] and [[2 Chronicles 22]]. Finally, continue with [[2 Kings 9]], where the presence of Joram and Ahaziah at Jezreel becomes decisive.
+Read the woman's earlier story in [[2 Kings 4]] and compare Gehazi's appearance here with [[2 Kings 5]]. Compare Hazael's accession with his earlier designation in [[1 Kings 19]], observing that 2 Kings 8 reports no anointing, and follow Hazael's later oppression of Israel in [[2 Kings 13]]. Compare the Judahite regnal accounts with [[2 Chronicles 21]] and [[2 Chronicles 22]]. Continue with [[2 Kings 9]], where Joram's wounds and Ahaziah's visit bring both kings into Jehu's path.
 <!-- SG:END further-study -->
