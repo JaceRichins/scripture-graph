@@ -3355,6 +3355,69 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-27-63d4e2c9",
+   "t": "Jeremiah urges submission after Jeconiah's deportation",
+   "y0": -597,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Verse 3 places the message in Zedekiah's reign, while verse 20 treats the deportation of Jeconiah and the nobles as past. Verse 1's reference to Jehoiakim creates a textual or chronological difficulty.",
+   "chapters": [
+    "Jeremiah 27"
+   ],
+   "people": [
+    "Jeremiah",
+    "King Zedekiah",
+    "Nebuchadnezzar",
+    "Jeconiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "yoke",
+    "temple vessels"
+   ]
+  },
+  {
+   "id": "r-jer-27-7fb5d825",
+   "t": "Jeremiah's yoke sign during Zedekiah's early reign",
+   "y0": -597,
+   "y1": -593,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Internal evidence (vv.3, 12, 20) situates the oracle after Nebuchadnezzar's 597 BC deportation of Jeconiah and during Zedekiah's reign, though v.1's heading names Jehoiakim.",
+   "chapters": [
+    "Jeremiah 27"
+   ],
+   "people": [
+    "Jeremiah",
+    "Zedekiah",
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "yoke",
+    "temple vessels"
+   ]
+  },
+  {
    "id": "r-jer-32-36341caf",
    "t": "Jeremiah's imprisonment and purchase of the field of Anathoth",
    "y0": -588,
