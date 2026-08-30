@@ -17,19 +17,19 @@ Scripture: [[D&C 132]] · My notes: [[D&C 132 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 132 moves through several related but distinguishable subjects: the eternal validity of covenants, [[Eternal Marriage]], exaltation and continuing posterity, biblical plural marriage, Joseph Smith's sealing authority, instructions to Emma Smith, and rules governing additional wives. Its recurrent thesis is that eternal efficacy depends on God's word, divine approval, and authorized [[Priesthood]] keys.
+D&C 132 moves through related but distinguishable subjects: the eternal validity of [[Covenants]], [[Eternal Marriage]], exaltation and continuing posterity, biblical plural marriage, Joseph Smith's sealing authority, commands to Emma Smith, and regulations for additional wives. Its recurrent internal thesis is that relationships endure beyond death only when established by God's word, divinely ratified, and administered through authorized [[Priesthood]].
 
-That internal thesis should not be confused with proof of divine authorization. The text asserts the authority by which its controversial practices are justified; historical and ethical evaluation must still ask whether the asserted revelation is credible and how its rules affected the people subject to them.
+That thesis is the chapter's asserted justification, not independent proof of divine authorization. Evaluation must separately consider whether the revelation claim is credible, whether its interpretations of earlier scripture are persuasive, and how the authority and sanctions described in the text affect its ethical claims.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Question and covenantal premise (vv. 1–14):** Joseph's inquiry about biblical polygamy opens into a general rule about divinely appointed and sealed covenants.
-2. **Three marriage cases (vv. 15–27):** temporal marriage, unauthorized purportedly eternal marriage, and authorized eternal sealing are contrasted.
-3. **Abraham and other biblical precedents (vv. 28–40):** the chapter interprets plural marriage through command, promise, posterity, and the Abrahamic test.
-4. **Adultery and Joseph's keys (vv. 41–50):** vows, innocence, sealing power, forgiveness, and Joseph's promised exaltation are addressed.
-5. **Instructions concerning Emma (vv. 51–57):** Emma is commanded to receive those given to Joseph, forgive him, and remain with him, under severe threatened sanctions.
-6. **Plural-marriage regulations (vv. 58–66):** consent, virginity, authorization, posterity, and the law of Sarah are specified, followed by notice that the disclosure is incomplete.
+1. **Question and covenantal premise (vv. 1–14):** A question about biblical polygamy opens into a general rule about divinely appointed and sealed covenants.
+2. **Three marriage cases (vv. 15–27):** Temporal marriage, unauthorized purportedly eternal marriage, and authorized eternal sealing are contrasted.
+3. **Biblical precedents (vv. 28–40):** Abraham, Sarah, Hagar, Isaac, Jacob, Moses, David, and Solomon are interpreted through command, posterity, and exceptional authorization.
+4. **Adultery and Joseph's authority (vv. 41–50):** Vows, innocence, reassignment, sealing power, forgiveness, and Joseph's promised exaltation are addressed.
+5. **Commands concerning Emma (vv. 51–57):** Emma is told to receive those given to Joseph, cleave to him, and forgive him; refusal is accompanied by a threat of destruction.
+6. **Plural-marriage regulations (vv. 58–66):** Consent, virginity, authorization, posterity, and the law of Sarah appear in a conditional legal sequence that ends by declaring the disclosure incomplete.
 <!-- SG:END structure -->
 
 ## People
@@ -59,34 +59,36 @@ _Not yet developed._
 - [[John 8]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-18|D&C 132:18]] ↔ [[John 8#^john-8-51|John 8:51]]
 - [[Abraham 2]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
 - [[Abraham 3]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
-- [[D&C 76]] — 3 parallel verses, e.g. [[D&C 132#^dc-132-26|D&C 132:26]] ↔ [[D&C 76#^dc-76-53|D&C 76:53]]
 - [[D&C 108]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
 - [[3 Nephi 14]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-22|D&C 132:22]] ↔ [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]]
 - [[D&C 105]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-51|D&C 132:51]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Matthew 22#^matt-22-30|Matthew 22:30]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Mark 12#^mark-12-25|Mark 12:25]]
+- [[Helaman 10]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-46|D&C 132:46]] ↔ [[Helaman 10#^hel-10-7|Helaman 10:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Eternal Marriage]]
 - [[Covenants]]
+- [[Angels]]
 - [[Sacrifice of Isaac (Akedah)]]
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
 - [[Eternal Life]] *(keyword match — unconfirmed)*
 - [[Chastity]] *(keyword match — unconfirmed)*
-- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter distinguishes a saved angelic condition from exaltation. Verses 16–17 describe persons whose marriages lack eternal force as saved but separate, while verses 19–24 associate exaltation with enduring covenantal union, God's presence, knowledge of God, divine glory, and continuing posterity. These teachings substantially develop [[Eternal Life]], [[Eternal Marriage]], and [[Kingdoms of Glory]].
+The chapter distinguishes a saved angelic condition from exaltation. Verses 16–17 describe persons whose marriages lack eternal force as saved but separate, while verses 19–24 associate exaltation with enduring covenantal union, God's presence, knowledge of God, divine glory, and continuing posterity — outcomes the text asserts without explaining their underlying metaphysics. These teachings substantially develop [[Eternal Life]], [[Eternal Marriage]], and [[Kingdoms of Glory]].
 
-Eternal efficacy is presented as requiring God's word, authorized [[Priesthood]], the Holy Spirit of promise, and the chapter's other stated conditions. The Holy Spirit language can reasonably be read as divine ratification distinct from administration, but the text does not explain how that ratification is recognized. Verse 26 also gives an unusually broad assurance of eventual exaltation after sins short of the specified murder while retaining severe sanctions; it should not be harmonized casually with simpler accounts of covenant fidelity.
+Eternal efficacy is presented as requiring God's word, authorized [[Priesthood]], the Holy Spirit of promise, and the chapter's other stated conditions. The Holy Spirit language can reasonably be read as divine ratification distinct from administration, but the text does not explain how that ratification is recognized or whether it can later be withdrawn.
 
-Plural marriage is justified through claimed divine command and an Abrahamic command-exception analogy. That describes the chapter's reasoning but does not independently verify the commands, demonstrate ethical adequacy, or establish that historical relationships complied with the stated rules.
+Verse 26 gives an unusually broad assurance of eventual exaltation after sins short of the specified murder, while still prescribing destruction in the flesh and buffetings of Satan; it should not be flattened into either unconditional salvation or a simple rule that every later transgression voids the sealing.
+
+Plural marriage is justified through claimed divine command and an Abrahamic command-exception analogy tied to the [[Sacrifice of Isaac (Akedah)]]. That explains the chapter's own reasoning; it does not independently verify the commands, demonstrate their ethical adequacy, or resolve the conflict of interest created when the authority announcing an exception also personally benefits from it.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -119,49 +121,65 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The referents of “this law,” “my law,” and “the new and everlasting covenant” require contextual care. Verses 15–19 use covenant language for a singular husband-and-wife case, while later verses apply law language to plural marriage. The chapter may move between a broad covenantal order and a particular plural-marriage application, but it supplies no glossary that removes the ambiguity. “Destroyed” is likewise undefined and should not automatically be assigned a physical, temporal, ecclesiastical, or eternal meaning.
+The referents of “this law,” “my law,” and “new and everlasting covenant” require contextual care. Verse 19 applies covenant language to one husband and one wife, while verses 61–65 apply law language to additional wives. The most cautious reading is that a broad covenantal system includes, but is not everywhere synonymous with, its plural-marriage application.
 
-The chapter repeatedly uses biblical language. D&C 132:24 closely reworks [[John 17]], and verses 22 and 25 adapt the narrow and broad ways found in [[Matthew 7]] and [[3 Nephi 14]]. Verse 30 evokes the stars-and-sand promises of the [[Abrahamic Covenant]]. These parallels establish scriptural intertextuality, not divine origin or moral legitimacy. Repeated terms such as “appointed,” “commanded,” “given,” “by my word,” and “sealed” form the chapter's principal justificatory vocabulary.
+“Destroyed” is undefined despite recurring in verses 41, 52, 54, 63, and 64. Nothing in this chapter alone determines whether it means physical death, temporal punishment, loss of blessings, ecclesiastical exclusion, or an eternal consequence.
+
+D&C 132:24 closely reworks [[John 17]], while verses 22 and 25 adapt the two-ways imagery of [[Matthew 7]] and [[3 Nephi 14]]. Verse 30 evokes the stars-and-sand imagery of the [[Abrahamic Covenant]]. These parallels demonstrate scriptural intertextuality, not divine origin or moral legitimacy.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter is organized more by cumulative legal contrasts than by narrative. Repeated conditional formulas—“if,” “if not,” “then”—classify covenants and relationships according to authority, fidelity, and promised consequences. Biblical precedents are then used as cases supporting that system.
+The chapter proceeds chiefly through cumulative legal contrasts rather than narrative. Repeated conditional formulas—"if," "if not," and "then"—classify relationships according to authorization, vows, fidelity, and consequences, with biblical figures serving as precedents within that constructed legal system.
 
-A notable change in address occurs at verse 40. General rules and ancient examples give way to direct commands about Joseph and Emma Smith. This movement from universal claims to an immediate marital conflict can be read either as applying a previously stated principle to a concrete case or as constructing a theological defense around that case.
+One notable device is naming a category only after first narrating its instance: "the law of Sarah" (v. 65) is introduced without definition and is intelligible only by cross-reference back to the Hagar narrative in v. 34 ("Sarah gave Hagar to Abraham... because this was the law"). The angels/gods contrast (vv. 17, 20) works similarly, built through verbatim repetition of the same term in opposite polarity within a few verses, giving these passages a courtroom-verdict cadence rather than a narrative one.
+
+A major shift occurs at verse 40: general rules and ancient precedents give way to commands directly affecting Joseph and Emma Smith. This can be read as applying the preceding principles to an immediate case, or as a theological defense built around that case; the text alone cannot decide between those readings.
+
+The Abraham-Isaac analogy gives the chapter a test-of-obedience frame. Because exceptional-command reasoning can override ordinary norms, its persuasiveness depends on a prior judgment that the claimed revelation and its messenger are trustworthy.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Literary Intertextuality
+> D&C 132:24 closely reworks John 17:3 by defining eternal life through knowing God and Jesus Christ. The close wording is strong evidence of deliberate scriptural intertextuality.
+> — strength 0.7 · confidence 0.8 · real but not mechanically corroborated · [[Literary Intertextuality in D&C 132|full dossier]]
+
 > [!evidence] Internal Textual Pattern
 > The repeated vocabulary of appointment, command, divine giving, law, word, and sealing is strong internal evidence that authorization is the chapter's organizing justificatory principle.
 > — strength 0.9 · confidence 1.0 · Strong internal evidence; external significance limited · [[Internal Textual Pattern in D&C 132|full dossier]]
+
+> [!evidence] Intertextual/Source-Critical
+> The claim in D&C 132:34 that God commanded the Hagar arrangement is an interpretive addition relative to Genesis 16, where the initiative is Sarah's alone and no divine command to Abraham is recorded; this is a documentable textual divergence between the two accounts.
+> — strength 0.6 · confidence 0.8 · accepted observation, honestly caveated · [[Intertextual/Source-Critical in D&C 132|full dossier]]
+
+> [!evidence] Ethical/Textual
+> The consent and sanction structure of verses 61-65 is asymmetric by sex: a husband's plural marriages are validated by an initial consent from the first wife and by divine appointment, while a wife's transgression (vv.63-64) triggers destruction with no parallel plural-spouse allowance offered to her.
+> — strength 0.7 · confidence 0.8 · disputed but textually well-grounded · [[Ethical/Textual in D&C 132|full dossier]]
 
 > [!evidence] Scriptural Intertextuality
 > The close use of biblical language and narratives is strong evidence of sustained scriptural intertextuality in the chapter.
 > — strength 1.0 · confidence 1.0 · Broad phenomenon undisputed; individual sources vary · [[Scriptural Intertextuality in D&C 132|full dossier]]
 
-> [!evidence] Internal Ethical And Legal Analysis
-> The grammar, sanctions, and allocation of decision-making power in verses 41–65 are strong textual evidence that the chapter's plural-marriage regulations are structurally gender-asymmetric and that the stated consent mechanism operates under coercive religious pressure.
-> — strength 0.9 · confidence 1.0 · Asymmetry observed; coercion is a strong ethical interpretation · [[Internal Ethical And Legal Analysis in D&C 132|full dossier]]
-
-> [!evidence] Internal Textual Qualification
-> Within the chapter's own theological framework, its repeated appeal to commandment, appointment, and what is 'given' constitutes strong textual evidence against reading it as an unrestricted authorization of plural marriage.
-> — strength 0.9 · confidence 0.9 · Strong internal reading with acknowledged limitations · [[Internal Textual Qualification in D&C 132|full dossier]]
+> [!evidence] Internal Authority Structure
+> The chapter identifies Joseph as the exclusive contemporary holder of sealing power, authorizes relationships that directly concern him, promises his exaltation, and commands others not to oppose him. This is strong textual evidence of a self-authorizing structure and a potential conflict of interest, regardless of whether the revelation claim is accepted.
+> — strength 0.8 · confidence 0.9 · most important critical-historical claim; well-hedged · [[Internal Authority Structure in D&C 132|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Does “new and everlasting covenant” have one fixed referent throughout the chapter, or does it name a broader covenantal order that includes eternal marriage and, in some passages, authorized plural marriage?
-- How should readers reconcile [[Jacob 2]]'s condemnation of David and Solomon with D&C 132:38–39's distinction between wives received from God and those not received from God?
-- What does “destroyed” mean in verses 41, 52, 54, 63, and 64? Whatever its precise referent, how does the threat affect the moral quality of the consent described in verse 61?
-- Genesis 16 does not narrate a divine command for Abraham to take Hagar. On what basis does D&C 132:34 supply that command?
-- How can claims of exceptional divine authorization be evaluated when the person announcing the exception also possesses the authority and receives direct personal benefit?
+- Does “new and everlasting covenant” retain one fixed referent throughout the chapter, or name a broader covenantal order containing several applications?
+- How should [[Jacob 2]]'s language about David and Solomon be reconciled, if at all, with D&C 132:38–39's authorized-versus-unauthorized distinction?
+- What does “destroyed” mean, and how does an undefined severe threat affect the moral quality of the consent mentioned in verse 61?
+- Why does D&C 132:34 report a divine command concerning Hagar when [[Genesis 16]] narrates Sarah's initiative without explicitly stating that command?
+- Is the Holy Spirit of promise an independent divine ratification, and if so, how could participants know it had occurred?
+- How should exceptional authorization be evaluated when the person announcing the exception holds the exclusive authority and receives direct personal benefit?
+- How does the first wife's consent in verse 61 relate to the refusal and exemption provisions in verses 64–65?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare D&C 132:24 with [[John 17]], and D&C 132:22,25 with both [[Matthew 7]] and [[3 Nephi 14]]. Read the Hagar argument beside [[Genesis 16]], which narrates Sarah's initiative without explicitly reporting the divine command supplied by D&C 132. Compare the Abrahamic-test reasoning with [[Genesis 22]], and the treatment of David, Nathan, Uriah, and David's wives with [[2 Samuel 11]] and [[2 Samuel 12]].
+Compare D&C 132:24 with [[John 17]], and verses 22 and 25 with [[Matthew 7]] and [[3 Nephi 14]]. Read the Hagar argument beside [[Genesis 16]], distinguishing what Genesis narrates from what D&C 132 adds. Compare the chapter's test-of-obedience reasoning with [[Genesis 22]].
 
-Read D&C 132:38–39 alongside [[Jacob 2]], where David and Solomon's many wives and concubines are condemned in broader language, and compare the marriage teaching with [[D&C 131]]. For another Restoration treatment of earthly acts having heavenly validity, consult [[D&C 128]]. These comparisons clarify textual relationships and tensions but do not establish revelation, historical compliance, or ethical legitimacy.
+Read D&C 132:38–39 beside [[Jacob 2]], including Jacob 2:30 rather than isolating only the condemnation. Examine the David, Nathan, Uriah, and Bathsheba claims with [[2 Samuel 11]] and [[2 Samuel 12]]. Compare the exaltation teaching with [[D&C 131]] and the earth-heaven binding language with [[D&C 128]]. These comparisons illuminate relationships and tensions but do not establish revelation, historical compliance, or ethical legitimacy.
 <!-- SG:END further-study -->
