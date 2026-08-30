@@ -40,6 +40,7 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 121#^dc-121-31|D&C 121:31]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
+- [[D&C 122]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,7 +100,21 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Geographical Specificity *(tentative)*
+> The Missouri River comparison gives the promise of revelation a concrete geographical image: obstructing knowledge from heaven is compared to trying to stop or reverse that river. This is modest evidence of situational specificity, not proof of when, where, or by whom the passage was composed.
+> — strength 0.2 · confidence 1.0 · accepted observation / disputed interpretation
+
+> [!evidence] Ethical And Literary Inference *(tentative)*
+> The transition from condemning persecutors to warning priesthood holders against domination is strong textual evidence that the chapter's moral critique is at least partly self-implicating: suffering injustice does not authorize the sufferer to exercise unjust power.
+> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation
+
+> [!evidence] Internal Literary Coherence *(tentative)*
+> The recurrence of knowledge and heavenly bestowal across verses 26–33 and 42–46 is meaningful internal evidence that the revelation and priesthood-influence passages can be read as thematically connected: legitimate heavenly power enlightens and distills rather than coerces.
+> — strength 0.7 · confidence 0.9 · accepted observation / disputed interpretation
+
+> [!evidence] Internal Normative Teaching *(tentative)*
+> As an internal normative standard, verses 36–46 strongly reject the proposition that priesthood office by itself legitimizes coercion. They make righteous conduct, noncompulsory influence, and the presence of the Spirit tests of legitimate priesthood exercise.
+> — strength 0.9 · confidence 1.0 · broadly accepted
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
