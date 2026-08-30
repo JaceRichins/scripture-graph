@@ -370,6 +370,9 @@ timeline module, not this file._
    "places": [
     "Sinai"
    ],
+   "things": [
+    "Ark of the Covenant"
+   ],
    "chapters": [
     "Exodus 40",
     "Leviticus 9"
@@ -414,6 +417,9 @@ timeline module, not this file._
    "places": [
     "Jordan River",
     "Gilgal"
+   ],
+   "things": [
+    "Ark of the Covenant"
    ],
    "chapters": [
     "Joshua 3",
@@ -580,6 +586,9 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ],
+   "things": [
+    "Ark of the Covenant"
    ],
    "chapters": [
     "1 Kings 6",
@@ -850,11 +859,82 @@ timeline module, not this file._
    "places": [
     "Jerusalem"
    ],
+   "things": [
+    "Brass Plates",
+    "Sword of Laban"
+   ],
    "chapters": [
     "1 Nephi 3",
     "1 Nephi 4"
    ],
    "note": "scripture carried to a new world"
+  },
+  {
+   "id": "liahona-found",
+   "t": "The Liahona appears at Lehi's tent door",
+   "y0": -599,
+   "y1": -599,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "people": [
+    "Lehi"
+   ],
+   "things": [
+    "Liahona"
+   ],
+   "chapters": [
+    "1 Nephi 16"
+   ],
+   "note": "a compass that works by faith"
+  },
+  {
+   "id": "large-plates-made",
+   "t": "Nephi makes the large plates",
+   "y0": -590,
+   "y1": -590,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "internal",
+   "people": [
+    "Nephi"
+   ],
+   "things": [
+    "Large Plates of Nephi"
+   ],
+   "chapters": [
+    "1 Nephi 19"
+   ],
+   "note": "the full history begins"
+  },
+  {
+   "id": "small-plates-made",
+   "t": "Nephi makes the small plates",
+   "y0": -570,
+   "y1": -570,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "records"
+   ],
+   "dating": "internal",
+   "people": [
+    "Nephi"
+   ],
+   "things": [
+    "Small Plates of Nephi"
+   ],
+   "chapters": [
+    "1 Nephi 9",
+    "2 Nephi 5"
+   ],
+   "note": "for a wise purpose he did not yet know"
   },
   {
    "id": "jeremiah-dungeon",
@@ -1049,6 +1129,109 @@ timeline module, not this file._
     "Jacob 7"
    ],
    "note": "the first anti-Christ answered"
+  },
+  {
+   "id": "plates-handed-down",
+   "t": "The small plates pass father to son",
+   "y0": -544,
+   "y1": -130,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "internal",
+   "people": [
+    "Jacob (BoM)",
+    "Enos",
+    "Jarom",
+    "Omni",
+    "Amaleki"
+   ],
+   "things": [
+    "Small Plates of Nephi"
+   ],
+   "chapters": [
+    "Jacob 1",
+    "Jarom 1",
+    "Omni 1"
+   ],
+   "note": "four centuries of shrinking entries — and unbroken custody"
+  },
+  {
+   "id": "records-united",
+   "t": "Amaleki gives the small plates to King Benjamin",
+   "y0": -130,
+   "y1": -130,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "internal",
+   "people": [
+    "Amaleki",
+    "King Benjamin"
+   ],
+   "things": [
+    "Small Plates of Nephi",
+    "Large Plates of Nephi"
+   ],
+   "chapters": [
+    "Omni 1",
+    "Words of Mormon 1"
+   ],
+   "note": "both record lines now travel together"
+  },
+  {
+   "id": "ether-plates-found",
+   "t": "Limhi's men find twenty-four gold plates",
+   "y0": -121,
+   "y1": -121,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "internal",
+   "people": [
+    "Limhi",
+    "Ammon (of Zarahemla)"
+   ],
+   "things": [
+    "Plates of Ether"
+   ],
+   "chapters": [
+    "Mosiah 8",
+    "Mosiah 21"
+   ],
+   "note": "a destroyed nation's story, waiting in the ruins"
+  },
+  {
+   "id": "mosiah-translates",
+   "t": "Mosiah translates the Jaredite record",
+   "y0": -92,
+   "y1": -92,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "records",
+    "visions"
+   ],
+   "dating": "internal",
+   "people": [
+    "Mosiah II"
+   ],
+   "things": [
+    "Plates of Ether",
+    "Urim and Thummim"
+   ],
+   "chapters": [
+    "Mosiah 28",
+    "Ether 1"
+   ],
+   "note": "by the interpreters prepared from the beginning"
   },
   {
    "id": "second-temple",
@@ -1465,6 +1648,9 @@ timeline module, not this file._
     "Amalickiah",
     "Teancum",
     "Pahoran"
+   ],
+   "things": [
+    "Title of Liberty"
    ],
    "places": [
     "Zarahemla",
@@ -2120,6 +2306,32 @@ timeline module, not this file._
    "note": "a boy general in a dying nation — and its historian"
   },
   {
+   "id": "mormon-abridges",
+   "t": "Mormon abridges a thousand years onto gold plates",
+   "y0": 380,
+   "y1": 384,
+   "lane": "nw",
+   "imp": 1,
+   "cat": [
+    "records"
+   ],
+   "dating": "internal",
+   "people": [
+    "Mormon"
+   ],
+   "things": [
+    "Gold Plates",
+    "Large Plates of Nephi",
+    "Small Plates of Nephi"
+   ],
+   "chapters": [
+    "Words of Mormon 1",
+    "3 Nephi 5",
+    "Mormon 6"
+   ],
+   "note": "he attaches the small plates whole — the wise purpose revealed"
+  },
+  {
    "id": "cumorah",
    "t": "The last battle at Cumorah",
    "y0": 385,
@@ -2137,6 +2349,9 @@ timeline module, not this file._
    ],
    "places": [
     "Cumorah"
+   ],
+   "things": [
+    "Gold Plates"
    ],
    "chapters": [
     "Mormon 6",
@@ -2158,12 +2373,16 @@ timeline module, not this file._
    "people": [
     "Moroni (son of Mormon)"
    ],
+   "things": [
+    "Gold Plates",
+    "Plates of Ether"
+   ],
    "chapters": [
     "Mormon 8",
     "Ether 12",
     "Moroni 10"
    ],
-   "note": "I write unto you as if ye were present"
+   "note": "he abridges Ether, seals the book, and buries it in Cumorah"
   },
   {
    "id": "first-vision",
@@ -2231,10 +2450,74 @@ timeline module, not this file._
    "places": [
     "Cumorah"
    ],
+   "things": [
+    "Gold Plates",
+    "Urim and Thummim"
+   ],
    "chapters": [
     "Joseph Smith—History 1"
    ],
    "note": "four years of schooling first"
+  },
+  {
+   "id": "translation",
+   "t": "The translation by gift and power",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 1,
+   "cat": [
+    "records",
+    "visions"
+   ],
+   "dating": "historical",
+   "people": [
+    "Joseph Smith Jr",
+    "Oliver Cowdery",
+    "Martin Harris"
+   ],
+   "places": [
+    "Harmony",
+    "Fayette"
+   ],
+   "things": [
+    "Gold Plates",
+    "Urim and Thummim"
+   ],
+   "chapters": [
+    "D&C 3",
+    "D&C 10",
+    "Joseph Smith—History 1"
+   ],
+   "note": "most of the book in about sixty-five working days"
+  },
+  {
+   "id": "witnesses",
+   "t": "The Three and the Eight see the plates",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 2,
+   "cat": [
+    "visions",
+    "records"
+   ],
+   "dating": "historical",
+   "people": [
+    "Oliver Cowdery",
+    "David Whitmer",
+    "Martin Harris"
+   ],
+   "places": [
+    "Fayette"
+   ],
+   "things": [
+    "Gold Plates"
+   ],
+   "chapters": [
+    "D&C 17"
+   ],
+   "note": "an angel turns the leaves; eleven names sign forever"
   },
   {
    "id": "priesthood-restored",
@@ -2282,6 +2565,9 @@ timeline module, not this file._
    "places": [
     "Palmyra",
     "Fayette"
+   ],
+   "things": [
+    "Gold Plates"
    ],
    "chapters": [
     "D&C 20",
