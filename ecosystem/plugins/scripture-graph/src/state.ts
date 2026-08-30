@@ -59,6 +59,8 @@ export interface DeviceState {
   lastTheme: string | null;
   /** show the interaction-trace overlay (debugging aid) */
   debugOverlay: boolean;
+  /** StudyBar: styles & themes row expanded (simple bar by default) */
+  barExpanded: boolean;
   /** last chapter opened — powers "Continue reading" in the navigator */
   lastChapter: { slug: string; title: string } | null;
   /** parallel studies: the last few distinct chapters, most recent first */
@@ -85,6 +87,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   lastStyle: "highlight",
   lastTheme: null,
   debugOverlay: false,
+  barExpanded: false,
   lastChapter: null,
   recentChapters: [],
   showAiLibrary: false,

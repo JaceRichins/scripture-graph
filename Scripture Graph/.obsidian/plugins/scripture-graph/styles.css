@@ -1066,20 +1066,16 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   border-radius: 14px; padding: 6px 14px; font-size: 0.9em; font-weight: 600;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.3);
 }
-/* colors + text styles share ONE compact line, split by a hairline */
-.sg-studybar-marks {
-  display: flex; align-items: center; justify-content: center; gap: 10px;
+.sg-studybar-colors {
+  display: flex; gap: 13px; justify-content: center; align-items: center;
+  padding: 2px 0;
 }
-.sg-studybar-colors, .sg-studybar-styles {
-  display: flex; gap: 7px; justify-content: center; align-items: center;
-}
-.sg-mark-divider {
-  width: 1px; height: 22px; flex: 0 0 1px;
-  background: color-mix(in srgb, var(--background-modifier-border) 85%, transparent);
+.sg-studybar-styles {
+  display: flex; gap: 10px; justify-content: center; align-items: center;
 }
 .sg-dot {
-  flex: 0 0 30px; width: 30px; height: 30px; border-radius: 50%;
-  border: 2px solid transparent; box-shadow: none; padding: 0;
+  flex: 0 0 36px; width: 36px; height: 36px; border-radius: 50%;
+  border: 2.5px solid transparent; box-shadow: none; padding: 0;
 }
 .sg-studybar-ref {
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0;
@@ -1090,9 +1086,16 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
 .sg-dot-blue   { background: #52a9ff; }
 .sg-dot-pink   { background: #f76bb0; }
 .sg-dot-orange { background: #ff9f45; }
+.sg-bar-disclose { /* the quiet door to styles & themes */
+  display: flex; align-items: center; justify-content: center; gap: 6px;
+  width: 100%; padding: 4px 0 5px;
+  background: transparent; border: none; box-shadow: none;
+  color: var(--text-faint); font-size: 0.8em; font-weight: 600;
+}
+.sg-bar-disclose-chev { font-size: 1.05em; line-height: 1; }
 .sg-style-chip {
-  flex: 0 0 30px; width: 30px; height: 30px; border-radius: 9px; padding: 0;
-  background: var(--background-secondary); box-shadow: none; font-size: 14px;
+  flex: 0 0 36px; width: 36px; height: 36px; border-radius: 10px; padding: 0;
+  background: var(--background-secondary); box-shadow: none; font-size: 15px;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
 }
 .sg-style-on {
@@ -1101,33 +1104,28 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   background: color-mix(in srgb, var(--text-normal) 14%, var(--background-secondary));
 }
 .sg-studybar-themes {
-  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  display: flex; gap: 7px; overflow-x: auto; scrollbar-width: none;
   padding: 1px 2px 3px;
   /* the scroll edge fades out instead of chopping a chip in half */
   -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
   mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
 }
 .sg-theme-chip {
-  font-size: 0.78em; padding: 3px 10px 4px; border-radius: 10px; white-space: nowrap;
+  font-size: 0.84em; padding: 5px 12px 6px; border-radius: 12px; white-space: nowrap;
   background: var(--background-secondary); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent);
 }
 .sg-theme-add { opacity: 0.75; }
-.sg-studybar-actions { display: flex; gap: 6px; }
+.sg-studybar-actions { display: flex; gap: 8px; justify-content: center; }
 .sg-studybar-actions button {
-  flex: 1 1 0; min-width: 0;
-  display: flex; flex-direction: column; align-items: center; gap: 1px;
-  padding: 6px 0 5px;
-  border-radius: 12px; background: var(--background-secondary);
+  flex: 1 1 auto; min-width: 0;
+  min-height: 42px; padding: 0 10px;
+  font-size: 0.88em; font-weight: 600;
+  border-radius: 13px; background: var(--background-secondary);
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
-  box-shadow: none;
+  box-shadow: none; white-space: nowrap;
 }
-.sg-act-ico { font-size: 1.05em; line-height: 1.2; }
-.sg-act-lbl {
-  font-size: 0.62em; font-weight: 600; line-height: 1.1;
-  color: var(--text-muted);
-  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 100%;
-}
+.sg-act-more { flex: 0 0 46px; padding: 0; font-size: 1.2em; letter-spacing: 1px; }
 .sg-studybar-actions button:active { transform: scale(0.96); }
 .sg-dot:active, .sg-theme-chip:active, .sg-style-chip:active { transform: scale(0.92); }
 .sg-dot, .sg-theme-chip, .sg-style-chip, .sg-studybar-actions button {

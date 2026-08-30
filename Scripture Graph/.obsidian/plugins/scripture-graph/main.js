@@ -7219,6 +7219,7 @@ var init_studyBar = __esm({
           this.s.device.lastColor,
           this.s.device.lastStyle,
           this.s.device.lastTheme,
+          this.s.device.barExpanded,
           (this.s.settings.themes ?? []).length
         ]);
         if (sig === this.lastSig && this.barEl) return;
@@ -7237,8 +7238,7 @@ var init_studyBar = __esm({
         scopeChip.onclick = (e) => this.pickScope(e);
         const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
         close.onclick = () => this.clear();
-        const marks = bar.createDiv({ cls: "sg-studybar-marks" });
-        const colors = marks.createDiv({ cls: "sg-studybar-colors" });
+        const colors = bar.createDiv({ cls: "sg-studybar-colors" });
         for (const c of COLORS) {
           const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
           dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
@@ -7249,60 +7249,74 @@ var init_studyBar = __esm({
           dot.setAttribute("aria-label", `Mark ${c}`);
           dot.onclick = () => void this.doHighlight(c);
         }
-        marks.createDiv({ cls: "sg-mark-divider" });
-        const styleRow = marks.createDiv({ cls: "sg-studybar-styles" });
-        const styles = [
-          ["highlight", "\u{1F58D}"],
-          ["underline", "U\u0332"],
-          ["bold", "B"],
-          ["italic", "I"]
-        ];
-        for (const [key, label] of styles) {
-          const chip = styleRow.createEl("button", { cls: "sg-style-chip", text: label });
-          if (key === "bold") chip.style.fontWeight = "800";
-          if (key === "italic") chip.style.fontStyle = "italic";
-          if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
-          chip.setAttribute("aria-label", `${key} style`);
-          chip.onclick = () => {
-            this.s.device.lastStyle = key;
-            this.s.device.lastTheme = null;
-            void this.s.saveDevice();
-            this.render();
-          };
+        const expanded = this.s.device.barExpanded;
+        const disclose = bar.createEl("button", { cls: "sg-bar-disclose" });
+        disclose.createSpan({ text: "Styles & themes" });
+        disclose.createSpan({ cls: "sg-bar-disclose-chev", text: expanded ? "\u2304" : "\u203A" });
+        disclose.onclick = () => {
+          this.s.device.barExpanded = !expanded;
+          void this.s.saveDevice();
+          this.render();
+        };
+        if (expanded) {
+          const styleRow = bar.createDiv({ cls: "sg-studybar-styles" });
+          const styles = [
+            ["highlight", "\u{1F58D}"],
+            ["underline", "U\u0332"],
+            ["bold", "B"],
+            ["italic", "I"]
+          ];
+          for (const [key, label] of styles) {
+            const chip = styleRow.createEl("button", { cls: "sg-style-chip", text: label });
+            if (key === "bold") chip.style.fontWeight = "800";
+            if (key === "italic") chip.style.fontStyle = "italic";
+            if (key === (this.s.device.lastStyle || "highlight")) chip.addClass("sg-style-on");
+            chip.setAttribute("aria-label", `${key} style`);
+            chip.onclick = () => {
+              this.s.device.lastStyle = key;
+              this.s.device.lastTheme = null;
+              void this.s.saveDevice();
+              this.render();
+            };
+          }
+          const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+          const customs = (this.s.settings.themes ?? []).filter((t) => !THEME_LIBRARY.some((l) => l.name.toLowerCase() === t.name.toLowerCase())).map((t) => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
+          const chipByName = /* @__PURE__ */ new Map();
+          for (const sp of [...THEME_LIBRARY, ...customs]) {
+            const chip = trow.createEl("button", {
+              cls: "sg-theme-chip",
+              text: `${sp.emoji} ${sp.name}`
+            });
+            chip.style.borderBottom = `2px solid ${sp.c1}`;
+            chipByName.set(sp.name.toLowerCase(), chip);
+            chip.onclick = () => void this.doTheme(sp);
+          }
+          const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B own" });
+          add.onclick = () => this.saveThemePrompt();
+          void this.markActiveThemeChips(chipByName);
         }
-        const trow = bar.createDiv({ cls: "sg-studybar-themes" });
-        const customs = (this.s.settings.themes ?? []).filter((t) => !THEME_LIBRARY.some((l) => l.name.toLowerCase() === t.name.toLowerCase())).map((t) => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
-        const chipByName = /* @__PURE__ */ new Map();
-        for (const sp of [...THEME_LIBRARY, ...customs]) {
-          const chip = trow.createEl("button", {
-            cls: "sg-theme-chip",
-            text: `${sp.emoji} ${sp.name}`
-          });
-          chip.style.borderBottom = `2px solid ${sp.c1}`;
-          chipByName.set(sp.name.toLowerCase(), chip);
-          chip.onclick = () => void this.doTheme(sp);
-        }
-        const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B own" });
-        add.onclick = () => this.saveThemePrompt();
-        void this.markActiveThemeChips(chipByName);
         const row = bar.createDiv({ cls: "sg-studybar-actions" });
-        const act = (icon, label, fn) => {
-          const b = row.createEl("button");
-          b.createDiv({ cls: "sg-act-ico", text: icon });
-          b.createDiv({ cls: "sg-act-lbl", text: label });
+        const act = (label, fn) => {
+          const b = row.createEl("button", { text: label });
           b.onclick = fn;
         };
-        act("\u{1F4DD}", "Note", () => this.doNote());
-        act("\u{1F0CF}", "Card", () => void this.doFlashcard());
-        act("\u{1F578}", "Graph", () => void this.openGraph());
-        act("\u{1F4CB}", "Copy", () => void this.doCopy());
-        act("\u2728", "AI", () => this.doAsk());
+        act("\u{1F4DD} Note", () => this.doNote());
+        act("\u{1F0CF} Card", () => void this.doFlashcard());
         const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
         if (firstSel && isBiblical(firstSel.verseId)) {
-          act("\u{1F310}", "Versions", () => {
+          act("\u{1F310} Versions", () => {
             new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
           });
         }
+        const more = row.createEl("button", { cls: "sg-act-more", text: "\u22EF" });
+        more.setAttribute("aria-label", "More actions");
+        more.onclick = (e) => {
+          const menu = new import_obsidian6.Menu();
+          menu.addItem((i) => i.setTitle("\u{1F578} Connections graph").onClick(() => void this.openGraph()));
+          menu.addItem((i) => i.setTitle("\u{1F4CB} Copy verse").onClick(() => void this.doCopy()));
+          menu.addItem((i) => i.setTitle("\u2728 Ask AI").onClick(() => this.doAsk()));
+          menu.showAtMouseEvent(e);
+        };
       }
       pickScope(e) {
         const menu = new import_obsidian6.Menu();
@@ -7517,6 +7531,7 @@ var DEFAULT_DEVICE = {
   lastStyle: "highlight",
   lastTheme: null,
   debugOverlay: false,
+  barExpanded: false,
   lastChapter: null,
   recentChapters: [],
   showAiLibrary: false,
