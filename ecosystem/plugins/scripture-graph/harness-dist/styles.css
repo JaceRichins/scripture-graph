@@ -1620,3 +1620,26 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
 .is-mobile .sg-reader { padding: 8px 10px 60px; }
 .is-mobile .sg-lens-bar { overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }
 .is-mobile .sg-turn-user { margin-left: 6%; }
+/* ðŸ”Ž Navigator smart search (agent A) â€” rides the sg-nav design language */
+.sg-nav-search {
+  margin-bottom: 10px; font-size: 1em;
+}
+.sg-nav-searchhost { display: flex; flex-direction: column; gap: 6px; }
+.sg-nav-progress {
+  color: var(--text-muted); text-align: center; padding: 18px 0;
+  font-size: 0.92em;
+}
+.sg-nav-refrow { border-color: color-mix(in srgb, var(--interactive-accent) 45%, transparent); }
+.sg-nav-vrow { min-height: 0; padding: 9px 14px; align-items: flex-start; }
+.sg-nav-vcol { flex: 1; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.sg-nav-vref { font-weight: 700; font-size: 0.98em; }
+.sg-nav-snip {
+  color: var(--text-muted); font-size: 0.88em; line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+.sg-nav-snip b {
+  color: var(--text-normal); font-weight: 700;
+  background: color-mix(in srgb, var(--interactive-accent) 18%, transparent);
+  border-radius: 3px; padding: 0 1px;
+}
+

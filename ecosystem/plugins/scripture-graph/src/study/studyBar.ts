@@ -657,7 +657,7 @@ export class StudyBar {
 }
 
 class ThemeNameModal extends Modal {
-  constructor(s: SGState, private desc: string,
+  constructor(private s: SGState, private desc: string,
     private onSave: (name: string) => void) {
     super(s.app);
   }
@@ -668,8 +668,25 @@ class ThemeNameModal extends Modal {
         + `e.g. "Faith", "Covenants", "Promises".`,
     });
     let name = "";
+    // live preview: the feel engine picks this tag's badge as you type
+    const prev = this.contentEl.createDiv();
+    prev.style.cssText = "display:flex;align-items:center;gap:8px;min-height:24px;margin:2px 0 6px;";
+    const badge = prev.createSpan();
+    badge.style.fontSize = "1.3em";
+    const swatch = prev.createSpan();
+    swatch.style.cssText = "flex:1;height:10px;border-radius:5px;";
+    const preview = (v: string) => {
+      const n = v.trim();
+      if (!n) { badge.setText(""); swatch.style.background = "none"; return; }
+      const sim = [...(this.s.settings.themes ?? [])
+        .filter(t => t.name.toLowerCase() !== n.toLowerCase()),
+        { name: n, color: this.desc, style: "highlight" }];
+      const sp = themeSpec(n, sim, COLOR_HEX);
+      badge.setText(sp.emoji);
+      swatch.style.background = `linear-gradient(120deg, ${sp.c1}, ${sp.c2})`;
+    };
     new Setting(this.contentEl).setName("Theme name").addText(t =>
-      t.setPlaceholder("Faith").onChange(v => (name = v)));
+      t.setPlaceholder("Faith").onChange(v => { name = v; preview(v); }));
     new Setting(this.contentEl).addButton(b => b.setButtonText("Save theme").setCta()
       .onClick(() => {
         const n = name.trim().slice(0, 40);

@@ -6,6 +6,7 @@
  * family member can wander freely and do no damage. */
 import { App, Modal } from "obsidian";
 import { BOOKS, chapterTitle, type BookInfo } from "@scripture-graph/core-sdk";
+import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 
 export interface GroupActivityRow {
   group_name: string;
@@ -72,6 +73,10 @@ type NavView =
 export class SGNavigatorModal extends Modal {
   private view: NavView = { kind: "home" };
   private trail: NavView[] = [];
+  private searchQuery = "";
+  private searchTimer: number | null = null;
+  private searchSeq = 0;
+  private groupActs: GroupActivityRow[] | null = null;
 
   constructor(app: App, private host: NavigatorHost) {
     super(app);
@@ -84,7 +89,10 @@ export class SGNavigatorModal extends Modal {
   }
 
   onOpen(): void { this.render(); }
-  onClose(): void { this.contentEl.empty(); }
+  onClose(): void {
+    if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
+    this.contentEl.empty();
+  }
 
   /** drill somewhere, remembering where we came from */
   private go(v: NavView): void {
@@ -138,7 +146,125 @@ export class SGNavigatorModal extends Modal {
     else this.renderFolder(c, v.path);
   }
 
+  /** Home = a search box over the browsing rows. Under 2 chars the rows
+   * show; at 2+ the smart search takes the body over, and clearing the box
+   * hands it back. */
   private renderHome(c: HTMLElement): void {
+    const inp = c.createEl("input", {
+      cls: "sg-nav-filter sg-nav-search",
+      attr: { type: "search", placeholder: "Search scriptures, people, places…", enterkeyhint: "search" },
+    });
+    inp.value = this.searchQuery;
+    const body = c.createDiv({ cls: "sg-nav-searchhost" });
+    const showHome = () => {
+      this.searchSeq++;           // orphan any in-flight search render
+      body.removeClass("sg-nav-scroll");
+      body.empty();
+      this.renderHomeRows(body);
+    };
+    inp.oninput = () => {
+      this.searchQuery = inp.value;
+      if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
+      const q = inp.value.trim();
+      if (q.length < 2) { this.searchTimer = null; showHome(); return; }
+      this.searchTimer = window.setTimeout(() => {
+        this.searchTimer = null;
+        this.runSearch(q, body);
+      }, 160);
+    };
+    const q0 = this.searchQuery.trim();
+    if (q0.length >= 2) this.runSearch(q0, body);
+    else this.renderHomeRows(body);
+  }
+
+  /** First search of the session builds the index; a quiet progress row
+   * keeps the wait honest, then results replace it. A failed build says so
+   * instead of stranding the progress row forever. */
+  private runSearch(q: string, body: HTMLElement): void {
+    const seq = ++this.searchSeq;
+    const fail = () => {
+      if (seq !== this.searchSeq || this.view.kind !== "home") return;
+      body.empty();
+      body.createDiv({ cls: "sg-nav-progress", text: "Search isn't available right now." });
+    };
+    if (!searchIndexReady()) {
+      body.empty();
+      const prog = body.createDiv({ cls: "sg-nav-progress", text: "Reading the scriptures… 0%" });
+      buildSearchIndex(this.app, (done, total) => {
+        const pct = total ? Math.round((done / total) * 100) : 100;
+        prog.setText(`Reading the scriptures… ${pct}%`);
+      }).then(index => {
+        if (seq !== this.searchSeq || this.view.kind !== "home") return;
+        this.renderResults(smartSearch(q, index), body);
+      }).catch(fail);
+      return;
+    }
+    buildSearchIndex(this.app).then(index => {
+      if (seq !== this.searchSeq || this.view.kind !== "home") return;
+      this.renderResults(smartSearch(q, index), body);
+    }).catch(fail);
+  }
+
+  private renderResults(res: SearchResults, body: HTMLElement): void {
+    body.empty();
+    body.addClass("sg-nav-scroll");
+    // invoke the destination first, then close — the peek/sheet stacks freely
+    const open = (go: () => void) => { go(); this.close(); };
+    if (!res.reference && !res.verses.length && !res.pages.length && !res.chapters.length) {
+      body.createDiv({ cls: "sg-nav-empty", text: "Nothing found. Try fewer or different words." });
+      return;
+    }
+    if (res.reference || res.verses.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "📖 Scriptures" });
+    }
+    if (res.reference) {
+      const ref = res.reference;
+      const row = body.createDiv({ cls: "sg-nav-row sg-nav-refrow" });
+      row.createSpan({ cls: "sg-nav-emoji", text: "🎯" });
+      const col = row.createDiv({ cls: "sg-nav-gcol" });
+      col.createDiv({ cls: "sg-nav-name", text: ref.verse !== null ? `${ref.title}:${ref.verse}` : ref.title });
+      col.createDiv({ cls: "sg-nav-gsub", text: ref.verse !== null ? "Go to verse" : "Open chapter" });
+      row.onclick = () => open(() => {
+        if (ref.anchor) this.host.openNote(`${ref.title}#^${ref.anchor}`);
+        else this.host.openChapter(ref.title);
+      });
+    }
+    for (const v of res.verses) {
+      const row = body.createDiv({ cls: "sg-nav-row sg-nav-vrow" });
+      const col = row.createDiv({ cls: "sg-nav-vcol" });
+      col.createDiv({ cls: "sg-nav-vref", text: `${v.chapter}:${v.verse}` });
+      const snip = col.createDiv({ cls: "sg-nav-snip" });
+      let at = 0;
+      for (const r of v.ranges) {
+        if (r.start > at) snip.createSpan({ text: v.snippet.slice(at, r.start) });
+        snip.createEl("b", { text: v.snippet.slice(r.start, r.end) });
+        at = r.end;
+      }
+      if (at < v.snippet.length) snip.createSpan({ text: v.snippet.slice(at) });
+      row.onclick = () => open(() => this.host.openNote(`${v.chapter}#^${v.anchor}`));
+    }
+    if (res.pages.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "📚 Library" });
+      for (const p of res.pages) {
+        const row = body.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "📄" });
+        row.createSpan({ cls: "sg-nav-name", text: p.title });
+        row.onclick = () => open(() => this.host.openPath(p.path));
+      }
+    }
+    if (res.chapters.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "🕮 Chapters" });
+      for (const ch of res.chapters) {
+        const row = body.createDiv({ cls: "sg-nav-row" });
+        row.createSpan({ cls: "sg-nav-emoji", text: "📖" });
+        row.createSpan({ cls: "sg-nav-name", text: ch.title });
+        row.createSpan({ cls: "sg-nav-chev", text: "›" });
+        row.onclick = () => open(() => this.host.openChapter(ch.title));
+      }
+    }
+  }
+
+  private renderHomeRows(c: HTMLElement): void {
     const last = this.host.lastChapter();
     if (last) {
       const cont = c.createDiv({ cls: "sg-nav-continue" });
@@ -185,11 +311,13 @@ export class SGNavigatorModal extends Modal {
     hub.createSpan({ cls: "sg-nav-emoji", text: "🏠" });
     hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
     hub.onclick = () => { this.close(); this.host.openNote("Study Hub"); };
-    // what your groups have been studying — fills in when the server answers;
-    // offline or solo it simply says nothing
+    // what your groups have been studying — fills in when the server answers
+    // (once per modal; search round-trips reuse it); offline it says nothing
     const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
-    void this.host.groupActivity().then(acts => {
-      if (!acts.length || this.view.kind !== "home") return;
+    const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
+    void actsP.then(acts => {
+      this.groupActs = acts;
+      if (!acts.length || this.view.kind !== "home" || !groupsBox.isConnected) return;
       groupsBox.createDiv({ cls: "sg-nav-sect", text: "👥 Studying with your groups" });
       for (const a of acts.slice(0, 4)) {
         const title = titleForChapterSlug(a.chapter_slug);

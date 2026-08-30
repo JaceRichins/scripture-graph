@@ -5682,6 +5682,302 @@ ${local.content}`,
     };
   }
 
+  // src/study/tagFeel.ts
+  var LEXICON = {
+    // inner weather — virtues and their shadows
+    "pride": { e: ["\u{1F99A}", "\u{1F451}", "\u{1FA9E}"], c1: "#7b2d8b", c2: "#c0392b" },
+    // haughty, hot
+    "meekness": { e: ["\u{1F411}", "\u{1F54A}\uFE0F", "\u{1F33E}"], c1: "#efe9dc", c2: "#9cc3e4" },
+    // wool & dove
+    "humility": { e: ["\u{1F647}", "\u{1F33F}", "\u{1F6D0}"], c1: "#8f9779", c2: "#d9e4d0" },
+    "obedience": { e: ["\u{1F9ED}", "\u{1F4CF}", "\u2705"], c1: "#4a6fa5", c2: "#9db8d9" },
+    "patience": { e: ["\u{1F422}", "\u23F3", "\u{1F33E}"], c1: "#c2a24b", c2: "#e8dcc0" },
+    "gratitude": { e: ["\u{1F33B}", "\u{1F64C}"], c1: "#f2b134", c2: "#ffe08a" },
+    "courage": { e: ["\u{1F981}", "\u{1F6E1}\uFE0F", "\u{1F525}"], c1: "#d64a2e", c2: "#f5a623" },
+    "fear": { e: ["\u{1F628}", "\u{1F311}", "\u{1FAE3}"], c1: "#4a5568", c2: "#1f2733" },
+    "anger": { e: ["\u{1F30B}", "\u{1F4A2}", "\u26A1"], c1: "#b91c1c", c2: "#7f1d1d" },
+    "peace": { e: ["\u{1F54A}\uFE0F", "\u{1F30A}", "\u{1F343}"], c1: "#7fb8a4", c2: "#cfe8e0" },
+    "mercy": { e: ["\u{1F932}", "\u{1F4A7}", "\u{1FAC2}"], c1: "#5eb0b7", c2: "#cdeeea" },
+    "justice": { e: ["\u2696\uFE0F", "\u{1F3DB}\uFE0F"], c1: "#37474f", c2: "#78909c" },
+    "grace": { e: ["\u{1F9A2}", "\u2728", "\u{1F337}"], c1: "#d9b8d9", c2: "#f3e6f3" },
+    "temptation": { e: ["\u{1F34E}", "\u{1F40D}", "\u{1FAA4}"], c1: "#6b8e23", c2: "#c0392b" },
+    "kindness": { e: ["\u{1F917}", "\u{1F36F}", "\u{1F33C}"], c1: "#f4a261", c2: "#ffe5b4" },
+    "honesty": { e: ["\u{1F48E}", "\u{1FA9E}", "\u2696\uFE0F"], c1: "#6fc2d0", c2: "#e8f9fb" },
+    "integrity": { e: ["\u{1F9F1}", "\u{1F332}", "\u{1F5FF}"], c1: "#6b4f3a", c2: "#a3b18a" },
+    "virtue": { e: ["\u{1F90D}", "\u{1F337}", "\u{1F6E1}\uFE0F"], c1: "#dba8bc", c2: "#f9f1f4" },
+    "love": { e: ["\u{1F497}", "\u{1F339}", "\u{1F49E}"], c1: "#e75480", c2: "#ffc0cb" },
+    "trust": { e: ["\u{1FAA2}", "\u{1F932}", "\u26F0\uFE0F"], c1: "#468faf", c2: "#bde0fe" },
+    "doubt": { e: ["\u2754", "\u{1F301}", "\u{1F32B}\uFE0F"], c1: "#7d8597", c2: "#c2c7d0" },
+    "unity": { e: ["\u{1F9E9}", "\u2B55", "\u{1FAA2}"], c1: "#386fa4", c2: "#59a96a" },
+    "contention": { e: ["\u{1F5EF}\uFE0F", "\u26A1", "\u{1F329}\uFE0F"], c1: "#9d0208", c2: "#370617" },
+    // doctrine & ordinances
+    "testimony": { e: ["\u{1F525}", "\u{1F56F}\uFE0F"], c1: "#ff7043", c2: "#ffd54f" },
+    // burning bosom
+    "sacrifice": { e: ["\u{1F40F}", "\u{1FA78}", "\u26F0\uFE0F"], c1: "#8b1e2d", c2: "#5d4a4a" },
+    "atonement": { e: ["\u{1FAD2}", "\u{1F377}", "\u{1FA78}"], c1: "#5a6e3a", c2: "#6d1f3e" },
+    // olive press, wine-dark
+    "deliverance": { e: ["\u{1F985}", "\u{1F30A}", "\u{1F5DD}\uFE0F"], c1: "#1f6f8b", c2: "#ffd166" },
+    "endurance": { e: ["\u{1F3D4}\uFE0F", "\u{1F97E}"], c1: "#5c6b73", c2: "#9db4c0" },
+    "zion": { e: ["\u{1F304}", "\u{1F3D9}\uFE0F", "\u26F0\uFE0F"], c1: "#f0c75e", c2: "#7ea8be" },
+    "temple": { e: ["\u{1F3DB}\uFE0F", "\u2728", "\u{1F54A}\uFE0F"], c1: "#f5f0e1", c2: "#d4af37" },
+    "priesthood": { e: ["\u{1F5DD}\uFE0F", "\u{1F4EF}", "\u{1F64C}"], c1: "#1e3a5f", c2: "#d4a017" },
+    "fasting": { e: ["\u{1F963}", "\u23F3", "\u{1F305}"], c1: "#c9b79c", c2: "#f7ecd9" },
+    "sabbath": { e: ["\u{1F324}\uFE0F", "\u26EA", "\u{1F56F}\uFE0F"], c1: "#a3c4f3", c2: "#e6f0fa" },
+    "resurrection": { e: ["\u{1F98B}", "\u{1F305}", "\u{1F337}"], c1: "#ff8c42", c2: "#ffe29a" },
+    "salvation": { e: ["\u{1F6DF}", "\u2693", "\u{1F305}"], c1: "#e63946", c2: "#f1faee" },
+    "agency": { e: ["\u{1F500}", "\u{1F6AA}", "\u{1F9ED}"], c1: "#2a9d8f", c2: "#9b5de5" },
+    "revelation": { e: ["\u{1F320}", "\u26A1", "\u{1F526}"], c1: "#1d2d50", c2: "#f2c14e" },
+    "angels": { e: ["\u{1F47C}", "\u{1F3BA}", "\u2728"], c1: "#f2e3b6", c2: "#fdfaf0" },
+    "miracles": { e: ["\u{1F31F}", "\u{1F4AB}", "\u2728"], c1: "#8e7cc3", c2: "#ffd966" },
+    "healing": { e: ["\u{1F33F}", "\u{1FA79}", "\u{1FAC2}"], c1: "#57a773", c2: "#c8e6c9" },
+    "baptism": { e: ["\u{1F4A7}", "\u{1F30A}", "\u{1F54A}\uFE0F"], c1: "#4ea8de", c2: "#d0efff" },
+    "spirit": { e: ["\u{1F4A8}", "\u{1F525}", "\u{1F54A}\uFE0F"], c1: "#89c2d9", c2: "#fdf0d5" },
+    // still, small
+    "eternal life": { e: ["\u267E\uFE0F", "\u{1F333}", "\u{1F320}"], c1: "#4a2c82", c2: "#f2c94c" },
+    "scripture": { e: ["\u{1F4D6}", "\u{1F4DC}", "\u{1F58B}\uFE0F"], c1: "#a67c52", c2: "#e8d8b8" },
+    "prophet": { e: ["\u{1F5FC}", "\u{1F4E2}"], c1: "#22344a", c2: "#e0b84c" },
+    // watchman on the tower
+    "faith": { e: ["\u{1F331}", "\u{1FAB4}", "\u26F0\uFE0F"], c1: "#4cc38a", c2: "#a8e6c1" },
+    // for "faithfulness"
+    "hope": { e: ["\u{1F305}", "\u2693", "\u{1F308}"], c1: "#ff9f45", c2: "#ffd166" },
+    "prayer": { e: ["\u{1F64F}", "\u{1F6D0}", "\u{1F56F}\uFE0F"], c1: "#b197fc", c2: "#74c0fc" },
+    // the story of the covenant people
+    "missionary work": { e: ["\u{1F30D}", "\u{1F4E3}", "\u{1F6B2}"], c1: "#2f6690", c2: "#81c3d7" },
+    "gathering": { e: ["\u{1F9FA}", "\u{1FABA}", "\u{1F450}"], c1: "#a9714b", c2: "#ecd9c6" },
+    "apostasy": { e: ["\u{1F32B}\uFE0F", "\u{1F940}", "\u26D3\uFE0F"], c1: "#6e6a6f", c2: "#3b3740" },
+    "restoration": { e: ["\u{1F333}", "\u{1F324}\uFE0F", "\u{1F6E0}\uFE0F"], c1: "#3f7d20", c2: "#ffe8a1" },
+    // grove morning
+    "liberty": { e: ["\u{1F6A9}", "\u{1F5FD}", "\u{1F985}"], c1: "#c1121f", c2: "#669bbc" },
+    // title of liberty
+    "exodus": { e: ["\u{1F3DC}\uFE0F", "\u{1F463}", "\u{1F42B}"], c1: "#d9a066", c2: "#7b5e7b" },
+    // sand → dusk
+    "promised land": { e: ["\u{1F3DE}\uFE0F", "\u{1F347}", "\u{1F304}"], c1: "#2d6a4f", c2: "#f4d35e" },
+    "remnant": { e: ["\u{1F9F5}", "\u{1FAA1}"], c1: "#997b66", c2: "#d5bda2" },
+    "adoption": { e: ["\u{1FAC2}", "\u{1F49E}", "\u{1FABA}"], c1: "#c86b85", c2: "#f7e1d7" },
+    "second coming": { e: ["\u{1F3BA}", "\u2601\uFE0F", "\u{1F307}"], c1: "#f9a825", c2: "#b0bec5" },
+    "judgment": { e: ["\u2696\uFE0F", "\u{1F4D6}", "\u{1F514}"], c1: "#424874", c2: "#c9b458" },
+    "creation": { e: ["\u{1F30E}", "\u{1F40B}", "\u2728"], c1: "#0b7a75", c2: "#7bdff2" },
+    "war": { e: ["\u2694\uFE0F", "\u{1F6E1}\uFE0F", "\u{1F3F9}"], c1: "#7f1d1d", c2: "#4b5563" },
+    // the imagery of the word
+    "light": { e: ["\u{1F506}", "\u{1F31E}", "\u{1F56F}\uFE0F"], c1: "#ffd93d", c2: "#fffde7" },
+    "darkness": { e: ["\u{1F311}", "\u{1F987}", "\u{1F31A}"], c1: "#1a1a2e", c2: "#3d3d5c" },
+    "knowledge": { e: ["\u{1F4DA}", "\u{1F9E0}", "\u{1F50D}"], c1: "#303f9f", c2: "#4dd0e1" },
+    "shepherd": { e: ["\u{1F411}", "\u{1F304}", "\u{1F9AF}"], c1: "#4f772d", c2: "#b5d99c" },
+    "living water": { e: ["\u26F2", "\u{1F4A7}", "\u{1F30A}"], c1: "#0096c7", c2: "#caf0f8" },
+    "bread of life": { e: ["\u{1F35E}", "\u{1F956}", "\u{1F33E}"], c1: "#c07830", c2: "#f5deb3" },
+    "rock": { e: ["\u{1FAA8}", "\u26F0\uFE0F", "\u{1F5FB}"], c1: "#57606f", c2: "#a4b0be" },
+    "refuge": { e: ["\u{1F3F0}", "\u2602\uFE0F", "\u{1F6D6}"], c1: "#2c4a6e", c2: "#a9c2de" },
+    "harvest": { e: ["\u{1F33E}", "\u{1F347}", "\u{1F69C}"], c1: "#d69e2e", c2: "#f6e05e" },
+    // the shape of a life
+    "work": { e: ["\u{1F41D}", "\u{1F6E0}\uFE0F", "\u{1F4AA}"], c1: "#cc8500", c2: "#ffe0a3" },
+    // deseret
+    "rest": { e: ["\u{1F6CC}", "\u{1F319}", "\u{1FAB7}"], c1: "#7c6fb0", c2: "#cbc3e3" },
+    "music": { e: ["\u{1F3B5}", "\u{1F3B6}", "\u{1F3BB}"], c1: "#7d5ba6", c2: "#4ecdc4" },
+    "children": { e: ["\u{1F9D2}", "\u{1F388}", "\u{1FA81}"], c1: "#4fc3f7", c2: "#ffe082" },
+    "marriage": { e: ["\u{1F48D}", "\u{1FAF6}", "\u{1F54A}\uFE0F"], c1: "#d4af37", c2: "#f7cad0" },
+    "death": { e: ["\u{1F940}", "\u26B0\uFE0F", "\u{1F342}"], c1: "#4e4562", c2: "#8a8395" },
+    "mourning": { e: ["\u{1F622}", "\u{1F5A4}", "\u{1F327}\uFE0F"], c1: "#556577", c2: "#aab6c4" },
+    "hope in christ": { e: ["\u2693", "\u{1F304}", "\u271D\uFE0F"], c1: "#16425b", c2: "#ffb703" },
+    // anchor of the soul
+    "adversity": { e: ["\u{1F32A}\uFE0F", "\u26C8\uFE0F", "\u{1F9D7}"], c1: "#3e5c76", c2: "#748cab" },
+    "riches": { e: ["\u{1F4B0}", "\u{1FA99}", "\u{1F3FA}"], c1: "#c9a227", c2: "#14532d" },
+    "poverty": { e: ["\u{1F9CE}", "\u{1F450}", "\u{1FAAB}"], c1: "#7f7053", c2: "#b8ad9e" }
+  };
+  var SYNONYMS = {
+    "humble": "humility",
+    "humbled": "humility",
+    "meek": "meekness",
+    "gentle": "meekness",
+    "vanity": "pride",
+    "vain": "pride",
+    "arrogance": "pride",
+    "arrogant": "pride",
+    "haughty": "pride",
+    "boastful": "pride",
+    "scared": "fear",
+    "afraid": "fear",
+    "dread": "fear",
+    "obedient": "obedience",
+    "obey": "obedience",
+    "thank": "gratitude",
+    "grateful": "gratitude",
+    "brave": "courage",
+    "bravery": "courage",
+    "valiant": "courage",
+    "strength": "courage",
+    "wrath": "anger",
+    "fury": "anger",
+    "calm": "peace",
+    "compassion": "mercy",
+    "endure": "endurance",
+    "perseverance": "endurance",
+    "tempt": "temptation",
+    "redeemer": "atonement",
+    "redemption": "atonement",
+    "sacrament": "atonement",
+    "savior": "salvation",
+    "saved": "salvation",
+    "save": "salvation",
+    "passover": "deliverance",
+    "grief": "mourning",
+    "sorrow": "mourning",
+    "sad": "mourning",
+    "learn": "knowledge",
+    "intelligence": "knowledge",
+    "truth": "knowledge",
+    "melchizedek": "priesthood",
+    "aaronic": "priesthood",
+    "ordinance": "temple",
+    "sealing": "marriage",
+    "eternity": "eternal life",
+    "eternal": "eternal life",
+    "millennium": "second coming",
+    "tribulation": "adversity",
+    "trial": "adversity",
+    "affliction": "adversity",
+    "suffering": "adversity",
+    "babylon": "apostasy",
+    "idol": "apostasy",
+    "idolatry": "apostasy",
+    "wander": "exodus",
+    "wilderness": "exodus",
+    "desert": "exodus",
+    "israel": "gathering",
+    "missionary": "missionary work",
+    "mission": "missionary work",
+    "preach": "missionary work",
+    "water": "living water",
+    "bread": "bread of life",
+    "holy ghost": "spirit",
+    "holy spirit": "spirit",
+    "comforter": "spirit",
+    "pray": "prayer",
+    "sing": "music",
+    "hymn": "music",
+    "miracle": "miracles",
+    "angel": "angels",
+    "child": "children",
+    "rich": "riches"
+  };
+  var POOL = [
+    { e: ["\u{1F9FF}"], c1: "#1f6feb", c2: "#8ab4ff" },
+    { e: ["\u{1F34A}"], c1: "#e8590c", c2: "#ffc078" },
+    { e: ["\u{1F335}"], c1: "#2b8a3e", c2: "#8ce99a" },
+    { e: ["\u{1F41A}"], c1: "#e64980", c2: "#ffc9d8" },
+    { e: ["\u{1FABB}"], c1: "#6741d9", c2: "#b197fc" },
+    { e: ["\u{1F9CA}"], c1: "#15aabf", c2: "#99e9f2" },
+    { e: ["\u{1F336}\uFE0F"], c1: "#c92a2a", c2: "#ff8787" },
+    { e: ["\u{1F95D}"], c1: "#66a80f", c2: "#c0eb75" },
+    { e: ["\u{1F433}"], c1: "#1864ab", c2: "#74c0fc" },
+    { e: ["\u{1FA85}"], c1: "#d6336c", c2: "#faa2c1" },
+    { e: ["\u{1F341}"], c1: "#d9480f", c2: "#ff922b" },
+    { e: ["\u{1F99C}"], c1: "#0b7285", c2: "#63e6be" },
+    { e: ["\u{1FAD0}"], c1: "#364fc7", c2: "#91a7ff" },
+    { e: ["\u{1F3EE}"], c1: "#f08c00", c2: "#ffe066" },
+    { e: ["\u{1FA90}"], c1: "#5f3dc4", c2: "#d0bfff" },
+    { e: ["\u{1F98E}"], c1: "#087f5b", c2: "#96f2d7" },
+    { e: ["\u{1F338}"], c1: "#f06595", c2: "#ffdeeb" },
+    { e: ["\u26F5"], c1: "#1971c2", c2: "#a5d8ff" },
+    { e: ["\u{1F351}"], c1: "#f76707", c2: "#ffd8a8" },
+    { e: ["\u{1F38B}"], c1: "#2f9e44", c2: "#b2f2bb" },
+    { e: ["\u{1F302}"], c1: "#9c36b5", c2: "#eebefa" },
+    { e: ["\u{1F420}"], c1: "#0c8599", c2: "#66d9e8" },
+    { e: ["\u{1F352}"], c1: "#a61e4d", c2: "#ff8fab" },
+    { e: ["\u{1F33D}"], c1: "#e67700", c2: "#ffec99" },
+    { e: ["\u{1F419}"], c1: "#4263eb", c2: "#bac8ff" },
+    { e: ["\u{1F340}"], c1: "#37b24d", c2: "#d3f9d8" },
+    { e: ["\u{1F3AD}"], c1: "#845ef7", c2: "#e5dbff" },
+    { e: ["\u{1FAB6}"], c1: "#748ffc", c2: "#dbe4ff" },
+    { e: ["\u{1F387}"], c1: "#f59f00", c2: "#fff3bf" },
+    { e: ["\u{1F965}"], c1: "#7f5539", c2: "#ddb892" },
+    { e: ["\u{1F42C}"], c1: "#1098ad", c2: "#c5f6fa" },
+    { e: ["\u{1F33A}"], c1: "#e03131", c2: "#ffc9c9" },
+    { e: ["\u{1F334}"], c1: "#099268", c2: "#a9f1cf" },
+    { e: ["\u{1F3B7}"], c1: "#ca8a04", c2: "#fde68a" },
+    { e: ["\u{1F41E}"], c1: "#c0392b", c2: "#f5b7b1" },
+    { e: ["\u{1FA84}"], c1: "#7048e8", c2: "#c5b3f5" },
+    { e: ["\u{1F34B}"], c1: "#fab005", c2: "#fff9db" },
+    { e: ["\u{1F407}"], c1: "#868e96", c2: "#f1f3f5" },
+    { e: ["\u{1F307}"], c1: "#e8632c", c2: "#fcc419" },
+    { e: ["\u{1F9AD}"], c1: "#4c6ef5", c2: "#bac8ff" }
+  ];
+  var COMBINING = new RegExp(`[${String.fromCharCode(768)}-${String.fromCharCode(879)}]`, "g");
+  function normalize(s) {
+    return s.toLowerCase().normalize("NFKD").replace(COMBINING, "").replace(/[^a-z0-9 ]+/g, " ").replace(/ +/g, " ").trim();
+  }
+  var SUFFIXES = ["ness", "ful", "ing", "ed", "es", "ly", "s"];
+  function stem(word) {
+    let w = word;
+    for (let again = true; again; ) {
+      again = false;
+      for (const sfx of SUFFIXES) {
+        if (!w.endsWith(sfx) || w.length - sfx.length < 3) continue;
+        if (sfx === "s" && w.endsWith("ss")) continue;
+        if (sfx === "es" && !/(?:s|x|z|ch|sh)es$/.test(w)) continue;
+        w = w.slice(0, -sfx.length);
+        again = true;
+        break;
+      }
+    }
+    return w;
+  }
+  var FEEL_INDEX = /* @__PURE__ */ new Map();
+  {
+    const put = (k, e) => {
+      if (k && !FEEL_INDEX.has(k)) FEEL_INDEX.set(k, e);
+    };
+    for (const [k, e] of Object.entries(LEXICON)) {
+      put(k, e);
+      put(stem(k), e);
+    }
+    for (const [w, k] of Object.entries(SYNONYMS)) {
+      const e = LEXICON[k];
+      if (e) {
+        put(normalize(w), e);
+        put(stem(normalize(w)), e);
+      }
+    }
+  }
+  function lookup(norm) {
+    const hit = FEEL_INDEX.get(norm) ?? FEEL_INDEX.get(stem(norm));
+    if (hit) return hit;
+    if (norm.includes(" ")) {
+      for (const tok of norm.split(" ")) {
+        const t = FEEL_INDEX.get(tok) ?? FEEL_INDEX.get(stem(tok));
+        if (t) return t;
+      }
+    }
+    return null;
+  }
+  function fnv1a(s) {
+    let h = 2166136261;
+    for (let i = 0; i < s.length; i++) {
+      h ^= s.charCodeAt(i);
+      h = Math.imul(h, 16777619);
+    }
+    return h >>> 0;
+  }
+  var VS16 = String.fromCharCode(65039);
+  var bare = (e) => e.split(VS16).join("");
+  function feelSpec(name, taken) {
+    const used = /* @__PURE__ */ new Set();
+    for (const e of taken) used.add(bare(e));
+    const norm = normalize(name);
+    const entry = lookup(norm);
+    const h = fnv1a(norm);
+    const slot = POOL[h % POOL.length];
+    const mood = entry ?? slot;
+    const candidates = entry ? entry.e : slot.e;
+    for (const c of candidates) {
+      if (!used.has(bare(c))) return { emoji: c, c1: mood.c1, c2: mood.c2 };
+    }
+    for (let i = 0; i < POOL.length; i++) {
+      const c = POOL[(h + i) % POOL.length].e[0];
+      if (!used.has(bare(c))) return { emoji: c, c1: mood.c1, c2: mood.c2 };
+    }
+    return { emoji: candidates[0] ?? "\u{1F3F7}\uFE0F", c1: mood.c1, c2: mood.c2 };
+  }
+
   // src/study/themeLibrary.ts
   var THEME_LIBRARY = [
     { name: "Jesus Christ", emoji: "\u271D\uFE0F", c1: "#e8c547", c2: "#f5ead1" },
@@ -5708,15 +6004,45 @@ ${local.content}`,
     { name: "Question", emoji: "\u2753", c1: "#adb5bd", c2: "#74c0fc" }
   ];
   var BY_NAME = new Map(THEME_LIBRARY.map((t) => [t.name.toLowerCase(), t]));
+  var PREMADE_EMOJI = THEME_LIBRARY.map((t) => t.emoji);
+  var DEFAULT_YELLOWS = /* @__PURE__ */ new Set(["#e8c547", "#f5d90a"]);
+  var feelKey = "";
+  var feelCache = /* @__PURE__ */ new Map();
+  function feelFor(name, custom2) {
+    const uniq = [...new Set(custom2.map((t) => t.name.toLowerCase()).filter((n) => !BY_NAME.has(n)))].sort();
+    const key = uniq.join("\0");
+    if (key !== feelKey) {
+      feelKey = key;
+      feelCache = /* @__PURE__ */ new Map();
+      const taken2 = new Set(PREMADE_EMOJI);
+      for (const n of uniq) {
+        const f = feelSpec(n, taken2);
+        taken2.add(f.emoji);
+        feelCache.set(n, f);
+      }
+    }
+    const hit = feelCache.get(name.toLowerCase());
+    if (hit) return hit;
+    const taken = new Set(PREMADE_EMOJI);
+    for (const f of feelCache.values()) taken.add(f.emoji);
+    return feelSpec(name, taken);
+  }
   function themeSpec(name, custom2 = [], colorHex = {}) {
     const hit = BY_NAME.get(name.toLowerCase());
     if (hit) return hit;
+    const feel = feelFor(name, custom2);
     const user = custom2.find((t) => t.name.toLowerCase() === name.toLowerCase());
     if (user) {
       const hex = colorHex[user.color] ?? user.color ?? "#e8c547";
-      return { name: user.name, emoji: "\u{1F3F7}\uFE0F", c1: hex, c2: hex };
+      const picked = !DEFAULT_YELLOWS.has(hex.toLowerCase());
+      return {
+        name: user.name,
+        emoji: feel.emoji,
+        c1: picked ? hex : feel.c1,
+        c2: feel.c2
+      };
     }
-    return { name, emoji: "\u{1F3F7}\uFE0F", c1: "#8d99ae", c2: "#8d99ae" };
+    return { name, emoji: feel.emoji, c1: feel.c1, c2: feel.c2 };
   }
   function hexToRgba(hex, alpha) {
     const m = /^#?([0-9a-f]{6})$/i.exec(hex.trim());
@@ -6834,6 +7160,7 @@ ${text}` : text;
   var ThemeNameModal = class extends Modal {
     constructor(s, desc, onSave) {
       super(s.app);
+      this.s = s;
       this.desc = desc;
       this.onSave = onSave;
     }
@@ -6843,7 +7170,31 @@ ${text}` : text;
         text: `Current look: ${this.desc}. Themes are shared with the family \u2014 e.g. "Faith", "Covenants", "Promises".`
       });
       let name = "";
-      new Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => name = v));
+      const prev = this.contentEl.createDiv();
+      prev.style.cssText = "display:flex;align-items:center;gap:8px;min-height:24px;margin:2px 0 6px;";
+      const badge = prev.createSpan();
+      badge.style.fontSize = "1.3em";
+      const swatch = prev.createSpan();
+      swatch.style.cssText = "flex:1;height:10px;border-radius:5px;";
+      const preview = (v) => {
+        const n = v.trim();
+        if (!n) {
+          badge.setText("");
+          swatch.style.background = "none";
+          return;
+        }
+        const sim = [
+          ...(this.s.settings.themes ?? []).filter((t) => t.name.toLowerCase() !== n.toLowerCase()),
+          { name: n, color: this.desc, style: "highlight" }
+        ];
+        const sp = themeSpec(n, sim, COLOR_HEX);
+        badge.setText(sp.emoji);
+        swatch.style.background = `linear-gradient(120deg, ${sp.c1}, ${sp.c2})`;
+      };
+      new Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => {
+        name = v;
+        preview(v);
+      }));
       new Setting(this.contentEl).addButton((b) => b.setButtonText("Save theme").setCta().onClick(() => {
         const n = name.trim().slice(0, 40);
         if (!n) return;
@@ -7124,7 +7475,7 @@ ${body}
   function reeds(seed, color) {
     const rnd = lcg(seed);
     let c = "";
-    const stem2 = (x, h, lean, head) => {
+    const stem3 = (x, h, lean, head) => {
       const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
       let s = `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.35).toFixed(0)} ${(200 - h * 0.6).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='3' fill='none'/>`;
       if (head) {
@@ -7133,10 +7484,10 @@ ${body}
       return s;
     };
     for (let i = 0; i < 14; i++) {
-      c += stem2(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
+      c += stem3(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
     }
     for (let i = 0; i < 5; i++) {
-      c += stem2(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
+      c += stem3(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
     }
     return svgUrl(900, 200, c);
   }
@@ -8824,12 +9175,12 @@ ${body}
   };
 
   // src/study/search.ts
-  function normalize(s) {
+  function normalize2(s) {
     return s.toLowerCase().normalize("NFD").replace(/\p{M}+/gu, "").replace(/['’ʼ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
   }
-  var SUFFIXES = ["eth", "est", "ings", "ing", "ed", "es", "s", "'s"];
-  function stem(t) {
-    for (const suf of SUFFIXES) {
+  var SUFFIXES2 = ["eth", "est", "ings", "ing", "ed", "es", "s", "'s"];
+  function stem2(t) {
+    for (const suf of SUFFIXES2) {
       if (t.endsWith(suf) && t.length - suf.length >= 3) {
         return t.slice(0, t.length - suf.length);
       }
@@ -8837,8 +9188,8 @@ ${body}
     return t;
   }
   function tokenize(s) {
-    const n = normalize(s);
-    return n ? n.split(" ").map(stem) : [];
+    const n = normalize2(s);
+    return n ? n.split(" ").map(stem2) : [];
   }
   var VERSE_LINE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
   function parseVerseLine(chapter, line) {
@@ -8850,7 +9201,7 @@ ${body}
       verse: Number(m[1]),
       text,
       anchor: m[3],
-      norm: normalize(text),
+      norm: normalize2(text),
       tokens: tokenize(text)
     };
   }
@@ -8872,7 +9223,7 @@ ${body}
       let done = 0;
       for (const f of canonical) {
         const title = f.basename;
-        chapters.push({ title, norm: normalize(title), tokens: tokenize(title) });
+        chapters.push({ title, norm: normalize2(title), tokens: tokenize(title) });
         try {
           const md = await app.vault.cachedRead(f);
           for (const line of md.split("\n")) {
@@ -8905,7 +9256,7 @@ ${body}
     const m = /* @__PURE__ */ new Map();
     for (const b of BOOKS) {
       for (const form of [b.name, b.prefix, b.slug, ...b.aliases]) {
-        const key = normalize(form);
+        const key = normalize2(form);
         if (key) m.set(key, b);
       }
     }
@@ -8914,7 +9265,7 @@ ${body}
   function parseReference(q) {
     const m = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
     if (!m) return null;
-    const book = BOOK_LOOKUP.get(normalize(m[1]));
+    const book = BOOK_LOOKUP.get(normalize2(m[1]));
     if (!book) return null;
     const chapter = Number(m[2]);
     if (chapter < 1 || chapter > book.chapters) return null;
@@ -8988,7 +9339,7 @@ ${body}
     }
     if (bestStart < 0) return { tier: 9, score: 0 };
     const slack = bestSpan - (present - 1);
-    let score = 60 / (1 + slack) + (bestOrdered ? 12 : 0) + 10 / (1 + bestStart) + 6 / (1 + tokens.length / 12) + present * 4;
+    const score = 60 / (1 + slack) + (bestOrdered ? 12 : 0) + 10 / (1 + bestStart) + 6 / (1 + tokens.length / 12) + present * 4;
     return { tier, score };
   }
   function scoreText(norm, tokens, qnorm, qtokens) {
@@ -9004,11 +9355,13 @@ ${body}
     return scoreTokens(tokens, qtokens, true);
   }
   function scoreTitle(title, qnorm, qtokens) {
-    const norm = normalize(title);
+    return scoreTitleParts(normalize2(title), tokenize(title), qnorm, qtokens);
+  }
+  function scoreTitleParts(norm, tokens, qnorm, qtokens) {
     if (!norm) return { tier: 9, score: 0 };
     if (norm === qnorm) return { tier: 1, score: 400 };
     if (qnorm && norm.startsWith(qnorm)) return { tier: 1, score: 300 - norm.length };
-    const base = scoreText(norm, tokenize(title), qnorm, qtokens);
+    const base = scoreText(norm, tokens, qnorm, qtokens);
     if (base.tier >= 9) return base;
     const first = norm.split(" ")[0];
     const qFirst = qtokens[0] ?? "";
@@ -9020,9 +9373,9 @@ ${body}
     const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
     let m;
     while (m = re.exec(text)) {
-      const w = normalize(m[0]);
+      const w = normalize2(m[0]);
       if (!w) continue;
-      out.push({ start: m.index, end: m.index + m[0].length, norm: w, stemmed: stem(w) });
+      out.push({ start: m.index, end: m.index + m[0].length, norm: w, stemmed: stem2(w) });
     }
     return out;
   }
@@ -9082,7 +9435,7 @@ ${body}
   }
   var byRank = (a, b) => a.tier - b.tier || b.score - a.score;
   function smartSearch(q, index) {
-    const qnorm = normalize(q);
+    const qnorm = normalize2(q);
     const qtokens = tokenize(q);
     const out = { verses: [], pages: [], chapters: [] };
     if (!qtokens.length) return out;
@@ -9125,7 +9478,7 @@ ${body}
     const chits = [];
     for (const rec of index.chapters) {
       if (ref && rec.title === ref.title) continue;
-      const s = scoreTitle(rec.title, qnorm, qtokens);
+      const s = scoreTitleParts(rec.norm, rec.tokens, qnorm, qtokens);
       if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
     }
     chits.sort(byRank);
@@ -9267,25 +9620,31 @@ ${body}
       else this.renderHomeRows(body);
     }
     /** First search of the session builds the index; a quiet progress row
-     * keeps the wait honest, then results replace it. */
+     * keeps the wait honest, then results replace it. A failed build says so
+     * instead of stranding the progress row forever. */
     runSearch(q, body) {
       const seq = ++this.searchSeq;
+      const fail = () => {
+        if (seq !== this.searchSeq || this.view.kind !== "home") return;
+        body.empty();
+        body.createDiv({ cls: "sg-nav-progress", text: "Search isn't available right now." });
+      };
       if (!searchIndexReady()) {
         body.empty();
         const prog = body.createDiv({ cls: "sg-nav-progress", text: "Reading the scriptures\u2026 0%" });
-        void buildSearchIndex(this.app, (done, total) => {
+        buildSearchIndex(this.app, (done, total) => {
           const pct = total ? Math.round(done / total * 100) : 100;
           prog.setText(`Reading the scriptures\u2026 ${pct}%`);
         }).then((index) => {
           if (seq !== this.searchSeq || this.view.kind !== "home") return;
           this.renderResults(smartSearch(q, index), body);
-        });
+        }).catch(fail);
         return;
       }
-      void buildSearchIndex(this.app).then((index) => {
+      buildSearchIndex(this.app).then((index) => {
         if (seq !== this.searchSeq || this.view.kind !== "home") return;
         this.renderResults(smartSearch(q, index), body);
-      });
+      }).catch(fail);
     }
     renderResults(res, body) {
       body.empty();

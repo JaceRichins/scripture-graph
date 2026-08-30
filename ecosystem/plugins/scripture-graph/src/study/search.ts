@@ -6,7 +6,7 @@
  * The whole canon indexes once per session; pure scoring lives obsidian-free
  * so node can test it.
  */
-import type { App, TFile } from "obsidian";
+import type { App } from "obsidian";
 import { BOOKS } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX } from "../state";
 
@@ -17,7 +17,7 @@ import { CANONICAL_PREFIX, LIBRARY_PREFIX } from "../state";
 export function normalize(s: string): string {
   return s
     .toLowerCase()
-    .normalize("NFD").replace(/p{M}+/gu, "")
+    .normalize("NFD").replace(/\p{M}+/gu, "")
     .replace(/['’ʼ]/g, "")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
@@ -120,7 +120,7 @@ export function buildSearchIndex(
       if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
       if (f.path.includes("01 Scriptures/")) continue;
       if (f.basename.startsWith("_")) continue;
-      const fm = app.metadataCache.getFileCache(f as TFile)?.frontmatter;
+      const fm = app.metadataCache.getFileCache(f)?.frontmatter;
       const raw = fm?.["aliases"] as unknown;
       const aliases = Array.isArray(raw) ? raw.map(String)
         : typeof raw === "string" ? [raw] : [];
@@ -245,7 +245,7 @@ export function scoreTokens(tokens: string[], qtokens: string[], prefixOk: boole
   }
   if (bestStart < 0) return { tier: 9, score: 0 };
   const slack = bestSpan - (present - 1);              // 0 = perfectly adjacent
-  let score = 60 / (1 + slack)                          // tighter huddle, higher
+  const score = 60 / (1 + slack)                        // tighter huddle, higher
     + (bestOrdered ? 12 : 0)                            // reads like the query
     + 10 / (1 + bestStart)                              // earlier in the verse
     + 6 / (1 + tokens.length / 12)                      // short verses edge ahead
@@ -270,11 +270,14 @@ export function scoreText(norm: string, tokens: string[], qnorm: string, qtokens
 /** Titles get the verse machinery plus a strong starts-with bonus;
  * an exact title is unbeatable. */
 export function scoreTitle(title: string, qnorm: string, qtokens: string[]): Scored {
-  const norm = normalize(title);
+  return scoreTitleParts(normalize(title), tokenize(title), qnorm, qtokens);
+}
+
+export function scoreTitleParts(norm: string, tokens: string[], qnorm: string, qtokens: string[]): Scored {
   if (!norm) return { tier: 9, score: 0 };
   if (norm === qnorm) return { tier: 1, score: 400 };
   if (qnorm && norm.startsWith(qnorm)) return { tier: 1, score: 300 - norm.length };
-  const base = scoreText(norm, tokenize(title), qnorm, qtokens);
+  const base = scoreText(norm, tokens, qnorm, qtokens);
   if (base.tier >= 9) return base;
   const first = norm.split(" ")[0]!;
   const qFirst = qtokens[0] ?? "";
@@ -293,12 +296,7 @@ function rawWords(text: string): RawWord[] {
   const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
   let m: RegExpExecArray | null;
   while ((m = re.exec(text))) {
-    const norm = normalize(m[0]!);
-    if (!norm || norm.includes(" ")) {
-      // a token that normalizes to several words (rare) — index each half is
-      // overkill for highlighting; treat as its first word
-    }
-    const w = norm.split(" ")[0] ?? "";
+    const w = normalize(m[0]!);
     if (!w) continue;
     out.push({ start: m.index, end: m.index + m[0]!.length, norm: w, stemmed: stem(w) });
   }
@@ -314,7 +312,7 @@ export function matchRanges(text: string, qnorm: string, qtokens: string[]): Ter
     for (let i = 0; i + phrase.length <= words.length; i++) {
       let ok = true;
       for (let j = 0; j < phrase.length; j++) {
-        if (words[i + j]!.norm !== phrase[j]) { ok = false; break; }
+        if (words[i + j]!.norm !== phrase[j]!) { ok = false; break; }
       }
       if (ok) {
         return [{ start: words[i]!.start, end: words[i + phrase.length - 1]!.end }];
@@ -338,9 +336,10 @@ const SNIPPET_LEN = 140;
 
 /** Window the verse around its first match; ranges shift into snippet space. */
 export function makeSnippet(text: string, ranges: TermRange[]): { snippet: string; ranges: TermRange[] } {
-  if (text.length <= SNIPPET_LEN || !ranges.length) {
-    const kept = ranges.filter(r => r.end <= text.length);
-    return { snippet: text.length <= SNIPPET_LEN ? text : `${text.slice(0, SNIPPET_LEN - 1)}…`, ranges: kept.filter(r => r.end <= SNIPPET_LEN - 1) };
+  if (text.length <= SNIPPET_LEN) return { snippet: text, ranges };
+  if (!ranges.length) {
+    const cut = text.lastIndexOf(" ", SNIPPET_LEN);
+    return { snippet: `${text.slice(0, cut > 60 ? cut : SNIPPET_LEN)}…`, ranges: [] };
   }
   const first = ranges[0]!;
   let start = Math.max(0, first.start - 36);
@@ -429,7 +428,7 @@ export function smartSearch(q: string, index: SearchIndex): SearchResults {
   const chits: { rec: ChapterRecord; tier: number; score: number }[] = [];
   for (const rec of index.chapters) {
     if (ref && rec.title === ref.title) continue;   // the reference row has it
-    const s = scoreTitle(rec.title, qnorm, qtokens);
+    const s = scoreTitleParts(rec.norm, rec.tokens, qnorm, qtokens);
     if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
   }
   chits.sort(byRank);
