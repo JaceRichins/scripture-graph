@@ -127,8 +127,16 @@ def _evidence_lines(ctx: Ctx, cslug: str, cap: int = 6) -> list[str]:
         meter = []
         for key, label in (("evidence_strength", "strength"),
                            ("claim_confidence", "confidence")):
-            if scores.get(key) is not None:
-                meter.append(f"{label} {scores[key]:.1f}")
+            v = scores.get(key)
+            if v is None:
+                continue
+            # these scores come from model output: a stringified number ("0.8")
+            # or a word must not cost the chapter its whole research run at
+            # render time — coerce, and failing that show what was actually said
+            try:
+                meter.append(f"{label} {float(v):.1f}")
+            except (TypeError, ValueError):
+                meter.append(f"{label} {str(v).strip()}")
         if r["consensus"]:
             meter.append(r["consensus"])
         note = prov.get("evidence_note")

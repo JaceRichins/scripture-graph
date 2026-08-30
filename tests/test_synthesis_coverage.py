@@ -23,6 +23,28 @@ def test_synthesis_renders_verified_sections(imported_ctx):
     assert fm["corpus_version_reviewed"] == ctx.corpus_version()
 
 
+def test_evidence_scores_survive_stringy_model_output(imported_ctx):
+    """A model writing "0.8" (or a word) where a number belongs must not cost
+    the chapter its whole research run when the study guide renders."""
+    from scripturegraph.synthesis import _evidence_lines
+    from scripturegraph.util import now_iso
+    ctx = imported_ctx
+    ctx.db().execute(
+        "INSERT INTO claims (id, node_id, claim_type, text, tier, scores_json,"
+        " consensus, sources_json, provenance_json, created_at, updated_at)"
+        " VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ("claim-stringy", "chapter:mosiah-14", "evidence", "Stringy score.",
+         "ACCEPT", json.dumps({"evidence_strength": "0.8",
+                               "claim_confidence": "high",
+                               "class": "evidence"}),
+         None, "[]", "{}", now_iso(), now_iso()))
+    ctx.db().commit()
+
+    text = "\n".join(_evidence_lines(ctx, "mosiah-14"))
+    assert "strength 0.8" in text      # numeric string coerced and formatted
+    assert "confidence high" in text   # non-numeric shown honestly, not dropped
+
+
 def test_coverage_scoring_and_priority(imported_ctx):
     ctx = imported_ctx
     # chapter A gets passes done; chapter B gets nothing
