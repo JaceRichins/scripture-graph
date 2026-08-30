@@ -17,17 +17,16 @@ Scripture: [[Joshua 19]] · My notes: [[Joshua 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan receive their inheritances by lot.
+Joshua 19 completes the tribal allotment sequence begun in [[Joshua 18]]. Six tribes receive the second through seventh lots. Simeon's embedded territory and Dan's expansion are the two principal exceptions to the catalogue pattern. After the tribal divisions, Joshua receives Timnath-serah, and the chapter closes by locating the completed process at Shiloh before the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Simeon within Judah (19:1–9):** towns and the stated reason for the embedded inheritance.
-2. **Zebulun, Issachar, Asher, and Naphtali (19:10–39):** successive boundary and city lists.
-3. **Dan and Leshem (19:40–48):** territorial locations followed by conquest, possession, settlement, and renaming.
-4. **Joshua's inheritance (19:49–50):** Timnath-serah is granted after the tribal allotments.
-5. **Formal conclusion (19:51):** officials, lot, sanctuary setting, and completion.
+1. **Simeon within Judah (19:1–9):** Towns are assigned from Judah's oversized portion.
+2. **Four catalogue-style allotments (19:10–39):** Zebulun, Issachar, Asher, and Naphtali receive boundary descriptions and settlement lists.
+3. **Dan and Leshem (19:40–48):** A town list gives way to conquest, possession, settlement, and renaming.
+4. **Joshua's inheritance (19:49–50):** Israel gives Joshua the requested city after the tribal division.
+5. **Formal conclusion at Shiloh (19:51):** Leaders, lot, sanctuary setting, and completion are brought together.
 <!-- SG:END structure -->
 
 ## People
@@ -66,12 +65,15 @@ Scripture: [[Joshua 19]] · My notes: [[Joshua 19 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[War and Peace]]
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-Joshua 19:51 presents the allocation as both public administration and sacred action. Eleazar, Joshua, and the tribal heads divide the inheritances by lot at Shiloh, “before the LORD,” at the tabernacle entrance. This is the narrator's theological framing of an ordered communal process; it should not be treated as independent proof of how every lot or boundary was historically produced. The repeated organization “according to their families” also keeps the distribution connected to concrete communities rather than abstract territory alone.
+Joshua 19:51 presents territorial distribution as both communal administration and sacred action. Eleazar, Joshua, and the tribal heads divide the inheritances by lot at Shiloh, “before the LORD,” at the tabernacle entrance. The narrator thus places representative leadership and worship in the same scene. This theological framing should not be treated as independent proof that every boundary or textual detail originated in a single historical proceeding.
+
+The repeated phrase “according to their families” emphasizes that inheritance concerns concrete kinship communities rather than territory in abstraction, providing a direct connection to [[Family]]. The chapter can also inform study of [[Government and Laws]], provided modern categories are not projected back onto the text as its own terminology.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,16 +88,20 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-In the KJV, “coast” commonly means a boundary or territory, not only a seashore, and “toward the sunrising” means east. Terms such as “reacheth,” “turneth,” and “outgoings” trace routes and boundary points rather than modern coordinates. The recurring expressions “according to their families” and “cities with their villages” give the chapter a patterned, register-like cadence. Related accounts may preserve differing name forms: Joshua 19 calls Dan's conquered city Leshem, while [[Judges 18]] calls it Laish.
+In the KJV, **coast** commonly means a boundary or territory, not only a seashore; **toward the sunrising** means east; and **outgoings** refers to a boundary's endpoint or extremity. Verbs such as “reacheth,” “turneth,” “goeth out,” and “compasseth” trace boundary movement rather than provide modern coordinates.
+
+Dan's coast going out “too little” is ambiguous. It may concern inadequate territory, difficulty possessing the original allotment, or the practical insufficiency of the area available to Dan. The ensuing conquest describes Dan's response but does not settle the phrase's precise meaning. Joshua 19 calls the conquered city Leshem, while [[Judges 18]] uses Laish.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter repeatedly combines announced lots, boundary itineraries, settlement catalogues, numerical totals, and inheritance formulas. The formulas vary, and some totals are not transparent from the adjacent names, so the pattern should not be mistaken for complete textual uniformity.
+The chapter has a register-like cadence: announced lots are followed by boundaries or town lists and then by inheritance formulas. Repetition gives the material order, while variations caution against assuming a mechanically uniform form or source.
 
-Joshua 19:47 is the clearest departure from the catalogue form: it recounts Dan's conquest, possession, settlement, and renaming of Leshem. [[Judges 18]] gives a fuller parallel account using the name Laish. The parallel is strong, but it does not determine which account is earlier or prove that the two are independent witnesses.
+Some stated totals are transparent: Simeon's lists yield thirteen and four settlements when “Beer-sheba, or Sheba” is treated as one entry. Others are not. Zebulun's section names five settlements in verse 15 before stating twelve cities, and the total cannot be recovered from that catalogue alone. Some boundary points may also have been counted as settlements, or other naming, selection, or transmission factors may be involved. Issachar's apparent match of sixteen depends on treating sixteen pre-Jordan toponyms as cities and should therefore remain qualified.
 
-Judah's portion being “too much” and Dan's border going out “too little” creates a notable verbal contrast. Its practical meaning is uncertain because Dan's wording may concern failure to possess territory rather than the original allotment's measured size. Likewise, Joshua's final placement may invite an ethical reading about restrained leadership, but the text does not state that motive.
+Joshua 19:47 is the clearest narrative interruption. Its sequence—fight, capture, smite, possess, dwell, rename—compresses Dan's conquest and settlement of Leshem into one verse. [[Judges 18]] gives a fuller parallel using Laish. The correspondence is strong, but it does not determine priority, direct dependence, or independence.
+
+The KJV phrases “too much” for Judah and “too little” for Dan create a memorable English contrast between two unusual territorial situations. Their practical meanings need not be exact opposites, and intentional Hebrew wordplay has not been established.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -115,14 +121,14 @@ Judah's portion being “too much” and Dan's border going out “too little”
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Does Dan's territory going out “too little” describe an undersized allotment, difficulty possessing it, or a later assessment of its adequacy?
-- How should Joshua 19:47 be related chronologically and literarily to the parallel account in [[Judges 18]]?
-- Why does Joshua 19:34 describe Naphtali as reaching “Judah upon Jordan,” despite Judah's principal territory lying far to the south?
-- What naming and counting conventions might explain differences between listed places and stated city totals?
-- Does Joshua's receipt of Timnath-serah after the tribal allotments imply deliberate self-restraint, or is that an ethical inference from narrative order?
+- Why is Zebulun's total of twelve cities not transparent from the immediately adjacent list?
+- Does Dan's territory going out 'too little' concern measured area, failure to possess the original allotment, or later population pressure?
+- How should the compressed Leshem notice be related chronologically and literarily to [[Judges 18]]?
+- Why does Joshua 19:34 say Naphtali reaches 'Judah upon Jordan' when Judah's principal territory lies much farther south?
+- Does Joshua's receipt of land after the tribal allotments imply deliberate restraint, or is that an ethical inference the narrator never states?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare Simeon's towns with Judah's southern list in [[Joshua 15]], noting exact matches and forms such as Beth-lebaoth/Lebaoth and Remmon/Rimmon. Read [[Joshua 18]] for the survey, Shiloh setting, and Benjamin's first lot. Compare Joshua 19:47 with [[Judges 18]] for the Danite migration tradition and the Leshem/Laish difference. [[Numbers 34]] records the earlier commission of Eleazar, Joshua, and tribal representatives, while [[Joshua 21]] continues the allocation material with Levitical cities. [[Genesis 49]] offers a traditional comparison for Simeon, but its relationship to Joshua 19 remains suggestive rather than demonstrative.
+Compare Simeon's towns with Judah's southern list in [[Joshua 15]], noting exact matches and variant forms. Read [[Joshua 18]] for the survey, Shiloh setting, and earlier lots. Compare Joshua 19:47 with [[Judges 18]] for the Danite migration tradition and the Leshem/Laish difference; the parallel does not by itself establish dependence or priority. [[Numbers 34]] supplies the earlier commission of Eleazar and Joshua, while [[Joshua 21]] continues the allocation material with Levitical cities. [[Genesis 49]] offers a possible comparison for Simeon's dispersal, but Joshua 19 does not identify its arrangement as fulfillment.
 <!-- SG:END further-study -->
