@@ -17,7 +17,12 @@ budgets:
     nightly_ai_jobs: 200
     weekly_ai_jobs: 350
     daily_ai_jobs_cap: 500
-    daily_usd_cap: 40.0
+    # Both providers run on flat subscriptions (Claude Max + ChatGPT plan);
+    # the per-call cost_usd the CLIs report is what usage WOULD cost via API,
+    # not money leaving the account. Dual jobs report ~$0.64 each, so a $40
+    # cap would silently stop the day at ~62 jobs. The real ceiling is
+    # daily_ai_jobs_cap; this stays only as a runaway backstop.
+    daily_usd_cap: 999.0
     job_timeout_sec: 600
 
 pipeline:
