@@ -113,6 +113,13 @@ class Provider:
 
 # --------------------------------------------------------------- Claude CLI
 
+def _newest_by_version(candidates: list[str]) -> str:
+    def verkey(path: str):
+        parts = Path(path).parent.name.split(".")
+        return tuple(int(x) if x.isdigit() else 0 for x in parts)
+    return max(candidates, key=verkey)
+
+
 def resolve_claude_exe(ctx: Ctx) -> str | None:
     override = ctx.c("providers.claude.exe")
     if override and Path(override).exists():
@@ -120,13 +127,21 @@ def resolve_claude_exe(ctx: Ctx) -> str | None:
     p = shutil.which("claude")
     if p:
         return p
+    localappdata = os.environ.get("LOCALAPPDATA", "")
     appdata = os.environ.get("APPDATA", "")
-    candidates = glob.glob(os.path.join(appdata, "Claude", "claude-code", "*", "claude.exe"))
-    if candidates:
-        def verkey(path: str):
-            parts = Path(path).parent.name.split(".")
-            return tuple(int(x) if x.isdigit() else 0 for x in parts)
-        return max(candidates, key=verkey)
+    # Store/MSIX installs FIRST: %APPDATA%\Claude\... is a virtualized redirect
+    # into the app container. From outside it looks like a real file — it even
+    # passes exists() — but Windows refuses to execute it, so preferring it
+    # leaves the provider permanently "found but broken".
+    patterns = [
+        os.path.join(localappdata, "Packages", "Claude_*", "LocalCache",
+                     "Roaming", "Claude", "claude-code", "*", "claude.exe"),
+        os.path.join(appdata, "Claude", "claude-code", "*", "claude.exe"),
+    ]
+    for pattern in patterns:
+        candidates = glob.glob(pattern)
+        if candidates:
+            return _newest_by_version(candidates)
     return None
 
 

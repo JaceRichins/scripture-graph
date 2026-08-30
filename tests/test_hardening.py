@@ -1,9 +1,54 @@
 """Tests for the hardening applied after the Codex adversarial review."""
+from pathlib import Path
+
 import pytest
 
 from scripturegraph import gitops
 from scripturegraph.util import read_text
 from scripturegraph.vaultgen.patch import PatchViolation, apply_ops
+
+
+def test_claude_exe_prefers_runnable_store_path(mini_ctx, monkeypatch, tmp_path):
+    """A Microsoft Store install exposes %APPDATA%\\Claude\\... as a virtualised
+    redirect into the app container: it passes exists() from outside but
+    Windows will not execute it. Preferring it left the provider permanently
+    'found' yet unusable, so the real package path must win."""
+    from scripturegraph.agents import providers
+
+    appdata = tmp_path / "Roaming"
+    localappdata = tmp_path / "Local"
+    shadow = appdata / "Claude" / "claude-code" / "2.1.247" / "claude.exe"
+    real = (localappdata / "Packages" / "Claude_pzs8sxrjxfjjc" / "LocalCache"
+            / "Roaming" / "Claude" / "claude-code" / "2.1.247" / "claude.exe")
+    for p in (shadow, real):
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text("stub")
+
+    monkeypatch.setenv("APPDATA", str(appdata))
+    monkeypatch.setenv("LOCALAPPDATA", str(localappdata))
+    monkeypatch.setattr(providers.shutil, "which", lambda _n: None)
+
+    assert providers.resolve_claude_exe(mini_ctx) == str(real)
+
+
+def test_claude_exe_picks_newest_version(mini_ctx, monkeypatch, tmp_path):
+    from scripturegraph.agents import providers
+
+    localappdata = tmp_path / "Local"
+    base = (localappdata / "Packages" / "Claude_abc" / "LocalCache"
+            / "Roaming" / "Claude" / "claude-code")
+    for ver in ("2.1.9", "2.1.247", "2.1.100"):
+        p = base / ver / "claude.exe"
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text("stub")
+
+    monkeypatch.setenv("APPDATA", str(tmp_path / "none"))
+    monkeypatch.setenv("LOCALAPPDATA", str(localappdata))
+    monkeypatch.setattr(providers.shutil, "which", lambda _n: None)
+
+    # 247 beats 100 and 9 numerically, not as strings
+    assert providers.resolve_claude_exe(mini_ctx).endswith(
+        str(Path("2.1.247") / "claude.exe"))
 
 
 def test_path_traversal_and_absolute_are_rejected(imported_ctx):
