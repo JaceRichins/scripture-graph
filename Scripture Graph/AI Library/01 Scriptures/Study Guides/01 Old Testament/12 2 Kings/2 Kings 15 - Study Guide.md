@@ -17,18 +17,18 @@ Scripture: [[2 Kings 15]] · My notes: [[2 Kings 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-The chapter frames five northern regnal reports with accounts of Azariah and Jotham of Judah. Both Judean kings are said to do right, though neither removes the high places. In Israel, four rulers receive the same condemnation for continuing Jeroboam's sins, while four transfers of power occur through assassination. Assyria first withdraws after Menahem purchases its support with tribute and later captures northern territory and deports inhabitants. This sequence portrays worsening dependence and territorial loss, although it does not prove a simple causal or uniformly linear history.
+The chapter frames five northern regnal reports with the reigns of Azariah and Jotham of Judah. Both Judean kings are judged favorably but leave the high places intact. In Israel, four evaluated rulers continue Jeroboam's sins, while four successions occur through assassination. Assyria first supports Menahem's throne in return for tribute and later takes northern territory and deports inhabitants. The movement from purchased support to territorial loss is meaningful, but the chapter does not by itself prove a simple, uniform causal progression.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Azariah of Judah (vv. 1–7):** long reign, favorable but qualified evaluation, illness, and Jotham's delegated responsibilities.
+1. **Azariah of Judah (vv. 1–7):** long reign, qualified approval, illness, and Jotham's assumption of governing responsibilities.
 
-2. **Northern kings (vv. 8–31):** Zachariah, Shallum, Menahem, Pekahiah, and Pekah; repeated coups, Menahem's tribute to Assyria, and later Assyrian conquest and deportation.
+2. **Northern kings (vv. 8–31):** Zachariah, Shallum, Menahem, Pekahiah, and Pekah; the fulfillment of the Jehu promise, four coups, violence at Tiphsah, Assyrian tribute, conquest, and deportation.
 
-3. **Jotham of Judah (vv. 32–38):** another favorable but qualified evaluation, construction at the temple gate, and the beginning of hostility from Rezin and Pekah.
+3. **Jotham of Judah (vv. 32–38):** qualified approval, work at the temple gate, and the first notice of the Rezin-Pekah threat.
 
-The regnal synchronisms connect these units, but verse 30's reference to Jotham's twentieth year is not straightforwardly reconciled with the sixteen-year reign reported in verse 33.
+Regnal synchronisms bind these sections together, although Jotham's twentieth year in verse 30 is difficult to reconcile directly with the sixteen-year reign in verse 33.
 <!-- SG:END structure -->
 
 ## People
@@ -69,16 +69,17 @@ The regnal synchronisms connect these units, but verse 30's reference to Jotham'
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Government and Laws]]
 - [[Prophecy]]
 - [[Scattering of Israel]]
 - [[War and Peace]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]]
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The narrator distinguishes favorable evaluation from completed reform: Azariah and Jotham do what is right, yet the high places remain. Political replacement likewise does not remove Israel's recurring [[Sin]], since successive evaluated rulers continue the sins of Jeroboam. The fulfillment notice concerning Jehu's dynasty also distinguishes fulfilled [[Prophecy]] from moral endorsement: Zachariah is condemned even though his reign completes the promised fourth generation.
+The narrator distinguishes favorable evaluation from completed reform: Azariah and Jotham do right, yet the high places remain. Political replacement likewise fails to remove Israel's recurring [[Sin]], since successive rulers continue Jeroboam's pattern. The fulfillment notice concerning Jehu's dynasty also separates fulfilled [[Prophecy]] from moral endorsement: Zachariah is condemned even as his reign completes the promised fourth generation. The chapter therefore resists equating political success, dynastic promise, or temple construction with complete faithfulness.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -93,19 +94,27 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Azariah and Uzziah are alternate names for the same Judean king within the chapter; the synchronisms even refer to his thirty-ninth year under both forms. The KJV description of him as a "leper" should not be converted into a confident modern diagnosis: the narrative's clear points are his lasting affliction, separate residence, and Jotham's governing role. Likewise, the repeated phrase about the sins of Jeroboam functions as a theological evaluation, not merely a neutral political label.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Regnal formulas organize the chapter through accession notices, reign lengths, evaluations, selected acts, references to royal annals, and succession. Against this recurring pattern, four assassinations make Israel's instability especially conspicuous. The Jeroboam formula creates continuity beneath political turnover, while seven references to royal chronicles emphasize that the account is selective. These effects are sound literary observations, though the formulas may also be inherited conventions and do not reveal the exact compositional process.
+Accession notices, reign lengths, evaluations, selected acts, annal references, deaths, and succession formulas organize the chapter. Four assassinations disrupt this patterned form and make northern instability especially visible. The Jeroboam refrain supplies continuity beneath the changing names, while seven references to royal chronicles signal that these are selective summaries. Verse 12 is particularly important: it interrupts the formulas to interpret Zachariah's brief reign as fulfillment of the word to Jehu. These are firm observations about the received text; they do not, by themselves, identify every stage of its composition.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] External Contemporary Royal Inscriptions
+> Assyrian inscriptions report devastation and deportation in Israel and associate Pekah's overthrow with Hoshea's installation. This converges substantially with verses 29-30, while the sources frame political agency differently: Kings emphasizes Hoshea's conspiracy, whereas the Assyrian king claims decisive authority over the succession.
+> — strength 0.8 · confidence 0.9 · correlation accepted; precise agency disputed · [[External Contemporary Royal Inscriptions in 2 Kings 15|full dossier]]
+
 > [!evidence] Internal Chronological Comparison
 > Verse 30 dates Hoshea's accession to Jotham's twentieth year, while verse 33 assigns Jotham a reign of sixteen years. At minimum, these notices show that the synchronisms cannot safely be converted into a simple timeline without additional chronological or textual assumptions.
 > — strength 0.9 · confidence 1.0 · accepted observation; solution disputed · [[Internal Chronological Comparison in 2 Kings 15|full dossier]]
+
+> [!evidence] External Contemporary Royal Inscription
+> Tiglath-pileser III's inscriptions independently name Menahem of Samaria among rulers from whom payment or tribute was received. Under the standard identification of the biblical Pul with Tiglath-pileser III, this strongly corroborates the historical core of Menahem's Assyrian payment in verse 19.
+> — strength 0.8 · confidence 0.9 · broadly accepted historical correlation · [[External Contemporary Royal Inscription in 2 Kings 15|full dossier]]
 
 > [!evidence] Narrative-Historical Progression
 > Within the chapter, Assyrian involvement escalates from a king buying support and averting occupation to Assyria capturing named northern territories and deporting their inhabitants. This strongly supports reading the chapter as a progression from political dependency to territorial loss and scattering.
@@ -114,14 +123,18 @@ Regnal formulas organize the chapter through accession notices, reign lengths, e
 > [!evidence] Literary And Source Formula
 > Repeated notices direct readers to chronicles of the kings of Judah or Israel for additional acts. This is strong evidence that the chapter presents itself as a selective royal account rather than an exhaustive history.
 > — strength 0.9 · confidence 1.0 · accepted interpretation with source uncertainty · [[Literary And Source Formula in 2 Kings 15|full dossier]]
+
+> [!evidence] Extrabiblical Historical Correlation *(tentative)*
+> The identification of 'Pul' (v.19) with 'Tiglath-pileser king of Assyria' (v.29, also v.19 conjunction implies same era) as one and the same Assyrian king — Pul(u) being the throne-name Tiglath-pileser III used when he assumed the Babylonian kingship — is the standard reconstruction in Assyriology and is consistent with Neo-Assyrian tribute lists that name a ruler of Samaria (understood to be Menahem) among tribute-payers to Tiglath-pileser III.
+> — strength 0.6 · confidence 0.8 · standard reconstruction; inadequately sourced here
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-Why are Azariah and Jotham said to do right while the high places remain? How does the repeated Jeroboam formula affect the portrayal of successive rulers and coups? What distinction does the narrative make between fulfillment of the promise to Jehu and approval of Zachariah? How does Assyria's role change between verses 19–20 and verse 29? Which chronological or textual models might explain the apparent tension between Jotham's twentieth year in verse 30 and his sixteen-year reign in verse 33?
+Why can Azariah and Jotham be said to do right while the high places remain? What does the repeated Jeroboam formula imply about the limits of political change? How does verse 12 distinguish fulfillment of a divine promise from approval of Zachariah? What happens to Israel's autonomy when Menahem purchases Assyrian support? How does Assyria's role change by verse 29? How should the different emphases of Kings and Tiglath-pileser's inscriptions concerning Pekah and Hoshea be evaluated? Which coregency, chronological, or textual proposals best address the tension between Jotham's twentieth year and his sixteen-year reign?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare Azariah's brief account with [[2 Chronicles 26]], taking care not to import that chapter's explanation of his disease into 2 Kings 15 itself. Read the promise in [[2 Kings 10]] beside its fulfillment notice here, and consult [[1 Kings 12]] for the background to the Jeroboam refrain. Compare the earlier succession of northern coups in [[1 Kings 16]]. Follow the Rezin-Pekah conflict into [[2 Kings 16]] and [[Isaiah 7]], then compare the partial deportation in verse 29 with Samaria's later fall in [[2 Kings 17]].
+Compare Azariah's report with [[2 Chronicles 26]], while keeping clear that only Chronicles explains his disease through a temple transgression. Read [[2 Kings 10]] beside verse 12 and [[1 Kings 12]] beside the Jeroboam refrain. Compare the earlier succession of northern coups in [[1 Kings 16]]. Follow the Rezin-Pekah conflict into [[2 Kings 16]] and [[Isaiah 7]], and compare the partial deportation in verse 29 with Samaria's later fall in [[2 Kings 17]]. Tiglath-pileser III's inscriptions provide unusually strong external controls for studying Menahem's tribute, Israel's territorial losses, and the Pekah-Hoshea transition, but their royal propaganda and fragmentary wording require critical comparison rather than automatic harmonization.
 <!-- SG:END further-study -->
