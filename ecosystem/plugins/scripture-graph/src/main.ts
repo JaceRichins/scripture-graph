@@ -6,7 +6,7 @@
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
 import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder, WorkspaceLeaf, requestUrl, type App } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
-import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
+import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { SGNavigatorModal } from "./study/navigator";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
@@ -72,6 +72,7 @@ export default class SGPlugin extends Plugin {
   private studyActionViews = new WeakSet<MarkdownView>();
   private lastReadingPath: string | null = null;
   private backPillEl: HTMLElement | null = null;
+  private bouncing = false;
 
   async onload() {
     this.state = new SGState(this.app, this);
@@ -265,10 +266,15 @@ export default class SGPlugin extends Plugin {
       if (!f) return;
       this.studyBar.clear();          // selections never follow you across pages
       closeAllSheets();               // navigation folds every floating layer
+      // THE invariant: an AI Library page (other than scripture itself) never
+      // stays open as a page — however it was reached: a link we route, a
+      // search result, a graph node, a backlink, or a door not built yet
+      if (this.bounceAiPage(f)) return;
       this.study.recordVisit(f);
       this.recordLastChapter(f);
       this.updateNavFab(f);
       this.updateBackPill(f);
+      this.updateViewChrome(f);
       this.enforceReadOnly();
       void this.matchSceneToChapter(f);
       // personal pages OPEN in reading view too (mobile reuses the last tab
@@ -499,11 +505,51 @@ export default class SGPlugin extends Plugin {
   }
 
   /** AI Library content floats over the reading page instead of replacing
-   * it; the sheet's ↗ is the deliberate power path to a real page. */
+   * it. The ↗ open-as-page path exists only in power mode (the same toggle
+   * that shows the AI Library folder) — for the family it simply isn't there. */
   openLibrarySheet(file: TFile, subpath: string | null): void {
-    new LibraryPreviewModal(this.state, file, subpath, (f) => {
-      void this.app.workspace.getLeaf().openFile(f);
-    }).open();
+    const openAsPage = this.state.device.showAiLibrary
+      ? (f: TFile) => { void this.app.workspace.getLeaf().openFile(f); }
+      : null;
+    new LibraryPreviewModal(this.state, file, subpath, openAsPage).open();
+  }
+
+  /** An AI Library page (other than scripture) just opened as a PAGE — bounce
+   * back to where the reader was and float the content as a sheet instead.
+   * This is the safety net under every routing rule: it doesn't matter how
+   * the page was reached. Power mode (showAiLibrary) disables the bounce. */
+  private bounceAiPage(f: TFile): boolean {
+    if (this.bouncing) return false;
+    if (this.state.device.showAiLibrary) return false;
+    if (!f.path.startsWith(LIBRARY_PREFIX)) return false;
+    if (f.path.startsWith(CANONICAL_PREFIX)
+      || f.path.startsWith(ANNOTATED_PREFIX)) return false;
+    this.bouncing = true;
+    const ret = this.lastReadingPath
+      ? this.app.vault.getAbstractFileByPath(this.lastReadingPath) : null;
+    const home = ret instanceof TFile ? ret
+      : this.app.metadataCache.getFirstLinkpathDest("Study Hub", "");
+    const leaf = this.app.workspace.getLeaf();
+    const nav: Promise<unknown> = home instanceof TFile
+      ? leaf.openFile(home)
+      : leaf.setViewState({ type: "empty" });
+    void nav.catch(() => { /* the sheet still opens */ }).finally(() => {
+      this.bouncing = false;
+      this.openLibrarySheet(f, null);
+    });
+    return true;
+  }
+
+  /** Scripture pages must not FEEL like a second library: the tab header's
+   * folder breadcrumb ("AI Library / 01 Scriptures / …") disappears there,
+   * leaving just the page name. */
+  private updateViewChrome(f: TFile): void {
+    const view = this.app.workspace.getActiveViewOfType(MarkdownView);
+    if (!view || view.file?.path !== f.path) return;
+    const scripture = f.path.startsWith(CANONICAL_PREFIX)
+      || f.path.startsWith(ANNOTATED_PREFIX)
+      || (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes"));
+    view.containerEl.toggleClass("sg-clean-header", scripture);
   }
 
   /** After following a link away from a chapter, one labeled tap returns. */

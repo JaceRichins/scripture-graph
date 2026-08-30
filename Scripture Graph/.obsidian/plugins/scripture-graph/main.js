@@ -7565,6 +7565,7 @@ init_src();
 var import_obsidian = require("obsidian");
 init_src();
 var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+var ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
 var LIBRARY_PREFIX = "AI Library/";
 var PERSONAL_PREFIX = "Library/";
 var DEFAULT_SHARED = {
@@ -7936,10 +7937,7 @@ function closeAllSheets() {
 }
 
 // src/study/libraryPreview.ts
-var NAVIGATE_PREFIXES = [
-  CANONICAL_PREFIX,
-  "AI Library/01 Scriptures/Annotated/"
-];
+var NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
 function sheetTargetFor(app, linktext, sourcePath) {
   if (!linktext) return null;
   const base = linktext.split("#")[0].trim();
@@ -7978,13 +7976,16 @@ var LibraryPreviewModal = class extends import_obsidian3.Modal {
       if (prev) void this.show(prev, null);
     };
     this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
-    const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
-    asPage.setAttr("aria-label", "Open as its own page");
-    asPage.onclick = () => {
-      const f = this.current;
-      this.close();
-      this.openAsPage(f);
-    };
+    if (this.openAsPage) {
+      const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
+      asPage.setAttr("aria-label", "Open as its own page");
+      asPage.onclick = () => {
+        const f = this.current;
+        const open2 = this.openAsPage;
+        this.close();
+        open2(f);
+      };
+    }
     this.bodyEl = c.createDiv({ cls: "sg-lib-body markdown-rendered" });
     this.bodyEl.addEventListener("click", (evt) => {
       const a = evt.target.closest("a.internal-link");
@@ -10180,6 +10181,7 @@ var SGPlugin = class extends import_obsidian17.Plugin {
   studyActionViews = /* @__PURE__ */ new WeakSet();
   lastReadingPath = null;
   backPillEl = null;
+  bouncing = false;
   async onload() {
     this.state = new SGState(this.app, this);
     const saved = await this.loadData();
@@ -10398,10 +10400,12 @@ var SGPlugin = class extends import_obsidian17.Plugin {
       if (!f) return;
       this.studyBar.clear();
       closeAllSheets();
+      if (this.bounceAiPage(f)) return;
       this.study.recordVisit(f);
       this.recordLastChapter(f);
       this.updateNavFab(f);
       this.updateBackPill(f);
+      this.updateViewChrome(f);
       this.enforceReadOnly();
       void this.matchSceneToChapter(f);
       this.openInPreviewOnce(f);
@@ -10598,11 +10602,43 @@ var SGPlugin = class extends import_obsidian17.Plugin {
     void this.state.saveDevice();
   }
   /** AI Library content floats over the reading page instead of replacing
-   * it; the sheet's ↗ is the deliberate power path to a real page. */
+   * it. The ↗ open-as-page path exists only in power mode (the same toggle
+   * that shows the AI Library folder) — for the family it simply isn't there. */
   openLibrarySheet(file, subpath) {
-    new LibraryPreviewModal(this.state, file, subpath, (f) => {
+    const openAsPage = this.state.device.showAiLibrary ? (f) => {
       void this.app.workspace.getLeaf().openFile(f);
-    }).open();
+    } : null;
+    new LibraryPreviewModal(this.state, file, subpath, openAsPage).open();
+  }
+  /** An AI Library page (other than scripture) just opened as a PAGE — bounce
+   * back to where the reader was and float the content as a sheet instead.
+   * This is the safety net under every routing rule: it doesn't matter how
+   * the page was reached. Power mode (showAiLibrary) disables the bounce. */
+  bounceAiPage(f) {
+    if (this.bouncing) return false;
+    if (this.state.device.showAiLibrary) return false;
+    if (!f.path.startsWith(LIBRARY_PREFIX)) return false;
+    if (f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX)) return false;
+    this.bouncing = true;
+    const ret = this.lastReadingPath ? this.app.vault.getAbstractFileByPath(this.lastReadingPath) : null;
+    const home = ret instanceof import_obsidian17.TFile ? ret : this.app.metadataCache.getFirstLinkpathDest("Study Hub", "");
+    const leaf = this.app.workspace.getLeaf();
+    const nav = home instanceof import_obsidian17.TFile ? leaf.openFile(home) : leaf.setViewState({ type: "empty" });
+    void nav.catch(() => {
+    }).finally(() => {
+      this.bouncing = false;
+      this.openLibrarySheet(f, null);
+    });
+    return true;
+  }
+  /** Scripture pages must not FEEL like a second library: the tab header's
+   * folder breadcrumb ("AI Library / 01 Scriptures / …") disappears there,
+   * leaving just the page name. */
+  updateViewChrome(f) {
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian17.MarkdownView);
+    if (!view || view.file?.path !== f.path) return;
+    const scripture = f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX) || f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes");
+    view.containerEl.toggleClass("sg-clean-header", scripture);
   }
   /** After following a link away from a chapter, one labeled tap returns. */
   updateBackPill(f) {

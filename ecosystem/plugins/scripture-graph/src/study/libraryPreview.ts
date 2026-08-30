@@ -9,14 +9,11 @@
  * sheet (with ‹ back); scripture links close the sheet and go to the real
  * reading surface. A quiet "open as page" remains for power users. */
 import { App, Component, MarkdownRenderer, Modal, TFile } from "obsidian";
-import { CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
+import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
 
 /** AI pages that ARE reading surfaces keep real navigation */
-const NAVIGATE_PREFIXES = [
-  CANONICAL_PREFIX,
-  "AI Library/01 Scriptures/Annotated/",
-];
+const NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
 
 /** should this link open as a floating sheet instead of navigating? */
 export function sheetTargetFor(app: App, linktext: string, sourcePath: string): TFile | null {
@@ -42,7 +39,8 @@ export class LibraryPreviewModal extends Modal {
     private s: SGState,
     file: TFile,
     private subpath: string | null,
-    private openAsPage: (file: TFile) => void,
+    /** null = no open-as-page path at all (family mode) */
+    private openAsPage: ((file: TFile) => void) | null,
   ) {
     super(s.app);
     this.current = file;
@@ -63,13 +61,16 @@ export class LibraryPreviewModal extends Modal {
       if (prev) void this.show(prev, null);
     };
     this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
-    const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "↗" });
-    asPage.setAttr("aria-label", "Open as its own page");
-    asPage.onclick = () => {
-      const f = this.current;
-      this.close();
-      this.openAsPage(f);
-    };
+    if (this.openAsPage) {
+      const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "↗" });
+      asPage.setAttr("aria-label", "Open as its own page");
+      asPage.onclick = () => {
+        const f = this.current;
+        const open = this.openAsPage!;
+        this.close();
+        open(f);
+      };
+    }
 
     this.bodyEl = c.createDiv({ cls: "sg-lib-body markdown-rendered" });
     // links inside the sheet stay inside the sheet; scripture links leave it

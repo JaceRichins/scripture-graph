@@ -6852,6 +6852,7 @@ ${text}` : text;
 
   // src/state.ts
   var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+  var ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
   var LIBRARY_PREFIX = "AI Library/";
   var PERSONAL_PREFIX = "Library/";
 
@@ -7608,10 +7609,7 @@ ${body}
   };
 
   // src/study/libraryPreview.ts
-  var NAVIGATE_PREFIXES = [
-    CANONICAL_PREFIX,
-    "AI Library/01 Scriptures/Annotated/"
-  ];
+  var NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
   function sheetTargetFor(app, linktext, sourcePath) {
     if (!linktext) return null;
     const base = linktext.split("#")[0].trim();
@@ -7650,13 +7648,16 @@ ${body}
         if (prev) void this.show(prev, null);
       };
       this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
-      const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
-      asPage.setAttr("aria-label", "Open as its own page");
-      asPage.onclick = () => {
-        const f = this.current;
-        this.close();
-        this.openAsPage(f);
-      };
+      if (this.openAsPage) {
+        const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
+        asPage.setAttr("aria-label", "Open as its own page");
+        asPage.onclick = () => {
+          const f = this.current;
+          const open2 = this.openAsPage;
+          this.close();
+          open2(f);
+        };
+      }
       this.bodyEl = c.createDiv({ cls: "sg-lib-body markdown-rendered" });
       this.bodyEl.addEventListener("click", (evt) => {
         const a = evt.target.closest("a.internal-link");

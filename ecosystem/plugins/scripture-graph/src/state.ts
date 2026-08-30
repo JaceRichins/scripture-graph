@@ -8,6 +8,7 @@ import {
 } from "@scripture-graph/core-sdk";
 
 export const CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+export const ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
 export const LIBRARY_PREFIX = "AI Library/";
 export const PERSONAL_PREFIX = "Library/";
 

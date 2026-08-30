@@ -1008,6 +1008,12 @@ body.sg-scene-on .sg-chap-conn {
   background: rgba(255, 255, 255, 0.08);
   border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
 }
+/* scripture pages carry no folder breadcrumb — "Exodus 3", not
+   "AI Library / 01 Scriptures / …". One library, as far as the eye knows. */
+.sg-clean-header .view-header-title-parent { display: none; }
+.sg-clean-header .view-header-breadcrumb,
+.sg-clean-header .view-header-breadcrumb-separator { display: none; }
+
 /* ---------- 👁 verse peek: the reference comes to the reader ------------- */
 .sg-peek-modal { width: min(520px, 94vw); }
 .sg-peek-title { margin: 0 0 10px; }
