@@ -7931,9 +7931,9 @@ ${body}
         stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
         return;
       }
-      let W = stream.clientWidth;
-      if (W < 80) {
-        W = 420;
+      let cw = stream.clientWidth;
+      if (cw < 80) {
+        cw = 420;
         if (!this.retriedZeroWidth) {
           this.retriedZeroWidth = true;
           window.requestAnimationFrame(() => {
@@ -7941,7 +7941,8 @@ ${body}
           });
         }
       }
-      this.lastW = W;
+      this.lastW = cw;
+      const W = Math.min(cw, 820);
       const tx = !this.focus && this.depth === 2 ? this.threadX(W) : /* @__PURE__ */ new Map();
       const threadById = new Map((this.data?.threads ?? []).map((t) => [t.id, t]));
       const laneX = (lane) => W * (LANE_F[lane] ?? 0.5);

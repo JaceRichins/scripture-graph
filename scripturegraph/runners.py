@@ -207,6 +207,17 @@ def run_study(ctx: Ctx) -> dict:
         # 1. quick deterministic drain (renders, re-opened passes, …)
         stats["det"] = _process(ctx, include_ai=False, max_items=600,
                                 deadline_ts=start + min(300, window // 4))
+        # 1b. timeline freshness rides THIS tick because it reliably owns the
+        # lock — a hot queue can starve the 2h frequent run for days, and the
+        # hash guard makes this free whenever nothing changed
+        if ctx.c("timeline.enabled", True):
+            from scripturegraph.timeline import maybe_build_timeline
+            try:
+                tl = maybe_build_timeline(ctx)
+                if tl.get("rebuilt") or tl.get("sections", {}).get("updated"):
+                    stats["timeline"] = tl
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("study.timeline_failed", error=str(e)[:200])
         # 2. AI research until the window closes
         cap = int(ctx.budget("daily_ai_jobs_cap") or 0)
         used = _daily_jobs_used(ctx)

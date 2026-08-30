@@ -421,9 +421,9 @@ export class TimelineView extends ItemView {
     }
 
     // measure the real width; if we rendered before layout, try once more
-    let W = stream.clientWidth;
-    if (W < 80) {
-      W = 420;
+    let cw = stream.clientWidth;
+    if (cw < 80) {
+      cw = 420;
       if (!this.retriedZeroWidth) {
         this.retriedZeroWidth = true;
         window.requestAnimationFrame(() => {
@@ -431,7 +431,10 @@ export class TimelineView extends ItemView {
         });
       }
     }
-    this.lastW = W;
+    this.lastW = cw;
+    // a desktop pane is WIDE — cap the constellation to a readable column
+    // and center it, instead of stretching the rails across the whole pane
+    const W = Math.min(cw, 820);
 
     const tx = (!this.focus && this.depth === 2) ? this.threadX(W) : new Map<string, number>();
     const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
