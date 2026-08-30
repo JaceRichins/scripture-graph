@@ -11,7 +11,7 @@ timeline module, not this file._
 
 ```json
 {
- "version": 1,
+ "version": 2,
  "events": [
   {
    "id": "creation",
@@ -139,6 +139,7 @@ timeline module, not this file._
    "y0": -2150,
    "y1": -2150,
    "lane": "nw",
+   "thread": "nw-jaredite",
    "imp": 2,
    "cat": [
     "journeys"
@@ -153,6 +154,53 @@ timeline module, not this file._
     "Ether 6"
    ],
    "note": "the Lord touches sixteen stones; a nation is planted in the New World"
+  },
+  {
+   "id": "jaredite-kings",
+   "t": "The Jaredite kingdom rises and darkens",
+   "y0": -2000,
+   "y1": -700,
+   "lane": "nw",
+   "thread": "nw-jaredite",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "traditional",
+   "chapters": [
+    "Ether 7",
+    "Ether 9",
+    "Ether 10"
+   ],
+   "note": "generations of kings, captivity, and secret combinations"
+  },
+  {
+   "id": "jaredite-end",
+   "t": "The Jaredites destroy themselves; Coriantumr alone",
+   "y0": -590,
+   "y1": -580,
+   "lane": "nw",
+   "thread": "nw-jaredite",
+   "imp": 2,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "traditional",
+   "people": [
+    "Coriantumr",
+    "Ether"
+   ],
+   "places": [
+    "Ramah"
+   ],
+   "chapters": [
+    "Ether 14",
+    "Ether 15",
+    "Omni 1"
+   ],
+   "note": "the prophet watches from a cave; the last king lives to be found by the Mulekites"
   },
   {
    "id": "abraham-call",
@@ -627,6 +675,7 @@ timeline module, not this file._
    "y0": -860,
    "y1": -860,
    "lane": "ow",
+   "thread": "ow-israel",
    "imp": 1,
    "cat": [
     "prophets",
@@ -653,6 +702,7 @@ timeline module, not this file._
    "y0": -850,
    "y1": -800,
    "lane": "ow",
+   "thread": "ow-israel",
    "imp": 2,
    "cat": [
     "prophets"
@@ -674,6 +724,7 @@ timeline module, not this file._
    "y0": -760,
    "y1": -722,
    "lane": "ow",
+   "thread": "ow-israel",
    "imp": 3,
    "cat": [
     "prophets"
@@ -698,6 +749,7 @@ timeline module, not this file._
    "y0": -722,
    "y1": -722,
    "lane": "ow",
+   "thread": "ow-israel",
    "imp": 1,
    "cat": [
     "wars",
@@ -1186,9 +1238,10 @@ timeline module, not this file._
   {
    "id": "ether-plates-found",
    "t": "Limhi's men find twenty-four gold plates",
-   "y0": -121,
-   "y1": -121,
+   "y0": -122,
+   "y1": -122,
    "lane": "nw",
+   "thread": "nw-zeniff",
    "imp": 2,
    "cat": [
     "records",
@@ -1413,7 +1466,8 @@ timeline module, not this file._
    "y0": -200,
    "y1": -160,
    "lane": "nw",
-   "imp": 3,
+   "thread": "nw-zeniff",
+   "imp": 2,
    "cat": [
     "journeys"
    ],
@@ -1437,6 +1491,7 @@ timeline module, not this file._
    "y0": -148,
    "y1": -148,
    "lane": "nw",
+   "thread": "nw-zeniff",
    "imp": 1,
    "cat": [
     "prophets",
@@ -1464,6 +1519,7 @@ timeline module, not this file._
    "y0": -147,
    "y1": -145,
    "lane": "nw",
+   "thread": "nw-alma",
    "imp": 1,
    "cat": [
     "turning"
@@ -1479,6 +1535,82 @@ timeline module, not this file._
     "Mosiah 18"
    ],
    "note": "the church of Christ organized in the wilderness"
+  },
+  {
+   "id": "alma-bondage",
+   "t": "Alma's people in bondage; burdens made light",
+   "y0": -145,
+   "y1": -121,
+   "lane": "nw",
+   "thread": "nw-alma",
+   "imp": 2,
+   "cat": [
+    "turning"
+   ],
+   "dating": "internal",
+   "people": [
+    "Alma the Elder",
+    "Amulon"
+   ],
+   "places": [
+    "Helam"
+   ],
+   "chapters": [
+    "Mosiah 23",
+    "Mosiah 24"
+   ],
+   "note": "the Lord strengthens their backs before opening the way"
+  },
+  {
+   "id": "limhi-escape",
+   "t": "Limhi's people escape to Zarahemla",
+   "y0": -121,
+   "y1": -121,
+   "lane": "nw",
+   "thread": "nw-zeniff",
+   "imp": 2,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "internal",
+   "people": [
+    "Limhi",
+    "Ammon (of Zarahemla)",
+    "Gideon (BoM)"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "chapters": [
+    "Mosiah 22"
+   ],
+   "note": "the colony comes home — the storylines rejoin"
+  },
+  {
+   "id": "alma-deliverance",
+   "t": "Alma's people delivered to Zarahemla",
+   "y0": -120,
+   "y1": -120,
+   "lane": "nw",
+   "thread": "nw-alma",
+   "imp": 2,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "internal",
+   "people": [
+    "Alma the Elder",
+    "Mosiah II"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "chapters": [
+    "Mosiah 24"
+   ],
+   "note": "all the people of Zarahemla hear all the stories at last"
   },
   {
    "id": "benjamin-speech",
@@ -2865,6 +2997,40 @@ timeline module, not this file._
   "jsm": 30,
   "jsh": 1823,
   "aoff": 30
- }
+ },
+ "threads": [
+  {
+   "id": "ow-israel",
+   "lane": "ow",
+   "label": "Northern Kingdom",
+   "color": "#e7c06a",
+   "branch": "kingdom-divides",
+   "merges": false
+  },
+  {
+   "id": "nw-jaredite",
+   "lane": "nw",
+   "label": "The Jaredites",
+   "color": "#9adbc0",
+   "branch": null,
+   "merges": false
+  },
+  {
+   "id": "nw-zeniff",
+   "lane": "nw",
+   "label": "Zeniff's colony",
+   "color": "#7fd9ad",
+   "branch": "mosiah-zarahemla",
+   "merges": true
+  },
+  {
+   "id": "nw-alma",
+   "lane": "nw",
+   "label": "Alma's people",
+   "color": "#2ea06b",
+   "branch": "abinadi",
+   "merges": true
+  }
+ ]
 }
 ```
