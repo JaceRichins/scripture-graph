@@ -17,19 +17,19 @@ Scripture: [[D&C 124]] · My notes: [[D&C 124 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 124 joins missionary proclamation, sacred ordinances, economic administration, personal counsel, and priesthood organization. Its two principal public building projects must be distinguished: the holy house is associated with [[Baptism for the Dead]], other [[Ordinances]], priesthood keys, and revelation, while the Nauvoo House is a boarding house for strangers governed by detailed stock and fiduciary rules. Verse 115 also directs the construction of a private house for Joseph. Across the chapter, many blessings and appointments are explicitly conditional; commendation does not erase continuing accountability.
+D&C 124 integrates proclamation, sacred space, economic administration, individual accountability, and church organization. Two public projects must be kept distinct. The holy house is associated with [[Baptism for the Dead]], other [[Ordinances]], priesthood keys, holiness, and further [[Revelation]]. The Nauvoo House is a boarding house for strangers governed through stock, restricted-use, restitution, and wage rules. Verse 115 introduces a third house, to be built for Joseph under an existing contract. Throughout the chapter, commendation and appointment remain joined to stewardship and frequently to explicit conditions.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-A useful outline is:
+A text-sensitive outline is:
 
-1. Verses 1-18: a worldwide proclamation and its assistants.
-2. Verses 19-24: personal commendations and the first description of a boarding house.
-3. Verses 25-55: gathering resources, building the holy house, temple ordinances, conditional promises, and the principle governing work prevented by enemies.
-4. Verses 56-72: the Nauvoo House, its purpose, ownership, and fiduciary rules.
-5. Verses 73-122: individual assignments, warnings, promises, and additional Nauvoo House regulations.
-6. Verses 123-145: [[Priesthood]] officers, quorum functions, conference action, and rooms for the offices in the holy house.
+1. Verses 1-18: the solemn proclamation, its audience, manner, and assistants.
+2. Verses 19-24: commendations and the initial command for a boarding house.
+3. Verses 25-55: resources for the holy house, temple ordinances, conditional promises, and the rule concerning work hindered by enemies.
+4. Verses 56-72: the Nauvoo House's name, purpose, organization, stock limits, and restricted funds.
+5. Verses 73-122: individual assignments and warnings, leadership changes, missionary duties, and further Nauvoo House regulations.
+6. Verses 123-145: [[Priesthood]] officers, differentiated quorum functions, conference action, and rooms for the offices in the holy house.
 <!-- SG:END structure -->
 
 ## People
@@ -70,9 +70,9 @@ A useful outline is:
 - [[D&C 132]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 117]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-59|D&C 124:59]] ↔ [[D&C 117#^dc-117-12|D&C 117:12]]
 - [[D&C 42]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-106|D&C 124:106]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
-- [[Matthew 18]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-45|D&C 124:45]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-4|D&C 124:4]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 16#^matt-16-19|Matthew 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,9 +88,11 @@ A useful outline is:
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter closely associates [[Temples]] with authorized ordinances, priesthood keys, and further revelation (D&C 124:28–41). Its treatment of [[Obedience]] distinguishes several cases. Temporary accommodation is granted during genuine poverty, but it does not replace the enduring ordinance norm. Construction alone does not secure promised blessings when the accompanying commandments are disregarded (D&C 124:44–48). Conversely, people who continue diligently but are prevented by enemies may have their offerings accepted (D&C 124:49–54); this is a limited principle involving both effort and external obstruction.
+The chapter closely associates [[Temples]] with authorized [[Ordinances]], priesthood keys, holiness, and further [[Revelation]] (D&C 124:28–42). Its treatment of [[Obedience]] distinguishes several cases. Genuine poverty permits a temporary accommodation for baptisms for the dead, but does not erase the stated enduring ordinance norm (D&C 124:29–35). Completing the building alone does not secure promised blessings when accompanying commandments are disregarded (D&C 124:44–48). Conversely, people who labor with all their might, continue diligently, and are hindered by enemies may have their offerings accepted (D&C 124:49–54). The chapter does not define how broadly that final principle applies beyond comparable circumstances.
 
-Priesthood authority is organized through differentiated offices and quorums. The command to approve or disapprove named officers at general conference establishes communal participation, although the chapter does not specify its procedure or precise institutional force.
+The Nauvoo House regulations make financial accountability concrete. Stock must represent value actually received; project assets must remain devoted to their stated purpose; unauthorized diversion requires stockholder consent or fourfold repayment; and laborers are entitled to agreed compensation (D&C 124:63–72, 121–122). These provisions can inform study of [[Honesty]] and [[Work and Self-Reliance]], while their immediate object remains a particular stock enterprise rather than a complete or timeless financial system.
+
+Priesthood authority is organized through differentiated offices and quorums. The First Presidency receives oracles for the whole church; the Twelve and seventies have traveling responsibilities; high priests and elders are primarily associated with standing ministry and presidency. The command to approve or disapprove named officers at general conference establishes communal participation, although the chapter does not specify the electorate, procedure, threshold, or precise institutional effect.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -123,14 +125,18 @@ Priesthood authority is organized through differentiated offices and quorums. Th
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Conditional language—especially repeated uses of “if”—is essential to interpreting the personal promises. Conditions involving counsel, continuation, humility, repentance, and obedience mean that praise or promised glory should not be treated as an unconditional judgment about a person's entire future. Each promise must nevertheless be parsed individually.
+Conditional language is indispensable to interpretation. Repeated clauses such as 'if he receive counsel,' 'if he continue,' and 'if he will do my will' prevent favorable statements from being read automatically as unconditional predictions. Each promise must still be parsed individually because not every statement has the same grammar.
 
-The word “house” changes referents and must be resolved from local context. The chapter also uses extensive biblical language, including Abraham and his seed, Cain's offering, Moses' tabernacle, the golden calf, eagles' wings, binding and loosing, Melchizedek, and the Only Begotten. These allusions have differing local functions and do not by themselves demonstrate one literary architecture, ancient authorship, or divine origin.
+The word 'house' shifts among the holy house, the Nauvoo boarding house, and the house contracted for Joseph. Purpose, builders, financing, and nearby ordinance language identify the intended referent.
+
+Biblical diction includes Abraham and his seed, Cain's offering, Moses' tabernacle, the golden calf, eagles' wings, binding and loosing, Melchizedek, and the Only Begotten. These allusions serve local rhetorical or theological purposes. Their presence alone does not demonstrate ancient authorship, divine origin, or a single overarching literary design.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter juxtaposes two principal public houses with different stated functions. The holy house centers on ordinances, priesthood keys, holiness, and revelation; the Nauvoo House centers on lodging strangers, rest, contemplation of Zion, counsel, and regulated investment. A reader may interpret this as an inward-and-outward pattern of sacred formation and public hospitality, but the text does not formally announce that pattern or establish a chiasm or balanced literary design.
+The chapter repeatedly moves between elevated promises and concrete mechanisms: worldwide proclamation requires actual writers and messengers; sacred ordinances require a constructed place; hospitality requires stock and wages; priesthood requires named officers, differentiated duties, and conference action. This creates a persistent ideal-to-administration movement in the discourse.
+
+The two public houses may also be read as complementary: one centers on sacred formation and ordinance, while the other faces outward through hospitality, rest, and contemplation of Zion. That is a plausible thematic interpretation, not a formally announced pattern, chiasm, or proof of deliberate literary symmetry.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -138,6 +144,14 @@ The chapter juxtaposes two principal public houses with different stated functio
 > [!evidence] Textual-Rhetorical Evidence
 > Repeated conditional language is strong textual evidence that many commendations, offices, protections, and promised blessings in the chapter are contingent rather than unconditional forecasts. Phrases such as 'if he receive counsel,' 'if he continue,' 'if he will do my will,' and 'if he will hearken' explicitly condition several individual promises.
 > — strength 0.9 · confidence 1.0 · Strong agreement · [[Textual-Rhetorical Evidence in D&C 124|full dossier]]
+
+> [!evidence] Ethical-Administrative Textual Evidence
+> The placement and specificity of the Nauvoo House rules provide strong textual evidence that economic administration is treated as morally accountable stewardship within the chapter, particularly where restricted funds, consent, restitution, and fair wages are concerned.
+> — strength 0.7 · confidence 0.9 · Textual accountability affirmed; broader theology disputed · [[Ethical-Administrative Textual Evidence in D&C 124|full dossier]]
+
+> [!evidence] Textual Differentiation
+> The text strongly distinguishes two public houses: a boarding house for strangers, later named the Nauvoo House, and a holy house in which ordinances and priesthood-related revelations are to be given. The distinction is established by their different stated functions and separately repeated construction instructions.
+> — strength 1.0 · confidence 1.0 · Broadly affirmed · [[Textual Differentiation in D&C 124|full dossier]]
 
 > [!evidence] Historical-Administrative Embeddedness
 > The detailed names, offices, stock limits, fiduciary restrictions, wages, travel assignments, and conference procedures provide strong evidence that the revelation is closely engaged with the concrete administrative concerns of its community. That observation alone offers little leverage for deciding whether its ultimate source is divine.
@@ -147,27 +161,29 @@ The chapter juxtaposes two principal public houses with different stated functio
 > The stock limits, payment requirements, restricted use of funds, stockholder-consent rule, fourfold repayment provision, and wage instructions are strong evidence that the Nauvoo House is presented as an accountable economic stewardship rather than only as a symbolic religious ideal.
 > — strength 0.9 · confidence 1.0 · Strong agreement · [[Administrative Textual Evidence in D&C 124|full dossier]]
 
-> [!evidence] Intertextual And Typological Evidence *(tentative)*
-> References to Abraham's seed, Cain's offering, Moses' tabernacle, the golden calf, binding and loosing, Melchizedek, and the Only Begotten show that the chapter frames Nauvoo's commissions through biblical covenantal and priestly language.
-> — strength 0.5 · confidence 0.8 · Allusions accepted; unified typology disputed
+> [!evidence] Grammatical And Contextual Evidence
+> Many personal commendations, appointments, and promised blessings are explicitly conditioned on continuing faithfully, receiving counsel, doing the divine will, repenting, or remaining humble. The text therefore does not support treating every favorable statement as an unconditional prediction of a person's later conduct or status.
+> — strength 0.9 · confidence 1.0 · Broadly affirmed · [[Grammatical And Contextual Evidence in D&C 124|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-How does the temporary poverty exception in D&C 124:29–35 clarify the relationship between divine accommodation, available means, and enduring ordinance norms?
+How does the temporary poverty exception in D&C 124:29-35 clarify the relationship between divine accommodation, available means, and an enduring ordinance norm?
 
-What conditions in D&C 124:47–54 distinguish disobedience from faithful effort frustrated by external opposition?
+Which requirements in D&C 124:49 distinguish faithful inability from neglect, and what would be lost by generalizing the passage beyond those requirements?
 
-Why are stock limits, consent, restitution, and wages included alongside teachings about sacred buildings and ordinances, and what ordinary administrative explanations should be considered?
+Why are restricted funds, stockholder consent, fourfold repayment, and wages included in the same revelation as temple ordinances and priesthood organization?
 
-Which personal promises are grammatically conditional, and what errors arise when their conditions are omitted?
+Which promises are grammatically conditional, and which must instead be evaluated through broader covenantal context?
 
-What does conference approval or disapproval establish about communal participation, and what procedural questions does verse 144 leave unanswered?
+What does the distinction between retained priesthood and replacement in a calling in D&C 124:130, 132 suggest about office, authority, and succession?
 
-How do the differing responsibilities of elders, seventies, the Twelve, standing presidents, and the First Presidency organize ministry in this chapter?
+What form of communal participation is required by the instruction to approve or disapprove officers, and what procedural questions does D&C 124:144 leave unanswered?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the regulation of [[Baptism for the Dead]] with [[D&C 128]], and compare the relationship among a house of God, holiness, Zion, and obedience with [[D&C 97]]. [[D&C 104]] may offer a secondary comparison for stewardship and accountability, but that connection requires verse-level examination. The Abraham-patterned promise in D&C 124:57–59 may be studied alongside the [[Abrahamic Covenant]] without assuming a particular mechanism or fulfillment. Historical sources beyond this chapter are required to evaluate construction outcomes, the proclamation, later institutional development, individual fulfillment, and later explanations of the phrase “fulness of the priesthood.”
+Compare the regulation of [[Baptism for the Dead]] with [[D&C 128]], and compare the relationship among a house of God, holiness, Zion, and obedience with [[D&C 97]]. [[D&C 101]] provides scriptural context for the Missouri suffering invoked in D&C 124:49-54. [[D&C 104]] offers a useful comparison for stewardship and accountable property administration, although the two revelations address different organizations.
+
+The Abraham-patterned promise in D&C 124:57-59 should be studied alongside the [[Abrahamic Covenant]] without assuming a particular mechanism or historical fulfillment. Historical records beyond this chapter are necessary to assess construction outcomes, the proposed proclamation, later institutional developments, the conduct of named individuals, and later explanations of the phrase 'fulness of the priesthood.'
 <!-- SG:END further-study -->
