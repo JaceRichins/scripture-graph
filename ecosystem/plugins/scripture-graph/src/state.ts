@@ -71,6 +71,8 @@ export interface DeviceState {
   showAiLibrary: boolean;
   /** ambient reading scene: "none" | "auto" | scene id */
   scene: string;
+  /** timeline depth: 1 = one line per world, 2 = storylines split out */
+  tlDepth: 1 | 2;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -93,6 +95,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   recentChapters: [],
   showAiLibrary: false,
   scene: "none",
+  tlDepth: 2,
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }

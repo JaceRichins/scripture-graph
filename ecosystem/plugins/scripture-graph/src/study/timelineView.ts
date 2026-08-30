@@ -21,6 +21,21 @@ export interface TimelineEvent {
   dating: string;
   people?: string[]; places?: string[]; things?: string[]; chapters?: string[];
   note: string;
+  /** storyline this event rides (Zeniff's colony, the Jaredites…) */
+  thread?: string;
+}
+
+/** a concurrent storyline inside a lane — the Book of Mormon runs four at
+ * once through the Mosiah years, and depth 2 braids them side by side */
+export interface TimelineThread {
+  id: string;
+  lane: "ow" | "nw" | "rs";
+  label: string;
+  color: string;
+  /** event id where this storyline splits off the main line */
+  branch: string | null;
+  /** whether the storyline flows back into the main line at its end */
+  merges: boolean;
 }
 
 export type SubjectKind = "people" | "places" | "things";
@@ -36,6 +51,7 @@ export interface TimelineData {
   version: number;
   events: TimelineEvent[];
   book_years: Record<string, number>;
+  threads?: TimelineThread[];
 }
 
 const DATA_PATH = "AI Library/90 Timeline/_data.md";
@@ -110,6 +126,7 @@ export class TimelineView extends ItemView {
   private lanes = new Set(["ow", "nw", "rs"]);
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
+  private depth: 1 | 2 = 2;       // 2 = storylines braid out of their lane
   private query = "";
   private focus: Subject | null = null;
   private pendingYear: number | null = null;
@@ -121,7 +138,18 @@ export class TimelineView extends ItemView {
     this.render();
   }
 
-  constructor(leaf: WorkspaceLeaf, private s: SGState) { super(leaf); }
+  constructor(leaf: WorkspaceLeaf, private s: SGState) {
+    super(leaf);
+    const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 } }).device;
+    if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
+  }
+
+  private saveDepth(): void {
+    const s = this.s as unknown as {
+      device?: { tlDepth?: 1 | 2 }; saveDevice?: () => Promise<void>;
+    };
+    if (s.device) { s.device.tlDepth = this.depth; void s.saveDevice?.(); }
+  }
 
   getViewType(): string { return TIMELINE_VIEW; }
   getDisplayText(): string { return "Timeline"; }
@@ -264,6 +292,27 @@ export class TimelineView extends ItemView {
     focusBtn.toggleClass("sg-tl-on", true);
     focusBtn.onclick = () => new SubjectPickerModal(this.s, this,
       (sub) => this.setFocus(sub)).open();
+    // depth, the graph-view way: 1 = one river per world, 2 = the river
+    // braids — Zeniff, Alma, and Zarahemla run side by side through Mosiah
+    if (this.data.threads?.length) {
+      const seg = row2.createDiv({ cls: "sg-tl-seg" });
+      seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
+      const segDefs: [1 | 2, string, string][] = [
+        [1, "1", "One line per world"],
+        [2, "2", "Split out the storylines"],
+      ];
+      for (const [d, label, hint] of segDefs) {
+        const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
+        b.setAttr("aria-label", hint);
+        b.toggleClass("sg-tl-seg-on", this.depth === d);
+        b.onclick = () => {
+          if (this.depth === d) return;
+          this.depth = d;
+          this.saveDepth();
+          this.render();
+        };
+      }
+    }
 
     const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
     for (const cat of CATS) {
@@ -303,7 +352,22 @@ export class TimelineView extends ItemView {
   private yById = new Map<string, number>();
   private yByYear: [number, number][] = [];   // [year, yUnits]
 
-  /** the constellation: glowing nodes on two threads of time, narrative
+  /** at depth 2 every storyline earns its own column beside its lane —
+   * assigned per lane in dataset order, so new threads slot in on their own */
+  private threadX(): Map<string, number> {
+    const m = new Map<string, number>();
+    const slots: Record<string, number[]> = {
+      ow: [160, 105], nw: [845, 915, 775, 950], rs: [590, 640],
+    };
+    const used: Record<string, number> = { ow: 0, nw: 0, rs: 0 };
+    for (const t of this.data?.threads ?? []) {
+      const lane = slots[t.lane] ?? slots.nw!;
+      m.set(t.id, lane[Math.min(used[t.lane]!++, lane.length - 1)]!);
+    }
+    return m;
+  }
+
+  /** the constellation: glowing nodes on braided threads of time, narrative
    * links arcing between the hemispheres — the graph view, given order */
   private renderStream(): void {
     const stream = this.streamEl;
@@ -318,11 +382,31 @@ export class TimelineView extends ItemView {
       return;
     }
 
+    // sticky legend: the three worlds stay named while you scroll the ages
+    if (!this.focus) {
+      const legend = stream.createDiv({ cls: "sg-tl-legend" });
+      const legendDefs: [string, string][] = [["ow", "Old World"],
+        ["rs", "Restoration"], ["nw", "Book of Mormon"]];
+      for (const [key, label] of legendDefs) {
+        if (!this.lanes.has(key)) continue;
+        const it = legend.createSpan({ cls: "sg-tl-legend-item", text: label });
+        it.style.setProperty("--sg-lane", LANE_COLOR[key]!);
+      }
+    }
+
+    const tx = (!this.focus && this.depth === 2) ? this.threadX() : new Map<string, number>();
+    const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
+    const xFor = (e: TimelineEvent) =>
+      (e.thread ? tx.get(e.thread) : undefined) ?? LANE_X[e.lane] ?? 500;
+    const onThread = (e: TimelineEvent) => !!e.thread && tx.has(e.thread);
+
     // ---- layout: rank-spaced down the page, extra breath at century turns
     const ROW = 92, CENTURY_GAP = 74, TOP = 60, BOTTOM = 140;
     let y = TOP;
     let lastCentury: number | null = null;
     const centuries: { y: number; label: string; page: string; year: number }[] = [];
+    const eraBands: { label: string; yTop: number }[] = [];
+    let lastEra: string | null = null;
     const pos = new Map<string, { x: number; y: number; e: TimelineEvent }>();
     for (const e of events) {
       const century = e.y0 < 0
@@ -336,7 +420,12 @@ export class TimelineView extends ItemView {
         centuries.push({ y: y - 34, label: page.replace("-", "–"), page, year: century });
         this.yByYear.push([century, y - 34]);
       }
-      pos.set(e.id, { x: LANE_X[e.lane] ?? 500, y, e });
+      const era = [...ERAS].reverse().find(er => er.y <= e.y0);
+      if (era && era.label !== lastEra) {
+        lastEra = era.label;
+        eraBands.push({ label: era.label, yTop: y - CENTURY_GAP + 8 });
+      }
+      pos.set(e.id, { x: xFor(e), y, e });
       this.yById.set(e.id, y);
       y += ROW;
     }
@@ -361,6 +450,24 @@ export class TimelineView extends ItemView {
     const merge = el("feMerge", {}, filt);
     el("feMergeNode", { in: "b" }, merge);
     el("feMergeNode", { in: "SourceGraphic" }, merge);
+
+    // ---- era washes: faint alternating bands with huge watermark names,
+    // so a fast scroll still tells you WHEN you are
+    for (let i = 0; i < eraBands.length; i++) {
+      const band = eraBands[i]!;
+      const yEnd = eraBands[i + 1]?.yTop ?? H;
+      if (i % 2 === 0) {
+        el("rect", {
+          x: "0", y: String(band.yTop), width: String(W),
+          height: String(yEnd - band.yTop), class: "sg-tl-band",
+        });
+      }
+      const wm = el("text", {
+        x: "500", y: String(band.yTop + 96), "text-anchor": "middle",
+        class: "sg-tl-erawash",
+      });
+      wm.textContent = band.label.toUpperCase();
+    }
 
     // ---- century lines (tappable → anchor page sheet)
     for (const c of centuries) {
@@ -390,19 +497,69 @@ export class TimelineView extends ItemView {
       }
       if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
     } else {
-      // ---- the threads of time: one luminous line per lane
-      for (const lane of ["ow", "nw", "rs"]) {
-        const chain = events.filter(e => e.lane === lane);
-        if (chain.length < 2) continue;
+      const chainPath = (chain: { x: number; y: number }[]): string => {
         let d = "";
         for (let i = 0; i < chain.length; i++) {
-          const p = pos.get(chain[i]!.id)!;
+          const p = chain[i]!;
           if (i === 0) { d = `M ${p.x} ${p.y}`; continue; }
-          const prev = pos.get(chain[i - 1]!.id)!;
+          const prev = chain[i - 1]!;
           const midY = (prev.y + p.y) / 2;
           d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
         }
-        el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane]! });
+        return d;
+      };
+
+      // ---- the threads of time: one luminous line per lane; at depth 2
+      // storyline events step OUT of the main line into their own braid
+      for (const lane of ["ow", "nw", "rs"]) {
+        const chain = events
+          .filter(e => e.lane === lane && !onThread(e))
+          .map(e => pos.get(e.id)!);
+        if (chain.length < 2) continue;
+        el("path", { d: chainPath(chain), class: "sg-tl-thread", stroke: LANE_COLOR[lane]! });
+      }
+
+      // ---- storyline braids: each concurrent narrative gets its own line,
+      // a dashed split where it leaves the main story, a dashed return
+      // where the peoples rejoin — Mosiah's four timelines, side by side
+      if (tx.size) {
+        for (const th of this.data?.threads ?? []) {
+          const members = events.filter(e => e.thread === th.id);
+          if (!members.length) continue;
+          const chain = members.map(e => pos.get(e.id)!);
+          if (chain.length > 1) {
+            el("path", { d: chainPath(chain), class: "sg-tl-thread2", stroke: th.color });
+          }
+          const first = chain[0]!, last = chain[chain.length - 1]!;
+          // split: from the branch event if it's on screen, else out of the lane
+          const from = (th.branch ? pos.get(th.branch) : undefined)
+            ?? { x: LANE_X[th.lane] ?? 500, y: first.y - 64 };
+          const midA = (from.y + first.y) / 2;
+          el("path", {
+            d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
+            class: "sg-tl-branch", stroke: th.color,
+          });
+          // rejoin: back to the next mainline event of this lane
+          if (th.merges) {
+            const back = events.find(e => e.lane === th.lane && !onThread(e)
+              && (pos.get(e.id)?.y ?? 0) > last.y);
+            const to = back ? pos.get(back.id)! : { x: LANE_X[th.lane] ?? 500, y: last.y + 64 };
+            const midB = (last.y + to.y) / 2;
+            el("path", {
+              d: `M ${last.x} ${last.y} C ${last.x} ${midB}, ${to.x} ${midB}, ${to.x} ${to.y}`,
+              class: "sg-tl-branch", stroke: th.color,
+            });
+          }
+          // name the storyline where it begins
+          const capRight = first.x >= 500;
+          const cap = el("text", {
+            x: String(first.x + (capRight ? -20 : 20)),
+            y: String(first.y - 22),
+            "text-anchor": capRight ? "end" : "start",
+            class: "sg-tl-tcap", fill: th.color,
+          });
+          cap.textContent = `↳ ${th.label}`;
+        }
       }
 
       // ---- narrative arcs between hemispheres
@@ -436,22 +593,41 @@ export class TimelineView extends ItemView {
     for (const e of events) {
       const p = pos.get(e.id)!;
       const r = e.imp === 1 ? 15 : e.imp === 2 ? 10 : 7;
+      const braided = onThread(e);
+      const color = (braided && e.thread ? threadById.get(e.thread)?.color : undefined)
+        ?? LANE_COLOR[e.lane]!;
       const g = el("g", { class: "sg-tl-node", "data-id": e.id });
+      // halo → glowing core → a glint of light: stars, not dots
+      el("circle", {
+        cx: String(p.x), cy: String(p.y), r: String(r + 9),
+        fill: color, class: "sg-tl-halo",
+      }, g);
       el("circle", {
         cx: String(p.x), cy: String(p.y), r: String(r),
-        fill: LANE_COLOR[e.lane]!, filter: "url(#sgtlglow)",
+        fill: color, filter: "url(#sgtlglow)",
         class: "sg-tl-dot",
       }, g);
-      // labels hang below their node, centered — the graph view's own idiom
-      const label = e.t.length > 30 ? `${e.t.slice(0, 28)}…` : e.t;
+      el("circle", {
+        cx: String(p.x - r * 0.32), cy: String(p.y - r * 0.32),
+        r: String(Math.max(1.6, r * 0.3)), class: "sg-tl-glint",
+      }, g);
+      // labels hang below their node, centered — the graph view's own idiom;
+      // braided columns sit near the edge, so their labels shrink and clamp
+      const max = braided ? 22 : 30;
+      const label = e.t.length > max ? `${e.t.slice(0, max - 2)}…` : e.t;
+      const lx = braided
+        ? Math.min(Math.max(p.x, 110), 890)
+        : Math.min(Math.max(p.x, 150), 850);
+      const cls = braided ? "sg-tl-label sg-tl-label-sm"
+        : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label";
       const t1 = el("text", {
-        x: String(p.x), y: String(p.y + r + 26), "text-anchor": "middle",
-        class: e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label",
+        x: String(lx), y: String(p.y + r + (braided ? 22 : 26)),
+        "text-anchor": "middle", class: cls,
       }, g);
       t1.textContent = label;
       const t2 = el("text", {
-        x: String(p.x), y: String(p.y + r + 50), "text-anchor": "middle",
-        class: "sg-tl-sublabel",
+        x: String(lx), y: String(p.y + r + (braided ? 42 : 50)),
+        "text-anchor": "middle", class: "sg-tl-sublabel",
       }, g);
       t2.textContent = yearStr(e.y0);
       (g as unknown as SVGElement & { onclick: unknown }).onclick = () => this.selectNode(e, g);

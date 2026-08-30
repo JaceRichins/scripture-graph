@@ -8,15 +8,27 @@ from scripturegraph.util import read_text
 
 
 def test_dataset_shape():
+    from scripturegraph.timeline import THREADS
     ids = [e["id"] for e in EVENTS]
     assert len(ids) == len(set(ids)), "event ids must be unique"
     assert len(EVENTS) >= 90
+    thread_ids = {t["id"] for t in THREADS}
     for e in EVENTS:
         assert e["lane"] in ("ow", "nw", "rs"), e["id"]
         assert e["dating"] in ("traditional", "approximate", "internal", "historical"), e["id"]
         assert e["imp"] in (1, 2, 3), e["id"]
         assert -4200 <= e["y0"] <= e["y1"] <= 2100, e["id"]
         assert e["cat"], e["id"]
+        if "thread" in e:
+            assert e["thread"] in thread_ids, e["id"]
+    # every thread's branch point exists, and threads sit on their own lane
+    for t in THREADS:
+        assert t["lane"] in ("ow", "nw", "rs")
+        if t["branch"]:
+            assert t["branch"] in ids, t["id"]
+        members = [e for e in EVENTS if e.get("thread") == t["id"]]
+        assert members, f"thread {t['id']} has no events"
+        assert all(e["lane"] == t["lane"] for e in members), t["id"]
 
 
 def test_century_buckets():
@@ -66,6 +78,7 @@ def test_build_writes_pages_and_data(mini_ctx):
     m = re.search(r"```json\n(.*)\n```", data_md, re.S)
     assert m
     data = json.loads(m.group(1))
-    assert data["version"] == 1
+    assert data["version"] == 2
     assert len(data["events"]) == len(EVENTS)
     assert data["book_years"]["1ne"] == -595
+    assert any(t["id"] == "nw-zeniff" for t in data["threads"])

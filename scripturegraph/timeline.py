@@ -33,6 +33,21 @@ OUTPUT_SUB = Path("AI Library") / "90 Timeline"
 # categories: prophets rulers wars visions journeys temples records turning
 E = dict  # brevity for the table below
 
+# storyline THREADS — the scriptures run concurrent narratives (during
+# Mosiah's era the Book of Mormon carries FOUR at once). A thread branches
+# from its parent lane and, where the story does, merges back into it.
+# Events without a thread ride their lane's main line.
+THREADS: list[dict] = [
+    {"id": "ow-israel", "lane": "ow", "label": "Northern Kingdom",
+     "color": "#e7c06a", "branch": "kingdom-divides", "merges": False},
+    {"id": "nw-jaredite", "lane": "nw", "label": "The Jaredites",
+     "color": "#9adbc0", "branch": None, "merges": False},
+    {"id": "nw-zeniff", "lane": "nw", "label": "Zeniff's colony",
+     "color": "#7fd9ad", "branch": "mosiah-zarahemla", "merges": True},
+    {"id": "nw-alma", "lane": "nw", "label": "Alma's people",
+     "color": "#2ea06b", "branch": "abinadi", "merges": True},
+]
+
 EVENTS: list[dict] = [
     # ---------------- beginnings (traditional era markers) ------------------
     E(id="creation", t="The Creation and Eden", y0=-4000, y1=-4000, lane="ow", imp=1,
@@ -54,9 +69,19 @@ EVENTS: list[dict] = [
       chapters=["Genesis 11", "Ether 1"],
       note="languages confounded — one family is led away toward a promised land"),
     E(id="jaredite-voyage", t="Jaredite barges cross the sea", y0=-2150, y1=-2150,
-      lane="nw", imp=2, cat=["journeys"], dating="traditional",
+      lane="nw", thread="nw-jaredite", imp=2, cat=["journeys"], dating="traditional",
       people=["Brother of Jared"], chapters=["Ether 2", "Ether 3", "Ether 6"],
       note="the Lord touches sixteen stones; a nation is planted in the New World"),
+    E(id="jaredite-kings", t="The Jaredite kingdom rises and darkens", y0=-2000,
+      y1=-700, lane="nw", thread="nw-jaredite", imp=3, cat=["rulers", "wars"],
+      dating="traditional", chapters=["Ether 7", "Ether 9", "Ether 10"],
+      note="generations of kings, captivity, and secret combinations"),
+    E(id="jaredite-end", t="The Jaredites destroy themselves; Coriantumr alone",
+      y0=-590, y1=-580, lane="nw", thread="nw-jaredite", imp=2,
+      cat=["wars", "turning"], dating="traditional",
+      people=["Coriantumr", "Ether"], places=["Ramah"],
+      chapters=["Ether 14", "Ether 15", "Omni 1"],
+      note="the prophet watches from a cave; the last king lives to be found by the Mulekites"),
 
     # ---------------- patriarchs -------------------------------------------
     E(id="abraham-call", t="Abraham called out of Ur", y0=-1950, y1=-1950, lane="ow",
@@ -142,20 +167,24 @@ EVENTS: list[dict] = [
       people=["Rehoboam", "Jeroboam"], places=["Jerusalem", "Samaria"],
       chapters=["1 Kings 12"], note="ten tribes north, two south"),
     E(id="elijah-carmel", t="Elijah on Carmel; fire answers", y0=-860, y1=-860,
-      lane="ow", imp=1, cat=["prophets", "visions"], dating="approximate",
+      lane="ow", thread="ow-israel", imp=1, cat=["prophets", "visions"],
+      dating="approximate",
       people=["Elijah", "Ahab", "Jezebel"], places=["Mount Carmel"],
       chapters=["1 Kings 18", "1 Kings 19"],
       note="then the still small voice at Horeb"),
     E(id="elisha", t="Elisha's ministry of miracles", y0=-850, y1=-800, lane="ow",
-      imp=2, cat=["prophets"], dating="approximate", people=["Elisha"],
+      thread="ow-israel", imp=2, cat=["prophets"], dating="approximate",
+      people=["Elisha"],
       chapters=["2 Kings 2", "2 Kings 5", "2 Kings 6"],
       note="they that be with us are more"),
     E(id="amos-hosea", t="Amos and Hosea warn the north", y0=-760, y1=-722, lane="ow",
-      imp=3, cat=["prophets"], dating="approximate", people=["Amos", "Hosea"],
+      thread="ow-israel", imp=3, cat=["prophets"], dating="approximate",
+      people=["Amos", "Hosea"],
       places=["Samaria"], chapters=["Amos 5", "Hosea 11"],
       note="justice like waters; love that will not let go"),
     E(id="israel-falls", t="Assyria destroys northern Israel", y0=-722, y1=-722,
-      lane="ow", imp=1, cat=["wars", "turning"], dating="historical",
+      lane="ow", thread="ow-israel", imp=1, cat=["wars", "turning"],
+      dating="historical",
       places=["Samaria", "Assyria"], chapters=["2 Kings 17"],
       note="the ten tribes scattered — the 'lost tribes'"),
     E(id="isaiah", t="Isaiah's ministry in Jerusalem", y0=-740, y1=-690, lane="ow",
@@ -244,7 +273,8 @@ EVENTS: list[dict] = [
       chapters=["Omni 1", "Words of Mormon 1"],
       note="both record lines now travel together"),
     E(id="ether-plates-found", t="Limhi's men find twenty-four gold plates",
-      y0=-121, y1=-121, lane="nw", imp=2, cat=["records", "journeys"],
+      y0=-122, y1=-122, lane="nw", thread="nw-zeniff", imp=2,
+      cat=["records", "journeys"],
       dating="internal", people=["Limhi", "Ammon (of Zarahemla)"],
       things=["Plates of Ether"], chapters=["Mosiah 8", "Mosiah 21"],
       note="a destroyed nation's story, waiting in the ruins"),
@@ -286,18 +316,33 @@ EVENTS: list[dict] = [
       cat=["wars"], dating="historical", places=["Jerusalem"], chapters=[],
       note="the temple rededicated — Hanukkah"),
     E(id="zeniff", t="Zeniff's people return to the land of Nephi", y0=-200, y1=-160,
-      lane="nw", imp=3, cat=["journeys"], dating="internal",
+      lane="nw", thread="nw-zeniff", imp=2, cat=["journeys"], dating="internal",
       people=["Zeniff", "Noah (BoM king)"], places=["Land of Nephi", "Lehi-Nephi"],
       chapters=["Mosiah 9"], note="an over-zealous return that ends in bondage"),
     E(id="abinadi", t="Abinadi before King Noah's court", y0=-148, y1=-148,
-      lane="nw", imp=1, cat=["prophets", "turning"], dating="internal",
+      lane="nw", thread="nw-zeniff", imp=1, cat=["prophets", "turning"], dating="internal",
       people=["Abinadi", "Noah (BoM king)", "Alma the Elder"],
       places=["Lehi-Nephi"], chapters=["Mosiah 12", "Mosiah 13", "Mosiah 17"],
       note="one convert in the audience changes everything"),
     E(id="alma-waters", t="Alma baptizes at the waters of Mormon", y0=-147, y1=-145,
-      lane="nw", imp=1, cat=["turning"], dating="internal",
+      lane="nw", thread="nw-alma", imp=1, cat=["turning"], dating="internal",
       people=["Alma the Elder"], places=["Waters of Mormon"], chapters=["Mosiah 18"],
       note="the church of Christ organized in the wilderness"),
+    E(id="alma-bondage", t="Alma's people in bondage; burdens made light",
+      y0=-145, y1=-121, lane="nw", thread="nw-alma", imp=2, cat=["turning"],
+      dating="internal", people=["Alma the Elder", "Amulon"], places=["Helam"],
+      chapters=["Mosiah 23", "Mosiah 24"],
+      note="the Lord strengthens their backs before opening the way"),
+    E(id="limhi-escape", t="Limhi's people escape to Zarahemla", y0=-121, y1=-121,
+      lane="nw", thread="nw-zeniff", imp=2, cat=["journeys", "turning"],
+      dating="internal", people=["Limhi", "Ammon (of Zarahemla)", "Gideon (BoM)"],
+      places=["Zarahemla"], chapters=["Mosiah 22"],
+      note="the colony comes home — the storylines rejoin"),
+    E(id="alma-deliverance", t="Alma's people delivered to Zarahemla", y0=-120,
+      y1=-120, lane="nw", thread="nw-alma", imp=2, cat=["journeys", "turning"],
+      dating="internal", people=["Alma the Elder", "Mosiah II"],
+      places=["Zarahemla"], chapters=["Mosiah 24"],
+      note="all the people of Zarahemla hear all the stories at last"),
     E(id="benjamin-speech", t="King Benjamin's address from the tower", y0=-124,
       y1=-124, lane="nw", imp=1, cat=["rulers", "visions"], dating="internal",
       people=["King Benjamin", "Mosiah II"], places=["Zarahemla"],
@@ -666,7 +711,8 @@ def build_timeline(ctx) -> dict:
 
     # dataset for the plugin's interactive view — markdown-wrapped JSON so
     # Obsidian Sync always carries it to every device
-    data = {"version": 1, "events": EVENTS, "book_years": BOOK_YEARS}
+    data = {"version": 2, "events": EVENTS, "book_years": BOOK_YEARS,
+            "threads": THREADS}
     data_md = "\n".join([
         "---", "ownership: ai", "mutable: engine", "content_type: timeline-data",
         "---", "",
@@ -698,8 +744,8 @@ def build_timeline(ctx) -> dict:
 def dataset_hash() -> str:
     """content fingerprint of the chronology — changes iff the dataset does"""
     import hashlib
-    blob = json.dumps({"e": EVENTS, "b": BOOK_YEARS}, sort_keys=True,
-                      ensure_ascii=False)
+    blob = json.dumps({"e": EVENTS, "b": BOOK_YEARS, "t": THREADS},
+                      sort_keys=True, ensure_ascii=False)
     return hashlib.sha256(blob.encode("utf-8")).hexdigest()[:16]
 
 
