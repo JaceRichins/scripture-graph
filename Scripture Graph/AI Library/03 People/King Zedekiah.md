@@ -38,8 +38,10 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **609 BC–587 BC** — Successive reigns of Judah's last four kings · [[2 Chronicles 36]] · [[700-601 BC]] *(traditional dating)*
 - **588 BC–587 BC** — Jeremiah in the dungeon · [[Jeremiah 37]] · [[Jeremiah 38]] · [[600-501 BC]] *(historical)*
 - **588 BC–587 BC** — Jeremiah's imprisonment and purchase of the field of Anathoth · [[Jeremiah 32]] · [[600-501 BC]] *(traditional dating)*
+- **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 - **586 BC–580 BC** — Mulek's people escape fallen Jerusalem · [[Omni 1]] · [[Helaman 8]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 

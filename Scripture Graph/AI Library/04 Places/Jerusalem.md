@@ -47,9 +47,9 @@ _Not yet developed._
 - **642 BC–640 BC** — Amon's two-year reign and assassination · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 - **623 BC–621 BC** — Discovery of the book of the law (18th year) · [[2 Chronicles 34]] · [[700-601 BC]] *(traditional dating)*
 - **622 BC** — Josiah's reform; the book found · [[2 Kings 22]] · [[700-601 BC]] *(historical)*
+- **609 BC–587 BC** — Successive reigns of Judah's last four kings · [[2 Chronicles 36]] · [[700-601 BC]] *(traditional dating)*
 - **600 BC–599 BC** — Nephi obtains the brass plates · [[1 Nephi 3]] · [[1 Nephi 4]] · [[600-501 BC]] *(traditional dating)*
 - **600 BC** — Lehi's family leaves Jerusalem · [[1 Nephi 1]] · [[1 Nephi 2]] · [[600-501 BC]] *(traditional dating)*
-- **600 BC–AD 30** — Lehi's 600-year Messianic prophecy · [[1 Nephi 10]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

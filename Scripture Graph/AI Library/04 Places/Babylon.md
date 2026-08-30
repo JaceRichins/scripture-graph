@@ -41,6 +41,7 @@ _Not yet developed._
 - **2200 BC** — The Tower of Babel; the Jaredites depart · [[Genesis 11]] · [[Ether 1]] · [[2200-2101 BC]] *(traditional dating)*
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
 - **593 BC–570 BC** — Ezekiel among the exiles · [[Ezekiel 1]] · [[Ezekiel 37]] · [[600-501 BC]] *(historical)*
+- **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 - **538 BC** — Cyrus lets the exiles return · [[Ezra 1]] · [[600-501 BC]] *(historical)*

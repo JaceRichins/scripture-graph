@@ -35,3 +35,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **72 BC–67 BC** — Moroni's fortifications and Morianton's rebellion (Alma 50) · [[Alma 50]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **72 BC–67 BC** — Fortification, prosperity, Morianton crisis, and Pahoran's accession · [[Alma 50]] · [[100-1 BC]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

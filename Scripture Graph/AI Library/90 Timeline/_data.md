@@ -3084,6 +3084,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-36-208776fb",
+   "t": "Successive reigns of Judah's last four kings",
+   "y0": -609,
+   "y1": -587,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Regnal notices for Jehoahaz, Jehoiakim, Jehoiachin, and Zedekiah given in 2 Chronicles 36:1-11.",
+   "chapters": [
+    "2 Chronicles 36"
+   ],
+   "people": [
+    "Jehoahaz",
+    "Jehoiakim",
+    "Jehoiachin",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2chr-36-329f4315",
+   "t": "Fall of Jerusalem and the Babylonian exile",
+   "y0": -587,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional dating of the Babylonian destruction of Jerusalem (586/587 BC) through the first year of Cyrus and the end of exile (539/538 BC) referenced in 2 Chronicles 36:17-23.",
+   "chapters": [
+    "2 Chronicles 36"
+   ],
+   "people": [
+    "Nebuchadnezzar",
+    "Zedekiah",
+    "Cyrus"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-2kgs-21-7f4923cd",
    "t": "Manasseh's 55-year reign over Judah",
    "y0": -697,
@@ -3184,6 +3237,66 @@ timeline module, not this file._
    ],
    "things": [
     "Church of God"
+   ]
+  },
+  {
+   "id": "r-alma-50-79db63cd",
+   "t": "Moroni's fortifications and Morianton's rebellion (Alma 50)",
+   "y0": -72,
+   "y1": -67,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Chapter narrates the 20th through 24th years of the reign of the judges; the traditional Book of Mormon chapter heading places this about 72-67 BC, based on the text's internal reign-of-judges year count rather than external synchronism.",
+   "chapters": [
+    "Alma 50"
+   ],
+   "people": [
+    "Moroni",
+    "Teancum",
+    "Nephihah",
+    "Pahoran"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Bountiful"
+   ]
+  },
+  {
+   "id": "r-alma-50-c88c771d",
+   "t": "Fortification, prosperity, Morianton crisis, and Pahoran's accession",
+   "y0": -72,
+   "y1": -67,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the chapter about 72–67 B.C.; the narrative internally spans the twentieth through twenty-fourth years of the reign of the judges.",
+   "chapters": [
+    "Alma 50"
+   ],
+   "people": [
+    "Moroni",
+    "Morianton",
+    "Teancum",
+    "Pahoran"
+   ],
+   "places": [
+    "Land of Bountiful",
+    "Desolation"
+   ],
+   "things": [
+    "Nephite fortifications",
+    "Judgment-seat"
    ]
   },
   {

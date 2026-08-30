@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
+- **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
