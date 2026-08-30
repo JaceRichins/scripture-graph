@@ -17,12 +17,20 @@ Scripture: [[D&C 133]] · My notes: [[D&C 133 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 133 presents the [[Second Coming of Jesus Christ]] as both deliverance and judgment. Its practical refrain is preparation: sanctify, leave spiritual Babylon, gather, proclaim the gospel, repent, worship, and watch. The chapter expands from an address to the church (vv. 1–15) into a summons to all humanity (vv. 16–19, 36–39, 60–62), while its closing contrast makes response to that summons morally consequential (vv. 62–73).
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is:
+
+1. Verses 1-16: prepare, sanctify, leave Babylon, gather, watch, and repent.
+2. Verses 17-25: the approaching Lord, the Lamb on Mount Zion, and cosmic transformation.
+3. Verses 26-35: the return and blessing of Israel, especially northern peoples, Ephraim, and Judah.
+4. Verses 36-45: the angel, worldwide gospel proclamation, and a prayer for divine descent.
+5. Verses 46-56: the winepress theophany, judgment and redemption, named righteous figures, and [[Resurrection]].
+6. Verses 57-64: purposes of the restored gospel and commandments, followed by promises and warnings.
+7. Verses 65-74: the Lord's answer to those who rejected his voice and servants.
 <!-- SG:END structure -->
 
 ## People
@@ -47,7 +55,6 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Revelation 14]] — 6 parallel verses, e.g. [[D&C 133#^dc-133-38|D&C 133:38]] ↔ [[Revelation 14#^rev-14-7|Revelation 14:7]]
 - [[Malachi 4]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]]
@@ -59,23 +66,28 @@ _Not yet developed._
 - [[Mosiah 12]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
 - [[D&C 88]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-10|D&C 133:10]] ↔ [[D&C 88#^dc-88-92|D&C 88:92]]
+- [[3 Nephi 16]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Second Coming of Jesus Christ]]
+- [[Final Judgment]]
+- [[Jews and Gentiles]]
 - [[Zion]] *(keyword match — unconfirmed)*
 - [[Revelation]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*
-- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
-- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Readiness is presented through action rather than timetable calculation: sanctification, prayer, watchfulness, [[Repentance]], worship, obedience, separation from wickedness, and participation in the [[Gathering of Israel]]. The chapter also connects [[Missionary Work]] with preparation for the Lord's coming as elders and servants carry the gospel summons to the nations.
+
+Judgment and redemption must both remain visible. The Lord brings severe judgment, yet is also described as mighty to save and as redeeming, bearing, and sharing the afflictions of his people. This juxtaposition supports study of [[Justice and Mercy]], but the chapter does not provide a complete systematic account of final judgment or universal salvation.
+
+The gathering has differentiated dimensions: those among the Gentiles are directed toward Zion and Judah toward Jerusalem. Later both centers participate in the Lord's manifestation and reign. This coordination does not make the places identical or establish an exhaustive, permanently fixed division of peoples.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -108,25 +120,45 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+D&C 133 is densely intertextual with the King James Bible. Isaiah 52:10-11 supplies language about the Lord's revealed arm, worldwide salvation, departure, cleanness, and sacred vessels. [[Matthew 25]] closely parallels the Bridegroom summons and command to watch. [[Revelation 14]] supplies the Lamb with 144,000 and the angel carrying the everlasting gospel. [[Isaiah 64]] shapes the prayer for God to rend the heavens and descend, including material extending through Isaiah 64:5. [[Isaiah 63]] supplies the red garments, winepress, vengeance, redemption, loving-kindness, and shared affliction. Malachi 4 and Isaiah 50:2-3 shape the closing warning.
+
+The extended clusters establish patterned literary reuse more securely than isolated thematic resemblance. They do not by themselves determine whether the process should be understood as ordinary composition, revelation, inspired reapplication, or some combination, and they do not establish fulfillment or divine origin.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Repeated imperatives—“prepare,” “go ye out,” “gather,” “awake,” “arise,” “watch,” and “hearken”—give the chapter an urgent proclamatory rhythm. A major contrast runs between Babylon and Zion, while another runs between refusing the divine call and going out to meet the Bridegroom. The speaker also shifts between instruction, prophetic description, communal prayer, scriptural quotation, and first-person divine judgment speech.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Thematic Structure
+> The chapter's internal sequence provides strong evidence that worldwide gospel proclamation is presented as part of preparation for the Lord's coming: elders are sent to the nations, the everlasting gospel goes to every people, and the servants announce approaching judgment.
+> — strength 0.9 · confidence 1.0 · Strong internal thematic relationship · [[Internal Thematic Structure in D&C 133|full dossier]]
+
+> [!evidence] Literary Intertextuality
+> The sustained reuse and recombination of Isaiah, Revelation, Malachi, Matthew, Deuteronomy, and Acts provide strong textual evidence that the chapter deliberately frames its message through biblical prophetic and apocalyptic language.
+> — strength 1.0 · confidence 1.0 · Literary framing secure; composition mechanism disputed · [[Literary Intertextuality in D&C 133|full dossier]]
+
+> [!evidence] Textual Intertextuality
+> The clustering and sequencing of language from Isaiah, Revelation, Malachi, and other biblical passages provide strong evidence that D&C 133 consciously incorporates and recontextualizes biblical apocalyptic and prophetic language.
+> — strength 1.0 · confidence 0.9 · Patterned reuse accepted; process and origin disputed · [[Textual Intertextuality in D&C 133|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Is the transformed geography in verses 20-32 intended literally, symbolically, or through a mixture of both modes?
+- Who are the people in the “north countries,” and how much identification does the text itself permit?
+- How does the identification of Babylon as spiritual relate to the chapter's concrete instructions about gathering and flight?
+- Why does the text pair urgency with the command not to flee in haste?
+- How should the violent winepress imagery be read alongside the language of salvation, love, pity, and shared affliction?
+- How are Zion and Jerusalem coordinated without being treated as geographically or institutionally identical?
+- Which commands addressed to the original church express continuing principles, and which may depend on the revelation's historical gathering setting?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare D&C 133 with [[Isaiah 52]], [[Matthew 25]], [[Revelation 14]], [[Isaiah 64]], [[Isaiah 63]], [[Malachi 4]], [[Isaiah 50]], [[Deuteronomy 18]], and [[Acts 3]]. Reading the source passages in full helps distinguish exact wording, close adaptation, rearrangement, and broader thematic echo.
+
+Study verses 12-35 alongside [[Gathering of Israel]], [[Jews and Gentiles]], [[Zion]], and [[Exodus and Deliverance]], while resisting modern identifications that the chapter itself does not supply. A separate historical inquiry using external documents is needed before connecting verse 60 to a specific publication event.
 <!-- SG:END further-study -->
