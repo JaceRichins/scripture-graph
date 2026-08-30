@@ -3187,6 +3187,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-22-49025abf",
+   "t": "Reign of Josiah of Judah",
+   "y0": -640,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional regnal chronology derived from the Deuteronomistic accession/reign-length formula in 2 Kings 22:1 (age eight, thirty-one years in Jerusalem).",
+   "chapters": [
+    "2 Kings 22"
+   ],
+   "people": [
+    "Josiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2kgs-23-0c725bbc",
    "t": "Death of Josiah at Megiddo",
    "y0": -609,

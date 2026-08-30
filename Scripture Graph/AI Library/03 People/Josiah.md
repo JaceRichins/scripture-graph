@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **642 BC–640 BC** — Amon's two-year reign and assassination · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
+- **640 BC–609 BC** — Reign of Josiah of Judah · [[2 Kings 22]] · [[700-601 BC]] *(traditional dating)*
 - **623 BC–621 BC** — Discovery of the book of the law (18th year) · [[2 Chronicles 34]] · [[700-601 BC]] *(traditional dating)*
 - **622 BC** — Josiah's reform; the book found · [[2 Kings 22]] · [[700-601 BC]] *(historical)*
 - **609 BC** — Death of Josiah at Megiddo · [[2 Kings 23]] · [[700-601 BC]] *(historical)*
