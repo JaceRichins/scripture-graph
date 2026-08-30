@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **147 BC–145 BC** — Alma baptizes at the waters of Mormon · [[Mosiah 18]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

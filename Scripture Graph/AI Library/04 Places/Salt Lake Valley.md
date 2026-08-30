@@ -35,3 +35,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 1846–AD 1847** — The pioneer exodus west · [[D&C 136]] · [[AD 1801-1900]] *(historical)*
+- **AD 1893** — The Salt Lake Temple dedicated · [[AD 1801-1900]] *(historical)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

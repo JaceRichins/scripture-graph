@@ -6459,13 +6459,26 @@ var init_timelineView = __esm({
           }
         }
         this.lastW = cw;
-        const W = Math.min(cw, 820);
-        const tx = !this.focus && this.depth === 2 ? this.threadX(W) : /* @__PURE__ */ new Map();
+        const W = cw;
+        const colW = Math.min(cw, 820);
+        const off = Math.round((cw - colW) / 2);
+        const tx = !this.focus && this.depth === 2 ? this.threadX(colW) : /* @__PURE__ */ new Map();
         const threadById = new Map((this.data?.threads ?? []).map((t) => [t.id, t]));
-        const laneX = (lane) => W * (LANE_F[lane] ?? 0.5);
-        const xFor = (e) => (e.thread ? tx.get(e.thread) : void 0) ?? laneX(e.lane);
+        const laneX = (lane) => off + colW * (LANE_F[lane] ?? 0.5);
+        const xFor = (e) => {
+          const t = e.thread ? tx.get(e.thread) : void 0;
+          return t != null ? off + t : laneX(e.lane);
+        };
         const onThread = (e) => !!e.thread && tx.has(e.thread);
         const dirFor = (e) => LANE_DIR[e.lane] ?? 1;
+        const hash01 = (s) => {
+          let h = 2166136261;
+          for (let i = 0; i < s.length; i++) {
+            h ^= s.charCodeAt(i);
+            h = Math.imul(h, 16777619);
+          }
+          return (h >>> 0) / 4294967295;
+        };
         const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 64, BOTTOM = 120;
         let y = TOP;
         let lastCentury = null;
@@ -6489,7 +6502,9 @@ var init_timelineView = __esm({
             centuries.push({ y: y - 26, label: page.replace("-", "\u2013"), page, year: century });
             this.yByYear.push([century, y - 26]);
           }
-          pos.set(e.id, { x: xFor(e), y, e });
+          const jitter = (hash01(e.id) - 0.5) * 2 * (onThread(e) ? 24 : 60);
+          const z = 0.76 + hash01(e.id + "~z") * 0.44;
+          pos.set(e.id, { x: xFor(e) + Math.round(jitter), y, z, e });
           this.yById.set(e.id, y);
           y += ROW;
         }
@@ -6524,9 +6539,9 @@ var init_timelineView = __esm({
             fill: ERA_TINT[band.label] ?? "rgba(255, 255, 255, 0.03)"
           });
           const fs = Math.min(
-            Math.round(W * 0.085),
+            Math.round(colW * 0.085),
             64,
-            Math.round(W / (band.label.length * 0.78))
+            Math.round(colW / (band.label.length * 0.78))
           );
           const wm = el("text", {
             x: String(W / 2),
@@ -6650,14 +6665,55 @@ var init_timelineView = __esm({
               cap.textContent = `${th.branch ? "\u21B3 " : ""}${th.label}`;
             }
           }
+          const railPairs = /* @__PURE__ */ new Set();
+          const markChain = (chain) => {
+            for (let i = 1; i < chain.length; i++) {
+              railPairs.add(`${chain[i - 1].id}|${chain[i].id}`);
+            }
+          };
+          for (const lane of ["ow", "nw", "rs"]) {
+            markChain(events.filter((e) => e.lane === lane && !onThread(e)));
+          }
+          for (const th of this.data?.threads ?? []) {
+            markChain(events.filter((e) => e.thread === th.id));
+          }
+          const bySubject = /* @__PURE__ */ new Map();
+          for (const e of events) {
+            for (const s of [...e.people ?? [], ...e.things ?? []]) {
+              const arr = bySubject.get(s) ?? [];
+              arr.push(e);
+              bySubject.set(s, arr);
+            }
+          }
+          const webPairs = /* @__PURE__ */ new Map();
+          const addPair = (a, b) => {
+            if (a === b) return;
+            const key = a < b ? `${a}|${b}` : `${b}|${a}`;
+            if (railPairs.has(`${a}|${b}`) || railPairs.has(`${b}|${a}`)) return;
+            webPairs.set(key, [a, b]);
+          };
+          for (const [, evs] of bySubject) {
+            if (evs.length < 2 || evs.length > 9) continue;
+            for (let i = 1; i < evs.length; i++) addPair(evs[i - 1].id, evs[i].id);
+          }
           const visibleIds = new Set(events.map((e) => e.id));
           for (const [a, b] of NARRATIVE_LINKS) {
-            if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
+            if (visibleIds.has(a) && visibleIds.has(b)) addPair(a, b);
+          }
+          const strong = new Set(NARRATIVE_LINKS.map(([a, b]) => a < b ? `${a}|${b}` : `${b}|${a}`));
+          for (const [key, [a, b]] of webPairs) {
             const pa = pos.get(a), pb = pos.get(b);
-            const bow = (W / 2 - (pa.x + pb.x) / 2) * 0.9 + W / 2;
-            el("path", {
-              d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-              class: "sg-tl-arc"
+            const dy = Math.abs(pb.y - pa.y);
+            const o = Math.max(0.05, (strong.has(key) ? 0.24 : 0.17) - dy / 14e3);
+            el("line", {
+              x1: String(pa.x),
+              y1: String(pa.y),
+              x2: String(pb.x),
+              y2: String(pb.y),
+              class: "sg-tl-web",
+              "data-a": a,
+              "data-b": b,
+              style: `stroke-opacity: ${o.toFixed(3)}`
             });
           }
           const q = this.query.trim().toLowerCase();
@@ -6675,15 +6731,19 @@ var init_timelineView = __esm({
         let nodeIdx = 0;
         for (const e of events) {
           const p = pos.get(e.id);
-          const r = e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5;
+          const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z;
           const braided = onThread(e);
           const color = (braided && e.thread ? threadById.get(e.thread)?.color : void 0) ?? LANE_COLOR[e.lane];
-          const g = el("g", {
+          const outer = el("g", {
             class: "sg-tl-node",
             "data-id": e.id,
             // constellation lights up star by star
             style: `animation-delay: ${Math.min(nodeIdx * 22, 480)}ms`
           });
+          const g = el("g", {
+            class: "sg-tl-float",
+            style: `animation-delay: -${(hash01(e.id + "~f") * 8).toFixed(2)}s; animation-duration: ${(6.5 + hash01(e.id + "~d") * 4).toFixed(2)}s`
+          }, outer);
           nodeIdx++;
           el("circle", {
             cx: String(p.x),
@@ -6694,7 +6754,7 @@ var init_timelineView = __esm({
           el("circle", {
             cx: String(p.x),
             cy: String(p.y),
-            r: String(r + 7),
+            r: String((r + 7).toFixed(1)),
             fill: color,
             class: e.imp === 1 ? "sg-tl-halo sg-tl-halo-breathe" : "sg-tl-halo",
             style: e.imp === 1 ? `animation-delay: -${nodeIdx % 7 * 0.8}s` : ""
@@ -6736,7 +6796,7 @@ var init_timelineView = __esm({
             fill: color
           }, g);
           t2.textContent = `${yearStr(e.y0)} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
-          g.onclick = () => this.selectNode(e, g);
+          outer.onclick = () => this.selectNode(e, outer);
         }
         stream.appendChild(svg);
         svg.addEventListener("click", (evt) => {
@@ -6754,11 +6814,18 @@ var init_timelineView = __esm({
         this.detailEl?.remove();
         this.detailEl = null;
         this.streamEl?.querySelectorAll(".sg-tl-sel").forEach((n) => n.classList.remove("sg-tl-sel"));
+        this.streamEl?.querySelectorAll(".sg-tl-web-lit").forEach((n) => n.classList.remove("sg-tl-web-lit"));
       }
-      /** the tapped node lights up; its story slides in at the bottom */
+      /** the tapped node lights up; its web connections glow; its story slides
+       * in at the bottom */
       selectNode(e, g) {
         this.clearDetail();
         g.classList.add("sg-tl-sel");
+        this.streamEl?.querySelectorAll(".sg-tl-web").forEach((l) => {
+          if (l.getAttribute("data-a") === e.id || l.getAttribute("data-b") === e.id) {
+            l.classList.add("sg-tl-web-lit");
+          }
+        });
         const card = this.contentEl.createDiv({ cls: "sg-tl-detail" });
         this.detailEl = card;
         const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} \u2013 ${yearStr(e.y1)}`;

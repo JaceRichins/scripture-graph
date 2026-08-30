@@ -33,3 +33,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **4000 BC** — The Creation and Eden · [[Genesis 1]] · [[Genesis 2]] · [[Moses 2]] · [[4000-3901 BC]] *(traditional dating)*
+- **4000 BC** — The Fall of Adam and Eve · [[Genesis 3]] · [[Moses 4]] · [[4000-3901 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

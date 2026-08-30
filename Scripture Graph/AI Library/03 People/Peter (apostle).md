@@ -37,3 +37,15 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 27–AD 30** — The mortal ministry in Galilee and Judea · [[John 6]] · [[Luke 15]] · [[John 11]] · [[AD 1-100]] *(approximate)*
+- **AD 30** — Gethsemane, the cross, the tomb · [[Luke 22]] · [[Matthew 27]] · [[John 19]] · [[AD 1-100]] *(traditional dating)*
+- **AD 30** — Pentecost — the Spirit poured out · [[Acts 2]] · [[AD 1-100]] *(traditional dating)*
+- **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
+- **AD 49** — The Jerusalem council · [[Acts 15]] · [[AD 1-100]] *(historical)*
+- **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

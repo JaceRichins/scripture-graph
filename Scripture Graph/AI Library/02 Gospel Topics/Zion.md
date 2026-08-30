@@ -90,3 +90,10 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **3300 BC–3000 BC** — Enoch's city of Zion · [[Moses 7]] · [[3300-3201 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

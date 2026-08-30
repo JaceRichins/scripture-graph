@@ -1145,10 +1145,24 @@ body.sg-scene-on .sg-chap-conn {
 }
 /* living sky: seeded stars that breathe at their own pace */
 .sg-tl-star { fill: #ffffff; opacity: 0.25; pointer-events: none; }
+/* the connection web: shared people/things bind moments, graph-view style */
+.sg-tl-web {
+  stroke: rgba(195, 208, 242, 1); stroke-width: 1;
+  stroke-linecap: round;
+}
+.sg-tl-web-lit {
+  stroke: rgba(255, 255, 255, 1) !important;
+  stroke-opacity: 0.55 !important; stroke-width: 1.5;
+}
 @media (prefers-reduced-motion: no-preference) {
   .sg-tl-star { animation: sg-tl-twinkle 4.2s ease-in-out infinite; }
   .sg-tl-node { animation: sg-tl-in 0.45s ease-out backwards; }
   .sg-tl-halo-breathe { animation: sg-tl-breathe 5.6s ease-in-out infinite; }
+  .sg-tl-float { animation: sg-tl-drift 7.5s ease-in-out infinite alternate; }
+}
+@keyframes sg-tl-drift {
+  from { transform: translateY(0); }
+  to { transform: translateY(-4px); }
 }
 @keyframes sg-tl-twinkle {
   0%, 100% { opacity: 0.12; }
@@ -1175,7 +1189,7 @@ body.sg-scene-on .sg-chap-conn {
   fill: none; opacity: 0.10; stroke-linecap: round;
 }
 .sg-tl-thread {
-  fill: none; opacity: 0.55; stroke-linecap: round;
+  fill: none; opacity: 0.45; stroke-linecap: round;
 }
 /* a storyline braided out beside its lane */
 .sg-tl-thread2 {

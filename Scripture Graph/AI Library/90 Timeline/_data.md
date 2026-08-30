@@ -1715,6 +1715,53 @@ timeline module, not this file._
    "note": "enemies become the people who bury their weapons"
   },
   {
+   "id": "anti-nephi-covenant",
+   "t": "The Anti-Nephi-Lehies bury their swords",
+   "y0": -84,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "turning",
+    "visions"
+   ],
+   "dating": "internal",
+   "people": [
+    "Anti-Nephi-Lehi",
+    "Anti-Nephi-Lehies",
+    "Ammon",
+    "Lamoni"
+   ],
+   "chapters": [
+    "Alma 23",
+    "Alma 24"
+   ],
+   "note": "swords buried deeper than graves — a covenant kept unto death"
+  },
+  {
+   "id": "ammonites-jershon",
+   "t": "The people of Ammon find refuge in Jershon",
+   "y0": -77,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 2,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "internal",
+   "people": [
+    "Anti-Nephi-Lehies",
+    "Ammon"
+   ],
+   "places": [
+    "Jershon"
+   ],
+   "chapters": [
+    "Alma 27"
+   ],
+   "note": "converts the Nephites swore to defend"
+  },
+  {
    "id": "korihor",
    "t": "Korihor demands a sign",
    "y0": -74,
@@ -2906,6 +2953,163 @@ timeline module, not this file._
     "Official Declaration 2"
    ],
    "note": "the long-promised day"
+  },
+  {
+   "id": "r-1ne-10-90addb33",
+   "t": "Lehi's 600-year Messianic prophecy",
+   "y0": -600,
+   "y1": 30,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "1 Nephi 10:4 states that six hundred years from Lehi's departure from Jerusalem, God would raise up a Messiah; the departure is traditionally dated c. 600 BC and the Messiah's ministry to c. AD 30.",
+   "chapters": [
+    "1 Nephi 10"
+   ],
+   "people": [
+    "Nephi (son of Lehi)",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2chr-34-ea14ec68",
+   "t": "Discovery of the book of the law (18th year)",
+   "y0": -623,
+   "y1": -621,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Correlated with Josiah's eighteenth regnal year (2 Chronicles 34:8), conventionally dated to about 622 BCE within his c. 640-609 reign.",
+   "chapters": [
+    "2 Chronicles 34"
+   ],
+   "people": [
+    "Josiah",
+    "Hilkiah",
+    "Shaphan"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "law of Moses"
+   ]
+  },
+  {
+   "id": "r-2kgs-21-7f4923cd",
+   "t": "Manasseh's 55-year reign over Judah",
+   "y0": -697,
+   "y1": -642,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "2 Kings 21:1 records a 55-year reign; absolute dates follow standard reconstructions synchronized with Assyrian annals naming Manasseh as a tributary vassal of Esarhaddon and Ashurbanipal.",
+   "chapters": [
+    "2 Kings 21"
+   ],
+   "people": [
+    "Manasseh",
+    "Hezekiah",
+    "Amon"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2kgs-21-89272ad0",
+   "t": "Amon's two-year reign and assassination",
+   "y0": -642,
+   "y1": -640,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "2 Kings 21:19 records a two-year reign, ending in assassination by his own servants and the enthronement of Josiah.",
+   "chapters": [
+    "2 Kings 21"
+   ],
+   "people": [
+    "Amon",
+    "Manasseh",
+    "Josiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2kgs-23-0c725bbc",
+   "t": "Death of Josiah at Megiddo",
+   "y0": -609,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Josiah's death confronting Pharaoh-nechoh at Megiddo (2 Kings 23:29) is widely dated to 609 BCE based on synchronism with Egyptian and Neo-Babylonian records of Necho's campaign toward the Euphrates.",
+   "chapters": [
+    "2 Kings 23"
+   ],
+   "people": [
+    "Josiah",
+    "Pharaoh-nechoh"
+   ],
+   "places": [
+    "Megiddo"
+   ]
+  },
+  {
+   "id": "r-alma-5-81444f92",
+   "t": "Alma preaches repentance at Zarahemla",
+   "y0": -83,
+   "y1": -83,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Alma's Zarahemla sermon to about 83 B.C.",
+   "chapters": [
+    "Alma 5"
+   ],
+   "people": [
+    "Alma",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "Church of God"
+   ]
   }
  ],
  "book_years": {

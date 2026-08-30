@@ -81,3 +81,10 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **599 BC** — The Liahona appears at Lehi's tent door · [[1 Nephi 16]] · [[600-501 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

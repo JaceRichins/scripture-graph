@@ -38,3 +38,10 @@ _Not yet developed._
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
 <!-- SG:END secondary-sources -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 1820** — The First Vision · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

@@ -43,3 +43,19 @@ _Not yet developed._
 - [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matte]] — Church History Matters · tier A
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
 <!-- SG:END secondary-sources -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 1820** — The First Vision · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1823** — Moroni appears; the plates shown · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1827** — Joseph receives the plates · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Priesthood restored by John the Baptist · [[D&C 13]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
+- **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
+- **AD 1838–AD 1839** — Winter in Liberty Jail · [[D&C 121]] · [[D&C 122]] · [[D&C 123]] · [[AD 1801-1900]] *(historical)*
+- **AD 1839–AD 1846** — Nauvoo the beautiful · [[D&C 124]] · [[AD 1801-1900]] *(historical)*
+- **AD 1844** — The martyrdom at Carthage · [[D&C 135]] · [[AD 1801-1900]] *(historical)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

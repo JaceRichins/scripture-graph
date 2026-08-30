@@ -33,3 +33,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **74 BC–60 BC** — The great Nephite-Lamanite wars · [[Alma 43]] · [[Alma 46]] · [[Alma 48]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **66 BC–60 BC** — Helaman's two thousand stripling sons · [[Alma 53]] · [[Alma 56]] · [[Alma 57]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

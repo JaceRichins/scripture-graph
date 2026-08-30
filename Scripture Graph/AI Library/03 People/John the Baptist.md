@@ -33,3 +33,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
+- **AD 1829** — Priesthood restored by John the Baptist · [[D&C 13]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

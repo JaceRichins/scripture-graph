@@ -446,17 +446,32 @@ export class TimelineView extends ItemView {
       }
     }
     this.lastW = cw;
-    // a desktop pane is WIDE — cap the constellation to a readable column
-    // and center it, instead of stretching the rails across the whole pane
-    const W = Math.min(cw, 820);
+    // the sky is full-bleed; the constellation lives in a centered column so
+    // a wide desktop pane reads as one continuous space, not a dark panel
+    const W = cw;
+    const colW = Math.min(cw, 820);
+    const off = Math.round((cw - colW) / 2);
 
-    const tx = (!this.focus && this.depth === 2) ? this.threadX(W) : new Map<string, number>();
+    const tx = (!this.focus && this.depth === 2) ? this.threadX(colW) : new Map<string, number>();
     const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
-    const laneX = (lane: string) => W * (LANE_F[lane] ?? 0.5);
-    const xFor = (e: TimelineEvent) =>
-      (e.thread ? tx.get(e.thread) : undefined) ?? laneX(e.lane);
+    const laneX = (lane: string) => off + colW * (LANE_F[lane] ?? 0.5);
+    const xFor = (e: TimelineEvent) => {
+      const t = e.thread ? tx.get(e.thread) : undefined;
+      return t != null ? off + t : laneX(e.lane);
+    };
     const onThread = (e: TimelineEvent) => !!e.thread && tx.has(e.thread);
     const dirFor = (e: TimelineEvent): 1 | -1 => LANE_DIR[e.lane] ?? 1;
+    // organic placement, the graph view's idiom: every star drifts a seeded
+    // distance off its rail and carries a depth — near stars run bigger and
+    // brighter, far ones sit small and dim. Deterministic, so nothing jumps.
+    const hash01 = (s: string): number => {
+      let h = 2166136261;
+      for (let i = 0; i < s.length; i++) {
+        h ^= s.charCodeAt(i);
+        h = Math.imul(h, 16777619);
+      }
+      return (h >>> 0) / 4294967295;
+    };
 
     // ---- layout: rank-spaced down the page, extra breath at century and
     // era turns — real pixels, no scaling anywhere
@@ -466,7 +481,7 @@ export class TimelineView extends ItemView {
     const centuries: { y: number; label: string; page: string; year: number }[] = [];
     const eraBands: { label: string; yTop: number; wmY: number }[] = [];
     let lastEra: string | null = null;
-    const pos = new Map<string, { x: number; y: number; e: TimelineEvent }>();
+    const pos = new Map<string, { x: number; y: number; z: number; e: TimelineEvent }>();
     for (const e of events) {
       const century = e.y0 < 0
         ? -Math.ceil((-e.y0) / 100) * 100
@@ -486,7 +501,9 @@ export class TimelineView extends ItemView {
         centuries.push({ y: y - 26, label: page.replace("-", "–"), page, year: century });
         this.yByYear.push([century, y - 26]);
       }
-      pos.set(e.id, { x: xFor(e), y, e });
+      const jitter = (hash01(e.id) - 0.5) * 2 * (onThread(e) ? 24 : 60);
+      const z = 0.76 + hash01(e.id + "~z") * 0.44;   // depth: 0.76 far … 1.2 near
+      pos.set(e.id, { x: xFor(e) + Math.round(jitter), y, z, e });
       this.yById.set(e.id, y);
       y += ROW;
     }
@@ -522,10 +539,10 @@ export class TimelineView extends ItemView {
         height: String(yEnd - band.yTop), class: "sg-tl-band",
         fill: ERA_TINT[band.label] ?? "rgba(255, 255, 255, 0.03)",
       });
-      // size the watermark to FIT the width, long names included
+      // size the watermark to FIT the column, long names included
       const fs = Math.min(
-        Math.round(W * 0.085), 64,
-        Math.round(W / (band.label.length * 0.78)));
+        Math.round(colW * 0.085), 64,
+        Math.round(colW / (band.label.length * 0.78)));
       const wm = el("text", {
         x: String(W / 2), y: String(Math.max(band.wmY, TOP + 26)),
         "text-anchor": "middle",
@@ -652,15 +669,56 @@ export class TimelineView extends ItemView {
         }
       }
 
-      // ---- narrative arcs between hemispheres
+      // ---- the connection web: events sharing a person or a thing are
+      // bound by faint straight edges, graph-view style — select a star and
+      // its connections light up. Chained per subject (each moment links to
+      // the subject's NEXT moment) so the web stays a constellation, not a
+      // hairball; rails already joining two events aren't doubled.
+      const railPairs = new Set<string>();
+      const markChain = (chain: TimelineEvent[]) => {
+        for (let i = 1; i < chain.length; i++) {
+          railPairs.add(`${chain[i - 1]!.id}|${chain[i]!.id}`);
+        }
+      };
+      for (const lane of ["ow", "nw", "rs"]) {
+        markChain(events.filter(e => e.lane === lane && !onThread(e)));
+      }
+      for (const th of this.data?.threads ?? []) {
+        markChain(events.filter(e => e.thread === th.id));
+      }
+      const bySubject = new Map<string, TimelineEvent[]>();
+      for (const e of events) {
+        for (const s of [...(e.people ?? []), ...(e.things ?? [])]) {
+          const arr = bySubject.get(s) ?? [];
+          arr.push(e);
+          bySubject.set(s, arr);
+        }
+      }
+      const webPairs = new Map<string, [string, string]>();
+      const addPair = (a: string, b: string) => {
+        if (a === b) return;
+        const key = a < b ? `${a}|${b}` : `${b}|${a}`;
+        if (railPairs.has(`${a}|${b}`) || railPairs.has(`${b}|${a}`)) return;
+        webPairs.set(key, [a, b]);
+      };
+      for (const [, evs] of bySubject) {
+        if (evs.length < 2 || evs.length > 9) continue;  // hubs become noise
+        for (let i = 1; i < evs.length; i++) addPair(evs[i - 1]!.id, evs[i]!.id);
+      }
       const visibleIds = new Set(events.map(e => e.id));
       for (const [a, b] of NARRATIVE_LINKS) {
-        if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
+        if (visibleIds.has(a) && visibleIds.has(b)) addPair(a, b);
+      }
+      const strong = new Set(NARRATIVE_LINKS.map(([a, b]) =>
+        a < b ? `${a}|${b}` : `${b}|${a}`));
+      for (const [key, [a, b]] of webPairs) {
         const pa = pos.get(a)!, pb = pos.get(b)!;
-        const bow = (W / 2 - (pa.x + pb.x) / 2) * 0.9 + W / 2;
-        el("path", {
-          d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-          class: "sg-tl-arc",
+        const dy = Math.abs(pb.y - pa.y);
+        const o = Math.max(0.05, (strong.has(key) ? 0.24 : 0.17) - dy / 14000);
+        el("line", {
+          x1: String(pa.x), y1: String(pa.y), x2: String(pb.x), y2: String(pb.y),
+          class: "sg-tl-web", "data-a": a, "data-b": b,
+          style: `stroke-opacity: ${o.toFixed(3)}`,
         });
       }
 
@@ -683,15 +741,21 @@ export class TimelineView extends ItemView {
     let nodeIdx = 0;
     for (const e of events) {
       const p = pos.get(e.id)!;
-      const r = e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5;
+      const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z;
       const braided = onThread(e);
       const color = (braided && e.thread ? threadById.get(e.thread)?.color : undefined)
         ?? LANE_COLOR[e.lane]!;
-      const g = el("g", {
+      const outer = el("g", {
         class: "sg-tl-node", "data-id": e.id,
         // constellation lights up star by star
         style: `animation-delay: ${Math.min(nodeIdx * 22, 480)}ms`,
       });
+      // …then each star keeps drifting gently on its own current
+      const g = el("g", {
+        class: "sg-tl-float",
+        style: `animation-delay: -${(hash01(e.id + "~f") * 8).toFixed(2)}s;`
+          + ` animation-duration: ${(6.5 + hash01(e.id + "~d") * 4).toFixed(2)}s`,
+      }, outer);
       nodeIdx++;
       // a generous invisible target under everything — thumbs, not cursors
       el("circle", {
@@ -701,7 +765,7 @@ export class TimelineView extends ItemView {
       // halo → glowing core → a glint of light: stars, not dots;
       // the major moments breathe softly, each on its own rhythm
       el("circle", {
-        cx: String(p.x), cy: String(p.y), r: String(r + 7),
+        cx: String(p.x), cy: String(p.y), r: String((r + 7).toFixed(1)),
         fill: color,
         class: e.imp === 1 ? "sg-tl-halo sg-tl-halo-breathe" : "sg-tl-halo",
         style: e.imp === 1 ? `animation-delay: -${(nodeIdx % 7) * 0.8}s` : "",
@@ -735,7 +799,8 @@ export class TimelineView extends ItemView {
         class: "sg-tl-year", fill: color,
       }, g);
       t2.textContent = `${yearStr(e.y0)} · ${DATING_SHORT[e.dating] ?? e.dating}`;
-      (g as unknown as SVGElement & { onclick: unknown }).onclick = () => this.selectNode(e, g);
+      (outer as unknown as SVGElement & { onclick: unknown }).onclick =
+        () => this.selectNode(e, outer);
     }
 
     stream.appendChild(svg);
@@ -759,12 +824,19 @@ export class TimelineView extends ItemView {
     this.detailEl?.remove();
     this.detailEl = null;
     this.streamEl?.querySelectorAll(".sg-tl-sel").forEach(n => n.classList.remove("sg-tl-sel"));
+    this.streamEl?.querySelectorAll(".sg-tl-web-lit").forEach(n => n.classList.remove("sg-tl-web-lit"));
   }
 
-  /** the tapped node lights up; its story slides in at the bottom */
+  /** the tapped node lights up; its web connections glow; its story slides
+   * in at the bottom */
   private selectNode(e: TimelineEvent, g: Element): void {
     this.clearDetail();
     g.classList.add("sg-tl-sel");
+    this.streamEl?.querySelectorAll(".sg-tl-web").forEach(l => {
+      if (l.getAttribute("data-a") === e.id || l.getAttribute("data-b") === e.id) {
+        l.classList.add("sg-tl-web-lit");
+      }
+    });
     const card = this.contentEl.createDiv({ cls: "sg-tl-detail" });
     this.detailEl = card;
     const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} – ${yearStr(e.y1)}`;

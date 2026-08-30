@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **145 BC–121 BC** — Alma's people in bondage; burdens made light · [[Mosiah 23]] · [[Mosiah 24]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

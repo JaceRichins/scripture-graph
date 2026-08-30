@@ -35,3 +35,12 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **90 BC–77 BC** — The sons of Mosiah among the Lamanites · [[Alma 17]] · [[Alma 18]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **84 BC–77 BC** — The Anti-Nephi-Lehies bury their swords · [[Alma 23]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

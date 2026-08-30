@@ -35,3 +35,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **1406 BC** — Jericho falls · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
+- **1406 BC** — Israel crosses the Jordan · [[Joshua 3]] · [[Joshua 4]] · [[1500-1401 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->
