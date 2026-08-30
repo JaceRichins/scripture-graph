@@ -113,6 +113,26 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// verse peek: window.sgPeek() pops a referenced verse over everything
+import { VersePeekModal } from "../src/study/versePeek";
+(window as unknown as { sgPeek: () => void }).sgPeek = () => {
+  const chapterMd = [
+    "# 2 Kings 24", "",
+    "**13** And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house. ^2kgs-24-13",
+    "",
+    "**14** And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land. ^2kgs-24-14",
+    "",
+    "**15** And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives. ^2kgs-24-15",
+  ].join("\n");
+  const fakeState = { app: { vault: { cachedRead: async () => chapterMd } } } as never;
+  const target = {
+    file: { basename: "2 Kings 24", path: "x" } as never,
+    chapterTitle: "2 Kings 24",
+    verseId: "2kgs-24-14",
+  };
+  new VersePeekModal(fakeState, target, () => log("peek → open chapter")).open();
+};
+
 // library sheet: window.sgLib() renders a fake Gospel Topic over the page
 import { LibraryPreviewModal } from "../src/study/libraryPreview";
 (window as unknown as { sgLib: () => void }).sgLib = () => {

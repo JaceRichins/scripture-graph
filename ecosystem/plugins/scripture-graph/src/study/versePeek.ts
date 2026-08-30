@@ -8,6 +8,7 @@
 import { App, Modal, TFile } from "obsidian";
 import { parseVerseId, verseDisplay } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
+import { registerSheet, unregisterSheet } from "./sheetRegistry";
 
 export interface VersePeekTarget {
   file: TFile;
@@ -38,6 +39,7 @@ export class VersePeekModal extends Modal {
   }
 
   onOpen(): void {
+    registerSheet(this);
     this.modalEl.addClass("sg-peek-modal");
     const c = this.contentEl;
     c.addClass("sg-peek");
@@ -84,5 +86,8 @@ export class VersePeekModal extends Modal {
     }
   }
 
-  onClose(): void { this.contentEl.empty(); }
+  onClose(): void {
+    unregisterSheet(this);
+    this.contentEl.empty();
+  }
 }

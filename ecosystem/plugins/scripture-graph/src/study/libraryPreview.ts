@@ -10,6 +10,7 @@
  * reading surface. A quiet "open as page" remains for power users. */
 import { App, Component, MarkdownRenderer, Modal, TFile } from "obsidian";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
+import { registerSheet, unregisterSheet } from "./sheetRegistry";
 
 /** AI pages that ARE reading surfaces keep real navigation */
 const NAVIGATE_PREFIXES = [
@@ -48,6 +49,7 @@ export class LibraryPreviewModal extends Modal {
   }
 
   onOpen(): void {
+    registerSheet(this);
     this.modalEl.addClass("sg-lib-modal");
     const c = this.contentEl;
     c.addClass("sg-lib");
@@ -82,8 +84,11 @@ export class LibraryPreviewModal extends Modal {
       if (next) {
         this.history.push(this.current);
         void this.show(next, href.split("#")[1] ?? null);
+      } else if (href.includes("#^")) {
+        // a verse reference peeks ON TOP — this sheet stays underneath
+        void this.s.app.workspace.openLinkText(href, this.current.path);
       } else {
-        // a scripture / personal destination: leave the sheet, read for real
+        // a chapter / personal destination: leave the sheet, read for real
         this.close();
         void this.s.app.workspace.openLinkText(href, this.current.path);
       }
@@ -113,6 +118,7 @@ export class LibraryPreviewModal extends Modal {
   }
 
   onClose(): void {
+    unregisterSheet(this);
     this.comp.unload();
     this.contentEl.empty();
   }

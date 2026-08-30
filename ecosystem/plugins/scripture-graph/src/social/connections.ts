@@ -11,6 +11,7 @@
 import { App, Modal, TFile } from "obsidian";
 import { verseDisplay } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
+import { registerSheet, unregisterSheet } from "../study/sheetRegistry";
 
 export interface VerseConnection {
   path: string;
@@ -191,6 +192,7 @@ export class ConnectionsModal extends Modal {
   }
 
   onOpen(): void {
+    registerSheet(this);
     const c = this.contentEl;
     this.modalEl.addClass("sg-conn-modal");
     c.addClass("sg-conn");
@@ -212,9 +214,11 @@ export class ConnectionsModal extends Modal {
         });
       }
       row.onclick = () => {
-        this.close();
-        // through the wrapper on purpose: AI pages float as a sheet, verses
-        // and personal pages navigate — one rule everywhere
+        // verse rows PEEK on top of this sheet — it stays open so the reader
+        // can flip through several references; page rows replace it
+        if (!conn.link) this.close();
+        // through the wrapper on purpose: verses peek, AI pages float as a
+        // sheet, personal pages navigate — one rule everywhere
         void this.s.app.workspace.openLinkText(conn.link ?? conn.path, "");
       };
     }
@@ -225,5 +229,8 @@ export class ConnectionsModal extends Modal {
     foot.onclick = () => { this.close(); this.openGraph(); };
   }
 
-  onClose(): void { this.contentEl.empty(); }
+  onClose(): void {
+    unregisterSheet(this);
+    this.contentEl.empty();
+  }
 }

@@ -7102,10 +7102,10 @@ ${body}
       y = Math.max(20, Math.min(190, y + (rnd() - 0.5) * 2 * jag));
       d += ` L${x} ${y.toFixed(0)}`;
     }
-    const open = d;
+    const open2 = d;
     d += " L900 200 L0 200 Z";
     let c = `<path d='${d}' fill='${color}'/>`;
-    if (crest) c += `<path d='${open}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
+    if (crest) c += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
     return svgUrl(900, 200, c);
   }
   function hills(color, amp, phase, crest) {
@@ -7534,6 +7534,79 @@ ${body}
     }
   };
 
+  // src/study/sheetRegistry.ts
+  var open = /* @__PURE__ */ new Set();
+  function registerSheet(m) {
+    open.add(m);
+  }
+  function unregisterSheet(m) {
+    open.delete(m);
+  }
+
+  // src/study/versePeek.ts
+  var VERSE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
+  var VersePeekModal = class extends Modal {
+    constructor(s, target, openChapter) {
+      super(s.app);
+      this.s = s;
+      this.target = target;
+      this.openChapter = openChapter;
+    }
+    onOpen() {
+      registerSheet(this);
+      this.modalEl.addClass("sg-peek-modal");
+      const c = this.contentEl;
+      c.addClass("sg-peek");
+      c.createEl("h3", {
+        cls: "sg-peek-title",
+        text: `\u{1F4D6} ${verseDisplay(this.target.verseId) ?? this.target.chapterTitle}`
+      });
+      const body = c.createDiv({ cls: "sg-peek-body" });
+      body.createDiv({ cls: "sg-peek-loading", text: "\u2026" });
+      void this.render(body);
+      const open2 = c.createEl("button", {
+        cls: "sg-peek-open",
+        text: `Open ${this.target.chapterTitle} \u25B8`
+      });
+      open2.onclick = () => {
+        this.close();
+        this.openChapter();
+      };
+    }
+    async render(body) {
+      let verses = [];
+      try {
+        const md = await this.s.app.vault.cachedRead(this.target.file);
+        for (const line of md.split("\n")) {
+          const m = VERSE_RE.exec(line);
+          if (m) verses.push({ n: Number(m[1]), text: m[2], id: m[3] });
+        }
+      } catch {
+      }
+      body.empty();
+      const i = verses.findIndex((v) => v.id === this.target.verseId);
+      if (i < 0) {
+        body.createDiv({ cls: "sg-peek-missing", text: "This verse could not be loaded." });
+        return;
+      }
+      const before = verses[i - 1];
+      const after = verses[i + 1];
+      if (before) {
+        body.createDiv({ cls: "sg-peek-ctx", text: `${before.n} ${before.text}` });
+      }
+      const main = body.createDiv({ cls: "sg-peek-verse" });
+      main.createSpan({ cls: "sg-peek-num", text: String(verses[i].n) });
+      main.createSpan({ text: ` ${verses[i].text}` });
+      if (after) {
+        body.createDiv({ cls: "sg-peek-ctx", text: `${after.n} ${after.text}` });
+      }
+    }
+    onClose() {
+      unregisterSheet(this);
+      this.contentEl.empty();
+    }
+  };
+
   // src/study/libraryPreview.ts
   var NAVIGATE_PREFIXES = [
     CANONICAL_PREFIX,
@@ -7564,6 +7637,7 @@ ${body}
     sheetTitleEl;
     backBtn;
     onOpen() {
+      registerSheet(this);
       this.modalEl.addClass("sg-lib-modal");
       const c = this.contentEl;
       c.addClass("sg-lib");
@@ -7595,6 +7669,8 @@ ${body}
         if (next) {
           this.history.push(this.current);
           void this.show(next, href.split("#")[1] ?? null);
+        } else if (href.includes("#^")) {
+          void this.s.app.workspace.openLinkText(href, this.current.path);
         } else {
           this.close();
           void this.s.app.workspace.openLinkText(href, this.current.path);
@@ -7621,6 +7697,7 @@ ${body}
       }
     }
     onClose() {
+      unregisterSheet(this);
       this.comp.unload();
       this.contentEl.empty();
     }
@@ -7674,6 +7751,7 @@ ${body}
       );
     }
     onOpen() {
+      registerSheet(this);
       const c = this.contentEl;
       this.modalEl.addClass("sg-conn-modal");
       c.addClass("sg-conn");
@@ -7695,7 +7773,7 @@ ${body}
           });
         }
         row.onclick = () => {
-          this.close();
+          if (!conn.link) this.close();
           void this.s.app.workspace.openLinkText(conn.link ?? conn.path, "");
         };
       }
@@ -7709,6 +7787,7 @@ ${body}
       };
     }
     onClose() {
+      unregisterSheet(this);
       this.contentEl.empty();
     }
   };
@@ -8054,6 +8133,24 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgPeek = () => {
+    const chapterMd = [
+      "# 2 Kings 24",
+      "",
+      "**13** And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house. ^2kgs-24-13",
+      "",
+      "**14** And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land. ^2kgs-24-14",
+      "",
+      "**15** And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives. ^2kgs-24-15"
+    ].join("\n");
+    const fakeState = { app: { vault: { cachedRead: async () => chapterMd } } };
+    const target = {
+      file: { basename: "2 Kings 24", path: "x" },
+      chapterTitle: "2 Kings 24",
+      verseId: "2kgs-24-14"
+    };
+    new VersePeekModal(fakeState, target, () => log("peek \u2192 open chapter")).open();
+  };
   window.sgLib = () => {
     const fakeMd = [
       "# Abrahamic Covenant",

@@ -9,6 +9,8 @@ import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visi
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { SGNavigatorModal } from "./study/navigator";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
+import { VersePeekModal, peekTargetFor } from "./study/versePeek";
+import { closeAllSheets } from "./study/sheetRegistry";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -262,6 +264,7 @@ export default class SGPlugin extends Plugin {
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
       this.studyBar.clear();          // selections never follow you across pages
+      closeAllSheets();               // navigation folds every floating layer
       this.study.recordVisit(f);
       this.recordLastChapter(f);
       this.updateNavFab(f);

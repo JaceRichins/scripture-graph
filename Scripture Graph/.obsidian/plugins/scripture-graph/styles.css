@@ -1008,6 +1008,30 @@ body.sg-scene-on .sg-chap-conn {
   background: rgba(255, 255, 255, 0.08);
   border-color: color-mix(in srgb, var(--sg-ink-accent, #ffffff) 30%, transparent);
 }
+/* ---------- 👁 verse peek: the reference comes to the reader ------------- */
+.sg-peek-modal { width: min(520px, 94vw); }
+.sg-peek-title { margin: 0 0 10px; }
+.sg-peek-body { line-height: 1.55; }
+.sg-peek-ctx {
+  color: var(--text-faint); font-size: 0.86em; line-height: 1.45;
+  margin: 6px 2px;
+}
+.sg-peek-verse {
+  font-size: 1.06em; margin: 8px 0;
+  padding: 10px 12px; border-radius: 12px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--interactive-accent) 40%, transparent);
+}
+.sg-peek-num {
+  font-weight: 700; font-size: 0.8em;
+  color: var(--text-muted); margin-right: 2px;
+}
+.sg-peek-loading, .sg-peek-missing { color: var(--text-faint); padding: 12px 0; }
+.sg-peek-open {
+  margin-top: 12px; width: 100%; min-height: 44px;
+  border-radius: 12px; font-weight: 600;
+}
+
 /* ---------- 📖 library sheet: AI pages float over the reading ------------ */
 .sg-lib-modal { width: min(680px, 96vw); }
 .sg-lib-head {
