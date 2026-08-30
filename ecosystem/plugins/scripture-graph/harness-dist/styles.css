@@ -1173,6 +1173,8 @@ body.sg-scene-on .sg-chap-conn {
 }
 .sg-tl-gap-main { font-size: 0.84em; font-weight: 700; color: var(--sg-ink); }
 .sg-tl-gap-sub { font-size: 0.7em; font-weight: 600; color: var(--sg-ink-dim); margin-top: 1px; }
+/* near the top of the viewport the chip sits below the pointer instead */
+.sg-tl-gap-below { transform: translate(-50%, 26%); }
 @media (prefers-reduced-motion: no-preference) {
   .sg-tl-star { animation: sg-tl-twinkle 4.2s ease-in-out infinite; }
   .sg-tl-node { animation: sg-tl-in 0.45s ease-out backwards; }

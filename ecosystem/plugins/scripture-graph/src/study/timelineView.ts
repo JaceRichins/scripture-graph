@@ -590,7 +590,13 @@ export class TimelineView extends ItemView {
 
     // every drawn edge gets a fat invisible twin that answers the question
     // "how much time sits between these two moments?" — hover for a glance,
-    // tap to pin. `litEl` (a web line) glows while the pointer is on it.
+    // tap to pin. The chip anchors at the POINTER, not the line's midpoint:
+    // a web edge can span centuries of scroll, but you touched it HERE, so
+    // the answer appears here — always inside the visible viewport.
+    const toContent = (ev: MouseEvent): [number, number] => {
+      const rc = stream.getBoundingClientRect();
+      return [ev.clientX - rc.left, ev.clientY - rc.top + stream.scrollTop];
+    };
     const gapHit = (a: TimelineEvent, b: TimelineEvent,
       context: string | null, litEl: Element | null = null,
       straight = false) => {
@@ -604,10 +610,14 @@ export class TimelineView extends ItemView {
           d: chainPath([pa, pb]), class: "sg-tl-hitline",
           "data-a": a.id, "data-b": b.id,
         });
-      const mx = (pa.x + pb.x) / 2, my = (pa.y + pb.y) / 2;
-      n.addEventListener("mouseenter", () => {
+      n.addEventListener("mouseenter", (ev) => {
         litEl?.classList.add("sg-tl-web-lit");
-        this.showGap(a, b, context, mx, my, false);
+        const [x, y] = toContent(ev as MouseEvent);
+        this.showGap(a, b, context, x, y, false);
+      });
+      n.addEventListener("mousemove", (ev) => {
+        const [x, y] = toContent(ev as MouseEvent);
+        this.moveGap(x, y);
       });
       n.addEventListener("mouseleave", () => {
         if (!litEl?.classList.contains("sg-tl-web-pin")) {
@@ -619,7 +629,8 @@ export class TimelineView extends ItemView {
         ev.stopPropagation();
         this.clearDetail();
         litEl?.classList.add("sg-tl-web-lit", "sg-tl-web-pin");
-        this.showGap(a, b, context, mx, my, true);
+        const [x, y] = toContent(ev as MouseEvent);
+        this.showGap(a, b, context, x, y, true);
       });
     };
 
@@ -910,10 +921,28 @@ export class TimelineView extends ItemView {
       cls: "sg-tl-gap-sub",
       text: `${context ? context + " · " : ""}${yearStr(ea.y0)} → ${yearStr(eb.y0)}`,
     });
-    const cx = Math.min(Math.max(x, 96), Math.max(200, this.lastW - 96));
-    chip.style.left = `${Math.round(cx)}px`;
-    chip.style.top = `${Math.round(y)}px`;
     this.gapEl = chip;
+    this.placeGap(x, y);
+  }
+
+  /** anchor the chip at (x, y) content coords, clamped INSIDE the visible
+   * viewport — a long edge's far reaches never strand the answer offscreen */
+  private placeGap(x: number, y: number): void {
+    const stream = this.streamEl, chip = this.gapEl;
+    if (!stream || !chip) return;
+    const cx = Math.min(Math.max(x, 96), Math.max(200, stream.clientWidth - 96));
+    const top = stream.scrollTop;
+    const cy = Math.min(Math.max(y, top + 14), top + stream.clientHeight - 20);
+    // near the viewport's top edge the chip flips below the pointer
+    chip.toggleClass("sg-tl-gap-below", cy - top < 76);
+    chip.style.left = `${Math.round(cx)}px`;
+    chip.style.top = `${Math.round(cy)}px`;
+  }
+
+  /** the transient chip follows the pointer along the line */
+  private moveGap(x: number, y: number): void {
+    if (this.gapPinned) return;
+    this.placeGap(x, y);
   }
 
   private hideGap(force: boolean): void {

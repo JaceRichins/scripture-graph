@@ -6595,6 +6595,10 @@ var init_timelineView = __esm({
             "stroke-width": String(core)
           });
         };
+        const toContent = (ev) => {
+          const rc = stream.getBoundingClientRect();
+          return [ev.clientX - rc.left, ev.clientY - rc.top + stream.scrollTop];
+        };
         const gapHit = (a, b, context, litEl = null, straight = false) => {
           const pa = pos.get(a.id), pb = pos.get(b.id);
           const n = straight ? el("line", {
@@ -6611,10 +6615,14 @@ var init_timelineView = __esm({
             "data-a": a.id,
             "data-b": b.id
           });
-          const mx = (pa.x + pb.x) / 2, my = (pa.y + pb.y) / 2;
-          n.addEventListener("mouseenter", () => {
+          n.addEventListener("mouseenter", (ev) => {
             litEl?.classList.add("sg-tl-web-lit");
-            this.showGap(a, b, context, mx, my, false);
+            const [x, y2] = toContent(ev);
+            this.showGap(a, b, context, x, y2, false);
+          });
+          n.addEventListener("mousemove", (ev) => {
+            const [x, y2] = toContent(ev);
+            this.moveGap(x, y2);
           });
           n.addEventListener("mouseleave", () => {
             if (!litEl?.classList.contains("sg-tl-web-pin")) {
@@ -6626,7 +6634,8 @@ var init_timelineView = __esm({
             ev.stopPropagation();
             this.clearDetail();
             litEl?.classList.add("sg-tl-web-lit", "sg-tl-web-pin");
-            this.showGap(a, b, context, mx, my, true);
+            const [x, y2] = toContent(ev);
+            this.showGap(a, b, context, x, y2, true);
           });
         };
         if (this.focus) {
@@ -6890,10 +6899,25 @@ var init_timelineView = __esm({
           cls: "sg-tl-gap-sub",
           text: `${context ? context + " \xB7 " : ""}${yearStr(ea.y0)} \u2192 ${yearStr(eb.y0)}`
         });
-        const cx = Math.min(Math.max(x, 96), Math.max(200, this.lastW - 96));
-        chip.style.left = `${Math.round(cx)}px`;
-        chip.style.top = `${Math.round(y)}px`;
         this.gapEl = chip;
+        this.placeGap(x, y);
+      }
+      /** anchor the chip at (x, y) content coords, clamped INSIDE the visible
+       * viewport — a long edge's far reaches never strand the answer offscreen */
+      placeGap(x, y) {
+        const stream = this.streamEl, chip = this.gapEl;
+        if (!stream || !chip) return;
+        const cx = Math.min(Math.max(x, 96), Math.max(200, stream.clientWidth - 96));
+        const top = stream.scrollTop;
+        const cy = Math.min(Math.max(y, top + 14), top + stream.clientHeight - 20);
+        chip.toggleClass("sg-tl-gap-below", cy - top < 76);
+        chip.style.left = `${Math.round(cx)}px`;
+        chip.style.top = `${Math.round(cy)}px`;
+      }
+      /** the transient chip follows the pointer along the line */
+      moveGap(x, y) {
+        if (this.gapPinned) return;
+        this.placeGap(x, y);
       }
       hideGap(force) {
         if (this.gapPinned && !force) return;
