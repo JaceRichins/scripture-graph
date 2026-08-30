@@ -17,12 +17,20 @@ Scripture: [[Abraham 3]] · My notes: [[Abraham 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+Abraham 3 moves from an ordered vision of heavenly bodies to comparisons among spirits and then to a premortal council. The repeated logic of one entity standing above another provides a strong literary transition, although deliberate formal design remains an interpretation. The final movement presents the making of an earth, a test of obedience, first and second estates, two respondents to a divine commission, and the rebellion of the second. These passages are central to Latter-day Saint teachings on [[Revelation]], the [[Abrahamic Covenant]], [[Premortal Life]], [[Creation]], [[Obedience]], and the [[Plan of Salvation]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful outline is:
+
+1. Abraham 3:1–10: celestial bodies, governance, and differing time reckonings.
+2. Abraham 3:11–15: an expanded vision, names for heavenly lights, the promise concerning Abraham's seed, and preparation to teach in Egypt.
+3. Abraham 3:16–21: comparative reasoning moves from celestial bodies to spirits and culminates in God's superior intelligence and rule.
+4. Abraham 3:22–23: premortal intelligences, noble and great ones, prospective rulers, and Abraham's prebirth choice.
+5. Abraham 3:24–28: making an earth, proving its inhabitants, two estates, two respondents, selection, and rebellion.
+
+Other divisions are possible, especially around verses 20–21. The repeated comparison binds the celestial and spiritual discussions together more securely than it proves a formal compositional scheme.
 <!-- SG:END structure -->
 
 ## People
@@ -42,6 +50,9 @@ _Not yet developed._
 - [[Abraham 2]] — 2 parallel verses, e.g. [[Abraham 3#^abr-3-3|Abraham 3:3]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
 - [[2 Nephi 29]] — 1 parallel verse, e.g. [[Abraham 3#^abr-3-21|Abraham 3:21]] ↔ [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Abraham 3#^abr-3-21|Abraham 3:21]] ↔ [[D&C 45#^dc-45-40|D&C 45:40]]
+- [[Isaiah 6]] — 0 parallel verses
+- [[Genesis 22]] — 0 parallel verses
+- [[2 Peter 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -53,7 +64,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter explicitly teaches that spirits can differ in intelligence while having no beginning or end, that God is more intelligent than all, and that Abraham was chosen before birth. It presents the earth as a place where its intended inhabitants will be proved through [[Obedience]], and it connects first and second estates with added glory or exclusion from the same kingdom. These statements are central to [[Premortal Life]] and the [[Plan of Salvation]], but the chapter does not fully define spirit, intelligence, soul, or estate.
+
+Abraham 3:24 portrays plural deliberation and the taking of materials to make an earth. This strongly supports a formation-from-materials description of the narrated stage of [[Creation]]. It does not state whether those materials were eternal, created earlier, or otherwise derived.
+
+Meaningful choices and consequences permeate Abraham 3:25–28, making [[Agency]] an appropriate related doctrine even though the word does not appear. The first respondent is described as like the Son of Man, and the second rebels and gains followers; identifying them as Jesus Christ and Satan is traditional and strongly supported by broader Latter-day Saint interpretation, but neither personal name appears here.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,25 +101,59 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter uses spirits, intelligences, and souls in closely related premortal contexts without formally defining whether they are exact synonyms, distinguishable aspects, or stages of organization. It likewise says that intelligences were organized before the world while saying that spirits have no beginning, but it does not explain how those statements relate.
+
+Gnolaum is glossed by the text as eternal, while Shinehah, Kokob, Olea, and Kokaubeam receive in-text identifications in Abraham 3:13. These are reportable features of the chapter, not independently verified translations from an ancient language.
+
+Above, greater, nearest, and greatest can involve time reckoning, governance, rank, spatial relation, or nearness to God depending on the passage. Treating every occurrence as one modern astronomical measurement exceeds what the text defines.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter's clearest literary feature is the transfer of comparative reasoning from celestial bodies to spirits. Abraham 3:18 explicitly pivots with 'as, also' from a greater star to spirits of unequal intelligence, and the sequence culminates in God's unrivaled intelligence. This makes the astronomical discussion function pedagogically, whether or not it is also intended as literal cosmology.
+
+A related governance motif connects governing celestial bodies, God's rule over intelligences, and the designation of good premortal souls as prospective rulers. Cosmic abundance also becomes covenant imagery when the multiplied creations are applied to Abraham's multiplied seed, linking the vision with the [[Abrahamic Covenant]].
+
+The commission formula in Abraham 3:27 closely parallels [[Isaiah 6]]. The English intertext is clear, but its explanation is open: it may be a revealed allusion, a conventional scriptural commission formula, or wording shaped by familiarity with the King James Bible. The parallel does not establish direction of dependence, ancient wording, date, or historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Canonical Doctrinal Statement
+> Abraham 3:18–23 is direct and unusually explicit textual evidence for premortal existence within Latter-day Saint scripture: spirits are said to have existed before, and Abraham is said to have been chosen before birth.
+> — strength 1.0 · confidence 1.0 · Conclusive for textual teaching, not objective history · [[Canonical Doctrinal Statement in Abraham 3|full dossier]]
+
+> [!evidence] Doctrinal Wording
+> The proposed creation of the earth is narrated in the plural and includes taking already-mentioned materials. This strongly supports reading the immediate scene as the organization or fashioning of an earth from available materials, although the passage does not explain the ultimate origin of those materials.
+> — strength 0.8 · confidence 1.0 · Wording secure; metaphysical implications limited · [[Doctrinal Wording in Abraham 3|full dossier]]
+
+> [!evidence] Internal Literary Structure
+> The repeated comparative pattern—two unequal entities followed by another above them—moves from planets and stars to spirits and intelligence. This is strong internal evidence that verses 16–19 form a deliberate literary hinge between the astronomical vision and the premortal scene.
+> — strength 0.8 · confidence 0.9 · Strong textual pattern; compositional intention inferred · [[Internal Literary Structure in Abraham 3|full dossier]]
+
+> [!evidence] Literary Structure
+> The repeated comparative formula involving two things, followed by a greater third, is strong textual evidence that the celestial and spiritual discussions form a deliberate literary analogy. It is not evidence by itself that the described cosmology corresponds to modern astronomical categories.
+> — strength 0.8 · confidence 0.9 · Pattern secure; deliberate composition inferred · [[Literary Structure in Abraham 3|full dossier]]
+
+> [!evidence] Scriptural Intertext *(tentative)*
+> The question-and-response wording in Abraham 3:27 closely parallels Isaiah's prophetic commission in Isaiah 6:8. The shared sequence provides strong evidence of an intertextual relationship at the level of the English text, while the scene has been relocated from Isaiah's earthly commission to a premortal council.
+> — strength 0.8 · confidence 0.9 · Verbal parallel secure; direction of dependence disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- In each comparison, does above describe location, time reckoning, governing rank, nearness to God, or an intentionally flexible combination?
+- Why does the revelation move from celestial order to Abraham's seed and then to premortal spirits? How might the sequence connect covenant responsibility with earthly testing?
+- Do intelligences, souls, and spirits denote the same beings, distinguishable aspects, or stages that the chapter leaves undefined?
+- How should organized in Abraham 3:22 relate to the assertion in Abraham 3:18 that spirits have no beginning?
+- What do first estate and second estate mean within this chapter alone?
+- Does proving in Abraham 3:25 describe God acquiring information, or an arena in which choices become manifest? What does the verse itself establish?
+- Which identifications of the two respondents arise from this chapter's wording, and which depend on other scriptures or later interpretation?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Abraham 3:14 with [[Genesis 15]] and [[Genesis 22]] for the heavenly-bodies-and-sand imagery associated with the [[Abrahamic Covenant]]. Compare Abraham 3:27 with [[Isaiah 6]] for the shared commission formula while keeping their different narrative settings distinct. [[Psalm 90]] and [[2 Peter 3]] provide biblical comparisons for the one-day and thousand-years statement in Abraham 3:4, though neither presents the same detailed cosmological setting.
+
+Read [[Abraham 1]] alongside Abraham 3:20 to trace the reminder of Abraham's deliverance. Further comparison of Latter-day Saint scriptures may clarify traditional interpretations of spirits, intelligences, estates, and the two respondents, but those cross-textual conclusions should not be attributed to Abraham 3 alone. Claims that the unusual names in Abraham 3:13 are independently validated ancient-language terms require linguistic evidence beyond the chapter's own glosses.
 <!-- SG:END further-study -->
