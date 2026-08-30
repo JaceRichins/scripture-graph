@@ -11,6 +11,7 @@ import { SGNavigatorModal } from "./study/navigator";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
+import { registerSwipeNav } from "./study/swipeNav";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -254,6 +255,8 @@ export default class SGPlugin extends Plugin {
     };
     this.register(() => back.remove());
     this.backPillEl = back;
+    // 👉 phone: swipe left/right turns the chapter like a page
+    registerSwipeNav(this, this.state, (title) => this.openMyStudy(title));
     document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
     this.register(() => {
       document.body.removeClass("sg-hide-ai-lib");
