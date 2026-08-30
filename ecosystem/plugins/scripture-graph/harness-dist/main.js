@@ -309,6 +309,15 @@ ${local.content}`,
       return el;
     }
   };
+  var Component = class {
+    load() {
+    }
+    unload() {
+    }
+    addChild(c) {
+      return c;
+    }
+  };
   var Modal = class {
     constructor(app) {
       this.app = app;
@@ -404,6 +413,23 @@ ${local.content}`,
   var TFile = class {
     path = "";
     basename = "";
+  };
+  var MarkdownRenderer = class {
+    /** plausible rendering — enough for sheet layout smoke tests */
+    static async render(_app, md, el) {
+      for (const block of md.split(/\n\n+/)) {
+        const line = block.trim();
+        if (!line || line.startsWith("---")) continue;
+        const h = /^(#{1,3})\s+(.*)$/.exec(line.split("\n")[0]);
+        if (h) {
+          el.createEl(`h${h[1].length}`, { text: h[2] });
+          const rest = line.split("\n").slice(1).join(" ").trim();
+          if (rest) el.createEl("p", { text: rest });
+        } else {
+          el.createEl("p", { text: line.replace(/\[\[([^\]|]*\|)?([^\]]*)\]\]/g, "$2") });
+        }
+      }
+    }
   };
 
   // ../../node_modules/zod/v3/external.js
@@ -6826,6 +6852,7 @@ ${text}` : text;
 
   // src/state.ts
   var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+  var LIBRARY_PREFIX = "AI Library/";
   var PERSONAL_PREFIX = "Library/";
 
   // src/study/study.ts
@@ -7507,6 +7534,98 @@ ${body}
     }
   };
 
+  // src/study/libraryPreview.ts
+  var NAVIGATE_PREFIXES = [
+    CANONICAL_PREFIX,
+    "AI Library/01 Scriptures/Annotated/"
+  ];
+  function sheetTargetFor(app, linktext, sourcePath) {
+    if (!linktext) return null;
+    const base = linktext.split("#")[0].trim();
+    if (!base) return null;
+    const dest = app.metadataCache.getFirstLinkpathDest(base, sourcePath);
+    if (!dest) return null;
+    if (!dest.path.startsWith(LIBRARY_PREFIX)) return null;
+    if (NAVIGATE_PREFIXES.some((p) => dest.path.startsWith(p))) return null;
+    return dest;
+  }
+  var LibraryPreviewModal = class extends Modal {
+    constructor(s, file, subpath, openAsPage) {
+      super(s.app);
+      this.s = s;
+      this.subpath = subpath;
+      this.openAsPage = openAsPage;
+      this.current = file;
+    }
+    comp = new Component();
+    history = [];
+    current;
+    bodyEl;
+    sheetTitleEl;
+    backBtn;
+    onOpen() {
+      this.modalEl.addClass("sg-lib-modal");
+      const c = this.contentEl;
+      c.addClass("sg-lib");
+      this.comp.load();
+      const head = c.createDiv({ cls: "sg-lib-head" });
+      this.backBtn = head.createEl("button", { cls: "sg-lib-btn sg-lib-back", text: "\u2039" });
+      this.backBtn.setAttr("aria-label", "Back");
+      this.backBtn.onclick = () => {
+        const prev = this.history.pop();
+        if (prev) void this.show(prev, null);
+      };
+      this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
+      const asPage = head.createEl("button", { cls: "sg-lib-btn sg-lib-expand", text: "\u2197" });
+      asPage.setAttr("aria-label", "Open as its own page");
+      asPage.onclick = () => {
+        const f = this.current;
+        this.close();
+        this.openAsPage(f);
+      };
+      this.bodyEl = c.createDiv({ cls: "sg-lib-body markdown-rendered" });
+      this.bodyEl.addEventListener("click", (evt) => {
+        const a = evt.target.closest("a.internal-link");
+        if (!(a instanceof HTMLElement)) return;
+        const href = a.getAttr("data-href") ?? a.getAttr("href") ?? "";
+        if (!href) return;
+        evt.preventDefault();
+        evt.stopPropagation();
+        const next = sheetTargetFor(this.s.app, href, this.current.path);
+        if (next) {
+          this.history.push(this.current);
+          void this.show(next, href.split("#")[1] ?? null);
+        } else {
+          this.close();
+          void this.s.app.workspace.openLinkText(href, this.current.path);
+        }
+      }, { capture: true });
+      void this.show(this.current, this.subpath);
+    }
+    async show(file, subpath) {
+      this.current = file;
+      this.sheetTitleEl.setText(file.basename);
+      this.backBtn.toggleClass("sg-lib-back-off", this.history.length === 0);
+      this.bodyEl.empty();
+      try {
+        const md = await this.s.app.vault.cachedRead(file);
+        await MarkdownRenderer.render(this.s.app, md, this.bodyEl, file.path, this.comp);
+        this.bodyEl.scrollTop = 0;
+        if (subpath && !subpath.startsWith("^")) {
+          const want = subpath.toLowerCase();
+          const h = Array.from(this.bodyEl.querySelectorAll("h1,h2,h3,h4,h5,h6")).find((el) => (el.textContent ?? "").trim().toLowerCase() === want);
+          h?.scrollIntoView({ block: "start" });
+        }
+      } catch {
+        this.bodyEl.setText("This page could not be loaded.");
+      }
+    }
+    onClose() {
+      this.comp.unload();
+      this.contentEl.empty();
+    }
+  };
+
   // src/social/connections.ts
   async function snippetFor(app, conn, needle) {
     const f = app.vault.getAbstractFileByPath(conn.path);
@@ -7931,6 +8050,25 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgLib = () => {
+    const fakeMd = [
+      "# Abrahamic Covenant",
+      "The covenant God made with Abraham \u2014 that through his seed all nations of the earth would be blessed \u2014 threads through every volume of scripture.",
+      "## Scriptural foundation",
+      "[[Genesis 12]] \xB7 [[Genesis 17]] \xB7 [[Abraham 2]] \xB7 [[Galatians 3]]",
+      "## From General Conference",
+      "Covenant belonging is not a minor doctrine; it is the doctrine."
+    ].join("\n\n");
+    const fakeState = {
+      app: {
+        vault: { cachedRead: async () => fakeMd },
+        metadataCache: { getFirstLinkpathDest: () => null },
+        workspace: { openLinkText: () => log("sheet \u2192 navigate out") }
+      }
+    };
+    const fakeFile = { basename: "Abrahamic Covenant", path: "AI Library/02 Gospel Topics/Abrahamic Covenant.md" };
+    new LibraryPreviewModal(fakeState, fakeFile, null, () => log("sheet \u2192 open as page")).open();
+  };
   window.sgTrans = () => {
     const fakeState = {
       app: {
