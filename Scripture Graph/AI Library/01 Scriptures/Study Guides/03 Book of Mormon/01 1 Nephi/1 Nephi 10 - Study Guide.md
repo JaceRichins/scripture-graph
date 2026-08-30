@@ -17,13 +17,12 @@ Scripture: [[1 Nephi 10]] · My notes: [[1 Nephi 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Lehi predicts that the Jews will be taken captive by the Babylonians—He tells of the coming among the Jews of a Messiah, a Savior, a Redeemer—Lehi tells also of the coming of the one who should baptize the Lamb of God—Lehi tells of the death and resurrection of the Messiah—He compares the scattering and gathering of Israel to an olive tree—Nephi speaks of the Son of God, of the gift of the Holy Ghost, and of the need for righteousness. About 600–592 B.C.
+1 Nephi 10 closes out Nephi's summary of his father Lehi's teaching following the dream of the tree of life ([[1 Nephi 8]]) and opens the transition to Nephi's own spiritual quest. Lehi predicts Jerusalem's destruction and the Jews' Babylonian captivity and return (vv. 2-3), then prophesies concerning a coming Messiah: his appearance about six hundred years after Lehi left Jerusalem (v. 4), a forerunner who prepares the way and baptizes him (vv. 7-10), his rejection and death followed by resurrection and manifestation by the Holy Ghost to the Gentiles (v. 11), and the scattering and eventual gathering of Israel under the figure of an olive tree, where grafting in is defined as coming to know the true Messiah (vv. 12-14). Nephi then notes that he has abridged this material, having already 'written as many of them as were expedient' in his other record (v. 15) — most naturally his own larger record kept on the large plates, not the specific lost 116 manuscript pages, which is a separate and later matter of translation history. The account briefly re-anchors in the tent in the valley of Lemuel (v. 16) before Nephi turns to his own voice (vv. 17-22), describing his desire to see, hear, and know these things for himself by the power of the Holy Ghost, God's promise to diligent seekers, and the certainty of coming judgment — setting up the vision recorded beginning in [[1 Nephi 11]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter moves through four parts: (1) v. 1, an editorial transition stating what Nephi's record will cover; (2) vv. 2-14, Nephi's summary of Lehi's prophetic teaching — Jerusalem's fate, the Messiah and his forerunner, the Messiah's death and resurrection, and the scattering/gathering of Israel; (3) vv. 15-16, an acknowledgment of omitted material and a narrative anchor back in the valley of Lemuel; (4) vv. 17-22, a shift to Nephi's own first-person voice, describing his desire for personal revelation and teaching God's changelessness, the availability of revelation to diligent seekers, and coming judgment. Because vv. 2-15 report Lehi's teaching through Nephi's summarizing pen, the text itself does not indicate how much of the specific wording is Lehi's own versus Nephi's later phrasing.
 <!-- SG:END structure -->
 
 ## People
@@ -48,34 +47,35 @@ _Not yet developed._
 - [[Helaman 8]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
 - [[2 Nephi 25]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
 - [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
-- [[Moroni 10]] — 7 parallel verses, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[Moroni 10#^moro-10-19|Moroni 10:19]]
 - [[3 Nephi 21]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[Moroni 6]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
-- [[2 Nephi 4]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]]
-- [[John 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[John 1#^john-1-27|John 1:27]]
-- [[1 Nephi 8]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
 - [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
 - [[1 Nephi 14]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
 - [[Alma 7]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]]
+- [[Moroni 3]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[D&C 20]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
+- [[1 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-15|1 Nephi 10:15]] ↔ [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]]
+- [[2 Nephi 2]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[2 Nephi 2#^2ne-2-4|2 Nephi 2:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Revelation]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]]
+- [[Scattering of Israel]]
+- [[Prophecy]]
+- [[Final Judgment]]
+- [[Records and Sacred Writings]]
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
-- [[Prophets]] *(keyword match — unconfirmed)*
-- [[Scattering of Israel]] *(keyword match — unconfirmed)*
-- [[Gathering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Key doctrinal threads include the universal need for a Redeemer given humanity's 'lost and fallen state' (v. 6); the [[Gift of the Holy Ghost]] and personal revelation available to 'all those who diligently seek him ... as well in times of old as in times to come' (vv. 17, 19) — a promise explicitly tied to divine mysteries being unfolded rather than a blanket guarantee of any answer sought; God's changeless nature ('the same yesterday, today, and forever,' v. 18) and the 'one eternal round' of his course (v. 19); and coming [[Final Judgment]], in which 'no unclean thing can dwell with God' (vv. 20-21). The [[Gathering of Israel]] is given an explicitly Christ-centered definition here — the natural branches are grafted in when the remnants of Israel 'come to the knowledge of the true Messiah' (v. 14) — a theme the chapter only briefly introduces but that reappears at much greater length in the allegory of Zenos in Jacob 5.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -108,22 +108,36 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several titles accumulate around the same anticipated figure: Messiah, Savior of the world, Redeemer of the world, Lamb of God, Son of God, Lord, and true Messiah. This accumulation emphasizes roles rather than supplying separate identities. The expression "manifest, by the Holy Ghost, unto the Gentiles" in verse 11 is syntactically important: it identifies the Holy Ghost as the stated means of manifestation, though it leaves the precise historical form of that manifestation unstated.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Lehi's description of the Messiah's forerunner in vv. 7-10 echoes a composite of King James Gospel language rather than a single source: 'prepare ye the way of the Lord, and make his paths straight' recalls the Synoptic quotation of Isaiah 40:3 (Matthew 3:3; Mark 1:3; Luke 3:4), and 'he is mightier than I' recalls Mark 1:7/Luke 3:16, while 'there standeth one among you, whom ye know not,' the 'shoe's latchet' line, the place-name 'Bethabara, beyond Jordan,' and the title 'Lamb of God, who should take away the sins of the world' are distinctly Johannine, closely matching [[John 1]]:26-29. Verse 9's 'Bethabara' also matches the King James reading of John 1:28, versus 'Bethany beyond Jordan' preferred in the earliest Greek manuscripts and most modern translations — a difference worth noting, though the manuscript picture is more complex than a simple two-tradition split. This verbal overlap establishes a real intertextual relationship at the level of the English text; it does not by itself decide whether that relationship reflects inspired language rendering ancient prophecy, Nephi's own later editorial diction, or the translation's use of familiar biblical idiom. Separately, the broken-and-grafted olive branches of vv. 12-14 resemble both Romans 11:17-26 and common Old Testament olive-tree figures for Israel (e.g., Jeremiah 11:16; Hosea 14:6), and this brief comparison anticipates the far more developed allegory of Zenos quoted in [[Jacob 5]], though 1 Nephi 10 does not name Zenos or explicitly present itself as a preview of that later text.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Chronological Consistency *(tentative)*
+> The 600-year figure in 1 Nephi 10:4 is broadly consistent with conventional dating of Lehi's departure from Jerusalem (c. 600 BC) and the beginning of the Messiah's public ministry/death (c. AD 30-33), which some LDS scholars cite as an internally coherent chronological claim.
+> — strength 0.3 · confidence 0.4 · disputed; critique found a math error
+
+> [!evidence] Prophetic Specificity / Historicity Question *(tentative)*
+> Taken together, Lehi's prophecy in this chapter attributes to a 600 BC prophet a degree of New Testament-specific detail (a named forerunner practice of wilderness preaching and baptism, a specific baptismal place-name, the title 'Lamb of God,' death and resurrection, and manifestation to Gentiles) that goes considerably beyond the more general messianic language found in the Old Testament prophets available to Lehi.
+> — strength 0.3 · confidence 0.5 · disputed; overreaches on textual and available-source claims
+
+> [!evidence] Textual/Manuscript-Tradition Parallel *(tentative)*
+> The name 'Bethabara' in 1 Nephi 10:9 matches the reading found in the King James Version and the Byzantine/Textus Receptus manuscript tradition at John 1:28, rather than 'Bethany beyond the Jordan,' which is preferred in the earliest surviving Greek manuscripts and in modern critical editions of the New Testament.
+> — strength 0.4 · confidence 0.5 · disputed; textual-critical framing overstated
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Because vv. 2-15 report Lehi's teaching through Nephi's summarizing pen, how much of the specific wording (the forerunner's description, 'Lamb of God,' etc.) should be read as Lehi's own versus Nephi's later phrasing?
+2. What should modern readers make of the New Testament-specific detail in this prophecy — a baptismal place-name, the 'Lamb of God' title, resurrection, and manifestation to Gentiles — compared to the more general messianic language found in the pre-exilic prophetic corpus available on the brass plates?
+3. Does 'make himself manifest, by the Holy Ghost, unto the Gentiles' (v. 11) refer to a specific historical event, ongoing apostolic witness, or a more general spiritual disclosure?
+4. How does Nephi's declared quest in vv. 17-19 function alongside inherited revelation — is he seeking knowledge apart from his father's testimony, or personal confirmation and expansion of it?
+5. What might have been in Nephi's 'other book' referenced in verse 15 (elsewhere understood as his larger record on the large plates), and how does that relate to the separate loss of the 116 manuscript pages from Mormon's abridgment?
 <!-- SG:END questions -->
 
 ## Further Study
