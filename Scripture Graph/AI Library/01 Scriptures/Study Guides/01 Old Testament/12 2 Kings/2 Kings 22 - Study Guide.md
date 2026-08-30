@@ -17,7 +17,7 @@ Scripture: [[2 Kings 22]] · My notes: [[2 Kings 22 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-The chapter moves from repairing the temple to confronting neglected covenant obligations. A routine administrative mission leads to the discovery of the book of the law, whose reading exposes Judah's disobedience. Josiah responds with grief and inquiry, and Huldah confirms both coming judgment and a personal assurance that the humbled king has been heard. The account thus brings [[Temples]], [[Records and Sacred Writings]], [[Humility]], [[Prophets]], and [[Justice and Mercy]] into one tightly connected narrative.
+A temple-repair project leads to the discovery of a law book and then to a crisis of covenant accountability. Josiah hears the book, grieves, and seeks divine guidance. Huldah confirms both judgment against Judah and mercy toward the humbled king. The chapter therefore joins [[Temples]], [[Records and Sacred Writings]], [[Humility]], [[Prophets]], and [[Justice and Mercy]] without suggesting that one individual's humility automatically removes every communal consequence.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -49,7 +49,6 @@ The chapter moves from repairing the temple to confronting neglected covenant ob
 - [[Ezra 7]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-4|2 Kings 22:4]])
 - [[Alma 31]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-11|2 Kings 22:11]])
 - [[Jeremiah 26]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-12|2 Kings 22:12]])
-- [[2 Chronicles 34]] — 20 parallel verses, e.g. [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]] ↔ [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Chronicles 36#^2chr-36-9|2 Chronicles 36:9]]
@@ -61,6 +60,7 @@ The chapter moves from repairing the temple to confronting neglected covenant ob
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
 - [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
 - [[2 Chronicles 20]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
+- [[1 Kings 22]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,14 +68,15 @@ The chapter moves from repairing the temple to confronting neglected covenant ob
 - [[Records and Sacred Writings]]
 - [[Scripture Study]]
 - [[Law of Moses]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-Josiah's experience illustrates a sober pattern of response to divine law: hearing, recognizing accountability, humbling oneself, and seeking further revelation. Huldah's oracle does not make individual humility erase every accumulated communal consequence. Instead, the chapter holds together moral accountability, judgment for persistent apostasy, and mercy toward a responsive individual. This makes the passage especially relevant to [[Obedience]], [[Repentance]], and [[Justice and Mercy]].
+Josiah's experience illustrates a sober pattern of response to divine law: hearing, recognizing accountability, humbling oneself, and seeking further revelation (vv. 11–13). Huldah's two-part oracle does not let individual humility erase every accumulated communal consequence: the LORD's wrath against a nation that has forsaken him for other gods stands regardless of one person's response (vv. 16–17), while a humbled individual can still be personally heard within that larger judgment (vv. 18–20). The text grounds Josiah's exemption specifically in his tender heart, self-humbling, torn clothes, and weeping (v. 19), holding [[Obedience]], [[Repentance]], and [[Justice and Mercy]] together rather than as competing principles.
+
+The chapter also gives Huldah a clear prophetic role: she is called "the prophetess," is sought out by the king's own delegation, and speaks using the prophetic messenger formula "Thus saith the LORD." These narrative facts are strong evidence that the text recognizes a woman as an authoritative prophetic voice, though they do not by themselves settle later questions about priesthood office or ordination — the chapter simply does not address those questions.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -90,16 +91,22 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The chapter calls the object found by Hilkiah “the book of the law,” but it never inventories the book's contents. Identifying it precisely with the present book of Deuteronomy, the complete Pentateuch, or another legal collection requires evidence beyond this chapter. Similarly, “in peace” in verse 20 should be read alongside its immediate explanation that Josiah will not see the coming evil and alongside his later death in [[2 Kings 23]].
+The chapter calls the object found by Hilkiah "the book of the law," but it never inventories the book's contents. Identifying it precisely with the present book of Deuteronomy, the complete Pentateuch, or another legal collection requires evidence beyond this chapter.
+
+The narrator's description of Josiah having "turned not aside to the right hand or to the left" (v. 2) echoes the king's-law language of Deuteronomy 17:20. The resemblance is suggestive but has not been checked against the idiom's other biblical occurrences, so it should be read as a plausible echo rather than a demonstrated citation.
+
+Huldah is introduced through her husband's genealogy — she is "the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe" (v. 14) — so the wardrobe office belongs to Shallum, not to Huldah herself. She is said to dwell "in Jerusalem in the college," an archaic rendering of a Hebrew term (mishneh) more often translated "Second Quarter," a district of the city rather than an educational institution.
+
+"In peace" in verse 20 should be read alongside its immediate explanation that Josiah will not see the coming evil, not as a guarantee of an entirely peaceful death: Josiah's later death following his encounter with Pharaoh Necho ([[2 Kings 23]]) shows the promise concerns Judah's coming disaster rather than the manner of his own death.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The narrative moves from repairing the temple to discovering a neglected law book and confronting Judah's covenant failure. That progression is literarily meaningful, although it may also reflect straightforward chronology rather than deliberate symbolism.
+The narrative moves from repairing the temple's physical breaches to confronting Judah's covenant breach. That progression is literarily suggestive, though it may equally reflect straightforward chronology rather than deliberate symbolism.
 
-Repeated references to reading, hearing, words, and response bind the episode together: Hilkiah gives the book to Shaphan; Shaphan reads it and presents it to Josiah; Josiah asks about its words; and Huldah answers with an oracle concerning what the king has heard. The delegation, rather than the book itself, then carries Huldah's response back to Josiah.
+Repeated references to reading, hearing, words, and response bind the episode together: Hilkiah finds the book and gives it to Shaphan; Shaphan reads it and presents it to Josiah; Josiah's officials carry his question to Huldah; and Huldah's answer is carried back by the same messengers. No scene shows the king receiving the prophetic answer directly — only hearing it reported — mirroring how he first received the law itself indirectly through Shaphan.
 
-Josiah's torn clothes form a useful canonical contrast with the untorn garments and burned scroll in [[Jeremiah 36]]. This comparison illuminates their different responses without proving direct literary dependence.
+Josiah's torn clothing (v. 11) forms a useful canonical contrast with Jehoiakim, who later hears a scroll of prophetic words read and responds by cutting it up and burning it, unafraid and with garments untorn ([[Jeremiah 36]]). The comparison illuminates the kings' sharply different responses without requiring or proving direct literary dependence between the accounts.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -107,6 +114,14 @@ Josiah's torn clothes form a useful canonical contrast with the untorn garments 
 > [!evidence] Internal Textual Evidence
 > The chapter strongly supports the limited conclusion that the discovered book was treated as an authoritative law text whose requirements and warnings applied to Judah. Its wording alone does not securely identify the book's complete contents, date of composition, or relationship to a particular modern reconstruction of the Pentateuch.
 > — strength 0.9 · confidence 1.0 · Accepted observation; precise book identity remains disputed · [[Internal Textual Evidence in 2 Kings 22|full dossier]]
+
+> [!evidence] Narrative And Role Evidence
+> Huldah's title, the royal delegation's consultation of her, and her use of the prophetic messenger formula provide strong textual evidence that this narrative recognizes a woman as an authoritative prophetic speaker.
+> — strength 0.8 · confidence 0.9 · accepted observation, institutional questions explicitly left open · [[Narrative And Role Evidence in 2 Kings 22|full dossier]]
+
+> [!evidence] Textual Identification
+> The chapter's internal evidence is insufficient to identify the discovered book precisely with the complete present form of Deuteronomy, the entire Pentateuch, or another specific legal collection. It supplies a title and describes the book's effects, but does not inventory or quote its contents.
+> — strength 0.3 · confidence 0.9 · well-calibrated, low evidence_strength intentional
 
 > [!evidence] Internal Narrative Evidence
 > The explicit because-and-therefore reasoning in Huldah's oracle is strong internal evidence for the narrator's theological claim that God hears humble responses to warning. Josiah's response changes his personal experience of the announced disaster, but the communal judgment itself remains in force.
@@ -123,10 +138,10 @@ Josiah's torn clothes form a useful canonical contrast with the untorn garments 
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-Why does the delegation consult Huldah specifically, and what can the passage safely establish about her prophetic role? What did the narrator expect readers to understand by “the book of the law”? Does the absence of an audit in verse 7 commend a universal financial policy, or only describe confidence in these particular workers? How should the promise of burial “in peace” be reconciled with Josiah's death reported in [[2 Kings 23]]?
+Why does the delegation consult Huldah specifically, and what can the passage safely establish about her prophetic role? What did the narrator expect readers to understand by "the book of the law"? Does the absence of an audit in verse 7 commend a universal financial policy, or only describe confidence in these particular workers? Does Josiah's confession that "our fathers have not hearkened" (v. 13) implicate only earlier generations, or his own as well? How should the promise of burial "in peace" be reconciled with Josiah's death reported in [[2 Kings 23]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the parallel account in [[2 Chronicles 34]], noting its chronology and additional details. Continue into [[2 Kings 23]] to see how hearing becomes covenant renewal and reform. Compare Josiah with Hezekiah in [[2 Kings 19]] and with Jehoiakim in [[Jeremiah 36]]; these narratives portray sharply different royal responses to threatening words.
+Compare the parallel account in [[2 Chronicles 34]], noting its chronology and additional details. Continue into [[2 Kings 23]] to see how hearing becomes covenant renewal and reform, and to weigh how the "in peace" promise here relates to Josiah's reported death. Compare Josiah's response with Hezekiah's in [[2 Kings 19]] (torn clothes at alarming news) and with Jehoiakim's in [[Jeremiah 36]] (an unmoved response to a written prophetic word) to see a spectrum of royal reactions to threatening words, without assuming any of these accounts were composed with the others directly in mind. The nearly identical description of untallied trust in temple-repair funds also appears in [[2 Kings 12]], worth reading alongside this chapter's verse 7.
 <!-- SG:END further-study -->
