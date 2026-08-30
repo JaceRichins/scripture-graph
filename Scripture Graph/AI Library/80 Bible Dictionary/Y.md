@@ -1,0 +1,39 @@
+---
+ownership: ai
+mutable: engine
+content_type: bible-dictionary
+letter: Y
+license: public domain (texts); dataset CC BY 4.0
+cssclasses:
+- sg-ai
+---
+
+# Bible Dictionary — Y
+
+_Easton's Bible Dictionary (1897) and Smith's Bible Dictionary (1863), public domain. Compiled dataset: neuu-org bible-dictionary-dataset (CC BY 4.0)._
+
+## Yarn
+**Easton (1897):** Found only in 1 Kings 10:28, 2 Chr. 1:16. The Heb. word mikveh, i.e., “a stringing together,” so rendered, rather signifies a host, or company, or a string of horses. The Authorized Version has: “And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price;” but the Revised Version correctly renders: “And the horses which Solomon had were brought out of Egypt; the king’s merchants received them in droves, each drove at a price.”
+
+**Smith (1863):** The notice of yarn is contained in an extremely obscure passage in (1 Kings 10:28; 2 Chronicles 1:16) The Hebrew Received Text is questionable. Gesenius gives the sense of “number” as applying equally to the merchants and the horses: “A band of the king’s merchants bought a drove (of horses) at a price.”
+
+## Year
+**Easton (1897):** Heb. shanah, meaning “repetition” or “revolution” (Gen. 1:14; 5:3). Among the ancient Egyptians the year consisted of twelve months of thirty days each, with five days added to make it a complete revolution of the earth round the sun. The Jews reckoned the year in two ways, (1) according to a sacred calendar, in which the year began about the time of the vernal equinox, with the month Abib; and (2) according to a civil calendar, in which the year began about the time of the autumnal equinox, with the month Nisan. The month Tisri is now the beginning of the Jewish year.
+
+**Smith (1863):** the highest ordinary division of time. Two years were known to, and apparently used by, the Hebrews.
+
+## Year Of Jubilee
+**Smith (1863):** [Jubilee, The Year Of, YEAR OF]
+
+## Year, Sabbatical
+**Smith (1863):** [Sabbatical Year YEAR]
+
+## Yeshebi
+**Easton (1897):** The Hebrew word rendered “inhabitants” in Josh. 17:7, but probably rather the name of the village Yeshepheh, probably Yassuf, 8 miles south of Shechem.
+
+## Yoke
+**Easton (1897):** (1.) Fitted on the neck of oxen for the purpose of binding to them the traces by which they might draw the plough, etc. (Num. 19:2; Deut. 21:3). It was a curved piece of wood called ’ol. (2.) In Jer. 27:2; 28:10, 12 the word in the Authorized Version rendered “yoke” is motah, which properly means a “staff,” or as in the Revised Version, “bar.” These words in the Hebrew are both used figuratively of severe bondage, or affliction, or subjection (Lev. 26:13; 1 Kings 12:4; Isa. 47:6; Lam. 1:14; 3:27). In the New Testament the word “yoke” is also used to denote servitude (Matt. 11:29, 30; Acts 15:10; Gal. 5:1). (3.) In 1 Sam. 11:7, 1 Kings 19:21, Job 1:3 the word thus translated is tzemed, which signifies a pair, two oxen yoked or coupled together, and hence in 1 Sam. 14:14 it represents as much land as a yoke of oxen could plough in a day, like the Latin jugum. In Isa. 5:10 this word in the plural is translated “acres.”
+
+## Yoke-fellow
+**Easton (1897):** (Phil. 4:3), one of the apostle’s fellow-labourers. Some have conjectured that Epaphroditus is meant. Wyckliffe renders the phrase “the german felowe”, i.e., “thee, germane [=genuine] comrade.”
+
