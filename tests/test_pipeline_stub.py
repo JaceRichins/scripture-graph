@@ -9,6 +9,28 @@ from scripturegraph.util import read_text
 from scripturegraph.vaultgen import md
 
 
+def test_context_survives_topic_parallel_edges(imported_ctx):
+    """parallel_to / semantically_related edges are not chapter-only: a topic
+    counterpart fed to chapter_display KeyErrored the whole research job
+    (live: num-26 died on KeyError 'exodus-and')."""
+    from scripturegraph.agents.pipeline import build_context
+    from scripturegraph.util import now_iso
+    ctx = imported_ctx
+    db = ctx.db()
+    topic = db.execute("SELECT id FROM nodes WHERE node_type='topic' LIMIT 1").fetchone()
+    for rel in ("parallel_to", "semantically_related"):
+        db.execute(
+            "INSERT INTO edges(src,dst,rel,status,confidence,weight,meta_json,"
+            " provenance,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?)",
+            ("chapter:mosiah-14", topic["id"], rel, "accepted", 0.9, 0.9,
+             "{}", "test", now_iso(), now_iso()))
+    db.commit()
+
+    c = build_context(ctx, "mosiah-14")   # must not raise
+    others = [p["other"] for p in c.get("parallels", [])]
+    assert all("exodus" not in o.lower() or ":" not in o for o in others)
+
+
 def test_full_stub_job(imported_ctx):
     ctx = imported_ctx
     run_global_parallels(ctx)

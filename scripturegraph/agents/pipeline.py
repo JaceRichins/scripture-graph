@@ -111,16 +111,23 @@ def build_context(ctx: Ctx, cslug: str) -> dict:
             "SELECT src, dst, weight, meta_json FROM edges WHERE (src=? OR dst=?) "
             "AND rel='parallel_to' AND status='accepted' ORDER BY weight DESC LIMIT 10",
             (me, me)):
-        other = (r["dst"] if r["src"] == me else r["src"]).split(":", 1)[1]
+        other_id = r["dst"] if r["src"] == me else r["src"]
+        # these relations are not chapter-only (topics ride them too), and a
+        # topic slug fed to chapter_display KeyErrors the whole job
+        if not other_id.startswith("chapter:"):
+            continue
         meta = json.loads(r["meta_json"] or "{}")
-        parallels.append({"other": chapter_display(other),
+        parallels.append({"other": chapter_display(other_id.split(":", 1)[1]),
                           "n": meta.get("n_verse_pairs", 0)})
     candidates = []
     for r in db.execute(
             "SELECT src, dst, weight FROM edges WHERE (src=? OR dst=?) "
             "AND rel='semantically_related' ORDER BY weight DESC LIMIT 8", (me, me)):
-        other = (r["dst"] if r["src"] == me else r["src"]).split(":", 1)[1]
-        candidates.append({"other": chapter_display(other), "score": round(r["weight"] or 0, 3)})
+        other_id = r["dst"] if r["src"] == me else r["src"]
+        if not other_id.startswith("chapter:"):
+            continue
+        candidates.append({"other": chapter_display(other_id.split(":", 1)[1]),
+                           "score": round(r["weight"] or 0, 3)})
     topic_titles = [r["title"] for r in db.execute(
         "SELECT title FROM nodes WHERE node_type='topic' ORDER BY title")]
     # secondary-source claims awaiting corroboration (§13: commentary is not
