@@ -8373,9 +8373,11 @@ ${body}
           centuries.push({ y: y - 26, label: page.replace("-", "\u2013"), page, year: century });
           this.yByYear.push([century, y - 26]);
         }
-        const jitter = (hash01(e.id) - 0.5) * 2 * (onThread(e) ? 24 : 60);
+        const amp = onThread(e) ? Math.min(24, colW * 0.03) : Math.min(60, colW * 0.07);
+        const jitter = (hash01(e.id) - 0.5) * 2 * amp;
         const z = 0.76 + hash01(e.id + "~z") * 0.44;
-        pos.set(e.id, { x: xFor(e) + Math.round(jitter), y, z, e });
+        const jx = Math.min(Math.max(xFor(e) + Math.round(jitter), 24), W - 24);
+        pos.set(e.id, { x: jx, y, z, e });
         this.yById.set(e.id, y);
         y += ROW;
       }
@@ -8707,7 +8709,7 @@ ${body}
         const dir = dirFor(e);
         const tx0 = p.x + dir * (r + 12);
         const avail = dir > 0 ? W - 16 - tx0 : tx0 - 16;
-        const per = e.imp === 1 && !braided ? 8.4 : 7.1;
+        const per = e.imp === 1 && !braided ? 7.2 : 6.2;
         const maxCh = Math.max(10, Math.floor(avail / per));
         const label = e.t.length > maxCh ? `${e.t.slice(0, maxCh - 1)}\u2026` : e.t;
         const cls = braided ? "sg-tl-label sg-tl-label-sm" : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : e.imp === 3 ? "sg-tl-label sg-tl-label-sm" : "sg-tl-label";
@@ -8716,7 +8718,8 @@ ${body}
           x: String(tx0),
           y: String(p.y - 2),
           "text-anchor": anchor,
-          class: cls
+          class: cls,
+          "data-avail": String(Math.max(56, Math.round(avail)))
         }, g);
         t1.textContent = label;
         const t2 = el("text", {
@@ -8730,6 +8733,17 @@ ${body}
         outer.onclick = () => this.selectNode(e, outer);
       }
       stream.appendChild(svg);
+      svg.querySelectorAll("text[data-avail]").forEach((node) => {
+        const t = node;
+        if (typeof t.getComputedTextLength !== "function") return;
+        const fit = Number(t.getAttribute("data-avail"));
+        if (!fit || t.getComputedTextLength() <= fit) return;
+        let base = (t.textContent ?? "").replace(/…$/, "");
+        while (base.length > 6 && t.getComputedTextLength() > fit) {
+          base = base.slice(0, -1);
+          t.textContent = base.trimEnd() + "\u2026";
+        }
+      });
       svg.addEventListener("click", (evt) => {
         if (evt.target.closest(".sg-tl-node, .sg-tl-hitline")) return;
         this.clearDetail();
