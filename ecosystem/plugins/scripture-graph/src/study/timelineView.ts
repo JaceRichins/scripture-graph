@@ -101,6 +101,22 @@ export class TimelineView extends ItemView {
     this.contentEl.addClass("sg-tl");
     this.data = await loadTimelineData(this.s.app);
     this.render();
+    // the dataset may land AFTER this view opens (engine build finishing,
+    // or Obsidian Sync delivering) — notice its arrival and come alive
+    const vault = this.s.app.vault;
+    if (typeof (vault as unknown as { on?: unknown }).on === "function") {
+      const arrived = (f: { path?: string }) => {
+        if (this.data || f?.path !== DATA_PATH) return;
+        void this.reload();
+      };
+      this.registerEvent(vault.on("create", arrived));
+      this.registerEvent(vault.on("modify", arrived));
+    }
+  }
+
+  private async reload(): Promise<void> {
+    this.data = await loadTimelineData(this.s.app);
+    this.render();
   }
 
   private visible(): TimelineEvent[] {
@@ -123,10 +139,12 @@ export class TimelineView extends ItemView {
     const c = this.contentEl;
     c.empty();
     if (!this.data) {
-      c.createDiv({
-        cls: "sg-tl-empty",
-        text: "Timeline data hasn't synced to this device yet — give Obsidian Sync a minute.",
+      const empty = c.createDiv({ cls: "sg-tl-empty" });
+      empty.createDiv({
+        text: "Timeline data hasn't reached this device yet — it loads itself the moment it arrives.",
       });
+      const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "↻ Check now" });
+      retry.onclick = () => void this.reload();
       return;
     }
 

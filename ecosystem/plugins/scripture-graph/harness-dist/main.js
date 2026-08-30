@@ -7618,6 +7618,19 @@ ${body}
       this.contentEl.addClass("sg-tl");
       this.data = await loadTimelineData(this.s.app);
       this.render();
+      const vault = this.s.app.vault;
+      if (typeof vault.on === "function") {
+        const arrived = (f) => {
+          if (this.data || f?.path !== DATA_PATH) return;
+          void this.reload();
+        };
+        this.registerEvent(vault.on("create", arrived));
+        this.registerEvent(vault.on("modify", arrived));
+      }
+    }
+    async reload() {
+      this.data = await loadTimelineData(this.s.app);
+      this.render();
     }
     visible() {
       if (!this.data) return [];
@@ -7643,10 +7656,12 @@ ${body}
       const c = this.contentEl;
       c.empty();
       if (!this.data) {
-        c.createDiv({
-          cls: "sg-tl-empty",
-          text: "Timeline data hasn't synced to this device yet \u2014 give Obsidian Sync a minute."
+        const empty = c.createDiv({ cls: "sg-tl-empty" });
+        empty.createDiv({
+          text: "Timeline data hasn't reached this device yet \u2014 it loads itself the moment it arrives."
         });
+        const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "\u21BB Check now" });
+        retry.onclick = () => void this.reload();
         return;
       }
       const bar2 = c.createDiv({ cls: "sg-tl-bar" });

@@ -1094,6 +1094,10 @@ body.sg-scene-on .sg-chap-conn {
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
 }
 .sg-tl-empty { color: var(--text-faint); text-align: center; padding: 40px 16px; }
+.sg-tl-retry {
+  margin-top: 14px; min-height: 40px; padding: 0 18px;
+  border-radius: 12px; font-weight: 600;
+}
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
