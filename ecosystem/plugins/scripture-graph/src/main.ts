@@ -289,6 +289,15 @@ export default class SGPlugin extends Plugin {
     const orig = this.origOpenLinkText;
     this.app.workspace.openLinkText = (linktext: string, sourcePath: string,
       newLeaf?: unknown, openViewState?: unknown) => {
+      // verse references PEEK — the verse comes to the reader, and "Open
+      // chapter" inside the card is the deliberate way to actually travel
+      const peek = peekTargetFor(this.app, linktext, sourcePath);
+      if (peek) {
+        new VersePeekModal(this.state, peek, () => {
+          void orig(linktext, sourcePath, newLeaf as never, openViewState as never);
+        }).open();
+        return Promise.resolve();
+      }
       const sheet = sheetTargetFor(this.app, linktext, sourcePath);
       if (sheet) {
         this.openLibrarySheet(sheet, linktext.split("#")[1] ?? null);
