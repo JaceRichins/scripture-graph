@@ -7,8 +7,9 @@
  * (major-only by default — no data floods), and a search box that doubles
  * as a person/place spotlight. Event links ride the one link ladder:
  * verses peek, chapters open your study page, people float as sheets. */
-import { ItemView, TFile, WorkspaceLeaf, type App } from "obsidian";
+import { ItemView, Modal, TFile, WorkspaceLeaf, type App } from "obsidian";
 import { SGState } from "../state";
+import { registerSheet, unregisterSheet } from "./sheetRegistry";
 
 export const TIMELINE_VIEW = "sg-timeline";
 
@@ -18,9 +19,18 @@ export interface TimelineEvent {
   imp: 1 | 2 | 3;
   cat: string[];
   dating: string;
-  people?: string[]; places?: string[]; chapters?: string[];
+  people?: string[]; places?: string[]; things?: string[]; chapters?: string[];
   note: string;
 }
+
+export type SubjectKind = "people" | "places" | "things";
+export interface Subject { kind: SubjectKind; name: string }
+
+const SUBJECT_META: Record<SubjectKind, { emoji: string; label: string }> = {
+  people: { emoji: "🧑", label: "People" },
+  places: { emoji: "🗺", label: "Places" },
+  things: { emoji: "📦", label: "Things" },
+};
 
 export interface TimelineData {
   version: number;
@@ -101,8 +111,15 @@ export class TimelineView extends ItemView {
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
   private query = "";
+  private focus: Subject | null = null;
   private pendingYear: number | null = null;
   private streamEl: HTMLElement | null = null;
+
+  /** enter/leave focus mode: the constellation becomes ONE subject's thread */
+  setFocus(subject: Subject | null): void {
+    this.focus = subject;
+    this.render();
+  }
 
   constructor(leaf: WorkspaceLeaf, private s: SGState) { super(leaf); }
 
@@ -140,6 +157,14 @@ export class TimelineView extends ItemView {
 
   private visible(): TimelineEvent[] {
     if (!this.data) return [];
+    // focus mode: the subject decides — importance and category filters step
+    // aside so the whole thread shows, references and all
+    if (this.focus) {
+      const { kind, name } = this.focus;
+      return this.data.events
+        .filter(e => (e[kind] ?? []).includes(name))
+        .sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+    }
     const q = this.query.toLowerCase();
     return this.data.events.filter(e => {
       if (!this.lanes.has(e.lane)) return false;
@@ -147,11 +172,24 @@ export class TimelineView extends ItemView {
       if (!e.cat.some(c => this.cats.has(c))) return false;
       if (q) {
         const hay = [e.t, e.note, ...(e.people ?? []), ...(e.places ?? []),
-          ...(e.chapters ?? [])].join(" ").toLowerCase();
+          ...(e.things ?? []), ...(e.chapters ?? [])].join(" ").toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     }).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+  }
+
+  /** every subject the dataset knows, with how often it appears */
+  private subjectIndex(kind: SubjectKind): { name: string; n: number }[] {
+    const counts = new Map<string, number>();
+    for (const e of this.data?.events ?? []) {
+      for (const name of e[kind] ?? []) {
+        counts.set(name, (counts.get(name) ?? 0) + 1);
+      }
+    }
+    return Array.from(counts.entries())
+      .map(([name, n]) => ({ name, n }))
+      .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
   }
 
   private render(): void {
@@ -164,6 +202,37 @@ export class TimelineView extends ItemView {
       });
       const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "↻ Check now" });
       retry.onclick = () => void this.reload();
+      return;
+    }
+
+    // ---- focus banner: one subject's thread through time ----------------
+    if (this.focus) {
+      const meta = SUBJECT_META[this.focus.kind];
+      const events = this.visible();
+      const bar = c.createDiv({ cls: "sg-tl-bar" });
+      const banner = bar.createDiv({ cls: "sg-tl-focus" });
+      banner.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
+      const col = banner.createDiv({ cls: "sg-tl-focus-col" });
+      col.createDiv({ cls: "sg-tl-focus-name", text: this.focus.name });
+      col.createDiv({
+        cls: "sg-tl-focus-sub",
+        text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`,
+      });
+      if (this.focus.kind !== "things") {
+        const page = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "↗" });
+        page.setAttr("aria-label", "Open page");
+        const name = this.focus.name;
+        page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+      }
+      const swap = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "🎯" });
+      swap.setAttr("aria-label", "Focus something else");
+      swap.onclick = () => new SubjectPickerModal(this.s, this,
+        (sub) => this.setFocus(sub)).open();
+      const exit = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "✕" });
+      exit.setAttr("aria-label", "Back to everything");
+      exit.onclick = () => this.setFocus(null);
+      this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+      this.renderStream();
       return;
     }
 
@@ -191,6 +260,10 @@ export class TimelineView extends ItemView {
     });
     detail.toggleClass("sg-tl-on", true);
     detail.onclick = () => { this.detail = !this.detail; this.render(); };
+    const focusBtn = row2.createEl("button", { cls: "sg-tl-chip", text: "🎯 Focus…" });
+    focusBtn.toggleClass("sg-tl-on", true);
+    focusBtn.onclick = () => new SubjectPickerModal(this.s, this,
+      (sub) => this.setFocus(sub)).open();
 
     const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
     for (const cat of CATS) {
@@ -304,44 +377,58 @@ export class TimelineView extends ItemView {
       };
     }
 
-    // ---- the threads of time: one luminous line per lane
-    for (const lane of ["ow", "nw", "rs"]) {
-      const chain = events.filter(e => e.lane === lane);
-      if (chain.length < 2) continue;
+    if (this.focus) {
+      // ---- focus mode: ONE bright thread stitches the subject's whole
+      // journey, crossing hemispheres wherever the subject did
       let d = "";
-      for (let i = 0; i < chain.length; i++) {
-        const p = pos.get(chain[i]!.id)!;
+      for (let i = 0; i < events.length; i++) {
+        const p = pos.get(events[i]!.id)!;
         if (i === 0) { d = `M ${p.x} ${p.y}`; continue; }
-        const prev = pos.get(chain[i - 1]!.id)!;
+        const prev = pos.get(events[i - 1]!.id)!;
         const midY = (prev.y + p.y) / 2;
         d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
       }
-      el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane]! });
-    }
+      if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
+    } else {
+      // ---- the threads of time: one luminous line per lane
+      for (const lane of ["ow", "nw", "rs"]) {
+        const chain = events.filter(e => e.lane === lane);
+        if (chain.length < 2) continue;
+        let d = "";
+        for (let i = 0; i < chain.length; i++) {
+          const p = pos.get(chain[i]!.id)!;
+          if (i === 0) { d = `M ${p.x} ${p.y}`; continue; }
+          const prev = pos.get(chain[i - 1]!.id)!;
+          const midY = (prev.y + p.y) / 2;
+          d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
+        }
+        el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane]! });
+      }
 
-    // ---- narrative arcs between hemispheres
-    const visibleIds = new Set(events.map(e => e.id));
-    for (const [a, b] of NARRATIVE_LINKS) {
-      if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
-      const pa = pos.get(a)!, pb = pos.get(b)!;
-      const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
-      el("path", {
-        d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-        class: "sg-tl-arc",
-      });
-    }
-
-    // ---- person spotlight: connect events sharing the searched name
-    const q = this.query.trim().toLowerCase();
-    if (q.length >= 3) {
-      const hits = events.filter(e =>
-        (e.people ?? []).some(p => p.toLowerCase().includes(q)));
-      for (let i = 1; i < hits.length; i++) {
-        const pa = pos.get(hits[i - 1]!.id)!, pb = pos.get(hits[i]!.id)!;
+      // ---- narrative arcs between hemispheres
+      const visibleIds = new Set(events.map(e => e.id));
+      for (const [a, b] of NARRATIVE_LINKS) {
+        if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
+        const pa = pos.get(a)!, pb = pos.get(b)!;
+        const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
         el("path", {
-          d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
-          class: "sg-tl-spot",
+          d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+          class: "sg-tl-arc",
         });
+      }
+
+      // ---- person spotlight: connect events sharing the searched name
+      const q = this.query.trim().toLowerCase();
+      if (q.length >= 3) {
+        const hits = events.filter(e =>
+          (e.people ?? []).some(p => p.toLowerCase().includes(q)));
+        for (let i = 1; i < hits.length; i++) {
+          const pa = pos.get(hits[i - 1]!.id)!, pb = pos.get(hits[i]!.id)!;
+          el("path", {
+            d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+            class: "sg-tl-spot",
+          });
+        }
       }
     }
 
@@ -401,13 +488,22 @@ export class TimelineView extends ItemView {
     card.createDiv({ cls: "sg-tl-detail-title", text: e.t });
     card.createDiv({ cls: "sg-tl-detail-note", text: e.note });
     const links = card.createDiv({ cls: "sg-tl-links" });
-    const link = (label: string, target: string) => {
-      const b = links.createEl("button", { cls: "sg-tl-link", text: label });
-      b.onclick = () => void this.s.app.workspace.openLinkText(target, "");
+    // inside the timeline, people/places/things chips FOCUS that subject —
+    // this view's own currency; chapter chips are the references and read
+    const focusChip = (kind: SubjectKind, name: string) => {
+      const b = links.createEl("button", {
+        cls: "sg-tl-link",
+        text: `${SUBJECT_META[kind].emoji} ${name}`,
+      });
+      b.onclick = () => this.setFocus({ kind, name });
     };
-    for (const p of (e.people ?? []).slice(0, 3)) link(`🧑 ${p}`, p);
-    for (const p of (e.places ?? []).slice(0, 2)) link(`🗺 ${p}`, p);
-    for (const ch of (e.chapters ?? []).slice(0, 3)) link(`📖 ${ch}`, ch);
+    for (const p of (e.people ?? []).slice(0, 3)) focusChip("people", p);
+    for (const p of (e.places ?? []).slice(0, 2)) focusChip("places", p);
+    for (const th of (e.things ?? []).slice(0, 3)) focusChip("things", th);
+    for (const ch of (e.chapters ?? []).slice(0, 3)) {
+      const b = links.createEl("button", { cls: "sg-tl-link sg-tl-link-ref", text: `📖 ${ch}` });
+      b.onclick = () => void this.s.app.workspace.openLinkText(ch, "");
+    }
   }
 
   private scrollToYear(y: number): void {
