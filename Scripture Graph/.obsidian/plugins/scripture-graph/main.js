@@ -6127,12 +6127,16 @@ var init_timelineView = __esm({
       constructor(leaf, s) {
         super(leaf);
         this.s = s;
+        const dev = s.device;
+        if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
       }
       data = null;
       lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
       cats = new Set(CATS.map((c) => c.key));
       detail = false;
       // false = major+notable only
+      depth = 2;
+      // 2 = storylines braid out of their lane
       query = "";
       focus = null;
       pendingYear = null;
@@ -6141,6 +6145,13 @@ var init_timelineView = __esm({
       setFocus(subject) {
         this.focus = subject;
         this.render();
+      }
+      saveDepth() {
+        const s = this.s;
+        if (s.device) {
+          s.device.tlDepth = this.depth;
+          void s.saveDevice?.();
+        }
       }
       getViewType() {
         return TIMELINE_VIEW;
@@ -6260,6 +6271,25 @@ var init_timelineView = __esm({
           b.onclick = () => this.scrollToYear(era.y);
         }
         const row2 = bar.createDiv({ cls: "sg-tl-row" });
+        if (this.data.threads?.length) {
+          const seg = row2.createDiv({ cls: "sg-tl-seg" });
+          seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
+          const segDefs = [
+            [1, "1", "One line per world"],
+            [2, "2", "Split out the storylines"]
+          ];
+          for (const [d, label, hint] of segDefs) {
+            const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
+            b.setAttr("aria-label", hint);
+            b.toggleClass("sg-tl-seg-on", this.depth === d);
+            b.onclick = () => {
+              if (this.depth === d) return;
+              this.depth = d;
+              this.saveDepth();
+              this.render();
+            };
+          }
+        }
         const laneDefs = [
           ["ow", "\u{1F30D} Old World"],
           ["nw", "\u{1F30E} Book of Mormon"],
@@ -6327,7 +6357,23 @@ var init_timelineView = __esm({
       yById = /* @__PURE__ */ new Map();
       yByYear = [];
       // [year, yUnits]
-      /** the constellation: glowing nodes on two threads of time, narrative
+      /** at depth 2 every storyline earns its own column beside its lane —
+       * assigned per lane in dataset order, so new threads slot in on their own */
+      threadX() {
+        const m = /* @__PURE__ */ new Map();
+        const slots = {
+          ow: [160, 105],
+          nw: [845, 915, 775, 950],
+          rs: [590, 640]
+        };
+        const used = { ow: 0, nw: 0, rs: 0 };
+        for (const t of this.data?.threads ?? []) {
+          const lane = slots[t.lane] ?? slots.nw;
+          m.set(t.id, lane[Math.min(used[t.lane]++, lane.length - 1)]);
+        }
+        return m;
+      }
+      /** the constellation: glowing nodes on braided threads of time, narrative
        * links arcing between the hemispheres — the graph view, given order */
       renderStream() {
         const stream = this.streamEl;
@@ -6341,10 +6387,29 @@ var init_timelineView = __esm({
           stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
           return;
         }
+        if (!this.focus) {
+          const legend = stream.createDiv({ cls: "sg-tl-legend" });
+          const legendDefs = [
+            ["ow", "Old World"],
+            ["rs", "Restoration"],
+            ["nw", "Book of Mormon"]
+          ];
+          for (const [key, label] of legendDefs) {
+            if (!this.lanes.has(key)) continue;
+            const it = legend.createSpan({ cls: "sg-tl-legend-item", text: label });
+            it.style.setProperty("--sg-lane", LANE_COLOR[key]);
+          }
+        }
+        const tx = !this.focus && this.depth === 2 ? this.threadX() : /* @__PURE__ */ new Map();
+        const threadById = new Map((this.data?.threads ?? []).map((t) => [t.id, t]));
+        const xFor = (e) => (e.thread ? tx.get(e.thread) : void 0) ?? LANE_X[e.lane] ?? 500;
+        const onThread = (e) => !!e.thread && tx.has(e.thread);
         const ROW = 92, CENTURY_GAP = 74, TOP = 60, BOTTOM = 140;
         let y = TOP;
         let lastCentury = null;
         const centuries = [];
+        const eraBands = [];
+        let lastEra = null;
         const pos = /* @__PURE__ */ new Map();
         for (const e of events) {
           const century = e.y0 < 0 ? -Math.ceil(-e.y0 / 100) * 100 : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
@@ -6355,7 +6420,12 @@ var init_timelineView = __esm({
             centuries.push({ y: y - 34, label: page.replace("-", "\u2013"), page, year: century });
             this.yByYear.push([century, y - 34]);
           }
-          pos.set(e.id, { x: LANE_X[e.lane] ?? 500, y, e });
+          const era = [...ERAS].reverse().find((er) => er.y <= e.y0);
+          if (era && era.label !== lastEra) {
+            lastEra = era.label;
+            eraBands.push({ label: era.label, yTop: y - CENTURY_GAP + 8 });
+          }
+          pos.set(e.id, { x: xFor(e), y, e });
           this.yById.set(e.id, y);
           y += ROW;
         }
@@ -6377,6 +6447,26 @@ var init_timelineView = __esm({
         const merge = el("feMerge", {}, filt);
         el("feMergeNode", { in: "b" }, merge);
         el("feMergeNode", { in: "SourceGraphic" }, merge);
+        for (let i = 0; i < eraBands.length; i++) {
+          const band = eraBands[i];
+          const yEnd = eraBands[i + 1]?.yTop ?? H;
+          if (i % 2 === 0) {
+            el("rect", {
+              x: "0",
+              y: String(band.yTop),
+              width: String(W),
+              height: String(yEnd - band.yTop),
+              class: "sg-tl-band"
+            });
+          }
+          const wm = el("text", {
+            x: "500",
+            y: String(band.yTop + 96),
+            "text-anchor": "middle",
+            class: "sg-tl-erawash"
+          });
+          wm.textContent = band.label.toUpperCase();
+        }
         for (const c of centuries) {
           el("line", {
             x1: "70",
@@ -6409,21 +6499,61 @@ var init_timelineView = __esm({
           }
           if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
         } else {
-          for (const lane of ["ow", "nw", "rs"]) {
-            const chain = events.filter((e) => e.lane === lane);
-            if (chain.length < 2) continue;
+          const chainPath = (chain) => {
             let d = "";
             for (let i = 0; i < chain.length; i++) {
-              const p = pos.get(chain[i].id);
+              const p = chain[i];
               if (i === 0) {
                 d = `M ${p.x} ${p.y}`;
                 continue;
               }
-              const prev = pos.get(chain[i - 1].id);
+              const prev = chain[i - 1];
               const midY = (prev.y + p.y) / 2;
               d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
             }
-            el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
+            return d;
+          };
+          for (const lane of ["ow", "nw", "rs"]) {
+            const chain = events.filter((e) => e.lane === lane && !onThread(e)).map((e) => pos.get(e.id));
+            if (chain.length < 2) continue;
+            el("path", { d: chainPath(chain), class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
+          }
+          if (tx.size) {
+            for (const th of this.data?.threads ?? []) {
+              const members = events.filter((e) => e.thread === th.id);
+              if (!members.length) continue;
+              const chain = members.map((e) => pos.get(e.id));
+              if (chain.length > 1) {
+                el("path", { d: chainPath(chain), class: "sg-tl-thread2", stroke: th.color });
+              }
+              const first = chain[0], last = chain[chain.length - 1];
+              const from = (th.branch ? pos.get(th.branch) : void 0) ?? { x: LANE_X[th.lane] ?? 500, y: first.y - 64 };
+              const midA = (from.y + first.y) / 2;
+              el("path", {
+                d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
+                class: "sg-tl-branch",
+                stroke: th.color
+              });
+              if (th.merges) {
+                const back = events.find((e) => e.lane === th.lane && !onThread(e) && (pos.get(e.id)?.y ?? 0) > last.y);
+                const to = back ? pos.get(back.id) : { x: LANE_X[th.lane] ?? 500, y: last.y + 64 };
+                const midB = (last.y + to.y) / 2;
+                el("path", {
+                  d: `M ${last.x} ${last.y} C ${last.x} ${midB}, ${to.x} ${midB}, ${to.x} ${to.y}`,
+                  class: "sg-tl-branch",
+                  stroke: th.color
+                });
+              }
+              const capRight = first.x >= 500;
+              const cap = el("text", {
+                x: String(first.x + (capRight ? -20 : 20)),
+                y: String(first.y - 22),
+                "text-anchor": capRight ? "end" : "start",
+                class: "sg-tl-tcap",
+                fill: th.color
+              });
+              cap.textContent = `\u21B3 ${th.label}`;
+            }
           }
           const visibleIds = new Set(events.map((e) => e.id));
           for (const [a, b] of NARRATIVE_LINKS) {
@@ -6450,26 +6580,44 @@ var init_timelineView = __esm({
         for (const e of events) {
           const p = pos.get(e.id);
           const r = e.imp === 1 ? 15 : e.imp === 2 ? 10 : 7;
+          const braided = onThread(e);
+          const color = (braided && e.thread ? threadById.get(e.thread)?.color : void 0) ?? LANE_COLOR[e.lane];
           const g = el("g", { class: "sg-tl-node", "data-id": e.id });
           el("circle", {
             cx: String(p.x),
             cy: String(p.y),
+            r: String(r + 9),
+            fill: color,
+            class: "sg-tl-halo"
+          }, g);
+          el("circle", {
+            cx: String(p.x),
+            cy: String(p.y),
             r: String(r),
-            fill: LANE_COLOR[e.lane],
+            fill: color,
             filter: "url(#sgtlglow)",
             class: "sg-tl-dot"
           }, g);
-          const label = e.t.length > 30 ? `${e.t.slice(0, 28)}\u2026` : e.t;
+          el("circle", {
+            cx: String(p.x - r * 0.32),
+            cy: String(p.y - r * 0.32),
+            r: String(Math.max(1.6, r * 0.3)),
+            class: "sg-tl-glint"
+          }, g);
+          const max = braided ? 22 : 30;
+          const label = e.t.length > max ? `${e.t.slice(0, max - 2)}\u2026` : e.t;
+          const lx = braided ? Math.min(Math.max(p.x, 110), 890) : Math.min(Math.max(p.x, 150), 850);
+          const cls = braided ? "sg-tl-label sg-tl-label-sm" : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label";
           const t1 = el("text", {
-            x: String(p.x),
-            y: String(p.y + r + 26),
+            x: String(lx),
+            y: String(p.y + r + (braided ? 22 : 26)),
             "text-anchor": "middle",
-            class: e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label"
+            class: cls
           }, g);
           t1.textContent = label;
           const t2 = el("text", {
-            x: String(p.x),
-            y: String(p.y + r + 50),
+            x: String(lx),
+            y: String(p.y + r + (braided ? 42 : 50)),
             "text-anchor": "middle",
             class: "sg-tl-sublabel"
           }, g);
@@ -8167,7 +8315,8 @@ var DEFAULT_DEVICE = {
   lastChapter: null,
   recentChapters: [],
   showAiLibrary: false,
-  scene: "none"
+  scene: "none",
+  tlDepth: 2
 };
 var SGState = class {
   constructor(app, plugin) {

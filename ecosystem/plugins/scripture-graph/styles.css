@@ -1017,58 +1017,132 @@ body.sg-scene-on .sg-chap-conn {
 /* ---------- 🕰 the timeline: scripture history on one spine -------------- */
 .sg-tl { display: flex; flex-direction: column; height: 100%; padding: 0; }
 .sg-tl-bar {
-  flex: 0 0 auto; padding: 8px 10px 6px;
-  border-bottom: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
-  display: flex; flex-direction: column; gap: 6px;
-  background: var(--background-primary);
+  flex: 0 0 auto; padding: 7px 10px 7px;
+  border-bottom: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
+  display: flex; flex-direction: column; gap: 5px;
+  background: linear-gradient(180deg,
+    var(--background-primary),
+    color-mix(in srgb, var(--background-primary) 92%, #6b7dc4 8%));
 }
 .sg-tl-eras, .sg-tl-row {
-  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  display: flex; gap: 5px; overflow-x: auto; scrollbar-width: none;
   -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 94%, transparent 100%);
   mask-image: linear-gradient(90deg, #000 0%, #000 94%, transparent 100%);
   padding: 1px;
 }
 .sg-tl-era, .sg-tl-chip {
   flex: 0 0 auto; white-space: nowrap;
-  min-height: 32px; padding: 3px 11px; border-radius: 16px;
-  font-size: 0.82em; font-weight: 600;
-  background: var(--background-secondary); box-shadow: none;
-  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
+  min-height: 30px; padding: 2px 10px; border-radius: 15px;
+  font-size: 0.8em; font-weight: 600;
+  background: color-mix(in srgb, var(--background-secondary) 70%, transparent);
+  box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent);
   opacity: 0.55;
 }
-.sg-tl-era { opacity: 1; }
+.sg-tl-era {
+  opacity: 0.85; background: transparent; border-color: transparent;
+  color: var(--text-muted); letter-spacing: 0.02em;
+}
+.sg-tl-era:hover { opacity: 1; color: var(--text-normal); }
 .sg-tl-chip.sg-tl-on { opacity: 1; border-color: color-mix(in srgb, var(--interactive-accent) 60%, transparent); }
+/* depth, the graph-view way: a labelled 1|2 segment */
+.sg-tl-seg {
+  flex: 0 0 auto; display: flex; align-items: center; gap: 2px;
+  padding: 2px 4px 2px 10px; border-radius: 15px;
+  background: color-mix(in srgb, var(--background-secondary) 70%, transparent);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent);
+}
+.sg-tl-seg-cap {
+  font-size: 0.74em; font-weight: 700; color: var(--text-faint);
+  letter-spacing: 0.05em; text-transform: uppercase; margin-right: 4px;
+}
+.sg-tl-seg-btn {
+  min-height: 24px; min-width: 30px; padding: 0 8px; border-radius: 12px;
+  font-size: 0.8em; font-weight: 700; box-shadow: none;
+  background: transparent; border: none; color: var(--text-faint);
+}
+.sg-tl-seg-btn.sg-tl-seg-on {
+  background: color-mix(in srgb, var(--interactive-accent) 28%, transparent);
+  color: var(--text-normal);
+}
 .sg-tl-search {
   width: 100%; min-height: 36px; border-radius: 10px; padding: 0 12px;
-  background: var(--background-secondary);
-  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+  background: color-mix(in srgb, var(--background-secondary) 70%, transparent);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 50%, transparent);
   font-size: 0.92em;
+}
+/* sticky legend: the worlds stay named while the ages scroll */
+.sg-tl-legend {
+  position: sticky; top: 8px; z-index: 4;
+  display: flex; justify-content: center; gap: 6px;
+  width: fit-content; margin: 0 auto; padding: 4px 12px;
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--background-primary) 62%, transparent);
+  -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 40%, transparent);
+  pointer-events: none;
+}
+.sg-tl-legend-item {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 0.72em; font-weight: 700; color: var(--text-muted);
+  letter-spacing: 0.03em; white-space: nowrap; padding: 0 4px;
+}
+.sg-tl-legend-item::before {
+  content: ""; width: 8px; height: 8px; border-radius: 50%;
+  background: var(--sg-lane, var(--text-faint));
+  box-shadow: 0 0 8px var(--sg-lane, transparent);
 }
 .sg-tl-stream {
   flex: 1 1 auto; overflow-y: auto; overscroll-behavior: contain;
   position: relative;
-  /* deep space, faintly starred — the graph view's home turf */
+  /* deep space, faintly starred, a nebula breathing at the top —
+   * the graph view's home turf */
   background:
+    radial-gradient(60% 420px at 50% 0%, rgba(105, 125, 200, 0.10), transparent 75%),
     radial-gradient(1px 1px at 18% 12%, rgba(255,255,255,0.16), transparent 100%),
     radial-gradient(1px 1px at 72% 28%, rgba(255,255,255,0.12), transparent 100%),
     radial-gradient(1.5px 1.5px at 41% 57%, rgba(255,255,255,0.10), transparent 100%),
     radial-gradient(1px 1px at 88% 74%, rgba(255,255,255,0.14), transparent 100%),
     radial-gradient(1px 1px at 9% 86%, rgba(255,255,255,0.10), transparent 100%),
     var(--background-primary);
-  background-size: 620px 620px, 540px 540px, 700px 700px, 460px 460px, 580px 580px, auto;
+  background-size: 100% 900px, 620px 620px, 540px 540px, 700px 700px, 460px 460px, 580px 580px, auto;
+  background-repeat: no-repeat, repeat, repeat, repeat, repeat, repeat, repeat;
 }
 .sg-tl-svg { display: block; width: 100%; height: auto; }
+/* era washes: alternating tint + a huge quiet name behind the stars */
+.sg-tl-band { fill: color-mix(in srgb, var(--text-normal) 4%, transparent); }
+.sg-tl-erawash {
+  fill: var(--text-normal); opacity: 0.05;
+  font-size: 72px; font-weight: 900; letter-spacing: 0.14em;
+  pointer-events: none;
+}
 .sg-tl-cline {
-  stroke: color-mix(in srgb, var(--text-faint) 30%, transparent);
-  stroke-width: 1; stroke-dasharray: 3 7;
+  stroke: color-mix(in srgb, var(--text-faint) 22%, transparent);
+  stroke-width: 1; stroke-dasharray: 2 8;
 }
 .sg-tl-clabel {
-  fill: var(--text-faint); font-size: 24px; font-weight: 700;
-  letter-spacing: 0.06em; cursor: pointer;
+  fill: color-mix(in srgb, var(--text-faint) 80%, transparent);
+  font-size: 20px; font-weight: 700;
+  letter-spacing: 0.12em; cursor: pointer;
 }
 .sg-tl-thread {
-  fill: none; stroke-width: 2.5; opacity: 0.32;
+  fill: none; stroke-width: 3; opacity: 0.36;
   stroke-linecap: round;
+}
+/* a storyline braided out beside its lane */
+.sg-tl-thread2 {
+  fill: none; stroke-width: 2.2; opacity: 0.6;
+  stroke-linecap: round;
+}
+/* where a storyline splits off — and where the peoples rejoin */
+.sg-tl-branch {
+  fill: none; stroke-width: 1.8; opacity: 0.5;
+  stroke-dasharray: 2 6; stroke-linecap: round;
+}
+.sg-tl-tcap {
+  font-size: 19px; font-weight: 800; letter-spacing: 0.03em;
+  paint-order: stroke; stroke: var(--background-primary); stroke-width: 5px;
+  stroke-linejoin: round;
 }
 .sg-tl-arc {
   fill: none; stroke: rgba(200, 210, 235, 0.30);
@@ -1112,15 +1186,24 @@ body.sg-scene-on .sg-chap-conn {
   background: var(--background-primary);
 }
 .sg-tl-node { cursor: pointer; }
+.sg-tl-halo { opacity: 0.13; }
+.sg-tl-node:hover .sg-tl-halo { opacity: 0.24; }
+.sg-tl-sel .sg-tl-halo { animation: sg-tl-pulse 1.6s ease-in-out infinite; }
+@keyframes sg-tl-pulse {
+  0%, 100% { opacity: 0.14; }
+  50% { opacity: 0.34; }
+}
 .sg-tl-dot { opacity: 0.92; }
 .sg-tl-node:hover .sg-tl-dot, .sg-tl-sel .sg-tl-dot { opacity: 1; }
 .sg-tl-sel .sg-tl-dot { stroke: var(--text-normal); stroke-width: 3; }
+.sg-tl-glint { fill: rgba(255, 255, 255, 0.65); pointer-events: none; }
 .sg-tl-label {
   fill: var(--text-muted); font-size: 26px; font-weight: 600;
   paint-order: stroke; stroke: var(--background-primary); stroke-width: 6px;
   stroke-linejoin: round;
 }
 .sg-tl-label-big { fill: var(--text-normal); font-size: 30px; font-weight: 700; }
+.sg-tl-label-sm { font-size: 20px; }
 .sg-tl-sublabel {
   fill: var(--text-faint); font-size: 21px;
   paint-order: stroke; stroke: var(--background-primary); stroke-width: 5px;

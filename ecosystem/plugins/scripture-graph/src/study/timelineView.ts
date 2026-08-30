@@ -272,6 +272,27 @@ export class TimelineView extends ItemView {
       b.onclick = () => this.scrollToYear(era.y);
     }
     const row2 = bar.createDiv({ cls: "sg-tl-row" });
+    // depth first — the graph-view way: 1 = one river per world, 2 = the
+    // river braids: Zeniff, Alma, and Zarahemla side by side through Mosiah
+    if (this.data.threads?.length) {
+      const seg = row2.createDiv({ cls: "sg-tl-seg" });
+      seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
+      const segDefs: [1 | 2, string, string][] = [
+        [1, "1", "One line per world"],
+        [2, "2", "Split out the storylines"],
+      ];
+      for (const [d, label, hint] of segDefs) {
+        const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
+        b.setAttr("aria-label", hint);
+        b.toggleClass("sg-tl-seg-on", this.depth === d);
+        b.onclick = () => {
+          if (this.depth === d) return;
+          this.depth = d;
+          this.saveDepth();
+          this.render();
+        };
+      }
+    }
     const laneDefs: [string, string][] = [["ow", "🌍 Old World"],
       ["nw", "🌎 Book of Mormon"], ["rs", "🌅 Restoration"]];
     for (const [key, label] of laneDefs) {
@@ -292,27 +313,6 @@ export class TimelineView extends ItemView {
     focusBtn.toggleClass("sg-tl-on", true);
     focusBtn.onclick = () => new SubjectPickerModal(this.s, this,
       (sub) => this.setFocus(sub)).open();
-    // depth, the graph-view way: 1 = one river per world, 2 = the river
-    // braids — Zeniff, Alma, and Zarahemla run side by side through Mosiah
-    if (this.data.threads?.length) {
-      const seg = row2.createDiv({ cls: "sg-tl-seg" });
-      seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
-      const segDefs: [1 | 2, string, string][] = [
-        [1, "1", "One line per world"],
-        [2, "2", "Split out the storylines"],
-      ];
-      for (const [d, label, hint] of segDefs) {
-        const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
-        b.setAttr("aria-label", hint);
-        b.toggleClass("sg-tl-seg-on", this.depth === d);
-        b.onclick = () => {
-          if (this.depth === d) return;
-          this.depth = d;
-          this.saveDepth();
-          this.render();
-        };
-      }
-    }
 
     const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
     for (const cat of CATS) {
