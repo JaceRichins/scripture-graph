@@ -11,6 +11,7 @@ resumes exactly where it stopped.
 from __future__ import annotations
 
 from scripturegraph import queue as q
+from scripturegraph.agents.pipeline import ProviderUnavailable
 from scripturegraph.context import Ctx
 from scripturegraph.util import now_iso
 
@@ -201,6 +202,18 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
                 stats["done"] += 1
                 if spec["mode"] == "ai":
                     stats["ai_done"] += 1
+            except ProviderUnavailable as e:
+                # the provider is down or rate-limited: give the item back
+                # untouched and STOP. Grinding the rest of the queue against a
+                # limited provider only converts pending work into dead work.
+                ctx.db().execute(
+                    "UPDATE work_queue SET status='pending', attempts=attempts-1 WHERE id=?",
+                    (item["id"],))
+                ctx.db().commit()
+                ctx.log.warn("queue.provider_unavailable", pass_name=name,
+                             target=item["target"], error=str(e)[:200])
+                stats["provider_unavailable"] = stats.get("provider_unavailable", 0) + 1
+                return stats
             except Exception as e:  # noqa: BLE001 — one bad item must not kill the run
                 ctx.log.error("queue.item_failed", pass_name=name, target=item["target"],
                               error=f"{type(e).__name__}: {e}")

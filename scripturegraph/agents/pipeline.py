@@ -17,6 +17,7 @@ from __future__ import annotations
 import concurrent.futures
 import hashlib
 import json
+import time
 from pathlib import Path
 
 from scripturegraph.agents import schemas
@@ -40,7 +41,14 @@ LINK_STATUS = {"ACCEPT": "accepted", "ACCEPT_LOW_VISIBILITY": "low_visibility",
 
 
 class JobQuarantined(Exception):
-    pass
+    """The model produced content we will not accept. Terminal for this job."""
+
+
+class ProviderUnavailable(Exception):
+    """The provider itself could not be reached (rate limit, CLI/transport
+    error, timeout) — NOT a content judgement. The job is untouched and must
+    be retried later; quarantining it would throw away good work and hide a
+    provider outage as if it were bad scholarship."""
 
 
 # ------------------------------------------------------------------ prompts
@@ -182,21 +190,42 @@ def context_markdown(c: dict) -> str:
 def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
                     schema_name: str, timeout: int, ws: Path,
                     context: dict | None, normalize=None) -> tuple[dict | None, dict]:
-    """Run provider, parse+validate JSON, retry once on failure.
-    Returns (obj | None, stats). `normalize` (optional) deterministically
-    repairs near-miss shapes BEFORE validation — cheaper than a model retry."""
+    """Run provider, parse+validate JSON. Returns (obj | None, stats).
+
+    Two failure kinds are handled differently, because they mean different
+    things. A TRANSPORT failure (rate limit, CLI error, timeout) says nothing
+    about the work — we wait and try again, with growing backoff, because
+    burning through it costs real research. A SCHEMA failure is the model
+    getting the shape wrong — we retry immediately with the error quoted back.
+    `normalize` (optional) deterministically repairs near-miss shapes BEFORE
+    validation — cheaper than a model retry."""
     stats = {"provider": provider.name, "role": role, "cost_usd": 0.0, "calls": 0}
+    max_schema = max(1, int(ctx.c("pipeline.schema_retries", 2)))
+    max_transport = max(1, int(ctx.c("pipeline.transport_retries", 4)))
+    backoff = float(ctx.c("pipeline.transport_backoff_s", 6))
     attempt_prompt = prompt
     last_err = ""
-    for attempt in (1, 2):
+    schema_tries = 0
+    transport_tries = 0
+    attempt = 0
+    while True:
+        attempt += 1
         r = provider.run(attempt_prompt, role=role, timeout=timeout, workspace=ws,
                          context=context)
         stats["calls"] += 1
         stats["cost_usd"] += r.cost_usd or 0.0
         if not r.ok:
+            transport_tries += 1
             last_err = r.error
             ctx.log.warn("agent.call_failed", provider=provider.name, role=role,
-                         attempt=attempt, error=r.error[:200])
+                         attempt=attempt, transport_try=transport_tries,
+                         error=r.error[:200])
+            if transport_tries >= max_transport:
+                stats["error"] = last_err
+                stats["transport_failed"] = True
+                return None, stats
+            # 6s, 12s, 24s … a rate-limit window is usually shorter than this
+            time.sleep(backoff * (2 ** (transport_tries - 1)))
             continue
         (ws / f"{role}_{provider.name}_raw_{attempt}.txt").write_text(
             r.text, encoding="utf-8", errors="replace")
@@ -207,13 +236,15 @@ def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
             schemas.validate(obj, schema_name)
             return obj, stats
         except schemas.SchemaError as e:
+            schema_tries += 1
             last_err = str(e)
             ctx.log.warn("agent.schema_invalid", provider=provider.name, role=role,
-                         attempt=attempt, error=str(e)[:300])
+                         attempt=attempt, schema_try=schema_tries, error=str(e)[:300])
+            if schema_tries >= max_schema:
+                stats["error"] = last_err
+                return None, stats
             attempt_prompt = (prompt + "\n\nYOUR PREVIOUS OUTPUT FAILED VALIDATION: "
                               + str(e)[:800] + "\nOutput ONLY the corrected JSON object.")
-    stats["error"] = last_err
-    return None, stats
 
 
 # --------------------------------------------------- deterministic checking
@@ -356,6 +387,7 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
     set_status("research")
     labels = ["a", "b"]
     proposals: dict[str, dict | None] = {}
+    transport_down = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
         futs = {}
         for i, (prov, emphasis) in enumerate(zip(researchers, emphases)):
@@ -368,11 +400,18 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
         for fut, label in futs.items():
             obj, stats = fut.result()
             track(stats)
+            if stats.get("transport_failed"):
+                transport_down += 1
             proposals[label] = obj
             if obj is not None:
                 json_write(ws / label / "proposal.json", obj)
 
     if proposals.get("a") is None and proposals.get("b") is None:
+        # the provider being unreachable is not a verdict on the scholarship —
+        # leave the job clean and let it be retried when the provider recovers
+        if transport_down:
+            set_status("provider_unavailable", {"reason": "provider unreachable"})
+            raise ProviderUnavailable(f"{job_id}: provider unreachable during research")
         set_status("quarantined", {"reason": "no researcher produced valid output"})
         _quarantine(ctx, ws, job_id)
         raise JobQuarantined(f"{job_id}: no valid researcher output")
