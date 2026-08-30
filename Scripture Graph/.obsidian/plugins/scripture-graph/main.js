@@ -6121,6 +6121,7 @@ var init_timelineView = __esm({
     NARRATIVE_LINKS = [
       ["babel", "jaredite-voyage"],
       ["jerusalem-falls", "lehi-departs"],
+      ["jaredite-end", "coriantumr-zarahemla"],
       ["isaiah", "brass-plates"],
       ["resurrection", "christ-bountiful"],
       ["samuel-lamanite", "christ-birth"],

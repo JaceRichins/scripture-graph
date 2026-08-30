@@ -36,6 +36,9 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **586 BC–580 BC** — Mulek's people escape fallen Jerusalem · [[Omni 1]] · [[Helaman 8]] · [[600-501 BC]] *(Book of Mormon internal dating)*
+- **575 BC** — The last Jaredite found by Mulek's people · [[Omni 1]] · [[Ether 15]] · [[600-501 BC]] *(approximate)*
+- **450 BC–250 BC** — Generations at Zarahemla, without records · [[Omni 1]] · [[Mosiah 25]] · [[500-401 BC]] *(Book of Mormon internal dating)*
 - **200 BC** — Mosiah discovers Zarahemla · [[Omni 1]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **124 BC** — King Benjamin's address from the tower · [[Mosiah 2]] · [[Mosiah 3]] · [[Mosiah 4]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **121 BC** — Limhi's people escape to Zarahemla · [[Mosiah 22]] · [[200-101 BC]] *(Book of Mormon internal dating)*
@@ -45,9 +48,6 @@ _Not yet developed._
 - **74 BC** — Korihor demands a sign · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **74 BC–60 BC** — The great Nephite-Lamanite wars · [[Alma 43]] · [[Alma 46]] · [[Alma 48]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **6 BC** — Samuel the Lamanite on the wall · [[Helaman 13]] · [[Helaman 14]] · [[Helaman 16]] · [[100-1 BC]] *(Book of Mormon internal dating)*
-- **4 BC** — The night without darkness · [[3 Nephi 1]] · [[100-1 BC]] *(Book of Mormon internal dating)*
-- **AD 34** — Three days of darkness in the New World · [[3 Nephi 8]] · [[3 Nephi 9]] · [[AD 1-100]] *(Book of Mormon internal dating)*
-- **AD 36–AD 200** — Two centuries of Zion among the Nephites · [[4 Nephi 1]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **82 BC** — Alma and Amulek preach at Ammonihah · [[Alma 9]] · [[100-1 BC]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

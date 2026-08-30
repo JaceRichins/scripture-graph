@@ -104,6 +104,7 @@ const DATING_SHORT: Record<string, string> = {
 const NARRATIVE_LINKS: [string, string][] = [
   ["babel", "jaredite-voyage"],
   ["jerusalem-falls", "lehi-departs"],
+  ["jaredite-end", "coriantumr-zarahemla"],
   ["isaiah", "brass-plates"],
   ["resurrection", "christ-bountiful"],
   ["samuel-lamanite", "christ-birth"],

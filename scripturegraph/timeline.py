@@ -46,6 +46,10 @@ THREADS: list[dict] = [
      "color": "#7fd9ad", "branch": "mosiah-zarahemla", "merges": True},
     {"id": "nw-alma", "lane": "nw", "label": "Alma's people",
      "color": "#2ea06b", "branch": "abinadi", "merges": True},
+    # the Mulekites branch off an OLD WORLD moment — the fall of Jerusalem —
+    # and their dashed split crosses the hemispheres, like the story did
+    {"id": "nw-mulek", "lane": "nw", "label": "The Mulekites",
+     "color": "#4fc4a4", "branch": "jerusalem-falls", "merges": True},
 ]
 
 EVENTS: list[dict] = [
@@ -237,6 +241,24 @@ EVENTS: list[dict] = [
       people=["Nebuchadnezzar", "Zedekiah", "Jeremiah"], places=["Jerusalem", "Babylon"],
       chapters=["2 Kings 25", "Lamentations 1"],
       note="exactly as Lehi and Jeremiah warned"),
+    E(id="mulek-voyage", t="Mulek's people escape fallen Jerusalem",
+      y0=-586, y1=-580, lane="nw", thread="nw-mulek", imp=2,
+      cat=["journeys", "turning"], dating="internal",
+      people=["Mulek", "Zedekiah"], places=["Jerusalem", "Zarahemla"],
+      chapters=["Omni 1", "Helaman 8"],
+      note="a son of Zedekiah slips the sword of Babylon and sails"),
+    E(id="coriantumr-zarahemla", t="The last Jaredite found by Mulek's people",
+      y0=-575, y1=-575, lane="nw", thread="nw-mulek", imp=3,
+      cat=["turning"], dating="approximate",
+      people=["Coriantumr"], places=["Zarahemla"],
+      chapters=["Omni 1", "Ether 15"],
+      note="Coriantumr dwells nine moons among them — two vanished worlds touch"),
+    E(id="zarahemla-people", t="Generations at Zarahemla, without records",
+      y0=-450, y1=-250, lane="nw", thread="nw-mulek", imp=2,
+      cat=["rulers"], dating="internal",
+      people=["Zarahemla"], places=["Zarahemla"],
+      chapters=["Omni 1", "Mosiah 25"],
+      note="wars, a corrupted tongue, and no book to remember by"),
     E(id="lehi-ocean", t="Lehi's family crosses the ocean", y0=-589, y1=-589,
       lane="nw", imp=1, cat=["journeys"], dating="traditional",
       people=["Nephi", "Lehi", "Laman"], places=["Bountiful (Old World)", "Irreantum"],

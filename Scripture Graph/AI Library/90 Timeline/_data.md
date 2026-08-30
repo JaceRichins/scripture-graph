@@ -1040,6 +1040,81 @@ timeline module, not this file._
    "note": "exactly as Lehi and Jeremiah warned"
   },
   {
+   "id": "mulek-voyage",
+   "t": "Mulek's people escape fallen Jerusalem",
+   "y0": -586,
+   "y1": -580,
+   "lane": "nw",
+   "thread": "nw-mulek",
+   "imp": 2,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "internal",
+   "people": [
+    "Mulek",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Zarahemla"
+   ],
+   "chapters": [
+    "Omni 1",
+    "Helaman 8"
+   ],
+   "note": "a son of Zedekiah slips the sword of Babylon and sails"
+  },
+  {
+   "id": "coriantumr-zarahemla",
+   "t": "The last Jaredite found by Mulek's people",
+   "y0": -575,
+   "y1": -575,
+   "lane": "nw",
+   "thread": "nw-mulek",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "people": [
+    "Coriantumr"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "chapters": [
+    "Omni 1",
+    "Ether 15"
+   ],
+   "note": "Coriantumr dwells nine moons among them — two vanished worlds touch"
+  },
+  {
+   "id": "zarahemla-people",
+   "t": "Generations at Zarahemla, without records",
+   "y0": -450,
+   "y1": -250,
+   "lane": "nw",
+   "thread": "nw-mulek",
+   "imp": 2,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "internal",
+   "people": [
+    "Zarahemla"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "chapters": [
+    "Omni 1",
+    "Mosiah 25"
+   ],
+   "note": "wars, a corrupted tongue, and no book to remember by"
+  },
+  {
    "id": "lehi-ocean",
    "t": "Lehi's family crosses the ocean",
    "y0": -589,
@@ -3110,6 +3185,34 @@ timeline module, not this file._
    "things": [
     "Church of God"
    ]
+  },
+  {
+   "id": "r-alma-9-8a535925",
+   "t": "Alma and Amulek preach at Ammonihah",
+   "y0": -82,
+   "y1": -82,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the preaching episode to about 82 B.C.",
+   "chapters": [
+    "Alma 9"
+   ],
+   "people": [
+    "Alma",
+    "Amulek"
+   ],
+   "places": [
+    "Ammonihah"
+   ],
+   "things": [
+    "call to repentance"
+   ]
   }
  ],
  "book_years": {
@@ -3233,6 +3336,14 @@ timeline module, not this file._
    "label": "Alma's people",
    "color": "#2ea06b",
    "branch": "abinadi",
+   "merges": true
+  },
+  {
+   "id": "nw-mulek",
+   "lane": "nw",
+   "label": "The Mulekites",
+   "color": "#4fc4a4",
+   "branch": "jerusalem-falls",
    "merges": true
   }
  ]

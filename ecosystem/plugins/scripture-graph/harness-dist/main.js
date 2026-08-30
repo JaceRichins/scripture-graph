@@ -7601,6 +7601,7 @@ ${body}
   var NARRATIVE_LINKS = [
     ["babel", "jaredite-voyage"],
     ["jerusalem-falls", "lehi-departs"],
+    ["jaredite-end", "coriantumr-zarahemla"],
     ["isaiah", "brass-plates"],
     ["resurrection", "christ-bountiful"],
     ["samuel-lamanite", "christ-birth"],
@@ -9155,7 +9156,8 @@ ${body}
         { id: "ow-israel", lane: "ow", label: "Northern Kingdom", color: "#e7c06a", branch: "kingdom-divides", merges: false },
         { id: "nw-jaredite", lane: "nw", label: "The Jaredites", color: "#9adbc0", branch: null, merges: false },
         { id: "nw-zeniff", lane: "nw", label: "Zeniff's colony", color: "#7fd9ad", branch: "mosiah-zarahemla", merges: true },
-        { id: "nw-alma", lane: "nw", label: "Alma's people", color: "#2ea06b", branch: "abinadi", merges: true }
+        { id: "nw-alma", lane: "nw", label: "Alma's people", color: "#2ea06b", branch: "abinadi", merges: true },
+        { id: "nw-mulek", lane: "nw", label: "The Mulekites", color: "#4fc4a4", branch: "jerusalem-falls", merges: true }
       ],
       events: [
         { id: "jaredite-voyage", t: "The Jaredites cross the sea", y0: -2200, y1: -2200, lane: "nw", thread: "nw-jaredite", imp: 2, cat: ["journeys"], dating: "approximate", people: ["Brother of Jared"], chapters: ["Ether 6"], note: "barges lit by touched stones" },
@@ -9167,6 +9169,9 @@ ${body}
         { id: "lehi-departs", t: "Lehi's family leaves Jerusalem", y0: -600, y1: -600, lane: "nw", imp: 1, cat: ["journeys", "turning"], dating: "traditional", people: ["Lehi", "Nephi"], places: ["Jerusalem"], chapters: ["1 Nephi 2"], note: "while Jeremiah preaches, a family walks into the desert" },
         { id: "jerusalem-falls", t: "Babylon destroys Jerusalem", y0: -586, y1: -586, lane: "ow", imp: 1, cat: ["wars", "turning"], dating: "historical", places: ["Jerusalem"], chapters: ["2 Kings 25"], note: "exactly as Lehi and Jeremiah warned" },
         { id: "jaredite-end", t: "The Jaredites destroy themselves", y0: -590, y1: -580, lane: "nw", thread: "nw-jaredite", imp: 2, cat: ["wars", "turning"], dating: "approximate", people: ["Coriantumr", "Ether"], chapters: ["Ether 15"], note: "two nations end in the same decade" },
+        { id: "mulek-voyage", t: "Mulek's people escape fallen Jerusalem", y0: -586, y1: -580, lane: "nw", thread: "nw-mulek", imp: 2, cat: ["journeys", "turning"], dating: "internal", people: ["Mulek", "Zedekiah"], places: ["Jerusalem", "Zarahemla"], chapters: ["Omni 1", "Helaman 8"], note: "a son of Zedekiah slips the sword of Babylon" },
+        { id: "coriantumr-zarahemla", t: "The last Jaredite found by Mulek's people", y0: -575, y1: -575, lane: "nw", thread: "nw-mulek", imp: 3, cat: ["turning"], dating: "approximate", people: ["Coriantumr"], places: ["Zarahemla"], chapters: ["Omni 1"], note: "two vanished worlds touch" },
+        { id: "zarahemla-people", t: "Generations at Zarahemla, without records", y0: -450, y1: -250, lane: "nw", thread: "nw-mulek", imp: 2, cat: ["rulers"], dating: "internal", people: ["Zarahemla"], places: ["Zarahemla"], chapters: ["Omni 1"], note: "no book to remember by" },
         { id: "mosiah-zarahemla", t: "Mosiah finds Zarahemla", y0: -200, y1: -200, lane: "nw", imp: 2, cat: ["journeys", "rulers"], dating: "internal", people: ["Mosiah I"], places: ["Zarahemla"], chapters: ["Omni 1"], note: "two peoples become one" },
         { id: "zeniff", t: "Zeniff returns to the land of Nephi", y0: -200, y1: -187, lane: "nw", thread: "nw-zeniff", imp: 2, cat: ["journeys"], dating: "internal", people: ["Zeniff"], chapters: ["Mosiah 9"], note: "over-zealous to inherit the fathers' land" },
         { id: "abinadi", t: "Abinadi burns for his testimony", y0: -148, y1: -148, lane: "nw", thread: "nw-zeniff", imp: 1, cat: ["prophets", "turning"], dating: "internal", people: ["Abinadi", "Alma the Elder"], chapters: ["Mosiah 17"], note: "one convert carries the fire out" },

@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **82 BC** — Alma and Amulek preach at Ammonihah · [[Alma 9]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Alma among the Zoramites; the seed of faith · [[Alma 31]] · [[Alma 32]] · [[Alma 34]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

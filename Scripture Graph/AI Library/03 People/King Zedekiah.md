@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **588 BC–587 BC** — Jeremiah in the dungeon · [[Jeremiah 37]] · [[Jeremiah 38]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
+- **586 BC–580 BC** — Mulek's people escape fallen Jerusalem · [[Omni 1]] · [[Helaman 8]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
