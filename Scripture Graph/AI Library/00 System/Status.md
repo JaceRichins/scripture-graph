@@ -6,9 +6,9 @@ content_type: report
 
 # Status
 
-*Generated 2026-08-30T02:45:39Z.*
+*Generated 2026-08-30T02:47:13Z.*
 
-- Engine: v0.1.0 · corpus **v7** · bootstrap **STEADY_STATE** · git `b9c54f68`
+- Engine: v0.1.0 · corpus **v7** · bootstrap **STEADY_STATE** · git `097813c7`
 - Scripture: 88 books, 1584 chapters, 42027 verses
 - Graph: 108 topics · 167 people · 82 places · 302 evidence notes · 4 questions
 - Personal notes indexed: 3172
@@ -17,7 +17,7 @@ content_type: report
 - Work queue: {'dead': 331, 'running': 5}
 - **Today:** 6 study ticks · 4 research jobs applied · 152 new claims
 - Secondary sources: 2 approved · 81 episodes tracked · 2 ingested
-- AI providers: claude: not installed, codex: ready
+- AI providers: claude: needs login, codex: ready
 
 ## Coverage
 
@@ -44,7 +44,7 @@ Overall: mean **74.1**, stddev 5.01, min 67.0
 
 ## Recent runs
 
-- study: 2026-08-30T02:45:02Z → … (running)
+- study: 2026-08-30T02:45:02Z → 2026-08-30T02:45:39Z (ok)
 - study: 2026-08-30T02:15:02Z → 2026-08-30T02:15:40Z (ok)
 - study: 2026-08-30T01:45:02Z → 2026-08-30T01:45:38Z (ok)
 - study: 2026-08-30T01:15:02Z → 2026-08-30T01:16:02Z (ok)
