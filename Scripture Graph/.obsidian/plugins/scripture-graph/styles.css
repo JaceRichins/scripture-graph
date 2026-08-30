@@ -97,7 +97,7 @@ body.sg-scene-on .workspace-tabs,
 body.sg-scene-on .workspace-tab-container,
 body.sg-scene-on .workspace-leaf,
 body.sg-scene-on .workspace-leaf-content,
-body.sg-scene-on .view-content,
+body.sg-scene-on .view-content:not(.sg-tl),
 body.sg-scene-on .markdown-reading-view,
 body.sg-scene-on .markdown-preview-view,
 body.sg-scene-on .metadata-container,
@@ -1016,10 +1016,11 @@ body.sg-scene-on .sg-chap-conn {
 
 /* ---------- 🕰 the timeline: scripture history on one spine -------------- */
 /* ONE dark surface with its OWN palette. The timeline is deep space in any
- * theme — and reading scenes repaint the app's background variables, so
- * every color here is self-contained: the sunset can never bleed through. */
+ * theme — reading scenes force every .view-content transparent (!important)
+ * to shine through reading pages, so the timeline is carved out of that rule
+ * above AND pins its background with !important here: double-locked. */
 .sg-tl {
-  --sg-space: #0d0d16;
+  --sg-space: #0b0b14;
   --sg-ink: #eef0f8;
   --sg-ink-mut: #aab0c4;
   --sg-ink-dim: #7e8498;
@@ -1027,15 +1028,21 @@ body.sg-scene-on .sg-chap-conn {
   --sg-fill: rgba(255, 255, 255, 0.06);
   display: flex; flex-direction: column; height: 100%; padding: 0;
   background:
-    radial-gradient(60% 420px at 50% 0%, rgba(105, 125, 200, 0.10), transparent 75%),
-    radial-gradient(1px 1px at 18% 12%, rgba(255,255,255,0.16), transparent 100%),
-    radial-gradient(1px 1px at 72% 28%, rgba(255,255,255,0.12), transparent 100%),
-    radial-gradient(1.5px 1.5px at 41% 57%, rgba(255,255,255,0.10), transparent 100%),
-    radial-gradient(1px 1px at 88% 74%, rgba(255,255,255,0.14), transparent 100%),
-    radial-gradient(1px 1px at 9% 86%, rgba(255,255,255,0.10), transparent 100%),
-    var(--sg-space);
-  background-size: 100% 900px, 620px 620px, 540px 540px, 700px 700px, 460px 460px, 580px 580px, auto;
-  background-repeat: no-repeat, repeat, repeat, repeat, repeat, repeat, repeat;
+    radial-gradient(64% 440px at 50% 0%, rgba(108, 125, 210, 0.13), transparent 75%),
+    radial-gradient(42% 300px at 82% 12%, rgba(150, 100, 210, 0.07), transparent 75%),
+    radial-gradient(1px 1px at 18% 12%, rgba(255,255,255,0.18), transparent 100%),
+    radial-gradient(1px 1px at 72% 28%, rgba(255,255,255,0.13), transparent 100%),
+    radial-gradient(1.5px 1.5px at 41% 57%, rgba(255,255,255,0.11), transparent 100%),
+    radial-gradient(1px 1px at 88% 74%, rgba(255,255,255,0.15), transparent 100%),
+    radial-gradient(1px 1px at 9% 86%, rgba(255,255,255,0.11), transparent 100%),
+    radial-gradient(1px 1px at 33% 33%, rgba(255,255,255,0.09), transparent 100%),
+    radial-gradient(1px 1px at 61% 79%, rgba(255,255,255,0.08), transparent 100%),
+    linear-gradient(180deg, #10101d 0%, var(--sg-space) 340px) !important;
+  background-size: 100% 940px, 100% 700px, 620px 620px, 540px 540px,
+    700px 700px, 460px 460px, 580px 580px, 380px 380px, 520px 520px, auto !important;
+  background-repeat: no-repeat, no-repeat, repeat, repeat, repeat, repeat,
+    repeat, repeat, repeat, no-repeat !important;
+  background-attachment: local;
 }
 .sg-tl-bar {
   flex: 0 0 auto; padding: 6px 10px 7px;
@@ -1128,12 +1135,32 @@ body.sg-scene-on .sg-chap-conn {
   background: transparent;
 }
 .sg-tl-svg { display: block; margin: 0 auto; }
-/* era washes: alternating tint + a huge quiet name at each turn of the age */
+/* era washes: each age gets its own faint hue + a huge quiet name — the
+ * scroll travels through colored epochs instead of flat black */
 .sg-tl-band { fill: rgba(255, 255, 255, 0.035); }
 .sg-tl-erawash {
-  fill: #e8ecff; opacity: 0.05;
+  fill: #e8ecff; opacity: 0.055;
   font-weight: 900; letter-spacing: 0.1em;
   pointer-events: none;
+}
+/* living sky: seeded stars that breathe at their own pace */
+.sg-tl-star { fill: #ffffff; opacity: 0.25; pointer-events: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .sg-tl-star { animation: sg-tl-twinkle 4.2s ease-in-out infinite; }
+  .sg-tl-node { animation: sg-tl-in 0.45s ease-out backwards; }
+  .sg-tl-halo-breathe { animation: sg-tl-breathe 5.6s ease-in-out infinite; }
+}
+@keyframes sg-tl-twinkle {
+  0%, 100% { opacity: 0.12; }
+  50% { opacity: 0.7; }
+}
+@keyframes sg-tl-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes sg-tl-breathe {
+  0%, 100% { opacity: 0.13; }
+  50% { opacity: 0.3; }
 }
 /* century marks: a small centered tag in the gap between rows */
 .sg-tl-century {

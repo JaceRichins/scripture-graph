@@ -6065,7 +6065,7 @@ async function loadTimelineData(app) {
     return null;
   }
 }
-var import_obsidian6, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, TimelineView, SubjectPickerModal;
+var import_obsidian6, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, TimelineView, SubjectPickerModal;
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
@@ -6090,6 +6090,18 @@ var init_timelineView = __esm({
       { label: "Cumorah", y: 320 },
       { label: "Restoration", y: 1820 }
     ];
+    ERA_TINT = {
+      "Beginnings": "rgba(146, 124, 255, 0.05)",
+      "Abraham": "rgba(255, 196, 130, 0.04)",
+      "Exodus": "rgba(255, 148, 96, 0.045)",
+      "Kings": "rgba(255, 214, 126, 0.045)",
+      "Lehi & Exile": "rgba(118, 196, 255, 0.05)",
+      "Judges": "rgba(110, 232, 172, 0.045)",
+      "Christ": "rgba(255, 240, 200, 0.06)",
+      "Apostles": "rgba(255, 204, 156, 0.04)",
+      "Cumorah": "rgba(224, 142, 128, 0.05)",
+      "Restoration": "rgba(122, 182, 255, 0.055)"
+    };
     CATS = [
       { key: "prophets", label: "\u{1F54A} Prophets" },
       { key: "visions", label: "\u2728 Visions" },
@@ -6454,7 +6466,7 @@ var init_timelineView = __esm({
         const xFor = (e) => (e.thread ? tx.get(e.thread) : void 0) ?? laneX(e.lane);
         const onThread = (e) => !!e.thread && tx.has(e.thread);
         const dirFor = (e) => LANE_DIR[e.lane] ?? 1;
-        const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 30, BOTTOM = 120;
+        const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 64, BOTTOM = 120;
         let y = TOP;
         let lastCentury = null;
         const centuries = [];
@@ -6503,15 +6515,14 @@ var init_timelineView = __esm({
         for (let i = 0; i < eraBands.length; i++) {
           const band = eraBands[i];
           const yEnd = eraBands[i + 1]?.yTop ?? H;
-          if (i % 2 === 0) {
-            el("rect", {
-              x: "0",
-              y: String(band.yTop),
-              width: String(W),
-              height: String(yEnd - band.yTop),
-              class: "sg-tl-band"
-            });
-          }
+          el("rect", {
+            x: "0",
+            y: String(band.yTop),
+            width: String(W),
+            height: String(yEnd - band.yTop),
+            class: "sg-tl-band",
+            fill: ERA_TINT[band.label] ?? "rgba(255, 255, 255, 0.03)"
+          });
           const fs = Math.min(
             Math.round(W * 0.085),
             64,
@@ -6519,12 +6530,27 @@ var init_timelineView = __esm({
           );
           const wm = el("text", {
             x: String(W / 2),
-            y: String(band.wmY),
+            y: String(Math.max(band.wmY, TOP + 26)),
             "text-anchor": "middle",
             class: "sg-tl-erawash",
             style: `font-size: ${fs}px`
           });
           wm.textContent = band.label.toUpperCase();
+        }
+        let seed = 9973;
+        const rnd = () => {
+          seed = seed * 48271 % 2147483647;
+          return seed / 2147483647;
+        };
+        const nStars = Math.min(44, Math.max(10, Math.round(H / 240)));
+        for (let i = 0; i < nStars; i++) {
+          el("circle", {
+            cx: String(Math.round(rnd() * W)),
+            cy: String(Math.round(rnd() * H)),
+            r: (0.7 + rnd() * 0.9).toFixed(2),
+            class: "sg-tl-star",
+            style: `animation-delay: -${(rnd() * 4.2).toFixed(2)}s; animation-duration: ${(3.4 + rnd() * 2.6).toFixed(2)}s`
+          });
         }
         for (const c of centuries) {
           const t = el("text", {
@@ -6646,12 +6672,19 @@ var init_timelineView = __esm({
             }
           }
         }
+        let nodeIdx = 0;
         for (const e of events) {
           const p = pos.get(e.id);
           const r = e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5;
           const braided = onThread(e);
           const color = (braided && e.thread ? threadById.get(e.thread)?.color : void 0) ?? LANE_COLOR[e.lane];
-          const g = el("g", { class: "sg-tl-node", "data-id": e.id });
+          const g = el("g", {
+            class: "sg-tl-node",
+            "data-id": e.id,
+            // constellation lights up star by star
+            style: `animation-delay: ${Math.min(nodeIdx * 22, 480)}ms`
+          });
+          nodeIdx++;
           el("circle", {
             cx: String(p.x),
             cy: String(p.y),
@@ -6663,7 +6696,8 @@ var init_timelineView = __esm({
             cy: String(p.y),
             r: String(r + 7),
             fill: color,
-            class: "sg-tl-halo"
+            class: e.imp === 1 ? "sg-tl-halo sg-tl-halo-breathe" : "sg-tl-halo",
+            style: e.imp === 1 ? `animation-delay: -${nodeIdx % 7 * 0.8}s` : ""
           }, g);
           el("circle", {
             cx: String(p.x),
