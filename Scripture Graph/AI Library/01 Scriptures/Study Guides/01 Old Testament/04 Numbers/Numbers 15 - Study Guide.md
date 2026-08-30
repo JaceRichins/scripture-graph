@@ -17,21 +17,22 @@ Scripture: [[Numbers 15]] · My notes: [[Numbers 15 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Various sacrificial ordinances bring forgiveness to repentant Israel—Those who sin willfully are cut off from among the people—A man is stoned for gathering sticks on the Sabbath day—The Israelites are to look on the fringes of their garments and remember the commandments.
+Numbers 15 combines offerings anticipated for life in the land, a gift from the first dough, remedies for inadvertent wrongdoing, a severe contrast with presumptuous defiance, a Sabbath adjudication, and garment fringes intended to promote remembrance and obedience.
+
+The chapter holds mercy and severity together without supplying a complete doctrine of repentance or final judgment. Verses 25–28 explicitly connect inadvertent wrongdoing with appointed offerings, priestly atonement, and forgiveness. Verses 30–31 prescribe no corresponding sacrifice for presumptuous wrongdoing, and the Sabbath narrative culminates in capital punishment. The chapter closes by placing commanded holiness beside the Lord's deliverance of Israel from Egypt.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Offerings after entry into the land (vv. 1–16):** Animal offerings receive proportionately scaled flour, oil, and wine accompaniments; the stated procedure also applies to a resident stranger who offers.
+1. **Offerings in the land (vv. 1-16):** Animal offerings receive proportionately scaled flour, oil, and wine accompaniments. The specified procedure also applies to a resident stranger who offers.
 
-2. **First dough (vv. 17–21):** Israel is to present a portion from the first of the dough after eating the land's bread.
+2. **First dough (vv. 17-21):** Israel is to present a portion from the first dough after beginning to eat the land's bread.
 
-3. **Ignorance and presumption (vv. 22–31):** Congregational and individual cases of ignorance receive distinct sacrificial procedures, priestly atonement, and forgiveness. Presumptuous action is described as contempt for the Lord's word and receives no corresponding sacrificial remedy in this passage.
+3. **Ignorance and presumption (vv. 22-31):** Congregational and individual cases of inadvertent failure receive distinct sacrifices, priestly atonement, and forgiveness. Presumptuous action is instead described as contempt for the Lord and receives no sacrificial remedy in this passage.
 
-4. **The Sabbath case (vv. 32–36):** A man found gathering sticks is detained until the Lord declares how the case is to be handled.
+4. **The Sabbath case (vv. 32-36):** A man found gathering sticks is detained until the Lord declares the disposition of the case, after which the congregation stones him outside the camp.
 
-5. **Fringes and remembrance (vv. 37–41):** A visible sign is intended to move Israel from seeing to remembering and doing the commandments.
+5. **Fringes and remembrance (vv. 37-41):** A visible sign is intended to move Israel from seeing to remembering and doing, and the chapter closes by recalling deliverance from Egypt.
 <!-- SG:END structure -->
 
 ## People
@@ -53,7 +54,6 @@ Scripture: [[Numbers 15]] · My notes: [[Numbers 15 - My Notes]]
 - [[Leviticus 1]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
 - [[Leviticus 4]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
 - [[Mosiah 3]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-27|Numbers 15:27]])
-- [[Numbers 29]] — 19 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
 - [[Leviticus 1]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
 - [[Leviticus 5]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 5#^lev-5-10|Leviticus 5:10]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
@@ -65,6 +65,7 @@ Scripture: [[Numbers 15]] · My notes: [[Numbers 15 - My Notes]]
 - [[Leviticus 15]] — 6 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 15#^lev-15-2|Leviticus 15:2]]
 - [[Exodus 29]] — 4 parallel verses, e.g. [[Numbers 15#^num-15-4|Numbers 15:4]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
 - [[Leviticus 3]] — 3 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
+- [[Leviticus 25]] — 3 parallel verses, e.g. [[Numbers 15#^num-15-18|Numbers 15:18]] ↔ [[Leviticus 25#^lev-25-2|Leviticus 25:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,9 +80,13 @@ Scripture: [[Numbers 15]] · My notes: [[Numbers 15 - My Notes]]
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter's teaching about [[Repentance and Forgiveness]] is carefully delimited. Verses 25–28 explicitly connect wrongdoing committed in ignorance with an appointed offering, priestly atonement, and forgiveness. Verses 30–31 contrast presumptuous action, describing it as reproaching the Lord and despising his word; no corresponding sacrifice is prescribed there. This does not establish that every intentional sin is eternally unforgivable or explain how a later repentant person who acted deliberately should be treated. Numbers 15 presents particular legal and sacrificial remedies, not a complete doctrine of repentance.
+The chapter's contribution to [[Repentance and Forgiveness]] is specific rather than comprehensive. Verses 25–28 explicitly connect wrongdoing committed in ignorance with an appointed [[Sacrifice]], priestly atonement, and forgiveness. The required rite shows that ignorance does not remove the legal or cultic consequence addressed here; it does not by itself establish moral blame in every case. Repentance is not named as a step in these verses.
 
-The repeated inclusion of the resident stranger in verses 14–16, 26, and 29 is also significant. Within the matters addressed, the same offering procedures and inadvertent-sin provisions apply to native and stranger. This is substantial inclusion, but it does not establish identical legal, social, or covenant status in every domain.
+Verses 30–31 contrast presumptuous action, describing it as reproaching the Lord, despising his word, and breaking his commandment. No corresponding sacrifice is prescribed in this passage. That severe contrast does not establish that every intentional sin is eternally unforgivable, classify every knowing offense, or explain how later repentance should be treated.
+
+The resident stranger is repeatedly included in the specified offering and inadvertent-sin procedures. This is substantial procedural equality before the Lord, but “one law” should not be made to establish identical legal, social, or covenantal status in every domain.
+
+The closing verses place [[Obedience]] and holiness beside [[Exodus and Deliverance]]. Reading obedience as a response to deliverance is well grounded in the juxtaposition, though the causal relationship remains interpretive.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -96,18 +101,22 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Verses 22–31 contrast acting through ignorance with acting presumptuously. Presumption is characterized not merely as an error but as reproaching the Lord, despising his word, and breaking his commandment. Even so, the passage does not provide a comprehensive classification of every kind of intentional wrongdoing, and the mechanism of being “cut off” is not defined within the chapter.
+The older English “meat offering” in verses 4, 6, and 9 refers here to the flour-and-oil accompaniment, not to another animal. Its amount increases with the lamb, ram, or bullock, as does the wine offering.
 
-In verses 39–40, remembering is practical rather than merely mental: Israel is to look, remember, and do the commandments. The warning against following heart and eyes portrays personal inclination and perception as unreliable when they displace the revealed commands.
+Verses 22–31 contrast acting through ignorance with acting presumptuously. Presumption is characterized as reproaching the Lord, despising his word, and breaking his commandment. The expression “cut off” is not defined within this chapter, so its precise relationship to execution, communal exclusion, or divine judgment should not be decided from this passage alone.
+
+In verses 39–40, remembering is practical: Israel is to look, remember, and do. The warning against following heart and eyes portrays inclination and perception as unreliable when they displace the commandments; it is not a general condemnation of emotion, thought, or sight.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter moves from provisions for worship in the land to remedies for inadvertent failure, a severe Sabbath judgment, and a daily aid to remembrance. The arrangement permits readers to see the fringes as a preventive counterpart to the preceding violation: they are intended to help Israel remember and obey before transgression occurs. That relationship is a plausible literary reading, not an explicit statement of authorial purpose.
+The chapter's placement after [[Numbers 14]] is suggestive. Following judgment against the rebellious wilderness generation, Numbers 15 again anticipates life and worship in the land. This confirms an ongoing future for Israel as a people, but it does not establish that the laws were placed here specifically as reassurance; practical address to the next generation and legal compilation remain plausible explanations.
 
-The Sabbath story may likewise illustrate the preceding category of presumptuous wrongdoing because it immediately follows verses 30–31. The narrative, however, never labels the act presumptuous or discloses the man's motive, knowledge, or prior warning. The story may instead have been placed here because of broader legal or editorial association.
+The Sabbath story immediately follows the distinction between inadvertent and presumptuous wrongdoing. That adjacency permits readers to understand the story as an example of defiance, but the narrative never labels the act presumptuous or discloses the man's motive, knowledge, or prior warning. [[Leviticus 24]] supplies a close procedural parallel without resolving that question.
 
-The closing identification of the Lord as the God who brought Israel out of Egypt places obedience and holiness beside divine deliverance and covenant relationship. Reading deliverance as the ground of obligation is well supported, though the causal relationship remains interpretive rather than explicitly stated.
+The fringes have an explicit general purpose: to promote remembrance and obedience. Their placement after the Sabbath judgment makes a preventive-counterpart reading possible, but sequence alone does not demonstrate that the fringe law was designed as an answer to that particular incident.
+
+The closing identification of the Lord as the God who brought Israel from Egypt places holiness and obedience beside deliverance and divine relationship. Reading deliverance as the ground of obligation is reasonable but remains an interpretation of the juxtaposition.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -128,29 +137,37 @@ The closing identification of the Lord as the God who brought Israel out of Egyp
 > Because the Sabbath narrative immediately follows the contrast between ignorant and presumptuous wrongdoing, it may function as a concrete illustration of defiant transgression. The narrative itself, however, never labels the man's act presumptuous or states his motive.
 > — strength 0.5 · confidence 0.8 · accepted juxtaposition; disputed interpretation
 
-> [!evidence] Internal Legal-Text Evidence *(tentative)*
-> Numbers 15 provides strong textual evidence that resident strangers were included in the cultic duties and liabilities addressed by this legislation, rather than being treated as wholly outside Israel's covenant community.
-> — strength 0.7 · confidence 0.8 · text secure; covenant-status inference disputed
+> [!evidence] Canonical Literary Context *(tentative)*
+> Coming immediately after the judgment reported in Numbers 14, the renewed instructions for worship after entry into the land support a reading of continuing covenant purpose beyond the condemned wilderness generation. This is meaningful literary evidence of an ongoing future for Israel, although the laws may also have been placed here for topical or compositional reasons.
+> — strength 0.4 · confidence 0.8 · Transition accepted; intended reassurance disputed
+
+> [!evidence] Literary Juxtaposition *(tentative)*
+> The immediate placement of the Sabbath narrative after the law of presumptuous sin supplies moderate literary evidence that the story may exemplify defiant violation. The narrative itself never labels the man presumptuous and does not disclose his motive, knowledge, or prior warning.
+> — strength 0.4 · confidence 0.7 · Plausible literary inference; classification disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Why does legislation about life in the land immediately follow the judgment in [[Numbers 14]]? Does the placement communicate continuing hope for Israel, or does it reflect the collection of laws applicable after settlement?
+- Does the land-oriented language following [[Numbers 14]] function as reassurance to the next generation, or chiefly as an organizational transition to settlement laws?
 
-- What is the scope of the congregation's failure to observe “all these commandments” in verses 22–23?
+- How broad is the congregational failure contemplated by "all these commandments" in verses 22–23?
 
-- Does the stick-gatherer exemplify the presumptuous sinner of verses 30–31, or is that conclusion based on juxtaposition? What cannot be known because the narrative withholds his motive and prior knowledge?
+- What features distinguish ignorance from presumption in actual cases when outward conduct alone may not reveal intent?
 
-- What does “one law” mean in context? How far may the equal procedures for native and resident stranger be generalized beyond the matters specified here?
+- Does the placement of the stick-gatherer classify him as presumptuous, or does that inference go beyond the narrative's silence about his motive?
 
-- How do visible reminders such as the fringes connect remembering with [[Obedience]] without making the object itself the source of holiness?
+- Since a Sabbath death penalty had already been stated in [[Exodus 31]], what remained "not declared" in Numbers 15:34—the mode of execution, application to this conduct, evidentiary procedure, or something else?
+
+- How far should "one law" be generalized beyond the offerings and sins specified in its immediate contexts?
+
+- What makes an external reminder serve genuine [[Obedience]] rather than becoming a substitute for it?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the inadvertent-sin procedures with [[Leviticus 4]]. The detained blasphemer in [[Leviticus 24]] offers a close procedural parallel to the Sabbath case: custody while divine direction is sought, followed by congregational stoning outside the camp. [[Exodus 31]] supplies earlier legal context for the Sabbath sanction.
+Compare the congregational and individual inadvertent-sin procedures with [[Leviticus 4]]. The detained offender in [[Leviticus 24]] offers a close procedural parallel to the Sabbath case: custody while divine direction is sought, followed by congregational stoning outside the camp. [[Exodus 31]] supplies earlier legal context for the Sabbath command and its sanction.
 
-[[Numbers 28]] and [[Numbers 29]] show comparable grain-and-drink proportions operating in the regular and festival offering calendar. [[Leviticus 1]] and [[Leviticus 2]] provide broader background for the animal and grain offerings. [[Deuteronomy 22]] gives another Torah instruction concerning garment fringes.
+[[Numbers 28]] and [[Numbers 29]] show comparable grain-and-drink accompaniments operating in regular and festival offerings. The comparison should be made measure by measure rather than assuming that every oil quantity is restated. [[Leviticus 1]] and [[Leviticus 2]] provide broader background for animal and grain offerings, while [[Deuteronomy 22]] contains another Torah instruction concerning garment fringes.
 
-Reading [[Numbers 14]] immediately before this chapter raises a literary question rather than a settled conclusion: whether the renewed language about entering the land functions as reassurance after the preceding generation's judgment.
+Read [[Numbers 14]] and Numbers 15 continuously to test, rather than assume, whether the renewed land-oriented language functions as reassurance after the preceding judgment.
 <!-- SG:END further-study -->
