@@ -202,8 +202,12 @@ def synthesize_topic(ctx: Ctx, node_id: str) -> dict:
         anchor = f"#^{cit.chapter_slug}-{vs[0]}" if vs else ""
         lines.append(f"- [[{chapter_display(cit.chapter_slug)}{anchor}|{cit.display()}]]"
                      f" — key passage")
+    # 'discusses' is not chapters-only: secondary-source episodes point at
+    # topics with the same relation, and rendering one as a chapter reference
+    # crashes the whole dossier. Ask for chapters explicitly.
     chapters = db.execute(
         "SELECT e.src, e.status, e.weight FROM edges e WHERE e.dst=? AND e.rel='discusses' "
+        "AND e.src LIKE 'chapter:%' "
         "AND e.status IN ('accepted','tentative') ORDER BY e.weight DESC LIMIT 15",
         (node_id,)).fetchall()
     for r in chapters:

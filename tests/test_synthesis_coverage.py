@@ -23,6 +23,34 @@ def test_synthesis_renders_verified_sections(imported_ctx):
     assert fm["corpus_version_reviewed"] == ctx.corpus_version()
 
 
+def test_topic_dossier_ignores_non_chapter_discusses_edges(imported_ctx):
+    """Secondary-source episodes use rel='discusses' too. Treating one as a
+    chapter reference crashed the entire topic dossier — and it silently took
+    out exactly the topics podcasts cover most (Atonement, Conversion)."""
+    from scripturegraph.synthesis import synthesize_topic
+    from scripturegraph.util import now_iso
+    ctx = imported_ctx
+    topic = ctx.db().execute(
+        "SELECT id FROM nodes WHERE node_type='topic' AND vault_path IS NOT NULL"
+        " LIMIT 1").fetchone()
+    assert topic is not None
+    ctx.db().execute(
+        "INSERT INTO nodes(id,node_type,title,vault_path,created_at,updated_at)"
+        " VALUES(?,?,?,?,?,?) ON CONFLICT(id) DO NOTHING",
+        ("secitem:4ba4d2762ae0", "secitem", "Some podcast episode", None,
+         now_iso(), now_iso()))
+    ctx.db().execute(
+        "INSERT INTO edges(src,dst,rel,status,confidence,weight,meta_json,"
+        " provenance,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?)",
+        ("secitem:4ba4d2762ae0", topic["id"], "discusses", "accepted", 0.9, 0.9,
+         "{}", "test", now_iso(), now_iso()))
+    ctx.db().commit()
+
+    # must not raise ValueError: not enough values to unpack
+    out = synthesize_topic(ctx, topic["id"])
+    assert "skipped" not in out or out.get("anchors") is not None
+
+
 def test_evidence_scores_survive_stringy_model_output(imported_ctx):
     """A model writing "0.8" (or a word) where a number belongs must not cost
     the chapter its whole research run when the study guide renders."""
