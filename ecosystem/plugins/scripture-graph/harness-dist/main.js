@@ -7564,7 +7564,7 @@ ${body}
     { label: "Exodus", y: -1446 },
     { label: "Kings", y: -1050 },
     { label: "Lehi & Exile", y: -605 },
-    { label: "Judges (BoM)", y: -130 },
+    { label: "Judges", y: -130 },
     { label: "Christ", y: -6 },
     { label: "Apostles", y: 34 },
     { label: "Cumorah", y: 320 },
@@ -7601,8 +7601,18 @@ ${body}
     nw: "#4cc38a",
     rs: "#52a9ff"
   };
-  var LANE_X = { ow: 300, nw: 700, rs: 500 };
-  var W = 1e3;
+  var LANE_NAME = {
+    ow: "\u{1F30D} Old World",
+    nw: "\u{1F30E} Book of Mormon",
+    rs: "\u{1F305} Restoration"
+  };
+  var LANE_F = { ow: 0.13, nw: 0.87, rs: 0.5 };
+  var LANE_DIR = { ow: 1, nw: -1, rs: 1 };
+  var THREAD_F = {
+    ow: [0.27, 0.35],
+    nw: [0.7, 0.62, 0.75, 0.55],
+    rs: [0.4, 0.6]
+  };
   function yearStr(y) {
     return y < 0 ? `${-y} BC` : `AD ${y}`;
   }
@@ -7636,6 +7646,18 @@ ${body}
     focus = null;
     pendingYear = null;
     streamEl = null;
+    showLenses = false;
+    // category row folded away by default
+    showSearch = false;
+    // search folded away by default
+    lastW = 0;
+    retriedZeroWidth = false;
+    /** Obsidian calls this on pane resize; the window listener covers rotation */
+    onResize() {
+      const w = this.streamEl?.clientWidth ?? 0;
+      if (w > 80 && Math.abs(w - this.lastW) > 24) this.renderStream();
+    }
+    boundResize = () => this.onResize();
     /** enter/leave focus mode: the constellation becomes ONE subject's thread */
     setFocus(subject) {
       this.focus = subject;
@@ -7666,6 +7688,7 @@ ${body}
       this.contentEl.addClass("sg-tl");
       this.data = await loadTimelineData(this.s.app);
       this.render();
+      window.addEventListener("resize", this.boundResize);
       const vault = this.s.app.vault;
       if (typeof vault.on === "function") {
         const arrived = (f) => {
@@ -7785,13 +7808,13 @@ ${body}
           };
         }
       }
-      const laneDefs = [
-        ["ow", "\u{1F30D} Old World"],
-        ["nw", "\u{1F30E} Book of Mormon"],
-        ["rs", "\u{1F305} Restoration"]
-      ];
-      for (const [key, label] of laneDefs) {
-        const b = row2.createEl("button", { cls: "sg-tl-chip", text: label });
+      for (const key of ["ow", "rs", "nw"]) {
+        const b = row2.createEl("button", {
+          cls: "sg-tl-world",
+          text: LANE_NAME[key].slice(0, 2)
+        });
+        b.setAttr("aria-label", LANE_NAME[key].slice(3));
+        b.style.setProperty("--sg-lane", LANE_COLOR[key]);
         b.toggleClass("sg-tl-on", this.lanes.has(key));
         b.onclick = () => {
           if (this.lanes.has(key)) this.lanes.delete(key);
@@ -7799,77 +7822,103 @@ ${body}
           this.render();
         };
       }
-      const detail = row2.createEl("button", {
-        cls: "sg-tl-chip sg-tl-detail",
-        text: this.detail ? "\u{1F50E} All detail" : "\u2B50 Major events"
-      });
-      detail.toggleClass("sg-tl-on", true);
-      detail.onclick = () => {
-        this.detail = !this.detail;
-        this.render();
+      const iconChip = (text, hint, on, click) => {
+        const b = row2.createEl("button", { cls: "sg-tl-tool", text });
+        b.setAttr("aria-label", hint);
+        b.toggleClass("sg-tl-on", on);
+        b.onclick = click;
+        return b;
       };
-      const focusBtn = row2.createEl("button", { cls: "sg-tl-chip", text: "\u{1F3AF} Focus\u2026" });
-      focusBtn.toggleClass("sg-tl-on", true);
-      focusBtn.onclick = () => new SubjectPickerModal(
-        this.s,
-        this,
-        (sub) => this.setFocus(sub)
-      ).open();
-      const row3 = bar2.createDiv({ cls: "sg-tl-row sg-tl-cats" });
-      for (const cat of CATS) {
-        const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
-        b.toggleClass("sg-tl-on", this.cats.has(cat.key));
-        b.onclick = () => {
-          if (this.cats.has(cat.key) && this.cats.size === 1) {
-            this.cats = new Set(CATS.map((x) => x.key));
-          } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
-            this.cats = /* @__PURE__ */ new Set([cat.key]);
-          } else if (this.cats.has(cat.key)) {
-            this.cats.delete(cat.key);
-          } else {
-            this.cats.add(cat.key);
+      iconChip(
+        this.detail ? "\u{1F50E} All" : "\u2B50 Major",
+        "How much detail",
+        this.detail,
+        () => {
+          this.detail = !this.detail;
+          this.render();
+        }
+      );
+      iconChip(
+        "\u{1F3AF}",
+        "Focus on a person, place, or thing",
+        false,
+        () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open()
+      );
+      const filtered = this.cats.size < CATS.length;
+      iconChip(
+        filtered ? `\u2697 ${this.cats.size}` : "\u2697",
+        "Story lenses",
+        this.showLenses || filtered,
+        () => {
+          this.showLenses = !this.showLenses;
+          this.render();
+        }
+      );
+      iconChip(
+        "\u{1F50D}",
+        "Search the ages",
+        this.showSearch || !!this.query,
+        () => {
+          this.showSearch = !this.showSearch;
+          if (!this.showSearch) {
+            this.query = "";
           }
           this.render();
-        };
+        }
+      );
+      if (this.showLenses) {
+        const row3 = bar2.createDiv({ cls: "sg-tl-row sg-tl-cats" });
+        for (const cat of CATS) {
+          const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
+          b.toggleClass("sg-tl-on", this.cats.has(cat.key));
+          b.onclick = () => {
+            if (this.cats.has(cat.key) && this.cats.size === 1) {
+              this.cats = new Set(CATS.map((x) => x.key));
+            } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
+              this.cats = /* @__PURE__ */ new Set([cat.key]);
+            } else if (this.cats.has(cat.key)) {
+              this.cats.delete(cat.key);
+            } else {
+              this.cats.add(cat.key);
+            }
+            this.render();
+          };
+        }
       }
-      const search = bar2.createEl("input", {
-        cls: "sg-tl-search",
-        attr: { type: "search", placeholder: "Find a person, place, or event\u2026" }
-      });
-      search.value = this.query;
-      search.oninput = () => {
-        this.query = search.value;
-        this.renderStream();
-      };
+      if (this.showSearch || this.query) {
+        const search = bar2.createEl("input", {
+          cls: "sg-tl-search",
+          attr: { type: "search", placeholder: "Find a person, place, or event\u2026" }
+        });
+        search.value = this.query;
+        search.oninput = () => {
+          this.query = search.value;
+          this.renderStream();
+        };
+        if (this.showSearch && !this.query) {
+          window.setTimeout(() => search.focus(), 60);
+        }
+      }
       this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
       this.renderStream();
-      if (this.pendingYear != null) {
-        const y = this.pendingYear;
-        this.pendingYear = null;
-        window.setTimeout(() => this.scrollToYear(y), 60);
-      }
     }
     yById = /* @__PURE__ */ new Map();
     yByYear = [];
-    // [year, yUnits]
+    // [year, yPx]
     /** at depth 2 every storyline earns its own column beside its lane —
      * assigned per lane in dataset order, so new threads slot in on their own */
-    threadX() {
+    threadX(W) {
       const m = /* @__PURE__ */ new Map();
-      const slots = {
-        ow: [160, 105],
-        nw: [845, 915, 775, 950],
-        rs: [590, 640]
-      };
       const used = { ow: 0, nw: 0, rs: 0 };
       for (const t of this.data?.threads ?? []) {
-        const lane = slots[t.lane] ?? slots.nw;
-        m.set(t.id, lane[Math.min(used[t.lane]++, lane.length - 1)]);
+        const lane = THREAD_F[t.lane] ?? THREAD_F.nw;
+        m.set(t.id, W * lane[Math.min(used[t.lane]++, lane.length - 1)]);
       }
       return m;
     }
-    /** the constellation: glowing nodes on braided threads of time, narrative
-     * links arcing between the hemispheres — the graph view, given order */
+    /** the constellation, laid out in true device pixels: luminous rails with
+     * crisp text beside them (git-graph idiom — the open middle belongs to the
+     * words), storyline braids at depth 2, narrative arcs between hemispheres */
     renderStream() {
       const stream = this.streamEl;
       if (!stream) return;
@@ -7882,24 +7931,24 @@ ${body}
         stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
         return;
       }
-      if (!this.focus) {
-        const legend = stream.createDiv({ cls: "sg-tl-legend" });
-        const legendDefs = [
-          ["ow", "Old World"],
-          ["rs", "Restoration"],
-          ["nw", "Book of Mormon"]
-        ];
-        for (const [key, label] of legendDefs) {
-          if (!this.lanes.has(key)) continue;
-          const it = legend.createSpan({ cls: "sg-tl-legend-item", text: label });
-          it.style.setProperty("--sg-lane", LANE_COLOR[key]);
+      let W = stream.clientWidth;
+      if (W < 80) {
+        W = 420;
+        if (!this.retriedZeroWidth) {
+          this.retriedZeroWidth = true;
+          window.requestAnimationFrame(() => {
+            if ((this.streamEl?.clientWidth ?? 0) > 80) this.renderStream();
+          });
         }
       }
-      const tx = !this.focus && this.depth === 2 ? this.threadX() : /* @__PURE__ */ new Map();
+      this.lastW = W;
+      const tx = !this.focus && this.depth === 2 ? this.threadX(W) : /* @__PURE__ */ new Map();
       const threadById = new Map((this.data?.threads ?? []).map((t) => [t.id, t]));
-      const xFor = (e) => (e.thread ? tx.get(e.thread) : void 0) ?? LANE_X[e.lane] ?? 500;
+      const laneX = (lane) => W * (LANE_F[lane] ?? 0.5);
+      const xFor = (e) => (e.thread ? tx.get(e.thread) : void 0) ?? laneX(e.lane);
       const onThread = (e) => !!e.thread && tx.has(e.thread);
-      const ROW = 92, CENTURY_GAP = 74, TOP = 60, BOTTOM = 140;
+      const dirFor = (e) => LANE_DIR[e.lane] ?? 1;
+      const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 30, BOTTOM = 120;
       let y = TOP;
       let lastCentury = null;
       const centuries = [];
@@ -7908,17 +7957,19 @@ ${body}
       const pos = /* @__PURE__ */ new Map();
       for (const e of events) {
         const century = e.y0 < 0 ? -Math.ceil(-e.y0 / 100) * 100 : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
+        const era = [...ERAS].reverse().find((er) => er.y <= e.y0);
+        const eraTurn = !!era && era.label !== lastEra;
+        if (eraTurn) {
+          lastEra = era.label;
+          y += ERA_GAP;
+          eraBands.push({ label: era.label, yTop: y - ERA_GAP + 6, wmY: y - 14 });
+        }
         if (century !== lastCentury) {
           lastCentury = century;
           y += CENTURY_GAP;
           const page = e.y0 < 0 ? `${-century}-${-(century + 99)} BC` : `AD ${century}-${century + 99}`;
-          centuries.push({ y: y - 34, label: page.replace("-", "\u2013"), page, year: century });
-          this.yByYear.push([century, y - 34]);
-        }
-        const era = [...ERAS].reverse().find((er) => er.y <= e.y0);
-        if (era && era.label !== lastEra) {
-          lastEra = era.label;
-          eraBands.push({ label: era.label, yTop: y - CENTURY_GAP + 8 });
+          centuries.push({ y: y - 26, label: page.replace("-", "\u2013"), page, year: century });
+          this.yByYear.push([century, y - 26]);
         }
         pos.set(e.id, { x: xFor(e), y, e });
         this.yById.set(e.id, y);
@@ -7928,7 +7979,8 @@ ${body}
       const NS = "http://www.w3.org/2000/svg";
       const svg = document.createElementNS(NS, "svg");
       svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
-      svg.setAttribute("preserveAspectRatio", "xMidYMin meet");
+      svg.setAttribute("width", String(W));
+      svg.setAttribute("height", String(H));
       svg.classList.add("sg-tl-svg");
       const el = (tag, attrs, parent = svg) => {
         const n = document.createElementNS(NS, tag);
@@ -7938,7 +7990,7 @@ ${body}
       };
       const defs = el("defs", {});
       const filt = el("filter", { id: "sgtlglow", x: "-80%", y: "-80%", width: "260%", height: "260%" }, defs);
-      el("feGaussianBlur", { stdDeviation: "7", result: "b" }, filt);
+      el("feGaussianBlur", { stdDeviation: "4", result: "b" }, filt);
       const merge = el("feMerge", {}, filt);
       el("feMergeNode", { in: "b" }, merge);
       el("feMergeNode", { in: "SourceGraphic" }, merge);
@@ -7954,84 +8006,100 @@ ${body}
             class: "sg-tl-band"
           });
         }
+        const fs = Math.min(
+          Math.round(W * 0.085),
+          64,
+          Math.round(W / (band.label.length * 0.78))
+        );
         const wm = el("text", {
-          x: "500",
-          y: String(band.yTop + 96),
+          x: String(W / 2),
+          y: String(band.wmY),
           "text-anchor": "middle",
-          class: "sg-tl-erawash"
+          class: "sg-tl-erawash",
+          style: `font-size: ${fs}px`
         });
         wm.textContent = band.label.toUpperCase();
       }
       for (const c of centuries) {
-        el("line", {
-          x1: "70",
-          x2: String(W - 70),
-          y1: String(c.y),
-          y2: String(c.y),
-          class: "sg-tl-cline"
-        });
         const t = el("text", {
-          x: "78",
-          y: String(c.y - 10),
-          class: "sg-tl-clabel"
+          x: String(W / 2),
+          y: String(c.y),
+          "text-anchor": "middle",
+          class: "sg-tl-century"
         });
         t.textContent = c.label;
         t.onclick = () => {
           void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
         };
       }
-      if (this.focus) {
+      const chainPath = (chain) => {
         let d = "";
-        for (let i = 0; i < events.length; i++) {
-          const p = pos.get(events[i].id);
+        for (let i = 0; i < chain.length; i++) {
+          const p = chain[i];
           if (i === 0) {
             d = `M ${p.x} ${p.y}`;
             continue;
           }
-          const prev = pos.get(events[i - 1].id);
+          const prev = chain[i - 1];
           const midY = (prev.y + p.y) / 2;
           d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
         }
-        if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
+        return d;
+      };
+      const rail = (d, color, core, coreCls) => {
+        el("path", {
+          d,
+          class: "sg-tl-railglow",
+          stroke: color,
+          "stroke-width": String(core * 3.2)
+        });
+        el("path", {
+          d,
+          class: coreCls,
+          stroke: color,
+          "stroke-width": String(core)
+        });
+      };
+      if (this.focus) {
+        const chain = events.map((e) => pos.get(e.id));
+        if (chain.length > 1) el("path", { d: chainPath(chain), class: "sg-tl-focus-thread" });
       } else {
-        const chainPath = (chain) => {
-          let d = "";
-          for (let i = 0; i < chain.length; i++) {
-            const p = chain[i];
-            if (i === 0) {
-              d = `M ${p.x} ${p.y}`;
-              continue;
-            }
-            const prev = chain[i - 1];
-            const midY = (prev.y + p.y) / 2;
-            d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
-          }
-          return d;
-        };
         for (const lane of ["ow", "nw", "rs"]) {
-          const chain = events.filter((e) => e.lane === lane && !onThread(e)).map((e) => pos.get(e.id));
-          if (chain.length < 2) continue;
-          el("path", { d: chainPath(chain), class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
+          const laneEvents = events.filter((e) => e.lane === lane && !onThread(e));
+          const chain = laneEvents.map((e) => pos.get(e.id));
+          if (chain.length >= 2) rail(chainPath(chain), LANE_COLOR[lane], 2, "sg-tl-thread");
+          if (laneEvents.length) {
+            const first = pos.get(laneEvents[0].id);
+            const dir = LANE_DIR[lane] ?? 1;
+            const cap = el("text", {
+              x: String(first.x + dir * 16),
+              y: String(first.y - 46),
+              "text-anchor": dir > 0 ? "start" : "end",
+              class: "sg-tl-tcap",
+              fill: LANE_COLOR[lane]
+            });
+            cap.textContent = LANE_NAME[lane];
+          }
         }
         if (tx.size) {
           for (const th of this.data?.threads ?? []) {
             const members = events.filter((e) => e.thread === th.id);
             if (!members.length) continue;
             const chain = members.map((e) => pos.get(e.id));
-            if (chain.length > 1) {
-              el("path", { d: chainPath(chain), class: "sg-tl-thread2", stroke: th.color });
-            }
+            if (chain.length > 1) rail(chainPath(chain), th.color, 1.6, "sg-tl-thread2");
             const first = chain[0], last = chain[chain.length - 1];
-            const from = (th.branch ? pos.get(th.branch) : void 0) ?? { x: LANE_X[th.lane] ?? 500, y: first.y - 64 };
-            const midA = (from.y + first.y) / 2;
-            el("path", {
-              d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
-              class: "sg-tl-branch",
-              stroke: th.color
-            });
+            if (th.branch) {
+              const from = pos.get(th.branch) ?? { x: laneX(th.lane), y: first.y - 56 };
+              const midA = (from.y + first.y) / 2;
+              el("path", {
+                d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
+                class: "sg-tl-branch",
+                stroke: th.color
+              });
+            }
             if (th.merges) {
               const back = events.find((e) => e.lane === th.lane && !onThread(e) && (pos.get(e.id)?.y ?? 0) > last.y);
-              const to = back ? pos.get(back.id) : { x: LANE_X[th.lane] ?? 500, y: last.y + 64 };
+              const to = back ? pos.get(back.id) : { x: laneX(th.lane), y: last.y + 56 };
               const midB = (last.y + to.y) / 2;
               el("path", {
                 d: `M ${last.x} ${last.y} C ${last.x} ${midB}, ${to.x} ${midB}, ${to.x} ${to.y}`,
@@ -8039,22 +8107,22 @@ ${body}
                 stroke: th.color
               });
             }
-            const capRight = first.x >= 500;
+            const dir = LANE_DIR[th.lane] ?? 1;
             const cap = el("text", {
-              x: String(first.x + (capRight ? -20 : 20)),
-              y: String(first.y - 22),
-              "text-anchor": capRight ? "end" : "start",
-              class: "sg-tl-tcap",
+              x: String(first.x + dir * 14),
+              y: String(first.y - 42),
+              "text-anchor": dir > 0 ? "start" : "end",
+              class: "sg-tl-tcap sg-tl-tcap-sm",
               fill: th.color
             });
-            cap.textContent = `\u21B3 ${th.label}`;
+            cap.textContent = `${th.branch ? "\u21B3 " : ""}${th.label}`;
           }
         }
         const visibleIds = new Set(events.map((e) => e.id));
         for (const [a, b] of NARRATIVE_LINKS) {
           if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
           const pa = pos.get(a), pb = pos.get(b);
-          const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
+          const bow = (W / 2 - (pa.x + pb.x) / 2) * 0.9 + W / 2;
           el("path", {
             d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
             class: "sg-tl-arc"
@@ -8066,7 +8134,7 @@ ${body}
           for (let i = 1; i < hits.length; i++) {
             const pa = pos.get(hits[i - 1].id), pb = pos.get(hits[i].id);
             el("path", {
-              d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+              d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 40} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
               class: "sg-tl-spot"
             });
           }
@@ -8074,14 +8142,20 @@ ${body}
       }
       for (const e of events) {
         const p = pos.get(e.id);
-        const r = e.imp === 1 ? 15 : e.imp === 2 ? 10 : 7;
+        const r = e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5;
         const braided = onThread(e);
         const color = (braided && e.thread ? threadById.get(e.thread)?.color : void 0) ?? LANE_COLOR[e.lane];
         const g = el("g", { class: "sg-tl-node", "data-id": e.id });
         el("circle", {
           cx: String(p.x),
           cy: String(p.y),
-          r: String(r + 9),
+          r: "24",
+          class: "sg-tl-hit"
+        }, g);
+        el("circle", {
+          cx: String(p.x),
+          cy: String(p.y),
+          r: String(r + 7),
           fill: color,
           class: "sg-tl-halo"
         }, g);
@@ -8094,29 +8168,34 @@ ${body}
           class: "sg-tl-dot"
         }, g);
         el("circle", {
-          cx: String(p.x - r * 0.32),
-          cy: String(p.y - r * 0.32),
-          r: String(Math.max(1.6, r * 0.3)),
+          cx: String(p.x - r * 0.3),
+          cy: String(p.y - r * 0.3),
+          r: String(Math.max(1.1, r * 0.28)),
           class: "sg-tl-glint"
         }, g);
-        const max = braided ? 22 : 30;
-        const label = e.t.length > max ? `${e.t.slice(0, max - 2)}\u2026` : e.t;
-        const lx = braided ? Math.min(Math.max(p.x, 110), 890) : Math.min(Math.max(p.x, 150), 850);
-        const cls = braided ? "sg-tl-label sg-tl-label-sm" : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label";
+        const dir = dirFor(e);
+        const tx0 = p.x + dir * (r + 12);
+        const avail = dir > 0 ? W - 16 - tx0 : tx0 - 16;
+        const per = e.imp === 1 && !braided ? 8.4 : 7.1;
+        const maxCh = Math.max(10, Math.floor(avail / per));
+        const label = e.t.length > maxCh ? `${e.t.slice(0, maxCh - 1)}\u2026` : e.t;
+        const cls = braided ? "sg-tl-label sg-tl-label-sm" : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : e.imp === 3 ? "sg-tl-label sg-tl-label-sm" : "sg-tl-label";
+        const anchor = dir > 0 ? "start" : "end";
         const t1 = el("text", {
-          x: String(lx),
-          y: String(p.y + r + (braided ? 22 : 26)),
-          "text-anchor": "middle",
+          x: String(tx0),
+          y: String(p.y - 2),
+          "text-anchor": anchor,
           class: cls
         }, g);
         t1.textContent = label;
         const t2 = el("text", {
-          x: String(lx),
-          y: String(p.y + r + (braided ? 42 : 50)),
-          "text-anchor": "middle",
-          class: "sg-tl-sublabel"
+          x: String(tx0),
+          y: String(p.y + 14),
+          "text-anchor": anchor,
+          class: "sg-tl-year",
+          fill: color
         }, g);
-        t2.textContent = yearStr(e.y0);
+        t2.textContent = `${yearStr(e.y0)} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
         g.onclick = () => this.selectNode(e, g);
       }
       stream.appendChild(svg);
@@ -8124,6 +8203,11 @@ ${body}
         if (evt.target.closest(".sg-tl-node")) return;
         this.clearDetail();
       });
+      if (this.pendingYear != null) {
+        const py = this.pendingYear;
+        this.pendingYear = null;
+        window.setTimeout(() => this.scrollToYear(py), 60);
+      }
     }
     detailEl = null;
     clearDetail() {
@@ -8165,10 +8249,10 @@ ${body}
       if (!stream) return;
       const hit = this.yByYear.find(([yr]) => yr >= y) ?? this.yByYear[this.yByYear.length - 1];
       if (!hit) return;
-      const scale = stream.clientWidth / W;
-      stream.scrollTo({ top: Math.max(0, hit[1] * scale - 70), behavior: "smooth" });
+      stream.scrollTo({ top: Math.max(0, hit[1] - 64), behavior: "smooth" });
     }
     async onClose() {
+      window.removeEventListener("resize", this.boundResize);
       this.contentEl.empty();
     }
     /** exposed for the picker: every subject with its appearance count */

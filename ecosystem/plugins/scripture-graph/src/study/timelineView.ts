@@ -62,7 +62,7 @@ const ERAS: { label: string; y: number }[] = [
   { label: "Exodus", y: -1446 },
   { label: "Kings", y: -1050 },
   { label: "Lehi & Exile", y: -605 },
-  { label: "Judges (BoM)", y: -130 },
+  { label: "Judges", y: -130 },
   { label: "Christ", y: -6 },
   { label: "Apostles", y: 34 },
   { label: "Cumorah", y: 320 },
@@ -101,8 +101,19 @@ const NARRATIVE_LINKS: [string, string][] = [
 const LANE_COLOR: Record<string, string> = {
   ow: "#d9a441", nw: "#4cc38a", rs: "#52a9ff",
 };
-const LANE_X: Record<string, number> = { ow: 300, nw: 700, rs: 500 };
-const W = 1000;
+const LANE_NAME: Record<string, string> = {
+  ow: "🌍 Old World", nw: "🌎 Book of Mormon", rs: "🌅 Restoration",
+};
+/** rails as FRACTIONS of the real container width — the layout is computed
+ * in device pixels so text renders at true size on every screen (a scaled
+ * viewBox shrank phone labels to ~40% and made the whole view feel old) */
+const LANE_F: Record<string, number> = { ow: 0.13, nw: 0.87, rs: 0.5 };
+/** which way a rail's text flows: toward the open middle, git-graph style */
+const LANE_DIR: Record<string, 1 | -1> = { ow: 1, nw: -1, rs: 1 };
+/** storyline columns, per lane, consumed in dataset order */
+const THREAD_F: Record<string, number[]> = {
+  ow: [0.27, 0.35], nw: [0.7, 0.62, 0.75, 0.55], rs: [0.4, 0.6],
+};
 
 function yearStr(y: number): string {
   return y < 0 ? `${-y} BC` : `AD ${y}`;
@@ -131,6 +142,16 @@ export class TimelineView extends ItemView {
   private focus: Subject | null = null;
   private pendingYear: number | null = null;
   private streamEl: HTMLElement | null = null;
+  private showLenses = false;     // category row folded away by default
+  private showSearch = false;     // search folded away by default
+  private lastW = 0;
+  private retriedZeroWidth = false;
+  /** Obsidian calls this on pane resize; the window listener covers rotation */
+  onResize(): void {
+    const w = this.streamEl?.clientWidth ?? 0;
+    if (w > 80 && Math.abs(w - this.lastW) > 24) this.renderStream();
+  }
+  private boundResize = () => this.onResize();
 
   /** enter/leave focus mode: the constellation becomes ONE subject's thread */
   setFocus(subject: Subject | null): void {
@@ -165,6 +186,8 @@ export class TimelineView extends ItemView {
     this.contentEl.addClass("sg-tl");
     this.data = await loadTimelineData(this.s.app);
     this.render();
+    // rotation / pane resize re-lays the constellation out at true pixels
+    window.addEventListener("resize", this.boundResize);
     // the dataset may land AFTER this view opens (engine build finishing,
     // or Obsidian Sync delivering) — notice its arrival and come alive
     const vault = this.s.app.vault;
@@ -264,7 +287,7 @@ export class TimelineView extends ItemView {
       return;
     }
 
-    // ---- filter bar -----------------------------------------------------
+    // ---- filter bar: two thin rows, everything else folds away ----------
     const bar = c.createDiv({ cls: "sg-tl-bar" });
     const eras = bar.createDiv({ cls: "sg-tl-eras" });
     for (const era of ERAS) {
@@ -293,82 +316,97 @@ export class TimelineView extends ItemView {
         };
       }
     }
-    const laneDefs: [string, string][] = [["ow", "🌍 Old World"],
-      ["nw", "🌎 Book of Mormon"], ["rs", "🌅 Restoration"]];
-    for (const [key, label] of laneDefs) {
-      const b = row2.createEl("button", { cls: "sg-tl-chip", text: label });
+    // the three worlds as colored dot toggles — they double as the legend
+    for (const key of ["ow", "rs", "nw"]) {
+      const b = row2.createEl("button", {
+        cls: "sg-tl-world", text: LANE_NAME[key]!.slice(0, 2),
+      });
+      b.setAttr("aria-label", LANE_NAME[key]!.slice(3));
+      b.style.setProperty("--sg-lane", LANE_COLOR[key]!);
       b.toggleClass("sg-tl-on", this.lanes.has(key));
       b.onclick = () => {
         if (this.lanes.has(key)) this.lanes.delete(key); else this.lanes.add(key);
         this.render();
       };
     }
-    const detail = row2.createEl("button", {
-      cls: "sg-tl-chip sg-tl-detail",
-      text: this.detail ? "🔎 All detail" : "⭐ Major events",
-    });
-    detail.toggleClass("sg-tl-on", true);
-    detail.onclick = () => { this.detail = !this.detail; this.render(); };
-    const focusBtn = row2.createEl("button", { cls: "sg-tl-chip", text: "🎯 Focus…" });
-    focusBtn.toggleClass("sg-tl-on", true);
-    focusBtn.onclick = () => new SubjectPickerModal(this.s, this,
-      (sub) => this.setFocus(sub)).open();
-
-    const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
-    for (const cat of CATS) {
-      const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
-      b.toggleClass("sg-tl-on", this.cats.has(cat.key));
-      b.onclick = () => {
-        // tapping the ONLY active category restores all — a quick solo/reset
-        if (this.cats.has(cat.key) && this.cats.size === 1) {
-          this.cats = new Set(CATS.map(x => x.key));
-        } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
-          this.cats = new Set([cat.key]);       // first tap = solo this lens
-        } else if (this.cats.has(cat.key)) {
-          this.cats.delete(cat.key);
-        } else {
-          this.cats.add(cat.key);
-        }
+    const iconChip = (text: string, hint: string, on: boolean,
+      click: () => void) => {
+      const b = row2.createEl("button", { cls: "sg-tl-tool", text });
+      b.setAttr("aria-label", hint);
+      b.toggleClass("sg-tl-on", on);
+      b.onclick = click;
+      return b;
+    };
+    iconChip(this.detail ? "🔎 All" : "⭐ Major", "How much detail",
+      this.detail, () => { this.detail = !this.detail; this.render(); });
+    iconChip("🎯", "Focus on a person, place, or thing", false,
+      () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open());
+    const filtered = this.cats.size < CATS.length;
+    iconChip(filtered ? `⚗ ${this.cats.size}` : "⚗", "Story lenses",
+      this.showLenses || filtered,
+      () => { this.showLenses = !this.showLenses; this.render(); });
+    iconChip("🔍", "Search the ages", this.showSearch || !!this.query,
+      () => {
+        this.showSearch = !this.showSearch;
+        if (!this.showSearch) { this.query = ""; }
         this.render();
-      };
+      });
+
+    if (this.showLenses) {
+      const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
+      for (const cat of CATS) {
+        const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
+        b.toggleClass("sg-tl-on", this.cats.has(cat.key));
+        b.onclick = () => {
+          // tapping the ONLY active category restores all — quick solo/reset
+          if (this.cats.has(cat.key) && this.cats.size === 1) {
+            this.cats = new Set(CATS.map(x => x.key));
+          } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
+            this.cats = new Set([cat.key]);     // first tap = solo this lens
+          } else if (this.cats.has(cat.key)) {
+            this.cats.delete(cat.key);
+          } else {
+            this.cats.add(cat.key);
+          }
+          this.render();
+        };
+      }
     }
-    const search = bar.createEl("input", {
-      cls: "sg-tl-search",
-      attr: { type: "search", placeholder: "Find a person, place, or event…" },
-    });
-    search.value = this.query;
-    search.oninput = () => { this.query = search.value; this.renderStream(); };
+    if (this.showSearch || this.query) {
+      const search = bar.createEl("input", {
+        cls: "sg-tl-search",
+        attr: { type: "search", placeholder: "Find a person, place, or event…" },
+      });
+      search.value = this.query;
+      search.oninput = () => { this.query = search.value; this.renderStream(); };
+      if (this.showSearch && !this.query) {
+        window.setTimeout(() => search.focus(), 60);
+      }
+    }
 
     // ---- the stream -----------------------------------------------------
     this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
     this.renderStream();
-    if (this.pendingYear != null) {
-      const y = this.pendingYear;
-      this.pendingYear = null;
-      window.setTimeout(() => this.scrollToYear(y), 60);
-    }
   }
 
   private yById = new Map<string, number>();
-  private yByYear: [number, number][] = [];   // [year, yUnits]
+  private yByYear: [number, number][] = [];   // [year, yPx]
 
   /** at depth 2 every storyline earns its own column beside its lane —
    * assigned per lane in dataset order, so new threads slot in on their own */
-  private threadX(): Map<string, number> {
+  private threadX(W: number): Map<string, number> {
     const m = new Map<string, number>();
-    const slots: Record<string, number[]> = {
-      ow: [160, 105], nw: [845, 915, 775, 950], rs: [590, 640],
-    };
     const used: Record<string, number> = { ow: 0, nw: 0, rs: 0 };
     for (const t of this.data?.threads ?? []) {
-      const lane = slots[t.lane] ?? slots.nw!;
-      m.set(t.id, lane[Math.min(used[t.lane]!++, lane.length - 1)]!);
+      const lane = THREAD_F[t.lane] ?? THREAD_F.nw!;
+      m.set(t.id, W * lane[Math.min(used[t.lane]!++, lane.length - 1)]!);
     }
     return m;
   }
 
-  /** the constellation: glowing nodes on braided threads of time, narrative
-   * links arcing between the hemispheres — the graph view, given order */
+  /** the constellation, laid out in true device pixels: luminous rails with
+   * crisp text beside them (git-graph idiom — the open middle belongs to the
+   * words), storyline braids at depth 2, narrative arcs between hemispheres */
   private renderStream(): void {
     const stream = this.streamEl;
     if (!stream) return;
@@ -382,48 +420,54 @@ export class TimelineView extends ItemView {
       return;
     }
 
-    // sticky legend: the three worlds stay named while you scroll the ages
-    if (!this.focus) {
-      const legend = stream.createDiv({ cls: "sg-tl-legend" });
-      const legendDefs: [string, string][] = [["ow", "Old World"],
-        ["rs", "Restoration"], ["nw", "Book of Mormon"]];
-      for (const [key, label] of legendDefs) {
-        if (!this.lanes.has(key)) continue;
-        const it = legend.createSpan({ cls: "sg-tl-legend-item", text: label });
-        it.style.setProperty("--sg-lane", LANE_COLOR[key]!);
+    // measure the real width; if we rendered before layout, try once more
+    let W = stream.clientWidth;
+    if (W < 80) {
+      W = 420;
+      if (!this.retriedZeroWidth) {
+        this.retriedZeroWidth = true;
+        window.requestAnimationFrame(() => {
+          if ((this.streamEl?.clientWidth ?? 0) > 80) this.renderStream();
+        });
       }
     }
+    this.lastW = W;
 
-    const tx = (!this.focus && this.depth === 2) ? this.threadX() : new Map<string, number>();
+    const tx = (!this.focus && this.depth === 2) ? this.threadX(W) : new Map<string, number>();
     const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
+    const laneX = (lane: string) => W * (LANE_F[lane] ?? 0.5);
     const xFor = (e: TimelineEvent) =>
-      (e.thread ? tx.get(e.thread) : undefined) ?? LANE_X[e.lane] ?? 500;
+      (e.thread ? tx.get(e.thread) : undefined) ?? laneX(e.lane);
     const onThread = (e: TimelineEvent) => !!e.thread && tx.has(e.thread);
+    const dirFor = (e: TimelineEvent): 1 | -1 => LANE_DIR[e.lane] ?? 1;
 
-    // ---- layout: rank-spaced down the page, extra breath at century turns
-    const ROW = 92, CENTURY_GAP = 74, TOP = 60, BOTTOM = 140;
+    // ---- layout: rank-spaced down the page, extra breath at century and
+    // era turns — real pixels, no scaling anywhere
+    const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 30, BOTTOM = 120;
     let y = TOP;
     let lastCentury: number | null = null;
     const centuries: { y: number; label: string; page: string; year: number }[] = [];
-    const eraBands: { label: string; yTop: number }[] = [];
+    const eraBands: { label: string; yTop: number; wmY: number }[] = [];
     let lastEra: string | null = null;
     const pos = new Map<string, { x: number; y: number; e: TimelineEvent }>();
     for (const e of events) {
       const century = e.y0 < 0
         ? -Math.ceil((-e.y0) / 100) * 100
         : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
+      const era = [...ERAS].reverse().find(er => er.y <= e.y0);
+      const eraTurn = !!era && era.label !== lastEra;
+      if (eraTurn) {
+        lastEra = era!.label;
+        y += ERA_GAP;
+        eraBands.push({ label: era!.label, yTop: y - ERA_GAP + 6, wmY: y - 14 });
+      }
       if (century !== lastCentury) {
         lastCentury = century;
         y += CENTURY_GAP;
         const page = e.y0 < 0 ? `${-century}-${-(century + 99)} BC`
           : `AD ${century}-${century + 99}`;
-        centuries.push({ y: y - 34, label: page.replace("-", "–"), page, year: century });
-        this.yByYear.push([century, y - 34]);
-      }
-      const era = [...ERAS].reverse().find(er => er.y <= e.y0);
-      if (era && era.label !== lastEra) {
-        lastEra = era.label;
-        eraBands.push({ label: era.label, yTop: y - CENTURY_GAP + 8 });
+        centuries.push({ y: y - 26, label: page.replace("-", "–"), page, year: century });
+        this.yByYear.push([century, y - 26]);
       }
       pos.set(e.id, { x: xFor(e), y, e });
       this.yById.set(e.id, y);
@@ -434,7 +478,8 @@ export class TimelineView extends ItemView {
     const NS = "http://www.w3.org/2000/svg";
     const svg = document.createElementNS(NS, "svg");
     svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
-    svg.setAttribute("preserveAspectRatio", "xMidYMin meet");
+    svg.setAttribute("width", String(W));
+    svg.setAttribute("height", String(H));
     svg.classList.add("sg-tl-svg");
     const el = (tag: string, attrs: Record<string, string>, parent: Element = svg) => {
       const n = document.createElementNS(NS, tag);
@@ -446,13 +491,12 @@ export class TimelineView extends ItemView {
     // soft glow filter, once
     const defs = el("defs", {});
     const filt = el("filter", { id: "sgtlglow", x: "-80%", y: "-80%", width: "260%", height: "260%" }, defs);
-    el("feGaussianBlur", { stdDeviation: "7", result: "b" }, filt);
+    el("feGaussianBlur", { stdDeviation: "4", result: "b" }, filt);
     const merge = el("feMerge", {}, filt);
     el("feMergeNode", { in: "b" }, merge);
     el("feMergeNode", { in: "SourceGraphic" }, merge);
 
-    // ---- era washes: faint alternating bands with huge watermark names,
-    // so a fast scroll still tells you WHEN you are
+    // ---- era washes: faint alternating bands, a huge quiet name at each turn
     for (let i = 0; i < eraBands.length; i++) {
       const band = eraBands[i]!;
       const yEnd = eraBands[i + 1]?.yTop ?? H;
@@ -462,21 +506,22 @@ export class TimelineView extends ItemView {
           height: String(yEnd - band.yTop), class: "sg-tl-band",
         });
       }
+      // size the watermark to FIT the width, long names included
+      const fs = Math.min(
+        Math.round(W * 0.085), 64,
+        Math.round(W / (band.label.length * 0.78)));
       const wm = el("text", {
-        x: "500", y: String(band.yTop + 96), "text-anchor": "middle",
-        class: "sg-tl-erawash",
+        x: String(W / 2), y: String(band.wmY), "text-anchor": "middle",
+        class: "sg-tl-erawash", style: `font-size: ${fs}px`,
       });
       wm.textContent = band.label.toUpperCase();
     }
 
-    // ---- century lines (tappable → anchor page sheet)
+    // ---- century marks: a small centered tag in the gap (tap → anchor page)
     for (const c of centuries) {
-      el("line", {
-        x1: "70", x2: String(W - 70), y1: String(c.y), y2: String(c.y),
-        class: "sg-tl-cline",
-      });
       const t = el("text", {
-        x: "78", y: String(c.y - 10), class: "sg-tl-clabel",
+        x: String(W / 2), y: String(c.y), "text-anchor": "middle",
+        class: "sg-tl-century",
       });
       t.textContent = c.label;
       (t as unknown as SVGElement & { onclick: unknown }).onclick = () => {
@@ -484,39 +529,49 @@ export class TimelineView extends ItemView {
       };
     }
 
-    if (this.focus) {
-      // ---- focus mode: ONE bright thread stitches the subject's whole
-      // journey, crossing hemispheres wherever the subject did
+    const chainPath = (chain: { x: number; y: number }[]): string => {
       let d = "";
-      for (let i = 0; i < events.length; i++) {
-        const p = pos.get(events[i]!.id)!;
+      for (let i = 0; i < chain.length; i++) {
+        const p = chain[i]!;
         if (i === 0) { d = `M ${p.x} ${p.y}`; continue; }
-        const prev = pos.get(events[i - 1]!.id)!;
+        const prev = chain[i - 1]!;
         const midY = (prev.y + p.y) / 2;
         d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
       }
-      if (events.length > 1) el("path", { d, class: "sg-tl-focus-thread" });
-    } else {
-      const chainPath = (chain: { x: number; y: number }[]): string => {
-        let d = "";
-        for (let i = 0; i < chain.length; i++) {
-          const p = chain[i]!;
-          if (i === 0) { d = `M ${p.x} ${p.y}`; continue; }
-          const prev = chain[i - 1]!;
-          const midY = (prev.y + p.y) / 2;
-          d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
-        }
-        return d;
-      };
+      return d;
+    };
+    // a rail is two strokes: a wide soft light and a thin bright core
+    const rail = (d: string, color: string, core: number, coreCls: string) => {
+      el("path", { d, class: "sg-tl-railglow", stroke: color,
+        "stroke-width": String(core * 3.2) });
+      el("path", { d, class: coreCls, stroke: color,
+        "stroke-width": String(core) });
+    };
 
-      // ---- the threads of time: one luminous line per lane; at depth 2
+    if (this.focus) {
+      // ---- focus mode: ONE bright thread stitches the subject's whole
+      // journey, crossing hemispheres wherever the subject did
+      const chain = events.map(e => pos.get(e.id)!);
+      if (chain.length > 1) el("path", { d: chainPath(chain), class: "sg-tl-focus-thread" });
+    } else {
+      // ---- the rails of time: one luminous line per world; at depth 2
       // storyline events step OUT of the main line into their own braid
       for (const lane of ["ow", "nw", "rs"]) {
-        const chain = events
-          .filter(e => e.lane === lane && !onThread(e))
-          .map(e => pos.get(e.id)!);
-        if (chain.length < 2) continue;
-        el("path", { d: chainPath(chain), class: "sg-tl-thread", stroke: LANE_COLOR[lane]! });
+        const laneEvents = events.filter(e => e.lane === lane && !onThread(e));
+        const chain = laneEvents.map(e => pos.get(e.id)!);
+        if (chain.length >= 2) rail(chainPath(chain), LANE_COLOR[lane]!, 2, "sg-tl-thread");
+        // name the world where its story begins — high enough to clear the
+        // century tag that shares the row above the first node
+        if (laneEvents.length) {
+          const first = pos.get(laneEvents[0]!.id)!;
+          const dir = LANE_DIR[lane] ?? 1;
+          const cap = el("text", {
+            x: String(first.x + dir * 16), y: String(first.y - 46),
+            "text-anchor": dir > 0 ? "start" : "end",
+            class: "sg-tl-tcap", fill: LANE_COLOR[lane]!,
+          });
+          cap.textContent = LANE_NAME[lane]!;
+        }
       }
 
       // ---- storyline braids: each concurrent narrative gets its own line,
@@ -527,38 +582,38 @@ export class TimelineView extends ItemView {
           const members = events.filter(e => e.thread === th.id);
           if (!members.length) continue;
           const chain = members.map(e => pos.get(e.id)!);
-          if (chain.length > 1) {
-            el("path", { d: chainPath(chain), class: "sg-tl-thread2", stroke: th.color });
-          }
+          if (chain.length > 1) rail(chainPath(chain), th.color, 1.6, "sg-tl-thread2");
           const first = chain[0]!, last = chain[chain.length - 1]!;
-          // split: from the branch event if it's on screen, else out of the lane
-          const from = (th.branch ? pos.get(th.branch) : undefined)
-            ?? { x: LANE_X[th.lane] ?? 500, y: first.y - 64 };
-          const midA = (from.y + first.y) / 2;
-          el("path", {
-            d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
-            class: "sg-tl-branch", stroke: th.color,
-          });
+          // split: only for storylines that really branched off another —
+          // a standalone people (the Jaredites) simply begins
+          if (th.branch) {
+            const from = pos.get(th.branch)
+              ?? { x: laneX(th.lane), y: first.y - 56 };
+            const midA = (from.y + first.y) / 2;
+            el("path", {
+              d: `M ${from.x} ${from.y} C ${from.x} ${midA}, ${first.x} ${midA}, ${first.x} ${first.y}`,
+              class: "sg-tl-branch", stroke: th.color,
+            });
+          }
           // rejoin: back to the next mainline event of this lane
           if (th.merges) {
             const back = events.find(e => e.lane === th.lane && !onThread(e)
               && (pos.get(e.id)?.y ?? 0) > last.y);
-            const to = back ? pos.get(back.id)! : { x: LANE_X[th.lane] ?? 500, y: last.y + 64 };
+            const to = back ? pos.get(back.id)! : { x: laneX(th.lane), y: last.y + 56 };
             const midB = (last.y + to.y) / 2;
             el("path", {
               d: `M ${last.x} ${last.y} C ${last.x} ${midB}, ${to.x} ${midB}, ${to.x} ${to.y}`,
               class: "sg-tl-branch", stroke: th.color,
             });
           }
-          // name the storyline where it begins
-          const capRight = first.x >= 500;
+          // name the storyline where it begins, clear of the century tag row
+          const dir = LANE_DIR[th.lane] ?? 1;
           const cap = el("text", {
-            x: String(first.x + (capRight ? -20 : 20)),
-            y: String(first.y - 22),
-            "text-anchor": capRight ? "end" : "start",
-            class: "sg-tl-tcap", fill: th.color,
+            x: String(first.x + dir * 14), y: String(first.y - 42),
+            "text-anchor": dir > 0 ? "start" : "end",
+            class: "sg-tl-tcap sg-tl-tcap-sm", fill: th.color,
           });
-          cap.textContent = `↳ ${th.label}`;
+          cap.textContent = `${th.branch ? "↳ " : ""}${th.label}`;
         }
       }
 
@@ -567,7 +622,7 @@ export class TimelineView extends ItemView {
       for (const [a, b] of NARRATIVE_LINKS) {
         if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
         const pa = pos.get(a)!, pb = pos.get(b)!;
-        const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
+        const bow = (W / 2 - (pa.x + pb.x) / 2) * 0.9 + W / 2;
         el("path", {
           d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
           class: "sg-tl-arc",
@@ -582,24 +637,29 @@ export class TimelineView extends ItemView {
         for (let i = 1; i < hits.length; i++) {
           const pa = pos.get(hits[i - 1]!.id)!, pb = pos.get(hits[i]!.id)!;
           el("path", {
-            d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+            d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 40} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
             class: "sg-tl-spot",
           });
         }
       }
     }
 
-    // ---- nodes + labels
+    // ---- nodes + labels beside them, flowing toward the open middle
     for (const e of events) {
       const p = pos.get(e.id)!;
-      const r = e.imp === 1 ? 15 : e.imp === 2 ? 10 : 7;
+      const r = e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5;
       const braided = onThread(e);
       const color = (braided && e.thread ? threadById.get(e.thread)?.color : undefined)
         ?? LANE_COLOR[e.lane]!;
       const g = el("g", { class: "sg-tl-node", "data-id": e.id });
+      // a generous invisible target under everything — thumbs, not cursors
+      el("circle", {
+        cx: String(p.x), cy: String(p.y), r: "24",
+        class: "sg-tl-hit",
+      }, g);
       // halo → glowing core → a glint of light: stars, not dots
       el("circle", {
-        cx: String(p.x), cy: String(p.y), r: String(r + 9),
+        cx: String(p.x), cy: String(p.y), r: String(r + 7),
         fill: color, class: "sg-tl-halo",
       }, g);
       el("circle", {
@@ -608,28 +668,29 @@ export class TimelineView extends ItemView {
         class: "sg-tl-dot",
       }, g);
       el("circle", {
-        cx: String(p.x - r * 0.32), cy: String(p.y - r * 0.32),
-        r: String(Math.max(1.6, r * 0.3)), class: "sg-tl-glint",
+        cx: String(p.x - r * 0.3), cy: String(p.y - r * 0.3),
+        r: String(Math.max(1.1, r * 0.28)), class: "sg-tl-glint",
       }, g);
-      // labels hang below their node, centered — the graph view's own idiom;
-      // braided columns sit near the edge, so their labels shrink and clamp
-      const max = braided ? 22 : 30;
-      const label = e.t.length > max ? `${e.t.slice(0, max - 2)}…` : e.t;
-      const lx = braided
-        ? Math.min(Math.max(p.x, 110), 890)
-        : Math.min(Math.max(p.x, 150), 850);
+      // title + tinted year, crisp and beside the node
+      const dir = dirFor(e);
+      const tx0 = p.x + dir * (r + 12);
+      const avail = dir > 0 ? W - 16 - tx0 : tx0 - 16;
+      const per = e.imp === 1 && !braided ? 8.4 : 7.1;
+      const maxCh = Math.max(10, Math.floor(avail / per));
+      const label = e.t.length > maxCh ? `${e.t.slice(0, maxCh - 1)}…` : e.t;
       const cls = braided ? "sg-tl-label sg-tl-label-sm"
-        : e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label";
+        : e.imp === 1 ? "sg-tl-label sg-tl-label-big"
+          : e.imp === 3 ? "sg-tl-label sg-tl-label-sm" : "sg-tl-label";
+      const anchor = dir > 0 ? "start" : "end";
       const t1 = el("text", {
-        x: String(lx), y: String(p.y + r + (braided ? 22 : 26)),
-        "text-anchor": "middle", class: cls,
+        x: String(tx0), y: String(p.y - 2), "text-anchor": anchor, class: cls,
       }, g);
       t1.textContent = label;
       const t2 = el("text", {
-        x: String(lx), y: String(p.y + r + (braided ? 42 : 50)),
-        "text-anchor": "middle", class: "sg-tl-sublabel",
+        x: String(tx0), y: String(p.y + 14), "text-anchor": anchor,
+        class: "sg-tl-year", fill: color,
       }, g);
-      t2.textContent = yearStr(e.y0);
+      t2.textContent = `${yearStr(e.y0)} · ${DATING_SHORT[e.dating] ?? e.dating}`;
       (g as unknown as SVGElement & { onclick: unknown }).onclick = () => this.selectNode(e, g);
     }
 
@@ -640,6 +701,12 @@ export class TimelineView extends ItemView {
       if ((evt.target as Element).closest(".sg-tl-node")) return;
       this.clearDetail();
     });
+
+    if (this.pendingYear != null) {
+      const py = this.pendingYear;
+      this.pendingYear = null;
+      window.setTimeout(() => this.scrollToYear(py), 60);
+    }
   }
 
   private detailEl: HTMLElement | null = null;
@@ -687,11 +754,13 @@ export class TimelineView extends ItemView {
     if (!stream) return;
     const hit = this.yByYear.find(([yr]) => yr >= y) ?? this.yByYear[this.yByYear.length - 1];
     if (!hit) return;
-    const scale = stream.clientWidth / W;
-    stream.scrollTo({ top: Math.max(0, hit[1] * scale - 70), behavior: "smooth" });
+    stream.scrollTo({ top: Math.max(0, hit[1] - 64), behavior: "smooth" });
   }
 
-  async onClose(): Promise<void> { this.contentEl.empty(); }
+  async onClose(): Promise<void> {
+    window.removeEventListener("resize", this.boundResize);
+    this.contentEl.empty();
+  }
 
   /** exposed for the picker: every subject with its appearance count */
   subjectsOf(kind: SubjectKind): { name: string; n: number }[] {
