@@ -163,6 +163,8 @@ body[data-sg-scene="fields"] { --sg-ink: #f7ecd4; --sg-ink-strong: #fff8e6; --sg
 body[data-sg-scene="storm"] { --sg-ink: #dde6f0; --sg-ink-strong: #f0f5fc; --sg-ink-accent: #9fc2e8; }
 body[data-sg-scene="temple"] { --sg-ink: #f1e2c6; --sg-ink-strong: #fcf0d8; --sg-ink-accent: #ffce8a; }
 body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-ink-accent: #ffb996; }
+body[data-sg-scene="warcamp"] { --sg-ink: #ece2d2; --sg-ink-strong: #fff3e0; --sg-ink-accent: #ffb168; }
+body[data-sg-scene="prison"] { --sg-ink: #e4e2dc; --sg-ink-strong: #f5f2ea; --sg-ink-accent: #ffd9a0; }
 /* upgraded depth for the originals */
 .sg-scene-sunrise .sgl-5 {
   background-repeat: repeat-x; background-position: bottom; background-size: 130% 34%;
@@ -344,6 +346,67 @@ body[data-sg-scene="city"] { --sg-ink: #f0e2e0; --sg-ink-strong: #fbf2ef; --sg-i
 .sg-scene-waters .sgl-scrim {
   background: linear-gradient(180deg, rgba(4, 22, 33, 0.46) 0%,
     rgba(4, 22, 33, 0.30) 24%, rgba(4, 22, 33, 0.32) 76%, rgba(4, 22, 33, 0.50) 100%);
+}
+
+/* ── ⚔️ The War Camp: watchfires and banners at dusk ── */
+.sg-scene-warcamp .sgl-1 {
+  background: linear-gradient(180deg, #16121f 0%, #241a2a 32%, #3d2230 56%,
+    #6b3226 78%, #93481f 94%);
+  animation: sg-dusk 44s ease-in-out infinite alternate;
+}
+.sg-scene-warcamp .sgl-2 { /* far range against the last light */
+  background-repeat: repeat-x; background-position: bottom; background-size: 135% 38%;
+  animation: sg-parallax 140s linear infinite alternate;
+  opacity: 0.9;
+}
+.sg-scene-warcamp .sgl-3 { /* watchfires glowing between the tents */
+  background:
+    radial-gradient(9% 7% at 21% 86%, rgba(255, 168, 74, 0.34), transparent 100%),
+    radial-gradient(11% 8% at 52% 88%, rgba(255, 158, 66, 0.28), transparent 100%),
+    radial-gradient(8% 6% at 79% 86%, rgba(255, 172, 80, 0.30), transparent 100%);
+  animation: sg-flicker 5s ease-in-out infinite;
+}
+.sg-scene-warcamp .sgl-4 { /* the camp itself */
+  background-repeat: repeat-x; background-position: bottom; background-size: 115% 24%;
+}
+.sg-scene-warcamp .sgl-5 { /* the standard, lifted in the evening wind */
+  background-repeat: no-repeat; background-position: 94% 100%;
+  background-size: auto 30%;
+  transform-origin: 94% 100%;
+  animation: sg-banner-sway 8s ease-in-out infinite alternate;
+}
+@keyframes sg-banner-sway { from { transform: rotate(-1deg); } to { transform: rotate(1.2deg); } }
+.sg-scene-warcamp .sgl-scrim {
+  background: linear-gradient(180deg, rgba(14, 10, 20, 0.52) 0%,
+    rgba(14, 10, 20, 0.36) 24%, rgba(14, 10, 20, 0.38) 76%, rgba(14, 10, 20, 0.58) 100%);
+}
+
+/* ── ⛓️ The Prison: stone, chains off — one high shaft of light ── */
+.sg-scene-prison .sgl-1 {
+  background: radial-gradient(120% 100% at 50% 28%, #1d1c24 0%, #141319 50%, #0b0a0e 100%);
+}
+.sg-scene-prison .sgl-2 { /* coursework, barely there */
+  background-repeat: repeat; background-size: 460px 300px;
+  opacity: 0.5;
+}
+.sg-scene-prison .sgl-3 { /* the shaft — hope gets in */
+  background: linear-gradient(115deg, transparent 44%, rgba(255, 224, 168, 0.17) 54%,
+    rgba(255, 224, 168, 0.06) 66%, transparent 75%);
+  -webkit-mask-image: radial-gradient(95% 105% at 74% 4%, #000 0%, transparent 78%);
+  mask-image: radial-gradient(95% 105% at 74% 4%, #000 0%, transparent 78%);
+  animation: sg-halo 15s ease-in-out infinite alternate;
+}
+.sg-scene-prison .sgl-4 { /* the one window, high on the wall */
+  background-repeat: no-repeat; background-position: 76% 0;
+  background-size: auto 18%;
+}
+.sg-scene-prison .sgl-5 { /* where the light lands */
+  background: radial-gradient(26% 10% at 36% 88%, rgba(255, 222, 160, 0.12), transparent 80%);
+  animation: sg-halo 15s ease-in-out infinite alternate;
+}
+.sg-scene-prison .sgl-scrim {
+  background: linear-gradient(180deg, rgba(8, 8, 11, 0.54) 0%,
+    rgba(8, 8, 11, 0.36) 26%, rgba(8, 8, 11, 0.38) 76%, rgba(8, 8, 11, 0.58) 100%);
 }
 
 /* ── 🏜️ Desert Dusk: dunes under a burnt sky ── */

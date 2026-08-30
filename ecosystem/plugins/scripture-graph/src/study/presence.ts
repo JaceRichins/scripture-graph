@@ -142,6 +142,8 @@ export function voiceFor(slug: string): { v: Voice; chapterLine: string | null }
 // ------------------------------------------------------- scene matching
 
 const SCENE_KEYWORDS: [string, RegExp][] = [
+  ["warcamp", /\b(armies|army|battle|wars?|swords?|shields?|banners?|standard of|captains?|soldiers?|fight|slay|slain|smite|smitten|warriors?|chariots?|siege|fortif(y|ied|ications?)|encamp|spears?|title of liberty)/gi],
+  ["prison", /\b(prison(er|s)?|dungeon|chains?|jail|bound with|bonds|fetters|captive|cell|deliver(ed)? out of|liberty jail)/gi],
   ["storm", /\b(storm|tempest|whirlwind|thunder|lightning|billows?|tossed|waves)/gi],
   ["mount", /\b(mount(ain)?s?|sinai|horeb|hill of|high place|transfigur|summit)/gi],
   ["temple", /\b(temple|tabernacle|altar|sanctuary|holy place|priest|offering|veil)/gi],
@@ -171,13 +173,37 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   "3ne-1": "starlight", "3ne-12": "temple", "3ne-13": "temple", "3ne-14": "temple",
   "1ne-18": "storm", "ether-2": "mount", "ether-3": "mount", "ether-6": "storm",
   "hel-14": "city", "hel-16": "city", "alma-32": "fields", "alma-36": "sunrise",
-  "mosiah-2": "temple", "dc-121": "candle", "jsh-1": "sunrise",
+  "mosiah-2": "temple", "jsh-1": "sunrise",
+  // ⚔️ the war chapters — the whole Alma war block and the canon's battles
+  "alma-2": "warcamp", "alma-43": "warcamp", "alma-44": "warcamp",
+  "alma-45": "warcamp", "alma-46": "warcamp", "alma-47": "warcamp",
+  "alma-48": "warcamp", "alma-49": "warcamp", "alma-50": "warcamp",
+  "alma-51": "warcamp", "alma-52": "warcamp", "alma-53": "warcamp",
+  "alma-54": "warcamp", "alma-55": "warcamp", "alma-56": "warcamp",
+  "alma-57": "warcamp", "alma-58": "warcamp", "alma-59": "warcamp",
+  "alma-60": "warcamp", "alma-61": "warcamp", "alma-62": "warcamp",
+  "1sam-17": "warcamp", "2kgs-6": "warcamp",
+  "josh-6": "warcamp", "josh-8": "warcamp", "josh-10": "warcamp",
+  "josh-3": "waters", "josh-4": "waters",
+  "3ne-3": "warcamp", "3ne-4": "warcamp",
+  "ether-13": "warcamp", "ether-14": "warcamp", "ether-15": "warcamp",
+  "hel-1": "warcamp", "morm-8": "candle", "morm-9": "candle",
+  // ⛓️ the prison chapters — captivity, and the light that gets in
+  "gen-39": "prison", "gen-40": "prison",
+  "jer-37": "prison", "jer-38": "prison",
+  "dan-3": "prison", "dan-6": "prison",
+  "acts-12": "prison", "acts-16": "prison",
+  "alma-14": "prison", "hel-5": "prison",
+  "mosiah-21": "prison", "mosiah-24": "prison",
+  "ps-142": "prison",
+  "dc-121": "prison", "dc-122": "prison", "dc-123": "prison",
   // whole books
   "2tim": "candle", "eph": "candle", "philip": "candle", "col": "candle",
   "philem": "candle", "rev": "starlight", "abr": "starlight",
   "ex": "desert", "num": "desert", "deut": "desert",
   "ruth": "fields", "song": "garden", "lam": "city", "neh": "city",
   "hag": "temple", "lev": "temple",
+  "josh": "warcamp", "judg": "warcamp", "morm": "warcamp",
 };
 
 /** pick the ambient scene: curated override first, else the chapter's words */

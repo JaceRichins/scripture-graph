@@ -7045,6 +7045,8 @@ ${body}
     { id: "storm", name: "The Storm", emoji: "\u26C8\uFE0F", hours: [], layers: 7 },
     { id: "temple", name: "The Temple", emoji: "\u{1F3DB}\uFE0F", hours: [], layers: 5 },
     { id: "city", name: "The City", emoji: "\u{1F3D9}\uFE0F", hours: [[16, 20]], layers: 6 },
+    { id: "warcamp", name: "The War Camp", emoji: "\u2694\uFE0F", hours: [], layers: 5 },
+    { id: "prison", name: "The Prison", emoji: "\u26D3\uFE0F", hours: [], layers: 5 },
     { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [], layers: 6 },
     { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 5 },
     { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 4 }
@@ -7223,6 +7225,54 @@ ${body}
       true
     );
   }
+  function tents(seed, color) {
+    const rnd = lcg(seed);
+    let c = `<rect x='0' y='186' width='900' height='14' fill='${color}'/>`;
+    let x = -20;
+    let i = 0;
+    while (x < 900) {
+      const w = 64 + rnd() * 58;
+      const h = 42 + rnd() * 34;
+      c += `<path d='M${x.toFixed(0)} 188 L${(x + w / 2).toFixed(0)} ${(188 - h).toFixed(0)} L${(x + w).toFixed(0)} 188 Z' fill='${color}'/>`;
+      if (i % 3 === 2) {
+        const px = x + w + 6 + rnd() * 8;
+        const ph = 92 + rnd() * 30;
+        c += `<rect x='${px.toFixed(0)}' y='${(188 - ph).toFixed(0)}' width='3.4' height='${ph.toFixed(0)}' fill='${color}'/><path d='M${(px + 3).toFixed(0)} ${(188 - ph).toFixed(0)} l 26 7 l -26 8 Z' fill='${color}'/>`;
+      }
+      x += w + 14 + rnd() * 26;
+      i += 1;
+    }
+    return svgUrl(900, 200, c);
+  }
+  function banner(pole, cloth) {
+    return svgUrl(
+      300,
+      420,
+      `<rect x='146' y='36' width='7' height='384' rx='3' fill='${pole}'/><circle cx='149' cy='32' r='7' fill='${pole}'/><path d='M154 44 Q 220 30 290 52 Q 252 74 214 78 Q 254 92 284 112 Q 214 118 154 104 Z' fill='${cloth}'/>`,
+      true
+    );
+  }
+  function stones(seed, color) {
+    const rnd = lcg(seed);
+    let c = "";
+    for (let y = 0; y <= 600; y += 52) {
+      const jy = y + (rnd() - 0.5) * 5;
+      c += `<path d='M0 ${jy.toFixed(0)} L900 ${(jy + (rnd() - 0.5) * 7).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.55'/>`;
+      const off = rnd() * 90;
+      for (let x = off; x < 900; x += 105 + rnd() * 60) {
+        c += `<path d='M${x.toFixed(0)} ${jy.toFixed(0)} L${(x + (rnd() - 0.5) * 6).toFixed(0)} ${(jy + 52).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.4'/>`;
+      }
+    }
+    return svgUrl(900, 600, c);
+  }
+  function cellWindow(bar2, glow) {
+    return svgUrl(
+      200,
+      250,
+      `<defs><radialGradient id='wg' cx='0.5' cy='0.45' r='0.75'><stop offset='0%' stop-color='${glow}' stop-opacity='0.95'/><stop offset='60%' stop-color='${glow}' stop-opacity='0.35'/><stop offset='100%' stop-color='${glow}' stop-opacity='0'/></radialGradient></defs><path d='M40 250 L40 96 Q 100 30 160 96 L160 250 Z' fill='url(#wg)'/><rect x='62' y='64' width='9' height='186' fill='${bar2}'/><rect x='96' y='46' width='9' height='204' fill='${bar2}'/><rect x='130' y='64' width='9' height='186' fill='${bar2}'/><rect x='30' y='240' width='140' height='10' fill='${bar2}'/>`,
+      true
+    );
+  }
   function particles(el, cls, n, seed, style) {
     const rnd = lcg(seed);
     for (let i = 0; i < n; i++) style(rnd, el.createDiv({ cls: `sgp ${cls}` }), i);
@@ -7274,6 +7324,37 @@ ${body}
         this.bg(el, 4, galaxy(67));
         el.createDiv({ cls: "sgp sg-shoot sg-shoot-a" });
         el.createDiv({ cls: "sgp sg-shoot sg-shoot-b" });
+      }
+      if (id === "warcamp") {
+        this.bg(el, 2, ridge(83, "#120e1a", 120, 30));
+        this.bg(el, 4, tents(91, "#0c0912"));
+        this.bg(el, 5, banner("#0a0810", "#8a2f2a"));
+        particles(el, "sg-ember", 9, 157, (rnd, p) => {
+          const fire = [21, 52, 79][Math.floor(rnd() * 3)];
+          p.style.left = `${fire + (rnd() - 0.5) * 7}%`;
+          p.style.bottom = "9%";
+          p.style.animationDuration = `${6 + rnd() * 6}s`;
+          p.style.animationDelay = `${-rnd() * 10}s`;
+          p.style.width = p.style.height = `${1.5 + rnd() * 2.5}px`;
+        });
+        particles(el, "sg-incense", 3, 163, (rnd, p) => {
+          p.style.left = `${[20, 51, 78][Math.floor(rnd() * 3)] + (rnd() - 0.5) * 4}%`;
+          p.style.bottom = "12%";
+          p.style.animationDuration = `${15 + rnd() * 10}s`;
+          p.style.animationDelay = `${-rnd() * 18}s`;
+        });
+      }
+      if (id === "prison") {
+        this.bg(el, 2, stones(43, "#25242c"));
+        this.bg(el, 4, cellWindow("#08070b", "#ffe3ac"));
+        particles(el, "sg-mote", 6, 173, (rnd, p) => {
+          const t = rnd();
+          p.style.left = `${74 - 38 * t + (rnd() - 0.5) * 6}%`;
+          p.style.top = `${8 + 78 * t + (rnd() - 0.5) * 5}%`;
+          p.style.bottom = "auto";
+          p.style.animationDuration = `${10 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+          p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+        });
       }
       if (id === "desert") {
         this.bg(el, 2, hills("#2a1c2e", 30, -12));
