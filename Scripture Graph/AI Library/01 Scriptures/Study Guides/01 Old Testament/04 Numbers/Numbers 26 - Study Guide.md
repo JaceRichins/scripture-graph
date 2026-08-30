@@ -78,15 +78,18 @@ Scripture: [[Numbers 26]] · My notes: [[Numbers 26 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Law of Moses]]
+- [[Government and Laws]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-Within the narrative, the closing verses present the disappearance of the formerly numbered men as fulfillment of an announced judgment. The claim is limited to that census cohort and should not be expanded to every person who left Egypt.
+The chapter represents the land as an inheritance administered among tribes and families. Larger and smaller populations are to receive correspondingly larger and smaller portions, and allotment is also made by lot. The passage does not specify exactly how these principles were coordinated, so detailed reconstructions should remain tentative. These provisions are relevant to [[Family]] and the [[Law of Moses]].
 
-The land is treated as an inheritance administered through tribes and families. Population affects the relative size of allotments, and lots participate in distribution, but the chapter does not explain the lot's mechanism or explicitly contrast divine control with human preference. The survival of Korah's children also shows that the genealogy distinguishes descendants from those destroyed in the rebellion; it does not by itself formulate a complete doctrine of intergenerational responsibility. These features are relevant to [[Family]] and the [[Law of Moses]].
+The closing verses interpret the disappearance of the formerly numbered men as fulfillment of an announced judgment. The wording is limited to the earlier census cohort; it should not be expanded without qualification to every person who participated in the [[Exodus and Deliverance]].
+
+The survival of Korah's children distinguishes descendants from the rebels who died. This detail may contribute to reflection on responsibility and mercy, but the chapter does not turn it into a complete doctrine of intergenerational accountability.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -106,9 +109,9 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The long census list is interrupted by selected narrative notices: Dathan and Abiram's rebellion, the survival of Korah's children, the deaths of Er and Onan, Zelophehad's five daughters, and the deaths of Nadab and Abihu. These notices make the chapter a selective record of continuity, loss, and exceptional family circumstances rather than merely a table of totals.
+The repeated family formulas give the chapter the form of an administrative genealogy, but selected narrative notices prevent it from functioning as a bare table. The text recalls Dathan and Abiram's rebellion, preserves the survival of Korah's children, notes the deaths of Er and Onan, names Zelophehad's daughters and Sarah, and recalls the deaths of Nadab and Abihu. These interruptions highlight loss, survival, and exceptional family circumstances.
 
-The closing comparison with [[Numbers 1]] gives the chapter a narrative conclusion: the men belonging to the former census have disappeared except Caleb and Joshua, and a newly counted cohort stands ready to receive land. The notice about Zelophehad's daughters forms a clear canonical bridge to [[Numbers 27]] and [[Numbers 36]], without settling whether it prospectively anticipated those accounts or reflects later editorial coordination.
+The comparison with [[Numbers 1]] provides narrative closure to the wilderness period: the former military census cohort is gone, and another counted population stands ready for inheritance. The daughters of Zelophehad create a particularly clear bridge to [[Numbers 27]] and [[Numbers 36]]. That canonical relationship is secure, although the chapter alone cannot determine the stages by which these materials were composed or arranged.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -121,6 +124,10 @@ The closing comparison with [[Numbers 1]] gives the chapter a narrative conclusi
 > Benjamin in this chapter is the ancestral figure associated with the tribe and its families, not King Benjamin from the Book of Mormon; identifying the occurrence as King Benjamin would be an entity-resolution error.
 > — strength 1.0 · confidence 1.0 · Context decisively resolves the entity
 
+> [!evidence] Internal Narrative Correspondence
+> Within the narrative's own framework, the absence of the formerly numbered men except Caleb and Joshua is strong evidence that the announced wilderness judgment has reached fulfillment for that census cohort.
+> — strength 0.8 · confidence 0.9 · broadly accepted
+
 > [!evidence] Internal Numerical Coherence
 > The exact agreement between the tribal subtotals and the aggregate of 601,730 is strong evidence that the numbers are deliberately coordinated in the chapter's present literary form.
 > — strength 0.9 · confidence 1.0 · Strong for present-form coordination only · [[Internal Numerical Coherence in Numbers 26|full dossier]]
@@ -129,9 +136,9 @@ The closing comparison with [[Numbers 1]] gives the chapter a narrative conclusi
 > Within Numbers' own narrative, the absence of the previously numbered men except Caleb and Joshua provides strong literary evidence that the announced wilderness judgment has reached fulfillment by the time of the Moab census.
 > — strength 0.9 · confidence 1.0 · Strong internal narrative correspondence · [[Internal Narrative Correspondence in Numbers 26|full dossier]]
 
-> [!evidence] Narrative Juxtaposition And Demographic Comparison *(tentative)*
-> Simeon's count falls from 59,300 at Sinai to 22,200 after the plague, a decrease of 37,100 and by far the largest tribal decline. Because Zimri, killed during the preceding apostasy, was a Simeonite leader, the data modestly support the possibility that Simeon was disproportionately affected by that crisis.
-> — strength 0.4 · confidence 0.7 · Certain arithmetic; disputed causal interpretation
+> [!evidence] Historical-Demographic Problem *(tentative)*
+> The reported census totals (601,730 fighting-age men plus 23,000 Levite males) imply a total Israelite population commonly estimated in the low millions if read as ordinary decimal numbers — a scale scholars have long debated as difficult to reconcile with a Sinai-wilderness setting able to sustain such a population; this is a text-critical/historical question the chapter's numbers raise but do not resolve.
+> — strength 0.3 · confidence 0.5 · genuinely disputed among scholars, no sources cited here
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -146,5 +153,5 @@ The closing comparison with [[Numbers 1]] gives the chapter a narrative conclusi
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the eligibility rules, totals, leadership, and setting with [[Numbers 1]]. Read the closing verses alongside [[Numbers 14]] to examine the narrative fulfillment of the wilderness judgment. Compare the compressed recollection of rebellion with [[Numbers 16]], and read [[Numbers 25]] for the plague immediately preceding the census. Finally, trace Zelophehad's daughters through [[Numbers 27]] and [[Numbers 36]] to study the relationship among census organization, [[Family]], and inheritance law.
+Compare tribal eligibility, totals, leadership, and setting with [[Numbers 1]]. Read Numbers 26:64–65 alongside [[Numbers 14]] to examine the narrative fulfillment of the wilderness judgment. Compare the compressed retrospective on Dathan, Abiram, and Korah's company (Numbers 26:9–11) with [[Numbers 16]], and read [[Numbers 25]] for the plague immediately preceding the census. Trace Zelophehad's daughters through [[Numbers 27]] and [[Numbers 36]] to study the interaction of census organization, [[Family]], and inheritance under the [[Law of Moses]]. For the compressed genealogical allusions in this chapter, read the fuller narratives in [[Genesis 38]] (Er and Onan) and [[Leviticus 10]] (Nadab and Abihu).
 <!-- SG:END further-study -->
