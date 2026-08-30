@@ -3213,6 +3213,37 @@ timeline module, not this file._
    "things": [
     "call to repentance"
    ]
+  },
+  {
+   "id": "r-jer-32-36341caf",
+   "t": "Jeremiah's imprisonment and purchase of the field of Anathoth",
+   "y0": -588,
+   "y1": -587,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Internal synchronism in Jeremiah 32:1 (tenth year of Zedekiah = eighteenth year of Nebuchadrezzar) as conventionally correlated to the final siege of Jerusalem.",
+   "chapters": [
+    "Jeremiah 32"
+   ],
+   "people": [
+    "Jeremiah",
+    "Zedekiah",
+    "Nebuchadrezzar",
+    "Hanameel"
+   ],
+   "places": [
+    "Jerusalem",
+    "Anathoth"
+   ],
+   "things": [
+    "Deed of the field of Anathoth"
+   ]
   }
  ],
  "book_years": {
