@@ -177,6 +177,17 @@ def cmd_translations(args):
     return 0
 
 
+def cmd_queue(args):
+    ctx = _ctx(args)
+    from scripturegraph import queue as q
+    if args.revive:
+        n = q.revive_dead(ctx, only_provider_errors=not args.all)
+        print(json.dumps({"revived": n, "queue": q.counts(ctx)}, indent=2))
+        return 0
+    print(json.dumps(q.counts(ctx), indent=2))
+    return 0
+
+
 def cmd_dictionary(args):
     ctx = _ctx(args)
     from scripturegraph import gitops
@@ -386,6 +397,13 @@ def main(argv=None) -> int:
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
     sp.set_defaults(fn=cmd_translations)
+
+    sp = sub.add_parser("queue", help="queue status; --revive returns dead items to work")
+    sp.add_argument("--revive", action="store_true",
+                    help="return dead items (provider/rate-limit victims) to pending")
+    sp.add_argument("--all", action="store_true",
+                    help="with --revive: revive every dead item, not just provider errors")
+    sp.set_defaults(fn=cmd_queue)
 
     sp = sub.add_parser("dictionary", help="fetch the public-domain Bible dictionary (Easton + Smith)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")

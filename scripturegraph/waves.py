@@ -168,7 +168,18 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
         batch = q.claim_batch(ctx, 25, task_types=task_types)
         if not batch:
             break
-        for item in batch:
+
+        def release(items) -> None:
+            """Hand claimed work back untouched — no attempt burned. Used when
+            we stop early: anything left 'running' would sit unavailable until
+            the stale-sweeper noticed it."""
+            for it in items:
+                ctx.db().execute(
+                    "UPDATE work_queue SET status='pending', attempts=attempts-1 "
+                    "WHERE id=?", (it["id"],))
+            ctx.db().commit()
+
+        for idx, item in enumerate(batch):
             past_deadline = (deadline_ts is not None
                              and __import__("time").time() >= deadline_ts)
             if (max_items is not None and stats["done"] + stats["failed"] >= max_items) \
@@ -189,10 +200,7 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
             if spec["mode"] == "ai":
                 if ai_budget is not None and stats["ai_done"] >= ai_budget:
                     # put back without burning an attempt-slot beyond this
-                    ctx.db().execute(
-                        "UPDATE work_queue SET status='pending', attempts=attempts-1 WHERE id=?",
-                        (item["id"],))
-                    ctx.db().commit()
+                    release(batch[idx:])
                     stats["skipped_ai"] += 1
                     return stats
             try:
@@ -203,13 +211,11 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
                 if spec["mode"] == "ai":
                     stats["ai_done"] += 1
             except ProviderUnavailable as e:
-                # the provider is down or rate-limited: give the item back
-                # untouched and STOP. Grinding the rest of the queue against a
-                # limited provider only converts pending work into dead work.
-                ctx.db().execute(
-                    "UPDATE work_queue SET status='pending', attempts=attempts-1 WHERE id=?",
-                    (item["id"],))
-                ctx.db().commit()
+                # the provider is down or rate-limited: give this item AND the
+                # rest of the claimed batch back untouched, then STOP. Grinding
+                # the queue against a limited provider only converts pending
+                # work into dead work.
+                release(batch[idx:])
                 ctx.log.warn("queue.provider_unavailable", pass_name=name,
                              target=item["target"], error=str(e)[:200])
                 stats["provider_unavailable"] = stats.get("provider_unavailable", 0) + 1

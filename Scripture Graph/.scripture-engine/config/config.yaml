@@ -8,6 +8,23 @@ study:
   window_minutes: 30    # matches the ScriptureGraph Study task cadence
   job_estimate_sec: 540 # don't start a job that can't finish inside the window
 
+# Raised 2026-08-30 after the ChatGPT account upgrade. The old ceilings were
+# never the binding constraint (only ~119 jobs had ever applied) — wasted work
+# was. Paired with pipeline.transport_retries below, which rides out a
+# rate-limit window instead of burning the queue against it.
+budgets:
+  aggressive:
+    nightly_ai_jobs: 200
+    weekly_ai_jobs: 350
+    daily_ai_jobs_cap: 500
+    daily_usd_cap: 40.0
+    job_timeout_sec: 600
+
+pipeline:
+  transport_retries: 5      # rate limit / CLI error: wait and try again
+  transport_backoff_s: 6    # 6s, 12s, 24s, 48s between transport attempts
+  schema_retries: 2         # bad JSON shape: retry immediately with the error
+
 automation:
   enabled: true       # master switch for scheduled runs
   ai_enabled: true    # allow AI provider calls during scheduled runs

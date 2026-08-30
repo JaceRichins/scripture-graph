@@ -73,6 +73,31 @@ def requeue_stale(ctx: Ctx) -> int:
     return cur.rowcount
 
 
+def revive_dead(ctx: Ctx, only_provider_errors: bool = True) -> int:
+    """Return 'dead' items to the queue with a fresh attempt budget.
+
+    Items die after MAX_ATTEMPTS failures, which is right for genuinely bad
+    work — but a provider outage or rate-limit window can kill a whole run's
+    worth of perfectly good chapters in seconds. By default only those are
+    revived; pass only_provider_errors=False to revive everything."""
+    db = ctx.db()
+    if only_provider_errors:
+        cur = db.execute(
+            "UPDATE work_queue SET status='pending', attempts=0, error=NULL, "
+            "updated_at=? WHERE status='dead' AND ("
+            "  error LIKE '%ProviderUnavailable%'"
+            "  OR error LIKE '%no valid researcher output%'"
+            "  OR error LIKE '%JobQuarantined%'"
+            "  OR error LIKE '%timeout%'"
+            "  OR error LIKE '%rate%')", (now_iso(),))
+    else:
+        cur = db.execute(
+            "UPDATE work_queue SET status='pending', attempts=0, error=NULL, "
+            "updated_at=? WHERE status='dead'", (now_iso(),))
+    db.commit()
+    return cur.rowcount
+
+
 def counts(ctx: Ctx) -> dict:
     rows = ctx.db().execute(
         "SELECT status, COUNT(*) AS n FROM work_queue GROUP BY status").fetchall()
