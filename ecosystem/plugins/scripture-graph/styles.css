@@ -1014,6 +1014,89 @@ body.sg-scene-on .sg-chap-conn {
 .sg-clean-header .view-header-breadcrumb,
 .sg-clean-header .view-header-breadcrumb-separator { display: none; }
 
+/* ---------- 🕰 the timeline: scripture history on one spine -------------- */
+.sg-tl { display: flex; flex-direction: column; height: 100%; padding: 0; }
+.sg-tl-bar {
+  flex: 0 0 auto; padding: 8px 10px 6px;
+  border-bottom: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+  display: flex; flex-direction: column; gap: 6px;
+  background: var(--background-primary);
+}
+.sg-tl-eras, .sg-tl-row {
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 94%, transparent 100%);
+  mask-image: linear-gradient(90deg, #000 0%, #000 94%, transparent 100%);
+  padding: 1px;
+}
+.sg-tl-era, .sg-tl-chip {
+  flex: 0 0 auto; white-space: nowrap;
+  min-height: 32px; padding: 3px 11px; border-radius: 16px;
+  font-size: 0.82em; font-weight: 600;
+  background: var(--background-secondary); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
+  opacity: 0.55;
+}
+.sg-tl-era { opacity: 1; }
+.sg-tl-chip.sg-tl-on { opacity: 1; border-color: color-mix(in srgb, var(--interactive-accent) 60%, transparent); }
+.sg-tl-search {
+  width: 100%; min-height: 36px; border-radius: 10px; padding: 0 12px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+  font-size: 0.92em;
+}
+.sg-tl-stream {
+  flex: 1 1 auto; overflow-y: auto; overscroll-behavior: contain;
+  padding: 10px 10px 60px; position: relative;
+}
+.sg-tl-stream::before { /* the spine of time */
+  content: ""; position: absolute; top: 0; bottom: 0; left: 50%;
+  width: 2px; transform: translateX(-50%);
+  background: color-mix(in srgb, var(--background-modifier-border) 85%, transparent);
+}
+.sg-tl-ruler {
+  position: relative; z-index: 1;
+  margin: 18px auto 10px; width: fit-content;
+  padding: 4px 16px; border-radius: 15px;
+  font-weight: 700; font-size: 0.88em; letter-spacing: 0.03em;
+  background: color-mix(in srgb, var(--interactive-accent) 16%, var(--background-secondary));
+  border: 1px solid color-mix(in srgb, var(--interactive-accent) 45%, transparent);
+  cursor: pointer;
+}
+.sg-tl-item { position: relative; display: flex; margin: 7px 0; }
+.sg-tl-left  { justify-content: flex-start; padding-right: 52%; }
+.sg-tl-right { justify-content: flex-end; padding-left: 52%; }
+.sg-tl-full  { justify-content: center; }
+.sg-tl-item::before { /* the dot on the spine */
+  content: ""; position: absolute; top: 16px; left: 50%;
+  width: 9px; height: 9px; border-radius: 50%;
+  transform: translateX(-50%);
+  background: var(--interactive-accent); z-index: 1;
+}
+.sg-tl-card {
+  max-width: 100%; min-width: 0;
+  padding: 8px 11px; border-radius: 12px;
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 65%, transparent);
+  border-top: 3px solid transparent;
+}
+.sg-tl-full .sg-tl-card { max-width: 88%; }
+.sg-tl-card.sg-tl-ow { border-top-color: #d9a441; }
+.sg-tl-card.sg-tl-nw { border-top-color: #4cc38a; }
+.sg-tl-card.sg-tl-rs { border-top-color: #52a9ff; }
+.sg-tl-year { font-size: 0.74em; color: var(--text-muted); font-weight: 700; }
+.sg-tl-title { font-weight: 700; font-size: 0.95em; margin: 1px 0 2px; }
+.sg-tl-note { font-size: 0.84em; color: var(--text-muted); line-height: 1.35; }
+.sg-tl-links { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px; }
+.sg-tl-link {
+  padding: 2px 9px; min-height: 26px; border-radius: 13px;
+  font-size: 0.76em; font-weight: 600;
+  background: var(--background-primary); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+}
+.sg-tl-empty { color: var(--text-faint); text-align: center; padding: 40px 16px; }
+/* the era line above verse 1 invites a tap */
+.sg-voice-where { cursor: pointer; }
+
 /* ---------- 👁 verse peek: the reference comes to the reader ------------- */
 .sg-peek-modal { width: min(520px, 94vw); }
 .sg-peek-title { margin: 0 0 10px; }

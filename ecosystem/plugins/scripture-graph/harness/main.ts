@@ -113,6 +113,43 @@ const sceneMgr = new SceneManager();
 (window as unknown as { sgScene: (id: string) => void }).sgScene =
   (id: string) => sceneMgr.apply(id);
 
+// timeline: window.sgTimeline() mounts the view with a mini dataset
+import { TimelineView } from "../src/study/timelineView";
+import { TFile as ShimTFile } from "obsidian";
+(window as unknown as { sgTimeline: () => void }).sgTimeline = () => {
+  const data = {
+    version: 1,
+    book_years: { "1ne": -595 },
+    events: [
+      { id: "isaiah", t: "Isaiah's ministry in Jerusalem", y0: -740, y1: -690, lane: "ow", imp: 1, cat: ["prophets"], dating: "approximate", people: ["Isaiah"], places: ["Jerusalem"], chapters: ["Isaiah 6"], note: "the prophet Nephi quotes most" },
+      { id: "daniel", t: "Daniel taken to Babylon", y0: -605, y1: -605, lane: "ow", imp: 2, cat: ["prophets"], dating: "historical", people: ["Daniel"], places: ["Babylon"], chapters: ["Daniel 1"], note: "first deportation" },
+      { id: "lehi", t: "Lehi's family leaves Jerusalem", y0: -600, y1: -600, lane: "nw", imp: 1, cat: ["journeys", "turning"], dating: "traditional", people: ["Lehi", "Nephi"], places: ["Jerusalem"], chapters: ["1 Nephi 2"], note: "while Jeremiah preaches, a family walks into the desert" },
+      { id: "jerusalem-falls", t: "Babylon destroys Jerusalem", y0: -586, y1: -586, lane: "ow", imp: 1, cat: ["wars", "turning"], dating: "historical", places: ["Jerusalem"], chapters: ["2 Kings 25"], note: "exactly as Lehi and Jeremiah warned" },
+      { id: "benjamin", t: "King Benjamin's address", y0: -124, y1: -124, lane: "nw", imp: 1, cat: ["rulers", "visions"], dating: "internal", people: ["King Benjamin"], places: ["Zarahemla"], chapters: ["Mosiah 2"], note: "a whole people takes Christ's name" },
+      { id: "christ-birth", t: "The birth of Jesus Christ", y0: -4, y1: -4, lane: "ow", imp: 1, cat: ["turning"], dating: "traditional", people: ["Jesus Christ"], places: ["Bethlehem"], chapters: ["Luke 2"], note: "a star over Bethlehem" },
+      { id: "night-no-dark", t: "The night without darkness", y0: -4, y1: -4, lane: "nw", imp: 1, cat: ["visions"], dating: "internal", chapters: ["3 Nephi 1"], note: "Samuel's sign fulfilled" },
+      { id: "bountiful", t: "The risen Christ visits Bountiful", y0: 34, y1: 34, lane: "nw", imp: 1, cat: ["visions", "turning"], dating: "internal", people: ["Jesus Christ"], chapters: ["3 Nephi 11"], note: "one by one they feel the prints" },
+      { id: "first-vision", t: "The First Vision", y0: 1820, y1: 1820, lane: "rs", imp: 1, cat: ["visions", "turning"], dating: "historical", people: ["Joseph Smith Jr"], places: ["Sacred Grove"], chapters: ["Joseph Smith—History 1"], note: "a spring-morning prayer opens the dispensation" },
+    ],
+  };
+  const dataFile = Object.assign(new ShimTFile(), { path: "AI Library/90 Timeline/_data.md", basename: "_data" });
+  const fakeState = {
+    app: {
+      vault: {
+        getAbstractFileByPath: () => dataFile,
+        cachedRead: async () => "```json\n" + JSON.stringify(data) + "\n```",
+      },
+      workspace: { openLinkText: (l: string) => log(`tl → ${l}`) },
+    },
+  } as never;
+  const view = new TimelineView({} as never, fakeState);
+  void view.onOpen().then(() => {
+    view.contentEl.style.cssText =
+      "position:fixed;inset:0;z-index:60;background:#141318;overflow:hidden;";
+    document.body.appendChild(view.contentEl);
+  });
+};
+
 // verse peek: window.sgPeek() pops a referenced verse over everything
 import { VersePeekModal } from "../src/study/versePeek";
 (window as unknown as { sgPeek: () => void }).sgPeek = () => {

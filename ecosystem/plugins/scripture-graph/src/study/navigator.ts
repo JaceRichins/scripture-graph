@@ -27,6 +27,7 @@ export interface NavigatorHost {
   groupActivity(): Promise<GroupActivityRow[]>;
   listFolder(path: string): FolderListing;
   openPath(path: string): void;
+  openTimeline(): void;
 }
 
 /** the rest of the library — everything beyond the scriptures themselves */
@@ -168,6 +169,11 @@ export class SGNavigatorModal extends Modal {
           : { kind: "books", volume: vol.name });
       };
     }
+    const tl = list.createDiv({ cls: "sg-nav-row sg-nav-tl" });
+    tl.createSpan({ cls: "sg-nav-emoji", text: "🕰" });
+    tl.createSpan({ cls: "sg-nav-name", text: "Timeline" });
+    tl.createSpan({ cls: "sg-nav-chev", text: "›" });
+    tl.onclick = () => { this.close(); this.host.openTimeline(); };
     // everything beyond the scriptures: conference talks, the dictionary,
     // topics, people, evidence... one door, endless shelves
     const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });

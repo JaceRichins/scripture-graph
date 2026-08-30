@@ -85,7 +85,15 @@ export function registerReadingIntegration(
         const strip = createDiv({ cls: "sg-voice" });
         const who = strip.createSpan({ cls: "sg-voice-who", text: `✒️ ${v.display ?? v.author}` });
         who.onclick = () => plugin.app.workspace.openLinkText(v.author, ctx.sourcePath);
-        strip.createSpan({ cls: "sg-voice-where", text: ` · ${v.place} · ${v.era}` });
+        const where = strip.createSpan({
+          cls: "sg-voice-where", text: ` · ${v.place} · ${v.era} 🕰`,
+        });
+        where.setAttr("aria-label", "See this moment on the timeline");
+        where.onclick = () => {
+          const p = plugin as unknown as { openTimelineForBook?: (b: string) => Promise<void> };
+          const book = slug.replace(/-\d+$/, "");
+          void p.openTimelineForBook?.(book);
+        };
         strip.createDiv({ cls: "sg-voice-line", text: v.line });
         first.p.parentElement?.insertBefore(strip, first.p);
       }

@@ -34,6 +34,7 @@ const EXCLUDED_PREFIXES = [
 
 const SECTIONS: [string, string, number][] = [
   ["AI Library/40 Evidence/", "🔎", 1],
+  ["AI Library/90 Timeline/", "🕰", 2],
   ["AI Library/01 Scriptures/Cross References/", "📖", 2],
   ["AI Library/02 Gospel Topics/", "🏷️", 2],
   ["AI Library/01 Scriptures/Study Guides/", "🧠", 3],

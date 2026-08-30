@@ -12,6 +12,7 @@ import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
 import { registerSwipeNav } from "./study/swipeNav";
+import { TIMELINE_VIEW, TimelineView } from "./study/timelineView";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -162,6 +163,11 @@ export default class SGPlugin extends Plugin {
     this.addCommand({
       id: "open-navigator", name: "Navigate scriptures (books & chapters)", icon: "compass",
       callback: () => this.openNavigator(),
+    });
+    this.registerView(TIMELINE_VIEW, (leaf) => new TimelineView(leaf, this.state));
+    this.addCommand({
+      id: "open-timeline", name: "Open the timeline", icon: "history",
+      callback: () => void this.openTimeline(null),
     });
     this.addRibbonIcon("compass", "Navigate scriptures", () => this.openNavigator());
     this.addCommand({
@@ -453,6 +459,26 @@ export default class SGPlugin extends Plugin {
     }
   }
 
+  /** 🕰 the timeline view, optionally scrolled to a year */
+  async openTimeline(year: number | null): Promise<void> {
+    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
+    if (!leaf) {
+      leaf = this.app.workspace.getLeaf(true);
+      await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
+    }
+    await this.app.workspace.revealLeaf(leaf);
+    const view = leaf.view;
+    if (view instanceof TimelineView && year != null) view.setYear(year);
+  }
+
+  /** the era line above verse 1 is a door into the timeline */
+  async openTimelineForBook(bookSlug: string): Promise<void> {
+    const { loadTimelineData } = await import("./study/timelineView");
+    const data = await loadTimelineData(this.app);
+    const y = data?.book_years?.[bookSlug] ?? null;
+    await this.openTimeline(y);
+  }
+
   /** 📖 Volume → book → chapter in three taps; lands on My Study pages. */
   private openNavigator(): void {
     new SGNavigatorModal(this.app, {
@@ -486,6 +512,7 @@ export default class SGPlugin extends Plugin {
         // through the wrapper: AI pages float as a sheet, scripture navigates
         void this.app.workspace.openLinkText(path, "");
       },
+      openTimeline: () => void this.openTimeline(null),
     }).open();
   }
 

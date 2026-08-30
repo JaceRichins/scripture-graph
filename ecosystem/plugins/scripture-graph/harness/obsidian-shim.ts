@@ -204,7 +204,10 @@ export type WorkspaceLeaf = unknown;
 export async function requestUrl(): Promise<never> {
   throw new Error("network disabled in harness");
 }
-export class ItemView {}
+export class ItemView {
+  contentEl: HTMLElement = document.createElement("div");
+  constructor(public leaf?: unknown) {}
+}
 export class MarkdownRenderer {
   /** plausible rendering — enough for sheet layout smoke tests */
   static async render(_app: unknown, md: string, el: HTMLElement): Promise<void> {

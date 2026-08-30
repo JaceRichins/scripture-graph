@@ -414,6 +414,12 @@ ${local.content}`,
     path = "";
     basename = "";
   };
+  var ItemView = class {
+    constructor(leaf) {
+      this.leaf = leaf;
+    }
+    contentEl = document.createElement("div");
+  };
   var MarkdownRenderer = class {
     /** plausible rendering — enough for sheet layout smoke tests */
     static async render(_app, md, el) {
@@ -7535,6 +7541,236 @@ ${body}
     }
   };
 
+  // src/study/timelineView.ts
+  var TIMELINE_VIEW = "sg-timeline";
+  var DATA_PATH = "AI Library/90 Timeline/_data.md";
+  var ERAS = [
+    { label: "Beginnings", y: -4e3 },
+    { label: "Abraham", y: -2e3 },
+    { label: "Exodus", y: -1446 },
+    { label: "Kings", y: -1050 },
+    { label: "Lehi & Exile", y: -605 },
+    { label: "Judges (BoM)", y: -130 },
+    { label: "Christ", y: -6 },
+    { label: "Apostles", y: 34 },
+    { label: "Cumorah", y: 320 },
+    { label: "Restoration", y: 1820 }
+  ];
+  var CATS = [
+    { key: "prophets", label: "\u{1F54A} Prophets" },
+    { key: "visions", label: "\u2728 Visions" },
+    { key: "wars", label: "\u2694\uFE0F Wars" },
+    { key: "rulers", label: "\u{1F451} Rulers" },
+    { key: "journeys", label: "\u{1F9ED} Journeys" },
+    { key: "temples", label: "\u{1F3DB} Temples" },
+    { key: "records", label: "\u{1F4DC} Records" },
+    { key: "turning", label: "\u{1F511} Turning points" }
+  ];
+  var DATING_SHORT = {
+    traditional: "trad.",
+    approximate: "approx.",
+    internal: "BoM internal",
+    historical: "historical"
+  };
+  function yearStr(y) {
+    return y < 0 ? `${-y} BC` : `AD ${y}`;
+  }
+  async function loadTimelineData(app) {
+    const file = app.vault.getAbstractFileByPath(DATA_PATH);
+    if (!(file instanceof TFile)) return null;
+    try {
+      const md = await app.vault.cachedRead(file);
+      const m = /```json\n([\s\S]*?)\n```/.exec(md);
+      if (!m) return null;
+      return JSON.parse(m[1]);
+    } catch {
+      return null;
+    }
+  }
+  var TimelineView = class extends ItemView {
+    constructor(leaf, s) {
+      super(leaf);
+      this.s = s;
+    }
+    data = null;
+    lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
+    cats = new Set(CATS.map((c) => c.key));
+    detail = false;
+    // false = major+notable only
+    query = "";
+    pendingYear = null;
+    streamEl = null;
+    getViewType() {
+      return TIMELINE_VIEW;
+    }
+    getDisplayText() {
+      return "Timeline";
+    }
+    getIcon() {
+      return "history";
+    }
+    /** scroll to a year once rendered (era-tap from a reading page) */
+    setYear(y) {
+      this.pendingYear = y;
+      if (this.data) this.scrollToYear(y);
+    }
+    async onOpen() {
+      this.contentEl.addClass("sg-tl");
+      this.data = await loadTimelineData(this.s.app);
+      this.render();
+    }
+    visible() {
+      if (!this.data) return [];
+      const q = this.query.toLowerCase();
+      return this.data.events.filter((e) => {
+        if (!this.lanes.has(e.lane)) return false;
+        if (!this.detail && e.imp > 2) return false;
+        if (!e.cat.some((c) => this.cats.has(c))) return false;
+        if (q) {
+          const hay = [
+            e.t,
+            e.note,
+            ...e.people ?? [],
+            ...e.places ?? [],
+            ...e.chapters ?? []
+          ].join(" ").toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      }).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+    }
+    render() {
+      const c = this.contentEl;
+      c.empty();
+      if (!this.data) {
+        c.createDiv({
+          cls: "sg-tl-empty",
+          text: "Timeline data hasn't synced to this device yet \u2014 give Obsidian Sync a minute."
+        });
+        return;
+      }
+      const bar2 = c.createDiv({ cls: "sg-tl-bar" });
+      const eras = bar2.createDiv({ cls: "sg-tl-eras" });
+      for (const era of ERAS) {
+        const b = eras.createEl("button", { cls: "sg-tl-era", text: era.label });
+        b.onclick = () => this.scrollToYear(era.y);
+      }
+      const row2 = bar2.createDiv({ cls: "sg-tl-row" });
+      const laneDefs = [
+        ["ow", "\u{1F30D} Old World"],
+        ["nw", "\u{1F30E} Book of Mormon"],
+        ["rs", "\u{1F305} Restoration"]
+      ];
+      for (const [key, label] of laneDefs) {
+        const b = row2.createEl("button", { cls: "sg-tl-chip", text: label });
+        b.toggleClass("sg-tl-on", this.lanes.has(key));
+        b.onclick = () => {
+          if (this.lanes.has(key)) this.lanes.delete(key);
+          else this.lanes.add(key);
+          this.render();
+        };
+      }
+      const detail = row2.createEl("button", {
+        cls: "sg-tl-chip sg-tl-detail",
+        text: this.detail ? "\u{1F50E} All detail" : "\u2B50 Major events"
+      });
+      detail.toggleClass("sg-tl-on", true);
+      detail.onclick = () => {
+        this.detail = !this.detail;
+        this.render();
+      };
+      const row3 = bar2.createDiv({ cls: "sg-tl-row sg-tl-cats" });
+      for (const cat of CATS) {
+        const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
+        b.toggleClass("sg-tl-on", this.cats.has(cat.key));
+        b.onclick = () => {
+          if (this.cats.has(cat.key) && this.cats.size === 1) {
+            this.cats = new Set(CATS.map((x) => x.key));
+          } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
+            this.cats = /* @__PURE__ */ new Set([cat.key]);
+          } else if (this.cats.has(cat.key)) {
+            this.cats.delete(cat.key);
+          } else {
+            this.cats.add(cat.key);
+          }
+          this.render();
+        };
+      }
+      const search = bar2.createEl("input", {
+        cls: "sg-tl-search",
+        attr: { type: "search", placeholder: "Find a person, place, or event\u2026" }
+      });
+      search.value = this.query;
+      search.oninput = () => {
+        this.query = search.value;
+        this.renderStream();
+      };
+      this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+      this.renderStream();
+      if (this.pendingYear != null) {
+        const y = this.pendingYear;
+        this.pendingYear = null;
+        window.setTimeout(() => this.scrollToYear(y), 60);
+      }
+    }
+    renderStream() {
+      const stream = this.streamEl;
+      if (!stream) return;
+      stream.empty();
+      const events = this.visible();
+      if (!events.length) {
+        stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
+        return;
+      }
+      let lastCentury = null;
+      for (const e of events) {
+        const century = e.y0 < 0 ? -Math.ceil(-e.y0 / 100) * 100 : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
+        if (century !== lastCentury) {
+          lastCentury = century;
+          const title = e.y0 < 0 ? `${-century}-${-(century + 99)} BC` : `AD ${century}-${century + 99}`;
+          const ruler = stream.createDiv({ cls: "sg-tl-ruler" });
+          ruler.setAttr("data-year", String(century));
+          ruler.createSpan({ text: title.replace("-", "\u2013") });
+          ruler.onclick = () => {
+            void this.s.app.workspace.openLinkText(
+              `AI Library/90 Timeline/${title}.md`,
+              ""
+            );
+          };
+        }
+        const side = e.lane === "ow" ? "sg-tl-left" : e.lane === "nw" ? "sg-tl-right" : "sg-tl-full";
+        const row = stream.createDiv({ cls: `sg-tl-item ${side}` });
+        row.setAttr("data-year", String(e.y0));
+        const card = row.createDiv({ cls: `sg-tl-card sg-tl-${e.lane}` });
+        const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} \u2013 ${yearStr(e.y1)}`;
+        card.createDiv({ cls: "sg-tl-year", text: `${yr} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}` });
+        card.createDiv({ cls: "sg-tl-title", text: e.t });
+        card.createDiv({ cls: "sg-tl-note", text: e.note });
+        const links = card.createDiv({ cls: "sg-tl-links" });
+        const link = (label, target) => {
+          const b = links.createEl("button", { cls: "sg-tl-link", text: label });
+          b.onclick = (evt) => {
+            evt.stopPropagation();
+            void this.s.app.workspace.openLinkText(target, "");
+          };
+        };
+        for (const p of (e.people ?? []).slice(0, 3)) link(`\u{1F9D1} ${p}`, p);
+        for (const p of (e.places ?? []).slice(0, 2)) link(`\u{1F5FA} ${p}`, p);
+        for (const ch of (e.chapters ?? []).slice(0, 3)) link(`\u{1F4D6} ${ch}`, ch);
+      }
+    }
+    scrollToYear(y) {
+      const stream = this.streamEl;
+      if (!stream) return;
+      const nodes = Array.from(stream.querySelectorAll("[data-year]"));
+      const hit = nodes.find((n) => Number(n.getAttr("data-year")) >= y) ?? nodes[nodes.length - 1];
+      hit?.scrollIntoView({ block: "start", behavior: "smooth" });
+    }
+    async onClose() {
+      this.contentEl.empty();
+    }
+  };
+
   // src/study/sheetRegistry.ts
   var open = /* @__PURE__ */ new Set();
   function registerSheet(m) {
@@ -7920,6 +8156,14 @@ ${body}
           this.go(books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name });
         };
       }
+      const tl = list.createDiv({ cls: "sg-nav-row sg-nav-tl" });
+      tl.createSpan({ cls: "sg-nav-emoji", text: "\u{1F570}" });
+      tl.createSpan({ cls: "sg-nav-name", text: "Timeline" });
+      tl.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+      tl.onclick = () => {
+        this.close();
+        this.host.openTimeline();
+      };
       const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });
       lib.createSpan({ cls: "sg-nav-emoji", text: "\u{1F4DA}" });
       lib.createSpan({ cls: "sg-nav-name", text: "Library" });
@@ -8134,6 +8378,38 @@ ${body}
   });
   var sceneMgr = new SceneManager();
   window.sgScene = (id) => sceneMgr.apply(id);
+  window.sgTimeline = () => {
+    const data = {
+      version: 1,
+      book_years: { "1ne": -595 },
+      events: [
+        { id: "isaiah", t: "Isaiah's ministry in Jerusalem", y0: -740, y1: -690, lane: "ow", imp: 1, cat: ["prophets"], dating: "approximate", people: ["Isaiah"], places: ["Jerusalem"], chapters: ["Isaiah 6"], note: "the prophet Nephi quotes most" },
+        { id: "daniel", t: "Daniel taken to Babylon", y0: -605, y1: -605, lane: "ow", imp: 2, cat: ["prophets"], dating: "historical", people: ["Daniel"], places: ["Babylon"], chapters: ["Daniel 1"], note: "first deportation" },
+        { id: "lehi", t: "Lehi's family leaves Jerusalem", y0: -600, y1: -600, lane: "nw", imp: 1, cat: ["journeys", "turning"], dating: "traditional", people: ["Lehi", "Nephi"], places: ["Jerusalem"], chapters: ["1 Nephi 2"], note: "while Jeremiah preaches, a family walks into the desert" },
+        { id: "jerusalem-falls", t: "Babylon destroys Jerusalem", y0: -586, y1: -586, lane: "ow", imp: 1, cat: ["wars", "turning"], dating: "historical", places: ["Jerusalem"], chapters: ["2 Kings 25"], note: "exactly as Lehi and Jeremiah warned" },
+        { id: "benjamin", t: "King Benjamin's address", y0: -124, y1: -124, lane: "nw", imp: 1, cat: ["rulers", "visions"], dating: "internal", people: ["King Benjamin"], places: ["Zarahemla"], chapters: ["Mosiah 2"], note: "a whole people takes Christ's name" },
+        { id: "christ-birth", t: "The birth of Jesus Christ", y0: -4, y1: -4, lane: "ow", imp: 1, cat: ["turning"], dating: "traditional", people: ["Jesus Christ"], places: ["Bethlehem"], chapters: ["Luke 2"], note: "a star over Bethlehem" },
+        { id: "night-no-dark", t: "The night without darkness", y0: -4, y1: -4, lane: "nw", imp: 1, cat: ["visions"], dating: "internal", chapters: ["3 Nephi 1"], note: "Samuel's sign fulfilled" },
+        { id: "bountiful", t: "The risen Christ visits Bountiful", y0: 34, y1: 34, lane: "nw", imp: 1, cat: ["visions", "turning"], dating: "internal", people: ["Jesus Christ"], chapters: ["3 Nephi 11"], note: "one by one they feel the prints" },
+        { id: "first-vision", t: "The First Vision", y0: 1820, y1: 1820, lane: "rs", imp: 1, cat: ["visions", "turning"], dating: "historical", people: ["Joseph Smith Jr"], places: ["Sacred Grove"], chapters: ["Joseph Smith\u2014History 1"], note: "a spring-morning prayer opens the dispensation" }
+      ]
+    };
+    const dataFile = Object.assign(new TFile(), { path: "AI Library/90 Timeline/_data.md", basename: "_data" });
+    const fakeState = {
+      app: {
+        vault: {
+          getAbstractFileByPath: () => dataFile,
+          cachedRead: async () => "```json\n" + JSON.stringify(data) + "\n```"
+        },
+        workspace: { openLinkText: (l) => log(`tl \u2192 ${l}`) }
+      }
+    };
+    const view2 = new TimelineView({}, fakeState);
+    void view2.onOpen().then(() => {
+      view2.contentEl.style.cssText = "position:fixed;inset:0;z-index:60;background:#141318;overflow:hidden;";
+      document.body.appendChild(view2.contentEl);
+    });
+  };
   window.sgPeek = () => {
     const chapterMd = [
       "# 2 Kings 24",

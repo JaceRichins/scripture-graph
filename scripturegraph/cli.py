@@ -177,6 +177,23 @@ def cmd_translations(args):
     return 0
 
 
+def cmd_timeline(args):
+    ctx = _ctx(args)
+    from scripturegraph import gitops
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    from scripturegraph.timeline import build_timeline
+    try:
+        with engine_lock(ctx):
+            gitops.checkpoint(ctx, "timeline: pre-build checkpoint")
+            stats = build_timeline(ctx)
+            gitops.commit_all(ctx, "timeline: curated chronology + century anchors")
+    except EngineBusy:
+        print("engine busy — another run holds the lock; try again shortly")
+        return 1
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_queue(args):
     ctx = _ctx(args)
     from scripturegraph import queue as q
@@ -397,6 +414,9 @@ def main(argv=None) -> int:
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
     sp.set_defaults(fn=cmd_translations)
+
+    sub.add_parser("timeline", help="rebuild the chronology + century anchor pages") \
+        .set_defaults(fn=cmd_timeline)
 
     sp = sub.add_parser("queue", help="queue status; --revive returns dead items to work")
     sp.add_argument("--revive", action="store_true",
