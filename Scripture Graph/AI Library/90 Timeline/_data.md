@@ -3447,6 +3447,31 @@ timeline module, not this file._
    "things": [
     "Deed of the field of Anathoth"
    ]
+  },
+  {
+   "id": "r-jer-44-98f8ea39",
+   "t": "Overthrow of Pharaoh Hophra (Apries) by Amasis",
+   "y0": -570,
+   "y1": -570,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Attested in Herodotus, Histories 2.161-169, and consistent with Egyptian sources documenting Amasis's accession after a civil conflict with Apries.",
+   "chapters": [
+    "Jeremiah 44"
+   ],
+   "people": [
+    "Pharaoh-hophra (Apries)",
+    "Amasis"
+   ],
+   "places": [
+    "Egypt"
+   ]
   }
  ],
  "book_years": {
