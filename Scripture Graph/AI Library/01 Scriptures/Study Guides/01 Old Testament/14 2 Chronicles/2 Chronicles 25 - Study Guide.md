@@ -92,7 +92,21 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Scriptural Intertextuality *(tentative)*
+> The explicit appeal to the book of Moses and the close verbal alignment with Deuteronomy 24:16 strongly support deliberate invocation of a Mosaic rule of individual legal liability. This is literary evidence about how the action is framed, not independent verification that the historical decision occurred exactly as narrated.
+> — strength 0.9 · confidence 1.0 · broadly accepted
+
+> [!evidence] Explicit Legal Citation *(tentative)*
+> The explicit appeal to the book of Moses is strong internal evidence that the narrator wants Amaziah's restraint toward the assassins' children understood as obedience to recognized written law.
+> — strength 0.9 · confidence 1.0 · broadly accepted
+
+> [!evidence] Textual Parallelism *(tentative)*
+> The extensive narrative and verbal overlap between 2 Chronicles 25 and 2 Kings 14 strongly supports a literary or traditional relationship between the accounts. The overlap alone cannot identify direct dependence, a shared source, or the historical precision of either version.
+> — strength 1.0 · confidence 1.0 · broadly accepted
+
+> [!evidence] Synoptic Narrative Comparison *(tentative)*
+> Compared with the parallel in 2 Kings 14, the material about hiring and dismissing Israelite troops, the man of God, adopting Edomite gods, and silencing a prophet gives the Chronicles account a stronger explicit emphasis on prophetic counsel, obedience, apostasy, and judgment.
+> — strength 0.9 · confidence 1.0 · accepted observation / disputed interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
