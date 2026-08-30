@@ -569,18 +569,6 @@ export class TimelineView extends ItemView {
       });
     }
 
-    // ---- century marks: a small centered tag in the gap (tap → anchor page)
-    for (const c of centuries) {
-      const t = el("text", {
-        x: String(W / 2), y: String(c.y), "text-anchor": "middle",
-        class: "sg-tl-century",
-      });
-      t.textContent = c.label;
-      (t as unknown as SVGElement & { onclick: unknown }).onclick = () => {
-        void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
-      };
-    }
-
     const chainPath = (chain: { x: number; y: number }[]): string => {
       let d = "";
       for (let i = 0; i < chain.length; i++) {
@@ -600,11 +588,50 @@ export class TimelineView extends ItemView {
         "stroke-width": String(core) });
     };
 
+    // every drawn edge gets a fat invisible twin that answers the question
+    // "how much time sits between these two moments?" — hover for a glance,
+    // tap to pin. `litEl` (a web line) glows while the pointer is on it.
+    const gapHit = (a: TimelineEvent, b: TimelineEvent,
+      context: string | null, litEl: Element | null = null,
+      straight = false) => {
+      const pa = pos.get(a.id)!, pb = pos.get(b.id)!;
+      const n = straight
+        ? el("line", {
+          x1: String(pa.x), y1: String(pa.y), x2: String(pb.x), y2: String(pb.y),
+          class: "sg-tl-hitline", "data-a": a.id, "data-b": b.id,
+        })
+        : el("path", {
+          d: chainPath([pa, pb]), class: "sg-tl-hitline",
+          "data-a": a.id, "data-b": b.id,
+        });
+      const mx = (pa.x + pb.x) / 2, my = (pa.y + pb.y) / 2;
+      n.addEventListener("mouseenter", () => {
+        litEl?.classList.add("sg-tl-web-lit");
+        this.showGap(a, b, context, mx, my, false);
+      });
+      n.addEventListener("mouseleave", () => {
+        if (!litEl?.classList.contains("sg-tl-web-pin")) {
+          litEl?.classList.remove("sg-tl-web-lit");
+        }
+        this.hideGap(false);
+      });
+      n.addEventListener("click", (ev) => {
+        ev.stopPropagation();
+        this.clearDetail();
+        litEl?.classList.add("sg-tl-web-lit", "sg-tl-web-pin");
+        this.showGap(a, b, context, mx, my, true);
+      });
+    };
+
     if (this.focus) {
       // ---- focus mode: ONE bright thread stitches the subject's whole
       // journey, crossing hemispheres wherever the subject did
       const chain = events.map(e => pos.get(e.id)!);
       if (chain.length > 1) el("path", { d: chainPath(chain), class: "sg-tl-focus-thread" });
+      const fmeta = SUBJECT_META[this.focus.kind];
+      for (let i = 1; i < events.length; i++) {
+        gapHit(events[i - 1]!, events[i]!, `${fmeta.emoji} ${this.focus.name}`);
+      }
     } else {
       // ---- the rails of time: one luminous line per world; at depth 2
       // storyline events step OUT of the main line into their own braid
@@ -612,6 +639,9 @@ export class TimelineView extends ItemView {
         const laneEvents = events.filter(e => e.lane === lane && !onThread(e));
         const chain = laneEvents.map(e => pos.get(e.id)!);
         if (chain.length >= 2) rail(chainPath(chain), LANE_COLOR[lane]!, 2, "sg-tl-thread");
+        for (let i = 1; i < laneEvents.length; i++) {
+          gapHit(laneEvents[i - 1]!, laneEvents[i]!, LANE_NAME[lane]!);
+        }
         // name the world where its story begins — high enough to clear the
         // century tag that shares the row above the first node
         if (laneEvents.length) {
@@ -635,6 +665,9 @@ export class TimelineView extends ItemView {
           if (!members.length) continue;
           const chain = members.map(e => pos.get(e.id)!);
           if (chain.length > 1) rail(chainPath(chain), th.color, 1.6, "sg-tl-thread2");
+          for (let i = 1; i < members.length; i++) {
+            gapHit(members[i - 1]!, members[i]!, `↳ ${th.label}`);
+          }
           const first = chain[0]!, last = chain[chain.length - 1]!;
           // split: only for storylines that really branched off another —
           // a standalone people (the Jaredites) simply begins
@@ -688,38 +721,45 @@ export class TimelineView extends ItemView {
       }
       const bySubject = new Map<string, TimelineEvent[]>();
       for (const e of events) {
-        for (const s of [...(e.people ?? []), ...(e.things ?? [])]) {
+        const tagged = [
+          ...(e.people ?? []).map(n => `🧑 ${n}`),
+          ...(e.things ?? []).map(n => `📦 ${n}`),
+        ];
+        for (const s of tagged) {
           const arr = bySubject.get(s) ?? [];
           arr.push(e);
           bySubject.set(s, arr);
         }
       }
-      const webPairs = new Map<string, [string, string]>();
-      const addPair = (a: string, b: string) => {
+      const webPairs = new Map<string, [string, string, string | null]>();
+      const addPair = (a: string, b: string, subject: string | null) => {
         if (a === b) return;
         const key = a < b ? `${a}|${b}` : `${b}|${a}`;
         if (railPairs.has(`${a}|${b}`) || railPairs.has(`${b}|${a}`)) return;
-        webPairs.set(key, [a, b]);
+        if (!webPairs.has(key)) webPairs.set(key, [a, b, subject]);
       };
-      for (const [, evs] of bySubject) {
+      for (const [subject, evs] of bySubject) {
         if (evs.length < 2 || evs.length > 9) continue;  // hubs become noise
-        for (let i = 1; i < evs.length; i++) addPair(evs[i - 1]!.id, evs[i]!.id);
+        for (let i = 1; i < evs.length; i++) {
+          addPair(evs[i - 1]!.id, evs[i]!.id, subject);
+        }
       }
       const visibleIds = new Set(events.map(e => e.id));
       for (const [a, b] of NARRATIVE_LINKS) {
-        if (visibleIds.has(a) && visibleIds.has(b)) addPair(a, b);
+        if (visibleIds.has(a) && visibleIds.has(b)) addPair(a, b, null);
       }
       const strong = new Set(NARRATIVE_LINKS.map(([a, b]) =>
         a < b ? `${a}|${b}` : `${b}|${a}`));
-      for (const [key, [a, b]] of webPairs) {
+      for (const [key, [a, b, subject]] of webPairs) {
         const pa = pos.get(a)!, pb = pos.get(b)!;
         const dy = Math.abs(pb.y - pa.y);
         const o = Math.max(0.05, (strong.has(key) ? 0.24 : 0.17) - dy / 14000);
-        el("line", {
+        const line = el("line", {
           x1: String(pa.x), y1: String(pa.y), x2: String(pb.x), y2: String(pb.y),
           class: "sg-tl-web", "data-a": a, "data-b": b,
           style: `stroke-opacity: ${o.toFixed(3)}`,
         });
+        gapHit(pa.e, pb.e, subject, line, true);
       }
 
       // ---- person spotlight: connect events sharing the searched name
@@ -735,6 +775,20 @@ export class TimelineView extends ItemView {
           });
         }
       }
+    }
+
+    // ---- century marks: a small centered tag in the gap (tap → anchor
+    // page); drawn after the hit lines so a rail crossing the middle never
+    // swallows their taps
+    for (const c of centuries) {
+      const t = el("text", {
+        x: String(W / 2), y: String(c.y), "text-anchor": "middle",
+        class: "sg-tl-century",
+      });
+      t.textContent = c.label;
+      (t as unknown as SVGElement & { onclick: unknown }).onclick = () => {
+        void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
+      };
     }
 
     // ---- nodes + labels beside them, flowing toward the open middle
@@ -805,9 +859,9 @@ export class TimelineView extends ItemView {
 
     stream.appendChild(svg);
 
-    // tap empty space clears the detail card
+    // tap empty space clears the detail card (edge taps handle themselves)
     svg.addEventListener("click", (evt) => {
-      if ((evt.target as Element).closest(".sg-tl-node")) return;
+      if ((evt.target as Element).closest(".sg-tl-node, .sg-tl-hitline")) return;
       this.clearDetail();
     });
 
@@ -823,8 +877,50 @@ export class TimelineView extends ItemView {
   private clearDetail(): void {
     this.detailEl?.remove();
     this.detailEl = null;
+    this.hideGap(true);
     this.streamEl?.querySelectorAll(".sg-tl-sel").forEach(n => n.classList.remove("sg-tl-sel"));
-    this.streamEl?.querySelectorAll(".sg-tl-web-lit").forEach(n => n.classList.remove("sg-tl-web-lit"));
+    this.streamEl?.querySelectorAll(".sg-tl-web-lit").forEach(n =>
+      n.classList.remove("sg-tl-web-lit", "sg-tl-web-pin"));
+  }
+
+  // ---- the time-between chip: floats at an edge's midpoint --------------
+  private gapEl: HTMLElement | null = null;
+  private gapPinned = false;
+
+  private showGap(a: TimelineEvent, b: TimelineEvent, context: string | null,
+    x: number, y: number, pin: boolean): void {
+    if (this.gapPinned && !pin) return;
+    this.gapEl?.remove();
+    this.gapEl = null;
+    this.gapPinned = pin;
+    const stream = this.streamEl;
+    if (!stream) return;
+    const [ea, eb] = a.y0 <= b.y0 ? [a, b] : [b, a];
+    const delta = eb.y0 - ea.y0;
+    // honesty rides along: a traditional/approximate endpoint makes it a "≈"
+    const soft = [ea.dating, eb.dating]
+      .some(d => d === "traditional" || d === "approximate");
+    const chip = stream.createDiv({ cls: "sg-tl-gap" });
+    chip.createDiv({
+      cls: "sg-tl-gap-main",
+      text: delta === 0 ? "the same years"
+        : `${soft ? "≈ " : ""}${delta.toLocaleString()} year${delta === 1 ? "" : "s"} apart`,
+    });
+    chip.createDiv({
+      cls: "sg-tl-gap-sub",
+      text: `${context ? context + " · " : ""}${yearStr(ea.y0)} → ${yearStr(eb.y0)}`,
+    });
+    const cx = Math.min(Math.max(x, 96), Math.max(200, this.lastW - 96));
+    chip.style.left = `${Math.round(cx)}px`;
+    chip.style.top = `${Math.round(y)}px`;
+    this.gapEl = chip;
+  }
+
+  private hideGap(force: boolean): void {
+    if (this.gapPinned && !force) return;
+    this.gapEl?.remove();
+    this.gapEl = null;
+    if (force) this.gapPinned = false;
   }
 
   /** the tapped node lights up; its web connections glow; its story slides

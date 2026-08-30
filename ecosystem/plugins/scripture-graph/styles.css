@@ -1154,6 +1154,25 @@ body.sg-scene-on .sg-chap-conn {
   stroke: rgba(255, 255, 255, 1) !important;
   stroke-opacity: 0.55 !important; stroke-width: 1.5;
 }
+/* invisible fat twins over every edge: hover asks, tap pins */
+.sg-tl-hitline {
+  fill: none; stroke: rgba(0, 0, 0, 0); stroke-width: 16;
+  pointer-events: stroke; cursor: pointer;
+}
+/* the time-between chip, floating at the edge's midpoint */
+.sg-tl-gap {
+  position: absolute; z-index: 6; pointer-events: none;
+  transform: translate(-50%, -130%);
+  padding: 5px 11px; border-radius: 11px;
+  background: rgba(19, 19, 30, 0.9);
+  -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+  border: 1px solid var(--sg-line);
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.45);
+  text-align: center; white-space: nowrap;
+  animation: sg-bar-in 0.12s ease-out;
+}
+.sg-tl-gap-main { font-size: 0.84em; font-weight: 700; color: var(--sg-ink); }
+.sg-tl-gap-sub { font-size: 0.7em; font-weight: 600; color: var(--sg-ink-dim); margin-top: 1px; }
 @media (prefers-reduced-motion: no-preference) {
   .sg-tl-star { animation: sg-tl-twinkle 4.2s ease-in-out infinite; }
   .sg-tl-node { animation: sg-tl-in 0.45s ease-out backwards; }
