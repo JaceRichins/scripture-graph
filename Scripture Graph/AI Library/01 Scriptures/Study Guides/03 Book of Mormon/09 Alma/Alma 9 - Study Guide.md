@@ -23,7 +23,15 @@ Scripture: [[Alma 9]] · My notes: [[Alma 9 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter moves in five stages:
+
+1. **Challenge to the messenger (vv.1-7)** — the people reject 'the testimony of one man' and attempt to seize Alma, though 'they did not' (v.7).
+2. **Remembered deliverance and covenant warning (vv.8-14)** — Alma recalls Lehi, the wilderness, and the prosper/cut-off covenant formula.
+3. **Differing knowledge and accountability (vv.15-24)** — inherited Lamanite ignorance is contrasted with the Nephites' greater light and privileges.
+4. **Angel's proclamation of the Son (vv.25-29)** — repentance, Christ's coming, faith, baptism, works, and judgment.
+5. **Rebuke, attempted arrest, and second preacher (vv.30-34)** — Alma pairs kinship language with severe rebuke; the people grow angry specifically because he called them 'a hard-hearted and a stiffnecked people' (v.31, echoing the narrator's own description in v.5); this time 'the Lord did not suffer them' to seize him (v.33), and Amulek begins to preach.
+
+The near-verbatim echo between vv.5 and 31 is a real, striking verbal parallel, though whether it reflects deliberate literary framing or coincidental narration can't be settled from the text alone. Likewise, only the second attempt to seize Alma (v.33) is explicitly attributed to divine prevention — the first (v.7) is left unexplained.
 <!-- SG:END structure -->
 
 ## People
@@ -53,21 +61,23 @@ _Not yet developed._
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[1 Nephi 2]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
-- [[Alma 5]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-12|Alma 9:12]] ↔ [[Alma 5#^alma-5-51|Alma 5:51]]
 - [[Alma 8]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-1|Alma 9:1]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
-- [[Omni 1]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
-- [[Matthew 11]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-15|Alma 9:15]] ↔ [[Matthew 11#^matt-11-24|Matthew 11:24]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
-- [[Helaman 12]] — 4 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
+- [[Ether 2]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[Jarom 1]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
+- [[Helaman 7]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-24|Alma 9:24]] ↔ [[Helaman 7#^hel-7-28|Helaman 7:28]]
+- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Exodus and Deliverance]]
+- [[Final Judgment]]
+- [[Covenants]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
@@ -75,7 +85,12 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Three threads stand out:
+
+1. **Conditional [[Covenants|covenant]]**: Alma quotes what he presents as the Lord's own words to Lehi — prosperity in the land is conditioned on obedience, and disobedience results in being 'cut off from the presence of the Lord' (v.13). A closely related formulation appears in [[2 Nephi 1]], and similar language recurs elsewhere in the Book of Mormon (e.g. [[Alma 42]]); this refrain is common enough across the record that it functions as a recurring covenantal formula rather than a citation unique to this pairing.
+2. **[[Justice and Mercy|Justice and mercy]] scaled to knowledge**: Alma argues Nephite sin would be 'far more tolerable for the Lamanites' (v.23), tying culpability to light received. Lamanite mercy is explicitly linked to inherited 'ignorance' from their fathers' traditions (v.16), not to lesser standing before God — though this is Alma's specific comparison of these two peoples, not a fully general doctrine of individual accountability. A similar 'more tolerable... in the day of judgment' logic appears in [[Matthew 11]].
+3. **Faith, [[Baptism]], and works**: vv.27-30 present a coordinated response — faith in Christ's name, baptism unto repentance, and works meet for repentance — with salvation explicitly grounded in 'the power and deliverance of Jesus Christ' (v.28) rather than in works alone.
+4. **[[Spiritual Gifts]]**: v.21's catalog — prophecy, revelation, tongues, preaching, the Holy Ghost, translation — is one of the fuller enumerations of spiritual gifts in the Book of Mormon, offered here as evidence of privilege rather than instruction on the gifts themselves.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,20 +115,34 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The crowd's opening objection — that they need not believe 'the testimony of one man' (v.2) — finds its narrative counterpart when Amulek stands to preach at the chapter's close (v.34). The chapter never states that Amulek's preaching was meant to answer this objection, and Amulek's role as Alma's companion was in fact already commissioned earlier (Alma 8); the sequencing may simply reflect how events unfolded rather than deliberate design.
+
+A repeated pattern of questions — 'Who art thou?' (v.2), 'Who is God...?' (v.6), 'Do ye not remember...?' (vv.9-10) — frames the conflict as one over both authority and memory: the people challenge the messenger, and Alma challenges their forgetfulness, making his historical recital argumentative rather than decorative.
+
+Alma's report that 'the Lord has sent his angel to visit many of his people' (v.25) is left unattributed within this chapter. Readers may recall Alma's own conversion (Mosiah 27) here, but that commission (to stop persecuting the church) differs from the commission described in v.25 (to cry repentance), so any connection remains speculative rather than confirmed.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Chronology / Prophetic Language *(tentative)*
+> The gap of roughly 75-80 years between this prophecy (c. 82 B.C.) and Christ's traditional birth date creates a real interpretive tension with a plain reading of 'not many days hence.' This is honestly disputed territory, not a settled point.
+> — strength 0.3 · confidence 0.6 · disputed; interval and referent uncertain
+
+> [!evidence] Internal Intertextuality *(tentative)*
+> This same prosper/cut-off covenant formula recurs, in close or exact wording, across many Book of Mormon books spanning different purported authors and centuries (per verified text-overlap data: 2 Nephi 1, 2 Nephi 4, Omni 1, Alma 36, Alma 50, Helaman 12). This intertextual consistency is notable but is compatible with more than one explanation.
+> — strength 0.3 · confidence 0.6 · disputed; only chapter-level overlap shown
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Who does Alma mean by 'many of his people' visited by an angel (v.25) — himself, Amulek, others, or some combination the text never specifies?
+- How should 'not many days hence the Son of God shall come in his glory' (v.26) be read, given roughly 80 years separate this sermon (c. 82 B.C.) from Christ's traditional birth? Is this prophetic idiom for certainty/nearness, or a near-term expectation the text does not revisit — and does 'come in his glory' even refer to the birth specifically?
+- Is Amulek's appearance in v.34 intended as an answer to the one-witness objection, or is that effect simply produced by narrative sequence, given his companion role was already commissioned in Alma 8?
+- Does the repeated prosper/cut-off covenant formula (v.13, and its parallels in [[2 Nephi 1]], [[Alma 42]]) reflect a transmitted textual tradition within the narrative's own claimed history, or a signature phrase reused across the whole book? Internal evidence alone cannot decide this.
+- Does 'the promises of the Lord are extended to the Lamanites, but they are not unto you if ye transgress' (v.24) describe a conditional local warning to this audience, or a broader covenant claim about the wider Nephite people?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the covenant wording in Alma 9:13 with [[2 Nephi 1]], the mission command in [[Alma 8]], and the destruction narrative in [[Alma 16]]. Matthew 11:20–24 provides a close comparison for the principle that greater exposure to divine works entails greater accountability. The correspondence is useful for interpretation, but the shared English wording alone cannot decide questions of source dependence.
 <!-- SG:END further-study -->
