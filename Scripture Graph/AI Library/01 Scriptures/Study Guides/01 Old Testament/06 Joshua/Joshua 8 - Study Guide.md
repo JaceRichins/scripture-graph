@@ -17,8 +17,7 @@ Scripture: [[Joshua 8]] · My notes: [[Joshua 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Joshua uses an ambush, takes Ai, and slays its inhabitants—He builds an altar in Mount Ebal—The words of the law, both blessings and cursings, are read to the people.
+Joshua 8 narrates a renewed campaign against Ai after Israel's earlier defeat. A feigned retreat draws Ai's forces away while an ambush takes and burns the city. The account reports the killing of Ai's inhabitants, the taking of its spoil, and memorial treatment of its king. The scene then shifts to Mount Ebal, where Joshua builds an altar, offers sacrifices, writes a copy of the law, and reads the blessings and cursings before the assembled community.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -106,7 +105,11 @@ The two occurrences of “unto this day” present Ai's ruins and the stone heap
 <!-- SG:BEGIN literary -->
 The battle account is organized around announced plan and narrated execution. Joshua predicts the feigned retreat and pursuit; Ai's forces leave the city; the ambush captures and burns it; and the smoke precedes Israel's reversal. Joshua extends his spear at the LORD's direction, the ambush advances immediately afterward, and he does not draw back his hand until the destruction is complete. This sequence may indicate a battlefield signal, but the text does not explicitly identify a prearranged signal.
 
-Joshua's sustained gesture broadly resembles Moses' raised hands during battle in [[Exodus 17]]. The comparison can suggest continuity of leadership, especially beside the chapter's later emphasis on Moses' commands, but the gestures and functions differ substantially. A generic battlefield or victory motif remains a strong alternative explanation.
+Joshua's sustained gesture broadly resembles Moses' raised hands during battle in [[Exodus 17]], though the mechanics differ: Moses' hands are directly tied to Israel's battle fortunes and tire enough to require support, while Joshua's single extended spear cues one ambush maneuver and is then held through the slaughter that follows. A generic ancient battlefield gesture of divine sanction remains at least as strong an explanation as a deliberate literary echo of Moses.
+
+The chapter's numbers also resist full harmonization: thirty thousand men are sent by night and reach the western ambush position (8:3, 9), yet only about five thousand are later described as set in ambush there (8:12–13), and the day's total dead is fixed at twelve thousand, "even all the men of Ai" (8:25), even though Beth-el's men are also said to have joined the pursuit (8:17). None of these relationships is explained in the text; readers should hold the precise figures as unresolved rather than harmonized.
+
+The turn from conquest to covenant ceremony (8:29–30) is abrupt but pointed: military victory does not conclude the chapter — public submission to the written law does.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -115,9 +118,25 @@ Joshua's sustained gesture broadly resembles Moses' raised hands during battle i
 > The concentration of specific correspondences with Deuteronomy—Ebal, unworked altar stones, offerings, an inscribed law, Gerizim and Ebal, blessings and curses, and an inclusive public reading—provides strong evidence that the closing scene is deliberately framed as covenant obedience under the law of Moses.
 > — strength 0.9 · confidence 1.0 · Strong literary evidence; compositional explanation disputed · [[Intertextual And Legal Correspondence in Joshua 8|full dossier]]
 
+> [!evidence] Intertextual And Legal Correspondence
+> The closing ceremony is repeatedly presented as conformity to Moses' written commands and corresponds in several particulars to Deuteronomic instructions concerning Ebal, Gerizim, the altar, inscribed stones, and covenant blessings and cursings. This is strong evidence for deliberate literary and theological alignment with the Law of Moses.
+> — strength 0.8 · confidence 1.0 · strong, well-sourced correspondence
+
 > [!evidence] Literary And Legal Correspondence
 > The narrator repeatedly presents Joshua's altar, inscribed law, tribal arrangement, and public reading as fulfillment of commands attributed to Moses. This is strong evidence for the account's literary and theological portrayal of Joshua as obedient to Mosaic instruction.
 > — strength 0.9 · confidence 1.0 · Strong literary-theological evidence · [[Literary And Legal Correspondence in Joshua 8|full dossier]]
+
+> [!evidence] Internal Numerical And Narrative Tension
+> The chapter first reports thirty thousand men sent by night and later reports about five thousand men placed in ambush in the same general area west of Ai. The text does not explain whether the five thousand are a subset, a second detachment, or a separate narrative description.
+> — strength 0.5 · confidence 1.0 · accepted observation, unresolved relationship · [[Internal Numerical And Narrative Tension in Joshua 8|full dossier]]
+
+> [!evidence] Text-Critical / Philological *(tentative)*
+> The unexplained jump from 30,000 to 5,000 ambush troops, combined with a reported single-day death toll of 12,000 for a town whose destruction layer is difficult to identify archaeologically, is consistent with the broader scholarly debate over whether large troop and casualty numbers in Joshua/Numbers use "eleph" (אֶלֶף) in a literal sense of "thousand" or in an alternate sense of "military unit," "clan," or "chief."
+> — strength 0.2 · confidence 0.5 · disputed, unsourced synthesis
+
+> [!evidence] Archaeological *(tentative)*
+> The site most commonly identified with biblical Ai (et-Tell, near Beitin) shows little to no occupation during the Late Bronze Age, the period usually associated with a conquest-era Joshua narrative, which has led many archaeologists to treat Joshua 8 as difficult to correlate with a specific destruction layer at that site.
+> — strength 0.4 · confidence 0.5 · disputed, widely-known but uncited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -128,7 +147,9 @@ The report of comprehensive killing, explicitly including men and women, is mora
 
 - What role does Beth-el play, given that verse 17 includes its men in the pursuit while verse 25 counts the fallen as the people of Ai?
 
-- Why is the Ebal ceremony placed after Ai, and what literary, geographical, or chronological relationship is intended?
+- Does Joshua's outstretched spear function as a prearranged tactical signal, a symbolic act accompanying divine assurance, or both? The text does not say.
+
+- Why is the Ebal ceremony placed immediately after Ai, and what literary, geographical, or chronological relationship is intended?
 
 - What does the inclusion of women, children, and strangers show about the intended audience of covenant instruction, and what does it leave unspecified about their distinct statuses?
 <!-- SG:END questions -->
