@@ -7572,6 +7572,23 @@ ${body}
     internal: "BoM internal",
     historical: "historical"
   };
+  var NARRATIVE_LINKS = [
+    ["babel", "jaredite-voyage"],
+    ["jerusalem-falls", "lehi-departs"],
+    ["isaiah", "brass-plates"],
+    ["resurrection", "christ-bountiful"],
+    ["samuel-lamanite", "christ-birth"],
+    ["cumorah", "moroni-visits"],
+    ["moroni-alone", "bom-published"],
+    ["malachi", "kirtland-temple"]
+  ];
+  var LANE_COLOR = {
+    ow: "#d9a441",
+    nw: "#4cc38a",
+    rs: "#52a9ff"
+  };
+  var LANE_X = { ow: 300, nw: 700, rs: 500 };
+  var W = 1e3;
   function yearStr(y) {
     return y < 0 ? `${-y} BC` : `AD ${y}`;
   }
@@ -7728,58 +7745,184 @@ ${body}
         window.setTimeout(() => this.scrollToYear(y), 60);
       }
     }
+    yById = /* @__PURE__ */ new Map();
+    yByYear = [];
+    // [year, yUnits]
+    /** the constellation: glowing nodes on two threads of time, narrative
+     * links arcing between the hemispheres — the graph view, given order */
     renderStream() {
       const stream = this.streamEl;
       if (!stream) return;
       stream.empty();
+      this.clearDetail();
+      this.yById.clear();
+      this.yByYear = [];
       const events = this.visible();
       if (!events.length) {
         stream.createDiv({ cls: "sg-tl-empty", text: "Nothing matches these filters." });
         return;
       }
+      const ROW = 92, CENTURY_GAP = 74, TOP = 60, BOTTOM = 140;
+      let y = TOP;
       let lastCentury = null;
+      const centuries = [];
+      const pos = /* @__PURE__ */ new Map();
       for (const e of events) {
         const century = e.y0 < 0 ? -Math.ceil(-e.y0 / 100) * 100 : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
         if (century !== lastCentury) {
           lastCentury = century;
-          const title = e.y0 < 0 ? `${-century}-${-(century + 99)} BC` : `AD ${century}-${century + 99}`;
-          const ruler = stream.createDiv({ cls: "sg-tl-ruler" });
-          ruler.setAttr("data-year", String(century));
-          ruler.createSpan({ text: title.replace("-", "\u2013") });
-          ruler.onclick = () => {
-            void this.s.app.workspace.openLinkText(
-              `AI Library/90 Timeline/${title}.md`,
-              ""
-            );
-          };
+          y += CENTURY_GAP;
+          const page = e.y0 < 0 ? `${-century}-${-(century + 99)} BC` : `AD ${century}-${century + 99}`;
+          centuries.push({ y: y - 34, label: page.replace("-", "\u2013"), page, year: century });
+          this.yByYear.push([century, y - 34]);
         }
-        const side = e.lane === "ow" ? "sg-tl-left" : e.lane === "nw" ? "sg-tl-right" : "sg-tl-full";
-        const row = stream.createDiv({ cls: `sg-tl-item ${side}` });
-        row.setAttr("data-year", String(e.y0));
-        const card = row.createDiv({ cls: `sg-tl-card sg-tl-${e.lane}` });
-        const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} \u2013 ${yearStr(e.y1)}`;
-        card.createDiv({ cls: "sg-tl-year", text: `${yr} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}` });
-        card.createDiv({ cls: "sg-tl-title", text: e.t });
-        card.createDiv({ cls: "sg-tl-note", text: e.note });
-        const links = card.createDiv({ cls: "sg-tl-links" });
-        const link = (label, target) => {
-          const b = links.createEl("button", { cls: "sg-tl-link", text: label });
-          b.onclick = (evt) => {
-            evt.stopPropagation();
-            void this.s.app.workspace.openLinkText(target, "");
-          };
-        };
-        for (const p of (e.people ?? []).slice(0, 3)) link(`\u{1F9D1} ${p}`, p);
-        for (const p of (e.places ?? []).slice(0, 2)) link(`\u{1F5FA} ${p}`, p);
-        for (const ch of (e.chapters ?? []).slice(0, 3)) link(`\u{1F4D6} ${ch}`, ch);
+        pos.set(e.id, { x: LANE_X[e.lane] ?? 500, y, e });
+        this.yById.set(e.id, y);
+        y += ROW;
       }
+      const H = y + BOTTOM;
+      const NS = "http://www.w3.org/2000/svg";
+      const svg = document.createElementNS(NS, "svg");
+      svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+      svg.setAttribute("preserveAspectRatio", "xMidYMin meet");
+      svg.classList.add("sg-tl-svg");
+      const el = (tag, attrs, parent = svg) => {
+        const n = document.createElementNS(NS, tag);
+        for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+        parent.appendChild(n);
+        return n;
+      };
+      const defs = el("defs", {});
+      const filt = el("filter", { id: "sgtlglow", x: "-80%", y: "-80%", width: "260%", height: "260%" }, defs);
+      el("feGaussianBlur", { stdDeviation: "7", result: "b" }, filt);
+      const merge = el("feMerge", {}, filt);
+      el("feMergeNode", { in: "b" }, merge);
+      el("feMergeNode", { in: "SourceGraphic" }, merge);
+      for (const c of centuries) {
+        el("line", {
+          x1: "70",
+          x2: String(W - 70),
+          y1: String(c.y),
+          y2: String(c.y),
+          class: "sg-tl-cline"
+        });
+        const t = el("text", {
+          x: "78",
+          y: String(c.y - 10),
+          class: "sg-tl-clabel"
+        });
+        t.textContent = c.label;
+        t.onclick = () => {
+          void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
+        };
+      }
+      for (const lane of ["ow", "nw", "rs"]) {
+        const chain = events.filter((e) => e.lane === lane);
+        if (chain.length < 2) continue;
+        let d = "";
+        for (let i = 0; i < chain.length; i++) {
+          const p = pos.get(chain[i].id);
+          if (i === 0) {
+            d = `M ${p.x} ${p.y}`;
+            continue;
+          }
+          const prev = pos.get(chain[i - 1].id);
+          const midY = (prev.y + p.y) / 2;
+          d += ` C ${prev.x} ${midY}, ${p.x} ${midY}, ${p.x} ${p.y}`;
+        }
+        el("path", { d, class: "sg-tl-thread", stroke: LANE_COLOR[lane] });
+      }
+      const visibleIds = new Set(events.map((e) => e.id));
+      for (const [a, b] of NARRATIVE_LINKS) {
+        if (!visibleIds.has(a) || !visibleIds.has(b)) continue;
+        const pa = pos.get(a), pb = pos.get(b);
+        const bow = (500 - (pa.x + pb.x) / 2) * 0.9 + 500;
+        el("path", {
+          d: `M ${pa.x} ${pa.y} Q ${bow} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+          class: "sg-tl-arc"
+        });
+      }
+      const q = this.query.trim().toLowerCase();
+      if (q.length >= 3) {
+        const hits = events.filter((e) => (e.people ?? []).some((p) => p.toLowerCase().includes(q)));
+        for (let i = 1; i < hits.length; i++) {
+          const pa = pos.get(hits[i - 1].id), pb = pos.get(hits[i].id);
+          el("path", {
+            d: `M ${pa.x} ${pa.y} Q ${(pa.x + pb.x) / 2 + 60} ${(pa.y + pb.y) / 2}, ${pb.x} ${pb.y}`,
+            class: "sg-tl-spot"
+          });
+        }
+      }
+      for (const e of events) {
+        const p = pos.get(e.id);
+        const r = e.imp === 1 ? 15 : e.imp === 2 ? 10 : 7;
+        const g = el("g", { class: "sg-tl-node", "data-id": e.id });
+        el("circle", {
+          cx: String(p.x),
+          cy: String(p.y),
+          r: String(r),
+          fill: LANE_COLOR[e.lane],
+          filter: "url(#sgtlglow)",
+          class: "sg-tl-dot"
+        }, g);
+        const label = e.t.length > 30 ? `${e.t.slice(0, 28)}\u2026` : e.t;
+        const t1 = el("text", {
+          x: String(p.x),
+          y: String(p.y + r + 26),
+          "text-anchor": "middle",
+          class: e.imp === 1 ? "sg-tl-label sg-tl-label-big" : "sg-tl-label"
+        }, g);
+        t1.textContent = label;
+        const t2 = el("text", {
+          x: String(p.x),
+          y: String(p.y + r + 50),
+          "text-anchor": "middle",
+          class: "sg-tl-sublabel"
+        }, g);
+        t2.textContent = yearStr(e.y0);
+        g.onclick = () => this.selectNode(e, g);
+      }
+      stream.appendChild(svg);
+      svg.addEventListener("click", (evt) => {
+        if (evt.target.closest(".sg-tl-node")) return;
+        this.clearDetail();
+      });
+    }
+    detailEl = null;
+    clearDetail() {
+      this.detailEl?.remove();
+      this.detailEl = null;
+      this.streamEl?.querySelectorAll(".sg-tl-sel").forEach((n) => n.classList.remove("sg-tl-sel"));
+    }
+    /** the tapped node lights up; its story slides in at the bottom */
+    selectNode(e, g) {
+      this.clearDetail();
+      g.classList.add("sg-tl-sel");
+      const card = this.contentEl.createDiv({ cls: "sg-tl-detail" });
+      this.detailEl = card;
+      const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} \u2013 ${yearStr(e.y1)}`;
+      const head = card.createDiv({ cls: "sg-tl-detail-head" });
+      head.createSpan({ cls: "sg-tl-detail-year", text: `${yr} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}` });
+      const close = head.createEl("button", { cls: "sg-tl-detail-x", text: "\u2715" });
+      close.onclick = () => this.clearDetail();
+      card.createDiv({ cls: "sg-tl-detail-title", text: e.t });
+      card.createDiv({ cls: "sg-tl-detail-note", text: e.note });
+      const links = card.createDiv({ cls: "sg-tl-links" });
+      const link = (label, target) => {
+        const b = links.createEl("button", { cls: "sg-tl-link", text: label });
+        b.onclick = () => void this.s.app.workspace.openLinkText(target, "");
+      };
+      for (const p of (e.people ?? []).slice(0, 3)) link(`\u{1F9D1} ${p}`, p);
+      for (const p of (e.places ?? []).slice(0, 2)) link(`\u{1F5FA} ${p}`, p);
+      for (const ch of (e.chapters ?? []).slice(0, 3)) link(`\u{1F4D6} ${ch}`, ch);
     }
     scrollToYear(y) {
       const stream = this.streamEl;
       if (!stream) return;
-      const nodes = Array.from(stream.querySelectorAll("[data-year]"));
-      const hit = nodes.find((n) => Number(n.getAttr("data-year")) >= y) ?? nodes[nodes.length - 1];
-      hit?.scrollIntoView({ block: "start", behavior: "smooth" });
+      const hit = this.yByYear.find(([yr]) => yr >= y) ?? this.yByYear[this.yByYear.length - 1];
+      if (!hit) return;
+      const scale = stream.clientWidth / W;
+      stream.scrollTo({ top: Math.max(0, hit[1] * scale - 70), behavior: "smooth" });
     }
     async onClose() {
       this.contentEl.empty();
@@ -8400,12 +8543,13 @@ ${body}
       events: [
         { id: "isaiah", t: "Isaiah's ministry in Jerusalem", y0: -740, y1: -690, lane: "ow", imp: 1, cat: ["prophets"], dating: "approximate", people: ["Isaiah"], places: ["Jerusalem"], chapters: ["Isaiah 6"], note: "the prophet Nephi quotes most" },
         { id: "daniel", t: "Daniel taken to Babylon", y0: -605, y1: -605, lane: "ow", imp: 2, cat: ["prophets"], dating: "historical", people: ["Daniel"], places: ["Babylon"], chapters: ["Daniel 1"], note: "first deportation" },
-        { id: "lehi", t: "Lehi's family leaves Jerusalem", y0: -600, y1: -600, lane: "nw", imp: 1, cat: ["journeys", "turning"], dating: "traditional", people: ["Lehi", "Nephi"], places: ["Jerusalem"], chapters: ["1 Nephi 2"], note: "while Jeremiah preaches, a family walks into the desert" },
+        { id: "lehi-departs", t: "Lehi's family leaves Jerusalem", y0: -600, y1: -600, lane: "nw", imp: 1, cat: ["journeys", "turning"], dating: "traditional", people: ["Lehi", "Nephi"], places: ["Jerusalem"], chapters: ["1 Nephi 2"], note: "while Jeremiah preaches, a family walks into the desert" },
         { id: "jerusalem-falls", t: "Babylon destroys Jerusalem", y0: -586, y1: -586, lane: "ow", imp: 1, cat: ["wars", "turning"], dating: "historical", places: ["Jerusalem"], chapters: ["2 Kings 25"], note: "exactly as Lehi and Jeremiah warned" },
         { id: "benjamin", t: "King Benjamin's address", y0: -124, y1: -124, lane: "nw", imp: 1, cat: ["rulers", "visions"], dating: "internal", people: ["King Benjamin"], places: ["Zarahemla"], chapters: ["Mosiah 2"], note: "a whole people takes Christ's name" },
         { id: "christ-birth", t: "The birth of Jesus Christ", y0: -4, y1: -4, lane: "ow", imp: 1, cat: ["turning"], dating: "traditional", people: ["Jesus Christ"], places: ["Bethlehem"], chapters: ["Luke 2"], note: "a star over Bethlehem" },
         { id: "night-no-dark", t: "The night without darkness", y0: -4, y1: -4, lane: "nw", imp: 1, cat: ["visions"], dating: "internal", chapters: ["3 Nephi 1"], note: "Samuel's sign fulfilled" },
-        { id: "bountiful", t: "The risen Christ visits Bountiful", y0: 34, y1: 34, lane: "nw", imp: 1, cat: ["visions", "turning"], dating: "internal", people: ["Jesus Christ"], chapters: ["3 Nephi 11"], note: "one by one they feel the prints" },
+        { id: "resurrection", t: "The Resurrection", y0: 30, y1: 30, lane: "ow", imp: 1, cat: ["turning"], dating: "traditional", people: ["Jesus Christ"], places: ["Jerusalem"], chapters: ["John 20"], note: "the first fruits of them that slept" },
+        { id: "christ-bountiful", t: "The risen Christ visits Bountiful", y0: 34, y1: 34, lane: "nw", imp: 1, cat: ["visions", "turning"], dating: "internal", people: ["Jesus Christ"], chapters: ["3 Nephi 11"], note: "one by one they feel the prints" },
         { id: "first-vision", t: "The First Vision", y0: 1820, y1: 1820, lane: "rs", imp: 1, cat: ["visions", "turning"], dating: "historical", people: ["Joseph Smith Jr"], places: ["Sacred Grove"], chapters: ["Joseph Smith\u2014History 1"], note: "a spring-morning prayer opens the dispensation" }
       ]
     };
