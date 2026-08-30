@@ -119,6 +119,13 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.conference_sessions_per_night", 4)))
             except Exception as e:  # noqa: BLE001 — network trouble must not sink the run
                 ctx.log.warn("nightly.backfill_failed", error=str(e)[:200])
+        if ctx.c("timeline.enabled", True):
+            from scripturegraph.timeline import maybe_build_timeline
+            try:
+                # only writes when the chronology actually changed
+                stats["timeline"] = maybe_build_timeline(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.timeline_failed", error=str(e)[:200])
         if ctx.c("secondary.enabled", True):
             from scripturegraph.secondary.ingest import secondary_nightly
             try:
@@ -250,6 +257,12 @@ def run_weekly(ctx: Ctx) -> dict:
                 stats["crossrefs"] = build_crossrefs(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("weekly.crossrefs_failed", error=str(e)[:200])
+        if ctx.c("timeline.enabled", True):
+            from scripturegraph.timeline import maybe_build_timeline
+            try:
+                stats["timeline"] = maybe_build_timeline(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("weekly.timeline_failed", error=str(e)[:200])
         update_all_coverage(ctx)
         batch = int(ctx.c("coverage.equalize_batch", 40))
         for w in weakest_chapters(ctx, batch):

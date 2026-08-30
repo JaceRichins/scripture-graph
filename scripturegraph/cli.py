@@ -181,11 +181,11 @@ def cmd_timeline(args):
     ctx = _ctx(args)
     from scripturegraph import gitops
     from scripturegraph.lockfile import EngineBusy, engine_lock
-    from scripturegraph.timeline import build_timeline
+    from scripturegraph.timeline import maybe_build_timeline
     try:
         with engine_lock(ctx):
             gitops.checkpoint(ctx, "timeline: pre-build checkpoint")
-            stats = build_timeline(ctx)
+            stats = maybe_build_timeline(ctx, force=True)
             gitops.commit_all(ctx, "timeline: curated chronology + century anchors")
     except EngineBusy:
         print("engine busy — another run holds the lock; try again shortly")

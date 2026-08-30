@@ -34,6 +34,25 @@ def test_book_years_cover_all_slugs():
     assert not missing, f"books without a timeline year: {missing}"
 
 
+def test_organic_rebuild_only_on_change(mini_ctx):
+    """The scheduled runs call maybe_build_timeline every night — it must be
+    a no-op while the chronology is unchanged, and rebuild the moment the
+    dataset (or its output) isn't what's on disk."""
+    from scripturegraph.timeline import maybe_build_timeline
+    first = maybe_build_timeline(mini_ctx)
+    assert first.get("rebuilt") is True
+    second = maybe_build_timeline(mini_ctx)
+    assert second == {"skipped": "unchanged"}
+    # dataset changes (simulated via the stored fingerprint) trigger a rebuild
+    mini_ctx.meta_set("timeline:hash", "stale")
+    third = maybe_build_timeline(mini_ctx)
+    assert third.get("rebuilt") is True
+    # a missing output file also heals, even with a current fingerprint
+    (mini_ctx.vault / "AI Library" / "90 Timeline" / "_data.md").unlink()
+    fourth = maybe_build_timeline(mini_ctx)
+    assert fourth.get("rebuilt") is True
+
+
 def test_build_writes_pages_and_data(mini_ctx):
     stats = build_timeline(mini_ctx)
     assert stats["events"] == len(EVENTS)

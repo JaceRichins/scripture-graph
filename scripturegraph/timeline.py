@@ -693,3 +693,25 @@ def build_timeline(ctx) -> dict:
 
     return {"events": len(EVENTS), "centuries": len(spans),
             "books_mapped": len(BOOK_YEARS), "pruned": pruned}
+
+
+def dataset_hash() -> str:
+    """content fingerprint of the chronology — changes iff the dataset does"""
+    import hashlib
+    blob = json.dumps({"e": EVENTS, "b": BOOK_YEARS}, sort_keys=True,
+                      ensure_ascii=False)
+    return hashlib.sha256(blob.encode("utf-8")).hexdigest()[:16]
+
+
+def maybe_build_timeline(ctx, force: bool = False) -> dict:
+    """Regenerate the timeline ONLY when the chronology changed (or its
+    output is missing) — called from the scheduled runs, so the timeline
+    stays current organically without nightly git churn."""
+    h = dataset_hash()
+    data_file = ctx.vault / OUTPUT_SUB / "_data.md"
+    if not force and ctx.meta_get("timeline:hash") == h and data_file.exists():
+        return {"skipped": "unchanged"}
+    stats = build_timeline(ctx)
+    ctx.meta_set("timeline:hash", h)
+    stats["rebuilt"] = True
+    return stats
