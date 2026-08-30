@@ -177,6 +177,23 @@ def cmd_translations(args):
     return 0
 
 
+def cmd_dictionary(args):
+    ctx = _ctx(args)
+    from scripturegraph import gitops
+    from scripturegraph.dictionary import build_dictionary
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    try:
+        with engine_lock(ctx):
+            gitops.checkpoint(ctx, "dictionary: pre-build checkpoint")
+            stats = build_dictionary(ctx, refresh=args.refresh)
+            gitops.commit_all(ctx, "dictionary: Easton + Smith (public domain)")
+    except EngineBusy:
+        print("engine busy — another run holds the lock; try again shortly")
+        return 1
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_crossrefs(args):
     ctx = _ctx(args)
     from scripturegraph import gitops
@@ -369,6 +386,10 @@ def main(argv=None) -> int:
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
     sp.set_defaults(fn=cmd_translations)
+
+    sp = sub.add_parser("dictionary", help="fetch the public-domain Bible dictionary (Easton + Smith)")
+    sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
+    sp.set_defaults(fn=cmd_dictionary)
 
     sp = sub.add_parser("status", help="status dashboard (console + Status.md)")
     sp.add_argument("--no-note", action="store_true")
