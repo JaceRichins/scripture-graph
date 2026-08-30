@@ -67,12 +67,13 @@ Jeremiah 44 presents a confrontation between Jeremiah and Judean refugees living
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
+- [[Scattering of Israel]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter presents [[Obedience]] as more than passive religious identification: the decisive issue is whether the people will hear, turn, and walk in the revealed law. It also depicts [[Prophets]] as warning before judgment rather than merely explaining disaster afterward. The people's explicit refusal shows that continued [[Apostasy]] is portrayed as deliberate within the narrative, although the chapter's theological explanation should not be confused with an independently testable account of every political or economic cause of Judah's collapse.
+The chapter frames continued idolatry as a matter of deliberate choice rather than passive inheritance: the refugees declare, "we will certainly do whatsoever thing goeth forth out of our own mouth" (Jeremiah 44:17), and later insist they will "surely perform" their vows to the queen of heaven (44:25) — repeated assertions of will that bear on [[Agency]] alongside [[Obedience]]. [[Prophets]] are shown warning "rising early" before catastrophe (44:4), removing any claim of ignorance, and [[Prophecy]] supplies a testable claim (Pharaoh-hophra's downfall, 44:30) whose resolution unfolds beyond the chapter. Verse 10 explicitly ties the people's condition to a lack of [[Humility]] ("they are not humbled even unto this day"). None of this settles every historical or political cause of Jerusalem's fall or the refugees' hardship in Egypt; the chapter's explanation is theological, not a complete account of the period.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -87,7 +88,11 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+"Queen of heaven" (Hebrew _malekhet ha-shamayim_, 44:17-19, 25) is usually identified by scholars with a Mesopotamian or West Semitic astral goddess — most often Ishtar or Astarte, though Anat has also been proposed. The identification is a scholarly reconstruction rather than something the text itself settles. The same title and practices (cakes, drink offerings) appear in [[Jeremiah 7]], indicating this was a recognizable, named devotion rather than a one-off accusation.
+
+The chapter also plays on the overlap between vow-language and oath-language: the people insist they will "surely perform" their vows to the goddess (44:25), and the LORD answers in kind, "I have sworn by my great name" (44:26), that his own name will no longer be invoked by them. Two solemn, self-binding declarations — one human, one divine — are placed directly against each other.
+
+"Pharaoh-hophra" (44:30) renders the throne name of the historical Egyptian king Apries, who reigned roughly 589-570 BCE.
 <!-- SG:END language -->
 
 ## Literary Features
@@ -112,6 +117,18 @@ Finally, the sweeping destruction language of verses 12 and 27 is qualified by t
 > [!evidence] Internal Textual Evidence
 > As literary evidence, the reported reply strongly supports the conclusion that the chapter intentionally presents a contested interpretation of recent history: the Judeans appeal to remembered material outcomes, and Jeremiah directly reverses their causal explanation.
 > — strength 0.9 · confidence 1.0 · Strong internal literary evidence · [[Internal Textual Evidence in Jeremiah 44|full dossier]]
+
+> [!evidence] Predictive Sign Within The Narrative
+> The text presents the downfall of Pharaoh-hophra as a sign that the LORD's threatened judgment against the Judeans in Egypt will stand, explicitly comparing Hophra's fate with Zedekiah's delivery to Nebuchadrezzar.
+> — strength 0.3 · confidence 0.9 · narrative observation solid; historical-corroboration strength weak · [[Predictive Sign Within The Narrative in Jeremiah 44|full dossier]]
+
+> [!evidence] Historical Corroboration *(tentative)*
+> The prophecy that Pharaoh-hophra would be given into the hand of enemies seeking his life corresponds to the broadly attested historical overthrow of Pharaoh Apries (Hophra) by his general Amasis around 570 BCE, reported by Herodotus and consistent with Egyptian sources documenting the change of ruler.
+> — strength 0.4 · confidence 0.6 · disputed strength of historical parallel
+
+> [!evidence] Extrabiblical Parallel *(tentative)*
+> The fifth-century BCE Judean military colony at Elephantine, known from Aramaic papyri, documents a later Judean community in Egypt that maintained syncretistic worship (a goddess figure alongside YHWH), offering a loose extrabiblical parallel to the pattern of diaspora religious blending described in this chapter.
+> — strength 0.3 · confidence 0.3 · disputed, geographically/chronologically distant parallel
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -121,5 +138,9 @@ Why do the refugees interpret earlier prosperity as proof that their worship was
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Read [[Jeremiah 42]] and [[Jeremiah 43]] as the immediate narrative background: warning against entering Egypt is followed by migration there and then by this oracle. Compare [[Jeremiah 7]], especially its description of household participation in offerings to the queen of heaven. Jeremiah 39:5–7 supplies the account of Zedekiah’s fate invoked in Jeremiah 44:30. Deuteronomy 28 offers broader covenant-judgment context for the language of sword, famine, pestilence, curse, reproach, and displacement, though direct literary dependence should not be assumed.
+Read [[Jeremiah 42]] and [[Jeremiah 43]] as the immediate narrative background: warning against entering Egypt is followed by migration there and then by this oracle. Compare [[Jeremiah 7]], especially its description of household participation in offerings to the queen of heaven. Jeremiah 39:5–7 supplies the account of Zedekiah's fate invoked in Jeremiah 44:30. Deuteronomy 28 offers broader covenant-judgment vocabulary (sword, famine, pestilence, curse, reproach, displacement), though this rests on generic covenant-curse language shared across many prophetic texts, so direct literary dependence should not be assumed.
+
+For the historical figure behind "Pharaoh-hophra," see Herodotus, _Histories_ 2.161–169, which describes Apries losing the throne to his general Amasis in a largely domestic power struggle rather than a straightforward foreign conquest, and later being killed by his own countrymen — a looser parallel to Zedekiah's capture by a foreign king than the oracle's rhetoric might suggest, though still consistent with being "given into the hand of his enemies." Whether the oracle's wording was finalized before or after this event (c. 570 BCE) cannot be settled from the text alone.
+
+The fifth-century BCE Judean military colony at Elephantine, known from Aramaic papyri, documents a later, geographically distinct Judean community in Egypt whose devotional practice has been read by some scholars as including a goddess figure (sometimes reconstructed as "Anat-Yahu") alongside YHWH, though that reading is debated. It illustrates a general pattern of diaspora religious blending in Egypt rather than direct evidence about the specific refugees addressed in this chapter.
 <!-- SG:END further-study -->
