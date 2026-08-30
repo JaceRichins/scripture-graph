@@ -84,6 +84,14 @@ def run_frequent(ctx: Ctx) -> dict:
         from scripturegraph.personal import index_personal_notes
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
+        if ctx.c("timeline.enabled", True):
+            from scripturegraph.timeline import maybe_build_timeline
+            try:
+                # hash-guarded no-op unless the chronology changed — puts a
+                # fresh dataset on devices within 2h instead of overnight
+                stats["timeline"] = maybe_build_timeline(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("frequent.timeline_failed", error=str(e)[:200])
         stats["queue"] = _process(ctx, include_ai=False, max_items=800)
         gitops.commit_all(ctx, "frequent: source scan + deterministic queue work")
         _finish_run(ctx, run_id, "ok", stats)
