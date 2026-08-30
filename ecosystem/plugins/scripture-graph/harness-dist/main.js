@@ -6570,7 +6570,8 @@ ${text}` : text;
       scopeChip.onclick = (e) => this.pickScope(e);
       const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
       close.onclick = () => this.clear();
-      const colors = bar2.createDiv({ cls: "sg-studybar-colors" });
+      const marks = bar2.createDiv({ cls: "sg-studybar-marks" });
+      const colors = marks.createDiv({ cls: "sg-studybar-colors" });
       for (const c of COLORS) {
         const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
         dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
@@ -6581,7 +6582,8 @@ ${text}` : text;
         dot.setAttribute("aria-label", `Mark ${c}`);
         dot.onclick = () => void this.doHighlight(c);
       }
-      const styleRow = bar2.createDiv({ cls: "sg-studybar-styles" });
+      marks.createDiv({ cls: "sg-mark-divider" });
+      const styleRow = marks.createDiv({ cls: "sg-studybar-styles" });
       const styles = [
         ["highlight", "\u{1F58D}"],
         ["underline", "U\u0332"],
@@ -6609,7 +6611,7 @@ ${text}` : text;
           cls: "sg-theme-chip",
           text: `${sp.emoji} ${sp.name}`
         });
-        chip.style.borderBottom = `3px solid ${sp.c1}`;
+        chip.style.borderBottom = `2px solid ${sp.c1}`;
         chipByName.set(sp.name.toLowerCase(), chip);
         chip.onclick = () => void this.doTheme(sp);
       }
@@ -6617,18 +6619,20 @@ ${text}` : text;
       add.onclick = () => this.saveThemePrompt();
       void this.markActiveThemeChips(chipByName);
       const row = bar2.createDiv({ cls: "sg-studybar-actions" });
-      const act = (label, fn) => {
-        const b = row.createEl("button", { text: label });
+      const act = (icon, label, fn) => {
+        const b = row.createEl("button");
+        b.createDiv({ cls: "sg-act-ico", text: icon });
+        b.createDiv({ cls: "sg-act-lbl", text: label });
         b.onclick = fn;
       };
-      act("\u{1F4DD} Note", () => this.doNote());
-      act("\u{1F0CF} Card", () => void this.doFlashcard());
-      act("\u{1F578} Graph", () => void this.openGraph());
-      act("\u{1F4CB} Copy", () => void this.doCopy());
-      act("\u2728 AI", () => this.doAsk());
+      act("\u{1F4DD}", "Note", () => this.doNote());
+      act("\u{1F0CF}", "Card", () => void this.doFlashcard());
+      act("\u{1F578}", "Graph", () => void this.openGraph());
+      act("\u{1F4CB}", "Copy", () => void this.doCopy());
+      act("\u2728", "AI", () => this.doAsk());
       const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
       if (firstSel && isBiblical(firstSel.verseId)) {
-        act("\u{1F310} Versions", () => {
+        act("\u{1F310}", "Versions", () => {
           new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
         });
       }

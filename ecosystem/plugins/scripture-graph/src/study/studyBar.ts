@@ -417,9 +417,10 @@ export class StudyBar {
     const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
     close.onclick = () => this.clear();
 
-    // row 2: color dots + text-treatment chips — ONE TAP marks with the
-    // remembered scope/style. Colors are inline so they never render gray.
-    const colors = bar.createDiv({ cls: "sg-studybar-colors" });
+    // row 2: color dots + text-treatment chips ON ONE LINE — one tap marks
+    // with the remembered scope/style. Colors are inline so they never gray.
+    const marks = bar.createDiv({ cls: "sg-studybar-marks" });
+    const colors = marks.createDiv({ cls: "sg-studybar-colors" });
     for (const c of COLORS) {
       const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
       dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
@@ -430,7 +431,8 @@ export class StudyBar {
       dot.setAttribute("aria-label", `Mark ${c}`);
       dot.onclick = () => void this.doHighlight(c);
     }
-    const styleRow = bar.createDiv({ cls: "sg-studybar-styles" });
+    marks.createDiv({ cls: "sg-mark-divider" });
+    const styleRow = marks.createDiv({ cls: "sg-studybar-styles" });
     const styles: [string, string][] = [["highlight", "🖍"], ["underline", "U̲"],
       ["bold", "B"], ["italic", "I"]];
     for (const [key, label] of styles) {
@@ -459,7 +461,7 @@ export class StudyBar {
       const chip = trow.createEl("button", {
         cls: "sg-theme-chip", text: `${sp.emoji} ${sp.name}`,
       });
-      chip.style.borderBottom = `3px solid ${sp.c1}`;
+      chip.style.borderBottom = `2px solid ${sp.c1}`;
       chipByName.set(sp.name.toLowerCase(), chip);
       chip.onclick = () => void this.doTheme(sp);
     }
@@ -467,21 +469,23 @@ export class StudyBar {
     add.onclick = () => this.saveThemePrompt();
     void this.markActiveThemeChips(chipByName);
 
-    // row 3: actions
+    // row 3: actions — an even grid of icon-over-label buttons (no overflow)
     const row = bar.createDiv({ cls: "sg-studybar-actions" });
-    const act = (label: string, fn: () => void) => {
-      const b = row.createEl("button", { text: label });
+    const act = (icon: string, label: string, fn: () => void) => {
+      const b = row.createEl("button");
+      b.createDiv({ cls: "sg-act-ico", text: icon });
+      b.createDiv({ cls: "sg-act-lbl", text: label });
       b.onclick = fn;
     };
-    act("📝 Note", () => this.doNote());
-    act("🃏 Card", () => void this.doFlashcard());
-    act("🕸 Graph", () => void this.openGraph());
-    act("📋 Copy", () => void this.doCopy());
-    act("✨ AI", () => this.doAsk());
+    act("📝", "Note", () => this.doNote());
+    act("🃏", "Card", () => void this.doFlashcard());
+    act("🕸", "Graph", () => void this.openGraph());
+    act("📋", "Copy", () => void this.doCopy());
+    act("✨", "AI", () => this.doAsk());
     // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
     const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
     if (firstSel && isBiblical(firstSel.verseId)) {
-      act("🌐 Versions", () => {
+      act("🌐", "Versions", () => {
         new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
       });
     }

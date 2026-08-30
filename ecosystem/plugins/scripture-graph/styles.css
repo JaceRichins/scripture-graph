@@ -1042,8 +1042,8 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
   border-radius: 22px;
   box-shadow: 0 10px 34px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0, 0, 0, 0.22);
-  padding: 12px 14px 12px;
-  display: flex; flex-direction: column; gap: 10px;
+  padding: 9px 12px 10px;
+  display: flex; flex-direction: column; gap: 7px;
   animation: sg-bar-in 0.18s cubic-bezier(0.2, 0.9, 0.3, 1.2);
 }
 @keyframes sg-bar-in { from { transform: translate(-50%, 16px); opacity: 0; } }
@@ -1066,14 +1066,21 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   border-radius: 14px; padding: 6px 14px; font-size: 0.9em; font-weight: 600;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.3);
 }
+/* colors + text styles share ONE compact line, split by a hairline */
+.sg-studybar-marks {
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+}
 .sg-studybar-colors, .sg-studybar-styles {
-  display: flex; gap: 12px; justify-content: center; align-items: center;
+  display: flex; gap: 7px; justify-content: center; align-items: center;
+}
+.sg-mark-divider {
+  width: 1px; height: 22px; flex: 0 0 1px;
+  background: color-mix(in srgb, var(--background-modifier-border) 85%, transparent);
 }
 .sg-dot {
-  flex: 0 0 34px; width: 34px; height: 34px; border-radius: 50%;
+  flex: 0 0 30px; width: 30px; height: 30px; border-radius: 50%;
   border: 2px solid transparent; box-shadow: none; padding: 0;
 }
-.sg-style-chip { flex: 0 0 40px; }
 .sg-studybar-ref {
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0;
 }
@@ -1084,25 +1091,42 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
 .sg-dot-pink   { background: #f76bb0; }
 .sg-dot-orange { background: #ff9f45; }
 .sg-style-chip {
-  width: 34px; height: 34px; border-radius: 9px; padding: 0;
-  background: var(--background-secondary); box-shadow: none; font-size: 15px;
+  flex: 0 0 30px; width: 30px; height: 30px; border-radius: 9px; padding: 0;
+  background: var(--background-secondary); box-shadow: none; font-size: 14px;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
 }
-.sg-style-on { outline: 2px solid var(--text-normal); }
+.sg-style-on {
+  outline: none;
+  border-color: var(--text-normal);
+  background: color-mix(in srgb, var(--text-normal) 14%, var(--background-secondary));
+}
 .sg-studybar-themes {
   display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
-  padding-bottom: 2px;
+  padding: 1px 2px 3px;
+  /* the scroll edge fades out instead of chopping a chip in half */
+  -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
+  mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
 }
 .sg-theme-chip {
-  font-size: 0.8em; padding: 4px 10px; border-radius: 11px; white-space: nowrap;
+  font-size: 0.78em; padding: 3px 10px 4px; border-radius: 10px; white-space: nowrap;
   background: var(--background-secondary); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent);
 }
 .sg-theme-add { opacity: 0.75; }
-.sg-studybar-actions { display: flex; gap: 7px; }
+.sg-studybar-actions { display: flex; gap: 6px; }
 .sg-studybar-actions button {
-  flex: 1; font-size: 0.8em; font-weight: 600; padding: 9px 2px;
+  flex: 1 1 0; min-width: 0;
+  display: flex; flex-direction: column; align-items: center; gap: 1px;
+  padding: 6px 0 5px;
   border-radius: 12px; background: var(--background-secondary);
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
-  box-shadow: none; white-space: nowrap;
+  box-shadow: none;
+}
+.sg-act-ico { font-size: 1.05em; line-height: 1.2; }
+.sg-act-lbl {
+  font-size: 0.62em; font-weight: 600; line-height: 1.1;
+  color: var(--text-muted);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 100%;
 }
 .sg-studybar-actions button:active { transform: scale(0.96); }
 .sg-dot:active, .sg-theme-chip:active, .sg-style-chip:active { transform: scale(0.92); }
