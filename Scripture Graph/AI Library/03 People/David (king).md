@@ -48,6 +48,7 @@ _Not yet developed._
 - **1010 BC–970 BC** — David's reign over all Israel (Hebron and Jerusalem) · [[1 Chronicles 29]] · [[1100-1001 BC]] *(traditional dating)*
 - **971 BC–970 BC** — Temple-fund offering and Solomon's public coronation · [[1 Chronicles 29]] · [[1000-901 BC]] *(approximate)*
 - **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
+- **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

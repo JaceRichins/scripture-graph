@@ -3131,6 +3131,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-6-2f528203",
+   "t": "Construction of Solomon's Temple (foundation to completion)",
+   "y0": -966,
+   "y1": -959,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "1 Kings 6:1 dates the start to Solomon's 4th regnal year and 6:37-38 date the foundation to the 4th year (month Zif) and completion to the 11th year (month Bul), a seven-year span; absolute years follow conventional regnal chronology and are approximate.",
+   "chapters": [
+    "1 Kings 6"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "things": [
+    "Solomon's Temple",
+    "Ark of the Covenant"
+   ]
+  },
+  {
    "id": "r-1ne-10-90addb33",
    "t": "Lehi's 600-year Messianic prophecy",
    "y0": -600,
@@ -3320,6 +3345,35 @@ timeline module, not this file._
    "things": [
     "high gate of the temple",
     "wall of Ophel"
+   ]
+  },
+  {
+   "id": "r-2chr-29-3ba72290",
+   "t": "Hezekiah's reign and first-month temple reform",
+   "y0": -715,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Approximate range commonly cited from synchronistic reconstructions (e.g., Thiele-type chronologies) using Assyrian-period synchronisms; Hezekiah's exact accession date and any co-regency with Ahaz remain disputed among chronologists.",
+   "chapters": [
+    "2 Chronicles 29"
+   ],
+   "people": [
+    "Hezekiah",
+    "David (king)",
+    "Aaron (brother of Moses)"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "temple vessels"
    ]
   },
   {
