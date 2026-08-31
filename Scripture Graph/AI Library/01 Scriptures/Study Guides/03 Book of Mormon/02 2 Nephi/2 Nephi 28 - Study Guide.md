@@ -23,7 +23,16 @@ Scripture: [[2 Nephi 28]] · My notes: [[2 Nephi 28 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is:
+
+- **Verses 1-2:** Prophetic authority and the future value of written words.
+- **Verses 3-6:** Rival churches, contentious teaching, and denial of present divine power.
+- **Verses 7-9:** Two rationalizations of sin.
+- **Verses 10-18:** Corruption, pride, mistreatment of the poor, woes, and conditional destruction.
+- **Verses 19-23:** Satan's contrasting methods and final judgment.
+- **Verses 24-32:** Woes against complacency, human precepts, and refusal of further revelation, followed by a renewed offer of mercy.
+
+This is a thematic outline rather than proof of a formal literary structure.
 <!-- SG:END structure -->
 
 ## People
@@ -45,7 +54,6 @@ _Not yet developed._
 - [[1 Nephi 22]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-2|2 Nephi 28:2]])
 - [[Alma 30]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-5|2 Nephi 28:5]])
 - [[2 Nephi 27]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-14|2 Nephi 28:14]])
-- [[2 Nephi 9]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]] ↔ [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-26|2 Nephi 28:26]] ↔ [[Jacob 6#^jacob-6-8|Jacob 6:8]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[2 Nephi 4#^2ne-4-34|2 Nephi 4:34]]
@@ -57,23 +65,26 @@ _Not yet developed._
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]] ↔ [[Isaiah 29#^isa-29-21|Isaiah 29:21]]
+- [[2 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]] *(keyword match — unconfirmed)*
+- [[Pride]]
+- [[Satan and Temptation]]
+- [[Final Judgment]]
+- [[Jews and Gentiles]]
 - [[Obedience]] *(keyword match — unconfirmed)*
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Zion]] *(keyword match — unconfirmed)*
-- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins several teachings that can be distorted if isolated. It rejects the idea that eventual salvation licenses deliberate minor wrongdoing (vv. 7-9), yet explicitly teaches that repentance can avert destruction (vv. 17, 32). It condemns trust in human authority when that authority displaces God, but verse 31 allows for human precepts given through the [[Gift of the Holy Ghost]]. It also affirms continuing [[Revelation]]: receiving truth should create capacity for more, not a declaration that revelation is complete (vv. 27-30).
+
+The repeated criticism of fine sanctuaries and clothing is tied to robbing and persecuting the poor (vv. 12-13). The text does not establish that beauty, clothing, or sanctuaries are inherently wrong; the stated offense is prideful expenditure and status joined with injustice.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -105,22 +116,36 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The statement that there is “no God today” in verse 5 is immediately explained by claims that the Lord has finished his work and delegated his power to human beings. In context, it appears to deny God's present activity more specifically than it denies God's existence altogether.
+
+The movement in verses 21-22—from pacifying and lulling, through cheating, leading carefully, flattering, and whispering, to grasping with chains—gives the warning its psychological force. Deception is portrayed as capable of feeling safe and gradual.
+
+The “line upon line” formula in verse 30 closely resembles [[Isaiah 28]], but its significance for composition or translation is underdetermined. The verbal relationship is clear; its historical explanation is disputed.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Two literary features stand out. First, vv.19-22 present three parallel — not necessarily sequential — satanic strategies keyed to different dispositions: provoking anger against what is good (vv.19-20), pacifying into false security with the reassurance 'all is well in Zion' (v.21), and flattering by denying that hell or the devil exist at all (v.22); each strategy ends in the same 'chains' (v.19, 22), showing that spiritual capture does not require abandoning religious language altogether.
+
+Second, v.30 redeploys Isaiah's repetitive formula — 'line upon line, precept upon precept, here a little and there a little' (echoing [[Isaiah 28]] vv.10, 13) — as a positive promise of continuing revelation. Whether Isaiah's original wording in context is best read as straightforward judgment or as Isaiah quoting the mockery of scoffers is itself disputed among readers of Isaiah, so this is best described as a change in application rather than a clean reversal of meaning.
+
+Finally, the chapter's 'Wo be unto him that...' formula recurs across vv.24-29, including the plural 'wo unto all those' that opens v.28 alongside the rock-and-sand image — six woe-instances in all, not five interrupted by a single contrast.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual/Translation Phenomenon *(tentative)*
+> The wording of v.7, "eat, drink, and be merry ... for tomorrow we die," is closer to two New-Testament-era KJV texts — Luke 12:19 ("eat, drink, and be merry") and 1 Corinthians 15:32 ("let us eat and drink; for to morrow we die") — than to the pre-exilic precedent Isaiah 22:13 ("let us eat and drink; for to morrow we shall die"), even though the Book of Mormon's internal narrative places Nephi centuries before Luke or Paul wrote.
+> — strength 0.3 · confidence 0.8 · disputed — carefully caveated evidentiary claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “All is well in Zion” condemn confidence itself, or confidence that suppresses repentance and discernment?
+- How does verse 31's Holy Ghost exception limit an anti-intellectual reading of the chapter?
+- What practices would distinguish incremental reception of truth from indiscriminate acceptance of every new claim?
+- How should verse 22's “no deliverance” be read alongside the invitations to repentance in verses 19 and 32?
+- Are the universal-sounding accusations in verses 11 and 14 literal social descriptions, prophetic rhetoric, or both?
 <!-- SG:END questions -->
 
 ## Further Study
