@@ -3105,6 +3105,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-3-95267400",
+   "t": "Solomon's early reign and the Gibeon dream",
+   "y0": -970,
+   "y1": -966,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places Solomon's accession c. 970 BCE, with 1 Kings 6:1 dating the start of temple construction to his fourth regnal year; the Gibeon dream is narrated as occurring before that construction begins.",
+   "chapters": [
+    "1 Kings 3"
+   ],
+   "people": [
+    "Solomon",
+    "David"
+   ],
+   "places": [
+    "Jerusalem",
+    "Gibeon"
+   ]
+  },
+  {
    "id": "r-1ne-10-90addb33",
    "t": "Lehi's 600-year Messianic prophecy",
    "y0": -600,
