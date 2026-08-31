@@ -23,13 +23,17 @@ Scripture: [[2 Chronicles 20]] · My notes: [[2 Chronicles 20 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Threat and communal seeking (vv. 1–13):** invasion, fast, temple assembly, and Jehoshaphat's prayer.
+2. **Oracle and worship (vv. 14–21):** Jahaziel promises deliverance; Judah worships and marches with singers before the army.
+3. **Deliverance and return (vv. 22–30):** the coalition turns on itself, Judah gathers spoil, blesses God, and returns to Jerusalem; the kingdom receives rest.
+4. **Evaluation and qualification (vv. 31–34):** Jehoshaphat is judged righteous overall, although the high places and the people's unprepared hearts remain.
+5. **Failed alliance (vv. 35–37):** Eliezer interprets the wrecked ships as judgment for cooperation with Ahaziah.
 <!-- SG:END structure -->
 
 ## People
 <!-- SG:BEGIN people -->
 - [[Ammon (son of Mosiah)]] — 4 mentions
-- [[Abraham (patriarch)]] — 1 mention
+- [[Abraham (patriarch)]] — 0 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -63,14 +67,18 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[War and Peace]]
+- [[Prophecy]]
+- [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Faith]] as dependent action. Jehoshaphat admits that Judah has neither sufficient power nor a plan, yet the people seek God, receive prophetic direction, worship, and go out as instructed. The text's immediate claim that "the battle is not yours, but God's" belongs to this specific prophetic oracle; it should not be converted without qualification into a promise that faithful people will always escape conflict or loss.
+
+The prayer also joins [[Temples]], covenant memory, and present need. Jehoshaphat appeals to God's rule, the land given to Abraham's seed, and the earlier promise that afflicted worshippers could cry from the sanctuary and be heard.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,25 +94,42 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The phrase "stand ye still, and see the salvation of the LORD" connects the episode with [[Exodus 14]], where Israel is similarly told to stand still while the LORD fights. Jehoshaphat's account of sparing Seir, Moab, and Ammon recalls [[Deuteronomy 2]]. His appeal concerning sword, pestilence, famine, the temple, and divine hearing closely echoes Solomon's dedication prayer in [[2 Chronicles 6]]. These links frame the invasion as another deliverance interpreted through Israel's foundational memories.
+
+The singers' declaration that God's mercy endures forever belongs to a recurring liturgical formula, especially visible in [[Psalm 136]]. Its use here makes praise part of the chapter's public worship rather than an improvised military slogan.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The central account is structured around reversal. A "great multitude" appears irresistible, Judah confesses that it has no might, and the narrative never reports Judah attacking the coalition. Instead, the attackers become agents of their own destruction. Fear gives way to worship, helplessness to abundant spoil, threatened expulsion to secure possession, and invasion to rest. These are features of the narrator's theological presentation; the chapter alone does not independently verify the battle's scale or mechanism.
+
+The ending prevents an uncomplicated portrait of Jehoshaphat. Jahaziel's oracle brings consolation and direction during the invasion, whereas Eliezer's oracle rebukes the king's later alliance. This juxtaposition supports reflection on divine deliverance and human fallibility, although the text does not explicitly explain why the episodes were placed together.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary And Intertextual Evidence
+> The convergence of temple-prayer language, exodus-deliverance language, Deuteronomy's territorial commands, and a conventional worship refrain is strong evidence that the account frames the crisis through established Israelite scriptural and liturgical traditions.
+> — strength 0.8 · confidence 0.9 · Strong convergence; mode and date of transmission disputed · [[Literary And Intertextual Evidence in 2 Chronicles 20|full dossier]]
+
+> [!evidence] Literary/Form-Critical Parallel *(tentative)*
+> 2 Chronicles 20 shares a recurring 'no-battle deliverance' narrative shape with the Hezekiah-Sennacherib account (2 Kings 19 / Isaiah 37): overwhelming invasion, the king's prayer at or toward the temple, a prophetic oracle of assurance, and destruction of the enemy without Judah's army engaging in combat.
+> — strength 0.5 · confidence 0.7 · Thematic similarity accepted; formal pattern disputed
+
+> [!evidence] Historical Corroboration *(tentative)*
+> The Moab-Ammon-Seir invasion narrated in this chapter has no confirmed extrabiblical (Moabite, Ammonite, or Assyrian) corroboration and is not narrated in any parallel biblical account outside 2 Chronicles.
+> — strength 0.2 · confidence 0.5 · Plausible but externally unverified
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Jehoshaphat ground his request in God's past actions and the temple promise before describing Judah's lack of strength?
+- What is the relationship between Judah's marching into danger and the command to stand still?
+- How does the qualified evaluation in verses 31–33 affect the reading of Jehoshaphat's earlier success?
+- Why might Chronicles make the alliance and prophetic explanation more explicit than the parallel account in [[1 Kings 22]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the prayer in 2 Chronicles 20:6–12 with [[2 Chronicles 6]], especially the petitions concerning national calamity and prayer at the temple. Compare Jahaziel's oracle with [[Exodus 14]] and Jehoshaphat's recollection of the journey around neighboring peoples with [[Deuteronomy 2]]. For the liturgical refrain, examine [[Psalm 136]]. Finally, compare the shipwreck in 2 Chronicles 20:35–37 with [[1 Kings 22]]; the shared event and differing presentations offer a useful case study in how Chronicles interprets royal history.
 <!-- SG:END further-study -->
