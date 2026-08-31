@@ -17,19 +17,19 @@ Scripture: [[1 Corinthians 9]] · My notes: [[1 Corinthians 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-Paul defends both his apostleship and his right to material support, then makes his central practical point: a legitimate right need not always be exercised. He has declined support where accepting it might hinder the gospel. The same pattern governs his missionary flexibility—he voluntarily serves and adapts to different audiences while remaining accountable to Christ. The closing race and boxing images turn the principle inward: a preacher must also practice sustained self-discipline.
+Paul defends his apostleship and establishes the legitimacy of material support for gospel workers, but his practical emphasis falls on voluntarily declining a genuine right when using it could hinder the gospel. The same pattern shapes his missionary conduct: though free, he makes himself a servant and adapts to different audiences while remaining accountable to God and Christ. The closing athletic images turn the demand inward, showing that a preacher must also practice purposeful self-discipline.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-The argument can be followed in four movements:
+The argument has four discernible movements:
 
-1. **Apostleship and apostolic rights (vv. 1–6):** Paul appeals to having seen Jesus Christ, to the Corinthians as the seal of his apostleship, and to rights associated with apostolic ministry.
-2. **The right of workers to support (vv. 7–14):** Ordinary occupations, the [[Law of Moses]], spiritual sowing, temple service, and an ordinance attributed to the Lord converge on the legitimacy of material support.
-3. **Voluntary nonuse and missionary adaptation (vv. 15–23):** Paul distinguishes his obligation to preach from his decision to preach without charge, makes himself servant to all, and adapts to different audiences while remaining accountable to Christ.
-4. **Purposeful discipline (vv. 24–27):** Racing and combat imagery exhort disciplined pursuit and return the argument to Paul's own conduct and danger of disqualification.
+1. **Apostleship and associated rights (vv. 1–6):** Paul appeals to having seen Jesus Christ and to the Corinthians as the seal of his apostleship, then identifies rights connected with apostolic service.
+2. **The legitimacy of material support (vv. 7–14):** Examples from ordinary labor, the [[Law of Moses]], spiritual sowing, temple service, and an ordinance attributed to the Lord support a worker's right to benefit from the work.
+3. **Voluntary restraint and adaptation (vv. 15–23):** Paul distinguishes his obligation to preach from his chosen practice of preaching without charge. His freedom becomes voluntary [[Service]] directed toward gaining others.
+4. **Purposeful discipline (vv. 24–27):** Racing and combat images apply the principle to Paul's own conduct and introduce the danger of disqualification.
 
-The divisions are editorial rather than mandatory, but they display the chapter's movement from a genuine right to its voluntary restraint.
+These divisions are editorial, but they clarify the movement from possessing a right to restraining its use for the gospel's sake.
 <!-- SG:END structure -->
 
 ## People
@@ -63,20 +63,22 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Apostles]]
 - [[Freedom and Liberty]]
 - [[Law of Moses]]
 - [[Endurance]]
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Missionary Work]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter affirms that gospel workers may legitimately receive material support, but it does not prescribe one financial arrangement for every circumstance. Paul argues for the right and then explains his contextual decision not to exercise it. His example therefore cannot be made into either a universal requirement of paid ministry or a universal requirement of unpaid ministry.
+The chapter affirms that gospel workers may legitimately receive material support. It also records Paul's decision not to exercise that right in Corinth. These two points must remain together: the chapter supports neither a universal requirement of paid ministry nor a universal requirement of unpaid ministry.
 
-Paul's use of [[Freedom and Liberty]] is relational and disciplined: possessing a right does not require exercising it when doing so would hinder the gospel. His accommodation serves [[Missionary Work]], but verse 21 supplies a boundary—he remains accountable to God and under Christ's law. The chapter does not specify every permissible form of accommodation.
+Paul's treatment of [[Freedom and Liberty]] is relational and disciplined. A legitimate entitlement need not be exercised when its use would hinder the [[Gospel of Jesus Christ]]. His description of becoming like different audiences supports flexibility in [[Missionary Work]], but verse 21 supplies a boundary: he remains accountable to God and under Christ's law. The text does not furnish a complete list of permissible adaptations.
+
+The final warning connects [[Endurance]] with self-discipline. Paul applies the danger of disqualification to himself, resisting the assumption that teaching others makes the teacher immune from failure. The precise consequences represented by "castaway" remain underdetermined in this chapter alone.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -91,14 +93,20 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-In this English text, "power" repeatedly means a right or entitlement that can be used or waived. "Without charge" identifies Paul's chosen manner of preaching, while "castaway" belongs to the closing athletic metaphor and conveys feared disqualification. The precise scope of that final term should not be settled from this verse alone.
+In this English text, "power" repeatedly denotes a right or entitlement that may be exercised or waived. "Without charge" describes Paul's chosen manner of preaching in Corinth, rather than a denial that gospel workers possess a right to support.
+
+The phrase "a sister, a wife" in verse 5 should be handled cautiously. The verse clearly includes a woman identified both by a religious designation and a marital designation, but conclusions about the exact travel arrangements of apostles should account for translation and historical questions beyond this English wording.
+
+"Castaway" occurs within athletic imagery. It conveys feared disqualification, but the verse alone does not settle whether Paul has chiefly in view loss of ministerial approval, loss of reward, final judgment, or overlapping consequences.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Rhetorical questions dominate the first half and invite answers favorable to Paul's defense. The proof accumulates across ordinary labor, Mosaic law, agriculture, temple service, and the Lord's ordinance. The second half develops deliberate tensions: free yet servant, obligated to preach yet voluntarily preaching without charge, and adaptable to audiences yet accountable to Christ.
+Rhetorical questions dominate the opening argument and invite answers favorable to Paul's defense. His case for support accumulates across several domains: military service, agriculture, shepherding, Mosaic law, spiritual sowing, temple practice, and an ordinance attributed to the Lord.
 
-The concluding race and combat images turn the principle toward purposeful self-discipline. Paul does not merely exhort others; he applies the warning to himself. The imagery also prepares naturally for the warnings that follow in [[1 Corinthians 10]], though that contextual function is an interpretation rather than an explicit statement in the chapter.
+The second half is organized through deliberate tensions: Paul is free yet becomes a servant; he is obligated to preach yet voluntarily preaches without charge; he adapts to audiences yet remains under Christ's law. Repeated purpose clauses—"that I might gain"—keep the focus on the intended benefit to others.
+
+The race and boxing images make the conclusion personal. Paul does not merely instruct others to exercise discipline; he depicts himself as running, fighting, and subjecting his body. This warning also leads naturally into the examples of failure and overconfidence in [[1 Corinthians 10]], although that compositional relationship is an interpretation of the adjoining chapters.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -114,20 +122,32 @@ The concluding race and combat images turn the principle toward purposeful self-
 > [!evidence] Internal Textual Evidence
 > The juxtaposition of an expressly affirmed right to material support with Paul's voluntary nonuse of that right is strong internal textual evidence that this chapter does not impose unpaid ministry as a universal rule.
 > — strength 0.9 · confidence 1.0 · Strong internal conclusion · [[Internal Textual Evidence in 1 Corinthians 9|full dossier]]
+
+> [!evidence] Cumulative Textual Argument
+> The convergence of occupational analogies, Mosaic law, spiritual sowing, temple practice, and an ordinance attributed to the Lord provides strong textual evidence that Paul regards material support for gospel workers as legitimate.
+> — strength 0.9 · confidence 0.9 · cumulative argument accurately framed · [[Cumulative Textual Argument in 1 Corinthians 9|full dossier]]
+
+> [!evidence] Explicit Authorial Explanation
+> Paul explicitly distinguishes possessing a right from using it: he declines support because he does not want to hinder the gospel and says he is not writing to request that support be supplied to him.
+> — strength 0.9 · confidence 1.0 · affirmed, quotes verified · [[Explicit Authorial Explanation in 1 Corinthians 9|full dossier]]
+
+> [!evidence] Repeated Purpose Statements With Explicit Qualification *(tentative)*
+> Paul's repeated statements that he becomes like different audiences support a principle of audience-sensitive missionary conduct, while his qualification about God's and Christ's law prevents the passage from supporting unrestricted compromise.
+> — strength 0.6 · confidence 0.7 · disputed whether 'weak' is evangelistic target
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-Why does Paul establish a right that he does not intend to exercise in Corinth? How does the reality of the right make his nonuse voluntary without making renunciation morally superior in every circumstance?
+Why does Paul spend substantial effort establishing a right that he does not intend to exercise in Corinth? How does establishing the right make his refusal genuinely voluntary without making refusal universally superior?
 
-Which principles are general, and which practices respond to Corinthian conditions? Verses 7–14 affirm support for gospel workers, while verses 12, 15, and 18 describe Paul's own contextual choice.
+Which parts of Paul's argument are general principles, and which respond to Corinthian circumstances? Verses 7–14 defend support for gospel workers, while verses 12, 15, and 18 explain Paul's own decision.
 
-What limits becoming "all things to all men"? Verse 21 excludes unrestricted compromise by preserving Paul's accountability to God and Christ, but the chapter does not define every practical boundary.
+What conduct is permitted by becoming "all things to all men"? Verse 21 excludes unrestricted compromise, but the chapter does not define every boundary between appropriate adaptation and unfaithfulness.
 
-What kind of disqualification does Paul fear in verse 27? The warning against complacency is clear, but this verse alone does not settle whether "castaway" concerns ministry, reward, final judgment, or overlapping consequences.
+What kind of disqualification does Paul fear in verse 27? The warning against complacency is clear; its precise eschatological and ministerial scope requires evidence beyond this verse.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Read [[1 Corinthians 8]], [[1 Corinthians 9]], and [[1 Corinthians 10]] as one extended discussion of freedom, stumbling blocks, and another person's welfare. Compare Acts 18:1–3 with 2 Corinthians 11:7–9 and Philippians 4:15–18 to distinguish Paul's refusal of Corinthian support from a rejection of all support. Compare Deuteronomy 25:4 with 1 Timothy 5:17–18 to trace the early Christian application of the threshing-ox command.
+Read [[1 Corinthians 8]], [[1 Corinthians 9]], and [[1 Corinthians 10]] together to trace the relationship between freedom, stumbling blocks, another person's welfare, and warnings against overconfidence. Compare Acts 18:1–3 with 2 Corinthians 11:7–9 and Philippians 4:15–18 to distinguish Paul's refusal of Corinthian support from a rejection of all support. Compare Deuteronomy 25:4 with 1 Timothy 5:17–18 to examine how the threshing-ox command is applied to human laborers.
 <!-- SG:END further-study -->
