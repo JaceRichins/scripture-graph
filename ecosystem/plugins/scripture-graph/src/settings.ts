@@ -79,6 +79,17 @@ export class SGSettingsTab extends PluginSettingTab {
 
     // ------------------------------------------------------------ reading
     el.createEl("h2", { text: "Reading" });
+    new Setting(el).setName("Fold away sections not yet researched")
+      .setDesc("Most chapters have only been partly researched, so most of a study "
+        + "guide is still the “not yet developed” placeholder. This folds those "
+        + "sections into one quiet line — the heading stays, and tapping it shows "
+        + "the section again.")
+      .addToggle(t => t.setValue(s.settings.collapseEmptySections)
+        .onChange(async v => {
+          s.applySettings({ collapseEmptySections: v });
+          await this.p.saveSharedSettings();
+        }));
+
     new Setting(el).setName("Chapter links open My Study page")
       .setDesc("Links like [[Matthew 5]] land on your editable page (the scripture "
         + "is embedded there). Verse-precise links still open the exact verse.")

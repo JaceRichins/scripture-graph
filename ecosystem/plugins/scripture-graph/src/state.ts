@@ -29,6 +29,9 @@ export interface SharedSettings {
   chapterLinksToMyStudy: boolean;
   /** family-shared mark themes: a named color+treatment vocabulary */
   themes: MarkTheme[];
+  /** fold away study-guide sections that are still "_Not yet developed._" —
+   * on almost every chapter that is most of the page */
+  collapseEmptySections: boolean;
 }
 
 export const DEFAULT_SHARED: SharedSettings = {
@@ -37,6 +40,7 @@ export const DEFAULT_SHARED: SharedSettings = {
   forceLibraryPreview: true,
   chapterLinksToMyStudy: true,
   themes: [],
+  collapseEmptySections: true,
 };
 
 /** Device-local (secret or personal) state. */

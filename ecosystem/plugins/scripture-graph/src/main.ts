@@ -16,6 +16,7 @@ import { readingChapterTitle, registerSwipeNav } from "./study/swipeNav";
 import { TIMELINE_VIEW, TimelineView } from "./study/timelineView";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
+import { registerEmptySectionCollapse } from "./reader/collapseEmpty";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
 import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
@@ -110,6 +111,7 @@ export default class SGPlugin extends Plugin {
     this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading,
       () => this.saveSharedSettings());
     registerReadingIntegration(this, this.state, this.ann, this.studyBar, openAskFromReading);
+    registerEmptySectionCollapse(this, this.state);
 
     // ---- commands ---------------------------------------------------------
     this.addCommand({
