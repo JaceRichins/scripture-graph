@@ -3378,6 +3378,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-62-23e0e358",
+   "t": "Recapture of Nephihah and death of Ammoron and Teancum",
+   "y0": -62,
+   "y1": -57,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Chapter heading dates the events to about 62-57 B.C.; the chapter's own text spans the 30th-31st years of the reign of the judges, with a closing note reaching the 35th year.",
+   "chapters": [
+    "Alma 62"
+   ],
+   "people": [
+    "Moroni",
+    "Pahoran",
+    "Teancum",
+    "Ammoron"
+   ],
+   "places": [
+    "Zarahemla",
+    "Nephihah"
+   ]
+  },
+  {
+   "id": "r-alma-62-e7e36bec",
+   "t": "End of the long Nephite-Lamanite war",
+   "y0": -62,
+   "y1": -61,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter places the restoration of Zarahemla in the thirtieth year and the decisive campaigns in the thirty-first year of the reign of the judges.",
+   "chapters": [
+    "Alma 62"
+   ],
+   "people": [
+    "Moroni",
+    "Pahoran",
+    "Teancum",
+    "Ammoron"
+   ],
+   "places": [
+    "Zarahemla",
+    "Nephihah"
+   ]
+  },
+  {
    "id": "r-alma-9-8a535925",
    "t": "Alma and Amulek preach at Ammonihah",
    "y0": -82,
@@ -3571,6 +3627,31 @@ timeline module, not this file._
    ],
    "places": [
     "Egypt"
+   ]
+  },
+  {
+   "id": "r-jsm-1-5b0f8dc9",
+   "t": "Olivet Discourse delivered near the Jerusalem temple",
+   "y0": 33,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed during the week before Jesus' crucifixion, per the synoptic narrative sequence surrounding Matthew 24/Mark 13/Luke 21.",
+   "chapters": [
+    "Joseph Smith—Matthew 1"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Mount of Olives",
+    "Jerusalem"
    ]
   }
  ],

@@ -33,3 +33,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **62 BC–57 BC** — Recapture of Nephihah and death of Ammoron and Teancum · [[Alma 62]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **62 BC–61 BC** — End of the long Nephite-Lamanite war · [[Alma 62]] · [[100-1 BC]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

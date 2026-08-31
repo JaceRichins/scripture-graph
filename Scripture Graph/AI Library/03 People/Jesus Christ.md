@@ -58,6 +58,7 @@ _Not yet developed._
 - **AD 28** — The Sermon on the Mount · [[Matthew 5]] · [[Matthew 6]] · [[Matthew 7]] · [[AD 1-100]] *(approximate)*
 - **AD 30** — Gethsemane, the cross, the tomb · [[Luke 22]] · [[Matthew 27]] · [[John 19]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
+- **AD 33** — Olivet Discourse delivered near the Jerusalem temple · [[Joseph Smith—Matthew 1]] · [[AD 1-100]] *(traditional dating)*
 - **AD 34** — The risen Christ visits Bountiful · [[3 Nephi 11]] · [[3 Nephi 17]] · [[3 Nephi 18]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 - **AD 1832–AD 1833** — D&C 88 ('Olive Leaf') received at Kirtland, Ohio · [[D&C 88]] · [[AD 1801-1900]] *(historical)*
 
