@@ -65,86 +65,34 @@ export function registerSwipeNav(
 ): void {
   if (!Platform.isMobile) return;
 
-  // A swipe can serve only one master. Obsidian's sidebar drawers listen to
-  // the same finger — and they may be listening to EITHER event model
-  // (touch and pointer events both fire for one physical gesture), so this
-  // arbiter watches BOTH in the capture phase: it reads the first few
-  // pixels, decides horizontal-vs-vertical ONCE, and on claiming a
-  // horizontal swipe over a reading page it kills both streams with
-  // stopImmediatePropagation — the drawers never hear about it. A vertical
-  // start releases instantly and native scrolling is never touched.
-  // (touch-action: pan-y on the reading text, in styles.css, closes the
-  // third door: the browser itself refuses native horizontal panning.)
+  // Obsidian's drawers are silenced at the source: chapter reading pages
+  // carry data-ignore-swipe (set in main.ts), the same opt-out gate the
+  // app's own sliders and canvas use, so its swipe recognizer never fires
+  // there. That leaves this detector free to be SIMPLE — two passive
+  // listeners, no event interception, nothing that can fight the browser:
+  // note where the finger landed, and on lift, decide if it was a flick.
   let start: { x: number; y: number; t: number } | null = null;
-  let claimed = false;
 
-  const reset = () => { start = null; claimed = false; };
-
-  const tryStart = (x: number, y: number, target: HTMLElement | null): void => {
+  plugin.registerDomEvent(document, "touchstart", (evt: TouchEvent) => {
+    start = null;
     if (s.device.swipeNav === false) return;                 // per-device off
+    if (evt.touches.length !== 1) return;
     if (document.body.hasClass("sg-selecting")) return;      // mid-markup
+    const t = evt.touches[0]!;
+    const target = evt.target as HTMLElement | null;
     // the gesture belongs to READING and nowhere else
     if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
     if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
     if (inHorizontalScroller(target)) return;
     // the outer edges stay Obsidian's (system back gestures live there too)
-    if (x < 40 || x > window.innerWidth - 40) return;
-    start = { x, y, t: Date.now() };
-  };
-
-  /** shared decision: true = claimed (silence this event), false = pass */
-  const arbitrate = (x: number, y: number): boolean => {
-    if (!start) return false;
-    const dx = x - start.x;
-    const dy = y - start.y;
-    if (!claimed) {
-      if (Math.abs(dy) > 14 && Math.abs(dy) > Math.abs(dx) * 1.2) {
-        reset();                                             // it's a scroll
-        return false;
-      }
-      if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 1.4) {
-        claimed = true;                                      // it's a page-turn
-      } else {
-        return false;                                        // too soon to say
-      }
-    }
-    return true;
-  };
-
-  plugin.registerDomEvent(document, "touchstart", (evt: TouchEvent) => {
-    reset();
-    if (evt.touches.length !== 1) return;
-    const t = evt.touches[0]!;
-    tryStart(t.clientX, t.clientY, evt.target as HTMLElement | null);
-  }, { passive: true, capture: true });
-
-  plugin.registerDomEvent(document, "touchmove", (evt: TouchEvent) => {
-    if (!start) return;
-    const t = evt.touches[0];
-    if (!t || evt.touches.length !== 1) { reset(); return; }
-    if (!arbitrate(t.clientX, t.clientY)) return;
-    evt.stopImmediatePropagation();
-    if (evt.cancelable) evt.preventDefault();
-  }, { passive: false, capture: true });
-
-  // the same claim, mirrored onto the pointer-event stream
-  plugin.registerDomEvent(document, "pointermove", (evt: PointerEvent) => {
-    if (!start || evt.pointerType !== "touch" || !evt.isPrimary) return;
-    if (!arbitrate(evt.clientX, evt.clientY)) return;
-    evt.stopImmediatePropagation();
-    if (evt.cancelable) evt.preventDefault();
-  }, { passive: false, capture: true });
-
-  plugin.registerDomEvent(document, "pointerup", (evt: PointerEvent) => {
-    if (claimed && evt.pointerType === "touch") evt.stopImmediatePropagation();
-  }, { passive: true, capture: true });
+    if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
+    start = { x: t.clientX, y: t.clientY, t: Date.now() };
+  }, { passive: true });
 
   plugin.registerDomEvent(document, "touchend", (evt: TouchEvent) => {
     const s0 = start;
-    const wasClaimed = claimed;
-    reset();
-    if (!s0 || !wasClaimed) return;
-    evt.stopImmediatePropagation();
+    start = null;
+    if (!s0) return;
     const sel = window.getSelection();
     if (sel && !sel.isCollapsed) return;                     // text selection
     const t = evt.changedTouches[0];
@@ -152,9 +100,9 @@ export function registerSwipeNav(
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    // we own the gesture now, so the commit can be gentle: a clear flick,
-    // not a wrestling hold
-    if (dt > 600 || Math.abs(dx) < 72 || Math.abs(dx) < Math.abs(dy) * 1.6) return;
+    // a clear horizontal flick — comfortable, since nothing competes here
+    if (dt > 550 || Math.abs(dx) < 80 || Math.abs(dy) > 70
+      || Math.abs(dx) < Math.abs(dy) * 1.8) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
     const dir: 1 | -1 = dx < 0 ? 1 : -1;
@@ -166,10 +114,8 @@ export function registerSwipeNav(
     document.body.addClass(cls);
     window.setTimeout(() => document.body.removeClass(cls), 320);
     openChapter(next);
-  }, { passive: true, capture: true });
+  }, { passive: true });
 
-  plugin.registerDomEvent(document, "touchcancel", () => reset(),
-    { passive: true, capture: true });
-  plugin.registerDomEvent(document, "pointercancel", () => reset(),
-    { passive: true, capture: true });
+  plugin.registerDomEvent(document, "touchcancel", () => { start = null; },
+    { passive: true });
 }

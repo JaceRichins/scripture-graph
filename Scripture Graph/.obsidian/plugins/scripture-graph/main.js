@@ -10026,69 +10026,23 @@ function inHorizontalScroller(el) {
 function registerSwipeNav(plugin, s, openChapter) {
   if (!import_obsidian5.Platform.isMobile) return;
   let start = null;
-  let claimed = false;
-  const reset = () => {
+  plugin.registerDomEvent(document, "touchstart", (evt) => {
     start = null;
-    claimed = false;
-  };
-  const tryStart = (x, y, target) => {
     if (s.device.swipeNav === false) return;
+    if (evt.touches.length !== 1) return;
     if (document.body.hasClass("sg-selecting")) return;
+    const t = evt.touches[0];
+    const target = evt.target;
     if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
     if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
     if (inHorizontalScroller(target)) return;
-    if (x < 40 || x > window.innerWidth - 40) return;
-    start = { x, y, t: Date.now() };
-  };
-  const arbitrate = (x, y) => {
-    if (!start) return false;
-    const dx = x - start.x;
-    const dy = y - start.y;
-    if (!claimed) {
-      if (Math.abs(dy) > 14 && Math.abs(dy) > Math.abs(dx) * 1.2) {
-        reset();
-        return false;
-      }
-      if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 1.4) {
-        claimed = true;
-      } else {
-        return false;
-      }
-    }
-    return true;
-  };
-  plugin.registerDomEvent(document, "touchstart", (evt) => {
-    reset();
-    if (evt.touches.length !== 1) return;
-    const t = evt.touches[0];
-    tryStart(t.clientX, t.clientY, evt.target);
-  }, { passive: true, capture: true });
-  plugin.registerDomEvent(document, "touchmove", (evt) => {
-    if (!start) return;
-    const t = evt.touches[0];
-    if (!t || evt.touches.length !== 1) {
-      reset();
-      return;
-    }
-    if (!arbitrate(t.clientX, t.clientY)) return;
-    evt.stopImmediatePropagation();
-    if (evt.cancelable) evt.preventDefault();
-  }, { passive: false, capture: true });
-  plugin.registerDomEvent(document, "pointermove", (evt) => {
-    if (!start || evt.pointerType !== "touch" || !evt.isPrimary) return;
-    if (!arbitrate(evt.clientX, evt.clientY)) return;
-    evt.stopImmediatePropagation();
-    if (evt.cancelable) evt.preventDefault();
-  }, { passive: false, capture: true });
-  plugin.registerDomEvent(document, "pointerup", (evt) => {
-    if (claimed && evt.pointerType === "touch") evt.stopImmediatePropagation();
-  }, { passive: true, capture: true });
+    if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
+    start = { x: t.clientX, y: t.clientY, t: Date.now() };
+  }, { passive: true });
   plugin.registerDomEvent(document, "touchend", (evt) => {
     const s0 = start;
-    const wasClaimed = claimed;
-    reset();
-    if (!s0 || !wasClaimed) return;
-    evt.stopImmediatePropagation();
+    start = null;
+    if (!s0) return;
     const sel = window.getSelection();
     if (sel && !sel.isCollapsed) return;
     const t = evt.changedTouches[0];
@@ -10096,7 +10050,7 @@ function registerSwipeNav(plugin, s, openChapter) {
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    if (dt > 600 || Math.abs(dx) < 72 || Math.abs(dx) < Math.abs(dy) * 1.6) return;
+    if (dt > 550 || Math.abs(dx) < 80 || Math.abs(dy) > 70 || Math.abs(dx) < Math.abs(dy) * 1.8) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
     const dir = dx < 0 ? 1 : -1;
@@ -10110,18 +10064,14 @@ function registerSwipeNav(plugin, s, openChapter) {
     document.body.addClass(cls);
     window.setTimeout(() => document.body.removeClass(cls), 320);
     openChapter(next);
-  }, { passive: true, capture: true });
+  }, { passive: true });
   plugin.registerDomEvent(
     document,
     "touchcancel",
-    () => reset(),
-    { passive: true, capture: true }
-  );
-  plugin.registerDomEvent(
-    document,
-    "pointercancel",
-    () => reset(),
-    { passive: true, capture: true }
+    () => {
+      start = null;
+    },
+    { passive: true }
   );
 }
 
