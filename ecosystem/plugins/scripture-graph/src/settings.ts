@@ -99,6 +99,15 @@ export class SGSettingsTab extends PluginSettingTab {
           await s.saveDevice();
         }));
 
+    new Setting(el).setName("Swipe to turn the chapter")
+      .setDesc("On the phone, a firm left/right swipe on a reading page moves "
+        + "one chapter. Turn off if it fights your scrolling.")
+      .addToggle(t => t.setValue(s.device.swipeNav !== false)
+        .onChange(async v => {
+          s.device.swipeNav = v;
+          await s.saveDevice();
+        }));
+
     new Setting(el).setName("Reading scene")
       .setDesc("An ambient living backdrop behind the scriptures")
       .addDropdown(d => {

@@ -73,6 +73,8 @@ export interface DeviceState {
   scene: string;
   /** timeline depth: 1 = one line per world, 2 = storylines split out */
   tlDepth: 1 | 2;
+  /** swipe left/right on a reading page turns the chapter (mobile) */
+  swipeNav: boolean;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -96,6 +98,7 @@ export const DEFAULT_DEVICE: DeviceState = {
   showAiLibrary: false,
   scene: "none",
   tlDepth: 2,
+  swipeNav: true,
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }

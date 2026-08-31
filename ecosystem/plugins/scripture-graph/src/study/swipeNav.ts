@@ -54,13 +54,18 @@ export function registerSwipeNav(
 
   plugin.registerDomEvent(document, "touchstart", (evt: TouchEvent) => {
     start = null;
+    if (s.device.swipeNav === false) return;                 // per-device off
     if (evt.touches.length !== 1) return;
     const t = evt.touches[0]!;
     const target = evt.target as HTMLElement | null;
+    // the gesture belongs to READING and nowhere else: it must start on a
+    // rendered scripture surface — never the timeline, navigator, sheets,
+    // or any other view where a horizontal swipe means something different
+    if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
     // never inside the StudyBar (horizontal theme scroller), sheets, menus
-    if (target?.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill")) return;
-    // leave the edges to Obsidian's sidebar gestures
-    if (t.clientX < 28 || t.clientX > window.innerWidth - 28) return;
+    if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
+    // leave a wide margin for Obsidian's own sidebar-drawer gestures
+    if (t.clientX < 44 || t.clientX > window.innerWidth - 44) return;
     start = { x: t.clientX, y: t.clientY, t: Date.now() };
   }, { passive: true });
 
@@ -76,9 +81,10 @@ export function registerSwipeNav(
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    // a decisive horizontal flick, not a scroll and not a lazy drag
-    if (dt > 600 || Math.abs(dx) < 80 || Math.abs(dy) > 70
-      || Math.abs(dx) < Math.abs(dy) * 1.8) return;
+    // a DECISIVE horizontal flick — deliberately stricter than the drawer
+    // gestures it lives beside, so a casual drag never turns the page
+    if (dt > 500 || Math.abs(dx) < 96 || Math.abs(dy) > 60
+      || Math.abs(dx) < Math.abs(dy) * 2) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
     const next = adjacentChapterTitle(title, dx < 0 ? 1 : -1);

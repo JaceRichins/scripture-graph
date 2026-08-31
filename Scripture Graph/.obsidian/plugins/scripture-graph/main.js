@@ -9008,7 +9008,8 @@ var DEFAULT_DEVICE = {
   recentChapters: [],
   showAiLibrary: false,
   scene: "none",
-  tlDepth: 2
+  tlDepth: 2,
+  swipeNav: true
 };
 var SGState = class {
   constructor(app, plugin) {
@@ -10015,11 +10016,13 @@ function registerSwipeNav(plugin, s, openChapter) {
   let start = null;
   plugin.registerDomEvent(document, "touchstart", (evt) => {
     start = null;
+    if (s.device.swipeNav === false) return;
     if (evt.touches.length !== 1) return;
     const t = evt.touches[0];
     const target = evt.target;
-    if (target?.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill")) return;
-    if (t.clientX < 28 || t.clientX > window.innerWidth - 28) return;
+    if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
+    if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
+    if (t.clientX < 44 || t.clientX > window.innerWidth - 44) return;
     start = { x: t.clientX, y: t.clientY, t: Date.now() };
   }, { passive: true });
   plugin.registerDomEvent(document, "touchend", (evt) => {
@@ -10034,7 +10037,7 @@ function registerSwipeNav(plugin, s, openChapter) {
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    if (dt > 600 || Math.abs(dx) < 80 || Math.abs(dy) > 70 || Math.abs(dx) < Math.abs(dy) * 1.8) return;
+    if (dt > 500 || Math.abs(dx) < 96 || Math.abs(dy) > 60 || Math.abs(dx) < Math.abs(dy) * 2) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
     const next = adjacentChapterTitle(title, dx < 0 ? 1 : -1);
@@ -11866,6 +11869,10 @@ var SGSettingsTab = class extends import_obsidian17.PluginSettingTab {
     new import_obsidian17.Setting(el).setName("Show AI Library folder in sidebar").setDesc("Off keeps the AI Library out of the file explorer on this device \u2014 study pages still show and link its content (read-only). Leave off on family devices.").addToggle((t) => t.setValue(s.device.showAiLibrary).onChange(async (v) => {
       s.device.showAiLibrary = v;
       document.body.toggleClass("sg-hide-ai-lib", !v);
+      await s.saveDevice();
+    }));
+    new import_obsidian17.Setting(el).setName("Swipe to turn the chapter").setDesc("On the phone, a firm left/right swipe on a reading page moves one chapter. Turn off if it fights your scrolling.").addToggle((t) => t.setValue(s.device.swipeNav !== false).onChange(async (v) => {
+      s.device.swipeNav = v;
       await s.saveDevice();
     }));
     new import_obsidian17.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
