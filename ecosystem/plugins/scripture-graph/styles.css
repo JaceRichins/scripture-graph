@@ -1355,6 +1355,15 @@ body.sg-scene-on .sg-chap-conn {
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
+/* 👉 the third door: touches that BEGIN on reading text may only pan
+ * vertically — the browser itself refuses to start a native horizontal
+ * slide (drawers included). Tables/code/scroll-strips are NOT selected,
+ * so their own sideways scroll stays native. */
+body.is-mobile :is(.markdown-reading-view, .markdown-preview-view)
+  :is(p, h1, h2, h3, h4, h5, h6, blockquote, li, .sg-cap-p) {
+  touch-action: pan-y;
+}
+
 /* 👉 page-turn: the new chapter slides in from the side the finger pointed */
 @media (prefers-reduced-motion: no-preference) {
   body.sg-turn-next .workspace-leaf.mod-active .markdown-reading-view,

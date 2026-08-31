@@ -3055,6 +3055,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-24-84602d63",
+   "t": "Reign of Joash of Judah and temple repair",
+   "y0": -835,
+   "y1": -796,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology (e.g., Thiele) places Joash's 40-year reign c. 835-796 BC; regnal synchronisms for this period are reconstructed from limited data and remain debated among scholars.",
+   "chapters": [
+    "2 Chronicles 24"
+   ],
+   "people": [
+    "Joash",
+    "Jehoiada",
+    "Zechariah son of Jehoiada",
+    "Amaziah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Temple of Solomon"
+   ]
+  },
+  {
    "id": "r-2chr-25-32f4594a",
    "t": "Reign of Amaziah of Judah",
    "y0": -796,
@@ -3508,6 +3538,27 @@ timeline module, not this file._
    ],
    "things": [
     "School of the Prophets"
+   ]
+  },
+  {
+   "id": "r-ezek-37-f8fdddf1",
+   "t": "Ezekiel's exilic ministry and vision of the dry bones",
+   "y0": -593,
+   "y1": -571,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel's book is internally dated by the year of King Jehoiachin's captivity (cf. 1:2), spanning roughly the 5th to 27th year (~593-571 BCE); chapter 37 itself lacks its own date formula but falls within this broader exilic ministry.",
+   "chapters": [
+    "Ezekiel 37"
+   ],
+   "people": [
+    "Ezekiel"
    ]
   },
   {
