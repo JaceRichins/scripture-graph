@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 1833** — D&C 98 given at Kirtland amid Missouri persecutions · [[D&C 98]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

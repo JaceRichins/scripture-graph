@@ -3972,6 +3972,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-98-31f74554",
+   "t": "D&C 98 given at Kirtland amid Missouri persecutions",
+   "y0": 1833,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading identifies the revelation as received at Kirtland, Ohio, August 6, 1833, during the period of escalating mob violence against Latter-day Saints in Jackson County, Missouri.",
+   "chapters": [
+    "D&C 98"
+   ],
+   "people": [
+    "Joseph Smith"
+   ],
+   "places": [
+    "Kirtland"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,

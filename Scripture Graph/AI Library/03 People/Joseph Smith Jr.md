@@ -55,9 +55,9 @@ _Not yet developed._
 - **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
 - **AD 1832–AD 1833** — D&C 88 ('Olive Leaf') received at Kirtland, Ohio · [[D&C 88]] · [[AD 1801-1900]] *(historical)*
+- **AD 1833** — D&C 98 given at Kirtland amid Missouri persecutions · [[D&C 98]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 - **AD 1838–AD 1839** — Winter in Liberty Jail · [[D&C 121]] · [[D&C 122]] · [[D&C 123]] · [[AD 1801-1900]] *(historical)*
-- **AD 1839–AD 1846** — Nauvoo the beautiful · [[D&C 124]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
