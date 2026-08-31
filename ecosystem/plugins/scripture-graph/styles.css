@@ -1072,12 +1072,61 @@ body.sg-selecting .sg-back-pill { display: none; }
   color: var(--text-on-accent);
   box-shadow: 0 4px 18px color-mix(in srgb, var(--interactive-accent) 45%, transparent);
 }
-/* every row and tile fades up on its own beat (delays set inline) */
+/* the Gospel-Library shelf: a grid of book covers — hue-deep gradients
+ * with the emblem glowing on the jacket, label beneath the card */
+.sg-nav-covers {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(94px, 122px));
+  justify-content: space-evenly;
+  gap: 14px 12px; padding: 4px 2px 8px;
+}
+.sg-nav-cover { cursor: pointer; min-width: 0; }
+.sg-nav-cover-art {
+  position: relative; aspect-ratio: 5 / 7;
+  border-radius: 12px; overflow: hidden;
+  display: grid; place-items: center;
+  background:
+    radial-gradient(90% 60% at 50% 0%,
+      color-mix(in srgb, var(--ico, #888) 26%, transparent), transparent 70%),
+    linear-gradient(165deg,
+      color-mix(in srgb, var(--ico, #888) 30%, #14141f),
+      color-mix(in srgb, var(--ico, #888) 10%, #0d0d16) 55%,
+      #0a0a12);
+  border: 1px solid color-mix(in srgb, var(--ico, #888) 30%, transparent);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.1),
+    0 8px 22px rgba(0, 0, 0, 0.35);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.sg-nav-cover:hover .sg-nav-cover-art {
+  transform: translateY(-3px);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.14),
+    0 12px 30px rgba(0, 0, 0, 0.45),
+    0 0 26px color-mix(in srgb, var(--ico, #888) 26%, transparent);
+}
+.sg-nav-cover:active .sg-nav-cover-art { transform: scale(0.965); }
+/* the emblem: big, luminous, backlit on the jacket */
+.sg-nav-cover-art .sg-nav-ico {
+  width: 100%; height: 100%; flex: none;
+  background: transparent; box-shadow: none;
+}
+.sg-nav-cover-art .sg-nav-ico svg {
+  width: 42%; height: 42%;
+  filter: drop-shadow(0 0 14px color-mix(in srgb, var(--ico, #888) 60%, transparent));
+}
+.sg-nav-cover-label {
+  margin-top: 7px; text-align: center;
+  font-size: 0.78em; font-weight: 600; line-height: 1.25;
+  color: color-mix(in srgb, var(--text-normal) 88%, transparent);
+  overflow: hidden; display: -webkit-box;
+  -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+}
+/* every row, tile, and cover fades up on its own beat (delays inline) */
 @media (prefers-reduced-motion: no-preference) {
-  .sg-nav-recent, .sg-nav-searchwrap, .sg-nav-groups .sg-nav-sect {
+  .sg-nav-recent, .sg-nav-searchwrap, .sg-nav-sect {
     animation: sg-nav-rise 0.3s cubic-bezier(0.22, 0.9, 0.36, 1) both;
   }
-  .sg-nav-row, .sg-nav-book, .sg-nav-ch {
+  .sg-nav-row, .sg-nav-book, .sg-nav-ch, .sg-nav-cover {
     animation: sg-nav-rise 0.32s cubic-bezier(0.22, 0.9, 0.36, 1) both;
   }
 }

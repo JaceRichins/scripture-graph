@@ -9375,6 +9375,9 @@ ${body}
         <path d="M5.6 17.5a9 9 0 1 1 12.8 0" opacity="0.55"/>`
     }
   };
+  function iconHue(name) {
+    return (I[name] ?? I.page).h;
+  }
   function navIcon(parent, name) {
     const d = I[name] ?? I.page;
     const span = parent.createSpan({ cls: "sg-nav-ico" });
@@ -9820,10 +9823,9 @@ ${body}
         attr: { type: "search", placeholder: "Search scriptures, people, places\u2026", enterkeyhint: "search" }
       });
       inp.value = this.searchQuery;
-      const body = c.createDiv({ cls: "sg-nav-searchhost" });
+      const body = c.createDiv({ cls: "sg-nav-searchhost sg-nav-scroll" });
       const showHome = () => {
         this.searchSeq++;
-        body.removeClass("sg-nav-scroll");
         body.empty();
         this.renderHomeRows(body);
       };
@@ -9962,42 +9964,58 @@ ${body}
           };
         }
       }
-      const list = c.createDiv({ cls: "sg-nav-list" });
       let i = 0;
+      const grid = c.createDiv({ cls: "sg-nav-covers" });
+      const cover = (parent, icon, label, onTap) => {
+        const card = parent.createDiv({ cls: "sg-nav-cover" });
+        cascade(card, i++);
+        const art = card.createDiv({ cls: "sg-nav-cover-art" });
+        art.style.setProperty("--ico", iconHue(icon));
+        navIcon(art, icon);
+        card.createDiv({ cls: "sg-nav-cover-label", text: label });
+        card.onclick = onTap;
+        return card;
+      };
       for (const vol of VOLUMES) {
-        const row = list.createDiv({ cls: "sg-nav-row" });
-        cascade(row, i++);
-        navIcon(row, vol.icon);
-        row.createSpan({ cls: "sg-nav-name", text: vol.name });
-        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-        row.onclick = () => {
+        cover(grid, vol.icon, vol.name, () => {
           const books = BOOKS.filter((b) => b.volume === vol.name);
           this.go(books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name });
-        };
+        });
       }
-      const tl = list.createDiv({ cls: "sg-nav-row sg-nav-tl" });
-      cascade(tl, i++);
-      navIcon(tl, "timeline");
-      tl.createSpan({ cls: "sg-nav-name", text: "Timeline" });
-      tl.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-      tl.onclick = () => {
-        this.close();
-        this.host.openTimeline();
-      };
-      const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });
-      cascade(lib, i++);
-      navIcon(lib, "library");
-      lib.createSpan({ cls: "sg-nav-name", text: "Library" });
-      lib.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-      lib.onclick = () => this.go({ kind: "library" });
-      const hub = list.createDiv({ cls: "sg-nav-row sg-nav-hub" });
-      cascade(hub, i++);
-      navIcon(hub, "hub");
-      hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
-      hub.onclick = () => {
-        this.close();
-        this.host.openNote("Study Hub");
-      };
+      cover(
+        grid,
+        "timeline",
+        "Timeline",
+        () => {
+          this.close();
+          this.host.openTimeline();
+        }
+      );
+      cover(
+        grid,
+        "hub",
+        "Study Hub",
+        () => {
+          this.close();
+          this.host.openNote("Study Hub");
+        }
+      );
+      const shelves = LIBRARY_SECTIONS.filter((s) => {
+        const l = this.host.listFolder(s.path);
+        return l.folders.length || l.files.length;
+      });
+      if (shelves.length) {
+        c.createDiv({ cls: "sg-nav-sect", text: "Library" });
+        const lgrid = c.createDiv({ cls: "sg-nav-covers" });
+        for (const s of shelves) {
+          cover(
+            lgrid,
+            s.icon,
+            s.name,
+            () => this.go({ kind: "folder", path: s.path, title: s.name })
+          );
+        }
+      }
       const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
       const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
       void actsP.then((acts) => {
@@ -10033,17 +10051,19 @@ ${body}
       }
     }
     renderLibrary(c) {
-      const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+      const wrap = c.createDiv({ cls: "sg-nav-scroll" });
+      const grid = wrap.createDiv({ cls: "sg-nav-covers" });
       let i = 0;
       for (const s of LIBRARY_SECTIONS) {
         const l = this.host.listFolder(s.path);
         if (!l.folders.length && !l.files.length) continue;
-        const row = list.createDiv({ cls: "sg-nav-row" });
-        cascade(row, i++);
-        navIcon(row, s.icon);
-        row.createSpan({ cls: "sg-nav-name", text: s.name });
-        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-        row.onclick = () => this.go({ kind: "folder", path: s.path, title: s.name });
+        const card = grid.createDiv({ cls: "sg-nav-cover" });
+        cascade(card, i++);
+        const art = card.createDiv({ cls: "sg-nav-cover-art" });
+        art.style.setProperty("--ico", iconHue(s.icon));
+        navIcon(art, s.icon);
+        card.createDiv({ cls: "sg-nav-cover-label", text: s.name });
+        card.onclick = () => this.go({ kind: "folder", path: s.path, title: s.name });
       }
     }
     renderFolder(c, path) {
