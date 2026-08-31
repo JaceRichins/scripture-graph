@@ -10011,25 +10011,68 @@ function readingChapterTitle(f) {
   }
   return null;
 }
+function inHorizontalScroller(el) {
+  let n = el, hops = 0;
+  while (n && hops++ < 8) {
+    if (n.classList?.contains("markdown-reading-view")) return false;
+    if (n.scrollWidth > n.clientWidth + 4) {
+      const o = getComputedStyle(n).overflowX;
+      if (o === "auto" || o === "scroll") return true;
+    }
+    n = n.parentElement;
+  }
+  return false;
+}
 function registerSwipeNav(plugin, s, openChapter) {
   if (!import_obsidian5.Platform.isMobile) return;
   let start = null;
-  plugin.registerDomEvent(document, "touchstart", (evt) => {
+  let claimed = false;
+  const reset = () => {
     start = null;
+    claimed = false;
+  };
+  plugin.registerDomEvent(document, "touchstart", (evt) => {
+    reset();
     if (s.device.swipeNav === false) return;
     if (evt.touches.length !== 1) return;
+    if (document.body.hasClass("sg-selecting")) return;
     const t = evt.touches[0];
     const target = evt.target;
     if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
     if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
-    if (t.clientX < 44 || t.clientX > window.innerWidth - 44) return;
+    if (inHorizontalScroller(target)) return;
+    if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
     start = { x: t.clientX, y: t.clientY, t: Date.now() };
-  }, { passive: true });
+  }, { passive: true, capture: true });
+  plugin.registerDomEvent(document, "touchmove", (evt) => {
+    if (!start) return;
+    const t = evt.touches[0];
+    if (!t || evt.touches.length !== 1) {
+      reset();
+      return;
+    }
+    const dx = t.clientX - start.x;
+    const dy = t.clientY - start.y;
+    if (!claimed) {
+      if (Math.abs(dy) > 14 && Math.abs(dy) > Math.abs(dx) * 1.2) {
+        reset();
+        return;
+      }
+      if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 1.4) {
+        claimed = true;
+      } else {
+        return;
+      }
+    }
+    evt.stopPropagation();
+    if (evt.cancelable) evt.preventDefault();
+  }, { passive: false, capture: true });
   plugin.registerDomEvent(document, "touchend", (evt) => {
     const s0 = start;
-    start = null;
-    if (!s0) return;
-    if (document.body.hasClass("sg-selecting")) return;
+    const wasClaimed = claimed;
+    reset();
+    if (!s0 || !wasClaimed) return;
+    evt.stopPropagation();
     const sel = window.getSelection();
     if (sel && !sel.isCollapsed) return;
     const t = evt.changedTouches[0];
@@ -10037,17 +10080,27 @@ function registerSwipeNav(plugin, s, openChapter) {
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    if (dt > 500 || Math.abs(dx) < 96 || Math.abs(dy) > 60 || Math.abs(dx) < Math.abs(dy) * 2) return;
+    if (dt > 600 || Math.abs(dx) < 72 || Math.abs(dx) < Math.abs(dy) * 1.6) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
-    const next = adjacentChapterTitle(title, dx < 0 ? 1 : -1);
+    const dir = dx < 0 ? 1 : -1;
+    const next = adjacentChapterTitle(title, dir);
     if (!next) return;
     try {
       navigator.vibrate?.(8);
     } catch {
     }
+    const cls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+    document.body.addClass(cls);
+    window.setTimeout(() => document.body.removeClass(cls), 320);
     openChapter(next);
-  }, { passive: true });
+  }, { passive: true, capture: true });
+  plugin.registerDomEvent(
+    document,
+    "touchcancel",
+    () => reset(),
+    { passive: true, capture: true }
+  );
 }
 
 // src/main.ts

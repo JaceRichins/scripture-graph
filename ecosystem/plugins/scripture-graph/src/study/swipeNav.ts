@@ -45,35 +45,81 @@ function readingChapterTitle(f: TFile | null): string | null {
   return null;
 }
 
+/** does any ancestor up to the reading view scroll horizontally itself?
+ * (tables, code blocks, the connections strip — their scroll wins) */
+function inHorizontalScroller(el: HTMLElement | null): boolean {
+  let n = el, hops = 0;
+  while (n && hops++ < 8) {
+    if (n.classList?.contains("markdown-reading-view")) return false;
+    if (n.scrollWidth > n.clientWidth + 4) {
+      const o = getComputedStyle(n).overflowX;
+      if (o === "auto" || o === "scroll") return true;
+    }
+    n = n.parentElement;
+  }
+  return false;
+}
+
 export function registerSwipeNav(
   plugin: Plugin, s: SGState, openChapter: (title: string) => void,
 ): void {
   if (!Platform.isMobile) return;
 
+  // A swipe can serve only one master. Obsidian's sidebar drawers listen to
+  // the same finger, so this gesture runs as an ARBITER in the capture
+  // phase: it watches the first few pixels, decides horizontal-vs-vertical
+  // ONCE, and on claiming a horizontal swipe over a reading page it stops
+  // the event stream cold — the drawers never hear about it. A vertical
+  // start releases instantly and native scrolling is never touched.
   let start: { x: number; y: number; t: number } | null = null;
+  let claimed = false;
+
+  const reset = () => { start = null; claimed = false; };
 
   plugin.registerDomEvent(document, "touchstart", (evt: TouchEvent) => {
-    start = null;
+    reset();
     if (s.device.swipeNav === false) return;                 // per-device off
     if (evt.touches.length !== 1) return;
+    if (document.body.hasClass("sg-selecting")) return;      // mid-markup
     const t = evt.touches[0]!;
     const target = evt.target as HTMLElement | null;
-    // the gesture belongs to READING and nowhere else: it must start on a
-    // rendered scripture surface — never the timeline, navigator, sheets,
-    // or any other view where a horizontal swipe means something different
+    // the gesture belongs to READING and nowhere else
     if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
-    // never inside the StudyBar (horizontal theme scroller), sheets, menus
     if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
-    // leave a wide margin for Obsidian's own sidebar-drawer gestures
-    if (t.clientX < 44 || t.clientX > window.innerWidth - 44) return;
+    if (inHorizontalScroller(target)) return;
+    // the outer edges stay Obsidian's (system back gestures live there too)
+    if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
     start = { x: t.clientX, y: t.clientY, t: Date.now() };
-  }, { passive: true });
+  }, { passive: true, capture: true });
+
+  plugin.registerDomEvent(document, "touchmove", (evt: TouchEvent) => {
+    if (!start) return;
+    const t = evt.touches[0];
+    if (!t || evt.touches.length !== 1) { reset(); return; }
+    const dx = t.clientX - start.x;
+    const dy = t.clientY - start.y;
+    if (!claimed) {
+      // decide once, early, then commit to the decision
+      if (Math.abs(dy) > 14 && Math.abs(dy) > Math.abs(dx) * 1.2) {
+        reset();                                             // it's a scroll
+        return;
+      }
+      if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 1.4) {
+        claimed = true;                                      // it's a page-turn
+      } else {
+        return;                                              // too soon to say
+      }
+    }
+    evt.stopPropagation();
+    if (evt.cancelable) evt.preventDefault();
+  }, { passive: false, capture: true });
 
   plugin.registerDomEvent(document, "touchend", (evt: TouchEvent) => {
     const s0 = start;
-    start = null;
-    if (!s0) return;
-    if (document.body.hasClass("sg-selecting")) return;      // mid-markup
+    const wasClaimed = claimed;
+    reset();
+    if (!s0 || !wasClaimed) return;
+    evt.stopPropagation();
     const sel = window.getSelection();
     if (sel && !sel.isCollapsed) return;                     // text selection
     const t = evt.changedTouches[0];
@@ -81,15 +127,22 @@ export function registerSwipeNav(
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    // a DECISIVE horizontal flick — deliberately stricter than the drawer
-    // gestures it lives beside, so a casual drag never turns the page
-    if (dt > 500 || Math.abs(dx) < 96 || Math.abs(dy) > 60
-      || Math.abs(dx) < Math.abs(dy) * 2) return;
+    // we own the gesture now, so the commit can be gentle: a clear flick,
+    // not a wrestling hold
+    if (dt > 600 || Math.abs(dx) < 72 || Math.abs(dx) < Math.abs(dy) * 1.6) return;
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
     if (!title) return;
-    const next = adjacentChapterTitle(title, dx < 0 ? 1 : -1);
+    const dir: 1 | -1 = dx < 0 ? 1 : -1;
+    const next = adjacentChapterTitle(title, dir);
     if (!next) return;
     try { navigator.vibrate?.(8); } catch { /* no haptics */ }
+    // the new page slides in from the side the finger pointed
+    const cls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+    document.body.addClass(cls);
+    window.setTimeout(() => document.body.removeClass(cls), 320);
     openChapter(next);
-  }, { passive: true });
+  }, { passive: true, capture: true });
+
+  plugin.registerDomEvent(document, "touchcancel", () => reset(),
+    { passive: true, capture: true });
 }

@@ -1355,6 +1355,26 @@ body.sg-scene-on .sg-chap-conn {
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
+/* 👉 page-turn: the new chapter slides in from the side the finger pointed */
+@media (prefers-reduced-motion: no-preference) {
+  body.sg-turn-next .workspace-leaf.mod-active .markdown-reading-view,
+  body.sg-turn-next .workspace-leaf.mod-active .markdown-preview-view {
+    animation: sg-turn-in-next 0.22s ease-out;
+  }
+  body.sg-turn-prev .workspace-leaf.mod-active .markdown-reading-view,
+  body.sg-turn-prev .workspace-leaf.mod-active .markdown-preview-view {
+    animation: sg-turn-in-prev 0.22s ease-out;
+  }
+}
+@keyframes sg-turn-in-next {
+  from { transform: translateX(26px); opacity: 0.55; }
+  to { transform: translateX(0); opacity: 1; }
+}
+@keyframes sg-turn-in-prev {
+  from { transform: translateX(-26px); opacity: 0.55; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
 /* ---------- 👁 verse peek: the reference comes to the reader ------------- */
 .sg-peek-modal { width: min(520px, 94vw); }
 .sg-peek-title { margin: 0 0 10px; }
