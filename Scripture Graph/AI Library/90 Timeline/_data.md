@@ -3055,6 +3055,61 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-25-32f4594a",
+   "t": "Reign of Amaziah of Judah",
+   "y0": -796,
+   "y1": -767,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology places Amaziah's 29-year reign in the early-to-mid 8th century BC, following his father Joash of Judah; exact dates vary by chronological scheme.",
+   "chapters": [
+    "2 Chronicles 25"
+   ],
+   "people": [
+    "Amaziah",
+    "Joash (king of Israel)"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2chr-27-262ccf08",
+   "t": "Reign of Jotham of Judah",
+   "y0": -750,
+   "y1": -734,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Sixteen-year reign length given in 2 Chronicles 27:1, 8; absolute dates depend on disputed co-regency reconstructions with Uzziah and are not fixed by the text itself.",
+   "chapters": [
+    "2 Chronicles 27"
+   ],
+   "people": [
+    "Jotham",
+    "Uzziah",
+    "Ahaz"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "high gate of the temple",
+    "wall of Ophel"
+   ]
+  },
+  {
    "id": "r-2chr-34-ea14ec68",
    "t": "Discovery of the book of the law (18th year)",
    "y0": -623,
