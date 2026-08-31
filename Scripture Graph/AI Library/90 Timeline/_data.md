@@ -3406,6 +3406,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-35-32ef5998",
+   "t": "Battle of Megiddo and death of Josiah",
+   "y0": -609,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Necho II's march toward Carchemish to aid the remnant Assyrian state against Babylon is generally dated to 609 BC based on Babylonian chronicle records; Josiah's death at Megiddo is placed in the same campaign.",
+   "chapters": [
+    "2 Chronicles 35"
+   ],
+   "people": [
+    "Josiah"
+   ],
+   "places": [
+    "Megiddo"
+   ]
+  },
+  {
    "id": "r-2chr-36-208776fb",
    "t": "Successive reigns of Judah's last four kings",
    "y0": -609,
