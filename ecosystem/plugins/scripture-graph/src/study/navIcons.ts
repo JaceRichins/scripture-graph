@@ -174,6 +174,11 @@ const I: Record<NavIconName, IconDef> = {
   },
 };
 
+/** the hue an icon carries — cover art tints itself with it */
+export function iconHue(name: NavIconName): string {
+  return (I[name] ?? I.page).h;
+}
+
 /** mount an icon tile: a backlit rounded square carrying its own hue */
 export function navIcon(parent: HTMLElement, name: NavIconName): HTMLElement {
   const d = I[name] ?? I.page;
