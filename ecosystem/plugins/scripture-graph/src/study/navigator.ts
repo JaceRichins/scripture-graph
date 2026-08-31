@@ -33,7 +33,7 @@ export interface NavigatorHost {
 }
 
 /** the rest of the library — everything beyond the scriptures themselves */
-const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }[] = [
+export const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }[] = [
   { icon: "conference", name: "General Conference", path: "AI Library/10 General Conference" },
   { icon: "dictionary", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
   { icon: "topics", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
@@ -50,13 +50,13 @@ const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }[] = [
 ];
 
 /** "alma-36" → "Alma 36" (null for anything that isn't a chapter slug) */
-function titleForChapterSlug(slug: string): string | null {
+export function titleForChapterSlug(slug: string): string | null {
   const m = /^(.+)-(\d+)$/.exec(slug);
   if (!m) return null;
   return chapterTitle(m[1]!, Number(m[2]));
 }
 
-const VOLUMES: { name: string; icon: NavIconName }[] = [
+export const VOLUMES: { name: string; icon: NavIconName }[] = [
   { name: "Old Testament", icon: "old-testament" },
   { name: "New Testament", icon: "new-testament" },
   { name: "Book of Mormon", icon: "book-of-mormon" },

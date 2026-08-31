@@ -7,7 +7,8 @@
 import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder, WorkspaceLeaf, requestUrl, type App } from "obsidian";
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
-import { SGNavigatorModal } from "./study/navigator";
+import { type NavigatorHost } from "./study/navigator";
+import { LIBRARY_VIEW, SGLibraryView } from "./study/libraryView";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
@@ -165,6 +166,8 @@ export default class SGPlugin extends Plugin {
       callback: () => this.openNavigator(),
     });
     this.registerView(TIMELINE_VIEW, (leaf) => new TimelineView(leaf, this.state));
+    this.registerView(LIBRARY_VIEW,
+      (leaf) => new SGLibraryView(leaf, this.state, this.navigatorHost()));
     this.addCommand({
       id: "open-timeline", name: "Open the timeline", icon: "history",
       callback: () => void this.openTimeline(null),
@@ -515,9 +518,9 @@ export default class SGPlugin extends Plugin {
     if (view instanceof TimelineView) view.setFocus(subject);
   }
 
-  /** 📖 Volume → book → chapter in three taps; lands on My Study pages. */
-  private openNavigator(): void {
-    new SGNavigatorModal(this.app, {
+  /** the shared host every navigation surface drives */
+  private navigatorHost(): NavigatorHost {
+    return {
       openChapter: t => this.openMyStudy(t),
       openNote: l => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
       lastChapter: () => this.state.device.lastChapter,
@@ -549,7 +552,19 @@ export default class SGPlugin extends Plugin {
         void this.app.workspace.openLinkText(path, "");
       },
       openTimeline: () => void this.openTimeline(null),
-    }).open();
+    };
+  }
+
+  /** 📖 The Library PAGE — Gospel Library's whole-screen architecture. */
+  private openNavigator(): void {
+    void (async () => {
+      let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
+      if (!leaf) {
+        leaf = this.app.workspace.getLeaf(true);
+        await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
+      }
+      await this.app.workspace.revealLeaf(leaf);
+    })();
   }
 
   /** Remember where the reader is — powers Continue + the Recent row. */

@@ -291,5 +291,35 @@ import { SGNavigatorModal } from "../src/study/navigator";
       openPath: (p: string) => log(`nav → open ${p}`),
     }).open();
 
+// the Library PAGE: window.sgLibPage() mounts the full-screen shelf
+import { SGLibraryView } from "../src/study/libraryView";
+(window as unknown as { sgLibPage: () => void }).sgLibPage = () => {
+  const host = {
+    openChapter: (t: string) => log(`lib → ${t}`),
+    openNote: (l: string) => log(`lib → note ${l}`),
+    lastChapter: () => ({ slug: "dc-120", title: "D&C 120" }),
+    recentChapters: () => [
+      { slug: "alma-36", title: "Alma 36" },
+      { slug: "gen-1", title: "Genesis 1" },
+      { slug: "matt-5", title: "Matthew 5" },
+    ],
+    groupActivity: async () => [
+      { group_name: "Family", chapter_slug: "alma-36", count: 3, others: 2 },
+    ],
+    listFolder: (path: string) => ({
+      folders: [], files: [{ name: "Sample page", path: `${path}/s.md` }],
+    }),
+    openPath: (p: string) => log(`lib → open ${p}`),
+    openTimeline: () => log("lib → timeline"),
+  };
+  const view = new SGLibraryView({} as never, { app: {} } as never, host as never);
+  (window as unknown as { sgLibView: unknown }).sgLibView = view;
+  void view.onOpen().then(() => {
+    view.contentEl.style.cssText =
+      "position:fixed;inset:0;z-index:70;background:#0b0b12;overflow:auto;";
+    document.body.appendChild(view.contentEl);
+  });
+};
+
 void redecorate();
 log("harness ready — real StudyBar + AnnotationService + SyncEngine");

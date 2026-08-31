@@ -1072,8 +1072,59 @@ body.sg-selecting .sg-back-pill { display: none; }
   color: var(--text-on-accent);
   box-shadow: 0 4px 18px color-mix(in srgb, var(--interactive-accent) 45%, transparent);
 }
+/* ---------- 🏛 the Library PAGE: Gospel Library's whole-screen feel ------ */
+.sg-libpage {
+  height: 100%; overflow-y: auto; overscroll-behavior: contain;
+  padding: 14px 16px calc(28px + env(safe-area-inset-bottom, 0px));
+  background:
+    radial-gradient(70% 380px at 50% 0%, rgba(108, 125, 210, 0.08), transparent 75%),
+    var(--background-primary);
+}
+.sg-libpage > * { max-width: 640px; margin-left: auto; margin-right: auto; }
+.sg-lp-head {
+  display: flex; align-items: center; gap: 10px;
+  margin: 4px 0 14px;
+}
+.sg-lp-title {
+  font-size: 1.7em; font-weight: 800; letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+.sg-lp-back { flex: 0 0 40px; }
+.sg-lp-body { display: flex; flex-direction: column; }
+
+/* the black Scriptures jacket from the photo: the four works stamped in
+ * gold down its front */
+.sg-cover-jacket {
+  background:
+    radial-gradient(80% 45% at 50% 0%, rgba(217, 192, 122, 0.12), transparent 75%),
+    linear-gradient(170deg, #17151a, #0d0c10 60%, #0a090d) !important;
+  border-color: rgba(217, 192, 122, 0.35) !important;
+}
+.sg-cover-lines {
+  display: flex; flex-direction: column; justify-content: center;
+  gap: 9px; height: 100%; padding: 10px 6px;
+}
+.sg-cover-line {
+  text-align: center; text-transform: uppercase;
+  font-size: 8px; font-weight: 600; letter-spacing: 0.13em;
+  line-height: 1.35; color: #d9c07a;
+}
+.sg-cover-line:not(:last-child)::after {
+  content: ""; display: block; margin: 8px auto 0;
+  width: 14px; height: 1px; background: rgba(217, 192, 122, 0.4);
+}
+
 /* the Gospel-Library shelf: a grid of book covers — hue-deep gradients
- * with the emblem glowing on the jacket, label beneath the card */
+ * with the emblem glowing on the jacket, label beneath the card.
+ * The thin bars above each cover are GL's stacked-deck cue: there is a
+ * pile of things behind this card. */
+.sg-nav-cover::before {
+  content: ""; display: block;
+  height: 3px; margin: 0 14px 3px;
+  border-radius: 3px 3px 0 0;
+  background: color-mix(in srgb, var(--ico, #888) 16%, rgba(255, 255, 255, 0.05));
+  box-shadow: 0 -4px 0 -1px color-mix(in srgb, var(--ico, #888) 9%, rgba(255, 255, 255, 0.03));
+}
 .sg-nav-covers {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(94px, 122px));
   justify-content: space-evenly;
