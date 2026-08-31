@@ -44,12 +44,12 @@ _Not yet developed._
 - **931 BC** — The kingdom divides — Israel and Judah · [[1 Kings 12]] · [[1000-901 BC]] *(historical)*
 - **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
 - **870 BC–848 BC** — Jehoshaphat's reign and the En-gedi deliverance · [[2 Chronicles 20]] · [[900-801 BC]] *(approximate)*
+- **848 BC–841 BC** — Reign of Jehoram of Judah · [[2 Chronicles 21]] · [[900-801 BC]] *(approximate)*
 - **835 BC–796 BC** — Reign of Joash of Judah and temple repair · [[2 Chronicles 24]] · [[900-801 BC]] *(traditional dating)*
+- **835 BC–796 BC** — Reign of Jehoash (Joash) of Judah · [[2 Kings 12]] · [[900-801 BC]] *(approximate)*
 - **796 BC–767 BC** — Reign of Amaziah of Judah · [[2 Chronicles 25]] · [[800-701 BC]] *(traditional dating)*
 - **750 BC–734 BC** — Reign of Jotham of Judah · [[2 Chronicles 27]] · [[800-701 BC]] *(approximate)*
 - **740 BC–690 BC** — Isaiah's ministry in Jerusalem · [[Isaiah 6]] · [[Isaiah 53]] · [[2 Kings 19]] · [[800-701 BC]] *(approximate)*
-- **735 BC–715 BC** — Reign of Ahaz king of Judah · [[2 Kings 16]] · [[800-701 BC]] *(approximate)*
-- **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

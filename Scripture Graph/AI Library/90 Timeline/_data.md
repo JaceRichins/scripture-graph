@@ -3138,6 +3138,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-21-96442a5e",
+   "t": "Reign of Jehoram of Judah",
+   "y0": -848,
+   "y1": -841,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Eight-year reign length given in 2 Chronicles 21:5, 20, correlated with the Kings synchronism to Joram of Israel's reign (2 Kings 8:16-17); approximate dates follow conventional coregency-based reconstructions of the divided-monarchy chronology.",
+   "chapters": [
+    "2 Chronicles 21"
+   ],
+   "people": [
+    "Jehoram (king of Judah)",
+    "Elijah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2chr-24-84602d63",
    "t": "Reign of Joash of Judah and temple repair",
    "y0": -835,
@@ -3330,6 +3354,33 @@ timeline module, not this file._
    "places": [
     "Samaria",
     "Jezreel"
+   ]
+  },
+  {
+   "id": "r-2kgs-12-49c44566",
+   "t": "Reign of Jehoash (Joash) of Judah",
+   "y0": -835,
+   "y1": -796,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional (e.g., Thiele-style) chronology synchronizes accession with the seventh year of Jehu of Israel (2 Kings 12:1) and a stated forty-year reign; exact absolute dates are disputed among chronologers.",
+   "chapters": [
+    "2 Kings 12"
+   ],
+   "people": [
+    "Jehoash (Joash) of Judah",
+    "Jehoiada",
+    "Hazael king of Syria",
+    "Amaziah"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {
