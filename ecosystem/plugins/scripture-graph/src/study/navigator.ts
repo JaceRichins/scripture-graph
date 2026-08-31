@@ -173,10 +173,9 @@ export class SGNavigatorModal extends Modal {
       attr: { type: "search", placeholder: "Search scriptures, people, places…", enterkeyhint: "search" },
     });
     inp.value = this.searchQuery;
-    const body = c.createDiv({ cls: "sg-nav-searchhost" });
+    const body = c.createDiv({ cls: "sg-nav-searchhost sg-nav-scroll" });
     const showHome = () => {
       this.searchSeq++;           // orphan any in-flight search render
-      body.removeClass("sg-nav-scroll");
       body.empty();
       this.renderHomeRows(body);
     };
