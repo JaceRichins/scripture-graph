@@ -17,21 +17,21 @@ Scripture: [[Amos 9]] · My notes: [[Amos 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-[[Amos 9]] closes the book with severe judgment and substantial hope. Verses 1–4 deny every imagined route of escape, and verses 5–6 identify the judge through his authority over land, heaven, and sea. Verses 7–10 challenge reliance on Israel's exodus history as a guarantee of safety: the sinful kingdom faces destruction, yet the house of Jacob will not be utterly destroyed, and the sinners who deny approaching disaster remain accountable.
+[[Amos 9]] closes the book by refusing several forms of false security. Physical distance cannot provide escape (9:1–4), divine power extends across land, heaven, and sea (9:5–6), and Israel's exodus history does not provide automatic immunity (9:7–10). Yet judgment is qualified: the house of Jacob is not utterly destroyed, even as the sinners who deny approaching disaster remain accountable.
 
-Verses 11–15 turn toward the repair of David's fallen order, extraordinary agricultural abundance, return, rebuilding, and secure planting. Hope does not erase the judgment. The received chapter distinguishes preservation of Jacob as a people from indiscriminate protection of every Israelite, while leaving the chronology and historical mechanism of restoration unspecified.
+Verses 11–15 turn sharply toward repair, abundance, return, rebuilding, and secure planting. This hope does not cancel the preceding judgment. In the chapter's received form, restoration follows judgment and preservation, but the passage does not specify the restoration's date, historical mechanism, or exhaustive fulfillment.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
 A cautious final-form outline is:
 
-1. **9:1–4 — The altar vision and inescapable judgment:** flight, spatial extremes, remote hiding places, and captivity provide no deliverance.
-2. **9:5–6 — The authority of the judge:** a compact description of the LORD's power over land, heaven, earth, sea, and waters.
-3. **9:7–10 — Privilege challenged and destruction qualified:** Israel's exodus does not guarantee immunity; Jacob is not utterly destroyed, but the sinners of God's people face judgment.
-4. **9:11–15 — Restoration after ruin:** David's fallen structure is repaired, abundance returns, cities are inhabited, and Israel is planted securely.
+1. **9:1–4 — Inescapable judgment:** the altar vision is followed by a catalogue of failed refuges.
+2. **9:5–6 — The judge's authority:** the LORD is described through his power over land, heaven, earth, sea, and waters.
+3. **9:7–10 — Privilege challenged, destruction qualified:** Israel's exodus cannot guarantee immunity; Jacob is preserved from utter destruction while sinners are judged.
+4. **9:11–15 — Restoration:** David's fallen structure is repaired, fertility returns, cities are rebuilt, and Israel is planted securely.
 
-The transition at verse 11 is sharp. Preservation in verses 8–9 makes hope contextually intelligible, but final-form coherence does not settle whether verses 11–15 originated with the preceding units or were joined to them editorially.
+The transition at verse 11 is pronounced. Preservation in verses 8–9 makes the turn toward hope intelligible within the final form, but that coherence does not resolve questions about the units' compositional history.
 <!-- SG:END structure -->
 
 ## People
@@ -53,17 +53,16 @@ The transition at verse 11 is sharp. Preservation in verses 8–9 makes hope con
 - [[D&C 77]] — 2 footnote cross-references (from [[Amos 9#^amos-9-14|Amos 9:14]])
 - [[Proverbs 28]] — 1 footnote cross-reference (from [[Amos 9#^amos-9-1|Amos 9:1]])
 - [[Amos 2]] — 1 footnote cross-reference (from [[Amos 9#^amos-9-1|Amos 9:1]])
-- [[Amos 5]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-6|Amos 9:6]] ↔ [[Amos 5#^amos-5-8|Amos 5:8]]
-- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 31#^jer-31-38|Jeremiah 31:38]]
-- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
-- [[Jeremiah 49]] — 3 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 23]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-13|Amos 9:13]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 - [[Amos 8]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-5|Amos 9:5]] ↔ [[Amos 8#^amos-8-8|Amos 8:8]]
-- [[Isaiah 65]] — 1 parallel verse, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Isaiah 65#^isa-65-21|Isaiah 65:21]]
 - [[Jeremiah 29]] — 2 parallel verses, e.g. [[Amos 9#^amos-9-14|Amos 9:14]] ↔ [[Jeremiah 29#^jer-29-5|Jeremiah 29:5]]
+- [[Jeremiah 30]] — 0 parallel verses
+- [[Jeremiah 31]] — 0 parallel verses
 - [[Acts 15]] — 0 parallel verses
 - [[Amos 3]] — 0 parallel verses
 - [[Joel 3]] — 0 parallel verses
+- [[Amos 5]] — 0 parallel verses
+- [[Amos 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,9 +74,9 @@ The transition at verse 11 is sharp. Preservation in verses 8–9 makes hope con
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter challenges the belief that remembered deliverance guarantees present safety. Israel's exodus is recalled, but the sinful kingdom remains accountable. Read alongside [[Amos 3]], this supports the principle that a distinctive relationship with God can increase accountability rather than remove it.
+The chapter treats remembered deliverance as no substitute for present accountability. Israel's exodus is affirmed in Amos 9:7, but the sinful kingdom still faces judgment. Read with [[Amos 3]], this connects covenant privilege with responsibility rather than automatic protection.
 
-Amos 9:8–10 gives [[Justice and Mercy]] a concrete but severe form: sinners are judged, while Jacob is not annihilated. This does not reveal the fate or moral status of every individual survivor. The movement from sifting among nations to return and secure planting also connects [[Scattering of Israel]] with [[Gathering of Israel]]. The promised restoration supports [[Hope]], but the chapter does not independently specify its date, duration, modern political referent, or complete fulfillment.
+Amos 9:8–10 presents a severe conjunction of [[Justice and Mercy]]: sinners face judgment while Jacob is not annihilated. The text does not identify the moral standing of every survivor. Its movement from sifting among nations to return and secure planting also connects [[Scattering of Israel]] and [[Gathering of Israel]]. The conclusion supports [[Hope]], while leaving unsupported any claim that the chapter alone identifies a particular modern state, date, or complete historical fulfillment.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,16 +91,18 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-In Amos 9:2, the King James word "hell" stands opposite heaven and functions immediately as an extreme depth into which fugitives might try to dig. The passage concerns the reach of judgment; it should not alone carry a detailed doctrine of the postmortal world.
+In Amos 9:2, the King James word "hell" is paired with heaven as the lowest imaginable place into which fugitives might dig. In this context it functions spatially within a catalogue of impossible escape routes; the verse alone cannot sustain a detailed doctrine of the postmortal world.
 
-The repeated "though" clauses in verses 2–4 build an escalating catalogue of failed escape. The recurrence of divine "eyes" in verses 4 and 8 also creates a verbal link between pursuit of fugitives and judgment of the sinful kingdom.
+The repeated "though" and "thence" clauses in verses 2–4 create an accumulating pattern: each imagined refuge receives a corresponding divine action. The recurrence of God's "eyes" in verses 4 and 8 links the pursuit of fugitives with judgment upon the sinful kingdom.
 
-Two images require special restraint. The physical mechanics of the sieve in verse 9 are disputed: interpreters differ over whether the image emphasizes valuable grain preserved or culpable material retained for judgment. Scattering and the absence of indiscriminate immunity are clearer than the identity of every item in the sieve. Likewise, the "tabernacle of David" in verse 11 plausibly evokes a damaged Davidic dynasty, kingdom, or political order, but the phrase does not choose conclusively among those possibilities or exclude broader associations.
+The sieve in verse 9 requires restraint. Scattering and divine control of the process are clear, but interpreters can differ over what the non-falling grain represents. Likewise, "the tabernacle of David" in verse 11 plausibly evokes a damaged Davidic dynasty or political order, but the brief metaphor does not conclusively select one referent.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Verses 2–4 use repeated concessive clauses to produce a mounting sense of enclosure: height, depth, remote terrain, sea, and captivity all fail as refuges. Verses 13–15 reverse the chapter's earlier rhetoric of loss. Agricultural operations overlap, ruined cities are inhabited, cultivators enjoy their produce, captivity gives way to return, and threatened removal gives way to secure planting.
+Verses 2–4 use repeated concessive clauses to produce a mounting sense of enclosure: height, depth, remote terrain, sea, and captivity all fail as refuges. Verse 6's closing clause ('that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name') repeats, almost verbatim, the close of the doxology in [[Amos 5]] (5:8). This verbal link ties the book's middle hymn fragment to its final one, though it does not by itself establish common authorship or a shared external source; some critical readers instead treat Amos's hymnic units (4:13; 5:8–9; 9:5–6) as independently circulating liturgical material inserted at structural points in the book rather than composed specifically to ground the surrounding oracle.
+
+Verses 13–15 reverse the chapter's earlier rhetoric of loss. Agricultural operations overlap, ruined cities are inhabited, cultivators enjoy their produce, captivity gives way to return, and threatened removal gives way to secure planting.
 
 These contrasts give the received conclusion literary force, but they do not prove that every unit originated in one setting or from one hand. A substantial alternative is that an editor placed a restoration oracle after judgment material, creating a coherent final movement without a single original composition.
 
@@ -114,6 +115,10 @@ These contrasts give the received conclusion literary force, but they do not pro
 > The explicit use of Amos 9:11-12 in Acts 15 is strong evidence that an early Christian author understood the oracle as relevant to the incorporation of Gentiles into God's people. It is evidence about Christian reception and application, not by itself a conclusive reconstruction of the oracle's sole original historical meaning.
 > — strength 0.9 · confidence 1.0 · Reception fact accepted; original meaning disputed · [[Intertextual Reception in Amos 9|full dossier]]
 
+> [!evidence] Contextual And Rhetorical Evidence
+> By placing Israel's departure from Egypt beside the movements of the Philistines from Caphtor and the Syrians from Kir, verse 7 provides strong textual evidence that Israel cannot invoke the exodus as an automatic guarantee of immunity from the judgment announced in verses 8–10.
+> — strength 0.8 · confidence 0.8 · mainstream, well-hedged reading · [[Contextual And Rhetorical Evidence in Amos 9|full dossier]]
+
 > [!evidence] Literary Sequence And Explicit Contrast
 > The sequence from qualified destruction, through the sieve image, to the death of the sinners supplies strong internal evidence that Amos distinguishes preservation of the house of Jacob from preservation of every individual Israelite.
 > — strength 0.9 · confidence 1.0 · Strongly supported; sieve mechanics disputed · [[Literary Sequence And Explicit Contrast in Amos 9|full dossier]]
@@ -122,9 +127,13 @@ These contrasts give the received conclusion literary force, but they do not pro
 > The comparison of Israel with the Ethiopians and the parallel references to Israel's exodus, the Philistines' movement from Caphtor, and the Syrians' movement from Kir provide strong textual evidence against treating Israel's exodus history as automatic immunity from judgment.
 > — strength 0.9 · confidence 1.0 · Broadly accepted with stated qualifications · [[Intratextual Theological Argument in Amos 9|full dossier]]
 
-> [!evidence] Literary Structure *(tentative)*
-> The chapter's progression—inescapable judgment, affirmation of divine sovereignty, discrimination between sinners and a preserved house, and finally restoration—strongly supports reading the received chapter as a purposeful movement from false security through judgment to qualified hope.
-> — strength 0.7 · confidence 0.8 · Final-form progression accepted; compositional design disputed
+> [!evidence] Close Reading Of Rhetorical Structure
+> Amos 9:7 rhetorically levels Israel's exodus with the migrations of the Philistines (from Caphtor) and the Syrians/Arameans (from Kir), and compares Israel itself to 'children of the Ethiopians' - directly challenging any assumption that the exodus guarantees Israel a uniquely privileged, unconditional status among nations.
+> — strength 0.7 · confidence 0.8 · accepted observation, disputed larger implication · [[Close Reading Of Rhetorical Structure in Amos 9|full dossier]]
+
+> [!evidence] Final-Form Literary Structure
+> In the received form of the chapter, the movement from unavoidable judgment to qualified preservation and then restoration strongly supports reading judgment and hope together. This literary movement does not determine whether all the units originated at the same time or from the same hand.
+> — strength 0.8 · confidence 0.9 · well-scoped final-form claim · [[Final-Form Literary Structure in Amos 9|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
