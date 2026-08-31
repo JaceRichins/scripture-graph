@@ -6042,6 +6042,48 @@ var init_sheetRegistry = __esm({
   }
 });
 
+// src/study/trace.ts
+var trace_exports = {};
+__export(trace_exports, {
+  setOverlay: () => setOverlay,
+  trace: () => trace,
+  traceDump: () => traceDump
+});
+function trace(kind, data = {}) {
+  const entry = {
+    t: Date.now() - START,
+    kind,
+    data: Object.entries(data).map(([k, v]) => `${k}=${String(v)}`).join(" ")
+  };
+  BUF.push(entry);
+  if (BUF.length > MAX) BUF.shift();
+  if (overlayEl) {
+    const last = BUF.slice(-4).map((e) => `${(e.t / 1e3).toFixed(1)}s ${e.kind} ${e.data}`);
+    overlayEl.setText(last.join("\n"));
+  }
+}
+function traceDump() {
+  return BUF.map((e) => `${(e.t / 1e3).toFixed(2)}s ${e.kind} ${e.data}`).join("\n");
+}
+function setOverlay(on) {
+  if (on && !overlayEl) {
+    overlayEl = document.body.createDiv({ cls: "sg-trace-overlay" });
+  } else if (!on && overlayEl) {
+    overlayEl.remove();
+    overlayEl = null;
+  }
+}
+var BUF, MAX, START, overlayEl;
+var init_trace = __esm({
+  "src/study/trace.ts"() {
+    "use strict";
+    BUF = [];
+    MAX = 300;
+    START = Date.now();
+    overlayEl = null;
+  }
+});
+
 // src/study/timelineView.ts
 var timelineView_exports = {};
 __export(timelineView_exports, {
@@ -8192,48 +8234,6 @@ var init_presence = __esm({
   }
 });
 
-// src/study/trace.ts
-var trace_exports = {};
-__export(trace_exports, {
-  setOverlay: () => setOverlay,
-  trace: () => trace,
-  traceDump: () => traceDump
-});
-function trace(kind, data = {}) {
-  const entry = {
-    t: Date.now() - START,
-    kind,
-    data: Object.entries(data).map(([k, v]) => `${k}=${String(v)}`).join(" ")
-  };
-  BUF.push(entry);
-  if (BUF.length > MAX) BUF.shift();
-  if (overlayEl) {
-    const last = BUF.slice(-4).map((e) => `${(e.t / 1e3).toFixed(1)}s ${e.kind} ${e.data}`);
-    overlayEl.setText(last.join("\n"));
-  }
-}
-function traceDump() {
-  return BUF.map((e) => `${(e.t / 1e3).toFixed(2)}s ${e.kind} ${e.data}`).join("\n");
-}
-function setOverlay(on) {
-  if (on && !overlayEl) {
-    overlayEl = document.body.createDiv({ cls: "sg-trace-overlay" });
-  } else if (!on && overlayEl) {
-    overlayEl.remove();
-    overlayEl = null;
-  }
-}
-var BUF, MAX, START, overlayEl;
-var init_trace = __esm({
-  "src/study/trace.ts"() {
-    "use strict";
-    BUF = [];
-    MAX = 300;
-    START = Date.now();
-    overlayEl = null;
-  }
-});
-
 // src/study/translations.ts
 function isBiblical(verseId) {
   const r = parseVerseId(verseId);
@@ -9983,6 +9983,7 @@ init_sheetRegistry();
 // src/study/swipeNav.ts
 var import_obsidian5 = require("obsidian");
 init_src();
+init_trace();
 function adjacentChapterTitle(title, dir) {
   const id = chapterIdFromTitle(title);
   if (!id) return null;
@@ -10030,12 +10031,21 @@ function registerSwipeNav(plugin, s, openChapter) {
     start = null;
     if (s.device.swipeNav === false) return;
     if (evt.touches.length !== 1) return;
-    if (document.body.hasClass("sg-selecting")) return;
+    if (document.body.hasClass("sg-selecting")) {
+      trace("swipe.skip", { why: "selecting" });
+      return;
+    }
     const t = evt.touches[0];
     const target = evt.target;
     if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
-    if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) return;
-    if (inHorizontalScroller(target)) return;
+    if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) {
+      trace("swipe.skip", { why: "ui-chrome" });
+      return;
+    }
+    if (inHorizontalScroller(target)) {
+      trace("swipe.skip", { why: "h-scroller" });
+      return;
+    }
     if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
     start = { x: t.clientX, y: t.clientY, t: Date.now() };
   }, { passive: true });
@@ -10043,23 +10053,38 @@ function registerSwipeNav(plugin, s, openChapter) {
     const s0 = start;
     start = null;
     if (!s0) return;
-    const sel = window.getSelection();
-    if (sel && !sel.isCollapsed) return;
     const t = evt.changedTouches[0];
     if (!t) return;
     const dx = t.clientX - s0.x;
     const dy = t.clientY - s0.y;
     const dt = Date.now() - s0.t;
-    if (dt > 550 || Math.abs(dx) < 80 || Math.abs(dy) > 70 || Math.abs(dx) < Math.abs(dy) * 1.8) return;
+    if (dt > 550 || Math.abs(dx) < 80 || Math.abs(dy) > 70 || Math.abs(dx) < Math.abs(dy) * 1.8) {
+      if (Math.abs(dx) >= 40) {
+        trace("swipe.miss", { dx: Math.round(dx), dy: Math.round(dy), dt });
+      }
+      return;
+    }
+    const sel = window.getSelection();
+    if (sel && !sel.isCollapsed && sel.toString().trim().length > 0) {
+      trace("swipe.skip", { why: "selection", len: sel.toString().length });
+      return;
+    }
     const title = readingChapterTitle(s.app.workspace.getActiveFile());
-    if (!title) return;
+    if (!title) {
+      trace("swipe.skip", { why: "no-chapter", file: s.app.workspace.getActiveFile()?.basename ?? "none" });
+      return;
+    }
     const dir = dx < 0 ? 1 : -1;
     const next = adjacentChapterTitle(title, dir);
-    if (!next) return;
+    if (!next) {
+      trace("swipe.skip", { why: "canon-end", at: title });
+      return;
+    }
     try {
       navigator.vibrate?.(8);
     } catch {
     }
+    trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
     const cls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
     document.body.addClass(cls);
     window.setTimeout(() => document.body.removeClass(cls), 320);
