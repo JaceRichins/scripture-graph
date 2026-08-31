@@ -68,6 +68,42 @@ function horizontalScrollerAt(el: HTMLElement | null): HTMLElement | null {
   return null;
 }
 
+/** the turn happens behind a veil: the workspace is covered the moment the
+ * flick commits, the destination loads and flips to reading view underneath,
+ * and the veil lifts only when the page is actually READY — so the reader
+ * sees one clean slide, never the raw in-between states. A hard timeout
+ * guarantees the veil can never strand the screen. */
+let veilActive = false;
+
+function turnWithVeil(s: SGState, dir: 1 | -1, next: string,
+  openChapter: (title: string) => void): void {
+  if (veilActive) { openChapter(next); return; }
+  veilActive = true;
+  const veil = document.body.createDiv({ cls: "sg-turn-veil" });
+  const slideCls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+  const t0 = Date.now();
+  const done = () => {
+    veilActive = false;
+    document.body.addClass(slideCls);            // slide in on the SETTLED page
+    veil.addClass("sg-turn-veil-off");
+    window.setTimeout(() => veil.remove(), 220);
+    window.setTimeout(() => document.body.removeClass(slideCls), 360);
+  };
+  openChapter(next);
+  const ready = (): boolean => {
+    if (readingChapterTitle(s.app.workspace.getActiveFile()) !== next) return false;
+    const pv = document.querySelector(
+      ".workspace-leaf.mod-active .markdown-preview-view");
+    return pv instanceof HTMLElement && pv.clientHeight > 0;
+  };
+  const tick = () => {
+    if (ready()) { window.requestAnimationFrame(done); return; }
+    if (Date.now() - t0 > 750) { done(); return; }
+    window.requestAnimationFrame(tick);
+  };
+  window.requestAnimationFrame(tick);
+}
+
 export function registerSwipeNav(
   plugin: Plugin, s: SGState, openChapter: (title: string) => void,
 ): void {
@@ -157,11 +193,7 @@ export function registerSwipeNav(
     }
     try { navigator.vibrate?.(8); } catch { /* no haptics */ }
     trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
-    // the new page slides in from the side the finger pointed
-    const cls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
-    document.body.addClass(cls);
-    window.setTimeout(() => document.body.removeClass(cls), 320);
-    openChapter(next);
+    turnWithVeil(s, dir, next, openChapter);
   }, { passive: true });
 
   plugin.registerDomEvent(document, "touchcancel", () => { start = null; },

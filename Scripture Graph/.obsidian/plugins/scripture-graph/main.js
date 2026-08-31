@@ -10032,6 +10032,44 @@ function horizontalScrollerAt(el) {
   }
   return null;
 }
+var veilActive = false;
+function turnWithVeil(s, dir, next, openChapter) {
+  if (veilActive) {
+    openChapter(next);
+    return;
+  }
+  veilActive = true;
+  const veil = document.body.createDiv({ cls: "sg-turn-veil" });
+  const slideCls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+  const t0 = Date.now();
+  const done = () => {
+    veilActive = false;
+    document.body.addClass(slideCls);
+    veil.addClass("sg-turn-veil-off");
+    window.setTimeout(() => veil.remove(), 220);
+    window.setTimeout(() => document.body.removeClass(slideCls), 360);
+  };
+  openChapter(next);
+  const ready = () => {
+    if (readingChapterTitle(s.app.workspace.getActiveFile()) !== next) return false;
+    const pv = document.querySelector(
+      ".workspace-leaf.mod-active .markdown-preview-view"
+    );
+    return pv instanceof HTMLElement && pv.clientHeight > 0;
+  };
+  const tick = () => {
+    if (ready()) {
+      window.requestAnimationFrame(done);
+      return;
+    }
+    if (Date.now() - t0 > 750) {
+      done();
+      return;
+    }
+    window.requestAnimationFrame(tick);
+  };
+  window.requestAnimationFrame(tick);
+}
 function registerSwipeNav(plugin, s, openChapter) {
   if (!import_obsidian5.Platform.isMobile) return;
   let start = null;
@@ -10104,10 +10142,7 @@ function registerSwipeNav(plugin, s, openChapter) {
     } catch {
     }
     trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
-    const cls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
-    document.body.addClass(cls);
-    window.setTimeout(() => document.body.removeClass(cls), 320);
-    openChapter(next);
+    turnWithVeil(s, dir, next, openChapter);
   }, { passive: true });
   plugin.registerDomEvent(
     document,

@@ -1355,23 +1355,35 @@ body.sg-scene-on .sg-chap-conn {
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
-/* 👉 page-turn: the new chapter slides in from the side the finger pointed */
+/* 👉 page-turn: a veil covers the workspace while the next chapter loads
+ * and settles into reading view — the reader never sees the raw
+ * in-between — then lifts as the new page slides in from the side the
+ * finger pointed. Quick fades only; the slide honors reduced motion. */
+.sg-turn-veil {
+  position: fixed; inset: 0; z-index: 45; pointer-events: none;
+  background: var(--background-primary);
+  opacity: 0;
+  animation: sg-veil-in 0.07s ease-out forwards;
+}
+.sg-turn-veil-off { animation: sg-veil-out 0.18s ease-in forwards; }
+@keyframes sg-veil-in { to { opacity: 1; } }
+@keyframes sg-veil-out { from { opacity: 1; } to { opacity: 0; } }
 @media (prefers-reduced-motion: no-preference) {
   body.sg-turn-next .workspace-leaf.mod-active .markdown-reading-view,
   body.sg-turn-next .workspace-leaf.mod-active .markdown-preview-view {
-    animation: sg-turn-in-next 0.22s ease-out;
+    animation: sg-turn-in-next 0.24s cubic-bezier(0.22, 0.9, 0.36, 1);
   }
   body.sg-turn-prev .workspace-leaf.mod-active .markdown-reading-view,
   body.sg-turn-prev .workspace-leaf.mod-active .markdown-preview-view {
-    animation: sg-turn-in-prev 0.22s ease-out;
+    animation: sg-turn-in-prev 0.24s cubic-bezier(0.22, 0.9, 0.36, 1);
   }
 }
 @keyframes sg-turn-in-next {
-  from { transform: translateX(26px); opacity: 0.55; }
+  from { transform: translateX(34px); opacity: 0.4; }
   to { transform: translateX(0); opacity: 1; }
 }
 @keyframes sg-turn-in-prev {
-  from { transform: translateX(-26px); opacity: 0.55; }
+  from { transform: translateX(-34px); opacity: 0.4; }
   to { transform: translateX(0); opacity: 1; }
 }
 
