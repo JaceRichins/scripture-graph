@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **852 BC–841 BC** — Jehoram of Israel's reign and Moab's rebellion · [[2 Kings 3]] · [[900-801 BC]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

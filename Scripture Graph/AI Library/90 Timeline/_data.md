@@ -3710,6 +3710,56 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-3-c6ce2c43",
+   "t": "Jehoram of Israel's reign and Moab's rebellion",
+   "y0": -852,
+   "y1": -841,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional regnal chronology places Jehoram's twelve-year reign beginning in Jehoshaphat's eighteenth year (2 Kings 3:1), shortly after Ahab's death, with Moab's rebellion following (2 Kings 3:5).",
+   "chapters": [
+    "2 Kings 3"
+   ],
+   "people": [
+    "Jehoram",
+    "Jehoshaphat",
+    "Mesha"
+   ],
+   "places": [
+    "Samaria",
+    "Moab"
+   ]
+  },
+  {
+   "id": "r-2sam-2-ef0af341",
+   "t": "David's reign as king of Judah at Hebron",
+   "y0": -1010,
+   "y1": -1003,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology reckoning back from later regnal totals; disputed among scholars and not internally reconciled with Ish-bosheth's two-year reign noted in this same chapter.",
+   "chapters": [
+    "2 Samuel 2"
+   ],
+   "people": [
+    "David"
+   ],
+   "places": [
+    "Hebron"
+   ]
+  },
+  {
    "id": "r-3ne-21-d339e4b7",
    "t": "Jesus gives the sign of Israel's future gathering",
    "y0": 34,
