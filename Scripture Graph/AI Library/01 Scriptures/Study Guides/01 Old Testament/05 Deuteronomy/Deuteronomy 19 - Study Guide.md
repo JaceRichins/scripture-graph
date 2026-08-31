@@ -23,11 +23,12 @@ Scripture: [[Deuteronomy 19]] · My notes: [[Deuteronomy 19 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Cities of refuge and homicide (vv. 1–13):** Roads and distributed cities make refuge reachable for a killer who lacked prior hatred; an ambushing murderer is removed from refuge.
-2. **Established land boundaries (v. 14):** A neighbor's inherited landmark must not be moved.
-3. **Witnesses and judicial inquiry (vv. 15–21):** One witness is insufficient; disputed testimony is diligently investigated; a false witness receives the consequence intended for the accused.
+1. **Accessible refuge and unintended killing (vv. 1–10):** Three distributed cities and prepared roads protect a slayer who lacked prior hatred; three additional cities are contemplated if Israel's territory expands under the stated covenant conditions.
+2. **Deliberate murder (vv. 11–13):** Hatred, ambush, and mortal violence identify the contrasting case; refuge does not prevent the elders from delivering the killer for death.
+3. **Inherited boundaries (v. 14):** An established neighbor's landmark must not be moved.
+4. **Testimony and false accusation (vv. 15–21):** One witness is insufficient, judges investigate disputed testimony, and a false witness receives the intended penalty.
 
-The commands to remove guilt or evil (vv. 13, 19) and the repeated warning not to pity (vv. 13, 21) verbally connect the homicide and false-witness units. The text does not explain whether verse 14's placement creates a deliberate threefold literary design.
+The first and fourth units share removal language and the warning that the people's eye must not pity (vv. 13, 19, 21). These verbal links are clear, although they do not by themselves prove a formal literary design embracing verse 14.
 <!-- SG:END structure -->
 
 ## People
@@ -48,18 +49,18 @@ _Not yet developed._
 - [[1 Chronicles 4]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-8|Deuteronomy 19:8]])
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
 - [[Mosiah 13]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
-- [[Deuteronomy 25]] — 8 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
-- [[Deuteronomy 21]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]]
 - [[Deuteronomy 15]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 26]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
-- [[Deuteronomy 17]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
-- [[Deuteronomy 5]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
 - [[Deuteronomy 28]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]]
 - [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 12#^deut-12-29|Deuteronomy 12:29]]
 - [[Deuteronomy 13]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-19|Deuteronomy 19:19]] ↔ [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]]
 - [[Exodus 20]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Exodus 20#^ex-20-12|Exodus 20:12]]
 - [[Mosiah 13]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
 - [[Deuteronomy 16]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
+- [[Deuteronomy 18]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 18#^deut-18-9|Deuteronomy 18:9]]
+- [[Deuteronomy 30]] — 1 parallel verse, e.g. [[Deuteronomy 19#^deut-19-9|Deuteronomy 19:9]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
+- [[Deuteronomy 24]] — 1 parallel verse, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]]
+- [[Deuteronomy 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +74,7 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter connects covenant obedience with public responsibility. Love of God and walking in his ways accompany measures intended to prevent innocent bloodshed (vv. 8–10). As a study of [[Justice and Mercy]], the law protects a person described as unworthy of death without making refuge an immunity for deliberate murder. The witness provisions likewise reject judgment on a solitary accusation and punish malicious testimony according to its intended consequence. These are severe civic laws within an ancient covenantal setting, not a complete abstract theology or a modern system of individual rights.
+The chapter places love of God and walking in his ways beside concrete measures against innocent bloodshed (vv. 8–10). Its contribution to [[Justice and Mercy]] lies in a controlled distinction: the person described as unworthy of death receives reachable refuge, while a deliberate murderer cannot turn refuge into immunity. Likewise, the multiple-witness rule and diligent inquiry restrain accusation, while the penalty for malicious testimony imposes accountability. These laws illuminate [[Government and Laws]] and the [[Law of Moses]], but they should not be treated as a complete theology of punishment or as direct equivalents of modern legal institutions.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,12 +89,12 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The statement that the avenger's heart is “hot” and the warning that he may overtake the slayer “because the way is long” (v. 6) explain why access to refuge matters for a person the text calls unworthy of death. “At the mouth” of two or three witnesses (v. 15) refers to testimonial evidence: an isolated accusation cannot establish the matter. Neither expression supplies a complete account of the procedures used to determine guilt.
+The avenger's heart being “hot” and the danger that he might overtake the slayer “because the way is long” (v. 6) explain the practical importance of preparing a route to refuge. “At the mouth” of two or three witnesses (v. 15) concerns testimonial establishment of a matter. The word “established” does not mean that multiple witnesses are automatically truthful, since the following verses expressly require diligent inquiry into alleged false testimony.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The homicide law presents contrasting cases. Verses 4–6 describe absence of former hatred and an axe-head accident; verses 11–12 reverse those features with hatred, ambush, and a mortal attack. The contrast makes intention and prior disposition relevant without classifying every possible kind of homicide. The chapter repeatedly locates these laws in land given by the LORD (vv. 1–3, 8, 10, 14). Repetition of “Thine eye shall not pity” (vv. 13, 21) and removal language (vv. 13, 19) also connects punishment of murder with punishment of false testimony.
+The homicide section uses sharply opposed cases. The first has no former hatred and an axe head that slips accidentally (vv. 4–6); the second has hatred, lying in wait, and a mortal attack (v. 11). This contrast makes disposition and circumstances central without resolving every intermediate case. Repeated descriptions of the land as given by the LORD (vv. 1–3, 8, 10, 14) connect legal responsibility with inheritance. The proportional formula in verse 21 should first be read in its immediate setting: it concludes the procedure in which a false witness receives what was intended for the accused (vv. 16–21). That setting is significant but does not exhaust the formula's use elsewhere.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -105,6 +106,14 @@ The homicide law presents contrasting cases. Verses 4–6 describe absence of fo
 > [!evidence] Internal Textual And Legal Contrast
 > The contrast between the axe accident and the ambush provides strong internal textual evidence that this legal presentation treats intention and premeditation as relevant to culpability.
 > — strength 0.9 · confidence 1.0 · Strong internal textual evidence · [[Internal Textual And Legal Contrast in Deuteronomy 19|full dossier]]
+
+> [!evidence] Internal Legal Structure *(tentative)*
+> The paired homicide cases and the witness procedure provide strong internal evidence that the chapter calibrates sanctions according to culpability and verified accusation: it protects the person described as unworthy of death, removes the deliberate killer from refuge, rejects a solitary accusation, and investigates alleged false testimony.
+> — strength 0.4 · confidence 0.8 · near-circular restatement labeled as 'evidence' with inflated scores
+
+> [!evidence] Literary/Style *(tentative)*
+> The recurring phrase 'which the LORD thy God giveth thee' (vv.1,2,3,8,10,14) is a hallmark refrain of Deuteronomy's style; its presence likely accounts for much of the verified text-overlap between this chapter and other Deuteronomy chapters (e.g., 12, 13, 15, 26, 28), which may reflect shared formulaic phrasing rather than substantive thematic connection to this chapter's specific legal content.
+> — strength 0.4 · confidence 0.6 · stylistic observation sound, index-explanation conjectural
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -119,5 +128,5 @@ The homicide law presents contrasting cases. Verses 4–6 describe absence of fo
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare [[Deuteronomy 4]], [[Numbers 35]], and [[Joshua 20]] when studying the number, distribution, and operation of refuge cities; these passages should not be harmonized into a city total without examining their different settings. [[Exodus 21]] presents related distinctions between unintended and presumptuous killing and also supplies a broader proportional-penalty formula. Compare the landmark command with [[Deuteronomy 27]] and [[Proverbs 22]]. The later reuse of the two-or-three-witness formula can be studied in [[Matthew 18]], [[2 Corinthians 13]], [[1 Timothy 5]], and [[Hebrews 10]], while recognizing that several Pentateuchal passages contain closely related wording.
+Compare [[Numbers 35]] and [[Joshua 20]] for fuller descriptions of refuge-city procedure, and [[Deuteronomy 4]] for the three cities east of Jordan. These passages should be compared carefully rather than collapsed into a single undifferentiated account. [[Exodus 21]] supplies related distinctions between unintended and presumptuous killing. Compare the landmark command with [[Deuteronomy 27]] and [[Proverbs 22]]. For later uses of the two-or-three-witness formula, examine [[Matthew 18]], [[2 Corinthians 13]], [[1 Timothy 5]], and [[Hebrews 10]], attending to the distinct setting of each reuse.
 <!-- SG:END further-study -->
