@@ -89,6 +89,21 @@ export class SGNavigatorModal extends Modal {
   }
 
   onOpen(): void { this.render(); }
+
+  /** leave the way we arrived: a quick fade-down instead of a hard pop */
+  private closing = false;
+  close(): void {
+    if (this.closing
+      || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      super.close();
+      return;
+    }
+    this.closing = true;
+    this.modalEl.addClass("sg-nav-out");
+    this.modalEl.parentElement?.addClass("sg-nav-bg-out");
+    window.setTimeout(() => super.close(), 150);
+  }
+
   onClose(): void {
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     this.contentEl.empty();

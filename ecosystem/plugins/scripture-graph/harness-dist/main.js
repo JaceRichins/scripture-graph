@@ -9547,6 +9547,18 @@ ${body}
     onOpen() {
       this.render();
     }
+    /** leave the way we arrived: a quick fade-down instead of a hard pop */
+    closing = false;
+    close() {
+      if (this.closing || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        super.close();
+        return;
+      }
+      this.closing = true;
+      this.modalEl.addClass("sg-nav-out");
+      this.modalEl.parentElement?.addClass("sg-nav-bg-out");
+      window.setTimeout(() => super.close(), 150);
+    }
     onClose() {
       if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
       this.contentEl.empty();
