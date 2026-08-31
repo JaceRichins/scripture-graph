@@ -3280,6 +3280,34 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-10-6c9a7f87",
+   "t": "Reign of Jehu over Israel",
+   "y0": -841,
+   "y1": -814,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Twenty-eight-year reign given in 2 Kings 10:36; conventionally anchored by Jehu's tribute to Shalmaneser III depicted on the Black Obelisk, dated to the Assyrian king's 18th year (ca. 841 BC).",
+   "chapters": [
+    "2 Kings 10"
+   ],
+   "people": [
+    "Jehu",
+    "Ahab",
+    "Jehonadab",
+    "Hazael"
+   ],
+   "places": [
+    "Samaria",
+    "Jezreel"
+   ]
+  },
+  {
    "id": "r-2kgs-16-a72d8a5d",
    "t": "Reign of Ahaz king of Judah",
    "y0": -735,
@@ -3422,6 +3450,30 @@ timeline module, not this file._
    ],
    "places": [
     "Megiddo"
+   ]
+  },
+  {
+   "id": "r-3ne-9-65739377",
+   "t": "Voice of Christ in the darkness after the great destruction",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Placed by the Nephite record within the darkness following the crucifixion-related destruction, itself dated to the thirty-fourth year since the sign of Christ's birth (per the surrounding 3 Nephi narrative).",
+   "chapters": [
+    "3 Nephi 9"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Zarahemla"
    ]
   },
   {
