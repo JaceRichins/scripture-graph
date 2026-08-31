@@ -769,8 +769,10 @@ export default class SGPlugin extends Plugin {
       });
     };
     flip();
+    // fast page-turns can race the first attempts — keep trying briefly
     window.setTimeout(flip, 150);
     window.setTimeout(flip, 500);
+    window.setTimeout(flip, 1100);
   }
 
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS

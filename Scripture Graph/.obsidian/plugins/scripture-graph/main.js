@@ -10037,7 +10037,14 @@ function registerSwipeNav(plugin, s, openChapter) {
     }
     const t = evt.touches[0];
     const target = evt.target;
-    if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
+    const reading = !!target?.closest(".markdown-reading-view, .markdown-preview-view");
+    const sourcing = !reading && !!target?.closest(".markdown-source-view") && !document.activeElement?.closest(".cm-editor");
+    if (!reading && !sourcing) {
+      if (target?.closest(".workspace-leaf")) {
+        trace("swipe.skip", { why: "not-reading", el: target?.className?.slice?.(0, 40) ?? "?" });
+      }
+      return;
+    }
     if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) {
       trace("swipe.skip", { why: "ui-chrome" });
       return;
@@ -12850,6 +12857,7 @@ ${text.trim()}
     flip();
     window.setTimeout(flip, 150);
     window.setTimeout(flip, 500);
+    window.setTimeout(flip, 1100);
   }
   /** Scripture is a study surface, not an editor. Canonical files are ALWAYS
    * flipped back to reading view (even if the user hits the pencil toggle —

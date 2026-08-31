@@ -84,9 +84,19 @@ export function registerSwipeNav(
     }
     const t = evt.touches[0]!;
     const target = evt.target as HTMLElement | null;
-    // the gesture belongs to READING and nowhere else
-    if (!target?.closest(".markdown-reading-view, .markdown-preview-view")) return;
-    if (target.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) {
+    // the gesture belongs to a CHAPTER PAGE: reading view always; the
+    // editable view too, but only while the keyboard is down (a mode flip
+    // can race a fast navigation — the page must never go gesture-dead)
+    const reading = !!target?.closest(".markdown-reading-view, .markdown-preview-view");
+    const sourcing = !reading && !!target?.closest(".markdown-source-view")
+      && !document.activeElement?.closest(".cm-editor");
+    if (!reading && !sourcing) {
+      if (target?.closest(".workspace-leaf")) {
+        trace("swipe.skip", { why: "not-reading", el: target?.className?.slice?.(0, 40) ?? "?" });
+      }
+      return;
+    }
+    if (target!.closest(".sg-studybar, .modal, .menu, .sg-nav-fab, .sg-back-pill, .sg-tl")) {
       trace("swipe.skip", { why: "ui-chrome" });
       return;
     }
