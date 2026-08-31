@@ -39,7 +39,7 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[Moses (prophet)]] — 2 mentions
 - [[Aaron (brother of Moses)]] — 2 mentions
 - [[Samuel (prophet)]] — 1 mention
-- [[Jeremiah (prophet)]] — 1 mention
+- [[Jeremiah (prophet)]] — 0 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -63,18 +63,19 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[Numbers 4]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Numbers 4#^num-4-45|Numbers 4:45]]
 - [[1 Chronicles 29]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]]
 - [[2 Chronicles 20]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 20#^2chr-20-34|2 Chronicles 20:34]]
-- [[2 Chronicles 36]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]]
 - [[2 Chronicles 28]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Kings 23#^2kgs-23-21|2 Kings 23:21]]
+- [[Joshua 22]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
+- [[2 Chronicles 33]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Passover]]
 - [[Law of Moses]]
 - [[Records and Sacred Writings]]
-- [[Passover]] *(keyword match — unconfirmed)*
+- [[War and Peace]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -102,14 +103,18 @@ _Not yet developed._
 <!-- SG:BEGIN language -->
 The crucial wording in verse 22 goes beyond merely reporting Necho's claim: the narrator calls his message "the words of Necho from the mouth of God." That narrative endorsement is why Josiah's refusal carries theological weight within Chronicles.
 
-The instruction to place the ark in Solomon's house is unusually compressed. The accompanying statement that it will no longer burden the Levites' shoulders evokes their carrying responsibility, but the verse does not explain whether the ark had recently been moved, why it was displaced, or whether the instruction is principally ceremonial.
+The instruction to place the ark in Solomon's house is unusually compressed. The accompanying statement that it will no longer burden the Levites' shoulders evokes their carrying responsibility, but the verse does not explain whether the ark had recently been moved, why it was displaced, or whether Josiah is simply reaffirming its permanent location and the Levites' changed duties.
+
+Verse 13 also draws a precise cooking distinction: the passover victims are roasted with fire "according to the ordinance," while "the other holy offerings" are boiled ("sod") in pots, caldrons, and pans. This may reflect careful conformity to the Passover-specific prohibition against boiling given in the law of Moses (compare [[Exodus 12]]), though it could equally be a practical description of how large quantities of meat were cooked quickly; the text itself does not say which.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
 The repeated language of preparing, standing in assigned places, and acting according to written commands gives the Passover account a sense of order. That order heightens the disruption of the battle narrative. Josiah follows Moses, David, Solomon, and established sanctuary instructions in the first movement, yet does not heed words identified as coming from God in the second.
 
-The death scene also resembles Ahab's death in [[2 Chronicles 18]]: disguise, an arrow wound, a request to be removed, and death after battle. This may invite comparison between the kings, but similarity alone cannot prove deliberate literary imitation.
+Within fifteen verses the narrator appeals to written or commanded precedent five times: "the writing of David... and...the writing of Solomon" (v.4), "the word of the LORD by the hand of Moses" (v.6), "the book of Moses" (v.12), "the ordinance" (v.13), and "the commandment of David" (v.15). This density of appeal to precedent makes Josiah's later refusal to heed a word attributed to God especially pointed narratively — a king carefully obedient to inherited written authority becomes, within the same chapter, disobedient to a spoken word from an unexpected source. The text does not itself frame this as a deliberate structural device, so it is best read as a meaningful juxtaposition rather than an explicit authorial claim.
+
+The death scene also resembles Ahab's death in [[2 Chronicles 18]]: disguise, an arrow wound, a request to be removed, and death after battle. This may invite comparison between the kings, but similarity alone cannot prove deliberate literary imitation. Chronicles' account of Josiah's death is also notably more detailed than the parallel in 2 Kings 23:29-30, which does not mention a warning, a disguise, or Necho's words being attributed to God — a difference worth noting rather than harmonizing away.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -122,6 +127,10 @@ The death scene also resembles Ahab's death in [[2 Chronicles 18]]: disguise, an
 > Chronicles preserves both Josiah's goodness under the law and his fatal refusal to heed God's warning. This is evidence that the chapter's portrait is morally differentiated rather than an unqualified celebration of the king.
 > — strength 0.8 · confidence 1.0 · Strong narrative characterization · [[Narrative Characterization in 2 Chronicles 35|full dossier]]
 
+> [!evidence] Synoptic Comparison
+> The Chronicler's account of Josiah's death (disguise, Necho's warning explicitly framed as coming 'from the mouth of God,' archers wounding Josiah, transfer to a second chariot, and burial) is considerably more detailed and theologically framed than the parallel account in 2 Kings 23:29-30, which reports only that Necho 'slew him at Megiddo' without mentioning a warning, a disguise, or divine speech through Necho.
+> — strength 0.7 · confidence 0.8 · accepted observation / disputed cause · [[Synoptic Comparison in 2 Chronicles 35|full dossier]]
+
 > [!evidence] Internal Literary Pattern
 > Repeated appeals to written commands, established courses, the book of Moses, and earlier royal or cultic authorities strongly support the interpretation that the narrator intentionally frames this Passover as carefully ordered obedience.
 > — strength 0.9 · confidence 1.0 · Strong literary interpretation with disclosed alternatives · [[Internal Literary Pattern in 2 Chronicles 35|full dossier]]
@@ -129,11 +138,15 @@ The death scene also resembles Ahab's death in [[2 Chronicles 18]]: disguise, an
 > [!evidence] Comparative Literary Evidence
 > Compared with the shorter account in 2 Kings, Chronicles supplies Necho's warning, identifies it as coming from God, describes Josiah's disguise and wounding, and records the national lament. These additions strongly support the conclusion that Chronicles offers a distinctive theological and literary presentation of Josiah's death.
 > — strength 0.9 · confidence 1.0 · Comparative differences accepted; source origin disputed · [[Comparative Literary Evidence in 2 Chronicles 35|full dossier]]
+
+> [!evidence] Ancient Near Eastern Historiography *(tentative)*
+> Necho II's campaign toward Carchemish on the Euphrates in support of the collapsing Assyrian state, opposed by Josiah at Megiddo, corresponds to events of 609 BC recorded in extra-biblical Babylonian chronicle material describing Egyptian military movement to aid Assyria against Babylon in that period, giving the narrative's geopolitical setting independent historical plausibility.
+> — strength 0.3 · confidence 0.5 · plausible but uncited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- In what respects was this Passover unlike those since Samuel: scale, conformity, participation, leadership, organization, or some combination?
+- In what respects was this Passover unlike those since Samuel: scale, conformity, participation, leadership, organization, or some combination? (The Chronicler used a similarly superlative formula for Hezekiah's Passover in [[2 Chronicles 30]] — unmatched "since the time of Solomon" — so the two claims may partly reflect a recurring rhetorical pattern rather than strictly comparable historical rankings, though each specifies a different point of comparison.)
 
 - Why does Josiah oppose Necho when Necho says his campaign is directed elsewhere?
 
@@ -141,14 +154,14 @@ The death scene also resembles Ahab's death in [[2 Chronicles 18]]: disguise, an
 
 - Does the command concerning the ark imply an otherwise unrecorded displacement, or could it reaffirm the ark's permanent location and the Levites' changed duties?
 
-- What were the written "lamentations" mentioned in verse 25, and what relationship, if any, did they have to later canonical writings?
+- What were the written "lamentations" mentioned in verse 25, and what relationship, if any, did they have to later canonical writings? Canonical Lamentations concerns the fall of Jerusalem rather than a king's death, which weighs against identifying the two, but the text does not settle the question.
 
 - How should Josiah's fatal refusal be held together with the closing affirmation of his goodness?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the Passover with [[Exodus 12]], [[Numbers 9]], [[Deuteronomy 16]], and [[2 Chronicles 30]], attending to timing, location, preparation, participation, and ritual procedure. These correspondences do not by themselves establish dependence on a particular textual edition.
+Compare the Passover with [[Exodus 12]], [[Numbers 9]], [[Deuteronomy 16]], and [[2 Chronicles 30]], attending to timing, location, preparation, participation, and ritual procedure. These correspondences do not by themselves establish dependence on a particular textual edition. Note especially that the roast/boil distinction in verse 13 tracks the Passover-specific cooking rule associated with [[Exodus 12]], though this could reflect either careful legal awareness or simply conventional practice.
 
 Compare the death account with [[2 Kings 23]]. Distinguish the shared core from details present only in one surviving account, and do not treat the overlap as independent corroboration without considering literary dependence. Read [[2 Chronicles 34]] for the reform and covenant context. The resemblance between Josiah's death and Ahab's in [[2 Chronicles 18]] is also worth examining, while keeping recurring battle motifs distinct from proof of deliberate literary imitation.
 <!-- SG:END further-study -->
