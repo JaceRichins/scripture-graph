@@ -4432,6 +4432,56 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-24-fa89682f",
+   "t": "Babylonian siege of Jerusalem begins (Ezekiel's dated oracle)",
+   "y0": -588,
+   "y1": -588,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Ezekiel 24:1-2 dates the oracle to the ninth year, tenth month, tenth day of Ezekiel's exile; the same date for the siege's start is echoed in 2 Kings 25:1 and Jeremiah 52:4, allowing correlation with standard Babylonian regnal chronology.",
+   "chapters": [
+    "Ezekiel 24"
+   ],
+   "people": [
+    "Ezekiel",
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Siege of Jerusalem"
+   ]
+  },
+  {
+   "id": "r-ezek-25-c8d085cf",
+   "t": "Ezekiel's oracles against Ammon, Moab, Edom, Philistia",
+   "y0": -587,
+   "y1": -570,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel 25 itself carries no date formula, but the surrounding oracles-against-nations material (e.g., Ezekiel 26:1; 29:1; 32:1) is dated across roughly 587-571 BCE, suggesting a comparable window for this chapter's undated oracles, delivered in the context of Jerusalem's fall.",
+   "chapters": [
+    "Ezekiel 25"
+   ],
+   "places": [
+    "Ammon",
+    "Moab"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,

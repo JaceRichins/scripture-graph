@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **852 BC–841 BC** — Jehoram of Israel's reign and Moab's rebellion · [[2 Kings 3]] · [[900-801 BC]] *(approximate)*
+- **587 BC–570 BC** — Ezekiel's oracles against Ammon, Moab, Edom, Philistia · [[Ezekiel 25]] · [[600-501 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
