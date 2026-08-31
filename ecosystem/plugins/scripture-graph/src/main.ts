@@ -11,7 +11,7 @@ import { SGNavigatorModal } from "./study/navigator";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
-import { registerSwipeNav } from "./study/swipeNav";
+import { readingChapterTitle, registerSwipeNav } from "./study/swipeNav";
 import { TIMELINE_VIEW, TimelineView } from "./study/timelineView";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
@@ -620,6 +620,15 @@ export default class SGPlugin extends Plugin {
       || f.path.startsWith(ANNOTATED_PREFIX)
       || (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes"));
     view.containerEl.toggleClass("sg-clean-header", scripture);
+    // Obsidian's own mobile swipe recognizer bails on any ancestor carrying
+    // data-ignore-swipe (its sliders, canvas, and table handles use the same
+    // gate). Chapter reading pages claim it, so the drawers stay quiet there
+    // and OUR page-turn owns the gesture — everywhere else keeps stock
+    // Obsidian swipes untouched.
+    const ours = Platform.isMobile && this.state.device.swipeNav !== false
+      && scripture && !!chapterIdFromTitle(readingChapterTitle(f) ?? "");
+    if (ours) view.contentEl.dataset.ignoreSwipe = "true";
+    else delete view.contentEl.dataset.ignoreSwipe;
   }
 
   /** After following a link away from a chapter, one labeled tap returns. */

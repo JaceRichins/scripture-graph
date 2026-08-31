@@ -33,7 +33,7 @@ export function adjacentChapterTitle(title: string, dir: 1 | -1): string | null 
   return dir === 1 ? `${nb.prefix} 1` : `${nb.prefix} ${nb.chapters}`;
 }
 
-function readingChapterTitle(f: TFile | null): string | null {
+export function readingChapterTitle(f: TFile | null): string | null {
   if (!f) return null;
   if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
     return f.basename.slice(0, -" - My Notes".length);

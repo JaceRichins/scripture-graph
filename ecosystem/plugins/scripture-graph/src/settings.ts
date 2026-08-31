@@ -101,10 +101,18 @@ export class SGSettingsTab extends PluginSettingTab {
 
     new Setting(el).setName("Swipe to turn the chapter")
       .setDesc("On the phone, a firm left/right swipe on a reading page moves "
-        + "one chapter. Turn off if it fights your scrolling.")
+        + "one chapter (Obsidian's sidebar swipes step aside there). "
+        + "Turn off to give reading pages back to the sidebars.")
       .addToggle(t => t.setValue(s.device.swipeNav !== false)
         .onChange(async v => {
           s.device.swipeNav = v;
+          // hand open reading pages back (or claim them) immediately
+          if (!v) {
+            for (const leaf of s.app.workspace.getLeavesOfType("markdown")) {
+              const ce = (leaf.view as { contentEl?: HTMLElement }).contentEl;
+              if (ce) delete ce.dataset.ignoreSwipe;
+            }
+          }
           await s.saveDevice();
         }));
 

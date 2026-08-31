@@ -11946,8 +11946,14 @@ var SGSettingsTab = class extends import_obsidian17.PluginSettingTab {
       document.body.toggleClass("sg-hide-ai-lib", !v);
       await s.saveDevice();
     }));
-    new import_obsidian17.Setting(el).setName("Swipe to turn the chapter").setDesc("On the phone, a firm left/right swipe on a reading page moves one chapter. Turn off if it fights your scrolling.").addToggle((t) => t.setValue(s.device.swipeNav !== false).onChange(async (v) => {
+    new import_obsidian17.Setting(el).setName("Swipe to turn the chapter").setDesc("On the phone, a firm left/right swipe on a reading page moves one chapter (Obsidian's sidebar swipes step aside there). Turn off to give reading pages back to the sidebars.").addToggle((t) => t.setValue(s.device.swipeNav !== false).onChange(async (v) => {
       s.device.swipeNav = v;
+      if (!v) {
+        for (const leaf of s.app.workspace.getLeavesOfType("markdown")) {
+          const ce = leaf.view.contentEl;
+          if (ce) delete ce.dataset.ignoreSwipe;
+        }
+      }
       await s.saveDevice();
     }));
     new import_obsidian17.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
@@ -12736,6 +12742,9 @@ var SGPlugin = class extends import_obsidian19.Plugin {
     if (!view || view.file?.path !== f.path) return;
     const scripture = f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX) || f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes");
     view.containerEl.toggleClass("sg-clean-header", scripture);
+    const ours = import_obsidian19.Platform.isMobile && this.state.device.swipeNav !== false && scripture && !!chapterIdFromTitle(readingChapterTitle(f) ?? "");
+    if (ours) view.contentEl.dataset.ignoreSwipe = "true";
+    else delete view.contentEl.dataset.ignoreSwipe;
   }
   /** After following a link away from a chapter, one labeled tap returns. */
   updateBackPill(f) {
