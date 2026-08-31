@@ -17,20 +17,20 @@ Scripture: [[2 Samuel 7]] · My notes: [[2 Samuel 7 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-David contrasts his cedar residence with the ark's curtains, implying an intention to provide a permanent sanctuary. The divine response redirects attention toward what God has done and promises to do: David's unnamed descendant will build the sanctuary, while God will establish David's dynastic “house.” David responds through [[Prayer]], appealing to God's spoken promise rather than to personal entitlement.
+David contrasts his cedar residence with the ark's curtains, implying a desire to provide a permanent sanctuary. The divine response redirects attention from David's proposed gift to God's prior actions and future promises: David will not be the temple builder described in the oracle; his seed will build the house for God's name, while God will establish David's dynastic “house.” David answers with [[Humility]] and [[Prayer]], appealing to God's word rather than personal entitlement.
 
-Later canonical texts distinguish related horizons. [[1 Chronicles 22]] and [[1 Kings 8]] identify Solomon with the immediate temple-building son, while [[Luke 1]] applies Davidic throne and everlasting-kingdom language to Jesus. These later applications should not be treated as proof that every clause originally referred exclusively to either Solomon or Jesus.
+Later canonical texts distinguish related horizons. [[1 Chronicles 22]] and [[1 Kings 8]] identify Solomon with the immediate temple-building son, while [[Luke 1]] applies Davidic throne and everlasting-kingdom language to Jesus. These later applications should not be collapsed into the claim that every clause originally and exclusively described either Solomon or Jesus.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Setting and implied proposal (vv. 1-3):** David has rest, contrasts his cedar house with the ark's curtains, and receives Nathan's initial approval.
-2. **The word of the LORD to Nathan (vv. 4-7):** God questions the assumption that David should build the house and recalls his mobile presence with Israel.
-3. **Past divine action and future promise (vv. 8-16):** God recounts David's elevation, promises greater security for Israel, and announces a temple-building descendant and enduring dynasty. The royal son may be chastened for iniquity, but mercy will not depart as it did from Saul.
+1. **Rest and implied proposal (vv. 1-3):** David contrasts his cedar house with the ark's curtains, and Nathan initially approves.
+2. **Revelation to Nathan (vv. 4-7):** God questions David's role and recalls his mobile presence with Israel.
+3. **Divine acts and promises (vv. 8-16):** God recounts David's elevation, promises security for Israel, and announces a temple-building descendant and enduring dynasty. The son may be disciplined for iniquity, but mercy will not depart as it did from Saul.
 4. **Transmission (v. 17):** Nathan reports the vision to David.
-5. **David's prayer (vv. 18-29):** David responds with humility, praise, recollection of Israel's redemption, and petition for the promised house.
+5. **David's prayer (vv. 18-29):** David responds with humility, praise, recollection of the exodus, and petition for fulfillment.
 
-Verse 11 contains the principal verbal reversal: David intends a house for God, but the LORD promises to make David a house.
+Verse 11 contains the principal verbal reversal: David contemplates a house associated with God, but the LORD promises to make David a house.
 <!-- SG:END structure -->
 
 ## People
@@ -54,10 +54,11 @@ Verse 11 contains the principal verbal reversal: David intends a house for God, 
 - [[Judges 2]] — 1 footnote cross-reference (from [[2 Samuel 7#^2sam-7-11|2 Samuel 7:11]])
 - [[1 Chronicles 17]] — 20 parallel verses, e.g. [[2 Samuel 7#^2sam-7-22|2 Samuel 7:22]] ↔ [[1 Chronicles 17#^1chr-17-20|1 Chronicles 17:20]]
 - [[1 Chronicles 22]] — 2 parallel verses, e.g. [[2 Samuel 7#^2sam-7-13|2 Samuel 7:13]] ↔ [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]]
-- [[Exodus 3]] — 2 parallel verses, e.g. [[2 Samuel 7#^2sam-7-6|2 Samuel 7:6]] ↔ [[Exodus 3#^ex-3-10|Exodus 3:10]]
 - [[1 Chronicles 17]] — 0 parallel verses
 - [[1 Chronicles 22]] — 0 parallel verses
 - [[Luke 1]] — 0 parallel verses
+- [[1 Kings 8]] — 0 parallel verses
+- [[1 Kings 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,9 +73,9 @@ Verse 11 contains the principal verbal reversal: David intends a house for God, 
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter connects divine promise, kingship, [[Temples]], discipline, and mercy. Describing the promise as a [[Covenants|covenant]] is a theological classification; the chapter itself does not use that term. The royal son's father-son relationship with God includes accountability: iniquity may bring chastening, yet mercy is distinguished from its removal from Saul.
+The chapter joins divine promise, kingship, [[Temples]], discipline, and [[Justice and Mercy]]. Calling the promise a [[Covenants|covenant]] is a reasonable canonical and theological classification, but the chapter itself does not use the term “covenant.” Royal father-son language does not remove accountability: iniquity may bring chastening, even while mercy is distinguished from its removal from Saul.
 
-David's response models [[Humility]] and promise-grounded [[Prayer]]. The revealed promise does not make prayer unnecessary; it gives David confidence to ask God to do what he has spoken. The recollection of Egypt also places David's family within the wider history of [[Exodus and Deliverance]].
+David's response models [[Humility]] and promise-grounded [[Prayer]]. Revelation of the promise does not eliminate petition; it gives David grounds to ask God to do what he has spoken. David's appeal to the redemption from Egypt also situates his family within the broader history of [[Exodus and Deliverance]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -89,16 +90,16 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The central literary feature is the shifting sense of **house**. David lives in a house and implies a desire for a house for the ark; God announces that he will make David a house; David's descendant will build a house for God's name; and David's prayer repeatedly uses “house” for his dynasty. The word therefore moves among palace, sanctuary, and royal family.
+The governing wordplay is **house**. It denotes David's palace, a proposed dwelling associated with God, the dynasty God promises David, and the sanctuary David's descendant will build. David's prayer then repeatedly uses the word for his family line.
 
-A secondary **name** motif connects the great name God gives David, the house built for God's name, and David's request that God's name be magnified. The recurrence is clear, although any claim that it establishes a deliberate hierarchy between Davidic honor and divine honor remains interpretive.
+A secondary **name** motif connects the great name God gives David, the house built for God's name, and David's request that God's name be magnified. The recurrence is clear; claims about a precise hierarchy or formal pattern among these occurrences remain interpretive.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The oracle accumulates statements of divine action: God took David from the sheepcote, accompanied him, cut off his enemies, made his name great, and promised to establish his descendant and kingdom. This shifts narrative priority from David's intended gift toward God's past acts and future promises.
+The oracle accumulates first-person divine actions: God took David from the sheepcote, accompanied him, cut off his enemies, made his name great, and promised to establish his descendant and kingdom. The accumulation shifts narrative priority from David's intended service to God's initiative.
 
-David's prayer answers the oracle by repeating its language of servant, house, name, establishment, God's word, and permanence. This creates a strong correspondence between promise and response, whether produced in the initial composition or through later editorial shaping. The house pattern is evidence of final-form artistry, but it does not establish the chapter's date, single authorship, historical accuracy, or supernatural origin. [[1 Chronicles 17]] is the closest canonical parallel.
+David's prayer answers the oracle through repeated language of servant, house, name, establishment, God's word, and permanence. This correspondence is strong evidence of final-form artistry, whether it originated in one composition or through later editorial shaping. It does not establish date, single authorship, historical accuracy, or supernatural origin. [[1 Chronicles 17]] is the closest canonical parallel.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -114,22 +115,28 @@ David's prayer answers the oracle by repeating its language of servant, house, n
 > [!evidence] Literary Pattern
 > The sustained movement from David's proposed house for God to God's promised house for David, followed by repeated use of the latter sense in David's prayer, strongly supports deliberate literary organization around the double meaning of “house.”
 > — strength 0.8 · confidence 1.0 · Broadly accepted final-form literary pattern · [[Literary Pattern in 2 Samuel 7|full dossier]]
+
+> [!evidence] Literary Pattern
+> The coordinated repetition of house, servant, name, word, establishment, and permanence across the oracle and David's prayer is strong evidence that the chapter's final form has deliberate rhetorical organization.
+> — strength 0.8 · confidence 0.9 · evidence properly scoped with alternatives and explicit non-conclusions
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
 - Nathan's initial approval is not introduced as an oracle. What distinction does the narrative draw between sincere judgment and subsequent [[Revelation]]?
 
-- Does the question in verse 5 reject a sanctuary, reject David as builder, or principally assert God's freedom from human provision?
+- Does the question in verse 5 reject a sanctuary, reject David as its builder, or primarily assert God's freedom from human provision?
+
+- Verse 1 describes rest already given, while verses 10-11 still promise security and rest. Does this reflect partial fulfillment, rhetorical idealization, or different temporal horizons?
 
 - How should “for ever” be understood alongside royal iniquity, chastening, the later disruption of the monarchy, and subsequent messianic readings?
 
 - How does the possibility of the son's iniquity constrain interpretations that make every clause an exclusive direct description of Jesus?
-
-- Why does David place the promise concerning his own house alongside Israel's redemption from Egypt?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare [[1 Chronicles 17]] with this chapter to identify how the parallel account preserves or reshapes the oracle and prayer. Then examine [[1 Chronicles 22]] and [[1 Kings 8]] for the canonical identification of Solomon as temple builder. [[Psalm 89]] explores the tension among royal sonship, chastening, preserved mercy, and an enduring throne. Finally, compare [[Luke 1]] to distinguish its application of Davidic throne and kingdom language to Jesus from the immediate historical horizon of 2 Samuel 7.
+Compare [[1 Chronicles 17]] with this chapter to see how the parallel account preserves or reshapes the oracle and prayer. Then examine [[1 Chronicles 22]] and [[1 Kings 8]] for the canonical identification of Solomon as temple builder. [[Psalm 89]] develops the tension among royal sonship, chastening, preserved mercy, and an enduring throne. Finally, compare [[Luke 1]] to distinguish its application of Davidic throne and kingdom language to Jesus from the immediate royal horizon of 2 Samuel 7.
+
+A smaller but mechanically verified echo links David's prayer to [[Exodus 3]]: both invoke God's coming down to redeem his people from Egypt, connecting the Davidic promise to the earlier exodus narrative.
 <!-- SG:END further-study -->
