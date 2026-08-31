@@ -52,6 +52,7 @@ _Not yet developed._
 - **AD 1829** — Priesthood restored by John the Baptist · [[D&C 13]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
+- **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
 - **AD 1832–AD 1833** — D&C 88 ('Olive Leaf') received at Kirtland, Ohio · [[D&C 88]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 - **AD 1838–AD 1839** — Winter in Liberty Jail · [[D&C 121]] · [[D&C 122]] · [[D&C 123]] · [[AD 1801-1900]] *(historical)*

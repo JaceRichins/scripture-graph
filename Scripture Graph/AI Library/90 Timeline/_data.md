@@ -3351,6 +3351,28 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-20-2dbce0ce",
+   "t": "Organization of the Church of Christ, April 6, 1830",
+   "y0": 1830,
+   "y1": 1830,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "D&C 20:1 gives the explicit date: fourth month, sixth day, \"one thousand eight hundred and thirty years\" since Christ's coming.",
+   "chapters": [
+    "D&C 20"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Oliver Cowdery"
+   ]
+  },
+  {
    "id": "r-dc-88-33b66a50",
    "t": "D&C 88 ('Olive Leaf') received at Kirtland, Ohio",
    "y0": 1832,
