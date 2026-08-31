@@ -4324,6 +4324,91 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-16-5fbce4b1",
+   "t": "Ezekiel's oracles against Jerusalem before its fall",
+   "y0": -593,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel 16 has no internal date formula, but belongs within the body of oracles the book elsewhere dates (e.g., Ezekiel 1:2; 8:1) to the years between Ezekiel's call (c. 593 BC) and Jerusalem's fall (586 BC).",
+   "chapters": [
+    "Ezekiel 16"
+   ],
+   "people": [
+    "Ezekiel"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-ezek-17-a3f7df2e",
+   "t": "Jehoiachin deported and Zedekiah installed",
+   "y0": -597,
+   "y1": -597,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The political background corresponds to Nebuchadnezzar's 597 BCE removal of Jehoiachin and installation of Mattaniah, renamed Zedekiah, as vassal king.",
+   "chapters": [
+    "Ezekiel 17"
+   ],
+   "people": [
+    "Nebuchadnezzar II",
+    "Jehoiachin",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "Vassal covenant"
+   ]
+  },
+  {
+   "id": "r-ezek-17-cc5c55e8",
+   "t": "Zedekiah rebels and Jerusalem is defeated",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Zedekiah's appeal to Egypt and rebellion led to Babylon's final siege and Jerusalem's fall; proposed chronologies sometimes date the fall one year earlier.",
+   "chapters": [
+    "Ezekiel 17"
+   ],
+   "people": [
+    "Zedekiah",
+    "Nebuchadnezzar II",
+    "Pharaoh Hophra"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "Egyptian alliance",
+    "Babylonian siege"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,

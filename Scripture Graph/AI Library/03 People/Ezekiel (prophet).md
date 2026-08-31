@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **593 BC–570 BC** — Ezekiel among the exiles · [[Ezekiel 1]] · [[Ezekiel 37]] · [[600-501 BC]] *(historical)*
+- **593 BC–586 BC** — Ezekiel's oracles against Jerusalem before its fall · [[Ezekiel 16]] · [[600-501 BC]] *(approximate)*
 - **593 BC–571 BC** — Ezekiel's exilic ministry and vision of the dry bones · [[Ezekiel 37]] · [[600-501 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
