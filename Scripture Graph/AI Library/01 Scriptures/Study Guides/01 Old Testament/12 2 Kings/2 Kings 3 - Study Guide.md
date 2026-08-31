@@ -17,18 +17,18 @@ Scripture: [[2 Kings 3]] · My notes: [[2 Kings 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-2 Kings 3 moves from Jehoram's qualified religious evaluation and Moab's revolt to a three-king campaign, a water crisis, prophetic intervention, battlefield success, and an unsettling withdrawal. Jehoram removes Ahab's Baal image but remains associated with Jeroboam's sins. Jehoshaphat seeks the LORD yet again joins Israel's royal house, while Elisha supplies an oracle without endorsing Jehoram.
+2 Kings 3 moves from Jehoram's qualified religious evaluation and Moab's revolt to a three-king campaign, a water crisis, prophetic intervention, battlefield success, and an unsettling withdrawal. Jehoram removes Ahab's Baal image but remains committed to Jeroboam's sins. Jehoshaphat seeks the LORD, while Elisha supplies an oracle without endorsing Jehoram.
 
-Water arrives as predicted, Moab mistakes its appearance for blood, and the coalition devastates the country. Yet Mesha is not captured and permanent Israelite control is not reported. The chapter ends with the sacrifice of Moab's heir, unexplained indignation against Israel, and the coalition's departure. The account therefore narrates substantial victory without presenting an uncomplicated or final conquest.
+Water arrives as predicted, and Moab's misreading of it as blood turns relief for the coalition into a battlefield advantage. The coalition then devastates Moab, but the account does not report Mesha's capture or restored tribute. The sacrifice of Mesha's heir, unexplained indignation against Israel, and the coalition's departure prevent the episode from ending as an uncomplicated conquest.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
 1. **Royal evaluation and cause of war (vv. 1–5):** Jehoram's limited reform, continuing sin, Moabite tribute, and Mesha's rebellion.
-2. **Alliance and crisis (vv. 6–12):** Israel, Judah, and Edom take the Edomite route and run out of water; Jehoshaphat seeks a prophet.
-3. **Prophetic encounter and oracle (vv. 13–19):** Elisha rebukes Jehoram, acknowledges Jehoshaphat, requests music, and foretells water, victory, and devastation.
-4. **Water and battlefield reversal (vv. 20–24):** Water arrives; Moab mistakes it for blood and advances expecting spoil, only to be defeated.
-5. **Devastation and unresolved withdrawal (vv. 25–27):** The oracle's destructive details recur, Kir-haraseth remains contested, Mesha sacrifices his heir, and the coalition withdraws.
+2. **Alliance and water crisis (vv. 6–12):** Israel, Judah, and Edom take the Edomite route; Jehoshaphat requests a prophet.
+3. **Prophetic encounter and oracle (vv. 13–19):** Elisha rebukes Jehoram, regards Jehoshaphat, requests music, and foretells water, victory, and devastation.
+4. **Water and battlefield reversal (vv. 20–24):** Water arrives; Moab mistakes its appearance for blood and advances expecting spoil.
+5. **Devastation and unresolved withdrawal (vv. 25–27):** The oracle's destructive details recur, Kir-haraseth remains under attack, Mesha sacrifices his heir, and the coalition departs.
 <!-- SG:END structure -->
 
 ## People
@@ -59,25 +59,25 @@ Water arrives as predicted, Moab mistakes its appearance for blood, and the coal
 - [[1 Kings 18]] — 1 parallel verse, e.g. [[2 Kings 3#^2kgs-3-14|2 Kings 3:14]] ↔ [[1 Kings 18#^1kgs-18-15|1 Kings 18:15]]
 - [[Numbers 14]] — 1 parallel verse, e.g. [[2 Kings 3#^2kgs-3-22|2 Kings 3:22]] ↔ [[Numbers 14#^num-14-40|Numbers 14:40]]
 - [[1 Kings 22]] — 0 parallel verses
-- [[1 Samuel 10]] — 0 parallel verses
+- [[2 Chronicles 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
 - [[War and Peace]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter portrays [[Prophets]] and [[Revelation]] as independent of royal control. Elisha openly rejects Jehoram's religious associations and agrees to address the party because he regards Jehoshaphat (2 Kings 3:13–14). This episode-level benefit should not be turned into a universal rule or an endorsement of every coalition decision.
+The chapter portrays [[Prophets]] and [[Revelation]] as independent of royal control. Elisha rebukes Jehoram's religious associations and says he attends to the kings because he regards Jehoshaphat (2 Kings 3:13–14). This explains Elisha's conduct in this specific episode; it should not be generalized into a universal rule about how prophets relate to unrighteous rulers, especially since Jehoram still benefits from the resulting oracle.
 
-The water episode belongs naturally with [[Miracles]], but the physical mechanism is not given. The army would see neither wind nor rain, and water later came by way of Edom. An ordinary hydrological channel and a theological claim about prophetic knowledge, timing, and providence are not logically exclusive; internal narrative fulfillment alone does not establish supernatural causation historically.
+The water episode belongs naturally with [[Miracles]], but the text does not identify a physical mechanism. The army would see neither wind nor rain, while water later came by way of Edom. Rainfall or runoff outside the army's view and the narrative's theological claim about prediction, timing, and providence are not mutually exclusive; the account's internal fulfillment pattern alone cannot establish supernatural causation historically.
 
-The ending concerns human [[Sacrifice]], but the text neither approves the act nor names its recipient. It also does not explain the resulting indignation. The campaign's destruction deserves serious consideration under [[War and Peace]] and should not be generalized into religious authorization for ecological or civilian devastation.
+Mesha's act concerns human [[Sacrifice]], but the text neither approves it nor identifies its recipient, and does not explain the resulting "great indignation." The campaign's destruction also deserves serious consideration under [[War and Peace]] and should not be generalized into religious authorization for ecological or civilian devastation.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,20 +92,20 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-“The hand of the LORD came upon him” in verse 15 is an idiom associated here with Elisha's prophetic activity. Music immediately precedes the oracle, but the verse gives no theory of the music's function and does not describe it as a mechanical cause of revelation.
+“The hand of the LORD came upon him” in verse 15 is an idiom for Elisha's prophetic experience. Music immediately precedes the oracle, but the verse supplies no theory of whether the minstrel provided emotional preparation, conventional accompaniment, or some other function.
 
-The KJV's “meat offering” in verse 20 uses older English in which “meat” can mean food. Leviticus 2 illustrates grain offerings made from such materials as flour and oil. In 2 Kings 3 the expression functions as a time marker; the chapter does not identify where or by whom that offering was made.
+The KJV's “meat offering” in verse 20 uses older English in which “meat” may mean food; the underlying offering is commonly understood as a grain or food offering. Here it functions chiefly as a time marker. The chapter does not say where, by whom, or on whose behalf the offering was made.
 
-“Great indignation against Israel” in verse 27 identifies Israel as the object but leaves the subject and precise nature of the indignation unstated. Divine wrath or intense Moabite reaction may fit the language more directly than some other proposals, but the verse does not name the LORD, Chemosh, or a human agent. No interpretation should be presented as explicit wording.
+“Great indignation against Israel” in verse 27 identifies Israel as the object but leaves the subject and nature of the indignation unstated. The verse does not explicitly name the LORD, Chemosh, the Moabite army, or any other agent.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The narrative repeatedly reverses perception and expectation. Jehoram interprets the water shortage as evidence that the LORD intends defeat; Elisha announces water and victory. Water that preserves the coalition looks like blood to Moab. The Moabites advance expecting spoil and instead encounter an attack.
+The narrative repeatedly reverses perception and expectation. Jehoram reads the water shortage as impending divine defeat; Elisha predicts water and victory. Water that preserves the coalition looks like blood to Moab. The Moabites advance expecting spoil and instead meet an Israelite attack.
 
-The account also pairs oracle and outcome: water, military defeat, ruined cities, stoned fields, stopped wells, and felled trees appear in the prophetic speech and then recur in the battle report. This strongly establishes the narrator's fulfillment pattern, though it does not independently prove the oracle's historicity or supernatural origin.
+Oracle and outcome are closely paired: water, military defeat, ruined cities, stoned land, stopped wells, and felled trees appear first in Elisha's speech (v.19) and then in the battle report (v.25). This is a real correspondence, though prophecy-fulfillment pairing of this kind is a common device in the Deuteronomistic history rather than a uniquely tight or surprising pattern here; it establishes a literary fulfillment structure, not historical or supernatural causation.
 
-Jehoshaphat's pledge also closely echoes his words in [[1 Kings 22]], potentially recalling his earlier alliance with Ahab, although conventional diplomatic language remains a viable explanation. Finally, extensive victory gives way to sacrifice, indignation, and withdrawal, preventing the episode from functioning as a simple report of permanent conquest.
+Jehoshaphat's pledge in verse 7 closely recalls his words in [[1 Kings 22]]. This may recall his earlier alliance with Ahab and characterize a recurring willingness to join Israel's kings, though it may also reflect a conventional diplomatic formula of the period; the wording alone cannot decide between these. Finally, extensive military success gives way to sacrifice, unexplained indignation, and withdrawal — including a difficult clause about Kir-haraseth (v.25b) whose translation is itself disputed — leaving the campaign's political outcome unresolved rather than presenting a simple conquest.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -118,28 +118,36 @@ Jehoshaphat's pledge also closely echoes his words in [[1 Kings 22]], potentiall
 > The close correspondence between Elisha's oracle and the ensuing water, victory, and devastation is strong internal evidence that the narrator intends these events to be read as fulfillment of the prophetic word.
 > — strength 1.0 · confidence 1.0 · Strong internal literary evidence · [[Internal Narrative Correspondence in 2 Kings 3|full dossier]]
 
+> [!evidence] Literary Correspondence
+> The repeated correspondence between the oracle and the outcome strongly supports a deliberate oracle-fulfillment pattern within the received narrative: water arrives, Moab is defeated, and the reported devastation repeats the announced treatment of cities, land, wells, and trees.
+> — strength 0.6 · confidence 0.8 · expected genre device, not unique · [[Literary Correspondence in 2 Kings 3|full dossier]]
+
+> [!evidence] Archaeological/Epigraphic
+> The Mesha Stele (Moabite Stone), a ninth-century BCE inscription commissioned by King Mesha of Moab, independently attests Mesha's historical existence and describes conflict and territorial recovery from the dynasty of Omri (Ahab's father), providing external corroboration for the general geopolitical setting of 2 Kings 3.
+> — strength 0.7 · confidence 0.9 · real inscription, scope well-limited · [[Archaeological/Epigraphic in 2 Kings 3|full dossier]]
+
+> [!evidence] External Inscription
+> The Mesha Stele independently attests a ninth-century BCE Moabite ruler named Mesha and describes Moabite conflict with Omri's Israelite dynasty and Moabite recovery. This supports the broad personal and geopolitical setting of 2 Kings 3 more strongly than it supports identification of any specific episode in the chapter.
+> — strength 0.7 · confidence 0.9 · real source, scope well-limited · [[External Inscription in 2 Kings 3|full dossier]]
+
 > [!evidence] Epigraphic And Historical Context
 > The ninth-century BCE Mesha Stele independently names Mesha as king of Moab and describes Israelite domination under Omri's dynasty followed by Moabite recovery. It strongly supports the chapter's broad geopolitical setting and the historical existence of a Moabite ruler named Mesha, but it does not clearly attest this particular expedition or its reported wonders and ending.
 > — strength 0.8 · confidence 1.0 · Broad historical context accepted; campaign identity disputed · [[Epigraphic And Historical Context in 2 Kings 3|full dossier]]
-
-> [!evidence] Literary Structure
-> The narrative closely matches Elisha's oracle with subsequent events: water arrives without locally observed wind or rain, Moab is delivered into the coalition's hand, and the cities, fields, wells, and trees are devastated. This is strong evidence of deliberate prophecy-fulfillment composition. The text does not explicitly narrate whether the commanded ditches were dug.
-> — strength 0.9 · confidence 1.0 · Strong internal literary evidence · [[Literary Structure in 2 Kings 3|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Why does Jehoshaphat repeat the alliance language used in [[1 Kings 22]]? Is it a literary callback, recurring characterization, or conventional diplomatic speech?
-- What function did the minstrel serve—emotional preparation, ritual or conventional accompaniment, or something the text does not permit us to specify?
-- Does the oracle promise battlefield victory and devastation, permanent political submission, or some combination of these?
-- How should the felling of “good trees” be assessed alongside [[Deuteronomy 20]], which protects food-producing trees during siege? Does the available wording establish that the same category of tree is involved?
-- What is the source and nature of the “great indignation” in verse 27? Which readings best fit the language, and which require additional assumptions?
-- Could distant rainfall or runoff in Edom explain the water even though the army observed neither wind nor rain? What would such a mechanism explain, and what questions about prediction and timing would remain?
+- Why does Jehoshaphat repeat the alliance language used in [[1 Kings 22]]: literary callback, recurring characterization, diplomatic formula, or some combination?
+- What function did the minstrel serve, and where does the text cease to support an answer?
+- Does Elisha's promise concern battlefield victory and devastation only, or does it imply permanent political submission?
+- How should the felling of “good trees” be assessed alongside [[Deuteronomy 20]], which specifically protects food-producing trees during siege?
+- Who or what is the source of the “great indignation” in verse 27?
+- Could rainfall or runoff elsewhere in Edom explain the water while preserving the statement that the army saw neither wind nor rain? What would that explain, and what questions about prediction and timing would remain?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare Moab's rebellion notice in [[2 Kings 1]], Jehoshaphat's earlier pledge in [[1 Kings 22]] and [[2 Chronicles 18]], and Elisha's call and ministry in [[1 Kings 19]]. For the association between music and prophecy, compare [[1 Samuel 10]] and [[1 Chronicles 25]]. For the treatment of trees in siege, examine [[Deuteronomy 20]], carefully distinguishing its food-tree category from 2 Kings' less specific phrase “good trees.”
+Compare the rebellion notice in [[2 Kings 1]], Jehoshaphat's earlier pledge in [[1 Kings 22]] and [[2 Chronicles 18]], and Elisha's call in [[1 Kings 19]]. For music and prophecy, compare [[1 Samuel 10]] and [[1 Chronicles 25]]. For siege trees, examine [[Deuteronomy 20]], preserving its distinction between food-producing and other trees.
 
-The Mesha Stele is the most important external historical comparison. This ninth-century BCE Moabite royal inscription names Mesha and describes conflict with Omri's dynasty and Moabite recovery. It independently supports the ruler's existence and the broad geopolitical setting. Because its precise relationship to 2 Kings 3 remains debated, it should not be cited as independent confirmation of this particular expedition, Elisha's oracle, the water event, the sacrifice, or supernatural causation.
+The Mesha Stele is the principal external historical comparison. It independently supports Mesha's existence and the broad setting of conflict between Moab and Omri's dynasty. Its relationship to this chapter remains disputed, so it should not be treated as independent confirmation of this particular expedition, the oracle, the water event, the sacrifice, or the meaning of the final indignation.
 <!-- SG:END further-study -->
