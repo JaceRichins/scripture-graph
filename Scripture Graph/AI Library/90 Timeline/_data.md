@@ -3055,6 +3055,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-20-699caba3",
+   "t": "Jehoshaphat's reign and the En-gedi deliverance",
+   "y0": -870,
+   "y1": -848,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Derived from the regnal note in 2 Chronicles 20:31 (25-year reign, began at age 35) combined with conventional synchronistic chronology of the divided monarchy; absolute dates are disputed among chronologers and should be treated as approximate.",
+   "chapters": [
+    "2 Chronicles 20"
+   ],
+   "people": [
+    "Jehoshaphat",
+    "Jahaziel",
+    "Ahaziah"
+   ],
+   "places": [
+    "Judah",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2chr-24-84602d63",
    "t": "Reign of Joash of Judah and temple repair",
    "y0": -835,
@@ -3219,6 +3246,53 @@ timeline module, not this file._
    "places": [
     "Jerusalem",
     "Babylon"
+   ]
+  },
+  {
+   "id": "r-2kgs-16-a72d8a5d",
+   "t": "Reign of Ahaz king of Judah",
+   "y0": -735,
+   "y1": -715,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Reconstructed from regnal synchronisms with Pekah of Israel (2 Kings 16:1) and cross-checked against Assyrian tribute records; dates vary by roughly a decade across scholarly reconstructions due to possible co-regencies.",
+   "chapters": [
+    "2 Kings 16"
+   ],
+   "people": [
+    "Ahaz"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2kgs-16-c66db195",
+   "t": "Assyrian conquest of Damascus and death of Rezin",
+   "y0": -732,
+   "y1": -732,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated from Tiglath-pileser III's Assyrian royal annals recording the fall of Damascus, a date widely treated as secure and used to corroborate 2 Kings 16:9.",
+   "chapters": [
+    "2 Kings 16"
+   ],
+   "people": [
+    "Tiglath-pileser king of Assyria",
+    "Rezin"
+   ],
+   "places": [
+    "Damascus"
    ]
   },
   {

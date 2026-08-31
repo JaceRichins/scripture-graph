@@ -10032,70 +10032,55 @@ function horizontalScrollerAt(el) {
   }
   return null;
 }
-var pushActive = false;
-function turnWithPush(s, dir, next, openChapter) {
-  const src = document.querySelector(".workspace-leaf.mod-active .view-content");
-  if (pushActive || !(src instanceof HTMLElement)) {
+var turning = false;
+function turnWordsFade(s, dir, next, openChapter) {
+  if (turning) {
     openChapter(next);
     return;
   }
-  pushActive = true;
-  const rect = src.getBoundingClientRect();
-  const holder = document.body.createDiv({ cls: "sg-push-clone" });
-  holder.style.left = `${rect.left}px`;
-  holder.style.top = `${rect.top}px`;
-  holder.style.width = `${rect.width}px`;
-  holder.style.height = `${rect.height}px`;
-  const clone = src.cloneNode(true);
-  clone.style.width = "100%";
-  clone.style.height = "100%";
-  holder.appendChild(clone);
-  const livePv = src.querySelector(".markdown-preview-view");
-  const clonePv = clone.querySelector(".markdown-preview-view");
-  if (livePv instanceof HTMLElement && clonePv instanceof HTMLElement) {
-    clonePv.scrollTop = livePv.scrollTop;
-  }
+  turning = true;
+  const b = document.body;
   const still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  if (!still) holder.addClass(dir === 1 ? "sg-push-ack-next" : "sg-push-ack-prev");
-  const inCls = dir === 1 ? "sg-push-in-next" : "sg-push-in-prev";
-  const outCls = dir === 1 ? "sg-push-out-next" : "sg-push-out-prev";
-  const t0 = Date.now();
-  let finished = false;
-  const done = () => {
-    if (finished) return;
-    finished = true;
-    pushActive = false;
-    if (still) {
-      holder.remove();
-      return;
-    }
-    holder.addClass(outCls);
-    document.body.addClass(inCls);
-    window.setTimeout(() => {
-      holder.remove();
-      document.body.removeClass(inCls);
-    }, 340);
-  };
-  openChapter(next);
-  const ready = () => {
-    if (readingChapterTitle(s.app.workspace.getActiveFile()) !== next) return false;
-    const pv = document.querySelector(
-      ".workspace-leaf.mod-active .markdown-preview-view"
-    );
-    return pv instanceof HTMLElement && pv.clientHeight > 0;
-  };
-  const tick = () => {
-    if (ready()) {
-      window.requestAnimationFrame(done);
-      return;
-    }
-    if (Date.now() - t0 > 800) {
-      done();
-      return;
-    }
+  const outCls = dir === 1 ? "sg-words-out-next" : "sg-words-out-prev";
+  const go = () => {
+    b.removeClass(outCls);
+    b.addClass("sg-words-hidden");
+    openChapter(next);
+    const t0 = Date.now();
+    const finish = () => {
+      b.removeClass("sg-words-hidden");
+      if (!still) {
+        b.addClass("sg-words-in");
+        window.setTimeout(() => b.removeClass("sg-words-in"), 420);
+      }
+      turning = false;
+    };
+    const ready = () => {
+      if (readingChapterTitle(s.app.workspace.getActiveFile()) !== next) return false;
+      const pv = document.querySelector(
+        ".workspace-leaf.mod-active .markdown-preview-view"
+      );
+      return pv instanceof HTMLElement && pv.clientHeight > 0;
+    };
+    const tick = () => {
+      if (ready()) {
+        window.requestAnimationFrame(finish);
+        return;
+      }
+      if (Date.now() - t0 > 900) {
+        finish();
+        return;
+      }
+      window.requestAnimationFrame(tick);
+    };
     window.requestAnimationFrame(tick);
   };
-  window.requestAnimationFrame(tick);
+  if (still) {
+    go();
+    return;
+  }
+  b.addClass(outCls);
+  window.setTimeout(go, 210);
 }
 function registerSwipeNav(plugin, s, openChapter) {
   if (!import_obsidian5.Platform.isMobile) return;
@@ -10169,7 +10154,7 @@ function registerSwipeNav(plugin, s, openChapter) {
     } catch {
     }
     trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
-    turnWithPush(s, dir, next, openChapter);
+    turnWordsFade(s, dir, next, openChapter);
   }, { passive: true });
   plugin.registerDomEvent(
     document,

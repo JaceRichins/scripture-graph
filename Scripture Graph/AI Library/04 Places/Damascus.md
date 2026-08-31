@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **732 BC** — Assyrian conquest of Damascus and death of Rezin · [[2 Kings 16]] · [[800-701 BC]] *(historical)*
 - **AD 35** — Saul on the Damascus road · [[Acts 9]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

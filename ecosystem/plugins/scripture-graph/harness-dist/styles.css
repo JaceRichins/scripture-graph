@@ -1355,48 +1355,34 @@ body.sg-scene-on .sg-chap-conn {
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
-/* 👉 the page PUSH: a pixel-perfect clone of the old page stands over the
- * workspace while the next chapter loads beneath it — there is always a
- * real page on screen — then the old page slides away, dimming under the
- * incoming page's shadow, as the new one pushes in at full width.
- * iOS-navigation easing throughout. */
-.sg-push-clone {
-  position: fixed; overflow: hidden; z-index: 45; pointer-events: none;
-  background: var(--background-primary);
-  will-change: transform;
+/* 👉 the turn, as designed on the phone: the WORDS slide off the page and
+ * only the theme remains; the scene changes or stays; the new chapter's
+ * words fade in over it. The loading mess happens while the words are
+ * hidden — the reader only ever sees the backdrop breathing. */
+@media (prefers-reduced-motion: no-preference) {
+  body.sg-words-out-next .workspace-leaf.mod-active .view-content {
+    animation: sg-words-out-n 0.21s cubic-bezier(0.45, 0.05, 0.85, 0.5) forwards;
+  }
+  body.sg-words-out-prev .workspace-leaf.mod-active .view-content {
+    animation: sg-words-out-p 0.21s cubic-bezier(0.45, 0.05, 0.85, 0.5) forwards;
+  }
+  body.sg-words-in .workspace-leaf.mod-active .view-content {
+    animation: sg-words-in 0.38s cubic-bezier(0.22, 0.8, 0.36, 1);
+  }
 }
-.sg-push-ack-next { transition: transform 0.14s ease-out; transform: translateX(-14px); }
-.sg-push-ack-prev { transition: transform 0.14s ease-out; transform: translateX(14px); }
-/* the old page (the clone, always on top) slides fully off-screen, its
- * shadow sweeping across the new page settling underneath — reveal
- * choreography, immune to any stacking context the scenes create */
-.sg-push-out-next {
-  animation: sg-push-out-n 0.3s cubic-bezier(0.32, 0.72, 0, 1) forwards;
-  box-shadow: 26px 0 44px rgba(0, 0, 0, 0.45);
+@keyframes sg-words-out-n {
+  to { transform: translateX(-44%); opacity: 0; }
 }
-.sg-push-out-prev {
-  animation: sg-push-out-p 0.3s cubic-bezier(0.32, 0.72, 0, 1) forwards;
-  box-shadow: -26px 0 44px rgba(0, 0, 0, 0.45);
+@keyframes sg-words-out-p {
+  to { transform: translateX(44%); opacity: 0; }
 }
-@keyframes sg-push-out-n {
-  to { transform: translateX(-104%); }
+@keyframes sg-words-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
 }
-@keyframes sg-push-out-p {
-  to { transform: translateX(104%); }
-}
-body.sg-push-in-next .workspace-leaf.mod-active .view-content {
-  animation: sg-push-in-n 0.3s cubic-bezier(0.32, 0.72, 0, 1);
-}
-body.sg-push-in-prev .workspace-leaf.mod-active .view-content {
-  animation: sg-push-in-p 0.3s cubic-bezier(0.32, 0.72, 0, 1);
-}
-@keyframes sg-push-in-n {
-  from { transform: translateX(8%); }
-  to { transform: translateX(0); }
-}
-@keyframes sg-push-in-p {
-  from { transform: translateX(-8%); }
-  to { transform: translateX(0); }
+/* while the destination loads, its words stay unseen — theme only */
+body.sg-words-hidden .workspace-leaf.mod-active .view-content {
+  opacity: 0 !important;
 }
 
 /* ---------- 👁 verse peek: the reference comes to the reader ------------- */
