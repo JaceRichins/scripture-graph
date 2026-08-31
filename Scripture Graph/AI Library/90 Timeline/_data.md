@@ -4248,6 +4248,55 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-deut-19-7aa06e4c",
+   "t": "Moses delivers the Deuteronomic law on the plains of Moab",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places Moses' concluding addresses, including the refuge-city and witness laws, shortly before Israel's entry into Canaan; source-critical scholarship instead associates much of Deuteronomy's core with Josiah's 7th-century BCE reform.",
+   "chapters": [
+    "Deuteronomy 19"
+   ],
+   "people": [
+    "Moses"
+   ],
+   "places": [
+    "Plains of Moab"
+   ]
+  },
+  {
+   "id": "r-deut-27-cbd04032",
+   "t": "Command to renew the covenant at Gerizim and Ebal",
+   "y0": -1406,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology (based on 1 Kings 6:1) places Israel's entry into Canaan, and this anticipatory covenant-renewal command, near 1406 BC; the date is disputed among scholars who favor a later Exodus/conquest chronology.",
+   "chapters": [
+    "Deuteronomy 27"
+   ],
+   "people": [
+    "Moses"
+   ],
+   "places": [
+    "Mount Ebal",
+    "Mount Gerizim"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,
