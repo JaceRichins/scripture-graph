@@ -17,7 +17,7 @@ Scripture: [[1 Kings 11]] · My notes: [[1 Kings 11 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-The chapter presents Solomon's covenant disloyalty as the beginning of his kingdom's fragmentation. His heart turns toward other gods, and that departure becomes publicly visible through foreign worship and constructed high places. The divine judgment then takes political form through adversaries and Ahijah's prophecy of division. Yet the judgment is qualified: it is delayed until Solomon's son's reign, and a Davidic remnant is preserved in Jerusalem. The chapter closes Solomon's reign while preparing for the rupture narrated in [[1 Kings 12]].
+The chapter interprets Solomon's covenant disloyalty as the theological beginning of his kingdom's fragmentation. His divided heart becomes visible in worship of other gods and royal support for their high places. Judgment then takes political form through Hadad, Rezon, and Jeroboam. Yet it is limited: the division is delayed until Solomon's son's reign, and a Davidic remnant is preserved in Jerusalem. The conclusion closes Solomon's reign while preparing for the rupture in [[1 Kings 12]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -26,11 +26,11 @@ The chapter presents Solomon's covenant disloyalty as the beginning of his kingd
 
 2. **The covenant sentence (vv. 11–13):** Most of the kingdom will be torn away, though not during Solomon's life and not in its entirety.
 
-3. **Adversaries (vv. 14–28):** Hadad and Rezon represent external pressures, while Jeroboam emerges from Solomon's administration.
+3. **Adversaries (vv. 14–28):** Hadad and Rezon represent external pressures rooted in earlier conflicts under David, while Jeroboam emerges from Solomon's own administration.
 
-4. **Ahijah's sign and promise (vv. 29–40):** The torn garment interprets the coming division; Jeroboam receives rule and a conditional promise of an enduring house.
+4. **Ahijah's sign and promise (vv. 29–39):** The torn garment interprets the coming division; Jeroboam receives rule and a conditional promise of an enduring house.
 
-5. **Close of the reign (vv. 41–43):** Source notice, reign length, death, burial, and succession.
+5. **Solomon's response and the reign's close (vv. 40–43):** Solomon seeks to kill Jeroboam, who flees to Egypt; the chapter then closes with a source notice, reign length, death, burial, and succession.
 <!-- SG:END structure -->
 
 ## People
@@ -58,11 +58,9 @@ The chapter presents Solomon's covenant disloyalty as the beginning of his kingd
 - [[1 Kings 14]] — 2 footnote cross-references (from [[1 Kings 11#^1kgs-11-29|1 Kings 11:29]])
 - [[Jacob 2]] — 1 footnote cross-reference (from [[1 Kings 11#^1kgs-11-1|1 Kings 11:1]])
 - [[D&C 132]] — 1 footnote cross-reference (from [[1 Kings 11#^1kgs-11-1|1 Kings 11:1]])
-- [[1 Kings 15]] — 6 parallel verses, e.g. [[1 Kings 11#^1kgs-11-4|1 Kings 11:4]] ↔ [[1 Kings 15#^1kgs-15-3|1 Kings 15:3]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Kings 15#^2kgs-15-38|2 Kings 15:38]]
 - [[1 Kings 16]] — 6 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[2 Chronicles 9]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Chronicles 9#^2chr-9-31|2 Chronicles 9:31]]
-- [[2 Kings 21]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
 - [[2 Kings 14]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[2 Chronicles 12]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
@@ -70,23 +68,30 @@ The chapter presents Solomon's covenant disloyalty as the beginning of his kingd
 - [[1 Kings 14]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 10]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]]
 - [[2 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
+- [[2 Kings 23]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-7|1 Kings 11:7]] ↔ [[2 Kings 23#^2kgs-23-13|2 Kings 23:13]]
+- [[Jeremiah 34]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-31|1 Kings 11:31]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Government and Laws]]
 - [[1 Kings 14]]
 - [[Covenants]]
 - [[Prophecy]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[1 Kings 12]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter presents [[Covenants]] and [[Obedience]] as consequential even for privileged rulers. Solomon's two divine appearances do not remove his accountability. Judgment is severe but limited for David's and Jerusalem's sake: most of the kingdom is removed, while a Davidic remnant remains. Jeroboam's rule is granted, but divine presence and a "sure house" are conditioned on obedience.
+The chapter presents [[Covenants]] and [[Obedience]] as consequential even for a ruler who received exceptional wisdom and revelation. Solomon's two divine appearances do not exempt him from accountability. Judgment is severe, but David and Jerusalem remain grounds for restraint: most of the kingdom is removed, while a Davidic remnant is preserved.
 
-The theological interpretation does not erase human causes. Hadad's history, Rezon's military following, and Jeroboam's administrative position remain concrete political mechanisms within the narrative.
+Jeroboam's selection is not unconditional approval — divine presence and a "sure house" are offered only if he walks in God's ways (v. 38), echoing the language used to describe David's own qualifying obedience. His later conduct in [[1 Kings 12]] and evaluation in [[1 Kings 14]] should be read against that condition.
+
+The passage also preserves human agency alongside theological causation. Hadad, Rezon, and Jeroboam each have comprehensible political histories and motives — Hadad's flight from David's campaign, Rezon's military following, Jeroboam's administrative rise over "the house of Joseph" (vv. 26–28) — even while the narrator describes Hadad and Rezon as adversaries God "stirred up" (vv. 14, 23). Providence and ordinary political causation are narrated side by side, not as competing explanations.
+
+Solomon's failure can also be read against the king's law of [[Deuteronomy 17]], which forbids a king from multiplying wives "that his heart turn not away" — language 1 Kings 11:3–4 closely echoes, though the chapter itself does not cite Deuteronomy directly.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -101,14 +106,16 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Repeated **heart** language identifies the center of Solomon's loyalty (vv. 2–4, 9). His heart is turned and is no longer "perfect" with the LORD; in context, "perfect" concerns wholehearted or undivided loyalty rather than abstract flawlessness. Repeated **rend** language connects the divine sentence with Ahijah's physical sign (vv. 11–13, 30–31). **Adversary** links Hadad and Rezon within the account of political decline (vv. 14, 23, 25). In the KJV context, "strange women" means women from the foreign nations listed in verses 1–2.
+Repeated **heart** language identifies the center of Solomon's loyalty (vv. 2–4, 9). His heart is turned and is no longer "perfect" with the LORD; in context, "perfect" concerns wholehearted or undivided loyalty rather than abstract flawlessness. Repeated **rend** language connects the divine sentence with Ahijah's physical sign (vv. 11–13, 30–31). **Adversary** links Hadad and Rezon within the account of political decline (vv. 14, 23, 25). In the KJV context, "strange women" means women from the foreign nations listed in verses 1–2; the narrative's stated concern is their association with other gods, and the phrase should not be read as a general condemnation of interethnic marriage as such.
+
+A smaller textual detail: the Ammonite deity is called "Milcom" in verses 5 ("the abomination of the Ammonites") and 33 ("the god of the children of Ammon") but "Molech" in verse 7 ("the abomination of the children of Ammon"). Whether this reflects one god under two renderings or two distinct figures is not settled by the text itself and remains a matter of scholarly discussion.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Ahijah's torn garment makes the announced political division visible. The action closely parallels the torn garment and lost kingdom in [[1 Samuel 15]], although resemblance alone does not prove deliberate allusion. David functions as a selective covenantal standard, not as a claim that every act of his life was flawless.
+Ahijah's torn garment makes the announced political division visible; the same idea of "tearing" links Solomon's turned heart to the kingdom's coming rupture, though this correspondence is interpretive rather than a formal equation the narrator states outright. The action closely parallels the torn robe and lost kingdom in [[1 Samuel 15]] (see also 1 Samuel 15:28), although resemblance alone does not prove deliberate allusion. David functions as a selective covenantal standard, not as a claim that every act of his life was flawless.
 
-Egypt is also a suggestive recurring motif: Pharaoh's daughter appears near the opening, while Hadad and Jeroboam receive refuge there. This may create literary irony, but ordinary regional politics could also explain the repetition. The twelve pieces, ten assigned tribes, and one retained tribe leave one piece unaccounted for within this chapter; proposed harmonizations go beyond its explicit wording.
+Egypt is also a suggestive, modest recurring motif: Pharaoh's daughter appears near the opening (v. 1), Hadad is raised in Pharaoh's household with his son Genubath reared "among the sons of Pharaoh" (v. 20), and Jeroboam later flees there to Shishak (v. 40) — though Rezon's opposition has no Egyptian connection. This may suggest literary irony, but ordinary regional politics — Egypt as a plausible refuge for displaced elites in this period — offers an equally natural explanation, so the evidence for deliberate framing remains modest. The twelve pieces, ten assigned tribes, and one retained tribe leave one piece unaccounted for within this chapter; proposed harmonizations go beyond its explicit wording.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -121,6 +128,10 @@ Egypt is also a suggestive recurring motif: Pharaoh's daughter appears near the 
 > The convergence of multiplied wives, foreign marriages, a turned heart, other gods, and covenant sanctions is strong evidence that the chapter presents Solomon's reign through Deuteronomic covenant categories.
 > — strength 0.9 · confidence 1.0 · Strong final-form reading; compositional details disputed · [[Literary And Covenantal Correspondence in 1 Kings 11|full dossier]]
 
+> [!evidence] Textual Intertext
+> The combination of multiplied wives, a turned heart, foreign gods, and covenant disobedience closely parallels the warnings in Deuteronomy concerning royal wives and marriages that lead Israel toward other gods. This is substantial evidence of a literary or traditional relationship, but it does not determine the relationship's direction or date.
+> — strength 0.8 · confidence 0.9 · genuine parallel, direction undetermined · [[Textual Intertext in 1 Kings 11|full dossier]]
+
 > [!evidence] Narrative Prophecy-Fulfillment Pattern
 > The correspondence between Ahijah's symbolic prophecy and the division narrated in 1 Kings 12 provides strong evidence for purposeful prophecy-fulfillment structure within Kings.
 > — strength 0.9 · confidence 1.0 · Final-form structure secure; historical inference disputed · [[Narrative Prophecy-Fulfillment Pattern in 1 Kings 11|full dossier]]
@@ -128,6 +139,10 @@ Egypt is also a suggestive recurring motif: Pharaoh's daughter appears near the 
 > [!evidence] Literary Structure And Symbolic Action
 > The coordinated repetition of 'rend,' the twelve-piece garment, and the assignment of ten pieces provides strong evidence that Ahijah's action is an enacted prophecy designed to interpret the coming political division.
 > — strength 1.0 · confidence 1.0 · Function explicit; historicity remains separate · [[Literary Structure And Symbolic Action in 1 Kings 11|full dossier]]
+
+> [!evidence] Literary Motif *(tentative)*
+> Egypt frames several relationships important to Solomon's decline: Pharaoh's daughter appears among his wives, Pharaoh shelters Hadad, and Shishak shelters Jeroboam. The recurrence can support a reading of literary irony, but the evidence for deliberate framing is modest because Egypt was also an obvious regional refuge and diplomatic power.
+> — strength 0.4 · confidence 0.8 · honestly self-limited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -137,5 +152,5 @@ Why does the narrator repeatedly describe Solomon's failure as a matter of the *
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the marriage warning in [[Deuteronomy 7]] and the law governing kings in [[Deuteronomy 17]]. Read the preservation of David's line and the promise of a "sure house" alongside [[2 Samuel 7]], and compare Ahijah's garment with [[1 Samuel 15]]. The two appearances mentioned in verse 9 point back to [[1 Kings 3]] and [[1 Kings 9]]. Then follow the division and Jeroboam's response through [[1 Kings 12]] and [[1 Kings 14]]. These parallels illuminate the received narrative without, by themselves, settling authorship, date, historical priority, or supernatural foreknowledge.
+Compare the marriage warning in [[Deuteronomy 7]] and the law governing kings in [[Deuteronomy 17]], which explicitly forbids a king multiplying wives "that his heart turn not away" — language this chapter's own wording (vv. 3-4) seems to enact directly. Read the preservation of David's line and the promise of a "sure house" alongside [[2 Samuel 7]], and compare Ahijah's garment with [[1 Samuel 15]]. The two appearances mentioned in verse 9 point back to [[1 Kings 3]] and [[1 Kings 9]]. Then follow the division and Jeroboam's response through [[1 Kings 12]] and [[1 Kings 14]]. Nehemiah 13:26 later cites Solomon's marriages from this chapter directly, showing how later biblical writers received and reused this account as settled cautionary history — itself a datum about the text's reception rather than independent historical corroboration. These parallels illuminate the received narrative without, by themselves, settling authorship, date, historical priority, or supernatural foreknowledge.
 <!-- SG:END further-study -->
