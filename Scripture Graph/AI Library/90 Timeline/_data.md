@@ -4111,6 +4111,68 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-34-96a95142",
+   "t": "Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated by regnal synchronisms in Jeremiah and 2 Kings to the final years of Zedekiah's reign, ending with the fall of Jerusalem; corroborated externally by the Lachish ostraca describing the same siege.",
+   "chapters": [
+    "Jeremiah 34"
+   ],
+   "people": [
+    "Zedekiah",
+    "Nebuchadnezzar",
+    "Jeremiah (prophet)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "Lachish Letters"
+   ]
+  },
+  {
+   "id": "r-jer-35-e5d2448c",
+   "t": "Jeremiah tests the Rechabites during Jehoiakim's reign",
+   "y0": -609,
+   "y1": -598,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Jeremiah 35:1 places the word in the days of Jehoiakim; the conventional bounds of his reign do not provide a precise date for the scene.",
+   "chapters": [
+    "Jeremiah 35"
+   ],
+   "people": [
+    "Jeremiah",
+    "Jehoiakim",
+    "Nebuchadrezzar",
+    "Rechabites"
+   ],
+   "places": [
+    "Judah",
+    "Jerusalem"
+   ],
+   "things": [
+    "wine",
+    "house of the Lord"
+   ]
+  },
+  {
    "id": "r-jer-44-98f8ea39",
    "t": "Overthrow of Pharaoh Hophra (Apries) by Amasis",
    "y0": -570,

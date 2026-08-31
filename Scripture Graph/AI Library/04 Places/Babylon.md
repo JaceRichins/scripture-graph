@@ -45,11 +45,11 @@ _Not yet developed._
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
 - **593 BC–570 BC** — Ezekiel among the exiles · [[Ezekiel 1]] · [[Ezekiel 37]] · [[600-501 BC]] *(historical)*
+- **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 - **539 BC** — Fall of Babylon to Cyrus the Persian · [[Jeremiah 50]] · [[600-501 BC]] *(historical)*
-- **539 BC** — Fall of Babylon to Cyrus's Medo-Persian forces · [[Jeremiah 51]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
