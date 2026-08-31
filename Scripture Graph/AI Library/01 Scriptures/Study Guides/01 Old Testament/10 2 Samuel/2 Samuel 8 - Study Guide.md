@@ -17,7 +17,7 @@ Scripture: [[2 Samuel 8]] · My notes: [[2 Samuel 8 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-The chapter portrays David's kingdom in two dimensions. Verses 1–14 survey foreign conquest, lethal violence, occupation, tribute, captured wealth, and diplomacy; verses 15–18 turn to domestic justice and royal administration. The repeated statement that the Lord preserved David (2 Samuel 8:6, 14) supplies an explicit theological frame and echoes the promise in [[2 Samuel 7]]. That attribution of preservation should not be enlarged into a claim that every reported act—especially the treatment of Moab in verse 2—was individually commanded or morally approved by God.
+The chapter portrays David's kingdom in two dimensions. Verses 1–14 survey foreign conquest, lethal violence, occupation, tribute, captured wealth, and diplomacy; verses 15–18 turn to domestic justice and royal administration. The repeated statement that the Lord preserved David (2 Samuel 8:6, 14) supplies the narrator's explicit theological frame and plausibly recalls the promise in [[2 Samuel 7]]. That attribution should not be enlarged into a claim that every reported act—especially the treatment of Moab in verse 2—was individually commanded or morally approved by God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -30,7 +30,7 @@ The chapter portrays David's kingdom in two dimensions. Verses 1–14 survey for
 
 4. **Domestic justice and royal officers** (2 Samuel 8:15–18)
 
-The preservation formula in verses 6 and 14 repeatedly closes major portions of the campaign survey. The final paragraph shifts attention from foreign dominance to government within Israel. Verse 13 names Syrians in the supplied text, while verse 14 concerns Edom; this difficulty should not be concealed.
+The preservation formula closes the Damascus report and recurs after the Edom report. The final paragraph shifts attention from dominance over surrounding peoples to government within Israel. Verse 13 names Syrians in the supplied text, while verse 14 concerns Edom; the resulting difficulty should remain visible.
 <!-- SG:END structure -->
 
 ## People
@@ -62,13 +62,13 @@ The preservation formula in verses 6 and 14 repeatedly closes major portions of 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Government and Laws]]
 - [[War and Peace]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter attributes David's preservation to the Lord while also depicting David acting as commander and ruler. This establishes the narrator's theological attribution of success, not divine approval of every tactic. David's dedication of valuables relates to [[Consecration]], though the text does not disclose all his motives or the wealth's later use. Verse 15 connects royal authority with judgment and justice and therefore contributes to [[Government and Laws]]. Responsible study of [[Justice and Mercy]] must also retain the severe treatment of Moab, for which this chapter supplies no explicit divine command or moral explanation.
+The chapter attributes David's preservation to the Lord while depicting David as an active commander and ruler. This establishes the narrator's theological interpretation of David's success, but it does not explicitly evaluate every tactic. The dedication of valuables contributes to [[Consecration]], while the text leaves David's motives and the valuables' later use unstated. Verse 15 connects royal government with judgment and justice, contributing to [[Government and Laws]]. Study under [[Justice and Mercy]] must also retain the unresolved severity of the Moab report.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -83,12 +83,14 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The sentence “And the LORD preserved David whithersoever he went” occurs verbatim in 2 Samuel 8:6 and 8:14, functioning as a repeated theological refrain. In the settings of Moab and Damascus, “gifts” accompany subjection and are best read as tribute. “Houghing” the chariot horses in verse 4 means disabling them. This reduced the usable captured chariot force, although the text does not explain David's motive.
+“And the LORD preserved David whithersoever he went” occurs verbatim in verses 6 and 14 and functions as a refrain. In the reports about Moab and Damascus, “gifts” accompany servitude and indicate tribute rather than disinterested generosity. “Houghing” the chariot horses means disabling them. David nevertheless retained horses for one hundred chariots, so the action was a major reduction rather than complete rejection of chariot power.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The narrative strongly echoes the oracle in [[2 Samuel 7]]. The Lord had promised to be with David wherever he went, cut off his enemies, and make him a great name (2 Samuel 7:9); chapter 8 twice says that the Lord preserved David wherever he went and reports that David gained a name (2 Samuel 8:6, 13–14). These correspondences support deliberate literary framing. They do not independently establish exact campaign chronology, divine causation, the accuracy of casualty totals, or whether the framing originated with the first narrator or a later compiler.
+The wording of [[2 Samuel 8]] plausibly recalls [[2 Samuel 7]]. The earlier oracle associates the Lord's presence with defeated enemies and a great name; chapter 8 twice reports the Lord's preservation and says David gained a name. Together these correspondences suggest that the campaigns are presented as realization of the oracle. Conventional royal-success language or editorial shaping could also account for some of the overlap. The correspondence does not independently establish campaign chronology, divine approval of every action, the accuracy of casualty totals, or a particular compositional history.
+
+The final move from campaigns to justice and officers presents military reach and ordered administration as paired dimensions of kingship. This chapter alone cannot determine whether the roster records one precise moment or summarizes offices across a broader period.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -96,6 +98,10 @@ The narrative strongly echoes the oracle in [[2 Samuel 7]]. The Lord had promise
 > [!evidence] Internal Literary Repetition
 > The identical statement that the LORD preserved David appears after the Damascus and Edom accounts. This repetition strongly supports the literary conclusion that the narrator frames David's success as involving divine preservation.
 > — strength 1.0 · confidence 1.0 · broadly accepted literary conclusion · [[Internal Literary Repetition in 2 Samuel 8|full dossier]]
+
+> [!evidence] Parallel-Text Variation
+> The closely parallel account in 1 Chronicles 18 differs at significant details: 2 Samuel reports seven hundred horsemen where Chronicles reports seven thousand, and the Valley of Salt reports differ in enemy identification and attribution. These variants are strong evidence that the surviving parallel forms should be compared critically rather than treated as identical or as independent corroboration.
+> — strength 0.8 · confidence 1.0 · Variants verified; historical explanation disputed · [[Parallel-Text Variation in 2 Samuel 8|full dossier]]
 
 > [!evidence] Explicit Narrative Statement
 > David dedicated to the LORD the valuables brought by Joram together with silver and gold obtained from subdued peoples. This is strong textual evidence that the narrative presents at least part of the wealth of conquest as religiously dedicated rather than merely retained as David's personal property.
@@ -108,22 +114,32 @@ The narrative strongly echoes the oracle in [[2 Samuel 7]]. The Lord had promise
 > [!evidence] Canonical Parallel And Textual Variation
 > The received parallel accounts are not numerically or narratively identical: 2 Samuel 8:4 reports seven hundred horsemen while 1 Chronicles 18:4 reports seven thousand, and 2 Samuel 8:13 associates eighteen thousand Syrians with the Valley of Salt while 1 Chronicles 18:12 attributes the killing of eighteen thousand Edomites to Abishai. These differences are significant evidence of complexity in the textual transmission or source presentation.
 > — strength 0.9 · confidence 1.0 · mechanically verified canonical variation · [[Canonical Parallel And Textual Variation in 2 Samuel 8|full dossier]]
+
+> [!evidence] Literary Correspondence *(tentative)*
+> The combination of the preservation refrain and the report that David gained a name closely corresponds to the earlier oracle that the Lord would be with David wherever he went, cut off his enemies, and make him a great name. This is substantial internal evidence that chapter 8 is literarily framed as realization of the promises in 2 Samuel 7.
+> — strength 0.6 · confidence 0.8 · Correspondence accepted; significance overstated
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- What exactly does the preservation refrain affirm, and does it evaluate every action in the surrounding campaigns?
+- What exactly does the preservation refrain affirm, and what does it leave morally unevaluated?
 
-- How should later readers relate the killing reported in 2 Samuel 8:2 to the domestic justice summary in 2 Samuel 8:15, whose stated scope is “all his people”?
+- How should readers relate the killing reported in 2 Samuel 8:2 to the justice summary in 2 Samuel 8:15, whose stated scope is “all his people”?
 
-- What religious, political, or institutional functions might the dedication of captured and diplomatic wealth have served?
+- Does Toi's embassy imply a formal alliance, or only diplomatic congratulations and gift exchange?
+
+- Why did David disable most captured chariot horses while retaining enough for one hundred chariots?
 
 - What does the placement of the administrative roster after the campaigns contribute to the chapter's portrayal of kingship?
 
-- Which conclusions about the administration are supported by the officer list, and which would require evidence beyond this chapter?
+- What should readers make of the apparent reversal of Ahimelech and Abiathar's relationship in verse 17 when compared with [[1 Samuel 22]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare [[1 Chronicles 18]] closely with this chapter. The accounts share most of their sequence, but they are not identical: 2 Samuel 8:4 reports seven hundred horsemen while 1 Chronicles 18:4 reports seven thousand, and their Valley of Salt reports differ in enemy identification and attribution. These differences should be acknowledged without premature harmonization, and agreement between literarily related accounts should not automatically be treated as independent corroboration. Joshua 11:6–9 provides a concrete parallel to disabling chariot horses. Deuteronomy 17:16 is relevant background concerning royal horses, but this chapter does not explicitly cite that law. [[2 Samuel 5]] provides broader context for David's kingship and earlier Philistine conflicts.
+Compare [[1 Chronicles 18]] closely with this chapter. The accounts share most of their sequence, but they are not identical: 2 Samuel 8:4 reports seven hundred horsemen while 1 Chronicles 18:4 reports seven thousand, and their Valley of Salt reports differ in enemy identification and attribution. These variants warrant careful comparison without premature harmonization. Because the accounts are literarily related, their agreement should not automatically be treated as independent corroboration.
+
+The later officer list in [[2 Samuel 20]] provides a useful comparison for asking whether such rosters describe a single administrative moment or serve as broader summaries. Joshua 11:6–9 offers another report of disabling chariot horses. Deuteronomy 17:16 is possible legal background concerning royal horses, but 2 Samuel 8 neither cites that law nor explains David's action through it. [[2 Samuel 5]] supplies earlier context for David's kingship and Philistine conflicts.
+
+Verse 13's reference to Syrians beside verse 14's Edom report should be compared with the parallel traditions, but the cause of the difference should remain unresolved unless manuscript or critical evidence is supplied.
 <!-- SG:END further-study -->
