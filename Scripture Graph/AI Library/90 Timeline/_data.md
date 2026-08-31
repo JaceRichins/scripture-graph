@@ -4482,6 +4482,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-27-4f1d26db",
+   "t": "Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege",
+   "y0": -587,
+   "y1": -573,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Ezekiel 26:1 dates the Tyre oracle cycle (chs. 26-28) to the 11th year of the captivity, c. 587/586 BC; Josephus (citing Phoenician/Tyrian records via Menander) reports Nebuchadnezzar's siege of Tyre lasted about 13 years, ending c. 573 BC.",
+   "chapters": [
+    "Ezekiel 27"
+   ],
+   "people": [
+    "Ezekiel",
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Tyre"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,

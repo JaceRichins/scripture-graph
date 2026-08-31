@@ -42,6 +42,7 @@ _Not yet developed._
 - **588 BC** — Babylonian siege of Jerusalem begins (Ezekiel's dated oracle) · [[Ezekiel 24]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
+- **587 BC–573 BC** — Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege · [[Ezekiel 27]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
