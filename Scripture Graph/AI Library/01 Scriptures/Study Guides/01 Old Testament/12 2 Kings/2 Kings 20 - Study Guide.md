@@ -17,15 +17,15 @@ Scripture: [[2 Kings 20]] · My notes: [[2 Kings 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-[[2 Kings 20]] moves through Hezekiah's illness and recovery, the Babylonian embassy and judgment oracle, and a brief royal conclusion. Hezekiah prays after receiving an announcement of death and is promised healing, fifteen additional years, a confirming sign, and defense from Assyria. The chapter then turns toward future loss: after Hezekiah displays his resources to Babylonian visitors, Isaiah announces that royal wealth and descendants will be taken to Babylon. The received narrative therefore contrasts immediate mercy with deferred judgment, although it does not say that Hezekiah's recovery or display directly caused the later disaster.
+[[2 Kings 20]] moves through Hezekiah's illness and recovery, the Babylonian embassy and judgment oracle, and a brief royal conclusion. After Hezekiah prays, he receives promises of healing, fifteen additional years, return to the house of the LORD, and defense from Assyria. The chapter then turns from immediate mercy to future loss: Hezekiah displays his resources to Babylonian visitors, and Isaiah announces that royal wealth and descendants will be taken to Babylon. The narrative juxtaposes these events but does not say that Hezekiah's recovery or display directly caused the later disaster.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Illness, prayer, and healing (vv. 1–7):** Isaiah announces death; Hezekiah prays; the announcement is followed by a promise of recovery and fifteen additional years.
-2. **Confirming sign (vv. 8–11):** Hezekiah requests a sign, chooses the backward movement of the shadow, and Isaiah cries to the Lord.
+1. **Illness, prayer, and healing (vv. 1–7):** Isaiah announces death; Hezekiah prays; a new word promises recovery and fifteen additional years.
+2. **Confirming sign (vv. 8–11):** Hezekiah requests a sign, chooses the backward movement of the shadow, and Isaiah cries to the LORD.
 3. **Embassy and judgment (vv. 12–19):** Hezekiah displays his resources to Babylonian visitors; Isaiah foretells the removal of treasures and descendants.
-4. **Regnal conclusion (vv. 20–21):** The narrator mentions Hezekiah's waterworks, cites a royal record, and reports Manasseh's succession.
+4. **Regnal conclusion (vv. 20–21):** The narrator mentions Hezekiah's waterworks, cites a royal record, reports his death, and names Manasseh as successor.
 <!-- SG:END structure -->
 
 ## People
@@ -49,8 +49,6 @@ Scripture: [[2 Kings 20]] · My notes: [[2 Kings 20 - My Notes]]
 - [[Ecclesiastes 3]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]])
 - [[D&C 42]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]])
 - [[Genesis 15]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-8|2 Kings 20:8]])
-- [[Isaiah 39]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]] ↔ [[Isaiah 39#^isa-39-2|Isaiah 39:2]]
-- [[Isaiah 38]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]] ↔ [[Isaiah 38#^isa-38-1|Isaiah 38:1]]
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
 - [[1 Kings 16]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
 - [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 14#^2kgs-14-18|2 Kings 14:18]]
@@ -61,24 +59,29 @@ Scripture: [[2 Kings 20]] · My notes: [[2 Kings 20 - My Notes]]
 - [[2 Chronicles 32]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-21|2 Kings 20:21]] ↔ [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]]
 - [[1 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 16]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
+- [[Isaiah 37]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]] ↔ [[Isaiah 37#^isa-37-35|Isaiah 37:35]]
+- [[2 Kings 18]] — 3 parallel verses, e.g. [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]] ↔ [[2 Kings 18#^2kgs-18-33|2 Kings 18:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
+- [[War and Peace]]
+- [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The narrative directly associates [[Prayer]] with a divine response: the LORD says that Hezekiah's prayer has been heard and his tears seen. This particular healing does not establish a universal promise that sincere prayer always brings physical recovery or longer life.
+The narrative directly associates [[Prayer]] with a divine response: the LORD says that Hezekiah's prayer has been heard and his tears seen. This particular recovery does not establish a universal promise that sincere prayer always brings physical healing or longer life.
 
-The promised deliverance also extends beyond individual merit. God undertakes to defend the city for his own sake and for David's sake. The chapter does not supply a comprehensive explanation of how prayer, prophetic announcements, and divine decisions relate.
+The promised deliverance extends beyond Hezekiah's stated conduct. God undertakes to defend the city for his own sake and for David's sake. The chapter does not supply a comprehensive explanation of how prayer, prophetic announcements, covenant commitments, and divine decisions relate.
 
 Isaiah exemplifies the work of [[Prophets]] by carrying messages of both mercy and judgment. He returns when a new word comes, cries to the LORD concerning the sign, and later questions Hezekiah before announcing future loss.
 
-The healing account places a prescribed material means beside divine promise and a remarkable sign. It can inform study of [[Miracles]], but the text does not determine whether the figs were medically sufficient, symbolic, divinely effective means, or some combination.
+The healing account places a prescribed material means beside a divine promise and a remarkable sign. It is relevant to [[Miracles]], but the text does not determine whether the figs were medically sufficient, symbolic, divinely effective means, or some combination.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -93,20 +96,20 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The embassy scene repeatedly uses totalizing language. Hezekiah shows all his precious things; the narrator and Hezekiah both say that nothing was withheld; Isaiah then announces that the stored wealth will be carried away and nothing left. This movement from complete display to complete loss is a strong verbal reversal, though the chapter does not explicitly say the display caused the judgment.
+The embassy scene repeatedly uses totalizing language. Hezekiah shows all his precious things; the narrator and Hezekiah both say that nothing was withheld; Isaiah then announces that the stored wealth will be carried away and nothing left. This movement from complete display to complete loss is a strong verbal reversal, though the chapter does not explicitly say that the display caused the judgment.
 
-“House” also recurs at significant points: Hezekiah must set his house in order, expects to return to the house of the LORD, exposes the contents of his own house, and hears that its stored goods will be removed. The oracle concerning his descendants extends the household theme conceptually. Because these senses differ and arise naturally from the subject matter, deliberate formal design remains suggestive rather than proven.
+“House” recurs with several senses: Hezekiah must set his house in order, expects to return to the house of the LORD, exposes the contents of his house, and hears that its stored goods will be removed. The oracle concerning his descendants extends the household theme conceptually. Because these senses differ and arise naturally from the subject matter, deliberate formal design remains possible rather than proven.
 
-“Good” appears both in Hezekiah's claim that he did what was good in God's sight and in his declaration that Isaiah's severe word is good. The recurrence invites comparison but does not settle the motive behind his final response.
+“Good” appears in Hezekiah's claim that he did what was good in God's sight and in his declaration that Isaiah's severe word is good. The recurrence invites comparison but does not settle his motive in verse 19.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-[[Isaiah 38]] and [[Isaiah 39]] preserve close parallels to this chapter. Isaiah's version of the illness episode contains additional material, while the embassy account in [[Isaiah 39]] remains especially close to Kings. The overlap strongly establishes a literary relationship but does not determine borrowing direction, source history, authorship, date, or the historical accuracy of every detail.
+[[Isaiah 38]] and [[Isaiah 39]] preserve close parallels to this chapter. Isaiah's illness account contains additional material, while the embassy account in [[Isaiah 39]] remains especially close to Kings. The overlap strongly establishes a literary relationship but does not determine borrowing direction, common-source use, authorship, date, or the historical accuracy of every detail.
 
-Within the completed Kings narrative, the Babylon oracle foreshadows the later removal of royal wealth and people to Babylon. That final-form function is compatible with several historical explanations, including preservation of an earlier warning or later editorial shaping with knowledge of the deportations.
+Within the completed Kings narrative, the Babylon oracle anticipates the later removal of royal wealth and people in [[2 Kings 24]]. That final-form function is compatible with several historical explanations, including preservation of an earlier warning, later editorial shaping with knowledge of the deportations, or a combination of tradition and editing.
 
-Hezekiah's response remains morally open. It may express submission and gratitude for deferred judgment, relief focused on his own lifetime, troubling short-sightedness, or mixed motives. [[2 Chronicles 32]] explicitly introduces pride, humility, testing, and the heart; those themes illuminate comparison but should not be attributed directly to Kings.
+Hezekiah's response remains morally open. It may express submission, gratitude for deferred judgment, relief focused on his own lifetime, troubling short-sightedness, or mixed motives. [[2 Chronicles 32]] explicitly introduces [[Pride]], humility, and testing; those themes illuminate comparison but should not be attributed directly to the narrator of Kings.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -119,9 +122,21 @@ Hezekiah's response remains morally open. It may express submission and gratitud
 > Within the completed Kings narrative, Isaiah's announcement that royal wealth and descendants will be taken to Babylon functions as explicit foreshadowing of Judah's later Babylonian losses and deportations.
 > — strength 0.9 · confidence 1.0 · Final-form foreshadowing accepted; dating disputed · [[Literary-Historical Foreshadowing in 2 Kings 20|full dossier]]
 
+> [!evidence] Textual Parallel
+> Isaiah 38 and Isaiah 39 preserve close literary parallels to the illness and embassy episodes in 2 Kings 20. The extensive shared narrative and wording strongly support a literary relationship, while leaving the direction of dependence and the possibility of a shared source unresolved.
+> — strength 0.8 · confidence 0.9 · matches verified overlap
+
 > [!evidence] Sustained Textual Parallel
 > The embassy narrative in 2 Kings 20:12-19 has a close, sustained textual parallel in Isaiah 39:1-8, including the visitors from Babylon, display of treasures, prophetic interrogation, prediction of removal to Babylon, and Hezekiah's response. This is strong evidence of a literary relationship between the passages.
 > — strength 1.0 · confidence 1.0 · Literary relationship broadly accepted · [[Sustained Textual Parallel in 2 Kings 20|full dossier]]
+
+> [!evidence] Intracanonical Narrative Correspondence
+> Within the completed Kings narrative, Isaiah's oracle anticipates later accounts of royal treasure and people being carried to Babylon. This is a strong final-form narrative correspondence, but the correspondence alone cannot date the oracle or prove that every later deportee was one of Hezekiah's direct descendants.
+> — strength 0.8 · confidence 0.8 · well-scoped correspondence · [[Intracanonical Narrative Correspondence in 2 Kings 20|full dossier]]
+
+> [!evidence] Archaeological Corroboration *(tentative)*
+> The notice that Hezekiah 'made a pool, and a conduit, and brought water into the city' (2 Kings 20:20) is widely correlated by scholars and archaeologists with the rock-cut Siloam Tunnel ('Hezekiah's Tunnel') beneath Jerusalem's City of David, whose associated Siloam Inscription is paleographically dated to the late 8th century BC, the era of Hezekiah's reign.
+> — strength 0.5 · confidence 0.6 · inferential correlation, unaudited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -131,11 +146,12 @@ Hezekiah's response remains morally open. It may express submission and gratitud
 - What, if anything, does Hezekiah's request for a sign reveal about faith or uncertainty?
 - Why does Hezekiah show the visitors everything, and why does Kings leave his motive unstated?
 - Does Hezekiah's response in verse 19 express submission, gratitude, relief, self-interest, or an unresolved mixture?
-- How does the movement from everything displayed to nothing left shape the embassy episode without proving causation?
-- Does the prospective Assyrian-deliverance promise suggest that the illness preceded the resolution narrated in [[2 Kings 19]], or could it reaffirm continuing protection?
+- Does the promise concerning Assyria place the illness before the resolution in [[2 Kings 19]], or does it reaffirm continuing protection?
+- What does the historical attestation of a Babylonian king named Merodach-baladan contribute to, and what does it leave undetermined about, the historicity of this specific embassy?
+- If the pool and conduit of verse 20 correspond to a known Jerusalem water tunnel, what would that correlation add to, and what would it fail to prove about, the chapter's other claims?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare [[2 Kings 20]] with [[2 Kings 19]], [[Isaiah 38]], [[Isaiah 39]], and [[2 Chronicles 32]]. Note what each account includes, omits, or interprets explicitly before drawing conclusions about chronology, motive, or literary dependence. Compare the Babylon oracle with [[2 Kings 24]] as a later narrative correspondence. [[Daniel 1]] may be considered as a broader canonical echo of Judeans from royal or noble families entering Babylonian service, but it does not identify them as Hezekiah's descendants or prove fulfillment of every detail. The conduit notice in 2 Kings 20:20 also merits historical study, although the verse alone cannot securely identify a particular archaeological feature.
+Compare [[2 Kings 20]] with [[2 Kings 19]], [[Isaiah 38]], [[Isaiah 39]], and [[2 Chronicles 32]]. Record what each account includes, omits, or interprets explicitly before drawing conclusions about chronology, motive, or literary dependence. Compare the Babylon oracle with [[2 Kings 24]] as a later narrative correspondence. [[Daniel 1]] offers a broader canonical echo of Judeans from royal or noble families entering Babylonian service, but it does not identify them as Hezekiah's descendants or prove fulfillment of every detail. The conduit notice in 2 Kings 20:20 also merits historical study, although the verse alone cannot securely identify a particular archaeological feature.
 <!-- SG:END further-study -->
