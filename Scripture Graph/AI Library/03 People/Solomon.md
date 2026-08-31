@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **970 BC–931 BC** — Solomon's forty-year reign and death · [[1 Kings 11]] · [[1000-901 BC]] *(traditional dating)*
 - **966 BC–959 BC** — Solomon builds the first temple · [[1 Kings 6]] · [[1 Kings 8]] · [[1000-901 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

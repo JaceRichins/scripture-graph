@@ -3030,6 +3030,31 @@ timeline module, not this file._
    "note": "the long-promised day"
   },
   {
+   "id": "r-1kgs-11-f3b8f1cf",
+   "t": "Solomon's forty-year reign and death",
+   "y0": -970,
+   "y1": -931,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology places Solomon's reign at roughly 970-931 BC based on the stated forty-year length (v. 42) correlated with regnal data elsewhere in Kings; the figure is a round number and precise absolute dating is disputed.",
+   "chapters": [
+    "1 Kings 11"
+   ],
+   "people": [
+    "Solomon",
+    "Rehoboam"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-1ne-10-90addb33",
    "t": "Lehi's 600-year Messianic prophecy",
    "y0": -600,

@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1010 BC–970 BC** — David reigns; Jerusalem the capital · [[2 Samuel 5]] · [[Psalm 23]] · [[1100-1001 BC]] *(approximate)*
+- **970 BC–931 BC** — Solomon's forty-year reign and death · [[1 Kings 11]] · [[1000-901 BC]] *(traditional dating)*
 - **966 BC–959 BC** — Solomon builds the first temple · [[1 Kings 6]] · [[1 Kings 8]] · [[1000-901 BC]] *(approximate)*
 - **931 BC** — The kingdom divides — Israel and Judah · [[1 Kings 12]] · [[1000-901 BC]] *(historical)*
 - **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **740 BC–690 BC** — Isaiah's ministry in Jerusalem · [[Isaiah 6]] · [[Isaiah 53]] · [[2 Kings 19]] · [[800-701 BC]] *(approximate)*
 - **735 BC–715 BC** — Reign of Ahaz king of Judah · [[2 Kings 16]] · [[800-701 BC]] *(approximate)*
 - **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
-- **697 BC–642 BC** — Manasseh's 55-year reign over Judah · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
