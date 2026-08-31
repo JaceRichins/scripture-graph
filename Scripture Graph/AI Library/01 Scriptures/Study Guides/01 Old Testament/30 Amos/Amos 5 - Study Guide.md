@@ -17,23 +17,24 @@ Scripture: [[Amos 5]] · My notes: [[Amos 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-Amos 5 is both lament and appeal. Israel is portrayed as fallen, yet repeatedly told to seek the LORD and live. The chapter makes that appeal concrete through demands for good and judgment, then warns that neither confidence in the day of the LORD nor elaborate worship can substitute for righteousness. It ends with threatened exile, placing the chapter within the themes of [[Repentance]], [[Final Judgment]], and [[Scattering of Israel]].
+Amos 5 joins lament, appeal, indictment, and warning. Israel is portrayed as fallen and drastically depleted, yet is repeatedly summoned to seek the LORD and live. The second form of that summons—“seek good, and not evil”—connects return to God with the restoration of justice. The chapter then overturns confidence in the day of the LORD and rejects worship that coexists with oppression. Its final threat of captivity places the appeal within [[Repentance]], [[Final Judgment]], and [[Scattering of Israel]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-A cautious reading can follow the chapter's major rhetorical movements:
+A cautious outline follows the chapter's shifts in address and subject:
 
-- Verses 1–3: lament over Israel's fall and severe depletion.
-- Verses 4–6: summons to seek the LORD rather than the condemned sanctuaries.
-- Verses 7–9: corrupted judgment contrasted with the LORD's sovereign power over creation and human strength.
-- Verses 10–15: social and legal corruption, followed by a renewed seek-and-live appeal.
+- Verses 1–3: funeral lament and severe depletion.
+- Verses 4–6: seek the LORD rather than condemned sanctuaries.
+- Verses 7–9: corrupted judgment contrasted with the LORD's creative and disruptive power.
+- Verses 10–13: injustice at the gate and economic oppression.
+- Verses 14–15: seek good and reestablish judgment, with conditional hope for a remnant.
 - Verses 16–17: public mourning as the LORD passes through the land.
-- Verses 18–20: the day of the LORD recast as darkness and unavoidable danger.
-- Verses 21–24: feasts, offerings, and music rejected; judgment and righteousness demanded.
-- Verses 25–27: difficult wilderness and idolatry language culminating in exile.
+- Verses 18–20: the day of the LORD as darkness and inescapable danger.
+- Verses 21–24: worship rejected and justice demanded.
+- Verses 25–27: difficult wilderness-idolatry language culminating in exile.
 
-This sequence is a reading aid based on changes in subject and address, not proof of a rigid formal outline.
+The repeated seek-and-live appeals give the chapter rhetorical coherence, but this outline is a reading aid rather than proof of a rigid formal design.
 <!-- SG:END structure -->
 
 ## People
@@ -54,26 +55,29 @@ This sequence is a reading aid based on changes in subject and address, not proo
 - [[Amos 3]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-5|Amos 5:5]])
 - [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-6|Amos 5:6]])
 - [[Alma 37]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-6|Amos 5:6]])
-- [[Amos 9]] — 1 parallel verse, e.g. [[Amos 5#^amos-5-8|Amos 5:8]] ↔ [[Amos 9#^amos-9-6|Amos 9:6]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-4|Amos 5:4]] ↔ [[1 Nephi 14#^1ne-14-5|1 Nephi 14:5]]
+- [[Amos 9]] — 0 parallel verses
 - [[Deuteronomy 28]] — 0 parallel verses
 - [[Isaiah 1]] — 0 parallel verses
-- [[Micah 6]] — 0 parallel verses
 - [[Amos 4]] — 0 parallel verses
+- [[Amos 6]] — 0 parallel verses
+- [[Amos 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Final Judgment]]
 - [[Scattering of Israel]]
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
-- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter resists separating devotion to God from treatment of other people. Seeking the LORD is restated as seeking good, hating evil, and establishing judgment at the gate (Amos 5:4–6, 14–15). The juxtaposition of worship and injustice in verses 21–24 supports a critique of religious observance that coexists with oppression. It should not automatically be expanded into a universal rejection of [[Sacrifice]] or other [[Ordinances]].
+Seeking the LORD cannot be separated here from seeking good, opposing evil, and repairing public justice (Amos 5:4–6, 14–15). The gate passages make the demand institutional as well as personal: honest rebuke is suppressed, bribery harms the just, and the poor are denied their right. This gives the chapter direct relevance to [[Justice and Mercy]] and [[Government and Laws]].
 
-Amos also challenges presumption about judgment. People may desire the day of the LORD, yet encounter darkness rather than vindication (Amos 5:18–20). The warning is relevant to [[Final Judgment]] because belonging to the addressed religious community does not exempt it from moral accountability.
+Verses 21–24 criticize feasts, offerings, and music practiced amid injustice. Their force should be preserved without expanding them into a universal rejection of [[Sacrifice]] or [[Ordinances]]. The sharper conclusion is that ritual performance cannot secure divine approval while serious wrongdoing remains protected.
+
+The warning about the day of the LORD challenges religious presumption. Those who desire divine intervention may discover that judgment includes them. Verse 15 still leaves room for grace toward a remnant, but “it may be” prevents mercy from being treated as an entitlement.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,43 +92,55 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The KJV word “judgment” links several parts of the chapter. It is turned to wormwood (verse 7), denied to the poor at the gate (verse 12), commanded to be established there (verse 15), and finally pictured as waters (verse 24). Within this chapter, the term is therefore not limited to a future divine event; it also concerns the administration of right within the community.
+“Seek” develops across the chapter: seek the LORD rather than particular sanctuaries (verses 4–6), then seek good rather than evil (verse 14). This is the strongest internal basis for treating ethical reform as part of seeking God.
 
-“Seek” similarly develops across the chapter. Israel is told to seek God rather than particular sanctuaries (verses 4–6), and then to seek good rather than evil (verse 14). The parallel wording supplies the strongest internal basis for reading ethical reform as part of seeking God.
+The KJV word “judgment” also forms a sequence. It is turned to wormwood (verse 7), must be established in the gate (verse 15), and should run down as waters (verse 24). Meanwhile, the gate recurs as the place where truth is hated, the poor lose their right, and reform must occur (verses 10, 12, 15).
+
+The expressions “house of Joseph” and “remnant of Joseph” most naturally identify northern Israel through its Josephite tribal associations. That reading fits the chapter's repeated address to the house of Israel, though the verse does not explain the designation explicitly.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Amos employs forceful reversals. Israel expects the day of the LORD to be light, but it is darkness. A fugitive escapes a lion only to meet a bear, then reaches home only to be bitten by a serpent. The wealthy build durable stone houses and pleasant vineyards but will not enjoy them. Festivals, offerings, and music that worshippers presumably expect God to welcome instead provoke rejection. Together these reversals dismantle confidence based on national identity, wealth, sacred place, or ritual performance.
+The chapter repeatedly reverses expected outcomes. Stone houses and pleasant vineyards cannot be enjoyed. The desired day of the LORD is darkness rather than light. Escape from a lion leads to a bear, and retreat into a house leads to a serpent. Festivals, offerings, and music expected to honor God provoke rejection. These reversals dismantle confidence grounded in wealth, communal identity, sacred place, or ritual performance.
+
+The water imagery may also be read together. Verse 8 portrays the LORD calling for the sea's waters and pouring them upon the earth; verse 24 demands that judgment and righteousness flow like abundant water. The recurrence is suggestive, although the chapter does not explicitly state that the two images form a designed pair.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Scriptural Phrase And Motif Parallel
+> The judgment that people will build houses without dwelling in them and plant vineyards without enjoying their wine closely parallels covenant-curse language in Deuteronomy 28. This supports reading Amos's sentence within Israel's covenantal warning tradition, although it does not prove direct quotation.
+> — strength 0.8 · confidence 0.9 · motif parallel accepted; dependence disputed · [[Scriptural Phrase And Motif Parallel in Amos 5|full dossier]]
+
 > [!evidence] Intertextual Covenant Vocabulary
 > The loss of newly built houses and planted vineyards in Amos 5:11 closely parallels covenant-curse outcomes in Deuteronomy 28:30 and 28:39. This substantially supports reading Amos's threatened judgment within Israel's covenantal warning tradition, while direct literary dependence remains unproven.
 > — strength 0.6 · confidence 0.9 · Thematic affinity accepted; dependence unproven · [[Intertextual Covenant Vocabulary in Amos 5|full dossier]]
+
+> [!evidence] Internal Lexical And Thematic Parallel
+> The internal parallel between seeking the LORD and seeking good strongly supports reading ethical reform as an integral part of the chapter's call to seek God. Verse 15 makes the reform concrete through hating evil, loving good, and establishing judgment in the gate.
+> — strength 0.9 · confidence 1.0 · broadly accepted internal reading · [[Internal Lexical And Thematic Parallel in Amos 5|full dossier]]
 
 > [!evidence] Scriptural Reception And Textual Variation
 > Acts 7:42-43 explicitly presents material corresponding to Amos 5:25-27 as prophetic scripture, but its wording has "Remphan" and exile "beyond Babylon" where the KJV text of Amos has "Chiun" and captivity "beyond Damascus." This is strong evidence for an early differing reception or textual form of the passage, but the two passages alone cannot reconstruct the original wording.
 > — strength 0.9 · confidence 1.0 · Textual differences explicit; lineage needs qualification · [[Scriptural Reception And Textual Variation in Amos 5|full dossier]]
 
+> [!evidence] Literary Juxtaposition And Explicit Contrast
+> The placement of rejected feasts, offerings, and music after the indictment of oppression, followed by the demand for judgment and righteousness, strongly supports a critique of worship practiced amid injustice. The immediate context does not support treating the passage as a universal abolition of sacrifice, assemblies, or sacred music.
+> — strength 0.8 · confidence 0.9 · strong reading with competing cultic factors · [[Literary Juxtaposition And Explicit Contrast in Amos 5|full dossier]]
+
 > [!evidence] Internal Literary Juxtaposition
 > The immediate contrast between rejected feasts, offerings, and songs and the demand for flowing judgment and righteousness is strong internal evidence that worship severed from justice is unacceptable in this oracle.
 > — strength 0.9 · confidence 1.0 · Strong internal evidence; cultic scope disputed · [[Internal Literary Juxtaposition in Amos 5|full dossier]]
-
-> [!evidence] Possible Exodus Allusion *(tentative)*
-> The LORD's declaration "I will pass through thee" amid widespread wailing plausibly recalls the Passover judgment in Exodus 12, where the LORD passes through Egypt and a great cry follows. The echo is meaningful but not verbally extensive enough to be certain.
-> — strength 0.4 · confidence 0.7 · Plausible but disputed allusion
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-Why do the hearers desire the day of the LORD, and what assumptions does Amos expose in that desire? How do verses 4–6 and 14–15 define “seeking” through both allegiance and conduct? Does the prudent person's silence in verse 13 describe wisdom, fear, or the collapse of meaningful public speech? In verses 21–24, is ritual itself rejected, or ritual severed from righteousness? How should the conditional “it may be” in verse 15 shape claims about repentance and guaranteed outcomes?
+Why do the hearers desire the day of the LORD, and what expectations does Amos overturn? How do the two seek-and-live appeals relate devotion to God and treatment of other people? Does the prudent person's silence in verse 13 describe wise restraint, intimidation, or the breakdown of effective public protest? Are the rites in verses 21–23 rejected chiefly because of injustice, illicit sanctuaries, idolatry, or a combination of these? How should the conditional “it may be” in verse 15 shape claims about repentance and assured outcomes? What answer does the rhetorical question in verse 25 expect?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the house-and-vineyard judgment with [[Deuteronomy 28]], the tentative passing-through resonance with [[Exodus 12]], and the rejection of worship amid injustice with [[Isaiah 1]] and [[Micah 6]]. Compare the creation language in Amos 5:8 with [[Amos 9]].
+Compare the house-and-vineyard judgment with [[Deuteronomy 28]]. The shared futility motifs support comparison with covenant-warning tradition but do not prove direct quotation or dependence. Compare the rejection of worship amid injustice with [[Isaiah 1]] and [[Micah 6]], the creation formula in Amos 5:8 with [[Amos 9]], and the portrayal of the day of the LORD as darkness with [[Joel 2]]. Amos 5:17 may also be compared cautiously with [[Exodus 12]] because both use divine passing-through language, although the contexts and purposes differ substantially.
 
-[[Acts 7]] is especially important for textual and reception history because Acts 7:42–43 cites Amos 5:25–27 through a Greek textual tradition associated with the Septuagint. Its wording includes “Remphan” and exile “beyond Babylon,” differing from the KJV Amos forms “Chiun” and “beyond Damascus.” These differences establish a significant textual-history question but do not, by themselves, identify the original wording or prove simple corruption.
+[[Acts 7]] is central to the closing passage's textual and reception history. Acts 7:42–43 cites Amos 5:25–27 with “Remphan” and exile “beyond Babylon,” whereas the KJV Amos text has “Chiun” and “beyond Damascus.” These differences demonstrate textual variation and interpretive reception. They do not by themselves identify the earliest wording or prove a simple history of corruption.
 <!-- SG:END further-study -->
