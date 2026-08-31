@@ -117,12 +117,12 @@ function turnWithPush(s: SGState, dir: 1 | -1, next: string,
       holder.remove();
       return;
     }
-    holder.addClass(outCls);                     // old page slides away…
-    document.body.addClass(inCls);               // …as the new one pushes in
+    holder.addClass(outCls);                     // old page slides off, on top…
+    document.body.addClass(inCls);               // …revealing the new one settling
     window.setTimeout(() => {
       holder.remove();
       document.body.removeClass(inCls);
-    }, 300);
+    }, 340);
   };
   openChapter(next);
   const ready = (): boolean => {

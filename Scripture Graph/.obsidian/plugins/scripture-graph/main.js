@@ -10032,22 +10032,49 @@ function horizontalScrollerAt(el) {
   }
   return null;
 }
-var veilActive = false;
-function turnWithVeil(s, dir, next, openChapter) {
-  if (veilActive) {
+var pushActive = false;
+function turnWithPush(s, dir, next, openChapter) {
+  const src = document.querySelector(".workspace-leaf.mod-active .view-content");
+  if (pushActive || !(src instanceof HTMLElement)) {
     openChapter(next);
     return;
   }
-  veilActive = true;
-  const veil = document.body.createDiv({ cls: "sg-turn-veil" });
-  const slideCls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+  pushActive = true;
+  const rect = src.getBoundingClientRect();
+  const holder = document.body.createDiv({ cls: "sg-push-clone" });
+  holder.style.left = `${rect.left}px`;
+  holder.style.top = `${rect.top}px`;
+  holder.style.width = `${rect.width}px`;
+  holder.style.height = `${rect.height}px`;
+  const clone = src.cloneNode(true);
+  clone.style.width = "100%";
+  clone.style.height = "100%";
+  holder.appendChild(clone);
+  const livePv = src.querySelector(".markdown-preview-view");
+  const clonePv = clone.querySelector(".markdown-preview-view");
+  if (livePv instanceof HTMLElement && clonePv instanceof HTMLElement) {
+    clonePv.scrollTop = livePv.scrollTop;
+  }
+  const still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (!still) holder.addClass(dir === 1 ? "sg-push-ack-next" : "sg-push-ack-prev");
+  const inCls = dir === 1 ? "sg-push-in-next" : "sg-push-in-prev";
+  const outCls = dir === 1 ? "sg-push-out-next" : "sg-push-out-prev";
   const t0 = Date.now();
+  let finished = false;
   const done = () => {
-    veilActive = false;
-    document.body.addClass(slideCls);
-    veil.addClass("sg-turn-veil-off");
-    window.setTimeout(() => veil.remove(), 220);
-    window.setTimeout(() => document.body.removeClass(slideCls), 360);
+    if (finished) return;
+    finished = true;
+    pushActive = false;
+    if (still) {
+      holder.remove();
+      return;
+    }
+    holder.addClass(outCls);
+    document.body.addClass(inCls);
+    window.setTimeout(() => {
+      holder.remove();
+      document.body.removeClass(inCls);
+    }, 340);
   };
   openChapter(next);
   const ready = () => {
@@ -10062,7 +10089,7 @@ function turnWithVeil(s, dir, next, openChapter) {
       window.requestAnimationFrame(done);
       return;
     }
-    if (Date.now() - t0 > 750) {
+    if (Date.now() - t0 > 800) {
       done();
       return;
     }
@@ -10142,7 +10169,7 @@ function registerSwipeNav(plugin, s, openChapter) {
     } catch {
     }
     trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
-    turnWithVeil(s, dir, next, openChapter);
+    turnWithPush(s, dir, next, openChapter);
   }, { passive: true });
   plugin.registerDomEvent(
     document,

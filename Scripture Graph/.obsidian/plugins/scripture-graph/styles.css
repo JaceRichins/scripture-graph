@@ -1355,36 +1355,48 @@ body.sg-scene-on .sg-chap-conn {
 /* the era line above verse 1 invites a tap */
 .sg-voice-where { cursor: pointer; }
 
-/* 👉 page-turn: a veil covers the workspace while the next chapter loads
- * and settles into reading view — the reader never sees the raw
- * in-between — then lifts as the new page slides in from the side the
- * finger pointed. Quick fades only; the slide honors reduced motion. */
-.sg-turn-veil {
-  position: fixed; inset: 0; z-index: 45; pointer-events: none;
+/* 👉 the page PUSH: a pixel-perfect clone of the old page stands over the
+ * workspace while the next chapter loads beneath it — there is always a
+ * real page on screen — then the old page slides away, dimming under the
+ * incoming page's shadow, as the new one pushes in at full width.
+ * iOS-navigation easing throughout. */
+.sg-push-clone {
+  position: fixed; overflow: hidden; z-index: 45; pointer-events: none;
   background: var(--background-primary);
-  opacity: 0;
-  animation: sg-veil-in 0.07s ease-out forwards;
+  will-change: transform;
 }
-.sg-turn-veil-off { animation: sg-veil-out 0.18s ease-in forwards; }
-@keyframes sg-veil-in { to { opacity: 1; } }
-@keyframes sg-veil-out { from { opacity: 1; } to { opacity: 0; } }
-@media (prefers-reduced-motion: no-preference) {
-  body.sg-turn-next .workspace-leaf.mod-active .markdown-reading-view,
-  body.sg-turn-next .workspace-leaf.mod-active .markdown-preview-view {
-    animation: sg-turn-in-next 0.24s cubic-bezier(0.22, 0.9, 0.36, 1);
-  }
-  body.sg-turn-prev .workspace-leaf.mod-active .markdown-reading-view,
-  body.sg-turn-prev .workspace-leaf.mod-active .markdown-preview-view {
-    animation: sg-turn-in-prev 0.24s cubic-bezier(0.22, 0.9, 0.36, 1);
-  }
+.sg-push-ack-next { transition: transform 0.14s ease-out; transform: translateX(-14px); }
+.sg-push-ack-prev { transition: transform 0.14s ease-out; transform: translateX(14px); }
+/* the old page (the clone, always on top) slides fully off-screen, its
+ * shadow sweeping across the new page settling underneath — reveal
+ * choreography, immune to any stacking context the scenes create */
+.sg-push-out-next {
+  animation: sg-push-out-n 0.3s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+  box-shadow: 26px 0 44px rgba(0, 0, 0, 0.45);
 }
-@keyframes sg-turn-in-next {
-  from { transform: translateX(34px); opacity: 0.4; }
-  to { transform: translateX(0); opacity: 1; }
+.sg-push-out-prev {
+  animation: sg-push-out-p 0.3s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+  box-shadow: -26px 0 44px rgba(0, 0, 0, 0.45);
 }
-@keyframes sg-turn-in-prev {
-  from { transform: translateX(-34px); opacity: 0.4; }
-  to { transform: translateX(0); opacity: 1; }
+@keyframes sg-push-out-n {
+  to { transform: translateX(-104%); }
+}
+@keyframes sg-push-out-p {
+  to { transform: translateX(104%); }
+}
+body.sg-push-in-next .workspace-leaf.mod-active .view-content {
+  animation: sg-push-in-n 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+}
+body.sg-push-in-prev .workspace-leaf.mod-active .view-content {
+  animation: sg-push-in-p 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+}
+@keyframes sg-push-in-n {
+  from { transform: translateX(8%); }
+  to { transform: translateX(0); }
+}
+@keyframes sg-push-in-p {
+  from { transform: translateX(-8%); }
+  to { transform: translateX(0); }
 }
 
 /* ---------- 👁 verse peek: the reference comes to the reader ------------- */
