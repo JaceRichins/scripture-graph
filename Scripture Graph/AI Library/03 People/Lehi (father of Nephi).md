@@ -41,6 +41,7 @@ _Not yet developed._
 - **600 BC** — Lehi's family leaves Jerusalem · [[1 Nephi 1]] · [[1 Nephi 2]] · [[600-501 BC]] *(traditional dating)*
 - **599 BC** — The Liahona appears at Lehi's tent door · [[1 Nephi 16]] · [[600-501 BC]] *(traditional dating)*
 - **589 BC** — Lehi's family crosses the ocean · [[1 Nephi 17]] · [[1 Nephi 18]] · [[600-501 BC]] *(traditional dating)*
+- **74 BC** — Moroni's first recorded campaign against Zerahemnah · [[Alma 43]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

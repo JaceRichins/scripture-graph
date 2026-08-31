@@ -3477,6 +3477,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-43-2c5db19d",
+   "t": "Moroni's first recorded campaign against Zerahemnah",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The text places the campaign in the eighteenth year of the reign of the judges; the official chapter heading dates it to about 74 B.C.",
+   "chapters": [
+    "Alma 43"
+   ],
+   "people": [
+    "Moroni",
+    "Zerahemnah",
+    "Alma",
+    "Lehi"
+   ],
+   "places": [
+    "Jershon",
+    "Manti"
+   ],
+   "things": [
+    "Nephite armor",
+    "war covenant"
+   ]
+  },
+  {
    "id": "r-alma-5-81444f92",
    "t": "Alma preaches repentance at Zarahemla",
    "y0": -83,
@@ -3668,6 +3699,34 @@ timeline module, not this file._
    "people": [
     "Joseph Smith Jr",
     "Oliver Cowdery"
+   ]
+  },
+  {
+   "id": "r-dc-52-622abfbd",
+   "t": "June 1831 conference and dispatch of elders to Missouri",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditional dating of D&C 52 to June 7, 1831, at the close of a conference in Ohio; the text itself refers forward to 'the next conference, which shall be held in Missouri' (v.2).",
+   "chapters": [
+    "D&C 52"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Sidney Rigdon",
+    "Edward Partridge",
+    "Martin Harris"
+   ],
+   "places": [
+    "Missouri",
+    "Ohio"
    ]
   },
   {

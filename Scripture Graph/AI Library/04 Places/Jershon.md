@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **74 BC** — Moroni's first recorded campaign against Zerahemnah · [[Alma 43]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
