@@ -3606,6 +3606,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-7-9f4dedbd",
+   "t": "Stephen's Speech and Martyrdom in Jerusalem",
+   "y0": 33,
+   "y1": 36,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed by scholarly consensus shortly after the founding of the Jerusalem church and before Saul's conversion (Acts 9), commonly dated c. AD 33-36.",
+   "chapters": [
+    "Acts 7"
+   ],
+   "people": [
+    "Stephen (martyr)",
+    "Saul (king)"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-alma-43-2c5db19d",
    "t": "Moroni's first recorded campaign against Zerahemnah",
    "y0": -74,
@@ -3634,6 +3659,67 @@ timeline module, not this file._
    "things": [
     "Nephite armor",
     "war covenant"
+   ]
+  },
+  {
+   "id": "r-alma-46-21dea0da",
+   "t": "Amalickiahite revolt and the title of liberty",
+   "y0": -73,
+   "y1": -72,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the episode to about 73–72 B.C.; Alma 46:37 places restored peace near the end of the nineteenth year of the reign of the judges.",
+   "chapters": [
+    "Alma 46"
+   ],
+   "people": [
+    "Amalickiah",
+    "Moroni",
+    "Helaman"
+   ],
+   "places": [
+    "Zarahemla",
+    "land of Nephi"
+   ],
+   "things": [
+    "title of liberty",
+    "covenant of freedom"
+   ]
+  },
+  {
+   "id": "r-alma-46-bb2a8350",
+   "t": "Amalickiah's conspiracy and the title of liberty",
+   "y0": -73,
+   "y1": -72,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Dated by the chapter's own placement in the Nephite reign-of-judges chronology (events run through 'nearly the end of the nineteenth year of the reign of the judges,' v.37), consistent with the traditional chapter heading date of about 73-72 B.C.",
+   "chapters": [
+    "Alma 46"
+   ],
+   "people": [
+    "Moroni",
+    "Amalickiah",
+    "Helaman"
+   ],
+   "places": [
+    "Zarahemla",
+    "land of Nephi"
+   ],
+   "things": [
+    "title of liberty"
    ]
   },
   {

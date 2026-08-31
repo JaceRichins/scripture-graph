@@ -42,6 +42,7 @@ _Not yet developed._
 - **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
 - **570 BC** — Overthrow of Pharaoh Hophra (Apries) by Amasis · [[Jeremiah 44]] · [[600-501 BC]] *(historical)*
 - **332 BC–323 BC** — Alexander conquers the Near East · [[400-301 BC]] *(historical)*
+- **AD 33–AD 36** — Stephen's Speech and Martyrdom in Jerusalem · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

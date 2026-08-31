@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 33–AD 36** — Stephen's Speech and Martyrdom in Jerusalem · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 - **AD 34** — Stephen the first martyr · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
