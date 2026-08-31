@@ -41,6 +41,7 @@ _Not yet developed._
 - **841 BC–814 BC** — Reign of Jehu over Israel · [[2 Kings 10]] · [[900-801 BC]] *(historical)*
 - **760 BC–722 BC** — Amos and Hosea warn the north · [[Amos 5]] · [[Hosea 11]] · [[800-701 BC]] *(approximate)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
+- **722 BC** — Assyrian conquest of Samaria (background referent of Ezek. 23:9-10) · [[Ezekiel 23]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

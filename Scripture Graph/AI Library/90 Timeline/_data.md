@@ -4409,6 +4409,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-23-a117aa38",
+   "t": "Assyrian conquest of Samaria (background referent of Ezek. 23:9-10)",
+   "y0": -722,
+   "y1": -722,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Widely dated Assyrian conquest of the northern kingdom's capital, treated in 2 Kings 17; Ezekiel 23:9-10 describes Aholah/Samaria being delivered to Assyrian lovers who slay her sons and daughters, matching this event's memory.",
+   "chapters": [
+    "Ezekiel 23"
+   ],
+   "people": [
+    "Assyrian conquerors"
+   ],
+   "places": [
+    "Samaria"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,
