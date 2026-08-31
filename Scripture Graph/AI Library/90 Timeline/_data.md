@@ -4099,6 +4099,54 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-amos-1-5e3c265f",
+   "t": "Amos's ministry under Jeroboam II, before the Uzziah earthquake",
+   "y0": -760,
+   "y1": -750,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Amos 1:1 dates the words to the overlapping reigns of Uzziah (Judah) and Jeroboam II (Israel), 'two years before the earthquake'; conventional scholarship places this in the decade before ca. 750 BC, though the exact year of the earthquake is not independently fixed by the text.",
+   "chapters": [
+    "Amos 1"
+   ],
+   "people": [
+    "Amos",
+    "Uzziah",
+    "Jeroboam II"
+   ],
+   "places": [
+    "Tekoa"
+   ]
+  },
+  {
+   "id": "r-amos-5-6f99fc4e",
+   "t": "Amos's prophetic ministry to the Northern Kingdom",
+   "y0": -760,
+   "y1": -750,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventionally dated to the reigns of Jeroboam II of Israel and Uzziah of Judah, per the book's superscription, roughly a generation before Israel's fall to Assyria in 722 BCE.",
+   "chapters": [
+    "Amos 5"
+   ],
+   "people": [
+    "Amos"
+   ],
+   "places": [
+    "Israel (Northern Kingdom)"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,
