@@ -46,19 +46,26 @@ export function readingChapterTitle(f: TFile | null): string | null {
   return null;
 }
 
-/** does any ancestor up to the reading view scroll horizontally itself?
- * (tables, code blocks, the connections strip — their scroll wins) */
-function inHorizontalScroller(el: HTMLElement | null): boolean {
+/** the CONTENT element under the finger that scrolls horizontally itself
+ * (a wide table, a code block — their scroll wins), or null. The page-level
+ * scrollers never count: a chapter with a few pixels of stray horizontal
+ * overflow is still a page, not a carousel — treating it as one swallowed
+ * every swipe on such chapters (found via the phone's own debug log). */
+const PAGE_SCROLLERS = ["markdown-reading-view", "markdown-preview-view",
+  "markdown-preview-sizer", "markdown-source-view", "cm-scroller",
+  "view-content"];
+
+function horizontalScrollerAt(el: HTMLElement | null): HTMLElement | null {
   let n = el, hops = 0;
   while (n && hops++ < 8) {
-    if (n.classList?.contains("markdown-reading-view")) return false;
+    if (PAGE_SCROLLERS.some(c => n!.classList?.contains(c))) return null;
     if (n.scrollWidth > n.clientWidth + 4) {
       const o = getComputedStyle(n).overflowX;
-      if (o === "auto" || o === "scroll") return true;
+      if (o === "auto" || o === "scroll") return n;
     }
     n = n.parentElement;
   }
-  return false;
+  return null;
 }
 
 export function registerSwipeNav(
@@ -100,8 +107,12 @@ export function registerSwipeNav(
       trace("swipe.skip", { why: "ui-chrome" });
       return;
     }
-    if (inHorizontalScroller(target)) {
-      trace("swipe.skip", { why: "h-scroller" });
+    const scroller = horizontalScrollerAt(target);
+    if (scroller) {
+      trace("swipe.skip", {
+        why: "h-scroller",
+        el: (scroller.className || scroller.tagName).slice(0, 40),
+      });
       return;
     }
     // the outer edges stay Obsidian's (system back gestures live there too)

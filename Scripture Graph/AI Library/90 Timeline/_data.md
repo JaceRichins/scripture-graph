@@ -3681,6 +3681,84 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-51-29395df8",
+   "t": "Fall of Babylon to Cyrus's Medo-Persian forces",
+   "y0": -539,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "External records (Cyrus Cylinder, Babylonian/Nabonidus Chronicle) date Babylon's capture to 539 BC; often read as connected to this chapter's 'kings of the Medes' motif, though the manner of conquest differs from the chapter's violent imagery (see counterarguments).",
+   "chapters": [
+    "Jeremiah 51"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-jer-51-4f21acb6",
+   "t": "Seraiah carries Jeremiah's Babylon oracle",
+   "y0": -594,
+   "y1": -593,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Jeremiah 51:59 places Seraiah's journey with King Zedekiah in the fourth year of Zedekiah's reign.",
+   "chapters": [
+    "Jeremiah 51"
+   ],
+   "people": [
+    "Jeremiah",
+    "Seraiah",
+    "King Zedekiah"
+   ],
+   "places": [
+    "Babylon"
+   ],
+   "things": [
+    "written oracle",
+    "symbolic stone"
+   ]
+  },
+  {
+   "id": "r-jer-7-c6d3e909",
+   "t": "Jeremiah's temple-gate sermon (Jeremiah 7 / parallel to Jer. 26)",
+   "y0": -609,
+   "y1": -608,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Jeremiah 26:1 dates the closely related temple-sermon narrative to 'the beginning of the reign of Jehoiakim,' commonly placed around 609-608 BCE; Jeremiah 7 itself supplies no internal date.",
+   "chapters": [
+    "Jeremiah 7"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Solomon's Temple"
+   ]
+  },
+  {
    "id": "r-jsm-1-5b0f8dc9",
    "t": "Olivet Discourse delivered near the Jerusalem temple",
    "y0": 33,

@@ -38,8 +38,10 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **609 BC–608 BC** — Jeremiah's temple-gate sermon (Jeremiah 7 / parallel to Jer. 26) · [[Jeremiah 7]] · [[700-601 BC]] *(traditional dating)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
+- **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
 - **588 BC–587 BC** — Jeremiah in the dungeon · [[Jeremiah 37]] · [[Jeremiah 38]] · [[600-501 BC]] *(historical)*
 - **588 BC–587 BC** — Jeremiah's imprisonment and purchase of the field of Anathoth · [[Jeremiah 32]] · [[600-501 BC]] *(traditional dating)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*

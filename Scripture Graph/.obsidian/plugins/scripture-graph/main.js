@@ -10012,17 +10012,25 @@ function readingChapterTitle(f) {
   }
   return null;
 }
-function inHorizontalScroller(el) {
+var PAGE_SCROLLERS = [
+  "markdown-reading-view",
+  "markdown-preview-view",
+  "markdown-preview-sizer",
+  "markdown-source-view",
+  "cm-scroller",
+  "view-content"
+];
+function horizontalScrollerAt(el) {
   let n = el, hops = 0;
   while (n && hops++ < 8) {
-    if (n.classList?.contains("markdown-reading-view")) return false;
+    if (PAGE_SCROLLERS.some((c) => n.classList?.contains(c))) return null;
     if (n.scrollWidth > n.clientWidth + 4) {
       const o = getComputedStyle(n).overflowX;
-      if (o === "auto" || o === "scroll") return true;
+      if (o === "auto" || o === "scroll") return n;
     }
     n = n.parentElement;
   }
-  return false;
+  return null;
 }
 function registerSwipeNav(plugin, s, openChapter) {
   if (!import_obsidian5.Platform.isMobile) return;
@@ -10049,8 +10057,12 @@ function registerSwipeNav(plugin, s, openChapter) {
       trace("swipe.skip", { why: "ui-chrome" });
       return;
     }
-    if (inHorizontalScroller(target)) {
-      trace("swipe.skip", { why: "h-scroller" });
+    const scroller = horizontalScrollerAt(target);
+    if (scroller) {
+      trace("swipe.skip", {
+        why: "h-scroller",
+        el: (scroller.className || scroller.tagName).slice(0, 40)
+      });
       return;
     }
     if (t.clientX < 40 || t.clientX > window.innerWidth - 40) return;
