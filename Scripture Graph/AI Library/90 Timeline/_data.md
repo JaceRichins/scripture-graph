@@ -3030,6 +3030,56 @@ timeline module, not this file._
    "note": "the long-promised day"
   },
   {
+   "id": "r-1chr-29-5aafd402",
+   "t": "David's reign over all Israel (Hebron and Jerusalem)",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "1 Chronicles 29:27 gives 40 total years (7 in Hebron, 33 in Jerusalem); conventional biblical chronology (e.g. LDS Bible Dictionary) dates David's reign c. 1010-970 BC.",
+   "chapters": [
+    "1 Chronicles 29"
+   ],
+   "people": [
+    "David"
+   ],
+   "places": [
+    "Hebron",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-1chr-29-b4b6b18d",
+   "t": "Temple-fund offering and Solomon's public coronation",
+   "y0": -971,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Chapter narrates the freewill temple offering, David's final prayer and death, and Solomon's second, public anointing as one transitional episode at the close of David's reign.",
+   "chapters": [
+    "1 Chronicles 29"
+   ],
+   "people": [
+    "David",
+    "Solomon",
+    "Zadok"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-1kgs-11-f3b8f1cf",
    "t": "Solomon's forty-year reign and death",
    "y0": -970,
