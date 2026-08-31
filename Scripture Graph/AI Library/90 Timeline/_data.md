@@ -3431,6 +3431,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-20-a7a531f6",
+   "t": "Hezekiah's illness, sign, and the Babylonian embassy",
+   "y0": -703,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within Hezekiah's reign (commonly reconstructed c. 715-687 BC), correlated with the historically attested reigns of Merodach-baladan II over Babylon; exact placement of the illness within Hezekiah's 29-year reign relative to Sennacherib's 701 BC campaign is debated.",
+   "chapters": [
+    "2 Kings 20"
+   ],
+   "people": [
+    "Hezekiah",
+    "Isaiah",
+    "Berodach-baladan"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-2kgs-21-7f4923cd",
    "t": "Manasseh's 55-year reign over Judah",
    "y0": -697,
@@ -3526,6 +3553,32 @@ timeline module, not this file._
    ],
    "places": [
     "Megiddo"
+   ]
+  },
+  {
+   "id": "r-3ne-21-d339e4b7",
+   "t": "Jesus gives the sign of Israel's future gathering",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading places the discourse at about A.D. 34; the predicted transmission, gathering, and New Jerusalem remain future within the discourse.",
+   "chapters": [
+    "3 Nephi 21"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Moses"
+   ],
+   "things": [
+    "covenant gathering",
+    "New Jerusalem"
    ]
   },
   {

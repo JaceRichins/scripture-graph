@@ -94,6 +94,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **3300 BC–3000 BC** — Enoch's city of Zion · [[Moses 7]] · [[3300-3201 BC]] *(traditional dating)*
+- **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

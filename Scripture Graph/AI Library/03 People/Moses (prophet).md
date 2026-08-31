@@ -44,6 +44,7 @@ _Not yet developed._
 - **1446 BC–1445 BC** — The law given at Sinai · [[Exodus 19]] · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1406 BC** — Forty years in the wilderness · [[Numbers 14]] · [[Deuteronomy 8]] · [[1500-1401 BC]] *(traditional dating)*
+- **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

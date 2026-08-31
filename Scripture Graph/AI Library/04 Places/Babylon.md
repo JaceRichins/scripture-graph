@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **2200 BC** — The Tower of Babel; the Jaredites depart · [[Genesis 11]] · [[Ether 1]] · [[2200-2101 BC]] *(traditional dating)*
+- **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 - **539 BC** — Fall of Babylon to Cyrus the Persian · [[Jeremiah 50]] · [[600-501 BC]] *(historical)*
 - **539 BC** — Fall of Babylon to Cyrus's Medo-Persian forces · [[Jeremiah 51]] · [[600-501 BC]] *(historical)*
-- **538 BC** — Cyrus lets the exiles return · [[Ezra 1]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

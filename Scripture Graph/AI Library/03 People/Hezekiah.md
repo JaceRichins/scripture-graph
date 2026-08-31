@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **740 BC–690 BC** — Isaiah's ministry in Jerusalem · [[Isaiah 6]] · [[Isaiah 53]] · [[2 Kings 19]] · [[800-701 BC]] *(approximate)*
+- **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 - **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
 - **697 BC–642 BC** — Manasseh's 55-year reign over Judah · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 
