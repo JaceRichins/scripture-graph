@@ -4297,6 +4297,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ex-24-54fbe531",
+   "t": "Sinai covenant ceremony and Moses's ascent",
+   "y0": -1491,
+   "y1": -1491,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places the Exodus and the subsequent Sinai covenant in the same year the Israelites left Egypt, roughly three months after departure (cf. Exodus 19:1); exact year is disputed among chronological schemes (commonly given as either c. 1491 BC or c. 1446 BC).",
+   "chapters": [
+    "Exodus 24"
+   ],
+   "people": [
+    "Moses",
+    "Aaron",
+    "Joshua",
+    "Hur"
+   ],
+   "places": [
+    "Mount Sinai"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,

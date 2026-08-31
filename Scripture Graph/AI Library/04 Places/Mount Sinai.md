@@ -39,6 +39,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — The law given at Sinai · [[Exodus 19]] · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
