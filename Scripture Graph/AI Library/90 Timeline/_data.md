@@ -3055,6 +3055,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-12-114d4356",
+   "t": "Shishak (Shoshenq I) invades Judah",
+   "y0": -926,
+   "y1": -925,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Correlated with 'the fifth year of king Rehoboam' (2 Chronicles 12:2); Shoshenq I's Canaan campaign is independently dated via Egyptian regnal chronology and commemorated on the Bubastite Portal relief at Karnak, providing one of the few fixed synchronisms between biblical and Egyptian chronology.",
+   "chapters": [
+    "2 Chronicles 12"
+   ],
+   "people": [
+    "Rehoboam",
+    "Shishak (Shoshenq I)",
+    "Shemaiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Egypt"
+   ],
+   "things": [
+    "gold shields",
+    "temple treasures"
+   ]
+  },
+  {
    "id": "r-2chr-20-699caba3",
    "t": "Jehoshaphat's reign and the En-gedi deliverance",
    "y0": -870,
@@ -3752,6 +3783,30 @@ timeline module, not this file._
    ],
    "places": [
     "Egypt"
+   ]
+  },
+  {
+   "id": "r-jer-50-9e33ad8f",
+   "t": "Fall of Babylon to Cyrus the Persian",
+   "y0": -539,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Attested by the Nabonidus Chronicle and later classical historians (Herodotus, Xenophon); conventionally treated as the historical referent behind oracles of Babylon's judgment in Jeremiah 50-51, though the chapter itself gives no internal date.",
+   "chapters": [
+    "Jeremiah 50"
+   ],
+   "people": [
+    "Nebuchadrezzar (referenced, prior era)"
+   ],
+   "places": [
+    "Babylon"
    ]
   },
   {

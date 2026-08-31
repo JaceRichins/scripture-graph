@@ -47,6 +47,7 @@ _Not yet developed._
 - **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
+- **539 BC** — Fall of Babylon to Cyrus the Persian · [[Jeremiah 50]] · [[600-501 BC]] *(historical)*
 - **539 BC** — Fall of Babylon to Cyrus's Medo-Persian forces · [[Jeremiah 51]] · [[600-501 BC]] *(historical)*
 - **538 BC** — Cyrus lets the exiles return · [[Ezra 1]] · [[600-501 BC]] *(historical)*
 
