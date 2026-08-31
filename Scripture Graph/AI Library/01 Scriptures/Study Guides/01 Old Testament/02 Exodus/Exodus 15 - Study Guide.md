@@ -23,15 +23,15 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-- **15:1–18 — The song:** Praise for victory at the sea expands into anticipation of Israel's passage, inheritance, sanctuary, and the LORD's everlasting reign.
+- **15:1–18 — Victory song:** Praise for the sea deliverance expands into anticipation of fear among neighboring peoples, Israel's inheritance, a sanctuary, and the LORD's everlasting reign.
 
-- **15:19 — Prose recap:** The narrative restates the contrasting outcomes for Pharaoh's force and Israel.
+- **15:19 — Prose recap:** Pharaoh's force and Israel receive opposite outcomes in the sea.
 
-- **15:20–21 — Miriam's response:** Miriam and the women answer with timbrels, dancing, and the song's central refrain.
+- **15:20–21 — Miriam's response:** Miriam leads the women with timbrels and dances and repeats the central refrain.
 
-- **15:22–26 — Marah:** Thirst produces murmuring; Moses cries to the LORD; bitter water becomes sweet; instruction and testing follow.
+- **15:22–26 — Marah:** Thirst produces murmuring; Moses cries to the LORD; the water is made sweet; testing, instruction, and a conditional promise follow.
 
-- **15:27 — Elim:** Twelve wells and seventy palm trees provide a quiet closing picture of water and rest.
+- **15:27 — Elim:** Twelve wells and seventy palm trees close the chapter with abundant water and encampment.
 <!-- SG:END structure -->
 
 ## People
@@ -57,6 +57,7 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 - [[2 Samuel 22]] — 1 footnote cross-reference (from [[Exodus 15#^ex-15-2|Exodus 15:2]])
 - [[Deuteronomy 13]] — 1 parallel verse, e.g. [[Exodus 15#^ex-15-26|Exodus 15:26]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
 - [[Numbers 33]] — 0 parallel verses
+- [[Exodus 14]] — 0 parallel verses
 - [[Joshua 2]] — 0 parallel verses
 - [[Isaiah 12]] — 0 parallel verses
 - [[Psalm 118]] — 0 parallel verses
@@ -66,15 +67,16 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Exodus and Deliverance]]
 - [[War and Peace]]
+- [[Deuteronomy 13]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter's word "salvation" first denotes concrete rescue from an attacking army (15:2), so its immediate sense should not be detached from the historical-literary setting. The redeemed people are then directed toward God's habitation and reign (15:13–18), joining rescue with belonging and worship.
+The word "salvation" in 15:2 first refers to concrete [[Exodus and Deliverance]] from Pharaoh's military force. The song then connects that rescue with redemption, belonging, sacred habitation, and divine reign (15:13–18).
 
-At Marah, [[Prayer]], provision, testing, and [[Obedience]] are closely connected (15:24–26). The conditional promise about diseases is addressed to Israel in this particular covenantal setting. It should not be converted without qualification into a universal claim that every obedient individual will avoid illness or that sickness proves disobedience.
+At Marah, [[Prayer]], provision, testing, and [[Obedience]] occur together (15:24–26). The promise about diseases is conditional and addressed to Israel in this narrative setting. The text does not authorize the conclusion that every obedient person will avoid illness or that an ill person must have been disobedient.
 
-The designation "man of war" belongs to a song about deliverance from Pharaoh's military force. It affirms divine judgment within this narrative, but it does not by itself authorize human violence or settle every question addressed under [[War and Peace]].
+Calling the LORD a "man of war" occurs within a song about judgment on Pharaoh's pursuing force. The designation contributes to [[War and Peace]], but it does not by itself give human beings a general mandate for violence.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -89,18 +91,26 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The hymn gains force through repetition and reversal. The enemy piles up first-person intentions—pursuit, capture, spoil, satisfaction, sword, and destruction—but God's single breath overturns the boast (15:9-10). The repeated "right hand" concentrates divine power in verses 6 and 12. The stone image also changes direction: Egyptians sink "as a stone" (15:5), while future opponents become "as still as a stone" (15:16).
+The enemy accumulates first-person intentions—pursuit, capture, spoil, satisfaction, sword, and destruction—in 15:9. The short answer, "Thou didst blow," overturns the entire boast in 15:10. Repetition of the LORD's "right hand" in 15:6 and 15:12 concentrates the poem's account of power.
 
-Verse 11's question about who is like the LORD "among the gods" clearly asserts incomparability. The phrase alone should not be made to prove a complete theory about how the poem understands other divine beings.
+The stone image is reused with a change of function: the Egyptians sink "as a stone" in 15:5, while fear makes future opponents "as still as a stone" in 15:16.
+
+The question "Who is like unto thee ... among the gods?" proclaims incomparability. Its rhetoric is clear, but its complete ontology is not: the verse alone does not specify precisely what status the poet assigns to the compared "gods."
+
+The English phrase "Red sea" in this chapter translates the Hebrew yam suph, literally "sea of reeds." Both the translation and the geographic identification of the crossing point are long-standing points of discussion among translators and historians, separate from the theological claim the song itself makes about the event.
+
+Some interpreters (notably Cross and Freedman) have argued that the poem's diction reads as unusually archaic compared with Hebrew narrative prose elsewhere in the Torah, and have used this to suggest the poem may preserve very old material. The method of dating Hebrew texts by linguistic features alone is itself contested among scholars, however, and archaic-sounding diction could equally reflect a deliberate poetic style rather than an early date of composition.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The enemy's repeated "I will" statements in 15:9 are answered by the concise "Thou didst blow" in 15:10. This contrast compresses the enemy's confidence into helplessness before the sea.
+The song enlarges its horizon as it proceeds. It begins with the horse and rider cast into the sea, turns toward the fear of neighboring peoples, and ends with inheritance, sanctuary, and everlasting reign. Completed and anticipated actions are presented together, giving the sea victory significance beyond the immediate event without settling when the poem reached its present form.
 
-The song also enlarges its horizon as it proceeds: it begins with the defeated horse and rider, moves through the fear of neighboring peoples, and ends with inheritance, sanctuary, and everlasting divine reign. The alternation between completed and anticipated actions gives the victory significance beyond the immediate crossing without independently resolving the composition date.
+Water links the hymn and travel narrative. At the sea it destroys the pursuers while Israel crosses on dry land; at Marah it cannot initially sustain life; at Elim it is abundant. Israel therefore remains dependent on divine provision after the spectacular deliverance.
 
-Water unifies the chapter's otherwise sharp transition from poetry to travel narrative. At the sea it destroys the pursuing force while Israel crosses safely; at Marah it cannot initially sustain life; at Elim it is abundant. This pattern makes Israel's dependence on God continue after the dramatic deliverance.
+A comparable rhetorical pattern to 15:9-10's stacked "I will" boasts followed by sudden reversal appears in the taunt against the king of Babylon in [[Isaiah 14]] (14:13-14). Whether this reflects a recognized poetic convention for depicting overreaching pride, a direct literary echo, or coincidence is not something either text settles on its own.
+
+Miriam is called "the prophetess" in 15:20, one of only a few women in the Hebrew Bible given that explicit title. The chapter does not elaborate on the content of her prophetic role beyond leading the women's musical response, leaving open how her office relates to Moses' and Aaron's.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -109,23 +119,39 @@ Water unifies the chapter's otherwise sharp transition from poetry to travel nar
 > The repeated refrain, Miriam's timbrel, and the participation of the women provide moderately strong internal evidence that the chapter presents the victory song as communal and performative, not merely as private reflection.
 > — strength 0.8 · confidence 0.9 · Narrative presentation accepted; historical arrangement unresolved · [[Literary And Narrative Evidence in Exodus 15|full dossier]]
 
+> [!evidence] Internal Literary Pattern
+> Repetition and balanced contrasts—including the repeated "right hand," the enemy's boast followed by God's wind, and the two uses of the stone image—provide strong internal evidence that the song is carefully shaped poetry.
+> — strength 0.8 · confidence 0.9 · confirmed, exemplary evidentiary hygiene · [[Internal Literary Pattern in Exodus 15|full dossier]]
+
 > [!evidence] Literary And Geographical Evidence
 > The sequence Palestina, Edom, Moab, and Canaan gives the song a geographical horizon extending beyond the sea crossing toward Israel's anticipated passage and settlement. This is literary evidence for the chapter's forward-looking function, but it is not decisive evidence for when the song was composed.
 > — strength 0.7 · confidence 1.0 · Literary horizon accepted; dating implications disputed · [[Literary And Geographical Evidence in Exodus 15|full dossier]]
+
+> [!evidence] Intertextual Echo *(tentative)*
+> Isaiah 51:9-10 uses closely related exodus imagery — drying up the sea, 'the depths,' and the redeemed passing over — which invites comparison with the vocabulary of Exodus 15:13-16, though whether one text draws directly on the other, or both draw on a shared exodus tradition, is unresolved.
+> — strength 0.5 · confidence 0.6 · genuine echo, dependence unresolved
+
+> [!evidence] Linguistic Dating Argument *(tentative)*
+> Some scholars (notably Cross and Freedman) have argued that Exodus 15's poetic diction shows unusually archaic Hebrew features compared with surrounding narrative prose, and have used this linguistic archaism to suggest the poem may preserve very old material, possibly among the oldest extended texts in the Hebrew Bible.
+> — strength 0.4 · confidence 0.3 · disputed scholarly methodology
+
+> [!evidence] Literary-Historical Hypothesis *(tentative)*
+> Because Miriam's refrain (15:21) duplicates the wording of the song's opening line (15:1), some scholars propose that her short line preserves an older poetic fragment out of which the longer Song of Moses (15:1-18) was later composed or expanded, with the fuller song functioning as a poetic elaboration of the shared refrain.
+> — strength 0.3 · confidence 0.4 · unsupported minority hypothesis
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Does "among the gods" in 15:11 acknowledge real divine rivals, refer to heavenly beings, or use conventional praise language? The verse proclaims incomparability but does not answer the ontological question by itself.
+- Does "among the gods" in 15:11 refer to divine beings, supposed deities, or conventional praise language? The verse asserts the LORD's incomparability but does not resolve that question alone.
 
-- What precisely is the "holy habitation" or "Sanctuary" anticipated in 15:13 and 15:17? The wording may invite comparison with later sacred dwelling places, but this chapter does not explicitly identify one.
+- What is the "holy habitation" or "Sanctuary" in 15:13 and 15:17? The language invites comparison with later [[Temples]], but the chapter does not explicitly name a site.
 
-- Is Miriam's refrain evidence of a formal call-and-response performance, an independent women's song, or a narrative reprise? The text permits more than one reconstruction.
+- Does Miriam's response reflect call-and-response performance, a separate women's song, or a narrative reprise? The brief notice permits several reconstructions.
 
-- How should readers hold together the chapter's celebration of deliverance and its severe divine-warrior imagery without turning a particular judgment narrative into a general mandate for violence?
+- How should the celebration of deliverance be read alongside its severe divine-warrior imagery without converting a particular judgment narrative into a general authorization of violence?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the poetic celebration with the preceding sea narrative in [[Exodus 14]], noting which details are selected, intensified, or omitted. [[Numbers 33]] also recounts the Marah-Elim itinerary, without thereby establishing literary independence. [[Joshua 2]] provides a canonical counterpart to the anticipated fear of Canaan's inhabitants. [[Psalm 118]] and [[Isaiah 12]] share the strength-song-salvation formula, though the direction of literary dependence is not settled. [[Revelation 15]] invokes the song of Moses in a later vision of victory and worship; the phrase may evoke the wider Moses-song tradition, including Deuteronomy 32, rather than Exodus 15 alone.
+Compare the poem with the preceding narrative in [[Exodus 14]], attending to which events the song selects, condenses, or intensifies. [[Numbers 33]] also recounts the Marah-to-Elim itinerary, without thereby establishing literary independence. [[Joshua 2]] provides a narrative counterpart to the anticipated fear of Canaan's inhabitants. [[Psalm 118]] and [[Isaiah 12]] share the strength-song-salvation formula, though verbal correspondence alone does not determine the direction of literary dependence. [[Isaiah 51]] (51:9-10) uses closely related exodus imagery—drying the sea, "the depths," and the redeemed passing over—inviting comparison with Exodus 15:13-16, though whether either text draws directly on the other, or both draw on a shared exodus tradition, remains unresolved. [[Revelation 15]] names a song of Moses in a later victory vision, but the reference may invoke a broader Moses-song tradition, including Deuteronomy 32, rather than Exodus 15 exclusively.
 <!-- SG:END further-study -->
