@@ -23,7 +23,11 @@ Scripture: [[1 Nephi 14]] · My notes: [[1 Nephi 14 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Conditional blessing and judgment (vv. 1–7):** Gentile hearkening and repentance lead to covenant inclusion; hardening leads toward captivity and destruction.
+2. **Two worldwide allegiances (vv. 8–14):** The angel contrasts the church of the Lamb with the great and abominable church. The saints are few and scattered but armed with righteousness and divine power.
+3. **Conflict and covenant fulfillment (vv. 15–17):** Wars among the opposing nations prepare the way for the Father's work in fulfilling his covenants with Israel.
+4. **John and the written apocalypse (vv. 18–27):** John is appointed to write the remainder of the vision and the end of the world.
+5. **Nephi's closing testimony (vv. 28–30):** Nephi acknowledges the restricted and partial character of his record while affirming its truth and its continuity with Lehi's vision.
 <!-- SG:END structure -->
 
 ## People
@@ -63,18 +67,22 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Kingdom of God]]
+- [[Satan and Temptation]]
+- [[Apostles]]
+- [[Covenants]]
+- [[Jews and Gentiles]]
+- [[Records and Sacred Writings]]
+- [[War and Peace]]
 - [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
-- [[Angels]] *(keyword match — unconfirmed)*
-- [[Gathering of Israel]] *(keyword match — unconfirmed)*
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
-- [[Covenants]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter links [[Repentance]] with covenant inclusion: Gentiles who hearken to the Lamb and do not harden their hearts may be numbered among Israel (1 Nephi 14:1–2, 5). This contributes to [[Gathering of Israel]] by presenting ancestry alone as insufficient to describe the promised inclusion.
+
+Verse 7 makes the great and marvelous work morally consequential, producing either peace and [[Eternal Life]] or hardness, blindness, captivity, and destruction. The passage does not fully explain the causal mechanism. It may describe revelation exposing a chosen response, judicial delivery to hardness, or some combination of the two.
+
+Verses 3–4 describe retributive reversal: those who prepare destruction for others fall into their own pit, a result the text explicitly associates with divine justice. Verse 14 portrays the scattered saints and covenant people as armed with righteousness and the power of God despite their small dominions.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -99,25 +107,52 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter is organized through repeated oppositions: hearkening or hardening, repentance or perishing, peace or captivity, life or destruction, Lamb or devil. The repeated language of hearts makes the conflict a matter of moral allegiance as well as collective history.
+
+The word **church** in verses 10–14 operates on an unusually comprehensive scale. Every person is placed within one of two camps, and both camps span nations. That usage supports an apocalyptic or symbolic sense broader than a simple list of formal denominations.
+
+The spatial language also creates a deliberate paradox: the Lamb's church is on “all the face of the earth,” yet its numbers and dominions are small. Worldwide presence and worldly dominance are treated as different things.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The closest biblical intertext is [[Revelation 17]]. Both accounts present a female opponent seated on many waters, associate her with abominations or harlots, give her worldwide reach, and depict conflict with the Lamb. [[Revelation 13]] supplies additional parallels involving worldwide power and war against the saints. These correspondences are strong as literary observations, although they cannot determine whether the relationship reflects shared revelation, translation into biblical language, direct textual dependence, or modern composition.
+
+The ending also explains why Nephi's apocalypse stops where it does. John is assigned the remainder, while Nephi is forbidden to write it. This restricted-disclosure motif makes the absence of further detail part of the narrative itself and connects the chapter with [[Records and Sacred Writings]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Intertextuality
+> The concentrated parallels with Revelation 17 provide strong evidence of a deliberate literary or revelatory relationship between the two presentations. They do not by themselves determine the historical direction or mechanism of that relationship.
+> — strength 0.6 · confidence 0.9 · deliberate textual relationship likely; explanation contested · [[Literary Intertextuality in 1 Nephi 14|full dossier]]
+
+> [!evidence] Internal Attribution
+> Nephi's identification of John supplies an explicit internal explanation for the overlap between his vision and a Johannine apocalypse. Because the identification is made within the Book of Mormon account itself, it is not independent historical corroboration of either authorship claim.
+> — strength 0.3 · confidence 0.9 · internal attribution accepted; external authorship disputed · [[Internal Attribution in 1 Nephi 14|full dossier]]
+
+> [!evidence] Intertextual / Literary Parallel
+> 1 Nephi 14:11's description of a 'whore' who 'sat upon many waters' echoes Revelation 17:1's description of 'the great whore that sitteth upon many waters,' suggesting the two passages draw on related apocalyptic imagery of a corrupt world-power personified as a woman enthroned on waters.
+> — strength 0.6 · confidence 1.0 · strong literary parallel; historical mechanism disputed · [[Intertextual / Literary Parallel in 1 Nephi 14|full dossier]]
+
+> [!evidence] Textual Scope / Historical Reception *(tentative)*
+> The text names no specific historical church, denomination, or institution as 'the great and abominable church'; it is described only functionally, as whatever does not belong to 'the church of the Lamb of God.' Historically, some readers and interpreters have applied this label to particular denominations, a move the chapter's own wording does not require or support.
+> — strength 0.5 · confidence 0.7 · textual caution sound; reception claims undocumented
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Does verse 14 use “the saints” and “the covenant people” as two descriptions of one community, or as overlapping communities receiving the same power?
+2. What does the chapter’s universal division into two churches support, and what remains uncertain about identifying either symbol with historical institutions?
+3. How does the conditional language of verses 1–7 qualify readings that treat the Gentiles’ blessing or destruction as predetermined?
+4. What do “one of the twelve,” John’s end-of-world commission, and the Jewish book support about his narrative identity? What can they not establish about the historical authorship of Revelation?
+5. What can the parallels with [[Revelation 17]] establish securely, and which historical conclusions remain beyond the literary evidence?
+6. Who might the unnamed “others” in verse 26 be, and why does the chapter leave their sealed writings unidentified?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read 1 Nephi 14 as the conclusion of [[1 Nephi 11]], [[1 Nephi 12]], and [[1 Nephi 13]], tracking the Lamb, the Gentiles, scattered Israel, and sacred records across the full vision. Compare verses 9–17 with [[Revelation 17]] and, secondarily, [[Revelation 13]], noting both the clustered imagery and differences in sequence.
+
+For broader context, compare the many-waters image with Jeremiah 51:13 and the pit reversal with Psalm 7, Psalm 9, Proverbs 26, and Ecclesiastes 10. These are useful motif comparisons but do not establish direct quotation. Compare covenant inclusion with [[Romans 11]], later covenant teaching with [[1 Nephi 22]], and the great and marvelous work with [[3 Nephi 21]], preserving each passage’s distinct setting and claims.
 <!-- SG:END further-study -->
