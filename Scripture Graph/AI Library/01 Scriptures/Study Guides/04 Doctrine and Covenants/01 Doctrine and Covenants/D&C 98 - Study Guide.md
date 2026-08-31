@@ -17,12 +17,20 @@ Scripture: [[D&C 98]] · My notes: [[D&C 98 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 98 joins consolation with demanding moral instruction. Afflicted disciples are told to rejoice, give thanks, wait patiently, and trust that their prayers are recorded. The chapter then treats [[Government and Laws]], covenant loyalty, internal church repentance, [[War and Peace]], and [[Repentance and Forgiveness]]. Its recurring concern is how a covenant community should respond to wrongdoing without becoming governed by fear, revenge, pride, or unchecked power.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A coherent progression can be traced:
+
+1. **Comfort amid affliction (vv. 1–3):** prayer, patience, gratitude, and promised ultimate good.
+2. **Law and public responsibility (vv. 4–10):** constitutional freedom, rights, and the character of rulers.
+3. **Covenant testing and peace (vv. 11–18):** progressive instruction, endurance, renunciation of war, reconciliation, and promised dwelling with Christ.
+4. **Judgment beginning within the church (vv. 19–22):** Kirtland members are rebuked and called to repent.
+5. **Personal and family aggression (vv. 23–32):** patient endurance, warning, restrained defensive action, and the greater reward for sparing an enemy.
+6. **Collective warfare (vv. 33–38):** no battle without divine command and three rejected peace offerings.
+7. **Forgiveness, restitution, and generational consequences (vv. 39–48):** repeated forgiveness remains central, while repentance and restoration terminate vengeance.
 <!-- SG:END structure -->
 
 ## People
@@ -40,34 +48,39 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
 - [[D&C 27]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
-- [[Exodus 20]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
 - [[Numbers 14]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
-- [[Deuteronomy 5]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Exodus 34]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
 - [[D&C 18]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 18#^dc-18-5|D&C 18:5]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-11|D&C 98:11]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
 - [[D&C 90]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-21|D&C 98:21]] ↔ [[D&C 90#^dc-90-36|D&C 90:36]]
-- [[Luke 1]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[Luke 1#^luke-1-17|Luke 1:17]]
 - [[D&C 110]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
+- [[3 Nephi 18]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-11|D&C 98:11]] ↔ [[3 Nephi 18#^3ne-18-12|3 Nephi 18:12]]
+- [[James 5]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[James 5#^james-5-4|James 5:4]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]]
+- [[D&C 10]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 10#^dc-10-69|D&C 10:69]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
 - [[Freedom and Liberty]]
+- [[Repentance and Forgiveness]]
+- [[Covenants]]
+- [[Government and Laws]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
-- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
-- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter holds [[Justice and Mercy]] together through a sequence of restraint, warning, accountability, repentance, restitution, and forgiveness. Mercy does not erase concern for victims or public safety, but justified force is surrounded by conditions, and sparing an enemy receives explicit praise. Repentance also remains possible after grave and repeated wrongdoing.
+
+Its teaching on [[Freedom and Liberty]] is qualified by moral content. The law commended is constitutional law that supports freedom and maintains rights and privileges belonging to humanity. This supplies a scriptural principle for evaluating governments, but it does not settle every constitutional or policy dispute.
+
+The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'line upon line' brings responsibility, and fidelity may demand endurance under severe pressure.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,22 +113,30 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+D&C 98 is densely woven from biblical language. Its opening recalls [[1 Thessalonians 5]]; afflictions working for good recalls [[Romans 8]]; the mourning of people under wicked rulers recalls [[Proverbs 29]]; turning fathers and children invokes [[Malachi 4]]; the many mansions and prepared place closely follow [[John 14]]; and 'seventy times seven' points to [[Matthew 18]]. These parallels establish a deliberate scriptural register. They do not, by themselves, decide competing claims about the revelation's origin or process.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly uses patterned escalation. Three patient responses precede a formal warning in verses 23–29; three offers of peace precede possible authorization for battle in verses 33–36; and three forgiven but unrepented trespasses precede bringing testimony before the Lord in verses 41–44. In each sequence, time and repeated opportunities intervene before stronger action. This pattern supports a reading in which de-escalation is structurally prior to retaliation.
+
+A second pattern places divine judgment between injury and vengeance. Testimonies are brought before the Lord, the Lord gives the command concerning battle, and the Lord promises vengeance. This rhetoric restrains immediate private retaliation, although the text still conditionally permits defensive force.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Intertextuality
+> The concentration of close biblical phrases is strong evidence that D&C 98 deliberately speaks in a scriptural register and invites interpretation through biblical texts. This observation has little power by itself to determine whether the revelation's ultimate origin is divine, human, or some combination understood through a theology of revelation.
+> — strength 0.7 · confidence 0.9 · Multiple parallels accepted; intentionality moderately inferred · [[Literary Intertextuality in D&C 98|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does 'constitutional' in verses 5–7 describe any law enacted under a constitution, or only law that actually maintains freedom, rights, and privileges?
+- How should the unconditional forgiveness commanded for the first three unrepented offenses be related to the later requirements of repentance and fourfold restitution?
+- What would count as a divine command to battle under verses 33–36, and can a modern state responsibly claim such authorization?
+- Does the third-and-fourth-generation language describe inherited punishment, continuing collective hostility, or consequences sustained only by descendants who continue to hate God? How does verse 47 qualify each possibility?
+- Why does the chapter interrupt its response to external aggression with a rebuke of pride and covetousness inside the Kirtland church?
 <!-- SG:END questions -->
 
 ## Further Study
