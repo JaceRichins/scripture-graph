@@ -52,24 +52,23 @@ The chapter presents Jehu as an agent of announced judgment and a selective refo
 - [[2 Kings 13]] — 2 footnote cross-references (from [[2 Kings 10#^2kgs-10-29|2 Kings 10:29]])
 - [[2 Kings 15]] — 2 footnote cross-references (from [[2 Kings 10#^2kgs-10-29|2 Kings 10:29]])
 - [[1 Samuel 3]] — 1 footnote cross-reference (from [[2 Kings 10#^2kgs-10-10|2 Kings 10:10]])
-- [[2 Kings 15]] — 17 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 15#^2kgs-15-21|2 Kings 15:21]]
 - [[1 Kings 16]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
-- [[2 Kings 13]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]]
 - [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
 - [[2 Kings 21]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
 - [[1 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 24]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
 - [[2 Kings 1]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]]
+- [[2 Kings 8]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
+- [[2 Kings 12]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]]
+- [[2 Kings 16]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
@@ -114,9 +113,21 @@ Juxtaposition also shapes the chapter's evaluation. “Jehu destroyed Baal” is
 > The juxtaposition of divine commendation in verse 30 with explicit condemnation in verses 29 and 31 is strong internal evidence that the narrative does not present Jehu's role as an unqualified endorsement of his whole reign or character.
 > — strength 0.9 · confidence 1.0 · strong evidence; scope of individual approval disputed · [[Internal Literary Characterization in 2 Kings 10|full dossier]]
 
+> [!evidence] Internal Narrative Evaluation
+> The chapter gives Jehu explicit approval for carrying out judgment upon Ahab's house, but it does not give him unqualified approval: the narrator immediately identifies his continued adherence to Jeroboam's calves and his failure to walk in the law with all his heart. This is strong internal evidence that success in a particular commission is distinguished from comprehensive covenant faithfulness.
+> — strength 0.9 · confidence 1.0 · broadly accepted with scope caveat · [[Internal Narrative Evaluation in 2 Kings 10|full dossier]]
+
 > [!evidence] Narrative And Theological Complexity
 > The narrative simultaneously attributes Ahab's fall to the Lord's word and depicts identifiable human choices: Jehu plots and commands, frightened officials comply, and soldiers execute the killings. This layered presentation supports study of divine judgment without erasing human agency or responsibility.
 > — strength 0.8 · confidence 1.0 · accepted observation; moral implications disputed · [[Narrative And Theological Complexity in 2 Kings 10|full dossier]]
+
+> [!evidence] Textual/Grammatical *(tentative)*
+> The divine commendation in verse 30 grammatically commends Jehu specifically for what he 'hast done unto the house of Ahab,' the same object identified by the prophetic-fulfillment formulas in verses 10 and 17. This supports, but does not prove, a narrower reading in which the text's explicit approval covers the destruction of Ahab's dynasty without necessarily extending an equivalent verdict to the killing of Ahaziah's kinsmen or the deception-based massacre of Baal's worshippers, neither of which the divine speech mentions.
+> — strength 0.6 · confidence 0.7 · accepted wording; disputed scope
+
+> [!evidence] Archaeological/Epigraphic *(tentative)*
+> Jehu is one of the few Israelite kings named in a contemporary extrabiblical source: the Black Obelisk of Shalmaneser III (conventionally dated to the Assyrian king's 18th year, ca. 841 BC) depicts a kneeling figure labeled 'Iaua, son of Omri' presenting tribute, an inscription widely identified by historians with Jehu of Israel, whose twenty-eight-year reign is recorded in 2 Kings 10:36.
+> — strength 0.7 · confidence 0.9 · identification broadly accepted; depiction wording qualified
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -138,5 +149,9 @@ Juxtaposition also shapes the chapter's evaluation. “Jehu destroyed Baal” is
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Read [[1 Kings 21]] for Elijah's judgment against Ahab's house and [[2 Kings 9]] for Jehu's commission and coup. Compare [[1 Kings 12]] with 2 Kings 10:29–31 for the origin of the calves at Beth-el and Dan. Trace the four generations after Jehu through [[2 Kings 13]], [[2 Kings 14]], and [[2 Kings 15]], where the dynastic word is recalled. Compare [[2 Kings 23]] for a differently evaluated destruction of idolatrous institutions. [[Hosea 1]] supplies a disputed later perspective on the blood of Jezreel. [[Jeremiah 35]] recalls Jonadab son of Rechab as the Rechabites' ancestor; this is probably the Jehonadab of 2 Kings 10, although the spelling and retrospective setting should be noted.
+Read [[1 Kings 21]] for Elijah's judgment against Ahab's house and [[2 Kings 9]] for Jehu's commission and coup. Compare [[1 Kings 12]] with 2 Kings 10:29–31 for the origin of the calves at Beth-el and Dan. Trace the four generations after Jehu through [[2 Kings 13]], [[2 Kings 14]], and [[2 Kings 15]], where the dynastic word is explicitly recalled. Compare [[2 Kings 23]] for a differently evaluated destruction of idolatrous institutions.
+
+[[Hosea 1]] pronounces judgment concerning “the blood of Jezreel.” Its relationship to 2 Kings 10:30 is disputed: it may address Jehu's purge, the manner or legacy of that violence, or later violence associated with his dynasty. The passages should be studied together without forcing either into a simple reversal of the other. [[Jeremiah 35]] recalls Jonadab son of Rechab as the Rechabites' ancestor; this is probably the Jehonadab of 2 Kings 10, though the identification is not made explicitly.
+
+The Black Obelisk of Shalmaneser III attributes tribute to “Jehu” of the land or house of Omri and is conventionally dated to about 841 BC. The kneeling figure may represent Jehu personally or an envoy. This external evidence supports the historical existence of Jehu's kingship and interaction with Assyria; it does not verify the coup, killings, or Baal purge narrated in this chapter.
 <!-- SG:END further-study -->
