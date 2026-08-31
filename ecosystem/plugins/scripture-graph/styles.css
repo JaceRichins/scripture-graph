@@ -1986,3 +1986,560 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
 .sg-empty-section.sg-empty-open .sg-empty-badge {
   border-color: color-mix(in srgb, var(--interactive-accent) 40%, transparent);
 }
+
+/* ══════════════════════════════════════════════════════════════════════════
+   SCRIPTURE SCENES — particular places in the text, not moods.
+
+   Each is gradients plus the inline SVG art from sceneKit.ts: a few KB, no
+   image files, no downloads. Same contract as the ambient scenes — every
+   scene defines its own .sgl-scrim so the text stays readable over it, and a
+   body[data-sg-scene=…] ink palette so headings and links keep their contrast.
+   Motion is transform/opacity only and is disabled under reduced-motion by
+   the shared rule elsewhere in this file.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+/* ── ✨ Bountiful: the temple, the multitude, and the light coming down ── */
+.sg-scene-bountiful .sgl-1 {
+  background: linear-gradient(180deg, #050a1c 0%, #0b1430 46%, #131b33 74%, #070a14 100%);
+}
+.sg-scene-bountiful .sgl-2 {
+  bottom: auto; height: 58%;
+  background-repeat: repeat; background-size: 1200px 420px;
+  -webkit-mask-image: linear-gradient(180deg, #000 62%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 62%, transparent 100%);
+  animation: sg-twinkle 10s ease-in-out infinite alternate;
+}
+.sg-scene-bountiful .sgl-3 { /* the descent itself: a column of light, breathing */
+  background: linear-gradient(180deg, rgba(214, 232, 255, 0.42) 0%, rgba(190, 216, 255, 0.20) 42%,
+    rgba(170, 200, 255, 0.07) 72%, transparent 88%);
+  -webkit-mask-image: linear-gradient(90deg, transparent 30%, #000 44%, #000 56%, transparent 70%);
+  mask-image: linear-gradient(90deg, transparent 30%, #000 44%, #000 56%, transparent 70%);
+  animation: sg-descend 11s ease-in-out infinite alternate;
+}
+@keyframes sg-descend {
+  from { opacity: 0.62; transform: translateY(-2%); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.sg-scene-bountiful .sgl-4 {
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: min(700px, 104%) 30%;
+}
+.sg-scene-bountiful .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 9%;
+}
+.sg-scene-bountiful .sgl-6 { /* the glory pooling on the ground before the temple */
+  background: radial-gradient(58% 26% at 50% 84%, rgba(206, 226, 255, 0.30) 0%, transparent 70%);
+  animation: sg-halo 8s ease-in-out infinite alternate;
+}
+.sg-scene-bountiful .sgl-scrim {
+  background: linear-gradient(180deg, rgba(5, 8, 18, 0.50) 0%, rgba(5, 8, 18, 0.30) 28%,
+    rgba(5, 8, 18, 0.36) 76%, rgba(5, 8, 18, 0.56) 100%);
+}
+body[data-sg-scene="bountiful"] { --sg-ink: #e4ecff; --sg-ink-strong: #f6f9ff; --sg-ink-accent: #bcd4ff; }
+
+/* ── 🫒 Gethsemane: an olive grove at night, one light low among the trees ── */
+.sg-scene-gethsemane .sgl-1 {
+  background: linear-gradient(180deg, #060b12 0%, #08120f 44%, #0a1610 72%, #04080a 100%);
+}
+.sg-scene-gethsemane .sgl-2 { /* the moon, small and cold, behind the branches */
+  background: radial-gradient(circle at 76% 15%, rgba(226, 236, 226, 0.82) 0 4px,
+    rgba(190, 214, 194, 0.16) 5px 34px, transparent 76px);
+  animation: sg-halo 13s ease-in-out infinite alternate;
+}
+.sg-scene-gethsemane .sgl-3,
+.sg-scene-gethsemane .sgl-4 {
+  background-repeat: repeat-x; background-position: top; background-size: 130% 38%;
+  animation: sg-parallax 150s linear infinite alternate;
+}
+.sg-scene-gethsemane .sgl-4 { background-size: 118% 50%; animation-duration: 190s; opacity: 0.94; }
+.sg-scene-gethsemane .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 22%;
+}
+.sg-scene-gethsemane .sgl-6 { /* the one lamp on the ground, guttering */
+  background: radial-gradient(26% 16% at 47% 79%, rgba(255, 206, 132, 0.30) 0%,
+    rgba(255, 186, 104, 0.10) 46%, transparent 74%);
+  animation: sg-flicker 7s ease-in-out infinite;
+}
+.sg-scene-gethsemane .sgl-scrim {
+  background: linear-gradient(180deg, rgba(3, 7, 6, 0.56) 0%, rgba(3, 7, 6, 0.38) 28%,
+    rgba(3, 7, 6, 0.42) 76%, rgba(3, 7, 6, 0.62) 100%);
+}
+body[data-sg-scene="gethsemane"] { --sg-ink: #dfe8dd; --sg-ink-strong: #f2f7f0; --sg-ink-accent: #cbb98a; }
+
+/* ── ✝️ Golgotha: the sixth hour, and darkness over all the land ── */
+.sg-scene-golgotha .sgl-1 {
+  background: linear-gradient(180deg, #120d14 0%, #1b1218 40%, #241820 66%, #0b0709 100%);
+}
+.sg-scene-golgotha .sgl-2 { /* the sun, smothered rather than set */
+  background: radial-gradient(circle at 62% 30%, rgba(190, 130, 96, 0.26) 0 30px,
+    rgba(150, 96, 74, 0.10) 31px 130px, transparent 240px);
+  animation: sg-dim 17s ease-in-out infinite alternate;
+}
+@keyframes sg-dim { from { opacity: 0.5; } to { opacity: 0.9; } }
+.sg-scene-golgotha .sgl-3 {
+  background-repeat: repeat-x; background-position: top; background-size: 150% 44%;
+  opacity: 0.9;
+  animation: sg-parallax 170s linear infinite alternate;
+}
+.sg-scene-golgotha .sgl-4 { /* a low, bruised light along the horizon */
+  background: linear-gradient(180deg, transparent 52%, rgba(168, 96, 74, 0.16) 76%,
+    rgba(90, 44, 40, 0.24) 100%);
+}
+.sg-scene-golgotha .sgl-5 { /* the hill and the three crosses */
+  background-repeat: repeat-x; background-position: bottom; background-size: 130% 34%;
+}
+.sg-scene-golgotha .sgl-scrim {
+  background: linear-gradient(180deg, rgba(8, 5, 7, 0.54) 0%, rgba(8, 5, 7, 0.34) 26%,
+    rgba(8, 5, 7, 0.40) 74%, rgba(8, 5, 7, 0.62) 100%);
+}
+body[data-sg-scene="golgotha"] { --sg-ink: #e8dcd8; --sg-ink-strong: #f8efea; --sg-ink-accent: #e0a58c; }
+
+/* ── 🌄 The empty tomb: very early, while it was yet dark, toward the dawn ── */
+.sg-scene-tomb .sgl-1 {
+  background: linear-gradient(180deg, #101a2c 0%, #23283a 34%, #4a3c38 66%, #6b4a30 100%);
+}
+.sg-scene-tomb .sgl-2 { /* first light behind the hill */
+  background: radial-gradient(78% 46% at 22% 92%, rgba(255, 208, 140, 0.44) 0%,
+    rgba(255, 170, 104, 0.16) 44%, transparent 76%);
+  animation: sg-dawn-breathe 15s ease-in-out infinite alternate;
+}
+.sg-scene-tomb .sgl-3 { /* the light *inside* reaching out of the opening */
+  background: radial-gradient(40% 34% at 48% 74%, rgba(255, 240, 206, 0.36) 0%,
+    rgba(255, 226, 170, 0.12) 48%, transparent 76%);
+  animation: sg-halo 6s ease-in-out infinite alternate;
+}
+.sg-scene-tomb .sgl-4 {
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: 100% 62%;
+}
+.sg-scene-tomb .sgl-5 { /* morning haze off the garden floor */
+  left: -20%; right: -20%;
+  background: linear-gradient(100deg, transparent 28%, rgba(255, 230, 200, 0.08) 46%,
+    transparent 62%, rgba(255, 230, 200, 0.06) 80%, transparent 94%);
+  animation: sg-haze 44s linear infinite;
+}
+.sg-scene-tomb .sgl-scrim {
+  background: linear-gradient(180deg, rgba(10, 8, 10, 0.50) 0%, rgba(10, 8, 10, 0.30) 26%,
+    rgba(10, 8, 10, 0.36) 74%, rgba(10, 8, 10, 0.56) 100%);
+}
+body[data-sg-scene="tomb"] { --sg-ink: #f4e9d8; --sg-ink-strong: #fff8ea; --sg-ink-accent: #ffcf94; }
+
+/* ── 🌊 The sea parted: two walls standing, the dry ground between ── */
+.sg-scene-redsea .sgl-1 {
+  background: linear-gradient(180deg, #04101c 0%, #071c2b 44%, #0a2131 70%, #050d14 100%);
+}
+.sg-scene-redsea .sgl-2 { /* the pillar of fire behind the people */
+  background: radial-gradient(22% 62% at 50% 74%, rgba(255, 178, 96, 0.34) 0%,
+    rgba(255, 140, 66, 0.12) 46%, transparent 74%);
+  animation: sg-flicker 5.5s ease-in-out infinite;
+}
+.sg-scene-redsea .sgl-3 { /* the dry path, running away between the walls */
+  background: linear-gradient(180deg, transparent 56%, rgba(120, 96, 62, 0.30) 78%,
+    rgba(88, 68, 42, 0.52) 100%);
+}
+.sg-scene-redsea .sgl-4,
+.sg-scene-redsea .sgl-5 {
+  background-repeat: no-repeat; background-size: 32% 92%;
+}
+.sg-scene-redsea .sgl-4 {
+  background-position: left bottom;
+  animation: sg-wall-heave 8s ease-in-out infinite alternate;
+}
+.sg-scene-redsea .sgl-5 {
+  /* the far wall. NOT scaleX(-1): mirroring a full-width layer swings its
+     'right bottom' art over to the left, stacking both walls on one side.
+     A different seed and an offset delay give the two walls their difference. */
+  background-position: right bottom;
+  animation: sg-wall-heave 8s ease-in-out infinite alternate;
+  animation-delay: -3.4s;
+}
+@keyframes sg-wall-heave {
+  from { transform: translateY(1.2%) scaleY(0.99); }
+  to { transform: translateY(-0.8%) scaleY(1.01); }
+}
+.sg-scene-redsea .sgl-6 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 10%;
+}
+.sg-scene-redsea .sgl-7 { /* spray hanging in the corridor */
+  background: linear-gradient(90deg, rgba(154, 216, 239, 0.10) 0%, transparent 24%,
+    transparent 76%, rgba(154, 216, 239, 0.10) 100%);
+  animation: sg-halo 9s ease-in-out infinite alternate;
+}
+.sg-scene-redsea .sgl-scrim {
+  background: linear-gradient(180deg, rgba(4, 10, 16, 0.50) 0%, rgba(4, 10, 16, 0.28) 28%,
+    rgba(4, 10, 16, 0.34) 74%, rgba(4, 10, 16, 0.58) 100%);
+}
+body[data-sg-scene="redsea"] { --sg-ink: #dcecf4; --sg-ink-strong: #f0f9fd; --sg-ink-accent: #86d3ef; }
+
+/* ── 🌳 The grove: a spring morning, and a pillar of light ── */
+.sg-scene-grove .sgl-1 {
+  background: linear-gradient(180deg, #9ec4d8 0%, #b6d1c4 26%, #7fa171 58%, #24361f 100%);
+}
+.sg-scene-grove .sgl-2 { /* the pillar, above the brightness of the sun */
+  background: linear-gradient(180deg, rgba(255, 253, 240, 0.72) 0%, rgba(255, 248, 214, 0.34) 38%,
+    rgba(255, 240, 190, 0.10) 70%, transparent 86%);
+  -webkit-mask-image: linear-gradient(90deg, transparent 34%, #000 46%, #000 55%, transparent 66%);
+  mask-image: linear-gradient(90deg, transparent 34%, #000 46%, #000 55%, transparent 66%);
+  animation: sg-descend 9s ease-in-out infinite alternate;
+}
+.sg-scene-grove .sgl-3,
+.sg-scene-grove .sgl-4 {
+  background-repeat: repeat-x; background-position: top; background-size: 128% 40%;
+  animation: sg-parallax 140s linear infinite alternate;
+}
+.sg-scene-grove .sgl-4 { background-size: 116% 54%; animation-duration: 180s; }
+.sg-scene-grove .sgl-5 { /* sun through the leaves, warming the whole grove */
+  background: radial-gradient(60% 44% at 50% 10%, rgba(255, 250, 214, 0.30) 0%, transparent 72%);
+  animation: sg-halo 10s ease-in-out infinite alternate;
+}
+.sg-scene-grove .sgl-6 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 20%;
+}
+.sg-scene-grove .sgl-scrim {
+  background: linear-gradient(180deg, rgba(10, 18, 10, 0.44) 0%, rgba(10, 18, 10, 0.32) 28%,
+    rgba(10, 18, 10, 0.38) 74%, rgba(10, 18, 10, 0.58) 100%);
+}
+body[data-sg-scene="grove"] { --sg-ink: #eef6e6; --sg-ink-strong: #fbfff4; --sg-ink-accent: #ffe9a8; }
+
+/* ── 🧭 The Liahona: the wilderness at first light, and the ball that points ── */
+.sg-scene-liahona .sgl-1 {
+  background: linear-gradient(180deg, #1b1428 0%, #3a2436 34%, #7a4a2c 68%, #2a180e 100%);
+}
+.sg-scene-liahona .sgl-2,
+.sg-scene-liahona .sgl-3 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 26%;
+  animation: sg-parallax 160s linear infinite alternate;
+}
+.sg-scene-liahona .sgl-3 { background-size: 130% 34%; animation-duration: 110s; }
+.sg-scene-liahona .sgl-4 { /* the writing on it changes; the light does too */
+  background: radial-gradient(24% 20% at 50% 52%, rgba(255, 216, 138, 0.34) 0%,
+    rgba(255, 186, 96, 0.12) 48%, transparent 76%);
+  animation: sg-halo 5.5s ease-in-out infinite alternate;
+}
+.sg-liahona {
+  position: absolute; top: 34%; left: 50%;
+  width: min(190px, 26vw); height: min(190px, 26vw);
+  margin-left: min(-95px, -13vw);
+  background-repeat: no-repeat; background-position: center; background-size: contain;
+  filter: drop-shadow(0 0 22px rgba(255, 200, 120, 0.5));
+  animation: sg-hover 12s ease-in-out infinite alternate;
+}
+@keyframes sg-hover {
+  from { transform: translateY(-1.6%) rotate(-1.4deg); }
+  to { transform: translateY(1.6%) rotate(1.4deg); }
+}
+.sg-scene-liahona .sgl-scrim {
+  background: linear-gradient(180deg, rgba(14, 8, 6, 0.50) 0%, rgba(14, 8, 6, 0.32) 28%,
+    rgba(14, 8, 6, 0.38) 76%, rgba(14, 8, 6, 0.58) 100%);
+}
+body[data-sg-scene="liahona"] { --sg-ink: #f4e6cd; --sg-ink-strong: #fff6e2; --sg-ink-accent: #ffc678; }
+
+/* ── 🌟 The tree of life: white above all whiteness, the rod, and the mist ── */
+.sg-scene-treeoflife .sgl-1 {
+  background: linear-gradient(180deg, #060a16 0%, #0c1224 44%, #141a2c 72%, #05080f 100%);
+}
+.sg-scene-treeoflife .sgl-2 {
+  bottom: auto; height: 62%;
+  background-repeat: repeat; background-size: 1200px 500px;
+  -webkit-mask-image: linear-gradient(180deg, #000 60%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 60%, transparent 100%);
+  animation: sg-twinkle 12s ease-in-out infinite alternate;
+}
+.sg-scene-treeoflife .sgl-3 { /* the tree's own light, which is the point */
+  background: radial-gradient(40% 34% at 50% 46%, rgba(246, 246, 232, 0.34) 0%,
+    rgba(230, 232, 214, 0.12) 46%, transparent 76%);
+  animation: sg-halo 7s ease-in-out infinite alternate;
+}
+.sg-scene-treeoflife .sgl-4 {
+  background-repeat: no-repeat; background-position: center 62%;
+  background-size: min(660px, 96%) 56%;
+}
+.sg-scene-treeoflife .sgl-5 { /* the rod of iron along the bank */
+  background-repeat: repeat-x; background-position: bottom; background-size: 150% 22%;
+  opacity: 0.9;
+}
+.sg-scene-treeoflife .sgl-6 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 12%;
+}
+.sg-scene-treeoflife .sgl-7 { /* mists of darkness, gathering at the edges */
+  background: radial-gradient(120% 60% at 50% 78%, transparent 34%, rgba(6, 8, 14, 0.62) 88%);
+  animation: sg-halo 16s ease-in-out infinite alternate;
+}
+.sg-scene-treeoflife .sgl-scrim {
+  background: linear-gradient(180deg, rgba(5, 7, 13, 0.50) 0%, rgba(5, 7, 13, 0.30) 28%,
+    rgba(5, 7, 13, 0.36) 76%, rgba(5, 7, 13, 0.58) 100%);
+}
+body[data-sg-scene="treeoflife"] { --sg-ink: #e8ecf6; --sg-ink-strong: #fbfcff; --sg-ink-accent: #dfe4d0; }
+
+/* ── 🔥 The burning bush: the flame that does not consume ── */
+.sg-scene-bush .sgl-1 {
+  background: linear-gradient(180deg, #2a1a20 0%, #46281c 38%, #6a3c1c 68%, #1c100a 100%);
+}
+.sg-scene-bush .sgl-2,
+.sg-scene-bush .sgl-3 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 30%;
+  animation: sg-parallax 170s linear infinite alternate;
+}
+.sg-scene-bush .sgl-3 { background-size: 130% 20%; animation-duration: 120s; }
+.sg-scene-bush .sgl-4 { /* the ground round about made holy by the light */
+  background: radial-gradient(46% 30% at 50% 80%, rgba(255, 176, 92, 0.34) 0%,
+    rgba(255, 140, 60, 0.12) 46%, transparent 76%);
+  animation: sg-flicker 4.5s ease-in-out infinite;
+}
+.sg-bush {
+  position: absolute; bottom: 8%; left: 50%;
+  width: min(360px, 48vw); height: min(300px, 40vw);
+  margin-left: min(-180px, -24vw);
+  background-repeat: no-repeat; background-position: center bottom; background-size: contain;
+  filter: drop-shadow(0 0 26px rgba(255, 150, 60, 0.5));
+  animation: sg-flicker 3.5s ease-in-out infinite;
+}
+.sg-scene-bush .sgl-scrim {
+  background: linear-gradient(180deg, rgba(16, 9, 6, 0.52) 0%, rgba(16, 9, 6, 0.32) 28%,
+    rgba(16, 9, 6, 0.38) 76%, rgba(16, 9, 6, 0.58) 100%);
+}
+body[data-sg-scene="bush"] { --sg-ink: #f6e4cc; --sg-ink-strong: #fff4e0; --sg-ink-accent: #ffb56a; }
+
+/* ── ⭐ The Nativity: a stable, and one star standing over it ── */
+.sg-scene-nativity .sgl-1 {
+  background: linear-gradient(180deg, #060b1e 0%, #0d1430 42%, #1a1a2e 72%, #090810 100%);
+}
+.sg-scene-nativity .sgl-2 {
+  bottom: auto; height: 64%;
+  background-repeat: repeat; background-size: 1200px 600px;
+  -webkit-mask-image: linear-gradient(180deg, #000 64%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 64%, transparent 100%);
+  animation: sg-twinkle 8s ease-in-out infinite alternate;
+}
+.sg-scene-nativity .sgl-3 { /* the star, and the shaft of it coming down */
+  background:
+    radial-gradient(circle at 50% 13%, rgba(255, 250, 226, 0.98) 0 3px,
+      rgba(255, 238, 186, 0.55) 4px 12px, rgba(255, 226, 150, 0.14) 13px 60px, transparent 130px),
+    linear-gradient(180deg, rgba(255, 236, 180, 0.16) 12%, transparent 62%);
+  -webkit-mask-image: linear-gradient(90deg, transparent 38%, #000 47%, #000 54%, transparent 63%);
+  mask-image: linear-gradient(90deg, transparent 38%, #000 47%, #000 54%, transparent 63%);
+  animation: sg-halo 6s ease-in-out infinite alternate;
+}
+.sg-scene-nativity .sgl-4 {
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: min(720px, 106%) 44%;
+}
+.sg-scene-nativity .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 8%;
+}
+.sg-scene-nativity .sgl-6 {
+  background: radial-gradient(34% 22% at 50% 82%, rgba(255, 206, 140, 0.26) 0%, transparent 72%);
+  animation: sg-flicker 6.5s ease-in-out infinite;
+}
+.sg-scene-nativity .sgl-scrim {
+  background: linear-gradient(180deg, rgba(6, 6, 14, 0.52) 0%, rgba(6, 6, 14, 0.32) 28%,
+    rgba(6, 6, 14, 0.38) 76%, rgba(6, 6, 14, 0.58) 100%);
+}
+body[data-sg-scene="nativity"] { --sg-ink: #f2e8d4; --sg-ink-strong: #fff9ea; --sg-ink-accent: #ffd88f; }
+
+/* ── 🗻 Sinai: the mount altogether on a smoke, and the people afar off ── */
+.sg-scene-sinai .sgl-1 {
+  background: linear-gradient(180deg, #100c1c 0%, #1c1430 40%, #2a1c2c 70%, #0a0710 100%);
+}
+.sg-scene-sinai .sgl-2 {
+  background-repeat: repeat-x; background-position: top; background-size: 150% 40%;
+  opacity: 0.9;
+  animation: sg-parallax 130s linear infinite alternate;
+}
+.sg-scene-sinai .sgl-3 { /* fire in the cloud on the summit */
+  background: radial-gradient(30% 22% at 52% 26%, rgba(255, 190, 110, 0.30) 0%,
+    rgba(255, 150, 80, 0.10) 48%, transparent 76%);
+  animation: sg-flicker 5s ease-in-out infinite;
+}
+.sg-scene-sinai .sgl-4 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 130% 52%;
+}
+.sg-scene-sinai .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 150% 12%;
+  opacity: 0.95;
+}
+.sg-scene-sinai .sgl-6 {
+  background: linear-gradient(180deg, transparent 40%, rgba(12, 8, 16, 0.34) 100%);
+}
+.sg-scene-sinai .sg-bolt { left: 46%; }
+.sg-scene-sinai .sgl-scrim {
+  background: linear-gradient(180deg, rgba(8, 6, 12, 0.54) 0%, rgba(8, 6, 12, 0.34) 28%,
+    rgba(8, 6, 12, 0.40) 76%, rgba(8, 6, 12, 0.60) 100%);
+}
+body[data-sg-scene="sinai"] { --sg-ink: #e8e2f0; --sg-ink-strong: #f8f4ff; --sg-ink-accent: #ffbe86; }
+
+/* ── 💧 The waters of Mormon: a fountain of pure water in a thicket ── */
+.sg-scene-mormon .sgl-1 {
+  background: linear-gradient(180deg, #0a1c22 0%, #10302c 40%, #0e3a42 70%, #061418 100%);
+}
+.sg-scene-mormon .sgl-2 { /* morning through the trees */
+  background: radial-gradient(52% 34% at 30% 12%, rgba(210, 244, 226, 0.24) 0%, transparent 70%);
+  animation: sg-halo 12s ease-in-out infinite alternate;
+}
+.sg-scene-mormon .sgl-3 {
+  background-repeat: repeat-x; background-position: top; background-size: 126% 34%;
+  animation: sg-parallax 150s linear infinite alternate;
+}
+.sg-scene-mormon .sgl-4 {
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: 100% 66%;
+}
+.sg-scene-mormon .sgl-5 { /* light lying on the surface of the pool */
+  background: radial-gradient(44% 12% at 50% 84%, rgba(150, 232, 236, 0.22) 0%, transparent 74%);
+  animation: sg-halo 8s ease-in-out infinite alternate;
+}
+.sg-scene-mormon .sgl-6 {
+  background: linear-gradient(180deg, transparent 56%, rgba(6, 22, 26, 0.30) 100%);
+}
+.sg-scene-mormon .sgl-scrim {
+  background: linear-gradient(180deg, rgba(5, 16, 18, 0.48) 0%, rgba(5, 16, 18, 0.30) 28%,
+    rgba(5, 16, 18, 0.36) 76%, rgba(5, 16, 18, 0.56) 100%);
+}
+body[data-sg-scene="mormon"] { --sg-ink: #dcf0ea; --sg-ink-strong: #f0fbf6; --sg-ink-accent: #8fe3dc; }
+
+/* ── 🪨 The barges: sealed, tight like a dish, and sixteen stones alight ── */
+.sg-scene-barges .sgl-1 {
+  background: radial-gradient(90% 60% at 50% 50%, #1c1410 0%, #100b08 56%, #060403 100%);
+}
+.sg-scene-barges .sgl-2 { /* the stones' own glow filling the hull */
+  background: radial-gradient(70% 34% at 50% 46%, rgba(255, 214, 148, 0.22) 0%,
+    rgba(255, 186, 110, 0.07) 50%, transparent 78%);
+  animation: sg-halo 7.5s ease-in-out infinite alternate;
+}
+.sg-scene-barges .sgl-3 {
+  background-repeat: no-repeat; background-position: center; background-size: 100% 100%;
+}
+.sg-scene-barges .sgl-4 { /* the sea rolling the vessel, felt rather than seen */
+  background: linear-gradient(180deg, rgba(4, 6, 10, 0.34) 0%, transparent 28%,
+    transparent 72%, rgba(4, 6, 10, 0.40) 100%);
+  animation: sg-roll 14s ease-in-out infinite alternate;
+}
+@keyframes sg-roll {
+  from { transform: rotate(-0.7deg) translateY(-0.6%); }
+  to { transform: rotate(0.7deg) translateY(0.6%); }
+}
+.sg-scene-barges .sgl-scrim {
+  background: linear-gradient(180deg, rgba(6, 4, 3, 0.54) 0%, rgba(6, 4, 3, 0.30) 28%,
+    rgba(6, 4, 3, 0.34) 76%, rgba(6, 4, 3, 0.58) 100%);
+}
+body[data-sg-scene="barges"] { --sg-ink: #efe0c9; --sg-ink-strong: #fdf1dc; --sg-ink-accent: #ffcf8c; }
+
+/* ── 🕊️ Jordan: the heavens opened, and the Spirit descending like a dove ── */
+.sg-scene-jordan .sgl-1 {
+  background: linear-gradient(180deg, #6d97b8 0%, #96b6c8 24%, #7a9aa4 56%, #16323f 100%);
+}
+.sg-scene-jordan .sgl-2 { /* the opening itself */
+  background: radial-gradient(38% 30% at 50% 6%, rgba(255, 253, 240, 0.62) 0%,
+    rgba(255, 248, 220, 0.22) 42%, transparent 74%);
+  animation: sg-descend 10s ease-in-out infinite alternate;
+}
+.sg-scene-jordan .sgl-3 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 24%;
+  opacity: 0.85;
+}
+.sg-scene-jordan .sgl-4 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 150% 26%;
+}
+.sg-scene-jordan .sgl-5 { /* the river's own light, moving */
+  left: -20%; right: -20%;
+  background: linear-gradient(180deg, transparent 62%, rgba(190, 226, 236, 0.16) 82%,
+    rgba(150, 200, 214, 0.10) 100%);
+  animation: sg-haze 40s linear infinite;
+}
+.sg-dove {
+  position: absolute; top: 16%; left: 50%;
+  width: min(72px, 11vw); height: min(54px, 8vw);
+  margin-left: min(-36px, -5.5vw);
+  background-repeat: no-repeat; background-position: center; background-size: contain;
+  filter: drop-shadow(0 0 16px rgba(255, 252, 232, 0.85));
+  animation: sg-alight 13s ease-in-out infinite alternate;
+}
+@keyframes sg-alight {
+  from { transform: translateY(-8%); opacity: 0.75; }
+  to { transform: translateY(10%); opacity: 1; }
+}
+.sg-scene-jordan .sgl-scrim {
+  background: linear-gradient(180deg, rgba(10, 20, 26, 0.46) 0%, rgba(10, 20, 26, 0.32) 28%,
+    rgba(10, 20, 26, 0.38) 76%, rgba(10, 20, 26, 0.58) 100%);
+}
+body[data-sg-scene="jordan"] { --sg-ink: #e6f2f6; --sg-ink-strong: #f8fdff; --sg-ink-accent: #a9dcea; }
+
+/* ── 🔆 The fiery furnace: and the form of the fourth ── */
+.sg-scene-furnace .sgl-1 {
+  background: radial-gradient(80% 60% at 50% 78%, #4a1c08 0%, #2a1208 46%, #120806 100%);
+}
+.sg-scene-furnace .sgl-2 {
+  background: radial-gradient(46% 40% at 50% 72%, rgba(255, 148, 56, 0.34) 0%,
+    rgba(255, 106, 30, 0.12) 48%, transparent 78%);
+  animation: sg-flicker 3.2s ease-in-out infinite;
+}
+.sg-scene-furnace .sgl-3 {
+  background-repeat: no-repeat; background-position: center bottom;
+  background-size: 100% 78%;
+}
+.sg-scene-furnace .sgl-4 { /* heat shimmer over the mouth */
+  left: -20%; right: -20%;
+  background: linear-gradient(100deg, transparent 30%, rgba(255, 190, 120, 0.09) 48%,
+    transparent 64%, rgba(255, 190, 120, 0.07) 82%, transparent 96%);
+  animation: sg-haze 22s linear infinite;
+}
+.sg-scene-furnace .sgl-scrim {
+  background: linear-gradient(180deg, rgba(14, 6, 4, 0.56) 0%, rgba(14, 6, 4, 0.34) 26%,
+    rgba(14, 6, 4, 0.40) 74%, rgba(14, 6, 4, 0.62) 100%);
+}
+body[data-sg-scene="furnace"] { --sg-ink: #f8e2ca; --sg-ink-strong: #fff2dc; --sg-ink-accent: #ffab5e; }
+
+/* ── 💥 The Damascus road: at midday, a light above the brightness of the sun ── */
+.sg-scene-damascus .sgl-1 {
+  background: linear-gradient(180deg, #46506a 0%, #6b6a62 28%, #6e5c3e 60%, #2a2316 100%);
+}
+.sg-scene-damascus .sgl-2,
+.sg-scene-damascus .sgl-3 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 26%;
+  animation: sg-parallax 190s linear infinite alternate;
+}
+.sg-scene-damascus .sgl-3 { background-size: 130% 34%; animation-duration: 130s; }
+.sg-scene-damascus .sgl-4 { /* the light itself — held, not flickering */
+  background: radial-gradient(48% 44% at 50% 22%, rgba(255, 255, 250, 0.72) 0%,
+    rgba(255, 252, 226, 0.30) 40%, rgba(255, 246, 200, 0.09) 68%, transparent 84%);
+  animation: sg-halo 5s ease-in-out infinite alternate;
+}
+.sg-flash-slow { animation-duration: 21s; }
+.sg-scene-damascus .sgl-scrim {
+  background: linear-gradient(180deg, rgba(26, 21, 12, 0.52) 0%, rgba(26, 21, 12, 0.38) 28%,
+    rgba(22, 17, 9, 0.44) 76%, rgba(18, 13, 7, 0.62) 100%);
+}
+body[data-sg-scene="damascus"] { --sg-ink: #f6efdc; --sg-ink-strong: #fffbef; --sg-ink-accent: #ffdca0; }
+
+/* ── 🏙️ New Jerusalem: coming down from God out of heaven ── */
+.sg-scene-newjerusalem .sgl-1 {
+  background: linear-gradient(180deg, #070c1e 0%, #101838 40%, #1c2246 68%, #070a16 100%);
+}
+.sg-scene-newjerusalem .sgl-2 {
+  bottom: auto; height: 66%;
+  background-repeat: repeat; background-size: 1200px 600px;
+  -webkit-mask-image: linear-gradient(180deg, #000 62%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 62%, transparent 100%);
+  animation: sg-twinkle 11s ease-in-out infinite alternate;
+}
+.sg-scene-newjerusalem .sgl-3 { /* the city needs no sun; it is its own light */
+  background: radial-gradient(52% 34% at 50% 42%, rgba(255, 238, 178, 0.26) 0%,
+    rgba(255, 224, 148, 0.09) 48%, transparent 78%);
+  animation: sg-halo 9s ease-in-out infinite alternate;
+}
+.sg-scene-newjerusalem .sgl-4 {
+  background-repeat: no-repeat; background-position: center 44%;
+  background-size: min(880px, 104%) 58%;
+  animation: sg-descend 15s ease-in-out infinite alternate;
+}
+.sg-scene-newjerusalem .sgl-5 {
+  background-repeat: repeat-x; background-position: bottom; background-size: 140% 10%;
+}
+.sg-scene-newjerusalem .sgl-6 {
+  background: radial-gradient(56% 20% at 50% 86%, rgba(255, 232, 168, 0.18) 0%, transparent 74%);
+}
+.sg-scene-newjerusalem .sgl-scrim {
+  background: linear-gradient(180deg, rgba(5, 7, 16, 0.50) 0%, rgba(5, 7, 16, 0.30) 28%,
+    rgba(5, 7, 16, 0.36) 76%, rgba(5, 7, 16, 0.58) 100%);
+}
+body[data-sg-scene="newjerusalem"] { --sg-ink: #eae6d6; --sg-ink-strong: #fdfaea; --sg-ink-accent: #ffdf9c; }

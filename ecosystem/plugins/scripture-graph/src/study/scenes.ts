@@ -1,9 +1,29 @@
-/** Ambient reading scenes v3 — eleven living worlds with real depth.
+/** Ambient reading scenes — living worlds with real depth.
  *
- * Art is generated locally (seeded SVG silhouettes: ridgelines, city walls,
- * temple colonnades, wheat, waves) and layered with parallax drift, light,
- * weather, and particles — transform/opacity motion only, reduced-motion
- * honored, readability guaranteed by per-scene scrim + ink palette. */
+ * Two families. The AMBIENT scenes are moods you can read anything under
+ * (sunrise, still waters, the mount, candlelight). The SCRIPTURE SCENES are
+ * particular places in the text — Gethsemane, Golgotha, the empty tomb, the
+ * parting of the sea, the grove — and they key to the chapters where those
+ * things happen (see SCENE_OVERRIDES in presence.ts).
+ *
+ * Art is generated locally (seeded SVG silhouettes, see sceneKit.ts) and
+ * layered with parallax drift, light, weather, and particles — transform and
+ * opacity motion only, reduced-motion honored, readability guaranteed by a
+ * per-scene scrim and ink palette. Nothing here loads an image file: every
+ * scene is a few KB of gradients and inline SVG.
+ *
+ * A scene is three things, and all three must be present:
+ *   1. an entry in SCENES (id, name, emoji, layer count)
+ *   2. optionally a case in decorate() for generated art and particles
+ *   3. `.sg-scene-<id> .sgl-N` rules in styles.css, including .sgl-scrim,
+ *      plus a `body[data-sg-scene="<id>"]` ink palette
+ */
+
+import {
+  bargeHull, burningBush, crosses, descendingCity, dove, furnace, ironRod, lcg,
+  liahona, seededStars, smokingMount, stable, svgUrl, thicketPool, tombMouth,
+  waterWall, whiteTree,
+} from "./sceneKit";
 
 export interface SceneDef {
   id: string;
@@ -27,31 +47,36 @@ export const SCENES: SceneDef[] = [
   { id: "desert", name: "Desert Dusk", emoji: "🏜️", hours: [], layers: 6 },
   { id: "starlight", name: "The Heavens", emoji: "🌌", hours: [[20, 24], [0, 5]], layers: 5 },
   { id: "candle", name: "Candlelight", emoji: "🕯️", hours: [], layers: 4 },
+
+  // ── scripture scenes: particular places in the text ──────────────────────
+  { id: "bountiful", name: "Bountiful — He Descends", emoji: "✨", hours: [], layers: 7 },
+  { id: "gethsemane", name: "Gethsemane", emoji: "🫒", hours: [], layers: 6 },
+  { id: "golgotha", name: "Golgotha — The Cross", emoji: "✝️", hours: [], layers: 6 },
+  { id: "tomb", name: "The Empty Tomb", emoji: "🌄", hours: [], layers: 6 },
+  { id: "redsea", name: "The Sea Parted", emoji: "🌊", hours: [], layers: 7 },
+  { id: "grove", name: "The Grove", emoji: "🌳", hours: [], layers: 6 },
+  { id: "liahona", name: "The Liahona", emoji: "🧭", hours: [], layers: 6 },
+  { id: "treeoflife", name: "The Tree of Life", emoji: "🌟", hours: [], layers: 7 },
+  { id: "bush", name: "The Burning Bush", emoji: "🔥", hours: [], layers: 6 },
+  { id: "nativity", name: "The Nativity", emoji: "⭐", hours: [], layers: 6 },
+  { id: "sinai", name: "Sinai", emoji: "🗻", hours: [], layers: 6 },
+  { id: "mormon", name: "The Waters of Mormon", emoji: "💧", hours: [], layers: 6 },
+  { id: "barges", name: "The Barges", emoji: "🪨", hours: [], layers: 5 },
+  { id: "jordan", name: "Jordan", emoji: "🕊️", hours: [], layers: 6 },
+  { id: "furnace", name: "The Fiery Furnace", emoji: "🔆", hours: [], layers: 5 },
+  { id: "damascus", name: "The Damascus Road", emoji: "💥", hours: [], layers: 5 },
+  { id: "newjerusalem", name: "New Jerusalem", emoji: "🏙️", hours: [], layers: 6 },
 ];
 
+/** The scenes that belong to a passage rather than to a time of day. Kept as
+ * a set so the picker can group them and matchScene() can prefer them. */
+export const SCRIPTURE_SCENES = new Set([
+  "bountiful", "gethsemane", "golgotha", "tomb", "redsea", "grove", "liahona",
+  "treeoflife", "bush", "nativity", "sinai", "mormon", "barges", "jordan",
+  "furnace", "damascus", "newjerusalem",
+]);
+
 const ROOT_CLS = "sg-scene";
-
-function lcg(seed: number): () => number {
-  let s = seed;
-  return () => (s = (s * 1103515245 + 12345) % 2147483648) / 2147483648;
-}
-
-const svgUrl = (w: number, h: number, inner: string, preserve = false): string =>
-  `url("data:image/svg+xml,${encodeURIComponent(
-    `<svg xmlns='http://www.w3.org/2000/svg' width='${w}' height='${h}'`
-    + `${preserve ? "" : " preserveAspectRatio='none'"}>${inner}</svg>`)}")`;
-
-function seededStars(seed: number, n: number, w: number, h: number,
-  rMin: number, rMax: number, color: string): string {
-  const rnd = lcg(seed);
-  let c = "";
-  for (let i = 0; i < n; i++) {
-    c += `<circle cx='${(rnd() * w).toFixed(1)}' cy='${(rnd() * h).toFixed(1)}' `
-      + `r='${(rMin + rnd() * (rMax - rMin)).toFixed(2)}' fill='${color}' `
-      + `opacity='${(0.4 + rnd() * 0.6).toFixed(2)}'/>`;
-  }
-  return svgUrl(w, h, c, true);
-}
 
 /** jagged mountain ridgeline via seeded random walk; crest = lit edge stroke */
 function ridge(seed: number, color: string, base: number, jag: number, crest?: string): string {
@@ -543,6 +568,220 @@ export class SceneManager {
         p.style.animationDuration = `${6 + rnd() * 6}s`;
         p.style.animationDelay = `${-rnd() * 10}s`;
         p.style.width = p.style.height = `${1.5 + rnd() * 2.5}px`;
+      });
+    }
+    // ── scripture scenes ──────────────────────────────────────────────────
+    if (id === "bountiful") {
+      // the multitude is gathered round the temple; the light comes down
+      this.bg(el, 2, seededStars(211, 70, 1200, 420, 0.5, 1.3, "#dfe8ff"));
+      this.bg(el, 4, facade("#12141f", "#cfe0ff"));
+      this.bg(el, 5, hills("#080a12", 14, 84));
+      particles(el, "sg-mote", 9, 223, (rnd, p) => {
+        p.style.left = `${34 + rnd() * 32}%`;
+        p.style.top = `${6 + rnd() * 62}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${11 + rnd() * 9}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 14}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "gethsemane") {
+      // an olive grove at night, and one light low among the trees
+      this.bg(el, 3, canopy(227, "#101c14"));
+      this.bg(el, 4, canopy(229, "#08120c"));
+      this.bg(el, 5, hills("#060d09", 22, 62));
+      particles(el, "sg-mist", 4, 233, (rnd, p) => {
+        p.style.top = `${52 + rnd() * 30}%`;
+        p.style.animationDuration = `${40 + rnd() * 26}s`;
+        p.style.animationDelay = `${-rnd() * 44}s`;
+        p.style.height = `${34 + rnd() * 52}px`;
+        p.style.opacity = `${0.08 + rnd() * 0.10}`;
+      });
+    }
+    if (id === "golgotha") {
+      this.bg(el, 3, clouds(239, "#150f14"));
+      this.bg(el, 5, crosses("#0a0709", "#6e5a63"));
+      particles(el, "sg-cloudmass", 3, 241, (rnd, p) => {
+        p.style.top = `${-8 + rnd() * 20}%`;
+        p.style.left = `${-10 + rnd() * 80}%`;
+        p.style.animationDuration = `${34 + rnd() * 26}s`;
+        p.style.animationDelay = `${-rnd() * 36}s`;
+      });
+    }
+    if (id === "tomb") {
+      this.bg(el, 4, tombMouth("#241c1a", "#ffeec4"));
+      particles(el, "sg-mote", 8, 251, (rnd, p) => {
+        p.style.left = `${34 + rnd() * 24}%`;
+        p.style.top = `${28 + rnd() * 52}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${10 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "redsea") {
+      // two standing walls, the dry path between, the pillar of fire behind
+      const left = el.querySelector<HTMLElement>(".sgl-4");
+      const right = el.querySelector<HTMLElement>(".sgl-5");
+      const wall = waterWall(257, "#062334", "#9ad8ef");
+      if (left) left.style.backgroundImage = wall;
+      if (right) right.style.backgroundImage = waterWall(263, "#062334", "#9ad8ef");
+      this.bg(el, 6, hills("#1a1208", 10, 96));
+      particles(el, "sg-mote", 7, 269, (rnd, p) => {
+        p.style.left = `${rnd() > 0.5 ? 8 + rnd() * 16 : 76 + rnd() * 16}%`;
+        p.style.bottom = `${10 + rnd() * 48}%`;
+        p.style.animationDuration = `${7 + rnd() * 6}s, ${4 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 4}s`;
+      });
+    }
+    if (id === "grove") {
+      // spring trees, and a pillar of light descending among them
+      this.bg(el, 3, canopy(271, "#1a3a1c"));
+      this.bg(el, 4, canopy(277, "#0d2411"));
+      this.bg(el, 6, hills("#0a1a0c", 18, 78));
+      particles(el, "sg-dapple", 5, 281, (rnd, p) => {
+        p.style.left = `${rnd() * 88}%`;
+        p.style.top = `${rnd() * 62}%`;
+        p.style.width = p.style.height = `${80 + rnd() * 150}px`;
+        p.style.animationDuration = `${13 + rnd() * 13}s`;
+        p.style.animationDelay = `${-rnd() * 18}s`;
+      });
+      particles(el, "sg-mote", 8, 283, (rnd, p) => {
+        p.style.left = `${36 + rnd() * 28}%`;
+        p.style.top = `${10 + rnd() * 66}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${9 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "liahona") {
+      this.bg(el, 2, hills("#3a2a1c", 26, -6));
+      this.bg(el, 3, hills("#1e150f", 40, 26));
+      const ball = el.createDiv({ cls: "sgp sg-liahona" });
+      ball.style.backgroundImage = liahona("#6b4c1c", "#d8ae5c", "#2a1c08");
+      particles(el, "sg-ember sg-spark", 6, 293, (rnd, p) => {
+        p.style.left = `${44 + rnd() * 14}%`;
+        p.style.bottom = `${44 + rnd() * 18}%`;
+        p.style.animationDuration = `${6 + rnd() * 6}s`;
+        p.style.animationDelay = `${-rnd() * 10}s`;
+        p.style.width = p.style.height = `${1.4 + rnd() * 2.2}px`;
+      });
+    }
+    if (id === "treeoflife") {
+      this.bg(el, 2, seededStars(307, 55, 1200, 500, 0.5, 1.2, "#e8ecff"));
+      this.bg(el, 4, whiteTree(311, "#c9c4b4", "#f4f1e6", "#ffffff"));
+      this.bg(el, 5, ironRod("#2b2f38", "#9aa6bd"));
+      this.bg(el, 6, hills("#0a0d14", 16, 84));
+      particles(el, "sg-mist", 4, 313, (rnd, p) => {   // the mists of darkness
+        p.style.top = `${58 + rnd() * 26}%`;
+        p.style.animationDuration = `${36 + rnd() * 28}s`;
+        p.style.animationDelay = `${-rnd() * 40}s`;
+        p.style.height = `${40 + rnd() * 60}px`;
+        p.style.opacity = `${0.12 + rnd() * 0.14}`;
+      });
+    }
+    if (id === "bush") {
+      this.bg(el, 2, ridge(317, "#2c2018", 130, 24));
+      this.bg(el, 3, hills("#160f0a", 22, 60));
+      const b = el.createDiv({ cls: "sgp sg-bush" });
+      b.style.backgroundImage = burningBush(331, "#1c1409", "#ff8f2e", "#ffd88a");
+      particles(el, "sg-ember", 8, 337, (rnd, p) => {
+        p.style.left = `${42 + rnd() * 16}%`;
+        p.style.bottom = `${12 + rnd() * 10}%`;
+        p.style.animationDuration = `${6 + rnd() * 7}s`;
+        p.style.animationDelay = `${-rnd() * 11}s`;
+        p.style.width = p.style.height = `${1.6 + rnd() * 2.6}px`;
+      });
+    }
+    if (id === "nativity") {
+      this.bg(el, 2, seededStars(347, 90, 1200, 600, 0.5, 1.5, "#fff3d8"));
+      this.bg(el, 4, stable("#1a1209", "#ffd591"));
+      this.bg(el, 5, hills("#0b0805", 14, 88));
+      particles(el, "sg-ember sg-spark", 5, 349, (rnd, p) => {
+        p.style.left = `${46 + rnd() * 9}%`;
+        p.style.bottom = `${16 + rnd() * 12}%`;
+        p.style.animationDuration = `${7 + rnd() * 6}s`;
+        p.style.animationDelay = `${-rnd() * 11}s`;
+        p.style.width = p.style.height = `${1.4 + rnd() * 2}px`;
+      });
+    }
+    if (id === "sinai") {
+      this.bg(el, 2, clouds(353, "#221a2c"));
+      this.bg(el, 4, smokingMount(359, "#0f0c16", "#7a6a99"));
+      this.bg(el, 5, tents(367, "#08060c"));           // the camp at the foot
+      const bt = el.createDiv({ cls: "sgp sg-bolt" });
+      bt.style.backgroundImage = bolt(373, "#ffe7b4");
+      el.createDiv({ cls: "sgp sg-flash" });
+      particles(el, "sg-incense", 4, 379, (rnd, p) => {
+        p.style.left = `${44 + rnd() * 14}%`;
+        p.style.bottom = `${30 + rnd() * 12}%`;
+        p.style.animationDuration = `${17 + rnd() * 12}s`;
+        p.style.animationDelay = `${-rnd() * 20}s`;
+      });
+    }
+    if (id === "mormon") {
+      this.bg(el, 3, canopy(383, "#123021"));
+      this.bg(el, 4, thicketPool(389, "#0b2116", "#0e4a58", "#7fe0e8"));
+      particles(el, "sg-mote", 7, 397, (rnd, p) => {
+        p.style.left = `${10 + rnd() * 80}%`;
+        p.style.bottom = `${18 + rnd() * 34}%`;
+        p.style.animationDuration = `${9 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "barges") {
+      this.bg(el, 3, bargeHull("#120d0a", "#ffe6b0"));
+      particles(el, "sg-mote", 5, 401, (rnd, p) => {
+        p.style.left = `${8 + rnd() * 84}%`;
+        p.style.top = `${38 + rnd() * 18}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${12 + rnd() * 9}s, ${6 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 14}s, ${-rnd() * 6}s`;
+      });
+    }
+    if (id === "jordan") {
+      this.bg(el, 3, hills("#123040", 20, 34));
+      this.bg(el, 4, reeds(409, "#08202c"));
+      const d = el.createDiv({ cls: "sgp sg-dove" });
+      d.style.backgroundImage = dove("#f6f2e4");
+      particles(el, "sg-mote", 6, 419, (rnd, p) => {
+        p.style.left = `${40 + rnd() * 20}%`;
+        p.style.top = `${14 + rnd() * 54}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${10 + rnd() * 8}s, ${5 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 12}s, ${-rnd() * 5}s`;
+      });
+    }
+    if (id === "furnace") {
+      this.bg(el, 3, furnace("#1a1210", "#ff7a1e", "#ffe4a8"));
+      particles(el, "sg-ember", 10, 421, (rnd, p) => {
+        p.style.left = `${34 + rnd() * 32}%`;
+        p.style.bottom = `${8 + rnd() * 14}%`;
+        p.style.animationDuration = `${5 + rnd() * 6}s`;
+        p.style.animationDelay = `${-rnd() * 9}s`;
+        p.style.width = p.style.height = `${1.8 + rnd() * 3}px`;
+      });
+    }
+    if (id === "damascus") {
+      // noonday, and a light above the brightness of the sun
+      this.bg(el, 2, hills("#6a5a3a", 22, -4));
+      this.bg(el, 3, hills("#3a3020", 34, 30));
+      el.createDiv({ cls: "sgp sg-flash sg-flash-slow" });
+      particles(el, "sg-sand", 4, 431, (rnd, p) => {
+        p.style.top = `${58 + rnd() * 28}%`;
+        p.style.animationDuration = `${16 + rnd() * 14}s`;
+        p.style.animationDelay = `${-rnd() * 18}s`;
+        p.style.opacity = `${0.05 + rnd() * 0.09}`;
+      });
+    }
+    if (id === "newjerusalem") {
+      this.bg(el, 2, seededStars(433, 80, 1200, 600, 0.5, 1.4, "#e6ecff"));
+      this.bg(el, 4, descendingCity(439, "#d9c98f", "#fff0bd"));
+      this.bg(el, 5, hills("#0a0c16", 14, 92));
+      particles(el, "sg-mote", 8, 443, (rnd, p) => {
+        p.style.left = `${16 + rnd() * 68}%`;
+        p.style.top = `${18 + rnd() * 50}%`;
+        p.style.bottom = "auto";
+        p.style.animationDuration = `${12 + rnd() * 9}s, ${6 + rnd() * 4}s`;
+        p.style.animationDelay = `${-rnd() * 15}s, ${-rnd() * 6}s`;
       });
     }
     if (id === "city") {

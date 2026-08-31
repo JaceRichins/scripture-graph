@@ -23,7 +23,7 @@ import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
-import { SCENES, SceneManager } from "./study/scenes";
+import { SCENES, SCRIPTURE_SCENES, SceneManager } from "./study/scenes";
 import { Menu } from "obsidian";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
@@ -732,8 +732,18 @@ export default class SGPlugin extends Plugin {
       .onClick(() => set("auto", "auto")));
     menu.addItem(i => i.setTitle("📖 Match the chapter — the scene follows the words")
       .onClick(() => set("match", "match the chapter")));
+    // two groups: moods you can read anything under, then the places
+    // themselves — with thirty scenes an undivided list is unusable
     menu.addSeparator();
     for (const s of SCENES) {
+      if (SCRIPTURE_SCENES.has(s.id)) continue;
+      menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
+        .onClick(() => set(s.id, s.name)));
+    }
+    menu.addSeparator();
+    menu.addItem(i => i.setTitle("── Scripture scenes ──").setDisabled(true));
+    for (const s of SCENES) {
+      if (!SCRIPTURE_SCENES.has(s.id)) continue;
       menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
         .onClick(() => set(s.id, s.name)));
     }

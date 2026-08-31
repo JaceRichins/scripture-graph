@@ -142,6 +142,27 @@ export function voiceFor(slug: string): { v: Voice; chapterLine: string | null }
 // ------------------------------------------------------- scene matching
 
 const SCENE_KEYWORDS: [string, RegExp][] = [
+  // ── particular places first ─────────────────────────────────────────────
+  // Each of these sits inside a generic mood, and the scorer keeps the FIRST
+  // scene to reach the top score, so ordering is what lets the specific one win.
+  ["gethsemane", /\b(gethsemane|olive press|sweat.{0,12}blood|bleed at every pore|blood cometh from every pore|let this cup pass|watch with me|thine be done)/gi],
+  ["golgotha", /\b(golgotha|calvary|crucif(y|ied|ixion)|the cross|nailed|sixth hour|it is finished|gave up the ghost|vinegar|veil of the temple was rent)/gi],
+  ["tomb", /\b(sepulchre|the tomb|is risen|resurrect|first day of the week|rolled (away|back) the stone|he is not here|linen clothes|why seek ye the living)/gi],
+  ["redsea", /\b(red sea|divide the sea|walls? of water|dry ground .{0,16}midst of the sea|pharaoh.{0,24}pursued|pillar of (fire|cloud)|horse and his rider)/gi],
+  ["bountiful", /\b(land bountiful|round about the temple|descend(ing|ed) out of heaven|behold my beloved son|one by one|thrust your hands into my side|prints of the nails)/gi],
+  ["grove", /\b(sacred grove|first vision|pillar of light|two personages|which of all the sects|lacketh wisdom|retired to the woods)/gi],
+  ["liahona", /\b(liahona|the director|ball .{0,16}curious workmanship|spindles?|brass ball)/gi],
+  ["treeoflife", /\b(tree of life|iron rod|rod of iron|mists? of darkness|great and spacious|fruit .{0,18}white|strait and narrow path|filthy water|fountain of living waters)/gi],
+  ["bush", /\b(burning bush|bush burned|bush was not consumed|holy ground|put off thy shoes|i am that i am)/gi],
+  ["nativity", /\b(swaddling|manger|no room .{0,14}inn|wise men|star in the east|unto you is born|shepherds abiding|glory to god in the highest)/gi],
+  ["sinai", /\b(sinai|thunders and lightnings|ten commandments|two tables of stone|thick cloud upon the mount|trumpet .{0,14}exceeding loud|mount .{0,10}(quake|smoke))/gi],
+  ["mormon", /\b(waters of mormon|forest of mormon|fountain of pure water|helam|mourn with those that mourn|stand as witnesses of god)/gi],
+  ["barges", /\b(barges?|brother of jared|sixteen (small )?stones|tight like unto a dish|the finger of the lord|touched the stones|moriancumer)/gi],
+  ["jordan", /\b(jordan|baptized of john|heavens were opened|descending like a dove|john the baptist)/gi],
+  ["furnace", /\b(fiery furnace|furnace .{0,16}fire|shadrach|meshach|abed-?nego|seven times more|form of the fourth|golden image)/gi],
+  ["damascus", /\b(damascus|saul, saul|why persecutest thou me|above the brightness of the sun|scales fell|ananias)/gi],
+  ["newjerusalem", /\b(new jerusalem|holy city .{0,18}descending|no more death|wipe away all tears|pure gold, as it were transparent|twelve gates|had no need of the sun)/gi],
+  // ── the ambient moods ───────────────────────────────────────────────────
   ["warcamp", /\b(armies|army|battle|wars?|swords?|shields?|banners?|standard of|captains?|soldiers?|fight|slay|slain|smite|smitten|warriors?|chariots?|siege|fortif(y|ied|ications?)|encamp|spears?|title of liberty)/gi],
   ["prison", /\b(prison(er|s)?|dungeon|chains?|jail|bound with|bonds|fetters|captive|cell|deliver(ed)? out of|liberty jail)/gi],
   ["storm", /\b(storm|tempest|whirlwind|thunder|lightning|billows?|tossed|waves)/gi],
@@ -206,9 +227,64 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   "josh": "warcamp", "judg": "warcamp", "morm": "warcamp",
 };
 
+/** Chapters that ARE one of the scripture scenes. Consulted before
+ * SCENE_OVERRIDES, which several of these chapters are already listed in under
+ * the generic mood they sit inside — Gethsemane was "garden", the Red Sea was
+ * "waters", Sinai was "mount". Those entries stay: they are the right answer
+ * for anyone who turns the scripture scenes off. */
+export const SCRIPTURE_SCENE_OVERRIDES: Record<string, string> = {
+  // ✨ Bountiful — the risen Christ among the Nephites
+  "3ne-11": "bountiful", "3ne-17": "bountiful", "3ne-18": "bountiful",
+  "3ne-19": "bountiful", "3ne-20": "bountiful", "3ne-26": "bountiful",
+  "3ne-27": "bountiful", "3ne-28": "bountiful",
+  // 🫒 Gethsemane
+  "matt-26": "gethsemane", "mark-14": "gethsemane", "luke-22": "gethsemane",
+  "john-18": "gethsemane", "dc-19": "gethsemane", "mosiah-3": "gethsemane",
+  // ✝️ the Cross
+  "matt-27": "golgotha", "mark-15": "golgotha", "luke-23": "golgotha",
+  "john-19": "golgotha", "1ne-19": "golgotha", "3ne-8": "golgotha",
+  "isa-53": "golgotha", "ps-22": "golgotha", "alma-7": "golgotha",
+  // 🌄 the empty tomb
+  "matt-28": "tomb", "mark-16": "tomb", "luke-24": "tomb", "john-20": "tomb",
+  "john-21": "tomb", "1cor-15": "tomb", "3ne-10": "tomb", "alma-40": "tomb",
+  // 🌊 the sea parted
+  "ex-14": "redsea", "ex-15": "redsea", "ps-77": "redsea", "ps-106": "redsea",
+  "1ne-17": "redsea",
+  // 🌳 the grove
+  "jsh-1": "grove",
+  // 🧭 the Liahona
+  "1ne-16": "liahona", "alma-37": "liahona", "mosiah-1": "liahona",
+  // 🌟 the tree of life
+  "1ne-8": "treeoflife", "1ne-11": "treeoflife", "1ne-12": "treeoflife",
+  "1ne-15": "treeoflife", "alma-5": "treeoflife",
+  // 🔥 the burning bush
+  "ex-3": "bush", "ex-4": "bush", "acts-7": "bush",
+  // ⭐ the Nativity
+  "luke-2": "nativity", "matt-1": "nativity", "matt-2": "nativity",
+  "hel-14": "nativity", "3ne-1": "nativity",
+  // 🗻 Sinai
+  "ex-19": "sinai", "ex-20": "sinai", "ex-24": "sinai", "ex-32": "sinai",
+  "ex-33": "sinai", "ex-34": "sinai", "deut-5": "sinai", "1kgs-19": "sinai",
+  // 💧 the waters of Mormon
+  "mosiah-18": "mormon", "mosiah-23": "mormon", "mosiah-25": "mormon",
+  // 🪨 the barges
+  "ether-2": "barges", "ether-3": "barges", "ether-6": "barges",
+  // 🕊️ Jordan
+  "matt-3": "jordan", "mark-1": "jordan", "luke-3": "jordan", "john-1": "jordan",
+  "2ne-31": "jordan", "josh-3": "jordan", "josh-4": "jordan", "2kgs-5": "jordan",
+  // 🔆 the fiery furnace
+  "dan-3": "furnace",
+  // 💥 the Damascus road
+  "acts-9": "damascus", "acts-22": "damascus", "acts-26": "damascus",
+  // 🏙️ New Jerusalem
+  "rev-21": "newjerusalem", "rev-22": "newjerusalem", "3ne-21": "newjerusalem",
+  "moses-7": "newjerusalem",
+};
+
 /** pick the ambient scene: curated override first, else the chapter's words */
 export function matchScene(chapterText: string, slug?: string): string {
   if (slug) {
+    if (SCRIPTURE_SCENE_OVERRIDES[slug]) return SCRIPTURE_SCENE_OVERRIDES[slug]!;
     if (SCENE_OVERRIDES[slug]) return SCENE_OVERRIDES[slug]!;
     const dash = slug.lastIndexOf("-");
     const book = dash > 0 ? slug.slice(0, dash) : slug;

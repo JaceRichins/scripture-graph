@@ -4,7 +4,7 @@ import { Modal, Notice, PluginSettingTab, Setting } from "obsidian";
 import type SGPlugin from "./main";
 import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
-import { SCENES } from "./study/scenes";
+import { SCENES, SCRIPTURE_SCENES } from "./study/scenes";
 
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
@@ -133,7 +133,14 @@ export class SGSettingsTab extends PluginSettingTab {
         d.addOption("none", "None (plain)");
         d.addOption("auto", "Auto — follow the time of day");
         d.addOption("match", "📖 Match the chapter");
-        for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
+        for (const sc of SCENES) {
+          if (SCRIPTURE_SCENES.has(sc.id)) continue;
+          d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
+        }
+        for (const sc of SCENES) {
+          if (!SCRIPTURE_SCENES.has(sc.id)) continue;
+          d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
+        }
         d.setValue(s.device.scene ?? "none").onChange(async v => {
           s.device.scene = v;
           await s.saveDevice();
