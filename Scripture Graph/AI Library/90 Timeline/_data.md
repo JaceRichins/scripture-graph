@@ -3318,6 +3318,63 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-26-0271254c",
+   "t": "Uzziah's reign and Jotham's administrative role",
+   "y0": -792,
+   "y1": -740,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "A common reconstruction places Uzziah's long reign around 792–740 BC and uses co-regency to reconcile the fifty-two-year regnal notice with the wider royal chronology; exact dates remain disputed.",
+   "chapters": [
+    "2 Chronicles 26"
+   ],
+   "people": [
+    "Uzziah",
+    "Jotham",
+    "Isaiah",
+    "Azariah"
+   ],
+   "places": [
+    "Judah",
+    "Jerusalem"
+   ],
+   "things": [
+    "temple",
+    "army"
+   ]
+  },
+  {
+   "id": "r-2chr-26-f59a440d",
+   "t": "Reign of Uzziah (Azariah) of Judah",
+   "y0": -792,
+   "y1": -740,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology synchronizing Judah's regnal lengths with Israel and Assyrian records; exact dates are disputed due to a probable co-regency with his father Amaziah and later with his son Jotham.",
+   "chapters": [
+    "2 Chronicles 26"
+   ],
+   "people": [
+    "Uzziah",
+    "Amaziah",
+    "Jotham"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2chr-27-262ccf08",
    "t": "Reign of Jotham of Judah",
    "y0": -750,
