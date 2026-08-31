@@ -6,6 +6,7 @@
  * family member can wander freely and do no damage. */
 import { App, Modal } from "obsidian";
 import { BOOKS, chapterTitle, type BookInfo } from "@scripture-graph/core-sdk";
+import { cascade, navIcon, type NavIconName } from "./navIcons";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 
 export interface GroupActivityRow {
@@ -32,20 +33,20 @@ export interface NavigatorHost {
 }
 
 /** the rest of the library — everything beyond the scriptures themselves */
-const LIBRARY_SECTIONS: { emoji: string; name: string; path: string }[] = [
-  { emoji: "🎤", name: "General Conference", path: "AI Library/10 General Conference" },
-  { emoji: "📔", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
-  { emoji: "🏷️", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
-  { emoji: "🧑", name: "People", path: "AI Library/03 People" },
-  { emoji: "🗺️", name: "Places", path: "AI Library/04 Places" },
-  { emoji: "📅", name: "Events", path: "AI Library/05 Events" },
-  { emoji: "📜", name: "Doctrines", path: "AI Library/06 Doctrines" },
-  { emoji: "📄", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
-  { emoji: "🏛️", name: "Church History", path: "AI Library/30 Church History" },
-  { emoji: "🔎", name: "Evidence", path: "AI Library/40 Evidence" },
-  { emoji: "❓", name: "Questions", path: "AI Library/50 Questions" },
-  { emoji: "🎓", name: "Scholarship", path: "AI Library/60 Scholarship" },
-  { emoji: "🎙️", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" },
+const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }[] = [
+  { icon: "conference", name: "General Conference", path: "AI Library/10 General Conference" },
+  { icon: "dictionary", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
+  { icon: "topics", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
+  { icon: "person", name: "People", path: "AI Library/03 People" },
+  { icon: "place", name: "Places", path: "AI Library/04 Places" },
+  { icon: "event", name: "Events", path: "AI Library/05 Events" },
+  { icon: "doctrines", name: "Doctrines", path: "AI Library/06 Doctrines" },
+  { icon: "papers", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
+  { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
+  { icon: "evidence", name: "Evidence", path: "AI Library/40 Evidence" },
+  { icon: "question", name: "Questions", path: "AI Library/50 Questions" },
+  { icon: "scholarship", name: "Scholarship", path: "AI Library/60 Scholarship" },
+  { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" },
 ];
 
 /** "alma-36" → "Alma 36" (null for anything that isn't a chapter slug) */
@@ -55,12 +56,12 @@ function titleForChapterSlug(slug: string): string | null {
   return chapterTitle(m[1]!, Number(m[2]));
 }
 
-const VOLUMES: { name: string; emoji: string }[] = [
-  { name: "Old Testament", emoji: "📜" },
-  { name: "New Testament", emoji: "✝️" },
-  { name: "Book of Mormon", emoji: "📘" },
-  { name: "Doctrine and Covenants", emoji: "🔑" },
-  { name: "Pearl of Great Price", emoji: "💎" },
+const VOLUMES: { name: string; icon: NavIconName }[] = [
+  { name: "Old Testament", icon: "old-testament" },
+  { name: "New Testament", icon: "new-testament" },
+  { name: "Book of Mormon", icon: "book-of-mormon" },
+  { name: "Doctrine and Covenants", icon: "doctrine" },
+  { name: "Pearl of Great Price", icon: "pearl" },
 ];
 
 type NavView =
@@ -142,10 +143,10 @@ export class SGNavigatorModal extends Modal {
     }
     head.createSpan({
       cls: "sg-nav-title",
-      text: v.kind === "home" ? "📖 Scriptures"
+      text: v.kind === "home" ? "Scriptures"
         : v.kind === "books" ? v.volume
           : v.kind === "chapters" ? v.book.name
-            : v.kind === "library" ? "📚 Library"
+            : v.kind === "library" ? "Library"
               : v.title,
     });
     if (v.kind !== "home") {
@@ -165,7 +166,9 @@ export class SGNavigatorModal extends Modal {
    * show; at 2+ the smart search takes the body over, and clearing the box
    * hands it back. */
   private renderHome(c: HTMLElement): void {
-    const inp = c.createEl("input", {
+    const wrap = c.createDiv({ cls: "sg-nav-searchwrap" });
+    navIcon(wrap, "search").addClass("sg-nav-searchico");
+    const inp = wrap.createEl("input", {
       cls: "sg-nav-filter sg-nav-search",
       attr: { type: "search", placeholder: "Search scriptures, people, places…", enterkeyhint: "search" },
     });
@@ -229,13 +232,15 @@ export class SGNavigatorModal extends Modal {
       body.createDiv({ cls: "sg-nav-empty", text: "Nothing found. Try fewer or different words." });
       return;
     }
+    let ri = 0;
     if (res.reference || res.verses.length) {
-      body.createDiv({ cls: "sg-nav-sect", text: "📖 Scriptures" });
+      body.createDiv({ cls: "sg-nav-sect", text: "Scriptures" });
     }
     if (res.reference) {
       const ref = res.reference;
       const row = body.createDiv({ cls: "sg-nav-row sg-nav-refrow" });
-      row.createSpan({ cls: "sg-nav-emoji", text: "🎯" });
+      cascade(row, ri++);
+      navIcon(row, "target");
       const col = row.createDiv({ cls: "sg-nav-gcol" });
       col.createDiv({ cls: "sg-nav-name", text: ref.verse !== null ? `${ref.title}:${ref.verse}` : ref.title });
       col.createDiv({ cls: "sg-nav-gsub", text: ref.verse !== null ? "Go to verse" : "Open chapter" });
@@ -246,6 +251,7 @@ export class SGNavigatorModal extends Modal {
     }
     for (const v of res.verses) {
       const row = body.createDiv({ cls: "sg-nav-row sg-nav-vrow" });
+      cascade(row, ri++);
       const col = row.createDiv({ cls: "sg-nav-vcol" });
       col.createDiv({ cls: "sg-nav-vref", text: `${v.chapter}:${v.verse}` });
       const snip = col.createDiv({ cls: "sg-nav-snip" });
@@ -259,19 +265,21 @@ export class SGNavigatorModal extends Modal {
       row.onclick = () => open(() => this.host.openNote(`${v.chapter}#^${v.anchor}`));
     }
     if (res.pages.length) {
-      body.createDiv({ cls: "sg-nav-sect", text: "📚 Library" });
+      body.createDiv({ cls: "sg-nav-sect", text: "Library" });
       for (const p of res.pages) {
         const row = body.createDiv({ cls: "sg-nav-row sg-nav-file" });
-        row.createSpan({ cls: "sg-nav-emoji", text: "📄" });
+        cascade(row, ri++);
+        navIcon(row, "page");
         row.createSpan({ cls: "sg-nav-name", text: p.title });
         row.onclick = () => open(() => this.host.openPath(p.path));
       }
     }
     if (res.chapters.length) {
-      body.createDiv({ cls: "sg-nav-sect", text: "🕮 Chapters" });
+      body.createDiv({ cls: "sg-nav-sect", text: "Chapters" });
       for (const ch of res.chapters) {
         const row = body.createDiv({ cls: "sg-nav-row" });
-        row.createSpan({ cls: "sg-nav-emoji", text: "📖" });
+        cascade(row, ri++);
+        navIcon(row, "chapter");
         row.createSpan({ cls: "sg-nav-name", text: ch.title });
         row.createSpan({ cls: "sg-nav-chev", text: "›" });
         row.onclick = () => open(() => this.host.openChapter(ch.title));
@@ -283,8 +291,11 @@ export class SGNavigatorModal extends Modal {
     const last = this.host.lastChapter();
     if (last) {
       const cont = c.createDiv({ cls: "sg-nav-continue" });
-      cont.createSpan({ cls: "sg-nav-continue-tag", text: "▶ Continue reading" });
-      cont.createSpan({ cls: "sg-nav-continue-title", text: last.title });
+      navIcon(cont, "continue").addClass("sg-nav-continue-ico");
+      const col = cont.createDiv({ cls: "sg-nav-continue-col" });
+      col.createSpan({ cls: "sg-nav-continue-tag", text: "Continue reading" });
+      col.createSpan({ cls: "sg-nav-continue-title", text: last.title });
+      cont.createSpan({ cls: "sg-nav-chev", text: "›" });
       cont.onclick = () => { this.close(); this.host.openChapter(last.title); };
     }
     // parallel studies: everything you've been reading lately, one tap each
@@ -298,9 +309,11 @@ export class SGNavigatorModal extends Modal {
       }
     }
     const list = c.createDiv({ cls: "sg-nav-list" });
+    let i = 0;
     for (const vol of VOLUMES) {
       const row = list.createDiv({ cls: "sg-nav-row" });
-      row.createSpan({ cls: "sg-nav-emoji", text: vol.emoji });
+      cascade(row, i++);
+      navIcon(row, vol.icon);
       row.createSpan({ cls: "sg-nav-name", text: vol.name });
       row.createSpan({ cls: "sg-nav-chev", text: "›" });
       row.onclick = () => {
@@ -311,19 +324,22 @@ export class SGNavigatorModal extends Modal {
       };
     }
     const tl = list.createDiv({ cls: "sg-nav-row sg-nav-tl" });
-    tl.createSpan({ cls: "sg-nav-emoji", text: "🕰" });
+    cascade(tl, i++);
+    navIcon(tl, "timeline");
     tl.createSpan({ cls: "sg-nav-name", text: "Timeline" });
     tl.createSpan({ cls: "sg-nav-chev", text: "›" });
     tl.onclick = () => { this.close(); this.host.openTimeline(); };
     // everything beyond the scriptures: conference talks, the dictionary,
     // topics, people, evidence... one door, endless shelves
     const lib = list.createDiv({ cls: "sg-nav-row sg-nav-lib" });
-    lib.createSpan({ cls: "sg-nav-emoji", text: "📚" });
+    cascade(lib, i++);
+    navIcon(lib, "library");
     lib.createSpan({ cls: "sg-nav-name", text: "Library" });
     lib.createSpan({ cls: "sg-nav-chev", text: "›" });
     lib.onclick = () => this.go({ kind: "library" });
     const hub = list.createDiv({ cls: "sg-nav-row sg-nav-hub" });
-    hub.createSpan({ cls: "sg-nav-emoji", text: "🏠" });
+    cascade(hub, i++);
+    navIcon(hub, "hub");
     hub.createSpan({ cls: "sg-nav-name", text: "Study Hub" });
     hub.onclick = () => { this.close(); this.host.openNote("Study Hub"); };
     // what your groups have been studying — fills in when the server answers
@@ -333,12 +349,12 @@ export class SGNavigatorModal extends Modal {
     void actsP.then(acts => {
       this.groupActs = acts;
       if (!acts.length || this.view.kind !== "home" || !groupsBox.isConnected) return;
-      groupsBox.createDiv({ cls: "sg-nav-sect", text: "👥 Studying with your groups" });
+      groupsBox.createDiv({ cls: "sg-nav-sect", text: "Studying with your groups" });
       for (const a of acts.slice(0, 4)) {
         const title = titleForChapterSlug(a.chapter_slug);
         if (!title) continue;
         const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
-        row.createSpan({ cls: "sg-nav-emoji", text: "👥" });
+        navIcon(row, "groups");
         const col = row.createDiv({ cls: "sg-nav-gcol" });
         col.createDiv({ cls: "sg-nav-name", text: title });
         col.createDiv({
@@ -353,19 +369,23 @@ export class SGNavigatorModal extends Modal {
 
   private renderBooks(c: HTMLElement, volume: string): void {
     const grid = c.createDiv({ cls: "sg-nav-books" });
+    let i = 0;
     for (const b of BOOKS.filter(x => x.volume === volume)) {
       const pill = grid.createEl("button", { cls: "sg-nav-book", text: b.name });
+      cascade(pill, i++);
       pill.onclick = () => this.go({ kind: "chapters", book: b });
     }
   }
 
   private renderLibrary(c: HTMLElement): void {
     const list = c.createDiv({ cls: "sg-nav-list sg-nav-scroll" });
+    let i = 0;
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
       if (!l.folders.length && !l.files.length) continue;  // empty shelves stay hidden
       const row = list.createDiv({ cls: "sg-nav-row" });
-      row.createSpan({ cls: "sg-nav-emoji", text: s.emoji });
+      cascade(row, i++);
+      navIcon(row, s.icon);
       row.createSpan({ cls: "sg-nav-name", text: s.name });
       row.createSpan({ cls: "sg-nav-chev", text: "›" });
       row.onclick = () => this.go({ kind: "folder", path: s.path, title: s.name });
@@ -383,10 +403,12 @@ export class SGNavigatorModal extends Modal {
     const renderRows = () => {
       list.empty();
       const q = filter.toLowerCase();
+      let i = 0;
       for (const f of folders) {
         if (q && !f.name.toLowerCase().includes(q)) continue;
         const row = list.createDiv({ cls: "sg-nav-row" });
-        row.createSpan({ cls: "sg-nav-emoji", text: "📁" });
+        cascade(row, i++);
+        navIcon(row, "folder");
         row.createSpan({ cls: "sg-nav-name", text: f.name });
         row.createSpan({ cls: "sg-nav-chev", text: "›" });
         row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
@@ -394,7 +416,8 @@ export class SGNavigatorModal extends Modal {
       for (const fi of listing.files) {
         if (q && !fi.name.toLowerCase().includes(q)) continue;
         const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
-        row.createSpan({ cls: "sg-nav-emoji", text: "📄" });
+        cascade(row, i++);
+        navIcon(row, "page");
         row.createSpan({ cls: "sg-nav-name", text: fi.name });
         row.onclick = () => { this.close(); this.host.openPath(fi.path); };
       }
@@ -418,6 +441,7 @@ export class SGNavigatorModal extends Modal {
     const grid = c.createDiv({ cls: "sg-nav-chapters" });
     for (let n = 1; n <= book.chapters; n++) {
       const btn = grid.createEl("button", { cls: "sg-nav-ch", text: String(n) });
+      cascade(btn, Math.floor((n - 1) / 6));    // fade in row by row, not cell by cell
       if (cur?.slug === `${book.slug}-${n}`) btn.addClass("sg-nav-ch-now");
       btn.onclick = () => { this.close(); this.host.openChapter(`${book.prefix} ${n}`); };
     }
