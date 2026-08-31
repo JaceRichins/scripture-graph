@@ -68,26 +68,61 @@ function horizontalScrollerAt(el: HTMLElement | null): HTMLElement | null {
   return null;
 }
 
-/** the turn happens behind a veil: the workspace is covered the moment the
- * flick commits, the destination loads and flips to reading view underneath,
- * and the veil lifts only when the page is actually READY — so the reader
- * sees one clean slide, never the raw in-between states. A hard timeout
- * guarantees the veil can never strand the screen. */
-let veilActive = false;
+/** a REAL page push, iOS-style. At commit, the current page's rendered DOM
+ * is cloned into a pixel-perfect standing overlay — so the reader keeps
+ * looking at the untouched old page while the destination loads and flips
+ * to reading view UNDERNEATH it (every raw in-between state hidden). The
+ * moment the new page is ready, the old one slides away with a dim and a
+ * shadow seam while the new one pushes in at full width. Never a blank
+ * frame: there is always a page on screen. */
+let pushActive = false;
 
-function turnWithVeil(s: SGState, dir: 1 | -1, next: string,
+function turnWithPush(s: SGState, dir: 1 | -1, next: string,
   openChapter: (title: string) => void): void {
-  if (veilActive) { openChapter(next); return; }
-  veilActive = true;
-  const veil = document.body.createDiv({ cls: "sg-turn-veil" });
-  const slideCls = dir === 1 ? "sg-turn-next" : "sg-turn-prev";
+  const src = document.querySelector(".workspace-leaf.mod-active .view-content");
+  if (pushActive || !(src instanceof HTMLElement)) {
+    openChapter(next);
+    return;
+  }
+  pushActive = true;
+  const rect = src.getBoundingClientRect();
+  const holder = document.body.createDiv({ cls: "sg-push-clone" });
+  holder.style.left = `${rect.left}px`;
+  holder.style.top = `${rect.top}px`;
+  holder.style.width = `${rect.width}px`;
+  holder.style.height = `${rect.height}px`;
+  const clone = src.cloneNode(true) as HTMLElement;
+  clone.style.width = "100%";
+  clone.style.height = "100%";
+  holder.appendChild(clone);
+  // a clone starts unscrolled — carry the reader's place across
+  const livePv = src.querySelector(".markdown-preview-view");
+  const clonePv = clone.querySelector(".markdown-preview-view");
+  if (livePv instanceof HTMLElement && clonePv instanceof HTMLElement) {
+    clonePv.scrollTop = livePv.scrollTop;
+  }
+  // a small acknowledgment nudge so the finger feels heard while it loads
+  const still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (!still) holder.addClass(dir === 1 ? "sg-push-ack-next" : "sg-push-ack-prev");
+
+  const inCls = dir === 1 ? "sg-push-in-next" : "sg-push-in-prev";
+  const outCls = dir === 1 ? "sg-push-out-next" : "sg-push-out-prev";
   const t0 = Date.now();
+  let finished = false;
   const done = () => {
-    veilActive = false;
-    document.body.addClass(slideCls);            // slide in on the SETTLED page
-    veil.addClass("sg-turn-veil-off");
-    window.setTimeout(() => veil.remove(), 220);
-    window.setTimeout(() => document.body.removeClass(slideCls), 360);
+    if (finished) return;
+    finished = true;
+    pushActive = false;
+    if (still) {
+      holder.remove();
+      return;
+    }
+    holder.addClass(outCls);                     // old page slides away…
+    document.body.addClass(inCls);               // …as the new one pushes in
+    window.setTimeout(() => {
+      holder.remove();
+      document.body.removeClass(inCls);
+    }, 300);
   };
   openChapter(next);
   const ready = (): boolean => {
@@ -98,7 +133,7 @@ function turnWithVeil(s: SGState, dir: 1 | -1, next: string,
   };
   const tick = () => {
     if (ready()) { window.requestAnimationFrame(done); return; }
-    if (Date.now() - t0 > 750) { done(); return; }
+    if (Date.now() - t0 > 800) { done(); return; }
     window.requestAnimationFrame(tick);
   };
   window.requestAnimationFrame(tick);
@@ -193,7 +228,7 @@ export function registerSwipeNav(
     }
     try { navigator.vibrate?.(8); } catch { /* no haptics */ }
     trace("swipe.turn", { from: title, to: next, dx: Math.round(dx), dt });
-    turnWithVeil(s, dir, next, openChapter);
+    turnWithPush(s, dir, next, openChapter);
   }, { passive: true });
 
   plugin.registerDomEvent(document, "touchcancel", () => { start = null; },
