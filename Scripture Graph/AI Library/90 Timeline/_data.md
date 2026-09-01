@@ -3794,6 +3794,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2ne-20-980871b8",
+   "t": "Isaiah's oracles against Assyria (8th century B.C. crisis)",
+   "y0": -734,
+   "y1": -701,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Isaiah's prophecies concerning Assyria are traditionally situated within the Syro-Ephraimite crisis through the era of Sennacherib's invasion of Judah, though this chapter itself gives no internal date.",
+   "chapters": [
+    "2 Nephi 20"
+   ],
+   "people": [
+    "Isaiah"
+   ],
+   "places": [
+    "Assyria",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2sam-2-ef0af341",
    "t": "David's reign as king of Judah at Hebron",
    "y0": -1010,
