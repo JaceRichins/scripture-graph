@@ -3868,6 +3868,57 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-3ne-3-918667e6",
+   "t": "Nephite gathering to the Zarahemla-Bountiful line",
+   "y0": 17,
+   "y1": 17,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "journeys"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The full mobilization and gathering of the Nephites to their defensive position is dated to 'the seventeenth year, in the latter end of the year' (3 Nephi 3:22).",
+   "chapters": [
+    "3 Nephi 3"
+   ],
+   "people": [
+    "Gidgiddoni",
+    "Lachoneus"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Bountiful"
+   ]
+  },
+  {
+   "id": "r-3ne-3-def801d7",
+   "t": "Giddianhi's ultimatum to Lachoneus",
+   "y0": 16,
+   "y1": 16,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter dates Giddianhi's epistle to 'the sixteenth year from the coming of Christ' (3 Nephi 3:1), per the Nephite post-advent calendar established in 3 Nephi 1-2.",
+   "chapters": [
+    "3 Nephi 3"
+   ],
+   "people": [
+    "Giddianhi",
+    "Lachoneus"
+   ],
+   "places": [
+    "Zarahemla"
+   ]
+  },
+  {
    "id": "r-3ne-9-65739377",
    "t": "Voice of Christ in the darkness after the great destruction",
    "y0": 34,
