@@ -5237,6 +5237,56 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-26-126fb03b",
+   "t": "Micah's Zion oracle cited as precedent from Hezekiah's reign",
+   "y0": -715,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Attributed to 'the days of Hezekiah king of Judah' (Jeremiah 26:18), whose reign is conventionally dated c. 715-686 BC.",
+   "chapters": [
+    "Jeremiah 26"
+   ],
+   "people": [
+    "Micah",
+    "Hezekiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-jer-26-48f20f17",
+   "t": "Execution of the prophet Urijah by Jehoiakim",
+   "y0": -609,
+   "y1": -598,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Narrated as occurring during Jehoiakim's reign (609-598 BC) without a more precise internal date; placed alongside Jeremiah's own trial.",
+   "chapters": [
+    "Jeremiah 26"
+   ],
+   "people": [
+    "Urijah",
+    "Jehoiakim",
+    "Elnathan"
+   ],
+   "places": [
+    "Egypt",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
@@ -5390,6 +5440,33 @@ timeline module, not this file._
    "things": [
     "wine",
     "house of the Lord"
+   ]
+  },
+  {
+   "id": "r-jer-39-12c56d2d",
+   "t": "Siege and Fall of Jerusalem to Babylon",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Regnal-year/month/day formula in Jeremiah 39:1-2, matched by the parallel notices in 2 Kings 25:1-3 and Jeremiah 52:4-6.",
+   "chapters": [
+    "Jeremiah 39"
+   ],
+   "people": [
+    "King Zedekiah",
+    "Nebuchadnezzar",
+    "Jeremiah (prophet)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
    ]
   },
   {
