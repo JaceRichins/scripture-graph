@@ -73,6 +73,31 @@ def test_evidence_scores_survive_stringy_model_output(imported_ctx):
     assert "confidence high" in text   # non-numeric shown honestly, not dropped
 
 
+def test_evidence_notes_survive_a_stringy_relevance_score(imported_ctx):
+    """The dossier gate compares a model-supplied score against a floor. A
+    stringy score there raised inside the write phase — the same rollback that
+    cost ps-49/50/51/69/78 their research runs, one function further along."""
+    from scripturegraph.agents.pipeline import _create_evidence_notes
+    ctx = imported_ctx
+    ev = {"text": "Evidence body.", "tier": "ACCEPT", "uid": "claim-relevance",
+          "evidence": {"class": "literary"}, "scripture_refs": [], "sources": [],
+          "scores": {"study_relevance": "0.94", "claim_confidence": 0.9}}
+    ctx.db().execute(
+        "INSERT INTO claims (id, node_id, claim_type, text, tier, scores_json,"
+        " consensus, sources_json, provenance_json, created_at, updated_at)"
+        " VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ("claim-relevance", "chapter:mosiah-14", "evidence", "Evidence body.",
+         "ACCEPT", json.dumps(ev["scores"]), None, "[]", "{}", "t", "t"))
+    ctx.db().commit()
+
+    created = _create_evidence_notes(ctx, "job-test", "mosiah-14", [ev])
+    assert created, "a numeric string above the floor must still make its note"
+
+    # a genuinely non-numeric score is below the floor, not an exception
+    worded = {**ev, "uid": "claim-relevance", "scores": {"study_relevance": "high"}}
+    assert _create_evidence_notes(ctx, "job-test", "mosiah-14", [worded]) == []
+
+
 def test_coverage_scoring_and_priority(imported_ctx):
     ctx = imported_ctx
     # chapter A gets passes done; chapter B gets nothing

@@ -24,6 +24,93 @@ def test_crash_resume_requeues_running(mini_ctx):
     assert q.counts(mini_ctx) == {"pending": 1}
 
 
+def _twin(ctx, status: str, **over) -> int:
+    """A second work_queue row with the same identity — how the live queue ends
+    up with two: enqueue() only dedupes against 'pending'/'running', so a
+    'dead' row does not block a fresh enqueue, and `sg queue --revive` later
+    hands that row back as 'pending' alongside the new one."""
+    from scripturegraph.util import now_iso
+    cur = ctx.db().execute(
+        "INSERT INTO work_queue(task_type,pass_name,target,priority,status,created_at,"
+        "updated_at) VALUES(?,?,?,0,?,?,?)",
+        (over.get("task_type", "pass"), over.get("pass_name", "entities"),
+         over.get("target", "t1"), status, now_iso(), now_iso()))
+    ctx.db().commit()
+    return cur.lastrowid
+
+
+def test_stale_running_row_is_not_stranded_by_a_pending_twin(mini_ctx):
+    """A duplicate row must never cost an item its only way out of 'running'.
+
+    UNIQUE(task_type, pass_name, target, status) ON CONFLICT IGNORE makes the
+    requeue UPDATE silently skip a row whose destination slot is already taken.
+    That stranded a live research item in 'running' for 2.2 days: nothing
+    claims 'running', nothing kills it, and no error is ever raised or logged."""
+    q.enqueue(mini_ctx, "pass", "t1", pass_name="entities")
+    mini_ctx.db().commit()
+    claimed = q.claim_batch(mini_ctx, 5)[0]  # claimed, then "crash"
+    _twin(mini_ctx, "pending")               # duplicate occupies the slot
+    assert q.counts(mini_ctx) == {"running": 1, "pending": 1}
+
+    assert q.requeue_stale(mini_ctx) == 1
+    assert q.counts(mini_ctx) == {"pending": 1}   # recovered, not stranded
+    assert mini_ctx.db().execute(
+        "SELECT COUNT(*) c FROM work_queue WHERE status='running'").fetchone()["c"] == 0
+    # and the survivor is claimable again — the whole point of requeueing
+    assert len(q.claim_batch(mini_ctx, 5)) == 1
+    assert claimed["target"] == "t1"
+
+
+def test_failure_is_recorded_even_when_a_twin_holds_the_target_status(mini_ctx):
+    """fail() must move the row out of 'running' and record why.
+
+    With a 'dead' twin already present the UPDATE was ignored outright, so the
+    item kept 'running' AND kept a stale error from an older attempt — exactly
+    what the wedged ps-69 row showed."""
+    q.enqueue(mini_ctx, "pass", "t1", pass_name="entities")
+    mini_ctx.db().commit()
+    item = q.claim_batch(mini_ctx, 1)[0]
+    mini_ctx.db().execute("UPDATE work_queue SET attempts=? WHERE id=?",
+                          (q.MAX_ATTEMPTS, item["id"]))
+    _twin(mini_ctx, "dead")
+
+    q.fail(mini_ctx, item["id"], "the real error")
+    row = mini_ctx.db().execute("SELECT status, error FROM work_queue WHERE id=?",
+                                (item["id"],)).fetchone()
+    assert row["status"] == "dead"
+    assert row["error"] == "the real error"
+    assert q.counts(mini_ctx) == {"dead": 1}
+
+
+def test_claim_does_not_hand_out_an_item_it_could_not_mark_running(mini_ctx):
+    """Claiming must actually take the item, or the next claim hands the same
+    work to another run while this one is still doing it."""
+    q.enqueue(mini_ctx, "pass", "t1", pass_name="entities")
+    mini_ctx.db().commit()
+    _twin(mini_ctx, "running")  # stale duplicate squatting the 'running' slot
+
+    item = q.claim_batch(mini_ctx, 5)[0]
+    assert mini_ctx.db().execute(
+        "SELECT status FROM work_queue WHERE id=?", (item["id"],)).fetchone()["status"] == "running"
+    assert q.claim_batch(mini_ctx, 5) == []  # not handed out twice
+
+
+def test_revive_clears_dead_duplicates_instead_of_leaving_them_dead(mini_ctx):
+    """--revive must not leave a row 'dead' forever because its own retry is
+    already queued: the UPDATE would be silently ignored and the count lie."""
+    q.enqueue(mini_ctx, "pass", "t1", pass_name="entities")
+    mini_ctx.db().commit()
+    item = q.claim_batch(mini_ctx, 1)[0]
+    mini_ctx.db().execute("UPDATE work_queue SET attempts=? WHERE id=?",
+                          (q.MAX_ATTEMPTS, item["id"]))
+    q.fail(mini_ctx, item["id"], "ProviderUnavailable: rate limited")
+    _twin(mini_ctx, "pending")  # the retry is already queued separately
+    assert q.counts(mini_ctx) == {"dead": 1, "pending": 1}
+
+    assert q.revive_dead(mini_ctx) == 1
+    assert q.counts(mini_ctx) == {"pending": 1}  # no dead leftovers
+
+
 def test_retry_until_dead(mini_ctx):
     q.enqueue(mini_ctx, "pass", "t1", pass_name="entities")
     mini_ctx.db().commit()

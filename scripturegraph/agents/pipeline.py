@@ -699,7 +699,13 @@ def _create_evidence_notes(ctx: Ctx, job_id: str, cslug: str,
     title_base = chapter_display(cslug)
     for ev in accepted_evidence:
         scores = ev.get("scores") or {}
-        if (scores.get("study_relevance") or 0) < 0.6 or ev["tier"] != "ACCEPT":
+        # study_relevance is model output: it arrives as 0.94, as "0.94", or as
+        # a word. Comparing a str against the floor raises inside the write
+        # phase, and EVERY judged claim for the chapter is then rolled back —
+        # so coerce, and treat a genuinely non-numeric score as below the floor
+        # (the claim is still persisted and rendered; only the dossier note,
+        # which the floor exists to ration, is skipped).
+        if _as_score(scores.get("study_relevance")) < 0.6 or ev["tier"] != "ACCEPT":
             continue
         cls = (ev.get("evidence") or {}).get("class") or "Evidence"
         sub = next((v for k, v in _EVIDENCE_SUBFOLDER.items() if k in cls.lower()),
@@ -748,6 +754,14 @@ def _create_evidence_notes(ctx: Ctx, job_id: str, cslug: str,
         except PatchViolation as e:
             ctx.log.warn("evidence_note.skipped", title=title, reason=str(e)[:200])
     return created
+
+
+def _as_score(v) -> float:
+    """Model-supplied 0–1 score as a float; 0.0 when it is not a number."""
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return 0.0
 
 
 def _ref_to_title(ref: str) -> str | None:
