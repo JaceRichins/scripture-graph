@@ -5730,6 +5730,34 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-josh-15-bb0fcbc6",
+   "t": "Judah's tribal allotment and Caleb's conquest of Hebron",
+   "y0": -1400,
+   "y1": -1370,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed shortly after the conquest of Canaan under Joshua, per traditional biblical chronology derived from 1 Kings 6:1; critical scholarship disputes this dating for the underlying town lists.",
+   "chapters": [
+    "Joshua 15"
+   ],
+   "people": [
+    "Caleb",
+    "Joshua (son of Nun)",
+    "Othniel",
+    "Achsah"
+   ],
+   "places": [
+    "Hebron",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-jsm-1-5b0f8dc9",
    "t": "Olivet Discourse delivered near the Jerusalem temple",
    "y0": 33,
