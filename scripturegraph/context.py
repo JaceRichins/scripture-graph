@@ -24,11 +24,20 @@ DEFAULTS: dict = {
         "enabled": True,      # master switch for scheduled runs
         "ai_enabled": True,   # allow AI provider calls during scheduled runs
         # How many research jobs run at once. THE knob for engine throughput:
-        # a job is ~9 minutes of waiting on provider subprocesses and ~7
+        # a job is ~12 minutes of waiting on provider subprocesses and ~7
         # seconds of landing, so extra workers buy nearly linear throughput.
-        # 1 = the original strictly-serial engine. Raise it only as far as the
-        # governor's headroom on the CONSTRAINED provider allows.
-        "workers": 1,
+        # 1 = the original strictly-serial engine.
+        #
+        # 3 is not a guess about the machine — the machine is nowhere near the
+        # limit (6 concurrent provider CLIs, ~11 GB free of 31.6). It is what
+        # the CONSTRAINED provider's weekly window affords. One researched
+        # chapter costs ~0.031pp of the Codex weekly window; at 3 workers a
+        # full week projects to ~80% of that window against the governor's 92%
+        # ceiling, leaving the 8pp reserve intact. A 4th worker projects past
+        # 99% and would spend the week being throttled instead of working,
+        # which is the exact failure the governor exists to prevent. Raise this
+        # only alongside a measurement of that window.
+        "workers": 3,
         # How long a scheduled run waits for the engine lock before skipping
         # its slot. The frequent run collides with a study tick every two hours
         # and holds the lock for under a second; without this the study tick

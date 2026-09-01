@@ -177,12 +177,33 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
 
     stats = {"done": 0, "failed": 0, "ai_done": 0, "skipped_ai": 0}
     task_types = ("pass", "job", "maintenance") if include_ai else ("pass", "maintenance")
-    if workers > 1:
-        # Parallel means AI jobs ONLY. Deterministic passes render vault files
-        # outside the landing lock, so a peer job's `hard_restore` would revert
-        # a finished render while `mark_pass` had already recorded it done at
-        # the current corpus version — silently losing it until the next corpus
-        # bump re-opens the pass. They get their own single-threaded phase.
+    if workers > 1 and include_ai:
+        # Deterministic passes render vault files with no landing lock around
+        # them, so a peer research job hitting `hard_restore` would revert a
+        # finished render while `mark_pass` had already recorded it done at the
+        # current corpus version — a silent loss until the next corpus bump.
+        # They therefore run FIRST and alone, and the parallel phase below takes
+        # AI jobs only.
+        #
+        # Draining them here rather than just refusing to claim them: the
+        # nightly run enqueues eleven deterministic waves and then calls this
+        # with include_ai=True. Leaving them to a phase that never comes would
+        # have stopped the whole nightly refresh the moment workers went above
+        # one, and stopped it silently.
+        det = process_queue(ctx, max_items=max_items, include_ai=False,
+                            deadline_ts=deadline_ts, workers=1)
+        for k in ("done", "failed"):
+            stats[k] += det.get(k, 0)
+        for k in ("deadline_hit", "provider_unavailable", "failure_circuit_open"):
+            if det.get(k):
+                stats[k] = det[k]
+        if max_items is not None:
+            max_items = max(0, max_items - stats["done"] - stats["failed"])
+        # a provider that was down for the deterministic phase is down for the
+        # AI phase too, and a deadline already passed does not come back
+        if det.get("provider_unavailable") or det.get("deadline_hit")                 or (max_items is not None and max_items <= 0):
+            stats["workers"] = workers
+            return stats
         task_types = ("job",)
     lock = threading.Lock()
     state = {"stop": False, "ai_inflight": 0, "consec_failures": 0}
