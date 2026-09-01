@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 69
 slug: ps-69
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 69]] · My notes: [[Psalm 69 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> A messianic psalm of David—The zeal of the Lord’s house has eaten Him up—Reproach has broken His heart—He is given gall and vinegar to drink—He is persecuted—He will save Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 27]] — 2 footnote cross-references (from [[Psalm 69#^ps-69-21|Psalm 69:21]])
+- [[Psalm 130]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-2|Psalm 69:2]])
+- [[D&C 122]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-2|Psalm 69:2]])
+- [[John 2]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-9|Psalm 69:9]])
+- [[Job 30]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-12|Psalm 69:12]])
+- [[Numbers 16]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-15|Psalm 69:15]])
 - [[John 2]] — 1 parallel verse, e.g. [[Psalm 69#^ps-69-9|Psalm 69:9]] ↔ [[John 2#^john-2-17|John 2:17]]
 <!-- SG:END related-scriptures -->
 
@@ -73,7 +80,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> White states that Psalm 69 is quoted or invoked in connection with Jesus more than nearly any other psalm, with Psalm 22 being quoted more frequently.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

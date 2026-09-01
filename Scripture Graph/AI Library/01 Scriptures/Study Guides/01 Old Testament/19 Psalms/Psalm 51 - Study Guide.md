@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 51]] · My notes: [[Psalm 51 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> David pleads for forgiveness after he went in to Bathsheba—He pleads, Create in me a clean heart, and renew a right spirit within me.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Psalm 25]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-1|Psalm 51:1]])
+- [[Acts 3]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-1|Psalm 51:1]])
+- [[Mosiah 26]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-2|Psalm 51:2]])
+- [[2 Samuel 12]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-4|Psalm 51:4]])
+- [[Romans 3]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-4|Psalm 51:4]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-4|Psalm 51:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +79,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> The Hebrew verb translated 'create' in Psalm 51:10 is the creation verb used in Genesis, which White interprets as a request for divine re-creation rather than self-repair.
+> — confidence high · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

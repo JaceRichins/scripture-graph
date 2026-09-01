@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 2
+corpus_version_reviewed: 7
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Psalm 78]] · My notes: [[Psalm 78 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Israelites are to teach the Lord’s law to their children—Disobedient Israel provoked the Lord in the wilderness—The Egyptian plagues are recounted—The Lord chooses and blesses Judah and David.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,9 +40,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Genesis 47]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-12|Psalm 78:12]] ↔ [[Genesis 47#^gen-47-11|Genesis 47:11]]
-- [[Genesis 41]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-27|Psalm 78:27]] ↔ [[Genesis 41#^gen-41-49|Genesis 41:49]]
-- [[D&C 124]] — 2 parallel verses, e.g. [[Psalm 78#^ps-78-72|Psalm 78:72]] ↔ [[D&C 124#^dc-124-15|D&C 124:15]]
+- [[Exodus 16]] — 3 footnote cross-references (from [[Psalm 78#^ps-78-18|Psalm 78:18]])
+- [[Exodus 14]] — 2 footnote cross-references (from [[Psalm 78#^ps-78-13|Psalm 78:13]])
+- [[Psalm 49]] — 1 footnote cross-reference (from [[Psalm 78#^ps-78-1|Psalm 78:1]])
+- [[2 Nephi 9]] — 1 footnote cross-reference (from [[Psalm 78#^ps-78-1|Psalm 78:1]])
+- [[Mosiah 26]] — 1 footnote cross-reference (from [[Psalm 78#^ps-78-1|Psalm 78:1]])
+- [[D&C 1]] — 1 footnote cross-reference (from [[Psalm 78#^ps-78-1|Psalm 78:1]])
+- [[Exodus 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +83,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> White reports that an ancient Jewish tradition and a number of scholars identify Psalm 78:38 as the central verse of the Psalter, while the Masoretes may instead identify verse 36.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

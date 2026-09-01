@@ -5781,6 +5781,84 @@ timeline module, not this file._
     "Mount of Olives",
     "Jerusalem"
    ]
+  },
+  {
+   "id": "r-lam-1-3d4ce975",
+   "t": "Fall of Jerusalem and onset of Babylonian exile",
+   "y0": -587,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Lamentations 1 describes the aftermath of Jerusalem's fall as an accomplished, recent catastrophe (captivity, desolate feasts, violated sanctuary), consistent with the Babylonian destruction of the city and temple recorded in 2 Kings 25.",
+   "chapters": [
+    "Lamentations 1"
+   ],
+   "people": [
+    "Jeremiah (traditional author)"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-lam-1-8581fc47",
+   "t": "Conquest, desolation, and captivity of Jerusalem",
+   "y0": -587,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter's captivity, hunger, invaded sanctuary, and ruined city fit the Babylonian conquest traditionally dated to 587/586 BC, but the poem itself names neither Babylon nor a year.",
+   "chapters": [
+    "Lamentations 1"
+   ],
+   "people": [
+    "People of Jerusalem",
+    "People of Judah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Sanctuary"
+   ]
+  },
+  {
+   "id": "r-lam-2-48527f2d",
+   "t": "Fall of Jerusalem and devastation of its sanctuary",
+   "y0": -587,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter is conventionally read against Jerusalem's Babylonian siege and destruction, historically narrated in 2 Kings 25 and Jeremiah 52; Lamentations 2 itself does not name Babylon or supply a date.",
+   "chapters": [
+    "Lamentations 2"
+   ],
+   "places": [
+    "Jerusalem",
+    "Zion"
+   ],
+   "things": [
+    "sanctuary",
+    "city walls"
+   ]
   }
  ],
  "book_years": {
