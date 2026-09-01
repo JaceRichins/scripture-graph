@@ -63,6 +63,15 @@ DEFAULTS: dict = {
         "strong_verse_shingles": 5,    # verse-pair "strong quote" threshold
         "chapter_pair_min_verses": 2,  # chapter-pair needs this many linked verses …
     },
+    # Paces AI spend against the provider's own rolling-window utilization so
+    # the engine glides into the cap instead of slamming into it and then doing
+    # nothing for days. Fails open when no reading is available.
+    "governor": {
+        "enabled": True,
+        "codex_ceiling_pct": 92.0,   # at/above this, no new AI jobs this run
+        "codex_slack_pct": 10.0,     # may run this far ahead of window pace
+        "codex_taper_pct": 20.0,     # then scale to zero over this many more
+    },
     "links": {
         "max_related_chapters": 12,
         "max_people_per_chapter": 15,

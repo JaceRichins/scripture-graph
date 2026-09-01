@@ -154,6 +154,7 @@ def run_nightly(ctx: Ctx) -> dict:
                     "topic-synthesis"):
             enqueue_wave(ctx, det)
         budget = _ai_budget(ctx, "nightly_ai_jobs")
+        budget, stats["governor"] = _governed(ctx, budget)
         stats["ai_budget"] = budget
         if budget:
             update_all_coverage(ctx)
@@ -224,6 +225,9 @@ def run_study(ctx: Ctx) -> dict:
         remaining = max(0, cap - used) if cap else 0
         stats["daily_cap"] = cap
         stats["daily_used"] = used
+        # pace the plan's rolling window: refresh the reading, then let the
+        # governor scale this tick's budget (fails open if it has no reading)
+        remaining, stats["governor"] = _governed(ctx, remaining)
         if remaining and any_provider_available(ctx) and ctx.c("automation.ai_enabled", True):
             from scripturegraph.waves import enqueue_wave
             pending_jobs = ctx.db().execute(
@@ -301,6 +305,27 @@ def run_weekly(ctx: Ctx) -> dict:
         _finish_run(ctx, run_id, "failed", {**stats, "error": str(e)})
         raise
     return stats
+
+
+def _governed(ctx: Ctx, ai_budget: int) -> tuple[int, dict]:
+    """Refresh subscription telemetry, then pace this run's AI budget by it.
+
+    Wrapped whole: neither the log scan nor the governor is worth failing a run
+    over, and a telemetry problem must not be able to stop research."""
+    if not ai_budget:
+        return ai_budget, {"skipped": "no budget"}
+    try:
+        from scripturegraph import usage
+        usage.scan(ctx, days=7)
+        budget, g = usage.apply_governor(ctx, ai_budget)
+        if budget != ai_budget:
+            ctx.log.info("governor.throttled", **{
+                k: v for k, v in g.items() if k in
+                ("used_pct", "pace_pct", "scale", "reason", "budget_before", "budget_after")})
+        return budget, g
+    except Exception as e:  # noqa: BLE001 — telemetry never sinks a run
+        ctx.log.warn("governor.failed", error=str(e)[:200])
+        return ai_budget, {"error": str(e)[:200]}
 
 
 def _process(ctx: Ctx, include_ai: bool, max_items: int | None,
