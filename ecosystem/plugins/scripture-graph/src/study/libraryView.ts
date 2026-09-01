@@ -23,6 +23,7 @@ type LibView =
   | { kind: "books"; volume: string }
   | { kind: "chapters"; book: BookInfo }
   | { kind: "graphs" }
+  | { kind: "timelines" }
   | { kind: "folder"; path: string; title: string };
 
 export class SGLibraryView extends ItemView {
@@ -77,7 +78,8 @@ export class SGLibraryView extends ItemView {
         : v.kind === "books" ? v.volume
           : v.kind === "chapters" ? v.book.name
             : v.kind === "graphs" ? "Graphs"
-              : v.title;
+              : v.kind === "timelines" ? "Timelines"
+                : v.title;
   }
 
   private render(): void {
@@ -99,6 +101,7 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "books") this.renderBooks(body, v.volume);
     else if (v.kind === "chapters") this.renderChapters(body, v.book);
     else if (v.kind === "graphs") this.renderGraphs(body);
+    else if (v.kind === "timelines") this.renderTimelines(body);
     else this.renderFolder(body, v.path);
   }
 
@@ -199,7 +202,7 @@ export class SGLibraryView extends ItemView {
       onTap: () => this.go({ kind: "scriptures" }),
     });
     this.cover(grid, { icon: "timeline", label: "Timeline",
-      onTap: () => this.host.openTimeline() });
+      onTap: () => this.go({ kind: "timelines" }) });
     this.cover(grid, { icon: "hub", label: "Study Hub",
       onTap: () => this.host.openNote("Study Hub") });
     this.cover(grid, { icon: "graph", label: "Graphs",
@@ -296,6 +299,57 @@ export class SGLibraryView extends ItemView {
       row.createSpan({ cls: `sg-gp-weight sg-gp-${p.weight}`, text: p.weight });
       row.onclick = () => void openGraphPreset(this.app, p);
     }
+  }
+
+  // ------------------------------------------------------------- timelines
+
+  /** 🕰 The Timelines shelf — the main chronologies ready to open, plus the
+   * ones you build yourself: any person, place or thing, alone or overlapped. */
+  private renderTimelines(c: HTMLElement): void {
+    let i = 0;
+    const row = (list: HTMLElement, icon: NavIconName, name: string,
+      sub: string, onTap: () => void): HTMLElement => {
+      const r = list.createDiv({ cls: "sg-nav-row" });
+      cascade(r, i++);
+      navIcon(r, icon);
+      const col = r.createDiv({ cls: "sg-nav-gcol" });
+      col.createDiv({ cls: "sg-nav-name", text: name });
+      col.createDiv({ cls: "sg-nav-gsub", text: sub });
+      r.onclick = onTap;
+      return r;
+    };
+    c.createDiv({ cls: "sg-nav-sect", text: "The main timelines" });
+    const main = c.createDiv({ cls: "sg-nav-list" });
+    row(main, "timeline", "The Whole Story",
+      "Every lane, every era — the full chronology",
+      () => this.host.openTimelinePreset({}));
+    row(main, "old-testament", "Bible", "The Old World lane on its own",
+      () => this.host.openTimelinePreset({ title: "Bible", lanes: ["ow"] }));
+    row(main, "book-of-mormon", "Book of Mormon", "The New World lane on its own",
+      () => this.host.openTimelinePreset({ title: "Book of Mormon", lanes: ["nw"] }));
+    row(main, "history", "Restoration", "The Restoration lane on its own",
+      () => this.host.openTimelinePreset({ title: "Restoration", lanes: ["rs"] }));
+    // yours: saved subject mixes — "Nephi" alone, or "Nephi AND Daniel"
+    c.createDiv({ cls: "sg-nav-sect", text: "Your timelines" });
+    const mine = c.createDiv({ cls: "sg-nav-list" });
+    for (const t of this.s.device.myTimelines ?? []) {
+      const solo = t.subjects.length === 1 && t.subjects[0]!.kind === "people";
+      const r = row(mine, solo ? "person" : "groups", t.name,
+        t.subjects.map(x => x.name).join(" · "),
+        () => this.host.openTimelinePreset({ title: t.name, subjects: t.subjects }));
+      const del = r.createEl("button", { cls: "sg-tls-del", text: "✕" });
+      del.setAttr("aria-label", `Delete ${t.name}`);
+      del.onclick = (e) => {
+        e.stopPropagation();
+        this.s.device.myTimelines =
+          (this.s.device.myTimelines ?? []).filter(x => x.name !== t.name);
+        void this.s.saveDevice();
+        this.render();
+      };
+    }
+    row(mine, "event", "New timeline",
+      "Pick a person, place or thing — or overlap several",
+      () => this.host.newTimeline(() => this.render()));
   }
 
   private renderFolder(c: HTMLElement, path: string): void {

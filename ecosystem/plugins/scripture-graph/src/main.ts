@@ -14,7 +14,7 @@ import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
 import { readingChapterTitle, registerSwipeNav } from "./study/swipeNav";
-import { TIMELINE_VIEW, TimelineView } from "./study/timelineView";
+import { TIMELINE_VIEW, TimelineView, openTimelinePicker, type TimelinePreset } from "./study/timelineView";
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
 import { WelcomeModal, refreshIdentity } from "./social/onboarding";
@@ -538,6 +538,35 @@ export default class SGPlugin extends Plugin {
     if (view instanceof TimelineView) view.setFocus(subject);
   }
 
+  /** the timeline pre-shaped by the shelf: whole story, one lane, or a saved mix */
+  private async openTimelinePreset(p: TimelinePreset): Promise<void> {
+    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
+    if (!leaf) {
+      // replace the current page (history remembers it) — never mint a tab
+      leaf = this.app.workspace.getLeaf(false);
+      recordHistory(leaf);
+      await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
+    }
+    await this.app.workspace.revealLeaf(leaf);
+    const view = leaf.view;
+    if (view instanceof TimelineView) view.applyPreset(p);
+  }
+
+  /** build-your-own timeline: the picker saves to this device (same name
+   * replaces, never duplicates), then the shelf redraws itself */
+  private newTimeline(onDone: () => void): void {
+    openTimelinePicker(this.state,
+      (this.state.device.myTimelines ?? []).map(t => t.name),
+      (t) => {
+        const mine = this.state.device.myTimelines ?? [];
+        const at = mine.findIndex(x => x.name === t.name);
+        if (at >= 0) mine[at] = t; else mine.push(t);
+        this.state.device.myTimelines = mine;
+        void this.state.saveDevice();
+        onDone();
+      });
+  }
+
   /** the shared host every navigation surface drives */
   private navigatorHost(): NavigatorHost {
     return {
@@ -572,6 +601,8 @@ export default class SGPlugin extends Plugin {
         void this.app.workspace.openLinkText(path, "");
       },
       openTimeline: () => void this.openTimeline(null),
+      openTimelinePreset: (p) => void this.openTimelinePreset(p),
+      newTimeline: (onDone) => this.newTimeline(onDone),
     };
   }
 

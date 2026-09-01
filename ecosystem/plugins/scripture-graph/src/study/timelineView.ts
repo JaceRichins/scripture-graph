@@ -41,6 +41,11 @@ export interface TimelineThread {
 export type SubjectKind = "people" | "places" | "things";
 export interface Subject { kind: SubjectKind; name: string }
 
+/** a saved timeline, ready to hand this view: which worlds to show, whose
+ * threads to weave — the Timelines shelf keeps these and applyPreset()
+ * brings one to life. An empty preset IS the whole story. */
+export interface TimelinePreset { title?: string; lanes?: string[]; subjects?: Subject[]; }
+
 const SUBJECT_META: Record<SubjectKind, { emoji: string; label: string }> = {
   people: { emoji: "🧑", label: "People" },
   places: { emoji: "🗺", label: "Places" },
@@ -129,9 +134,27 @@ const LANE_DIR: Record<string, 1 | -1> = { ow: 1, nw: -1, rs: 1 };
 const THREAD_F: Record<string, number[]> = {
   ow: [0.27, 0.35], nw: [0.7, 0.62, 0.75, 0.55], rs: [0.4, 0.6],
 };
+/** woven-focus accents: four hues that sit apart from the three lane rails
+ * and from each other, bright enough to carry on the dark sky — violet,
+ * rose, turquoise, apricot — assigned by pick order, cycling past four */
+const FOCUS_ACCENTS = ["#b48cff", "#ff8fab", "#49dcc4", "#ffb457"];
+
+/** a thread's accent by position — a LONE subject keeps the classic accent
+ * so plain focus looks exactly as it always has */
+function accentAt(i: number, total: number): string {
+  return total > 1
+    ? FOCUS_ACCENTS[i % FOCUS_ACCENTS.length]!
+    : "var(--interactive-accent)";
+}
 
 function yearStr(y: number): string {
   return y < 0 ? `${-y} BC` : `AD ${y}`;
+}
+
+/** names as a title: "Nephi", "Nephi & Daniel", "Nephi, Daniel & Alma" */
+function joinNames(names: string[]): string {
+  if (names.length <= 2) return names.join(" & ");
+  return `${names.slice(0, -1).join(", ")} & ${names[names.length - 1]}`;
 }
 
 export async function loadTimelineData(app: App): Promise<TimelineData | null> {
@@ -154,8 +177,13 @@ export class TimelineView extends ItemView {
   private detail = false;         // false = major+notable only
   private depth: 1 | 2 = 2;       // 2 = storylines braid out of their lane
   private query = "";
-  private focus: Subject | null = null;
+  /** the subjects whose threads are lit — empty = no focus, 2+ = a weave */
+  private focuses: Subject[] = [];
+  /** a saved timeline's name, leading the banner while its preset is live */
+  private presetTitle: string | null = null;
   private pendingYear: number | null = null;
+  /** a preset that arrived before the dataset did — applied on landing */
+  private pendingPreset: TimelinePreset | null = null;
   private streamEl: HTMLElement | null = null;
   private showLenses = false;     // category row folded away by default
   private showSearch = false;     // search folded away by default
@@ -168,20 +196,59 @@ export class TimelineView extends ItemView {
   }
   private boundResize = () => this.onResize();
 
-  /** enter/leave focus mode: the constellation becomes ONE subject's thread */
+  /** enter/leave focus mode: the constellation becomes ONE subject's thread
+   * (the one-subject doorway — woven timelines arrive via applyPreset) */
   setFocus(subject: Subject | null): void {
-    this.focus = subject;
+    this.focuses = subject ? [subject] : [];
+    this.presetTitle = null;
     this.render();
   }
 
-  /** back to seeing everything — one tap out of any filter corner */
-  private resetFilters(): void {
+  /** weave one more subject into the focus — deduped, accents self-assign */
+  private addFocus(subject: Subject): void {
+    if (!this.focuses.some(f => f.kind === subject.kind && f.name === subject.name)) {
+      this.focuses.push(subject);
+    }
+    this.render();
+  }
+
+  /** drop a single thread from the weave; dropping the last exits focus */
+  private dropFocus(i: number): void {
+    this.focuses.splice(i, 1);
+    if (!this.focuses.length) this.presetTitle = null;
+    this.render();
+  }
+
+  /** the shared zero state: every world, every lens, nothing focused */
+  private clearAll(): void {
     this.lanes = new Set(["ow", "nw", "rs"]);
     this.cats = new Set(CATS.map(c => c.key));
     this.detail = false;
     this.query = "";
     this.showLenses = false;
     this.showSearch = false;
+    this.focuses = [];
+    this.presetTitle = null;
+  }
+
+  /** back to seeing everything — one tap out of any filter corner */
+  private resetFilters(): void {
+    this.clearAll();
+    this.render();
+  }
+
+  /** a saved timeline arrives: reset to the whole story, then carve out its
+   * slice — worlds to show, subjects to weave. Held like pendingYear when
+   * the dataset hasn't landed yet; an empty preset simply shows everything. */
+  applyPreset(p: TimelinePreset): void {
+    if (!this.data) { this.pendingPreset = p; return; }
+    this.clearAll();
+    const lanes = (p.lanes ?? []).filter(l => l in LANE_NAME);
+    if (lanes.length) this.lanes = new Set(lanes);
+    if (p.subjects?.length) {
+      this.focuses = p.subjects.map(s => ({ kind: s.kind, name: s.name }));
+      this.presetTitle = p.title?.trim() || null;
+    }
     this.render();
   }
 
@@ -212,7 +279,7 @@ export class TimelineView extends ItemView {
   async onOpen(): Promise<void> {
     this.contentEl.addClass("sg-tl");
     this.data = await loadTimelineData(this.s.app);
-    this.render();
+    if (!this.consumePendingPreset()) this.render();
     // rotation / pane resize re-lays the constellation out at true pixels
     window.addEventListener("resize", this.boundResize);
     // the dataset may land AFTER this view opens (engine build finishing,
@@ -230,17 +297,26 @@ export class TimelineView extends ItemView {
 
   private async reload(): Promise<void> {
     this.data = await loadTimelineData(this.s.app);
-    this.render();
+    if (!this.consumePendingPreset()) this.render();
+  }
+
+  /** a preset held while the data was in flight applies the moment it lands */
+  private consumePendingPreset(): boolean {
+    const held = this.pendingPreset;
+    if (!held || !this.data) return false;
+    this.pendingPreset = null;
+    this.applyPreset(held);   // re-renders on its own
+    return true;
   }
 
   private visible(): TimelineEvent[] {
     if (!this.data) return [];
-    // focus mode: the subject decides — importance and category filters step
-    // aside so the whole thread shows, references and all
-    if (this.focus) {
-      const { kind, name } = this.focus;
+    // focus mode: the subjects decide — importance and category filters step
+    // aside so every woven thread shows whole, references and all; several
+    // subjects focused means the UNION of their journeys
+    if (this.focuses.length) {
       return this.data.events
-        .filter(e => (e[kind] ?? []).includes(name))
+        .filter(e => this.focuses.some(f => (e[f.kind] ?? []).includes(f.name)))
         .sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
     }
     const q = this.query.toLowerCase();
@@ -270,6 +346,12 @@ export class TimelineView extends ItemView {
       .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
   }
 
+  /** how many moments one subject's OWN thread holds */
+  private momentCount(f: Subject): number {
+    return (this.data?.events ?? [])
+      .filter(e => (e[f.kind] ?? []).includes(f.name)).length;
+  }
+
   private render(): void {
     const c = this.contentEl;
     c.empty();
@@ -283,32 +365,70 @@ export class TimelineView extends ItemView {
       return;
     }
 
-    // ---- focus banner: one subject's thread through time ----------------
-    if (this.focus) {
-      const meta = SUBJECT_META[this.focus.kind];
+    // ---- focus banner: the chosen threads through time ------------------
+    if (this.focuses.length) {
       const events = this.visible();
       const bar = c.createDiv({ cls: "sg-tl-bar" });
       const banner = bar.createDiv({ cls: "sg-tl-focus" });
-      banner.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
-      const col = banner.createDiv({ cls: "sg-tl-focus-col" });
-      col.createDiv({ cls: "sg-tl-focus-name", text: this.focus.name });
-      col.createDiv({
-        cls: "sg-tl-focus-sub",
-        text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`,
-      });
-      if (this.focus.kind !== "things") {
-        const page = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "↗" });
-        page.setAttr("aria-label", "Open page");
-        const name = this.focus.name;
-        page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+      // one plain subject keeps the classic banner; a weave — or a saved
+      // timeline wearing its title — leads with a name and chips below
+      const solo = this.focuses.length === 1 && !this.presetTitle
+        ? this.focuses[0]! : null;
+      if (solo) {
+        const meta = SUBJECT_META[solo.kind];
+        banner.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
+        const col = banner.createDiv({ cls: "sg-tl-focus-col" });
+        col.createDiv({ cls: "sg-tl-focus-name", text: solo.name });
+        col.createDiv({
+          cls: "sg-tl-focus-sub",
+          text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`,
+        });
+        if (solo.kind !== "things") {
+          const page = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "↗" });
+          page.setAttr("aria-label", "Open page");
+          const name = solo.name;
+          page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+        }
+        const swap = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "🎯" });
+        swap.setAttr("aria-label", "Focus something else");
+        swap.onclick = () => new SubjectPickerModal(this.s, this,
+          (sub) => this.setFocus(sub)).open();
+      } else {
+        banner.createSpan({ cls: "sg-tl-focus-emoji", text: "🧵" });
+        const col = banner.createDiv({ cls: "sg-tl-focus-col" });
+        col.createDiv({
+          cls: "sg-tl-focus-name",
+          text: this.presetTitle ?? joinNames(this.focuses.map(f => f.name)),
+        });
+        col.createDiv({
+          cls: "sg-tl-focus-sub",
+          text: `${this.focuses.length} thread${this.focuses.length === 1 ? "" : "s"}`
+            + ` · ${events.length} moment${events.length === 1 ? "" : "s"} across time`,
+        });
+        const add = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "＋" });
+        add.setAttr("aria-label", "Weave in another subject");
+        add.onclick = () => new SubjectPickerModal(this.s, this,
+          (sub) => this.addFocus(sub)).open();
       }
-      const swap = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "🎯" });
-      swap.setAttr("aria-label", "Focus something else");
-      swap.onclick = () => new SubjectPickerModal(this.s, this,
-        (sub) => this.setFocus(sub)).open();
       const exit = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "✕" });
       exit.setAttr("aria-label", "Back to everything");
       exit.onclick = () => this.setFocus(null);
+      if (!solo) {
+        // each thread as a chip in its own accent — its emoji, its moment
+        // count, its own quiet ✕; dropping the last one leaves focus
+        const chips = bar.createDiv({ cls: "sg-tlf-chips" });
+        this.focuses.forEach((f, i) => {
+          const n = this.momentCount(f);
+          const chip = chips.createDiv({ cls: "sg-tlf-chip" });
+          chip.style.setProperty("--sg-thread", accentAt(i, this.focuses.length));
+          chip.createSpan({ cls: "sg-tlf-emoji", text: SUBJECT_META[f.kind].emoji });
+          chip.createSpan({ cls: "sg-tlf-name", text: f.name });
+          chip.createSpan({ cls: "sg-tlf-n", text: `${n}` });
+          const x = chip.createEl("button", { cls: "sg-tlf-x", text: "✕" });
+          x.setAttr("aria-label", `Drop ${f.name} from the weave`);
+          x.onclick = () => this.dropFocus(i);
+        });
+      }
       this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
       this.renderStream();
       return;
@@ -485,7 +605,7 @@ export class TimelineView extends ItemView {
     const colW = Math.min(cw, 820);
     const off = Math.round((cw - colW) / 2);
 
-    const tx = (!this.focus && this.depth === 2) ? this.threadX(colW) : new Map<string, number>();
+    const tx = (!this.focuses.length && this.depth === 2) ? this.threadX(colW) : new Map<string, number>();
     const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
     const laneX = (lane: string) => off + colW * (LANE_F[lane] ?? 0.5);
     const xFor = (e: TimelineEvent) => {
@@ -671,15 +791,24 @@ export class TimelineView extends ItemView {
       });
     };
 
-    if (this.focus) {
-      // ---- focus mode: ONE bright thread stitches the subject's whole
-      // journey, crossing hemispheres wherever the subject did
-      const chain = events.map(e => pos.get(e.id)!);
-      if (chain.length > 1) el("path", { d: chainPath(chain), class: "sg-tl-focus-thread" });
-      const fmeta = SUBJECT_META[this.focus.kind];
-      for (let i = 1; i < events.length; i++) {
-        gapHit(events[i - 1]!, events[i]!, `${fmeta.emoji} ${this.focus.name}`);
-      }
+    if (this.focuses.length) {
+      // ---- focus mode: each chosen subject stitches its OWN bright thread
+      // through the whole journey, crossing hemispheres wherever it did —
+      // one accent per subject, so overlapping lives stay tellable apart
+      this.focuses.forEach((f, fi) => {
+        const mine = events.filter(e => (e[f.kind] ?? []).includes(f.name));
+        const chain = mine.map(e => pos.get(e.id)!);
+        if (chain.length > 1) {
+          el("path", {
+            d: chainPath(chain), class: "sg-tl-focus-thread",
+            style: `stroke: ${accentAt(fi, this.focuses.length)}`,
+          });
+        }
+        const who = `${SUBJECT_META[f.kind].emoji} ${f.name}`;
+        for (let i = 1; i < mine.length; i++) {
+          gapHit(mine[i - 1]!, mine[i]!, who);
+        }
+      });
     } else {
       // ---- the rails of time: one luminous line per world; at depth 2
       // storyline events step OUT of the main line into their own braid
@@ -1114,6 +1243,194 @@ export class SubjectPickerModal extends Modal {
     if (!list.childElementCount) {
       list.createDiv({ cls: "sg-nav-empty", text: "No one and nothing by that name yet." });
     }
+  }
+
+  onClose(): void {
+    unregisterSheet(this);
+    this.contentEl.empty();
+  }
+}
+
+/** 🧵 compose a timeline of your own — pick the lives to weave, name the
+ * braid. The Timelines shelf opens this and keeps whatever we hand back;
+ * deduping against existing names is the shelf's job, we only warn. */
+export function openTimelinePicker(
+  s: SGState,
+  existingNames: string[],
+  onSave: (t: { name: string; subjects: Subject[] }) => void,
+): void {
+  new TimelineComposerModal(s, existingNames, onSave).open();
+}
+
+class TimelineComposerModal extends Modal {
+  /** every subject the dataset knows, busiest lives first */
+  private all: { kind: SubjectKind; name: string; n: number }[] = [];
+  private loaded = false;
+  private picks: Subject[] = [];
+  private query = "";
+  /** the user owns the name once they type; clearing it hands it back */
+  private nameTouched = false;
+  private listEl: HTMLElement | null = null;
+  private chipsEl: HTMLElement | null = null;
+  private nameEl: HTMLInputElement | null = null;
+  private warnEl: HTMLElement | null = null;
+  private saveEl: HTMLButtonElement | null = null;
+
+  constructor(
+    private s: SGState,
+    private existingNames: string[],
+    private onSave: (t: { name: string; subjects: Subject[] }) => void,
+  ) {
+    super(s.app);
+  }
+
+  onOpen(): void {
+    registerSheet(this);
+    this.modalEl.addClass("sg-tlp-modal");
+    const c = this.contentEl;
+    c.addClass("sg-tlp", "sg-tlp-compose");
+    c.createEl("h3", { cls: "sg-tlp-title", text: "🧵 Weave a timeline" });
+    // the picks ride above the search, in sight while you hunt the next one
+    this.chipsEl = c.createDiv({ cls: "sg-tlp-chips" });
+    const search = c.createEl("input", {
+      cls: "sg-nav-filter",
+      attr: { type: "search", placeholder: "Nephi, Daniel, Jerusalem…" },
+    });
+    search.oninput = () => { this.query = search.value; this.renderList(); };
+    this.listEl = c.createDiv({ cls: "sg-tlp-list" });
+    // name + save sit below, in thumb's reach; the name suggests itself
+    const foot = c.createDiv({ cls: "sg-tlp-foot" });
+    const nameInput = foot.createEl("input", {
+      cls: "sg-tlp-name",
+      attr: { type: "text", placeholder: "Name this timeline…" },
+    });
+    this.nameEl = nameInput;
+    nameInput.oninput = () => {
+      this.nameTouched = !!nameInput.value.trim();
+      if (!this.nameTouched) this.suggestName();
+      this.refreshWarn();
+    };
+    const save = foot.createEl("button", { cls: "sg-tlp-save", text: "Save" });
+    save.onclick = () => this.save();
+    this.saveEl = save;
+    this.warnEl = c.createDiv({ cls: "sg-tlp-warn" });
+    this.refreshChips();
+    this.renderList();
+    // the same dataset the view reads — one source of truth for who exists
+    void loadTimelineData(this.s.app).then(data => {
+      const counts = new Map<string, { kind: SubjectKind; name: string; n: number }>();
+      for (const e of data?.events ?? []) {
+        for (const kind of ["people", "places", "things"] as SubjectKind[]) {
+          for (const name of e[kind] ?? []) {
+            const key = `${kind}:${name}`;
+            const row = counts.get(key) ?? { kind, name, n: 0 };
+            row.n += 1;
+            counts.set(key, row);
+          }
+        }
+      }
+      this.all = Array.from(counts.values())
+        .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
+      this.loaded = true;
+      this.renderList();
+    });
+    window.setTimeout(() => search.focus(), 80);
+  }
+
+  private isPicked(sub: Subject): boolean {
+    return this.picks.some(p => p.kind === sub.kind && p.name === sub.name);
+  }
+
+  private renderList(): void {
+    const list = this.listEl;
+    if (!list) return;
+    list.empty();
+    if (!this.loaded) {
+      list.createDiv({ cls: "sg-nav-empty", text: "Gathering everyone…" });
+      return;
+    }
+    const q = this.query.trim().toLowerCase();
+    const rows = this.all.filter(r => !q || r.name.toLowerCase().includes(q));
+    if (!rows.length) {
+      list.createDiv({
+        cls: "sg-nav-empty",
+        text: this.all.length
+          ? "No one and nothing by that name yet."
+          : "Timeline data hasn't reached this device yet.",
+      });
+      return;
+    }
+    for (const r of rows) {
+      const on = this.isPicked(r);
+      const row = list.createDiv({ cls: "sg-nav-row sg-tlp-row" });
+      row.toggleClass("sg-tlp-picked", on);
+      row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[r.kind].emoji });
+      row.createSpan({ cls: "sg-nav-name", text: r.name });
+      row.createSpan({ cls: "sg-tlp-count", text: `${r.n}` });
+      row.createSpan({ cls: "sg-tlp-tick", text: on ? "✓" : "＋" });
+      row.onclick = () => this.toggle(r);
+    }
+  }
+
+  /** tap a row to weave a subject in — tap again to let it go */
+  private toggle(r: { kind: SubjectKind; name: string }): void {
+    const i = this.picks.findIndex(p => p.kind === r.kind && p.name === r.name);
+    if (i >= 0) this.picks.splice(i, 1);
+    else this.picks.push({ kind: r.kind, name: r.name });
+    this.refreshChips();
+    this.renderList();
+  }
+
+  private refreshChips(): void {
+    const chips = this.chipsEl;
+    if (!chips) return;
+    chips.empty();
+    if (!this.picks.length) {
+      chips.createDiv({
+        cls: "sg-tlp-hint",
+        text: "Tap the lives to weave together — Nephi AND Daniel, if you like.",
+      });
+    }
+    this.picks.forEach((p, i) => {
+      const chip = chips.createDiv({ cls: "sg-tlp-chip" });
+      chip.style.setProperty("--sg-thread", accentAt(i, this.picks.length));
+      chip.createSpan({ text: `${SUBJECT_META[p.kind].emoji} ${p.name}` });
+      const x = chip.createEl("button", { cls: "sg-tlp-chip-x", text: "✕" });
+      x.setAttr("aria-label", `Remove ${p.name}`);
+      x.onclick = () => this.toggle(p);
+    });
+    if (!this.nameTouched) this.suggestName();
+    if (this.saveEl) this.saveEl.disabled = !this.picks.length;
+    this.refreshWarn();
+  }
+
+  private suggestName(): void {
+    if (this.nameEl) this.nameEl.value = joinNames(this.picks.map(p => p.name));
+  }
+
+  /** whatever the field holds, or the suggestion it would have held */
+  private finalName(): string {
+    return (this.nameEl?.value ?? "").trim()
+      || joinNames(this.picks.map(p => p.name));
+  }
+
+  /** collisions warn, softly — still saveable, the shelf sorts it out */
+  private refreshWarn(): void {
+    const warn = this.warnEl;
+    if (!warn) return;
+    const name = this.finalName().toLowerCase();
+    const taken = !!name && this.existingNames
+      .some(n => n.trim().toLowerCase() === name);
+    warn.setText(taken ? "You already have a timeline with this name." : "");
+    warn.toggleClass("sg-tlp-warn-on", taken);
+  }
+
+  private save(): void {
+    if (!this.picks.length) return;
+    const name = this.finalName();
+    const subjects = this.picks.map(p => ({ kind: p.kind, name: p.name }));
+    this.close();
+    this.onSave({ name, subjects });
   }
 
   onClose(): void {

@@ -73,6 +73,9 @@ export interface DeviceState {
   scene: string;
   /** timeline depth: 1 = one line per world, 2 = storylines split out */
   tlDepth: 1 | 2;
+  /** timelines you built yourself — a name plus the subjects it overlaps
+   * (mirrors timelineView's Subject shape; typed inline so state imports no study code) */
+  myTimelines?: { name: string; subjects: { kind: "people" | "places" | "things"; name: string }[] }[];
   /** swipe left/right on a reading page turns the chapter (mobile) */
   swipeNav: boolean;
 }

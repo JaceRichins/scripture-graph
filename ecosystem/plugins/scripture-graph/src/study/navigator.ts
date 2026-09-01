@@ -8,6 +8,7 @@ import { App, Modal } from "obsidian";
 import { BOOKS, chapterTitle, type BookInfo } from "@scripture-graph/core-sdk";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
+import { type TimelinePreset } from "./timelineView";
 
 export interface GroupActivityRow {
   group_name: string;
@@ -30,6 +31,8 @@ export interface NavigatorHost {
   listFolder(path: string): FolderListing;
   openPath(path: string): void;
   openTimeline(): void;
+  openTimelinePreset(p: TimelinePreset): void;
+  newTimeline(onDone: () => void): void;
 }
 
 /** the rest of the library — everything beyond the scriptures themselves */

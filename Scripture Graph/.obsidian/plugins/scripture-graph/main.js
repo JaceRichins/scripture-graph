@@ -6107,10 +6107,18 @@ __export(timelineView_exports, {
   SubjectPickerModal: () => SubjectPickerModal,
   TIMELINE_VIEW: () => TIMELINE_VIEW,
   TimelineView: () => TimelineView,
-  loadTimelineData: () => loadTimelineData
+  loadTimelineData: () => loadTimelineData,
+  openTimelinePicker: () => openTimelinePicker
 });
+function accentAt(i, total) {
+  return total > 1 ? FOCUS_ACCENTS[i % FOCUS_ACCENTS.length] : "var(--interactive-accent)";
+}
 function yearStr(y) {
   return y < 0 ? `${-y} BC` : `AD ${y}`;
+}
+function joinNames(names) {
+  if (names.length <= 2) return names.join(" & ");
+  return `${names.slice(0, -1).join(", ")} & ${names[names.length - 1]}`;
 }
 async function loadTimelineData(app) {
   const file = app.vault.getAbstractFileByPath(DATA_PATH);
@@ -6124,7 +6132,10 @@ async function loadTimelineData(app) {
     return null;
   }
 }
-var import_obsidian8, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, TimelineView, SubjectPickerModal;
+function openTimelinePicker(s, existingNames, onSave) {
+  new TimelineComposerModal(s, existingNames, onSave).open();
+}
+var import_obsidian8, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, FOCUS_ACCENTS, TimelineView, SubjectPickerModal, TimelineComposerModal;
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
@@ -6205,6 +6216,7 @@ var init_timelineView = __esm({
       nw: [0.7, 0.62, 0.75, 0.55],
       rs: [0.4, 0.6]
     };
+    FOCUS_ACCENTS = ["#b48cff", "#ff8fab", "#49dcc4", "#ffb457"];
     TimelineView = class extends import_obsidian8.ItemView {
       constructor(leaf, s) {
         super(leaf);
@@ -6221,8 +6233,13 @@ var init_timelineView = __esm({
       depth = 2;
       // 2 = storylines braid out of their lane
       query = "";
-      focus = null;
+      /** the subjects whose threads are lit — empty = no focus, 2+ = a weave */
+      focuses = [];
+      /** a saved timeline's name, leading the banner while its preset is live */
+      presetTitle = null;
       pendingYear = null;
+      /** a preset that arrived before the dataset did — applied on landing */
+      pendingPreset = null;
       streamEl = null;
       showLenses = false;
       // category row folded away by default
@@ -6236,19 +6253,57 @@ var init_timelineView = __esm({
         if (w > 80 && Math.abs(w - this.lastW) > 24) this.renderStream();
       }
       boundResize = () => this.onResize();
-      /** enter/leave focus mode: the constellation becomes ONE subject's thread */
+      /** enter/leave focus mode: the constellation becomes ONE subject's thread
+       * (the one-subject doorway — woven timelines arrive via applyPreset) */
       setFocus(subject) {
-        this.focus = subject;
+        this.focuses = subject ? [subject] : [];
+        this.presetTitle = null;
         this.render();
       }
-      /** back to seeing everything — one tap out of any filter corner */
-      resetFilters() {
+      /** weave one more subject into the focus — deduped, accents self-assign */
+      addFocus(subject) {
+        if (!this.focuses.some((f) => f.kind === subject.kind && f.name === subject.name)) {
+          this.focuses.push(subject);
+        }
+        this.render();
+      }
+      /** drop a single thread from the weave; dropping the last exits focus */
+      dropFocus(i) {
+        this.focuses.splice(i, 1);
+        if (!this.focuses.length) this.presetTitle = null;
+        this.render();
+      }
+      /** the shared zero state: every world, every lens, nothing focused */
+      clearAll() {
         this.lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
         this.cats = new Set(CATS.map((c) => c.key));
         this.detail = false;
         this.query = "";
         this.showLenses = false;
         this.showSearch = false;
+        this.focuses = [];
+        this.presetTitle = null;
+      }
+      /** back to seeing everything — one tap out of any filter corner */
+      resetFilters() {
+        this.clearAll();
+        this.render();
+      }
+      /** a saved timeline arrives: reset to the whole story, then carve out its
+       * slice — worlds to show, subjects to weave. Held like pendingYear when
+       * the dataset hasn't landed yet; an empty preset simply shows everything. */
+      applyPreset(p) {
+        if (!this.data) {
+          this.pendingPreset = p;
+          return;
+        }
+        this.clearAll();
+        const lanes = (p.lanes ?? []).filter((l) => l in LANE_NAME);
+        if (lanes.length) this.lanes = new Set(lanes);
+        if (p.subjects?.length) {
+          this.focuses = p.subjects.map((s) => ({ kind: s.kind, name: s.name }));
+          this.presetTitle = p.title?.trim() || null;
+        }
         this.render();
       }
       saveDepth() {
@@ -6275,7 +6330,7 @@ var init_timelineView = __esm({
       async onOpen() {
         this.contentEl.addClass("sg-tl");
         this.data = await loadTimelineData(this.s.app);
-        this.render();
+        if (!this.consumePendingPreset()) this.render();
         window.addEventListener("resize", this.boundResize);
         const vault = this.s.app.vault;
         if (typeof vault.on === "function") {
@@ -6289,13 +6344,20 @@ var init_timelineView = __esm({
       }
       async reload() {
         this.data = await loadTimelineData(this.s.app);
-        this.render();
+        if (!this.consumePendingPreset()) this.render();
+      }
+      /** a preset held while the data was in flight applies the moment it lands */
+      consumePendingPreset() {
+        const held = this.pendingPreset;
+        if (!held || !this.data) return false;
+        this.pendingPreset = null;
+        this.applyPreset(held);
+        return true;
       }
       visible() {
         if (!this.data) return [];
-        if (this.focus) {
-          const { kind, name } = this.focus;
-          return this.data.events.filter((e) => (e[kind] ?? []).includes(name)).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+        if (this.focuses.length) {
+          return this.data.events.filter((e) => this.focuses.some((f) => (e[f.kind] ?? []).includes(f.name))).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
         }
         const q = this.query.toLowerCase();
         return this.data.events.filter((e) => {
@@ -6326,6 +6388,10 @@ var init_timelineView = __esm({
         }
         return Array.from(counts.entries()).map(([name, n]) => ({ name, n })).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
       }
+      /** how many moments one subject's OWN thread holds */
+      momentCount(f) {
+        return (this.data?.events ?? []).filter((e) => (e[f.kind] ?? []).includes(f.name)).length;
+      }
       render() {
         const c = this.contentEl;
         c.empty();
@@ -6338,34 +6404,69 @@ var init_timelineView = __esm({
           retry.onclick = () => void this.reload();
           return;
         }
-        if (this.focus) {
-          const meta = SUBJECT_META[this.focus.kind];
+        if (this.focuses.length) {
           const events = this.visible();
           const bar2 = c.createDiv({ cls: "sg-tl-bar" });
           const banner2 = bar2.createDiv({ cls: "sg-tl-focus" });
-          banner2.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
-          const col = banner2.createDiv({ cls: "sg-tl-focus-col" });
-          col.createDiv({ cls: "sg-tl-focus-name", text: this.focus.name });
-          col.createDiv({
-            cls: "sg-tl-focus-sub",
-            text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`
-          });
-          if (this.focus.kind !== "things") {
-            const page = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u2197" });
-            page.setAttr("aria-label", "Open page");
-            const name = this.focus.name;
-            page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+          const solo = this.focuses.length === 1 && !this.presetTitle ? this.focuses[0] : null;
+          if (solo) {
+            const meta = SUBJECT_META[solo.kind];
+            banner2.createSpan({ cls: "sg-tl-focus-emoji", text: meta.emoji });
+            const col = banner2.createDiv({ cls: "sg-tl-focus-col" });
+            col.createDiv({ cls: "sg-tl-focus-name", text: solo.name });
+            col.createDiv({
+              cls: "sg-tl-focus-sub",
+              text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`
+            });
+            if (solo.kind !== "things") {
+              const page = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u2197" });
+              page.setAttr("aria-label", "Open page");
+              const name = solo.name;
+              page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+            }
+            const swap = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u{1F3AF}" });
+            swap.setAttr("aria-label", "Focus something else");
+            swap.onclick = () => new SubjectPickerModal(
+              this.s,
+              this,
+              (sub) => this.setFocus(sub)
+            ).open();
+          } else {
+            banner2.createSpan({ cls: "sg-tl-focus-emoji", text: "\u{1F9F5}" });
+            const col = banner2.createDiv({ cls: "sg-tl-focus-col" });
+            col.createDiv({
+              cls: "sg-tl-focus-name",
+              text: this.presetTitle ?? joinNames(this.focuses.map((f) => f.name))
+            });
+            col.createDiv({
+              cls: "sg-tl-focus-sub",
+              text: `${this.focuses.length} thread${this.focuses.length === 1 ? "" : "s"} \xB7 ${events.length} moment${events.length === 1 ? "" : "s"} across time`
+            });
+            const add = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\uFF0B" });
+            add.setAttr("aria-label", "Weave in another subject");
+            add.onclick = () => new SubjectPickerModal(
+              this.s,
+              this,
+              (sub) => this.addFocus(sub)
+            ).open();
           }
-          const swap = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u{1F3AF}" });
-          swap.setAttr("aria-label", "Focus something else");
-          swap.onclick = () => new SubjectPickerModal(
-            this.s,
-            this,
-            (sub) => this.setFocus(sub)
-          ).open();
           const exit = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\u2715" });
           exit.setAttr("aria-label", "Back to everything");
           exit.onclick = () => this.setFocus(null);
+          if (!solo) {
+            const chips = bar2.createDiv({ cls: "sg-tlf-chips" });
+            this.focuses.forEach((f, i) => {
+              const n = this.momentCount(f);
+              const chip = chips.createDiv({ cls: "sg-tlf-chip" });
+              chip.style.setProperty("--sg-thread", accentAt(i, this.focuses.length));
+              chip.createSpan({ cls: "sg-tlf-emoji", text: SUBJECT_META[f.kind].emoji });
+              chip.createSpan({ cls: "sg-tlf-name", text: f.name });
+              chip.createSpan({ cls: "sg-tlf-n", text: `${n}` });
+              const x = chip.createEl("button", { cls: "sg-tlf-x", text: "\u2715" });
+              x.setAttr("aria-label", `Drop ${f.name} from the weave`);
+              x.onclick = () => this.dropFocus(i);
+            });
+          }
           this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
           this.renderStream();
           return;
@@ -6547,7 +6648,7 @@ var init_timelineView = __esm({
         const W = cw;
         const colW = Math.min(cw, 820);
         const off = Math.round((cw - colW) / 2);
-        const tx = !this.focus && this.depth === 2 ? this.threadX(colW) : /* @__PURE__ */ new Map();
+        const tx = !this.focuses.length && this.depth === 2 ? this.threadX(colW) : /* @__PURE__ */ new Map();
         const threadById = new Map((this.data?.threads ?? []).map((t) => [t.id, t]));
         const laneX = (lane) => off + colW * (LANE_F[lane] ?? 0.5);
         const xFor = (e) => {
@@ -6725,13 +6826,22 @@ var init_timelineView = __esm({
             this.showGap(a, b, context, x, y2, true);
           });
         };
-        if (this.focus) {
-          const chain = events.map((e) => pos.get(e.id));
-          if (chain.length > 1) el("path", { d: chainPath(chain), class: "sg-tl-focus-thread" });
-          const fmeta = SUBJECT_META[this.focus.kind];
-          for (let i = 1; i < events.length; i++) {
-            gapHit(events[i - 1], events[i], `${fmeta.emoji} ${this.focus.name}`);
-          }
+        if (this.focuses.length) {
+          this.focuses.forEach((f, fi) => {
+            const mine = events.filter((e) => (e[f.kind] ?? []).includes(f.name));
+            const chain = mine.map((e) => pos.get(e.id));
+            if (chain.length > 1) {
+              el("path", {
+                d: chainPath(chain),
+                class: "sg-tl-focus-thread",
+                style: `stroke: ${accentAt(fi, this.focuses.length)}`
+              });
+            }
+            const who = `${SUBJECT_META[f.kind].emoji} ${f.name}`;
+            for (let i = 1; i < mine.length; i++) {
+              gapHit(mine[i - 1], mine[i], who);
+            }
+          });
         } else {
           for (const lane of ["ow", "nw", "rs"]) {
             const laneEvents = events.filter((e) => e.lane === lane && !onThread(e));
@@ -7124,6 +7234,165 @@ var init_timelineView = __esm({
         if (!list.childElementCount) {
           list.createDiv({ cls: "sg-nav-empty", text: "No one and nothing by that name yet." });
         }
+      }
+      onClose() {
+        unregisterSheet(this);
+        this.contentEl.empty();
+      }
+    };
+    TimelineComposerModal = class extends import_obsidian8.Modal {
+      constructor(s, existingNames, onSave) {
+        super(s.app);
+        this.s = s;
+        this.existingNames = existingNames;
+        this.onSave = onSave;
+      }
+      /** every subject the dataset knows, busiest lives first */
+      all = [];
+      loaded = false;
+      picks = [];
+      query = "";
+      /** the user owns the name once they type; clearing it hands it back */
+      nameTouched = false;
+      listEl = null;
+      chipsEl = null;
+      nameEl = null;
+      warnEl = null;
+      saveEl = null;
+      onOpen() {
+        registerSheet(this);
+        this.modalEl.addClass("sg-tlp-modal");
+        const c = this.contentEl;
+        c.addClass("sg-tlp", "sg-tlp-compose");
+        c.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F9F5} Weave a timeline" });
+        this.chipsEl = c.createDiv({ cls: "sg-tlp-chips" });
+        const search = c.createEl("input", {
+          cls: "sg-nav-filter",
+          attr: { type: "search", placeholder: "Nephi, Daniel, Jerusalem\u2026" }
+        });
+        search.oninput = () => {
+          this.query = search.value;
+          this.renderList();
+        };
+        this.listEl = c.createDiv({ cls: "sg-tlp-list" });
+        const foot = c.createDiv({ cls: "sg-tlp-foot" });
+        const nameInput = foot.createEl("input", {
+          cls: "sg-tlp-name",
+          attr: { type: "text", placeholder: "Name this timeline\u2026" }
+        });
+        this.nameEl = nameInput;
+        nameInput.oninput = () => {
+          this.nameTouched = !!nameInput.value.trim();
+          if (!this.nameTouched) this.suggestName();
+          this.refreshWarn();
+        };
+        const save = foot.createEl("button", { cls: "sg-tlp-save", text: "Save" });
+        save.onclick = () => this.save();
+        this.saveEl = save;
+        this.warnEl = c.createDiv({ cls: "sg-tlp-warn" });
+        this.refreshChips();
+        this.renderList();
+        void loadTimelineData(this.s.app).then((data) => {
+          const counts = /* @__PURE__ */ new Map();
+          for (const e of data?.events ?? []) {
+            for (const kind of ["people", "places", "things"]) {
+              for (const name of e[kind] ?? []) {
+                const key = `${kind}:${name}`;
+                const row = counts.get(key) ?? { kind, name, n: 0 };
+                row.n += 1;
+                counts.set(key, row);
+              }
+            }
+          }
+          this.all = Array.from(counts.values()).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
+          this.loaded = true;
+          this.renderList();
+        });
+        window.setTimeout(() => search.focus(), 80);
+      }
+      isPicked(sub) {
+        return this.picks.some((p) => p.kind === sub.kind && p.name === sub.name);
+      }
+      renderList() {
+        const list = this.listEl;
+        if (!list) return;
+        list.empty();
+        if (!this.loaded) {
+          list.createDiv({ cls: "sg-nav-empty", text: "Gathering everyone\u2026" });
+          return;
+        }
+        const q = this.query.trim().toLowerCase();
+        const rows = this.all.filter((r) => !q || r.name.toLowerCase().includes(q));
+        if (!rows.length) {
+          list.createDiv({
+            cls: "sg-nav-empty",
+            text: this.all.length ? "No one and nothing by that name yet." : "Timeline data hasn't reached this device yet."
+          });
+          return;
+        }
+        for (const r of rows) {
+          const on = this.isPicked(r);
+          const row = list.createDiv({ cls: "sg-nav-row sg-tlp-row" });
+          row.toggleClass("sg-tlp-picked", on);
+          row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[r.kind].emoji });
+          row.createSpan({ cls: "sg-nav-name", text: r.name });
+          row.createSpan({ cls: "sg-tlp-count", text: `${r.n}` });
+          row.createSpan({ cls: "sg-tlp-tick", text: on ? "\u2713" : "\uFF0B" });
+          row.onclick = () => this.toggle(r);
+        }
+      }
+      /** tap a row to weave a subject in — tap again to let it go */
+      toggle(r) {
+        const i = this.picks.findIndex((p) => p.kind === r.kind && p.name === r.name);
+        if (i >= 0) this.picks.splice(i, 1);
+        else this.picks.push({ kind: r.kind, name: r.name });
+        this.refreshChips();
+        this.renderList();
+      }
+      refreshChips() {
+        const chips = this.chipsEl;
+        if (!chips) return;
+        chips.empty();
+        if (!this.picks.length) {
+          chips.createDiv({
+            cls: "sg-tlp-hint",
+            text: "Tap the lives to weave together \u2014 Nephi AND Daniel, if you like."
+          });
+        }
+        this.picks.forEach((p, i) => {
+          const chip = chips.createDiv({ cls: "sg-tlp-chip" });
+          chip.style.setProperty("--sg-thread", accentAt(i, this.picks.length));
+          chip.createSpan({ text: `${SUBJECT_META[p.kind].emoji} ${p.name}` });
+          const x = chip.createEl("button", { cls: "sg-tlp-chip-x", text: "\u2715" });
+          x.setAttr("aria-label", `Remove ${p.name}`);
+          x.onclick = () => this.toggle(p);
+        });
+        if (!this.nameTouched) this.suggestName();
+        if (this.saveEl) this.saveEl.disabled = !this.picks.length;
+        this.refreshWarn();
+      }
+      suggestName() {
+        if (this.nameEl) this.nameEl.value = joinNames(this.picks.map((p) => p.name));
+      }
+      /** whatever the field holds, or the suggestion it would have held */
+      finalName() {
+        return (this.nameEl?.value ?? "").trim() || joinNames(this.picks.map((p) => p.name));
+      }
+      /** collisions warn, softly — still saveable, the shelf sorts it out */
+      refreshWarn() {
+        const warn = this.warnEl;
+        if (!warn) return;
+        const name = this.finalName().toLowerCase();
+        const taken = !!name && this.existingNames.some((n) => n.trim().toLowerCase() === name);
+        warn.setText(taken ? "You already have a timeline with this name." : "");
+        warn.toggleClass("sg-tlp-warn-on", taken);
+      }
+      save() {
+        if (!this.picks.length) return;
+        const name = this.finalName();
+        const subjects = this.picks.map((p) => ({ kind: p.kind, name: p.name }));
+        this.close();
+        this.onSave({ name, subjects });
       }
       onClose() {
         unregisterSheet(this);
@@ -9157,6 +9426,20 @@ var GRAPH_PRESETS = [
       // file: matches names only (no reads, instant): the 204 pages that
       // BEAR a title of Christ — entity, topics, dictionary, talks.
       search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
+      // color groups ride the SAME query pipeline (updateSearch concats
+      // them into setQuery, and requiredInputs merge across ALL queries)
+      // — one content-word group re-triggers the full-vault read. The
+      // v0.53 log: why=ceiling n=0 at 120s. These are file:-only too.
+      groups: [
+        { query: "file:Jesus", hex: "#e05252" },
+        { query: "file:Christ", hex: "#e0b152" },
+        { query: "file:Messiah", hex: "#b1e052" },
+        { query: "file:Jehovah", hex: "#52e052" },
+        { query: "file:Immanuel", hex: "#52e0b1" },
+        { query: `file:"Son of God"`, hex: "#52b1e0" },
+        { query: `file:"Son of Man"`, hex: "#5252e0" },
+        { query: "file:Savior", hex: "#b152e0" }
+      ],
       note: "The pages that bear His name \u2014 instant on a phone"
     }
   },
@@ -9255,6 +9538,7 @@ var MOBILE_FLOOR = {
 };
 function optionsFor(p) {
   const mobile = import_obsidian2.Platform.isMobile;
+  const groups = mobile && p.mobile?.groups || p.groups;
   return {
     "collapse-filter": true,
     search: mobile && p.mobile?.search || p.search,
@@ -9263,7 +9547,7 @@ function optionsFor(p) {
     hideUnresolved: true,
     showOrphans: false,
     "collapse-color-groups": true,
-    colorGroups: p.groups.map((g) => ({ query: g.query, color: { a: 1, rgb: hexToInt(g.hex) } })),
+    colorGroups: groups.map((g) => ({ query: g.query, color: { a: 1, rgb: hexToInt(g.hex) } })),
     "collapse-display": true,
     showArrow: false,
     textFadeMultiplier: -0.4,
@@ -9440,7 +9724,8 @@ function watchSettle(leaf, p, veil) {
     if (nodesAt === null && (ms > EMPTY_MAX_MS && !scanning || ms > CEILING_MS)) {
       window.clearInterval(tick);
       done(scanning ? "ceiling" : "empty-cap", 0);
-      new import_obsidian2.Notice("The graph never filled in \u2014 \u2715 or the back arrow returns to the shelf.");
+      goBack(leaf);
+      new import_obsidian2.Notice("That graph never filled in \u2014 brought you back to the shelf.");
     }
   }, 150);
 }
@@ -10051,7 +10336,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   title() {
     const v = this.view;
-    return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.title;
+    return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.title;
   }
   render() {
     const c = this.contentEl;
@@ -10070,6 +10355,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     else if (v.kind === "books") this.renderBooks(body, v.volume);
     else if (v.kind === "chapters") this.renderChapters(body, v.book);
     else if (v.kind === "graphs") this.renderGraphs(body);
+    else if (v.kind === "timelines") this.renderTimelines(body);
     else this.renderFolder(body, v.path);
   }
   /** jump straight to the Graphs shelf (the palette command lands here) */
@@ -10165,7 +10451,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     this.cover(grid, {
       icon: "timeline",
       label: "Timeline",
-      onTap: () => this.host.openTimeline()
+      onTap: () => this.go({ kind: "timelines" })
     });
     this.cover(grid, {
       icon: "hub",
@@ -10262,6 +10548,79 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       row.createSpan({ cls: `sg-gp-weight sg-gp-${p.weight}`, text: p.weight });
       row.onclick = () => void openGraphPreset(this.app, p);
     }
+  }
+  // ------------------------------------------------------------- timelines
+  /** 🕰 The Timelines shelf — the main chronologies ready to open, plus the
+   * ones you build yourself: any person, place or thing, alone or overlapped. */
+  renderTimelines(c) {
+    let i = 0;
+    const row = (list, icon, name, sub, onTap) => {
+      const r = list.createDiv({ cls: "sg-nav-row" });
+      cascade(r, i++);
+      navIcon(r, icon);
+      const col = r.createDiv({ cls: "sg-nav-gcol" });
+      col.createDiv({ cls: "sg-nav-name", text: name });
+      col.createDiv({ cls: "sg-nav-gsub", text: sub });
+      r.onclick = onTap;
+      return r;
+    };
+    c.createDiv({ cls: "sg-nav-sect", text: "The main timelines" });
+    const main = c.createDiv({ cls: "sg-nav-list" });
+    row(
+      main,
+      "timeline",
+      "The Whole Story",
+      "Every lane, every era \u2014 the full chronology",
+      () => this.host.openTimelinePreset({})
+    );
+    row(
+      main,
+      "old-testament",
+      "Bible",
+      "The Old World lane on its own",
+      () => this.host.openTimelinePreset({ title: "Bible", lanes: ["ow"] })
+    );
+    row(
+      main,
+      "book-of-mormon",
+      "Book of Mormon",
+      "The New World lane on its own",
+      () => this.host.openTimelinePreset({ title: "Book of Mormon", lanes: ["nw"] })
+    );
+    row(
+      main,
+      "history",
+      "Restoration",
+      "The Restoration lane on its own",
+      () => this.host.openTimelinePreset({ title: "Restoration", lanes: ["rs"] })
+    );
+    c.createDiv({ cls: "sg-nav-sect", text: "Your timelines" });
+    const mine = c.createDiv({ cls: "sg-nav-list" });
+    for (const t of this.s.device.myTimelines ?? []) {
+      const solo = t.subjects.length === 1 && t.subjects[0].kind === "people";
+      const r = row(
+        mine,
+        solo ? "person" : "groups",
+        t.name,
+        t.subjects.map((x) => x.name).join(" \xB7 "),
+        () => this.host.openTimelinePreset({ title: t.name, subjects: t.subjects })
+      );
+      const del = r.createEl("button", { cls: "sg-tls-del", text: "\u2715" });
+      del.setAttr("aria-label", `Delete ${t.name}`);
+      del.onclick = (e) => {
+        e.stopPropagation();
+        this.s.device.myTimelines = (this.s.device.myTimelines ?? []).filter((x) => x.name !== t.name);
+        void this.s.saveDevice();
+        this.render();
+      };
+    }
+    row(
+      mine,
+      "event",
+      "New timeline",
+      "Pick a person, place or thing \u2014 or overlap several",
+      () => this.host.newTimeline(() => this.render())
+    );
   }
   renderFolder(c, path) {
     const listing = this.host.listFolder(path);
@@ -13336,6 +13695,35 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     const view = leaf?.view;
     if (view instanceof TimelineView) view.setFocus(subject);
   }
+  /** the timeline pre-shaped by the shelf: whole story, one lane, or a saved mix */
+  async openTimelinePreset(p) {
+    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
+    if (!leaf) {
+      leaf = this.app.workspace.getLeaf(false);
+      recordHistory(leaf);
+      await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
+    }
+    await this.app.workspace.revealLeaf(leaf);
+    const view = leaf.view;
+    if (view instanceof TimelineView) view.applyPreset(p);
+  }
+  /** build-your-own timeline: the picker saves to this device (same name
+   * replaces, never duplicates), then the shelf redraws itself */
+  newTimeline(onDone) {
+    openTimelinePicker(
+      this.state,
+      (this.state.device.myTimelines ?? []).map((t) => t.name),
+      (t) => {
+        const mine = this.state.device.myTimelines ?? [];
+        const at = mine.findIndex((x) => x.name === t.name);
+        if (at >= 0) mine[at] = t;
+        else mine.push(t);
+        this.state.device.myTimelines = mine;
+        void this.state.saveDevice();
+        onDone();
+      }
+    );
+  }
   /** the shared host every navigation surface drives */
   navigatorHost() {
     return {
@@ -13367,7 +13755,9 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       openPath: (path) => {
         void this.app.workspace.openLinkText(path, "");
       },
-      openTimeline: () => void this.openTimeline(null)
+      openTimeline: () => void this.openTimeline(null),
+      openTimelinePreset: (p) => void this.openTimelinePreset(p),
+      newTimeline: (onDone) => this.newTimeline(onDone)
     };
   }
   /** 📖 The Library PAGE — Gospel Library's whole-screen architecture. */

@@ -1995,3 +1995,114 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
 }
 .sg-gveil-x:hover { color: var(--text-normal); }
 
+/* ---- timelines shelf: the ✕ chip that removes a saved timeline row ---- */
+.sg-tls-del {
+  flex: none; width: 30px; height: 30px; padding: 0;
+  display: grid; place-items: center;
+  border-radius: 999px; border: none; box-shadow: none;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-faint); font-size: 0.82em; line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.12s ease;
+}
+.sg-nav-row:hover .sg-tls-del { color: var(--text-muted); }
+.sg-tls-del:hover {
+  color: #ff8f8f;
+  background: color-mix(in srgb, #ff6b6b 16%, transparent);
+}
+.sg-tls-del:active { transform: scale(0.9); }
+
+/* ---- 🧵 woven timelines: multi-focus banner chips + the compose-your-own modal (agent A · timelineView.ts) ---- */
+
+/* the weave's banner chips: one per focused thread, wearing its accent —
+   the row doubles as the legend for the colored threads below */
+.sg-tlf-chips {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  max-width: 820px; margin: 0 auto; width: 100%;
+  padding: 2px 2px 4px;
+}
+.sg-tlf-chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  min-height: 32px; padding: 2px 4px 2px 10px; border-radius: 16px;
+  font-size: 0.8em; font-weight: 600; color: var(--sg-ink);
+  background: color-mix(in srgb, var(--sg-thread, #888) 13%, transparent);
+  border: 1px solid color-mix(in srgb, var(--sg-thread, #888) 55%, transparent);
+}
+.sg-tlf-emoji { font-size: 1em; }
+.sg-tlf-name {
+  max-width: 34vw; overflow: hidden;
+  text-overflow: ellipsis; white-space: nowrap;
+}
+.sg-tlf-n {
+  font-size: 0.85em; font-weight: 700;
+  color: color-mix(in srgb, var(--sg-thread, #888) 80%, var(--sg-ink));
+}
+.sg-tlf-x {
+  width: 26px; height: 26px; padding: 0; border-radius: 13px;
+  display: grid; place-items: center;
+  background: transparent; border: none; box-shadow: none;
+  color: var(--sg-ink-dim); font-size: 0.85em; cursor: pointer;
+}
+.sg-tlf-x:hover { color: var(--sg-ink); background: rgba(255, 255, 255, 0.08); }
+
+/* the composer: picked lives ride as chips above the search, removable */
+.sg-tlp-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; }
+.sg-tlp-hint { color: var(--text-faint); font-size: 0.85em; padding: 4px 2px; }
+.sg-tlp-chip {
+  display: inline-flex; align-items: center; gap: 4px;
+  min-height: 32px; padding: 2px 2px 2px 10px; border-radius: 16px;
+  font-size: 0.85em; font-weight: 600; color: var(--text-normal);
+  background: color-mix(in srgb, var(--sg-thread, var(--interactive-accent)) 14%, transparent);
+  border: 1px solid color-mix(in srgb, var(--sg-thread, var(--interactive-accent)) 50%, transparent);
+}
+.sg-tlp-chip-x {
+  width: 26px; height: 26px; padding: 0; border-radius: 13px;
+  display: grid; place-items: center;
+  background: transparent; border: none; box-shadow: none;
+  color: var(--text-muted); font-size: 0.85em; cursor: pointer;
+}
+.sg-tlp-chip-x:hover { color: var(--text-normal); background: rgba(255, 255, 255, 0.08); }
+/* denser rows than the navigator's (this list runs LONG), a ＋/✓ tail */
+.sg-nav-row.sg-tlp-row { min-height: 46px; }
+.sg-nav-row.sg-tlp-picked {
+  background: color-mix(in srgb, var(--interactive-accent) 13%, transparent);
+}
+.sg-nav-row.sg-tlp-picked:hover {
+  background: color-mix(in srgb, var(--interactive-accent) 18%, transparent);
+}
+.sg-tlp-tick {
+  width: 26px; text-align: center;
+  color: var(--text-faint); font-weight: 700;
+}
+.sg-tlp-picked .sg-tlp-tick { color: var(--interactive-accent); }
+/* the composer's list leaves room for the foot on short phones */
+.sg-tlp-compose .sg-tlp-list { max-height: min(46vh, 440px); }
+/* name + save: one thumb-height row, the name field in the filter's glass */
+.sg-tlp-foot { display: flex; gap: 8px; margin-top: 10px; }
+.sg-tlp-name {
+  flex: 1; min-width: 0; min-height: 44px;
+  border-radius: 22px; padding: 0 16px;
+  background: rgba(255, 255, 255, 0.055);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  color: var(--text-normal); font-size: 0.95em;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.sg-tlp-name:focus {
+  border-color: color-mix(in srgb, var(--interactive-accent) 55%, transparent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--interactive-accent) 14%, transparent);
+  outline: none;
+}
+.sg-tlp-name::placeholder { color: var(--text-faint); }
+.sg-tlp-save {
+  flex: 0 0 auto; min-height: 44px; padding: 0 20px; border-radius: 22px;
+  font-weight: 700; font-size: 0.95em; border: none; box-shadow: none;
+  background: var(--interactive-accent); color: var(--text-on-accent);
+  cursor: pointer;
+}
+.sg-tlp-save:disabled { opacity: 0.4; cursor: default; }
+/* the collision note: subtle, present only when it has something to say */
+.sg-tlp-warn { display: none; }
+.sg-tlp-warn.sg-tlp-warn-on {
+  display: block; margin-top: 6px;
+  font-size: 0.8em; color: var(--color-orange, #e0a35c);
+}
