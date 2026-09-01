@@ -49,7 +49,7 @@ _Not yet developed._
 - **588 BC–587 BC** — Jeremiah's imprisonment and purchase of the field of Anathoth · [[Jeremiah 32]] · [[600-501 BC]] *(traditional dating)*
 - **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Siege and Fall of Jerusalem to Babylon · [[Jeremiah 39]] · [[600-501 BC]] *(traditional dating)*
-- **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
+- **588 BC–586 BC** — Babylonian siege and destruction of Jerusalem · [[Lamentations 4]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

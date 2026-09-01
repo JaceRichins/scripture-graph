@@ -5859,6 +5859,34 @@ timeline module, not this file._
     "sanctuary",
     "city walls"
    ]
+  },
+  {
+   "id": "r-lam-4-e068b56a",
+   "t": "Babylonian siege and destruction of Jerusalem",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional dating of Nebuchadnezzar's siege and destruction of Jerusalem and the Temple, the historical backdrop for Lamentations 4's famine and destruction imagery.",
+   "chapters": [
+    "Lamentations 4"
+   ],
+   "people": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Temple of Solomon"
+   ]
   }
  ],
  "book_years": {

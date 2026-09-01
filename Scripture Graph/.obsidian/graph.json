@@ -1,10 +1,10 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "Jesus OR Christ OR Messiah OR Jehovah OR Immanuel OR \"Son of God\" OR \"Lamb of God\" OR \"Son of Man\" OR Redeemer OR Savior",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07066514368684963,
+  "scale": 0.09541537918485136,
   "close": false
 }
