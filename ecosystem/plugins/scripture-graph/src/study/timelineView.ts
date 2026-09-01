@@ -228,7 +228,6 @@ export class TimelineView extends ItemView {
     this.cats = new Set(CATS.map(c => c.key));
     this.detail = false;
     this.query = "";
-    this.showLenses = false;
     this.showSearch = false;
     this.focuses = [];
     this.presetTitle = null;
