@@ -205,6 +205,25 @@ def cmd_queue(args):
     return 0
 
 
+def cmd_usage(args):
+    ctx = _ctx(args)
+    from scripturegraph import usage
+    scanned = None
+    if not args.no_scan:
+        scanned = usage.scan(ctx, days=args.days, rescan=args.rescan)
+    rep = usage.report(ctx, days=args.days)
+    if args.json:
+        print(json.dumps({"scan": scanned, **rep}, indent=2))
+        return 0
+    print(usage.render(rep))
+    if scanned:
+        print(f"\n  (scan: {scanned['claude_requests']} claude requests, "
+              f"{scanned['codex_turns']} codex turns from "
+              f"{scanned['claude_files'] + scanned['codex_files']} changed files "
+              f"in {scanned['seconds']}s)")
+    return 0
+
+
 def cmd_dictionary(args):
     ctx = _ctx(args)
     from scripturegraph import gitops
@@ -424,6 +443,16 @@ def main(argv=None) -> int:
     sp.add_argument("--all", action="store_true",
                     help="with --revive: revive every dead item, not just provider errors")
     sp.set_defaults(fn=cmd_queue)
+
+    sp = sub.add_parser("usage", help="AI subscription utilization + headroom "
+                                      "(all loops, not just this engine)")
+    sp.add_argument("--days", type=int, default=7, help="reporting window (default 7)")
+    sp.add_argument("--no-scan", action="store_true",
+                    help="report from already-harvested samples; skip the log scan")
+    sp.add_argument("--rescan", action="store_true",
+                    help="discard harvested samples and re-read the window from scratch")
+    sp.add_argument("--json", action="store_true", help="machine-readable output")
+    sp.set_defaults(fn=cmd_usage)
 
     sp = sub.add_parser("dictionary", help="fetch the public-domain Bible dictionary (Easton + Smith)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")

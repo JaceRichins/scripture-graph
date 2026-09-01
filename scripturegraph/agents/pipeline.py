@@ -29,7 +29,7 @@ from scripturegraph.graphops import chapter_display, resolve_name
 from scripturegraph.indexing.citations import resolve_reference
 from scripturegraph.util import json_write, new_id, now_iso, read_text, sha256_text, truncate
 from scripturegraph.validation import quote_matches, validate_changed
-from scripturegraph import gitops
+from scripturegraph import gitops, usage
 from scripturegraph.vaultgen import md as mdkit
 from scripturegraph.vaultgen.generate import study_relpath
 from scripturegraph.vaultgen.patch import PatchViolation, apply_ops
@@ -194,6 +194,19 @@ def context_markdown(c: dict) -> str:
 
 # ------------------------------------------------------- provider execution
 
+_THROTTLE_HINTS = ("rate limit", "rate_limit", "429", "usage limit", "quota",
+                   "overloaded", "too many requests")
+
+
+def _is_throttle(err: str | None) -> bool:
+    """Is this transport failure the plan pushing back, or a real error?
+
+    Distinguishing them is what lets the ramp back off against throttling
+    instead of against ordinary flakiness."""
+    low = (err or "").lower()
+    return any(h in low for h in _THROTTLE_HINTS)
+
+
 def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
                     schema_name: str, timeout: int, ws: Path,
                     context: dict | None, normalize=None) -> tuple[dict | None, dict]:
@@ -221,6 +234,13 @@ def _call_validated(ctx: Ctx, provider: Provider, role: str, prompt: str,
                          context=context)
         stats["calls"] += 1
         stats["cost_usd"] += r.cost_usd or 0.0
+        throttled = not r.ok and _is_throttle(r.error)
+        # duck-typed on purpose: a provider stand-in must not have to implement
+        # the telemetry surface just to be callable
+        model = getattr(provider, "model_for_role", lambda _role: None)(role)
+        usage.record_call(ctx, getattr(provider, "name", "?"), model, role,
+                          (context or {}).get("job_id"),
+                          (context or {}).get("chapter_slug"), r, throttled)
         if not r.ok:
             transport_tries += 1
             last_err = r.error
@@ -365,6 +385,7 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
 
     set_status("created")
     context = build_context(ctx, cslug)
+    context["job_id"] = job_id  # so each provider call can be attributed (usage telemetry)
     ctx_md = context_markdown(context)
     json_write(ws / "source" / "context.json", context)
     (ws / "source" / "context.md").write_text(ctx_md, encoding="utf-8")

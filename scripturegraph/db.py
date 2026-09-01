@@ -226,6 +226,79 @@ CREATE TABLE IF NOT EXISTS runs (
     git_rev     TEXT
 );
 
+-- ------------------------------------------------------------- usage
+-- Every AI call this engine makes, one row per provider invocation. This is
+-- the engine's OWN record; the usage_* tables below additionally harvest the
+-- CLIs' machine-wide logs so other loops sharing the subscription are visible.
+CREATE TABLE IF NOT EXISTS provider_calls (
+    id            INTEGER PRIMARY KEY,
+    ts            TEXT NOT NULL,
+    provider      TEXT NOT NULL,         -- claude|codex|stub
+    model         TEXT,
+    role          TEXT,                  -- researcher|critic|judge|librarian
+    job_id        TEXT,
+    target        TEXT,
+    ok            INTEGER NOT NULL,
+    throttled     INTEGER NOT NULL DEFAULT 0,
+    cached        INTEGER NOT NULL DEFAULT 0,
+    duration_s    REAL,
+    input_tokens  INTEGER,
+    output_tokens INTEGER,
+    cost_usd      REAL,
+    error         TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_provider_calls_ts ON provider_calls(ts);
+
+-- Hourly rollup harvested from the Claude Code / Codex CLI logs. `consumer`
+-- attributes usage to whichever loop spent it (scripture-engine, audio, …).
+CREATE TABLE IF NOT EXISTS usage_samples (
+    hour               TEXT NOT NULL,     -- '2026-09-01T17'
+    source             TEXT NOT NULL,     -- claude|codex
+    consumer           TEXT NOT NULL,
+    model              TEXT NOT NULL,
+    calls              INTEGER NOT NULL DEFAULT 0,
+    throttled          INTEGER NOT NULL DEFAULT 0,
+    input_tokens       INTEGER NOT NULL DEFAULT 0,
+    output_tokens      INTEGER NOT NULL DEFAULT 0,
+    cache_read_tokens  INTEGER NOT NULL DEFAULT 0,
+    cache_write_tokens INTEGER NOT NULL DEFAULT 0,
+    cost_usd           REAL NOT NULL DEFAULT 0,
+    PRIMARY KEY (hour, source, consumer, model)
+);
+
+-- Resume point per harvested log file, so a scan reads only what is new.
+CREATE TABLE IF NOT EXISTS usage_cursor (
+    path        TEXT PRIMARY KEY,
+    mtime       REAL NOT NULL,
+    size        INTEGER NOT NULL,
+    byte_offset INTEGER NOT NULL,
+    consumer    TEXT,
+    scanned_at  TEXT
+);
+
+-- Claude Code writes one transcript record per CONTENT BLOCK, each carrying
+-- the same message-level usage. Counting records instead of requests inflates
+-- token totals by ~85%, so requests are deduped by id (pruned to the window).
+CREATE TABLE IF NOT EXISTS usage_seen (
+    request_id TEXT PRIMARY KEY,
+    ts         TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_usage_seen_ts ON usage_seen(ts);
+
+-- Rate-limit telemetry the provider itself reports (Codex returns real
+-- used_percent per window; Claude Code does not publish one).
+CREATE TABLE IF NOT EXISTS usage_limits (
+    source         TEXT NOT NULL,
+    limit_id       TEXT NOT NULL,
+    window_minutes INTEGER NOT NULL,
+    used_percent   REAL,
+    resets_at      INTEGER,
+    plan_type      TEXT,
+    reached_type   TEXT,
+    observed_at    TEXT NOT NULL,
+    PRIMARY KEY (source, limit_id, window_minutes)
+);
+
 -- ------------------------------------------------------------- vault files
 CREATE TABLE IF NOT EXISTS file_registry (
     path         TEXT PRIMARY KEY,       -- vault-relative, forward slashes
