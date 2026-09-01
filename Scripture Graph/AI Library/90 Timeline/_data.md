@@ -5975,6 +5975,30 @@ timeline module, not this file._
    "things": [
     "brook Eshcol"
    ]
+  },
+  {
+   "id": "r-ps-69-6f4bef01",
+   "t": "Traditional Davidic authorship of Psalm 69",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The psalm's canonical superscription and the LDS chapter heading attribute it to David; however vv35-36 presuppose Zion and Judah's cities need rebuilding, which some scholars take as evidence favoring a later, exilic/post-exilic composition instead.",
+   "chapters": [
+    "Psalm 69"
+   ],
+   "people": [
+    "David"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
   }
  ],
  "book_years": {
