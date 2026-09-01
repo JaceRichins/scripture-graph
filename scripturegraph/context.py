@@ -29,6 +29,11 @@ DEFAULTS: dict = {
         # 1 = the original strictly-serial engine. Raise it only as far as the
         # governor's headroom on the CONSTRAINED provider allows.
         "workers": 1,
+        # How long a scheduled run waits for the engine lock before skipping
+        # its slot. The frequent run collides with a study tick every two hours
+        # and holds the lock for under a second; without this the study tick
+        # forfeited its whole 30-minute window.
+        "lock_wait_sec": 90,
     },
     "budgets": {
         "aggressive": {"nightly_ai_jobs": 80, "weekly_ai_jobs": 150, "daily_usd_cap": 40.0,

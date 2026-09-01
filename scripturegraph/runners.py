@@ -41,18 +41,43 @@ def _guard(ctx: Ctx, kind: str) -> bool:
 
 
 def _locked(fn):
-    """Every runner is single-instance: overlapping scheduled/manual runs skip."""
+    """Every runner is single-instance: overlapping scheduled/manual runs skip.
+
+    But skipping INSTANTLY threw away a quarter of the engine's day. The
+    frequent run fires on the same minute as a study tick every two hours and
+    holds the lock for well under a second — and the study tick, losing that
+    race, forfeited its entire 30-minute slot: 12 of 48 daily ticks. With
+    parallel workers each forfeited tick costs N times as much.
+
+    So a runner now waits briefly for a SHORT holder before giving up. A long
+    one — a study run overrunning its window, the nightly run — still causes a
+    skip, exactly as before, just decided a minute later. The lock itself is
+    unchanged; only the patience is new."""
     from functools import wraps
 
     @wraps(fn)
     def wrapper(ctx: Ctx) -> dict:
+        import time as _time
         from scripturegraph.lockfile import EngineBusy, engine_lock
-        try:
-            with engine_lock(ctx):
-                return fn(ctx)
-        except EngineBusy:
-            ctx.log.info("run.skipped", kind=fn.__name__, reason="engine lock held")
-            return {"skipped": "another engine run active"}
+        deadline = _time.time() + float(ctx.c("automation.lock_wait_sec", 90) or 0)
+        waited = False
+        while True:
+            entered = False
+            try:
+                with engine_lock(ctx):
+                    entered = True
+                    if waited:
+                        ctx.log.info("run.lock_waited", kind=fn.__name__)
+                    return fn(ctx)
+            except EngineBusy:
+                if entered:
+                    raise
+                if _time.time() >= deadline:
+                    ctx.log.info("run.skipped", kind=fn.__name__,
+                                 reason="engine lock held")
+                    return {"skipped": "another engine run active"}
+                waited = True
+                _time.sleep(min(3.0, max(0.1, deadline - _time.time())))
     return wrapper
 
 
