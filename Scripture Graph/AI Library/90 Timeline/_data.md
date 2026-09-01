@@ -4119,6 +4119,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-47-c2abbdb5",
+   "t": "Amalickiah seizes the Lamanite throne by fraud and murder",
+   "y0": -72,
+   "y1": -72,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter heading dates the episode to about 72 B.C., derived from the Nephite reign-of-judges chronology embedded in the surrounding narrative.",
+   "chapters": [
+    "Alma 47"
+   ],
+   "people": [
+    "Amalickiah",
+    "Lehonti"
+   ],
+   "places": [
+    "land of Nephi",
+    "Zarahemla"
+   ]
+  },
+  {
    "id": "r-alma-5-81444f92",
    "t": "Alma preaches repentance at Zarahemla",
    "y0": -83,
@@ -4204,6 +4230,38 @@ timeline module, not this file._
    "things": [
     "Nephite fortifications",
     "Judgment-seat"
+   ]
+  },
+  {
+   "id": "r-alma-51-3e5eda70",
+   "t": "King-men crisis and Amalickiah's final invasion",
+   "y0": -67,
+   "y1": -66,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 51:1 and Alma 51:37 place the events within the twenty-fifth year of the reign of the judges; the official chapter heading dates that year approximately to 67–66 B.C.",
+   "chapters": [
+    "Alma 51"
+   ],
+   "people": [
+    "Pahoran",
+    "Moroni",
+    "Amalickiah",
+    "Teancum"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Bountiful"
+   ],
+   "things": [
+    "title of liberty",
+    "fortified cities"
    ]
   },
   {
