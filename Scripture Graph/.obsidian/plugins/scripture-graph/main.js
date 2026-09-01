@@ -7160,16 +7160,39 @@ var init_src5 = __esm({
 });
 
 // src/study/timeGraph.ts
-function solidColor(c2) {
-  const m2 = /^var\((--[\w-]+)\)$/.exec(c2);
-  if (!m2) return c2;
-  const v = getComputedStyle(document.body).getPropertyValue(m2[1]).trim();
-  return v || "#7c6cff";
+function toRGB(css, fallback) {
+  if (!probe) probe = document.createElement("canvas").getContext("2d");
+  if (!probe) return fallback;
+  probe.fillStyle = "#000000";
+  try {
+    probe.fillStyle = css;
+  } catch {
+    return fallback;
+  }
+  const s = probe.fillStyle;
+  let m2 = /^#([0-9a-f]{6})$/i.exec(s);
+  if (m2) return parseInt(m2[1], 16);
+  m2 = /^rgba?\((\d+),\s*(\d+),\s*(\d+)/i.exec(s);
+  if (m2) return +m2[1] << 16 | +m2[2] << 8 | +m2[3];
+  return fallback;
+}
+function cssVar(name, fallback) {
+  const v = getComputedStyle(document.body).getPropertyValue(name).trim();
+  return v ? toRGB(v, fallback) : fallback;
+}
+function ease(cur, target, dt, tau) {
+  return cur + (target - cur) * (1 - Math.exp(-dt / tau));
+}
+function easeRGB(cur, target, f) {
+  const r = (cur >> 16 & 255) + ((target >> 16 & 255) - (cur >> 16 & 255)) * f;
+  const g = (cur >> 8 & 255) + ((target >> 8 & 255) - (cur >> 8 & 255)) * f;
+  const b = (cur & 255) + ((target & 255) - (cur & 255)) * f;
+  return Math.round(r) << 16 | Math.round(g) << 8 | Math.round(b);
 }
 function yearStr(y3) {
   return y3 < 0 ? `${-y3} BC` : `AD ${y3}`;
 }
-var KIND_COLOR, KIND_EMOJI, WORLD_W, NODE_BUDGET, remembered, TimeGraph;
+var KIND_COLOR, KIND_EMOJI, DIM, TAU, ZOOM_TAU, LINK_ALPHA, LINK_WIDTH, RING_MIN_PX, LABEL_DROP_PX, TEXT_FADE_MULT, RIPPLE_HOPS, HOP_MS, HOP_ALPHA, STEP_MIN, STEP_SPAN, GAP_REF, WORLD_W, NODE_BUDGET, remembered, probe, rgbaStr, TimeGraph;
 var init_timeGraph = __esm({
   "src/study/timeGraph.ts"() {
     "use strict";
@@ -7184,9 +7207,25 @@ var init_timeGraph = __esm({
       places: "\u{1F5FA}",
       things: "\u{1F4E6}"
     };
+    DIM = 0.2;
+    TAU = 158;
+    ZOOM_TAU = 103;
+    LINK_ALPHA = 1;
+    LINK_WIDTH = 1;
+    RING_MIN_PX = 1;
+    LABEL_DROP_PX = 15;
+    TEXT_FADE_MULT = 0;
+    RIPPLE_HOPS = 3;
+    HOP_MS = 95;
+    HOP_ALPHA = [1, 1, 0.82, 0.55];
+    STEP_MIN = 46;
+    STEP_SPAN = 150;
+    GAP_REF = 2200;
     WORLD_W = 1100;
     NODE_BUDGET = 1200;
     remembered = /* @__PURE__ */ new Map();
+    probe = null;
+    rgbaStr = (rgb, a2) => `rgba(${rgb >> 16 & 255},${rgb >> 8 & 255},${rgb & 255},${a2})`;
     TimeGraph = class {
       constructor(host, scope, cbs) {
         this.host = host;
@@ -7194,6 +7233,7 @@ var init_timeGraph = __esm({
         this.cbs = cbs;
         this.canvas = host.createEl("canvas", { cls: "sg-tg-canvas" });
         this.ctx = this.canvas.getContext("2d");
+        this.readTheme();
         this.buildGraph();
         this.buildLegend();
         this.buildHint();
@@ -7207,16 +7247,22 @@ var init_timeGraph = __esm({
       sim = null;
       nodes = [];
       links = [];
+      adj = /* @__PURE__ */ new Map();
       cam = { x: 0, y: 0, k: 1 };
+      camT = { x: 0, y: 0, k: 1 };
+      vel = { x: 0, y: 0 };
+      col = { line: 4144959, text: 14342874, accent: 9067765, ring: 10914553 };
       raf = 0;
       simLive = false;
-      needsDraw = true;
+      animating = true;
       hover = null;
       selected = null;
+      rippleAt = 0;
+      t0 = performance.now();
+      lastFrame = performance.now();
       chipEl = null;
       worldH = 1e3;
       breaks = [];
-      // [year, worldY] piecewise spine
       disposed = false;
       pointers = /* @__PURE__ */ new Map();
       pinchDist = 0;
@@ -7235,43 +7281,85 @@ var init_timeGraph = __esm({
         }
         this.host.empty();
       }
+      /** the graph's own theme vars — the same ones Obsidian's renderer reads */
+      readTheme() {
+        this.col = {
+          line: cssVar("--graph-line", 4144959),
+          text: cssVar("--graph-text", cssVar("--text-normal", 14342874)),
+          accent: cssVar("--interactive-accent", 9067765),
+          ring: cssVar("--graph-node-focused", cssVar("--text-accent", 10914553))
+        };
+      }
+      // ------------------------------------------------------------- the spine
+      /** Time drawn BY the nodes: each moment steps down from the one before
+       * it by a compressed measure of the years between — so a 2,000-year
+       * silence reads as real distance without becoming an empty scroll. */
+      buildSpine(events) {
+        const years = [...new Set(events.map((e) => e.y0))].sort((a2, b) => a2 - b);
+        this.breaks = [];
+        let pos = 70;
+        let prev = null;
+        for (const y3 of years) {
+          if (prev !== null) {
+            const t = Math.log1p(y3 - prev) / Math.log1p(GAP_REF);
+            pos += STEP_MIN + STEP_SPAN * Math.min(1, t);
+          }
+          this.breaks.push([y3, pos]);
+          prev = y3;
+        }
+        if (!this.breaks.length) this.breaks.push([0, pos]);
+        this.worldH = pos + 90;
+      }
+      yForYear(year) {
+        const b = this.breaks;
+        if (!b.length) return 0;
+        if (year <= b[0][0]) return b[0][1];
+        for (let i = 0; i + 1 < b.length; i++) {
+          const [y0, p0] = b[i], [y1, p1] = b[i + 1];
+          if (year <= y1) {
+            return y1 === y0 ? p0 : p0 + (year - y0) / (y1 - y0) * (p1 - p0);
+          }
+        }
+        return b[b.length - 1][1];
+      }
       // ------------------------------------------------------------- the graph
-      /** events pinned to their years; every person/place/thing ONE shared
-       * node, spring-tied to each moment it touches */
+      /** their getSize, verbatim: 3·√(degree+1), floored at 8, capped at 30 */
+      sizeFor(deg, boost = 1) {
+        return Math.max(8, Math.min(3 * Math.sqrt(deg + 1) * boost, 30));
+      }
       buildGraph() {
         const { events, focuses, laneF } = this.scope;
-        const eras = [...this.scope.eras].sort((a2, b) => a2.y - b.y);
-        const END_Y = 2100;
-        let acc = 40;
-        this.breaks = [];
-        for (let i = 0; i < eras.length; i++) {
-          const y0 = eras[i].y;
-          const y1 = i + 1 < eras.length ? eras[i + 1].y : END_Y;
-          const inside = events.filter((e) => e.y0 >= y0 && e.y0 < y1).length;
-          this.breaks.push([y0, acc]);
-          acc += Math.max(150, inside * 58);
-        }
-        this.breaks.push([END_Y, acc]);
-        this.worldH = acc + 60;
-        const yFor = (year) => this.yForYear(year);
+        this.buildSpine(events);
         const nodes = [];
         const links = [];
         const byId = /* @__PURE__ */ new Map();
         const entity = /* @__PURE__ */ new Map();
+        const evsOf = /* @__PURE__ */ new Map();
         const focusOf = (kind, name) => focuses.find((f) => f.kind === kind && f.name === name) ?? null;
+        let seq = 0;
         for (const ev of events) {
-          const mid = (ev.y0 + ev.y1) / 2;
+          const laneX = (laneF[ev.lane] ?? 0.5) * WORLD_W;
+          const py = this.yForYear((ev.y0 + ev.y1) / 2);
+          const rgb = toRGB(this.scope.laneColor[ev.lane] ?? "#9aa7c7", 10135495);
           const n = {
             id: `e:${ev.id}`,
             type: "event",
             ev,
             label: ev.t,
-            color: this.scope.laneColor[ev.lane] ?? "#9aa7c7",
-            r: ev.imp === 1 ? 9 : ev.imp === 2 ? 7 : 5.5,
+            rgb,
+            tint: rgb,
+            size: 10,
             deg: 0,
-            x: (laneF[ev.lane] ?? 0.5) * WORLD_W + (Math.random() - 0.5) * 60,
-            fy: yFor(mid),
-            y: yFor(mid)
+            accent: false,
+            ax: laneX,
+            ay: py,
+            a: 0,
+            hop: -1,
+            drop: 0,
+            born: seq++ * 3,
+            x: laneX + (Math.random() - 0.5) * 60,
+            fy: py,
+            y: py
           };
           const kept = remembered.get(n.id);
           if (kept) n.x = kept.x;
@@ -7284,17 +7372,28 @@ var init_timeGraph = __esm({
               let sat = entity.get(key);
               if (!sat) {
                 const f = focusOf(kind, name);
+                const srgb = toRGB(
+                  f ? f.accent : KIND_COLOR[kind],
+                  f ? this.col.accent : 9425140
+                );
                 sat = {
                   id: `s:${key}`,
                   type: "entity",
                   kind,
                   label: name,
-                  color: f ? solidColor(f.accent) : KIND_COLOR[kind],
-                  accent: f ? solidColor(f.accent) : void 0,
-                  r: 4,
+                  rgb: srgb,
+                  tint: srgb,
+                  size: 8,
                   deg: 0,
+                  accent: !!f,
+                  ax: laneX,
+                  ay: py,
+                  a: 0,
+                  hop: -1,
+                  drop: 0,
+                  born: seq++ * 3,
                   x: (n.x ?? 0) + (Math.random() - 0.5) * 80,
-                  y: (n.y ?? 0) + (Math.random() - 0.5) * 80
+                  y: py + (Math.random() - 0.5) * 80
                 };
                 const seat = remembered.get(sat.id);
                 if (seat) {
@@ -7302,93 +7401,186 @@ var init_timeGraph = __esm({
                   sat.y = seat.y;
                 }
                 entity.set(key, sat);
+                evsOf.set(sat, []);
                 nodes.push(sat);
               }
+              evsOf.get(sat).push(n);
               sat.deg++;
               n.deg++;
-              links.push({ source: n, target: sat, kind: "member" });
+              links.push({ source: n, target: sat, kind: "member", a: 0, tint: this.col.line, hop: -1 });
             }
           }
         }
-        for (const sat of entity.values()) {
-          sat.r = 4 + Math.min(9, sat.deg * 1.1) + (sat.accent ? 1.5 : 0);
+        for (const n of nodes) {
+          if (n.type === "event") {
+            const imp = n.ev.imp;
+            n.size = this.sizeFor(n.deg, imp === 1 ? 1.45 : imp === 2 ? 1.15 : 0.95);
+          } else {
+            n.size = this.sizeFor(n.deg, n.accent ? 1.2 : 1);
+          }
+        }
+        for (const [sat, evs] of evsOf) {
+          let sx = 0, sy = 0;
+          for (const e of evs) {
+            sx += e.ax;
+            sy += e.ay;
+          }
+          sat.ax = evs.length ? sx / evs.length : WORLD_W / 2;
+          sat.ay = evs.length ? sy / evs.length : this.worldH / 2;
         }
         for (const [a2, b] of this.scope.narrative) {
           const na = byId.get(a2), nb = byId.get(b);
-          if (na && nb) links.push({ source: na, target: nb, kind: "narrative" });
+          if (na && nb) {
+            links.push({ source: na, target: nb, kind: "narrative", a: 0, tint: this.col.line, hop: -1 });
+          }
         }
         this.nodes = nodes;
         this.links = links;
-      }
-      yForYear(year) {
-        const b = this.breaks;
-        if (!b.length) return 0;
-        if (year <= b[0][0]) return b[0][1];
-        for (let i = 0; i + 1 < b.length; i++) {
-          const [y0, p0] = b[i], [y1, p1] = b[i + 1];
-          if (year <= y1) return p0 + (year - y0) / (y1 - y0) * (p1 - p0);
+        for (const n of nodes) this.adj.set(n, []);
+        for (const l of links) {
+          const s = l.source, t = l.target;
+          this.adj.get(s).push(t);
+          this.adj.get(t).push(s);
         }
-        return b[b.length - 1][1];
       }
       startSim() {
-        const { laneF } = this.scope;
-        const meanEventX = (n) => {
-          let sx = 0, c2 = 0;
-          for (const l of this.links) {
-            if (l.kind !== "member") continue;
-            const s = l.source, t = l.target;
-            if (t === n) {
-              sx += s.x ?? 0;
-              c2++;
-            }
-          }
-          return c2 ? sx / c2 : WORLD_W / 2;
-        };
-        this.sim = simulation_default(this.nodes).force("link", link_default(this.links).distance((l) => l.kind === "member" ? 46 : 170).strength((l) => l.kind === "member" ? 0.5 : 0.04)).force("charge", manyBody_default().strength(-150).distanceMax(340)).force("collide", collide_default((n) => n.r + 4).strength(0.8)).force("x", x_default2((n) => n.type === "event" ? (laneF[n.ev.lane] ?? 0.5) * WORLD_W : meanEventX(n)).strength((n) => n.type === "event" ? 0.14 : 0.03)).force("y", y_default2((n) => {
-          if (n.type === "event") return n.fy ?? 0;
-          let sy = 0, c2 = 0;
-          for (const l of this.links) {
-            if (l.kind !== "member") continue;
-            if (l.target === n) {
-              sy += l.source.fy ?? 0;
-              c2++;
-            }
-          }
-          return c2 ? sy / c2 : this.worldH / 2;
-        }).strength((n) => n.type === "event" ? 0 : 0.05)).velocityDecay(0.32).alphaDecay(0.028).alphaMin(4e-3).on("tick", () => {
-          this.needsDraw = true;
-        }).on("end", () => {
-          this.simLive = false;
-        });
+        this.sim = simulation_default(this.nodes).force("link", link_default(this.links).distance((l) => l.kind === "member" ? 72 : 230).strength((l) => l.kind === "member" ? 0.5 : 0.04)).force("charge", manyBody_default().strength(-260).distanceMin(20).distanceMax(430)).force("collide", collide_default((n) => n.size + 7).strength(0.6)).force("x", x_default2((n) => n.ax).strength((n) => n.type === "event" ? 0.14 : 0.035)).force("y", y_default2((n) => n.ay).strength((n) => n.type === "event" ? 0 : 0.06)).velocityDecay(0.4).alphaDecay(0.0228).alphaMin(1e-3);
+        this.sim.stop();
         this.simLive = true;
       }
-      reheat(target = 0.25) {
+      reheat(target = 0.3) {
         if (!this.sim) return;
+        this.sim.alphaTarget(target);
+        if (this.sim.alpha() < target) this.sim.alpha(target);
         this.simLive = true;
-        this.sim.alphaTarget(target).restart();
       }
       cool() {
         this.sim?.alphaTarget(0);
       }
+      // ------------------------------------------------------------ the ripple
+      /** hover a star and light spreads outward hop by hop: the star, then
+       * the moments it belongs to, then who else stood there — each ring a
+       * beat behind the last, everything else falling back to 0.2 */
+      setRipple(lit) {
+        for (const n of this.nodes) n.hop = -1;
+        for (const l of this.links) l.hop = -1;
+        if (lit) {
+          lit.hop = 0;
+          let front = [lit];
+          for (let d = 1; d <= RIPPLE_HOPS && front.length; d++) {
+            const next = [];
+            for (const n of front) {
+              for (const m2 of this.adj.get(n) ?? []) {
+                if (m2.hop === -1) {
+                  m2.hop = d;
+                  next.push(m2);
+                }
+              }
+            }
+            front = next;
+          }
+          for (const l of this.links) {
+            const s = l.source, t = l.target;
+            if (s.hop >= 0 && t.hop >= 0) l.hop = Math.max(s.hop, t.hop);
+          }
+        }
+        this.rippleAt = performance.now();
+        this.animating = true;
+      }
+      lit() {
+        return this.dragging ?? this.selected ?? this.hover;
+      }
+      /** walk every alpha, tint and camera value one frame toward home */
+      animate(now2, dt) {
+        const lit = this.lit();
+        const since = now2 - this.rippleAt;
+        const age = now2 - this.t0;
+        const f = 1 - Math.exp(-dt / TAU);
+        let moving = false;
+        const step = (cur, target, delay) => {
+          if (since < delay) {
+            moving = true;
+            return cur;
+          }
+          const v = ease(cur, target, dt, TAU);
+          if (Math.abs(target - v) > 4e-3) {
+            moving = true;
+            return v;
+          }
+          return target;
+        };
+        for (const n of this.nodes) {
+          if (age < n.born) {
+            moving = true;
+            continue;
+          }
+          const target = !lit ? 1 : n.hop < 0 ? DIM : HOP_ALPHA[Math.min(n.hop, HOP_ALPHA.length - 1)];
+          n.a = step(n.a, target, lit && n.hop > 0 ? n.hop * HOP_MS : 0);
+          const tgt = n === lit ? this.col.accent : n.rgb;
+          if (n.tint !== tgt) {
+            n.tint = easeRGB(n.tint, tgt, f);
+            moving = true;
+          }
+          const drop = n === lit ? LABEL_DROP_PX : 0;
+          if (Math.abs(n.drop - drop) > 0.2) {
+            n.drop = ease(n.drop, drop, dt, TAU);
+            moving = true;
+          } else n.drop = drop;
+        }
+        for (const l of this.links) {
+          const target = !lit ? LINK_ALPHA : l.hop < 0 ? DIM : LINK_ALPHA * (HOP_ALPHA[Math.min(l.hop, HOP_ALPHA.length - 1)] ?? 1);
+          l.a = step(l.a, target, lit && l.hop > 0 ? Math.max(0, (l.hop - 0.4) * HOP_MS) : 0);
+          const tgt = l.hop >= 0 && lit ? this.col.accent : this.col.line;
+          if (l.tint !== tgt) {
+            l.tint = easeRGB(l.tint, tgt, f);
+            moving = true;
+          }
+        }
+        if (!this.panning && (Math.abs(this.vel.x) > 0.04 || Math.abs(this.vel.y) > 0.04)) {
+          this.camT.x += this.vel.x;
+          this.camT.y += this.vel.y;
+          this.vel.x *= 0.92;
+          this.vel.y *= 0.92;
+          moving = true;
+        }
+        for (const key of ["x", "y", "k"]) {
+          const tau = key === "k" ? ZOOM_TAU : 70;
+          if (Math.abs(this.camT[key] - this.cam[key]) > (key === "k" ? 4e-4 : 0.06)) {
+            this.cam[key] = ease(this.cam[key], this.camT[key], dt, tau);
+            moving = true;
+          } else this.cam[key] = this.camT[key];
+        }
+        this.animating = moving;
+      }
       // ------------------------------------------------------------ the camera
       fitCamera() {
         const w = this.host.clientWidth || 360;
-        this.cam.k = Math.max(0.3, Math.min(1.4, w * 0.94 / WORLD_W));
-        this.cam.x = (w - WORLD_W * this.cam.k) / 2;
+        const k = Math.max(0.3, Math.min(1.4, w * 0.94 / WORLD_W));
         const first = this.nodes.find((n) => n.type === "event");
-        this.cam.y = 46 - ((first?.fy ?? 0) - 60) * this.cam.k;
+        this.camT = { k, x: (w - WORLD_W * k) / 2, y: 46 - ((first?.fy ?? 0) - 60) * k };
+        this.cam = { ...this.camT };
       }
       toWorld(px, py) {
         return { x: (px - this.cam.x) / this.cam.k, y: (py - this.cam.y) / this.cam.k };
+      }
+      /** their nodeScale: world radius = size·√(1/zoom), so on SCREEN a star
+       * grows as √zoom — the single biggest reason their graph feels right */
+      get nodeScale() {
+        return Math.sqrt(1 / this.cam.k);
       }
       // -------------------------------------------------------------- the loop
       loop() {
         const step = () => {
           if (this.disposed) return;
-          if (this.simLive || this.needsDraw) {
-            this.needsDraw = false;
-            this.draw();
+          const now2 = performance.now();
+          const dt = Math.min(48, now2 - this.lastFrame);
+          this.lastFrame = now2;
+          if (this.simLive && this.sim) {
+            this.sim.tick();
+            if (this.sim.alpha() < this.sim.alphaMin()) this.simLive = false;
           }
+          this.animate(now2, dt);
+          if (this.simLive || this.animating || this.dragging) this.draw();
           this.raf = requestAnimationFrame(step);
         };
         this.raf = requestAnimationFrame(step);
@@ -7406,119 +7598,106 @@ var init_timeGraph = __esm({
         }
         ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
         ctx.clearRect(0, 0, w, h);
-        const { x: cx, y: cy, k } = this.cam;
-        ctx.save();
-        ctx.translate(cx, cy);
-        ctx.scale(k, k);
+        const k = this.cam.k, ns = this.nodeScale;
         if (this.nodes.length > NODE_BUDGET) {
-          ctx.restore();
           ctx.fillStyle = "rgba(220,228,255,0.75)";
           ctx.font = "14px sans-serif";
           ctx.textAlign = "center";
           ctx.fillText("Too many stars for one sky \u2014 narrow the filters above.", w / 2, h / 2);
           return;
         }
+        ctx.save();
+        ctx.translate(this.cam.x, this.cam.y);
+        ctx.scale(k, k);
         const eras = this.scope.eras;
-        for (let i = 0; i < this.breaks.length - 1; i++) {
-          const [, p0] = this.breaks[i], [, p1] = this.breaks[i + 1];
+        for (let i = 0; i < eras.length; i++) {
           const era = eras[i];
-          if (!era) continue;
+          const y0 = this.yForYear(era.y);
+          const y1 = i + 1 < eras.length ? this.yForYear(eras[i + 1].y) : this.worldH;
           ctx.fillStyle = era.tint;
-          ctx.fillRect(-2e3, p0, 5e3, p1 - p0);
-          ctx.fillStyle = "rgba(235,240,255,0.05)";
-          ctx.font = `700 ${Math.min(64, 26 / Math.min(1, k))}px sans-serif`;
+          ctx.fillRect(-2e3, y0, 5e3, y1 - y0);
+          ctx.fillStyle = "rgba(235,240,255,0.045)";
+          ctx.font = `700 ${Math.min(70, 26 * ns)}px sans-serif`;
           ctx.textAlign = "center";
-          ctx.fillText(era.label.toUpperCase(), WORLD_W / 2, p0 + 44);
-          ctx.fillStyle = "rgba(200,212,240,0.35)";
-          ctx.font = `600 ${11 / Math.min(1, k)}px sans-serif`;
-          ctx.textAlign = "left";
-          ctx.fillText(yearStr(era.y), 14, p0 + 16);
+          ctx.fillText(era.label.toUpperCase(), WORLD_W / 2, y0 + 46);
         }
-        const lit = this.selected ?? this.hover;
-        const litSet = /* @__PURE__ */ new Set();
-        if (lit) {
-          litSet.add(lit);
-          for (const l of this.links) {
-            if (l.kind !== "member") continue;
-            const s = l.source, t = l.target;
-            if (s === lit) litSet.add(t);
-            if (t === lit) litSet.add(s);
-          }
-        }
-        for (const l of this.links) {
-          const s = l.source, t = l.target;
-          const touches = lit && (s === lit || t === lit);
-          if (l.kind === "narrative") {
-            ctx.strokeStyle = "rgba(150,170,220,0.14)";
-            ctx.setLineDash([5, 6]);
-          } else {
-            const accent = s.accent ?? t.accent;
-            const alpha = lit ? touches ? 0.5 : 0.04 : accent ? 0.3 : 0.14;
-            ctx.strokeStyle = touches && lit ? this.rgba(lit.color, alpha) : accent ? this.rgba(accent, alpha) : `rgba(150,168,205,${alpha})`;
-            ctx.setLineDash([]);
-          }
-          ctx.lineWidth = (touches ? 1.6 : 0.8) / k;
+        ctx.textAlign = "left";
+        ctx.textBaseline = "alphabetic";
+        ctx.font = `600 ${11 * ns}px sans-serif`;
+        let lastTick = -1e9;
+        for (const [year, py] of this.breaks) {
+          if (py - lastTick < 46 / k) continue;
+          lastTick = py;
+          ctx.strokeStyle = rgbaStr(this.col.line, 0.16);
+          ctx.lineWidth = 1 / k;
           ctx.beginPath();
-          ctx.moveTo(s.x ?? 0, s.y ?? 0);
-          ctx.lineTo(t.x ?? 0, t.y ?? 0);
+          ctx.moveTo(-400, py);
+          ctx.lineTo(WORLD_W + 400, py);
+          ctx.stroke();
+          ctx.fillStyle = rgbaStr(this.col.text, 0.3);
+          ctx.fillText(yearStr(year), 14, py - 4);
+        }
+        ctx.lineWidth = LINK_WIDTH / k;
+        for (const l of this.links) {
+          if (l.a < 0.012) continue;
+          const s = l.source, t = l.target;
+          const sx = s.x ?? 0, sy = s.y ?? 0, tx = t.x ?? 0, ty = t.y ?? 0;
+          const dx = tx - sx, dy = ty - sy;
+          const m2 = Math.hypot(dx, dy) || 1;
+          const r0 = s.size * ns, r1 = t.size * ns;
+          if (m2 <= r0 + r1) continue;
+          ctx.strokeStyle = rgbaStr(l.tint, l.a);
+          ctx.setLineDash(l.kind === "narrative" ? [5 / k, 6 / k] : []);
+          ctx.beginPath();
+          ctx.moveTo(sx + dx / m2 * r0, sy + dy / m2 * r0);
+          ctx.lineTo(tx - dx / m2 * r1, ty - dy / m2 * r1);
           ctx.stroke();
         }
         ctx.setLineDash([]);
+        const lit = this.lit();
         for (const n of this.nodes) {
-          const dim = lit ? !litSet.has(n) : false;
-          const x3 = n.x ?? 0, y3 = n.y ?? 0;
-          ctx.globalAlpha = dim ? 0.18 : 1;
-          ctx.fillStyle = this.rgba(n.color, 0.18);
+          if (n.a < 0.012) continue;
+          const r = n.size * ns;
+          ctx.fillStyle = rgbaStr(n.tint, n.a);
           ctx.beginPath();
-          ctx.arc(x3, y3, n.r * 2.1, 0, Math.PI * 2);
+          ctx.arc(n.x ?? 0, n.y ?? 0, r, 0, Math.PI * 2);
           ctx.fill();
-          ctx.fillStyle = n.color;
-          ctx.beginPath();
-          ctx.arc(x3, y3, n.r, 0, Math.PI * 2);
-          ctx.fill();
-          if (n === this.selected) {
-            ctx.strokeStyle = "rgba(255,255,255,0.85)";
-            ctx.lineWidth = 1.6 / k;
+          if (n === lit) {
+            const lw = Math.max(RING_MIN_PX / k, 1 / (k * ns));
+            ctx.strokeStyle = rgbaStr(this.col.ring, n.a);
+            ctx.lineWidth = lw;
             ctx.beginPath();
-            ctx.arc(x3, y3, n.r + 4 / k, 0, Math.PI * 2);
+            ctx.arc(n.x ?? 0, n.y ?? 0, r + lw / 2, 0, Math.PI * 2);
             ctx.stroke();
           }
-          ctx.globalAlpha = 1;
+        }
+        const textAlpha = Math.max(0, Math.min(
+          1,
+          Math.log(k) / Math.LN2 + 1 - TEXT_FADE_MULT
+        ));
+        ctx.textAlign = "center";
+        ctx.textBaseline = "top";
+        for (const n of this.nodes) {
+          const la = n === lit ? 1 : textAlpha * n.a;
+          if (la < 0.02) continue;
+          const x3 = n.x ?? 0, y3 = n.y ?? 0;
+          const sx = x3 * k + this.cam.x, sy = y3 * k + this.cam.y;
+          if (sx < -180 || sx > w + 180 || sy < -40 || sy > h + 60) continue;
+          ctx.font = `${(14 + n.size / 4) * ns}px ui-sans-serif, system-ui, sans-serif`;
+          ctx.fillStyle = rgbaStr(n === lit ? this.col.text : n.type === "entity" ? n.rgb : this.col.text, la);
+          ctx.fillText(n.label, x3, y3 + (n.size + 5) * ns + n.drop / k);
         }
         ctx.restore();
-        ctx.textAlign = "left";
-        for (const n of this.nodes) {
-          const isLit = litSet.has(n);
-          const show = isLit || n.type === "event" && (n.ev.imp <= 2 && k > 0.55 || k > 1.05) || n.type === "entity" && (k > 0.85 || n.deg >= 4) && k > 0.45;
-          if (!show) continue;
-          const dim = lit ? !isLit : false;
-          if (dim) continue;
-          const sx = (n.x ?? 0) * k + this.cam.x + (n.r + 6) * k;
-          const sy = (n.y ?? 0) * k + this.cam.y + 4;
-          if (sx < -140 || sx > w + 20 || sy < -20 || sy > h + 20) continue;
-          const big = n.type === "event" && n.ev.imp === 1;
-          ctx.font = `${big ? 700 : 500} ${big ? 12.5 : 11}px sans-serif`;
-          ctx.lineWidth = 3;
-          ctx.strokeStyle = "rgba(8,10,18,0.85)";
-          ctx.strokeText(n.label, sx, sy);
-          ctx.fillStyle = isLit ? "#ffffff" : n.type === "entity" ? this.rgba(n.color, 0.95) : "rgba(228,234,250,0.92)";
-          ctx.fillText(n.label, sx, sy);
-        }
-      }
-      rgba(hex, a2) {
-        const m2 = /^#([0-9a-f]{6})$/i.exec(hex);
-        if (!m2) return hex;
-        const v = parseInt(m2[1], 16);
-        return `rgba(${v >> 16 & 255},${v >> 8 & 255},${v & 255},${a2})`;
+        ctx.textBaseline = "alphabetic";
       }
       // -------------------------------------------------------- the interaction
       nodeAt(px, py) {
         const wpt = this.toWorld(px, py);
-        const slack = 14 / this.cam.k;
+        const slack = 12 / this.cam.k;
+        const ns = this.nodeScale;
         let best = null, bd = Infinity;
         for (const n of this.nodes) {
-          const dx = (n.x ?? 0) - wpt.x, dy = (n.y ?? 0) - wpt.y;
-          const d = Math.hypot(dx, dy) - n.r;
+          const d = Math.hypot((n.x ?? 0) - wpt.x, (n.y ?? 0) - wpt.y) - n.size * ns;
           if (d < slack && d < bd) {
             best = n;
             bd = d;
@@ -7529,18 +7708,19 @@ var init_timeGraph = __esm({
       attach() {
         const c2 = this.canvas;
         this.ro = new ResizeObserver(() => {
-          this.needsDraw = true;
+          this.animating = true;
         });
         this.ro.observe(this.host);
         c2.addEventListener("wheel", (ev) => {
           ev.preventDefault();
-          const factor = Math.exp(-ev.deltaY * 16e-4);
-          this.zoomAt(ev.offsetX, ev.offsetY, factor);
+          const d = ev.deltaMode === 1 ? ev.deltaY * 40 : ev.deltaMode === 2 ? ev.deltaY * 800 : ev.deltaY;
+          this.zoomAt(ev.offsetX, ev.offsetY, Math.pow(1.5, -d / 120));
         }, { passive: false });
         c2.addEventListener("pointerdown", (ev) => {
           c2.setPointerCapture(ev.pointerId);
           this.pointers.set(ev.pointerId, { x: ev.offsetX, y: ev.offsetY });
           this.moved = false;
+          this.vel = { x: 0, y: 0 };
           if (this.pointers.size === 2) {
             const [a2, b] = [...this.pointers.values()];
             this.pinchDist = Math.hypot(a2.x - b.x, a2.y - b.y);
@@ -7552,10 +7732,9 @@ var init_timeGraph = __esm({
           const hit = this.nodeAt(ev.offsetX, ev.offsetY);
           if (hit) {
             this.dragging = hit;
-            this.reheat(0.2);
-          } else {
-            this.panning = true;
-          }
+            this.setRipple(hit);
+            this.reheat(0.3);
+          } else this.panning = true;
         });
         c2.addEventListener("pointermove", (ev) => {
           const p = this.pointers.get(ev.pointerId);
@@ -7578,23 +7757,25 @@ var init_timeGraph = __esm({
             this.dragging.fx = wpt.x;
             if (this.dragging.type === "entity") this.dragging.fy = wpt.y;
             this.moved = true;
-            this.needsDraw = true;
+            this.animating = true;
             return;
           }
           if (this.panning) {
-            this.cam.x += ev.offsetX - this.last.x;
-            this.cam.y += ev.offsetY - this.last.y;
+            const dx = ev.offsetX - this.last.x, dy = ev.offsetY - this.last.y;
+            this.camT.x += dx;
+            this.camT.y += dy;
+            this.cam.x += dx;
+            this.cam.y += dy;
+            this.vel = { x: dx * 0.6 + this.vel.x * 0.4, y: dy * 0.6 + this.vel.y * 0.4 };
             this.last = { x: ev.offsetX, y: ev.offsetY };
             this.moved = true;
-            this.needsDraw = true;
+            this.animating = true;
             return;
           }
-          const hov = this.nodeAt(ev.offsetX, ev.offsetY);
-          if (hov !== this.hover) {
-            this.hover = hov;
-            c2.style.cursor = hov ? "pointer" : "default";
-            this.needsDraw = true;
-          }
+          this.hoverNode(this.nodeAt(ev.offsetX, ev.offsetY));
+        });
+        c2.addEventListener("pointerleave", () => {
+          if (!this.dragging && !this.panning) this.hoverNode(null);
         });
         const release = (ev) => {
           this.pointers.delete(ev.pointerId);
@@ -7606,6 +7787,7 @@ var init_timeGraph = __esm({
             if (n.type === "entity") n.fy = void 0;
             this.cool();
             if (!this.moved) this.select(n);
+            else if (!this.selected) this.setRipple(this.hover);
             return;
           }
           const wasPan = this.panning;
@@ -7615,19 +7797,30 @@ var init_timeGraph = __esm({
         c2.addEventListener("pointerup", release);
         c2.addEventListener("pointercancel", release);
       }
+      hoverNode(n) {
+        if (n === this.hover) return;
+        this.hover = n;
+        this.canvas.style.cursor = n ? "pointer" : "default";
+        if (!this.selected) this.setRipple(n);
+      }
+      /** their zoom: eased toward a target, anchored under the finger going
+       * in, recentered on the viewport going out */
       zoomAt(px, py, factor) {
-        const k1 = Math.max(0.22, Math.min(3.2, this.cam.k * factor));
-        const wpt = this.toWorld(px, py);
-        this.cam.k = k1;
-        this.cam.x = px - wpt.x * k1;
-        this.cam.y = py - wpt.y * k1;
-        this.needsDraw = true;
+        const k1 = Math.max(0.12, Math.min(4, this.camT.k * factor));
+        const ax = factor >= 1 ? px : this.host.clientWidth / 2;
+        const ay = factor >= 1 ? py : this.host.clientHeight / 2;
+        const wx = (ax - this.camT.x) / this.camT.k;
+        const wy = (ay - this.camT.y) / this.camT.k;
+        this.camT.k = k1;
+        this.camT.x = ax - wx * k1;
+        this.camT.y = ay - wy * k1;
+        this.animating = true;
       }
       // ------------------------------------------------------- chip and legend
       /** tap a star and it introduces itself — with doors deeper in */
       select(n) {
         this.selected = n;
-        this.needsDraw = true;
+        this.setRipple(n ?? this.hover);
         this.chipEl?.remove();
         this.chipEl = null;
         if (!n) return;
@@ -7663,8 +7856,6 @@ var init_timeGraph = __esm({
         const x3 = chip.createEl("button", { cls: "sg-tg-chip-x", text: "\u2715" });
         x3.onclick = () => this.select(null);
       }
-      /** the group colors, named — the legend doubles as the promise that both
-       * graph surfaces speak the same language */
       buildLegend() {
         const leg = this.host.createDiv({ cls: "sg-tg-legend" });
         const dot = (color, label) => {

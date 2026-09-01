@@ -1,24 +1,28 @@
-/** 🌌 The constellation time-graph — Obsidian's neural graph feel, pinned
- * to real time.
+/** 🌌 The constellation time-graph — Obsidian's neural graph, pinned to time.
  *
- * A live force simulation (d3-force — the same physics family the app's
- * own graph runs) rendered to a pan/zoom canvas that copies the graph's
- * visual language: dark field, glowing dots, alpha edges, springy drag,
- * labels that bloom as you zoom. The one law the physics cannot break is
- * TIME: every event node is pinned to its year on the vertical spine (it
- * can drift sideways, never off its date). People, places and things are
- * ONE node each — free-floating, spring-tied to every event they touch —
- * so Jerusalem hangs as a single glow with threads reaching down the
- * centuries. Scope comes from the caller: the whole story, a lane, or a
- * woven focus ("time across Nephi") — same engine, different sky.
+ * The look here is not an impression of Obsidian's graph; it is measured
+ * from it. Their renderer was read out of the app bundle and the numbers
+ * that matter were copied straight across: nodes size as
+ * `clamp(3·√(deg+1), 8, 30)` and scale by √zoom (never linearly); labels
+ * hang BELOW their star, centered, with no halo, fading in by
+ * `log2(zoom)+1`; links are constant-screen-width straight lines that
+ * bleed toward the accent color when lit; everything — alpha AND color —
+ * eases by the same 10%-per-frame smoother; unrelated nodes fall to
+ * exactly 0.2; the hovered star takes the accent fill and a 1px ring, and
+ * its label slides 15px down and burns full bright. Their forces settle
+ * over ~5 seconds, so ours do too.
  *
- * Two things make it FEEL alive rather than merely correct:
- *  · the spine is drawn BY the nodes — each moment steps down from the
- *    last by a compressed measure of the years between them, so empty
- *    millennia read as distance without becoming a void;
- *  · every node and link owns an animated alpha, and hovering sends a
- *    RIPPLE outward hop by hop — the star, then its moments, then what
- *    they touch — each ring fading up a beat later than the last. */
+ * What we do NOT copy is the reach: Obsidian's hover stops at one hop.
+ * Ours sends a RIPPLE outward — the star, then its moments, then who else
+ * stood there — each ring lighting a beat after the last.
+ *
+ * And the one law their graph never had: TIME. Event nodes are pinned to
+ * their year on a spine the nodes themselves draw — each moment steps
+ * down from the last by a log-compressed measure of the years between, so
+ * empty millennia read as distance without becoming a void. People,
+ * places and things are ONE node each, spring-tied to every moment they
+ * touch, so Jerusalem hangs as a single glow with threads reaching down
+ * the centuries. */
 import {
   forceCollide, forceLink, forceManyBody, forceSimulation, forceX, forceY,
   type Simulation, type SimulationLinkDatum, type SimulationNodeDatum,
@@ -34,61 +38,63 @@ const KIND_EMOJI: Record<SubjectKind, string> = {
   people: "🧑", places: "🗺", things: "📦",
 };
 
-/** the look, in one place — every number the sky is drawn with */
-const LOOK = {
-  linkAlpha: 0.16,          // resting web
-  linkAlphaLit: 0.75,       // a link inside the ripple
-  linkWidth: 0.9,
-  linkWidthLit: 1.7,
-  dim: 0.14,                // everything outside the ripple
-  haloScale: 2.3,           // soft glow radius, × core radius
-  haloAlpha: 0.17,
-  labelHalo: "rgba(9,11,20,0.88)",
-};
+/** ── measured from Obsidian's renderer ────────────────────────────────
+ * DIM: their `QQ` — what an unrelated node fades to, exactly 0.2.
+ * TAU: their `$Q` smoother is `x += (target-x) * 0.1` every frame; at
+ *   60fps that is a 158ms time constant, expressed here frame-rate free.
+ * ZOOM_TAU: zoom eases at 0.15/frame → ~103ms.
+ * Node radius, label size and label fade are their formulas verbatim. */
+const DIM = 0.2;
+const TAU = 158;
+const ZOOM_TAU = 103;
+const LINK_ALPHA = 1;          // their line alpha rides colors.line.a
+const LINK_WIDTH = 1;          // lineSizeMultiplier — constant SCREEN px
+const RING_MIN_PX = 1;
+const LABEL_DROP_PX = 15;      // the hovered label's slide, in screen px
+const TEXT_FADE_MULT = 0;      // their default textFadeMultiplier
 
-/** how far the ripple travels, and the beat between rings */
+/** how far the ripple travels, and the beat between rings (ours, not
+ * theirs — Obsidian's highlight stops at one hop) */
 const RIPPLE_HOPS = 3;
 const HOP_MS = 95;
-/** alpha each ring settles at — the wave loses a little light as it goes */
 const HOP_ALPHA = [1, 1, 0.82, 0.55];
 
 /** the spine: how far one moment steps down from the moment before it */
-const STEP_MIN = 34;        // same year — just room to breathe
-const STEP_SPAN = 132;      // added across the whole compressed gap range
-const GAP_REF = 2200;       // a gap this size earns nearly the full span
+const STEP_MIN = 46;
+const STEP_SPAN = 150;
+const GAP_REF = 2200;          // a gap this size earns nearly the full span
 
-const WORLD_W = 1100;             // world units across; camera does the rest
-const NODE_BUDGET = 1200;         // past this, honesty beats heroics
+const WORLD_W = 1100;
+const NODE_BUDGET = 1200;
 
 interface GNode extends SimulationNodeDatum {
   id: string;
   type: "event" | "entity";
   label: string;
-  color: string;
-  r: number;
+  /** the node's own color as an rgb int — what its tint eases toward */
+  rgb: number;
+  /** the tint actually painted this frame (eases toward rgb, or accent) */
+  tint: number;
+  size: number;                 // world radius at zoom 1 (their getSize)
   deg: number;
   ev?: TimelineEvent;
   kind?: SubjectKind;
-  accent?: string;                // a focused subject wears its thread color
-  /** anchors the forces pull toward (precomputed once — stable and cheap) */
-  ax: number;
-  ay: number;
-  /** drawn alpha, and where it's heading */
-  a: number;
-  /** hops from the hovered star; -1 = outside the ripple */
-  hop: number;
-  /** arrival stagger, ms after the sky is born */
+  accent: boolean;              // a focused subject wears its thread color
+  ax: number; ay: number;       // force anchors, precomputed once
+  a: number;                    // drawn alpha
+  hop: number;                  // hops from the hovered star; -1 = outside
+  drop: number;                 // label slide, eased
   born: number;
 }
 interface GLink extends SimulationLinkDatum<GNode> {
   kind: "member" | "narrative";
   a: number;
+  tint: number;
   hop: number;
 }
 
 export interface TimeGraphScope {
   events: TimelineEvent[];
-  /** focused subjects, each with its thread accent (may be a CSS var()) */
   focuses: { kind: SubjectKind; name: string; accent: string }[];
   narrative: [string, string][];
   eras: { label: string; y: number; tint: string }[];
@@ -101,25 +107,48 @@ export interface TimeGraphCallbacks {
   onOpenChapter: (title: string) => void;
 }
 
-/** layouts survive a re-mount (rotation, filter tweak) — the sky doesn't
- * reshuffle every time the pane breathes */
+/** layouts survive a re-mount — the sky doesn't reshuffle when the pane
+ * breathes */
 const remembered = new Map<string, { x: number; y: number }>();
 
-/** "var(--interactive-accent)" is CSS-speak; canvas needs the real color */
-function solidColor(c: string): string {
-  const m = /^var\((--[\w-]+)\)$/.exec(c);
-  if (!m) return c;
-  const v = getComputedStyle(document.body).getPropertyValue(m[1]!).trim();
-  return v || "#7c6cff";
-}
+// ---------------------------------------------------------------- color
 
-function yearStr(y: number): string {
-  return y < 0 ? `${-y} BC` : `AD ${y}`;
+/** any CSS color → rgb int, by letting the browser normalize it (the
+ * theme's vars arrive as hsl(...), which no hand parser should own) */
+let probe: CanvasRenderingContext2D | null = null;
+function toRGB(css: string, fallback: number): number {
+  if (!probe) probe = document.createElement("canvas").getContext("2d");
+  if (!probe) return fallback;
+  probe.fillStyle = "#000000";
+  try { probe.fillStyle = css; } catch { return fallback; }
+  const s = probe.fillStyle as string;
+  let m = /^#([0-9a-f]{6})$/i.exec(s);
+  if (m) return parseInt(m[1]!, 16);
+  m = /^rgba?\((\d+),\s*(\d+),\s*(\d+)/i.exec(s);
+  if (m) return (+m[1]! << 16) | (+m[2]! << 8) | +m[3]!;
+  return fallback;
 }
+function cssVar(name: string, fallback: number): number {
+  const v = getComputedStyle(document.body).getPropertyValue(name).trim();
+  return v ? toRGB(v, fallback) : fallback;
+}
+const rgbaStr = (rgb: number, a: number): string =>
+  `rgba(${(rgb >> 16) & 255},${(rgb >> 8) & 255},${rgb & 255},${a})`;
 
 /** frame-rate independent easing — the same curve at 60fps and 120 */
 function ease(cur: number, target: number, dt: number, tau: number): number {
   return cur + (target - cur) * (1 - Math.exp(-dt / tau));
+}
+/** their ZQ: tints lerp per channel, so the accent BLEEDS in */
+function easeRGB(cur: number, target: number, f: number): number {
+  const r = ((cur >> 16) & 255) + (((target >> 16) & 255) - ((cur >> 16) & 255)) * f;
+  const g = ((cur >> 8) & 255) + (((target >> 8) & 255) - ((cur >> 8) & 255)) * f;
+  const b = (cur & 255) + ((target & 255) - (cur & 255)) * f;
+  return (Math.round(r) << 16) | (Math.round(g) << 8) | Math.round(b);
+}
+
+function yearStr(y: number): string {
+  return y < 0 ? `${-y} BC` : `AD ${y}`;
 }
 
 export class TimeGraph {
@@ -129,10 +158,10 @@ export class TimeGraph {
   private nodes: GNode[] = [];
   private links: GLink[] = [];
   private adj = new Map<GNode, GNode[]>();
-  /** where the camera IS, and where it's easing to */
   private cam = { x: 0, y: 0, k: 1 };
   private camT = { x: 0, y: 0, k: 1 };
   private vel = { x: 0, y: 0 };
+  private col = { line: 0x3f3f3f, text: 0xdadada, accent: 0x8a5cf5, ring: 0xa68af9 };
   private raf = 0;
   private simLive = false;
   private animating = true;
@@ -143,7 +172,7 @@ export class TimeGraph {
   private lastFrame = performance.now();
   private chipEl: HTMLElement | null = null;
   private worldH = 1000;
-  private breaks: [number, number][] = [];   // [year, worldY] spine, node-built
+  private breaks: [number, number][] = [];
   private disposed = false;
   private pointers = new Map<number, { x: number; y: number }>();
   private pinchDist = 0;
@@ -157,6 +186,7 @@ export class TimeGraph {
     private cbs: TimeGraphCallbacks) {
     this.canvas = host.createEl("canvas", { cls: "sg-tg-canvas" });
     this.ctx = this.canvas.getContext("2d")!;
+    this.readTheme();
     this.buildGraph();
     this.buildLegend();
     this.buildHint();
@@ -177,12 +207,21 @@ export class TimeGraph {
     this.host.empty();
   }
 
+  /** the graph's own theme vars — the same ones Obsidian's renderer reads */
+  private readTheme(): void {
+    this.col = {
+      line: cssVar("--graph-line", 0x3f3f3f),
+      text: cssVar("--graph-text", cssVar("--text-normal", 0xdadada)),
+      accent: cssVar("--interactive-accent", 0x8a5cf5),
+      ring: cssVar("--graph-node-focused", cssVar("--text-accent", 0xa68af9)),
+    };
+  }
+
   // ------------------------------------------------------------- the spine
 
   /** Time drawn BY the nodes: each moment steps down from the one before
    * it by a compressed measure of the years between — so a 2,000-year
-   * silence reads as real distance without becoming an empty scroll, and
-   * a crowded decade still gets room to breathe. */
+   * silence reads as real distance without becoming an empty scroll. */
   private buildSpine(events: TimelineEvent[]): void {
     const years = [...new Set(events.map(e => e.y0))].sort((a, b) => a - b);
     this.breaks = [];
@@ -190,9 +229,7 @@ export class TimeGraph {
     let prev: number | null = null;
     for (const y of years) {
       if (prev !== null) {
-        const gap = y - prev;
-        // log compression: gaps grow, but ever more gently
-        const t = Math.log1p(gap) / Math.log1p(GAP_REF);
+        const t = Math.log1p(y - prev) / Math.log1p(GAP_REF);
         pos += STEP_MIN + STEP_SPAN * Math.min(1, t);
       }
       this.breaks.push([y, pos]);
@@ -217,8 +254,11 @@ export class TimeGraph {
 
   // ------------------------------------------------------------- the graph
 
-  /** events pinned to their years; every person/place/thing ONE shared
-   * node, spring-tied to each moment it touches */
+  /** their getSize, verbatim: 3·√(degree+1), floored at 8, capped at 30 */
+  private sizeFor(deg: number, boost = 1): number {
+    return Math.max(8, Math.min(3 * Math.sqrt(deg + 1) * boost, 30));
+  }
+
   private buildGraph(): void {
     const { events, focuses, laneF } = this.scope;
     this.buildSpine(events);
@@ -233,18 +273,14 @@ export class TimeGraph {
     let seq = 0;
 
     for (const ev of events) {
-      const mid = (ev.y0 + ev.y1) / 2;
       const laneX = (laneF[ev.lane] ?? 0.5) * WORLD_W;
-      const py = this.yForYear(mid);
+      const py = this.yForYear((ev.y0 + ev.y1) / 2);
+      const rgb = toRGB(this.scope.laneColor[ev.lane] ?? "#9aa7c7", 0x9aa7c7);
       const n: GNode = {
-        id: `e:${ev.id}`, type: "event", ev,
-        label: ev.t,
-        color: this.scope.laneColor[ev.lane] ?? "#9aa7c7",
-        r: ev.imp === 1 ? 9 : ev.imp === 2 ? 7 : 5.5,
-        deg: 0, ax: laneX, ay: py,
-        a: 0, hop: -1, born: seq++ * 3,
-        x: laneX + (Math.random() - 0.5) * 60,
-        fy: py, y: py,
+        id: `e:${ev.id}`, type: "event", ev, label: ev.t,
+        rgb, tint: rgb, size: 10, deg: 0, accent: false,
+        ax: laneX, ay: py, a: 0, hop: -1, drop: 0, born: seq++ * 3,
+        x: laneX + (Math.random() - 0.5) * 60, fy: py, y: py,
       };
       const kept = remembered.get(n.id);
       if (kept) n.x = kept.x;
@@ -257,12 +293,12 @@ export class TimeGraph {
           let sat = entity.get(key);
           if (!sat) {
             const f = focusOf(kind, name);
+            const srgb = toRGB(f ? f.accent : KIND_COLOR[kind],
+              f ? this.col.accent : 0x8fd0f4);
             sat = {
               id: `s:${key}`, type: "entity", kind, label: name,
-              color: f ? solidColor(f.accent) : KIND_COLOR[kind],
-              accent: f ? solidColor(f.accent) : undefined,
-              r: 4, deg: 0, ax: laneX, ay: py,
-              a: 0, hop: -1, born: seq++ * 3,
+              rgb: srgb, tint: srgb, size: 8, deg: 0, accent: !!f,
+              ax: laneX, ay: py, a: 0, hop: -1, drop: 0, born: seq++ * 3,
               x: (n.x ?? 0) + (Math.random() - 0.5) * 80,
               y: py + (Math.random() - 0.5) * 80,
             };
@@ -275,28 +311,35 @@ export class TimeGraph {
           evsOf.get(sat)!.push(n);
           sat.deg++;
           n.deg++;
-          links.push({ source: n, target: sat, kind: "member", a: 0, hop: -1 });
+          links.push({ source: n, target: sat, kind: "member", a: 0, tint: this.col.line, hop: -1 });
         }
       }
     }
-    // an entity belongs where its moments are: the mean of the lanes and
-    // years it touches — computed ONCE, then the springs do the rest
+    // events wear their importance; entities grow with their gravity
+    for (const n of nodes) {
+      if (n.type === "event") {
+        const imp = n.ev!.imp;
+        n.size = this.sizeFor(n.deg, imp === 1 ? 1.45 : imp === 2 ? 1.15 : 0.95);
+      } else {
+        n.size = this.sizeFor(n.deg, n.accent ? 1.2 : 1);
+      }
+    }
+    // an entity belongs where its moments are — the mean of the lanes and
+    // years it touches, computed ONCE, then the springs argue from there
     for (const [sat, evs] of evsOf) {
       let sx = 0, sy = 0;
       for (const e of evs) { sx += e.ax; sy += e.ay; }
       sat.ax = evs.length ? sx / evs.length : WORLD_W / 2;
       sat.ay = evs.length ? sy / evs.length : this.worldH / 2;
-      // entities grow with their gravity — the graph's size-by-connections
-      sat.r = 4 + Math.min(9, sat.deg * 1.1) + (sat.accent ? 1.5 : 0);
     }
-    // the cross-hemisphere story arcs, faint and dashed like memory
     for (const [a, b] of this.scope.narrative) {
       const na = byId.get(a), nb = byId.get(b);
-      if (na && nb) links.push({ source: na, target: nb, kind: "narrative", a: 0, hop: -1 });
+      if (na && nb) {
+        links.push({ source: na, target: nb, kind: "narrative", a: 0, tint: this.col.line, hop: -1 });
+      }
     }
     this.nodes = nodes;
     this.links = links;
-    // adjacency once — the ripple walks this, never the link list
     for (const n of nodes) this.adj.set(n, []);
     for (const l of links) {
       const s = l.source as GNode, t = l.target as GNode;
@@ -308,41 +351,41 @@ export class TimeGraph {
   private startSim(): void {
     this.sim = forceSimulation<GNode>(this.nodes)
       .force("link", forceLink<GNode, GLink>(this.links)
-        .distance(l => l.kind === "member" ? 46 : 170)
+        .distance(l => l.kind === "member" ? 72 : 230)
         .strength(l => l.kind === "member" ? 0.5 : 0.04))
-      .force("charge", forceManyBody<GNode>().strength(-150).distanceMax(340))
-      .force("collide", forceCollide<GNode>(n => n.r + 4).strength(0.8))
+      .force("charge", forceManyBody<GNode>()
+        .strength(-260).distanceMin(20).distanceMax(430))
+      .force("collide", forceCollide<GNode>(n => n.size + 7).strength(0.6))
       .force("x", forceX<GNode>(n => n.ax)
         .strength(n => n.type === "event" ? 0.14 : 0.035))
       // events never leave their year; entities drift toward the middle of
-      // their own span in time and let the springs argue from there
+      // their own span in time and let the springs decide the rest
       .force("y", forceY<GNode>(n => n.ay)
         .strength(n => n.type === "event" ? 0 : 0.06))
-      .velocityDecay(0.34)
-      .alphaDecay(0.024)
-      .alphaMin(0.004);
+      // their settle: velocityDecay 0.4, alphaDecay 0.0228 → ~5s to rest
+      .velocityDecay(0.4)
+      .alphaDecay(0.0228)
+      .alphaMin(0.001);
     // WE own the clock: d3's own timer would race our frame loop and the
-    // motion would judder. Stop it and step the sim once per painted frame.
+    // motion would judder. Stop it, step it once per painted frame.
     this.sim.stop();
     this.simLive = true;
   }
 
-  private reheat(target = 0.25): void {
+  private reheat(target = 0.3): void {
     if (!this.sim) return;
     this.sim.alphaTarget(target);
-    if (this.sim.alpha() < 0.2) this.sim.alpha(0.2);
+    if (this.sim.alpha() < target) this.sim.alpha(target);
     this.simLive = true;
   }
 
-  private cool(): void {
-    this.sim?.alphaTarget(0);
-  }
+  private cool(): void { this.sim?.alphaTarget(0); }
 
   // ------------------------------------------------------------ the ripple
 
   /** hover a star and light spreads outward hop by hop: the star, then
    * the moments it belongs to, then who else stood there — each ring a
-   * beat behind the last, everything else falling back into the dark */
+   * beat behind the last, everything else falling back to 0.2 */
   private setRipple(lit: GNode | null): void {
     for (const n of this.nodes) n.hop = -1;
     for (const l of this.links) l.hop = -1;
@@ -360,8 +403,8 @@ export class TimeGraph {
       }
       for (const l of this.links) {
         const s = l.source as GNode, t = l.target as GNode;
-        // a link belongs to the ring of its FARTHER end — so the wave
-        // travels along the threads, not ahead of them
+        // a link belongs to the ring of its FARTHER end, so the wave
+        // travels ALONG the threads rather than ahead of them
         if (s.hop >= 0 && t.hop >= 0) l.hop = Math.max(s.hop, t.hop);
       }
     }
@@ -369,51 +412,62 @@ export class TimeGraph {
     this.animating = true;
   }
 
-  /** walk every alpha one frame toward where it belongs */
+  private lit(): GNode | null {
+    return this.dragging ?? this.selected ?? this.hover;
+  }
+
+  /** walk every alpha, tint and camera value one frame toward home */
   private animate(now: number, dt: number): void {
-    const lit = this.selected ?? this.hover;
+    const lit = this.lit();
     const since = now - this.rippleAt;
     const age = now - this.t0;
+    const f = 1 - Math.exp(-dt / TAU);
     let moving = false;
     const step = (cur: number, target: number, delay: number): number => {
-      if (since < delay) return cur;
-      const v = ease(cur, target, dt, 105);
-      if (Math.abs(target - v) > 0.004) moving = true;
-      return Math.abs(target - v) < 0.004 ? target : v;
+      if (since < delay) { moving = true; return cur; }
+      const v = ease(cur, target, dt, TAU);
+      if (Math.abs(target - v) > 0.004) { moving = true; return v; }
+      return target;
     };
     for (const n of this.nodes) {
-      // the sky is born a star at a time, top of the story downward
       if (age < n.born) { moving = true; continue; }
       const target = !lit ? 1
-        : n.hop < 0 ? LOOK.dim
+        : n.hop < 0 ? DIM
           : HOP_ALPHA[Math.min(n.hop, HOP_ALPHA.length - 1)]!;
       // brightening waits its turn; falling dark happens at once
-      const delay = lit && n.hop > 0 ? n.hop * HOP_MS : 0;
-      n.a = step(n.a, target, delay);
+      n.a = step(n.a, target, lit && n.hop > 0 ? n.hop * HOP_MS : 0);
+      // the hovered star takes the accent fill — bled in, never snapped
+      const tgt = n === lit ? this.col.accent : n.rgb;
+      if (n.tint !== tgt) {
+        n.tint = easeRGB(n.tint, tgt, f);
+        moving = true;
+      }
+      const drop = n === lit ? LABEL_DROP_PX : 0;
+      if (Math.abs(n.drop - drop) > 0.2) { n.drop = ease(n.drop, drop, dt, TAU); moving = true; }
+      else n.drop = drop;
     }
     for (const l of this.links) {
-      const target = !lit ? LOOK.linkAlpha
-        : l.hop < 0 ? LOOK.dim * 0.35
-          : LOOK.linkAlphaLit * (HOP_ALPHA[Math.min(l.hop, HOP_ALPHA.length - 1)] ?? 1);
-      const delay = lit && l.hop > 0 ? (l.hop - 0.4) * HOP_MS : 0;
-      l.a = step(l.a, target, Math.max(0, delay));
+      const target = !lit ? LINK_ALPHA
+        : l.hop < 0 ? DIM
+          : LINK_ALPHA * (HOP_ALPHA[Math.min(l.hop, HOP_ALPHA.length - 1)] ?? 1);
+      l.a = step(l.a, target, lit && l.hop > 0 ? Math.max(0, (l.hop - 0.4) * HOP_MS) : 0);
+      const tgt = l.hop >= 0 && lit ? this.col.accent : this.col.line;
+      if (l.tint !== tgt) { l.tint = easeRGB(l.tint, tgt, f); moving = true; }
     }
-    // the camera glides; a released drag keeps coasting
+    // a released drag keeps coasting; the camera glides after it
     if (!this.panning && (Math.abs(this.vel.x) > 0.04 || Math.abs(this.vel.y) > 0.04)) {
       this.camT.x += this.vel.x;
       this.camT.y += this.vel.y;
-      this.vel.x *= 0.93;
-      this.vel.y *= 0.93;
+      this.vel.x *= 0.92;
+      this.vel.y *= 0.92;
       moving = true;
     }
     for (const key of ["x", "y", "k"] as const) {
-      const d = this.camT[key] - this.cam[key];
-      if (Math.abs(d) > (key === "k" ? 0.0004 : 0.06)) {
-        this.cam[key] = ease(this.cam[key], this.camT[key], dt, 70);
+      const tau = key === "k" ? ZOOM_TAU : 70;
+      if (Math.abs(this.camT[key] - this.cam[key]) > (key === "k" ? 0.0004 : 0.06)) {
+        this.cam[key] = ease(this.cam[key], this.camT[key], dt, tau);
         moving = true;
-      } else {
-        this.cam[key] = this.camT[key];
-      }
+      } else this.cam[key] = this.camT[key];
     }
     this.animating = moving;
   }
@@ -424,16 +478,17 @@ export class TimeGraph {
     const w = this.host.clientWidth || 360;
     const k = Math.max(0.3, Math.min(1.4, (w * 0.94) / WORLD_W));
     const first = this.nodes.find(n => n.type === "event");
-    this.camT = {
-      k, x: (w - WORLD_W * k) / 2,
-      y: 46 - ((first?.fy ?? 0) - 60) * k,
-    };
+    this.camT = { k, x: (w - WORLD_W * k) / 2, y: 46 - ((first?.fy ?? 0) - 60) * k };
     this.cam = { ...this.camT };
   }
 
   private toWorld(px: number, py: number): { x: number; y: number } {
     return { x: (px - this.cam.x) / this.cam.k, y: (py - this.cam.y) / this.cam.k };
   }
+
+  /** their nodeScale: world radius = size·√(1/zoom), so on SCREEN a star
+   * grows as √zoom — the single biggest reason their graph feels right */
+  private get nodeScale(): number { return Math.sqrt(1 / this.cam.k); }
 
   // -------------------------------------------------------------- the loop
 
@@ -465,7 +520,7 @@ export class TimeGraph {
     }
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.clearRect(0, 0, w, h);
-    const { x: cx, y: cy, k } = this.cam;
+    const k = this.cam.k, ns = this.nodeScale;
 
     if (this.nodes.length > NODE_BUDGET) {
       ctx.fillStyle = "rgba(220,228,255,0.75)";
@@ -476,10 +531,10 @@ export class TimeGraph {
     }
 
     ctx.save();
-    ctx.translate(cx, cy);
+    ctx.translate(this.cam.x, this.cam.y);
     ctx.scale(k, k);
 
-    // eras as soft washes behind everything, placed on the node-built spine
+    // eras as soft washes behind everything, on the node-built spine
     const eras = this.scope.eras;
     for (let i = 0; i < eras.length; i++) {
       const era = eras[i]!;
@@ -488,122 +543,97 @@ export class TimeGraph {
       ctx.fillStyle = era.tint;
       ctx.fillRect(-2000, y0, 5000, y1 - y0);
       ctx.fillStyle = "rgba(235,240,255,0.045)";
-      ctx.font = `700 ${Math.min(70, 26 / Math.min(1, k))}px sans-serif`;
+      ctx.font = `700 ${Math.min(70, 26 * ns)}px sans-serif`;
       ctx.textAlign = "center";
       ctx.fillText(era.label.toUpperCase(), WORLD_W / 2, y0 + 46);
     }
     // the years themselves, ticking down the left margin
     ctx.textAlign = "left";
-    ctx.font = `600 ${11 / Math.min(1, k)}px sans-serif`;
-    let lastTickY = -1e9;
+    ctx.textBaseline = "alphabetic";
+    ctx.font = `600 ${11 * ns}px sans-serif`;
+    let lastTick = -1e9;
     for (const [year, py] of this.breaks) {
-      if (py - lastTickY < 46 / k) continue;
-      lastTickY = py;
-      ctx.strokeStyle = "rgba(150,168,205,0.07)";
+      if (py - lastTick < 46 / k) continue;
+      lastTick = py;
+      ctx.strokeStyle = rgbaStr(this.col.line, 0.16);
       ctx.lineWidth = 1 / k;
       ctx.beginPath();
       ctx.moveTo(-400, py);
       ctx.lineTo(WORLD_W + 400, py);
       ctx.stroke();
-      ctx.fillStyle = "rgba(190,204,236,0.3)";
+      ctx.fillStyle = rgbaStr(this.col.text, 0.3);
       ctx.fillText(yearStr(year), 14, py - 4);
     }
 
-    // edges first — the web beneath the stars
+    // links: straight, trimmed to the circles, constant SCREEN width
+    ctx.lineWidth = LINK_WIDTH / k;
     for (const l of this.links) {
       if (l.a < 0.012) continue;
       const s = l.source as GNode, t = l.target as GNode;
-      const inRipple = l.hop >= 0;
-      if (l.kind === "narrative") {
-        ctx.strokeStyle = `rgba(150,170,220,${l.a * 0.8})`;
-        ctx.setLineDash([5 / k, 6 / k]);
-      } else {
-        const accent = s.accent ?? t.accent;
-        const hue = inRipple
-          ? ((this.selected ?? this.hover)?.color ?? accent ?? "#9fb2dd")
-          : accent ?? "#96a8cd";
-        ctx.strokeStyle = this.rgba(hue, l.a);
-        ctx.setLineDash([]);
-      }
-      ctx.lineWidth = (inRipple ? LOOK.linkWidthLit : LOOK.linkWidth) / k;
+      const sx = s.x ?? 0, sy = s.y ?? 0, tx = t.x ?? 0, ty = t.y ?? 0;
+      const dx = tx - sx, dy = ty - sy;
+      const m = Math.hypot(dx, dy) || 1;
+      const r0 = s.size * ns, r1 = t.size * ns;
+      if (m <= r0 + r1) continue;
+      ctx.strokeStyle = rgbaStr(l.tint, l.a);
+      ctx.setLineDash(l.kind === "narrative" ? [5 / k, 6 / k] : []);
       ctx.beginPath();
-      ctx.moveTo(s.x ?? 0, s.y ?? 0);
-      ctx.lineTo(t.x ?? 0, t.y ?? 0);
+      ctx.moveTo(sx + (dx / m) * r0, sy + (dy / m) * r0);
+      ctx.lineTo(tx - (dx / m) * r1, ty - (dy / m) * r1);
       ctx.stroke();
     }
     ctx.setLineDash([]);
 
-    // stars: soft halo under a bright core — the graph's glow, hand-mixed
+    // stars: flat filled circles — Obsidian has no glow, and neither do we
+    const lit = this.lit();
     for (const n of this.nodes) {
       if (n.a < 0.012) continue;
-      const x = n.x ?? 0, y = n.y ?? 0;
-      ctx.fillStyle = this.rgba(n.color, LOOK.haloAlpha * n.a);
+      const r = n.size * ns;
+      ctx.fillStyle = rgbaStr(n.tint, n.a);
       ctx.beginPath();
-      ctx.arc(x, y, n.r * LOOK.haloScale, 0, Math.PI * 2);
+      ctx.arc(n.x ?? 0, n.y ?? 0, r, 0, Math.PI * 2);
       ctx.fill();
-      ctx.fillStyle = this.rgba(n.color, n.a);
-      ctx.beginPath();
-      ctx.arc(x, y, n.r, 0, Math.PI * 2);
-      ctx.fill();
-      if (n === this.selected) {
-        ctx.strokeStyle = `rgba(255,255,255,${0.85 * n.a})`;
-        ctx.lineWidth = 1.6 / k;
+      if (n === lit) {
+        // their ring: ≥1 screen px, drawn just outside the star
+        const lw = Math.max(RING_MIN_PX / k, 1 / (k * ns));
+        ctx.strokeStyle = rgbaStr(this.col.ring, n.a);
+        ctx.lineWidth = lw;
         ctx.beginPath();
-        ctx.arc(x, y, n.r + 4 / k, 0, Math.PI * 2);
+        ctx.arc(n.x ?? 0, n.y ?? 0, r + lw / 2, 0, Math.PI * 2);
         ctx.stroke();
       }
     }
-    ctx.restore();
 
-    // labels bloom with zoom — FADED in, never popped — and drawn at screen
-    // size so they stay crisp however far the sky is pushed away
-    ctx.textAlign = "left";
+    // labels: BELOW the star, centered, no halo — their layout exactly.
+    // textAlpha = clamp(log2(zoom) + 1 − fadeMult, 0, 1); the hovered
+    // star's label ignores zoom entirely and burns full bright.
+    const textAlpha = Math.max(0, Math.min(1,
+      Math.log(k) / Math.LN2 + 1 - TEXT_FADE_MULT));
+    ctx.textAlign = "center";
+    ctx.textBaseline = "top";
     for (const n of this.nodes) {
-      const la = this.labelAlpha(n, k) * n.a;
-      if (la < 0.04) continue;
-      const sx = (n.x ?? 0) * k + this.cam.x + (n.r + 6) * k;
-      const sy = (n.y ?? 0) * k + this.cam.y + 4;
-      if (sx < -140 || sx > w + 20 || sy < -20 || sy > h + 20) continue;
-      const big = n.type === "event" && n.ev!.imp === 1;
-      ctx.font = `${big ? 700 : 500} ${big ? 12.5 : 11}px sans-serif`;
-      ctx.lineWidth = 3;
-      ctx.strokeStyle = LOOK.labelHalo;
-      ctx.globalAlpha = la;
-      ctx.strokeText(n.label, sx, sy);
-      ctx.fillStyle = n.hop === 0 ? "#ffffff"
-        : n.type === "entity" ? this.rgba(n.color, 0.95) : "rgba(228,234,250,0.92)";
-      ctx.fillText(n.label, sx, sy);
-      ctx.globalAlpha = 1;
+      const la = (n === lit ? 1 : textAlpha * n.a);
+      if (la < 0.02) continue;
+      const x = n.x ?? 0, y = n.y ?? 0;
+      const sx = x * k + this.cam.x, sy = y * k + this.cam.y;
+      if (sx < -180 || sx > w + 180 || sy < -40 || sy > h + 60) continue;
+      ctx.font = `${(14 + n.size / 4) * ns}px ui-sans-serif, system-ui, sans-serif`;
+      ctx.fillStyle = rgbaStr(n === lit ? this.col.text : n.type === "entity" ? n.rgb : this.col.text, la);
+      ctx.fillText(n.label, x, y + (n.size + 5) * ns + n.drop / k);
     }
-  }
-
-  /** how loudly a star says its name: the ripple's inner rings always
-   * speak, everything else rises with the zoom across a soft window */
-  private labelAlpha(n: GNode, k: number): number {
-    if (n.hop === 0) return 1;
-    if (n.hop === 1) return 0.95;
-    const gate = n.type === "event"
-      ? (n.ev!.imp === 1 ? 0.42 : n.ev!.imp === 2 ? 0.62 : 1.0)
-      : n.deg >= 4 ? 0.55 : 0.95;
-    return Math.max(0, Math.min(1, (k - gate) / 0.22));
-  }
-
-  private rgba(hex: string, a: number): string {
-    const m = /^#([0-9a-f]{6})$/i.exec(hex);
-    if (!m) return hex;
-    const v = parseInt(m[1]!, 16);
-    return `rgba(${(v >> 16) & 255},${(v >> 8) & 255},${v & 255},${a})`;
+    ctx.restore();
+    ctx.textBaseline = "alphabetic";
   }
 
   // -------------------------------------------------------- the interaction
 
   private nodeAt(px: number, py: number): GNode | null {
     const wpt = this.toWorld(px, py);
-    const slack = 14 / this.cam.k;      // generous thumbs on phones
+    const slack = 12 / this.cam.k;
+    const ns = this.nodeScale;
     let best: GNode | null = null, bd = Infinity;
     for (const n of this.nodes) {
-      const dx = (n.x ?? 0) - wpt.x, dy = (n.y ?? 0) - wpt.y;
-      const d = Math.hypot(dx, dy) - n.r;
+      const d = Math.hypot((n.x ?? 0) - wpt.x, (n.y ?? 0) - wpt.y) - n.size * ns;
       if (d < slack && d < bd) { best = n; bd = d; }
     }
     return best;
@@ -615,7 +645,9 @@ export class TimeGraph {
     this.ro.observe(this.host);
     c.addEventListener("wheel", ev => {
       ev.preventDefault();
-      this.zoomAt(ev.offsetX, ev.offsetY, Math.exp(-ev.deltaY * 0.0016));
+      const d = ev.deltaMode === 1 ? ev.deltaY * 40
+        : ev.deltaMode === 2 ? ev.deltaY * 800 : ev.deltaY;
+      this.zoomAt(ev.offsetX, ev.offsetY, Math.pow(1.5, -d / 120));
     }, { passive: false });
     c.addEventListener("pointerdown", ev => {
       c.setPointerCapture(ev.pointerId);
@@ -633,11 +665,9 @@ export class TimeGraph {
       const hit = this.nodeAt(ev.offsetX, ev.offsetY);
       if (hit) {
         this.dragging = hit;
-        this.hoverNode(hit);
-        this.reheat(0.2);
-      } else {
-        this.panning = true;
-      }
+        this.setRipple(hit);      // dragging highlights, as theirs does
+        this.reheat(0.3);
+      } else this.panning = true;
     });
     c.addEventListener("pointermove", ev => {
       const p = this.pointers.get(ev.pointerId);
@@ -655,7 +685,7 @@ export class TimeGraph {
       if (this.dragging) {
         const wpt = this.toWorld(ev.offsetX, ev.offsetY);
         this.dragging.fx = wpt.x;
-        // events stay pinned to their year — the one rule of this sky
+        // events stay pinned to their year — the one law of this sky
         if (this.dragging.type === "entity") this.dragging.fy = wpt.y;
         this.moved = true;
         this.animating = true;
@@ -685,7 +715,8 @@ export class TimeGraph {
         n.fx = undefined;
         if (n.type === "entity") n.fy = undefined;
         this.cool();
-        if (!this.moved) this.select(n); else this.hoverNode(null);
+        if (!this.moved) this.select(n);
+        else if (!this.selected) this.setRipple(this.hover);
         return;
       }
       const wasPan = this.panning;
@@ -703,14 +734,17 @@ export class TimeGraph {
     if (!this.selected) this.setRipple(n);
   }
 
+  /** their zoom: eased toward a target, anchored under the finger going
+   * in, recentered on the viewport going out */
   private zoomAt(px: number, py: number, factor: number): void {
-    const k1 = Math.max(0.22, Math.min(3.2, this.camT.k * factor));
-    // anchor on the world point under the finger, in CAMERA-TARGET space
-    const wx = (px - this.camT.x) / this.camT.k;
-    const wy = (py - this.camT.y) / this.camT.k;
+    const k1 = Math.max(0.12, Math.min(4, this.camT.k * factor));
+    const ax = factor >= 1 ? px : this.host.clientWidth / 2;
+    const ay = factor >= 1 ? py : this.host.clientHeight / 2;
+    const wx = (ax - this.camT.x) / this.camT.k;
+    const wy = (ay - this.camT.y) / this.camT.k;
     this.camT.k = k1;
-    this.camT.x = px - wx * k1;
-    this.camT.y = py - wy * k1;
+    this.camT.x = ax - wx * k1;
+    this.camT.y = ay - wy * k1;
     this.animating = true;
   }
 
@@ -756,8 +790,6 @@ export class TimeGraph {
     x.onclick = () => this.select(null);
   }
 
-  /** the group colors, named — the legend doubles as the promise that both
-   * graph surfaces speak the same language */
   private buildLegend(): void {
     const leg = this.host.createDiv({ cls: "sg-tg-legend" });
     const dot = (color: string, label: string) => {
