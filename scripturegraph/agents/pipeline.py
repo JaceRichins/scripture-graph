@@ -374,7 +374,12 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
     ws = ctx.jobs_dir / job_id
     for sub in ("source", "critiques", "judge", "librarian", "validation"):
         (ws / sub).mkdir(parents=True, exist_ok=True)
-    seq = db.execute("SELECT COUNT(*) AS n FROM jobs").fetchone()["n"]
+    # Which researcher argues the supportive case, and which provider judges,
+    # alternate per job. A COUNT(*) of the jobs table gave that alternation
+    # while one job ran at a time; two workers starting together read the same
+    # count and both take the same side. The job id is already unique, so
+    # derive the parity from it and the alternation survives concurrency.
+    seq = int(hashlib.sha1(job_id.encode()).hexdigest()[:8], 16)
     researchers, mode = _select_researchers(ctx)
     timeout = int(ctx.budget("job_timeout_sec") or 420)
     costs = {"usd": 0.0, "calls": 0}
