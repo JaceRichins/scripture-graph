@@ -4938,6 +4938,73 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hosea-10-8cf13f8f",
+   "t": "Assyrian conquest ends the Northern Kingdom's monarchy",
+   "y0": -722,
+   "y1": -721,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "2 Kings 17 records Shalmaneser's siege of Samaria and the deportation of Israel, matching Hosea 10:6's prediction that the Bethel calf would be carried to Assyria.",
+   "chapters": [
+    "Hosea 10"
+   ],
+   "places": [
+    "Samaria",
+    "Assyria"
+   ]
+  },
+  {
+   "id": "r-hosea-10-eacf03c2",
+   "t": "Hosea prophesies through Israel's final kings",
+   "y0": -755,
+   "y1": -722,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Hosea's ministry is conventionally dated from the later reign of Jeroboam II through Samaria's fall, encompassing the political instability described in Hosea 10:3,7,15.",
+   "chapters": [
+    "Hosea 10"
+   ],
+   "people": [
+    "Hosea"
+   ],
+   "places": [
+    "Samaria"
+   ]
+  },
+  {
+   "id": "r-hosea-13-2f4355b2",
+   "t": "Fall of Samaria and collapse of the northern kingdom",
+   "y0": -722,
+   "y1": -722,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional date for Assyria's conquest of Samaria, the event Hosea 13:16 appears to anticipate; corroborated externally by Assyrian records and 2 Kings 17.",
+   "chapters": [
+    "Hosea 13"
+   ],
+   "places": [
+    "Samaria"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
