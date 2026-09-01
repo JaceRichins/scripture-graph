@@ -17,13 +17,20 @@ Scripture: [[Leviticus 20]] · My notes: [[Leviticus 20 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The death penalty is prescribed for sacrificing children to Molech, cursing father and mother, adultery, homosexual behavior, bestiality, spiritualism, and other abominations—Various laws and ordinances are listed.
+Leviticus 20 is more than a list of death penalties. It joins severe sanctions to a covenant theology of holiness, divine sanctification, communal responsibility, land tenure, separation, and belonging to the LORD. Its legal material closely corresponds to [[Leviticus 18]], but this chapter gives particular attention to liability and consequences. Readers should distinguish what the chapter explicitly says from later conclusions about how ancient Israel administered these laws or how they should be applied in other legal settings.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful reading divides the chapter into five movements:
+
+1. Verses 1–6: Molech worship, communal complicity, and illicit spirit consultation.
+2. Verses 7–8: a central summons to holiness and obedience.
+3. Verses 9–21: penalties concerning parents, marriage, sexual acts, and kinship boundaries.
+4. Verses 22–26: land, clean–unclean distinctions, separation, and belonging to God.
+5. Verse 27: the penalty for mediums and wizards, returning to a subject introduced in verse 6.
+
+The recurrence in verses 6 and 27 may frame the intervening laws, although it could also result from arranging a prohibition near the beginning and its penalty at the end.
 <!-- SG:END structure -->
 
 ## People
@@ -60,7 +67,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Law of Moses]]
+- [[Covenants]]
+- [[Government and Laws]]
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Honesty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -69,7 +78,7 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's clearest theological synthesis occurs in verses 7–8: the people must sanctify themselves and obey, yet the LORD is the one who sanctifies them. This holds divine action and accountable human action together. Verses 24–26 similarly define holiness as belonging: Israel has been separated from other peoples so that it may be the LORD's. These ideas connect naturally with [[Covenants]], [[Obedience]], and [[Justification and Sanctification]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +93,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several legal formulas should not be treated as automatic synonyms. “Shall surely be put to death,” “shall be cut off,” “shall bear their iniquity,” “their blood shall be upon them,” and “shall die childless” may indicate different kinds or descriptions of consequence. The English wording “cut off” is especially ambiguous without broader linguistic and legal study; the chapter itself does not settle whether every occurrence denotes execution, exclusion, divinely imposed death, or another loss.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly moves between human and divine agency. The people stone the Molech offender, but God sets his face against and cuts off the offender (verses 2–5). Israel sanctifies itself and keeps the statutes, but God sanctifies Israel (verses 7–8). Israel must distinguish clean from unclean, but God first separates Israel from other peoples (verses 24–26). This pattern makes the laws part of a reciprocal covenant relationship rather than a detached criminal code.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary And Legal Correspondence
+> The extensive overlap in subject matter and land-expulsion language provides strong internal evidence that Leviticus 18 and 20 should be studied together as prohibition-focused and sanction-focused treatments of related material.
+> — strength 0.9 · confidence 0.9 · Strong study relationship; compositional history unresolved · [[Internal Literary And Legal Correspondence in Leviticus 20|full dossier]]
+
+> [!evidence] Literary Framing *(tentative)*
+> The recurrence of mediums and wizards in verses 6 and 27 moderately supports reading the chapter as literarily framed by warnings against illicit spiritual mediation.
+> — strength 0.3 · confidence 0.5 · Accepted recurrence; disputed framing interpretation
+
+> [!evidence] Literary Structure Analysis *(tentative)*
+> The bracketing repetition of the mediums/wizards prohibition (v.6, v.27) around the chapter's central holiness and sexual-law material is consistent with, and offers some support for, deliberate literary/editorial arrangement of Leviticus 20 as a unit.
+> — strength 0.2 · confidence 0.5 · Disputed literary interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the chapter distinguish communal execution from God's act of “cutting off” an offender?
+- What does the warning that the land may “spue” out its inhabitants contribute to the chapter's understanding of covenant possession?
+- How do verses 7–8 hold human obedience and divine sanctification together?
+- Why are clean–unclean animal distinctions placed beside Israel's separation from other peoples?
+- What additional biblical legal texts are needed before drawing conclusions about judicial procedure or present-day application?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Leviticus 18]] beside this chapter, marking where prohibitions recur and where Leviticus 20 adds sanctions. Compare the holiness rationale with [[Leviticus 19]] and the clean–unclean distinctions with [[Leviticus 11]]. Exodus 21:17 supplies a close legal parallel for cursing parents, while Deuteronomy 18:9–14 provides a broader comparison for the rejection of occult mediation.
 <!-- SG:END further-study -->
