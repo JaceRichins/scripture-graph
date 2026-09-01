@@ -323,6 +323,7 @@ def report(ctx: Ctx, days: int = 7) -> dict:
              - datetime.datetime.strptime(d["observed_at"][:19], "%Y-%m-%dT%H:%M:%S")
              .replace(tzinfo=datetime.timezone.utc)).total_seconds() / 3600, 1)
         out["limits"].append(d)
+    out["governor"] = governor(ctx)
 
     for label, hours in (("last_1h", 1), ("last_5h", 5), ("last_24h", 24),
                          ("last_7d", 24 * 7)):
@@ -402,6 +403,12 @@ def render(rep: dict) -> str:
         L.append("  (none observed yet - run `sg usage` to harvest the logs)")
     L.append("  claude   no published %: Claude Code does not write a rate-limit")
     L.append("           readout to disk. Consumption + throttle events below.")
+    g = rep.get("governor")
+    if g:
+        L.append("")
+        L.append(f"  GOVERNOR  AI budget x{g['scale']:.2f}  ({g['reason']})")
+        if g.get("resets_in_h") is not None:
+            L.append(f"            window resets in {g['resets_in_h']:.0f}h")
     L.append("")
 
     for label, title in (("last_1h", "LAST HOUR"), ("last_5h", "LAST 5 HOURS"),
@@ -433,6 +440,90 @@ def render(rep: dict) -> str:
             f"{r['day'][5:]}={r['applied'] or 0}/{r['jobs']}"
             for r in rep["engine_throughput"]))
     return "\n".join(L)
+
+
+# ---------------------------------------------------------------- governor
+
+def governor(ctx: Ctx, source: str = "codex") -> dict:
+    """How much of its AI budget the engine may spend right now, in [0, 1].
+
+    Codex reports a real `used_percent` against a rolling window with a known
+    reset time, which makes pacing possible: `pace` is simply how much of the
+    window has elapsed. Burning ahead of pace is fine and expected early — the
+    window starts empty — but it has to converge, or the engine slams into a
+    hard throttle days before the reset and then does NOTHING until it clears.
+    Gliding in beats stopping dead: a 60%-rate engine all week finishes more
+    chapters than a 100%-rate engine locked out from Thursday onward.
+
+    Deliberately fails OPEN. No reading, an expired window, a provider that
+    publishes no percentage — all return full budget. A telemetry gap must
+    never be able to silently halt research.
+    """
+    out = {"source": source, "scale": 1.0, "used_pct": None, "pace_pct": None,
+           "reason": "no reading - full budget"}
+    if not ctx.c("governor.enabled", True):
+        out["reason"] = "governor disabled"
+        return out
+    ceiling = float(ctx.c(f"governor.{source}_ceiling_pct", 92.0))
+    slack = float(ctx.c(f"governor.{source}_slack_pct", 10.0))
+    taper = max(1.0, float(ctx.c(f"governor.{source}_taper_pct", 20.0)))
+
+    now = time.time()
+    # Every window the plan currently reports, not just one. A superseded plan
+    # leaves rows behind whose window has not technically expired yet — picking
+    # by window size alone let a stale 0% reading outrank the live 30% one and
+    # hand back full budget. So: only readings the provider is STILL emitting
+    # (seen in the last day), and the most constraining of those wins.
+    fresh = (datetime.datetime.now(datetime.timezone.utc)
+             - datetime.timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    rows = ctx.db().execute(
+        "SELECT used_percent, window_minutes, resets_at, reached_type, observed_at "
+        "FROM usage_limits WHERE source=? AND resets_at IS NOT NULL AND resets_at > ? "
+        "AND observed_at >= ? ORDER BY observed_at DESC", (source, int(now), fresh)).fetchall()
+    if not rows:
+        return out
+
+    best = None
+    for row in rows:
+        used = float(row["used_percent"] or 0)
+        window_s = max(60.0, float(row["window_minutes"] or 0) * 60.0)
+        remaining_s = max(0.0, float(row["resets_at"]) - now)
+        pace = max(0.0, min(100.0, (1.0 - remaining_s / window_s) * 100.0))
+        info = {"used_pct": used, "pace_pct": round(pace, 1),
+                "resets_in_h": round(remaining_s / 3600, 1)}
+        if row["reached_type"]:
+            info.update(scale=0.0,
+                        reason=f"provider reports limit reached: {row['reached_type']}")
+        elif used >= ceiling:
+            info.update(scale=0.0, reason=f"{used:.0f}% used >= ceiling {ceiling:.0f}%")
+        else:
+            ahead = used - pace
+            if ahead <= slack:
+                info.update(scale=1.0,
+                            reason=f"{used:.0f}% used vs {pace:.0f}% pace - on track")
+            else:
+                scale = max(0.0, min(1.0, 1.0 - (ahead - slack) / taper))
+                info.update(scale=round(scale, 3),
+                            reason=f"{used:.0f}% used vs {pace:.0f}% pace "
+                                   f"({ahead:+.0f}pp ahead) - throttling to {scale:.0%}")
+        if best is None or info["scale"] < best["scale"]:
+            best = info
+    out.update(best)
+    return out
+
+
+def apply_governor(ctx: Ctx, ai_budget: int) -> tuple[int, dict]:
+    """Scale an AI job budget by the governor, keeping at least 1 job while any
+    headroom remains — a trickle keeps the queue warm and keeps producing the
+    telemetry the governor itself reads."""
+    g = governor(ctx)
+    if g["scale"] >= 1.0:
+        return ai_budget, g
+    scaled = int(ai_budget * g["scale"])
+    if g["scale"] > 0 and scaled < 1:
+        scaled = 1
+    g["budget_before"], g["budget_after"] = ai_budget, scaled
+    return scaled, g
 
 
 def record_call(ctx: Ctx, provider: str, model: str | None, role: str,
