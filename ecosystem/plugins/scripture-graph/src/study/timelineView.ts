@@ -7,7 +7,7 @@
  * (major-only by default — no data floods), and a search box that doubles
  * as a person/place spotlight. Event links ride the one link ladder:
  * verses peek, chapters open your study page, people float as sheets. */
-import { ItemView, Modal, TFile, WorkspaceLeaf, type App } from "obsidian";
+import { ItemView, Menu, Modal, TFile, WorkspaceLeaf, type App } from "obsidian";
 import { SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
 import { TimeGraph } from "./timeGraph";
@@ -189,7 +189,6 @@ export class TimelineView extends ItemView {
   /** a preset that arrived before the dataset did — applied on landing */
   private pendingPreset: TimelinePreset | null = null;
   private streamEl: HTMLElement | null = null;
-  private showLenses = false;     // category row folded away by default
   private showSearch = false;     // search folded away by default
   private lastW = 0;
   private retriedZeroWidth = false;
@@ -440,22 +439,16 @@ export class TimelineView extends ItemView {
       return;
     }
 
-    // ---- filter bar: words on everything — a control you have to guess at
-    // is a control that gets guessed wrong ------------------------------
+    // ---- the bar: ONE line ------------------------------------------------
+    // Four rows of chips meant a phone spent half its screen on chrome
+    // before showing a single moment. Everything that isn't the view
+    // itself now lives behind a NAMED menu — still words on everything
+    // (a control you have to guess at gets guessed wrong), just folded.
     const bar = c.createDiv({ cls: "sg-tl-bar" });
-    const eras = bar.createDiv({ cls: "sg-tl-eras" });
-    eras.createSpan({ cls: "sg-tl-rowcap", text: "Jump to" });
-    for (const era of ERAS) {
-      const b = eras.createEl("button", { cls: "sg-tl-era", text: era.label });
-      b.setAttr("title", `Scroll to the ${era.label} era`);
-      b.onclick = () => this.scrollToYear(era.y);
-    }
-    const row2 = bar.createDiv({ cls: "sg-tl-row" });
-    // depth first — the graph-view way: 1 = one river per world, 2 = the
-    // river braids: Zeniff, Alma, and Zarahemla side by side through Mosiah
+    const row = bar.createDiv({ cls: "sg-tl-row sg-tl-oneline" });
+    // depth stays in reach — it's the view itself, not a filter
     if (this.data.threads?.length) {
-      const seg = row2.createDiv({ cls: "sg-tl-seg" });
-      seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
+      const seg = row.createDiv({ cls: "sg-tl-seg" });
       const segDefs: [1 | 2 | 3, string, string][] = [
         [1, "1", "One line per world"],
         [2, "2", "Split the storylines apart"],
@@ -474,75 +467,79 @@ export class TimelineView extends ItemView {
         };
       }
     }
-    // the three worlds as LABELED toggles — show/hide is obvious, and the
-    // colored ring doubles as the legend for the rails below
-    for (const key of ["ow", "nw", "rs"]) {
-      const on = this.lanes.has(key);
-      const b = row2.createEl("button", { cls: "sg-tl-worldc", text: LANE_NAME[key]! });
-      const hint = `${on ? "Hide" : "Show"} ${LANE_NAME[key]!.slice(3)} events`;
-      b.setAttr("title", hint);
-      b.setAttr("aria-label", hint);
-      b.style.setProperty("--sg-lane", LANE_COLOR[key]!);
-      b.toggleClass("sg-tl-on", on);
-      b.onclick = () => {
-        if (this.lanes.has(key)) this.lanes.delete(key); else this.lanes.add(key);
-        this.render();
-      };
-    }
-    row2.createSpan({ cls: "sg-tl-div" });
-    const iconChip = (text: string, hint: string, on: boolean,
-      click: () => void) => {
-      const b = row2.createEl("button", { cls: "sg-tl-tool", text });
+    const tool = (text: string, hint: string, on: boolean,
+      click: (ev: MouseEvent) => void) => {
+      const b = row.createEl("button", { cls: "sg-tl-tool", text });
       b.setAttr("aria-label", hint);
       b.setAttr("title", hint);
       b.toggleClass("sg-tl-on", on);
       b.onclick = click;
       return b;
     };
-    iconChip(this.detail ? "🔎 Everything" : "⭐ Major only",
-      "How much shows: the major moments, or every detail",
-      this.detail, () => { this.detail = !this.detail; this.render(); });
-    iconChip("🎯 Focus", "Follow one person, place, or thing through time", false,
+    tool("Jump to ▾", "Scroll to an era", false, ev => {
+      const m = new Menu();
+      for (const era of ERAS) {
+        m.addItem(i => i.setTitle(`${era.label}  ·  ${yearStr(era.y)}`)
+          .onClick(() => this.scrollToYear(era.y)));
+      }
+      m.showAtMouseEvent(ev);
+    });
+    const lensesOn = this.cats.size < CATS.length;
+    const narrowed = this.lanes.size < 3 || lensesOn || this.detail;
+    tool("Filters ▾", "Choose which worlds, how much detail, which kinds of moment",
+      narrowed, ev => {
+        const m = new Menu();
+        for (const key of ["ow", "nw", "rs"]) {
+          m.addItem(i => i.setTitle(LANE_NAME[key]!).setChecked(this.lanes.has(key))
+            .onClick(() => {
+              if (this.lanes.has(key)) this.lanes.delete(key); else this.lanes.add(key);
+              if (!this.lanes.size) this.lanes = new Set(["ow", "nw", "rs"]);
+              this.render();
+            }));
+        }
+        m.addSeparator();
+        m.addItem(i => i.setTitle("Every detail").setChecked(this.detail)
+          .onClick(() => { this.detail = !this.detail; this.render(); }));
+        m.addSeparator();
+        for (const cat of CATS) {
+          m.addItem(i => i.setTitle(cat.label).setChecked(this.cats.has(cat.key))
+            .onClick(() => {
+              // tapping the ONLY active lens restores all — quick solo/reset
+              if (this.cats.has(cat.key) && this.cats.size === 1) {
+                this.cats = new Set(CATS.map(x => x.key));
+              } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
+                this.cats = new Set([cat.key]);   // first tap = solo this lens
+              } else if (this.cats.has(cat.key)) {
+                this.cats.delete(cat.key);
+              } else {
+                this.cats.add(cat.key);
+              }
+              this.render();
+            }));
+        }
+        if (narrowed) {
+          m.addSeparator();
+          m.addItem(i => i.setTitle("↺ Show everything").onClick(() => this.resetFilters()));
+        }
+        m.showAtMouseEvent(ev);
+      });
+    tool("🎯 Focus", "Follow one person, place, or thing through time", false,
       () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open());
-    const filtered = this.cats.size < CATS.length;
-    iconChip(filtered ? `⚗ Lenses · ${this.cats.size}` : "⚗ Lenses",
-      "Filter by kind of moment — prophets, wars, records…",
-      this.showLenses || filtered,
-      () => { this.showLenses = !this.showLenses; this.render(); });
-    iconChip("🔍 Search", "Find a person, place, or event", this.showSearch || !!this.query,
+    tool("🔍", "Find a person, place, or event", this.showSearch || !!this.query,
       () => {
         this.showSearch = !this.showSearch;
-        if (!this.showSearch) { this.query = ""; }
+        if (!this.showSearch) this.query = "";
         this.render();
       });
-    // an escape hatch the moment anything is filtered — no stranded views
-    if (this.lanes.size < 3 || filtered || this.detail || this.query) {
-      const reset = row2.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "↺ Reset" });
+    // the escape hatch stays VISIBLE whenever anything is narrowed — a
+    // filter you can't see is a filter you forget you set
+    if (narrowed || this.query) {
+      const reset = row.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "↺" });
       reset.setAttr("title", "Show everything again");
       reset.setAttr("aria-label", "Show everything again");
       reset.onclick = () => this.resetFilters();
     }
 
-    if (this.showLenses) {
-      const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
-      for (const cat of CATS) {
-        const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
-        b.toggleClass("sg-tl-on", this.cats.has(cat.key));
-        b.onclick = () => {
-          // tapping the ONLY active category restores all — quick solo/reset
-          if (this.cats.has(cat.key) && this.cats.size === 1) {
-            this.cats = new Set(CATS.map(x => x.key));
-          } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
-            this.cats = new Set([cat.key]);     // first tap = solo this lens
-          } else if (this.cats.has(cat.key)) {
-            this.cats.delete(cat.key);
-          } else {
-            this.cats.add(cat.key);
-          }
-          this.render();
-        };
-      }
-    }
     if (this.showSearch || this.query) {
       const search = bar.createEl("input", {
         cls: "sg-tl-search",
