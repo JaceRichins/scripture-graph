@@ -50,10 +50,17 @@
       }
     },
     {
-      "query": "",
+      "query": "Son of Man",
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "Savior",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
