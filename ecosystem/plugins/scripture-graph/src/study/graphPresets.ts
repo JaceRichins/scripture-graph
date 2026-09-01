@@ -54,11 +54,12 @@ export const GRAPH_PRESETS: GraphPreset[] = [
     extra: { nodeSizeMultiplier: 0.8, scale: 0.14, repelStrength: 16,
       textFadeMultiplier: -1 },
     mobile: {
-      // full-text over 10k files = thousands of nodes = a dead phone.
-      // Scope the same names to the pages ABOUT people, topics & the
-      // dictionary — the weave survives, the node count doesn't explode.
-      search: `(${CHRIST_NAMES}) (path:"AI Library/03 People" OR path:"AI Library/02 Gospel Topics" OR path:"AI Library/80 Bible Dictionary")`,
-      note: "His names across people, topics & dictionary — sized for a phone",
+      // content-word queries make the engine READ all 10k files — the
+      // iPhone log showed the scan still grinding at the 30s cap, twice.
+      // file: matches names only (no reads, instant): the 204 pages that
+      // BEAR a title of Christ — entity, topics, dictionary, talks.
+      search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
+      note: "The pages that bear His name — instant on a phone",
     },
   },
   {
@@ -183,8 +184,11 @@ const SETTLE_MS = { light: 450, medium: 700, heavy: 1000 } as const;
 const HANDOVER_MS = 6000;
 /** filtering a 10k-file vault can genuinely take a while on a phone —
  * the veil waits it out (the ✕ is right there) instead of dropping you
- * onto a blank churning view */
+ * onto a blank churning view. While the engine's scan queue is ALIVE the
+ * empty-cap doesn't run at all (a full-text query provably takes >30s on
+ * a phone); the ceiling is the absolute end of patience. */
 const EMPTY_MAX_MS = 30000;
+const CEILING_MS = 120000;
 const SLOW_NOTE_MS = 8000;
 
 interface Veil {
@@ -199,6 +203,9 @@ interface GraphEngine {
   setOptions?: (o: unknown) => void;
   /** debounced search applier — setOptions stores the query, THIS runs it */
   requestUpdateSearch?: { run?: () => void };
+  /** non-null while the engine's file-scan queue is still working — a
+   * content-word query reads every file in the vault through this */
+  queue?: unknown;
 }
 
 /** a phone should never be asked to draw this many nodes — if a filter
@@ -359,10 +366,13 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
     const alive = (leaf.view as unknown as { containerEl?: HTMLElement })
       .containerEl?.isConnected;
     if (!alive) { window.clearInterval(tick); done("view-gone", lastN); return; }
-    const r = (leaf.view as unknown as {
+    const v = leaf.view as unknown as {
       renderer?: { nodes?: unknown[] };
-    }).renderer;
-    const n = r?.nodes?.length ?? 0;
+      dataEngine?: GraphEngine;
+      engine?: GraphEngine;
+    };
+    const n = v.renderer?.nodes?.length ?? 0;
+    const scanning = !!(v.dataEngine ?? v.engine)?.queue;
     const ms = Date.now() - t0;
     if (Platform.isMobile && n > MOBILE_PANIC_NODES) {
       // the filter didn't take (or a preset is mis-scoped) — this is the
@@ -383,18 +393,21 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
       still = n === lastN ? still + 1 : 0;
     } else if (!slowNoted && ms > SLOW_NOTE_MS) {
       slowNoted = true;
-      veil.sub.setText("still filtering — this one is big");
+      veil.sub.setText(scanning
+        ? "reading the vault for matches — big search"
+        : "still filtering — this one is big");
     }
     lastN = n;
-    if (still >= 2 && ms >= SETTLE_MS[p.weight]) {
+    // a live scan means results are still streaming in — don't judge yet
+    if (still >= 2 && ms >= SETTLE_MS[p.weight] && !scanning) {
       window.clearInterval(tick); done("settled", n); return;
     }
     if (nodesAt !== null && Date.now() - nodesAt > HANDOVER_MS) {
       window.clearInterval(tick); done("handover", n); return;
     }
-    if (nodesAt === null && ms > EMPTY_MAX_MS) {
+    if (nodesAt === null && ((ms > EMPTY_MAX_MS && !scanning) || ms > CEILING_MS)) {
       window.clearInterval(tick);
-      done("empty-cap", 0);
+      done(scanning ? "ceiling" : "empty-cap", 0);
       new Notice("The graph never filled in — ✕ or the back arrow returns to the shelf.");
     }
   }, 150);

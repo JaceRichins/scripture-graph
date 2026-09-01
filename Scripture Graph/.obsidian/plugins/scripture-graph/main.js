@@ -9152,11 +9152,12 @@ var GRAPH_PRESETS = [
       textFadeMultiplier: -1
     },
     mobile: {
-      // full-text over 10k files = thousands of nodes = a dead phone.
-      // Scope the same names to the pages ABOUT people, topics & the
-      // dictionary — the weave survives, the node count doesn't explode.
-      search: `(${CHRIST_NAMES}) (path:"AI Library/03 People" OR path:"AI Library/02 Gospel Topics" OR path:"AI Library/80 Bible Dictionary")`,
-      note: "His names across people, topics & dictionary \u2014 sized for a phone"
+      // content-word queries make the engine READ all 10k files — the
+      // iPhone log showed the scan still grinding at the 30s cap, twice.
+      // file: matches names only (no reads, instant): the 204 pages that
+      // BEAR a title of Christ — entity, topics, dictionary, talks.
+      search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
+      note: "The pages that bear His name \u2014 instant on a phone"
     }
   },
   {
@@ -9283,6 +9284,7 @@ function optionsFor(p) {
 var SETTLE_MS = { light: 450, medium: 700, heavy: 1e3 };
 var HANDOVER_MS = 6e3;
 var EMPTY_MAX_MS = 3e4;
+var CEILING_MS = 12e4;
 var SLOW_NOTE_MS = 8e3;
 var MOBILE_PANIC_NODES = 4500;
 function raiseVeil(p) {
@@ -9401,8 +9403,9 @@ function watchSettle(leaf, p, veil) {
       done("view-gone", lastN);
       return;
     }
-    const r = leaf.view.renderer;
-    const n = r?.nodes?.length ?? 0;
+    const v = leaf.view;
+    const n = v.renderer?.nodes?.length ?? 0;
+    const scanning = !!(v.dataEngine ?? v.engine)?.queue;
     const ms = Date.now() - t0;
     if (import_obsidian2.Platform.isMobile && n > MOBILE_PANIC_NODES) {
       window.clearInterval(tick);
@@ -9421,10 +9424,10 @@ function watchSettle(leaf, p, veil) {
       still = n === lastN ? still + 1 : 0;
     } else if (!slowNoted && ms > SLOW_NOTE_MS) {
       slowNoted = true;
-      veil.sub.setText("still filtering \u2014 this one is big");
+      veil.sub.setText(scanning ? "reading the vault for matches \u2014 big search" : "still filtering \u2014 this one is big");
     }
     lastN = n;
-    if (still >= 2 && ms >= SETTLE_MS[p.weight]) {
+    if (still >= 2 && ms >= SETTLE_MS[p.weight] && !scanning) {
       window.clearInterval(tick);
       done("settled", n);
       return;
@@ -9434,9 +9437,9 @@ function watchSettle(leaf, p, veil) {
       done("handover", n);
       return;
     }
-    if (nodesAt === null && ms > EMPTY_MAX_MS) {
+    if (nodesAt === null && (ms > EMPTY_MAX_MS && !scanning || ms > CEILING_MS)) {
       window.clearInterval(tick);
-      done("empty-cap", 0);
+      done(scanning ? "ceiling" : "empty-cap", 0);
       new import_obsidian2.Notice("The graph never filled in \u2014 \u2715 or the back arrow returns to the shelf.");
     }
   }, 150);
