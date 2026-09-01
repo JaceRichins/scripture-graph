@@ -9253,29 +9253,49 @@ function optionsFor(p) {
     ...mobile ? p.mobile?.extra ?? {} : {}
   };
 }
-var SETTLE_MS = { light: 1100, medium: 2200, heavy: 3600 };
-var VEIL_CAP_MS = 9e3;
-function raiseVeil(host, p) {
-  const veil = host.createDiv({ cls: "sg-gveil" });
+var SETTLE_MS = { light: 450, medium: 700, heavy: 1e3 };
+var VEIL_CAP_MS = 8e3;
+function raiseVeil(p) {
+  const veil = document.body.createDiv({ cls: "sg-gveil" });
   const hexes = p.groups.length ? p.groups.map((g) => g.hex) : ["#8fb8ff"];
-  const dot = (cx, cy, r, i) => `<circle class="sg-gveil-dot" cx="${cx}" cy="${cy}" r="${r}" fill="${hexes[i % hexes.length]}" style="animation-delay:${i * 0.22}s"/>`;
+  const dot = (cx, cy, r, i) => `<circle class="sg-gveil-dot" cx="${cx}" cy="${cy}" r="${r}" fill="${hexes[i % hexes.length]}" style="color:${hexes[i % hexes.length]};animation-delay:${i * 0.22}s"/>`;
   veil.createDiv({ cls: "sg-gveil-art" }).innerHTML = `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
       <path class="sg-gveil-lines" d="M8.2 7.4 16 8.2M7 8.7l1.2 7.2M10.5 17.4l4.9-.3M15.9 9.9l.7 5.4"/>
       ${dot(6, 6.5, 2.4, 0)}${dot(18, 8.5, 2, 1)}${dot(8.5, 18, 2.1, 2)}${dot(17, 17, 1.6, 3)}
     </svg>`;
   veil.createDiv({ cls: "sg-gveil-name", text: p.name });
-  const sub = veil.createDiv({ cls: "sg-gveil-sub", text: "gathering the pages\u2026" });
+  const sub = veil.createDiv({ cls: "sg-gveil-sub", text: "opening the graph\u2026" });
+  veil.createDiv({ cls: "sg-gveil-hint", text: "tap anywhere to dive in early" });
   let gone = false;
+  let wasCancelled = false;
+  let cancelAction = () => {
+  };
   const lower = () => {
     if (gone) return;
     gone = true;
     veil.addClass("sg-gveil-out");
-    window.setTimeout(() => veil.remove(), 500);
+    window.setTimeout(() => veil.remove(), 400);
+  };
+  const x = veil.createEl("button", { cls: "sg-gveil-x", text: "\u2715" });
+  x.setAttr("aria-label", "Cancel");
+  x.onclick = (e) => {
+    e.stopPropagation();
+    wasCancelled = true;
+    lower();
+    cancelAction();
   };
   veil.onclick = lower;
-  return { sub, lower };
+  return {
+    sub,
+    lower,
+    cancelled: () => wasCancelled,
+    onCancel: (fn) => {
+      cancelAction = fn;
+    }
+  };
 }
 async function openGraphPreset(app, p) {
+  const veil = raiseVeil(p);
   const opts = optionsFor(p);
   const cfg = `${app.vault.configDir}/graph.json`;
   try {
@@ -9287,35 +9307,43 @@ async function openGraphPreset(app, p) {
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch {
   }
+  if (veil.cancelled()) return;
   const leaf = app.workspace.getLeaf(false);
   for (const l of app.workspace.getLeavesOfType("graph")) {
     if (l !== leaf) l.detach();
   }
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
-  const host = leaf.view.containerEl;
-  const veil = host ? raiseVeil(host, p) : null;
-  const push = () => {
+  veil.onCancel(() => goBack(leaf));
+  if (veil.cancelled()) {
+    goBack(leaf);
+    return;
+  }
+  const t0 = Date.now();
+  const pushTick = window.setInterval(() => {
     const view = leaf.view;
     const engine = view?.dataEngine ?? view?.engine;
     if (engine?.setOptions) {
       engine.setOptions(opts);
-      return true;
-    }
-    return false;
-  };
-  if (!push()) {
-    window.setTimeout(push, 300);
-    window.setTimeout(push, 900);
-    window.setTimeout(push, 2e3);
-  }
-  if (veil) watchSettle(leaf, p, veil);
+      window.clearInterval(pushTick);
+    } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
+  }, 80);
+  watchSettle(leaf, p, veil);
+}
+function goBack(leaf) {
+  const hist = leaf.history;
+  if (hist?.back && (hist.backHistory?.length ?? 0) > 0) hist.back();
+  else void leaf.setViewState({ type: "sg-library", active: true });
 }
 function watchSettle(leaf, p, veil) {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
   const tick = window.setInterval(() => {
+    if (veil.cancelled()) {
+      window.clearInterval(tick);
+      return;
+    }
     const alive = leaf.view.containerEl?.isConnected;
     if (!alive) {
       window.clearInterval(tick);
@@ -9325,11 +9353,11 @@ function watchSettle(leaf, p, veil) {
     const r = leaf.view.renderer;
     const n = r?.nodes?.length ?? 0;
     if (n > 0) {
-      veil.sub.setText(`${n.toLocaleString()} pages settling \u2014 tap to dive in`);
+      veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
     }
     lastN = n;
-    const settled = still >= 3 && Date.now() - t0 >= SETTLE_MS[p.weight];
+    const settled = still >= 2 && Date.now() - t0 >= SETTLE_MS[p.weight];
     if (settled || Date.now() - t0 > VEIL_CAP_MS) {
       window.clearInterval(tick);
       veil.lower();
@@ -9337,7 +9365,7 @@ function watchSettle(leaf, p, veil) {
         new import_obsidian2.Notice("The graph is taking its time \u2014 it may still be filtering.");
       }
     }
-  }, 350);
+  }, 150);
 }
 
 // src/study/navIcons.ts

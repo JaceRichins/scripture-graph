@@ -167,20 +167,33 @@ function optionsFor(p: GraphPreset): Record<string, unknown> {
 
 // ------------------------------------------------------------ loading veil
 
-/** how long each weight is given to settle before the veil lets go */
-const SETTLE_MS = { light: 1100, medium: 2200, heavy: 3600 } as const;
-const VEIL_CAP_MS = 9000;
+/** anti-flash floors only — the veil lifts the moment the web is actually
+ * still, these just keep a fast graph from strobing */
+const SETTLE_MS = { light: 450, medium: 700, heavy: 1000 } as const;
+const VEIL_CAP_MS = 8000;
 
-/** The Graphs-shelf icon come alive: the same four-dot constellation, dots
- * pulsing in the preset's own colors while the real graph gathers behind
- * it. The veil also EATS touches — panning mid-settle is what crashes
- * phones — and a tap lets the impatient through early. */
-function raiseVeil(host: HTMLElement, p: GraphPreset): { sub: HTMLElement; lower: () => void } {
-  const veil = host.createDiv({ cls: "sg-gveil" });
+interface Veil {
+  sub: HTMLElement;
+  lower: () => void;
+  cancelled: () => boolean;
+  /** the ✕ runs this (after lowering) once the opener knows how to go back */
+  onCancel: (fn: () => void) => void;
+}
+
+/** The Graphs-shelf icon come alive, floating over the graph itself: the
+ * center stays see-through so the web visibly assembles beneath the
+ * constellation, dots glowing in the preset's own colors. Lives on
+ * document.body so it renders the INSTANT the preset is tapped — before
+ * any file or view work. It eats touches while physics settle (panning
+ * mid-settle is what crashes phones); a tap dives in early, the ✕ is the
+ * escape hatch when a graph is taking too long. */
+function raiseVeil(p: GraphPreset): Veil {
+  const veil = document.body.createDiv({ cls: "sg-gveil" });
   const hexes = p.groups.length ? p.groups.map(g => g.hex) : ["#8fb8ff"];
   const dot = (cx: number, cy: number, r: number, i: number) =>
     `<circle class="sg-gveil-dot" cx="${cx}" cy="${cy}" r="${r}"`
-    + ` fill="${hexes[i % hexes.length]}" style="animation-delay:${i * 0.22}s"/>`;
+    + ` fill="${hexes[i % hexes.length]}"`
+    + ` style="color:${hexes[i % hexes.length]};animation-delay:${i * 0.22}s"/>`;
   // static, plugin-authored markup — no vault data anywhere near it
   veil.createDiv({ cls: "sg-gveil-art" }).innerHTML =
     `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -188,24 +201,39 @@ function raiseVeil(host: HTMLElement, p: GraphPreset): { sub: HTMLElement; lower
       ${dot(6, 6.5, 2.4, 0)}${dot(18, 8.5, 2, 1)}${dot(8.5, 18, 2.1, 2)}${dot(17, 17, 1.6, 3)}
     </svg>`;
   veil.createDiv({ cls: "sg-gveil-name", text: p.name });
-  const sub = veil.createDiv({ cls: "sg-gveil-sub", text: "gathering the pages…" });
+  const sub = veil.createDiv({ cls: "sg-gveil-sub", text: "opening the graph…" });
+  veil.createDiv({ cls: "sg-gveil-hint", text: "tap anywhere to dive in early" });
   let gone = false;
+  let wasCancelled = false;
+  let cancelAction: () => void = () => { /* pre-view cancel: just stop */ };
   const lower = () => {
     if (gone) return;
     gone = true;
     veil.addClass("sg-gveil-out");
-    window.setTimeout(() => veil.remove(), 500);
+    window.setTimeout(() => veil.remove(), 400);
   };
-  veil.onclick = lower;   // tap to dive in early — your GPU, your call
-  return { sub, lower };
+  const x = veil.createEl("button", { cls: "sg-gveil-x", text: "✕" });
+  x.setAttr("aria-label", "Cancel");
+  x.onclick = (e) => {
+    e.stopPropagation();
+    wasCancelled = true;
+    lower();
+    cancelAction();
+  };
+  veil.onclick = lower;   // dive in early — your GPU, your call
+  return { sub, lower, cancelled: () => wasCancelled,
+    onCancel: fn => { cancelAction = fn; } };
 }
 
 // ----------------------------------------------------------------- opening
 
-/** write the curated config, then open a FRESH graph view on it — plus a
- * belt-and-suspenders push straight into the engine once it exists, and a
- * veil over the top until the node count stops moving */
+/** Veil FIRST — the tap answers instantly — then the curated config is
+ * written and a graph view opened on it, options pushed straight into the
+ * engine the moment it exists. The veil lifts when the node count sits
+ * still; the ✕ aborts (before the view exists) or walks back to the shelf
+ * (after). */
 export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
+  const veil = raiseVeil(p);
   const opts = optionsFor(p);
   const cfg = `${app.vault.configDir}/graph.json`;
   try {
@@ -214,8 +242,11 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
     await app.vault.adapter.write(`${cfg}.bak`, prev);
   } catch { /* nothing there yet: nothing to save */ }
   try {
+    // written BEFORE the view opens so the engine's first read is already
+    // the filtered set — never a 10k-node false start
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch { /* the engine push below still applies the preset */ }
+  if (veil.cancelled()) return;   // escaped while writing: nothing opened
   // navigation rule: the graph REPLACES the current page — the back arrow
   // returns to the shelf — and never mints a tab. Stray graph tabs from
   // before fold away first so the fresh config is the only graph alive.
@@ -225,35 +256,45 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
   }
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
-  const host = (leaf.view as unknown as { containerEl?: HTMLElement }).containerEl;
-  const veil = host ? raiseVeil(host, p) : null;
-  const push = (): boolean => {
+  // once a view exists, escape = back the way you came
+  veil.onCancel(() => goBack(leaf));
+  if (veil.cancelled()) { goBack(leaf); return; }
+  // hammer the options in on a tight loop until the engine exists — the
+  // sooner they land, the sooner physics runs on the FILTERED set
+  const t0 = Date.now();
+  const pushTick = window.setInterval(() => {
     const view = leaf.view as unknown as {
       dataEngine?: { setOptions?: (o: unknown) => void };
       engine?: { setOptions?: (o: unknown) => void };
     } | undefined;
     const engine = view?.dataEngine ?? view?.engine;   // global graph = .dataEngine
-    if (engine?.setOptions) { engine.setOptions(opts); return true; }
-    return false;
-  };
-  if (!push()) {
-    window.setTimeout(push, 300);
-    window.setTimeout(push, 900);
-    window.setTimeout(push, 2000);
-  }
-  if (veil) watchSettle(leaf, p, veil);
+    if (engine?.setOptions) { engine.setOptions(opts); window.clearInterval(pushTick); }
+    else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
+  }, 80);
+  watchSettle(leaf, p, veil);
 }
 
-/** lower the veil once the web has actually settled: the renderer's node
- * count has to sit still for three straight looks AND the weight's minimum
- * settle time must have passed — with a hard cap so a stall never wedges
- * the view shut */
-function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset,
-  veil: { sub: HTMLElement; lower: () => void }): void {
+/** back the way the user came: the leaf's own history if it has any,
+ * otherwise the Library page (its stable view id — importing the const
+ * from libraryView would be a require cycle) */
+function goBack(leaf: WorkspaceLeaf): void {
+  const hist = (leaf as unknown as {
+    history?: { back?: () => void; backHistory?: unknown[] };
+  }).history;
+  if (hist?.back && (hist.backHistory?.length ?? 0) > 0) hist.back();
+  else void leaf.setViewState({ type: "sg-library", active: true });
+}
+
+/** lower the veil the moment the web is actually still: the renderer's
+ * node count unchanged for two straight looks (150ms apart), past a small
+ * anti-flash floor — with a hard cap so a stall never wedges the view
+ * shut */
+function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
   const tick = window.setInterval(() => {
+    if (veil.cancelled()) { window.clearInterval(tick); return; }
     const alive = (leaf.view as unknown as { containerEl?: HTMLElement })
       .containerEl?.isConnected;
     if (!alive) { window.clearInterval(tick); veil.lower(); return; }
@@ -262,11 +303,11 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset,
     }).renderer;
     const n = r?.nodes?.length ?? 0;
     if (n > 0) {
-      veil.sub.setText(`${n.toLocaleString()} pages settling — tap to dive in`);
+      veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
     }
     lastN = n;
-    const settled = still >= 3 && Date.now() - t0 >= SETTLE_MS[p.weight];
+    const settled = still >= 2 && Date.now() - t0 >= SETTLE_MS[p.weight];
     if (settled || Date.now() - t0 > VEIL_CAP_MS) {
       window.clearInterval(tick);
       veil.lower();
@@ -274,5 +315,5 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset,
         new Notice("The graph is taking its time — it may still be filtering.");
       }
     }
-  }, 350);
+  }, 150);
 }

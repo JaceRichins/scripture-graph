@@ -1935,26 +1935,33 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
 }
 
 /* 🕸 loading veil — the Graphs icon come alive while the web settles.
-   It sits over the graph view and eats touches until the physics calm
-   down (panning mid-settle is what crashes phones); a tap dismisses. */
+   Body-fixed so it renders the instant a preset is tapped, themed like
+   the graph itself: the center stays see-through so the real web is
+   visible assembling underneath, and the dots glow like graph nodes.
+   NO backdrop blur — re-blurring an animating WebGL canvas taxes the GPU
+   at its most fragile moment. It eats touches until physics calm down
+   (panning mid-settle is what crashes phones); tap = dive in, ✕ = back. */
 .sg-gveil {
-  position: absolute; inset: 0; z-index: 30;
+  position: fixed; inset: 0; z-index: var(--layer-modal, 50);
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: 10px; cursor: pointer;
-  background: color-mix(in srgb, var(--background-primary) 82%, transparent);
-  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
-  opacity: 1; transition: opacity 0.45s ease;
+  background: radial-gradient(ellipse 70% 55% at 50% 42%,
+    color-mix(in srgb, var(--background-primary) 26%, transparent),
+    color-mix(in srgb, var(--background-primary) 74%, transparent));
+  opacity: 1; transition: opacity 0.35s ease;
 }
 .sg-gveil-out { opacity: 0; pointer-events: none; }
-.sg-gveil-art { width: 96px; height: 96px; }
+.sg-gveil-art { width: 112px; height: 112px; }
 .sg-gveil-art svg { width: 100%; height: 100%; overflow: visible; }
 .sg-gveil-lines {
-  fill: none; stroke: color-mix(in srgb, var(--text-muted) 65%, transparent);
+  fill: none;
+  stroke: var(--graph-line, color-mix(in srgb, var(--text-muted) 55%, transparent));
   stroke-width: 0.9; stroke-linecap: round;
   stroke-dasharray: 9; animation: sg-gveil-weave 2.6s linear infinite;
 }
 .sg-gveil-dot {
   transform-box: fill-box; transform-origin: center;
+  filter: drop-shadow(0 0 3px currentColor);   /* the graph's node glow */
   animation: sg-gveil-pulse 1.8s ease-in-out infinite;
 }
 @keyframes sg-gveil-weave { to { stroke-dashoffset: -18; } }
@@ -1962,9 +1969,29 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
   0%, 100% { opacity: 0.45; transform: scale(0.82); }
   40% { opacity: 1; transform: scale(1.12); }
 }
-.sg-gveil-name { font-weight: 700; font-size: 1.05em; }
+.sg-gveil-name {
+  font-weight: 700; font-size: 1.05em;
+  text-shadow: 0 1px 8px var(--background-primary);
+}
 .sg-gveil-sub {
   color: var(--text-muted); font-size: 0.85em;
   font-variant-numeric: tabular-nums;
 }
+.sg-gveil-hint {
+  position: absolute; left: 0; right: 0; text-align: center;
+  bottom: calc(26px + env(safe-area-inset-bottom, 0px));
+  color: color-mix(in srgb, var(--text-muted) 75%, transparent);
+  font-size: 0.78em;
+}
+.sg-gveil-x {
+  position: absolute; right: 12px;
+  top: calc(12px + env(safe-area-inset-top, 0px));
+  width: 34px; height: 34px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.95em; color: var(--text-muted);
+  background: color-mix(in srgb, var(--background-primary) 65%, transparent);
+  border: 1px solid color-mix(in srgb, var(--text-muted) 30%, transparent);
+  box-shadow: none; cursor: pointer;
+}
+.sg-gveil-x:hover { color: var(--text-normal); }
 
