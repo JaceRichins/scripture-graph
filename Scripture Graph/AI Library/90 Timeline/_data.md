@@ -5086,6 +5086,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-13-cc2295d4",
+   "t": "Fall of Babylon to Cyrus and the Medes/Persians",
+   "y0": -539,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional ancient Near Eastern chronology (Babylonian and Persian records) places Cyrus the Great's conquest of Babylon in 539 BC, the event most commonly identified as the historical referent behind Isaiah 13:17's naming of 'the Medes.'",
+   "chapters": [
+    "Isaiah 13"
+   ],
+   "people": [
+    "Cyrus the Great"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
