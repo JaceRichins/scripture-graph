@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **160 BC–150 BC** — Noah's reign and Abinadi's first warning · [[Mosiah 11]] · [[200-101 BC]] *(approximate)*
 - **148 BC** — Abinadi before King Noah's court · [[Mosiah 12]] · [[Mosiah 13]] · [[Mosiah 17]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

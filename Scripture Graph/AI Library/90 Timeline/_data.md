@@ -5887,6 +5887,64 @@ timeline module, not this file._
    "things": [
     "Temple of Solomon"
    ]
+  },
+  {
+   "id": "r-mosiah-11-5d9148bb",
+   "t": "Noah's reign and Abinadi's first warning",
+   "y0": -160,
+   "y1": -150,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the chapter approximately to 160-150 B.C.; the text itself supplies no absolute year.",
+   "chapters": [
+    "Mosiah 11"
+   ],
+   "people": [
+    "King Noah",
+    "Abinadi",
+    "Zeniff"
+   ],
+   "places": [
+    "land of Shilom",
+    "land of Shemlon"
+   ],
+   "things": [
+    "taxation",
+    "temple"
+   ]
+  },
+  {
+   "id": "r-neh-10-3faef866",
+   "t": "Covenant renewal and sealing under Nehemiah",
+   "y0": -445,
+   "y1": -433,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within Nehemiah's first governorship of Yehud, conventionally dated from Artaxerxes I's 20th regnal year (Nehemiah 2:1) through his recall (Nehemiah 13:6); exact year of the sealing itself is not stated in the text.",
+   "chapters": [
+    "Nehemiah 10"
+   ],
+   "people": [
+    "Nehemiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Second Temple"
+   ]
   }
  ],
  "book_years": {

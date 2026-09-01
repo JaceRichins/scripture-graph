@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **458 BC–445 BC** — Ezra reads the law; Nehemiah builds the wall · [[Ezra 7]] · [[Nehemiah 4]] · [[Nehemiah 8]] · [[500-401 BC]] *(historical)*
+- **445 BC–433 BC** — Covenant renewal and sealing under Nehemiah · [[Nehemiah 10]] · [[500-401 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
