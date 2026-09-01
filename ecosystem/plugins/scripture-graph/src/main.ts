@@ -172,6 +172,10 @@ export default class SGPlugin extends Plugin {
       id: "open-timeline", name: "Open the timeline", icon: "history",
       callback: () => void this.openTimeline(null),
     });
+    this.addCommand({
+      id: "graph-presets", name: "Open graph views (pre-filtered)", icon: "git-fork",
+      callback: () => this.openGraphPresets(),
+    });
     this.addRibbonIcon("compass", "Navigate scriptures", () => this.openNavigator());
     this.addCommand({
       id: "reading-scene", name: "Change reading scene", icon: "sunrise",
@@ -564,6 +568,19 @@ export default class SGPlugin extends Plugin {
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
+    })();
+  }
+
+  /** 🕸 The Graphs shelf — pre-filtered graph views, straight from the palette. */
+  private openGraphPresets(): void {
+    void (async () => {
+      let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
+      if (!leaf) {
+        leaf = this.app.workspace.getLeaf(true);
+        await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
+      }
+      await this.app.workspace.revealLeaf(leaf);
+      (leaf.view as SGLibraryView).showGraphs();
     })();
   }
 

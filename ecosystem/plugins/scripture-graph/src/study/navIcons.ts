@@ -12,7 +12,7 @@ export type NavIconName =
   | "continue" | "target" | "verse" | "page" | "chapter" | "folder"
   | "conference" | "dictionary" | "topics" | "person" | "place" | "event"
   | "doctrines" | "papers" | "history" | "evidence" | "question"
-  | "scholarship" | "podcast";
+  | "scholarship" | "podcast" | "graph";
 
 interface IconDef { h: string; s: string }
 
@@ -171,6 +171,14 @@ const I: Record<NavIconName, IconDef> = {
     s: `<circle cx="12" cy="11" r="2.6"/>
         <path d="M8.2 15.4a5.3 5.3 0 1 1 7.6 0M12 14v6.5"/>
         <path d="M5.6 17.5a9 9 0 1 1 12.8 0" opacity="0.55"/>`,
+  },
+  graph: {                                               // the web of nodes
+    h: "#8fb8ff",
+    s: `<circle cx="6" cy="6.5" r="2.4"/>
+        <circle cx="18" cy="8.5" r="2"/>
+        <circle cx="8.5" cy="18" r="2.1"/>
+        <circle cx="17" cy="17" r="1.6"/>
+        <path d="M8.2 7.4 16 8.2M7 8.7l1.2 7.2M10.5 17.4l4.9-.3M15.9 9.9l.7 5.4"/>`,
   },
 };
 

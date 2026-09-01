@@ -10,6 +10,7 @@
 import { ItemView, WorkspaceLeaf } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
+import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
@@ -21,6 +22,7 @@ type LibView =
   | { kind: "scriptures" }
   | { kind: "books"; volume: string }
   | { kind: "chapters"; book: BookInfo }
+  | { kind: "graphs" }
   | { kind: "folder"; path: string; title: string };
 
 export class SGLibraryView extends ItemView {
@@ -71,7 +73,8 @@ export class SGLibraryView extends ItemView {
       : v.kind === "scriptures" ? "Scriptures"
         : v.kind === "books" ? v.volume
           : v.kind === "chapters" ? v.book.name
-            : v.title;
+            : v.kind === "graphs" ? "Graphs"
+              : v.title;
   }
 
   private render(): void {
@@ -92,7 +95,16 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);
     else if (v.kind === "chapters") this.renderChapters(body, v.book);
+    else if (v.kind === "graphs") this.renderGraphs(body);
     else this.renderFolder(body, v.path);
+  }
+
+  /** jump straight to the Graphs shelf (the palette command lands here) */
+  showGraphs(): void {
+    if (this.view.kind === "graphs") return;
+    this.trail = [{ kind: "home" }];
+    this.view = { kind: "graphs" };
+    this.render();
   }
 
   // ------------------------------------------------------------ cover cards
@@ -187,6 +199,8 @@ export class SGLibraryView extends ItemView {
       onTap: () => this.host.openTimeline() });
     this.cover(grid, { icon: "hub", label: "Study Hub",
       onTap: () => this.host.openNote("Study Hub") });
+    this.cover(grid, { icon: "graph", label: "Graphs",
+      onTap: () => this.go({ kind: "graphs" }) });
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
       if (!l.folders.length && !l.files.length) continue;
@@ -250,6 +264,30 @@ export class SGLibraryView extends ItemView {
       cascade(btn, Math.floor((n - 1) / 6));
       if (cur?.slug === `${book.slug}-${n}`) btn.addClass("sg-nav-ch-now");
       btn.onclick = () => this.host.openChapter(`${book.prefix} ${n}`);
+    }
+  }
+
+  // ---------------------------------------------------------------- graphs
+
+  /** 🕸 The Graphs shelf — every row is a pre-filtered graph the GPU can
+   * actually hold. Tap one and the graph view opens already tamed. */
+  private renderGraphs(c: HTMLElement): void {
+    c.createDiv({
+      cls: "sg-gp-note",
+      text: "The whole vault is 10,000 pages and 75,000 links — far past what "
+        + "one graph can draw. These views arrive already filtered.",
+    });
+    const list = c.createDiv({ cls: "sg-nav-list" });
+    let i = 0;
+    for (const p of GRAPH_PRESETS) {
+      const row = list.createDiv({ cls: "sg-nav-row sg-gp-row" });
+      cascade(row, i++);
+      navIcon(row, p.icon);
+      const col = row.createDiv({ cls: "sg-nav-gcol" });
+      col.createDiv({ cls: "sg-nav-name", text: p.name });
+      col.createDiv({ cls: "sg-nav-gsub", text: p.desc });
+      row.createSpan({ cls: `sg-gp-weight sg-gp-${p.weight}`, text: p.weight });
+      row.onclick = () => void openGraphPreset(this.app, p);
     }
   }
 

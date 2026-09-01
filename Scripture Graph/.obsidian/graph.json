@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Jesus OR Christ OR Messiah OR Jehovah OR Immanuel OR \"Son of God\" OR \"Lamb of God\" OR \"Son of Man\" OR Redeemer OR Savior",
+  "search": "Jesus OR Alma OR \"Joseph Smith Jr\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,65 +15,30 @@
       }
     },
     {
-      "query": "Christ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "Messiah",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "Jehovah",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "Immanuel",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "Son of God",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "Son of Man",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "Savior",
+      "query": "Alma",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "Joseph Smith Jr",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 1.1,
   "nodeSizeMultiplier": 0.72108377452507,
   "lineSizeMultiplier": 0.550171286203675,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.08335301129129266,
+  "centerStrength": 0.455621301775148,
+  "repelStrength": 14.1387170302833,
+  "linkStrength": 0.510432886951106,
+  "linkDistance": 265,
+  "scale": 0.029227587409844564,
   "close": false
 }

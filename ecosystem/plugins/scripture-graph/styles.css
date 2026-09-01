@@ -1907,3 +1907,30 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
   border-radius: 3px; padding: 0 1px;
 }
 
+/* 🕸 Graphs shelf — pre-filtered graph presets with GPU-weight badges */
+.sg-gp-note {
+  color: var(--text-muted); font-size: 0.88em; line-height: 1.45;
+  padding: 2px 2px 12px;
+}
+.sg-gp-row { align-items: center; }
+.sg-gp-weight {
+  flex: none; font-size: 0.72em; font-weight: 700; letter-spacing: 0.04em;
+  text-transform: uppercase; padding: 3px 8px; border-radius: 999px;
+  border: 1px solid transparent;
+}
+.sg-gp-light {
+  color: #6fd39a;
+  border-color: color-mix(in srgb, #6fd39a 45%, transparent);
+  background: color-mix(in srgb, #6fd39a 12%, transparent);
+}
+.sg-gp-medium {
+  color: #e3b765;
+  border-color: color-mix(in srgb, #e3b765 45%, transparent);
+  background: color-mix(in srgb, #e3b765 12%, transparent);
+}
+.sg-gp-heavy {
+  color: #e0847c;
+  border-color: color-mix(in srgb, #e0847c 45%, transparent);
+  background: color-mix(in srgb, #e0847c 12%, transparent);
+}
+
