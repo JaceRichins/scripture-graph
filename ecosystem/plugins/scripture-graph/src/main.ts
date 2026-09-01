@@ -8,6 +8,7 @@ import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder,
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { type NavigatorHost } from "./study/navigator";
+import { recordHistory } from "./study/leafNav";
 import { LIBRARY_VIEW, SGLibraryView } from "./study/libraryView";
 import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
@@ -335,6 +336,19 @@ export default class SGPlugin extends Plugin {
 
     // ---- deferred startup --------------------------------------------------
     this.app.workspace.onLayoutReady(() => {
+      // 🧭 a fresh tab IS the navigator: Obsidian's "Create new note /
+      // Go to file" empty page never earns a spot — every empty leaf in
+      // the main area becomes the Library, on launch and on every +
+      const adoptEmpties = () => {
+        const ws = this.app.workspace;
+        for (const l of ws.getLeavesOfType("empty")) {
+          const root = l.getRoot();
+          if (root === ws.leftSplit || root === ws.rightSplit) continue;
+          void l.setViewState({ type: LIBRARY_VIEW, active: l === ws.activeLeaf });
+        }
+      };
+      adoptEmpties();
+      this.registerEvent(this.app.workspace.on("layout-change", adoptEmpties));
       void (async () => {
         // the superseded v0.2 plugin keeps resurrecting via config sync from
         // devices that still list it — every device now retires it on sight
@@ -472,6 +486,7 @@ export default class SGPlugin extends Plugin {
     if (!leaf) {
       // replace the current page (history remembers it) — never mint a tab
       leaf = this.app.workspace.getLeaf(false);
+      recordHistory(leaf);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
@@ -567,6 +582,7 @@ export default class SGPlugin extends Plugin {
       if (!leaf) {
         // replace the current page (history remembers it) — never mint a tab
         leaf = this.app.workspace.getLeaf(false);
+        recordHistory(leaf);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -579,6 +595,7 @@ export default class SGPlugin extends Plugin {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
         leaf = this.app.workspace.getLeaf(false);
+        recordHistory(leaf);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -853,6 +870,7 @@ export default class SGPlugin extends Plugin {
     // the back arrow retraces chapter → chapter → … → root navigator
     const leaf = this.app.workspace.getLeavesOfType(READER_VIEW)[0]
       ?? this.app.workspace.getLeaf(false);
+    recordHistory(leaf);
     await leaf.setViewState({ type: READER_VIEW, state: { chapter: title }, active: true });
     await this.app.workspace.revealLeaf(leaf);
   }

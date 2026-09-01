@@ -15,6 +15,7 @@ import { Menu, Modal, Notice, Platform, Setting, type Plugin } from "obsidian";
 import { chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import type { SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
+import { recordHistory } from "./leafNav";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
@@ -42,6 +43,7 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
   // desktop: side-by-side so the reading stays visible; mobile: the graph
   // replaces the page IN PLACE — new tabs belong to the + button alone
   const leaf = Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
+  recordHistory(leaf);   // the reading page is one back-arrow away
   const GRAPH_OPTS = {
     textFadeMultiplier: 3, nodeSizeMultiplier: 1.4, lineSizeMultiplier: 1,
     showArrow: false, localJumps: 1, localBacklinks: true,

@@ -14,7 +14,9 @@
  * until the web has settled, because panning mid-settle is exactly when
  * phones crash. */
 import { Notice, Platform, type App, type WorkspaceLeaf } from "obsidian";
+import { recordHistory } from "./leafNav";
 import { type NavIconName } from "./navIcons";
+import { trace } from "./trace";
 
 export interface GraphPreset {
   id: string;
@@ -129,10 +131,16 @@ export const GRAPH_PRESETS: GraphPreset[] = [
 const hexToInt = (hex: string): number => parseInt(hex.replace("#", ""), 16);
 
 /** label textures are the mobile-GPU killer — on phones they only appear
- * when zoomed way in, and lines slim down */
+ * when zoomed way in, and lines slim down. The forces tighten too:
+ * shorter springs, stronger center, gentler repel — the web pulls
+ * together in seconds instead of drifting for a minute (the log showed a
+ * 43-second wander on an iPhone before these). */
 const MOBILE_FLOOR: Record<string, unknown> = {
   textFadeMultiplier: -1.6,
   lineSizeMultiplier: 0.45,
+  linkDistance: 110,
+  centerStrength: 0.6,
+  repelStrength: 9,
 };
 
 /** the perf floor every preset stands on */
@@ -170,7 +178,14 @@ function optionsFor(p: GraphPreset): Record<string, unknown> {
 /** anti-flash floors only — the veil lifts the moment the web is actually
  * still, these just keep a fast graph from strobing */
 const SETTLE_MS = { light: 450, medium: 700, heavy: 1000 } as const;
-const VEIL_CAP_MS = 8000;
+/** once nodes are VISIBLE, hand over even if physics still drift — the
+ * fragile first seconds are covered, the rest is watchable */
+const HANDOVER_MS = 6000;
+/** filtering a 10k-file vault can genuinely take a while on a phone —
+ * the veil waits it out (the ✕ is right there) instead of dropping you
+ * onto a blank churning view */
+const EMPTY_MAX_MS = 30000;
+const SLOW_NOTE_MS = 8000;
 
 interface Veil {
   sub: HTMLElement;
@@ -246,7 +261,8 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
     // the filtered set — never a 10k-node false start
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch { /* the engine push below still applies the preset */ }
-  if (veil.cancelled()) return;   // escaped while writing: nothing opened
+  if (veil.cancelled()) { trace("gpreset.cancel", { id: p.id, at: "write" }); return; }
+  trace("gpreset.open", { id: p.id, mobile: Platform.isMobile });
   // navigation rule: the graph REPLACES the current page — the back arrow
   // returns to the shelf — and never mints a tab. Stray graph tabs from
   // before fold away first so the fresh config is the only graph alive.
@@ -254,6 +270,7 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
   for (const l of app.workspace.getLeavesOfType("graph")) {
     if (l !== leaf) l.detach();
   }
+  recordHistory(leaf);   // the page being left is one back-arrow away
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
   // once a view exists, escape = back the way you came
@@ -268,8 +285,11 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
       engine?: { setOptions?: (o: unknown) => void };
     } | undefined;
     const engine = view?.dataEngine ?? view?.engine;   // global graph = .dataEngine
-    if (engine?.setOptions) { engine.setOptions(opts); window.clearInterval(pushTick); }
-    else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
+    if (engine?.setOptions) {
+      engine.setOptions(opts);
+      window.clearInterval(pushTick);
+      trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
+    } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
   }, 80);
   watchSettle(leaf, p, veil);
 }
@@ -287,33 +307,56 @@ function goBack(leaf: WorkspaceLeaf): void {
 
 /** lower the veil the moment the web is actually still: the renderer's
  * node count unchanged for two straight looks (150ms apart), past a small
- * anti-flash floor — with a hard cap so a stall never wedges the view
- * shut */
+ * anti-flash floor. While the filter is still resolving (no nodes yet)
+ * the veil WAITS — up to 30s, ✕ always live — because dropping early
+ * onto a blank churning view is what felt broken. Once nodes exist, the
+ * handover cap stops a long physics drift from holding you hostage. */
 function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
+  let nodesAt: number | null = null;
+  let slowNoted = false;
+  const done = (why: string, n: number) => {
+    veil.lower();
+    trace("gpreset.done", { id: p.id, why, n, ms: Date.now() - t0 });
+  };
   const tick = window.setInterval(() => {
-    if (veil.cancelled()) { window.clearInterval(tick); return; }
+    if (veil.cancelled()) {
+      window.clearInterval(tick);
+      trace("gpreset.cancel", { id: p.id, at: "settle", ms: Date.now() - t0 });
+      return;
+    }
     const alive = (leaf.view as unknown as { containerEl?: HTMLElement })
       .containerEl?.isConnected;
-    if (!alive) { window.clearInterval(tick); veil.lower(); return; }
+    if (!alive) { window.clearInterval(tick); done("view-gone", lastN); return; }
     const r = (leaf.view as unknown as {
       renderer?: { nodes?: unknown[] };
     }).renderer;
     const n = r?.nodes?.length ?? 0;
+    const ms = Date.now() - t0;
     if (n > 0) {
+      if (nodesAt === null) {
+        nodesAt = Date.now();
+        trace("gpreset.first-nodes", { id: p.id, n, ms });
+      }
       veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
+    } else if (!slowNoted && ms > SLOW_NOTE_MS) {
+      slowNoted = true;
+      veil.sub.setText("still filtering — this one is big");
     }
     lastN = n;
-    const settled = still >= 2 && Date.now() - t0 >= SETTLE_MS[p.weight];
-    if (settled || Date.now() - t0 > VEIL_CAP_MS) {
+    if (still >= 2 && ms >= SETTLE_MS[p.weight]) {
+      window.clearInterval(tick); done("settled", n); return;
+    }
+    if (nodesAt !== null && Date.now() - nodesAt > HANDOVER_MS) {
+      window.clearInterval(tick); done("handover", n); return;
+    }
+    if (nodesAt === null && ms > EMPTY_MAX_MS) {
       window.clearInterval(tick);
-      veil.lower();
-      if (n === 0 && Date.now() - t0 > VEIL_CAP_MS) {
-        new Notice("The graph is taking its time — it may still be filtering.");
-      }
+      done("empty-cap", 0);
+      new Notice("The graph never filled in — ✕ or the back arrow returns to the shelf.");
     }
   }, 150);
 }

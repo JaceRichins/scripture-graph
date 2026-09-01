@@ -6018,27 +6018,20 @@ var init_src = __esm({
   }
 });
 
-// src/study/sheetRegistry.ts
-function registerSheet(m) {
-  open.add(m);
+// src/study/leafNav.ts
+function recordHistory(leaf) {
+  const l = leaf;
+  const h = l.history;
+  if (!h?.backHistory) return;
+  const type = l.view?.getViewType?.() ?? "empty";
+  if (type === "empty") return;
+  const hs = l.getHistoryState?.() ?? { state: l.getViewState?.() ?? {}, eState: l.view?.getEphemeralState?.() ?? {} };
+  h.backHistory.push(hs);
+  h.forwardHistory.length = 0;
 }
-function unregisterSheet(m) {
-  open.delete(m);
-}
-function closeAllSheets() {
-  for (const m of Array.from(open)) {
-    open.delete(m);
-    try {
-      m.close();
-    } catch {
-    }
-  }
-}
-var open;
-var init_sheetRegistry = __esm({
-  "src/study/sheetRegistry.ts"() {
+var init_leafNav = __esm({
+  "src/study/leafNav.ts"() {
     "use strict";
-    open = /* @__PURE__ */ new Set();
   }
 });
 
@@ -6081,6 +6074,30 @@ var init_trace = __esm({
     MAX = 300;
     START = Date.now();
     overlayEl = null;
+  }
+});
+
+// src/study/sheetRegistry.ts
+function registerSheet(m) {
+  open.add(m);
+}
+function unregisterSheet(m) {
+  open.delete(m);
+}
+function closeAllSheets() {
+  for (const m of Array.from(open)) {
+    open.delete(m);
+    try {
+      m.close();
+    } catch {
+    }
+  }
+}
+var open;
+var init_sheetRegistry = __esm({
+  "src/study/sheetRegistry.ts"() {
+    "use strict";
+    open = /* @__PURE__ */ new Set();
   }
 });
 
@@ -8336,6 +8353,7 @@ async function openLocalGraphFor(s, linkText) {
   const ws = s.app.workspace;
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
   const leaf = import_obsidian12.Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
+  recordHistory(leaf);
   const GRAPH_OPTS = {
     textFadeMultiplier: 3,
     nodeSizeMultiplier: 1.4,
@@ -8410,6 +8428,7 @@ var init_studyBar = __esm({
     import_obsidian12 = require("obsidian");
     init_src();
     init_annotations();
+    init_leafNav();
     init_themeLibrary();
     init_trace();
     init_translations();
@@ -9096,12 +9115,17 @@ var SGState = class {
   }
 };
 
+// src/main.ts
+init_leafNav();
+
 // src/study/libraryView.ts
 var import_obsidian4 = require("obsidian");
 init_src();
 
 // src/study/graphPresets.ts
 var import_obsidian2 = require("obsidian");
+init_leafNav();
+init_trace();
 var CHRIST_NAMES = `Jesus OR Christ OR Messiah OR Jehovah OR Immanuel OR "Son of God" OR "Lamb of God" OR "Son of Man" OR Redeemer OR Savior`;
 var GRAPH_PRESETS = [
   {
@@ -9223,7 +9247,10 @@ var GRAPH_PRESETS = [
 var hexToInt = (hex) => parseInt(hex.replace("#", ""), 16);
 var MOBILE_FLOOR = {
   textFadeMultiplier: -1.6,
-  lineSizeMultiplier: 0.45
+  lineSizeMultiplier: 0.45,
+  linkDistance: 110,
+  centerStrength: 0.6,
+  repelStrength: 9
 };
 function optionsFor(p) {
   const mobile = import_obsidian2.Platform.isMobile;
@@ -9254,7 +9281,9 @@ function optionsFor(p) {
   };
 }
 var SETTLE_MS = { light: 450, medium: 700, heavy: 1e3 };
-var VEIL_CAP_MS = 8e3;
+var HANDOVER_MS = 6e3;
+var EMPTY_MAX_MS = 3e4;
+var SLOW_NOTE_MS = 8e3;
 function raiseVeil(p) {
   const veil = document.body.createDiv({ cls: "sg-gveil" });
   const hexes = p.groups.length ? p.groups.map((g) => g.hex) : ["#8fb8ff"];
@@ -9307,11 +9336,16 @@ async function openGraphPreset(app, p) {
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch {
   }
-  if (veil.cancelled()) return;
+  if (veil.cancelled()) {
+    trace("gpreset.cancel", { id: p.id, at: "write" });
+    return;
+  }
+  trace("gpreset.open", { id: p.id, mobile: import_obsidian2.Platform.isMobile });
   const leaf = app.workspace.getLeaf(false);
   for (const l of app.workspace.getLeavesOfType("graph")) {
     if (l !== leaf) l.detach();
   }
+  recordHistory(leaf);
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
   veil.onCancel(() => goBack(leaf));
@@ -9326,6 +9360,7 @@ async function openGraphPreset(app, p) {
     if (engine?.setOptions) {
       engine.setOptions(opts);
       window.clearInterval(pushTick);
+      trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
     } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
   }, 80);
   watchSettle(leaf, p, veil);
@@ -9339,31 +9374,53 @@ function watchSettle(leaf, p, veil) {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
+  let nodesAt = null;
+  let slowNoted = false;
+  const done = (why, n) => {
+    veil.lower();
+    trace("gpreset.done", { id: p.id, why, n, ms: Date.now() - t0 });
+  };
   const tick = window.setInterval(() => {
     if (veil.cancelled()) {
       window.clearInterval(tick);
+      trace("gpreset.cancel", { id: p.id, at: "settle", ms: Date.now() - t0 });
       return;
     }
     const alive = leaf.view.containerEl?.isConnected;
     if (!alive) {
       window.clearInterval(tick);
-      veil.lower();
+      done("view-gone", lastN);
       return;
     }
     const r = leaf.view.renderer;
     const n = r?.nodes?.length ?? 0;
+    const ms = Date.now() - t0;
     if (n > 0) {
+      if (nodesAt === null) {
+        nodesAt = Date.now();
+        trace("gpreset.first-nodes", { id: p.id, n, ms });
+      }
       veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
+    } else if (!slowNoted && ms > SLOW_NOTE_MS) {
+      slowNoted = true;
+      veil.sub.setText("still filtering \u2014 this one is big");
     }
     lastN = n;
-    const settled = still >= 2 && Date.now() - t0 >= SETTLE_MS[p.weight];
-    if (settled || Date.now() - t0 > VEIL_CAP_MS) {
+    if (still >= 2 && ms >= SETTLE_MS[p.weight]) {
       window.clearInterval(tick);
-      veil.lower();
-      if (n === 0 && Date.now() - t0 > VEIL_CAP_MS) {
-        new import_obsidian2.Notice("The graph is taking its time \u2014 it may still be filtering.");
-      }
+      done("settled", n);
+      return;
+    }
+    if (nodesAt !== null && Date.now() - nodesAt > HANDOVER_MS) {
+      window.clearInterval(tick);
+      done("handover", n);
+      return;
+    }
+    if (nodesAt === null && ms > EMPTY_MAX_MS) {
+      window.clearInterval(tick);
+      done("empty-cap", 0);
+      new import_obsidian2.Notice("The graph never filled in \u2014 \u2715 or the back arrow returns to the shelf.");
     }
   }, 150);
 }
@@ -13086,6 +13143,16 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       );
     };
     this.app.workspace.onLayoutReady(() => {
+      const adoptEmpties = () => {
+        const ws = this.app.workspace;
+        for (const l of ws.getLeavesOfType("empty")) {
+          const root = l.getRoot();
+          if (root === ws.leftSplit || root === ws.rightSplit) continue;
+          void l.setViewState({ type: LIBRARY_VIEW, active: l === ws.activeLeaf });
+        }
+      };
+      adoptEmpties();
+      this.registerEvent(this.app.workspace.on("layout-change", adoptEmpties));
       void (async () => {
         const plugins = this.app.plugins;
         if (plugins?.enabledPlugins?.has?.("scripture-graph-annotate")) {
@@ -13203,6 +13270,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
     if (!leaf) {
       leaf = this.app.workspace.getLeaf(false);
+      recordHistory(leaf);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
@@ -13288,6 +13356,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
         leaf = this.app.workspace.getLeaf(false);
+        recordHistory(leaf);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -13299,6 +13368,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
         leaf = this.app.workspace.getLeaf(false);
+        recordHistory(leaf);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -13535,6 +13605,7 @@ ${text.trim()}
   }
   async openReader(title) {
     const leaf = this.app.workspace.getLeavesOfType(READER_VIEW)[0] ?? this.app.workspace.getLeaf(false);
+    recordHistory(leaf);
     await leaf.setViewState({ type: READER_VIEW, state: { chapter: title }, active: true });
     await this.app.workspace.revealLeaf(leaf);
   }

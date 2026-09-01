@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1526 BC** — Moses drawn from the Nile · [[Exodus 2]] · [[1600-1501 BC]] *(traditional dating)*
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
+- **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — The law given at Sinai · [[Exodus 19]] · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **1406 BC** — Moses delivers the Deuteronomic law on the plains of Moab · [[Deuteronomy 19]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC–1400 BC** — Command to renew the covenant at Gerizim and Ebal · [[Deuteronomy 27]] · [[1500-1401 BC]] *(traditional dating)*
 - **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
-- **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

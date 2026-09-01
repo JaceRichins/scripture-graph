@@ -5945,6 +5945,36 @@ timeline module, not this file._
    "things": [
     "Second Temple"
    ]
+  },
+  {
+   "id": "r-num-13-48fc43cf",
+   "t": "Twelve spies sent from Paran to scout Canaan",
+   "y0": -1450,
+   "y1": -1449,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional conservative chronology places the Exodus c. 1446 BC; this episode falls in the second year of the wilderness journey, at Kadesh-Barnea, shortly before the 38-40 years of wandering that followed the people's unbelief.",
+   "chapters": [
+    "Numbers 13"
+   ],
+   "people": [
+    "Moses",
+    "Caleb",
+    "Joshua (Oshea)"
+   ],
+   "places": [
+    "Canaan",
+    "Hebron"
+   ],
+   "things": [
+    "brook Eshcol"
+   ]
   }
  ],
  "book_years": {
