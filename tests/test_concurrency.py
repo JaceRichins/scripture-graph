@@ -377,3 +377,35 @@ def test_a_rollback_in_one_worker_does_not_eat_a_peers_chapter(
                          capture_output=True, text=True).stdout.splitlines()
     assert len([m for m in log if m.startswith("research(")]) == len(survivors),         "a peer's research never reached a commit"
     assert not gitops.is_dirty(ctx), "the vault is clean after a mid-flight rollback"
+
+
+def test_parallel_workers_take_ai_jobs_only(mini_ctx, monkeypatch):
+    """A deterministic pass renders vault files outside the landing lock. If a
+    worker could claim one while a peer's research job rolled back, the render
+    would be reverted with `mark_pass` already recording it done."""
+    taken: list[str] = []
+    guard = threading.Lock()
+
+    def handler(ctx, target):
+        with guard:
+            taken.append(target)
+        return {}
+
+    _install_pass(monkeypatch, "research", handler, mode="ai")
+    _install_pass(monkeypatch, "entities", handler, mode="deterministic")
+    _enqueue(mini_ctx, 4, task_type="pass", pass_name="entities")
+    _enqueue(mini_ctx, 4, task_type="job", pass_name="research")
+
+    stats = waves.process_queue(mini_ctx, include_ai=True, workers=3)
+
+    assert stats["done"] == 4 and stats["ai_done"] == 4
+    left = mini_ctx.db().execute(
+        "SELECT task_type, status, COUNT(*) c FROM work_queue "
+        "GROUP BY task_type, status").fetchall()
+    assert [dict(r) for r in left] == [{"task_type": "pass", "status": "pending", "c": 4}], \
+        "the deterministic rows must be left for the single-threaded phase"
+
+    # ...and a single worker still drains both, exactly as before
+    stats = waves.process_queue(mini_ctx, include_ai=True, workers=1)
+    assert stats["done"] == 4
+    assert q.counts(mini_ctx) == {}

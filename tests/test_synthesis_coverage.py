@@ -128,3 +128,40 @@ def test_coverage_stats_shape(imported_ctx):
     s = cov_stats(ctx)
     assert s["overall"]["n"] == 4
     assert "Book of Mormon" in s["volumes"]
+
+
+def test_related_chapters_survive_a_topic_on_a_chapter_relation(imported_ctx):
+    """`parallel_to` / `cites` are not chapter-only relations. A topic or event
+    on the far end reaches `chapter_display`, which raises KeyError on a slug
+    that is not a chapter — inside a research job's write phase that rolls the
+    whole chapter back. Live: ps-69 died on KeyError 'crucifixion-of-jesus'
+    every time it was rendered."""
+    from scripturegraph.synthesis import synthesize_chapter
+    from scripturegraph.util import now_iso
+    ctx = imported_ctx
+    db = ctx.db()
+    me = "chapter:mosiah-14"
+    for node_type, nid, title in (("topic", "topic:exodus-and-deliverance", "Exodus"),
+                                  ("event", "event:crucifixion-of-jesus", "Crucifixion")):
+        db.execute("INSERT OR IGNORE INTO nodes(id,node_type,title,vault_path,meta_json,"
+                   "created_at,updated_at) VALUES(?,?,?,?,'{}',?,?)",
+                   (nid, node_type, title, f"AI Library/x/{title}.md", now_iso(), now_iso()))
+        for src, dst in ((me, nid), (nid, me)):  # either end of the edge
+            db.execute(
+                "INSERT INTO edges(src,dst,rel,status,confidence,weight,meta_json,"
+                "provenance,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?)",
+                (src, dst, "parallel_to", "accepted", 0.9, 5, "{}", "test",
+                 now_iso(), now_iso()))
+    db.execute(
+        "INSERT INTO edges(src,dst,rel,status,confidence,weight,meta_json,"
+        "provenance,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?)",
+        (me, "topic:exodus-and-deliverance", "cites", "accepted", 0.9, 5, "{}",
+         "test", now_iso(), now_iso()))
+    db.commit()
+
+    synthesize_chapter(ctx, "mosiah-14")  # must not raise
+
+    guide = read_text(ctx.vault / (
+        "AI Library/01 Scriptures/Study Guides/03 Book of Mormon/08 Mosiah/"
+        "Mosiah 14 - Study Guide.md"))
+    assert "Crucifixion" not in guide, "an event must not be rendered as a chapter"

@@ -50,19 +50,31 @@ def _entity_lines(ctx: Ctx, cslug: str, node_type: str, cap: int) -> list[str]:
 
 
 def _related_lines(ctx: Ctx, cslug: str, cap: int) -> list[str]:
+    """Chapters related to this one, for the Related Chapters section.
+
+    Every query here is filtered to chapter endpoints. `cites`, `parallel_to`
+    and `semantically_related` are NOT chapter-only relations — topics, events
+    and personal notes ride them too — and a topic slug handed to
+    `chapter_display` raises KeyError, which inside a research job's write
+    phase rolls the whole chapter back. `build_context` already guards its own
+    copy of these queries; this is the render side of the same relation, and it
+    was the last unguarded reader (live: ps-69 died on KeyError
+    'crucifixion-of-jesus', an event node on the far end of a parallel_to edge,
+    and dc-132 and josh-4 were carrying the same landmine).
+    """
     me = f"chapter:{cslug}"
     db = ctx.db()
     lines: list[str] = []
     # explicit citations first
     for r in db.execute(
             "SELECT dst FROM edges WHERE src=? AND rel='cites' AND status='accepted' "
-            "ORDER BY weight DESC LIMIT 6", (me,)):
+            "AND dst LIKE 'chapter:%' ORDER BY weight DESC LIMIT 6", (me,)):
         other = r["dst"].split(":", 1)[1]
         lines.append(f"- {md.wikilink(chapter_display(other))} — cited in the text")
     # official footnote cross-references (canonical study apparatus)
     for r in db.execute(
             "SELECT dst, weight, meta_json FROM edges WHERE src=? AND rel='footnote_xref' "
-            "ORDER BY weight DESC LIMIT ?", (me, max(6, cap // 2))):
+            "AND dst LIKE 'chapter:%' ORDER BY weight DESC LIMIT ?", (me, max(6, cap // 2))):
         other = r["dst"].split(":", 1)[1]
         meta = json.loads(r["meta_json"] or "{}")
         pairs = meta.get("pairs") or []
@@ -77,6 +89,7 @@ def _related_lines(ctx: Ctx, cslug: str, cap: int) -> list[str]:
     rows = db.execute(
         "SELECT src, dst, weight, meta_json FROM edges "
         "WHERE (src=? OR dst=?) AND rel='parallel_to' AND status='accepted' "
+        "AND src LIKE 'chapter:%' AND dst LIKE 'chapter:%' "
         "ORDER BY weight DESC LIMIT ?", (me, me, cap)).fetchall()
     for r in rows:
         other = (r["dst"] if r["src"] == me else r["src"]).split(":", 1)[1]
