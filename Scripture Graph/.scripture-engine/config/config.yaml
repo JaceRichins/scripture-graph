@@ -33,11 +33,12 @@ pipeline:
 automation:
   enabled: true       # master switch for scheduled runs
   ai_enabled: true    # allow AI provider calls during scheduled runs
-    # Parallel research workers. A job is ~12 minutes of waiting on
-    # provider subprocesses against ~7 seconds of landing, so this is
-    # the single throughput knob. Raised 2026-09-01; the governor
-    # still paces spend, and the constrained provider is Codex.
-    workers: 2
+  # Parallel research workers -- the single throughput knob. A research job is
+  # ~12 minutes of waiting on provider subprocesses against ~7 seconds of
+  # landing, so workers buy nearly linear throughput. Raised from 1 on
+  # 2026-09-01. The governor still paces AI spend; Codex is the constrained
+  # provider (the engine is ~34% of its weekly tokens), Claude has the room.
+  workers: 2
 
 bootstrap:
   ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
