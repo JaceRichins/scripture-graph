@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import copy
 import os
+import threading
 from pathlib import Path
 
 import yaml
@@ -22,6 +23,12 @@ DEFAULTS: dict = {
     "automation": {
         "enabled": True,      # master switch for scheduled runs
         "ai_enabled": True,   # allow AI provider calls during scheduled runs
+        # How many research jobs run at once. THE knob for engine throughput:
+        # a job is ~9 minutes of waiting on provider subprocesses and ~7
+        # seconds of landing, so extra workers buy nearly linear throughput.
+        # 1 = the original strictly-serial engine. Raise it only as far as the
+        # governor's headroom on the CONSTRAINED provider allows.
+        "workers": 1,
     },
     "budgets": {
         "aggressive": {"nightly_ai_jobs": 80, "weekly_ai_jobs": 150, "daily_usd_cap": 40.0,
@@ -184,6 +191,14 @@ class Ctx:
         self.cfg = self._load_config()
         self._db = None
         self._log = None
+        # Worker threads get their OWN connection. One sqlite3.Connection is
+        # thread-safe statement-by-statement, but its TRANSACTION is global to
+        # the connection: a second thread's commit() would land the first
+        # thread's half-written work. Per-thread connections + WAL give each
+        # worker a real transaction boundary.
+        self._tls = threading.local()
+        self._worker_dbs: list = []
+        self._db_lock = threading.Lock()
 
     # -- config -------------------------------------------------------------
     def _load_config(self) -> dict:
@@ -217,10 +232,32 @@ class Ctx:
 
     # -- db / log -----------------------------------------------------------
     def db(self):
-        if self._db is None:
+        """The calling thread's database connection.
+
+        The main thread keeps the long-lived connection (unchanged behaviour
+        for every single-threaded caller). Any other thread gets its own,
+        opened on first use and closed with the Ctx."""
+        if threading.current_thread() is threading.main_thread():
+            return self._primary_db()
+        conn = getattr(self._tls, "db", None)
+        if conn is None:
             from scripturegraph.db import connect
-            self._db = connect(self.db_path)
-        return self._db
+            # Migrations run ONCE, on the primary connection — opened here
+            # first if a worker happens to be the first caller. Re-running
+            # executescript per worker only buys write-lock contention.
+            self._primary_db()
+            conn = connect(self.db_path, migrate_schema=False)
+            self._tls.db = conn
+            with self._db_lock:
+                self._worker_dbs.append(conn)
+        return conn
+
+    def _primary_db(self):
+        with self._db_lock:
+            if self._db is None:
+                from scripturegraph.db import connect
+                self._db = connect(self.db_path)
+            return self._db
 
     @property
     def log(self):
@@ -233,6 +270,14 @@ class Ctx:
         if self._db is not None:
             self._db.close()
             self._db = None
+        with self._db_lock:
+            workers, self._worker_dbs = self._worker_dbs, []
+        for conn in workers:
+            try:
+                conn.close()
+            except Exception:  # noqa: BLE001 — a dead worker conn must not block teardown
+                pass
+        self._tls = threading.local()
 
     # -- meta / corpus version ----------------------------------------------
     def meta_get(self, key: str, default=None):

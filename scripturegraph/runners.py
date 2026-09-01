@@ -332,4 +332,10 @@ def _process(ctx: Ctx, include_ai: bool, max_items: int | None,
              ai_budget: int | None = None, deadline_ts: float | None = None):
     from scripturegraph.waves import process_queue
     return process_queue(ctx, max_items=max_items, include_ai=include_ai,
-                         ai_budget=ai_budget, deadline_ts=deadline_ts)
+                         ai_budget=ai_budget, deadline_ts=deadline_ts,
+                         workers=_workers(ctx) if include_ai else 1)
+
+
+def _workers(ctx: Ctx) -> int:
+    """Parallel research workers, never more than the AI budget can feed."""
+    return max(1, int(ctx.c("automation.workers", 1) or 1))

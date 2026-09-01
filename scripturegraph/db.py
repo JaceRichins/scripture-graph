@@ -474,19 +474,29 @@ CREATE INDEX IF NOT EXISTS idx_timeline_events_chapter ON timeline_events(chapte
 """
 
 
-def connect(db_path: str | Path) -> sqlite3.Connection:
+BUSY_TIMEOUT_MS = 60_000
+
+
+def connect(db_path: str | Path, migrate_schema: bool = True) -> sqlite3.Connection:
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
     # check_same_thread=False lets researcher worker threads hit the response
     # cache; safe because CPython's sqlite3 is compiled serialized
     # (threadsafety==3) — asserted here so a nonstandard build fails loudly
     # instead of corrupting.
     assert sqlite3.threadsafety == 3, "sqlite3 must be built serialized (threadsafety=3)"
-    conn = sqlite3.connect(str(db_path), timeout=60, check_same_thread=False)
+    conn = sqlite3.connect(str(db_path), timeout=BUSY_TIMEOUT_MS / 1000,
+                           check_same_thread=False)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA journal_mode=WAL")
     conn.execute("PRAGMA foreign_keys=ON")
     conn.execute("PRAGMA synchronous=NORMAL")
-    migrate(conn)
+    # WAL lets readers run while one writer holds the write lock, but a second
+    # WRITER still gets SQLITE_BUSY. The busy handler makes it wait instead of
+    # raising — set on the connection as well as via the driver timeout so it
+    # survives connections opened by other code paths.
+    conn.execute(f"PRAGMA busy_timeout={BUSY_TIMEOUT_MS}")
+    if migrate_schema:
+        migrate(conn)
     return conn
 
 

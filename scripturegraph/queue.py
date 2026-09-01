@@ -57,23 +57,74 @@ def _clear_status_slot(db, item_id: int, status: str) -> int:
         (item_id, status, row["task_type"], row["pass_name"], row["target"])).rowcount
 
 
-def claim_batch(ctx: Ctx, n: int, task_types: tuple[str, ...] | None = None) -> list[dict]:
+def claim_one(ctx: Ctx, task_types: tuple[str, ...] | None = None) -> dict | None:
+    """Atomically take the single highest-priority pending item, or None.
+
+    SELECT-then-UPDATE is a race the moment more than one worker runs: two
+    workers read the same row as 'pending' and both go do it. BEGIN IMMEDIATE
+    takes SQLite's write lock for the whole read-and-mark, so exactly one
+    worker can ever see a given row as claimable. With `busy_timeout` set, a
+    contending worker waits for the lock instead of raising SQLITE_BUSY.
+
+    Claiming ONE item — rather than a batch — is also what keeps the attempt
+    counter honest. A batch claim increments `attempts` on every row it takes,
+    including the ones the run never reaches; when the process is later killed
+    mid-run those rows are requeued with the attempt already burned, so work
+    that was never tried marches toward `MAX_ATTEMPTS` and dies on its first
+    real hiccup.
+    """
     db = ctx.db()
-    q = "SELECT * FROM work_queue WHERE status='pending'"
-    params: list = []
-    if task_types:
-        q += f" AND task_type IN ({','.join('?' * len(task_types))})"
-        params.extend(task_types)
-    q += " ORDER BY priority DESC, id ASC LIMIT ?"
-    params.append(n)
-    rows = [dict(r) for r in db.execute(q, params).fetchall()]
-    for r in rows:
-        _clear_status_slot(db, r["id"], "running")
+    if db.in_transaction:
+        db.commit()
+    db.execute("BEGIN IMMEDIATE")
+    try:
+        q = "SELECT * FROM work_queue WHERE status='pending'"
+        params: list = []
+        if task_types:
+            q += f" AND task_type IN ({','.join('?' * len(task_types))})"
+            params.extend(task_types)
+        q += " ORDER BY priority DESC, id ASC LIMIT 1"
+        row = db.execute(q, params).fetchone()
+        if row is None:
+            db.commit()
+            return None
+        item = dict(row)
+        _clear_status_slot(db, item["id"], "running")
         db.execute(
-            "UPDATE work_queue SET status='running', attempts=attempts+1, updated_at=? WHERE id=?",
-            (now_iso(), r["id"]))
+            "UPDATE work_queue SET status='running', attempts=attempts+1, updated_at=? "
+            "WHERE id=?", (now_iso(), item["id"]))
+        db.commit()
+    except BaseException:
+        db.rollback()
+        raise
+    item["status"] = "running"
+    item["attempts"] = (item["attempts"] or 0) + 1
+    return item
+
+
+def claim_batch(ctx: Ctx, n: int, task_types: tuple[str, ...] | None = None) -> list[dict]:
+    """n atomic single claims. Kept for callers that want a whole slice."""
+    out: list[dict] = []
+    for _ in range(n):
+        item = claim_one(ctx, task_types=task_types)
+        if item is None:
+            break
+        out.append(item)
+    return out
+
+
+def release(ctx: Ctx, item_id: int) -> None:
+    """Hand a claimed item back untouched — no attempt burned.
+
+    Used whenever a worker stops for a reason that is not the item's fault
+    (deadline, spent budget, provider throttle): the work was never actually
+    attempted, so it must not be charged for one."""
+    db = ctx.db()
+    _clear_status_slot(db, item_id, "pending")
+    db.execute("UPDATE work_queue SET status='pending', "
+               "attempts=MAX(0, attempts-1), updated_at=? WHERE id=?",
+               (now_iso(), item_id))
     db.commit()
-    return rows
 
 
 def complete(ctx: Ctx, item_id: int) -> None:
@@ -140,6 +191,23 @@ def revive_dead(ctx: Ctx, only_provider_errors: bool = True) -> int:
         f"updated_at=? WHERE {where}", (now_iso(),))
     db.commit()
     return cur.rowcount + dropped
+
+
+def reset_burned_attempts(ctx: Ctx) -> int:
+    """Give a fresh attempt budget to pending rows that already exceed it.
+
+    A row sitting in 'pending' with attempts >= MAX_ATTEMPTS is a landmine: it
+    is queued, so it looks alive, but `fail` will kill it on its very first
+    failure with no retries at all. Rows reach that state without ever being
+    tried — a batch claim charges an attempt to every row it takes, and a run
+    killed before it reaches them requeues them with the charge already made.
+    Normalising them is the counterpart to claiming one item at a time."""
+    db = ctx.db()
+    cur = db.execute(
+        "UPDATE work_queue SET attempts=0, updated_at=? "
+        "WHERE status='pending' AND attempts >= ?", (now_iso(), MAX_ATTEMPTS))
+    db.commit()
+    return cur.rowcount
 
 
 def counts(ctx: Ctx) -> dict:

@@ -15,6 +15,7 @@ Degraded modes (recorded in the job row):
 from __future__ import annotations
 
 import concurrent.futures
+import threading
 import hashlib
 import json
 import time
@@ -38,6 +39,18 @@ PROSE_SECTIONS = ("overview", "structure", "doctrines", "language", "literary",
                   "questions", "further-study")
 LINK_STATUS = {"ACCEPT": "accepted", "ACCEPT_LOW_VISIBILITY": "low_visibility",
                "TENTATIVE": "tentative"}
+
+
+LANDING = threading.RLock()
+"""Serialises the write phase of a research job across parallel workers.
+
+Everything before it — researchers, critics, judge — is minutes of waiting on
+provider subprocesses and may overlap freely. Everything after it must not:
+the write phase checkpoints git, writes the vault, validates, and on ANY
+failure calls `gitops.hard_restore`, which reverts the whole vault subtree to
+HEAD. Two workers landing at once would mean one of them rolling back the
+other's finished chapter. The section costs seconds against a job's minutes,
+so serialising it gives up almost nothing."""
 
 
 class JobQuarantined(Exception):
@@ -499,49 +512,53 @@ def run_chapter_job(ctx: Ctx, cslug: str) -> dict:
     judgment["decisions"] = enforce_floors(judgment.get("decisions", []), validation)
     json_write(ws / "judge" / "decision.json", judgment)
 
-    # ---- persist claims + link decisions ----
-    persisted = _persist_outcomes(ctx, job_id, cslug, {"a": pa, "b": pb}, judgment,
-                                  validation, mode,
-                                  {"researcher": res_ver, "skeptic": skeptic_ver,
-                                   "judge": judge_ver})
+    # ---- landing: DB outcomes + vault writes + git transaction ----
+    # ONE worker at a time from here to the commit (see LANDING above).
+    with LANDING:
+        # ---- persist claims + link decisions ----
+        persisted = _persist_outcomes(ctx, job_id, cslug, {"a": pa, "b": pb}, judgment,
+                                      validation, mode,
+                                      {"researcher": res_ver, "skeptic": skeptic_ver,
+                                       "judge": judge_ver})
 
-    # ---- chronology proposals → timeline (deterministic gate; non-fatal) ----
-    try:
-        from scripturegraph.timeline import ingest_chronology
-        chron = ingest_chronology(ctx, cslug, [proposals["a"], proposals["b"]])
-        if chron.get("proposed"):
-            json_write(ws / "chronology.json", chron)
-    except Exception as e:  # noqa: BLE001 — the timeline must never sink a job
-        ctx.log.warn("research.chronology_failed", job=job_id, error=str(e)[:200])
+        # ---- chronology proposals → timeline (deterministic gate; non-fatal) ----
+        try:
+            from scripturegraph.timeline import ingest_chronology
+            chron = ingest_chronology(ctx, cslug, [proposals["a"], proposals["b"]])
+            if chron.get("proposed"):
+                json_write(ws / "chronology.json", chron)
+        except Exception as e:  # noqa: BLE001 — the timeline must never sink a job
+            ctx.log.warn("research.chronology_failed", job=job_id, error=str(e)[:200])
 
-    # ---- librarian (deterministic write phase, git transaction) ----
-    set_status("librarian")
-    ops = _librarian_ops(ctx, cslug, {"a": proposals["a"], "b": proposals["b"]}, judgment)
-    json_write(ws / "librarian" / "patch.json", {"ops": ops})
-    gitops.checkpoint(ctx, f"before research({context['title']})")
-    applied = {"changed": [], "created": []}
-    try:
-        if ops:
-            result = apply_ops(ctx, ops, actor=f"librarian:{job_id}")
-            applied = {"changed": result.changed_paths, "created": result.created_paths}
-        ev_created = _create_evidence_notes(ctx, job_id, cslug, persisted["accepted_evidence"])
-        applied["created"].extend(ev_created)
-        from scripturegraph.synthesis import synthesize_chapter
-        synthesize_chapter(ctx, cslug)
-        book, n = split_chapter_slug(cslug)
-        report = validate_changed(ctx, [study_relpath(book, n), *applied["created"]])
-        if report.fatal:
-            raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))
-    except Exception as e:  # noqa: BLE001 — ANY failure here must roll back BOTH stores
-        gitops.hard_restore(ctx)
-        _rollback_job_outcomes(ctx, job_id)
-        set_status("failed", {"error": str(e)})
-        ctx.log.error("job.apply_failed", job=job_id, error=str(e))
-        raise RuntimeError(f"{job_id}: apply failed and was rolled back: {e}") from e
-    rev = gitops.commit_all(ctx, f"research({context['title']}): "
-                                 f"{persisted['n_accepted']} accepted, "
-                                 f"{persisted['n_tentative']} tentative [{mode}]")
-    update_chapter_coverage(ctx, cslug)
+        # ---- librarian (deterministic write phase, git transaction) ----
+        set_status("librarian")
+        ops = _librarian_ops(ctx, cslug, {"a": proposals["a"], "b": proposals["b"]}, judgment)
+        json_write(ws / "librarian" / "patch.json", {"ops": ops})
+        gitops.checkpoint(ctx, f"before research({context['title']})")
+        applied = {"changed": [], "created": []}
+        try:
+            if ops:
+                result = apply_ops(ctx, ops, actor=f"librarian:{job_id}")
+                applied = {"changed": result.changed_paths, "created": result.created_paths}
+            ev_created = _create_evidence_notes(ctx, job_id, cslug,
+                                                persisted["accepted_evidence"])
+            applied["created"].extend(ev_created)
+            from scripturegraph.synthesis import synthesize_chapter
+            synthesize_chapter(ctx, cslug)
+            book, n = split_chapter_slug(cslug)
+            report = validate_changed(ctx, [study_relpath(book, n), *applied["created"]])
+            if report.fatal:
+                raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))
+        except Exception as e:  # noqa: BLE001 — ANY failure here must roll back BOTH stores
+            gitops.hard_restore(ctx)
+            _rollback_job_outcomes(ctx, job_id)
+            set_status("failed", {"error": str(e)})
+            ctx.log.error("job.apply_failed", job=job_id, error=str(e))
+            raise RuntimeError(f"{job_id}: apply failed and was rolled back: {e}") from e
+        rev = gitops.commit_all(ctx, f"research({context['title']}): "
+                                     f"{persisted['n_accepted']} accepted, "
+                                     f"{persisted['n_tentative']} tentative [{mode}]")
+        update_chapter_coverage(ctx, cslug)
     set_status("applied", {"git_rev": rev, **persisted["counts"], "applied": applied})
     ctx.log.info("job.applied", job=job_id, target=cslug, mode=mode,
                  cost_usd=round(costs["usd"], 4), **persisted["counts"])
