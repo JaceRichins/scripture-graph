@@ -5162,6 +5162,81 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-21-cfd3860a",
+   "t": "Nebuchadrezzar's Siege of Jerusalem under Zedekiah",
+   "y0": -589,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Correlates with the narrative of Zedekiah's reign and Jerusalem's fall recorded in 2 Kings 24-25, conventionally dated via regnal chronology and external Babylonian records to c. 589-586 BCE.",
+   "chapters": [
+    "Jeremiah 21"
+   ],
+   "people": [
+    "King Zedekiah",
+    "Nebuchadrezzar king of Babylon"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-jer-22-67e1748a",
+   "t": "Jehoiachin (Coniah) surrenders, deported to Babylon",
+   "y0": -597,
+   "y1": -597,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "2 Kings 24:8-15; first major Babylonian deportation of Judah's royal house and elite",
+   "chapters": [
+    "Jeremiah 22"
+   ],
+   "people": [
+    "Coniah (Jehoiachin)",
+    "Nebuchadrezzar"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-jer-22-a3fd33f6",
+   "t": "Jehoahaz (Shallum) deposed, exiled to Egypt",
+   "y0": -609,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "2 Kings 23:31-34; conventional date shortly after Josiah's death at Megiddo, when Pharaoh Necho installed Jehoiakim in his place",
+   "chapters": [
+    "Jeremiah 22"
+   ],
+   "people": [
+    "Shallum (Jehoahaz)",
+    "Pharaoh Necho"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
