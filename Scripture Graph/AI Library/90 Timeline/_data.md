@@ -4884,6 +4884,60 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-6-9142884a",
+   "t": "The Genesis Flood (traditional dating)",
+   "y0": -2348,
+   "y1": -2348,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Derived from later chronological reckonings (e.g., Ussher) built on Masoretic genealogical data in Genesis 5 and 11; not an internally stated date and heavily disputed as history.",
+   "chapters": [
+    "Genesis 6"
+   ],
+   "people": [
+    "Noah",
+    "Shem",
+    "Ham",
+    "Japheth"
+   ]
+  },
+  {
+   "id": "r-hel-1-9329c390",
+   "t": "Succession crisis and Lamanite invasion of Zarahemla",
+   "y0": -52,
+   "y1": -51,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Explicitly the fortieth and forty-first years of the reign of the judges, a civil calendar begun in Mosiah 29; absolute BC dates follow the traditional LDS chapter-heading correlation.",
+   "chapters": [
+    "Helaman 1"
+   ],
+   "people": [
+    "Pahoran",
+    "Kishkumen",
+    "Coriantumr",
+    "Moronihah"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Bountiful"
+   ],
+   "things": [
+    "judgment-seat"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,

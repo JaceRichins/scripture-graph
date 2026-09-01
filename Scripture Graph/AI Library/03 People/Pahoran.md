@@ -42,6 +42,7 @@ _Not yet developed._
 - **67 BC–66 BC** — King-men crisis and Amalickiah's final invasion · [[Alma 51]] · [[100-1 BC]] *(approximate)*
 - **62 BC–57 BC** — Recapture of Nephihah and death of Ammoron and Teancum · [[Alma 62]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–61 BC** — End of the long Nephite-Lamanite war · [[Alma 62]] · [[100-1 BC]] *(approximate)*
+- **52 BC–51 BC** — Succession crisis and Lamanite invasion of Zarahemla · [[Helaman 1]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
