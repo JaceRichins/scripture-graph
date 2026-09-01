@@ -41,6 +41,7 @@ _Not yet developed._
 - **72 BC–67 BC** — Moroni's fortifications and Morianton's rebellion (Alma 50) · [[Alma 50]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **72 BC–67 BC** — Fortification, prosperity, Morianton crisis, and Pahoran's accession · [[Alma 50]] · [[100-1 BC]] *(approximate)*
 - **67 BC–66 BC** — King-men crisis and Amalickiah's final invasion · [[Alma 51]] · [[100-1 BC]] *(approximate)*
+- **66 BC–64 BC** — Ammoron's Lamanite kingship and the retaking of Mulek · [[Alma 52]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **AD 17** — Nephite gathering to the Zarahemla-Bountiful line · [[3 Nephi 3]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

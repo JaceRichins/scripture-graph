@@ -4265,6 +4265,34 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-52-c42377c9",
+   "t": "Ammoron's Lamanite kingship and the retaking of Mulek",
+   "y0": -66,
+   "y1": -64,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Chapter is explicitly dated to the 26th through 28th years of the reign of the judges, which began c. 91 B.C.",
+   "chapters": [
+    "Alma 52"
+   ],
+   "people": [
+    "Teancum",
+    "Moroni",
+    "Ammoron",
+    "Lehi (Nephite chief captain)"
+   ],
+   "places": [
+    "Land of Bountiful",
+    "City of Mulek"
+   ]
+  },
+  {
    "id": "r-alma-62-23e0e358",
    "t": "Recapture of Nephihah and death of Ammoron and Teancum",
    "y0": -62,

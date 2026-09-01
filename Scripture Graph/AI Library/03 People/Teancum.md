@@ -40,6 +40,7 @@ _Not yet developed._
 - **72 BC–67 BC** — Moroni's fortifications and Morianton's rebellion (Alma 50) · [[Alma 50]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **72 BC–67 BC** — Fortification, prosperity, Morianton crisis, and Pahoran's accession · [[Alma 50]] · [[100-1 BC]] *(approximate)*
 - **67 BC–66 BC** — King-men crisis and Amalickiah's final invasion · [[Alma 51]] · [[100-1 BC]] *(approximate)*
+- **66 BC–64 BC** — Ammoron's Lamanite kingship and the retaking of Mulek · [[Alma 52]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–57 BC** — Recapture of Nephihah and death of Ammoron and Teancum · [[Alma 62]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–61 BC** — End of the long Nephite-Lamanite war · [[Alma 62]] · [[100-1 BC]] *(approximate)*
 
