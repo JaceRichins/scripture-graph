@@ -150,81 +150,152 @@ def enqueue_wave(ctx: Ctx, name: str, limit: int | None = None,
 
 def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = True,
                   ai_budget: int | None = None,
-                  deadline_ts: float | None = None) -> dict:
+                  deadline_ts: float | None = None,
+                  workers: int | None = None) -> dict:
     """Work the queue until empty (or caps/deadline hit). Crash-safe: claimed
     items left 'running' by a dead process are requeued on the next call.
     `deadline_ts` (epoch seconds) is a soft stop: no NEW item is claimed after
-    it passes — in-flight work finishes normally."""
+    it passes — in-flight work finishes normally.
+
+    `workers` runs that loop in N threads. A research job is ~9 minutes of
+    waiting on a provider subprocess and ~7 seconds of writing, so the win is
+    almost linear — but only the waiting part may overlap. Everything that
+    touches the vault or git runs under a single landing lock (see
+    `agents.pipeline`), because a rollback there restores the WHOLE vault
+    subtree and would eat a peer's half-written chapter.
+
+    Deterministic passes stay single-threaded: they are seconds long, they
+    write shared rendered files, and there is nothing to overlap."""
+    import threading
     import time as _time
     q.requeue_stale(ctx)
+    if workers is None:
+        workers = int(ctx.c("automation.workers", 1) or 1)
+    if not include_ai:
+        workers = 1  # deterministic passes are cheap and share output files
+    workers = max(1, min(int(workers), 16))
+
     stats = {"done": 0, "failed": 0, "ai_done": 0, "skipped_ai": 0}
     task_types = ("pass", "job", "maintenance") if include_ai else ("pass", "maintenance")
-    while True:
+    lock = threading.Lock()
+    state = {"stop": False, "ai_inflight": 0, "consec_failures": 0}
+    if workers > 1:
+        stats["workers"] = workers
+
+    def _stop_now(reason: str | None = None) -> None:
+        state["stop"] = True
+        if reason:
+            stats[reason] = stats.get(reason, 0) + 1
+
+    def _next_types() -> tuple[str, ...] | None:
+        """What this worker may claim right now, or None to stop.
+
+        Called under `lock`. Returning a narrowed tuple is how the AI budget is
+        enforced across workers: once the spent-plus-in-flight count reaches the
+        governor's budget, nobody may claim another 'job' — but deterministic
+        work in the same queue still drains."""
+        if state["stop"]:
+            return None
         if max_items is not None and stats["done"] + stats["failed"] >= max_items:
-            break
+            state["stop"] = True
+            return None
         if deadline_ts is not None and _time.time() >= deadline_ts:
             stats["deadline_hit"] = True
-            break
-        batch = q.claim_batch(ctx, 25, task_types=task_types)
-        if not batch:
-            break
+            state["stop"] = True
+            return None
+        if include_ai and ai_budget is not None                 and stats["ai_done"] + state["ai_inflight"] >= ai_budget:
+            narrowed = tuple(t for t in task_types if t != "job")
+            if not narrowed:
+                return None
+            return narrowed
+        return task_types
 
-        def release(items) -> None:
-            """Hand claimed work back untouched — no attempt burned. Used when
-            we stop early: anything left 'running' would sit unavailable until
-            the stale-sweeper noticed it."""
-            for it in items:
-                ctx.db().execute(
-                    "UPDATE work_queue SET status='pending', attempts=attempts-1 "
-                    "WHERE id=?", (it["id"],))
-            ctx.db().commit()
-
-        for idx, item in enumerate(batch):
-            past_deadline = (deadline_ts is not None
-                             and __import__("time").time() >= deadline_ts)
-            if (max_items is not None and stats["done"] + stats["failed"] >= max_items) \
-                    or past_deadline:
-                ctx.db().execute(
-                    "UPDATE work_queue SET status='pending', attempts=attempts-1 WHERE id=?",
-                    (item["id"],))
-                ctx.db().commit()
-                if past_deadline:
-                    stats["deadline_hit"] = True
-                continue
+    def worker() -> None:
+        backoff = 0.0
+        while True:
+            if backoff:
+                _time.sleep(backoff)
+            with lock:
+                types = _next_types()
+                budget_capped = types is not None and types != task_types
+            if types is None:
+                return
+            item = q.claim_one(ctx, task_types=types)
+            if item is None:
+                if budget_capped:
+                    with lock:
+                        stats["skipped_ai"] += 1
+                return  # queue drained for the work this worker may take
             name = item["pass_name"]
             spec = PASS_DEFS.get(name)
             if spec is None:
                 q.fail(ctx, item["id"], f"unknown pass {name!r}")
-                stats["failed"] += 1
+                with lock:
+                    stats["failed"] += 1
                 continue
-            if spec["mode"] == "ai":
-                if ai_budget is not None and stats["ai_done"] >= ai_budget:
-                    # put back without burning an attempt-slot beyond this
-                    release(batch[idx:])
-                    stats["skipped_ai"] += 1
-                    return stats
+            is_ai = spec["mode"] == "ai"
+            with lock:
+                # a second look, now that the claim is real: the deadline or the
+                # budget may have closed while this worker was waiting on the
+                # write lock. Hand it straight back rather than start work.
+                giving_back = state["stop"] or (
+                    deadline_ts is not None and _time.time() >= deadline_ts) or (
+                    is_ai and ai_budget is not None
+                    and stats["ai_done"] + state["ai_inflight"] >= ai_budget)
+                if not giving_back and is_ai:
+                    state["ai_inflight"] += 1
+            if giving_back:
+                q.release(ctx, item["id"])
+                return
             try:
                 spec["fn"](ctx, item["target"])
                 mark_pass(ctx, name, item["target"], spec["mode"])
                 q.complete(ctx, item["id"])
-                stats["done"] += 1
-                if spec["mode"] == "ai":
-                    stats["ai_done"] += 1
+                with lock:
+                    stats["done"] += 1
+                    state["consec_failures"] = 0
+                    if is_ai:
+                        stats["ai_done"] += 1
+                backoff = 0.0
             except ProviderUnavailable as e:
-                # the provider is down or rate-limited: give this item AND the
-                # rest of the claimed batch back untouched, then STOP. Grinding
-                # the queue against a limited provider only converts pending
-                # work into dead work.
-                release(batch[idx:])
+                # the provider is down or rate-limited: give the item back
+                # untouched and STOP EVERY worker. Grinding the queue against a
+                # limited provider only converts pending work into dead work.
+                q.release(ctx, item["id"])
                 ctx.log.warn("queue.provider_unavailable", pass_name=name,
                              target=item["target"], error=str(e)[:200])
-                stats["provider_unavailable"] = stats.get("provider_unavailable", 0) + 1
-                return stats
+                with lock:
+                    _stop_now("provider_unavailable")
+                return
             except Exception as e:  # noqa: BLE001 — one bad item must not kill the run
                 ctx.log.error("queue.item_failed", pass_name=name, target=item["target"],
                               error=f"{type(e).__name__}: {e}")
                 q.fail(ctx, item["id"], f"{type(e).__name__}: {e}")
-                stats["failed"] += 1
+                with lock:
+                    stats["failed"] += 1
+                    state["consec_failures"] += 1
+                    consec = state["consec_failures"]
+                    # a run failing over and over is failing for a reason the
+                    # next item will hit too — back off, then give up
+                    if consec >= 3 * workers:
+                        _stop_now("failure_circuit_open")
+                        ctx.log.warn("queue.failure_circuit_open", consecutive=consec)
+                        return
+                backoff = min(30.0, 2.0 * consec)
+            finally:
+                if is_ai:
+                    with lock:
+                        state["ai_inflight"] -= 1
+
+    if workers == 1:
+        worker()  # in-thread: identical to the single-worker engine
+    else:
+        threads = [threading.Thread(target=worker, name=f"sg-worker-{i}", daemon=True)
+                   for i in range(workers)]
+        for t in threads:
+            t.start()
+        for t in threads:
+            t.join()
     return stats
 
 
