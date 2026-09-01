@@ -41,6 +41,7 @@ _Not yet developed._
 - **627 BC–609 BC** — Jeremiah's covenant sermon in Judah's cities · [[Jeremiah 11]] · [[700-601 BC]] *(traditional dating)*
 - **609 BC–598 BC** — Jeremiah tests the Rechabites during Jehoiakim's reign · [[Jeremiah 35]] · [[700-601 BC]] *(approximate)*
 - **609 BC–608 BC** — Jeremiah's temple-gate sermon (Jeremiah 7 / parallel to Jer. 26) · [[Jeremiah 7]] · [[700-601 BC]] *(traditional dating)*
+- **609 BC–587 BC** — Jeremiah's pre-exilic judgment oracles against Judah · [[Jeremiah 9]] · [[700-601 BC]] *(traditional dating)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Siege and Fall of Jerusalem to Babylon · [[Jeremiah 39]] · [[600-501 BC]] *(traditional dating)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
-- **586 BC–582 BC** — Remnant of Judah forcibly relocates to Egypt · [[Jeremiah 43]] · [[600-501 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

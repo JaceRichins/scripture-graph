@@ -5678,6 +5678,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-9-39bbca35",
+   "t": "Jeremiah's pre-exilic judgment oracles against Judah",
+   "y0": -609,
+   "y1": -587,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The chapter is undated internally; it is traditionally located within Jeremiah's ministry, which began in 627 BC (Jeremiah 1:2) and continued until Jerusalem's destruction in 587/586 BC.",
+   "chapters": [
+    "Jeremiah 9"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Judah"
+   ]
+  },
+  {
+   "id": "r-josh-13-52f35af1",
+   "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
+   "y0": -1407,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Within a traditional biblical chronology (Exodus c. 1446 BC), the defeat of Sihon and Og and the subsequent Transjordan land grant occurred near the end of the wilderness period, shortly before Moses' death and the conquest under Joshua.",
+   "chapters": [
+    "Joshua 13"
+   ],
+   "people": [
+    "Moses",
+    "Sihon",
+    "Og"
+   ],
+   "places": [
+    "Heshbon",
+    "Bashan"
+   ]
+  },
+  {
    "id": "r-jsm-1-5b0f8dc9",
    "t": "Olivet Discourse delivered near the Jerusalem temple",
    "y0": 33,
