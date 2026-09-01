@@ -3968,6 +3968,65 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-16-0b1134fc",
+   "t": "Destruction, rescue, and expansion of the church",
+   "y0": -81,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the events to about 81–77 B.C.; the text internally spans the eleventh through the fourteenth years of the judges.",
+   "chapters": [
+    "Alma 16"
+   ],
+   "people": [
+    "Alma",
+    "Amulek",
+    "Zoram",
+    "Aha"
+   ],
+   "places": [
+    "Ammonihah",
+    "Zarahemla"
+   ],
+   "things": [
+    "church",
+    "Nephite armies"
+   ]
+  },
+  {
+   "id": "r-alma-21-00ed0ed8",
+   "t": "Aaron's mission to the Amalekites and Lamoni's liberty decree",
+   "y0": -90,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter heading dates these events to 'About 90-77 B.C.,' consistent with the surrounding Alma 17-24 mission narrative during the reign of Mosiah II.",
+   "chapters": [
+    "Alma 21"
+   ],
+   "people": [
+    "Aaron (son of Mosiah)",
+    "Ammon (son of Mosiah)",
+    "King Lamoni"
+   ],
+   "places": [
+    "Jerusalem (Lamanite city)",
+    "Middoni"
+   ]
+  },
+  {
    "id": "r-alma-43-2c5db19d",
    "t": "Moroni's first recorded campaign against Zerahemnah",
    "y0": -74,

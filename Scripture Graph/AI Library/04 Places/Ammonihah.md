@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **82 BC** — Alma and Amulek preach at Ammonihah · [[Alma 9]] · [[100-1 BC]] *(approximate)*
+- **81 BC–77 BC** — Destruction, rescue, and expansion of the church · [[Alma 16]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

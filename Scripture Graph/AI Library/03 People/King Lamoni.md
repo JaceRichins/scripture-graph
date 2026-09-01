@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **90 BC–77 BC** — The sons of Mosiah among the Lamanites · [[Alma 17]] · [[Alma 18]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **90 BC–77 BC** — Aaron's mission to the Amalekites and Lamoni's liberty decree · [[Alma 21]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **84 BC–77 BC** — The Anti-Nephi-Lehies bury their swords · [[Alma 23]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

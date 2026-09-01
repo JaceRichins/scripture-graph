@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **587 BC–570 BC** — Ezekiel's oracles against Ammon, Moab, Edom, Philistia · [[Ezekiel 25]] · [[600-501 BC]] *(approximate)*
 - **90 BC–77 BC** — The sons of Mosiah among the Lamanites · [[Alma 17]] · [[Alma 18]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **90 BC–77 BC** — Aaron's mission to the Amalekites and Lamoni's liberty decree · [[Alma 21]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **84 BC–77 BC** — The Anti-Nephi-Lehies bury their swords · [[Alma 23]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 

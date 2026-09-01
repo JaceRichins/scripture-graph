@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **600 BC–599 BC** — Nephi obtains the brass plates · [[1 Nephi 3]] · [[1 Nephi 4]] · [[600-501 BC]] *(traditional dating)*
+- **81 BC–77 BC** — Destruction, rescue, and expansion of the church · [[Alma 16]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
