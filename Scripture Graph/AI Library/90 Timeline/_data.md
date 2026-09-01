@@ -4575,6 +4575,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ether-15-c8849241",
+   "t": "Final Jaredite War and Destruction at Hill Ramah",
+   "y0": -600,
+   "y1": -580,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Internal Book of Mormon chronology places Coriantumr's death among the Mulekites shortly after their arrival (cf. Omni 1:20-22), suggesting the Jaredite destruction occurred near the traditional c. 600 BC dating of Mulek's landing; no exact year is given in the text itself.",
+   "chapters": [
+    "Ether 15"
+   ],
+   "people": [
+    "Coriantumr",
+    "Shiz",
+    "Ether"
+   ],
+   "places": [
+    "hill Ramah"
+   ]
+  },
+  {
    "id": "r-ex-24-54fbe531",
    "t": "Sinai covenant ceremony and Moses's ascent",
    "y0": -1491,
