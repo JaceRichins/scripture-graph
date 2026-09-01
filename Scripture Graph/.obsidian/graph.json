@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"AI Library/01 Scriptures/Canonical\"",
+  "search": "path:\"AI Library/03 People\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,23 +8,23 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"AI Library/01 Scriptures/Canonical\"",
+      "query": "path:\"AI Library/03 People\"",
       "color": {
         "a": 1,
-        "rgb": 9357296
+        "rgb": 15775876
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.6,
-  "nodeSizeMultiplier": 0.9,
+  "nodeSizeMultiplier": 1.1,
   "lineSizeMultiplier": 0.45,
   "collapse-forces": true,
   "centerStrength": 0.45,
-  "repelStrength": 16,
+  "repelStrength": 13,
   "linkStrength": 0.9,
   "linkDistance": 160,
-  "scale": 0.039840780106271054,
+  "scale": 0.32,
   "close": true
 }
