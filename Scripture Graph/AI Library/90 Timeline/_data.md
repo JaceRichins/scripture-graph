@@ -5005,6 +5005,87 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hosea-8-4fcf4436",
+   "t": "Israelite throne instability, multiple usurper kings",
+   "y0": -753,
+   "y1": -732,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "2 Kings 15 records roughly six kings of Israel within about two decades, several installed by assassination, offered here as historical background (not proof of authorial intent) for Hosea 8:4's charge that kings were 'set up... not by me.'",
+   "chapters": [
+    "Hosea 8"
+   ],
+   "people": [
+    "Zechariah (king of Israel)",
+    "Shallum",
+    "Menahem",
+    "Pekah"
+   ],
+   "places": [
+    "Samaria"
+   ]
+  },
+  {
+   "id": "r-isa-10-6b732547",
+   "t": "Assyrian crisis oracles in Isaiah 7-10",
+   "y0": -734,
+   "y1": -701,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Scholars date Isa 7-10 to either the Syro-Ephraimite crisis (734-732 BCE) or Sennacherib's 701 BCE invasion of Judah; the march route in 10:28-32 does not clearly match either historical campaign.",
+   "chapters": [
+    "Isaiah 10"
+   ],
+   "people": [
+    "King of Assyria"
+   ],
+   "places": [
+    "Assyria",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-isa-10-6f1435e8",
+   "t": "Assyrian expansion and threat toward Jerusalem",
+   "y0": -740,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The oracle presupposes Neo-Assyrian victories over multiple Syrian and Israelite cities and portrays an Assyrian advance toward Jerusalem.",
+   "chapters": [
+    "Isaiah 10"
+   ],
+   "people": [
+    "king of Assyria"
+   ],
+   "places": [
+    "Assyria",
+    "Jerusalem"
+   ],
+   "things": [
+    "Assyrian campaign",
+    "prophetic oracle"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
