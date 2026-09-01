@@ -8023,8 +8023,6 @@ var init_timelineView = __esm({
       /** a preset that arrived before the dataset did — applied on landing */
       pendingPreset = null;
       streamEl = null;
-      showLenses = false;
-      // category row folded away by default
       showSearch = false;
       // search folded away by default
       lastW = 0;
@@ -8061,7 +8059,6 @@ var init_timelineView = __esm({
         this.cats = new Set(CATS.map((c2) => c2.key));
         this.detail = false;
         this.query = "";
-        this.showLenses = false;
         this.showSearch = false;
         this.focuses = [];
         this.presetTitle = null;
@@ -8254,17 +8251,9 @@ var init_timelineView = __esm({
           return;
         }
         const bar = c2.createDiv({ cls: "sg-tl-bar" });
-        const eras = bar.createDiv({ cls: "sg-tl-eras" });
-        eras.createSpan({ cls: "sg-tl-rowcap", text: "Jump to" });
-        for (const era of ERAS) {
-          const b = eras.createEl("button", { cls: "sg-tl-era", text: era.label });
-          b.setAttr("title", `Scroll to the ${era.label} era`);
-          b.onclick = () => this.scrollToYear(era.y);
-        }
-        const row2 = bar.createDiv({ cls: "sg-tl-row" });
+        const row = bar.createDiv({ cls: "sg-tl-row sg-tl-oneline" });
         if (this.data.threads?.length) {
-          const seg = row2.createDiv({ cls: "sg-tl-seg" });
-          seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
+          const seg = row.createDiv({ cls: "sg-tl-seg" });
           const segDefs = [
             [1, "1", "One line per world"],
             [2, "2", "Split the storylines apart"],
@@ -8283,90 +8272,85 @@ var init_timelineView = __esm({
             };
           }
         }
-        for (const key of ["ow", "nw", "rs"]) {
-          const on = this.lanes.has(key);
-          const b = row2.createEl("button", { cls: "sg-tl-worldc", text: LANE_NAME[key] });
-          const hint = `${on ? "Hide" : "Show"} ${LANE_NAME[key].slice(3)} events`;
-          b.setAttr("title", hint);
-          b.setAttr("aria-label", hint);
-          b.style.setProperty("--sg-lane", LANE_COLOR[key]);
-          b.toggleClass("sg-tl-on", on);
-          b.onclick = () => {
-            if (this.lanes.has(key)) this.lanes.delete(key);
-            else this.lanes.add(key);
-            this.render();
-          };
-        }
-        row2.createSpan({ cls: "sg-tl-div" });
-        const iconChip = (text, hint, on, click) => {
-          const b = row2.createEl("button", { cls: "sg-tl-tool", text });
+        const tool = (text, hint, on, click) => {
+          const b = row.createEl("button", { cls: "sg-tl-tool", text });
           b.setAttr("aria-label", hint);
           b.setAttr("title", hint);
           b.toggleClass("sg-tl-on", on);
           b.onclick = click;
           return b;
         };
-        iconChip(
-          this.detail ? "\u{1F50E} Everything" : "\u2B50 Major only",
-          "How much shows: the major moments, or every detail",
-          this.detail,
-          () => {
-            this.detail = !this.detail;
-            this.render();
+        tool("Jump to \u25BE", "Scroll to an era", false, (ev) => {
+          const m2 = new import_obsidian8.Menu();
+          for (const era of ERAS) {
+            m2.addItem((i) => i.setTitle(`${era.label}  \xB7  ${yearStr2(era.y)}`).onClick(() => this.scrollToYear(era.y)));
+          }
+          m2.showAtMouseEvent(ev);
+        });
+        const lensesOn = this.cats.size < CATS.length;
+        const narrowed = this.lanes.size < 3 || lensesOn || this.detail;
+        tool(
+          "Filters \u25BE",
+          "Choose which worlds, how much detail, which kinds of moment",
+          narrowed,
+          (ev) => {
+            const m2 = new import_obsidian8.Menu();
+            for (const key of ["ow", "nw", "rs"]) {
+              m2.addItem((i) => i.setTitle(LANE_NAME[key]).setChecked(this.lanes.has(key)).onClick(() => {
+                if (this.lanes.has(key)) this.lanes.delete(key);
+                else this.lanes.add(key);
+                if (!this.lanes.size) this.lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
+                this.render();
+              }));
+            }
+            m2.addSeparator();
+            m2.addItem((i) => i.setTitle("Every detail").setChecked(this.detail).onClick(() => {
+              this.detail = !this.detail;
+              this.render();
+            }));
+            m2.addSeparator();
+            for (const cat of CATS) {
+              m2.addItem((i) => i.setTitle(cat.label).setChecked(this.cats.has(cat.key)).onClick(() => {
+                if (this.cats.has(cat.key) && this.cats.size === 1) {
+                  this.cats = new Set(CATS.map((x3) => x3.key));
+                } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
+                  this.cats = /* @__PURE__ */ new Set([cat.key]);
+                } else if (this.cats.has(cat.key)) {
+                  this.cats.delete(cat.key);
+                } else {
+                  this.cats.add(cat.key);
+                }
+                this.render();
+              }));
+            }
+            if (narrowed) {
+              m2.addSeparator();
+              m2.addItem((i) => i.setTitle("\u21BA Show everything").onClick(() => this.resetFilters()));
+            }
+            m2.showAtMouseEvent(ev);
           }
         );
-        iconChip(
+        tool(
           "\u{1F3AF} Focus",
           "Follow one person, place, or thing through time",
           false,
           () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open()
         );
-        const filtered = this.cats.size < CATS.length;
-        iconChip(
-          filtered ? `\u2697 Lenses \xB7 ${this.cats.size}` : "\u2697 Lenses",
-          "Filter by kind of moment \u2014 prophets, wars, records\u2026",
-          this.showLenses || filtered,
-          () => {
-            this.showLenses = !this.showLenses;
-            this.render();
-          }
-        );
-        iconChip(
-          "\u{1F50D} Search",
+        tool(
+          "\u{1F50D}",
           "Find a person, place, or event",
           this.showSearch || !!this.query,
           () => {
             this.showSearch = !this.showSearch;
-            if (!this.showSearch) {
-              this.query = "";
-            }
+            if (!this.showSearch) this.query = "";
             this.render();
           }
         );
-        if (this.lanes.size < 3 || filtered || this.detail || this.query) {
-          const reset = row2.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "\u21BA Reset" });
+        if (narrowed || this.query) {
+          const reset = row.createEl("button", { cls: "sg-tl-tool sg-tl-reset", text: "\u21BA" });
           reset.setAttr("title", "Show everything again");
           reset.setAttr("aria-label", "Show everything again");
           reset.onclick = () => this.resetFilters();
-        }
-        if (this.showLenses) {
-          const row3 = bar.createDiv({ cls: "sg-tl-row sg-tl-cats" });
-          for (const cat of CATS) {
-            const b = row3.createEl("button", { cls: "sg-tl-chip", text: cat.label });
-            b.toggleClass("sg-tl-on", this.cats.has(cat.key));
-            b.onclick = () => {
-              if (this.cats.has(cat.key) && this.cats.size === 1) {
-                this.cats = new Set(CATS.map((x3) => x3.key));
-              } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
-                this.cats = /* @__PURE__ */ new Set([cat.key]);
-              } else if (this.cats.has(cat.key)) {
-                this.cats.delete(cat.key);
-              } else {
-                this.cats.add(cat.key);
-              }
-              this.render();
-            };
-          }
         }
         if (this.showSearch || this.query) {
           const search = bar.createEl("input", {

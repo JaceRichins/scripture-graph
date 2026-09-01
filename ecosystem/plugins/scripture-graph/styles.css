@@ -1279,11 +1279,17 @@ body.sg-scene-on .sg-chap-conn {
   background-attachment: local;
 }
 .sg-tl-bar {
-  flex: 0 0 auto; padding: 6px 10px 7px;
+  flex: 0 0 auto; padding: 5px 10px 6px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.07);
   display: flex; flex-direction: column; gap: 4px;
   background: transparent;
 }
+/* ONE line, always: the bar scrolls sideways rather than stacking rows —
+   a phone should spend its height on the story, not on chrome */
+.sg-tl-row.sg-tl-oneline {
+  flex-wrap: nowrap; gap: 6px; padding: 2px 1px;
+}
+.sg-tl-row.sg-tl-oneline .sg-tl-tool { flex: 0 0 auto; }
 .sg-tl-eras, .sg-tl-row {
   display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none;
   align-items: center;
