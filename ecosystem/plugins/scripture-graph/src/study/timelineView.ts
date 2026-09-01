@@ -10,6 +10,7 @@
 import { ItemView, Modal, TFile, WorkspaceLeaf, type App } from "obsidian";
 import { SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
+import { TimeGraph } from "./timeGraph";
 
 export const TIMELINE_VIEW = "sg-timeline";
 
@@ -175,7 +176,10 @@ export class TimelineView extends ItemView {
   private lanes = new Set(["ow", "nw", "rs"]);
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
-  private depth: 1 | 2 = 2;       // 2 = storylines braid out of their lane
+  private depth: 1 | 2 | 3 = 2;   // 2 = braids; 3 = ✨ the constellation
+  /** the live physics sky when depth 3 is on — one instance, torn down
+   * whenever the stream re-renders or the view closes */
+  private graph: TimeGraph | null = null;
   private query = "";
   /** the subjects whose threads are lit — empty = no focus, 2+ = a weave */
   private focuses: Subject[] = [];
