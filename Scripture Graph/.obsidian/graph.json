@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"AI Library/03 People\"",
+  "search": "file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:\"Son of God\" OR file:\"Lamb of God\" OR file:\"Son of Man\" OR file:Redeemer OR file:Savior",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,23 +8,72 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"AI Library/03 People\"",
+      "query": "Jesus",
       "color": {
         "a": 1,
-        "rgb": 15775876
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Christ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Messiah",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Jehovah",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Immanuel",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Son of God",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Son of Man",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Savior",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.6,
-  "nodeSizeMultiplier": 1.1,
+  "nodeSizeMultiplier": 0.8,
   "lineSizeMultiplier": 0.45,
   "collapse-forces": true,
-  "centerStrength": 0.45,
-  "repelStrength": 13,
+  "centerStrength": 0.6,
+  "repelStrength": 9,
   "linkStrength": 0.9,
-  "linkDistance": 160,
-  "scale": 0.32,
+  "linkDistance": 110,
+  "scale": 0.14,
   "close": true
 }

@@ -27,9 +27,11 @@ export interface GraphPreset {
   search: string;
   groups: { query: string; hex: string }[];
   extra?: Record<string, unknown>;
-  /** phone-sized substitutes: a narrower search, harsher display floors,
-   * and the honest one-liner the shelf shows instead of `desc` */
-  mobile?: { search?: string; extra?: Record<string, unknown>; note?: string };
+  /** phone-sized substitutes: a narrower search, scan-free color groups,
+   * harsher display floors, and the honest one-liner the shelf shows
+   * instead of `desc` */
+  mobile?: { search?: string; groups?: { query: string; hex: string }[];
+    extra?: Record<string, unknown>; note?: string };
 }
 
 const CHRIST_NAMES =
@@ -59,6 +61,20 @@ export const GRAPH_PRESETS: GraphPreset[] = [
       // file: matches names only (no reads, instant): the 204 pages that
       // BEAR a title of Christ — entity, topics, dictionary, talks.
       search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
+      // color groups ride the SAME query pipeline (updateSearch concats
+      // them into setQuery, and requiredInputs merge across ALL queries)
+      // — one content-word group re-triggers the full-vault read. The
+      // v0.53 log: why=ceiling n=0 at 120s. These are file:-only too.
+      groups: [
+        { query: "file:Jesus", hex: "#e05252" },
+        { query: "file:Christ", hex: "#e0b152" },
+        { query: "file:Messiah", hex: "#b1e052" },
+        { query: "file:Jehovah", hex: "#52e052" },
+        { query: "file:Immanuel", hex: "#52e0b1" },
+        { query: `file:"Son of God"`, hex: "#52b1e0" },
+        { query: `file:"Son of Man"`, hex: "#5252e0" },
+        { query: "file:Savior", hex: "#b152e0" },
+      ],
       note: "The pages that bear His name — instant on a phone",
     },
   },
@@ -147,6 +163,7 @@ const MOBILE_FLOOR: Record<string, unknown> = {
 /** the perf floor every preset stands on */
 function optionsFor(p: GraphPreset): Record<string, unknown> {
   const mobile = Platform.isMobile;
+  const groups = (mobile && p.mobile?.groups) || p.groups;
   return {
     "collapse-filter": true,
     search: (mobile && p.mobile?.search) || p.search,
@@ -155,7 +172,7 @@ function optionsFor(p: GraphPreset): Record<string, unknown> {
     hideUnresolved: true,
     showOrphans: false,
     "collapse-color-groups": true,
-    colorGroups: p.groups.map(g => ({ query: g.query, color: { a: 1, rgb: hexToInt(g.hex) } })),
+    colorGroups: groups.map(g => ({ query: g.query, color: { a: 1, rgb: hexToInt(g.hex) } })),
     "collapse-display": true,
     showArrow: false,
     textFadeMultiplier: -0.4,
@@ -408,7 +425,8 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
     if (nodesAt === null && ((ms > EMPTY_MAX_MS && !scanning) || ms > CEILING_MS)) {
       window.clearInterval(tick);
       done(scanning ? "ceiling" : "empty-cap", 0);
-      new Notice("The graph never filled in — ✕ or the back arrow returns to the shelf.");
+      goBack(leaf);   // an empty graph isn't a destination — return to the shelf
+      new Notice("That graph never filled in — brought you back to the shelf.");
     }
   }, 150);
 }
