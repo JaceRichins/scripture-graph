@@ -259,13 +259,15 @@ export class TimelineView extends ItemView {
   constructor(leaf: WorkspaceLeaf, private s: SGState) {
     super(leaf);
     this.navigation = true;   // a page: replaceable in-place, back-arrow aware
-    const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 } }).device;
-    if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
+    const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 | 3 } }).device;
+    if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
+      this.depth = dev.tlDepth;
+    }
   }
 
   private saveDepth(): void {
     const s = this.s as unknown as {
-      device?: { tlDepth?: 1 | 2 }; saveDevice?: () => Promise<void>;
+      device?: { tlDepth?: 1 | 2 | 3 }; saveDevice?: () => Promise<void>;
     };
     if (s.device) { s.device.tlDepth = this.depth; void s.saveDevice?.(); }
   }
@@ -454,9 +456,10 @@ export class TimelineView extends ItemView {
     if (this.data.threads?.length) {
       const seg = row2.createDiv({ cls: "sg-tl-seg" });
       seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
-      const segDefs: [1 | 2, string, string][] = [
+      const segDefs: [1 | 2 | 3, string, string][] = [
         [1, "1", "One line per world"],
         [2, "2", "Split the storylines apart"],
+        [3, "✨", "Constellation — the living web across time"],
       ];
       for (const [d, label, hint] of segDefs) {
         const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
@@ -578,10 +581,16 @@ export class TimelineView extends ItemView {
   private renderStream(): void {
     const stream = this.streamEl;
     if (!stream) return;
+    this.graph?.destroy();
+    this.graph = null;
     stream.empty();
+    stream.removeClass("sg-tg-host");
     this.clearDetail();
     this.yById.clear();
     this.yByYear = [];
+    // ✨ depth 3: the SVG stream stands aside and the physics sky takes
+    // the stage — the classic renderer below is untouched, one tap away
+    if (this.depth === 3) { this.mountTimeGraph(stream); return; }
     const events = this.visible();
     if (!events.length) {
       const empty = stream.createDiv({ cls: "sg-tl-empty" });
