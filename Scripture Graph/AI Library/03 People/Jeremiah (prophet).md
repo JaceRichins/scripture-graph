@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **627 BC–609 BC** — Jeremiah's covenant sermon in Judah's cities · [[Jeremiah 11]] · [[700-601 BC]] *(traditional dating)*
 - **609 BC–598 BC** — Jeremiah tests the Rechabites during Jehoiakim's reign · [[Jeremiah 35]] · [[700-601 BC]] *(approximate)*
 - **609 BC–608 BC** — Jeremiah's temple-gate sermon (Jeremiah 7 / parallel to Jer. 26) · [[Jeremiah 7]] · [[700-601 BC]] *(traditional dating)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*

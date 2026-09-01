@@ -42,6 +42,7 @@ _Not yet developed._
 - **760 BC–722 BC** — Amos and Hosea warn the north · [[Amos 5]] · [[Hosea 11]] · [[800-701 BC]] *(approximate)*
 - **755 BC–722 BC** — Hosea prophesies through Israel's final kings · [[Hosea 10]] · [[800-701 BC]] *(approximate)*
 - **753 BC–732 BC** — Israelite throne instability, multiple usurper kings · [[Hosea 8]] · [[800-701 BC]] *(historical)*
+- **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyrian conquest of Samaria (background referent of Ezek. 23:9-10) · [[Ezekiel 23]] · [[800-701 BC]] *(historical)*
 - **722 BC–721 BC** — Assyrian conquest ends the Northern Kingdom's monarchy · [[Hosea 10]] · [[800-701 BC]] *(historical)*

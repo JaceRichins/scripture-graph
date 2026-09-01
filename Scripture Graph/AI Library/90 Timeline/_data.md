@@ -5110,6 +5110,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-8-f50c86cf",
+   "t": "Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria",
+   "y0": -734,
+   "y1": -722,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Isaiah 8:1-4's child-naming sign is generally correlated with Tiglath-Pileser III's 734-732 BC campaigns against Damascus and Israelite territory, with Samaria's final fall following in 722 BC under Sargon II.",
+   "chapters": [
+    "Isaiah 8"
+   ],
+   "people": [
+    "Isaiah",
+    "Rezin",
+    "Remaliah's son (Pekah)"
+   ],
+   "places": [
+    "Damascus",
+    "Samaria"
+   ]
+  },
+  {
+   "id": "r-jer-11-724136e0",
+   "t": "Jeremiah's covenant sermon in Judah's cities",
+   "y0": -627,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Many commentators associate this covenant-renewal oracle with the reign of Josiah, possibly connected to the covenant renewal following the discovery of the law book (2 Kings 23:1-3), though the exact occasion and date within Jeremiah's ministry are debated among scholars.",
+   "chapters": [
+    "Jeremiah 11"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Anathoth"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,
