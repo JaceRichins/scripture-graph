@@ -522,8 +522,6 @@ export class TimelineView extends ItemView {
         }
         m.showAtMouseEvent(ev);
       });
-    tool("🎯 Focus", "Follow one person, place, or thing through time", false,
-      () => new SubjectPickerModal(this.s, this, (sub) => this.setFocus(sub)).open());
     tool("🔍", "Find a person, place, or event", this.showSearch || !!this.query,
       () => {
         this.showSearch = !this.showSearch;
@@ -1204,20 +1202,20 @@ export class TimelineView extends ItemView {
       return;
     }
     this.graph = new TimeGraph(stream, {
+      app: this.s.app,
       events,
+      bookYears: this.data?.book_years ?? {},
       focuses: this.focuses.map((f, i) => ({
         ...f, accent: accentAt(i, this.focuses.length),
       })),
-      narrative: NARRATIVE_LINKS,
       eras: ERAS.map(e => ({
         ...e, tint: ERA_TINT[e.label] ?? "rgba(255,255,255,0.03)",
       })),
       laneColor: LANE_COLOR,
       laneF: LANE_F,
     }, {
-      onFocusSubject: sub => this.setFocus(sub),
-      onOpenEntity: name => void this.s.app.workspace.openLinkText(name, ""),
-      onOpenChapter: t => void this.s.app.workspace.openLinkText(t, ""),
+      onOpenPath: p => void this.s.app.workspace.openLinkText(p, ""),
+      onOpenLink: t => void this.s.app.workspace.openLinkText(t, ""),
     });
   }
 
