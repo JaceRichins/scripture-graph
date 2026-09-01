@@ -6192,6 +6192,7 @@ var init_timelineView = __esm({
       constructor(leaf, s) {
         super(leaf);
         this.s = s;
+        this.navigation = true;
         const dev = s.device;
         if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
       }
@@ -8334,7 +8335,7 @@ async function openLocalGraphFor(s, linkText) {
   if (!f) return void new import_obsidian12.Notice(`Can't find \u201C${linkText}\u201D`);
   const ws = s.app.workspace;
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
-  const leaf = ws.getLeaf(import_obsidian12.Platform.isMobile ? "tab" : "split");
+  const leaf = import_obsidian12.Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
   const GRAPH_OPTS = {
     textFadeMultiplier: 3,
     nodeSizeMultiplier: 1.4,
@@ -8384,13 +8385,19 @@ async function openLocalGraphFor(s, linkText) {
     window.setTimeout(pushOptions, 800);
     window.setTimeout(pushOptions, 1800);
   }
-  if (import_obsidian12.Platform.isMobile && returnLeaf) {
+  if (import_obsidian12.Platform.isMobile) {
     const container = leaf.view?.containerEl;
     if (container) {
       const back = container.createDiv({ cls: "sg-graph-back", text: `\u2190 ${linkText}` });
       back.onclick = () => {
-        leaf.detach?.();
-        ws.setActiveLeaf?.(returnLeaf, { focus: true });
+        if (returnLeaf && returnLeaf !== leaf) {
+          leaf.detach?.();
+          ws.setActiveLeaf?.(returnLeaf, { focus: true });
+          return;
+        }
+        const hist = leaf.history;
+        if (hist?.back && (hist.backHistory?.length ?? 0) > 0) hist.back();
+        else void s.app.workspace.openLinkText(linkText, "");
       };
     }
   }
@@ -9280,8 +9287,10 @@ async function openGraphPreset(app, p) {
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch {
   }
-  for (const l of app.workspace.getLeavesOfType("graph")) l.detach();
-  const leaf = app.workspace.getLeaf(true);
+  const leaf = app.workspace.getLeaf(false);
+  for (const l of app.workspace.getLeavesOfType("graph")) {
+    if (l !== leaf) l.detach();
+  }
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
   const host = leaf.view.containerEl;
@@ -9894,6 +9903,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     super(leaf);
     this.s = s;
     this.host = host;
+    this.navigation = true;
   }
   view = { kind: "home" };
   trail = [];
@@ -11591,6 +11601,7 @@ var ReaderView = class extends import_obsidian17.ItemView {
     this.s = s;
     this.ann = ann;
     this.openAsk = openAsk;
+    this.navigation = true;
   }
   chapterTitle = null;
   activeLenses = /* @__PURE__ */ new Set(["doctrine", "related"]);
@@ -11603,6 +11614,19 @@ var ReaderView = class extends import_obsidian17.ItemView {
   }
   getIcon() {
     return "book-open";
+  }
+  /** the chapter rides the leaf state, so tab history (and the back
+   * arrow) can restore exactly the page you were reading */
+  getState() {
+    return { chapter: this.chapterTitle };
+  }
+  async setState(state, result) {
+    await super.setState(state, result);
+    const ch = state?.chapter;
+    if (typeof ch === "string" && ch && ch !== this.chapterTitle) {
+      this.chapterTitle = ch;
+      if (this.contentEl.hasClass("sg-reader")) await this.render();
+    }
   }
   async setChapter(title) {
     this.chapterTitle = title;
@@ -13150,7 +13174,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
   async openTimeline(year) {
     let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
     if (!leaf) {
-      leaf = this.app.workspace.getLeaf(true);
+      leaf = this.app.workspace.getLeaf(false);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
@@ -13235,7 +13259,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
-        leaf = this.app.workspace.getLeaf(true);
+        leaf = this.app.workspace.getLeaf(false);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -13246,7 +13270,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
-        leaf = this.app.workspace.getLeaf(true);
+        leaf = this.app.workspace.getLeaf(false);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -13482,16 +13506,14 @@ ${text.trim()}
     if (view instanceof AskView) view.setAnchor(chapterTitle2, verseId, seed);
   }
   async openReader(title) {
-    const leaf = await this.ensureLeaf(READER_VIEW, "tab");
-    if (!leaf) return;
+    const leaf = this.app.workspace.getLeavesOfType(READER_VIEW)[0] ?? this.app.workspace.getLeaf(false);
+    await leaf.setViewState({ type: READER_VIEW, state: { chapter: title }, active: true });
     await this.app.workspace.revealLeaf(leaf);
-    const view = leaf.view;
-    if (view instanceof ReaderView) await view.setChapter(title);
   }
   async ensureLeaf(type, where) {
     const existing = this.app.workspace.getLeavesOfType(type)[0];
     if (existing) return existing;
-    const leaf = where === "right" ? this.app.workspace.getRightLeaf(false) : this.app.workspace.getLeaf("tab");
+    const leaf = where === "right" ? this.app.workspace.getRightLeaf(false) : this.app.workspace.getLeaf(false);
     if (leaf) await leaf.setViewState({ type, active: true });
     return leaf;
   }

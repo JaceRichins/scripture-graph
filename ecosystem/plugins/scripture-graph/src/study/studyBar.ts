@@ -39,8 +39,9 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
     setActiveLeaf?: (l: unknown, o?: unknown) => void;
   };
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
-  // desktop: side-by-side so the reading stays visible; mobile: new tab
-  const leaf = ws.getLeaf(Platform.isMobile ? "tab" : "split");
+  // desktop: side-by-side so the reading stays visible; mobile: the graph
+  // replaces the page IN PLACE — new tabs belong to the + button alone
+  const leaf = Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
   const GRAPH_OPTS = {
     textFadeMultiplier: 3, nodeSizeMultiplier: 1.4, lineSizeMultiplier: 1,
     showArrow: false, localJumps: 1, localBacklinks: true,
@@ -84,14 +85,25 @@ export async function openLocalGraphFor(s: SGState, linkText: string | null): Pr
     window.setTimeout(pushOptions, 800);
     window.setTimeout(pushOptions, 1800);
   }
-  // mobile: a floating "← back" pill returns exactly to the reading spot
-  if (Platform.isMobile && returnLeaf) {
+  // mobile: a floating "← back" pill returns exactly to the reading spot.
+  // The graph now lives in the SAME leaf, so going back means walking the
+  // tab's own history — with a plain re-open as the fallback.
+  if (Platform.isMobile) {
     const container = leaf.view?.containerEl;
     if (container) {
       const back = container.createDiv({ cls: "sg-graph-back", text: `← ${linkText}` });
       back.onclick = () => {
-        leaf.detach?.();
-        ws.setActiveLeaf?.(returnLeaf, { focus: true });
+        if (returnLeaf && returnLeaf !== (leaf as unknown)) {
+          // a distinct originating leaf still exists (e.g. older layouts)
+          leaf.detach?.();
+          ws.setActiveLeaf?.(returnLeaf, { focus: true });
+          return;
+        }
+        const hist = (leaf as unknown as {
+          history?: { back?: () => void; backHistory?: unknown[] };
+        }).history;
+        if (hist?.back && (hist.backHistory?.length ?? 0) > 0) hist.back();
+        else void s.app.workspace.openLinkText(linkText, "");
       };
     }
   }

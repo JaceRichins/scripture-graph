@@ -216,9 +216,13 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
   try {
     await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
   } catch { /* the engine push below still applies the preset */ }
-  // a fresh view reads the fresh config
-  for (const l of app.workspace.getLeavesOfType("graph")) l.detach();
-  const leaf = app.workspace.getLeaf(true);
+  // navigation rule: the graph REPLACES the current page — the back arrow
+  // returns to the shelf — and never mints a tab. Stray graph tabs from
+  // before fold away first so the fresh config is the only graph alive.
+  const leaf = app.workspace.getLeaf(false);
+  for (const l of app.workspace.getLeavesOfType("graph")) {
+    if (l !== leaf) l.detach();
+  }
   await leaf.setViewState({ type: "graph", active: true });
   await app.workspace.revealLeaf(leaf);
   const host = (leaf.view as unknown as { containerEl?: HTMLElement }).containerEl;

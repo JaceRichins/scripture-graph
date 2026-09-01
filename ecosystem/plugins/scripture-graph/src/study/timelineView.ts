@@ -187,6 +187,7 @@ export class TimelineView extends ItemView {
 
   constructor(leaf: WorkspaceLeaf, private s: SGState) {
     super(leaf);
+    this.navigation = true;   // a page: replaceable in-place, back-arrow aware
     const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 } }).device;
     if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
   }

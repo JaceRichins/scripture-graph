@@ -470,7 +470,8 @@ export default class SGPlugin extends Plugin {
   async openTimeline(year: number | null): Promise<void> {
     let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
     if (!leaf) {
-      leaf = this.app.workspace.getLeaf(true);
+      // replace the current page (history remembers it) — never mint a tab
+      leaf = this.app.workspace.getLeaf(false);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
@@ -564,7 +565,8 @@ export default class SGPlugin extends Plugin {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
-        leaf = this.app.workspace.getLeaf(true);
+        // replace the current page (history remembers it) — never mint a tab
+        leaf = this.app.workspace.getLeaf(false);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -576,7 +578,7 @@ export default class SGPlugin extends Plugin {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
-        leaf = this.app.workspace.getLeaf(true);
+        leaf = this.app.workspace.getLeaf(false);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
@@ -847,11 +849,12 @@ export default class SGPlugin extends Plugin {
   }
 
   async openReader(title: string): Promise<void> {
-    const leaf = await this.ensureLeaf(READER_VIEW, "tab");
-    if (!leaf) return;
+    // one setViewState carrying the chapter = one clean history step, so
+    // the back arrow retraces chapter → chapter → … → root navigator
+    const leaf = this.app.workspace.getLeavesOfType(READER_VIEW)[0]
+      ?? this.app.workspace.getLeaf(false);
+    await leaf.setViewState({ type: READER_VIEW, state: { chapter: title }, active: true });
     await this.app.workspace.revealLeaf(leaf);
-    const view = leaf.view;
-    if (view instanceof ReaderView) await view.setChapter(title);
   }
 
   private async ensureLeaf(type: string, where: "right" | "tab"): Promise<WorkspaceLeaf | null> {
@@ -859,7 +862,7 @@ export default class SGPlugin extends Plugin {
     if (existing) return existing;
     const leaf = where === "right"
       ? this.app.workspace.getRightLeaf(false)
-      : this.app.workspace.getLeaf("tab");
+      : this.app.workspace.getLeaf(false);   // in-place, not a fresh tab
     if (leaf) await leaf.setViewState({ type, active: true });
     return leaf;
   }

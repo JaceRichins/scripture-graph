@@ -1,6 +1,6 @@
 /** The purpose-built chapter reader (§16): canonical text + lenses over the
  * study guide + social layer + Ask AI — one clean, mobile-friendly surface. */
-import { ItemView, MarkdownRenderer, Menu, TFile, WorkspaceLeaf } from "obsidian";
+import { ItemView, MarkdownRenderer, Menu, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import {
   chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter, sectionIsEmpty, sections,
 } from "@scripture-graph/core-sdk";
@@ -29,11 +29,28 @@ export class ReaderView extends ItemView {
   constructor(leaf: WorkspaceLeaf, private s: SGState, private ann: AnnotationService,
     private openAsk: (chapter: string | null, verse: string | null, seed?: string) => void) {
     super(leaf);
+    this.navigation = true;   // a page: replaceable in-place, back-arrow aware
   }
 
   getViewType() { return READER_VIEW; }
   getDisplayText() { return this.chapterTitle ?? "Scripture Graph"; }
   getIcon() { return "book-open"; }
+
+  /** the chapter rides the leaf state, so tab history (and the back
+   * arrow) can restore exactly the page you were reading */
+  getState(): Record<string, unknown> {
+    return { chapter: this.chapterTitle };
+  }
+
+  async setState(state: unknown, result: ViewStateResult): Promise<void> {
+    await super.setState(state, result);
+    const ch = (state as { chapter?: unknown } | null)?.chapter;
+    if (typeof ch === "string" && ch && ch !== this.chapterTitle) {
+      this.chapterTitle = ch;
+      // render now if the view is already attached; onOpen covers the rest
+      if (this.contentEl.hasClass("sg-reader")) await this.render();
+    }
+  }
 
   async setChapter(title: string) {
     this.chapterTitle = title;

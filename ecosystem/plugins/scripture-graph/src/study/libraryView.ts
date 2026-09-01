@@ -35,6 +35,9 @@ export class SGLibraryView extends ItemView {
 
   constructor(leaf: WorkspaceLeaf, private s: SGState, private host: NavigatorHost) {
     super(leaf);
+    // a PAGE, not a panel: opens replace this leaf and the tab's back
+    // arrow returns here — only Obsidian's + button makes new tabs
+    this.navigation = true;
   }
 
   getViewType(): string { return LIBRARY_VIEW; }
