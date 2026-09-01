@@ -4832,6 +4832,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-19-ff9e17be",
+   "t": "Destruction of Sodom and Gomorrah (patriarchal era)",
+   "y0": -2000,
+   "y1": -1850,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed within the traditional patriarchal chronology associated with Abraham and Lot; absolute dating is not fixed by the biblical text and remains disputed among historians and archaeologists (e.g., proposed but contested identifications with Early Bronze Age sites near the Dead Sea).",
+   "chapters": [
+    "Genesis 19"
+   ],
+   "people": [
+    "Abraham",
+    "Lot"
+   ],
+   "places": [
+    "Sodom",
+    "Gomorrah"
+   ]
+  },
+  {
+   "id": "r-gen-24-5a039858",
+   "t": "Isaac's Marriage to Rebekah",
+   "y0": -1900,
+   "y1": -1890,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional harmonized biblical chronology (e.g. Ussher-style) places this shortly after Sarah's death, near Isaac's marriage at about age 40 (cf. Genesis 25:20); absolute dates are not independently confirmed.",
+   "chapters": [
+    "Genesis 24"
+   ],
+   "people": [
+    "Abraham",
+    "Isaac",
+    "Rebekah",
+    "Laban"
+   ],
+   "places": [
+    "Mesopotamia (city of Nahor)",
+    "Beer-lahai-roi"
+   ]
+  },
+  {
    "id": "r-jer-27-63d4e2c9",
    "t": "Jeremiah urges submission after Jeconiah's deportation",
    "y0": -597,

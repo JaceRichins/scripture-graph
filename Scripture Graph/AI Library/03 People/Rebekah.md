@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **1900 BC–1890 BC** — Isaac's Marriage to Rebekah · [[Genesis 24]] · [[1900-1801 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

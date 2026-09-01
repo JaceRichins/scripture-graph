@@ -33,3 +33,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **2000 BC–1850 BC** — Destruction of Sodom and Gomorrah (patriarchal era) · [[Genesis 19]] · [[2000-1901 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->
