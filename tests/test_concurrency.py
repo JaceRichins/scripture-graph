@@ -379,33 +379,57 @@ def test_a_rollback_in_one_worker_does_not_eat_a_peers_chapter(
     assert not gitops.is_dirty(ctx), "the vault is clean after a mid-flight rollback"
 
 
-def test_parallel_workers_take_ai_jobs_only(mini_ctx, monkeypatch):
-    """A deterministic pass renders vault files outside the landing lock. If a
-    worker could claim one while a peer's research job rolled back, the render
-    would be reverted with `mark_pass` already recording it done."""
-    taken: list[str] = []
+def test_deterministic_passes_drain_but_never_beside_an_ai_job(mini_ctx, monkeypatch):
+    """A deterministic pass renders vault files outside the landing lock, so it
+    must never run while a research job might roll back. But it must still RUN:
+    the nightly enqueues eleven deterministic waves and then processes the queue
+    with include_ai=True, so a parallel phase that merely refused to claim them
+    would have stopped the nightly refresh silently."""
+    live = {"pass": 0, "job": 0}
+    worst = {"overlap": 0}
     guard = threading.Lock()
 
-    def handler(ctx, target):
-        with guard:
-            taken.append(target)
-        return {}
+    def make(kind):
+        def handler(ctx, target):
+            with guard:
+                live[kind] += 1
+                if live["pass"] and live["job"]:
+                    worst["overlap"] += 1
+            time.sleep(0.02)
+            with guard:
+                live[kind] -= 1
+            return {}
+        return handler
 
-    _install_pass(monkeypatch, "research", handler, mode="ai")
-    _install_pass(monkeypatch, "entities", handler, mode="deterministic")
-    _enqueue(mini_ctx, 4, task_type="pass", pass_name="entities")
-    _enqueue(mini_ctx, 4, task_type="job", pass_name="research")
+    _install_pass(monkeypatch, "research", make("job"), mode="ai")
+    _install_pass(monkeypatch, "entities", make("pass"), mode="deterministic")
+    _enqueue(mini_ctx, 6, task_type="pass", pass_name="entities")
+    _enqueue(mini_ctx, 6, task_type="job", pass_name="research")
 
     stats = waves.process_queue(mini_ctx, include_ai=True, workers=3)
 
-    assert stats["done"] == 4 and stats["ai_done"] == 4
-    left = mini_ctx.db().execute(
-        "SELECT task_type, status, COUNT(*) c FROM work_queue "
-        "GROUP BY task_type, status").fetchall()
-    assert [dict(r) for r in left] == [{"task_type": "pass", "status": "pending", "c": 4}], \
-        "the deterministic rows must be left for the single-threaded phase"
+    assert stats["done"] == 12, f"all work must drain, not just the jobs: {stats}"
+    assert stats["ai_done"] == 6
+    assert worst["overlap"] == 0,         "a deterministic render ran while a research job could roll back over it"
+    assert q.counts(mini_ctx) == {}, "the queue is drained"
 
-    # ...and a single worker still drains both, exactly as before
-    stats = waves.process_queue(mini_ctx, include_ai=True, workers=1)
-    assert stats["done"] == 4
-    assert q.counts(mini_ctx) == {}
+
+def test_a_deadline_in_the_deterministic_phase_stops_the_ai_phase(
+        mini_ctx, monkeypatch):
+    """The deterministic phase runs first and shares the run's deadline. If it
+    used the whole window, no AI job may start after it."""
+    def slow(ctx, target):
+        time.sleep(0.05)
+        return {}
+
+    _install_pass(monkeypatch, "research", slow, mode="ai")
+    _install_pass(monkeypatch, "entities", slow, mode="deterministic")
+    _enqueue(mini_ctx, 30, task_type="pass", pass_name="entities")
+    _enqueue(mini_ctx, 5, task_type="job", pass_name="research")
+
+    stats = waves.process_queue(mini_ctx, include_ai=True, workers=3,
+                                deadline_ts=time.time() + 0.3)
+    assert stats.get("deadline_hit")
+    assert stats["ai_done"] == 0, "no AI job may start past the deadline"
+    assert mini_ctx.db().execute(
+        "SELECT COUNT(*) c FROM work_queue WHERE status='running'").fetchone()["c"] == 0
