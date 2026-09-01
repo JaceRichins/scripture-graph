@@ -177,6 +177,13 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
 
     stats = {"done": 0, "failed": 0, "ai_done": 0, "skipped_ai": 0}
     task_types = ("pass", "job", "maintenance") if include_ai else ("pass", "maintenance")
+    if workers > 1:
+        # Parallel means AI jobs ONLY. Deterministic passes render vault files
+        # outside the landing lock, so a peer job's `hard_restore` would revert
+        # a finished render while `mark_pass` had already recorded it done at
+        # the current corpus version — silently losing it until the next corpus
+        # bump re-opens the pass. They get their own single-threaded phase.
+        task_types = ("job",)
     lock = threading.Lock()
     state = {"stop": False, "ai_inflight": 0, "consec_failures": 0}
     if workers > 1:
