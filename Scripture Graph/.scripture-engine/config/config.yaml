@@ -38,7 +38,7 @@ automation:
   # landing, so workers buy nearly linear throughput. Raised from 1 on
   # 2026-09-01. The governor still paces AI spend; Codex is the constrained
   # provider (the engine is ~34% of its weekly tokens), Claude has the room.
-  workers: 2
+  workers: 3
 
 bootstrap:
   ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
