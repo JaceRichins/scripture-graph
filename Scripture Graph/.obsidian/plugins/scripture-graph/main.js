@@ -9284,6 +9284,7 @@ var SETTLE_MS = { light: 450, medium: 700, heavy: 1e3 };
 var HANDOVER_MS = 6e3;
 var EMPTY_MAX_MS = 3e4;
 var SLOW_NOTE_MS = 8e3;
+var MOBILE_PANIC_NODES = 4500;
 function raiseVeil(p) {
   const veil = document.body.createDiv({ cls: "sg-gveil" });
   const hexes = p.groups.length ? p.groups.map((g) => g.hex) : ["#8fb8ff"];
@@ -9332,21 +9333,28 @@ async function openGraphPreset(app, p) {
     await app.vault.adapter.write(`${cfg}.bak`, prev);
   } catch {
   }
-  try {
-    await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
-  } catch {
+  const inst = app.internalPlugins?.getPluginById?.("graph")?.instance;
+  if (inst) {
+    inst.options = Object.assign({}, inst.options, opts);
+    try {
+      inst.saveOptions?.();
+    } catch {
+    }
   }
   if (veil.cancelled()) {
     trace("gpreset.cancel", { id: p.id, at: "write" });
     return;
   }
-  trace("gpreset.open", { id: p.id, mobile: import_obsidian2.Platform.isMobile });
+  trace("gpreset.open", { id: p.id, mobile: import_obsidian2.Platform.isMobile, inst: !!inst });
   const leaf = app.workspace.getLeaf(false);
   for (const l of app.workspace.getLeavesOfType("graph")) {
     if (l !== leaf) l.detach();
   }
-  recordHistory(leaf);
-  await leaf.setViewState({ type: "graph", active: true });
+  const already = leaf.view?.getViewType?.() === "graph";
+  if (!already) {
+    recordHistory(leaf);
+    await leaf.setViewState({ type: "graph", active: true });
+  }
   await app.workspace.revealLeaf(leaf);
   veil.onCancel(() => goBack(leaf));
   if (veil.cancelled()) {
@@ -9359,6 +9367,7 @@ async function openGraphPreset(app, p) {
     const engine = view?.dataEngine ?? view?.engine;
     if (engine?.setOptions) {
       engine.setOptions(opts);
+      engine.requestUpdateSearch?.run?.();
       window.clearInterval(pushTick);
       trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
     } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
@@ -9395,6 +9404,14 @@ function watchSettle(leaf, p, veil) {
     const r = leaf.view.renderer;
     const n = r?.nodes?.length ?? 0;
     const ms = Date.now() - t0;
+    if (import_obsidian2.Platform.isMobile && n > MOBILE_PANIC_NODES) {
+      window.clearInterval(tick);
+      veil.lower();
+      goBack(leaf);
+      new import_obsidian2.Notice("That graph came back far too big for a phone \u2014 backed out safely.");
+      trace("gpreset.panic", { id: p.id, n, ms });
+      return;
+    }
     if (n > 0) {
       if (nodesAt === null) {
         nodesAt = Date.now();

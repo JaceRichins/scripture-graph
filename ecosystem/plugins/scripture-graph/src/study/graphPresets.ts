@@ -195,6 +195,16 @@ interface Veil {
   onCancel: (fn: () => void) => void;
 }
 
+interface GraphEngine {
+  setOptions?: (o: unknown) => void;
+  /** debounced search applier — setOptions stores the query, THIS runs it */
+  requestUpdateSearch?: { run?: () => void };
+}
+
+/** a phone should never be asked to draw this many nodes — if a filter
+ * ever fails to take again, back out instead of letting the GPU die */
+const MOBILE_PANIC_NODES = 4500;
+
 /** The Graphs-shelf icon come alive, floating over the graph itself: the
  * center stays see-through so the web visibly assembles beneath the
  * constellation, dots glowing in the preset's own colors. Lives on
@@ -256,13 +266,21 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
     const prev = await app.vault.adapter.read(cfg);
     await app.vault.adapter.write(`${cfg}.bak`, prev);
   } catch { /* nothing there yet: nothing to save */ }
-  try {
-    // written BEFORE the view opens so the engine's first read is already
-    // the filtered set — never a 10k-node false start
-    await app.vault.adapter.write(cfg, JSON.stringify(opts, null, 2));
-  } catch { /* the engine push below still applies the preset */ }
+  // VERIFIED in Obsidian's own app.js: a graph view's onload copies
+  // internalPlugins("graph").instance.options into its engine and runs
+  // requestUpdateSearch — graph.json is only read at app START. v0.51
+  // wrote the file and left the stale in-memory options winning, which
+  // handed a phone all 10,037 nodes. The INSTANCE is the config.
+  const inst = (app as unknown as {
+    internalPlugins?: { getPluginById?: (id: string) =>
+      { instance?: { options?: Record<string, unknown>; saveOptions?: () => void } } | null };
+  }).internalPlugins?.getPluginById?.("graph")?.instance;
+  if (inst) {
+    inst.options = Object.assign({}, inst.options, opts);
+    try { inst.saveOptions?.(); } catch { /* persistence is best-effort */ }
+  }
   if (veil.cancelled()) { trace("gpreset.cancel", { id: p.id, at: "write" }); return; }
-  trace("gpreset.open", { id: p.id, mobile: Platform.isMobile });
+  trace("gpreset.open", { id: p.id, mobile: Platform.isMobile, inst: !!inst });
   // navigation rule: the graph REPLACES the current page — the back arrow
   // returns to the shelf — and never mints a tab. Stray graph tabs from
   // before fold away first so the fresh config is the only graph alive.
@@ -270,23 +288,34 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
   for (const l of app.workspace.getLeavesOfType("graph")) {
     if (l !== leaf) l.detach();
   }
-  recordHistory(leaf);   // the page being left is one back-arrow away
-  await leaf.setViewState({ type: "graph", active: true });
+  // setViewState to the SAME view type is a silent no-op (the log's
+  // "couldn't render again"): when we're already on a graph, skip it and
+  // let the engine push below re-filter the live view in place — that's
+  // also the fastest path, no view rebuild, no cache reload.
+  const already = (leaf.view as { getViewType?: () => string } | undefined)
+    ?.getViewType?.() === "graph";
+  if (!already) {
+    recordHistory(leaf);   // the page being left is one back-arrow away
+    await leaf.setViewState({ type: "graph", active: true });
+  }
   await app.workspace.revealLeaf(leaf);
   // once a view exists, escape = back the way you came
   veil.onCancel(() => goBack(leaf));
   if (veil.cancelled()) { goBack(leaf); return; }
-  // hammer the options in on a tight loop until the engine exists — the
-  // sooner they land, the sooner physics runs on the FILTERED set
+  // hammer the options in on a tight loop until the engine exists — and
+  // ALWAYS chase setOptions with requestUpdateSearch.run(): setOptions
+  // stores the search string but only that runner applies the filter
+  // (Obsidian's own view onload does exactly this pair)
   const t0 = Date.now();
   const pushTick = window.setInterval(() => {
     const view = leaf.view as unknown as {
-      dataEngine?: { setOptions?: (o: unknown) => void };
-      engine?: { setOptions?: (o: unknown) => void };
+      dataEngine?: GraphEngine;
+      engine?: GraphEngine;
     } | undefined;
     const engine = view?.dataEngine ?? view?.engine;   // global graph = .dataEngine
     if (engine?.setOptions) {
       engine.setOptions(opts);
+      engine.requestUpdateSearch?.run?.();
       window.clearInterval(pushTick);
       trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
     } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
@@ -335,6 +364,16 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
     }).renderer;
     const n = r?.nodes?.length ?? 0;
     const ms = Date.now() - t0;
+    if (Platform.isMobile && n > MOBILE_PANIC_NODES) {
+      // the filter didn't take (or a preset is mis-scoped) — this is the
+      // exact failure that froze the iPhone; bail out, don't render it
+      window.clearInterval(tick);
+      veil.lower();
+      goBack(leaf);
+      new Notice("That graph came back far too big for a phone — backed out safely.");
+      trace("gpreset.panic", { id: p.id, n, ms });
+      return;
+    }
     if (n > 0) {
       if (nodesAt === null) {
         nodesAt = Date.now();
