@@ -1934,3 +1934,37 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
   background: color-mix(in srgb, #e0847c 12%, transparent);
 }
 
+/* 🕸 loading veil — the Graphs icon come alive while the web settles.
+   It sits over the graph view and eats touches until the physics calm
+   down (panning mid-settle is what crashes phones); a tap dismisses. */
+.sg-gveil {
+  position: absolute; inset: 0; z-index: 30;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 10px; cursor: pointer;
+  background: color-mix(in srgb, var(--background-primary) 82%, transparent);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  opacity: 1; transition: opacity 0.45s ease;
+}
+.sg-gveil-out { opacity: 0; pointer-events: none; }
+.sg-gveil-art { width: 96px; height: 96px; }
+.sg-gveil-art svg { width: 100%; height: 100%; overflow: visible; }
+.sg-gveil-lines {
+  fill: none; stroke: color-mix(in srgb, var(--text-muted) 65%, transparent);
+  stroke-width: 0.9; stroke-linecap: round;
+  stroke-dasharray: 9; animation: sg-gveil-weave 2.6s linear infinite;
+}
+.sg-gveil-dot {
+  transform-box: fill-box; transform-origin: center;
+  animation: sg-gveil-pulse 1.8s ease-in-out infinite;
+}
+@keyframes sg-gveil-weave { to { stroke-dashoffset: -18; } }
+@keyframes sg-gveil-pulse {
+  0%, 100% { opacity: 0.45; transform: scale(0.82); }
+  40% { opacity: 1; transform: scale(1.12); }
+}
+.sg-gveil-name { font-weight: 700; font-size: 1.05em; }
+.sg-gveil-sub {
+  color: var(--text-muted); font-size: 0.85em;
+  font-variant-numeric: tabular-nums;
+}
+

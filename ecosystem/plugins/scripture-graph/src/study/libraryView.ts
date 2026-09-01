@@ -7,7 +7,7 @@
  * puts above each one. The Scriptures cover is the photo's black jacket
  * with the four works gold-stamped down its front; it drills to the five
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
-import { ItemView, WorkspaceLeaf } from "obsidian";
+import { ItemView, Platform, WorkspaceLeaf } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
 import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
@@ -285,7 +285,11 @@ export class SGLibraryView extends ItemView {
       navIcon(row, p.icon);
       const col = row.createDiv({ cls: "sg-nav-gcol" });
       col.createDiv({ cls: "sg-nav-name", text: p.name });
-      col.createDiv({ cls: "sg-nav-gsub", text: p.desc });
+      col.createDiv({
+        cls: "sg-nav-gsub",
+        // phones get the trimmed view — say so on the shelf, not after
+        text: (Platform.isMobile && p.mobile?.note) || p.desc,
+      });
       row.createSpan({ cls: `sg-gp-weight sg-gp-${p.weight}`, text: p.weight });
       row.onclick = () => void openGraphPreset(this.app, p);
     }
