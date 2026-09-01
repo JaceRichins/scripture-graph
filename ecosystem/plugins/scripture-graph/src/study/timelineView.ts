@@ -1194,7 +1194,40 @@ export class TimelineView extends ItemView {
     stream.scrollTo({ top: Math.max(0, hit[1] - 64), behavior: "smooth" });
   }
 
+  /** the constellation mode: same scope (visible events, woven focuses),
+   * different physics — a live force sky where events are pinned to their
+   * years and every person/place/thing is ONE node across all of time */
+  private mountTimeGraph(stream: HTMLElement): void {
+    stream.addClass("sg-tg-host");
+    const events = this.visible();
+    if (!events.length) {
+      const empty = stream.createDiv({ cls: "sg-tl-empty" });
+      empty.createDiv({ text: "Nothing matches — every event is filtered out." });
+      const back = empty.createEl("button", { cls: "sg-tl-retry", text: "↺ Show everything" });
+      back.onclick = () => this.resetFilters();
+      return;
+    }
+    this.graph = new TimeGraph(stream, {
+      events,
+      focuses: this.focuses.map((f, i) => ({
+        ...f, accent: accentAt(i, this.focuses.length),
+      })),
+      narrative: NARRATIVE_LINKS,
+      eras: ERAS.map(e => ({
+        ...e, tint: ERA_TINT[e.label] ?? "rgba(255,255,255,0.03)",
+      })),
+      laneColor: LANE_COLOR,
+      laneF: LANE_F,
+    }, {
+      onFocusSubject: sub => this.setFocus(sub),
+      onOpenEntity: name => void this.s.app.workspace.openLinkText(name, ""),
+      onOpenChapter: t => void this.s.app.workspace.openLinkText(t, ""),
+    });
+  }
+
   async onClose(): Promise<void> {
+    this.graph?.destroy();
+    this.graph = null;
     window.removeEventListener("resize", this.boundResize);
     this.contentEl.empty();
   }

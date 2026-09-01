@@ -2106,3 +2106,63 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
   display: block; margin-top: 6px;
   font-size: 0.8em; color: var(--color-orange, #e0a35c);
 }
+
+/* ---- 🌌 constellation time-graph (depth ✨): the physics sky ---- */
+.sg-tl-stream.sg-tg-host {
+  position: relative; overflow: hidden;
+  height: max(420px, calc(100vh - 250px));
+  border-radius: 12px;
+}
+.sg-tg-canvas {
+  display: block; width: 100%; height: 100%;
+  touch-action: none;   /* our pinch/pan owns every finger here */
+}
+.sg-tg-legend {
+  position: absolute; top: 10px; left: 12px;
+  display: flex; gap: 10px; pointer-events: none;
+  padding: 5px 10px; border-radius: 999px;
+  background: color-mix(in srgb, var(--sg-space, #0d0d16) 62%, transparent);
+  font-size: 0.72em; color: var(--sg-mut, #9aa3bd);
+}
+.sg-tg-leg { display: inline-flex; align-items: center; gap: 5px; }
+.sg-tg-leg-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  box-shadow: 0 0 6px currentColor;
+}
+.sg-tg-hint {
+  position: absolute; left: 0; right: 0; text-align: center;
+  bottom: 8px; pointer-events: none;
+  font-size: 0.72em; color: color-mix(in srgb, var(--sg-mut, #9aa3bd) 65%, transparent);
+}
+/* tap a star → it introduces itself in a frosted card above the hint */
+.sg-tg-chip {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  bottom: 26px; max-width: min(92%, 480px); min-width: 220px;
+  padding: 10px 34px 10px 14px; border-radius: 14px;
+  background: rgba(17, 17, 27, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+}
+.sg-tg-chip-head { font-weight: 700; font-size: 0.95em; color: var(--sg-ink, #e7ebfa); }
+.sg-tg-chip-name { overflow-wrap: anywhere; }
+.sg-tg-chip-sub {
+  margin-top: 2px; font-size: 0.8em; line-height: 1.4;
+  color: var(--sg-mut, #9aa3bd);
+}
+.sg-tg-chip-row { display: flex; gap: 8px; margin-top: 8px; }
+.sg-tg-chip-btn {
+  min-height: 32px; padding: 0 12px; border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: none;
+  background: rgba(255, 255, 255, 0.06); color: var(--sg-ink, #e7ebfa);
+  font-size: 0.8em; font-weight: 600; cursor: pointer;
+}
+.sg-tg-chip-btn:hover { background: rgba(255, 255, 255, 0.11); }
+.sg-tg-chip-x {
+  position: absolute; top: 8px; right: 8px;
+  width: 26px; height: 26px; padding: 0; border-radius: 13px;
+  display: grid; place-items: center;
+  border: none; box-shadow: none; background: transparent;
+  color: var(--sg-mut, #9aa3bd); font-size: 0.85em; cursor: pointer;
+}
+.sg-tg-chip-x:hover { color: var(--sg-ink, #e7ebfa); background: rgba(255, 255, 255, 0.08); }

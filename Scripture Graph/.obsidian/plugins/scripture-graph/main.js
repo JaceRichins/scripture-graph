@@ -422,7 +422,7 @@ function addIssueToContext(ctx, issueData) {
       // then global override map
       overrideMap === en_default ? void 0 : en_default
       // then global default map
-    ].filter((x) => !!x)
+    ].filter((x3) => !!x3)
   });
   ctx.common.issues.push(issue);
 }
@@ -446,7 +446,7 @@ var init_parseUtil = __esm({
         };
       }
       let errorMessage = "";
-      const maps = errorMaps.filter((m) => !!m).slice().reverse();
+      const maps = errorMaps.filter((m2) => !!m2).slice().reverse();
       for (const map of maps) {
         errorMessage = map(fullIssue, { data, defaultError: errorMessage }).message;
       }
@@ -516,10 +516,10 @@ var init_parseUtil = __esm({
     });
     DIRTY = (value) => ({ status: "dirty", value });
     OK = (value) => ({ status: "valid", value });
-    isAborted = (x) => x.status === "aborted";
-    isDirty = (x) => x.status === "dirty";
-    isValid = (x) => x.status === "valid";
-    isAsync = (x) => typeof Promise !== "undefined" && x instanceof Promise;
+    isAborted = (x3) => x3.status === "aborted";
+    isDirty = (x3) => x3.status === "dirty";
+    isValid = (x3) => x3.status === "valid";
+    isAsync = (x3) => typeof Promise !== "undefined" && x3 instanceof Promise;
   }
 });
 
@@ -660,17 +660,17 @@ function deepPartialify(schema) {
     return schema;
   }
 }
-function mergeValues(a, b) {
-  const aType = getParsedType(a);
+function mergeValues(a2, b) {
+  const aType = getParsedType(a2);
   const bType = getParsedType(b);
-  if (a === b) {
-    return { valid: true, data: a };
+  if (a2 === b) {
+    return { valid: true, data: a2 };
   } else if (aType === ZodParsedType.object && bType === ZodParsedType.object) {
     const bKeys = util.objectKeys(b);
-    const sharedKeys = util.objectKeys(a).filter((key) => bKeys.indexOf(key) !== -1);
-    const newObj = { ...a, ...b };
+    const sharedKeys = util.objectKeys(a2).filter((key) => bKeys.indexOf(key) !== -1);
+    const newObj = { ...a2, ...b };
     for (const key of sharedKeys) {
-      const sharedValue = mergeValues(a[key], b[key]);
+      const sharedValue = mergeValues(a2[key], b[key]);
       if (!sharedValue.valid) {
         return { valid: false };
       }
@@ -678,13 +678,13 @@ function mergeValues(a, b) {
     }
     return { valid: true, data: newObj };
   } else if (aType === ZodParsedType.array && bType === ZodParsedType.array) {
-    if (a.length !== b.length) {
+    if (a2.length !== b.length) {
       return { valid: false };
     }
     const newArray = [];
-    for (let index = 0; index < a.length; index++) {
-      const itemA = a[index];
-      const itemB = b[index];
+    for (let index2 = 0; index2 < a2.length; index2++) {
+      const itemA = a2[index2];
+      const itemB = b[index2];
       const sharedValue = mergeValues(itemA, itemB);
       if (!sharedValue.valid) {
         return { valid: false };
@@ -692,8 +692,8 @@ function mergeValues(a, b) {
       newArray.push(sharedValue.data);
     }
     return { valid: true, data: newArray };
-  } else if (aType === ZodParsedType.date && bType === ZodParsedType.date && +a === +b) {
-    return { valid: true, data: a };
+  } else if (aType === ZodParsedType.date && bType === ZodParsedType.date && +a2 === +b) {
+    return { valid: true, data: a2 };
   } else {
     return { valid: false };
   }
@@ -2631,10 +2631,10 @@ var init_types = __esm({
       //   }) as any;
       //   return merged;
       // }
-      catchall(index) {
+      catchall(index2) {
         return new _ZodObject({
           ...this._def,
-          catchall: index
+          catchall: index2
         });
       }
       pick(mask) {
@@ -3020,7 +3020,7 @@ var init_types = __esm({
           if (!schema)
             return null;
           return schema._parse(new ParseInputLazyPath(ctx, item, ctx.path, itemIndex));
-        }).filter((x) => !!x);
+        }).filter((x3) => !!x3);
         if (ctx.common.async) {
           return Promise.all(items).then((results) => {
             return ParseStatus.mergeArray(status, results);
@@ -3122,10 +3122,10 @@ var init_types = __esm({
         }
         const keyType = this._def.keyType;
         const valueType = this._def.valueType;
-        const pairs = [...ctx.data.entries()].map(([key, value], index) => {
+        const pairs = [...ctx.data.entries()].map(([key, value], index2) => {
           return {
-            key: keyType._parse(new ParseInputLazyPath(ctx, key, ctx.path, [index, "key"])),
-            value: valueType._parse(new ParseInputLazyPath(ctx, value, ctx.path, [index, "value"]))
+            key: keyType._parse(new ParseInputLazyPath(ctx, key, ctx.path, [index2, "key"])),
+            value: valueType._parse(new ParseInputLazyPath(ctx, value, ctx.path, [index2, "value"]))
           };
         });
         if (ctx.common.async) {
@@ -3273,7 +3273,7 @@ var init_types = __esm({
           return makeIssue({
             data: args,
             path: ctx.path,
-            errorMaps: [ctx.common.contextualErrorMap, ctx.schemaErrorMap, getErrorMap(), en_default].filter((x) => !!x),
+            errorMaps: [ctx.common.contextualErrorMap, ctx.schemaErrorMap, getErrorMap(), en_default].filter((x3) => !!x3),
             issueData: {
               code: ZodIssueCode.invalid_arguments,
               argumentsError: error
@@ -3284,7 +3284,7 @@ var init_types = __esm({
           return makeIssue({
             data: returns,
             path: ctx.path,
-            errorMaps: [ctx.common.contextualErrorMap, ctx.schemaErrorMap, getErrorMap(), en_default].filter((x) => !!x),
+            errorMaps: [ctx.common.contextualErrorMap, ctx.schemaErrorMap, getErrorMap(), en_default].filter((x3) => !!x3),
             issueData: {
               code: ZodIssueCode.invalid_return_type,
               returnTypeError: error
@@ -3871,9 +3871,9 @@ var init_types = __esm({
           }
         }
       }
-      static create(a, b) {
+      static create(a2, b) {
         return new _ZodPipeline({
-          in: a,
+          in: a2,
           out: b,
           typeName: ZodFirstPartyTypeKind.ZodPipeline
         });
@@ -5296,28 +5296,28 @@ function verseDisplay(verseId) {
   return `${chapterTitle(r.bookSlug, r.chapter)}:${r.verse}`;
 }
 function chapterIdFromTitle(title) {
-  const m = /^(.+?)\s+(\d{1,3})$/.exec(title.trim());
-  if (!m) return null;
-  const b = ALIAS_MAP.get(m[1].replace(/[—–]/g, "-"));
-  return b ? `${b.slug}-${Number(m[2])}` : null;
+  const m2 = /^(.+?)\s+(\d{1,3})$/.exec(title.trim());
+  if (!m2) return null;
+  const b = ALIAS_MAP.get(m2[1].replace(/[—–]/g, "-"));
+  return b ? `${b.slug}-${Number(m2[2])}` : null;
 }
 function findScriptureRefs(text) {
   const norm = text.replace(/[—–‑]/g, "-");
   const out = [];
-  for (const m of norm.matchAll(REF_RE)) {
-    const book = ALIAS_MAP.get(m[1]);
+  for (const m2 of norm.matchAll(REF_RE)) {
+    const book = ALIAS_MAP.get(m2[1]);
     if (!book) continue;
-    const chapter = Number(m[2]);
+    const chapter = Number(m2[2]);
     if (chapter < 1 || chapter > book.chapters) continue;
     const verses = [];
-    const vs = (m[3] ?? "").replace(/\s+/g, "");
+    const vs = (m2[3] ?? "").replace(/\s+/g, "");
     const vm = /^:(\d{1,3})(?:-(\d{1,3}))?$/.exec(vs);
     if (vm) {
-      const a = Number(vm[1]);
-      const b = vm[2] ? Number(vm[2]) : a;
-      for (let v = a; v <= Math.min(b, a + 200); v++) verses.push(v);
+      const a2 = Number(vm[1]);
+      const b = vm[2] ? Number(vm[2]) : a2;
+      for (let v = a2; v <= Math.min(b, a2 + 200); v++) verses.push(v);
     }
-    out.push({ bookSlug: book.slug, chapter, verses, text: text.slice(m.index, m.index + m[0].length), index: m.index });
+    out.push({ bookSlug: book.slug, chapter, verses, text: text.slice(m2.index, m2.index + m2[0].length), index: m2.index });
   }
   return out;
 }
@@ -5349,18 +5349,18 @@ var init_anchors = __esm({
     BOOKS = books_default;
     BOOK_BY_SLUG = new Map(BOOKS.map((b) => [b.slug, b]));
     ALIAS_MAP = (() => {
-      const m = /* @__PURE__ */ new Map();
+      const m2 = /* @__PURE__ */ new Map();
       for (const b of BOOKS) {
         const forms = /* @__PURE__ */ new Set([b.name, b.prefix, ...b.aliases]);
         for (const raw of forms) {
           const f = raw.replace(/[—–]/g, "-");
-          m.set(f, b);
-          if (f.endsWith(".")) m.set(f.slice(0, -1), b);
+          m2.set(f, b);
+          if (f.endsWith(".")) m2.set(f.slice(0, -1), b);
         }
       }
-      return m;
+      return m2;
     })();
-    ALIAS_ALT = [...ALIAS_MAP.keys()].sort((a, b) => b.length - a.length).map((a) => a.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
+    ALIAS_ALT = [...ALIAS_MAP.keys()].sort((a2, b) => b.length - a2.length).map((a2) => a2.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
     REF_RE = new RegExp(
       `(?<![A-Za-z])(${ALIAS_ALT})[ \\u00a0]+(\\d{1,3})(?!\\d)((?:\\s*:\\s*\\d{1,3}(?:\\s*-\\s*\\d{1,3})?)?)`,
       "g"
@@ -5552,13 +5552,13 @@ var init_syncengine = __esm({
         const keys = await this.store.keys(A);
         const out = [];
         for (const k of keys) {
-          const a = await this.store.get(k);
-          if (a && !a.deleted_at) out.push(a);
+          const a2 = await this.store.get(k);
+          if (a2 && !a2.deleted_at) out.push(a2);
         }
         return out;
       }
       async annotationsForAnchor(anchorId) {
-        return (await this.allAnnotations()).filter((a) => a.anchor_id === anchorId);
+        return (await this.allAnnotations()).filter((a2) => a2.anchor_id === anchorId);
       }
       async serverVersion(id) {
         return this.store.get(SV + id);
@@ -5568,32 +5568,32 @@ var init_syncengine = __esm({
       }
       // --------------------------------------------------------- local writes
       /** Save locally and (unless visibility=local) enqueue for the backend. */
-      async save(a) {
-        await this.store.put(A + a.annotation_id, a);
-        if (a.visibility === "local") return;
-        const sv = await this.serverVersion(a.annotation_id);
+      async save(a2) {
+        await this.store.put(A + a2.annotation_id, a2);
+        if (a2.visibility === "local") return;
+        const sv = await this.serverVersion(a2.annotation_id);
         const op = {
           op_id: uuid(),
-          kind: a.deleted_at ? "delete_annotation" : "upsert_annotation",
-          annotation: a,
+          kind: a2.deleted_at ? "delete_annotation" : "upsert_annotation",
+          annotation: a2,
           // the base is what the SERVER last confirmed — 0 only for never-synced
-          base_version: sv ?? (a.deleted_at ? a.version : 0),
+          base_version: sv ?? (a2.deleted_at ? a2.version : 0),
           queued_at: this.stamp()
         };
         await this.store.put(Q + op.op_id, op);
       }
       async softDelete(id) {
-        const a = await this.getAnnotation(id);
-        if (!a) return;
-        const dead = { ...a, deleted_at: nowIso(), updated_at: nowIso() };
+        const a2 = await this.getAnnotation(id);
+        if (!a2) return;
+        const dead = { ...a2, deleted_at: nowIso(), updated_at: nowIso() };
         await this.store.put(A + id, dead);
-        if (a.visibility !== "local") {
+        if (a2.visibility !== "local") {
           const sv = await this.serverVersion(id);
           const op = {
             op_id: uuid(),
             kind: "delete_annotation",
             annotation: dead,
-            base_version: sv ?? a.version,
+            base_version: sv ?? a2.version,
             queued_at: this.stamp()
           };
           await this.store.put(Q + op.op_id, op);
@@ -5612,7 +5612,7 @@ var init_syncengine = __esm({
           const op = await this.store.get(k);
           if (op) all.push(op);
         }
-        all.sort((x, y) => x.queued_at.localeCompare(y.queued_at) || x.op_id.localeCompare(y.op_id));
+        all.sort((x3, y3) => x3.queued_at.localeCompare(y3.queued_at) || x3.op_id.localeCompare(y3.op_id));
         const ops = all.slice(0, MAX_PUSH);
         let results;
         try {
@@ -5674,12 +5674,12 @@ ${local.content}`,
       async pull(api) {
         const cursor = await this.store.get(CURSOR);
         const res = await api.syncPull(cursor);
-        for (const a of res.annotations) {
-          const localKey = A + a.annotation_id;
-          await this.setServerVersion(a.annotation_id, a.version);
+        for (const a2 of res.annotations) {
+          const localKey = A + a2.annotation_id;
+          await this.setServerVersion(a2.annotation_id, a2.version);
           const local = await this.store.get(localKey);
-          if (local && local.version >= a.version && !a.deleted_at) continue;
-          await this.store.put(localKey, a);
+          if (local && local.version >= a2.version && !a2.deleted_at) continue;
+          await this.store.put(localKey, a2);
         }
         await this.store.put(CURSOR, res.next_cursor);
         return res.annotations.length;
@@ -5697,14 +5697,14 @@ function parseFrontmatter(text) {
       const body = text.slice(end + 5);
       const fm = {};
       for (const line of fmText.split("\n")) {
-        const m = /^([A-Za-z0-9_-]+):\s*(.*)$/.exec(line);
-        if (m) {
-          let v = m[2];
+        const m2 = /^([A-Za-z0-9_-]+):\s*(.*)$/.exec(line);
+        if (m2) {
+          let v = m2[2];
           if (v === "true") v = true;
           else if (v === "false") v = false;
           else if (typeof v === "string" && /^-?\d+$/.test(v)) v = Number(v);
           else if (typeof v === "string") v = v.replace(/^['"]|['"]$/g, "");
-          fm[m[1]] = v;
+          fm[m2[1]] = v;
         }
       }
       return { frontmatter: fm, body };
@@ -5714,7 +5714,7 @@ function parseFrontmatter(text) {
 }
 function sections(body) {
   const out = {};
-  for (const m of body.matchAll(MARKER_RE)) out[m[1]] = (m[2] ?? "").trim();
+  for (const m2 of body.matchAll(MARKER_RE)) out[m2[1]] = (m2[2] ?? "").trim();
   return out;
 }
 function sectionIsEmpty(content) {
@@ -5723,21 +5723,21 @@ function sectionIsEmpty(content) {
 function parseCanonicalVerses(body) {
   const out = [];
   for (const line of body.split("\n")) {
-    const m = /^\*\*(\d{1,3})\*\*\s+([\s\S]*?)\s+\^([a-z0-9]+-\d+-\d+)\s*$/.exec(line);
-    if (m) out.push({ verse: Number(m[1]), text: m[2], verseId: m[3] });
+    const m2 = /^\*\*(\d{1,3})\*\*\s+([\s\S]*?)\s+\^([a-z0-9]+-\d+-\d+)\s*$/.exec(line);
+    if (m2) out.push({ verse: Number(m2[1]), text: m2[2], verseId: m2[3] });
   }
   return out;
 }
 function extractWikilinks(text) {
   const out = [];
-  for (const m of text.matchAll(/\[\[([^\[\]|#]+)(#[^\[\]|]*)?(?:\|[^\[\]]*)?\]\]/g)) {
-    out.push({ target: m[1].trim(), anchor: (m[2] ?? "").trim() });
+  for (const m2 of text.matchAll(/\[\[([^\[\]|#]+)(#[^\[\]|]*)?(?:\|[^\[\]]*)?\]\]/g)) {
+    out.push({ target: m2[1].trim(), anchor: (m2[2] ?? "").trim() });
   }
   return out;
 }
 function trimContext(items, depth) {
   const budget = DEPTH_BUDGET[depth];
-  const sorted = [...items].sort((a, b) => a.priority - b.priority);
+  const sorted = [...items].sort((a2, b) => a2.priority - b.priority);
   const out = [];
   let used = 0;
   for (const it of sorted) {
@@ -5797,12 +5797,12 @@ async function listModels() {
   });
   if (!res.ok) throw new Error(`model list failed (${res.status})`);
   const data = await res.json();
-  return data.data.map((m) => ({
-    id: m.id,
-    name: m.name ?? m.id,
-    context_length: m.context_length ?? 8192,
-    promptPrice: Number(m.pricing?.prompt ?? 0) * 1e6,
-    completionPrice: Number(m.pricing?.completion ?? 0) * 1e6
+  return data.data.map((m2) => ({
+    id: m2.id,
+    name: m2.name ?? m2.id,
+    context_length: m2.context_length ?? 8192,
+    promptPrice: Number(m2.pricing?.prompt ?? 0) * 1e6,
+    completionPrice: Number(m2.pricing?.completion ?? 0) * 1e6
   }));
 }
 async function keyStatus(apiKey) {
@@ -5892,8 +5892,8 @@ var init_openrouter = __esm({
 
 // ../../packages/core-sdk/src/ai/models.ts
 function pickModel(registry, task, prefs) {
-  const ids = new Set(registry.map((m) => m.id));
-  const byId = new Map(registry.map((m) => [m.id, m]));
+  const ids = new Set(registry.map((m2) => m2.id));
+  const byId = new Map(registry.map((m2) => [m2.id, m2]));
   if (prefs.tier === "specific" && prefs.specificModel && ids.has(prefs.specificModel)) {
     return { modelId: prefs.specificModel, reason: "user-selected model" };
   }
@@ -5902,15 +5902,15 @@ function pickModel(registry, task, prefs) {
     tier = prefs.routing?.[task] ?? DEFAULT_ROUTING[task];
   }
   if (tier === "cheapest") {
-    const paid = registry.filter((m) => m.promptPrice + m.completionPrice > 0 && m.context_length >= 16e3).sort((a, b) => a.promptPrice + a.completionPrice - (b.promptPrice + b.completionPrice));
+    const paid = registry.filter((m2) => m2.promptPrice + m2.completionPrice > 0 && m2.context_length >= 16e3).sort((a2, b) => a2.promptPrice + a2.completionPrice - (b.promptPrice + b.completionPrice));
     if (paid[0]) return { modelId: paid[0].id, reason: "cheapest capable model" };
     tier = "fast";
   }
   const candidates = TIER_CANDIDATES[tier === "auto" || tier === "specific" ? "fast" : tier];
-  for (const c of candidates) {
-    if (ids.has(c)) return { modelId: c, reason: `${tier} tier` };
+  for (const c2 of candidates) {
+    if (ids.has(c2)) return { modelId: c2, reason: `${tier} tier` };
   }
-  const fallback = registry.filter((m) => m.context_length >= 32e3).sort((a, b) => a.promptPrice + a.completionPrice - (b.promptPrice + b.completionPrice));
+  const fallback = registry.filter((m2) => m2.context_length >= 32e3).sort((a2, b) => a2.promptPrice + a2.completionPrice - (b.promptPrice + b.completionPrice));
   const mid = fallback[Math.floor(fallback.length / 3)] ?? fallback[0];
   if (mid) return { modelId: mid.id, reason: "registry fallback" };
   throw new Error("no models available from provider");
@@ -6078,17 +6078,17 @@ var init_trace = __esm({
 });
 
 // src/study/sheetRegistry.ts
-function registerSheet(m) {
-  open.add(m);
+function registerSheet(m2) {
+  open.add(m2);
 }
-function unregisterSheet(m) {
-  open.delete(m);
+function unregisterSheet(m2) {
+  open.delete(m2);
 }
 function closeAllSheets() {
-  for (const m of Array.from(open)) {
-    open.delete(m);
+  for (const m2 of Array.from(open)) {
+    open.delete(m2);
     try {
-      m.close();
+      m2.close();
     } catch {
     }
   }
@@ -6098,6 +6098,1591 @@ var init_sheetRegistry = __esm({
   "src/study/sheetRegistry.ts"() {
     "use strict";
     open = /* @__PURE__ */ new Set();
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/add.js
+function add_default(d) {
+  const x3 = +this._x.call(null, d), y3 = +this._y.call(null, d);
+  return add(this.cover(x3, y3), x3, y3, d);
+}
+function add(tree, x3, y3, d) {
+  if (isNaN(x3) || isNaN(y3)) return tree;
+  var parent, node = tree._root, leaf = { data: d }, x0 = tree._x0, y0 = tree._y0, x1 = tree._x1, y1 = tree._y1, xm, ym, xp, yp, right, bottom, i, j;
+  if (!node) return tree._root = leaf, tree;
+  while (node.length) {
+    if (right = x3 >= (xm = (x0 + x1) / 2)) x0 = xm;
+    else x1 = xm;
+    if (bottom = y3 >= (ym = (y0 + y1) / 2)) y0 = ym;
+    else y1 = ym;
+    if (parent = node, !(node = node[i = bottom << 1 | right])) return parent[i] = leaf, tree;
+  }
+  xp = +tree._x.call(null, node.data);
+  yp = +tree._y.call(null, node.data);
+  if (x3 === xp && y3 === yp) return leaf.next = node, parent ? parent[i] = leaf : tree._root = leaf, tree;
+  do {
+    parent = parent ? parent[i] = new Array(4) : tree._root = new Array(4);
+    if (right = x3 >= (xm = (x0 + x1) / 2)) x0 = xm;
+    else x1 = xm;
+    if (bottom = y3 >= (ym = (y0 + y1) / 2)) y0 = ym;
+    else y1 = ym;
+  } while ((i = bottom << 1 | right) === (j = (yp >= ym) << 1 | xp >= xm));
+  return parent[j] = node, parent[i] = leaf, tree;
+}
+function addAll(data) {
+  var d, i, n = data.length, x3, y3, xz = new Array(n), yz = new Array(n), x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+  for (i = 0; i < n; ++i) {
+    if (isNaN(x3 = +this._x.call(null, d = data[i])) || isNaN(y3 = +this._y.call(null, d))) continue;
+    xz[i] = x3;
+    yz[i] = y3;
+    if (x3 < x0) x0 = x3;
+    if (x3 > x1) x1 = x3;
+    if (y3 < y0) y0 = y3;
+    if (y3 > y1) y1 = y3;
+  }
+  if (x0 > x1 || y0 > y1) return this;
+  this.cover(x0, y0).cover(x1, y1);
+  for (i = 0; i < n; ++i) {
+    add(this, xz[i], yz[i], data[i]);
+  }
+  return this;
+}
+var init_add = __esm({
+  "../../node_modules/d3-quadtree/src/add.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/cover.js
+function cover_default(x3, y3) {
+  if (isNaN(x3 = +x3) || isNaN(y3 = +y3)) return this;
+  var x0 = this._x0, y0 = this._y0, x1 = this._x1, y1 = this._y1;
+  if (isNaN(x0)) {
+    x1 = (x0 = Math.floor(x3)) + 1;
+    y1 = (y0 = Math.floor(y3)) + 1;
+  } else {
+    var z = x1 - x0 || 1, node = this._root, parent, i;
+    while (x0 > x3 || x3 >= x1 || y0 > y3 || y3 >= y1) {
+      i = (y3 < y0) << 1 | x3 < x0;
+      parent = new Array(4), parent[i] = node, node = parent, z *= 2;
+      switch (i) {
+        case 0:
+          x1 = x0 + z, y1 = y0 + z;
+          break;
+        case 1:
+          x0 = x1 - z, y1 = y0 + z;
+          break;
+        case 2:
+          x1 = x0 + z, y0 = y1 - z;
+          break;
+        case 3:
+          x0 = x1 - z, y0 = y1 - z;
+          break;
+      }
+    }
+    if (this._root && this._root.length) this._root = node;
+  }
+  this._x0 = x0;
+  this._y0 = y0;
+  this._x1 = x1;
+  this._y1 = y1;
+  return this;
+}
+var init_cover = __esm({
+  "../../node_modules/d3-quadtree/src/cover.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/data.js
+function data_default() {
+  var data = [];
+  this.visit(function(node) {
+    if (!node.length) do
+      data.push(node.data);
+    while (node = node.next);
+  });
+  return data;
+}
+var init_data = __esm({
+  "../../node_modules/d3-quadtree/src/data.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/extent.js
+function extent_default(_) {
+  return arguments.length ? this.cover(+_[0][0], +_[0][1]).cover(+_[1][0], +_[1][1]) : isNaN(this._x0) ? void 0 : [[this._x0, this._y0], [this._x1, this._y1]];
+}
+var init_extent = __esm({
+  "../../node_modules/d3-quadtree/src/extent.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/quad.js
+function quad_default(node, x0, y0, x1, y1) {
+  this.node = node;
+  this.x0 = x0;
+  this.y0 = y0;
+  this.x1 = x1;
+  this.y1 = y1;
+}
+var init_quad = __esm({
+  "../../node_modules/d3-quadtree/src/quad.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/find.js
+function find_default(x3, y3, radius) {
+  var data, x0 = this._x0, y0 = this._y0, x1, y1, x22, y22, x32 = this._x1, y32 = this._y1, quads = [], node = this._root, q, i;
+  if (node) quads.push(new quad_default(node, x0, y0, x32, y32));
+  if (radius == null) radius = Infinity;
+  else {
+    x0 = x3 - radius, y0 = y3 - radius;
+    x32 = x3 + radius, y32 = y3 + radius;
+    radius *= radius;
+  }
+  while (q = quads.pop()) {
+    if (!(node = q.node) || (x1 = q.x0) > x32 || (y1 = q.y0) > y32 || (x22 = q.x1) < x0 || (y22 = q.y1) < y0) continue;
+    if (node.length) {
+      var xm = (x1 + x22) / 2, ym = (y1 + y22) / 2;
+      quads.push(
+        new quad_default(node[3], xm, ym, x22, y22),
+        new quad_default(node[2], x1, ym, xm, y22),
+        new quad_default(node[1], xm, y1, x22, ym),
+        new quad_default(node[0], x1, y1, xm, ym)
+      );
+      if (i = (y3 >= ym) << 1 | x3 >= xm) {
+        q = quads[quads.length - 1];
+        quads[quads.length - 1] = quads[quads.length - 1 - i];
+        quads[quads.length - 1 - i] = q;
+      }
+    } else {
+      var dx = x3 - +this._x.call(null, node.data), dy = y3 - +this._y.call(null, node.data), d2 = dx * dx + dy * dy;
+      if (d2 < radius) {
+        var d = Math.sqrt(radius = d2);
+        x0 = x3 - d, y0 = y3 - d;
+        x32 = x3 + d, y32 = y3 + d;
+        data = node.data;
+      }
+    }
+  }
+  return data;
+}
+var init_find = __esm({
+  "../../node_modules/d3-quadtree/src/find.js"() {
+    init_quad();
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/remove.js
+function remove_default(d) {
+  if (isNaN(x3 = +this._x.call(null, d)) || isNaN(y3 = +this._y.call(null, d))) return this;
+  var parent, node = this._root, retainer, previous, next, x0 = this._x0, y0 = this._y0, x1 = this._x1, y1 = this._y1, x3, y3, xm, ym, right, bottom, i, j;
+  if (!node) return this;
+  if (node.length) while (true) {
+    if (right = x3 >= (xm = (x0 + x1) / 2)) x0 = xm;
+    else x1 = xm;
+    if (bottom = y3 >= (ym = (y0 + y1) / 2)) y0 = ym;
+    else y1 = ym;
+    if (!(parent = node, node = node[i = bottom << 1 | right])) return this;
+    if (!node.length) break;
+    if (parent[i + 1 & 3] || parent[i + 2 & 3] || parent[i + 3 & 3]) retainer = parent, j = i;
+  }
+  while (node.data !== d) if (!(previous = node, node = node.next)) return this;
+  if (next = node.next) delete node.next;
+  if (previous) return next ? previous.next = next : delete previous.next, this;
+  if (!parent) return this._root = next, this;
+  next ? parent[i] = next : delete parent[i];
+  if ((node = parent[0] || parent[1] || parent[2] || parent[3]) && node === (parent[3] || parent[2] || parent[1] || parent[0]) && !node.length) {
+    if (retainer) retainer[j] = node;
+    else this._root = node;
+  }
+  return this;
+}
+function removeAll(data) {
+  for (var i = 0, n = data.length; i < n; ++i) this.remove(data[i]);
+  return this;
+}
+var init_remove = __esm({
+  "../../node_modules/d3-quadtree/src/remove.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/root.js
+function root_default() {
+  return this._root;
+}
+var init_root = __esm({
+  "../../node_modules/d3-quadtree/src/root.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/size.js
+function size_default() {
+  var size = 0;
+  this.visit(function(node) {
+    if (!node.length) do
+      ++size;
+    while (node = node.next);
+  });
+  return size;
+}
+var init_size = __esm({
+  "../../node_modules/d3-quadtree/src/size.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/visit.js
+function visit_default(callback) {
+  var quads = [], q, node = this._root, child, x0, y0, x1, y1;
+  if (node) quads.push(new quad_default(node, this._x0, this._y0, this._x1, this._y1));
+  while (q = quads.pop()) {
+    if (!callback(node = q.node, x0 = q.x0, y0 = q.y0, x1 = q.x1, y1 = q.y1) && node.length) {
+      var xm = (x0 + x1) / 2, ym = (y0 + y1) / 2;
+      if (child = node[3]) quads.push(new quad_default(child, xm, ym, x1, y1));
+      if (child = node[2]) quads.push(new quad_default(child, x0, ym, xm, y1));
+      if (child = node[1]) quads.push(new quad_default(child, xm, y0, x1, ym));
+      if (child = node[0]) quads.push(new quad_default(child, x0, y0, xm, ym));
+    }
+  }
+  return this;
+}
+var init_visit = __esm({
+  "../../node_modules/d3-quadtree/src/visit.js"() {
+    init_quad();
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/visitAfter.js
+function visitAfter_default(callback) {
+  var quads = [], next = [], q;
+  if (this._root) quads.push(new quad_default(this._root, this._x0, this._y0, this._x1, this._y1));
+  while (q = quads.pop()) {
+    var node = q.node;
+    if (node.length) {
+      var child, x0 = q.x0, y0 = q.y0, x1 = q.x1, y1 = q.y1, xm = (x0 + x1) / 2, ym = (y0 + y1) / 2;
+      if (child = node[0]) quads.push(new quad_default(child, x0, y0, xm, ym));
+      if (child = node[1]) quads.push(new quad_default(child, xm, y0, x1, ym));
+      if (child = node[2]) quads.push(new quad_default(child, x0, ym, xm, y1));
+      if (child = node[3]) quads.push(new quad_default(child, xm, ym, x1, y1));
+    }
+    next.push(q);
+  }
+  while (q = next.pop()) {
+    callback(q.node, q.x0, q.y0, q.x1, q.y1);
+  }
+  return this;
+}
+var init_visitAfter = __esm({
+  "../../node_modules/d3-quadtree/src/visitAfter.js"() {
+    init_quad();
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/x.js
+function defaultX(d) {
+  return d[0];
+}
+function x_default(_) {
+  return arguments.length ? (this._x = _, this) : this._x;
+}
+var init_x = __esm({
+  "../../node_modules/d3-quadtree/src/x.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/y.js
+function defaultY(d) {
+  return d[1];
+}
+function y_default(_) {
+  return arguments.length ? (this._y = _, this) : this._y;
+}
+var init_y = __esm({
+  "../../node_modules/d3-quadtree/src/y.js"() {
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/quadtree.js
+function quadtree(nodes, x3, y3) {
+  var tree = new Quadtree(x3 == null ? defaultX : x3, y3 == null ? defaultY : y3, NaN, NaN, NaN, NaN);
+  return nodes == null ? tree : tree.addAll(nodes);
+}
+function Quadtree(x3, y3, x0, y0, x1, y1) {
+  this._x = x3;
+  this._y = y3;
+  this._x0 = x0;
+  this._y0 = y0;
+  this._x1 = x1;
+  this._y1 = y1;
+  this._root = void 0;
+}
+function leaf_copy(leaf) {
+  var copy = { data: leaf.data }, next = copy;
+  while (leaf = leaf.next) next = next.next = { data: leaf.data };
+  return copy;
+}
+var treeProto;
+var init_quadtree = __esm({
+  "../../node_modules/d3-quadtree/src/quadtree.js"() {
+    init_add();
+    init_cover();
+    init_data();
+    init_extent();
+    init_find();
+    init_remove();
+    init_root();
+    init_size();
+    init_visit();
+    init_visitAfter();
+    init_x();
+    init_y();
+    treeProto = quadtree.prototype = Quadtree.prototype;
+    treeProto.copy = function() {
+      var copy = new Quadtree(this._x, this._y, this._x0, this._y0, this._x1, this._y1), node = this._root, nodes, child;
+      if (!node) return copy;
+      if (!node.length) return copy._root = leaf_copy(node), copy;
+      nodes = [{ source: node, target: copy._root = new Array(4) }];
+      while (node = nodes.pop()) {
+        for (var i = 0; i < 4; ++i) {
+          if (child = node.source[i]) {
+            if (child.length) nodes.push({ source: child, target: node.target[i] = new Array(4) });
+            else node.target[i] = leaf_copy(child);
+          }
+        }
+      }
+      return copy;
+    };
+    treeProto.add = add_default;
+    treeProto.addAll = addAll;
+    treeProto.cover = cover_default;
+    treeProto.data = data_default;
+    treeProto.extent = extent_default;
+    treeProto.find = find_default;
+    treeProto.remove = remove_default;
+    treeProto.removeAll = removeAll;
+    treeProto.root = root_default;
+    treeProto.size = size_default;
+    treeProto.visit = visit_default;
+    treeProto.visitAfter = visitAfter_default;
+    treeProto.x = x_default;
+    treeProto.y = y_default;
+  }
+});
+
+// ../../node_modules/d3-quadtree/src/index.js
+var init_src2 = __esm({
+  "../../node_modules/d3-quadtree/src/index.js"() {
+    init_quadtree();
+  }
+});
+
+// ../../node_modules/d3-force/src/constant.js
+function constant_default(x3) {
+  return function() {
+    return x3;
+  };
+}
+var init_constant = __esm({
+  "../../node_modules/d3-force/src/constant.js"() {
+  }
+});
+
+// ../../node_modules/d3-force/src/jiggle.js
+function jiggle_default(random) {
+  return (random() - 0.5) * 1e-6;
+}
+var init_jiggle = __esm({
+  "../../node_modules/d3-force/src/jiggle.js"() {
+  }
+});
+
+// ../../node_modules/d3-force/src/collide.js
+function x(d) {
+  return d.x + d.vx;
+}
+function y(d) {
+  return d.y + d.vy;
+}
+function collide_default(radius) {
+  var nodes, radii, random, strength = 1, iterations = 1;
+  if (typeof radius !== "function") radius = constant_default(radius == null ? 1 : +radius);
+  function force() {
+    var i, n = nodes.length, tree, node, xi, yi, ri, ri2;
+    for (var k = 0; k < iterations; ++k) {
+      tree = quadtree(nodes, x, y).visitAfter(prepare);
+      for (i = 0; i < n; ++i) {
+        node = nodes[i];
+        ri = radii[node.index], ri2 = ri * ri;
+        xi = node.x + node.vx;
+        yi = node.y + node.vy;
+        tree.visit(apply);
+      }
+    }
+    function apply(quad, x0, y0, x1, y1) {
+      var data = quad.data, rj = quad.r, r = ri + rj;
+      if (data) {
+        if (data.index > node.index) {
+          var x3 = xi - data.x - data.vx, y3 = yi - data.y - data.vy, l = x3 * x3 + y3 * y3;
+          if (l < r * r) {
+            if (x3 === 0) x3 = jiggle_default(random), l += x3 * x3;
+            if (y3 === 0) y3 = jiggle_default(random), l += y3 * y3;
+            l = (r - (l = Math.sqrt(l))) / l * strength;
+            node.vx += (x3 *= l) * (r = (rj *= rj) / (ri2 + rj));
+            node.vy += (y3 *= l) * r;
+            data.vx -= x3 * (r = 1 - r);
+            data.vy -= y3 * r;
+          }
+        }
+        return;
+      }
+      return x0 > xi + r || x1 < xi - r || y0 > yi + r || y1 < yi - r;
+    }
+  }
+  function prepare(quad) {
+    if (quad.data) return quad.r = radii[quad.data.index];
+    for (var i = quad.r = 0; i < 4; ++i) {
+      if (quad[i] && quad[i].r > quad.r) {
+        quad.r = quad[i].r;
+      }
+    }
+  }
+  function initialize() {
+    if (!nodes) return;
+    var i, n = nodes.length, node;
+    radii = new Array(n);
+    for (i = 0; i < n; ++i) node = nodes[i], radii[node.index] = +radius(node, i, nodes);
+  }
+  force.initialize = function(_nodes, _random) {
+    nodes = _nodes;
+    random = _random;
+    initialize();
+  };
+  force.iterations = function(_) {
+    return arguments.length ? (iterations = +_, force) : iterations;
+  };
+  force.strength = function(_) {
+    return arguments.length ? (strength = +_, force) : strength;
+  };
+  force.radius = function(_) {
+    return arguments.length ? (radius = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : radius;
+  };
+  return force;
+}
+var init_collide = __esm({
+  "../../node_modules/d3-force/src/collide.js"() {
+    init_src2();
+    init_constant();
+    init_jiggle();
+  }
+});
+
+// ../../node_modules/d3-force/src/link.js
+function index(d) {
+  return d.index;
+}
+function find(nodeById, nodeId) {
+  var node = nodeById.get(nodeId);
+  if (!node) throw new Error("node not found: " + nodeId);
+  return node;
+}
+function link_default(links) {
+  var id = index, strength = defaultStrength, strengths, distance = constant_default(30), distances, nodes, count, bias, random, iterations = 1;
+  if (links == null) links = [];
+  function defaultStrength(link) {
+    return 1 / Math.min(count[link.source.index], count[link.target.index]);
+  }
+  function force(alpha) {
+    for (var k = 0, n = links.length; k < iterations; ++k) {
+      for (var i = 0, link, source, target, x3, y3, l, b; i < n; ++i) {
+        link = links[i], source = link.source, target = link.target;
+        x3 = target.x + target.vx - source.x - source.vx || jiggle_default(random);
+        y3 = target.y + target.vy - source.y - source.vy || jiggle_default(random);
+        l = Math.sqrt(x3 * x3 + y3 * y3);
+        l = (l - distances[i]) / l * alpha * strengths[i];
+        x3 *= l, y3 *= l;
+        target.vx -= x3 * (b = bias[i]);
+        target.vy -= y3 * b;
+        source.vx += x3 * (b = 1 - b);
+        source.vy += y3 * b;
+      }
+    }
+  }
+  function initialize() {
+    if (!nodes) return;
+    var i, n = nodes.length, m2 = links.length, nodeById = new Map(nodes.map((d, i2) => [id(d, i2, nodes), d])), link;
+    for (i = 0, count = new Array(n); i < m2; ++i) {
+      link = links[i], link.index = i;
+      if (typeof link.source !== "object") link.source = find(nodeById, link.source);
+      if (typeof link.target !== "object") link.target = find(nodeById, link.target);
+      count[link.source.index] = (count[link.source.index] || 0) + 1;
+      count[link.target.index] = (count[link.target.index] || 0) + 1;
+    }
+    for (i = 0, bias = new Array(m2); i < m2; ++i) {
+      link = links[i], bias[i] = count[link.source.index] / (count[link.source.index] + count[link.target.index]);
+    }
+    strengths = new Array(m2), initializeStrength();
+    distances = new Array(m2), initializeDistance();
+  }
+  function initializeStrength() {
+    if (!nodes) return;
+    for (var i = 0, n = links.length; i < n; ++i) {
+      strengths[i] = +strength(links[i], i, links);
+    }
+  }
+  function initializeDistance() {
+    if (!nodes) return;
+    for (var i = 0, n = links.length; i < n; ++i) {
+      distances[i] = +distance(links[i], i, links);
+    }
+  }
+  force.initialize = function(_nodes, _random) {
+    nodes = _nodes;
+    random = _random;
+    initialize();
+  };
+  force.links = function(_) {
+    return arguments.length ? (links = _, initialize(), force) : links;
+  };
+  force.id = function(_) {
+    return arguments.length ? (id = _, force) : id;
+  };
+  force.iterations = function(_) {
+    return arguments.length ? (iterations = +_, force) : iterations;
+  };
+  force.strength = function(_) {
+    return arguments.length ? (strength = typeof _ === "function" ? _ : constant_default(+_), initializeStrength(), force) : strength;
+  };
+  force.distance = function(_) {
+    return arguments.length ? (distance = typeof _ === "function" ? _ : constant_default(+_), initializeDistance(), force) : distance;
+  };
+  return force;
+}
+var init_link = __esm({
+  "../../node_modules/d3-force/src/link.js"() {
+    init_constant();
+    init_jiggle();
+  }
+});
+
+// ../../node_modules/d3-dispatch/src/dispatch.js
+function dispatch() {
+  for (var i = 0, n = arguments.length, _ = {}, t; i < n; ++i) {
+    if (!(t = arguments[i] + "") || t in _ || /[\s.]/.test(t)) throw new Error("illegal type: " + t);
+    _[t] = [];
+  }
+  return new Dispatch(_);
+}
+function Dispatch(_) {
+  this._ = _;
+}
+function parseTypenames(typenames, types) {
+  return typenames.trim().split(/^|\s+/).map(function(t) {
+    var name = "", i = t.indexOf(".");
+    if (i >= 0) name = t.slice(i + 1), t = t.slice(0, i);
+    if (t && !types.hasOwnProperty(t)) throw new Error("unknown type: " + t);
+    return { type: t, name };
+  });
+}
+function get(type, name) {
+  for (var i = 0, n = type.length, c2; i < n; ++i) {
+    if ((c2 = type[i]).name === name) {
+      return c2.value;
+    }
+  }
+}
+function set(type, name, callback) {
+  for (var i = 0, n = type.length; i < n; ++i) {
+    if (type[i].name === name) {
+      type[i] = noop, type = type.slice(0, i).concat(type.slice(i + 1));
+      break;
+    }
+  }
+  if (callback != null) type.push({ name, value: callback });
+  return type;
+}
+var noop, dispatch_default;
+var init_dispatch = __esm({
+  "../../node_modules/d3-dispatch/src/dispatch.js"() {
+    noop = { value: () => {
+    } };
+    Dispatch.prototype = dispatch.prototype = {
+      constructor: Dispatch,
+      on: function(typename, callback) {
+        var _ = this._, T = parseTypenames(typename + "", _), t, i = -1, n = T.length;
+        if (arguments.length < 2) {
+          while (++i < n) if ((t = (typename = T[i]).type) && (t = get(_[t], typename.name))) return t;
+          return;
+        }
+        if (callback != null && typeof callback !== "function") throw new Error("invalid callback: " + callback);
+        while (++i < n) {
+          if (t = (typename = T[i]).type) _[t] = set(_[t], typename.name, callback);
+          else if (callback == null) for (t in _) _[t] = set(_[t], typename.name, null);
+        }
+        return this;
+      },
+      copy: function() {
+        var copy = {}, _ = this._;
+        for (var t in _) copy[t] = _[t].slice();
+        return new Dispatch(copy);
+      },
+      call: function(type, that) {
+        if ((n = arguments.length - 2) > 0) for (var args = new Array(n), i = 0, n, t; i < n; ++i) args[i] = arguments[i + 2];
+        if (!this._.hasOwnProperty(type)) throw new Error("unknown type: " + type);
+        for (t = this._[type], i = 0, n = t.length; i < n; ++i) t[i].value.apply(that, args);
+      },
+      apply: function(type, that, args) {
+        if (!this._.hasOwnProperty(type)) throw new Error("unknown type: " + type);
+        for (var t = this._[type], i = 0, n = t.length; i < n; ++i) t[i].value.apply(that, args);
+      }
+    };
+    dispatch_default = dispatch;
+  }
+});
+
+// ../../node_modules/d3-dispatch/src/index.js
+var init_src3 = __esm({
+  "../../node_modules/d3-dispatch/src/index.js"() {
+    init_dispatch();
+  }
+});
+
+// ../../node_modules/d3-timer/src/timer.js
+function now() {
+  return clockNow || (setFrame(clearNow), clockNow = clock.now() + clockSkew);
+}
+function clearNow() {
+  clockNow = 0;
+}
+function Timer() {
+  this._call = this._time = this._next = null;
+}
+function timer(callback, delay, time) {
+  var t = new Timer();
+  t.restart(callback, delay, time);
+  return t;
+}
+function timerFlush() {
+  now();
+  ++frame;
+  var t = taskHead, e;
+  while (t) {
+    if ((e = clockNow - t._time) >= 0) t._call.call(void 0, e);
+    t = t._next;
+  }
+  --frame;
+}
+function wake() {
+  clockNow = (clockLast = clock.now()) + clockSkew;
+  frame = timeout = 0;
+  try {
+    timerFlush();
+  } finally {
+    frame = 0;
+    nap();
+    clockNow = 0;
+  }
+}
+function poke() {
+  var now2 = clock.now(), delay = now2 - clockLast;
+  if (delay > pokeDelay) clockSkew -= delay, clockLast = now2;
+}
+function nap() {
+  var t0, t1 = taskHead, t2, time = Infinity;
+  while (t1) {
+    if (t1._call) {
+      if (time > t1._time) time = t1._time;
+      t0 = t1, t1 = t1._next;
+    } else {
+      t2 = t1._next, t1._next = null;
+      t1 = t0 ? t0._next = t2 : taskHead = t2;
+    }
+  }
+  taskTail = t0;
+  sleep(time);
+}
+function sleep(time) {
+  if (frame) return;
+  if (timeout) timeout = clearTimeout(timeout);
+  var delay = time - clockNow;
+  if (delay > 24) {
+    if (time < Infinity) timeout = setTimeout(wake, time - clock.now() - clockSkew);
+    if (interval) interval = clearInterval(interval);
+  } else {
+    if (!interval) clockLast = clock.now(), interval = setInterval(poke, pokeDelay);
+    frame = 1, setFrame(wake);
+  }
+}
+var frame, timeout, interval, pokeDelay, taskHead, taskTail, clockLast, clockNow, clockSkew, clock, setFrame;
+var init_timer = __esm({
+  "../../node_modules/d3-timer/src/timer.js"() {
+    frame = 0;
+    timeout = 0;
+    interval = 0;
+    pokeDelay = 1e3;
+    clockLast = 0;
+    clockNow = 0;
+    clockSkew = 0;
+    clock = typeof performance === "object" && performance.now ? performance : Date;
+    setFrame = typeof window === "object" && window.requestAnimationFrame ? window.requestAnimationFrame.bind(window) : function(f) {
+      setTimeout(f, 17);
+    };
+    Timer.prototype = timer.prototype = {
+      constructor: Timer,
+      restart: function(callback, delay, time) {
+        if (typeof callback !== "function") throw new TypeError("callback is not a function");
+        time = (time == null ? now() : +time) + (delay == null ? 0 : +delay);
+        if (!this._next && taskTail !== this) {
+          if (taskTail) taskTail._next = this;
+          else taskHead = this;
+          taskTail = this;
+        }
+        this._call = callback;
+        this._time = time;
+        sleep();
+      },
+      stop: function() {
+        if (this._call) {
+          this._call = null;
+          this._time = Infinity;
+          sleep();
+        }
+      }
+    };
+  }
+});
+
+// ../../node_modules/d3-timer/src/index.js
+var init_src4 = __esm({
+  "../../node_modules/d3-timer/src/index.js"() {
+    init_timer();
+  }
+});
+
+// ../../node_modules/d3-force/src/lcg.js
+function lcg_default() {
+  let s = 1;
+  return () => (s = (a * s + c) % m) / m;
+}
+var a, c, m;
+var init_lcg = __esm({
+  "../../node_modules/d3-force/src/lcg.js"() {
+    a = 1664525;
+    c = 1013904223;
+    m = 4294967296;
+  }
+});
+
+// ../../node_modules/d3-force/src/simulation.js
+function x2(d) {
+  return d.x;
+}
+function y2(d) {
+  return d.y;
+}
+function simulation_default(nodes) {
+  var simulation, alpha = 1, alphaMin = 1e-3, alphaDecay = 1 - Math.pow(alphaMin, 1 / 300), alphaTarget = 0, velocityDecay = 0.6, forces = /* @__PURE__ */ new Map(), stepper = timer(step), event = dispatch_default("tick", "end"), random = lcg_default();
+  if (nodes == null) nodes = [];
+  function step() {
+    tick();
+    event.call("tick", simulation);
+    if (alpha < alphaMin) {
+      stepper.stop();
+      event.call("end", simulation);
+    }
+  }
+  function tick(iterations) {
+    var i, n = nodes.length, node;
+    if (iterations === void 0) iterations = 1;
+    for (var k = 0; k < iterations; ++k) {
+      alpha += (alphaTarget - alpha) * alphaDecay;
+      forces.forEach(function(force) {
+        force(alpha);
+      });
+      for (i = 0; i < n; ++i) {
+        node = nodes[i];
+        if (node.fx == null) node.x += node.vx *= velocityDecay;
+        else node.x = node.fx, node.vx = 0;
+        if (node.fy == null) node.y += node.vy *= velocityDecay;
+        else node.y = node.fy, node.vy = 0;
+      }
+    }
+    return simulation;
+  }
+  function initializeNodes() {
+    for (var i = 0, n = nodes.length, node; i < n; ++i) {
+      node = nodes[i], node.index = i;
+      if (node.fx != null) node.x = node.fx;
+      if (node.fy != null) node.y = node.fy;
+      if (isNaN(node.x) || isNaN(node.y)) {
+        var radius = initialRadius * Math.sqrt(0.5 + i), angle = i * initialAngle;
+        node.x = radius * Math.cos(angle);
+        node.y = radius * Math.sin(angle);
+      }
+      if (isNaN(node.vx) || isNaN(node.vy)) {
+        node.vx = node.vy = 0;
+      }
+    }
+  }
+  function initializeForce(force) {
+    if (force.initialize) force.initialize(nodes, random);
+    return force;
+  }
+  initializeNodes();
+  return simulation = {
+    tick,
+    restart: function() {
+      return stepper.restart(step), simulation;
+    },
+    stop: function() {
+      return stepper.stop(), simulation;
+    },
+    nodes: function(_) {
+      return arguments.length ? (nodes = _, initializeNodes(), forces.forEach(initializeForce), simulation) : nodes;
+    },
+    alpha: function(_) {
+      return arguments.length ? (alpha = +_, simulation) : alpha;
+    },
+    alphaMin: function(_) {
+      return arguments.length ? (alphaMin = +_, simulation) : alphaMin;
+    },
+    alphaDecay: function(_) {
+      return arguments.length ? (alphaDecay = +_, simulation) : +alphaDecay;
+    },
+    alphaTarget: function(_) {
+      return arguments.length ? (alphaTarget = +_, simulation) : alphaTarget;
+    },
+    velocityDecay: function(_) {
+      return arguments.length ? (velocityDecay = 1 - _, simulation) : 1 - velocityDecay;
+    },
+    randomSource: function(_) {
+      return arguments.length ? (random = _, forces.forEach(initializeForce), simulation) : random;
+    },
+    force: function(name, _) {
+      return arguments.length > 1 ? (_ == null ? forces.delete(name) : forces.set(name, initializeForce(_)), simulation) : forces.get(name);
+    },
+    find: function(x3, y3, radius) {
+      var i = 0, n = nodes.length, dx, dy, d2, node, closest;
+      if (radius == null) radius = Infinity;
+      else radius *= radius;
+      for (i = 0; i < n; ++i) {
+        node = nodes[i];
+        dx = x3 - node.x;
+        dy = y3 - node.y;
+        d2 = dx * dx + dy * dy;
+        if (d2 < radius) closest = node, radius = d2;
+      }
+      return closest;
+    },
+    on: function(name, _) {
+      return arguments.length > 1 ? (event.on(name, _), simulation) : event.on(name);
+    }
+  };
+}
+var initialRadius, initialAngle;
+var init_simulation = __esm({
+  "../../node_modules/d3-force/src/simulation.js"() {
+    init_src3();
+    init_src4();
+    init_lcg();
+    initialRadius = 10;
+    initialAngle = Math.PI * (3 - Math.sqrt(5));
+  }
+});
+
+// ../../node_modules/d3-force/src/manyBody.js
+function manyBody_default() {
+  var nodes, node, random, alpha, strength = constant_default(-30), strengths, distanceMin2 = 1, distanceMax2 = Infinity, theta2 = 0.81;
+  function force(_) {
+    var i, n = nodes.length, tree = quadtree(nodes, x2, y2).visitAfter(accumulate);
+    for (alpha = _, i = 0; i < n; ++i) node = nodes[i], tree.visit(apply);
+  }
+  function initialize() {
+    if (!nodes) return;
+    var i, n = nodes.length, node2;
+    strengths = new Array(n);
+    for (i = 0; i < n; ++i) node2 = nodes[i], strengths[node2.index] = +strength(node2, i, nodes);
+  }
+  function accumulate(quad) {
+    var strength2 = 0, q, c2, weight = 0, x3, y3, i;
+    if (quad.length) {
+      for (x3 = y3 = i = 0; i < 4; ++i) {
+        if ((q = quad[i]) && (c2 = Math.abs(q.value))) {
+          strength2 += q.value, weight += c2, x3 += c2 * q.x, y3 += c2 * q.y;
+        }
+      }
+      quad.x = x3 / weight;
+      quad.y = y3 / weight;
+    } else {
+      q = quad;
+      q.x = q.data.x;
+      q.y = q.data.y;
+      do
+        strength2 += strengths[q.data.index];
+      while (q = q.next);
+    }
+    quad.value = strength2;
+  }
+  function apply(quad, x1, _, x22) {
+    if (!quad.value) return true;
+    var x3 = quad.x - node.x, y3 = quad.y - node.y, w = x22 - x1, l = x3 * x3 + y3 * y3;
+    if (w * w / theta2 < l) {
+      if (l < distanceMax2) {
+        if (x3 === 0) x3 = jiggle_default(random), l += x3 * x3;
+        if (y3 === 0) y3 = jiggle_default(random), l += y3 * y3;
+        if (l < distanceMin2) l = Math.sqrt(distanceMin2 * l);
+        node.vx += x3 * quad.value * alpha / l;
+        node.vy += y3 * quad.value * alpha / l;
+      }
+      return true;
+    } else if (quad.length || l >= distanceMax2) return;
+    if (quad.data !== node || quad.next) {
+      if (x3 === 0) x3 = jiggle_default(random), l += x3 * x3;
+      if (y3 === 0) y3 = jiggle_default(random), l += y3 * y3;
+      if (l < distanceMin2) l = Math.sqrt(distanceMin2 * l);
+    }
+    do
+      if (quad.data !== node) {
+        w = strengths[quad.data.index] * alpha / l;
+        node.vx += x3 * w;
+        node.vy += y3 * w;
+      }
+    while (quad = quad.next);
+  }
+  force.initialize = function(_nodes, _random) {
+    nodes = _nodes;
+    random = _random;
+    initialize();
+  };
+  force.strength = function(_) {
+    return arguments.length ? (strength = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : strength;
+  };
+  force.distanceMin = function(_) {
+    return arguments.length ? (distanceMin2 = _ * _, force) : Math.sqrt(distanceMin2);
+  };
+  force.distanceMax = function(_) {
+    return arguments.length ? (distanceMax2 = _ * _, force) : Math.sqrt(distanceMax2);
+  };
+  force.theta = function(_) {
+    return arguments.length ? (theta2 = _ * _, force) : Math.sqrt(theta2);
+  };
+  return force;
+}
+var init_manyBody = __esm({
+  "../../node_modules/d3-force/src/manyBody.js"() {
+    init_src2();
+    init_constant();
+    init_jiggle();
+    init_simulation();
+  }
+});
+
+// ../../node_modules/d3-force/src/x.js
+function x_default2(x3) {
+  var strength = constant_default(0.1), nodes, strengths, xz;
+  if (typeof x3 !== "function") x3 = constant_default(x3 == null ? 0 : +x3);
+  function force(alpha) {
+    for (var i = 0, n = nodes.length, node; i < n; ++i) {
+      node = nodes[i], node.vx += (xz[i] - node.x) * strengths[i] * alpha;
+    }
+  }
+  function initialize() {
+    if (!nodes) return;
+    var i, n = nodes.length;
+    strengths = new Array(n);
+    xz = new Array(n);
+    for (i = 0; i < n; ++i) {
+      strengths[i] = isNaN(xz[i] = +x3(nodes[i], i, nodes)) ? 0 : +strength(nodes[i], i, nodes);
+    }
+  }
+  force.initialize = function(_) {
+    nodes = _;
+    initialize();
+  };
+  force.strength = function(_) {
+    return arguments.length ? (strength = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : strength;
+  };
+  force.x = function(_) {
+    return arguments.length ? (x3 = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : x3;
+  };
+  return force;
+}
+var init_x2 = __esm({
+  "../../node_modules/d3-force/src/x.js"() {
+    init_constant();
+  }
+});
+
+// ../../node_modules/d3-force/src/y.js
+function y_default2(y3) {
+  var strength = constant_default(0.1), nodes, strengths, yz;
+  if (typeof y3 !== "function") y3 = constant_default(y3 == null ? 0 : +y3);
+  function force(alpha) {
+    for (var i = 0, n = nodes.length, node; i < n; ++i) {
+      node = nodes[i], node.vy += (yz[i] - node.y) * strengths[i] * alpha;
+    }
+  }
+  function initialize() {
+    if (!nodes) return;
+    var i, n = nodes.length;
+    strengths = new Array(n);
+    yz = new Array(n);
+    for (i = 0; i < n; ++i) {
+      strengths[i] = isNaN(yz[i] = +y3(nodes[i], i, nodes)) ? 0 : +strength(nodes[i], i, nodes);
+    }
+  }
+  force.initialize = function(_) {
+    nodes = _;
+    initialize();
+  };
+  force.strength = function(_) {
+    return arguments.length ? (strength = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : strength;
+  };
+  force.y = function(_) {
+    return arguments.length ? (y3 = typeof _ === "function" ? _ : constant_default(+_), initialize(), force) : y3;
+  };
+  return force;
+}
+var init_y2 = __esm({
+  "../../node_modules/d3-force/src/y.js"() {
+    init_constant();
+  }
+});
+
+// ../../node_modules/d3-force/src/index.js
+var init_src5 = __esm({
+  "../../node_modules/d3-force/src/index.js"() {
+    init_collide();
+    init_link();
+    init_manyBody();
+    init_simulation();
+    init_x2();
+    init_y2();
+  }
+});
+
+// src/study/timeGraph.ts
+function solidColor(c2) {
+  const m2 = /^var\((--[\w-]+)\)$/.exec(c2);
+  if (!m2) return c2;
+  const v = getComputedStyle(document.body).getPropertyValue(m2[1]).trim();
+  return v || "#7c6cff";
+}
+function yearStr(y3) {
+  return y3 < 0 ? `${-y3} BC` : `AD ${y3}`;
+}
+var KIND_COLOR, KIND_EMOJI, WORLD_W, NODE_BUDGET, remembered, TimeGraph;
+var init_timeGraph = __esm({
+  "src/study/timeGraph.ts"() {
+    "use strict";
+    init_src5();
+    KIND_COLOR = {
+      people: "#f0b884",
+      places: "#8fd0f4",
+      things: "#c9b8ff"
+    };
+    KIND_EMOJI = {
+      people: "\u{1F9D1}",
+      places: "\u{1F5FA}",
+      things: "\u{1F4E6}"
+    };
+    WORLD_W = 1100;
+    NODE_BUDGET = 1200;
+    remembered = /* @__PURE__ */ new Map();
+    TimeGraph = class {
+      constructor(host, scope, cbs) {
+        this.host = host;
+        this.scope = scope;
+        this.cbs = cbs;
+        this.canvas = host.createEl("canvas", { cls: "sg-tg-canvas" });
+        this.ctx = this.canvas.getContext("2d");
+        this.buildGraph();
+        this.buildLegend();
+        this.buildHint();
+        this.fitCamera();
+        this.attach();
+        if (this.nodes.length && this.nodes.length <= NODE_BUDGET) this.startSim();
+        this.loop();
+      }
+      canvas;
+      ctx;
+      sim = null;
+      nodes = [];
+      links = [];
+      cam = { x: 0, y: 0, k: 1 };
+      raf = 0;
+      simLive = false;
+      needsDraw = true;
+      hover = null;
+      selected = null;
+      chipEl = null;
+      worldH = 1e3;
+      breaks = [];
+      // [year, worldY] piecewise spine
+      disposed = false;
+      pointers = /* @__PURE__ */ new Map();
+      pinchDist = 0;
+      dragging = null;
+      panning = false;
+      moved = false;
+      last = { x: 0, y: 0 };
+      ro = null;
+      destroy() {
+        this.disposed = true;
+        cancelAnimationFrame(this.raf);
+        this.sim?.stop();
+        this.ro?.disconnect();
+        for (const n of this.nodes) {
+          remembered.set(n.id, { x: n.x ?? 0, y: n.y ?? 0 });
+        }
+        this.host.empty();
+      }
+      // ------------------------------------------------------------- the graph
+      /** events pinned to their years; every person/place/thing ONE shared
+       * node, spring-tied to each moment it touches */
+      buildGraph() {
+        const { events, focuses, laneF } = this.scope;
+        const eras = [...this.scope.eras].sort((a2, b) => a2.y - b.y);
+        const END_Y = 2100;
+        let acc = 40;
+        this.breaks = [];
+        for (let i = 0; i < eras.length; i++) {
+          const y0 = eras[i].y;
+          const y1 = i + 1 < eras.length ? eras[i + 1].y : END_Y;
+          const inside = events.filter((e) => e.y0 >= y0 && e.y0 < y1).length;
+          this.breaks.push([y0, acc]);
+          acc += Math.max(150, inside * 58);
+        }
+        this.breaks.push([END_Y, acc]);
+        this.worldH = acc + 60;
+        const yFor = (year) => this.yForYear(year);
+        const nodes = [];
+        const links = [];
+        const byId = /* @__PURE__ */ new Map();
+        const entity = /* @__PURE__ */ new Map();
+        const focusOf = (kind, name) => focuses.find((f) => f.kind === kind && f.name === name) ?? null;
+        for (const ev of events) {
+          const mid = (ev.y0 + ev.y1) / 2;
+          const n = {
+            id: `e:${ev.id}`,
+            type: "event",
+            ev,
+            label: ev.t,
+            color: this.scope.laneColor[ev.lane] ?? "#9aa7c7",
+            r: ev.imp === 1 ? 9 : ev.imp === 2 ? 7 : 5.5,
+            deg: 0,
+            x: (laneF[ev.lane] ?? 0.5) * WORLD_W + (Math.random() - 0.5) * 60,
+            fy: yFor(mid),
+            y: yFor(mid)
+          };
+          const kept = remembered.get(n.id);
+          if (kept) n.x = kept.x;
+          byId.set(ev.id, n);
+          nodes.push(n);
+          const kinds = ["people", "places", "things"];
+          for (const kind of kinds) {
+            for (const name of ev[kind] ?? []) {
+              const key = `${kind}:${name}`;
+              let sat = entity.get(key);
+              if (!sat) {
+                const f = focusOf(kind, name);
+                sat = {
+                  id: `s:${key}`,
+                  type: "entity",
+                  kind,
+                  label: name,
+                  color: f ? solidColor(f.accent) : KIND_COLOR[kind],
+                  accent: f ? solidColor(f.accent) : void 0,
+                  r: 4,
+                  deg: 0,
+                  x: (n.x ?? 0) + (Math.random() - 0.5) * 80,
+                  y: (n.y ?? 0) + (Math.random() - 0.5) * 80
+                };
+                const seat = remembered.get(sat.id);
+                if (seat) {
+                  sat.x = seat.x;
+                  sat.y = seat.y;
+                }
+                entity.set(key, sat);
+                nodes.push(sat);
+              }
+              sat.deg++;
+              n.deg++;
+              links.push({ source: n, target: sat, kind: "member" });
+            }
+          }
+        }
+        for (const sat of entity.values()) {
+          sat.r = 4 + Math.min(9, sat.deg * 1.1) + (sat.accent ? 1.5 : 0);
+        }
+        for (const [a2, b] of this.scope.narrative) {
+          const na = byId.get(a2), nb = byId.get(b);
+          if (na && nb) links.push({ source: na, target: nb, kind: "narrative" });
+        }
+        this.nodes = nodes;
+        this.links = links;
+      }
+      yForYear(year) {
+        const b = this.breaks;
+        if (!b.length) return 0;
+        if (year <= b[0][0]) return b[0][1];
+        for (let i = 0; i + 1 < b.length; i++) {
+          const [y0, p0] = b[i], [y1, p1] = b[i + 1];
+          if (year <= y1) return p0 + (year - y0) / (y1 - y0) * (p1 - p0);
+        }
+        return b[b.length - 1][1];
+      }
+      startSim() {
+        const { laneF } = this.scope;
+        const meanEventX = (n) => {
+          let sx = 0, c2 = 0;
+          for (const l of this.links) {
+            if (l.kind !== "member") continue;
+            const s = l.source, t = l.target;
+            if (t === n) {
+              sx += s.x ?? 0;
+              c2++;
+            }
+          }
+          return c2 ? sx / c2 : WORLD_W / 2;
+        };
+        this.sim = simulation_default(this.nodes).force("link", link_default(this.links).distance((l) => l.kind === "member" ? 46 : 170).strength((l) => l.kind === "member" ? 0.5 : 0.04)).force("charge", manyBody_default().strength(-150).distanceMax(340)).force("collide", collide_default((n) => n.r + 4).strength(0.8)).force("x", x_default2((n) => n.type === "event" ? (laneF[n.ev.lane] ?? 0.5) * WORLD_W : meanEventX(n)).strength((n) => n.type === "event" ? 0.14 : 0.03)).force("y", y_default2((n) => {
+          if (n.type === "event") return n.fy ?? 0;
+          let sy = 0, c2 = 0;
+          for (const l of this.links) {
+            if (l.kind !== "member") continue;
+            if (l.target === n) {
+              sy += l.source.fy ?? 0;
+              c2++;
+            }
+          }
+          return c2 ? sy / c2 : this.worldH / 2;
+        }).strength((n) => n.type === "event" ? 0 : 0.05)).velocityDecay(0.32).alphaDecay(0.028).alphaMin(4e-3).on("tick", () => {
+          this.needsDraw = true;
+        }).on("end", () => {
+          this.simLive = false;
+        });
+        this.simLive = true;
+      }
+      reheat(target = 0.25) {
+        if (!this.sim) return;
+        this.simLive = true;
+        this.sim.alphaTarget(target).restart();
+      }
+      cool() {
+        this.sim?.alphaTarget(0);
+      }
+      // ------------------------------------------------------------ the camera
+      fitCamera() {
+        const w = this.host.clientWidth || 360;
+        this.cam.k = Math.max(0.3, Math.min(1.4, w * 0.94 / WORLD_W));
+        this.cam.x = (w - WORLD_W * this.cam.k) / 2;
+        const first = this.nodes.find((n) => n.type === "event");
+        this.cam.y = 46 - ((first?.fy ?? 0) - 60) * this.cam.k;
+      }
+      toWorld(px, py) {
+        return { x: (px - this.cam.x) / this.cam.k, y: (py - this.cam.y) / this.cam.k };
+      }
+      // -------------------------------------------------------------- the loop
+      loop() {
+        const step = () => {
+          if (this.disposed) return;
+          if (this.simLive || this.needsDraw) {
+            this.needsDraw = false;
+            this.draw();
+          }
+          this.raf = requestAnimationFrame(step);
+        };
+        this.raf = requestAnimationFrame(step);
+      }
+      draw() {
+        const c2 = this.canvas, ctx = this.ctx;
+        const dpr = window.devicePixelRatio || 1;
+        const w = this.host.clientWidth, h = this.host.clientHeight;
+        if (!w || !h) return;
+        if (c2.width !== w * dpr || c2.height !== h * dpr) {
+          c2.width = w * dpr;
+          c2.height = h * dpr;
+          c2.style.width = `${w}px`;
+          c2.style.height = `${h}px`;
+        }
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        ctx.clearRect(0, 0, w, h);
+        const { x: cx, y: cy, k } = this.cam;
+        ctx.save();
+        ctx.translate(cx, cy);
+        ctx.scale(k, k);
+        if (this.nodes.length > NODE_BUDGET) {
+          ctx.restore();
+          ctx.fillStyle = "rgba(220,228,255,0.75)";
+          ctx.font = "14px sans-serif";
+          ctx.textAlign = "center";
+          ctx.fillText("Too many stars for one sky \u2014 narrow the filters above.", w / 2, h / 2);
+          return;
+        }
+        const eras = this.scope.eras;
+        for (let i = 0; i < this.breaks.length - 1; i++) {
+          const [, p0] = this.breaks[i], [, p1] = this.breaks[i + 1];
+          const era = eras[i];
+          if (!era) continue;
+          ctx.fillStyle = era.tint;
+          ctx.fillRect(-2e3, p0, 5e3, p1 - p0);
+          ctx.fillStyle = "rgba(235,240,255,0.05)";
+          ctx.font = `700 ${Math.min(64, 26 / Math.min(1, k))}px sans-serif`;
+          ctx.textAlign = "center";
+          ctx.fillText(era.label.toUpperCase(), WORLD_W / 2, p0 + 44);
+          ctx.fillStyle = "rgba(200,212,240,0.35)";
+          ctx.font = `600 ${11 / Math.min(1, k)}px sans-serif`;
+          ctx.textAlign = "left";
+          ctx.fillText(yearStr(era.y), 14, p0 + 16);
+        }
+        const lit = this.selected ?? this.hover;
+        const litSet = /* @__PURE__ */ new Set();
+        if (lit) {
+          litSet.add(lit);
+          for (const l of this.links) {
+            if (l.kind !== "member") continue;
+            const s = l.source, t = l.target;
+            if (s === lit) litSet.add(t);
+            if (t === lit) litSet.add(s);
+          }
+        }
+        for (const l of this.links) {
+          const s = l.source, t = l.target;
+          const touches = lit && (s === lit || t === lit);
+          if (l.kind === "narrative") {
+            ctx.strokeStyle = "rgba(150,170,220,0.14)";
+            ctx.setLineDash([5, 6]);
+          } else {
+            const accent = s.accent ?? t.accent;
+            const alpha = lit ? touches ? 0.5 : 0.04 : accent ? 0.3 : 0.14;
+            ctx.strokeStyle = touches && lit ? this.rgba(lit.color, alpha) : accent ? this.rgba(accent, alpha) : `rgba(150,168,205,${alpha})`;
+            ctx.setLineDash([]);
+          }
+          ctx.lineWidth = (touches ? 1.6 : 0.8) / k;
+          ctx.beginPath();
+          ctx.moveTo(s.x ?? 0, s.y ?? 0);
+          ctx.lineTo(t.x ?? 0, t.y ?? 0);
+          ctx.stroke();
+        }
+        ctx.setLineDash([]);
+        for (const n of this.nodes) {
+          const dim = lit ? !litSet.has(n) : false;
+          const x3 = n.x ?? 0, y3 = n.y ?? 0;
+          ctx.globalAlpha = dim ? 0.18 : 1;
+          ctx.fillStyle = this.rgba(n.color, 0.18);
+          ctx.beginPath();
+          ctx.arc(x3, y3, n.r * 2.1, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.fillStyle = n.color;
+          ctx.beginPath();
+          ctx.arc(x3, y3, n.r, 0, Math.PI * 2);
+          ctx.fill();
+          if (n === this.selected) {
+            ctx.strokeStyle = "rgba(255,255,255,0.85)";
+            ctx.lineWidth = 1.6 / k;
+            ctx.beginPath();
+            ctx.arc(x3, y3, n.r + 4 / k, 0, Math.PI * 2);
+            ctx.stroke();
+          }
+          ctx.globalAlpha = 1;
+        }
+        ctx.restore();
+        ctx.textAlign = "left";
+        for (const n of this.nodes) {
+          const isLit = litSet.has(n);
+          const show = isLit || n.type === "event" && (n.ev.imp <= 2 && k > 0.55 || k > 1.05) || n.type === "entity" && (k > 0.85 || n.deg >= 4) && k > 0.45;
+          if (!show) continue;
+          const dim = lit ? !isLit : false;
+          if (dim) continue;
+          const sx = (n.x ?? 0) * k + this.cam.x + (n.r + 6) * k;
+          const sy = (n.y ?? 0) * k + this.cam.y + 4;
+          if (sx < -140 || sx > w + 20 || sy < -20 || sy > h + 20) continue;
+          const big = n.type === "event" && n.ev.imp === 1;
+          ctx.font = `${big ? 700 : 500} ${big ? 12.5 : 11}px sans-serif`;
+          ctx.lineWidth = 3;
+          ctx.strokeStyle = "rgba(8,10,18,0.85)";
+          ctx.strokeText(n.label, sx, sy);
+          ctx.fillStyle = isLit ? "#ffffff" : n.type === "entity" ? this.rgba(n.color, 0.95) : "rgba(228,234,250,0.92)";
+          ctx.fillText(n.label, sx, sy);
+        }
+      }
+      rgba(hex, a2) {
+        const m2 = /^#([0-9a-f]{6})$/i.exec(hex);
+        if (!m2) return hex;
+        const v = parseInt(m2[1], 16);
+        return `rgba(${v >> 16 & 255},${v >> 8 & 255},${v & 255},${a2})`;
+      }
+      // -------------------------------------------------------- the interaction
+      nodeAt(px, py) {
+        const wpt = this.toWorld(px, py);
+        const slack = 14 / this.cam.k;
+        let best = null, bd = Infinity;
+        for (const n of this.nodes) {
+          const dx = (n.x ?? 0) - wpt.x, dy = (n.y ?? 0) - wpt.y;
+          const d = Math.hypot(dx, dy) - n.r;
+          if (d < slack && d < bd) {
+            best = n;
+            bd = d;
+          }
+        }
+        return best;
+      }
+      attach() {
+        const c2 = this.canvas;
+        this.ro = new ResizeObserver(() => {
+          this.needsDraw = true;
+        });
+        this.ro.observe(this.host);
+        c2.addEventListener("wheel", (ev) => {
+          ev.preventDefault();
+          const factor = Math.exp(-ev.deltaY * 16e-4);
+          this.zoomAt(ev.offsetX, ev.offsetY, factor);
+        }, { passive: false });
+        c2.addEventListener("pointerdown", (ev) => {
+          c2.setPointerCapture(ev.pointerId);
+          this.pointers.set(ev.pointerId, { x: ev.offsetX, y: ev.offsetY });
+          this.moved = false;
+          if (this.pointers.size === 2) {
+            const [a2, b] = [...this.pointers.values()];
+            this.pinchDist = Math.hypot(a2.x - b.x, a2.y - b.y);
+            this.dragging = null;
+            this.panning = false;
+            return;
+          }
+          this.last = { x: ev.offsetX, y: ev.offsetY };
+          const hit = this.nodeAt(ev.offsetX, ev.offsetY);
+          if (hit) {
+            this.dragging = hit;
+            this.reheat(0.2);
+          } else {
+            this.panning = true;
+          }
+        });
+        c2.addEventListener("pointermove", (ev) => {
+          const p = this.pointers.get(ev.pointerId);
+          if (p) {
+            p.x = ev.offsetX;
+            p.y = ev.offsetY;
+          }
+          if (this.pointers.size === 2) {
+            const [a2, b] = [...this.pointers.values()];
+            const d = Math.hypot(a2.x - b.x, a2.y - b.y);
+            if (this.pinchDist > 0) {
+              this.zoomAt((a2.x + b.x) / 2, (a2.y + b.y) / 2, d / this.pinchDist);
+            }
+            this.pinchDist = d;
+            this.moved = true;
+            return;
+          }
+          if (this.dragging) {
+            const wpt = this.toWorld(ev.offsetX, ev.offsetY);
+            this.dragging.fx = wpt.x;
+            if (this.dragging.type === "entity") this.dragging.fy = wpt.y;
+            this.moved = true;
+            this.needsDraw = true;
+            return;
+          }
+          if (this.panning) {
+            this.cam.x += ev.offsetX - this.last.x;
+            this.cam.y += ev.offsetY - this.last.y;
+            this.last = { x: ev.offsetX, y: ev.offsetY };
+            this.moved = true;
+            this.needsDraw = true;
+            return;
+          }
+          const hov = this.nodeAt(ev.offsetX, ev.offsetY);
+          if (hov !== this.hover) {
+            this.hover = hov;
+            c2.style.cursor = hov ? "pointer" : "default";
+            this.needsDraw = true;
+          }
+        });
+        const release = (ev) => {
+          this.pointers.delete(ev.pointerId);
+          if (this.pointers.size < 2) this.pinchDist = 0;
+          if (this.dragging) {
+            const n = this.dragging;
+            this.dragging = null;
+            n.fx = void 0;
+            if (n.type === "entity") n.fy = void 0;
+            this.cool();
+            if (!this.moved) this.select(n);
+            return;
+          }
+          const wasPan = this.panning;
+          this.panning = false;
+          if (!this.moved && wasPan) this.select(null);
+        };
+        c2.addEventListener("pointerup", release);
+        c2.addEventListener("pointercancel", release);
+      }
+      zoomAt(px, py, factor) {
+        const k1 = Math.max(0.22, Math.min(3.2, this.cam.k * factor));
+        const wpt = this.toWorld(px, py);
+        this.cam.k = k1;
+        this.cam.x = px - wpt.x * k1;
+        this.cam.y = py - wpt.y * k1;
+        this.needsDraw = true;
+      }
+      // ------------------------------------------------------- chip and legend
+      /** tap a star and it introduces itself — with doors deeper in */
+      select(n) {
+        this.selected = n;
+        this.needsDraw = true;
+        this.chipEl?.remove();
+        this.chipEl = null;
+        if (!n) return;
+        const chip = this.host.createDiv({ cls: "sg-tg-chip" });
+        this.chipEl = chip;
+        const head = chip.createDiv({ cls: "sg-tg-chip-head" });
+        if (n.type === "entity") {
+          head.createSpan({ text: `${KIND_EMOJI[n.kind]} ` });
+          head.createSpan({ cls: "sg-tg-chip-name", text: n.label });
+          chip.createDiv({
+            cls: "sg-tg-chip-sub",
+            text: `${n.deg} moment${n.deg === 1 ? "" : "s"} across time`
+          });
+          const row = chip.createDiv({ cls: "sg-tg-chip-row" });
+          const focus = row.createEl("button", { cls: "sg-tg-chip-btn", text: "\u{1F3AF} Focus" });
+          focus.onclick = () => this.cbs.onFocusSubject({ kind: n.kind, name: n.label });
+          if (n.kind !== "things") {
+            const open2 = row.createEl("button", { cls: "sg-tg-chip-btn", text: "\u2197 Page" });
+            open2.onclick = () => this.cbs.onOpenEntity(n.label);
+          }
+        } else {
+          const ev = n.ev;
+          head.createSpan({ cls: "sg-tg-chip-name", text: ev.t });
+          const span = ev.y0 === ev.y1 ? yearStr(ev.y0) : `${yearStr(ev.y0)} \u2013 ${yearStr(ev.y1)}`;
+          chip.createDiv({ cls: "sg-tg-chip-sub", text: `${span} \xB7 ${ev.note}` });
+          const first = ev.chapters?.[0];
+          if (first) {
+            const row = chip.createDiv({ cls: "sg-tg-chip-row" });
+            const open2 = row.createEl("button", { cls: "sg-tg-chip-btn", text: `\u{1F4D6} ${first}` });
+            open2.onclick = () => this.cbs.onOpenChapter(first);
+          }
+        }
+        const x3 = chip.createEl("button", { cls: "sg-tg-chip-x", text: "\u2715" });
+        x3.onclick = () => this.select(null);
+      }
+      /** the group colors, named — the legend doubles as the promise that both
+       * graph surfaces speak the same language */
+      buildLegend() {
+        const leg = this.host.createDiv({ cls: "sg-tg-legend" });
+        const dot = (color, label) => {
+          const d = leg.createSpan({ cls: "sg-tg-leg" });
+          d.createSpan({ cls: "sg-tg-leg-dot" }).style.background = color;
+          d.createSpan({ text: label });
+        };
+        dot(KIND_COLOR.people, "People");
+        dot(KIND_COLOR.places, "Places");
+        dot(KIND_COLOR.things, "Things");
+      }
+      buildHint() {
+        this.host.createDiv({
+          cls: "sg-tg-hint",
+          text: "drag the sky \xB7 pinch or scroll to zoom \xB7 tap a star"
+        });
+      }
+    };
   }
 });
 
@@ -6113,8 +7698,8 @@ __export(timelineView_exports, {
 function accentAt(i, total) {
   return total > 1 ? FOCUS_ACCENTS[i % FOCUS_ACCENTS.length] : "var(--interactive-accent)";
 }
-function yearStr(y) {
-  return y < 0 ? `${-y} BC` : `AD ${y}`;
+function yearStr2(y3) {
+  return y3 < 0 ? `${-y3} BC` : `AD ${y3}`;
 }
 function joinNames(names) {
   if (names.length <= 2) return names.join(" & ");
@@ -6125,9 +7710,9 @@ async function loadTimelineData(app) {
   if (!(file instanceof import_obsidian8.TFile)) return null;
   try {
     const md = await app.vault.cachedRead(file);
-    const m = /```json\n([\s\S]*?)\n```/.exec(md);
-    if (!m) return null;
-    return JSON.parse(m[1]);
+    const m2 = /```json\n([\s\S]*?)\n```/.exec(md);
+    if (!m2) return null;
+    return JSON.parse(m2[1]);
   } catch {
     return null;
   }
@@ -6141,6 +7726,7 @@ var init_timelineView = __esm({
     "use strict";
     import_obsidian8 = require("obsidian");
     init_sheetRegistry();
+    init_timeGraph();
     TIMELINE_VIEW = "sg-timeline";
     SUBJECT_META = {
       people: { emoji: "\u{1F9D1}", label: "People" },
@@ -6223,15 +7809,20 @@ var init_timelineView = __esm({
         this.s = s;
         this.navigation = true;
         const dev = s.device;
-        if (dev?.tlDepth === 1 || dev?.tlDepth === 2) this.depth = dev.tlDepth;
+        if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
+          this.depth = dev.tlDepth;
+        }
       }
       data = null;
       lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
-      cats = new Set(CATS.map((c) => c.key));
+      cats = new Set(CATS.map((c2) => c2.key));
       detail = false;
       // false = major+notable only
       depth = 2;
-      // 2 = storylines braid out of their lane
+      // 2 = braids; 3 = ✨ the constellation
+      /** the live physics sky when depth 3 is on — one instance, torn down
+       * whenever the stream re-renders or the view closes */
+      graph = null;
       query = "";
       /** the subjects whose threads are lit — empty = no focus, 2+ = a weave */
       focuses = [];
@@ -6276,7 +7867,7 @@ var init_timelineView = __esm({
       /** the shared zero state: every world, every lens, nothing focused */
       clearAll() {
         this.lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
-        this.cats = new Set(CATS.map((c) => c.key));
+        this.cats = new Set(CATS.map((c2) => c2.key));
         this.detail = false;
         this.query = "";
         this.showLenses = false;
@@ -6323,9 +7914,9 @@ var init_timelineView = __esm({
         return "history";
       }
       /** scroll to a year once rendered (era-tap from a reading page) */
-      setYear(y) {
-        this.pendingYear = y;
-        if (this.data) this.scrollToYear(y);
+      setYear(y3) {
+        this.pendingYear = y3;
+        if (this.data) this.scrollToYear(y3);
       }
       async onOpen() {
         this.contentEl.addClass("sg-tl");
@@ -6357,13 +7948,13 @@ var init_timelineView = __esm({
       visible() {
         if (!this.data) return [];
         if (this.focuses.length) {
-          return this.data.events.filter((e) => this.focuses.some((f) => (e[f.kind] ?? []).includes(f.name))).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+          return this.data.events.filter((e) => this.focuses.some((f) => (e[f.kind] ?? []).includes(f.name))).sort((a2, b) => a2.y0 - b.y0 || a2.id.localeCompare(b.id));
         }
         const q = this.query.toLowerCase();
         return this.data.events.filter((e) => {
           if (!this.lanes.has(e.lane)) return false;
           if (!this.detail && e.imp > 2) return false;
-          if (!e.cat.some((c) => this.cats.has(c))) return false;
+          if (!e.cat.some((c2) => this.cats.has(c2))) return false;
           if (q) {
             const hay = [
               e.t,
@@ -6376,7 +7967,7 @@ var init_timelineView = __esm({
             if (!hay.includes(q)) return false;
           }
           return true;
-        }).sort((a, b) => a.y0 - b.y0 || a.id.localeCompare(b.id));
+        }).sort((a2, b) => a2.y0 - b.y0 || a2.id.localeCompare(b.id));
       }
       /** every subject the dataset knows, with how often it appears */
       subjectIndex(kind) {
@@ -6386,17 +7977,17 @@ var init_timelineView = __esm({
             counts.set(name, (counts.get(name) ?? 0) + 1);
           }
         }
-        return Array.from(counts.entries()).map(([name, n]) => ({ name, n })).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
+        return Array.from(counts.entries()).map(([name, n]) => ({ name, n })).sort((a2, b) => b.n - a2.n || a2.name.localeCompare(b.name));
       }
       /** how many moments one subject's OWN thread holds */
       momentCount(f) {
         return (this.data?.events ?? []).filter((e) => (e[f.kind] ?? []).includes(f.name)).length;
       }
       render() {
-        const c = this.contentEl;
-        c.empty();
+        const c2 = this.contentEl;
+        c2.empty();
         if (!this.data) {
-          const empty = c.createDiv({ cls: "sg-tl-empty" });
+          const empty = c2.createDiv({ cls: "sg-tl-empty" });
           empty.createDiv({
             text: "Timeline data hasn't reached this device yet \u2014 it loads itself the moment it arrives."
           });
@@ -6406,7 +7997,7 @@ var init_timelineView = __esm({
         }
         if (this.focuses.length) {
           const events = this.visible();
-          const bar2 = c.createDiv({ cls: "sg-tl-bar" });
+          const bar2 = c2.createDiv({ cls: "sg-tl-bar" });
           const banner2 = bar2.createDiv({ cls: "sg-tl-focus" });
           const solo = this.focuses.length === 1 && !this.presetTitle ? this.focuses[0] : null;
           if (solo) {
@@ -6442,9 +8033,9 @@ var init_timelineView = __esm({
               cls: "sg-tl-focus-sub",
               text: `${this.focuses.length} thread${this.focuses.length === 1 ? "" : "s"} \xB7 ${events.length} moment${events.length === 1 ? "" : "s"} across time`
             });
-            const add = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\uFF0B" });
-            add.setAttr("aria-label", "Weave in another subject");
-            add.onclick = () => new SubjectPickerModal(
+            const add2 = banner2.createEl("button", { cls: "sg-tl-focus-btn", text: "\uFF0B" });
+            add2.setAttr("aria-label", "Weave in another subject");
+            add2.onclick = () => new SubjectPickerModal(
               this.s,
               this,
               (sub) => this.addFocus(sub)
@@ -6462,16 +8053,16 @@ var init_timelineView = __esm({
               chip.createSpan({ cls: "sg-tlf-emoji", text: SUBJECT_META[f.kind].emoji });
               chip.createSpan({ cls: "sg-tlf-name", text: f.name });
               chip.createSpan({ cls: "sg-tlf-n", text: `${n}` });
-              const x = chip.createEl("button", { cls: "sg-tlf-x", text: "\u2715" });
-              x.setAttr("aria-label", `Drop ${f.name} from the weave`);
-              x.onclick = () => this.dropFocus(i);
+              const x3 = chip.createEl("button", { cls: "sg-tlf-x", text: "\u2715" });
+              x3.setAttr("aria-label", `Drop ${f.name} from the weave`);
+              x3.onclick = () => this.dropFocus(i);
             });
           }
-          this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+          this.streamEl = c2.createDiv({ cls: "sg-tl-stream" });
           this.renderStream();
           return;
         }
-        const bar = c.createDiv({ cls: "sg-tl-bar" });
+        const bar = c2.createDiv({ cls: "sg-tl-bar" });
         const eras = bar.createDiv({ cls: "sg-tl-eras" });
         eras.createSpan({ cls: "sg-tl-rowcap", text: "Jump to" });
         for (const era of ERAS) {
@@ -6485,7 +8076,8 @@ var init_timelineView = __esm({
           seg.createSpan({ cls: "sg-tl-seg-cap", text: "Depth" });
           const segDefs = [
             [1, "1", "One line per world"],
-            [2, "2", "Split the storylines apart"]
+            [2, "2", "Split the storylines apart"],
+            [3, "\u2728", "Constellation \u2014 the living web across time"]
           ];
           for (const [d, label, hint] of segDefs) {
             const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
@@ -6573,7 +8165,7 @@ var init_timelineView = __esm({
             b.toggleClass("sg-tl-on", this.cats.has(cat.key));
             b.onclick = () => {
               if (this.cats.has(cat.key) && this.cats.size === 1) {
-                this.cats = new Set(CATS.map((x) => x.key));
+                this.cats = new Set(CATS.map((x3) => x3.key));
               } else if (this.cats.has(cat.key) && this.cats.size === CATS.length) {
                 this.cats = /* @__PURE__ */ new Set([cat.key]);
               } else if (this.cats.has(cat.key)) {
@@ -6599,7 +8191,7 @@ var init_timelineView = __esm({
             window.setTimeout(() => search.focus(), 60);
           }
         }
-        this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+        this.streamEl = c2.createDiv({ cls: "sg-tl-stream" });
         this.renderStream();
       }
       yById = /* @__PURE__ */ new Map();
@@ -6608,13 +8200,13 @@ var init_timelineView = __esm({
       /** at depth 2 every storyline earns its own column beside its lane —
        * assigned per lane in dataset order, so new threads slot in on their own */
       threadX(W) {
-        const m = /* @__PURE__ */ new Map();
+        const m2 = /* @__PURE__ */ new Map();
         const used = { ow: 0, nw: 0, rs: 0 };
         for (const t of this.data?.threads ?? []) {
           const lane = THREAD_F[t.lane] ?? THREAD_F.nw;
-          m.set(t.id, W * lane[Math.min(used[t.lane]++, lane.length - 1)]);
+          m2.set(t.id, W * lane[Math.min(used[t.lane]++, lane.length - 1)]);
         }
-        return m;
+        return m2;
       }
       /** the constellation, laid out in true device pixels: luminous rails with
        * crisp text beside them (git-graph idiom — the open middle belongs to the
@@ -6622,10 +8214,17 @@ var init_timelineView = __esm({
       renderStream() {
         const stream = this.streamEl;
         if (!stream) return;
+        this.graph?.destroy();
+        this.graph = null;
         stream.empty();
+        stream.removeClass("sg-tg-host");
         this.clearDetail();
         this.yById.clear();
         this.yByYear = [];
+        if (this.depth === 3) {
+          this.mountTimeGraph(stream);
+          return;
+        }
         const events = this.visible();
         if (!events.length) {
           const empty = stream.createDiv({ cls: "sg-tl-empty" });
@@ -6666,7 +8265,7 @@ var init_timelineView = __esm({
           return (h >>> 0) / 4294967295;
         };
         const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 64, BOTTOM = 120;
-        let y = TOP;
+        let y3 = TOP;
         let lastCentury = null;
         const centuries = [];
         const eraBands = [];
@@ -6678,25 +8277,25 @@ var init_timelineView = __esm({
           const eraTurn = !!era && era.label !== lastEra;
           if (eraTurn) {
             lastEra = era.label;
-            y += ERA_GAP;
-            eraBands.push({ label: era.label, yTop: y - ERA_GAP + 6, wmY: y - 14 });
+            y3 += ERA_GAP;
+            eraBands.push({ label: era.label, yTop: y3 - ERA_GAP + 6, wmY: y3 - 14 });
           }
           if (century !== lastCentury) {
             lastCentury = century;
-            y += CENTURY_GAP;
+            y3 += CENTURY_GAP;
             const page = e.y0 < 0 ? `${-century}-${-(century + 99)} BC` : `AD ${century}-${century + 99}`;
-            centuries.push({ y: y - 26, label: page.replace("-", "\u2013"), page, year: century });
-            this.yByYear.push([century, y - 26]);
+            centuries.push({ y: y3 - 26, label: page.replace("-", "\u2013"), page, year: century });
+            this.yByYear.push([century, y3 - 26]);
           }
           const amp = onThread(e) ? Math.min(24, colW * 0.03) : Math.min(60, colW * 0.07);
           const jitter = (hash01(e.id) - 0.5) * 2 * amp;
           const z = 0.76 + hash01(e.id + "~z") * 0.44;
           const jx = Math.min(Math.max(xFor(e) + Math.round(jitter), 24), W - 24);
-          pos.set(e.id, { x: jx, y, z, e });
-          this.yById.set(e.id, y);
-          y += ROW;
+          pos.set(e.id, { x: jx, y: y3, z, e });
+          this.yById.set(e.id, y3);
+          y3 += ROW;
         }
-        const H = y + BOTTOM;
+        const H = y3 + BOTTOM;
         const NS = "http://www.w3.org/2000/svg";
         const svg = document.createElementNS(NS, "svg");
         svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
@@ -6787,30 +8386,30 @@ var init_timelineView = __esm({
           const rc = stream.getBoundingClientRect();
           return [ev.clientX - rc.left, ev.clientY - rc.top + stream.scrollTop];
         };
-        const gapHit = (a, b, context, litEl = null, straight = false) => {
-          const pa = pos.get(a.id), pb = pos.get(b.id);
+        const gapHit = (a2, b, context, litEl = null, straight = false) => {
+          const pa = pos.get(a2.id), pb = pos.get(b.id);
           const n = straight ? el("line", {
             x1: String(pa.x),
             y1: String(pa.y),
             x2: String(pb.x),
             y2: String(pb.y),
             class: "sg-tl-hitline",
-            "data-a": a.id,
+            "data-a": a2.id,
             "data-b": b.id
           }) : el("path", {
             d: chainPath([pa, pb]),
             class: "sg-tl-hitline",
-            "data-a": a.id,
+            "data-a": a2.id,
             "data-b": b.id
           });
           n.addEventListener("mouseenter", (ev) => {
             litEl?.classList.add("sg-tl-web-lit");
-            const [x, y2] = toContent(ev);
-            this.showGap(a, b, context, x, y2, false);
+            const [x3, y4] = toContent(ev);
+            this.showGap(a2, b, context, x3, y4, false);
           });
           n.addEventListener("mousemove", (ev) => {
-            const [x, y2] = toContent(ev);
-            this.moveGap(x, y2);
+            const [x3, y4] = toContent(ev);
+            this.moveGap(x3, y4);
           });
           n.addEventListener("mouseleave", () => {
             if (!litEl?.classList.contains("sg-tl-web-pin")) {
@@ -6822,8 +8421,8 @@ var init_timelineView = __esm({
             ev.stopPropagation();
             this.clearDetail();
             litEl?.classList.add("sg-tl-web-lit", "sg-tl-web-pin");
-            const [x, y2] = toContent(ev);
-            this.showGap(a, b, context, x, y2, true);
+            const [x3, y4] = toContent(ev);
+            this.showGap(a2, b, context, x3, y4, true);
           });
         };
         if (this.focuses.length) {
@@ -6928,11 +8527,11 @@ var init_timelineView = __esm({
             }
           }
           const webPairs = /* @__PURE__ */ new Map();
-          const addPair = (a, b, subject) => {
-            if (a === b) return;
-            const key = a < b ? `${a}|${b}` : `${b}|${a}`;
-            if (railPairs.has(`${a}|${b}`) || railPairs.has(`${b}|${a}`)) return;
-            if (!webPairs.has(key)) webPairs.set(key, [a, b, subject]);
+          const addPair = (a2, b, subject) => {
+            if (a2 === b) return;
+            const key = a2 < b ? `${a2}|${b}` : `${b}|${a2}`;
+            if (railPairs.has(`${a2}|${b}`) || railPairs.has(`${b}|${a2}`)) return;
+            if (!webPairs.has(key)) webPairs.set(key, [a2, b, subject]);
           };
           for (const [subject, evs] of bySubject) {
             if (evs.length < 2 || evs.length > 9) continue;
@@ -6941,12 +8540,12 @@ var init_timelineView = __esm({
             }
           }
           const visibleIds = new Set(events.map((e) => e.id));
-          for (const [a, b] of NARRATIVE_LINKS) {
-            if (visibleIds.has(a) && visibleIds.has(b)) addPair(a, b, null);
+          for (const [a2, b] of NARRATIVE_LINKS) {
+            if (visibleIds.has(a2) && visibleIds.has(b)) addPair(a2, b, null);
           }
-          const strong = new Set(NARRATIVE_LINKS.map(([a, b]) => a < b ? `${a}|${b}` : `${b}|${a}`));
-          for (const [key, [a, b, subject]] of webPairs) {
-            const pa = pos.get(a), pb = pos.get(b);
+          const strong = new Set(NARRATIVE_LINKS.map(([a2, b]) => a2 < b ? `${a2}|${b}` : `${b}|${a2}`));
+          for (const [key, [a2, b, subject]] of webPairs) {
+            const pa = pos.get(a2), pb = pos.get(b);
             const dy = Math.abs(pb.y - pa.y);
             const o = Math.max(0.05, (strong.has(key) ? 0.24 : 0.17) - dy / 14e3);
             const line = el("line", {
@@ -6955,7 +8554,7 @@ var init_timelineView = __esm({
               x2: String(pb.x),
               y2: String(pb.y),
               class: "sg-tl-web",
-              "data-a": a,
+              "data-a": a2,
               "data-b": b,
               style: `stroke-opacity: ${o.toFixed(3)}`
             });
@@ -6973,16 +8572,16 @@ var init_timelineView = __esm({
             }
           }
         }
-        for (const c of centuries) {
+        for (const c2 of centuries) {
           const t = el("text", {
             x: String(W / 2),
-            y: String(c.y),
+            y: String(c2.y),
             "text-anchor": "middle",
             class: "sg-tl-century"
           });
-          t.textContent = c.label;
+          t.textContent = c2.label;
           t.onclick = () => {
-            void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
+            void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c2.page}.md`, "");
           };
         }
         let nodeIdx = 0;
@@ -7053,7 +8652,7 @@ var init_timelineView = __esm({
             class: "sg-tl-year",
             fill: color
           }, g);
-          t2.textContent = `${yearStr(e.y0)} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
+          t2.textContent = `${yearStr2(e.y0)} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
           outer.onclick = () => this.selectNode(e, outer);
         }
         stream.appendChild(svg);
@@ -7089,14 +8688,14 @@ var init_timelineView = __esm({
       // ---- the time-between chip: floats at an edge's midpoint --------------
       gapEl = null;
       gapPinned = false;
-      showGap(a, b, context, x, y, pin) {
+      showGap(a2, b, context, x3, y3, pin) {
         if (this.gapPinned && !pin) return;
         this.gapEl?.remove();
         this.gapEl = null;
         this.gapPinned = pin;
         const stream = this.streamEl;
         if (!stream) return;
-        const [ea, eb] = a.y0 <= b.y0 ? [a, b] : [b, a];
+        const [ea, eb] = a2.y0 <= b.y0 ? [a2, b] : [b, a2];
         const delta = eb.y0 - ea.y0;
         const soft = [ea.dating, eb.dating].some((d) => d === "traditional" || d === "approximate");
         const chip = stream.createDiv({ cls: "sg-tl-gap" });
@@ -7106,27 +8705,27 @@ var init_timelineView = __esm({
         });
         chip.createDiv({
           cls: "sg-tl-gap-sub",
-          text: `${context ? context + " \xB7 " : ""}${yearStr(ea.y0)} \u2192 ${yearStr(eb.y0)}`
+          text: `${context ? context + " \xB7 " : ""}${yearStr2(ea.y0)} \u2192 ${yearStr2(eb.y0)}`
         });
         this.gapEl = chip;
-        this.placeGap(x, y);
+        this.placeGap(x3, y3);
       }
       /** anchor the chip at (x, y) content coords, clamped INSIDE the visible
        * viewport — a long edge's far reaches never strand the answer offscreen */
-      placeGap(x, y) {
+      placeGap(x3, y3) {
         const stream = this.streamEl, chip = this.gapEl;
         if (!stream || !chip) return;
-        const cx = Math.min(Math.max(x, 96), Math.max(200, stream.clientWidth - 96));
+        const cx = Math.min(Math.max(x3, 96), Math.max(200, stream.clientWidth - 96));
         const top = stream.scrollTop;
-        const cy = Math.min(Math.max(y, top + 14), top + stream.clientHeight - 20);
+        const cy = Math.min(Math.max(y3, top + 14), top + stream.clientHeight - 20);
         chip.toggleClass("sg-tl-gap-below", cy - top < 76);
         chip.style.left = `${Math.round(cx)}px`;
         chip.style.top = `${Math.round(cy)}px`;
       }
       /** the transient chip follows the pointer along the line */
-      moveGap(x, y) {
+      moveGap(x3, y3) {
         if (this.gapPinned) return;
-        this.placeGap(x, y);
+        this.placeGap(x3, y3);
       }
       hideGap(force) {
         if (this.gapPinned && !force) return;
@@ -7146,7 +8745,7 @@ var init_timelineView = __esm({
         });
         const card = this.contentEl.createDiv({ cls: "sg-tl-detail" });
         this.detailEl = card;
-        const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} \u2013 ${yearStr(e.y1)}`;
+        const yr = e.y0 === e.y1 ? yearStr2(e.y0) : `${yearStr2(e.y0)} \u2013 ${yearStr2(e.y1)}`;
         const head = card.createDiv({ cls: "sg-tl-detail-head" });
         head.createSpan({ cls: "sg-tl-detail-year", text: `${yr} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}` });
         const close = head.createEl("button", { cls: "sg-tl-detail-x", text: "\u2715" });
@@ -7169,14 +8768,48 @@ var init_timelineView = __esm({
           b.onclick = () => void this.s.app.workspace.openLinkText(ch, "");
         }
       }
-      scrollToYear(y) {
+      scrollToYear(y3) {
         const stream = this.streamEl;
         if (!stream) return;
-        const hit = this.yByYear.find(([yr]) => yr >= y) ?? this.yByYear[this.yByYear.length - 1];
+        const hit = this.yByYear.find(([yr]) => yr >= y3) ?? this.yByYear[this.yByYear.length - 1];
         if (!hit) return;
         stream.scrollTo({ top: Math.max(0, hit[1] - 64), behavior: "smooth" });
       }
+      /** the constellation mode: same scope (visible events, woven focuses),
+       * different physics — a live force sky where events are pinned to their
+       * years and every person/place/thing is ONE node across all of time */
+      mountTimeGraph(stream) {
+        stream.addClass("sg-tg-host");
+        const events = this.visible();
+        if (!events.length) {
+          const empty = stream.createDiv({ cls: "sg-tl-empty" });
+          empty.createDiv({ text: "Nothing matches \u2014 every event is filtered out." });
+          const back = empty.createEl("button", { cls: "sg-tl-retry", text: "\u21BA Show everything" });
+          back.onclick = () => this.resetFilters();
+          return;
+        }
+        this.graph = new TimeGraph(stream, {
+          events,
+          focuses: this.focuses.map((f, i) => ({
+            ...f,
+            accent: accentAt(i, this.focuses.length)
+          })),
+          narrative: NARRATIVE_LINKS,
+          eras: ERAS.map((e) => ({
+            ...e,
+            tint: ERA_TINT[e.label] ?? "rgba(255,255,255,0.03)"
+          })),
+          laneColor: LANE_COLOR,
+          laneF: LANE_F
+        }, {
+          onFocusSubject: (sub) => this.setFocus(sub),
+          onOpenEntity: (name) => void this.s.app.workspace.openLinkText(name, ""),
+          onOpenChapter: (t) => void this.s.app.workspace.openLinkText(t, "")
+        });
+      }
       async onClose() {
+        this.graph?.destroy();
+        this.graph = null;
         window.removeEventListener("resize", this.boundResize);
         this.contentEl.empty();
       }
@@ -7196,10 +8829,10 @@ var init_timelineView = __esm({
       onOpen() {
         registerSheet(this);
         this.modalEl.addClass("sg-tlp-modal");
-        const c = this.contentEl;
-        c.addClass("sg-tlp");
-        c.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F3AF} Focus the timeline on\u2026" });
-        const search = c.createEl("input", {
+        const c2 = this.contentEl;
+        c2.addClass("sg-tlp");
+        c2.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F3AF} Focus the timeline on\u2026" });
+        const search = c2.createEl("input", {
           cls: "sg-nav-filter",
           attr: { type: "search", placeholder: "Type a name \u2014 Nephi, Jerusalem, Gold Plates\u2026" }
         });
@@ -7207,7 +8840,7 @@ var init_timelineView = __esm({
           this.query = search.value;
           this.renderList();
         };
-        this.listEl = c.createDiv({ cls: "sg-tlp-list" });
+        this.listEl = c2.createDiv({ cls: "sg-tlp-list" });
         this.renderList();
         window.setTimeout(() => search.focus(), 80);
       }
@@ -7262,11 +8895,11 @@ var init_timelineView = __esm({
       onOpen() {
         registerSheet(this);
         this.modalEl.addClass("sg-tlp-modal");
-        const c = this.contentEl;
-        c.addClass("sg-tlp", "sg-tlp-compose");
-        c.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F9F5} Weave a timeline" });
-        this.chipsEl = c.createDiv({ cls: "sg-tlp-chips" });
-        const search = c.createEl("input", {
+        const c2 = this.contentEl;
+        c2.addClass("sg-tlp", "sg-tlp-compose");
+        c2.createEl("h3", { cls: "sg-tlp-title", text: "\u{1F9F5} Weave a timeline" });
+        this.chipsEl = c2.createDiv({ cls: "sg-tlp-chips" });
+        const search = c2.createEl("input", {
           cls: "sg-nav-filter",
           attr: { type: "search", placeholder: "Nephi, Daniel, Jerusalem\u2026" }
         });
@@ -7274,8 +8907,8 @@ var init_timelineView = __esm({
           this.query = search.value;
           this.renderList();
         };
-        this.listEl = c.createDiv({ cls: "sg-tlp-list" });
-        const foot = c.createDiv({ cls: "sg-tlp-foot" });
+        this.listEl = c2.createDiv({ cls: "sg-tlp-list" });
+        const foot = c2.createDiv({ cls: "sg-tlp-foot" });
         const nameInput = foot.createEl("input", {
           cls: "sg-tlp-name",
           attr: { type: "text", placeholder: "Name this timeline\u2026" }
@@ -7289,7 +8922,7 @@ var init_timelineView = __esm({
         const save = foot.createEl("button", { cls: "sg-tlp-save", text: "Save" });
         save.onclick = () => this.save();
         this.saveEl = save;
-        this.warnEl = c.createDiv({ cls: "sg-tlp-warn" });
+        this.warnEl = c2.createDiv({ cls: "sg-tlp-warn" });
         this.refreshChips();
         this.renderList();
         void loadTimelineData(this.s.app).then((data) => {
@@ -7304,7 +8937,7 @@ var init_timelineView = __esm({
               }
             }
           }
-          this.all = Array.from(counts.values()).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
+          this.all = Array.from(counts.values()).sort((a2, b) => b.n - a2.n || a2.name.localeCompare(b.name));
           this.loaded = true;
           this.renderList();
         });
@@ -7363,9 +8996,9 @@ var init_timelineView = __esm({
           const chip = chips.createDiv({ cls: "sg-tlp-chip" });
           chip.style.setProperty("--sg-thread", accentAt(i, this.picks.length));
           chip.createSpan({ text: `${SUBJECT_META[p.kind].emoji} ${p.name}` });
-          const x = chip.createEl("button", { cls: "sg-tlp-chip-x", text: "\u2715" });
-          x.setAttr("aria-label", `Remove ${p.name}`);
-          x.onclick = () => this.toggle(p);
+          const x3 = chip.createEl("button", { cls: "sg-tlp-chip-x", text: "\u2715" });
+          x3.setAttr("aria-label", `Remove ${p.name}`);
+          x3.onclick = () => this.toggle(p);
         });
         if (!this.nameTouched) this.suggestName();
         if (this.saveEl) this.saveEl.disabled = !this.picks.length;
@@ -7449,12 +9082,12 @@ function feelSpec(name, taken) {
   const slot = POOL[h % POOL.length];
   const mood = entry ?? slot;
   const candidates = entry ? entry.e : slot.e;
-  for (const c of candidates) {
-    if (!used.has(bare(c))) return { emoji: c, c1: mood.c1, c2: mood.c2 };
+  for (const c2 of candidates) {
+    if (!used.has(bare(c2))) return { emoji: c2, c1: mood.c1, c2: mood.c2 };
   }
   for (let i = 0; i < POOL.length; i++) {
-    const c = POOL[(h + i) % POOL.length].e[0];
-    if (!used.has(bare(c))) return { emoji: c, c1: mood.c1, c2: mood.c2 };
+    const c2 = POOL[(h + i) % POOL.length].e[0];
+    if (!used.has(bare(c2))) return { emoji: c2, c1: mood.c1, c2: mood.c2 };
   }
   return { emoji: candidates[0] ?? "\u{1F3F7}\uFE0F", c1: mood.c1, c2: mood.c2 };
 }
@@ -7742,9 +9375,9 @@ function themeSpec(name, custom2 = [], colorHex = {}) {
   return { name, emoji: feel.emoji, c1: feel.c1, c2: feel.c2 };
 }
 function hexToRgba(hex, alpha) {
-  const m = /^#?([0-9a-f]{6})$/i.exec(hex.trim());
-  if (!m) return `rgba(141,153,174,${alpha})`;
-  const n = parseInt(m[1], 16);
+  const m2 = /^#?([0-9a-f]{6})$/i.exec(hex.trim());
+  if (!m2) return `rgba(141,153,174,${alpha})`;
+  const n = parseInt(m2[1], 16);
   return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${alpha})`;
 }
 function themeWash(spec, layerAlpha) {
@@ -7806,14 +9439,14 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
     p.style.boxShadow = "";
     p.style.paddingLeft = "";
   }
-  mine = mine.filter((a) => !a.deleted_at);
-  social = social.filter((a) => !a.deleted_at);
+  mine = mine.filter((a2) => !a2.deleted_at);
+  social = social.filter((a2) => !a2.deleted_at);
   const all = [
     ...s.device.showScopes.mine ? mine : [],
     ...social
-  ].filter((a) => a.annotation_type === "highlight");
-  const themed = all.filter((a) => a.theme && !a.selected_text);
-  const visible = all.filter((a) => !(a.theme && !a.selected_text));
+  ].filter((a2) => a2.annotation_type === "highlight");
+  const themed = all.filter((a2) => a2.theme && !a2.selected_text);
+  const visible = all.filter((a2) => !(a2.theme && !a2.selected_text));
   for (const h of visible) applyMark(p, h);
   if (themed.length) {
     const names = [];
@@ -7848,16 +9481,16 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
       ["bookmark", "\u{1F516}"]
     ];
     for (const [kind, glyph] of kinds) {
-      if (mine.some((a) => a.annotation_type === kind)) {
+      if (mine.some((a2) => a2.annotation_type === kind)) {
         const icon = p.createSpan({ cls: "sgh-note-icon", text: glyph });
         icon.setAttribute("aria-label", "View your marks on this verse");
         icon.onclick = openPopover;
       }
     }
   }
-  const others = social.filter((a) => a.annotation_type !== "bookmark");
+  const others = social.filter((a2) => a2.annotation_type !== "bookmark");
   if (others.length) {
-    const names = new Set(others.map((a) => a.author_name ?? "someone"));
+    const names = new Set(others.map((a2) => a2.author_name ?? "someone"));
     const badge = p.createSpan({
       cls: "sg-badge",
       text: ` \u{1F465} ${names.size}`,
@@ -7907,7 +9540,7 @@ function applyMark(p, h) {
     }
     if (!moving.length) return;
     p.insertBefore(mark, moving[0]);
-    moving.forEach((m) => mark.appendChild(m));
+    moving.forEach((m2) => mark.appendChild(m2));
     return;
   }
   const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
@@ -8041,28 +9674,28 @@ var init_annotations = __esm({
         };
       }
       async addHighlight(anchorId, color, verseText, selected, visibility, groupId, style = null, theme = null) {
-        const a = this.base(anchorId, "highlight");
-        a.color = color;
-        a.style = style;
-        a.theme = theme;
-        a.visibility = visibility;
-        a.group_id = groupId;
+        const a2 = this.base(anchorId, "highlight");
+        a2.color = color;
+        a2.style = style;
+        a2.theme = theme;
+        a2.visibility = visibility;
+        a2.group_id = groupId;
         if (selected && verseText) {
           const p = makePartialAnchor(verseText, selected);
-          if (p) Object.assign(a, p);
+          if (p) Object.assign(a2, p);
         }
-        await this.s.sync.save(a);
+        await this.s.sync.save(a2);
         this.scheduleSync();
         this.s.rerenderReading();
       }
       async addNote(anchorId, text, quoted, visibility, groupId) {
-        const a = this.base(anchorId, "note");
-        a.content = quoted ? `> "${quoted}"
+        const a2 = this.base(anchorId, "note");
+        a2.content = quoted ? `> "${quoted}"
 
 ${text}` : text;
-        a.visibility = visibility;
-        a.group_id = groupId;
-        await this.s.sync.save(a);
+        a2.visibility = visibility;
+        a2.group_id = groupId;
+        await this.s.sync.save(a2);
         this.scheduleSync();
         this.s.rerenderReading();
       }
@@ -8070,7 +9703,7 @@ ${text}` : text;
        * Returns true when the theme was ADDED. */
       async toggleTheme(anchorId, themeName, primaryHex, visibility, groupId) {
         const mine = await this.mine(anchorId);
-        const existing = mine.find((a) => a.annotation_type === "highlight" && !a.selected_text && a.theme?.toLowerCase() === themeName.toLowerCase());
+        const existing = mine.find((a2) => a2.annotation_type === "highlight" && !a2.selected_text && a2.theme?.toLowerCase() === themeName.toLowerCase());
         if (existing) {
           await this.remove(existing.annotation_id);
           return false;
@@ -8088,9 +9721,9 @@ ${text}` : text;
         return true;
       }
       async setVisibility(id, visibility, groupId) {
-        const a = await this.s.sync.getAnnotation(id);
-        if (!a || a.author_user_id !== this.s.device.userId && a.author_user_id !== null) return;
-        const next = { ...a, visibility, group_id: groupId, updated_at: nowIso() };
+        const a2 = await this.s.sync.getAnnotation(id);
+        if (!a2 || a2.author_user_id !== this.s.device.userId && a2.author_user_id !== null) return;
+        const next = { ...a2, visibility, group_id: groupId, updated_at: nowIso() };
         await this.s.sync.save(next);
         this.scheduleSync();
         this.s.rerenderReading();
@@ -8104,16 +9737,16 @@ ${text}` : text;
       /** my annotations (any scope) for an anchor */
       async mine(anchorId) {
         const all = await this.s.sync.annotationsForAnchor(anchorId);
-        return all.filter((a) => a.author_user_id === this.s.device.userId || a.author_user_id === null);
+        return all.filter((a2) => a2.author_user_id === this.s.device.userId || a2.author_user_id === null);
       }
       /** others' shared annotations from the social cache (filtered by scopes) */
       social(anchorId) {
         const rows = this.s.socialCache.get(anchorId) ?? [];
         const f = this.s.device.showScopes;
-        return rows.filter((a) => {
-          if (a.author_user_id === this.s.device.userId) return false;
-          if (a.visibility === "public") return f.public;
-          if (a.visibility === "group" && a.group_id) return f.groups[a.group_id] !== false;
+        return rows.filter((a2) => {
+          if (a2.author_user_id === this.s.device.userId) return false;
+          if (a2.visibility === "public") return f.public;
+          if (a2.visibility === "group" && a2.group_id) return f.groups[a2.group_id] !== false;
           return false;
         });
       }
@@ -8123,10 +9756,10 @@ ${text}` : text;
         try {
           const res = await this.s.api.annotationsFor(anchorIds);
           for (const id of anchorIds) this.s.socialCache.set(id, []);
-          for (const a of res.annotations) {
-            const arr = this.s.socialCache.get(a.anchor_id) ?? [];
-            arr.push(a);
-            this.s.socialCache.set(a.anchor_id, arr);
+          for (const a2 of res.annotations) {
+            const arr = this.s.socialCache.get(a2.anchor_id) ?? [];
+            arr.push(a2);
+            this.s.socialCache.set(a2.anchor_id, arr);
           }
           this.s.notify();
         } catch {
@@ -8159,11 +9792,11 @@ ${text}` : text;
         const social = this.svc.social(this.verseId);
         if (mine.length) {
           contentEl.createEl("h4", { text: "Mine" });
-          for (const a of mine) this.row(contentEl, a, true);
+          for (const a2 of mine) this.row(contentEl, a2, true);
         }
         if (social.length) {
           contentEl.createEl("h4", { text: "Shared" });
-          for (const a of social) this.row(contentEl, a, false);
+          for (const a2 of social) this.row(contentEl, a2, false);
         }
         if (!mine.length && !social.length) {
           contentEl.createEl("p", {
@@ -8171,35 +9804,35 @@ ${text}` : text;
           });
         }
       }
-      row(root, a, isMine) {
+      row(root, a2, isMine) {
         const div = root.createDiv({ cls: "sg-ann-row" });
-        const visLabel = a.visibility === "local" ? "\u{1F512} device" : a.visibility === "private" ? "\u{1F510} me" : a.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === a.group_id)?.name ?? "group"}` : "\u{1F30E} public";
-        const kindLabel = a.annotation_type === "study-marker" ? "flashcard" : a.annotation_type;
-        const themeLabel = a.theme ? ` \xB7 \u{1F3F7} ${a.theme}` : "";
+        const visLabel = a2.visibility === "local" ? "\u{1F512} device" : a2.visibility === "private" ? "\u{1F510} me" : a2.visibility === "group" ? `\u{1F465} ${this.s.groups.find((g) => g.group_id === a2.group_id)?.name ?? "group"}` : "\u{1F30E} public";
+        const kindLabel = a2.annotation_type === "study-marker" ? "flashcard" : a2.annotation_type;
+        const themeLabel = a2.theme ? ` \xB7 \u{1F3F7} ${a2.theme}` : "";
         div.createEl("div", {
           cls: "sg-ann-meta",
-          text: `${isMine ? "You" : a.author_name ?? "someone"} \xB7 ${kindLabel}${a.color ? ` (${a.color}${a.style && a.style !== "highlight" ? ` ${a.style}` : ""})` : ""}${themeLabel} \xB7 ${visLabel}`
+          text: `${isMine ? "You" : a2.author_name ?? "someone"} \xB7 ${kindLabel}${a2.color ? ` (${a2.color}${a2.style && a2.style !== "highlight" ? ` ${a2.style}` : ""})` : ""}${themeLabel} \xB7 ${visLabel}`
         });
-        if (a.selected_text) div.createEl("blockquote", { text: a.selected_text });
-        if (a.annotation_type === "study-marker") {
+        if (a2.selected_text) div.createEl("blockquote", { text: a2.selected_text });
+        if (a2.annotation_type === "study-marker") {
           try {
-            const d = JSON.parse(a.content);
+            const d = JSON.parse(a2.content);
             div.createEl("p", { text: `\u{1F0CF} ${d.front ?? "Card"}` });
             if (d.back) div.createEl("p", { cls: "sg-card-back", text: `\u2192 ${d.back}` });
           } catch {
             div.createEl("p", { text: "\u{1F0CF} Flashcard" });
           }
-        } else if (a.annotation_type === "bookmark") {
-          div.createEl("p", { text: `\u{1F516} ${a.content || "Bookmark"}` });
-        } else if (a.content) {
-          div.createEl("p", { text: a.content });
+        } else if (a2.annotation_type === "bookmark") {
+          div.createEl("p", { text: `\u{1F516} ${a2.content || "Bookmark"}` });
+        } else if (a2.content) {
+          div.createEl("p", { text: a2.content });
         }
         if (isMine) {
           const actions = div.createDiv({ cls: "sg-ann-actions" });
           const share = actions.createEl("button", { text: "Change sharing" });
           share.onclick = (e) => {
             this.svc.visibilityMenu((vis, gid, label) => {
-              void this.svc.setVisibility(a.annotation_id, vis, gid);
+              void this.svc.setVisibility(a2.annotation_id, vis, gid);
               new import_obsidian9.Notice(`Now visible to: ${label}`);
               this.close();
             }).showAtMouseEvent(e);
@@ -8209,7 +9842,7 @@ ${text}` : text;
             del.setAttribute("disabled", "true");
             del.setText("Deleting\u2026");
             try {
-              await this.svc.remove(a.annotation_id);
+              await this.svc.remove(a2.annotation_id);
               new import_obsidian9.Notice("Deleted");
             } catch (e) {
               new import_obsidian9.Notice(`Delete failed: ${e.message}`);
@@ -8544,8 +10177,8 @@ async function translationVerse(app, verseId, abbr) {
   if (!b) return null;
   const text = await bookText(app, b.name, abbr);
   if (!text) return null;
-  const m = new RegExp(`^\\*\\*${r.chapter}:${r.verse}\\*\\*\\s+(.*)$`, "m").exec(text);
-  return m?.[1]?.trim() || null;
+  const m2 = new RegExp(`^\\*\\*${r.chapter}:${r.verse}\\*\\*\\s+(.*)$`, "m").exec(text);
+  return m2?.[1]?.trim() || null;
 }
 var import_obsidian11, TRANSLATIONS, fileCache, TranslationsModal;
 var init_translations = __esm({
@@ -8569,13 +10202,13 @@ var init_translations = __esm({
       }
       onOpen() {
         this.modalEl.addClass("sg-trans-modal");
-        const c = this.contentEl;
-        c.addClass("sg-trans");
-        c.createEl("h3", {
+        const c2 = this.contentEl;
+        c2.addClass("sg-trans");
+        c2.createEl("h3", {
           cls: "sg-trans-title",
           text: `\u{1F310} ${verseDisplay(this.verseId) ?? this.verseId}`
         });
-        const list = c.createDiv({ cls: "sg-trans-list" });
+        const list = c2.createDiv({ cls: "sg-trans-list" });
         for (const t of TRANSLATIONS) {
           const row = list.createDiv({ cls: "sg-trans-row" });
           if (t.abbr === "KJV") row.addClass("sg-trans-kjv");
@@ -8597,7 +10230,7 @@ var init_translations = __esm({
             });
           }
         }
-        c.createDiv({
+        c2.createDiv({
           cls: "sg-trans-foot",
           text: "WEB, ASV, and YLT are public domain and stored in your own library \u2014 they work offline."
         });
@@ -8908,8 +10541,8 @@ var init_studyBar = __esm({
           el.addClass("sg-vsel");
           this.paintChip(el, true);
           this.sel.verses.push({ verseId, verseText: this.verseTextOf(el), el });
-          this.sel.verses.sort((a, b) => {
-            const A2 = parseVerseId(a.verseId), B = parseVerseId(b.verseId);
+          this.sel.verses.sort((a2, b) => {
+            const A2 = parseVerseId(a2.verseId), B = parseVerseId(b.verseId);
             return A2.chapter - B.chapter || A2.verse - B.verse;
           });
         }
@@ -8980,15 +10613,15 @@ var init_studyBar = __esm({
         const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
         close.onclick = () => this.clear();
         const colors = bar.createDiv({ cls: "sg-studybar-colors" });
-        for (const c of COLORS) {
-          const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c}` });
-          dot.style.backgroundColor = COLOR_HEX[c] ?? "#f5d90a";
-          if (c === this.s.device.lastColor) {
+        for (const c2 of COLORS) {
+          const dot = colors.createEl("button", { cls: `sg-dot sg-dot-${c2}` });
+          dot.style.backgroundColor = COLOR_HEX[c2] ?? "#f5d90a";
+          if (c2 === this.s.device.lastColor) {
             dot.addClass("sg-dot-last");
             dot.style.borderColor = "var(--text-normal)";
           }
-          dot.setAttribute("aria-label", `Mark ${c}`);
-          dot.onclick = () => void this.doHighlight(c);
+          dot.setAttribute("aria-label", `Mark ${c2}`);
+          dot.onclick = () => void this.doHighlight(c2);
         }
         const expanded = this.s.device.barExpanded;
         const disclose = bar.createEl("button", { cls: "sg-bar-disclose" });
@@ -9032,8 +10665,8 @@ var init_studyBar = __esm({
             chipByName.set(sp.name.toLowerCase(), chip);
             chip.onclick = () => void this.doTheme(sp);
           }
-          const add = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B own" });
-          add.onclick = () => this.saveThemePrompt();
+          const add2 = trow.createEl("button", { cls: "sg-theme-chip sg-theme-add", text: "\uFF0B own" });
+          add2.onclick = () => this.saveThemePrompt();
           void this.markActiveThemeChips(chipByName);
         }
         const row = bar.createDiv({ cls: "sg-studybar-actions" });
@@ -9061,18 +10694,18 @@ var init_studyBar = __esm({
       }
       pickScope(e) {
         const menu = new import_obsidian12.Menu();
-        const set = (visibility, groupId, label) => {
+        const set2 = (visibility, groupId, label) => {
           this.s.device.lastShareScope = { visibility, groupId };
           void this.s.saveDevice();
           new import_obsidian12.Notice(`New marks: ${label}`);
           this.render();
         };
-        menu.addItem((i) => i.setTitle("\u{1F510} Only me (synced)").onClick(() => set("private", null, "only you")));
-        menu.addItem((i) => i.setTitle("\u{1F512} Only me (this device)").onClick(() => set("local", null, "this device only")));
+        menu.addItem((i) => i.setTitle("\u{1F510} Only me (synced)").onClick(() => set2("private", null, "only you")));
+        menu.addItem((i) => i.setTitle("\u{1F512} Only me (this device)").onClick(() => set2("local", null, "this device only")));
         for (const g of this.s.groups) {
-          menu.addItem((i) => i.setTitle(`\u{1F465} ${g.name}`).onClick(() => set("group", g.group_id, g.name)));
+          menu.addItem((i) => i.setTitle(`\u{1F465} ${g.name}`).onClick(() => set2("group", g.group_id, g.name)));
         }
-        menu.addItem((i) => i.setTitle("\u{1F30E} Public").onClick(() => set("public", null, "public")));
+        menu.addItem((i) => i.setTitle("\u{1F30E} Public").onClick(() => set2("public", null, "public")));
         menu.showAtMouseEvent(e);
       }
       async doHighlight(color) {
@@ -9144,9 +10777,9 @@ var init_studyBar = __esm({
         const vid = this.targetVerseIds()[0];
         if (!vid) return;
         const mine = await this.ann.mine(vid);
-        for (const a of mine) {
-          if (a.annotation_type === "highlight" && a.theme && !a.selected_text) {
-            chips.get(a.theme.toLowerCase())?.addClass("sg-style-on");
+        for (const a2 of mine) {
+          if (a2.annotation_type === "highlight" && a2.theme && !a2.selected_text) {
+            chips.get(a2.theme.toLowerCase())?.addClass("sg-style-on");
           }
         }
       }
@@ -9592,9 +11225,9 @@ function raiseVeil(p) {
     veil.addClass("sg-gveil-out");
     window.setTimeout(() => veil.remove(), 400);
   };
-  const x = veil.createEl("button", { cls: "sg-gveil-x", text: "\u2715" });
-  x.setAttr("aria-label", "Cancel");
-  x.onclick = (e) => {
+  const x3 = veil.createEl("button", { cls: "sg-gveil-x", text: "\u2715" });
+  x3.setAttr("aria-label", "Cancel");
+  x3.onclick = (e) => {
     e.stopPropagation();
     wasCancelled = true;
     lower();
@@ -9964,14 +11597,14 @@ function tokenize(s) {
 }
 var VERSE_LINE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
 function parseVerseLine(chapter, line) {
-  const m = VERSE_LINE_RE.exec(line);
-  if (!m) return null;
-  const text = m[2];
+  const m2 = VERSE_LINE_RE.exec(line);
+  if (!m2) return null;
+  const text = m2[2];
   return {
     chapter,
-    verse: Number(m[1]),
+    verse: Number(m2[1]),
     text,
-    anchor: m[3],
+    anchor: m2[3],
     norm: normalize(text),
     tokens: tokenize(text)
   };
@@ -10024,23 +11657,23 @@ function buildSearchIndex(app, onProgress) {
   return building;
 }
 var BOOK_LOOKUP = (() => {
-  const m = /* @__PURE__ */ new Map();
+  const m2 = /* @__PURE__ */ new Map();
   for (const b of BOOKS) {
     for (const form of [b.name, b.prefix, b.slug, ...b.aliases]) {
       const key = normalize(form);
-      if (key) m.set(key, b);
+      if (key) m2.set(key, b);
     }
   }
-  return m;
+  return m2;
 })();
 function parseReference(q) {
-  const m = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
-  if (!m) return null;
-  const book = BOOK_LOOKUP.get(normalize(m[1]));
+  const m2 = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
+  if (!m2) return null;
+  const book = BOOK_LOOKUP.get(normalize(m2[1]));
   if (!book) return null;
-  const chapter = Number(m[2]);
+  const chapter = Number(m2[2]);
   if (chapter < 1 || chapter > book.chapters) return null;
-  const verse = m[3] ? Number(m[3]) : null;
+  const verse = m2[3] ? Number(m2[3]) : null;
   if (verse !== null && verse < 1) return null;
   return {
     bookName: book.name,
@@ -10099,8 +11732,8 @@ function scoreTokens(tokens, qtokens, prefixOk) {
       bestStart = lo;
       let ordered = true;
       for (let qi = 1; qi < n; qi++) {
-        const a = last[qi - 1], b = last[qi];
-        if (a >= 0 && b >= 0 && a > b) {
+        const a2 = last[qi - 1], b = last[qi];
+        if (a2 >= 0 && b >= 0 && a2 > b) {
           ordered = false;
           break;
         }
@@ -10142,11 +11775,11 @@ function scoreTitleParts(norm, tokens, qnorm, qtokens) {
 function rawWords(text) {
   const out = [];
   const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
-  let m;
-  while (m = re.exec(text)) {
-    const w = normalize(m[0]);
+  let m2;
+  while (m2 = re.exec(text)) {
+    const w = normalize(m2[0]);
     if (!w) continue;
-    out.push({ start: m.index, end: m.index + m[0].length, norm: w, stemmed: stem(w) });
+    out.push({ start: m2.index, end: m2.index + m2[0].length, norm: w, stemmed: stem(w) });
   }
   return out;
 }
@@ -10204,8 +11837,8 @@ function makeSnippet(text, ranges) {
   const kept = ranges.filter((r) => r.start >= start && r.end <= end).map((r) => ({ start: r.start - shift, end: r.end - shift }));
   return { snippet: prefix + body + suffix, ranges: kept };
 }
-var byRank = (a, b) => a.tier - b.tier || b.score - a.score;
-function smartSearch(q, index) {
+var byRank = (a2, b) => a2.tier - b.tier || b.score - a2.score;
+function smartSearch(q, index2) {
   const qnorm = normalize(q);
   const qtokens = tokenize(q);
   const out = { verses: [], pages: [], chapters: [] };
@@ -10213,7 +11846,7 @@ function smartSearch(q, index) {
   const ref = parseReference(q);
   if (ref) out.reference = ref;
   const vhits = [];
-  for (const rec of index.verses) {
+  for (const rec of index2.verses) {
     const s = scoreText(rec.norm, rec.tokens, qnorm, qtokens);
     if (s.tier < 9) vhits.push({ rec, tier: s.tier, score: s.score });
   }
@@ -10231,10 +11864,10 @@ function smartSearch(q, index) {
     });
   }
   const phits = [];
-  for (const rec of index.pages) {
+  for (const rec of index2.pages) {
     let best = scoreTitle(rec.title, qnorm, qtokens);
-    for (const a of rec.aliases) {
-      const s = scoreTitle(a, qnorm, qtokens);
+    for (const a2 of rec.aliases) {
+      const s = scoreTitle(a2, qnorm, qtokens);
       if (byRank(s, best) < 0) best = s;
     }
     if (best.tier < 9) phits.push({ rec, tier: best.tier, score: best.score });
@@ -10247,7 +11880,7 @@ function smartSearch(q, index) {
     score: h.score
   }));
   const chits = [];
-  for (const rec of index.chapters) {
+  for (const rec of index2.chapters) {
     if (ref && rec.title === ref.title) continue;
     const s = scoreTitleParts(rec.norm, rec.tokens, qnorm, qtokens);
     if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
@@ -10274,9 +11907,9 @@ var LIBRARY_SECTIONS = [
   { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" }
 ];
 function titleForChapterSlug(slug) {
-  const m = /^(.+)-(\d+)$/.exec(slug);
-  if (!m) return null;
-  return chapterTitle(m[1], Number(m[2]));
+  const m2 = /^(.+)-(\d+)$/.exec(slug);
+  if (!m2) return null;
+  return chapterTitle(m2[1], Number(m2[2]));
 }
 var VOLUMES = [
   { name: "Old Testament", icon: "old-testament" },
@@ -10339,17 +11972,17 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.title;
   }
   render() {
-    const c = this.contentEl;
-    c.empty();
+    const c2 = this.contentEl;
+    c2.empty();
     const v = this.view;
-    const head = c.createDiv({ cls: "sg-lp-head" });
+    const head = c2.createDiv({ cls: "sg-lp-head" });
     if (v.kind !== "home") {
       const back = head.createEl("button", { cls: "sg-nav-btn sg-lp-back", text: "\u2039" });
       back.setAttr("aria-label", "Back");
       back.onclick = () => this.back();
     }
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
-    const body = c.createDiv({ cls: "sg-lp-body" });
+    const body = c2.createDiv({ cls: "sg-lp-body" });
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);
@@ -10387,16 +12020,16 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     card.onclick = opts.onTap;
   }
   // ------------------------------------------------------------------ home
-  renderHome(c) {
+  renderHome(c2) {
     this.coverSeq = 0;
-    const wrap = c.createDiv({ cls: "sg-nav-searchwrap" });
+    const wrap = c2.createDiv({ cls: "sg-nav-searchwrap" });
     navIcon(wrap, "search").addClass("sg-nav-searchico");
     const inp = wrap.createEl("input", {
       cls: "sg-nav-filter sg-nav-search",
       attr: { type: "search", placeholder: "Search scriptures, people, places\u2026", enterkeyhint: "search" }
     });
     inp.value = this.searchQuery;
-    const body = c.createDiv({ cls: "sg-nav-searchhost" });
+    const body = c2.createDiv({ cls: "sg-nav-searchhost" });
     const showHome = () => {
       this.searchSeq++;
       body.empty();
@@ -10420,11 +12053,11 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     if (q0.length >= 2) this.runSearch(q0, body);
     else this.renderShelf(body);
   }
-  renderShelf(c) {
+  renderShelf(c2) {
     this.coverSeq = 0;
     const last = this.host.lastChapter();
     if (last) {
-      const cont = c.createDiv({ cls: "sg-nav-continue" });
+      const cont = c2.createDiv({ cls: "sg-nav-continue" });
       navIcon(cont, "continue").addClass("sg-nav-continue-ico");
       const col = cont.createDiv({ cls: "sg-nav-continue-col" });
       col.createSpan({ cls: "sg-nav-continue-tag", text: "Continue reading" });
@@ -10434,13 +12067,13 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     }
     const rec = this.host.recentChapters().filter((r) => r.slug !== last?.slug).slice(0, 4);
     if (rec.length) {
-      const row = c.createDiv({ cls: "sg-nav-recent" });
+      const row = c2.createDiv({ cls: "sg-nav-recent" });
       for (const r of rec) {
         const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
         pill.onclick = () => this.host.openChapter(r.title);
       }
     }
-    const grid = c.createDiv({ cls: "sg-nav-covers" });
+    const grid = c2.createDiv({ cls: "sg-nav-covers" });
     this.cover(grid, {
       label: "Scriptures",
       hue: "#d9c07a",
@@ -10472,14 +12105,14 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         onTap: () => this.go({ kind: "folder", path: s.path, title: s.name })
       });
     }
-    const groupsBox = c.createDiv({ cls: "sg-nav-groups" });
+    const groupsBox = c2.createDiv({ cls: "sg-nav-groups" });
     const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
     void actsP.then((acts) => {
       this.groupActs = acts;
       if (!acts.length || this.view.kind !== "home" || !groupsBox.isConnected) return;
       groupsBox.createDiv({ cls: "sg-nav-sect", text: "Studying with your groups" });
-      for (const a of acts.slice(0, 4)) {
-        const title = titleForChapterSlug(a.chapter_slug);
+      for (const a2 of acts.slice(0, 4)) {
+        const title = titleForChapterSlug(a2.chapter_slug);
         if (!title) continue;
         const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
         navIcon(row, "groups");
@@ -10487,7 +12120,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         col.createDiv({ cls: "sg-nav-name", text: title });
         col.createDiv({
           cls: "sg-nav-gsub",
-          text: `${a.group_name} \xB7 ${a.count} note${a.count === 1 ? "" : "s"}` + (a.others ? "" : " (all yours)")
+          text: `${a2.group_name} \xB7 ${a2.count} note${a2.count === 1 ? "" : "s"}` + (a2.others ? "" : " (all yours)")
         });
         row.onclick = () => this.host.openChapter(title);
       }
@@ -10495,9 +12128,9 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     });
   }
   // ------------------------------------------------- scriptures & drilling
-  renderScriptures(c) {
+  renderScriptures(c2) {
     this.coverSeq = 0;
-    const grid = c.createDiv({ cls: "sg-nav-covers" });
+    const grid = c2.createDiv({ cls: "sg-nav-covers" });
     for (const vol of VOLUMES) {
       this.cover(grid, { icon: vol.icon, label: vol.name, onTap: () => {
         const books = BOOKS.filter((b) => b.volume === vol.name);
@@ -10505,18 +12138,18 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       } });
     }
   }
-  renderBooks(c, volume) {
-    const grid = c.createDiv({ cls: "sg-nav-books" });
+  renderBooks(c2, volume) {
+    const grid = c2.createDiv({ cls: "sg-nav-books" });
     let i = 0;
-    for (const b of BOOKS.filter((x) => x.volume === volume)) {
+    for (const b of BOOKS.filter((x3) => x3.volume === volume)) {
       const pill = grid.createEl("button", { cls: "sg-nav-book", text: b.name });
       cascade(pill, i++);
       pill.onclick = () => this.go({ kind: "chapters", book: b });
     }
   }
-  renderChapters(c, book) {
+  renderChapters(c2, book) {
     const cur = this.host.lastChapter();
-    const grid = c.createDiv({ cls: "sg-nav-chapters" });
+    const grid = c2.createDiv({ cls: "sg-nav-chapters" });
     for (let n = 1; n <= book.chapters; n++) {
       const btn = grid.createEl("button", { cls: "sg-nav-ch", text: String(n) });
       cascade(btn, Math.floor((n - 1) / 6));
@@ -10527,12 +12160,12 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   // ---------------------------------------------------------------- graphs
   /** 🕸 The Graphs shelf — every row is a pre-filtered graph the GPU can
    * actually hold. Tap one and the graph view opens already tamed. */
-  renderGraphs(c) {
-    c.createDiv({
+  renderGraphs(c2) {
+    c2.createDiv({
       cls: "sg-gp-note",
       text: "The whole vault is 10,000 pages and 75,000 links \u2014 far past what one graph can draw. These views arrive already filtered."
     });
-    const list = c.createDiv({ cls: "sg-nav-list" });
+    const list = c2.createDiv({ cls: "sg-nav-list" });
     let i = 0;
     for (const p of GRAPH_PRESETS) {
       const row = list.createDiv({ cls: "sg-nav-row sg-gp-row" });
@@ -10552,7 +12185,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   // ------------------------------------------------------------- timelines
   /** 🕰 The Timelines shelf — the main chronologies ready to open, plus the
    * ones you build yourself: any person, place or thing, alone or overlapped. */
-  renderTimelines(c) {
+  renderTimelines(c2) {
     let i = 0;
     const row = (list, icon, name, sub, onTap) => {
       const r = list.createDiv({ cls: "sg-nav-row" });
@@ -10564,8 +12197,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       r.onclick = onTap;
       return r;
     };
-    c.createDiv({ cls: "sg-nav-sect", text: "The main timelines" });
-    const main = c.createDiv({ cls: "sg-nav-list" });
+    c2.createDiv({ cls: "sg-nav-sect", text: "The main timelines" });
+    const main = c2.createDiv({ cls: "sg-nav-list" });
     row(
       main,
       "timeline",
@@ -10594,22 +12227,22 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       "The Restoration lane on its own",
       () => this.host.openTimelinePreset({ title: "Restoration", lanes: ["rs"] })
     );
-    c.createDiv({ cls: "sg-nav-sect", text: "Your timelines" });
-    const mine = c.createDiv({ cls: "sg-nav-list" });
+    c2.createDiv({ cls: "sg-nav-sect", text: "Your timelines" });
+    const mine = c2.createDiv({ cls: "sg-nav-list" });
     for (const t of this.s.device.myTimelines ?? []) {
       const solo = t.subjects.length === 1 && t.subjects[0].kind === "people";
       const r = row(
         mine,
         solo ? "person" : "groups",
         t.name,
-        t.subjects.map((x) => x.name).join(" \xB7 "),
+        t.subjects.map((x3) => x3.name).join(" \xB7 "),
         () => this.host.openTimelinePreset({ title: t.name, subjects: t.subjects })
       );
       const del = r.createEl("button", { cls: "sg-tls-del", text: "\u2715" });
       del.setAttr("aria-label", `Delete ${t.name}`);
       del.onclick = (e) => {
         e.stopPropagation();
-        this.s.device.myTimelines = (this.s.device.myTimelines ?? []).filter((x) => x.name !== t.name);
+        this.s.device.myTimelines = (this.s.device.myTimelines ?? []).filter((x3) => x3.name !== t.name);
         void this.s.saveDevice();
         this.render();
       };
@@ -10622,12 +12255,12 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       () => this.host.newTimeline(() => this.render())
     );
   }
-  renderFolder(c, path) {
+  renderFolder(c2, path) {
     const listing = this.host.listFolder(path);
     const yearish = listing.folders.length > 3 && listing.folders.every((f) => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
     let filter = "";
-    const list = c.createDiv({ cls: "sg-nav-list" });
+    const list = c2.createDiv({ cls: "sg-nav-list" });
     const renderRows = () => {
       list.empty();
       const q = filter.toLowerCase();
@@ -10654,7 +12287,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       }
     };
     if (folders.length + listing.files.length > 30) {
-      const inp = c.createEl("input", {
+      const inp = c2.createEl("input", {
         cls: "sg-nav-filter",
         attr: { type: "search", placeholder: "Type to filter\u2026" }
       });
@@ -10662,7 +12295,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         filter = inp.value;
         renderRows();
       };
-      c.insertBefore(inp, list);
+      c2.insertBefore(inp, list);
     }
     renderRows();
   }
@@ -10680,15 +12313,15 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       buildSearchIndex(this.app, (done, total) => {
         const pct = total ? Math.round(done / total * 100) : 100;
         prog.setText(`Reading the scriptures\u2026 ${pct}%`);
-      }).then((index) => {
+      }).then((index2) => {
         if (seq !== this.searchSeq || this.view.kind !== "home") return;
-        this.renderResults(smartSearch(q, index), body);
+        this.renderResults(smartSearch(q, index2), body);
       }).catch(fail);
       return;
     }
-    buildSearchIndex(this.app).then((index) => {
+    buildSearchIndex(this.app).then((index2) => {
       if (seq !== this.searchSeq || this.view.kind !== "home") return;
-      this.renderResults(smartSearch(q, index), body);
+      this.renderResults(smartSearch(q, index2), body);
     }).catch(fail);
   }
   renderResults(res, body) {
@@ -10786,10 +12419,10 @@ var LibraryPreviewModal = class extends import_obsidian5.Modal {
   onOpen() {
     registerSheet(this);
     this.modalEl.addClass("sg-lib-modal");
-    const c = this.contentEl;
-    c.addClass("sg-lib");
+    const c2 = this.contentEl;
+    c2.addClass("sg-lib");
     this.comp.load();
-    const head = c.createDiv({ cls: "sg-lib-head" });
+    const head = c2.createDiv({ cls: "sg-lib-head" });
     this.backBtn = head.createEl("button", { cls: "sg-lib-btn sg-lib-back", text: "\u2039" });
     this.backBtn.setAttr("aria-label", "Back");
     this.backBtn.onclick = () => {
@@ -10823,11 +12456,11 @@ var LibraryPreviewModal = class extends import_obsidian5.Modal {
         open2(f);
       };
     }
-    this.bodyEl = c.createDiv({ cls: "sg-lib-body markdown-rendered" });
+    this.bodyEl = c2.createDiv({ cls: "sg-lib-body markdown-rendered" });
     this.bodyEl.addEventListener("click", (evt) => {
-      const a = evt.target.closest("a.internal-link");
-      if (!(a instanceof HTMLElement)) return;
-      const href = a.getAttr("data-href") ?? a.getAttr("href") ?? "";
+      const a2 = evt.target.closest("a.internal-link");
+      if (!(a2 instanceof HTMLElement)) return;
+      const href = a2.getAttr("data-href") ?? a2.getAttr("href") ?? "";
       if (!href) return;
       evt.preventDefault();
       evt.stopPropagation();
@@ -10897,16 +12530,16 @@ var VersePeekModal = class extends import_obsidian6.Modal {
   onOpen() {
     registerSheet(this);
     this.modalEl.addClass("sg-peek-modal");
-    const c = this.contentEl;
-    c.addClass("sg-peek");
-    c.createEl("h3", {
+    const c2 = this.contentEl;
+    c2.addClass("sg-peek");
+    c2.createEl("h3", {
       cls: "sg-peek-title",
       text: `\u{1F4D6} ${verseDisplay(this.target.verseId) ?? this.target.chapterTitle}`
     });
-    const body = c.createDiv({ cls: "sg-peek-body" });
+    const body = c2.createDiv({ cls: "sg-peek-body" });
     body.createDiv({ cls: "sg-peek-loading", text: "\u2026" });
     void this.render(body);
-    const open2 = c.createEl("button", {
+    const open2 = c2.createEl("button", {
       cls: "sg-peek-open",
       text: `Open ${this.target.chapterTitle} \u25B8`
     });
@@ -10920,8 +12553,8 @@ var VersePeekModal = class extends import_obsidian6.Modal {
     try {
       const md = await this.s.app.vault.cachedRead(this.target.file);
       for (const line of md.split("\n")) {
-        const m = VERSE_RE.exec(line);
-        if (m) verses.push({ n: Number(m[1]), text: m[2], id: m[3] });
+        const m2 = VERSE_RE.exec(line);
+        if (m2) verses.push({ n: Number(m2[1]), text: m2[2], id: m2[3] });
       }
     } catch {
     }
@@ -10995,7 +12628,7 @@ var PAGE_SCROLLERS = [
 function horizontalScrollerAt(el) {
   let n = el, hops = 0;
   while (n && hops++ < 8) {
-    if (PAGE_SCROLLERS.some((c) => n.classList?.contains(c))) return null;
+    if (PAGE_SCROLLERS.some((c2) => n.classList?.contains(c2))) return null;
     if (n.scrollWidth > n.clientWidth + 4) {
       const o = getComputedStyle(n).overflowX;
       if (o === "auto" || o === "scroll") return n;
@@ -11211,16 +12844,16 @@ function connectionsFor(app, chapterPath, slug) {
         byLine.set(line, arr);
       }
       for (const l of links) {
-        const m = anchorRe.exec(l.link.trim());
-        if (!m) continue;
-        const verseId = m[1];
+        const m2 = anchorRe.exec(l.link.trim());
+        if (!m2) continue;
+        const verseId = m2[1];
         const mates = byLine.get(l.position?.start?.line ?? -1) ?? [];
         for (const other of mates) {
           const om = /#\^([a-z0-9]+(?:-\d+)+)$/.exec(other.link.trim());
           if (!om || om[1] === verseId) continue;
           const label = other.displayText?.trim() || verseDisplay(om[1]) || other.link;
           const list = byVerse.get(verseId) ?? [];
-          if (list.some((c) => c.link === other.link)) continue;
+          if (list.some((c2) => c2.link === other.link)) continue;
           list.push({
             path: src,
             name: label,
@@ -11236,9 +12869,9 @@ function connectionsFor(app, chapterPath, slug) {
     }
     const seen = /* @__PURE__ */ new Set();
     for (const l of links) {
-      const m = anchorRe.exec(l.link.trim());
-      if (!m) continue;
-      const verseId = m[1];
+      const m2 = anchorRe.exec(l.link.trim());
+      if (!m2) continue;
+      const verseId = m2[1];
       if (seen.has(verseId)) continue;
       seen.add(verseId);
       const { emoji: emoji2, rank: rank2 } = sectionFor(src);
@@ -11249,8 +12882,8 @@ function connectionsFor(app, chapterPath, slug) {
     const { emoji, rank } = sectionFor(src);
     chapter.push({ path: src, name: f.basename, emoji, rank });
   }
-  for (const list of byVerse.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
-  chapter.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  for (const list of byVerse.values()) list.sort((a2, b) => a2.rank - b.rank || a2.name.localeCompare(b.name));
+  chapter.sort((a2, b) => a2.rank - b.rank || a2.name.localeCompare(b.name));
   const conns = { byVerse, chapter };
   if (byVerse.size || chapter.length) cache.set(chapterPath, { at: Date.now(), conns });
   return conns;
@@ -11303,12 +12936,12 @@ var ConnectionsModal = class _ConnectionsModal extends import_obsidian10.Modal {
   }
   onOpen() {
     registerSheet(this);
-    const c = this.contentEl;
+    const c2 = this.contentEl;
     this.modalEl.addClass("sg-conn-modal");
-    c.addClass("sg-conn");
-    c.createEl("h3", { cls: "sg-conn-title", text: this.title });
-    c.createDiv({ cls: "sg-conn-sub", text: this.sub });
-    const list = c.createDiv({ cls: "sg-conn-list" });
+    c2.addClass("sg-conn");
+    c2.createEl("h3", { cls: "sg-conn-title", text: this.title });
+    c2.createDiv({ cls: "sg-conn-sub", text: this.sub });
+    const list = c2.createDiv({ cls: "sg-conn-list" });
     for (const conn of this.conns.slice(0, 14)) {
       const row = list.createDiv({ cls: "sg-conn-row" });
       const head = row.createDiv({ cls: "sg-conn-row-head" });
@@ -11331,7 +12964,7 @@ var ConnectionsModal = class _ConnectionsModal extends import_obsidian10.Modal {
     if (this.conns.length > 14) {
       list.createDiv({ cls: "sg-conn-more", text: `\u2026and ${this.conns.length - 14} more in the graph` });
     }
-    const foot = c.createEl("button", { cls: "sg-conn-graph", text: "\u{1F578} See the whole connection graph" });
+    const foot = c2.createEl("button", { cls: "sg-conn-graph", text: "\u{1F578} See the whole connection graph" });
     foot.onclick = () => {
       this.close();
       this.openGraph();
@@ -11385,7 +13018,7 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
         ).open();
       };
     }
-    const first = paragraphs.find((x) => x.verseId === `${slug}-1`);
+    const first = paragraphs.find((x3) => x3.verseId === `${slug}-1`);
     if (first && conns.chapter.length && !el.querySelector(".sg-chap-conn")) {
       const strip = createDiv({ cls: "sg-chap-conn" });
       strip.createSpan({
@@ -11426,11 +13059,11 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
       while (node && !(node.nodeType === 3 && node.textContent?.trim())) node = node.nextSibling;
       if (node?.nodeType === 3 && node.textContent) {
         const text = node.textContent;
-        const m = /^(\s*)(\S)/.exec(text);
-        if (m && /[A-Za-z]/.test(m[2])) {
-          const rest = document.createTextNode(text.slice(m[0].length));
-          const cap = createSpan({ cls: "sg-dropcap", text: m[2] });
-          const lead = document.createTextNode(m[1]);
+        const m2 = /^(\s*)(\S)/.exec(text);
+        if (m2 && /[A-Za-z]/.test(m2[2])) {
+          const rest = document.createTextNode(text.slice(m2[0].length));
+          const cap = createSpan({ cls: "sg-dropcap", text: m2[2] });
+          const lead = document.createTextNode(m2[1]);
           const parent = node.parentNode;
           parent.replaceChild(rest, node);
           parent.insertBefore(cap, rest);
@@ -11503,10 +13136,10 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
     menu.addItem((i) => i.setTitle("\u{1F310} Other translations").setIcon("languages").onClick(() => new TranslationsModal(s, hit.verseId, hit.verseText).open()));
   }
   menu.addSeparator();
-  for (const c of COLORS) {
-    menu.addItem((i) => i.setTitle(`Highlight ${c}`).setIcon("highlighter").onClick((e) => {
+  for (const c2 of COLORS) {
+    menu.addItem((i) => i.setTitle(`Highlight ${c2}`).setIcon("highlighter").onClick((e) => {
       svc.visibilityMenu((vis, gid, label) => {
-        void svc.addHighlight(hit.verseId, c, hit.verseText, hit.selected, vis, gid);
+        void svc.addHighlight(hit.verseId, c2, hit.verseText, hit.selected, vis, gid);
         new import_obsidian13.Notice(`Highlighted \u2014 ${label}`);
       }).showAtMouseEvent(e);
     }));
@@ -11595,17 +13228,17 @@ var WelcomeModal = class extends import_obsidian14.Modal {
     })).addButton((b) => b.setButtonText("Maybe later").onClick(() => this.close()));
   }
   maybeOfferAi() {
-    const m = new import_obsidian14.Modal(this.app);
-    m.contentEl.createEl("h3", { text: "Want AI features?" });
-    m.contentEl.createEl("p", {
+    const m2 = new import_obsidian14.Modal(this.app);
+    m2.contentEl.createEl("h3", { text: "Want AI features?" });
+    m2.contentEl.createEl("p", {
       text: "Ask questions about any verse using YOUR OWN AI balance (about $10 goes far). Everything else works without it."
     });
-    new import_obsidian14.Setting(m.contentEl).addButton((b) => b.setButtonText("Connect AI").setCta().onClick(async () => {
-      m.close();
+    new import_obsidian14.Setting(m2.contentEl).addButton((b) => b.setButtonText("Connect AI").setCta().onClick(async () => {
+      m2.close();
       await this.ai.beginConnect();
       new import_obsidian14.Notice("Complete the authorization in your browser \u2014 Obsidian will catch the redirect.");
-    })).addButton((b) => b.setButtonText("Maybe later").onClick(() => m.close()));
-    m.open();
+    })).addButton((b) => b.setButtonText("Maybe later").onClick(() => m2.close()));
+    m2.open();
     this.onDone();
   }
   onClose() {
@@ -11800,12 +13433,12 @@ ${secs[k]}`).join("\n\n");
   }
 }
 async function personalContext(s, anchorPrefix, items, annotations) {
-  const rel = annotations.filter((a) => a.anchor_id.startsWith(anchorPrefix) && a.content && !a.deleted_at);
+  const rel = annotations.filter((a2) => a2.anchor_id.startsWith(anchorPrefix) && a2.content && !a2.deleted_at);
   if (!rel.length) return;
   items.push({
     label: "My private notes (user-permitted)",
     wikilink: null,
-    text: rel.map((a) => `- [${verseDisplay(a.anchor_id) ?? a.anchor_id}] ${a.content}`).join("\n"),
+    text: rel.map((a2) => `- [${verseDisplay(a2.anchor_id) ?? a2.anchor_id}] ${a2.content}`).join("\n"),
     priority: 3
   });
 }
@@ -11825,12 +13458,12 @@ async function vaultSearch(s, question, items) {
     for (const t of terms) if (name.includes(t)) score += 3;
     const cache2 = s.app.metadataCache.getFileCache(f);
     const aliases = cache2?.frontmatter?.["aliases"] ?? [];
-    for (const a of aliases) for (const t of terms) {
-      if (String(a).toLowerCase().includes(t)) score += 2;
+    for (const a2 of aliases) for (const t of terms) {
+      if (String(a2).toLowerCase().includes(t)) score += 2;
     }
     if (score > 0) scored.push({ f, score });
   }
-  scored.sort((a, b) => b.score - a.score);
+  scored.sort((a2, b) => b.score - a2.score);
   for (const { f } of scored.slice(0, 8)) {
     const { body } = parseFrontmatter(await read(s, f));
     const secs = sections(body);
@@ -11869,12 +13502,12 @@ QUESTION: ${question}` }
 // src/ai/askView.ts
 var ASK_VIEW = "scripture-graph-ask";
 var ACTION_PRESETS = [
-  { label: "Explain", task: "verse", template: (a) => `Explain ${a} clearly for serious study.` },
-  { label: "Connections", task: "connections", template: (a) => `What are the most meaningful connections to ${a} across the scriptures and this vault?` },
-  { label: "Historical context", task: "history", template: (a) => `What is the historical context of ${a}?` },
-  { label: "Language & text", task: "language", template: (a) => `What language, translation, or textual observations matter in ${a}?` },
-  { label: "Evidence", task: "evidence", template: (a) => `What evidence and honest counter-considerations relate to ${a}?` },
-  { label: "Challenge it", task: "challenge", template: (a) => `Give the strongest skeptical reading of ${a}, then the strongest response.` }
+  { label: "Explain", task: "verse", template: (a2) => `Explain ${a2} clearly for serious study.` },
+  { label: "Connections", task: "connections", template: (a2) => `What are the most meaningful connections to ${a2} across the scriptures and this vault?` },
+  { label: "Historical context", task: "history", template: (a2) => `What is the historical context of ${a2}?` },
+  { label: "Language & text", task: "language", template: (a2) => `What language, translation, or textual observations matter in ${a2}?` },
+  { label: "Evidence", task: "evidence", template: (a2) => `What evidence and honest counter-considerations relate to ${a2}?` },
+  { label: "Challenge it", task: "challenge", template: (a2) => `Give the strongest skeptical reading of ${a2}, then the strongest response.` }
 ];
 var AskView = class extends import_obsidian16.ItemView {
   constructor(leaf, s, ai, ann) {
@@ -11916,8 +13549,8 @@ var AskView = class extends import_obsidian16.ItemView {
     for (const p of ACTION_PRESETS) {
       const b = presets.createEl("button", { text: p.label });
       b.onclick = () => {
-        const a = this.anchorVerse ? this.anchorVerse.replace(/^(.*)-(\d+)-(\d+)$/, () => `${this.anchorChapter}:${this.anchorVerse.split("-").pop()}`) : this.anchorChapter ?? "this passage";
-        void this.send(p.template(a), p.task);
+        const a2 = this.anchorVerse ? this.anchorVerse.replace(/^(.*)-(\d+)-(\d+)$/, () => `${this.anchorChapter}:${this.anchorVerse.split("-").pop()}`) : this.anchorChapter ?? "this passage";
+        void this.send(p.template(a2), p.task);
       };
     }
     const inputRow = root.createDiv({ cls: "sg-ask-input" });
@@ -12121,7 +13754,7 @@ var ReaderView = class extends import_obsidian17.ItemView {
     const graphBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "\u{1F578}" });
     graphBtn.setAttribute("aria-label", "Connections graph");
     graphBtn.onclick = () => {
-      void Promise.resolve().then(() => (init_studyBar(), studyBar_exports)).then((m) => m.openLocalGraphFor(this.s, this.chapterTitle));
+      void Promise.resolve().then(() => (init_studyBar(), studyBar_exports)).then((m2) => m2.openLocalGraphFor(this.s, this.chapterTitle));
     };
     const myBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "\u270F\uFE0F My notes" });
     myBtn.onclick = () => {
@@ -12192,7 +13825,7 @@ var ReaderView = class extends import_obsidian17.ItemView {
   }
 };
 function pretty(section) {
-  return section.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  return section.replace(/-/g, " ").replace(/\b\w/g, (c2) => c2.toUpperCase());
 }
 
 // src/study/study.ts
@@ -12258,7 +13891,7 @@ ${body}
       null
     );
     const all = await this.s.sync.allAnnotations();
-    const latest = all.filter((a) => a.anchor_id === anchor).sort((a, b) => b.created_at.localeCompare(a.created_at))[0];
+    const latest = all.filter((a2) => a2.anchor_id === anchor).sort((a2, b) => b.created_at.localeCompare(a2.created_at))[0];
     if (latest) await this.s.sync.save({ ...latest, annotation_type: "bookmark" });
     this.s.rerenderReading();
     new import_obsidian18.Notice(`Bookmarked ${f.basename}`);
@@ -12270,11 +13903,11 @@ ${body}
   async addFlashcard(front, back, anchor) {
     const norm = (t) => t.normalize("NFKD").replace(/[^\p{L}\p{N} ]/gu, "").replace(/\s+/g, " ").trim().toLowerCase();
     const all = await this.s.sync.allAnnotations();
-    const dup = all.find((x) => {
-      if (x.annotation_type !== "study-marker" || x.deleted_at) return false;
-      if (x.anchor_id !== (anchor ?? "node:flashcards")) return false;
+    const dup = all.find((x3) => {
+      if (x3.annotation_type !== "study-marker" || x3.deleted_at) return false;
+      if (x3.anchor_id !== (anchor ?? "node:flashcards")) return false;
       try {
-        const d = JSON.parse(x.content);
+        const d = JSON.parse(x3.content);
         return norm(d.back ?? "") === norm(back);
       } catch {
         return false;
@@ -12284,7 +13917,7 @@ ${body}
       new import_obsidian18.Notice("You already have this flashcard \u{1F0CF}");
       return false;
     }
-    const a = {
+    const a2 = {
       annotation_id: uuid(),
       author_user_id: this.s.device.userId,
       anchor_type: anchor && parseVerseId(anchor) ? "verse" : "node",
@@ -12309,36 +13942,36 @@ ${body}
       deleted_at: null,
       version: 1
     };
-    await this.s.sync.save(a);
+    await this.s.sync.save(a2);
     this.s.rerenderReading();
     new import_obsidian18.Notice("Flashcard added \u{1F0CF}");
     return true;
   }
   async review() {
     const all = await this.s.sync.allAnnotations();
-    const due = all.filter((a) => {
-      if (a.annotation_type !== "study-marker") return false;
+    const due = all.filter((a2) => {
+      if (a2.annotation_type !== "study-marker") return false;
       try {
-        const c = JSON.parse(a.content).card;
-        return c.due <= nowIso();
+        const c2 = JSON.parse(a2.content).card;
+        return c2.due <= nowIso();
       } catch {
         return false;
       }
     });
     if (!due.length) return void new import_obsidian18.Notice("No cards due \u2014 well done!");
-    new ReviewModal(this.s, due, async (a, quality) => {
-      const data = JSON.parse(a.content);
-      const c = data.card;
+    new ReviewModal(this.s, due, async (a2, quality) => {
+      const data = JSON.parse(a2.content);
+      const c2 = data.card;
       if (quality < 2) {
-        c.intervalDays = 0;
-        c.due = nowIso();
+        c2.intervalDays = 0;
+        c2.due = nowIso();
       } else {
-        c.ease = Math.max(1.3, c.ease + (quality === 3 ? 0.1 : -0.15));
-        c.intervalDays = c.reps === 0 ? 1 : c.reps === 1 ? 3 : Math.round(c.intervalDays * c.ease);
-        c.reps += 1;
-        c.due = new Date(Date.now() + c.intervalDays * 864e5).toISOString();
+        c2.ease = Math.max(1.3, c2.ease + (quality === 3 ? 0.1 : -0.15));
+        c2.intervalDays = c2.reps === 0 ? 1 : c2.reps === 1 ? 3 : Math.round(c2.intervalDays * c2.ease);
+        c2.reps += 1;
+        c2.due = new Date(Date.now() + c2.intervalDays * 864e5).toISOString();
       }
-      await this.s.sync.save({ ...a, content: JSON.stringify(data), updated_at: nowIso() });
+      await this.s.sync.save({ ...a2, content: JSON.stringify(data), updated_at: nowIso() });
     }).open();
   }
 };
@@ -12351,7 +13984,7 @@ var NameModal = class extends import_obsidian18.Modal {
   onOpen() {
     this.contentEl.createEl("h3", { text: "Save study trail" });
     let v = this.initial;
-    new import_obsidian18.Setting(this.contentEl).setName("Name").addText((t) => t.setValue(this.initial).onChange((x) => v = x));
+    new import_obsidian18.Setting(this.contentEl).setName("Name").addText((t) => t.setValue(this.initial).onChange((x3) => v = x3));
     new import_obsidian18.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(() => {
       this.close();
       this.onSubmit(v || this.initial);
@@ -12378,11 +14011,11 @@ var ReviewModal = class extends import_obsidian18.Modal {
       contentEl.createEl("h3", { text: "Review complete \u{1F389}" });
       return;
     }
-    const a = this.cards[this.i];
-    const data = JSON.parse(a.content);
+    const a2 = this.cards[this.i];
+    const data = JSON.parse(a2.content);
     contentEl.createEl("p", { text: `${this.i + 1} / ${this.cards.length}` });
     contentEl.createEl("h3", { text: data.front });
-    const ref = verseDisplay(a.anchor_id);
+    const ref = verseDisplay(a2.anchor_id);
     if (ref) contentEl.createEl("p", { text: ref, cls: "sg-card-ref" });
     const reveal = contentEl.createEl("button", { text: "Show answer" });
     reveal.onclick = () => {
@@ -12392,7 +14025,7 @@ var ReviewModal = class extends import_obsidian18.Modal {
       for (const [label, q] of [["Again", 0], ["Hard", 2], ["Good", 3]]) {
         const b = row.createEl("button", { text: label });
         b.onclick = async () => {
-          await this.grade(a, q);
+          await this.grade(a2, q);
           this.i++;
           this.render();
         };
@@ -12433,71 +14066,71 @@ var svgUrl = (w, h, inner, preserve = false) => `url("data:image/svg+xml,${encod
 )}")`;
 function seededStars(seed, n, w, h, rMin, rMax, color) {
   const rnd = lcg(seed);
-  let c = "";
+  let c2 = "";
   for (let i = 0; i < n; i++) {
-    c += `<circle cx='${(rnd() * w).toFixed(1)}' cy='${(rnd() * h).toFixed(1)}' r='${(rMin + rnd() * (rMax - rMin)).toFixed(2)}' fill='${color}' opacity='${(0.4 + rnd() * 0.6).toFixed(2)}'/>`;
+    c2 += `<circle cx='${(rnd() * w).toFixed(1)}' cy='${(rnd() * h).toFixed(1)}' r='${(rMin + rnd() * (rMax - rMin)).toFixed(2)}' fill='${color}' opacity='${(0.4 + rnd() * 0.6).toFixed(2)}'/>`;
   }
-  return svgUrl(w, h, c, true);
+  return svgUrl(w, h, c2, true);
 }
 function ridge(seed, color, base, jag, crest) {
   const rnd = lcg(seed);
   let d = `M0 ${base}`;
-  let y = base;
-  for (let x = 0; x <= 900; x += 45) {
-    y = Math.max(20, Math.min(190, y + (rnd() - 0.5) * 2 * jag));
-    d += ` L${x} ${y.toFixed(0)}`;
+  let y3 = base;
+  for (let x3 = 0; x3 <= 900; x3 += 45) {
+    y3 = Math.max(20, Math.min(190, y3 + (rnd() - 0.5) * 2 * jag));
+    d += ` L${x3} ${y3.toFixed(0)}`;
   }
   const open2 = d;
   d += " L900 200 L0 200 Z";
-  let c = `<path d='${d}' fill='${color}'/>`;
-  if (crest) c += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
-  return svgUrl(900, 200, c);
+  let c2 = `<path d='${d}' fill='${color}'/>`;
+  if (crest) c2 += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
+  return svgUrl(900, 200, c2);
 }
 function hills(color, amp, phase, crest) {
   const top = `M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} T 600 ${118 + phase} T 900 ${128 + phase}`;
-  let c = `<path d='${top} L 900 200 L 0 200 Z' fill='${color}'/>`;
-  if (crest) c += `<path d='${top}' stroke='${crest}' stroke-width='2.6' fill='none' opacity='0.5'/>`;
-  return svgUrl(900, 200, c);
+  let c2 = `<path d='${top} L 900 200 L 0 200 Z' fill='${color}'/>`;
+  if (crest) c2 += `<path d='${top}' stroke='${crest}' stroke-width='2.6' fill='none' opacity='0.5'/>`;
+  return svgUrl(900, 200, c2);
 }
 function reeds(seed, color) {
   const rnd = lcg(seed);
-  let c = "";
-  const stem3 = (x, h, lean, head) => {
-    const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
-    let s = `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.35).toFixed(0)} ${(200 - h * 0.6).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='3' fill='none'/>`;
+  let c2 = "";
+  const stem3 = (x3, h, lean, head) => {
+    const hx = (x3 + lean).toFixed(0), hy = (200 - h).toFixed(0);
+    let s = `<path d='M${x3.toFixed(0)} 202 Q ${(x3 + lean * 0.35).toFixed(0)} ${(200 - h * 0.6).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='3' fill='none'/>`;
     if (head) {
-      s += `<rect x='${(x + lean - 4).toFixed(0)}' y='${hy}' width='8' height='26' rx='4' fill='${color}' transform='rotate(${(lean * 0.8).toFixed(0)} ${hx} ${hy})'/>`;
+      s += `<rect x='${(x3 + lean - 4).toFixed(0)}' y='${hy}' width='8' height='26' rx='4' fill='${color}' transform='rotate(${(lean * 0.8).toFixed(0)} ${hx} ${hy})'/>`;
     }
     return s;
   };
   for (let i = 0; i < 14; i++) {
-    c += stem3(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
+    c2 += stem3(10 + rnd() * 250, 90 + rnd() * 85, (rnd() - 0.5) * 44, rnd() > 0.35);
   }
   for (let i = 0; i < 5; i++) {
-    c += stem3(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
+    c2 += stem3(760 + rnd() * 130, 70 + rnd() * 70, (rnd() - 0.5) * 40, rnd() > 0.45);
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function clouds(seed, color) {
   const rnd = lcg(seed);
-  let c = `<rect x='0' y='0' width='900' height='30' fill='${color}'/>`;
+  let c2 = `<rect x='0' y='0' width='900' height='30' fill='${color}'/>`;
   for (let i = 0; i < 13; i++) {
-    const x = i * 72 + rnd() * 36;
+    const x3 = i * 72 + rnd() * 36;
     const depth = 24 + rnd() * 74;
     for (let j = 0; j < 5; j++) {
-      c += `<ellipse cx='${(x + (rnd() - 0.5) * 90).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' rx='${(42 + rnd() * 52).toFixed(0)}' ry='${(18 + rnd() * 20).toFixed(0)}' fill='${color}'/>`;
+      c2 += `<ellipse cx='${(x3 + (rnd() - 0.5) * 90).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' rx='${(42 + rnd() * 52).toFixed(0)}' ry='${(18 + rnd() * 20).toFixed(0)}' fill='${color}'/>`;
     }
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function bolt(seed, color) {
   const rnd = lcg(seed);
   const walk = (x0, y0, yEnd, drift) => {
     let d = `M${x0.toFixed(0)} ${y0.toFixed(0)}`;
-    let x = x0;
-    for (let y = y0; y < yEnd; y += 34 + rnd() * 22) {
-      x += (rnd() - 0.5) * drift;
-      d += ` L${x.toFixed(0)} ${Math.min(y, yEnd).toFixed(0)}`;
+    let x3 = x0;
+    for (let y3 = y0; y3 < yEnd; y3 += 34 + rnd() * 22) {
+      x3 += (rnd() - 0.5) * drift;
+      d += ` L${x3.toFixed(0)} ${Math.min(y3, yEnd).toFixed(0)}`;
     }
     return d;
   };
@@ -12510,84 +14143,84 @@ function bolt(seed, color) {
 }
 function galaxy(seed) {
   const rnd = lcg(seed);
-  let c = "";
+  let c2 = "";
   const px = (t) => t * 1600;
   const py = (t) => 640 - t * 380;
   for (let i = 0; i < 4; i++) {
     const t = 0.12 + i * 0.24;
     const hue = ["#b78cff", "#7fd4d4", "#ff9ad5", "#9fb4ff"][i];
-    c += `<ellipse cx='${px(t).toFixed(0)}' cy='${py(t).toFixed(0)}' rx='${(220 + rnd() * 140).toFixed(0)}' ry='${(80 + rnd() * 60).toFixed(0)}' fill='${hue}' opacity='0.055' transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
+    c2 += `<ellipse cx='${px(t).toFixed(0)}' cy='${py(t).toFixed(0)}' rx='${(220 + rnd() * 140).toFixed(0)}' ry='${(80 + rnd() * 60).toFixed(0)}' fill='${hue}' opacity='0.055' transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
   }
   for (let i = 0; i < 3; i++) {
     const t = 0.2 + i * 0.28;
-    c += `<ellipse cx='${px(t).toFixed(0)}' cy='${(py(t) + 14).toFixed(0)}' rx='${(200 + rnd() * 120).toFixed(0)}' ry='${(26 + rnd() * 22).toFixed(0)}' fill='#070919' opacity='0.4' transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
+    c2 += `<ellipse cx='${px(t).toFixed(0)}' cy='${(py(t) + 14).toFixed(0)}' rx='${(200 + rnd() * 120).toFixed(0)}' ry='${(26 + rnd() * 22).toFixed(0)}' fill='#070919' opacity='0.4' transform='rotate(-13 ${px(t).toFixed(0)} ${py(t).toFixed(0)})'/>`;
   }
   for (let i = 0; i < 560; i++) {
     const t = rnd();
     const spread = (rnd() + rnd() - 1) * 130;
     const shade = rnd();
     const fill = shade > 0.85 ? "#ffd9c4" : shade > 0.5 ? "#cdd6ff" : "#ffffff";
-    c += `<circle cx='${(px(t) + (rnd() - 0.5) * 40).toFixed(0)}' cy='${(py(t) + spread).toFixed(0)}' r='${(0.5 + rnd() * 1.1).toFixed(2)}' fill='${fill}' opacity='${(0.25 + rnd() * 0.7).toFixed(2)}'/>`;
+    c2 += `<circle cx='${(px(t) + (rnd() - 0.5) * 40).toFixed(0)}' cy='${(py(t) + spread).toFixed(0)}' r='${(0.5 + rnd() * 1.1).toFixed(2)}' fill='${fill}' opacity='${(0.25 + rnd() * 0.7).toFixed(2)}'/>`;
   }
-  return svgUrl(1600, 900, c, true);
+  return svgUrl(1600, 900, c2, true);
 }
 function skyline(seed, color) {
   const rnd = lcg(seed);
-  let c = `<rect x='0' y='150' width='900' height='50' fill='${color}'/>`;
-  let x = 0;
-  while (x < 900) {
+  let c2 = `<rect x='0' y='150' width='900' height='50' fill='${color}'/>`;
+  let x3 = 0;
+  while (x3 < 900) {
     const w = 30 + rnd() * 70;
     const h = 30 + rnd() * 75;
-    c += `<rect x='${x.toFixed(0)}' y='${(150 - h).toFixed(0)}' width='${w.toFixed(0)}' height='${(h + 50).toFixed(0)}' fill='${color}'/>`;
+    c2 += `<rect x='${x3.toFixed(0)}' y='${(150 - h).toFixed(0)}' width='${w.toFixed(0)}' height='${(h + 50).toFixed(0)}' fill='${color}'/>`;
     if (rnd() > 0.65) {
-      c += `<ellipse cx='${(x + w / 2).toFixed(0)}' cy='${(150 - h).toFixed(0)}' rx='${(w / 2.4).toFixed(0)}' ry='${(w / 3.2).toFixed(0)}' fill='${color}'/>`;
+      c2 += `<ellipse cx='${(x3 + w / 2).toFixed(0)}' cy='${(150 - h).toFixed(0)}' rx='${(w / 2.4).toFixed(0)}' ry='${(w / 3.2).toFixed(0)}' fill='${color}'/>`;
     }
-    x += w + 8 + rnd() * 30;
+    x3 += w + 8 + rnd() * 30;
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function facade(color, door) {
-  let c = `<rect x='120' y='188' width='660' height='12' fill='${color}'/><rect x='145' y='178' width='610' height='10' fill='${color}'/><rect x='160' y='76' width='580' height='18' fill='${color}'/><path d='M148 74 L752 74 L450 16 Z' fill='${color}'/>`;
-  for (let x = 185; x <= 665; x += 80) {
-    c += `<rect x='${x}' y='100' width='22' height='78' rx='3' fill='${color}'/><rect x='${x - 5}' y='94' width='32' height='8' fill='${color}'/>`;
+  let c2 = `<rect x='120' y='188' width='660' height='12' fill='${color}'/><rect x='145' y='178' width='610' height='10' fill='${color}'/><rect x='160' y='76' width='580' height='18' fill='${color}'/><path d='M148 74 L752 74 L450 16 Z' fill='${color}'/>`;
+  for (let x3 = 185; x3 <= 665; x3 += 80) {
+    c2 += `<rect x='${x3}' y='100' width='22' height='78' rx='3' fill='${color}'/><rect x='${x3 - 5}' y='94' width='32' height='8' fill='${color}'/>`;
   }
   if (door) {
-    c = `<defs><radialGradient id='dg' cx='0.5' cy='0.7' r='0.5'><stop offset='0%' stop-color='${door}' stop-opacity='0.55'/><stop offset='100%' stop-color='${door}' stop-opacity='0'/></radialGradient></defs>` + c + `<ellipse cx='450' cy='152' rx='96' ry='64' fill='url(#dg)'/><path d='M426 178 L426 140 Q450 118 474 140 L474 178 Z' fill='${door}' opacity='0.9'/>`;
+    c2 = `<defs><radialGradient id='dg' cx='0.5' cy='0.7' r='0.5'><stop offset='0%' stop-color='${door}' stop-opacity='0.55'/><stop offset='100%' stop-color='${door}' stop-opacity='0'/></radialGradient></defs>` + c2 + `<ellipse cx='450' cy='152' rx='96' ry='64' fill='url(#dg)'/><path d='M426 178 L426 140 Q450 118 474 140 L474 178 Z' fill='${door}' opacity='0.9'/>`;
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function wheat(seed, color, n) {
   const rnd = lcg(seed);
-  let c = "";
+  let c2 = "";
   for (let i = 0; i < n; i++) {
-    const x = rnd() * 900;
+    const x3 = rnd() * 900;
     const h = 82 + rnd() * 70;
     const lean = (rnd() - 0.5) * 56;
-    const hx = (x + lean).toFixed(0), hy = (200 - h).toFixed(0);
+    const hx = (x3 + lean).toFixed(0), hy = (200 - h).toFixed(0);
     const tilt = (lean * 1.1).toFixed(0);
-    c += `<path d='M${x.toFixed(0)} 202 Q ${(x + lean * 0.3).toFixed(0)} ${(200 - h * 0.55).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='2.8' fill='none'/><ellipse cx='${hx}' cy='${hy}' rx='4.6' ry='13' fill='${color}' transform='rotate(${tilt} ${hx} ${hy})'/>`;
-    for (let a = -1; a <= 1; a++) {
-      c += `<path d='M${hx} ${(200 - h - 6).toFixed(0)} l ${(a * 6 + lean * 0.2).toFixed(0)} -13' stroke='${color}' stroke-width='1.1' fill='none' transform='rotate(${tilt} ${hx} ${hy})'/>`;
+    c2 += `<path d='M${x3.toFixed(0)} 202 Q ${(x3 + lean * 0.3).toFixed(0)} ${(200 - h * 0.55).toFixed(0)} ${hx} ${hy}' stroke='${color}' stroke-width='2.8' fill='none'/><ellipse cx='${hx}' cy='${hy}' rx='4.6' ry='13' fill='${color}' transform='rotate(${tilt} ${hx} ${hy})'/>`;
+    for (let a2 = -1; a2 <= 1; a2++) {
+      c2 += `<path d='M${hx} ${(200 - h - 6).toFixed(0)} l ${(a2 * 6 + lean * 0.2).toFixed(0)} -13' stroke='${color}' stroke-width='1.1' fill='none' transform='rotate(${tilt} ${hx} ${hy})'/>`;
     }
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function canopy(seed, color) {
   const rnd = lcg(seed);
-  let c = `<rect x='0' y='0' width='900' height='24' fill='${color}'/>`;
+  let c2 = `<rect x='0' y='0' width='900' height='24' fill='${color}'/>`;
   for (let i = 0; i < 15; i++) {
-    const x = i * 62 + rnd() * 30;
+    const x3 = i * 62 + rnd() * 30;
     const depth = 26 + rnd() * 92;
     for (let j = 0; j < 6; j++) {
-      c += `<ellipse cx='${(x + (rnd() - 0.5) * 74).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' rx='${(22 + rnd() * 28).toFixed(0)}' ry='${(15 + rnd() * 19).toFixed(0)}' fill='${color}'/>`;
+      c2 += `<ellipse cx='${(x3 + (rnd() - 0.5) * 74).toFixed(0)}' cy='${(rnd() * depth).toFixed(0)}' rx='${(22 + rnd() * 28).toFixed(0)}' ry='${(15 + rnd() * 19).toFixed(0)}' fill='${color}'/>`;
     }
   }
   for (let b = 0; b < 3; b++) {
     const bx = 90 + rnd() * 700;
     const sway = (rnd() * 60 - 30).toFixed(0);
-    c += `<path d='M${bx.toFixed(0)} 0 q ${(rnd() * 36 - 18).toFixed(0)} 80 ${sway} 148' stroke='${color}' stroke-width='4.5' fill='none'/><ellipse cx='${(bx + Number(sway)).toFixed(0)}' cy='150' rx='16' ry='11' fill='${color}'/>`;
+    c2 += `<path d='M${bx.toFixed(0)} 0 q ${(rnd() * 36 - 18).toFixed(0)} 80 ${sway} 148' stroke='${color}' stroke-width='4.5' fill='none'/><ellipse cx='${(bx + Number(sway)).toFixed(0)}' cy='150' rx='16' ry='11' fill='${color}'/>`;
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function bird(color) {
   return svgUrl(
@@ -12599,22 +14232,22 @@ function bird(color) {
 }
 function tents(seed, color) {
   const rnd = lcg(seed);
-  let c = `<rect x='0' y='186' width='900' height='14' fill='${color}'/>`;
-  let x = -20;
+  let c2 = `<rect x='0' y='186' width='900' height='14' fill='${color}'/>`;
+  let x3 = -20;
   let i = 0;
-  while (x < 900) {
+  while (x3 < 900) {
     const w = 64 + rnd() * 58;
     const h = 42 + rnd() * 34;
-    c += `<path d='M${x.toFixed(0)} 188 L${(x + w / 2).toFixed(0)} ${(188 - h).toFixed(0)} L${(x + w).toFixed(0)} 188 Z' fill='${color}'/>`;
+    c2 += `<path d='M${x3.toFixed(0)} 188 L${(x3 + w / 2).toFixed(0)} ${(188 - h).toFixed(0)} L${(x3 + w).toFixed(0)} 188 Z' fill='${color}'/>`;
     if (i % 3 === 2) {
-      const px = x + w + 6 + rnd() * 8;
+      const px = x3 + w + 6 + rnd() * 8;
       const ph = 92 + rnd() * 30;
-      c += `<rect x='${px.toFixed(0)}' y='${(188 - ph).toFixed(0)}' width='3.4' height='${ph.toFixed(0)}' fill='${color}'/><path d='M${(px + 3).toFixed(0)} ${(188 - ph).toFixed(0)} l 26 7 l -26 8 Z' fill='${color}'/>`;
+      c2 += `<rect x='${px.toFixed(0)}' y='${(188 - ph).toFixed(0)}' width='3.4' height='${ph.toFixed(0)}' fill='${color}'/><path d='M${(px + 3).toFixed(0)} ${(188 - ph).toFixed(0)} l 26 7 l -26 8 Z' fill='${color}'/>`;
     }
-    x += w + 14 + rnd() * 26;
+    x3 += w + 14 + rnd() * 26;
     i += 1;
   }
-  return svgUrl(900, 200, c);
+  return svgUrl(900, 200, c2);
 }
 function banner(pole, cloth) {
   return svgUrl(
@@ -12626,16 +14259,16 @@ function banner(pole, cloth) {
 }
 function stones(seed, color) {
   const rnd = lcg(seed);
-  let c = "";
-  for (let y = 0; y <= 600; y += 52) {
-    const jy = y + (rnd() - 0.5) * 5;
-    c += `<path d='M0 ${jy.toFixed(0)} L900 ${(jy + (rnd() - 0.5) * 7).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.55'/>`;
+  let c2 = "";
+  for (let y3 = 0; y3 <= 600; y3 += 52) {
+    const jy = y3 + (rnd() - 0.5) * 5;
+    c2 += `<path d='M0 ${jy.toFixed(0)} L900 ${(jy + (rnd() - 0.5) * 7).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.55'/>`;
     const off = rnd() * 90;
-    for (let x = off; x < 900; x += 105 + rnd() * 60) {
-      c += `<path d='M${x.toFixed(0)} ${jy.toFixed(0)} L${(x + (rnd() - 0.5) * 6).toFixed(0)} ${(jy + 52).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.4'/>`;
+    for (let x3 = off; x3 < 900; x3 += 105 + rnd() * 60) {
+      c2 += `<path d='M${x3.toFixed(0)} ${jy.toFixed(0)} L${(x3 + (rnd() - 0.5) * 6).toFixed(0)} ${(jy + 52).toFixed(0)}' stroke='${color}' stroke-width='2' fill='none' opacity='0.4'/>`;
     }
   }
-  return svgUrl(900, 600, c);
+  return svgUrl(900, 600, c2);
 }
 function cellWindow(bar, glow) {
   return svgUrl(
@@ -12681,7 +14314,7 @@ var SceneManager = class {
   autoPick() {
     const h = (/* @__PURE__ */ new Date()).getHours();
     for (const s of SCENES) {
-      if (s.hours.some(([a, b]) => h >= a && h < b)) return s.id;
+      if (s.hours.some(([a2, b]) => h >= a2 && h < b)) return s.id;
     }
     return "starlight";
   }
@@ -13171,7 +14804,7 @@ async function migrateFromAnnotate(s) {
   let count = 0;
   for (const [verseId, list] of Object.entries(old.highlights ?? {})) {
     for (const h of list ?? []) {
-      const a = {
+      const a2 = {
         annotation_id: uuid(),
         author_user_id: s.device.userId,
         anchor_type: "verse",
@@ -13192,8 +14825,8 @@ async function migrateFromAnnotate(s) {
         deleted_at: null,
         version: 1
       };
-      if (h.text) a.selected_text = h.text;
-      await s.sync.save(a);
+      if (h.text) a2.selected_text = h.text;
+      await s.sync.save(a2);
       count++;
     }
   }
@@ -13232,8 +14865,8 @@ function newerVersion(remote, local) {
   const l = local.split(".").map(Number);
   if (r.some(Number.isNaN) || l.some(Number.isNaN) || !remote) return false;
   for (let i = 0; i < 3; i++) {
-    const a = r[i] ?? 0, b = l[i] ?? 0;
-    if (a !== b) return a > b;
+    const a2 = r[i] ?? 0, b = l[i] ?? 0;
+    if (a2 !== b) return a2 > b;
   }
   return false;
 }
@@ -13259,7 +14892,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     this.study = new StudyService(this.state, this.ann);
     this.addSettingTab(new SGSettingsTab(this));
     this.registerView(ASK_VIEW, (leaf) => new AskView(leaf, this.state, this.ai, this.ann));
-    this.registerView(READER_VIEW, (leaf) => new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
+    this.registerView(READER_VIEW, (leaf) => new ReaderView(leaf, this.state, this.ann, (c2, v, seed) => void this.openAsk(c2, v, seed)));
     this.registerObsidianProtocolHandler("scripture-graph-auth", (params) => {
       const code = params["code"];
       if (!code) return void new import_obsidian21.Notice("AI connection failed: no code in redirect");
@@ -13660,8 +15293,8 @@ var SGPlugin = class extends import_obsidian21.Plugin {
   async openTimelineForBook(bookSlug) {
     const { loadTimelineData: loadTimelineData2 } = await Promise.resolve().then(() => (init_timelineView(), timelineView_exports));
     const data = await loadTimelineData2(this.app);
-    const y = data?.book_years?.[bookSlug] ?? null;
-    await this.openTimeline(y);
+    const y3 = data?.book_years?.[bookSlug] ?? null;
+    await this.openTimeline(y3);
   }
   /** does this page name a subject the chronology knows? (entity sheets get
    * a ⏳ door straight into that subject's focused timeline) */
@@ -13671,22 +15304,22 @@ var SGPlugin = class extends import_obsidian21.Plugin {
     if (this.tlSubjects && Date.now() - this.tlSubjectsAt < 3e5) return this.tlSubjects;
     const { loadTimelineData: loadTimelineData2 } = await Promise.resolve().then(() => (init_timelineView(), timelineView_exports));
     const data = await loadTimelineData2(this.app);
-    const m = /* @__PURE__ */ new Map();
+    const m2 = /* @__PURE__ */ new Map();
     for (const e of data?.events ?? []) {
       for (const kind of ["people", "places", "things"]) {
         for (const name of e[kind] ?? []) {
-          m.set(name.toLowerCase(), { kind, name });
+          m2.set(name.toLowerCase(), { kind, name });
           if (name.toLowerCase().endsWith("ies")) {
-            m.set(name.toLowerCase().slice(0, -3) + "i", { kind, name });
+            m2.set(name.toLowerCase().slice(0, -3) + "i", { kind, name });
           } else if (name.toLowerCase().endsWith("s")) {
-            m.set(name.toLowerCase().slice(0, -1), { kind, name });
+            m2.set(name.toLowerCase().slice(0, -1), { kind, name });
           }
         }
       }
     }
-    this.tlSubjects = m;
+    this.tlSubjects = m2;
     this.tlSubjectsAt = Date.now();
-    return m;
+    return m2;
   }
   /** jump to the timeline focused on one subject */
   async openTimelineFocus(subject) {
@@ -13715,7 +15348,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       (this.state.device.myTimelines ?? []).map((t) => t.name),
       (t) => {
         const mine = this.state.device.myTimelines ?? [];
-        const at = mine.findIndex((x) => x.name === t.name);
+        const at = mine.findIndex((x3) => x3.name === t.name);
         if (at >= 0) mine[at] = t;
         else mine.push(t);
         this.state.device.myTimelines = mine;
@@ -13747,8 +15380,8 @@ var SGPlugin = class extends import_obsidian21.Plugin {
               files.push({ name: ch.basename, path: ch.path });
             }
           }
-          folders.sort((a, b) => a.name.localeCompare(b.name));
-          files.sort((a, b) => a.name.localeCompare(b.name));
+          folders.sort((a2, b) => a2.name.localeCompare(b.name));
+          files.sort((a2, b) => a2.name.localeCompare(b.name));
         }
         return { folders, files };
       },
@@ -13898,7 +15531,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
   /** Ambient scene picker. */
   pickScene() {
     const menu = new import_obsidian22.Menu();
-    const set = (value, label) => {
+    const set2 = (value, label) => {
       this.state.device.scene = value;
       void this.state.saveDevice();
       if (value === "match") {
@@ -13909,12 +15542,12 @@ var SGPlugin = class extends import_obsidian21.Plugin {
       }
       new import_obsidian21.Notice(`Reading scene: ${label}`);
     };
-    menu.addItem((i) => i.setTitle("\u2716 None (plain)").onClick(() => set("none", "none")));
-    menu.addItem((i) => i.setTitle("\u{1F550} Auto \u2014 follow the time of day").onClick(() => set("auto", "auto")));
-    menu.addItem((i) => i.setTitle("\u{1F4D6} Match the chapter \u2014 the scene follows the words").onClick(() => set("match", "match the chapter")));
+    menu.addItem((i) => i.setTitle("\u2716 None (plain)").onClick(() => set2("none", "none")));
+    menu.addItem((i) => i.setTitle("\u{1F550} Auto \u2014 follow the time of day").onClick(() => set2("auto", "auto")));
+    menu.addItem((i) => i.setTitle("\u{1F4D6} Match the chapter \u2014 the scene follows the words").onClick(() => set2("match", "match the chapter")));
     menu.addSeparator();
     for (const s of SCENES) {
-      menu.addItem((i) => i.setTitle(`${s.emoji} ${s.name}`).onClick(() => set(s.id, s.name)));
+      menu.addItem((i) => i.setTitle(`${s.emoji} ${s.name}`).onClick(() => set2(s.id, s.name)));
     }
     menu.showAtPosition({ x: window.innerWidth / 2 - 110, y: window.innerHeight / 3 });
   }
@@ -13922,7 +15555,7 @@ var SGPlugin = class extends import_obsidian21.Plugin {
    * the page itself into an editor (mobile keyboard stays in the dialog). */
   async writeInMyNotes(f) {
     new WriteModal(this.app, f.basename.replace(/ - My Notes$/, ""), async (text) => {
-      await this.app.vault.process(f, (c) => `${c.trimEnd()}
+      await this.app.vault.process(f, (c2) => `${c2.trimEnd()}
 
 ${text.trim()}
 `);
@@ -14058,19 +15691,19 @@ ${text.trim()}
       ""
     ];
     const byAnchor = /* @__PURE__ */ new Map();
-    for (const a of local.filter((x) => !x.deleted_at)) {
-      const arr = byAnchor.get(a.anchor_id) ?? [];
-      arr.push(a);
-      byAnchor.set(a.anchor_id, arr);
+    for (const a2 of local.filter((x3) => !x3.deleted_at)) {
+      const arr = byAnchor.get(a2.anchor_id) ?? [];
+      arr.push(a2);
+      byAnchor.set(a2.anchor_id, arr);
     }
-    for (const [anchor, list] of [...byAnchor.entries()].sort((x, y) => x[0].localeCompare(y[0]))) {
+    for (const [anchor, list] of [...byAnchor.entries()].sort((x3, y3) => x3[0].localeCompare(y3[0]))) {
       lines.push(`## ${verseDisplay(anchor) ?? anchor}`, "");
-      for (const a of list) {
-        const vis = a.visibility === "local" ? "device-only" : a.visibility;
-        if (a.annotation_type === "highlight") {
-          lines.push(`- \u{1F58D} ${a.color ?? "yellow"} highlight (${vis})${a.selected_text ? `: "${a.selected_text}"` : ""}`);
-        } else if (a.content) {
-          lines.push(`- \u{1F4DD} (${vis}) ${a.content.replace(/\n/g, " ")}`);
+      for (const a2 of list) {
+        const vis = a2.visibility === "local" ? "device-only" : a2.visibility;
+        if (a2.annotation_type === "highlight") {
+          lines.push(`- \u{1F58D} ${a2.color ?? "yellow"} highlight (${vis})${a2.selected_text ? `: "${a2.selected_text}"` : ""}`);
+        } else if (a2.content) {
+          lines.push(`- \u{1F4DD} (${vis}) ${a2.content.replace(/\n/g, " ")}`);
         }
       }
       lines.push("");
@@ -14083,31 +15716,31 @@ ${text.trim()}
    * copy of each real thing is kept). */
   async cleanupMarks() {
     const norm = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
-    const all = (await this.state.sync.allAnnotations()).filter((a) => a.author_user_id === this.state.device.userId || a.author_user_id === null).sort((a, b) => a.created_at.localeCompare(b.created_at));
+    const all = (await this.state.sync.allAnnotations()).filter((a2) => a2.author_user_id === this.state.device.userId || a2.author_user_id === null).sort((a2, b) => a2.created_at.localeCompare(b.created_at));
     const seen = /* @__PURE__ */ new Set();
     let removed = 0;
-    for (const a of all) {
-      if (a.annotation_type === "note" && a.content.startsWith("\u26A0 Conflict copy")) {
-        await this.state.sync.softDelete(a.annotation_id);
+    for (const a2 of all) {
+      if (a2.annotation_type === "note" && a2.content.startsWith("\u26A0 Conflict copy")) {
+        await this.state.sync.softDelete(a2.annotation_id);
         removed++;
         continue;
       }
       let key = null;
-      if (a.annotation_type === "study-marker") {
+      if (a2.annotation_type === "study-marker") {
         try {
-          const d = JSON.parse(a.content);
-          key = `card|${a.anchor_id}|${norm(d.back ?? "")}`;
+          const d = JSON.parse(a2.content);
+          key = `card|${a2.anchor_id}|${norm(d.back ?? "")}`;
         } catch {
           key = null;
         }
-      } else if (a.annotation_type === "highlight") {
-        key = `hl|${a.anchor_id}|${a.color ?? ""}|${norm(a.selected_text ?? "")}`;
-      } else if (a.annotation_type === "bookmark") {
-        key = `bm|${a.anchor_id}`;
+      } else if (a2.annotation_type === "highlight") {
+        key = `hl|${a2.anchor_id}|${a2.color ?? ""}|${norm(a2.selected_text ?? "")}`;
+      } else if (a2.annotation_type === "bookmark") {
+        key = `bm|${a2.anchor_id}`;
       }
       if (!key) continue;
       if (seen.has(key)) {
-        await this.state.sync.softDelete(a.annotation_id);
+        await this.state.sync.softDelete(a2.annotation_id);
         removed++;
       } else {
         seen.add(key);
