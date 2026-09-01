@@ -5470,6 +5470,56 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-43-7dc577ab",
+   "t": "Nebuchadnezzar's campaign against Egypt (Amasis)",
+   "y0": -570,
+   "y1": -567,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "A fragmentary Babylonian chronicle (BM 33041) records a campaign by Nebuchadnezzar II against Amasis of Egypt in his 37th regnal year, often cited as the closest external correlate to Jeremiah's prediction, though the tablet breaks off before the outcome is described.",
+   "chapters": [
+    "Jeremiah 43"
+   ],
+   "people": [
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "r-jer-43-c06fbb92",
+   "t": "Remnant of Judah forcibly relocates to Egypt",
+   "y0": -586,
+   "y1": -582,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Following the assassination of Gedaliah (cf. Jeremiah 41), Johanan's faction, fearing Babylonian reprisal, takes the surviving population -- including Jeremiah and Baruch -- to Tahpanhes in Egypt against the oracle just delivered in Jeremiah 42.",
+   "chapters": [
+    "Jeremiah 43"
+   ],
+   "people": [
+    "Jeremiah (prophet)",
+    "Baruch",
+    "Johanan"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-jer-44-98f8ea39",
    "t": "Overthrow of Pharaoh Hophra (Apries) by Amasis",
    "y0": -570,
@@ -5492,6 +5542,37 @@ timeline module, not this file._
    ],
    "places": [
     "Egypt"
+   ]
+  },
+  {
+   "id": "r-jer-46-ec2c943b",
+   "t": "Babylon defeats Egypt at Carchemish",
+   "y0": -605,
+   "y1": -605,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Jeremiah 46:2 dates the defeat to Jehoiakim's fourth year; the Babylonian Chronicle independently places Nebuchadnezzar's victory over Egypt at Carchemish in 605 BCE.",
+   "chapters": [
+    "Jeremiah 46"
+   ],
+   "people": [
+    "Pharaoh-necho",
+    "Nebuchadrezzar",
+    "Jehoiakim"
+   ],
+   "places": [
+    "Carchemish",
+    "Euphrates River"
+   ],
+   "things": [
+    "Egyptian army",
+    "Babylonian army"
    ]
   },
   {
