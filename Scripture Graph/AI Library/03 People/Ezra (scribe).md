@@ -41,6 +41,7 @@ _Not yet developed._
 - **458 BC–445 BC** — Ezra reads the law; Nehemiah builds the wall · [[Ezra 7]] · [[Nehemiah 4]] · [[Nehemiah 8]] · [[500-401 BC]] *(historical)*
 - **458 BC** — Ezra's Commission and Journey to Jerusalem · [[Ezra 7]] · [[500-401 BC]] *(traditional dating)*
 - **458 BC–398 BC** — Ezra's caravan departs Babylon for Jerusalem · [[Ezra 8]] · [[500-401 BC]] *(approximate)*
+- **445 BC** — Dedication of the Rebuilt Wall of Jerusalem · [[Nehemiah 12]] · [[500-401 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

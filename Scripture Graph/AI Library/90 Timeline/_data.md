@@ -5244,6 +5244,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-13-efcdff4a",
+   "t": "Ezekiel's exilic ministry and oracles against false prophets",
+   "y0": -593,
+   "y1": -571,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel's oracles are internally dated by the regnal years of King Jehoiachin's exile (e.g., Ezekiel 1:2), placing his prophetic activity roughly 593-571 BC among the Babylonian exiles, spanning the years before and after Jerusalem's fall in 586 BC.",
+   "chapters": [
+    "Ezekiel 13"
+   ],
+   "people": [
+    "Ezekiel"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-ezek-16-5fbce4b1",
    "t": "Ezekiel's oracles against Jerusalem before its fall",
    "y0": -593,
@@ -7086,6 +7110,31 @@ timeline module, not this file._
    ],
    "things": [
     "Second Temple"
+   ]
+  },
+  {
+   "id": "r-neh-12-c6fffd5f",
+   "t": "Dedication of the Rebuilt Wall of Jerusalem",
+   "y0": -445,
+   "y1": -445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed near the end of Nehemiah's initial governorship, dated from the 20th year of Artaxerxes I (Nehemiah 2:1), conventionally reckoned c. 445 BC.",
+   "chapters": [
+    "Nehemiah 12"
+   ],
+   "people": [
+    "Nehemiah (governor)",
+    "Ezra (scribe)"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {
