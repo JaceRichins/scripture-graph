@@ -1,3 +1,4 @@
+/* scripture-graph v0.62.0 build 0717727e 2026-09-02T17:57:35Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -20,10 +21,19 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
+// <define:__SG_BUILD__>
+var define_SG_BUILD_default;
+var init_define_SG_BUILD = __esm({
+  "<define:__SG_BUILD__>"() {
+    define_SG_BUILD_default = { version: "0.62.0", sha: "0717727e", at: "2026-09-02T17:57:35Z" };
+  }
+});
+
 // ../../node_modules/zod/v3/helpers/util.js
 var util, objectUtil, ZodParsedType, getParsedType;
 var init_util = __esm({
   "../../node_modules/zod/v3/helpers/util.js"() {
+    init_define_SG_BUILD();
     (function(util2) {
       util2.assertEqual = (_) => {
       };
@@ -161,6 +171,7 @@ var init_util = __esm({
 var ZodIssueCode, quotelessJson, ZodError;
 var init_ZodError = __esm({
   "../../node_modules/zod/v3/ZodError.js"() {
+    init_define_SG_BUILD();
     init_util();
     ZodIssueCode = util.arrayToEnum([
       "invalid_type",
@@ -285,6 +296,7 @@ var init_ZodError = __esm({
 var errorMap, en_default;
 var init_en = __esm({
   "../../node_modules/zod/v3/locales/en.js"() {
+    init_define_SG_BUILD();
     init_ZodError();
     init_util();
     errorMap = (issue, _ctx) => {
@@ -401,6 +413,7 @@ function getErrorMap() {
 var overrideErrorMap;
 var init_errors = __esm({
   "../../node_modules/zod/v3/errors.js"() {
+    init_define_SG_BUILD();
     init_en();
     overrideErrorMap = en_default;
   }
@@ -429,6 +442,7 @@ function addIssueToContext(ctx, issueData) {
 var makeIssue, EMPTY_PATH, ParseStatus, INVALID, DIRTY, OK, isAborted, isDirty, isValid, isAsync;
 var init_parseUtil = __esm({
   "../../node_modules/zod/v3/helpers/parseUtil.js"() {
+    init_define_SG_BUILD();
     init_errors();
     init_en();
     makeIssue = (params) => {
@@ -526,6 +540,7 @@ var init_parseUtil = __esm({
 // ../../node_modules/zod/v3/helpers/typeAliases.js
 var init_typeAliases = __esm({
   "../../node_modules/zod/v3/helpers/typeAliases.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -533,6 +548,7 @@ var init_typeAliases = __esm({
 var errorUtil;
 var init_errorUtil = __esm({
   "../../node_modules/zod/v3/helpers/errorUtil.js"() {
+    init_define_SG_BUILD();
     (function(errorUtil2) {
       errorUtil2.errToObj = (message) => typeof message === "string" ? { message } : message || {};
       errorUtil2.toString = (message) => typeof message === "string" ? message : message?.message;
@@ -735,6 +751,7 @@ function custom(check, _params = {}, fatal) {
 var ParseInputLazyPath, handleResult, ZodType, cuidRegex, cuid2Regex, ulidRegex, uuidRegex, nanoidRegex, jwtRegex, durationRegex, emailRegex, _emojiRegex, emojiRegex, ipv4Regex, ipv4CidrRegex, ipv6Regex, ipv6CidrRegex, base64Regex, base64urlRegex, dateRegexSource, dateRegex, ZodString, ZodNumber, ZodBigInt, ZodBoolean, ZodDate, ZodSymbol, ZodUndefined, ZodNull, ZodAny, ZodUnknown, ZodNever, ZodVoid, ZodArray, ZodObject, ZodUnion, getDiscriminator, ZodDiscriminatedUnion, ZodIntersection, ZodTuple, ZodRecord, ZodMap, ZodSet, ZodFunction, ZodLazy, ZodLiteral, ZodEnum, ZodNativeEnum, ZodPromise, ZodEffects, ZodOptional, ZodNullable, ZodDefault, ZodCatch, ZodNaN, BRAND, ZodBranded, ZodPipeline, ZodReadonly, late, ZodFirstPartyTypeKind, instanceOfType, stringType, numberType, nanType, bigIntType, booleanType, dateType, symbolType, undefinedType, nullType, anyType, unknownType, neverType, voidType, arrayType, objectType, strictObjectType, unionType, discriminatedUnionType, intersectionType, tupleType, recordType, mapType, setType, functionType, lazyType, literalType, enumType, nativeEnumType, promiseType, effectsType, optionalType, nullableType, preprocessType, pipelineType, ostring, onumber, oboolean, coerce, NEVER;
 var init_types = __esm({
   "../../node_modules/zod/v3/types.js"() {
+    init_define_SG_BUILD();
     init_ZodError();
     init_errors();
     init_errorUtil();
@@ -4109,6 +4126,7 @@ __export(external_exports, {
 });
 var init_external = __esm({
   "../../node_modules/zod/v3/external.js"() {
+    init_define_SG_BUILD();
     init_errors();
     init_parseUtil();
     init_typeAliases();
@@ -4121,6 +4139,7 @@ var init_external = __esm({
 // ../../node_modules/zod/index.js
 var init_zod = __esm({
   "../../node_modules/zod/index.js"() {
+    init_define_SG_BUILD();
     init_external();
     init_external();
   }
@@ -4131,6 +4150,7 @@ var AnnotationType, Visibility, AnchorType, SyncState, Annotation, User, Group, 
 var init_schemas = __esm({
   "../../packages/core-sdk/src/schemas.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     init_zod();
     AnnotationType = external_exports.enum([
       "highlight",
@@ -5345,6 +5365,7 @@ var BOOKS, BOOK_BY_SLUG, ALIAS_MAP, ALIAS_ALT, REF_RE;
 var init_anchors = __esm({
   "../../packages/core-sdk/src/anchors.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     init_books();
     BOOKS = books_default;
     BOOK_BY_SLUG = new Map(BOOKS.map((b) => [b.slug, b]));
@@ -5373,6 +5394,7 @@ var WebStorage;
 var init_localstore = __esm({
   "../../packages/core-sdk/src/localstore.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     WebStorage = class {
       constructor(ns, storage) {
         this.ns = ns;
@@ -5413,6 +5435,7 @@ var ApiError, ApiClient;
 var init_api = __esm({
   "../../packages/core-sdk/src/api.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     ApiError = class extends Error {
       constructor(status, message) {
         super(message);
@@ -5530,6 +5553,7 @@ var Q, A, SV, CURSOR, MAX_PUSH, SyncEngine;
 var init_syncengine = __esm({
   "../../packages/core-sdk/src/syncengine.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     Q = "syncq/";
     A = "ann/";
     SV = "sv/";
@@ -5751,6 +5775,7 @@ var MARKER_RE, DEPTH_BUDGET;
 var init_markdown = __esm({
   "../../packages/core-sdk/src/markdown.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     MARKER_RE = /<!-- SG:BEGIN ([a-z0-9_-]+) -->\n?([\s\S]*?)\n?<!-- SG:END \1 -->/g;
     DEPTH_BUDGET = {
       focused: 12e3,
@@ -5886,6 +5911,7 @@ var OPENROUTER_BASE;
 var init_openrouter = __esm({
   "../../packages/core-sdk/src/ai/openrouter.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     OPENROUTER_BASE = "https://openrouter.ai";
   }
 });
@@ -5919,6 +5945,7 @@ var DEFAULT_ROUTING, TIER_CANDIDATES;
 var init_models = __esm({
   "../../packages/core-sdk/src/ai/models.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     DEFAULT_ROUTING = {
       define: "fast",
       verse: "fast",
@@ -5968,6 +5995,7 @@ var KEY, Budget;
 var init_budget = __esm({
   "../../packages/core-sdk/src/ai/budget.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     KEY = "ai_budget";
     Budget = class {
       constructor(store) {
@@ -6006,6 +6034,7 @@ var init_budget = __esm({
 var init_src = __esm({
   "../../packages/core-sdk/src/index.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     init_schemas();
     init_anchors();
     init_localstore();
@@ -6032,6 +6061,7 @@ function recordHistory(leaf) {
 var init_leafNav = __esm({
   "src/study/leafNav.ts"() {
     "use strict";
+    init_define_SG_BUILD();
   }
 });
 
@@ -6070,6 +6100,7 @@ var BUF, MAX, START, overlayEl;
 var init_trace = __esm({
   "src/study/trace.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     BUF = [];
     MAX = 300;
     START = Date.now();
@@ -6097,6 +6128,7 @@ var open;
 var init_sheetRegistry = __esm({
   "src/study/sheetRegistry.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     open = /* @__PURE__ */ new Set();
   }
 });
@@ -6149,6 +6181,7 @@ function addAll(data) {
 }
 var init_add = __esm({
   "../../node_modules/d3-quadtree/src/add.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6189,6 +6222,7 @@ function cover_default(x3, y3) {
 }
 var init_cover = __esm({
   "../../node_modules/d3-quadtree/src/cover.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6204,6 +6238,7 @@ function data_default() {
 }
 var init_data = __esm({
   "../../node_modules/d3-quadtree/src/data.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6213,6 +6248,7 @@ function extent_default(_) {
 }
 var init_extent = __esm({
   "../../node_modules/d3-quadtree/src/extent.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6226,6 +6262,7 @@ function quad_default(node, x0, y0, x1, y1) {
 }
 var init_quad = __esm({
   "../../node_modules/d3-quadtree/src/quad.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6268,6 +6305,7 @@ function find_default(x3, y3, radius) {
 }
 var init_find = __esm({
   "../../node_modules/d3-quadtree/src/find.js"() {
+    init_define_SG_BUILD();
     init_quad();
   }
 });
@@ -6303,6 +6341,7 @@ function removeAll(data) {
 }
 var init_remove = __esm({
   "../../node_modules/d3-quadtree/src/remove.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6312,6 +6351,7 @@ function root_default() {
 }
 var init_root = __esm({
   "../../node_modules/d3-quadtree/src/root.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6327,6 +6367,7 @@ function size_default() {
 }
 var init_size = __esm({
   "../../node_modules/d3-quadtree/src/size.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6347,6 +6388,7 @@ function visit_default(callback) {
 }
 var init_visit = __esm({
   "../../node_modules/d3-quadtree/src/visit.js"() {
+    init_define_SG_BUILD();
     init_quad();
   }
 });
@@ -6373,6 +6415,7 @@ function visitAfter_default(callback) {
 }
 var init_visitAfter = __esm({
   "../../node_modules/d3-quadtree/src/visitAfter.js"() {
+    init_define_SG_BUILD();
     init_quad();
   }
 });
@@ -6386,6 +6429,7 @@ function x_default(_) {
 }
 var init_x = __esm({
   "../../node_modules/d3-quadtree/src/x.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6398,6 +6442,7 @@ function y_default(_) {
 }
 var init_y = __esm({
   "../../node_modules/d3-quadtree/src/y.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6423,6 +6468,7 @@ function leaf_copy(leaf) {
 var treeProto;
 var init_quadtree = __esm({
   "../../node_modules/d3-quadtree/src/quadtree.js"() {
+    init_define_SG_BUILD();
     init_add();
     init_cover();
     init_data();
@@ -6471,6 +6517,7 @@ var init_quadtree = __esm({
 // ../../node_modules/d3-quadtree/src/index.js
 var init_src2 = __esm({
   "../../node_modules/d3-quadtree/src/index.js"() {
+    init_define_SG_BUILD();
     init_quadtree();
   }
 });
@@ -6483,6 +6530,7 @@ function constant_default(x3) {
 }
 var init_constant = __esm({
   "../../node_modules/d3-force/src/constant.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6492,6 +6540,7 @@ function jiggle_default(random) {
 }
 var init_jiggle = __esm({
   "../../node_modules/d3-force/src/jiggle.js"() {
+    init_define_SG_BUILD();
   }
 });
 
@@ -6569,6 +6618,7 @@ function collide_default(radius) {
 }
 var init_collide = __esm({
   "../../node_modules/d3-force/src/collide.js"() {
+    init_define_SG_BUILD();
     init_src2();
     init_constant();
     init_jiggle();
@@ -6658,6 +6708,7 @@ function link_default(links) {
 }
 var init_link = __esm({
   "../../node_modules/d3-force/src/link.js"() {
+    init_define_SG_BUILD();
     init_constant();
     init_jiggle();
   }
@@ -6702,6 +6753,7 @@ function set(type, name, callback) {
 var noop, dispatch_default;
 var init_dispatch = __esm({
   "../../node_modules/d3-dispatch/src/dispatch.js"() {
+    init_define_SG_BUILD();
     noop = { value: () => {
     } };
     Dispatch.prototype = dispatch.prototype = {
@@ -6741,6 +6793,7 @@ var init_dispatch = __esm({
 // ../../node_modules/d3-dispatch/src/index.js
 var init_src3 = __esm({
   "../../node_modules/d3-dispatch/src/index.js"() {
+    init_define_SG_BUILD();
     init_dispatch();
   }
 });
@@ -6814,6 +6867,7 @@ function sleep(time) {
 var frame, timeout, interval, pokeDelay, taskHead, taskTail, clockLast, clockNow, clockSkew, clock, setFrame;
 var init_timer = __esm({
   "../../node_modules/d3-timer/src/timer.js"() {
+    init_define_SG_BUILD();
     frame = 0;
     timeout = 0;
     interval = 0;
@@ -6853,6 +6907,7 @@ var init_timer = __esm({
 // ../../node_modules/d3-timer/src/index.js
 var init_src4 = __esm({
   "../../node_modules/d3-timer/src/index.js"() {
+    init_define_SG_BUILD();
     init_timer();
   }
 });
@@ -6865,6 +6920,7 @@ function lcg_default() {
 var a, c, m;
 var init_lcg = __esm({
   "../../node_modules/d3-force/src/lcg.js"() {
+    init_define_SG_BUILD();
     a = 1664525;
     c = 1013904223;
     m = 4294967296;
@@ -6980,6 +7036,7 @@ function simulation_default(nodes) {
 var initialRadius, initialAngle;
 var init_simulation = __esm({
   "../../node_modules/d3-force/src/simulation.js"() {
+    init_define_SG_BUILD();
     init_src3();
     init_src4();
     init_lcg();
@@ -7068,6 +7125,7 @@ function manyBody_default() {
 }
 var init_manyBody = __esm({
   "../../node_modules/d3-force/src/manyBody.js"() {
+    init_define_SG_BUILD();
     init_src2();
     init_constant();
     init_jiggle();
@@ -7107,6 +7165,7 @@ function x_default2(x3) {
 }
 var init_x2 = __esm({
   "../../node_modules/d3-force/src/x.js"() {
+    init_define_SG_BUILD();
     init_constant();
   }
 });
@@ -7143,6 +7202,7 @@ function y_default2(y3) {
 }
 var init_y2 = __esm({
   "../../node_modules/d3-force/src/y.js"() {
+    init_define_SG_BUILD();
     init_constant();
   }
 });
@@ -7150,6 +7210,7 @@ var init_y2 = __esm({
 // ../../node_modules/d3-force/src/index.js
 var init_src5 = __esm({
   "../../node_modules/d3-force/src/index.js"() {
+    init_define_SG_BUILD();
     init_collide();
     init_link();
     init_manyBody();
@@ -7196,6 +7257,7 @@ var import_obsidian8, FOLDER_TINT, FALLBACK_TINT, DIM, TAU, ZOOM_TAU, LINK_WIDTH
 var init_timeGraph = __esm({
   "src/study/timeGraph.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     init_src5();
     import_obsidian8 = require("obsidian");
     FOLDER_TINT = [
@@ -8000,6 +8062,7 @@ var import_obsidian9, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CA
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     import_obsidian9 = require("obsidian");
     init_sheetRegistry();
     init_timeGraph();
@@ -9349,6 +9412,7 @@ var LEXICON, SYNONYMS, POOL, COMBINING, SUFFIXES2, FEEL_INDEX, VS16, bare;
 var init_tagFeel = __esm({
   "src/study/tagFeel.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     LEXICON = {
       // inner weather — virtues and their shadows
       "pride": { e: ["\u{1F99A}", "\u{1F451}", "\u{1FA9E}"], c1: "#7b2d8b", c2: "#c0392b" },
@@ -9644,6 +9708,7 @@ var THEME_LIBRARY, BY_NAME, PREMADE_EMOJI, DEFAULT_YELLOWS, feelKey, feelCache;
 var init_themeLibrary = __esm({
   "src/study/themeLibrary.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     init_tagFeel();
     THEME_LIBRARY = [
       { name: "Jesus Christ", emoji: "\u271D\uFE0F", c1: "#e8c547", c2: "#f5ead1" },
@@ -9819,6 +9884,7 @@ var import_obsidian10, COLORS, COLOR_HEX, MARK_BG, NoteModal, AnnotationService,
 var init_annotations = __esm({
   "src/social/annotations.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     import_obsidian10 = require("obsidian");
     init_src();
     init_themeLibrary();
@@ -10151,6 +10217,7 @@ var VOICES, CHAPTER_VOICES, SCENE_KEYWORDS, SCENE_OVERRIDES;
 var init_presence = __esm({
   "src/study/presence.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     VOICES = {
       gen: { author: "Moses", place: "the wilderness of Sinai", era: "recounting the beginning", line: "the record of creation, the fall, and the covenant family" },
       ex: { author: "Moses", place: "the wilderness", era: "after the deliverance from Egypt", line: "written by the man who stood before Pharaoh and the burning bush" },
@@ -10438,6 +10505,7 @@ var import_obsidian12, TRANSLATIONS, fileCache, TranslationsModal;
 var init_translations = __esm({
   "src/study/translations.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     import_obsidian12 = require("obsidian");
     init_src();
     TRANSLATIONS = [
@@ -10581,6 +10649,7 @@ var import_obsidian13, SCOPE_LABEL, StudyBar, ThemeNameModal;
 var init_studyBar = __esm({
   "src/study/studyBar.ts"() {
     "use strict";
+    init_define_SG_BUILD();
     import_obsidian13 = require("obsidian");
     init_src();
     init_annotations();
@@ -11153,10 +11222,12 @@ __export(main_exports, {
   newerVersion: () => newerVersion
 });
 module.exports = __toCommonJS(main_exports);
+init_define_SG_BUILD();
 var import_obsidian22 = require("obsidian");
 init_src();
 
 // src/state.ts
+init_define_SG_BUILD();
 var import_obsidian = require("obsidian");
 init_src();
 var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
@@ -11275,10 +11346,12 @@ var SGState = class {
 init_leafNav();
 
 // src/study/libraryView.ts
+init_define_SG_BUILD();
 var import_obsidian4 = require("obsidian");
 init_src();
 
 // src/study/graphPresets.ts
+init_define_SG_BUILD();
 var import_obsidian2 = require("obsidian");
 init_leafNav();
 init_trace();
@@ -11479,7 +11552,7 @@ async function openHeld(app, leaf, id) {
       holdFirstRender(v, id);
       return v;
     };
-  }
+  } else trace("gpreset.no-hook", { id });
   try {
     await leaf.setViewState({ type: "graph", active: true });
   } finally {
@@ -11590,19 +11663,24 @@ async function openUnderVeil(app, p, veil) {
       trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
     } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
   }, 80);
-  watchSettle(leaf, p, veil);
+  watchSettle(app, leaf, p, veil);
 }
 function goBack(leaf) {
   const hist = leaf.history;
   if (hist?.back && (hist.backHistory?.length ?? 0) > 0) hist.back();
   else void leaf.setViewState({ type: "sg-library", active: true });
 }
-function watchSettle(leaf, p, veil) {
+function watchSettle(app, leaf, p, veil) {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
   let nodesAt = null;
   let slowNoted = false;
+  let indexNoted = false;
+  const indexed = () => {
+    for (const k in app.metadataCache.resolvedLinks) return k.length >= 0;
+    return false;
+  };
   const done = (why, n) => {
     veil.lower();
     trace("gpreset.done", { id: p.id, why, n, ms: Date.now() - t0 });
@@ -11621,7 +11699,7 @@ function watchSettle(leaf, p, veil) {
     }
     const v = leaf.view;
     const n = v.renderer?.nodes?.length ?? 0;
-    const scanning = !!(v.dataEngine ?? v.engine)?.queue;
+    const scanning = !!(v.dataEngine ?? v.engine)?.queue?.runnable?.isRunning?.();
     const ms = Date.now() - t0;
     if (import_obsidian2.Platform.isMobile && n > MOBILE_PANIC_NODES) {
       window.clearInterval(tick);
@@ -11638,7 +11716,11 @@ function watchSettle(leaf, p, veil) {
       }
       veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
-    } else if (!slowNoted && ms > SLOW_NOTE_MS) {
+    } else if (!indexNoted && !indexed()) {
+      indexNoted = true;
+      veil.sub.setText("the vault is still indexing after a reload \u2014 links first, then the graph");
+      trace("gpreset.unindexed", { id: p.id, ms });
+    } else if (!slowNoted && ms > SLOW_NOTE_MS && indexed()) {
       slowNoted = true;
       veil.sub.setText(scanning ? "reading the vault for matches \u2014 big search" : "still filtering \u2014 this one is big");
     }
@@ -11653,16 +11735,18 @@ function watchSettle(leaf, p, veil) {
       done("handover", n);
       return;
     }
-    if (nodesAt === null && (ms > EMPTY_MAX_MS && !scanning || ms > CEILING_MS)) {
+    if (nodesAt === null && (ms > EMPTY_MAX_MS && !scanning && indexed() || ms > CEILING_MS)) {
       window.clearInterval(tick);
-      done(scanning ? "ceiling" : "empty-cap", 0);
+      const why = !indexed() ? "unindexed" : scanning ? "ceiling" : "empty-cap";
+      done(why, 0);
       goBack(leaf);
-      new import_obsidian2.Notice("That graph never filled in \u2014 brought you back to the shelf.");
+      new import_obsidian2.Notice(why === "unindexed" ? "The vault is still indexing after the reload \u2014 give it a few minutes and try again." : "That graph never filled in \u2014 brought you back to the shelf.");
     }
   }, 150);
 }
 
 // src/study/navIcons.ts
+init_define_SG_BUILD();
 var I = {
   "old-testament": {
     // a parchment scroll
@@ -11873,10 +11957,12 @@ function cascade(el, i) {
 }
 
 // src/study/navigator.ts
+init_define_SG_BUILD();
 var import_obsidian3 = require("obsidian");
 init_src();
 
 // src/study/search.ts
+init_define_SG_BUILD();
 init_src();
 function normalize(s) {
   return s.toLowerCase().normalize("NFD").replace(/\p{M}+/gu, "").replace(/['’ʼ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
@@ -12686,6 +12772,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
 };
 
 // src/study/libraryPreview.ts
+init_define_SG_BUILD();
 var import_obsidian5 = require("obsidian");
 init_sheetRegistry();
 var NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
@@ -12806,6 +12893,7 @@ var LibraryPreviewModal = class extends import_obsidian5.Modal {
 };
 
 // src/study/versePeek.ts
+init_define_SG_BUILD();
 var import_obsidian6 = require("obsidian");
 init_src();
 init_sheetRegistry();
@@ -12885,6 +12973,7 @@ var VersePeekModal = class extends import_obsidian6.Modal {
 init_sheetRegistry();
 
 // src/study/swipeNav.ts
+init_define_SG_BUILD();
 var import_obsidian7 = require("obsidian");
 init_src();
 init_trace();
@@ -13075,11 +13164,13 @@ init_timelineView();
 init_annotations();
 
 // src/social/readingIntegration.ts
+init_define_SG_BUILD();
 var import_obsidian14 = require("obsidian");
 init_annotations();
 init_presence();
 
 // src/social/connections.ts
+init_define_SG_BUILD();
 var import_obsidian11 = require("obsidian");
 init_src();
 init_sheetRegistry();
@@ -13460,6 +13551,7 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
 }
 
 // src/social/onboarding.ts
+init_define_SG_BUILD();
 var import_obsidian15 = require("obsidian");
 var WelcomeModal = class extends import_obsidian15.Modal {
   constructor(s, ai, onDone) {
@@ -13570,6 +13662,7 @@ async function refreshIdentity(s) {
 }
 
 // src/ai/aiService.ts
+init_define_SG_BUILD();
 var import_obsidian16 = require("obsidian");
 init_src();
 var CALLBACK_URL = "obsidian://scripture-graph-auth";
@@ -13644,9 +13737,11 @@ var AiService = class {
 };
 
 // src/ai/askView.ts
+init_define_SG_BUILD();
 var import_obsidian17 = require("obsidian");
 
 // src/ai/context.ts
+init_define_SG_BUILD();
 init_src();
 async function read(s, file) {
   return s.app.vault.cachedRead(file);
@@ -13976,6 +14071,7 @@ ${answer}
 };
 
 // src/reader/readerView.ts
+init_define_SG_BUILD();
 var import_obsidian18 = require("obsidian");
 init_src();
 init_annotations();
@@ -14128,6 +14224,7 @@ function pretty(section) {
 }
 
 // src/study/study.ts
+init_define_SG_BUILD();
 var import_obsidian19 = require("obsidian");
 init_src();
 var StudyService = class {
@@ -14340,6 +14437,7 @@ var ReviewModal = class extends import_obsidian19.Modal {
 init_studyBar();
 
 // src/study/scenes.ts
+init_define_SG_BUILD();
 var SCENES = [
   { id: "sunrise", name: "Sunrise", emoji: "\u{1F305}", hours: [[5, 10]], layers: 6 },
   { id: "waters", name: "Still Waters", emoji: "\u{1F30A}", hours: [[10, 16]], layers: 8 },
@@ -14815,8 +14913,16 @@ var SceneManager = class {
 var import_obsidian23 = require("obsidian");
 
 // src/settings.ts
+init_define_SG_BUILD();
 var import_obsidian20 = require("obsidian");
 init_src();
+
+// src/build.ts
+init_define_SG_BUILD();
+var BUILD = typeof define_SG_BUILD_default !== "undefined" ? define_SG_BUILD_default : { version: "dev", sha: "dev", at: "" };
+var BANNER_RE = /^\/\* scripture-graph v(\d+\.\d+\.\d+) build (\S+) (\S+) \*\//;
+
+// src/settings.ts
 var SGSettingsTab = class extends import_obsidian20.PluginSettingTab {
   constructor(p) {
     super(p.app, p);
@@ -15003,11 +15109,12 @@ var SGSettingsTab = class extends import_obsidian20.PluginSettingTab {
     }
     el.createEl("h2", { text: "My data" });
     new import_obsidian20.Setting(el).setName("Export my data").setDesc("All annotations + highlights \u2192 Markdown/JSON in Library/Exports").addButton((b) => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
-    new import_obsidian20.Setting(el).setName(`Plugin version: v${this.p.manifest.version}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
+    const code = BUILD.version === this.p.manifest.version ? `build ${BUILD.sha}` : `\u26A0 code is v${BUILD.version} (${BUILD.sha}) \u2014 main.js hasn't synced yet`;
+    new import_obsidian20.Setting(el).setName(`Plugin version: v${this.p.manifest.version} \xB7 ${code}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
     new import_obsidian20.Setting(el).setName("Debug: copy interaction log").setDesc("Copies what the touch layer saw (taps, selections, decisions) \u2014 paste it to whoever is fixing a bug").addButton((b) => b.setButtonText("Copy log").onClick(async () => {
       const { traceDump: traceDump2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
       await navigator.clipboard.writeText(
-        `Scripture Graph v${this.p.manifest.version}
+        `Scripture Graph v${this.p.manifest.version} code=v${BUILD.version}@${BUILD.sha} ${BUILD.at}
 ` + traceDump2()
       );
       new import_obsidian20.Notice("Interaction log copied \u2014 paste it in a message");
@@ -15076,6 +15183,7 @@ var CodeModal = class extends import_obsidian20.Modal {
 };
 
 // src/migrate.ts
+init_define_SG_BUILD();
 var import_obsidian21 = require("obsidian");
 init_src();
 var OLD_DATA = ".obsidian/plugins/scripture-graph-annotate/data.json";
@@ -15136,6 +15244,7 @@ async function migrateFromAnnotate(s) {
 }
 
 // src/main.ts
+init_trace();
 var WriteModal = class extends import_obsidian22.Modal {
   constructor(app, chapter, onSave) {
     super(app);
@@ -15477,10 +15586,19 @@ var SGPlugin = class extends import_obsidian22.Plugin {
           new import_obsidian22.Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
         }
         const seen = await this.state.store.get("last_loaded_version");
-        if (seen !== this.manifest.version) {
-          await this.state.store.put("last_loaded_version", this.manifest.version);
-          new import_obsidian22.Notice(`Scripture Graph v${this.manifest.version} loaded`);
+        if (seen !== BUILD.version) {
+          await this.state.store.put("last_loaded_version", BUILD.version);
+          new import_obsidian22.Notice(`Scripture Graph v${BUILD.version} loaded (build ${BUILD.sha})`);
         }
+        if (BUILD.version !== this.manifest.version) {
+          new import_obsidian22.Notice(`Running v${BUILD.version} code under a v${this.manifest.version} manifest \u2014 sync hasn't finished delivering main.js; you'll be offered a reload when it lands`, 12e3);
+        }
+        trace("boot", {
+          code: BUILD.version,
+          sha: BUILD.sha,
+          manifest: this.manifest.version,
+          mobile: import_obsidian22.Platform.isMobile
+        });
         if (this.state.device.debugOverlay) {
           const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
           setOverlay2(true);
@@ -15535,8 +15653,8 @@ var SGPlugin = class extends import_obsidian22.Plugin {
         return;
       }
       const remote = manifest.version ?? "";
-      if (!newerVersion(remote, this.manifest.version)) {
-        if (!silent) new import_obsidian22.Notice(`Up to date \u2014 v${this.manifest.version}`);
+      if (!newerVersion(remote, BUILD.version)) {
+        if (!silent) new import_obsidian22.Notice(`Up to date \u2014 v${BUILD.version}`);
         return;
       }
       const [main, styles] = await Promise.all([
@@ -15573,11 +15691,19 @@ var SGPlugin = class extends import_obsidian22.Plugin {
   syncedOffered = null;
   async checkSyncedUpdate(silent = true) {
     try {
-      const path = `${this.app.vault.configDir}/plugins/${this.manifest.id}/manifest.json`;
-      const raw = await this.app.vault.adapter.read(path);
+      const dir = `${this.app.vault.configDir}/plugins/${this.manifest.id}`;
+      const ad = this.app.vault.adapter;
+      const raw = await ad.read(`${dir}/manifest.json`);
       const disk = JSON.parse(raw.replace(/^﻿/, "")).version ?? "";
-      if (!newerVersion(disk, this.manifest.version)) {
-        if (!silent) new import_obsidian22.Notice(`Up to date \u2014 v${this.manifest.version}`);
+      if (!newerVersion(disk, BUILD.version)) {
+        if (!silent) new import_obsidian22.Notice(`Up to date \u2014 v${BUILD.version}`);
+        return;
+      }
+      const head = (await ad.read(`${dir}/main.js`)).slice(0, 160);
+      const onDisk = BANNER_RE.exec(head)?.[1] ?? "";
+      if (onDisk !== disk) {
+        trace("sync.partial", { manifest: disk, code: onDisk || "unbannered", running: BUILD.version });
+        if (!silent) new import_obsidian22.Notice(`v${disk} is still syncing \u2014 the manifest is here, main.js (${onDisk ? "v" + onDisk : "an older build"}) is on its way`);
         return;
       }
       if (this.syncedOffered === disk) return;

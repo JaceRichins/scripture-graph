@@ -27,6 +27,8 @@ import { SCENES, SceneManager } from "./study/scenes";
 import { Menu } from "obsidian";
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
+import { BANNER_RE, BUILD } from "./build";
+import { trace } from "./study/trace";
 
 /** Longform writing dialog — the ONLY way a keyboard appears in the study
  * flow on mobile. Appends to the page's My Notes area. */
@@ -364,12 +366,20 @@ export default class SGPlugin extends Plugin {
           await plugins.disablePluginAndSave?.("scripture-graph-annotate");
           new Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
         }
-        // always know what build you're on — the toast is the proof
+        // always know what build you're on — the toast is the proof. Keyed
+        // on the CODE version: a synced manifest alone is not a new build
         const seen = await this.state.store.get<string>("last_loaded_version");
-        if (seen !== this.manifest.version) {
-          await this.state.store.put("last_loaded_version", this.manifest.version);
-          new Notice(`Scripture Graph v${this.manifest.version} loaded`);
+        if (seen !== BUILD.version) {
+          await this.state.store.put("last_loaded_version", BUILD.version);
+          new Notice(`Scripture Graph v${BUILD.version} loaded (build ${BUILD.sha})`);
         }
+        if (BUILD.version !== this.manifest.version) {
+          // the exact state that sent a v0.61.0 log from pre-0.61 code
+          new Notice(`Running v${BUILD.version} code under a v${this.manifest.version} manifest — `
+            + "sync hasn't finished delivering main.js; you'll be offered a reload when it lands", 12000);
+        }
+        trace("boot", { code: BUILD.version, sha: BUILD.sha, manifest: this.manifest.version,
+          mobile: Platform.isMobile });
         if (this.state.device.debugOverlay) {
           const { setOverlay } = await import("./study/trace");
           setOverlay(true);
@@ -430,8 +440,10 @@ export default class SGPlugin extends Plugin {
         return;
       }
       const remote = manifest.version ?? "";
-      if (!newerVersion(remote, this.manifest.version)) {
-        if (!silent) new Notice(`Up to date — v${this.manifest.version}`);
+      // compare against the CODE, not the manifest — a device holding a
+      // synced manifest over old code still needs the pull
+      if (!newerVersion(remote, BUILD.version)) {
+        if (!silent) new Notice(`Up to date — v${BUILD.version}`);
         return;
       }
       const [main, styles] = await Promise.all([
@@ -472,11 +484,24 @@ export default class SGPlugin extends Plugin {
 
   async checkSyncedUpdate(silent = true): Promise<void> {
     try {
-      const path = `${this.app.vault.configDir}/plugins/${this.manifest.id}/manifest.json`;
-      const raw = await this.app.vault.adapter.read(path);
+      const dir = `${this.app.vault.configDir}/plugins/${this.manifest.id}`;
+      const ad = this.app.vault.adapter;
+      const raw = await ad.read(`${dir}/manifest.json`);
       const disk = (JSON.parse(raw.replace(/^﻿/, "")) as { version?: string }).version ?? "";
-      if (!newerVersion(disk, this.manifest.version)) {
-        if (!silent) new Notice(`Up to date — v${this.manifest.version}`);
+      if (!newerVersion(disk, BUILD.version)) {
+        if (!silent) new Notice(`Up to date — v${BUILD.version}`);
+        return;
+      }
+      // The manifest is 350 bytes and lands first; main.js is 590 KB and
+      // lands later. A reload in between loads the new manifest over the
+      // OLD code. Read the banner off main.js and offer the reload only
+      // once the code on disk is the version the manifest promises.
+      const head = (await ad.read(`${dir}/main.js`)).slice(0, 160);
+      const onDisk = BANNER_RE.exec(head)?.[1] ?? "";
+      if (onDisk !== disk) {
+        trace("sync.partial", { manifest: disk, code: onDisk || "unbannered", running: BUILD.version });
+        if (!silent) new Notice(`v${disk} is still syncing — the manifest is here, main.js `
+          + `(${onDisk ? "v" + onDisk : "an older build"}) is on its way`);
         return;
       }
       if (this.syncedOffered === disk) return;   // already asked, once is enough

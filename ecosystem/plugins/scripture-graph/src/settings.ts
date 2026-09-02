@@ -5,6 +5,7 @@ import type SGPlugin from "./main";
 import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
+import { BUILD } from "./build";
 
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
@@ -223,7 +224,12 @@ export class SGSettingsTab extends PluginSettingTab {
     new Setting(el).setName("Export my data")
       .setDesc("All annotations + highlights → Markdown/JSON in Library/Exports")
       .addButton(b => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
-    new Setting(el).setName(`Plugin version: v${this.p.manifest.version}`)
+    // the manifest is what Obsidian thinks is installed; BUILD is what is
+    // actually running — Sync lands the manifest first, so they can differ
+    const code = BUILD.version === this.p.manifest.version
+      ? `build ${BUILD.sha}`
+      : `⚠ code is v${BUILD.version} (${BUILD.sha}) — main.js hasn't synced yet`;
+    new Setting(el).setName(`Plugin version: v${this.p.manifest.version} · ${code}`)
       .setDesc("Updates come straight from your family server — no sync games")
       .addButton(b => b.setButtonText("Check for updates")
         .onClick(() => void this.p.checkForUpdate(false)));
@@ -233,7 +239,9 @@ export class SGSettingsTab extends PluginSettingTab {
       .addButton(b => b.setButtonText("Copy log").onClick(async () => {
         const { traceDump } = await import("./study/trace");
         await navigator.clipboard.writeText(
-          `Scripture Graph v${this.p.manifest.version}\n` + traceDump());
+          `Scripture Graph v${this.p.manifest.version} code=v${BUILD.version}@${BUILD.sha} ${BUILD.at}
+`
+          + traceDump());
         new Notice("Interaction log copied — paste it in a message");
       }))
       .addToggle(t => t.setValue(s.device.debugOverlay ?? false)

@@ -223,9 +223,12 @@ interface GraphEngine {
   setOptions?: (o: unknown) => void;
   /** debounced search applier — setOptions stores the query, THIS runs it */
   requestUpdateSearch?: { run?: () => void };
-  /** non-null while the engine's file-scan queue is still working — a
-   * content-word query reads every file in the vault through this */
-  queue?: unknown;
+  /** the file-scan queue. Created by the first setQuery and then kept
+   * FOREVER (only a cancel nulls it — it idles waiting for changed files),
+   * so `!!queue` means nothing; `queue.runnable.isRunning()` is the live
+   * signal. A content-word query reads every file in the vault through
+   * this; a file:/path: query walks the names only. */
+  queue?: { runnable?: { isRunning?: () => boolean } } | null;
   /** builds the node set from metadataCache and hands it to the renderer */
   render?: () => void;
   /** parses the filter + color queries; the first call is what turns
@@ -293,7 +296,7 @@ async function openHeld(app: App, leaf: WorkspaceLeaf, id: string): Promise<void
       holdFirstRender(v, id);
       return v;
     };
-  }
+  } else trace("gpreset.no-hook", { id });   // the registry moved — the hold can't arm
   try {
     await leaf.setViewState({ type: "graph", active: true });
   } finally {
@@ -442,7 +445,7 @@ async function openUnderVeil(app: App, p: GraphPreset, veil: Veil): Promise<void
       trace("gpreset.opts-applied", { id: p.id, ms: Date.now() - t0 });
     } else if (Date.now() - t0 > 3200) window.clearInterval(pushTick);
   }, 80);
-  watchSettle(leaf, p, veil);
+  watchSettle(app, leaf, p, veil);
 }
 
 /** back the way the user came: the leaf's own history if it has any,
@@ -462,12 +465,20 @@ function goBack(leaf: WorkspaceLeaf): void {
  * the veil WAITS — up to 30s, ✕ always live — because dropping early
  * onto a blank churning view is what felt broken. Once nodes exist, the
  * handover cap stops a long physics drift from holding you hostage. */
-function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
+function watchSettle(app: App, leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
   const t0 = Date.now();
   let lastN = -1;
   let still = 0;
   let nodesAt: number | null = null;
   let slowNoted = false;
+  let indexNoted = false;
+  // after an app reload a phone re-indexes 10k files for minutes; until
+  // the cache resolves, every page is an orphan and the graph is honestly
+  // empty — that's not a failed filter, so it's not judged as one
+  const indexed = () => {
+    for (const k in app.metadataCache.resolvedLinks) return k.length >= 0;
+    return false;
+  };
   const done = (why: string, n: number) => {
     veil.lower();
     trace("gpreset.done", { id: p.id, why, n, ms: Date.now() - t0 });
@@ -487,7 +498,7 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
       engine?: GraphEngine;
     };
     const n = v.renderer?.nodes?.length ?? 0;
-    const scanning = !!(v.dataEngine ?? v.engine)?.queue;
+    const scanning = !!(v.dataEngine ?? v.engine)?.queue?.runnable?.isRunning?.();
     const ms = Date.now() - t0;
     if (Platform.isMobile && n > MOBILE_PANIC_NODES) {
       // the filter didn't take (or a preset is mis-scoped) — this is the
@@ -506,7 +517,11 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
       }
       veil.sub.setText(`${n.toLocaleString()} pages settling`);
       still = n === lastN ? still + 1 : 0;
-    } else if (!slowNoted && ms > SLOW_NOTE_MS) {
+    } else if (!indexNoted && !indexed()) {
+      indexNoted = true;
+      veil.sub.setText("the vault is still indexing after a reload — links first, then the graph");
+      trace("gpreset.unindexed", { id: p.id, ms });
+    } else if (!slowNoted && ms > SLOW_NOTE_MS && indexed()) {
       slowNoted = true;
       veil.sub.setText(scanning
         ? "reading the vault for matches — big search"
@@ -520,11 +535,14 @@ function watchSettle(leaf: WorkspaceLeaf, p: GraphPreset, veil: Veil): void {
     if (nodesAt !== null && Date.now() - nodesAt > HANDOVER_MS) {
       window.clearInterval(tick); done("handover", n); return;
     }
-    if (nodesAt === null && ((ms > EMPTY_MAX_MS && !scanning) || ms > CEILING_MS)) {
+    if (nodesAt === null && ((ms > EMPTY_MAX_MS && !scanning && indexed()) || ms > CEILING_MS)) {
       window.clearInterval(tick);
-      done(scanning ? "ceiling" : "empty-cap", 0);
+      const why = !indexed() ? "unindexed" : scanning ? "ceiling" : "empty-cap";
+      done(why, 0);
       goBack(leaf);   // an empty graph isn't a destination — return to the shelf
-      new Notice("That graph never filled in — brought you back to the shelf.");
+      new Notice(why === "unindexed"
+        ? "The vault is still indexing after the reload — give it a few minutes and try again."
+        : "That graph never filled in — brought you back to the shelf.");
     }
   }, 150);
 }
