@@ -3409,6 +3409,54 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1jn-2-d488436a",
+   "t": "Traditional composition of the Johannine epistles at Ephesus",
+   "y0": 85,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Early Christian tradition attributes 1 John to the apostle John writing from Ephesus late in the first century, addressing a community facing secession by teachers who denied Jesus' full messianic identity (cf. 1 John 2:19, 22).",
+   "chapters": [
+    "1 John 2"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Ephesus"
+   ]
+  },
+  {
+   "id": "r-1jn-5-3d6ecd6c",
+   "t": "Traditional composition of 1 John at Ephesus",
+   "y0": 90,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Christian tradition attributes 1 John to the Apostle John late in his life, commonly dated c. AD 90-95, likely written from or for the church at Ephesus.",
+   "chapters": [
+    "1 John 5"
+   ],
+   "people": [
+    "John the Apostle"
+   ],
+   "places": [
+    "Ephesus"
+   ]
+  },
+  {
    "id": "r-1kgs-1-97c2dd76",
    "t": "Solomon is publicly installed as king",
    "y0": -970,
