@@ -5607,6 +5607,91 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-90-d483552b",
+   "t": "D&C 90 received at Kirtland concerning First Presidency keys",
+   "y0": 1833,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading and internal content place this revelation in early 1833, addressing Joseph Smith, Sidney Rigdon, and Frederick G. Williams together as presiding officers.",
+   "chapters": [
+    "D&C 90"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Sidney Rigdon",
+    "Frederick G. Williams"
+   ],
+   "places": [
+    "Zion"
+   ],
+   "things": [
+    "keys of the kingdom",
+    "School of the Prophets"
+   ]
+  },
+  {
+   "id": "r-dc-97-3ec2f132",
+   "t": "D&C 97 given at Kirtland: school in Zion and temple commanded",
+   "y0": 1833,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading dates this revelation to August 2, 1833, given through Joseph Smith at Kirtland, Ohio.",
+   "chapters": [
+    "D&C 97"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Parley P. Pratt"
+   ],
+   "places": [
+    "Kirtland, Ohio"
+   ],
+   "things": [
+    "School in Zion"
+   ]
+  },
+  {
+   "id": "r-dc-97-c6d65396",
+   "t": "Mob destroys Independence press, tars Edward Partridge",
+   "y0": 1833,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Church histories date the destruction of the Evening and Morning Star printing office and the tarring and feathering of Bishop Edward Partridge and Charles Allen to July 20, 1833, in Independence, Missouri.",
+   "chapters": [
+    "D&C 97"
+   ],
+   "people": [
+    "Edward Partridge"
+   ],
+   "places": [
+    "Independence, Missouri"
+   ],
+   "things": [
+    "Evening and Morning Star press"
+   ]
+  },
+  {
    "id": "r-dc-98-31f74554",
    "t": "D&C 98 given at Kirtland amid Missouri persecutions",
    "y0": 1833,
