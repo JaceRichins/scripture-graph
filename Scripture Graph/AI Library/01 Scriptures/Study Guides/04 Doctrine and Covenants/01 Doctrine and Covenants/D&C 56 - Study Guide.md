@@ -17,12 +17,16 @@ Scripture: [[D&C 56]] · My notes: [[D&C 56 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 56 joins specific administrative directions to a broader moral warning. Verses 1–13 address broken commands, changed assignments, migration, land, and repayment. Verses 14–20 widen the address to the community and examine disobedience, wealth, poverty, greed, labor, contrition, and divine recompense. The resulting unity is ethical rather than merely administrative: changing circumstances do not remove the obligation to respond faithfully.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Warning and governing principle (vv. 1–4):** professed disciples must follow, obey, and accept that commands may be revoked.
+2. **Reassigned journeys (vv. 5–7):** Thomas B. Marsh and Selah J. Griffin are paired for Missouri; Newel Knight remains to lead willing, contrite people from Thompson.
+3. **Ezra Thayre and the land dispute (vv. 8–13):** repentance produces one outcome; refusal produces another, with money and inheritance addressed explicitly.
+4. **Communal indictment (vv. 14–15):** the focus expands from named individuals to the people's sins.
+5. **Woes and blessing (vv. 16–20):** the uncharitable rich and morally disordered poor are rebuked, while the pure and contrite poor receive promises of deliverance and inheritance.
 <!-- SG:END structure -->
 
 ## People
@@ -40,19 +44,20 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 56#^dc-56-1|D&C 56:1]] ↔ [[D&C 124#^dc-124-145|D&C 124:145]]
-- [[Jacob 2]] — 1 parallel verse, e.g. [[D&C 56#^dc-56-20|D&C 56:20]] ↔ [[Jacob 2#^jacob-2-22|Jacob 2:22]]
-- [[Jeremiah 8]] — 1 parallel verse, e.g. [[D&C 56#^dc-56-16|D&C 56:16]] ↔ [[Jeremiah 8#^jer-8-20|Jeremiah 8:20]]
+- [[Jeremiah 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Fasting and Prayer for the Poor]]
+- [[Pride]]
+- [[Final Judgment]]
 - [[Obedience]] *(keyword match — unconfirmed)*
-- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter treats [[Obedience]] as continued responsiveness rather than mere attachment to a prior assignment: when circumstances and commands change, disciples remain accountable for their next response. Its treatment of wealth and poverty is deliberately two-sided. Rich people who will not aid the poor face judgment, but poverty does not excuse greed, taking another's goods, or refusing to work. Conversely, the blessed poor are identified by purity and contrition. This supports study of [[Pride]], [[Repentance]], [[Work and Self-Reliance]], and [[Final Judgment]] without reducing the passage to either a defense of wealth or a condemnation of poverty.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -70,22 +75,27 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+D&C 56:16 adapts the lament in [[Jeremiah 8]]: Jeremiah 8:20 ends, "we are not saved," while D&C 56:16 says, "my soul is not saved." The change individualizes the lament and places it in the mouth of the person who has allowed the season for repentance to pass. That literary effect is plausible, but conclusions about how or why the biblical wording entered the revelation require assumptions beyond the verbal parallel itself.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 16-18 use a woe/blessing oracle form: two parallel "Wo unto you..." apostrophes (rich, then poor) are answered by a single "But blessed are..." reversal, a pattern comparable in shape to the paired beatitudes-and-woes of Luke's Sermon on the Plain (see [[Beatitudes]]). Verse 16's closing line, "The harvest is past, the summer is ended, and my soul is not saved!", adapts Jeremiah 8:20 almost word for word, changing the prophet's communal lament ("we are not saved") into an individual voice ("my soul") — sharpening the oracle's force by making the reader supply the confession personally.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Intertext
+> The close wording shared by D&C 56:16 and Jeremiah 8:20 is strong evidence that the revelation's language consciously reuses or evokes the biblical lament. It is not evidence by itself for any particular theory of authorship or revelatory mechanism.
+> — strength 0.8 · confidence 0.9 · exemplary evidentiary hedging · [[Literary Intertext in D&C 56|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What distinguishes a faithful response to a changed command from resistance disguised as loyalty to an earlier command?
+- Why does the text criticize the rich and the poor separately rather than treating economic status itself as proof of righteousness or wickedness?
+- How do the immediate land and money disputes illuminate the later warnings about selfishness, greed, labor, and care for the poor?
+- Does "cut off" carry the same meaning in verses 3 and 10, or does verse 10 supply a more specific institutional sense?
 <!-- SG:END questions -->
 
 ## Further Study
