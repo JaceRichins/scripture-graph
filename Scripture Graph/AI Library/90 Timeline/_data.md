@@ -5603,6 +5603,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-81-286d53d2",
+   "t": "Revelation concerning a counselor in the presidency",
+   "y0": 1832,
+   "y1": 1832,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The revelation manuscript is dated 15 March 1832; its surviving form addresses Jesse Gause, while the present canonical text names Frederick G. Williams.",
+   "chapters": [
+    "D&C 81"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Jesse Gause",
+    "Frederick G. Williams",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Hiram, Ohio"
+   ],
+   "things": [
+    "Presidency of the High Priesthood"
+   ]
+  },
+  {
    "id": "r-dc-87-f66d7b18",
    "t": "American Civil War, proposed fulfillment",
    "y0": 1861,
