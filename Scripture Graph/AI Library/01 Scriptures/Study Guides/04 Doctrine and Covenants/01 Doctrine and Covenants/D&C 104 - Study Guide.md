@@ -17,21 +17,21 @@ Scripture: [[D&C 104]] · My notes: [[D&C 104 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-[[D&C 104]] joins theological claims to detailed institutional administration. Its governing premise is that creation and the order's properties belong to the Lord; participants therefore act as accountable stewards rather than ultimate owners. That premise is applied through assigned properties, productive work, common treasuries, provision for the poor, covenant discipline, sacred publishing, and payment of debts.
+[[D&C 104]] joins theology to detailed administration. Creation and the order's properties belong to the Lord, so participants act as accountable stewards rather than ultimate owners. That premise is applied through assigned properties, productive work, regulated treasuries, provision for the poor, covenant discipline, sacred publishing, and payment of debts.
 
-The immediate setting remains important. The revelation addresses named people, particular Kirtland properties, displaced Zion participants, and a specific financial crisis. These instructions illuminate [[Consecration]], but the chapter alone does not establish that every administrative detail is a timeless economic blueprint.
+The immediate setting matters: the revelation names people and Kirtland properties, responds to the displacement of the Zion participants, and addresses a concrete financial crisis. These instructions illuminate [[Consecration]], but the chapter alone does not show that every administrative detail is a timeless economic blueprint.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Covenant accountability (vv. 1–10):** Faithfulness brings promised blessing; unrepentant covenant violation brings judgment and being cut off.
-2. **Theological foundation (vv. 11–18):** People are accountable stewards because creation belongs to the Lord; abundance carries responsibility toward the poor and needy.
+1. **Covenant accountability (vv. 1–10):** Faithfulness brings promised blessing; unrepentant covenant violation brings judgment and exclusion.
+2. **Theological foundation (vv. 11–18):** People are accountable stewards because creation belongs to the Lord; abundance creates responsibility toward the poor and needy.
 3. **Named stewardships (vv. 19–46):** Particular Kirtland properties and enterprises are assigned to individual stewards.
-4. **Institutional separation (vv. 47–53):** The Kirtland and Zion organizations are separated, while limited assistance by loans remains possible.
-5. **Publishing and treasuries (vv. 54–77):** Divine ownership is restated; sacred publishing, two treasuries, access rules, and review of unfaithful officers are prescribed.
+4. **Institutional separation (vv. 47–53):** The Kirtland and Zion organizations are separated, while limited assistance by approved loans remains possible.
+5. **Publishing and treasuries (vv. 54–77):** Divine ownership is restated and translated into publishing purposes, two treasuries, withdrawal rules, and oversight of officers.
 6. **Debt and promised deliverance (vv. 78–86):** Humility and prayer accompany correspondence, borrowing, pledging property, and the command to pay debts.
 
-The declaration of divine ownership in verses 55–57 returns in verse 86, framing the treasury and debt instructions with the chapter's central stewardship principle.
+The declarations of divine ownership in verses 55–57 and 86 frame the treasury and debt procedures with the chapter's central stewardship principle.
 <!-- SG:END structure -->
 
 ## People
@@ -57,17 +57,15 @@ The declaration of divine ownership in verses 55–57 returns in verse 86, frami
 - [[D&C 63]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-6|D&C 104:6]] ↔ [[D&C 63#^dc-63-58|D&C 63:58]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-5|D&C 104:5]] ↔ [[D&C 61#^dc-61-5|D&C 61:5]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
-- [[D&C 105]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
 - [[D&C 94]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
-- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 100#^dc-100-7|D&C 100:7]]
 - [[D&C 78]] — 0 parallel verses
-- [[Luke 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fasting and Prayer for the Poor]]
 - [[Covenants]]
+- [[Work and Self-Reliance]]
 - [[Records and Sacred Writings]]
 - [[Consecration]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
@@ -77,11 +75,11 @@ The declaration of divine ownership in verses 55–57 returns in verse 86, frami
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter's relationship to [[Consecration]] includes several mutually qualifying ideas: [[Creation]] grounds divine ownership; [[Agency]] makes choices morally consequential; assigned stewardships create real responsibility; common funds are regulated; and provision for the poor is treated as a covenant obligation. The text describes an organized united order, while identifying that entire arrangement with the broader doctrine of consecration requires canonical and historical context beyond this chapter.
+The chapter's contribution to [[Consecration]] includes mutually qualifying ideas: [[Creation]] grounds divine ownership; [[Agency]] makes choices morally consequential; assigned stewardships create real responsibility; common funds are regulated; and provision for the poor is a covenant obligation. Individual management and corporate responsibility are presented together.
 
-The claim that there is "enough and to spare" is followed by reference to agency and condemnation for withholding from the needy. This makes distribution and covenant faithfulness part of the chapter's concern, but it does not claim that every instance of scarcity is caused solely by maldistribution.
+The claim that there is “enough and to spare” is followed by agency and condemnation for withholding from the needy. This sequence makes distribution and covenant faithfulness central to the passage, but it does not assert that every scarcity is caused solely by maldistribution.
 
-The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspondence, borrowing, pledging property, and the obligation to pay. Promised deliverance accompanies responsible action rather than replacing it.
+The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspondence, borrowing, pledging property, and repayment. Promised deliverance accompanies responsible action rather than replacing it. The repeated qualification “this once” cautions against treating the passage as a general endorsement of borrowing.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -114,18 +112,22 @@ The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspon
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The repeated conditional formula “inasmuch as” makes many promises dependent on faithfulness. Repetitions of “mine,” “stewardship,” “account,” “voice,” and “common consent” connect divine ownership with responsibility and regulated use.
+The repeated conditional formula "inasmuch as" makes many promises dependent on faithfulness, humility, diligence, or prayer. Repetitions of "mine," "stewardship," "account," "voice," and "common consent" connect divine ownership with individual responsibility and regulated use.
 
-The phrase “this once” limits the promised deliverance and the special privilege of borrowing and pledging property. It should not be generalized into an unrestricted endorsement of debt financing.
+The chapter uses ownership vocabulary at more than one level: assigned people and households possess functioning stewardships, while the Lord claims ultimate ownership and common treasuries cannot be claimed as exclusively personal.
 
-D&C 104:18 closely echoes Luke 16:23 in its language of lifting one's eyes in hell and torment. The verbal and rich-poor thematic parallel is strong, but it does not prove formal quotation of the whole parable; familiar King James diction remains a viable explanation.
+The pairing of "covetousness" and "feigned words" opens the judgment section in verse 4 and reappears in verse 52 to justify dissolving the Kirtland–Zion order, verbally tying the chapter's two disciplinary moments together. The same phrase resembles 2 Peter 2:3's KJV language about false teachers acting "through covetousness ... with feigned words" — a suggestive but unverified echo of biblical idiom, not a demonstrated quotation.
+
+D&C 104:18 shares a distinctive vocabulary cluster with Luke 16:23 — lifting up one's eyes, hell, and torment — though the two verses order these elements differently, and this chapter's own verified text-overlap check found no matching verses in Luke 16. The connection is best read as an echo of shared King James eschatological diction rather than a demonstrated quotation of the whole parable; readers should hold it as suggestive, not established.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter repeatedly moves from principle to implementation. Verses 11–18 state the broad theology of ownership, stewardship, abundance, and obligation; verses 19–46 apply it to named persons and properties. Verses 55–59 restate ownership and purpose; verses 60–77 translate them into treasury procedures.
+The chapter repeatedly moves from principle to implementation. Verses 11–18 state a theology of ownership, stewardship, abundance, agency, and obligation; verses 19–46 apply it to named persons and properties. Verses 55–59 restate ownership and purpose; verses 60–77 translate them into treasury procedures.
 
-A central tension gives the chapter coherence: resources are entrusted to identifiable people and households, yet common funds cannot be treated as exclusively personal. Individual responsibility and corporate obligation operate together. Repeated phrases such as “multiply blessings,” “mine,” “stewards,” and “not ... his own” reinforce that relationship without requiring a speculative hidden structure.
+A productive tension gives the chapter coherence: resources are entrusted to identifiable individuals and households, yet common funds and sacred proceeds cannot be treated as exclusively personal. Repeated phrases such as “multiply blessings,” “mine,” “stewards,” and “not ... his own” reinforce that relationship without requiring a speculative hidden structure.
+
+Verse 1 calls the order everlasting, while verses 47–53 modify its organizational form. This juxtaposition warns against equating permanence of purpose or covenant with an unchangeable administrative configuration.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -134,9 +136,17 @@ A central tension gives the chapter coherence: resources are entrusted to identi
 > The conjunction of divine ownership, individualized stewardship, accountability, aid to the poor, productive use of property, and commonly controlled treasuries is strong textual evidence that D&C 104 presents consecration as an integrated religious-economic ethic rather than as almsgiving alone.
 > — strength 0.8 · confidence 0.9 · Integrated ethic clear; consecration label interpretive · [[Internal Textual Synthesis in D&C 104|full dossier]]
 
+> [!evidence] Internal Contextual Evidence
+> Named people, particular Kirtland properties, the separation occasioned by the Zion participants' displacement, exact treasury procedures, dollar amounts, and instructions to write to New York provide strong internal evidence that much of the chapter addresses a specific institutional and financial situation.
+> — strength 0.8 · confidence 0.9 · verified, well-hedged
+
 > [!evidence] Verbal And Thematic Intertext
 > The unusually close wording and shared rich-poor judgment theme make biblical intertextuality with Luke 16 highly likely, while leaving the exact mechanism and purpose of the reuse open.
 > — strength 0.8 · confidence 1.0 · Strong intertext; compositional mechanism disputed · [[Verbal And Thematic Intertext in D&C 104|full dossier]]
+
+> [!evidence] Internal Textual Repetition
+> The exact phrase pairing 'covetousness, and ... feigned words' used to describe the covenant-breaking in verse 4 is repeated almost verbatim in verse 52 to justify dissolving the united order, forming a verbal inclusio that ties the opening judgment section to the institutional restructuring later in the chapter.
+> — strength 0.8 · confidence 0.8 · verified textual repetition, properly hedged · [[Internal Textual Repetition in D&C 104|full dossier]]
 
 > [!evidence] Cumulative Textual Evidence
 > Assigned duties, mandatory accounting, pooled receipts, consent-controlled withdrawals, and disciplinary review strongly support interpreting consecration here as an organized covenantal practice, not merely an inward attitude or occasional charitable gift.
@@ -145,34 +155,26 @@ A central tension gives the chapter coherence: resources are entrusted to identi
 > [!evidence] Institutional Design
 > The explicit separation of sacred proceeds from ordinary stewardship income strongly supports a reading in which the order distinguished restricted religious funds from general operating funds.
 > — strength 0.9 · confidence 1.0 · Strong institutional inference · [[Institutional Design in D&C 104|full dossier]]
-
-> [!evidence] Internal Contextual Evidence
-> The accumulation of named participants, particular lots and businesses, local institutional divisions, creditor correspondence, borrowing, and pledged property is strong evidence that the chapter addresses a concrete administrative and financial situation rather than presenting only an abstract economic sermon.
-> — strength 0.9 · confidence 1.0 · Strong internal contextual evidence · [[Internal Contextual Evidence in D&C 104|full dossier]]
-
-> [!evidence] Institutional And Textual Pattern *(tentative)*
-> Repeated requirements for counsel, common consent, recorded stewardship, access rules, and removal of an unfaithful treasurer provide strong textual evidence that the order was intended to have procedural checks rather than rely solely on private discretion.
-> — strength 0.8 · confidence 0.8 · Procedural checks strong; recordkeeping claim unsupported
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Which statements express general moral principles, and which regulate the particular circumstances of the order?
+- Which statements articulate enduring moral principles, and which regulate the order's immediate circumstances?
 
-- How do individualized stewardships and prohibitions against claiming common treasury resources as one's own qualify each other?
+- How do individualized stewardships and restrictions on common treasury funds qualify each other?
 
-- Does “enough and to spare” describe creation's potential, immediate supply, or a moral indictment of withholding and failed distribution?
+- Does “enough and to spare” describe creation's potential, available supply, or a moral indictment of withholding—and what evidence would distinguish those readings?
 
 - What does it mean for the poor to be exalted as the rich are made low: material redistribution, humility, covenant standing, or some combination?
 
-- What safeguards do counsel, common consent, accounting, and removal from office provide, and what authority remains outside those procedures?
+- How do counsel, common consent, accounting, and removal from office function as safeguards? What authority remains outside those procedures?
 
-- Does separating the Kirtland and Zion organizations modify a principle of [[Consecration]], or only a historically specific administrative form?
+- How does the separation of the Kirtland and Zion organizations affect interpretations of an “everlasting order”?
 
-- Why are prayer and promised deliverance accompanied by correspondence, borrowing, and pledging property?
+- Why are prayer and promised deliverance accompanied by correspondence, borrowing, pledging property, and repayment?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare [[D&C 104]] with [[D&C 42]], [[D&C 51]], [[D&C 78]], [[D&C 82]], and [[D&C 105]] to examine continuity and change in stewardship, common resources, covenant accountability, and the treatment of the poor. Luke 16 is especially relevant to D&C 104:18; Luke 12 and Matthew 25 provide broader stewardship motifs. Acts 4 offers a limited early Christian comparison concerning possessions and communal obligation, but similarity does not establish identical institutions.
+Compare [[D&C 104]] with [[D&C 42]], [[D&C 51]], [[D&C 78]], [[D&C 82]], and [[D&C 105]] to examine continuity and change in stewardship, common resources, covenant accountability, and care for the poor. [[Luke 16]] is especially relevant to D&C 104:18; [[Luke 12]] and [[Matthew 25]] offer broader stewardship comparisons. [[Acts 4]] supplies an early Christian parallel concerning possessions and communal obligation, but resemblance does not establish identical institutions.
 <!-- SG:END further-study -->
