@@ -17,19 +17,19 @@ Scripture: [[D&C 101]] · My notes: [[D&C 101 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 101 responds to the suffering and scattering of Zion by naming failures among many—but expressly not all—of the afflicted community. That theological explanation must not be turned into equal individual blame or an excuse for the actions of enemies and unjust rulers. The chapter simultaneously presents chastening, continuing divine compassion, promised restoration, and demands for redress.
+D&C 101 responds to the suffering and scattering of Zion by identifying serious communal failures among many—but expressly not all—of the afflicted. That explanation does not warrant equal individual blame, nor does it excuse persecution, dispossession, or the failure of officials to provide redress. Chastening, continuing divine compassion, promised restoration, and demands for justice remain simultaneously present.
 
-Its response is deliberately multifaceted: repentance and endurance, deliberate gathering, economic cooperation, land purchase, preservation of claims, prayer, and persistent appeals to lawful authorities. The result is a sustained interaction among [[Adversity]], [[Obedience]], [[Justice and Mercy]], and [[Zion]], without reducing the crisis either to passive waiting or to a simple program of force.
+The prescribed response is correspondingly multifaceted: repentance, endurance, deliberate gathering, economic cooperation, land purchase, preservation of claims, prayer, and persistent appeals to lawful authorities. The chapter thus joins [[Adversity]], [[Obedience]], [[Justice and Mercy]], [[Government and Laws]], and [[Zion]] without reducing the crisis either to passive waiting or to a simple authorization of force.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
 1. **Affliction, chastening, and compassion (vv. 1-16):** communal failures are named, but utter rejection is denied and comfort is commanded.
-2. **Zion and the coming renewal (vv. 17-42):** return, stakes, holy places, renewed creation, endurance, covenant responsibility, and unresolved death language.
-3. **The vineyard and unfinished tower (vv. 43-62):** divided and slothful servants leave the vineyard exposed; its lord then commands a forcefully described recovery effort.
-4. **Prepared gathering and land purchase (vv. 63-75):** gathering continues through preparation, fundraising, appointments, and purchase rather than haste or flight.
-5. **Civil redress, agency, and judgment (vv. 76-95):** constitutional purposes and opposition to bondage frame escalating petitions, prayer, and warnings of divine judgment.
-6. **Preserving the appointed claim (vv. 96-101):** the storehouse and claim are not to be surrendered, though dwelling remains associated with kingdom-worthy fruit.
+2. **Zion and the coming renewal (vv. 17-42):** return, stakes, holy places, renewed creation, endurance, covenant usefulness, and humility are presented together.
+3. **The vineyard and unfinished tower (vv. 43-62):** divided and slothful servants leave the vineyard exposed; its lord then commands a forcefully depicted recovery.
+4. **Prepared gathering and land purchase (vv. 63-75):** gathering continues through preparation, fundraising, appointed purchasers, and acquisition rather than haste or flight.
+5. **Civil redress, agency, and judgment (vv. 76-95):** protection of rights and opposition to bondage frame escalating petitions, prayer, and warnings of divine judgment.
+6. **Preserving the appointed claim (vv. 96-101):** the storehouse and property claim are not to be surrendered, while dwelling remains conditioned upon kingdom-worthy fruit and works.
 <!-- SG:END structure -->
 
 ## People
@@ -54,8 +54,10 @@ _Not yet developed._
 - [[D&C 63]] — 1 parallel verse, e.g. [[D&C 101#^dc-101-31|D&C 101:31]] ↔ [[D&C 63#^dc-63-51|D&C 63:51]]
 - [[Luke 18]] — 0 parallel verses
 - [[Matthew 13]] — 0 parallel verses
+- [[Matthew 5]] — 0 parallel verses
 - [[Isaiah 65]] — 0 parallel verses
-- [[D&C 123]] — 0 parallel verses
+- [[Psalm 46]] — 0 parallel verses
+- [[Isaiah 54]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,13 +74,13 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter presents chastening and compassion together. Chastening may contribute to sanctification when endured faithfully, but suffering itself is not portrayed as automatically sanctifying, nor are the afflicted utterly rejected (vv. 3-9).
+The chapter holds chastening and compassion together. Faithfully endured correction can contribute to sanctification, but suffering is not depicted as automatically sanctifying, and the afflicted are not utterly rejected (vv. 3-9). The qualification "many, but not all" also prevents the communal diagnosis from becoming a declaration of equal individual guilt (v. 41).
 
-Its account of [[Zion]] joins place, people, holiness, and conduct. Zion retains an appointed place, expands through stakes, and requires purity, preparation, and obedient stewardship (vv. 17-22, 41-42).
+Its account of [[Zion]] joins place, people, holiness, preparation, and conduct. Zion retains an appointed center, expands through stakes, and requires purity and obedient stewardship (vv. 17-22, 41-42, 67-75). Retaining a claim to the land does not eliminate the concluding requirement to produce appropriate fruit and works (vv. 99-101).
 
-Verses 77-80 connect [[Agency]] with social and legal conditions: laws are to protect the rights of all flesh so people may act in matters pertaining to eternity and remain accountable for their own sins. The passage also rejects human bondage. These stated purposes do not amount to a blanket endorsement of every constitutional provision, official act, or later interpretation.
+Verses 77-80 connect [[Agency]] with legal and social conditions. Laws are to maintain rights so people may act in matters pertaining to eternity and remain accountable for their own sins; human bondage is rejected. These stated purposes do not amount to a blanket endorsement of every constitutional provision, official act, or later political interpretation.
 
-Verses 23-34 associate the [[Second Coming of Jesus Christ]] and [[Millennium]] with renewed creation, the cessation of enmity and temptation, extraordinary longevity, immediate change, and disclosure of hidden knowledge. The relation between "no death" in verse 29 and "when he dies" in verse 31 remains interpretive rather than technically defined.
+Verses 23-34 associate the [[Second Coming of Jesus Christ]] and [[Millennium]] with renewed creation, the cessation of enmity and temptation, extraordinary longevity, immediate transformation, and disclosure of hidden knowledge. The relation between "no death" in verse 29 and "when he dies" in verse 31 remains interpretive rather than technically defined.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -116,11 +118,13 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Biblical language structures much of the chapter. Abraham's test frames chastening; Psalm 46 supplies the summons to stillness; salt imagery defines covenant usefulness; the wheat and tares interpret gathering; and the widow and unjust judge model persistent petition. These correspondences strongly establish biblical framing, but they cannot by themselves decide between revelatory reuse, Joseph Smith's scriptural environment, editorial shaping, or a combination.
+Biblical language structures much of the chapter. Abraham's test frames chastening; [[Psalm 46]] supplies the summons to stillness; the salt saying from [[Matthew 5]] defines covenant usefulness; the wheat and tares from [[Matthew 13]] interpret gathering; and the widow and unjust judge from [[Luke 18]] model persistent petition. [[Isaiah 54]] closely parallels the curtains-and-stakes imagery, [[Isaiah 65]] parallels the combination of long life, building, planting, and enjoying fruit, and [[Isaiah 28]] parallels the language of God's "strange act" and "strange work." These correspondences establish strong biblical framing, but they cannot by themselves decide between revelatory reuse, Joseph Smith's scriptural environment, editorial shaping, or a combination.
 
-The vineyard-and-tower parable portrays preventable loss caused by dispute, delay, sloth, and incomplete obedience. The adapted unjust-judge parable portrays persistent action without fainting. Read together, they support a contrast between negligent delay and disciplined persistence.
+The extended parables create a useful contrast. The vineyard servants debate during peace, leave preparation unfinished, and become vulnerable through delay; the widow persists without fainting in seeking redress. The later command to gather without haste does not praise delay: it requires preparation, fundraising, wise appointments, and land purchase.
 
-Watchtower language also recurs in verse 12 and verses 45-54. This creates a suggestive theme of vigilance, but it does not prove a single compositional design: the first occurrence is glossed as Israel, the second is a defensive tower, and conventional biblical imagery or editorial arrangement remain viable explanations.
+Watchtower language recurs in verse 12 and verses 45-54, suggesting vigilance. The proposal remains modest because the first occurrence is glossed as Israel, the second is a defensive structure, and conventional biblical imagery or editorial arrangement could explain the recurrence.
+
+The vineyard parable may also be compared with [[Isaiah 5]], [[Matthew 21]], and [[Jacob 5]]. Hedge-and-tower imagery is prominent in the first two, while olive trees, a vineyard lord, and servants appear in Jacob 5. These are useful comparisons, but partly conventional motifs do not establish deliberate blending, direct dependence, or a unique antecedent.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -133,6 +137,10 @@ Watchtower language also recurs in verse 12 and verses 45-54. This creates a sug
 > The explicit use of the unjust judge and wheat-and-tares parables, together with recognizable biblical formulations concerning Abraham, salt, stillness before God, and instantaneous change, is strong evidence that the chapter deliberately frames its instructions through biblical language and narratives.
 > — strength 0.9 · confidence 1.0 · Broadly affirmed; larger origin claims expressly excluded · [[Scriptural Intertextuality in D&C 101|full dossier]]
 
+> [!evidence] Literary Intertextuality
+> The concentration of recognizable biblical materials—including Abraham's test, the call to be still, salt imagery, wheat and tares, the unjust judge, and Isaianic renewal language—is strong evidence that biblical language deliberately frames the chapter's response to the Zion crisis.
+> — strength 0.8 · confidence 0.9 · Broad framing strongly supported; parallels vary in precision · [[Literary Intertextuality in D&C 101|full dossier]]
+
 > [!evidence] Thematic Synthesis *(tentative)*
 > The chapter's response to displacement is multifaceted: it calls for repentance and endurance, promises compassion, commands deliberate gathering and land purchase, directs lawful petitions to civil authorities, and requires prayer. This is strong textual evidence against reducing its response either to passive waiting or to immediate force.
 > — strength 0.6 · confidence 0.8 · Multifaceted response affirmed; force conclusion disputed
@@ -140,23 +148,27 @@ Watchtower language also recurs in verse 12 and verses 45-54. This creates a sug
 > [!evidence] Internal Literary Coherence *(tentative)*
 > The recurrence of watchtower imagery links the earlier promise that those on the watchtower will be saved with the parable's explanation that a completed tower would have enabled advance warning. This is moderately strong evidence of deliberate thematic integration within the chapter.
 > — strength 0.5 · confidence 0.8 · Recurrence accepted; deliberate integration disputed
+
+> [!evidence] Literary Parallel Comparison *(tentative)*
+> The nobleman's-vineyard parable (D&C 101:44-58) combines hedge-and-tower imagery paralleled in Isaiah 5:1-7 and the parable of the wicked husbandmen (Matthew 21:33-41) with olive trees and dispatched 'servants' paralleled in Jacob 5's extended allegory; no single known antecedent matches all of its elements together (vineyard, hedge, tower, watchmen, olive trees, armed recovery).
+> — strength 0.3 · confidence 0.4 · Multiple echoes plausible; deliberate blending disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-1. How does the qualification "many, but not all" in verse 41 constrain attempts to explain suffering as punishment for individual sin?
-2. How can readers acknowledge the chapter's criticism of the Saints without using it to excuse violence or injustice committed against them?
-3. How should the forceful recovery imagery of verses 55-58 be related to the later commands concerning preparation, purchase, civil petition, and prayer?
-4. What is the difference between the servants' delayed obedience in the tower parable and the command that gathering occur neither in haste nor by flight?
-5. Which purposes for constitutional government are actually stated in verses 77-80, and which broader claims are later extrapolations?
-6. What explanations remain possible for the tension between "no death" in verse 29 and "when he dies" in verse 31?
-7. Does verse 92 clearly direct mercy toward the threatened officials, or does its pronoun leave room for another reading?
-8. How does the requirement to bring forth suitable fruit qualify the promise of dwelling on the appointed land?
+1. How does "many, but not all" in verse 41 constrain explanations that treat suffering as proof of an individual's guilt?
+2. How can readers acknowledge the chapter's criticism of the Saints without using it to excuse persecution, dispossession, or official injustice?
+3. How should the forceful recovery imagery of verses 55-58 be related to the subsequent commands concerning preparation, purchase, civil petition, and prayer?
+4. What distinguishes the servants' negligent delay in the tower parable from the instruction that gathering occur neither in haste nor by flight?
+5. Which purposes for constitutional government are actually stated in verses 77-80, and which broader political claims are later extrapolations?
+6. What explanations remain possible for the juxtaposition of "no death" in verse 29 and "when he dies" in verse 31?
+7. To whom does "them" refer in the prayer for mercy in verse 92, and how does that ambiguity affect the reading?
+8. Why might the concluding promise of dwelling upon the land remain conditioned upon fruit and works suitable for the kingdom?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the widow's repeated petitions in [[Luke 18]] with the sequence of judge, governor, and president in D&C 101:81-92. Compare the chapter's wheat-and-tares application with [[Matthew 13]], and its salt language with [[Matthew 5]]. Psalm 46:10 supplies a close verbal background for D&C 101:16.
+Compare the widow's petitions in [[Luke 18]] with the expanded sequence of judge, governor, and president in D&C 101:81-92. Compare the wheat-and-tares application with [[Matthew 13]], the salt language with [[Matthew 5]], the summons in D&C 101:16 with [[Psalm 46]], the stakes imagery with [[Isaiah 54]], and the "strange act" language with [[Isaiah 28]].
 
-Isaiah 65:20-23 is a particularly close parallel for the combined images of long life, building, planting, and enjoying one's fruit. [[Jacob 5]] offers a secondary comparison because both texts use a lord, servants, a vineyard, and olive trees, but those shared elements are partly conventional and the two narratives should not be treated as identical. [[D&C 103]] and [[D&C 105]] provide later material concerning Zion's redemption, preparation, and organized action.
+[[Isaiah 65]] is especially useful because it combines extraordinary longevity with building, planting, and enjoyment of one's fruit. Compare the vineyard parable with [[Isaiah 5]], [[Matthew 21]], and [[Jacob 5]], while distinguishing close wording from conventional vineyard motifs and avoiding assumptions of direct dependence. [[D&C 103]] and [[D&C 105]] provide later material concerning Zion's redemption, preparation, timing, and organized action.
 <!-- SG:END further-study -->
