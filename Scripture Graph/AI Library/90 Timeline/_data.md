@@ -3273,6 +3273,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1sam-14-a4a6a426",
+   "t": "Saul's reign and the Michmash campaign against the Philistines",
+   "y0": -1030,
+   "y1": -1010,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional approximate regnal dates for King Saul; the Michmash campaign of 1 Samuel 13-14 is narrated as occurring during his reign, prior to his rejection and David's rise.",
+   "chapters": [
+    "1 Samuel 14"
+   ],
+   "people": [
+    "Saul",
+    "Jonathan"
+   ],
+   "places": [
+    "Michmash",
+    "Gibeah"
+   ],
+   "things": [
+    "Ephod"
+   ]
+  },
+  {
    "id": "r-1sam-8-c1db7302",
    "t": "Israel's Demand for a King (transition from judges to monarchy)",
    "y0": -1050,
@@ -5232,6 +5261,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hag-2-0ee363a8",
+   "t": "Encouragement to rebuild the temple",
+   "y0": -520,
+   "y1": -520,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The oracle is dated to the twenty-first day of the seventh month within Haggai's sequence in the second regnal year of Darius, conventionally corresponding to 520 BCE.",
+   "chapters": [
+    "Haggai 2"
+   ],
+   "people": [
+    "Haggai",
+    "Zerubbabel",
+    "Joshua son of Josedech"
+   ],
+   "places": [
+    "Judah"
+   ],
+   "things": [
+    "Temple of the LORD"
+   ]
+  },
+  {
+   "id": "r-hag-2-a80d667a",
+   "t": "Haggai's temple oracles under Darius I",
+   "y0": -520,
+   "y1": -520,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Internally dated to the 2nd year of Darius I (Hystaspes), whose reign is externally fixed by Persian records to 522-486 BCE.",
+   "chapters": [
+    "Haggai 2"
+   ],
+   "people": [
+    "Zerubbabel",
+    "Joshua (high priest)",
+    "Haggai",
+    "Darius I"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-hel-1-9329c390",
    "t": "Succession crisis and Lamanite invasion of Zarahemla",
    "y0": -52,
@@ -5354,6 +5439,49 @@ timeline module, not this file._
    ],
    "places": [
     "Samaria"
+   ]
+  },
+  {
+   "id": "r-hosea-9-1c3ffa8a",
+   "t": "Baal-peor apostasy recalled in Hosea 9:10",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Numbers 25 places Israel's apostasy with Baal-peor near the end of the wilderness period, traditionally dated to the close of the 40-year wandering before the conquest.",
+   "chapters": [
+    "Hosea 9"
+   ],
+   "people": [
+    "Israel"
+   ],
+   "places": [
+    "Baal-peor"
+   ]
+  },
+  {
+   "id": "r-hosea-9-4574a9cf",
+   "t": "Days of Gibeah atrocity recalled in Hosea 9:9",
+   "y0": -1100,
+   "y1": -1050,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Judges 19-20 situates this civil war in the pre-monarchic judges period, conventionally dated to roughly the 12th-11th centuries BC.",
+   "chapters": [
+    "Hosea 9"
+   ],
+   "places": [
+    "Gibeah"
    ]
   },
   {
@@ -6349,6 +6477,30 @@ timeline module, not this file._
    ],
    "things": [
     "brook Eshcol"
+   ]
+  },
+  {
+   "id": "r-prov-25-0e9ca85f",
+   "t": "Hezekiah's Scribes Compile Solomon's Proverbs",
+   "y0": -715,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 25:1 states that Hezekiah's men copied out this collection; years reflect the traditional dating of Hezekiah's reign over Judah.",
+   "chapters": [
+    "Proverbs 25"
+   ],
+   "people": [
+    "Hezekiah",
+    "Solomon"
+   ],
+   "places": [
+    "Judah"
    ]
   },
   {

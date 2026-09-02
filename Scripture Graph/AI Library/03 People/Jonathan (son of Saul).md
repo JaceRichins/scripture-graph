@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1050 BC–1010 BC** — Reign of Saul and genealogy through Gibeon · [[1 Chronicles 9]] · [[1100-1001 BC]] *(traditional dating)*
+- **1030 BC–1010 BC** — Saul's reign and the Michmash campaign against the Philistines · [[1 Samuel 14]] · [[1100-1001 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

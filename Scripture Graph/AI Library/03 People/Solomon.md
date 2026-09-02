@@ -41,6 +41,7 @@ _Not yet developed._
 - **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
 - **966 BC–959 BC** — Solomon builds the first temple · [[1 Kings 6]] · [[1 Kings 8]] · [[1000-901 BC]] *(approximate)*
 - **966 BC–959 BC** — Construction of Solomon's Temple (foundation to completion) · [[1 Kings 6]] · [[1000-901 BC]] *(traditional dating)*
+- **715 BC–686 BC** — Hezekiah's Scribes Compile Solomon's Proverbs · [[Proverbs 25]] · [[800-701 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
