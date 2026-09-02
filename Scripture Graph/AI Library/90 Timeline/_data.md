@@ -3030,6 +3030,32 @@ timeline module, not this file._
    "note": "the long-promised day"
   },
   {
+   "id": "r-1chr-16-03005ac3",
+   "t": "Ark brought to Jerusalem; Levitical worship organized",
+   "y0": -1003,
+   "y1": -1000,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed early in David's reign (traditionally c. 1010-970 BCE), synchronized with the ark's transfer narrative in 2 Samuel 6.",
+   "chapters": [
+    "1 Chronicles 16"
+   ],
+   "people": [
+    "David",
+    "Asaph",
+    "Zadok"
+   ],
+   "places": [
+    "Jerusalem",
+    "Gibeon"
+   ]
+  },
+  {
    "id": "r-1chr-2-96cc37a8",
    "t": "Caleb's line: Bezaleel to Judahite town-founding",
    "y0": -1446,
@@ -5343,6 +5369,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-28-d46cdb84",
+   "t": "D&C 28 given, addressing Hiram Page revelations",
+   "y0": 1830,
+   "y1": 1830,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated September 1830 in the section heading and Church historical record, given near Fayette, New York, in connection with a conference addressing Hiram Page's claimed stone revelations.",
+   "chapters": [
+    "D&C 28"
+   ],
+   "people": [
+    "Oliver Cowdery",
+    "Joseph Smith Jr",
+    "Hiram Page"
+   ],
+   "things": [
+    "seer stone revelations"
+   ]
+  },
+  {
    "id": "r-dc-29-0742c9ef",
    "t": "D&C 29 received: revelation on gathering, judgment",
    "y0": 1830,
@@ -5505,6 +5557,34 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-60-20d32dda",
+   "t": "Elders' return journey from Zion via St. Louis and Cincinnati",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section dated August 8, 1831, at the land of Zion (Jackson County, Missouri), directing elders who had traveled there for the dedication of Zion to return to Ohio congregations.",
+   "chapters": [
+    "D&C 60"
+   ],
+   "people": [
+    "Sidney Rigdon",
+    "Joseph Smith Jr",
+    "Oliver Cowdery",
+    "Edward Partridge"
+   ],
+   "places": [
+    "St. Louis",
+    "Cincinnati"
+   ]
+  },
+  {
    "id": "r-dc-63-9b03722d",
    "t": "D&C 63 given at Kirtland, Ohio",
    "y0": 1831,
@@ -5630,6 +5710,29 @@ timeline module, not this file._
    ],
    "things": [
     "Presidency of the High Priesthood"
+   ]
+  },
+  {
+   "id": "r-dc-85-95f936fb",
+   "t": "Letter to W. W. Phelps on Zion's records (extract, D&C 85)",
+   "y0": 1832,
+   "y1": 1832,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading dates this extract to a letter of Joseph Smith to William W. Phelps, Kirtland, Ohio, November 27, 1832, addressing record-keeping for the Church in Zion (Jackson County, Missouri); this dating is paratextual (from the heading) rather than drawn from the verse text itself.",
+   "chapters": [
+    "D&C 85"
+   ],
+   "people": [
+    "Ezra (scribe, cited as precedent)"
+   ],
+   "places": [
+    "Zion"
    ]
   },
   {

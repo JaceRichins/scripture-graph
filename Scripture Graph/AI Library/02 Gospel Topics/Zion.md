@@ -97,6 +97,7 @@ _Not yet developed._
 - **587 BC–586 BC** — Fall of Jerusalem and devastation of its sanctuary · [[Lamentations 2]] · [[600-501 BC]] *(approximate)*
 - **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
 - **AD 1831** — D&C 68 given at a conference of elders, Hiram, Ohio · [[D&C 68]] · [[AD 1801-1900]] *(historical)*
+- **AD 1832** — Letter to W. W. Phelps on Zion's records (extract, D&C 85) · [[D&C 85]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — D&C 90 received at Kirtland concerning First Presidency keys · [[D&C 90]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

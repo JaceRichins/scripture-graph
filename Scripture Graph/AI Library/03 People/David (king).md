@@ -52,9 +52,9 @@ _Not yet developed._
 - **1010 BC–1002 BC** — David's reign over Judah in Hebron, before uniting the kingdom · [[2 Samuel 3]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Psalm 4 traditionally ascribed to David · [[Psalm 4]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 69 · [[Psalm 69]] · [[1100-1001 BC]] *(traditional dating)*
+- **1003 BC–1000 BC** — Ark brought to Jerusalem; Levitical worship organized · [[1 Chronicles 16]] · [[1100-1001 BC]] *(traditional dating)*
 - **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
-- **972 BC–970 BC** — Solomon anointed co-regent king at Gihon · [[1 Kings 1]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

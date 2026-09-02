@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **AD 1830** — D&C 35 given to Joseph Smith and Sidney Rigdon · [[D&C 35]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — Elders' return journey from Zion via St. Louis and Cincinnati · [[D&C 60]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — D&C 63 given at Kirtland, Ohio · [[D&C 63]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — D&C 90 received at Kirtland concerning First Presidency keys · [[D&C 90]] · [[AD 1801-1900]] *(historical)*
 
