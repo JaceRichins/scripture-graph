@@ -42,6 +42,7 @@ _Not yet developed._
 - **1010 BC–970 BC** — David reigns; Jerusalem the capital · [[2 Samuel 5]] · [[Psalm 23]] · [[1100-1001 BC]] *(approximate)*
 - **1010 BC–970 BC** — David's reign over all Israel (Hebron and Jerusalem) · [[1 Chronicles 29]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 69 · [[Psalm 69]] · [[1100-1001 BC]] *(traditional dating)*
+- **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
 - **971 BC–970 BC** — Temple-fund offering and Solomon's public coronation · [[1 Chronicles 29]] · [[1000-901 BC]] *(approximate)*
 - **971 BC–931 BC** — Traditional Solomonic authorship of Proverbs 10-22:16 · [[Proverbs 17]] · [[1000-901 BC]] *(traditional dating)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
 - **966 BC–959 BC** — Solomon builds the first temple · [[1 Kings 6]] · [[1 Kings 8]] · [[1000-901 BC]] *(approximate)*
 - **931 BC** — The kingdom divides — Israel and Judah · [[1 Kings 12]] · [[1000-901 BC]] *(historical)*
-- **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -41,13 +41,13 @@ _Not yet developed._
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1406 BC** — Exodus and wilderness rebellions recalled in Psalm 106 · [[Psalm 106]] · [[1500-1401 BC]] *(traditional dating)*
 - **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
+- **740 BC–700 BC** — Isaiah's oracle against Egypt delivered · [[Isaiah 19]] · [[800-701 BC]] *(traditional dating)*
+- **671 BC–663 BC** — Assyrian conquest and sack of Egypt under Esarhaddon and Ashurbanipal · [[Isaiah 19]] · [[700-601 BC]] *(historical)*
 - **609 BC** — Jehoahaz (Shallum) deposed, exiled to Egypt · [[Jeremiah 22]] · [[700-601 BC]] *(historical)*
 - **609 BC–598 BC** — Execution of the prophet Urijah by Jehoiakim · [[Jeremiah 26]] · [[700-601 BC]] *(approximate)*
 - **586 BC–582 BC** — Remnant of Judah forcibly relocates to Egypt · [[Jeremiah 43]] · [[600-501 BC]] *(approximate)*
 - **570 BC–567 BC** — Nebuchadnezzar's campaign against Egypt (Amasis) · [[Jeremiah 43]] · [[600-501 BC]] *(historical)*
 - **570 BC** — Overthrow of Pharaoh Hophra (Apries) by Amasis · [[Jeremiah 44]] · [[600-501 BC]] *(historical)*
-- **332 BC–323 BC** — Alexander conquers the Near East · [[400-301 BC]] *(historical)*
-- **AD 33–AD 36** — Stephen's Speech and Martyrdom in Jerusalem · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

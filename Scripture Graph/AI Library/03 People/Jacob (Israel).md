@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1406 BC** — Baal-peor apostasy recalled in Hosea 9:10 · [[Hosea 9]] · [[1500-1401 BC]] *(traditional dating)*
+- **755 BC–687 BC** — Hosea's ministry across Judean and Israelite reigns · [[Hosea 1]] · [[800-701 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

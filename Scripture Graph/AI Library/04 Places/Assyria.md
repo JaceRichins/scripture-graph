@@ -43,6 +43,8 @@ _Not yet developed._
 - **734 BC–701 BC** — Assyrian crisis oracles in Isaiah 7-10 · [[Isaiah 10]] · [[800-701 BC]] *(approximate)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
 - **722 BC–721 BC** — Assyrian conquest ends the Northern Kingdom's monarchy · [[Hosea 10]] · [[800-701 BC]] *(historical)*
+- **681 BC** — Assassination of Sennacherib at Nineveh · [[Isaiah 37]] · [[700-601 BC]] *(historical)*
+- **671 BC–663 BC** — Assyrian conquest and sack of Egypt under Esarhaddon and Ashurbanipal · [[Isaiah 19]] · [[700-601 BC]] *(historical)*
 - **612 BC** — Fall of Nineveh to Babylonian-Median coalition · [[Zephaniah 2]] · [[700-601 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

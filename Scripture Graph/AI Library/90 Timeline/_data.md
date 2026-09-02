@@ -4062,6 +4062,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2sam-3-dd647308",
+   "t": "David's reign over Judah in Hebron, before uniting the kingdom",
+   "y0": -1010,
+   "y1": -1002,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "2 Samuel 5:5 states David reigned seven years and six months in Hebron over Judah before reigning over all Israel; 2 Samuel 3 falls within this period. Absolute dates follow conventional (not universally agreed) biblical chronology.",
+   "chapters": [
+    "2 Samuel 3"
+   ],
+   "people": [
+    "David",
+    "Abner",
+    "Joab"
+   ],
+   "places": [
+    "Hebron"
+   ]
+  },
+  {
+   "id": "r-2sam-6-d3ef59f0",
+   "t": "David brings the Ark of the Covenant to Jerusalem",
+   "y0": -1000,
+   "y1": -1000,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional United Monarchy chronology places David's reign c. 1010-970 BC; this event follows shortly after his capture of Jerusalem in 2 Samuel 5.",
+   "chapters": [
+    "2 Samuel 6"
+   ],
+   "people": [
+    "David",
+    "Michal",
+    "Uzzah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-3ne-21-d339e4b7",
    "t": "Jesus gives the sign of Israel's future gathering",
    "y0": 34,
@@ -5348,6 +5400,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hosea-1-863a09e5",
+   "t": "Hosea's ministry across Judean and Israelite reigns",
+   "y0": -755,
+   "y1": -687,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Superscription (Hosea 1:1) dates Hosea's word across the reigns of Judah's Uzziah, Jotham, Ahaz, and Hezekiah and Israel's Jeroboam II, per standard regnal chronologies for the divided kingdom.",
+   "chapters": [
+    "Hosea 1"
+   ],
+   "people": [
+    "Hosea",
+    "Jeroboam II",
+    "Hezekiah"
+   ],
+   "places": [
+    "Israel",
+    "Judah"
+   ]
+  },
+  {
    "id": "r-hosea-10-8cf13f8f",
    "t": "Assyrian conquest ends the Northern Kingdom's monarchy",
    "y0": -722,
@@ -5560,6 +5638,101 @@ timeline module, not this file._
    ],
    "places": [
     "Babylon"
+   ]
+  },
+  {
+   "id": "r-isa-19-101e4488",
+   "t": "Isaiah's oracle against Egypt delivered",
+   "y0": -740,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Isaiah's superscription (Isaiah 1:1) places his ministry across the reigns of Uzziah through Hezekiah; chapter 19 is undated internally but grouped among the 8th-century 'burden' oracles against nations in chapters 13-23.",
+   "chapters": [
+    "Isaiah 19"
+   ],
+   "people": [
+    "Isaiah",
+    "Pharaoh"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "r-isa-19-6e3aee65",
+   "t": "Assyrian conquest and sack of Egypt under Esarhaddon and Ashurbanipal",
+   "y0": -671,
+   "y1": -663,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Assyrian royal records document Esarhaddon's 671 BC invasion of Egypt and Ashurbanipal's 663 BC sack of Thebes; some scholars propose these events as a partial, later fulfillment of the 'cruel lord'/'fierce king' judgment of Isaiah 19:4, though this identification is not certain.",
+   "chapters": [
+    "Isaiah 19"
+   ],
+   "places": [
+    "Egypt",
+    "Assyria"
+   ]
+  },
+  {
+   "id": "r-isa-37-3b639de5",
+   "t": "Assassination of Sennacherib at Nineveh",
+   "y0": -681,
+   "y1": -681,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Babylonian Chronicle records Sennacherib's murder by a son during a succession struggle in 681 BCE, with Esarhaddon emerging as successor, broadly corroborating Isaiah 37:37-38.",
+   "chapters": [
+    "Isaiah 37"
+   ],
+   "people": [
+    "Sennacherib"
+   ],
+   "places": [
+    "Assyria"
+   ]
+  },
+  {
+   "id": "r-isa-37-dc462c27",
+   "t": "Sennacherib's campaign against Jerusalem",
+   "y0": -701,
+   "y1": -701,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Sennacherib's own annals (the Taylor/Sennacherib Prism) and the biblical narrative both place his campaign against Judah, including the siege context behind Isaiah 36-37, in his third campaign, conventionally dated 701 BCE.",
+   "chapters": [
+    "Isaiah 37"
+   ],
+   "people": [
+    "Hezekiah",
+    "Isaiah (prophet)"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {
@@ -6617,6 +6790,29 @@ timeline module, not this file._
    ],
    "people": [
     "David"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zech-10-2958e765",
+   "t": "Zechariah's postexilic prophetic ministry",
+   "y0": -520,
+   "y1": -480,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Zechariah is traditionally dated to the early Persian period, contemporary with Haggai and the rebuilding of the second temple under Zerubbabel and Joshua the high priest.",
+   "chapters": [
+    "Zechariah 10"
+   ],
+   "people": [
+    "Zechariah"
    ],
    "places": [
     "Jerusalem"
