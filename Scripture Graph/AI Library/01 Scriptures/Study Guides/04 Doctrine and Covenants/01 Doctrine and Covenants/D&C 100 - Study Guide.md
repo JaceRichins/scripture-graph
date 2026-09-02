@@ -17,7 +17,7 @@ Scripture: [[D&C 100]] · My notes: [[D&C 100 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 100 moves from personal reassurance to public ministry and then to [[Zion]]. Sidney and Joseph are told that their families are well and in divine hands (vv. 1–2), commissioned to preach where an opportunity will open (vv. 3–12), and given a message concerning Zion's temporary chastening, promised redemption, and purification (vv. 13–17). Several promises are joined to commands or conditions, especially solemn and meek speech in verses 7–8 and commandment keeping in verses 14 and 17. The chapter does not state that the opening reassurance answered a previously expressed anxiety, nor does it provide a timetable for Zion's redemption.
+D&C 100 moves from personal reassurance to public ministry and then to [[Zion]]. Sidney and Joseph receive assurance that their families are well and in the Lord's hands (vv. 1–2), a commission to preach in the surrounding regions (vv. 3–12), and a message concerning Zion's temporary chastening, promised redemption, and purification (vv. 13–17). Commands and promises are repeatedly joined: meek and solemn proclamation (v. 7) is tied to the promise of the Holy Ghost's confirming witness (v. 8), and the salvation statements in verses 14 and 17 both include commandment keeping. The chapter does not state that the opening reassurance answered a previously expressed anxiety, does not give a timetable for Zion's redemption, and does not offer a complete theology of inspiration or salvation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,30 +44,28 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 105]] — 3 parallel verses, e.g. [[D&C 100#^dc-100-12|D&C 100:12]] ↔ [[D&C 105#^dc-105-41|D&C 105:41]]
-- [[D&C 108]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
-- [[D&C 124]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
-- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
-- [[D&C 71]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
-- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
-- [[D&C 136]] — 1 parallel verse, e.g. [[D&C 100#^dc-100-1|D&C 100:1]] ↔ [[D&C 136#^dc-136-30|D&C 136:30]]
-- [[D&C 94]] — 1 parallel verse, e.g. [[D&C 100#^dc-100-7|D&C 100:7]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
-- [[D&C 103]] — 1 parallel verse, e.g. [[D&C 100#^dc-100-7|D&C 100:7]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
-- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 100#^dc-100-7|D&C 100:7]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
 - [[D&C 84]] — 1 parallel verse, e.g. [[D&C 100#^dc-100-6|D&C 100:6]] ↔ [[D&C 84#^dc-84-85|D&C 84:85]]
+- [[D&C 61]] — 0 parallel verses
+- [[D&C 71]] — 0 parallel verses
+- [[D&C 88]] — 0 parallel verses
+- [[D&C 108]] — 0 parallel verses
+- [[D&C 105]] — 0 parallel verses
 - [[Romans 8]] — 0 parallel verses
+- [[Matthew 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Scripture Study]]
+- [[Justification and Sanctification]]
 - [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter presents inspiration as both gift and responsibility. The missionaries are promised words at the needed moment, but they must declare their message in the Lord's name, with solemnity and meekness (vv. 5–8). The conditional wording does not establish that every unconditioned statement by a religious speaker is infallible.
+The chapter presents inspired ministry as both gift and responsibility. Words are promised to the missionaries in the moment of need (vv. 5–6), but the confirming witness of the Holy Ghost is explicitly conditioned ("inasmuch as ye do this," v. 8) on declaring that message in the Lord's name, in solemnity of heart, and in the spirit of meekness (v. 7). Because this promise is contextual and tied to specified conduct, it should not be read as a general guarantee that every statement by a religious speaker is infallible.
 
-Verse 15 associates events working for good with the sanctification of the church. In context, this need not mean that upright people avoid suffering: Zion is explicitly chastened. Verses 14 and 17 join salvation with keeping the commandments, and verse 17 also names calling upon the Lord. These brief statements are important but are not a complete account of [[Salvation]] or its relationship to [[Grace]].
+Verse 15 places "good" beside the sanctification of the church. Since Zion is explicitly said to be chastened in verse 13, "good" need not mean freedom from suffering. Verses 14 and 17 both connect being saved to keeping the commandments — an aspect of [[Obedience]] — and verse 17 also names calling upon the Lord. These brief statements contribute to the chapter's teaching about [[Salvation]] but do not by themselves settle how obedience relates to [[Grace]] or the [[Atonement of Jesus Christ]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,7 +93,7 @@ Verse 15 associates events working for good with the sanctification of the churc
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Connectives such as "therefore" and "for" repeatedly supply consequence or rationale, while "inasmuch" marks explicit conditions in verses 8 and 14. The wording also has substantial biblical affinities: supplied speech resembles Matthew 10:19–20, presence "unto the end" resembles Matthew 28:20, and "all things shall work together for good" closely parallels Romans 8:28. These are literary observations. Direct allusion, remembered King James diction, broader Christian idiom, and recording conventions remain possible explanations, and the parallels do not establish divine origin or historical independence.
+Connectives such as "therefore" and "for" repeatedly supply consequence or rationale, while "inasmuch" marks explicit conditions specifically in verses 8 and 14 — not every "therefore" or "for" in the chapter is itself conditional. The wording also has substantial biblical affinities: supplied speech in verses 5–6 resembles [[Matthew 10]] (Matthew 10:19–20); presence "unto the end" in verse 12 echoes [[Matthew 28]] (Matthew 28:20), though "unto the end" alone is common devotional idiom, making this the weakest of the three parallels; and "all things shall work together for good" in verse 15 closely parallels [[Romans 8]] (Romans 8:28). These are literary observations. Direct allusion, remembered King James diction, broader Christian idiom, and recording conventions remain possible explanations, and the parallels do not establish divine origin or historical independence.
 <!-- SG:END language -->
 
 ## Literary Features
@@ -105,6 +103,10 @@ Two modest patterns reward attention. First, verse 1 locates all power in the Lo
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Textual Parallel
+> D&C 100:5-6's promise that speech will be supplied 'in the very hour, yea, in the very moment, what ye shall say' closely echoes Matthew 10:19-20 ('take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak'). The overlap in phrase structure ('shall be given you... in that hour... what ye shall say/speak') is a verifiable textual parallel.
+> — strength 0.6 · confidence 0.9 · accepted observation / disputed interpretation · [[Textual Parallel in D&C 100|full dossier]]
+
 > [!evidence] Textual Intertextuality
 > The wording of D&C 100:15 closely echoes Romans 8:28 in its assertion that all things work together for good. This is strong evidence of biblical intertextuality in the English wording, although the chapter adapts the beneficiaries to those who "walk uprightly" and adds the sanctification of the church.
 > — strength 0.8 · confidence 1.0 · Strong verbal parallel; mechanism disputed · [[Textual Intertextuality in D&C 100|full dossier]]
@@ -116,6 +118,14 @@ Two modest patterns reward attention. First, verse 1 locates all power in the Lo
 > [!evidence] Textual Intertextuality
 > The promise that words will be given at the needed hour closely parallels Jesus's instructions to commissioned disciples in Matthew 10:19–20. This is strong evidence of scriptural intertextuality and places the revelation's missionary charge within a recognizable New Testament pattern.
 > — strength 0.8 · confidence 1.0 · Strong literary parallel; intention disputed
+
+> [!evidence] Biblical Intertextuality
+> D&C 100:15 has a close verbal affinity with Romans 8:28 in its statement that all things work together for good. D&C 100 adapts the surrounding formulation by referring to those who walk uprightly and by adding the sanctification of the church.
+> — strength 0.8 · confidence 1.0 · accepted observation / disputed interpretation · [[Biblical Intertextuality in D&C 100|full dossier]]
+
+> [!evidence] Textual Parallel
+> D&C 100:15's statement that 'all things shall work together for good to them that walk uprightly' closely parallels Romans 8:28 ('all things work together for good to them that love God'), substituting 'walk uprightly' for 'love God.'
+> — strength 0.7 · confidence 0.9 · accepted observation / disputed interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -129,5 +139,9 @@ Two modest patterns reward attention. First, verse 1 locates all power in the Lo
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare D&C 100:5–6 with Matthew 10:19–20, D&C 100:12 with Matthew 28:20, and D&C 100:15 with Romans 8:28. Note both shared wording and alterations, and do not assume that the wider biblical contexts automatically govern D&C 100. Exodus 4:15–16 offers a secondary comparison for the spokesman arrangement, although practical specialization between missionaries is an equally adequate explanation.
+Compare D&C 100:5–6 with [[Matthew 10]] (Matthew 10:19–20), D&C 100:12 with [[Matthew 28]] (Matthew 28:20), and D&C 100:15 with [[Romans 8]] (Romans 8:28). Note both shared wording and alterations, and do not assume the wider biblical contexts automatically govern D&C 100; the Matthew 28 parallel is the weakest of the three, since "unto the end" alone is common idiom. [[Exodus 4]] (Exodus 4:15–16) offers a secondary, non-typological comparison for the spokesman arrangement, since practical specialization between missionaries is an equally adequate explanation.
+
+The verified text-overlap index also links D&C 100 at the verse level to several other Doctrine and Covenants sections, most substantially D&C 105, 108, 124, 61, 71, and 88, with weaker one-verse overlaps to 136, 94, 103, and 104. This shows the phrasing is not unique to this chapter, but the linked sections span very different periods — D&C 124 dates to 1841 and D&C 136 to 1847, well after D&C 100's 1833 setting — so the overlap should not be read as evidence of a single shared compositional period or formula. [[D&C 101]] and [[D&C 103]] are useful topical comparisons for Zion's chastening and promised redemption; D&C 103 also has a direct verse-level overlap, while D&C 101's connection here is thematic only.
+
+Note for future indexing: the automated person index lists "Joseph (of Egypt)" for this chapter. In context, every occurrence of "Joseph" (vv. 1, 9–11) refers to Joseph Smith, the revelation's co-recipient alongside Sidney Rigdon, not the Genesis patriarch. This looks like a name-disambiguation artifact and should not be used to justify linking this chapter to Joseph-of-Egypt content.
 <!-- SG:END further-study -->
