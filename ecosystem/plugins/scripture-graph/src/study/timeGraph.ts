@@ -59,11 +59,11 @@ const HOP_MS = 95;
 const HOP_ALPHA = [1, 1, 0.82, 0.55];
 
 /** the spine: how far one moment steps down from the one before it */
-const STEP_MIN = 46;
-const STEP_SPAN = 150;
+const STEP_MIN = 32;
+const STEP_SPAN = 104;
 const GAP_REF = 2200;
 
-const WORLD_W = 1100;
+const WORLD_W = 1700;
 /** how big a sky one device can hold — the rest is trimmed, and said so */
 const MAX_NODES = 640;
 const MAX_NODES_MOBILE = 380;
@@ -83,6 +83,8 @@ interface GNode extends SimulationNodeDatum {
   year: number | null;
   known: boolean;
   ax: number; ay: number;
+  /** is ax a real lane, or still waiting to be inferred? */
+  axK: boolean;
   a: number;
   hop: number;
   drop: number;
@@ -342,7 +344,7 @@ export class TimeGraph {
         id: `f:${path}`, type: "file", path, label: baseName(path),
         rgb, tint: rgb, size: 8, deg: 0, accent: false,
         year: y, known: y !== null,
-        ax: WORLD_W / 2, ay: this.worldH / 2,
+        ax: WORLD_W / 2, ay: this.worldH / 2, axK: false,
         a: 0, hop: -1, drop: 0, born: seq++ * 2,
         x: WORLD_W / 2 + (Math.random() - 0.5) * 400,
         y: this.worldH / 2 + (Math.random() - 0.5) * 400,
@@ -361,7 +363,8 @@ export class TimeGraph {
         id: `e:${ev.id}`, type: "event", ev, label: ev.t,
         rgb, tint: rgb, size: 10, deg: 0, accent: false,
         year: ev.y0, known: true,
-        ax: laneX, ay: py, a: 0, hop: -1, drop: 0, born: seq++ * 2,
+        ax: laneX, ay: py, axK: true,
+        a: 0, hop: -1, drop: 0, born: seq++ * 2,
         x: laneX + (Math.random() - 0.5) * 60, fy: py, y: py,
       };
       const kept = remembered.get(n.id);
@@ -421,14 +424,38 @@ export class TimeGraph {
       for (const [n, y] of learned) n.year = y;
       if (!learned.length) break;
     }
+    // ---- the LANE spreads along the links too ---------------------------
+    // Only moments know which world they belong to. Everything else finds
+    // its side of the sky the same way it found its year: by averaging the
+    // neighbours that already know. A Genesis study guide drifts into the
+    // Bible lane, Nephi's page into the Book of Mormon lane — inferred,
+    // never assigned. Without this every page anchors dead-centre and the
+    // whole constellation collapses into one vertical smear.
+    for (let pass = 0; pass < 4; pass++) {
+      const learned: [GNode, number][] = [];
+      for (const n of nodes) {
+        if (n.axK) continue;
+        let sx = 0, c = 0;
+        for (const m of this.adj.get(n) ?? []) {
+          if (m.axK) { sx += m.ax; c++; }
+        }
+        if (c) learned.push([n, sx / c]);
+      }
+      for (const [n, x] of learned) { n.ax = x; n.axK = true; }
+      if (!learned.length) break;
+    }
     for (const n of nodes) {
       if (n.type === "event") continue;
       n.ay = n.year !== null ? this.yForYear(n.year) : this.worldH / 2;
-      // undated pages drift toward the mean x of their neighbours
-      let sx = 0, c = 0;
-      for (const m of this.adj.get(n) ?? []) { sx += m.ax; c++; }
-      n.ax = c ? sx / c : WORLD_W / 2;
-      if (n.year !== null && !remembered.has(n.id)) n.y = n.ay;
+      // pages that share a lane must not stack on one line — spread them
+      // across their lane's width by a stable hash of their own id
+      let h = 0;
+      for (let i = 0; i < n.id.length; i++) h = (h * 31 + n.id.charCodeAt(i)) | 0;
+      n.ax += ((h % 1000) / 1000 - 0.5) * 260;
+      if (!remembered.has(n.id)) {
+        n.x = n.ax;
+        if (n.year !== null) n.y = n.ay;
+      }
     }
   }
 
@@ -436,10 +463,10 @@ export class TimeGraph {
     this.sim = forceSimulation<GNode>(this.nodes)
       .force("link", forceLink<GNode, GLink>(this.links).distance(74).strength(0.42))
       .force("charge", forceManyBody<GNode>()
-        .strength(-260).distanceMin(20).distanceMax(430))
+        .strength(-340).distanceMin(20).distanceMax(760))
       .force("collide", forceCollide<GNode>(n => n.size + 7).strength(0.6))
       .force("x", forceX<GNode>(n => n.ax)
-        .strength(n => n.type === "event" ? 0.14 : 0.03))
+        .strength(n => n.type === "event" ? 0.14 : 0.07))
       // moments never leave their year; a page whose year was INFERRED is
       // only nudged toward it — the links get the final say
       .force("y", forceY<GNode>(n => n.ay)

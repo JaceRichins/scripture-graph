@@ -7222,10 +7222,10 @@ var init_timeGraph = __esm({
     RIPPLE_HOPS = 3;
     HOP_MS = 95;
     HOP_ALPHA = [1, 1, 0.82, 0.55];
-    STEP_MIN = 46;
-    STEP_SPAN = 150;
+    STEP_MIN = 32;
+    STEP_SPAN = 104;
     GAP_REF = 2200;
-    WORLD_W = 1100;
+    WORLD_W = 1700;
     MAX_NODES = 640;
     MAX_NODES_MOBILE = 380;
     remembered = /* @__PURE__ */ new Map();
@@ -7417,6 +7417,7 @@ var init_timeGraph = __esm({
             known: y3 !== null,
             ax: WORLD_W / 2,
             ay: this.worldH / 2,
+            axK: false,
             a: 0,
             hop: -1,
             drop: 0,
@@ -7450,6 +7451,7 @@ var init_timeGraph = __esm({
             known: true,
             ax: laneX,
             ay: py,
+            axK: true,
             a: 0,
             hop: -1,
             drop: 0,
@@ -7507,20 +7509,39 @@ var init_timeGraph = __esm({
           for (const [n, y3] of learned) n.year = y3;
           if (!learned.length) break;
         }
+        for (let pass = 0; pass < 4; pass++) {
+          const learned = [];
+          for (const n of nodes) {
+            if (n.axK) continue;
+            let sx = 0, c2 = 0;
+            for (const m2 of this.adj.get(n) ?? []) {
+              if (m2.axK) {
+                sx += m2.ax;
+                c2++;
+              }
+            }
+            if (c2) learned.push([n, sx / c2]);
+          }
+          for (const [n, x3] of learned) {
+            n.ax = x3;
+            n.axK = true;
+          }
+          if (!learned.length) break;
+        }
         for (const n of nodes) {
           if (n.type === "event") continue;
           n.ay = n.year !== null ? this.yForYear(n.year) : this.worldH / 2;
-          let sx = 0, c2 = 0;
-          for (const m2 of this.adj.get(n) ?? []) {
-            sx += m2.ax;
-            c2++;
+          let h = 0;
+          for (let i = 0; i < n.id.length; i++) h = h * 31 + n.id.charCodeAt(i) | 0;
+          n.ax += (h % 1e3 / 1e3 - 0.5) * 260;
+          if (!remembered.has(n.id)) {
+            n.x = n.ax;
+            if (n.year !== null) n.y = n.ay;
           }
-          n.ax = c2 ? sx / c2 : WORLD_W / 2;
-          if (n.year !== null && !remembered.has(n.id)) n.y = n.ay;
         }
       }
       startSim() {
-        this.sim = simulation_default(this.nodes).force("link", link_default(this.links).distance(74).strength(0.42)).force("charge", manyBody_default().strength(-260).distanceMin(20).distanceMax(430)).force("collide", collide_default((n) => n.size + 7).strength(0.6)).force("x", x_default2((n) => n.ax).strength((n) => n.type === "event" ? 0.14 : 0.03)).force("y", y_default2((n) => n.ay).strength((n) => n.type === "event" ? 0 : n.known ? 0.14 : 0.05)).velocityDecay(0.4).alphaDecay(0.0228).alphaMin(1e-3);
+        this.sim = simulation_default(this.nodes).force("link", link_default(this.links).distance(74).strength(0.42)).force("charge", manyBody_default().strength(-340).distanceMin(20).distanceMax(760)).force("collide", collide_default((n) => n.size + 7).strength(0.6)).force("x", x_default2((n) => n.ax).strength((n) => n.type === "event" ? 0.14 : 0.07)).force("y", y_default2((n) => n.ay).strength((n) => n.type === "event" ? 0 : n.known ? 0.14 : 0.05)).velocityDecay(0.4).alphaDecay(0.0228).alphaMin(1e-3);
         this.sim.stop();
         this.simLive = true;
       }
@@ -11261,53 +11282,35 @@ init_src();
 var import_obsidian2 = require("obsidian");
 init_leafNav();
 init_trace();
-var CHRIST_NAMES = `Jesus OR Christ OR Messiah OR Jehovah OR Immanuel OR "Son of God" OR "Lamb of God" OR "Son of Man" OR Redeemer OR Savior`;
+var CHRIST_NAMES = `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`;
 var GRAPH_PRESETS = [
   {
     id: "christ",
     icon: "graph",
     name: "Names of Christ",
-    desc: "Every page that speaks His name \u2014 one color per title",
-    weight: "medium",
+    desc: "Every page that bears His name \u2014 one color per title",
+    weight: "light",
+    // NEVER content words. A content query makes the engine READ every
+    // file in the vault (10k+) before it can draw a single node — that
+    // was minutes on a phone AND on a laptop. `file:` matches names
+    // only: no reads, effectively instant. The 200-odd pages that BEAR a
+    // title of Christ — the entity page, gospel topics, dictionary
+    // entries, conference talks — are the constellation worth seeing.
     search: CHRIST_NAMES,
+    // color groups ride the SAME query pipeline (updateSearch concats
+    // them into setQuery, and requiredInputs merge across ALL queries),
+    // so one content-word group would re-trigger the full-vault read.
     groups: [
-      { query: "Jesus", hex: "#e05252" },
-      { query: "Christ", hex: "#e0b152" },
-      { query: "Messiah", hex: "#b1e052" },
-      { query: "Jehovah", hex: "#52e052" },
-      { query: "Immanuel", hex: "#52e0b1" },
-      { query: "Son of God", hex: "#52b1e0" },
-      { query: "Son of Man", hex: "#5252e0" },
-      { query: "Savior", hex: "#b152e0" }
+      { query: "file:Jesus", hex: "#e05252" },
+      { query: "file:Christ", hex: "#e0b152" },
+      { query: "file:Messiah", hex: "#b1e052" },
+      { query: "file:Jehovah", hex: "#52e052" },
+      { query: "file:Immanuel", hex: "#52e0b1" },
+      { query: `file:"Son of God"`, hex: "#52b1e0" },
+      { query: `file:"Son of Man"`, hex: "#5252e0" },
+      { query: "file:Savior", hex: "#b152e0" }
     ],
-    extra: {
-      nodeSizeMultiplier: 0.8,
-      scale: 0.14,
-      repelStrength: 16,
-      textFadeMultiplier: -1
-    },
-    mobile: {
-      // content-word queries make the engine READ all 10k files — the
-      // iPhone log showed the scan still grinding at the 30s cap, twice.
-      // file: matches names only (no reads, instant): the 204 pages that
-      // BEAR a title of Christ — entity, topics, dictionary, talks.
-      search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
-      // color groups ride the SAME query pipeline (updateSearch concats
-      // them into setQuery, and requiredInputs merge across ALL queries)
-      // — one content-word group re-triggers the full-vault read. The
-      // v0.53 log: why=ceiling n=0 at 120s. These are file:-only too.
-      groups: [
-        { query: "file:Jesus", hex: "#e05252" },
-        { query: "file:Christ", hex: "#e0b152" },
-        { query: "file:Messiah", hex: "#b1e052" },
-        { query: "file:Jehovah", hex: "#52e052" },
-        { query: "file:Immanuel", hex: "#52e0b1" },
-        { query: `file:"Son of God"`, hex: "#52b1e0" },
-        { query: `file:"Son of Man"`, hex: "#5252e0" },
-        { query: "file:Savior", hex: "#b152e0" }
-      ],
-      note: "The pages that bear His name \u2014 instant on a phone"
-    }
+    extra: { scale: 0.22 }
   },
   {
     id: "people",
@@ -11395,6 +11398,10 @@ var GRAPH_PRESETS = [
   }
 ];
 var hexToInt = (hex) => parseInt(hex.replace("#", ""), 16);
+function assertScanFree(p, q) {
+  const bare2 = q.trim().length > 0 && !/(path|file|tag|line|section|block|content)\s*:/i.test(q);
+  if (bare2) trace("gpreset.SLOW-QUERY", { id: p.id, q: q.slice(0, 60) });
+}
 var MOBILE_FLOOR = {
   textFadeMultiplier: -1.6,
   lineSizeMultiplier: 0.45,
@@ -11405,9 +11412,12 @@ var MOBILE_FLOOR = {
 function optionsFor(p) {
   const mobile = import_obsidian2.Platform.isMobile;
   const groups = mobile && p.mobile?.groups || p.groups;
+  const search = mobile && p.mobile?.search || p.search;
+  assertScanFree(p, search);
+  for (const g of groups) assertScanFree(p, g.query);
   return {
     "collapse-filter": true,
-    search: mobile && p.mobile?.search || p.search,
+    search,
     showTags: false,
     showAttachments: false,
     hideUnresolved: true,

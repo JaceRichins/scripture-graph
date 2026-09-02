@@ -3080,6 +3080,49 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1chr-9-13557ffc",
+   "t": "Babylonian exile and postexilic return to Jerusalem",
+   "y0": -586,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Verse 1 names the Babylonian captivity 'for their transgression'; verses 2-34 describe the subsequent resettlement of Jerusalem by returning Israelites, priests, Levites, and Nethinims.",
+   "chapters": [
+    "1 Chronicles 9"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-1chr-9-b74d8d79",
+   "t": "Reign of Saul and genealogy through Gibeon",
+   "y0": -1050,
+   "y1": -1010,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The repeated Saul genealogy (9:35-44, paralleling 8:29-38) sets up the narrative of Saul's reign and death beginning in 1 Chronicles 10.",
+   "chapters": [
+    "1 Chronicles 9"
+   ],
+   "people": [
+    "Saul (king)",
+    "Jonathan (son of Saul)"
+   ]
+  },
+  {
    "id": "r-1kgs-11-f3b8f1cf",
    "t": "Solomon's forty-year reign and death",
    "y0": -970,

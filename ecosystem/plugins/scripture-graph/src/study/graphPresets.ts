@@ -34,49 +34,38 @@ export interface GraphPreset {
     extra?: Record<string, unknown>; note?: string };
 }
 
+/** the titles of Christ, matched against FILENAMES. `file:` never reads a
+ * file's contents, so this resolves in milliseconds where the equivalent
+ * content search walks all 10,000+ pages and stalls for minutes. */
 const CHRIST_NAMES =
-  `Jesus OR Christ OR Messiah OR Jehovah OR Immanuel OR "Son of God" OR "Lamb of God" OR "Son of Man" OR Redeemer OR Savior`;
+  `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`;
 
 export const GRAPH_PRESETS: GraphPreset[] = [
   {
     id: "christ", icon: "graph", name: "Names of Christ",
-    desc: "Every page that speaks His name — one color per title",
-    weight: "medium",
+    desc: "Every page that bears His name — one color per title",
+    weight: "light",
+    // NEVER content words. A content query makes the engine READ every
+    // file in the vault (10k+) before it can draw a single node — that
+    // was minutes on a phone AND on a laptop. `file:` matches names
+    // only: no reads, effectively instant. The 200-odd pages that BEAR a
+    // title of Christ — the entity page, gospel topics, dictionary
+    // entries, conference talks — are the constellation worth seeing.
     search: CHRIST_NAMES,
+    // color groups ride the SAME query pipeline (updateSearch concats
+    // them into setQuery, and requiredInputs merge across ALL queries),
+    // so one content-word group would re-trigger the full-vault read.
     groups: [
-      { query: "Jesus", hex: "#e05252" },
-      { query: "Christ", hex: "#e0b152" },
-      { query: "Messiah", hex: "#b1e052" },
-      { query: "Jehovah", hex: "#52e052" },
-      { query: "Immanuel", hex: "#52e0b1" },
-      { query: "Son of God", hex: "#52b1e0" },
-      { query: "Son of Man", hex: "#5252e0" },
-      { query: "Savior", hex: "#b152e0" },
+      { query: "file:Jesus", hex: "#e05252" },
+      { query: "file:Christ", hex: "#e0b152" },
+      { query: "file:Messiah", hex: "#b1e052" },
+      { query: "file:Jehovah", hex: "#52e052" },
+      { query: "file:Immanuel", hex: "#52e0b1" },
+      { query: `file:"Son of God"`, hex: "#52b1e0" },
+      { query: `file:"Son of Man"`, hex: "#5252e0" },
+      { query: "file:Savior", hex: "#b152e0" },
     ],
-    extra: { nodeSizeMultiplier: 0.8, scale: 0.14, repelStrength: 16,
-      textFadeMultiplier: -1 },
-    mobile: {
-      // content-word queries make the engine READ all 10k files — the
-      // iPhone log showed the scan still grinding at the 30s cap, twice.
-      // file: matches names only (no reads, instant): the 204 pages that
-      // BEAR a title of Christ — entity, topics, dictionary, talks.
-      search: `file:Jesus OR file:Christ OR file:Messiah OR file:Jehovah OR file:Immanuel OR file:"Son of God" OR file:"Lamb of God" OR file:"Son of Man" OR file:Redeemer OR file:Savior`,
-      // color groups ride the SAME query pipeline (updateSearch concats
-      // them into setQuery, and requiredInputs merge across ALL queries)
-      // — one content-word group re-triggers the full-vault read. The
-      // v0.53 log: why=ceiling n=0 at 120s. These are file:-only too.
-      groups: [
-        { query: "file:Jesus", hex: "#e05252" },
-        { query: "file:Christ", hex: "#e0b152" },
-        { query: "file:Messiah", hex: "#b1e052" },
-        { query: "file:Jehovah", hex: "#52e052" },
-        { query: "file:Immanuel", hex: "#52e0b1" },
-        { query: `file:"Son of God"`, hex: "#52b1e0" },
-        { query: `file:"Son of Man"`, hex: "#5252e0" },
-        { query: "file:Savior", hex: "#b152e0" },
-      ],
-      note: "The pages that bear His name — instant on a phone",
-    },
+    extra: { scale: 0.22 },
   },
   {
     id: "people", icon: "person", name: "People",
@@ -147,6 +136,17 @@ export const GRAPH_PRESETS: GraphPreset[] = [
 
 const hexToInt = (hex: string): number => parseInt(hex.replace("#", ""), 16);
 
+/** THE RAIL: a query with no `path:`/`file:`/`tag:` prefix is a CONTENT
+ * search, and a content search makes Obsidian read every file in the
+ * vault before it can draw anything — minutes on a phone, minutes on a
+ * laptop. Every preset query must be scan-free; this shouts in the debug
+ * log the moment one is not, so the mistake can never ship quietly. */
+function assertScanFree(p: GraphPreset, q: string): void {
+  const bare = q.trim().length > 0
+    && !/(path|file|tag|line|section|block|content)\s*:/i.test(q);
+  if (bare) trace("gpreset.SLOW-QUERY", { id: p.id, q: q.slice(0, 60) });
+}
+
 /** label textures are the mobile-GPU killer — on phones they only appear
  * when zoomed way in, and lines slim down. The forces tighten too:
  * shorter springs, stronger center, gentler repel — the web pulls
@@ -164,9 +164,12 @@ const MOBILE_FLOOR: Record<string, unknown> = {
 function optionsFor(p: GraphPreset): Record<string, unknown> {
   const mobile = Platform.isMobile;
   const groups = (mobile && p.mobile?.groups) || p.groups;
+  const search = (mobile && p.mobile?.search) || p.search;
+  assertScanFree(p, search);
+  for (const g of groups) assertScanFree(p, g.query);
   return {
     "collapse-filter": true,
-    search: (mobile && p.mobile?.search) || p.search,
+    search,
     showTags: false,
     showAttachments: false,
     hideUnresolved: true,
