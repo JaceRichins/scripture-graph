@@ -17,13 +17,17 @@ Scripture: [[Alma 42]] · My notes: [[Alma 42 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Mortality is a probationary time to enable man to repent and serve God—The Fall brought temporal and spiritual death upon all mankind—Redemption comes through repentance—God Himself atones for the sins of the world—Mercy is for those who repent—All others are subject to God’s justice—Mercy comes because of the Atonement—Only the truly penitent are saved. About 74 B.C.
+Alma 42 answers the charge that punishment makes God unjust. Its answer begins with the [[Fall of Adam and Eve]]: exclusion from the [[Tree of Life]] preserves mortality as a time for repentance rather than fixing humanity forever in a fallen state. The argument then moves through law, punishment, the [[Atonement of Jesus Christ]], [[Resurrection]], and [[Final Judgment]]. Mercy neither ignores nor defeats justice; because of the atonement, it can claim the penitent while justice retains its demands. The closing verses turn this framework back upon the troubled son, calling him away from self-excuse and toward [[Humility]], [[Repentance]], and [[Missionary Work]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **The concern (v. 1):** Is punishment of the sinner unjust?
+2. **Eden and probation (vv. 2–10):** Barred access to the tree of life creates time to repent and prepare.
+3. **The redemptive necessity (vv. 11–15):** Fallen humanity is under justice; mercy requires an atonement.
+4. **Law, punishment, and competing claims (vv. 16–25):** Law makes sin and accountability intelligible; mercy claims the penitent without robbing justice.
+5. **Invitation and restoration (vv. 26–28):** People may come freely, but choices and unrepented desires have corresponding consequences.
+6. **Personal application (vv. 29–31):** The son is told to abandon excuses, repent humbly, and preach repentance to others.
 <!-- SG:END structure -->
 
 ## People
@@ -44,11 +48,8 @@ _Not yet developed._
 - [[Genesis 3]] — 3 footnote cross-references (from [[Alma 42#^alma-42-2|Alma 42:2]])
 - [[Helaman 14]] — 3 footnote cross-references (from [[Alma 42#^alma-42-7|Alma 42:7]])
 - [[Alma 41]] — 3 footnote cross-references (from [[Alma 42#^alma-42-27|Alma 42:27]])
-- [[Genesis 3]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Genesis 3#^gen-3-24|Genesis 3:24]]
-- [[Moses 4]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
 - [[Alma 12]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-5|Alma 42:5]] ↔ [[Alma 12#^alma-12-26|Alma 12:26]]
 - [[Alma 9]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
-- [[Helaman 14]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-11|Alma 42:11]] ↔ [[Helaman 14#^hel-14-16|Helaman 14:16]]
 - [[2 Nephi 5]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
 - [[Ether 2]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]]
@@ -56,23 +57,28 @@ _Not yet developed._
 - [[Ether 10]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Ether 10#^ether-10-11|Ether 10:11]]
 - [[Moroni 8]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-29|Alma 42:29]] ↔ [[Moroni 8#^moro-8-6|Moroni 8:6]]
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
+- [[2 Nephi 2]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19]]
+- [[Alma 40]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-23|Alma 42:23]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]
+- [[Helaman 12]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Justice and Mercy]]
 - [[Plan of Salvation]]
+- [[Final Judgment]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Fall of Adam and Eve]] *(keyword match — unconfirmed)*
 - [[Tree of Life]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter binds several parts of the [[Plan of Salvation]] into one argument. The Fall produces mortality and separation from God; mortality becomes a preparatory interval; law creates genuine accountability; the atonement opens the operation of mercy; resurrection restores humanity to God's presence; and judgment discloses the moral consequences of works and desires.
+
+Its account of [[Justice and Mercy]] is complementary rather than competitive. Justice is not suspended, and repentance is not portrayed as paying the debt by itself. Mercy comes because of the atonement and claims those who repent. This reading preserves the chapter's repeated insistence that God is both perfectly just and merciful.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -105,27 +111,33 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Alma repeatedly reasons through conditional questions: How can repentance exist without sin, sin without law, or law without punishment? The accumulation of questions and “if” clauses tests contemplated alternatives. The warning that God would “cease to be God” appears three times (vv. 13, 22, 25), marking outcomes in which justice would be destroyed or robbed. The refrain functions as a governing theological premise as well as a rhetorical closure; the chapter reasons toward it but does not derive from more basic premises why compromised justice would entail the cessation of deity.
+
+The chapter also personifies justice and mercy. Justice executes the law and exercises “his demands,” while mercy claims “her own” (vv. 22–24). This is an observable feature of the English text and makes the competing claims vivid, but it provides no evidence about grammatical gender in an underlying language, ancient provenance, or a particular atonement theory.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter moves from cosmic history to personal responsibility. Eden, death, resurrection, and judgment are directed toward the son's attempt to excuse his sins; the final commission then widens the application as he is charged to preach repentance truthfully and soberly.
+
+Several comparisons illuminate the discourse. [[Genesis 3]] shares the acquired-knowledge and guarded-tree narrative; [[Alma 12]] offers a closely related Eden-and-probation exposition; [[2 Nephi 9]] and [[Helaman 14]] develop the paired consequences of bodily death and separation from God; and [[Alma 41]] supplies immediate context for restoration according to deeds and desires. [[Revelation 22]] closely resembles Alma 42:27 in inviting whoever wills to take the water of life freely, although Alma has “waters” in the plural. These English parallels justify comparative study but do not by themselves establish direction of dependence, wording in an underlying source, date, or historical authenticity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Theological/Linguistic Textual Feature *(tentative)*
+> The phrase 'God himself atoneth for the sins of the world' (Alma 42:15) uses undifferentiated language for the atoning being, naming the atoning agent simply as 'God' rather than distinguishing a separate divine Son — a data point relevant to (but not dispositive of) discussions of how the Book of Mormon's Christology at this point in the narrative relates to later, more differentiated Father/Son/Godhead formulations.
+> — strength 0.2 · confidence 0.8 · observation accepted; Christological significance disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How does the chapter distinguish a punishment that merely causes fear from the “remorse of conscience” associated with moral law? Does “eternal” in verse 16 describe the duration of every individual's punishment, the permanence of the law and its consequence, or both? What does the movement from “trouble” in verse 1 to repentance-producing trouble in verse 29 suggest about guilt, humility, and self-excuse? How does the voluntary invitation of verse 27 qualify interpretations of the chapter that focus only on legal compulsion?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Alma 12]] alongside Alma 42 to compare their use of Eden, commandments, probation, and redemption. Compare [[2 Nephi 9]] and [[Helaman 14]] on temporal and spiritual death, then read [[Alma 41]] immediately before this chapter to clarify restoration and the role of deeds and desires. Compare Alma 42:2–3 with [[Genesis 3]] and Alma 42:27 with [[Revelation 22]], noting that strong English parallels do not by themselves reveal direction of dependence, underlying source wording, date, or authorship.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
