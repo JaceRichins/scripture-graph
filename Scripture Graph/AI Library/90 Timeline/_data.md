@@ -5312,6 +5312,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezra-8-abcbcd4f",
+   "t": "Ezra's caravan departs Babylon for Jerusalem",
+   "y0": -458,
+   "y1": -398,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezra 8:1 dates events to 'the reign of Artaxerxes the king' without a regnal year in this chapter; scholars dispute whether this is Artaxerxes I (c. 458 BCE) or Artaxerxes II (c. 398 BCE), so the range spans both proposals.",
+   "chapters": [
+    "Ezra 8"
+   ],
+   "people": [
+    "Ezra",
+    "Artaxerxes"
+   ],
+   "places": [
+    "Babylon",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-gen-19-ff9e17be",
    "t": "Destruction of Sodom and Gomorrah (patriarchal era)",
    "y0": -2000,
