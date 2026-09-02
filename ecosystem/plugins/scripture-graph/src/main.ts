@@ -236,6 +236,10 @@ export default class SGPlugin extends Plugin {
       },
     });
     this.addCommand({
+      id: "finish-update", name: "Finish updating (after sync)", icon: "download",
+      callback: () => void this.checkSyncedUpdate(false),
+    });
+    this.addCommand({
       id: "sync-now", name: "Sync now", icon: "refresh-cw",
       callback: async () => { await this.ann.syncNow(); new Notice("Synced"); },
     });
@@ -395,6 +399,12 @@ export default class SGPlugin extends Plugin {
           await this.state.store.put("update_checked_at", Date.now());
           void this.checkForUpdate(true);
         }
+        // Sync can land a build any time, from anywhere — notice it on
+        // open, every few minutes, and whenever the app comes back up
+        void this.checkSyncedUpdate();
+        this.registerInterval(window.setInterval(
+          () => void this.checkSyncedUpdate(), 5 * 60_000));
+        this.registerDomEvent(window, "focus", () => void this.checkSyncedUpdate());
       })();
     });
   }
@@ -446,6 +456,42 @@ export default class SGPlugin extends Plugin {
       }, 900);
     } catch (e) {
       if (!silent) new Notice(`Update check failed: ${(e as Error).message}`);
+    }
+  }
+
+  /** 🔄 The away-from-home path.
+   *
+   * The family server only exists on the home Wi-Fi, so `checkForUpdate`
+   * is useless in a car or a chapel. Obsidian Sync, though, reaches
+   * everywhere — it drops a fresh main.js straight into the plugin
+   * folder. The catch: Obsidian loaded the OLD code at startup and keeps
+   * running it, silently, until the app reloads. So watch the manifest on
+   * disk: when it names a version newer than the one running, say so and
+   * offer the reload in one tap. Nothing to install, no laptop needed. */
+  private syncedOffered: string | null = null;
+
+  async checkSyncedUpdate(silent = true): Promise<void> {
+    try {
+      const path = `${this.app.vault.configDir}/plugins/${this.manifest.id}/manifest.json`;
+      const raw = await this.app.vault.adapter.read(path);
+      const disk = (JSON.parse(raw.replace(/^﻿/, "")) as { version?: string }).version ?? "";
+      if (!newerVersion(disk, this.manifest.version)) {
+        if (!silent) new Notice(`Up to date — v${this.manifest.version}`);
+        return;
+      }
+      if (this.syncedOffered === disk) return;   // already asked, once is enough
+      this.syncedOffered = disk;
+      // a reload mid-verse is rude: offer it, never force it
+      const n = new Notice(`Scripture Graph v${disk} arrived by sync — tap to finish updating`, 0);
+      n.noticeEl.addClass("sg-update-notice");
+      n.noticeEl.addEventListener("click", () => {
+        n.hide();
+        (this.app as unknown as {
+          commands?: { executeCommandById?: (id: string) => void };
+        }).commands?.executeCommandById?.("app:reload");
+      });
+    } catch {
+      if (!silent) new Notice("Couldn't read the plugin folder to check for an update");
     }
   }
 

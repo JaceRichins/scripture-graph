@@ -2172,3 +2172,11 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
   color: var(--sg-mut, #9aa3bd); font-size: 0.85em; cursor: pointer;
 }
 .sg-tg-chip-x:hover { color: var(--sg-ink, #e7ebfa); background: rgba(255, 255, 255, 0.08); }
+
+/* the synced-update notice: a tap target, not a toast to squint at */
+.sg-update-notice {
+  cursor: pointer;
+  border: 1px solid color-mix(in srgb, var(--interactive-accent) 55%, transparent);
+  background: color-mix(in srgb, var(--interactive-accent) 16%, var(--background-secondary));
+  font-weight: 600;
+}

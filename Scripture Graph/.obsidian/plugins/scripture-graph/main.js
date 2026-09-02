@@ -15310,6 +15310,12 @@ var SGPlugin = class extends import_obsidian22.Plugin {
       }
     });
     this.addCommand({
+      id: "finish-update",
+      name: "Finish updating (after sync)",
+      icon: "download",
+      callback: () => void this.checkSyncedUpdate(false)
+    });
+    this.addCommand({
       id: "sync-now",
       name: "Sync now",
       icon: "refresh-cw",
@@ -15445,6 +15451,12 @@ var SGPlugin = class extends import_obsidian22.Plugin {
           await this.state.store.put("update_checked_at", Date.now());
           void this.checkForUpdate(true);
         }
+        void this.checkSyncedUpdate();
+        this.registerInterval(window.setInterval(
+          () => void this.checkSyncedUpdate(),
+          5 * 6e4
+        ));
+        this.registerDomEvent(window, "focus", () => void this.checkSyncedUpdate());
       })();
     });
   }
@@ -15491,6 +15503,37 @@ var SGPlugin = class extends import_obsidian22.Plugin {
       }, 900);
     } catch (e) {
       if (!silent) new import_obsidian22.Notice(`Update check failed: ${e.message}`);
+    }
+  }
+  /** 🔄 The away-from-home path.
+   *
+   * The family server only exists on the home Wi-Fi, so `checkForUpdate`
+   * is useless in a car or a chapel. Obsidian Sync, though, reaches
+   * everywhere — it drops a fresh main.js straight into the plugin
+   * folder. The catch: Obsidian loaded the OLD code at startup and keeps
+   * running it, silently, until the app reloads. So watch the manifest on
+   * disk: when it names a version newer than the one running, say so and
+   * offer the reload in one tap. Nothing to install, no laptop needed. */
+  syncedOffered = null;
+  async checkSyncedUpdate(silent = true) {
+    try {
+      const path = `${this.app.vault.configDir}/plugins/${this.manifest.id}/manifest.json`;
+      const raw = await this.app.vault.adapter.read(path);
+      const disk = JSON.parse(raw.replace(/^﻿/, "")).version ?? "";
+      if (!newerVersion(disk, this.manifest.version)) {
+        if (!silent) new import_obsidian22.Notice(`Up to date \u2014 v${this.manifest.version}`);
+        return;
+      }
+      if (this.syncedOffered === disk) return;
+      this.syncedOffered = disk;
+      const n = new import_obsidian22.Notice(`Scripture Graph v${disk} arrived by sync \u2014 tap to finish updating`, 0);
+      n.noticeEl.addClass("sg-update-notice");
+      n.noticeEl.addEventListener("click", () => {
+        n.hide();
+        this.app.commands?.executeCommandById?.("app:reload");
+      });
+    } catch {
+      if (!silent) new import_obsidian22.Notice("Couldn't read the plugin folder to check for an update");
     }
   }
   onunload() {
