@@ -54,11 +54,11 @@ _Not yet developed._
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
+- **AD 1830** — D&C 29 received: revelation on gathering, judgment · [[D&C 29]] · [[AD 1801-1900]] *(historical)*
+- **AD 1830** — D&C 35 given to Joseph Smith and Sidney Rigdon · [[D&C 35]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — Revelation on gathering to Kirtland, Ohio (D&C 38) · [[D&C 38]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — Revelation to James Covel given at Fayette, New York · [[D&C 39]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
-- **AD 1832–AD 1833** — D&C 88 ('Olive Leaf') received at Kirtland, Ohio · [[D&C 88]] · [[AD 1801-1900]] *(historical)*
-- **AD 1833** — D&C 98 given at Kirtland amid Missouri persecutions · [[D&C 98]] · [[AD 1801-1900]] *(historical)*
-- **AD 1834** — Fishing River Revelation defers Zion's redemption · [[D&C 105]] · [[AD 1801-1900]] *(historical)*
-- **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

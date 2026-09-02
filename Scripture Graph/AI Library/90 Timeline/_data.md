@@ -5320,6 +5320,113 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-29-0742c9ef",
+   "t": "D&C 29 received: revelation on gathering, judgment",
+   "y0": 1830,
+   "y1": 1830,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "visions"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Received through Joseph Smith at Fayette, New York, in September 1830, in the presence of six elders of the Church, per the section heading.",
+   "chapters": [
+    "D&C 29"
+   ],
+   "people": [
+    "Joseph Smith"
+   ],
+   "places": [
+    "Fayette, New York"
+   ]
+  },
+  {
+   "id": "r-dc-35-04622268",
+   "t": "D&C 35 given to Joseph Smith and Sidney Rigdon",
+   "y0": 1830,
+   "y1": 1830,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Church history places this revelation in December 1830 in New York, shortly after Sidney Rigdon and Edward Partridge arrived from Ohio to meet Joseph Smith.",
+   "chapters": [
+    "D&C 35"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Sidney Rigdon"
+   ],
+   "places": [
+    "New York"
+   ]
+  },
+  {
+   "id": "r-dc-38-b1150ebf",
+   "t": "Revelation on gathering to Kirtland, Ohio (D&C 38)",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated to the church conference at Fayette, New York, 2 January 1831, per the section's historical heading; commands the move to Ohio realized within weeks.",
+   "chapters": [
+    "D&C 38"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Fayette, New York",
+    "Ohio"
+   ],
+   "things": [
+    "Kirtland gathering"
+   ]
+  },
+  {
+   "id": "r-dc-39-7e3478fc",
+   "t": "Revelation to James Covel given at Fayette, New York",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading and historical record date this revelation to January 5, 1831, shortly before the Church's move to Kirtland, Ohio.",
+   "chapters": [
+    "D&C 39"
+   ],
+   "people": [
+    "Jesus Christ",
+    "James Covel",
+    "Joseph Smith"
+   ],
+   "places": [
+    "Fayette, New York",
+    "Ohio"
+   ],
+   "things": [
+    "Call to gather to Ohio"
+   ]
+  },
+  {
    "id": "r-dc-52-622abfbd",
    "t": "June 1831 conference and dispatch of elders to Missouri",
    "y0": 1831,
