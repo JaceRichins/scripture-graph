@@ -3181,6 +3181,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1sam-8-c1db7302",
+   "t": "Israel's Demand for a King (transition from judges to monarchy)",
+   "y0": -1050,
+   "y1": -1030,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronology places Samuel's late judgeship and the elders' request for a king shortly before Saul's anointing, in the decades before Israel's first monarchy begins.",
+   "chapters": [
+    "1 Samuel 8"
+   ],
+   "people": [
+    "Samuel"
+   ],
+   "places": [
+    "Ramah",
+    "Beer-sheba"
+   ]
+  },
+  {
    "id": "r-2chr-12-114d4356",
    "t": "Shishak (Shoshenq I) invades Judah",
    "y0": -926,
@@ -5886,6 +5911,31 @@ timeline module, not this file._
    ],
    "things": [
     "Temple of Solomon"
+   ]
+  },
+  {
+   "id": "r-moro-10-3315e021",
+   "t": "Moroni seals his record and gives his final exhortation",
+   "y0": 421,
+   "y1": 421,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Moroni says that more than 420 years have passed since the sign of Christ's coming; the official chapter heading dates the setting to about A.D. 421.",
+   "chapters": [
+    "Moroni 10"
+   ],
+   "people": [
+    "Moroni",
+    "Jesus Christ"
+   ],
+   "things": [
+    "sealed records"
    ]
   },
   {

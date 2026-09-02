@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1090 BC** — Samuel called as a child · [[1 Samuel 3]] · [[1100-1001 BC]] *(approximate)*
+- **1050 BC–1030 BC** — Israel's Demand for a King (transition from judges to monarchy) · [[1 Samuel 8]] · [[1100-1001 BC]] *(traditional dating)*
 - **1050 BC** — Saul anointed — Israel takes a king · [[1 Samuel 8]] · [[1 Samuel 10]] · [[1100-1001 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
