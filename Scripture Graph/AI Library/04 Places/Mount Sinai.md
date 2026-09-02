@@ -43,6 +43,7 @@ _Not yet developed._
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — The law given at Sinai · [[Exodus 19]] · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
+- **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **850 BC–800 BC** — Elisha's ministry of miracles · [[2 Kings 2]] · [[2 Kings 5]] · [[2 Kings 6]] · [[900-801 BC]] *(approximate)*
+- **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

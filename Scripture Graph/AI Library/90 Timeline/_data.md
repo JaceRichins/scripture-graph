@@ -3572,6 +3572,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-19-524a3e42",
+   "t": "Elijah's flight, theophany at Horeb, and call of Elisha",
+   "y0": -850,
+   "y1": -849,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed during the reign of Ahab of Israel (conventionally c. 874-853 BC), immediately following the Mount Carmel contest of 1 Kings 18; the text gives no fixed date.",
+   "chapters": [
+    "1 Kings 19"
+   ],
+   "people": [
+    "Elijah",
+    "Elisha",
+    "Jezebel"
+   ],
+   "places": [
+    "Horeb"
+   ],
+   "things": [
+    "Mantle of Elijah"
+   ]
+  },
+  {
    "id": "r-1kgs-20-f1c12e65",
    "t": "Ahab's wars with Ben-hadad of Syria",
    "y0": -874,
@@ -3676,6 +3705,61 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-7-0624ad2f",
+   "t": "Solomon completes temple bronze/gold work and his own palace",
+   "y0": -967,
+   "y1": -947,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places Solomon's reign c. 970-931 BCE, with temple construction begun in his 4th year (1 Kings 6:1) and completed after seven years (1 Kings 6:38); this chapter's furnishings work and the subsequent thirteen-year palace project (1 Kings 7:1) would follow.",
+   "chapters": [
+    "1 Kings 7"
+   ],
+   "people": [
+    "Solomon",
+    "Hiram (craftsman)"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Molten sea",
+    "Jachin and Boaz pillars"
+   ]
+  },
+  {
+   "id": "r-1kgs-9-eb476a73",
+   "t": "Solomon completes the temple and palace (20th year)",
+   "y0": -966,
+   "y1": -950,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "1 Kings 6:1 dates the start of temple construction to Solomon's 4th regnal year; 1 Kings 9:10 states both the temple and palace were finished 'at the end of twenty years,' i.e. Solomon's 20th year, using traditional dates for his reign (c. 970-931 BCE).",
+   "chapters": [
+    "1 Kings 9"
+   ],
+   "people": [
+    "Solomon",
+    "Hiram"
+   ],
+   "places": [
+    "Jerusalem",
+    "Tyre"
+   ]
+  },
+  {
    "id": "r-1ne-10-90addb33",
    "t": "Lehi's 600-year Messianic prophecy",
    "y0": -600,
@@ -3698,6 +3782,52 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-1ne-12-1ba6481c",
+   "t": "Christ's foreseen appearance to the Nephites",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "1 Nephi 12:6 depicts the Lamb of God descending and showing himself; traditional Book of Mormon internal chronology (based on later books, not stated in this chapter) places the fulfillment near A.D. 34.",
+   "chapters": [
+    "1 Nephi 12"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Nephi (son of Lehi)"
+   ],
+   "places": [
+    "Land of promise"
+   ]
+  },
+  {
+   "id": "r-1ne-12-367bb081",
+   "t": "Foreseen Nephite decline into pride, war, and unbelief",
+   "y0": 231,
+   "y1": 421,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "1 Nephi 12:19-23 describes pride and temptation ending the era of peace, followed by dwindling in unbelief; the terminal date is inferred from the broader Book of Mormon narrative arc (destruction of the Nephites), not stated in this chapter.",
+   "chapters": [
+    "1 Nephi 12"
+   ],
+   "people": [
+    "Nephi (son of Lehi)"
    ]
   },
   {

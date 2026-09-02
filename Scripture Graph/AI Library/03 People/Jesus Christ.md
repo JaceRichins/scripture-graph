@@ -60,8 +60,8 @@ _Not yet developed._
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 - **AD 33** — Olivet Discourse delivered near the Jerusalem temple · [[Joseph Smith—Matthew 1]] · [[AD 1-100]] *(traditional dating)*
 - **AD 34** — The risen Christ visits Bountiful · [[3 Nephi 11]] · [[3 Nephi 17]] · [[3 Nephi 18]] · [[AD 1-100]] *(Book of Mormon internal dating)*
+- **AD 34** — Christ's foreseen appearance to the Nephites · [[1 Nephi 12]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 - **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
-- **AD 34** — Voice of Christ in the darkness after the great destruction · [[3 Nephi 9]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

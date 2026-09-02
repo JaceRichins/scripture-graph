@@ -45,6 +45,8 @@ _Not yet developed._
 - **589 BC** — Lehi's family crosses the ocean · [[1 Nephi 17]] · [[1 Nephi 18]] · [[600-501 BC]] *(traditional dating)*
 - **588 BC–570 BC** — Nephites and Lamanites divide · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 - **570 BC** — Nephi makes the small plates · [[1 Nephi 9]] · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
+- **AD 34** — Christ's foreseen appearance to the Nephites · [[1 Nephi 12]] · [[AD 1-100]] *(Book of Mormon internal dating)*
+- **AD 231–AD 421** — Foreseen Nephite decline into pride, war, and unbelief · [[1 Nephi 12]] · [[AD 201-300]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

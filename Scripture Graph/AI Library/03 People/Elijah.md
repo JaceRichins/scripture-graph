@@ -45,6 +45,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **860 BC** — Elijah on Carmel; fire answers · [[1 Kings 18]] · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 - **852 BC–851 BC** — Death of Ahaziah and Jehoram's accession in Israel · [[2 Kings 1]] · [[900-801 BC]] *(traditional dating)*
+- **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 - **848 BC–841 BC** — Reign of Jehoram of Judah · [[2 Chronicles 21]] · [[900-801 BC]] *(approximate)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — Kirtland Temple dedication-week vision (D&C 110) · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
