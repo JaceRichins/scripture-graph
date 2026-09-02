@@ -1,5 +1,17 @@
 # Engineering Decisions Log
 
+## 2026-09-02 -- The nightly was starving; patient runs and yielding ticks
+
+Every nightly since Aug 29 fired at 02:30 into a running 30-minute study
+tick, waited its 90 seconds, and skipped ("engine lock held") -- so no
+podcast ingestion, no conference freshen, no deterministic wave refresh, no
+weekly gardener/discovery either. Fix (runners._locked): nightly and weekly
+are PATIENT (wait up to automation.long_lock_wait_sec, default 45 min) and
+raise a `state/yield.wanted` flag while waiting; the next study tick sees the
+flag and steps aside instead of re-taking the lock. One tick a night buys the
+whole nightly. Study ticks stay impatient otherwise. Also: Unshaken Saints is
+a user-directed APPROVED podcast seed, and secondary.items_per_night is 12.
+
 ## 2026-09-02 -- Subject dossiers wait for the reading
 
 People, places, gospel topics and hard questions get their deep pages from a

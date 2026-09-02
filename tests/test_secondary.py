@@ -69,12 +69,14 @@ def test_may_ingest_policy(mini_ctx):
 # ---------------------------------------------------------------- registry
 
 def test_seed_idempotent_and_approved(mini_ctx):
-    assert registry.seed(mini_ctx) == 2
+    assert registry.seed(mini_ctx) == 3   # followHIM, Church History Matters, Unshaken Saints
     assert registry.seed(mini_ctx) == 0  # never re-inserts / clobbers
     fh = registry.get_source(mini_ctx, "followhim")
     chm = registry.get_source(mini_ctx, "church-history-matters")
+    us = registry.get_source(mini_ctx, "unshaken-saints")
     assert fh["approval_status"] == "APPROVED" and fh["seed"] == 1
     assert chm["institution"] == "Scripture Central"
+    assert us["approval_status"] == "APPROVED" and us["feed_url"].endswith("/unshaken/feed.xml")
 
 
 def test_apply_evaluation_downgrades_only_on_collapse(mini_ctx):
