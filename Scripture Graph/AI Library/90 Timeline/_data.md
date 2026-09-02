@@ -5184,6 +5184,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-105-7fa3d080",
+   "t": "Fishing River Revelation defers Zion's redemption",
+   "y0": 1834,
+   "y1": 1834,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated June 22, 1834, near Fishing River, Clay County, Missouri, after Zion's Camp leaders determined not to force a crossing to redeem Jackson County following negotiations and rising tension with Missouri settlers.",
+   "chapters": [
+    "D&C 105"
+   ],
+   "people": [
+    "Joseph Smith Jr"
+   ],
+   "places": [
+    "Fishing River, Missouri"
+   ],
+   "things": [
+    "Zion's Camp"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,
