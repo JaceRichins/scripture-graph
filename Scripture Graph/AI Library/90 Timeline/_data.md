@@ -3336,6 +3336,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-10-ce0655d9",
+   "t": "Queen of Sheba's state visit to Solomon in Jerusalem",
+   "y0": -950,
+   "y1": -935,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed within Solomon's traditionally dated reign (c. 970-931 BC), narratively after the temple and palace building account of 1 Kings 6-9",
+   "chapters": [
+    "1 Kings 10"
+   ],
+   "people": [
+    "Solomon",
+    "Queen of Sheba",
+    "Hiram"
+   ],
+   "places": [
+    "Jerusalem",
+    "Sheba"
+   ],
+   "things": [
+    "gold",
+    "ivory throne"
+   ]
+  },
+  {
    "id": "r-1kgs-11-f3b8f1cf",
    "t": "Solomon's forty-year reign and death",
    "y0": -970,
@@ -3358,6 +3389,32 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-1kgs-20-f1c12e65",
+   "t": "Ahab's wars with Ben-hadad of Syria",
+   "y0": -874,
+   "y1": -853,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed within Ahab's reign per the regnal chronology of the divided kingdom (commonly reconstructed via Thiele-style synchronisms with Assyrian records); exact year of these battles is not given in the text.",
+   "chapters": [
+    "1 Kings 20"
+   ],
+   "people": [
+    "Ahab",
+    "Ben-hadad"
+   ],
+   "places": [
+    "Samaria",
+    "Damascus"
    ]
   },
   {
@@ -5016,6 +5073,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dan-8-c6f62255",
+   "t": "Daniel's vision at Shushan, third year of Belshazzar",
+   "y0": -551,
+   "y1": -551,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Text sets the vision in Belshazzar's third year; conventional chronology places this around 551 BCE, though Belshazzar's co-regency dating is itself debated among historians.",
+   "chapters": [
+    "Daniel 8"
+   ],
+   "people": [
+    "Daniel",
+    "Gabriel"
+   ],
+   "places": [
+    "Shushan",
+    "Elam"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,
@@ -6141,6 +6224,30 @@ timeline module, not this file._
    "places": [
     "Jerusalem",
     "Anathoth"
+   ]
+  },
+  {
+   "id": "r-jer-15-be934a2d",
+   "t": "Reign of Manasseh, king of Judah, in Jerusalem",
+   "y0": -697,
+   "y1": -642,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional regnal chronology (following the biblical account of a 55-year reign) places Manasseh's reign c. 697-642 BC, generations before Jeremiah's ministry began, which is why Jeremiah 15:4 treats him as a past cause of present judgment.",
+   "chapters": [
+    "Jeremiah 15"
+   ],
+   "people": [
+    "Manasseh",
+    "Hezekiah"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {

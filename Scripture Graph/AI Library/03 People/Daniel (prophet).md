@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
+- **551 BC** — Daniel's vision at Shushan, third year of Belshazzar · [[Daniel 8]] · [[600-501 BC]] *(traditional dating)*
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
