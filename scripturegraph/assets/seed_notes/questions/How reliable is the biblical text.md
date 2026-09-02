@@ -3,6 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
+scope: christianity
 ---
 # How reliable is the biblical text?
 

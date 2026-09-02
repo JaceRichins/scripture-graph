@@ -1,4 +1,4 @@
-/* scripture-graph v0.62.0 build 0717727e 2026-09-02T17:57:35Z */
+/* scripture-graph v0.63.0 build fca93831 2026-09-02T23:05:53Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.62.0", sha: "0717727e", at: "2026-09-02T17:57:35Z" };
+    define_SG_BUILD_default = { version: "0.63.0", sha: "fca93831", at: "2026-09-02T23:05:53Z" };
   }
 });
 
@@ -12287,7 +12287,7 @@ var LIBRARY_SECTIONS = [
   { icon: "papers", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
   { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
   { icon: "evidence", name: "Evidence", path: "AI Library/40 Evidence" },
-  { icon: "question", name: "Questions", path: "AI Library/50 Questions" },
+  // Hard Questions is a first-class shelf (see libraryView), not a folder here
   { icon: "scholarship", name: "Scholarship", path: "AI Library/60 Scholarship" },
   { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" }
 ];
@@ -12306,6 +12306,13 @@ var VOLUMES = [
 
 // src/study/libraryView.ts
 var LIBRARY_VIEW = "sg-library";
+var QUESTIONS_PATH = "AI Library/50 Questions";
+var QUESTION_SCOPE_BY_TITLE = {
+  "How reliable are the Book of Mormon witnesses": "restoration",
+  "Is the Book of Mormon an ancient historical record": "restoration",
+  "Why are there multiple First Vision accounts": "restoration",
+  "How reliable is the biblical text": "christianity"
+};
 var SGLibraryView = class extends import_obsidian4.ItemView {
   constructor(leaf, s, host) {
     super(leaf);
@@ -12354,7 +12361,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   title() {
     const v = this.view;
-    return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.title;
+    return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.kind === "questions" ? "Hard Questions" : v.title;
   }
   render() {
     const c2 = this.contentEl;
@@ -12374,7 +12381,15 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     else if (v.kind === "chapters") this.renderChapters(body, v.book);
     else if (v.kind === "graphs") this.renderGraphs(body);
     else if (v.kind === "timelines") this.renderTimelines(body);
+    else if (v.kind === "questions") this.renderQuestions(body);
     else this.renderFolder(body, v.path);
+  }
+  /** jump straight to the Hard Questions shelf (the palette command lands here) */
+  showQuestions() {
+    if (this.view.kind === "questions") return;
+    this.trail = [{ kind: "home" }];
+    this.view = { kind: "questions" };
+    this.render();
   }
   /** jump straight to the Graphs shelf (the palette command lands here) */
   showGraphs() {
@@ -12480,6 +12495,11 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       icon: "graph",
       label: "Graphs",
       onTap: () => this.go({ kind: "graphs" })
+    });
+    this.cover(grid, {
+      icon: "question",
+      label: "Hard Questions",
+      onTap: () => this.go({ kind: "questions" })
     });
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
@@ -12639,6 +12659,51 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       "Pick a person, place or thing \u2014 or overlap several",
       () => this.host.newTimeline(() => this.render())
     );
+  }
+  /** ❓ The Hard Questions shelf — every question page, the Restoration's
+   * and Christianity's, each handled the same honest way: the strongest
+   * case for, the strongest case against, and an assessment that says what
+   * is established, what is open, and what is a matter of faith. Seeded
+   * pages deepen into researched dossiers once the whole canon is read. */
+  renderQuestions(c2) {
+    c2.createDiv({
+      cls: "sg-gp-note",
+      text: "Serious questions deserve serious, sourced answers \u2014 the strongest case for, the strongest case against, and an honest assessment of where that leaves things."
+    });
+    const listing = this.host.listFolder(QUESTIONS_PATH);
+    const rows = listing.files.map((f) => ({ ...f, name: f.name.replace(/\.md$/, "") })).filter((f) => f.name !== "Questions").map((f) => {
+      const fm = this.app.metadataCache.getCache(f.path)?.frontmatter ?? {};
+      return {
+        ...f,
+        scope: String(fm.scope ?? QUESTION_SCOPE_BY_TITLE[f.name] ?? "more"),
+        status: String(fm.status ?? "")
+      };
+    });
+    let i = 0;
+    const group = (label, scope) => {
+      const mine = rows.filter((r) => r.scope === scope);
+      if (!mine.length) return;
+      c2.createDiv({ cls: "sg-nav-sect", text: label });
+      const list = c2.createDiv({ cls: "sg-nav-list" });
+      for (const r of mine) {
+        const row = list.createDiv({ cls: "sg-nav-row sg-hq-row" });
+        cascade(row, i++);
+        navIcon(row, "question");
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: r.name });
+        col.createDiv({
+          cls: "sg-nav-gsub",
+          text: r.status.startsWith("developed") ? "Researched dossier \u2014 evidence, objections, honest assessment" : "Seeded answer \u2014 deepens once the whole canon has been read"
+        });
+        row.onclick = () => this.host.openPath(r.path);
+      }
+    };
+    group("The Restoration & the Latter-day Saints", "restoration");
+    group("The Bible & Christianity", "christianity");
+    group("More questions", "more");
+    if (!rows.length) {
+      c2.createDiv({ cls: "sg-nav-empty", text: "No question pages have synced yet." });
+    }
   }
   renderFolder(c2, path) {
     const listing = this.host.listFolder(path);
@@ -15399,6 +15464,12 @@ var SGPlugin = class extends import_obsidian22.Plugin {
       icon: "git-fork",
       callback: () => this.openGraphPresets()
     });
+    this.addCommand({
+      id: "hard-questions",
+      name: "Open hard questions",
+      icon: "help-circle",
+      callback: () => this.openLibraryShelf((v) => v.showQuestions())
+    });
     this.addRibbonIcon("compass", "Navigate scriptures", () => this.openNavigator());
     this.addCommand({
       id: "reading-scene",
@@ -15875,6 +15946,10 @@ var SGPlugin = class extends import_obsidian22.Plugin {
   }
   /** 🕸 The Graphs shelf — pre-filtered graph views, straight from the palette. */
   openGraphPresets() {
+    this.openLibraryShelf((v) => v.showGraphs());
+  }
+  /** land on the Library page (reusing it if it is open) and jump to a shelf */
+  openLibraryShelf(show) {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
@@ -15883,7 +15958,7 @@ var SGPlugin = class extends import_obsidian22.Plugin {
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
-      leaf.view.showGraphs();
+      show(leaf.view);
     })();
   }
   /** Remember where the reader is — powers Continue + the Recent row. */

@@ -3,6 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
+scope: restoration
 ---
 # How reliable are the Book of Mormon witnesses?
 

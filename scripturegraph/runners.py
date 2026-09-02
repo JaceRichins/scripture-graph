@@ -109,6 +109,10 @@ def run_frequent(ctx: Ctx) -> dict:
         from scripturegraph.personal import index_personal_notes
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
+        # curated pages shipped with the package (hard questions, exemplar
+        # evidence) — write-once, so this is free when nothing is new
+        from scripturegraph.bootstrap import install_seed_notes
+        stats["seed_notes"] = install_seed_notes(ctx)
         if ctx.c("timeline.enabled", True):
             from scripturegraph.timeline import maybe_build_timeline
             try:

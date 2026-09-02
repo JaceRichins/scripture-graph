@@ -24,7 +24,19 @@ type LibView =
   | { kind: "chapters"; book: BookInfo }
   | { kind: "graphs" }
   | { kind: "timelines" }
+  | { kind: "questions" }
   | { kind: "folder"; path: string; title: string };
+
+/** where the engine keeps the question pages (the MOC lives beside them) */
+const QUESTIONS_PATH = "AI Library/50 Questions";
+/** the four original seeds predate the `scope` field; their vault copies are
+ * write-once, so the shelf files them by title */
+const QUESTION_SCOPE_BY_TITLE: Record<string, string> = {
+  "How reliable are the Book of Mormon witnesses": "restoration",
+  "Is the Book of Mormon an ancient historical record": "restoration",
+  "Why are there multiple First Vision accounts": "restoration",
+  "How reliable is the biblical text": "christianity",
+};
 
 export class SGLibraryView extends ItemView {
   private view: LibView = { kind: "home" };
@@ -79,7 +91,8 @@ export class SGLibraryView extends ItemView {
           : v.kind === "chapters" ? v.book.name
             : v.kind === "graphs" ? "Graphs"
               : v.kind === "timelines" ? "Timelines"
-                : v.title;
+                : v.kind === "questions" ? "Hard Questions"
+                  : v.title;
   }
 
   private render(): void {
@@ -102,7 +115,16 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "chapters") this.renderChapters(body, v.book);
     else if (v.kind === "graphs") this.renderGraphs(body);
     else if (v.kind === "timelines") this.renderTimelines(body);
+    else if (v.kind === "questions") this.renderQuestions(body);
     else this.renderFolder(body, v.path);
+  }
+
+  /** jump straight to the Hard Questions shelf (the palette command lands here) */
+  showQuestions(): void {
+    if (this.view.kind === "questions") return;
+    this.trail = [{ kind: "home" }];
+    this.view = { kind: "questions" };
+    this.render();
   }
 
   /** jump straight to the Graphs shelf (the palette command lands here) */
@@ -207,6 +229,8 @@ export class SGLibraryView extends ItemView {
       onTap: () => this.host.openNote("Study Hub") });
     this.cover(grid, { icon: "graph", label: "Graphs",
       onTap: () => this.go({ kind: "graphs" }) });
+    this.cover(grid, { icon: "question", label: "Hard Questions",
+      onTap: () => this.go({ kind: "questions" }) });
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
       if (!l.folders.length && !l.files.length) continue;
@@ -350,6 +374,58 @@ export class SGLibraryView extends ItemView {
     row(mine, "event", "New timeline",
       "Pick a person, place or thing — or overlap several",
       () => this.host.newTimeline(() => this.render()));
+  }
+
+  /** ❓ The Hard Questions shelf — every question page, the Restoration's
+   * and Christianity's, each handled the same honest way: the strongest
+   * case for, the strongest case against, and an assessment that says what
+   * is established, what is open, and what is a matter of faith. Seeded
+   * pages deepen into researched dossiers once the whole canon is read. */
+  private renderQuestions(c: HTMLElement): void {
+    c.createDiv({
+      cls: "sg-gp-note",
+      text: "Serious questions deserve serious, sourced answers — the strongest "
+        + "case for, the strongest case against, and an honest assessment of "
+        + "where that leaves things.",
+    });
+    const listing = this.host.listFolder(QUESTIONS_PATH);
+    const rows = listing.files
+      .map(f => ({ ...f, name: f.name.replace(/\.md$/, "") }))
+      .filter(f => f.name !== "Questions")
+      .map(f => {
+        const fm = (this.app.metadataCache.getCache(f.path)?.frontmatter ?? {}) as
+          Record<string, unknown>;
+        return { ...f,
+          scope: String(fm.scope ?? QUESTION_SCOPE_BY_TITLE[f.name] ?? "more"),
+          status: String(fm.status ?? "") };
+      });
+    let i = 0;
+    const group = (label: string, scope: string) => {
+      const mine = rows.filter(r => r.scope === scope);
+      if (!mine.length) return;
+      c.createDiv({ cls: "sg-nav-sect", text: label });
+      const list = c.createDiv({ cls: "sg-nav-list" });
+      for (const r of mine) {
+        const row = list.createDiv({ cls: "sg-nav-row sg-hq-row" });
+        cascade(row, i++);
+        navIcon(row, "question");
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: r.name });
+        col.createDiv({
+          cls: "sg-nav-gsub",
+          text: r.status.startsWith("developed")
+            ? "Researched dossier — evidence, objections, honest assessment"
+            : "Seeded answer — deepens once the whole canon has been read",
+        });
+        row.onclick = () => this.host.openPath(r.path);
+      }
+    };
+    group("The Restoration & the Latter-day Saints", "restoration");
+    group("The Bible & Christianity", "christianity");
+    group("More questions", "more");
+    if (!rows.length) {
+      c.createDiv({ cls: "sg-nav-empty", text: "No question pages have synced yet." });
+    }
   }
 
   private renderFolder(c: HTMLElement, path: string): void {

@@ -253,8 +253,13 @@ def stage_steady(ctx: Ctx) -> None:
     gitops.commit_all(ctx, "bootstrap: complete → steady state")
 
 
-def _copy_seed_notes(ctx: Ctx) -> None:
-    """Curated exemplar evidence + question dossiers from package assets."""
+def _copy_seed_notes(ctx: Ctx) -> dict:
+    """Curated exemplar evidence + question dossiers from package assets.
+
+    Write-once and idempotent, so it runs on every frequent tick as
+    `install_seed_notes`: a question added to the package lands on every
+    existing vault the next time the engine wakes, and a page the user
+    deleted stays deleted (the registry remembers)."""
     import re
     from scripturegraph.util import sha256_text, read_text
     from scripturegraph.vaultgen.generate import write_once
@@ -262,6 +267,7 @@ def _copy_seed_notes(ctx: Ctx) -> None:
     from scripturegraph.util import slugify
     base = res.files("scripturegraph").joinpath("assets/seed_notes")
     from scripturegraph.vaultgen.generate import FOLDER_QUESTIONS
+    installed = 0
     for kind, folder_of in (("evidence", None), ("questions", FOLDER_QUESTIONS)):
         src_dir = base.joinpath(kind)
         try:
@@ -275,11 +281,17 @@ def _copy_seed_notes(ctx: Ctx) -> None:
             fm, _body = mdkit.parse_note(text)
             rel = fm.get("sg-path") or f"{folder_of}/{entry.name}"
             text = re.sub(r"^sg-path: .*\n", "", text, flags=re.MULTILINE)
-            if write_once(ctx, rel, "evidence" if kind == "evidence" else "question",
-                          "librarian", text):
-                title = Path(rel).stem
-                node_kind = "evidence" if kind == "evidence" else "question"
-                node_id = f"{node_kind}:{slugify(title)}"
+            title = Path(rel).stem
+            node_kind = "evidence" if kind == "evidence" else "question"
+            node_id = f"{node_kind}:{slugify(title)}"
+            # the sg-id anchors plugin annotations across renames (§39) —
+            # stamp it now rather than waiting for the weekly gardener
+            fm, body = mdkit.parse_note(text)
+            if not fm.get("sg-id"):
+                fm["sg-id"] = node_id
+                text = mdkit.build_note(fm, body)
+            if write_once(ctx, rel, node_kind, "librarian", text):
+                installed += 1
                 ctx.db().execute(
                     "INSERT INTO nodes(id,node_type,title,vault_path,created_at,updated_at) "
                     "VALUES(?,?,?,?,?,?) ON CONFLICT(id) DO NOTHING",
@@ -287,6 +299,12 @@ def _copy_seed_notes(ctx: Ctx) -> None:
                 ctx.db().execute(
                     "UPDATE file_registry SET node_id=? WHERE path=?", (node_id, rel))
     ctx.db().commit()
+    if installed:
+        ctx.log.info("seed_notes.installed", count=installed)
+    return {"installed": installed}
+
+
+install_seed_notes = _copy_seed_notes
 
 
 STAGE_HANDLERS = {

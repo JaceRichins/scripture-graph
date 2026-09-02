@@ -3,6 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded — will deepen as evidence passes run
+scope: restoration
 ---
 # Is the Book of Mormon an ancient historical record?
 

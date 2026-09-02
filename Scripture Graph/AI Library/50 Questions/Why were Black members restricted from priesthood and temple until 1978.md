@@ -4,7 +4,9 @@ mutable: ai
 content_type: question
 status: seeded
 scope: restoration
+sg-id: question:why-were-black-members-restricted-from-priesthood-and-temple-until-1978
 ---
+
 # Why were Black members restricted from priesthood and temple until 1978?
 
 ## Concise answer

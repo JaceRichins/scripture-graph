@@ -3,6 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded — will deepen as JSP material is imported
+scope: restoration
 ---
 # Why are there multiple First Vision accounts?
 

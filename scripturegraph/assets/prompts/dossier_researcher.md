@@ -55,6 +55,12 @@ the index ties to it — and produce:
 Depth and reliability over volume. A dossier a careful student would trust
 beats a long one. Cite only sources you are confident actually exist.
 
+For a hard question especially: the aim is a page a believer can trust
+*because* it hides nothing — the strongest case against at full strength,
+the strongest honest response, and an assessment that says plainly what is
+established, what is open, and what is a matter of faith. Faith-building
+through honesty, never instead of it.
+
 ## Output format
 
 Respond with ONLY one JSON object (no markdown fences, no commentary) that

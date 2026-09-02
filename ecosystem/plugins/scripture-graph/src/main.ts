@@ -179,6 +179,10 @@ export default class SGPlugin extends Plugin {
       id: "graph-presets", name: "Open graph views (pre-filtered)", icon: "git-fork",
       callback: () => this.openGraphPresets(),
     });
+    this.addCommand({
+      id: "hard-questions", name: "Open hard questions", icon: "help-circle",
+      callback: () => this.openLibraryShelf(v => v.showQuestions()),
+    });
     this.addRibbonIcon("compass", "Navigate scriptures", () => this.openNavigator());
     this.addCommand({
       id: "reading-scene", name: "Change reading scene", icon: "sunrise",
@@ -693,6 +697,11 @@ export default class SGPlugin extends Plugin {
 
   /** 🕸 The Graphs shelf — pre-filtered graph views, straight from the palette. */
   private openGraphPresets(): void {
+    this.openLibraryShelf(v => v.showGraphs());
+  }
+
+  /** land on the Library page (reusing it if it is open) and jump to a shelf */
+  private openLibraryShelf(show: (v: SGLibraryView) => void): void {
     void (async () => {
       let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
       if (!leaf) {
@@ -701,7 +710,7 @@ export default class SGPlugin extends Plugin {
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
-      (leaf.view as SGLibraryView).showGraphs();
+      show(leaf.view as SGLibraryView);
     })();
   }
 
