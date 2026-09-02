@@ -137,9 +137,18 @@ files changed. **A build without a bump is an invisible build.**
 ```bash
 curl -s http://192.168.1.59:8930/health                          # {"ok":true,...}
 curl -s http://192.168.1.59:8930/plugin/manifest.json | grep version
-grep -c "<something new in this build>" \
-  "Scripture Graph/.obsidian/plugins/scripture-graph/main.js"    # vault copy is current
+head -c 70 "Scripture Graph/.obsidian/plugins/scripture-graph/main.js"   # banner: version + sha
+curl -s http://192.168.1.59:8930/plugin/main.js | head -c 70           # the SAME banner
 ```
+
+Every build's first line is `/* scripture-graph vX.Y.Z build <sha> <time> */`
+(stamped by `esbuild.config.mjs`). A device's debug log starts with
+`Scripture Graph v<manifest> code=v<built>@<sha>` — **if those two versions
+differ, the device reloaded after Sync delivered `manifest.json` but before
+`main.js` arrived, and is running old code under a new number.** Since
+v0.62.0 the plugin refuses to offer the reload until `main.js` on disk
+carries the banner the manifest promises (`sync.partial` in the log while
+it waits), so this can only happen to devices still on older code.
 
 ## Troubleshooting
 
