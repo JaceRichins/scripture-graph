@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 46–AD 57** — Paul's missionary journeys · [[Acts 13]] · [[Acts 16]] · [[Acts 17]] · [[AD 1-100]] *(historical)*
+- **AD 51–AD 52** — Paul's Corinth ministry anchored by the Gallio inscription · [[1 Thessalonians 3]] · [[AD 1-100]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

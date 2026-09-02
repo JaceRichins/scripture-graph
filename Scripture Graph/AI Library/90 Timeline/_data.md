@@ -3030,6 +3030,59 @@ timeline module, not this file._
    "note": "the long-promised day"
   },
   {
+   "id": "r-1chr-2-96cc37a8",
+   "t": "Caleb's line: Bezaleel to Judahite town-founding",
+   "y0": -1446,
+   "y1": -1350,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Bezaleel (1 Chronicles 2:20) is traditionally dated to the tabernacle's construction shortly after the Exodus; his kin later settle towns named in 2:50-55 during the conquest/judges period.",
+   "chapters": [
+    "1 Chronicles 2"
+   ],
+   "people": [
+    "Caleb",
+    "Bezaleel"
+   ],
+   "places": [
+    "Hebron",
+    "Kirjath-jearim"
+   ]
+  },
+  {
+   "id": "r-1chr-2-bb08b837",
+   "t": "Judah's royal line: Pharez to David's birth",
+   "y0": -1880,
+   "y1": -1040,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Counts the generations named in 1 Chronicles 2:5,9-15 from Judah's grandson Pharez down to David, matched against the traditional dating of the patriarchal era and David's birth.",
+   "chapters": [
+    "1 Chronicles 2"
+   ],
+   "people": [
+    "Judah",
+    "Boaz",
+    "Jesse",
+    "David"
+   ],
+   "places": [
+    "Bethlehem"
+   ]
+  },
+  {
    "id": "r-1chr-21-d2cc0fe4",
    "t": "David's Census, Plague, and Purchase of Ornan's Threshingfloor",
    "y0": -975,
@@ -3224,6 +3277,65 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-1-97c2dd76",
+   "t": "Solomon is publicly installed as king",
+   "y0": -970,
+   "y1": -960,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Approximate conventional dating near the end of David's reign; the chapter itself supplies no absolute year.",
+   "chapters": [
+    "1 Kings 1"
+   ],
+   "people": [
+    "David",
+    "Solomon",
+    "Zadok",
+    "Nathan"
+   ],
+   "places": [
+    "Gihon",
+    "Jerusalem"
+   ],
+   "things": [
+    "king's mule",
+    "horn of oil"
+   ]
+  },
+  {
+   "id": "r-1kgs-1-f7e1c2ca",
+   "t": "Solomon anointed co-regent king at Gihon",
+   "y0": -972,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places David's reign c. 1010-970 BCE; the events of this chapter occur near the end of David's life, shortly before his death.",
+   "chapters": [
+    "1 Kings 1"
+   ],
+   "people": [
+    "David (king)",
+    "Solomon",
+    "Zadok",
+    "Nathan"
+   ],
+   "places": [
+    "Gihon"
+   ]
+  },
+  {
    "id": "r-1kgs-11-f3b8f1cf",
    "t": "Solomon's forty-year reign and death",
    "y0": -970,
@@ -3398,6 +3510,33 @@ timeline module, not this file._
    "places": [
     "Ramah",
     "Beer-sheba"
+   ]
+  },
+  {
+   "id": "r-1thes-3-8ce74f87",
+   "t": "Paul's Corinth ministry anchored by the Gallio inscription",
+   "y0": 51,
+   "y1": 52,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "An inscription at Delphi places Gallio as proconsul of Achaia around AD 51-52 (cf. Acts 18:12), anchoring the Corinth phase of Paul's second journey shortly after which Timothy's report described in this chapter would have reached him.",
+   "chapters": [
+    "1 Thessalonians 3"
+   ],
+   "people": [
+    "Paul",
+    "Timothy (companion of Paul)",
+    "Gallio"
+   ],
+   "places": [
+    "Athens",
+    "Corinth"
    ]
   },
   {
@@ -6934,6 +7073,30 @@ timeline module, not this file._
    "note": "Zechariah is traditionally dated to the early Persian period, contemporary with Haggai and the rebuilding of the second temple under Zerubbabel and Joshua the high priest.",
    "chapters": [
     "Zechariah 10"
+   ],
+   "people": [
+    "Zechariah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zech-2-d21e6fa9",
+   "t": "Zechariah's night-vision cycle (measuring-line vision)",
+   "y0": -520,
+   "y1": -519,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Zechariah 1:7 dates the surrounding night-vision cycle to the 24th day of the 11th month in the 2nd year of Darius I, conventionally placed c. 520-519 BC, during the post-exilic return and temple-rebuilding period.",
+   "chapters": [
+    "Zechariah 2"
    ],
    "people": [
     "Zechariah"

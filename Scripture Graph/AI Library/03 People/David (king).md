@@ -43,6 +43,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1880 BC–1040 BC** — Judah's royal line: Pharez to David's birth · [[1 Chronicles 2]] · [[1900-1801 BC]] *(approximate)*
 - **1025 BC** — David and Goliath · [[1 Samuel 17]] · [[1100-1001 BC]] *(approximate)*
 - **1010 BC–970 BC** — David reigns; Jerusalem the capital · [[2 Samuel 5]] · [[Psalm 23]] · [[1100-1001 BC]] *(approximate)*
 - **1010 BC–970 BC** — David's reign over all Israel (Hebron and Jerusalem) · [[1 Chronicles 29]] · [[1100-1001 BC]] *(traditional dating)*
@@ -52,9 +53,8 @@ _Not yet developed._
 - **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 69 · [[Psalm 69]] · [[1100-1001 BC]] *(traditional dating)*
 - **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
+- **972 BC–970 BC** — Solomon anointed co-regent king at Gihon · [[1 Kings 1]] · [[1000-901 BC]] *(traditional dating)*
 - **971 BC–970 BC** — Temple-fund offering and Solomon's public coronation · [[1 Chronicles 29]] · [[1000-901 BC]] *(approximate)*
-- **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
-- **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

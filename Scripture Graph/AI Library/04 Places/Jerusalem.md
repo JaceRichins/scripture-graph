@@ -48,8 +48,8 @@ _Not yet developed._
 - **971 BC–970 BC** — Temple-fund offering and Solomon's public coronation · [[1 Chronicles 29]] · [[1000-901 BC]] *(approximate)*
 - **971 BC–931 BC** — Traditional Solomonic authorship of Proverbs 10-22:16 · [[Proverbs 17]] · [[1000-901 BC]] *(traditional dating)*
 - **970 BC–609 BC** — Unbroken royal line, Solomon to Josiah · [[1 Chronicles 3]] · [[1000-901 BC]] *(traditional dating)*
+- **970 BC–960 BC** — Solomon is publicly installed as king · [[1 Kings 1]] · [[1000-901 BC]] *(approximate)*
 - **970 BC–931 BC** — Solomon's forty-year reign and death · [[1 Kings 11]] · [[1000-901 BC]] *(traditional dating)*
-- **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

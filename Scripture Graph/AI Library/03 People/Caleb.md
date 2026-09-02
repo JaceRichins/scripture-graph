@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
+- **1446 BC–1350 BC** — Caleb's line: Bezaleel to Judahite town-founding · [[1 Chronicles 2]] · [[1500-1401 BC]] *(traditional dating)*
 - **1400 BC–1370 BC** — Judah's tribal allotment and Caleb's conquest of Hebron · [[Joshua 15]] · [[1400-1301 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
