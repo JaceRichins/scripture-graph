@@ -23,7 +23,13 @@ Scripture: [[1 Corinthians 1]] · My notes: [[1 Corinthians 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Greeting and thanksgiving (vv. 1-9):** calling, [[Grace]], gifts, and hope for Christ's coming.
+
+2. **Appeal against factions (vv. 10-17):** Chloe's household reports contentions; Paul rejects personality-centered allegiance and explains his preaching commission.
+
+3. **The cross and rival accounts of wisdom (vv. 18-25):** the same proclamation is judged as foolishness or recognized as God's power.
+
+4. **God's choice and the end of boasting (vv. 26-31):** the congregation's calling illustrates a reversal of status, culminating in glorying in the Lord.
 <!-- SG:END structure -->
 
 ## People
@@ -53,19 +59,22 @@ _Not yet developed._
 - [[Colossians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]] ↔ [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]]
-- [[2 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]] ↔ [[2 Corinthians 10#^2cor-10-17|2 Corinthians 10:17]]
+- [[2 Corinthians 10]] — 0 parallel verses
+- [[Jeremiah 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Education and Learning]]
+- [[Crucifixion of Jesus Christ]]
+- [[Gospel of Jesus Christ]]
+- [[Jews and Gentiles]]
 - [[Baptism]] *(keyword match — unconfirmed)*
-- [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter relates [[Baptism]] to Christ's name rather than a minister's personal following. It presents the message of the cross as God's saving power, yet does not reduce faith to social prestige or rhetorical sophistication. Verse 30 places wisdom, righteousness, sanctification, and redemption in Christ, making it especially relevant to [[Jesus Christ (Gospel Topic)]], [[Salvation]], and [[Justification and Sanctification]]. Verses 7-8 also join present [[Spiritual Gifts]] to expectation of the [[Second Coming of Jesus Christ]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,22 +95,30 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several contrasts organize the argument: divided/joined, wisdom/foolishness, strength/weakness, perishing/saved, and human boasting/glorying in the Lord. The recurrence of calling language in verses 1, 2, 9, 24, and 26 connects Paul's apostleship, the identity of the saints, fellowship with Christ, recognition of Christ, and the congregation's social composition. The phrase "not many" in verse 26 is an important limitation: Paul describes the group's general makeup without claiming that every educated, powerful, or noble person was absent.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verse 13's three rhetorical questions ('Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?') expose the incongruity of factional loyalty by contrasting it with Christ's unique role. From there, verses 18-29 develop a sustained series of antithetical pairs — wise/foolish, wisdom/foolishness, Jews' signs/Greeks' wisdom, wise/mighty/noble versus foolish/weak/base — that dramatize the same reversal on a larger scale, culminating in 'That no flesh should glory in his presence' (v29). The scriptural appeals in verses 19 and 31 frame this reversal through [[Isaiah 29]] and [[Jeremiah 9]], and the Paul-and-Apollos language of verse 12 resumes later in [[1 Corinthians 3]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary-Thematic *(tentative)*
+> The movement from allegiance to named teachers, through Paul's refusal to center baptism on his own name, to the exclusion of human boasting provides substantial textual evidence that the chapter's factional and wisdom discussions share a concern with misplaced human status.
+> — strength 0.5 · confidence 0.6 · defensible literary reading, not the only one
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What degree of agreement is required by "the same mind and in the same judgment" in verse 10, and what room remains for legitimate differences?
+
+- Does verse 17 establish a fixed hierarchy between preaching and ordinances, or is Paul narrowly explaining his role in a factional crisis?
+
+- What kinds of "wisdom" are criticized in verses 17-29? Which features of the passage caution against turning it into a rejection of [[Education and Learning]]?
+
+- How do verses 26-29 challenge status-based readings without implying that poverty, weakness, or lack of education is inherently virtuous?
 <!-- SG:END questions -->
 
 ## Further Study
