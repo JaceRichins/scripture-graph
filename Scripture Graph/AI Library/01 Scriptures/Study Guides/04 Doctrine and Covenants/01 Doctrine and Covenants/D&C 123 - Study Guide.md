@@ -17,20 +17,20 @@ Scripture: [[D&C 123]] · My notes: [[D&C 123 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 123 turns communal suffering into a proposed program of documentation and public witness. The Saints are instructed to gather facts, record different kinds of loss, identify participants, collect statements and affidavits, preserve hostile publications, publish the resulting material, and present it to governmental leaders. The chapter frames this work as a duty owed to God, injured families, bereaved dependents, future generations, and people portrayed as lacking access to truth. It closes by joining extensive human effort with confidence in divine deliverance. The chapter establishes the intended procedure; it does not establish that the record was completed, impartial, accepted, or successful.
+D&C 123 turns communal suffering into a proposed program of documentation and public advocacy. The Saints are to gather facts, itemize losses, identify participants, take statements and affidavits, preserve hostile publications, publish the resulting case, and present it to governmental leaders. The chapter states a procedure and rationale; it does not itself demonstrate that the resulting record was completed, balanced, accepted, or effective.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
 A cautious thematic outline is:
 
-1. **Verses 1–5 — Gather and organize:** Collect facts, losses, names, statements, affidavits, publications, and authorship information.
-2. **Verse 6 — Publish and present:** Address the world and governmental leaders as a final assigned effort.
-3. **Verses 7–14 — Explain the duty:** Expand the moral and theological rationale to families, bereaved dependents, future generations, and people among many communities.
-4. **Verses 15–16 — Do not dismiss small things:** Use the small helm to illustrate how apparently minor actions may affect a larger future.
-5. **Verse 17 — Act, then stand with assurance:** Do everything within human power before awaiting God's saving action.
+1. **Verses 1–5 — Gather and organize:** Collect facts, losses, names, testimony, publications, and authorship information.
+2. **Verse 6 — Publish and petition:** Address the world and governmental leaders.
+3. **Verses 7–14 — Define the duty:** Extend its moral scope to injured families, bereaved dependents, future generations, and people portrayed as unable to locate truth.
+4. **Verses 15–16 — Defend small actions:** The small helm illustrates how limited means may influence a larger future.
+5. **Verse 17 — Act and then wait:** Complete what lies within human power before awaiting divine deliverance.
 
-This is an analytical outline, not proof of a formally marked literary design.
+This is an analytical outline, not evidence of a formally marked literary structure.
 <!-- SG:END structure -->
 
 ## People
@@ -46,20 +46,20 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 101]] — 0 parallel verses
-- [[James 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Government and Laws]]
+- [[Work and Self-Reliance]]
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter associates [[Truth]] with gathering facts, preserving testimony, and bringing hidden wrongdoing to light. It treats committees, records, publication, and appeals under [[Government and Laws]] as compatible with religious duty. These procedures show an evidentiary intention but do not guarantee neutrality or accuracy.
+The chapter associates [[Truth]] with gathering facts, preserving testimony, and exposing hidden wrongdoing. It treats committees, affidavits, publication, and appeals under [[Government and Laws]] as compatible with religious duty. Their inclusion demonstrates an evidentiary intention, not guaranteed neutrality or accuracy.
 
-Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerfully within their power and then trust God concerning what remains beyond their control. Duties toward wives, children, widows, the fatherless, and the rising generation also give the work an important [[Family]] dimension.
+Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerfully within their power and then trust God concerning what remains outside their control. The stated duties toward wives, children, widows, the fatherless, and future generations give the work a strong [[Family]] dimension.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,16 +88,20 @@ Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerful
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The chapter moves between documentary vocabulary—facts, damages, names, statements, affidavits, and publications—and intense polemical imagery—hell, an iron yoke, handcuffs, chains, shackles, and fetters. These registers serve different purposes: the documentary terms prescribe a method, while the metaphors express moral judgment and urgency. Rhetorical intensity is not independent corroboration of particular allegations.
+Documentary vocabulary—facts, damages, names, statements, affidavits, and publications—appears beside severe polemical language involving hell, an iron yoke, handcuffs, chains, shackles, and fetters. The first register prescribes a method; the second communicates moral judgment and urgency. The intensity of the rhetoric is not independent corroboration of the allegations.
 
-The repeated phrase “an imperative duty” structures verses 7–11 and widens the stated obligations. Verse 12 also distinguishes deceptive agents from many outsiders portrayed as blinded or unable to locate truth. This moderates their culpability without removing the passage's exclusivist judgment of their religious situation.
+The repeated expression “an imperative duty” organizes verses 7–11 while widening the groups to whom the obligation is owed. Verse 12 distinguishes those said to deceive from many outsiders said to lack access to truth, although it continues to evaluate those outsiders from the passage's own theological perspective.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The small helm in verses 15–16 turns the claim that “small things” matter into a crisis image: a small instrument can influence a large ship amid wind and waves. In context, the comparison applies naturally to the preceding work of documentation, disclosure, and advocacy, though “these things” may encompass the entire campaign rather than individual clerical tasks.
+Two structural devices carry the chapter's argument beyond its documentary vocabulary.
 
-D&C 123:16 closely parallels [[James 3]] in its combination of a large ship, powerful wind, and small helm, although James applies the image to speech. Verse 17 also resembles [[Exodus 14]] in its language of standing still and seeing divine salvation. These are substantial comparisons, but neither proves direct or conscious quotation. D&C 123 gives its conclusion a distinctive sequence: first do everything within human power, and then stand with assurance.
+First, verse 1 opens with "And again, we would suggest for your consideration," a continuation marker indicating that D&C 123 extends an ongoing discussion rather than opening an unrelated subject. This is consistent with the chapter's traditional association with the March 1839 Liberty Jail correspondence that also produced [[D&C 121]] and [[D&C 122]], though D&C 123 itself names no letter, date, or setting, and the underlying correspondence is now understood to comprise more than one epistle rather than a single dated letter.
+
+Second, verses 7, 9, and 11 each open with a variant of "it is an imperative duty that we owe," and each repetition widens the circle of people to whom the duty is owed: first God, angels, and one's own wife and children (v. 7); then, more specifically, "the widows and fatherless" (v. 9); then "all the rising generation" and "all the pure in heart" (v. 11). The refrain turns a single instruction — document and publish — into an obligation extended toward mourning families, the next generation, and people portrayed as separated from truth, before verses 15–16 insist that none of this should be dismissed as a "small thing," illustrated by the image of a great ship governed by a very small helm.
+
+D&C 123:16 shares the exact phrase "a very small helm" with [[James 3]]:4 ("turned about with a very small helm"), alongside the shared images of a great/large ship and strong wind — a notable verbal echo. This study's automated citation-overlap check did not register it as a verified parallel, so the resemblance should be read as worth noting rather than as an established case of literary dependence; James applies the image to speech, while D&C 123 applies it to the preceding program of documentation and disclosure. Verse 17 likewise recalls the language of [[Exodus 14]]:13 ("stand still, and see the salvation of the LORD"), an echo not yet run through the same automated check and held with similar caution. Neither parallel proves conscious quotation. D&C 123 gives its own conclusion a distinctive sequence: first do everything within human power, then stand with assurance.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -113,24 +117,32 @@ D&C 123:16 closely parallels [[James 3]] in its combination of a large ship, pow
 > [!evidence] Internal Procedural Evidence
 > The specified collection of facts, names, damages, affidavits, and publications strongly supports reading the chapter as a program of evidence-based public advocacy rather than merely an expression of grievance.
 > — strength 0.9 · confidence 1.0 · Strong interpretation with acknowledged limitations · [[Internal Procedural Evidence in D&C 123|full dossier]]
+
+> [!evidence] Historical Corroboration *(tentative)*
+> The instruction in D&C 123 to gather statements and affidavits corresponds to a documented historical effort by Missouri-era Latter-day Saints to collect sworn affidavits about the 1838-1839 conflict, a portion of which were later compiled and presented in petitions to the U.S. Congress seeking redress; Congress ultimately took no compensatory action.
+> — strength 0.5 · confidence 0.6 · broadly accepted historical fact, causal link to this chapter unverified
+
+> [!evidence] Biblical Verbal And Imagistic Parallel *(tentative)*
+> D&C 123:16 and James 3:4 share a concentrated image involving a large ship, powerful wind, and a very small helm. This makes James 3:4 a strong intertextual comparison, although the applications differ: James discusses control of speech, while D&C 123 applies the image to consequential action amid crisis.
+> — strength 0.4 · confidence 0.7 · disputed — contradicts verified overlap index
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-How does the command to gather “all the facts” relate to the chapter's highly charged rhetoric?
+Who is the antecedent of "him" in verse 6 — does "that promise which shall call him forth from his hiding place" describe an action of God the Father or of Jesus Christ, and how does that identification shape the reading of "his mighty arm" later in the verse?
 
-What safeguards could make testimony gathered by an injured and openly advocative community credible without denying that community a voice?
+How does the command to gather "all the facts" relate to the chapter's highly charged, one-sided rhetoric, and what safeguards could make testimony gathered by an injured and openly advocative community credible without denying that community a voice?
 
-Which groups are named as parties to whom the duty is owed, and how does that widening scope change the purpose of the work?
+Which groups are named as parties to whom the duty is owed (vv. 7, 9, 11), and how does that widening scope change the stated purpose of the work?
 
-How does verse 12 distinguish deceivers from those portrayed as deceived, and what limits remain in that distinction?
+How does verse 12 distinguish deceivers from those portrayed as deceived, and what limits remain in that distinction given verse 7's sweeping condemnation of "the creeds of the fathers"?
 
-Which statements prescribe procedures, and which express theological interpretation or moral judgment?
+Which statements in the chapter prescribe verifiable procedures, and which express theological interpretation or moral judgment?
 
-How does the sequence in verse 17 challenge both passivity and the assumption that human effort controls every outcome?
+Does "these things" in verse 15 refer narrowly to the documentary tasks just described, or broadly to the whole campaign — and how does verse 17's sequence ("do all things... and then may we stand still") challenge both passivity and the assumption that human effort alone controls the outcome?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the escalating civil appeals in [[D&C 101]] with the documentary program in D&C 123. Read [[James 3]] alongside verse 16 to compare the shared helm imagery and the passages' different applications. Read [[Exodus 14]] alongside verse 17 to examine both the verbal resemblance and D&C 123's emphasis on prior human effort. [[Alma 37]] offers a broader thematic comparison concerning small means and large effects, but should not be treated as evidence of literary dependence. Historical research beyond this chapter would be needed to determine how fully the proposed documentation and governmental presentation were carried out.
+Compare the escalating civil appeals in [[D&C 101]] with the documentary program in D&C 123. Read [[James 3]] beside verse 16 to compare shared helm imagery and differing applications. Read [[Exodus 14]] beside verse 17 to assess both the verbal resemblance and D&C 123's emphasis on prior human effort. [[Alma 37]] supplies a broader thematic comparison concerning small means and large effects, but does not establish literary dependence. Historical sources beyond this chapter are necessary to determine how fully the proposed evidence-gathering and governmental appeals were carried out.
 <!-- SG:END further-study -->
