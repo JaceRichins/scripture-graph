@@ -109,6 +109,16 @@ files changed. **A build without a bump is an invisible build.**
   search pipeline. `assertScanFree()` in `graphPresets.ts` logs
   `gpreset.SLOW-QUERY` to the debug log if one slips through — check the
   log after touching presets.
+- **A graph view's FIRST render is unfiltered — always.** Obsidian's own
+  view `onload` calls `setOptions()` (which ends in `render()`) *before*
+  `requestUpdateSearch.run()` parses the query, so the first frame is the
+  whole vault: 10k nodes + 75k links, then torn straight back down with
+  `Array.remove` (full scan + splice per link — did not finish in two
+  minutes on the laptop at this vault's size). That teardown is the
+  frozen veil on phones. `holdFirstRender()` in `graphPresets.ts` swallows
+  `render()` until the first `setQuery`; look for `gpreset.first-render-held`
+  in the debug log — `held` should be ≥1 and `why=query`. Never open the
+  graph view without it on a phone.
 - **Writing `graph.json` alone does nothing.** Obsidian reads that file
   only at app start. To change a live graph, set
   `app.internalPlugins.getPluginById("graph").instance.options` *before*

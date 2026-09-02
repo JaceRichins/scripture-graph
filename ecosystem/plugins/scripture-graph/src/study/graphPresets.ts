@@ -226,6 +226,79 @@ interface GraphEngine {
   /** non-null while the engine's file-scan queue is still working — a
    * content-word query reads every file in the vault through this */
   queue?: unknown;
+  /** builds the node set from metadataCache and hands it to the renderer */
+  render?: () => void;
+  /** parses the filter + color queries; the first call is what turns
+   * "no filter yet" into "filtered" */
+  setQuery?: (q: unknown) => void;
+}
+
+/** 🛑 The unfiltered first frame — the real phone-killer.
+ *
+ * Read from Obsidian's app.js: a graph view's onload runs
+ * `dataEngine.setOptions(options)` and THEN `requestUpdateSearch.run()`.
+ * But setOptions ends with `this.render()`, and at that instant no query
+ * has been parsed (`searchQueries` is still null) — so render() draws the
+ * ENTIRE vault: 10,000 nodes and 75,000 links built on the main thread
+ * and posted to the physics worker. One line later the filter parses,
+ * the next render is (rightly) empty, and setData tears every one of
+ * those back down with Array.remove — Obsidian's remove is a full
+ * backward scan + splice per call, 75,000 times over a 75,000-element
+ * array. Benchmarked at this vault's size, that teardown did not finish
+ * in two minutes on the laptop; on a phone it is the frozen veil that
+ * never lifts — and, before the panic rail, the crash. All of it happens
+ * synchronously inside setViewState, so the veil can't even update.
+ *
+ * The cure is to never draw the unfiltered vault: hold render() from the
+ * moment the engine exists until its first setQuery has parsed our
+ * filter, then hand everything back to Obsidian untouched. Only ever
+ * armed for a preset open, only for that one view. */
+const HOLD_MAX_MS = 4000;
+function holdFirstRender(view: unknown, id: string): void {
+  const eng = (view as { dataEngine?: GraphEngine } | undefined)?.dataEngine;
+  if (!eng?.render || !eng.setQuery) return;
+  const e = eng as GraphEngine & Record<string, unknown>;
+  let held = 0;
+  let released = false;
+  const t0 = Date.now();
+  const release = (why: string) => {
+    if (released) return;
+    released = true;
+    // own-property overrides gone → the prototype methods are back
+    delete e.render;
+    delete e.setQuery;
+    trace("gpreset.first-render-held", { id, held, why, ms: Date.now() - t0 });
+  };
+  e.render = () => { held++; };
+  e.setQuery = function (this: GraphEngine, q: unknown) {
+    release("query");
+    this.setQuery?.(q);
+  };
+  // a hold can't be allowed to stick: if no query ever parses, let go
+  window.setTimeout(() => release("timeout"), HOLD_MAX_MS);
+}
+
+/** Obsidian builds the view inside setViewState via
+ * `viewRegistry.viewByType[type](leaf)` — looked up at call time, which
+ * is the one moment we can reach the engine BEFORE onload renders. Swap
+ * the creator for the duration of the open, put it back after. */
+async function openHeld(app: App, leaf: WorkspaceLeaf, id: string): Promise<void> {
+  const reg = (app as unknown as {
+    viewRegistry?: { viewByType?: Record<string, (l: WorkspaceLeaf) => unknown> };
+  }).viewRegistry;
+  const orig = reg?.viewByType?.graph;
+  if (reg?.viewByType && orig) {
+    reg.viewByType.graph = (l) => {
+      const v = orig(l);
+      holdFirstRender(v, id);
+      return v;
+    };
+  }
+  try {
+    await leaf.setViewState({ type: "graph", active: true });
+  } finally {
+    if (reg?.viewByType && orig) reg.viewByType.graph = orig;
+  }
 }
 
 /** a phone should never be asked to draw this many nodes — if a filter
@@ -286,6 +359,18 @@ function raiseVeil(p: GraphPreset): Veil {
  * (after). */
 export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
   const veil = raiseVeil(p);
+  try {
+    await openUnderVeil(app, p, veil);
+  } catch (err) {
+    // an orphaned veil is the one thing that must never happen — it reads
+    // as "never renders" and leaves nothing but the ✕
+    veil.lower();
+    trace("gpreset.error", { id: p.id, err: String(err).slice(0, 120) });
+    new Notice("Couldn't open that graph — the debug log has the reason.");
+  }
+}
+
+async function openUnderVeil(app: App, p: GraphPreset, veil: Veil): Promise<void> {
   const opts = optionsFor(p);
   const cfg = `${app.vault.configDir}/graph.json`;
   try {
@@ -323,7 +408,17 @@ export async function openGraphPreset(app: App, p: GraphPreset): Promise<void> {
     ?.getViewType?.() === "graph";
   if (!already) {
     recordHistory(leaf);   // the page being left is one back-arrow away
-    await leaf.setViewState({ type: "graph", active: true });
+    await openHeld(app, leaf, p.id);   // graph view, first render held
+    const type = (leaf.view as { getViewType?: () => string } | undefined)
+      ?.getViewType?.();
+    if (type !== "graph") {
+      // setViewState returns silently without swapping while the leaf is
+      // mid-transition ("working") — say so instead of waiting on nothing
+      trace("gpreset.no-view", { id: p.id, type: type ?? "?" });
+      veil.lower();
+      new Notice("The graph view didn't open — tap it once more.");
+      return;
+    }
   }
   await app.workspace.revealLeaf(leaf);
   // once a view exists, escape = back the way you came

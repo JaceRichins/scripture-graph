@@ -11446,6 +11446,46 @@ var HANDOVER_MS = 6e3;
 var EMPTY_MAX_MS = 3e4;
 var CEILING_MS = 12e4;
 var SLOW_NOTE_MS = 8e3;
+var HOLD_MAX_MS = 4e3;
+function holdFirstRender(view, id) {
+  const eng = view?.dataEngine;
+  if (!eng?.render || !eng.setQuery) return;
+  const e = eng;
+  let held = 0;
+  let released = false;
+  const t0 = Date.now();
+  const release = (why) => {
+    if (released) return;
+    released = true;
+    delete e.render;
+    delete e.setQuery;
+    trace("gpreset.first-render-held", { id, held, why, ms: Date.now() - t0 });
+  };
+  e.render = () => {
+    held++;
+  };
+  e.setQuery = function(q) {
+    release("query");
+    this.setQuery?.(q);
+  };
+  window.setTimeout(() => release("timeout"), HOLD_MAX_MS);
+}
+async function openHeld(app, leaf, id) {
+  const reg = app.viewRegistry;
+  const orig = reg?.viewByType?.graph;
+  if (reg?.viewByType && orig) {
+    reg.viewByType.graph = (l) => {
+      const v = orig(l);
+      holdFirstRender(v, id);
+      return v;
+    };
+  }
+  try {
+    await leaf.setViewState({ type: "graph", active: true });
+  } finally {
+    if (reg?.viewByType && orig) reg.viewByType.graph = orig;
+  }
+}
 var MOBILE_PANIC_NODES = 4500;
 function raiseVeil(p) {
   const veil = document.body.createDiv({ cls: "sg-gveil" });
@@ -11488,6 +11528,15 @@ function raiseVeil(p) {
 }
 async function openGraphPreset(app, p) {
   const veil = raiseVeil(p);
+  try {
+    await openUnderVeil(app, p, veil);
+  } catch (err) {
+    veil.lower();
+    trace("gpreset.error", { id: p.id, err: String(err).slice(0, 120) });
+    new import_obsidian2.Notice("Couldn't open that graph \u2014 the debug log has the reason.");
+  }
+}
+async function openUnderVeil(app, p, veil) {
   const opts = optionsFor(p);
   const cfg = `${app.vault.configDir}/graph.json`;
   try {
@@ -11515,7 +11564,14 @@ async function openGraphPreset(app, p) {
   const already = leaf.view?.getViewType?.() === "graph";
   if (!already) {
     recordHistory(leaf);
-    await leaf.setViewState({ type: "graph", active: true });
+    await openHeld(app, leaf, p.id);
+    const type = leaf.view?.getViewType?.();
+    if (type !== "graph") {
+      trace("gpreset.no-view", { id: p.id, type: type ?? "?" });
+      veil.lower();
+      new import_obsidian2.Notice("The graph view didn't open \u2014 tap it once more.");
+      return;
+    }
   }
   await app.workspace.revealLeaf(leaf);
   veil.onCancel(() => goBack(leaf));
