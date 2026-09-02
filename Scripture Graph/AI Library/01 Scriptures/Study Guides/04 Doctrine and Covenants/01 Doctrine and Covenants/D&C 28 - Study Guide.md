@@ -17,12 +17,17 @@ Scripture: [[D&C 28]] · My notes: [[D&C 28 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 28 addresses a conflict over revelatory authority while preserving a meaningful place for personal inspiration. Oliver may teach by the Comforter and receive guidance for his mission, but he may not write commandments for the church or command its presiding leader. The chapter therefore concerns jurisdiction as much as revelation itself. It also commissions Oliver to preach among the Lamanites and states that the exact location of [[Zion]] remains unrevealed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter moves through four connected matters:
+
+1. Verses 1–7 distinguish Joseph's churchwide revelatory role from Oliver's teaching and declaring role.
+2. Verses 8–9 commission a mission among the Lamanites and give only a broad indication concerning [[Zion]].
+3. Verses 10–14 prescribe conference order leadership and the correction of Hiram Page through private counsel, church covenants, order, and common consent.
+4. Verses 15–16 promise continuing guidance during the mission and command persistent, joyful proclamation.
 <!-- SG:END structure -->
 
 ## People
@@ -59,12 +64,15 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sustaining Church Leaders]]
+- [[Covenants]]
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's central teaching about [[Revelation]] is jurisdictional: being led by the Comforter does not itself authorize a person to bind the entire church by written commandment. Recognized appointment, covenants, presiding authority, and common consent all participate in the chapter's model of church order. At the same time, Oliver's permission to teach and receive missionary guidance prevents the passage from being reduced to a denial of revelation outside the presiding prophet.
+
+The wording about appointing another in Joseph's stead is relevant to [[Prophets]] and succession, but it does not specify who the successor would be or how later competing claims should be adjudicated.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,25 +100,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated expression "by way of commandment" is narrower than a blanket prohibition on speaking, teaching, writing, or receiving revelation. The contrast with "by wisdom" in verse 5 appears to distinguish binding church directives from counsel, although the chapter does not define the boundary exhaustively.
+
+The assertion that Zion will be "on the borders by the Lamanites" is deliberately less precise than naming a city or surveyed location. Any attempt to derive an exact site from this chapter alone goes beyond its wording.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The Moses-Aaron comparison provides a compact role analogy: Joseph receives as Moses, while Oliver declares as Aaron. Its immediate literary function is to coordinate unequal but complementary responsibilities. Because analogies are selective, it should not be treated as proof that every feature of Moses, Aaron, Joseph, and Oliver corresponds.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Succession Language
+> The successor clause supplies clear evidence that the chapter's authority structure was not worded as permanently inseparable from Joseph personally, but it gives no procedure for identifying or appointing the eventual successor.
+> — strength 0.8 · confidence 0.9 · well-calibrated, hedges caveats · [[Succession Language in D&C 28|full dossier]]
+
+> [!evidence] Institutional Conflict Narrative
+> The treatment of Hiram Page provides strong evidence for the chapter's own institutional preference: extraordinary spiritual claims are subordinated to recognized appointment, existing covenants, orderly procedure, and communal consent.
+> — strength 0.8 · confidence 0.9 · best-hedged claim, states skeptic view · [[Institutional Conflict Narrative in D&C 28|full dossier]]
+
+> [!evidence] Internal Textual/Historical Coherence *(tentative)*
+> The Moses-Aaron typology of verses 2-3, read alongside the Hiram Page correction in verses 11-12 and the common-consent principle in verse 13, functions rhetorically to consolidate singular revelatory authority in Joseph Smith at a moment when that authority was being informally challenged by competing claimed revelations within the fledgling church.
+> — strength 0.5 · confidence 0.6 · interpretation dressed as evidence
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How does the chapter distinguish inspiration, teaching, counsel, and a binding commandment?
+- What work is done by appointment, covenants, common consent, and prayer in evaluating a revelatory claim?
+- Why is Hiram Page first to be approached privately rather than publicly?
+- What conclusions about succession are justified by verse 7, and which conclusions remain unstated?
+- How should readers respond when a claimed revelation conflicts with an established covenant or authorized stewardship?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the common-consent language of D&C 28:13 with [[D&C 42]] (church order and consecration, given several months later) and the discretionary-action theme of [[D&C 58]] — both are broad thematic parallels rather than close verbal matches. Aaron's role as Moses's spokesman (Exodus 4) is useful background for the analogy in D&C 28:2-3; the ordination material in Exodus 29 is a weaker parallel and is not recommended. Comparisons to D&C 26, D&C 43, or Matthew 18 are plausible but were not mechanically verified here and should be checked before being asserted as settled parallels.
 <!-- SG:END further-study -->
