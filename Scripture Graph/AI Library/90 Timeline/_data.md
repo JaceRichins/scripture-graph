@@ -3224,6 +3224,28 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1sam-12-8fac2c25",
+   "t": "Samuel's Farewell Address at Saul's Coronation",
+   "y0": -1050,
+   "y1": -1020,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional chronologies place Saul's accession and this address c. 1050-1020 BC; precise dating is uncertain because the regnal-year notice in 1 Samuel 13:1 is textually corrupt in the Masoretic Text.",
+   "chapters": [
+    "1 Samuel 12"
+   ],
+   "people": [
+    "Samuel",
+    "Saul"
+   ]
+  },
+  {
    "id": "r-1sam-8-c1db7302",
    "t": "Israel's Demand for a King (transition from judges to monarchy)",
    "y0": -1050,
@@ -6010,6 +6032,31 @@ timeline module, not this file._
    ],
    "things": [
     "Temple of Solomon"
+   ]
+  },
+  {
+   "id": "r-lev-9-18d9c275",
+   "t": "Aaron's Inaugural Sacrifices at the Wilderness Tabernacle",
+   "y0": -1445,
+   "y1": -1444,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places the Exodus and the subsequent Sinai tabernacle legislation, including Aaron's ordination (Leviticus 8) and inaugural sacrifices (Leviticus 9), in the mid-15th century BC under an early-Exodus dating scheme.",
+   "chapters": [
+    "Leviticus 9"
+   ],
+   "people": [
+    "Aaron",
+    "Moses"
+   ],
+   "things": [
+    "Tabernacle",
+    "Altar"
    ]
   },
   {
