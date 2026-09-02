@@ -6360,6 +6360,63 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-38-270b29e5",
+   "t": "Jeremiah imprisoned during Jerusalem's final siege",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The narrative occurs during Babylon's final siege and ends when Jerusalem is taken; the fall is commonly dated to 587 or 586 BCE.",
+   "chapters": [
+    "Jeremiah 38"
+   ],
+   "people": [
+    "Jeremiah",
+    "Zedekiah",
+    "Ebed-melech"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "dungeon",
+    "siege"
+   ]
+  },
+  {
+   "id": "r-jer-38-3785a001",
+   "t": "Babylonian siege and fall of Jerusalem under Zedekiah",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional biblical chronology for the final siege under Nebuchadnezzar II, the setting of Jeremiah 38's events; the wider timeframe is broadly (though not universally) corroborated by external Babylonian records.",
+   "chapters": [
+    "Jeremiah 38"
+   ],
+   "people": [
+    "Zedekiah",
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-jer-39-12c56d2d",
    "t": "Siege and Fall of Jerusalem to Babylon",
    "y0": -588,
