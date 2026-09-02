@@ -37,13 +37,18 @@ Three rules, all of which must hold:
    because the update notice only fires on *newer* versions, nobody is
    told. This is the single most damaging mistake available here.
 
-Also confirm the workspace link exists, or the build is quietly stale:
+Also confirm the workspace link exists, or the build is quietly stale.
+npm workspaces **hoist** the link to the workspace ROOT — it does not
+live inside the plugin's own `node_modules`, so check here:
 
 ```bash
-ls ecosystem/plugins/scripture-graph/node_modules/@scripture-graph
+ls -l ecosystem/node_modules/@scripture-graph      # expect: core-sdk -> ../../packages/core-sdk
 ```
 
-If that is missing, run `npm install` from `ecosystem/` before building.
+If `core-sdk` is missing there, run `npm install` from `ecosystem/`
+before building. (An empty
+`ecosystem/plugins/scripture-graph/node_modules/@scripture-graph` is
+NORMAL and not a problem — nothing is hoisted into the package itself.)
 
 > A note on `git push origin master:main`: that refspec pushes the ref
 > named `master`, **not** whatever branch you have checked out. From a
