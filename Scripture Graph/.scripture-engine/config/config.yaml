@@ -43,6 +43,20 @@ automation:
 bootstrap:
   ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
 
+# Subject dossiers -- people, places, gospel topics, hard questions. Written
+# ONLY after every chapter has been read (the "gate"); then they ride the
+# same AI budget the research used. Defaults shown; uncomment to change.
+# dossier:
+#   after_research: true       # false = write dossiers now, from a partial reading
+#   gate: read-once            # read-once = every chapter researched at least once
+#                              # current = every chapter current at THIS corpus
+#                              #           version (re-closes on every corpus bump)
+#   types: [question, person, place, topic]
+#   refresh_days: 90           # redo a dossier only if the corpus grew AND it is this old
+#   verses_per_chapter: 4      # context size knobs
+#   verse_cap: 60
+#   findings_cap: 40
+
 # providers:
 #   claude: {enabled: auto}   # auto-detects; run `claude /login` once to enable
 #   codex:  {enabled: auto}

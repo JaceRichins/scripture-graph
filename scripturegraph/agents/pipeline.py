@@ -620,7 +620,10 @@ def _quarantine(ctx: Ctx, ws: Path, job_id: str) -> None:
 
 def _persist_outcomes(ctx: Ctx, job_id: str, cslug: str, proposals: dict,
                       judgment: dict, validation: dict, mode: str,
-                      prompt_versions: dict) -> dict:
+                      prompt_versions: dict, node_id: str | None = None) -> dict:
+    """Judged claims and links -> DB. `node_id` lets a subject dossier
+    (agents/dossier.py) land its outcomes on the subject itself; chapter
+    research leaves it unset and lands on the chapter."""
     db = ctx.db()
     by_id: dict[str, dict] = {}
     for label in ("a", "b"):
@@ -628,7 +631,7 @@ def _persist_outcomes(ctx: Ctx, job_id: str, cslug: str, proposals: dict,
             by_id[str(c["id"])] = c
     counts = {"n_accepted": 0, "n_tentative": 0, "n_rejected": 0, "n_low": 0}
     accepted_evidence: list[dict] = []
-    node_id = f"chapter:{cslug}"
+    node_id = node_id or f"chapter:{cslug}"
     for d in judgment.get("decisions", []):
         claim = by_id.get(str(d["claim_id"]))
         if claim is None:

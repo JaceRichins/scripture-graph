@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DossierJudgeDecision",
+  "type": "object",
+  "required": ["decisions"],
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "maxItems": 80,
+      "items": {
+        "type": "object",
+        "required": ["claim_id", "outcome"],
+        "properties": {
+          "claim_id": {"type": "string", "maxLength": 50},
+          "outcome": {"enum": ["ACCEPT", "ACCEPT_LOW_VISIBILITY", "TENTATIVE", "REJECT", "QUARANTINE"]},
+          "scores": {
+            "type": "object",
+            "properties": {
+              "claim_confidence": {"type": "number", "minimum": 0, "maximum": 1},
+              "evidence_strength": {"type": "number", "minimum": 0, "maximum": 1},
+              "study_relevance": {"type": "number", "minimum": 0, "maximum": 1},
+              "source_quality": {"type": "number", "minimum": 0, "maximum": 1}
+            }
+          },
+          "consensus_status": {"type": "string", "maxLength": 80},
+          "rationale": {"type": "string", "maxLength": 800}
+        }
+      }
+    },
+    "link_decisions": {
+      "type": "array",
+      "maxItems": 60,
+      "items": {
+        "type": "object",
+        "required": ["target", "rel", "outcome"],
+        "properties": {
+          "target": {"type": "string", "maxLength": 120},
+          "rel": {"type": "string", "maxLength": 40},
+          "outcome": {"enum": ["ACCEPT", "ACCEPT_LOW_VISIBILITY", "TENTATIVE", "REJECT"]},
+          "rationale": {"type": "string", "maxLength": 400}
+        }
+      }
+    },
+    "section_approvals": {
+      "type": "object",
+      "propertyNames": {"enum": ["assessment", "concise-answer", "conference", "definition", "doctrinal-summary", "evidence", "further-study", "geography", "history", "objections", "overview", "questions", "related", "responses", "scholarship", "scripture-profile", "strongest-evidence", "study-pathways", "synthesis"]},
+      "additionalProperties": {
+        "type": "object",
+        "required": ["use"],
+        "properties": {
+          "use": {"enum": ["a", "b", "merged", "none"]},
+          "merged_text": {"type": "string", "maxLength": 9000},
+          "rationale": {"type": "string", "maxLength": 400}
+        }
+      }
+    },
+    "overall_notes": {"type": "string", "maxLength": 2000}
+  }
+}

@@ -57,12 +57,24 @@ def gather(ctx: Ctx) -> dict:
         "providers": providers,
         "coverage": cov_stats(ctx),
         "weakest": weakest_chapters(ctx, 8),
+        "dossiers": _dossier_progress(ctx),
         "git_rev": gitops.current_rev(ctx),
         "last_runs": [dict(r) for r in db.execute(
             "SELECT kind, started_at, finished_at, status FROM runs "
             "ORDER BY id DESC LIMIT 5")],
     }
     return s
+
+
+def _dossier_progress(ctx: Ctx) -> dict:
+    from scripturegraph.agents.dossier import SUBJECT_TYPES, research_progress
+    marks = ",".join("?" * len(SUBJECT_TYPES))
+    db = ctx.db()
+    return {"done": db.execute("SELECT COUNT(*) AS n FROM passes WHERE name='dossier'")
+            .fetchone()["n"],
+            "total": db.execute(f"SELECT COUNT(*) AS n FROM nodes WHERE node_type IN ({marks}) "
+                                f"AND vault_path IS NOT NULL", SUBJECT_TYPES).fetchone()["n"],
+            "gate": research_progress(ctx)}
 
 
 def _spend_today(ctx: Ctx) -> float:
@@ -86,6 +98,9 @@ def print_status(ctx: Ctx, write_note: bool = True) -> dict:
         f"{s['evidence_notes']} evidence · {s['questions']} questions · "
         f"{s['personal_notes']} personal notes",
         f"Edges: {s['edges']} | Claims: {s['claims'] or '—'}",
+        f"Dossiers: {s['dossiers']['done']}/{s['dossiers']['total']} subjects · "
+        f"gate: canon read {s['dossiers']['gate']['done']}/{s['dossiers']['gate']['total']}"
+        f"{'' if s['dossiers']['gate']['complete'] else ' (waiting)'}",
         f"Corpus: {s['documents']} documents ({s['talks']} talks) · {s['chunks']} chunks · "
         f"embeddings {s['embeddings'] or '—'}",
         f"Sources: {s['sources']}",

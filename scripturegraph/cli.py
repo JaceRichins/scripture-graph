@@ -156,6 +156,37 @@ def cmd_gardener(args):
     return 0
 
 
+def cmd_dossier(args):
+    ctx = _ctx(args)
+    from scripturegraph.agents.dossier import (build_subject_context, pending_subjects,
+                                               research_progress, resolve_subject,
+                                               run_dossier_job, subject_context_markdown)
+    gate = research_progress(ctx)
+    if args.subject is None or args.list:
+        print(f"canon read: {gate['done']}/{gate['total']} chapters "
+              f"({gate['gate']}) -- dossiers {'OPEN' if gate['complete'] else 'waiting'}")
+        pend = pending_subjects(ctx, ignore_gate=True)
+        print(f"{len(pend)} subjects owed a dossier; next in line:")
+        for nid in pend[:25]:
+            print(f"  {nid}")
+        return 0
+    node_id = resolve_subject(ctx, args.subject)
+    if node_id is None:
+        print(f"not a dossier subject (person/place/topic/question): {args.subject!r}",
+              file=sys.stderr)
+        return 2
+    if args.dry_run:
+        print(subject_context_markdown(build_subject_context(ctx, node_id)))
+        return 0
+    if not gate["complete"] and not args.force:
+        print(f"the canon is not read yet ({gate['done']}/{gate['total']}); "
+              f"--force to write this dossier anyway", file=sys.stderr)
+        return 2
+    result = run_dossier_job(ctx, node_id)
+    print(json.dumps(result, indent=2, default=str))
+    return 0
+
+
 def cmd_health(args):
     return cmd_gardener(args)
 
@@ -497,6 +528,15 @@ def main(argv=None) -> int:
     sp = sub.add_parser("gardener", help="maintenance + Graph Health report")
     sp.add_argument("--no-repair", action="store_true")
     sp.set_defaults(fn=cmd_gardener)
+
+    sp = sub.add_parser("dossier", help="deep subject dossiers -- people, places, gospel "
+                                        "topics, hard questions; written after the canon is read")
+    sp.add_argument("subject", nargs="?", help="node id (person:moses), exact title, or alias")
+    sp.add_argument("--list", action="store_true", help="gate status + next subjects in line")
+    sp.add_argument("--dry-run", action="store_true", help="print the research context only")
+    sp.add_argument("--force", action="store_true", help="write it even though the canon "
+                                                        "is not fully read yet")
+    sp.set_defaults(fn=cmd_dossier)
 
     sp = sub.add_parser("health", help="alias of gardener")
     sp.add_argument("--no-repair", action="store_true")

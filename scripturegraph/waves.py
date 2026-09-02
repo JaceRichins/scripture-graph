@@ -78,6 +78,11 @@ def _dispatch_annotate(ctx: Ctx, target: str) -> dict:
     return render_annotated_chapter(ctx, target)
 
 
+def _dispatch_dossier(ctx: Ctx, target: str) -> dict:
+    from scripturegraph.agents.dossier import run_dossier_job
+    return run_dossier_job(ctx, target)
+
+
 PASS_DEFS: dict[str, dict] = {
     "entities":   {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_entities},
     "citations":  {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_citations},
@@ -92,6 +97,10 @@ PASS_DEFS: dict[str, dict] = {
     "embed":      {"scope": "global", "mode": "deterministic", "fn": _dispatch_embed},
     "semantic":   {"scope": "global", "mode": "deterministic", "fn": _dispatch_semantic},
     "research":   {"scope": "chapter", "mode": "ai", "fn": _dispatch_research},
+    # the one pass that deliberately waits: subject dossiers (people, places,
+    # gospel topics, hard questions) are written only after every chapter has
+    # been read -- pending_subjects() returns nothing until then
+    "dossier":    {"scope": "subject", "mode": "ai", "fn": _dispatch_dossier},
 }
 
 
@@ -113,6 +122,9 @@ def pending_targets(ctx: Ctx, name: str, by_priority: bool = False) -> list[str]
         row = db.execute("SELECT corpus_version FROM passes WHERE name=? AND target=?",
                          (name, GLOBAL_TARGET)).fetchone()
         return [] if (row and row["corpus_version"] >= cv) else [GLOBAL_TARGET]
+    if spec["scope"] == "subject":
+        from scripturegraph.agents.dossier import pending_subjects
+        return pending_subjects(ctx)
     if spec["scope"] == "topic":
         rows = db.execute(
             "SELECT n.id FROM nodes n LEFT JOIN passes p ON p.name=? AND p.target=n.id "
@@ -346,6 +358,16 @@ def waves_status(ctx: Ctx) -> dict:
             out[name] = {"scope": "global",
                          "current": bool(row and row["corpus_version"] >= cv),
                          "done_cv": row["corpus_version"] if row else None}
+        elif spec["scope"] == "subject":
+            from scripturegraph.agents.dossier import SUBJECT_TYPES, research_progress
+            marks = ",".join("?" * len(SUBJECT_TYPES))
+            subjects = ctx.db().execute(
+                f"SELECT COUNT(*) AS n FROM nodes WHERE node_type IN ({marks}) "
+                f"AND vault_path IS NOT NULL", SUBJECT_TYPES).fetchone()["n"]
+            done = ctx.db().execute(
+                "SELECT COUNT(*) AS n FROM passes WHERE name=?", (name,)).fetchone()["n"]
+            out[name] = {"scope": "subject", "done": done, "total": subjects,
+                         "gate": research_progress(ctx)}
         else:
             done = ctx.db().execute(
                 "SELECT COUNT(*) AS n FROM passes WHERE name=? AND corpus_version>=?",

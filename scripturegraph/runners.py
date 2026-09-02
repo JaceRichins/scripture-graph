@@ -184,6 +184,9 @@ def run_nightly(ctx: Ctx) -> dict:
         if budget:
             update_all_coverage(ctx)
             enqueue_wave(ctx, "research", limit=budget * 3, by_priority=True)
+            # nothing until the canon is read; then the budget research no
+            # longer needs flows into subject dossiers
+            enqueue_wave(ctx, "dossier", limit=budget)
         stats["queue"] = _process(ctx, include_ai=budget > 0, ai_budget=budget,
                                   max_items=20000)
         update_all_coverage(ctx)
@@ -262,6 +265,7 @@ def run_study(ctx: Ctx) -> dict:
                 from scripturegraph.coverage import update_all_coverage
                 update_all_coverage(ctx)
                 enqueue_wave(ctx, "research", limit=25, by_priority=True)
+                enqueue_wave(ctx, "dossier", limit=25)   # gated: empty until read
             stats["ai"] = _process(
                 ctx, include_ai=True, max_items=None, ai_budget=remaining,
                 deadline_ts=start + window - safety - est)

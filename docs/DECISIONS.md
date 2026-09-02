@@ -1,5 +1,20 @@
 # Engineering Decisions Log
 
+## 2026-09-02 -- Subject dossiers wait for the reading
+
+People, places, gospel topics and hard questions get their deep pages from a
+new AI pass (`dossier`, `scripturegraph/agents/dossier.py`) that is gated on
+the whole canon having been read at least once (`passes.research` covers
+every chapter). Rationale: a dossier written from a third of the canon is
+wrong about the other two thirds and would have to be paid for twice; the
+research findings ARE the raw material, so the pass is only as good as the
+reading it can see. The gate is `read-once`, not "current at this corpus
+version" -- corpus bumps (new talks, documents) re-open chapter research
+gradually and must not re-close the gate. Dossiers are redone only when the
+corpus grew AND the page is 90+ days old. Hard questions go first, then by
+graph degree. The page keeps a hard line between judged prose (the model's)
+and deterministic sections (mentions ledger, scriptural anchors, timeline).
+
 Dated, terse, with rationale. Newest first.
 
 ## 2026-08-27 — Initial build
