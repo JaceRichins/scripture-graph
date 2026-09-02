@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **970 BC–609 BC** — Unbroken royal line, Solomon to Josiah · [[1 Chronicles 3]] · [[1000-901 BC]] *(traditional dating)*
 - **642 BC–640 BC** — Amon's two-year reign and assassination · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 - **640 BC–609 BC** — Reign of Josiah of Judah · [[2 Kings 22]] · [[700-601 BC]] *(traditional dating)*
 - **640 BC–609 BC** — Zephaniah's prophetic ministry under King Josiah · [[Zephaniah 2]] · [[700-601 BC]] *(traditional dating)*

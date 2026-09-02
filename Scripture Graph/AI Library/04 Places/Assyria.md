@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **740 BC–700 BC** — Assyrian expansion and threat toward Jerusalem · [[Isaiah 10]] · [[800-701 BC]] *(approximate)*
+- **734 BC–732 BC** — Assyrian deportation of Reuben, Gad, half-Manasseh · [[1 Chronicles 5]] · [[800-701 BC]] *(historical)*
 - **734 BC–701 BC** — Isaiah's oracles against Assyria (8th century B.C. crisis) · [[2 Nephi 20]] · [[800-701 BC]] *(approximate)*
 - **734 BC–701 BC** — Assyrian crisis oracles in Isaiah 7-10 · [[Isaiah 10]] · [[800-701 BC]] *(approximate)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*

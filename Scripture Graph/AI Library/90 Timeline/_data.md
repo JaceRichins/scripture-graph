@@ -3107,6 +3107,80 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1chr-3-a3c32ea8",
+   "t": "Unbroken royal line, Solomon to Josiah",
+   "y0": -970,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "1 Chronicles 3:10-14 lists a single-son succession from Solomon through Josiah, spanning the united and divided monarchy period down to Josiah's death.",
+   "chapters": [
+    "1 Chronicles 3"
+   ],
+   "people": [
+    "Solomon",
+    "Josiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-1chr-3-b5592cca",
+   "t": "David's forty-year reign, Hebron then Jerusalem",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "1 Chronicles 3:4 gives seven years six months in Hebron plus thirty-three years in Jerusalem, totaling forty years, matching the reign length given in 2 Samuel 5:4-5 and 1 Kings 2:11.",
+   "chapters": [
+    "1 Chronicles 3"
+   ],
+   "people": [
+    "David (king)"
+   ],
+   "places": [
+    "Hebron",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-1chr-5-3d9ea7b0",
+   "t": "Assyrian deportation of Reuben, Gad, half-Manasseh",
+   "y0": -734,
+   "y1": -732,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Correlates with Tiglath-Pileser III's western campaigns against Israel/Gilead described in 2 Kings 15:29; 1 Chronicles 5 itself gives no explicit date for the deportation.",
+   "chapters": [
+    "1 Chronicles 5"
+   ],
+   "people": [
+    "Tilgath-pilneser",
+    "Pul"
+   ],
+   "places": [
+    "Gilead",
+    "Assyria"
+   ]
+  },
+  {
    "id": "r-1chr-9-13557ffc",
    "t": "Babylonian exile and postexilic return to Jerusalem",
    "y0": -586,
@@ -6674,6 +6748,30 @@ timeline module, not this file._
    ],
    "things": [
     "brook Eshcol"
+   ]
+  },
+  {
+   "id": "r-num-8-4cd03cd6",
+   "t": "Consecration of the Levites for tabernacle service",
+   "y0": -1445,
+   "y1": -1444,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Numbers situates this consecration in the wilderness period shortly after the tabernacle's dedication (Numbers 7) and before the second Passover (Numbers 9:1-5); the absolute year depends on the traditional c. 1446 BC Exodus date, which is itself debated among scholars.",
+   "chapters": [
+    "Numbers 8"
+   ],
+   "people": [
+    "Aaron (brother of Moses)",
+    "Moses (prophet)"
+   ],
+   "places": [
+    "Egypt"
    ]
   },
   {
