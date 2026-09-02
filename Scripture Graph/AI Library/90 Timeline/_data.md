@@ -3968,6 +3968,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-18-b1ba8704",
+   "t": "Gallio's proconsulship of Achaia anchors Paul in Corinth",
+   "y0": 51,
+   "y1": 52,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Delphi Inscription records a Claudian rescript naming Gallio as proconsul of Achaia, conventionally dated to AD 51-52, giving Acts 18:12 a fixed external anchor point.",
+   "chapters": [
+    "Acts 18"
+   ],
+   "people": [
+    "Paul",
+    "Gallio"
+   ],
+   "places": [
+    "Corinth"
+   ],
+   "things": [
+    "Delphi Inscription"
+   ]
+  },
+  {
+   "id": "r-acts-23-a90eaf41",
+   "t": "Paul's Sanhedrin trial and transfer to Caesarea",
+   "y0": 57,
+   "y1": 59,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Not dated within the chapter itself; placed via standard reconstructions of Pauline chronology (e.g. the Felix-to-Festus transition and related external synchronisms) that scholars use to date Paul's Caesarean custody.",
+   "chapters": [
+    "Acts 23"
+   ],
+   "people": [
+    "Paul",
+    "Ananias",
+    "Claudius Lysias",
+    "Felix"
+   ],
+   "places": [
+    "Jerusalem",
+    "Caesarea"
+   ]
+  },
+  {
    "id": "r-acts-7-9f4dedbd",
    "t": "Stephen's Speech and Martyrdom in Jerusalem",
    "y0": 33,
