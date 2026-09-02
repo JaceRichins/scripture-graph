@@ -17,12 +17,18 @@ Scripture: [[D&C 59]] · My notes: [[D&C 59 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 59 joins life in [[Zion]] to a comprehensive pattern of covenant faithfulness. Its movement runs from promised blessing to love and moral obligation, from inward [[Sacrifice]] to communal worship, and from joyful Sabbath practice to grateful use of the created world. The conclusion gathers these themes into a promise of present peace and [[Eternal Life]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful reading divides the chapter into five movements:
+
+1. **Blessings for the faithful in Zion (vv. 1-4):** earthly inheritance, rest after death, heavenly reward, commandments, and revelation.
+2. **Foundational obligations (vv. 5-8):** love of God and neighbor, moral prohibitions, [[Gratitude]], and a contrite sacrifice.
+3. **The holy day (vv. 9-15):** gathering, rest, devotion, confession, [[Fasting]], [[Prayer]], and disciplined rejoicing.
+4. **Creation as gift and stewardship (vv. 16-21):** the earth's abundance is for human benefit, yet must be used with judgment rather than excess or extortion.
+5. **Divine conclusion (vv. 22-24):** agreement with the law and prophets, present peace, future life, and the witness of the Spirit.
 <!-- SG:END structure -->
 
 ## People
@@ -38,14 +44,17 @@ _Not yet developed._
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Nephi 2]] — 2 parallel verses, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
-- [[D&C 49]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
-- [[Matthew 22]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
 - [[Luke 10]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-23|D&C 59:23]] ↔ [[Moses 6#^moses-6-59|Moses 6:59]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
-- [[D&C 89]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
-- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
+- [[D&C 89]] — 0 parallel verses
+- [[Deuteronomy 6]] — 0 parallel verses
+- [[Matthew 22]] — 0 parallel verses
+- [[D&C 88]] — 0 parallel verses
+- [[3 Nephi 9]] — 0 parallel verses
+- [[Leviticus 19]] — 0 parallel verses
+- [[Revelation 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -58,7 +67,9 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's teaching on the [[Sabbath Day]] is purpose-centered. The day is intended to help worshipers remain unspotted from the world through rest, devotion, communal worship, confession, and offerings. Its emotional register is thanksgiving and rejoicing, not mere deprivation.
+
+The creation teaching is similarly balanced. Material and sensory goods are affirmed as gifts that can please the eye, gladden the heart, strengthen the body, and enliven the soul. Yet enjoyment is morally bounded: use requires judgment and excludes excess and extortion. This gives [[Gratitude]] an ethical dimension—acknowledging God's hand should affect how gifts are used and shared.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -91,27 +102,31 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several interpretive restatements carry unusual weight. Verse 14 says that fasting and prayer are, “in other words,” rejoicing and prayer; the restatement explains the intended spirit of the practice. Verse 20 qualifies “use” with three ethical terms: judgment, not excess, and not extortion. Verse 23 balances “peace in this world” with “eternal life in the world to come,” preventing the promised reward from being reduced to either immediate prosperity or a wholly future hope.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter is saturated with biblical language. D&C 59:5-6 brings together the love commands behind [[Deuteronomy 6]] and [[Matthew 22]]; D&C 59:8 parallels [[Psalms 51]]; and D&C 59:2 closely parallels [[Revelation 14]]. These observations strongly support deliberate scriptural framing. They do not determine whether the mechanism was revelation, conscious reuse of the King James Bible, shared religious idiom, or some combination.
+
+A second unifying feature is the repeated movement from gift to response: land and revelation call for diligence; divine love calls for love and service; the holy day calls for worship; creation's abundance calls for thanksgiving and restrained use. Blessing and commandment are therefore interwoven throughout the chapter.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Intertextuality
+> The convergence of the love-commandment sequence, Decalogue-like prohibitions, the contrite-heart formula, the rest-and-works-follow promise, and the explicit appeal to the law and the prophets is strong evidence that D&C 59 is deliberately framed through biblical language and categories.
+> — strength 0.8 · confidence 0.9 · Intertextual cluster accepted; intent and mechanism disputed · [[Literary Intertextuality in D&C 59|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+What does it mean in practice to receive commandments and revelations as blessings rather than burdens (v. 4)? How do communal worship and confession contribute to becoming unspotted from the world (vv. 9-12)? What kinds of consumption would the chapter classify as excess or extortion (v. 20)? Does verse 21 function as an exhaustive classification of sin, or as a rhetorical summary of the covenant response demanded here? The immediate antecedent of “this matter” in verse 22 is also not fully recoverable from the chapter alone.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare D&C 59:5-6 with [[Deuteronomy 6]] and [[Matthew 22]]; D&C 59:8 with [[Psalms 51]]; and D&C 59:2 with [[Revelation 14]]. For the relationship between creation, gratitude, and restrained consumption, compare verses 16-20 with [[D&C 89]] and the topic [[Word of Wisdom]].
 <!-- SG:END further-study -->
 
 ## Secondary Sources
