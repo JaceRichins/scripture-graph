@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — D&C 64 given to Joseph Smith at Kirtland, Ohio · [[D&C 64]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -43,6 +43,7 @@ _Not yet developed._
 - **AD 1829** — The Three and the Eight see the plates · [[D&C 17]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — D&C 68 given at a conference of elders, Hiram, Ohio · [[D&C 68]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

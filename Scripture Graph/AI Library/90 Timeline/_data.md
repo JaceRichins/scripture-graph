@@ -5507,6 +5507,79 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-64-9c96744a",
+   "t": "D&C 64 given to Joseph Smith at Kirtland, Ohio",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated September 11, 1831, per the section's historical heading, during the early Kirtland/Zion consecration period.",
+   "chapters": [
+    "D&C 64"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Ezra Booth",
+    "Isaac Morley",
+    "Edward Partridge"
+   ],
+   "places": [
+    "Kirtland"
+   ],
+   "things": [
+    "United Firm store"
+   ]
+  },
+  {
+   "id": "r-dc-65-299bbc6a",
+   "t": "D&C 65 received at Hiram, Ohio",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading attributes this revelation to Joseph Smith at Hiram, Ohio, October 1831, during the period of Bible translation work there.",
+   "chapters": [
+    "D&C 65"
+   ],
+   "places": [
+    "Hiram, Ohio"
+   ]
+  },
+  {
+   "id": "r-dc-68-49903d87",
+   "t": "D&C 68 given at a conference of elders, Hiram, Ohio",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading identifies this as a revelation given through Joseph Smith at a conference of high priests, in response to questions about the missionary calling of Orson Hyde and others, in November 1831.",
+   "chapters": [
+    "D&C 68"
+   ],
+   "people": [
+    "Orson Hyde",
+    "Oliver Cowdery"
+   ],
+   "places": [
+    "Zion"
+   ]
+  },
+  {
    "id": "r-dc-88-33b66a50",
    "t": "D&C 88 ('Olive Leaf') received at Kirtland, Ohio",
    "y0": 1832,
