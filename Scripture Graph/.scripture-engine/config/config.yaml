@@ -43,6 +43,18 @@ automation:
 bootstrap:
   ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
 
+# Secondary sources (podcasts). items_per_night is the number of deep episode
+# analyses the nightly run pays for; the default 3 is why only three episodes
+# had ever been ingested. Raised 2026-09-02 — the podcast text is wanted.
+secondary:
+  items_per_night: 12
+  backlog_per_night: 6
+
+automation_notes: |
+  nightly/weekly wait up to automation.long_lock_wait_sec (default 2700) for the
+  engine lock and study ticks yield to them (see runners._locked). Before this
+  every nightly since Aug 29 skipped on "engine lock held".
+
 # Subject dossiers -- people, places, gospel topics, hard questions. Written
 # ONLY after every chapter has been read (the "gate"); then they ride the
 # same AI budget the research used. Defaults shown; uncomment to change.

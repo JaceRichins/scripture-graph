@@ -40,6 +40,11 @@ def _guard(ctx: Ctx, kind: str) -> bool:
     return True
 
 
+PATIENT_KINDS = ("run_nightly", "run_weekly")
+YIELD_FLAG = "yield.wanted"
+YIELD_FRESH_SEC = 3600
+
+
 def _locked(fn):
     """Every runner is single-instance: overlapping scheduled/manual runs skip.
 
@@ -49,33 +54,60 @@ def _locked(fn):
     race, forfeited its entire 30-minute slot: 12 of 48 daily ticks. With
     parallel workers each forfeited tick costs N times as much.
 
-    So a runner now waits briefly for a SHORT holder before giving up. A long
-    one — a study run overrunning its window, the nightly run — still causes a
-    skip, exactly as before, just decided a minute later. The lock itself is
-    unchanged; only the patience is new."""
+    So a runner waits briefly for a SHORT holder before giving up. A long
+    one — a study run overrunning its window — still causes a skip, just
+    decided a minute later.
+
+    The nightly and weekly runs are the exception, and it took four silent
+    nights to see why: they fire into a day of back-to-back 30-minute study
+    ticks, a 90-second wait never outlasts a tick, and every night from
+    Aug 29 on ended in "run.skipped: engine lock held" — no podcast
+    ingestion, no conference freshen, no deterministic wave refresh, no
+    gardener. So those two are PATIENT (they wait up to
+    `automation.long_lock_wait_sec`, default 45 minutes — longer than any
+    tick) and, while one is waiting, it leaves a `yield.wanted` flag in the
+    state dir that makes the next study tick step aside instead of taking
+    the lock again. One tick a night is the price of the whole nightly."""
     from functools import wraps
 
     @wraps(fn)
     def wrapper(ctx: Ctx) -> dict:
         import time as _time
         from scripturegraph.lockfile import EngineBusy, engine_lock
-        deadline = _time.time() + float(ctx.c("automation.lock_wait_sec", 90) or 0)
+        kind = fn.__name__
+        patient = kind in PATIENT_KINDS
+        flag = ctx.state_dir / YIELD_FLAG
+        if kind == "run_study" and flag.exists():
+            age = _time.time() - flag.stat().st_mtime
+            if age < YIELD_FRESH_SEC:
+                waiting_for = flag.read_text(encoding="utf-8", errors="replace").strip()
+                ctx.log.info("run.yielded", kind=kind, to=waiting_for, flag_age_s=int(age))
+                return {"skipped": f"yielding to {waiting_for}"}
+            flag.unlink(missing_ok=True)   # a stale flag from a run that never came
+        wait_key = "automation.long_lock_wait_sec" if patient else "automation.lock_wait_sec"
+        deadline = _time.time() + float(ctx.c(wait_key, 2700 if patient else 90) or 0)
         waited = False
         while True:
             entered = False
             try:
                 with engine_lock(ctx):
                     entered = True
+                    if patient:
+                        flag.unlink(missing_ok=True)
                     if waited:
-                        ctx.log.info("run.lock_waited", kind=fn.__name__)
+                        ctx.log.info("run.lock_waited", kind=kind)
                     return fn(ctx)
             except EngineBusy:
                 if entered:
                     raise
                 if _time.time() >= deadline:
-                    ctx.log.info("run.skipped", kind=fn.__name__,
-                                 reason="engine lock held")
+                    if patient:
+                        flag.unlink(missing_ok=True)
+                    ctx.log.info("run.skipped", kind=kind, reason="engine lock held")
                     return {"skipped": "another engine run active"}
+                if patient and not flag.exists():
+                    flag.parent.mkdir(parents=True, exist_ok=True)
+                    flag.write_text(kind, encoding="utf-8")
                 waited = True
                 _time.sleep(min(3.0, max(0.1, deadline - _time.time())))
     return wrapper

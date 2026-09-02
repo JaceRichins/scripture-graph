@@ -197,6 +197,33 @@ SEED_SOURCES: list[dict] = [
         "notes": "Spec-approved seed source (§1/§27). Institutional affiliation does "
                  "NOT auto-approve other Scripture Central programs.",
     },
+    {
+        "source_id": "unshaken-saints",
+        "name": "Unshaken Saints",
+        "source_type": "podcast",
+        "hosts": ["Jared Halverson"],
+        "homepage": "https://unshaken.podbean.com",
+        "feed_url": "https://feed.podbean.com/unshaken/feed.xml",
+        "approval_status": "APPROVED",
+        "quality_tier": "A",
+        "seed": 1,
+        "expertise_domains": ["scripture study", "Come Follow Me", "Old Testament",
+                              "New Testament", "Book of Mormon", "close reading",
+                              "literary and historical context"],
+        "faith_orientation": "faithful_lds",
+        "perspective": "Long-form, verse-by-verse scripture teaching by a religious "
+                       "educator (BYU); devotional and pedagogical, with historical "
+                       "and literary context; single-voice, so its readings are one "
+                       "teacher's, not a scholarly consensus.",
+        "strengths": ["sustained close reading of whole books", "clear teaching structure",
+                      "historical and literary framing", "consistent scripture focus"],
+        "limitations": ["single host — no in-episode counterpoint",
+                        "feed carries no transcripts (audio only)",
+                        "devotional application mixed with exegesis"],
+        "notes": "User-directed seed (2026-09-02): Jace asked for it by name. Approved "
+                 "on the same footing as the spec seeds; weekly re-review can still "
+                 "downgrade on a genuine quality collapse.",
+    },
 ]
 
 
