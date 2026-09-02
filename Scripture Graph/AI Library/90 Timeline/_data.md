@@ -3030,6 +3030,33 @@ timeline module, not this file._
    "note": "the long-promised day"
   },
   {
+   "id": "r-1chr-21-d2cc0fe4",
+   "t": "David's Census, Plague, and Purchase of Ornan's Threshingfloor",
+   "y0": -975,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed near the close of David's reign in the biblical narrative sequence, shortly before his preparations for Solomon's temple (1 Chronicles 22); traditional regnal dating for David is approximately 1010-970 BC, but no fixed year is given in the text itself.",
+   "chapters": [
+    "1 Chronicles 21"
+   ],
+   "people": [
+    "David (king)",
+    "Joab",
+    "Gad",
+    "Ornan the Jebusite"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-1chr-29-5aafd402",
    "t": "David's reign over all Israel (Hebron and Jerusalem)",
    "y0": -1010,
@@ -3524,6 +3551,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-30-83183591",
+   "t": "Hezekiah's national Passover reform at Jerusalem",
+   "y0": -726,
+   "y1": -725,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed early in Hezekiah's reign, shortly after his temple purification (2 Chronicles 29) and near the time of the Assyrian conquest of the northern kingdom; exact regnal dating for Hezekiah is disputed among chronologists.",
+   "chapters": [
+    "2 Chronicles 30"
+   ],
+   "people": [
+    "Hezekiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2chr-34-ea14ec68",
    "t": "Discovery of the book of the law (18th year)",
    "y0": -623,
@@ -3627,6 +3678,56 @@ timeline module, not this file._
    "places": [
     "Jerusalem",
     "Babylon"
+   ]
+  },
+  {
+   "id": "r-2kgs-1-003ddf5e",
+   "t": "Mesha's revolt of Moab against Israel (Moabite Stone)",
+   "y0": -850,
+   "y1": -830,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Mesha Stele, a Moabite inscription discovered in 1868 and dated on paleographic and internal grounds to the mid-to-late 9th century BC, records King Mesha's revolt against the 'son of Omri.'",
+   "chapters": [
+    "2 Kings 1"
+   ],
+   "places": [
+    "Moab"
+   ],
+   "things": [
+    "Mesha Stele"
+   ]
+  },
+  {
+   "id": "r-2kgs-1-5ed2e3ce",
+   "t": "Death of Ahaziah and Jehoram's accession in Israel",
+   "y0": -852,
+   "y1": -851,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional regnal chronology (e.g., Thiele) places Ahaziah's brief reign and death shortly after Ahab's death, c. 853/852 BC.",
+   "chapters": [
+    "2 Kings 1"
+   ],
+   "people": [
+    "Elijah",
+    "Ahaziah",
+    "Jehoram"
+   ],
+   "places": [
+    "Samaria"
    ]
   },
   {
@@ -4932,6 +5033,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-26-4a1559c9",
+   "t": "Oracle against Tyre near Jerusalem's fall",
+   "y0": -587,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel 26:1 assigns the oracle to the eleventh year, while verse 2 presupposes news or expectation of Jerusalem's collapse; the missing month prevents a more exact date.",
+   "chapters": [
+    "Ezekiel 26"
+   ],
+   "people": [
+    "Ezekiel",
+    "Nebuchadrezzar"
+   ],
+   "places": [
+    "Tyre",
+    "Jerusalem"
+   ],
+   "things": [
+    "Oracle against Tyre"
+   ]
+  },
+  {
    "id": "r-ezek-27-4f1d26db",
    "t": "Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege",
    "y0": -587,
@@ -4957,6 +5087,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-29-6649a596",
+   "t": "Nebuchadnezzar's costly siege of Tyre",
+   "y0": -585,
+   "y1": -572,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Later oracle in Ezekiel 29:17-20 describes an unrewarded siege of Tyre; a roughly thirteen-year siege is remembered via Josephus's citation of the Phoenician historian Menander of Ephesus.",
+   "chapters": [
+    "Ezekiel 29"
+   ],
+   "people": [
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Tyre"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,
@@ -4975,6 +5128,32 @@ timeline module, not this file._
    ],
    "people": [
     "Ezekiel"
+   ]
+  },
+  {
+   "id": "r-ezra-7-b3ca7cec",
+   "t": "Ezra's Commission and Journey to Jerusalem",
+   "y0": -458,
+   "y1": -458,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Reckoned as the 7th year of Artaxerxes I (465-424 BC), the traditional/majority identification (Ezra 7:7-9), yielding 458 BC; a minority scholarly view identifies the king as Artaxerxes II, yielding 398 BC and reversing the traditional Ezra-before-Nehemiah order.",
+   "chapters": [
+    "Ezra 7"
+   ],
+   "people": [
+    "Ezra",
+    "Artaxerxes"
+   ],
+   "places": [
+    "Babylon",
+    "Jerusalem"
    ]
   },
   {

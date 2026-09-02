@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **458 BC–445 BC** — Ezra reads the law; Nehemiah builds the wall · [[Ezra 7]] · [[Nehemiah 4]] · [[Nehemiah 8]] · [[500-401 BC]] *(historical)*
+- **458 BC** — Ezra's Commission and Journey to Jerusalem · [[Ezra 7]] · [[500-401 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

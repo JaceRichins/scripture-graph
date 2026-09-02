@@ -42,6 +42,7 @@ _Not yet developed._
 - **593 BC–586 BC** — Ezekiel's oracles against Jerusalem before its fall · [[Ezekiel 16]] · [[600-501 BC]] *(approximate)*
 - **593 BC–571 BC** — Ezekiel's exilic ministry and vision of the dry bones · [[Ezekiel 37]] · [[600-501 BC]] *(approximate)*
 - **588 BC** — Babylonian siege of Jerusalem begins (Ezekiel's dated oracle) · [[Ezekiel 24]] · [[600-501 BC]] *(historical)*
+- **587 BC–586 BC** — Oracle against Tyre near Jerusalem's fall · [[Ezekiel 26]] · [[600-501 BC]] *(approximate)*
 - **587 BC–573 BC** — Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege · [[Ezekiel 27]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

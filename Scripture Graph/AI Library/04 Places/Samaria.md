@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **931 BC** — The kingdom divides — Israel and Judah · [[1 Kings 12]] · [[1000-901 BC]] *(historical)*
+- **852 BC–851 BC** — Death of Ahaziah and Jehoram's accession in Israel · [[2 Kings 1]] · [[900-801 BC]] *(traditional dating)*
 - **852 BC–841 BC** — Jehoram of Israel's reign and Moab's rebellion · [[2 Kings 3]] · [[900-801 BC]] *(approximate)*
 - **841 BC–814 BC** — Reign of Jehu over Israel · [[2 Kings 10]] · [[900-801 BC]] *(historical)*
 - **760 BC–722 BC** — Amos and Hosea warn the north · [[Amos 5]] · [[Hosea 11]] · [[800-701 BC]] *(approximate)*

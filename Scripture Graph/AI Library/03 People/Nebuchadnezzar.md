@@ -46,6 +46,7 @@ _Not yet developed._
 - **587 BC–538 BC** — Fall of Jerusalem and the Babylonian exile · [[2 Chronicles 36]] · [[600-501 BC]] *(historical)*
 - **587 BC–573 BC** — Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege · [[Ezekiel 27]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
+- **585 BC–572 BC** — Nebuchadnezzar's costly siege of Tyre · [[Ezekiel 29]] · [[600-501 BC]] *(historical)*
 - **570 BC–567 BC** — Nebuchadnezzar's campaign against Egypt (Amasis) · [[Jeremiah 43]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
