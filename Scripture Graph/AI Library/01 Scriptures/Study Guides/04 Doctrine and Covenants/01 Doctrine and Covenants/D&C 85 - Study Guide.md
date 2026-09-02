@@ -17,12 +17,12 @@ Scripture: [[D&C 85]] · My notes: [[D&C 85 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 85 joins practical administration with prophetic warning. Verses 1–5 define records needed to administer consecrated inheritances in [[Zion]]. Verses 6–10 shift into revelatory language concerning a future ordering of God's house and a warning against unauthorized intervention. Verses 11–12 return to eligibility and records, applying the principle to priesthood holders and members and grounding it in [[Ezra 2]]. The chapter therefore treats documentary enrollment, covenant conduct, and institutional standing as connected, while leaving several prophetic identities and timings unspecified.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is: (1) the clerk and required contents of the record, verses 1–2; (2) consecration, enrollment, and genealogy, verses 3–5; (3) the still, small voice and the promised ordering of inheritances, verses 6–7; (4) the ark warning and promised fulfillment, verses 8–10; and (5) comprehensive application to priesthood and membership through the precedent of [[Ezra 2]], verses 11–12. This progression is clear at the thematic level, but it does not prove a formal literary pattern.
 <!-- SG:END structure -->
 
 ## People
@@ -37,18 +37,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joshua 24]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Joshua 24#^josh-24-26|Joshua 24:26]]
-- [[Nehemiah 8]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]]
+- [[Malachi 3]] — 0 parallel verses
+- [[2 Samuel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Records and Sacred Writings]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Consecration]] as an ordered communal practice involving property, lawful inheritances, and accountable [[Records and Sacred Writings]]. Enrollment has practical consequences for recognized standing in [[Zion]]. The reference to apostasy also shows that initial receipt of an inheritance is not portrayed as guaranteeing continuing eligibility. Because the chapter mixes institutional inheritance language with severe judgment imagery, readers should resist reducing it either to bookkeeping alone or to an unqualified statement about eternal destiny.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -70,25 +72,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several phrases carry recognizable scriptural resonance. 'The still small voice, which whispereth through and pierceth all things' (v. 6) recalls Elijah's theophany in 1 Kings 19:12, though the phrase may reflect common devotional idiom rather than a deliberate allusion. Verse 3's 'tithe' occurs within consecration and inheritance instructions and defines no rate or procedure. The chapter uses at least two record-designations without explaining their relationship: 'book of the law of God' (vv. 5, 7) and 'the book of the law' (v. 11, without 'of God'), versus 'book of remembrance' (v. 9), which parallels Malachi 3:16's 'a book of remembrance was written before him.' Most strikingly, 'they shall be cut asunder, and their portion shall be appointed them among unbelievers, where are wailing and gnashing of teeth' (v. 9) closely parallels Matthew 24:51's 'cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth' — though 'gnashing of teeth' is itself a recurring Gospel formula, so this may draw on shared idiom rather than a specific citation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 7-8 juxtapose two unnamed figures: 'one mighty and strong,' clothed with light and empowered to set the house of God in order, against a man 'called of God and appointed' who dies for putting forth his hand 'to steady the ark of God.' The combination of a hand extended toward the ark and sudden death strongly evokes Uzzah's death in 2 Samuel 6:6-7 (and 1 Chronicles 13:9-10) — specific enough to be more than generic biblical idiom, though the allusion does not itself identify the man or fix any historical fulfillment. The doubled 'shaft' imagery in v. 8 ('the shaft of death... the vivid shaft of lightning') reinforces the suddenness of that death through repetition. By contrast, the chapter's Ezra connection (v. 12) is not an inferred allusion but an explicit, text-declared cross-reference to Ezra 2:61-62, where priestly claimants unable to find their genealogical register were excluded from priesthood service — the strongest-evidenced intertextual claim in the chapter precisely because the text names its own source.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Biblical Literary Allusion
+> The combination of putting forth a hand toward the ark of God and suffering death strongly supports a literary allusion in D&C 85:8 to Uzzah's death in the ark narrative.
+> — strength 0.8 · confidence 0.9 · strong allusion, correctly hedged · [[Biblical Literary Allusion in D&C 85|full dossier]]
+
+> [!evidence] Explicit Scriptural Cross-Reference
+> D&C 85:12 explicitly invokes Ezra 2:61–62, where claimants connected with priestly families cannot find their genealogical registration and are excluded from priesthood. This supplies strong evidence that D&C 85 uses recorded genealogy as an analogy for recognized eligibility and communal standing.
+> — strength 0.9 · confidence 1.0 · explicit text-declared cross-reference, strongest claim in the set · [[Explicit Scriptural Cross-Reference in D&C 85|full dossier]]
+
+> [!evidence] Historical Reception/Interpretation Dispute *(tentative)*
+> The identity of 'one mighty and strong' in verse 7 is not specified in the text itself and has been a historically disputed question within the Latter-day Saint tradition, with various dissenting or splinter figures over the 19th and 20th centuries claiming the title for themselves, while official church discourse has generally declined to offer a definitive identification.
+> — strength 0.3 · confidence 0.5 · disputed; unsourced historical generalizations
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does "that man" in verse 8 refer to the figure in verse 7, or to a different previously appointed administrator?
+
+- Is "in that day" primarily a future administrative crisis, an eschatological judgment, or language that deliberately combines both?
+
+- Are the "book of the law of God" and the "book of remembrance" two names for the same registry?
+
+- How narrowly should the analogy to [[Ezra 2]] control interpretation of the exclusion language?
+
+- What additional historical sources would be required before identifying the "one mighty and strong" with any named individual?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the registry and genealogy language with [[Ezra 2]], the ark warning with [[2 Samuel 6]], and "book of remembrance" with [[Malachi 3]]. These comparisons clarify the chapter's biblical vocabulary, but historical identification of its unnamed figures requires evidence beyond the chapter itself.
 <!-- SG:END further-study -->
