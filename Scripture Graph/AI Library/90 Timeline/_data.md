@@ -5241,6 +5241,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-131-b480bc07",
+   "t": "Joseph Smith's instructions on marriage, prophecy, and spirit (1843)",
+   "y0": 1843,
+   "y1": 1843,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The internal date notation '(May 17th, 1843.)' in D&C 131:5 and the standard published section heading placing these instructions in 1843.",
+   "chapters": [
+    "D&C 131"
+   ],
+   "people": [
+    "Joseph Smith"
+   ],
+   "places": [
+    "Ramus, Illinois"
+   ]
+  },
+  {
    "id": "r-dc-136-89a071f4",
    "t": "Camp of Israel organized at Winter Quarters for westward trek",
    "y0": 1847,
@@ -5577,6 +5600,48 @@ timeline module, not this file._
    ],
    "places": [
     "Zion"
+   ]
+  },
+  {
+   "id": "r-dc-87-f66d7b18",
+   "t": "American Civil War, proposed fulfillment",
+   "y0": 1861,
+   "y1": 1865,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Commonly cited by Latter-day Saints as the war's onset since fighting began at Fort Sumter, South Carolina, though the chapter's 'all nations' language lacks an agreed discrete fulfillment.",
+   "chapters": [
+    "D&C 87"
+   ],
+   "places": [
+    "South Carolina"
+   ]
+  },
+  {
+   "id": "r-dc-87-fe763c17",
+   "t": "South Carolina Nullification Crisis",
+   "y0": 1832,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "South Carolina declared federal tariffs null within its borders and threatened armed resistance; the crisis was defused by the Force Bill and a compromise tariff in early 1833.",
+   "chapters": [
+    "D&C 87"
+   ],
+   "places": [
+    "South Carolina"
    ]
   },
   {
