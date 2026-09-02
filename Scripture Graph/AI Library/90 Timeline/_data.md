@@ -3387,6 +3387,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-5-bbf63e26",
+   "t": "Solomon-Hiram alliance and temple labor mobilization",
+   "y0": -969,
+   "y1": -966,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional chronology places these preparations shortly before Solomon's fourth regnal year (1 Kings 6:1), commonly reckoned near 966 BCE, when temple construction formally began.",
+   "chapters": [
+    "1 Kings 5"
+   ],
+   "people": [
+    "Solomon",
+    "Hiram (king of Tyre)",
+    "Adoniram"
+   ],
+   "places": [
+    "Tyre",
+    "Lebanon"
+   ]
+  },
+  {
    "id": "r-1kgs-6-2f528203",
    "t": "Construction of Solomon's Temple (foundation to completion)",
    "y0": -966,
@@ -5116,6 +5143,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-esth-1-91f6b731",
+   "t": "Ahasuerus (Xerxes I) hosts his third-year feast at Susa",
+   "y0": -483,
+   "y1": -483,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Based on the widely accepted identification of Ahasuerus with Xerxes I of Persia (reigned 486-465 BC, per Achaemenid chronology); 'the third year of his reign' (Esther 1:3) places the feast circa 483 BC.",
+   "chapters": [
+    "Esther 1"
+   ],
+   "people": [
+    "Ahasuerus (Xerxes I)",
+    "Vashti"
+   ],
+   "places": [
+    "Shushan (Susa)"
+   ]
+  },
+  {
    "id": "r-ether-15-c8849241",
    "t": "Final Jaredite War and Destruction at Hill Ramah",
    "y0": -600,
@@ -6595,6 +6647,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-josh-14-d01855b8",
+   "t": "Caleb receives Hebron as his inheritance",
+   "y0": -1400,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Caleb was 40 at the Kadesh-barnea spy mission (Joshua 14:7) and 85 forty-five years later (14:10); under conservative/traditional chronology (Exodus c. 1446 BC), this places the land division roughly a generation after the Exodus, near the close of the initial conquest.",
+   "chapters": [
+    "Joshua 14"
+   ],
+   "people": [
+    "Caleb",
+    "Joshua (son of Nun)"
+   ],
+   "places": [
+    "Hebron"
+   ]
+  },
+  {
    "id": "r-josh-15-bb0fcbc6",
    "t": "Judah's tribal allotment and Caleb's conquest of Hebron",
    "y0": -1400,
@@ -6669,6 +6746,34 @@ timeline module, not this file._
    "places": [
     "Mount of Olives",
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-judg-4-a2cac55e",
+   "t": "Deborah and Barak's deliverance from Jabin of Hazor",
+   "y0": -1200,
+   "y1": -1125,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within the pre-monarchic judges period based on the book's internal cumulative chronology of oppression and rest periods following Ehud; absolute dating is disputed among scholars and not fixed by external synchronism within the text.",
+   "chapters": [
+    "Judges 4"
+   ],
+   "people": [
+    "Deborah",
+    "Barak",
+    "Sisera",
+    "Jael"
+   ],
+   "places": [
+    "Hazor",
+    "River Kishon"
    ]
   },
   {

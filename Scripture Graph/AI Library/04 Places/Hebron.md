@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1350 BC** — Caleb's line: Bezaleel to Judahite town-founding · [[1 Chronicles 2]] · [[1500-1401 BC]] *(traditional dating)*
+- **1400 BC** — Caleb receives Hebron as his inheritance · [[Joshua 14]] · [[1400-1301 BC]] *(traditional dating)*
 - **1400 BC–1370 BC** — Judah's tribal allotment and Caleb's conquest of Hebron · [[Joshua 15]] · [[1400-1301 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — David reigns; Jerusalem the capital · [[2 Samuel 5]] · [[Psalm 23]] · [[1100-1001 BC]] *(approximate)*
 - **1010 BC–970 BC** — David's reign over all Israel (Hebron and Jerusalem) · [[1 Chronicles 29]] · [[1100-1001 BC]] *(traditional dating)*
