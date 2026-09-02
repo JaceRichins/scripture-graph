@@ -5455,6 +5455,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-56-7225f5d0",
+   "t": "Revocation of Missouri travel assignments, Kirtland area",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading and surrounding manuscript context place this revelation in September 1831, amid the early Missouri-gathering assignments given to Colesville-area Saints.",
+   "chapters": [
+    "D&C 56"
+   ],
+   "people": [
+    "Thomas B. Marsh",
+    "Ezra Thayre",
+    "Selah J. Griffin",
+    "Newel Knight"
+   ],
+   "places": [
+    "Missouri",
+    "Thompson, Ohio"
+   ]
+  },
+  {
+   "id": "r-dc-63-9b03722d",
+   "t": "D&C 63 given at Kirtland, Ohio",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Widely documented as received August 1, 1831, shortly after Joseph Smith's return from the first journey to Missouri; not stated within the verse text itself.",
+   "chapters": [
+    "D&C 63"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Sidney Rigdon"
+   ],
+   "places": [
+    "Kirtland"
+   ]
+  },
+  {
    "id": "r-dc-88-33b66a50",
    "t": "D&C 88 ('Olive Leaf') received at Kirtland, Ohio",
    "y0": 1832,
