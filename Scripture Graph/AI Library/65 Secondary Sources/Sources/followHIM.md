@@ -40,3 +40,4 @@ Perspective label: `faithful_lds` (tracked separately from quality — §8)
 ## Ingested episodes
 
 - 2026-08-20 [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] (quality 84)
+- 2026-08-20 [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] (quality 75)

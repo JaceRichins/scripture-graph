@@ -41,3 +41,8 @@ _Not yet developed._
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-01 220 - The Rise of Mitt Romney & The Mormon Moment I Religion & Politic|220 - The Rise of Mitt Romney & The Mormon Moment I Religion & Politics I Church]] — Church History Matters · tier A
+<!-- SG:END secondary-sources -->

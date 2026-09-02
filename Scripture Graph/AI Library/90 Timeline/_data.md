@@ -5977,6 +5977,50 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ps-106-6d75700c",
+   "t": "Likely exilic setting behind Psalm 106's closing plea",
+   "y0": -586,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Verse 47's plea to 'gather us from among the heathen' reflects an audience experiencing dispersion; many scholars place the psalm's final form in the exilic or early post-exilic period.",
+   "chapters": [
+    "Psalm 106"
+   ]
+  },
+  {
+   "id": "r-ps-106-f03f36c5",
+   "t": "Exodus and wilderness rebellions recalled in Psalm 106",
+   "y0": -1446,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology for the Exodus and forty-year wilderness period covering the events recounted in vv.7-33 (Red Sea, golden calf, Baal-peor, Meribah).",
+   "chapters": [
+    "Psalm 106"
+   ],
+   "people": [
+    "Moses",
+    "Aaron",
+    "Phinehas"
+   ],
+   "places": [
+    "Egypt",
+    "Canaan"
+   ]
+  },
+  {
    "id": "r-ps-69-6f4bef01",
    "t": "Traditional Davidic authorship of Psalm 69",
    "y0": -1010,
@@ -5998,6 +6042,50 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zeph-2-6d26c020",
+   "t": "Zephaniah's prophetic ministry under King Josiah",
+   "y0": -640,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Zephaniah 1:1 dates the prophet's activity to the reign of Josiah, king of Judah (traditionally ca. 640-609 BC).",
+   "chapters": [
+    "Zephaniah 2"
+   ],
+   "people": [
+    "Zephaniah",
+    "Josiah"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
+   "id": "r-zeph-2-b4ea214f",
+   "t": "Fall of Nineveh to Babylonian-Median coalition",
+   "y0": -612,
+   "y1": -612,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Nineveh fell in 612 BC to a coalition of Babylonian, Median, and allied forces, ending Assyrian imperial dominance; attested in the Babylonian Chronicles and archaeological destruction layers.",
+   "chapters": [
+    "Zephaniah 2"
+   ],
+   "places": [
+    "Nineveh"
    ]
   }
  ],

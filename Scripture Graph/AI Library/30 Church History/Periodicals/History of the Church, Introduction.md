@@ -9,13 +9,15 @@ published: 1902-1912
 authority_category: 4
 licence: public-domain
 text_provenance: archive.org OCR
-indexed_chunks: 4517
+indexed_chunks: 4458
+ocr_score: 97.3
+ocr_paragraphs_dropped: 59
 ---
 
 # History of the Church, Introduction
 
 > [!quote] Public-domain primary source
-> Contemporary printed text, ingested in full into the study index (4517 passages). Public domain — quote freely, but verify wording against the page images, as this text is OCR.
+> Contemporary printed text, ingested into the study index as 4458 searchable passages at 97.3% OCR confidence; 59 illegible passage(s) were rejected by the quality gate. Public domain — quote freely, but verify wording against the page images, as this text is OCR.
 
 **Source:** History of the Church (B. H. Roberts ed.)  
 **Published:** 1902-1912  
@@ -27,88 +29,7 @@ indexed_chunks: 4517
 
 ## Excerpt
 
-> HAROLD Bt-ffiUfP'--' 
-> 
-> QUIQHAM YOviNG UNI . 
-> 
-> PROVO. UTAir 
-> 
-> Digitized by the Internet Archive  in 2011 with funding from 
-> Brigham Young University 
-> 
-> I 
-> 
->  http://www.archive.org/details/historyofchurchoOOrobe 
-> 
-> WJ2 
-> 
-> HoH 
-> 
-> HISTORY 
-> 
-> OF THE 
-> 
-> CHURCH OF JESUS CHRIST 
-> 
-> OF 
-> 
-> LATTER^DAY SAINTS 
-> 
-> PERIOD II 
-> 
-> From the Manuscript History of Brigham 
-> Young and Other Original Documents 
-> 
-> VOLUME VII 
-> 
-> AN introduction AND NOTES 
-> 
-> BY 
-> B. H. Roberts 
-> 
-> PUBLISHED BY THE CHURCH 
-> 
-> Deseret News 
-> 
-> SALT LAKE CITY, UTAH 
-> 
-> 1952 
-> 
-> Copyrighted by 
-> 
-> HEBER J. GRANT 
-> 
-> FOR 
-> 
-> The Church of Jesus Christ 
-> 
-> OF 
-> 
-> Latter-day Saints 
-> 1932 
-> 
->  printed in the united states op AMERICA 
-> 
-> HAHQLD B. LEE L ii^OAr^^ 
-> PROVO, UTAH 
-> 
-> MOUNT ENSIGN 
-> (Cover Indent-gravure) 
-> 
-> "All ue inhabitants of the world, and dwellers on the earth, see  ye, when he lifteth up an Ensign on the mountains; and when he  bloweth a trumpet, hear ye." — {Isa. xviii:3) 
-> 
-> On the cover of each of the six preceding volumes of  this series of the History of the Church, Period I, there  has appeared in low relief an indent-gravure of some  prominent place: the Hill Cumorah, the Kirtland Tem-  ple, the Liberty Prison, the Nauvoo Mansion, and the 
-> Carthage Jail; and for this Period II, volume VII, since  it brings us in its action into Salt Lake valley, a Utah  subject of first importance is selected, viz, ''Mount 
-> Ensign", It is generally referred to as "Ensign Peak". 
-> Elder Woodruff, among those who first climbed the 
-> Mount, says in his Journal entry of that date — July 
-> 26, 1847: 
-> 
-> "We went on the top of a high peak in the edge of the mountain,  which we considered a good place to raise an Ensign. So we named it 
-> 'Ensign Peak', or 'Hill'." 
-> 
-> Captain J. W, Gunnison, refers to it in his The 
-> Mormons, 1856, (pp. 33-4), as "Ensign Mound".
+> 286 HISTORY OF THE CHURCH ^A. D. 1844 midst, saying, he had come to preach the gospel, to tell us that God was about to restore the priesthood, and save the people, etc., it would be your privilege, and my privilege to ask God in the name of Jesus Christ, as individuals, concerning this thing, whether it was of God, and get a testimony from God that it was true, and this would be revelation. Let us take some of these old fathers for an example, they have heard the gospel, they have been baptized, etc., had hands laid on them for the gift of the Holy Ghost — he has got a family of children, he has been led all his days by his own spirit, but now begins to come to understand he has the right to bow before the Lord and receive instruction from God, from day to day, how to manage his family, his farm, his merchandise, and to govern all the affairs of his house. I will take some of my younger brethren who have received the gospel, they have been ordained an elder to hold the keys, etc. What is your privilege? It is your privilege to go and preach the gospel to the world, and to go by the power of the Holy Ghost, and you have no right to go without it. You have been ordained to go forth and build up the kingdom to a certain extent. No man ever preached a gospel dis- course, nor ever will, unless he does it by revelation.
 
 ---
 

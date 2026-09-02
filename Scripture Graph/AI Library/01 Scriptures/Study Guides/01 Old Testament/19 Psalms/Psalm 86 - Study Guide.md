@@ -94,5 +94,6 @@ _Not yet developed._
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
+- [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A · from 39:35 (Psalm 86: unite my heart, consecration)
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
 <!-- SG:END secondary-sources -->

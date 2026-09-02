@@ -9,13 +9,15 @@ published: '1839-12-01'
 authority_category: 4
 licence: public-domain
 text_provenance: archive.org OCR
-indexed_chunks: 179
+indexed_chunks: 174
+ocr_score: 95.2
+ocr_paragraphs_dropped: 5
 ---
 
 # Times and Seasons 1839-12-01 (Vol. 1 No. 2)
 
 > [!quote] Public-domain primary source
-> Contemporary printed text, ingested in full into the study index (179 passages). Public domain — quote freely, but verify wording against the page images, as this text is OCR.
+> Contemporary printed text, ingested into the study index as 174 searchable passages at 95.2% OCR confidence; 5 illegible passage(s) were rejected by the quality gate. Public domain — quote freely, but verify wording against the page images, as this text is OCR.
 
 **Source:** Times and Seasons (Nauvoo, 1839-1846)  
 **Published:** 1839-12-01  
@@ -27,30 +29,7 @@ indexed_chunks: 179
 
 ## Excerpt
 
-> TIMES AND SEASONS. 
-> 
-> “TRUTH WILL PREVAIL.” 
-> 
-> | the indigoation of others. In the spring 
-> PERSECUTION, of 1832 they began to brick-bat or 
-> _ OF JESUS CHRIST, OF LAT- |istone the houses of the saints, breaking 
-> 
-> | IN in windows, &c., not only disturb-  gpliptees — ing, but endangeriag the lives of the » 
-> MISSOURI. - jinmates. In the course of that season 
-> 
-> | . county meeting was called at Inde- 
->  nting to our readers, a his-| pendence, to adopt measures. to drive  tory of the persecution of the church}. people from the country; but the  of Jesus Christ of Latter Day Saints, in| without roe  the State of Missouri, we feel it cu lany agreement about them ; : having  the too much confusion among them- 
-> We are well aware, that many Of our | selves, to do more than to have a few  redders are well acquainted with the I: nock-downs, after taking a plentiful  outrages, committed in Jackson county, supply of whisky. The result of this 
-> (on account of their having ‘been pub- | cotin may be attributed in ‘part, fo  lished in the coma and Morning ithe influence of. certain patriotic indi- 
-> Star,) and might perhaps rather see viduals; among whom General Clark,  the paper filled with other matter, than | enb-Indien mad be  to have those former troubles presented | Shame ge, 
-> 
->  before them again. Yet theré are a} as printipal, “He hedring of the meet- 
-> 
->  ing, came from his: agency, or from  grat any thers who ime, tii o forty mie di  tions, who would feel that we had not cay or the  done our daty, were we to pass by|} He «ppeared quite indignant, at the  them, and confine our history, to‘ more |} idea of having the constitution and laws 
-> 
->  recent transactions. | : on al defiance, aad trodden under foot, 
-> 
-> __In the winter of 1890-31, five elders] ine few.
+> President J. Smith, Jr. then spoke as to appointing a Patriarch and other matters connected with the well being of the church. Having now got through the business matters, the Pres- ident proceeded to give instructions to the Elders; respecting preaching the gospel, and pressed upon them the ne- cessity of getting the spirit, so that they might preach with the Holy Ghost sent down from heaven, to be careful in speaking on those subjects which are not clearly pointed out in the word of. God, which lead to speculation and strife.
 
 ---
 
