@@ -17,22 +17,22 @@ Scripture: [[D&C 122]] · My notes: [[D&C 122 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 122 addresses a particular sufferer without promising that suffering will be avoided. After contrasting hostile and honorable responses, it gathers an extensive conditional catalogue of betrayal, accusation, family separation, confinement, mortal danger, hostile nature, and hellish opposition. The response is that these things shall give the addressee experience and be for his good, that the Son of Man has descended below them all, and that he should hold on without fearing human power. The chapter promises continuing divine presence and bounded opposition, while leaving the timing and mechanism of the promised good unexplained.
+D&C 122 addresses suffering without promising its avoidance. After juxtaposing derision and hellish hostility with honorable people seeking counsel, authority, and blessings, it gathers betrayal, accusation, family separation, imprisonment, mortal danger, hostile nature, and hellish opposition into an extended conditional catalogue. The response does not explain the cause of each ordeal: the addressee is told that these things will give him experience and be for his good, that the Son of Man has descended below them all, and that he should hold on without fearing human power. Divine presence is promised, while the timing and mechanism of the promised good remain unexplained. Verse 9 may portray opposing power as bounded, but the antecedent of “their” is uncertain.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Contrasting responses (vv. 1–2):** derision and hostility are set against people seeking counsel, authority, and blessings.
+1. **Contrasting responses (vv. 1–2):** worldwide attention, derision, and hellish hostility are juxtaposed with the pure in heart, wise, noble, and virtuous seeking counsel, authority, and blessings.
 
-2. **Trouble and reassurance (vv. 3–4):** traitorous influence may cause confinement, but honor and divine support are promised.
+2. **Trouble and reassurance (vv. 3–4):** traitorous influence may lead to confinement, yet honor and enduring divine support are promised.
 
-3. **Conditional ordeal catalogue (vv. 5–7):** repeated “if” clauses accumulate social, familial, judicial, physical, natural, and cosmic dangers, culminating in the jaws of hell.
+3. **Conditional ordeal catalogue (vv. 5–7):** repeated “if” clauses accumulate interpersonal, familial, judicial, physical, natural, and cosmic dangers before reaching “know thou, my son.”
 
-4. **The Son of Man (v. 8):** two short sentences redirect attention from the catalogue to Christ's descent below all.
+4. **The Son of Man (v. 8):** two short sentences interrupt the long conditional construction and redirect the discourse to Christ's descent.
 
-5. **Exhortation and assurances (v. 9):** the addressee must hold on; priesthood remains, bounds cannot be passed, his days are known, and God remains present.
+5. **Exhortation and assurances (v. 9):** “Therefore” introduces the command to hold on, followed by assurances concerning priesthood, fixed but ambiguously attributed bounds, known days, and divine presence.
 
-The similar assurances of God's presence in verses 4 and 9 form a verbal frame around the central ordeal sequence.
+Related assurances of God's presence in verses 4 and 9 descriptively surround the central ordeal sequence, although the wording does not establish a formal inclusio.
 <!-- SG:END structure -->
 
 ## People
@@ -49,23 +49,22 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 121]] — 0 parallel verses
 - [[2 Corinthians 11]] — 0 parallel verses
-- [[Psalm 118]] — 0 parallel verses
-- [[D&C 88]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Adversity]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Endurance]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter connects [[Adversity]] with experience and promised good, but it neither calls hostile acts morally good nor explicitly says God directly causes every threatened event. Because the promise addresses a particular “my son,” applying it to every person's suffering requires an additional interpretive step.
+The chapter connects [[Adversity]] with experience and promised good, but it does not call persecution morally good or explicitly attribute every hostile act directly to God. Nor does it say when or by what mechanism suffering becomes beneficial. Its promise is addressed to a particular “my son”; extending it unchanged to every sufferer is a theological application rather than a simple textual observation.
 
-Verse 8 makes [[Jesus Christ (Gospel Topic)]] the central comparison for [[Endurance]]. It may reasonably be studied alongside the [[Atonement of Jesus Christ]], but the chapter itself does not identify an atoning episode or explain the mechanics of Christ's descent.
+Verse 8 places [[Jesus Christ (Gospel Topic)]] at the center of [[Endurance]]. The comparison can be studied alongside the [[Atonement of Jesus Christ]], especially [[Alma 7]], but D&C 122 itself neither identifies a particular atoning episode nor explains how Christ descended below all.
 
-The promise that [[Priesthood]] will remain with the addressee is personal and ordeal-specific. The chapter does not develop a general doctrine of priesthood authority, succession, or worthiness.
+The assurance that [[Priesthood]] will remain is personal and ordeal-specific. It does not independently formulate general rules about priesthood succession, worthiness, or indefectibility.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,22 +94,26 @@ The promise that [[Priesthood]] will remain with the addressee is personal and o
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The repeated **if** clauses in verses 5–7 allow actual circumstances, anticipated dangers, and rhetorical extremes to be gathered into one sequence. They do not require every item to be read as a prediction certain to occur.
+The repeated **if** clauses in verses 5–7 allow actual circumstances, anticipated dangers, and rhetorical extremes to be gathered without requiring every item to be a prediction certain to occur.
 
-The peril language in verse 5 closely parallels [[2 Corinthians 11]], especially 11:26. Shared diction and list form are clear, but they do not determine whether the relationship reflects conscious allusion, habitual King James Bible register, revelatory accommodation, or another process.
+The “in perils” language closely parallels [[2 Corinthians 11]], especially 11:26. The exact shared phrase “in perils among false brethren,” together with robber and sea-peril diction, makes this a meaningful lexical and formal parallel. It does not determine whether the relationship reflects conscious allusion, habitual King James Bible register, revelatory accommodation, or another process. The verified index's zero count means that no whole verse qualified as an overlap; it does not negate the validated shorter phrase match.
 
-In verse 8, **them all** most naturally recalls the accumulated ordeals, although a broader descent-below-all formula remains possible. In verse 9, the antecedent of **their** in “their bounds are set” is not explicitly named; enemies or the collective opposing forces are plausible. The final change from singular **thee** to plural **you** may broaden the assurance, but the chapter does not explain the shift.
+In verse 8, **them all** most immediately recalls the accumulated ordeals, although a broader formula remains possible. In verse 9, the antecedent of **their** is not stated. Enemies or collective opposing forces are plausible, but other readings should remain open. The final change from singular **thee** to plural **you** may broaden the assurance or may reflect variable usage.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The central catalogue works by repetition and accumulation rather than a perfectly ordered ascent. It moves among betrayal, robbery, accusation, family rupture, imprisonment, threats of death, the deep, storm, cosmic darkness, and finally the jaws of hell. The child's direct speech in verse 6 interrupts the breadth of the catalogue with intimate human pathos.
+The central catalogue derives force from repetition, syntactic delay, and widening scope. It moves among social betrayal, crime, accusation, family rupture, imprisonment, execution, the sea, storm, darkened heavens, and finally the jaws of hell. The child's direct speech in verse 6 interrupts these large-scale dangers with intimate pathos.
 
-Verse 8 then breaks the long conditional sequence with two short sentences about the Son of Man. The opening **Therefore** in verse 9 links that comparison—and plausibly the whole preceding revelation—to the command to hold on. This is strong evidence of rhetorical shaping, but it does not establish a formal pattern, source mechanism, or conclusion about authorship.
+Verse 8 sharply breaks the long conditional sentence with two short statements about the Son of Man. Verse 9 then begins “Therefore,” converting the comparison into an exhortation to continue. Together with the divine-presence assurances in verses 4 and 9, these features strongly support rhetorical shaping. They do not establish a rigid formal scheme or any particular theory of authorship.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Literary Structure
+> The extended conditional syntax, the intimate interruption by the child's speech, the abrupt two-sentence christological pivot, the inferential “Therefore,” and the repeated assurances of permanent divine presence jointly provide strong evidence that the chapter is rhetorically shaped around endurance under escalating opposition.
+> — strength 0.8 · confidence 0.9 · Strong literary synthesis with disputed intentionality · [[Literary Structure in D&C 122|full dossier]]
+
 > [!evidence] Internal Literary Structure
 > The progression from social opposition to bodily danger, family rupture, death, cosmic obstruction, and hell is strong internal evidence that the passage is rhetorically shaped to imagine an increasingly comprehensive ordeal.
 > — strength 0.7 · confidence 0.9 · broad literary pattern accepted · [[Internal Literary Structure in D&C 122|full dossier]]
@@ -118,6 +121,10 @@ Verse 8 then breaks the long conditional sequence with two short sentences about
 > [!evidence] Literary-Contextual
 > Within the chapter's argument, verse 8 is strong textual evidence that the catalogue of suffering is intended to lead into humility and endurance: the Son of Man's descent below all is followed immediately by the conclusion, 'Therefore, hold on thy way.'
 > — strength 0.9 · confidence 1.0 · strong literary inference · [[Literary-Contextual in D&C 122|full dossier]]
+
+> [!evidence] Intertextual Language
+> The parallels with 2 Corinthians 11:26 and Psalm 118:6 provide strong evidence that D&C 122 employs recognizable King James Bible diction and motifs.
+> — strength 0.7 · confidence 0.9 · Biblical register accepted; precise mechanism disputed · [[Intertextual Language in D&C 122|full dossier]]
 
 > [!evidence] Verbal Intertextuality
 > D&C 122:5 shares a conspicuous cluster of peril expressions with Paul's catalogue in 2 Corinthians 11:26, including robbers, land or sea, and false brethren. This strongly supports a textual or scriptural-language relationship, but the parallel alone cannot determine the direction or mechanism of that relationship.
@@ -130,22 +137,24 @@ Verse 8 then breaks the long conditional sequence with two short sentences about
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Which events in verses 5–7 are remembered circumstances, anticipated dangers, hypothetical extremes, or recurring patterns?
+- Which ordeals in verses 5–7 represent experienced circumstances, anticipated threats, hypothetical extremes, or reusable scriptural images?
 
-- What does “all these things” include, and what—if anything—does the chapter reveal about when or how they are “for thy good”?
+- What does “all these things” include, and what does the chapter leave unexplained about when or how they become “for thy good”?
 
 - How far may a promise addressed to “my son” be extended to other sufferers?
 
-- Does “descended below them all” refer chiefly to the enumerated ordeals, to a broader cosmic descent, or to both?
+- Does “descended below them all” refer principally to the listed ordeals, to a broader descent, or to both?
 
-- How does “Art thou greater than he?” combine admonition, humility, and compassionate identification without minimizing suffering?
+- How does “Art thou greater than he?” combine admonition, humility, and identification with suffering without minimizing the ordeal?
 
-- Who or what is the most likely antecedent of “their” in verse 9?
+- What is the antecedent of “their” in verse 9, and what kind of boundary is envisioned?
+
+- Does the final plural “you” broaden the promise beyond the singular addressee?
 
 - What becomes clearer when the chapter is read with [[D&C 121]], [[D&C 88]], and [[2 Corinthians 11]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Begin with the immediate continuation from [[D&C 121]], especially its language of affliction lasting “but a small moment.” Compare the peril catalogue with [[2 Corinthians 11]] and distinguish verbal resemblance from claims about intentional allusion or composition. [[D&C 88]] supplies a close descent-below-all parallel, while [[Alma 7]] offers a broader theological analogy connecting Christ's sufferings with experiential knowledge and succor. Psalm 118 and Psalm 56 provide biblical comparisons for the command not to fear human power; Romans 8 offers a looser conceptual comparison concerning good. These parallels illuminate possible readings but do not determine the original meaning or theological status of D&C 122.
+Begin with [[D&C 121]], especially its “small moment” assurance, while distinguishing short phrase continuity from whole-verse overlap. Compare the peril catalogue with [[2 Corinthians 11]]: the lexical and list-form resemblance is clear, but intentional quotation and compositional mechanism remain uncertain. [[D&C 88]] supplies a close descent-below-all formula, while [[Alma 7]] offers a broader theological comparison concerning Christ's experience of affliction and capacity to succor. [[Psalm 118]] provides a biblical comparison for refusing to fear human power because of divine presence, though the motif is not unique to that psalm. These comparisons illuminate possible readings but do not determine authorship, historical authenticity, or the revelation's larger truth claims.
 <!-- SG:END further-study -->
