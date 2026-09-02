@@ -99,12 +99,16 @@ Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring a
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The text repeatedly calls the proposed building a "house" or a "house unto my name" (verses 8, 10, 13-16); the word "temple" does not occur in the chapter. Reading the house as a temple is contextually natural, especially beside [[D&C 95]], [[D&C 97]], and [[D&C 124]], but that identification is an interpretation of the terminology rather than the chapter's explicit noun. Verse 5's combination of arising, shining, light, and nations strongly recalls [[Isaiah 60]], though it is not presented as a formal quotation.
+The text repeatedly calls the proposed building a "house" or a "house unto my name" (verses 8, 10, 11, 13, 14; verses 12, 15-16 refer to it only by pronoun). The word "temple" does not occur anywhere in the chapter. Reading the house as a temple is contextually natural, especially beside [[D&C 95]], [[D&C 97]], and [[D&C 124]], but that identification is an interpretation of the terminology rather than the chapter's explicit noun.
+
+Verse 5's cluster of arising, shining, light, and "a standard for the nations" closely resembles [[Isaiah 60]] 60:1-3 ("Arise, shine; for thy light is come... the Gentiles shall come to thy light, and kings to the brightness of thy rising") — a strong four-element verbal and thematic echo. D&C 115 does not introduce this as a formal quotation, so the resemblance is best described as an allusion rather than established textual dependence.
+
+Verse 6's description of wrath "poured out without mixture upon the whole earth" reproduces an unusually specific KJV phrase from Revelation 14:10 ("poured out without mixture into the cup of his indignation"). This shared wording is more distinctive than ordinary KJV idiom, though it likewise falls short of a marked quotation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The discourse widens its audience from named leaders to worldwide membership in verses 1-3, then shifts into collective imperatives: arise, shine, gather, build, and labor. Repetition of "labor diligently" in verses 10 and 12 emphasizes sustained completion. The balanced alternatives in verses 15-16—failure or success in following the pattern—make acceptance explicitly conditional.
+The discourse widens its audience from named leaders to worldwide membership in verses 1-3, then shifts into collective imperatives: arise, shine, build, and labor diligently; the accompanying command to gather (vv. 6, 8) is expressed as a purpose or result rather than as a parallel imperative verb. Repetition of "labor diligently" in verses 10 and 12 emphasizes sustained completion. Verse 12's phrase "from the cornerstone thereof unto the top thereof" functions as a merism, naming two structural extremes to express the totality of the building's intended completion ("until there shall not anything remain that is not finished"). The balanced alternatives in verses 15-16 — failure or success in following the pattern — make acceptance explicitly conditional.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -112,6 +116,10 @@ The discourse widens its audience from named leaders to worldwide membership in 
 > [!evidence] Internal Primary Textual Evidence
 > Verse 4 is direct primary-text evidence that this revelation prescribes the designation The Church of Jesus Christ of Latter-day Saints for the church in the last days.
 > — strength 1.0 · confidence 1.0 · Unanimous and mechanically verified · [[Internal Primary Textual Evidence in D&C 115|full dossier]]
+
+> [!evidence] Intertextual Verbal Resemblance
+> The cluster of arising, shining, light, and nations in D&C 115:5 resembles Isaiah 60:1-3 strongly enough to support an Isaianic echo, but not strongly enough by itself to establish a formal quotation or a specific mode of textual dependence.
+> — strength 0.6 · confidence 0.9 · strong, well-hedged intertextual echo · [[Intertextual Verbal Resemblance in D&C 115|full dossier]]
 
 > [!evidence] Textual And Administrative Specificity
 > The named recipients, specified location, phased schedule, financial constraint, construction standard, and provision for later expansion constitute strong textual evidence that the chapter presents itself as a concrete administrative directive rather than only a general devotional discourse.
@@ -124,10 +132,10 @@ The discourse widens its audience from named leaders to worldwide membership in 
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-What kinds of protection are intended by the images of defense, refuge, storm, and wrath in verse 6—physical, spiritual, communal, eschatological, or some combination? Why does verse 13 restrict the debt instruction to three named leaders? What would the promised building pattern include, given that the chapter itself supplies no architectural details? How does the single command to gather relate to the simultaneous multiplication of stakes?
+What kinds of protection are intended by the images of defense, refuge, storm, and wrath in verse 6 — physical, spiritual, communal, eschatological, or some combination? Why does verse 13 restrict the debt instruction to three named leaders rather than the whole Church? What would the promised building pattern include, given that the chapter itself supplies no architectural details? How does the single command to gather relate to the simultaneous multiplication of stakes? What, if any, significance attaches to scheduling the foundation-laying for the Fourth of July specifically?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the sacred-building commands in [[D&C 95]], [[D&C 97]], and [[D&C 124]], attending to purpose, pattern, financing, deadlines, and conditions of acceptance. Compare D&C 115:5 with [[Isaiah 60]] to distinguish demonstrable verbal resemblance from stronger claims of direct quotation. Historical study would also be needed to determine the revelation's date, the calendar dates implied by verses 9-11, and the subsequent construction history; none of those details can be established from the chapter text alone.
+Compare the sacred-building commands in [[D&C 95]], [[D&C 97]], and [[D&C 124]], attending to purpose, pattern, financing, deadlines, and conditions of acceptance. Compare D&C 115:5 with [[Isaiah 60]] (especially 60:1-3) to distinguish demonstrable verbal resemblance from stronger claims of direct quotation, and compare D&C 115:6 with Revelation 14:10 on the same grounds. Historical study would also be needed to determine the revelation's date, the calendar dates implied by verses 9-11, and the subsequent construction history; none of those details can be established from the chapter text alone.
 <!-- SG:END further-study -->
