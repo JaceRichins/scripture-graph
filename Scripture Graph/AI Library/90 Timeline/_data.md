@@ -4993,6 +4993,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-col-4-ca032540",
+   "t": "Colossians written during a Pauline imprisonment",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating places Colossians among Paul's 'Prison Epistles,' composed during a Roman imprisonment; some scholars propose an earlier Ephesian imprisonment instead, which is not resolvable from this chapter alone.",
+   "chapters": [
+    "Colossians 4"
+   ],
+   "people": [
+    "Paul (apostle)"
+   ],
+   "places": [
+    "Rome (traditional)"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,
@@ -6024,6 +6047,24 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-isa-42-41e3c751",
+   "t": "Proposed exilic setting for Isaiah 40-55",
+   "y0": -550,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Many historical-critical scholars attribute chapters 40-55 to an anonymous exilic-era prophetic voice addressing Judean captives shortly before Cyrus's decree ending the Babylonian exile.",
+   "chapters": [
+    "Isaiah 42"
    ]
   },
   {

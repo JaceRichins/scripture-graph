@@ -47,6 +47,7 @@ _Not yet developed._
 - **AD 51–AD 52** — Gallio's proconsulship of Achaia anchors Paul in Corinth · [[Acts 18]] · [[AD 1-100]] *(historical)*
 - **AD 57–AD 59** — Paul's Sanhedrin trial and transfer to Caesarea · [[Acts 23]] · [[AD 1-100]] *(approximate)*
 - **AD 59–AD 62** — Paul's voyage and Roman imprisonment · [[Acts 27]] · [[Acts 28]] · [[AD 1-100]] *(historical)*
+- **AD 60–AD 62** — Colossians written during a Pauline imprisonment · [[Colossians 4]] · [[AD 1-100]] *(traditional dating)*
 - **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
