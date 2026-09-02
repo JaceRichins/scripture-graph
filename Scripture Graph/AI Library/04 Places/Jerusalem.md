@@ -46,10 +46,10 @@ _Not yet developed._
 - **1003 BC–1000 BC** — Ark brought to Jerusalem; Levitical worship organized · [[1 Chronicles 16]] · [[1100-1001 BC]] *(traditional dating)*
 - **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
+- **972 BC–970 BC** — David's material preparation and charge to Solomon for the temple · [[1 Chronicles 22]] · [[1000-901 BC]] *(traditional dating)*
 - **972 BC–970 BC** — Sheba's Revolt and Murder of Amasa · [[2 Samuel 20]] · [[1000-901 BC]] *(approximate)*
+- **971 BC** — David commissions Solomon and delivers the temple pattern · [[1 Chronicles 28]] · [[1000-901 BC]] *(traditional dating)*
 - **971 BC–970 BC** — Temple-fund offering and Solomon's public coronation · [[1 Chronicles 29]] · [[1000-901 BC]] *(approximate)*
-- **971 BC–931 BC** — Traditional Solomonic authorship of Proverbs 10-22:16 · [[Proverbs 17]] · [[1000-901 BC]] *(traditional dating)*
-- **970 BC–609 BC** — Unbroken royal line, Solomon to Josiah · [[1 Chronicles 3]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

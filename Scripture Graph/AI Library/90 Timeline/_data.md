@@ -3136,6 +3136,64 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1chr-22-34a309fb",
+   "t": "David's material preparation and charge to Solomon for the temple",
+   "y0": -972,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places this charge near the end of David's roughly forty-year reign (c. 1010-970 BC), shortly before his death and before Solomon begins construction (1 Kings 6:1).",
+   "chapters": [
+    "1 Chronicles 22"
+   ],
+   "people": [
+    "David (king)",
+    "Solomon",
+    "Moses (prophet)"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "ark of the covenant"
+   ]
+  },
+  {
+   "id": "r-1chr-28-f841cddb",
+   "t": "David commissions Solomon and delivers the temple pattern",
+   "y0": -971,
+   "y1": -971,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed near the end of David's reign, shortly before his death and Solomon's accession (cf. 1 Kings 2:10-12); David's reign is traditionally dated c. 1010-971 BC, so this assembly falls near its close.",
+   "chapters": [
+    "1 Chronicles 28"
+   ],
+   "people": [
+    "David (king)",
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Ark of the Covenant",
+    "Temple pattern"
+   ]
+  },
+  {
    "id": "r-1chr-29-5aafd402",
    "t": "David's reign over all Israel (Hebron and Jerusalem)",
    "y0": -1010,
@@ -3300,6 +3358,54 @@ timeline module, not this file._
    "people": [
     "Saul (king)",
     "Jonathan (son of Saul)"
+   ]
+  },
+  {
+   "id": "r-1cor-1-d1617905",
+   "t": "Paul writes 1 Corinthians from Ephesus",
+   "y0": 53,
+   "y1": 55,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Scholarly dating places the letter during Paul's extended Ephesian ministry (cf. Acts 19; 1 Corinthians 16:8), a few years after founding the Corinthian church described in Acts 18.",
+   "chapters": [
+    "1 Corinthians 1"
+   ],
+   "people": [
+    "Paul (apostle)"
+   ],
+   "places": [
+    "Corinth"
+   ]
+  },
+  {
+   "id": "r-1cor-12-7e78b59b",
+   "t": "Paul writes First Corinthians from Ephesus",
+   "y0": 53,
+   "y1": 55,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Widely accepted scholarly dating places composition during Paul's roughly three-year stay in Ephesus, mid-first century AD, addressing reports of division and disorder in the Corinthian church.",
+   "chapters": [
+    "1 Corinthians 12"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Corinth",
+    "Ephesus"
    ]
   },
   {
