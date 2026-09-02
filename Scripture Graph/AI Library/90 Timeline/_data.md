@@ -3831,6 +3831,55 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1ne-13-d22dd725",
+   "t": "Traditional reading: loss of plain and precious truths (early Christian era)",
+   "y0": 100,
+   "y1": 400,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Latter-day Saint teaching commonly locates the removal of 'plain and precious' content and covenants (vv26-29) in the early centuries of Christian textual and institutional development, though the chapter gives no dates.",
+   "chapters": [
+    "1 Nephi 13"
+   ]
+  },
+  {
+   "id": "r-1ne-16-5f4cc9d6",
+   "t": "Wilderness journey from the valley of Lemuel to Nahom",
+   "y0": -600,
+   "y1": -592,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the chapter broadly to about 600–592 B.C.; the narrative itself gives travel intervals but no absolute year.",
+   "chapters": [
+    "1 Nephi 16"
+   ],
+   "people": [
+    "Nephi (son of Lehi)",
+    "Ishmael (father-in-law of Nephi)",
+    "Laman",
+    "Lemuel"
+   ],
+   "places": [
+    "Red Sea",
+    "Nahom"
+   ],
+   "things": [
+    "brass ball",
+    "bow and arrow"
+   ]
+  },
+  {
    "id": "r-1sam-12-8fac2c25",
    "t": "Samuel's Farewell Address at Saul's Coronation",
    "y0": -1050,

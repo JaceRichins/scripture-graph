@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
+- **600 BC–592 BC** — Wilderness journey from the valley of Lemuel to Nahom · [[1 Nephi 16]] · [[600-501 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
