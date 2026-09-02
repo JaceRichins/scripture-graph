@@ -5211,6 +5211,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-110-ab4447ca",
+   "t": "Kirtland Temple dedication-week vision (D&C 110)",
+   "y0": 1836,
+   "y1": 1836,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated April 3, 1836, about a week after the Kirtland Temple's March 27, 1836 dedication, per Church historical records; the date is not stated within the verses of D&C 110 itself.",
+   "chapters": [
+    "D&C 110"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Moses (prophet)",
+    "Elijah",
+    "Abraham (patriarch)"
+   ],
+   "places": [
+    "Kirtland Temple"
+   ],
+   "things": [
+    "priesthood keys"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,
