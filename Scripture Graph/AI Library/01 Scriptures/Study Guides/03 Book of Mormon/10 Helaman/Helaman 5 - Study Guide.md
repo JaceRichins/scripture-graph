@@ -17,13 +17,22 @@ Scripture: [[Helaman 5]] · My notes: [[Helaman 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Nephi and Lehi devote themselves to preaching—Their names invite them to pattern their lives after their forebears—Christ redeems those who repent—Nephi and Lehi make many converts and are imprisoned, and fire encircles them—A cloud of darkness overshadows three hundred people—The earth shakes, and a voice commands men to repent—Nephi and Lehi converse with angels, and the multitude is encircled by fire. About 30 B.C.
+Helaman 5 begins with institutional failure but does not end there. When corrupted law can no longer restrain the people, Nephi leaves the judgment-seat to preach. Remembered counsel from his father supplies the chapter's doctrinal foundation: seek goodness without boasting, rely on the [[Atonement of Jesus Christ]], repent, and build on Christ. The second half dramatizes those teachings in a prison conversion. Darkness and fear give way to faith, fire, the Holy Spirit, peace, witness, disarmament, and political reconciliation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Political crisis and vocational change (vv. 1-4):** Nephi relinquishes the judgment-seat and devotes himself to preaching.
+
+2. **Helaman's remembered counsel (vv. 5-13):** names preserve moral memory; good works require right motives; salvation comes through Christ; repentance leads to redemption; Christ is the secure foundation.
+
+3. **Mission and early results (vv. 14-20):** the brothers preach through Nephite and Lamanite lands; dissenters make restitution and thousands are baptized.
+
+4. **Imprisonment and divine confrontation (vv. 21-34):** protective fire, earthquake, darkness, fear, and the repeated mild voice calling for repentance.
+
+5. **Aminadab and the multitude's response (vv. 35-48):** remembered teaching directs the group to repentance and faith; darkness disperses; fire, joy, the Spirit, peace, opened heavens, and angels follow.
+
+6. **Witness and social transformation (vv. 49-52):** about three hundred testify; many converts relinquish weapons, hatred, hostile tradition, and lands.
 <!-- SG:END structure -->
 
 ## People
@@ -64,22 +73,26 @@ _Not yet developed._
 - [[Mosiah 27]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-50|Helaman 5:50]] ↔ [[Mosiah 27#^mosiah-27-32|Mosiah 27:32]]
 - [[Alma 10]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-32|Helaman 5:32]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 - [[3 Nephi 28]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-50|Helaman 5:50]] ↔ [[3 Nephi 28#^3ne-28-16|3 Nephi 28:16]]
-- [[Matthew 3]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-32|Helaman 5:32]] ↔ [[Matthew 3#^matt-3-2|Matthew 3:2]]
 - [[Helaman 7]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-6|Helaman 5:6]] ↔ [[Helaman 7#^hel-7-7|Helaman 7:7]]
 - [[Alma 38]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-9|Helaman 5:9]] ↔ [[Alma 38#^alma-38-9|Alma 38:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Angels]]
+- [[Government and Laws]]
+- [[Mosiah 7]]
+- [[Repentance and Forgiveness]]
+- [[War and Peace]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Angels]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter gives a compact account of [[Salvation]]: Jesus Christ is the only means of redemption (v. 9), but he redeems people from their sins rather than preserving them in sin (vv. 10-11). [[Repentance]] and [[Faith]] are not merely abstract conditions. The narrative represents them through crying to God, receiving the Spirit, bearing witness, repairing wrongs, relinquishing hatred, and laying down weapons.
+
+The repeated command to remember also joins [[Family]], [[Records and Sacred Writings]], and discipleship. Ancestral names and written accounts matter insofar as they call the living to imitate goodness, not boast in inherited status (vv. 6-8).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -117,7 +130,9 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Several motifs bind the chapter together. The repeated word **remember** moves from Helaman's instruction to his sons' action. The rock-and-storm saying in verse 12 anticipates their stability amid threatened death and shaking walls. Fire first marks a protective boundary around the missionaries, then surrounds every soul after the multitude responds in faith. The mild voice has disproportionate power: although whisper-like, it penetrates the soul while the earth shakes.
+
+The prison scene also participates in a broad scriptural pattern of divine presence involving fire, cloud or darkness, a heavenly voice, opened heavens, and angels. Parallels with [[3 Nephi 11]], [[Alma 14]], and biblical narratives illuminate the imagery, but resemblance alone cannot determine whether a particular parallel reflects historical recurrence, deliberate allusion, shared religious vocabulary, or later literary dependence.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -127,7 +142,7 @@ _Not yet developed._
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the narrative place Helaman's foundation teaching immediately before the missionaries' imprisonment? How does the change from fire surrounding two missionaries to fire surrounding every soul affect the meaning of the sign? What prior knowledge allows Aminadab, despite his dissent, to guide the others? Which reported fruits of conversion are inward, and which require public repair or changed relations with former enemies?
 <!-- SG:END questions -->
 
 ## Further Study
