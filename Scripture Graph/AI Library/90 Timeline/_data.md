@@ -6175,6 +6175,27 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-62-750ea7b5",
+   "t": "Isaiah's oracle of Zion's restoration and renaming",
+   "y0": -700,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally attributed to Isaiah of Jerusalem's 8th-century BC ministry; critical scholarship instead commonly dates Isaiah 56-66 to the post-exilic period, a point of ongoing dispute.",
+   "chapters": [
+    "Isaiah 62"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-isa-8-f50c86cf",
    "t": "Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria",
    "y0": -734,
@@ -6978,6 +6999,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-judg-18-9ad5dd9c",
+   "t": "Danite migration, conquest of Laish, and founding of the city of Dan",
+   "y0": -1200,
+   "y1": -1050,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Set in the pre-monarchic 'no king in Israel' era of Judges; the text gives no absolute date, so placement within the broad traditional span of the Judges period is approximate only.",
+   "chapters": [
+    "Judges 18"
+   ],
+   "people": [
+    "Micah",
+    "Jonathan (Levite priest, son of Gershom)",
+    "the five Danite spies"
+   ],
+   "places": [
+    "Laish (renamed Dan)",
+    "Mount Ephraim"
+   ],
+   "things": [
+    "ephod",
+    "teraphim"
+   ]
+  },
+  {
    "id": "r-judg-4-a2cac55e",
    "t": "Deborah and Barak's deliverance from Jabin of Hazor",
    "y0": -1200,
@@ -7190,6 +7242,30 @@ timeline module, not this file._
    "things": [
     "taxation",
     "temple"
+   ]
+  },
+  {
+   "id": "r-nahum-1-af2bcc11",
+   "t": "Likely composition window of the book of Nahum",
+   "y0": -663,
+   "y1": -612,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Elsewhere in the book, Nahum 3:8 refers to the fall of Thebes (663 BC) as already past, while the fall of Nineveh (612 BC) is anticipated as still future; this brackets the book's likely composition, though chapter 1 itself contains no explicit date.",
+   "chapters": [
+    "Nahum 1"
+   ],
+   "people": [
+    "Nahum"
+   ],
+   "places": [
+    "Nineveh"
    ]
   },
   {
