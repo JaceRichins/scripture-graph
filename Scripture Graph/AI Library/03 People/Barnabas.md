@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 46–AD 57** — Paul's missionary journeys · [[Acts 13]] · [[Acts 16]] · [[Acts 17]] · [[AD 1-100]] *(historical)*
+- **AD 46–AD 48** — Paul and Barnabas's Lycaonian mission (first journey) · [[Acts 14]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

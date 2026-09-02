@@ -4571,6 +4571,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-14-7b64eb67",
+   "t": "Paul and Barnabas's Lycaonian mission (first journey)",
+   "y0": 46,
+   "y1": 48,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Scholarly reconstruction of Pauline chronology from Acts and Galatians; commonly placed within Paul's first missionary journey, though exact dates are debated.",
+   "chapters": [
+    "Acts 14"
+   ],
+   "people": [
+    "Paul",
+    "Barnabas"
+   ],
+   "places": [
+    "Lystra",
+    "Iconium"
+   ]
+  },
+  {
    "id": "r-acts-18-b1ba8704",
    "t": "Gallio's proconsulship of Achaia anchors Paul in Corinth",
    "y0": 51,
@@ -5740,6 +5766,31 @@ timeline module, not this file._
    "places": [
     "Sodom",
     "Gomorrah"
+   ]
+  },
+  {
+   "id": "r-gen-20-ce60f07e",
+   "t": "Abraham and Sarah sojourn in Gerar, shortly before Isaac's birth",
+   "y0": -1901,
+   "y1": -1900,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed immediately before Isaac's birth (Genesis 21), traditionally dated to when Abraham was about 100 (Genesis 21:5); precise year is approximate and follows conventional Genesis chronology, not an independent date.",
+   "chapters": [
+    "Genesis 20"
+   ],
+   "people": [
+    "Abraham",
+    "Sarah",
+    "Abimelech"
+   ],
+   "places": [
+    "Gerar"
    ]
   },
   {

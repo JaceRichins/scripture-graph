@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1950 BC** — Abraham called out of Ur · [[Genesis 12]] · [[Abraham 2]] · [[2000-1901 BC]] *(approximate)*
+- **1901 BC–1900 BC** — Abraham and Sarah sojourn in Gerar, shortly before Isaac's birth · [[Genesis 20]] · [[2000-1901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
