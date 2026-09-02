@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1406 BC** — Jericho falls · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
+- **1406 BC–1400 BC** — Conquest and destruction of Jericho under Joshua · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -41,6 +41,7 @@ _Not yet developed._
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC** — Jericho falls · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC** — Israel crosses the Jordan · [[Joshua 3]] · [[Joshua 4]] · [[1500-1401 BC]] *(traditional dating)*
+- **1406 BC–1400 BC** — Conquest and destruction of Jericho under Joshua · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
 - **1400 BC–1370 BC** — Judah's tribal allotment and Caleb's conquest of Hebron · [[Joshua 15]] · [[1400-1301 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

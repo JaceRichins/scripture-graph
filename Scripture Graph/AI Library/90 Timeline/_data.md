@@ -6211,6 +6211,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-josh-6-6e7eb98d",
+   "t": "Conquest and destruction of Jericho under Joshua",
+   "y0": -1406,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating derived from 1 Kings 6:1 (480 years before Solomon's 4th year); a later 'late-date' conquest (~1230-1200 BC) is also argued, and Jericho's archaeology remains disputed.",
+   "chapters": [
+    "Joshua 6"
+   ],
+   "people": [
+    "Joshua (son of Nun)",
+    "Rahab"
+   ],
+   "places": [
+    "Jericho"
+   ]
+  },
+  {
    "id": "r-jsm-1-5b0f8dc9",
    "t": "Olivet Discourse delivered near the Jerusalem temple",
    "y0": 33,
@@ -6477,6 +6501,33 @@ timeline module, not this file._
    ],
    "things": [
     "brook Eshcol"
+   ]
+  },
+  {
+   "id": "r-prov-17-3b542a73",
+   "t": "Traditional Solomonic authorship of Proverbs 10-22:16",
+   "y0": -971,
+   "y1": -931,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 10:1 attributes this collection (including ch.17) to Solomon; traditional dating follows his reign.",
+   "chapters": [
+    "Proverbs 17"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Book of Proverbs"
    ]
   },
   {
