@@ -17,13 +17,12 @@ Scripture: [[2 Nephi 9]] · My notes: [[2 Nephi 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Jacob explains that the Jews will be gathered in all their lands of promise—The Atonement ransoms man from the Fall—The bodies of the dead will come forth from the grave, and their spirits from hell and from paradise—They will be judged—The Atonement saves from death, hell, the devil, and endless torment—The righteous are to be saved in the kingdom of God—Penalties for sins are set forth—The Holy One of Israel is the keeper of the gate. About 559–545 B.C.
+Jacob frames the discourse with the Lord's covenants and the future of Israel (verses 1-3, 53), but most of the chapter explains humanity's deliverance from death and hell through the Holy One of Israel. His argument moves from the [[Fall of Adam and Eve]] to the necessity of the [[Atonement of Jesus Christ]] and [[Resurrection]], then to universal judgment and differing moral outcomes. The second half applies that doctrine through calls to faith, [[Repentance]], [[Baptism]], humility, and enduring obedience.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is: (1) covenant setting and promised restoration, verses 1-3; (2) the Fall, death, infinite atonement, and resurrection, verses 4-13; (3) knowledge, judgment, and the destinies of the righteous and wicked, verses 14-19; (4) Christ's suffering and the required human response, verses 20-27; (5) woes against pride and sin, verses 28-38; (6) direct exhortation to come through the gate kept by the Holy One, verses 39-49; and (7) an Isaianic invitation followed by prayer, gratitude, and covenant reassurance, verses 50-54. This is a functional outline, not a claim that the chapter follows a formally demonstrated ancient literary pattern.
 <!-- SG:END structure -->
 
 ## People
@@ -45,35 +44,31 @@ _Not yet developed._
 - [[2 Nephi 2]] — 4 footnote cross-references (from [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]])
 - [[D&C 76]] — 4 footnote cross-references (from [[2 Nephi 9#^2ne-9-12|2 Nephi 9:12]])
 - [[Mormon 9]] — 3 footnote cross-references (from [[2 Nephi 9#^2ne-9-4|2 Nephi 9:4]])
-- [[Isaiah 55]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]] ↔ [[Isaiah 55#^isa-55-1|Isaiah 55:1]]
-- [[2 Nephi 28]] — 5 parallel verses, e.g. [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]] ↔ [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]]
-- [[Alma 12]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Alma 12#^alma-12-17|Alma 12:17]]
-- [[Alma 42]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Moroni 10]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
 - [[Jacob 3]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-19|2 Nephi 9:19]] ↔ [[Jacob 3#^jacob-3-11|Jacob 3:11]]
-- [[Mosiah 2]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]
-- [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[Jacob 6#^jacob-6-4|Jacob 6:4]]
-- [[D&C 20]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
 - [[Alma 7]] — 2 parallel verses, e.g. [[2 Nephi 9#^2ne-9-1|2 Nephi 9:1]] ↔ [[Alma 7#^alma-7-22|Alma 7:22]]
+- [[2 Nephi 5]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
+- [[2 Nephi 3]] — 1 parallel verse, e.g. [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]] ↔ [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]]
+- [[Isaiah 55]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Justice and Mercy]]
-- [[Final Judgment]]
 - [[Atonement of Jesus Christ]]
 - [[Resurrection]]
 - [[Honesty]]
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Education and Learning]]
+- [[Final Judgment]]
+- [[Death and the Spirit World]]
+- [[Satan and Temptation]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter sharply distinguishes universal [[Resurrection]] from salvation in the [[Kingdom of God]]. All are raised and brought to judgment (verses 13, 15, 22), while verses 23-24 specify faith, repentance, baptism, and endurance in connection with kingdom salvation. Verses 25-27 add an important qualification concerning accountability: absence of a given law means no punishment or condemnation on that basis, and the atonement satisfies justice for those without that law. The passage therefore joins [[Justice and Mercy]] without treating ignorance and informed transgression as equivalent.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -106,27 +101,45 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter's dominant divine title is 'Holy One of Israel,' an Isaianic phrase Jacob draws on repeatedly. A recurring exclamatory pattern — six clauses beginning 'O' (vv.8, 10, 13, 17, 19, 20) — praises God's wisdom, goodness, plan, justice, mercy, and holiness, giving the doctrinal exposition a hymnic quality; note that 'mercy' recurs (vv.8, 19) rather than each exclamation naming a wholly distinct attribute. The same formula is turned against the devil in v.28 ('O that cunning plan of the evil one!'), echoing v.13's 'O how great the plan of our God!' — a pointed verbal contrast between the two 'plans,' though it reads as a local rhetorical jab rather than a structuring device for the whole chapter. Jacob's 'awful monster' image (v.10) gathers death, hell, and the devil into a single figure of captivity, and the gate metaphor of vv.41-42 casts the Holy One of Israel as the narrow way's sole, undeceivable keeper. The closing invitation in vv.50-51 reuses [[Isaiah 55]]'s language of buying 'wine and milk without money and without price,' one of the closest verbal parallels in the Book of Mormon to a source text said to be on the brass plates.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 4-27 build a sustained doctrinal argument (the necessity of an infinite atonement, the two deaths, universal resurrection, judgment, and the law/no-law logic), before verses 28-49 convert that exposition into direct exhortation. Verses 28-29 supply a hinge — a woe against the falsely 'learned' followed immediately by 'to be learned is good if they hearken' — before a run of nine coordinated 'wo unto' pronouncements follows in vv.30-38, each opening with the same formula, against the rich, the deaf, the blind, the uncircumcised of heart, the liar, the murderer, those who commit whoredoms, idolaters, and those who die in their sins. Jacob's garment-shaking in v.44 is best read from its own explanation: a symbolic declaration that he has discharged his duty to warn his hearers and stands 'rid of your blood,' a prophetic-accountability formula that also appears when King Benjamin makes a similar declaration in [[Mosiah 2]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Dependence Or Allusion
+> The close verbal correspondence between 2 Nephi 9:50-51 and Isaiah 55:1-2 is strong evidence of literary reuse or deliberate allusion at the level of the received English texts.
+> — strength 0.9 · confidence 0.9 · well-disciplined evidence layer · [[Textual Dependence Or Allusion in 2 Nephi 9|full dossier]]
+
+> [!evidence] Internal Literary Consistency *(tentative)*
+> The near-verbatim reuse of Isaiah 55:1 in 2 Nephi 9:50-51 is internally consistent with the Book of Mormon's claim that Nephite writers possessed and quoted an Isaiah text (the brass plates).
+> — strength 0.3 · confidence 0.6 · honestly hedged, incomplete
+
+> [!evidence] Theological-Historical Argument *(tentative)*
+> The developed doctrine of a necessarily 'infinite' atonement in 2 Nephi 9:7-9 is sometimes cited by believers as theologically sophisticated for a purportedly ancient, unlearned-narrator text, but this observation cuts both ways evidentially.
+> — strength 0.1 · confidence 0.3 · speculative, honestly labeled
+
+> [!evidence] Cross-Text Doctrinal Consistency *(tentative)*
+> The shared 'repent, be baptized, endure to the end, or cannot be saved in the kingdom of God' formula in 2 Nephi 9:23-24 and D&C 20 shows cross-text doctrinal consistency, which believers may read as evidence of a single consistent revealed gospel and critics may read as evidence of a single author's (Joseph Smith's) consistent theological vocabulary across texts he produced within a short span.
+> — strength 0.1 · confidence 0.3 · overstated formula match
+
+> [!evidence] Translation-Idiom Parallel *(tentative)*
+> The 'narrow way' / 'gate' imagery in 2 Nephi 9:41-43, phraseologically close to Matthew 7:13-14, is better read as evidence of King James English idiom pervading the dictated translation than as evidence of ancient literary contact between Jacob and a not-yet-written Gospel of Matthew.
+> — strength 0.2 · confidence 0.5 · plausible but under-tested
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How does Jacob's distinction between universal resurrection (v.13) and conditional salvation in God's kingdom (vv.21-24) clarify the different uses of 'save' in this chapter? What does the law-and-accountability argument in vv.25-27 affirm about those who never received a law, and what does it leave unanswered? Jacob insists learning is 'good if they hearken unto the counsels of God' (v.29) even while warning against 'the wise, and the learned' who are 'puffed up' (v.42) — what distinguishes the two? What is the rhetorical effect of turning the same 'O ... plan' phrase against the devil in v.28 after using it of God in v.13? How does the invitation borrowed from [[Isaiah 55]] change in force when it concludes this discourse on atonement and judgment?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the Fall-and-redemption reasoning with [[2 Nephi 2]], and compare the treatment of law, justice, mercy, resurrection, and judgment with [[Alma 12]] and [[Alma 42]]. Study verses 50-51 beside [[Isaiah 55]] to identify both their shared wording and Jacob's application of it. When comparing these texts, distinguish demonstrable verbal correspondence from broader thematic similarity.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
