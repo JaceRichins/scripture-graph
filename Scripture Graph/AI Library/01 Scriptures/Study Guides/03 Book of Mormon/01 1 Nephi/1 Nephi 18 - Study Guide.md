@@ -23,7 +23,16 @@ Scripture: [[1 Nephi 18]] · My notes: [[1 Nephi 18 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The narrative advances through six clear movements:
+
+1. Shipbuilding through recurring instruction, prayer, and labor (vv. 1–4).
+2. Provisioning and embarkation of the extended family (vv. 5–8).
+3. Revelry, forgetfulness, and the binding of Nephi (vv. 9–12).
+4. Four days of worsening tempest and widespread family suffering (vv. 13–20).
+5. Nephi's release, restored navigation, prayer, and calm (vv. 21–22).
+6. Arrival, cultivation, and an inventory of the land's resources (vv. 23–25).
+
+This progression forms a strong narrative reversal, but the chapter need not be labeled a formal chiasm: its sequence is sufficiently explained by crisis and resolution.
 <!-- SG:END structure -->
 
 ## People
@@ -49,22 +58,25 @@ _Not yet developed._
 - [[1 Nephi 7]] — 3 footnote cross-references (from [[1 Nephi 18#^1ne-18-11|1 Nephi 18:11]])
 - [[1 Nephi 8]] — 2 footnote cross-references (from [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]])
 - [[2 Nephi 5]] — 2 footnote cross-references (from [[1 Nephi 18#^1ne-18-12|1 Nephi 18:12]])
-- [[1 Nephi 16]] — 8 parallel verses, e.g. [[1 Nephi 18#^1ne-18-5|1 Nephi 18:5]] ↔ [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]]
-- [[Ether 2]] — 3 parallel verses, e.g. [[1 Nephi 18#^1ne-18-10|1 Nephi 18:10]] ↔ [[Ether 2#^ether-2-25|Ether 2:25]]
-- [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
 - [[Ether 12]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]] ↔ [[Ether 12#^ether-12-36|Ether 12:36]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
+- [[1 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Liahona (compass)]]
+- [[Endurance]]
+- [[Pride]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter depicts [[Revelation]] as recurring guidance received amid [[Prayer]] and work, not as freedom from labor or uncertainty. Divine aid does not prevent [[Agency]] from producing severe consequences for an entire [[Family]]. Nephi's response to pain exemplifies [[Endurance]], while the brothers' response raises a harder question about [[Repentance]]: releasing Nephi reverses their behavior, but the immediate motive is fear of destruction, and the chapter does not establish how durable their change is.
+
+The operation of the [[Liahona (compass)]] is narrated in moral and relational context. The text clearly connects its failure with Nephi's binding and its return with his release, although it does not explain a physical mechanism.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,25 +98,45 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+“Power” is the chapter's principal repeated theological term. The rebels forget the power that brought them to the ship (v. 9); their treatment of Nephi is permitted so that God may show power (v. 11); and only threatened destruction can soften their hearts (v. 20). The recurrence turns the dispute over who will “rule” into a deeper dispute over what power actually governs the journey.
+
+The exact phrase “there was a great calm” in verse 21 also appears in Mark 4:39. The verbal parallel is certain at the English-text level; whether it is intentional allusion, conventional biblical diction, or translation-language influence remains disputed.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter creates narrative irony around the brothers' objection that their younger brother should rule over them. They bind Nephi; in the ensuing sequence the compass ceases to work and the company cannot steer. After they release him, Nephi takes the compass and guides the ship toward the promised land. This juxtaposition supports an ironic reading, but it does not prove that rejecting Nephi's rulership mechanically caused the instrument to fail.
+
+A second contrast links disorder aboard the vessel with navigational failure and tempest, followed by release, prayer, restored direction, and calm. The narrative presents these events providentially, although the text does not exclude ordinary physical causes for the weather.
+
+The final agricultural scene completes an earlier narrative thread: seeds preserved through the wilderness and loaded onto the ship become the basis of the first reported cultivation and abundance after arrival.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Limits Of Internal Technical Evidence
+> Although the narrator attributes the ship's design to revelation and calls its workmanship exceedingly fine, the account gives no dimensions, hull form, rigging plan, construction sequence, or sailing specifications. It therefore cannot independently support a technical reconstruction of the vessel.
+> — strength 0.2 · confidence 1.0 · strong limiting observation · [[Limits Of Internal Technical Evidence in 1 Nephi 18|full dossier]]
+
+> [!evidence] Historical/Archaeological (Disputed) *(tentative)*
+> 1 Nephi 18:25 lists cattle, oxen, asses, horses, and goats among beasts found on the promised land; this verse is frequently cited in debates over Book of Mormon historicity because mainstream archaeology finds no evidence of these domesticated animals (particularly horses) in the pre-Columbian Americas of this era.
+> — strength 0.2 · confidence 0.6 · relevant dispute; external archaeological summary inadequately sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Is dancing or singing itself condemned in verse 9, or does the criticism fall on rudeness, pride, and forgetting divine power?
+
+- Does the repentance in verses 15 and 20 describe inward conversion, emergency compliance, or some mixture of both?
+
+- Why does the narrator describe the suffering of the parents, the young Jacob and Joseph, Nephi's wife, and his children at such length?
+
+- What does the compass episode suggest about spiritual condition, communal order, and guidance—and what mechanism, if any, does the text leave unexplained?
+
+- Which features of the promised-land inventory function as geographic information, and which may chiefly communicate abundance?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[1 Nephi 16]] for the earlier operation of the compass and [[1 Nephi 17]] for the shipbuilding commission. Compare the Jaredite vessel and sea-crossing accounts in [[Ether 2]] and [[Ether 6]], while preserving the important differences between the narratives. [[2 Nephi 5]] develops related settlement motifs of cultivation and metals. Mark 4:39 provides the closest verbal parallel to the sudden calm, but verbal similarity should be distinguished from proof of direct historical dependence.
 <!-- SG:END further-study -->
