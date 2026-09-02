@@ -17,12 +17,17 @@ Scripture: [[D&C 78]] · My notes: [[D&C 78 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+D&C 78 joins practical administration to spiritual preparation. It begins with a command to organize storehouse affairs for the poor, links earthly equality with heavenly preparation, requires covenantal organization, and ends with promises of divine guidance and inheritance. Its governing ideal is not possession alone but faithful stewardship under God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has four broad movements:
+
+1. Verses 1-7 identify the audience, the storehouse problem, and the relationship between earthly and heavenly equality.
+2. Verses 8-14 command coordinated action, council, and covenant organization so that the church may endure tribulation and stand independent.
+3. Verses 15-16 widen the horizon through Adam-ondi-Ahman, Michael, and the keys of salvation.
+4. Verses 17-22 combine human limitation with reassurance, gratitude, obedience, eschatological hope, appointed portions, and faithful stewardship.
 <!-- SG:END structure -->
 
 ## People
@@ -42,21 +47,29 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 82]] — 1 parallel verse, e.g. [[D&C 78#^dc-78-12|D&C 78:12]] ↔ [[D&C 82#^dc-82-21|D&C 82:21]]
 - [[Alma 13]] — 2 parallel verses, e.g. [[D&C 78#^dc-78-16|D&C 78:16]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
-- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 78#^dc-78-12|D&C 78:12]] ↔ [[D&C 104#^dc-104-9|D&C 104:9]]
+- [[D&C 82]] — 0 parallel verses
+- [[D&C 104]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Covenants]]
+- [[Satan and Temptation]]
 - [[Priesthood]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
+- [[D&C 107]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+D&C 78 joins [[Consecration]] and [[Covenants]] to a stated eschatological horizon. Equality in earthly things is presented as a precondition for equality in heavenly things (vv.5-7), though the chapter does not specify what practical equality requires — identical possessions, equitable access, or something else. The organization is to be bound 'by a bond or everlasting covenant that cannot be broken' (v.11), with covenant-breaking bringing loss of office and standing and 'the buffetings of [[Satan and Temptation|Satan]] until the day of redemption' (v.12).
+
+Verses 15-16 widen the frame: the Holy One of Zion is said to have established the foundations of Adam-ondi-Ahman and appointed 'Michael your prince,' who holds 'the keys of salvation' under the Holy One's direction. D&C 78 itself does not identify Michael as Adam; that identification is made explicit only elsewhere (D&C 107:54), outside this text. Verses 20-21 use 'the Son Ahman' for the Redeemer and describe the addressees as 'the church of the Firstborn.'
+
+The closing verses (17-22) hold gift and responsibility together: the Saints are called 'little children' not yet able to bear all that is prepared, promised 'the kingdom is yours,' yet the final promise belongs to 'the faithful and wise steward' who 'shall inherit all things.' [[Gratitude]] operates in this same pattern — receiving 'all things with thankfulness' (v.19) sits inside covenantal and eschatological language, not as a standalone formula for material increase.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -87,25 +100,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several key terms deserve careful reading. "Equal" is spiritually important but administratively undefined. "Independent" is an announced purpose, but the object of independence is expressed in unusual language and should not automatically be equated with modern political or economic autonomy. "Little children" functions metaphorically, describing limited present understanding rather than necessarily condemning the hearers. "Son Ahman" is used as a title of the Redeemer, but this chapter alone does not explain the title's derivation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The discourse expands from a concrete storehouse problem to a cosmic horizon. Poor relief and council procedures lead to the celestial world, Adam-ondi-Ahman, Michael, the church of the Firstborn, ascent in a cloud, and inheritance of all things. This widening scale gives ordinary stewardship eschatological significance while the recurring commands prevent the promises from becoming detached from conduct.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Textual Evidence
+> The chapter provides strong textual evidence that its economic and administrative commands are framed as part of spiritual preparation, rather than as merely secular management.
+> — strength 0.6 · confidence 0.8 · sound reading; attached scores overprecise · [[Internal Textual Evidence in D&C 78|full dossier]]
+
+> [!evidence] Stated Institutional Purpose
+> Verse 14 presents the church's ability to stand independent despite coming tribulation as an intended result of the commanded preparation and organization.
+> — strength 0.6 · confidence 0.8 · quote verified; 'consensus' label unsupported · [[Stated Institutional Purpose in D&C 78|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What form of equality do vv.5-6 require, and what practical details (identical possessions? equitable access?) remain unstated?
+- Does 'stand independent' (v.14) chiefly describe spiritual, institutional, or economic independence?
+- How do the severe sanction of v.12 and the reassurance of vv.17-18 function together in the same revelation?
+- What is the relationship between each person's appointed 'portion' (v.21) and inheriting 'all things' (v.22)?
+- If this organization is bound by an 'everlasting covenant' (v.11), how should that language be read alongside its later reorganization in D&C 104?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[D&C 82]], which shares a verified verse of text overlap with this chapter and covers closely related covenant and stewardship language from the same 1832 organizational effort. D&C 104 is useful historical background on the later reorganization of this order, but that connection rests on outside Restoration history, not on any verified text or semantic overlap in this chapter's index.
 <!-- SG:END further-study -->
