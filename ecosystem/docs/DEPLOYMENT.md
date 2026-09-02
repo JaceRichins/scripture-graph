@@ -50,6 +50,9 @@ hashes, not tied to the host).
 
 ## Updating the plugin
 
+> **Full runbook: [PLUGIN-RELEASE.md](PLUGIN-RELEASE.md)** — version bump,
+> both deploy targets, the two update channels, and the gotchas.
+
 ```bash
 cd ecosystem && npm run -w @scripture-graph/plugin build
 ```
