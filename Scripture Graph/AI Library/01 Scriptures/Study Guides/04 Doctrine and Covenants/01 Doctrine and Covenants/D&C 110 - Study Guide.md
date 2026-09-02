@@ -17,7 +17,7 @@ Scripture: [[D&C 110]] · My notes: [[D&C 110 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 110 reports a sequence of visions centered on a holy house. The Lord first appears, forgives the narrators, accepts the house, and promises blessings and further manifestations. Moses, Elias, and Elijah then appear in succession and commit distinct responsibilities connected with the [[Gathering of Israel]], the [[Abrahamic Covenant]], and Malachi's heart-turning prophecy.
+D&C 110 presents four successive visionary episodes centered on a holy house. The Lord first appears, declares the participants forgiven, accepts the house, and promises wider blessings and conditional future manifestations. Moses, Elias, and Elijah then appear in succession and commit differentiated responsibilities connected with the [[Gathering of Israel]], the [[Abrahamic Covenant]], and Malachi's heart-turning prophecy. The chapter moves across local, worldwide, and intergenerational concerns, although these dimensions should not be forced into a single uniform progression.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -27,9 +27,9 @@ The chapter has two broad movements and four visionary episodes:
 1. D&C 110:1-10: the participants' understanding is opened; the Lord appears, identifies himself, declares forgiveness, accepts the house, and promises wider blessings and conditional future manifestations.
 2. D&C 110:11: Moses commits keys associated with the [[Gathering of Israel]].
 3. D&C 110:12: Elias commits the dispensation of the gospel of Abraham.
-4. D&C 110:13-16: Elijah invokes [[Malachi 4]] and commits the keys of his dispensation.
+4. D&C 110:13-16: Elijah invokes [[Malachi 4]] and commits “the keys of this dispensation.”
 
-Repeated transition formulas clearly organize the received narrative. That literary structure does not by itself establish when the account was arranged or authenticate the reported appearances.
+Repeated transition formulas clearly organize the received narrative. This structure does not establish whether the recorded order exactly reproduces the underlying experience, reflects later arrangement, or authenticates the reported appearances. The wording also differs among the commissions: Moses commits “keys,” Elias a “dispensation,” and Elijah “keys of this dispensation.” That variation should be preserved without treating it as proof of a rigid taxonomy.
 <!-- SG:END structure -->
 
 ## People
@@ -48,18 +48,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 138]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[D&C 138#^dc-138-48|D&C 138:48]]
 - [[Malachi 4]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Malachi 4#^mal-4-5|Malachi 4:5]]
 - [[3 Nephi 25]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]]
 - [[D&C 104]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-10|D&C 110:10]] ↔ [[D&C 104#^dc-104-32|D&C 104:32]]
-- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
-- [[D&C 27]] — 1 parallel verse, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[D&C 98#^dc-98-16|D&C 98:16]]
 - [[2 Nephi 10]] — 1 parallel verse, e.g. [[D&C 110#^dc-110-11|D&C 110:11]] ↔ [[2 Nephi 10#^2ne-10-8|2 Nephi 10:8]]
 - [[Revelation 1]] — 0 parallel verses
 - [[D&C 2]] — 0 parallel verses
 - [[D&C 128]] — 0 parallel verses
+- [[D&C 27]] — 0 parallel verses
 - [[3 Nephi 25]] — 0 parallel verses
+- [[D&C 128]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,13 +67,18 @@ _Not yet developed._
 - [[Gathering of Israel]]
 - [[Priesthood Restoration]]
 - [[Repentance and Forgiveness]]
+- [[Malachi 4]]
+- [[D&C 128]]
+- [[Jesus Christ (Gospel Topic)]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-D&C 110 places forgiveness, divine manifestation, covenant language, and sacred commissions within a temple setting. The house is declared accepted, while the further promise that the Lord will appear and speak is conditioned on [[Obedience]] and on not polluting the house (D&C 110:7-8). The condition explicitly governs future manifestation, not necessarily the prior declaration of acceptance.
+D&C 110 places forgiveness, divine manifestation, covenant blessing, and sacred commissions within a temple setting. The house is declared accepted in verse 7, while verse 8 conditions future appearances and speech on [[Obedience]] and on not polluting the house. Grammatically, the stated condition governs the future promise; the passage does not explicitly make the earlier acceptance conditional or declare it permanently irrevocable.
 
-The later appearances concern the worldwide [[Gathering of Israel]], blessing associated with Abraham and succeeding generations, and the turning of fathers' and children's hearts. Later texts such as [[D&C 128]] connect Elijah's commission with a fuller intergenerational work, but D&C 110 itself does not explicitly describe sealing ordinances, baptism for the dead, or the institutional exercise of the committed keys.
+The later commissions concern the worldwide [[Gathering of Israel]], blessing associated with Abraham and succeeding generations, and the turning of fathers' and children's hearts. The chapter speaks of committed keys but does not explicitly mention [[Baptism for the Dead]], [[Eternal Marriage]], sealing ordinances, or temple work for deceased persons. Those associations arise through later interpretation, including [[D&C 128]], and should be distinguished from what D&C 110 states directly.
+
+Verse 9 refers to an endowment already received in the house but does not describe its content. The verse alone therefore does not identify it with the complete form of any later temple ceremony.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -107,14 +111,16 @@ The later appearances concern the worldwide [[Gathering of Israel]], blessing as
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The Lord's description and declarations in D&C 110:3-4 strongly parallel [[Revelation 1]]. Shared elements include white hair, fiery eyes, a brilliant countenance, a voice like great waters, the title “first and the last,” and the portrayal of one who lives after being slain. The cluster establishes substantial literary and theological continuity, but it cannot by itself determine whether the account directly borrowed Revelation, narrated an experience through scripture-saturated language, or arose in another way.
+The Lord's description and declarations in D&C 110:3-4 strongly parallel [[Revelation 1]]. Shared elements include white hair, fiery eyes, a brilliant countenance, a voice like great waters, the title “first and the last,” and the portrayal of one who lives after having been slain or dead. This cluster strongly establishes literary and theological continuity. It does not determine whether the account directly used Revelation, narrated an experience through familiar scriptural language, drew on shared theophanic imagery, or underwent later literary shaping.
 
-The text also preserves distinctions among the commissions: Moses and Elijah commit “keys” (D&C 110:11, 16), whereas Elias commits a “dispensation” (D&C 110:12). Broader doctrinal synthesis should not erase those differences.
+The commission language also deserves precision. Moses commits “keys,” Elias commits a “dispensation,” and Elijah commits “the keys of this dispensation.” These differences are observable, but their theological significance is not explained in the chapter. D&C 110 also presents Elias and Elijah as distinct successive visitors; it does not resolve Elias's historical identity or the complications created by the broader scriptural use of those names.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter moves from a local sacred space toward increasingly broad horizons: thousands, foreign lands, the four parts of the earth, succeeding generations, fathers, and children. The three later commissions can be read as a related sequence involving scattered Israel, Abrahamic blessing, and intergenerational heart-turning. This is a literary synthesis of the order and vocabulary of D&C 110:11-16, not a formal three-part outline stated by the chapter. The coherence may belong to the recorded arrangement, and it does not independently verify the reported events.
+The chapter moves from cleansing and acceptance toward commissions with geographic and generational consequences. Its vocabulary includes the immediate participants, their brethren, all the Lord's people, thousands and tens of thousands, foreign lands, the four parts of the earth, succeeding generations, and fathers and children. These references create thematic breadth, but they operate along different axes: number, geography, time, covenant descent, and intimate relationships. The ending may therefore be read as a return to family-scale bonds rather than simply the final stage of an ever-widening progression.
+
+The sequence of gathering Israel, Abrahamic blessing, and intergenerational heart-turning gives the received narrative a plausible theological coherence. The chapter does not formally explain the three commissions as one system, and their arrangement does not independently verify the reported events.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -131,22 +137,31 @@ The chapter moves from a local sacred space toward increasingly broad horizons: 
 > The explicit attribution to Malachi and the close reuse of Malachi 4:5-6 provide strong textual evidence that D&C 110 deliberately presents Elijah's commission as related to that prophecy.
 > — strength 1.0 · confidence 1.0 · Explicit textual relationship; supernatural significance disputed · [[Explicit Scriptural Intertext in D&C 110|full dossier]]
 
+> [!evidence] Explicit Scriptural Citation
+> The explicit naming of Malachi and close reuse of Malachi 4:5-6 are decisive evidence that the account consciously frames Elijah's commission as prophetic fulfillment. The text's fulfillment claim is not independent verification that the reported appearance occurred.
+> — strength 0.9 · confidence 1.0 · decisive for framing, not historicity · [[Explicit Scriptural Citation in D&C 110|full dossier]]
+
 > [!evidence] Clustered Verbal And Imagistic Parallel
 > The concentration of Revelation 1 imagery and titles in D&C 110:3-4 is strong evidence of a meaningful literary relationship or a deliberately shared scriptural vocabulary for portraying the glorified Christ.
 > — strength 0.9 · confidence 1.0 · Meaningful literary relationship accepted; mechanism disputed · [[Clustered Verbal And Imagistic Parallel in D&C 110|full dossier]]
+
+> [!evidence] Literary Intertextuality
+> The concentration of parallels with Revelation 1 is strong evidence that the recorded account deliberately participates in biblical apocalyptic and christological language. It is not independent evidence for the historical or supernatural occurrence of the vision.
+> — strength 0.9 · confidence 0.9 · strong intertext; dependence mechanism disputed · [[Literary Intertextuality in D&C 110|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Why does the narrative place forgiveness before the acceptance of the house and the later commissions?
-- What exactly does the condition in D&C 110:8 govern, and how does it relate to the declaration in verse 7?
-- How do the commitments made by Moses, Elias, and Elijah differ, and what textual basis exists for treating them as related?
-- Does “the fathers” in verse 15 primarily denote immediate ancestors, ancient covenant fathers, or both?
-- What does this chapter establish—and leave unresolved—about Elias's identity, Malachi's prophecy, and the historical or supernatural status of the visions?
-- Which teachings about Elijah are stated here, and which arise from later interpretive texts such as [[D&C 128]]?
+- What exactly does the condition in D&C 110:8 govern, and how should it shape the reading of the acceptance declared in verse 7?
+- Why does the received narrative place forgiveness before acceptance of the house and the later commissions?
+- How do the commissions of Moses, Elias, and Elijah differ in their stated wording, and what basis exists for combining them into a larger priesthood system?
+- Who or what does “Elias” designate in verse 12, and what can this chapter establish without relying on later explanations?
+- Do “the fathers” in verse 15 denote immediate ancestors, deceased ancestors generally, ancient covenant fathers, or more than one group?
+- Which teachings about Elijah and ordinances appear explicitly here, and which arise through later interpretation such as [[D&C 128]]?
+- Which conclusions concern the literary form of the account, and which depend on accepting its historical or supernatural claims?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare D&C 110:3-4 with [[Revelation 1]], noting both shared imagery and differences in wording. Read D&C 110:14-16 beside [[Malachi 4]], [[D&C 2]], [[3 Nephi 25]], and [[D&C 128]] to trace how the Elijah prophecy is quoted and interpreted. [[Luke 1]] offers a related but substantially different application of Elijah and heart-turning language to John the Baptist. Keep textual dependence, theological interpretation, historical occurrence, and supernatural causation as separate questions.
+Compare D&C 110:3-4 with [[Revelation 1]], distinguishing exact verbal correspondences from conceptual parallels and from conclusions about the vision's origin or historicity. Read D&C 110:14-16 beside [[Malachi 4]], [[D&C 2]], [[3 Nephi 25]], and [[Joseph Smith—History 1]] to trace differences in the Elijah and heart-turning language. Compare [[D&C 27]] and [[D&C 128]] to identify which explanations of Elias, Elijah's keys, intergenerational bonds, and ordinances occur outside D&C 110. [[Luke 1]] provides a related but substantially different application of Elijah and heart-turning language to John the Baptist. In each comparison, keep literary relationship, theological interpretation, historical occurrence, and supernatural causation separate.
 <!-- SG:END further-study -->
