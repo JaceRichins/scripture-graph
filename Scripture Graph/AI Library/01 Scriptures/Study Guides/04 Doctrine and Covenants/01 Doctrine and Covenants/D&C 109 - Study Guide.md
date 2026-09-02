@@ -17,21 +17,21 @@ Scripture: [[D&C 109]] · My notes: [[D&C 109 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 109 is a communal dedicatory [[Prayer]]. It begins with gratitude and the completion of a commanded house, turns earlier instructions from [[D&C 88]] into petitions for the house's holiness and functions, and then widens toward [[Missionary Work]], protection, persecuted Saints, nations, scattered Israel, church families, and the return of the Lord. Its repeated requests should be read as petitions and hopes, not as reports that every requested outcome had already occurred.
+D&C 109 is a communal dedicatory [[Prayer]]. It begins with gratitude, obedience, sacrifice, and a request that God accept the completed house. It then turns earlier instructions from [[D&C 88]] into petitions for holiness, learning, spiritual gifts, and service. The scope widens to missionaries, persecuted Saints, their opponents, governments, nations, scattered Israel, families, church leaders, and final redemption. Because the dominant grammatical form is petition, requested outcomes should not automatically be treated as fulfilled predictions or completed events.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
 A cautious outline is:
 
-1. Verses 1–5: invocation, obedience, sacrifice, and request that the house be accepted.
-2. Verses 6–21: incorporation of earlier revelation and petitions for worship, learning, holiness, and repentance.
-3. Verses 22–46: missionary empowerment, protection, spiritual gifts, reception or rejection of testimony, and judgment.
-4. Verses 47–67: intercession for displaced Saints, persecutors, governments, the nations, [[Zion]], Jerusalem, and scattered Israel.
+1. Verses 1–5: invocation, completed obedience, sacrifice, and request for acceptance.
+2. Verses 6–21: reuse of earlier revelation and petitions for worship, learning, holiness, repentance, and restoration.
+3. Verses 22–46: missionary empowerment, reception or rejection of testimony, protection, spiritual gifts, and judgment.
+4. Verses 47–67: intercession for displaced Saints, persecutors, governments, nations, [[Zion]], Jerusalem, and scattered Israel.
 5. Verses 68–76: petitions for Joseph Smith, families, leaders, the church, and final redemption.
-6. Verses 77–80: concluding appeal for divine acceptance, praise, and salvation.
+6. Verses 77–80: concluding appeal for acceptance, heavenly praise, salvation, and joy.
 
-The boundaries are analytical rather than formally marked by the text.
+These boundaries are analytical; the prayer itself proceeds through repeated appeals rather than formally labeled divisions.
 <!-- SG:END structure -->
 
 ## People
@@ -51,14 +51,16 @@ The boundaries are analytical rather than formally marked by the text.
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[D&C 88]] — 7 parallel verses, e.g. [[D&C 109#^dc-109-8|D&C 109:8]] ↔ [[D&C 88#^dc-88-119|D&C 88:119]]
-- [[Song of Solomon 6]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-73|D&C 109:73]] ↔ [[Song of Solomon 6#^song-6-10|Song of Solomon 6:10]]
 - [[D&C 5]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-73|D&C 109:73]] ↔ [[D&C 5#^dc-5-14|D&C 5:14]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[D&C 109#^dc-109-23|D&C 109:23]] ↔ [[Alma 40#^alma-40-22|Alma 40:22]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
 - [[D&C 55]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
 - [[Moses 8]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[Moses 8#^moses-8-24|Moses 8:24]]
-- [[2 Chronicles 6]] — 0 parallel verses
+- [[Song of Solomon 6]] — 0 parallel verses
 - [[Acts 2]] — 0 parallel verses
+- [[Daniel 2]] — 0 parallel verses
+- [[1 Thessalonians 4]] — 0 parallel verses
+- [[D&C 88]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,7 +77,9 @@ The boundaries are analytical rather than formally marked by the text.
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The house is portrayed as serving related ends: divine presence, disciplined worship, [[Education and Learning]], repentance, spiritual maturation, and preparation for service. Verses 22–23 make the movement from [[Temples]] to [[Missionary Work]] especially explicit. Holiness includes guarding sacred space from pollution while petitioning that transgressors may repent, return, and be restored. The prayer also holds [[Justice and Mercy]] in unresolved tension: it requests deliverance and severe judgment, yet confesses universal sin, asks forgiveness and mercy, prefers opponents' repentance, affirms the worth of their souls, and submits human wishes to God's will. These qualifications do not erase the imprecations.
+The house serves interconnected purposes: divine presence, disciplined worship, [[Education and Learning]], repentance, spiritual maturation, and preparation for service. Verses 22–23 make the movement from [[Temples]] to [[Missionary Work]] especially clear. Holiness includes guarding the house from pollution, but verse 21 joins that concern to speedy repentance, return, and restoration.
+
+The prayer does not resolve the tension between [[Justice and Mercy]] by removing either side. It requests severe judgment and deliverance, yet also confesses that all people sin, seeks forgiveness, affirms the worth of opponents' souls, prefers their repentance, and submits human desire to God's will. Those qualifications matter, but they do not erase the imprecatory language.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -108,16 +112,24 @@ The house is portrayed as serving related ends: divine presence, disciplined wor
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-The prayer is saturated with scriptural diction. Verses 6–9 explicitly reuse [[D&C 88]]. Verses 35–37 invoke [[Acts 2]]; verse 72 combines elements of [[Daniel 2]]; verse 73 reproduces the imagery of [[Song of Solomon 6]]; and verse 75 follows [[1 Thessalonians 4]]. This density demonstrates biblical intertextuality, but by itself cannot decide whether the composition arose through conscious literary construction, memorized scriptural language, revelation, or some combination.
+The prayer is saturated with scriptural diction. Verses 6–9 explicitly reuse [[D&C 88]]. Verses 36–37 evoke [[Acts 2]]'s Pentecost narrative through the shared images of a rushing mighty wind and cloven tongues of fire; verse 72 combines language associated with [[Daniel 2]]; verse 73 closely follows [[Song of Solomon 6]]; and verse 75 parallels [[1 Thessalonians 4]]. This density establishes extensive intertextuality but, by itself, cannot decide whether the composition arose through conscious literary construction, memorized scriptural language, revelation, or some combination.
+
+The prayer also varies its address to God rather than settling on one title: "O Lord God of Israel" opens it (v. 1), "Holy Father" recurs through the petitionary body (vv. 4, 10, 12, 14, 22, 24, 29, 47, 62), "O Jehovah" marks several urgent pleas for mercy and deliverance (vv. 34, 42, 56), and the closing invocation expands to "O Lord God Almighty" with a lengthy list of divine attributes (v. 77). Whether this shifting address tracks deliberate rhetorical emphasis or simply reflects natural variation in extemporaneous prayer language is not settled by the text alone.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The most secure intertextual feature is the explicit reuse of [[D&C 88]] in verses 6–9 and 14–19. The prayer does more than repeat instructions: it converts commands about organizing a sacred house into petitions that those purposes will be realized. The chapter also employs biblical imagery associated with Pentecost, temple dedication, Zion, a bride, cosmic transformation, resurrection, and heavenly worship. Similarity to biblical genres and phrases is real, but it does not by itself settle questions of composition or authorship.
+The clearest literary feature is the explicit reuse of [[D&C 88]] in verses 6–9 and 14–19: the prayer does more than repeat instructions, it converts commands about organizing a sacred house into petitions that those purposes will be realized. Verse 8 also organizes the house's purposes into a sevenfold repeated formula (prayer, fasting, faith, learning, glory, order, God); the pattern is deliberate as rhetoric, though any numerological significance beyond emphasis is speculative, especially since the list is substantially inherited from D&C 88's own wording. The prayer builds further momentum through triadic repetition—incomings/outgoings/salutations in verses 9 and 17–19, and the threefold "O hear, O hear, O hear us" opening its closing appeal (v. 78)—giving the whole a liturgical, chant-like cadence, alongside an expanding horizon that moves from the house, to missionaries, to cities, to displaced Saints, to nations and scattered Israel, to the whole church, and finally to the heavenly throne.
+
+Comparison with Solomon's dedication in [[2 Chronicles 6]] is useful at the level of genre and theme: both address God concerning a consecrated house, appeal to heaven, and extend concern beyond the immediate congregation. This resemblance, however, is thematic rather than textual—the verified index found no verbatim overlap between D&C 109 and 2 Chronicles 6, unlike the confirmed verse-level reuse shared with [[D&C 88]], [[Acts 2]], and [[Song of Solomon 6]]—so it should not be weighed as strongly as those verified parallels.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Explicit Textual Reuse
+> The prayer explicitly identifies an earlier revelation and closely reuses D&C 88's commands concerning a solemn assembly, learning by study and faith, organizing a sacred house, and conducting incomings and outgoings in the Lord's name. This strongly supports intentional incorporation of D&C 88 into the dedication prayer.
+> — strength 0.9 · confidence 1.0 · verified, well-hedged
+
 > [!evidence] Explicit Textual Dependence
 > The prayer explicitly introduces D&C 88:117–120 as a prior revelation and closely reproduces its commands concerning a solemn assembly, learning by study and faith, organizing a house of God, and conducting incomings and outgoings in the Lord's name. This strongly supports conscious textual dependence on D&C 88.
 > — strength 1.0 · confidence 1.0 · Broadly accepted explicit dependence · [[Explicit Textual Dependence in D&C 109|full dossier]]
@@ -126,22 +138,30 @@ The most secure intertextual feature is the explicit reuse of [[D&C 88]] in vers
 > D&C 109 explicitly introduces D&C 88:117–120 as a prior revelation and incorporates its language concerning a solemn assembly, learning by study and faith, the functions of the house, and conduct when entering or leaving. The later petitions adapt that revealed program into requests for the dedicated house.
 > — strength 1.0 · confidence 1.0 · Broadly accepted explicit textual reuse · [[Explicit Textual Reuse in D&C 109|full dossier]]
 
+> [!evidence] Biblical Intertextuality
+> Several passages closely echo biblical language or imagery: Pentecostal wind, fire, and tongues; the kingdom becoming a mountain that fills the earth; the moon-sun-army description; and being caught up to meet the Lord. Together these provide strong evidence that the prayer is densely scriptural in expression.
+> — strength 0.8 · confidence 0.9 · verified, well-hedged · [[Biblical Intertextuality in D&C 109|full dossier]]
+
 > [!evidence] Literary Intertextuality
 > The prayer repeatedly incorporates recognizable biblical phrases and images: protection against weapons, Pentecostal wind and fire, sealing the law and testimony, the kingdom becoming a world-filling mountain, the woman fair as moon and clear as sun, transformed terrain at the divine advent, and meeting the Lord in the cloud. This is strong evidence that the chapter was composed in a densely biblical idiom.
 > — strength 0.9 · confidence 1.0 · Broadly accepted literary observation · [[Literary Intertextuality in D&C 109|full dossier]]
+
+> [!evidence] Historical-Cultural Context *(tentative)*
+> Verse 65 describes 'remnants of Jacob' as being in a 'wild and savage condition,' language that, read plainly, characterizes a people in demeaning terms tied to the historical and cultural attitudes of its 1836 setting.
+> — strength 0.5 · confidence 0.6 · disputed, needs restraint
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- Which requested outcomes remain petitions, and which are conditioned on repentance, worthiness, or reception of testimony?
+- Which statements describe completed actions, and which remain conditional petitions?
 - How do verses 34, 43–44, and 50–53 qualify—but not cancel—the severe judgment language?
-- What does being “identified with the Gentiles” mean when the servants are also called “sons of Jacob” in verse 58?
-- How should readers acknowledge the demeaning language of verse 65 without projecting it onto present-day peoples or treating it as timeless ethnic description?
-- Which constitutional “principles” does verse 54 have in view, and what additional evidence would be needed before applying it to later disputes?
+- What relationship does the prayer envision between being “identified with the Gentiles” and being “sons of Jacob”?
+- How should readers confront the demeaning wording of verse 65 without transferring it uncritically to present-day peoples?
+- Which constitutional “principles” does verse 54 mean, and what evidence beyond this verse would be required to apply it to later political disputes?
 - How does movement from worship inside the house to service outside it connect [[Temples]] and [[Missionary Work]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the prayer with Solomon's temple dedications in [[2 Chronicles 6]] and [[1 Kings 8]], the explicitly reused instructions in [[D&C 88]], the Pentecost account in [[Acts 2]], and the kingdom vision in [[Daniel 2]]. These comparisons clarify the chapter's dedicatory genre and biblical language. Treat verbal parallels as evidence of scriptural reuse or shared genre, not by themselves as proof of supernatural origin or a particular compositional process.
+Compare the prayer with the temple dedications in [[2 Chronicles 6]] and [[1 Kings 8]], the explicitly reused instructions in [[D&C 88]], the Pentecost narrative in [[Acts 2]], the kingdom vision in [[Daniel 2]], and the resurrection language of [[1 Thessalonians 4]]. The comparisons to D&C 88, Acts 2, and 1 Thessalonians 4 rest on verified verbal overlap; the comparisons to 2 Chronicles 6 and 1 Kings 8 are genre and thematic parallels only, with no confirmed textual overlap, and should be weighted accordingly. Treat all of these as evidence of scriptural reuse or shared genre, not by themselves as proof of supernatural origin or a particular compositional process.
 <!-- SG:END further-study -->
