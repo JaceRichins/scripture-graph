@@ -3624,6 +3624,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-1-951ae5fd",
+   "t": "Solomon's accession and Gibeon theophany",
+   "y0": -970,
+   "y1": -967,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places the start of Solomon's reign at roughly 970 BCE, shortly after David's death; this episode occurs early in his reign per the chapter's own sequence.",
+   "chapters": [
+    "2 Chronicles 1"
+   ],
+   "people": [
+    "Solomon",
+    "David",
+    "Moses"
+   ],
+   "places": [
+    "Gibeon",
+    "Jerusalem"
+   ],
+   "things": [
+    "Tabernacle",
+    "Brasen altar"
+   ]
+  },
+  {
    "id": "r-2chr-12-114d4356",
    "t": "Shishak (Shoshenq I) invades Judah",
    "y0": -926,
@@ -4356,6 +4387,34 @@ timeline module, not this file._
    ],
    "places": [
     "Hebron"
+   ]
+  },
+  {
+   "id": "r-2sam-20-c891f961",
+   "t": "Sheba's Revolt and Murder of Amasa",
+   "y0": -972,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Occurs immediately after Absalom's revolt near the end of David's traditionally dated reign (c. 1010-970 BCE); no internal date is given.",
+   "chapters": [
+    "2 Samuel 20"
+   ],
+   "people": [
+    "David",
+    "Joab",
+    "Sheba",
+    "Amasa"
+   ],
+   "places": [
+    "Jerusalem",
+    "Abel of Beth-maachah"
    ]
   },
   {
@@ -6637,6 +6696,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-40-ddaae981",
+   "t": "Gedaliah appointed governor of Judah after Jerusalem's fall",
+   "y0": -586,
+   "y1": -582,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Follows the fall of Jerusalem and deportation to Babylon (586 BC) described in Jeremiah 39-40 and 2 Kings 25.",
+   "chapters": [
+    "Jeremiah 40"
+   ],
+   "people": [
+    "Gedaliah",
+    "Jeremiah",
+    "Nebuzar-adan"
+   ],
+   "places": [
+    "Mizpah"
+   ]
+  },
+  {
    "id": "r-jer-43-7dc577ab",
    "t": "Nebuchadnezzar's campaign against Egypt (Amasis)",
    "y0": -570,
@@ -6996,6 +7081,32 @@ timeline module, not this file._
    "places": [
     "Mount of Olives",
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-judg-13-e38937bf",
+   "t": "Birth of Samson to Manoah of the Danites",
+   "y0": -1090,
+   "y1": -1070,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed within the traditional forty-year Philistine oppression preceding Samson's twenty-year judgeship; exact dating is uncertain due to well-known synchronism difficulties in the book of Judges.",
+   "chapters": [
+    "Judges 13"
+   ],
+   "people": [
+    "Samson",
+    "Manoah"
+   ],
+   "places": [
+    "Zorah",
+    "Eshtaol"
    ]
   },
   {
@@ -7467,6 +7578,26 @@ timeline module, not this file._
    "places": [
     "Egypt",
     "Canaan"
+   ]
+  },
+  {
+   "id": "r-ps-4-52f16df3",
+   "t": "Psalm 4 traditionally ascribed to David",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Long-standing attribution of many psalms, including Psalm 4, to King David within Jewish and Christian tradition; the text itself contains no internal dating markers.",
+   "chapters": [
+    "Psalm 4"
+   ],
+   "people": [
+    "David"
    ]
   },
   {
