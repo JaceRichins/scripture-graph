@@ -23,7 +23,10 @@ Scripture: [[2 Kings 1]] · My notes: [[2 Kings 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Two crises (vv. 1-2):** Moab rebels, and Ahaziah becomes sick after a fall.
+2. **The intercepted inquiry (vv. 3-8):** Elijah redirects the messengers and is identified by their description.
+3. **Three delegations (vv. 9-15):** two commanding captains perish; the kneeling third captain survives, and Elijah receives permission to descend.
+4. **Oracle and fulfillment (vv. 16-18):** Elijah confronts Ahaziah, the king dies, and the account closes with succession and a source notice.
 <!-- SG:END structure -->
 
 ## People
@@ -61,13 +64,14 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Prophecy]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Revelation]] as a question of allegiance: Ahaziah seeks knowledge from the god of Ekron, while Elijah's repeated question insists that the word of Israel's God was available. It also presents [[Prophecy]] through a prediction-fulfillment pattern, explicitly stating that Ahaziah died according to the word spoken by Elijah. This establishes the narrator's claim about prophetic reliability within the story; it should not be confused with independent historical verification.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -82,25 +86,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+'Baal-zebub' ('lord of the flies') is often read by scholars as a derisive Hebrew alteration of a Philistine title more naturally rendered 'Baal-zebul' ('Baal the prince'); a similarly-spelled name resurfaces in the Gospels as 'Beelzebub'/'Beelzebul' (Matthew 12:24), though the exact relationship between the two forms is debated and New Testament manuscripts vary on the spelling, so this should be read as a suggestive rather than certain connection.
+
+Separately, the English text repeatedly uses descent language: Ahaziah will not 'come down' from his bed (vv. 4, 6, 16), the captains order Elijah to 'come down' (vv. 9, 11), fire 'comes down' from heaven (vv. 10, 12, 14), and Elijah finally 'goes down' under the angel's direction (v. 15). This pattern is clear at the level of the English translation; whether it reflects a single deliberate wordplay in the underlying Hebrew would require separate lexical analysis.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter is built on a triadic, escalating pattern: three captains of fifty are sent to Elijah, the first two commanding him to 'come down' (with increasing urgency) and being consumed by fire, while the third instead kneels and begs for his life and is spared (vv. 9-14) — though the text credits the change directly to the angel's authorization in v. 15, not merely to the captain's humility. The messengers' description of Elijah as 'an hairy man, and girt with a girdle of leather about his loins' (v. 8) echoes the Gospels' description of John the Baptist's clothing (Matthew 3:4), reinforcing his role as an Elijah-type figure (see Malachi 4:5-6; Matthew 11:14). The chapter also continues Ahaziah's Baal-oriented characterization introduced in [[1 Kings 22]], while [[2 Kings 3]] develops the Moabite rebellion mentioned in its opening verse. Centuries later, [[Luke 9]] has James and John ask whether they should call down fire 'even as Elias did' (Luke 9:54); Jesus's rebuke marks a deliberate contrast with this episode.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Evidence
+> Within the narrative, Ahaziah's death is explicitly presented as fulfillment of the word of the LORD spoken through Elijah. This is strong evidence for the narrator's theology of prophetic reliability, but it is not independent evidence that the reported events occurred historically or that the death had a supernatural cause.
+> — strength 0.8 · confidence 0.9 · model example of layered claim construction · [[Internal Narrative Evidence in 2 Kings 1|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why are the soldiers, and not only the king who sent them, subjected to fatal judgment? The chapter does not supply a developed ethical defense of their deaths.
+- Does the third captain survive because of his humility, because his plea acknowledges the earlier judgments, or because the angel now authorizes Elijah to go (v. 15)? The text allows these factors to work together without isolating one cause.
+- How should this episode be read alongside Elijah's earlier experience at Horeb, where 'the LORD was not in the fire' but in 'a still small voice' (1 Kings 19:12)?
+- What does Jesus's rebuke of James and John for wanting to reenact this very episode (Luke 9:54-56) suggest about how later scripture receives it?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+- Compare this fire-from-heaven judgment with Elijah's fire at Mount Carmel ([[1 Kings 18]]:38) and his later revelation at Horeb (1 Kings 19:11-13).
+- See [[1 Kings 22]] for Ahaziah's introduction as a worshiper of Baal, and [[2 Kings 3]] for the fuller account of Moab's rebellion mentioned in v. 1.
+- The Mesha Stele, a 9th-century BC Moabite inscription discovered in 1868, offers broad external corroboration of Omride-Moab conflict, though it does not precisely date the notice in v. 1.
+- See [[Luke 9]] for the New Testament's engagement with this chapter's fire judgment, and Malachi 4:5-6 for the prophetic expectation behind the John-the-Baptist/Elijah typology.
 <!-- SG:END further-study -->
