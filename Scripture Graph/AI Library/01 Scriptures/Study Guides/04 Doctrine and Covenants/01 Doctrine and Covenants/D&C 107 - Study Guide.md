@@ -17,20 +17,20 @@ Scripture: [[D&C 107]] · My notes: [[D&C 107 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-D&C 107 combines teachings about [[Priesthood]] with detailed institutional instructions. It distinguishes the [[Melchizedek Priesthood]] and [[Aaronic Priesthood]], describes presiding quorums and missionary and local assignments, regulates councils and judicial procedures, recounts an antediluvian line of ordinations, and concludes by requiring each officeholder to learn and diligently perform his duty. Authority is repeatedly joined to covenants, moral character, instruction, sustaining, and accountability.
+D&C 107 joins teachings about [[Priesthood]] to detailed institutional instructions. It distinguishes the [[Melchizedek Priesthood]] and [[Aaronic Priesthood]], defines presiding and missionary assignments, regulates decisions and judicial review, recounts a primeval line of ordinations, and concludes by requiring each officeholder to learn and diligently perform his duty. Its central institutional pattern is authority joined to direction, sustaining, moral character, instruction, procedure, and accountability.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-A useful outline is:
+A useful textual outline is:
 
-1. **Verses 1-20:** The names, divisions, offices, powers, and ordinances of the [[Melchizedek Priesthood]] and [[Aaronic Priesthood]].
-2. **Verses 21-38:** Presiding quorums, decision standards, differentiated assignments, and worldwide ministry.
-3. **Verses 39-57:** Evangelical ministers, lineage, antediluvian ordinations, and the gathering at Adam-ondi-Ahman.
-4. **Verses 58-84:** Presiding officers, bishops, temporal administration, judicial councils, and accountability.
-5. **Verses 85-100:** Quorum presidencies and sizes, teaching responsibilities, the gifts of the church president, expansion of the Seventy, and the concluding duty to learn and act diligently.
+1. **Verses 1-20:** Names, divisions, offices, powers, and ordinances of the two priesthoods.
+2. **Verses 21-38:** Presiding quorums, decision standards, differentiated jurisdictions, and worldwide ministry.
+3. **Verses 39-57:** Evangelical ministers, lineage, antediluvian ordinations, and Adam-ondi-Ahman.
+4. **Verses 58-84:** Presiding offices, bishops, temporal administration, judicial councils, and accountability.
+5. **Verses 85-100:** Quorum presidencies, teaching duties, gifts of the church president, expansion of the Seventy, and the command to learn and act diligently.
 
-Verses 58 and 77 introduce authoritative wording with “the revelation which says” and “the commandment which says.” These transitions make the chapter read as an arranged body of related instruction, but the canonical text alone does not establish the dates, document boundaries, or editorial history of its components.
+The formulas “the revelation which says” in verse 58 and “the commandment which says” in verse 77 are internal evidence that related instructional material has been arranged here. They do not identify the original dates or boundaries of its components.
 <!-- SG:END structure -->
 
 ## People
@@ -75,16 +75,16 @@ Verses 58 and 77 introduce authoritative wording with “the revelation which sa
 - [[Apostles]]
 - [[Jews and Gentiles]]
 - [[Sustaining Church Leaders]]
-- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Education and Learning]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter associates the greater priesthood with presidency, spiritual administration, and the keys of spiritual blessings, including communion with the heavenly assembly, God, and Jesus Christ (D&C 107:8, 18-19). It associates the lesser priesthood with outward ordinances, ministering angels, repentance, and baptism (D&C 107:20). These are real distinctions, though the chapter also provides for authorized service across lesser offices and for bishops to exercise judicial responsibilities.
+The greater priesthood is associated with presidency, spiritual administration, and the keys of spiritual blessings, culminating in communion with the heavenly assembly, God, and Jesus Christ (D&C 107:8, 18-19). The lesser priesthood is associated with outward ordinances, ministering angels, repentance, and baptism (D&C 107:14-15, 20). The distinction is qualified by authorized service across offices: a Melchizedek high priest may perform lesser offices and, when properly appointed, serve as bishop (D&C 107:10, 17, 69-73).
 
-Statements that several presiding quorums are “equal in authority” do not erase their differentiated assignments. The Presidency directs the Twelve, the Twelve have a traveling worldwide commission, the Seventy assist under the Twelve's direction, and standing councils serve local settings. The exact jurisdictional scope of the equality language remains uncertain.
+The chapter's statements that several quorums are “equal in authority” coexist with differentiated assignments and lines of direction. The Presidency directs the Twelve; the Twelve have a traveling worldwide commission; the Seventy assist under the Twelve; and standing councils act in local jurisdictions. This shows that equality does not plainly mean identical assignments, but the text does not fully define the equality formula or settle every later institutional application.
 
-Authority is also subject to stated restraints. Decisions are governed by quorum procedure and are to be made with righteousness, humility, patience, faith, knowledge, and [[Charity]]; unrighteous decisions may be reviewed. Verse 22 joins appointment and ordination with being upheld by the church's confidence, faith, and prayer. Verses 81-84 state that no member is exempt from authorized judgment and provide a distinct procedure for a transgressing President of the High Priesthood. These are hierarchical accountability mechanisms, not evidence of unrestricted popular or symmetrical disciplinary power.
+Governance is joined to procedure and moral accountability. Decisions involve quorum rules and are to be made with righteousness, humility, patience, faith, knowledge, and [[Charity]]. Unrighteous decisions may be reviewed, difficult cases proceed through identified councils, and even the President of the High Priesthood is subject to judgment (D&C 107:27-32, 78-84). The text does not clearly say that every moral deficiency automatically renders a decision procedurally void; validity, spiritual blessing, and review should therefore remain distinct.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -117,16 +117,18 @@ Authority is also subject to stated restraints. Decisions are governed by quorum
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Two biblical verbal relationships are especially strong. D&C 107:19 closely parallels [[Hebrews 12]] through its clustered references to the general assembly, church of the Firstborn, God, Jesus as mediator, and the new covenant. D&C 107:30-31 closely follows the ordered virtue sequence in [[2 Peter 1]] and echoes its conclusion about abundance, fruitfulness, and knowledge of the Lord.
+D&C 107:19 has a strong verbal relationship to [[Hebrews 12]], sharing the concentrated cluster of general assembly, church of the Firstborn, God, Jesus as mediator, and the new covenant. D&C 107:30-31 closely follows the ordered virtue sequence and fruitfulness language of [[2 Peter 1]]. These are strong phrase-level and sequential correspondences.
 
-These correspondences strongly support biblical reuse or dependence, especially in the second passage. They do not by themselves determine whether the wording was consciously quoted, recalled from scriptural memory, revealed through familiar biblical language, or produced through another compositional process. They likewise establish no larger conclusion about ancient provenance.
+The verified overlap index reports zero qualifying overlapping verses for both biblical chapters. That mechanical result should be preserved as a fact about the index, but it does not erase correspondences distributed across several biblical verses. The observable relationships support biblical reuse or dependence; they do not determine conscious intention, direct copying, composition from memory, revelatory mechanism, or ancient versus modern provenance.
+
+The chapter also repeatedly uses relational language such as “under the direction,” “upheld,” “in council,” and “according to the covenants and commandments.” This vocabulary places rights, keys, and presidency within structures of authorization and responsibility.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The chapter repeatedly moves from office and authority to obligation. Presiding rights are followed by lines of direction, sustaining, decision procedures, moral qualifications, review, teaching, and judgment. The final command to learn one's duty and act diligently functions as a concise application of the preceding institutional material.
+The chapter repeatedly moves from authority to obligation. Presidency is followed by direction; equal authority by quorum procedure; judicial power by testimony and law; and office by teaching and diligent service. Verses 99-100 therefore operate as more than a detached exhortation: they condense the practical burden of the preceding institutional material.
 
-Verses 41-57 shift from administrative instruction to sacred history. The chapter reports ordinations among Adam and his descendants and culminates in a communal scene of blessing, divine appearance, comfort, and prophecy at Adam-ondi-Ahman. The reported ordinations are not a simple sequence of fathers directly ordaining sons: Adam ordains several later descendants, Seth ordains Lamech, and Methuselah ordains Noah. This describes the narrative's form and claims without independently verifying its antediluvian history.
+Verses 41-57 interrupt administrative instruction with sacred history. The section reports a network of ordinations rather than a simple succession of fathers ordaining sons, and it culminates in a communal scene of blessing, divine appearance, comfort, and prophecy at Adam-ondi-Ahman. This explains how the passage presents priesthood continuity but does not independently verify its primeval chronology.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -135,26 +137,42 @@ Verses 41-57 shift from administrative instruction to sacred history. The chapte
 > The same extended sequence of uncommon virtues and the shared abundance-fruitfulness conclusion make literary reuse of 2 Peter 1:5-8 in D&C 107:30-31 highly probable.
 > — strength 1.0 · confidence 1.0 · Near-verbal reuse highly probable; conscious intent unresolved · [[Near-Verbal Biblical Intertext in D&C 107|full dossier]]
 
+> [!evidence] Biblical Verbal Dependence
+> The sequence of virtues in D&C 107:30 and the promise in verse 31 closely follow the ordered virtue list and fruitfulness language of 2 Peter 1:5-8. The correspondence is strong evidence of literary reuse of that biblical passage.
+> — strength 0.9 · confidence 1.0 · strong verbal dependence; mechanism disputed · [[Biblical Verbal Dependence in D&C 107|full dossier]]
+
+> [!evidence] Biblical Intertextuality
+> D&C 107:19 and Hebrews 12:22-24 share an unusually concentrated cluster: general assembly, church of the Firstborn, God, Jesus as mediator, and the new covenant. This is strong evidence that the wording of D&C 107:19 participates in the language of Hebrews 12.
+> — strength 0.8 · confidence 1.0 · strong verbal relationship; mechanism disputed · [[Biblical Intertextuality in D&C 107|full dossier]]
+
 > [!evidence] Internal Institutional Design
 > The combination of consent, unanimity, ethical qualifications, appeal, and procedures for trying even the church president is strong textual evidence that the chapter's stated ideal of priesthood government includes accountability as well as authority.
 > — strength 0.9 · confidence 0.9 · Strong evidence about the chapter's institutional ideal · [[Internal Institutional Design in D&C 107|full dossier]]
 
-> [!evidence] Literary Intertextuality *(tentative)*
-> The concentration and sequence of shared concepts in D&C 107:19 and Hebrews 12:22-24 provide strong evidence that D&C 107:19 deliberately invokes the biblical description of the heavenly assembly.
-> — strength 0.8 · confidence 0.7 · Textual dependence strong; deliberate invocation disputed
+> [!evidence] Compositional And Editorial Signal
+> Verses 58 and 77 introduce ensuing material as wording from an already identifiable revelation or commandment. Together with the chapter's shifts between institutional rules and sacred history, these formulas support reading the present chapter as an arrangement of related instructional blocks.
+> — strength 0.6 · confidence 0.9 · internal signal accepted; editorial history unresolved · [[Compositional And Editorial Signal in D&C 107|full dossier]]
+
+> [!evidence] Biblical Background / Terminology *(tentative)*
+> D&C 107:1 and 107:6 treat 'Aaronic' and 'Levitical' as interchangeable names for one priesthood ('the Aaronic or Levitical Priesthood'), whereas priestly legislation in the Torah (e.g., Numbers 3 and 18) generally distinguishes Levites broadly, who assisted in tabernacle service, from Aaronic priests specifically, who alone were authorized to offer sacrifice.
+> — strength 0.3 · confidence 0.6 · textual classification accepted; comparison disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- In what precise sense are the Presidency, Twelve, Seventy, and high councils “equal in authority” when the chapter also assigns them different jurisdictions and lines of direction?
-- Does “this order” in D&C 107:40 refer particularly to the evangelical ministers of verse 39, to a lineage-associated priesthood order, or more broadly to priesthood?
-- Does the exceptional majority rule change only quorum composition, or does it also modify the unanimity requirement among those present?
-- How do procedural validity, moral qualifications, spiritual blessings, and appeal relate in the chapter's account of legitimate decisions?
-- Why is the Adam-ondi-Ahman narrative placed between instructions concerning evangelical ministers and the resumed discussion of church officers?
-- Which features of the present chapter indicate arranged instructional blocks, and which details of its compositional history require evidence beyond the canonical text?
+- What precise kind of equality is asserted among quorums that have different jurisdictions and lines of direction?
+- In the exceptional circumstances of verse 28, must every member of the participating majority still agree to a decision?
+- Does “this order” in verse 40 refer specifically to evangelical ministers, to a lineage-bearing priesthood order, or to priesthood more broadly?
+- How do formal validity, righteous character, promised spiritual fruit, and the appeal mechanism relate to one another in verses 27-32?
+- Why is the Adam-ondi-Ahman narrative placed between the introduction of evangelical ministers and the resumed regulation of church officers?
+- Which compositional conclusions follow from verses 58 and 77, and which require historical evidence outside the canonical chapter?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the Aaronic formulation with [[D&C 13]], offices and administrative duties with [[D&C 20]] and [[D&C 68]], high-council and judicial procedures with [[D&C 102]], and broader teachings about priesthood powers and blessings with [[D&C 84]]. Compare D&C 107:19 with [[Hebrews 12]] and D&C 107:30-31 with [[2 Peter 1]], distinguishing verbal dependence from claims about conscious intention or revelatory mechanism. The topics [[Sustaining Church Leaders]], [[Apostles]], [[Missionary Work]], [[Patriarchal Blessings]], and [[Education and Learning]] provide additional focused study paths.
+Compare Aaronic keys with [[D&C 13]], offices and administrative duties with [[D&C 20]] and [[D&C 68]], and judicial procedure with [[D&C 102]]. Compare D&C 107:19 with [[Hebrews 12]] and D&C 107:30-31 with [[2 Peter 1]], separating observable verbal dependence from theories about intention, provenance, or revelation.
+
+The phrase “baptism of repentance for the remission of sins” in D&C 107:20 should also be compared with the mechanically verified parallels in [[Mark 1]], [[Luke 3]], and [[Joseph Smith—History 1]]. The ordination ages in D&C 107:42-52 may be compared with [[Genesis 5]], while remembering that the chapters report ages for different events and therefore do not present a simple contradiction.
+
+The topics [[Sustaining Church Leaders]], [[Missionary Work]], [[Education and Learning]], [[Patriarchal Blessings]], and [[Justice and Mercy]] provide additional focused study paths.
 <!-- SG:END further-study -->
