@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 1846–AD 1847** — The pioneer exodus west · [[D&C 136]] · [[AD 1801-1900]] *(historical)*
+- **AD 1847** — Camp of Israel organized at Winter Quarters for westward trek · [[D&C 136]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

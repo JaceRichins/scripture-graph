@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **4000 BC** — The Creation and Eden · [[Genesis 1]] · [[Genesis 2]] · [[Moses 2]] · [[4000-3901 BC]] *(traditional dating)*
 - **4000 BC** — The Fall of Adam and Eve · [[Genesis 3]] · [[Moses 4]] · [[4000-3901 BC]] *(traditional dating)*
+- **AD 1836** — Vision of the Celestial Kingdom, Kirtland Temple · [[D&C 137]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

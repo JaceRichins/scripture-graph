@@ -45,6 +45,7 @@ _Not yet developed._
 - **1900 BC–1890 BC** — Isaac's Marriage to Rebekah · [[Genesis 24]] · [[1900-1801 BC]] *(traditional dating)*
 - **1870 BC** — The binding of Isaac on Moriah · [[Genesis 22]] · [[1900-1801 BC]] *(approximate)*
 - **AD 1836** — Kirtland Temple dedication-week vision (D&C 110) · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
+- **AD 1836** — Vision of the Celestial Kingdom, Kirtland Temple · [[D&C 137]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

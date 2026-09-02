@@ -5241,6 +5241,63 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-136-89a071f4",
+   "t": "Camp of Israel organized at Winter Quarters for westward trek",
+   "y0": 1847,
+   "y1": 1847,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The revelation is dated January 14, 1847 in its section heading, given at Winter Quarters (present-day Nebraska) to organize pioneer companies for the journey to the Rocky Mountains following the 1846 expulsion from Nauvoo.",
+   "chapters": [
+    "D&C 136"
+   ],
+   "people": [
+    "Ezra T. Benson",
+    "Orson Pratt",
+    "Wilford Woodruff",
+    "Amasa Lyman"
+   ],
+   "places": [
+    "Winter Quarters"
+   ],
+   "things": [
+    "Camp of Israel"
+   ]
+  },
+  {
+   "id": "r-dc-137-eea90787",
+   "t": "Vision of the Celestial Kingdom, Kirtland Temple",
+   "y0": 1836,
+   "y1": 1836,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated to January 21, 1836, in the Kirtland Temple, shortly before the temple's formal dedication later that same month.",
+   "chapters": [
+    "D&C 137"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Adam",
+    "Abraham",
+    "Alvin Smith"
+   ],
+   "places": [
+    "Kirtland Temple"
+   ]
+  },
+  {
    "id": "r-dc-20-2dbce0ce",
    "t": "Organization of the Church of Christ, April 6, 1830",
    "y0": 1830,

@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 1847** — Camp of Israel organized at Winter Quarters for westward trek · [[D&C 136]] · [[AD 1801-1900]] *(historical)*
 - **AD 1890** — The Manifesto — Official Declaration 1 · [[Official Declaration 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1893** — The Salt Lake Temple dedicated · [[AD 1801-1900]] *(historical)*
 
