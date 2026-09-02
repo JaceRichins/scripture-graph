@@ -6,6 +6,50 @@ already cost a debugging session.
 
 Paths below are relative to the repo root, `C:\Users\jacer\repos\SCRIPTURE GRAPH`.
 
+## STOP — check these three things first
+
+Releasing copies files into a folder that **Obsidian Sync replicates to
+every device immediately**. Deploying from the wrong place does not fail
+loudly; it silently ships old code to Jace's phone and the whole family,
+and leaves no trace in git. Run this before anything else:
+
+```bash
+cd "C:/Users/jacer/repos/SCRIPTURE GRAPH"          # the MAIN checkout, never a worktree
+git rev-parse --show-toplevel                       # must print exactly that path
+git rev-parse --abbrev-ref HEAD                     # must print: master
+git status --short --branch | head -1               # master must not be BEHIND origin/main
+grep '"version"' ecosystem/plugins/scripture-graph/manifest.json
+curl -s http://192.168.1.59:8930/plugin/manifest.json | grep version
+```
+
+Three rules, all of which must hold:
+
+1. **Main checkout only.** `git worktree list` will show other checkouts
+   (feature branches) that have their *own* copy of `Scripture Graph/`.
+   Building or copying from one of those hits the wrong vault and the
+   wrong code. Release only from the main repo folder.
+2. **On `master`, and not behind `origin/main`.** A stale branch is old
+   code wearing a new number.
+3. **The new version must be HIGHER than the live server's.** Bump from
+   what is *shipped* (the `curl` above), never from whatever the local
+   manifest happens to say. A tree that is behind will show a lower
+   number — bumping that ships a **downgrade to every device**, and
+   because the update notice only fires on *newer* versions, nobody is
+   told. This is the single most damaging mistake available here.
+
+Also confirm the workspace link exists, or the build is quietly stale:
+
+```bash
+ls ecosystem/plugins/scripture-graph/node_modules/@scripture-graph
+```
+
+If that is missing, run `npm install` from `ecosystem/` before building.
+
+> A note on `git push origin master:main`: that refspec pushes the ref
+> named `master`, **not** whatever branch you have checked out. From a
+> feature branch it silently pushes nothing new. Land your branch on
+> `master` first; then this command means what it says.
+
 ## The pipeline
 
 ```bash
