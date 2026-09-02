@@ -92,16 +92,18 @@ def test_context_gathers_the_canon_and_the_findings(imported_ctx):
     _scan_mentions(ctx)
     db = ctx.db()
     nid = db.execute("SELECT id FROM nodes WHERE title='Nephi (son of Lehi)'").fetchone()["id"]
+    first = next(ch for ch in build_subject_context(ctx, nid)["chapters"]
+                 if ch["title"] == "1 Nephi 1")
+    # a finding the chapter reading left on 1 Nephi 1
     db.execute(
         "INSERT INTO claims(id,node_id,claim_type,text,tier,scores_json,consensus,"
         "sources_json,provenance_json,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?,?)",
-        ("clm-test-1", "chapter:1-ne-1", "observation",
+        ("clm-test-1", f"chapter:{first['slug']}", "observation",
          "Nephi opens his record by naming his parents and his own hand as the writer.",
          "ACCEPT", "{}", None, "[]", "{}", now_iso(), now_iso()))
     db.commit()
     c = build_subject_context(ctx, nid)
     assert c["kind"] == "person" and c["title"] == "Nephi (son of Lehi)"
-    assert any(ch["title"] == "1 Nephi 1" for ch in c["chapters"])
     assert c["verses"] and all("Nephi" in v["text"] for v in c["verses"])
     assert c["verses"][0]["ref"].startswith("1 Nephi ")
     assert c["findings"] and "record" in c["findings"][0]["text"]
