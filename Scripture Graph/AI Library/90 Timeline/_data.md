@@ -7080,6 +7080,26 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-134-31a44c7e",
+   "t": "Declaration on governments and laws adopted at Kirtland",
+   "y0": 1835,
+   "y1": 1835,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Per the section's traditional heading, the declaration was adopted by unanimous vote of a general assembly of the Church at Kirtland, Ohio, in August 1835, for inclusion in that year's edition of the Doctrine and Covenants.",
+   "chapters": [
+    "D&C 134"
+   ],
+   "places": [
+    "Kirtland, Ohio"
+   ]
+  },
+  {
    "id": "r-dc-136-89a071f4",
    "t": "Camp of Israel organized at Winter Quarters for westward trek",
    "y0": 1847,
@@ -7317,6 +7337,30 @@ timeline module, not this file._
    "places": [
     "Missouri",
     "Ohio"
+   ]
+  },
+  {
+   "id": "r-dc-54-be3f000c",
+   "t": "Colesville Saints directed from Thompson, Ohio to Missouri",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The revelation follows the collapse of a stewardship agreement on Leman Copley's land in Thompson, Ohio, and redirects the Colesville branch to journey west to Missouri; documented in the historical introduction to this revelation in the Joseph Smith Papers, Documents, Volume 1.",
+   "chapters": [
+    "D&C 54"
+   ],
+   "people": [
+    "Newel Knight",
+    "Leman Copley"
+   ],
+   "places": [
+    "Missouri"
    ]
   },
   {
