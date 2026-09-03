@@ -5481,6 +5481,138 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-3ne-1-2ff64960",
+   "t": "Gadianton robbers resurge in the mountains",
+   "y0": 2,
+   "y1": 4,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "3 Nephi 1:27-30 places renewed Gadianton violence in the Nephite record's 93rd and 94th years, following the sign of Christ's birth.",
+   "chapters": [
+    "3 Nephi 1"
+   ],
+   "people": [
+    "Lachoneus"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "Gadianton robbers"
+   ]
+  },
+  {
+   "id": "r-3ne-1-93a7e0a8",
+   "t": "Birth sign and threatened believers",
+   "y0": 1,
+   "y1": 1,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter's internal ninety-second-year notation and official chapter heading place the reported birth sign at approximately A.D. 1.",
+   "chapters": [
+    "3 Nephi 1"
+   ],
+   "people": [
+    "Nephi",
+    "Jesus Christ",
+    "Samuel the Lamanite"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "birth sign",
+    "new star"
+   ]
+  },
+  {
+   "id": "r-3ne-10-256b91d4",
+   "t": "End of the destruction and promised manifestation",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Verse 18 places the transition to Christ's manifestation in the ending of the thirty-fourth year of the narrative calendar.",
+   "chapters": [
+    "3 Nephi 10"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Nephites",
+    "Lamanites"
+   ],
+   "things": [
+    "three days of darkness"
+   ]
+  },
+  {
+   "id": "r-3ne-13-010797fa",
+   "t": "Sermon at the Temple discourse continues (Lord's Prayer given)",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "temples"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "3 Nephi's narrative places this discourse on the day of the resurrected Christ's ministry to the Nephites, dated internally within the Nephite record to about A.D. 34.",
+   "chapters": [
+    "3 Nephi 13"
+   ],
+   "people": [
+    "Jesus Christ"
+   ]
+  },
+  {
+   "id": "r-3ne-15-4b0ae517",
+   "t": "Jesus explains fulfillment and the other sheep",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading places the discourse at about A.D. 34.",
+   "chapters": [
+    "3 Nephi 15"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Moses",
+    "Joseph"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "law of Moses",
+    "covenant with Israel"
+   ]
+  },
+  {
    "id": "r-3ne-21-d339e4b7",
    "t": "Jesus gives the sign of Israel's future gathering",
    "y0": 34,

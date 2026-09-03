@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **6 BC** — Samuel the Lamanite on the wall · [[Helaman 13]] · [[Helaman 14]] · [[Helaman 16]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **AD 1** — Birth sign and threatened believers · [[3 Nephi 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

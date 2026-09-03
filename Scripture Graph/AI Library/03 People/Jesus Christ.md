@@ -57,11 +57,11 @@ _Not yet developed._
 - **559 BC–545 BC** — Nephi explains Isaiah and prophesies plainly · [[2 Nephi 25]] · [[600-501 BC]] *(approximate)*
 - **83 BC** — Alma preaches repentance at Zarahemla · [[Alma 5]] · [[100-1 BC]] *(approximate)*
 - **4 BC** — The birth of Jesus Christ · [[Luke 2]] · [[Matthew 2]] · [[3 Nephi 1]] · [[100-1 BC]] *(traditional dating)*
+- **AD 1** — Birth sign and threatened believers · [[3 Nephi 1]] · [[AD 1-100]] *(approximate)*
 - **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
 - **AD 27–AD 30** — The mortal ministry in Galilee and Judea · [[John 6]] · [[Luke 15]] · [[John 11]] · [[AD 1-100]] *(approximate)*
 - **AD 28** — The Sermon on the Mount · [[Matthew 5]] · [[Matthew 6]] · [[Matthew 7]] · [[AD 1-100]] *(approximate)*
 - **AD 30** — Gethsemane, the cross, the tomb · [[Luke 22]] · [[Matthew 27]] · [[John 19]] · [[AD 1-100]] *(traditional dating)*
-- **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
