@@ -23,7 +23,15 @@ Scripture: [[1 Thessalonians 1]] · My notes: [[1 Thessalonians 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Greeting (verse 1):** Senders, recipients, grace, and peace.
+
+2. **Thanksgiving and remembrance (verses 2–4):** Prayer, faith, love, hope, and election.
+
+3. **Reception of the gospel (verses 5–6):** Word, power, the Holy Ghost, missionary conduct, affliction, and joy.
+
+4. **The community becomes an example (verses 7–8):** Its influence extends through Macedonia and Achaia and beyond.
+
+5. **Conversion and expectation (verses 9–10):** Turning, serving, and waiting for the risen Son.
 <!-- SG:END structure -->
 
 ## People
@@ -46,22 +54,22 @@ _Not yet developed._
 - [[Acts 15]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
 - [[2 Corinthians 1]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
 - [[1 Peter 5]] — 1 footnote cross-reference (from [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]])
-- [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[2 Thessalonians 1#^2thes-1-1|2 Thessalonians 1:1]]
-- [[Colossians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
-- [[Romans 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
+- [[Romans 1]] — 0 parallel verses
+- [[Colossians 1]] — 0 parallel verses
+- [[2 Thessalonians 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Gospel of Jesus Christ]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter refuses to separate belief from lived response. [[Faith]] works, love labors, and [[Hope]] endures. Conversion redirects worship and service toward the living and true God. Christian expectation rests on the [[Resurrection]] and looks toward the [[Second Coming of Jesus Christ]]. The mention of election is real but brief; this chapter alone does not resolve later disputes about predestination, foreknowledge, grace, and [[Agency]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -78,25 +86,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated movement is outward as well as inward: the gospel comes to the Thessalonians, they receive it, they imitate the Lord and the missionaries, they become examples, and the word sounds out from them. Verses 9–10 then use a memorable sequence—turn, serve, wait—to express past reorientation, present allegiance, and future expectation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verse 8 uses a vivid image: the Thessalonians' faith has "sounded out" into surrounding regions — likely rhetorical amplification rather than a literal claim that every region had heard specifically of this congregation — reinforcing the theme of their reputation spreading without further effort from Paul ("we need not to speak any thing," v.8). The chapter traces an expanding circle of influence: the gospel comes to the Thessalonians, they receive and imitate it, they become examples to others, and their own witness spreads outward, culminating in the eschatological hope of v.10.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Scholarly Dating Consensus *(tentative)*
+> 1 Thessalonians is widely dated by biblical scholars (both LDS-friendly and secular) to roughly A.D. 50-51, during Paul's second missionary journey, making it very likely the earliest surviving document in the New Testament — earlier than any of the four Gospels.
+> — strength 0.4 · confidence 0.5 · broadly accepted critical position but imprecisely sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What features of the missionaries' conduct made their proclamation more than 'word only'?
+
+- How can affliction and joy coexist in verse 6 without minimizing suffering?
+
+- What evidence does the chapter itself associate with the Thessalonians' election, and what questions does it leave unanswered?
+
+- Does the sweeping language of verse 8 describe literal geographical reach, rhetorical emphasis, or both?
+
+- How do turning, serving, and waiting correct definitions of conversion limited to a single past decision?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Acts 17]] for the narrative of Paul's activity and opposition in Thessalonica — but note a tension: Acts describes converts drawn from the synagogue and "devout Greeks" already sympathetic to Judaism, while 1 Thessalonians 1:9 describes the recipients as having "turned to God from idols," language suggesting a substantially pagan convert base. The two accounts should be read together critically, not simply harmonized. Compare [[2 Thessalonians 1]] on faith amid persecution and future judgment, [[Colossians 1]] and [[Romans 1]] on faith reported widely, and [[1 Corinthians 13]] on faith, hope, and charity.
 <!-- SG:END further-study -->
