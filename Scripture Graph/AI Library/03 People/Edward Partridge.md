@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — Revelation given at Independence, Jackson County, Missouri · [[D&C 57]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — Elders' return journey from Zion via St. Louis and Cincinnati · [[D&C 60]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — D&C 64 given to Joseph Smith at Kirtland, Ohio · [[D&C 64]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — Mob destroys Independence press, tars Edward Partridge · [[D&C 97]] · [[AD 1801-1900]] *(historical)*

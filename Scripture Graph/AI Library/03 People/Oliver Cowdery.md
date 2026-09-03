@@ -44,6 +44,7 @@ _Not yet developed._
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — D&C 28 given, addressing Hiram Page revelations · [[D&C 28]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — Revelation given at Independence, Jackson County, Missouri · [[D&C 57]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — Elders' return journey from Zion via St. Louis and Cincinnati · [[D&C 60]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — D&C 68 given at a conference of elders, Hiram, Ohio · [[D&C 68]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*

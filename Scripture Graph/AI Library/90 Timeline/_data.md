@@ -7324,6 +7324,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-57-ab69457e",
+   "t": "Revelation given at Independence, Jackson County, Missouri",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading and historical record date this revelation to July 20, 1831, given through Joseph Smith shortly after his arrival in Missouri.",
+   "chapters": [
+    "D&C 57"
+   ],
+   "people": [
+    "Sidney Gilbert",
+    "Edward Partridge",
+    "William W. Phelps",
+    "Oliver Cowdery"
+   ],
+   "places": [
+    "Independence (Missouri)"
+   ],
+   "things": [
+    "Temple lot"
+   ]
+  },
+  {
    "id": "r-dc-60-20d32dda",
    "t": "Elders' return journey from Zion via St. Louis and Cincinnati",
    "y0": 1831,
@@ -7349,6 +7379,35 @@ timeline module, not this file._
    "places": [
     "St. Louis",
     "Cincinnati"
+   ]
+  },
+  {
+   "id": "r-dc-62-a0ed1249",
+   "t": "Elders' return journey from Zion to Kirtland (Aug. 1831)",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading dates this revelation to August 13, 1831, given during Joseph Smith's return journey from the dedication of Zion in Jackson County, Missouri, back toward Kirtland, Ohio.",
+   "chapters": [
+    "D&C 62"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Joseph Smith"
+   ],
+   "places": [
+    "Missouri",
+    "Kirtland, Ohio"
+   ],
+   "things": [
+    "Sacrament"
    ]
   },
   {
