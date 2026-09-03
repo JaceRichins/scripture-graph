@@ -23,7 +23,11 @@ Scripture: [[Alma 38]] · My notes: [[Alma 38 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Faithfulness under affliction (vv. 1–5):** Shiblon's steadiness, persecution, patience, and deliverance.
+2. **Alma's saving knowledge (vv. 6–9):** knowledge through the Spirit, the angelic intervention, anguish, mercy, remission, and salvation through Christ.
+3. **Formation of a teacher (vv. 10–15):** diligence and temperance; warnings against pride; boldness bounded by restraint; disciplined passions; humble prayer; final commission and blessing.
+
+The movement is from Shiblon's tested past, through Alma's foundational testimony, to Shiblon's future ministry.
 <!-- SG:END structure -->
 
 ## People
@@ -49,24 +53,31 @@ _Not yet developed._
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[D&C 9]] — 3 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[D&C 9#^dc-9-14|D&C 9:14]]
-- [[Mosiah 2]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Mosiah 2#^mosiah-2-31|Mosiah 2:31]]
-- [[Alma 9]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[3 Nephi 27#^3ne-27-22|3 Nephi 27:22]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
-- [[Helaman 5]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-9|Alma 38:9]] ↔ [[Helaman 5#^hel-5-9|Helaman 5:9]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]]
+- [[Alma 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Endurance]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Repentance and Forgiveness]]
+- [[Pride]]
+- [[Final Judgment]]
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins [[Faith]], [[Endurance]], and [[Adversity]] without promising immunity from suffering. The Lord is said to be with Shiblon during persecution and to deliver him; verse 5 also looks forward to being lifted up at the last day, leaving the timing and form of deliverance partly open.
+
+Alma attributes his knowledge to the Spirit of God and to being born of God. His account of crying to Jesus Christ for mercy connects [[Conversion]] and [[Repentance and Forgiveness]] with remission of sins and peace. Verse 9 makes the chapter’s clearest doctrinal assertion: [[Salvation]] is only in and through Christ.
+
+Alma also presents disciplined conduct as integral to [[Missionary Work]]: diligence, temperance, humility, love, work, sober judgment, and boldness restrained by concern not to become overbearing. His prayer contrast rejects prideful comparison and praise-seeking in favor of dependence on mercy and concern for one’s brethren.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -90,27 +101,42 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated address “my son” keeps the counsel personal. Verses 1 and 5 use balanced conditional language to connect obedience or trust with consequences. Verse 12 places “boldness” beside “not overbearance,” presenting directness with an explicit limit. Its bridle metaphor plainly conveys control or restraint of passions, and the stated purpose is to be filled with love; the verse does not provide a complete theory of whether passions are to be redirected or suppressed.
+
+“Unworthiness” in verse 14 belongs to a specific contrast. Alma replaces “we are better than our brethren” with an appeal for forgiveness and mercy toward those same brethren. The immediate issue is spiritual superiority, not a general doctrine of unhealthy self-regard.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 6–9 offer a shorter account of the conversion narrative told more fully in [[Alma 36]]. The shared elements include revealed knowledge, angelic intervention, anguish, appeal to Christ, remission, and spiritual relief. Alma 38 explicitly gives the retelling a teaching purpose: Shiblon is to learn wisdom about salvation through Christ. The textual compression is observable; whether its precise surviving form reflects Alma’s deliberate composition, editorial abridgment, or another stage of textual production cannot be determined from the comparison alone.
+
+The Zoramite references connect counsel with earlier narrative context in [[Alma 31]]. Shiblon had participated in that mission and witnessed praise-seeking worship, so the warning in Alma 38:13–14 applies a remembered negative example to humble prayer. This continuity demonstrates literary coherence but does not by itself establish historicity or ancient authorship.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Coherence
+> Shiblon's remembered Zoramite service, persecution, and exposure to ostentatious prayer create strong internal narrative continuity between Alma 31 and Alma 38. This supports the literary coherence of the record but is only modest evidence regarding the historical origin of the narrative.
+> — strength 0.4 · confidence 0.9 · Coherence strong; historical significance modest and disputed · [[Internal Narrative Coherence in Alma 38|full dossier]]
+
+> [!evidence] Intertextual Pattern *(tentative)*
+> The 'obey and prosper in the land / disobey and be cut off' formula recurring across multiple speakers and generations in the Book of Mormon (Lehi, Benjamin, Alma to Ammonihah, Alma to Helaman, Alma to Shiblon) mirrors the blessing-and-curse covenant pattern familiar from Deuteronomic literature, and is consistent with a text that presents itself as steeped in a shared Israelite covenant tradition.
+> — strength 0.3 · confidence 0.6 · Plausible comparison; weak authorship significance
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How does Shiblon's persecution qualify simplistic readings of the promise to “prosper in the land”?
+- What distinction does the text draw between God's presence during affliction and deliverance from affliction?
+- What behaviors might count as bold without becoming overbearing?
+- How does the purpose clause “that ye may be filled with love” shape the meaning of bridling passions?
+- Why might Alma tell Shiblon a shorter version of the experience narrated in [[Alma 36]]?
+- How does Alma transform Shiblon's encounter with Zoramite prayer into positive instruction?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Alma 38:6–9 with [[Alma 36]] to identify which conversion details Alma retains for Shiblon and which he omits. Then read [[Alma 31]] alongside Alma 38:13–14, tracing how the earlier Zoramite prayer is answered by Alma's model of [[Humility]] and [[Prayer]]. A thematic study could also compare the chapter's three forms of deliverance: release from immediate persecution, spiritual peace through forgiveness, and being lifted up at the last day.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
