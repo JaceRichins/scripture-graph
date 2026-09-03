@@ -46,6 +46,7 @@ _Not yet developed._
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 - **AD 49** — The Jerusalem council · [[Acts 15]] · [[AD 1-100]] *(historical)*
 - **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
+- **AD 64–AD 68** — Traditional dating of 2 Peter near Peter's death · [[2 Peter 1]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

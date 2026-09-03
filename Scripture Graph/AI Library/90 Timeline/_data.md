@@ -5253,6 +5253,82 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2ne-6-6f9b61a1",
+   "t": "Jacob addresses the people of Nephi",
+   "y0": -559,
+   "y1": -545,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns Jacob's discourse to approximately 559–545 B.C.; the chapter itself supplies no narrower date.",
+   "chapters": [
+    "2 Nephi 6"
+   ],
+   "people": [
+    "Jacob",
+    "Nephi",
+    "Isaiah"
+   ],
+   "things": [
+    "Words of Isaiah"
+   ]
+  },
+  {
+   "id": "r-2ne-8-6af91eb8",
+   "t": "Jacob reads Isaiah's promises of Zion's restoration",
+   "y0": -559,
+   "y1": -545,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Jacob's continued Isaiah reading to approximately 559–545 B.C.",
+   "chapters": [
+    "2 Nephi 8"
+   ],
+   "people": [
+    "Jacob",
+    "Abraham",
+    "Sarah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Isaiah's writings"
+   ]
+  },
+  {
+   "id": "r-2pet-1-82041a2d",
+   "t": "Traditional dating of 2 Peter near Peter's death",
+   "y0": 64,
+   "y1": 68,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Tradition places composition shortly before Peter's martyrdom under Nero, consistent with 2 Peter 1:14's statement that Christ had shown Peter his death was near; critical scholarship disputes this and often dates the letter into the early-to-mid 2nd century.",
+   "chapters": [
+    "2 Peter 1"
+   ],
+   "people": [
+    "Peter (apostle)"
+   ]
+  },
+  {
    "id": "r-2sam-2-ef0af341",
    "t": "David's reign as king of Judah at Hebron",
    "y0": -1010,

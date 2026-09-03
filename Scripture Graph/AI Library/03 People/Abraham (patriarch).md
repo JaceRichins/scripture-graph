@@ -44,6 +44,7 @@ _Not yet developed._
 - **1901 BC–1900 BC** — Abraham and Sarah sojourn in Gerar, shortly before Isaac's birth · [[Genesis 20]] · [[2000-1901 BC]] *(traditional dating)*
 - **1900 BC–1890 BC** — Isaac's Marriage to Rebekah · [[Genesis 24]] · [[1900-1801 BC]] *(traditional dating)*
 - **1870 BC** — The binding of Isaac on Moriah · [[Genesis 22]] · [[1900-1801 BC]] *(approximate)*
+- **559 BC–545 BC** — Jacob reads Isaiah's promises of Zion's restoration · [[2 Nephi 8]] · [[600-501 BC]] *(approximate)*
 - **AD 1836** — Kirtland Temple dedication-week vision (D&C 110) · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — Vision of the Celestial Kingdom, Kirtland Temple · [[D&C 137]] · [[AD 1801-1900]] *(historical)*
 
