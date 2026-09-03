@@ -10,6 +10,20 @@ One stable assessment per evidence issue, reused by every note that bears on it 
 
 ## Book of Mormon
 
+### bom-2nephi31-baptism-example-context
+**2 Nephi 31:5-10's a fortiori baptism argument as illumination (not an adjudicated issue)** — *none* (neutral, evidence_strength 0.05) for: Not applicable: this is an illumination (context) note describing the passage's explicit a fortiori rhetorical structure rather than adjudicating a contested apologetic proposition.
+
+Reclassified from a contested-evidence note to context: the a fortiori structure is explicit and essentially uncontested, so scoring it against 'incidental phrasing' manufactured an adjudication where illumination is sufficient. Also corrected an inverted description of the inference present in Proposal A's how_it_fits: Christ's holiness makes his case the one with the least apparent need of baptism, not the 'greater' case.
+
+Notes: [[Internal Textual Argument in 2 Nephi 31]]
+
+### bom-2nephi5-lamanite-boundary-rhetoric-context
+**2 Nephi 5:21-24 as illumination of Nephite-Lamanite boundary rhetoric (not an adjudicated issue)** — *none* (neutral, evidence_strength 0.05) for: Not applicable: this is an illumination (context) note describing the passage's moralized boundary rhetoric and later interpretive history rather than adjudicating a contested apologetic proposition.
+
+Reclassified from a contested-evidence note to context: no serious reader treats vv.21-24 as neutral ethnography, so scoring 'moralized rhetoric' against that strawman manufactured a controversy. The note now explains the passage's boundary-construction rhetoric and its literal/racialized reception history as background, without a scored evidentiary weight.
+
+Notes: [[Internal Rhetoric And Group Identity in 2 Nephi 5]]
+
 ### jsm-matthew24-ad70-corroboration
 **AD 70 temple destruction and the historical status of Joseph Smith—Matthew's prediction** — *none* (neutral, evidence_strength 0.06) for: The historical destruction of Jerusalem's temple independently supports Joseph Smith—Matthew 1 as preserving a genuine pre-event prediction rather than a tradition or revision produced after the event.
 
@@ -30,6 +44,13 @@ Notes: [[Extensive Textual And Narrative Parallel in Abraham 2]]
 The verse clearly and near-certainly depicts organization from already-available materials at this narrative step, an essentially uncontested textual observation; but that plain reading is equally well explained by Joseph Smith's own independently documented eternal-matter theology as by a genuinely ancient Abrahamic source, so it gives almost no independent evidence for dating or sourcing the doctrine to antiquity versus modernity.
 
 Notes: [[Doctrinal Wording in Abraham 3]]
+
+### pgp-abraham5-spirit-body-context
+**Abraham 5:7 body/spirit/breath sequence as illumination of Restoration anthropology (not an adjudicated issue)** — *none* (neutral, evidence_strength 0.05) for: Not applicable: this is an illumination (context) note describing the verse's body-spirit-breath sequence rather than adjudicating a contested apologetic proposition.
+
+Reclassified from a contested-evidence note to context: the verse's distinction of body, spirit, and breath is a textual observation illuminating Restoration anthropology, not a genuinely disputed apologetic issue with rival models in active contention.
+
+Notes: [[Internal Textual Anthropology in Abraham 5]]
 
 ### pgp-abraham-genesis-chronology
 **Age-at-Haran discrepancy between Abraham 2 and Genesis 12** — *moderate* (challenges, evidence_strength 0.55) for: The age difference between Abraham 2:14 and Genesis 12:4 creates a substantial difficulty for reading both passages as numerically consistent accounts of the same departure from Haran.
@@ -114,6 +135,13 @@ Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 The continuous-light complex, new-star correspondence, and explicit fulfillment language strongly support deliberate final-form vindication of Samuel. Because both sides belong to one literary tradition, this supplies only none-band support for genuine pre-event prophecy, external historicity, or inspiration.
 
 Notes: [[Internal Narrative Correspondence in 3 Nephi 1]]
+
+### bom-3nephi8-death-signs-fulfillment
+**Correspondence between Samuel's death-sign prophecy (Helaman 14) and its fulfillment in 3 Nephi 8** — *strong* (supports, evidence_strength 0.8) for: The final Book of Mormon text deliberately presents 3 Nephi 8's disasters as fulfillment of Samuel's death-sign prophecy in Helaman 14.
+
+The explicit cross-reference to Samuel (3 Nephi 8:3) plus four clustered corresponding details (three-day darkness, thunder/earthquake, rent rocks, tempest) strongly support reading Helaman 14 and 3 Nephi 8 as a deliberately coordinated final-form pair, in line with the registry's other internal prophecy-fulfillment issues (Alma 16 0.84, Ether 11 0.8, 3 Nephi 1 0.65). Because prophecy and fulfillment are preserved by a single narrative witness, this gives only none-band support for genuine pre-event prediction, the historicity of the described destruction, or ancient authorship.
+
+Notes: [[Internal Prediction-Fulfillment in 3 Nephi 8]]
 
 ### bom-alma38-zoramite-narrative-coherence
 **Cross-chapter continuity between the Zoramite mission and Alma's counsel to Shiblon** — *strong* (supports, evidence_strength 0.72) for: The final text deliberately coordinates Alma 38's counsel to Shiblon with the earlier Zoramite mission narrative.
@@ -205,6 +233,13 @@ Notes: [[Internal Chronological Evidence in 3 Nephi 2]] · [[Internal Textual Co
 The verse emphatically portrays the event as public and individually perceived, but it remains one third-person narrative report rather than approximately 2,500 independent testimonies. Historical occurrence, amplification, communal tradition, and literary authentication all predict such a claim, so it provides only none-band support for the event's historicity.
 
 Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
+
+### bom-1nephi13-plain-precious-losses
+**Historical weight of the plain-and-precious-losses claim in 1 Nephi 13** — *none* (supports, evidence_strength 0.1) for: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.
+
+1 Nephi 13 plainly asserts a history of lost teachings and covenants removed by 'that great and abominable church,' but per the consistency rule an internal assertion cannot independently establish the very external historical proposition it makes; without identifiable passages, manuscripts, dates, or a traceable institutional agent, this gives only none-band support (0.1) for a specific institutional-excision scenario, distinct from the well-attested but diffuse general fact of ancient textual transmission variation.
+
+Notes: [[Internal Textual Assertion in 1 Nephi 13]]
 
 ### bom-lehi-red-sea-campsite-identification
 **Identification of Lehi's first Red Sea campsite** — *none* (supports, evidence_strength 0.12) for: The geographic description in 1 Nephi 2 materially supports identifying a particular real-world campsite and an ancient Red Sea journey.
