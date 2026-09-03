@@ -11,20 +11,36 @@ evidence_strength: 0.4
 study_relevance: 0.85
 source_quality: 0.7
 consensus_status: accepted observation / disputed interpretation
+note_kind: context
+issue: context-2nephi11-three-witness-rhetoric
+proposition: No contested evidentiary proposition is asserted; the note explains Nephi's explicit three-witness rhetorical arrangement.
+calibrated_at: '2026-09-03T18:05:45Z'
+calibration_version: 2
 ---
 
 # Internal Textual Corroboration in 2 Nephi 11
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The alignment of Isaiah, Nephi, and Jacob is strong evidence that the chapter deliberately constructs a multiple-witness argument for its claims about Christ. As historical corroboration of the reported visions, however, it is limited because all three witnesses are presented through Nephi's record.
-
-**Does not establish:** It does not independently establish that the reported visions occurred, that the witnesses were historically independent, or that Isaiah understood his vision in precisely Nephi's terms.
-
-**Alternative explanations:**
-- The convergence may be a literary or theological arrangement rather than independent historical corroboration.
-- The witnesses may reflect a shared religious tradition and therefore may not constitute independent lines of evidence.
-- Isaiah's vision is being interpreted christologically by Nephi rather than reported directly by Isaiah in this chapter.
-
-**Scripture:** [[2 Nephi 11#^2ne-11-2|2 Nephi 11:2]], [[2 Nephi 11#^2ne-11-3|2 Nephi 11:3]]
+Second Nephi 11:2 aligns Isaiah's vision of the Redeemer with Nephi's, and verse 3 adds Jacob before invoking “the words of three.” The passage constructs a multiple-witness argument and explains why Nephi sends these witnesses' words to his descendants as part of his christological use of Isaiah.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+In 2 Nephi 11:2–3, Nephi says that Isaiah saw the Redeemer as he did, adds that Jacob also saw him, and invokes “the words of three” as the reason for sending their words to his descendants.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The chapter deliberately aligns Isaiah, Nephi, and Jacob as three witnesses within Nephi's rhetorical argument for his christological message. Isaiah's writings are introduced through Nephi's claim that Isaiah saw the same Redeemer.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The passage explains Nephi's stated method of interpretation and compilation: personal vision, Jacob's testimony, and inherited prophetic writing are brought together as mutually reinforcing witnesses. It prepares readers to encounter the ensuing Isaiah material within Nephi's christological framework.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On this rhetorical reconstruction, Nephi identifies his experience with Isaiah's vision, adds Jacob as a third witness, and then states the witness principle governing his selection of their words. The sequence turns the transition to Isaiah into a reasoned act of compilation directed toward Nephi's descendants.
+<!-- SG:END how-it-fits -->

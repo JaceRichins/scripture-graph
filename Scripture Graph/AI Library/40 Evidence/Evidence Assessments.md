@@ -157,6 +157,13 @@ Moses 3 unquestionably expands Genesis 2 at these points (near-certain, 0.99), b
 
 Notes: [[Comparative Textual Difference in Moses 3]]
 
+### context-1nephi11-symbol-glosses
+**Explicit interpretation of vision symbols in 1 Nephi 11** — *none* (neutral, evidence_strength 0.0) for: No contested evidentiary proposition is asserted; the note illuminates the chapter's explicit interpretations of its symbols.
+
+This is an illumination note, so no evidentiary weight applies. First Nephi 11 explicitly interprets the tree, waters, rod, and great building, organizing the vision around divine love and guidance in contrast with worldly wisdom and pride.
+
+Notes: [[Internal Textual Evidence in 1 Nephi 11]]
+
 ### bom-1nephi22-flesh-inclusio
 **Final-form framing of 1 Nephi 22 by the recurring phrase 'according to the flesh'** — *weak* (supports, evidence_strength 0.2) for: Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.
 
@@ -186,11 +193,11 @@ The passage explicitly identifies its immediate hearers as the other sheep, but 
 Notes: [[Explicit Internal Identification in 3 Nephi 15]]
 
 ### bom-3nephi2-chronological-system
-**Historical significance of the synchronized chronology in 3 Nephi 2** — *none* (supports, evidence_strength 0.13) for: The synchronized eras in 3 Nephi 2 preserve a remembered historical calendrical transition rather than a chronology constructed for the narrative.
+**Historical significance of the synchronized chronology in 3 Nephi 2** — *none* (supports, evidence_strength 0.13) for: The synchronized notices materially support a historically preserved Nephite chronological system.
 
-The notices clearly exhibit deliberate final-form chronological organization, but they supply only none-band support for a historical Nephite calendrical transition. Authentic records, editorial systematization, translation clarification, and constructed historical narratives can all produce internally coordinated eras, and no external chronological anchor is supplied.
+The notices clearly exhibit deliberate final-form chronological organization, but they supply only none-band support for a historical Nephite calendrical transition. Authentic records, editorial systematization, translation clarification, and constructed historical narratives can all produce the coordinated eras, and no external chronological anchor is supplied.
 
-Notes: [[Internal Chronological Evidence in 3 Nephi 2]]
+Notes: [[Internal Chronological Evidence in 3 Nephi 2]] · [[Internal Textual Consistency in 3 Nephi 2]]
 
 ### bom-3nephi17-collective-witness-claim
 **Historical weight of the collective-witness claim in 3 Nephi 17** — *none* (supports, evidence_strength 0.14) for: The event described in 3 Nephi 17 was historically seen and heard by approximately 2,500 individual witnesses.
@@ -269,6 +276,13 @@ The immediate repetition of route and encounter details strongly supports delibe
 
 Notes: [[Internal Narrative Consistency in Alma 16]]
 
+### context-moses8-noah-gospel-continuity
+**Noah's ministry as gospel continuity in Moses 8** — *none* (neutral, evidence_strength 0.0) for: No contested evidentiary proposition is asserted; the note illuminates Moses 8's explicit literary-theological framing.
+
+This is an illumination note, so no evidentiary weight applies. Moses 8 explicitly connects Noah's ministry with the gospel given to Enoch and presents his flood warning within a sequence of faith, repentance, baptism in Jesus Christ's name, and reception of the Holy Ghost.
+
+Notes: [[Internal Textual Convergence in Moses 8]]
+
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
 
@@ -303,6 +317,20 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The Jerusalem/Judea naming in vv.12-20 and the explicit topic-close in v.21 give real, moderate support to a textually marked local unit, but apocalyptic telescoping and typological near/far blending are independently-supported, well-attested features of the genre that predict overlapping, non-sharply-separated horizons about as plausibly as a clean two-part division, which keeps this out of the strong band. This bears only on the chapter's internal organization, not on any prediction's timing, mechanism, or accuracy.
 
 Notes: [[Internal Literary Structure in Joseph Smith—Matthew 1]]
+
+### context-1nephi5-brass-plates-inventory
+**The brass plates as a broad narrative archive** — *none* (neutral, evidence_strength 0.0) for: No contested evidentiary proposition is asserted; the note describes the collection portrayed in 1 Nephi 5.
+
+This is an illumination note, so no evidentiary weight applies. First Nephi 5 portrays the brass plates as a broad collection containing Mosaic writings, Jewish history, prophecy, and genealogy, which explains their several later functions in the narrative.
+
+Notes: [[Internal Textual Description in 1 Nephi 5]]
+
+### context-2nephi11-three-witness-rhetoric
+**Three-witness rhetoric in 2 Nephi 11** — *none* (neutral, evidence_strength 0.0) for: No contested evidentiary proposition is asserted; the note explains Nephi's explicit three-witness rhetorical arrangement.
+
+This is an illumination note, so no evidentiary weight applies. Nephi explicitly aligns Isaiah, himself, and Jacob under a three-witness formula that explains his christological use and transmission of their words.
+
+Notes: [[Internal Textual Corroboration in 2 Nephi 11]]
 
 ### bom-3nephi-luke-kjv-parallel
 **Verbal parallel between 3 Nephi 18:18 and Luke 22:31 (KJV-mediated wording)** — *weak* (supports, evidence_strength 0.22) for: The distinctive 'sift you as wheat' wording in 3 Nephi 18:18 reflects the same KJV-mediated textual source as Luke 22:31, rather than an independently-worded ancient utterance.
