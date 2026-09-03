@@ -23,11 +23,11 @@ Scripture: [[2 Nephi 11]] · My notes: [[2 Nephi 11 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-1. **Record selection (v. 1):** Nephi acknowledges omitting additional teachings from Jacob.
-2. **Isaiah and multiple witnesses (vv. 2–3):** Nephi identifies Isaiah, Jacob, and himself as witnesses of the Redeemer.
-3. **What Nephi delights in (vv. 4–6):** Christ-centered typology, ancestral [[Covenants]], divine [[Grace]], [[Justice and Mercy]], and deliverance from death.
-4. **Compressed argument about Christ (v. 7):** Nephi links Christ, God, human existence, and [[Creation]].
-5. **Invitation to read (v. 8):** Isaiah's words are offered for rejoicing and for application to all people.
+1. **Editorial selection (v. 1):** Nephi acknowledges that Jacob taught more than the record preserves.
+2. **Isaiah and three witnesses (vv. 2–3):** Nephi explains his attachment to Isaiah and coordinates the reported visions of Isaiah, Jacob, and himself.
+3. **Nephi's theological delights (vv. 4–6):** The coming of Christ, Mosaic typology, ancestral [[Covenants]], divine attributes, and deliverance from death are brought together.
+4. **Counterfactual argument (v. 7):** Nephi links Christ, God, creation, and human existence.
+5. **Reader invitation (v. 8):** Isaiah's words are offered for application and rejoicing.
 <!-- SG:END structure -->
 
 ## People
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[3 Nephi 23]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-2|2 Nephi 11:2]])
 - [[2 Nephi 16]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-2|2 Nephi 11:2]])
 - [[2 Nephi 10]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-3|2 Nephi 11:3]])
-- [[2 Nephi 2]] — 1 parallel verse, e.g. [[2 Nephi 11#^2ne-11-7|2 Nephi 11:7]] ↔ [[2 Nephi 2#^2ne-2-13|2 Nephi 2:13]]
 - [[1 Nephi 13]] — 1 parallel verse, e.g. [[2 Nephi 11#^2ne-11-5|2 Nephi 11:5]] ↔ [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]]
+- [[2 Nephi 2]] — 0 parallel verses
 - [[1 Nephi 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -60,17 +60,17 @@ _Not yet developed._
 <!-- SG:BEGIN topics -->
 - [[Law of Moses]]
 - [[Records and Sacred Writings]]
+- [[The Godhead]]
 - [[Scripture Study]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Covenants]]
-- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-Nephi reads the [[Law of Moses]] christologically: its stated end is the coming of Christ, and divinely given things typify him. He also joins [[Covenants]], [[Grace]], divine power, and [[Justice and Mercy]] within a great and eternal plan of deliverance from death. These are explicit teachings of the passage; the chapter does not explain the mechanism of that deliverance in detail.
+Nephi reads the [[Law of Moses]] christologically: its stated end concerns the coming of Christ, and it belongs to a wider pattern of things given by God that typify him. Verse 5 joins [[Covenants]], [[Grace]], power, and [[Justice and Mercy]] within a plan of deliverance from death, though this chapter does not explain how that deliverance occurs.
 
-Verse 7 makes a particularly compressed theological claim by identifying God with Christ and making creation dependent upon divine existence. It strongly centers Christ but should not be treated, by itself, as a complete exposition of [[The Godhead]].
+Verse 7 identifies God with Christ and makes creation dependent upon divine existence. It therefore strongly centers Christ's divinity, but the verse should not be treated alone as a complete exposition of [[The Godhead]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -93,21 +93,31 @@ Verse 7 makes a particularly compressed theological claim by identifying God wit
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Two verbal patterns organize the chapter. First, “my soul delighteth” occurs five times, joining Isaiah, Christ, covenants, divine attributes, and deliverance into a single statement of Nephi's priorities. Second, forms of “prove” recur in verses 3, 4, and 6. In context, proving involves converging witnesses and a theological reading of the law and creation; readers should not assume without argument that the term means empirical proof in the modern technical sense.
+Two verbal patterns organize the chapter. “My soul delighteth” occurs five times across verses 2, 4, 5, and 6, joining Isaiah, Christ, covenants, divine attributes, and deliverance. Forms of “prove” occur in verses 3, 4, and 6. Here proving involves witnesses and theological arguments from the law and creation; the chapter does not define the word as modern experimental or mathematical proof.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Verse 1 foregrounds editorial selection, while verse 8 directly addresses future readers. Between those framing statements, Nephi supplies a rationale for the Isaiah collection. The movement from “my people” to “you and unto all men” broadens the proposed audience and application.
+Verse 1 foregrounds editorial selection, while verse 8 directly addresses future readers. Between these framing statements, Nephi supplies a rationale for the Isaiah collection. The audience also broadens across the chapter, from "my people" and "my children" toward "you and unto all men" by the close.
 
-The three-witness arrangement is rhetorically important, but all three testimonies reach the reader through the same narrated record. It is therefore strong evidence of deliberate literary and theological corroboration, but only limited independent historical corroboration.
+The three-witness arrangement is rhetorically significant, but its evidentiary limits matter: Isaiah's and Jacob's experiences reach the reader only through Nephi's narration. It is therefore clear literary and theological corroboration within the record, not three independently preserved historical accounts.
+
+Verse 3's "words of three" formula recalls the biblical multiple-witness idiom found in Deuteronomy 19:15 and echoed again in the New Testament, though Nephi applies it to prophetic testimony rather than a legal dispute; whether this reflects deliberate citation or common idiomatic usage cannot be settled from the chapter alone. Verse 7's closing argument ("if there be no Christ there be no God... there could have been no creation") also shares distinctive wording with the end of Lehi's argument in 2 Nephi 2:13 — a strong verbal parallel, though whether it reflects deliberate authorial echo or a shared theological formula remains an open question.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Theological/Doctrinal
+> Verse 7's statement 'there is a God, and he is Christ' is sometimes read as evidence for a close identification (even near-modalistic collapsing) of God the Father and Jesus Christ in early Book of Mormon Christology, but the verse's brevity and compressed style make it weak, standalone evidence for any single technical model of the Godhead.
+> — strength 0.4 · confidence 0.6 · disputed, honestly labeled · [[Theological/Doctrinal in 2 Nephi 11|full dossier]]
+
 > [!evidence] Internal Compositional Statement
 > Verse 1 is direct internal evidence that the narrator consciously selected and omitted material according to a stated judgment of sufficiency.
 > — strength 0.9 · confidence 1.0 · well-calibrated evidence claim · [[Internal Compositional Statement in 2 Nephi 11|full dossier]]
+
+> [!evidence] Literary Corroboration
+> The three-witness arrangement is strong evidence of deliberate literary and theological corroboration within the chapter, but it provides only limited independent historical corroboration because the reader receives all three reported testimonies through Nephi's record.
+> — strength 0.5 · confidence 0.9 · settled, well-calibrated · [[Literary Corroboration in 2 Nephi 11|full dossier]]
 
 > [!evidence] Internal Textual Corroboration
 > The alignment of Isaiah, Nephi, and Jacob is strong evidence that the chapter deliberately constructs a multiple-witness argument for its claims about Christ. As historical corroboration of the reported visions, however, it is limited because all three witnesses are presented through Nephi's record.
@@ -120,16 +130,17 @@ The three-witness arrangement is rhetorically important, but all three testimoni
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-- What controls should govern the practice of “likening” Isaiah so that application does not erase Isaiah's original literary and historical settings?
-- Does “all things which have been given of God” in verse 4 function as a literal universal claim, a rhetorical generalization, or both?
-- What kind of demonstration does Nephi intend by repeated forms of “prove”?
+- What controls should govern the practice of "likening" Isaiah so that application does not erase Isaiah's original literary and historical settings?
+- Does "all things which have been given of God" in verse 4 function as a literal universal claim, a rhetorical generalization, or both?
+- What kind of demonstration does Nephi intend by repeated forms of "prove"?
 - How should verse 7's identification of God and Christ be read alongside fuller Book of Mormon treatments of [[The Godhead]]?
 - What does Nephi's admission of selection in verse 1 suggest about studying omissions and editorial purpose in [[Records and Sacred Writings]]?
+- Is the "words of three" language in verse 3 a deliberate citation of the biblical multiple-witness legal standard, or a looser idiomatic appeal to multiplied testimony — and how would one tell the difference?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare the instruction to liken Isaiah in 2 Nephi 11:2, 8 with 1 Nephi 19:23. Compare the three-witness reasoning in 2 Nephi 11:3 with Deuteronomy 19:15, while noting the shift from a judicial rule to prophetic testimony. The Isaiah chapters that follow can then be read with Nephi's stated interests in [[Jesus Christ (Gospel Topic)]], [[Covenants]], and deliverance kept in view, without assuming that every possible application exhausts Isaiah's original context.
+Compare the instruction to liken Isaiah in 2 Nephi 11:2, 8 with 1 Nephi 19:23. Compare the three-witness reasoning in 2 Nephi 11:3 with Deuteronomy 19:15, while noting the shift from a judicial rule to prophetic testimony. Compare the closing argument of 2 Nephi 11:7 with the end of Lehi's chain-argument in 2 Nephi 2:13 — both conclude that without God "we are not... there could have been no creation," a striking shared formulation worth reading side by side, though the chapter itself does not state that Nephi is consciously recalling Lehi's words. The Isaiah chapters that follow can then be read with Nephi's stated interests in [[Jesus Christ (Gospel Topic)]], [[Covenants]], and deliverance kept in view, without assuming that every possible application exhausts Isaiah's original context.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
