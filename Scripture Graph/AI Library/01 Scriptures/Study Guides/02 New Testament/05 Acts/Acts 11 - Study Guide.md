@@ -23,7 +23,14 @@ Scripture: [[Acts 11]] · My notes: [[Acts 11 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- **11:1-3** — Circumcision-party believers in Jerusalem confront Peter over eating with uncircumcised Gentiles.
+- **11:4-17** — Peter's ordered retelling of the vision, the summons to Cornelius's house, and the Spirit falling on the Gentiles there — a compressed repetition of [[Acts 10]], now offered as testimony before a skeptical audience.
+- **11:18** — The Jerusalem church accepts the conclusion: God has granted the Gentiles "repentance unto life."
+- **11:19-21** — Scattered disciples preach in Phoenicia, Cyprus, and Antioch; some begin addressing Grecians (the underlying Greek text is disputed between "Greeks" and "Greek-speaking Jews"), and "a great number believed."
+- **11:22-26** — The Jerusalem church sends Barnabas to Antioch; he fetches Saul from Tarsus; the two teach there a full year; the disciples are first called Christians.
+- **11:27-30** — Agabus prophesies a coming dearth; the Antioch disciples send relief to Judea by the hands of Barnabas and Saul.
+
+Luke lets the reader hear the Gentile-inclusion argument twice — once as narrated event ([[Acts 10]]) and once as testimony accepted by the wider church (Acts 11) — before showing that inclusion lived out at Antioch.
 <!-- SG:END structure -->
 
 ## People
@@ -52,18 +59,26 @@ _Not yet developed._
 - [[Mark 16]] — 1 footnote cross-reference (from [[Acts 11#^acts-11-18|Acts 11:18]])
 - [[Acts 10]] — 4 parallel verses, e.g. [[Acts 11#^acts-11-6|Acts 11:6]] ↔ [[Acts 10#^acts-10-12|Acts 10:12]]
 - [[Acts 1]] — 1 parallel verse, e.g. [[Acts 11#^acts-11-16|Acts 11:16]] ↔ [[Acts 1#^acts-1-5|Acts 1:5]]
+- [[Acts 10]] — 0 parallel verses
 - [[Acts 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Jews and Gentiles]]
+- [[Prophecy]]
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **[[Revelation]]** — Peter's vision, the Spirit's direction, and Agabus's prophecy each prompt concrete institutional action; the chapter heading frames the narrative around a church guided by ongoing revelation, though the text does not present a strict one-to-one mechanism between each revelation and a single response.
+- **[[Jews and Gentiles]]** — the central question is whether uncircumcised Gentiles have full standing among believers; Acts 11 resolves it narratively in the affirmative for this audience, pending the fuller debate of [[Acts 15]].
+- **[[Gift of the Holy Ghost]]** — the decisive evidence in Peter's argument is that the Spirit "fell on them, as on us at the beginning" (11:15).
+- **[[Repentance]]** — the Jerusalem church's concluding statement (11:18) frames Gentile inclusion as God granting "repentance unto life," not merely a change in social policy.
+- **[[Prophecy]]** — Agabus's forewarning and the Antioch disciples' practical response model prophecy as a call to preparation, not only prediction.
+- **[[Grace]]** — Barnabas, on seeing the growth at Antioch, recognizes it as "the grace of God" (11:23) and responds with exhortation rather than suspicion.
+- **[[Service]]** — the relief offering, given "every man according to his ability" (11:29), is an early example of one congregation materially caring for another.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,7 +99,11 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Peter's rhetorical question, "what was I, that I could withstand God?" (11:17), frames resistance to Gentile inclusion as potential resistance to divine action. In 11:23, Barnabas urges the Antioch believers to "cleave unto the Lord" with "purpose of heart" — language of settled allegiance rather than momentary enthusiasm.
+
+The vocabulary of "common or unclean" (11:8-9) echoes the purity categories of the [[Law of Moses]], though the text moves from dietary language to a judgment about persons (11:12, 17) without spelling out the logical bridge — part of why the vision's full scope is debated.
+
+The statement that disciples "were called Christians" (11:26) is passive: Luke does not say who coined the name or whether its first use was favorable, neutral, or hostile.
 <!-- SG:END language -->
 
 ## Literary Features
@@ -94,12 +113,18 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Cumulative Narrative Evidence
+> Acts 11 constructs a cumulative internal case that Peter's conduct and Gentile inclusion were divinely authorized: a repeated vision, the Spirit's command, six companions, the host's angelic message, the Gentiles' reception of the Holy Ghost, and Peter's recollection of Jesus's teaching converge in his defense.
+> — strength 0.5 · confidence 0.8 · narratively coherent, but not independent corroboration · [[Cumulative Narrative Evidence in Acts 11|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Peter's own explanation stresses the Spirit falling on the Gentiles (11:15-17) as decisive evidence, more than the vision's content about food. Why might Luke give more argumentative weight to the shared spiritual experience than to the vision itself?
+- Does "they that were of the circumcision" (11:2) designate all circumcised believers present, or a more defined group?
+- Who are the "Grecians" in 11:20, and how does the underlying textual variant (Greeks vs. Greek-speaking Jews) affect the claim that this verse describes an explicitly Gentile mission?
+- The Jerusalem church "held their peace" and then glorified God (11:18) — is this full agreement, or a provisional truce that the later dispute in [[Acts 15]] shows was not fully settled?
+- What does it mean that the church's response to a prophesied famine (11:27-30) was organized giving rather than passive waiting? How does this shape a view of [[Prophecy]] as a call to preparation rather than only prediction?
 <!-- SG:END questions -->
 
 ## Further Study
