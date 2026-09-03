@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
 - **850 BC–800 BC** — Elisha's ministry of miracles · [[2 Kings 2]] · [[2 Kings 5]] · [[2 Kings 6]] · [[900-801 BC]] *(approximate)*
 - **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 

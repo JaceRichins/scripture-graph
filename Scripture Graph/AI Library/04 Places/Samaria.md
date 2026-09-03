@@ -40,6 +40,7 @@ _Not yet developed._
 - **874 BC–853 BC** — Ahab's wars with Ben-hadad of Syria · [[1 Kings 20]] · [[900-801 BC]] *(traditional dating)*
 - **852 BC–851 BC** — Death of Ahaziah and Jehoram's accession in Israel · [[2 Kings 1]] · [[900-801 BC]] *(traditional dating)*
 - **852 BC–841 BC** — Jehoram of Israel's reign and Moab's rebellion · [[2 Kings 3]] · [[900-801 BC]] *(approximate)*
+- **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
 - **841 BC–814 BC** — Reign of Jehu over Israel · [[2 Kings 10]] · [[900-801 BC]] *(historical)*
 - **760 BC–722 BC** — Amos and Hosea warn the north · [[Amos 5]] · [[Hosea 11]] · [[800-701 BC]] *(approximate)*
 - **755 BC–722 BC** — Hosea prophesies through Israel's final kings · [[Hosea 10]] · [[800-701 BC]] *(approximate)*
@@ -47,7 +48,6 @@ _Not yet developed._
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
 - **722 BC–721 BC** — Fall of Samaria and Assyrian exile of Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
-- **722 BC** — Assyrian conquest of Samaria (background referent of Ezek. 23:9-10) · [[Ezekiel 23]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

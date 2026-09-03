@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1406 BC** — Israel crosses the Jordan · [[Joshua 3]] · [[Joshua 4]] · [[1500-1401 BC]] *(traditional dating)*
+- **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
 - **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

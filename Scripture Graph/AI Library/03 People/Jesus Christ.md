@@ -51,6 +51,8 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **600 BC–AD 30** — Lehi's 600-year Messianic prophecy · [[1 Nephi 10]] · [[600-501 BC]] *(Book of Mormon internal dating)*
+- **559 BC–545 BC** — Jacob continues his covenant sermon · [[2 Nephi 10]] · [[600-501 BC]] *(approximate)*
+- **559 BC–545 BC** — Nephi introduces his Isaiah quotations · [[2 Nephi 11]] · [[600-501 BC]] *(approximate)*
 - **83 BC** — Alma preaches repentance at Zarahemla · [[Alma 5]] · [[100-1 BC]] *(approximate)*
 - **4 BC** — The birth of Jesus Christ · [[Luke 2]] · [[Matthew 2]] · [[3 Nephi 1]] · [[100-1 BC]] *(traditional dating)*
 - **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
@@ -60,8 +62,6 @@ _Not yet developed._
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 - **AD 33** — Olivet Discourse delivered near the Jerusalem temple · [[Joseph Smith—Matthew 1]] · [[AD 1-100]] *(traditional dating)*
 - **AD 34** — The risen Christ visits Bountiful · [[3 Nephi 11]] · [[3 Nephi 17]] · [[3 Nephi 18]] · [[AD 1-100]] *(Book of Mormon internal dating)*
-- **AD 34** — Christ's foreseen appearance to the Nephites · [[1 Nephi 12]] · [[AD 1-100]] *(Book of Mormon internal dating)*
-- **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

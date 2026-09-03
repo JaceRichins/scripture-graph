@@ -5091,6 +5091,87 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-5-ff1b4f4b",
+   "t": "Naaman healed of leprosy by Elisha",
+   "y0": -852,
+   "y1": -841,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within Elisha's ministry during the reign of Jehoram of Israel per the conventional regnal chronology of Kings; no absolute date is given in the text itself.",
+   "chapters": [
+    "2 Kings 5"
+   ],
+   "people": [
+    "Naaman",
+    "Elisha",
+    "Gehazi"
+   ],
+   "places": [
+    "Samaria",
+    "Jordan River"
+   ]
+  },
+  {
+   "id": "r-2ne-10-acc40080",
+   "t": "Jacob continues his covenant sermon",
+   "y0": -559,
+   "y1": -545,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official chapter heading dates Jacob's discourse to approximately 559–545 B.C.",
+   "chapters": [
+    "2 Nephi 10"
+   ],
+   "people": [
+    "Jacob",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "covenant promises"
+   ]
+  },
+  {
+   "id": "r-2ne-11-518d3f1e",
+   "t": "Nephi introduces his Isaiah quotations",
+   "y0": -559,
+   "y1": -545,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "visions"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the chapter to approximately 559–545 B.C.; the chapter itself gives no narrower date.",
+   "chapters": [
+    "2 Nephi 11"
+   ],
+   "people": [
+    "Nephi",
+    "Jacob",
+    "Isaiah",
+    "Jesus Christ"
+   ],
+   "things": [
+    "Isaiah's writings"
+   ]
+  },
+  {
    "id": "r-2ne-20-980871b8",
    "t": "Isaiah's oracles against Assyria (8th century B.C. crisis)",
    "y0": -734,
