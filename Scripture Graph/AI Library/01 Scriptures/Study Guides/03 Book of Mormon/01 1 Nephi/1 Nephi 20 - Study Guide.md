@@ -105,7 +105,7 @@ Water imagery also appears in verses 1, 18, and 21, but a unified compositional 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Extended Literary Dependence
 > The sustained correspondence with Isaiah 48 strongly supports the conclusion that this chapter deliberately incorporates and applies an Isaianic oracle. The correspondence alone cannot determine the historical mechanism by which the wording entered the Book of Mormon.
-> — strength 1.0 · confidence 1.0 · Broadly accepted with mechanism disputed · [[Extended Literary Dependence in 1 Nephi 20|full dossier]]
+> — strength 0.8 · confidence 1.0 · Broadly accepted with mechanism disputed · [[Extended Literary Dependence in 1 Nephi 20|full dossier]]
 
 > [!evidence] Ambiguous Prophetic Voice Reading *(tentative)*
 > The unnamed 'me' sent by the Lord and his Spirit in verse 16 has been read variously as the prophet Isaiah, as Cyrus (the addressee of the surrounding Babylon/Chaldeans material), or, in later Christian/LDS devotional reading, as a Christological voice; the chapter itself does not resolve the referent.

@@ -144,7 +144,7 @@ Their historical explanation remains disputed. The especially close Matthew and 
 <!-- SG:BEGIN evidence -->
 > [!evidence] English Textual Intertextuality
 > Alma 5 contains a dense constellation of close English-language biblical parallels: pure heart and clean hands, the shepherd's voice and fold, the ax at the tree's root, wages of death, separation from unclean things, and names in the book of life. The parallels strongly support literary intertextuality in the received English text.
-> — strength 0.9 · confidence 1.0 · English intertextuality accepted; origin disputed · [[English Textual Intertextuality in Alma 5|full dossier]]
+> — strength 0.7 · confidence 1.0 · English intertextuality accepted; origin disputed · [[English Textual Intertextuality in Alma 5|full dossier]]
 
 > [!evidence] Citation Of Unidentified Source *(tentative)*
 > Alma 5:57 introduces a direct quotation formula — 'that the word of God may be fulfilled, which saith: The names of the wicked shall not be mingled with the names of my people' — citing a saying that, as far as this record preserves, does not correspond verbatim to any identifiable biblical passage or other Book of Mormon text quoted elsewhere in this chapter.

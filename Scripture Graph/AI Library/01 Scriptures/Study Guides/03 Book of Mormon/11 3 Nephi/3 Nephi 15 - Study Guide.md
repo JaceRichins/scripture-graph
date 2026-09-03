@@ -122,7 +122,7 @@ The other-sheep section is sustained scriptural interpretation rather than an in
 
 > [!evidence] Explicit Internal Identification
 > Within the narrative's own argument, the case that the present hearers belong to the 'other sheep' is explicit rather than merely inferred: Jesus directly identifies them and points to their sensory encounter with him.
-> — strength 1.0 · confidence 1.0 · Conclusive concerning the narrative's own identification · [[Explicit Internal Identification in 3 Nephi 15|full dossier]]
+> — strength 0.1 · confidence 1.0 · Conclusive concerning the narrative's own identification · [[Explicit Internal Identification in 3 Nephi 15|full dossier]]
 
 > [!evidence] Textual/Literary Parallel *(tentative)*
 > The near-verbatim correspondence between 3 Nephi 15:17/21 and John 10:16 is cited by some as evidence of intentional intertextual fulfillment (Christ re-quoting and glossing his own earlier saying) and by others as evidence that the Book of Mormon's English text draws on King James Bible phrasing rather than, or in addition to, an independent ancient record.

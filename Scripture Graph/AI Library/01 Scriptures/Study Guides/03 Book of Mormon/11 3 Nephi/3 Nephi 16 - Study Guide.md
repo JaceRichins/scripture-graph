@@ -100,7 +100,7 @@ Verses 1–3 echo the shepherd discourse of [[John 10]], sharing the motifs of o
 <!-- SG:BEGIN evidence -->
 > [!evidence] Explicit Scriptural Quotation
 > The narrator explicitly introduces Isaiah before reproducing Isaiah 52:8-10 in 3 Nephi 16:18-20. This establishes an intentional scriptural quotation relationship, although it does not by itself establish when the Book of Mormon text was composed or when the prophecy was fulfilled.
-> — strength 0.8 · confidence 0.9 · confirmed, appropriately hedged · [[Explicit Scriptural Quotation in 3 Nephi 16|full dossier]]
+> — strength 0.8 · confidence 1.0 · confirmed, appropriately hedged · [[Explicit Scriptural Quotation in 3 Nephi 16|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

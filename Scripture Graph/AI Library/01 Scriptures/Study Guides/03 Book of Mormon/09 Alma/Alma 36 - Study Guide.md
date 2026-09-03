@@ -143,7 +143,7 @@ Alma 36:22 deliberately links the testimony to [[1 Nephi 1]]. Alma does not mere
 
 > [!evidence] Explicit Internal Intertext
 > The explicit comparison with Lehi's vision, reinforced by shared throne-and-angels imagery, is strong internal evidence that Alma 36 intentionally recalls the narrative in 1 Nephi 1 and participates in the book's intertextual cohesion.
-> — strength 0.9 · confidence 1.0 · strong explicit internal intertext · [[Explicit Internal Intertext in Alma 36|full dossier]]
+> — strength 0.1 · confidence 1.0 · strong explicit internal intertext · [[Explicit Internal Intertext in Alma 36|full dossier]]
 
 > [!evidence] Literary Structure / Secondary Scholarship *(tentative)*
 > Beyond the two verified inclusios, some scholars (e.g., John W. Welch) propose Alma 36 is an extended chiasm with the mercy appeal of v. 18 ('O Jesus, thou Son of God, have mercy on me') at the structural center; commentary such as John White's (followHIM) reading of Alma 36 alongside Psalm 78:38 echoes this centrality claim. The mercy appeal falls a few verses after the chapter's exact numerical midpoint (v. 15/16 of 30 verses), which is broadly consistent with, but not a precise mathematical confirmation of, a 'central turn.'

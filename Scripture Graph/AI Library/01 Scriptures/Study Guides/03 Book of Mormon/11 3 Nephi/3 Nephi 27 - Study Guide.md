@@ -127,7 +127,7 @@ Verses 28–29 and 33 closely parallel sayings in [[Matthew 7]] and [[3 Nephi 14
 <!-- SG:BEGIN evidence -->
 > [!evidence] English Textual Parallel
 > The sayings about asking and knocking, followed by the contrast between the strait and wide gates, closely parallel Matthew 7 and their earlier presentation in 3 Nephi 14. This is strong evidence of an intertextual relationship in the received English wording.
-> — strength 1.0 · confidence 1.0 · English correspondence accepted; historical explanation disputed · [[English Textual Parallel in 3 Nephi 27|full dossier]]
+> — strength 0.8 · confidence 1.0 · English correspondence accepted; historical explanation disputed · [[English Textual Parallel in 3 Nephi 27|full dossier]]
 
 > [!evidence] Internal Textual Evidence
 > The explicit definition in verses 13–21 is strong internal textual evidence that "my gospel" here includes both Christ's saving mission and a commanded human response, rather than functioning merely as an institutional label.

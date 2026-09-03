@@ -105,7 +105,7 @@ A solitary barren woman becomes a mother of many; her tent expands into inhabite
 <!-- SG:BEGIN evidence -->
 > [!evidence] Explicit Scriptural Intertext
 > The verse-for-verse correspondence between 3 Nephi 22 and Isaiah 54, together with the introductory reference to what is written, is very strong evidence of a deliberate literary relationship with Isaiah 54.
-> — strength 0.9 · confidence 0.9 · strongest evidence claim; confirmed by overlap index · [[Explicit Scriptural Intertext in 3 Nephi 22|full dossier]]
+> — strength 0.8 · confidence 1.0 · strongest evidence claim; confirmed by overlap index · [[Explicit Scriptural Intertext in 3 Nephi 22|full dossier]]
 
 > [!evidence] Textual/Literary Parallel
 > The chapter's near-total wording match with the King James rendering of Isaiah 54 is real and mechanically checkable evidence of a direct textual relationship between the Book of Mormon text and the Isaiah tradition preserved in the KJV. This textual dependency is consistent with more than one explanatory model of the Book of Mormon's origin and translation, and the wording match alone does not settle the historical question between them.

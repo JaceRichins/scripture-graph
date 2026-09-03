@@ -128,7 +128,7 @@ The bread and wine instructions are built as matched units ending in an identica
 <!-- SG:BEGIN evidence -->
 > [!evidence] Distinctive Verbal Parallel
 > Jesus's warning that Satan desires to sift the hearers as wheat closely parallels his warning to Simon in Luke 22:31, although 3 Nephi addresses the multitude collectively.
-> — strength 0.8 · confidence 0.9 · distinctive verbal parallel, well-calibrated · [[Distinctive Verbal Parallel in 3 Nephi 18|full dossier]]
+> — strength 0.2 · confidence 0.9 · distinctive verbal parallel, well-calibrated · [[Distinctive Verbal Parallel in 3 Nephi 18|full dossier]]
 
 > [!evidence] Textual Parallel
 > The sequence of taking, breaking, blessing, giving, eating, drinking, and remembering Jesus has a strong thematic and verbal relationship to New Testament accounts of the Last Supper and Paul's discussion of the Lord's Supper.

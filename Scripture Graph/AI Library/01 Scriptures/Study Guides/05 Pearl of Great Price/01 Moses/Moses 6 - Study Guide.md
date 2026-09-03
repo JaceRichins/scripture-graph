@@ -151,7 +151,7 @@ The birth analogy in verses 59–60 moves from observable mortal birth to spirit
 
 > [!evidence] Doctrinal And Literary Integration
 > Moses 6:52–68 presents an internally integrated sequence of faith, repentance, baptism, reception of the Holy Ghost, justification, sanctification, and divine sonship. This is strong evidence that the passage intentionally presents a coherent plan of salvation.
-> — strength 0.9 · confidence 1.0 · Internal coherence accepted; provenance disputed · [[Doctrinal And Literary Integration in Moses 6|full dossier]]
+> — strength 0.2 · confidence 1.0 · Internal coherence accepted; provenance disputed · [[Doctrinal And Literary Integration in Moses 6|full dossier]]
 
 > [!evidence] Literary/Thematic Parallel *(tentative)*
 > The Lord's instruction to Enoch to 'anoint thine eyes with clay, and wash them' so that he 'shalt see' (Moses 6:35-36) shares its clay-anoint-wash-and-see structure with Jesus's healing of the man born blind, where clay is applied to the eyes and the man washes and receives sight.

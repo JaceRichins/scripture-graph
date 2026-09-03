@@ -131,7 +131,7 @@ The commission formula in Abraham 3:27 closely parallels [[Isaiah 6]]. The Engli
 
 > [!evidence] Doctrinal Wording
 > The proposed creation of the earth is narrated in the plural and includes taking already-mentioned materials. This strongly supports reading the immediate scene as the organization or fashioning of an earth from available materials, although the passage does not explain the ultimate origin of those materials.
-> — strength 0.8 · confidence 1.0 · Wording secure; metaphysical implications limited · [[Doctrinal Wording in Abraham 3|full dossier]]
+> — strength 0.1 · confidence 0.9 · Wording secure; metaphysical implications limited · [[Doctrinal Wording in Abraham 3|full dossier]]
 
 > [!evidence] Internal Literary Structure
 > The repeated comparative pattern—two unequal entities followed by another above them—moves from planets and stars to spirits and intelligence. This is strong internal evidence that verses 16–19 form a deliberate literary hinge between the astronomical vision and the premortal scene.

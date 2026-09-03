@@ -66,9 +66,9 @@ Scripture: [[2 Nephi 2]] · My notes: [[2 Nephi 2 - My Notes]]
 - [[Alma 42]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
 - [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-21|2 Nephi 2:21]] ↔ [[2 Nephi 27#^2ne-27-13|2 Nephi 27:13]]
-- [[2 Nephi 11]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-13|2 Nephi 2:13]] ↔ [[2 Nephi 11#^2ne-11-7|2 Nephi 11:7]]
 - [[D&C 89]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
 - [[Ether 8]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-18|2 Nephi 2:18]] ↔ [[Ether 8#^ether-8-25|Ether 8:25]]
+- [[Words of Mormon 1]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]] ↔ [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -142,7 +142,7 @@ The chapter pairs concrete Eden imagery with its abstract opposition doctrine: t
 
 > [!evidence] Explicit Source Attribution
 > Lehi explicitly introduces his account of the angel's fall as a supposition based on things he has read and on what is written. This is strong evidence for the discourse's presented posture as interpretation of prior writings, although it does not identify those writings.
-> — strength 0.8 · confidence 0.9 · well-hedged, textually explicit · [[Explicit Source Attribution in 2 Nephi 2|full dossier]]
+> — strength 0.1 · confidence 1.0 · well-hedged, textually explicit · [[Explicit Source Attribution in 2 Nephi 2|full dossier]]
 
 > [!evidence] Literary-Theological Parallel *(tentative)*
 > The opposition-based theodicy and felix culpa framing in this chapter resemble broader theodicy traditions (privative-evil theology, felix culpa) found in later Christian and philosophical thought; this resemblance is interesting but is weak, ambiguous evidence for dating or origin questions.

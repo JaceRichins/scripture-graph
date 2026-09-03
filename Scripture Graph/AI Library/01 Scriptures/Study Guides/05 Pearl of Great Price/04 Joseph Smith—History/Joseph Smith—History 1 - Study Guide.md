@@ -155,7 +155,7 @@ Joseph's explicit comparison with Paul in [[Acts 26]] gives contested testimony 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Embedded Secondhand Testimony
 > The Anthon episode is explicitly embedded secondhand testimony: Joseph introduces it as Martin Harris's later account, and Harris's speech supplies Anthon's alleged statements and actions. The chapter therefore directly establishes what Joseph says Harris reported, not by itself what Anthon actually said.
-> — strength 0.8 · confidence 1.0 · source layer textually explicit · [[Embedded Secondhand Testimony in Joseph Smith—History 1|full dossier]]
+> — strength 0.4 · confidence 1.0 · source layer textually explicit · [[Embedded Secondhand Testimony in Joseph Smith—History 1|full dossier]]
 
 > [!evidence] Source Date And Proximity
 > Because the chapter identifies itself as an 1838 history while recounting experiences beginning decades earlier, it is strong primary evidence for Joseph Smith's public account and self-understanding in 1838, but it is not a contemporaneous record of the earliest narrated events.

@@ -115,7 +115,7 @@ One especially important difference from [[Genesis 6]] concerns grief. Genesis 6
 
 > [!evidence] Doctrinal-Textual
 > Moses 8:24 depicts Noah, before the Flood, explicitly preaching belief, repentance, baptism 'in the name of Jesus Christ, the Son of God,' and reception of the Holy Ghost -- presenting essentially the same gospel ordinances taught in the New Testament as already preached by an antediluvian patriarch.
-> — strength 0.9 · confidence 1.0 · Explicit textual theology; historical implications disputed · [[Doctrinal-Textual in Moses 8|full dossier]]
+> — strength 0.2 · confidence 1.0 · Explicit textual theology; historical implications disputed · [[Doctrinal-Textual in Moses 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

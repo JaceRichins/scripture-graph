@@ -125,7 +125,7 @@ Verse 19 announces the end of this personal aside, but verses 20–26 extend it 
 <!-- SG:BEGIN evidence -->
 > [!evidence] English Biblical Intertext
 > The uncommon English expression “breathing out threatenings” in 3 Nephi 5:5 is a direct verbal parallel to Acts 9:1. It is strong evidence of an English-level biblical intertext or biblical register, while its implications for translation method and composition history remain disputed.
-> — strength 0.9 · confidence 1.0 · Accepted verbal observation; production implications disputed · [[English Biblical Intertext in 3 Nephi 5|full dossier]]
+> — strength 0.6 · confidence 1.0 · Accepted verbal observation; production implications disputed · [[English Biblical Intertext in 3 Nephi 5|full dossier]]
 
 > [!evidence] Narrative Source Presentation
 > The combined notices about severe compression, an identified intermediary record, personally manufactured plates, inherited versus eyewitness material, and linguistic limitation strongly establish that the chapter presents itself as self-conscious abridged historiography.
