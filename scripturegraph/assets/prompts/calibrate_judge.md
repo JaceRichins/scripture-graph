@@ -32,6 +32,10 @@ Judging rules:
   was, so the owner can see the pattern.
 - `fixes_applied`: the concrete things you changed (weight from X to Y and
   why; proof phrase removed; alternative relabelled; model added).
+- The `summary` must use the SAME band word as the weight (none / weak /
+  moderate / strong) — a summary that says "moderate" over a weight of
+  "weak" is the label/prose mismatch this pass exists to remove. When you
+  change the weight, put the reconciled summary in `merged`.
 - Prefer the version that is accurate and modest. Where both calibrators
   agree and the critics found nothing, say so briefly and move on.
 

@@ -50,7 +50,7 @@ bootstrap:
 # of Mormon (owner's direction, 2026-09-03); the Bible is reviewed only
 # (`scripturegraph calibrate --corpus Bible --review-only`) until approved.
 calibrate:
-  enabled: false   # held until one real group is validated by hand (2026-09-03)
+  enabled: true    # validated on one live group 2026-09-03 (calib-…-93aecbcc); ticks run the rest
   corpora: ["Book of Mormon"]
   per_tick: 10
 

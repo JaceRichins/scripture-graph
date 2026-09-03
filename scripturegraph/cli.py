@@ -204,8 +204,11 @@ def cmd_calibrate(args):
     if args.limit:
         targets = targets[:args.limit]
     out = []
+    from contextlib import nullcontext
+    # review-only lands nothing (jobs rows + a report file), so it need not
+    # hold the engine lock and can run beside the study ticks
     try:
-        with engine_lock(ctx):
+        with (nullcontext() if args.review_only else engine_lock(ctx)):
             for t in targets:
                 if not t.startswith(TARGET_PREFIX):
                     print(f"not a calibration target: {t}", file=sys.stderr)

@@ -247,9 +247,10 @@ def _sections_from(spec: dict) -> dict[str, str]:
                     f"— *{str(a.get('status','?')).replace('_',' ')}*"
                     + (f": {a['why']}" if a.get("why") else ""))
     w = spec.get("weight") or {}
+    prop = str(spec.get("proposition", "?")).strip().rstrip(".")
     weight = (f"**{str(w.get('label','?')).title()}** ({w.get('direction','?')}, "
               f"evidence_strength {w.get('evidence_strength','?')}) for the proposition: "
-              f"*{spec.get('proposition','?')}*.\n\n{w.get('sentence','')}")
+              f"*{prop}.*\n\n{w.get('sentence','')}")
     if spec.get("base_rate"):
         weight += f"\n\nBase rate / look-elsewhere: {spec['base_rate']}"
     if spec.get("discriminating_test"):
