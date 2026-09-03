@@ -214,16 +214,16 @@ The verse emphatically portrays the event as public and individually perceived, 
 Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
 
 ### bom-3nephi7-collective-witness-claim
-**Historical weight of the internal witness/testimony chain in 3 Nephi 7** — *none* (supports, evidence_strength 0.14) for: The accumulation of witness language in 3 Nephi 7 (eyewitness status, public witnessing of miracles, converts' signifying, healed persons' manifestations, and baptism as testimony) materially supports the historical occurrence and supernatural cause of the reported miracles, conversions, and healings
+**Historical weight of the internal witness/testimony chain in 3 Nephi 7** — *none* (supports, evidence_strength 0.14) for: The accumulation of witness language in 3 Nephi 7 materially supports the historical occurrence and supernatural cause of the reported miracles, conversions, and healings.
 
-The chapter clearly accumulates witness-related vocabulary and presents Nephi's ministry as public and openly attested, but because every witness claim is mediated through the same one narrator and is equally predicted by sincere historical report, communal amplification, or literary authentication, it gives only none-band support for the actual historicity or supernatural cause of the reported events — matching the closely analogous bom-3nephi17-collective-witness-claim (0.14).
+The chapter clearly accumulates witness-related vocabulary and presents Nephi's ministry as public and openly attested, but every witness claim is mediated through the same narrator. Because sincere historical report, communal amplification, and literary authentication can all produce this language, it gives only none-band support for the historicity or supernatural cause of the reported events.
 
 Notes: [[Internal Narrative Testimony in 3 Nephi 7]]
 
 ### bom-1nephi13-plain-precious-losses
 **Historical weight of the plain-and-precious-losses claim in 1 Nephi 13** — *none* (supports, evidence_strength 0.1) for: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.
 
-1 Nephi 13 plainly asserts a history of lost teachings and covenants removed by 'that great and abominable church,' but per the consistency rule an internal assertion cannot independently establish the very external historical proposition it makes; without identifiable passages, manuscripts, dates, or a traceable institutional agent, this gives only none-band support (0.1) for a specific institutional-excision scenario, distinct from the well-attested but diffuse general fact of ancient textual transmission variation.
+1 Nephi 13 plainly asserts a history of lost teachings and covenants removed by "that great and abominable church," but an internal assertion cannot independently establish the external history it narrates. Without identifiable passages, manuscripts, dates, or a traceable institutional agent, it gives only none-band support for a specific institutional-excision scenario, distinct from the well-attested but diffuse fact of ancient textual variation.
 
 Notes: [[Internal Textual Assertion in 1 Nephi 13]]
 

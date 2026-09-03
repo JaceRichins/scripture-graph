@@ -16,7 +16,7 @@ weight_label: none
 direction: supports
 issue: bom-1nephi13-plain-precious-losses
 proposition: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.
-calibrated_at: '2026-09-03T18:07:32Z'
+calibrated_at: '2026-09-03T19:26:39Z'
 calibration_version: 2
 ---
 
@@ -24,71 +24,71 @@ calibration_version: 2
 
 ## Summary
 <!-- SG:BEGIN summary -->
-First Nephi 13 plainly asserts that important teachings and covenants were taken away or kept back and that later records would make them known again. The assertion defines the chapter's theology of apostasy and restoration, but without identifiable passages, manuscripts, dates, or responsible agents it supplies almost no independent support for a specific history of institutional textual excision. Scripture: [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]], [[1 Nephi 13#^1ne-13-27|1 Nephi 13:27]], [[1 Nephi 13#^1ne-13-28|1 Nephi 13:28]], [[1 Nephi 13#^1ne-13-29|1 Nephi 13:29]], [[1 Nephi 13#^1ne-13-32|1 Nephi 13:32]], [[1 Nephi 13#^1ne-13-34|1 Nephi 13:34]], [[1 Nephi 13#^1ne-13-40|1 Nephi 13:40]].
+First Nephi 13 plainly asserts that important teachings and covenants were taken away or kept back and that later records would make them known again. The claim is compatible with well-attested textual loss and variable transmission, but without identifiable passages, manuscripts, dates, or agents it gives only none-band support for a specific institutional-excision scenario. Scripture: [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]], [[1 Nephi 13#^1ne-13-27|1 Nephi 13:27]], [[1 Nephi 13#^1ne-13-28|1 Nephi 13:28]], [[1 Nephi 13#^1ne-13-29|1 Nephi 13:29]], [[1 Nephi 13#^1ne-13-32|1 Nephi 13:32]], [[1 Nephi 13#^1ne-13-34|1 Nephi 13:34]], [[1 Nephi 13#^1ne-13-40|1 Nephi 13:40]].
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-First Nephi 13 repeatedly asserts that plain and precious parts of the gospel and covenants were taken away or kept back after an apostolic record went to the Gentiles and passed through the hands of a "great and abominable church." It also says that later records will restore or make known what was lost.
+First Nephi 13 repeatedly states that plain and precious parts of the gospel and covenants were taken away or kept back after an apostolic record passed from Jews to Gentiles and through the hands of a "great and abominable church." It also states that later records will make the lost material known again.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The chapter unmistakably presents a theological history of loss and restoration. Its language may encompass textual excision, withheld covenants, interpretive suppression, or doctrinal obscuring, but it does not identify recoverable variants, manuscripts, dates, agents, or particular missing passages.
+The chapter presents a deliberate loss-and-restoration history. Its references to parts of the gospel, covenants, and things removed from a book permit a combination of textual excision, restricted access, doctrinal suppression, and interpretive loss, but the chapter does not identify recoverable variants, dates, manuscripts, or historical agents.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The passage is important evidence for the Book of Mormon's own account of scriptural transmission and apostasy. As historical evidence for actual textual changes, however, it is an internal assertion requiring comparison with independently dated manuscripts and the documented history of the biblical canon.
+The strongest supportive reading begins with the independently established general realities that ancient writings were lost, manuscript traditions accumulated variants, and institutions could privilege or suppress particular texts and interpretations. Those realities make a broad loss-of-teachings scenario historically intelligible, but they do not independently verify the chapter's more specific sequence or institutional attribution.
 <!-- SG:END historical-significance -->
 
 ## How This Fits
 <!-- SG:BEGIN how-it-fits -->
-On the chapter's own reconstruction, an apostolic record enters Gentile transmission, loses important gospel content or access to it, contributes to religious blindness, and is later supplemented by additional records. This loss-and-restoration sequence organizes the chapter even though its historical referents remain underdetermined.
+On the chapter's reconstruction, an apostolic record passes into Gentile custody, important gospel or covenantal content is removed or withheld, the resulting deficiencies contribute to religious blindness, and additional records later restore access to that content. Documented manuscript loss, exclusion of writings, changes in practice, and interpretive suppression show several historically recognizable mechanisms by which parts of this broad reconstruction could operate; identifying the chapter's particular agents and sequence requires evidence beyond the assertion itself.
 <!-- SG:END how-it-fits -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-The passage supports the conclusion that the Book of Mormon teaches a loss-and-restoration scenario, but its assertion alone provides almost no independent discrimination for the historical accuracy of that scenario. The previous 0.30 score conflated confidence that the assertion exists with support for its external historical referent.
+The passage is relevant to a live claim about corruption and restoration of early Christian teaching. Its specificity would matter if independently matched to dated textual and institutional evidence, but as an internal assertion it supplies only none-band support for the historical scenario it narrates.
 
-**Inspiration:** The historical underdetermination of this assertion neither establishes nor negates inspiration; inspiration is a separate theological judgment.
+**Inspiration:** The historical underdetermination of the passage's assertion neither establishes nor negates inspiration, which is a separate theological judgment.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not identify particular removed passages, demonstrate that the losses occurred through one institution, date the alleged removals, or show that surviving manuscript evidence corroborates the complete sequence described.
+The passage alone does not identify which teachings or passages were removed, demonstrate a coordinated program by one institution, date the alleged removals, or show that the predicted transmission sequence appears in surviving manuscripts.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Specific institutional excision** — predicts: Evidence of identifiable teachings present in early apostolic textual witnesses and systematically absent after transmission through a historically identifiable institution.. Fit with this evidence: *not ruled out*.
-- **Ordinary textual transmission** — predicts: Numerous additions, omissions, variants, harmonizations, and accidental losses across decentralized manuscript traditions rather than one simple removal event.. Fit with this evidence: *consistent*.
-- **Broad doctrinal suppression** — predicts: The language of taking away and keeping back may refer partly to interpretation, covenant practice, selective teaching, or institutional control rather than only physical deletion.. Fit with this evidence: *consistent*.
-- **Theological or nineteenth-century restorationist narrative** — predicts: A generalized account of early purity, later corruption, and latter-day restoration without recoverable details sufficient for manuscript testing.. Fit with this evidence: *supports*.
+- **Specific institutional excision** — predicts: Identifiable teachings should appear in early apostolic witnesses and then disappear systematically in association with a historically identifiable institution before broad circulation.. Fit with this evidence: *consistent*.
+- **Diffuse textual transmission and canon formation** — predicts: Lost writings, additions, omissions, harmonizations, and divergent readings should arise across decentralized transmission without one comprehensive removal event.. Fit with this evidence: *consistent*.
+- **Broad doctrinal or covenantal suppression** — predicts: Taking away and keeping back may include restricted teaching, lost practices, interpretive obscuring, or exclusion of writings rather than only deletion from manuscripts.. Fit with this evidence: *consistent*.
+- **Nineteenth-century restorationist composition** — predicts: The text should present early purity, subsequent corruption, and latter-day restoration in broad terms without details that permit independent manuscript testing.. Fit with this evidence: *consistent*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- The passage refers broadly to teachings, covenants, or interpretive understanding lost from Christian practice rather than solely to deleted wording. — *plausible*: It speaks both of parts of the gospel and of covenants being taken away or kept back, categories broader than manuscript wording.
-- Some underlying losses reflect ordinary manuscript transmission, canon formation, or the disappearance of early writings. — *independently supported*: Ancient textual traditions demonstrably contain variants and lost works, but that general fact does not identify the agents or sequence described here.
-- The chapter expresses a nineteenth-century restorationist critique of inherited Christianity. — *plausible*: A corruption-and-restoration narrative is expected within the religious environment and canonical role of the Book of Mormon.
-- A single coordinated institution removed a reconstructable set of passages before broad Gentile transmission. — *possible*: The text permits this reading, but the note supplies no independent manuscript or institutional evidence for it.
+- The loss principally concerns teachings, covenants, practices, or interpretation rather than deleted biblical wording. — *plausible*: The chapter refers both to material taken from a book and to gospel and covenantal content being taken away or kept back.
+- The language broadly reflects ordinary manuscript variation, lost writings, and canon formation. — *independently supported*: Such losses and variations are established features of ancient textual transmission, although they do not identify the chapter's proposed agent or sequence.
+- The chapter expresses a nineteenth-century restorationist account of early purity, corruption, and renewed revelation. — *plausible*: That framework directly predicts a generalized corruption narrative and fits the Book of Mormon's canonical role.
+- One coordinated institution removed a reconstructable collection of teachings before the record reached the wider Gentile world. — *possible*: The text permits this interpretation, but the note supplies no independently dated manuscripts or institutional evidence tracing such a program.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A biblical or patristic author's assertion that opponents corrupted scripture would likewise be evidence that the author made the charge, not independent proof that the alleged alterations occurred. The same demand for dated manuscripts, identifiable variants, agents, and transmission history should apply here.
+A biblical, patristic, or sectarian author's accusation that opponents corrupted revelation would likewise establish that the accusation was made, not that the alleged alterations occurred. The same demand for identifiable variants, dates, agents, and transmission pathways is appropriate here.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **None** (supports, evidence_strength 0.1) for the proposition: *The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.*
 
-First Nephi 13 plainly asserts a history of lost teachings and covenants, but that internal assertion supplies almost no independent support for a specific institutional program of textual removal.
+First Nephi 13 clearly asserts a loss-and-restoration history, but without independently identifiable texts, dates, or agents, that internal assertion gives almost no support for a specific institutional program of textual excision.
 
-Base rate / look-elsewhere: Claims that an earlier revelation was corrupted, suppressed, or misunderstood are common in religious polemic and restoration movements. Actual manuscript variation and loss are also common, so the generic claim is plausible in the abstract but insufficiently specific to verify the chapter's institutional scenario.
+Base rate / look-elsewhere: Claims that an earlier revelation was corrupted, suppressed, or misunderstood recur widely in religious controversy and restoration movements. Actual textual loss and variation are also common, so the general possibility is independently supported, but a generic loss claim has a high base rate and cannot verify this particular institutional reconstruction.
 
-What would move this: The weight would rise if early, independently dated manuscripts preserved identifiable teachings later systematically removed in the predicted institutional sequence. It would fall further if proposed examples consistently proved to be later expansions, interpretive disagreements, or variants arising before the institution described could have acted.
+What would move this: The weight would rise if independently dated early witnesses preserved identifiable teachings that subsequently disappeared in the institutional sequence the chapter predicts. It would fall if proposed cases consistently proved to be later expansions, interpretive disagreements, or variants predating the institution alleged to have removed them. Assessment dated 2026-09-03.
 
 Canonical assessment: [[Evidence Assessments#bom-1nephi13-plain-precious-losses|Historical weight of the plain-and-precious-losses claim in 1 Nephi 13]]
 <!-- SG:END weight -->
