@@ -23,7 +23,11 @@ Scripture: [[2 Corinthians 4]] · My notes: [[2 Corinthians 4 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **A ministry of disclosed truth and divine light (vv. 1–6):** The ministers renounce deception, preach Christ rather than themselves, and attribute illumination to God.
+
+2. **Divine power in vulnerable messengers (vv. 7–15):** Earthen vessels endure repeated pressures; the dying and life of Jesus are manifested through them; faith speaks in hope of resurrection; grace expands thanksgiving.
+
+3. **Renewal and eternal perspective (vv. 16–18):** The return of “we faint not” closes the frame. Outward/inward, momentary/eternal, light/weight, and seen/unseen contrasts reinterpret present affliction.
 <!-- SG:END structure -->
 
 ## People
@@ -44,16 +48,23 @@ _Not yet developed._
 - [[2 Corinthians 2]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
 - [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
 - [[D&C 75]] — 1 footnote cross-reference (from [[2 Corinthians 4#^2cor-4-2|2 Corinthians 4:2]])
+- [[Romans 8]] — 0 parallel verses
+- [[Colossians 1]] — 0 parallel verses
+- [[Genesis 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Endurance]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's teaching about [[Jesus Christ (Gospel Topic)]] is unusually concentrated. Christ is Lord and the content of proclamation (2 Corinthians 4:5), the image of God (4:4), the face in which God's glory is known (4:6), the pattern whose dying and life are manifested in believers (4:10–11), and the risen Lord whose resurrection grounds their own hope (4:14).
+
+Human weakness is not presented as the source of divine power. The “earthen vessels” image explicitly separates fragile agents from the excellence of God's power (4:7), encouraging [[Humility]] without making faithful service passive. Likewise, eternal perspective does not erase present pain: the pressures are named before they are compared with eternal glory (4:8–11, 17–18).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -77,25 +88,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several word-fields bind the chapter together. Concealment and disclosure appear in the hidden gospel, blinded minds, manifestation of truth, shining light, and the life of Jesus being made manifest (2 Corinthians 4:2–4, 6, 10–11). “Glory” joins the gospel, God revealed through Christ, communal thanksgiving, and the future “weight of glory” (4:4, 6, 15, 17).
+
+The expression “weight of glory” gains force from its contrast with “light affliction” (4:17). The argument is comparative: what feels substantial now is called light beside the surpassing permanence of glory. This language should be handled pastorally; it offers a scale for hope, not a warrant to dismiss another person's suffering.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly uses paradox: the messengers are troubled but not distressed, perplexed but not in despair, persecuted but not forsaken, and cast down but not destroyed (2 Corinthians 4:8–9). Death works in them while life reaches others (4:12); the outward person declines while the inward person is renewed (4:16); momentary affliction is contrasted with eternal glory; and unseen things are described as more enduring than visible ones (4:17–18).
+
+Verse 6 probably alludes to the creation of light in [[Genesis 1]], applying creation imagery to illumination of the heart. Unlike that unmarked allusion, verse 13 explicitly introduces scripture with 'according as it is written' and cites the belief-and-speech confession found in [[Psalm 116]]. These connections clarify the chapter's presentation of divine illumination and faithful speech under affliction, but the Genesis language should not be labeled a formal quotation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Allusion
+> The description of God commanding light to shine out of darkness is strong internal textual evidence that the illumination of human hearts is being portrayed through creation imagery from Genesis 1:3.
+> — strength 0.8 · confidence 0.9 · Strong probable allusion, not a formal quotation · [[Literary Allusion in 2 Corinthians 4|full dossier]]
+
+> [!evidence] Internal Literary Consistency *(tentative)*
+> Paul's description of 'the god of this world' as an agent that blinds minds through deception (2 Corinthians 4:4) is consistent with his later statement in the same epistle that Satan is 'transformed into an angel of light' (2 Corinthians 11:14), which supports, but does not by itself within chapter 4 prove, the traditional identification of 'the god of this world' as Satan.
+> — strength 0.3 · confidence 0.6 · Traditional interpretation; proposed support is indirect
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How does the call to manifest truth before every conscience (2 Corinthians 4:2) shape the ethics of teaching and leadership?
+
+What is the relationship between unbelief and the blinding influence described in verses 3–4? What does the passage affirm, and what questions about responsibility does it leave unanswered?
+
+How can “treasure in earthen vessels” cultivate humility without becoming an excuse for avoidable incompetence or misconduct?
+
+In what sense does death work in the ministers while life works in the Corinthians (4:12)?
+
+How can readers maintain an eternal perspective without minimizing present suffering or neglecting those who suffer?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read 2 Corinthians 4:3–6 with [[2 Corinthians 3]] to trace the sequence from veil and blindness to unveiled glory and illumination. Compare 4:6 with [[Genesis 1]], 4:13 with [[Psalm 116]], and 4:17–18 with [[Romans 8]]. [[Colossians 1]] provides a close parallel to the description of Christ as God's image. Together these passages illuminate the chapter's themes of creation, faithful testimony, suffering, unseen hope, and Christ's relation to divine glory.
 <!-- SG:END further-study -->
