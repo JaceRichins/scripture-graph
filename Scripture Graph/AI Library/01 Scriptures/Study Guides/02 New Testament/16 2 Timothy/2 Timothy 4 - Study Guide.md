@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Galatians 1]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
 - [[D&C 25]] — 0 parallel verses
+- [[Acts 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,7 +92,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Historical-Critical Scholarship *(tentative)*
+> The Pastoral Epistles (1-2 Timothy, Titus), including 2 Timothy 4, are among the New Testament letters whose direct Pauline authorship is disputed in critical scholarship, on grounds of vocabulary and style differing from the undisputed Pauline letters and church-organizational concerns thought by some to reflect a later period. This matters for how the chapter's highly personal, autobiographical details (vv.9-21) should be weighed: as either firsthand testimony from Paul near death, or as a later author's composition using Paul's persona and travel data (possibly drawn from genuine fragments) to lend authority to the letter.
+> — strength 0.5 · confidence 0.5 · disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
