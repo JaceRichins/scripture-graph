@@ -39,6 +39,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 34** — Second-day ministry and prayers among the Nephites · [[3 Nephi 19]] · [[AD 1-100]] *(approximate)*
 - **AD 46–AD 57** — Paul's missionary journeys · [[Acts 13]] · [[Acts 16]] · [[Acts 17]] · [[AD 1-100]] *(historical)*
 - **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 1]] · [[AD 1-100]] *(historical)*
 - **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 4]] · [[AD 1-100]] *(approximate)*

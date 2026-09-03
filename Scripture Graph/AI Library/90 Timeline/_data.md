@@ -5613,6 +5613,110 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-3ne-17-02446136",
+   "t": "Jesus ministers compassionately to the Nephite multitude",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the ministry to about A.D. 34; the chapter itself supplies no calendar date.",
+   "chapters": [
+    "3 Nephi 17"
+   ],
+   "people": [
+    "Jesus Christ"
+   ]
+  },
+  {
+   "id": "r-3ne-18-9345b466",
+   "t": "Jesus institutes the sacrament among the Nephites",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Chapter heading and surrounding 3 Nephi narrative place this visit in the Nephite year corresponding to about A.D. 34, shortly after Christ's resurrection appearance at the temple in Bountiful.",
+   "chapters": [
+    "3 Nephi 18"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "things": [
+    "bread and wine"
+   ]
+  },
+  {
+   "id": "r-3ne-19-9a6d0bde",
+   "t": "Second-day ministry and prayers among the Nephites",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the narrated ministry to about A.D. 34; the chapter itself marks it as the morning after Jesus' preceding appearance.",
+   "chapters": [
+    "3 Nephi 19"
+   ],
+   "people": [
+    "Jesus",
+    "Nephi",
+    "Timothy",
+    "the twelve disciples"
+   ],
+   "things": [
+    "baptism",
+    "gift of the Holy Ghost"
+   ]
+  },
+  {
+   "id": "r-3ne-2-fad540b3",
+   "t": "Forgetting the sign and escalation of Gadianton war",
+   "y0": 5,
+   "y1": 16,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the chapter approximately A.D. 5–16, while verses 4–19 synchronize older reckonings with years nine through fifteen after the sign.",
+   "chapters": [
+    "3 Nephi 2"
+   ],
+   "people": [
+    "Nephi",
+    "Jesus Christ",
+    "Gadianton robbers",
+    "converted Lamanites"
+   ],
+   "places": [
+    "Zarahemla",
+    "Jerusalem"
+   ],
+   "things": [
+    "Nephite records",
+    "sign of Christ's coming"
+   ]
+  },
+  {
    "id": "r-3ne-21-d339e4b7",
    "t": "Jesus gives the sign of Israel's future gathering",
    "y0": 34,
