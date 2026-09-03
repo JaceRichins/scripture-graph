@@ -73,6 +73,13 @@ The verse clearly portrays Lehi as reasoning from prior writings, but genuine an
 
 Notes: [[Explicit Source Attribution in 2 Nephi 2]]
 
+### bom-1nephi6-editorial-persona
+**Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, evidence_strength 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, cites a material constraint, states a theological purpose, and directs later custodians, rather than the editorial statements being incidental or unplanned narration.
+
+The four clustered, explicit editorial statements strongly support deliberate construction of an editor-persona in the final text. This is the correct scope for the strong score: an authentic ancient record-keeper and a modern author using the well-attested 'found-manuscript' literary convention both predict identical surface features, so the strong weight does not extend to ancient provenance, the plates' physical existence, or Nephi's historicity, all of which remain independently unestablished (none-band on their own).
+
+Notes: [[Internal Literary Evidence in 1 Nephi 6]]
+
 ### isaiah7-immanuel-contemporary-context
 **Contemporary relevance of the Immanuel oracle to Ahaz's crisis** — *strong* (supports, evidence_strength 0.84) for: Isaiah 7:14–16 presents the Immanuel sign as having meaningful chronological relevance to Ahaz's contemporary political crisis.
 
@@ -80,12 +87,26 @@ The explicit deadline tied to the child's development strongly supports meaningf
 
 Notes: [[Internal Chronological Context in 2 Nephi 17]]
 
+### bom-1nephi12-vision-fulfillment-correspondence
+**Correspondence between Nephi's vision (1 Nephi 12) and later narrated fulfillments** — *moderate* (supports, evidence_strength 0.48) for: The final-form Book of Mormon deliberately shapes the imagery and sequence of Nephi's vision (destruction, Christophany, generations of righteousness, then contention/defeat) to correspond with the later narrated events in 3 Nephi 8, 3 Nephi 11, 4 Nephi, and Mormon 1, rather than the fit being a loose restatement of the book's own generic destruction/peace/pride template.
+
+The four-beat ordered match across widely separated books moderately supports deliberate final-form narrative design over accidental juxtaposition, but the beats are drawn from the Book of Mormon's own frequently recurring destruction/peace/pride template and span a large cross-book search space, which caps how much specificity the ordering can establish. It gives almost no separate support to genuine pre-event prophecy, antiquity, or historicity, which remain none-band (~0.1), consistent with the neighboring bom-2nephi6-predictive-prophecy and bom-3nephi2-chronological-system entries.
+
+Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
+
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, evidence_strength 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
 
 The paired teaching clusters, close wording, and preserved order strongly support an intentional reprise of 3 Nephi 14 in 3 Nephi 27. This is not independent additional evidence for Matthew dependence and does not distinguish historical repetition, translation harmonization, editorial reuse, or modern composition.
 
 Notes: [[English Textual Parallel in 3 Nephi 27]]
+
+### pgp-moses7-weeping-motif
+**Distributed weeping/compassionate-grief motif as a central literary theme of Moses 7** — *strong* (supports, evidence_strength 0.85) for: The final-form vision in Moses 7 deliberately distributes weeping and mourning among God, the heavens, Enoch, and the personified earth to make compassionate grief over wickedness and suffering a central, organizing literary theme, rather than the weeping language being scattered or merely conventional lament.
+
+The eight-fold recurrence of weeping/mourning language, distributed across four distinct subjects (God, heavens, Enoch, earth) and tied to a shared cause (wickedness/suffering), strongly supports a deliberately central, organizing literary theme. This is a literary-design finding only: it gives no independent support for the theme's antiquity or revelatory origin, and it does not resolve whether the language should be read as literal divine emotion, anthropomorphism, or personification.
+
+Notes: [[Internal Literary Pattern in Moses 7]]
 
 ### bom-3nephi5-acts-english-dependence
 **English biblical mediation of 3 Nephi 5:5 and Acts 9:1** — *moderate* (supports, evidence_strength 0.55) for: The received English wording of 3 Nephi 5:5 depends on, or was deliberately mediated through, the English biblical tradition represented by Acts 9:1 rather than arising independently.
@@ -157,6 +178,13 @@ The sustained sequence and close English wording strongly support Matthew/KJV te
 
 Notes: [[Extended Textual Parallel in 3 Nephi 13]]
 
+### bom-2nephi29-multiple-records-theme
+**Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes the Bible-sufficiency objection, the two-nation witness, the argument that one divine word does not preclude another, the catalogue of writing peoples, and the promised exchange/gathering of records into one coordinated, escalating theme, rather than the repetition being incidental sermonic amplification.
+
+The density and escalating progression of records language across nine cited verses strongly supports deliberate final-form thematic organization. This says nothing about the discourse's date or divine origin, since ancient prophecy, later editorial shaping, modern revelation, and nineteenth-century advocacy for the Book of Mormon's own canonicity all predict the same organized argument about equally well.
+
+Notes: [[Internal Literary Evidence in 2 Nephi 29]]
+
 ### bom-nahom-nhm-geography
 **Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi** — *weak* (supports, evidence_strength 0.3) for: The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.
 
@@ -198,6 +226,13 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The near-verbatim match to Luke 22:31 is real and unlikely to be coincidental, but it is one instance of the Book of Mormon's pervasive KJV-influenced diction (the same underlying mechanism as the Isaiah-dependence issue), and an ancient saying rendered into KJV idiom, a loose translation, and outright 19th-century composition all predict the same wording about equally well, so it only weakly discriminates between models of the text's origin.
 
 Notes: [[Distinctive Verbal Parallel in 3 Nephi 18]]
+
+### bom-4nephi-wealth-apostasy-pattern
+**Wealth, inequality, and apostasy as a deliberate literary pattern in 4 Nephi** — *strong* (supports, evidence_strength 0.82) for: The final-form narrative of 4 Nephi deliberately places the transition from shared goods to status display, class division, gain-seeking churches, and hoarded wealth as literary markers of communal apostasy, rather than the wealth language being incidental to a bare chronological report.
+
+The recurring placement of inequality, costly display, class division, and hoarded wealth at each stage of the narrated decline strongly supports a deliberate editorial pattern within this chapter. The same wealth-pride-decline template recurs elsewhere in the Book of Mormon (e.g., Alma 46, 0.83), so citing multiple instances together as cumulative, independent proof of a book-wide editorial habit would double-count one underlying compositional cause — but that concern governs how notes are combined across chapters, not this note's own within-chapter evidentiary strength, which rests on its own textual detail. It does not establish that wealth inevitably causes apostasy or that the sequence is a complete economic history.
+
+Notes: [[Internal Literary Pattern in 4 Nephi 1]]
 
 ### bom-1nephi-zedekiah-synchronism
 **Zedekiah-era political setting in 1 Nephi 1 as a historical synchronism** — *none* (supports, evidence_strength 0.1) for: First Nephi 1's Zedekiah and Babylonian-captivity setting provides independent evidence that the narrative derives from an authentic early-sixth-century BCE historical source rather than a Bible-informed nineteenth-century composition.
