@@ -81,7 +81,13 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Text-Critical/Literary *(tentative)*
+> A significant strand of critical New Testament scholarship (notably H.D. Betz, 1973) has proposed that 2 Corinthians 6:14-7:1 is a non-Pauline interpolation, citing an abrupt break from the surrounding appeal (vv.11-13 and 7:2 connect naturally if 6:14-7:1 is removed), unusual vocabulary for Paul, and dualistic light/darkness and 'Belial' language reminiscent of Qumran sectarian texts.
+> — strength 0.3 · confidence 0.6 · disputed
+
+> [!evidence] Literary/Rhetorical-Critical *(tentative)*
+> The hardship list of verses 4-10 resembles a 'peristasis catalogue,' a recognized Greco-Roman rhetorical form (used by Stoic/Cynic moralists and elsewhere by Paul, e.g. 2 Corinthians 4:8-9, 11:23-27) in which a speaker lists sufferings endured to demonstrate character and legitimacy.
+> — strength 0.6 · confidence 0.7 · accepted observation / disputed interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
