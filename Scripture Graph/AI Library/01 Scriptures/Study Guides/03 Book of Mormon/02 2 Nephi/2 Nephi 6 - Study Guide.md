@@ -107,7 +107,7 @@ Jacob names his interpretive method before quoting Isaiah: the words 'may be lik
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Chronological Evidence
 > Within the Book of Mormon's narrative chronology, Jacob's statement about the Messiah's scourging and crucifixion is presented as a prophecy before those events. Its force as external evidence of predictive prophecy depends on independently establishing the text's date and history of composition.
-> — strength 0.2 · confidence 0.9 · epistemically careful, deliberately low evidence_strength · [[Internal Chronological Evidence in 2 Nephi 6|full dossier]]
+> — strength 0.1 · confidence 1.0 · epistemically careful, deliberately low evidence_strength · [[Internal Chronological Evidence in 2 Nephi 6|full dossier]]
 
 > [!evidence] Textual Intertextuality
 > The material in 2 Nephi 6:6-7 and 6:16-18 closely corresponds to Isaiah 49:22-26, corroborating the chapter's explicit presentation of Isaiah as its scriptural source. The final portion includes explanatory or expanded wording, so the relationship should not be described as mechanically verbatim throughout.

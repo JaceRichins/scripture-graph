@@ -133,7 +133,7 @@ Abraham 2 has a strong literary relationship with [[Genesis 12]]. The chapters s
 
 > [!evidence] Extensive Textual And Narrative Parallel
 > Abraham 2 has a strong literary relationship with Genesis 12: both narrate the call from kindred, departure from Haran with Sarai and Lot, arrival at Moreh, a land promise, altar building near Bethel and Ai, southward travel, famine-driven movement to Egypt, and the sister strategy concerning Sarai.
-> — strength 1.0 · confidence 1.0 · Strong literary relationship; provenance disputed · [[Extensive Textual And Narrative Parallel in Abraham 2|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong literary relationship; provenance disputed · [[Extensive Textual And Narrative Parallel in Abraham 2|full dossier]]
 
 > [!evidence] Internal Literary Pattern *(tentative)*
 > A recurring pattern organizes much of the chapter: divine speech or providential pressure is followed by Abraham's response in departure, prayer, altar building, or further travel. This pattern supports reading the chapter as a theological migration narrative centered on revelation and response.

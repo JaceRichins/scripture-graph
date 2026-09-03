@@ -104,7 +104,7 @@ The chapter's contrast is deliberately severe: light, harvest joy, liberation, a
 <!-- SG:BEGIN evidence -->
 > [!evidence] Extended Textual Parallel
 > The sustained, sequential correspondence between 2 Nephi 19 and Isaiah 9 is strong evidence of a direct literary relationship or shared textual tradition.
-> — strength 0.8 · confidence 0.9 · existence of dependence near-certain; mechanism unresolved · [[Extended Textual Parallel in 2 Nephi 19|full dossier]]
+> — strength 0.8 · confidence 1.0 · existence of dependence near-certain; mechanism unresolved · [[Extended Textual Parallel in 2 Nephi 19|full dossier]]
 
 > [!evidence] Interpretive/Historical-Critical *(tentative)*
 > Whether the 'child born... upon the throne of David' (vv.6-7) originally referred to a near-term Judean king (commonly proposed: Hezekiah, enthroned in Isaiah's lifetime) or to a future/eschatological Messiah is genuinely disputed; the Christian and Latter-day Saint reading applies it messianically to Jesus Christ, while much Jewish and historical-critical scholarship reads it primarily in its 8th-century royal-court context.

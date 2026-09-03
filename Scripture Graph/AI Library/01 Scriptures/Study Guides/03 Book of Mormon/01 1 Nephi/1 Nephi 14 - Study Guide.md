@@ -129,7 +129,7 @@ The ending also explains why Nephi's apocalypse stops where it does. John is ass
 
 > [!evidence] Internal Attribution
 > Nephi's identification of John supplies an explicit internal explanation for the overlap between his vision and a Johannine apocalypse. Because the identification is made within the Book of Mormon account itself, it is not independent historical corroboration of either authorship claim.
-> — strength 0.3 · confidence 0.9 · internal attribution accepted; external authorship disputed · [[Internal Attribution in 1 Nephi 14|full dossier]]
+> — strength 0.1 · confidence 1.0 · internal attribution accepted; external authorship disputed · [[Internal Attribution in 1 Nephi 14|full dossier]]
 
 > [!evidence] Intertextual / Literary Parallel
 > 1 Nephi 14:11's description of a 'whore' who 'sat upon many waters' echoes Revelation 17:1's description of 'the great whore that sitteth upon many waters,' suggesting the two passages draw on related apocalyptic imagery of a corrupt world-power personified as a woman enthroned on waters.

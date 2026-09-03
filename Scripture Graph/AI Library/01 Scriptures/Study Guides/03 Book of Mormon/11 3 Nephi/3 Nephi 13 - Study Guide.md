@@ -111,7 +111,7 @@ The opening portion uses a threefold pattern for almsgiving, prayer, and fasting
 <!-- SG:BEGIN evidence -->
 > [!evidence] Extended Textual Parallel
 > The sustained agreement in sequence, imagery, and wording between 3 Nephi 13 and Matthew 6 strongly establishes a close literary relationship. Verse 25 also contextualizes the material by inserting an explicit address to the twelve chosen to minister among the Nephites.
-> — strength 0.9 · confidence 1.0 · relationship certain; mechanism disputed · [[Extended Textual Parallel in 3 Nephi 13|full dossier]]
+> — strength 0.8 · confidence 1.0 · relationship certain; mechanism disputed · [[Extended Textual Parallel in 3 Nephi 13|full dossier]]
 
 > [!evidence] Textual Criticism / Translation Phenomenon *(tentative)*
 > The presence of this KJV-matching doxology in 3 Nephi 13:13 is a text-critical data point worth flagging honestly: most New Testament textual critics regard the Matthew 6:13 doxology as a later liturgical addition, absent from the earliest extant Greek manuscripts and from the shorter version of the prayer in Luke 11:2-4. A comparable Old Testament doxological formula does exist ('thine is the kingdom, O LORD... thine is the greatness, and the power, and the glory,' 1 Chronicles 29:11), which the Nephites could plausibly have known from the brass plates, offering a possible ancient liturgical antecedent independent of New Testament transmission history. Neither possibility is established by the chapter itself.

@@ -112,7 +112,7 @@ Repeated year notices compress the narrative and mark its movement across the ni
 
 > [!evidence] Internal Chronological Evidence
 > The coordinated chronological notices are strong internal evidence that this passage deliberately marks a calendrical transition and locates its narrative within multiple remembered eras. They are only weak evidence for the historical reality of those eras because internal chronological consistency can occur in either historical or constructed narratives.
-> — strength 0.6 · confidence 1.0 · Accepted with calibrated significance · [[Internal Chronological Evidence in 3 Nephi 2|full dossier]]
+> — strength 0.1 · confidence 0.9 · Accepted with calibrated significance · [[Internal Chronological Evidence in 3 Nephi 2|full dossier]]
 
 > [!evidence] Narratorial Causal Interpretation
 > The explicit connection between communal iniquity, internal dissension, and military decline is strong evidence for the narrator's theological interpretation of history. It does not demonstrate that every military defeat is divine punishment; internal factionalism also has an ordinary strategic capacity to weaken a society.

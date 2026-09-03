@@ -129,7 +129,7 @@ The unwritable prayer recurs as a motif in [[3 Nephi 19]], and the children's ma
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Collective-Witness Claim
 > As an internal evidentiary feature, the narrative's specification of approximately 2,500 men, women, and children who individually saw and heard is a strong textual claim to public rather than private revelation. Its value as independent historical corroboration is limited because the witnesses are reported within the same narrative rather than preserved in separately identifiable accounts.
-> — strength 0.3 · confidence 1.0 · Accepted internal observation; historical force disputed · [[Internal Collective-Witness Claim in 3 Nephi 17|full dossier]]
+> — strength 0.1 · confidence 0.9 · Accepted internal observation; historical force disputed · [[Internal Collective-Witness Claim in 3 Nephi 17|full dossier]]
 
 > [!evidence] Intertextual Lexical And Narrative Parallel
 > The clustered lists of disabilities and the mass-healing setting in 3 Nephi 17 and Matthew 15 provide substantial evidence of a literary or traditional relationship between the passages.

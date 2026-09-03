@@ -135,7 +135,7 @@ The closing [[Parables of Jesus]] move from recognition to conduct: the fig tree
 <!-- SG:BEGIN evidence -->
 > [!evidence] Historical Corroboration
 > The Roman destruction of the Second Temple in Jerusalem in AD 70 is a well-attested historical event, corroborated by independent ancient historical sources, consistent with the temple-destruction prophecy in vv.2-3 and v.12.
-> — strength 0.8 · confidence 0.9 · historically well-attested, honestly scoped · [[Historical Corroboration in Joseph Smith—Matthew 1|full dossier]]
+> — strength 0.1 · confidence 1.0 · historically well-attested, honestly scoped · [[Historical Corroboration in Joseph Smith—Matthew 1|full dossier]]
 
 > [!evidence] Internal Literary Structure
 > The localized references in verses 12–20 and the explicit transition in verse 21 provide strong internal evidence that the opening tribulation is not presented solely as an undifferentiated description of the final coming.

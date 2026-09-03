@@ -114,7 +114,7 @@ Repetition intensifies the judgment. “Ye shall be broken in pieces” occurs t
 
 > [!evidence] Historical And Chronological Specificity
 > The oracle is historically particular rather than generic: it names Damascus, Samaria, Assyria, Judah, Rezin, and Remaliah's son and attaches the anticipated plunder to a child's early development. This strongly supports reading the source passage against a concrete regional crisis, although the chapter alone does not prove when the prediction was composed or fulfilled.
-> — strength 0.8 · confidence 1.0 · Historical specificity accepted; composition and fulfillment disputed · [[Historical And Chronological Specificity in 2 Nephi 18|full dossier]]
+> — strength 0.8 · confidence 0.9 · Historical specificity accepted; composition and fulfillment disputed · [[Historical And Chronological Specificity in 2 Nephi 18|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

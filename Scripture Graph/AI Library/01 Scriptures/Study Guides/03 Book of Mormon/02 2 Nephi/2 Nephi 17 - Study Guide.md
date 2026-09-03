@@ -114,11 +114,11 @@ The closing oracle is organized by the repeated phrase “in that day” and a s
 <!-- SG:BEGIN evidence -->
 > [!evidence] Extended Textual Parallel
 > Second Nephi 17 and Isaiah 7 share the same sustained narrative, sequence, characters, oracles, and close wording. This establishes a direct literary relationship or shared textual ancestry with very high confidence.
-> — strength 1.0 · confidence 1.0 · Direct literary relationship broadly accepted · [[Extended Textual Parallel in 2 Nephi 17|full dossier]]
+> — strength 0.8 · confidence 1.0 · Direct literary relationship broadly accepted · [[Extended Textual Parallel in 2 Nephi 17|full dossier]]
 
 > [!evidence] Internal Chronological Context
 > The child's development supplies a deadline for the abandonment of the lands ruled by the two hostile kings. This is strong internal evidence that the Immanuel oracle had meaningful relevance to Ahaz's contemporary crisis, even if the passage can also receive a later messianic application.
-> — strength 0.9 · confidence 1.0 · Immediate relevance strongly supported; identity disputed · [[Internal Chronological Context in 2 Nephi 17|full dossier]]
+> — strength 0.8 · confidence 1.0 · Immediate relevance strongly supported; identity disputed · [[Internal Chronological Context in 2 Nephi 17|full dossier]]
 
 > [!evidence] Textual Parallel
 > The extensive verbal overlap between 2 Nephi 17 and Isaiah 7 strongly establishes a direct literary relationship between the chapters. The overlap alone does not determine a complete transmission history or independently establish the antiquity of the Book of Mormon account.

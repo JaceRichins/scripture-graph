@@ -126,7 +126,7 @@ Nephi also exposes the chapter's layered narration: readers receive Nephi's abri
 
 > [!evidence] Historical Synchronism
 > The reference to Zedekiah and the anticipated Babylonian captivity is consistent with the late-Judah political crisis summarized in 2 Kings 24:10-17. This constitutes a coherent historical synchronism within the narrative, but only modest evidence beyond internal plausibility because the same setting is readily available in the Bible.
-> — strength 0.3 · confidence 0.9 · accepted observation / disputed interpretation · [[Historical Synchronism in 1 Nephi 1|full dossier]]
+> — strength 0.1 · confidence 1.0 · accepted observation / disputed interpretation · [[Historical Synchronism in 1 Nephi 1|full dossier]]
 
 > [!evidence] Literary Form / Genre Parallel *(tentative)*
 > Lehi's vision (prayer, heavens opening, God enthroned amid a heavenly host, a commissioning message) follows the recognizable ancient Near Eastern 'prophetic call / throne theophany' pattern also seen in Isaiah 6, Ezekiel 1-2, and 1 Kings 22:19-23.

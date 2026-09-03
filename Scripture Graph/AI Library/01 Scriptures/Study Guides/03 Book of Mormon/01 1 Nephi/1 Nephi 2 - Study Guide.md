@@ -129,7 +129,7 @@ The departure, wilderness journey, sacrifice, and promised land also resemble an
 
 > [!evidence] Geographic Identification
 > The chapter supplies relative geographic information—travel near the Red Sea, three days in the wilderness, and a valley beside a river entering the sea—but no distances, coordinates, travel speed, or uniquely identifying landmarks sufficient by themselves to establish a modern campsite.
-> — strength 0.7 · confidence 0.9 · appropriately modest · [[Geographic Identification in 1 Nephi 2|full dossier]]
+> — strength 0.1 · confidence 0.9 · appropriately modest · [[Geographic Identification in 1 Nephi 2|full dossier]]
 
 > [!evidence] Internal Prophecy-Fulfillment Pattern *(tentative)*
 > The curse language of verses 23-24 — that a rebellious posterity 'shall be a scourge unto thy seed, to stir them up in the ways of remembrance' — reads as a structural prophecy that the Book of Mormon's broader Nephite-Lamanite narrative arc, culminating in the wars recorded near the record's end, can be understood as fulfilling.
