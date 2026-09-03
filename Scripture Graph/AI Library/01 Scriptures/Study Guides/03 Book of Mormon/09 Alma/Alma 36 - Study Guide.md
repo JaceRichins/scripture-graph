@@ -17,22 +17,22 @@ Scripture: [[Alma 36]] · My notes: [[Alma 36 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-Alma addresses Helaman by combining parental counsel with a first-person conversion narrative. He begins with the duty to remember God's deliverance, recounts his movement from rebellion and terror to mercy and joy through Jesus Christ, and then explains how that experience produced sustained [[Missionary Work]]. The chapter closes by returning to deliverance, remembrance, and [[Obedience]].
+Alma addresses Helaman by joining parental counsel to autobiographical testimony. The chapter moves from remembered communal captivity to Alma's inward captivity under sin, then to deliverance through an appeal to Jesus Christ. His restored life becomes a ministry intended to help others taste the same joy. The closing return to ancestry, remembrance, and [[Obedience]] shows that the conversion narrative is the experiential basis for the counsel with which the chapter began.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-A cautious outline is:
+A conservative structural reading identifies both an outer frame and an inner reversal:
 
-1. Counsel to obey, remember, and trust God (vv. 1–3)
-2. The source of Alma's knowledge (vv. 4–5)
-3. Angelic interruption and collapse (vv. 6–11)
-4. Memory of sin and fear of judgment (vv. 12–16)
-5. Remembrance of Christ, appeal for mercy, and joy (vv. 17–22)
-6. Restoration, witness, and labor for others (vv. 23–26)
-7. Personal and ancestral deliverance, followed by renewed counsel (vv. 27–30)
+1. Commandments, remembrance, and trust (vv. 1–3)
+2. Knowledge from God and angelic intervention (vv. 4–11)
+3. Sin remembered; judgment feared (vv. 12–16)
+4. Christ remembered; mercy sought (vv. 17–18)
+5. Pain removed; joy and divine presence desired (vv. 19–22)
+6. Strength restored; spiritual rebirth shared with others (vv. 23–26)
+7. Trust, remembered deliverance, and commandments (vv. 27–30)
 
-The opening and closing sections clearly correspond, and the reversal from pain to joy is central. More elaborate chiastic outlines may be useful for comparison, but their exact pairings should be tested rather than assumed.
+The outer correspondences are especially clear: verses 1 and 30 repeat the prosperity formula; verses 2 and 28–29 concern ancestral captivity; and verses 3 and 27 connect trust with support or deliverance amid affliction. This warrants describing the chapter as broadly concentric. More elaborate chiastic schemes remain interpretations whose individual pairings should be evaluated separately.
 <!-- SG:END structure -->
 
 ## People
@@ -58,7 +58,6 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 - [[Alma 29]] — 2 footnote cross-references (from [[Alma 36#^alma-36-2|Alma 36:2]])
 - [[Alma 5]] — 2 footnote cross-references (from [[Alma 36#^alma-36-4|Alma 36:4]])
 - [[Alma 26]] — 2 footnote cross-references (from [[Alma 36#^alma-36-5|Alma 36:5]])
-- [[Alma 38]] — 5 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
 - [[1 Nephi 1]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-22|Alma 36:22]] ↔ [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
@@ -70,11 +69,11 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Repentance]]
 - [[Atonement of Jesus Christ]]
 - [[Conversion]]
@@ -82,13 +81,16 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 - [[Grace]]
 - [[Missionary Work]]
 - [[Obedience]]
+- [[Final Judgment]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter presents Jesus Christ's atonement as the content Alma remembers when overwhelmed by sin (vv. 17–18). His inward appeal is followed by immediate relief from remembered pain and by joy (vv. 19–21). The account thus closely joins [[Atonement of Jesus Christ]], [[Repentance and Forgiveness]], and [[Conversion]]. It does not offer a complete systematic account of repentance, nor does it say that every conversion must reproduce Alma's dramatic physical or visionary experience.
+The chapter closely joins [[Sin]], [[Final Judgment]], [[Atonement of Jesus Christ]], and [[Repentance and Forgiveness]]. Alma first understands his condition in relation to God's commandments and judgment. Remembered teaching concerning Christ's atonement then makes an appeal for mercy possible, and the appeal is followed by relief, light, and joy (vv. 12–21).
 
-Alma also treats trust as something tested through adversity. His confidence in future deliverance grows from remembered divine action in his own life and in the history of Israel (vv. 27–29), connecting [[Adversity]] with [[Exodus and Deliverance]].
+The account also connects [[Conversion]] with transformed conduct. Alma does not present relief as the story's endpoint: being born of God leads him to labor so that others may repent, taste joy, be born of God, and receive the [[Gift of the Holy Ghost]] (vv. 23–26). This is a powerful narrative pattern, but it is not a claim that every conversion must include paralysis, a vision, or an equally sudden emotional transition.
+
+Trust does not eliminate [[Adversity]]. Alma reports trials, prison, bonds, and danger while affirming divine support and future resurrection (vv. 27–28). In this setting, the promise to prosper is richer than an assurance of uninterrupted material ease.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -121,16 +123,16 @@ Alma also treats trust as something tested through adversity. His confidence in 
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Memory is one of the chapter's organizing ideas. Alma remembers ancestral captivity (v. 2), remembers his sins (vv. 13, 17), remembers his father's teaching about Christ (v. 17), ceases to be harrowed by remembered sins (v. 19), and commands Helaman to retain the ancestors' captivity in remembrance (v. 29). Memory is therefore morally ambivalent: it can intensify guilt, transmit saving testimony, and sustain trust.
+Memory drives both crisis and rescue. Alma remembers ancestral captivity (v. 2), remembers his sins (vv. 13, 17), remembers his father's prophecy about Christ (v. 17), is released from the tormenting memory of sin (v. 19), and directs Helaman to retain captivity in remembrance (v. 29). Memory can therefore accuse, transmit saving testimony, and cultivate trust.
 
-The agricultural verb "harrowed" depicts painful disturbance: Alma's soul is harrowed by sin before he says that this harrowing memory ceased. The text later uses tasting and sweetness for joy, giving the account bodily metaphors for both anguish and redemption.
+The account uses physical and sensory metaphors to make inward experience concrete. Alma is "racked" and "harrowed" by sin; he is surrounded by bitterness and chains; he then sees light, tastes joy, and contrasts exquisite bitterness with exquisite sweetness. The repetition makes redemption an experienced reversal rather than an abstract proposition.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-The sharpest reversal occurs in vv. 17–21. Remembered sin gives way to remembered teaching; bitterness and chains give way to light, sweetness, and joy. Verse 21 makes the contrast explicit by balancing exquisite bitterness against exquisite sweetness. Alma 36:22 then links the account to [[1 Nephi 1]] by explicitly comparing Alma's vision with Lehi's.
+The principal reversal occurs in verses 17–21: memory of sin gives way to memory of Christ; anticipated destruction gives way to mercy; darkness and bitterness give way to light, sweetness, and joy. Verse 21 states the symmetry explicitly by measuring joy against pain.
 
-The chapter also retells [[Mosiah 27]] from a different narrative position. Comparing the accounts can distinguish shared public events from the inward memories and theological interpretation emphasized in Alma's personal testimony.
+Alma 36:22 deliberately links the testimony to [[1 Nephi 1]]. Alma does not merely report a throne vision; he recognizes it as resembling Lehi's. The chapter also invites comparison with [[Mosiah 27]], which narrates the public event, while Alma 36 emphasizes Alma's interior memory, prayer, and theological interpretation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -143,6 +145,10 @@ The chapter also retells [[Mosiah 27]] from a different narrative position. Comp
 > The explicit comparison with Lehi's vision, reinforced by shared throne-and-angels imagery, is strong internal evidence that Alma 36 intentionally recalls the narrative in 1 Nephi 1 and participates in the book's intertextual cohesion.
 > — strength 0.9 · confidence 1.0 · strong explicit internal intertext · [[Explicit Internal Intertext in Alma 36|full dossier]]
 
+> [!evidence] Literary Structure / Secondary Scholarship *(tentative)*
+> Beyond the two verified inclusios, some scholars (e.g., John W. Welch) propose Alma 36 is an extended chiasm with the mercy appeal of v. 18 ('O Jesus, thou Son of God, have mercy on me') at the structural center; commentary such as John White's (followHIM) reading of Alma 36 alongside Psalm 78:38 echoes this centrality claim. The mercy appeal falls a few verses after the chapter's exact numerical midpoint (v. 15/16 of 30 verses), which is broadly consistent with, but not a precise mathematical confirmation of, a 'central turn.'
+> — strength 0.3 · confidence 0.5 · Disputed interpretation with uncorroborated secondary attribution
+
 > [!evidence] Evidence *(tentative)*
 > White interprets mercy in Psalm 78:38 and Alma's appeal for mercy in Alma 36 as occupying structurally central positions in their respective texts.
 > — confidence medium · secondary-claim
@@ -150,12 +156,12 @@ The chapter also retells [[Mosiah 27]] from a different narrative position. Comp
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-Why does the remembered teaching of Alma's father become decisive when the angel's warning alone produces fear? How does Alma's later ministry function as evidence of conversion? What does the chapter's combination of prosperity and continuing affliction suggest about the meaning of 'prosper in the land'? Which proposed chiastic correspondences are established by repeated language, and which depend mainly on broad thematic resemblance?
+Why does the angelic manifestation produce fear, while remembered teaching about Jesus Christ makes hope and prayer possible? What does Alma's continuing experience of affliction imply about the promise to prosper? How do personal deliverance, Israel's exodus, and the departure from Jerusalem interpret one another? Which proposed chiastic pairs depend on distinctive wording, and which depend only on general thematic similarity? Why does Alma treat labor for the conversion of others as the appropriate fruit of his own joy?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-Compare Alma 36:1, 30 with [[2 Nephi 1]] for the prosperity-and-presence formula. Compare Alma 36:3 with [[Alma 38]] for Alma's repeated teaching about trust during affliction. Read [[Mosiah 27]] alongside vv. 6–23 to identify what Alma's retrospective narration adds, especially his remembered sins, recollection of Christ, inward plea, and transition to joy.
+Read [[Mosiah 27]] beside Alma 36:6–23, distinguishing the public sequence from Alma's retrospective account of his interior experience. Compare Alma 36:22 with [[1 Nephi 1]], where Lehi sees God enthroned amid angels. Compare Alma 36:1, 30 with [[2 Nephi 1]] for the prosperity-and-presence formula, and Alma 36:3 with [[Alma 38]] for the repeated teaching about trust under affliction. For the chapter's historical imagery, compare verses 28–29 with the biblical exodus narrative and consider how [[Exodus and Deliverance]] becomes a model for both communal and personal salvation.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
