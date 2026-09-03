@@ -108,7 +108,7 @@ The chapter interweaves compressed genealogy with prophetic episodes. Brief noti
 
 > [!evidence] Internal Narrative Pattern
 > The repeated association of combinations with refusal, power-seeking rebellion, and prophetic rejection is strong internal evidence that the chapter deliberately presents organized secrecy as a systemic cause of Jaredite instability.
-> — strength 0.9 · confidence 0.9 · Strong internal causal pattern; historical scope limited · [[Internal Narrative Pattern in Ether 11|full dossier]]
+> — strength 0.8 · confidence 0.9 · Strong internal causal pattern; historical scope limited · [[Internal Narrative Pattern in Ether 11|full dossier]]
 
 > [!evidence] Internal Narrative Correspondence
 > Within the narrative's own presentation, the correspondence between the announced curse and destruction in verse 6 and the wars, famines, pestilences, and destruction in verse 7 functions as strong literary evidence that the narrator regards the warning as fulfilled. This is evidence about the text's causal and theological framing, not independent verification of the events or their causes.

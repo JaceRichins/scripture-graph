@@ -118,7 +118,7 @@ The repeated first-person formulas “I, God” and “I, the Lord God” give t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Comparative Textual Difference
 > Moses 3 contains explicit material not present in the corresponding Genesis verses, notably the explanation of spiritual creation and the statement that Adam may choose for himself. This establishes that Moses 3 is not merely an exact reproduction of Genesis 2 at these points, while leaving the origin and authority of the expansions open.
-> — strength 0.1 · confidence 1.0 · Differences established; origin disputed · [[Comparative Textual Difference in Moses 3|full dossier]]
+> — confidence 1.0 · Differences established; origin disputed · [[Comparative Textual Difference in Moses 3|full dossier]]
 
 > [!evidence] Textual Relationship
 > Close correspondences in the formation of man, planting of Eden, garden vocation, command concerning the tree, creation of the woman, and one-flesh saying provide strong evidence of a direct literary relationship between Moses 3 and Genesis 2. The correspondences alone do not determine the direction or mechanism of that relationship.

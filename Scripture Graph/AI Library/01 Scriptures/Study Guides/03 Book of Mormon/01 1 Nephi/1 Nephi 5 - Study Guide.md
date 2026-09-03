@@ -123,7 +123,7 @@ A second movement runs from possession to use. Obtaining the plates does not end
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Description
 > The inventory of the brass plates is strong internal evidence that the narrative portrays them as a broad scriptural, historical, prophetic, and genealogical archive rather than as only the five books of Moses.
-> — strength 0.8 · confidence 1.0 · strong internal evidence with proper limits · [[Internal Textual Description in 1 Nephi 5|full dossier]]
+> — confidence 1.0 · strong internal evidence with proper limits · [[Internal Textual Description in 1 Nephi 5|full dossier]]
 
 > [!evidence] Historical Plausibility / Textual Anachronism Question *(tentative)*
 > A family offering burnt sacrifice outside Jerusalem in this period sits in genuine tension with Deuteronomic centralization of sacrifice (Deuteronomy 12), but is also consistent with older patriarchal-era practice (e.g., Abraham, Jacob building altars away from any central sanctuary); the detail cuts both ways as evidence of ancient authenticity.

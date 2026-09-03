@@ -96,7 +96,7 @@ Abraham 5 is closely related to [[Genesis 2]] and [[Moses 3]], yet close compari
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Anthropology
 > Abraham 5:7 is strong internal textual evidence that this account portrays mortal human life as involving both a dust-formed body and a distinguishable spirit. It supports, but does not by itself fully define, a doctrine of premortal human existence.
-> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation, honestly labeled · [[Internal Textual Anthropology in Abraham 5|full dossier]]
+> — confidence 0.9 · accepted observation / disputed interpretation, honestly labeled · [[Internal Textual Anthropology in Abraham 5|full dossier]]
 
 > [!evidence] Textual And Intertextual Comparison
 > The extensive overlap in subject matter, sequence, and wording among Abraham 5, Genesis 2, and Moses 3 strongly establishes a literary relationship among these accounts. Comparison can identify expansions and rearrangements, but textual similarity alone cannot determine the direction of dependence or the historical origin of each formulation.

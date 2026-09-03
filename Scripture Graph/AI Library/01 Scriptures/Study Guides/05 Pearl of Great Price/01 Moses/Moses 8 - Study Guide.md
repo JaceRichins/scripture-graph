@@ -111,7 +111,7 @@ One especially important difference from [[Genesis 6]] concerns grief. Genesis 6
 
 > [!evidence] Internal Textual Convergence
 > The coordinated references to teaching as "in the beginning," continuity with Enoch's Gospel, and named Christian ordinances strongly support the literary conclusion that Moses 8 deliberately frames Noah's ministry as a continuation of the Gospel of Jesus Christ rather than only as a generic warning of disaster.
-> — strength 0.9 · confidence 1.0 · Strong literary conclusion; historical origin disputed · [[Internal Textual Convergence in Moses 8|full dossier]]
+> — confidence 0.9 · Strong literary conclusion; historical origin disputed · [[Internal Textual Convergence in Moses 8|full dossier]]
 
 > [!evidence] Doctrinal-Textual
 > Moses 8:24 depicts Noah, before the Flood, explicitly preaching belief, repentance, baptism 'in the name of Jesus Christ, the Son of God,' and reception of the Holy Ghost -- presenting essentially the same gospel ordinances taught in the New Testament as already preached by an antediluvian patriarch.

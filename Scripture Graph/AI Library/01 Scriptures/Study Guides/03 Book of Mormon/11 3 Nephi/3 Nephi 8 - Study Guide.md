@@ -106,7 +106,7 @@ The chapter develops sharp contrasts: previous signs lead to doubt rather than a
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Prediction-Fulfillment
 > The detailed correspondence between Samuel's prophecy and 3 Nephi 8 strongly supports deliberate prediction-and-fulfillment composition within the Book of Mormon narrative. Because the prophecy and fulfillment are preserved in the same literary work, this correspondence alone is not independent evidence that the events occurred historically or that the prophecy predates them.
-> — strength 0.9 · confidence 1.0 · Strong evidence of internal literary design · [[Internal Prediction-Fulfillment in 3 Nephi 8|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong evidence of internal literary design · [[Internal Prediction-Fulfillment in 3 Nephi 8|full dossier]]
 
 > [!evidence] Internal Geographic Constraints
 > The chapter supplies relative geographic information—named cities, land northward and southward, sea inundation, altered terrain, and differential destruction—but these descriptions are insufficient by themselves to identify a unique modern geography.

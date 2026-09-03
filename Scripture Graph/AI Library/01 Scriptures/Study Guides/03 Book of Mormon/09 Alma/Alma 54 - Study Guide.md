@@ -98,7 +98,7 @@ The paired letters permit a close comparison of rival war narratives. Both write
 
 > [!evidence] Internal Narrative Evidence
 > The separate statements by Moroni and Ammoron that an exchange would conserve food for their own forces are strong internal textual evidence that military logistics drive the negotiation alongside ideological and familial concerns.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence; no external corroboration · [[Internal Narrative Evidence in Alma 54|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong internal evidence; no external corroboration · [[Internal Narrative Evidence in Alma 54|full dossier]]
 
 > [!evidence] Character Complexity *(tentative)*
 > The narrative preserves Moroni's admission of anger together with threats to arm women and children and pursue total destruction. This strongly supports a morally complex literary characterization rather than an entirely sanitized portrait of a favored leader.

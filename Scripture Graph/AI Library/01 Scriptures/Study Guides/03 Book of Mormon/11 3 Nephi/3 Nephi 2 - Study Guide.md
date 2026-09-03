@@ -108,7 +108,7 @@ Repeated year notices compress the narrative and mark its movement across the ni
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Consistency
 > Subtracting the 9 years since the sign of Christ's coming (3 Nephi 2:7-8) from the 609 years since Lehi left Jerusalem (3 Nephi 2:6) yields exactly 600 years from Lehi's departure to Christ's coming, matching the earlier prophecy (1 Nephi 10:4; 1 Nephi 19:8) that this interval would be 600 years.
-> — strength 0.4 · confidence 0.9 · Arithmetic accepted; larger significance limited · [[Internal Textual Consistency in 3 Nephi 2|full dossier]]
+> — confidence 0.9 · Arithmetic accepted; larger significance limited · [[Internal Textual Consistency in 3 Nephi 2|full dossier]]
 
 > [!evidence] Internal Chronological Evidence
 > The coordinated chronological notices are strong internal evidence that this passage deliberately marks a calendrical transition and locates its narrative within multiple remembered eras. They are only weak evidence for the historical reality of those eras because internal chronological consistency can occur in either historical or constructed narratives.

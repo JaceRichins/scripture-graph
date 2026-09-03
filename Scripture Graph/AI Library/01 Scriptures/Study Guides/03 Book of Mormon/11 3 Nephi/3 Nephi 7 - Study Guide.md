@@ -117,7 +117,7 @@ Several contrasts carry the chapter's argument: tribes achieve peace but remain 
 
 > [!evidence] Internal Narrative Testimony
 > The chapter constructs an internal chain of testimony: Nephi is called an eye-witness, the people see and witness miracles, converts publicly signify their experience of divine power, healed people manifest what occurred, and baptism serves as a witness and testimony.
-> — strength 0.5 · confidence 1.0 · Literary pattern accepted; historical force limited · [[Internal Narrative Testimony in 3 Nephi 7|full dossier]]
+> — strength 0.1 · confidence 1.0 · Literary pattern accepted; historical force limited · [[Internal Narrative Testimony in 3 Nephi 7|full dossier]]
 
 > [!evidence] Intertextual/Translation-Idiom *(tentative)*
 > 3 Nephi 7:8 combines two proverbial images of relapse into a single phrase — a dog returning to its vomit, and a washed sow returning to wallow in mire — that in the King James Bible appear only in two separate texts: Proverbs 26:11 (dog/vomit alone) and 2 Peter 2:22 (both images together, in wording very close to the Nephi passage).

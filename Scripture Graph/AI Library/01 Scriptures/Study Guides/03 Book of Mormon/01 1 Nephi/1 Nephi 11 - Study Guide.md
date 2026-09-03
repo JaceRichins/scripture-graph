@@ -116,7 +116,7 @@ The repeated command "Look!" functions as a literary hinge, moving Nephi (and th
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Evidence
 > Because the narrative supplies explicit interpretations for the tree, waters, rod, and building, those identifications are strong evidence for the symbols' intended functions within this chapter. The same internal evidence does not independently verify the vision as a historical event or prove that each symbol has only one possible application.
-> — strength 0.9 · confidence 1.0 · model claim — correctly scoped · [[Internal Textual Evidence in 1 Nephi 11|full dossier]]
+> — confidence 1.0 · model claim — correctly scoped · [[Internal Textual Evidence in 1 Nephi 11|full dossier]]
 
 > [!evidence] Literary/Historical Parallel Argument *(tentative)*
 > Some LDS scholars have argued that the tree-of-life/love-of-God imagery and the intensely visual, symbol-laden style of Lehi's and Nephi's tree visions (1 Nephi 8, 11) plausibly draw on ancient Israelite religious symbolism (e.g., tree/goddess imagery associated with Asherah worship current in the late seventh century BC), which would be consistent with an author steeped in pre-exilic Israelite culture.

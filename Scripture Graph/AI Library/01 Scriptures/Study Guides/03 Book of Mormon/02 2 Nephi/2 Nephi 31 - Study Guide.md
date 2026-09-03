@@ -121,7 +121,7 @@ Nephi's gate-and-path imagery ("the straitness of the path, and the narrowness o
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Argument
 > Within Nephi's argument, Christ's baptism supplies an example-based, a fortiori reason for human baptism: if the holy Lamb was baptized, unholy people have still greater need to be baptized and follow him.
-> — strength 0.8 · confidence 0.9 · well supported internal argument · [[Internal Textual Argument in 2 Nephi 31|full dossier]]
+> — confidence 0.9 · well supported internal argument · [[Internal Textual Argument in 2 Nephi 31|full dossier]]
 
 > [!evidence] Textual Parallel To Nt Salvation Language *(tentative)*
 > The close verbal and thematic parallel between 2 Nephi 31:21 ('none other way nor name given under heaven whereby man can be saved') and Acts 4:12 ('none other name under heaven given among men, whereby we must be saved') is notable given the Book of Mormon's claimed pre-Christian-era authorship and lack of access to New Testament texts.

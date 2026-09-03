@@ -128,7 +128,7 @@ The chapter also introduces the Book of Mormon's two-track [[Records and Sacred 
 
 > [!evidence] Internal Rhetoric And Group Identity
 > Verses 21-24 are strong textual evidence that this account constructs separation from the Lamanites through moralized physical, marital, and social contrasts. They are not evidence that modern racial hierarchies are divinely authorized, nor do they independently verify the narrator's generalizations about the opposing population.
-> — strength 0.8 · confidence 0.9 · disputed passage, best-disciplined treatment available · [[Internal Rhetoric And Group Identity in 2 Nephi 5|full dossier]]
+> — confidence 0.9 · disputed passage, best-disciplined treatment available · [[Internal Rhetoric And Group Identity in 2 Nephi 5|full dossier]]
 
 > [!evidence] Disputed Interpretive/Textual Question *(tentative)*
 > The cursing narrative in vv. 20-25 is among the most debated passages in the Book of Mormon; interpretations range from a traditional literal reading (an actual, divinely caused change in skin pigmentation) to readings favored by a number of contemporary Latter-day Saint scholars that treat 'skin of blackness' and the cursing language as reflecting Nephi's own ancient Near Eastern rhetorical and cultural framework for describing covenant separation and 'othering' of a rival kin-group, rather than a literal, permanent biological or racial claim.

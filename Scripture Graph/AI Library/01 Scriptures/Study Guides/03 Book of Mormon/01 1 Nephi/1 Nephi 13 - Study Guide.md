@@ -128,7 +128,7 @@ The chapter builds through repetition rather than plot: "great and abominable ch
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Assertion
 > The chapter clearly witnesses to the narrator's claim that plain and precious teachings and covenants were withheld or removed. By itself, that assertion is not independent historical evidence identifying particular lost passages, responsible institutions, dates, or manuscript changes.
-> — strength 0.3 · confidence 0.9 · well-calibrated: internal assertion vs external evidence · [[Internal Textual Assertion in 1 Nephi 13|full dossier]]
+> — strength 0.1 · confidence 1.0 · well-calibrated: internal assertion vs external evidence · [[Internal Textual Assertion in 1 Nephi 13|full dossier]]
 
 > [!evidence] Traditional/Homiletic Interpretation *(tentative)*
 > The traditional reading connects the Gentiles who fled "captivity" (v13) to European religious refugees such as the Puritans and Pilgrims, though the text names no specific group.

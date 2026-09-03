@@ -101,7 +101,7 @@ Wine also links the main episode with the campaign summary. It first enables the
 
 > [!evidence] Internal Narrative Evidence
 > The sequence provides strong internal textual evidence that the narrative evaluates Moroni positively for choosing capture and liberation when he possessed an opportunity to kill incapacitated enemies. This establishes the narrator's ethical framing of this episode, not the historical accuracy of the account or the conformity of every action to modern laws of war.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence; broader implications expressly limited · [[Internal Narrative Evidence in Alma 55|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong internal evidence; broader implications expressly limited · [[Internal Narrative Evidence in Alma 55|full dossier]]
 
 > [!evidence] Literary Coherence *(tentative)*
 > The reversal of the wine stratagem—from a successful Nephite operation to failed Lamanite imitations—provides moderate evidence of deliberate literary organization within the chapter. The repetition joins the Gid episode to the subsequent campaign summary through action, imitation, and adaptation.
