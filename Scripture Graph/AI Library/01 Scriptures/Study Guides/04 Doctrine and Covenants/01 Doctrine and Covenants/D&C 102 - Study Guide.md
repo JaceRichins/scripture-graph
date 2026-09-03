@@ -23,7 +23,12 @@ Scripture: [[D&C 102]] · My notes: [[D&C 102 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- **Founding meeting (verses 1–5):** The text records the participants, officers, acceptance of appointments, and vote totals.
+- **Quorum and presidency (verses 6–11):** Seven councilors or successors are required to act; provisions address temporary replacements, permanent vacancies, and who presides during absences.
+- **Presentation of cases (verses 12–18):** Speaking order is numbered, and two, four, or six councilors are appointed according to a case's difficulty. The even-numbered councilors constitute the side assigned to protect the accused, while both accuser and accused may speak for themselves.
+- **Decision and review (verses 19–23):** The president renders a decision for council sanction. A detected error requires rehearing; additional light can alter the decision, while otherwise the first decision stands by majority authority. Revelation may be sought when written guidance is insufficient in a doctrinal case.
+- **Councils abroad and appeals (verses 24–33):** Such councils address especially difficult cases, transmit proceedings and testimony, and permit qualified appeals to the high council at the seat of the First Presidency. The chapter distinguishes these councils from the traveling high council of the Twelve Apostles.
+- **Implementation (verse 34):** The recorded numbered order shows the newly prescribed speaking-order procedure being put into practice before adjournment.
 <!-- SG:END structure -->
 
 ## People
@@ -56,13 +61,16 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]] *(keyword match — unconfirmed)*
+- [[Apostles]]
+- [[Government and Laws]]
+- [[Sustaining Church Leaders]]
+- [[Records and Sacred Writings]]
 - [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Priesthood]] governance as ordered by both authority and procedure. Appointment by revelation appears alongside acknowledgment or sanction by a collective voice (verses 8–10), connecting [[Revelation]] with [[Sustaining Church Leaders]]. The president renders the decision, but councilors vote on it and may identify error requiring rehearing (verses 19–22). This provides participatory review without making the president and councilors equal in their roles. When written guidance is insufficient in a doctrinal case, the president may seek revelation (verse 23). These provisions express institutional ideals of justice and correction, but they do not demonstrate that every historical application was fair or inspired.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -80,25 +88,40 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Terms such as “right,” “privilege,” “evidences,” “equity,” “justice,” “impartially,” “error,” “re-hearing,” and “appeal” give the chapter a strongly juridical register. Its repeated “shall,” “duty,” and “power” distinguish obligations from authorized discretion. “Additional light” in verse 21 functions as a reason to revise a decision, so changing a judgment is presented as a legitimate response to better information rather than necessarily as institutional failure.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The text is a hybrid of minutes and procedural constitution. Historical markers such as “This day,” personal names, vote totals, “Voted,” “Resolved,” and the final adjournment anchor it in a meeting. Generalizing expressions such as “whenever,” “in all cases,” and “according to the foregoing pattern” convert that meeting's decisions into rules for later councils. The closing numbered list mirrors the earlier command to determine speaking order, showing the newly adopted procedure being implemented immediately.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Institutional Textual Pattern
+> The juxtaposition of appointment by revelation with acknowledgment or sanction by a collective voice strongly supports the limited conclusion that this chapter envisions both revelatory and communal elements in church governance.
+> — strength 0.9 · confidence 0.9 · observation accepted; implications qualified · [[Institutional Textual Pattern in D&C 102|full dossier]]
+
+> [!evidence] Internal Textual Evidence
+> The designated advocates for the accused, examination of evidence, direct participation by both parties, impartial review, rehearing for detected error, alteration when additional light appears, written transmission of proceedings, and appellate opportunity strongly support the limited conclusion that fairness, correction, and accountable review are explicit ideals of this prescribed system.
+> — strength 0.9 · confidence 0.9 · strong internal textual evidence · [[Internal Textual Evidence in D&C 102|full dossier]]
+
+> [!evidence] Historical/Institutional Record *(tentative)*
+> As a primary-source record of church organization, D&C 102 evidences deliberate institution-building (named officers, quorum rules, appeal structure, vote tallies) within the first years of the Church, distinct from purely revelatory pronouncement.
+> — strength 0.6 · confidence 0.8 · core inference supported; historical framing qualified
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How do appointment by revelation and acknowledgment by the church's voice function together in verses 8–10? Does acknowledgment provide consent, ratification, accountability, or some combination of these?
+- How should verse 15's right to 'one-half of the council' be read alongside the two/four/six speaker scale in verses 13–14?
+- What counts as 'additional light' sufficient to alter a decision, and what does the rehearing process suggest about correction of institutional error?
+- How does the president's initial decision-making role relate to the council's sanctioning vote and its power to identify error?
+- Why are decisions of councils abroad appealable while decisions of the traveling high council of the Twelve receive different treatment?
+- Which features express enduring principles of [[Justice and Mercy]], and which may belong to this council's particular historical form?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[D&C 102]] with [[D&C 107]], especially their descriptions of standing high councils and the traveling high council. This is an institutional comparison rather than a direct verbal parallel: the verified index identifies no overlapping verses. A focused study might trace authority to convene, representation of the accused, correction of error, appellate limits, and preservation of testimony and decisions through [[Records and Sacred Writings]].
 <!-- SG:END further-study -->
